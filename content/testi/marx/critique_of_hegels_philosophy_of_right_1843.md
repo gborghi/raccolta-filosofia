@@ -1,0 +1,170 @@
+---
+title: "CRITIQUE OF HEGEL’S PHILOSOPHY OF RIGHT, 1843"
+philosopher: "Marx"
+lang: "en"
+edizione: "Delphi Classics"
+traduttore: "Henry James Stenning"
+anno_edizione: 2000
+pd_year: 1900
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/marx"
+---
+
+<div class="atom-reader" data-work="testi/marx/critique_of_hegels_philosophy_of_right_1843" data-philosopher="Marx"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="CRITIQUE OF HEGEL’S PHILOSOPHY OF RIGHT, 1843" data-chapter="" data-kind="intro"></span>
+
+A CRITICISM OF THE HEGELIAN PHILOSOPHY OF RIGHT
+
+As far as Germany is concerned the criticism of religion is practically completed, and the criticism of religion is the basis of all criticism.
+
+The profane existence of error is threatened when its heavenly oratio pro aris et focis has been refuted.
+
+He who has only found a reflexion of himself in the fantastic reality of heaven where he looked for a superman, will no longer be willing to find only the semblance of himself, only the sub-human, where he seeks and ought to find his own reality.
+
+The foundation of the criticism of religion is: Man makes religion, religion does not make man. Religion indeed is man’s self-consciousness and self-estimation while he has not found his feet in the universe. But Man is no abstract being, squatting outside the world. Man is the world of men, the State, society. This State, this society produces religion, which is an inverted world-consciousness, because they are an inverted world. Religion is the general theory of this world, its encyclopædic compendium, its logic in popular form, its spiritualistic Point d’honneur, its enthusiasm, its moral sanction, its solemn complement, its general basis of consolation and justification. It is the fantastic realization of the human being, inasmuch as the human being possesses no true reality. The struggle against religion is therefore indirectly the struggle against that world whose spiritual aroma is religion.
+
+Religious misery is in one mouth the expression of real misery, and in another is a protestation against real misery. Religion is the moan of the oppressed creature, the sentiment of a heartless world, as it is the spirit of spiritless conditions. It is the opium of the people.
+
+The abolition of religion, as the illusory happiness of the people, is the demand for their real happiness. The demand to abandon the illusions about their condition is a demand to abandon a condition which requires illusions. The criticism of religion therefore contains potentially the criticism of the Vale of Tears whose aureole is religion.
+
+Criticism has plucked the imaginary flowers which adorned the chain, not that man should wear his fetters denuded of fanciful embellishment, but that he should throw off the chain, and break the living flower.
+
+The criticism of religion disillusions man, so that he thinks, acts, shapes his reality like the disillusioned man come to his senses, so that he revolves around himself, and thus around his real sun. Religion is but the illusory sun which revolves around man, so long as he does not revolve around himself.
+
+It is therefore the task of history, once the thither side of truth has vanished, to establish the truth of the hither side.
+
+The immediate task of philosophy, when enlisted in the service of history, is to unmask human self-alienation in its unholy shape, now that it has been unmasked in its holy shape. Thus the criticism of heaven transforms itself into the criticism of earth, the criticism of religion into the criticism of right, and the criticism of theology into the criticism of politics.
+
+The following essay — a contribution to this work — is in the first place joined not to the original, but to a copy, to the German philosophy of politics and of right, for no other reason than because it pertains to Germany.
+
+If one should desire to strike a point of contact with the German status quo, albeit in the only appropriate way, which is negatively, the result would ever remain an anachronism. Even the denial of our political present is already a dust-covered fact in the historical lumber room of modern nations. If I deny the powdered wig, I still have to deal with unpowdered wigs. If I deny the German conditions of 1843, I stand, according to French chronology, scarcely in the year 1789, let alone in the focus of the present.
+
+German history flatters itself that it has a movement which no people in the historical heaven have either executed before or will execute after it. We have in point of fact shared in the restoration epoch of modern nations without participating in their revolutions.
+
+We were restored, in the first place, because other nations dared to make a revolution, and, in the second place, because other nations suffered a counter revolution: in the first place, because our masters were afraid, and, in the second place, because they regained their courage.
+
+Led by our shepherds, we suddenly found ourselves in the society of freedom on the day of its interment.
+
+As a school which legitimates the baseness of to-day by the baseness of yesterday, a school which explains every cry of the serf against the knout as rebellious, once the knout becomes a prescriptive, a derivative, a historical knout, a school to which history only shows itself a posteriori, like the God of Israel to his servant Moses, the historical juridical school would have invented German history, were it not itself an invention of German history.
+
+On the other hand, good-humoured enthusiasts, Teutomaniacs by upbringing and freethinkers by reflexion, seek for our history of freedom beyond our history in the Teutonic primeval woods. But in what respect is our freedom history distinguished from the freedom history of the boar, if it is only to be found in the woods? Moreover, as one shouts into the wood, so one’s voice comes back in answer (“As the question, so the answer”). Therefore peace to the Teutonic primeval woods.
+
+But war to German conditions, at all events! They lie below the level of history, they are liable to all criticism, but they remain a subject for criticism just as the criminal who is below the level of humanity remains a subject for the executioner.
+
+Grappling with them, criticism is no passion of the head, it is the head of passion. It is no anatomical knife, it is a weapon. Its object is its enemy, which it will not refute but destroy. For the spirit of the conditions has been refuted. In and for themselves they are no memorable objects, but existences as contemptible as they are despised. Criticism has already settled all accounts with this subject. It no longer figures as an end in itself, but only as a means. Its essential pathos is indignation, its essential work is denunciation.
+
+What we have to do is to describe a series of social spheres, all exercising a somewhat sluggish pressure upon each other, a general state of inactive dejection, a limitation which recognizes itself as much as it misunderstands itself, squeezed within the framework of a governmental system, which, living on the conservation of all meannesses, is itself nothing less than meanness in government.
+
+What a spectacle! On the one hand, the infinitely ramified division of society into the most varied races, which confront each other with small antipathies, bad consciences, and brutal mediocrity, and precisely because of the ambiguous and suspicious positions which they occupy towards each other, such positions being devoid of all real distinctions although coupled with various formalities, are treated by their lords as existences on sufferance. And even more. The fact that they are ruled, governed, and owned they must acknowledge and confess as a favour of heaven! On the other hand, there are those rulers themselves whose greatness is in inverse proportion to their number.
+
+The criticism which addresses itself to this object is criticism in hand-to-hand fighting, and in hand-to-hand fighting, it is not a question of whether the opponent is a noble opponent, of equal birth, or an interesting opponent; it is a question of meeting him. It is thus imperative that the Germans should have no opportunity for self-deception and resignation. The real pressure must be made more oppressive by making men conscious of the pressure, and the disgrace more disgraceful by publishing it.
+
+Every sphere of German society must be described as the partie honteuse of German society, these petrified conditions must be made to dance by singing to them their own melody! The people must be taught to be startled at their own appearance, in order to implant courage into them.
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+And even for modern nations this struggle against the narrow-minded actuality of the German status quo cannot be without interest, for the German status quo represents the frank completion of the ancien régime, and the ancien régime is the concealed defect of the modern State. The struggle against the German political present is the struggle against the past of modern nations, which are still vexed by the recollections of this past. For them it is instructive to see the ancien régime, which enacted its tragedy with them, playing its comedy as the German revenant. Its history was tragic so long as it was the pre-existing power of the world, and freedom, on the other hand, a personal invasion, in a word, so long as it believed and was obliged to believe in its justification. So long as the ancien régime as the existing world order struggled with a nascent world, historical error was on its side, but not personal perversity. Its downfall was therefore tragic.
+
+On the other hand, the present German régime, which is an anachronism, a flagrant contradiction of the generally recognized axiom of the obsolescence of the ancien régime, imagines that it believes in itself, and extorts from the world the same homage. If it believed in its own being, would it seek to hide it under the semblance of an alien being and look for its salvation in hypocrisy and sophistry? The modern ancien régime is merely the comedian of a world order whose real heroes are dead.
+
+History is thorough, and passes through many phases when it bears an old figure to the grave. The last phase of a world historical figure is its comedy. The gods of Greece, once tragically wounded to death in the chained Prometheus of Æschylus, were fated to die a comic death in Lucian’s dialogues. Why does history take this course? In order that mankind may break away in a jolly mood from its past.
+
+In the light of this historical foresight, the political powers of Germany are vindicated. As soon then as the modern politico-social reality is itself subjected to criticism, as soon, therefore, as criticism raises itself to the height of truly human problems, it either finds itself outside the German status quo, or it would delve beneath the latter to find its object.
+
+To take an example! The relation of industry, and of the world of wealth generally, to the political world is one of the chief problems of modern times. Under what form is this problem beginning to engage the attention of Germans? Under the form of protective tariffs, of the system of prohibition, of political economy. Teutomania has passed out of men and gone into matter, and thus one fine day we saw our cotton knights and iron heroes transformed into patriots. Thus in Germany we are beginning to recognize the sovereignty of monopoly at home, in order that it may be invested with sovereignty abroad. We are now beginning in Germany at the point where they are leaving off in France and England.
+
+The old rotten condition, against which these countries are theoretically in revolt, and which they only tolerate as chains are borne, is greeted in Germany as the dawning of a splendid future, which as yet scarcely dares to translate itself from cunning theory into the most ruthless practice. Whereas the problem in France and England reads: Political economy or the rule of society over wealth, it reads in Germany: national economy or the rule of private property over nationality. Thus England and France are faced with the question of abolishing monopoly which has been carried to its highest point; in Germany the question is to carry monopoly to its highest point.
+
+If, therefore, the total German development were not in advance of the political German development, a German could at the most take part in present-day problems only in the same way as a Russian can do so.
+
+But if the individual is not bound by the ties of a nation, the entire nation is even less liberated by the emancipation of an individual. The Scythians made no advance towards Greek culture because Greece numbered a Scythian among her philosophers. Luckily we Germans are no Scythians.
+
+As the old nations lived their previous history in imagination, in mythology, so we Germans live our history to come in thought, in philosophy. We are philosophical contemporaries of the present without being its historical contemporaries. German philosophy is the ideal prolongation of German history. If, therefore, we criticize the œuvres posthumes of our ideal history, philosophy, instead of the œuvres incomplètes of our real history, our criticism occupies a position among the questions of which the present says: that is the question. That which represents the decaying elements of practical life among the progressive nations with modern State conditions first of all becomes critical decay in the philosophical reflexion of these conditions in Germany, where the conditions themselves do not yet exist.
+
+German juridical and political philosophy is the sole element of German history which stands al pari with the official modern present.
+
+The German people must therefore strike this their dream history against their existing conditions, and subject to criticism not only these conditions, but at the same time their abstract continuation.
+
+Their future can neither be confined to the direct denial of their real nor to the direct enforcement of their ideal political and juridical conditions, for they possess the direct denial of their real conditions in their ideal conditions, and the direct enforcement of their ideal conditions they have almost outlived in the opinion of neighbouring nations. Consequently the practical political party in Germany properly demands the negation of philosophy. Its error consists not in the demand, but in sticking to the demand, which seriously it neither does nor can enforce. It believes it can accomplish this negation by turning its back on philosophy, the while its averted head utters a few irritable and banal phrases over it. Moreover, its horizon is so limited as to exclude philosophy from the realm of German actuality unless it imagines philosophy to be implied in German practice and in the theories subserving it. It urges the necessity for linking up with vital forces, but forgets that the real vital force of the German people has hitherto only pullulated under its skull.
+
+In a word: you cannot abolish philosophy without putting it into practice. The same error, only with the factors reversed, is committed by the theoretical party, the political party which founds on philosophy.
+
+The latter perceives in the present struggle only the critical struggle of philosophy with the German world; it does not suspect that all previous philosophy has itself been a part of this world, and is its complement, if an ideal one. While critical towards its opposing party, it behaves uncritically towards itself. It starts from the assumptions of philosophy, but either refuses to carry further the results yielded by philosophy, or claims as the direct outcome of philosophy results and demands which have been culled from another sphere.
+
+We reserve to ourselves a more detailed examination of this party.
+
+Its fundamental defect may be reduced to this: it believes it can enforce philosophy without abolishing it. The criticism of German juridical and political philosophy, which has received through Hegel its most consistent, most ample and most recent shape, is at once both the critical analysis of the modern State and of the actuality which is connected therewith, and in addition the decisive repudiation of the entire previous mode of the German political and juridical consciousness, whose principal and most universal expression, elevated to the level of a science, is speculative jurisprudence itself.
+
+While, on the one hand, speculative jurisprudence, this abstract and exuberant thought-process of the modern State, is possible only in Germany, on the other hand, the German conception of the modern State, making abstraction of real men, was only possible because and in so far as the modern State itself makes abstraction of real men or only satisfies the whole of man in an imaginary manner.
+
+Germans have thought in politics what other peoples have done. Germany was their theoretical conscience. The abstraction and arrogance of her thought always kept an even pace with the one-sidedness and stunted growth of her actuality. If, therefore, the status quo of the German civic community expresses the completion of the ancien régime, the completion of the pile driven into the flesh of the modern State, the status quo of German political science expresses the inadequacy of the modern State, the decay that is set up in its flesh.
+
+As a decisive counterpart of the previous mode of German political consciousness, the criticism of speculative jurisprudence does not run back upon itself, but assumes the shape of problems for whose solution there is only one means: practice.
+
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+
+The question arises: can Germany attain to a practice à la hauteur de principes, that is, to a revolution which will not only raise her to the level of modern nations, but to the human level which will be the immediate future of these nations?
+
+The weapon of criticism cannot in any case replace the criticism of weapons, material force must be overthrown by material force, but theory too becomes a material force as soon as it grasps weapons. Theory is capable of grasping weapons as soon as its argument becomes ad hommine, and its argument becomes ad hominem as soon as it becomes radical. To be radical is to grasp the matter by its root. Now the root for mankind is man himself. The evident proof of the radicalism of German theory, and therefore of its practical energy, is its outcome from the decisive and positive abolition of religion.
+
+The criticism of religion ends with the doctrine that man is the supreme being for mankind, and therefore with the categorical imperative to overthrow all conditions in which man is a degraded, servile, neglected, contemptible being, conditions which cannot be better described than by the exclamation of a Frenchman on the occasion of a projected dog tax: “Poor dogs; they want to treat you like men!”
+
+Even historically, theoretical emancipation has a specifically practical significance for Germany. Germany’s revolutionary past is particularly theoretical, it is the Reformation. Then it was the monk, and now it is the philosopher in whose brain the revolution begins.
+
+Luther vanquished servility based upon devotion, because he replaced it by servility based upon conviction. He shattered faith in authority, because he restored the authority of faith. He transformed parsons into laymen, because he transformed laymen into parsons. He liberated men from outward religiosity, because he made religiosity an inward affair of the heart. He emancipated the body from chains, because he laid chains upon the heart.
+
+But if Protestantism is not the true solution, it was the true formulation of the problem. The question was no longer a struggle between the layman and the parson external to him; it was a struggle with his own inner parson, his parsonic nature. And if the protestant transformation of German laymen into parsons emancipated the lay popes, the princes, together with their clergy, the privileged and the philistines, the philosophic transformation of the parsonic Germans into men will emancipate the people. But little as emancipation stops short of the princes, just as little will the secularization of property stop short of church robbery, which was chiefly set on foot by the hypocritical Prussians. Then the Peasants’ War, the most radical fact of German history, came to grief on the reef of theology. To-day, when theology itself has come to grief, the most servile fact of German history, our status quo, will be shivered on the rock of philosophy.
+
+The day before the Reformation, official Germany was the most abject vassal of Rome. The day before its revolution, it is the abject vassal of less than Rome, of Prussia and Austria, of country squires and philistines.
+
+Meanwhile there seems to be an important obstacle to a radical German revolution.
+
+Revolutions in fact require a passive element, a material foundation.
+
+Theory becomes realized among a people only in so far as it represents the realization of that people’s needs. Will the immense cleavage between the demands of the German intellect and the responses of German actuality now involve a similar cleavage of middle-class society from the State, and from itself? Will theoretical needs merge directly into practical needs? It is not enough that the ideas press towards realization; reality itself must stimulate to thinking.
+
+But Germany did not pass through the middle stages of political emancipation simultaneously with the modern nations. Even the stages which she has overcome theoretically she has not reached practically.
+
+How would she be able to clear with a salto mortale not only her own obstacles, but at the same time the obstacles of modern nations, obstacles which she must actually feel to mean a liberation to be striven for from her real obstacles? A radical revolution can only be the revolution of radical needs, whose preliminary conditions appear to be wholly lacking.
+
+Although Germany has only accompanied the development of nations with the abstract activity of thought, without taking an active part in the real struggles incident to this development, she has, on the other hand, shared in the suffering incident to this development, without sharing in its enjoyments, or their partial satisfaction. Abstract activity on the one side corresponds to abstract suffering on the other side.
+
+Consequently, one fine day Germany will find herself at the level of European decay, before she has ever stood at the level of European emancipation. The phenomenon may be likened to a fetish-worshipper, who succumbs to the diseases of Christianity.
+
+Looking upon German governments, we find that, owing to contemporary conditions, the situation of Germany, the standpoint of German culture and finally their own lucky instincts, they are driven to combine the civilized shortcomings of the modern State world, whose advantages we do not possess, with the barbarous shortcomings of the ancien régime, which we enjoy in full measure, so that Germany is constantly obliged to participate, if not intelligently, at any rate unintelligently, in the State formations which lie beyond her status quo.
+
+Is there for example a country in the world which shares so naïvely in all the illusions of the constitutional community, without sharing in its realities, as does so-called constitutional Germany? Was it necessary to combine German governmental interference, the tortures of the censorship, with the tortures of the French September laws which presupposed freedom of the press? Just as one found the gods of all nations in the Roman pantheon, so will one find the flaws of all State forms in the Holy Roman German Empire. That this eclecticism will reach a point hitherto unsuspected is guaranteed in particular by the politico-æsthetic gourmanderie of a German king, who thinks he can play all the parts of monarchy, both of the feudal and the bureaucratic, both of the absolute and the constitutional, of the autocratic as of the democratic, if not in the person of his people, then in his own person, if not for the people, then for himself. Germany as the embodiment of the defect of the political present, constituted in her own world, will not be able to overthrow the specifically German obstacles without overthrowing the general obstacles of the political present.
+
+It is not the radical revolution which is a utopian dream for Germany, not the general human emancipation, but rather the partial, the merely political revolution, the revolution which leaves the pillars of the house standing. Upon what can a partial, a merely political revolution base itself? Upon the fact that a part of bourgeois society could emancipate itself and attain to general rulership, upon the fact that, by virtue of its special situation, a particular class could undertake the general emancipation of society. This class would liberate the whole of society, but only upon the assumption that the whole of society found itself in the situation of this class, and consequently possessed money and education, for instance, or could acquire them if it liked.
+
+No class in bourgeois society can play this part without setting up a wave of enthusiasm in itself and among the masses, a wave of feeling wherein it would fraternize and commingle with society in general, and would feel and be recognized as society’s general representative, a wave of enthusiasm wherein its claims and rights would be in truth the claims and rights of society itself, wherein it would really be the social head and the social heart. Only in the name of the general rights of society can a particular class vindicate for itself the general rulership.
+
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+
+Revolutionary energy and intellectual self-confidence are not sufficient by themselves to enable a class to attain to this emancipatory position, and thereby exploit politically all social spheres in the interest of its own sphere. In order that the revolution of a people should coincide with the emancipation of a special class of bourgeois society, it is necessary for a class to stand out as a class representing the whole of society. Thus further involves, as its obverse side, the concentration of all the defects of society in another class, and this particular class must be the embodiment of the general social obstacles and impediments. A particular social sphere must be identical with the notorious crime of society as a whole, in such wise that the emancipation of this sphere would appear to be the general self-emancipation. In order that one class should be the class of emancipation par excellence, another class must contrariwise be the class of manifest subjugation. The negative-general significance of the French nobility and the French clergy was the condition of the positive-general significance of the class of the bourgeoisie, which was immediately encroaching upon and confronting the former.
+
+But in Germany every class lacks not only the consistency, the keenness, the courage, the ruthlessness, which might stamp it as the negative representative of society. It lacks equally that breadth of soul which would identify it, if only momentarily, with the popular soul, that quality of genius which animates material power until it becomes political power, that revolutionary boldness which hurls at the opponent the defiant words: I am nothing, and I have to be everything. But the stock-in-trade of German morality and honour, not only as regards individuals but also as regards classes, constitutes rather that modest species of egoism which brings into prominence its own limitations.
+
+The relation of the various spheres of German society is therefore not dramatic, but epic. Each of them begins to be self-conscious and to press its special claims upon the others not when it is itself oppressed, but when the conditions of the time, irrespective of its co-operation, create a sociable foundation from which it can on its part practise oppression. Even the moral self-esteem of the German middle class is only based on the consciousness of being the general representative of the philistine mediocrity of all the other classes.
+
+Consequently it is not only the German kings who succeed to the throne mal à propos, but it is every sphere of bourgeois society which experiences its defeat before it celebrates its victory, develops its own handicaps before it overcomes the handicaps which confront it, asserts its own narrow-minded nature before it can assert its generous nature, so that even the opportunity of playing a great part is always past before it actually existed, and each class, so soon as it embarks on a struggle with the class above it, becomes involved in a struggle with the class below it. Consequently, the princedom finds itself fighting the monarchy, the bureaucrat finds himself fighting the nobility, the bourgeois finds himself fighting them all, while the proletariat is already commencing to fight the bourgeois.
+
+The middle class hardly dares to seize hold of the ideas of emancipation from its own standpoint before the development of social conditions and the progress of political theory declare this standpoint to be antiquated, or at least very problematical. In France partial emancipation is the basis of universal emancipation. In Germany universal emancipation is the conditio sine quâ non of every partial emancipation. In France it is the reality, in Germany it is the impossibility of gradual emancipation which must bring forth entire freedom. In France every popular class is tinged with political idealism, and does not feel primarily as a particular class, but as the representative of social needs generally. The rôle of emancipator, therefore, flits from one class to another of the French people in a dramatic movement, until it eventually reaches the class which will no longer realize social freedom upon the basis of certain conditions lying outside of mankind and yet created by human society, but will rather organize all the conditions of human existence upon the basis of social freedom. In Germany, on the other hand, where practical life is as unintellectual as intellectual life is unpractical, no class of bourgeois society either feels the need or possesses the capacity for emancipation, unless driven thereto by its immediate position, by material necessity, by its chains themselves.
+
+Wherein, therefore, lies the positive possibility of German emancipation?
+
+Answer: In the formation of a class in radical chains, a class which finds itself in bourgeois society, but which is not of it, an order which shall break up all orders, a sphere which possesses a universal character by virtue of its universal suffering, which lays claim to no special right, because no particular wrong but wrong in general is committed upon it, which can no longer invoke a historical title, but only a human title, which stands not in a one-sided antagonism to the consequences, but in a many-sided antagonism to the assumptions of the German community, a sphere finally which cannot emancipate itself without emancipating all the other spheres of society, which represents in a word the complete loss of mankind, and can therefore only redeem itself through the complete redemption of mankind. The dissolution of society reduced to a special order is the proletariat.
+
+The proletariat arises in Germany only with the beginning of the industrial movement; for it is not poverty resulting from natural circumstances but poverty artificially created, not the masses who are held down by the weight of the social system, but the multitude released by the acute break-up of society — especially of the middle class — which gives rise to the proletariat. When the proletariat proclaims the dissolution of the existing order of things it is merely announcing the secret of its own existence, for it is in itself the virtual dissolution of this order of things. When the proletariat desires the negation of private property, it is merely elevating to a general principle of society what it already involuntarily embodies in itself as the negative product of society.
+
+With respect to the nascent world the proletariat finds itself in the same position as the German king occupies with respect to the departed world, when he calls the people his people, just as he calls a horse his horse. In declaring the people to be his private property, the king acknowledges that private property is king.
+
+Just as philosophy finds in the proletariat its material weapons, so the proletariat finds in philosophy its intellectual weapons, and as soon as the lightning of thought has penetrated into the flaccid popular soil, the elevation of Germans into men will be accomplished.
+
+Let us summarize the result at which we have arrived. The only liberation of Germany that is practical or possible is a liberation from the standpoint of the theory that declares man to be the supreme being of mankind. In Germany emancipation from the Middle Ages can only be effected by means of emancipation from the results of a partial freedom from the Middle Ages. In Germany no brand of serfdom can be extirpated without extirpating every kind of serfdom. Fundamental Germany cannot be revolutionized without a revolution in its basis. The emancipation of Germans is the emancipation of mankind. The head of this emancipation is philosophy; its heart is the proletariat. Philosophy cannot be realized without the abolition of the proletariat, the proletariat cannot abolish itself without realizing philosophy.
+
+When all the inner conditions are fulfilled, the German day of resurrection will be announced by the crowing of the Gallic Cock.

@@ -1,0 +1,289 @@
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+configuration:
+  pageTitle: Filosofia — Un Grafo di Conoscenza
+  pageTitleSuffix: ""
+  enableSPA: true
+  enablePopovers: true
+  analytics:
+    provider: goatcounter
+    websiteId: gborghi83
+  locale: it-IT
+  baseUrl: gborghi.github.io/raccolta-filosofia
+  ignorePatterns:
+    - private
+    - templates
+    - .obsidian
+    - Philosophers
+  defaultDateType: modified
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: Damion
+      body: Martel
+      code: IBM Plex Mono
+      subtitle: Josefin Slab
+    colors:
+      lightMode:
+        light: "#FFFDF5"
+        lightgray: "#F3E9BE"
+        gray: "#B8A96B"
+        darkgray: "#3A3A33"
+        dark: "#000000"
+        secondary: "#D90000"
+        tertiary: "#8DB355"
+        highlight: rgba(255, 234, 147, 0.45)
+        textHighlight: "#FFEA93AA"
+      darkMode:
+        light: "#12120E"
+        lightgray: "#2A2A22"
+        gray: "#7C7A5E"
+        darkgray: "#DED9C0"
+        dark: "#FFEA93"
+        secondary: "#D90000"
+        tertiary: "#8DB355"
+        highlight: rgba(255, 234, 147, 0.14)
+        textHighlight: "#D9000088"
+plugins:
+  # ---- transformers ----
+  - source: github:quartz-community/created-modified-date
+    enabled: true
+    options:
+      # git history walk OOMs on ~19k pages — filesystem mtime is enough
+      priority:
+        - frontmatter
+        - filesystem
+    order: 10
+  - source: github:quartz-community/syntax-highlighting
+    enabled: true
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+    order: 20
+  - source: github:quartz-community/obsidian-flavored-markdown
+    enabled: true
+    options:
+      enableInHtmlEmbed: false
+      enableCheckbox: true
+    order: 30
+  - source: github:quartz-community/github-flavored-markdown
+    enabled: true
+    order: 40
+  - source: github:quartz-community/table-of-contents
+    enabled: true
+    order: 50
+  - source: github:quartz-community/crawl-links
+    enabled: true
+    options:
+      markdownLinkResolution: shortest
+    order: 60
+  - source: github:quartz-community/description
+    enabled: true
+    order: 70
+  - source: github:quartz-community/latex
+    enabled: true
+    options:
+      renderEngine: katex
+    order: 80
+  - source: github:quartz-community/citations
+    enabled: false
+    order: 85
+  - source: github:quartz-community/hard-line-breaks
+    enabled: false
+    order: 90
+  - source: github:quartz-community/ox-hugo
+    enabled: false
+    order: 91
+  - source: github:quartz-community/roam
+    enabled: false
+    order: 92
+  - source: github:quartz-community/note-properties
+    enabled: true
+    options:
+      includeAll: false
+      includedProperties:
+        - description
+        - tags
+        - aliases
+      excludedProperties: []
+      # The tag chips are already rendered below the title (Quartz TagList), so the
+      # note-properties table only duplicated them — hide it to avoid the redundant,
+      # char-stacked Properties box on every work page.
+      hidePropertiesView: true
+      delimiters: ---
+      language: yaml
+    order: 5
+    layout:
+      position: beforeBody
+      priority: 15
+      display: all
+  # ---- filters ----
+  - source: github:quartz-community/remove-draft
+    enabled: true
+  - source: github:quartz-community/explicit-publish
+    enabled: false
+  # ---- emitters ----
+  - source: github:quartz-community/alias-redirects
+    enabled: true
+  - source: github:gborghi/content-index
+    enabled: true
+    options:
+      enableSiteMap: true
+      enableRSS: true
+  - source: github:quartz-community/favicon
+    enabled: true
+  # og-image disabled: per-page satori render is far too slow on ~19k notes
+  - source: github:quartz-community/og-image
+    enabled: false
+  # cname disabled: project-pages subpath (gborghi.github.io/<repo>), no custom domain
+  - source: github:quartz-community/cname
+    enabled: false
+  - source: github:quartz-community/canvas-page
+    enabled: true
+  - source: github:quartz-community/bases-page
+    enabled: true
+    options: {}
+    order: 50
+  - source: github:quartz-community/content-page
+    enabled: true
+  - source: github:quartz-community/folder-page
+    enabled: true
+    options:
+      # Folder landing pages (forms, concepts, characters, motifs, …) list entries
+      # alphabetically by title instead of the plugin default (modified-date desc).
+      # The `sort` SortFn is revived from this string by the config loader.
+      sort: '(a, b) => { const af = (a.slug ?? "").endsWith("/index"), bf = (b.slug ?? "").endsWith("/index"); if (af && !bf) return -1; if (!af && bf) return 1; return (a.frontmatter?.title ?? "").localeCompare(b.frontmatter?.title ?? "", undefined, { numeric: true, sensitivity: "base" }); }'
+  - source: github:quartz-community/tag-page
+    enabled: true
+  # ---- layout components ----
+  - source: github:quartz-community/explorer
+    enabled: true
+    options:
+      # Left sidebar shows only the taxonomy folders. Exclude the two huge trees
+      # that previously crushed render/RAM: "testi" (~15k reading units) and
+      # "works" (~2.9k). Keep concepts, motifs, archetypes, characters, forms,
+      # settings, topoi, clusters, historical references, etc. "tags" also hidden.
+      # Passed as a stringified arrow fn: the plugin serializes filterFn via
+      # .toString() and the client rebuilds it with new Function().
+      filterFn: '(node) => node.slugSegment !== "tags" && node.slugSegment !== "testi" && node.slugSegment !== "works" && node.slugSegment !== "404"'
+      folderDefaultState: collapsed
+      folderClickBehavior: link
+    layout:
+      position: left
+      priority: 50
+  - source: github:gborghi/graph
+    enabled: true
+    options:
+      localGraph:
+        maxNodes: 220
+    layout:
+      position: right
+      priority: 10
+  - source: github:quartz-community/search
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
+  - source: github:quartz-community/backlinks
+    enabled: true
+    layout:
+      position: right
+      priority: 30
+  - source: github:quartz-community/article-title
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 10
+  - source: github:quartz-community/content-meta
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 20
+  - source: github:quartz-community/tag-list
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 30
+  - source: github:quartz-community/page-title
+    enabled: true
+    layout:
+      position: left
+      priority: 10
+  - source: github:quartz-community/darkmode
+    enabled: true
+    layout:
+      position: left
+      priority: 30
+      group: toolbar
+  - source: github:quartz-community/reader-mode
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
+  - source: github:quartz-community/breadcrumbs
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 5
+      condition: not-index
+  - source: github:quartz-community/comments
+    enabled: false
+    options:
+      provider: giscus
+      options: {}
+    layout:
+      position: afterBody
+      priority: 10
+  - source: github:quartz-community/footer
+    enabled: true
+    options:
+      links:
+        GitHub: https://github.com/gborghi/raccolta-letteratura-inglese
+        Quartz: https://quartz.jzhao.xyz/
+  - source: github:quartz-community/recent-notes
+    enabled: false
+  - source: github:quartz-community/spacer
+    enabled: true
+    options: {}
+    order: 25
+    layout:
+      position: left
+      priority: 25
+      display: mobile-only
+  - source: github:quartz-community/encrypted-pages
+    enabled: false
+  - source: github:quartz-community/stacked-pages
+    enabled: false
+layout:
+  groups:
+    toolbar:
+      priority: 35
+      direction: row
+      gap: 0.5rem
+  byPageType:
+    "404":
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    content: {}
+    folder:
+      exclude:
+        - reader-mode
+        - tag-list
+      positions:
+        right: []
+    tag:
+      exclude:
+        - reader-mode
+        - tag-list
+      positions:
+        right: []
+    canvas: {}
+    bases: {}
