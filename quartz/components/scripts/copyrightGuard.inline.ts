@@ -1,43 +1,46 @@
 // Copyright guard for in-copyright authors.
 //
-// Nothing is deleted: the full texts and translations stay in the pages and in the
-// search index. While an author is still under copyright we (a) hide the text itself
-// on its page behind a copyright notice, and (b) hide navigation links that point to
-// those text pages. Every check is DATE-DRIVEN against the public-domain year below,
-// so the moment copyright lapses the texts and links reappear automatically with no
-// redeploy.
+// WHAT THIS DOES AND DOES NOT DO — read before trusting it.
 //
-// Each author's EXACT death date. Under the UK/EU term (CDPA 1988 s.12 /
-// Directive 2006/116) copyright runs "to the end of the 70th calendar year after
-// the author dies", so a work enters the public domain on 1 January of
-// (yearOfDeath + 71). We store the death date and derive that instant, so the years
-// are auditable against the death date rather than hand-entered.
-//   T. S. Eliot        — died 4 Jan 1965  → PD 1 Jan 2036
-//   Dorothy L. Sayers  — died 17 Dec 1957 → PD 1 Jan 2028
-const GUARDED: Record<string, { died: string; name: string }> = {
-  eliot: { died: "1965-01-04", name: "T. S. Eliot" },
-  sayers: { died: "1957-12-17", name: "Dorothy L. Sayers" },
+// Nothing is withheld from the build: the full text ships in the page and in the
+// search index, and this script only hides it in the browser. View-source, curl,
+// JS disabled or the search index all still reach it. This is a NOTICE, not an
+// access control. It is a deliberate choice, matching the sibling English site.
+// If a text must genuinely not ship, it has to be dropped in preprocess.mjs —
+// the emitter is the only real gate.
+//
+// Every check is DATE-DRIVEN, so the moment the term lapses the text reappears by
+// itself, with no redeploy and no code change.
+//
+// The term is per-author because it is NOT the same everywhere, and getting it
+// from a single hardcoded constant is how you end up with an inert guard:
+//   Ortega y Gasset — died 18 Oct 1955, Spain. The EU default of 70 years would
+//   put him in the public domain in 2026 (i.e. now — the guard would be a no-op).
+//   But Spain's transitional rule (TRLPI, disp. trans. 4ª) keeps authors who died
+//   before 7 Dec 1987 under a term of 80 years. Spain is the work's country of
+//   origin, and 80 is the prudent read: PD on 1 Jan 2036.
+const GUARDED: Record<string, { died: string; term: number; name: string }> = {
+  ortega: { died: "1955-10-18", term: 80, name: "José Ortega y Gasset" },
 }
 
-// 1 Jan of (deathYear + 71): the exact moment the work is public domain.
-function pdDate(died: string): Date {
-  return new Date(parseInt(died.slice(0, 4), 10) + 71, 0, 1)
+// 1 Jan of (deathYear + term + 1): the term runs to the END of the Nth calendar
+// year after death, so the work is free on the first day of the year after that.
+function pdDate(a: { died: string; term: number }): Date {
+  return new Date(pdYear(a), 0, 1)
 }
-function pdYear(died: string): number {
-  return parseInt(died.slice(0, 4), 10) + 71
+function pdYear(a: { died: string; term: number }): number {
+  return parseInt(a.died.slice(0, 4), 10) + a.term + 1
 }
-
-// Headings on a work note whose section body reproduces (or links to) the text.
-const TEXT_HEADINGS = /testo integrale|full text|testo \/ text|parti \/ parts|capitoli \/ chapters/i
 
 function activeAuthors(): string[] {
   const now = new Date()
-  return Object.keys(GUARDED).filter((a) => now < pdDate(GUARDED[a].died))
+  return Object.keys(GUARDED).filter((a) => now < pdDate(GUARDED[a]))
 }
 
 function notice(author: string): HTMLElement {
-  const { name, died } = GUARDED[author]
-  const year = pdYear(died)
+  const entry = GUARDED[author]
+  const name = entry.name
+  const year = pdYear(entry)
   const el = document.createElement("div")
   el.className = "cr-guard"
   el.setAttribute("role", "note")
@@ -54,41 +57,19 @@ function notice(author: string): HTMLElement {
   return el
 }
 
-// Hide a heading element and every following sibling up to (not including) the next
-// heading of level H1/H2. Returns the elements hidden (so we can restore on expiry —
-// though in practice a page load past the PD year simply never hides them).
-function hideSection(heading: HTMLElement): void {
-  const els: HTMLElement[] = [heading]
-  let sib = heading.nextElementSibling
-  while (sib && !/^H[12]$/.test(sib.tagName)) {
-    els.push(sib as HTMLElement)
-    sib = sib.nextElementSibling
-  }
-  for (const e of els) e.style.display = "none"
-}
-
-// Work note (e.g. /works/gerontion-(eliot)): hide the text-bearing sections, keep the
-// metadata (byline, abstract, connections). Drop one copyright notice in their place.
-function guardWorkNote(article: HTMLElement, author: string): void {
-  if (article.querySelector(":scope > .cr-guard")) return
-  const heads = Array.from(article.querySelectorAll("h1, h2")) as HTMLElement[]
-  let first: HTMLElement | null = null
-  for (const h of heads) {
-    if (TEXT_HEADINGS.test(h.textContent || "")) {
-      if (!first) first = h
-      hideSection(h)
-    }
-  }
-  if (first) article.insertBefore(notice(author), first)
-}
-
-// Full-text page (/testi/<author>/...): hide the text, keep the breadcrumb / prev-next
-// nav so the reader can still move around. Drop the notice where the text was.
-function guardTextPage(article: HTMLElement, author: string): void {
+// Reading page (/testi/<philosopher>/<work>): hide the text, keep the abstract.
+//
+// This is where the English original does NOT port over. There, a work note and its
+// text live on separate pages, so the guard hides one and leaves the other. Here the
+// work page IS the SPA reading page: the atoms are inline behind the `.atom-reader`
+// mount. Hiding "everything" would leave a blank page, so the abstract — which we
+// wrote ourselves and which is therefore ours to publish — is what stays.
+function guardReadingPage(article: HTMLElement, author: string): void {
   if (article.querySelector(":scope > .cr-guard")) return
   let anchor: Element | null = null
   for (const child of Array.from(article.children)) {
-    if (child.matches("nav.excerpt-nav")) {
+    // The abstract callout and the page title survive; the text does not.
+    if (child.matches(".callout, h1")) {
       anchor = child
       continue
     }
@@ -96,19 +77,7 @@ function guardTextPage(article: HTMLElement, author: string): void {
   }
   const note = notice(author)
   if (anchor && anchor.nextSibling) article.insertBefore(note, anchor.nextSibling)
-  else article.appendChild(note)
-}
-
-// Hide navigation links that point to a guarded /testi/<author>/ text page (brani
-// table rows, direct links, …). Hide the enclosing <li>/<tr> when there is one so we
-// don't leave an empty bullet or table cell; otherwise neutralise the anchor.
-function hideGuardedLinks(root: Document | HTMLElement, rx: RegExp): void {
-  root.querySelectorAll("a[href]").forEach((a) => {
-    if (!rx.test(a.getAttribute("href") || "")) return
-    const box = (a.closest("li, tr") as HTMLElement) || (a as HTMLElement)
-    box.style.display = "none"
-    box.classList.add("cr-link-hidden")
-  })
+  else article.insertBefore(note, article.firstChild)
 }
 
 let observer: MutationObserver | null = null
@@ -124,37 +93,29 @@ function apply(): void {
   const article =
     (document.querySelector("article") as HTMLElement | null) ||
     (document.querySelector(".center") as HTMLElement | null)
+  if (!article) return
 
-  // 1) guard the page that carries this author's text
-  if (article) {
-    for (const a of active) {
-      if (slug.startsWith(`testi/${a}/`)) {
-        guardTextPage(article, a)
-        break
-      }
-      if (slug.endsWith(`(${a})`)) {
-        guardWorkNote(article, a)
-        break
-      }
-    }
-  }
+  const author = active.find((a) => slug.startsWith(`testi/${a}/`))
+  if (!author) return
 
-  // 2) hide links to any guarded text page, wherever they appear (incl. the
-  //    client-rendered brani table — re-run on mutations until it settles)
-  const rx = new RegExp(`(^|/)testi/(${active.join("|")})/`)
-  hideGuardedLinks(document, rx)
-  if (article) {
-    let queued = false
-    observer = new MutationObserver(() => {
-      if (queued) return
-      queued = true
-      requestAnimationFrame(() => {
-        queued = false
-        hideGuardedLinks(document, rx)
-      })
+  guardReadingPage(article, author)
+
+  // atomRouter renders the reader asynchronously and replaces the pane on every
+  // atom change: a one-shot pass would be undone by the first render. Links to the
+  // work stay visible on purpose — the reader is meant to land here and find the
+  // abstract plus the notice, rather than find nothing at all.
+  let queued = false
+  observer = new MutationObserver(() => {
+    if (queued) return
+    queued = true
+    requestAnimationFrame(() => {
+      queued = false
+      const reader = article.querySelector(".atom-reader") as HTMLElement | null
+      if (reader) reader.style.display = "none"
     })
-    observer.observe(article, { childList: true, subtree: true })
-  }
+  })
+  observer.observe(article, { childList: true, subtree: true })
 }
 
 document.addEventListener("nav", apply)
+apply()
