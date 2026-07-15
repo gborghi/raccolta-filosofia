@@ -701,7 +701,13 @@ async function main() {
   // Il nome sta nell'HTML SOTTO la carta, non stampato nell'immagine: i modelli
   // d'immagine sbagliano le lettere (Recraft ha prodotto "RARX" e poi "MAXX"
   // per Marx), e cosi' il nome resta selezionabile, cercabile e traducibile.
+  // La chiave e' il nome della cartella in VaultPhilosophy/Philosophers/, che a
+  // sua volta viene da Source.name: cambiare l'uno senza l'altro fa sparire il
+  // filosofo dalla scrivania (vedi il controllo su noEmblem qui sotto).
   const EMBLEM = {
+    Plato: "plato",
+    Aristotle: "aristotle",
+    Aquinas: "aquinas",
     Seneca: "seneca",
     Lucretius: "lucretius",
     Pascal: "pascal",
@@ -715,6 +721,14 @@ async function main() {
     Nietzsche: "nietzsche",
     "Ortega y Gasset": "ortega",
   }
+  // Un filosofo senza emblema sparisce dalla scrivania senza un errore: la home
+  // mostra una carta in meno e nient'altro. E' successo, quindi lo si dice.
+  const noEmblem = Object.keys(philCounts).filter((p) => !EMBLEM[p])
+  if (noEmblem.length)
+    console.log(
+      `ATTENZIONE: nessun emblema per ${noEmblem.join(", ")} — assenti dalla scrivania in home`,
+    )
+
   const deskCards = Object.keys(philCounts)
     .sort((a, b) => philCounts[b] - philCounts[a] || a.localeCompare(b))
     .filter((p) => EMBLEM[p])
