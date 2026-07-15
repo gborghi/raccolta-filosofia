@@ -7,7 +7,10 @@
   margin: 2rem 0 3rem;
   padding: clamp(1rem, 4vw, 3rem);
   border-radius: 10px;
-  background-image: url("../static/emblems/desk.webp");
+  // Path relativo al CSS EMESSO (/<base>/index.css), non a questo file sorgente.
+  // `../static/...` risolverebbe fuori dal subpath del project page e darebbe 404
+  // in produzione pur funzionando in locale alla radice.
+  background-image: url("static/emblems/desk.webp");
   background-size: cover;
   background-position: center;
   box-shadow:
