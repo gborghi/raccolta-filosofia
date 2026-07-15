@@ -336,13 +336,18 @@ async function main() {
   // name is therefore NOT a reliable work key. Every atom's frontmatter carries the
   // untruncated canonical key in `work:`, matching the _raw basename exactly — group
   // atoms by that field, never by the (possibly-truncated) directory name.
-  const workAtoms = new Map() // canonical workKey -> { philosopher, atoms: [{data,body}] }
+  const workAtoms = new Map() // canonical workKey -> { philosopher, atoms: [{data,body,itBody}] }
   let truncatedDirs = 0
+  let itAtoms = 0
   for (const philosopher of philosophers) {
     const atomizedDir = path.join(PHIL_DIR, philosopher, "Atomized")
     if (!existsSync(atomizedDir)) continue
     const files = await walkMd(atomizedDir)
     for (const f of files) {
+      // `<atom>.it.md` is the translation sibling, not an atom of its own: it is
+      // paired onto its source below. Walking it as an atom would publish the
+      // Italian twice and give it a bogus atom_n.
+      if (f.endsWith(".it.md")) continue
       const raw = await fs.readFile(f, "utf8")
       const { data, content } = parseFrontmatter(raw)
       const dirKey = path.basename(path.dirname(f))
@@ -350,12 +355,25 @@ async function main() {
       if (data.work && data.work !== dirKey) truncatedDirs++
       if (!workAtoms.has(workKey))
         workAtoms.set(workKey, { philosopher: data.philosopher || philosopher, atoms: [] })
-      workAtoms.get(workKey).atoms.push({ data, body: content })
+
+      // Pair the translation by filename. Unlike English — where one prose block
+      // recurs across fragment, chapter and full-work pages, forcing a
+      // content-addressed sha(en)->it cache — an atom appears exactly once in its
+      // work's SPA page, so the sibling file IS the translation. No block matching,
+      // hence no block-count mismatch silently dropping a whole page.
+      let itBody = null
+      const itPath = f.slice(0, -3) + ".it.md"
+      if (existsSync(itPath)) {
+        itBody = parseFrontmatter(await fs.readFile(itPath, "utf8")).content
+        itAtoms++
+      }
+      workAtoms.get(workKey).atoms.push({ data, body: content, itBody })
     }
   }
   for (const w of workAtoms.values())
     w.atoms.sort((a, b) => (a.data.atom_n ?? 0) - (b.data.atom_n ?? 0))
   if (truncatedDirs) console.log(`note: ${truncatedDirs} atoms live under a truncated directory name (resolved via frontmatter "work:")`)
+  console.log(`traduzioni: ${itAtoms} atomi con sibling .it.md`)
 
   // ---- emit SPA reading pages (testi/<philosopher>/<work>.md) ----------------
   const works = [] // index.json records
@@ -409,18 +427,44 @@ async function main() {
       else if (group.length > 1) label = `${atomTitleRaw} (${group.indexOf(a) + 1}/${group.length})`
       else label = atomTitleRaw
 
+      const H1_RE = /^([ \t]*\r?\n)*[ \t]*#[ \t]+(.+?)[ \t]*\r?\n/
+
       let body = a.body
       // drop the leading "# <atom_title>" H1 (data-title carries it; avoids a
       // duplicate heading inside the reading pane)
-      const h1m = body.match(/^([ \t]*\r?\n)*[ \t]*#[ \t]+(.+?)[ \t]*\r?\n/)
-      if (h1m && (!atomTitleRaw || h1m[2].trim() === atomTitleRaw)) body = body.slice(h1m[0].length)
+      const h1m = body.match(H1_RE)
+      const droppedH1 = Boolean(h1m && (!atomTitleRaw || h1m[2].trim() === atomTitleRaw))
+      if (droppedH1) body = body.slice(h1m[0].length)
+      // scripts/link/run.py ha scritto i wikilink nel vault (dove servono al
+      // grafo di Obsidian); qui diventano link del sito. Gli atomi puntano solo
+      // a id del vocabolario, che `idHref` conosce gia' tutti: `workHrefByKey`,
+      // ancora incompleto a questo punto del ciclo, non viene interrogato.
+      body = rewriteLinks(body)
       body = body.trim()
       totalWords += countWords(body)
+      // EN only: the word count measures the work, and mixing Italian into the
+      // TF-IDF sample would let translation artefacts outrank the source's terms.
       kwTextParts.push(body)
+
+      let itBody = a.itBody
+      if (itBody) {
+        // Mirror the source's H1 handling rather than re-testing the title: the
+        // Italian H1 is translated, so it never equals atom_title and a repeat of
+        // the EN test would always keep it — leaving a heading on the IT side that
+        // the EN side doesn't have.
+        if (droppedH1) itBody = itBody.replace(H1_RE, "")
+        itBody = rewriteLinks(itBody)
+        itBody = itBody.trim()
+      }
 
       blocks.push(
         `\n\n<span class="atom-split" data-atom="${esc(atomId)}" data-title="${esc(label)}" data-chapter="${esc(chapter)}" data-kind="${isIntro ? "intro" : "atom"}"></span>\n\n` +
-          body,
+          body +
+          // atomRouter partitions on this marker and only shows the .ar-lang
+          // switch when at least one atom carries an IT half.
+          (itBody
+            ? `\n\n<span class="qlang-split" data-lang="it"></span>\n\n` + itBody
+            : ""),
       )
     }
 
