@@ -1,0 +1,81 @@
+name: Deploy Quartz site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Restore Quartz plugins
+        # v5: community plugins live in .quartz/ (gitignored) and are restored from
+        # quartz.lock.json — each is cloned, installed and built. `npx quartz build`
+        # does NOT do this itself.
+        run: npx quartz plugin restore
+
+      - name: Build Quartz
+        # CI does NOT run preprocess.mjs: it reads VaultPhilosophy/, which is not in
+        # this repo. content/ is committed already regenerated — see README.
+        run: npx quartz build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=14336"
+
+      - name: Build mobile search index
+        # Derives the light contentIndexMobile.json from the built full index.
+        run: node scripts/make-mobile-index.mjs
+
+      - name: Compress desktop search index
+        # Replaces each page's text with a snippet + top TF-IDF terms. Must run AFTER
+        # the mobile derivation, which needs the full text.
+        run: node scripts/compress-search-index.mjs
+        env:
+          NODE_OPTIONS: "--max-old-space-size=8192"
+
+      - name: Check the Cloudflare/Pages file cap
+        # The SPA gate is what keeps this under the cap: one reading page per work
+        # instead of one per atom. 9320 atoms as pages would blow it. If this ever
+        # fails, the gate broke — do not raise the limit.
+        run: |
+          n=$(find public -type f | wc -l)
+          echo "file emessi: $n"
+          if [ "$n" -gt 18000 ]; then
+            echo "::error::$n file: troppo vicino al cap di ~20k. Il gate SPA e' rotto."
+            exit 1
+          fi
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
