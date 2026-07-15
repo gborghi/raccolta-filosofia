@@ -12,6 +12,11 @@ tags:
   - "philosopher/pascal"
 ---
 
+> [!abstract]
+> A fragmentary appendix to the Provincial Letters: notes on probabilism, on miracles as a mark of the true religion, and on the Jesuits' persecution of Port-Royal.
+
+<p class="work-source">Traduzione di George Pearce · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/pascal/thoughts_on_the_jesuits_and_the_jansenists" data-philosopher="Pascal"></div>
 
 
@@ -21,13 +26,13 @@ THE FOLLOWING SECTION, in which we have collected a multitude of fragments and n
 
 The greater number of these fragments are extracted from the autograph MS. It was with a feeling of the liveliest curiosity that we traced, for the first time, these sketches of thought heretofore almost unknown; — these hasty suggestions and first inspirations of genius, soon about to be incorporated in the master-piece of our literature. Faithful to our design of preserving, with a religious care, the very minutest relic of this great mind, we have not scrupled, in the following pages, to present to the reader even the most rudimental of these sketches.
 
-These notes possess, further, an historical interest; inasmuch as they prove that Pascal, in writing those letters, was not, as has been pretended by some, the mere instrument for carrying out the conceptions of others. They prove with what care he studied for himself the doctrines which he denounced: they sound in our ears, as it were, the first cries of his offended conscience against their enormities. The members of Port Royal, — especially Arnauld, — assisted him in his researches, made useful suggestions, and furnished some materials; and therefore it is that we find, among the fragments, a page of quotations in Arnauld’s hand-writing, with annotations by Pascal. But if the latter found, in his communions with Port Royal, the occasion for his great work, and was supplied there with some of the documents that hé needed, his eloquence was the fruit of his own deep convictions, no less than of his immortal powers. (French Editor.)
+These notes possess, further, an historical interest; inasmuch as they prove that Pascal, in writing those letters, was not, as has been pretended by some, the mere instrument for carrying out the conceptions of others. They prove with what care he studied for himself the doctrines which he denounced: they sound in our ears, as it were, the first cries of his offended conscience against their enormities. The members of Port Royal, — especially [Arnauld](/schools/jansenism), — assisted him in his researches, made useful suggestions, and furnished some materials; and therefore it is that we find, among the fragments, a page of quotations in Arnauld’s hand-writing, with annotations by Pascal. But if the latter found, in his communions with Port Royal, the occasion for his great work, and was supplied there with some of the documents that hé needed, his eloquence was the fruit of his own deep convictions, no less than of his immortal powers. (French Editor.)
 
 The interesting remarks before cited almost supersede those topics, in reference to the papers now about to be furnished, which might have suggested themselves to the mind of the Translator. We seem, indeed, by means of these notes, and yet more, perhaps, by the copious section which follows, entitled, “Thoughts and Notes for the Provincials,” brought into the workshop, or (if the figure be more appropriate) the laboratory of the mind; and admitted to the secret processes by which the materials of a great work are collected, and moulded into form and symmetry.
 
-These collections furnish, also, a striking proof of the extent to which Pascal was accustomed to meditate upon the subjects on which his mind was engaged, up to the period when it kindled into elaborate composition. It is, at the same time, pleasing to consider, that his habit of committing to paper even the most imperfect of these reflections, has, (as was before remarked,) in some degree, compensated for the inability for more lengthened writing, which his increasing infirmities progressively induced.
+These collections furnish, also, a striking proof of the extent to which Pascal was accustomed to meditate upon the subjects on which his mind was engaged, up to the period when it kindled into elaborate composition. It is, at the same time, pleasing to consider, that his [habit](/concepts/custom) of committing to paper even the most imperfect of these reflections, has, (as was before remarked,) in some degree, compensated for the inability for more lengthened writing, which his increasing infirmities progressively induced.
 
-We see here also an instance of the large amount of labour and care which this eminent writer bestowed upon his more finished compositions. It is by such means, indeed, and such only, that the master-pieces of literature have, at all times, been produced. There have been some gifted minds, which have, more than others, possessed the power of mental elaboration of their great conceptions, before they were given forth to the world; and their first thoughts have therefore required little subsequent improvement. Others, whether from inclination, habit, or an inaptitude for a continuous meditation, have produced their ideas — as the painter dashes off a hasty sketch — in a less digested state; and the perfection afterwards attained has been the result only of multiplied revisions. But, by whatever methods those fine compositions have been achieved, deep thought, and persevering labour, (however sedulously disguised, and unseen,) are the law of their production; and none who seek exemption from such law must ever hope for literary eminence. Whether by the silent process of meditation, or by often repeated correction, (the requisite mental power for the production of a great work being presupposed,) the minuter graces of composition have ever to he supplied, — the finer touches, the softer shades, and the richer hues, to be worked in, — before it can be a candidate for general approval, and, still less, aspire to the suffrages of posterity. Time should be allowed, that the fondness for a first conception may subside; the rudeness of hasty thought must be redressed; the luxuriances of fancy pruned, redundancies corrected, harshness of diction softened down, expression heightened to brilliancy and point. It is needless to repeat here the numberless transcriptions to which, it is well known, the finest passages of Pascal’s writings were subjected; for practices such as these, are, more or less, common to every great writer; nor is the labour ever intermitted, until the whole composition is brought into a state of purity and grace; and the high demands of taste and judgment are fully satisfied.
+We see here also an instance of the large amount of labour and care which this eminent writer bestowed upon his more finished compositions. It is by such means, indeed, and such only, that the master-pieces of literature have, at all times, been produced. There have been some gifted minds, which have, more than others, possessed the power of mental elaboration of their great conceptions, before they were given forth to the world; and their first thoughts have therefore required little subsequent improvement. Others, whether from inclination, habit, or an inaptitude for a continuous meditation, have produced their ideas — as the painter dashes off a hasty sketch — in a less digested state; and the perfection afterwards attained has been the result only of multiplied revisions. But, by whatever methods those fine compositions have been achieved, deep thought, and persevering labour, (however sedulously disguised, and unseen,) are the law of their production; and none who seek exemption from such law must ever hope for literary eminence. Whether by the silent process of meditation, or by often repeated correction, (the requisite mental power for the production of a great work being presupposed,) the minuter graces of composition have ever to he supplied, — the finer touches, the softer shades, and the richer hues, to be worked in, — before it can be a candidate for general approval, and, still less, aspire to the suffrages of posterity. Time should be allowed, that the fondness for a first conception may subside; the rudeness of hasty thought must be redressed; the luxuriances of fancy pruned, redundancies corrected, harshness of diction softened down, expression heightened to brilliancy and point. It is needless to repeat here the numberless transcriptions to which, it is well known, the finest passages of Pascal’s writings were subjected; for practices such as these, are, more or less, common to every great writer; nor is the labour ever intermitted, until the whole composition is brought into a state of purity and [grace](/concepts/grace); and the high demands of taste and judgment are fully satisfied.
 
 If there have been, indeed, exceptions to these rules, they have been found in those rare instances in which the affluence of the mind, and prodigality of the imaginative powers, have poured out their purer ore with so exhaustless an abundance, that mankind have, on that account, been willing to forgive its large mixture of debasing alloy. Yet who has not desired that even a Shakspere had been able, or disposed, to submit many portions of his immortal effusions to revision, at a period when judgment was more chastised, while feeling and imagination remained uncooled?
 
@@ -215,7 +220,7 @@ XXXII. + “Probability” is necessary for other maxims, such as those respecti
 
 — + “Probability” avails little without corrupt means, and means are nothing without “ probability.”
 
-— + There is a satisfaction in the power and in the knowledge to do good; “ scire et posse grace and probability contribute to this satisfaction, for we may feel ourselves accountable to God, while we place reliance in their authorities.
+— + There is a satisfaction in the power and in the knowledge to do good; “ scire et posse [grace](/concepts/grace) and probability contribute to this satisfaction, for we may feel ourselves accountable to God, while we place reliance in their authorities.
 
 <span class="atom-split" data-atom="014" data-title="XXXIII. + But is it probable that probability can satisfy?" data-chapter="XXXIII. + But is it probable that probability can satisfy?" data-kind="atom"></span>
 
@@ -245,7 +250,7 @@ XL. + The whole body of their casuists cannot succeed in satisfying the conscien
 
 XLI. + As the two leading objects of the church are, the building up the piety of the faithful, and the conversion of heretics, we axe the more afflicted at the conspiracy which prevails in the present day for introducing errors, of all others, the most calculated to preclude the return of heretics into her bosom, and fatally to corrupt the few remaining pious and catholic members of our communion! The assaults at this time so openly made upon the great truths of religion, and such as are the most vital to our salvation, fill us not only with grief, but with alarm and dismay: because, independently of the resentment which all Christians should feel at these disorders, we are under especial obligation to seek remedies for them, and to employ the authority which God has committed to us, to see that the people entrusted to our charge, &c., &c.
 
-XLII. + As the tranquillity of the state is chiefly to be valued for preserving in safety the possessions and privileges of the people, so the tranquillity of the church serves for securing the truth, which is her possession, the treasure nearest to her heart. And as no state ought to suffer, without opposition, the ravages of an enemy in her borders, from a mistaken unwillingness to interrupt tranquillity; and peace is only just and valuable when it serves the purpose of securing our privileges; — it becomes unjust, and pernicious, when it leaves them exposed; and a war that is undertaken for their defence, is righteous and necessary. In the same way, when truth is violated, by the enemies of the faith seeking to undermine it in the hearts of believers, and to replace it with errors; — would it then be to serve the church, or to betray her, to remain in peace? Is it not, I ask, plain, that, as it is sinful to disturb peace, when truth is in the ascendant, it is equally so to continue in peace, when truth is subverted? There is a time when peace is fitting, and a time when it is unfitting. It is written, “There is a time for peace, and a time for war and it is for the interests of truth, duly to discern that time. But there is not a time for truth, and a time for error: on the contrary, it is written, that the truth of God remains ever sure; and therefore it is, that Christ, while he says he is come to give peace, says also, he is come to bring war into the world. But he says not that he is come to bring both truth and falsehood. Truth is then the first principle, and the great end of all things.
+XLII. + As the tranquillity of [the state](/concepts/state) is chiefly to be valued for preserving in safety the possessions and privileges of the people, so the tranquillity of the church serves for securing the truth, which is her possession, the treasure nearest to her heart. And as no state ought to suffer, without opposition, the ravages of an enemy in her borders, from a mistaken unwillingness to interrupt tranquillity; and peace is only just and valuable when it serves the purpose of securing our privileges; — it becomes unjust, and pernicious, when it leaves them exposed; and a war that is undertaken for their defence, is righteous and necessary. In the same way, when truth is violated, by the enemies of the faith seeking to undermine it in the hearts of believers, and to replace it with errors; — would it then be to serve the church, or to betray her, to remain in peace? Is it not, I ask, plain, that, as it is sinful to disturb peace, when truth is in the ascendant, it is equally so to continue in peace, when truth is subverted? There is a time when peace is fitting, and a time when it is unfitting. It is written, “There is a time for peace, and a time for war and it is for the interests of truth, duly to discern that time. But there is not a time for truth, and a time for error: on the contrary, it is written, that the truth of God remains ever sure; and therefore it is, that Christ, while he says he is come to give peace, says also, he is come to bring war into the world. But he says not that he is come to bring both truth and falsehood. Truth is then the first principle, and the great end of all things.
 
 <span class="atom-split" data-atom="016" data-title="XLIII. + Those who have written such things in Latin, speak them in French." data-chapter="XLIII. + Those who have written such things in Latin, speak them in French." data-kind="atom"></span>
 
@@ -283,7 +288,7 @@ The obduracy of the Jesuits surpasses, then, that of the Jews, for they only con
 
 — + When they upbraid your obliquities, they are heretics.
 
-— + When they say the grace of Christ separates his people, they are heretics.
+— + When they say the [grace](/concepts/grace) of Christ separates his people, they are heretics.
 
 — + If they perform miracles, it is a proof of heresy.
 
@@ -357,7 +362,7 @@ LIII. + These are the results of the sin, both of the people and of the Jesuits:
 
 <span class="atom-split" data-atom="022" data-title="LVI. + Policy." data-chapter="LVI. + Policy." data-kind="atom"></span>
 
-+ We have found two obstacles in our endeavour to give men comfort: — the one, the internal rules of the Gospel; the other, the external laws of the state and of religion. Of the one, we are masters; with the other, this is the way we have dealt. “amplienda, restringenda, à majori ad minus.”
++ We have found two obstacles in our endeavour to give men comfort: — the one, the internal rules of the Gospel; the other, the external laws of [the state](/concepts/state) and of religion. Of the one, we are masters; with the other, this is the way we have dealt. “amplienda, restringenda, à majori ad minus.”
 
 Junior.
 
@@ -397,7 +402,7 @@ LXII. + Truth is so obscured, and falsehood so rampant, in the present day, that
 
 LXIII. + If there was ever a period when we are justified in professing two opposite principles, it is when we are reproached with omitting one of them. The Jesuits and the Jansenists then are wrong in concealing them; but the Jansenists are the most so, for the Jesuits have succeeded best in professing both.
 
-LXIV. + The five propositions condemned — no miracle in that, for truth was not attacked. But the Sorbonne, — the Bull....
+LXIV. + The five propositions condemned — no [miracle](/concepts/miracle) in that, for truth was not attacked. But the Sorbonne, — the Bull....
 
 LXV. — + It is impossible that those who love God with their whole heart can undervalue the church, so strong are her evidences.
 
@@ -437,7 +442,7 @@ Because you regard me as a mere individual, but yourselves as — Imago. [Allusi
 
 — + Two supernatural foundations of our faith, which is wholly supernatural; the one visible, the other invisible.
 
-— + Miracles with grace, miracles without grace.
+— + Miracles with [grace](/concepts/grace), miracles without grace.
 
 — + The synagogue, which has been regarded with satisfaction as a figure of the church, and with dislike as being nothing more than a figure, has been restored, being ready to fall when it was an object of Divine favour, and yet only a figure.
 
@@ -447,7 +452,7 @@ Miracles prove the power of God over the heart, by that which he exercises over 
 
 — + Miracles the support of religion. They distinguished the Jews from other nations; and now they, in the same way, distinguish the Christians, saints, the innocent in life, true believers.
 
-— A miracle among schismatics is not a thing to fear; for the schism, which is more palpable even than the miracle, plainly marks their error. But when there is no schism, and the error is the question in dispute, then the miracle makes the distinction.
+— A [miracle](/concepts/miracle) among schismatics is not a thing to fear; for the schism, which is more palpable even than the miracle, plainly marks their error. But when there is no schism, and the error is the question in dispute, then the miracle makes the distinction.
 
 — + Judith. God makes himself heard at last in the midst of these later oppressions.
 
@@ -457,7 +462,7 @@ Miracles prove the power of God over the heart, by that which he exercises over 
 
 — + O, could a miracle be wrought upon the Jesuits!
 
-— + When a miracle disappoints the expectations of those among whom it is wrought, and there is a disproportion between the state of their faith and the efficacy of the miracle, then a change must be made. But with you it is otherwise: there would be as good reason to say that if the Eucharist raised a body from death, you must become a Calvinist, as remain a Catholic.
+— + When a miracle disappoints the expectations of those among whom it is wrought, and there is a disproportion between [the state](/concepts/state) of their faith and the efficacy of the miracle, then a change must be made. But with you it is otherwise: there would be as good reason to say that if the Eucharist raised a body from death, you must become a Calvinist, as remain a Catholic.
 
 + But when it fulfils their expectation, and those who were looking for the blessing of God upon the remedies, find themselves cured without the use of remedies...
 

@@ -12,6 +12,11 @@ tags:
   - "philosopher/pascal"
 ---
 
+> [!abstract]
+> A youthful treatise on projective geometry and conic sections, generalising the mystic-hexagram theorem (later known as Pascal's theorem). Purely mathematical content, with no philosophical or religious content.
+
+<p class="work-source">Traduzione di Frances Marguerite Clarke · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/pascal/essay_on_conics_1639" data-philosopher="Pascal"></div>
 
 
@@ -63,8 +68,62 @@ To find two diameters that meet in a given angle.
 
 To find two diameters cutting at a given angle and having a given ratio.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prima definizione
+
+Quando più rette si incontrano nello stesso punto, oppure sono parallele fra loro, tutte queste rette si dicono dello stesso ordine o della stessa ordinanza, e la totalità di queste rette si chiama un ordine di rette, o un'ordinanza di rette. [Questa definizione è tratta quasi alla lettera da DESARGUES. Si vedano le note dell'edizione BRUNSCHVICG e BOUTROUX, t. I, Parigi, 1908. La presente traduzione è condotta sul facsimile dell'originale riportato in questa edizione, e si riconosce qui l'aiuto fornito da queste note nel determinare il significato di vari passi. Va inoltre detto che il testo di questa edizione è in netto contrasto con quello imperfetto riportato nell'edizione parigina del 1819.]
+
+Definizione II
+
+Con l'espressione "sezione conica" intendiamo il cerchio, l'ellisse, l'iperbole, la parabola, e un angolo; poiché un cono tagliato parallelamente alla sua base, oppure attraverso il suo vertice, oppure nelle altre tre direzioni che producono rispettivamente un'ellisse, un'iperbole e una parabola, produce nella superficie conica, o la circonferenza di un cerchio, o un angolo, o un'ellisse, un'iperbole, o una parabola.
+
+Definizione III
+
+Con la parola "droite" (retta) usata da sola, intendiamo "ligne droite" (linea retta).
+
+[In questa traduzione, la parola "line", che indica un segmento di retta, viene usata per rendere "droite".]
+
+Lemma I
+
+Se nel piano M, S, Q, si tracciano dal punto M due rette MK, MV, e dal punto S due rette SK, SV; e se K è il punto di intersezione delle rette MK, SK; V il punto di intersezione delle rette MV, SV; A il punto di intersezione delle rette MA, SA; e μ il punto di intersezione delle rette MV, SK; e se per due dei quattro punti A, K, μ, V, che non possono giacere sulla stessa retta dei punti M, S, e anche per i punti K, V, passa un cerchio che taglia le rette MV, MP, SV, SK nei punti O, P, Q, N, allora dico che le rette MS, NO, PQ sono dello stesso ordine.
+
+Lemma II
+
+Se per la stessa retta si fanno passare più piani, e questi vengono tagliati da un altro piano, tutte le rette di intersezione di questi piani sono dello stesso ordine della retta per cui questi piani passano.
+
+Sulla base di questi due lemmi e di alcune facili deduzioni da essi, possiamo dimostrare che, ammesse le stesse cose ammesse per il primo lemma, cioè che per i punti K, V passi una qualsiasi sezione conica che taglia le rette MK, MV, SK, SV nei punti P, O, N, Q, allora le rette MS, NO, PQ saranno dello stesso ordine. Questo costituisce un terzo lemma. [Ciò riguarda il cosiddetto "Esagramma Mistico", il duale del Teorema di Brianchon. Pascal non enunciò il teorema dell'esagramma nella forma comunemente riportata nei manuali.]
+
+Per mezzo di questi tre lemmi e di alcune deduzioni da essi, ci proponiamo di ricavare una sequenza ordinata completa di coniche, [.. des éléments coniques complets] vale a dire, tutte le proprietà dei diametri e delle altre rette, [... et côtés droits] delle tangenti, ecc., la costruzione del cono a partire sostanzialmente da questi dati, la descrizione delle sezioni coniche per punti, ecc.
+
+Fatto ciò, enunceremo le proprietà che seguono, facendolo in modo più generale del consueto. Si prenda ad esempio quanto segue: se nel piano MSQ, nella conica PKV, si tracciano le rette AK, AV, che tagliano la conica nei punti P, K, Q, V; e se da due di questi quattro punti, che non giacciono sulla stessa retta del punto A — diciamo i punti K, V — e per due punti N, O, presi sulla conica, si conducono quattro rette KN, KO, VN, VO, che tagliano le rette AV, AP nei punti L, M, T, S — allora sostengo che la proporzione composta dai rapporti della retta PM alla retta MA, e della retta AS alla retta SQ, è la stessa della proporzione composta dal rapporto della retta PL alla retta LA, e della retta AT alla retta TQ.
+
+Possiamo anche dimostrare che, se vi sono tre rette DE, DG, DH tagliate dalle rette AP, AR nei punti F, G, H, C, y, B, e se il punto E è fissato sulla retta DC, la proporzione composta dai rapporti del rettangolo EF.FG al rettangolo EC.Cy, e della retta Ay alla retta AG, è la stessa del rapporto del rettangolo EF.FH al rettangolo EC.CB, e della retta AB alla retta AH. Lo stesso vale anche rispetto al rapporto del rettangolo FE.FD al rettangolo CE.CD. Di conseguenza, se una sezione conica passa per i punti E, D, tagliando le rette AH, AB nei punti P, K, R, ψ, la proporzione composta dal rapporto del rettangolo delle rette EF, FC, al rettangolo delle rette EC, Cγ, e della retta γA alla retta AG, sarà la stessa del rapporto del rettangolo delle rette FK, FP, al rettangolo delle rette CR, Cψ, e del rettangolo delle rette AR, Αψ, al rettangolo delle rette AK, AP.
+
+Possiamo anche mostrare che, se quattro rette AC, AF, EH, EL si intersecano nei punti N, P, M, O, e se una sezione conica taglia queste rette nei punti C, B, F, D, H, G, L, K, la proporzione costituita dai rapporti del rettangolo MC.MB al rettangolo PF.PD, e del rettangolo AD.AF al rettangolo AB.AC, è la stessa della proporzione composta dai rapporti del rettangolo ML.MK al rettangolo PH.PG, e del rettangolo EH.EG al rettangolo EK.EL.
+
+Possiamo anche dimostrare una proprietà enunciata qui sotto, dovuta al signor DESARGUES di Lione, uno dei grandi geni di questo tempo e assai versato in matematica, in particolare nelle coniche, i cui scritti su questo argomento, per quanto pochi di numero, danno abbondante prova della sua conoscenza a chi ne cerchi informazione. Vorrei dire che devo il poco che ho trovato su questo argomento ai suoi scritti, e che ho cercato di imitarne il metodo, per quanto possibile, con cui egli ha trattato l'argomento senza far uso del triangolo passante per l'asse.
+
+Dando un trattamento generale delle sezioni coniche, ecco la notevole proprietà in discussione: se nel piano MSQ vi è una sezione conica PQN, sulla quale si prendono quattro punti K, N, O, V da cui si tracciano le rette KN, KO, VN, VO, in modo tale che per gli stessi quattro punti possano passare solo due rette, e se un'altra retta taglia la conica nei punti R, ψ, e le rette KN, KO, VN, VO, nei punti X, Y, Z, δ, allora come il rettangolo ZR.Zψ sta al rettangolo γR.γψ, così il rettangolo δR.δφ sta al rettangolo XR.Xψ.
+
+Possiamo anche dimostrare che, se nel piano dell'iperbole, dell'ellisse, o del cerchio AGE il cui centro è C, si traccia la retta AB tangente alla sezione in A, e se, tracciato il diametro, prendiamo la retta AB tale che il suo quadrato sia uguale al quadrato della figura, [Affinché il quadrato del segmento AB, che è uguale a DE + DF, sia uguale a un quarto del rettangolo circoscritto, la conica deve essere un cerchio. Se la conica è un'ellisse, AB sarà preso uguale all'asse perpendicolare a CA. DESARGUES trattò questioni analoghe nel suo Brouillon Projet (Œuvres de DESARGUES, I, p. 202 e p. 284).] e se si traccia CB, allora qualunque retta come DE, parallela alla retta AB e che taglia la sezione in E, e le rette AC, CB nei punti D, F, allora se la sezione AGE è un'ellisse o un cerchio, la somma dei quadrati delle rette DE, DF sarà uguale al quadrato della retta AB; e nell'iperbole, la differenza fra gli stessi quadrati delle rette DE, DF sarà uguale al quadrato della retta AB.
+
+Possiamo anche dedurre [da ciò] vari problemi; per esempio:
+
+Da un dato punto tracciare una tangente a una data sezione conica.
+
+Trovare due diametri che si incontrino secondo un dato angolo.
+
+Trovare due diametri che si taglino secondo un dato angolo e abbiano un dato rapporto.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
 
 There are many other problems and theorems, and many deductions which can be made from what has been stated above, but the distrust which I have, due to my little experience and capacity, does not allow me to go further into the subject until it has passed the examination of able men who may be willing to take this trouble. After that if someone thinks the subject worth continuing, I shall endeavor to extend it as far as God gives me the strength.
 
 At Paris, M.DC.XL.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Vi sono molti altri problemi e teoremi, e molte deduzioni che si possono trarre da quanto sopra esposto, ma la diffidenza che nutro, a causa della mia scarsa esperienza e capacità, non mi permette di addentrarmi oltre nell'argomento finché esso non sia passato al vaglio di uomini capaci che vogliano prendersi questa cura. Dopo di ciò, se qualcuno riterrà l'argomento degno di essere proseguito, mi sforzerò di estenderlo per quanto Dio mi darà la forza.
+
+A Parigi, M.DC.XL.

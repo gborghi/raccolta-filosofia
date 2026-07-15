@@ -12,6 +12,11 @@ tags:
   - "philosopher/pascal"
 ---
 
+> [!abstract]
+> Preparatory notes and drafts for the Provincial Letters: raw material on Jesuit casuistry and the controversy over grace, prior to its final literary elaboration.
+
+<p class="work-source">Traduzione di George Pearce · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/pascal/thoughts_and_notes_for_the_provincial_letters" data-philosopher="Pascal"></div>
 
 
@@ -59,7 +64,7 @@ There are various ways of proceeding. St. Ignacius took one; and now others are 
 
 Not that the general rule was not to conform to the institutes; for they might be abused. Few would be found able, like ourselves, to bear elevation without vanity.
 
-— Two obstacles, — the Gospel, and the laws of the state. “A majori ad minus.” Junior.
+— Two obstacles, — the Gospel, and the laws of [the state](/concepts/state). “A majori ad minus.” Junior.
 
 — The Jansenists bear the penalty.
 
@@ -263,7 +268,7 @@ To examine the motives of the censure by the phenomena.
 
 To form an hypothesis which should serve to...
 
-— The habit forms the doctrine.
+— The [habit](/concepts/custom) forms the doctrine.
 
 — You confess multitudes who confess only once a year. (Erased.)
 
@@ -271,7 +276,7 @@ To form an hypothesis which should serve to...
 
 — When we are so hardened as to have lost all remorse, we do not., — ..[Two words illegible.] (Erased.)
 
-You persecute M. Arnaud [Pascal’s habit was to write Arnaud, instead of Arnauld.] then, without remorse. (Erased.)
+You persecute M. Arnaud [Pascal’s habit was to write Arnaud, instead of [Arnauld](/schools/jansenism).] then, without remorse. (Erased.)
 
 — I suspect this doctrine, for it appears to me too mild for the malignity which they impart to me.
 
@@ -297,7 +302,7 @@ I supposed we might be condemned for having never had good thoughts; but to beli
 
 — There is only one who speaks the truth.
 
-— However little inconvenience it may cause, they produce from it more grace, for they dispose of it as of their own.
+— However little inconvenience it may cause, they produce from it more [grace](/concepts/grace), for they dispose of it as of their own.
 
 — For every several occasion! a distinct species of grace, — grace for the great, grace for the commonalty. (Erased.)
 
@@ -437,7 +442,7 @@ To justify, rather than confess it as a crime, “haec tunc hominem concludit pr
 
 — Am I alone against thirty thousand? No. Do you keep possession of the court, and entrench yourselves in imposture: my support be truth! There is all my strength: if I lose that, I am lost indeed! I shall have no lack of charges, and persecution. But truth is on my side; and we will see which of us shall prevail!
 
-I am an unworthy defender of religion; but you are also unworthy defenders of error and injustice. May God, in his mercy, disregarding what is evil in me, and looking complacently upon what is good in you, grant us both his grace, that truth may not suffer in my hands, and that falsehood may not..............................[These words finish page 398 in the MS. The sentence was doubtless continued on another page, which is lost.]
+I am an unworthy defender of religion; but you are also unworthy defenders of error and injustice. May God, in his mercy, disregarding what is evil in me, and looking complacently upon what is good in you, grant us both his [grace](/concepts/grace), that truth may not suffer in my hands, and that falsehood may not..............................[These words finish page 398 in the MS. The sentence was doubtless continued on another page, which is lost.]
 
 <span class="atom-split" data-atom="016" data-title="VII." data-chapter="VII." data-kind="atom"></span>
 

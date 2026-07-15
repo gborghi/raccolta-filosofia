@@ -12,6 +12,11 @@ tags:
   - "philosopher/marx"
 ---
 
+> [!abstract]
+> Eleven terse theses against Feuerbach's contemplative materialism: truth is proved in practice, not contemplation, and 'philosophers have only interpreted the world in various ways; the point, however, is to change it'.
+
+<p class="work-source">Traduzione di Carl Manchester · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/marx/theses_on_feuerbach_1845" data-philosopher="Marx"></div>
 
 
@@ -21,7 +26,7 @@ Translated by Carl Manchester
 
 I
 
-The main deficiency, up to now, in all materialism – including that of Feuerbach – is that the external object, reality and sensibility are conceived only in the form of the object and of our contemplation of it, rather than as sensuous human activity and as practice – as something non-subjective. For this reason, the active aspect has been developed by idealism, in opposition to materialism, though only abstractly, since idealism naturally does not know real, sensuous activity as such. Feuerbach wants sensuous objects, clearly distinguished from mental objects, but he does not conceive human activity in terms of subject and object. That is why, in The Essence of Christianity, he regards only theoretical activity as authentically human, whilst practice is conceived and defined only in its dirty Jewish manifestation. He therefore does not understand the meaning of “revolutionary”, of practical-critical activity.
+The main deficiency, up to now, in all [materialism](/positions/materialism) – including that of [Feuerbach](/figures/feuerbach) – is that the external object, reality and sensibility are conceived only in the form of the object and of our contemplation of it, rather than as sensuous human activity and as practice – as something non-subjective. For this reason, the active aspect has been developed by [idealism](/positions/idealism), in opposition to materialism, though only abstractly, since idealism naturally does not know real, sensuous activity as such. Feuerbach wants sensuous objects, clearly distinguished from mental objects, but he does not conceive human activity in terms of subject and object. That is why, in The Essence of Christianity, he regards only theoretical activity as authentically human, whilst practice is conceived and defined only in its dirty Jewish manifestation. He therefore does not understand the meaning of “revolutionary”, of practical-critical activity.
 
 II
 

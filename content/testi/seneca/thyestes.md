@@ -12,6 +12,11 @@ tags:
   - "philosopher/seneca"
 ---
 
+> [!abstract]
+> Tragedy on the cannibalistic feast Atreus imposes on his brother Thyestes: the Fury unleashes a self-perpetuating chain of crimes, showing the unstoppable spiral of anger and revenge.
+
+<p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/seneca/thyestes" data-philosopher="Seneca"></div>
 
 
@@ -37,7 +42,7 @@ THE SCENE is laid partly without the city of Argos, and partly within the royal 
 
 Pelops, the son of Tantalus, had banished his sons for the murder of their half-brother, Chrysippus, with a curse upon them, that they and their posterity might perish by each others’ hands. Upon the death of Pelops, Atreus returned and took possession of his father’s throne. Thyestes, also, claimed the throne, and sought to gain it by the foulest means. For he seduced his brother’s wife, Aërope, and stole by her assistance the magical, gold-fleeced ram from Atreus’ flocks, upon the possession of which the right to rule was said to rest. For this act he was banished by the king.
 
-But Atreus has long been meditating a more complete revenge upon his brother; and now in pretended friendship has recalled him from banishment, offering him a place beside himself upon the throne, that thus he may have Thyestes entirely in his power.
+But Atreus has long been meditating a more complete revenge upon his brother; and now in pretended [friendship](/concepts/friendship) has recalled him from banishment, offering him a place beside himself upon the throne, that thus he may have Thyestes entirely in his power.
 
 <span class="atom-split" data-atom="003" data-title="THYESTES (1/8)" data-chapter="THYESTES" data-kind="atom"></span>
 
@@ -103,7 +108,7 @@ ATTENDANT
 
 ATREUS
 
-[214] Where only right to a monarch is allowed, sovereignty is held on sufferance.
+[214] Where only right to a monarch is allowed, [sovereignty](/positions/sovereignty) is held on sufferance.
 
 ATTENDANT
 
@@ -255,7 +260,7 @@ CHORUS
 
 [339] What madness pricks you on to shed by turns each others’ blood, and by crime to gain the throne? Ye know not, for high place greedy, wherein true kingship lies. A king neither riches makes, nor robes of Tyrian hue, nor crown upon the royal brow, nor doors with gold bright-gleaming; a king is he who has laid fear aside and the base longings of an evil heart; whom ambition unrestrained and the fickle favour of the reckless mob move not, neither all the mined treasures of the West nor the golden sands which Tagus sweeps along in his shining bed, nor all the grain trod out on burning Libya’s threshing-floors; whom no hurtling path of the slanting thunderbolt will shake, nor Eurus, harrying the sea, nor wind-swept Adriatic’s swell, raging with cruel wave; whom no warrior’s lance nor bare steel ever mastered; who, in safety ‘stablished, sees all things beneath his feet, goes gladly to meet his fate nor grieves to die.
 
-[369] Though kings should gather themselves together, both they who vex the scattered Scythians and they who dwell upon the Red Sea’s marge, who hold wide sway o’er the blood-red main with its gleaming pearls, they who leave unguarded the Caspian heights to the bold Sarmatians; though he strive against him, who dares on foot to tread the Danube’s waves and (whersoe’er they dwell,) the Serians for fleeces famous – ’tis the upright mind that holds true sovereignty. He has no need of horses, none of arms and the coward weapons which the Parthian hurls from far when he feigns flight, no need of engines hurling rocks, stationed to batter cities to the ground. A king is he who has no fear; a king is he who shall naught desire. Such kingdom on himself each man bestows.
+[369] Though kings should gather themselves together, both they who vex the scattered Scythians and they who dwell upon the Red Sea’s marge, who hold wide sway o’er the blood-red main with its gleaming pearls, they who leave unguarded the Caspian heights to the bold Sarmatians; though he strive against him, who dares on foot to tread the Danube’s waves and (whersoe’er they dwell,) the Serians for fleeces famous – ’tis the upright mind that holds true [sovereignty](/positions/sovereignty). He has no need of horses, none of arms and the coward weapons which the Parthian hurls from far when he feigns flight, no need of engines hurling rocks, stationed to batter cities to the ground. A king is he who has no fear; a king is he who shall naught desire. Such kingdom on himself each man bestows.
 
 [391] Let him stand who will, in pride of power, on empire’s slippery height; let me be filled with sweet repose; in humble station fixed, let me enjoy untroubled ease, and, to my fellow citizens unknown, let my life’s stream flow in silence. So when my days have passed noiselessly away, lowly may I die and full of years. On him does death lie heavily, who, but too well known to all, dies to himself unknown.
 
@@ -367,7 +372,7 @@ ATREUS
 
 THYESTES
 
-[512] I might excuse all my deeds wert thou not such as this. But I confess, Atreus, I confess that I have done all that thou believedst of me. Most foul has thy love to-day made my case appear. Sinful indeed is he who has been proved sinful toward so good a brother. My tears must plead for me; thou art he first to see me suppliant. These hands, which have never touched man’s feet, beseech thee: put away all thy wrath and let swollen anger pass from thy heart and be forgot. As pledge of my faith, O brother, take these guiltless boys.
+[512] I might excuse all my deeds wert thou not such as this. But I confess, Atreus, I confess that I have done all that thou believedst of me. Most foul has thy love to-day made my case appear. Sinful indeed is he who has been proved sinful toward so good a brother. My tears must plead for me; thou art he first to see me suppliant. These hands, which have never touched man’s feet, beseech thee: put away all thy wrath and let swollen [anger](/concepts/anger) pass from thy heart and be forgot. As pledge of my faith, O brother, take these guiltless boys.
 
 ATREUS
 
@@ -415,7 +420,7 @@ ATREUS
 
 CHORUS
 
-[546] Such things are past belief. Atreus, there, the fierce and savage, reckless of soul and cruel, at sight of his brother stood as one amazed. There is now power stronger than true love; angry strife ‘twixt strangers doth endure, but whom true love has bound ‘twill bind for ever. When wreath, by great causes roused, has burst friendship’s bonds and sounded alarms of war; when fleet squadrons with ringing bridles come; when the brandished sword gleams now here, now there, which the mad god of war, thirsting for fresh-flowing blood, wields with a rain of blows, – then will Love stay the steel, and lead men, even against their will, to the clasped hands of Peace.
+[546] Such things are past belief. Atreus, there, the fierce and savage, reckless of soul and cruel, at sight of his brother stood as one amazed. There is now power stronger than true love; angry strife ‘twixt strangers doth endure, but whom true love has bound ‘twill bind for ever. When wreath, by great causes roused, has burst [friendship](/concepts/friendship)’s bonds and sounded alarms of war; when fleet squadrons with ringing bridles come; when the brandished sword gleams now here, now there, which the mad god of war, thirsting for fresh-flowing blood, wields with a rain of blows, – then will Love stay the steel, and lead men, even against their will, to the clasped hands of Peace.
 
 [560] This sudden lull out of so great uproar what god has wrought? But now throughout Mycenae the arms of civil strife resounded; pale mother held fast their sons, the wife feared for her lord full armed, when to his hand came the reluctant sword, foul with the rust of peace; one strove to repair tottering walls, one to strengthen towers, crumbling with long neglect; another strove to shut gates tight with iron bars, while on the battlements the trembling guard kept watch o’er the troubled night – for worse than war is the very fear of war. Now the sword’s dire threats have fallen; now still is the deep trumpet-blare; now silent the shrill clarion’s blast; deep peace to a glad city is restored. So, when the floods heave up from ocean’s depths and Corus lashes the Bruttian waters; when Scylla roars in her disturbed cavern, and mariners in harbour tremble at the sea which greedy Charybdis drains and vomits forth again; when the wild Cyclops, sitting on burning Aetna’s crag, dreads his sire’s rage, lest the o’erwheening waves put out the fires that roar in immemorial furnaces; and when beggared Laërtes thinks, while Ithaca reels beneath the shock, that his kingdom may be submerged – then, if their strength has failed the winds, the sea sinks back more peaceful than a pool; and the deep waters which the ship feared to cleave, now far and wide studded with bellying sails, a beauteous sight, to pleasure-boats spread out their waves; and you may now count the fish swimming far below, where but lately beneath the mighty hurricane the tossed Cyclads trembled at the sea.
 
@@ -599,7 +604,7 @@ ATREUS
 
 THYESTES
 
-[1024] Is this thy bond? Is this thy grace, this thy fraternal pledge? Thus puttest thou hate away? I do not ask that I, a father, may have my sons unharmed; what can be granted with crime and hate intact, this I, a brother, of a brother ask: that I may bury them. Give me back what thou mayst see burned at once. The father asks naught of thee with hopes of having, but of losing it.
+[1024] Is this thy bond? Is this thy [grace](/concepts/grace), this thy fraternal pledge? Thus puttest thou hate away? I do not ask that I, a father, may have my sons unharmed; what can be granted with crime and hate intact, this I, a brother, of a brother ask: that I may bury them. Give me back what thou mayst see burned at once. The father asks naught of thee with hopes of having, but of losing it.
 
 ATREUS
 

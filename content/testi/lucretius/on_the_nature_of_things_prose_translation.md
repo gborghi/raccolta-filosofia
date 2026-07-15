@@ -12,6 +12,11 @@ tags:
   - "philosopher/lucretius"
 ---
 
+> [!abstract]
+> English prose translation (Munro) of De rerum natura: the same Epicurean didactic poem on atomism, freedom (the clinamen), the soul's mortality, and overcoming the fear of death and the gods.
+
+<p class="work-source">Traduzione di H. A. J. Munro · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/lucretius/on_the_nature_of_things_prose_translation" data-philosopher="Lucretius"></div>
 
 
@@ -27,7 +32,7 @@ Next the wild herds bound over the glad pastures and swim the rapid rivers: in s
 
 Yes, throughout seas and mountains and sweeping rivers and leafy homes of birds and grassy plains, striking fond love into the breasts of all thou constrainest them each after its kind to continue their races with desire.
 
-Since thou then art sole mistress of the nature of things and without thee nothing rises up into the divine borders of light, nothing grows to be glad or lovely, fain would I have thee for a helpmate in writing the verses which I essay to pen on the nature of things for our own son of the Memmii, whom thou, goddess, hast willed to have no peer, rich as he ever is in every grace.
+Since thou then art sole mistress of the nature of things and without thee nothing rises up into the divine borders of light, nothing grows to be glad or lovely, fain would I have thee for a helpmate in writing the verses which I essay to pen on the nature of things for our own son of the Memmii, whom thou, goddess, hast willed to have no peer, rich as he ever is in every [grace](/concepts/grace).
 
 Wherefore all the more, O lady, lend my lays an everliving charm.
 
@@ -75,7 +80,7 @@ Wherefore we must well grasp the principle of things above, the principle by whi
 
 Nor does my mind fail to perceive how hard it is to make clear in Latin verses the dark discoveries of the Greeks, especially as many points must be dealt with in new terms on account of the poverty of the language and the novelty of the questions.
 
-But yet your worth and the looked-for pleasure of sweet friendship prompt me to undergo any labor and lead me on to watch the clear nights through, seeking by what words and in ,what verse I may be able in the end to shed on your mind so clear a light that you can thoroughly scan hidden things.
+But yet your worth and the looked-for pleasure of sweet [friendship](/concepts/friendship) prompt me to undergo any labor and lead me on to watch the clear nights through, seeking by what words and in ,what verse I may be able in the end to shed on your mind so clear a light that you can thoroughly scan hidden things.
 
 This terror then and darkness of mind must be dispelled not by the rays of the sun and glittering shafts of day, but by the aspect and the law of nature; the warp of whose design we shall begin with this first principle, nothing is ever gotten out of nothing by divine power.
 
@@ -155,7 +160,7 @@ Yet it has not been seen in what way the moisture of water has sunk into them no
 
 The moisture therefore is dispersed into small particles which the eyes are quite unable to see.
 
-Again after the revolution of many of the sun’s years a ring on the finger is thinned on the under side by wearing, the dripping from the eaves hollows a stone, the bent plowshare of iron imperceptibly decreases in the fields, and we behold the stone-paved streets worn down by the feet of the multitude; the brass statues too at the gates show their right hands to be wasted by the touch of the numerous passers by who greet them.
+Again after the [revolution](/positions/revolution) of many of the sun’s years a ring on the finger is thinned on the under side by wearing, the dripping from the eaves hollows a stone, the bent plowshare of iron imperceptibly decreases in the fields, and we behold the stone-paved streets worn down by the feet of the multitude; the brass statues too at the gates show their right hands to be wasted by the touch of the numerous passers by who greet them.
 
 These things then we see are lessened, since they have been thus worn down; but what bodies depart at any given time the nature of vision has jealously shut out our seeing.
 
@@ -197,7 +202,7 @@ And many more arguments I may state to you in order to accumulate proof on my wo
 
 For as dogs often discover by smell the lair of a mountain-ranging wild beast though covered over with leaves, when once they have got on the sure tracks, thus you in cases like this will be able by yourself alone to see one thing after another and find your way into all dark corners and draw forth the truth.
 
-But if you lag or swerve a jot from the reality, this I can promise you, Memmius, without more ado: such plenteous draughts from abundant wellsprings my sweet tongue shall pour from my richly furnished breast, that I fear slow age will steal over our limbs and break open in us the fastnesses of life, ere the whole store of reasons on any one question has by my verses been dropped into your ears.
+But if you lag or [swerve](/positions/clinamen) a jot from the reality, this I can promise you, Memmius, without more ado: such plenteous draughts from abundant wellsprings my sweet tongue shall pour from my richly furnished breast, that I fear slow age will steal over our limbs and break open in us the fastnesses of life, ere the whole store of reasons on any one question has by my verses been dropped into your ears.
 
 But now to resume the thread of the design which I am weaving in verse: all nature then, as it exists by itself, is founded on two things: there are bodies and there is void in which these bodies are placed and through which they move about.
 
@@ -291,11 +296,11 @@ But on the other hand if the first-beginnings of things be soft, it cannot be ex
 
 First-beginnings therefore are strong in solid singleness, and by a denser combination of these all things can be closely packed and exhibit enduring strength.
 
-Again if no limit has been set to the breaking of bodies, nevertheless the several bodies which go to things must survive from eternity up to the present time, not yet assailed by any danger.
+Again if no limit has been set to the breaking of bodies, nevertheless the several bodies which go to things must survive from [eternity](/positions/eternity) up to the present time, not yet assailed by any danger.
 
 <span class="atom-split" data-atom="005" data-title="BOOK I. (5/8)" data-chapter="BOOK I." data-kind="atom"></span>
 
-But since they are possessed of a frail nature, it is not consistent with this that they could have continued through eternity harassed through ages by countless blows.
+But since they are possessed of a frail nature, it is not consistent with this that they could have continued through [eternity](/positions/eternity) harassed through ages by countless blows.
 
 Again too since a limit of growing and sustaining life has been assigned to things each after its kind, and since by the laws of nature it stands decreed what they can each do and what they cannot do, and since nothing is changed, but all things are so constant that the different birds all in succession exhibit in their body the distinctive marks of their kind, they must sure enough have a body of unchangeable matter also.
 
@@ -625,7 +630,7 @@ Lightnings also you see fly athwart the rains: now from this side now from that,
 
 This point too, herein we wish you to apprehend: when bodies are borne downwards sheer through void by their own weights, at quite uncertain times and uncertain spots they push themselves a little from their course: you just and only just can call it a change of inclination.
 
-If they were not used to swerve, they would all fall down, like drops of rain, through the deep void, and no clashing would have been begotten nor blow produced among the first beginnings: thus nature never would have produced aught.
+If they were not used to [swerve](/positions/clinamen), they would all fall down, like drops of rain, through the deep void, and no clashing would have been begotten nor blow produced among the first beginnings: thus nature never would have produced aught.
 
 But if haply any one believes that heavier bodies, as they are carried more quickly sheer through space, can fall from above on the lighter and so beget blows able to produce begetting motions, he goes most widely astray from true reason.
 
@@ -761,7 +766,7 @@ It is clear, then, that in any class you like, the first-beginnings of things ar
 
 Thus neither can death-dealing motions keep the mastery always nor entomb existence for evermore, nor on the other hand can the birth and increase giving motions of things preserve them always after they are born.
 
-Thus the war of first beginnings waged from eternity is carried on with dubious issue: now here, now there, the life-bringing elements of things get the mastery and are overmastered in turn: with the funeral wail blends the cry which babies raise when they enter the borders of light; and no night ever followed day nor morning night that heard not mingling with the sickly infant’s cries wailings the attendants on death and black funeral.
+Thus the war of first beginnings waged from [eternity](/positions/eternity) is carried on with dubious issue: now here, now there, the life-bringing elements of things get the mastery and are overmastered in turn: with the funeral wail blends the cry which babies raise when they enter the borders of light; and no night ever followed day nor morning night that heard not mingling with the sickly infant’s cries wailings the attendants on death and black funeral.
 
 [579] And herein it is proper you should keep under seal, and guard, there consigned, in faithful memory this truth, that there is nothing whose nature is apparent to sense which consists of one kind of first-beginnings; nothing which is not formed by a mixing of seed.
 
@@ -795,7 +800,7 @@ For these reasons they escort in arms the great mother, or else because they mea
 
 All which, well and beautifully as it is set forth and told, is yet widely removed from true reason.
 
-For the nature of gods must ever in itself of necessity enjoy immortality together with supreme of repose, far removed and withdrawn from our concerns; since exempt from every pain, exempt from all dangers, strong in its own resources, not wanting aught of us, it is neither gained by favors nor moved by anger.
+For the nature of gods must ever in itself of necessity enjoy immortality together with supreme of repose, far removed and withdrawn from our concerns; since exempt from every pain, exempt from all dangers, strong in its own resources, not wanting aught of us, it is neither gained by favors nor moved by [anger](/concepts/anger).
 
 And here if any one thinks proper to call the sea Neptune and corn Ceres and chooses rather to misuse the name of Bacchus than to utter the term that belongs to that liquor, let us allow him to declare that the earth is mother of the gods, if he only forbear in earnest to stain his mind with foul religion.
 
@@ -1051,7 +1056,7 @@ Often likewise from the same fear envy causes them to pine: [75] they make moan 
 
 Some wear themselves to death for the sake of statues and a name.
 
-And often to such a degree through dread of death does hate of life and of the sight of daylight seize upon mortals, that they commit self-murder with a sorrowing heart, quite forgetting that this fear is the source of their cares, [this fear which urges men to every sin] prompts this one to put all shame to route, another to burst asunder the bonds of friendship, and in fine to overturn duty from its very base; since often ere now men have betrayed country and dear parents in seeking to shun the Acherusian quarters.
+And often to such a degree through dread of death does hate of life and of the sight of daylight seize upon mortals, that they commit self-murder with a sorrowing heart, quite forgetting that this fear is the source of their cares, [this fear which urges men to every sin] prompts this one to put all shame to route, another to burst asunder the bonds of [friendship](/concepts/friendship), and in fine to overturn duty from its very base; since often ere now men have betrayed country and dear parents in seeking to shun the Acherusian quarters.
 
 For even as children are flurried and dread all things in the thick darkness, thus we in the daylight fear at times things not a whit more to be dreaded than what children shudder at in the dark and fancy sure to be.
 
@@ -1149,7 +1154,7 @@ Just in the same way as the power of the mind and the function of the soul are l
 
 On a like principle the spirit and air and heat must, as they exert their powers, be mixed up together through the frame, and one must ever be more out of view or more prominent than another, that a single substance may be seen to be formed from the union of all, lest the heat and spirit apart by themselves and the power of the air apart by itself should destroy sense and dissipate it by their disunion.
 
-[289] Thus the mind possesses that heat which it displays when it boils up in anger and fire flashes from the keen eyes; there is too much cold spirit, comrade of fear, which spreads a shivering over the limbs and stirs the whole frame; yes and there is also that condition of still air which has place when the breast is calm and the looks cheerful.
+[289] Thus the mind possesses that heat which it displays when it boils up in [anger](/concepts/anger) and fire flashes from the keen eyes; there is too much cold spirit, comrade of fear, which spreads a shivering over the limbs and stirs the whole frame; yes and there is also that condition of still air which has place when the breast is calm and the looks cheerful.
 
 But they have more of the hot whose keen heart and passionate mind lightly boil up in anger.
 
@@ -1281,7 +1286,7 @@ Sure enough, because mixed up through veins and flesh, sinews and bones, their f
 
 Moreover, even while it yet moves within the confines of life, often the soul shaken from some cause or other is seen to wish to pass out and be loosed from the whole body, the features are seen to droop as at the last hour and all the limbs to sink flaccid over the bloodless trunk: just as happens, when the phrase is used, the mind is in a bad way, or the soul is quite gone; when all is hurry and everyone is anxious to keep from parting the last tie of life; for then the mind and the power of the soul are shaken throughout and both are quite loosened together with the body; so that a cause somewhat more powerful can quite break them up.
 
-Why doubt, I would ask, that the soul when driven forth out of the body, when in the open air, feeble as it is, stripped of its covering, not only cannot continue through eternity, but is unable to hold together the smallest fraction of time?
+Why doubt, I would ask, that the soul when driven forth out of the body, when in the open air, feeble as it is, stripped of its covering, not only cannot continue through [eternity](/positions/eternity), but is unable to hold together the smallest fraction of time?
 
 Therefore, again and again I say, when the enveloping body has been all broken up and the vital airs have been forced out, you must admit that the senses of the mind and the soul are dissolved, since the cause of destruction is one and inseparable for both body and soul.
 
@@ -1387,13 +1392,13 @@ To link forsooth a mortal thing with an everlasting and suppose that they can ha
 
 But if haply the soul is to be accounted immortal for this reason rather, because it is kept sheltered from death-bringing things, either because things hostile to its existence do not approach at all, or because those which do approach, in some way or other retreat discomfited before we can feel the harm they do, [manifest experience proves that this can not be true].
 
-For besides that it sickens in sympathy with the maladies of the body, it is often attacked by that which frets it on the score of the future and keeps it on the rack of suspense and wears it out with cares; [827] and when ill deeds are in the past, remorse for sins yet gnaws: then there is madness peculiar to the mind and forgetfulness of all things; then too it often sinks into the black waters of lethargy.
+For besides that it sickens in [sympathy](/positions/moral_sentiment) with the maladies of the body, it is often attacked by that which frets it on the score of the future and keeps it on the rack of suspense and wears it out with cares; [827] and when ill deeds are in the past, remorse for sins yet gnaws: then there is madness peculiar to the mind and forgetfulness of all things; then too it often sinks into the black waters of lethargy.
 
 Death therefore to us is nothing, concerns us not a jot, since the nature of the mind is proved to be mortal; and as in time gone by we felt no distress when the Poeni from all sides came together to do battle, and all things shaken by war’s troublous uproar shuddered and quaked beneath high heaven, and mortal men were in doubt which of the two peoples it should be to whose empire all must fall by sea and land alike, thus when we shall be no more, when there shall have been a separation of body and soul, out of both of which we are each formed into a single being, to us, you may be sure, who then shall be no more, nothing whatever can happen to excite sensation, not if earth shall be mingled with sea and sea with heaven.
 
 And even supposing the nature of the mind and power of the soul do feel, after they have been severed from our body, yet that is nothing to us who by the binding tie of marriage between body and soul are formed each into one single being.
 
-And if time should gather up our matter after our death and put it once more into the position in which it now is, and the light of life be given to us again, this result even would concern us not at all, when the chain of our self-consciousness has once been snapped asunder.
+And if time should gather up our matter after our death and put it once more into the position in which it now is, and the light of life be given to us again, this result even would concern us not at all, when the chain of our [self-consciousness](/concepts/self_consciousness) has once been snapped asunder.
 
 So now we give ourselves no concern about any self which we have been before, nor do we feel any distress on the score of that self.
 
@@ -1441,7 +1446,7 @@ What answer have we to make save this, that nature sets up against us a well-fou
 
 If however one of greater age and more advanced in years should complain and lament, poor wretch, his death more than is right, would she not with greater cause raise her voice and rally him in sharp accents,
 
-“Away from this time forth with thy tears, rascal; a truce to thy complaining: thou decayest after full enjoyment of all the prizes of life. But because thou ever yearnest for what is not present, and despisest what is, life has slipped from thy grasp unfinished and unsatisfying, and or ever thou thoughtest, death has taken his stand at thy pillow, before thou canst take thy departure sated and filled with good things. Now however resign all things unsuited to thy age, and with a good grace up and greatly go: thou must.”
+“Away from this time forth with thy tears, rascal; a truce to thy complaining: thou decayest after full enjoyment of all the prizes of life. But because thou ever yearnest for what is not present, and despisest what is, life has slipped from thy grasp unfinished and unsatisfying, and or ever thou thoughtest, death has taken his stand at thy pillow, before thou canst take thy departure sated and filled with good things. Now however resign all things unsuited to thy age, and with a good [grace](/concepts/grace) up and greatly go: thou must.”
 
 With good reason methinks she would bring her charge, with reason rally and reproach; for old things give way and are supplanted by new without fail, and one thing must ever be replenished out of other things; and no one is delivered over to the pit and black Tartarus.
 
@@ -1459,9 +1464,9 @@ Is it not more untroubled than any sleep?
 
 And those things sure enough, which are fabled to be in the deep of Acheron, do all exist for us in this life.
 
-No Tantalus, numbed by groundless terror, as the story is, fears, poor wretch, a huge stone hanging in air; [981] but in life rather a baseless dread of the gods vexes mortals: the fall they fear is such fall of luck as chance brings to each.
+No Tantalus, numbed by groundless terror, as the story is, fears, poor wretch, a huge stone hanging in air; [981] but in life rather a baseless dread of the gods vexes mortals: [the fall](/positions/original_sin) they fear is such fall of luck as chance brings to each.
 
-Nor do birds eat away into Tityos laid in Acheron, nor can they, sooth to say, find during eternity food to peck under his large breast.
+Nor do birds eat away into Tityos laid in Acheron, nor can they, sooth to say, find during [eternity](/positions/eternity) food to peck under his large breast.
 
 However huge the bulk of body he extends, though such as to take up with outspread limbs not nine acres merely, but the whole earth, yet will he not be able to endure everlasting pain and supply food from his own body for ever.
 
@@ -1505,7 +1510,7 @@ He races to his country-house, driving his jennets in headlong haste, as if hurr
 
 In this way each man flies from himself, (but self from whom, as you may be sure is commonly the case, he cannot escape, clings to him in his own despite) hates too himself, because he is sick and knows not the cause of the malady.
 
-For if he could rightly see into this, relinquishing all else, each man would study to learn the nature of things, since the point at stake is the condition for eternity, not for one hour, in which mortals have to pass all the time which remains for them to expect after death.
+For if he could rightly see into this, relinquishing all else, each man would study to learn the nature of things, since the point at stake is the condition for [eternity](/positions/eternity), not for one hour, in which mortals have to pass all the time which remains for them to expect after death.
 
 Once more, what evil lust of life is this which constrains us with such force to be so mightily troubled in doubts and dangers?
 
@@ -1587,7 +1592,7 @@ Therefore many idols are begotten in a short time, so that the birth of such thi
 
 And as the sun must send forth many rays of light in a short time in order that all things may be continually filled with it, so also for alike reason there must be carried away from things in a moment of time idols of things many in number in many ways in all directions round; [165] since to whatever part of them we present a mirror before their surfaces, other things correspond to these in the mirror of a like shape and like color.
 
-Moreover, though the state of heaven has just before been of unsullied purity, with exceeding suddenness it becomes so hideously overcast, that you might imagine all its darkness had abandoned Acheron throughout and filled up the great vaults of heaven: in such numbers do faces of black horror rise up from amid the frightful night of storm clouds and hang over us on high.
+Moreover, though [the state](/concepts/state) of heaven has just before been of unsullied purity, with exceeding suddenness it becomes so hideously overcast, that you might imagine all its darkness had abandoned Acheron throughout and filled up the great vaults of heaven: in such numbers do faces of black horror rise up from amid the frightful night of storm clouds and hang over us on high.
 
 Now there is no one who can tell how small a fraction of these an image is, or express that sum in language.
 
@@ -2087,7 +2092,7 @@ We therefore see women in ways manifold deformed and ugly to be objects of endea
 
 And one lover jeers at others and advises them to propitiate Venus, since they are troubled by a disgraceful passion, and often, poor wretch, gives no thought to his own ills greatest of all.
 
-The black is a brune, the filthy and rank has not the love of order; the cat-eyed is a miniature Pallas, the stringy and wizened a gazelle; the dumpy and dwarfish is one of the graces, from top to toe all grace; the big and overgrown is awe-inspiring and full of dignity.
+The black is a brune, the filthy and rank has not the love of order; the cat-eyed is a miniature Pallas, the stringy and wizened a gazelle; the dumpy and dwarfish is one of the graces, from top to toe all [grace](/concepts/grace); the big and overgrown is awe-inspiring and full of dignity.
 
 [1164] She is tongue-tied, cannot speak, then she has a lisp; the dumb is bashful; then the fire-spit, the teasing, the gossiping turns to a shining lamp.
 
@@ -2153,9 +2158,9 @@ And thus for their own ends harlots are wont to move, in order not to conceive a
 
 This our wives have surely no need of.
 
-Sometimes too by no divine grace and arrows of Venus a sorry woman of inferior beauty comes to be loved; [1280] for the wife sometimes by her own acts and accommodating manners and by elegant neatness of person readily habituates you to pass your life with her.
+Sometimes too by no divine [grace](/concepts/grace) and arrows of Venus a sorry woman of inferior beauty comes to be loved; [1280] for the wife sometimes by her own acts and accommodating manners and by elegant neatness of person readily habituates you to pass your life with her.
 
-Moreover custom renders love attractive; for that which is struck by oft-repeated blows however lightly, yet after long course of time is overpowered and gives way.
+Moreover [custom](/concepts/custom) renders love attractive; for that which is struck by oft-repeated blows however lightly, yet after long course of time is overpowered and gives way.
 
 See you not too that drops of water falling on stones after long course of time scoop a hole through these stones?
 
@@ -2193,7 +2198,7 @@ While walking in his footsteps I follow out his reasonings and teach by my verse
 
 To continue, the order of my design has now brought me to this point, where I must proceed to show that the world is formed of a mortal body and at the same time had birth; to show too in what way that union of matter founded earth, heaven, sea, stars, sun, and the ball of the moon; also what living creatures sprang out of the earth, as well as those which never at any time were born; in what way too mankind began to use with one another varied speech by the names conferred on things; [73] and also in what ways yon fear of the gods gained an entry into men’s breasts, and now throughout the world maintains as holy fanes, lakes, groves, altars, and idols of the gods.
 
-Furthermore, I shall make clear by what force piloting nature guides the courses of the sun and the wanderings of the moon; lest haply we imagine that these of their own free will between heaven and earth traverse their everlasting orbits, graciously furthering the increase of crops and living creatures, or we think they roll on by any forethought of the gods.
+Furthermore, I shall make clear by what force piloting nature guides the courses of the sun and the wanderings of the moon; lest haply we imagine that these of their own [free will](/positions/free_will) between heaven and earth traverse their everlasting orbits, graciously furthering the increase of crops and living creatures, or we think they roll on by any forethought of the gods.
 
 For they who have been rightly taught that the gods lead a life without care, if nevertheless they wonder by what plan all things can be carried on, above all in regard to those things which are seen overhead in the ethereal borders, are borne back again into their old religious scruples and take unto themselves hard taskmasters, whom they poor wretches believe to be almighty, not knowing what can, what cannot be, in short by what system each thing has its powers defined, its deep-set boundary mark.
 
@@ -2559,7 +2564,7 @@ For the fact that there were many seeds of things in the earth what time it firs
 
 But the race of man then in the fields was much hardier, as beseemed it to be, since the hard earth had produced it; and built on a groundwork of larger and more solid bones within, knit with powerful sinews throughout the frame of flesh; not lightly to be disabled by heat or cold or strange kinds of food or any malady of body.
 
-And during the revolution of many lusters of the sun through heaven they led a life after the roving fashion of wild beasts.
+And during the [revolution](/positions/revolution) of many lusters of the sun through heaven they led a life after the roving fashion of wild beasts.
 
 No one then was a sturdy guider of the bent plow or knew how to labor the fields with iron or plant in the ground young saplings or lop with pruning-hooks old boughs from the high trees.
 
@@ -2607,7 +2612,7 @@ Next after they had got themselves huts and skins and fire, and the woman united
 
 For fire made their chilled bodies less able now to bear the frost beneath the canopy of heaven, and Venus impaired their strength and children with their caresses soon broke down the haughty temper of parents.
 
-Then too neighbors began to join in a league of friendship mutually desiring neither to do nor suffer harm; [1021] and asked for indulgence to children and womankind, when with cries and gestures they declared in stammering speech that meet it is for all to have mercy on the weak.
+Then too neighbors began to join in a league of [friendship](/concepts/friendship) mutually desiring neither to do nor suffer harm; [1021] and asked for indulgence to children and womankind, when with cries and gestures they declared in stammering speech that meet it is for all to have mercy on the weak.
 
 And though harmony could not be established without exception, yet a very large portion observed their agreements with good faith, or else the race of man would then have been wholly cut off, nor could breeding have continued their generations to this day.
 
@@ -2673,19 +2678,19 @@ Therefore let men wear themselves out to no purpose and sweat drops of blood, as
 
 Kings therefore being slain the old majesty of thrones and proud scepters were overthrown and laid in the dust, and the glorious badge of the sovereign head bloodstained beneath the feet of the rabble mourned for its high prerogative; for that is greedily trampled on which before was too much dreaded.
 
-It would come then in the end to the lees of uttermost disorder, each man seeking for himself empire and sovereignty.
+It would come then in the end to the lees of uttermost disorder, each man seeking for himself empire and [sovereignty](/positions/sovereignty).
 
 [1142] Next a portion of them taught men to elect legal officers, and drew up codes, to induce men to obey the laws.
 
 For mankind, tired out with a life of brute force, lay exhausted from its feuds; and therefore the more readily it submitted of its own freewill to laws and stringent codes.
 
-For as each one moved by anger took measures to avenge himself with more severity than is now permitted by equitable laws, for this reason men grew sick of a life of brute force.
+For as each one moved by [anger](/concepts/anger) took measures to avenge himself with more severity than is now permitted by equitable laws, for this reason men grew sick of a life of brute force.
 
 Thence fear of punishment mars the prizes of life; for violence and wrong enclose all who commit them in their meshes and do mostly recoil on him from whom they began; and it is not easy for him who by his deeds transgresses the terms of the public peace to pass a tranquil and a peaceful existence.
 
 For though he eludes God and man, yet he cannot but feel a misgiving that his secret can be kept for ever; seeing that many by speaking in their dreams or in the wanderings of disease have often we are told betrayed themselves and have disclosed their hidden deeds of evil and their sins.
 
-And now what cause has spread over great nations the worship of the divinities of the gods and filled towns with altars and led to the performance of stated sacred rites, rites now in fashion on solemn occasions and in solemn places, from which even now, is implanted in mortals a shuddering awe which raises new temples of the gods over the whole earth and prompts men to crowd them on festive days, all this it is not so difficult to explain in words.
+And now what cause has spread over great nations the [worship](/concepts/religion) of the divinities of the gods and filled towns with altars and led to the performance of stated sacred rites, rites now in fashion on solemn occasions and in solemn places, from which even now, is implanted in mortals a shuddering awe which raises new temples of the gods over the whole earth and prompts men to crowd them on festive days, all this it is not so difficult to explain in words.
 
 Even then in sooth the races of mortal men would see in waking mind glorious forms, would see them in sleep of yet more marvelous size of body.
 
@@ -2707,7 +2712,7 @@ No act is it of piety to be often seen with veiled head to turn to a stone and a
 
 <span class="atom-split" data-atom="046" data-title="BOOK V. (10/11)" data-chapter="BOOK V." data-kind="atom"></span>
 
-For when we turn our gaze on the heavenly quarters of the great upper world and ether fast above the glittering stars, and direct our thoughts to the courses of the sun and moon, then into our breasts burdened with other ills that fear as well begins to exalt its reawakened head, the fear that we may haply find the power of the gods to be unlimited, able to wheel the bright stars in their varied motion; for lack of power to solve the question troubles the mind with doubts, whether there was ever a birth-time of the world, and whether likewise there is to be any end; how far the walls of the world can endure this strain of restless motion; or whether gifted by the grace of the gods with an everlasting existence they may glide on through a never-ending tract of time and defy the strong powers of immeasurable ages.
+For when we turn our gaze on the heavenly quarters of the great upper world and ether fast above the glittering stars, and direct our thoughts to the courses of the sun and moon, then into our breasts burdened with other ills that fear as well begins to exalt its reawakened head, the fear that we may haply find the power of the gods to be unlimited, able to wheel the bright stars in their varied motion; for lack of power to solve the question troubles the mind with doubts, whether there was ever a birth-time of the world, and whether likewise there is to be any end; how far the walls of the world can endure this strain of restless motion; or whether gifted by the [grace](/concepts/grace) of the gods with an everlasting existence they may glide on through a never-ending tract of time and defy the strong powers of immeasurable ages.
 
 Again, who is there whose mind does not shrink into itself with fear of the gods, whose limbs do not cower in terror, when the parched earth rocks with the appalling thunder stroke and rattlings run through the great heaven?
 
@@ -2745,7 +2750,7 @@ With copper they would labor the soil of the earth, with copper stir up the bill
 
 Then by slow steps the sword of iron gained ground and the make of the copper sickle became a byword; and with iron they began to plow through the earth’s soil, and the struggles of wavering war were rendered equal.
 
-And the custom of mounting in arms on the back of a horse and guiding him with reins and showing prowess with the right hand is older than that of tempting the risks of war in a two-horsed chariot; and yoking a pair of horses is older than yoking four or mounting in arms scythed chariots.
+And the [custom](/concepts/custom) of mounting in arms on the back of a horse and guiding him with reins and showing prowess with the right hand is older than that of tempting the risks of war in a two-horsed chariot; and yoking a pair of horses is older than yoking four or mounting in arms scythed chariots.
 
 Next the Poeni taught the lucan kine with towered body, hideous of aspect, with snake-like hand, to endure the wounds of war and to disorder the mighty ranks of Mars.
 
@@ -2829,7 +2834,7 @@ This terror therefore and darkness of mind must be dispelled, not by the rays of
 
 Wherefore the more readily I will go on in my verses to complete the web of my design.
 
-And since I have shown that the quarters of ether are mortal and that heaven is formed of a body that had a birth, and since of all the things which go on and must go on in it, I have unraveled most, hear further what remains to be told; since once for all [I have willed] to mount the illustrious chariot [of the muses, and ascending to heaven to explain the true law of winds and storms, which men foolishly lay to the charge of the gods, telling how, when they are angry, they raise fierce tempests; and, when there is a lull in the fury] of the winds, how that anger is appeased, how the omens which have been are again changed, when their fury has thus been appeased: [I have willed at the same time] to explain all the other things which mortals observe to go on upon earth and in heaven, when often they are in anxious suspense of mind, and which abase their souls with fear of the gods and weigh and press them down to earth, because ignorance of the causes constrains them to submit things to the empire of the gods and to make over to them the kingdom.
+And since I have shown that the quarters of ether are mortal and that heaven is formed of a body that had a birth, and since of all the things which go on and must go on in it, I have unraveled most, hear further what remains to be told; since once for all [I have willed] to mount the illustrious chariot [of the muses, and ascending to heaven to explain the true law of winds and storms, which men foolishly lay to the charge of the gods, telling how, when they are angry, they raise fierce tempests; and, when there is a lull in the fury] of the winds, how that [anger](/concepts/anger) is appeased, how the omens which have been are again changed, when their fury has thus been appeased: [I have willed at the same time] to explain all the other things which mortals observe to go on upon earth and in heaven, when often they are in anxious suspense of mind, and which abase their souls with fear of the gods and weigh and press them down to earth, because ignorance of the causes constrains them to submit things to the empire of the gods and to make over to them the kingdom.
 
 For they who have been rightly taught that the gods lead a life without care, if nevertheless they wonder on what plan all things can be carried on, above all in regard to those things which are seen overhead in the ethereal borders, are borne back again into their old religious scruples and take unto themselves hard taskmasters, whom they poor wretches believe to be almighty, not knowing what can, what cannot be, in short on what principle each thing has its powers defined, its deep set boundary mark; and therefore they are led all the farther astray by blind reason.
 
@@ -3151,7 +3156,7 @@ Such a spot there also is within the Athenian walls, on the very summit of the c
 
 [756] In Syria too as well a spot, we are told, is found to exist of such a sort that as soon as ever even four-footed beasts have entered in, its mere natural power forces them to fall down heavily, just as if they were felled in a moment as sacrifices to the manes gods.
 
-Now all these things go on by a natural law, and it is quite plain whence spring the causes from which they are produced; that the gate of Orcus be not haply believed to exist in such spots; and next we imagine that the manes gods from beneath do haply draw souls down from them to the borders of Acheron; as wing-footed stags are supposed often by their scent to draw out from their holes the savage serpent-tribes.
+Now all these things go on by a [natural law](/positions/natural_law), and it is quite plain whence spring the causes from which they are produced; that the gate of Orcus be not haply believed to exist in such spots; and next we imagine that the manes gods from beneath do haply draw souls down from them to the borders of Acheron; as wing-footed stags are supposed often by their scent to draw out from their holes the savage serpent-tribes.
 
 How widely opposed to true reason this is, now learn; for now I essay to tell of the real fact.
 
@@ -3311,7 +3316,7 @@ Again all things must have air in their body, since they are of a rare body and 
 
 This air therefore which is in the inmost recesses of the iron, is ever stirred in restless motion and therefore beats the ring without a doubt and stirs it within, you know: the ring is carried in the direction in which it has once plunged forward, and into the void part towards which it has made its start.
 
-Sometimes too it happens that the nature of iron is repelled from this stone, being in the habit of flying from and following it in turns.
+Sometimes too it happens that the nature of iron is repelled from this stone, being in the [habit](/concepts/custom) of flying from and following it in turns.
 
 I have seen Samothracian iron rings even jump up, and at the same time filings of iron rave within brass basins, when this Magnet stone had been placed under: such a strong desire the iron seems to have to fly from the stone.
 
@@ -3441,7 +3446,7 @@ Many bodies drawn forth by thirst and tumbled out along the street would lie ext
 
 All the holy sanctuaries of the gods too death had filled with lifeless bodies, and all the temples of the heavenly powers in all parts stood burdened with carcasses: all which places the wardens had thronged with guests.
 
-For now no longer the worship of the gods or their divinities were greatly regarded: so overmastering was the present affliction.
+For now no longer the [worship](/concepts/religion) of the gods or their divinities were greatly regarded: so overmastering was the present affliction.
 
 Nor did those rites of sepulture continue in force in the city, with which that pious folk had always been wont to be buried; for the whole of it was in dismay and confusion, and each man would sorrowfully bury as the present moment allowed.
 

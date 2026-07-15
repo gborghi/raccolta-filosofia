@@ -11,6 +11,11 @@ tags:
   - "philosopher/hume"
 ---
 
+> [!abstract]
+> A list of Scotticisms and linguistic errors to avoid in written English, compiled by Hume to correct his own style. A purely philological text with no philosophical content.
+
+<p class="work-source">Testo originale inglese · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/hume/scotticisms" data-philosopher="Hume"></div>
 
 

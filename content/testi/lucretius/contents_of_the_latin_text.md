@@ -11,12 +11,17 @@ tags:
   - "philosopher/lucretius"
 ---
 
+> [!abstract]
+> Original Latin text of De rerum natura: it expounds Epicurean atomist physics (atoms and void, the clinamen as the ground of freedom), the mortality of the soul, and liberation from the fear of gods and death as the path to ataraxia. The Latin representation of the same poem, tagged identically to the other versions in the corpus.
+
+<p class="work-source">Testo originale inglese · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/lucretius/contents_of_the_latin_text" data-philosopher="Lucretius"></div>
 
 
 <span class="atom-split" data-atom="001" data-title="CONTENTS OF THE LATIN TEXT" data-chapter="Liber Primus" data-kind="intro"></span>
 
-Aeneadum genetrix, hominum divomque voluptas,
+Aeneadum genetrix, hominum divomque [voluptas](/positions/pleasure),
 
 alma Venus, caeli subter labentia signa
 
@@ -64,7 +69,7 @@ exoritur neque fit laetum neque amabile quicquam,
 
 te sociam studeo scribendis versibus esse,
 
-25 quos ego de rerum natura pangere conor
+25 quos ego de rerum [natura](/concepts/nature) pangere conor
 
 Memmiadae nostro, quem tu, dea, tempore in omni
 
@@ -104,7 +109,7 @@ talibus in rebus communi desse saluti.
 
 omnis enim per se divum natura necessest
 
-45 immortali aevo summa cum pace fruatur
+45 immortali aevo [summa](/schools/scholasticism) cum pace fruatur
 
 semota ab nostris rebus seiunctaque longe;
 
@@ -112,7 +117,7 @@ nam privata dolore omni, privata periclis,
 
 ipsa suis pollens opibus, nihil indiga nostri,
 
-nec bene promeritis capitur nec tangitur ira.
+nec bene promeritis capitur nec tangitur [ira](/concepts/anger).
 
 50 Quod super est, vacuas auris animumque sagacem
 
@@ -140,7 +145,7 @@ corpora prima, quod ex illis sunt omnia primis.
 
 Humana ante oculos foede cum vita iaceret
 
-in terris oppressa gravi sub religione,
+in terris oppressa gravi sub [religione](/concepts/religion),
 
 quae caput a caeli regionibus ostendebat
 
@@ -236,7 +241,7 @@ religionibus atque minis obsistere vatum.
 
 110 nunc ratio nulla est restandi, nulla facultas,
 
-aeternas quoniam poenas in morte timendum.
+aeternas quoniam poenas in [morte](/concepts/death) timendum.
 
 ignoratur enim quae sit natura animai,
 
@@ -276,7 +281,7 @@ qua fiant ratione, et qua vi quaeque gerantur
 
 130 in terris, tunc cum primis ratione sagaci
 
-unde anima atque animi constet natura videndum,
+unde [anima](/concepts/soul) atque animi constet natura videndum,
 
 et quae res nobis vigilantibus obvia mentes
 
@@ -396,7 +401,7 @@ paulatim crescunt, ut par est semine certo,
 
 190 crescentesque genus servant; ut noscere possis
 
-quicque sua de materia grandescere alique.
+quicque sua de [materia](/positions/materialism) grandescere alique.
 
 Huc accedit uti sine certis imbribus anni
 
@@ -486,9 +491,9 @@ infinita aetas consumpse ante acta diesque.
 
 quod si in eo spatio atque ante acta aetate fuere
 
-235 e quibus haec rerum consistit summa refecta,
+235 e quibus haec rerum consistit [summa](/schools/scholasticism) refecta,
 
-inmortali sunt natura praedita certe.
+inmortali sunt [natura](/concepts/nature) praedita certe.
 
 haud igitur possunt ad nilum quaeque reverti.
 
@@ -498,7 +503,7 @@ conficeret, nisi materies aeterna teneret,
 
 240 inter se nexus minus aut magis indupedita;
 
-tactus enim leti satis esset causa profecto,
+tactus enim leti satis esset [causa](/concepts/cause) profecto,
 
 quippe ubi nulla forent aeterno corpore, quorum
 
@@ -544,7 +549,7 @@ haud igitur penitus pereunt quaecumque videntur,
 
 quando alit ex alio reficit natura nec ullam
 
-rem gigni patitur nisi morte adiuta aliena.
+rem gigni patitur nisi [morte](/concepts/death) adiuta aliena.
 
 265 Nunc age, res quoniam docui non posse creari
 
@@ -862,7 +867,7 @@ haec in quo sita sunt et qua diversa moventur.
 
 corpus enim per se communis dedicat esse
 
-sensus; cui nisi prima fides fundata valebit,
+sensus; cui nisi prima [fides](/concepts/faith) fundata valebit,
 
 haut erit occultis de rebus quo referentes
 
@@ -910,7 +915,7 @@ nec praebere locum porro nisi inane vacansque.
 
 445 ergo praeter inane et corpora tertia per se
 
-nulla potest rerum in numero natura relinqui,
+nulla potest rerum in numero [natura](/concepts/nature) relinqui,
 
 nec quae sub sensus cadat ullo tempore nostros
 
@@ -930,13 +935,13 @@ tactus corporibus cunctis, intactus inani.
 
 455 servitium contra paupertas divitiaeque,
 
-libertas bellum concordia cetera quorum
+[libertas](/concepts/freedom) bellum concordia cetera quorum
 
 adventu manet incolumis natura abituque,
 
 haec soliti sumus, ut par est, eventa vocare.
 
-tempus item per se non est, sed rebus ab ipsis
+[tempus](/concepts/time) item per se non est, sed rebus ab ipsis
 
 460 consequitur sensus, transactum quid sit in aevo,
 
@@ -1022,7 +1027,7 @@ cogit, ades, paucis dum versibus expediamus
 
 semina quae rerum primordiaque esse docemus,
 
-unde omnis rerum nunc constet summa creata.
+unde omnis rerum nunc constet [summa](/schools/scholasticism) creata.
 
 Principio quoniam duplex natura duarum
 
@@ -1118,7 +1123,7 @@ sunt igitur solida primordia simplicitate
 
 nec ratione queunt alia servata per aevom
 
-550 ex infinito iam tempore res reparare.
+550 ex [infinito](/concepts/infinity) iam tempore res reparare.
 
 denique si nullam finem natura parasset
 
@@ -1362,7 +1367,7 @@ omnis et e nihilo fient quae cumque creantur;
 
 670 nam quod cumque suis mutatum finibus exit,
 
-continuo hoc mors est illius quod fuit ante.
+continuo hoc [mors](/concepts/death) est illius quod fuit ante.
 
 proinde aliquid superare necesse est incolume ollis,
 
@@ -1450,7 +1455,7 @@ aera iungentes igni terramque liquori,
 
 et qui quattuor ex rebus posse omnia rentur
 
-715 ex igni terra atque anima procrescere et imbri.
+715 ex igni terra atque [anima](/concepts/soul) procrescere et imbri.
 
 quorum Acragantinus cum primis Empedocles est,
 
@@ -1532,7 +1537,7 @@ mollia constituunt, quae nos nativa videmus
 
 755 esse et mortali cum corpore, funditus ut qui
 
-debeat ad nihilum iam rerum summa reverti
+debeat ad nihilum iam rerum [summa](/schools/scholasticism) reverti
 
 de nihiloque renata vigescere copia rerum;
 
@@ -1616,7 +1621,7 @@ ex aliis ea, quae nequeant convertier usquam,
 
 ne tibi res redeant ad nilum funditus omnis;
 
-quin potius tali natura praedita quaedam
+quin potius tali [natura](/concepts/nature) praedita quaedam
 
 corpora constituas, ignem si forte crearint,
 
@@ -1820,7 +1825,7 @@ multarum rerum in rebus communia debent.
 
 ‘At saepe in magnis fit montibus’ inquis ‘ut altis
 
-arboribus vicina cacumina summa terantur
+arboribus vicina cacumina [summa](/schools/scholasticism) terantur
 
 inter se validis facere id cogentibus austris,
 
@@ -1834,7 +1839,7 @@ quae cum confluxere, creant incendia silvis.
 
 quod si facta foret silvis abscondita flamma,
 
-905 non possent ullum tempus celarier ignes,
+905 non possent ullum [tempus](/concepts/time) celarier ignes,
 
 conficerent volgo silvas, arbusta cremarent.
 
@@ -1858,7 +1863,7 @@ cum ligna atque ignes distincta voce notemus.
 
 si fieri non posse putas, quin materiai
 
-corpora consimili natura praedita fingas,
+corpora consimili [natura](/concepts/nature) praedita fingas,
 
 hac ratione tibi pereunt primordia rerum:
 
@@ -1958,7 +1963,7 @@ non habet extremum, caret ergo fine modoque.
 
 usque adeo, quem quisque locum possedit, in omnis
 
-tantundem partis infinitum omne relinquit.
+tantundem partis [infinitum](/concepts/infinity) omne relinquit.
 
 Praeterea si iam finitum constituatur
 
@@ -2254,7 +2259,7 @@ Suave, mari magno turbantibus aequora ventis
 
 e terra magnum alterius spectare laborem;
 
-non quia vexari quemquamst iucunda voluptas,
+non quia vexari quemquamst iucunda [voluptas](/positions/pleasure),
 
 sed quibus ipse malis careas quia cernere suavest.
 
@@ -2294,7 +2299,7 @@ esse opus omnino: quae demant cumque dolorem,
 
 delicias quoque uti multas substernere possint
 
-gratius inter dum, neque natura ipsa requirit,
+gratius inter dum, neque [natura](/concepts/nature) ipsa requirit,
 
 si non aurea sunt iuvenum simulacra per aedes
 
@@ -2390,7 +2395,7 @@ et quasi longinquo fluere omnia cernimus aevo
 
 70 ex oculisque vetustatem subducere nostris,
 
-cum tamen incolumis videatur summa manere
+cum tamen incolumis videatur [summa](/schools/scholasticism) manere
 
 propterea quia, quae decedunt corpora cuique,
 
@@ -2598,7 +2603,7 @@ ipsaque deducit dux vitae dia voluptas
 
 et res per Veneris blanditur saecla propagent,
 
-ne genus occidat humanum. quorum omnia causa
+ne genus occidat humanum. quorum omnia [causa](/concepts/cause)
 
 175 constituisse deos cum fingunt, omnibus rebus
 
@@ -2662,7 +2667,7 @@ aeris expressae sursum succedere, quamquam
 
 205 pondera, quantum in se est, deorsum deducere pugnent.
 
-nocturnasque faces caeli sublime volantis
+nocturnasque faces caeli [sublime](/concepts/sublime) volantis
 
 nonne vides longos flammarum ducere tractus
 
@@ -2726,7 +2731,7 @@ sed citius cedunt gravioribus exsuperata;
 
 tempore inane potest vacuum subsistere rei,
 
-quin, sua quod natura petit, concedere pergat;
+quin, sua quod [natura](/concepts/nature) petit, concedere pergat;
 
 omnia qua propter debent per inane quietum
 
@@ -2762,13 +2767,13 @@ nec declinando faciunt primordia motus
 
 principium quoddam, quod fati foedera rumpat,
 
-255 ex infinito ne causam causa sequatur,
+255 ex [infinito](/concepts/infinity) ne causam [causa](/concepts/cause) sequatur,
 
 libera per terras unde haec animantibus exstat,
 
-unde est haec, inquam, fatis avolsa voluntas,
+unde est haec, inquam, fatis avolsa [voluntas](/concepts/will),
 
-per quam progredimur quo ducit quemque voluptas,
+per quam progredimur quo ducit quemque [voluptas](/positions/pleasure),
 
 declinamus item motus nec tempore certo
 
@@ -2836,7 +2841,7 @@ externa quasi vi; sed ne res ipsa necessum
 
 et devicta quasi cogatur ferre patique,
 
-id facit exiguum clinamen principiorum
+id facit exiguum [clinamen](/positions/clinamen) principiorum
 
 nec regione loci certa nec tempore certo.
 
@@ -2872,7 +2877,7 @@ Illud in his rebus non est mirabile, quare,
 
 omnia cum rerum primordia sint in motu,
 
-310 summa tamen summa videatur stare quiete,
+310 [summa](/schools/scholasticism) tamen summa videatur stare quiete,
 
 praeter quam siquid proprio dat corpore motus.
 
@@ -3220,7 +3225,7 @@ ex hoc apta fidem ducat, primordia rerum
 
 quod si non ita sit, rursum iam semina quaedam
 
-esse infinito debebunt corporis auctu.
+esse [infinito](/concepts/infinity) debebunt corporis auctu.
 
 namque in eadem una cuiusvis iam brevitate
 
@@ -3232,7 +3237,7 @@ corpora prima tribus, vel paulo pluribus auge;
 
 nempe ubi eas partis unius corporis omnis,
 
-summa atque ima locans, transmutans dextera laevis,
+[summa](/schools/scholasticism) atque ima locans, transmutans dextera laevis,
 
 omnimodis expertus eris, quam quisque det ordo
 
@@ -3424,7 +3429,7 @@ Illud in his obsignatum quoque rebus habere
 
 convenit et memori mandatum mente tenere,
 
-nil esse, in promptu quorum natura videtur,
+nil esse, in promptu quorum [natura](/concepts/nature) videtur,
 
 quod genere ex uno consistat principiorum,
 
@@ -3560,7 +3565,7 @@ nam privata dolore omni, privata periclis,
 
 650 ipsa suis pollens opibus, nihil indiga nostri,
 
-nec bene promeritis capitur neque tangitur ira.
+nec bene promeritis capitur neque tangitur [ira](/concepts/anger).
 
 terra quidem vero caret omni tempore sensu,
 
@@ -3578,7 +3583,7 @@ concedamus ut hic terrarum dictitet orbem
 
 esse deum matrem, dum vera re tamen ipse
 
-660 religione animum turpi contingere parcat.
+660 [religione](/concepts/religion) animum turpi contingere parcat.
 
 Saepe itaque ex uno tondentes gramina campo
 
@@ -3654,7 +3659,7 @@ sed quia non volgo paria omnibus omnia constant.
 
 multarum rerum cum sint, primordia rerum
 
-dissimili tamen inter se consistere summa
+dissimili tamen inter se consistere [summa](/schools/scholasticism)
 
 possunt; ut merito ex aliis constare feratur
 
@@ -3700,7 +3705,7 @@ sed ne forte putes animalia sola teneri
 
 legibus his, quaedam ratio res terminat omnis
 
-720 nam vel uti tota natura dissimiles sunt
+720 nam vel uti tota [natura](/concepts/nature) dissimiles sunt
 
 inter se genitae res quaeque, ita quamque necessest
 
@@ -3768,7 +3773,7 @@ ne res ad nihilum redigantur funditus omnes;
 
 nam quod cumque suis mutatum finibus exit,
 
-continuo hoc mors est illius quod fuit ante.
+continuo hoc [mors](/concepts/death) est illius quod fuit ante.
 
 755 proinde colore cave contingas semina rerum,
 
@@ -3838,7 +3843,7 @@ quo minus esse uno possit res tota nitore.
 
 Tum porro quae ducit et inlicit ut tribuamus
 
-principiis rerum non numquam causa colores,
+principiis rerum non numquam [causa](/concepts/cause) colores,
 
 790 occidit, ex albis quoniam non alba creantur,
 
@@ -4154,7 +4159,7 @@ accensi sensus animantem quamque tuentur.
 
 Praeterea quamvis animantem grandior ictus,
 
-945 quam patitur natura, repente adfligit et omnis
+945 quam patitur [natura](/concepts/nature), repente adfligit et omnis
 
 corporis atque animi pergit confundere sensus.
 
@@ -4196,7 +4201,7 @@ corpora vi quadam per viscera viva per artus
 
 965 sollicitata suis trepidant in sedibus intus,
 
-inque locum quando remigrant, fit blanda voluptas,
+inque locum quando remigrant, fit blanda [voluptas](/positions/pleasure),
 
 scire licet nullo primordia posse dolore
 
@@ -4268,7 +4273,7 @@ cedit item retro, de terra quod fuit ante,
 
 id rursum caeli rellatum templa receptant.
 
-nec sic interemit mors res ut materiai
+nec sic interemit [mors](/concepts/death) res ut materiai
 
 corpora conficiat, sed coetum dissupat ollis;
 
@@ -4352,7 +4357,7 @@ iudicio perpende, et si tibi vera videntur,
 
 dede manus, aut, si falsum est, accingere contra.
 
-quaerit enim rationem animus, cum summa loci sit
+quaerit enim rationem animus, cum [summa](/schools/scholasticism) loci sit
 
 1045 infinita foris haec extra moenia mundi,
 
@@ -4370,7 +4375,7 @@ vociferatur, et elucet natura profundi.
 
 nullo iam pacto veri simile esse putandumst,
 
-undique cum vorsum spatium vacet infinitum
+undique cum vorsum spatium vacet [infinitum](/concepts/infinity)
 
 seminaque innumero numero summaque profunda
 
@@ -4400,7 +4405,7 @@ qualis hic est, avido complexu quem tenet aether.
 
 Praeterea cum materies est multa parata,
 
-cum locus est praesto nec res nec causa moratur
+cum locus est praesto nec res nec [causa](/concepts/cause) moratur
 
 ulla, geri debent ni mirum et confieri res.
 
@@ -4474,7 +4479,7 @@ saeviat exercens telum, quod saepe nocentes
 
 praeterit exanimatque indignos inque merentes?
 
-1105 Multaque post mundi tempus genitale diemque
+1105 Multaque post mundi [tempus](/concepts/time) genitale diemque
 
 primigenum maris et terrae solisque coortum
 
@@ -4500,7 +4505,7 @@ umor ad umorem, terreno corpore terra
 
 donique ad extremum crescendi perfica finem
 
-omnia perduxit rerum natura creatrix;
+omnia perduxit rerum [natura](/concepts/nature) creatrix;
 
 ut fit ubi nihilo iam plus est quod datur intra
 
@@ -4662,7 +4667,7 @@ cana cadens violat semperque innubilus aether
 
 integit et large diffuso lumine ridet:
 
-omnia suppeditat porro natura neque ulla
+omnia suppeditat porro [natura](/concepts/nature) neque ulla
 
 res animi pacem delibat tempore in ullo.
 
@@ -4672,7 +4677,7 @@ nec tellus obstat quin omnia dispiciantur,
 
 sub pedibus quae cumque infra per inane geruntur.
 
-his ibi me rebus quaedam divina voluptas
+his ibi me rebus quaedam divina [voluptas](/positions/pleasure)
 
 percipit atque horror, quod sic natura tua vi
 
@@ -4704,13 +4709,13 @@ infamemque ferunt vitam quam Tartara leti
 
 et se scire animi naturam sanguinis esse,
 
-aut etiam venti, si fert ita forte voluntas,
+aut etiam venti, si fert ita forte [voluntas](/concepts/will),
 
 45 nec prosum quicquam nostrae rationis egere,
 
 hinc licet advertas animum magis omnia laudis
 
-iactari causa quam quod res ipsa probetur.
+iactari [causa](/concepts/cause) quam quod res ipsa probetur.
 
 extorres idem patria longeque fugati
 
@@ -4784,7 +4789,7 @@ obliti fontem curarum hunc esse timorem:
 
 hunc vexare pudorem, hunc vincula amicitiai
 
-rumpere et in summa pietate evertere suadet:
+rumpere et in [summa](/schools/scholasticism) pietate evertere suadet:
 
 85 nam iam saepe homines patriam carosque parentis
 
@@ -5046,7 +5051,7 @@ indepta atque animi natura animaeque recessit,
 
 nil ibi libatum de toto corpore cernas
 
-ad speciem, nihil ad pondus: mors omnia praestat,
+ad speciem, nihil ad pondus: [mors](/concepts/death) omnia praestat,
 
 215 vitalem praeter sensum calidumque vaporem.
 
@@ -5082,7 +5087,7 @@ scire licet perquam pauxillis esse creatam
 
 230 seminibus, quoniam fugiens nil ponderis aufert.
 
-Nec tamen haec simplex nobis natura putanda est.
+Nec tamen haec simplex nobis [natura](/concepts/nature) putanda est.
 
 tenvis enim quaedam moribundos deserit aura
 
@@ -5122,7 +5127,7 @@ concutitur sanguis, tum viscera persentiscunt
 
 250 omnia, postremis datur ossibus atque medullis
 
-sive voluptas est sive est contrarius ardor.
+sive [voluptas](/positions/pleasure) est sive est contrarius ardor.
 
 nec temere huc dolor usque potest penetrare neque acre
 
@@ -5170,7 +5175,7 @@ nam penitus prorsum latet haec natura subestque
 
 nec magis hac infra quicquam est in corpore nostro
 
-275 atque anima est animae proporro totius ipsa.
+275 atque [anima](/concepts/soul) est animae proporro totius ipsa.
 
 quod genus in nostris membris et corpore toto
 
@@ -5196,7 +5201,7 @@ ni calor ac ventus seorsum seorsumque potestas
 
 aëris interemant sensum diductaque solvant.
 
-est etiam calor ille animo, quem sumit, in ira
+est etiam calor ille animo, quem sumit, in [ira](/concepts/anger)
 
 cum fervescit et ex oculis micat acrius ardor;
 
@@ -5268,7 +5273,7 @@ ut nihil inpediat dignam dis degere vitam.
 
 Haec igitur natura tenetur corpore ab omni
 
-ipsaque corporis est custos et causa salutis;
+ipsaque corporis est custos et [causa](/concepts/cause) salutis;
 
 325 nam communibus inter se radicibus haerent
 
@@ -5594,7 +5599,7 @@ at quae cumque queunt conturbari inque pediri,
 
 485 significant, paulo si durior insinuarit
 
-causa, fore ut pereant aevo privata futuro.
+[causa](/concepts/cause), fore ut pereant aevo privata futuro.
 
 Quin etiam subito vi morbi saepe coactus
 
@@ -5650,7 +5655,7 @@ id quoque praesagit mortalem vivere mentem.
 
 addere enim partis aut ordine traiecere aecumst
 
-aut aliquid prosum de summa detrahere hilum,
+aut aliquid prosum de [summa](/schools/scholasticism) detrahere hilum,
 
 515 commutare animum qui cumque adoritur et infit
 
@@ -5662,7 +5667,7 @@ inmortale quod est quicquam neque defluere hilum;
 
 nam quod cumque suis mutatum finibus exit,
 
-520 continuo hoc mors est illius quod fuit ante.
+520 continuo hoc [mors](/concepts/death) est illius quod fuit ante.
 
 ergo animus sive aegrescit, mortalia signa
 
@@ -5684,7 +5689,7 @@ inde pedes et crura mori, post inde per artus
 
 530 ire alios tractim gelidi vestigia leti.
 
-scinditur atque animae haec quoniam natura nec uno
+scinditur atque animae haec quoniam [natura](/concepts/nature) nec uno
 
 tempore sincera existit, mortalis habendast.
 
@@ -5746,7 +5751,7 @@ inter se coniuncta valent vitaque fruuntur;
 
 sola potest animi per se natura nec autem
 
-cassum anima corpus durare et sensibus uti.
+cassum [anima](/concepts/soul) corpus durare et sensibus uti.
 
 scilicet avolsus radicibus ut nequit ullam
 
@@ -5834,7 +5839,7 @@ inbecilla foras in aperto, tegmine dempto,
 
 605 non modo non omnem possit durare per aevom,
 
-sed minimum quodvis nequeat consistere tempus?
+sed minimum quodvis nequeat consistere [tempus](/concepts/time)?
 
 nec sibi enim quisquam moriens sentire videtur
 
@@ -5964,7 +5969,7 @@ corpore; quapropter mortale utrumque putandumst,
 
 in multas quoniam partis disciditur aeque.
 
-670 Praeterea si inmortalis natura animai
+670 Praeterea si inmortalis [natura](/concepts/nature) animai
 
 constat et in corpus nascentibus insinuatur,
 
@@ -6034,7 +6039,7 @@ ut cibus, in membra atque artus cum diditur omnis,
 
 disperit atque aliam naturam sufficit ex se,
 
-705 sic anima atque animus quamvis est integra recens in
+705 sic [anima](/concepts/soul) atque animus quamvis est integra recens in
 
 corpus eunt, tamen in manando dissoluuntur,
 
@@ -6286,7 +6291,7 @@ adde furorem animi proprium atque oblivia rerum,
 
 adde quod in nigras lethargi mergitur undas.
 
-830 Nil igitur mors est ad nos neque pertinet hilum,
+830 Nil igitur [mors](/concepts/death) est ad nos neque pertinet hilum,
 
 quandoquidem natura animi mortalis habetur.
 
@@ -6356,7 +6361,7 @@ ipse quoque esse in eo tum tempore, cui male possit
 
 <span class="atom-split" data-atom="017" data-title="Liber Tertius (5/6)" data-chapter="Liber Tertius" data-kind="atom"></span>
 
-accidere. id quoniam mors eximit, esseque prohibet
+accidere. id quoniam [mors](/concepts/death) eximit, esseque prohibet
 
 865 illum cui possint incommoda conciliari,
 
@@ -6490,7 +6495,7 @@ consequitur leto nec quisquam expergitus extat,
 
 930 frigida quem semel est vitai pausa secuta.
 
-Denique si vocem rerum natura repente.
+Denique si vocem rerum [natura](/concepts/nature) repente.
 
 mittat et hoc alicui nostrum sic increpet ipsa:
 
@@ -6792,7 +6797,7 @@ nec devitari letum pote, quin obeamus.
 
 1080 praeterea versamur ibidem atque insumus usque
 
-nec nova vivendo procuditur ulla voluptas;
+nec nova vivendo procuditur ulla [voluptas](/positions/pleasure);
 
 sed dum abest quod avemus, id exsuperare videtur
 
@@ -6812,7 +6817,7 @@ quo minus esse diu possimus forte perempti.
 
 1090 proinde licet quod vis vivendo condere saecla,
 
-mors aeterna tamen nihilo minus illa manebit,
+[mors](/concepts/death) aeterna tamen nihilo minus illa manebit,
 
 nec minus ille diu iam non erit, ex hodierno
 
@@ -6886,7 +6891,7 @@ attinet esse ea quae rerum simulacra vocamus,
 
 quae quasi membranae vel cortex nominitandast,
 
-atque animi quoniam docui natura quid esset
+atque animi quoniam docui [natura](/concepts/nature) quid esset
 
 et quibus e rebus cum corpore compta vigeret
 
@@ -7062,7 +7067,7 @@ quid cordis globus aut oculi? quid membra? quid artus?
 
 120 quantula sunt! quid praeterea primordia quaeque,
 
-unde anima atque animi constet natura necessumst,
+unde [anima](/concepts/soul) atque animi constet natura necessumst,
 
 nonne vides quam sint subtilia quamque minuta?
 
@@ -7088,7 +7093,7 @@ sunt etiam quae sponte sua gignuntur et ipsa
 
 constituuntur in hoc caelo, qui dicitur aer,
 
-quae multis formata modis sublime feruntur,
+quae multis formata modis [sublime](/concepts/sublime) feruntur,
 
 ut nubes facile inter dum concrescere in alto
 
@@ -7210,7 +7215,7 @@ qua propter simulacra pari ratione necessest
 
 inmemorabile per spatium transcurrere posse
 
-temporis in puncto, primum quod parvola causa
+temporis in puncto, primum quod parvola [causa](/concepts/cause)
 
 est procul a tergo quae provehat atque propellat,
 
@@ -7292,7 +7297,7 @@ in tenebris quaedam cognoscitur esse eadem quae
 
 cernitur in luce et claro candore, necessest
 
-consimili causa tactum visumque moveri.
+consimili [causa](/concepts/cause) tactum visumque moveri.
 
 nunc igitur si quadratum temptamus et id nos
 
@@ -7472,7 +7477,7 @@ ponere nobiscum credas gestumque imitari
 
 continuo nequeunt illinc simulacra reverti;
 
-omnia quandoquidem cogit natura referri
+omnia quandoquidem cogit [natura](/concepts/nature) referri
 
 ac resilire ab rebus ad aequos reddita flexus.
 
@@ -7684,7 +7689,7 @@ Porticus aequali quamvis est denique ductu
 
 stansque in perpetuum paribus suffulta columnis,
 
-longa tamen parte ab summa cum tota videtur,
+longa tamen parte ab [summa](/schools/scholasticism) cum tota videtur,
 
 paulatim trahit angusti fastigia coni,
 
@@ -7738,7 +7743,7 @@ et duplicis hominum facies et corpora bina.
 
 Denique cum suavi devinxit membra sopore
 
-somnus et in summa corpus iacet omne quiete,
+somnus et in [summa](/schools/scholasticism) corpus iacet omne quiete,
 
 455 tum vigilare tamen nobis et membra movere
 
@@ -7826,7 +7831,7 @@ non possint alios alii convincere sensus.
 
 nec porro poterunt ipsi reprehendere sese,
 
-aequa fides quoniam debebit semper haberi.
+aequa [fides](/concepts/faith) quoniam debebit semper haberi.
 
 proinde quod in quoquest his visum tempore, verumst.
 
@@ -8084,7 +8089,7 @@ umida linguai circum sudantia templa;
 
 quanto quaeque magis sunt asperitate repleta.
 
-deinde voluptas est e suco fine palati;
+deinde [voluptas](/positions/pleasure) est e suco fine palati;
 
 cum vero deorsum per fauces praecipitavit,
 
@@ -8300,7 +8305,7 @@ Centauros itaque et Scyllarum membra videmus
 
 Cerbereasque canum facies simulacraque eorum
 
-quorum morte obita tellus amplectitur ossa;
+quorum [morte](/concepts/death) obita tellus amplectitur ossa;
 
 735 omnigenus quoniam passim simulacra feruntur,
 
@@ -8312,7 +8317,7 @@ et quae confiunt ex horum facta figuris.
 
 nam certe ex vivo Centauri non fit imago,
 
-740 nulla fuit quoniam talis natura animata;
+740 nulla fuit quoniam talis [natura](/concepts/nature) animata;
 
 verum ubi equi atque hominis casu convenit imago,
 
@@ -8322,7 +8327,7 @@ propter subtilem naturam et tenvia texta.
 
 cetera de genere hoc eadem ratione creantur.
 
-745 quae cum mobiliter summa levitate feruntur,
+745 quae cum mobiliter [summa](/schools/scholasticism) levitate feruntur,
 
 ut prius ostendi, facile uno commovet ictu
 
@@ -8516,7 +8521,7 @@ sermonem multoque creatae sunt prius aures
 
 ante fuere, ut opinor, eorum quam foret usus;
 
-haud igitur potuere utendi crescere causa.
+haud igitur potuere utendi crescere [causa](/concepts/cause).
 
 at contra conferre manu certamina pugnae
 
@@ -8566,7 +8571,7 @@ multaque per sudorem ex alto pressa feruntur.
 
 865 his igitur rebus rarescit corpus et omnis
 
-subruitur natura, dolor quam consequitur rem.
+subruitur [natura](/concepts/nature), dolor quam consequitur rem.
 
 propterea capitur cibus, ut suffulciat artus
 
@@ -8600,7 +8605,7 @@ dico animo nostro primum simulacra meandi
 
 accidere atque animum pulsare, ut diximus ante.
 
-inde voluntas fit; neque enim facere incipit ullam
+inde [voluntas](/concepts/will) fit; neque enim facere incipit ullam
 
 rem quisquam, quam mens providit quid velit ante.
 
@@ -8694,7 +8699,7 @@ possit, ut ex igni caeco consurgere flamma?
 
 Sed quibus haec rebus novitas confiat et unde
 
-930 perturbari anima et corpus languescere possit,
+930 perturbari [anima](/concepts/soul) et corpus languescere possit,
 
 expediam: tu fac ne ventis verba profundam.
 
@@ -8984,7 +8989,7 @@ Nec Veneris fructu caret is qui vitat amorem,
 
 sed potius quae sunt sine poena commoda sumit;
 
-1075 nam certe purast sanis magis inde voluptas
+1075 nam certe purast sanis magis inde [voluptas](/positions/pleasure)
 
 quam miseris; etenim potiundi tempore in ipso
 
@@ -8998,7 +9003,7 @@ quod petiere, premunt arte faciuntque dolorem
 
 <span class="atom-split" data-atom="024" data-title="Liber Quartus (6/6)" data-chapter="Liber Quartus" data-kind="atom"></span>
 
-osculaque adfigunt, quia non est pura voluptas
+osculaque adfigunt, quia non est pura [voluptas](/positions/pleasure)
 
 et stimuli subsunt, qui instigant laedere id ipsum,
 
@@ -9012,7 +9017,7 @@ namque in eo spes est, unde est ardoris origo,
 
 restingui quoque posse ab eodem corpore flammam.
 
-quod fieri contra totum natura repugnat;
+quod fieri contra totum [natura](/concepts/nature) repugnat;
 
 unaque res haec est, cuius quam plurima habemus,
 
@@ -9384,7 +9389,7 @@ eicit enim sulcum recta regione viaque
 
 vomeris atque locis avertit seminis ictum.
 
-idque sua causa consuerunt scorta moveri,
+idque sua [causa](/concepts/cause) consuerunt scorta moveri,
 
 1275 ne complerentur crebro gravidaeque iacerent,
 
@@ -9398,7 +9403,7 @@ deteriore fit ut forma muliercula ametur;
 
 1280 nam facit ipsa suis inter dum femina factis
 
-morigerisque modis et munde corpore culto,
+morigerisque modis et munde corpore [culto](/concepts/religion),
 
 ut facile insuescat secum te degere vitam.
 
@@ -9432,7 +9437,7 @@ dicendum est, deus ille fuit, deus, inclyte Memmi,
 
 qui princeps vitae rationem invenit eam quae
 
-10 nunc appellatur sapientia, quique per artem
+10 nunc appellatur [sapientia](/concepts/wisdom), quique per artem
 
 fluctibus et tantis vitam tantisque tenebris
 
@@ -9530,7 +9535,7 @@ foedere sint, in eo quam sit durare necessum
 
 nec validas valeant aevi rescindere leges,
 
-quo genere in primis animi natura reperta est
+quo genere in primis animi [natura](/concepts/nature) reperta est
 
 60 nativo primum consistere corpore creta,
 
@@ -9626,7 +9631,7 @@ sed tamen effabor. dictis dabit ipsa fidem res
 
 omnia conquassari in parvo tempore cernes.
 
-quod procul a nobis flectat fortuna gubernans,
+quod procul a nobis flectat [fortuna](/concepts/fortune) gubernans,
 
 et ratio potius quam res persuadeat ipsa
 
@@ -9640,7 +9645,7 @@ Pythia quae tripode a Phoebi lauroque profatur,
 
 multa tibi expediam doctis solacia dictis;
 
-religione refrenatus ne forte rearis
+[religione](/concepts/religion) refrenatus ne forte rearis
 
 115 terras et solem et caelum, mare sidera lunam,
 
@@ -9692,7 +9697,7 @@ quod quoniam nostro quoque constat corpore certum
 
 dispositumque videtur ubi esse et crescere possit
 
-140 seorsum anima atque animus, tanto magis infitiandum
+140 seorsum [anima](/concepts/soul) atque animus, tanto magis infitiandum
 
 totum posse extra corpus formamque animalem
 
@@ -9724,7 +9729,7 @@ dissimiles debent, tenues de corpore eorum;
 
 155 quae tibi posterius largo sermone probabo.
 
-Dicere porro hominum causa voluisse parare
+Dicere porro hominum [causa](/concepts/cause) voluisse parare
 
 praeclaram mundi naturam proptereaque
 
@@ -9738,13 +9743,13 @@ gentibus humanis fundatum perpetuo aevo,
 
 sollicitare suis ulla vi ex sedibus umquam
 
-nec verbis vexare et ab imo evertere summa,
+nec verbis vexare et ab imo evertere [summa](/schools/scholasticism),
 
 cetera de genere hoc adfingere et addere, Memmi,
 
 165 desiperest. quid enim inmortalibus atque beatis
 
-gratia nostra queat largirier emolumenti,
+[gratia](/concepts/grace) nostra queat largirier emolumenti,
 
 ut nostra quicquam causa gerere adgrediantur?
 
@@ -9768,7 +9773,7 @@ donec diluxit rerum genitalis origo?
 
 natus enim debet qui cumque est velle manere
 
-in vita, donec retinebit blanda voluptas;
+in vita, donec retinebit blanda [voluptas](/positions/pleasure);
 
 qui numquam vero vitae gustavit amorem
 
@@ -9788,7 +9793,7 @@ si non ipsa dedit speciem natura creandi?
 
 namque ita multa modis multis primordia rerum
 
-ex infinito iam tempore percita plagis
+ex [infinito](/concepts/infinity) iam tempore percita plagis
 
 ponderibusque suis consuerunt concita ferri
 
@@ -9856,7 +9861,7 @@ humanae genti infestum terraque marique
 
 220 cur alit atque auget? cur anni tempora morbos
 
-adportant? quare mors inmatura vagatur?
+adportant? quare [mors](/concepts/death) inmatura vagatur?
 
 tum porro puer, ut saevis proiectus ab undis
 
@@ -9864,7 +9869,7 @@ navita, nudus humi iacet infans indigus omni
 
 vitali auxilio, cum primum in luminis oras
 
-225 nixibus ex alvo matris natura profudit,
+225 nixibus ex alvo matris [natura](/concepts/nature) profudit,
 
 vagituque locum lugubri complet, ut aequumst
 
@@ -9888,7 +9893,7 @@ tellus ipsa parit naturaque daedala rerum.
 
 aurarumque leves animae calidique vapores,
 
-e quibus haec rerum consistere summa videtur,
+e quibus haec rerum consistere [summa](/schools/scholasticism) videtur,
 
 omnia nativo ac mortali corpore constant,
 
@@ -9906,7 +9911,7 @@ cum videam membra ac partis consumpta regigni,
 
 245 scire licet caeli quoque item terraeque fuisse
 
-principiale aliquod tempus clademque futuram.
+principiale aliquod [tempus](/concepts/time) clademque futuram.
 
 Illud in his rebus ne corripuisse rearis
 
@@ -10046,7 +10051,7 @@ nec validas aevi vires perferre patique
 
 315 finiti? neque enim caderent avolsa repente,
 
-ex infinito quae tempore pertolerassent
+ex [infinito](/concepts/infinity) quae tempore pertolerassent
 
 omnia tormenta aetatis, privata fragore.
 
@@ -10108,7 +10113,7 @@ exitium quoque terrarum caelique futurum;
 
 temptarentur, ibi si tristior incubuisset
 
-causa, darent late cladem magnasque ruinas.
+[causa](/concepts/cause), darent late cladem magnasque ruinas.
 
 nec ratione alia mortales esse videmur,
 
@@ -10212,7 +10217,7 @@ avia cum Phaethonta rapax vis solis equorum
 
 aethere raptavit toto terrasque per omnis.
 
-at pater omnipotens ira tum percitus acri
+at pater omnipotens [ira](/concepts/anger) tum percitus acri
 
 400 magnanimum Phaethonta repenti fulminis ictu
 
@@ -10434,7 +10439,7 @@ significat Pontos, mare certo quod fluit aestu
 
 unum labendi conservans usque tenorem.
 
-Motibus astrorum nunc quae sit causa canamus.
+Motibus astrorum nunc quae sit [causa](/concepts/cause) canamus.
 
 510 principio magnus caeli si vortitur orbis,
 
@@ -10538,7 +10543,7 @@ Denique iam saltu pernici tollere corpus
 
 560 quid potis est nisi vis animae, quae membra gubernat?
 
-iamne vides quantum tenuis natura valere
+iamne vides quantum tenuis [natura](/concepts/nature) valere
 
 possit, ubi est coniuncta gravi cum corpore, ut aër
 
@@ -10968,7 +10973,7 @@ qua fieri quicquid posset ratione resolvi,
 
 solis uti varios cursus lunaeque meatus
 
-775 noscere possemus quae vis et causa cieret,
+775 noscere possemus quae vis et [causa](/concepts/cause) cieret,
 
 quove modo possent offecto lumine obire
 
@@ -11040,7 +11045,7 @@ quos ubi tempore maturo pate fecerat aetas
 
 810 infantum, fugiens umorem aurasque petessens,
 
-convertebat ibi natura foramina terrae
+convertebat ibi [natura](/concepts/nature) foramina terrae
 
 et sucum venis cogebat fundere apertis
 
@@ -11340,7 +11345,7 @@ nec commune bonum poterant spectare neque ullis
 
 moribus inter se scibant nec legibus uti.
 
-960 quod cuique obtulerat praedae fortuna, ferebat
+960 quod cuique obtulerat praedae [fortuna](/concepts/fortune), ferebat
 
 sponte sua sibi quisque valere et vivere doctus.
 
@@ -11478,7 +11483,7 @@ aut genus humanum iam tum foret omne peremptum
 
 nec potuisset adhuc perducere saecla propago.
 
-At varios linguae sonitus natura subegit
+At varios linguae sonitus [natura](/concepts/nature) subegit
 
 mittere et utilitas expressit nomina rerum,
 
@@ -11666,7 +11671,7 @@ aequo animo; neque enim est umquam penuria parvi.
 
 1120 at claros homines voluerunt se atque potentes,
 
-ut fundamento stabili fortuna maneret
+ut fundamento stabili [fortuna](/concepts/fortune) maneret
 
 et placidam possent opulenti degere vitam,
 
@@ -11678,7 +11683,7 @@ certantes iter infestum fecere viai,
 
 invidia inter dum contemptim in Tartara taetra;
 
-invidia quoniam ceu fulmine summa vaporant
+invidia quoniam ceu fulmine [summa](/schools/scholasticism) vaporant
 
 plerumque et quae sunt aliis magis edita cumque;
 
@@ -11720,7 +11725,7 @@ ex inimicitiis languebat; quo magis ipsum
 
 sponte sua cecidit sub leges artaque iura.
 
-acrius ex ira quod enim se quisque parabat
+acrius ex [ira](/concepts/anger) quod enim se quisque parabat
 
 ulcisci quam nunc concessumst legibus aequis,
 
@@ -11746,7 +11751,7 @@ aut morbo delirantes protraxe ferantur
 
 1160 et celata mala in medium et peccata dedisse.
 
-Nunc quae causa deum per magnas numina gentis
+Nunc quae [causa](/concepts/cause) deum per magnas numina gentis
 
 pervulgarit et ararum compleverit urbis
 
@@ -11874,7 +11879,7 @@ corripiunt divum percussi membra timore,
 
 ne quod ob admissum foede dictumve superbe
 
-1225 poenarum grave sit solvendi tempus adauctum?
+1225 poenarum grave sit solvendi [tempus](/concepts/time) adauctum?
 
 summa etiam cum vis violenti per mare venti
 
@@ -11986,7 +11991,7 @@ inque dies magis adpetitur floretque repertum
 
 1280 laudibus et miro est mortalis inter honore.
 
-Nunc tibi quo pacto ferri natura reperta
+Nunc tibi quo pacto ferri [natura](/concepts/nature) reperta
 
 sit facilest ipsi per te cognoscere, Memmi.
 
@@ -12134,7 +12139,7 @@ nec ratione alia possunt tam levia gigni
 
 insilia ac fusi, radii, scapique sonantes.
 
-et facere ante viros lanam natura coëgit
+et facere ante viros lanam [natura](/concepts/nature) coëgit
 
 1355 quam muliebre genus; nam longe praestat in arte
 
@@ -12292,7 +12297,7 @@ semper et in curis consumit inanibus aevom,
 
 ni mirum quia non cognovit quae sit habendi
 
-finis et omnino quoad crescat vera voluptas;
+finis et omnino quoad crescat vera [voluptas](/positions/pleasure);
 
 idque minutatim vitam provexit in altum
 
@@ -12404,7 +12409,7 @@ quidve mali foret in rebus mortalibus passim,
 
 30 quod fieret naturali varieque volaret
 
-seu casu seu vi, quod sic natura parasset,
+seu casu seu vi, quod sic [natura](/concepts/nature) parasset,
 
 et quibus e portis occurri cuique deceret,
 
@@ -12444,7 +12449,7 @@ tu mihi supremae praescripta ad candida callis
 
 currenti spatium praemonstra, callida musa
 
-50 Calliope, requies hominum divomque voluptas,
+50 Calliope, requies hominum divomque [voluptas](/positions/pleasure),
 
 te duce ut insigni capiam cum laude coronam.
 
@@ -12498,9 +12503,9 @@ dis indigna putare alienaque pacis eorum,
 
 delibata deum per te tibi numina sancta
 
-75 saepe oberunt; non quo violari summa deum vis
+75 saepe oberunt; non quo violari [summa](/schools/scholasticism) deum vis
 
-possit, ut ex ira poenas petere inbibat acris,
+possit, ut ex [ira](/concepts/anger) poenas petere inbibat acris,
 
 sed quia tute tibi placida cum pace quietos
 
@@ -12526,7 +12531,7 @@ versibus; est ratio caeliQUE ignisque tenenda,
 
 sunt tempestates et fulmina clara canenda,
 
-quid faciant et qua de causa cumque ferantur;
+quid faciant et qua de [causa](/concepts/cause) cumque ferantur;
 
 90 ne trepides caeli divisis partibus amens,
 
@@ -12542,7 +12547,7 @@ quorum operum causas nulla ratione videre
 
 Principio tonitru quatiuntur caerula caeli
 
-propterea quia concurrunt sublime volantes
+propterea quia concurrunt [sublime](/concepts/sublime) volantes
 
 aetheriae nubes contra pugnantibus ventis.
 
@@ -12802,7 +12807,7 @@ et celeri flamma dominantur in aedibus ipsis.
 
 225 hunc tibi subtilem cum primis ignibus ignem
 
-constituit natura minutis mobilibusque
+constituit [natura](/concepts/nature) minutis mobilibusque
 
 corporibus, cui nil omnino obsistere possit.
 
@@ -13088,7 +13093,7 @@ ignibus et ventis furibundus fluctuet aeër.
 
 prima caloris enim pars est postrema rigoris;
 
-tempus id est vernum; quare pugnare necessest
+[tempus](/concepts/time) id est vernum; quare pugnare necessest
 
 370 dissimilis res inter se turbareque mixtas.
 
@@ -13128,7 +13133,7 @@ quod si Iuppiter atque alii fulgentia divi
 
 terrifico quatiunt sonitu caelestia templa
 
-et iaciunt ignem quo cuiquest cumque voluntas,
+et iaciunt ignem quo cuiquest cumque [voluntas](/concepts/will),
 
 390 cur quibus incautum scelus aversabile cumquest
 
@@ -13280,7 +13285,7 @@ propterea quia, cum consistunt nubila primum,
 
 ante videre oculi quam possint tenvia, venti
 
-portantes cogunt ad summa cacumina montis;
+portantes cogunt ad [summa](/schools/scholasticism) cacumina montis;
 
 465 hic demum fit uti turba maiore coorta
 
@@ -13484,7 +13489,7 @@ protractaeque trabes inpendent ire paratae.
 
 565 et metuunt magni naturam credere mundi
 
-exitiale aliquod tempus clademque manere,
+exitiale aliquod [tempus](/concepts/time) clademque manere,
 
 cum videant tantam terrarum incumbere molem!
 
@@ -13506,7 +13511,7 @@ et recipit prolapsa suas in pondere sedes.
 
 summa magis mediis, media imis, ima perhilum.
 
-Est haec eiusdem quoque magni causa tremoris.
+Est haec eiusdem quoque magni [causa](/concepts/cause) tremoris.
 
 ventus ubi atque animae subito vis maxima quaedam
 
@@ -13548,7 +13553,7 @@ ancipiti trepidant igitur terrore per urbis,
 
 tecta superne timent, metuunt inferne cavernas
 
-terrai ne dissoluat natura repente,
+terrai ne dissoluat [natura](/concepts/nature) repente,
 
 neu distracta suum late dispandat hiatum
 
@@ -13688,7 +13693,7 @@ unde queat vis immensi procrescere morbi.
 
 665 sic igitur toti caelo terraeque putandumst
 
-ex infinito satis omnia suppeditare,
+ex [infinito](/concepts/infinity) satis omnia suppeditare,
 
 unde repente queat tellus concussa moveri
 
@@ -13722,7 +13727,7 @@ flamma foras vastis Aetnae fornacibus efflet,
 
 expediam. primum totius subcava montis
 
-est natura fere silicum suffulta cavernis.
+est [natura](/concepts/nature) fere silicum suffulta cavernis.
 
 omnibus est porro in speluncis ventus et aeër.
 
@@ -13866,7 +13871,7 @@ cornices, non cum fumant altaria donis;
 
 usque adeo fugitant non iras Palladis acris
 
-pervigili causa, Graium ut cecinere poeëtae,
+pervigili [causa](/concepts/cause), Graium ut cecinere poeëtae,
 
 755 sed natura loci opus efficit ipsa suapte.
 
@@ -14326,7 +14331,7 @@ Hoc etiam super est, ipsa quam dicere de re
 
 multa foramina cum variis sint reddita rebus,
 
-dissimili inter se natura praedita debent
+dissimili inter se [natura](/concepts/nature) praedita debent
 
 esse et habere suam naturam quaeque viasque.
 
@@ -14364,7 +14369,7 @@ omnia constiterint nobis praeposta parata,
 
 1000 quod super est, facile hinc ratio reddetur et omnis
 
-causa pate fiet, quae ferri pelliciat vim.
+[causa](/concepts/cause) pate fiet, quae ferri pelliciat vim.
 
 Principio fluere e lapide hoc permulta necessest
 
@@ -14634,7 +14639,7 @@ nec refert utrum nos in loca deveniamus
 
 nobis adversa et caeli mutemus amictum,
 
-1135 an caelum nobis ultro natura corumptum
+1135 an caelum nobis ultro [natura](/concepts/nature) corumptum
 
 deferat aut aliquid quo non consuevimus uti,
 
@@ -14748,7 +14753,7 @@ salsaque per fauces rauca vix edita tussi.
 
 a pedibusque minutatim succedere frigus
 
-non dubitabat. item ad supremum denique tempus
+non dubitabat. item ad supremum denique [tempus](/concepts/time)
 
 conpressae nares, nasi primoris acumen
 
@@ -14756,7 +14761,7 @@ tenve, cavati oculi, cava tempora, frigida pellis
 
 1195 duraque in ore, iacens rictu, frons tenta manebat.
 
-nec nimio rigida post artus morte iacebant.
+nec nimio rigida post artus [morte](/concepts/death) iacebant.
 
 octavoque fere candenti lumine solis
 
@@ -14886,7 +14891,7 @@ multa siti prostrata viam per proque voluta
 
 1260 corpora silanos ad aquarum strata iacebant
 
-interclusa anima nimia ab dulcedine aquarum,
+interclusa [anima](/concepts/soul) nimia ab dulcedine aquarum,
 
 multaque per populi passim loca prompta viasque
 

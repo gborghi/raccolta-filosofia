@@ -12,6 +12,11 @@ tags:
   - "philosopher/seneca"
 ---
 
+> [!abstract]
+> Tragedy of Oedipus who, despite every effort to escape the oracle, fulfills its prophecy; it explores the inescapable power of fate over human action.
+
+<p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/seneca/oedipus" data-philosopher="Seneca"></div>
 
 
@@ -43,7 +48,7 @@ An oracle once came to Laïus, king of Thebes, that he should perish by his own 
 
 Years later a reputed son of Polybus, Oedipus by name, fearing an oracle which doomed him to slay his father and wed his mother, fled from Corinth, that so he might escape this dreadful fate. As he fared northward he met and slew an old man who imperiously disputed the narrow way with him. Upon arriving at the Theban land he read the riddle of the Sphinx, and so destroyed that monster which Juno had sent to harass the land which she hated; and for this service Oedipus was made the husband of Jocasta, the widowed queen of Laïus (recently slain, so said report, by a band of robbers, on the high road), and set upon the vacant throne.
 
-Now other years have passed, and sons and daughters have been born to the royal pair. But now a dreadful pestilence afflicts the State. Oedipus has sent Creon to consult the oracle, to learn the cause and seek the means of deliverance from the scourge. And while he waits his messenger’s return the murky dawn still finds him grieving for his kingdom’s wretched plight.
+Now other years have passed, and sons and daughters have been born to the royal pair. But now a dreadful pestilence afflicts [the State](/concepts/state). Oedipus has sent Creon to consult the oracle, to learn the cause and seek the means of deliverance from the scourge. And while he waits his messenger’s return the murky dawn still finds him grieving for his kingdom’s wretched plight.
 
 OEDIPUS
 
@@ -165,7 +170,7 @@ CREON
 
 OEDIPUS
 
-[247] Now at Heaven’s command let the crime be expiated. Whoever of the gods dost look with favour upon kingdoms – thou, thou whose are the laws of the swift-revolving heavens; and thou, greatest glory of the unclouded sky, who presidest over the twelve signs in thy changing course, who doest unroll the slow centuries with swift wheel; and thou, his sister, ever faring opposite to thy brother, Phoebe, night-wanderer; thou whom the winds obey, who over the level deep dost speed thy azure care; and thou who dost allot homes devoid of light – do ye all attend: Him by whose hand Laïus fell may no peaceful dwelling, no friendly household gods, no hospitable land in exile entertain; over shameful nuptials may he lament and impious progeny; may he, too, slay his own father with his own hand and do – can aught heavier be entreated? – whatever I have fled from. There shall be no place for pardon. I swear by the sway which I now, a stranger, bear, and by that which I abandoned; by my household gods; by thee, O father Neptune, who in double stream dost play against my shores on either side with scanty waves. And do thou thyself come as witness to my words, thou who doest inspire the fate-speaking lips of Cirrha’s priestess: So may my father spend peaceful age and end his days secure on his lofty throne; so may Merope know the nuptial torches of her Polybus alone, as by no grace shall the guilty one escape my hand.
+[247] Now at Heaven’s command let the crime be expiated. Whoever of the gods dost look with favour upon kingdoms – thou, thou whose are the laws of the swift-revolving heavens; and thou, greatest glory of the unclouded sky, who presidest over the twelve signs in thy changing course, who doest unroll the slow centuries with swift wheel; and thou, his sister, ever faring opposite to thy brother, Phoebe, night-wanderer; thou whom the winds obey, who over the level deep dost speed thy azure care; and thou who dost allot homes devoid of light – do ye all attend: Him by whose hand Laïus fell may no peaceful dwelling, no friendly household gods, no hospitable land in exile entertain; over shameful nuptials may he lament and impious progeny; may he, too, slay his own father with his own hand and do – can aught heavier be entreated? – whatever I have fled from. There shall be no place for pardon. I swear by the sway which I now, a stranger, bear, and by that which I abandoned; by my household gods; by thee, O father Neptune, who in double stream dost play against my shores on either side with scanty waves. And do thou thyself come as witness to my words, thou who doest inspire the fate-speaking lips of Cirrha’s priestess: So may my father spend peaceful age and end his days secure on his lofty throne; so may Merope know the nuptial torches of her Polybus alone, as by no [grace](/concepts/grace) shall the guilty one escape my hand.
 
 [274] But tell me, where was the impious crime committed? Did he die in open battle or by treachery?
 
@@ -251,7 +256,7 @@ TIRESIAS
 
 MANTO
 
-[353] Father, what is this? With no gentle motion, as is their wont, do the entrails shake and quiver, but my whole hand do they cause to tremble and blood spurts afresh from the veins. The heart, diseased through and through, is withered and lies deep hidden, and the reins are of livid hue. A great part of the entrails is wanting, and from the rotting liver black gall oozes forth, and see – ever fatal omen for sole sovereignty – two heads rise side by side with equal bulge; yet each cloven head is hidden in but thin membrane, refusing a lurking place to secret things. The hostile side rises with sturdy strength and shows seven swelling veins; but all these an intercepting line cuts straight across, preventing their return. The positions have been changed; no organ lies in its own place, but all things reversed: on the right side lie the lungs all clogged with blood, and with no room for breath; on the left is not the region of the heart; no caul with soft covering stretches its rich folds over the entrails. Nature is subverted; even the womb follows not its law. Let us look close and see whence comes this stiffness in the entrails. What monstrosity is this? A foetus in an unmated heifer! nor does it lie in accustomed fashion, but fills its mother in an unnatural place. Moaning it moves its limbs, and its weak members twitch with convulsive rigors. Livid gore has stained the entrails black. [She ceases her inspection as the bodies of the victims suddenly begin to move.] The sadly mangled forms essay to move, and one disembowelled body strives to rise and menaces the priests with its horns; the entrails flee from my hand. Nor is that wound which strikes thy ears the deep lowing of the herd, nor are frightened cattle bellowing anywhere; it is the lowing of the altar-fires, the affrighted murmurings of the hearth.
+[353] Father, what is this? With no gentle motion, as is their wont, do the entrails shake and quiver, but my whole hand do they cause to tremble and blood spurts afresh from the veins. The heart, diseased through and through, is withered and lies deep hidden, and the reins are of livid hue. A great part of the entrails is wanting, and from the rotting liver black gall oozes forth, and see – ever fatal omen for sole [sovereignty](/positions/sovereignty) – two heads rise side by side with equal bulge; yet each cloven head is hidden in but thin membrane, refusing a lurking place to secret things. The hostile side rises with sturdy strength and shows seven swelling veins; but all these an intercepting line cuts straight across, preventing their return. The positions have been changed; no organ lies in its own place, but all things reversed: on the right side lie the lungs all clogged with blood, and with no room for breath; on the left is not the region of the heart; no caul with soft covering stretches its rich folds over the entrails. Nature is subverted; even the womb follows not its law. Let us look close and see whence comes this stiffness in the entrails. What monstrosity is this? A foetus in an unmated heifer! nor does it lie in accustomed fashion, but fills its mother in an unnatural place. Moaning it moves its limbs, and its weak members twitch with convulsive rigors. Livid gore has stained the entrails black. [She ceases her inspection as the bodies of the victims suddenly begin to move.] The sadly mangled forms essay to move, and one disembowelled body strives to rise and menaces the priests with its horns; the entrails flee from my hand. Nor is that wound which strikes thy ears the deep lowing of the herd, nor are frightened cattle bellowing anywhere; it is the lowing of the altar-fires, the affrighted murmurings of the hearth.
 
 OEDIPUS
 
@@ -297,7 +302,7 @@ CHORUS
 
 [487] Naxos, girt by the Aegean sea, gave him in marriage a deserted maiden, compensating her loss with a better husband. Out of the dry rock there gushed Nyctelian liquor; babbling rivulets divided the grassy meadows; deep the earth drank in the sweet juices, white fountains of snowy milk and Lesbian wine mingled with fragrant thyme. The new-made bride is led to the lofty heavens; Phoebus a stately anthem sings, with his locks flowing down his shoulders, and twin Cupids brandish their torches. Jupiter lays aside his fiery weapons and, when Bacchus comes, abhors his thunderbolt.
 
-[504] While the bright stars of the ancient heavens shall run in their courses; while the ocean shall encircle the imprisoned earth with its waters; while the full moon gather again her lost radiance; while the Day Star shall herald the dawn of the morning and while the lofty Bears shall know naught of caerulean Nereus; so long shall we worship the shining face of beauteous Lyaeus.
+[504] While the bright stars of the ancient heavens shall run in their courses; while the ocean shall encircle the imprisoned earth with its waters; while the full moon gather again her lost radiance; while the Day Star shall herald the dawn of the morning and while the lofty Bears shall know naught of caerulean Nereus; so long shall we [worship](/concepts/religion) the shining face of beauteous Lyaeus.
 
 [Enter CREON, returned from the rites of necromancy.]
 
@@ -389,7 +394,7 @@ CREON
 
 OEDIPUS
 
-[678] Dost even urge me of free will to lay down the heavy cares of state?
+[678] Dost even urge me of [free will](/positions/free_will) to lay down the heavy cares of state?
 
 CREON
 
@@ -793,7 +798,7 @@ OEDIPUS
 
 JOCASTA
 
-[1024] Why art benumbed, my soul? Since thou hast shared his guilt, why dost refuse to share his punishment? Through thee, incestuous one, all grace of human law has been confused and lost. Die then, and let out thy impious spirit with the sword. Not if the father of the gods himself, shaking the universe, with deadly hand should hurl his glittering bolts at me, could I ever pay penalty equal to my crimes – I, a mother accurst. Death is my darling wish; let the way of death be sought.
+[1024] Why art benumbed, my soul? Since thou hast shared his guilt, why dost refuse to share his punishment? Through thee, incestuous one, all [grace](/concepts/grace) of human law has been confused and lost. Die then, and let out thy impious spirit with the sword. Not if the father of the gods himself, shaking the universe, with deadly hand should hurl his glittering bolts at me, could I ever pay penalty equal to my crimes – I, a mother accurst. Death is my darling wish; let the way of death be sought.
 
 [1032] [To OEDIPUS.] Come, lend thy hand against thy mother, if thou art parricide; this lacks to crown thy work.
 

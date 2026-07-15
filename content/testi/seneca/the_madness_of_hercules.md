@@ -12,6 +12,11 @@ tags:
   - "philosopher/seneca"
 ---
 
+> [!abstract]
+> Tragedy of Hercules driven mad by Juno and led to kill his wife and children: it contrasts the hero's heroic virtus with the blind, hostile force of divine fate.
+
+<p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/seneca/the_madness_of_hercules" data-philosopher="Seneca"></div>
 
 
@@ -303,7 +308,7 @@ AMPHITRYON
 
 LYCUS
 
-[511] He who inflicts on all the penalty of death knows not how to be a king. Impose contrasting penalties: forbid the wretched, command the happy man to die. Now while the pyre feeds on the burning beams, with promised gifts will I worship him who rules the sea.
+[511] He who inflicts on all the penalty of death knows not how to be a king. Impose contrasting penalties: forbid the wretched, command the happy man to die. Now while the pyre feeds on the burning beams, with promised gifts will I [worship](/concepts/religion) him who rules the sea.
 
 [Exit.]
 
@@ -577,7 +582,7 @@ HERCULES
 
 [He recognizes his dead wife and children.]
 
-[1159] What horror do I see? My sons, with bloody murder destroyed, lie here, my wife lies slain. What Lycus holds sway now? Who has dared perpetrate such outrages in Thebes, though Hercules has returned? Whoever dwellest by Ismenus’ stream, on Attic plains, in the kingdom of Dardanian Pelops, lapped by two seas, come to my aid, tell me the doer of this cruel murder. On all let mine anger sweep; my foeman is he who points not out the foe. Vanquisher of Alcides, hidest thou? Come out; whether thou dost seek vengeance for the savage horses of the bloody Thracian or for Geryon’s flock, or the Libyan heroes, I am ready for the fray. Here I stand defenceless, e’en though with my own arms thou shouldst assail me armourless.
+[1159] What horror do I see? My sons, with bloody murder destroyed, lie here, my wife lies slain. What Lycus holds sway now? Who has dared perpetrate such outrages in Thebes, though Hercules has returned? Whoever dwellest by Ismenus’ stream, on Attic plains, in the kingdom of Dardanian Pelops, lapped by two seas, come to my aid, tell me the doer of this cruel murder. On all let mine [anger](/concepts/anger) sweep; my foeman is he who points not out the foe. Vanquisher of Alcides, hidest thou? Come out; whether thou dost seek vengeance for the savage horses of the bloody Thracian or for Geryon’s flock, or the Libyan heroes, I am ready for the fray. Here I stand defenceless, e’en though with my own arms thou shouldst assail me armourless.
 
 [1173] Why does Theseus avoid my eyes, why does my father? Why do they hide their faces? Postpone your tears. Who has given my loved ones to death, all of them at once, tell me – why, father art thou silent? But do thou tell, Theseus! Nay, Theseus, tell me by thy loyalty! – They both in silence turn away and hide their faces as if in shame, while tears steal down their cheeks. In woes so great what room is there for shame? Has the ruthless lord of Argos, has the hostile band of dying Lycus, in ruin so vast overwhelmed me? O father, by the glory of my deeds, I pray thee, and by thy sacred name always next hallowed in my sight, speak out! who has overthrown my house? To whom have I fallen prey?
 
@@ -737,7 +742,7 @@ AMPHITRYON
 
 HERCULES
 
-[1321] Whither shall I flee? Where shall I hide me, or in what land bury me? What Tanaïs, what Nile, what Tigris, raging with Persian torrents, what warlike Rhine, or Tagus, turbid with the golden sands of Spain, can cleanse this hand? Though cold Maeotis should pour its northern sea upon me, though the whole ocean should stream along my hands, still will the deep stains cling. To what countries, man of sin, wilt thou betake thee? The rising or the setting sun wilt seek? Know in every land, I have lost place for exile. The world shrinks from my presence, the stars, moving askance, turn away their courses; Titan himself looked upon Cerberus with kindlier face. O faithful friend, Theseus, seek a hiding-place for me, remote, obscure; since, though witness of others’ sins, thou dost ever love the sinners, grant me now grace and recompense for favours past. Take me back, I pray thee, and restore me to the nether shades; put me in thy stead, loaded with thy chains; that place will hide me – but it, too, knows me!
+[1321] Whither shall I flee? Where shall I hide me, or in what land bury me? What Tanaïs, what Nile, what Tigris, raging with Persian torrents, what warlike Rhine, or Tagus, turbid with the golden sands of Spain, can cleanse this hand? Though cold Maeotis should pour its northern sea upon me, though the whole ocean should stream along my hands, still will the deep stains cling. To what countries, man of sin, wilt thou betake thee? The rising or the setting sun wilt seek? Know in every land, I have lost place for exile. The world shrinks from my presence, the stars, moving askance, turn away their courses; Titan himself looked upon Cerberus with kindlier face. O faithful friend, Theseus, seek a hiding-place for me, remote, obscure; since, though witness of others’ sins, thou dost ever love the sinners, grant me now [grace](/concepts/grace) and recompense for favours past. Take me back, I pray thee, and restore me to the nether shades; put me in thy stead, loaded with thy chains; that place will hide me – but it, too, knows me!
 
 THESEUS
 

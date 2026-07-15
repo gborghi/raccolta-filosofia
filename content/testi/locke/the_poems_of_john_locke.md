@@ -11,6 +11,11 @@ tags:
   - "philosopher/locke"
 ---
 
+> [!abstract]
+> Youthful occasional verse (for Cromwell, for the marriage of Charles II), with no philosophical content.
+
+<p class="work-source">Testo originale inglese · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/locke/the_poems_of_john_locke" data-philosopher="Locke"></div>
 
 
@@ -53,6 +58,46 @@ Who rule in peace that world you gain’d in war.
 You sure from heaven a perfect hero fell,
 
 Who thus alone two pagan gods excel.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Locke scrisse questo epigramma a Christ Church, collegio in cui entrò nell'anno 1651, e da cui subì quella memorabile espulsione a proposito della quale il signor Fox osserva che essa rivelò una certa sagacia istintiva nel governo del tempo, che additò loro, ancor prima che egli si fosse fatto conoscere dal mondo, l'uomo destinato a essere il più efficace avversario della superstizione e della tirannia. Nessuno dei nostri sovrani è stato, come Cromwell, onorato di panegirici poetici da parte di quattro autori tanto eminenti quanto Milton, Dryden, Waller e Locke.
+
+Pax regit Augusti, quem vicit Julius orbem;
+
+Ille sago factus clarior, ille toga.
+
+Hos sua Roma vocat magnos, et numina credit:
+
+Hic quod sit mundi victor, et ille quies.
+
+Tu bellum et pacem populis das, unus utrisque
+
+Major es: ipse orbem vincis, et ipse regis.
+
+Non hominem e cœlo missum te credimus, unus
+
+Sic poteras binos qui superare Deos?
+
+Un regno di pace resse il grande Augusto,
+
+su ciò che il grande Giulio aveva prima conquistato con le armi.
+
+Giulio fu tutto coronato di trofei marziali,
+
+Augusto fu rinomato per le sue arti pacifiche.
+
+Roma li chiama grandi, e li fa divinità;
+
+quello per il suo valore, questo per la sua politica.
+
+Tu, possente principe, sei di gran lunga più grande di entrambi,
+
+tu che governi in pace quel mondo che conquistasti in guerra.
+
+Tu, certo, cadesti dal cielo eroe perfetto,
+
+tu che così, da solo, superi due dèi pagani.
 
 <span class="atom-split" data-atom="002" data-title="ON THE MARRIAGE OF KING CHARLES II WITH THE INFANTA OF PORTUGAL" data-chapter="ON THE MARRIAGE OF KING CHARLES II WITH THE INFANTA OF PORTUGAL" data-kind="atom"></span>
 
@@ -170,6 +215,122 @@ Like Heaven you come, with Ravishments of Bliss,
 
 Desir’d unknown, at once seen, and made his.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Del 1662. Domiduca Oxomensis (Oxford, 1662), sig. B 2v-3v — la poesia di Locke è fra le 126 contenute in questo volume. Si veda la Lettera 134. In quest'anno re Carlo II sposò Caterina di Braganza. La poesia mostra alcuni dei sentimenti caratteristici del realismo della Restaurazione, presenti anche nei Tracts on Government.
+
+Corone, scettri, troni, e tutto lo stato dei re
+
+con tutta la pompa e la maestà che porta con sé,
+
+possono dare lustro a ogni parte esteriore,
+
+ma non possono raggiungere l'anima, né scaldare il cuore;
+
+tali fiamme non hanno dimora sotto i cieli,
+
+se non in quei piccoli cieli, gli occhi di una principessa.
+
+I re sono dèi quaggiù, ma pure, come lassù,
+
+non v'è cielo dove non v'è Amore.
+
+Quando il primo Uomo stava senza rivali
+
+possessore di tutto, e ogni cosa come lui era buona:
+
+il Cielo giudicò quel Tutto imperfetto, finché accanto
+
+non ebbe fatto un altro Sé, e dato una sposa:
+
+l'Impero e l'Innocenza erano lì; eppure
+
+fu EVA a compiere l'Uomo, e il Paradiso.
+
+Così, qualunque Frutto il nostro Eden possa offrire
+
+di Pace, o di Gloria, al suo possente Signore,
+
+per quanto cuori leali si adoperino a rendere il suo Stato
+
+grande quanto i loro desideri, o le sue virtù;
+
+e la sregolata ed ottusa Mandria renda
+
+il dovuto omaggio, e di nuovo impari a obbedire:
+
+pure, tutti i nostri migliori sforzi per la sua Beatitudine
+
+perfezionano la nostra propria Felicità, non la sua.
+
+Quell'Opera è Vostra (Grande REGINA), e quella a Voi
+
+la lasciamo, poiché tre interi Regni non poterono farla:
+
+siete voi che dovete coronare, e colmare quel Cuore, che i Fati
+
+destinarono a reggere gli Stati d'Occidente.
+
+Un Cuore così plasmato, come se fosse fatto e adatto
+
+solo per voi, e tutto il Mondo fatto per esso;
+
+di cui poteste, a distanza, fare vostra preda,
+
+senza il comune metodo degli occhi.
+
+Così regna il grande GIOVE con Fiamme, la cui Influenza
+
+opera senza aiuto o consapevolezza del Senso.
+
+Quando sul vostro CARLO, esiliato dalla Patria e dal Trono,
+
+la Fortuna continuava a corrucciarsi, e tutte le Dame sorridevano;
+
+immobile dinanzi a entrambe, egli conosceva un sentiero diretto
+
+da percorrere, verso una Felicità nascosta, e verso Voi.
+
+Così fa il Pilota esperto, quando le Onde si scagliano
+
+per affondare la Nave che gioca sulla loro Furia;
+
+se nubi scure e minacciose gli nascondono la Stella Polare,
+
+non bada a tutto ciò che altrove risplende in Cielo;
+
+governa una rotta salda in base a quella Stella vista da poco,
+
+che in nessun luogo, finché dura la Tempesta, riappare.
+
+Egli vide, e disdegnò tutto il resto; ma Voi
+
+eravate il Mondo non ancora scoperto, il suo ricco Perù,
+
+colmo di quelle Miniere di valore, che ancora conservano
+
+l'Età dell'Oro, o la fanno tornare.
+
+È la mancanza di valore che richiede un occhio cauto
+
+per esaminare ogni parte, e scorgerne i difetti.
+
+È sciocco e schizzinoso chi si rifiuterebbe di venire
+
+all'Elisio, se prima non l'avesse visto.
+
+Egli perlustrò il Mondo, e ne osservò ogni parte,
+
+ma trovò tutto ciò troppo poco per il suo Cuore:
+
+due cose sole restavano nascoste alla sua Vista,
+
+capaci di renderlo pienamente felice: il Cielo, e Voi:
+
+Come il Cielo voi venite, con Rapimenti di Beatitudine,
+
+desiderata ignota, vista e fatta sua a un tempo.
+
 <span class="atom-split" data-atom="003" data-title="IN TRACTATUM DE FEBRIBUS D. D. SYDENHAM" data-chapter="IN TRACTATUM DE FEBRIBUS D. D. SYDENHAM" data-kind="atom"></span>
 
 Febriles aestus, victumque ardoribus orbem
@@ -232,7 +393,7 @@ Quid febrim exstinguat, varius quid postulat usus,
 
 Solari aegrotos, qua potes arte, docet
 
-Hactenus Ipsa suum timuit natura calorem,
+Hactenus Ipsa suum timuit [natura](/concepts/nature) calorem,
 
 Dum aepe incerto, quo calet, igne perit:
 
@@ -271,3 +432,105 @@ Quicquid inest istis ignibus, ignis erit.
 The Biographies
 
 John Locke by Godfrey Kneller, 1697
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli ardori febbrili, e il mondo vinto dai loro ardori,
+
+pianse la medicina, non pari a mali tanto grandi.
+
+Poiché, dopo mille arti, i tentativi di una cura a metà,
+
+la febbre arde ancora; e non vuole essere domata dall'arte.
+
+Siamo preda delle fiamme; questo solo speriamo dal fuoco,
+
+che resti una poca cenere, quella che l'urna raccoglie.
+
+Mentre il medico cerca la causa della febbre, e il suo modo,
+
+e le tenebre delle fiamme, e le fiaccole senza luce;
+
+soffre le stesse fiamme che tratta, e riscaldandosi di febbre,
+
+egli stesso crolla, vittima rapita dal proprio focolare.
+
+Colui che poté fermare i mali lenti e le membra tremanti,
+
+si vede rapito dal fuoco della febbre.
+
+Così l'artigiano sostiene con un puntello le mura corrose;
+
+mentre una lenta rovina trascina le vecchie case.
+
+Ma se una fiamma vorace incendia le misere case,
+
+l'unica salvezza allora è seppellire ciò che brucia,
+
+si fugge, e nessuno invoca allora le arti del costruttore;
+
+poiché la casa dell'artefice, bruciata, non perisce meno delle altre.
+
+Alla fine Sydenham, opponendosi al furore
+
+della febbre e della scuola, cerca rimedio al male, con l'aiuto dell'arte.
+
+Non accusa a caso i fuochi di un occulto marciume;
+
+né sarà immaginario l'umore che alimenta le febbri.
+
+Egli non incolpa la bile, né qui c'è flegma; della salute
+
+quale speranza, se dentro arde un'acqua ingannevole?
+
+Non ostenta dotte contese con grande clamore,
+
+contese in cui arde un fervore maggiore delle febbri stesse.
+
+Ordina che il corpo bruci placidamente di fiamme innocue,
+
+e modera con fuoco giusto i focolari troppo rapidi.
+
+Ciò che estingue la febbre, ciò che il vario bisogno richiede,
+
+insegna con quale arte si possano confortare i malati.
+
+Fino ad ora la stessa [natura](/concepts/nature) temette il proprio calore,
+
+mentre spesso perisce per quel fuoco incerto di cui arde:
+
+mentre, poco previdente, ripara i silenziosi fuochi del sangue,
+
+ha già preludiato alla tomba, e quel calore diventa un rogo.
+
+Ora i precordi possano, sicuri, nutrire le proprie fiamme,
+
+la misura che la natura nega, la medicina la dà.
+
+Né soltanto placa i lievi ardori del sangue,
+
+mentre la salvezza è incerta tra la speranza e il timore;
+
+ma ha domato il male fatale, quello che crediamo
+
+generato da astri maligni, o dalla Stige adirata.
+
+Ha strappato a Lachesi i coltelli, e ha tolto il veleno
+
+dai dardi, e non permette che i timori siano così grandi.
+
+Chi mai crederebbe che una peste, domata da un'arte nuova,
+
+possa infine placarsi e deporre le antiche minacce?
+
+Dopo tante migliaia di morti, e funerali ammassati sulla tomba,
+
+la terribile peste giace vinta, da una piccola ferita.
+
+Sebbene i fuochi eterei spargano il contagio,
+
+qualunque cosa sia in quei fuochi, sarà pur sempre fuoco.
+
+Le biografie
+
+John Locke di Godfrey Kneller, 1697

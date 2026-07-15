@@ -12,6 +12,11 @@ tags:
   - "philosopher/seneca"
 ---
 
+> [!abstract]
+> Fabula praetexta (Roman historical drama) on the repudiation and death of Octavia by order of Nero; it portrays tyranny and the fragility of fortune at the imperial court.
+
+<p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/seneca/octavia" data-philosopher="Seneca"></div>
 
 
@@ -37,13 +42,13 @@ And what of the genuine Roman dramatic product? Speaking for the fabula praetext
 
 From Naevius (265-204 B.C.) we have the Clastidium, written in celebration of the victory of Marcellus (at Clastidium in 222 B.C.) over Vidumarus, king of the Transpadane Gauls, whom Marcellus slew and stripped of his armour, thus gaining the rare spolia opima. The play was probably written for the especial occasion either of the triumph of Marcellus or of the celebration of his funeral.
 
-We have also from Naevius a play variously entitled Lupus or Romulus or Alimonium Remi et Romuli, evidently one of those dramatic reproductions of scenes in the life of a god, enacted as a part of the ceremonies of his worship. This play is comparable to dramatic representations among the Greeks in the worship of Dionysus.
+We have also from Naevius a play variously entitled Lupus or Romulus or Alimonium Remi et Romuli, evidently one of those dramatic reproductions of scenes in the life of a god, enacted as a part of the ceremonies of his [worship](/concepts/religion). This play is comparable to dramatic representations among the Greeks in the worship of Dionysus.
 
 The Ambracia and the Sabinae of Ennius (239-169 B.C.) are ordinarily classed as fabulae praetextaey although Lucian Miiller classes the fragments of the Ambracia among the Salurae of Ennius; while Vahlen puts the Aînbracia under the heading Comoediarum et ceterorum carminum reliquiae, and classifies the fragments of the Sabinae under ex incerlis saturarum libris. The Ambracia is evidently called after the city of that name in Epirus, celebrated for the long and remarkable siege which it sustained against the Romans under M. Fulvius Nobilior. That general finally captured the city in 189 B.C. If the piece is to be considered as a play, it was, like the Clastidium) written in honour of the Roman general, and acted on the occasion either of his triumph or of his funeral.
 
 We have four short fragments from the Paulus of Pacuvius (220-130 B.C.), written in celebration of the exploits of L. Aemilius Paulus who conquered Perseus, king of Macedonia, in the battle of Pydna, 168 B.C.
 
-The fragments of the plays already mentioned are too brief to afford any adequate idea of their character or content. But in the Brutus of Accius (b. 170. B.C.), which centres around the expulsion of the Tarquins and the establishment of the Republic, we have a larger glimpse into the play through two most interesting fragments consisting of twelve iambic trimeters and ten trochaic tetrameters, respectively. In the first, King Tarquin relates to his seer an ill-ominous dream which he has had; the second is the seer’s interpretation of this dream, pointing to Tarquin’s dethronement by Brutus. Other short fragments give glimpses of the outrage of Lucretia by Sextus at Collatia, and the scene in the forum where Brutus takes his oath of office as first consul. This play, unlike most of its predecessors, was not written at the time of the events which it portrays, but may still be classed with them, so far as its object is concerned, since it is generally thought to have been written in honour of D. Junius Brutus, who was consul in 138 B.C., and with whom the poet enjoyed an intimate friendship.
+The fragments of the plays already mentioned are too brief to afford any adequate idea of their character or content. But in the Brutus of Accius (b. 170. B.C.), which centres around the expulsion of the Tarquins and the establishment of the Republic, we have a larger glimpse into the play through two most interesting fragments consisting of twelve iambic trimeters and ten trochaic tetrameters, respectively. In the first, King Tarquin relates to his seer an ill-ominous dream which he has had; the second is the seer’s interpretation of this dream, pointing to Tarquin’s dethronement by Brutus. Other short fragments give glimpses of the outrage of Lucretia by Sextus at Collatia, and the scene in the forum where Brutus takes his oath of office as first consul. This play, unlike most of its predecessors, was not written at the time of the events which it portrays, but may still be classed with them, so far as its object is concerned, since it is generally thought to have been written in honour of D. Junius Brutus, who was consul in 138 B.C., and with whom the poet enjoyed an intimate [friendship](/concepts/friendship).
 
 Another praetexta of Accius is preserved, the Decius, of which eleven short fragments remain. This play celebrates the victory of Quintus Fabius Maximus and P. Decius Mus over the Samnites and Gauls at Sentinum in 295 B.C. The climax of the play would be the self-immolation of Decius after the example of his father in the Latin war of 340 B.C.
 
@@ -171,7 +176,7 @@ Nature has not bestowed on thee such strength.
 
 OCTAVIA
 
-Anguish, anger, sorrow, wretchedness, grief will bestow it.
+Anguish, [anger](/concepts/anger), sorrow, wretchedness, grief will bestow it.
 
 NURSE
 
@@ -267,7 +272,7 @@ What rumor has but now come to our ears? May it prove false and gain no credence
 
 This age as well has seen a son’s dire crime, when in a deadly bark the prince sent his mother out on the Tyrrhene sea, by a trick ensnared. At his bidding the sailors make haste to leave the peaceful port and, smit by the oars, the sea resounds. The vessel is borne far out upon the deep; and there, with loosened timbers, sinking, overwhelmed, it yawns wide and drinks in the sea. A mighty outcry rises to the stars, mingled with shrieks of women. Death stalks dire before the eyes of all; each for himself seeks refuge from destruction; some cling naked to planks of the broken ship and face the floods, while others, swimming, seek to gain the shore; fate plunges many into the depths below. Augusta rends her garments and tears her hair and waters her cheeks with grieving tears.
 
-At last, with hope of safety gone, blazing with anger and now overcome with woe, she cries; “Such reward as this for my great boon, O son, dost thou return me? Worthy am I of this ship, I do confess, who brought thee forth, who gave thee light and empire and the name of Caesar, fool that I was. Thrust forth thy face from Acheron, and glut thee with my punishment, O husband; I caused thy death, poor soul, was the author of thy son’s destruction, and lo, as I have merited, to thy ghost am I now borne unburied, whelmed in the cruel waters of the sea.”
+At last, with hope of safety gone, blazing with [anger](/concepts/anger) and now overcome with woe, she cries; “Such reward as this for my great boon, O son, dost thou return me? Worthy am I of this ship, I do confess, who brought thee forth, who gave thee light and empire and the name of Caesar, fool that I was. Thrust forth thy face from Acheron, and glut thee with my punishment, O husband; I caused thy death, poor soul, was the author of thy son’s destruction, and lo, as I have merited, to thy ghost am I now borne unburied, whelmed in the cruel waters of the sea.”
 
 <span class="atom-split" data-atom="007" data-title="OCTAVIA (3/6)" data-chapter="OCTAVIA" data-kind="atom"></span>
 
@@ -425,7 +430,7 @@ NERO
 
 SENECA
 
-With stock celestial will she fill thy halls, she, the daughter of a god [Claudius, by courtesy and custom called divus after death], the Claudian race’s glory, who has, like Juno, gained her brother’s bed.
+With stock celestial will she fill thy halls, she, the daughter of a god [Claudius, by courtesy and [custom](/concepts/custom) called divus after death], the Claudian race’s glory, who has, like Juno, gained her brother’s bed.
 
 NERO
 
@@ -473,7 +478,7 @@ Shall I alone be forbidden what all may do?
 
 SENECA
 
-Greatest from highest ever the state exacts.
+Greatest from highest ever [the state](/concepts/state) exacts.
 
 NERO
 
@@ -581,7 +586,7 @@ Rather am I resolved to seek the shrines and sacred altars, and with slain victi
 
 CHORUS
 
-[of Roman women in sympathy with POPPAEA.] If truly speaks babbling rumor of the Thunderer’s sweet stolen loves, (who now, they say, in feathery plumage hid, held Leda in his embrace, now over the waves, in fierce bull-form, the stolen Europa bore,) even now will he desert the stars over which he rules and seek thy arms, Poppaea, which even to Leda’s he might prefer, and to thine, O Danae, before whose wondering eyes in olden time he poured down in yellow gold. Let Sparta vaunt the beauty of her daughter , and let the Phrygian shepherd vaunt his prize; she will outshine the face of Tyndaris , which set dread war on foot and levelled Phrygia’s kingdom with the ground.
+[of Roman women in [sympathy](/positions/moral_sentiment) with POPPAEA.] If truly speaks babbling rumor of the Thunderer’s sweet stolen loves, (who now, they say, in feathery plumage hid, held Leda in his embrace, now over the waves, in fierce bull-form, the stolen Europa bore,) even now will he desert the stars over which he rules and seek thy arms, Poppaea, which even to Leda’s he might prefer, and to thine, O Danae, before whose wondering eyes in olden time he poured down in yellow gold. Let Sparta vaunt the beauty of her daughter , and let the Phrygian shepherd vaunt his prize; she will outshine the face of Tyndaris , which set dread war on foot and levelled Phrygia’s kingdom with the ground.
 
 But who comes running with excited steps? What tidings bears he in his heaving breast?
 
@@ -625,7 +630,7 @@ NERO
 
 <span class="atom-split" data-atom="010" data-title="OCTAVIA (6/6)" data-chapter="OCTAVIA" data-kind="atom"></span>
 
-Oh, too slow are my soldiers’ hands, and too patient my wrath after such sacrilege as this, seeing that the blood of citizens has not quenched the fires they kindled against me, and that with the slaughter of her people mourning Rome reeks not, who bore such men as these. But she for whose sake the citizens rage at me, my sister-wife whom with distrust I ever look upon, shall give her life at last to sate my grief, and quench my anger with her blood. But now death is too light a punishment for her deeds. Heavier doom has the people’s unhallowed guilt deserved. Quickly let Rome’s roofs fall beneath my flames; let fires, let ruins crush the guilty populace, and wretched want, and grief and hunger dire. The huge mob grows riotous, distempered by the blessings of my age, nor hath it understanding of my mercy in its thanklessness nor can it suffer peace; but here ’tis swept along by restless insolence and there by its own recklessness is headlong borne. By suffering must it be held in check, be ever pressed beneath the heavy yoke, that it may never dare the like again, and against my wife’s sacred countenance lift its eyes; crushed by the fear of punishment, it shall be taught to obey its emperor’s nod.
+Oh, too slow are my soldiers’ hands, and too patient my wrath after such sacrilege as this, seeing that the blood of citizens has not quenched the fires they kindled against me, and that with the slaughter of her people mourning Rome reeks not, who bore such men as these. But she for whose sake the citizens rage at me, my sister-wife whom with distrust I ever look upon, shall give her life at last to sate my grief, and quench my [anger](/concepts/anger) with her blood. But now death is too light a punishment for her deeds. Heavier doom has the people’s unhallowed guilt deserved. Quickly let Rome’s roofs fall beneath my flames; let fires, let ruins crush the guilty populace, and wretched want, and grief and hunger dire. The huge mob grows riotous, distempered by the blessings of my age, nor hath it understanding of my mercy in its thanklessness nor can it suffer peace; but here ’tis swept along by restless insolence and there by its own recklessness is headlong borne. By suffering must it be held in check, be ever pressed beneath the heavy yoke, that it may never dare the like again, and against my wife’s sacred countenance lift its eyes; crushed by the fear of punishment, it shall be taught to obey its emperor’s nod.
 
 But here I see the man whose rare loyalty and proven faith have made him captain of my royal guards.
 

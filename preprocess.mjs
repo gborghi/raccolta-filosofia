@@ -374,6 +374,48 @@ async function main() {
     w.atoms.sort((a, b) => (a.data.atom_n ?? 0) - (b.data.atom_n ?? 0))
   if (truncatedDirs) console.log(`note: ${truncatedDirs} atoms live under a truncated directory name (resolved via frontmatter "work:")`)
   console.log(`traduzioni: ${itAtoms} atomi con sibling .it.md`)
+  // Stampato dopo il loop delle opere, piu' sotto: vedi abstractsEmitted.
+
+  // Un titolo che si APRE dichiarando traduttore/editore come autore: e' il suo
+  // testo, non quello del filosofo. L'ancora `^` e' cio' che distingue
+  // "TRANSLATOR'S PREFACE" (apparato) da "PREFACE" (Hume) e da "II. Refutation
+  // of the Counterfeiter's pretended Right against the Editor" (Kant).
+  // L'apostrofo puo' essere dritto o tipografico a seconda dell'edizione.
+  const APPARATUS_TITLE =
+    /^\s*(the\s+)?(translator|editor)['’]?s?\s+(preface|introduction|note)\b|^\s*editorial\s+notices\b|^\s*note\s+by\s+the\s+editor\b/i
+  const isApparatusTitle = (t) => APPARATUS_TITLE.test(String(t || ""))
+  let apparatusSkipped = 0
+  let abstractsEmitted = 0
+
+  const LANG_NAME = {
+    en: "inglese",
+    de: "tedesco",
+    fr: "francese",
+    es: "spagnolo",
+    la: "latino",
+    it: "italiano",
+    grc: "greco",
+  }
+
+  // La riga di provenienza dell'opera. Ritorna "" se non c'e' niente da citare:
+  // meglio nessuna riga che una riga vuota di promesse.
+  function sourceLine({ traduttore, edizione, anno_edizione, lang }) {
+    const ed = [edizione, anno_edizione].filter(Boolean).join(", ")
+    const bits = []
+    if (traduttore) {
+      // "chi ha tradotto" prima di "chi ha stampato": e' il traduttore a
+      // detenere il diritto sulla traduzione, ed e' lui che stiamo citando.
+      bits.push(`Traduzione di ${traduttore}`)
+      if (ed) bits.push(ed)
+    } else {
+      const name = LANG_NAME[String(lang || "").toLowerCase()]
+      if (name) bits.push(`Testo originale ${name}`)
+      if (ed) bits.push(ed)
+    }
+    if (!bits.length) return ""
+    bits.push("pubblico dominio")
+    return `<p class="work-source">${esc(bits.join(" · "))}</p>`
+  }
 
   // ---- emit SPA reading pages (testi/<philosopher>/<work>.md) ----------------
   const works = [] // index.json records
@@ -381,7 +423,18 @@ async function main() {
   const kwCountsByHref = {} // workHref -> Map<word,count> over the full concatenated atom text
   let workPages = 0
 
-  for (const [workKey, { philosopher, atoms }] of workAtoms) {
+  for (const [workKey, { philosopher, atoms: allAtoms }] of workAtoms) {
+    // Gli apparati editoriali non si pubblicano. Prefazioni, introduzioni e note
+    // del *traduttore* o dell'*editore* sono commento sull'opera, non l'opera.
+    //
+    // L'ancora a inizio titolo non e' un dettaglio: "PREFACE" e "INTRODUCTION"
+    // nudi NON sono apparato — la Prefazione all'Abstract e' di Hume,
+    // l'Introduzione all'Estetica e' di Hegel — e "II. Refutation of the
+    // Counterfeiter's pretended Right against the Editor" e' Kant che discute
+    // dell'editore-stampatore. Solo un titolo che *si apre* dichiarando il
+    // traduttore o l'editore come autore e' apparato.
+    const atoms = allAtoms.filter((a) => !isApparatusTitle(a.data.atom_title))
+    apparatusSkipped += allAtoms.length - atoms.length
     if (!atoms.length) continue
     const meta = rawMeta.get(workKey) || {}
     const first = atoms[0].data
@@ -484,10 +537,45 @@ async function main() {
     fmData.tags = ["graph/work", `philosopher/${philLower}`]
 
     const mount = `<div class="atom-reader" data-work="${esc(workSlug)}" data-philosopher="${esc(philosopherName)}"></div>\n`
+    // L'abstract in testa all'opera. Vive gia' in data/tags/<Filosofo>.json, ma
+    // finora finiva solo in index.json — cioe' lo vedevano la tabella e la
+    // ricerca, e mai il lettore che apriva l'opera.
+    //
+    // Sta PRIMA del mount di proposito: atomRouter parte dal primo marker
+    // atom-split e ignora i nodi che lo precedono (in partition() `cur` e'
+    // ancora null), quindi il callout resta in pagina e non viene inghiottito
+    // dal lettore ne' contato come atomo.
+    //
+    // In inglese: e' la lingua franca del corpus, e per Nietzsche o Ortega e'
+    // l'unico modo di far capire di cosa parla l'opera a chi non legge il
+    // tedesco o lo spagnolo.
+    const abstract = String(tags.summary_en || "").trim()
+    const abstractBlock = abstract
+      ? `> [!abstract]\n> ${abstract.replace(/\s*\n\s*/g, " ")}\n\n`
+      : ""
+
+    // La provenienza, in chiaro sotto il titolo. I campi c'erano gia' nel
+    // frontmatter ma non li leggeva nessuno: nel markdown emesso restavano
+    // metadati, non una citazione.
+    //
+    // Serve a due cose diverse. Dove pubblichiamo una traduzione di pubblico
+    // dominio, il traduttore e' l'autore di QUELLE parole e va citato: e' un
+    // credito dovuto, non un dettaglio bibliografico. Dove pubblichiamo
+    // l'originale (Nietzsche in tedesco, Descartes in francese), dirlo spiega al
+    // lettore perche' la pagina non e' in inglese — e ricorda perche' la fonte e'
+    // stata scelta cosi': senza traduttore nella catena non c'e' nessun diritto
+    // altrui in mezzo.
+    const provenance = sourceLine({ traduttore, edizione, anno_edizione, lang })
+    const provenanceBlock = provenance ? `${provenance}\n\n` : ""
+
     const dest = path.join(CONTENT, (workSlug + ".md").split("/").join(path.sep))
     await fs.mkdir(path.dirname(dest), { recursive: true })
-    await fs.writeFile(dest, compose(mount + blocks.join(""), fmData))
+    await fs.writeFile(
+      dest,
+      compose(abstractBlock + provenanceBlock + mount + blocks.join(""), fmData),
+    )
     workPages++
+    if (abstract) abstractsEmitted++
 
     workHrefByKey.set(workKey, { href: workSlug, title })
     kwCountsByHref[workSlug] = keywordCounts(kwTextParts.join("\n\n"))
@@ -710,6 +798,15 @@ title: "Pagina non trovata"
 
   console.log(
     `copied ${kgWritten} aggregator notes, ${workPages} work reading-pages; indexed ${works.length} works, ${Object.keys(philCounts).length} philosophers`,
+  )
+  // Un'opera senza abstract non e' un errore fatale — la pagina resta leggibile —
+  // ma va detto: e' il solo modo di accorgersi che un filosofo nuovo e' stato
+  // atomizzato e mai taggato.
+  console.log(
+    `abstract: ${abstractsEmitted}/${workPages} opere` +
+      (abstractsEmitted < workPages
+        ? ` — ${workPages - abstractsEmitted} senza summary_en in data/tags/`
+        : ""),
   )
 }
 

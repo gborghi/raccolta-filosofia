@@ -1027,35 +1027,16 @@ ul.tags {
   display: none;
 }
 
-/* ---- copyright guard (copyrightGuard.inline.ts) ---- */
-.cr-guard {
-  display: flex;
-  gap: 0.9rem;
-  align-items: flex-start;
-  border: 1px solid var(--secondary);
-  background: var(--highlight);
-  border-radius: 10px;
-  padding: 1rem 1.2rem;
-  margin: 1.2rem 0;
-}
-.cr-guard-badge {
-  flex: 0 0 auto;
-  font-size: 1.7rem;
-  font-weight: 700;
-  line-height: 1;
-  color: var(--secondary);
-}
-.cr-guard-body p {
-  margin: 0.35rem 0;
-  font-size: 0.95rem;
-}
-.cr-guard-en strong,
-.cr-guard-it strong {
-  color: var(--secondary);
-}
-.cr-guard-it {
+/* Provenienza dell'opera: chi ha tradotto, quale edizione (vedi sourceLine() in
+   preprocess.mjs). Sta sotto l'abstract e sopra il lettore. Discreta ma leggibile:
+   e' un credito, non una nota a pie' di pagina. */
+.work-source {
+  margin: 0 0 1.2rem;
+  font-family: var(--headerFont);
+  font-size: 0.82rem;
   color: var(--gray);
-  font-style: italic;
+  border-left: 2px solid var(--lightgray);
+  padding-left: 0.6rem;
 }
 
 /* Search index loading spinner (see searchLoading.inline.ts). The top-bar search

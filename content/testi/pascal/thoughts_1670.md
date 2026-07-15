@@ -12,6 +12,11 @@ tags:
   - "philosopher/pascal"
 ---
 
+> [!abstract]
+> The Pensées, Pascal's unfinished apology for Christianity: starting from man's disproportion within the infinite and the diversion by which he flees himself, Pascal proposes the wager as a practical reason to believe where demonstration falls silent.
+
+<p class="work-source">Traduzione di Charles K. Paul and William Finlayson Trotter · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/pascal/thoughts_1670" data-philosopher="Pascal"></div>
 
 
@@ -33,7 +38,7 @@ PREFACE TO THE FIRST PART.
 
 MAN’S DISPROPORTION.
 
-DIVERSION.
+[DIVERSION](/arguments/divertissement).
 
 THE GREATNESS AND LITTLENESS
 
@@ -49,7 +54,7 @@ THE WEAKNESS, UNREST, AND
 
 DEFECTS OF MAN.
 
-THE HAPPINESS OF MAN WITH GOD; OR, THAT THE SCRIPTURE SHOWS A REDEEMER.
+THE HAPPINESS OF MAN WITH GOD; OR, THAT THE [SCRIPTURE](/concepts/revelation) SHOWS A REDEEMER.
 
 PREFACE TO THE SECOND PART.
 
@@ -73,7 +78,7 @@ OF THE TRUE RELIGION AND ITS CHARACTERISTICS.
 
 THE EXCELLENCE OF THE CHRISTIAN RELIGION.
 
-OF ORIGINAL SIN.
+OF [ORIGINAL SIN](/positions/original_sin).
 
 THE PERPETUITY OF THE CHRISTIAN RELIGION.
 
@@ -115,13 +120,13 @@ Blaise Pascal went through a double process of conversion. When the family first
 
 In the autumn of 1654, whether after deliverance in a dangerous accident, or from some hidden cause of which nothing can now be even surmised, there came a second sudden conversion from which there was no return. That hour wrought a complete change in Pascal’s life; austerity, self-denial, absolute obedience to his spiritual director, boundless alms-giving succeeded to what at most had been a moderate and restrained use of worldly pleasure, and he threw himself into the life, controversy and interests of Port Royal, with all the passion of one who was not only a new convert, but the champion of a society into which those dearest to him had entered even more fully than he. He became, for a time, one of the solitaries of Port Royal before the close of that same year.
 
-The Cistercian Abbey of Port Royal des Champs was situated about eighteen miles from Paris. It had been founded early in the thirteenth century, and would have faded away unremembered but for the grandeur of its closing years. The rule of the community had been greatly relaxed, but it was reformed with extreme rigour by Jaqueline Arnauld, its young abbess, known in religion as La Mère Angélique. The priest chosen as Director of the community was Jean du Vergier de Hauranne, Abbé de St. Cyran, a close friend of Cornelius Jansen, Bishop of Ypres. They had together devoted themselves to the study of Saint Augustine; and the “Augustinus,” the work to which Jansen gave his whole life, was planned with the assistance of St. Cyran. Certain propositions drawn from this work were afterwards condemned, and the controversy which raged between the two schools of the Jesuits and the Jansenists divided itself into two parts, first, whether the propositions were heretical, and secondly, whether as a fact they were contained in, or could fairly be deduced from, Jansen’s book. The strife, which raged with varying fortunes for many years, need not here detain us.
+The Cistercian Abbey of Port Royal des Champs was situated about eighteen miles from Paris. It had been founded early in the thirteenth century, and would have faded away unremembered but for the grandeur of its closing years. The rule of the community had been greatly relaxed, but it was reformed with extreme rigour by Jaqueline [Arnauld](/schools/jansenism), its young abbess, known in religion as La Mère Angélique. The priest chosen as Director of the community was Jean du Vergier de Hauranne, Abbé de St. Cyran, a close friend of Cornelius Jansen, Bishop of Ypres. They had together devoted themselves to the study of Saint [Augustine](/figures/augustine); and the “Augustinus,” the work to which Jansen gave his whole life, was planned with the assistance of St. Cyran. Certain propositions drawn from this work were afterwards condemned, and the controversy which raged between the two schools of the Jesuits and the Jansenists divided itself into two parts, first, whether the propositions were heretical, and secondly, whether as a fact they were contained in, or could fairly be deduced from, Jansen’s book. The strife, which raged with varying fortunes for many years, need not here detain us.
 
-After the reform of Port Royal, and when the Society, however assailed and in danger, was at the height of its renown, the whole establishment consisted of two convents, the mother house of Port Royal des Champs, and one in Paris to which was attached a school for girls. To Port Royal des Champs, as to a spiritual centre, and to be under the guidance of the three great directors, who in succession ruled the abbey, M. de St. Cyran, M. Singlin, and M. de Saci, there came men and women, not under monastic vows, but living for a time the monastic or even the eremitical life. The women, for the most part, had rooms in the convent, the men built rooms for themselves hard by, or shared between them La Grange, a farm belonging to the abbey. It need scarcely be said that in so strict a community the sexes were wholly separate; a common worship, and the confidence of the same confessor, together with similarity of views in religion, were the ties which bound together the whole society.
+After the reform of Port Royal, and when the Society, however assailed and in danger, was at the height of its renown, the whole establishment consisted of two convents, the mother house of Port Royal des Champs, and one in Paris to which was attached a school for girls. To Port Royal des Champs, as to a spiritual centre, and to be under the guidance of the three great directors, who in succession ruled the abbey, M. de St. Cyran, M. Singlin, and M. de Saci, there came men and women, not under monastic vows, but living for a time the monastic or even the eremitical life. The women, for the most part, had rooms in the convent, the men built rooms for themselves hard by, or shared between them La Grange, a farm belonging to the abbey. It need scarcely be said that in so strict a community the sexes were wholly separate; a common [worship](/concepts/religion), and the confidence of the same confessor, together with similarity of views in religion, were the ties which bound together the whole society.
 
 <span class="atom-split" data-atom="002" data-title="Charles K. Paul Translation, 1888 (2/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
 
-When Pascal formally joined Port Royal, the Abbey and all that was attached to it greatly needed aid from without. A Bull in condemnation of Jansen had been gained from the Pope, and a Formulary, minimising its effect as far as possible, was drawn up by the General Assembly in France, which was ultimately accepted by Port Royal itself. But if the Port Royalists minimized the defeat, and, with great intellectual dexterity, showed that the condemned propositions were not in precise terms what they had held, and were not in Jansen’s book, their adversaries exaggerated the victory. A confessor in Paris refused absolution to a parishioner because he had a Jansenist living in his house, and had sent his grand-daughter to school at Port Royal. Antoine Arnauld, known as Le Grand Arnauld, brother of La Mère Angélique, himself in danger of condemnation by the Sorbonne, drew up a statement of the case intended to instruct the public on the points in dispute. On reading this to the Port Royal solitaries before printing it, he saw that it would not do, and turning to Pascal, who had then been a year under M. Singlin’s direction, he suggested to him as a younger man with a lighter pen to see what he could do. The next day Pascal produced the first of the “Provincial Letters,” or to give it the correct title, “A Letter written to a Provincial by one of his friends.” In these Letters Pascal formed his true style, and took rank at once among the great French writers. They contributed largely to turn the scale of feeling against his adversaries; they, and an occurrence in which he saw the visible finger of God, saved Port Royal for a time. But the history of the “Provincial Letters” must be read elsewhere, as must also in its fulness the miracle of the Holy Thorn, on which a few words are needed.
+When Pascal formally joined Port Royal, the Abbey and all that was attached to it greatly needed aid from without. A Bull in condemnation of Jansen had been gained from the Pope, and a Formulary, minimising its effect as far as possible, was drawn up by the General Assembly in France, which was ultimately accepted by Port Royal itself. But if the Port Royalists minimized the defeat, and, with great intellectual dexterity, showed that the condemned propositions were not in precise terms what they had held, and were not in Jansen’s book, their adversaries exaggerated the victory. A confessor in Paris refused absolution to a parishioner because he had a Jansenist living in his house, and had sent his grand-daughter to school at Port Royal. Antoine [Arnauld](/schools/jansenism), known as Le Grand Arnauld, brother of La Mère Angélique, himself in danger of condemnation by the Sorbonne, drew up a statement of the case intended to instruct the public on the points in dispute. On reading this to the Port Royal solitaries before printing it, he saw that it would not do, and turning to Pascal, who had then been a year under M. Singlin’s direction, he suggested to him as a younger man with a lighter pen to see what he could do. The next day Pascal produced the first of the “Provincial Letters,” or to give it the correct title, “A Letter written to a Provincial by one of his friends.” In these Letters Pascal formed his true style, and took rank at once among the great French writers. They contributed largely to turn the scale of feeling against his adversaries; they, and an occurrence in which he saw the visible finger of God, saved Port Royal for a time. But the history of the “Provincial Letters” must be read elsewhere, as must also in its fulness the [miracle](/concepts/miracle) of the Holy Thorn, on which a few words are needed.
 
 The “Provincial Letters” were in course of publication, but M. Arnauld had been condemned by the Sorbonne just as the first was issued, and his enemies said he was excommunicated, which was not technically true; he was in danger of arrest, and was in hiding; the solitaries of Port Royal were almost all dispersed; the schools were thinned of their pupils and on the point of closing, the confessors were about to be withdrawn and the nuns sent to various other convents, when the miracle took place. Marguerite Perier, a child of ten years old, daughter of Pascal’s elder sister, was one of the pupils at Port Royal in Paris, not as yet dismissed to her home. She was tenderly nursed by the nuns for an ulcer in the lachrymal gland, which had destroyed the bones of the nose, and produced other horrors of which there is no need to speak. A relic of the Saviour, one of the thorns of his crown of mockery, which had been intrusted to the nuns, was specially venerated during a service in its honour, and as it would seem was passed from hand to hand in its reliquary. When the turn of the scholars came, Sister Flavia, their mistress, moved by a sudden impulse said, “My child, pray for your eye,” and touched the ulcer with the reliquary. The child was cured, and the effect on the community was immediate. The remaining solitaries were not dispersed, some of those who had gone returned, the confessors were not removed, the school was not closed, and Port Royal was respited.
 
@@ -145,7 +150,7 @@ GENERAL INTRODUCTION.
 
 PASCAL’S PROFESSION OF FAITH.
 
-This year of Grace 1654,
+This year of [Grace](/concepts/grace) 1654,
 
 Monday, November 23rd, day of Saint Clement, pope
 
@@ -219,7 +224,7 @@ GENERAL INTRODUCTION.
 
 LET THEM AT least learn what is the Religion they assail, before they assail it. If this religion claimed to have a clear view of God, and to possess it openly and unveiled, then to say that we see nothing in the world which manifests him with this clearness would be to assail it. But since on the contrary it affirms that men are in darkness and estranged from God, that he has hidden himself from their knowledge, that the very name he has given himself in the Scriptures is Deus absconditus; and if indeed it aims equally at establishing these two points, that God has set in the Church evident notes to enable those who seek him in sincerity to recognise him, and that he has nevertheless so concealed them that he can only be perceived by those who seek him with their whole hearts; what advantages it them, when, in their professed neglect of the search after truth, they declare that nothing reveals it to them? For the very obscurity in which they are, and for which they blame the Church, does but establish one of the points which she maintains, without affecting the other, and far from destroying, establishes her doctrine.
 
-In order to assail it they ought to urge that they have sought everywhere with all their strength, and even in that which the Church proposes for their instruction, but without avail. Did they thus speak, they would indeed assail one of her claims. But I hope here to show that no rational person can thus speak, and I am even bold to say that no one has ever done so. We know well enough how men of this temper behave. They believe they have made great efforts for their instruction, when they have spent a few hours in reading some book of Scripture, and have talked with some Ecclesiastic on the truths of the faith. Whereupon they boast that they have in vain consulted books and men. But indeed I will tell them what I have often said, that such carelessness is intolerable. We are not here dealing with the light interest of a stranger, that we should thus treat it; but with that which concerns ourselves and our all.
+In order to assail it they ought to urge that they have sought everywhere with all their strength, and even in that which the Church proposes for their instruction, but without avail. Did they thus speak, they would indeed assail one of her claims. But I hope here to show that no rational person can thus speak, and I am even bold to say that no one has ever done so. We know well enough how men of this temper behave. They believe they have made great efforts for their instruction, when they have spent a few hours in reading some book of [Scripture](/concepts/revelation), and have talked with some Ecclesiastic on the truths of the faith. Whereupon they boast that they have in vain consulted books and men. But indeed I will tell them what I have often said, that such carelessness is intolerable. We are not here dealing with the light interest of a stranger, that we should thus treat it; but with that which concerns ourselves and our all.
 
 The immortality of the soul is a matter of so great moment to us, it touches us so deeply, that we must have lost all feeling if we are careless of the truth about it. Our every action and our every thought must take such different courses, according as there are or are not eternal blessings for which to hope, that it is impossible to take a single step with sense or judgment, save in view of that point which ought to be our end and aim.
 
@@ -229,7 +234,7 @@ I can have nothing but compassion for all who sincerely lament their doubt, who 
 
 But as for those who pass their life without thought of the ultimate goal of life, who, solely because they do not find within themselves the light of conviction, neglect to seek it elsewhere and to examine thoroughly whether the opinion in question be among those which are popularly received with credulous simplicity, or among those which, although in themselves obscure, have yet a solid and indestructible basis, — of those, I say, my thoughts are very different.
 
-This neglect of a matter in which themselves are concerned, their eternity, and their all, makes me angry rather than compassionate; it astonishes and terrifies me, it is to me something monstrous. I do not say this out of the pious zeal of a spiritual devotion. I mean on the contrary that such a feeling should spring from principles of human interest and self-love; and for this we need see no more than what is seen by the least enlightened persons.
+This neglect of a matter in which themselves are concerned, their [eternity](/positions/eternity), and their all, makes me angry rather than compassionate; it astonishes and terrifies me, it is to me something monstrous. I do not say this out of the pious zeal of a spiritual devotion. I mean on the contrary that such a feeling should spring from principles of human interest and self-love; and for this we need see no more than what is seen by the least enlightened persons.
 
 We need no great elevation of soul to understand that here is no true and solid satisfaction, that all our pleasures are but vanity, our evils infinite, and lastly that death, which threatens us every moment, must infallibly and within a few years place us in the dread alternative of being for ever either annihilated or wretched.
 
@@ -243,7 +248,7 @@ Whence come such feelings? What delight can we find in the expectation of nothin
 
 <span class="atom-split" data-atom="004" data-title="Charles K. Paul Translation, 1888 (4/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
 
-“As I know not whence I come, so I know not whither I go; only this I know, that on departing this world, I shall either fall for ever into nothingness, or into the hands of an offended God, without knowing which of these two conditions shall eternally be my lot. Such is my state, full of weakness and uncertainty; from all which I conclude that I ought to pass all the days of my life without thought of searching for what must happen to me. Perhaps I might find some ray of light in my doubts, but I will not take the trouble, nor stir a foot to seek it; and after treating with scorn those who are troubled with this care, I will go without foresight and without fear to make trial of the grand event, and allow myself to be led softly on to death, uncertain of the eternity of my future condition.”
+“As I know not whence I come, so I know not whither I go; only this I know, that on departing this world, I shall either fall for ever into nothingness, or into the hands of an offended God, without knowing which of these two conditions shall eternally be my lot. Such is my state, full of weakness and uncertainty; from all which I conclude that I ought to pass all the days of my life without thought of searching for what must happen to me. Perhaps I might find some ray of light in my doubts, but I will not take the trouble, nor stir a foot to seek it; and after treating with scorn those who are troubled with this care, I will go without foresight and without fear to make trial of the grand event, and allow myself to be led softly on to death, uncertain of the [eternity](/positions/eternity) of my future condition.”
 
 Who would wish to have for his friend a man who should thus speak; who would choose him rather than another for advice in business; who would turn to him in sorrow? And indeed to what use in life could we put him?
 
@@ -251,23 +256,23 @@ In truth, it is the glory of Religion to have for enemies men so unreasoning, wh
 
 Nothing is so important to man as his condition, nothing so formidable to him as eternity; and thus it is not natural there should be men indifferent to the loss of their being, and to the peril of an endless woe. They are quite other men in regard to all else; they fear the veriest trifles, they foresee them, they feel them; and the very man who spends so many days and nights in rage and despair for the loss of office or for some imaginary insult to his honour, is the same who, without disquiet and without emotion, knows that he must lose all by death. It is a monstrous thing to see in one and the same heart and at the same time this sensibility to the meanest, and this strange insensibility to the greatest matters. It is an incomprehensible spell, a supernatural drowsiness, which denotes as its cause an all powerful force.
 
-There must be a strange revolution in the nature of man, before he can glory at being in a state to which it seems incredible that any should attain. Experience however has shown me a large number of such men, a surprising fact did we not know that the greater part of those who meddle with the matter are not as a fact what they declare themselves. They are people who have been told that the manners of good society consist in such daring. This they call shaking off the yoke, this they try to imitate. Yet it would not be difficult to convince them how much they deceive themselves in thus seeking esteem. Not so is it acquired, even among those men of the world who judge wisely, and who know that the only way of worldly success is to show ourselves honourable, faithful, of sound judgment, and capable of useful service to a friend; because by nature men love only what may prove useful to them. Now in what way does it advantage us to hear a man say he has at last shaken off the yoke, that he does not believe there is a God who watches his actions, that he considers himself the sole master of his conduct and accountable for it only to himself. Does he think that thus he has brought us to have henceforward confidence in him, and to look to him for comfort, counsel and succour in every need of life? Do they think to delight us when they declare that they hold our soul to be but a little wind or smoke, nay, when they tell us so in a tone of proud content? Is this a thing to assert gaily, and not rather to say sadly as the saddest thing in all the world?
+There must be a strange [revolution](/positions/revolution) in the nature of man, before he can glory at being in a state to which it seems incredible that any should attain. Experience however has shown me a large number of such men, a surprising fact did we not know that the greater part of those who meddle with the matter are not as a fact what they declare themselves. They are people who have been told that the manners of good society consist in such daring. This they call shaking off the yoke, this they try to imitate. Yet it would not be difficult to convince them how much they deceive themselves in thus seeking esteem. Not so is it acquired, even among those men of the world who judge wisely, and who know that the only way of worldly success is to show ourselves honourable, faithful, of sound judgment, and capable of useful service to a friend; because by nature men love only what may prove useful to them. Now in what way does it advantage us to hear a man say he has at last shaken off the yoke, that he does not believe there is a God who watches his actions, that he considers himself the sole master of his conduct and accountable for it only to himself. Does he think that thus he has brought us to have henceforward confidence in him, and to look to him for comfort, counsel and succour in every need of life? Do they think to delight us when they declare that they hold our soul to be but a little wind or smoke, nay, when they tell us so in a tone of proud content? Is this a thing to assert gaily, and not rather to say sadly as the saddest thing in all the world?
 
 Did they think on it seriously, they would see that this is so great a mistake, so contrary to good sense, so opposed to honourable conduct, so remote in every respect from that good breeding at which they aim, that they would choose rather to restore than to corrupt those who might have any inclination to follow them. And indeed if they are obliged to give an account of their opinions, and of the reasons they have for doubts about Religion, they will say things so weak and base, as rather to persuade the contrary. It was once happily said to such an one, “If you continue to talk thus you will really make me a Christian.” And the speaker was right, for who would not be horrified at entertaining opinions in which he would have such despicable persons as his associates!
 
 Thus those who only feign these opinions would be very unhappy were they to put force on their natural disposition in order to make themselves the most inconsequent of men. If, in their inmost hearts, they are troubled at their lack of light, let them not dissemble: the avowal will bring no shame; the only shame is to be shameless. Nothing betrays so much weakness of mind as not to apprehend the misfortune of a man without God, nothing is so sure a token of an evil disposition of heart as not to desire the truth of eternal promises, nothing is more cowardly than to fight against God. Let them therefore leave these impieties to persons who are so ill-bred as to be really capable of them, let them at least be men of honour if they cannot be Christians, and lastly, let them recognise that there are but two classes of men who can be called reasonable; those who serve God with their whole heart because they know him, or those who seek him with their whole heart because they know him not.
 
-But as for those who live without knowing him and without seeking him, they judge themselves to deserve their own care so little, that they are not worthy the care of others, and it needs all the charity of the Religion they despise, not to despise them so utterly as to abandon them to their madness. But since this Religion obliges us to look on them, while they are in this life, as always capable of illuminating grace, and to believe that in a short while they may be more full of faith than ourselves, while we on the other hand may fall into the blindness which now is theirs, we ought to do for them what we would they should do for us were we in their place, and to entreat them to take pity on themselves and advance at least a few steps, if perchance they may find the light. Let them give to reading these words a few of the hours which otherwise they spend so unprofitably: with whatever aversion they set about it they may perhaps gain something; at least they cannot be great losers. But if any bring to the task perfect sincerity and a true desire to meet with truth, I despair not of their satisfaction, nor of their being convinced of so divine a Religion by the proofs which I have here gathered up, and have set forth in somewhat the following order....
+But as for those who live without knowing him and without seeking him, they judge themselves to deserve their own care so little, that they are not worthy the care of others, and it needs all the charity of the Religion they despise, not to despise them so utterly as to abandon them to their madness. But since this Religion obliges us to look on them, while they are in this life, as always capable of illuminating [grace](/concepts/grace), and to believe that in a short while they may be more full of faith than ourselves, while we on the other hand may fall into the blindness which now is theirs, we ought to do for them what we would they should do for us were we in their place, and to entreat them to take pity on themselves and advance at least a few steps, if perchance they may find the light. Let them give to reading these words a few of the hours which otherwise they spend so unprofitably: with whatever aversion they set about it they may perhaps gain something; at least they cannot be great losers. But if any bring to the task perfect sincerity and a true desire to meet with truth, I despair not of their satisfaction, nor of their being convinced of so divine a Religion by the proofs which I have here gathered up, and have set forth in somewhat the following order....
 
 Before entering upon the proofs of the Christian Religion, I find it necessary to set forth the unfairness of men who live indifferent to the search for truth in a matter which is so important to them, and which touches them so nearly.
 
 Among all their errors this doubtless is the one which most proves them to be fools and blind, and in which it is most easy to confound them by the first gleam of common sense, and by our natural feelings.
 
-For it is not to be doubted that this life endures but for an instant, that the state of death is eternal, whatever may be its nature, and that thus all our actions and all our thoughts must take such different courses according to the state of that eternity, as to render it impossible to take a single step with sense and judgment, save in view of that point which ought to be our end and aim.
+For it is not to be doubted that this life endures but for an instant, that [the state](/concepts/state) of death is eternal, whatever may be its nature, and that thus all our actions and all our thoughts must take such different courses according to the state of that eternity, as to render it impossible to take a single step with sense and judgment, save in view of that point which ought to be our end and aim.
 
 <span class="atom-split" data-atom="005" data-title="Charles K. Paul Translation, 1888 (5/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
 
-Nothing is more clear than this, and therefore by all principles of reason the conduct of men is most unreasonable if they do not alter their course. Hence we may judge concerning those who live without thinking of the ultimate goal of life, who allow themselves to be guided by their inclinations and their pleasures without thought or disquiet, and, as if they could annihilate eternity by turning their minds from it, consider only how they may make themselves happy for the moment.
+Nothing is more clear than this, and therefore by all principles of reason the conduct of men is most unreasonable if they do not alter their course. Hence we may judge concerning those who live without thinking of the ultimate goal of life, who allow themselves to be guided by their inclinations and their pleasures without thought or disquiet, and, as if they could annihilate [eternity](/positions/eternity) by turning their minds from it, consider only how they may make themselves happy for the moment.
 
 Yet this eternity exists; and death the gate of eternity, which threatens them every hour, must in a short while infallibly reduce them to the dread necessity of being through eternity either nothing or miserable, without knowing which of these eternities is for ever prepared for them.
 
@@ -295,11 +300,11 @@ It might as truly be said that my words have been used before. And if the same t
 
 MAN’S DISPROPORTION.
 
-THIS IS WHERE our intuitive knowledge leads us. If it be not true, there is no truth in man; and if it be, he finds therein a great reason for humiliation, because he must abase himself in one way or another. And since he cannot exist without such knowledge, I wish that before entering on deeper researches into nature he would consider her seriously and at leisure, that he would examine himself also, and knowing what proportion there is.... Let man then contemplate the whole realm of nature in its full and exalted majesty, and turn his eyes from the low objects which hem him round; let him observe that brilliant light set like an eternal lamp to illumine the universe, let the earth appear to him a point in comparison with the vast circle described by that sun, and let him see with amazement that even this vast circle is itself but a fine point in regard to that described by the stars revolving in the firmament. If our view be arrested there, let imagination pass beyond, and it will sooner exhaust the power of thinking than nature that of giving scope for thought. The whole visible world is but an imperceptible speck in the ample bosom of nature. No idea approaches it. We may swell our conceptions beyond all imaginable space, yet bring forth only atoms in comparison with the reality of things. It is an infinite sphere, the centre of which is every where, the circumference no where. It is, in short, the greatest sensible mark of the almighty power of God, in that thought let imagination lose itself.
+THIS IS WHERE our intuitive knowledge leads us. If it be not true, there is no truth in man; and if it be, he finds therein a great reason for humiliation, because he must abase himself in one way or another. And since he cannot exist without such knowledge, I wish that before entering on deeper researches into nature he would consider her seriously and at leisure, that he would examine himself also, and knowing what proportion there is.... Let man then contemplate the whole realm of nature in its full and exalted majesty, and turn his eyes from the low objects which hem him round; let him observe that brilliant light set like an eternal lamp to illumine the universe, let the earth appear to him a point in comparison with the vast circle described by that sun, and let him see with amazement that even this vast circle is itself but a fine point in regard to that described by the stars revolving in the firmament. If our view be arrested there, let imagination pass beyond, and it will sooner exhaust the power of thinking than nature that of giving scope for thought. The whole visible world is but an imperceptible speck in the ample bosom of nature. No idea approaches it. We may swell our conceptions beyond all imaginable space, yet bring forth only [atoms](/positions/atomism) in comparison with the reality of things. It is an infinite sphere, the centre of which is every where, the circumference no where. It is, in short, the greatest sensible mark of the almighty power of God, in that thought let imagination lose itself.
 
 Then, returning to himself, let man consider his own being compared with all that is; let him regard himself as wandering in this remote province of nature; and from the little dungeon in which he finds himself lodged, I mean the universe, let him learn to set a true value on the earth, on its kingdoms, its cities, and on himself.
 
-What is a man in the infinite? But to show him another prodigy no less astonishing, let him examine the most delicate things he knows. Let him take a mite which in its minute body presents him with parts incomparably more minute; limbs with their joints, veins in the limbs, blood in the veins, humours in the blood, drops in the humours, vapours in the drops; let him, again dividing these last, exhaust his power of thought; let the last point at which he arrives be that of which we speak, and he will perhaps think that here is the extremest diminutive in nature. Then I will open before him therein a new abyss. I will paint for him not only the visible universe, but all that he can conceive of nature’s immensity in the enclosure of this diminished atom. Let him therein see an infinity of universes of which each has its firmament, its planets, its earth, in the same proportion as in the visible world; in each earth animals, and at the last the mites, in which he will come upon all that was in the first, and still find in these others the same without end and without cessation; let him lose himself in wonders as astonishing in their minuteness as the others in their immensity; for who will not be amazed at seeing that our body, which before was imperceptible in the universe, itself imperceptible in the bosom of the whole, is now a colossus, a world, a whole, in regard to the nothingness to which we cannot attain.
+What is a man in the infinite? But to show him another prodigy no less astonishing, let him examine the most delicate things he knows. Let him take a mite which in its minute body presents him with parts incomparably more minute; limbs with their joints, veins in the limbs, blood in the veins, humours in the blood, drops in the humours, vapours in the drops; let him, again dividing these last, exhaust his power of thought; let the last point at which he arrives be that of which we speak, and he will perhaps think that here is the extremest diminutive in nature. Then I will open before him therein a new abyss. I will paint for him not only the visible universe, but all that he can conceive of nature’s immensity in the enclosure of this diminished atom. Let him therein see an [infinity](/concepts/infinity) of universes of which each has its firmament, its planets, its earth, in the same proportion as in the visible world; in each earth animals, and at the last the mites, in which he will come upon all that was in the first, and still find in these others the same without end and without cessation; let him lose himself in wonders as astonishing in their minuteness as the others in their immensity; for who will not be amazed at seeing that our body, which before was imperceptible in the universe, itself imperceptible in the bosom of the whole, is now a colossus, a world, a whole, in regard to the nothingness to which we cannot attain.
 
 Whoso takes this survey of himself will be terrified at the thought that he is upheld in the material being, given him by nature, between these two abysses of the infinite and nothing, he will tremble at the sight of these marvels; and I think that as his curiosity changes into wonder, he will be more disposed to contemplate them in silence than to search into them with presumption.
 
@@ -315,7 +320,7 @@ Because they have not considered these infinities, men have rashly plunged into 
 
 It is strange that they have wished to understand the origin of all that is, and thence to attain to the knowledge of the whole, with a presumption as infinite as their object. For there is no doubt that such a design cannot be formed without presumption or without a capacity as infinite as nature.
 
-If we are well informed, we understand that nature having graven her own image and that of her author on all things, they are almost all partakers of her double infinity. Thus we see that all the sciences are infinite in the extent of their researches, for none can doubt that geometry, for instance, has an infinite infinity of problems to propose. They are also infinite in the number and in the nicety of their premisses, for it is evident that those which are finally proposed are not self-supporting, but are based on others, which again having others as their support have no finality.
+If we are well informed, we understand that nature having graven her own image and that of her author on all things, they are almost all partakers of her double [infinity](/concepts/infinity). Thus we see that all the sciences are infinite in the extent of their researches, for none can doubt that geometry, for instance, has an infinite infinity of problems to propose. They are also infinite in the number and in the nicety of their premisses, for it is evident that those which are finally proposed are not self-supporting, but are based on others, which again having others as their support have no finality.
 
 But we make some apparently final to the reason, just as in regard to material things we call that an indivisible point beyond which our senses can no longer perceive any thing, though by its nature this also is infinitely divisible.
 
@@ -333,7 +338,7 @@ In the order of intelligible things our intelligence holds the same position as 
 
 Restricted in every way, this middle state between two extremes is common to all our weaknesses.
 
-Our senses can perceive no extreme. Too much noise deafens us, excess of light blinds us, too great distance or nearness equally interfere with our vision, prolixity or brevity equally obscure a discourse, too much truth overwhelms us. I know even those who cannot understand that if four be taken from nothing nothing remains. First principles are too plain for us, superfluous pleasure troubles us. Too many concords are unpleasing in music, and too many benefits annoy, we wish to have wherewithal to overpay our debt. Beneficia eo usque læta sunt dum videntur exsolvi posse; ubi multum antevenere, pro gratia odium redditur.
+Our senses can perceive no extreme. Too much noise deafens us, excess of light blinds us, too great distance or nearness equally interfere with our vision, prolixity or brevity equally obscure a discourse, too much truth overwhelms us. I know even those who cannot understand that if four be taken from nothing nothing remains. First principles are too plain for us, superfluous pleasure troubles us. Too many concords are unpleasing in music, and too many benefits annoy, we wish to have wherewithal to overpay our debt. Beneficia eo usque læta sunt dum videntur exsolvi posse; ubi multum antevenere, pro [gratia](/concepts/grace) odium redditur.
 
 We feel neither extreme heat nor extreme cold. Qualities in excess are inimical to us and not apparent to the senses, we do not feel but are passive under them. The weakness of youth and age equally hinder the mind, as also too much and too little teaching....
 
@@ -343,7 +348,7 @@ This is our true state; this is what renders us incapable both of certain knowle
 
 We may not then look for certainty or stability. Our reason is always deceived by changing shows, nothing can fix the finite between the two infinites, which at once enclose and fly from it.
 
-If this be once well understood I think that we shall rest, each in the state wherein nature has placed him. This element which falls to us as our lot being always distant from either extreme, it matters not that a man should have a trifle more knowledge of the universe. If he has it, he but begins a little higher. He is always infinitely distant from the end, and the duration of our life is infinitely removed from eternity, even if it last ten years longer.
+If this be once well understood I think that we shall rest, each in [the state](/concepts/state) wherein nature has placed him. This element which falls to us as our lot being always distant from either extreme, it matters not that a man should have a trifle more knowledge of the universe. If he has it, he but begins a little higher. He is always infinitely distant from the end, and the duration of our life is infinitely removed from [eternity](/positions/eternity), even if it last ten years longer.
 
 In regard to these infinites all finites are equal, and I see not why we should fix our imagination on one more than on another. The only comparison which we can make of ourselves to the finite troubles us.
 
@@ -361,13 +366,13 @@ I hold it impossible to know one alone without all the others, that is to say im
 
 The eternity of things in themselves or in God must also confound our brief duration. The fixed and constant immobility of Nature in comparison with the continual changes which take place in us must have the same effect.
 
-And what completes our inability to know things is that they are in their essence simple, whereas we are composed of two opposite natures differing in kind, soul and body. For it is impossible that our reasoning part should be other than spiritual; and should any allege that we are simply material, this would far more exclude us from the knowledge of things, since it is an inconceivable paradox to affirm that matter can know itself, and it is not possible for us to know how it should know itself.
+And what completes our inability to know things is that they are in their essence simple, whereas we are composed of two opposite natures differing in kind, [soul and body](/axes/soul_body). For it is impossible that our reasoning part should be other than spiritual; and should any allege that we are simply material, this would far more exclude us from the knowledge of things, since it is an inconceivable paradox to affirm that matter can know itself, and it is not possible for us to know how it should know itself.
 
 <span class="atom-split" data-atom="007" data-title="Charles K. Paul Translation, 1888 (7/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
 
 So, were we simply material, we could know nothing whatever, and if we are composed of spirit and matter we cannot perfectly know what is simple, whether it be spiritual or material. For how should we know matter distinctly, since our being, which acts on this knowledge, is partly spiritual, and how should we know spiritual substances clearly since we have a body which weights us, and drags us down to earth.
 
-Moreover what completes our inability is the simplicity of things compared with our double and complex nature. To dispute this point were an invincible absurdity, for it is as absurd as impious to deny that man is composed of two parts, differing in their nature, soul and body. This renders us unable to know all things; for if this complexity be denied, and it be asserted that we are entirely material, it is plain that matter is incapable of knowing matter. Nothing is more impossible than this.
+Moreover what completes our inability is the simplicity of things compared with our double and complex nature. To dispute this point were an invincible absurdity, for it is as absurd as impious to deny that man is composed of two parts, differing in their nature, [soul and body](/axes/soul_body). This renders us unable to know all things; for if this complexity be denied, and it be asserted that we are entirely material, it is plain that matter is incapable of knowing matter. Nothing is more impossible than this.
 
 Let us conceive then that this mixture of spirit and clay throws us out of proportion....
 
@@ -377,7 +382,7 @@ Instead of receiving the ideas of these things simply, we colour them with our o
 
 Who would not think, when we declare that all that is consists of mind and matter, that we really understood this combination? Yet it is the one thing we least understand. Man is to himself the most marvellous object in Nature, for he cannot conceive what matter is, still less what is mind, and less than all how a material body should be united to a mind. This is the crown of all his difficulties, yet it is his very being: Modus quo corporibus adhæret spiritus comprehendi ab homine non potest et hoc tamen homo est.
 
-These are some of the causes which render man so totally unable to know nature. For nature has a twofold infinity, he is finite and limited. Nature is permanent, and continues in one stay; he is fleeting and mortal. All things fail and change each instant, he sees them only as they pass, they have their beginning and end, he conceives neither the one nor the other. They are simple, he is composed of two different natures. And to complete the proof of our weakness, I will finish by this reflection on our natural condition. In a word, to complete the proof of our weakness, I will end with these two considerations....
+These are some of the causes which render man so totally unable to know nature. For nature has a twofold [infinity](/concepts/infinity), he is finite and limited. Nature is permanent, and continues in one stay; he is fleeting and mortal. All things fail and change each instant, he sees them only as they pass, they have their beginning and end, he conceives neither the one nor the other. They are simple, he is composed of two different natures. And to complete the proof of our weakness, I will finish by this reflection on our natural condition. In a word, to complete the proof of our weakness, I will end with these two considerations....
 
 The nature of man may be considered in two ways, one according to its end, and then it is great and incomparable; the other according to popular opinion, as we judge of the nature of a horse or a dog, by popular opinion which discerns in it the power of speed, et animum arcendi; and then man is abject and vile. These are the two ways which make us judge of it so differently and which cause such disputes among philosophers.
 
@@ -405,7 +410,7 @@ He that considers his work so soon as it leaves his hands, is prejudiced in its 
 
 So with pictures seen from too near or too far; there is but one precise point from which to look at them, all others are too near or too far, too high or too low. Perspective determines that precise point in the art of painting. But who shall determine it in truth or morals?
 
-When I consider the short duration of my life, swallowed up in the eternity before and after, the small space which I fill, or even can see, engulfed in the infinite immensity of spaces whereof I know nothing, and which know nothing of me, I am terrified, and wonder that I am here rather than there, for there is no reason why here rather than there, or now rather than then. Who has set me here? By whose order and design have this place and time been destined for me? — Memoria hospitis unius diei prætereuntis.
+When I consider the short duration of my life, swallowed up in the [eternity](/positions/eternity) before and after, the small space which I fill, or even can see, engulfed in the infinite immensity of spaces whereof I know nothing, and which know nothing of me, I am terrified, and wonder that I am here rather than there, for there is no reason why here rather than there, or now rather than then. Who has set me here? By whose order and design have this place and time been destined for me? — Memoria hospitis unius diei prætereuntis.
 
 It is not well to be too much at liberty. It is not well to have all we want.
 
@@ -413,11 +418,11 @@ How many kingdoms know nothing of us!
 
 The eternal silence of these infinite spaces alarms me.
 
-Nothing more astonishes me than to see that men are not astonished at their own weakness. They act seriously, and every one follows his own mode of life, not because it is, as a fact, good to follow, being the custom, but as if each man knew certainly where are reason and justice. They find themselves constantly deceived, and by an amusing humility always imagine that the fault is in themselves, and not in the art which all profess to understand. But it is well there are so many of this kind of people in the world, who are not sceptics for the glory of scepticism, to show that man is thoroughly capable of the most extravagant opinions, because he is capable of believing that his weakness is not natural and inevitable, but that, on the contrary, his wisdom comes by nature.
+Nothing more astonishes me than to see that men are not astonished at their own weakness. They act seriously, and every one follows his own mode of life, not because it is, as a fact, good to follow, being the [custom](/concepts/custom), but as if each man knew certainly where are reason and justice. They find themselves constantly deceived, and by an amusing humility always imagine that the fault is in themselves, and not in the art which all profess to understand. But it is well there are so many of this kind of people in the world, who are not sceptics for the glory of [scepticism](/positions/scepticism), to show that man is thoroughly capable of the most extravagant opinions, because he is capable of believing that his weakness is not natural and inevitable, but that, on the contrary, his wisdom comes by nature.
 
 <span class="atom-split" data-atom="008" data-title="Charles K. Paul Translation, 1888 (8/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
 
-Nothing fortifies scepticism more than that there are some who are not sceptics. If all were so, they would be wrong.
+Nothing fortifies [scepticism](/positions/scepticism) more than that there are some who are not sceptics. If all were so, they would be wrong.
 
 Two infinites, a mean. If we read too quickly or too slowly, we understand nothing.
 
@@ -437,7 +442,7 @@ Sudden death is the only thing to fear, therefore confessors live in the houses 
 
 We know ourselves so little, that many think themselves near death when they are perfectly well, and many think themselves well when they are near death, since they do not feel the fever at hand, or the abscess about to form.
 
-Why is my knowledge so restricted, or my height, or my life to a hundred years rather than to a thousand? What was nature’s reason for giving me such length of days, and for choosing this number rather than another, in that infinity where there is no reason to choose one more than another, since none is preferable to another?
+Why is my knowledge so restricted, or my height, or my life to a hundred years rather than to a thousand? What was nature’s reason for giving me such length of days, and for choosing this number rather than another, in that [infinity](/concepts/infinity) where there is no reason to choose one more than another, since none is preferable to another?
 
 The nature of man is not always to go forward, it has its advances and retreats.
 
@@ -461,7 +466,7 @@ It is not shameful to man to yield to pain, and it is shameful to yield to pleas
 
 All things may prove fatal to us, even those made to serve us, as in nature walls may kill us and stairs may kill us, if we walk not aright.
 
-The slightest movement affects all nature, the whole sea changes because of a rock. Thus in grace, the most trifling action has effect on everything by its consequences; therefore everything is important.
+The slightest movement affects all nature, the whole sea changes because of a rock. Thus in [grace](/concepts/grace), the most trifling action has effect on everything by its consequences; therefore everything is important.
 
 Provided we know each man’s ruling passion we are sure of pleasing him; yet each man has his fancies, contrary to his real good, even in the very idea he forms of good; a strange fact which puts all out of tune.
 
@@ -495,11 +500,11 @@ We like to see the error, the passion of Cleobuline, because she is not aware of
 
 What a confusion of judgment is that, by which every one puts himself above all the rest of the world, and loves his own advantage and the duration of his happiness or his life above those of all others.
 
-DIVERSION.
+[DIVERSION](/arguments/divertissement).
 
 <span class="atom-split" data-atom="009" data-title="Charles K. Paul Translation, 1888 (9/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
 
-DIVERSION. — WHEN I have set myself now and then to consider the various distractions of men, the toils and dangers to which they expose themselves in the court or the camp, whence arise so many quarrels and passions, such daring and often such evil exploits, etc., I have discovered that all the misfortunes of men arise from one thing only, that they are unable to stay quietly in their own chamber. A man who has enough to live on, if he knew how to dwell with pleasure in his own home, would not leave it for sea-faring or to besiege a city. An office in the army would not be bought so dearly but that it seems insupportable not to stir from the town, and people only seek conversation and amusing games because they cannot remain with pleasure in their own homes.
+[DIVERSION](/arguments/divertissement). — WHEN I have set myself now and then to consider the various distractions of men, the toils and dangers to which they expose themselves in the court or the camp, whence arise so many quarrels and passions, such daring and often such evil exploits, etc., I have discovered that all the misfortunes of men arise from one thing only, that they are unable to stay quietly in their own chamber. A man who has enough to live on, if he knew how to dwell with pleasure in his own home, would not leave it for sea-faring or to besiege a city. An office in the army would not be bought so dearly but that it seems insupportable not to stir from the town, and people only seek conversation and amusing games because they cannot remain with pleasure in their own homes.
 
 But upon stricter examination, when, having found the cause of all our ills, I have sought to discover the reason of it, I have found one which is paramount, the natural evil of our weak and mortal condition, so miserable that nothing can console us when we think of it attentively.
 
@@ -537,7 +542,7 @@ Take heed to this. What is it to be superintendent, chancellor, first president,
 
 Thus man is so unhappy that he wearies himself without cause of weariness by the peculiar state of his temperament, and he is so frivolous that, being full of a thousand essential causes of weariness, the least thing, such as a cue and a ball to strike with it, is enough to divert him.
 
-Diversions. — Men are charged from infancy with the care of their honour, their fortunes, and their friends, and more, with the care of the fortunes and honour of their friends. They are overwhelmed with business, with the study of languages and bodily exercises; they are given to understand that they cannot be happy unless their health, their honour, their fortune and that of their friends be in good condition, and that a single point wanting will render them unhappy. Thus we give them business and occupations which harass them incessantly from the very dawn of day. A strange mode, you will say, of making them happy. What more could be done to make them miserable? What could be done? We need only release them from all these cares, for then they would see themselves; they would think on what they are, whence they come, and whither they go, and therefore it is impossible to occupy and distract them too much. This is why, after having provided them with constant business, if there be any time to spare we urge them to employ it in diversion and in play, so as to be always fully occupied.
+Diversions. — Men are charged from infancy with the care of their honour, their fortunes, and their friends, and more, with the care of the fortunes and honour of their friends. They are overwhelmed with business, with the study of languages and bodily exercises; they are given to understand that they cannot be happy unless their health, their honour, their fortune and that of their friends be in good condition, and that a single point wanting will render them unhappy. Thus we give them business and occupations which harass them incessantly from the very dawn of day. A strange mode, you will say, of making them happy. What more could be done to make them miserable? What could be done? We need only release them from all these cares, for then they would see themselves; they would think on what they are, whence they come, and whither they go, and therefore it is impossible to occupy and distract them too much. This is why, after having provided them with constant business, if there be any time to spare we urge them to employ it in [diversion](/arguments/divertissement) and in play, so as to be always fully occupied.
 
 How comes it that this man, distressed at the death of his wife and his only son, or who has some great and embarrassing law suit, is not at this moment sad, and that he appears so free from all painful and distressing thoughts? We need not be astonished, for a ball has just been served to him, and he must return it to his opponent. His whole thoughts are fixed on taking it as it falls from the pent-house, to win a chase; and you cannot ask that he should think on his business, having this other affair in hand. Here is a care worthy of occupying this great soul, and taking away from him every other thought of the mind. This man, born to know the Universe, to judge of all things, to rule a State, is altogether occupied and filled with the business of catching a hare. And if he will not abase himself to this, and wishes always to be highly strung, he will only be more foolish still, because he wishes to raise himself above humanity; yet when all is said and done he is only a man, that is to say capable of little and of much, of all and of nothing. He is neither angel nor brute, but man.
 
@@ -581,7 +586,7 @@ Agitation. — When a soldier complains of his work, or a ploughman, etc., force
 
 <span class="atom-split" data-atom="011" data-title="Charles K. Paul Translation, 1888 (11/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
 
-Diversion. — Is not the royal dignity itself so truly great as to make its possessor happy by the mere contemplation of what he is? Must he be diverted from this thought like ordinary people? I see well enough that a man may be made happy by diverting him from the thought of his domestic sorrows so that he apply all his care to excel in dancing. But will it be the same with a king, and will he be happier if he devote himself to these idle amusements rather than to the contemplation of his greatness? And what more satisfactory object can he offer to his mind? Might it not be to lessen his content that he occupy his soul in thinking how to suit his steps to the cadence of an air, or how to throw a bar skilfully, rather than allow it to enjoy peacefully the contemplation of the majesty which wraps him round? Let us make the experiment, let us leave a king all alone, without any gratifications of sense, or any occupation for the mind, without companions, reflecting on himself at leisure, and it will be seen that a king without diversion is a man full of miseries. This is therefore carefully avoided, and there are always about the persons of kings a great number of people who watch to see that diversion succeeds to business, and look after their every hour of leisure to furnish them with pleasures and games, so that no vacancy may be left in life; that is, they are surrounded with persons who take wonderful pains that the king is never alone and able to think of self, knowing well that he will be miserable, king though he is, if he think of self.
+[Diversion](/arguments/divertissement). — Is not the royal dignity itself so truly great as to make its possessor happy by the mere contemplation of what he is? Must he be diverted from this thought like ordinary people? I see well enough that a man may be made happy by diverting him from the thought of his domestic sorrows so that he apply all his care to excel in dancing. But will it be the same with a king, and will he be happier if he devote himself to these idle amusements rather than to the contemplation of his greatness? And what more satisfactory object can he offer to his mind? Might it not be to lessen his content that he occupy his soul in thinking how to suit his steps to the cadence of an air, or how to throw a bar skilfully, rather than allow it to enjoy peacefully the contemplation of the majesty which wraps him round? Let us make the experiment, let us leave a king all alone, without any gratifications of sense, or any occupation for the mind, without companions, reflecting on himself at leisure, and it will be seen that a king without diversion is a man full of miseries. This is therefore carefully avoided, and there are always about the persons of kings a great number of people who watch to see that diversion succeeds to business, and look after their every hour of leisure to furnish them with pleasures and games, so that no vacancy may be left in life; that is, they are surrounded with persons who take wonderful pains that the king is never alone and able to think of self, knowing well that he will be miserable, king though he is, if he think of self.
 
 In all this I am not speaking of Christian kings as Christians, but simply as kings.
 
@@ -655,7 +660,7 @@ Misery. — Solomon and Job best knew, and have best spoken of human misery; the
 
 It is dangerous to prove to man too plainly how nearly he is on a level with the brutes without showing him his greatness; it is also dangerous to show him his greatness too clearly apart from his vileness. It is still more dangerous to leave him in ignorance of both. But it is of great advantage to show him both.
 
-How comes it that we have so much patience with those who are maimed in body, and so little with those who are defective in mind? Because a cripple recognises that we have the true use of our legs, but the fool maintains that we are they whose understanding halts; were it not so we should feel pity and not anger.
+How comes it that we have so much patience with those who are maimed in body, and so little with those who are defective in mind? Because a cripple recognises that we have the true use of our legs, but the fool maintains that we are they whose understanding halts; were it not so we should feel pity and not [anger](/concepts/anger).
 
 Epictetus puts it yet more strongly: “How comes it that we are not angry if a man says we have an headache, but are angry if told we use a weak argument or make a wrong choice?” The reason of this is that we are quite certain we have no headache, or are not lame, but we are not equally sure that our judgment is correct. So having no assurance but that we see with our whole powers of sight, we are startled and confounded when another with equal powers sees the exact opposite, especially when a thousand others laugh at our decision; for then we must prefer our light to that of so many others, a daring and difficult matter. There is never this contradiction in feeling as to a cripple.
 
@@ -669,7 +674,7 @@ If he exalt himself I humble him, if he humble himself I exalt him, and ever con
 
 The greatness of man consists in thought.
 
-A thinking reed. — Not from space must I seek my dignity, but from the ruling of my thought. I should have no more if I possessed whole worlds. By space the Universe encompasses and swallows me as an atom, by thought I encompass it.
+A [thinking reed](/positions/misery_and_greatness). — Not from space must I seek my dignity, but from the ruling of my thought. I should have no more if I possessed whole worlds. By space the Universe encompasses and swallows me as an atom, by thought I encompass it.
 
 Man is but a reed, weakest in nature, but a reed which thinks. It needs not that the whole Universe should arm to crush him. A vapour, a drop of water is enough to kill him. But were the Universe to crush him, man would still be more noble than that which has slain him, because he knows that he dies, and that the Universe has the better of him. The Universe knows nothing of this.
 
@@ -709,7 +714,7 @@ I would then lead man to the desire of finding it; to be free from passions and 
 
 I blame equally those who take on themselves to praise man, those who take on themselves to blame him, and those who merely amuse themselves; I can approve those only who seek with tears.
 
-The stoics say, “Retire within yourselves, there will you find your rest;” which is not true. Others say, “Go out of yourselves, seek your happiness in diversion;” nor is that true, for sickness may come.
+The stoics say, “Retire within yourselves, there will you find your rest;” which is not true. Others say, “Go out of yourselves, seek your happiness in [diversion](/arguments/divertissement);” nor is that true, for sickness may come.
 
 Happiness is neither without us nor within us; it is in God, both without us and within us.
 
@@ -717,7 +722,7 @@ OF THE DECEPTIVE POWERS OF
 
 THE IMAGINATION.
 
-OF THE DECEPTIVE powers. — Man is only a subject full of natural error, which is indelible without grace. Nothing shows him the truth, everything deceives him. These two principles of truth, reason and the senses, in addition to the fact that they are both wanting in sincerity, reciprocally deceive each other. The senses trick the reason by false appearances, and gain from reason in their turn the same deception with which they deceive; reason avenges herself. The passions of the soul trouble the senses, and make on them false impressions. They lie and deceive, outvying one another.
+OF THE DECEPTIVE powers. — Man is only a subject full of natural error, which is indelible without [grace](/concepts/grace). Nothing shows him the truth, everything deceives him. These two principles of truth, reason and the senses, in addition to the fact that they are both wanting in sincerity, reciprocally deceive each other. The senses trick the reason by false appearances, and gain from reason in their turn the same deception with which they deceive; reason avenges herself. The passions of the soul trouble the senses, and make on them false impressions. They lie and deceive, outvying one another.
 
 But beyond those errors which come by accident, and by a lack of intelligence, with these heterogeneous faculties.... To begin thus the chapter on the deceptive powers.
 
@@ -755,7 +760,7 @@ These are for the most part the effects of that deceptive faculty, which seems t
 
 Not only are old impressions capable of deceiving us, the charms of novelty have the same power. Hence arise all the disputes of men, who charge each other either with following the false impressions of childhood or of running rashly after new. Who rightly keeps a middle way? Let him appear and make good his pretensions. There is no principle, however natural to us even from childhood, which may not be made to pass for a false impression either of education or of sense.
 
-“Because,” say some, “you have believed from childhood that a box was empty when you saw nothing in it, you have therefore believed the possibility of a vacuum. This is an illusion of your senses, strengthened by custom, which science must correct.” “Because,” say others, “you were taught at school that there is no such thing as a vacuum, your common sense, which clearly comprehended the matter before, is corrupted, and you must correct this false impression by returning to your primitive nature.” Which has deceived you, your senses or your education?
+“Because,” say some, “you have believed from childhood that a box was empty when you saw nothing in it, you have therefore believed the possibility of a vacuum. This is an illusion of your senses, strengthened by [custom](/concepts/custom), which science must correct.” “Because,” say others, “you were taught at school that there is no such thing as a vacuum, your common sense, which clearly comprehended the matter before, is corrupted, and you must correct this false impression by returning to your primitive nature.” Which has deceived you, your senses or your education?
 
 Diseases are another source of error. They impair our judgment and our senses, and if the more violent produce a sensible change, I do not doubt that slighter ailments produce each its proportionate impression.
 
@@ -793,7 +798,7 @@ And here imagination begins to play her part. Till now power has constrained fac
 
 The cords therefore which bind the respect of men to any given man are the cords of imagination.
 
-Our imagination so enlarges the present by dint of continually reflecting on it, and so contracts eternity, by never reflecting on it, that we make a nothing of eternity and an eternity of nothing; and all this has such living roots in us, that all our reason cannot suppress them, and that....
+Our imagination so enlarges the present by dint of continually reflecting on it, and so contracts [eternity](/positions/eternity), by never reflecting on it, that we make a nothing of eternity and an eternity of nothing; and all this has such living roots in us, that all our reason cannot suppress them, and that....
 
 The imagination enlarges little objects so as to fill our soul with its fantastic estimate, and by a rash insolence belittles the great to its own measure, as when it speaks of God.
 
@@ -875,7 +880,7 @@ It is admitted that justice is not in these customs, but that it resides in natu
 
 Theft, incest, infanticide, parricide, all have found a place among virtuous actions. Can there be any thing more absurd than that a man should have the right to kill me because he lives across the water, and because his prince has a quarrel with mine, although I have none with him? There are no doubt natural laws, but fair reason once corrupted has corrupted all. Nihil amplius nostrum est; quod nostrum dicimus, artis est. Ex senatus consultis, et plebiscitis crimina exercentur. Ut olim vitiis, sic nunc legibus laboramus.
 
-From this confusion it results that one declares the essence of justice to be the authority of the legislator, another, the convenience of the sovereign, another, existing custom, and this is the most sure; nothing which follows reason alone is just in itself, all shifts and changes with time; custom creates equity, by the simple reason that this is received. It is the mystical foundation of its authority, whoever carries it back to first principles annihilates it. Nothing is so faulty as those laws which correct faults. Whoever obeys them because they are just, obeys an imaginary justice, not law in its essence; it is altogether self-contained, it is law and nothing more. Whoever will examine its motive will find it so feeble and so slight that if he be not used to contemplate the marvels of human imagination, he will wonder that a single century has gained for it so much pomp and reverence. It is the art of disturbance and of revolution to shake established customs, sounding them to their source, to mark their want of authority and justice. We must, it is said, return to the primitive and fundamental laws of the State, abolished by unjust custom. It is a game wherein we are sure to lose all; in this balance nothing would be true, yet the people easily lends an ear to such talk as this. They shake off the yoke as soon as they recognise it, and the great profit by its ruin, and by the ruin of those who have too curiously examined recognised customs. This is why the wisest of law givers said that it was often necessary to cheat men for their good, and another, a good politician, Quum veritatem qua liberetur ignoret, expedit quod fallatur. We ought not to feel the truth that law is but usurpation; it was once introduced without reason, and has become reasonable; it is necessary to cause it to be regarded as eternal and authoritative, and to conceal the beginning if we do not wish it should soon come to an end.
+From this confusion it results that one declares the essence of justice to be the authority of the legislator, another, the convenience of the sovereign, another, existing [custom](/concepts/custom), and this is the most sure; nothing which follows reason alone is just in itself, all shifts and changes with time; custom creates equity, by the simple reason that this is received. It is the mystical foundation of its authority, whoever carries it back to first principles annihilates it. Nothing is so faulty as those laws which correct faults. Whoever obeys them because they are just, obeys an imaginary justice, not law in its essence; it is altogether self-contained, it is law and nothing more. Whoever will examine its motive will find it so feeble and so slight that if he be not used to contemplate the marvels of human imagination, he will wonder that a single century has gained for it so much pomp and reverence. It is the art of disturbance and of [revolution](/positions/revolution) to shake established customs, sounding them to their source, to mark their want of authority and justice. We must, it is said, return to the primitive and fundamental laws of [the State](/concepts/state), abolished by unjust custom. It is a game wherein we are sure to lose all; in this balance nothing would be true, yet the people easily lends an ear to such talk as this. They shake off the yoke as soon as they recognise it, and the great profit by its ruin, and by the ruin of those who have too curiously examined recognised customs. This is why the wisest of law givers said that it was often necessary to cheat men for their good, and another, a good politician, Quum veritatem qua liberetur ignoret, expedit quod fallatur. We ought not to feel the truth that law is but usurpation; it was once introduced without reason, and has become reasonable; it is necessary to cause it to be regarded as eternal and authoritative, and to conceal the beginning if we do not wish it should soon come to an end.
 
 I have passed much of my life believing that justice existed, and in this I did not deceive myself, for there is justice according as God has willed to reveal it to us. But I did not take it so, and in that I deceived myself, for I believed that our justice was essentially just, and that I had that whereby I was able to know and judge of it. But I so often find that my right judgment was at fault, that at last I have begun to distrust myself, and then others. I saw in all countries that men change, and thus after many changes of judgment concerning true justice, I recognised that our nature was a continual change, and I have not changed since; were I to change I should but strengthen my opinion. The sceptic Archesilas became a dogmatist.
 
@@ -907,7 +912,7 @@ Injustice. — It is dangerous to say to the people that the laws are not just, 
 
 If God gave us masters direct from himself, how heartily ought we to obey them! Circumstances and necessity are infallible masters.
 
-Custom is our nature. Whoever is accustomed to the faith believes in it, can no longer even fear hell, and believes in nothing else. Whoever accustoms himself to believe that the king is terrible ... etc. Who doubts then that our soul, being accustomed to see number, space, and motion, believes that and nothing else?
+[Custom](/concepts/custom) is our nature. Whoever is accustomed to the faith believes in it, can no longer even fear hell, and believes in nothing else. Whoever accustoms himself to believe that the king is terrible ... etc. Who doubts then that our soul, being accustomed to see number, space, and motion, believes that and nothing else?
 
 Veri juris; we have it no longer; had we it, we should not take the manners of our country as our rule of justice.
 
@@ -941,7 +946,7 @@ Do we follow the majority because they have more reason? No; but because they ha
 
 Do we follow ancient laws and opinions because they are more sound? No; but because they stand alone and take from us the root of diversity.
 
-Summum jus, summa injuria.
+Summum jus, [summa](/schools/scholasticism) injuria.
 
 The way of the majority is the best way, because it is plain, and has power to make itself obeyed; yet it is the opinion of the least able.
 
@@ -999,11 +1004,11 @@ But after all, this evil root of man, this figmentum malum, is only hidden, it i
 
 All men by nature hate each other. They have used sensuality as best they could to make it serve the public weal, but this is only a feint, and a false image of charity, for at bottom it is but hate.
 
-To pity the unfortunate is not contrary to sensuality, rather is it easy to render this evidence of friendship, and to gain the reputation of a tender heart, without giving.
+To pity the unfortunate is not contrary to sensuality, rather is it easy to render this evidence of [friendship](/concepts/friendship), and to gain the reputation of a tender heart, without giving.
 
 The people have very sound opinions, for instance:
 
-1. In having preferred diversion and hunting to poetry. The half educated deride this, and are triumphant over the folly of the world, but the people are right by a reason which the others do not understand.
+1. In having preferred [diversion](/arguments/divertissement) and hunting to poetry. The half educated deride this, and are triumphant over the folly of the world, but the people are right by a reason which the others do not understand.
 
 2. In distinguishing men by outward marks, as birth or wealth. The world is again triumphant in showing how unreasonable this is, yet it is thoroughly reasonable. Savages laugh at an infant king.
 
@@ -1075,7 +1080,7 @@ The example of Alexander’s chastity has not made so many continent as that of 
 
 Great men and little have the same accidents, the same tempers, the same passions, but one is on the felloe of the wheel, the other near the axle, and so less agitated by the same revolutions.
 
-Would he who had enjoyed the friendship of the King of England, the King of Poland, and the Queen of Sweden have thought he should come to want, and need a retreat or shelter in the world?
+Would he who had enjoyed the [friendship](/concepts/friendship) of the King of England, the King of Poland, and the Queen of Sweden have thought he should come to want, and need a retreat or shelter in the world?
 
 Man is full of wants, and cares only for those who can satisfy them all. “Such an one is a good mathematician,” it is said. But I have nothing to do with mathematics, he would take me for a proposition. “This other is a good soldier.” He would treat me as a besieged city. I need then an honourable man who can lend himself generally to all my wants.
 
@@ -1091,13 +1096,13 @@ As duchies, kingships, and magistracies are real and necessary, because power ru
 
 Cromwell was about to ravage the whole of Christendom, the royal family had been brought to nought, and his own dynasty for ever established, but for a little grain of sand in his bladder. Rome herself began to tremble under him, but this scrap of gravel having got there, he dies, his family falls from power, peace is established, and the king restored.
 
-Scepticism. — Excessive or deficient mental powers are alike accused of madness. Nothing is good but mediocrity. The majority has settled that, and assails whoever escapes it, no matter by which extreme. I make no objection, would willingly consent to be in the mean, and I refuse to be placed at the lower end, not because it is low, but because it is an extreme, for I would equally refuse to be placed at the top. To leave the mean is to leave humanity. The greatness of the human soul consists in knowing how to keep the mean. So little is it the case that greatness consists in leaving it, that it lies in not leaving it.
+[Scepticism](/positions/scepticism). — Excessive or deficient mental powers are alike accused of madness. Nothing is good but mediocrity. The majority has settled that, and assails whoever escapes it, no matter by which extreme. I make no objection, would willingly consent to be in the mean, and I refuse to be placed at the lower end, not because it is low, but because it is an extreme, for I would equally refuse to be placed at the top. To leave the mean is to leave humanity. The greatness of the human soul consists in knowing how to keep the mean. So little is it the case that greatness consists in leaving it, that it lies in not leaving it.
 
 Discourses on humility give occasion for pride to the boastful, and for humility to the humble. Those on scepticism give occasion for believers to affirm. Few men speak humbly of humility, chastely of chastity, few of scepticism doubtingly. We are but falsehood, duplicity and contradiction, using even to ourselves concealment and guile.
 
 There are vices which only take hold of us by means of others, and these, like branches, fall with the removal of the trunk.
 
-For we must not mistake ourselves, we have as much that is automatic in us as intellectual, and hence it comes that the instrument by which persuasion is brought about is not demonstration alone. How few things are demonstrated! Proofs can only convince the mind; custom makes our strongest proofs and those which we hold most firmly, it sways the automaton, which draws the unconscious intellect after it. Who has demonstrated that there will be a to-morrow, or that we shall die; yet what is more universally believed? It is then custom that convinces us of it, custom that makes so many men Christians, custom that makes them Turks, heathen, artisans, soldiers, etc. Lastly, we must resort to custom when once the mind has seen where truth is, in order to slake our thirst, and steep ourselves in that belief, which escapes us at every hour, for to have proofs always at hand were too onerous. We must acquire a more easy belief, that of custom, which without violence, without art, without argument, causes our assent and inclines all our powers to this belief, so that our soul naturally falls into it. It is not enough to believe only by force of conviction if the automaton is inclined to believe the contrary. Both parts of us then must be obliged to believe, the intellect by arguments which it is enough to have admitted once in our lives, the automaton by custom, and by not allowing it to incline in the contrary direction. Inclina cor meum, Deus.
+For we must not mistake ourselves, we have as much that is automatic in us as intellectual, and hence it comes that the instrument by which persuasion is brought about is not demonstration alone. How few things are demonstrated! Proofs can only convince the mind; [custom](/concepts/custom) makes our strongest proofs and those which we hold most firmly, it sways the automaton, which draws the unconscious intellect after it. Who has demonstrated that there will be a to-morrow, or that we shall die; yet what is more universally believed? It is then custom that convinces us of it, custom that makes so many men Christians, custom that makes them Turks, heathen, artisans, soldiers, etc. Lastly, we must resort to custom when once the mind has seen where truth is, in order to slake our thirst, and steep ourselves in that belief, which escapes us at every hour, for to have proofs always at hand were too onerous. We must acquire a more easy belief, that of custom, which without violence, without art, without argument, causes our assent and inclines all our powers to this belief, so that our soul naturally falls into it. It is not enough to believe only by force of conviction if the automaton is inclined to believe the contrary. Both parts of us then must be obliged to believe, the intellect by arguments which it is enough to have admitted once in our lives, the automaton by custom, and by not allowing it to incline in the contrary direction. Inclina cor meum, Deus.
 
 The intellect believes naturally, and the will loves naturally, so that for lack of true objects, they must needs attach themselves to the false.
 
@@ -1107,7 +1112,7 @@ Even if people have no interest in what they say, it must not therefore be certa
 
 Men are of necessity so mad, that not to be mad were madness in another form.
 
-We cannot think of Plato and Aristotle, save in professorial robes. They were honest men like others, laughing with their friends, and when they amused themselves with writing the Laws or the Politics, they did it as a pastime. That part of their life was the least philosophic and the least serious; the most philosophic was to live simply and quietly. If they wrote on politics it was as though they were laying down rules for a madhouse, and if they made as though they were speaking of a great matter, it was because they knew that the madmen to whom they spoke fancied themselves kings and emperors. They entered into their views in order to make their folly as little harmful as possible.
+We cannot think of Plato and [Aristotle](/figures/aristotle), save in professorial robes. They were honest men like others, laughing with their friends, and when they amused themselves with writing the Laws or the Politics, they did it as a pastime. That part of their life was the least philosophic and the least serious; the most philosophic was to live simply and quietly. If they wrote on politics it was as though they were laying down rules for a madhouse, and if they made as though they were speaking of a great matter, it was because they knew that the madmen to whom they spoke fancied themselves kings and emperors. They entered into their views in order to make their folly as little harmful as possible.
 
 The most important affair in life is the choice of a trade, yet chance decides it. Custom makes men masons, soldiers, tilers. “He is a good tiler,” says one, “and soldiers are fools.” But others: “There is nothing great but war, all but soldiers are rogues.” We choose our professions according as we hear this or that praised or despised in our childhood, for we naturally love truth and hate folly. These words move us, the only fault is in their application. So great is the force of custom that out of those who by nature are only men, are made all conditions of men. For some countries are full of masons, others of soldiers, etc. Nature is certainly not so uniform. Custom then produces this effect and gains ascendency over nature, yet sometimes nature gets the upper hand, and obliges man to act by instinct in spite of all custom, whether good or bad.
 
@@ -1135,7 +1140,7 @@ The property of riches is to be given liberally.
 
 The property of each thing should be sought out. The property of power is to protect.
 
-Saint Augustine saw that we labour for an uncertainty, at sea, in a battle, etc.; he did not see the doctrine of chances, which demonstrates that we must do so. Montaigne saw that we are disgusted at a distorted mind, and that custom can do all things, but he did not see the reason of that effect.
+Saint [Augustine](/figures/augustine) saw that we labour for an uncertainty, at sea, in a battle, etc.; he did not see the doctrine of chances, which demonstrates that we must do so. Montaigne saw that we are disgusted at a distorted mind, and that [custom](/concepts/custom) can do all things, but he did not see the reason of that effect.
 
 All these men saw the effects, but did not see the causes; in relation to those who have discovered the causes they are as those who have only eyes are in regard to those who have intellect. For the effects are as it were sensible, and the causes are visible only to the intellect. And though these effects too are apprehended through reason, yet is it in relation to the reason which apprehends causes, as the bodily senses are to the intellect.
 
@@ -1185,7 +1190,7 @@ Nature has made all her truths self-contained. Our art encloses them one within 
 
 Spongia solis. — When we see the same effect invariably recur we conclude there is in it a natural necessity, as that there will be a to-morrow, etc. But nature often gives us the lie, and will not subject herself to her own rules.
 
-Nature always begins the same things again, years, days, and hours, and in like manner spaces and numbers follow each other, end without end. So is made a sort of infinity and eternity, not that any thing of these is infinite and eternal, but these finite entities are infinitely multiplied.
+Nature always begins the same things again, years, days, and hours, and in like manner spaces and numbers follow each other, end without end. So is made a sort of [infinity](/concepts/infinity) and [eternity](/positions/eternity), not that any thing of these is infinite and eternal, but these finite entities are infinitely multiplied.
 
 Thus as it seems to me the number which multiplies them alone is infinite.
 
@@ -1217,11 +1222,11 @@ Thus if they discover no more imperfections and vices in us than we really have,
 
 Such are the sentiments which would arise in a heart full of equity and justice. What should we say then of our own heart, finding in it an wholly contrary disposition? For is it not true that we hate truth, and those who tell it us, and that we would wish them to have an erroneously favourable opinion of us, and to esteem us other than indeed we are?
 
-One proof of this fills me with dismay. The Catholic religion does not oblige us to tell out our sins indiscriminately to all, it allows us to remain hidden from men in general, but she excepts one alone, to whom she commands us to open the very depths of our heart, and to show ourselves to him as we are. There is but this one man in the world whom she orders us to undeceive; she binds him to an inviolable secrecy, so that this knowledge is to him as though it were not. We can imagine nothing more charitable and more tender. Yet such is the corruption of man, that he finds even this law harsh, and it is one of the main reasons which has set a large portion of Europe in revolt against the Church.
+One proof of this fills me with dismay. The Catholic religion does not oblige us to tell out our sins indiscriminately to all, it allows us to remain hidden from men in general, but she excepts one alone, to whom she commands us to open the very depths of our heart, and to show ourselves to him as we are. There is but this one man in the world whom she orders us to undeceive; she binds him to an inviolable secrecy, so that this knowledge is to him as though it were not. We can imagine nothing more charitable and more tender. Yet such is the corruption of man, that he finds even this law harsh, and it is one of the main reasons which has set a large portion of Europe in [revolt](/positions/revolution) against the Church.
 
 How unjust and unreasonable is the human heart which finds it hard to be obliged to do in regard to one man what in some degree it were just to do to all men. For is it just that we should deceive them?
 
-There are different degrees in this dislike to the truth, but it may be said that all have it in some degree, for it is inseparable from self-love. This false delicacy causes those who must needs reprove others to choose so many windings and modifications in order to avoid shocking them. They must needs lessen our faults, seem to excuse them, mix praises with their blame, give evidences of affection and esteem. Yet this medicine is always bitter to self-love, which takes as little as it can, always with disgust, often with a secret anger against those who administer it.
+There are different degrees in this dislike to the truth, but it may be said that all have it in some degree, for it is inseparable from self-love. This false delicacy causes those who must needs reprove others to choose so many windings and modifications in order to avoid shocking them. They must needs lessen our faults, seem to excuse them, mix praises with their blame, give evidences of affection and esteem. Yet this medicine is always bitter to self-love, which takes as little as it can, always with disgust, often with a secret [anger](/concepts/anger) against those who administer it.
 
 Hence it happens, that if any desire our love, they avoid doing us a service which they know to be disagreeable; they treat us as we would wish to be treated: we hate the truth, and they hide it from us; we wish to be flattered, they flatter us; we love to be deceived, they deceive us.
 
@@ -1233,19 +1238,19 @@ This misfortune is, no doubt, greater and more common in the higher classes, but
 
 Man is then only disguise, falsehood, and hypocrisy, both in himself and with regard to others. He will not be told the truth, he avoids telling it to others, and all these tendencies, so far removed from justice and reason, have their natural roots in his heart.
 
-THE HAPPINESS OF MAN WITH GOD; OR, THAT THE SCRIPTURE SHOWS A REDEEMER.
+THE HAPPINESS OF MAN WITH GOD; OR, THAT THE [SCRIPTURE](/concepts/revelation) SHOWS A REDEEMER.
 
 PREFACE TO THE SECOND PART.
 
 TO SPEAK OF those who have treated of this subject.
 
-I wonder at the boldness with which these persons undertake to speak of God, in addressing their words to the irreligious. Their first chapter is to prove Divinity by the works of nature. I should not be astonished at their undertaking if they addressed their argument to the faithful, for it is certain that those who have a lively faith in their heart see at once that all that exists is none other than the work of the God whom they adore. But for those in whom this light is extinguished, and in whom we desire to revive it, men destitute of faith and grace who, seeking with all their light whatever they see in nature to lead them to this knowledge, find only clouds and darkness, — to tell them they need only look at the smallest things which surround them in order to see God unveiled, to give them as the sole proof of this great and important subject, the course of the moon and planets, and to say that with such an argument we have accomplished the proof; is to give them ground for belief that the proofs of our Religion are very feeble. Indeed I see by reason and experience that nothing is more fitted to excite contempt.
+I wonder at the boldness with which these persons undertake to speak of God, in addressing their words to the irreligious. Their first chapter is to prove Divinity by the works of nature. I should not be astonished at their undertaking if they addressed their argument to the faithful, for it is certain that those who have a lively faith in their heart see at once that all that exists is none other than the work of the God whom they adore. But for those in whom this light is extinguished, and in whom we desire to revive it, men destitute of faith and [grace](/concepts/grace) who, seeking with all their light whatever they see in nature to lead them to this knowledge, find only clouds and darkness, — to tell them they need only look at the smallest things which surround them in order to see God unveiled, to give them as the sole proof of this great and important subject, the course of the moon and planets, and to say that with such an argument we have accomplished the proof; is to give them ground for belief that the proofs of our Religion are very feeble. Indeed I see by reason and experience that nothing is more fitted to excite contempt.
 
 Not after this fashion speaks the Scripture, which knows better than we the things of God. It says, on the contrary, that God is a God who hides himself, and that since nature became corrupt, he has left men in a blindness from which they can only escape by Jesus Christ, and except through him we are cut off from all communication with God. Nemo novit Patrem, nisi Filius, et cui voluerit Filius revelare.
 
 This is what Scripture indicates when it says in so many places that those who seek God find him. It is not of a light like the sun at noonday that they thus speak. No one says that those who seek the sun at noonday, or water in the sea shall find them, and thus it follows that the evidence for God is not of that kind. Therefore it says to us elsewhere: Vere tu es Deus absconditus.
 
-The metaphysical proofs of God are so apart from man’s reason, and so complicated that they are but little striking, and if they are of use to any, it is only during the moment that the demonstration is before them, but an hour afterwards they fear they have been mistaken.
+The metaphysical [proofs of God](/positions/demonstrative_theism) are so apart from man’s reason, and so complicated that they are but little striking, and if they are of use to any, it is only during the moment that the demonstration is before them, but an hour afterwards they fear they have been mistaken.
 
 Quod curiositate cognoverint, superbia amiserunt.
 
@@ -1261,7 +1266,7 @@ Therefore I do not here undertake to prove by natural reasons either the existen
 
 The God of Christians is not a God who is simply the author of mathematical truths, or of the order of the elements, as is the god of the heathen and of Epicureans. Nor is he merely a God who providentially disposes the life and fortunes of men, to crown his worshippers with length of happy years. Such was the portion of the Jews. But the God of Abraham, the God of Isaac, the God of Jacob, the God of Christians, is a God of love and consolation, a God who fills the souls and hearts of his own, a God who makes them feel their inward wretchedness, and his infinite mercy, who unites himself to their inmost spirit, filling it with humility and joy, with confidence and love, rendering them incapable of any end other than himself.
 
-All who seek God apart from Jesus Christ, and who rest in nature, find no light to satisfy them, but form for themselves a means of knowing God and serving him without a mediator. Thus they fall either into atheism, or into deism, two things which the Christian religion almost equally abhors.
+All who seek God apart from Jesus Christ, and who rest in nature, find no light to satisfy them, but form for themselves a means of knowing God and serving him without a mediator. Thus they fall either into [atheism](/positions/atheism), or into [deism](/positions/deism), two things which the Christian religion almost equally abhors.
 
 The God of Christians is a God who makes the soul perceive that he is her only good, that her only rest is in him, her only joy in loving him; who makes her at the same time abhor the obstacles which withhold her from loving him with all her strength. Her two hindrances, self-love and lust, are insupportable to her. This God makes her perceive that the root of self-love destroys her, and that he alone can heal.
 
@@ -1287,7 +1292,7 @@ Some seek good in authority, others in research and knowledge, others in pleasur
 
 Infinite, nothing. — The soul of man is cast into the body, in which it finds number, time, dimension; it reasons thereon, and calls this nature or necessity, and cannot believe aught else.
 
-Unity joined to infinity increases it not, any more than a foot measure added to infinite space. The finite is annihilated in presence of the infinite and becomes simply nought. Thus our intellect before God, thus our justice before the divine justice. There is not so great a disproportion between our justice and that of God, as between unity and infinity.
+Unity joined to [infinity](/concepts/infinity) increases it not, any more than a foot measure added to infinite space. The finite is annihilated in presence of the infinite and becomes simply nought. Thus our intellect before God, thus our justice before the divine justice. There is not so great a disproportion between our justice and that of God, as between unity and infinity.
 
 The justice of God must be as vast as his mercy, but justice towards the reprobate is less vast, and should be less amazing than mercy towards the elect.
 
@@ -1309,17 +1314,17 @@ Who then will blame Christians for not being able to give a reason for their fai
 
 Do not then accuse of error those who have already chosen, for you know nothing about it. — No, but I blame them for having made, not this choice, but a choice, for again both the man who calls ‘heads’ and his adversary are equally to blame, they are both in the wrong; the true course is not to wager at all. —
 
-Yes, but you must wager; this depends not on your will, you are embarked in the affair. Which will you choose? Let us see. Since you must choose, let us see which least interests you. You have two things to lose, truth and good, and two things to stake, your reason and your will, your knowledge and your happiness; and your nature has two things to avoid, error and misery. Since you must needs choose, your reason is no more wounded in choosing one than the other. Here is one point cleared up, but what of your happiness? Let us weigh the gain and the loss in choosing heads that God is. Let us weigh the two cases: if you gain, you gain all; if you lose, you lose nothing. Wager then unhesitatingly that he is. — You are right. Yes, I must wager, but I may stake too much. — Let us see. Since there is an equal chance of gain and loss, if you had only to gain two lives for one, you might still wager. But were there three of them to gain, you would have to play, since needs must that you play, and you would be imprudent, since you must play, not to chance your life to gain three at a game where the chances of loss or gain are even. But there is an eternity of life and happiness. And that being so, were there an infinity of chances of which one only would be for you, you would still be right to stake one to win two, and you would act foolishly, being obliged to play, did you refuse to stake one life against three at a game in which out of an infinity of chances there be one for you, if there were an infinity of an infinitely happy life to win. But there is here an infinity of an infinitely happy life to win, a chance of gain against a finite number of chances of loss, and what you stake is finite; that is decided. Wherever the infinite exists and there is not an infinity of chances of loss against that of gain, there is no room for hesitation, you must risk the whole. Thus when a man is forced to play he must renounce reason to keep life, rather than hazard it for infinite gain, which is as likely to happen as the loss of nothingness.
+Yes, but you must wager; this depends not on your will, you are embarked in the affair. Which will you choose? Let us see. Since you must choose, let us see which least interests you. You have two things to lose, truth and good, and two things to stake, your reason and your will, your knowledge and your happiness; and your nature has two things to avoid, error and misery. Since you must needs choose, your reason is no more wounded in choosing one than the other. Here is one point cleared up, but what of your happiness? Let us weigh the gain and the loss in choosing heads that God is. Let us weigh the two cases: if you gain, you gain all; if you lose, you lose nothing. [Wager](/figures/the_libertine) then unhesitatingly that he is. — You are right. Yes, I must wager, but I may stake too much. — Let us see. Since there is an equal chance of gain and loss, if you had only to gain two lives for one, you might still wager. But were there three of them to gain, you would have to play, since needs must that you play, and you would be imprudent, since you must play, not to chance your life to gain three at a game where the chances of loss or gain are even. But there is an [eternity](/positions/eternity) of life and happiness. And that being so, were there an infinity of chances of which one only would be for you, you would still be right to stake one to win two, and you would act foolishly, being obliged to play, did you refuse to stake one life against three at a game in which out of an infinity of chances there be one for you, if there were an infinity of an infinitely happy life to win. But there is here an infinity of an infinitely happy life to win, a chance of gain against a finite number of chances of loss, and what you stake is finite; that is decided. Wherever the infinite exists and there is not an infinity of chances of loss against that of gain, there is no room for hesitation, you must risk the whole. Thus when a man is forced to play he must renounce reason to keep life, rather than hazard it for infinite gain, which is as likely to happen as the loss of nothingness.
 
 <span class="atom-split" data-atom="025" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (7/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
 
-For it is of no avail to say it is uncertain that we gain, and certain that we risk, and that the infinite distance between the certainty of that which is staked and the uncertainty of what we shall gain, equals the finite good which is certainly staked against an uncertain infinite. This is not so. Every gambler stakes a certainty to gain an uncertainty, and yet he stakes a finite certainty against a finite uncertainty without acting unreasonably. It is false to say there is infinite distance between the certain stake and the uncertain gain. There is in truth an infinity between the certainty of gain and the certainty of loss. But the uncertainty of gain is proportioned to the certainty of the stake, according to the proportion of chances of gain and loss, and if therefore there are as many chances on one side as on the other, the game is even. And thus the certainty of the venture is equal to the uncertainty of the winnings, so far is it from the truth that there is infinite distance between them. So that our argument is of infinite force, if we stake the finite in a game where there are equal chances of gain and loss, and the infinite is the winnings. This is demonstrable, and if men are capable of any truths, this is one.
+For it is of no avail to say it is uncertain that we gain, and certain that we risk, and that the infinite distance between the certainty of that which is staked and the uncertainty of what we shall gain, equals the finite good which is certainly staked against an uncertain infinite. This is not so. Every gambler stakes a certainty to gain an uncertainty, and yet he stakes a finite certainty against a finite uncertainty without acting unreasonably. It is false to say there is infinite distance between the certain stake and the uncertain gain. There is in truth an [infinity](/concepts/infinity) between the certainty of gain and the certainty of loss. But the uncertainty of gain is proportioned to the certainty of the stake, according to the proportion of chances of gain and loss, and if therefore there are as many chances on one side as on the other, the game is even. And thus the certainty of the venture is equal to the uncertainty of the winnings, so far is it from the truth that there is infinite distance between them. So that our argument is of infinite force, if we stake the finite in a game where there are equal chances of gain and loss, and the infinite is the winnings. This is demonstrable, and if men are capable of any truths, this is one.
 
-I confess and admit it. Yet is there no means of seeing the hands at the game? — Yes, the Scripture and the rest, etc.
+I confess and admit it. Yet is there no means of seeing the hands at the game? — Yes, the [Scripture](/concepts/revelation) and the rest, etc.
 
 — Well, but my hands are tied and my mouth is gagged: I am forced to wager and am not free, none can release me, but I am so made that I cannot believe. What then would you have me do?
 
-True. But understand at least your incapacity to believe, since your reason leads you to belief and yet you cannot believe. Labour then to convince yourself, not by increase of the proofs of God, but by the diminution of your passions. You would fain arrive at faith, but know not the way; you would heal yourself of unbelief, and you ask remedies for it. Learn of those who have been bound as you are, but who now stake all that they possess; these are they who know the way you would follow, who are cured of a disease of which you would be cured. Follow the way by which they began, by making believe that they believed, taking the holy water, having masses said, etc. Thus you will naturally be brought to believe, and will lose your acuteness. — But that is just what I fear. — Why? what have you to lose?
+True. But understand at least your incapacity to believe, since your reason leads you to belief and yet you cannot believe. Labour then to convince yourself, not by increase of the [proofs of God](/positions/demonstrative_theism), but by the diminution of your passions. You would fain arrive at faith, but know not the way; you would heal yourself of unbelief, and you ask remedies for it. Learn of those who have been bound as you are, but who now stake all that they possess; these are they who know the way you would follow, who are cured of a disease of which you would be cured. Follow the way by which they began, by making believe that they believed, taking the holy water, having masses said, etc. Thus you will naturally be brought to believe, and will lose your acuteness. — But that is just what I fear. — Why? what have you to lose?
 
 But to show you that this is the right way, this it is that will lessen the passions, which are your great obstacles, etc. —
 
@@ -1387,23 +1392,23 @@ We must therefore make an end, and after having examined these powers in their e
 
 The Preacher shows that man without God is wholly ignorant, and subject to inevitable misery. For to will and to be powerless is to be miserable. Now he wills to be happy, and to be assured of some truth, yet he can neither know, nor not desire to know. He cannot even doubt.
 
-This is what I see and what troubles me. I look on all sides, and see nothing but obscurity, nature offers me nothing but matter for doubt and disquiet. Did I see nothing there which marked a Divinity I should decide not to believe in him. Did I see every where the marks of a Creator, I should rest peacefully in faith. But seeing too much to deny, and too little to affirm, my state is pitiful, and I have a hundred times wished that if God upheld nature, he would mark the fact unequivocally, but that if the signs which she gives of a God are fallacious, she would wholly suppress them, that she would either say all or say nothing, that I might see what part I should take. Instead of this, in my present state, ignorant of what I am, and of what I ought to do, I know neither my condition nor my duty. My heart is wholly bent to know where is the true good in order to follow it, nothing would seem to me too costly for eternity.
+This is what I see and what troubles me. I look on all sides, and see nothing but obscurity, nature offers me nothing but matter for doubt and disquiet. Did I see nothing there which marked a Divinity I should decide not to believe in him. Did I see every where the marks of a Creator, I should rest peacefully in faith. But seeing too much to deny, and too little to affirm, my state is pitiful, and I have a hundred times wished that if God upheld nature, he would mark the fact unequivocally, but that if the signs which she gives of a God are fallacious, she would wholly suppress them, that she would either say all or say nothing, that I might see what part I should take. Instead of this, in my present state, ignorant of what I am, and of what I ought to do, I know neither my condition nor my duty. My heart is wholly bent to know where is the true good in order to follow it, nothing would seem to me too costly for [eternity](/positions/eternity).
 
 THE PHILOSOPHERS.
 
-THE PRINCIPAL ARGUMENTS of the sceptics — to omit those of less importance — are that we have no certainty of the truth of these principles apart from faith and revelation, save so far as we naturally perceive them in ourselves. Now this natural perception is no convincing evidence of their truth, since, having no certainty apart from faith, whether man was created by a good God, by an evil demon, or by chance, it may be doubted whether these principles within us are true or false or uncertain according to our origin.
+THE PRINCIPAL ARGUMENTS of the sceptics — to omit those of less importance — are that we have no certainty of the truth of these principles apart from faith and [revelation](/concepts/revelation), save so far as we naturally perceive them in ourselves. Now this natural perception is no convincing evidence of their truth, since, having no certainty apart from faith, whether man was created by a good God, by an evil demon, or by chance, it may be doubted whether these principles within us are true or false or uncertain according to our origin.
 
 And more than this: That no one has any certainty, apart from faith, whether he wake or sleep, seeing that in sleep we firmly believe we are awake, we believe that we see space, figure, and motion, we are aware of the lapse and measure of time; in a word we act as though we were awake. So that half of our life being passed in sleep, we have by our own avowal, no idea of truth, whatever we may suppose. Since then all our sentiments are illusions, who can tell but that the other half of life wherein we fancy ourselves awake be not another sleep somewhat different from the former, from which we wake when we fancy ourselves asleep?
 
 And who doubts that if we dreamt in company, and if by chance men’s dreams agreed, which is common enough, and if we were always alone when awake, we should believe that the conditions were reversed? In a word, as we often dream that we dream, and heap vision upon vision, it may well be that this life itself is but a dream, on which the others are grafted, from which we wake at death; having in our lifetime as few principles of what is good and true, as during natural sleep, the different thoughts which agitate us being perhaps only illusions like those of the flight of time and the vain fantasies of our dreams....
 
-These are the principal arguments on one side and the other, setting aside those of less importance, such as the talk of the sceptics against the impressions of custom, education, manners, climate, and the like; and these though they influence the majority of ordinary men, who dogmatise only on vain foundations, are upset by the least breath of the sceptics. We have only to see their books if we are not convinced on this point, and we shall soon become assured of it, perhaps only too much.
+These are the principal arguments on one side and the other, setting aside those of less importance, such as the talk of the sceptics against the impressions of [custom](/concepts/custom), education, manners, climate, and the like; and these though they influence the majority of ordinary men, who dogmatise only on vain foundations, are upset by the least breath of the sceptics. We have only to see their books if we are not convinced on this point, and we shall soon become assured of it, perhaps only too much.
 
 I pause at the only strong point of the dogmatists, namely, that speaking sincerely and in good faith we cannot doubt of natural principles.
 
 Against this the sceptics set in one word the uncertainty of our origin, which includes that of our nature. Which the dogmatists have been trying to answer ever since the world began.
 
-So then war is opened among men, in which each must take a side, ranging himself either for dogmatism or for scepticism, since neutrality, which is the part of the wise, is the oldest dogma of the sceptical sect. Whoever thinks to remain neutral is before all things a sceptic. This neutrality is the essence of the sect; who is not against them is pre-eminently for them. They are not for themselves, they are neutral, indifferent, in suspense as to all things, themselves included.
+So then war is opened among men, in which each must take a side, ranging himself either for dogmatism or for [scepticism](/positions/scepticism), since neutrality, which is the part of the wise, is the oldest dogma of the sceptical sect. Whoever thinks to remain neutral is before all things a sceptic. This neutrality is the essence of the sect; who is not against them is pre-eminently for them. They are not for themselves, they are neutral, indifferent, in suspense as to all things, themselves included.
 
 What then shall man do in such a state? Shall he doubt of all, doubt whether he wake, whether you pinch him, or burn him, doubt whether he doubts, doubt whether he is? We cannot go so far as that, and I therefore state as a fact that there never has been a perfect finished sceptic; nature upholds the weakness of reason, and prevents its wandering to such a point.
 
@@ -1413,7 +1418,7 @@ What a chimæra then is man! how strange and monstrous! a chaos, a contradiction
 
 <span class="atom-split" data-atom="027" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (9/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
 
-Who will unravel such a tangle? This is certainly beyond the power of dogmatism and scepticism, and all human philosophy. Man is incomprehensible by man. We grant to the sceptics what they have so loudly asserted, that truth is not within our reach nor to our taste, that her home is not on earth but in heaven, that she dwells within the breast of God, and that we can only know her so far as it pleases him to reveal her. Let us then learn our true nature from truth uncreate and incarnate.
+Who will unravel such a tangle? This is certainly beyond the power of dogmatism and [scepticism](/positions/scepticism), and all human philosophy. Man is incomprehensible by man. We grant to the sceptics what they have so loudly asserted, that truth is not within our reach nor to our taste, that her home is not on earth but in heaven, that she dwells within the breast of God, and that we can only know her so far as it pleases him to reveal her. Let us then learn our true nature from truth uncreate and incarnate.
 
 Nature confounds the sceptics, and reason the dogmatists. What then will become of you, O men! who by your natural reason search out your true condition? You can neither avoid both these sects nor live in either.
 
@@ -1425,7 +1430,7 @@ Yet it is an astonishing thing that the mystery most removed from our knowledge,
 
 Whence it appears that God, willing to render the difficulty of our being unintelligible to us, has concealed the knot so high, or rather so low, that we cannot reach it; so that it is not by the arrogant exertion of our reason, but by the simple submission of reason, that we can truly know ourselves.
 
-These foundations solidly established on the inviolable authority of Religion make us understand that there are two truths of faith equally constant — the one, that man in his state at creation or in that of grace is elevated above the whole of nature, made like unto God and sharer of his divinity — the other, that in the state of corruption and sin he has fallen from his former state and is made like unto the brutes. These two propositions are equally fixed and certain. The Scripture declares this plainly to us when it says in some places: Deliciæ meæ esse cum filiis hominum. Effundam spiritum meum super omnen carnem. Dii estis, etc.; and in other places, Omnis caro fænum. Homo assimilatus est jumentis insipientibus et similis factus est illis. Dixi in corde meo de filiis hominum.... Eccles. iii.
+These foundations solidly established on the inviolable authority of Religion make us understand that there are two truths of faith equally constant — the one, that man in his state at creation or in that of [grace](/concepts/grace) is elevated above the whole of nature, made like unto God and sharer of his divinity — the other, that in [the state](/concepts/state) of corruption and sin he has fallen from his former state and is made like unto the brutes. These two propositions are equally fixed and certain. The [Scripture](/concepts/revelation) declares this plainly to us when it says in some places: Deliciæ meæ esse cum filiis hominum. Effundam spiritum meum super omnen carnem. Dii estis, etc.; and in other places, Omnis caro fænum. Homo assimilatus est jumentis insipientibus et similis factus est illis. Dixi in corde meo de filiis hominum.... Eccles. iii.
 
 By which it clearly appears that man by grace is made like unto God, and a sharer in his divinity, and that without grace he is like the brute beasts, etc.
 
@@ -1465,7 +1470,7 @@ Ut omnium rerum sic litterarum quoque intemperantiâ laboramus.
 
 Id maxime quemque decet quod est cujusque suum maxime.
 
-Hos natura modos primum dedit.
+Hos [natura](/concepts/nature) modos primum dedit.
 
 Paucis opus est litteris ad bonam mentem.
 
@@ -1483,7 +1488,7 @@ The soul is immaterial. Philosophers have subdued their passions. What matter co
 
 Atheists should say things which are perfectly clear, but it is not perfectly clear that the soul is material.
 
-Atheism is a mark of strength of mind, but only to a certain degree.
+[Atheism](/positions/atheism) is a mark of strength of mind, but only to a certain degree.
 
 Against those philosophers who believe in God without Jesus Christ. — They believe that God alone is worthy to be loved and admired, and they have desired to be loved and admired of men, and know not their own corruption. If they feel themselves full of feelings of love and adoration, and if they find therein their chief joy, let them think themselves good, and welcome! But if they find themselves averse from him, if they have no inclination but the wish to establish themselves in the esteem of men, and if their whole perfection consists not in constraining, but yet in causing men to find their happiness in loving them, I say that such a perfection is horrible. What! they have known God, and have not desired solely that men should love him, but that men should stop short at loving them. They have wished to be the object of the voluntary joy of men.
 
@@ -1509,7 +1514,7 @@ It is well to be weary and harassed by the useless search after the true good, t
 
 Conversation. — Great words: Religion. I deny it.
 
-Conversation. — Scepticism aids Religion.
+Conversation. — [Scepticism](/positions/scepticism) aids Religion.
 
 Philosophers. — We are full of matters which take us out of ourselves.
 
@@ -1569,7 +1574,7 @@ The Koran says that Saint Matthew was an honest man. Therefore Mahomet was a fal
 
 It is not by the obscurities in Mahomet which may be interpreted in a mysterious sense, that I would have him judged, but in what he speaks clearly, as of his paradise, and the rest, he is ridiculous. And because what is clear is so absurd, it is not just to take his obscurities for mysteries.
 
-It is not the same with the Scripture. It may be admitted that in it are obscurities as strange as those of Mahomet, but much is admirably clear, and prophecies are manifestly fulfilled. The cases are not the same. We must not confound and compare things which only resemble each other in their obscurity, and not in that clearness, which should induce us to reverence the obscurities.
+It is not the same with the [Scripture](/concepts/revelation). It may be admitted that in it are obscurities as strange as those of Mahomet, but much is admirably clear, and prophecies are manifestly fulfilled. The cases are not the same. We must not confound and compare things which only resemble each other in their obscurity, and not in that clearness, which should induce us to reverence the obscurities.
 
 Suppose two persons tell foolish stories, one whose words have a two-fold sense, understood only by his own followers, the other which has only the one sense, a stranger not being in the secret, who hears them both speak in this manner, would pass on them a like judgment. But if afterwards in the rest of their conversation one speak with the tongue of angels, and the other mere wearisome common-places, he will judge that the one spoke in mysteries and not the other; the one having sufficiently shown that he was incapable of absurdity, and capable of being mysterious, the other that he is incapable of mystery, and capable of absurdity.
 
@@ -1601,7 +1606,7 @@ I find then this great and numerous people, sprung from a single man, who adore 
 
 Advantages of the Jewish people. — In this search the Jewish people at first attracts my attention by a number of wonderful and singular things which appear among them.
 
-I see first that they are a people wholly composed of brethren, and whereas all others are formed by the assemblage of an infinity of families, this, though so prodigiously fruitful, has sprung from one man only, and being thus all one flesh, and members one of another, they form a powerful state consisting of one family, a fact without example.
+I see first that they are a people wholly composed of brethren, and whereas all others are formed by the assemblage of an [infinity](/concepts/infinity) of families, this, though so prodigiously fruitful, has sprung from one man only, and being thus all one flesh, and members one of another, they form a powerful state consisting of one family, a fact without example.
 
 This family or nation is the most ancient known to men, a fact which seems to invest it with a peculiar veneration, especially in regard to our present enquiry, because if God has during all time revealed himself to men, these are they from whom we must learn the tradition.
 
@@ -1609,7 +1614,7 @@ This people is not peculiar only by their antiquity, but also remarkable by thei
 
 The Law by which this people is governed is at once the most ancient law in the world, the most perfect, and the only one which has been kept without interruption in a state. This is what Josephus excellently shows, against Apion, as does Philo the Jew in many places, where they point out that it is so ancient that the very name of law was only known by the men of old more than a thousand years afterwards, so that Homer, who has treated the history of so many States, has not once used the word. And it is easy to judge of the perfection of the Law by simply reading it, for it plainly provides for all things with so great wisdom, equity and judgment, that the most ancient legislators, Greek and Roman, having had some glimpse of it, have borrowed from it their principal laws, as appears by those called Of the Twelve Tables, and by the other proofs given by Josephus.
 
-Yet this law is at the same time severe and rigorous beyond all others in respect to their religious worship, constraining the people, in order to keep them in their duty, to a thousand peculiar and painful observances, on pain of death. Whence it is a most astonishing fact, that it has been constantly preserved during many ages by a people so rebellious and impatient, while all other states have changed their laws from time to time, although they are far more lenient.
+Yet this law is at the same time severe and rigorous beyond all others in respect to their religious [worship](/concepts/religion), constraining the people, in order to keep them in their duty, to a thousand peculiar and painful observances, on pain of death. Whence it is a most astonishing fact, that it has been constantly preserved during many ages by a people so rebellious and impatient, while all other states have changed their laws from time to time, although they are far more lenient.
 
 The book containing this law, the first of all laws, is itself the most ancient book in the world, those of Homer, Hesiod and others dating from six or seven hundred years later.
 
@@ -1673,7 +1678,7 @@ He was tired of the people.
 
 When the creation of the people began to stand at a distance, God provided a single contemporary historian, and appointed a whole people as the guardians of this book, in order that the history might be the most authentic in all the world, that all men might learn a thing so necessary to know, yet so impossible to be known in any other way.
 
-If the story in Esdras is credible, then it must be believed that Scripture is Holy Scripture. For this story is founded only on the authority of those who allege that of the Seventy, which shows that the Scripture is holy.
+If the story in Esdras is credible, then it must be believed that [Scripture](/concepts/revelation) is Holy Scripture. For this story is founded only on the authority of those who allege that of the Seventy, which shows that the Scripture is holy.
 
 Therefore if the tale be true, we find our proof therein, if not we have it elsewhere. Thus those who would ruin the truth of our Religion, founded on Moses, establish it by the same authority by which they attack it. Thus by this providence it still exists.
 
@@ -1683,7 +1688,7 @@ The story that he recited the whole by heart. Josephus and Esdras note that he r
 
 The story that he changed the letters.
 
-Philo, in Vita Moysis: Illa lingua ac charactere quo antiquitus scripta est lex, sic permansit usque ad LXX.
+Philo, in Vita Moysis: Illa lingua ac charactere quo antiquitus scripta est [lex](/concepts/law), sic permansit usque ad LXX.
 
 Josephus says the Law was in Hebrew when it was translated by the Seventy.
 
@@ -1713,9 +1718,9 @@ Scripture has provided passages of consolation and warning for every condition o
 
 Nature seems to have done the same thing by her two infinities, natural and moral, for we shall always have those who are higher and lower, who are more and less able, who are noble and in low estate, in order to abate our pride, and raise our lowliness.
 
-Order, against the objection that the Scripture has no order. — The heart has its own order; the mind too has its own, which is by premisses and demonstrations, that of the heart is wholly different. It were absurd to prove that we are worthy of love by putting forth in order the causes of love.
+Order, against the objection that the [Scripture](/concepts/revelation) has no order. — The heart has its own order; the mind too has its own, which is by premisses and demonstrations, that of the heart is wholly different. It were absurd to prove that we are worthy of love by putting forth in order the causes of love.
 
-Jesus Christ and Saint Paul use the order of charity, not of the intellect, for they wish to warm, not to teach; the same with Saint Augustine. This order consists mainly in digressions on each point which may illustrate the main end, and keep it ever in view.
+Jesus Christ and Saint Paul use the order of charity, not of the intellect, for they wish to warm, not to teach; the same with Saint [Augustine](/figures/augustine). This order consists mainly in digressions on each point which may illustrate the main end, and keep it ever in view.
 
 God and the Apostles foreseeing that the seed of pride would cause heresies to spring up, and not wishing to give them occasion to arise by defining them, have placed in the Scripture and the prayers of the Church contrary words and sentences to produce their fruit in time.
 
@@ -1737,7 +1742,7 @@ Words differently arranged have different meanings, and meanings differently arr
 
 THE PROPHECIES.
 
-THE PROPHECIES ARE the strongest proofs of Jesus Christ. For these therefore God has made the most provision; since the event which has fulfilled them is a miracle existing from the birth of the Church to the end. Therefore God raised up prophets during sixteen hundred years, and during four hundred years afterwards he dispersed all these prophecies with all the Jews, who bore them into all regions of the world. Such was the preparation for the birth of Jesus Christ, whose Gospel exacting belief from every man made it necessary not only that there should be prophecies to inspire this belief, but that these prophecies should be spread throughout the whole world, so that the whole world should embrace it.
+THE PROPHECIES ARE the strongest proofs of Jesus Christ. For these therefore God has made the most provision; since the event which has fulfilled them is a [miracle](/concepts/miracle) existing from the birth of the Church to the end. Therefore God raised up prophets during sixteen hundred years, and during four hundred years afterwards he dispersed all these prophecies with all the Jews, who bore them into all regions of the world. Such was the preparation for the birth of Jesus Christ, whose Gospel exacting belief from every man made it necessary not only that there should be prophecies to inspire this belief, but that these prophecies should be spread throughout the whole world, so that the whole world should embrace it.
 
 Prophecies. — If one man alone had made a book of predictions concerning Jesus Christ, both as to the time and the manner of his coming, and if Jesus Christ had come in agreement with these prophecies, the fact would have had infinite force.
 
@@ -1779,7 +1784,7 @@ The prophecies which foretell the time foretell him only as master of the Gentil
 
 Do you think that the prophecies cited in the Gospel were reported to make you believe? No, but to prevent your believing.
 
-Prophecies. — The time was foretold by the state of the Jewish people, by the state of the heathen world, by the state of the temple, by the number of years.
+Prophecies. — The time was foretold by [the state](/concepts/state) of the Jewish people, by the state of the heathen world, by the state of the temple, by the number of years.
 
 It is daring to predict the same affair in so many ways. It was necessary that the four idolatrous or pagan monarchies, the end of the kingdom of Judah, and the seventy weeks should coincide, and all this before the second temple was destroyed.
 
@@ -1827,7 +1832,7 @@ That he would teach men the perfect way,
 
 And never has there come before him nor after him any man who has taught anything divine approaching this.
 
-That then idolatry would be overthrown, that the Messiah would cast down all idols, and would bring men into the worship of the true God.
+That then idolatry would be overthrown, that the Messiah would cast down all idols, and would bring men into the [worship](/concepts/religion) of the true God.
 
 That the idol temples would be overthrown, and that among all nations and in all places of the world men would offer to God a pure sacrifice, not of beasts.
 
@@ -1865,7 +1870,7 @@ Jer. xv. 2. Quod si dixerint ad te: Quo egrediemur? dices ad eos: Hæc dicit Dom
 
 Jer. xvii. 9. Pravum est cor omnium, et inscrutabile: quis cognoscet illud? that is to say, who can know all its evil, for it is already known to be wicked. Ego Dominus scrutans cor, et probans renes.
 
-Et dixerunt: Venite et cogitemus contra Jeremiam cogitationes, non enim peribit lex a sacerdote, neque sermo a propheta.
+Et dixerunt: Venite et cogitemus contra Jeremiam cogitationes, non enim peribit [lex](/concepts/law) a sacerdote, neque sermo a propheta.
 
 Jer. xvii. 17. Non sis tu mihi formidini, spes mea tu in die afflictionis.
 
@@ -1925,7 +1930,7 @@ Jer. v. 4. Ego autem dixi: Forsitan pauperes sunt et stulti, ignorantes viam Dom
 
 Ibo ad optimates, et loquar eis: ipsi enim cognoverunt viam Domini: et ecce magis hi simul confregerunt jugum, ruperunt vincula. Idcirco percussit eos leo de silva, pardus vigilans super civitates eorum.
 
-Jer. v. 29. Numquid super his non visitabo, dicit Dominus? aut super gentem hujuscemodi non ulciscetur anima mea?
+Jer. v. 29. Numquid super his non visitabo, dicit Dominus? aut super gentem hujuscemodi non ulciscetur [anima](/concepts/soul) mea?
 
 Jer. v. 30. Stupor et mirabilia facta sunt in terra:
 
@@ -1959,7 +1964,7 @@ The Jews shall be scattered abroad. Is. xxvii. 6. A new law. Jer. xxxi. 31.
 
 Malachi. Grotius. — The second temple glorious. Jesus Christ will come to it. Haggai ii. 7-10.... The calling of the Gentiles. Joel ii. 28. Hos. ii. 24. Deut. xxxii. 21. Mal. i. 11.
 
-Moses first taught the Trinity, original sin, the Messiah.
+Moses first taught the Trinity, [original sin](/positions/original_sin), the Messiah.
 
 David was a great witness.
 
@@ -1981,7 +1986,7 @@ Daniel ii. “All thy sooth-sayers and wise men cannot show unto thee the secret
 
 “But there is a God in heaven, who can do so, and he has revealed in thy dream the things which shall be in the latter days.” This dream must have caused him great uneasiness.
 
-“And it is not by my own wisdom that I have knowledge of this secret, but by the revelation of this same God who has discovered it to me, to make it manifest in thy presence.
+“And it is not by my own wisdom that I have knowledge of this secret, but by the [revelation](/concepts/revelation) of this same God who has discovered it to me, to make it manifest in thy presence.
 
 “Thy dream was of this kind. Thou sawest a great image, high and terrible, which stood before thee. His head was of gold, his breast and his arms of silver, his belly and his thighs of brass. His legs of iron, his feet part of iron and part of clay.
 
@@ -2019,7 +2024,7 @@ Daniel ix. 20.
 
 “As I was praying God with all my heart, and confessing my sin and the sin of all my people, and prostrating myself before God, even Gabriel, whom I had seen in the vision at the beginning, came to me and touched me about the time of the evening oblation, and he informed me and said, O Daniel, I am now come forth to teach thee that thou mightest understand. At the beginning of thy prayer I came to show thee that which thou didst desire, for thou art greatly beloved: therefore understand the matter and consider the vision. Seventy weeks are determined upon thy people, and upon thy holy city, to finish the transgression, and to make an end of sins, and to abolish iniquity and to bring in everlasting righteousness; to accomplish the vision and the prophecies, and to anoint the Most Holy.
 
-“After which this people shall be no more thy people, nor this city the holy city. The times of wrath are passed and the years of grace shall come for ever.
+“After which this people shall be no more thy people, nor this city the holy city. The times of wrath are passed and the years of [grace](/concepts/grace) shall come for ever.
 
 “Know therefore, and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince, shall be seven weeks, and three score and two weeks: the street shall be built again, and the wall, even in troublous times.”
 
@@ -2053,7 +2058,7 @@ Daniel xi. The angel said to Daniel:
 
 “But a prince shall oppose his conquests and cause the reproach offered by him to cease,” — Scipio Africanus, who stopped the progress of Antiochus the Great because he offended the Romans in the person of their allies.— “He will return into his kingdom and perish and be no more.” — He was killed by his soldiers.
 
-“And he who stands in his place shall be a tyrant, a raiser of taxes in the glory of the kingdom,” that is the people, Seleucus Philopator or Soter, the son of Antiochus the Great— “but within a few days he shall be destroyed, neither in anger nor in battle;
+“And he who stands in his place shall be a tyrant, a raiser of taxes in the glory of the kingdom,” that is the people, Seleucus Philopator or Soter, the son of Antiochus the Great— “but within a few days he shall be destroyed, neither in [anger](/concepts/anger) nor in battle;
 
 “And in his place shall stand up a vile person, unworthy of the honour of the kingdom, but he shall come in by skilful flatteries.
 
@@ -2065,7 +2070,7 @@ The zeal of the Jews for their law and their temple. Josephus and Philo the Jew 
 
 What other people has so great a zeal, but for them it was a necessity.
 
-Jesus Christ foretold as to the time and the state of the world. The leader taken from the thigh, and the fourth monarchy.
+Jesus Christ foretold as to the time and [the state](/concepts/state) of the world. The leader taken from the thigh, and the fourth monarchy.
 
 How fortunate we are to have such light amid such darkness.
 
@@ -2075,7 +2080,7 @@ How grand to see by the eye of faith the histories of Herod, of Cæsar....
 
 The reprobation of the Jews and conversion of the Gentiles. — Isaiah lxv. “I am sought of them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that did not call upon my name.
 
-“I have spread out my hands all the day unto an unbelieving people, which walketh in a way that was not good, after their own thoughts; a people that provoketh me to anger continually to my face; that sacrificeth to idols, etc.
+“I have spread out my hands all the day unto an unbelieving people, which walketh in a way that was not good, after their own thoughts; a people that provoketh me to [anger](/concepts/anger) continually to my face; that sacrificeth to idols, etc.
 
 “These shall be scattered like smoke in the day of my wrath, etc.
 
@@ -2117,7 +2122,7 @@ Jer. vii. Reprobation of the Temple.
 
 “Therefore pray not thou for this people.”
 
-Jer. vii. 21. “What avails it you to add sacrifice to sacrifice? For I spake not unto your fathers, when I brought them out of the land of Egypt, concerning burnt offerings or sacrifices: But this thing commanded I them, saying, Obey my voice, and I will be your God, and ye shall be my people. For it was only after they had sacrificed to golden calves that I gave myself sacrifices to turn into good an evil custom.” Jer. vii. 4. “Trust not in lying words, saying, The temple of the Lord, The temple of the Lord, The temple of the Lord, are these.”
+Jer. vii. 21. “What avails it you to add sacrifice to sacrifice? For I spake not unto your fathers, when I brought them out of the land of Egypt, concerning burnt offerings or sacrifices: But this thing commanded I them, saying, Obey my voice, and I will be your God, and ye shall be my people. For it was only after they had sacrificed to golden calves that I gave myself sacrifices to turn into good an evil [custom](/concepts/custom).” Jer. vii. 4. “Trust not in lying words, saying, The temple of the Lord, The temple of the Lord, The temple of the Lord, are these.”
 
 Proofs by the Jews. — Captivity of the Jews without restoration. Jeremiah xi. 11. “I will bring evil on Judah which they shall not be able to escape.”
 
@@ -2185,19 +2190,19 @@ It is a tradition among us that when the Messiah shall come, the house of God, d
 
 Is. xlix.
 
-“Listen, O isles, unto me, and hearken ye people from far: The Lord hath called me by my name even from the womb of my mother; he hath hid me in the shadow of his hand, he hath made my words like a sharp sword, and said: Thou art my servant, in whom I will be glorified. And I said, Lord, have I laboured in vain? have I spent my strength for nought? yet is my judgment with thee, O Lord, and my work before thee. When the Lord, who has formed me from the womb of my mother to be wholly for himself, in order to bring Jacob and Israel again to him, said unto me: Thou shalt be glorious in my sight, and I will be thy strength. It is a light thing that thou shouldst convert the tribes of Jacob; I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the ends of the earth. These are the things which the Lord hath said to him that humbleth his soul to him whom the nation abhorreth, to a servant of rulers. Princes and kings shall worship thee because the Lord is faithful that hath chosen thee.
+“Listen, O isles, unto me, and hearken ye people from far: The Lord hath called me by my name even from the womb of my mother; he hath hid me in the shadow of his hand, he hath made my words like a sharp sword, and said: Thou art my servant, in whom I will be glorified. And I said, Lord, have I laboured in vain? have I spent my strength for nought? yet is my judgment with thee, O Lord, and my work before thee. When the Lord, who has formed me from the womb of my mother to be wholly for himself, in order to bring Jacob and Israel again to him, said unto me: Thou shalt be glorious in my sight, and I will be thy strength. It is a light thing that thou shouldst convert the tribes of Jacob; I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the ends of the earth. These are the things which the Lord hath said to him that humbleth his soul to him whom the nation abhorreth, to a servant of rulers. Princes and kings shall [worship](/concepts/religion) thee because the Lord is faithful that hath chosen thee.
 
 “Again the Lord said unto me: I have heard thee in the days of salvation and of mercy, and I have established thee for a covenant of the people, and to cause thee to inherit the desolate nations, that thou mayest say to those who are in chains: Go forth, and to those that are in darkness: Come into the light, and possess these abundant and fertile lands. They shall no more labour, nor hunger, nor thirst, neither shall the sun smite them; for he that hath mercy on them shall lead them, even by the springs of waters shall he guide them, and make the mountains plain before them. Behold, the peoples shall come from all parts, from the East and from the West, from the North and from the South. Let the heaven give glory to God, let the earth rejoice, for it hath pleased the Lord to comfort his people, and he will have mercy on the poor who hope in him.
 
 <span class="atom-split" data-atom="037" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (5/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom"></span>
 
-“Yet Sion hath dared to say: The Lord hath forsaken and hath forgotten me. Can a woman forget her sucking child, that she should not have compassion on the son of her womb, but if she forget, yet will I not forget thee, O Sion. I will bear thee always between my hands, and thy walls shall be ever before me. Thy builders are come, thy destroyers shall go forth of thee. Lift up thy eyes round about, and see all these are gathered together, to come to thee: as I live, saith the Lord, thou shall be clothed with all these as with an ornament, thy deserts, and thy desolate places, and the land of thy destruction shall now be too narrow by reason of the inhabitants, and the children of thy barrenness shall still say in thy ears: the place is too strait for me, make me room to dwell in. And thou shall say in thy heart: Who hath begotten these? I was barren and brought not forth, led away, and captive: and who hath brought up these? I was destitute and alone: and these, where were they? And the Lord shall say: Behold, I will lift up my hand to the Gentiles, and will set up my standard to the people. And they shall bring thy children in their arms, and in their bosoms. And kings shall be thy nursing fathers, and queens thy nursing mothers: they shall worship thee with their face toward the earth, and they shall lick up the dust of thy feet. And thou shall know that I am the Lord, for they shall not be confounded that wait for him. Shall the prey be taken from the strong and mighty? But even if the captivity be taken away from the strong: nothing can hinder me to judge those that have judged thee, and thy children I will save. And all flesh shall know, that I am the Lord thy Saviour, and thy Redeemer the mighty One of Jacob.
+“Yet Sion hath dared to say: The Lord hath forsaken and hath forgotten me. Can a woman forget her sucking child, that she should not have compassion on the son of her womb, but if she forget, yet will I not forget thee, O Sion. I will bear thee always between my hands, and thy walls shall be ever before me. Thy builders are come, thy destroyers shall go forth of thee. Lift up thy eyes round about, and see all these are gathered together, to come to thee: as I live, saith the Lord, thou shall be clothed with all these as with an ornament, thy deserts, and thy desolate places, and the land of thy destruction shall now be too narrow by reason of the inhabitants, and the children of thy barrenness shall still say in thy ears: the place is too strait for me, make me room to dwell in. And thou shall say in thy heart: Who hath begotten these? I was barren and brought not forth, led away, and captive: and who hath brought up these? I was destitute and alone: and these, where were they? And the Lord shall say: Behold, I will lift up my hand to the Gentiles, and will set up my standard to the people. And they shall bring thy children in their arms, and in their bosoms. And kings shall be thy nursing fathers, and queens thy nursing mothers: they shall [worship](/concepts/religion) thee with their face toward the earth, and they shall lick up the dust of thy feet. And thou shall know that I am the Lord, for they shall not be confounded that wait for him. Shall the prey be taken from the strong and mighty? But even if the captivity be taken away from the strong: nothing can hinder me to judge those that have judged thee, and thy children I will save. And all flesh shall know, that I am the Lord thy Saviour, and thy Redeemer the mighty One of Jacob.
 
 “Thus saith the Lord: What is this divorcement, wherewith I have put away the synagogue, and why have I delivered it into the hands of your enemies; is it not for your iniquities and your transgressions that I have put it away?
 
 “For I came, and no man would receive me, I called and none would hear. Is my arm shortened that I cannot save?
 
-“Therefore will I show the tokens of my anger, I will clothe the heavens with darkness, and will make sackcloth their covering.
+“Therefore will I show the tokens of my [anger](/concepts/anger), I will clothe the heavens with darkness, and will make sackcloth their covering.
 
 “The Lord hath given me the tongue of the learned that I should know how to uphold by word him that is weary. He hath wakened my ear, and I have heard him as a master.
 
@@ -2245,7 +2250,7 @@ For if we believe they have only one sense it is certain that Messiah has not co
 
 The whole question then is to know if they have two senses....
 
-That the Scripture has two senses, which Jesus Christ and his Apostles have given, the following are the proofs:
+That the [Scripture](/concepts/revelation) has two senses, which Jesus Christ and his Apostles have given, the following are the proofs:
 
 <span class="atom-split" data-atom="038" data-title="1. Proof by Scripture itself. (1/2)" data-chapter="1. Proof by Scripture itself." data-kind="atom"></span>
 
@@ -2253,7 +2258,7 @@ That the Scripture has two senses, which Jesus Christ and his Apostles have give
 
 <span class="atom-split" data-atom="039" data-title="3. Proofs by the Cabala. (1/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
 
-4. Proofs by the mystical interpretation which the rabbis themselves have given to the Scripture.
+4. Proofs by the mystical interpretation which the rabbis themselves have given to the [Scripture](/concepts/revelation).
 
 5. Proofs by the principles laid down by the rabbis that there are two senses, that there are two advents of the Messiah; one in glory, and one in humiliation, according to their deserts; that the prophets have prophesied of Messiah only. The Law is not eternal, but must change when Messiah comes; that then they shall no more remember the Red Sea; that the Jews and the Gentiles shall be mingled.
 
@@ -2321,13 +2326,13 @@ The Jews and the Gentiles figured by the two sons.
 
 Aug. de Civit. xx. 29.
 
-The figures of the Gospel for the state of the sick soul are sick bodies, but because one body cannot be sufficiently sick to express it well, several are needed. Thus there are the deaf, the dumb, the blind, the paralytic, the dead Lazarus, the possessed; all this together is in the sick soul.
+The figures of the Gospel for [the state](/concepts/state) of the sick soul are sick bodies, but because one body cannot be sufficiently sick to express it well, several are needed. Thus there are the deaf, the dumb, the blind, the paralytic, the dead Lazarus, the possessed; all this together is in the sick soul.
 
 Isaiah, li. The Red Sea an image of the Redemption.
 
 “Ut sciatis quod filius hominis habet potestatem remittendi peccata, tibi dico: Surge.”
 
-God, willing to show that he was able to form a people holy with an invisible holiness, and to fill them with an eternal glory, made visible things. As nature is an image of grace, he has done in the excellences of nature what he would accomplish in those of grace, in order that men might judge that he could make the invisible since he made the visible so well.
+God, willing to show that he was able to form a people holy with an invisible holiness, and to fill them with an eternal glory, made visible things. As nature is an image of [grace](/concepts/grace), he has done in the excellences of nature what he would accomplish in those of grace, in order that men might judge that he could make the invisible since he made the visible so well.
 
 Thus he saved this people from the deluge, he has raised them up from Abraham, redeemed them from their enemies, and caused them to enter into rest.
 
@@ -2345,11 +2350,11 @@ Isaiah, li., says that Redemption will be as the passage of the Red Sea.
 
 <span class="atom-split" data-atom="040" data-title="3. Proofs by the Cabala. (2/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
 
-God then has shown by the deliverance from Egypt, and from the sea, by the defeat of the kings, by the manna, by the whole genealogy of Abraham, that he was able to save, to send down bread from heaven, etc., so that the people at enmity with him is the type and the representation of the very Messiah whom they know not, etc.
+God then has shown by the deliverance from Egypt, and from the sea, by the defeat of the kings, by the manna, by the whole [genealogy](/positions/genealogy) of Abraham, that he was able to save, to send down bread from heaven, etc., so that the people at enmity with him is the type and the representation of the very Messiah whom they know not, etc.
 
 He has then shown us at last that all these things were only types, and what is true freedom, a true Israelite, true circumcision, true bread from heaven, etc.
 
-In these promises each man finds what he chiefly desires, temporal possessions or spiritual, God or the creatures; but with this difference, that those who therein seek the creatures find them, but attended by many contradictions, with a prohibition against loving them, with the injunction to worship God only, and to love him only, which is the same thing, and finally that the Messiah came not for them; whilst on the contrary those who therein seek God find him, without any contradiction, with the injunction to love him only, and that the Messiah came in the time foretold, to give them the possessions which they ask.
+In these promises each man finds what he chiefly desires, temporal possessions or spiritual, God or the creatures; but with this difference, that those who therein seek the creatures find them, but attended by many contradictions, with a prohibition against loving them, with the injunction to [worship](/concepts/religion) God only, and to love him only, which is the same thing, and finally that the Messiah came not for them; whilst on the contrary those who therein seek God find him, without any contradiction, with the injunction to love him only, and that the Messiah came in the time foretold, to give them the possessions which they ask.
 
 Thus the Jews had miracles and prophecies, of which they saw the accomplishment, and the teaching of their law was that they should love and worship God alone; it was also perpetual. Thus it had all the marks of the true religion, as indeed it was, but we must distinguish between the teaching of the Jews, and the teaching of the Jewish law. Now the teaching of the Jews was not true, although it had miracles and prophecy and perpetuity, because it had not this further point, the worship and love of God only.
 
@@ -2361,7 +2366,7 @@ To give faith in the Messiah it was necessary there should have been antecedent 
 
 That all this might be accomplished, God chose this carnal people, to whom he entrusted the prophecies which foretell the Messiah as a deliverer, and as a dispenser of those carnal possessions which the people loved. And thus they have had an extraordinary zeal for their prophets, and, in sight of the whole world, have had charge of these books which foretell their Messiah, assuring all the nations that he should come, and in the manner foretold in their books, which they held open to all the world. But this people deceived by the poor and ignominious advent of the Messiah have been his most cruel enemies. So that they, who were of all nations in the world the least open to the suspicion of favouring us, the most scrupulous and most zealous that can be named for their law and their prophets, have kept the records incorrupt.
 
-Therefore the prophecies have a hidden and spiritual sense, which this people hated, under the carnal sense which they loved. Had the spiritual sense been disclosed, it being such as they were unable to love, or even to bear, they would not have been zealous to preserve their books and their ceremonies; and if they had loved these spiritual promises, and had preserved them incorrupt till Messiah came, their witness would have had no force, because they had been his friends. Therefore it was well that the spiritual sense should be concealed; but on the other hand, had the sense been so hidden as not to be at all apparent, it could not have served as a proof of the Messiah. What then was done? In a crowd of passages the spiritual was concealed under the temporal sense, and has been clearly revealed in a few; again, the time and the state of the world were so clearly foretold that the sun is not so evident. And in some passages this spiritual sense is so dearly expressed that no less a blindness than that which the flesh imposes on the spirit when enslaved, can keep us from discerning it.
+Therefore the prophecies have a hidden and spiritual sense, which this people hated, under the carnal sense which they loved. Had the spiritual sense been disclosed, it being such as they were unable to love, or even to bear, they would not have been zealous to preserve their books and their ceremonies; and if they had loved these spiritual promises, and had preserved them incorrupt till Messiah came, their witness would have had no force, because they had been his friends. Therefore it was well that the spiritual sense should be concealed; but on the other hand, had the sense been so hidden as not to be at all apparent, it could not have served as a proof of the Messiah. What then was done? In a crowd of passages the spiritual was concealed under the temporal sense, and has been clearly revealed in a few; again, the time and [the state](/concepts/state) of the world were so clearly foretold that the sun is not so evident. And in some passages this spiritual sense is so dearly expressed that no less a blindness than that which the flesh imposes on the spirit when enslaved, can keep us from discerning it.
 
 See then what God has done. This sense is concealed under another in an infinite number of passages, in some, though rarely, it is revealed, yet so that the passages in which it is concealed are equivocal, and can suit both senses, while those in which it is disclosed are unequivocal, and can agree with the spiritual sense alone.
 
@@ -2403,7 +2408,7 @@ There are some types clear and demonstrative, but others which seem far-fetched,
 
 I do not say that the mem is a mystery.
 
-We may not attribute to the Scripture the sense which it has not revealed to us that it contains. Thus, to say that the closed mem of Isaiah means six hundred, has not been revealed. It might be said that the final tsadé and the he deficientes signify mysteries. But we are not allowed to say so, and still less to say this is the way of the philosopher’s stone. But we say that the literal sense is not the true sense, because the prophets said so themselves.
+We may not attribute to the [Scripture](/concepts/revelation) the sense which it has not revealed to us that it contains. Thus, to say that the closed mem of Isaiah means six hundred, has not been revealed. It might be said that the final tsadé and the he deficientes signify mysteries. But we are not allowed to say so, and still less to say this is the way of the philosopher’s stone. But we say that the literal sense is not the true sense, because the prophets said so themselves.
 
 Extravagances of the Apocalyptics, Preadamites, Millenarians, etc. — Whoever would found extravagant opinions on the Scripture will for instance found them on the fact that:
 
@@ -2447,7 +2452,7 @@ All these passages together cannot apply to the thing signified, all can apply t
 
 Agnus occisus est ab origine mundi. A sacrificing judge.
 
-Types. — God willing to form to himself an holy people, whom he should separate from all other nations, whom he should deliver from their enemies, and should establish in a place of rest, has not only promised this, but has foretold by his prophets the time and the manner of his coming. And yet, to confirm the hope of his elect through all ages, he made them to see it in a figure, but never left them without assurances of his power and of his will to save them. For at the creation of man, Adam was the witness, and the guardian of the promise made concerning the Saviour who should be born of the woman, when men were still so near the creation that they could not have forgotten their creation and their fall. When those who had seen Adam were no longer in the world, God sent Noah, whom he saved, and drowned the whole earth by a miracle which marked sufficiently both the power which he had to save the world, and the will which he had to do so; and to raise up of the seed of the woman him whom he had promised.
+Types. — God willing to form to himself an holy people, whom he should separate from all other nations, whom he should deliver from their enemies, and should establish in a place of rest, has not only promised this, but has foretold by his prophets the time and the manner of his coming. And yet, to confirm the hope of his elect through all ages, he made them to see it in a figure, but never left them without assurances of his power and of his will to save them. For at the creation of man, Adam was the witness, and the guardian of the promise made concerning the Saviour who should be born of the woman, when men were still so near the creation that they could not have forgotten their creation and their fall. When those who had seen Adam were no longer in the world, God sent Noah, whom he saved, and drowned the whole earth by a [miracle](/concepts/miracle) which marked sufficiently both the power which he had to save the world, and the will which he had to do so; and to raise up of the seed of the woman him whom he had promised.
 
 This miracle was enough to confirm the hope of men. The memory of the deluge being fresh among men while Noah was still living, God made promises to Abraham, and while Shem was still living God sent Moses, etc....
 
@@ -2463,7 +2468,7 @@ But God, not willing to disclose these things to a people unworthy of them, yet 
 
 All that tends not to charity is figurative.
 
-The sole aim of the Scripture is charity.
+The sole aim of the [Scripture](/concepts/revelation) is charity.
 
 All which tends not to that only end is figurative, for since there is but one end, all which does not refer to it in express terms is figurative.
 
@@ -2537,7 +2542,7 @@ Sincere against their honour, and dying in its defence; this has no example in t
 
 They are visibly a people expressly formed to serve as witnesses to the Messiah, Isaiah xliii. 9; xliv. 8, they bear the books, and love them while they understand them not. And all this was foretold, that God’s judgments might be entrusted to them, but as a sealed book.
 
-Types. — When once the secret is disclosed it is impossible not to see it If the Old Testament be read in this light, we shall see if the sacrifices were real; if the fatherhood of Abraham was the true cause of the friendship of God; that the promised land was not the true place of rest. These were then but types. If in the same way we examine all those ordained ceremonies, and all those commandments which are not of charity, we shall see that they are types.
+Types. — When once the secret is disclosed it is impossible not to see it If the Old Testament be read in this light, we shall see if the sacrifices were real; if the fatherhood of Abraham was the true cause of the [friendship](/concepts/friendship) of God; that the promised land was not the true place of rest. These were then but types. If in the same way we examine all those ordained ceremonies, and all those commandments which are not of charity, we shall see that they are types.
 
 All these sacrifices and ceremonies were then either figures or absurdities. But there are things which are clear, and yet too lofty for us to think them absurdities.
 
@@ -2597,9 +2602,9 @@ It must therefore explain these astonishing contradictions.
 
 In order to make man happy, it must show him that there is a God; that we ought to love him; that our true happiness is to be in him, our sole evil to be separated from him; it must recognise that we are full of darkness which hinders us from knowing and loving him; and that thus, as our duties oblige us to love God, and our lusts turn us from him, we are full of injustice. It must explain to us our opposition to God and to our own good; it must teach us the remedies for these infirmities, and the means of obtaining them. We must therefore examine all the religions of the world from this point of view, and see if there be any other than the Christian which is sufficient for this end.
 
-Shall it be that of the philosophers, who proposed as the only good the good which is in ourselves? Is this the true good? Have they found a remedy for our evils? Is the pride of man cured by equalling him with God? Have those who would level us to the brutes, or the Mahomedans who present us with pleasures of the world as the sole good, even in eternity, found any remedy for our lusts? What religion then will teach us to cure our pride and our lust? What religion will teach us our good, our duty, the infirmity which turns us from it, the cause of this infirmity, the remedies which can cure it, and the means of obtaining those remedies? All other religions have failed, let us see what the wisdom of God can do.
+Shall it be that of the philosophers, who proposed as the only good the good which is in ourselves? Is this the true good? Have they found a remedy for our evils? Is the pride of man cured by equalling him with God? Have those who would level us to the brutes, or the Mahomedans who present us with pleasures of the world as the sole good, even in [eternity](/positions/eternity), found any remedy for our lusts? What religion then will teach us to cure our pride and our lust? What religion will teach us our good, our duty, the infirmity which turns us from it, the cause of this infirmity, the remedies which can cure it, and the means of obtaining those remedies? All other religions have failed, let us see what the wisdom of God can do.
 
-“Look neither for truth,” she says, “nor consolation from men. I am she who framed you, and who alone can teach you what you are. But you are not now in the state in which I framed you. I created man holy, innocent, perfect; I filled him with light and intelligence; I communicated to him my glory and my wondrous acts. The eye of man beheld then the majesty of God; he was not then in the darkness which blinds him, nor subject to death and the miseries which afflict him. But he could not bear so great a glory without falling into pride. He would make himself his own centre, and independent of my aid. He withdrew himself from my rule; and when he made himself equal to me by the desire of finding his happiness in himself, I gave him over to self. Then setting in revolt the creatures that were subject to him, I made them his enemies; so that man is now become like the beasts, and removed from me until there scarce remains to him a confused ray of his Creator, so far has all his knowledge become extinguished or disturbed. His senses, never the servants, and often the masters of reason, have carried him astray in pursuit of pleasure. All creatures either torment or tempt him; and have dominion over him, either as they subdue him by their strength, or as they melt him by their charms, a tyranny more terrible and more imperious.
+“Look neither for truth,” she says, “nor consolation from men. I am she who framed you, and who alone can teach you what you are. But you are not now in [the state](/concepts/state) in which I framed you. I created man holy, innocent, perfect; I filled him with light and intelligence; I communicated to him my glory and my wondrous acts. The eye of man beheld then the majesty of God; he was not then in the darkness which blinds him, nor subject to death and the miseries which afflict him. But he could not bear so great a glory without falling into pride. He would make himself his own centre, and independent of my aid. He withdrew himself from my rule; and when he made himself equal to me by the desire of finding his happiness in himself, I gave him over to self. Then setting in [revolt](/positions/revolution) the creatures that were subject to him, I made them his enemies; so that man is now become like the beasts, and removed from me until there scarce remains to him a confused ray of his Creator, so far has all his knowledge become extinguished or disturbed. His senses, never the servants, and often the masters of reason, have carried him astray in pursuit of pleasure. All creatures either torment or tempt him; and have dominion over him, either as they subdue him by their strength, or as they melt him by their charms, a tyranny more terrible and more imperious.
 
 “Such is the present state of man. There remains to him some feeble instinct of the happiness of his primitive nature, and he is plunged in the misery of his blindness and his lusts, which have become his second nature.
 
@@ -2611,11 +2616,11 @@ For Port Royal to-morrow. Prosopopæa.— “It is in vain, O men, that you seek
 
 “How could they then apply remedies to your diseases, since they did not even know them? Your chief maladies are pride, which alienates you from God, and lust, which binds you down to earth; and they do nought else but nourish one or the other of these disorders. If they presented God as your end it was only done to gratify your pride; by making you think that you are by nature like him and conformed to him. Those who saw the extravagance of such an assertion did but set you on an opposite precipice, by tempting you to believe that your nature was of a piece with that of the beasts, and by inclining you to seek your good in the lusts which are shared by brutes. This is not the way to cure you of your unrighteousness, which these sages never knew. I alone can teach you who you are....
 
-“If you are united to God it is by grace, not by nature.
+“If you are united to God it is by [grace](/concepts/grace), not by nature.
 
 “If you are abased it is by penitence, not by nature. So this twofold capacity....
 
-“You are not in the state wherein you were created.
+“You are not in [the state](/concepts/state) wherein you were created.
 
 “These two states being presented to you, you cannot but recognise them.
 
@@ -2659,11 +2664,11 @@ Who then can withhold credence and adoration to so divine a light? For it is cle
 
 The Philosophers never prescribed feelings proper to these two states.
 
-They inspired motions of simple greatness, and that is not the state of man.
+They inspired motions of simple greatness, and that is not [the state](/concepts/state) of man.
 
 They inspired motions of simple vileness, and that is not the state of man.
 
-There must be motions of abasement, yet not from nature, but from penitence, not to rest in them, but to go onward to greatness. There must be motions of greatness, not from merit, but from grace, and after having passed through abasement.
+There must be motions of abasement, yet not from nature, but from penitence, not to rest in them, but to go onward to greatness. There must be motions of greatness, not from merit, but from [grace](/concepts/grace), and after having passed through abasement.
 
 This double nature of man is so evident, that there are those who have imagined us to have two souls.
 
@@ -2681,7 +2686,7 @@ It is incredible that God should unite himself to us. — This consideration is 
 
 But I would ask if God demands aught else from him than to know him and to love him, and why, since man is by nature capable of love and knowledge, he believes that God cannot make himself known and loved by him. He certainly knows at least that he is, and that he loves something. Therefore if he see anything in his darkness, and if among the things of earth he find any subject of his love, why, if God impart to him some ray of his essence, should he not be capable of knowing and of loving him in the manner in which it shall please him to communicate himself to us? There must be then an intolerable arrogance in these sort of arguments, though they seem founded on apparent humility, which is neither sincere nor reasonable, unless it makes us confess that not knowing of ourselves what we are, we can learn it from God alone.
 
-For myself, I declare that so soon as the Christian religion reveals the principle that human nature is corrupt and fallen from God, my eyes are opened to see everywhere the characters of this truth: for nature is such that she everywhere indicates, both within man and without him, a God whom he has lost and a corrupt nature.
+For myself, I declare that so soon as the Christian religion reveals the principle that [human nature](/axes/human_nature) is corrupt and fallen from God, my eyes are opened to see everywhere the characters of this truth: for nature is such that she everywhere indicates, both within man and without him, a God whom he has lost and a corrupt nature.
 
 Whatever may be said, it must be conceded that the Christian religion has something astonishing in it. Perhaps someone will say: “This is because you were born in it.” It may be: then I stiffen myself against it by this very reason, for fear this prejudice should bias me; but although I am born in it I cannot but find it so.
 
@@ -2707,7 +2712,7 @@ No other religion has enjoined hate of self. No other religion then can be pleas
 
 No other has recognised that man is of all creatures the most excellent. Some, having apprehended the reality of his excellence, have blamed as mean and ungrateful the low opinion which men naturally have of themselves, and others, well aware how real is this vileness, have treated with haughty ridicule those sentiments of greatness which are no less natural to man.
 
-“Lift your eyes to God,” say these, “see him in whose image you are, who has made you to worship him. You can make yourselves like unto him; wisdom will equal you to him if you will follow it.” But others say: “Bend your eyes to the earth, poor worm that you are, and look upon the brutes your comrades.” What then will man become? Will he equal God or the brutes? What an awful gulf! What then shall we be? Who does not see from all this that man has gone astray, that he has fallen from his place, that he seeks it with disquiet, that he cannot regain it? And who shall direct him, since the greatest men have not availed?
+“Lift your eyes to God,” say these, “see him in whose image you are, who has made you to [worship](/concepts/religion) him. You can make yourselves like unto him; wisdom will equal you to him if you will follow it.” But others say: “Bend your eyes to the earth, poor worm that you are, and look upon the brutes your comrades.” What then will man become? Will he equal God or the brutes? What an awful gulf! What then shall we be? Who does not see from all this that man has gone astray, that he has fallen from his place, that he seeks it with disquiet, that he cannot regain it? And who shall direct him, since the greatest men have not availed?
 
 What men could scarcely know by their greatest light, this Religion has taught to babes.
 
@@ -2717,9 +2722,9 @@ Other religions, as those of heathendom, are more popular since they consist onl
 
 Philosophers have consecrated vices in attributing them to God himself, Christians have consecrated virtues.
 
-OF ORIGINAL SIN.
+OF [ORIGINAL SIN](/positions/original_sin).
 
-THERE ARE TWO truths of faith equally sure: the one, that man in the state of creation, or in that of grace, is raised above all nature, is made like unto God and is a sharer in divinity; the other, that in the state of corruption and sin, he has fallen from the higher state and is made like unto the beasts. These two propositions are equally firm and certain. The Scripture declares it plainly, as when it says in certain places: Deliciæ meæ, esse cum filiis hominum. Effundam spiritum meum super omnem carnem. Dii estis, etc.; and when it says in others: Omnis caro fænum. Homo comparatus est jumentis insipientibus, et similis factus est illis. Dixi in corde meo de filiis hominum, ut probaret eos Deus et ostenderet similes esse bestiis, etc.
+THERE ARE TWO truths of faith equally sure: the one, that man in [the state](/concepts/state) of creation, or in that of [grace](/concepts/grace), is raised above all nature, is made like unto God and is a sharer in divinity; the other, that in the state of corruption and sin, he has fallen from the higher state and is made like unto the beasts. These two propositions are equally firm and certain. The [Scripture](/concepts/revelation) declares it plainly, as when it says in certain places: Deliciæ meæ, esse cum filiis hominum. Effundam spiritum meum super omnem carnem. Dii estis, etc.; and when it says in others: Omnis caro fænum. Homo comparatus est jumentis insipientibus, et similis factus est illis. Dixi in corde meo de filiis hominum, ut probaret eos Deus et ostenderet similes esse bestiis, etc.
 
 The wicked, who abandon themselves blindly to their passions, without the knowledge of God, and without taking the trouble to seek him, themselves confirm this foundation of the faith which they attack, that the nature of man is corrupt. And the Jews, who so obstinately assail the Christian religion, again confirm that other foundation of the same faith which they assail, namely, that Jesus Christ is the true Messiah, who has come to redeem men, and deliver them from the corruption and misery in which they were, as much by the condition in which we see them at this day, and which was foretold by the prophets, as by these same prophecies which they possess and keep so inviolably as the tokens whereby the Messiah is to be recognised.
 
@@ -2767,7 +2772,7 @@ Will it be asserted that because men have spoken of righteousness as having fled
 
 The dignity of man while innocent consisted in using and having dominion over the creatures, but now in separating himself from them, and subjecting himself to them.
 
-Source of contradictions. — A God humbled, even to the death of the cross, a Messiah by his death triumphing over death. Two natures in Jesus Christ, two advents, two states of human nature.
+Source of contradictions. — A God humbled, even to the death of the cross, a Messiah by his death triumphing over death. Two natures in Jesus Christ, two advents, two states of [human nature](/axes/human_nature).
 
 Of original sin. — Ample tradition of original sin according to the Jews.
 
@@ -2795,7 +2800,7 @@ The same thing is in Misdrasch Tillim.
 
 Bereschist Rabba on Ps. xxxv.: “Lord, all my bones shall bless thee, who deliverest the poor from the tyrant.” And is there a greater tyrant than the evil leaven? And on Proverbs xxv., “If thine enemy be hungry, feed him.” That is to say, if the evil leaven hunger, give him the bread of wisdom of which speaks Prov. ix., and if he be thirsty, give him the water of which speaks Isaiah lv.
 
-Misdrasch Tillim says the same thing, and that the Scripture in that passage speaking of our enemy, means the evil leaven, and that in giving it that bread and that water, we heap coals of fire on his head.
+Misdrasch Tillim says the same thing, and that the [Scripture](/concepts/revelation) in that passage speaking of our enemy, means the evil leaven, and that in giving it that bread and that water, we heap coals of fire on his head.
 
 Misdrasch Kohelet on Ecclesiastes ix. “A great king besieged a little city.” This great king is the evil leaven, the great engines with which he surrounds it are temptations, and there has been found a poor wise man who has delivered it, that is to say virtue.
 
@@ -2843,7 +2848,7 @@ States would perish if they did not often make their laws bend to necessity, but
 
 The religion which alone is contrary to our nature, to common sense, and to our pleasures, is that alone which has always existed.
 
-The science which alone is contrary to common sense and human nature, is that alone which has always subsisted among men.
+The science which alone is contrary to common sense and [human nature](/axes/human_nature), is that alone which has always subsisted among men.
 
 To show that the true Jews and the true Christians have one and the same Religion. — The religion of the Jews seemed to consist essentially in the fatherhood of Abraham, in circumcision, sacrifices and ceremonies, in the ark, in the temple at Jerusalem, and lastly, in the Law, and the Covenant with Moses.
 
@@ -2877,7 +2882,7 @@ That the Jews, for lack of their love, should be rejected for their crimes, and 
 
 Hosea i. 10.
 
-Deut. xxxii. 20. “I will hide myself from them in view of their latter sins, for they are a froward generation. They have provoked me to anger by things which are no gods, and I will provoke them to jealousy by a people which is not my people, by an ignorant and foolish nation.”
+Deut. xxxii. 20. “I will hide myself from them in view of their latter sins, for they are a froward generation. They have provoked me to [anger](/concepts/anger) by things which are no gods, and I will provoke them to jealousy by a people which is not my people, by an ignorant and foolish nation.”
 
 Isaiah lxv. 1. That temporal goods are false, and that the true good is to be united to God.
 
@@ -2935,7 +2940,7 @@ Therefore that religion is lovable to me, and I find it sufficiently authorized 
 
 I find it a convincing fact that since the memory of man has lasted, it was constantly declared to men that they were universally corrupt, and that a Redeemer should come;
 
-That it was not one man who said it, but an infinity of men, and a whole nation lasting for four thousand years, prophesying, and created for that very purpose.... So I stretch out my arms to my Redeemer, who having been foretold for four thousand years, has come to suffer and to die for me on earth at the time and under all the circumstances which had been foretold, and by his grace I await death in peace, in the hope of being eternally united to him; yet I live with joy, whether in the good which it pleases him to bestow on me, or in the ill which he sends for my good, and which he has taught me to bear by his example.
+That it was not one man who said it, but an [infinity](/concepts/infinity) of men, and a whole nation lasting for four thousand years, prophesying, and created for that very purpose.... So I stretch out my arms to my Redeemer, who having been foretold for four thousand years, has come to suffer and to die for me on earth at the time and under all the circumstances which had been foretold, and by his [grace](/concepts/grace) I await death in peace, in the hope of being eternally united to him; yet I live with joy, whether in the good which it pleases him to bestow on me, or in the ill which he sends for my good, and which he has taught me to bear by his example.
 
 The Synagogue preceded the Church, the Jews preceded the Christians, the prophets foretold the Christians, Saint John foretold Jesus Christ.
 
@@ -2955,19 +2960,19 @@ PROOFS OF RELIGION.
 
 Morals — Doctrine — Miracles — Prophecies — Figures.
 
-Proof — 1. The Christian religion having established itself so strongly, yet so quietly, whilst contrary to nature. — 2. The sanctity, the dignity, and the humility of a Christian soul. — 3. The wonders of holy Scripture. — 4. Jesus Christ in particular. — 5. The apostles in particular. — 6. Moses and the prophets in particular. — 7. The Jewish people. — 8. The Prophecies. — 9. Perpetuity. No religion has perpetuity. — 10. The Doctrine, which explains all. — 11. The sanctity of this law. — 12. By the course of the world.
+Proof — 1. The Christian religion having established itself so strongly, yet so quietly, whilst contrary to nature. — 2. The sanctity, the dignity, and the humility of a Christian soul. — 3. The wonders of holy [Scripture](/concepts/revelation). — 4. Jesus Christ in particular. — 5. The apostles in particular. — 6. Moses and the prophets in particular. — 7. The Jewish people. — 8. The Prophecies. — 9. Perpetuity. No religion has perpetuity. — 10. The Doctrine, which explains all. — 11. The sanctity of this law. — 12. By the course of the world.
 
 It is beyond doubt that after considering what is life and what is religion we cannot refuse to act on the inclination to follow it, if it comes into our heart, and it is certain there is no ground for jeering at those who follow it.
 
 The general conduct of the world towards the Church. — God willing both to blind and enlighten. — The event having proved that these prophecies were divine, the remainder ought to be believed, and hence we see that the order of the world is on this manner.
 
-The miracles of the creation and the deluge being forgotten, God sent the law and the miracles of Moses, the prophets who prophesied particular things, and to prepare an abiding miracle he prepares prophecies and their fulfilment. But as the prophecies might be suspected he wishes to make them beyond suspicion, etc.
+The miracles of the creation and the deluge being forgotten, God sent the law and the miracles of Moses, the prophets who prophesied particular things, and to prepare an abiding [miracle](/concepts/miracle) he prepares prophecies and their fulfilment. But as the prophecies might be suspected he wishes to make them beyond suspicion, etc.
 
 ... But even those who seem most opposed to the glory of religion are not in that respect useless for others. We draw from them the first argument, that here is something supernatural, for a blindness of that kind is not natural, and if their folly renders them so opposed to their own good, it will serve to guarantee others against it, by the horror of an example so deplorable, and a folly so worthy of compassion.
 
 ... Men revile what they do not understand. The Christian religion consists in two points. It is of equal moment to men to know them both, and equally dangerous to ignore either. And it is equally of God’s mercy that he has given marks of both.
 
-Yet they take occasion to conclude that one of these points does not exist from that which is intended to make them certain of the other. Those sages who have said there is a God have been persecuted, the Jews were hated, and still more the Christians. They saw by the light of nature, that if there be a true religion on earth, the course of all things must tend to it as to a centre. And on this ground they venture to revile the Christian religion because they misunderstand it. They imagine that it consists simply in the adoration of a God conceived as great, powerful and eternal; which is in fact deism, almost as far removed from the Christian religion as atheism, its exact opposite. And hence they infer the falsehood of our religion, because they do not see that all things concur to the establishment of this point, that God does not manifest himself to man with all the evidence which is possible.
+Yet they take occasion to conclude that one of these points does not exist from that which is intended to make them certain of the other. Those sages who have said there is a God have been persecuted, the Jews were hated, and still more the Christians. They saw by the light of nature, that if there be a true religion on earth, the course of all things must tend to it as to a centre. And on this ground they venture to revile the Christian religion because they misunderstand it. They imagine that it consists simply in the adoration of a God conceived as great, powerful and eternal; which is in fact [deism](/positions/deism), almost as far removed from the Christian religion as [atheism](/positions/atheism), its exact opposite. And hence they infer the falsehood of our religion, because they do not see that all things concur to the establishment of this point, that God does not manifest himself to man with all the evidence which is possible.
 
 But let them conclude what they will against deism, they can conclude nothing on that account against the Christian religion, which properly consists in the mystery of the Redeemer, who, uniting in himself the two natures human and divine, has withdrawn men from the corruption of sin that he might in his divine person reconcile them to God.
 
@@ -2979,15 +2984,15 @@ This is well worth considering.
 
 <span class="atom-split" data-atom="050" data-title="I. Kings xv. 22; Hosea vi. 6. (2/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
 
-If it be a mark of weakness to prove God by nature, despise not the Scripture for not doing so: if it be a mark of power to know these contradictions, value the Scriptures on that account.
+If it be a mark of weakness to prove God by nature, despise not the [Scripture](/concepts/revelation) for not doing so: if it be a mark of power to know these contradictions, value the Scriptures on that account.
 
 What! Do you not say yourself that the sky and the birds prove God? — No. — And does not your religion say so? — No. For however it may be true in a sense for some souls to whom God has given this light, it is nevertheless false in regard to the majority.
 
 Think you it is impossible that God is infinite, without parts? — Yes. — I will then make you see something which is infinite and indivisible. A point moving everywhere with infinite swiftness, for it is in all places, and is whole and entire in each situation.
 
-Perhaps this effect of nature, which seems to you impossible beforehand, may teach you to know that there may be others also which you know not as yet. Do not then draw this conclusion from your apprenticeship, that nothing remains for you to know, but rather that an infinity remains for you to know.
+Perhaps this effect of nature, which seems to you impossible beforehand, may teach you to know that there may be others also which you know not as yet. Do not then draw this conclusion from your apprenticeship, that nothing remains for you to know, but rather that an [infinity](/concepts/infinity) remains for you to know.
 
-It is incomprehensible that there should be a God, and incomprehensible that there should not be; that there should be a soul in the body, and that we should have no soul; that the world should have been created, and that it should not, etc.; that original sin should be, and that it should not be.
+It is incomprehensible that there should be a God, and incomprehensible that there should not be; that there should be a soul in the body, and that we should have no soul; that the world should have been created, and that it should not, etc.; that [original sin](/positions/original_sin) should be, and that it should not be.
 
 If we choose to say that man is too little to merit communion with God, we must be indeed great to form a judgment on the subject.
 
@@ -3003,7 +3008,7 @@ Objection. But the Church has decided that all is of the Holy Spirit.
 
 Answer. I answer two things: 1. That the Church has never so decided; 2. That if she should so decide it might be maintained.
 
-My God! what trash is all this talk: “Has God made the world but to condemn it? will he ask so much of creatures so weak?” etc. Scepticism is the remedy for this evil, and will lower this vanity.
+My God! what trash is all this talk: “Has God made the world but to condemn it? will he ask so much of creatures so weak?” etc. [Scepticism](/positions/scepticism) is the remedy for this evil, and will lower this vanity.
 
 God has willed to redeem mankind and to open salvation to those who seek him. But men render themselves so unworthy of it, that it is just that God should refuse to some because of their hardness of heart what he grants to others out of a mercy not their due. Had it been his will to overcome the stubbornness of the most hardened, he could have rendered them unable to doubt the truth of his essence, in revealing himself manifestly to them as he will appear at the last day, amid thunderings and lightnings, and so great a convulsion of nature, that the dead will rise again, and the blindest shall see him.
 
@@ -3013,7 +3018,7 @@ There is enough light for those who wish earnestly to see, and enough obscurity 
 
 Therefore let men recognise the truth of religion in the very obscurity of religion, in the little light we have of it, and in our indifference to the knowledge of it.
 
-The prophecies, the very miracles and proofs of our Religion, are not of such a nature that we can say they are absolutely convincing. But they are also of such a kind, that none can say that it is unreasonable to believe in them. Thus there is both evidence and obscurity to enlighten some and blind others; but the evidence is such that it surpasses or at least equals the evidence to the contrary, so that it is not reason which can determine us not to follow it, and therefore it can only be lust and malice of heart. And by this means there is evidence enough to condemn, and not enough to convince; so it appears in those who follow it, that it is grace and not reason which causes them to follow it; and in those who fly it, it is lust, not reason, which causes them to fly it.
+The prophecies, the very miracles and proofs of our Religion, are not of such a nature that we can say they are absolutely convincing. But they are also of such a kind, that none can say that it is unreasonable to believe in them. Thus there is both evidence and obscurity to enlighten some and blind others; but the evidence is such that it surpasses or at least equals the evidence to the contrary, so that it is not reason which can determine us not to follow it, and therefore it can only be lust and malice of heart. And by this means there is evidence enough to condemn, and not enough to convince; so it appears in those who follow it, that it is [grace](/concepts/grace) and not reason which causes them to follow it; and in those who fly it, it is lust, not reason, which causes them to fly it.
 
 Who can help admiring and embracing a religion which thoroughly knows that which we recognise more and more in proportion to our light?
 
@@ -3057,7 +3062,7 @@ God, that he may reserve to himself alone the right to instruct us and that he m
 
 Wisdom sends us to childhood: nisi efficiamini sicut parvuli.
 
-“A miracle,” says one, “would strengthen my faith.” He says so when he does not see one. Reasons seen from afar seem to limit our view, but as we reach them we begin to see beyond. Nothing stops the activity of our spirit. There is no rule, we say, which has not its exception, no truth so general but that there is a side on which it is lacking. If it be not absolutely universal, we have a pretext for applying the exception to the matter in hand, and for saying: This is not always true, hence there are cases in which it is not so. It only remains to show that this is one of them. And we must be very awkward or unlucky if we do not find one some day.
+“A [miracle](/concepts/miracle),” says one, “would strengthen my faith.” He says so when he does not see one. Reasons seen from afar seem to limit our view, but as we reach them we begin to see beyond. Nothing stops the activity of our spirit. There is no rule, we say, which has not its exception, no truth so general but that there is a side on which it is lacking. If it be not absolutely universal, we have a pretext for applying the exception to the matter in hand, and for saying: This is not always true, hence there are cases in which it is not so. It only remains to show that this is one of them. And we must be very awkward or unlucky if we do not find one some day.
 
 Contradictions.
 
@@ -3087,7 +3092,7 @@ The wicked who profess to follow reason, ought to be extremely strong in reason.
 
 What then do they say?
 
-Do we not see, say they, beasts live and die like men, and Turks like Christians? They have their ceremonies, their prophets, their doctors, their saints, their religious, as well as we, etc. But how is this contrary to the Scripture? Does it not say all this?
+Do we not see, say they, beasts live and die like men, and Turks like Christians? They have their ceremonies, their prophets, their doctors, their saints, their religious, as well as we, etc. But how is this contrary to the [Scripture](/concepts/revelation)? Does it not say all this?
 
 If you care but little to know the truth, here is enough for your peace. But if you desire to know it with your whole heart, this is not enough, look to the details. This would suffice for a question in philosophy, but not here, where your all is concerned. And yet, after a slight meditation of this kind, we shall go off to amuse ourselves, etc. We should acquaint ourselves with this religion; even if it does not disclose the reason for such obscurity, it will perhaps teach it to us.
 
@@ -3095,7 +3100,7 @@ If God had permitted one only Religion, it would have been too easily recognised
 
 PROOFS OF THE DIVINITY OF JESUS CHRIST.
 
-PERPETUITY. — LET it be considered that from the beginning of the world the expectation or the worship of the Messiah has subsisted without a break; that there have been men who said that God had revealed to them the future birth of a Redeemer who should save his people; that afterwards came Abraham saying he had had a revelation that the Messiah was to spring from him by a son who should be born; that Jacob declared that of his twelve sons the Messiah would spring from Judah; that Moses and the prophets then came to declare the time and the manner of his advent; that they said their law was only provisional till that of the Messiah, that it should last till then but the other should endure eternally; that thus either their law or that of the Messiah, of which it was the promise, would be always upon earth; that in fact it has always endured; that at last Jesus Christ has come with all the circumstances foretold. How wonderful is this!
+PERPETUITY. — LET it be considered that from the beginning of the world the expectation or the [worship](/concepts/religion) of the Messiah has subsisted without a break; that there have been men who said that God had revealed to them the future birth of a Redeemer who should save his people; that afterwards came Abraham saying he had had a revelation that the Messiah was to spring from him by a son who should be born; that Jacob declared that of his twelve sons the Messiah would spring from Judah; that Moses and the prophets then came to declare the time and the manner of his advent; that they said their law was only provisional till that of the Messiah, that it should last till then but the other should endure eternally; that thus either their law or that of the Messiah, of which it was the promise, would be always upon earth; that in fact it has always endured; that at last Jesus Christ has come with all the circumstances foretold. How wonderful is this!
 
 The two most ancient books in the world are those of Moses and Job, the one a Jew, the other a Gentile, both of whom regard Jesus Christ as their common centre and object: Moses in reporting the promises of God to Abraham, Jacob, etc., and his prophecies. And Job, Quis mihi det ut, etc. Scio enim quod redemptor meus vivit, etc.
 
@@ -3115,7 +3120,7 @@ After many persons had come before, at last came Jesus Christ, to say: “Here a
 
 Then the Apostles said to the Jews, “You shall be accursed,” and to the Gentiles, “You shall enter into the knowledge of God;” and that came to pass. Celsus laughed at it.
 
-Then Jesus Christ came to tell men that they had no enemies but themselves, that their passions cut them off from God, that he came to destroy these, and give them his grace to unite them all in an holy Church, that he came to call into this Church Gentiles and Jews, that he came to destroy the idols of the former and the superstition of the latter. To this all men are opposed, not only by the natural opposition of lust; but above all, the kings of the earth, as had been foretold, gathered together to destroy this religion in its infancy. Quare fremuerunt gentes. Reges terræ adversus Christum.
+Then Jesus Christ came to tell men that they had no enemies but themselves, that their passions cut them off from God, that he came to destroy these, and give them his [grace](/concepts/grace) to unite them all in an holy Church, that he came to call into this Church Gentiles and Jews, that he came to destroy the idols of the former and the superstition of the latter. To this all men are opposed, not only by the natural opposition of lust; but above all, the kings of the earth, as had been foretold, gathered together to destroy this religion in its infancy. Quare fremuerunt gentes. Reges terræ adversus Christum.
 
 All that was great on earth was united together, the learned, the wise, the kings. The first wrote, the second condemned, the last slew. Yet notwithstanding all these oppositions, these men, so simple and so weak, resisted all these forces, subduing even the mighty, the learned and the wise, and removed idolatry from all the earth. And all this was done by the power which had foretold it
 
@@ -3143,7 +3148,7 @@ God, to enable the Messiah to be recognised by the good and unrecognised by the 
 
 By this means the wicked, mistaking the promised for material blessings, have gone astray, in spite of clear indications of the time, and the good have not gone astray; for the interpretation of the promised blessings depends on the heart, wont to call that good which it loves, but the interpretation of the promised time does not depend on the heart. Thus the clear prediction of the time, and the obscure intimation of the blessings, deceives only the wicked.
 
-If Jesus Christ had come only for sanctification, the whole of Scripture and all things would tend to this end, and it would be easy to convince unbelievers. If Jesus Christ had come only to blind, all his conduct would be confused, and we should have no means of convincing unbelievers. But as he came in sanctificationem et in scandalum, as says Isaiah, we cannot convince unbelievers, and they cannot convince us; but by that very fact we overcome them because we say that there is nothing in his conduct conclusive on one side or the other.
+If Jesus Christ had come only for sanctification, the whole of [Scripture](/concepts/revelation) and all things would tend to this end, and it would be easy to convince unbelievers. If Jesus Christ had come only to blind, all his conduct would be confused, and we should have no means of convincing unbelievers. But as he came in sanctificationem et in scandalum, as says Isaiah, we cannot convince unbelievers, and they cannot convince us; but by that very fact we overcome them because we say that there is nothing in his conduct conclusive on one side or the other.
 
 Jesus Christ has come to blind those who saw clearly, and to give sight to the blind; to heal the sick and let the sound perish; to call sinners to repentance and justification, and leave the just in their sins; to fill the hungry with good things and to send the rich empty away.
 
@@ -3183,7 +3188,7 @@ The kings will arm themselves against him. Ps. ii.
 
 Being on the right hand of the Father, he will have victory over all his enemies.
 
-The kings of the earth, and all nations shall worship him. Is. lx.
+The kings of the earth, and all nations shall [worship](/concepts/religion) him. Is. lx.
 
 The Jews will remain as a nation. Jer.
 
@@ -3199,7 +3204,7 @@ And by continuance in denial, they made themselves unimpeachable witnesses; and 
 
 The word Galilee, which the Jewish rabble pronounced as if by chance, in their accusation of Jesus Christ before Pilate, gave Pilate a reason for sending Jesus Christ to Herod, so that the mystery was accomplished, that he should be judged by Jews and Gentiles. Chance was apparently the cause that the mystery was accomplished.
 
-The conversion of the Gentiles was only reserved for the grace of the Messiah. The Jews so long opposed them without success; all that Solomon and the prophets had said was useless. Wise men like Plato and Socrates could not persuade them.
+The conversion of the Gentiles was only reserved for the grace of the Messiah. The Jews so long opposed them without success; all that Solomon and the prophets had said was useless. Wise men like Plato and [Socrates](/figures/socrates) could not persuade them.
 
 If this was so clearly foretold to the Jews, why did they not believe it, or why were they not exterminated for resisting what was so clear?
 
@@ -3223,7 +3228,7 @@ Proofs of Jesus Christ. — To have been captive with the assurance of deliveran
 
 God has promised them that even though he should disperse them to the ends of the earth, nevertheless if they were faithful to the law he would gather them together. They are now very faithful to it, yet remain oppressed.
 
-Blindness of Scripture. — The Scripture, say the Jews, says that we know not whence Christ should come.
+Blindness of [Scripture](/concepts/revelation). — The Scripture, say the Jews, says that we know not whence Christ should come.
 
 John vii. 27 and xii 34.
 
@@ -3245,7 +3250,7 @@ Why the book of Ruth was preserved.
 
 Why the story of Tamar.
 
-The genealogy of Jesus Christ in the Old Testament is intermixed with so many that are useless, that it cannot be distinguished. If Moses had kept only the register of the ancestors of Jesus Christ, that had been too plain. If he had not marked that of Jesus Christ, it had not been plain enough. But after all, whoso looks closely sees that of Jesus Christ distinctly traced through Tamar, Ruth, etc.
+The [genealogy](/positions/genealogy) of Jesus Christ in the Old Testament is intermixed with so many that are useless, that it cannot be distinguished. If Moses had kept only the register of the ancestors of Jesus Christ, that had been too plain. If he had not marked that of Jesus Christ, it had not been plain enough. But after all, whoso looks closely sees that of Jesus Christ distinctly traced through Tamar, Ruth, etc.
 
 Jesus Christ in an obscurity — as the world calls obscurity — so great, that the historians who wrote only the important matters of States hardly perceived him.
 
@@ -3301,7 +3306,7 @@ Five typical proofs.
 
 <span class="atom-split" data-atom="054" data-title="I. Kings xv. 22; Hosea vi. 6. (6/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
 
-Atheists. — What reason have they to say it is not possible to rise again? Which is the more difficult, to be born or to rise again; that that which has never been should be, or that what has been should be again? Is it more difficult to come into being than to return to it? Habit causes the one to seem easy to us, the want of habit causes the other to seem impossible. The popular way of judging.
+Atheists. — What reason have they to say it is not possible to rise again? Which is the more difficult, to be born or to rise again; that that which has never been should be, or that what has been should be again? Is it more difficult to come into being than to return to it? [Habit](/concepts/custom) causes the one to seem easy to us, the want of habit causes the other to seem impossible. The popular way of judging.
 
 Why should not a virgin bear a child? does not a hen lay eggs without a cock? What distinguishes these outwardly from others? and who has told us that the hen may not form the germ as well as the cock?
 
@@ -3313,7 +3318,7 @@ It is impiety not to believe in the Eucharist on the ground that we do not see i
 
 THE MISSION AND GREATNESS OF JESUS CHRIST.
 
-WE KNOW GOD only by Jesus Christ. Without this mediator all communion with God is taken away, by Jesus Christ we know God. All who have thought to know God, and to prove him without Jesus Christ, have had but feeble proofs. But for proof of Jesus Christ we have the prophecies, which are solid and palpable proofs. And these prophecies, accomplished and proved true by the event, mark the certainty of these truths, and consequently the divinity of Jesus Christ. In him then, and by him we know God; apart from him, and without the Scripture, without original sin, without a necessary mediator, foretold and come, we could not absolutely prove God, nor teach sound doctrine and sound morality. But by Jesus Christ, and in Jesus Christ we prove God and teach morality and doctrine. Jesus Christ is then the true God of men.
+WE KNOW GOD only by Jesus Christ. Without this mediator all communion with God is taken away, by Jesus Christ we know God. All who have thought to know God, and to prove him without Jesus Christ, have had but feeble proofs. But for proof of Jesus Christ we have the prophecies, which are solid and palpable proofs. And these prophecies, accomplished and proved true by the event, mark the certainty of these truths, and consequently the divinity of Jesus Christ. In him then, and by him we know God; apart from him, and without the [Scripture](/concepts/revelation), without [original sin](/positions/original_sin), without a necessary mediator, foretold and come, we could not absolutely prove God, nor teach sound doctrine and sound morality. But by Jesus Christ, and in Jesus Christ we prove God and teach morality and doctrine. Jesus Christ is then the true God of men.
 
 But we know at the same time our misery, for this God is none other than he who repairs our misery. Thus we can only know God well by knowing our sins. Therefore those who have known God without knowing their misery, have not glorified him, but have glorified themselves. Quia non cognovit per sapientiam, placuit Deo per stultitiam prædicationis salvos facere.
 
@@ -3333,7 +3338,7 @@ The Gospel only speaks of the virginity of the Virgin up to the time of the birt
 
 Jesus Christ, whom the two Testaments regard, the Old as its end, the New as its model, both as their centre.
 
-Scepticism is the truth. For, after all, men before Jesus Christ did not know either where they were or if they were great or little. And those who said one or the other knew nothing about it, and guessed without reason and by chance, yet they always erred in excluding one or the other.
+[Scepticism](/positions/scepticism) is the truth. For, after all, men before Jesus Christ did not know either where they were or if they were great or little. And those who said one or the other knew nothing about it, and guessed without reason and by chance, yet they always erred in excluding one or the other.
 
 Quod ergo ignorantes quæritis, Religio annuntiat vobis.
 
@@ -3561,7 +3566,7 @@ Saint Peter asked permission to strike Malchus, and struck before having the ans
 
 I love poverty because he loved it. I love wealth because it gives the power of helping the miserable. I keep my troth to everyone; rendering not evil to those who do me wrong; but I wish them a lot like mine, in which I receive neither good nor evil from men. I try to be just, true, sincere, and faithful to all men; I have a tender heart for those to whom God has more closely bound me; and whether I am alone or seen of men I place all my actions in the sight of God, who shall judge them, and to whom I have consecrated them all.
 
-Such are my opinions, and each day of my life I bless my Redeemer who has implanted them in me, who has transformed me, a man full of weakness, misery, and lust, of pride and ambition, into a man exempt from all these evils, by the power of his grace, to which all the glory is due; since of myself I have only misery and sin.
+Such are my opinions, and each day of my life I bless my Redeemer who has implanted them in me, who has transformed me, a man full of weakness, misery, and lust, of pride and ambition, into a man exempt from all these evils, by the power of his [grace](/concepts/grace), to which all the glory is due; since of myself I have only misery and sin.
 
 OF THE TRUE RIGHTEOUS MAN AND
 
@@ -3617,13 +3622,13 @@ Two laws suffice to regulate the whole Christian republic better than all politi
 
 Against those who trusting in the mercy of God live carelessly, without doing good works. — As the two sources of our sins are pride and indolence, God has revealed to us two of his attributes for their cure, mercy and justice. The property of justice is to abase our pride, however holy may be our works, et non intres in judicium, etc.; and the property of mercy is to combat indolence by exciting to good works, according to that passage: “The goodness of God leads to repentance,” and that other of the Ninevites: “Let us do penance to see if peradventure he will pity us.” Thus mercy is so far from authorising slackness, that it is on the contrary the quality which formally assails it, so that instead of saying: “Were there not mercy in God, we must make every effort after virtue,” we should say, on the contrary, that because there is mercy in God we must make every effort.
 
-The world exists for the exercise of mercy and judgment, not as if men were in it as they came from the hands of God, but as the enemies of God, to whom he gives by grace light enough to return, if they will seek him and follow him, and to punish them, if they refuse to seek him and follow him.
+The world exists for the exercise of mercy and judgment, not as if men were in it as they came from the hands of God, but as the enemies of God, to whom he gives by [grace](/concepts/grace) light enough to return, if they will seek him and follow him, and to punish them, if they refuse to seek him and follow him.
 
 We implore the mercy of God, not that he may leave us in peace in our vices, but that he may free us from them.
 
 There are but two kinds of men, the righteous, who believe themselves sinners, and sinners, who believe themselves righteous.
 
-There are two kinds of men in each religion. — Among the heathen, worshippers of beasts, and the worshippers of the one God revealed by natural religion.
+There are two kinds of men in each religion. — Among the heathen, worshippers of beasts, and the worshippers of the one God revealed by [natural religion](/positions/deism).
 
 Among the Jews, the carnal and the spiritual, who were the Christians of the old law.
 
@@ -3665,7 +3670,7 @@ I do not include here those whose morality is true holiness, nor those whose bel
 
 It is not a rare thing to have to blame the world for too much docility, it is a vice as natural as unbelief, and as pernicious. Superstition.
 
-Abraham took nothing for himself, but only for his servants; so the just man takes for himself nothing of the world, nor of the applause of the world, but only for his passions, which he uses as their master, saying to the one, ‘Go,’ and to another, ‘Come.’ Sub te erit appetitus tuus. The passions thus subdued are virtues. God himself attributes to himself avarice, jealousy, anger; and these are virtues as well as kindness, pity, constancy, which are also passions. We must treat them as slaves, and leaving to them their food hinder the soul from taking any of it. For when the passions gain the mastery they are vices, then they furnish nutriment to the soul, and the soul feeds on it and is poisoned.
+Abraham took nothing for himself, but only for his servants; so the just man takes for himself nothing of the world, nor of the applause of the world, but only for his passions, which he uses as their master, saying to the one, ‘Go,’ and to another, ‘Come.’ Sub te erit appetitus tuus. The passions thus subdued are virtues. God himself attributes to himself avarice, jealousy, [anger](/concepts/anger); and these are virtues as well as kindness, pity, constancy, which are also passions. We must treat them as slaves, and leaving to them their food hinder the soul from taking any of it. For when the passions gain the mastery they are vices, then they furnish nutriment to the soul, and the soul feeds on it and is poisoned.
 
 The just man acts by faith in the smallest things; when he blames his servants, he wishes for their conversion by the spirit of God, and prays God to correct them; for he expects as much from God as from his own blame, and he prays God to bless his corrections. And so with all his other actions.
 
@@ -3679,13 +3684,13 @@ Joh. viii. Multi crediderunt in eum. Dicebat ergo Jesus: “Si manseritis..., ve
 
 There is a great difference between disciples and true disciples. They are recognised by saying to them that the truth will make them free; for if they answer that they are free, and that it is in their power to come out of slavery to the devil, they are indeed disciples, but not true disciples.
 
-“Might I but see a miracle,” men say, “I would become a Christian.” How can they be sure they would do that of which they are ignorant? Men imagine that conversion consists in making of the worship of God such a transaction and way of life as they picture to themselves. True conversion consists in the annihilation of self before that universal Being whom we have so often provoked, and who might with justice destroy us at any moment; in recognising that we can do nought without him, and have merited nothing from him but his wrath. It consists in knowing that there is unconquerable opposition between us and God, and that without a mediator there could be no communion with him.
+“Might I but see a [miracle](/concepts/miracle),” men say, “I would become a Christian.” How can they be sure they would do that of which they are ignorant? Men imagine that conversion consists in making of the [worship](/concepts/religion) of God such a transaction and way of life as they picture to themselves. True conversion consists in the annihilation of self before that universal Being whom we have so often provoked, and who might with justice destroy us at any moment; in recognising that we can do nought without him, and have merited nothing from him but his wrath. It consists in knowing that there is unconquerable opposition between us and God, and that without a mediator there could be no communion with him.
 
 Comminutum cor. Saint Paul. There is the Christian character. Albe vous a nommé, je ne vous connais plus. Corneille. That is the inhuman character. The human character is the contrary.
 
 With how little pride a Christian believes himself united to God, with how little abasement does he rank himself with the worms of earth. What a way is this to receive life and death, good and evil.
 
-It is true there is difficulty in entering into a devout life, but this difficulty does not arise from the religion which begins in us, but from the irreligion which is still there. If our senses were not opposed to penitence, and if our corruption were not opposed to the purity of God, there would be nothing in this painful to us. We suffer only in proportion as the vice which is natural to us resists supernatural grace; our heart feels torn asunder by these conflicting efforts, but it would be most unjust to impute this violence to God, who draws us, instead of attributing it to the world, which holds us back. As a child which a mother tears from the robbers’ arms, in the anguish it suffers should love the loving and legitimate violence of her who procures its liberty, and detest only the imperious and tyrannical violence of those who retain it unjustly. The most cruel war which God can make against men in this life is to leave them without that war which he came to bring. “I came to bring war,” he says, and to inform them of this war, “I came to bring fire and the sword.” Before him the world lived in a false peace.
+It is true there is difficulty in entering into a devout life, but this difficulty does not arise from the religion which begins in us, but from the irreligion which is still there. If our senses were not opposed to penitence, and if our corruption were not opposed to the purity of God, there would be nothing in this painful to us. We suffer only in proportion as the vice which is natural to us resists supernatural [grace](/concepts/grace); our heart feels torn asunder by these conflicting efforts, but it would be most unjust to impute this violence to God, who draws us, instead of attributing it to the world, which holds us back. As a child which a mother tears from the robbers’ arms, in the anguish it suffers should love the loving and legitimate violence of her who procures its liberty, and detest only the imperious and tyrannical violence of those who retain it unjustly. The most cruel war which God can make against men in this life is to leave them without that war which he came to bring. “I came to bring war,” he says, and to inform them of this war, “I came to bring fire and the sword.” Before him the world lived in a false peace.
 
 The exterior must be joined to the interior to obtain aught from God, that is to say, we must kneel, pray with the lips, etc., in order that proud man, who would not submit himself to God, should now be subject to the creature. To expect succour from these externals is superstition, to refuse to join them to interior acts is pride.
 
@@ -3739,7 +3744,7 @@ Faith, it is true, says what the senses do not say, but not the contrary of what
 
 I am envious of those whom I see professing the true faith, but living and abusing a gift of which it seems to me I should make a very different use.
 
-The law imposed what it did not bestow; grace bestows that which it imposes.
+The law imposed what it did not bestow; [grace](/concepts/grace) bestows that which it imposes.
 
 The law has not destroyed Nature, but has instructed it; grace has not destroyed the law, but has called it into action.
 
@@ -3751,21 +3756,21 @@ Submission and use of reason, in which consists true Christianity.
 
 <span class="atom-split" data-atom="060" data-title="I. Kings xv. 22; Hosea vi. 6. (12/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
 
-The last process of reason is to recognise that there is an infinity of things which transcend it; it is but weak if it does not go so far as to know that.
+The last process of reason is to recognise that there is an [infinity](/concepts/infinity) of things which transcend it; it is but weak if it does not go so far as to know that.
 
 And if natural things transcend it, what shall we say of the supernatural?
 
 Submission. — We must know when to doubt, when to feel certain, when to submit. Who fails in this understands not the force of reason. There are those who offend against these three rules, either by accepting everything as evidence, for want of knowing what evidence is; or by doubting everything, for want of knowing when to submit; or by yielding in everything, for want of knowing when to use their judgment.
 
-There are three means of belief; reason, habit, inspiration. The Christian religion, which only has reason, does not admit as her true children those who believe without inspiration; not that she excludes reason or habit, rather the contrary, but it is necessary to open the mind to proofs, to confirm ourselves by habit, and then to offer ourselves humbly to inspiration, which alone can produce a true and salutary effect. Ne evacuetur crux Christi.
+There are three means of belief; reason, [habit](/concepts/custom), inspiration. The Christian religion, which only has reason, does not admit as her true children those who believe without inspiration; not that she excludes reason or habit, rather the contrary, but it is necessary to open the mind to proofs, to confirm ourselves by habit, and then to offer ourselves humbly to inspiration, which alone can produce a true and salutary effect. Ne evacuetur crux Christi.
 
 There are two ways of urging the truths of our religion; one by the force of reason, the other by the authority of the speaker.
 
-We use not the last, but the first. We do not say: “You must believe this, for the Scripture which says so is divine,” but we say: You must believe for such and such a reason, which are weak arguments, since reason bends itself to all.
+We use not the last, but the first. We do not say: “You must believe this, for the [Scripture](/concepts/revelation) which says so is divine,” but we say: You must believe for such and such a reason, which are weak arguments, since reason bends itself to all.
 
 If we submit all to reason our religion will have nothing in it mysterious or supernatural. If we violate the principles of reason, our religion will be absurd and ridiculous.
 
-Saint Augustine. Reason would never submit if it did not judge that on some occasions submission is a duty.
+Saint [Augustine](/figures/augustine). Reason would never submit if it did not judge that on some occasions submission is a duty.
 
 It is then right that it should submit, when it judges that it ought to submit.
 
@@ -3787,9 +3792,9 @@ A person said to me one day that when he came from confession he felt great joy 
 
 The knowledge of God is very far from the love of him.
 
-We are not wearied of eating and sleeping every day, because hunger and drowsiness are renewed; without that we should be weary of them. Thus without the hunger of spiritual things we grow weary of them. Hunger after righteousness, the eighth beatitude.
+We are not wearied of eating and sleeping every day, because hunger and drowsiness are renewed; without that we should be weary of them. Thus without the hunger of spiritual things we grow weary of them. Hunger after righteousness, the eighth [beatitude](/positions/beatitude).
 
-The conduct of God, who disposes all things gently, is to put religion into the mind by reason, and into the heart by grace. But to will to put it into the mind and heart by force and menace is not to put religion there, but terror, terrorem potius quam religionem.
+The conduct of God, who disposes all things gently, is to put religion into the mind by reason, and into the heart by [grace](/concepts/grace). But to will to put it into the mind and heart by force and menace is not to put religion there, but terror, terrorem potius quam religionem.
 
 THE ARRANGEMENT.
 
@@ -3817,7 +3822,7 @@ The arrangement. A letter of advice to a friend to lead him to seek, and he will
 
 The arrangement. After the letter that we ought to seek God, to write the letter on the removal of obstacles; which is the discourse on the machine, on preparing the machine, on seeking by reason.
 
-The letter which shows the use of proofs by the machine. Faith is different from proof; the one is human, the other the gift of God. Justus ex fide vivit. It is this faith that God himself puts into the heart, of which the proof is often the instrument, fides ex auditu; but this faith is in the heart, and makes us say not scio, but credo.
+The letter which shows the use of proofs by the machine. Faith is different from proof; the one is human, the other the gift of God. Justus ex fide vivit. It is this faith that God himself puts into the heart, of which the proof is often the instrument, [fides](/concepts/faith) ex auditu; but this faith is in the heart, and makes us say not scio, but credo.
 
 In the letter on Injustice may come the absurdity of the rule that the elder takes all. My friend, you were born on this side the mountain, it is therefore just that your elder brother should take all.
 
@@ -3839,7 +3844,7 @@ To the chapter on Fundamentals must be added that on Things figurative touching 
 
 A letter, on the folly of human knowledge and philosophy.
 
-This letter before Diversion.
+This letter before [Diversion](/arguments/divertissement).
 
 The arrangement. — I might well have taken this discourse in some such order as the following: To show the vanity of every state of life, to show the vanity of ordinary lives, and then the vanity of philosophic lives, sceptics, stoics; but the order would not have been kept. I know a little what it is, and how few people know it. No human science can keep it. Saint Thomas did not keep it. Mathematics keep it, but these are useless by reason of their depth.
 
@@ -3847,7 +3852,7 @@ Without examining each particular occupation it will be enough to class them und
 
 OF MIRACLES IN GENERAL.
 
-THE MIRACLE OF THE HOLY THORN.
+THE [MIRACLE](/concepts/miracle) OF THE HOLY THORN.
 
 <span class="atom-split" data-atom="061" data-title="I. Kings xv. 22; Hosea vi. 6. (13/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
 
@@ -3867,7 +3872,7 @@ Objection to the rule.
 
 Discrimination between times. One rule in Moses’s day, another at present.
 
-Miracle. An effect which exceeds the natural force of the means employed, and non-miracle an effect not exceeding the natural force of the means employed. Thus those who heal by invocation of the devil work no miracle, for that does not exceed the natural power of the devil But....
+[Miracle](/concepts/miracle). An effect which exceeds the natural force of the means employed, and non-miracle an effect not exceeding the natural force of the means employed. Thus those who heal by invocation of the devil work no miracle, for that does not exceed the natural power of the devil But....
 
 The combinations of miracles.
 
@@ -3887,7 +3892,7 @@ Miracles. — How I hate those who make men doubt of miracles. Montaigne speaks 
 
 However it may be, the Church has no proofs if they are right.
 
-Montaigne against miracles.
+Montaigne [against miracles](/arguments/against_miracles).
 
 Montaigne for miracles.
 
@@ -3901,7 +3906,7 @@ Hæc dixit Isaias, quando vidit gloriam ejus, et locutus est de eo.
 
 Nos autem Jesum crucifixum.
 
-Sed plenum signis, sed plenum sapientia.
+Sed plenum signis, sed plenum [sapientia](/concepts/wisdom).
 
 Vos autem Christum non crucifixistis, et religionem sine miraculis et sine sapientia.
 
@@ -3927,7 +3932,7 @@ It is the same with prophecies, miracles, divination by dreams, casting lots, et
 
 Having considered how it comes that there are so many false miracles, false revelations, castings of lots, etc., it has appeared to me that the real cause is that there are true ones, for it would not be possible that there should be so many false miracles unless there were true, nor so many false revelations unless there were true, nor so many false religions unless there were one that is true. For if all this had never been, it is impossible that men should have imagined it, and still more impossible that so many others should have believed it. But as there have been very great things which are true and as they have been believed by great men; this impression has been produced, that almost everybody has been made capable of believing the false also; and thus instead of concluding that there are no true miracles since there are so many false, we must on the contrary say that there are true miracles since there are so many false, and that false miracles only exist for the reason that there are true; so also that there are false religions only because there is one that is true. — The objection to this is that savages have a religion. But this is because they have heard speak of the true, as appears by Saint Andrew’s cross, the deluge, the circumcision, etc. — This comes from the fact that the spirit of man, finding itself inclined to that side by truth, becomes therefore susceptible of all the falsehoods of that....
 
-I should not be a Christian were it not for the miracles, said Saint Augustine.
+I should not be a Christian were it not for the miracles, said Saint [Augustine](/figures/augustine).
 
 But for the miracles there would have been no sin in not believing in Jesus Christ.
 
@@ -3937,7 +3942,7 @@ Miracles have so great a force that it was needful that God should warn us not t
 
 And thus so far from these passages, Deut. xiii., making against the authority of miracles, nothing more marks their force. The same with Antichrist; “to seduce if it were possible even the very elect.”
 
-Abraham and Gideon are above revelation.
+Abraham and Gideon are above [revelation](/concepts/revelation).
 
 The Jews blinded themselves in judging of miracles by the Scripture. God has never left his true worshippers.
 
@@ -3945,7 +3950,7 @@ I prefer to follow Jesus Christ than any other, because he has miracle, prophecy
 
 <span class="atom-split" data-atom="062" data-title="I. Kings xv. 22; Hosea vi. 6. (14/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
 
-The Donatists. No miracle which obliged them to say it was the devil.
+The Donatists. No [miracle](/concepts/miracle) which obliged them to say it was the devil.
 
 The more we specialise God, Jesus Christ and the Church.
 
@@ -3953,7 +3958,7 @@ Jesus Christ worked miracles, then the apostles, and the early saints in great n
 
 Prophecy is not called miracle, as Saint John speaks of the first miracle in Cana, then of what Jesus Christ said to the woman of Samaria, revealing to her all her hidden life. Then he healed the centurion’s son, and Saint John calls this the second sign.
 
-Jesus Christ has verified that he was the Messiah, never in verifying his doctrine by Scripture and the prophecies, but always by his miracles.
+Jesus Christ has verified that he was the Messiah, never in verifying his doctrine by [Scripture](/concepts/revelation) and the prophecies, but always by his miracles.
 
 He proves by a miracle that he remits sins.
 
@@ -3963,7 +3968,7 @@ If they believe not Moses, neither will they believe one risen from the dead.
 
 Nicodemus recognised by his miracles, that his doctrine was of God. Scimus quia venisti a Deo, magister, nemo enim potest facere quæ tu facis, nisi Deus fuerit cum eo. He judged not of the miracles by the doctrine, but of the doctrine by the miracles.
 
-Here is no country for truth, she wanders unknown among men. God has covered her with a veil which leaves her unrecognised by those who hear not her voice; the way is open for blasphemy even against those truths which are at the least very apparent. If the truths of the Gospel are published, the contrary is also published, and questions are obscured, so that the people cannot discern, and they ask us, “What have you to make you believed rather than others? what sign do you give? you have words only, so have we, if you have miracles, good.” That doctrine must be supported by miracle is a truth of which they make a pretext to blaspheme against doctrine. And if miracles happen, it is said that miracles are not enough without doctrine, and that is another way of blaspheming against miracles.
+Here is no country for truth, she wanders unknown among men. God has covered her with a veil which leaves her unrecognised by those who hear not her voice; the way is open for blasphemy even against those truths which are at the least very apparent. If the truths of the Gospel are published, the contrary is also published, and questions are obscured, so that the people cannot discern, and they ask us, “What have you to make you believed rather than others? what sign do you give? you have words only, so have we, if you have miracles, good.” That doctrine must be supported by miracle is a truth of which they make a pretext to blaspheme against doctrine. And if miracles happen, it is said that miracles are not enough without doctrine, and that is another way of blaspheming [against miracles](/arguments/against_miracles).
 
 Jesus Christ healed the man born blind, and worked many miracles on the sabbath day, and thus he blinded the Pharisees who said that miracles must be tested by doctrine.
 
@@ -4061,7 +4066,7 @@ These three different kinds of enemies generally assail her in different ways, b
 
 Miracles are the test in doubtful matters, between Jew and Gentile, Jew and Christian, catholic and heretic, slanderer and slandered, between the two crosses.
 
-But miracles would be useless to heretics, for the Church, authorised by miracles which have already obtained credence, tells us that they have not the true faith. There is no doubt that they are not in it, because the first miracles of the Church exclude belief in theirs. Thus there is miracle against miracle, and the first and greatest are on the side of the Church.
+But miracles would be useless to heretics, for the Church, authorised by miracles which have already obtained credence, tells us that they have not the true faith. There is no doubt that they are not in it, because the first miracles of the Church exclude belief in theirs. Thus there is [miracle](/concepts/miracle) against miracle, and the first and greatest are on the side of the Church.
 
 Controversy. Abel, Cain; — Moses, the Magicians; — Elijah, the false prophets; — Jeremiah, Hananiah; — Micaiah, the false prophets; — Jesus Christ, the Pharisees; — Saint Paul, Barjesus; — the Apostles, the Exorcists; — the Christians and the infidels; — Catholics, heretics; — Elijah, Enoch, Antichrist.
 
@@ -4079,7 +4084,7 @@ Therefore miracles are useless.
 
 Now they serve, and cannot be against the truth.
 
-Therefore what Father Lingende says, that God will not allow a miracle to lead into error....
+Therefore what Father Lingende says, that God will not allow a [miracle](/concepts/miracle) to lead into error....
 
 When there shall be a dispute in the same Church, miracle will decide.
 
@@ -4089,7 +4094,7 @@ But Antichrist will work miracles.
 
 The Magicians of Pharaoh did not lead into error. Thus on Antichrist we cannot say to Jesus Christ: You have led me into error. For Antichrist will work them against Jesus Christ, and thus they cannot lead into error. Either God will not permit false miracles, or he will procure greater.
 
-If in the same Church a miracle should occur on the side of those in error, men would be led into error.
+If in the same Church a [miracle](/concepts/miracle) should occur on the side of those in error, men would be led into error.
 
 A schism is visible, a miracle is visible. But a schism is more a mark of error than a miracle is a mark of truth, therefore a miracle cannot lead into error.
 
@@ -4149,7 +4154,7 @@ Jesus Christ said that the Scriptures bear witness of him, but he did not show i
 
 Even the prophecies could not prove Jesus Christ during his life, and thus if miracles had not sufficed without doctrine, men would not have been blameworthy who did not believe in him before his death. Now those who did not believe in him during his life were sinners, as he says himself, and without excuse. Therefore they must have resisted a conclusive proof. Now they had not our proof, but only miracles, therefore miracles are enough when doctrine is not contrary, and they ought to be believed.
 
-John vii. 40. Controversy among the Jews as among Christians of our day. The one party believed in Jesus Christ, the other believed not, because of the prophecies which said he should be born in Bethlehem. They should have enquired more diligently whether he was not. For his miracles being convincing, they ought to have been quite certain of these alleged contradictions of his doctrine to the Scripture, and this obscurity did not excuse, but blinded them. Thus those who refuse to believe miracles in our day on account of an alleged but unreal contradiction, are not excused.
+John vii. 40. Controversy among the Jews as among Christians of our day. The one party believed in Jesus Christ, the other believed not, because of the prophecies which said he should be born in Bethlehem. They should have enquired more diligently whether he was not. For his miracles being convincing, they ought to have been quite certain of these alleged contradictions of his doctrine to the [Scripture](/concepts/revelation), and this obscurity did not excuse, but blinded them. Thus those who refuse to believe miracles in our day on account of an alleged but unreal contradiction, are not excused.
 
 When the people believed on him because of his miracles, the pharisees said: “This people, which doeth not the law, is accursed, but there is none of the princes or the pharisees who has believed on him, for we know that out of Galilee ariseth no prophet.” Nicodemus answered, “Doth our law judge any man before it heareth him?”
 
@@ -4253,7 +4258,7 @@ Heretics have always assailed these three notes which they have not.
 
 Those wretches, who have obliged me to speak on the foundations of Religion.
 
-Sinners purified without penitence, just men sanctified without charity, all Christians without the grace of Jesus Christ, God without power over the will of men, a predestination without mystery, a redemption without certainty.
+Sinners purified without penitence, just men sanctified without charity, all Christians without the [grace](/concepts/grace) of Jesus Christ, God without power over the will of men, a predestination without mystery, a redemption without certainty.
 
 Sinners without penitence, just men without charity, a God without power over the wills of men, a predestination without mystery.
 
@@ -4261,7 +4266,7 @@ Those who love the Church complain that they see morals corrupted, but laws at l
 
 There is a contradiction; for on the one side they say tradition must be followed, and would not dare disavow it, and on the other they will say whatever pleases them. The former will always be believed in, and indeed it would be going against them not to believe it.
 
-Politics. — We have found two obstacles to the design of comforting men. The one the interior laws of the Gospel, the other the exterior laws of the State and of Religion.
+Politics. — We have found two obstacles to the design of comforting men. The one the interior laws of the Gospel, the other the exterior laws of [the State](/concepts/state) and of Religion.
 
 We are masters of the one set of laws, the others we have dealt with in this wise: Amplienda, restringenda, a majori ad minus.
 
@@ -4289,7 +4294,7 @@ And thus the faithful have no pretext to follow that laxity which is only offere
 
 For if some of these men, who by an extraordinary vocation have made profession of retirement from the world, and have adopted the religious dress, that they might live in a more perfect state than ordinary Christians, have fallen into disorders which horrify ordinary Christians, and have become among us what the false prophets were among the Jews; this is a private and personal matter, which we must indeed deplore, but from which we can conclude nothing against the care which God takes for his Church; since all these things are so clearly foretold, and it has been long since announced that temptations would arise on account of such persons, so that when we are well instructed we see therein rather the notes of the guidance of God than his forgetfulness in regard to us.
 
-You are ignorant of the prophecies if you do not know that all this must needs happen, princes, prophets, pope, and even the priests. And yet the Church must abide. By the grace of God we are not so far gone. Woe to these priests. But we hope that God will of his mercy grant us that we be not among them.
+You are ignorant of the prophecies if you do not know that all this must needs happen, princes, prophets, pope, and even the priests. And yet the Church must abide. By the [grace](/concepts/grace) of God we are not so far gone. Woe to these priests. But we hope that God will of his mercy grant us that we be not among them.
 
 2 Saint Peter ii. False prophets in the past the image of the future.
 
@@ -4359,7 +4364,7 @@ If men knew themselves, God would heal and pardon. Ne convertantur, et sanem eos
 
 Truth is so obscure in these days, and falsehood so established, that unless we love the truth we shall be unable to know it.
 
-As Jesus Christ remained unknown among men, so his truth remains among ordinary opinions without external difference. Thus the Eucharist among ordinary bread. All faith consists in Jesus Christ and in Adam, and all morals in lust and in grace.
+As Jesus Christ remained unknown among men, so his truth remains among ordinary opinions without external difference. Thus the Eucharist among ordinary bread. All faith consists in Jesus Christ and in Adam, and all morals in lust and in [grace](/concepts/grace).
 
 “I have reserved me seven thousand.” I love the worshippers unknown to the world and even to the prophets.
 
@@ -4435,7 +4440,7 @@ Unjust persecutors of those whom God visibly protects.
 
 If they reproach you with your excesses they speak as do the heretics.
 
-If they say that the grace of Jesus Christ separates us, they are heretics.
+If they say that the [grace](/concepts/grace) of Jesus Christ separates us, they are heretics.
 
 If miracles are wrought, it is the mark of their heresy.
 
@@ -4485,7 +4490,7 @@ The synagogue, which has been treated with love as a figure of the Church, and w
 
 The miracles prove the power which God has over hearts by that which he exercises over the body.
 
-The Church has never approved a miracle among heretics.
+The Church has never approved a [miracle](/concepts/miracle) among heretics.
 
 Miracles are a support of religion. They have been the test of Jews, of Christians, of saints, of innocents, and of true believers.
 
@@ -4499,7 +4504,7 @@ This is one of the last effects of grace.
 
 If only a miracle were wrought among the Jesuits!
 
-When a miracle deceives the expectation of those in whose presence it occurs, and when there is a disproportion between the state of their faith and the instrument of the miracle it must lead them to change; but with you it is the opposite. There would be as much reason in saying that if the Eucharist raised a dead man one ought to turn Calvinist rather than remain a Catholic. But when he crowns the expectation, and those who have hoped that God would bless the remedies see themselves cured without remedies....
+When a miracle deceives the expectation of those in whose presence it occurs, and when there is a disproportion between [the state](/concepts/state) of their faith and the instrument of the miracle it must lead them to change; but with you it is the opposite. There would be as much reason in saying that if the Eucharist raised a dead man one ought to turn Calvinist rather than remain a Catholic. But when he crowns the expectation, and those who have hoped that God would bless the remedies see themselves cured without remedies....
 
 The wicked. — No sign was ever given on the part of the devil without a stronger sign on the part of God, at least unless it were foretold that this would be so.
 
@@ -4601,7 +4606,7 @@ A fructibus eorum, judge of their faith by their morals.
 
 Probability is little without corrupt means, and means are nothing without probability.
 
-There is pleasure in being able to do good, and in knowing how to do good, scire et posse. Grace and probability give this pleasure, for we can render our account to God in reliance upon their authors.
+There is pleasure in being able to do good, and in knowing how to do good, scire et posse. [Grace](/concepts/grace) and probability give this pleasure, for we can render our account to God in reliance upon their authors.
 
 Probability.
 
@@ -4673,7 +4678,7 @@ Casuists submit the decision to corrupt reason, and the choice of decisions to c
 
 They allow lust free play, and restrict scruples, whereas they should do the exact contrary.
 
-Must we slay in order that the wicked may cease to be? This is to make two wicked instead of one. Vince in bono malum. Saint Augustine.
+Must we slay in order that the wicked may cease to be? This is to make two wicked instead of one. Vince in bono malum. Saint [Augustine](/figures/augustine).
 
 The servant does not know what the master does, for the master tells him only the act and not the purpose; this is why he is so often slavishly obedient and often sins against the purpose. But Jesus Christ tells us the purpose.
 
@@ -4691,7 +4696,7 @@ On confessions and absolutions without signs of regret. God looks at the heart a
 
 God has not willed to absolve without the Church. As she has part in the offence he wills that she should have part in the pardon. He associates her with this power as kings their parliaments; but if she binds or looses without God, she is no more the Church, as in the case of parliament. For even if the king have pardoned a man, it is necessary that it should be ratified; but if the parliament ratifies without the king, or refuses to ratify on the order of the king, it is no more the parliament of the king, but a revolutionary body.
 
-The Church teaches and God inspires, both infallibly. The operation of the Church serves only to prepare for grace or for condemnation. What it does suffices for condemnation, not for inspiration.
+The Church teaches and God inspires, both infallibly. The operation of the Church serves only to prepare for [grace](/concepts/grace) or for condemnation. What it does suffices for condemnation, not for inspiration.
 
 The Church has in vain established these words, anathema, heresies. They are used against herself.
 
@@ -4717,7 +4722,7 @@ Priest still who will, as under Jeroboam.
 
 It is a horrible thing that they submit to us the discipline of the Church in our days as so excellent that it is made a crime to wish to change it Formerly it was infallibly good, and it was found it might be changed without sin, and now, such as it is, we ought not to wish it changed!
 
-It has indeed been allowed to change the custom of not making priests save with such great circumspection, that there were scarcely any who were worthy, yet we are not allowed to complain of the custom which makes so many who are unworthy.
+It has indeed been allowed to change the [custom](/concepts/custom) of not making priests save with such great circumspection, that there were scarcely any who were worthy, yet we are not allowed to complain of the custom which makes so many who are unworthy.
 
 Two sorts of people place things on the same level, as feasts and working days, Christians and priests, all sins among themselves, etc. Therefore the one set conclude that what is bad for priests is so for Christians, and the other that what is not bad for Christians is permissible for priests.
 
@@ -4727,9 +4732,9 @@ Superstition to believe propositions, etc.
 
 Faith, etc.
 
-If Saint Augustine came at this day, and was as little authorised as his defenders, he would do nothing. God governs his Church well, in that he sent him before with authority.
+If Saint [Augustine](/figures/augustine) came at this day, and was as little authorised as his defenders, he would do nothing. God governs his Church well, in that he sent him before with authority.
 
-Grace is needed to make a man into a saint, and if any man doubt this he knows not what is a saint, nor what is a man.
+[Grace](/concepts/grace) is needed to make a man into a saint, and if any man doubt this he knows not what is a saint, nor what is a man.
 
 The motions of grace, hardness of heart, external circumstances.
 
@@ -4795,7 +4800,7 @@ Saint John was to turn the hearts of the fathers to the children, and Jesus Chri
 
 The effects in communi and in particulari. The semi-Pelagians err in saying of in communi what is true only in particulari, and the Calvinists in saying in particulari what is true in communi. So it seems to me.
 
-Saint Augustine has said expressly that power would be taken away from the righteous. But it is by chance that he said it, for it might have been that the chance of saying it did not occur. But his principles make us see that when the occasion for it presented itself, it was impossible he should not say so, or that he should say anything to the contrary. It is then rather that he was forced to say it, when the occasion offered itself, than that he said it, the occasion having offered itself, the one being of necessity, the other of chance. But the two are all that we could ask.
+Saint [Augustine](/figures/augustine) has said expressly that power would be taken away from the righteous. But it is by chance that he said it, for it might have been that the chance of saying it did not occur. But his principles make us see that when the occasion for it presented itself, it was impossible he should not say so, or that he should say anything to the contrary. It is then rather that he was forced to say it, when the occasion offered itself, than that he said it, the occasion having offered itself, the one being of necessity, the other of chance. But the two are all that we could ask.
 
 The end. Are we certain? Is this principle certain? Let us examine.
 
@@ -4849,7 +4854,7 @@ Nothing makes us understand better the absurdity of a false sonnet than to consi
 
 When a natural discourse paints a passion or an effect, we feel in our mind the truth of what we read, which was there before, though we did not know it, and we are inclined to love him who makes us feel it. For he has not made a display of his own riches, but of ours, and thus this benefit renders him pleasant to us, besides that such a community of intellect necessarily inclines the heart to love.
 
-All the false beauties which we blame in Cicero have their admirers and in great number.
+All the false beauties which we blame in [Cicero](/figures/cicero) have their admirers and in great number.
 
 The last thing we decide on in writing a book is what shall be the first we put in it.
 
@@ -4985,7 +4990,7 @@ We are usually better persuaded by reasons which we have ourselves discovered, t
 
 M. de Roannez said: “Reasons come afterwards, but at first a thing pleases or shocks me, without my knowing the reason, and yet it displeased me for the reason which I only discover later.” But I believe, not that he was displeased for those reasons which he afterwards discovered, but that those reasons were only discovered because the thing was displeasing.
 
-The difference between the mathematical mind and the practical mind. — In the one the premisses are palpable, but removed from ordinary use, so that from want of habit it is difficult to look in that direction, but if we take the trouble to look, the premisses are fully visible, and we must have a totally incorrect mind if we draw wrong inferences from premisses so plain that it is scarce possible they should escape our notice.
+The difference between the mathematical mind and the practical mind. — In the one the premisses are palpable, but removed from ordinary use, so that from want of [habit](/concepts/custom) it is difficult to look in that direction, but if we take the trouble to look, the premisses are fully visible, and we must have a totally incorrect mind if we draw wrong inferences from premisses so plain that it is scarce possible they should escape our notice.
 
 But in the practical mind the premisses are taken from use and wont, and are before the eyes of every body. We have only to look that way, there is no difficulty in seeing them; it is only a question of good eyesight, but it must be good, for the premisses are so numerous and so subtle, that it is scarce possible but that some escape us. Now the omission of one premiss leads to error, thus we must have very clear sight to see all the premisses, and then an accurate mind not to draw false conclusions from known premisses.
 
@@ -5075,7 +5080,7 @@ CONTENTS
 
 1
 
-THE DIFFERENCE BETWEEN the mathematical and the intuitive mind. — In the one the principles are palpable, but removed from ordinary use; so that for want of habit it is difficult to turn one’s mind in that direction: but if one turns it thither ever so little, one sees the principles fully, and one must have a quite inaccurate mind who reasons wrongly from principles so plain that it is almost impossible they should escape notice.
+THE DIFFERENCE BETWEEN the mathematical and the intuitive mind. — In the one the principles are palpable, but removed from ordinary use; so that for want of [habit](/concepts/custom) it is difficult to turn one’s mind in that direction: but if one turns it thither ever so little, one sees the principles fully, and one must have a quite inaccurate mind who reasons wrongly from principles so plain that it is almost impossible they should escape notice.
 
 But in the intuitive mind the principles are found in common use, and are before the eyes of everybody. One has only to look, and no effort is necessary; it is only a question of good eyesight, but it must be good, for the principles are so subtle and so numerous, that it is almost impossible but that some escape notice. Now the omission of one principle leads to error; thus one must have very clear sight to see all the principles, and in the next place an accurate mind not to draw false deductions from known principles.
 
@@ -5237,11 +5242,11 @@ Beauty of omission, of judgment.
 
 31
 
-All the false beauties which we blame in Cicero have their admirers, and in great number.
+All the false beauties which we blame in [Cicero](/figures/cicero) have their admirers, and in great number.
 
 32
 
-There is a certain standard of grace and beauty which consists in a certain relation between our nature, such as it is, weak or strong, and the thing which pleases us.
+There is a certain standard of [grace](/concepts/grace) and beauty which consists in a certain relation between our nature, such as it is, weak or strong, and the thing which pleases us.
 
 Whatever is formed according to this standard pleases us, be it house, song, discourse, verse, prose, woman, birds, rivers, trees, rooms, dress, &c. Whatever is not made according to this standard displeases those who have good taste.
 
@@ -5253,7 +5258,7 @@ Nothing makes us understand better the ridiculousness of a false sonnet than to 
 
 33
 
-Poetical beauty. — As we speak of poetical beauty, so ought we to speak of mathematical beauty and medical beauty. But we do not do so; and the reason is that we know well what is the object of mathematics, and that it consists in proofs, and what is the object of medicine, and that it consists in healing. But we do not know in what grace consists, which is the object of poetry. We do not know the natural model which we ought to imitate; and through lack of this knowledge, we have coined fantastic terms, “The golden age,” “The wonder of our times,” “Fatal,” &c., and call this jargon poetical beauty.
+Poetical beauty. — As we speak of poetical beauty, so ought we to speak of mathematical beauty and medical beauty. But we do not do so; and the reason is that we know well what is the object of mathematics, and that it consists in proofs, and what is the object of medicine, and that it consists in healing. But we do not know in what [grace](/concepts/grace) consists, which is the object of poetry. We do not know the natural model which we ought to imitate; and through lack of this knowledge, we have coined fantastic terms, “The golden age,” “The wonder of our times,” “Fatal,” &c., and call this jargon poetical beauty.
 
 But whoever imagines a woman after this model, which consists in saying little things in big words, will see a pretty girl adorned with mirrors and chains, at whom he will smile; because we know better wherein consists the charm of woman than the charm of verse. But those who are ignorant would admire her in this dress, and there are many villages in which she would be taken for the queen; hence we call sonnets made after this model “Village Queens.”
 
@@ -5401,7 +5406,7 @@ Second part: Happiness of man with God.
 
 Or, First part: That nature is corrupt. Proved by nature itself.
 
-Second part: That there is a Redeemer. Proved by Scripture.
+Second part: That there is a Redeemer. Proved by [Scripture](/concepts/revelation).
 
 61
 
@@ -5451,11 +5456,11 @@ Too much and too little wine. Give him none, he cannot find truth; give him too 
 
 72
 
-Man’s disproportion. — [This is where our innate knowledge leads us. If it be not true, there is no truth in man; and if it be true, he finds therein great cause for humiliation, being compelled to abase himself in one way or another. And since he cannot exist without this knowledge, I wish that, before entering on deeper researches into nature, he would consider her both seriously and at leisure, that he would reflect upon himself also, and knowing what proportion there is. . . .] Let man then contemplate the whole of nature in her full and grand majesty, and turn his vision from the low objects which surround him. Let him gaze on that brilliant light, set like an eternal lamp to illumine the universe; let the earth appear to him a point in comparison with the vast circle described by the sun; and let him wonder at the fact that this vast circle is itself but a very fine point in comparison with that described by the stars in their revolution round the firmament. But if our view be arrested there, let our imagination pass beyond; it will sooner exhaust the power of conception than nature that of supplying material for conception. The whole visible world is only an imperceptible atom in the ample bosom of nature. No idea approaches it. We may enlarge our conceptions beyond all imaginable space; we only produce atoms in comparison with the reality of things. It is an infinite sphere, the centre of which is everywhere, the circumference nowhere. In short it is the greatest sensible mark of the almighty power of God, that imagination loses itself in that thought.
+Man’s disproportion. — [This is where our innate knowledge leads us. If it be not true, there is no truth in man; and if it be true, he finds therein great cause for humiliation, being compelled to abase himself in one way or another. And since he cannot exist without this knowledge, I wish that, before entering on deeper researches into nature, he would consider her both seriously and at leisure, that he would reflect upon himself also, and knowing what proportion there is. . . .] Let man then contemplate the whole of nature in her full and grand majesty, and turn his vision from the low objects which surround him. Let him gaze on that brilliant light, set like an eternal lamp to illumine the universe; let the earth appear to him a point in comparison with the vast circle described by the sun; and let him wonder at the fact that this vast circle is itself but a very fine point in comparison with that described by the stars in their [revolution](/positions/revolution) round the firmament. But if our view be arrested there, let our imagination pass beyond; it will sooner exhaust the power of conception than nature that of supplying material for conception. The whole visible world is only an imperceptible atom in the ample bosom of nature. No idea approaches it. We may enlarge our conceptions beyond all imaginable space; we only produce [atoms](/positions/atomism) in comparison with the reality of things. It is an infinite sphere, the centre of which is everywhere, the circumference nowhere. In short it is the greatest sensible mark of the almighty power of God, that imagination loses itself in that thought.
 
 Returning to himself, let man consider what he is in comparison with all existence; let him regard himself as lost in this remote corner of nature; and from the little cell in which he finds himself lodged, I mean the universe, let him estimate at their true value the earth, kingdoms, cities, and himself. What is a man in the Infinite?
 
-But to show him another prodigy equally astonishing, let him examine the most delicate things he knows. Let a mite be given him, with its minute body and parts incomparably more minute, limbs with their joints, veins in the limbs, blood in the veins, humours in the blood, drops in the humours, vapours in the drops. Dividing these last things again, let him exhaust his powers of conception, and let the last object at which he can arrive be now that of our discourse. Perhaps he will think that here is the smallest point in nature. I will let him see therein a new abyss. I will paint for him not only the visible universe, but all that he can conceive of nature’s immensity in the womb of this abridged atom. Let him see therein an infinity of universes, each of which has its firmament, its planets, its earth, in the same proportion as in the visible world; in each earth animals, and in the last mites, in which he will find again all that the first had, finding still in these others the same thing without end and without cessation. Let him lose himself in wonders as amazing in their littleness as the others in their vastness. For who will not be astounded at the fact that our body, which a little while ago was imperceptible in the universe, itself imperceptible in the bosom of the whole, is now a colossus, a world, or rather a whole, in respect of the nothingness which we cannot reach? He who regards himself in this light will be afraid of himself, and observing himself sustained in the body given him by nature between those two abysses of the Infinite and Nothing, will tremble at the sight of these marvels; and I think that, as his curiosity changes into admiration, he will be more disposed to contemplate them in silence than to examine them with presumption.
+But to show him another prodigy equally astonishing, let him examine the most delicate things he knows. Let a mite be given him, with its minute body and parts incomparably more minute, limbs with their joints, veins in the limbs, blood in the veins, humours in the blood, drops in the humours, vapours in the drops. Dividing these last things again, let him exhaust his powers of conception, and let the last object at which he can arrive be now that of our discourse. Perhaps he will think that here is the smallest point in nature. I will let him see therein a new abyss. I will paint for him not only the visible universe, but all that he can conceive of nature’s immensity in the womb of this abridged atom. Let him see therein an [infinity](/concepts/infinity) of universes, each of which has its firmament, its planets, its earth, in the same proportion as in the visible world; in each earth animals, and in the last mites, in which he will find again all that the first had, finding still in these others the same thing without end and without cessation. Let him lose himself in wonders as amazing in their littleness as the others in their vastness. For who will not be astounded at the fact that our body, which a little while ago was imperceptible in the universe, itself imperceptible in the bosom of the whole, is now a colossus, a world, or rather a whole, in respect of the nothingness which we cannot reach? He who regards himself in this light will be afraid of himself, and observing himself sustained in the body given him by nature between those two abysses of the Infinite and Nothing, will tremble at the sight of these marvels; and I think that, as his curiosity changes into admiration, he will be more disposed to contemplate them in silence than to examine them with presumption.
 
 For in fact what is man in nature? A Nothing in comparison with the Infinite, an All in comparison with the Nothing, a mean between nothing and everything. Since he is infinitely removed from comprehending the extremes, the end of things and their beginning are hopelessly hidden from him in an impenetrable secret, he is equally incapable of seeing the Nothing from which he was made, and the Infinite in which he is swallowed up.
 
@@ -5465,7 +5470,7 @@ What will he do then, but perceive the appearance of the middle of things, in an
 
 Through failure to contemplate these Infinites, men have rashly rushed into the examination of nature, as though they bore some proportion to her. It is strange that they have wished to understand the beginnings of things, and thence to arrive at the knowledge of the whole, with a presumption as infinite as their object. For surely this design cannot be formed without presumption or without a capacity infinite like nature.
 
-If we are well informed, we understand that, as nature has graven her image and that of her Author on all things, they almost all partake of her double infinity. Thus we see that all the sciences are infinite in the extent of their researches. For who doubts that geometry, for instance, has an infinite infinity of problems to solve? They are also infinite in the multitude and fineness of their premises; for it is clear that those which are put forward as ultimate are not self-supporting, but are based on others which, again having others for their support, do not permit of finality. But we represent some as ultimate for reason, in the same way as in regard to material objects we call that an indivisible point beyond which our senses can no longer perceive anything, although by its nature it is infinitely divisible.
+If we are well informed, we understand that, as nature has graven her image and that of her Author on all things, they almost all partake of her double [infinity](/concepts/infinity). Thus we see that all the sciences are infinite in the extent of their researches. For who doubts that geometry, for instance, has an infinite infinity of problems to solve? They are also infinite in the multitude and fineness of their premises; for it is clear that those which are put forward as ultimate are not self-supporting, but are based on others which, again having others for their support, do not permit of finality. But we represent some as ultimate for reason, in the same way as in regard to material objects we call that an indivisible point beyond which our senses can no longer perceive anything, although by its nature it is infinitely divisible.
 
 Of these two Infinites of science, that of greatness is the most palpable, and hence a few persons have pretended to know all things. “I will speak of the whole,” said Democritus.
 
@@ -5477,13 +5482,13 @@ Let us then take our compass; we are something, and we are not everything. The n
 
 Our intellect holds the same position in the world of thought as our body occupies in the expanse of nature.
 
-Limited as we are in every way, this state which holds the mean between two extremes is present in all our impotence. Our senses perceive no extreme. Too much sound deafens us; too much light dazzles us; too great distance or proximity hinders our view. Too great length and too great brevity of discourse tend to obscurity; too much truth is paralysing (I know some who cannot understand that to take four from nothing leaves nothing). First principles are too self-evident for us; too much pleasure disagrees with us. Too many concords are annoying in music; too many benefits irritate us; we wish to have the wherewithal to over-pay our debts. Beneficia eo usque læta sunt dum videntur exsolvi posse; ubi multum antevenere, pro gratia odium redditur.4 We feel neither extreme heat nor extreme cold. Excessive qualities are prejudicial to us and not perceptible by the senses; we do not feel but suffer them. Extreme youth and extreme age hinder the mind, as also too much and too little education. In short, extremes are for us as though they were not, and we are not within their notice. They escape us, or we them.
+Limited as we are in every way, this state which holds the mean between two extremes is present in all our impotence. Our senses perceive no extreme. Too much sound deafens us; too much light dazzles us; too great distance or proximity hinders our view. Too great length and too great brevity of discourse tend to obscurity; too much truth is paralysing (I know some who cannot understand that to take four from nothing leaves nothing). First principles are too self-evident for us; too much pleasure disagrees with us. Too many concords are annoying in music; too many benefits irritate us; we wish to have the wherewithal to over-pay our debts. Beneficia eo usque læta sunt dum videntur exsolvi posse; ubi multum antevenere, pro [gratia](/concepts/grace) odium redditur.4 We feel neither extreme heat nor extreme cold. Excessive qualities are prejudicial to us and not perceptible by the senses; we do not feel but suffer them. Extreme youth and extreme age hinder the mind, as also too much and too little education. In short, extremes are for us as though they were not, and we are not within their notice. They escape us, or we them.
 
 This is our true state; this is what makes us incapable of certain knowledge and of absolute ignorance. We sail within a vast sphere, ever drifting in uncertainty, driven from end to end. When we think to attach ourselves to any point and to fasten to it, it wavers and leaves us; and if we follow it, it eludes our grasp, slips past us, and vanishes for ever. Nothing stays for us. This is our natural condition, and yet most contrary to our inclination; we burn with desire to find solid ground and an ultimate sure foundation whereon to build a tower reaching to the Infinite. But our whole groundwork cracks, and the earth opens to abysses.
 
 Let us therefore not look for certainty and stability. Our reason is always deceived by fickle shadows; nothing can fix the finite between the two Infinites, which both enclose and fly from it.
 
-If this be well understood, I think that we shall remain at rest, each in the state wherein nature has placed him. As this sphere which has fallen to us as our lot is always distant from either extreme, what matters it that man should have a little more knowledge of the universe? If he has it, he but gets a little higher. Is he not always infinitely removed from the end, and is not the duration of our life equally removed from eternity, even if it lasts ten years longer?
+If this be well understood, I think that we shall remain at rest, each in [the state](/concepts/state) wherein nature has placed him. As this sphere which has fallen to us as our lot is always distant from either extreme, what matters it that man should have a little more knowledge of the universe? If he has it, he but gets a little higher. Is he not always infinitely removed from the end, and is not the duration of our life equally removed from [eternity](/positions/eternity), even if it lasts ten years longer?
 
 In comparison with these Infinites all finites are equal, and I see no reason for fixing our imagination on one more than on another. The only comparison which we make of ourselves to the finite is painful to us.
 
@@ -5495,7 +5500,7 @@ Since everything then is cause and effect, dependent and supporting, mediate and
 
 [The eternity of things in itself or in God must also astonish our brief duration. The fixed and constant immobility of nature, in comparison with the continual change which goes on within us, must have the same effect.]
 
-And what completes our incapability of knowing things, is the fact that they are simple, and that we are composed of two opposite natures, different in kind, soul and body. For it is impossible that our rational part should be other than spiritual; and if any one maintain that we are simply corporeal, this would far more exclude us from the knowledge of things, there being nothing so inconceivable as to say that matter knows itself. It is impossible to imagine how it should know itself.
+And what completes our incapability of knowing things, is the fact that they are simple, and that we are composed of two opposite natures, different in kind, [soul and body](/axes/soul_body). For it is impossible that our rational part should be other than spiritual; and if any one maintain that we are simply corporeal, this would far more exclude us from the knowledge of things, there being nothing so inconceivable as to say that matter knows itself. It is impossible to imagine how it should know itself.
 
 So if we are simply material, we can know nothing at all; and if we are composed of mind and matter, we cannot know perfectly things which are simple, whether spiritual or corporeal. Hence it comes that almost all philosophers have confused ideas of things, and speak of material things in spiritual terms, and of spiritual things in material terms. For they say boldly that bodies have a tendency to fall, that they seek after their centre, that they fly from destruction, that they fear the void, that they have inclinations, sympathies, antipathies, all of which attributes pertain only to mind. And in speaking of minds, they consider them as in a place, and attribute to them movement from one place to another; and these are qualities which belong only to bodies.
 
@@ -5523,7 +5528,7 @@ This would doubtless suffice, if reason were reasonable. She is reasonable enoug
 
 A letter on the foolishness of human knowledge and philosophy.
 
-This letter before Diversion.
+This letter before [Diversion](/arguments/divertissement).
 
 Felix qui potuit … Nihil admirari.
 
@@ -5551,7 +5556,7 @@ Descartes useless and uncertain.
 
 80
 
-How comes it that a cripple does not offend us, but that a fool does? Because a cripple recognises that we walk straight, whereas a fool declares that it is we who are silly; if it were not so, we should feel pity and not anger.
+How comes it that a cripple does not offend us, but that a fool does? Because a cripple recognises that we walk straight, whereas a fool declares that it is we who are silly; if it were not so, we should feel pity and not [anger](/concepts/anger).
 
 Epictetus asks still more strongly: “Why are we not angry if we are told that we have a headache, and why are we angry if we are told that we reason badly, or choose wrongly?” The reason is that we are quite certain that we have not a headache, or are not lame, but we are not so sure that we make a true choice. So having assurance only because we see with our whole sight, it puts us into suspense and surprise when another with his whole sight sees the opposite, and still more so when a thousand others deride our choice. For we must prefer our own lights to those of so many others, and that is bold and difficult. There is never this contradiction in the feelings towards a cripple.
 
@@ -5589,7 +5594,7 @@ We cannot even see an advocate in his robe and with his cap on his head, without
 
 Not only are old impressions capable of misleading us; the charms of novelty have the same power. Hence arise all the disputes of men, who taunt each other either with following the false impressions of childhood or with running rashly after the new. Who keeps the due mean? Let him appear and prove it. There is no principle, however natural to us from infancy, which may not be made to pass for a false impression either of education or of sense.
 
-“Because,” say some, “you have believed from childhood that a box was empty when you saw nothing in it, you have believed in the possibility of a vacuum. This is an illusion of your senses, strengthened by custom, which science must correct.” “Because,” say others, “you have been taught at school that there is no vacuum, you have perverted your common sense which clearly comprehended it, and you must correct this by returning to your first state.” Which has deceived you, your senses or your education?
+“Because,” say some, “you have believed from childhood that a box was empty when you saw nothing in it, you have believed in the possibility of a vacuum. This is an illusion of your senses, strengthened by [custom](/concepts/custom), which science must correct.” “Because,” say others, “you have been taught at school that there is no vacuum, you have perverted your common sense which clearly comprehended it, and you must correct this by returning to your first state.” Which has deceived you, your senses or your education?
 
 We have another source of error in diseases. They spoil the judgment and the senses; and if the more serious produce a sensible change, I do not doubt that slighter ills produce a proportionate impression.
 
@@ -5601,7 +5606,7 @@ Justice and truth are two such subtle points, that our tools are too blunt to to
 
 83
 
-We must thus begin the chapter on the deceptive powers. Man is only a subject full of error, natural and ineffaceable, without grace. Nothing shows him the truth. Everything deceives him. These two sources of truth, reason and the senses, besides being both wanting in sincerity, deceive each other in turn. The senses mislead the reason with false appearances, and receive from reason in their turn the same trickery which they apply to her; reason has her revenge. The passions of the soul trouble the senses, and make false impressions upon them. They rival each other in falsehood and deception.
+We must thus begin the chapter on the deceptive powers. Man is only a subject full of error, natural and ineffaceable, without [grace](/concepts/grace). Nothing shows him the truth. Everything deceives him. These two sources of truth, reason and the senses, besides being both wanting in sincerity, deceive each other in turn. The senses mislead the reason with false appearances, and receive from reason in their turn the same trickery which they apply to her; reason has her revenge. The passions of the soul trouble the senses, and make false impressions upon them. They rival each other in falsehood and deception.
 
 But besides those errors which arise accidentally and through lack of intelligence, with these heterogeneous faculties…
 
@@ -5665,7 +5670,7 @@ When we are accustomed to use bad reasons for proving natural effects, we are no
 
 97
 
-The most important affair in life is the choice of a calling; chance decides it. Custom makes men masons, soldiers, slaters. “He is a good slater,” says one, and, speaking of soldiers, remarks, “They are perfect fools.” But others affirm, “There is nothing great but war, the rest of men are good for nothing.” We choose our callings according as we hear this or that praised or despised in our childhood, for we naturally love truth and hate folly. These words move us; the only error is in their application. So great is the force of custom that out of those whom nature has only made men, are created all conditions of men. For some districts are full of masons, others of soldiers, etc. Certainly nature is not so uniform. It is custom then which does this, for it constrains nature. But sometimes nature gains the ascendancy, and preserves man’s instinct, in spite of all custom, good or bad.
+The most important affair in life is the choice of a calling; chance decides it. [Custom](/concepts/custom) makes men masons, soldiers, slaters. “He is a good slater,” says one, and, speaking of soldiers, remarks, “They are perfect fools.” But others affirm, “There is nothing great but war, the rest of men are good for nothing.” We choose our callings according as we hear this or that praised or despised in our childhood, for we naturally love truth and hate folly. These words move us; the only error is in their application. So great is the force of custom that out of those whom nature has only made men, are created all conditions of men. For some districts are full of masons, others of soldiers, etc. Certainly nature is not so uniform. It is custom then which does this, for it constrains nature. But sometimes nature gains the ascendancy, and preserves man’s instinct, in spite of all custom, good or bad.
 
 98
 
@@ -5739,7 +5744,7 @@ Although people may have no interest in what they are saying, we must not absolu
 
 109
 
-When we are well we wonder what we would do if we were ill, but when we are ill we take medicine cheerfully; the illness persuades us to do so. We have no longer the passions and desires for amusements and promenades which health gave to us, but which are incompatible with the necessities of illness. Nature gives us, then, passions and desires suitable to our present state. We are only troubled by the fears which we, and not nature, give ourselves, for they add to the state in which we are the passions of the state in which we are not.
+When we are well we wonder what we would do if we were ill, but when we are ill we take medicine cheerfully; the illness persuades us to do so. We have no longer the passions and desires for amusements and promenades which health gave to us, but which are incompatible with the necessities of illness. Nature gives us, then, passions and desires suitable to our present state. We are only troubled by the fears which we, and not nature, give ourselves, for they add to [the state](/concepts/state) in which we are the passions of the state in which we are not.
 
 As nature makes us always unhappy in every state, our desires picture to us a happy state; because they add to the state in which we are the pleasures of the state in which we are not. And if we attained to these pleasures, we should not be happy after all; because we should have other desires natural to this new state.
 
@@ -5771,7 +5776,7 @@ I can never judge of the same thing exactly in the same way. I cannot judge of m
 
 Variety. — Theology is a science, but at the same time how many sciences? A man is a whole; but if we dissect him, will he be the head, the heart, the stomach, the veins, each vein, each portion of a vein, the blood, each humour in the blood?
 
-A town, a country-place, is from afar a town and a country-place. But, as we draw near, there are houses, trees, tiles, leaves, grass, ants, limbs of ants, in infinity. All this is contained under the name of country-place.
+A town, a country-place, is from afar a town and a country-place. But, as we draw near, there are houses, trees, tiles, leaves, grass, ants, limbs of ants, in [infinity](/concepts/infinity). All this is contained under the name of country-place.
 
 116
 
@@ -5797,7 +5802,7 @@ All is made and led by the same master, root, branches, and fruits; principles a
 
 121
 
-Nature always begins the same things again, the years, the days, the hours; in like manner spaces and numbers follow each other from beginning to end. Thus is made a kind of infinity and eternity. Not that anything in all this is infinite and eternal, but these finite realities are infinitely multiplied. Thus it seems to me to be only the number which multiplies them that is infinite.
+Nature always begins the same things again, the years, the days, the hours; in like manner spaces and numbers follow each other from beginning to end. Thus is made a kind of infinity and [eternity](/positions/eternity). Not that anything in all this is infinite and eternal, but these finite realities are infinitely multiplied. Thus it seems to me to be only the number which multiplies them that is infinite.
 
 122
 
@@ -5839,7 +5844,7 @@ Restlessness. — If a soldier, or labourer, complain of the hardship of his lot
 
 131
 
-Weariness. — Nothing is so insufferable to man as to be completely at rest, without passions, without business, without diversion, without study. He then feels his nothingness, his forlornness, his insufficiency, his dependence, his weakness, his emptiness. There will immediately arise from the depth of his heart weariness, gloom, sadness, fretfulness, vexation, despair.
+Weariness. — Nothing is so insufferable to man as to be completely at rest, without passions, without business, without [diversion](/arguments/divertissement), without study. He then feels his nothingness, his forlornness, his insufficiency, his dependence, his weakness, his emptiness. There will immediately arise from the depth of his heart weariness, gloom, sadness, fretfulness, vexation, despair.
 
 132
 
@@ -5913,7 +5918,7 @@ Thus so wretched is man that he would weary even without any cause for weariness
 
 But will you say what object has he in all this? The pleasure of bragging to-morrow among his friends that he has played better than another. So others sweat in their own rooms to show to the learned that they have solved a problem in algebra, which no one had hitherto been able to solve. Many more expose themselves to extreme perils, in my opinion as foolishly, in order to boast afterwards that they have captured a town. Lastly, others wear themselves out in studying all these things, not in order to become wiser, but only in order to prove that they know them; and these are the most senseless of the band, since they are so knowingly, whereas one may suppose of the others, that if they knew it, they would no longer be foolish.
 
-This man spends his life without weariness in playing every day for a small stake. Give him each morning the money he can win each day, on condition he does not play; you make him miserable. It will perhaps be said that he seeks the amusement of play and not the winnings. Make him then play for nothing; he will not become excited over it, and will feel bored. It is then not the amusement alone that he seeks; a languid and passionless amusement will weary him. He must get excited over it, and deceive himself by the fancy that he will be happy to win what he would not have as a gift on condition of not playing; and he must make for himself an object of passion, and excite over it his desire, his anger, his fear, to obtain his imagined end, as children are frightened at the face they have blackened.
+This man spends his life without weariness in playing every day for a small stake. Give him each morning the money he can win each day, on condition he does not play; you make him miserable. It will perhaps be said that he seeks the amusement of play and not the winnings. Make him then play for nothing; he will not become excited over it, and will feel bored. It is then not the amusement alone that he seeks; a languid and passionless amusement will weary him. He must get excited over it, and deceive himself by the fancy that he will be happy to win what he would not have as a gift on condition of not playing; and he must make for himself an object of passion, and excite over it his desire, his [anger](/concepts/anger), his fear, to obtain his imagined end, as children are frightened at the face they have blackened.
 
 Whence comes it that this man, who lost his only son a few months ago, or who this morning was in such trouble through being distressed by lawsuits and quarrels, now no longer thinks of them? Do not wonder; he is quite taken up in looking out for the boar which his dogs have been hunting so hotly for the last six hours. He requires nothing more. However full of sadness a man may be, he is happy for the time, if you can prevail upon him to enter into some amusement; and however happy a man may be, he will soon be discontented and wretched, if he be not diverted and occupied by some passion or pursuit which prevents weariness from overcoming him. Without amusement there is no joy; with amusement there is no sadness. And this also constitutes the happiness of persons in high position, that they have a number of people to amuse them, and have the power to keep themselves in this state.
 
@@ -5929,7 +5934,7 @@ Men spend their time in following a ball or a hare; it is the pleasure even of k
 
 142
 
-Diversion. — Is not the royal dignity sufficiently great in itself to make its possessor happy by the mere contemplation of what he is? Must he be diverted from this thought like ordinary folk? I see well that a man is made happy by diverting him from the view of his domestic sorrows so as to occupy all his thoughts with the care of dancing well. But will it be the same with a king, and will he be happier in the pursuit of these idle amusements than in the contemplation of his greatness? And what more satisfactory object could be presented to his mind? Would it not be a deprivation of his delight for him to occupy his soul with the thought of how to adjust his steps to the cadence of an air, or of how to throw a [ball] skilfully, instead of leaving it to enjoy quietly the contemplation of the majestic glory which encompasses him? Let us make the trial; let us leave a king all alone to reflect on himself quite at leisure, without any gratification of the senses, without any care in his mind, without society; and we will see that a king without diversion is a man full of wretchedness. So this is carefully avoided, and near the persons of kings there never fail to be a great number of people who see to it that amusement follows business, and who watch all the time of their leisure to supply them with delights and games, so that there is no blank in it. In fact, kings are surrounded with persons who are wonderfully attentive in taking care that the king be not alone and in a state to think of himself, knowing well that he will be miserable, king though he be, if he meditate on self.
+[Diversion](/arguments/divertissement). — Is not the royal dignity sufficiently great in itself to make its possessor happy by the mere contemplation of what he is? Must he be diverted from this thought like ordinary folk? I see well that a man is made happy by diverting him from the view of his domestic sorrows so as to occupy all his thoughts with the care of dancing well. But will it be the same with a king, and will he be happier in the pursuit of these idle amusements than in the contemplation of his greatness? And what more satisfactory object could be presented to his mind? Would it not be a deprivation of his delight for him to occupy his soul with the thought of how to adjust his steps to the cadence of an air, or of how to throw a [ball] skilfully, instead of leaving it to enjoy quietly the contemplation of the majestic glory which encompasses him? Let us make the trial; let us leave a king all alone to reflect on himself quite at leisure, without any gratification of the senses, without any care in his mind, without society; and we will see that a king without diversion is a man full of wretchedness. So this is carefully avoided, and near the persons of kings there never fail to be a great number of people who see to it that amusement follows business, and who watch all the time of their leisure to supply them with delights and games, so that there is no blank in it. In fact, kings are surrounded with persons who are wonderfully attentive in taking care that the king be not alone and in a state to think of himself, knowing well that he will be miserable, king though he be, if he meditate on self.
 
 In all this I am not talking of Christian kings as Christians, but only as kings.
 
@@ -5975,7 +5980,7 @@ Vanity is so anchored in the heart of man that a soldier, a soldier’s servant,
 
 Glory. — Admiration spoils all from infancy. Ah! How well said! Ah! How well done! How well-behaved he is! &c.
 
-The children of Port-Royal, who do not receive this stimulus of envy and glory, fall into carelessness.
+The children of [Port-Royal](/schools/jansenism), who do not receive this stimulus of envy and glory, fall into carelessness.
 
 152
 
@@ -6017,7 +6022,7 @@ Noble deeds are most estimable when hidden. When I see some of these in history 
 
 Sneezing absorbs all the functions of the soul, as well as work does; but we do not draw therefrom the same conclusions against the greatness of man, because it is against his will. And although we bring it on ourselves, it is nevertheless against our will that we sneeze. It is not in view of the act itself; it is for another end. And thus it is not a proof of the weakness of man, and of his slavery under that action.
 
-It is not disgraceful for man to yield to pain, and it is disgraceful to yield to pleasure. This is not because pain comes to us from without, and we ourselves seek pleasure; for it is possible to seek pain, and yield to it purposely, without this kind of baseness. Whence comes it, then, that reason thinks it honourable to succumb under stress of pain, and disgraceful to yield to the attack of pleasure? It is because pain does not tempt and attract us. It is we ourselves who choose it voluntarily, and will it to prevail over us. So that we are masters of the situation; and in this man yields to himself. But in pleasure it is man who yields to pleasure. Now only mastery and sovereignty bring glory, and only slavery brings shame.
+It is not disgraceful for man to yield to pain, and it is disgraceful to yield to pleasure. This is not because pain comes to us from without, and we ourselves seek pleasure; for it is possible to seek pain, and yield to it purposely, without this kind of baseness. Whence comes it, then, that reason thinks it honourable to succumb under stress of pain, and disgraceful to yield to the attack of pleasure? It is because pain does not tempt and attract us. It is we ourselves who choose it voluntarily, and will it to prevail over us. So that we are masters of the situation; and in this man yields to himself. But in pleasure it is man who yields to pleasure. Now only mastery and [sovereignty](/positions/sovereignty) bring glory, and only slavery brings shame.
 
 161
 
@@ -6035,7 +6040,7 @@ Vanity. — The cause and the effects of love: Cleopatra.
 
 164
 
-He who does not see the vanity of the world is himself very vain. Indeed who do not see it but youths who are absorbed in fame, diversion, and the thought of the future? But take away diversion, and you will see them dried up with weariness. They feel then their nothingness without knowing it; for it is indeed to be unhappy to be in insufferable sadness as soon as we are reduced to thinking of self, and have no diversion.
+He who does not see the vanity of the world is himself very vain. Indeed who do not see it but youths who are absorbed in fame, [diversion](/arguments/divertissement), and the thought of the future? But take away diversion, and you will see them dried up with weariness. They feel then their nothingness without knowing it; for it is indeed to be unhappy to be in insufferable sadness as soon as we are reduced to thinking of self, and have no diversion.
 
 165
 
@@ -6061,7 +6066,7 @@ Despite these miseries, man wishes to be happy, and only wishes to be happy, and
 
 170
 
-Diversion. — If man were happy, he would be the more so, the less he was diverted, like the Saints and God. — Yes; but is it not to be happy to have a faculty of being amused by diversion? — No; for that comes from elsewhere and from without, and thus is dependent, and therefore subject to be disturbed by a thousand accidents, which bring inevitable griefs.
+[Diversion](/arguments/divertissement). — If man were happy, he would be the more so, the less he was diverted, like the Saints and God. — Yes; but is it not to be happy to have a faculty of being amused by diversion? — No; for that comes from elsewhere and from without, and thus is dependent, and therefore subject to be disturbed by a thousand accidents, which bring inevitable griefs.
 
 171
 
@@ -6091,7 +6096,7 @@ Cromwell was about to ravage all Christendom; the royal family was undone, and h
 
 177
 
-[Three hosts.] Would he who had possessed the friendship of the King of England, the King of Poland, and the Queen of Sweden, have believed he would lack a refuge and shelter in the world?
+[Three hosts.] Would he who had possessed the [friendship](/concepts/friendship) of the King of England, the King of Poland, and the Queen of Sweden, have believed he would lack a refuge and shelter in the world?
 
 178
 
@@ -6127,7 +6132,7 @@ ENDNOTES.
 
 4 “Benefits are pleasant while it seems possible to requite them; when they become much greater, they produce hatred rather than gratitude.” — Tacitus.
 
-5 “The manner in which spirits are united to bodies cannot be understood by men, yet such is man.” — St. Augustine.
+5 “The manner in which spirits are united to bodies cannot be understood by men, yet such is man.” — St. [Augustine](/figures/augustine).
 
 6 “Happy he who could understand the causes of things.” — Virgil.
 
@@ -6163,7 +6168,7 @@ And then to make people seek Him among the philosophers, sceptics, and dogmatist
 
 185
 
-The conduct of God, who disposes all things kindly, is to put religion into the mind by reason, and into the heart by grace. But to will to put it into the mind and heart by force and threats is not to put religion there, but terror, terorrem potius quam religionem.
+The conduct of God, who disposes all things kindly, is to put religion into the mind by reason, and into the heart by [grace](/concepts/grace). But to will to put it into the mind and heart by force and threats is not to put religion there, but terror, terorrem potius quam religionem.
 
 186
 
@@ -6203,7 +6208,7 @@ Quid fiet hominibus qui minima contemnunt, majora non credunt.
 
 …Let them at least learn what is the religion they attack, before attacking it. If this religion boasted of having a clear view of God, and of possessing it open and unveiled, it would be attacking it to say that we see nothing in the world which shows it with this clearness. But since, on the contrary, it says that men are in darkness and estranged from God, that He has hidden Himself from their knowledge, that this is in fact the name which He gives Himself in the Scriptures, Deus absconditus; and finally, if it endeavours equally to establish these two things: that God has set up in the Church visible signs to make Himself known to those who should seek Him sincerely, and that He has nevertheless so disguised them that He will only be perceived by those who seek Him with all their heart; what advantage can they obtain, when, in the negligence with which they make profession of being in search of the truth, they cry out that nothing reveals it to them; and since that darkness in which they are, and with which they upbraid the Church, establishes only one of the things which she affirms, without touching the other, and, very far from destroying, proves her doctrine?
 
-In order to attack it, they should have protested that they had made every effort to seek Him everywhere, and even in that which the Church proposes for their instruction, but without satisfaction. If they talked in this manner, they would in truth be attacking one of her pretensions. But I hope here to show that no reasonable person can speak thus, and I venture even to say that no one has ever done so. We know well enough how those who are of this mind behave. They believe they have made great efforts for their instruction, when they have spent a few hours in reading some book of Scripture, and have questioned some priest on the truths of the faith. After that, they boast of having made vain search in books and among men. But, verily, I will tell them what I have often said, that this negligence is insufferable. We are not here concerned with the trifling interests of some stranger, that we should treat it in this fashion; the matter concerns ourselves and our all.
+In order to attack it, they should have protested that they had made every effort to seek Him everywhere, and even in that which the Church proposes for their instruction, but without satisfaction. If they talked in this manner, they would in truth be attacking one of her pretensions. But I hope here to show that no reasonable person can speak thus, and I venture even to say that no one has ever done so. We know well enough how those who are of this mind behave. They believe they have made great efforts for their instruction, when they have spent a few hours in reading some book of [Scripture](/concepts/revelation), and have questioned some priest on the truths of the faith. After that, they boast of having made vain search in books and among men. But, verily, I will tell them what I have often said, that this negligence is insufferable. We are not here concerned with the trifling interests of some stranger, that we should treat it in this fashion; the matter concerns ourselves and our all.
 
 The immortality of the soul is a matter which is of so great consequence to us, and which touches us so profoundly, that we must have lost all feeling to be indifferent as to knowing what it is. All our actions and thoughts must take such different courses, according as there are or are not eternal joys to hope for, that it is impossible to take one step with sense and judgment, unless we regulate our course by our view of this point which ought to be our ultimate end.
 
@@ -6213,7 +6218,7 @@ I can have only compassion for those who sincerely bewail their doubt, who regar
 
 But as for those who pass their life without thinking of this ultimate end of life, and who, for this sole reason that they do not find within themselves the lights which convince them of it, neglect to seek them elsewhere, and to examine thoroughly whether this opinion is one of those which people receive with credulous simplicity, or one of those which, although obscure in themselves, have nevertheless a solid and immovable foundation, I look upon them in a manner quite different.
 
-This carelessness in a matter which concerns themselves, their eternity, their all, moves me more to anger than pity; it astonishes and shocks me; it is to me monstrous. I do not say this out of the pious zeal of a spiritual devotion. I expect, on the contrary, that we ought to have this feeling from principles of human interest and self-love; for this we need only see what the least enlightened persons see.
+This carelessness in a matter which concerns themselves, their [eternity](/positions/eternity), their all, moves me more to [anger](/concepts/anger) than pity; it astonishes and shocks me; it is to me monstrous. I do not say this out of the pious zeal of a spiritual devotion. I expect, on the contrary, that we ought to have this feeling from principles of human interest and self-love; for this we need only see what the least enlightened persons see.
 
 We do not require great education of the mind to understand that here is no real and lasting satisfaction; that our pleasures are only vanity; that our evils are infinite; and, lastly, that death, which threatens us every moment, must infallibly place us within a few years under the dreadful necessity of being for ever either annihilated or unhappy.
 
@@ -6227,7 +6232,7 @@ How can people hold these opinions? What joy can we find in the expectation of n
 
 <span class="atom-split" data-atom="093" data-title="SECTION III. Of the Necessity of the Wager (2/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom"></span>
 
-“As I know not whence I come, so I know not whither I go. I know only that, in leaving this world, I fall for ever either into annihilation or into the hands of an angry God, without knowing to which of these two states I shall be for ever assigned. Such is my state, full of weakness and uncertainty. And from all this I conclude that I ought to spend all the days of my life without caring to inquire into what must happen to me. Perhaps I might find some solution to my doubts, but I will not take the trouble, nor take a step to seek it; and after treating with scorn those who are concerned with this care, I will go without foresight and without fear to try the great event, and let myself be led carelessly to death, uncertain of the eternity of my future state.”
+“As I know not whence I come, so I know not whither I go. I know only that, in leaving this world, I fall for ever either into annihilation or into the hands of an angry God, without knowing to which of these two states I shall be for ever assigned. Such is my state, full of weakness and uncertainty. And from all this I conclude that I ought to spend all the days of my life without caring to inquire into what must happen to me. Perhaps I might find some solution to my doubts, but I will not take the trouble, nor take a step to seek it; and after treating with scorn those who are concerned with this care, I will go without foresight and without fear to try the great event, and let myself be led carelessly to death, uncertain of the [eternity](/positions/eternity) of my future state.”
 
 Who would desire to have for a friend a man who talks in this fashion? Who would choose him out from others to tell him of his affairs? Who would have recourse to him in affliction? And indeed to what use in life could one put him?
 
@@ -6241,7 +6246,7 @@ If they thought of it seriously, they would see that this is so bad a mistake, s
 
 Thus those who only feign these opinions would be very unhappy, if they restrained their natural feelings in order to make themselves the most conceited of men. If, at the bottom of their heart, they are troubled at not having more light, let them not disguise the fact; this avowal will not be shameful. The only shame is to have none. Nothing reveals more an extreme weakness of mind than not to know the misery of a godless man. Nothing is more indicative of a bad disposition of heart than not to desire the truth of eternal promises. Nothing is more dastardly than to act with bravado before God. Let them then leave these impieties to those who are sufficiently ill-bred to be really capable of them. Let them at least be honest men, if they cannot be Christians. Finally, let them recognise that there are two kinds of people one can call reasonable; those who serve God with all their heart because they know Him, and those who seek Him with all their heart because they do not know Him.
 
-But as for those who live without knowing Him and without seeking Him, they judge themselves so little worthy of their own care, that they are not worthy of the care of others; and it needs all the charity of the religion which they despise, not to despise them even to the point of leaving them to their folly. But because this religion obliges us always to regard them, so long as they are in this life, as capable of the grace which can enlighten them, and to believe that they may, in a little time, be more replenished with faith than we are, and that, on the other hand, we may fall into the blindness wherein they are, we must do for them what we would they should do for us if we were in their place, and call upon them to have pity upon themselves, and to take at least some steps in the endeavour to find light. Let them give to reading this some of the hours which they otherwise employ so uselessly; whatever aversion they may bring to the task, they will perhaps gain something, and at least will not lose much. But as for those who bring to the task perfect sincerity and a real desire to meet with truth, those I hope will be satisfied and convinced of the proofs of a religion so divine, which I have here collected, and in which I have followed somewhat after this order…
+But as for those who live without knowing Him and without seeking Him, they judge themselves so little worthy of their own care, that they are not worthy of the care of others; and it needs all the charity of the religion which they despise, not to despise them even to the point of leaving them to their folly. But because this religion obliges us always to regard them, so long as they are in this life, as capable of the [grace](/concepts/grace) which can enlighten them, and to believe that they may, in a little time, be more replenished with faith than we are, and that, on the other hand, we may fall into the blindness wherein they are, we must do for them what we would they should do for us if we were in their place, and call upon them to have pity upon themselves, and to take at least some steps in the endeavour to find light. Let them give to reading this some of the hours which they otherwise employ so uselessly; whatever aversion they may bring to the task, they will perhaps gain something, and at least will not lose much. But as for those who bring to the task perfect sincerity and a real desire to meet with truth, those I hope will be satisfied and convinced of the proofs of a religion so divine, which I have here collected, and in which I have followed somewhat after this order…
 
 195
 
@@ -6251,7 +6256,7 @@ Of all their errors, this doubtless is the one which most convicts them of fooli
 
 <span class="atom-split" data-atom="094" data-title="SECTION III. Of the Necessity of the Wager (3/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom"></span>
 
-For it is not to be doubted that the duration of this life is but a moment; that the state of death is eternal, whatever may be its nature; and that thus all our actions and thoughts must take such different directions according to the state of that eternity, that it is impossible to take one step with sense and judgment, unless we regulate our course by the truth of that point which ought to be our ultimate end.
+For it is not to be doubted that the duration of this life is but a moment; that [the state](/concepts/state) of death is eternal, whatever may be its nature; and that thus all our actions and thoughts must take such different directions according to the state of that [eternity](/positions/eternity), that it is impossible to take one step with sense and judgment, unless we regulate our course by the truth of that point which ought to be our ultimate end.
 
 There is nothing clearer than this; and thus, according to the principles of reason, the conduct of men is wholly unreasonable, if they do not take another course.
 
@@ -6261,7 +6266,7 @@ Yet this eternity exists, and death, which must open into it, and threatens them
 
 This is a doubt of terrible consequence. They are in peril of eternal woe; and thereupon, as if the matter were not worth the trouble, they neglect to inquire whether this is one of those opinions which people receive with too credulous a facility, or one of those which, obscure in themselves, have a very firm, though hidden, foundation. Thus they know not whether there be truth or falsity in the matter, nor whether there be strength or weakness in the proofs. They have them before their eyes; they refuse to look at them; and in that ignorance they choose all that is necessary to fall into this misfortune if it exists, to await death to make trial of it, yet to be very content in this state, to make profession of it, and indeed to boast of it. Can we think seriously on the importance of this subject without being horrified at conduct so extravagant?
 
-This resting in ignorance is a monstrous thing, and they who pass their life in it must be made to feel its extravagance and stupidity, by having it shown to them, so that they may be confounded by the sight of their folly. For this is how men reason, when they choose to live in such ignorance of what they are, and without seeking enlightenment. “I know not,” they say…
+This resting in ignorance is a monstrous thing, and they who pass their life in it must be made to feel its extravagance and stupidity, by having it shown to them, so that they may be confounded by the sight of their folly. For this is how men reason, when they choose to live in such ignorance of what they are, and without seeking [enlightenment](/schools/enlightenment). “I know not,” they say…
 
 196
 
@@ -6315,7 +6320,7 @@ How many kingdoms know us not?
 
 208
 
-Why is my knowledge limited? Why my stature? Why my life to one hundred years rather than to a thousand? What reason has nature had for giving me such, and for choosing this number rather than another in the infinity of those from which there is no more reason to choose one than another, trying nothing else?
+Why is my knowledge limited? Why my stature? Why my life to one hundred years rather than to a thousand? What reason has nature had for giving me such, and for choosing this number rather than another in the [infinity](/concepts/infinity) of those from which there is no more reason to choose one than another, trying nothing else?
 
 209
 
@@ -6373,7 +6378,7 @@ Atheists ought to say what is perfectly evident; now it is not perfectly evident
 
 222
 
-Atheists. — What reason have they for saying that we cannot rise from the dead? What is more difficult, to be born or to rise again; that what has never been should be, or that what has been should be again? Is it more difficult to come into existence than to return to it? Habit makes the one appear easy to us; want of habit makes the other impossible. A popular way of thinking!
+Atheists. — What reason have they for saying that we cannot rise from the dead? What is more difficult, to be born or to rise again; that what has never been should be, or that what has been should be again? Is it more difficult to come into existence than to return to it? [Habit](/concepts/custom) makes the one appear easy to us; want of habit makes the other impossible. A popular way of thinking!
 
 Why cannot a virgin bear a child? Does a hen not lay eggs without a cock? What distinguishes these outwardly from others? And who has told us that the hen may not form the germ as well as the cock?
 
@@ -6387,13 +6392,13 @@ How I hate these follies of not believing in the Eucharist, &c.! If the Gospel b
 
 225
 
-Atheism shows strength of mind, but only to a certain degree.
+[Atheism](/positions/atheism) shows strength of mind, but only to a certain degree.
 
 226
 
 <span class="atom-split" data-atom="095" data-title="SECTION III. Of the Necessity of the Wager (4/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom"></span>
 
-Infidels, who profess to follow reason, ought to be exceedingly strong in reason. What say they then? “Do we not see,” say they, “that the brutes live and die like men, and Turks like Christians? They have their ceremonies, their prophets, their doctors, their saints, their monks, like us,” &c. (Is this contrary to Scripture? Does it not say all this?)
+Infidels, who profess to follow reason, ought to be exceedingly strong in reason. What say they then? “Do we not see,” say they, “that the brutes live and die like men, and Turks like Christians? They have their ceremonies, their prophets, their doctors, their saints, their monks, like us,” &c. (Is this contrary to [Scripture](/concepts/revelation)? Does it not say all this?)
 
 If you care but little to know the truth, here is enough of it to leave you in repose. But if you desire with all your heart to know it, it is not enough; look at it in detail. This would be sufficient for a question in philosophy; but not here, where it concerns your all. And yet, after a trifling reflection of this kind, we go to amuse ourselves, &c. Let us inquire of this same religion whether it does not give a reason for this obscurity; perhaps it will teach it to us.
 
@@ -6409,19 +6414,19 @@ Objection of atheists: “But we have no light.”
 
 229
 
-This is what I see and what troubles me. I look on all sides, and I see only darkness everywhere. Nature presents to me nothing which is not matter of doubt and concern. If I saw nothing there which revealed a Divinity, I would come to a negative conclusion; if I saw everywhere the signs of a Creator, I would remain peacefully in faith. But, seeing too much to deny and too little to be sure, I am in a state to be pitied; wherefore I have a hundred time wished that if a God maintains nature, she should testify to Him unequivocally, and that, if the signs she gives are deceptive, she should suppress them altogether; that she should say everything or nothing, that I might see which cause I ought to follow. Whereas in my present state, ignorant of what I am or of what I ought to do, I know neither my condition nor my duty. My heart inclines wholly to know where is the true good, in order to follow it; nothing would be too dear to me for eternity.
+This is what I see and what troubles me. I look on all sides, and I see only darkness everywhere. Nature presents to me nothing which is not matter of doubt and concern. If I saw nothing there which revealed a Divinity, I would come to a negative conclusion; if I saw everywhere the signs of a Creator, I would remain peacefully in faith. But, seeing too much to deny and too little to be sure, I am in a state to be pitied; wherefore I have a hundred time wished that if a God maintains nature, she should testify to Him unequivocally, and that, if the signs she gives are deceptive, she should suppress them altogether; that she should say everything or nothing, that I might see which cause I ought to follow. Whereas in my present state, ignorant of what I am or of what I ought to do, I know neither my condition nor my duty. My heart inclines wholly to know where is the true good, in order to follow it; nothing would be too dear to me for [eternity](/positions/eternity).
 
 I envy those whom I see living in the faith with such carelessness, and who make such a bad use of a gift of which it seems to me I would make such a different use.
 
 230
 
-It is incomprehensible that God should exist, and it is incomprehensible that He should not exist; that the soul should be joined to the body, and that we should have no soul; that the world should be created, and that it should not be created, &c.; that original sin should be, and that it should not be.
+It is incomprehensible that God should exist, and it is incomprehensible that He should not exist; that the soul should be joined to the body, and that we should have no soul; that the world should be created, and that it should not be created, &c.; that [original sin](/positions/original_sin) should be, and that it should not be.
 
 231
 
 Do you believe it to be impossible that God is infinite, without parts? — Yes. I wish therefore to show you an infinite and indivisible thing. It is a point moving everywhere with an infinite velocity; for it is one in all places, and is all totality in every place.
 
-Let this effect of nature, which previously seemed to you impossible, make you know that there may be others of which you are still ignorant. Do not draw this conclusion from your experiment, that there remains nothing for you to know; but rather that there remains an infinity for you to know.
+Let this effect of nature, which previously seemed to you impossible, make you know that there may be others of which you are still ignorant. Do not draw this conclusion from your experiment, that there remains nothing for you to know; but rather that there remains an [infinity](/concepts/infinity) for you to know.
 
 232
 
@@ -6451,13 +6456,13 @@ Do not then reprove for error those who have made a choice; for you know nothing
 
 <span class="atom-split" data-atom="096" data-title="SECTION III. Of the Necessity of the Wager (5/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom"></span>
 
-―Yes; but you must wager. It is not optional. You are embarked. Which will you choose then? Let us see. Since you must choose, let us see which interests you least. You have two things to lose, the true and the good; and two things to stake, your reason and your will, your knowledge and your happiness; and your nature has two things to shun, error and misery. Your reason is no more shocked in choosing one rather than the other, since you must of necessity choose. This is one point settled. But your happiness? Let us weigh the gain and the loss in wagering that God is. Let us estimate these two chances. If you gain, you gain all; if you lose, you lose nothing. Wager, then, without hesitation that He is.— “That is very fine. Yes, I must wager; but I may perhaps wager too much.” — Let us see. Since there is an equal risk of gain and of loss, if you had only to gain two lives, instead of one, you might still wager. But if there were three lives to gain, you would have to play (since you are under the necessity of playing), and you would be imprudent, when you are forced to play, not to chance your life to gain three at a game where there is an equal risk of loss and gain. But there is an eternity of life and happiness. And this being so, if there were an infinity of chances, of which one only would be for you, you would still be right in wagering one to win two, and you would act stupidly, being obliged to play, by refusing to stake one life against three at a game in which out of an infinity of chances there is one for you, if there were an infinity of an infinitely happy life to gain. But there is here an infinity of an infinitely happy life to gain, a chance of gain against a finite number of chances of loss, and what you stake is finite. It is all divided; wherever the infinite is and there is not an infinity of chances of loss against that of gain, there is no time to hesitate, you must give all. And thus, when one is forced to play, he must renounce reason to preserve his life, rather than risk it for infinite gain, as likely to happen as the loss of nothingness.
+―Yes; but you must wager. It is not optional. You are embarked. Which will you choose then? Let us see. Since you must choose, let us see which interests you least. You have two things to lose, the true and the good; and two things to stake, your reason and your will, your knowledge and your happiness; and your nature has two things to shun, error and misery. Your reason is no more shocked in choosing one rather than the other, since you must of necessity choose. This is one point settled. But your happiness? Let us weigh the gain and the loss in wagering that God is. Let us estimate these two chances. If you gain, you gain all; if you lose, you lose nothing. [Wager](/figures/the_libertine), then, without hesitation that He is.— “That is very fine. Yes, I must wager; but I may perhaps wager too much.” — Let us see. Since there is an equal risk of gain and of loss, if you had only to gain two lives, instead of one, you might still wager. But if there were three lives to gain, you would have to play (since you are under the necessity of playing), and you would be imprudent, when you are forced to play, not to chance your life to gain three at a game where there is an equal risk of loss and gain. But there is an [eternity](/positions/eternity) of life and happiness. And this being so, if there were an [infinity](/concepts/infinity) of chances, of which one only would be for you, you would still be right in wagering one to win two, and you would act stupidly, being obliged to play, by refusing to stake one life against three at a game in which out of an infinity of chances there is one for you, if there were an infinity of an infinitely happy life to gain. But there is here an infinity of an infinitely happy life to gain, a chance of gain against a finite number of chances of loss, and what you stake is finite. It is all divided; wherever the infinite is and there is not an infinity of chances of loss against that of gain, there is no time to hesitate, you must give all. And thus, when one is forced to play, he must renounce reason to preserve his life, rather than risk it for infinite gain, as likely to happen as the loss of nothingness.
 
 For it is no use to say it is uncertain if we will gain, and it is certain that we risk, and that the infinite distance between the certainty of what is staked and the uncertainty of what will be gained, equals the finite good which is certainly staked against the uncertain infinite. It is not so, as every player stakes a certainty to gain an uncertainty, and yet he stakes a finite certainty to gain a finite uncertainty, without transgressing against reason. There is not an infinite distance between the certainty staked and the uncertainty of the gain; that is untrue. In truth, there is an infinity between the certainty of gain and the certainty of loss. But the uncertainty of the gain is proportioned to the certainty of the stake according to the proportion of the chances of gain and loss. Hence it comes that, if there are as many risks on one side as on the other, the course is to play even; and then the certainty of the stake is equal to the uncertainty of the gain, so far is it from fact that there is an infinite distance between them. And so our proposition is of infinite force, when there is the finite to stake in a game where there are equal risks of gain and of loss, and the infinite to gain. This is demonstrable; and if men are capable of any truths, this is one.
 
-“I confess it, I admit it. But, still, is there no means of seeing the faces of the cards?” — Yes, Scripture and the rest, &c. “Yes, but I have my hands tied and my mouth closed; I am forced to wager, and am not free. I am not released, and am so made that I cannot believe. What, then, would you have me do?”
+“I confess it, I admit it. But, still, is there no means of seeing the faces of the cards?” — Yes, [Scripture](/concepts/revelation) and the rest, &c. “Yes, but I have my hands tied and my mouth closed; I am forced to wager, and am not free. I am not released, and am so made that I cannot believe. What, then, would you have me do?”
 
-True. But at least learn your inability to believe, since reason brings you to this, and yet you cannot believe. Endeavour then to convince yourself, not by increase of proofs of God, but by the abatement of your passions. You would like to attain faith, and do not know the way; you would like to cure yourself of unbelief, and ask the remedy for it. Learn of those who have been bound like you, and who now stake all their possessions. These are people who know the way which you would follow, and who are cured of an ill of which you would be cured. Follow the way by which they began; by acting as if they believed, taking the holy water, having masses said, etc. Even this will naturally make you believe, and deaden your acuteness.— “But this is what I am afraid of.” — And why? What have you to lose?
+True. But at least learn your inability to believe, since reason brings you to this, and yet you cannot believe. Endeavour then to convince yourself, not by increase of [proofs of God](/positions/demonstrative_theism), but by the abatement of your passions. You would like to attain faith, and do not know the way; you would like to cure yourself of unbelief, and ask the remedy for it. Learn of those who have been bound like you, and who now stake all their possessions. These are people who know the way which you would follow, and who are cured of an ill of which you would be cured. Follow the way by which they began; by acting as if they believed, taking the holy water, having masses said, etc. Even this will naturally make you believe, and deaden your acuteness.— “But this is what I am afraid of.” — And why? What have you to lose?
 
 But to show you that this leads you there, it is this which will lessen the passions, which are your stumbling-blocks.
 
@@ -6471,7 +6476,7 @@ If this discourse pleases you and seems impressive, know that it is made by a ma
 
 If we must not act save on a certainty, we ought not to act on religion, for it is not certain. But how many things we do on an uncertainty, sea voyages, battles! I say then we must do nothing at all, for nothing is certain, and that there is more certainty in religion than there is as to whether we may see to-morrow; for it is not certain that we may see to-morrow, and it is certainly possible that we may not see it. We cannot say as much about religion. It is not certain that it is; but who will venture to say that it is certainly possible that it is not? Now when we work for to-morrow, and so on an uncertainty, we act reasonably; for we ought to work for an uncertainty according to the doctrine of chance which was demonstrated above.
 
-Saint Augustine has seen that we work for an uncertainty, on sea, in battle, &c. But he has not seen the doctrine of chance which proves that we should do so. Montaigne has seen that we are shocked at a fool, and that habit is all-powerful; but he has not seen the reason of this effect.
+Saint [Augustine](/figures/augustine) has seen that we work for an uncertainty, on sea, in battle, &c. But he has not seen the doctrine of chance which proves that we should do so. Montaigne has seen that we are shocked at a fool, and that [habit](/concepts/custom) is all-powerful; but he has not seen the reason of this effect.
 
 All these persons have seen the effects, but they have not seen the causes. They are, in comparison with those who have discovered the causes, as those who have only eyes are in comparison with those who have intellect. For the effects are perceptible by sense, and the causes are visible only to the intellect. And although these effects are seen by the mind, this mind is, in comparison with the mind which sees the causes, as the bodily senses are in comparison with the intellect.
 
@@ -6481,7 +6486,7 @@ Rem viderunt, causam non viderunt.
 
 236
 
-According to the doctrine of chance, you ought to put yourself to the trouble of searching for the truth; for if you die without worshipping the True Cause, you are lost.— “But,” say you, “if He had wished me to worship Him, He would have left me signs of His will.” — He has done so; but you neglect them. Seek them, therefore; it is well worth it.
+According to the doctrine of chance, you ought to put yourself to the trouble of searching for the truth; for if you die without worshipping the True Cause, you are lost.— “But,” say you, “if He had wished me to [worship](/concepts/religion) Him, He would have left me signs of His will.” — He has done so; but you neglect them. Seek them, therefore; it is well worth it.
 
 237
 
@@ -6513,9 +6518,9 @@ Order. — I would have far more fear of being mistaken, and of finding that the
 
 PREFACE TO THE second part. — To speak of those who have treated of this matter.
 
-I admire the boldness with which these persons undertake to speak of God. In addressing their argument to infidels, their first chapter is to prove Divinity from the works of nature. I should not be astonished at their enterprise, if they were addressing their argument to the faithful; for it is certain that those who have the living faith in their heart see at once that all existence is none other than the work of the God whom they adore. But for those in whom this light is extinguished, and in whom we purpose to rekindle it, persons destitute of faith and grace, who, seeking with all their light whatever they see in nature that can bring them to this knowledge, find only obscurity and darkness; to tell them that they have only to look at the smallest things which surround them, and they will see God openly, to give them, as a complete proof of this great and important matter, the course of the moon and planets, and to claim to have concluded the proof with such an argument, is to give them ground for believing that the proofs of our religion are very weak. And I see by reason and experience that nothing is more calculated to arouse their contempt.
+I admire the boldness with which these persons undertake to speak of God. In addressing their argument to infidels, their first chapter is to prove Divinity from the works of nature. I should not be astonished at their enterprise, if they were addressing their argument to the faithful; for it is certain that those who have the living faith in their heart see at once that all existence is none other than the work of the God whom they adore. But for those in whom this light is extinguished, and in whom we purpose to rekindle it, persons destitute of faith and [grace](/concepts/grace), who, seeking with all their light whatever they see in nature that can bring them to this knowledge, find only obscurity and darkness; to tell them that they have only to look at the smallest things which surround them, and they will see God openly, to give them, as a complete proof of this great and important matter, the course of the moon and planets, and to claim to have concluded the proof with such an argument, is to give them ground for believing that the proofs of our religion are very weak. And I see by reason and experience that nothing is more calculated to arouse their contempt.
 
-It is not after this manner that Scripture speaks, which has a better knowledge of the things that are of God. It says, on the contrary, that God is a hidden God, and that, since the corruption of nature, He has left men in a darkness from which they can escape only through Jesus Christ, without whom all communion with God is cut off. Nemo novit Patrem, nisi Filius, et cui voluerit Filius revelare.
+It is not after this manner that [Scripture](/concepts/revelation) speaks, which has a better knowledge of the things that are of God. It says, on the contrary, that God is a hidden God, and that, since the corruption of nature, He has left men in a darkness from which they can escape only through Jesus Christ, without whom all communion with God is cut off. Nemo novit Patrem, nisi Filius, et cui voluerit Filius revelare.
 
 This is what Scripture points out to us, when it says in so many places that those who seek God find Him. It is not of that light, “like the noonday sun,” that this is said. We do not say that those who seek the noonday sun, or water in the sea, shall find them; and hence the evidence of God must not be of this nature. So it tells us elsewhere: Vere tu es Deus absconditus.
 
@@ -6529,7 +6534,7 @@ It is an astounding fact that no canonical writer has ever made use of nature to
 
 245
 
-There are three sources of belief: reason, custom, inspiration. The Christian religion, which alone has reason, does not acknowledge as her true children those who believe without inspiration. It is not that she excludes reason and custom. On the contrary, the mind must be opened to proofs, must be confirmed by custom, and offer itself in humbleness to inspirations, which alone can produce a true and saving effect. Ne evacuetur crux Christi.
+There are three sources of belief: reason, [custom](/concepts/custom), inspiration. The Christian religion, which alone has reason, does not acknowledge as her true children those who believe without inspiration. It is not that she excludes reason and custom. On the contrary, the mind must be opened to proofs, must be confirmed by custom, and offer itself in humbleness to inspirations, which alone can produce a true and saving effect. Ne evacuetur crux Christi.
 
 246
 
@@ -6541,7 +6546,7 @@ Order. — A letter of exhortation to a friend to induce him to seek. And he wil
 
 248
 
-A Letter which indicates the use of proofs by the machine. — Faith is different from proof; the one is human, the other is a gift of God. Justus ex fide vivit. It is this faith that God Himself puts into the heart, of which the proof is often the instrument, fides ex auditu; but this faith is in the heart, and makes us not say scio, but credo.
+A Letter which indicates the use of proofs by the machine. — Faith is different from proof; the one is human, the other is a gift of God. Justus ex fide vivit. It is this faith that God Himself puts into the heart, of which the proof is often the instrument, [fides](/concepts/faith) ex auditu; but this faith is in the heart, and makes us not say scio, but credo.
 
 249
 
@@ -6633,11 +6638,11 @@ Superstition and lust. Scruples, evil desires. Evil fear; fear, not such as come
 
 263
 
-“A miracle,” says one, “would strengthen my faith.” He says so when he does not see one. Reasons, seen from afar, appear to limit our view; but when they are reached, we begin to see beyond. Nothing stops the nimbleness of our mind. There is no rule, say we, which has not some exceptions, no truth so general which has not some aspect in which it fails. It is sufficient that it be not absolutely universal to give us a pretext for applying the exceptions to the present subject, and for saying, “This is not always true; there are therefore cases where it is not so.” It only remains to show that this is one of them; and that is why we are very awkward or unlucky, if we do not find one some day.
+“A [miracle](/concepts/miracle),” says one, “would strengthen my faith.” He says so when he does not see one. Reasons, seen from afar, appear to limit our view; but when they are reached, we begin to see beyond. Nothing stops the nimbleness of our mind. There is no rule, say we, which has not some exceptions, no truth so general which has not some aspect in which it fails. It is sufficient that it be not absolutely universal to give us a pretext for applying the exceptions to the present subject, and for saying, “This is not always true; there are therefore cases where it is not so.” It only remains to show that this is one of them; and that is why we are very awkward or unlucky, if we do not find one some day.
 
 264
 
-We do not weary of eating and sleeping every day, for hunger and sleepiness recur. Without that we should weary of them. So, without the hunger for spiritual things, we weary of them. Hunger after righteousness, the eighth beatitude.
+We do not weary of eating and sleeping every day, for hunger and sleepiness recur. Without that we should weary of them. So, without the hunger for spiritual things, we weary of them. Hunger after righteousness, the eighth [beatitude](/positions/beatitude).
 
 265
 
@@ -6645,11 +6650,11 @@ Faith indeed tells what the senses do not tell, but not the contrary of what the
 
 266
 
-How many stars have telescopes revealed to us which did not exist for our philosophers of old! We freely attack Holy Scripture on the great number of stars, saying, “There are only one thousand and twenty-eight, we know it.” There is grass on the earth, we see it — from the moon we would not see it — and on the grass are leaves, and in these leaves are small animals; but after that no more. — O presumptuous man! — the compounds are composed of elements, and the elements not. — O presumptuous man! Here is a fine reflection. — We must not say that there is anything which we do not see. — We must then talk like others, but not think like them.
+How many stars have telescopes revealed to us which did not exist for our philosophers of old! We freely attack Holy [Scripture](/concepts/revelation) on the great number of stars, saying, “There are only one thousand and twenty-eight, we know it.” There is grass on the earth, we see it — from the moon we would not see it — and on the grass are leaves, and in these leaves are small animals; but after that no more. — O presumptuous man! — the compounds are composed of elements, and the elements not. — O presumptuous man! Here is a fine reflection. — We must not say that there is anything which we do not see. — We must then talk like others, but not think like them.
 
 267
 
-The last proceeding of reason is to recognise that there is an infinity of things which are beyond it. It is but feeble if it does not see so far as to know this. But if natural things are beyond it, what will be said of supernatural?
+The last proceeding of reason is to recognise that there is an [infinity](/concepts/infinity) of things which are beyond it. It is but feeble if it does not see so far as to know this. But if natural things are beyond it, what will be said of supernatural?
 
 268
 
@@ -6661,7 +6666,7 @@ Submission is the use of reason in which consists true Christianity.
 
 270
 
-St. Augustine. — Reason would never submit, if it did not judge that there are some occasions on which it ought to submit. It is then right for it to submit, when it judges that it ought to submit.
+St. [Augustine](/figures/augustine). — Reason would never submit, if it did not judge that there are some occasions on which it ought to submit. It is then right for it to submit, when it judges that it ought to submit.
 
 271
 
@@ -6721,11 +6726,11 @@ Therefore, those to whom God has imparted religion by intuition are very fortuna
 
 283
 
-Order. — Against the objection that Scripture has no order.
+Order. — Against the objection that [Scripture](/concepts/revelation) has no order.
 
 The heart has its own order; the intellect has its own, which is by principle and demonstration. The heart has another. We do not prove that we ought to be loved by enumerating in order the causes of love; that would be ridiculous.
 
-Jesus Christ and Saint Paul employ the rule of love, not of intellect; for they would warm, not instruct. It is the same with Saint Augustine. This order consists chiefly in digressions on each point to indicate the end, and keep it always in sight.
+Jesus Christ and Saint Paul employ the rule of love, not of intellect; for they would warm, not instruct. It is the same with Saint [Augustine](/figures/augustine). This order consists chiefly in digressions on each point to indicate the end, and keep it always in sight.
 
 284
 
@@ -6783,7 +6788,7 @@ He lives on the other side of the water.
 
 …On what shall man found the order of the world which he would govern? Shall it be on the caprice of each individual? What confusion! Shall it be on justice? Man is ignorant of it.
 
-Certainly had he known it, he would not have established this maxim, the most general of all that obtain among men, that each should follow the custom of his own country. The glory of true equity would have brought all nations under subjection, and legislators would not have taken as their model the fancies and caprice of Persians and Germans instead of this unchanging justice. We should have seen it set up in all the States on earth and in all times; whereas we see neither justice nor injustice which does not change its nature with change in climate. Three degrees of latitude reverse all jurisprudence; a meridian decides the truth. Fundamental laws change after a few years of possession; right has its epochs; the entry of Saturn into the Lion marks to us the origin of such and such a crime. A strange justice that is bounded by a river! Truth on this side of the Pyrenees, error on the other side.
+Certainly had he known it, he would not have established this maxim, the most general of all that obtain among men, that each should follow the [custom](/concepts/custom) of his own country. The glory of true equity would have brought all nations under subjection, and legislators would not have taken as their model the fancies and caprice of Persians and Germans instead of this unchanging justice. We should have seen it set up in all the States on earth and in all times; whereas we see neither justice nor injustice which does not change its nature with change in climate. Three degrees of latitude reverse all jurisprudence; a meridian decides the truth. Fundamental laws change after a few years of possession; right has its epochs; the entry of Saturn into the Lion marks to us the origin of such and such a crime. A strange justice that is bounded by a river! Truth on this side of the Pyrenees, error on the other side.
 
 Men admit that justice does not consist in these customs, but that it resides in natural laws, common to every country. They would certainly maintain it obstinately, if reckless chance which has distributed human laws had encountered even one which was universal; but the farce is that the caprice of men has so many vagaries that there is no such law.
 
@@ -6791,7 +6796,7 @@ Theft, incest, infanticide, patricide, have all had a place among virtuous actio
 
 Doubtless there are natural laws; but good reason once corrupted has corrupted all. Nihil amplius nostrum est; quod nostrum dicimus, artis est. Ex senatus consultis et plebiscitis crimina exercentur. Ut olim vitiis, sic nunc legibus laboramus.
 
-The result of this confusion is that one affirms the essence of justice to be the authority of the legislator; another, the interest of the sovereign; another, present custom, and this is the most sure. Nothing, according to reason alone, is just in itself; all changes with time. Custom creates the whole of equity, for the simple reason that it is accepted. It is the mystical foundation of its authority; whoever carries it back to first principles destroys it. Nothing is so faulty as those laws which correct faults. He who obeys them because they are just, obeys a justice which is imaginary, and not the essence of law; it is quite self-contained, it is law and nothing more. He who will examine its motive will find it so feeble and so trifling that if he be not accustomed to contemplate the wonders of human imagination, he will marvel that one century has gained for it so much pomp and reverence. The art of opposition and of revolution is to unsettle established customs, sounding them even to their source, to point out their want of authority and justice. We must, it is said, get back to the natural and fundamental laws of the State, which an unjust custom has abolished. It is a game certain to result in the loss of all; nothing will be just on the balance. Yet people readily lend their ear to such arguments. They shake off the yoke as soon as they recognise it; and the great profit by their ruin, and by that of these curious investigators of accepted customs. But from a contrary mistake men sometimes think they can justly do everything which is not without an example. That is why the wisest of legislators said that it was necessary to deceive men for their own good; and another, a good politician, Cum veritatem qua liberetur ignoret, expedit quod fallatur. We must not see the fact of usurpation; law was once introduced without reason, and has become reasonable. We must make it regarded as authoritative, eternal, and conceal its origin, if we do not wish that it should soon come to an end.
+The result of this confusion is that one affirms the essence of justice to be the authority of the legislator; another, the interest of the sovereign; another, present custom, and this is the most sure. Nothing, according to reason alone, is just in itself; all changes with time. Custom creates the whole of equity, for the simple reason that it is accepted. It is the mystical foundation of its authority; whoever carries it back to first principles destroys it. Nothing is so faulty as those laws which correct faults. He who obeys them because they are just, obeys a justice which is imaginary, and not the essence of law; it is quite self-contained, it is law and nothing more. He who will examine its motive will find it so feeble and so trifling that if he be not accustomed to contemplate the wonders of human imagination, he will marvel that one century has gained for it so much pomp and reverence. The art of opposition and of [revolution](/positions/revolution) is to unsettle established customs, sounding them even to their source, to point out their want of authority and justice. We must, it is said, get back to the natural and fundamental laws of [the State](/concepts/state), which an unjust custom has abolished. It is a game certain to result in the loss of all; nothing will be just on the balance. Yet people readily lend their ear to such arguments. They shake off the yoke as soon as they recognise it; and the great profit by their ruin, and by that of these curious investigators of accepted customs. But from a contrary mistake men sometimes think they can justly do everything which is not without an example. That is why the wisest of legislators said that it was necessary to deceive men for their own good; and another, a good politician, Cum veritatem qua liberetur ignoret, expedit quod fallatur. We must not see the fact of usurpation; law was once introduced without reason, and has become reasonable. We must make it regarded as authoritative, eternal, and conceal its origin, if we do not wish that it should soon come to an end.
 
 295
 
@@ -6861,7 +6866,7 @@ The chancellor is grave, and clothed with ornaments, for his position is unreal.
 
 308
 
-The habit of seeing kings accompanied by guards, drums, officers, and all the paraphernalia which mechanically inspire respect and awe, makes their countenance, when sometimes seen alone without these accompaniments, impress respect and awe on their subjects; because we cannot separate in thought their persons from the surroundings with which we see them usually joined. And the world, which knows not that this effect is the result of habit, believes that it arises by a natural force, whence come these words, “The character of Divinity is stamped on his countenance,” &c.
+The [habit](/concepts/custom) of seeing kings accompanied by guards, drums, officers, and all the paraphernalia which mechanically inspire respect and awe, makes their countenance, when sometimes seen alone without these accompaniments, impress respect and awe on their subjects; because we cannot separate in thought their persons from the surroundings with which we see them usually joined. And the world, which knows not that this effect is the result of habit, believes that it arises by a natural force, whence come these words, “The character of Divinity is stamped on his countenance,” &c.
 
 309
 
@@ -6949,7 +6954,7 @@ Let us, then, jeer no more at those who are honoured on account of rank and offi
 
 The people have very sound opinions, for example:
 
-1. In having preferred diversion and hunting to poetry. The half-learned laugh at it, and glory in being above the folly of the world; but the people are right for a reason which these do not fathom.
+1. In having preferred [diversion](/arguments/divertissement) and hunting to poetry. The half-learned laugh at it, and glory in being above the folly of the world; but the people are right for a reason which these do not fathom.
 
 2. In having distinguished men by external marks, as birth or wealth. The world again exults in showing how unreasonable this is; but it is very reasonable. Savages laugh at an infant king.
 
@@ -6959,9 +6964,9 @@ The people have very sound opinions, for example:
 
 325
 
-Montaigne is wrong. Custom should be followed only because it is custom, and not because it is reasonable or just. But people follow it for this sole reason, that they think it just. Otherwise they would follow it no longer, although it were the custom; for they will only submit to reason or justice. Custom without this would pass for tyranny; but the sovereignty of reason and justice is no more tyrannical than that of desire. They are principles natural to man.
+Montaigne is wrong. [Custom](/concepts/custom) should be followed only because it is custom, and not because it is reasonable or just. But people follow it for this sole reason, that they think it just. Otherwise they would follow it no longer, although it were the custom; for they will only submit to reason or justice. Custom without this would pass for tyranny; but the [sovereignty](/positions/sovereignty) of reason and justice is no more tyrannical than that of desire. They are principles natural to man.
 
-It would therefore be right to obey laws and customs, because they are laws; but we should know that there is neither truth nor justice to introduce into them, that we know nothing of these, and so must follow what is accepted. By this means we would never depart from them. But people cannot accept this doctrine; and, as they believe that truth can be found, and that it exists in law and custom, they believe them, and take their antiquity as a proof of their truth, and not simply of their authority apart from truth. Thus they obey laws, but they are liable to revolt when these are proved to be valueless; and this can be shown of all, looked at from a certain aspect.
+It would therefore be right to obey laws and customs, because they are laws; but we should know that there is neither truth nor justice to introduce into them, that we know nothing of these, and so must follow what is accepted. By this means we would never depart from them. But people cannot accept this doctrine; and, as they believe that truth can be found, and that it exists in law and custom, they believe them, and take their antiquity as a proof of their truth, and not simply of their authority apart from truth. Thus they obey laws, but they are liable to [revolt](/positions/revolution) when these are proved to be valueless; and this can be shown of all, looked at from a certain aspect.
 
 326
 
@@ -6991,7 +6996,7 @@ The power of kings is founded on the reason and on the folly of the people, and 
 
 331
 
-We can only think of Plato and Aristotle in grand academic robes. They were honest men, like others, laughing with their friends, and when they diverted themselves with writing their Laws and the Politics, they did it as an amusement. That part of their life was the least philosophic and the least serious; the most philosophic was to live simply and quietly. If they wrote on politics, it was as if laying down rules for a lunatic asylum; and if they presented the appearance of speaking of a great matter, it was because they knew that the madmen, to whom they spoke, thought they were kings and emperors. They entered into their principles in order to make their madness as little harmful as possible.
+We can only think of Plato and [Aristotle](/figures/aristotle) in grand academic robes. They were honest men, like others, laughing with their friends, and when they diverted themselves with writing their Laws and the Politics, they did it as an amusement. That part of their life was the least philosophic and the least serious; the most philosophic was to live simply and quietly. If they wrote on politics, it was as if laying down rules for a lunatic asylum; and if they presented the appearance of speaking of a great matter, it was because they knew that the madmen, to whom they spoke, thought they were kings and emperors. They entered into their principles in order to make their madness as little harmful as possible.
 
 332
 
@@ -7065,7 +7070,7 @@ Thought constitutes the greatness of man.
 
 347
 
-Man is but a reed, the most feeble thing in nature; but he is a thinking reed. The entire universe need not arm itself to crush him. A vapour, a drop of water suffices to kill him. But, if the universe were to crush him, man would still be more noble than that which killed him, because he knows that he dies and the advantage which the universe has over him; the universe knows nothing of this.
+Man is but a reed, the most feeble thing in nature; but he is a [thinking reed](/positions/misery_and_greatness). The entire universe need not arm itself to crush him. A vapour, a drop of water suffices to kill him. But, if the universe were to crush him, man would still be more noble than that which killed him, because he knows that he dies and the advantage which the universe has over him; the universe knows nothing of this.
 
 All our dignity consists, then, in thought. By it we must elevate ourselves, and not by space and time which we cannot fill. Let us endeavour, then, to think well; this is the principle of morality.
 
@@ -7157,7 +7162,7 @@ Ut omnium rerum sic litterarum quoque intemperantia laboramus. Senec.
 
 Id maxime quemque decet, quod est cujusque suum maxime.
 
-Hos natura modos primum dedit.
+Hos [natura](/concepts/nature) modos primum dedit.
 
 Paucis opus est litteris ad bonam mentem.
 
@@ -7217,11 +7222,11 @@ In writing down my thought, it sometimes escapes me; but this makes me remember 
 
 373
 
-Scepticism. — I shall here write my thoughts without order, and not perhaps in unintentional confusion; that is true order, which will always indicate my object by its very disorder. I should do too much honour to my subject, if I treated it with order, since I want to show that it is incapable of it.
+[Scepticism](/positions/scepticism). — I shall here write my thoughts without order, and not perhaps in unintentional confusion; that is true order, which will always indicate my object by its very disorder. I should do too much honour to my subject, if I treated it with order, since I want to show that it is incapable of it.
 
 374
 
-What astonishes me most is to see that all the world is not astonished at its own weakness. Men act seriously, and each follows his own mode of life, not because it is in fact good to follow since it is the custom, but as if each man knew certainly where reason and justice are. They find themselves continually deceived, and by a comical humility think it is their own fault, and not that of the art which they claim always to possess. But it is well there are so many such people in the world, who are not sceptics for the glory of scepticism, in order to show that man is quite capable of the most extravagant opinions, since he is capable of believing that he is not in a state of natural and inevitable weakness, but, on the contrary, of natural wisdom. Nothing fortifies scepticism more than that there are some who are not sceptics; if all were so, they would be wrong.
+What astonishes me most is to see that all the world is not astonished at its own weakness. Men act seriously, and each follows his own mode of life, not because it is in fact good to follow since it is the [custom](/concepts/custom), but as if each man knew certainly where reason and justice are. They find themselves continually deceived, and by a comical humility think it is their own fault, and not that of the art which they claim always to possess. But it is well there are so many such people in the world, who are not sceptics for the glory of scepticism, in order to show that man is quite capable of the most extravagant opinions, since he is capable of believing that he is not in a state of natural and inevitable weakness, but, on the contrary, of natural wisdom. Nothing fortifies scepticism more than that there are some who are not sceptics; if all were so, they would be wrong.
 
 375
 
@@ -7297,7 +7302,7 @@ Ecclesiastes shows that man without God is in total ignorance and inevitable mis
 
 390
 
-My God! How foolish this talk is! “Would God have made the world to damn it? Would He ask so much from persons so weak?” &c. Scepticism is the cure for this evil, and will take down this vanity.
+My God! How foolish this talk is! “Would God have made the world to damn it? Would He ask so much from persons so weak?” &c. [Scepticism](/positions/scepticism) is the cure for this evil, and will take down this vanity.
 
 391
 
@@ -7419,7 +7424,7 @@ For one denies the assumption of the other. One says, “He is not born for this
 
 416
 
-For Port-Royal. Greatness and wretchedness. — Wretchedness being deduced from greatness, and greatness from wretchedness, some have inferred man’s wretchedness all the more because they have taken his greatness as a proof of it, and others have inferred his greatness with all the more force, because they have inferred it from his very wretchedness. All that the one party has been able to say in proof of his greatness has only served as an argument of his wretchedness to the others, because the greater our fall, the more wretched we are, and vice versa. The one party is brought back to the other in an endless circle, it being certain that in proportion as men possess light they discover both the greatness and the wretchedness of man. In a word, man knows that he is wretched. He is therefore wretched, because he is so; but he is really great because he knows it.
+For [Port-Royal](/schools/jansenism). Greatness and wretchedness. — Wretchedness being deduced from greatness, and greatness from wretchedness, some have inferred man’s wretchedness all the more because they have taken his greatness as a proof of it, and others have inferred his greatness with all the more force, because they have inferred it from his very wretchedness. All that the one party has been able to say in proof of his greatness has only served as an argument of his wretchedness to the others, because the greater our fall, the more wretched we are, and vice versa. The one party is brought back to the other in an endless circle, it being certain that in proportion as men possess light they discover both the greatness and the wretchedness of man. In a word, man knows that he is wretched. He is therefore wretched, because he is so; but he is really great because he knows it.
 
 417
 
@@ -7483,7 +7488,7 @@ Man does not know in what rank to place himself. He has plainly gone astray, and
 
 428
 
-If it is a sign of weakness to prove God by nature, do not despise Scripture; if it is a sign of strength to have known these contradictions, esteem Scripture.
+If it is a sign of weakness to prove God by nature, do not despise [Scripture](/concepts/revelation); if it is a sign of strength to have known these contradictions, esteem Scripture.
 
 429
 
@@ -7495,11 +7500,11 @@ For Port Royal. The beginning, after having explained the incomprehensibility. �
 
 In order to make man happy, it must prove to him that there is a God; that we ought to love Him; that our true happiness is to be in Him, and our sole evil to be separated from Him; it must recognise that we are full of darkness which hinders us from knowing and loving Him; and that thus, as our duties compel us to love God, and our lusts turn us away from Him, we are full of unrighteousness. It must give us an explanation of our opposition to God and to our own good. It must teach us the remedies for these infirmities, and the means of obtaining these remedies. Let us therefore examine all the religions of the world, and see if there be any other than the Christian which is sufficient for this purpose.
 
-Shall it be that of the philosophers, who put forward as the chief good, the good which is in ourselves? Is this the true good? Have they found the remedy for our ills? Is man’s pride cured by placing him on an equality with God? Have those who have made us equal to the brutes, or the Mahommedans who have offered us earthly pleasures as the chief good even in eternity, produced the remedy for our lusts? What religion, then, will teach us to cure pride and lust? What religion will in fact teach us our good, our duties, the weakness which turns us from them, the cause of this weakness, the remedies which can cure it, and the means of obtaining these remedies?
+Shall it be that of the philosophers, who put forward as the chief good, the good which is in ourselves? Is this the true good? Have they found the remedy for our ills? Is man’s pride cured by placing him on an equality with God? Have those who have made us equal to the brutes, or the Mahommedans who have offered us earthly pleasures as the chief good even in [eternity](/positions/eternity), produced the remedy for our lusts? What religion, then, will teach us to cure pride and lust? What religion will in fact teach us our good, our duties, the weakness which turns us from them, the cause of this weakness, the remedies which can cure it, and the means of obtaining these remedies?
 
 All other religions have not been able to do so. Let us see what the wisdom of God will do.
 
-“Expect neither truth,” she says, “nor consolation from men. I am she who formed you, and who alone can teach you what you are. But you are now no longer in the state in which I formed you. I created man holy, innocent, perfect. I filled him with light and intelligence. I communicated to him my glory and my wonders. The eye of man saw then the majesty of God. He was not then in the darkness which blinds him, nor subject to mortality and the woes which afflict him. But he has not been able to sustain so great glory without falling into pride. He wanted to make himself his own centre, and independent of my help. He withdrew himself from my rule; and, on his making himself equal to me by the desire of finding his happiness in himself, I abandoned him to himself. And setting in revolt the creatures that were subject to him, I made them his enemies; so that man is now become like the brutes, and so estranged from me that there scarce remains to him a dim vision of his Author. So far has all his knowledge been extinguished or disturbed! The senses, independent of reason, and often the masters of reason, have led him into pursuit of pleasure. All creatures either torment or tempt him, and domineer over him, either subduing him by their strength, or fascinating him by their charms, a tyranny more awful and more imperious.
+“Expect neither truth,” she says, “nor consolation from men. I am she who formed you, and who alone can teach you what you are. But you are now no longer in [the state](/concepts/state) in which I formed you. I created man holy, innocent, perfect. I filled him with light and intelligence. I communicated to him my glory and my wonders. The eye of man saw then the majesty of God. He was not then in the darkness which blinds him, nor subject to mortality and the woes which afflict him. But he has not been able to sustain so great glory without falling into pride. He wanted to make himself his own centre, and independent of my help. He withdrew himself from my rule; and, on his making himself equal to me by the desire of finding his happiness in himself, I abandoned him to himself. And setting in [revolt](/positions/revolution) the creatures that were subject to him, I made them his enemies; so that man is now become like the brutes, and so estranged from me that there scarce remains to him a dim vision of his Author. So far has all his knowledge been extinguished or disturbed! The senses, independent of reason, and often the masters of reason, have led him into pursuit of pleasure. All creatures either torment or tempt him, and domineer over him, either subduing him by their strength, or fascinating him by their charms, a tyranny more awful and more imperious.
 
 “Such is the state in which men now are. There remains to them some feeble instinct of the happiness of their former state; and they are plunged in the evils of their blindness and their lust, which have become their second nature.
 
@@ -7507,15 +7512,15 @@ All other religions have not been able to do so. Let us see what the wisdom of G
 
 <span class="atom-split" data-atom="109" data-title="SECTION VII. Morality and Doctrine (2/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
 
-For Port-Royal to-morrow (Prosopopœa).— “It is in vain, O men, that you seek within yourselves the remedy for your ills. All your light can only reach the knowledge that not in yourselves will you find truth or good. The philosophers have promised you that, and have been unable to do it. They neither know what is your true good, nor what is your true state. How could they have given remedies for your ills, when they did not even know them? Your chief maladies are pride, which takes you away from God, and lust, which binds you to earth; and they have done nothing else but cherish one or other of these diseases. If they gave you God as an end, it was only to administer to your pride; they made you think that you are by nature like Him, and conformed to Him. And those who saw the absurdity of this claim put you on another precipice, by making you understand that your nature was like that of the brutes, and led you to seek your good in the lusts which are shared by the animals. This is not the way to cure you of your unrighteousness, which these wise men never knew. I alone can make you understand who you are.…”
+For [Port-Royal](/schools/jansenism) to-morrow (Prosopopœa).— “It is in vain, O men, that you seek within yourselves the remedy for your ills. All your light can only reach the knowledge that not in yourselves will you find truth or good. The philosophers have promised you that, and have been unable to do it. They neither know what is your true good, nor what is your true state. How could they have given remedies for your ills, when they did not even know them? Your chief maladies are pride, which takes you away from God, and lust, which binds you to earth; and they have done nothing else but cherish one or other of these diseases. If they gave you God as an end, it was only to administer to your pride; they made you think that you are by nature like Him, and conformed to Him. And those who saw the absurdity of this claim put you on another precipice, by making you understand that your nature was like that of the brutes, and led you to seek your good in the lusts which are shared by the animals. This is not the way to cure you of your unrighteousness, which these wise men never knew. I alone can make you understand who you are.…”
 
 Adam, Jesus Christ.
 
-If you are united to God, it is by grace, not by nature. If you are humbled, it is by penitence, not by nature.
+If you are united to God, it is by [grace](/concepts/grace), not by nature. If you are humbled, it is by penitence, not by nature.
 
 Thus this double capacity…
 
-You are not in the state of your creation.
+You are not in [the state](/concepts/state) of your creation.
 
 As these two states are open, it is impossible for you not to recognise them. Follow your own feelings, observe yourselves, and see if you do not find the lively characteristics of these two natures. Could so many contradictions be found in a simple subject?
 
@@ -7535,13 +7540,13 @@ But I would ask him if God demands anything else from him than the knowledge and
 
 No other religion has recognised that man is the most excellent creature. Some, which have quite recognised the reality of his excellence, have considered as mean and ungrateful the low opinions which men naturally have of themselves; and others, which have thoroughly recognised how real is this vileness, have treated with proud ridicule those feelings of greatness, which are equally natural to man.
 
-“Lift your eyes to God,” say the first; “see Him whom you resemble, and who has created you to worship Him. You can make yourselves like unto Him; wisdom will make you equal to Him, if you will follow it.” “Raise your heads, free men,” says Epictetus. And others say, “Bend your eyes to the earth, wretched worm that you are, and consider the brutes whose companion you are.”
+“Lift your eyes to God,” say the first; “see Him whom you resemble, and who has created you to [worship](/concepts/religion) Him. You can make yourselves like unto Him; wisdom will make you equal to Him, if you will follow it.” “Raise your heads, free men,” says Epictetus. And others say, “Bend your eyes to the earth, wretched worm that you are, and consider the brutes whose companion you are.”
 
 What, then, will man become? Will he be equal to God or the brutes? What a frightful difference! What, then, shall we be? Who does not see from all this that man has gone astray, that he has fallen from his place, that he anxiously seeks it, that he cannot find it again? And who shall then direct him to it? The greatest men have failed.
 
 432
 
-Scepticism is true; for, after all, men before Jesus Christ did not know where they were, nor whether they were great or small. And those who have said the one or the other, knew nothing about it, and guessed without reason and by chance. They also erred always in excluding the one or the other.
+[Scepticism](/positions/scepticism) is true; for, after all, men before Jesus Christ did not know where they were, nor whether they were great or small. And those who have said the one or the other, knew nothing about it, and guessed without reason and by chance. They also erred always in excluding the one or the other.
 
 Quod ergo ignorantes, quæritis, religio annuntiat vobis.
 
@@ -7553,17 +7558,17 @@ After having understood the whole nature of man. — That a religion may be true
 
 <span class="atom-split" data-atom="110" data-title="SECTION VII. Morality and Doctrine (3/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
 
-The chief arguments of the sceptics — I pass over the lesser ones — are that we have no certainty of the truth of these principles apart from faith and revelation, except in so far as we naturally perceive them in ourselves. Now this natural intuition is not a convincing proof of their truth; since, having no certainty, apart from faith, whether man was created by a good God, or by a wicked demon, or by chance, it is doubtful whether these principles given to us are true, or false, or uncertain, according to our origin. Again, no person is certain, apart from faith, whether he is awake or sleeps, seeing that during sleep we believe that we are awake as firmly as we do when we are awake; we believe that we see space, figure, and motion; we are aware of the passage of time, we measure it; and in fact we act as if we were awake. So that half of our life being passed in sleep, we have on our own admission no idea of truth, whatever we may imagine. As all our intuitions are then illusions, who knows whether the other half of our life, in which we think we are awake, is not another sleep a little different from the former, from which we awake when we suppose ourselves asleep?
+The chief arguments of the sceptics — I pass over the lesser ones — are that we have no certainty of the truth of these principles apart from faith and [revelation](/concepts/revelation), except in so far as we naturally perceive them in ourselves. Now this natural intuition is not a convincing proof of their truth; since, having no certainty, apart from faith, whether man was created by a good God, or by a wicked demon, or by chance, it is doubtful whether these principles given to us are true, or false, or uncertain, according to our origin. Again, no person is certain, apart from faith, whether he is awake or sleeps, seeing that during sleep we believe that we are awake as firmly as we do when we are awake; we believe that we see space, figure, and motion; we are aware of the passage of time, we measure it; and in fact we act as if we were awake. So that half of our life being passed in sleep, we have on our own admission no idea of truth, whatever we may imagine. As all our intuitions are then illusions, who knows whether the other half of our life, in which we think we are awake, is not another sleep a little different from the former, from which we awake when we suppose ourselves asleep?
 
 [And who doubts that, if we dreamt in company, and the dreams chanced to agree, which is common enough, and if we were always alone when awake, we should believe that matters were reversed? In short, as we often dream that we dream, heaping dream upon dream, may it not be that this half of our life, wherein we think ourselves awake, is itself only a dream on which the others are grafted, from which we wake at death, during which we have as few principles of truth and good as during natural sleep, these different thoughts which disturb us being perhaps only illusions like the flight of time and the vain fancies of our dreams?]
 
 These are the chief arguments on one side and the other.
 
-I omit minor ones, such as the sceptical talk against the impressions of custom, education, manners, country, and the like. Though these influence the majority of common folk, who dogmatise only on shallow foundations, they are upset by the least breath of the sceptics. We have only to see their books if we are not sufficiently convinced of this, and we shall very quickly become so, perhaps too much.
+I omit minor ones, such as the sceptical talk against the impressions of [custom](/concepts/custom), education, manners, country, and the like. Though these influence the majority of common folk, who dogmatise only on shallow foundations, they are upset by the least breath of the sceptics. We have only to see their books if we are not sufficiently convinced of this, and we shall very quickly become so, perhaps too much.
 
 I notice the only strong point of the dogmatists, namely, that, speaking in good faith and sincerely, we cannot doubt natural principles. Against this the sceptics set up in one word the uncertainty of our origin, which includes that of our nature. The dogmatists have been trying to answer this objection ever since the world began.
 
-So there is open war among men, in which each must take a part, and side either with dogmatism or scepticism. For he who thinks to remain neutral is above all a sceptic. This neutrality is the essence of the sect; he who is not against them is essentially for them. [In this appears their advantage.] They are not for themselves; they are neutral, indifferent, in suspense as to all things, even themselves being no exception.
+So there is open war among men, in which each must take a part, and side either with dogmatism or [scepticism](/positions/scepticism). For he who thinks to remain neutral is above all a sceptic. This neutrality is the essence of the sect; he who is not against them is essentially for them. [In this appears their advantage.] They are not for themselves; they are neutral, indifferent, in suspense as to all things, even themselves being no exception.
 
 What then shall man do in this state? Shall he doubt everything? Shall he doubt whether he is awake, whether he is being pinched, or whether he is being burned? Shall he doubt whether he doubts? Shall he doubt whether he exists? We cannot go so far as that; and I lay it down as a fact that there never has been a real complete sceptic. Nature sustains our feeble reason, and prevents it raving to this extent.
 
@@ -7581,7 +7586,7 @@ It is, however, an astonishing thing that the mystery furthest removed from our 
 
 [Whence it seems that God, willing to render the difficulty of our existence unintelligible to ourselves, has concealed the knot so high, or, better speaking, so low, that we are quite incapable of reaching it; so that it is not by the proud exertions of our reason, but by the simple submissions of reason, that we can truly know ourselves.
 
-These foundations, solidly established on the inviolable authority of religion, make us know that there are two truths of faith equally certain: the one, that man, in the state of creation, or in that of grace, is raised above all nature, made like unto God and sharing in His divinity; the other, that in the state of corruption and sin, he is fallen from this state and made like unto the beasts.
+These foundations, solidly established on the inviolable authority of religion, make us know that there are two truths of faith equally certain: the one, that man, in [the state](/concepts/state) of creation, or in that of [grace](/concepts/grace), is raised above all nature, made like unto God and sharing in His divinity; the other, that in the state of corruption and sin, he is fallen from this state and made like unto the beasts.
 
 These two propositions are equally sound and certain. Scripture manifestly declares this to us, when it says in some places: Deliciæ meæ esse cum filiis hominum. Effundam spiritum meum super omnem carnem. Dii estis, &c.; and in other places, Omnis caro fænum. Homo assimilatus est jumentis insipientibus, et similis factus est illis. Dixi in corde meo de filiis hominum. Eccles. iii.
 
@@ -7593,7 +7598,7 @@ Without this divine knowledge what could men do but either become elated by the 
 
 <span class="atom-split" data-atom="111" data-title="SECTION VII. Morality and Doctrine (4/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
 
-The Christian religion alone has been able to cure these two vices, not by expelling the one through means of the other according to the wisdom of the world, but by expelling both according to the simplicity of the Gospel. For it teaches the righteous that it raises them even to a participation in divinity itself; that in this lofty state they still carry the source of all corruption, which renders them during all their life subject to error, misery, death, and sin; and it proclaims to the most ungodly that they are capable of the grace of their Redeemer. So making those tremble whom it justifies, and consoling those whom it condemns, religion so justly tempers fear with hope through that double capacity of grace and of sin, common to all, that it humbles infinitely more than reason alone can do, but without despair; and it exalts infinitely more than natural pride, but without inflating; thus making it evident that alone being exempt from error and vice, it alone fulfils the duty of instructing and correcting men.
+The Christian religion alone has been able to cure these two vices, not by expelling the one through means of the other according to the wisdom of the world, but by expelling both according to the simplicity of the Gospel. For it teaches the righteous that it raises them even to a participation in divinity itself; that in this lofty state they still carry the source of all corruption, which renders them during all their life subject to error, misery, death, and sin; and it proclaims to the most ungodly that they are capable of the [grace](/concepts/grace) of their Redeemer. So making those tremble whom it justifies, and consoling those whom it condemns, religion so justly tempers fear with hope through that double capacity of grace and of sin, common to all, that it humbles infinitely more than reason alone can do, but without despair; and it exalts infinitely more than natural pride, but without inflating; thus making it evident that alone being exempt from error and vice, it alone fulfils the duty of instructing and correcting men.
 
 Who then can refuse to believe and adore this heavenly light? For is it not clearer than day that we perceive within ourselves ineffaceable marks of excellence? And is it not equally true that we experience every hour the results of our deplorable condition? What does this chaos and monstrous confusion proclaim to us but the truth of these two states, with a voice so powerful that it is impossible to resist it?
 
@@ -7623,7 +7628,7 @@ The corruption of reason is shown by the existence of so many different and extr
 
 441
 
-For myself, I confess that so soon as the Christian religion reveals the principle that human nature is corrupt and fallen from God, that opens my eyes to see everywhere the mark of this truth: for nature is such that she testifies everywhere, both within man and without him, to a lost God and a corrupt nature.
+For myself, I confess that so soon as the Christian religion reveals the principle that [human nature](/axes/human_nature) is corrupt and fallen from God, that opens my eyes to see everywhere the mark of this truth: for nature is such that she testifies everywhere, both within man and without him, to a lost God and a corrupt nature.
 
 442
 
@@ -7641,7 +7646,7 @@ This religion taught to her children what men have only been able to discover by
 
 445
 
-Original sin is foolishness to men, but it is admitted to be such. You must not then reproach me for the want of reason in this doctrine, since I admit it to be without reason. But this foolishness is wiser than all the wisdom of men, sapientius est hominibus. For without this, what can we say that man is? His whole state depends on this imperceptible point. And how should it be perceived by his reason, since it is a thing against reason, and since reason, far from finding it out by her own ways, is averse to it when it is presented to her?
+[Original sin](/positions/original_sin) is foolishness to men, but it is admitted to be such. You must not then reproach me for the want of reason in this doctrine, since I admit it to be without reason. But this foolishness is wiser than all the wisdom of men, sapientius est hominibus. For without this, what can we say that man is? His whole state depends on this imperceptible point. And how should it be perceived by his reason, since it is a thing against reason, and since reason, far from finding it out by her own ways, is averse to it when it is presented to her?
 
 446
 
@@ -7651,7 +7656,7 @@ On the saying in Genesis viii, 21: “The imagination of man’s heart is evil f
 
 R. Moses Haddarschan: This evil leaven is placed in man from the time that he is formed.
 
-Massechet Succa: This evil leaven has seven names in Scripture. It is called evil, the foreskin, uncleanness, an enemy, a scandal, a heart of stone, the north wind; all this signifies the malignity which is concealed and impressed in the heart of man.
+Massechet Succa: This evil leaven has seven names in [Scripture](/concepts/revelation). It is called evil, the foreskin, uncleanness, an enemy, a scandal, a heart of stone, the north wind; all this signifies the malignity which is concealed and impressed in the heart of man.
 
 Midrasch Tillim says the same thing, and that God will deliver the good nature of man from the evil.
 
@@ -7703,7 +7708,7 @@ All men naturally hate one another. They employ lust as far as possible in the s
 
 <span class="atom-split" data-atom="112" data-title="SECTION VII. Morality and Doctrine (5/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
 
-To pity the unfortunate is not contrary to lust. On the contrary, we can quite well give such evidence of friendship, and acquire the reputation of kindly feeling, without giving anything.
+To pity the unfortunate is not contrary to lust. On the contrary, we can quite well give such evidence of [friendship](/concepts/friendship), and acquire the reputation of kindly feeling, without giving anything.
 
 453
 
@@ -7801,7 +7806,7 @@ I feel that I might not have been; for the Ego consists in my thoughts. Therefor
 
 <span class="atom-split" data-atom="113" data-title="SECTION VII. Morality and Doctrine (6/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
 
-“Had I seen a miracle,” say men, “I should become converted.” How can they be sure they would do a thing of the nature of which they are ignorant? They imagine that this conversion consists in a worship of God which is like commerce, and in a communion such as they picture to themselves. True religion consists in annihilating self before that Universal Being, whom we have so often provoked, and who can justly destroy us at any time; in recognising that we can do nothing without Him, and have deserved nothing from Him but His displeasure. It consists in knowing that there is an unconquerable opposition between us and God, and that without a mediator there can be no communion with Him.
+“Had I seen a [miracle](/concepts/miracle),” say men, “I should become converted.” How can they be sure they would do a thing of the nature of which they are ignorant? They imagine that this conversion consists in a [worship](/concepts/religion) of God which is like commerce, and in a communion such as they picture to themselves. True religion consists in annihilating self before that Universal Being, whom we have so often provoked, and who can justly destroy us at any time; in recognising that we can do nothing without Him, and have deserved nothing from Him but His displeasure. It consists in knowing that there is an unconquerable opposition between us and God, and that without a mediator there can be no communion with Him.
 
 471
 
@@ -7885,7 +7890,7 @@ The dignity of man in his innocence consisted in using and having dominion over 
 
 487
 
-Every religion is false, which as to its faith does not worship one God as the origin of everything, and which as to its morality does not love one only God as the object of everything.
+Every religion is false, which as to its faith does not [worship](/concepts/religion) one God as the origin of everything, and which as to its morality does not love one only God as the object of everything.
 
 488
 
@@ -7933,11 +7938,11 @@ Against those who, trusting to the mercy of God, live heedlessly, without doing 
 
 498
 
-It is true there is difficulty in entering into godliness. But this difficulty does not arise from the religion which begins in us, but from the irreligion which is still there. If our senses were not opposed to penitence, and if our corruption were not opposed to the purity of God, there would be nothing in this painful to us. We suffer only in proportion as the vice which is natural to us resists supernatural grace. Our heart feels torn asunder between these opposed efforts. But it would be very unfair to impute this violence to God, who is drawing us on, instead of to the world, which is holding us back. It is as a child, which a mother tears from the arms of robbers, in the pain it suffers, should love the loving and legitimate violence of her who procures its liberty, and detest only the impetuous and tyrannical violence of those who detain it unjustly. The most cruel war which God can make with men in this life is to leave them without that war which He came to bring. “I came to send war,” He says, “and to teach them of this war. I came to bring fire and the sword.” Before Him the world lived in this false peace.
+It is true there is difficulty in entering into godliness. But this difficulty does not arise from the religion which begins in us, but from the irreligion which is still there. If our senses were not opposed to penitence, and if our corruption were not opposed to the purity of God, there would be nothing in this painful to us. We suffer only in proportion as the vice which is natural to us resists supernatural [grace](/concepts/grace). Our heart feels torn asunder between these opposed efforts. But it would be very unfair to impute this violence to God, who is drawing us on, instead of to the world, which is holding us back. It is as a child, which a mother tears from the arms of robbers, in the pain it suffers, should love the loving and legitimate violence of her who procures its liberty, and detest only the impetuous and tyrannical violence of those who detain it unjustly. The most cruel war which God can make with men in this life is to leave them without that war which He came to bring. “I came to send war,” He says, “and to teach them of this war. I came to bring fire and the sword.” Before Him the world lived in this false peace.
 
 499
 
-External works. — There is nothing so perilous as what pleases God and man. For those states, which please God and man, have one property which pleases God, and another which pleases men; as the greatness of Saint Teresa. What pleased God was her deep humility in the midst of her revelations; what pleased men was her light. And so we torment ourselves to imitate her discourses, thinking to imitate her conditions, and not so much to love what God loves, and to put ourselves in the state which God loves.
+External works. — There is nothing so perilous as what pleases God and man. For those states, which please God and man, have one property which pleases God, and another which pleases men; as the greatness of Saint Teresa. What pleased God was her deep humility in the midst of her revelations; what pleased men was her light. And so we torment ourselves to imitate her discourses, thinking to imitate her conditions, and not so much to love what God loves, and to put ourselves in [the state](/concepts/state) which God loves.
 
 It is better not to fast, and thereby humbled, than to fast and be self-satisfied therewith. The Pharisee and the Publican.
 
@@ -7955,7 +7960,7 @@ Second step: to be neither praised, nor blamed.
 
 502
 
-Abraham took nothing for himself, but only for his servants. So the righteous man takes for himself nothing of the world, nor the applause of the world, but only for his passions, which he uses as their master, saying to the one, “Go,” and to another, “Come.” Sub te erit appetitus tuus. The passions thus subdued are virtues. Even God attributes to Himself avarice, jealousy, anger; and these are virtues as well as kindness, pity, constancy, which are also passions. We must employ them as slaves, and, leaving to them their food, prevent the soul from taking any of it. For, when the passions become masters, they are vices; and they give their nutriment to the soul, and the soul nourishes itself upon it, and is poisoned.
+Abraham took nothing for himself, but only for his servants. So the righteous man takes for himself nothing of the world, nor the applause of the world, but only for his passions, which he uses as their master, saying to the one, “Go,” and to another, “Come.” Sub te erit appetitus tuus. The passions thus subdued are virtues. Even God attributes to Himself avarice, jealousy, [anger](/concepts/anger); and these are virtues as well as kindness, pity, constancy, which are also passions. We must employ them as slaves, and, leaving to them their food, prevent the soul from taking any of it. For, when the passions become masters, they are vices; and they give their nutriment to the soul, and the soul nourishes itself upon it, and is poisoned.
 
 503
 
@@ -7971,7 +7976,7 @@ All things can be deadly to us, even the things made to serve us; as in nature w
 
 <span class="atom-split" data-atom="115" data-title="SECTION VII. Morality and Doctrine (8/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
 
-The least movement affects all nature; the entire sea changes because of a rock. Thus in grace, the least action affects everything by its consequences; therefore everything is important.
+The least movement affects all nature; the entire sea changes because of a rock. Thus in [grace](/concepts/grace), the least action affects everything by its consequences; therefore everything is important.
 
 In each action we must look beyond the action at our past, present, and future state, and at others whom it affects, and see the relations of all those things. And then we shall be very cautious.
 
@@ -8043,7 +8048,7 @@ Dignare me.
 
 God is only bound according to His promises. He has promised to grant justice to prayers; He has never promised prayer only to the children of promise.
 
-Saint Augustine has distinctly said that strength would be taken away from the righteous. But it is by chance that he said it; for it might have happened that the occasion of saying it did not present itself. But his principles make us see that when the occasion for it presented itself, it was impossible that he should not say it, or that he should say anything to the contrary. It is then rather that he was forced to say it, when the occasion presented itself, than that he said it, when the occasion presented itself, the one being of necessity, the other of chance. But the two are all that we can ask.
+Saint [Augustine](/figures/augustine) has distinctly said that strength would be taken away from the righteous. But it is by chance that he said it; for it might have happened that the occasion of saying it did not present itself. But his principles make us see that when the occasion for it presented itself, it was impossible that he should not say it, or that he should say anything to the contrary. It is then rather that he was forced to say it, when the occasion presented itself, than that he said it, when the occasion presented itself, the one being of necessity, the other of chance. But the two are all that we can ask.
 
 514
 
@@ -8051,7 +8056,7 @@ Saint Augustine has distinctly said that strength would be taken away from the r
 
 Proofs of prayer. Petenti dabitur.
 
-Therefore it is in our power to ask. On the other hand, there is God. So it is not in our power, since the obtaining of (the grace) to pray to Him in not in our power. For since salvation is not in us, and the obtaining of such grace is from Him, prayer is not in our power.
+Therefore it is in our power to ask. On the other hand, there is God. So it is not in our power, since the obtaining of (the [grace](/concepts/grace)) to pray to Him in not in our power. For since salvation is not in us, and the obtaining of such grace is from Him, prayer is not in our power.
 
 The righteous man should then hope no more in God, for he ought not to hope, but to strive to obtain what he wants.
 
@@ -8075,7 +8080,7 @@ Comfort yourselves. It is not from yourselves that you should expect grace; but,
 
 518
 
-Every condition, and even the martyrs, have to fear, according to Scripture.
+Every condition, and even the martyrs, have to fear, according to [Scripture](/concepts/revelation).
 
 The greatest pain of purgatory is the uncertainty of the judgment. Deus absconditus.
 
@@ -8191,7 +8196,7 @@ The Christian religion alone makes man altogether lovable and happy. In honesty,
 
 543
 
-Preface. — The metaphysical proofs of God are so remote from the reasoning of men, and so complicated, that they make little impression; and if they should be of service to some, it would be only during the moment that they see such demonstration; but an hour afterwards they fear they have been mistaken.
+Preface. — The metaphysical [proofs of God](/positions/demonstrative_theism) are so remote from the reasoning of men, and so complicated, that they make little impression; and if they should be of service to some, it would be only during the moment that they see such demonstration; but an hour afterwards they fear they have been mistaken.
 
 Quod curiositate cognoverunt superbia amiserunt.
 
@@ -8211,7 +8216,7 @@ Without Jesus Christ man must be in vice and misery; with Jesus Christ man is fr
 
 547
 
-We know God only by Jesus Christ. Without this mediator all communion with God is taken away; through Jesus Christ we know God. All those who have claimed to know God, and to prove Him without Jesus Christ, have had only weak proofs. But in proof of Jesus Christ we have the prophecies, which are solid and palpable proofs. And these prophecies, being accomplished and proved true by the event, mark the certainty of these truths, and therefore the divinity of Christ. In Him then, and through Him, we know God. Apart from Him, and without the Scripture, without original sin, without a necessary Mediator promised and come, we cannot absolutely prove God, nor teach right doctrine and right morality. But through Jesus Christ, and in Jesus Christ, we prove God, and teach morality and doctrine. Jesus Christ is then the true God of men.
+We know God only by Jesus Christ. Without this mediator all communion with God is taken away; through Jesus Christ we know God. All those who have claimed to know God, and to prove Him without Jesus Christ, have had only weak proofs. But in proof of Jesus Christ we have the prophecies, which are solid and palpable proofs. And these prophecies, being accomplished and proved true by the event, mark the certainty of these truths, and therefore the divinity of Christ. In Him then, and through Him, we know God. Apart from Him, and without the [Scripture](/concepts/revelation), without [original sin](/positions/original_sin), without a necessary Mediator promised and come, we cannot absolutely prove God, nor teach right doctrine and right morality. But through Jesus Christ, and in Jesus Christ, we prove God, and teach morality and doctrine. Jesus Christ is then the true God of men.
 
 But we know at the same time our wretchedness; for this God is none other than the Saviour of our wretchedness. So we can only know God well by knowing our iniquities. Therefore those who have known God, without knowing their wretchedness, have not glorified Him, but have glorified themselves. Quia…non cognovit per sapientiam…placuit Deo per stultitiam prædicationis salvos facere.
 
@@ -8231,7 +8236,7 @@ Quo quisque optimus est, pessimus, si hoc ipsum, quod optimus est, adscribat sib
 
 I love poverty because He loved it. I love riches because they afford me the means of helping the very poor. I keep faith with everybody; I do not render evil to those who wrong me, but I wish them a lot like mine, in which I receive neither evil nor good from men. I try to be just, true, sincere, and faithful to all men; I have a tender heart for those to whom God has more closely united me; and whether I am alone, or seen of men, I do all my actions in the sight of God, who must judge of them, and to whom I have consecrated them all.
 
-These are my sentiments; and every day of my life I bless my Redeemer, who has implanted them in me, and who, of a man full of weakness, of miseries, of lust, of pride, and of ambition, has made a man free from all these evils by the power of His grace, to which all the glory of it is due, as of myself I have only misery and error.
+These are my sentiments; and every day of my life I bless my Redeemer, who has implanted them in me, and who, of a man full of weakness, of miseries, of lust, of pride, and of ambition, has made a man free from all these evils by the power of His [grace](/concepts/grace), to which all the glory of it is due, as of myself I have only misery and error.
 
 551
 
@@ -8243,7 +8248,7 @@ The Sepulchre of Jesus Christ. — Jesus Christ was dead, but seen on the Cross.
 
 Jesus Christ was buried by the saints alone.
 
-Jesus Christ wrought no miracle at the Sepulchre.
+Jesus Christ wrought no [miracle](/concepts/miracle) at the Sepulchre.
 
 Only the saints entered it.
 
@@ -8313,7 +8318,7 @@ If God gave us masters by His own hand, oh! how necessary for us to obey them wi
 
 “Thy conversion is My affair; fear not, and pray with confidence as for Me.
 
-“I am present with thee by My Word in Scripture, by My Spirit in the Church and by inspiration, by My power in the priests, by My prayer in the faithful.
+“I am present with thee by My Word in [Scripture](/concepts/revelation), by My Spirit in the Church and by inspiration, by My power in the priests, by My prayer in the faithful.
 
 “Physicians will not heal thee, for thou wilt die at last. But it is I who heal thee, and make the body immortal.
 
@@ -8371,7 +8376,7 @@ And yet they take occasion to conclude that one of these points does not exist, 
 
 The whole course of things must have for its object the establishment and the greatness of religion. Men must have within them feelings suited to what religion teaches us. And, finally, religion must so be the object and centre to which all things tend, that whoever knows the principles of religion can give an explanation both of the whole nature of man in particular, and of the whole course of the world in general.
 
-And on this ground they take occasion to revile the Christian religion, because they misunderstand it. They imagine that it consists simply in the worship of a God considered as great, powerful, and eternal; which is strictly deism, almost as far removed from the Christian religion as atheism, which is its exact opposite. And thence they conclude that this religion is not true, because they do not see that all things concur to the establishment of this point, that God does not manifest Himself to men with all the evidence which He could show.
+And on this ground they take occasion to revile the Christian religion, because they misunderstand it. They imagine that it consists simply in the [worship](/concepts/religion) of a God considered as great, powerful, and eternal; which is strictly [deism](/positions/deism), almost as far removed from the Christian religion as [atheism](/positions/atheism), which is its exact opposite. And thence they conclude that this religion is not true, because they do not see that all things concur to the establishment of this point, that God does not manifest Himself to men with all the evidence which He could show.
 
 But let them conclude what they will against deism, they will conclude nothing against the Christian religion, which properly consists in the mystery of the Redeemer, who, uniting in Himself the two natures, human and divine, has redeemed men from the corruption of sin in order to reconcile them in His divine person to God.
 
@@ -8397,7 +8402,7 @@ All appearance indicates neither a total exclusion nor a manifest presence of di
 
 …Shall he alone who knows his nature know it only to be miserable? Shall he alone who knows it be alone unhappy?
 
-…He must not see nothing at all, nor must he see sufficient for him to believe he possesses it; but he must see enough to know that he has lost it. For to know of his loss, he must see and not see; and that is exactly the state in which he naturally is.
+…He must not see nothing at all, nor must he see sufficient for him to believe he possesses it; but he must see enough to know that he has lost it. For to know of his loss, he must see and not see; and that is exactly [the state](/concepts/state) in which he naturally is.
 
 …Whatever part he takes, I shall not leave him at rest…
 
@@ -8425,7 +8430,7 @@ So the two proofs of corruption and redemption are drawn from the ungodly, who l
 
 There are two ways of proving the truths of our religion; one by the power of reason, the other by the authority of him who speaks.
 
-We do not make use of the latter, but of the former. We do not say, “This must be believed, for Scripture, which says it, is divine.” But we say that it must be believed for such and such a reason, which are feeble arguments, as reason may be bent to everything.
+We do not make use of the latter, but of the former. We do not say, “This must be believed, for [Scripture](/concepts/revelation), which says it, is divine.” But we say that it must be believed for such and such a reason, which are feeble arguments, as reason may be bent to everything.
 
 562
 
@@ -8439,7 +8444,7 @@ It will be one of the confusions of the damned to see that they are condemned by
 
 564
 
-The prophecies, the very miracles and proofs of our religion, are not of such a nature that they can be said to be absolutely convincing. But they are also of such a kind that it cannot be said that it is unreasonable to believe them. Thus there is both evidence and obscurity to enlighten some and confuse others. But the evidence is such that it surpasses, or at least equals, the evidence to the contrary; so that it is not reason which can determine men not to follow it, and thus it can only be lust or malice of heart. And by this means there is sufficient evidence to condemn, and insufficient to convince; so that it appears in those who follow it, that it is grace, and not reason, which makes them follow it; and in those who shun it, that it is lust, not reason, which makes them shun it.
+The prophecies, the very miracles and proofs of our religion, are not of such a nature that they can be said to be absolutely convincing. But they are also of such a kind that it cannot be said that it is unreasonable to believe them. Thus there is both evidence and obscurity to enlighten some and confuse others. But the evidence is such that it surpasses, or at least equals, the evidence to the contrary; so that it is not reason which can determine men not to follow it, and thus it can only be lust or malice of heart. And by this means there is sufficient evidence to condemn, and insufficient to convince; so that it appears in those who follow it, that it is [grace](/concepts/grace), and not reason, which makes them follow it; and in those who shun it, that it is lust, not reason, which makes them shun it.
 
 Vere discipuli, vere Israëlita, vere liberi, vere cibus.
 
@@ -8457,7 +8462,7 @@ The two contrary reasons. We must begin with that; without that we understand no
 
 568
 
-Objection. The Scripture is plainly full of matters not dictated by the Holy Spirit. — Answer. Then they do not harm faith. — Objection. But the Church has decided that all is of the Holy Spirit. — Answer. I answer two things: first, the Church has not so decided; secondly, if she should so decide, it could be maintained.
+Objection. The [Scripture](/concepts/revelation) is plainly full of matters not dictated by the Holy Spirit. — Answer. Then they do not harm faith. — Objection. But the Church has decided that all is of the Holy Spirit. — Answer. I answer two things: first, the Church has not so decided; secondly, if she should so decide, it could be maintained.
 
 Do you think that the prophecies cited in the Gospel are related to make you believe? No, it is to keep you from believing.
 
@@ -8477,7 +8482,7 @@ To accomplish all this, God chose this carnal people, to whom He entrusted the p
 
 Wherefore the prophecies have a hidden and spiritual meaning, to which this people were hostile, under the carnal meaning which they loved. If the spiritual meaning had been revealed, they would not have loved it, and, unable to bear it, they would not have been zealous of the preservation of their books and their ceremonies; and if they had loved these spiritual promises, and had preserved them incorrupt till the time of the Messiah, their testimony would have had no force, because they had been his friends.
 
-Therefore it was well that the spiritual meaning should be concealed; but, on the other hand, if this meaning had been so hidden as not to appear at all, it could not have served as a proof of the Messiah. What then was done? In a crowd of passages it has been hidden under the temporal meaning, and in a few has been clearly revealed; besides that the time and the state of the world have been so clearly foretold that it is clearer than the sun. And in some places this spiritual meaning is so clearly expressed, that it would require a blindness like that which the flesh imposes on the spirit when it is subdued by it, not to recognise it.
+Therefore it was well that the spiritual meaning should be concealed; but, on the other hand, if this meaning had been so hidden as not to appear at all, it could not have served as a proof of the Messiah. What then was done? In a crowd of passages it has been hidden under the temporal meaning, and in a few has been clearly revealed; besides that the time and [the state](/concepts/state) of the world have been so clearly foretold that it is clearer than the sun. And in some places this spiritual meaning is so clearly expressed, that it would require a blindness like that which the flesh imposes on the spirit when it is subdued by it, not to recognise it.
 
 See, then, what has been the prudence of God. This meaning is concealed under another in an infinite number of passages, and in some, though rarely, it is revealed; but yet so that the passages in which it is concealed are equivocal, and can suit both meanings; whereas the passages where it is disclosed are unequivocal, and can only suit the spiritual meaning.
 
@@ -8517,7 +8522,7 @@ All things work together for good to the elect, even the obscurities of Scriptur
 
 <span class="atom-split" data-atom="121" data-title="SECTION VIII. The Fundamentals of the Christian Religion (3/3)" data-chapter="SECTION VIII. The Fundamentals of the Christian Religion" data-kind="atom"></span>
 
-The general conduct of the world towards the Church: God willing to blind and to enlighten. — The event having proved the divinity of these prophecies, the rest ought to be believed. And thereby we see the order of the world to be of this kind. The miracles of the Creation and the Deluge being forgotten, God sends the law and the miracles of Moses, the prophets who prophesied particular things; and to prepare a lasting miracle, He prepares prophecies and their fulfilment; but, as the prophecies could be suspected, He desires to make them above suspicion, &c.
+The general conduct of the world towards the Church: God willing to blind and to enlighten. — The event having proved the divinity of these prophecies, the rest ought to be believed. And thereby we see the order of the world to be of this kind. The miracles of the Creation and the Deluge being forgotten, God sends the law and the miracles of Moses, the prophets who prophesied particular things; and to prepare a lasting [miracle](/concepts/miracle), He prepares prophecies and their fulfilment; but, as the prophecies could be suspected, He desires to make them above suspicion, &c.
 
 577
 
@@ -8525,9 +8530,9 @@ God has made the blindness of this people subservient to the good of the elect.
 
 578
 
-There is sufficient clearness to enlighten the elect, and sufficient obscurity to humble them. There is sufficient obscurity to blind the reprobate, and sufficient clearness to condemn them, and make them inexcusable. — Saint Augustine, Montaigne, Sebond.
+There is sufficient clearness to enlighten the elect, and sufficient obscurity to humble them. There is sufficient obscurity to blind the reprobate, and sufficient clearness to condemn them, and make them inexcusable. — Saint [Augustine](/figures/augustine), Montaigne, Sebond.
 
-The genealogy of Jesus Christ in the Old Testament is intermingled with so many others that are useless, that it cannot be distinguished. If Moses had kept only the record of the ancestors of Christ, that might have been too plain. If he had not noted that of Jesus Christ, it might not have been sufficiently plain. But, after all, whoever looks closely sees that of Jesus Christ expressly traced through Tamar, Ruth, &c.
+The [genealogy](/positions/genealogy) of Jesus Christ in the Old Testament is intermingled with so many others that are useless, that it cannot be distinguished. If Moses had kept only the record of the ancestors of Christ, that might have been too plain. If he had not noted that of Jesus Christ, it might not have been sufficiently plain. But, after all, whoever looks closely sees that of Jesus Christ expressly traced through Tamar, Ruth, &c.
 
 Those who ordained these sacrifices, knew their uselessness; those who have declared their uselessness, have not ceased to practise them.
 
@@ -8539,7 +8544,7 @@ Thus all the very apparent weaknesses are strength. Example; the two genealogies
 
 579
 
-God (and the Apostles), foreseeing that the seeds of pride would make heresies spring up, and being unwilling to give them occasion to arise from correct expressions, has put in Scripture and the prayers of the Church contrary words and sentences to produce their fruit in time.
+God (and the Apostles), foreseeing that the seeds of pride would make heresies spring up, and being unwilling to give them occasion to arise from correct expressions, has put in [Scripture](/concepts/revelation) and the prayers of the Church contrary words and sentences to produce their fruit in time.
 
 So in morals He gives charity, which produces fruits contrary to lust.
 
@@ -8553,7 +8558,7 @@ God prefers rather to incline the will than the intellect. Perfect clearness wou
 
 582
 
-We make an idol of truth itself; for truth apart from charity is not God, but His image and idol, which we must neither love nor worship; and still less must we love or worship its opposite, namely, falsehood.
+We make an idol of truth itself; for truth apart from charity is not God, but His image and idol, which we must neither love nor [worship](/concepts/religion); and still less must we love or worship its opposite, namely, falsehood.
 
 I can easily love total darkness; but if God keeps me in a state of semi-darkness, such partial darkness displeases me, and, because I do not see therein the advantage of total darkness, it is unpleasant to me. This is a fault, and a sign that I make for myself an idol of darkness, apart from the order of God. Now only His order must be worshipped.
 
@@ -8563,7 +8568,7 @@ The feeble-minded are people who know the truth, but only affirm it so far as co
 
 584
 
-The world exists for the exercise of mercy and judgment, not as if men were placed in it out of the hands of God, but as hostile to God; and to them He grants by grace sufficient light, that they may return to Him, if they desire to seek and follow Him; and also that they may be punished, if they refuse to seek or follow Him.
+The world exists for the exercise of mercy and judgment, not as if men were placed in it out of the hands of God, but as hostile to God; and to them He grants by [grace](/concepts/grace) sufficient light, that they may return to Him, if they desire to seek and follow Him; and also that they may be punished, if they refuse to seek or follow Him.
 
 585
 
@@ -8643,7 +8648,7 @@ The Koran says Saint Matthew was an honest man. Therefore Mahomet was a false pr
 
 It is not by that which is obscure in Mahomet, and which may be interpreted in a mysterious sense, that I would have him judged, but by what is clear, as his paradise and the rest. In that he is ridiculous. And since what is clear is ridiculous, it is not right to take his obscurities for mysteries.
 
-It is not the same with the Scripture. I agree that there are in it obscurities as strange as those of Mahomet; but there are admirably clear passages, and the prophecies are manifestly fulfilled. The cases are therefore not on a par. We must not confound, and put on one level things which only resemble each other in their obscurity, and not in the clearness, which requires us to reverence the obscurities.
+It is not the same with the [Scripture](/concepts/revelation). I agree that there are in it obscurities as strange as those of Mahomet; but there are admirably clear passages, and the prophecies are manifestly fulfilled. The cases are therefore not on a par. We must not confound, and put on one level things which only resemble each other in their obscurity, and not in the clearness, which requires us to reverence the obscurities.
 
 599
 
@@ -8679,7 +8684,7 @@ The Jewish religion is wholly divine in its authority, its duration, its perpetu
 
 604
 
-The only science contrary to common sense and human nature is that alone which has always existed among men.
+The only science contrary to common sense and [human nature](/axes/human_nature) is that alone which has always existed among men.
 
 605
 
@@ -8705,7 +8710,7 @@ The Jews were of two kinds; the first had only heathen affections, the other had
 
 609
 
-There are two kinds of men in each religion: among the heathen, worshippers of beasts, and the worshippers of the one only God of natural religion; among the Jews, the carnal, and the spiritual, who were the Christians of the old law; among Christians, the coarser-minded, who are the Jews of the new law. The carnal Jews looked for a carnal Messiah; the coarser Christians believe that the Messiah has dispensed them from the love of God; true Jews and true Christians worship a Messiah who makes them love God.
+There are two kinds of men in each religion: among the heathen, worshippers of beasts, and the worshippers of the one only God of [natural religion](/positions/deism); among the Jews, the carnal, and the spiritual, who were the Christians of the old law; among Christians, the coarser-minded, who are the Jews of the new law. The carnal Jews looked for a carnal Messiah; the coarser Christians believe that the Messiah has dispensed them from the love of God; true Jews and true Christians [worship](/concepts/religion) a Messiah who makes them love God.
 
 610
 
@@ -8811,7 +8816,7 @@ Perpetuity. — The Messiah has always been believed in. The tradition from Adam
 
 617
 
-Perpetuity. — Let us consider that since the beginning of the world the expectation of worship of the Messiah has existed uninterruptedly; that there have been found men, who said that God had revealed to them that a Redeemer was to be born, who should save His people; that Abraham came afterwards, saying that he had had a revelation that the Messiah was to spring from him by a son, whom he should have; that Jacob declared that, of his twelve sons, the Messiah would spring from Judah; that Moses and the prophets then came to declare the time and the manner of His coming; that they said their law was only temporary till that of the Messiah, that it should endure till then, but that the other should last for ever; that thus either their law, or that of the Messiah, of which it was the promise, would be always upon the earth; that, in fact, it has always endured; that at last Jesus Christ came with all the circumstances foretold. This is wonderful.
+Perpetuity. — Let us consider that since the beginning of the world the expectation of [worship](/concepts/religion) of the Messiah has existed uninterruptedly; that there have been found men, who said that God had revealed to them that a Redeemer was to be born, who should save His people; that Abraham came afterwards, saying that he had had a [revelation](/concepts/revelation) that the Messiah was to spring from him by a son, whom he should have; that Jacob declared that, of his twelve sons, the Messiah would spring from Judah; that Moses and the prophets then came to declare the time and the manner of His coming; that they said their law was only temporary till that of the Messiah, that it should endure till then, but that the other should last for ever; that thus either their law, or that of the Messiah, of which it was the promise, would be always upon the earth; that, in fact, it has always endured; that at last Jesus Christ came with all the circumstances foretold. This is wonderful.
 
 618
 
@@ -8839,7 +8844,7 @@ To meet with this people is astonishing to me, and seems to me worthy of attenti
 
 Advantages of the Jewish people. — In this search the Jewish people at once attracts my attention by the number of wonderful and singular facts which appear about them.
 
-I first see that they are a people wholly composed of brethren, and whereas all others are formed by the assemblage of an infinity of families, this, though so wonderfully fruitful, has all sprung from one man alone, and, being thus all one flesh, and members one of another, they constitute a powerful state of one family. This is unique.
+I first see that they are a people wholly composed of brethren, and whereas all others are formed by the assemblage of an [infinity](/concepts/infinity) of families, this, though so wonderfully fruitful, has all sprung from one man alone, and, being thus all one flesh, and members one of another, they constitute a powerful state of one family. This is unique.
 
 This family, or people, is the most ancient within human knowledge, a fact which seems to me to inspire a peculiar veneration for it, especially in view of our present inquiry; since if God had from all time revealed Himself to men, it is to these we must turn for knowledge of the tradition.
 
@@ -8847,7 +8852,7 @@ This people is not eminent solely by their antiquity, but is also singular by th
 
 The law by which this people is governed is at once the most ancient law in the world, the most perfect, and the only one which has been always observed without a break in a state. This is what Josephus admirably proves, against Apion, and also Philo the Jew, in different places, where they point out that it is so ancient that the very name of law was only known by the oldest nation more than a thousand years afterwards; so that Homer, who has written the history of so many states, has never used the term. And it is easy to judge of its perfection by simply reading it; for we see that it has provided for all things with so great wisdom, equity, and judgment, that the most ancient legislators, Greek and Roman, having had some knowledge of it, have borrowed from it their principal laws; this is evident from what are called the Twelve Tables, and from the other proofs which Josephus gives.
 
-But this law is at the same time the severest and strictest of all in respect to their religious worship, imposing on this people, in order to keep them to their duty, a thousand peculiar and painful observances, on pain of death. Whence it is very astonishing that it has been constantly preserved during many centuries by a people, rebellious and impatient as this one was; while all other states have changed their laws from time to time, although these were far more lenient.
+But this law is at the same time the severest and strictest of all in respect to their religious [worship](/concepts/religion), imposing on this people, in order to keep them to their duty, a thousand peculiar and painful observances, on pain of death. Whence it is very astonishing that it has been constantly preserved during many centuries by a people, rebellious and impatient as this one was; while all other states have changed their laws from time to time, although these were far more lenient.
 
 The book which contains this law, the first of all, is itself the most ancient book in the world, those of Homer, Hesiod, and others, being six or seven hundred years later.
 
@@ -8861,7 +8866,7 @@ The creation of the world beginning to be distant, God provided a single contemp
 
 623
 
-[Japhet begins the genealogy.]
+[Japhet begins the [genealogy](/positions/genealogy).]
 
 Joseph folds his arms, and prefers to keep silent.
 
@@ -8931,7 +8936,7 @@ The story that he recited the whole by heart. Josephus and Esdras point out that
 
 The story that he changed the letters.
 
-Philo, in Vita Moysis: Illa lingua ac character quo antiquitus scripta est lex sic permansit usque ad LXX.
+Philo, in Vita Moysis: Illa lingua ac character quo antiquitus scripta est [lex](/concepts/law) sic permansit usque ad LXX.
 
 Josephus says that the Law was in Hebrew when it was translated by the Seventy.
 
@@ -8957,7 +8962,7 @@ Josephus, in the whole history of Esdras, does not say one word about this resto
 
 634
 
-If the story in Esdras is credible, then it must be believed that the Scripture is Holy Scripture; for this story is based only on the authority of those who assert that of the Seventy, which shows that the Scripture is holy.
+If the story in Esdras is credible, then it must be believed that the [Scripture](/concepts/revelation) is Holy Scripture; for this story is based only on the authority of those who assert that of the Seventy, which shows that the Scripture is holy.
 
 Therefore if this account be true, we have what we want therein; if not, we have it elsewhere. And thus those who would ruin the truth of our religion, founded on Moses, establish it by the same authority by which they attack it. So by this providence it still exists.
 
@@ -9021,7 +9026,7 @@ PROOF OF THE two Testaments at once. — To prove the two at one stroke, we need
 
 The whole problem then is to know if they have two meanings.
 
-That the Scripture has two meanings, which Jesus Christ and the Apostles have given, is shown by the following proofs:
+That the [Scripture](/concepts/revelation) has two meanings, which Jesus Christ and the Apostles have given, is shown by the following proofs:
 
 <span class="atom-split" data-atom="128" data-title="1. Proof by Scripture itself. (2/2)" data-chapter="1. Proof by Scripture itself." data-kind="atom"></span>
 
@@ -9035,7 +9040,7 @@ That the Scripture has two meanings, which Jesus Christ and the Apostles have gi
 
 643
 
-Isaiah, 1i. The Red Sea an image of the Redemption. Ut sciatis quod filius hominis habet potestatem remittendi peccata, tibi dico: Surge. God, wishing to show that He could form a people holy with an invisible holiness, and fill them with an eternal glory, made visible things. As nature is an image of grace. He has done in the bounties of nature what He would do in those of grace, in order that we might judge that He could make the invisible, since He made the visible excellently.
+Isaiah, 1i. The Red Sea an image of the Redemption. Ut sciatis quod filius hominis habet potestatem remittendi peccata, tibi dico: Surge. God, wishing to show that He could form a people holy with an invisible holiness, and fill them with an eternal glory, made visible things. As nature is an image of [grace](/concepts/grace). He has done in the bounties of nature what He would do in those of grace, in order that we might judge that He could make the invisible, since He made the visible excellently.
 
 Therefore He saved this people from the deluge; He has raised them up from Abraham, redeemed them from their enemies, and set them at rest.
 
@@ -9047,7 +9052,7 @@ The ordinary life of men is like that of the saints. They all seek their satisfa
 
 644
 
-Types. — God, wishing to form for Himself an holy people, whom He should separate from all other nations, whom He should deliver from their enemies and should put into a place of rest, has promised to do so, and has foretold by His prophets the time and the manner of His coming. And yet, to confirm the hope of His elect. He has made them see it in an image through all time, without leaving them devoid of assurances of His power and of His will to save them. For, at the creation of man, Adam was the witness and guardian of the promise of a Saviour, who should be born of woman, when men were still so near the creation that they could not have forgotten their creation and their fall. When those who had seen Adam were no longer in the world, God sent Noah whom He saved, and drowned the whole earth by a miracle which sufficiently indicated the power which He had to save the world, and the will which He had to do so, and to raise up from the seed of woman Him whom He had promised. This miracle was enough to confirm the hope of men.
+Types. — God, wishing to form for Himself an holy people, whom He should separate from all other nations, whom He should deliver from their enemies and should put into a place of rest, has promised to do so, and has foretold by His prophets the time and the manner of His coming. And yet, to confirm the hope of His elect. He has made them see it in an image through all time, without leaving them devoid of assurances of His power and of His will to save them. For, at the creation of man, Adam was the witness and guardian of the promise of a Saviour, who should be born of woman, when men were still so near the creation that they could not have forgotten their creation and their fall. When those who had seen Adam were no longer in the world, God sent Noah whom He saved, and drowned the whole earth by a [miracle](/concepts/miracle) which sufficiently indicated the power which He had to save the world, and the will which He had to do so, and to raise up from the seed of woman Him whom He had promised. This miracle was enough to confirm the hope of men.
 
 The memory of the deluge being so fresh among men, while Noah was still alive, God made promises to Abraham, and, while Shem was still living, sent Moses, &c. …
 
@@ -9079,7 +9084,7 @@ There are some types clear and demonstrative, but others which seem somewhat far
 
 651
 
-Extravagances of the Apocalyptics, Preadamites, Millenarians, &c. — He who would base extravagant opinions on Scripture, will, for example, base them on this. It is said that “this generation shall not pass till all these things be fulfilled.” Upon that I will say that after that generation will come another generation, and so on ever in succession.
+Extravagances of the Apocalyptics, Preadamites, Millenarians, &c. — He who would base extravagant opinions on [Scripture](/concepts/revelation), will, for example, base them on this. It is said that “this generation shall not pass till all these things be fulfilled.” Upon that I will say that after that generation will come another generation, and so on ever in succession.
 
 Solomon and the King are spoken of in the second book of Chronicles, as if they were two different persons. I will say that they were two.
 
@@ -9097,7 +9102,7 @@ Difference between dinner and supper.
 
 In God the word does not differ from the intention, for He is true; nor the word from the effect, for He is powerful; nor the means from the effect, for He is wise. Bern., ult. sermo in Missam.
 
-Augustine, de Civit. Dei, v. 10. This rule is general. God can do everything, except those things, which if He could do, He would not be almighty, as dying, being deceived, lying, &c.
+[Augustine](/figures/augustine), de Civit. Dei, v. 10. This rule is general. God can do everything, except those things, which if He could do, He would not be almighty, as dying, being deceived, lying, &c.
 
 Many Evangelists for the confirmation of the truth: their difference useful.
 
@@ -9123,7 +9128,7 @@ Types. — The Jewish and Egyptian peoples were plainly foretold by the two indi
 
 658
 
-The symbols of the Gospel for the state of the sick soul are sick bodies; but because one body cannot be sick enough to express it well, several have been needed. Thus there are the deaf, the dumb, the blind, the paralytic, the dead Lazarus, the possessed. All this crowd is in the sick soul.
+The symbols of the Gospel for [the state](/concepts/state) of the sick soul are sick bodies; but because one body cannot be sick enough to express it well, several have been needed. Thus there are the deaf, the dumb, the blind, the paralytic, the dead Lazarus, the possessed. All this crowd is in the sick soul.
 
 659
 
@@ -9201,7 +9206,7 @@ But God, not having desired to reveal these things to this people who were unwor
 
 All that tends not to charity is figurative.
 
-The sole aim of the Scripture is charity.
+The sole aim of the [Scripture](/concepts/revelation) is charity.
 
 All which tends not to the sole end is the type of it. For since there is only one end, all which does not lead to it in express terms is figurative.
 
@@ -9245,15 +9250,15 @@ Typical.— “Do all things according to the pattern which has been shown thee 
 
 …And yet this Covenant, made to blind some and enlighten others, indicated in those very persons, whom it blinded, the truth which should be recognised by others. For the visible blessings which they received from God were so great and so divine, that He indeed appeared able to give them those that are invisible, and a Messiah.
 
-For nature is an image of grace, and visible miracles are images of the invisible. Ut sciatis…tibi dico: Surge.
+For nature is an image of [grace](/concepts/grace), and visible miracles are images of the invisible. Ut sciatis…tibi dico: Surge.
 
 Isaiah says that Redemption will be as the passage of the Red Sea.
 
-God has then shown by the deliverance from Egypt, and from the sea, by the defeat of kings, by the manna, by the whole genealogy of Abraham, that He was able to save, to send down bread from heaven, &c.; so that the people hostile to Him are the type and the representation of the very Messiah whom they know not, &c.
+God has then shown by the deliverance from Egypt, and from the sea, by the defeat of kings, by the manna, by the whole [genealogy](/positions/genealogy) of Abraham, that He was able to save, to send down bread from heaven, &c.; so that the people hostile to Him are the type and the representation of the very Messiah whom they know not, &c.
 
 He has then taught us at last that all these things were only types, and what is “true freedom,” a “true Israelite,” “true circumcision,” “true bread from heaven,” &c.
 
-In these promises each one finds what he has most at heart, temporal benefits or spiritual, God or the creatures; but with this difference, that those who therein seek the creatures find them, but with many contradictions, with a prohibition against loving them, with the command to worship God only, and to love Him only, which is the same thing, and, finally, that the Messiah came not for them; whereas those who therein seek God find Him, without any contradiction, with the command to love Him only, and that the Messiah came in the time foretold, to give them the blessings which they ask.
+In these promises each one finds what he has most at heart, temporal benefits or spiritual, God or the creatures; but with this difference, that those who therein seek the creatures find them, but with many contradictions, with a prohibition against loving them, with the command to [worship](/concepts/religion) God only, and to love Him only, which is the same thing, and, finally, that the Messiah came not for them; whereas those who therein seek God find Him, without any contradiction, with the command to love Him only, and that the Messiah came in the time foretold, to give them the blessings which they ask.
 
 Thus the Jews had miracles and prophecies, which they saw fulfilled, and the teaching of their law was to worship and love God only; it was also perpetual. Thus it had all the marks of the true religion; and so it was. But the Jewish teaching must be distinguished from the teaching of the Jewish law. Now the Jewish teaching was not true, although it had miracles and prophecy and perpetuity, because it had not this other point of worshipping and loving God only.
 
@@ -9289,7 +9294,7 @@ Two great revelations are these, (1.) All things happened to them in types: vere
 
 680
 
-Types. — When once this secret is disclosed, it is impossible not to see it. Let us read the Old Testament in this light, and let us see if the sacrifices were real; if the fatherhood of Abraham was the true cause of the friendship of God; and if the promised land was the true place of rest. No. They are therefore types. Let us in the same way examine all those ordained ceremonies, all those commandments which are not of charity, and we shall see that they are types.
+Types. — When once this secret is disclosed, it is impossible not to see it. Let us read the Old Testament in this light, and let us see if the sacrifices were real; if the fatherhood of Abraham was the true cause of the [friendship](/concepts/friendship) of God; and if the promised land was the true place of rest. No. They are therefore types. Let us in the same way examine all those ordained ceremonies, all those commandments which are not of charity, and we shall see that they are types.
 
 All these sacrifices and ceremonies were then either types or nonsense. Now there are things clear, and too lofty, to be thought nonsense.
 
@@ -9319,7 +9324,7 @@ Not the meat which perishes, but that which does not perish.
 
 Contradiction. — We can only describe a good character by reconciling all contrary qualities, and it is not enough to keep up a series of harmonious qualities without reconciling contradictory ones. To understand the meaning of an author, we must make all the contrary passages agree.
 
-Thus, to understand Scripture, we must have a meaning in which all the contrary passages are reconciled. It is not enough to have one which suits many concurring passages; but it is necessary to have one which reconciles even contradictory passages.
+Thus, to understand [Scripture](/concepts/revelation), we must have a meaning in which all the contrary passages are reconciled. It is not enough to have one which suits many concurring passages; but it is necessary to have one which reconciles even contradictory passages.
 
 Every author has a meaning in which all the contradictory passages agree, or he has no meaning at all. We cannot affirm the latter of Scripture and the prophets; they undoubtedly are full of good sense. We must then seek for a meaning which reconciles all discrepancies.
 
@@ -9335,7 +9340,7 @@ Types. — If the law and the sacrifices are the truth, it must please God, and 
 
 <span class="atom-split" data-atom="132" data-title="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture. (4/4)" data-chapter="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture." data-kind="atom"></span>
 
-Now in all the Scripture they are both pleasing and displeasing. It is said that the law shall be changed; that the sacrifice shall be changed; that they shall be without law, without a prince, and without a sacrifice; that a new covenant shall be made; that the law shall be renewed; that the precepts which they have received are not good; that their sacrifices are abominable; that God has demanded none of them.
+Now in all the [Scripture](/concepts/revelation) they are both pleasing and displeasing. It is said that the law shall be changed; that the sacrifice shall be changed; that they shall be without law, without a prince, and without a sacrifice; that a new covenant shall be made; that the law shall be renewed; that the precepts which they have received are not good; that their sacrifices are abominable; that God has demanded none of them.
 
 It is said, on the contrary, that the law shall abide for ever; that this covenant shall be for ever; that sacrifice shall be eternal; that the sceptre shall never depart from among them, because it shall not depart from them till the eternal King comes.
 
@@ -9441,7 +9446,7 @@ It is glorious to see with the eyes of faith the history of Herod and of Caesar.
 
 The zeal of the Jews for their law and their temple (Josephus, and Philo the Jew, ad Caïum). What other people had such a zeal? It was necessary they should have it.
 
-Jesus Christ foretold as to the time and the state of the world. The ruler taken from the thigh, and the fourth monarchy. How lucky we are to see this light amidst this darkness!
+Jesus Christ foretold as to the time and [the state](/concepts/state) of the world. The ruler taken from the thigh, and the fourth monarchy. How lucky we are to see this light amidst this darkness!
 
 How fine it is to see, with the eyes of faith, Darius and Cyrus, Alexander, the Romans, Pompey and Herod working, without knowing it, for the glory of the Gospel!
 
@@ -9465,7 +9470,7 @@ Proof. — Prophecies with their fulfilment; what has preceded and what has foll
 
 706
 
-The prophecies are the strongest proof of Jesus Christ. It is for them also that God has made most provision; for the event which has fulfilled them is a miracle existing since the birth of the Church to the end. So God has raised up prophets during sixteen hundred years, and, during four hundred years afterwards. He has scattered all these prophecies among all the Jews, who carried them into all parts of the world. Such was the preparation for the birth of Jesus Christ, and, as His Gospel was to be believed by all the world, it was not only necessary that there should be prophecies to make it believed, but that these prophecies should exist throughout the whole world, in order to make it embraced by the whole world.
+The prophecies are the strongest proof of Jesus Christ. It is for them also that God has made most provision; for the event which has fulfilled them is a [miracle](/concepts/miracle) existing since the birth of the Church to the end. So God has raised up prophets during sixteen hundred years, and, during four hundred years afterwards. He has scattered all these prophecies among all the Jews, who carried them into all parts of the world. Such was the preparation for the birth of Jesus Christ, and, as His Gospel was to be believed by all the world, it was not only necessary that there should be prophecies to make it believed, but that these prophecies should exist throughout the whole world, in order to make it embraced by the whole world.
 
 707
 
@@ -9557,7 +9562,7 @@ Is. xlviii. 3: “I have declared the former things from the beginning; I did th
 
 Reprobation of the Jews and conversion of the Gentiles. — Is. lxv.: “I am sought of them that asked not for me; I am found of them that sought me not: I said. Behold me, behold me, unto a nation that did not call upon my name.
 
-“I have spread out my hands all the day unto an unbelieving people, which walketh in a way that was not good, after their own thoughts; a people that provoketh me to anger continually by the sins they commit in my face; that sacrificeth to idols, &c.
+“I have spread out my hands all the day unto an unbelieving people, which walketh in a way that was not good, after their own thoughts; a people that provoketh me to [anger](/concepts/anger) continually by the sins they commit in my face; that sacrificeth to idols, &c.
 
 “These shall be scattered like smoke in the day of my wrath, &c.
 
@@ -9599,7 +9604,7 @@ Jer. vii. Reprobation of the Temple: “Go ye unto Shiloth, where I set my name 
 
 “And I will cast you out of my sight, as I have cast out all your brethren, even the seed of Ephraim.” (Rejected for ever.) “Therefore pray not for this people.”
 
-Jer. vii. 22: “What avails it you to add sacrifice to sacrifice? For I spake not unto your fathers, when I brought them out of the land of Egypt, concerning burnt offerings or sacrifices. But this thing commanded I them, saying, Obey and be faithful to my commandments, and I will be your God, and ye shall be my people.” (It was only after they had sacrificed to the golden calf that I gave myself sacrifices to turn into good an evil custom.)
+Jer. vii. 22: “What avails it you to add sacrifice to sacrifice? For I spake not unto your fathers, when I brought them out of the land of Egypt, concerning burnt offerings or sacrifices. But this thing commanded I them, saying, Obey and be faithful to my commandments, and I will be your God, and ye shall be my people.” (It was only after they had sacrificed to the golden calf that I gave myself sacrifices to turn into good an evil [custom](/concepts/custom).)
 
 Jer. vii. 4: “Trust ye not in lying words, saying, The temple of the Lord, the temple of the Lord, the temple of the Lord, are these.”
 
@@ -9659,7 +9664,7 @@ We have no king but Cæsar.
 
 Daniel ii.: “All thy soothsayers and wise men cannot shew unto thee the secret which thou hast demanded. But there is a God in heaven who can do so, and that hath revealed to thee in thy dream what shall be in the latter days.” (This dream must have caused him much misgiving.)
 
-“And it is not by my own wisdom that I have knowledge of this secret, but by the revelation of this same God, that hath revealed it to me, to make it manifest in thy presence.
+“And it is not by my own wisdom that I have knowledge of this secret, but by the [revelation](/concepts/revelation) of this same God, that hath revealed it to me, to make it manifest in thy presence.
 
 “Thy dream was then of this kind. Thou sawest a great image, high and terrible, which stood before thee. His head was of gold, his breast and arms of silver, his belly and his thighs of brass, his legs of iron, his feet part of iron and part of clay. Thus thou sawest fill that a stone was cut out without hands, which smote the image upon his feet, that were of iron and of clay, and brake them to pieces.
 
@@ -9689,7 +9694,7 @@ Daniel viii. 8. “Daniel having seen the combat of the ram and of the he-goat, 
 
 “And in the latter time of their kingdom, when iniquities are come to the full, there shall arise a king, insolent and strong, but not by his own power, to whom all things shall succeed after his own will; and he shall destroy the holy people, and through his policy also he shall cause craft to prosper in his hand, and he shall destroy many. He shall also stand up against the Prince of princes, but he shall perish miserably, and nevertheless by a violent hand.”
 
-Daniel ix. 20. “Whilst I was praying with all my heart, and confessing my sin and the sin of all my people, and prostrating myself before my God, even Gabriel, whom I had seen in the vision at the beginning, came to me and touched me about the time of the evening oblation, and he informed me and said, O Daniel, I am now come forth to give thee the knowledge of things. At the beginning of thy supplications I came to shew that which thou didst desire, for thou art greatly beloved: therefore understand the matter, and consider the vision. Seventy weeks are determined upon thy people, and upon thy holy city, to finish the transgression, and to make an end of sins, and to abolish iniquity, and to bring in everlasting righteousness; to accomplish the vision and the prophecies, and to anoint the Most Holy. (After which this people shall be no more thy people, nor this city the holy city. The times of wrath shall be passed, and the years of grace shall come for ever.)
+Daniel ix. 20. “Whilst I was praying with all my heart, and confessing my sin and the sin of all my people, and prostrating myself before my God, even Gabriel, whom I had seen in the vision at the beginning, came to me and touched me about the time of the evening oblation, and he informed me and said, O Daniel, I am now come forth to give thee the knowledge of things. At the beginning of thy supplications I came to shew that which thou didst desire, for thou art greatly beloved: therefore understand the matter, and consider the vision. Seventy weeks are determined upon thy people, and upon thy holy city, to finish the transgression, and to make an end of sins, and to abolish iniquity, and to bring in everlasting righteousness; to accomplish the vision and the prophecies, and to anoint the Most Holy. (After which this people shall be no more thy people, nor this city the holy city. The times of wrath shall be passed, and the years of [grace](/concepts/grace) shall come for ever.)
 
 “Know therefore, and understand, that, from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince, shall be seven weeks, and three score and two weeks.” (The Hebrews were accustomed to divide numbers, and to place the small first. Thus, 7, and 62 make 69. Of this 70 there will then remain the 70th, that is to say, the 7 last years of which he will speak next.)
 
@@ -9715,7 +9720,7 @@ Daniel, xi. The angel said to Daniel: “There shall stand up yet,” (after Cyr
 
 “But a prince shall oppose his conquests,” (Scipio Africanus, who stopped the progress of Antiochus the Great, because he offended the Romans in the person of their allies), “and shall cause the reproach offered by him to cease. He shall then return into his kingdom and there perish, and be no more.” (He was slain by his soldiers.)
 
-“And he who shall stand up in his estate,” (Seleucus Philopator or Soter, the son of Antiochus the Great), “shall be a tyrant, a raiser of taxes in the glory of the kingdom,” (which means the people), “but within a few days he shall be destroyed, neither in anger nor in battle. And in his place shall stand up a vile person, unworthy of the honour of the kingdom, but he shall come in cleverly by flatteries. All armies shall bend before him; he shall conquer them, and even the prince with whom he has made a covenant. For having renewed the league with him, he shall work deceitfully, and enter with a small people into his province, peaceably and without fear. He shall take the fattest places, and shall do that which his fathers have not done, and ravage on all sides. He shall forecast great devices during his time.”
+“And he who shall stand up in his estate,” (Seleucus Philopator or Soter, the son of Antiochus the Great), “shall be a tyrant, a raiser of taxes in the glory of the kingdom,” (which means the people), “but within a few days he shall be destroyed, neither in [anger](/concepts/anger) nor in battle. And in his place shall stand up a vile person, unworthy of the honour of the kingdom, but he shall come in cleverly by flatteries. All armies shall bend before him; he shall conquer them, and even the prince with whom he has made a covenant. For having renewed the league with him, he shall work deceitfully, and enter with a small people into his province, peaceably and without fear. He shall take the fattest places, and shall do that which his fathers have not done, and ravage on all sides. He shall forecast great devices during his time.”
 
 723
 
@@ -9741,7 +9746,7 @@ Prophecies. — In Egypt. — Pugio Fidei, . Talmud.
 
 “It is a tradition among us, that, when the Messiah shall come, the house of God, destined for the dispensation of His Word, shall be full of filth and impurity; and that the wisdom of the scribes shall be corrupt and rotten. Those who shall be afraid to sin, shall be rejected by the people, and treated as senseless fools.”
 
-Is. xlix.: “Listen, O isles, unto me, and hearken, ye people, from afar: The Lord hath called me by my name from the womb of my mother; in the shadow of His hand hath He hid me, and hath made my words like a sharp sword, and said unto me. Thou art my servant in whom I will be glorified. Then I said, Lord, have I laboured in vain? have I spent my strength for nought? yet surely my judgment is with Thee, O Lord, and my work with Thee. And now, saith the Lord, that formed me from the womb to be His servant, to bring Jacob and Israel again to Him: Thou shalt be glorious in my sight, and I will be thy strength. It is a light thing that thou shouldst convert the tribes of Jacob; I have raised thee up for a light to the Gentiles, that thou mayest be my salvation unto the ends of the earth. Thus saith the Lord to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers. Princes and kings shall worship thee, because the Lord is faithful that hath chosen thee.
+Is. xlix.: “Listen, O isles, unto me, and hearken, ye people, from afar: The Lord hath called me by my name from the womb of my mother; in the shadow of His hand hath He hid me, and hath made my words like a sharp sword, and said unto me. Thou art my servant in whom I will be glorified. Then I said, Lord, have I laboured in vain? have I spent my strength for nought? yet surely my judgment is with Thee, O Lord, and my work with Thee. And now, saith the Lord, that formed me from the womb to be His servant, to bring Jacob and Israel again to Him: Thou shalt be glorious in my sight, and I will be thy strength. It is a light thing that thou shouldst convert the tribes of Jacob; I have raised thee up for a light to the Gentiles, that thou mayest be my salvation unto the ends of the earth. Thus saith the Lord to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers. Princes and kings shall [worship](/concepts/religion) thee, because the Lord is faithful that hath chosen thee.
 
 “Again saith the Lord unto me, I have heard thee in the days of salvation and of mercy, and I will preserve thee for a covenant of the people, to cause to inherit the desolate nations, that thou mayest say to the prisoners: Go forth; to them that are in darkness show yourselves, and possess these abundant and fertile lands. They shall not hunger nor thirst, neither shall the heat nor sun smite them; for he that hath mercy upon them shall lead them, even by the springs of waters shall he guide them, and make the mountains a way before them. Behold, the peoples shall come from all parts, from the east and from the west, from the north and from the south. Let the heavens give glory to God; let the earth be joyful; for it hath pleased the Lord to comfort His people, and He will have mercy upon the poor who hope in Him.
 
@@ -9753,7 +9758,7 @@ Is. xlix.: “Listen, O isles, unto me, and hearken, ye people, from afar: The L
 
 “For I came, and no man received me; I called, and there was none to hear. Is my arm shortened that I cannot redeem?
 
-“Therefore I will show the tokens of mine anger; I will clothe the heavens with darkness, and make sack cloth their covering.
+“Therefore I will show the tokens of mine [anger](/concepts/anger); I will clothe the heavens with darkness, and make sack cloth their covering.
 
 “The Lord hath given me the tongue of the learned that I should know how to speak a word in season to him that is weary. He hath opened mine ear, and I have listened to Him as a master.
 
@@ -9835,7 +9840,7 @@ The kings will arm themselves against Him. Ps. ii.
 
 Being on the right hand of the Father, He will be victorious over His enemies.
 
-The kings of the earth and all nations will worship Him. Is. lx.
+The kings of the earth and all nations will [worship](/concepts/religion) Him. Is. lx.
 
 The Jews will continue as a nation. Jeremiah.
 
@@ -9907,11 +9912,11 @@ THEREFORE I REJECT all other religions. In that way I find an answer to all obje
 
 I find it convincing that, since the memory of man has lasted, it was constantly announced to men that they were universally corrupt, but that a Redeemer should come; that it was not one man who said it, but innumerable men, and a whole nation, expressly made for the purpose, and prophesying for four thousand years. This is a nation which is more ancient than every other nation. Their books, scattered abroad, are four thousand years old.
 
-The more I examine them, the more truths I find in them: an entire nation foretell Him before His advent, and an entire nation worship Him after His advent; what has preceded and what has followed; in short, people without idols and kings, this synagogue which was foretold, and these wretches who frequent it, and who, being our enemies, are admirable witnesses of the truth of these prophecies, wherein their wretchedness and even their blindness are foretold.
+The more I examine them, the more truths I find in them: an entire nation foretell Him before His advent, and an entire nation [worship](/concepts/religion) Him after His advent; what has preceded and what has followed; in short, people without idols and kings, this synagogue which was foretold, and these wretches who frequent it, and who, being our enemies, are admirable witnesses of the truth of these prophecies, wherein their wretchedness and even their blindness are foretold.
 
 I find this succession, this religion, wholly divine in its authority, in its duration, in its perpetuity, in its morality, in its conduct, in its doctrine, in its effects. The frightful darkness of the Jews was foretold. Eris palpans in meridie. Dabitur liber scienti literas, et dicet: Non possum legere. While the sceptre was still in the hands of the first foreign usurper, there is the report of the coming of Jesus Christ.
 
-So I hold out my arms to my Redeemer, who, having been foretold for four thousand years, has come to suffer and to die for me on earth, at the time and under all the circumstances foretold. By His grace, I await death in peace, in the hope of being eternally united to Him. Yet I live with joy, whether in the prosperity which it pleases Him to bestow upon me, or in the adversity which He sends for my good, and which He has taught me to bear by His example.
+So I hold out my arms to my Redeemer, who, having been foretold for four thousand years, has come to suffer and to die for me on earth, at the time and under all the circumstances foretold. By His [grace](/concepts/grace), I await death in peace, in the hope of being eternally united to Him. Yet I live with joy, whether in the prosperity which it pleases Him to bestow upon me, or in the adversity which He sends for my good, and which He has taught me to bear by His example.
 
 738
 
@@ -9985,7 +9990,7 @@ But, it is said, there are obscurities. — And without that, no one would have 
 
 752
 
-Moses first teaches the Trinity, original sin, the Messiah.
+Moses first teaches the Trinity, [original sin](/positions/original_sin), the Messiah.
 
 David: a great witness; a king, good, merciful, a beautiful soul, a sound mind, powerful. He prophesies, and his wonder comes to pass. This is infinite.
 
@@ -10039,7 +10044,7 @@ Either the Jews or the Christians must be wicked.
 
 The Jews reject Him, but not all. The saints receive Him, and not the carnal-minded. And so far is this from being against His glory, that it is the last touch which crowns it. For their argument, the only one found in all their writings, in the Talmud and in the Rabbinical writings, amounts only to this, that Jesus Christ has not subdued the nations with sword in hand, gladium tuum, potentissime. Is this all they have to say? Jesus Christ has been slain, say they. He has failed. He has not subdued the heathen with His might. He has not bestowed upon us their spoil. He does not give riches. Is this all they have to say? It is in this respect that He is lovable to me. I would not desire Him whom they fancy. It is evident that it is only His life which has prevented them from accepting Him; and through this rejection they are irreproachable witnesses, and, what is more, they thereby accomplish the prophecies.
 
-[By means of the fact that this people have not accepted Him, this miracle here has happened. The prophecies were the only lasting miracles which could be wrought, but they were liable to be denied.]
+[By means of the fact that this people have not accepted Him, this [miracle](/concepts/miracle) here has happened. The prophecies were the only lasting miracles which could be wrought, but they were liable to be denied.]
 
 761
 
@@ -10087,7 +10092,7 @@ In prison Joseph innocent between two criminals; Jesus Christ on the cross betwe
 
 769
 
-The conversion of the heathen was only reserved for the grace of the Messiah. The Jews have been so long in opposition to them without success; all that Solomon and the prophets said has been useless. Sages, like Plato and Socrates, have not been able to persuade them.
+The conversion of the heathen was only reserved for the [grace](/concepts/grace) of the Messiah. The Jews have been so long in opposition to them without success; all that Solomon and the prophets said has been useless. Sages, like Plato and [Socrates](/figures/socrates), have not been able to persuade them.
 
 770
 
@@ -10173,7 +10178,7 @@ The victory over death. What is a man advantaged if he gain the whole world and 
 
 783
 
-…Then Jesus Christ comes to tell men that they have no other enemies but themselves; that it is their passions which keep them apart from God; that He comes to destroy these, and give them His grace, so as to make of them all one Holy Church; that He comes to bring back into this Church the heathen and Jews; that He comes to destroy the idols of the former and the superstition of the latter.
+…Then Jesus Christ comes to tell men that they have no other enemies but themselves; that it is their passions which keep them apart from God; that He comes to destroy these, and give them His [grace](/concepts/grace), so as to make of them all one Holy Church; that He comes to bring back into this Church the heathen and Jews; that He comes to destroy the idols of the former and the superstition of the latter.
 
 To this all men are opposed, not only from the natural opposition of lust; but, above all, the kings of the earth, as had been foretold, join together to destroy this religion at its birth. (Proph.: Quare fermerunt gentes…reges terræ…adversus Christum.)
 
@@ -10213,7 +10218,7 @@ The false justice of Pilate only serves to make Jesus Christ suffer; for he caus
 
 792
 
-What man ever had more renown? The whole Jewish people foretell Him before His coming. The Gentile people worship Him after His coming. The two peoples. Gentile and Jewish, regard Him as their centre.
+What man ever had more renown? The whole Jewish people foretell Him before His coming. The Gentile people [worship](/concepts/religion) Him after His coming. The two peoples. Gentile and Jewish, regard Him as their centre.
 
 And yet what man enjoys this renown less? Of thirty-three years, He lives thirty without appearing. For three years He passes as an impostor; the priests and the chief people reject Him; His friends and His nearest relatives despise Him. Finally, He dies, betrayed by one of His own disciples, denied by another, and abandoned by all.
 
@@ -10259,7 +10264,7 @@ Why did Jesus Christ not come in a visible manner, instead of obtaining testimon
 
 795
 
-If Jesus Christ had only come to sanctify, all Scripture and all things would tend to that end; and it would be quite easy to convince unbelievers. If Jesus Christ had only come to blind, all His conduct would be confused; and we would have no means of convincing unbelievers. But as he came in sanctificationem et in scandalum, as Isaiah says, we cannot convince unbelievers, and they cannot convince us. But by this very fact we convince them; since we say that in his whole conduct there is no convincing proof on one side or the other.
+If Jesus Christ had only come to sanctify, all [Scripture](/concepts/revelation) and all things would tend to that end; and it would be quite easy to convince unbelievers. If Jesus Christ had only come to blind, all His conduct would be confused; and we would have no means of convincing unbelievers. But as he came in sanctificationem et in scandalum, as Isaiah says, we cannot convince unbelievers, and they cannot convince us. But by this very fact we convince them; since we say that in his whole conduct there is no convincing proof on one side or the other.
 
 796
 
@@ -10315,11 +10320,11 @@ Objection to the rule. — The distinction of the times. One rule during the tim
 
 804
 
-Miracle. — It is an effect, which exceeds the natural power of the means which are employed for it; and what is not a miracle is an effect, which does not exceed the natural power of the means which are employed for it. Thus, those who heal by invocation of the devil do not work a miracle; for that does not exceed the natural power of the devil. But…
+[Miracle](/concepts/miracle). — It is an effect, which exceeds the natural power of the means which are employed for it; and what is not a miracle is an effect, which does not exceed the natural power of the means which are employed for it. Thus, those who heal by invocation of the devil do not work a miracle; for that does not exceed the natural power of the devil. But…
 
 805
 
-The two fundamentals; one inward, the other outward; grace and miracles; both supernatural.
+The two fundamentals; one inward, the other outward; [grace](/concepts/grace) and miracles; both supernatural.
 
 806
 
@@ -10331,7 +10336,7 @@ In all times, either men have spoken of the true God, or the true God has spoken
 
 808
 
-Jesus Christ has verified that He was the Messiah, never in verifying His doctrine by Scripture and the prophecies, but always by His miracles.
+Jesus Christ has verified that He was the Messiah, never in verifying His doctrine by [Scripture](/concepts/revelation) and the prophecies, but always by His miracles.
 
 He proves by a miracle that He remits sins.
 
@@ -10363,7 +10368,7 @@ Had it not been for the miracles, there would have been no sin in not believing 
 
 812
 
-I should not be a Christian, but for the miracles, said Saint Augustine.
+I should not be a Christian, but for the miracles, said Saint [Augustine](/figures/augustine).
 
 813
 
@@ -10373,7 +10378,7 @@ However it may be, the Church is without proofs if they are right.
 
 814
 
-Montaigne against miracles.
+Montaigne [against miracles](/arguments/against_miracles).
 
 Montaigne for miracles.
 
@@ -10413,9 +10418,9 @@ There is a great difference between tempting and leading into error. God tempts,
 
 822
 
-Abraham and Gideon are above revelation. The Jews blinded themselves in judging of miracles by the Scripture. God has never abandoned His true worshippers.
+Abraham and Gideon are above [revelation](/concepts/revelation). The Jews blinded themselves in judging of miracles by the Scripture. God has never abandoned His true worshippers.
 
-I prefer to follow Jesus Christ than any other, because He has miracle, prophecy, doctrine, perpetuity, &c.
+I prefer to follow Jesus Christ than any other, because He has [miracle](/concepts/miracle), prophecy, doctrine, perpetuity, &c.
 
 The Donatists. No miracle which obliges them to say it is the devil.
 
@@ -10441,11 +10446,11 @@ Reasons why we do not believe.
 
 John, xii. 37. Cum autem tanta signa fecisset, non credebant in eum, ut sermo Isayæ impteretur. Excæcavit, &c.
 
-Hæc dixit Isaias, quando vidit gloriam ejus et locutus est de eo. Judæi signa petunt et Græci sapientiam quærunt, nos autem Jesum crucifixum. Sed plenum signis, sed plenum sapientia; vos autem Christum non crucifixum et religionem sine miraculis et sine sapientia.
+Hæc dixit Isaias, quando vidit gloriam ejus et locutus est de eo. Judæi signa petunt et Græci sapientiam quærunt, nos autem Jesum crucifixum. Sed plenum signis, sed plenum [sapientia](/concepts/wisdom); vos autem Christum non crucifixum et religionem sine miraculis et sine sapientia.
 
 What makes us not believe in the true miracles, is want of love. John: Sed vos non creditis, quia non estis ex ovibus. What makes us believe the false is want of love. 1 Thess. ii.
 
-The foundation of religion. It is the miracles. What then? Does God speak against miracles, against the foundations of the faith which we have in Him?
+The foundation of religion. It is the miracles. What then? Does God speak [against miracles](/arguments/against_miracles), against the foundations of the faith which we have in Him?
 
 If there is a God, faith in God must exist on earth. Now the miracles of Jesus Christ are not foretold by Antichrist, but the miracles of Antichrist are foretold by Jesus Christ. And so if Jesus Christ were not the Messiah, He would have indeed led into error; but Antichrist cannot surely lead into error. When Jesus Christ foretold the miracles of Antichrist, did He think of destroying faith in His own miracles?
 
@@ -10539,7 +10544,7 @@ That we must love one God only is a thing so evident, that it does not require m
 
 838
 
-Jesus Christ performed miracles, then the apostles, and the first saints in great number; because the prophecies not being yet accomplished but in the process of being accomplished by them, the miracles alone bore witness to them. It was foretold that the Messiah should convert the nations. How could this prophecy be fulfilled without the conversion of the nations? And how could the nations be converted to the Messiah, if they did not see this final effect of the prophecies which prove Him? Therefore, till He had died, risen again, and converted the nations, all was not accomplished; and so miracles were needed during all this time. Now they are no longer needed against the Jews; for the accomplished prophecies constitute a lasting miracle.
+Jesus Christ performed miracles, then the apostles, and the first saints in great number; because the prophecies not being yet accomplished but in the process of being accomplished by them, the miracles alone bore witness to them. It was foretold that the Messiah should convert the nations. How could this prophecy be fulfilled without the conversion of the nations? And how could the nations be converted to the Messiah, if they did not see this final effect of the prophecies which prove Him? Therefore, till He had died, risen again, and converted the nations, all was not accomplished; and so miracles were needed during all this time. Now they are no longer needed against the Jews; for the accomplished prophecies constitute a lasting [miracle](/concepts/miracle).
 
 839
 
@@ -10565,7 +10570,7 @@ Miracles furnish the test in matters of doubt, between Jews and heathens, Jews a
 
 But miracles would be useless to heretics; for the Church, authorised by miracles which have already obtained belief, tells us that they have not the true faith. There is no doubt that they are not in it, since the first miracles of the Church exclude belief in theirs. Thus there is miracle against miracle, both the first and greatest being on the side of the Church.
 
-These nuns, astonished at what is said, that they are in the way of perdition; that their confessors are leading them to Geneva; that they suggest to them that Jesus Christ is not in the Eucharist, nor on the right hand of the Father; know that all this is false, and therefore offer themselves to God in this state. Vide si via iniquitatis in me est. What happens thereupon? This place, which is said to be the temple of the devil, God makes His own temple. It is said that the children must be taken away from it. God heals them there. It is said that it is the arsenal of hell. God makes of it the sanctuary of His grace. Lastly, they are threatened with all the fury and vengeance of heaven; and God overwhelms them with favours. A man would need to have lost his senses to conclude from this that they are therefore in the way of perdition.
+These nuns, astonished at what is said, that they are in the way of perdition; that their confessors are leading them to Geneva; that they suggest to them that Jesus Christ is not in the Eucharist, nor on the right hand of the Father; know that all this is false, and therefore offer themselves to God in this state. Vide si via iniquitatis in me est. What happens thereupon? This place, which is said to be the temple of the devil, God makes His own temple. It is said that the children must be taken away from it. God heals them there. It is said that it is the arsenal of hell. God makes of it the sanctuary of His [grace](/concepts/grace). Lastly, they are threatened with all the fury and vengeance of heaven; and God overwhelms them with favours. A man would need to have lost his senses to conclude from this that they are therefore in the way of perdition.
 
 (We have without doubt the same signs as Saint Athanasius.)
 
@@ -10615,7 +10620,7 @@ In a public dispute where the two parties profess to be for God, for Jesus Chris
 
 “He hath a devil.” John, x. 21. And others said, “Can a devil open the eyes of the blind?”
 
-The proofs which Jesus Christ and the apostles draw from Scripture are not conclusive; for they say only that Moses foretold that a prophet should come. But they do not thereby prove that this is He; and that is the whole question. These passages therefore serve only to show that they are not contrary to Scripture, and that there appears no inconsistency, but not that there is agreement. Now this is enough, namely, exclusion of inconsistency, along with miracles.
+The proofs which Jesus Christ and the apostles draw from [Scripture](/concepts/revelation) are not conclusive; for they say only that Moses foretold that a prophet should come. But they do not thereby prove that this is He; and that is the whole question. These passages therefore serve only to show that they are not contrary to Scripture, and that there appears no inconsistency, but not that there is agreement. Now this is enough, namely, exclusion of inconsistency, along with miracles.
 
 There is a mutual duty between God and men. We must pardon Him this saying: Quid debui? “Accuse me,” said God in Isaiah.
 
@@ -10625,7 +10630,7 @@ There is a mutual duty between God and men. We must pardon Him this saying: Quid
 
 Men owe it to God to accept the religion which He sends. God owes it to men not to lead them into error. Now, they would be led into error, if the workers of miracles announced a doctrine which should not appear evidently false to the light of common sense, and if a greater worker of miracles had not already warned men not to believe them.
 
-Thus, if there were divisions in the Church, and the Arians, for example, who declared themselves founded on Scripture just as the Catholics, had done miracles, and not the Catholics, men should have been led into error.
+Thus, if there were divisions in the Church, and the Arians, for example, who declared themselves founded on [Scripture](/concepts/revelation) just as the Catholics, had done miracles, and not the Catholics, men should have been led into error.
 
 For, as a man, who announces to us the secrets of God, is not worthy to be believed on his private authority, and that is why the ungodly doubt him; so when a man, as a token of the communion which he has with God, raises the dead, foretells the future, removes the seas, heals the sick, there is none so wicked as not to bow to him, and the incredulity of Pharaoh and the Pharisees is the effect of a supernatural obduracy.
 
@@ -10663,7 +10668,7 @@ The heretics have always attacked these three marks, which they have not.
 
 First objection: “An angel from heaven. We must not judge of truth by miracles, but of miracles by truth. Therefore the miracles are useless.”
 
-Now they are of use, and they must not be in opposition to the truth. Therefore what Father Lingende has said, that “God will not permit that a miracle may lead into error…”
+Now they are of use, and they must not be in opposition to the truth. Therefore what Father Lingende has said, that “God will not permit that a [miracle](/concepts/miracle) may lead into error…”
 
 When there shall be a controversy in the same Church, miracle will decide.
 
@@ -10717,7 +10722,7 @@ The history of the man born blind.
 
 What says Saint Paul? Does he continually speak of the evidence of the prophecies? No, but of his own miracle. What says Jesus Christ? Does He speak of the evidence of the prophecies? No; His death had not fulfilled them. But He says, Si non fecissem. Believe the works.
 
-Two supernatural foundations of our wholly supernatural religion; one visible, the other invisible; miracles with grace, miracles without grace.
+Two supernatural foundations of our wholly supernatural religion; one visible, the other invisible; miracles with [grace](/concepts/grace), miracles without grace.
 
 The synagogue, which has been treated with love as a type of the Church, and with hatred, because it was only the type, has been restored, being on the point of falling when it was well with God, and thus a type. Miracles prove the power which God has over hearts, by that which He exercises over bodies.
 
@@ -10739,13 +10744,13 @@ If one miracle were wrought among the Jesuits!
 
 <span class="atom-split" data-atom="148" data-title="SECTION XIII. The Miracles (5/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom"></span>
 
-When a miracle disappoints the expectation of those in whose presence it happens, and there is a disproportion between the state of their faith and the instrument of the miracle, it ought then to induce them to change. But with you it is otherwise. There would be as much reason in saying that, if the Eucharist raised a dead man, it would be necessary for one to turn a Calvinist rather than remain a Catholic. But when it crowns the expectation, and those who hoped that God would bless the remedies, see themselves healed without remedies…
+When a [miracle](/concepts/miracle) disappoints the expectation of those in whose presence it happens, and there is a disproportion between [the state](/concepts/state) of their faith and the instrument of the miracle, it ought then to induce them to change. But with you it is otherwise. There would be as much reason in saying that, if the Eucharist raised a dead man, it would be necessary for one to turn a Calvinist rather than remain a Catholic. But when it crowns the expectation, and those who hoped that God would bless the remedies, see themselves healed without remedies…
 
 The ungodly. — No sign has ever happened on the part of the devil without a stronger sign on the part of God, or even without it having been foretold that such would happen.
 
 852
 
-Unjust persecutors of those whom God visibly protects. If they reproach you with your excesses, “they speak as the heretics.” If they say that the grace of Jesus Christ distinguishes us, “they are heretics.” If they do miracles, “it is the mark of their heresy.”
+Unjust persecutors of those whom God visibly protects. If they reproach you with your excesses, “they speak as the heretics.” If they say that the [grace](/concepts/grace) of Jesus Christ distinguishes us, “they are heretics.” If they do miracles, “it is the mark of their heresy.”
 
 Ezekiel. — They say: These are the people of God who speak thus.
 
@@ -10853,7 +10858,7 @@ Zeal, light. Four kinds of persons: zeal without knowledge; knowledge without ze
 
 869
 
-If Saint Augustine came at the present time, and was as little authorised as his defenders, he would accomplish nothing. God directs his Church well, by having sent him before with authority.
+If Saint [Augustine](/figures/augustine) came at the present time, and was as little authorised as his defenders, he would accomplish nothing. God directs his Church well, by having sent him before with authority.
 
 870
 
@@ -10885,7 +10890,7 @@ Would the Pope be dishonoured by having his knowledge from God and tradition; an
 
 876
 
-God does not perform miracles in the ordinary conduct of His Church. It would be a strange miracle if infallibility existed in one man. But it appears so natural for it to reside in a multitude, since the conduct of God is hidden under nature, as in all His other works.
+God does not perform miracles in the ordinary conduct of His Church. It would be a strange [miracle](/concepts/miracle) if infallibility existed in one man. But it appears so natural for it to reside in a multitude, since the conduct of God is hidden under nature, as in all His other works.
 
 877
 
@@ -10893,7 +10898,7 @@ Kings dispose of their own power; but the Popes cannot dispose of theirs.
 
 878
 
-Summum jus, summa injuria.4
+Summum jus, [summa](/schools/scholasticism) injuria.4
 
 The majority is the best way, because it is visible, and has strength to make itself obeyed. Yet it is the opinion of the least able.
 
@@ -10911,7 +10916,7 @@ Men like certainty. They like the Pope to be infallible in faith, and grave doct
 
 881
 
-The Church teaches, and God inspires, both infallibly. The work of the Church is of use only as a preparation for grace or condemnation. What it does is enough for condemnation, not for inspiration.
+The Church teaches, and God inspires, both infallibly. The work of the Church is of use only as a preparation for [grace](/concepts/grace) or condemnation. What it does is enough for condemnation, not for inspiration.
 
 882
 
@@ -10931,7 +10936,7 @@ Sinners purified without penitence; the righteous justified without love; all Ch
 
 Any one is made a priest, who wants to be so, as under Jeroboam.
 
-It is a horrible thing that they propound to us the discipline of the Church of to-day as so good, that it is made a crime to desire to change it. Formerly it was infallibly good, and it was thought that it could be changed without sin; and now, such as it is, we cannot wish it changed! It has indeed been permitted to change the custom of not making priests without such great circumspection, that there were hardly any who were worthy; and it is not allowed to complain of the custom which makes so many who are unworthy!
+It is a horrible thing that they propound to us the discipline of the Church of to-day as so good, that it is made a crime to desire to change it. Formerly it was infallibly good, and it was thought that it could be changed without sin; and now, such as it is, we cannot wish it changed! It has indeed been permitted to change the [custom](/concepts/custom) of not making priests without such great circumspection, that there were hardly any who were worthy; and it is not allowed to complain of the custom which makes so many who are unworthy!
 
 886
 
@@ -10993,7 +10998,7 @@ They cannot have perpetuity, and they seek universality; and therefore they make
 
 899
 
-Against those who misuse passages of Scripture, and who pride themselves in finding one which seems to favour their error. — The chapter for Vespers, Passion Sunday, the prayer for the king.
+Against those who misuse passages of [Scripture](/concepts/revelation), and who pride themselves in finding one which seems to favour their error. — The chapter for Vespers, Passion Sunday, the prayer for the king.
 
 <span class="atom-split" data-atom="151" data-title="SECTION XIV. Appendix: Polemical Fragments (3/4)" data-chapter="SECTION XIV. Appendix: Polemical Fragments" data-kind="atom"></span>
 
@@ -11001,7 +11006,7 @@ Explanation of these words: “He that is not with me is against me.” And of t
 
 900
 
-He who will give the meaning of Scripture, and does not take it from Scripture, is an enemy of Scripture. (Aug.: De Doct. Christ.)
+He who will give the meaning of [Scripture](/concepts/revelation), and does not take it from Scripture, is an enemy of Scripture. (Aug.: De Doct. Christ.)
 
 901
 
@@ -11059,7 +11064,7 @@ Can it be anything but compliance with the world which makes you find things pro
 
 911
 
-Must we kill to prevent there being any wicked? This is to make both parties wicked instead of one. Vince in bono malum.9 (Saint Augustine.)
+Must we kill to prevent there being any wicked? This is to make both parties wicked instead of one. Vince in bono malum.9 (Saint [Augustine](/figures/augustine).)
 
 912
 
@@ -11145,7 +11150,7 @@ False piety, a double sin.
 
 I am alone against thirty thousand. No. Protect, you, the court; protect, you, deception; let me protect the truth. It is all my strength. If I lose it, I am undone. I shall not lack accusations, and persecutions. But I possess the truth, and we shall see who will take it away.
 
-I do not need to defend religion, but you do not need to defend error and injustice. Let God, out of His compassion, having no regard to the evil which is in me, and having regard to the good which is in you, grant us all grace that truth may not be overcome in my hands, and that falsehood…
+I do not need to defend religion, but you do not need to defend error and injustice. Let God, out of His compassion, having no regard to the evil which is in me, and having regard to the good which is in you, grant us all [grace](/concepts/grace) that truth may not be overcome in my hands, and that falsehood…
 
 922
 

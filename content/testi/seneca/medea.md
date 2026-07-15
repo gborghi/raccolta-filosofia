@@ -12,6 +12,11 @@ tags:
   - "philosopher/seneca"
 ---
 
+> [!abstract]
+> Tragedy of Medea who, betrayed by Jason, takes revenge by killing her own children; it dramatizes the fury of uncontrolled passion as a warning against yielding to the affects.
+
+<p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/seneca/medea" data-philosopher="Seneca"></div>
 
 
@@ -581,7 +586,7 @@ MEDEA
 
 CHORUS
 
-[849] Whither is this blood-stained maenad borne headlong by mad passion? What crime with reckless fury is she preparing? Her distraught face is hard set in anger, and with fierce tossings of her head she haughtily threatens e’en the king. Who would think her an exile.
+[849] Whither is this blood-stained maenad borne headlong by mad passion? What crime with reckless fury is she preparing? Her distraught face is hard set in [anger](/concepts/anger), and with fierce tossings of her head she haughtily threatens e’en the king. Who would think her an exile.
 
 [858] Her cheeks blaze red, pallor puts red to flight; no colour in her changing aspect does she keep long. Hither and thither she wanders, as a tigress, robbed of her cubs, ranges in mad course through the jungles of Ganges.
 

@@ -12,6 +12,11 @@ tags:
   - "philosopher/lucretius"
 ---
 
+> [!abstract]
+> English verse translation (Leonard) of De rerum natura: the same Epicurean didactic poem on atomism, freedom (the clinamen), the soul's mortality, and overcoming the fear of death and the gods.
+
+<p class="work-source">Traduzione di William Ellery Leonard · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/lucretius/on_the_nature_of_things_verse_translation" data-philosopher="Lucretius"></div>
 
 
@@ -81,7 +86,7 @@ Which I presume on Nature to compose
 
 For Memmius mine, whom thou hast willed to be
 
-Peerless in every grace at every hour —
+Peerless in every [grace](/concepts/grace) at every hour —
 
 Wherefore indeed, Divine one, give my words
 
@@ -113,7 +118,7 @@ Pour from those lips soft syllables to win
 
 Peace for the Romans, glorious Lady, peace!
 
-For in a season troublous to the state
+For in a season troublous to [the state](/concepts/state)
 
 Neither may I attend this task of mine
 
@@ -177,7 +182,7 @@ Strange terms to fit the strangeness of the thing;
 
 Yet worth of thine and the expected joy
 
-Of thy sweet friendship do persuade me on
+Of thy sweet [friendship](/concepts/friendship) do persuade me on
 
 To bear all toil and wake the clear nights through,
 
@@ -211,7 +216,7 @@ Each in the end when each is overthrown.
 
 This ultimate stock we have devised to name
 
-Procreant atoms, matter, seeds of things,
+Procreant [atoms](/positions/atomism), matter, seeds of things,
 
 Or primal bodies, as primal to the world.
 
@@ -973,7 +978,7 @@ Hath put within thine ears the stores of proofs
 
 At hand for one soever question broached.
 
-NOTHING EXISTS per se EXCEPT ATOMS AND THE VOID
+NOTHING EXISTS per se EXCEPT [ATOMS](/positions/atomism) AND THE VOID
 
 But, now again to weave the tale begun,
 
@@ -1283,7 +1288,7 @@ So primal germs have solid singleness
 
 Nor otherwise could they have been conserved
 
-Through aeons and infinity of time
+Through aeons and [infinity](/concepts/infinity) of time
 
 For the replenishment of wasted worlds.
 
@@ -1761,7 +1766,7 @@ Have still in matter of first-elements
 
 Made ruin of themselves, and, great men, great
 
-Indeed and heavy there for them the fall:
+Indeed and heavy there for them [the fall](/positions/original_sin):
 
 First, because, banishing the void from things,
 
@@ -2193,7 +2198,7 @@ Shaken asunder by a spasm of mirth,
 
 Or moisten with salty tear-drops cheeks and chins.
 
-THE INFINITY OF THE UNIVERSE
+THE [INFINITY](/concepts/infinity) OF THE UNIVERSE
 
 Now learn of what remains! More keenly hear!
 
@@ -3071,7 +3076,7 @@ Hither and thither in all directions round.
 
 Lo, all their shifting movement is of old,
 
-From the primeval atoms; for the same
+From the primeval [atoms](/positions/atomism); for the same
 
 Primordial seeds of things first move of self,
 
@@ -3163,7 +3168,7 @@ Up the high mountains, viewed from which they seem
 
 To stand — a gleam at rest along the plains.
 
-Now what the speed to matter’s atoms given
+Now what the speed to matter’s [atoms](/positions/atomism) given
 
 Thou mayest in few, my Memmius, learn from this:
 
@@ -3367,7 +3372,7 @@ Decline a little — call it, so to speak,
 
 Mere changed trend. For were it not their wont
 
-Thuswise to swerve, down would they fall, each one,
+Thuswise to [swerve](/positions/clinamen), down would they fall, each one,
 
 Like drops of rain, through the unbottomed void;
 
@@ -3451,7 +3456,7 @@ Of motion to sunder the covenants of fate,
 
 That cause succeed not cause from everlasting,
 
-Whence this free will for creatures o’er the lands,
+Whence this [free will](/positions/free_will) for creatures o’er the lands,
 
 Whence is it wrested from the fates, — this will
 
@@ -3779,7 +3784,7 @@ Which, waked by nimble fingers, on the strings
 
 The sweet musicians fashion; or suppose
 
-That same-shaped atoms through men’s nostrils pierce
+That same-shaped [atoms](/positions/atomism) through men’s nostrils pierce
 
 When foul cadavers burn, as when the stage
 
@@ -3887,7 +3892,7 @@ Is not the least a marvel...
 
 <span class="atom-split" data-atom="011" data-title="BOOK II (4/8)" data-chapter="BOOK II" data-kind="atom"></span>
 
-For since ’tis fluid, smooth its atoms are
+For since ’tis fluid, smooth its [atoms](/positions/atomism) are
 
 And round, with painful rough ones mixed therein;
 
@@ -4449,7 +4454,7 @@ Again, all things by fire consumed ablaze,
 
 Within their frame lay up, if naught besides,
 
-At least those atoms whence derives their power
+At least those [atoms](/positions/atomism) whence derives their power
 
 To throw forth fire and send out light from under,
 
@@ -4691,7 +4696,7 @@ That, when the thing we often see as black
 
 Is in its matter then commixed anew,
 
-Some atoms rearranged, and some withdrawn,
+Some [atoms](/positions/atomism) rearranged, and some withdrawn,
 
 And added some, ’tis seen forthwith to turn
 
@@ -5317,7 +5322,7 @@ Upon the crest of things, and now a birth
 
 And straightway now a ruin, inheres at rest
 
-Deep in the eternal atoms of the world.
+Deep in the eternal [atoms](/positions/atomism) of the world.
 
 Why, even in these our very verses here
 
@@ -5635,7 +5640,7 @@ Through all the veins, and whilst the things are not
 
 So far expanded that they cast away
 
-Such numerous atoms as to cause a waste
+Such numerous [atoms](/positions/atomism) as to cause a waste
 
 Greater than nutriment whereby they wax.
 
@@ -6247,7 +6252,7 @@ More tardy its flow; for all its stock of matter
 
 Cleaves more together, since, indeed, ’tis made
 
-Of atoms not so smooth, so fine, and round.
+Of [atoms](/positions/atomism) not so smooth, so fine, and round.
 
 For the light breeze that hovers yet can blow
 
@@ -6795,7 +6800,7 @@ First, then, since I have taught how soul exists
 
 A subtle fabric, of particles minute,
 
-Made up from atoms smaller much than those
+Made up from [atoms](/positions/atomism) smaller much than those
 
 Of water’s liquid damp, or fog, or smoke,
 
@@ -7855,7 +7860,7 @@ After their severance from this body of ours,
 
 Yet nothing ’tis to us who in the bonds
 
-And wedlock of the soul and body live,
+And wedlock of the [soul and body](/axes/soul_body) live,
 
 Through which we’re fashioned to a single state.
 
@@ -8161,7 +8166,7 @@ Sated and laden with the goodly feast.
 
 But now yield all that’s alien to thine age, —
 
-Up, with good grace! make room for sons: thou must.”
+Up, with good [grace](/concepts/grace)! make room for sons: thou must.”
 
 Justly, I fancy, would she reason thus,
 
@@ -8573,7 +8578,7 @@ The mind of thee upon these lines of ours,
 
 Till thou dost learn the nature of all things
 
-And understandest their utility.
+And understandest their [utility](/positions/utility_pleasure).
 
 EXISTENCE AND CHARACTER OF THE IMAGES
 
@@ -9829,7 +9834,7 @@ Their opposites! Again, as in a building,
 
 If the first plumb-line be askew, and if
 
-The square deceiving swerve from lines exact,
+The square deceiving [swerve](/positions/clinamen) from lines exact,
 
 And if the level waver but the least
 
@@ -10735,7 +10740,7 @@ For sake of using. But apart from such
 
 Are all which first were born and afterwards
 
-Gave knowledge of their own utility —
+Gave knowledge of their own [utility](/positions/utility_pleasure) —
 
 Chief in which sort we note the senses, limbs:
 
@@ -11641,7 +11646,7 @@ He had assigned to that same lady more —
 
 Than it is proper to concede to mortals.
 
-And these our Venuses are ‘ware of this.
+And these our Venuses are ‘[ware](/concepts/commodity) of this.
 
 Wherefore the more are they at pains to hide
 
@@ -11859,7 +11864,7 @@ For commonly ’tis thought that wives conceive
 
 More readily in manner of wild-beasts,
 
-After the custom of the four-foot breeds,
+After the [custom](/concepts/custom) of the four-foot breeds,
 
 Because so postured, with the breasts beneath
 
@@ -11901,7 +11906,7 @@ It happens — and through no divinity
 
 Nor arrows of Venus — that a sorry chit
 
-Of scanty grace will be beloved by man;
+Of scanty [grace](/concepts/grace) will be beloved by man;
 
 For sometimes she herself by very deeds,
 
@@ -12137,7 +12142,7 @@ The steersman nature guides the sun’s courses,
 
 And the meanderings of the moon, lest we,
 
-Percase, should fancy that of own free will
+Percase, should fancy that of own [free will](/positions/free_will)
 
 They circle their perennial courses round,
 
@@ -14011,7 +14016,7 @@ Like to a ball’s sphere — if perchance that be —
 
 One half of her dyed o’er with glowing light,
 
-And by the revolution of that sphere
+And by the [revolution](/positions/revolution) of that sphere
 
 She may beget for us her varying shapes,
 
@@ -14447,7 +14452,7 @@ For their good service. But those beasts to whom
 
 Nature has granted naught of these same things —
 
-Beasts quite unfit by own free will to thrive
+Beasts quite unfit by own [free will](/positions/free_will) to thrive
 
 And vain for any service unto us
 
@@ -14615,7 +14620,7 @@ And whilst so many lustrums of the sun
 
 Rolled on across the sky, men led a life
 
-After the roving habit of wild beasts.
+After the roving [habit](/concepts/custom) of wild beasts.
 
 Not then were sturdy guiders of curved ploughs,
 
@@ -15039,7 +15044,7 @@ For humankind, o’er wearied with a life
 
 Fostered by force, was ailing from its feuds;
 
-And so the sooner of its own free will
+And so the sooner of its own [free will](/positions/free_will)
 
 Yielded to laws and strictest codes. For since
 
@@ -17071,7 +17076,7 @@ Because the liquid fire flieth along
 
 Athrough their pores. And much it does transfix,
 
-When these primordial atoms of the bolt
+When these primordial [atoms](/positions/atomism) of the bolt
 
 Have fallen upon the atoms of these things
 
@@ -17601,7 +17606,7 @@ When once thou well hast understood just what
 
 Functions have been vouchsafed from of old
 
-Unto the procreant atoms of the world.
+Unto the procreant [atoms](/positions/atomism) of the world.
 
 Now come, and what the law of earthquakes is
 
@@ -18227,7 +18232,7 @@ Collapse, o’ercome by its essential power,
 
 As if there slaughtered to the under-gods.
 
-Lo, all these wonders work by natural law,
+Lo, all these wonders work by [natural law](/positions/natural_law),
 
 And from what causes they are brought to pass
 
@@ -18257,7 +18262,7 @@ And, first,
 
 This do I say, as oft I’ve said before:
 
-In earth are atoms of things of every sort;
+In earth are [atoms](/positions/atomism) of things of every sort;
 
 And know, these all thus rise from out the earth —
 
@@ -19043,7 +19048,7 @@ Of which sort stuff of wood is seen to be.
 
 Therefore, when iron (which lies between the two)
 
-Hath taken in some atoms of the brass,
+Hath taken in some [atoms](/positions/atomism) of the brass,
 
 Then do the streams of that Magnesian rock
 
@@ -19621,7 +19626,7 @@ With many a guest. For now no longer men
 
 Did mightily esteem the old Divine,
 
-The worship of the gods: the woe at hand
+The [worship](/concepts/religion) of the gods: the woe at hand
 
 Did over-master. Nor in the city then
 

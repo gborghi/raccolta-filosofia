@@ -12,6 +12,11 @@ tags:
   - "philosopher/seneca"
 ---
 
+> [!abstract]
+> Tragedy on Agamemnon's return from Troy and his murder by Clytemnestra and Aegisthus; the chorus meditates on the instability of the fortune of thrones. It shows the power of fate and destructive passion over the mighty.
+
+<p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/seneca/agamemnon" data-philosopher="Seneca"></div>
 
 
@@ -51,7 +56,7 @@ The Trojan war is done. And now the near approach of the victorious king, bringi
 
 GHOST OF THYESTES
 
-[1] Leaving the murky regions of infernal Dis, I come, sent forth from Tartarus’ deep pit, doubting which world I hate the more – Thyestes flees the lower, the upper he puts to flight. Lo, my spirit shudders, my limbs quake with fear; I see my father’s, nay more, my brother’s house. This is the ancient seat of Pelops’ line; here ’tis the custom of the Pelasgians to crown their kings; on the this throne sit high lords whose proud hands wield the sceptre; here is their council-chamber – here they feast.
+[1] Leaving the murky regions of infernal Dis, I come, sent forth from Tartarus’ deep pit, doubting which world I hate the more – Thyestes flees the lower, the upper he puts to flight. Lo, my spirit shudders, my limbs quake with fear; I see my father’s, nay more, my brother’s house. This is the ancient seat of Pelops’ line; here ’tis the [custom](/concepts/custom) of the Pelasgians to crown their kings; on the this throne sit high lords whose proud hands wield the sceptre; here is their council-chamber – here they feast.
 
 [12] Fain would I turn me back. Is it not better to haunt even the gloomy pools, better to gaze upon the guardian of the Styx, tossing his three-fold neck with sable mane? where one, his body bound on the swift-flying wheel, is whirled back upon himself; where vain uphill toil is mocked as the stone rolls ever backward; where a greedy bird tears at the liver constantly renewed; and the old man, thirst-parched midst waters, catches at fleeting waves with cheated lips, doomed to pay dearly for the banquet of the gods. But how small a part of my offence is his? Let us take count of all whom for their impious deeds the Cretan judge with whirling urn condemns; all of them by my crimes shall I, Thyestes, conquer. But by my brother shall I be conquered, full of my three sons buried in me; my own flesh have I consumed.
 
@@ -237,7 +242,7 @@ CHORUS
 
 <span class="atom-split" data-atom="005" data-title="AGAMEMNON (3/7)" data-chapter="AGAMEMNON" data-kind="atom"></span>
 
-[310] Sing ye, O maids renowned, of Phoebus! To thee, Phoebus, the festal throng wreaths the head, to thee, waving laurel-bough, the Argive maid in wonted fashion spreads forth her virgin locks; and thou who drinkest of Erasinus’ cool waters, who of Eurotas, and who of Ismenus drinkest, silently flowing along its green banks; thou, too, though stranger in Thebes, come join in our chorus, whom Manto, reader of fate, Tiresias’ daughter, warmed with due rites to worship the gods, offspring of Latona.
+[310] Sing ye, O maids renowned, of Phoebus! To thee, Phoebus, the festal throng wreaths the head, to thee, waving laurel-bough, the Argive maid in wonted fashion spreads forth her virgin locks; and thou who drinkest of Erasinus’ cool waters, who of Eurotas, and who of Ismenus drinkest, silently flowing along its green banks; thou, too, though stranger in Thebes, come join in our chorus, whom Manto, reader of fate, Tiresias’ daughter, warmed with due rites to [worship](/concepts/religion) the gods, offspring of Latona.
 
 [326] Thy bow, now peace has come back, all-conquering Phoebus, loose, and thy quiver, full of swift arrows, lay down from thy shoulder and let resound, smit by thy flying fingers, the tuneful lyre. No stern, high strains in lofty measures would I have it sound, but such simply song as ’tis thy wont to modulate on lighter shell, when the learned Muse surveys thy sports. ’Tis thy right, too, on heavier strings to sound such strain as thou sangest when gods saw Titans by thunder overcome, even when mountains, on lofty mountains set, furnished pathway for grim monsters, when Pelion stood on Ossa set beneath, and cloud-capped Olympus weighed on both.
 
@@ -493,7 +498,7 @@ ELECTRA
 
 CLYTEMNESTRA
 
-[953] Foe of thy mother, unfilial and froward girl, by what custom doest thou, a maid, seek public gatherings?
+[953] Foe of thy mother, unfilial and froward girl, by what [custom](/concepts/custom) doest thou, a maid, seek public gatherings?
 
 ELECTRA
 

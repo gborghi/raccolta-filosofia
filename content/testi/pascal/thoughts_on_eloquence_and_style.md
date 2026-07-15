@@ -12,24 +12,15 @@ tags:
   - "philosopher/pascal"
 ---
 
+> [!abstract]
+> Fragments of rhetorical and literary criticism on eloquence, style and the faults of writers such as Cicero, with remarks on Montaigne and Descartes. Mostly aesthetic rather than doctrinal content.
+
+<p class="work-source">Traduzione di George Pearce · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/pascal/thoughts_on_eloquence_and_style" data-philosopher="Pascal"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Thoughts on Eloquence and Style" data-chapter="EDITORIAL NOTICES." data-kind="intro"></span>
-
-WE HAVE HERE placed, under a separate section, the too brief fragments which Pascal left behind him, respecting an art of which he had laid open every secret; for, whether he spoke or wrote, he was the most eloquent of men.
-
-With the exception of a small number, these “Thoughts on Eloquence and Style” have been already published; but in the old editions they are scattered without order, and under various titles. To this an exception should be made of the Dijon edition, (1835) in which, for the most part, they are collected under one head. (French Editor.)
-
-* * * * *
-
-A considerable portion of these reflections have appeared in this country, in former editions of the “Pensées” but have never been heretofore arranged in any methodical order. Many, however, besides those from MSS., are now translated for the first time.
-
-From this part of the volume, the reader will be pleased especially to notice, that all the paragraphs, or parts of paragraphs, titles, &c, having this mark + prefixed, are published in the French work from which this translation is made, for the first time from the original MSS.
-
-(Translator.)
-
-<span class="atom-split" data-atom="002" data-title="I. + ELOQUENCE." data-chapter="I. + ELOQUENCE." data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Thoughts on Eloquence and Style" data-chapter="I. + ELOQUENCE." data-kind="intro"></span>
 
 We require from a speaker both agreeableness and truth; but that which aims to be agreeable, must be based upon truth.
 
@@ -73,11 +64,11 @@ XIII. The meaning of a passage will be changed by the words made use of in its e
 
 XIV. The last thing we do in composing a work, is to determine upon the mode of its commencement.
 
-XV. Those accustomed to judge by feeling, understand little of reasoning; they decide by a glance, and are not able to search into principles. Others, on the contrary, who are in the habit of reasoning from principles, cannot enter into matters of feeling; principles are all they look for, and they can do nothing by mere sight.
+XV. Those accustomed to judge by feeling, understand little of reasoning; they decide by a glance, and are not able to search into principles. Others, on the contrary, who are in the [habit](/concepts/custom) of reasoning from principles, cannot enter into matters of feeling; principles are all they look for, and they can do nothing by mere sight.
 
 XVI. When we are acquainted with a person’s ruling passion, we are sure to be able to please him; and yet every one has some fancies opposed to his real welfare, which he supposes contribute to it; this is a capriciousness which throws us off our scent.
 
-XVII. When a description true to nature is given of a passion, or an incident, we feel an internal conviction of its fidelity, although we had before been unconscious of it; and thus experience a feeling of complacency towards the narrator. For he does not so much describe what is in himself, as what is reflected in our own minds, and this gives us satisfaction; besides that the sympathy thus formed between us and him inclines us the more to good-will towards him.
+XVII. When a description true to nature is given of a passion, or an incident, we feel an internal conviction of its fidelity, although we had before been unconscious of it; and thus experience a feeling of complacency towards the narrator. For he does not so much describe what is in himself, as what is reflected in our own minds, and this gives us satisfaction; besides that the [sympathy](/positions/moral_sentiment) thus formed between us and him inclines us the more to good-will towards him.
 
 XVIII. + It is not in Montagne [We here retain Pascal’s orthography: he always writes Montagne, instead of Montaigne.], but in myself, that I see everything I find in him.
 
@@ -127,11 +118,11 @@ Whatever is not adapted to this model displeases those who have a susceptibility
 
 If we are to have a poetical beauty, we ought also to have a geometrical beauty, and a medicinal beauty. Yet we do not speak thus; and the reason is, that we well know the object of geometry, — that it is to work out demonstrations; and the object of medicine, — that it is the healing of sickness; but we do not know in what consists that satisfaction which is the object of poetry. We do not know what is the model in nature which it seeks to imitate; and, for want of that knowledge, certain affected phrases have been invented, such as “golden age,”
 
-“miracle of the day,”
+“[miracle](/concepts/miracle) of the day,”
 
 “fatality,” &c.; and this jargon is called poetical beauty!
 
-But carry your thoughts to the case of a female dressed after such a fashion as this, — this endeavour to express petty sentiments with tumid words, — and you will imagine a beauty decked out with beads, chains, and other tawdry ornaments. You would laugh, for you know what constitutes the real grace of women, better than you understand the pleasure aimed at by versification: but those who do not know this would be filled with admiration at all this finery; and there are many country places where such a damsel would be taken for a queen! Thus it is that we should call poems composed after this fashion, village queens.
+But carry your thoughts to the case of a female dressed after such a fashion as this, — this endeavour to express petty sentiments with tumid words, — and you will imagine a beauty decked out with beads, chains, and other tawdry ornaments. You would laugh, for you know what constitutes the real [grace](/concepts/grace) of women, better than you understand the pleasure aimed at by versification: but those who do not know this would be filled with admiration at all this finery; and there are many country places where such a damsel would be taken for a queen! Thus it is that we should call poems composed after this fashion, village queens.
 
 XXX. + I have never been able to form, after an interval, exactly the same judgment respecting the same things. I cannot judge of a work that I am engaged in, while composing it: I must, like the painters, look at it from a distance, but not too great a one. How great should it be, then? Consider.
 

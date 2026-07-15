@@ -11,6 +11,11 @@ tags:
   - "philosopher/hume"
 ---
 
+> [!abstract]
+> A short letter (578 words, text unavailable in the digest sample) addressed to the author of a work on the nature and obligation of morality; specific content cannot be verified, so tagging is kept minimal for honesty.
+
+<p class="work-source">Testo originale inglese · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/hume/letter_to_the_author_of_the_delineation_of_the_nature_and_obligation_of_morality" data-philosopher="Hume"></div>
 
 
@@ -20,7 +25,7 @@ LETTER FROM DAVID HUME, ESQ. TO THE AUTHOR OF THE DELINEATION OF THE NATURE AND 
 
 SIR,
 
-WHEN I write you, I know not to whom I am addressing myself; I only know he is one who has done me a great deal of honour, and to whose civilities I am obliged. If we be strangers, I beg we may be acquainted as soon as you think proper to discover yourself; if we be acquainted already, I beg we may be friends; if friends, I beg we may be more so. Our connexion with each other, as men of letters, is greater than our difference as adhering to different sects or systems. Let us revive the happy times, when Atticus and Cassius the Epicureans, Cicero the Academic, and Brutus the Stoic, could, all of them, live in unreserved friendship, together, and were insensible to all those distinctions, except so far as they furnished agreeable matter to discourse and conversation. Perhaps you are a young man, and being full of those sublime ideas, which you have so well exprest, think there can be no virtue upon a more confined system. I am not an old one; but being of a cool temperament, have always found, that more simple views were sufficient to make me act in a reasonable manner; in this faith have I lived, and hope to die.
+WHEN I write you, I know not to whom I am addressing myself; I only know he is one who has done me a great deal of honour, and to whose civilities I am obliged. If we be strangers, I beg we may be acquainted as soon as you think proper to discover yourself; if we be acquainted already, I beg we may be friends; if friends, I beg we may be more so. Our connexion with each other, as men of letters, is greater than our difference as adhering to different sects or systems. Let us revive the happy times, when Atticus and Cassius the Epicureans, [Cicero](/figures/cicero) the Academic, and Brutus the Stoic, could, all of them, live in unreserved [friendship](/concepts/friendship), together, and were insensible to all those distinctions, except so far as they furnished agreeable matter to discourse and conversation. Perhaps you are a young man, and being full of those [sublime](/concepts/sublime) ideas, which you have so well exprest, think there can be no virtue upon a more confined system. I am not an old one; but being of a cool temperament, have always found, that more simple views were sufficient to make me act in a reasonable manner; in this faith have I lived, and hope to die.
 
 Your civilities to me so much overbalance your severities, that I should be ungrateful to take notice of some expressions, which, in the heat of composition, have dropt from your pen. I must only complain of you a little for ascribing to me the sentiments which I had put into the mouth of the Sceptic in the Dialogue. I have surely endeavoured to refute the Sceptic with all the force of which I am master; and my refutation must be allowed sincere, because drawn from the capital principles of my system. But you impute to me both the sentiments of the Sceptic and the sentiments of his antagonist, which I can never admit of. In every Dialogue, no more than one person can be supposed to represent the author.
 

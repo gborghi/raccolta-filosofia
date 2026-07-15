@@ -12,26 +12,15 @@ tags:
   - "philosopher/pascal"
 ---
 
+> [!abstract]
+> Miscellaneous fragments not folded into the Apology: vanity, inconstancy, pride, and the thesis that force, not opinion, rules the world, though opinion makes use of force.
+
+<p class="work-source">Traduzione di George Pearce · Delphi Classics, 2000 · pubblico dominio</p>
+
 <div class="atom-reader" data-work="testi/pascal/miscellaneous_thoughts" data-philosopher="Pascal"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Miscellaneous Thoughts" data-chapter="EDITORIAL NOTICES." data-kind="intro"></span>
-
-WE HAVE HERE collected, under the title of “Miscellaneous Thoughts,” all the fragments, which, on the one hand, were too unconnected to he formed into distinct sections; and, on the other, could not he appended to any of the articles contained in the present volume, nor find an appropriate place in the “Apology for Christianity.”
-
-It is possible that some of these thoughts may have had a measure of connexion in the train of Pascal’s reflections with his projected great work; but the larger number were, doubtless, the accidental fruit of the working of his powerful mind, to which all passing subjects afforded food for meditation.
-
-We have not aimed to arrange them in a very methodical sequence; and only when certain of their number seemed to bear an obvious analogy to each other, have taken any pains to classify them at all.
-
-When two paragraphs are separated by a line, it is implied that in the autograph MS. they are written upon two separate papers; and, on the contrary, those not so separated are on the same paper in the MS. The cyphers in Roman character, at the head of each of the Thoughts, are only intended to facilitate reference. (French Editor.)
-
-* * * * *
-
-A large proportion of these Miscellanies have appeared before, but scattered up and down among other sections of Pascal’s writings, in which their place was not appropriate; and some (exclusive of those designated as from MS.) are altogether new. It will be obvious how valuable an addition is made to the collection, by the large number marked as now first collected and published from original sources. As a whole, indeed, these fragmentary and fugitive writings furnish a code of important instruction upon a vast multitude of subjects; and, to some, perhaps, their unconnected form will present more attraction, than essays, better digested, and more consecutive in their arrangement. It must be considered singularly fortunate, considering how little, comparatively, of more sustained and revised composition the shortness of his life, and his infirmity of health, permitted him to accomplish, that Pascal should have possessed so fixed a habit, of committing his passing reflections and elementary thoughts to writing; by means of which, much that, in the case of other men is lost, and forgotten, has been preserved for the benefit of posterity.
-
-(Translator.)
-
-<span class="atom-split" data-atom="002" data-title="MISCELLANEOUS THOUGHTS." data-chapter="MISCELLANEOUS THOUGHTS." data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Miscellaneous Thoughts" data-chapter="MISCELLANEOUS THOUGHTS." data-kind="intro"></span>
 
 I. + M. de Roannez once remarked:— “Reasons occur to me afterwards; but, in the first instance, one thing pleases or displeases me, without my being conscious of the reason; and another displeases me, for a reason which I do not discover till afterwards.” I believe, however, not that the displeasure is felt for the reasons which occur to us afterwards, but that the reasons are discovered, only because the displeasure has been felt. [Second MS. Collection of P. Guerrier, p. 192.]
 
@@ -87,7 +76,7 @@ We are then, in substance, to say, that is produced by figure and motion; and th
 
 More phlegmatic natures might almost envy the pleasure which M. Faugère must have felt in the discovery of these unknown passages, and the zeal with which he defends his priority of acquisition. (Transl.)]
 
-X. The habit of seeing sovereigns surrounded by guards, music, officers of state, and all those things which mechanically challenge respect and fear, inspires their subjects with reverence and dread, even when they axe seen alone, and without these accompaniments; because our thoughts naturally connect these customary appendages with their persons. And the world, not knowing that this is the mere effect of custom, supposes that it originates in some inherent force possessed by them; whence comes the expression, “ There is divinity stamped upon the countenance,” &c.
+X. The [habit](/concepts/custom) of seeing sovereigns surrounded by guards, music, officers of state, and all those things which mechanically challenge respect and fear, inspires their subjects with reverence and dread, even when they axe seen alone, and without these accompaniments; because our thoughts naturally connect these customary appendages with their persons. And the world, not knowing that this is the mere effect of custom, supposes that it originates in some inherent force possessed by them; whence comes the expression, “ There is divinity stamped upon the countenance,” &c.
 
 XI. The bonds which preserve distinction and respect between men, are necessary: there must be degrees of rank in society; — all being desirous of pre-eminence, all not being able to enjoy it, and yet some succeeding in obtaining it.
 
@@ -137,7 +126,7 @@ We must endeavour ourselves to put due limits to these things. In themselves the
 
 XXVIII. The great and the humble experience the same accidents, the same disquiets, the same passions; but the one are at the top of the wheel, and the other near the centre, and, therefore, are less agitated by the same revolutions.
 
-XXIX. Who that had enjoyed the friendship of the Kings of England and Poland, and the Queen of Sweden, would have believed that the time would come when they would not find a retreat and shelter throughout the world? [Pascal, no doubt, here alludes to Charles I. of England, driven into the Isle of Wight, in 1647; to John Casimir, king of Poland, compelled to seek an asylum in Silesia, in 1655; and lastly, to Queen Christina, who abdicated her throne in 1654.]
+XXIX. Who that had enjoyed the [friendship](/concepts/friendship) of the Kings of England and Poland, and the Queen of Sweden, would have believed that the time would come when they would not find a retreat and shelter throughout the world? [Pascal, no doubt, here alludes to Charles I. of England, driven into the Isle of Wight, in 1647; to John Casimir, king of Poland, compelled to seek an asylum in Silesia, in 1655; and lastly, to Queen Christina, who abdicated her throne in 1654.]
 
 <span class="atom-split" data-atom="008" data-title="XXX. + Tyranny + Consists in a desire of unusual and irregular domination." data-chapter="XXX. + Tyranny + Consists in a desire of unusual and irregular domination." data-kind="atom"></span>
 
@@ -159,7 +148,7 @@ This deference ought to be yielded; it is an injustice to withhold it, and an in
 
 XXXIII. + Diversity is so endless, that every ones gait, tones of voice, cough, sneeze.... Fruits are distinguished; among grapes are the Muscats, those of Coindrieu, of Desargues, and of Cette. Furthermore, have these several places ever produced similar grapes, and has any one grape two seeds like each other? &c.
 
-XXXIV. How many objects has the telescope discovered, which philosophy had never conceived of before? We should absurdly misinterpret the expressions of Scripture, as to the vast number of the stars, by saying “There are but a thousand and twenty-two; we are sure of it.”
+XXXIV. How many objects has the telescope discovered, which philosophy had never conceived of before? We should absurdly misinterpret the expressions of [Scripture](/concepts/revelation), as to the vast number of the stars, by saying “There are but a thousand and twenty-two; we are sure of it.”
 
 XXXV. + There are herbs upon the face of the earth; we see them ourselves. On the moon we can discern none. And on these herbs there are leaves, and on the leaves insects; but beyond this nothing more? O rash presumption! Mixed substances, then, are composed of elements, and the elements not! Presumption again! See here a nice distinction: we must not speak of things that are not visible to the eye; let us talk like other people, but not think like them.
 
@@ -227,7 +216,7 @@ But if I hate it because it is usurping, because it makes itself the centre of e
 
 In short, the word has two qualities; it is usurping in itself, as it makes itself the centre of everything; it is injurious to others, even in designing to do them service; for self is the enemy of every one, and would be a universal tyrant. You may take away the annoyance it causes, but not its injustice; and thus you do not render it pleasing to those who dislike injustice. You render it pleasing only to those who are unjust themselves, and therefore do not consider it their enemy; and thus you continue unjust yourself, and can please only those who are the same.
 
-LIX. It is an injustice that others should be allowed to attach themselves to me, though for their own pleasure, and with entire free-will. I should deceive them in permitting such a partiality; I can be no object for any to rest in, and have nothing that can afford them satisfaction. Am I not shortly to die? Then the object of in the following passage:—” He (Desbarreaux) preaches Atheism wherever he goes; and one day, at St Cloud, he was passing the Passion-week with Miton, a great gambler, Potel, Counsellor of the Châtelet, Raineys, &c., to spend their carnival, as he said.” their pleasure will die also! As I should be culpable in suffering a falsehood to be believed, although it might be insinuated quietly, and told and received with satisfaction; in the same way am I culpable in suffering myself to become an object of attachment. If I attract the affection of others to myself, I ought to warn those who would make themselves parties to the deception, that they should be on their guard against it, whatever advantage might accrue to myself from it; and not attach themselves to me, when their life and their cares ought to be devoted to pleasing God, or seeking to do so. [This fragment presents the interesting feature, that it is in the handwriting of Domat, who has added the following note:—” Madame Perier has the original of this paper.” Madame Perier has reproduced the passage in her memoir of her brother.]
+LIX. It is an injustice that others should be allowed to attach themselves to me, though for their own pleasure, and with entire free-will. I should deceive them in permitting such a partiality; I can be no object for any to rest in, and have nothing that can afford them satisfaction. Am I not shortly to die? Then the object of in the following passage:—” He (Desbarreaux) preaches [Atheism](/positions/atheism) wherever he goes; and one day, at St Cloud, he was passing the Passion-week with Miton, a great gambler, Potel, Counsellor of the Châtelet, Raineys, &c., to spend their carnival, as he said.” their pleasure will die also! As I should be culpable in suffering a falsehood to be believed, although it might be insinuated quietly, and told and received with satisfaction; in the same way am I culpable in suffering myself to become an object of attachment. If I attract the affection of others to myself, I ought to warn those who would make themselves parties to the deception, that they should be on their guard against it, whatever advantage might accrue to myself from it; and not attach themselves to me, when their life and their cares ought to be devoted to pleasing God, or seeking to do so. [This fragment presents the interesting feature, that it is in the handwriting of Domat, who has added the following note:—” Madame Perier has the original of this paper.” Madame Perier has reproduced the passage in her memoir of her brother.]
 
 <span class="atom-split" data-atom="014" data-title="LX. + Vanity of Knowledge." data-chapter="LX. + Vanity of Knowledge." data-kind="atom"></span>
 
@@ -253,11 +242,11 @@ When we see certain events always recurring alike, we conclude that they origina
 
 LXVII. The mind naturally inclines to some kind of belief, and the will to some kind of affections; so that, for want of proper objects, they are prone to attach themselves to such as are unfitting.
 
-LXVIII. Grace will always be found in the world as well as nature, inasmuch as it is in a measure congenial to us. Thus there will always be Pelagians, and orthodox believers; and always conflicts going on between them.
+LXVIII. [Grace](/concepts/grace) will always be found in the world as well as nature, inasmuch as it is in a measure congenial to us. Thus there will always be Pelagians, and orthodox believers; and always conflicts going on between them.
 
 It is the first birth that produces the one, and the second, the other.
 
-LXIX. + Nature is ever recommencing the same things, — such as years, days, hours; spaces also, and numbers, follow uniformly each other. There is, by these means, formed a kind of infinitude and eternity. Not that any of these things are really infinite or eternal; but these finite things multiply themselves infinitely; thus it seems to me, it is only the number which multiplies them that is infinite.
+LXIX. + Nature is ever recommencing the same things, — such as years, days, hours; spaces also, and numbers, follow uniformly each other. There is, by these means, formed a kind of infinitude and [eternity](/positions/eternity). Not that any of these things are really infinite or eternal; but these finite things multiply themselves infinitely; thus it seems to me, it is only the number which multiplies them that is infinite.
 
 LXX. + When we hear it said, that cold is only the motion of certain globules, and light the “conatus recedendi” [This is the “ centrifugal force.” Pascal has borrowed this expression from the definition of light, given by Descartes in his “Principia Philosophic,” Part iii., see. 55.] which we experience, we feel surprised. And pleasure, then, is only a kind of excitement of the animal spirits. We had certainly formed an entirely different idea of these things, and such opinions are wholly opposed to all our prepossessions. The feeling of warmth, a sensation that affects us so differently from the touch, — the perception of sound and of light, — all these seem mysteries; whereas those definitions are as gross and insensate as a stone. It is true, the minute influences which enter by the pores affect other nerves, but they are nerves still.
 
@@ -369,7 +358,7 @@ C. When malice gets reason on its side, pride is engendered, and reason is displ
 
 CII. + Eclipses are said to presage trouble, because trouble is common; so that, as calamities are of continual occurrence, the prediction is often fulfilled; if they had been said to predict good, they would as often have proved fallacious. Happiness is assigned only to rare conjunctures of the skies; thus the divination is not often put to the test, CIII. I hold it to be a fact, that if all persons knew what they said of each other, there would not be four friends left in the world. [Pascal, doubtless, meant here to imply the same limitation (by nature) as in the Thought, No. CLV. (Transl.)] This is manifest from the disputes to which indiscreet reports, passing from one to another, often give rise.
 
-CIV. You have a bad habit in saying, “Pray excuse me.” Now, but for the apology, I should not have known anything had been done wrong. Allow me to say, there is nothing amiss but the excuse.
+CIV. You have a bad [habit](/concepts/custom) in saying, “Pray excuse me.” Now, but for the apology, I should not have known anything had been done wrong. Allow me to say, there is nothing amiss but the excuse.
 
 CV. I do not admire all these compliments:—” I give you a great deal of trouble “I am afraid I am tiring you “I am afraid this is tedious.” Either you embarrass, or you give offence.
 
@@ -391,7 +380,7 @@ CXI. + Shall we destroy life in order to prevent wickedness? That is to commit t
 
 + It is constraint which forms opinion. Slackness is, in my opinion, agreeable. Why? Because any one liking to dance upon a tight rope will be alone in his taste, and I can get up a larger number who will say, that it is not agreeable. [This passage, like a few others, is obscure; and I cannot feel certain that it is correctly rendered. (Transl.)]
 
-CXIII. It is the effect of constraint, not of custom; for those who are capable of originality are few: the larger number will only follow the lead of others, and refuse praise to those who aim at distinction by their inventions. And if these latter persist in their object, and despise such as are not inventive, the others will treat them with ridicule, or even with violence, if possible. Let none, therefore, pique themselves upon such acuteness, or let them be satisfied to remain as they are. [The beginning of this passage, “It is the effect of constraint, not of custom,” was evidently connected with a preceding thought, which is wanting in the MS.]
+CXIII. It is the effect of constraint, not of [custom](/concepts/custom); for those who are capable of originality are few: the larger number will only follow the lead of others, and refuse praise to those who aim at distinction by their inventions. And if these latter persist in their object, and despise such as are not inventive, the others will treat them with ridicule, or even with violence, if possible. Let none, therefore, pique themselves upon such acuteness, or let them be satisfied to remain as they are. [The beginning of this passage, “It is the effect of constraint, not of custom,” was evidently connected with a preceding thought, which is wanting in the MS.]
 
 CXIV. + Memory and pleasure are feelings; and even geometrical propositions become feelings; for reason renders them natural, and natural feelings are effaced by reason.
 
@@ -421,7 +410,7 @@ CXXII. “Ferox gens nullam esse vitam sine armis rati.” These love death bett
 
 + Contradiction is no mark of falsehood, neither is the absence of contradiction a mark of truth.
 
-CXXIV. + We do not become tired of eating and sleeping daily, for hunger and drowsiness are every day recurring; but for this, they would weary. So, without a hunger for spiritual things, they also would weary. “Hunger after righteousness.” (Beatitude 8th.)
+CXXIV. + We do not become tired of eating and sleeping daily, for hunger and drowsiness are every day recurring; but for this, they would weary. So, without a hunger for spiritual things, they also would weary. “Hunger after righteousness.” ([Beatitude](/positions/beatitude) 8th.)
 
 CXXV. By chance, thoughts are produced; by chance, they are lost; there is no method for preserving or acquiring them. (Erased.)
 
@@ -435,7 +424,7 @@ CXXVI. In the act of writing down a thought, it sometimes escapes me; but this o
 
 + And yet he believed he carried conviction with him in saying, it is either in our own power or not. But he did not perceive that it is not in our power to regulate the heart; and he was wrong in the conclusion he has come to respecting Christians.
 
-CXXVIII. St. Augustin saw that men laboured after shadows at sea, in battle, &c. He was not acquainted with the rule by which certain writers prove that they ought to do this. Montagne has perceived that we are disgusted with a person of imperfect understanding, and that custom reconciles to everything; but he has not discovered the reason of this.
+CXXVIII. St. Augustin saw that men laboured after shadows at sea, in battle, &c. He was not acquainted with the rule by which certain writers prove that they ought to do this. Montagne has perceived that we are disgusted with a person of imperfect understanding, and that [custom](/concepts/custom) reconciles to everything; but he has not discovered the reason of this.
 
 These persons have perceived effects, but not causes. They are, in comparison with those who have discovered the causes, like those who possess eyes only, in comparison with such as possess an understanding: for effects are in a measure perceptible by sense; but causes are discoverable only by the understanding. And although these effects are perceptible by the understanding, yet that kind of understanding is, in respect to the one which perceives causes also, like the corporeal in regard to the intellectual senses.
 
@@ -481,7 +470,7 @@ Inclination and force are the origin of all our actions: inclination! of the vol
 
 <span class="atom-split" data-atom="039" data-title="CXXXVI. + Greatness." data-chapter="CXXXVI. + Greatness." data-kind="atom"></span>
 
-+ The habit of observing causes and effects shows the greatness of man, in dividing from his sensuality the ardour of his disposition. (See Thoughts, CLIV., CLXXXV., subs.)
++ The [habit](/concepts/custom) of observing causes and effects shows the greatness of man, in dividing from his sensuality the ardour of his disposition. (See Thoughts, CLIV., CLXXXV., subs.)
 
 <span class="atom-split" data-atom="040" data-title="CXXXVII. + Causes and results." data-chapter="CXXXVII. + Causes and results." data-kind="atom"></span>
 
@@ -495,7 +484,7 @@ CXXXIX. Atheists demand perfect demonstration of every thing: now it cannot be c
 
 <span class="atom-split" data-atom="041" data-title="CXL. Atheism indicates strength of mind, but only up to a certain point." data-chapter="CXL. Atheism indicates strength of mind, but only up to a certain point." data-kind="atom"></span>
 
-[It seems that Pascal, in this thought, had present to his mind the 3d ch of the 1st Book of a work now little known, which Charron has devoted to an “Apology for Religion.” It is earlier than that of “La Sagesse,” and is entitled, “Trois Livres pour la religion catholique, apostolique et romaine, contre tous athées, idolâtres, juifs, mahométans hérétiques, et schismatiques.” Paris 1602. Charron distinguishes three kinds of atheists; and speaking of those who absolutely deny a God, says that this kind of atheism “can exist only in an extremely bold and hardened mind.”
+[It seems that Pascal, in this thought, had present to his mind the 3d ch of the 1st Book of a work now little known, which Charron has devoted to an “Apology for Religion.” It is earlier than that of “La Sagesse,” and is entitled, “Trois Livres pour la religion catholique, apostolique et romaine, contre tous athées, idolâtres, juifs, mahométans hérétiques, et schismatiques.” Paris 1602. Charron distinguishes three kinds of atheists; and speaking of those who absolutely deny a God, says that this kind of [atheism](/positions/atheism) “can exist only in an extremely bold and hardened mind.”
 
 “Certainly,” he adds, “it seems to require as much or more boldness and hardihood of spirit to repel and resolutely strip ourselves of the fear and belief of a God, as to keep firm and constant hold of him. These are the two extremes, both rare and difficult, but the former the most so.”
 
@@ -503,7 +492,7 @@ The sentiment of Pascal corresponds with that of Charron, but with a certain res
 
 Further, this thought has been published by Desmolets, and after him by the Dijon editor. But they have both materially altered the autograph text, by substituting the word “manque de force,” for “marque de force,” which latter is plainly written in the MS.]
 
-CXLI. The change of a man into a saint can only be effected by grace; whoever doubts this knows nothing of what a saint or a man really is.
+CXLI. The change of a man into a saint can only be effected by [grace](/concepts/grace); whoever doubts this knows nothing of what a saint or a man really is.
 
 CXLII. Men can be taught everything but virtue; and yet there is nothing that they pique themselves so much upon possessing as virtue. They are vain of just that very thing which they have never acquired.
 
@@ -515,7 +504,7 @@ CXLIV. + Half-hearted religionists are those who know the truth, but maintain it
 
 + It is an evil to have our wants too well supplied.
 
-CXLVI. + The habit of pampering the body increases by little and little. The nourishment may be abundant, but the real benefit small.
+CXLVI. + The [habit](/concepts/custom) of pampering the body increases by little and little. The nourishment may be abundant, but the real benefit small.
 
 <span class="atom-split" data-atom="043" data-title="CXLVIII. + Instinct and reason are indications of different natures." data-chapter="CXLVIII. + Instinct and reason are indications of different natures." data-kind="atom"></span>
 
@@ -527,7 +516,7 @@ CL. + There is a total and essential difference between actions produced by the 
 
 CLI. All our reasoning is wont to he subservient to feeling. But fancy is both similar and opposed to feeling; so that they cannot be distinguished from each other. One person says my feeling is fancy; another avers that his fancy is feeling. Now, there ought to be some rule: reason offers herself; but she is easily turned about in every way, and thus there is no rule at all.
 
-CLII. + When I consider the brief term of my earthly existence, absorbed in an eternity, past and to come; the insignificant space that I occupy, and the narrow limit of my perception; — when I see myself to be surrounded with infinitudes, unconscious of my existence, and unknown of me; I ask with alarm and astonishment, “Wherefore am I here, rather than elsewhere? wherefore now, rather than at some other time? Who has placed me here? By whose order, by whose arrangement, have this spot and this period been assigned to my existence?”
+CLII. + When I consider the brief term of my earthly existence, absorbed in an [eternity](/positions/eternity), past and to come; the insignificant space that I occupy, and the narrow limit of my perception; — when I see myself to be surrounded with infinitudes, unconscious of my existence, and unknown of me; I ask with alarm and astonishment, “Wherefore am I here, rather than elsewhere? wherefore now, rather than at some other time? Who has placed me here? By whose order, by whose arrangement, have this spot and this period been assigned to my existence?”
 
 (In the margin is, “Memoria hospitis unius diei prœtereuntis.”)
 
@@ -539,13 +528,13 @@ CLIII. + Why is my knowledge thus limited? Why my stature no more than this? my 
 
 CLIV. + Man’s licentiousness has given rise to excellent rules of police, of morality, and justice.
 
-But at best, this vile principle of human nature, this “figmentum malum” is only covered over; it is not eradicated.
+But at best, this vile principle of [human nature](/axes/human_nature), this “figmentum malum” is only covered over; it is not eradicated.
 
 CLV. By nature all men hate each other. Then-natural inclinations have been made, as far as possible, to subserve the general good; but this is only a feint, and a false show of charity. At bottom it is hatred still.
 
 + Yet is it a greatness in man, in his irregularities, to be able to derive from them so admirable a code of laws, and to exhibit in them, thus, a semblance of charity.
 
-CLVI. + I have not toleration for those whom I see living so negligently in the faith, and so greatly abusing a privilege of which I think I should make a use so different. [This thought is in the copy only.]
+CLVI. + I have not [toleration](/positions/toleration) for those whom I see living so negligently in the faith, and so greatly abusing a privilege of which I think I should make a use so different. [This thought is in the copy only.]
 
 CLVII. If it is a strange blindness, to live without inquiring what we are; it is a fearful one to live in sin, while we believe a God.
 
@@ -593,11 +582,11 @@ CLXXII. + “Fascinatio nugacitatis.” That passion may not injure us, let us a
 
 + False fear.
 
-+ There is a fear, which does not spring from a belief in God, but from a doubt whether there be a God or not. Wholesome fear is produced by faith; a spurious one by scepticism: a sound fear unites itself with hope, and is the offspring of faith; for we place our hope in the God in whom we believe: an unsound one allies itself with despair; for we fear a God in whom we have no faith. The one fears to lose, the other to discover him.
++ There is a fear, which does not spring from a belief in God, but from a doubt whether there be a God or not. Wholesome fear is produced by faith; a spurious one by [scepticism](/positions/scepticism): a sound fear unites itself with hope, and is the offspring of faith; for we place our hope in the God in whom we believe: an unsound one allies itself with despair; for we fear a God in whom we have no faith. The one fears to lose, the other to discover him.
 
 CLXXIV. + The hope which Christians entertain of eternal happiness, is mingled with joy as well as with fear: they are not like those who hope for a kingdom of which they have never been the subjects; but their aspirations are for holiness, and freedom from corruption; — and of these things they have already had some experience.
 
-CLXXV. The law does not destroy nature, but enlightens her; grace does not destroy the law, but brings it into exercise.
+CLXXV. The law does not destroy nature, but enlightens her; [grace](/concepts/grace) does not destroy the law, but brings it into exercise.
 
 — The faith received at baptism is the source of all the life of the Christian, and of the converted.
 
@@ -617,7 +606,7 @@ CLXXIX. All that is in the world is “lust of the flesh, lust of the eye, or pr
 
 <span class="atom-split" data-atom="047" data-title="CLXXX. External observances." data-chapter="CLXXX. External observances." data-kind="atom"></span>
 
-+ There is nothing so dangerous as what is pleasing both to God and to man; for the states which are pleasing to God and man, have one quality which procures the favour of God, and another that of man, as is seen in the greatness of St. Theresa. That which pleases God is her deep humility under revelations; men admire her superior illuminations. And thus it is fatal to imitate such discourses as hers, in the belief that we are resembling also her holiness; and to suppose that, by such means, we are loving what God loves, and attaining to the state which secures his favour.
++ There is nothing so dangerous as what is pleasing both to God and to man; for the states which are pleasing to God and man, have one quality which procures the favour of God, and another that of man, as is seen in the greatness of St. Theresa. That which pleases God is her deep humility under revelations; men admire her superior illuminations. And thus it is fatal to imitate such discourses as hers, in the belief that we are resembling also her holiness; and to suppose that, by such means, we are loving what God loves, and attaining to [the state](/concepts/state) which secures his favour.
 
 — + Better is it not to fast, and to be humble, than to fast and be self-righteous.
 
@@ -633,7 +622,7 @@ CLXXIX. All that is in the world is “lust of the flesh, lust of the eye, or pr
 
 CLXXXI. + Every thing may prove fatal to us, even things formed for our service; as, in common things, a wall may kill us, or the steps of a staircase, if we do not walk uprightly.
 
-— The smallest movement is influential upon the whole of nature; the entire sea is displaced by a stone. So, in grace, the minutest action may be followed by incalculable consequences. Thus, every thing has its importance.
+— The smallest movement is influential upon the whole of nature; the entire sea is displaced by a stone. So, in [grace](/concepts/grace), the minutest action may be followed by incalculable consequences. Thus, every thing has its importance.
 
 + In every thing we do, we should look, not only at the act itself, but at our own state, past, present, future, and that of others whom it may concern; and examine the connexion of all these things. Thus shall we preserve circumspection of conduct.
 
