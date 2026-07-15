@@ -3,3 +3,4 @@ public/
 .quartz/
 .quartz-cache/
 *.log
+.playwright-mcp/

@@ -565,9 +565,33 @@ async function main() {
   // ---- generated pages (thin shells; client renders from the JSON) -----------
   const philCounts = {}
   for (const w of works) philCounts[w.philosopher] = (philCounts[w.philosopher] || 0) + 1
-  const philList = Object.keys(philCounts)
-    .sort()
-    .map((p) => `- **${p}** — ${philCounts[p]} opere`)
+  // La scrivania: un emblema per filosofo, posato come un carteggio.
+  // Il nome sta nell'HTML SOTTO la carta, non stampato nell'immagine: i modelli
+  // d'immagine sbagliano le lettere (Recraft ha prodotto "RARX" e poi "MAXX"
+  // per Marx), e cosi' il nome resta selezionabile, cercabile e traducibile.
+  const EMBLEM = {
+    Seneca: "seneca",
+    Lucretius: "lucretius",
+    Pascal: "pascal",
+    Descartes: "descartes",
+    Locke: "locke",
+    Hume: "hume",
+    Rousseau: "rousseau",
+    Kant: "kant",
+    Hegel: "hegel",
+    Marx: "marx",
+    Nietzsche: "nietzsche",
+    "Ortega y Gasset": "ortega",
+  }
+  const deskCards = Object.keys(philCounts)
+    .sort((a, b) => philCounts[b] - philCounts[a] || a.localeCompare(b))
+    .filter((p) => EMBLEM[p])
+    .map(
+      (p) =>
+        `  <a class="desk-card" href="opere" title="${p} - ${philCounts[p]} opere">` +
+        `<img src="static/emblems/${EMBLEM[p]}.webp" alt="${p}" loading="lazy" width="400" height="400">` +
+        `<span class="desk-name">${p}</span></a>`,
+    )
     .join("\n")
 
   const home = `---
@@ -587,11 +611,9 @@ title: Filosofia — Un Grafo di Conoscenza
   </div>
 </div>
 
-## Filosofi
-
-${philList}
-
-<div id="desk"></div>
+<div class="desk">
+${deskCards}
+</div>
 `
   await fs.writeFile(path.join(CONTENT, "index.md"), home)
 

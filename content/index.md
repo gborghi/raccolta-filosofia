@@ -15,15 +15,13 @@ title: Filosofia — Un Grafo di Conoscenza
   </div>
 </div>
 
-## Filosofi
-
-- **Hegel** — 8 opere
-- **Hume** — 12 opere
-- **Kant** — 16 opere
-- **Locke** — 18 opere
-- **Lucretius** — 4 opere
-- **Marx** — 19 opere
-- **Pascal** — 12 opere
-- **Seneca** — 26 opere
-
-<div id="desk"></div>
+<div class="desk">
+  <a class="desk-card" href="opere" title="Seneca - 26 opere"><img src="static/emblems/seneca.webp" alt="Seneca" loading="lazy" width="400" height="400"><span class="desk-name">Seneca</span></a>
+  <a class="desk-card" href="opere" title="Marx - 19 opere"><img src="static/emblems/marx.webp" alt="Marx" loading="lazy" width="400" height="400"><span class="desk-name">Marx</span></a>
+  <a class="desk-card" href="opere" title="Locke - 18 opere"><img src="static/emblems/locke.webp" alt="Locke" loading="lazy" width="400" height="400"><span class="desk-name">Locke</span></a>
+  <a class="desk-card" href="opere" title="Kant - 16 opere"><img src="static/emblems/kant.webp" alt="Kant" loading="lazy" width="400" height="400"><span class="desk-name">Kant</span></a>
+  <a class="desk-card" href="opere" title="Hume - 12 opere"><img src="static/emblems/hume.webp" alt="Hume" loading="lazy" width="400" height="400"><span class="desk-name">Hume</span></a>
+  <a class="desk-card" href="opere" title="Pascal - 12 opere"><img src="static/emblems/pascal.webp" alt="Pascal" loading="lazy" width="400" height="400"><span class="desk-name">Pascal</span></a>
+  <a class="desk-card" href="opere" title="Hegel - 8 opere"><img src="static/emblems/hegel.webp" alt="Hegel" loading="lazy" width="400" height="400"><span class="desk-name">Hegel</span></a>
+  <a class="desk-card" href="opere" title="Lucretius - 4 opere"><img src="static/emblems/lucretius.webp" alt="Lucretius" loading="lazy" width="400" height="400"><span class="desk-name">Lucretius</span></a>
+</div>
