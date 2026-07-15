@@ -182,6 +182,63 @@ function esc(s) {
 function prettify(basename) {
   return String(basename).replace(/_/g, " ").trim()
 }
+
+// ---- full-text search index (TF-IDF keywords per work) ----------------------------
+// Mirrors ../English/quartz-eng-lit/preprocess.mjs's keywordCounts/topTfIdf (that repo
+// does not rely on Quartz's own contentIndex.json, which truncates every page's
+// indexed text to ~500 chars — useless for full-text recall inside a 200k-word work).
+// English only: the corpus is ~99% English prose with pockets of Latin (Seneca's
+// tragedies, Lucretius). We do NOT special-case lang — every work's `lang` field in
+// this vault is "en" even when the body is pure Latin (verified against the Seneca
+// atoms), so it cannot drive a strip/don't-strip branch. In practice this is harmless:
+// English function words ("the", "and", "of", "is") essentially never occur in Latin
+// text, so filtering them out of a Latin work is close to a no-op — the Latin content
+// words survive untouched and dominate the TF-IDF ranking.
+const STOPWORDS = new Set((
+  "a about an and are as at be been but by can did do does each for from had has have he her here him his how i if in into is it its no not of on one or our so that the their them then there these they this to too two up was we were what when where which who will with you your"
+).split(/\s+/).filter(Boolean))
+
+// Per-work term frequencies (Map<word,count>) computed over the full concatenated
+// atom text (the same body text the SPA reading page renders — no second vault read).
+function keywordCounts(content) {
+  const cleaned = content
+    .replace(/\[\[(?:[^\]|]+\|)?([^\]]+)\]\]/g, " $1 ") // keep wikilink label
+    .replace(/\[[^\]]*\]\([^)]*\)/g, " ") // md links
+    .replace(/[`*_>#|]/g, " ") // md syntax
+    .toLowerCase()
+    .replace(/[^a-zà-ÿ\s]/g, " ") // letters only
+  const counts = new Map()
+  for (const w of cleaned.split(/\s+/)) {
+    if (w.length < 3 || STOPWORDS.has(w)) continue
+    counts.set(w, (counts.get(w) || 0) + 1)
+  }
+  return counts
+}
+
+// Rank each work's terms by TF-IDF across the 115-work corpus and keep the top-N
+// (most discriminating first) as an array — this becomes the record's `kw` field.
+function topTfIdf(countsByKey, N = 40) {
+  const df = new Map()
+  for (const counts of Object.values(countsByKey))
+    for (const w of counts.keys()) df.set(w, (df.get(w) || 0) + 1)
+  const total = Object.keys(countsByKey).length || 1
+  const out = {}
+  for (const [key, counts] of Object.entries(countsByKey)) {
+    if (!counts.size) {
+      out[key] = []
+      continue
+    }
+    const scored = []
+    for (const [w, c] of counts) {
+      const idf = Math.log(total / (df.get(w) || 1))
+      if (idf <= 0) continue
+      scored.push([w, c * idf])
+    }
+    scored.sort((a, b) => b[1] - a[1])
+    out[key] = scored.slice(0, N).map((x) => x[0])
+  }
+  return out
+}
 function countWords(s) {
   const m = String(s)
     .replace(/<[^>]+>/g, " ")
@@ -303,6 +360,7 @@ async function main() {
   // ---- emit SPA reading pages (testi/<philosopher>/<work>.md) ----------------
   const works = [] // index.json records
   const workHrefByKey = new Map() // canonical workKey -> { href, title } (for KG-note link rewriting)
+  const kwCountsByHref = {} // workHref -> Map<word,count> over the full concatenated atom text
   let workPages = 0
 
   for (const [workKey, { philosopher, atoms }] of workAtoms) {
@@ -335,6 +393,7 @@ async function main() {
 
     let totalWords = 0
     const blocks = []
+    const kwTextParts = [] // full atom body text, reused for keyword extraction below
     for (let i = 0; i < atoms.length; i++) {
       const a = atoms[i]
       const atomN = a.data.atom_n ?? i + 1
@@ -357,6 +416,7 @@ async function main() {
       if (h1m && (!atomTitleRaw || h1m[2].trim() === atomTitleRaw)) body = body.slice(h1m[0].length)
       body = body.trim()
       totalWords += countWords(body)
+      kwTextParts.push(body)
 
       blocks.push(
         `\n\n<span class="atom-split" data-atom="${esc(atomId)}" data-title="${esc(label)}" data-chapter="${esc(chapter)}" data-kind="${isIntro ? "intro" : "atom"}"></span>\n\n` +
@@ -386,6 +446,7 @@ async function main() {
     workPages++
 
     workHrefByKey.set(workKey, { href: workSlug, title })
+    kwCountsByHref[workSlug] = keywordCounts(kwTextParts.join("\n\n"))
 
     works.push({
       href: workSlug,
@@ -410,6 +471,10 @@ async function main() {
     })
   }
   works.sort((a, b) => (a.philosopher + a.title).localeCompare(b.philosopher + b.title))
+
+  // ---- TF-IDF keywords per work (full-text search recall; see keywordCounts) ----
+  const kwArrays = topTfIdf(kwCountsByHref, 40)
+  for (const w of works) w.kw = kwArrays[w.href] || []
 
   // ---- rewrite [[wikilinks]] in Knowledge Graph note bodies ------------------
   // A wikilink target is either another node id (axis/position/concept/argument/
@@ -452,6 +517,41 @@ async function main() {
 
   // ---- quartz/static/index.json + taxonomy.json ------------------------------
   await fs.writeFile(path.join(STATIC_DIR, "index.json"), JSON.stringify(works))
+
+  // ---- quartz/static/index_kw.json: inverted index {term: [workHref, ...]} ------
+  // Lets the client resolve a term without scanning every record. Covers two
+  // sources so a lookup stays language-agnostic:
+  //  1. each work's own `kw` (full-text TF-IDF terms, language of the source text)
+  //  2. the label_it / label_en / aliases of every taxonomy node the work is tagged
+  //     with — so an English query ("empiricism") reaches a work only tagged via
+  //     its Italian label or a German/Latin passage, and vice versa. This is an
+  //     addition on top of the existing canonical-id fields, not a replacement.
+  const kwIndex = {} // term -> Set<href>
+  function addKwTerm(term, href) {
+    const t = String(term || "").trim().toLowerCase()
+    if (!t) return
+    if (!kwIndex[t]) kwIndex[t] = new Set()
+    kwIndex[t].add(href)
+  }
+  for (const w of works) {
+    for (const term of w.kw) addKwTerm(term, w.href)
+    for (const field of ["axes", "positions", "concepts", "arguments", "figures", "forms", "schools"]) {
+      for (const id of w[field] || []) {
+        const info = idInfo.get(id)
+        if (!info) continue
+        for (const lbl of [info.label_it, info.label_en, ...(info.aliases || [])]) {
+          if (!lbl) continue
+          addKwTerm(lbl, w.href) // whole phrase, exact-match lookups
+          for (const word of String(lbl).toLowerCase().split(/[^a-zà-ÿ]+/)) {
+            if (word.length >= 3 && !STOPWORDS.has(word)) addKwTerm(word, w.href)
+          }
+        }
+      }
+    }
+  }
+  const kwOut = {}
+  for (const [term, hrefs] of Object.entries(kwIndex)) kwOut[term] = [...hrefs]
+  await fs.writeFile(path.join(STATIC_DIR, "index_kw.json"), JSON.stringify(kwOut))
 
   const taxOut = {}
   for (const [taxKey, type] of Object.entries(TAX_KEY_TO_TYPE)) {
