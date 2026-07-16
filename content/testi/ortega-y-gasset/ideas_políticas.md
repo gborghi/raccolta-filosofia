@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ideas_políticas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ideas políticas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ideas políticas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -62,7 +62,7 @@ II
 
 DISOCIACIÓN NECESARIA DE PARLAMENTO Y GOBIERNO
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No se puede gobernar con el Parlamento, pero es imposible gobernar sin él. ¿Por qué ha de ser difícil resolver esta antítesis en una síntesis? Solo sería, no ya difícil, sino imposible en el [caso](/concepts/fortune) de que la democracia prolongase definitivamente su anquilosamiento de treinta años y no volviese a tener plasticidad bastante para inventar nuevas instituciones. Pero entonces la antítesis se resolvería en otra forma. El espíritu democrático, bizantinizado, sucumbiría víctima de su propia esclerosis y a la par dejaría de ser una necesidad contar con el Parlamento. La democracia, que lo ha engendrado, tiene adscritos a él sus destinos: o acierta a reformarlo, o desaparecerá como fuerza histórica.
 
@@ -98,7 +98,7 @@ Un día u otro será preciso volver al Parlamento. Pero, ¿a cuál? ¿Al antiguo
 
 Para dignificar al Parlamento es preciso dignificar su función y sus funcionarios. Ambos menesteres deben atenderse por separado.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Es un poco absurdo hablar tan patéticamente del Parlamento, como hacen los demócratas, y encargarle a la par de faenas tan ínfimas. Resulta grotesco que la representación de la soberanía tenga que ocuparse de la nueva carreterita allá en la aldea serrana, o del oscuro peatón que el diputado nombra en su distrito apremiando al ministro. Es inmoral, asimismo, que el representante de la voluntad pública pida al Gobierno un juez domesticado para su distrito. Es ridículo que el jefe del Gabinete tenga que contestar a un discurso donde se le ataca porque en el villorrio un guardia civil ha dado un palo a un concejal, o un concejal a un guardia civil. Es bochornoso que el cuerpo entero de los diputados haya de discutir uno por uno los artículos de una ley de Instrucción pública, porque esto sólo puede servir para que se ponga de manifiesto la incompetencia de los diputados. Peor que todo esto es la escena consuetudinaria en que medio Parlamento pugna por derribar al Gobierno, acumulando sobre él denuestos, gratuitas acusaciones, etcétera. Todo este arcaico repertorio de unos parlamentarios, que tanto complace a los políticos de antaño, creo yo que repugna a la sensibilidad actual.
 
@@ -136,7 +136,7 @@ El caciquismo ha sido la forma real de organización política vigente en Españ
 
 ¿Qué es el caciquismo? La organización oficial del Estado español determinaba que el ejercicio del Poder público había de reducirse a aplicar leyes, esto es, normas objetivas, iguales para todos, y que los llamados a aplicarlas, las autoridades, eran responsables de esta operación. En el caciquismo u organización real del Estado español, por el contrario, el ejercicio del Poder no era la aplicación de leyes o normas objetivas, sino la imposición de la voluntad de ciertas personas, los caciques, que eran irresponsables. Por la intervención de los caciques en las elecciones resultaba que todas las leyes concretas eran propiamente una mera legalización de aquellas voluntades privadas. El Estado democrático pretendía ser una colectividad de ciudadanos, de sujetos de derecho, unidos entre sí por el nexo impersonal de las leyes. El caciquismo era un Estado sin leyes, sin nada jurídico, impersonal y objetivo; era una colectividad de hombres de carne y hueso, unidos por relaciones puramente personales y privadas. En la aldea, tal individuo tenía unos amigos y un grupo de clientes agradecidos o temerosos; ese individuo era el cacique de primer grado. Su pequeño «Estado» tenía como principios de cohesión la simpatía o el temor de unos hombres a otros. En la capital, otro individuo había reunido en más amplia articulación a esos caciques de primer grado: era el cacique de segundo grado. Por último, en Madrid un «político» concentraba periódicamente en su tertulia a esos caciques de segundo grado, actuando sobre ellos con las mismas fuerzas mágicas de la simpatía, el favor o la persecución.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Esta trabazón de «amigos» formaba un edificio de ancha base y punta aguda: la pirámide caciquil. Cada partido político era una de estas pirámides, y el paisaje egipciaco que componían representaba la verdadera y única realidad del Estado español. ¿La justicia? ¿El respeto a los derechos del prójimo, simplemente por ser derechos, quienquiera que sea el prójimo? ¿Fervor por el mérito de los mejores? ¿Asco hacia la vileza e ineptitud de los peores? ¿Reverencia ante los destinos nacionales y reflexión sobre sus condiciones y urgencias? ¿Afición o curiosidad por la ciencia, por la técnica, por el arte, por el decoro urbano, por los residuos del pasado, por las posibilidades del futuro? Nada de esto influía en el alma del cacique, cualquiera que fuera su grado, e influía tanto menos cuanto más se descendía del «político» al cacique provincial, del provincial al de aldea. Los únicos poderes vigentes, eficaces, eran la simpatía o antipatía, el favor o el daño.
 
@@ -182,7 +182,7 @@ La condición esencial para que tenga algún decoro el Parlamento es que se cort
 
 Los parlamentarios deben, en cambio, representar grandes porciones del territorio: las regiones. Cada una de éstas podía elegir una veintena de diputados. Una elección por lista y con alguno de los sistemas de proporcionalidad —que sólo han resultado eficaces en cuerpos de electores muy numerosos— evitaría casi todas las repugnantes, aldeanas corruptelas del sufragio en nuestro país. Una región entera no es fácil de muñir.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Yo comprendo que un proyecto de este linaje habría de irritar a toda la gentecilla inferior que, merced a vilezas de vario estilo, sabe «organizarse» un distrito. Si se llevaba a efecto equivaldría a «desaldeanizar» el Parlamento, permitiendo, con no escasas probabilidades, que esos veinte hombres destacados por cada región no fuesen nunca de calidad inferior. Cada asamblea pondría en manos de una Comisión, escogida en su interior, la presidencia de esas grandes elecciones parlamentarias.
 

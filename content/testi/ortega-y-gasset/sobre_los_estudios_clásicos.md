@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_los_estudios_clásicos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre los estudios clásicos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre los estudios clásicos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Aere perennius. — HORACIO: Carmina
 
@@ -42,7 +42,7 @@ Clasicismo sólo hay uno, clasicismo griego, y los renacimientos serán siempre,
 
 Quisiera escribir corto para que los lectores no se quejaran de mí: y así, al encontrarme en el fin de estas cuartillas, lamento la incontinencia de mi pluma, que sin haber hecho otra cosa que iniciar la cuestión del clasicismo deja intacta la cuestión del humanismo, objeto principal de ellas. Pero era necesario: el humanismo es sólo una función del clasicismo. Para indicar lo que en aquél más nos importa a los españoles, bastaría decir: si el clasicismo es el sentido íntimo de la cultura, es el humanismo greco-latino el clasicismo de las formas de la cultura y muy especialmente de las formas mediterráneas de la cultura. Estoy convencido de que las artes españolas serán y deberán ser siempre realistas. Mas por lo mismo, sólo manteniendo constantemente ante los ojos las pautas y las normas de las humanidades evitaremos que nuestro realismo caiga en lo chabacano y se arregoste en menesteres infrahumanos. No fue el azar quien inventó el nombre de humanidades.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 De todo ello hablaré otro día: hoy quería sólo mentar la obrilla nueva de mi maestro y mi amigo don Julio Cejador, el cual publicó hace unos siete años una Gramática griega, según el método histórico-comparado; hace seis la «Introducción» a su obra capital El lenguaje; hace cinco Los Gérmenes del Lenguaje; hace tres La Embriogenia del Lenguaje; hace dos la Gramática del Quijote; hace uno el Diccionario del Quijote; hace dos meses un tomo de ensayos sobre cuestiones filológicas y lingüísticas. Luego de grandes afanes, alcanzó el señor Cejador una cátedra de latín en el Instituto de Palencia. Y ahí está enseñando pretéritos y supinos a unos angelitos celtíberos.
 

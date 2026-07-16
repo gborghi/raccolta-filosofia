@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_el_poder_de_la_prensa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre el poder de la prensa" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre el poder de la prensa" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señor director de El Sol.
 
@@ -40,7 +40,7 @@ Si, pues, no se hacía cuestión de esos «intereses inconfesables», ¿qué dia
 
 Ha hecho mal El Sol en no querer dejarme a mí ni un pico de razón, porque con ello revela que no iba tranquilamente a discutir lo que las cosas son y deben ser, sino a defender hasta lo indefendible. No hay verosimilitud ninguna de que alguien, sea quien sea, se equivoque tan integralmente, hasta en esos detalles, como El Sol da a entender que yo me he equivocado.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Conozco El Sol desde su cuna. Conozco minuciosamente la actuación de su Empresa, y sé muy bien que no sólo no inspira a su periódico según intereses inconfesables, sino que, al revés, El Sol le ha servido sólo para atraer sobre los negocios particulares de sus empresarios los rayos más abusivos del Poder público. Yo sé todo esto tan bien, ni más ni menos, como pueda saberlo El Sol mismo. Pero El Sol mismo sabe, ni más ni menos tan bien como yo, que ése es un [caso](/concepts/fortune) no único, pero sí excepcional o sumamente infrecuente en el volumen enorme de la Prensa europea. ¿Por qué entonces finge ignorarlo y me presenta como habiendo dicho yo algo que no se ajusta a la verdad?
 

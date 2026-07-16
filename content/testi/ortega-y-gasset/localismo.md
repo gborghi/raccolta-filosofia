@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/localismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Localismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Localismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¡Toledo, Ciudad Real, Logroño!… He ahí tres ejemplos de buen sentido político que deberían ser imitados por los demás distritos españoles. Hombres radicados en la localidad, de vida respetable y con autoridad social, levantan en esas tres capitales una bandera blanca y limpia: la defensa local.
 

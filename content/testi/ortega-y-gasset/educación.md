@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/educación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Educación" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Educación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero hay otra serie de actos humanos que tienden asimismo a transformar la realidad dada en el sentido de un ideal. A esta acción de sacar una cosa de otra, de convertir una cosa menos buena en otra mejor, llamaban los latinos eductio, educatio. Por la educación obtendremos de un individuo imperfecto un hombre cuyo pecho resplandece en irradiaciones virtuosas. Nativamente aquel individuo no era bondadoso, ni sabio, ni enérgico: mas ante los ojos de su maestro flotaba la imagen vigorosa de un tipo superior de humana criatura, y empleando la técnica pedagógica ha conseguido inyectar este hombre ideal en el aparato nervioso de aquel hombre de carne. ¡Tal es la divina operación educativa merced a la cual la idea, el verbo, se hace carne! Mas si advertís, la educación, la pedagogía, tal y como vulgarmente se la toma, es la educación del individuo, la pedagogía individual. Yo quisiera que analizáramos brevemente este tópico.
 

@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/seneca/the_trojan_women" data-philosopher="Seneca"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="THE TROJAN WOMEN" data-chapter="DRAMATIS PERSONAE" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="THE TROJAN WOMEN" data-chapter="DRAMATIS PERSONAE" data-kind="intro" data-srclang="en"></span>
 
 AGAMEMNON, king of the Greek forces in the war against Troy
 
@@ -46,13 +46,13 @@ THE SCENE is laid on the seashore, with the smouldering ruins of Troy in the bac
 
 THE TIME is the day before the embarkation of the Greeks on their homeward journey.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
 
 The long and toilsome siege of Troy is done. Her stately palaces and massive walls have been overthrown and lie darkening the sky with their still smouldering ruins. Her heroic defenders are either slain or scattered, seeking other homes in distant lands. The victorious Greeks have gathered the rich spoils of Troy upon the shore, among these the Trojan women, who have suffered the usual fate of women when a city is sacked. They await the lot which shall assign them to their Grecian lords and scatter them among the cities of their foes. All things are ready for the start.
 
 But now the ghost of Achilles has risen from the tomb, and demanded that Polyxena be sacrificed to him before the Greeks shall be allowed to sail away. And Calchas, also, bids that Astyanax be slain, for only thus can Greece be safe from any future Trojan war. And thus the Trojan captives, who have so long endured the pains of war, must suffer still this double tragedy.
 
-<span class="atom-split" data-atom="003" data-title="TROADES (1/8)" data-chapter="TROADES" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="TROADES (1/8)" data-chapter="TROADES" data-kind="atom" data-srclang="en"></span>
 
 HECUBA
 
@@ -106,7 +106,7 @@ CHORUS
 
 TALTHYBIUS
 
-<span class="atom-split" data-atom="004" data-title="TROADES (2/8)" data-chapter="TROADES" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="TROADES (2/8)" data-chapter="TROADES" data-kind="atom" data-srclang="en"></span>
 
 [168] My spirit is afraid; shivering horror makes my limbs to quake. Portents transcending truth scarce gain belief – but I saw it, with my own eyes I saw. The sun was just grazing the hill-tops with his morning rays and day had vanquished night, when suddenly the earth with hidden rumblings rocked convulsive and brought to light her innermost recesses; the woods tossed their tops and the lofty forest and sacred grove resounded with huge crashing; and rocks came falling from the shivered heights of Ida. Nor did the earth only tremble; the sea, too, felt its own Achilles near and stilled its waters. Then was the valley rent asunder, revealing caverns measureless, and yawning Erebus gave passage-way through the cleft earth to the world above and opened up the tomb. Forth leaped the mighty shade of the Thessalian chief, such shape as when practising for thy fate, O Troy, he laid low the Thracian arms, or smote the son of Neptune with white plumes gleaming; or when, amidst the ranks raging in furious battle, he choked rivers with corpses, and Xanthus, seeking his way, wandered slowly along with bloody stream; or when he stood in his proud car victorious, plying the reins and dragging Hector – and Troy.
 
@@ -150,7 +150,7 @@ PYRRHUS
 
 AGAMEMNON
 
-<span class="atom-split" data-atom="005" data-title="TROADES (3/8)" data-chapter="TROADES" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="TROADES (3/8)" data-chapter="TROADES" data-kind="atom" data-srclang="en"></span>
 
 [318] But no fear then, I grant it, had thy father, and mid Grecian carnage and their blazing ships idly he lay, thoughtless of war and arms, strumming with dainty quill on tuneful lyre.
 
@@ -286,7 +286,7 @@ ANROMACHE
 
 [438] Two portions of her course had kindly night well-nigh passed, and the seven stars had turned their shining car; at last long unfamiliar calm came to my troubled heart, and a brief slumber stole o’er my weary cheeks – if, indeed, the stupor of a mind all dazed be slumber – when suddenly Hector stood before my eyes, not in such guise as when, forcing the fight against the Argives, he attacked the Grecian ships with torches from Ida’s pines, not as when he raged in copious slaughter against he Danaï and bore off true spoils from a feigned Achilles; not such his face, blazing with battle light, but weary, downcast, heavy with weeping, like my own, covered with matted locks. Even so, ’twas joy to have looked upon him. Then, shaking his head, he said: “Rouse thee from slumber and save our son, O faithful wife! hide him; ’tis the only hope of safety. Away with tears! Dost grieve because Troy has fallen? Would she were fallen utterly! Make haste, remove to any place soever the little scion of our house.” Cold horror and trembling banished sleep; quaking with terror, I turned my eyes now here, now there, taking no thought of my son, and piteously seeking Hector; but from my very arms his cheating ghost was gone.
 
-<span class="atom-split" data-atom="006" data-title="TROADES (4/8)" data-chapter="TROADES" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="TROADES (4/8)" data-chapter="TROADES" data-kind="atom" data-srclang="en"></span>
 
 [461] O son, true offspring of a mighty sire, sole hope of Phrygians, sole comfort of our stricken house, child of an ancient, too illustrious line, too like thy father, thou; such features my Hector had, such was he in gait, such in bearing; so carried he his brave hands, so bore he his shoulders high, such august, commanding look had he as with head thrown proudly back he tossed his flowing locks. O son, born too late for the Phrygians, too soon for thy mother, will that time ever come and that happy day when, as defender and avenger of the Trojan land, thou shalt establish Pergama restored, bring back its scattered citizens from flight, and give again their name to fatherland and Phrygians? But, remembering my own lot, I shrink from such proud prayers; this is enough for captives – may we but live!
 
@@ -414,7 +414,7 @@ ANDROMACHE
 
 ULYSSES
 
-<span class="atom-split" data-atom="007" data-title="TROADES (5/8)" data-chapter="TROADES" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="TROADES (5/8)" data-chapter="TROADES" data-kind="atom" data-srclang="en"></span>
 
 [605] That the fates have been fulfilled by the removal of Hector’s stock, and that peace is secure, this news will I joyfully bear to the Danaï – [Aside.] What doest thou, Ulysses? The Danaï will believe thy word, but whose word, thou? A mother’s – or would any mother feign her offspring’s death, and not shrink from the omen of the abhorrent word? Yet omens they fear who have naught worse to fear. She has confirmed her truth by oath; if the oath is false, what is the worse thing she can be fearing? Now, my heart, summon up thy craft, thy tricks, thy wiles, now all Ulysses; truth is never lost. Watch the mother. She grieves, she weeps, she groans; now here, now there she wanders restlessly, straining her ears to catch each uttered word; this woman’s fear is greater than her grief. Now have I need of skill.
 
@@ -514,7 +514,7 @@ ANDROMACHE
 
 ULYSSES
 
-<span class="atom-split" data-atom="008" data-title="TROADES (6/8)" data-chapter="TROADES" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="TROADES (6/8)" data-chapter="TROADES" data-kind="atom" data-srclang="en"></span>
 
 [749] ’Tis not Ulysses, but Calchas refuses this to thee.
 
@@ -582,7 +582,7 @@ ANROMACHE
 
 HELEN
 
-<span class="atom-split" data-atom="009" data-title="TROADES (7/8)" data-chapter="TROADES" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="TROADES (7/8)" data-chapter="TROADES" data-kind="atom" data-srclang="en"></span>
 
 [903] Although great grief lacks reason and will not be turned aside, and sometimes hates the very comrades of its suffering, still could I maintain my cause even before a hostile judge, having borne worse things than you. Andromache mourns for her Hector, and Hecuba for her Priam; for Paris alone must Helen mourn in secret. Is it a hard, a hateful, and a galling thing to endure servitude? This yoke have I long endured, for ten years captive. Is Ilium laid low, are your household gods overthrown? It is hard to lose one’s native country, harder to fear it. You are comforted by companionship in so great misfortune; against me victor and vanquished rage alike. Which one of you each lord should drag away as his slave, has long hung on uncertain [chance](/concepts/fortune); me has my master dragged away at once, without waiting for the lot. Have I been the cause of wars and all this ruin to the Teucrians? Count that the truth if ’twas a Spartan ship that clove your seas; but if, swept along by Phrygian oarsmen, I was a helpless prey, if a triumphant goddess gave me as a reward to her judge, pity the helpless prey. ’Tis an angry judge my cause will have; the decision of that case waits on Menelaüs. But now forget your own woes a little while, Andromache, and prevail on her – I can scarce keep from weeping.
 
@@ -666,7 +666,7 @@ CHORUS
 
 MESSENGER
 
-<span class="atom-split" data-atom="010" data-title="TROADES (8/8)" data-chapter="TROADES" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="TROADES (8/8)" data-chapter="TROADES" data-kind="atom" data-srclang="en"></span>
 
 [1056] O cruel fate, harsh, pitiable, horrible! What crime so savage, so grievous, has Mars seen in ten long years? Which first shall I tell amidst my lamentations, thy woes, Andromache, or thine, thou aged woman?
 

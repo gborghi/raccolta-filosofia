@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_querella_entre_el_hombre_y_el_mono" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La querella entre el hombre y el mono" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La querella entre el hombre y el mono" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En una reciente conferencia dada ante el Congreso de Antropología (Salzburg, septiembre de este año), y en un artículo que publica el Archivo de Ginecología[30], aduce el profesor Westenhofer nuevas pruebas para la tesis, según la cual, no es el hombre quien procede del mono, sino el mono quien se deriva del hombre. Ya en 1924 había tratado con este fin del mentón humano y, en 1923, de ciertas particularidades internas, como los lóbulos del riñón y las muescas del bazo, que revelan la extrema antigüedad de nuestra especie.
 
@@ -46,7 +46,7 @@ Pero la dentadura, que hace del hombre una especie más joven que el pez, le hac
 
 Lo propio acontece si atendemos a las extremidades. La disposición en el hombre de brazos y piernas con respecto al torso recuerda ante todo a la rana, inclusive en la ordenación de los músculos. La rana y el lagarto son parientes no muy lejanos del hombre. Es lo más probable que los peces primitivos poseyeran una disposición de aletas más próxima a la de los saurios que los peces actuales. Las especies vivientes más antiguas, como el barramuda de los ríos australianos, tienen otro par de aletas traseras que con las delanteras anuncian la colocación de las cuatro extremidades en los sauro-mammalia del período primario[33].
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En este período primario, con el reptil, aparece la mano, y desde luego aparece con sus cinco dedos. Uno de los fenómenos más misteriosos de la Historia Natural es esta ley de la pentadactilia que impera en la evolución orgánica. Todo el que haya visto, aunque sólo sea en reproducción fotográfica, la huella del cheirotherion —que pertenece a la época primitiva— habrá experimentado cierto pavor advirtiendo su enorme semejanza con la huella de la mano humana. El pulgar, con su gruesa pulpa, la proporción de los dedos, etcétera, todo coincide inquietadoramente. Lejos, pues, de ser la mano una adquisición de última hora, la verdad es que se trata de uno de los órganos más antiguos, usufructuado ya por el más primitivo vertebrado terrestre. En éste como en otros atributos, se declara —dice Klaatsch— que lo sorprendente del hombre no es su progresiva adaptación, sino, al revés, su conservatismo, la tenacidad con que ha retenido y salvado elementos sumamente antiguos que las demás especies han perdido. La mano es uno de los grandes atributos del hombre. En combinación con el cerebro, ha hecho de él la bestia industriosa que fabrica instrumentos, el homo faber, o, como Franklin solía llamarle, animal instrumentificum. Según esto, lo maravilloso no sería tanto la existencia de la mano, sino la conservación de semejante antigualla zoológica.
 

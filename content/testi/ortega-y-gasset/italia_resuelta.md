@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/italia_resuelta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Italia resuelta" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Italia resuelta" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Por fin, este domingo ha hablado el presidente del Consejo sobre Italia. Lo que ha dicho carece de importancia. En general, las cosas que dicen los presidentes del Consejo no son muy interesantes. Mas, al cabo, tienen una ventaja: ponen en movimiento al salón de conferencias y a los grandes paquebotes periodísticos. Y como es forzoso, al parecer, que toda esta impedimenta se ponga en marcha para que camine detrás entera la nación española, bienvenidas sean las palabras de los presidentes, aunque vengan vacías.
 

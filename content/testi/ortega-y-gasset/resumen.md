@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/resumen" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Resumen" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Resumen" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No podía el Gobierno hacer cosa distinta de lo que ha hecho. Pero, a pesar de eso, o mejor dicho, por eso mismo, apresúrese a organizar el resto de las fuerzas españolas, porque es peligrosísimo dejar que un miembro del cuerpo se desarrolle mientras los otros quedan atrofiados. No caigamos en la monstruosidad.
 

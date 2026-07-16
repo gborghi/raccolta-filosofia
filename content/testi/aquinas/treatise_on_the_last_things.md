@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_last_things" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Last Things" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Last Things" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE LAST THINGS (QQ[86]-99)
 
-<span class="atom-split" data-atom="002" data-title="OF THE KNOWLEDGE WHICH, AFTER RISING AGAIN, MEN WILL HAVE AT THE JUDGMENT CONCERNING MERITS AND DEMERITS (THREE ARTICLES)" data-chapter="OF THE KNOWLEDGE WHICH, AFTER RISING AGAIN, MEN WILL HAVE AT THE JUDGMENT CONCERNING MERITS AND DEMERITS (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE KNOWLEDGE WHICH, AFTER RISING AGAIN, MEN WILL HAVE AT THE JUDGMENT CONCERNING MERITS AND DEMERITS (THREE ARTICLES)" data-chapter="OF THE KNOWLEDGE WHICH, AFTER RISING AGAIN, MEN WILL HAVE AT THE JUDGMENT CONCERNING MERITS AND DEMERITS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must treat of those things which follow the resurrection. The first of these
 to be considered will be the knowledge, which after rising again, men will have at the judgment,
@@ -37,7 +37,7 @@ Under the first head there are three points of inquiry:
 (2) Whether every one will be able to read all that is on another's conscience?
 (3) Whether one will be able at one glance to see all merits and demerits?
 
-<span class="atom-split" data-atom="003" data-title="Whether after the resurrection every one will know what sins he has committed?" data-chapter="Whether after the resurrection every one will know what sins he has committed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether after the resurrection every one will know what sins he has committed?" data-chapter="Whether after the resurrection every one will know what sins he has committed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that after the resurrection everyone will not be able to know all the sins
 he has committed. For whatever we know, either we receive it anew through the senses, or we draw
@@ -123,7 +123,7 @@ diminish their pain; indeed, it will increase it, because the greatest sorrow is
 goods: for which reason Boethius says (De Consol. ii) that "the greatest misfortune is to have been
 happy."
 
-<span class="atom-split" data-atom="004" data-title="Whether every one will be able to read all that is in another's conscience?" data-chapter="Whether every one will be able to read all that is in another's conscience?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether every one will be able to read all that is in another's conscience?" data-chapter="Whether every one will be able to read all that is in another's conscience?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it will be impossible for every one to read all that is in another's
 conscience. For the knowledge of those who rise again will not be clearer than that of the angels,
@@ -197,7 +197,7 @@ this kind is owing to the fact that shame regards the esteem of men, who esteem 
 which is customary. But then confusion will regard the esteem of God, which weighs every sin
 according to the truth, whether it be the sin of one man or of many.
 
-<span class="atom-split" data-atom="005" data-title="Whether all merits and demerits, one's own as well as those of others, will be seen by anyone at a single glance?" data-chapter="Whether all merits and demerits, one's own as well as those of others, will be seen by anyone at a single glance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether all merits and demerits, one's own as well as those of others, will be seen by anyone at a single glance?" data-chapter="Whether all merits and demerits, one's own as well as those of others, will be seen by anyone at a single glance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all merits and demerits, one's own as well as those of
 others, will be seen by anyone at a single glance. For things considered singly are not seen at one
@@ -241,7 +241,7 @@ in a very short time, the Divine power coming to their aid. This agrees with the
 in a space of time, however short, is potentially an infinite number of instants. This suffices for the
 replies to the objections on either side of the question.
 
-<span class="atom-split" data-atom="006" data-title="OF THE GENERAL JUDGMENT, AS TO THE TIME AND PLACE AT WHICH IT WILL BE (FOUR ARTICLES)" data-chapter="OF THE GENERAL JUDGMENT, AS TO THE TIME AND PLACE AT WHICH IT WILL BE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="OF THE GENERAL JUDGMENT, AS TO THE TIME AND PLACE AT WHICH IT WILL BE (FOUR ARTICLES)" data-chapter="OF THE GENERAL JUDGMENT, AS TO THE TIME AND PLACE AT WHICH IT WILL BE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the general judgment, as to the time and place at which it will be. Under
 this head there are four points of inquiry:
@@ -250,7 +250,7 @@ this head there are four points of inquiry:
 (3) Whether it will take place at an unknown time?
 (4) Whether it will take place in the valley of Josaphat?
 
-<span class="atom-split" data-atom="007" data-title="Whether there will be a general judgment?" data-chapter="Whether there will be a general judgment?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether there will be a general judgment?" data-chapter="Whether there will be a general judgment?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there will not be a general judgment. For according to Nahum
 1:9, following the Septuagint version, "God will not judge the same thing a second time." But God
@@ -322,7 +322,7 @@ than each individual to be judged, as stated above. Wherefore although before th
 one will be certain of his condemnation or reward, he will not be cognizant of the condemnation
 or reward of everyone else. Hence the necessity of the general judgment.
 
-<span class="atom-split" data-atom="008" data-title="Whether the judgment will take place by word of mouth?" data-chapter="Whether the judgment will take place by word of mouth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the judgment will take place by word of mouth?" data-chapter="Whether the judgment will take place by word of mouth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this judgment, as regards the inquiry and sentence, will take
 place by word of mouth. For according to [Augustine](/figures/augustine) (De Civ. Dei xx) "it is uncertain how many
@@ -381,7 +381,7 @@ Reply to Objection 3: Christ will appear in body, so that the Judge may be recog
 body by all, and it is possible for this to take place suddenly. But speech which is measured by time
 would require an immense length of time, if the judgment took place by word of mouth.
 
-<span class="atom-split" data-atom="009" data-title="Whether the time of the future judgment is unknown?" data-chapter="Whether the time of the future judgment is unknown?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether the time of the future judgment is unknown?" data-chapter="Whether the time of the future judgment is unknown?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the time of the future judgment is not unknown. For just as
 the holy Fathers looked forward to the first coming, so do we look forward to the second. But the
@@ -471,7 +471,7 @@ or kingdom, or of the whole Church, the length of whose duration is not dependen
 of man's life. And yet it behooves each of these to be so ordered that the day of the Lord find us
 not unprepared.
 
-<span class="atom-split" data-atom="010" data-title="Whether the judgment will take place in the valley of Josaphat?" data-chapter="Whether the judgment will take place in the valley of Josaphat?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the judgment will take place in the valley of Josaphat?" data-chapter="Whether the judgment will take place in the valley of Josaphat?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the judgment will not take place in the valley of Josaphat or
 in the surrounding locality. For at least it will be necessary for those to be judged to stand on the
@@ -516,7 +516,7 @@ parallel between His coming to judge and His ascension; so that He Who ascended 
 come to judgment in a cloud.
 Again the cloud on account of its refreshing influence indicates the mercy of the Judge.
 
-<span class="atom-split" data-atom="011" data-title="OF THOSE WHO WILL JUDGE AND OF THOSE WHO WILL BE JUDGED AT THE GENERAL JUDGMENT (EIGHT ARTICLES)" data-chapter="OF THOSE WHO WILL JUDGE AND OF THOSE WHO WILL BE JUDGED AT THE GENERAL JUDGMENT (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="OF THOSE WHO WILL JUDGE AND OF THOSE WHO WILL BE JUDGED AT THE GENERAL JUDGMENT (EIGHT ARTICLES)" data-chapter="OF THOSE WHO WILL JUDGE AND OF THOSE WHO WILL BE JUDGED AT THE GENERAL JUDGMENT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider who will judge and who will be judged at the general judgment. Under
 this head there are eight points of inquiry:
@@ -529,7 +529,7 @@ this head there are eight points of inquiry:
 (7) Whether any of the wicked will be judged?
 (8) Whether the angels also will be judged?
 
-<span class="atom-split" data-atom="012" data-title="Whether any men will judge together with Christ?" data-chapter="Whether any men will judge together with Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether any men will judge together with Christ?" data-chapter="Whether any men will judge together with Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no men will judge with Christ. For it is written (Jn. 5:22,23):
 "The Father . . . hath given all judgment to the Son, that all men may honor the Son." Therefore,
@@ -593,7 +593,7 @@ Reply to Objection 3: There is no reason why some of the saints should not revea
 things to others, either by way of [enlightenment](/schools/enlightenment), as the higher angels enlighten the lower [*Cf. FP,
 Q[106]],: or by way of speech as the lower angels speak to the higher [*Cf. FP, Q[107], A[2]].
 
-<span class="atom-split" data-atom="013" data-title="Whether the judicial power corresponds to voluntary poverty?" data-chapter="Whether the judicial power corresponds to voluntary poverty?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether the judicial power corresponds to voluntary poverty?" data-chapter="Whether the judicial power corresponds to voluntary poverty?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the judicial power does not correspond to voluntary poverty.
 For it was promised to none but the twelve apostles (Mat. 19:28): "You shall sit on twelve seats,
@@ -684,7 +684,7 @@ so by the authority of a superior, as in the case of a judge-delegate. Hence it 
 be granted to the poor as an accidental reward to judge others, even those who have higher merit
 in respect of the essential reward.
 
-<span class="atom-split" data-atom="014" data-title="Whether the angels will judge?" data-chapter="Whether the angels will judge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the angels will judge?" data-chapter="Whether the angels will judge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels will judge. For it is written (Mat. 25:31): "When
 the Son of man shall come in His majesty, and all the angels with Him." Now He is speaking of
@@ -726,7 +726,7 @@ But nothing hinders an accidental reward from being bestowed on men to the exclu
 angels, as in the case of the virgins' and martyrs' crowns: and the same may be said of the judicial
 power.
 
-<span class="atom-split" data-atom="015" data-title="Whether the demons will carry out the sentence of the Judge on the damned?" data-chapter="Whether the demons will carry out the sentence of the Judge on the damned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the demons will carry out the sentence of the Judge on the damned?" data-chapter="Whether the demons will carry out the sentence of the Judge on the damned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the demons will not carry out the sentence of the Judge on the
 damned after the day of judgment. For, according to the Apostle (1 Cor. 15:24): "He will then bring
@@ -787,7 +787,7 @@ in nature and rewards [*Cf. FP, Q[108], A[8] ], so that some angels will be enli
 men. On the other hand, no human sinners will, on account of a certain degree of virtue, attain to
 the eminence that attaches to the nature of the demons.
 
-<span class="atom-split" data-atom="016" data-title="Whether all men will be present at the judgment?" data-chapter="Whether all men will be present at the judgment?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether all men will be present at the judgment?" data-chapter="Whether all men will be present at the judgment?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that men will not all be present at the judgment. For it is written
 (Mat. 19:28): "You . . . shall sit on twelve seats, judging the twelve tribes of Israel." But all men
@@ -828,7 +828,7 @@ will rise again to assemble at the judgment and witness the glory of the Judge.
 Reply to Objection 3: Even children who have died before reaching the perfect age will be
 present at the judgment, not to be judged, but to see the Judge's glory.
 
-<span class="atom-split" data-atom="017" data-title="Whether the good will be judged at the judgment?" data-chapter="Whether the good will be judged at the judgment?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the good will be judged at the judgment?" data-chapter="Whether the good will be judged at the judgment?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that none of the good will be judged at the judgment. For it is
 declared (Jn. 3:18) that "he that believeth in Him is not judged." Now all the good believed in Him.
@@ -882,7 +882,7 @@ of terror." Hence it is clear that this fear refers to the time immediately befo
 terrible indeed to the wicked, but not to the good, who will have no apprehension of evil.
 The arguments in the contrary sense consider judgment as regards the payment of rewards.
 
-<span class="atom-split" data-atom="018" data-title="Whether the wicked will be judged?" data-chapter="Whether the wicked will be judged?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether the wicked will be judged?" data-chapter="Whether the wicked will be judged?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that none of the wicked will be judged. For even as damnation is
 certain in the case of unbelievers, so is it in the case of those who die in mortal sin. Now it is
@@ -924,7 +924,7 @@ please God" (Heb. 11:6). But the sentence of condemnation which will be passed o
 be terrible to all of them.
 The argument in the contrary sense considered the judgment of retribution.
 
-<span class="atom-split" data-atom="019" data-title="Whether at the coming judgment the angels will be judged?" data-chapter="Whether at the coming judgment the angels will be judged?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether at the coming judgment the angels will be judged?" data-chapter="Whether at the coming judgment the angels will be judged?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels will be judged at the coming judgment. For it is
 written (1 Cor. 6:3): "Know you not that we shall judge angels?" But this cannot refer to [the state](/concepts/state)
@@ -970,7 +970,7 @@ was permitted to them only in so far as they were directed by Divine providence 
 man.
 The same answer applies to the Third Objection.
 
-<span class="atom-split" data-atom="020" data-title="OF THE FORM OF THE JUDGE IN COMING TO THE JUDGMENT (THREE ARTICLES)" data-chapter="OF THE FORM OF THE JUDGE IN COMING TO THE JUDGMENT (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="OF THE FORM OF THE JUDGE IN COMING TO THE JUDGMENT (THREE ARTICLES)" data-chapter="OF THE FORM OF THE JUDGE IN COMING TO THE JUDGMENT (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the form of the Judge in coming to the judgment. Under this head there
 are three points of inquiry:
@@ -978,7 +978,7 @@ are three points of inquiry:
 (2) Whether He will appear under the form of His glorified humanity?
 (3) Whether His Godhead can be seen without joy?
 
-<span class="atom-split" data-atom="021" data-title="Whether Christ will judge under the form of His humanity?" data-chapter="Whether Christ will judge under the form of His humanity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether Christ will judge under the form of His humanity?" data-chapter="Whether Christ will judge under the form of His humanity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ will not judge under the form of His humanity. For
 judgment requires authority in the judge. Now Christ has authority over the quick and the dead as
@@ -1069,7 +1069,7 @@ hath cleansed "our conscience from dead works." And thus that "the Word was made
 cause of the resurrection of souls; wherefore also according to His human nature He is becomingly
 the Judge not only of bodily but also of spiritual goods [*Cf. TP, Q[56], A[2], ad 1].
 
-<span class="atom-split" data-atom="022" data-title="Whether at the judgment Christ will appear in His glorified humanity?" data-chapter="Whether at the judgment Christ will appear in His glorified humanity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether at the judgment Christ will appear in His glorified humanity?" data-chapter="Whether at the judgment Christ will appear in His glorified humanity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that at the judgment Christ will not appear in His glorified humanity.
 For a gloss [*St. [Augustine](/figures/augustine), Tract. cxx in Joan.] on  Jn. 19:37, "They shall look on him whom they
@@ -1145,7 +1145,7 @@ Reply to Objection 5: Form is taken there for [human nature](/axes/human_nature)
 likewise will judge; but not for a quality of nature, namely of weakness, which will not be the same
 in Him when judging as when judged (Cf. ad 2).
 
-<span class="atom-split" data-atom="023" data-title="Whether the Godhead can be seen by the wicked without joy?" data-chapter="Whether the Godhead can be seen by the wicked without joy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether the Godhead can be seen by the wicked without joy?" data-chapter="Whether the Godhead can be seen by the wicked without joy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Godhead can be seen by the wicked without joy. For there
 can be no doubt that the wicked will know with the greatest certainty that Christ is God. Therefore
@@ -1220,7 +1220,7 @@ organ to the object that has a natural aptitude to please, wherefore the pleasur
 indisposition which is in the damned does not remove the natural proportion whereby they are
 directed to the Divine goodness, since its image ever remains in them. Hence the comparison fails.
 
-<span class="atom-split" data-atom="024" data-title="OF THE QUALITY OF THE WORLD AFTER THE JUDGMENT (FIVE ARTICLES)" data-chapter="OF THE QUALITY OF THE WORLD AFTER THE JUDGMENT (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="OF THE QUALITY OF THE WORLD AFTER THE JUDGMENT (FIVE ARTICLES)" data-chapter="OF THE QUALITY OF THE WORLD AFTER THE JUDGMENT (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next discuss the quality which the world and those who rise again will have after the
 judgment. Here a threefold matter offers itself to our consideration: (1) [The state](/concepts/state) and quality of the
@@ -1232,7 +1232,7 @@ Under the first head there are five points of inquiry:
 (4) Whether the elements will receive an additional clarity?
 (5) Whether the animals and plants will remain?
 
-<span class="atom-split" data-atom="025" data-title="Whether the world will be renewed?" data-chapter="Whether the world will be renewed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the world will be renewed?" data-chapter="Whether the world will be renewed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the world will never be renewed. For nothing will be but what
 was at some time as to its species: "What is it that hath been? the same thing that shall be" (Eccles.
@@ -1316,7 +1316,7 @@ this glory, yet man merited that this glory should be bestowed on the whole univ
 this conduces to man's increase of glory. Thus a man merits to be clothed in more splendid robes,
 which splendor the robes nowise merited themselves.
 
-<span class="atom-split" data-atom="026" data-title="Whether the movement of the heavenly bodies will cease? (1/2)" data-chapter="Whether the movement of the heavenly bodies will cease?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether the movement of the heavenly bodies will cease? (1/2)" data-chapter="Whether the movement of the heavenly bodies will cease?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that when the world is thus renewed the movement of the heavenly bodies
 will not cease. For it is written (Gn. 8:22): "All the days of the earth . . . cold and heat, summer and
@@ -1421,7 +1421,7 @@ Israel with regard to the present state. This is evident from the words: "Then a
 shall fail, so as not to be a nation before Me for ever." For after this state there will be no succession
 of days: wherefore the laws also which He had mentioned will cease after this state.
 
-<span class="atom-split" data-atom="027" data-title="Whether the movement of the heavenly bodies will cease? (2/2)" data-chapter="Whether the movement of the heavenly bodies will cease?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether the movement of the heavenly bodies will cease? (2/2)" data-chapter="Whether the movement of the heavenly bodies will cease?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The end which is there assigned to the heavenly bodies is their proximate
 end, because it is their proper act. But this act is directed further to another end, namely the service
@@ -1505,7 +1505,7 @@ is that the movements of the higher bodies might be held to be perpetual, so far
 power is concerned, and never to terminate in rest, although the movement of lower bodies terminates
 in rest.
 
-<span class="atom-split" data-atom="028" data-title="Whether the brightness of the heavenly bodies will be increased at this renewal? (1/2)" data-chapter="Whether the brightness of the heavenly bodies will be increased at this renewal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether the brightness of the heavenly bodies will be increased at this renewal? (1/2)" data-chapter="Whether the brightness of the heavenly bodies will be increased at this renewal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the brightness of the heavenly bodies will not be increased at
 this renewal. For this renewal as regards the lower bodies will be caused by the cleansing fire. But
@@ -1612,7 +1612,7 @@ the sun," nor "of the moon." Secondly, on account of a greater perfection, and t
 use of other creatures, yet not as needful to him in order to obtain his end, in which way he makes
 use of them now.
 
-<span class="atom-split" data-atom="029" data-title="Whether the brightness of the heavenly bodies will be increased at this renewal? (2/2)" data-chapter="Whether the brightness of the heavenly bodies will be increased at this renewal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether the brightness of the heavenly bodies will be increased at this renewal? (2/2)" data-chapter="Whether the brightness of the heavenly bodies will be increased at this renewal?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: This is the argument of Rabbi Moses who endeavors to prove (Dux
 errantium iii) that the world was by no means made for man's use. Wherefore he maintains that
@@ -1627,7 +1627,7 @@ yet the rational soul surpasses the heavenly bodies far more than these surpass 
 Hence it is not unreasonable to say that the heavenly bodies were made for man's sake; not, however
 as though this were the principal end, since the principal end of all things is God.
 
-<span class="atom-split" data-atom="030" data-title="Whether the elements will be renewed by an addition of brightness?" data-chapter="Whether the elements will be renewed by an addition of brightness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the elements will be renewed by an addition of brightness?" data-chapter="Whether the elements will be renewed by an addition of brightness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the elements will not be renewed by receiving some kind of
 brightness. For just as light is a quality proper to a heavenly body, so are hot and cold, wet and dry.
@@ -1708,7 +1708,7 @@ bodies are now.
 Reply to Objection 5: The order of the universe will not be done away by the betterment of
 the elements, because all the other parts will also be bettered, and so the same harmony will remain.
 
-<span class="atom-split" data-atom="031" data-title="Whether the plants and animals will remain in this renewal?" data-chapter="Whether the plants and animals will remain in this renewal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the plants and animals will remain in this renewal?" data-chapter="Whether the plants and animals will remain in this renewal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the plants and animals will remain in this renewal. For the
 elements should be deprived of nothing that belongs to their adornment. Now the elements are said
@@ -1805,7 +1805,7 @@ Under the first head there are three points of inquiry:
 (2) Whether they will see Him with the eyes of the body?
 (3) Whether in seeing God they will see all that God sees?
 
-<span class="atom-split" data-atom="032" data-title="Whether the human intellect can attain to the vision of God in His essence? (1/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether the human intellect can attain to the vision of God in His essence? (1/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human intellect cannot attain to the vision of God in His
 essence. For it is written (Jn. 1:18): "No man hath seen God at any time"; and Chrysostom in his
@@ -1899,7 +1899,7 @@ Objection 16: Further, in heaven God will be seen face to face, according to 1 C
 when we see a man face to face, we see him through his likeness. Therefore in heaven God will be
 seen through His likeness, and consequently not in His essence.
 
-<span class="atom-split" data-atom="033" data-title="Whether the human intellect can attain to the vision of God in His essence? (2/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether the human intellect can attain to the vision of God in His essence? (2/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
 
 On the contrary, It is written (1 Cor. 13:12): "We see now through a glass in a dark manner,
 but then face to face." Now that which is seen face to face is seen in its essence. Therefore God
@@ -1922,7 +1922,7 @@ saints is to see God in His essence, according to Ex. 33:13, "Show me Thy glory"
 Thy face and we shall be saved"; and Jn. 14:8, "Show us the Father and it is enough for us." Therefore
 the saints will see God in His essence.
 
-<span class="atom-split" data-atom="034" data-title="Whether the human intellect can attain to the vision of God in His essence? (3/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether the human intellect can attain to the vision of God in His essence? (3/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Even as we hold by faith that the last end of man's life is to see God, so the
 philosophers maintained that man's ultimate happiness is to understand immaterial substances
@@ -2048,7 +2048,7 @@ be possible for it to be the form whereby the intellect understands: and this wi
 vision. Hence the Master says (Sent. ii, D, 1) that the union of the body with the soul is an illustration
 of the blissful union of the spirit with God.
 
-<span class="atom-split" data-atom="035" data-title="Whether the human intellect can attain to the vision of God in His essence? (4/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether the human intellect can attain to the vision of God in His essence? (4/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: The words quoted can be explained in three ways, according to [Augustine](/figures/augustine)
 (De Videndo Deo: Ep. cxlvii). In one way as excluding corporeal vision, whereby no one ever saw
@@ -2152,7 +2152,7 @@ Commentator (De Anima iii.) compares the passive intellect, in this respect, to 
 Thus it by no means follows that our intellect in seeing God becomes the very essence of God, but
 that the latter is compared to it as its perfection or form.
 
-<span class="atom-split" data-atom="036" data-title="Whether the human intellect can attain to the vision of God in His essence? (5/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether the human intellect can attain to the vision of God in His essence? (5/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 11: These and all like authorities must be understood to refer to the
 knowledge whereby we know God on the way, for the reason given above.
@@ -2242,7 +2242,7 @@ Objection 7: Further, even as God is present to the intellect by His essence, so
 the senses, because He will be "all in all" (1 Cor. 15:28). Now He will be seen by the intellect
 through the union of His essence therewith. Therefore He will also be visible to the sense.
 
-<span class="atom-split" data-atom="037" data-title="Whether the human intellect can attain to the vision of God in His essence? (6/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether the human intellect can attain to the vision of God in His essence? (6/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
 
 On the contrary, Ambrose, commenting on Lk. 1:2, "There appeared to him an angel," says:
 "God is not sought with the eyes of the body, nor surveyed by the sight, nor clasped by the touch."
@@ -2349,7 +2349,7 @@ the greatest things, it is all the more able to understand the least things." No
 of intelligible things. Therefore the power of the intellect is greatly increased by understanding
 Him. Therefore the intellect seeing Him understands all things.
 
-<span class="atom-split" data-atom="038" data-title="Whether the human intellect can attain to the vision of God in His essence? (7/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the human intellect can attain to the vision of God in His essence? (7/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 4: Further, the intellect is not hindered from understanding a thing except by this
 surpassing it. Now no creature surpasses the intellect that understands God, since, as Gregory says
@@ -2453,7 +2453,7 @@ for the seeing of all things on the part of the Divine essence, which is the med
 sees, and whereby God sees all things. That all things, however, are not seen is owing to the
 deficiency of the created intellect which does not comprehend the Divine essence.
 
-<span class="atom-split" data-atom="039" data-title="Whether the human intellect can attain to the vision of God in His essence? (8/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the human intellect can attain to the vision of God in His essence? (8/8)" data-chapter="Whether the human intellect can attain to the vision of God in His essence?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The created intellect sees the Divine essence not according to the mode
 of that same essence, but according to its own mode which is finite. Hence its efficacy in knowing
@@ -2536,7 +2536,7 @@ understand the sun to enlighten the atmosphere while at a standstill. Wherefore 
 the superiority of the orders will cease refers to their present ordinate ministry in our regard, as is
 clear from the same gloss.
 
-<span class="atom-split" data-atom="040" data-title="OF THE HAPPINESS OF THE SAINTS AND THEIR MANSIONS (THREE ARTICLES)" data-chapter="OF THE HAPPINESS OF THE SAINTS AND THEIR MANSIONS (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="OF THE HAPPINESS OF THE SAINTS AND THEIR MANSIONS (THREE ARTICLES)" data-chapter="OF THE HAPPINESS OF THE SAINTS AND THEIR MANSIONS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the happiness of the saints and their mansions. Under this head there
 are three points of inquiry:
@@ -2544,7 +2544,7 @@ are three points of inquiry:
 (2) Whether the degrees of happiness should be called mansions?
 (3) Whether the various mansions differ according to various degrees of charity?
 
-<span class="atom-split" data-atom="041" data-title="Whether the happiness of the saints will be greater after the judgment than before?" data-chapter="Whether the happiness of the saints will be greater after the judgment than before?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether the happiness of the saints will be greater after the judgment than before?" data-chapter="Whether the happiness of the saints will be greater after the judgment than before?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the happiness of the saints will not be greater after the judgment
 than before. For the nearer a thing approaches to the Divine likeness, the more perfectly does it
@@ -2629,7 +2629,7 @@ so far as it will conduce to the more perfect operation whereby the soul tends t
 more perfect is a becoming operation, the greater the delight [*Cf. FS, Q[32], A[1]], as stated in
 Ethic. x, 8.
 
-<span class="atom-split" data-atom="042" data-title="Whether the degrees of beatitude should be called mansions?" data-chapter="Whether the degrees of beatitude should be called mansions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether the degrees of beatitude should be called mansions?" data-chapter="Whether the degrees of beatitude should be called mansions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the degrees of [beatitude](/positions/beatitude) should not be called mansions. For
 beatitude implies the notion of a reward: whereas mansion denotes nothing pertaining to a reward.
@@ -2672,7 +2672,7 @@ Reply to Objection 3: Those who were in limbo or are now in purgatory have not y
 to their end. Wherefore various mansions are not distinguished in purgatory or limbo, but only in
 heaven and hell, wherein is the end of the good and of the wicked.
 
-<span class="atom-split" data-atom="043" data-title="Whether the various mansions are distinguished according to the various degrees of charity?" data-chapter="Whether the various mansions are distinguished according to the various degrees of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the various mansions are distinguished according to the various degrees of charity?" data-chapter="Whether the various mansions are distinguished according to the various degrees of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the various mansions are not distinguished according to the
 various degrees of charity. For it is written (Mat. 25:15): "He gave to every one according to his
@@ -2726,7 +2726,7 @@ according to its diversity is the diversity of rewards. This does not prevent ou
 degree of merit in the act considered generically, not indeed in relation to the essential reward
 which is joy in God, but in relation to some accidental reward, which is joy in some created good.
 
-<span class="atom-split" data-atom="044" data-title="OF THE RELATIONS OF THE SAINTS TOWARDS THE DAMNED (THREE ARTICLES)" data-chapter="OF THE RELATIONS OF THE SAINTS TOWARDS THE DAMNED (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="OF THE RELATIONS OF THE SAINTS TOWARDS THE DAMNED (THREE ARTICLES)" data-chapter="OF THE RELATIONS OF THE SAINTS TOWARDS THE DAMNED (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the relations of the saints towards the damned. Under this head there
 are three points of inquiry:
@@ -2734,7 +2734,7 @@ are three points of inquiry:
 (2) Whether they pity them?
 (3) Whether they rejoice in their sufferings?
 
-<span class="atom-split" data-atom="045" data-title="Whether the blessed in heaven will see the sufferings of the damned?" data-chapter="Whether the blessed in heaven will see the sufferings of the damned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether the blessed in heaven will see the sufferings of the damned?" data-chapter="Whether the blessed in heaven will see the sufferings of the damned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the blessed in heaven will not see the sufferings of the damned.
 For the damned are more cut off from the blessed than wayfarers. But the blessed do not see the
@@ -2772,7 +2772,7 @@ vision, there may be deformity of the thing seen without imperfection of vision:
 of things whereby the soul knows contraries are not themselves contrary. Wherefore also God Who
 has most perfect knowledge sees all things, beautiful and deformed.
 
-<span class="atom-split" data-atom="046" data-title="Whether the blessed pity the unhappiness of the damned?" data-chapter="Whether the blessed pity the unhappiness of the damned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether the blessed pity the unhappiness of the damned?" data-chapter="Whether the blessed pity the unhappiness of the damned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the blessed pity the unhappiness of the damned. For pity
 proceeds from charity [*Cf. SS, Q[30]]; and charity will be most perfect in the blessed. Therefore
@@ -2806,7 +2806,7 @@ Reply to Objection 2: God is said to be merciful, in so far as He succors those 
 befitting to be released from their afflictions in accordance with the order of wisdom and justice:
 not as though He pitied the damned except perhaps in punishing them less than they deserve.
 
-<span class="atom-split" data-atom="047" data-title="Whether the blessed rejoice in the punishment of the wicked?" data-chapter="Whether the blessed rejoice in the punishment of the wicked?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether the blessed rejoice in the punishment of the wicked?" data-chapter="Whether the blessed rejoice in the punishment of the wicked?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the blessed do not rejoice in the punishment of the wicked.
 For rejoicing in another's evil pertains to hatred. But there will be no hatred in the blessed. Therefore
@@ -2856,7 +2856,7 @@ We must now consider the gifts of the blessed; under which head there are five p
 (4) Whether this is competent to the angels?
 (5) Whether three gifts of the soul are rightly assigned?
 
-<span class="atom-split" data-atom="048" data-title="Whether any gifts should be assigned as dowry to the blessed? (1/2)" data-chapter="Whether any gifts should be assigned as dowry to the blessed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether any gifts should be assigned as dowry to the blessed? (1/2)" data-chapter="Whether any gifts should be assigned as dowry to the blessed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no gifts should be assigned as dowry to the blessed. For a
 dowry (Cod. v, 12, De jure dot. 20: Dig. xxiii, 3, De jure dot.) is given to the bridegroom for the
@@ -2953,7 +2953,7 @@ Bridegroom and bride. To the Son it is appropriated, inasmuch as it is made for 
 Him: and to the Holy Ghost, inasmuch as it is made in Him and according to Him, since love is the
 reason of all giving [*Cf. FP, Q[38], A[2]].
 
-<span class="atom-split" data-atom="049" data-title="Whether any gifts should be assigned as dowry to the blessed? (2/2)" data-chapter="Whether any gifts should be assigned as dowry to the blessed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether any gifts should be assigned as dowry to the blessed? (2/2)" data-chapter="Whether any gifts should be assigned as dowry to the blessed?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: That which is effected by the dowry belongs to the dowry by its nature,
 and that is the ease of marriage: while that which the dowry removes, namely the marriage burden
@@ -3027,7 +3027,7 @@ beatitude itself. The same answer applies to OBJ 4.
 Reply to Objection 5: Beatitude is the sum of all goods not as though they were essential parts
 of beatitude, but as being in a way directed to beatitude, as stated above.
 
-<span class="atom-split" data-atom="050" data-title="Whether it is fitting that Christ should receive a dowry?" data-chapter="Whether it is fitting that Christ should receive a dowry?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether it is fitting that Christ should receive a dowry?" data-chapter="Whether it is fitting that Christ should receive a dowry?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem fitting that Christ should receive a dowry. For the saints will be
 conformed to Christ through glory, according to Phil. 3:21, "Who will reform the body of our
@@ -3117,7 +3117,7 @@ idea of a dowry is not becoming to Him.
 Reply to Objection 5: There is here a fallacy of "accident"; for these things are not befitting
 to Christ if we consider them under the aspect of dowry.
 
-<span class="atom-split" data-atom="051" data-title="Whether the angels receive the dowries?" data-chapter="Whether the angels receive the dowries?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether the angels receive the dowries?" data-chapter="Whether the angels receive the dowries?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels receive dowries. For a gloss on Canticle of Canticles
 6:8, "One is my dove," says: "One is the Church among men and angels." But the Church is the
@@ -3193,7 +3193,7 @@ among them is one of proportion, so that one receive from another, and one serve
 Consequently the conformity between God and the angels suffices for the notion of head rather
 than for that of bridegroom.
 
-<span class="atom-split" data-atom="052" data-title="Whether three dowries of the soul are suitably assigned?" data-chapter="Whether three dowries of the soul are suitably assigned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether three dowries of the soul are suitably assigned?" data-chapter="Whether three dowries of the soul are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting to assign to the soul three dowries, namely, "vision,"
 "love" and "fruition." For the soul is united to God according to the mind wherein is the image of
@@ -3307,7 +3307,7 @@ good of one is made known to others, or as "reverence," as indicating that good 
 thereof, for reverence is the showing of honor which bears witness to virtue. Hence it is evident
 that these five should not be called dowries, but conditions of beatitude.
 
-<span class="atom-split" data-atom="053" data-title="OF THE AUREOLES (THIRTEEN ARTICLES)" data-chapter="OF THE AUREOLES (THIRTEEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="OF THE AUREOLES (THIRTEEN ARTICLES)" data-chapter="OF THE AUREOLES (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must consider the aureoles. Under this head there are thirteen points of
 inquiry:
@@ -3325,7 +3325,7 @@ inquiry:
 (12) Whether the virgin's aureole is the greatest?
 (13) Whether one has the same aureole in a higher degree than another?
 
-<span class="atom-split" data-atom="054" data-title="Whether the aureole is the same as the essential reward which is called the aurea? (1/2)" data-chapter="Whether the aureole is the same as the essential reward which is called the aurea?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the aureole is the same as the essential reward which is called the aurea? (1/2)" data-chapter="Whether the aureole is the same as the essential reward which is called the aurea?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the aureole is not distinct from the essential reward which is
 called the "aurea." For the essential reward is [beatitude](/positions/beatitude) itself. Now according to Boethius (De
@@ -3426,7 +3426,7 @@ the more excellent essential reward that is called an aureole, but that which is
 reward without reference to the essential reward of the possessor of an aureole being greater, or
 less than, or equal to the essential reward of one who has no aureole.
 
-<span class="atom-split" data-atom="055" data-title="Whether the aureole is the same as the essential reward which is called the aurea? (2/2)" data-chapter="Whether the aureole is the same as the essential reward which is called the aurea?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether the aureole is the same as the essential reward which is called the aurea? (2/2)" data-chapter="Whether the aureole is the same as the essential reward which is called the aurea?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Charity is the first principle of merit: but our actions are the instruments,
 so to speak, whereby we merit. Now in order to obtain an effect there is requisite not only a due
@@ -3450,7 +3450,7 @@ directed to that end, and with which our actions are concerned. Wherefore the re
 to merit by reason of charity, however little it may be, is greater than any reward corresponding to
 an action by reason of its genus. Hence "aureole" is used as a diminutive in comparison with "aurea."
 
-<span class="atom-split" data-atom="056" data-title="Whether the aureole differs from the fruit?" data-chapter="Whether the aureole differs from the fruit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether the aureole differs from the fruit?" data-chapter="Whether the aureole differs from the fruit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the aureole does not differ from the fruit. For different rewards
 are not due to the same merit. Now the aureole and the hundredfold fruit correspond to the same
@@ -3534,7 +3534,7 @@ works of perfection, whereby man is most conformed to Christ in the achievement 
 victory. Hence it is not unfitting that another accidental reward, which is called the fruit, be due
 sometimes to the withdrawal from a carnal life.
 
-<span class="atom-split" data-atom="057" data-title="Whether a fruit is due to the virtue of continence alone?" data-chapter="Whether a fruit is due to the virtue of continence alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether a fruit is due to the virtue of continence alone?" data-chapter="Whether a fruit is due to the virtue of continence alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a fruit is not due to the virtue of continence alone. For a gloss
 on 1 Cor. 15:41, "One is the glory of the sun," says that "the worth of those who have the hundredfold
@@ -3587,7 +3587,7 @@ of sex, they are not so strong: wherefore the soul is not so much subjected to t
 Reply to Objection 5: Fruit is not taken here in the sense in which fruition applies to delight
 in the end; but in another sense as stated above (A[2] ). Hence the argument proves nothing.
 
-<span class="atom-split" data-atom="058" data-title="Whether three fruits are fittingly assigned to the three parts of continence?" data-chapter="Whether three fruits are fittingly assigned to the three parts of continence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether three fruits are fittingly assigned to the three parts of continence?" data-chapter="Whether three fruits are fittingly assigned to the three parts of continence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that three fruits are unfittingly assigned to the three parts of
 continence: because twelve fruits of the Spirit are assigned, "charity, joy, peace," etc. (Gal. 5:22).
@@ -3669,7 +3669,7 @@ Reply to Objection 4: Although these numerical signs are a human institution, th
 somewhat on the nature of things, in so far as the numbers are denoted in gradation, according to
 the order of the aforesaid joints and contacts.
 
-<span class="atom-split" data-atom="059" data-title="Whether an aureole is due on account of virginity? (1/2)" data-chapter="Whether an aureole is due on account of virginity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether an aureole is due on account of virginity? (1/2)" data-chapter="Whether an aureole is due on account of virginity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an aureole is not due on account of virginity. For where there
 is greater difficulty in the work, a greater reward is due. Now widows have greater difficulty than
@@ -3757,7 +3757,7 @@ victory is more perfect than the widow's, for the most perfect and most brillian
 never to have yielded to the foe: and the crown is due, not to the battle but to the victory gained by
 the battle.
 
-<span class="atom-split" data-atom="060" data-title="Whether an aureole is due on account of virginity? (2/2)" data-chapter="Whether an aureole is due on account of virginity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether an aureole is due on account of virginity? (2/2)" data-chapter="Whether an aureole is due on account of virginity?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: There are two opinions about this. For some say that the Blessed Virgin
 has not an aureole in reward of her virginity, if we take aureole in the proper sense as referring to
@@ -3815,7 +3815,7 @@ marry if they could, they do not merit the aureole. Hence Augustine says (De San
 they become Christians and keep the commandments of God, that they have a mind to have a wife
 if they could, in order to rank with the faithful who are married."
 
-<span class="atom-split" data-atom="061" data-title="Whether an aureole is due to martyrs? (1/2)" data-chapter="Whether an aureole is due to martyrs?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether an aureole is due to martyrs? (1/2)" data-chapter="Whether an aureole is due to martyrs?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an aureole is not due to martyrs. For an aureole is a reward
 given for works of supererogation, wherefore Bede commenting on Ex. 25:25, "Thou shalt also
@@ -3922,7 +3922,7 @@ that which one suffers voluntarily is difficult and naturally repugnant to the w
 will that suffers it for Christ's sake shown to be firmly established in Christ, and consequently a
 higher reward is due to him.
 
-<span class="atom-split" data-atom="062" data-title="Whether an aureole is due to martyrs? (2/2)" data-chapter="Whether an aureole is due to martyrs?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether an aureole is due to martyrs? (2/2)" data-chapter="Whether an aureole is due to martyrs?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: There are certain acts which, in their very selves, contain intense pleasure
 or difficulty: and in such the act always adds to the character of merit or demerit, for as much as
@@ -4016,7 +4016,7 @@ above (A[5]) in reference to baptized children, that they will have a certain jo
 and carnal integrity [*Cf. SS, Q[124], A[1], ad 1, where St. Thomas declares that the Holy Innocents
 were truly martyrs.]
 
-<span class="atom-split" data-atom="063" data-title="Whether an aureole is due to doctors?" data-chapter="Whether an aureole is due to doctors?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether an aureole is due to doctors?" data-chapter="Whether an aureole is due to doctors?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an aureole is not due to doctors. For every reward to be had
 in the life to come will correspond to some act of virtue. But preaching or teaching is not the act
@@ -4065,7 +4065,7 @@ teaching the devil is expelled from men's hearts, as by a kind of spiritual weap
 said (2 Cor. 10:4): "The weapons of our warfare are not carnal but spiritual" [Vulg.: 'but mighty to
 God'].
 
-<span class="atom-split" data-atom="064" data-title="Whether an aureole is due to Christ?" data-chapter="Whether an aureole is due to Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether an aureole is due to Christ?" data-chapter="Whether an aureole is due to Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an aureole is due to Christ. For an aureole is due to virginity,
 martyrdom, and teaching. Now these three were pre-eminently in Christ. Therefore an aureole is
@@ -4114,7 +4114,7 @@ Reply to Objection 3: Although in some way virginity has its exemplar in God, th
 is not homogeneous. For the incorruption of God, which virginity imitates is not in God in the same
 way as in a virgin.
 
-<span class="atom-split" data-atom="065" data-title="Whether an aureole is due to the angels?" data-chapter="Whether an aureole is due to the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether an aureole is due to the angels?" data-chapter="Whether an aureole is due to the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an aureole is due to the angels. For Jerome (Serm. de Assump.
 [*Ep. ad Paul. et Eustoch. ix]) speaking of virginity says: "To live without the flesh while living
@@ -4152,7 +4152,7 @@ have fallen [*Cf. FP, Q[64], A[2]].
 Reply to Objection 3: The acts whereby the angels teach us belong to their glory and their
 common state: wherefore they do not merit an aureole thereby.
 
-<span class="atom-split" data-atom="066" data-title="Whether an aureole is also due to the body?" data-chapter="Whether an aureole is also due to the body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether an aureole is also due to the body?" data-chapter="Whether an aureole is also due to the body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an aureole is also due to the body. For the essential reward is
 greater than the accidental. But the dowries which belong to the essential reward are not only in
@@ -4185,7 +4185,7 @@ of the scars which will appear in the bodies of the martyrs cannot be called an 
 of the martyrs will have an aureole in which such scars will not appear, for instance those who were
 put to death by drowning, starvation, or the squalor of prison.
 
-<span class="atom-split" data-atom="067" data-title="Whether three aureoles are fittingly assigned, those of virgins, of martyrs, and of doctors?" data-chapter="Whether three aureoles are fittingly assigned, those of virgins, of martyrs, and of doctors?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether three aureoles are fittingly assigned, those of virgins, of martyrs, and of doctors?" data-chapter="Whether three aureoles are fittingly assigned, those of virgins, of martyrs, and of doctors?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the three aureoles of virgins, martyrs, and doctors are unfittingly
 assigned. For the aureole of martyrs corresponds to their virtue of fortitude, the aureole of virgins
@@ -4248,7 +4248,7 @@ We reply in the same way to the Third and Fourth Objections.
 Reply to Objection 5: An aureole is due to those who commit the sacred doctrine to writing:
 but it is not distinct from the aureole of doctors, since the compiling of writing is a way of teaching.
 
-<span class="atom-split" data-atom="068" data-title="Whether the virgin's aureole is the greatest of all?" data-chapter="Whether the virgin's aureole is the greatest of all?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether the virgin's aureole is the greatest of all?" data-chapter="Whether the virgin's aureole is the greatest of all?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the virgin's aureole is the greatest of all. For it is said of virgins
 (Apoc. 14:4) that they "follow the Lamb whithersoever He goeth," and (Apoc. 14:3) that "no" other
@@ -4289,7 +4289,7 @@ says that "all the other beatitudes are perfected in the eighth, which refers to
 together places the martyrs before the doctors and virgins. Yet nothing hinders the other aureoles
 from being more excellent in some particular way. And this suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="069" data-title="Whether one person has an aureole more excellently than another person?" data-chapter="Whether one person has an aureole more excellently than another person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether one person has an aureole more excellently than another person?" data-chapter="Whether one person has an aureole more excellently than another person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one person has not the aureole either of virginity, or of
 martyrdom, or of doctrine more perfectly than another person. For things which have reached their
@@ -4327,7 +4327,7 @@ to be greater in one who avoids more the occasions of corruption. For in this wa
 increase, as when a man is said to be more blind, if he be removed further from the possession of
 sight.
 
-<span class="atom-split" data-atom="070" data-title="OF THE PUNISHMENT OF THE DAMNED (SEVEN ARTICLES)" data-chapter="OF THE PUNISHMENT OF THE DAMNED (SEVEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="OF THE PUNISHMENT OF THE DAMNED (SEVEN ARTICLES)" data-chapter="OF THE PUNISHMENT OF THE DAMNED (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In due sequence we must consider those things that concern the damned after the judgment: (1)
 The punishment of the damned, and the fire by which their bodies will be tormented; (2) matters
@@ -4341,7 +4341,7 @@ Under the first head there are seven points of inquiry:
 (6) Whether it is of the same species as our fire?
 (7) Whether this fire is beneath the earth?
 
-<span class="atom-split" data-atom="071" data-title="Whether in hell the damned are tormented by the sole punishment of fire?" data-chapter="Whether in hell the damned are tormented by the sole punishment of fire?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether in hell the damned are tormented by the sole punishment of fire?" data-chapter="Whether in hell the damned are tormented by the sole punishment of fire?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in hell the damned are tormented by the sole punishment of
 fire; because Mat. 25:41, where their condemnation is declared, mention is made of fire only, in
@@ -4384,7 +4384,7 @@ affording a respite by restoring an equable or moderate temperature, as happens 
 spiritual action, in the same way as sensible objects act on the senses being perceived by impressing
 the organ with their forms according to their spiritual and not their material being.
 
-<span class="atom-split" data-atom="072" data-title="Whether the worm of the damned is corporeal?" data-chapter="Whether the worm of the damned is corporeal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether the worm of the damned is corporeal?" data-chapter="Whether the worm of the damned is corporeal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the worm by which the damned are tormented is corporeal.
 Because flesh cannot be tormented by a spiritual worm. Now the flesh of the damned will be
@@ -4416,7 +4416,7 @@ absolutely that this worm is material, but that it is better to say that both ar
 materially, than that both should be understood only in a spiritual sense: for then the damned would
 suffer no bodily pain. This is clear to anyone that examines the context of his words in this passage.
 
-<span class="atom-split" data-atom="073" data-title="Whether the weeping of the damned will be corporeal?" data-chapter="Whether the weeping of the damned will be corporeal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the weeping of the damned will be corporeal?" data-chapter="Whether the weeping of the damned will be corporeal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the weeping of the damned will be corporeal. For a gloss on
 Lk. 13:28, "There will be weeping," says that "the weeping with which our Lord threatens the
@@ -4446,7 +4446,7 @@ towards good or evil. In this sense weeping is a proof of the body's resurrectio
 to the pleasure of sin, experienced by both [soul and body](/axes/soul_body).
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="074" data-title="Whether the damned are in material darkness?" data-chapter="Whether the damned are in material darkness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether the damned are in material darkness?" data-chapter="Whether the damned are in material darkness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the damned are not in material darkness. For commenting on
 Job 10:22, "But everlasting horror dwelleth," Gregory says (Moral. ix): "Although that fire will
@@ -4488,7 +4488,7 @@ no translucid body that can be the subject of light and darkness, except the eye
 which will be darkened utterly.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="075" data-title="Whether the fire of hell will be corporeal?" data-chapter="Whether the fire of hell will be corporeal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether the fire of hell will be corporeal?" data-chapter="Whether the fire of hell will be corporeal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the fire of hell whereby the bodies of the damned will be
 tormented will not be corporeal. For Damascene says (De Fide Orth. iv): The devil, and "demons,
@@ -4574,7 +4574,7 @@ to torture certain persons more or less, according to the measure of sin, it is 
 in so far as its action is regulated by the ordering of Divine justice: even so the fire of the furnace
 is regulated by the forethought of the smith, according as the effect of his art requires.
 
-<span class="atom-split" data-atom="076" data-title="Whether the fire of hell is of the same species as ours?" data-chapter="Whether the fire of hell is of the same species as ours?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether the fire of hell is of the same species as ours?" data-chapter="Whether the fire of hell is of the same species as ours?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this fire is not of the same species as the corporeal fire which
 we see. For [Augustine](/figures/augustine) says (De Civ. Dei xx, 16): "In my opinion no man knows of what kind is
@@ -4641,7 +4641,7 @@ opaque earthly substance such as sulphur. The same happens also when its brightn
 by thick smoke. Wherefore that the fire of hell gives no light is not sufficient proof of its being of
 a different species.
 
-<span class="atom-split" data-atom="077" data-title="Whether the fire of hell is beneath the earth?" data-chapter="Whether the fire of hell is beneath the earth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether the fire of hell is beneath the earth?" data-chapter="Whether the fire of hell is beneath the earth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this fire is not beneath the earth. For it is said of the damned
 (Job 18:18), "And God shall remove him out of the globe [Douay: 'world']." Therefore the fire
@@ -4727,7 +4727,7 @@ from that due to wayfarers. We may also reply that these words refer to the puni
 on man on the way: according as each sin has its corresponding punishment, since "inordinate love
 is its own punishment," as Augustine states (Confess. i, 12).
 
-<span class="atom-split" data-atom="078" data-title="OF THE WILL AND INTELLECT OF THE DAMNED (NINE ARTICLES)" data-chapter="OF THE WILL AND INTELLECT OF THE DAMNED (NINE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="OF THE WILL AND INTELLECT OF THE DAMNED (NINE ARTICLES)" data-chapter="OF THE WILL AND INTELLECT OF THE DAMNED (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider matters pertaining to the will and intellect of the damned. Under this
 head there are nine points of inquiry:
@@ -4741,7 +4741,7 @@ head there are nine points of inquiry:
 (8) Whether they ever think of God?
 (9) Whether they see the glory of the blessed?
 
-<span class="atom-split" data-atom="079" data-title="Whether every act of will in the damned is evil?" data-chapter="Whether every act of will in the damned is evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether every act of will in the damned is evil?" data-chapter="Whether every act of will in the damned is evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not every act of will in the damned is evil. For according to
 Dionysius (Div. Nom. iv), "the demons desire the good and the best, namely to be, to live, to
@@ -4784,7 +4784,7 @@ those virtues perfect us only in the civic life which will not remain after this
 remained, they would never come into action, being enchained, as it were, by the obstinacy of the
 mind.
 
-<span class="atom-split" data-atom="080" data-title="Whether the damned repent of the evil they have done?" data-chapter="Whether the damned repent of the evil they have done?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether the damned repent of the evil they have done?" data-chapter="Whether the damned repent of the evil they have done?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the damned never repent of the evil they have done. For Bernard
 says on the Canticle [*Cf. De Consideratione v, 12; De [Gratia](/concepts/grace) et [Libero Arbitrio](/positions/free_will) ix] that "the damned
@@ -4831,7 +4831,7 @@ Reply to Objection 4: However obstinate men may be in this world, they repent of
 indirectly, if they be punished for them. Thus [Augustine](/figures/augustine) says (QQ[83], qu. 36): "We see the most
 savage beasts are deterred from the greatest pleasures by fear of pain."
 
-<span class="atom-split" data-atom="081" data-title="Whether the damned by right and deliberate reason would wish not to be?" data-chapter="Whether the damned by right and deliberate reason would wish not to be?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether the damned by right and deliberate reason would wish not to be?" data-chapter="Whether the damned by right and deliberate reason would wish not to be?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem impossible for the damned, by right and deliberate reason, to wish
 not to be. For [Augustine](/figures/augustine) says (De Lib. Arb. iii, 7): "Consider how great a good it is to be; since
@@ -4876,7 +4876,7 @@ Reply to Objection 3: Although "not to be" is very evil, in so far as it removes
 good, in so far as it removes unhappiness, which is the greatest of evils, and thus it is preferred
 "not to be."
 
-<span class="atom-split" data-atom="082" data-title="Whether in hell the damned would wish others were damned who are not damned?" data-chapter="Whether in hell the damned would wish others were damned who are not damned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether in hell the damned would wish others were damned who are not damned?" data-chapter="Whether in hell the damned would wish others were damned who are not damned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in hell the damned would not wish others were damned who
 are not damned. For it is said (Lk. 16:27, 28) of the rich man that he prayed for his brethren, lest
@@ -4919,7 +4919,7 @@ Reply to Objection 3: Although an increase in the number of the damned results i
 of each one's punishment, so much the more will their hatred and envy increase that they will prefer
 to be more tormented with many rather than less tormented alone.
 
-<span class="atom-split" data-atom="083" data-title="Whether the damned hate God?" data-chapter="Whether the damned hate God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether the damned hate God?" data-chapter="Whether the damned hate God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the damned do not hate God. For, according to Dionysius (Div.
 Nom. iv), "the beautiful and good that is the cause of all goodness and [beauty](/concepts/beauty) is beloved of all."
@@ -4948,7 +4948,7 @@ above (A[1]) [*Cf. SS, Q[34], A[1], ad 1 where St. Thomas gives another answer].
 Reply to Objection 2: This argument would prove if the damned saw God in Himself, as being
 in His essence.
 
-<span class="atom-split" data-atom="084" data-title="Whether the damned demerit?" data-chapter="Whether the damned demerit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether the damned demerit?" data-chapter="Whether the damned demerit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the damned demerit. For the damned have an evil will, as
 stated in the last Distinction of Sentent. iv. But they demerited by the evil will that they had here.
@@ -5057,7 +5057,7 @@ movement of the heavens; wherefore neither will it be possible for forgetfulness
 lapse of time however long. Before the judgment day, however, the separated soul is not changed
 from its disposition by the heavenly movement.
 
-<span class="atom-split" data-atom="085" data-title="Whether the damned will ever think of God?" data-chapter="Whether the damned will ever think of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether the damned will ever think of God?" data-chapter="Whether the damned will ever think of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the damned will sometimes think of God. For one cannot hate
 a thing actually, except one think about it. Now the damned will hate God, as stated in the text of
@@ -5081,7 +5081,7 @@ what is agreeable to their evil will: and consequently they will think of Him on
 forbidding. This suffices for the Reply to the Second Objection, since conscience will not have
 remorse for sin except as forbidden by the Divine commandment.
 
-<span class="atom-split" data-atom="086" data-title="Whether the damned see the glory of the blessed?" data-chapter="Whether the damned see the glory of the blessed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether the damned see the glory of the blessed?" data-chapter="Whether the damned see the glory of the blessed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the damned do not see the glory of the blessed. For they are
 more distant from the glory of the blessed than from the happenings of this world. But they do not
@@ -5116,7 +5116,7 @@ Reply to Objection 2: Paul looked upon that life wherein the saints live with Go
 Q[185], A[3], ad 2], by actual experience thereof and by hoping to have it more perfectly in the
 life to come. Not so the damned; wherefore the comparison fails.
 
-<span class="atom-split" data-atom="087" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (1/3)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (1/3)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider God's justice and mercy towards the damned: under which head there
 are five points of inquiry:
@@ -5175,7 +5175,7 @@ commandments he breaks, and Whose honor he gives another, by placing his end in 
 than God. But God's majesty is infinite. Therefore whoever sins mortally deserves infinite
 punishment; and consequently it seems just that for a mortal sin a man should be punished for ever.
 
-<span class="atom-split" data-atom="088" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (2/3)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (2/3)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Since punishment is measured in two ways, namely according to the degree of
 its severity, and according to its length of time, the measure of punishment corresponds to the
@@ -5268,7 +5268,7 @@ Reply to Objection 5: Although the punishment relates to the soul accidentally, 
 essentially to the soul infected with guilt. And since guilt will remain in the soul for ever, its
 punishment also will be everlasting.
 
-<span class="atom-split" data-atom="089" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (3/3)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES) (3/3)" data-chapter="OF GOD'S MERCY AND JUSTICE TOWARDS THE DAMNED (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: Punishment corresponds to fault, properly speaking, in respect of the
 inordinateness in the fault, and not of the dignity in the person offended: for if the latter were the
@@ -5278,7 +5278,7 @@ yet, in view of the inordinateness of the act itself, loss of being is not due t
 presupposed to merit and demerit, nor is being lost or corrupted by the inordinateness of sin [*Cf.
 FS, Q[85], A[1]]: and consequently privation of being cannot be the punishment due to any sin.
 
-<span class="atom-split" data-atom="090" data-title="Whether by God's mercy all punishment of the damned, both men and demons, comes to an end?" data-chapter="Whether by God's mercy all punishment of the damned, both men and demons, comes to an end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether by God's mercy all punishment of the damned, both men and demons, comes to an end?" data-chapter="Whether by God's mercy all punishment of the damned, both men and demons, comes to an end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that by God's mercy all punishment of the damned, both men and
 demons, comes to an end. For it is written (Wis. 11:24): "Thou hast mercy upon all, O Lord, because
@@ -5330,7 +5330,7 @@ genus of creature fail of the end for which it was made: wherefore it is unbecom
 all angels to be damned. But there is no reason why some men or some angels should perish for
 ever, because the intention of the Divine will is fulfilled in the others who are saved.
 
-<span class="atom-split" data-atom="091" data-title="Whether God's mercy suffers at least men to be punished eternally?" data-chapter="Whether God's mercy suffers at least men to be punished eternally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Whether God's mercy suffers at least men to be punished eternally?" data-chapter="Whether God's mercy suffers at least men to be punished eternally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God's mercy does not suffer at least men to be punished
 eternally. For it is written (Gn. 6:3): "My spirit shall not remain in man for ever because he is flesh";
@@ -5409,7 +5409,7 @@ effect by diminishing the punishment while it continues.
 Reply to Objection 5: This gloss is speaking not absolutely but on an impossible supposition
 in order to throw into relief the greatness of the devil's sin, or of Nabuchodonosor's.
 
-<span class="atom-split" data-atom="092" data-title="Whether the punishment of Christians is brought to an end by the mercy of God?" data-chapter="Whether the punishment of Christians is brought to an end by the mercy of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether the punishment of Christians is brought to an end by the mercy of God?" data-chapter="Whether the punishment of Christians is brought to an end by the mercy of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that at least the punishment of Christians is brought to an end by
 the mercy of God. "For he that believeth and is baptized shall be saved" (Mk. 16:16). Now this
@@ -5467,7 +5467,7 @@ which whosoever shall build venial sins [*Cf. FS, Q[89], A[2]] "shall suffer los
 be punished for them by God; yet "he himself shall be saved" in the end "by fire," either of temporal
 tribulation, or of the punishment of purgatory which will be after death.
 
-<span class="atom-split" data-atom="093" data-title="Whether all those who perform works of mercy will be punished eternally?" data-chapter="Whether all those who perform works of mercy will be punished eternally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether all those who perform works of mercy will be punished eternally?" data-chapter="Whether all those who perform works of mercy will be punished eternally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all who perform works of mercy will not be punished eternally,
 but only those who neglect those works. For it is written (James 2:13): "Judgment without mercy
@@ -5540,7 +5540,7 @@ Appendix 1
 The following two questions were compiled by Nicolai from St. Thomas' Commentary on the
 Sentences, and by him included in the supplement between Questions 70 and 71.
 
-<span class="atom-split" data-atom="094" data-title="OF THE QUALITY OF THOSE SOULS WHO DEPART THIS LIFE WITH ORIGINAL SIN ONLY (TWO ARTICLES)" data-chapter="OF THE QUALITY OF THOSE SOULS WHO DEPART THIS LIFE WITH ORIGINAL SIN ONLY (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="OF THE QUALITY OF THOSE SOULS WHO DEPART THIS LIFE WITH ORIGINAL SIN ONLY (TWO ARTICLES)" data-chapter="OF THE QUALITY OF THOSE SOULS WHO DEPART THIS LIFE WITH ORIGINAL SIN ONLY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the various qualities of souls that are stripped of their bodies, according
 to their respective states; and first we shall treat of the souls which depart this life with [original sin](/positions/original_sin)
@@ -5549,7 +5549,7 @@ Under this head there are two points of inquiry:
 (1) Whether these souls suffer from a bodily fire, and are inflicted with punishment by fire?
 (2) Whether these souls suffer from a spiritual torment within themselves?
 
-<span class="atom-split" data-atom="095" data-title="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire? (1/2)" data-chapter="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire? (1/2)" data-chapter="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that souls which depart with none but [original sin](/positions/original_sin), suffer from a
 bodily fire and are punished by fire. For [Augustine](/figures/augustine) [*Fulgentius, De Fide ad Petrum, xxvii] says:
@@ -5650,7 +5650,7 @@ Reply to Objection 4: Sensible pain corresponds to sensible pleasure, which is i
 of actual sin: whereas habitual concupiscence, which is in original sin, has no pleasure. Hence,
 sensible pain does not correspond thereto as punishment.
 
-<span class="atom-split" data-atom="096" data-title="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire? (2/2)" data-chapter="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire?" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire? (2/2)" data-chapter="Whether those souls which depart with original sin alone, suffer from a bodily fire, and are punished by fire?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The bodies of children will be impassible, not through their being unable
 in themselves to suffer, but through the lack of an external agent to act upon them: because, after
@@ -5660,7 +5660,7 @@ Wherefore those bodies to which pain of sense is not due by divine justice will 
 On the other hand, the bodies of the saints will be impassible, because they will lack the capability
 of suffering; hence impassibility in them will be a gift, but not in children.
 
-<span class="atom-split" data-atom="097" data-title="Whether these same souls suffer spiritual affliction on account of the state in which they are?" data-chapter="Whether these same souls suffer spiritual affliction on account of the state in which they are?" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Whether these same souls suffer spiritual affliction on account of the state in which they are?" data-chapter="Whether these same souls suffer spiritual affliction on account of the state in which they are?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the souls in question suffer spiritual affliction on account of
 [the state](/concepts/state) wherein they are, because as Chrysostom says (Hom. xxiii in Matth.), the punishment of
@@ -5761,7 +5761,7 @@ Reply to Objection 5: Although unbaptized children are separated from God as reg
 union of glory, they are not utterly separated from Him: in fact they are united to Him by their share
 of natural goods, and so will also be able to rejoice in Him by their natural knowledge and love.
 
-<span class="atom-split" data-atom="098" data-title="OF THE QUALITY OF SOULS WHO EXPIATE ACTUAL SIN OR ITS PUNISHMENT IN PURGATORY (SIX ARTICLES)" data-chapter="OF THE QUALITY OF SOULS WHO EXPIATE ACTUAL SIN OR ITS PUNISHMENT IN PURGATORY (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="OF THE QUALITY OF SOULS WHO EXPIATE ACTUAL SIN OR ITS PUNISHMENT IN PURGATORY (SIX ARTICLES)" data-chapter="OF THE QUALITY OF SOULS WHO EXPIATE ACTUAL SIN OR ITS PUNISHMENT IN PURGATORY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next treat of the souls which after this life expiate the punishment of their actual sins
 in the fire of Purgatory.
@@ -5773,7 +5773,7 @@ Under this head there are six points of inquiry:
 (5) Whether the fire of Purgatory frees from the debt of punishment?
 (6) Whether one is freed from that punishment sooner than another?
 
-<span class="atom-split" data-atom="099" data-title="Whether the pains of Purgatory surpass all the temporal pains of this life?" data-chapter="Whether the pains of Purgatory surpass all the temporal pains of this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether the pains of Purgatory surpass all the temporal pains of this life?" data-chapter="Whether the pains of Purgatory surpass all the temporal pains of this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the pains of Purgatory do not surpass all the temporal pains
 of this life. Because the more passive a thing is the more it suffers if it has the sense of being hurt.
@@ -5829,7 +5829,7 @@ by the same sentence than another; and yet the judge acts justly in condemning b
 crimes to the same punishment.
 This suffices for the Reply to the Third Objection.
 
-<span class="atom-split" data-atom="100" data-title="Whether this punishment is voluntary?" data-chapter="Whether this punishment is voluntary?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether this punishment is voluntary?" data-chapter="Whether this punishment is voluntary?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this punishment is voluntary. For those who are in Purgatory
 are upright in heart. Now uprightness in heart is to conform one's will to God's, as [Augustine](/figures/augustine) says
@@ -5861,7 +5861,7 @@ themselves damned. But this is false, for did they not know that they will be se
 not ask for prayers, as they often do.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="101" data-title="Whether the soul in Purgatory are punished by the demons?" data-chapter="Whether the soul in Purgatory are punished by the demons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether the soul in Purgatory are punished by the demons?" data-chapter="Whether the soul in Purgatory are punished by the demons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the souls in Purgatory are punished by the demons; for,
 according to the Master, "they will have for torturers in their pains, those who were their tempters
@@ -5890,7 +5890,7 @@ the sinew of whose thigh shrank at the angel's touch [*Gn. 32:25]. Moreover, Dio
 explicitly that the good angels sometimes inflict punishment.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="102" data-title="Whether venial sin is expiated by the pains of Purgatory as regards the guilt? (1/2)" data-chapter="Whether venial sin is expiated by the pains of Purgatory as regards the guilt?" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="Whether venial sin is expiated by the pains of Purgatory as regards the guilt? (1/2)" data-chapter="Whether venial sin is expiated by the pains of Purgatory as regards the guilt?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that venial sin is not expiated by the pains of Purgatory as regards
 the guilt. For a gloss [*St. Gregory, Moral. xvi, 28] on 1 Jn. 5:16, "There is a sin unto death," etc.
@@ -5991,12 +5991,12 @@ but there can be in respect of some accidental reward, so long as man remains in
 way, in a sense. Consequently in Purgatory there can be a meritorious act in respect of the remission
 of venial sin.
 
-<span class="atom-split" data-atom="103" data-title="Whether venial sin is expiated by the pains of Purgatory as regards the guilt? (2/2)" data-chapter="Whether venial sin is expiated by the pains of Purgatory as regards the guilt?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether venial sin is expiated by the pains of Purgatory as regards the guilt? (2/2)" data-chapter="Whether venial sin is expiated by the pains of Purgatory as regards the guilt?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: Although venial sin arises from the proneness of the fomes, sin results
 in the mind; wherefore even when the fomes is no more, sin can still remain.
 
-<span class="atom-split" data-atom="104" data-title="Whether the fire of Purgatory delivers from the debt of punishment?" data-chapter="Whether the fire of Purgatory delivers from the debt of punishment?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether the fire of Purgatory delivers from the debt of punishment?" data-chapter="Whether the fire of Purgatory delivers from the debt of punishment?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the fire of Purgatory does not deliver from the debt of
 punishment. For every cleansing is in respect of some uncleanness. But punishment does not imply
@@ -6032,7 +6032,7 @@ may denote both the present tribulation and the punishment to come, and venial s
 from both of these. That natural death is not sufficient for this, has been stated above (Sent. iv, D,
 20).
 
-<span class="atom-split" data-atom="105" data-title="Whether one person is delivered from this punishment sooner than another?" data-chapter="Whether one person is delivered from this punishment sooner than another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether one person is delivered from this punishment sooner than another?" data-chapter="Whether one person is delivered from this punishment sooner than another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one person is not delivered from this punishment sooner than
 another. For the more grievous the sin, and the greater the debt, the more severely is it punished in
@@ -6063,7 +6063,7 @@ Purgatory, as stated above (A[6]).
 Appendix 2
 TWO ARTICLES ON PURGATORY
 
-<span class="atom-split" data-atom="106" data-title="Whether there is a Purgatory after this life?" data-chapter="Whether there is a Purgatory after this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Whether there is a Purgatory after this life?" data-chapter="Whether there is a Purgatory after this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is not a Purgatory after this life. For it is said (Apoc.
 14:13): "Blessed are the dead who die in the Lord. From henceforth now, saith the Spirit, that they
@@ -6124,7 +6124,7 @@ good he has from God. Wherefore no reward after this life awaits him who dies in
 whereas sometimes punishment awaits him who dies in charity, which does not always wash away
 the sin which it finds, but only that which is contrary to it.
 
-<span class="atom-split" data-atom="107" data-title="Whether it is the same place where souls are cleansed, and the damned punished?" data-chapter="Whether it is the same place where souls are cleansed, and the damned punished?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether it is the same place where souls are cleansed, and the damned punished?" data-chapter="Whether it is the same place where souls are cleansed, and the damned punished?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not the same place where souls are cleansed and the
 damned punished. For the punishment of the damned is eternal, according to Mat. 25:46, "These

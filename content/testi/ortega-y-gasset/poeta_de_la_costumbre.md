@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/poeta_de_la_costumbre" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Poeta de la costumbre" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Poeta de la costumbre" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La impresión espontánea que la vida me produce es contradictoria de la que produce a Azorín. Yo veo en la innovación, en la invención, el síntoma más puro de la vitalidad. En consecuencia, yo quisiera un arte de lo heroico donde todo fuera inventado; un arte dinámico y tumultuoso que desplazara la realidad. Creo, además, que este arte llega ya muy cerca. Algo había de él en Ibsen, en Stendhal y en Dostoievski. Algo también en el trágico alemán Hebbel, de quien puede profetizarse la próxima conquista de la moda. Mas en tanto, ¿cómo no aspirar el aroma de la rosa marchita que ahora se nos acerca?
 

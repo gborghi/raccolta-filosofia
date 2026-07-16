@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_el_vuelo_de_las_aves_anilladas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre el vuelo de las aves anilladas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre el vuelo de las aves anilladas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -44,7 +44,7 @@ Ello es que el anillamiento, a pesar de su reducida expansión, comienza ya a ac
 
 Como es sabido, la emigración o migración consiste en un viaje de otoño y otro de primavera. Las aves viajeras viven, pues, medio año en un paraje y medio en otro. No entran en consideración las traslaciones dentro de una comarca. Se trata sólo del desplazamiento desde un territorio a otro lejano separado de aquél por un tercer espacio donde el animal no reside nunca. De esas dos mitades anuales, la del verano tiene un carácter taxativo: es la época de la cría. Vienen estas aves a hacer en el Norte su crianza, y en otoño, cuando se aproximan los fríos, se movilizan hacia el Sur. Tienen una patria, que es la tierra de sus hijos, como Nietzsche, futurista, quería que fuese siempre la patria; y además tienen otra patria donde simplemente vacan a su nutrición y placer. Hacia febrero comienza el retorno a Europa. ¿Cómo se explica este uso de la gente alada? La verdad es que no se explica, sino que se intenta explicarlo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Unos lo entienden de este modo: los animales actuales se forman en la época terciaria, durante la cual todo el globo gozó de suave temperatura, inclusive en las zonas árticas. Las aves emigrantes fueron entonces de condición estable en nuestras tierras, donde habían sido modeladas. Al sobrevenir los períodos de glacialización tuvieron poco a poco que correrse hacia los trópicos durante los inviernos, buscando temperatura y alimento. Al volver la estación favorable volvían a su solar. Ésta es la explicación geológica. Tiene en su abono la advertencia de que las aves primigenias no pudieron ser emigrantes porque sus alas, poco formadas, verdaderos bocetos de alas, no les permitían la gran altura aérea.
 
@@ -80,7 +80,7 @@ Gracias al anillamiento son conocidas hoy las trayectorias de más de cien espec
 
 Para estos dos sabios debe ser indiscutible que, al menos en la especie humana, los jóvenes aprenden de los viejos. Pero ¿es esto cosa tan palmaria? Sólo en los antiguos libros retóricos ve uno que, en efecto, el joven aprenda del viejo. Fuera de esas ingenuas áreas con blanco sobre negro, lo que se observa es más bien lo contrario: el joven a quien el viejo enoja y aburre y la tendencia de aquél a hacer lo contrario de cuanto éste le sugiere. Este antagonismo entre las edades impide el estancamiento de la humanidad en una posición o dirección constante y hace que en cada nueva generación se inicie algo distinto, se haga un imprevisto viraje y se queden sin cumplir los proyectos de la anterior.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Entre los pájaros no hay tal vez igual hostilidad; pero acontece, contra la idea de Palmén y Weissmann, que son los pájaros nuevos los primeros que parten migratoriamente, como si tuviesen prisa por hacer el primer vuelo. Los individuos de vieja pluma permanecen todavía semanas en su lugar de estivada. El [caso](/concepts/fortune) del cuclillo es aún más decisivo, porque el joven cuco ni siquiera ha sido incubado por su madre, sino en un nido de azar y como hospiciano. No obstante, parte sin titubeo a fines de agosto o primeros de septiembre, y además hace señero el viaje.
 

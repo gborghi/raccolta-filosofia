@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettre_à_m_burney_sur_la_musique" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRE À M. BURNEY, SUR LA MUSIQUE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRE À M. BURNEY, SUR LA MUSIQUE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Vous m'avez fait successivement, monsieur, plusieurs cadeaux précieux de vos écrits, chacun desquels méritait bien un remerciement exprès. La presque absolue impossibilité d'écrire m'a jusqu'ici empêché de remplir ce devoir ; mais le premier volume de votre histoire générale de la musique, en ranimant en moi un reste de zèle pour un art auquel le vôtre vous a fait employer tant de travaux, de temps, de voyages et de dépenses, m'excite à vous en marquer ma reconnaissance, en m'entretenant quelque temps avec vous du sujet favori de vos recherches, qui doit immortaliser votre nom chez les vrais amateurs de ce bel art.
 
@@ -42,7 +42,7 @@ Pour m'assurer de cette méthode par l'expérience, prévoir toutes les objectio
 
 Je ne parlerai point des avantages de cette manière d'écrire la musique ; il suffit d'exécuter une sonate notée de cette façon pour les sentir. À l'égard des objections, je n'en ai pu trouver qu'une seule, et seulement pour la musique vocale ; c'est la difficulté de lire les paroles écrites à rebours, difficulté qui revient de deux en deux lignes : et j'avoue que je ne vois nul autre moyen de la vaincre, que de s'exercer quelques jours à lire et écrire de cette façon, comme font les imprimeurs, habitude qui se contracte très promptement. Mais quand on ne voudrait pas vaincre ce léger obstacle pour les parties de chant, les avantages resteraient toujours tout entiers sans aucun inconvénient pour les parties instrumentales et pour toute espèce de symphonies ; et certainement, dans l'exécution d'une sonate ou d'un concerto, ces avantages sauveront toujours beaucoup de fatigue aux concertants et surtout à l'instrument principal.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 3° Les deux façons de noter dont je viens de vous parler ayant chacune ses avantages, j'ai imaginé de les réunir dans une note combinée des deux, afin surtout d'épargner de la place et d'avoir à tourner moins souvent. Pour cela, je note en musique ordinaire, mais à la grecque, c'est-à-dire en sillons, les parties chantantes et obligées ; et quant à la basse, qui procède ordinairement par notes plus simples et moins figurées, je la note de même en sillons, mais par chiffres, dans les entre-lignes qui séparent les portées. De cette manière chaque accolade a une portée de moins, qui est celle de la basse ; et comme cette basse est écrite à la place où l'on met ordinairement les paroles, j'écris ces paroles au-dessus du chant, au lieu de les mettre au-dessous, ce qui est indifférent en soi, et empêche que les chiffres de la basse ne se confondent avec l'écriture. Quand il n'y a que deux parties, cette manière de noter épargne la moitié de la place.
 
@@ -66,7 +66,7 @@ En considérant d'abord la marche totale de cette pièce, j'y trouve une espèce
 
 Je conviens qu'il y a plus ici de la faute du poète que du musicien ; mais je n'en crois pas celui-ci tout-à-fait disculpé. Ceci demande un peu d'explication.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Je ne connais point d'opéra où les passions soient moins variées que dans l’Alceste : tout y roule presque sur deux seuls sentiments, l'affliction et l'effroi ; et ces deux sentiments, toujours prolongés, ont dû coûter des peines incroyables au musicien, pour ne pas tomber dans la plus lamentable monotonie. En général, plus il y a de chaleur dans les situations et dans les expressions, plus leur passage doit être prompt et rapide, sans quoi la force de l'émotion se ralentit dans les auditeurs ; et, quand la mesure est passée, l'acteur a beau continuer de se démener, le spectateur s'attiédit, se glace, et finit par s'impatienter.
 
@@ -98,7 +98,7 @@ Quant au rythme, en quoi consiste la plus grande force de la musique, il demande
 
 C'est un grand et beau problème à résoudre, de déterminer jusqu'à quel point on peut faire chanter la langue et parler la musique. C'est d'une bonne solution de ce problème que dépend toute la théorie de la musique dramatique. L'instinct seul a conduit, sur ce point, les Italiens dans la pratique aussi bien qu'il était possible ; et les défauts énormes de leurs opéras ne viennent pas d'un mauvais genre de musique, mais d'une mauvaise application d'un bon genre.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 L'accent oral par lui-même a sans doute une grande force, mais c'est seulement dans la déclamation : cette force est indépendante de toute musique, et, avec cet accent seul, on peut faire entendre une bonne tragédie, mais non pas un bon opéra. Sitôt que la musique s'y mêle, il faut qu'elle s'arme de tous ses charmes pour subjuguer le cœur par l'oreille. Si elle n'y déploie toutes-ses beautés, elle y sera importune, comme si l'on faisait accompagner un orateur par des instruments ; mais en y mêlant ses richesses, il faut pourtant que ce soit avec un grand ménagement, afin de prévenir l'épuisement où jetterait bientôt nos organes une longue action tout en musique.
 
@@ -114,7 +114,7 @@ Persuadé que la langue française, destituée de tout accent, n'est nullement p
 
 D'où naît le charme du récitatif obligé ? qu'est-ce qui fait son énergie ? L'accent oratoire et pathétique de l'acteur produirait-il seul autant d'effet ? Non, sans doute. Mais les traits alternatifs de symphonie, réveillant et soutenant le sentiment de la mesure, que le seul récitatif laisserait éteindre, joignent à l'expression purement déclamatoire toute celle du rythme musical qui la renforce. Je distingue ici le rythme et la mesure, parce que ce sont en effet deux choses très différentes : la mesure n'est qu'un retour périodique de temps égaux ; le rythme est la combinaison des valeurs ou quantités qui remplissent les mêmes temps, appropriée aux expressions qu'on veut rendre et aux passions qu'on veut exciter. Il peut y avoir mesure sans rythme, mais il n'y a point de rythme sans mesure... « C'est en approfondissant cette partie de son art, que le compositeur donne l'essor à son génie ; toute la science des accords ne peut suffire à ses besoins. »
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Il importe ici de remarquer, contre le préjugé de tous les musiciens, que l'harmonie par elle-même, ne pouvant parler qu'à l'oreille et n'imitant rien, ne peut avoir que de très faibles effets. Quand elle entre avec succès dans la musique imitative, ce n'est jamais qu'en représentant, déterminant et renfonçant les accents mélodieux, qui par eux-mêmes ne sont pas toujours assez déterminés sans le secours de l'accompagnement. Des intervalles absolus n'ont aucun caractère par eux-mêmes ; une seconde superflue et une tierce mineure, une septième mineure et une sixte superflue, une fausse quinte et un triton, sont le même intervalle, et ne prennent les affections qui les déterminent que par leur place dans la modulation ; et c'est à l'accompagnement de leur fixer cette place, qui resterait souvent équivoque par le seul chant. Voilà quel est l'usage et l'effet de l'harmonie dans la musique imitative et théâtrale. C'est par les accents de la mélodie, c'est par la cadence du rythme, que la musique, imitant les inflexions que donnent les passions à la voix humaine, peut pénétrer jusqu'au cœur et l'émouvoir par des sentiments ; au lieu que la seule harmonie, n'imitant rien, ne peut donner qu'un plaisir de sensation. De simples accords peuvent flatter l'oreille, comme de belles couleurs flattent les yeux ; mais ni les uns ni les autres ne porteront jamais au cœur la moindre émotion, parce que ni les uns ni les autres n'imitent rien, si le dessin ne vient animer les couleurs, et si la mélodie ne vient animer les accords. Mais, au contraire, le dessin par lui-même peut, sans coloris, nous représenter des objets attendrissants ; et la mélodie imitative peut de même nous émouvoir seule sans le secours des accords…
 
@@ -136,7 +136,7 @@ E vuoi morire, o misera. Cette lugubre psalmodie est d'une simplicité [sublime]
 
 Ce ne doit pas être une fuite de précipitation, comme devant l'ennemi, mais une fuite de consternation, qui, pour ainsi dire, doit être honteuse et clandestine, plutôt qu'éclatante et rapide. Si l’auteur eût voulu faire de la fin de ce chœur une exhortation à la joie, il n'eût pas pu mieux réussir…
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Après le cœur Fuggiamo, j'aurais fait taire entièrement tout l’orchestre, et déclamer le récitatif Ove son avec la simple basse. Mais immédiatement après ces mots, V’è chi t’ama a tal segno, j'aurais fait commencer un récitatif obligé par une symphonie noble, éclatante, [sublime](/concepts/sublime), qui annonçât dignement le parti que va prendre Alceste, qui disposât l'auditeur à sentir toute l'énergie de ces mots, Ah ! vi son io, trop peu annoncés par les deux mesures qui précèdent. Cette symphonie aurait offert l'image de ces deux vers ; Chi tolle alla mia mente luminare, si mostra ; la grande idée eut été soutenue avec le même éclat durant toutes les ritournelles de ce récitatif. J'aurais traité l'air qui suit. Ombre, larve, sur deux mouvements contrastés ; savoir, un allegro sombre et terrible jusqu'à ces mots. Non voglio pietà, et un adagio ou largo plein de tristesse et de douceur sur ceux-ci. Se vi tolgo l’amato consorte. M. Gluck, qui n'aime pas les rondeaux, me permettra de lui dire que c'était ici le cas d'en employer un bien heureusement, en faisant du reste de ce monologue la seconde partie de l'air, et reprenant seulement l'allegro pour finir….
 

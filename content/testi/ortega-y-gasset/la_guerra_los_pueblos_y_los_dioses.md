@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_guerra_los_pueblos_y_los_dioses" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La guerra, los pueblos y los dioses" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La guerra, los pueblos y los dioses" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La guerra no crea ni aniquila cosa alguna; simplemente aclara, pone de relieve y hace gritar a lo que de antemano se hallaba en los corazones. Así la nueva efervescencia que en torno al principio de lo nacional se siente hoy, no es un engendro de la guerra. Ésta no ha hecho más que acelerar el desarrollo de un germen preexistente en la conciencia occidental de los últimos años.
 
@@ -52,7 +52,7 @@ Pues bien, el rompimiento de la unidad lingüística requiere para ser explicado
 
 Esta idea de Schelling tiene una primera apariencia extravagante. Sin embargo, medítese un poco. Póngase en lugar de Dios la idea de mayor eficacia que contenga la mente de un pueblo y de la cual toman las demás su origen. Dos colectividades que discrepen en aquella idea primaria no podrán vivir juntas, como un casino republicano y un casino jaimista. Y no pueden vivir juntas, sencillamente porque no se entienden. Hablan ideologías incomunicantes y repulsivas.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Schelling se deja ir a una etimología ingeniosa, pero que sólo tiene un valor metafórico. La confusión bíblica de las lenguas partió de Babel. ¿Qué es esto de Babel? Se dice que Bab-Bel, puerta de Dios. Nada de eso. La significación verdadera, la da la Biblia en el versículo 9º: «Por esto fue llamado el nombre de ella Babel, porque allí confundió Jehová el lenguaje de toda la tierra y desde allí los esparció sobre la faz de toda la tierra». Babel es propiamente Balbel, una palabra onomatopéyica con que se imita el ruido que percibimos al oír una lengua desconocida. Es el mismo tema —sigo reproduciendo a Schelling —que produjo la palabra griega bárbaro, es decir, el que habla otra lengua, aquél a quien no entendemos, y la latina balbuties, la francesa babil y la española balbucear.
 

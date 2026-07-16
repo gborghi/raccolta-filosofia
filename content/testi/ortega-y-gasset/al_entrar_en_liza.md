@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/al_entrar_en_liza" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Al entrar en liza" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Al entrar en liza" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace meses, las derechas resolvieron «dar la batalla» —¿recuerdan ustedes? Comenzaron a gemir verbosas sus prensas. Vociferaron en sus círculos y clubs, murmuraron en sus tertulias, esnobizaron en sus camarillas. Se hizo política en los despachos de los bancos, en la pradera del golf, en la penumbra de las sacristías. Por fin, alguien cedió, y llamando, contra toda oportunidad, a este Gobierno, le entregó entero su haber: decreto de disolución, suspensión de garantías, presión sobre el partido conservador. Hubo consagraciones en los cerros y hubo en los barrancos reparto a lo Calígula de senadurías vitalicias. En tales circunstancias, las elecciones significaban un ademán de desafío; cayó el raído guante feudal en las urnas, y de ellas lo recogió con democrático modal el pueblo liberal y socialista. Hoy, en el Congreso, comienza la batalla contra los que se obstinaron en darla. Nadie puede quejarse, y menos los feudales: todo ha acontecido como en las justas más galanas del buen tiempo viejo.
 

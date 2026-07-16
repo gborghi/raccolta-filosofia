@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/inmediatas_concesiones" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Inmediatas concesiones" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Inmediatas concesiones" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Paralelamente a la reivindicación parlamentaria de la fuerza socialista, es preciso ir rápidamente a la habilitación del obrero para gobernar por sí mismo la industria. La jornada de ocho horas permite ya disponer en grande escala la educación superior y técnica del obrero. Corre prisa borrar las diferencias entre el manual y el intelectual. Todos saldremos ganando en ello. Además, cada fábrica debería hoy asociar a su personal, dotándolo de un núcleo directivo oriundo de votación secreta, dando representación a las minorías. Tal organismo regiría las Cooperativas creadas con capital anticipado por las Empresas, dictaminaría, en consulta previa, sobre la admisión de nuevos obreros, horas de trabajo, despidos, reglamentación de la industria, etcétera, e intervendría en forma de consejos y advertencias en la marcha del negocio. Otra intervención más eficaz en la administración de una industria podría hoy imposibilitar el desarrollo de la producción, no por otra [causa](/concepts/cause) que la falta actual de preparación en el obrero.
 

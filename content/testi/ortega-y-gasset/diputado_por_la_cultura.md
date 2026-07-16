@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/diputado_por_la_cultura" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Diputado por la cultura" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Diputado por la cultura" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En 1908 la efervescencia municipal producida en Barcelona por el movimiento solidario llegaba al grado máximo. La espléndida ciudad era sólo un ruido, una inmensa turbulencia sonora: no se escuchaba a nadie y todo el mundo hablaba. Una voz sugestiva, no obstante, solicitaba con fingida tenuidad la atención, ahora de uno, luego de otro; esquivaba los excesos laríngeos de éste para deslizarse furtivamente en aquel oído por acaso favorable. La voz sostenía que la solidaridad necesitaba una justificación: bien que su origen fuera una fe nacional, un subitáneo crecimiento de la sensibilidad colectiva para los rasgos diferenciales del catalán; mas no bastaba eso. El origen de una cosa no es su significación. El movimiento regionalista, si había de ser algo más que un movimiento físico, necesitaba un contenido político. La solidaridad se justificaría si se manifestaba como la solidaridad para la cultura.
 

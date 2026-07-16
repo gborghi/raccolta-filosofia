@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_pathos_de_la_distancia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El pathos de la distancia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El pathos de la distancia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cualquiera diría, en verdad —a juzgar por la desatención de los periódicos, del Gobierno, del público y de sus mismos redactores— que el tema de la nota se refería a una cuestión baladí. No pocas veces he sostenido que la enfermedad mortal de los españoles actuales, mirada por uno de sus haces, se llama frivolidad. No consiste ésta en que se entreguen desapoderadamente a las diversiones, no en que rían y dancen y muevan burlas… ¡Ojalá y tuvieran los españoles siquiera el coraje de divertirse, de satisfacer sus instintos de placer! No; frivolidad es simplemente una perversión de la sensibilidad, y consiste en haber perdido la perspectiva de la emoción. Como hay enfermos de la visión que ven los objetos lejanos de mayor tamaño que los próximos, hay enfermos del sentimiento incapaces de honda conmoción ante un hecho grave y que se irritan, en cambio, por una menudencia. He observado que muchos compatriotas, cuando muere una persona a quien creían querer, estimar o admirar, se hallaban sorprendidos por la lenidad de su dolor. Esto les obligaba a sentir por un momento cierta vergüenza de sí mismos, y aterrados se apresuraban a tapar con ficciones esta fugaz revelación de su ser íntimo y verdadero. ¡Cuántos habrán asistido más de una vez a esta secreta escena en sus corazones!
 

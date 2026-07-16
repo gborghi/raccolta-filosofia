@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/misión_política_de_las_minorías_intelectuales" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Misión política de las minorías intelectuales" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Misión política de las minorías intelectuales" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Partimos en nuestro propósito de una consideración principal: la de que no sólo España, sino Europa entera ha ingresado en una crisis de la ideología política, que únicamente halla su semejanza en la primera mitad del siglo XIX. Bien está que los partidos a quienes sorprende ya en movimiento procuren aferrarse a las ideas caducas que los engendraron o acudan a hilvanes y equívocos para mantenerse sobre el haz de la actualidad. Pero los que se preocupen más de promover el futuro que de retener el presente han de mirar cara a cara la plenitud de esta crisis, a fin de no embarcarse, como en naves maltrechas, dentro de ideales desvencijados.
 

@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/pascal/thoughts_on_the_jesuits_and_the_jansenists" data-philosopher="Pascal"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Thoughts on the Jesuits and the Jansenists" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Thoughts on the Jesuits and the Jansenists" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 THE FOLLOWING SECTION, in which we have collected a multitude of fragments and notes relating to the memorable contest in which Pascal engaged with the Jesuits, may properly be considered as an Appendix to the Provincial Letters.
 
@@ -42,7 +42,7 @@ We must not, however, forget that these accessories to a great work are not to b
 
 It is from the insufficient cultivation of these higher qualities of excellence, that mediocrity so much pervades the literature of a period, when all are readers, and almost all writers. It is not that gross defects prevail, — for this the diffusion of taste and intelligence precludes; but eminence is not aimed at. The surface spreads widely, but the depth is lost. The urgency of demand causes eagerness and haste in the supply. Men write for the day; and rarely look forward to the longevity of years, — never of centuries. The standard of taste is debased; and literature — from the loftiest of arts — tends downward to a mechanical craft, and a sordid speculation. There is, I well know, little of novelty, and there may be thought to be somewhat of querulousness, in such remarks as these.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/3)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (2/3)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
 
 And I am not forgetful of that caution which wisdom directs, against an exaggeration of the merits of the past, in a depreciating comparison of the present. Many circumstances, also, incident to a highly artificial state of society, almost necessitate the evils complained of. A fast increasing population, the importunity of physical wants, wide extending [education](/concepts/education), and the ceaseless opening up of fresh topics of investigation, and new sources of intelligence; all these things keep the press in continual requisition, and multiply without limit ephemeral productions. But it is not to be denied, that it is by such means that the higher classes of literature become depressed. The works, which consume years in toil, and a life in meditation, meet with little encouragement. Statistics and calculations oppress the minds of men, wrestling to preserve a standing in life, or wrapt in the inextricable coil of speculation, or ambition: in their few moments of leisure, they resort with morbid eagerness (as the over-tasked body to fatal stimulants) to the pages of an unwholesome or unprincipled fiction: and thus, from this concurrence of causes, the purer efforts of imagination lose their interest; literary enthusiasm excites a smile; eloquence droops; and poetry dies!
 
@@ -94,11 +94,11 @@ IV. + If they do not renounce the doctrine of probability, their good maxims hav
 
 — + I fear not your personal censures, if they axe not supported by the authority of tradition.
 
-<span class="atom-split" data-atom="003" data-title="(apertura) (3/3)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="(apertura) (3/3)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
 
 — + Will you censure everything? What! even my respect for yourselves? No. Say then what is it? You do nothing, unless you designate what is objectionable, and why it is so; and nothing could have been easier than to do this.
 
-<span class="atom-split" data-atom="004" data-title="VII. + The world must be blind indeed, to believe you!" data-chapter="VII. + The world must be blind indeed, to believe you!" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="VII. + The world must be blind indeed, to believe you!" data-chapter="VII. + The world must be blind indeed, to believe you!" data-kind="atom" data-srclang="en"></span>
 
 VIII. + People without sincerity, without faith, without honour, without truth, double-hearted, double-tongued; and, like the amphibious animal in the fable, half fish and half bird. (Erased.)
 
@@ -110,11 +110,11 @@ XI. + As often as the Jesuits succeed in taking the Pope by surprise, they will 
 
 — + The Pope is easily led into error through the multiplicity of his affairs, and his faith in the Jesuits; and the Jesuits have no difficulty in deceiving him, by their doctrine of calumny. [Provincial Letters, XVIII.]
 
-<span class="atom-split" data-atom="005" data-title="XII. + Universal." data-chapter="XII. + Universal." data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="XII. + Universal." data-chapter="XII. + Universal." data-kind="atom" data-srclang="en"></span>
 
 + Morals and languages are particular sciences, but universal in their nature.
 
-<span class="atom-split" data-atom="006" data-title="XIII. + Probability." data-chapter="XIII. + Probability." data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="XIII. + Probability." data-chapter="XIII. + Probability." data-kind="atom" data-srclang="en"></span>
 
 — + The zeal of the saints in the pursuit of truth would be useless, if there were safety in probabilities.
 
@@ -122,7 +122,7 @@ XI. + As often as the Jesuits succeed in taking the Pope by surprise, they will 
 
 + St Theresa having always obeyed her Confessor.
 
-<span class="atom-split" data-atom="007" data-title="XIV. + Probable." data-chapter="XIV. + Probable." data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="XIV. + Probable." data-chapter="XIV. + Probable." data-kind="atom" data-srclang="en"></span>
 
 + We may try our devotion to God, by comparing it with other things which we most regard.
 
@@ -144,15 +144,15 @@ XV. + Will you dare in this way to trifle with the king’s edicts, by alleging 
 
 + And the “quam primum,” but not....
 
-<span class="atom-split" data-atom="008" data-title="XVI. + Probab." data-chapter="XVI. + Probab." data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="XVI. + Probab." data-chapter="XVI. + Probab." data-kind="atom" data-srclang="en"></span>
 
 + Their interpretation of safety is curious. After having proved that all their ways are safe, they have pronounced to be safe, not that way which leads to heaven without danger of failure, but that which leads to it without danger of departing from that way.
 
-<span class="atom-split" data-atom="009" data-title="XVII. + Probability." data-chapter="XVII. + Probability." data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="XVII. + Probability." data-chapter="XVII. + Probability." data-kind="atom" data-srclang="en"></span>
 
 + Every one may add; none may take away.XVIII. Those who love the church, lament the corruption of morals; but they comfort themselves by reflecting that the laws remain. These men, however, corrupt the very laws themselves: the standard is destroyed.
 
-<span class="atom-split" data-atom="010" data-title="XIX. + Montalte. [The feigned name under which the “Provincials” were published.]" data-chapter="XIX. + Montalte. [The feigned name under which the “Provincials” were published.]" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="XIX. + Montalte. [The feigned name under which the “Provincials” were published.]" data-chapter="XIX. + Montalte. [The feigned name under which the “Provincials” were published.]" data-kind="atom" data-srclang="en"></span>
 
 Lax opinions are so universally acceptable, that it is surprising that those which they hold should excite disgust. It is, however, because they have exceeded in them all bounds. There are, besides, many who see what is right, although they cannot attain to it; but there are few who do not know that the purity of religion is opposed to our corruptions. They see the absurdity of supposing that an eternal reward is held out for Escobartan morals.
 
@@ -168,7 +168,7 @@ XXIII. + “Probability.” They hold some true principles, but they abuse them.
 
 + As if they maintained that there were two hells; one for sinners against charity, the other for sinners against justice.
 
-<span class="atom-split" data-atom="011" data-title="XXIV. + “Probable.”" data-chapter="XXIV. + “Probable.”" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="XXIV. + “Probable.”" data-chapter="XXIV. + “Probable.”" data-kind="atom" data-srclang="en"></span>
 
 + If such flagitious reasons as these are “probable,” everything may be so: —
 
@@ -184,7 +184,7 @@ XXIII. + “Probability.” They hold some true principles, but they abuse them.
 
 + [Two words that are illegible.].... The Council of Trent for priests committing mortal sin; “ quam primum”...
 
-<span class="atom-split" data-atom="012" data-title="XXV. + Casuists." data-chapter="XXV. + Casuists." data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="XXV. + Casuists." data-chapter="XXV. + Casuists." data-kind="atom" data-srclang="en"></span>
 
 + A considerable measure of alms-giving, a reasonable penance; although we cannot assign the just measure, we can see what is not such. It is amusing to see the Casuists pretend to fix it in the way they do!
 
@@ -200,7 +200,7 @@ XXVII. + Sinners without penitence; righteous men without charity; a God without
 
 XXVIII. + They give the reins to lust, but cherish scrupulosity: the very contrary should be their rule.
 
-<span class="atom-split" data-atom="013" data-title="XXIX. + Generals." data-chapter="XXIX. + Generals." data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="XXIX. + Generals." data-chapter="XXIX. + Generals." data-kind="atom" data-srclang="en"></span>
 
 + They have not been content with introducing such morality into our temples; “templis inducere mores” They have not only claimed to be tolerated in the church, but, as if they deemed themselves the stronger party, they have sought to drive out all those who are....
 
@@ -222,11 +222,11 @@ XXXII. + “Probability” is necessary for other maxims, such as those respecti
 
 — + There is a satisfaction in the power and in the knowledge to do good; “ scire et posse grace and probability contribute to this satisfaction, for we may feel ourselves accountable to God, while we place reliance in their authorities.
 
-<span class="atom-split" data-atom="014" data-title="XXXIII. + But is it probable that probability can satisfy?" data-chapter="XXXIII. + But is it probable that probability can satisfy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="XXXIII. + But is it probable that probability can satisfy?" data-chapter="XXXIII. + But is it probable that probability can satisfy?" data-kind="atom" data-srclang="en"></span>
 
 Difference between ease of conscience and safety. Nothing produces safety but truth; nothing gives ease of conscience but a sincere endeavour to be virtuous.
 
-<span class="atom-split" data-atom="015" data-title="XXXIV. + Annat. He forms a disciple without ignorance, and a master without presumption." data-chapter="XXXIV. + Annat. He forms a disciple without ignorance, and a master without presumption." data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="XXXIV. + Annat. He forms a disciple without ignorance, and a master without presumption." data-chapter="XXXIV. + Annat. He forms a disciple without ignorance, and a master without presumption." data-kind="atom" data-srclang="en"></span>
 
 + There is such a disproportion between the merit which he believes himself to possess and folly, that we can scarcely understand how he can so mistake himself.
 
@@ -252,7 +252,7 @@ XLI. + As the two leading objects of the church are, the building up the piety o
 
 XLII. + As the tranquillity of [the state](/concepts/state) is chiefly to be valued for preserving in safety the possessions and privileges of the people, so the tranquillity of the church serves for securing the truth, which is her possession, the treasure nearest to her heart. And as no state ought to suffer, without opposition, the ravages of an enemy in her borders, from a mistaken unwillingness to interrupt tranquillity; and peace is only just and valuable when it serves the purpose of securing our privileges; — it becomes unjust, and pernicious, when it leaves them exposed; and a war that is undertaken for their defence, is righteous and necessary. In the same way, when truth is violated, by the enemies of the faith seeking to undermine it in the hearts of believers, and to replace it with errors; — would it then be to serve the church, or to betray her, to remain in peace? Is it not, I ask, plain, that, as it is sinful to disturb peace, when truth is in the ascendant, it is equally so to continue in peace, when truth is subverted? There is a time when peace is fitting, and a time when it is unfitting. It is written, “There is a time for peace, and a time for war and it is for the interests of truth, duly to discern that time. But there is not a time for truth, and a time for error: on the contrary, it is written, that the truth of God remains ever sure; and therefore it is, that Christ, while he says he is come to give peace, says also, he is come to bring war into the world. But he says not that he is come to bring both truth and falsehood. Truth is then the first principle, and the great end of all things.
 
-<span class="atom-split" data-atom="016" data-title="XLIII. + Those who have written such things in Latin, speak them in French." data-chapter="XLIII. + Those who have written such things in Latin, speak them in French." data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="XLIII. + Those who have written such things in Latin, speak them in French." data-chapter="XLIII. + Those who have written such things in Latin, speak them in French." data-kind="atom" data-srclang="en"></span>
 
 + The evil of putting them into French having been committed, it became necessary to do the good act of condemning them.
 
@@ -284,7 +284,7 @@ If miracles are wrought amongst them, that is no proof of purity of faith; but r
 
 The obduracy of the Jesuits surpasses, then, that of the Jews, for they only condemned Christ, because they doubted that his miracles were wrought by a Divine power; while the Jesuits, although they do not doubt that the Port Royal miracles are from God, still condemn the brotherhood as guilty. [This passage, although there is some probability of its being Pascal’s, is not to be found in the MS. autograph; nor in any other MS. which we have consulted.]
 
-<span class="atom-split" data-atom="017" data-title="XLV. + Oppressors and persecutors of those who enjoy the visible protection of God." data-chapter="XLV. + Oppressors and persecutors of those who enjoy the visible protection of God." data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="XLV. + Oppressors and persecutors of those who enjoy the visible protection of God." data-chapter="XLV. + Oppressors and persecutors of those who enjoy the visible protection of God." data-kind="atom" data-srclang="en"></span>
 
 — + When they upbraid your obliquities, they are heretics.
 
@@ -318,7 +318,7 @@ Miracles are no longer necessary, because we have them already. But when traditi
 
 — + Miracles under Dioclesian and under Arius.
 
-<span class="atom-split" data-atom="018" data-title="XLVII. The three marks of religion, perpetuity, holiness of life, miracles." data-chapter="XLVII. The three marks of religion, perpetuity, holiness of life, miracles." data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="XLVII. The three marks of religion, perpetuity, holiness of life, miracles." data-chapter="XLVII. The three marks of religion, perpetuity, holiness of life, miracles." data-kind="atom" data-srclang="en"></span>
 
 They subvert perpetuity by their “probability holiness, by their moral system; miracles, by destroying either their authority or their results.
 
@@ -328,11 +328,11 @@ Heretics contradict them, or deny the consequences: they do the same thing. + Bu
 
 XLVIII. + Be this as it may, the church is left without evidences if they are in the right.
 
-<span class="atom-split" data-atom="019" data-title="XLIX. + I suppose miracles will be believed." data-chapter="XLIX. + I suppose miracles will be believed." data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="XLIX. + I suppose miracles will be believed." data-chapter="XLIX. + I suppose miracles will be believed." data-kind="atom" data-srclang="en"></span>
 
 — + You corrupt religion to favour your friends, or to prejudice your enemies. You make it the mere instrument of your will.
 
-<span class="atom-split" data-atom="020" data-title="L. Perpetuity." data-chapter="L. Perpetuity." data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="L. Perpetuity." data-chapter="L. Perpetuity." data-kind="atom" data-srclang="en"></span>
 
 + Is your character staked upon Escobar?
 
@@ -350,7 +350,7 @@ XLVIII. + Be this as it may, the church is left without evidences if they are in
 
 LIII. + These are the results of the sin, both of the people and of the Jesuits: the great wished to be flattered; the Jesuits wished for the favour of the great. Both deserve to be abandoned to a spirit of falsehood; — the one for deceiving, the other for being deceived. They have been avaricious, ambitious, voluptuous: “ Coacervabunt sibi magistros LIV. + It is consistent in them to commit injustice, lest the Molinists should appear to have acted with justice. Thus they must not be spared; they are to have the credit of doing such things.
 
-<span class="atom-split" data-atom="021" data-title="LV. It is right to hear both sides: that has been my case." data-chapter="LV. It is right to hear both sides: that has been my case." data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="LV. It is right to hear both sides: that has been my case." data-chapter="LV. It is right to hear both sides: that has been my case." data-kind="atom" data-srclang="en"></span>
 
 + When we have heard only one side, we are apt to incline to it, and then the opposite side comes, and changes our view; but here the Jesuit confirms it.
 
@@ -360,7 +360,7 @@ LIII. + These are the results of the sin, both of the people and of the Jesuits:
 
 — + Condemnable condemned.
 
-<span class="atom-split" data-atom="022" data-title="LVI. + Policy." data-chapter="LVI. + Policy." data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="LVI. + Policy." data-chapter="LVI. + Policy." data-kind="atom" data-srclang="en"></span>
 
 + We have found two obstacles in our endeavour to give men comfort: — the one, the internal rules of the Gospel; the other, the external laws of [the state](/concepts/state) and of religion. Of the one, we are masters; with the other, this is the way we have dealt. “amplienda, restringenda, à majori ad minus.”
 
@@ -390,11 +390,11 @@ LVIII. + Jesus Christ never condemned without hearing. To Judas he said, “Amic
 
 + “Nisi videritis signa, non creditis he blames them, not for not believing without miracles, but for not being themselves the spectators of them. [MS. collection of P. Guerrier.]
 
-<span class="atom-split" data-atom="023" data-title="LIX. + But it is impossible for God to be the end, if he be not the beginning." data-chapter="LIX. + But it is impossible for God to be the end, if he be not the beginning." data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="LIX. + But it is impossible for God to be the end, if he be not the beginning." data-chapter="LIX. + But it is impossible for God to be the end, if he be not the beginning." data-kind="atom" data-srclang="en"></span>
 
 + They direct their eyes on high, but they build upon the sand; and the ground shall shake, and they shall fall while looking up to the heavens.
 
-<span class="atom-split" data-atom="024" data-title="LX. + After so many marks of piety, they now possess that of persecution, the best of all." data-chapter="LX. + After so many marks of piety, they now possess that of persecution, the best of all." data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="LX. + After so many marks of piety, they now possess that of persecution, the best of all." data-chapter="LX. + After so many marks of piety, they now possess that of persecution, the best of all." data-kind="atom" data-srclang="en"></span>
 
 LXI. + If St. Augustin were among us now, and carried as little weight as his defenders, he would be powerless. God dealt well with his church in sending him forth with suitable credentials.
 
@@ -408,7 +408,7 @@ LXV. — + It is impossible that those who love God with their whole heart can u
 
 LXVI. These females, [The Nuns of Port Royal. See Provincial Letters, No. XVI.] overwhelmed with astonishment at finding it stated that they were in the high-way to perdition; that their Confessors were leading them to Geneva; and inculcating the belief that Christ was not present in the Eucharist, nor at the right hand of the Father; — knowing the falsehood of these allegations, they committed themselves to God in the spirit of the Psalmist: “Vide si via iniquitatis in me est” What was the consequence? That place of theirs which had been called the Temple of Satan, God made his own sanctuary. It was declared that children ought to be removed from their domicile; God made it the scene of their recovery from disease. Their dwelling was said to be the “Arsenal of Hell God distinguished it as the repository of his graces. Finally, they were menaced with all the wrath and all the vengeance of heaven; and, lo! God has overwhelmed them with his favours. He must be bereft of sense and reason who can believe such persons to be in the way to perdition.
 
-<span class="atom-split" data-atom="025" data-title="LXVIII. + Happy he who is condemned on the authority of Escobar!" data-chapter="LXVIII. + Happy he who is condemned on the authority of Escobar!" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="LXVIII. + Happy he who is condemned on the authority of Escobar!" data-chapter="LXVIII. + Happy he who is condemned on the authority of Escobar!" data-kind="atom" data-srclang="en"></span>
 
 + You will charge me in vain with traducing Escobar, for he is too well known.
 

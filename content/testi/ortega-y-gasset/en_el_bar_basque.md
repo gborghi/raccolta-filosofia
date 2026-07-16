@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/en_el_bar_basque" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="En el Bar Basque" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="En el Bar Basque" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Sobre la playa, en los bajos del Grand Hôtel, está el Bar Basque, donde entramos a comer. Una gran capota de madera sobre unos mástiles cubre el área de mesas. El viento salobre entra directamente del mar por los flancos libres y sacude las lonas, que dan latigazos como un velamen. Parece, en efecto, que estamos sobre un navío. En la puerta, una virgen vascongada escamotea nuestros sombreros. Es un bello ejemplar de la raza éuscara. Los ojos, un poco oblicuos; la nariz, muy breve; la piel, tirante sobre los pómulos, todo ello con la ligera insinuación del tipo mongólico que es tan frecuente en la mujer vasca.
 

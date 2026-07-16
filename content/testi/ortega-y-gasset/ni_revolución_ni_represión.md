@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ni_revolución_ni_represión" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ni revolución, ni represión" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ni revolución, ni represión" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Por falta de organismos competentes, eficaces y adecuados, la mayor parte de los conflictos sociales que en España se producen van derivando rápidamente hacia cauces revolucionarios. ¿Nos encontramos ahora en un momento inmediatamente anterior a la revolución? No lo sabemos nosotros: pero lo aseguraba ayer el propio presidente del Consejo de Ministros. En España, todo conflicto social, aun cuando se base estrictamente en motivos de orden económico, se transforma inevitablemente en un problema político. ¿Cuál es la [causa](/concepts/cause) de este fenómeno?
 

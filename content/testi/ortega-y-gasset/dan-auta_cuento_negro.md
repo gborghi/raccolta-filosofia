@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/dan-auta_cuento_negro" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Dan-Auta (cuento negro)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Dan-Auta (cuento negro)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 He aquí el cuento que en las noches de invierno cuentan en el Sudán los viejos recitadores, con sus labios gruesos y prominentes, mientras el fuego chisporrotea[124].
 
@@ -66,7 +66,7 @@ Un gran churua —un gavilán gigante— voló entonces sobre el bosque, y vino 
 
 Cuando Sarra y Dan-Auta estaban ya cerca de la tierra, comenzó a soplar un gran gugua, un torbellino. Sarra lo vio, y dijo: «¡Gugua mío! Vamos a caer en seguida contra la tierra, y moriremos si tú no nos salvas». El gugua llegó, arrebató a Sarra y a Dan-Auta, y, transportándolos a larga distancia, los puso suavemente en el suelo. Era aquel sitio un bosque de una comarca lejana.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sarra avanzó por el bosque con Dan-Auta y encontró un camino. Caminando el camino llegaron a una gran ciudad, a una ciudad más grande que todas las ciudades. Un fuerte y alto muro la rodeaba. En el muro había una gran puerta de hierro que era cerrada todas las noches. Porque todas las noches, apenas moría la claridad, aparecía un terrible monstruo, un Dodo. Este Dodo era alto como un asno; pero no era un asno. Este Dodo era largo como una serpiente gigante; pero no era una serpiente gigante. Este Dodo era fuerte como un elefante; pero no era un elefante. Este Dodo tenía unos ojos que iluminaban en la noche como el sol en el día. Este Dodo tenía una cola. Todas las noches el Dodo se arrastraba hasta la ciudad. Por esta razón se había construido el muro con la gran puerta de hierro.
 

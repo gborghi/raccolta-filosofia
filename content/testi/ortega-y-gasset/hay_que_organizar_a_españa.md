@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/hay_que_organizar_a_españa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Hay que organizar a España" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Hay que organizar a España" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero ya hemos dicho que el hecho de ser la solución del conflicto la única posible, no significa que sea conveniente totalmente y para siempre, si no recibe complementos indispensables.
 

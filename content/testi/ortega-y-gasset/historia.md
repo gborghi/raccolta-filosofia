@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/historia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Historia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Historia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace ocho días, en una jornada feliz quedó implantado en nuestra España el régimen republicano. El hecho es de tal importancia, que merecería mucho tiempo de respeto, durante el cual no se retrajese a ningún otro asunto, ni aun afín con él, la atención de las gentes. Mas, por otra parte, urge trabajar eficazmente en pro del nuevo Estado y la Agrupación al Servicio de la República necesita dirigirse a sus adheridos por este medio general de publicidad, que es, por ahora, el único a su alcance, para darles cuenta de la labor realizada en las pocas semanas de su existencia.
 

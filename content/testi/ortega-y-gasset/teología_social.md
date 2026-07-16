@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/teología_social" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Teología social" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Teología social" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Dentro de mis modestos medios he procurado ofreceros, como en un índice, algunas de las cuestiones principales que suscita la pedagogía social.
 

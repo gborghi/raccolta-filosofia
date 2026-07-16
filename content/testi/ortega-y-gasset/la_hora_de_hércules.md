@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_hora_de_hércules" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La hora de Hércules" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La hora de Hércules" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Como el poeta toma su cálamo entre los rumores de la selva, nosotros, humildes prosistas políticos, tomamos esta noche la pluma entre los rumores de una crisis. No sabemos todavía si será declarada al punto o se esperará a que el nuevo sol luzca en Oriente. Pero la crisis, según nos aseguran, está planteada. ¿Por qué? Se dirá que con motivo de las tarifas ferroviarias o con el pretexto de tal o cual dificultad para la aprobación de los presupuestos. No nos importa lo que se diga. La conducta observada estos días por el señor Allendesalazar nos da derecho y nos obliga a retirar todo crédito en sus palabras. La crisis se debe, una vez más, al poder latente de las Juntas militares. Se habla de un documento en que éstas recuerdan al Gobierno su emplazamiento para el día 27. Añádense aún más graves exigencias que en él han llegado; pero, desconocedores del texto auténtico, preferimos no creer lo que escuchamos.
 

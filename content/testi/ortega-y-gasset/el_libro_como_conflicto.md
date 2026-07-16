@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_libro_como_conflicto" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El libro como conflicto" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El libro como conflicto" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los más graves atributos negativos que comenzamos hoy a percibir en el libro son éstos:
 

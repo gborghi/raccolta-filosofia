@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_momento_actual_es_decisivo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El momento actual es decisivo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El momento actual es decisivo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Se ha abierto la crisis trascendental que anunció hace días en el Parlamento don Antonio Maura. Lo que no dijo ni quiso decir entonces el presidente dimisionario del Gabinete nacional, es que la crisis podía ser trascendental de dos maneras:
 

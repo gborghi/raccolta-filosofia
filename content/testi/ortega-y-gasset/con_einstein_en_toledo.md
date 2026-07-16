@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/con_einstein_en_toledo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Con Einstein en Toledo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Con Einstein en Toledo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En 1916 pronuncié algunas conferencias en la Facultad de Letras de Buenos Aires. Me había propuesto en ellas dibujar someramente la fisonomía de un nuevo espíritu que sobre Europa alborea. Ante todo me interesaba fijar los caracteres de la nueva manera de pensar que desde el friso secular actúa en las ciencias y las va renovando radicalmente. Con alguna reiteración aludí a la teoría de la relatividad de Einstein, ejemplo admirable del nuevo sesgo intelectual. Era entonces muy poco conocida, en rigor se hallaba todavía en período de desarrollo. Aquel mismo año 1916 publicó Einstein la exposición de su sistema generalizado. Al concluir mis conferencias decía yo al auditorio: «No tengo prisa alguna de que me deis la razón. Sólo pido que cuando en tiempo nada lejano algunas de las cosas que habéis oído por vez primera en estas conferencias resuenen por todo el mundo y celebren su consagración pública, recordéis que en esta aula y en esta fecha oísteis ya hablar de ellas».
 
@@ -50,7 +50,7 @@ E insiste sobre un tema que le he oído varias veces tratar y debe ser hoy para 
 
 Al ser lanzado súbitamente por la fama sobre la admirable variedad del mundo, Einstein, que ha debido hacer —como es frecuente en los hombres de ciencia germánicos— una vida angosta de estudiante, se ha encontrado con innumerables facetas de la realidad que le sorprenden, ante las cuales no halla en sí preformada una actitud certera y segura. Ha conocido hombres más armónicamente dotados, capaces de juzgar con precisión y refinamiento sobre temas muy diversos. Esta experiencia le ha debido asustar un poco y ha visto su formidable genio físico como solitario dentro de sí mismo, desamparado de otras dotes y potencias. En efecto, Einstein parece un espíritu extremadamente circunscripto a su ciencia. No creo que verdaderamente le interese el arte ni la historia y tal vez, ante un cuadro o un problema general humano, su genio se detiene como paralítico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 De todas suertes, parece interesarle esta ciudad heteróclita, superviviente de un pasado viejísimo, cono de piedra sobre el que han caído como capas sucesivas las más varias y densas civilizaciones. Para un habitante de Zurich y Berlín, como es Einstein, tiene que ser inquietante caminar por un pueblo donde a la ruina romana sucede un gesto visigodo que concluye en una forma árabe encajada en una grave arquitectura castellana. Aquí han vivido, en efecto, prietas y hacinadas todas esas culturas. La ciudad sólo tiene escape hacia el Cielo. Cenobio y cuartel, la existencia aparece en ella como un servicio militar de tierra y cielo, que endurece los pechos contra el dardo y la tentación.
 

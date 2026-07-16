@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/venerables_ironías" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Venerables ironías" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Venerables ironías" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Creía de buena fe Prudencio que Dios había mirado con peculiar benignidad a los españoles: Hispanos Deus aspicit benignus. El alma de oro del cantor celtíbero veía en torno hombres que se dejaban morir por vivificar las ideas y se henchía como al viento una vela latina ante el soplo de optimismo que humea siempre de la sangre de los mártires. Eran aquéllos para España tiempos de fe y sazón de virtudes. Y así da en sus Cantos para todo el día un magnífico grito idealista:
 

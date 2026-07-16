@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estos_republicanos_no_son_la_república" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Estos republicanos no son la República" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Estos republicanos no son la República" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor Prieto contestó el martes con una argumentación superabundante a todos los puntos de importancia que la acusación del señor Gil Robles contenía. La superabundancia consistió en que los datos aportados por este señor no sólo perdieron su fuerza de incriminación contra el señor Prieto, sino que se convirtieron en acusación de los acusadores, y entre éstos prefiramos no contar al señor Gil Robles, que fue sólo vehículo parlamentario de las efectivas fuerzas impugnadoras. Entre paréntesis sea dicho que no se entiende bien por qué el señor Gil Robles se convierte en portavoz de personas y grupos con los cuales ni él ni los demás hombres que se reúnen en torno a El Debate tienen nada que ver. Sea esto dicho sin mayor insistencia y con la más sana intención.
 

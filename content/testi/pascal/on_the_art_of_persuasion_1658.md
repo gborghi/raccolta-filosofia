@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/pascal/on_the_art_of_persuasion_1658" data-philosopher="Pascal"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="On the Art of Persuasion (1658)" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="On the Art of Persuasion (1658)" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 THE ART OF PERSUASION
 
@@ -64,7 +64,7 @@ Not that I do not believe that there may be as sure rules for pleasing as for de
 
 The reason of this extreme difficulty comes from the fact that the principles of pleasure are not firm and stable. They are different in all mankind, and variable in every particular with such a diversity that there is no man more different from another than from himself at different times. A man has other pleasures than a woman; a rich man and a poor man have different enjoyments; a prince, a warrior, a merchant, a citizen, a peasant, the old, the young, the well, the sick, all vary; the least accidents change them.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/2)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (2/2)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
 
 Now there is an art, and it is that which I give, for showing the connection of truths with their principles, whether of truth or of pleasure, provided that the principles which have once been avowed remain firm, and without being ever contradicted.
 
@@ -82,7 +82,7 @@ Rules for Definitions
 
 I. Not to undertake to define any of the things so well known of themselves that clearer terms cannot be had to explain them.
 
-<span class="atom-split" data-atom="003" data-title="II. Not to leave any terms that are at all obscure or ambiguous without definition." data-chapter="II. Not to leave any terms that are at all obscure or ambiguous without definition." data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="II. Not to leave any terms that are at all obscure or ambiguous without definition." data-chapter="II. Not to leave any terms that are at all obscure or ambiguous without definition." data-kind="atom" data-srclang="en"></span>
 
 III. Not to employ in the definition of terms any words but such as are perfectly known or already explained.
 
@@ -90,7 +90,7 @@ Rules for Axioms
 
 I. Not to omit any necessary principle without asking whether it is admitted, however clear and evident it may be.
 
-<span class="atom-split" data-atom="004" data-title="II. Not to demand, in axioms, any but things that are perfectly evident of themselves. (1/2)" data-chapter="II. Not to demand, in axioms, any but things that are perfectly evident of themselves." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="II. Not to demand, in axioms, any but things that are perfectly evident of themselves. (1/2)" data-chapter="II. Not to demand, in axioms, any but things that are perfectly evident of themselves." data-kind="atom" data-srclang="en"></span>
 
 Rules for Demonstrations
 
@@ -152,7 +152,7 @@ One man will say a thing of himself without comprehending its excellence, in whi
 
 The same thoughts sometimes put forth quite differently in the mind of another than in that of their author: unfruitful in their natural soil, abundant when transplanted. But it much oftener happens that a good mind itself makes its own thoughts produce all the fruit of which they are capable, and that afterwards others, having heard them admired, borrow them, and adorn themselves with them, but without knowing their excellence; and it is then that the difference of the same word in different mouths is the most apparent.
 
-<span class="atom-split" data-atom="005" data-title="II. Not to demand, in axioms, any but things that are perfectly evident of themselves. (2/2)" data-chapter="II. Not to demand, in axioms, any but things that are perfectly evident of themselves." data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="II. Not to demand, in axioms, any but things that are perfectly evident of themselves. (2/2)" data-chapter="II. Not to demand, in axioms, any but things that are perfectly evident of themselves." data-kind="atom" data-srclang="en"></span>
 
 It is in this manner that logic has borrowed, perhaps, the rules of geometry, without comprehending their force; and thus, in placing them by [chance](/concepts/fortune) among those that belong to it, it does not thence follow that they6 have entered into the spirit of geometry, and I should be greatly averse if they gave no other evidence of it than that of having mentioned it by chance, to placing them on a level with that science that teaches the true [method](/axes/method) of directing the reason.
 

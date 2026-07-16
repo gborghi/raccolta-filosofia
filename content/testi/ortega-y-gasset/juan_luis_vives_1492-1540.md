@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/juan_luis_vives_1492-1540" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Juan Luis Vives (1492-1540)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Juan Luis Vives (1492-1540)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 (1492-1540)
 

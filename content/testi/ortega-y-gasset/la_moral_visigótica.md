@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_moral_visigótica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La moral visigótica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La moral visigótica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La circular del señor fiscal del Tribunal Supremo pone de manifiesto una noción de la moralidad que debemos combatir una vez y otra, aun cuando no nos acompañe la esperanza de conseguir una reforma del gusto público. Todas estas cuestiones caen muy remotas de la atención general: pertenecen a un mundo con el cual nos obstinamos en no mantener relaciones: el mundo de la teoría. Y como es éste el gran pecado secular de la raza española, no vamos a pretender con nuestra breve y modesta acción purificarlo. Un claro deber nos induce a hablar de estos problemas que a nadie interesan, o desde un punto de vista que a nadie entre nosotros preocupa. ¿Qué importa lo demás si hemos visto en tal faena nuestra misión? Algunos amigos míos me van mostrando un poco de desdén porque me encuentran obscuro. ¿Ha de influir esto en mi marcha si tengo la plena conciencia de haber sido siempre preciso? Habrá de procurarse que nos entienda el mayor número posible de lectores; pero, ¿es por ventura fácil determinar dónde acaba para los españoles la precisión y comienza la obscuridad?
 

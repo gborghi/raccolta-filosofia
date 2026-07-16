@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/réponse_au_roi_de_pologne" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="RÉPONSE AU ROI DE POLOGNE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="RÉPONSE AU ROI DE POLOGNE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Introduction
 
@@ -56,7 +56,7 @@ Que ne leur doit pas l'artisan pour tout ce qui contribue à la beauté, à la s
 
 La curiosité, naturelle à l'homme, lui inspire l'envie d'apprendre ; ses besoins lui en font sentir la nécessité, ses emplois lui en imposent l'obligation ; ses progrès lui en font goûter le plaisir. Ses premières découvertes augmentent l'avidité qu'il a de savoir ; plus il connaît, plus il sent qu'il a de connaissances à acquérir, et plus il a de connaissances acquises, plus il a de facilité à bien faire.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Le citoyen de Genève ne l'aurait-il pas éprouvé ? Gardons-nous d'en croire sa modestie. Il prétend qu'on serait plus vertueux si l'on était moins savant. Ce sont les sciences, dit-il, qui nous font connaître le mal. Que de crimes, s'écrie-t-il, nous ignorerions sans elles ! Mais l'ignorance du vice est-elle donc une vertu ? Est-ce faire le bien que d'ignorer le mal ? Et si, s'en abstenir parce qu'on ne le connaît pas, c'est là ce qu'il appelle être vertueux, qu'il convienne du moins que ce n'est pas l'être avec beaucoup de mérite : c'est s'exposer à ne pas l'être longtemps : c'est ne l'être que jusqu'à ce que quelque objet vienne solliciter les penchants naturels, ou que quelque occasion vienne réveiller des passions endormies. Il me semble voir un faux brave, qui ne fait montre de sa valeur que quand il ne se présente point d'ennemis : un ennemi vient-il à paraître, faut-il se mettre en défense, le courage manque, et la vertu s'évanouit. Si les sciences nous font connaître le mal, elles nous en font connaître aussi le remède. Un botaniste habile sait démêler les plantes salutaires d'avec les herbes venimeuses ; tandis que le vulgaire, qui ignore également la vertu des unes et le poison des autres, les foule aux pieds sans distinction, ou les cueille sans choix. Un homme éclairé par les sciences distingue, dans le grand nombre d'objets qui s'offrent à ses connaissances, ceux qui méritent son aversion ou ses recherches ; il trouve, dans la difformité du vice et dans le trouble qui le suit, dans les charmes de la vertu et dans la paix qui l’accompagne, de quoi fixer son estime et son goût pour l’une, son horreur et ses mépris pour l'autre ; il est sage par choix, il est solidement vertueux.
 
@@ -76,7 +76,7 @@ Mais l'Égypte, la Grèce, la république de Rome, l'empire de la Chine, qu'il o
 
 Quelle foule d'exemples éclatants ne pourrais-je pas opposer au petit nombre d'auteurs hardis qu'il a cités ! Je n'aurais qu'à ouvrir les annales du monde. Par combien de témoignages incontestables, d'augustes monuments, d'ouvrages immortels, l'histoire n'atteste-t-elle pas que les sciences ont contribué partout au bonheur des hommes, à la gloire des empires ; au triomphe de la vertu !
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Non, ce n'est pas des sciences, c'est du sein des richesses que sont nés de tout temps la mollesse et le luxe ; et, dans aucun temps, les richesses n'ont été l'apanage ordinaire des savants. Pour un Platon dans l'opulence, un Aristippe accrédité à la cour, combien de philosophes réduits au manteau et à la besace, enveloppés dans leur propre vertu et ignorés dans leur solitude ! combien d'Homères et de Diogènes, d'Épictètes et d'Ésopes, dans l'indigence ! Les savants n'ont ni le goût ni le loisir d'amasser de grands biens. Ils aiment l'étude ; ils vivent dans la médiocrité ; et une vie laborieuse et modérée, passée dans le silence de la retraite, occupée de la lecture et du travail, n'est pas assurément une vie voluptueuse et criminelle. Les commodités de la vie, pour être souvent le fruit des arts, n'en sont pas davantage le partage des artistes ; ils ne travaillent que pour les riches, et ce sont les riches oisifs qui profitent et abusent des fruits de leur industrie.
 
@@ -102,7 +102,7 @@ sur la réfutation faite par le roi de Pologne a son discours.[27]
 
 Armoiries de Stanisław Leszczyński
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Je devrais plutôt un remerciement qu’une réplique à l’auteur anonyme[28] qui vient d’honorer mon Discours d’une réponse. Mais ce que je dois à la reconnaissance ne me fera point oublier ce que je dois à la vérité ; et je n’oublierai pas non plus, que toutes les fois qu’il est question de raison, les hommes rentrent dans le droit de la nature, et reprennent leur première égalité.
 
@@ -136,7 +136,7 @@ Il y a beaucoup d’adresse à m’impliquer ainsi moi-même dans la question : 
 
 2° On pourrait encore moins me presser personnellement par cette prétendue contradiction, quand même elle existerait réellement. J'adore la vertu : mon cœur me rend ce témoignage ; il me dit trop aussi combien il y a loin de cet amour à la pratique qui fait l'homme vertueux. D'ailleurs, je suis fort éloigné d'avoir de la science, et plus encore d'en affecter. J'aurais cru que l'aveu ingénu que j'ai fait au commencement de mon Discours, me garantirait de cette imputation : je craignais bien plutôt qu'on ne m'accusât de juger des choses que je ne connaissais pas. On sent assez combien il m'était impossible d'éviter à la fois ces deux reproches. Que sais-je même si l'on n'en viendrait point à les réunir, si je ne me hâtais de passer condamnation sur celui-ci, quelque peu mérité qu'il puisse être ?
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 3° Je pourrais rapporter à ce sujet ce que disaient les pères de l'Église des sciences mondaines qu'ils méprisaient, et dont pourtant ils se servaient pour combattre les philosophes païens : je pourrais citer la comparaison qu'ils en faisaient avec les vases des Égyptiens volés par les Israélites. Mais je me contenterai, pour dernière réponse, de proposer cette question : Si quelqu'un venait pour me tuer, et que j'eusse le bonheur de me saisir de son arme, me serait-il défendu, avant que de la jeter, de m'en servir pour le chasser de chez moi ?
 
@@ -162,7 +162,7 @@ Je passe à une accusation bien plus grave que l’objection précédente. Je la
 
 Plus le chrétien examine l’authenticité de ses titres, plus il se rassure dans la possession de sa croyance ; plus il étudie la révélation, plus il se fortifie dans la foi. C’est dans les divines Écritures qu’il en découvre l’origine et l’excellence ; c’est dans les doctes écrits des pères de l’Église qu’il en suit de siècle en siècle le développement ; c’est dans les livres de morale et les annales saintes qu’il en voit les exemples et qu’il s’en fait l’application.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Quoi ! l’ignorance enlèvera à la religion et à la vertu des appuis si puissants ! et ce sera à elle qu’un docteur de Genève enseignera hautement qu’on doit l’irrégularité des mœurs ! On s’étonnerait davantage d’entendre un si étrange paradoxe, si on ne savait que la singularité d’un système, quelque dangereux qu’il soit, n’est qu’une raison de plus pour qui n’a pour règle que l’esprit particulier.
 
@@ -198,7 +198,7 @@ Après la renaissance des lettres, les divisions ne tardèrent pas à recommence
 
 Les sciences sont florissantes aujourd'hui ; la littérature et les arts brillent parmi nous : quel profit en a tiré la religion ? Demandons-le à cette multitude de philosophes qui se piquent de n'en point avoir. Nos bibliothèques regorgent de livres de théologie, et les casuistes fourmillent parmi nous. Autrefois nous avions des saints, et point de casuistes. La science s'étend, et la foi s'anéantit ; tout le monde veut enseigner à bien faire, et personne ne veut l'apprendre ; nous sommes tous devenus docteurs, et nous avons cessé d'être chrétiens.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Non, ce n'est point avec tant d'art et d'appareil que l'Évangile s'est étendu par tout l'univers, et que sa beauté ravissante a pénétré les cœurs. Ce divin livre, le seul nécessaire à un chrétien, et le plus utile de tous à quiconque même ne le serait pas, n'a besoin que d'être médité pour porter dans l'âme l'amour de son auteur, et la volonté d'accomplir ses préceptes. Jamais la vertu n'a parlé un si doux langage ; jamais la plus profonde sagesse ne s'est exprimée avec tant d'énergie et de simplicité. On n'en quitte point la lecture sans se sentir meilleur qu'auparavant. O vous ! ministres de la loi qui m'y est annoncée, donnez-vous moins de peine pour m'instruire de tant de choses inutiles. Laissez-là tous ces livres savants qui ne savent ni me convaincre ni me toucher. Prosternez-vous aux pieds de ce Dieu de miséricorde que vous vous chargez de me faire connaître et aimer ; demandez-lui pour vous cette humilité profonde que vous devez me prêcher. N'étalez point à mes yeux cette science orgueilleuse ni ce faste indécent qui vous déshonorent et qui me révoltent ; soyez touchés vous-mêmes, si vous voulez que je le sois ; et surtout montrez-moi dans votre conduite la pratique de cette loi dont vous prétendez m'instruire. Vous n'avez pas besoin d'en savoir ni de m'en enseigner davantage, et votre ministère est accompli. Il n'est point en tout cela question de belles-lettres, ni de philosophie. C'est ainsi qu'il convient de suivre et de prêcher l’Évangile, et c'est ainsi que ses premiers défenseurs l'ont fait triompher de toutes les nations, non aristotelico more, disaient les pères de l’Église, sed piscatorio. [38]
 
@@ -212,7 +212,7 @@ Le luxe corrompt tout, et le riche qui en jouit, et le misérable qui le convoit
 
 J'ai passé le beau portrait qu'on nous fait ici des savants, et je crois pouvoir me faire un mérite de cette complaisance. Mon adversaire est moins indulgent : non seulement il ne m'accorde rien qu'il puisse me refuser, mais, plutôt que de passer condamnation sur le mal que je pense de notre vaine et fausse politesse, il aime mieux excuser l’hypocrisie. Il me demande si je voudrais que le vice se montrât à découvert. Assurément je le voudrais : la confiance et l'estime renaîtraient entre les bons, on apprendrait à se défier des méchants, et la société en serait plus sûre. J'aime mieux que mon ennemi m'attaque à force ouverte, que de venir en trahison me frapper par derrière. Quoi donc ! faudra-t-il joindre le scandale au crime ? je ne sais ; mais je voudrais bien qu'on n'y joignît pas la fourberie. C'est une chose très commode pour les vicieux que toutes les maximes qu'on nous débite depuis longtemps sur le scandale. Si on les voulait suivre à la rigueur, il faudrait se laisser piller, trahir, tuer impunément, et ne jamais punir personne ; car c'est un objet très scandaleux qu'un scélérat sur la roue. Mais l'hypocrisie est un hommage que le vice rend à la vertu. Oui, comme celui des assassins de César, qui se prosternaient à ses pieds pour l'égorger plus sûrement. Cette pensée a beau être brillante, elle a beau être autorisée du nom célèbre de son auteur[39], elle n'en est pas plus juste. Dira-t-on jamais d'un filou qui prend la livrée d'une maison pour faire son coup plus commodément, qu'il rend hommage au maître de la maison qu'il vole ? Non : couvrir sa méchanceté du dangereux manteau de l'hypocrisie, ce n'est point honorer la vertu, c'est l'outrager en profanant ses enseignes ; c'est ajouter la lâcheté et la fourberie à tous les autres vices ; c'est se fermer pour jamais tout retour vers la probité. Il y a des caractères élevés qui portent jusque dans le crime je ne sais quoi de fier et de généreux qui laisse voir au dedans encore quelque étincelle de ce feu céleste fait pour animer les belles âmes. Mais l'âme vile et rampante de l'hypocrite est semblable à un cadavre où l'on ne trouve plus ni feu, ni chaleur, ni ressource à la vie. J'en appelle à l'expérience. On a vu de grands scélérats rentrer en eux-mêmes, achever saintement leur carrière et mourir en prédestinés ; mais ce que personne n'a jamais vu, c'est un hypocrite devenir homme de bien : on aurait pu raisonnablement tenter la conversion de Cartouche, jamais un homme sage n'eût entrepris celle de Cromwell.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 J'ai attribué au rétablissement des lettres et des arts l'élégance et la politesse qui règnent dans nos manières. L'auteur de la réponse me le dispute, et j'en suis étonné ; car, puisqu'il fait tant de cas de la politesse, et qu'il fait tant de cas des sciences, je n'aperçois pas l'avantage qui lui reviendra d'ôter à l'une de ces choses l'honneur d'avoir produit l'autre. Mais examinons ses preuves : elles se réduisent à ceci : On ne voit point que les savants soient plus [polis](/concepts/state) que les autres hommes ; au contraire, ils le sont souvent beaucoup moins : donc notre politesse n'est pas l'ouvrage des sciences.
 
@@ -236,7 +236,7 @@ Laissons donc les sciences et les arts adoucir, en quelque sorte, la férocité 
 
 J'ai loué les académies et leurs illustres fondateurs, et j'en répéterai volontiers l'éloge. Quand le mal est incurable, le médecin applique des palliatifs, et proportionne les remèdes moins aux besoins qu'au tempérament du malade. C'est aux sages législateurs d'imiter sa prudence, et, ne pouvant plus approprier aux peuples malades la plus excellente police, de leur donner du moins, comme Solon, la meilleure qu'ils puissent comporter.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Il y a en Europe un grand prince, et, ce qui est bien plus, un vertueux citoyen qui, dans la patrie qu'il a adoptée et qu'il rend heureuse, vient de former plusieurs institutions en faveur des lettres[43]. Il a fait en cela une chose très digne de sa sagesse et de sa vertu. Quand il est question d'établissements politiques, c'est le temps et le lieu qui décident de tout. Il faut, pour leurs propres intérêts, que les princes favorisent toujours les sciences et les arts ; j'en ai dit la raison : et, dans l'état présent des choses, il faut encore qu'ils les favorisent aujourd'hui pour l'intérêt même des peuples. S'il y avait actuellement parmi nous quelque monarque assez borné pour penser et agir différemment, ses sujets resteraient pauvres et ignorants, et n'en seraient pas moins vicieux. Mon adversaire a négligé de tirer avantage d'un exemple si frappant et si favorable en apparence à sa cause ; peut-être est-il le seul qui l'ignore ou qui n'y ait pas songé. Qu'il souffre donc qu'on le lui rappelle ; qu'il ne refuse point à de grandes choses les éloges qui leur sont dus ; qu'il les admire ainsi que nous, et ne s'en tienne pas plus fort contre les vérités qu'il attaque.
 

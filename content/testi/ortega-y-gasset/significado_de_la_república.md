@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/significado_de_la_república" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Significado de la República" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Significado de la República" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Cómo iban a marchar así bien las cosas? El Estado contemporáneo exige una constante y omnímoda colaboración de todos sus individuos, y esto no por razones de justicia política, sino por ineludible forzosidad. Las necesidades del Estado actual son de tal cuantía y tan varias que necesitan la permanente prestación de todos sus miembros, y por eso, en la actualidad, gobernar es contar con todos. Por tal necesidad, que inexorablemente imponen las condiciones de la vida moderna, Estado y nación tienen que estar fundidos y en uno: esta fusión se llama democracia. Es decir, que la democracia ha dejado de ser una teoría y un credo político que unos cuantos agitan, para convertirse en la anatomía inevitable de la época actual. Por tanto, es inútil discutir sobre ella; la democracia es el presente, no es que en el presente haya demócratas. (Aplausos).
 

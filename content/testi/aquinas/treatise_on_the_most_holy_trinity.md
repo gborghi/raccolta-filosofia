@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_most_holy_trinity" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Most Holy Trinity" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Most Holy Trinity" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE MOST HOLY TRINITY (QQ[27]-43)
 
-<span class="atom-split" data-atom="002" data-title="THE PROCESSION OF THE DIVINE PERSONS (FIVE ARTICLES)" data-chapter="THE PROCESSION OF THE DIVINE PERSONS (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="THE PROCESSION OF THE DIVINE PERSONS (FIVE ARTICLES)" data-chapter="THE PROCESSION OF THE DIVINE PERSONS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having considered what belongs to the unity of the divine essence, it remains to treat of what
 belongs to the Trinity of the persons in God. And because the divine Persons are distinguished from
@@ -37,7 +37,7 @@ Concerning procession there are five points of inquiry:
 (4) Whether that other procession can be called generation?
 (5) Whether there are more than two processions in God?
 
-<span class="atom-split" data-atom="003" data-title="Whether there is procession in God?" data-chapter="Whether there is procession in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether there is procession in God?" data-chapter="Whether there is procession in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there cannot be any procession in God. For procession signifies
 outward movement. But in God there is nothing mobile, nor anything extraneous. Therefore neither
@@ -104,7 +104,7 @@ art; and it would be included in the idea of the first principle were the builde
 the house. God, Who is the first principle of all things, may be compared to things created as the
 architect is to things designed.
 
-<span class="atom-split" data-atom="004" data-title="Whether any procession in God can be called generation?" data-chapter="Whether any procession in God can be called generation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether any procession in God can be called generation?" data-chapter="Whether any procession in God can be called generation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no procession in God can be called generation. For generation
 is change from non-existence to existence, and is opposed to corruption; while matter is the subject
@@ -168,7 +168,7 @@ as if He were other from the divine nature. For in the perfection itself of the 
 contained both the Word intelligibly proceeding and the principle of the Word, with whatever
 belongs to His perfection (Q[4], A[2]).
 
-<span class="atom-split" data-atom="005" data-title="Whether any other procession exists in God besides that of the Word?" data-chapter="Whether any other procession exists in God besides that of the Word?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether any other procession exists in God besides that of the Word?" data-chapter="Whether any other procession exists in God besides that of the Word?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no other procession exists in God besides the generation of
 the Word. Because, for whatever reason we admit another procession, we should be led to admit
@@ -216,7 +216,7 @@ its concept are the same; so, although in God the will and the intellect are the
 as love requires by its very nature that it proceed only from the concept of the intellect, there is a
 distinction of order between the procession of love and the procession of the Word in God.
 
-<span class="atom-split" data-atom="006" data-title="Whether the procession of love in God is generation?" data-chapter="Whether the procession of love in God is generation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the procession of love in God is generation?" data-chapter="Whether the procession of love in God is generation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the procession of love in God is generation. For what proceeds
 by way of likeness of nature among living things is said to be generated and born. But what proceeds
@@ -266,7 +266,7 @@ generation is the only principle of communication of nature, procession in God h
 special name, except that of generation. Hence the procession which is not generation has remained
 without a special name; but it can be called spiration, as it is the procession of the Spirit.
 
-<span class="atom-split" data-atom="007" data-title="Whether there are more than two processions in God?" data-chapter="Whether there are more than two processions in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether there are more than two processions in God?" data-chapter="Whether there are more than two processions in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are more than two processions in God. As knowledge
 and will are attributed to God, so is power. Therefore, if two processions exist in God, of intellect
@@ -305,7 +305,7 @@ things by one simple act; and by one act also He wills all things. Hence there c
 a procession of Word from Word, nor of Love from Love: for there is in Him only one perfect
 Word, and one perfect Love; thereby being manifested His perfect fecundity.
 
-<span class="atom-split" data-atom="008" data-title="THE DIVINE RELATIONS (FOUR ARTICLES)" data-chapter="THE DIVINE RELATIONS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="THE DIVINE RELATIONS (FOUR ARTICLES)" data-chapter="THE DIVINE RELATIONS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 The divine relations are next to be considered, in four points of inquiry:
 (1) Whether there are real relations in God?
@@ -313,7 +313,7 @@ The divine relations are next to be considered, in four points of inquiry:
 (3) Whether in God there can be several relations distinct from each other?
 (4) The number of these relations.
 
-<span class="atom-split" data-atom="009" data-title="Whether there are real relations in God?" data-chapter="Whether there are real relations in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether there are real relations in God?" data-chapter="Whether there are real relations in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are no real relations in God. For Boethius says (De Trin.
 iv), "All possible predicaments used as regards the Godhead refer to the substance; for nothing can
@@ -386,7 +386,7 @@ things, and are really related to that which proceeds from them intelligibly; as
 related to that which proceeds from it corporeally. Thus paternity and filiation are real relations in
 God.
 
-<span class="atom-split" data-atom="010" data-title="Whether relation in God is the same as His essence?" data-chapter="Whether relation in God is the same as His essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether relation in God is the same as His essence?" data-chapter="Whether relation in God is the same as His essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the divine relation is not the same as the divine essence. For
 [Augustine](/figures/augustine) says (De Trin. v) that "not all that is said of God is said of His substance, for we say
@@ -460,7 +460,7 @@ included in any name, it does not follow, if a relative term or any other name a
 something imperfect, that the divine essence is in any way imperfect; for the divine essence
 comprehends within itself the perfection of every genus (Q[4], A[2]).
 
-<span class="atom-split" data-atom="011" data-title="Whether the relations in God are really distinguished from each other?" data-chapter="Whether the relations in God are really distinguished from each other?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the relations in God are really distinguished from each other?" data-chapter="Whether the relations in God are really distinguished from each other?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the divine relations are not really distinguished from each
 other. For things which are identified with the same, are identified with each other. But every
@@ -504,7 +504,7 @@ Reply to Objection 3: Although relations, properly speaking, do not arise or pro
 each other, nevertheless they are considered as opposed according to the procession of one from
 another.
 
-<span class="atom-split" data-atom="012" data-title="Whether in God there are only four real relations---paternity, filiation, spiration, and procession?" data-chapter="Whether in God there are only four real relations---paternity, filiation, spiration, and procession?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether in God there are only four real relations---paternity, filiation, spiration, and procession?" data-chapter="Whether in God there are only four real relations---paternity, filiation, spiration, and procession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in God there are not only four real relations---paternity, filiation,
 spiration and procession. For it must be observed that in God there exist the relations of the intelligent
@@ -575,7 +575,7 @@ nevertheless the mutual relations are not the same. Hence, we cannot conclude th
 the father to the son is the same as that of the son to the father; but we could conclude this of
 something absolute, if there were such between them.
 
-<span class="atom-split" data-atom="013" data-title="THE DIVINE PERSONS (FOUR ARTICLES)" data-chapter="THE DIVINE PERSONS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="THE DIVINE PERSONS (FOUR ARTICLES)" data-chapter="THE DIVINE PERSONS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having premised what have appeared necessary notions concerning the processions and the
 relations, we must now approach the subject of the persons.
@@ -668,7 +668,7 @@ in a separate state, yet since it ever retains its nature of unibility, it canno
 substance, which is the hypostasis or first substance, as neither can the hand nor any other part of
 man; thus neither the definition nor the name of person belongs to it.
 
-<span class="atom-split" data-atom="014" data-title="Whether \&quot;person\&quot; is the same as hypostasis, subsistence, and essence?" data-chapter="Whether \&quot;person\&quot; is the same as hypostasis, subsistence, and essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether \&quot;person\&quot; is the same as hypostasis, subsistence, and essence?" data-chapter="Whether \&quot;person\&quot; is the same as hypostasis, subsistence, and essence?" data-kind="atom" data-srclang="en"></span>
 
 # Whether "person" is the same as hypostasis, subsistence, and essence?
 
@@ -745,7 +745,7 @@ to the things subsisting, but gives actual existence to the matter and makes it 
 On this account, therefore, he ascribes hypostasis to matter, and {ousiosis}, or subsistence, to the
 form, because the matter is the principle of substanding, and form is the principle of subsisting.
 
-<span class="atom-split" data-atom="015" data-title="Whether the word \&quot;person\&quot; should be said of God?" data-chapter="Whether the word \&quot;person\&quot; should be said of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the word \&quot;person\&quot; should be said of God?" data-chapter="Whether the word \&quot;person\&quot; should be said of God?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the word "person" should be said of God?
 
@@ -821,7 +821,7 @@ self-subsistence. There are some, however, who say that the definition of Boethi
 Richard of St. Victor amends this definition by adding that "Person" in God is "the incommunicable
 existence of the divine nature."
 
-<span class="atom-split" data-atom="016" data-title="Whether this word \&quot;person\&quot; signifies relation?" data-chapter="Whether this word \&quot;person\&quot; signifies relation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether this word \&quot;person\&quot; signifies relation?" data-chapter="Whether this word \&quot;person\&quot; signifies relation?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this word "person" signifies relation?
 
@@ -912,7 +912,7 @@ but not in that of an angelic or of a human person, the word "person" is used in
 Though neither is it applied univocally, since nothing can be said univocally of God and creatures
 (Q[13], A[5]).
 
-<span class="atom-split" data-atom="017" data-title="THE PLURALITY OF PERSONS IN GOD (FOUR ARTICLES)" data-chapter="THE PLURALITY OF PERSONS IN GOD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="THE PLURALITY OF PERSONS IN GOD (FOUR ARTICLES)" data-chapter="THE PLURALITY OF PERSONS IN GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We are now led to consider the plurality of the persons: about which there are four points of
 inquiry:
@@ -921,7 +921,7 @@ inquiry:
 (3) What the numeral terms signify in God?
 (4) The community of the term "person."
 
-<span class="atom-split" data-atom="018" data-title="Whether there are several persons in God?" data-chapter="Whether there are several persons in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether there are several persons in God?" data-chapter="Whether there are several persons in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not several persons in God. For person is "the
 individual substance of a rational nature." If then there are several persons in God, there must be
@@ -976,7 +976,7 @@ in that sense as existing in creatures, one is part of two, and two of three, as
 men, and two of three; but this does not apply to God, because the Father is of the same magnitude
 as the whole Trinity, as we shall show further on (Q[42], AA[1], 4).
 
-<span class="atom-split" data-atom="019" data-title="Whether there are more than three persons in God?" data-chapter="Whether there are more than three persons in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether there are more than three persons in God?" data-chapter="Whether there are more than three persons in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are more than three persons in God. For the plurality of
 persons in God arises from the plurality of the relative properties as stated above (A[1]). But there
@@ -1059,7 +1059,7 @@ only, is measured by one. But when we speak of a number of things as applied to 
 God, the notion of measure has no place, because the magnitude of the three persons is the same
 (Q[42], AA[1],4), and the same is not measured by the same.
 
-<span class="atom-split" data-atom="020" data-title="Whether the numeral terms denote anything real in God?" data-chapter="Whether the numeral terms denote anything real in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether the numeral terms denote anything real in God?" data-chapter="Whether the numeral terms denote anything real in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the numeral terms denote something real in God. For the divine
 unity is the divine essence. But every number is unity repeated. Therefore every numeral term in
@@ -1131,7 +1131,7 @@ point advanced. Although the idea of solitude is excluded by plurality, and the 
 unity, it does not follow that these terms express this signification alone. For blackness is excluded
 by whiteness; nevertheless, the term whiteness does not signify the mere exclusion of blackness.
 
-<span class="atom-split" data-atom="021" data-title="Whether this term \&quot;person\&quot; can be common to the three persons?" data-chapter="Whether this term \&quot;person\&quot; can be common to the three persons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether this term \&quot;person\&quot; can be common to the three persons?" data-chapter="Whether this term \&quot;person\&quot; can be common to the three persons?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this term "person" can be common to the three persons?
 
@@ -1186,7 +1186,7 @@ affairs is the community of person the same as community of genus or species; an
 divine persons have one being; whereas genus and species and every other universal are predicated
 of many which differ in being.
 
-<span class="atom-split" data-atom="022" data-title="OF WHAT BELONGS TO THE UNITY OR PLURALITY IN GOD (FOUR ARTICLES)" data-chapter="OF WHAT BELONGS TO THE UNITY OR PLURALITY IN GOD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="OF WHAT BELONGS TO THE UNITY OR PLURALITY IN GOD (FOUR ARTICLES)" data-chapter="OF WHAT BELONGS TO THE UNITY OR PLURALITY IN GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider what belongs to the unity or plurality in God; which gives rise to four points
 of inquiry:
@@ -1196,7 +1196,7 @@ of inquiry:
 name in God?
 (4) Whether it can be joined to a personal term?
 
-<span class="atom-split" data-atom="023" data-title="Whether there is trinity in God?" data-chapter="Whether there is trinity in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether there is trinity in God?" data-chapter="Whether there is trinity in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem there is not trinity in God. For every name in God signifies substance
 or relation. But this name "Trinity" does not signify the substance; otherwise it would be predicated
@@ -1254,7 +1254,7 @@ signify the multiplication of that number by itself; since the word trine import
 follows that, if the Trinity be trine, there would be three "supposita" of the Trinity; as when we say,
 "God is trine," it follows that there are three "supposita" of the Godhead.
 
-<span class="atom-split" data-atom="024" data-title="Whether the Son is other than the Father?" data-chapter="Whether the Son is other than the Father?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the Son is other than the Father?" data-chapter="Whether the Son is other than the Father?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son is not other than the Father. For "other" is a relative
 term implying diversity of substance. If, then, the Son is other than the Father, He must be different
@@ -1336,7 +1336,7 @@ So, because in God distinction is by the persons, and not by the essence, we say
 other than the Son, but not something else; while conversely we say that they are one thing, but
 not one person.
 
-<span class="atom-split" data-atom="025" data-title="Whether the exclusive word \&quot;alone\&quot; should be added to the essential term in God?" data-chapter="Whether the exclusive word \&quot;alone\&quot; should be added to the essential term in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the exclusive word \&quot;alone\&quot; should be added to the essential term in God?" data-chapter="Whether the exclusive word \&quot;alone\&quot; should be added to the essential term in God?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the exclusive word "alone" should be added to the essential term in God?
 
@@ -1405,7 +1405,7 @@ that what is said exclusively of that term cannot be said exclusively of an indi
 that term: for instance, from the premiss, "Man alone is a mortal rational animal," we cannot
 conclude, "therefore Socrates alone is such."
 
-<span class="atom-split" data-atom="026" data-title="Whether an exclusive diction can be joined to the personal term?" data-chapter="Whether an exclusive diction can be joined to the personal term?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether an exclusive diction can be joined to the personal term?" data-chapter="Whether an exclusive diction can be joined to the personal term?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an exclusive diction can be joined to the personal term, even
 though the predicate is common. For our Lord speaking to the Father, said: "That they may know
@@ -1462,7 +1462,7 @@ the Son differs in "suppositum" from the Father; and so there is no parity.
 Reply to Objection 4: We do not say absolutely that the Son alone is Most High; but that He
 alone is Most High "with the Holy Ghost, in the glory of God the Father."
 
-<span class="atom-split" data-atom="027" data-title="THE KNOWLEDGE OF THE DIVINE PERSONS (FOUR ARTICLES)" data-chapter="THE KNOWLEDGE OF THE DIVINE PERSONS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="THE KNOWLEDGE OF THE DIVINE PERSONS (FOUR ARTICLES)" data-chapter="THE KNOWLEDGE OF THE DIVINE PERSONS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We proceed to inquire concerning the knowledge of the divine persons; and this involves four
 points of inquiry:
@@ -1471,7 +1471,7 @@ points of inquiry:
 (3) The number of the notions?
 (4) Whether we may lawfully have various contrary opinions of these notions?
 
-<span class="atom-split" data-atom="028" data-title="Whether the trinity of the divine persons can be known by natural reason? (1/2)" data-chapter="Whether the trinity of the divine persons can be known by natural reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether the trinity of the divine persons can be known by natural reason? (1/2)" data-chapter="Whether the trinity of the divine persons can be known by natural reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the trinity of the divine persons can be known by natural
 reason. For philosophers came to the knowledge of God not otherwise than by natural reason. Now
@@ -1553,7 +1553,7 @@ Arius, who in this followed the Platonists. When Trismegistus says, "Monad begot
 this does not refer to the generation of the Son, or to the procession of the Holy Ghost, but to the
 production of the world. For one God produced one world by reason of His love for Himself.
 
-<span class="atom-split" data-atom="029" data-title="Whether the trinity of the divine persons can be known by natural reason? (2/2)" data-chapter="Whether the trinity of the divine persons can be known by natural reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether the trinity of the divine persons can be known by natural reason? (2/2)" data-chapter="Whether the trinity of the divine persons can be known by natural reason?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Reason may be employed in two ways to establish a point: firstly, for
 the purpose of furnishing sufficient proof of some principle, as in natural science, where sufficient
@@ -1587,7 +1587,7 @@ light that it was good," to show proof of the divine love. The same is also foun
 of creation. In another way, and chiefly, that we may think rightly concerning the salvation of the
 human race, accomplished by the Incarnate Son, and by the gift of the Holy Ghost.
 
-<span class="atom-split" data-atom="030" data-title="Whether there are notions in God?" data-chapter="Whether there are notions in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether there are notions in God?" data-chapter="Whether there are notions in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in God there are no notions. For Dionysius says (Div. Nom.
 i): "We must not dare to say anything of God but what is taught to us by the Holy [Scripture](/concepts/revelation)." But
@@ -1668,7 +1668,7 @@ be predicated of the notions; for we can say that paternity is God, and that pat
 Reply to Objection 3: Although the persons are simple, still without prejudice to their simplicity,
 the proper ideas of the persons can be abstractedly signified, as above explained.
 
-<span class="atom-split" data-atom="031" data-title="Whether there are five notions?" data-chapter="Whether there are five notions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether there are five notions?" data-chapter="Whether there are five notions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not five notions. For the notions proper to the persons
 are the relations whereby they are distinguished from each other. But the relations in God are only
@@ -1740,7 +1740,7 @@ derived from the Father; as the Father and the Son agree in one special mode of 
 Ghost. But the principle on which a notion is based must be something special; thus no parity of
 reasoning exists.
 
-<span class="atom-split" data-atom="032" data-title="Whether it is lawful to have various contrary opinions of notions?" data-chapter="Whether it is lawful to have various contrary opinions of notions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether it is lawful to have various contrary opinions of notions?" data-chapter="Whether it is lawful to have various contrary opinions of notions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not lawful to have various contrary opinions of the notions.
 For [Augustine](/figures/augustine) says (De Trin. i, 3): "No error is more dangerous than any as regards the Trinity":
@@ -1770,7 +1770,7 @@ opinion of the notions, knowing or thinking that consequences against the faith 
 would lapse into heresy.
 By what has been said all the objections may be solved.
 
-<span class="atom-split" data-atom="033" data-title="OF THE PERSON OF THE FATHER (FOUR ARTICLES)" data-chapter="OF THE PERSON OF THE FATHER (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="OF THE PERSON OF THE FATHER (FOUR ARTICLES)" data-chapter="OF THE PERSON OF THE FATHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the persons singly; and first, the Person of the Father, concerning Whom
 there are four points of inquiry:
@@ -1779,7 +1779,7 @@ there are four points of inquiry:
 (3) Whether "Father" in God is said personally before it is said essentially?
 (4) Whether it belongs to the Father alone to be unbegotten?
 
-<span class="atom-split" data-atom="034" data-title="Whether it belongs to the Father to be the principle?" data-chapter="Whether it belongs to the Father to be the principle?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether it belongs to the Father to be the principle?" data-chapter="Whether it belongs to the Father to be the principle?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Father cannot be called the principle of the Son, or of the
 Holy Ghost. For principle and cause are the same, according to the Philosopher (Metaph. iv). But
@@ -1824,7 +1824,7 @@ Reply to Objection 3: Although this word principle, as regards its derivation, s
 from priority, still it does not signify priority, but origin. For what a term signifies, and the reason
 why it was imposed, are not the same thing, as stated above (Q[13], A[8]).
 
-<span class="atom-split" data-atom="035" data-title="Whether this name \&quot;Father\&quot; is properly the name of a divine person?" data-chapter="Whether this name \&quot;Father\&quot; is properly the name of a divine person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether this name \&quot;Father\&quot; is properly the name of a divine person?" data-chapter="Whether this name \&quot;Father\&quot; is properly the name of a divine person?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this name "Father" is properly the name of a divine person?
 
@@ -1885,7 +1885,7 @@ numerically, but only specifically, the same, shows that generation, and consequ
 applied to God before creatures. Hence the very fact that in God a distinction exists of the Begotten
 from the Begetter as regards relation only, belongs to the truth of the divine generation and paternity.
 
-<span class="atom-split" data-atom="036" data-title="Whether this name \&quot;Father\&quot; is applied to God, firstly as a personal name?" data-chapter="Whether this name \&quot;Father\&quot; is applied to God, firstly as a personal name?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether this name \&quot;Father\&quot; is applied to God, firstly as a personal name?" data-chapter="Whether this name \&quot;Father\&quot; is applied to God, firstly as a personal name?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this name "Father" is applied to God, firstly as a personal name?
 
@@ -1954,7 +1954,7 @@ also declares (Hom. xv De Fide); hence He is called the only begotten (Jn. 1:18)
 Who is in the bosom of the Father, He hath declared unto us."
 From this appears the Reply to the Third Objection.
 
-<span class="atom-split" data-atom="037" data-title="Whether it is proper to the Father to be unbegotten?" data-chapter="Whether it is proper to the Father to be unbegotten?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether it is proper to the Father to be unbegotten?" data-chapter="Whether it is proper to the Father to be unbegotten?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not proper to the Father to be unbegotten. For every
 property supposes something in that of which it is the property. But "unbegotten" supposes nothing
@@ -2052,7 +2052,7 @@ generation, it follows, as a consequence, that He does not proceed by the proces
 Ghost, because the Holy Ghost is not the principle of generation, but proceeds from the person
 begotten.
 
-<span class="atom-split" data-atom="038" data-title="OF THE PERSON OF THE SON (THREE ARTICLES)" data-chapter="OF THE PERSON OF THE SON (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="OF THE PERSON OF THE SON (THREE ARTICLES)" data-chapter="OF THE PERSON OF THE SON (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the person of the Son. Three [names](/positions/nominalism) are attributed to the Son---namely, "Son,"
 "Word," and "Image." The idea of Son is gathered from the idea of Father. Hence it remains for us
@@ -2062,7 +2062,7 @@ Concerning Word there are three points of inquiry:
 (2) Whether it is the proper name of the Son?
 (3) Whether in the name of Word is expressed relation to creatures?
 
-<span class="atom-split" data-atom="039" data-title="Whether Word in God is a personal name? (1/2)" data-chapter="Whether Word in God is a personal name?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether Word in God is a personal name? (1/2)" data-chapter="Whether Word in God is a personal name?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Word in God is not a personal name. For personal [names](/positions/nominalism) are
 applied to God in a proper sense, as Father and Son. But Word is applied to God metaphorically,
@@ -2151,7 +2151,7 @@ in the search after the truth, and this has no place in God. But when the intell
 of truth, it does not think, but perfectly contemplates the truth. Hence Anselm (Monol. lx) takes
 "thought" in an improper sense for "contemplation."
 
-<span class="atom-split" data-atom="040" data-title="Whether Word in God is a personal name? (2/2)" data-chapter="Whether Word in God is a personal name?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether Word in God is a personal name? (2/2)" data-chapter="Whether Word in God is a personal name?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: As, properly speaking, Word in God is said personally, and not essentially,
 so likewise is to "speak." Hence, as the Word is not common to the Father, Son and Holy Ghost,
@@ -2181,7 +2181,7 @@ effected by word is called word. For thus creatures are said to do the word of G
 any effect, whereto they are ordained from the word conceived of the divine wisdom; as anyone is
 said to do the word of the king when he does the work to which he is appointed by the king's word.
 
-<span class="atom-split" data-atom="041" data-title="Whether \&quot;Word\&quot; is the Son's proper name?" data-chapter="Whether \&quot;Word\&quot; is the Son's proper name?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether \&quot;Word\&quot; is the Son's proper name?" data-chapter="Whether \&quot;Word\&quot; is the Son's proper name?" data-kind="atom" data-srclang="en"></span>
 
 # Whether "Word" is the Son's proper name?
 
@@ -2247,7 +2247,7 @@ and figuratively in applying Word to the Holy Ghost; in the sense perhaps that e
 makes a person known may be called his word, and so in that way the Holy Ghost may be called
 the Son's Word, because He manifests the Son.
 
-<span class="atom-split" data-atom="042" data-title="Whether the name \&quot;Word\&quot; imports relation to creatures?" data-chapter="Whether the name \&quot;Word\&quot; imports relation to creatures?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether the name \&quot;Word\&quot; imports relation to creatures?" data-chapter="Whether the name \&quot;Word\&quot; imports relation to creatures?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the name "Word" imports relation to creatures?
 
@@ -2316,13 +2316,13 @@ the same; because the Word of God contains no less than does the knowledge of Go
 says (De Trin. xv, 14). Nevertheless the Word is expressive and operative of beings, but is expressive
 and manifestive of non-beings.
 
-<span class="atom-split" data-atom="043" data-title="OF THE IMAGE (TWO ARTICLES)" data-chapter="OF THE IMAGE (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="OF THE IMAGE (TWO ARTICLES)" data-chapter="OF THE IMAGE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next inquire concerning the image: about which there are two points of inquiry:
 (1) Whether Image in God is said personally?
 (2) Whether this name belongs to the Son alone?
 
-<span class="atom-split" data-atom="044" data-title="Whether image in God is said personally?" data-chapter="Whether image in God is said personally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether image in God is said personally?" data-chapter="Whether image in God is said personally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that image is not said personally of God. For [Augustine](/figures/augustine) (Fulgentius,
 De Fide ad Petrum i) says, "The Godhead of the Holy Trinity and the Image whereunto man is
@@ -2361,7 +2361,7 @@ as that which is assimilated to anything is called its form, inasmuch as it has 
 
 Reply to Objection 3: Imitation in God does not signify posteriority, but only assimilation.
 
-<span class="atom-split" data-atom="045" data-title="Whether the name of Image is proper to the Son?" data-chapter="Whether the name of Image is proper to the Son?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether the name of Image is proper to the Son?" data-chapter="Whether the name of Image is proper to the Son?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the name of Image is not proper to the Son; because, as
 Damascene says (De Fide Orth. i, 18), "The Holy Ghost is the Image of the Son." Therefore Image
@@ -2418,7 +2418,7 @@ not simply called the image, but "to the image," whereby is expressed a certain 
 tendency to perfection. But it cannot be said that the Son of God is "to the image," because He is
 the perfect Image of the Father.
 
-<span class="atom-split" data-atom="046" data-title="OF THE PERSON OF THE HOLY GHOST (FOUR ARTICLES)" data-chapter="OF THE PERSON OF THE HOLY GHOST (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="OF THE PERSON OF THE HOLY GHOST (FOUR ARTICLES)" data-chapter="OF THE PERSON OF THE HOLY GHOST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We proceed to treat of what belongs to the person of the Holy Ghost, Who is called not only
 the Holy Ghost, but also the Love and Gift of God. Concerning the name "Holy Ghost" there are
@@ -2429,7 +2429,7 @@ Son?
 (3) Whether He proceeds from the Father through the Son?
 (4) Whether the Father and the Son are one principle of the Holy Ghost?
 
-<span class="atom-split" data-atom="047" data-title="Whether this name \&quot;Holy Ghost\&quot; is the proper name of one divine person?" data-chapter="Whether this name \&quot;Holy Ghost\&quot; is the proper name of one divine person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether this name \&quot;Holy Ghost\&quot; is the proper name of one divine person?" data-chapter="Whether this name \&quot;Holy Ghost\&quot; is the proper name of one divine person?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this name "Holy Ghost" is the proper name of one divine person?
 
@@ -2501,7 +2501,7 @@ principle; and likewise in the name of Spirit inasmuch as it implies a moving po
 creature does it belong to be a principle as regards a divine person; but rather the reverse. Therefore
 we can say "our Father," and "our Spirit"; but we cannot say "our Son."
 
-<span class="atom-split" data-atom="048" data-title="Whether the Holy Ghost proceeds from the Son? (1/2)" data-chapter="Whether the Holy Ghost proceeds from the Son?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether the Holy Ghost proceeds from the Son? (1/2)" data-chapter="Whether the Holy Ghost proceeds from the Son?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Holy Ghost does not proceed from the Son. For as Dionysius
 says (Div. Nom. i): "We must not dare to say anything concerning the substantial Divinity except
@@ -2588,7 +2588,7 @@ any kind of origin; as when we say that a line proceeds from a point, a ray from
 from a source, and likewise in everything else. Hence, granted that the Holy Ghost originates in
 any way from the Son, we can conclude that the Holy Ghost proceeds from the Son.
 
-<span class="atom-split" data-atom="049" data-title="Whether the Holy Ghost proceeds from the Son? (2/2)" data-chapter="Whether the Holy Ghost proceeds from the Son?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether the Holy Ghost proceeds from the Son? (2/2)" data-chapter="Whether the Holy Ghost proceeds from the Son?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: We ought not to say about God anything which is not found in Holy
 [Scripture](/concepts/revelation) either explicitly or implicitly. But although we do not find it verbally expressed in Holy
@@ -2648,7 +2648,7 @@ the fact that the Son is only from the Father, whereas the Holy Ghost is from th
 Son; for otherwise the processions would not be distinguished from each other, as explained above,
 and in Q[27].
 
-<span class="atom-split" data-atom="050" data-title="Whether the Holy Ghost proceeds from the Father through the Son?" data-chapter="Whether the Holy Ghost proceeds from the Father through the Son?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether the Holy Ghost proceeds from the Father through the Son?" data-chapter="Whether the Holy Ghost proceeds from the Father through the Son?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Holy Ghost does not proceed from the Father through the
 Son. For whatever proceeds from one through another, does not proceed immediately. Therefore,
@@ -2727,7 +2727,7 @@ through the king, forasmuch as the power of the king gives the bailiff's action 
 is no order of power between Father and Son, but only order of 'supposita'; and hence we say that
 the Father spirates through the Son; and not conversely.
 
-<span class="atom-split" data-atom="051" data-title="Whether the Father and the Son are one principle of the Holy Ghost?" data-chapter="Whether the Father and the Son are one principle of the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether the Father and the Son are one principle of the Holy Ghost?" data-chapter="Whether the Father and the Son are one principle of the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Father and the Son are not one principle of the Holy Ghost.
 For the Holy Ghost does not proceed from the Father and the Son as they are one; not as they are
@@ -2833,13 +2833,13 @@ derive their number from the "supposita" but substantives from themselves, accor
 signified. As to what Hilary says, that "the Holy ghost is from the Father and the Son as His authors,"
 this is to be explained in the sense that the substantive here stands for the adjective.
 
-<span class="atom-split" data-atom="052" data-title="OF THE NAME OF THE HOLY GHOST---LOVE (TWO ARTICLES)" data-chapter="OF THE NAME OF THE HOLY GHOST---LOVE (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="OF THE NAME OF THE HOLY GHOST---LOVE (TWO ARTICLES)" data-chapter="OF THE NAME OF THE HOLY GHOST---LOVE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now inquire concerning the name "Love," on which arise two points of inquiry:
 (1) Whether it is the proper name of the Holy Ghost?
 (2) Whether the Father and the Son love each other by the Holy Ghost?
 
-<span class="atom-split" data-atom="053" data-title="Whether \&quot;Love\&quot; is the proper name of the Holy Ghost?" data-chapter="Whether \&quot;Love\&quot; is the proper name of the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether \&quot;Love\&quot; is the proper name of the Holy Ghost?" data-chapter="Whether \&quot;Love\&quot; is the proper name of the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 # Whether "Love" is the proper name of the Holy Ghost?
 
@@ -2928,7 +2928,7 @@ Holy Ghost loves, taking Love as an essential term, still it does not belong to 
 which is to take love as a notional term; because He loves essentially as love proceeding; but not
 as the one whence love proceeds.
 
-<span class="atom-split" data-atom="054" data-title="Whether the Father and the Son love each other by the Holy Ghost?" data-chapter="Whether the Father and the Son love each other by the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the Father and the Son love each other by the Holy Ghost?" data-chapter="Whether the Father and the Son love each other by the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Father and the Son do not love each other by the Holy
 Ghost. For [Augustine](/figures/augustine) (De Trin. vii, 1) proves that the Father is not wise by the Wisdom begotten.
@@ -3018,14 +3018,14 @@ to the creature is implied both in the Word and in the proceeding Love, as it we
 way, inasmuch as the divine truth and goodness are a principle of understanding and loving all
 creatures.
 
-<span class="atom-split" data-atom="055" data-title="OF THE NAME OF THE HOLY GHOST, AS GIFT (TWO ARTICLES)" data-chapter="OF THE NAME OF THE HOLY GHOST, AS GIFT (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="OF THE NAME OF THE HOLY GHOST, AS GIFT (TWO ARTICLES)" data-chapter="OF THE NAME OF THE HOLY GHOST, AS GIFT (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 There now follows the consideration of the Gift; concerning which there are two points of
 inquiry:
 (1) Whether "Gift" can be a personal name?
 (2) Whether it is the proper name of the Holy Ghost?
 
-<span class="atom-split" data-atom="056" data-title="Whether \&quot;Gift\&quot; is a personal name?" data-chapter="Whether \&quot;Gift\&quot; is a personal name?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether \&quot;Gift\&quot; is a personal name?" data-chapter="Whether \&quot;Gift\&quot; is a personal name?" data-kind="atom" data-srclang="en"></span>
 
 # Whether "Gift" is a personal name?
 
@@ -3091,7 +3091,7 @@ does it follow that it is an essential name because it imports relation to the c
 includes something essential in its meaning; as the essence is included in the idea of person, as
 stated above (Q[34], A[3]).
 
-<span class="atom-split" data-atom="057" data-title="Whether \&quot;Gift\&quot; is the proper name of the Holy Ghost?" data-chapter="Whether \&quot;Gift\&quot; is the proper name of the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether \&quot;Gift\&quot; is the proper name of the Holy Ghost?" data-chapter="Whether \&quot;Gift\&quot; is the proper name of the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 # Whether "Gift" is the proper name of the Holy Ghost?
 
@@ -3137,7 +3137,7 @@ it is his to whom it is given. Therefore, because "Gift" does not import the act
 be called a gift of man, but the Gift of God giving. When, however, it has been given, then it is the
 spirit of man, or a gift bestowed on man.
 
-<span class="atom-split" data-atom="058" data-title="OF THE PERSONS IN RELATION TO THE ESSENCE (EIGHT ARTICLES)" data-chapter="OF THE PERSONS IN RELATION TO THE ESSENCE (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="OF THE PERSONS IN RELATION TO THE ESSENCE (EIGHT ARTICLES)" data-chapter="OF THE PERSONS IN RELATION TO THE ESSENCE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Those things considered which belong to the divine persons absolutely, we next treat of what
 concerns the person in reference to the essence, to the properties, and to the notional acts; and of
@@ -3153,7 +3153,7 @@ taken in a concrete sense?
 (7) Whether essential attributes can be appropriated to the persons?
 (8) Which attributes should be appropriated to each person?
 
-<span class="atom-split" data-atom="059" data-title="Whether in God the essence is the same as the person?" data-chapter="Whether in God the essence is the same as the person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether in God the essence is the same as the person?" data-chapter="Whether in God the essence is the same as the person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in God the essence is not the same as person. For whenever
 essence is the same as person or "suppositum," there can be only one "suppositum" of one nature,
@@ -3203,7 +3203,7 @@ subject of the specific nature, it follows that individuals are called "subjects
 "hypostases." So the divine persons are named "supposita" or "hypostases," but not as if there really
 existed any real "supposition" or "subjection."
 
-<span class="atom-split" data-atom="060" data-title="Whether it must be said that the three persons are of one essence?" data-chapter="Whether it must be said that the three persons are of one essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether it must be said that the three persons are of one essence?" data-chapter="Whether it must be said that the three persons are of one essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem not right to say that the three persons are of one essence. For Hilary
 says (De Synod.) that the Father, Son and Holy Ghost "are indeed three by substance, but one in
@@ -3287,7 +3287,7 @@ we had to do away with them, just because some do not think them holy. So if som
 result from division, or from union or from community of possession, but from one nature being
 proper to both Father and Son."
 
-<span class="atom-split" data-atom="061" data-title="Whether essential names should be predicated in the singular of the three persons?" data-chapter="Whether essential names should be predicated in the singular of the three persons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether essential names should be predicated in the singular of the three persons?" data-chapter="Whether essential names should be predicated in the singular of the three persons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that essential [names](/positions/nominalism), as the name "God," should not be predicated
 in the singular of the three persons, but in the plural. For as "man" signifies "one that has humanity,"
@@ -3354,7 +3354,7 @@ Reply to Objection 4: The form signified by the word "person" is not essence or 
 personality. So, as there are three personalities---that is, three personal properties in the Father, Son
 and Holy Ghost---it is predicated of the three, not in the singular, but in the plural.
 
-<span class="atom-split" data-atom="062" data-title="Whether the concrete essential names can stand for the person?" data-chapter="Whether the concrete essential names can stand for the person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether the concrete essential names can stand for the person?" data-chapter="Whether the concrete essential names can stand for the person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the concrete, essential [names](/positions/nominalism) cannot stand for the person, so
 that we can truly say "God begot God." For, as the logicians say, "a singular term signifies what it
@@ -3453,7 +3453,7 @@ person of the Son; and in the negative sense is that "to be God the Father," is 
 the Son's divinity as well as from His personality. This, however, appears to be irrational; since,
 according to the Philosopher (Peri Herm. ii), what is open to affirmation, is open also to negation.
 
-<span class="atom-split" data-atom="063" data-title="Whether abstract essential names can stand for the person?" data-chapter="Whether abstract essential names can stand for the person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether abstract essential names can stand for the person?" data-chapter="Whether abstract essential names can stand for the person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that abstract essential [names](/positions/nominalism) can stand for the person, so that this
 proposition is true, "Essence begets essence." For [Augustine](/figures/augustine) says (De Trin. vii, i, 2): "The Father
@@ -3544,7 +3544,7 @@ be called the ruler of the people without being ruler of himself. We may also sa
 principle of the whole Godhead; not as generating or spirating it, but as communicating it by
 generation and spiration.
 
-<span class="atom-split" data-atom="064" data-title="Whether the persons can be predicated of the essential terms?" data-chapter="Whether the persons can be predicated of the essential terms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether the persons can be predicated of the essential terms?" data-chapter="Whether the persons can be predicated of the essential terms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the persons cannot be predicated of the concrete essential
 [names](/positions/nominalism); so that we can say for instance, "God is three persons"; or "God is the Trinity." For it is
@@ -3586,7 +3586,7 @@ is one of identity, and not of the lower in regard to a higher species: because 
 universal and singular. Hence, as this proposition, "The Father is God" is of itself true, so this
 proposition "God is the Father" is true of itself, and by no means accidentally.
 
-<span class="atom-split" data-atom="065" data-title="Whether the essential names should be appropriated to the persons?" data-chapter="Whether the essential names should be appropriated to the persons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether the essential names should be appropriated to the persons?" data-chapter="Whether the essential names should be appropriated to the persons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the essential [names](/positions/nominalism) should not be appropriated to the persons.
 For whatever might verge on error in faith should be avoided in the treatment of divine things; for,
@@ -3644,7 +3644,7 @@ according to our way of understanding; nevertheless, so far as it is appropriate
 to prevent the personal property from being prior to that which is appropriated. Thus color is
 posterior to body considered as body, but is naturally prior to "white body," considered as white.
 
-<span class="atom-split" data-atom="066" data-title="Whether the essential attributes are appropriated to the persons in a fitting manner by the holy doctors? (1/2)" data-chapter="Whether the essential attributes are appropriated to the persons in a fitting manner by the holy doctors?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether the essential attributes are appropriated to the persons in a fitting manner by the holy doctors? (1/2)" data-chapter="Whether the essential attributes are appropriated to the persons in a fitting manner by the holy doctors?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the essential attributes are appropriated to the persons unfittingly
 by the holy doctors. For Hilary says (De Trin. ii): "[Eternity](/positions/eternity) is in the Father, the species in the Image;
@@ -3693,7 +3693,7 @@ said further, "He Who is the Father, and the Son, and the Holy Ghost sent me to 
 a certain person. This, however, is false; because no person is Father, Son and Holy Ghost. Therefore
 it cannot be common to the Trinity, but is proper to the Son.
 
-<span class="atom-split" data-atom="067" data-title="Whether the essential attributes are appropriated to the persons in a fitting manner by the holy doctors? (2/2)" data-chapter="Whether the essential attributes are appropriated to the persons in a fitting manner by the holy doctors?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether the essential attributes are appropriated to the persons in a fitting manner by the holy doctors? (2/2)" data-chapter="Whether the essential attributes are appropriated to the persons in a fitting manner by the holy doctors?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Our intellect, which is led to the knowledge of God from creatures, must consider
 God according to the mode derived from creatures. In considering any creature four points present
@@ -3819,7 +3819,7 @@ points of inquiry:
 (4) Whether the relations, according to our mode of understanding, presuppose the acts of the
 persons, or contrariwise?
 
-<span class="atom-split" data-atom="068" data-title="Whether relation is the same as person?" data-chapter="Whether relation is the same as person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether relation is the same as person?" data-chapter="Whether relation is the same as person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in God relation is not the same as person. For when things are
 identical, if one is multiplied the others are multiplied. But in one person there are several relations;
@@ -3883,7 +3883,7 @@ to a "suppositum." Now, properties are not designated as "supposita," but as for
 And so their mode of signification is against notional participles and verbs being predicated of the
 properties.
 
-<span class="atom-split" data-atom="069" data-title="Whether the persons are distinguished by the relations?" data-chapter="Whether the persons are distinguished by the relations?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether the persons are distinguished by the relations?" data-chapter="Whether the persons are distinguished by the relations?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the persons are not distinguished by the relations. For simple
 things are distinct by themselves. But the persons are supremely simple. Therefore they are
@@ -3959,7 +3959,7 @@ accident; but when the relation is subsistent, it does not presuppose, but bring
 For when it is said that relation is by nature to be towards another, the word "another" signifies the
 correlative which is not prior, but simultaneous in the order of nature.
 
-<span class="atom-split" data-atom="070" data-title="Whether the hypostases remain if the relations are mentally abstracted from the persons?" data-chapter="Whether the hypostases remain if the relations are mentally abstracted from the persons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether the hypostases remain if the relations are mentally abstracted from the persons?" data-chapter="Whether the hypostases remain if the relations are mentally abstracted from the persons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the hypostases remain if the properties or relations are mentally
 abstracted from the persons. For that to which something is added, may be understood when the
@@ -4039,7 +4039,7 @@ not every unbegotten being is the Father. So, if paternity be removed, the hypos
 does not remain in God, as distinguished from the other persons, but only as distinguished from
 creatures; as the Jews understand it.
 
-<span class="atom-split" data-atom="071" data-title="Whether the properties presuppose the notional acts?" data-chapter="Whether the properties presuppose the notional acts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether the properties presuppose the notional acts?" data-chapter="Whether the properties presuppose the notional acts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the notional acts are understood before the properties. For the
 Master of the Sentences says (Sent. i, D, xxvii) that "the Father always is, because He is ever
@@ -4086,7 +4086,7 @@ intelligence, it precedes filiation, even as constituting the person of the Son.
 signifies a proceeding from the person of the Father; wherefore it presupposes the personal property
 of the Father.
 
-<span class="atom-split" data-atom="072" data-title="OF THE PERSONS IN REFERENCE TO THE NOTIONAL ACTS (SIX ARTICLES)" data-chapter="OF THE PERSONS IN REFERENCE TO THE NOTIONAL ACTS (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="OF THE PERSONS IN REFERENCE TO THE NOTIONAL ACTS (SIX ARTICLES)" data-chapter="OF THE PERSONS IN REFERENCE TO THE NOTIONAL ACTS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the persons in reference to the notional acts, concerning which six points of
 inquiry arise:
@@ -4097,7 +4097,7 @@ inquiry arise:
 (5) What this power means?
 (6) Whether several persons can be the term of one notional act?
 
-<span class="atom-split" data-atom="073" data-title="Whether the notional acts are to be attributed to the persons?" data-chapter="Whether the notional acts are to be attributed to the persons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the notional acts are to be attributed to the persons?" data-chapter="Whether the notional acts are to be attributed to the persons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the notional acts are not to be attributed to the persons. For
 Boethius says (De Trin.): "Whatever is predicated of God, of whatever genus it be, becomes the
@@ -4151,7 +4151,7 @@ but action in that sense is not attributed to God. Whence, passions are attribut
 a grammatical standpoint, and in accordance with our manner of speaking, as we attribute "to beget"
 with the Father, and to the Son "to be begotten."
 
-<span class="atom-split" data-atom="074" data-title="Whether the notional acts are voluntary?" data-chapter="Whether the notional acts are voluntary?" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether the notional acts are voluntary?" data-chapter="Whether the notional acts are voluntary?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the notional acts are voluntary. For Hilary says (De Synod.):
 "Not by natural necessity was the Father led to beget the Son."
@@ -4230,7 +4230,7 @@ the means to an end, nor is He subject to compulsion. But a thing is said to be 
 which cannot but be: in this sense it is necessary for God to be; and in the same sense it is necessary
 that the Father beget the Son.
 
-<span class="atom-split" data-atom="075" data-title="Whether the notional acts proceed from something? (1/2)" data-chapter="Whether the notional acts proceed from something?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether the notional acts proceed from something? (1/2)" data-chapter="Whether the notional acts proceed from something?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the notional acts do not proceed from anything. For if the
 Father begets the Son from something, this will be either from Himself or from something else. If
@@ -4320,7 +4320,7 @@ term is added which saves the distinction. But when we say that the three person
 essence, there is nothing expressed to warrant the distinction signified by the preposition, so there
 is no parity of argument.
 
-<span class="atom-split" data-atom="076" data-title="Whether the notional acts proceed from something? (2/2)" data-chapter="Whether the notional acts proceed from something?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether the notional acts proceed from something? (2/2)" data-chapter="Whether the notional acts proceed from something?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: When we say "Wisdom was created," this may be understood not of
 Wisdom which is the Son of God, but of created wisdom given by God to creatures: for it is said,
@@ -4339,7 +4339,7 @@ Scripture (De Synod.). The other passages quoted do not refer to the Holy Ghost,
 spirit, sometimes called wind, sometimes air, sometimes the breath of man, sometimes also the
 soul, or any other invisible substance.
 
-<span class="atom-split" data-atom="077" data-title="Whether in God there is a power in respect of the notional acts?" data-chapter="Whether in God there is a power in respect of the notional acts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether in God there is a power in respect of the notional acts?" data-chapter="Whether in God there is a power in respect of the notional acts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in God there is no power in respect of the notional acts. For
 every kind of power is either active or passive; neither of which can be here applied, there being
@@ -4392,7 +4392,7 @@ actions we cannot ascribe power to God in its proper sense, but only after our w
 and speaking: inasmuch as we designate by different terms the intellect and the act of understanding
 in God, whereas in God the act of understanding is His very essence which has no principle.
 
-<span class="atom-split" data-atom="078" data-title="Whether the power of begetting signifies a relation, and not the essence?" data-chapter="Whether the power of begetting signifies a relation, and not the essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether the power of begetting signifies a relation, and not the essence?" data-chapter="Whether the power of begetting signifies a relation, and not the essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the power of begetting, or of spirating, signifies the relation
 and not the essence. For power signifies a principle, as appears from its definition: for active power
@@ -4452,7 +4452,7 @@ generation indirectly: just as if I were to say, the "essence of the Father." Wh
 the essence, which is signified, the power of begetting is common to the three persons: but in respect
 of the notion that is connoted, it is proper to the person of the Father.
 
-<span class="atom-split" data-atom="079" data-title="Whether several persons can be the term of one notional act?" data-chapter="Whether several persons can be the term of one notional act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether several persons can be the term of one notional act?" data-chapter="Whether several persons can be the term of one notional act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a notional act can be directed to several Persons, so that there
 may be several Persons begotten or spirated in God. For whoever has the power of begetting can
@@ -4506,7 +4506,7 @@ Reply to Objection 3: Divine perfection and the total absence of matter in God r
 there cannot be several Sons in God, as we have explained. Wherefore that there are not several
 Sons is not due to any lack of begetting power in the Father.
 
-<span class="atom-split" data-atom="080" data-title="OF EQUALITY AND LIKENESS AMONG THE DIVINE PERSONS (SIX ARTICLES)" data-chapter="OF EQUALITY AND LIKENESS AMONG THE DIVINE PERSONS (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="OF EQUALITY AND LIKENESS AMONG THE DIVINE PERSONS (SIX ARTICLES)" data-chapter="OF EQUALITY AND LIKENESS AMONG THE DIVINE PERSONS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider the persons as compared to one another: firstly, with regard to equality
 and likeness; secondly, with regard to mission. Concerning the first there are six points of inquiry.
@@ -4517,7 +4517,7 @@ and likeness; secondly, with regard to mission. Concerning the first there are s
 (5) Whether the one divine person is in another?
 (6) Whether they are equal in power?
 
-<span class="atom-split" data-atom="081" data-title="Whether there is equality in God?" data-chapter="Whether there is equality in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether there is equality in God?" data-chapter="Whether there is equality in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that equality is not becoming to the divine persons. For equality
 is in relation to things which are one in quantity as the Philosopher says (Metaph. v, text 20). But
@@ -4605,7 +4605,7 @@ is not a real relation distinct from the personal relations: but in its concept 
 relations which distinguish the persons, and the unity of essence. For this reason the Master says
 (Sent. i, D, xxxi) that in these "it is only the terms that are relative."
 
-<span class="atom-split" data-atom="082" data-title="Whether the person proceeding is co-eternal with His principle, as the Son with the Father?" data-chapter="Whether the person proceeding is co-eternal with His principle, as the Son with the Father?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether the person proceeding is co-eternal with His principle, as the Son with the Father?" data-chapter="Whether the person proceeding is co-eternal with His principle, as the Son with the Father?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the person proceeding is not co-eternal with His principle, as
 the Son with the Father. For Arius gives twelve modes of generation. The first mode is like the
@@ -4685,7 +4685,7 @@ of eternity, we can say that "He is ever being born," as Origen said (Hom. in Jo
 may denote the permanence of eternity, and "born" the perfection of the only Begotten. Thus,
 therefore, neither is the Son imperfect, nor "was there a time when He was not," as Arius said.
 
-<span class="atom-split" data-atom="083" data-title="Whether in the divine persons there exists an order of nature?" data-chapter="Whether in the divine persons there exists an order of nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether in the divine persons there exists an order of nature?" data-chapter="Whether in the divine persons there exists an order of nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that among the divine persons there does not exist an order of
 nature. For whatever exists in God is the essence, or a person, or a notion. But the order of nature
@@ -4731,7 +4731,7 @@ existence of order in the divine Persons according to natural origin.
 Reply to Objection 4: Nature in a certain way implies the idea of a principle, but essence does
 not; and so the order of origin is more correctly called the order of nature than the order of essence.
 
-<span class="atom-split" data-atom="084" data-title="Whether the Son is equal to the Father in greatness?" data-chapter="Whether the Son is equal to the Father in greatness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether the Son is equal to the Father in greatness?" data-chapter="Whether the Son is equal to the Father in greatness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son is not equal to the Father in greatness. For He Himself
 said (Jn. 14:28): "The Father is greater than I"; and the Apostle says (1 Cor. 15:28): "The Son
@@ -4790,7 +4790,7 @@ universal term in God as we have seen above (Q[30], A[4]). Wherefore all the rel
 are not greater than only one; nor are all the persons something greater than only one; because the
 whole perfection of the divine nature exists in each person.
 
-<span class="atom-split" data-atom="085" data-title="Whether the Son is in the Father, and conversely?" data-chapter="Whether the Son is in the Father, and conversely?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether the Son is in the Father, and conversely?" data-chapter="Whether the Son is in the Father, and conversely?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son and the Father are not in each other. For the Philosopher
 (Phys. iv, text. 23) gives eight modes of one thing existing in another, according to none of which
@@ -4832,7 +4832,7 @@ in God is only by the distinction of the relations, not by any kind of essential
 Reply to Objection 3: The Father and the Son are relatively opposed, but not essentially; while,
 as above explained, one relative opposite is in the other.
 
-<span class="atom-split" data-atom="086" data-title="Whether the Son is equal to the Father in power?" data-chapter="Whether the Son is equal to the Father in power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether the Son is equal to the Father in power?" data-chapter="Whether the Son is equal to the Father in power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son is not equal to the Father in power. For it is said (Jn.
 5:19): "The Son cannot do anything of Himself but what He seeth the Father doing." But the Father
@@ -4880,7 +4880,7 @@ has the same omnipotence as the Father, but with another relation; the Father po
 "giving" signified when we say that He is able to beget; while the Son possesses the power of
 "receiving," signified by saying that He can be begotten.
 
-<span class="atom-split" data-atom="087" data-title="THE MISSION OF THE DIVINE PERSONS (EIGHT ARTICLES)" data-chapter="THE MISSION OF THE DIVINE PERSONS (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="THE MISSION OF THE DIVINE PERSONS (EIGHT ARTICLES)" data-chapter="THE MISSION OF THE DIVINE PERSONS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the mission of the divine persons, concerning which there are eight points of
 inquiry:
@@ -4893,7 +4893,7 @@ inquiry:
 (7) Of the visible mission
 (8) Whether any person sends Himself visibly or invisibly?
 
-<span class="atom-split" data-atom="088" data-title="Whether a divine person can be properly sent?" data-chapter="Whether a divine person can be properly sent?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether a divine person can be properly sent?" data-chapter="Whether a divine person can be properly sent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a divine person cannot be properly sent. For one who is sent
 is less than the sender. But one divine person is not less than another. Therefore one person is not
@@ -4936,7 +4936,7 @@ place without a separation, having only distinction of origin.
 Reply to Objection 3: This objection rests on the idea of mission according to local motion,
 which is not in God.
 
-<span class="atom-split" data-atom="089" data-title="Whether mission is eternal, or only temporal?" data-chapter="Whether mission is eternal, or only temporal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether mission is eternal, or only temporal?" data-chapter="Whether mission is eternal, or only temporal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that mission can be eternal. For Gregory says (Hom. xxvi, in Ev.),
 "The Son is sent as He is begotten." But the Son's generation is eternal. Therefore mission is eternal.
@@ -4979,7 +4979,7 @@ divine person to His principle must be eternal. Hence the procession may be call
 eternal and temporal, not that there is a double relation to the principle, but a double term, temporal
 and eternal.
 
-<span class="atom-split" data-atom="090" data-title="Whether the invisible mission of the divine person is only according to the gift of sanctifying grace?" data-chapter="Whether the invisible mission of the divine person is only according to the gift of sanctifying grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether the invisible mission of the divine person is only according to the gift of sanctifying grace?" data-chapter="Whether the invisible mission of the divine person is only according to the gift of sanctifying grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the invisible mission of the divine person is not only according
 to the gift of sanctifying grace. For the sending of a divine person means that He is given. Hence
@@ -5045,7 +5045,7 @@ Ghost was given, except with some qualifying term; just as we read of certain on
 gift of the spirit of prophecy, or of miracles, as having from the Holy Ghost the power of prophesying
 or of working miracles.
 
-<span class="atom-split" data-atom="091" data-title="Whether the Father can be fittingly sent?" data-chapter="Whether the Father can be fittingly sent?" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Whether the Father can be fittingly sent?" data-chapter="Whether the Father can be fittingly sent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is fitting also that the Father should be sent. For being sent
 means that the divine person is given. But the Father gives Himself since He can only be possessed
@@ -5081,7 +5081,7 @@ Reply to Objection 3: Mission, meaning procession from the sender, includes the 
 of a notion, not of a special notion, but in general; thus "to be from another" is common to two of
 the notions.
 
-<span class="atom-split" data-atom="092" data-title="Whether it is fitting for the Son to be sent invisibly?" data-chapter="Whether it is fitting for the Son to be sent invisibly?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether it is fitting for the Son to be sent invisibly?" data-chapter="Whether it is fitting for the Son to be sent invisibly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not fitting for the Son to be sent invisibly. For invisible
 mission of the divine person is according to the gift of grace. But all gifts of grace belong to the
@@ -5141,7 +5141,7 @@ which consist in the illumination of the intellect and the kindling of the affec
 that one mission cannot be without the other, because neither takes place without sanctifying grace,
 nor is one person separated from the other.
 
-<span class="atom-split" data-atom="093" data-title="Whether the invisible mission is to all who participate grace?" data-chapter="Whether the invisible mission is to all who participate grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the invisible mission is to all who participate grace?" data-chapter="Whether the invisible mission is to all who participate grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the invisible mission is not to all who participate grace. For
 the Fathers of the Old Testament had their share of grace. Yet to them was made no invisible
@@ -5199,7 +5199,7 @@ flowing from the agent to the passive object. But mission is only spoken of as d
 Hence the mission of the divine person is not sent to the sacraments, but to those who receive grace
 through the sacraments.
 
-<span class="atom-split" data-atom="094" data-title="Whether it is fitting for the Holy Ghost to be sent visibly? (1/2)" data-chapter="Whether it is fitting for the Holy Ghost to be sent visibly?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether it is fitting for the Holy Ghost to be sent visibly? (1/2)" data-chapter="Whether it is fitting for the Holy Ghost to be sent visibly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Holy Ghost is not fittingly sent in a visible manner. For
 the Son as visibly sent to the world is said to be less than the Father. But the Holy Ghost is never
@@ -5283,7 +5283,7 @@ to signify the person of an angel, but to signify the Person of the Holy Ghost. 
 Ghost resided in those visible creatures as the one signified in the sign, on that account the Holy
 Ghost is said to be sent visibly, and not as an angel.
 
-<span class="atom-split" data-atom="095" data-title="Whether it is fitting for the Holy Ghost to be sent visibly? (2/2)" data-chapter="Whether it is fitting for the Holy Ghost to be sent visibly?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether it is fitting for the Holy Ghost to be sent visibly? (2/2)" data-chapter="Whether it is fitting for the Holy Ghost to be sent visibly?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: It is not necessary that the invisible mission should always be made
 manifest by some visible external sign; but, as is said (1 Cor. 12:7)---"the manifestation of the Spirit
@@ -5311,7 +5311,7 @@ Fathers of the Old Testament which, indeed, cannot be called visible missions; b
 to [Augustine](/figures/augustine) (De Trin. ii, 17), they were not sent to designate the indwelling of the divine person
 by grace, but for the manifestation of something else.
 
-<span class="atom-split" data-atom="096" data-title="Whether a divine person is sent only by the person whence He proceeds eternally?" data-chapter="Whether a divine person is sent only by the person whence He proceeds eternally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Whether a divine person is sent only by the person whence He proceeds eternally?" data-chapter="Whether a divine person is sent only by the person whence He proceeds eternally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a divine person is sent only by the one whence He proceeds
 eternally. For as [Augustine](/figures/augustine) says (De Trin. iv), "The Father is sent by no one because He is from

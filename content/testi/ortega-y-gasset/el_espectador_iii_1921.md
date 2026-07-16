@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_espectador_iii_1921" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="EL ESPECTADOR III (1921)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="EL ESPECTADOR III (1921)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 (1921)
 

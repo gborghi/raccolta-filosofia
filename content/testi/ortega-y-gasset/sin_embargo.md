@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sin_embargo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sin embargo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sin embargo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Esta inadecuación entre la sensibilidad de Baroja y lo que logra expresar es un dato típico que comprueba su manera dispersa de ser. La inspiración energética que le [anima](/concepts/soul) es una inspiración filosófica, no literaria. Las novelas de Baroja no suelen mostrar inspiración genuinamente estética.
 
@@ -66,7 +66,7 @@ Todo esto, rigurosamente histórico. Hoy leo con frecuencia en la Frankfürter Z
 
 Está ya en el segundo paso de su carrera de explorador asiático, y no dudo que la concluya con la normalidad y el buen compás con que el hijo de un cacique se hace en España bachiller primero, luego licenciado en Derecho, y al cabo juez o registrador o notario. Max Funke valía para muy poco; acaso valía sólo para ir una vez al Tíbet. Si llega a ir, habrá realizado su definición. Y no tardará Alemania en tener en Lhasa una factoría.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Mas no es lo peor que sean tan pocas las maneras de vivir entre que puede elegir el español venido al mundo. Mucho peor es que, siendo tan pocas sean tan rígidas. Entre nosotros no tolera la opinión pública esa penumbra en torno al tipo de vida adscrito a cada oficio, donde puede dar el individuo alimento a las apetencias más delicadas de su fantasía, a las efervescencias de su sentimentalidad.
 

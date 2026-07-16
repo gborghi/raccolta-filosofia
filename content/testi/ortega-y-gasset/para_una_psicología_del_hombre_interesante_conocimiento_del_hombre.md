@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_una_psicología_del_hombre_interesante_conocimiento_del_hombre" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para una psicología del hombre interesante.— Conocimiento del hombre" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Para una psicología del hombre interesante.— Conocimiento del hombre" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -42,7 +42,7 @@ Y como antes sugería, lo primero que de éste cabe decir es que es el hombre de
 
 Esta creencia de que el amor es operación mostrenca y banal es una de las que más estorban la inteligencia de los fenómenos eróticos, y se ha formado al amparo de un innumerable equívoco. Con el solo nombre de amor denominamos los hechos psicológicos más diversos, y así acaece luego que nuestros conceptos y generalizaciones no casan nunca con la realidad. Lo que es cierto para el amor en un sentido del vocablo, no lo es para otro, y nuestra observación, acaso certera en el círculo de erotismo donde la obtuvimos, resulta falsa al extenderse sobre los demás.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El origen del equívoco no es dudoso. Los actos sociales y privados en que vienen a manifestarse las más diferentes atracciones entre hombre y mujer forman, en sus líneas esquemáticas, un escaso repertorio. El hombre a quien le gusta la forma corporal de una mujer, el que por vanidad se interesa en su persona, el que llega a perder la cabeza, víctima del efecto mecánico que una mujer puede producir con una táctica certera de atracción y desdén, el que simplemente se adhiere a una mujer por ternura, lealtad, simpatía, «cariño», el que cae en un estado pasional, en fin, el que ama de verdad enamorado, se comportan de manera poco más o menos idéntica. Quien desde lejos observa sus actos no se fija en ese poco más o menos, y atendiendo sólo a la gruesa anatomía de la conducta, juzga que ésta no es diferente y, por tanto, tampoco el sentimiento que la inspira. Mas bastaría que tomase la lupa y desde cerca las estudiase para advertir que las acciones se parecen sólo en sus grandes líneas, pero ofrecen diversísimas indentaciones. Es un enorme error interpretar un amor por sus actos y palabras: ni unos ni otras suelen proceder de él, sino que constituyen un repertorio de grandes gestos, ritos, fórmulas, creados por la sociedad, que el sentimiento halla ante sí como un aparato presto e impuesto cuyo resorte se ve obligado a disparar. Sólo el pequeño gesto original, sólo el acento y el sentido más hondo de la conducta nos permiten diferenciar los amores diferentes.
 
@@ -68,7 +68,7 @@ Lejos de esto, fuera bueno establecer como tema general para la psicología del 
 
 Con frecuencia oímos decir que las mujeres inteligentes se enamoran de hombres tontos, y viceversa: de mujeres necias los hombres agudos. Yo confieso que, aun habiéndolo oído muchas veces, no lo he creído nunca, y en todos los casos donde pude acercarme y usar la lupa psicológica, he encontrado que aquellas mujeres y aquellos hombres no eran, en verdad, inteligentes, o, viceversa, no eran tontos los elegidos.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No es, pues, la pasión culminación del afán amoroso, sino al contrario, su degeneración en almas inferiores. En ella no hay —quiero decir, no tiene que haber— ni encanto ni entrega. Los psiquiatras saben que el obsesionado lucha contra su obsesión, que no la acepta en sí, y, sin embargo, ella le domina. Así cabe una enorme pasión sin contenido apreciable de amor.
 
@@ -98,7 +98,7 @@ Casi todos los hombres y las mujeres viven sumergidos en la esfera de sus intere
 
 Esta curiosidad, que es, a la par, ansia de vida, no puede darse más que en almas porosas donde circule el aire libre, no confinado por ningún muro de limitación —el aire cósmico cargado con polvo de estrellas remotas. Pero no basta ella para que «veamos» esa delicada y complejísima entidad que es una persona. La curiosidad prepara el órgano visual, pero éste ha de ser perspicaz. Y tal perspicacia es ya el primer talento y dote extraordinaria que actúa como ingrediente en el amor. Se trata de una especial intuición que nos permite rápidamente descubrir la intimidad de otros hombres, la figura de su alma en unión con el sentido expresado por su cuerpo. Merced a ella podemos «distinguir» de personas, apreciar su calidad, su trivialidad o su excelencia, en fin, su rango de perfección vital. No se crea por esto que pretendo intelectualizar el sentimiento de amor. Esa perspicacia no tiene nada que ver con la inteligencia, y aunque es más probable su presencia en criaturas de mente clara, puede existir señera como el don poético, que tantas veces viene a alojarse en hombres casi imbéciles. De hecho no es fácil que la hallemos sino en personas provistas de alguna agudeza intelectual, pero su más y su menos no marchan al par de ésta. Así ocurre que esa intuición suele darse relativamente más en la mujer que en el hombre, al revés que el don de intelecto, tan sexuado de virilidad[26].
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los que imaginan el amor como un efecto entre mágico y mecánico que en el hombre se produce, repugnarán que se haga de la perspicacia uno de sus atributos esenciales. Según ellos, el amor nace siempre «sin razón», es ilógico, antirracional y más bien excluye toda perspicacia. Éste es uno de los puntos capitales en que me veo obligado a discrepar resueltamente de las ideas recibidas.
 

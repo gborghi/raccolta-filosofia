@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/leyendo_le_petit_pierre_de_anatole_france" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Leyendo Le Petit Pierre, de Anatole France" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Leyendo Le Petit Pierre, de Anatole France" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando el pájaro abandona la rama en que ha cantado deja en ella un estremecimiento. Cuando un sonido sacude el aire, los objetos circunstantes se sienten vulnerados deleitosamente en no sabemos qué elemental sensibilidad oculta bajo el mutismo de su inerte [materia](/positions/materialism); despiertas por el son transeúnte, vibran conmovidas las pobres cosas, piedra, madera o metal, y envían tras él íntimos rumores de respuesta que solemos llamar resonancia.
 
@@ -46,7 +46,7 @@ He leído varias veces la obra del Padre Nieremberg que se titula Diferencia ent
 
 Se complace, sobre todo, el Padre Nieremberg en subrayar el carácter voltario, tornadizo de la Naturaleza. ¡Cómo si fuese preferible que la Naturaleza mostrase una enfadosa insistencia de profesor! Los placeres van a la carrera, insinúa el buen Padre. ¡Bien: razón de más para galopar tras ellos!
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 A veces los argumentos del jesuita llegan mal atinados: apuntan a nuestra amargura y dan en nuestra sonrisa. He aquí, por ejemplo, una de las observaciones con que quisiera influir en nosotros:
 

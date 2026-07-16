@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/antidemocratismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Antidemocratismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Antidemocratismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El Sindicato, al nacer, se apodera del hombre como trabajador. Esto quiere decir que el Sindicato, poder parcial, exige y supone otro poder que defienda el resto de la persona humana, que garantice sus libertades individuales. Éste es el Poder público, y ésa —garantizar las libertades— su función esencial. Solemos llamarle Estado.
 

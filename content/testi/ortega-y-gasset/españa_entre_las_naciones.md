@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/españa_entre_las_naciones" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="España entre las naciones" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="España entre las naciones" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La fisonomía de los horizontes humanos ha cambiado en pocas horas. No hace una semana, envolvía aún el paisaje de lo futuro la humareda caótica de la pólvora. Los meditadores pudieron, es cierto, prever, desde el comienzo de la guerra, la figura que, al cabo de ella, había de tomar la existencia de los hombres. Pero la gran masa permanecía confusa ante la terrible niebla bélica. Desde hace pocas horas, la fisonomía de los horizontes humanos ha cambiado.
 

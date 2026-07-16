@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/un_discurso_de_ida_y_vuelta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Un discurso de ida y vuelta" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Un discurso de ida y vuelta" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Todo el que tenga un corazón leal y no sea un hombre de partido —cosa muy distinta de trabajar socialmente desde un partido político, científico, estético o religioso— sentirá vehemente melancolía viendo a un hombre como don Antonio Maura, que ha sido la más fuerte emoción española de estos últimos quince años, levantarse en el teatro Real para hacer el resumen de unas conferencias dadas ante damas en un hotel elegante.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_interpretación_de_los_sueños_una_consulta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La interpretación de los sueños.— Una consulta" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La interpretación de los sueños.— Una consulta" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Me escribe de Buenos Aires un grupo de lectores de La Prensa, mostrando interés por lo que en una correspondencia del mes de Agosto, referí sobre las teorías del doctor Freud acerca de las neurosis e histerias y en especial sobre su método de interpretación de los sueños. Me piden que indique algunos trabajos más extensos donde poder ampliar las noticias de mi carta sobre tan sugestivas teorías. Con sumo gusto, ahora y siempre que me soliciten de mí análogas ampliaciones de temas tocados a mis correspondencias, procuraré establecer la curiosidad del lector.
 

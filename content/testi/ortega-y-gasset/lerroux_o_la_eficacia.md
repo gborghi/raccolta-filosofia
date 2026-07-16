@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/lerroux_o_la_eficacia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Lerroux, o la eficacia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Lerroux, o la eficacia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En realidad, dentro de la palabra «política» se mezclan dos cosas muy distintas: hay un arte de gobernar y un arte de conseguir y conservar el gobierno, o de otro modo, hay un arte de hallar las leyes que convienen a un país y un arte de hacer que esas leyes lleguen a serlo.
 

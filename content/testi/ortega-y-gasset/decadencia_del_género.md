@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/decadencia_del_género" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Decadencia del género" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Decadencia del género" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los editores se quejan de que mengua el mercado de la novela. Acaece, en efecto, que se venden menos novelas que antes, y que relativamente aumenta la demanda de libros con contenido ideológico. Si no hubiera otras razones más internas para afirmar la decadencia de este género literario, bastaría ese dato estadístico para sospecharla. Cuando oigo a algún amigo mío, sobre todo a algún joven escritor, que está escribiendo una novela, me extraña sobremanera el tranquilo tono con que lo dice, y pienso que yo, en su [caso](/concepts/fortune), temblaría. Tal vez injustamente, pero sin que pueda remediarlo, me ocurre recelar bajo esa tranquilidad una gran dosis de inconsciencia. Porque siempre ha sido cosa muy difícil producir una buena novela. Pero antes para lograrlo bastaba con tener talento. Mas ahora, la dificultad ha crecido en proporción incalculable, porque hoy no basta con tener talento de novelista para crear una buena novela.
 

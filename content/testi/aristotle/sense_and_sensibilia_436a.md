@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/aristotle/sense_and_sensibilia_436a" data-philosopher="Aristotle"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sense and Sensibilia (436a)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sense and Sensibilia (436a)" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 Translated by J. I. Beare
 
@@ -58,7 +58,7 @@ As when one who purposes going abroad prepares a lantern,A gleam of fire blazing
 
 Sometimes he accounts for vision thus, but at other times he explains it by emanations from the visible objects.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Democritus, on the other hand, is right in his opinion that the eye is of water; not, however, when he goes on to explain seeing as mere mirroring. The mirroring that takes place in an eye is due to the fact that the eye is smooth, and it really has its seat not in the eye which is seen, but in that which sees. For the case is merely one of reflexion. But it would seem that even in his time there was no scientific knowledge of the general subject of the formation of images and the phenomena of reflexion. It is strange too, that it never occurred to him to ask why, if his theory be true, the eye alone sees, while none of the other things in which images are reflected do so.
 
@@ -86,7 +86,7 @@ Now, each of them may be spoken of from two points of view, i.e. either as actua
 
 We have already in On the Soul stated of Light that it is the colour of the Translucent, [being so related to it] incidentally; for whenever a fiery element is in a translucent medium presence there is Light; while the privation of it is Darkness. But the ‘Translucent’, as we call it, is not something peculiar to air, or water, or any other of the bodies usually called translucent, but is a common ‘nature’ and power, capable of no separate existence of its own, but residing in these, and subsisting likewise in all other bodies in a greater or less degree. As the bodies in which it subsists must have some extreme bounding surface, so too must this. Here, then, we may say that Light is a ‘nature’ inhering in the Translucent when the latter is without determinate boundary. But it is manifest that, when the Translucent is in determinate bodies, its bounding extreme must be something real; and that colour is just this ‘something’ we are plainly taught by facts-colour being actually either at the external limit, or being itself that limit, in bodies. Hence it was that the Pythagoreans named the superficies of a body its ‘hue’, for ‘hue’, indeed, lies at the limit of the body; but the limit of the body; is not a real thing; rather we must suppose that the same natural substance which, externally, is the vehicle of colour exists [as such a possible vehicle] also in the interior of the body.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Air and water, too [i.e. as well as determinately bounded bodies] are seen to possess colour; for their brightness is of the nature of colour. But the colour which air or sea presents, since the body in which it resides is not determinately bounded, is not the same when one approaches and views it close by as it is when one regards it from a distance; whereas in determinate bodies the colour presented is definitely fixed, unless, indeed, when the atmospheric environment causes it to change. Hence it is clear that that in them which is susceptible of colour is in both cases the same. It is therefore the Translucent, according to the degree to which it subsists in bodies (and it does so in all more or less), that causes them to partake of colour. But since the colour is at the extremity of the body, it must be at the extremity of the Translucent in the body. Whence it follows that we may define colour as the limit of the Translucent in determinately bounded body. For whether we consider the special class of bodies called translucent, as water and such others, or determinate bodies, which appear to possess a fixed colour of their own, it is at the exterior bounding surface that all alike exhibit their colour.
 
@@ -104,7 +104,7 @@ If we accept the hypothesis of juxtaposition, we must assume not only invisible 
 
 Colours will thus, too [as well as on the former hypotheses], be many in number on account of the fact that the ingredients may be combined with one another in a multitude of ratios; some will be based on determinate numerical ratios, while others again will have as their basis a relation of quantitative excess or defect not expressible in integers. And all else that was said in reference to the colours, considered as juxtaposed or superposed, may be said of them likewise when regarded as mixed in the way just described.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Why colours, as well as savours and sounds, consist of species determinate [in themselves] and not infinite [in number] is a question which we shall discuss hereafter.
 
@@ -132,7 +132,7 @@ As the intermediate colours arise from the mixture of white and black, so the in
 
 The sweet taste alone is Rich, [therefore the latter may be regarded as a variety of the former], while [so far as both imply privation of the Sweet] the Saline is fairly identical with the Bitter. Between the extremes of sweet and bitter come the Harsh, the Pungent, the Astringent, and the Acid. Savours and Colours, it will be observed, contain respectively about the same number of species. For there are seven species of each, if, as is reasonable, we regard Dun [or Grey] as a variety of Black (for the alternative is that Yellow should be classed with White, as Rich with Sweet); while [the irreducible colours, viz.] Crimson, Violet, leek-Green, and deep Blue, come between White and Black, and from these all others are derived by mixture.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Again, as Black is a privation of White in the Translucent, so Saline or Bitter is a privation of Sweet in the Nutrient Moist. This explains why the ash of all burnt things is bitter; for the potable [sc. the sweet] moisture has been exuded from them.
 
@@ -174,7 +174,7 @@ contains a truth.
 
 Those who nowadays introduce such flavours into beverages deforce our sense of pleasure by habituating us to them, until, from two distinct kinds of sensations combined, pleasure arises as it might from one simple kind.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Of this species of odour man alone is sensible; the other, viz. that correlated with Tastes, is, as has been said before, perceptible also to the lower animals. And odours of the latter sort, since their pleasureableness depends upon taste, are divided into as many species as there are different tastes; but we cannot go on to say this of the former kind of odour, since its nature is agreeable or disagreeable per se. The reason why the perception of such odours is peculiar to man is found in the characteristic state of man’s brain. For his brain is naturally cold, and the blood which it contains in its vessels is thin and pure but easily cooled (whence it happens that the exhalation arising from food, being cooled by the coldness of this region, produces unhealthy rheums); therefore it is that odours of such a species have been generated for human beings, as a safeguard to health. This is their sole function, and that they perform it is evident. For food, whether dry or moist, though sweet to taste, is often unwholesome; whereas the odour arising from what is fragrant, that odour which is pleasant in its own right, is, so to say, always beneficial to persons in any state of bodily health whatever.
 
@@ -200,7 +200,7 @@ One might ask: if every body is infinitely divisible, are its sensible qualities
 
 [One might well ask this question], because each of them is productive of sense-perception, since, in fact, all derive their name [of ‘sensible qualities’] from the very circumstance of their being able to stimulate this. Hence, [if this is so] both our perception of them should likewise be divisible to [infinity](/concepts/infinity), and every part of a body [however small] should be a perceptible magnitude. For it is impossible, e.g. to see a thing which is white but not of a certain magnitude.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Since if it were not so, [if its sensible qualities were not divisible, pari passu with body], we might conceive a body existing but having no colour, or weight, or any such quality; accordingly not perceptible at all. For these qualities are the objects of sense-perception. On this supposition, every perceptible object should be regarded as composed not of perceptible [but of imperceptible] parts. Yet it must [be really composed of perceptible parts], since assuredly it does not consist of mathematical [and therefore purely abstract and non-sensible] quantities. Again, by what faculty should we discern and cognize these [hypothetical real things without sensible qualities]? Is it by Reason? But they are not objects of Reason; nor does reason apprehend objects in space, except when it acts in conjunction with sense-perception. At the same time, if this be the case [that there are magnitudes, physically real, but without sensible quality], it seems to tell in favour of the atomistic hypothesis; for thus, indeed, [by accepting this hypothesis], the question [with which this chapter begins] might be solved [negatively]. But it is impossible [to accept this hypothesis]. Our views on the subject of [atoms](/positions/atomism) are to be found in our treatise on Movement.
 
@@ -214,7 +214,7 @@ Now this [travelling through successive positions in the medium] may with good r
 
 Some, indeed, raise a question also on these very points; they declare it impossible that one person should hear, or see, or smell, the same object as another, urging the impossibility of several persons in different places hearing or smelling [the same object], for the one same thing would [thus] be divided from itself. The answer is that, in perceiving the object which first set up the motion — e.g. a bell, or frankincense, or fire — all perceive an object numerically one and the same; while, of course, in the special object perceived they perceive an object numerically different for each, though specifically the same for all; and this, accordingly, explains how it is that many persons together see, or smell, or hear [the same object]. These things [the odour or sound proper] are not bodies, but an affection or process of some kind (otherwise this [viz. simultaneous perception of the one object by many] would not have been, as it is, a fact of experience) though, on the other hand, they each imply a body [as their cause].
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 But [though sound and odour may travel,] with regard to Light the case is different. For Light has its raison d’etre in the being [not becoming] of something, but it is not a movement. And in general, even in qualitative change the case is different from what it is in local movement [both being different species of kinesis]. Local movements, of course, arrive first at a point midway before reaching their goal (and Sound, it is currently believed, is a movement of something locally moved), but we cannot go on to assert this [arrival at a point midway] like manner of things which undergo qualitative change. For this kind of change may conceivably take place in a thing all at once, without one half of it being changed before the other; e.g. it is conceivable that water should be frozen simultaneously in every part. But still, for all that, if the body which is heated or frozen is extensive, each part of it successively is affected by the part contiguous, while the part first changed in quality is so changed by the cause itself which originates the change, and thus the change throughout the whole need not take place coinstantaneously and all at once. Tasting would have been as smelling now is, if we lived in a liquid medium, and perceived [the sapid object] at a distance, before touching it.
 
@@ -236,7 +236,7 @@ But if it be thus impossible to perceive coinstantaneously two objects in the sa
 
 Again, if the stimuli of sense derived from Contraries are themselves Contrary, and if Contraries cannot be conceived as subsisting together in the same individual subject, and if Contraries, e.g. Sweet and Bitter, come under one and the same sense-faculty, we must conclude that it is impossible to discern them coinstantaneously. It is likewise clearly impossible so to discern such homogeneous sensibles as are not [indeed] Contrary, [but are yet of different species]. For these are, [in the sphere of colour, for instance], classed some with White, others with Black, and so it is, likewise, in the other provinces of sense; for example, of savours, some are classed with Sweet, and others with Bitter. Nor can one discern the components in compounds coinstantaneously (for these are ratios of Contraries, as e.g. the Octave or the Fifth); unless, indeed, on condition of perceiving them as one. For thus, and not otherwise, the ratios of the extreme sounds are compounded into one ratio: since we should have together the ratio, on the one hand, of Many to Few or of Odd to Even, on the other, that of Few to Many or of Even to Odd [and these, to be perceived together, must be unified].
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 If, then, the sensibles denominated co-ordinates though in different provinces of sense (e.g. I call Sweet and White co-ordinates though in different provinces) stand yet more aloof, and differ more, from one another than do any sensibles in the same province; while Sweet differs from White even more than Black does from White, it is still less conceivable that one should discern them [viz. sensibles in different sensory provinces whether co-ordinates or not] coinstantaneously than sensibles which are in the same province. Therefore, if coinstantaneous perception of the latter be impossible, that of the former is a fortiori impossible.
 
@@ -260,7 +260,7 @@ If then, as is the fact, the Soul with one part perceives Sweet, with another, W
 
 May we not, then, conceive this faculty which perceives White and Sweet to be one qua indivisible [sc. qua combining its different simultaneous objects] in its actualization, but different, when it has become divisible [sc. qua distinguishing its different simultaneous objects] in its actualization?
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Or is what occurs in the case of the perceiving Soul conceivably analogous to what holds true in that of the things themselves? For the same numerically one thing is white and sweet, and has many other qualities, [while its numerical oneness is not thereby prejudiced] if the fact is not that the qualities are really separable in the object from one another, but that the being of each quality is different [from that of every other]. In the same way therefore we must assume also, in the case of the Soul, that the faculty of perception in general is in itself numerically one and the same, but different [differentiated] in its being; different, that is to say, in genus as regards some of its objects, in species as regards others. Hence too, we may conclude that one can perceive [numerically different objects] coinstantaneously with a faculty which is numerically one and the same, but not the same in its relationship [sc. according as the objects to which it is directed are not the same].
 

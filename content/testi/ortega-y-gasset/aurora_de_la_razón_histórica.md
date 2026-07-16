@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/aurora_de_la_razón_histórica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Aurora de la razón histórica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Aurora de la razón histórica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hacia 1860, Dilthey, el más grande pensador que ha tenido la segunda mitad del siglo XIX, hizo el descubrimiento de una nueva realidad: la vida humana. Es sobremanera cómico que realidad tan próxima al hombre y tan importante para él haya tardado tanto en ser descubierta y que fuese descubierta un cierto día a una cierta hora, como el fonógrafo o la aspirina. Pero, en fin, así ha sido y la cosa no tiene remedio. El tapiz de la historia que por su envés aparece lleno de tragedias, lleva bordadas en su revés innumerables escenas cómicas. Tragedia y comedia son justamente las dos máscaras de la historia, es decir, su aspecto popular.
 
@@ -46,7 +46,7 @@ Se trata de una limitación a que la razón innecesariamente —aunque sea muy e
 
 Porque ahora, al haber perdido la fe exclusiva en esa razón hemos quedado libres —desde Dilthey— para buscar el «ser» del hombre sin que nos estorbe el prejuicio del naturalismo, del eleatismo. Y pronto hemos caído en la cuenta de que la razón física tenía que fracasar ante los problemas humanos. Porque el hombre no tiene «naturaleza», no tiene un ser fijo, estático, previo y dado. No sólo varía como los cuerpos, es decir con una pseudo-variación que circula dentro de unos límites invariables, dentro de la ley de sus variaciones, sino que varía ilimitadamente. Es algo radicalmente plástico capaz de ser esto y lo otro y así sin límites. Para hablar del ser del hombre tenemos que inventar un concepto de ser no-eleático, como se ha inventado un espacio no-euclidiano. El hombre es el hombre paleolítico pero también es la Marquise de Pompadour, es Gengis Khan y es Stefan George, es Pericles y es Charles Chaplin. Las formas más dispares del ser pasan por el hombre sin que éste se adscriba a ellas.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Cada una de estas formas de ser significa una gründliche [Erfahrung](/concepts/experience) que el hombre hace, la cual una vez hecha revela su Beschränkung. Esta Beschränkung le abre los ojos para otra forma de ser no ensayada. Es decir que pasa a ser una cosa porque antes fue otra determinada. El hombre, que no es, se va haciendo en la serie dialéctica de sus experiencias. Y por tanto lo único que podemos saber del hombre es lo que ya ha sido. Nada de lo que ya ha sido puede volverlo a ser. El pasado estrecha al futuro. Por eso la ciencia del pasado es, a la vez, bien entendida, la única ciencia del futuro en el sentido muy preciso en que una ciencia del futuro es posible.
 

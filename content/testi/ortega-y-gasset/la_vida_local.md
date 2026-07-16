@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_vida_local" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La vida local" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La vida local" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Uno de los errores más graves cometidos por los grupos que hasta ahora han tenido en sus manos la República es a nuestro juicio haber dejado intacta la vida local, dando ocasión a que se reproduzcan en ella los vicios políticos más trasañejos. No es concebible que siendo tan característica de España la diferencia entre los modos de la vida local y los de dos o tres grandes capitales se quiera renovar el país sin modificar los usos de la provincia que es la casi totalidad de España.
 

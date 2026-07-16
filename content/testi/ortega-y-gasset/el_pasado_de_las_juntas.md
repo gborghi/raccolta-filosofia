@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_pasado_de_las_juntas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El pasado de las Juntas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El pasado de las Juntas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En la gravísima situación a que los militares han traído estos días la existencia pública, permítasenos que nos consideremos testigos de alguna excepción. Si en el estado de apasionamiento que parece turbar hoy el espíritu de la oficialidad queda un lugar para hacer memoria, y otro más breve aún para hacer justicia, habrán de conceder a nuestras palabras una privilegiada atención. Nuestro periódico, en campaña iniciada cuando su director y algunos de sus redactores lo eran de otro diario, prestó al movimiento de primero de junio la simpatía que creemos obligada para todo intento honrado de reorganizar una sociedad en descomposición, como es la española.
 

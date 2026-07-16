@@ -20,12 +20,12 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_virtues" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Virtues" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Virtues" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON HABITS IN PARTICULAR (QQ[55]-89) GOOD HABITS,
 i.e. VIRTUES (QQ[55]-70)
 
-<span class="atom-split" data-atom="002" data-title="OF THE VIRTUES, AS TO THEIR ESSENCE (FOUR ARTICLES)" data-chapter="OF THE VIRTUES, AS TO THEIR ESSENCE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE VIRTUES, AS TO THEIR ESSENCE (FOUR ARTICLES)" data-chapter="OF THE VIRTUES, AS TO THEIR ESSENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We come now to the consideration of habits specifically. And since habits, as we have said
 (Q[54], A[3]), are divided into good and bad, we must speak in the first place of good habits, which
@@ -39,7 +39,7 @@ Under the first head, there are four points of inquiry:
 (3) Whether it is a good habit?
 (4) Of the definition of virtue.
 
-<span class="atom-split" data-atom="003" data-title="Whether human virtue is a habit?" data-chapter="Whether human virtue is a habit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether human virtue is a habit?" data-chapter="Whether human virtue is a habit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that human virtue is not a [habit](/concepts/custom): For virtue is "the limit of power"
 (De Coelo i, text. 116). But the limit of anything is reducible to the genus of that of which it is the
@@ -98,7 +98,7 @@ end to which virtue is ordered: because in us love is set in order by virtue.
 Reply to Objection 5: Natural powers are of themselves determinate to one act: not so the
 rational powers. And so there is no comparison, as we have said.
 
-<span class="atom-split" data-atom="004" data-title="Whether human virtue is an operative habit?" data-chapter="Whether human virtue is an operative habit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether human virtue is an operative habit?" data-chapter="Whether human virtue is an operative habit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not essential to human virtue to be an operative [habit](/concepts/custom). For
 Tully says (Tuscul. iv) that as health and [beauty](/concepts/beauty) belong to the body, so virtue belongs to the soul.
@@ -152,7 +152,7 @@ respect of some operation. Wherefore, as we have said above (Q[3], A[2]), happin
 which man is made most perfectly conformed to God, and which is the end of human life, consists
 in an operation.
 
-<span class="atom-split" data-atom="005" data-title="Whether human virtue is a good habit?" data-chapter="Whether human virtue is a good habit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether human virtue is a good habit?" data-chapter="Whether human virtue is a good habit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not essential to virtue that it should be a good [habit](/concepts/custom). For
 sin is always taken in a bad sense. But there is a virtue even of sin; according to 1 Cor. 15:56: "The
@@ -193,7 +193,7 @@ to overcome or endure more easily the weakness of the body and of the lower powe
 human virtue, which is attributed to reason, is said to be "made perfect in infirmity," not of the
 reason indeed, but of the body and of the lower powers.
 
-<span class="atom-split" data-atom="006" data-title="Whether virtue is suitably defined?" data-chapter="Whether virtue is suitably defined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether virtue is suitably defined?" data-chapter="Whether virtue is suitably defined?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the definition, usually given, of virtue, is not suitable, to wit:
 "Virtue is a good quality of the mind, by which we live righteously, of which no one can make bad
@@ -283,7 +283,7 @@ but not without our consent. This is the sense of the words, "which God works in
 As to those things which are done by us, God causes them in us, yet not without action on our part,
 for He works in every will and in every nature.
 
-<span class="atom-split" data-atom="007" data-title="OF THE SUBJECT OF VIRTUE (SIX ARTICLES)" data-chapter="OF THE SUBJECT OF VIRTUE (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="OF THE SUBJECT OF VIRTUE (SIX ARTICLES)" data-chapter="OF THE SUBJECT OF VIRTUE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider the subject of virtue, about which there are six points of inquiry:
 (1) Whether the subject of virtue is a power of the soul?
@@ -293,7 +293,7 @@ We now have to consider the subject of virtue, about which there are six points 
 (5) Whether the sensitive powers of apprehension can be the subject of virtue?
 (6) Whether the will can be the subject of virtue?
 
-<span class="atom-split" data-atom="008" data-title="Whether the subject of virtue is a power of the soul?" data-chapter="Whether the subject of virtue is a power of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the subject of virtue is a power of the soul?" data-chapter="Whether the subject of virtue is a power of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the subject of virtue is not a power of the soul. For [Augustine](/figures/augustine)
 says (De Lib. Arb. ii, 19) that "virtue is that by which we live righteously." But we live by the
@@ -335,7 +335,7 @@ accident could uphold another; but because one accident inheres to substance by 
 as color to the body by means of the surface; so that surface is said to be the subject of color. In
 this way a power of the soul is said to be the subject of virtue.
 
-<span class="atom-split" data-atom="009" data-title="Whether one virtue can be in several powers?" data-chapter="Whether one virtue can be in several powers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether one virtue can be in several powers?" data-chapter="Whether one virtue can be in several powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one virtue can be in several powers. For habits are known by
 their acts. But one act proceeds in various way from several powers: thus walking proceeds from
@@ -371,7 +371,7 @@ virtue works according to right reason. But moral virtue is essentially in the a
 Reply to Objection 3: Prudence is really subjected in reason: but it presupposes as its principle
 the rectitude of the will, as we shall see further on (A[3]; Q[57], A[4]).
 
-<span class="atom-split" data-atom="010" data-title="Whether the intellect can be the subject of virtue?" data-chapter="Whether the intellect can be the subject of virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the intellect can be the subject of virtue?" data-chapter="Whether the intellect can be the subject of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellect is not the subject of virtue. For [Augustine](/figures/augustine) says
 (De Moribus Eccl. xv) that all virtue is love. But the subject of love is not the intellect, but the
@@ -441,7 +441,7 @@ intellect in regard to the knowledge of truth, whether speculative or practical,
 
 Reply to Objection 3: This objection considers virtue simply so called.
 
-<span class="atom-split" data-atom="011" data-title="Whether the irascible and concupiscible powers are the subject of virtue?" data-chapter="Whether the irascible and concupiscible powers are the subject of virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the irascible and concupiscible powers are the subject of virtue?" data-chapter="Whether the irascible and concupiscible powers are the subject of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the irascible and concupiscible powers cannot be the subject
 of virtue. For these powers are common to us and dumb animals. But we are now speaking of virtue
@@ -518,7 +518,7 @@ intention of the end in regard to the passions of the soul, is due to the good d
 powers. And therefore those moral virtues which are concerned with the passions are in the irascible
 and concupiscible powers, but prudence is in the reason.
 
-<span class="atom-split" data-atom="012" data-title="Whether the sensitive powers of apprehension are the subject of virtue?" data-chapter="Whether the sensitive powers of apprehension are the subject of virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether the sensitive powers of apprehension are the subject of virtue?" data-chapter="Whether the sensitive powers of apprehension are the subject of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is possible for virtue to be in the interior sensitive powers
 of apprehension. For the sensitive appetite can be the subject of virtue, in so far as it obeys reason.
@@ -567,7 +567,7 @@ Reply to Objection 3: Memory is not a part of prudence, as species is of a genus
 memory were a virtue properly so called: but one of the conditions required for prudence is a good
 memory; so that, in a fashion, it is after the manner of an integral part.
 
-<span class="atom-split" data-atom="013" data-title="Whether the will can be the subject of virtue?" data-chapter="Whether the will can be the subject of virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether the will can be the subject of virtue?" data-chapter="Whether the will can be the subject of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is not the subject of virtue. Because no [habit](/concepts/custom) is required
 for that which belongs to a power by reason of its very nature. But since the will is in the reason,
@@ -616,7 +616,7 @@ the proper good of this or that man: and in these cases there is no need for vir
 nature of the power suffices for the purpose, as we have said. This need exists only in the case of
 virtues which are directed to some extrinsic good.
 
-<span class="atom-split" data-atom="014" data-title="OF THE INTELLECTUAL VIRTUES (SIX ARTICLES)" data-chapter="OF THE INTELLECTUAL VIRTUES (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="OF THE INTELLECTUAL VIRTUES (SIX ARTICLES)" data-chapter="OF THE INTELLECTUAL VIRTUES (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider the various kinds of virtue: and (1) the intellectual virtues; (2) the
 moral virtues; (3) the [theological virtues](/concepts/theological_virtues). Concerning the first there are six points of inquiry:
@@ -627,7 +627,7 @@ moral virtues; (3) the [theological virtues](/concepts/theological_virtues). Con
 (5) Whether prudence is a virtue necessary to man?
 (6) Whether "eubulia," "synesis" and "gnome" are virtues annexed to prudence?
 
-<span class="atom-split" data-atom="015" data-title="Whether the habits of the speculative intellect are virtues?" data-chapter="Whether the habits of the speculative intellect are virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the habits of the speculative intellect are virtues?" data-chapter="Whether the habits of the speculative intellect are virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the habits of the speculative intellect are not virtues. For virtue
 is an operative [habit](/concepts/custom), as we have said above (Q[55], A[2]). But speculative habits are not operative:
@@ -683,7 +683,7 @@ as we have already stated (Q[3], A[7]).
 Reply to Objection 3: Science is contrasted with virtue taken in the second sense, wherein it
 belongs to the appetitive faculty.
 
-<span class="atom-split" data-atom="016" data-title="Whether there are only three habits of the speculative intellect, viz. wisdom, science and understanding?" data-chapter="Whether there are only three habits of the speculative intellect, viz. wisdom, science and understanding?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether there are only three habits of the speculative intellect, viz. wisdom, science and understanding?" data-chapter="Whether there are only three habits of the speculative intellect, viz. wisdom, science and understanding?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting to distinguish three virtues of the speculative intellect,
 viz. wisdom, science and understanding. Because a species is a kind of science, as stated in Ethic.
@@ -751,7 +751,7 @@ evil. Wherefore those habits alone are called intellectual virtues, whereby we t
 never tell a falsehood. But opinion and suspicion can be about both truth and falsehood: and so, as
 stated in Ethic. vi, 3, they are not intellectual virtues.
 
-<span class="atom-split" data-atom="017" data-title="Whether the intellectual habit, art, is a virtue?" data-chapter="Whether the intellectual habit, art, is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the intellectual habit, art, is a virtue?" data-chapter="Whether the intellectual habit, art, is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that art is not an intellectual virtue. For [Augustine](/figures/augustine) says (De Lib.
 Arb. ii, 18,19) that "no one makes bad use of virtue." But one may make bad use of art: for a
@@ -803,7 +803,7 @@ to the soul, and man, as regards his soul, is free [liber]. On the other hand, t
 are not ordained to any such like work, are called sciences simply, and not arts. Nor, if the liberal
 arts be more excellent, does it follow that the notion of art is more applicable to them.
 
-<span class="atom-split" data-atom="018" data-title="Whether prudence is a distinct virtue from art?" data-chapter="Whether prudence is a distinct virtue from art?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether prudence is a distinct virtue from art?" data-chapter="Whether prudence is a distinct virtue from art?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prudence is not a distinct virtue from art. For art is the right
 reason about certain works. But diversity of works does not make a [habit](/concepts/custom) cease to be an art; since
@@ -861,7 +861,7 @@ proper to those arts. Hence some men, in so far as they are good counselors in m
 or seamanship, are said to be prudent officers or pilots, but not simply prudent: only those are
 simply prudent who give good counsel about all the concerns of life.
 
-<span class="atom-split" data-atom="019" data-title="Whether prudence is a virtue necessary to man?" data-chapter="Whether prudence is a virtue necessary to man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether prudence is a virtue necessary to man?" data-chapter="Whether prudence is a virtue necessary to man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prudence is not a virtue necessary to lead a good life. For as
 art is to things that are made, of which it is the right reason, so is prudence to things that are done,
@@ -928,7 +928,7 @@ which can be effected by us, whether they be matters of interior action, or the 
 work. Hence it is only about contingent matters that an intellectual virtue is assigned to the practical
 intellect, viz. art, as regards things to be made, and prudence, as regards things to be done.
 
-<span class="atom-split" data-atom="020" data-title="Whether \&quot;eubulia, synesis, and gnome\&quot; are virtues annexed to prudence? [*{euboulia, synesis, gnome}]" data-chapter="Whether \&quot;eubulia, synesis, and gnome\&quot; are virtues annexed to prudence? [*{euboulia, synesis, gnome}]" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether \&quot;eubulia, synesis, and gnome\&quot; are virtues annexed to prudence? [*{euboulia, synesis, gnome}]" data-chapter="Whether \&quot;eubulia, synesis, and gnome\&quot; are virtues annexed to prudence? [*{euboulia, synesis, gnome}]" data-kind="atom" data-srclang="en"></span>
 
 # Whether "eubulia, synesis, and gnome" are virtues annexed to prudence? [*{euboulia, synesis, gnome}]
 
@@ -1004,7 +1004,7 @@ Under the first head there are five points of inquiry:
 (4) Whether there can be moral without intellectual virtue?
 (5) Whether, on the other hand, there can be intellectual without moral virtue?
 
-<span class="atom-split" data-atom="021" data-title="Whether every virtue is a moral virtue?" data-chapter="Whether every virtue is a moral virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether every virtue is a moral virtue?" data-chapter="Whether every virtue is a moral virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every virtue is a moral virtue. Because moral virtue is so called
 from the Latin "mos," i.e. [custom](/concepts/custom). Now, we can accustom ourselves to the acts of all the virtues.
@@ -1056,7 +1056,7 @@ the faculties to act is the proper function of the appetitive power. Consequentl
 second nature by consenting to the reason, is proper to those virtues which are in the appetitive
 faculty.
 
-<span class="atom-split" data-atom="022" data-title="Whether moral virtue differs from intellectual virtue?" data-chapter="Whether moral virtue differs from intellectual virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether moral virtue differs from intellectual virtue?" data-chapter="Whether moral virtue differs from intellectual virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral virtue does not differ from intellectual virtue. For
 [Augustine](/figures/augustine) says (De Civ. Dei iv, 21) "that virtue is the art of right conduct." But art is an intellectual
@@ -1121,7 +1121,7 @@ Reply to Objection 4: Right reason which is in accord with prudence is included 
 of moral virtue, not as part of its essence, but as something belonging by way of participation to
 all the moral virtues, in so far as they are all under the direction of prudence.
 
-<span class="atom-split" data-atom="023" data-title="Whether virtue is adequately divided into moral and intellectual?" data-chapter="Whether virtue is adequately divided into moral and intellectual?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether virtue is adequately divided into moral and intellectual?" data-chapter="Whether virtue is adequately divided into moral and intellectual?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virtue is not adequately divided into moral and intellectual.
 For prudence seems to be a mean between moral and intellectual virtue, since it is reckoned among
@@ -1175,7 +1175,7 @@ maintains (Ethic. vii, 1,9).
 Reply to Objection 3: Faith, hope, and charity are superhuman virtues: for they are virtues of
 man as sharing in the grace of God.
 
-<span class="atom-split" data-atom="024" data-title="Whether there can be moral without intellectual virtue?" data-chapter="Whether there can be moral without intellectual virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether there can be moral without intellectual virtue?" data-chapter="Whether there can be moral without intellectual virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral can be without intellectual virtue. Because moral virtue,
 as [Cicero](/figures/cicero) says (De Invent. Rhet. ii) is "a [habit](/concepts/custom) like a second nature in accord with reason." Now
@@ -1230,7 +1230,7 @@ more grievously will it be hurt. And consequently, although moral virtue be not 
 is, according to right reason, as the Platonists maintained [*Cf. Plato, Meno xli.]; but also it needs
 to be "joined with right reason," as [Aristotle](/figures/aristotle) declares (Ethic. vi, 13).
 
-<span class="atom-split" data-atom="025" data-title="Whether there can be intellectual without moral virtue?" data-chapter="Whether there can be intellectual without moral virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether there can be intellectual without moral virtue?" data-chapter="Whether there can be intellectual without moral virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there can be intellectual without moral virtue. Because perfection
 of what precedes does not depend on the perfection of what follows. Now reason precedes and
@@ -1283,7 +1283,7 @@ Reply to Objection 3: Prudence not only helps us to be of good counsel, but also
 command well. This is not possible unless the impediment of the passions, destroying the judgment
 and command of prudence, be removed; and this is done by moral virtue.
 
-<span class="atom-split" data-atom="026" data-title="OF MORAL VIRTUE IN RELATION TO THE PASSIONS (FIVE ARTICLES)" data-chapter="OF MORAL VIRTUE IN RELATION TO THE PASSIONS (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="OF MORAL VIRTUE IN RELATION TO THE PASSIONS (FIVE ARTICLES)" data-chapter="OF MORAL VIRTUE IN RELATION TO THE PASSIONS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the difference of one moral virtue from another. And since those moral
 virtues which are about the passions, differ accordingly to the difference of passions, we must
@@ -1295,7 +1295,7 @@ the passions. Under the first head there are five points of inquiry:
 (4) Whether every moral virtue is about a passion?
 (5) Whether there can be moral virtue without passion?
 
-<span class="atom-split" data-atom="027" data-title="Whether moral virtue is a passion?" data-chapter="Whether moral virtue is a passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether moral virtue is a passion?" data-chapter="Whether moral virtue is a passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral virtue is a passion. Because the mean is of the same
 genus as the extremes. But moral virtue is a mean between two passions. Therefore moral virtue
@@ -1339,7 +1339,7 @@ poor are relieved, or the penitent forgiven," as Augustine says (De Civ. Dei ix,
 we understand a habit perfecting man so that he bestows pity reasonably, nothing hinders pity, in
 this sense, from being a virtue. The same applies to similar passions.
 
-<span class="atom-split" data-atom="028" data-title="Whether there can be moral virtue with passion?" data-chapter="Whether there can be moral virtue with passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether there can be moral virtue with passion?" data-chapter="Whether there can be moral virtue with passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral virtue cannot be with passion. For the Philosopher says
 (Topic. iv) that "a gentle man is one who is not passionate; but a patient man is one who is passionate
@@ -1402,7 +1402,7 @@ the mind to give its consent, it hinders counsel and the judgment of reason. But
 that judgment, as through being commanded by reason, it helps towards the execution of reason's
 command.
 
-<span class="atom-split" data-atom="029" data-title="Whether sorrow is compatible with moral virtue?" data-chapter="Whether sorrow is compatible with moral virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether sorrow is compatible with moral virtue?" data-chapter="Whether sorrow is compatible with moral virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow is incompatible with virtue. Because the virtues are
 effects of wisdom, according to Wis. 8:7: "She," i.e. Divine wisdom, "teacheth temperance, and
@@ -1463,7 +1463,7 @@ more readily whatever banishes sorrow.
 Reply to Objection 3: Immoderate sorrow is a disease of the mind: but moderate sorrow is the
 mark of a well-conditioned mind, according to the present state of life.
 
-<span class="atom-split" data-atom="030" data-title="Whether all the moral virtues are about the passions?" data-chapter="Whether all the moral virtues are about the passions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether all the moral virtues are about the passions?" data-chapter="Whether all the moral virtues are about the passions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the moral virtues are about the passions. For the Philosopher
 says (Ethic. ii, 3) that "moral virtue is about objects of pleasure and sorrow." But pleasure and
@@ -1502,7 +1502,7 @@ rational by participation, but also the will, where there are no passions, as st
 Reply to Objection 3: Some virtues have passions as their proper matter, but some virtues not.
 Hence the comparison does not hold for all cases.
 
-<span class="atom-split" data-atom="031" data-title="Whether there can be moral virtue without passion?" data-chapter="Whether there can be moral virtue without passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether there can be moral virtue without passion?" data-chapter="Whether there can be moral virtue without passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral virtue can be without passion. For the more perfect
 moral virtue is, the more does it overcome the passions. Therefore at its highest point of perfection
@@ -1546,7 +1546,7 @@ is no sensitive appetite in God and the angels, as there is in man. Consequently
 God and the angels is altogether without passion, as it is without a body: whereas the good operation
 of man is with passion, even as it is produced with the body's help.
 
-<span class="atom-split" data-atom="032" data-title="HOW THE MORAL VIRTUES DIFFER FROM ONE ANOTHER (FIVE ARTICLES)" data-chapter="HOW THE MORAL VIRTUES DIFFER FROM ONE ANOTHER (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="HOW THE MORAL VIRTUES DIFFER FROM ONE ANOTHER (FIVE ARTICLES)" data-chapter="HOW THE MORAL VIRTUES DIFFER FROM ONE ANOTHER (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider how the moral virtues differ from one another: under which head there
 are five points of inquiry:
@@ -1557,7 +1557,7 @@ about passions?
 (4) Whether there are different moral virtues about different passions?
 (5) Whether the moral virtues differ in point of the various objects of the passions?
 
-<span class="atom-split" data-atom="033" data-title="Whether there is only one moral virtue?" data-chapter="Whether there is only one moral virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether there is only one moral virtue?" data-chapter="Whether there is only one moral virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is only one moral virtue. Because just as the direction
 of moral actions belongs to reason which is the subject of the intellectual virtues; so does their
@@ -1612,7 +1612,7 @@ above.
 Reply to Objection 3: Moral matters do not receive their species from the last end, but from
 their proximate ends: and these, although they be infinite in number, are not infinite in species.
 
-<span class="atom-split" data-atom="034" data-title="Whether moral virtues about operations are different from those that are about passions?" data-chapter="Whether moral virtues about operations are different from those that are about passions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether moral virtues about operations are different from those that are about passions?" data-chapter="Whether moral virtues about operations are different from those that are about passions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral virtues are not divided into those which are about
 operations and those which are about passions. For the Philosopher says (Ethic. ii, 3) that moral
@@ -1658,7 +1658,7 @@ of virtue, while the other two consider operation and passion as concurring in t
 in some cases virtue is chiefly about operations, in others, about passions, for the reason given
 above.
 
-<span class="atom-split" data-atom="035" data-title="Whether there is only one moral virtue about operations?" data-chapter="Whether there is only one moral virtue about operations?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether there is only one moral virtue about operations?" data-chapter="Whether there is only one moral virtue about operations?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is but one moral virtue about operations. Because the
 rectitude of all external operations seems to belong to justice. Now justice is but one virtue. Therefore
@@ -1712,7 +1712,7 @@ justice. Consequently, there is the same virtue of justice, especially in regard
 it may be that distributive justice is of another species from commutative justice; but about this we
 shall inquire later on (SS, Q[61], A[1]).
 
-<span class="atom-split" data-atom="036" data-title="Whether there are different moral virtues about different passions?" data-chapter="Whether there are different moral virtues about different passions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether there are different moral virtues about different passions?" data-chapter="Whether there are different moral virtues about different passions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not different moral virtues about different passions.
 For there is but one [habit](/concepts/custom) about things that concur in their source and end: as is evident especially
@@ -1766,7 +1766,7 @@ nature, consents to reason's dictates.
 Reply to Objection 3: Those three passions are directed to the same object in a certain order,
 as stated above: and so they belong to the same virtue.
 
-<span class="atom-split" data-atom="037" data-title="Whether the moral virtues differ in point of the various objects of the passions?" data-chapter="Whether the moral virtues differ in point of the various objects of the passions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether the moral virtues differ in point of the various objects of the passions?" data-chapter="Whether the moral virtues differ in point of the various objects of the passions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the moral virtues do not differ according to the objects of the
 passions. For just as there are objects of passions, so are there objects of operations. Now those
@@ -1871,7 +1871,7 @@ form of [anger](/concepts/anger); and, again, but one virtue, fortitude, for all
 involves difficulty, which requires virtue, even if it be not a great good in that particular kind of
 passion. Consequently there are various moral virtues about desires, as stated above.
 
-<span class="atom-split" data-atom="038" data-title="OF THE CARDINAL VIRTUES (FIVE ARTICLES)" data-chapter="OF THE CARDINAL VIRTUES (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="OF THE CARDINAL VIRTUES (FIVE ARTICLES)" data-chapter="OF THE CARDINAL VIRTUES (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cardinal virtues: under which head there are five points of inquiry:
 (1) Whether the moral virtues should be called cardinal or principal virtues?
@@ -1880,7 +1880,7 @@ We must now consider the cardinal virtues: under which head there are five point
 (4) Whether they differ from one another?
 (5) Whether they are fittingly divided into social, perfecting, perfect, and exemplar virtues?
 
-<span class="atom-split" data-atom="039" data-title="Whether the moral virtues should be called cardinal or principal virtues?" data-chapter="Whether the moral virtues should be called cardinal or principal virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the moral virtues should be called cardinal or principal virtues?" data-chapter="Whether the moral virtues should be called cardinal or principal virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral virtues should not be called cardinal or principal virtues.
 For "the opposite members of a division are by nature simultaneous" (Categor. x), so that one is
@@ -1928,7 +1928,7 @@ Reply to Objection 3: Although the intellectual virtues, except in prudence, ran
 moral virtues, in the point of their subject, they do not rank before them as virtues; for a virtue, as
 such, regards good, which is the object of the appetite.
 
-<span class="atom-split" data-atom="040" data-title="Whether there are four cardinal virtues?" data-chapter="Whether there are four cardinal virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether there are four cardinal virtues?" data-chapter="Whether there are four cardinal virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not four cardinal virtues. For prudence is the directing
 principle of the other moral virtues, as is clear from what has been said above (Q[58], A[4]). But
@@ -1972,7 +1972,7 @@ stated above.
 Reply to Objection 3: All the other virtues among which one ranks before another, are reducible
 to the above four, both as to the subject and as to the formal principle.
 
-<span class="atom-split" data-atom="041" data-title="Whether any other virtues should be called principal rather than these?" data-chapter="Whether any other virtues should be called principal rather than these?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether any other virtues should be called principal rather than these?" data-chapter="Whether any other virtues should be called principal rather than these?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that other virtues should be called principal rather than these. For,
 seemingly, the greatest is the principal in any genus. Now "magnanimity has a great influence on
@@ -2016,7 +2016,7 @@ of touch; and fortitude, the virtue which strengthens against dangers of death. 
 objections fail: because the other virtues may be principal in some other way, but these are called
 principal by reason of their matter, as stated above.
 
-<span class="atom-split" data-atom="042" data-title="Whether the four cardinal virtues differ from one another?" data-chapter="Whether the four cardinal virtues differ from one another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether the four cardinal virtues differ from one another?" data-chapter="Whether the four cardinal virtues differ from one another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the above four virtues are not diverse and distinct from one
 another. For Gregory says (Moral. xxii, 1): "There is no true prudence, unless it be just, temperate
@@ -2094,7 +2094,7 @@ Reply to Objection 3: These four general conditions of virtue set down by the Ph
 are not proper to the aforesaid virtues. They may, however, be appropriated to them, in the way
 above stated.
 
-<span class="atom-split" data-atom="043" data-title="Whether the cardinal virtues are fittingly divided into social virtues, perfecting, perfect, and exemplar virtues?" data-chapter="Whether the cardinal virtues are fittingly divided into social virtues, perfecting, perfect, and exemplar virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the cardinal virtues are fittingly divided into social virtues, perfecting, perfect, and exemplar virtues?" data-chapter="Whether the cardinal virtues are fittingly divided into social virtues, perfecting, perfect, and exemplar virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that these four virtues are unfittingly divided into exemplar virtues,
 perfecting virtues, perfect virtues, and social virtues. For as Macrobius says (Super Somn. Scip.
@@ -2184,7 +2184,7 @@ the other virtues it draws them all into the service of the common weal, as the 
 to do well not only towards the community, but also towards the parts of the community, viz.
 towards the household, or even towards one individual.
 
-<span class="atom-split" data-atom="044" data-title="OF THE THEOLOGICAL VIRTUES (FOUR ARTICLES)" data-chapter="OF THE THEOLOGICAL VIRTUES (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="OF THE THEOLOGICAL VIRTUES (FOUR ARTICLES)" data-chapter="OF THE THEOLOGICAL VIRTUES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the [Theological Virtues](/concepts/theological_virtues): under which head there are four points of
 inquiry:
@@ -2193,7 +2193,7 @@ inquiry:
 (3) How many, and which are they?
 (4) Of their order.
 
-<span class="atom-split" data-atom="045" data-title="Whether there are any theological virtues?" data-chapter="Whether there are any theological virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether there are any theological virtues?" data-chapter="Whether there are any theological virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not any [theological virtues](/concepts/theological_virtues). For according to Phys.
 vii, text. 17, "virtue is the disposition of a perfect thing to that which is best: and by perfect, I mean
@@ -2244,7 +2244,7 @@ the beginning and end of nature, but in proportion to nature. But the reason and
 their nature, are not sufficiently directed to Him in so far as He is the object of supernatural
 happiness.
 
-<span class="atom-split" data-atom="046" data-title="Whether the theological virtues are distinct from the intellectual and moral virtues?" data-chapter="Whether the theological virtues are distinct from the intellectual and moral virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether the theological virtues are distinct from the intellectual and moral virtues?" data-chapter="Whether the theological virtues are distinct from the intellectual and moral virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [theological virtues](/concepts/theological_virtues) are not distinct from the moral and
 intellectual virtues. For the theological virtues, if they be in a human soul, must needs perfect it,
@@ -2289,7 +2289,7 @@ A[2], ad 1). If, however, it be understood of the love of charity, it does not m
 virtue is charity essentially: but that all other virtues depend on charity in some way, as we shall
 show further on (Q[65], AA[2],5; SS, Q[23], A[7]).
 
-<span class="atom-split" data-atom="047" data-title="Whether faith, hope, and charity are fittingly reckoned as theological virtues?" data-chapter="Whether faith, hope, and charity are fittingly reckoned as theological virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether faith, hope, and charity are fittingly reckoned as theological virtues?" data-chapter="Whether faith, hope, and charity are fittingly reckoned as theological virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [faith, hope, and charity](/concepts/theological_virtues) are not fittingly reckoned as three
 theological virtues. For the theological virtues are in relation to Divine happiness, what the natural
@@ -2344,7 +2344,7 @@ Reply to Objection 3: Two things pertain to the appetite, viz. movement to the e
 conformity with the end by means of love. Hence there must needs be two theological virtues in
 the human appetite, namely, hope and charity.
 
-<span class="atom-split" data-atom="048" data-title="Whether faith precedes hope, and hope charity?" data-chapter="Whether faith precedes hope, and hope charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether faith precedes hope, and hope charity?" data-chapter="Whether faith precedes hope, and hope charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the order of the [theological virtues](/concepts/theological_virtues) is not that faith precedes
 hope, and hope charity. For the root precedes that which grows from it. Now charity is the root of
@@ -2392,7 +2392,7 @@ love at first; though afterwards hope is increased by love. Because from the fac
 that he can obtain a good through someone, he begins to love him: and from the fact that he loves
 him, he then hopes all the more in him.
 
-<span class="atom-split" data-atom="049" data-title="OF THE CAUSE OF VIRTUES (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF VIRTUES (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="OF THE CAUSE OF VIRTUES (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF VIRTUES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of virtues; and under this head there are four points of inquiry:
 (1) Whether virtue is in us by nature?
@@ -2400,7 +2400,7 @@ We must now consider the cause of virtues; and under this head there are four po
 (3) Whether any moral virtues are in us by infusion?
 (4) Whether virtue acquired by habituation, is of the same species as infused virtue?
 
-<span class="atom-split" data-atom="050" data-title="Whether virtue is in us by nature?" data-chapter="Whether virtue is in us by nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether virtue is in us by nature?" data-chapter="Whether virtue is in us by nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virtue is in us by nature. For Damascene says (De Fide Orth.
 iii, 14): "Virtues are natural to us and are equally in all of us." And Antony says in his sermon to
@@ -2464,7 +2464,7 @@ virtue which are in us by nature, inasmuch as we are rational beings. The third 
 taken in the sense that, owing to the natural disposition which the body has from birth, one has an
 aptitude for pity, another for living temperately, another for some other virtue.
 
-<span class="atom-split" data-atom="051" data-title="Whether any virtue is caused in us by habituation?" data-chapter="Whether any virtue is caused in us by habituation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether any virtue is caused in us by habituation?" data-chapter="Whether any virtue is caused in us by habituation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virtues can not be caused in us by habituation. Because a gloss
 of [Augustine](/figures/augustine) [*Cf. Lib. Sentent. Prosperi cvi.] commenting on Rom. 14:23, "All that is not of faith
@@ -2523,7 +2523,7 @@ of the appetite which results through the appetite partaking of reason, which re
 to moral virtue. Accordingly human acts, in so far as they proceed from higher principles, can cause
 acquired human virtues.
 
-<span class="atom-split" data-atom="052" data-title="Whether any moral virtues are in us by infusion?" data-chapter="Whether any moral virtues are in us by infusion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether any moral virtues are in us by infusion?" data-chapter="Whether any moral virtues are in us by infusion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no virtues besides the [theological virtues](/concepts/theological_virtues) are infused in us by
 God. Because God does not do by Himself, save perhaps sometimes miraculously, those things
@@ -2563,7 +2563,7 @@ Reply to Objection 3: The power of those naturally instilled principles does not
 the capacity of nature. Consequently man needs in addition to be perfected by other principles in
 relation to his supernatural end.
 
-<span class="atom-split" data-atom="053" data-title="Whether virtue by habituation belongs to the same species as infused virtue?" data-chapter="Whether virtue by habituation belongs to the same species as infused virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether virtue by habituation belongs to the same species as infused virtue?" data-chapter="Whether virtue by habituation belongs to the same species as infused virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that infused virtue does not differ in species from acquired virtue.
 Because acquired and infused virtues, according to what has been said (A[3]), do not differ
@@ -2618,7 +2618,7 @@ other eyes are formed naturally: consequently it was of the same species. It wou
 God wished to give a man miraculously virtues, such as those that are acquired by acts. But the
 case is not so in the question before us, as stated.
 
-<span class="atom-split" data-atom="054" data-title="OF THE MEAN OF VIRTUE (FOUR ARTICLES)" data-chapter="OF THE MEAN OF VIRTUE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="OF THE MEAN OF VIRTUE (FOUR ARTICLES)" data-chapter="OF THE MEAN OF VIRTUE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the properties of virtues: and (1) the mean of virtue, (2) the connection
 between virtues, (3) equality of virtues, (4) the duration of virtues. Under the first head there are
@@ -2628,7 +2628,7 @@ four points of inquiry:
 (3) Whether the intellectual virtues observe the mean?
 (4) Whether the [theological virtues](/concepts/theological_virtues) do?
 
-<span class="atom-split" data-atom="055" data-title="Whether moral virtues observe the mean?" data-chapter="Whether moral virtues observe the mean?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether moral virtues observe the mean?" data-chapter="Whether moral virtues observe the mean?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral virtue does not observe the mean. For the nature of a
 mean is incompatible with that which is extreme. Now the nature of virtue is to be something
@@ -2689,7 +2689,7 @@ an undue manner, i.e. out of unlawful superstition, or again for vainglory, it w
 if it be not done when it ought to be done, or as it ought to be done, it is a vice by deficiency: for
 instance, in those who break their vows of virginity or poverty.
 
-<span class="atom-split" data-atom="056" data-title="Whether the mean of moral virtue is the real mean, or the rational mean?" data-chapter="Whether the mean of moral virtue is the real mean, or the rational mean?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether the mean of moral virtue is the real mean, or the rational mean?" data-chapter="Whether the mean of moral virtue is the real mean, or the rational mean?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the mean of moral virtue is not the rational mean, but the real
 mean. For the good of moral virtue consists in its observing the mean. Now, good, as stated in
@@ -2726,7 +2726,7 @@ to us, who are moved in respect of the passions.
 This suffices for the Replies to the Objections. For the first two arguments take the rational
 mean as being in the very act of reason, while the third argues from the mean of justice.
 
-<span class="atom-split" data-atom="057" data-title="Whether the intellectual virtues observe the mean?" data-chapter="Whether the intellectual virtues observe the mean?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether the intellectual virtues observe the mean?" data-chapter="Whether the intellectual virtues observe the mean?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual virtues do not observe the mean. Because moral
 virtue observes the mean by conforming to the rule of reason. But the intellectual virtues are in
@@ -2785,7 +2785,7 @@ something positive in both cases. Hence "to be" and "not to be" are contradictor
 stating that "good is good" is contrary to the opinion stating that "good is not good": and between
 two such contraries intellectual virtue observes the mean.
 
-<span class="atom-split" data-atom="058" data-title="Whether the theological virtues observe the mean?" data-chapter="Whether the theological virtues observe the mean?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the theological virtues observe the mean?" data-chapter="Whether the theological virtues observe the mean?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [theological virtue](/concepts/theological_virtues) observes the mean. For the good of other
 virtues consists in their observing the mean. Now the theological virtues surpass the others in
@@ -2838,7 +2838,7 @@ goodness is infinite. In like manner faith holds a middle course between contrar
 comparison with its object, which is God, in Whom we cannot believe too much; but in so far as
 human opinion itself takes a middle position between contrary opinions, as was explained above.
 
-<span class="atom-split" data-atom="059" data-title="OF THE CONNECTION OF VIRTUES (FIVE ARTICLES)" data-chapter="OF THE CONNECTION OF VIRTUES (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="OF THE CONNECTION OF VIRTUES (FIVE ARTICLES)" data-chapter="OF THE CONNECTION OF VIRTUES (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the connection of virtues: under which head there are five points of
 inquiry:
@@ -2848,7 +2848,7 @@ inquiry:
 (4) Whether faith and hope can be without charity?
 (5) Whether charity can be without them?
 
-<span class="atom-split" data-atom="060" data-title="Whether the moral virtues are connected with one another? (1/2)" data-chapter="Whether the moral virtues are connected with one another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the moral virtues are connected with one another? (1/2)" data-chapter="Whether the moral virtues are connected with one another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the moral virtues are not connected with one another. Because
 moral virtues are sometimes caused by the exercise of acts, as is proved in Ethic. ii, 1,2. But man
@@ -2948,7 +2948,7 @@ the other intellectual virtues, as do the moral virtues depend on prudence, beca
 a fashion, moves the reason, and the reason the appetite, as stated above (Q[9], A[1]; Q[58], A[5],
 ad 1).
 
-<span class="atom-split" data-atom="061" data-title="Whether the moral virtues are connected with one another? (2/2)" data-chapter="Whether the moral virtues are connected with one another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the moral virtues are connected with one another? (2/2)" data-chapter="Whether the moral virtues are connected with one another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Those things to which the moral virtues incline, are as the principles of
 prudence: whereas the products of art are not the principles, but the matter of art. Now it is evident
@@ -2960,7 +2960,7 @@ to one another, but not things "made," as stated above (ad 3). Consequently the 
 in one department of things to be done, would result in a deficiency affecting other things to be
 done: whereas this does not occur in things to be made.
 
-<span class="atom-split" data-atom="062" data-title="Whether moral virtues can be without charity?" data-chapter="Whether moral virtues can be without charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether moral virtues can be without charity?" data-chapter="Whether moral virtues can be without charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that moral virtues can be without charity. For it is stated in the
 Liber Sentent. Prosperi vii, that "every virtue save charity may be common to the good and bad."
@@ -3013,7 +3013,7 @@ Reply to Objection 2: This argument holds good of virtue in the sense of acquire
 Reply to Objection 3: Though charity surpasses science and prudence, yet prudence depends
 on charity, as stated: and consequently so do all the infused moral virtues.
 
-<span class="atom-split" data-atom="063" data-title="Whether charity can be without moral virtue?" data-chapter="Whether charity can be without moral virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether charity can be without moral virtue?" data-chapter="Whether charity can be without moral virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem possible to have charity without the moral virtues. For when one
 thing suffices for a certain purpose, it is superfluous to employ others. Now charity alone suffices
@@ -3070,7 +3070,7 @@ Reply to Objection 3: Certain saints are said not to have certain virtues, in so
 experience difficulty in the acts of those virtues, for the reason stated; although they have the habits
 of all the virtues.
 
-<span class="atom-split" data-atom="064" data-title="Whether faith and hope can be without charity?" data-chapter="Whether faith and hope can be without charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether faith and hope can be without charity?" data-chapter="Whether faith and hope can be without charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that faith and hope are never without charity. Because, since they
 are [theological virtues](/concepts/theological_virtues), they seem to be more excellent than even the infused moral virtues. But the
@@ -3122,7 +3122,7 @@ Reply to Objection 2: This argument is true of faith considered as a perfect vir
 Reply to Objection 3: Augustine is speaking here of that hope whereby we look to gain future
 bliss through merits which we have already; and this is not without charity.
 
-<span class="atom-split" data-atom="065" data-title="Whether charity can be without faith and hope?" data-chapter="Whether charity can be without faith and hope?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether charity can be without faith and hope?" data-chapter="Whether charity can be without faith and hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity can be without faith and hope. For charity is the love
 of God. But it is possible for us to love God naturally, without already having faith, or hope in
@@ -3164,7 +3164,7 @@ Reply to Objection 3: In Christ there was neither faith nor hope, on account of 
 an imperfection. But instead of faith, He had manifest vision, and instead of hope, full comprehension
 [*See above, Q[4], A[3]]: so that in Him was perfect charity.
 
-<span class="atom-split" data-atom="066" data-title="OF EQUALITY AMONG THE VIRTUES (SIX ARTICLES)" data-chapter="OF EQUALITY AMONG THE VIRTUES (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="OF EQUALITY AMONG THE VIRTUES (SIX ARTICLES)" data-chapter="OF EQUALITY AMONG THE VIRTUES (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider equality among the virtues: under which head there are six points of
 inquiry:
@@ -3175,7 +3175,7 @@ inquiry:
 (5) Of the intellectual virtues in comparison with one another;
 (6) Of the [theological virtues](/concepts/theological_virtues) in comparison with one another.
 
-<span class="atom-split" data-atom="067" data-title="Whether one virtue can be greater or less than another?" data-chapter="Whether one virtue can be greater or less than another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether one virtue can be greater or less than another?" data-chapter="Whether one virtue can be greater or less than another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one virtue cannot be greater or less than another. For it is
 written (Apoc. 21:16) that the sides of the city of Jerusalem are equal; and a gloss says that the
@@ -3239,7 +3239,7 @@ Reply to Objection 3: God does not work by necessity of nature, but according to
 of His wisdom, whereby He bestows on men various measures of virtue, according to Eph. 4:7:
 "To every one of you [Vulg.: 'us'] is given grace according to the measure of the giving of Christ."
 
-<span class="atom-split" data-atom="068" data-title="Whether all the virtues that are together in one man, are equal?" data-chapter="Whether all the virtues that are together in one man, are equal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether all the virtues that are together in one man, are equal?" data-chapter="Whether all the virtues that are together in one man, are equal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the virtues in one same man are not all equally intense. For
 the Apostle says (1 Cor. 7:7): "Everyone hath his proper gift from God; one after this manner, and
@@ -3303,7 +3303,7 @@ virtue, on account of his more admirable readiness for the act of one virtue tha
 virtue.
 This suffices for the Reply to the Third Objection.
 
-<span class="atom-split" data-atom="069" data-title="Whether the moral virtues are better than the intellectual virtues?" data-chapter="Whether the moral virtues are better than the intellectual virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether the moral virtues are better than the intellectual virtues?" data-chapter="Whether the moral virtues are better than the intellectual virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the moral virtues are better than the intellectual. Because that
 which is more necessary, and more lasting, is better. Now the moral virtues are "more lasting even
@@ -3359,7 +3359,7 @@ but also in appointing the end. Now the end of each moral virtue is to attain th
 proper to that virtue; which mean is appointed according to the right ruling of prudence, as stated
 in Ethic. ii, 6; vi, 13.
 
-<span class="atom-split" data-atom="070" data-title="Whether justice is the chief of the moral virtues?" data-chapter="Whether justice is the chief of the moral virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether justice is the chief of the moral virtues?" data-chapter="Whether justice is the chief of the moral virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that justice is not the chief of the moral virtues. For it is better to
 give of one's own than to pay what is due. Now the former belongs to liberality, the latter to justice.
@@ -3416,7 +3416,7 @@ Reply to Objection 3: There can be no magnanimity without the other virtues, as 
 Ethic. iv, 3. Hence it is compared to them as their ornament, so that relatively it is greater than all
 the others, but not simply.
 
-<span class="atom-split" data-atom="071" data-title="Whether wisdom is the greatest of the intellectual virtues?" data-chapter="Whether wisdom is the greatest of the intellectual virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether wisdom is the greatest of the intellectual virtues?" data-chapter="Whether wisdom is the greatest of the intellectual virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that wisdom is not the greatest of the intellectual virtues. Because
 the commander is greater than the one commanded. Now prudence seems to command wisdom,
@@ -3490,7 +3490,7 @@ are the object of understanding, not only by drawing conclusions from them, as o
 but also by passing its judgment on them, and by vindicating them against those who deny them.
 Hence it follows that wisdom is a greater virtue than understanding.
 
-<span class="atom-split" data-atom="072" data-title="Whether charity is the greatest of the theological virtues?" data-chapter="Whether charity is the greatest of the theological virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether charity is the greatest of the theological virtues?" data-chapter="Whether charity is the greatest of the theological virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not the greatest of the [theological virtues](/concepts/theological_virtues). Because,
 since faith is in the intellect, while hope and charity are in the appetitive power, it seems that faith
@@ -3543,7 +3543,7 @@ cause. For otherwise the heat of fire would be more noble than the soul, to whic
 the matter. It is in this way that faith begets hope, and hope charity: in the sense, to wit, that one is
 a disposition to the other.
 
-<span class="atom-split" data-atom="073" data-title="OF THE DURATION OF VIRTUES AFTER THIS LIFE (SIX ARTICLES)" data-chapter="OF THE DURATION OF VIRTUES AFTER THIS LIFE (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="OF THE DURATION OF VIRTUES AFTER THIS LIFE (SIX ARTICLES)" data-chapter="OF THE DURATION OF VIRTUES AFTER THIS LIFE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the duration of virtues after this life, under which head there are six
 points of inquiry:
@@ -3554,7 +3554,7 @@ points of inquiry:
 (5) Whether anything remains of faith or hope?
 (6) Whether charity remains?
 
-<span class="atom-split" data-atom="074" data-title="Whether the moral virtues remain after this life?" data-chapter="Whether the moral virtues remain after this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether the moral virtues remain after this life?" data-chapter="Whether the moral virtues remain after this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the moral virtues doe not remain after this life. For in the future
 state of glory men will be like angels, according to Mat. 22:30. But it is absurd to put moral virtues
@@ -3613,7 +3613,7 @@ of these virtues, as stated above (Q[63], A[1]). Justice, however, will remain b
 will. Hence of justice it is specially said that it is "perpetual and immortal"; both by reason of its
 subject, since the will is incorruptible; and because its act will not change, as stated.
 
-<span class="atom-split" data-atom="075" data-title="Whether the intellectual virtues remain after this life?" data-chapter="Whether the intellectual virtues remain after this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether the intellectual virtues remain after this life?" data-chapter="Whether the intellectual virtues remain after this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual virtues do not remain after this life. For the
 Apostle says (1 Cor. 13:8,9) that "knowledge shall be destroyed," and he states the reason to be
@@ -3670,7 +3670,7 @@ Reply to Objection 3: As stated in the FP, Q[89], A[1] the separated soul has a 
 understanding, other than by turning to the phantasms. Consequently science remains, yet not as
 to the same mode of operation; as we have stated concerning the moral virtues (A[1]).
 
-<span class="atom-split" data-atom="076" data-title="Whether faith remains after this life?" data-chapter="Whether faith remains after this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether faith remains after this life?" data-chapter="Whether faith remains after this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that faith remains after this life. Because faith is more excellent
 than science. Now science remains after this life, as stated above (A[2]). Therefore faith remains
@@ -3755,7 +3755,7 @@ Reply to Objection 2: Faith is the foundation in as much as it is knowledge: con
 when this knowledge is perfected, the foundation will be perfected also.
 The Reply to the Third Objection is clear from what has been said.
 
-<span class="atom-split" data-atom="077" data-title="Whether hope remains after death, in the state of glory?" data-chapter="Whether hope remains after death, in the state of glory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether hope remains after death, in the state of glory?" data-chapter="Whether hope remains after death, in the state of glory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope remains after death, in [the state](/concepts/state) of glory. Because hope
 perfects the human appetite in a more excellent manner than the moral virtues. But the moral virtues
@@ -3819,7 +3819,7 @@ us as something difficult. Hence he that has money is not, properly speaking, sa
 he can buy at once. In like manner those who have the glory of the soul are not, properly speaking,
 said to hope for the glory of the body, but only to desire it.
 
-<span class="atom-split" data-atom="078" data-title="Whether anything of faith or hope remains in glory?" data-chapter="Whether anything of faith or hope remains in glory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether anything of faith or hope remains in glory?" data-chapter="Whether anything of faith or hope remains in glory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that something of faith and hope remains in glory. For when that
 which is proper to a thing is removed, there remains what is common; thus it is stated in De Causis
@@ -3884,7 +3884,7 @@ money, and therefore it is reasonable for the habit of liberality to remain. But
 not only is the object of faith, which is the unseen, removed actually, but even its possibility, by
 reason of the unchangeableness of heavenly bliss: and so such a habit would remain to no purpose.
 
-<span class="atom-split" data-atom="079" data-title="Whether charity remains after this life, in glory?" data-chapter="Whether charity remains after this life, in glory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether charity remains after this life, in glory?" data-chapter="Whether charity remains after this life, in glory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity does not remain after this life, in glory. Because
 according to 1 Cor. 13:10, "when that which is perfect is come, that which is in part," i.e. that which
@@ -3922,7 +3922,7 @@ Reply to Objection 3: The reason why charity of the wayfarer cannot attain to th
 of the charity of heaven, is a difference on the part of the cause: for vision is a cause of love, as
 stated in Ethic. ix, 5: and the more perfectly we know God, the more perfectly we love Him.
 
-<span class="atom-split" data-atom="080" data-title="OF THE GIFTS (EIGHT ARTICLES)" data-chapter="OF THE GIFTS (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="OF THE GIFTS (EIGHT ARTICLES)" data-chapter="OF THE GIFTS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now come to consider the Gifts; under which head there are eight points of inquiry:
 (1) Whether the Gifts differ from the virtues?
@@ -3934,7 +3934,7 @@ We now come to consider the Gifts; under which head there are eight points of in
 (7) Of their comparison with one another;
 (8) Of their comparison with the virtues.
 
-<span class="atom-split" data-atom="081" data-title="Whether the Gifts differ from the virtues? (1/2)" data-chapter="Whether the Gifts differ from the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether the Gifts differ from the virtues? (1/2)" data-chapter="Whether the Gifts differ from the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts do not differ from the virtues. For Gregory commenting
 on Job 1:2, "There were born to him seven sons," says (Moral. i, 12): "Seven sons were born to us,
@@ -4033,7 +4033,7 @@ the good as appointed by reason; but they are opposed to the gifts, in as much a
 to the Divine instinct. For the same thing is opposed both to God and to reason, whose light flows
 from God.
 
-<span class="atom-split" data-atom="082" data-title="Whether the Gifts differ from the virtues? (2/2)" data-chapter="Whether the Gifts differ from the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether the Gifts differ from the virtues? (2/2)" data-chapter="Whether the Gifts differ from the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: This definition applies to virtue taken in its general sense. Consequently,
 if we wish to restrict it to virtue as distinguished from the gifts, we must explain the words, "whereby
@@ -4045,7 +4045,7 @@ Reply to Objection 4: Wisdom is called an intellectual virtue, so far as it proc
 judgment of reason: but it is called a gift, according as its work proceeds from the Divine prompting.
 The same applies to the other virtues.
 
-<span class="atom-split" data-atom="083" data-title="Whether the gifts are necessary to man for salvation?" data-chapter="Whether the gifts are necessary to man for salvation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether the gifts are necessary to man for salvation?" data-chapter="Whether the gifts are necessary to man for salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts are not necessary to man for salvation. Because the
 gifts are ordained to a perfection surpassing the ordinary perfection of virtue. Now it is not necessary
@@ -4115,7 +4115,7 @@ all folly, ignorance, dullness of mind and hardness of heart, and the rest. Cons
 the Holy Ghost, which make us amenable to His promptings, are said to be given as remedies to
 these defects.
 
-<span class="atom-split" data-atom="084" data-title="Whether the gifts of the Holy Ghost are habits?" data-chapter="Whether the gifts of the Holy Ghost are habits?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether the gifts of the Holy Ghost are habits?" data-chapter="Whether the gifts of the Holy Ghost are habits?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts of the Holy Ghost are not habits. Because a [habit](/concepts/custom) is
 a quality abiding in man, being defined as "a quality difficult to remove," as stated in the
@@ -4162,7 +4162,7 @@ needs a habit.
 Reply to Objection 3: Prophecy is one of those gifts which are for the manifestation of the
 Spirit, not for the necessity of salvation: hence the comparison fails.
 
-<span class="atom-split" data-atom="085" data-title="Whether the seven gifts of the Holy Ghost are suitably enumerated?" data-chapter="Whether the seven gifts of the Holy Ghost are suitably enumerated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether the seven gifts of the Holy Ghost are suitably enumerated?" data-chapter="Whether the seven gifts of the Holy Ghost are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that seven gifts of the Holy Ghost are unsuitably enumerated. For
 in that enumeration four are set down corresponding to the intellectual virtues, viz. wisdom,
@@ -4240,7 +4240,7 @@ gifts are set down as corresponding to wisdom as their directing principle; on t
 the gift of understanding; on the part of the affections, the gift of fear. Because the principal reason
 for fearing God is taken from a consideration of the Divine excellence, which wisdom considers.
 
-<span class="atom-split" data-atom="086" data-title="Whether the gifts of the Holy Ghost are connected?" data-chapter="Whether the gifts of the Holy Ghost are connected?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether the gifts of the Holy Ghost are connected?" data-chapter="Whether the gifts of the Holy Ghost are connected?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts are not connected, for the Apostle says (1 Cor. 12:8):
 "To one . . . by the Spirit, is given the word of wisdom, and to another, the word of knowledge,
@@ -4299,7 +4299,7 @@ destitute, unless one virtue lend its support to another." We are therefore not 
 gift can be without another; but that if understanding were without wisdom, it would not be a gift;
 even as temperance, without justice, would not be a virtue.
 
-<span class="atom-split" data-atom="087" data-title="Whether the gifts of the Holy Ghost remain in heaven?" data-chapter="Whether the gifts of the Holy Ghost remain in heaven?" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Whether the gifts of the Holy Ghost remain in heaven?" data-chapter="Whether the gifts of the Holy Ghost remain in heaven?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts of the Holy Ghost do not remain in heaven. For
 Gregory says (Moral. ii, 26) that by means of His sevenfold gift the "Holy Ghost instructs the mind
@@ -4364,7 +4364,7 @@ Reply to Objection 3: This argument considers the gifts as to their matter. For 
 the gifts will not be the works of the active life; but all the gifts will have their respective acts about
 things pertaining to the contemplative life, which is the life of heavenly bliss.
 
-<span class="atom-split" data-atom="088" data-title="Whether the gifts are set down by Isaias in their order of dignity?" data-chapter="Whether the gifts are set down by Isaias in their order of dignity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether the gifts are set down by Isaias in their order of dignity?" data-chapter="Whether the gifts are set down by Isaias in their order of dignity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts are not set down by Isaias in their order of dignity.
 For the principal gift is, seemingly, that which, more than the others, God requires of man. Now
@@ -4431,7 +4431,7 @@ united to piety: because counsel and fortitude are concerned with matters of dif
 knowledge and piety are concerned with ordinary matters. Hence counsel together with fortitude,
 by reason of their matter, are given the preference to knowledge and piety.
 
-<span class="atom-split" data-atom="089" data-title="Whether the virtues are more excellent than the gifts?" data-chapter="Whether the virtues are more excellent than the gifts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether the virtues are more excellent than the gifts?" data-chapter="Whether the virtues are more excellent than the gifts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the virtues are more excellent than the gifts. For [Augustine](/figures/augustine)
 says (De Trin. xv, 18) while speaking of charity: "No gift of God is more excellent than this. It is
@@ -4495,7 +4495,7 @@ Consequently wisdom and understanding and the like cannot be used to evil purpos
 they are gifts of the Holy Ghost. But, lest they depart from the perfection of charity, they assist one
 another. This is what Gregory means to say.
 
-<span class="atom-split" data-atom="090" data-title="OF THE BEATITUDES (FOUR ARTICLES)" data-chapter="OF THE BEATITUDES (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="OF THE BEATITUDES (FOUR ARTICLES)" data-chapter="OF THE BEATITUDES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the beatitudes: under which head there are four points of inquiry:
 (1) Whether the beatitudes differ from the gifts and virtues?
@@ -4503,7 +4503,7 @@ We must now consider the beatitudes: under which head there are four points of i
 (3) Of the number of the beatitudes;
 (4) Of the fittingness of the rewards ascribed to the beatitudes.
 
-<span class="atom-split" data-atom="091" data-title="Whether the beatitudes differ from the virtues and gifts?" data-chapter="Whether the beatitudes differ from the virtues and gifts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Whether the beatitudes differ from the virtues and gifts?" data-chapter="Whether the beatitudes differ from the virtues and gifts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the beatitudes do not differ from the virtues and gifts. For
 [Augustine](/figures/augustine) (De Serm. Dom. in Monte i, 4) assigns the beatitudes recited by Matthew (v 3, seqq.)
@@ -4549,7 +4549,7 @@ applies to justice and mercy. And though these might seem to be virtues, they ar
 ascribed to gifts, because the gifts perfect man in all matters wherein the virtues perfect him, as
 stated above (Q[68], A[2]).
 
-<span class="atom-split" data-atom="092" data-title="Whether the rewards assigned to the beatitudes refer to this life?" data-chapter="Whether the rewards assigned to the beatitudes refer to this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether the rewards assigned to the beatitudes refer to this life?" data-chapter="Whether the rewards assigned to the beatitudes refer to this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the rewards assigned to the beatitudes do not refer to this life.
 Because some are said to be happy because they hope for a reward, as stated above (A[1]). Now
@@ -4618,7 +4618,7 @@ we can, so to speak, "see God." Likewise, in this life, those who are the "peace
 own movements, approach to likeness to God, and are called "the children of God." Nevertheless
 these things will be more perfectly fulfilled in heaven.
 
-<span class="atom-split" data-atom="093" data-title="Whether the beatitudes are suitably enumerated? (1/2)" data-chapter="Whether the beatitudes are suitably enumerated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the beatitudes are suitably enumerated? (1/2)" data-chapter="Whether the beatitudes are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the beatitudes are unsuitably enumerated. For the beatitudes
 are assigned to the gifts, as stated above (A[1], ad 1). Now some of the gifts, viz. wisdom and
@@ -4720,7 +4720,7 @@ my counsel be acceptable to the king [Vulg: to thee, O king]: and redeem thou th
 and thy iniquities with works of mercy to the poor." It is thus that [Augustine](/figures/augustine) assigns them (De
 Serm. Dom. in Monte i, 4).
 
-<span class="atom-split" data-atom="094" data-title="Whether the beatitudes are suitably enumerated? (2/2)" data-chapter="Whether the beatitudes are suitably enumerated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether the beatitudes are suitably enumerated? (2/2)" data-chapter="Whether the beatitudes are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: All the beatitudes mentioned in Holy Writ must be reduced to these,
 either as to the merits or as to the rewards: because they must all belong either to the active or to
@@ -4748,7 +4748,7 @@ Ambrose says on Lk. 6:20, "poverty corresponds to temperance, which is unmoved b
 hunger, to justice, since who hungers is compassionate and, through compassion gives; mourning,
 to prudence, which deplores perishable things; endurance of men's hatred belongs to fortitude."
 
-<span class="atom-split" data-atom="095" data-title="Whether the rewards of the beatitudes are suitably enumerated?" data-chapter="Whether the rewards of the beatitudes are suitably enumerated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether the rewards of the beatitudes are suitably enumerated?" data-chapter="Whether the rewards of the beatitudes are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the rewards of the beatitudes are unsuitably enumerated.
 Because the kingdom of heaven, which is eternal life, contains all good things. Therefore, once
@@ -4815,7 +4815,7 @@ able to desire. And yet more is it to see God, even as he is a greater man who n
 court, but also sees the king's countenance. Lastly, the highest place in the royal palace belongs to
 the king's son.
 
-<span class="atom-split" data-atom="096" data-title="OF THE FRUITS OF THE HOLY GHOST (FOUR ARTICLES)" data-chapter="OF THE FRUITS OF THE HOLY GHOST (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="OF THE FRUITS OF THE HOLY GHOST (FOUR ARTICLES)" data-chapter="OF THE FRUITS OF THE HOLY GHOST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the Fruits of the Holy Ghost: under which head there are four points of
 inquiry:
@@ -4824,7 +4824,7 @@ inquiry:
 (3) Of their number?
 (4) Of their opposition to the works of the flesh.
 
-<span class="atom-split" data-atom="097" data-title="Whether the fruits of the Holy Ghost which the Apostle enumerates (Gal. 5) are acts?" data-chapter="Whether the fruits of the Holy Ghost which the Apostle enumerates (Gal. 5) are acts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Whether the fruits of the Holy Ghost which the Apostle enumerates (Gal. 5) are acts?" data-chapter="Whether the fruits of the Holy Ghost which the Apostle enumerates (Gal. 5) are acts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the fruits of the Holy Ghost, enumerated by the Apostle (Gal.
 5:22,23), are not acts. For that which bears fruit, should not itself be called a fruit, else we should
@@ -4884,7 +4884,7 @@ Augustine writes (Tract. xl in Joan.): "Faith is to believe what thou seest not"
 iii, 10): "Charity is the movement of the soul in loving God and our neighbor." It is thus that the
 names of the virtues are used in reckoning the fruits.
 
-<span class="atom-split" data-atom="098" data-title="Whether the fruits differ from the beatitudes?" data-chapter="Whether the fruits differ from the beatitudes?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether the fruits differ from the beatitudes?" data-chapter="Whether the fruits differ from the beatitudes?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the fruits do not differ from the beatitudes. For the beatitudes
 are assigned to the gifts, as stated above (Q[69], A[1], ad 1). But the gifts perfect man in so far as
@@ -4919,7 +4919,7 @@ and perfect; wherefore not all the fruits are beatitudes.
 
 Reply to Objection 3: More is required for a beatitude than for a fruit, as stated.
 
-<span class="atom-split" data-atom="099" data-title="Whether the fruits are suitably enumerated by the Apostle?" data-chapter="Whether the fruits are suitably enumerated by the Apostle?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether the fruits are suitably enumerated by the Apostle?" data-chapter="Whether the fruits are suitably enumerated by the Apostle?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the fruits are unsuitably enumerated by the Apostle (Gal.
 5:22,23). Because, elsewhere, he says that there is only one fruit of the present life; according to
@@ -5012,7 +5012,7 @@ are reduced to charity, joy and peace. The reason why he mentions these rather t
 these imply either enjoyment of good things, or relief from evils, which things seem to belong to
 the notion of fruit.
 
-<span class="atom-split" data-atom="100" data-title="Whether the fruits of the Holy Ghost are contrary to the works of the flesh?" data-chapter="Whether the fruits of the Holy Ghost are contrary to the works of the flesh?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether the fruits of the Holy Ghost are contrary to the works of the flesh?" data-chapter="Whether the fruits of the Holy Ghost are contrary to the works of the flesh?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the fruits of the Holy Ghost are not contrary to the works of
 the flesh, which the Apostle enumerates (Gal. 5:19, seqq.). Because contraries are in the same

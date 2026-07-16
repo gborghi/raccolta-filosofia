@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/diario_de_un_español" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Diario de un español" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Diario de un español" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, 24 de Enero de 1913
 

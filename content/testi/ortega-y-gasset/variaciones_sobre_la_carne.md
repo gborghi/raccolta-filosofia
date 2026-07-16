@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/variaciones_sobre_la_carne" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Variaciones sobre la carne" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Variaciones sobre la carne" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando vemos el cuerpo de un hombre, ¿vemos un cuerpo o vemos un hombre? Porque el hombre no es sólo un cuerpo, sino, tras un cuerpo, un alma, espíritu, conciencia, psique, yo, persona, como se prefiera llamar a toda esa porción del hombre que no es espacial, que es idea, sentimiento, volición, memoria, imagen, sensación, instinto. Dicho de otra manera: el cuerpo humano ¿es, por su aspecto, cuerpo en el mismo sentido en que lo es un mineral? No se trata ahora de si la Química puede o no reducir a los mismos elementos un organismo humano y un mineral, sino de si el aspecto del uno se puede reducir a los mismos componentes que el aspecto del otro.
 

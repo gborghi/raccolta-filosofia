@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_expulsión_de_las_derechas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La expulsión de las «derechas»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La expulsión de las «derechas»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En pocos días, el Miedo, que es un rey sin cabeza, se ha conquistado un amplio reino. El miedo reina en las «derechas» españolas, de Gog hasta Magog. Leed sus periódicos, escuchad al paso sus diálogos, traducid sus gestos.
 

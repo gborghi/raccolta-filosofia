@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_la_sinceridad_triunfante" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre la sinceridad triunfante" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre la sinceridad triunfante" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En el número anterior de esta Revista —en la primera parte de mis notas sobre Kant— opongo a las épocas de vida clásica la nuestra, y a la suavidad, la perfección, la quietud de aquéllas, nuestro modo de existir, áspero, agrio, roto, lleno de inminencias. Esto no implica —añado— que las edades agrias no tengan sus virtudes propias, ausentes de las dulces.
 

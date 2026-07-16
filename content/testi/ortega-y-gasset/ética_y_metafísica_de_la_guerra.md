@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ética_y_metafísica_de_la_guerra" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ética y metafísica de la guerra" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ética y metafísica de la guerra" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No obstante reconocer Scheler en la ética la última instancia para juzgar del valor de la guerra, su razonamiento deriva siempre hacia consideraciones utilitarias. Cierto que desdeña las ventajas económicas; pero tanto más se entrega a un utilismo de orden superior. Ahora bien; dentro del sistema ideológico de Scheler —y esto es lo que más me ha interesado en otros libros suyos anteriores a éste—, el utilismo, aun el que busca sublimes ventajas, es un punto de vista inmoral.
 
@@ -46,7 +46,7 @@ El derecho internacional comenzará propiamente cuando se hayan inventado las no
 
 Pensando de esta suerte, claro es que todo pacifismo que comience por negar el núcleo de justicia protoplasmática, informe que hay en la guerra, me parece ilusorio, y, además, culturalmente pobre. Como prueba de la sordidez mental con que el europeo de nuestros días se acerca a estas cuestiones, léase el capítulo La paz del mundo del libro de Wells, citado ya[78]. Sólo le ocurre para mejorar la condición de la enemistad humana que se cree un Consejo mundial, especie de Consejo de La Haya, en superlativo, que se suprima los embajadores, se prohíba los Tratados secretos, se estatice las industrias guerreras y, en vez de fusiles, se arme de garrotes a los soldados.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Verdad es que Wells se obstina en mirar la guerra como un acontecimiento sin hondas raíces en el corazón humano. Así puede atribuirlo a causas superficiales, una de ellas, la dispepsia que suelen padecer los escritores. «Una grande parte del carácter literario belicoso —dice— es patológico. Los hombres sumidos en el estudio y emparedados en las Universidades pescan enfermedades del hígado y del corazón; sufren con su timidez, con la persuasión de un mérito excesivo y desatendido —melancolía de solterona—, y padecen odio contra todas las alegrías de la vida. Este sufrimiento se exhala en atroces ideologías. Un buen baño diario, una sociedad compleja, la total supresión de cerveza, alcohol y tabaco y dos horas de hockey por la tarde harían, probablemente, de estos furiosos militaristas profesionales, hombres sobremanera tolerantes. Un régimen de este orden hubiese sido ciertamente la salud de Froude y de Carlyle».
 
@@ -72,7 +72,7 @@ Mas, de todas suertes, el principio de las nacionalidades lleva a consecuencias 
 
 El principio de las nacionalidades, sin embargo, ha tenido una gran utilidad. Bajo su influencia nos hemos acostumbrado a no respetar ciertos derechos adquiridos. Gracias a él han podido durante el siglo XIX, en medio del universal entusiasmo, libertarse muchas colonias de sus metrópolis. Esta habituación a no respetar el pasado más de lo justo es, en mi entender, de incalculable importancia para que pueda un día existir el verdadero derecho internacional.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Por cierto, que yo no he logrado comprender la indignación con que muchos espíritus soi-disant radicales y progresistas han visto la amenaza de Alemania a los derechos adquiridos de otros pueblos. En ello, como en tantos otros de sus actos y palabras, veo la insolidaridad que padecen consigo mismos. Pues bajo todas las aspiraciones nuevas del derecho civil late también, como la cuestión magna, ésta del derecho a los derechos adquiridos. Pero los socialistas, distraídos con el esquematismo un poco pedante de Carlos Marx, se han olvidado también en esto de su Lassalle, el hombre más profundo que ha tenido el radicalismo de la pasada centuria. Para Lassalle era tan importante la organización combatiente del proletariado, que él fue, en cierto modo, su iniciador. Pero a la par veía que el odio y el temor no bastan para que un deseo social triunfe. Es menester conquistar las mentes, es preciso convencer, y, para ello, inventar nuevas ideas claras que espanten los antiguos prejuicios, como el canto del gallo los tenebrosos aquelarres. Por esto dedicó su obra más laboriosa a este problema jurídico de los derechos adquiridos.
 
@@ -98,7 +98,7 @@ Comienza por advertir que las realidades no se nos presentan a la percepción en
 
 He copiado estos párrafos con el propósito de que mis lectores reciban una impresión sugestiva de la ruta que el mundo sigue. Es Max Scheler uno de los hombres más representativos de la nueva generación alemana, y puede muy justamente ser considerado como ejemplar típico del profesorado joven. Y he aquí que este hombre cree aceptable hablar de la unidad real de la vida y del reino de Dios en esa forma. Sin pruebas, sin precauciones, sin ampliaciones —yo diría: cínicamente. Pues como hay un cinismo de la carne lo hay también del espíritu[83].
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La verdad es que no sabe uno cuál calle tomar. Yo no puedo leer una página de dogmatismo espiritualista y religioso como la transcrita sin sentir repugnancia. Y, por otra parte, experimento pareja repulsión cuando me acuerdo que hay en el mundo librepensadores y gentes según las cuales de Dios y de la fuerza vital no se puede ya hablar.
 

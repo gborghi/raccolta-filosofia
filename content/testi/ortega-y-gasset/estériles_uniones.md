@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estériles_uniones" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Estériles uniones" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Estériles uniones" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Don Amós Salvador, que en la alta edad conserva todas las generosidades y todos los entusiasmos de la juventud, quisiera nuevamente unir la Iglesia dispersa de los liberales. El deseo es de los más piadosos, aunque no nos parezca de los más plausibles. Ciertamente que cuanto se haga en serio por reunir españoles sueltos y suavizar inmoderados antagonismos, encontrará siempre un eco en nuestra simpatía. Pero en ocasiones, unir a dos es separar a cuatro, y esto ya no es buen negocio.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/projet_concernant_de_nouveaux_signes_pour_la_musique" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="PROJET CONCERNANT DE NOUVEAUX SIGNES POUR LA MUSIQUE" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="PROJET CONCERNANT DE NOUVEAUX SIGNES POUR LA MUSIQUE" data-chapter="(apertura)" data-kind="intro" data-srclang="fr"></span>
 
 Ce projet tend à rendre la musique plus commode à noter, plus aisées à apprendre et beaucoup moins diffuse.
 
@@ -50,7 +50,7 @@ Par cette méthode, les mêmes noms sont toujours conservés aux mêmes notes : 
 
 Une autre difficulté qui naît de l’étendue du clavier et des différentes octaves où le ton peut être pris, se résout avec la même aisance. On conçoit le clavier divisé par octaves depuis la première tonique : la plus basse octave s’appelle A, la seconde B, la troisième C, etc. ; de façon qu’écrivant au commencement d’un air la lettre correspondante à l’octave dans laquelle se trouve la première note de cet air, sa position précise est connue, et les points vous conduisent ensuite partout sans équivoque. De là, découle encore généralement et sans exception le moyen d’exprimer les rapports et tous les intervalles, tant en montant qu’en descendant, des reprises et des rondeaux, comme on le verra détaillé dans mon grand projet.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/3)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (2/3)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 La corde du ton, le mode (car je le distingue aussi) et l’octave étant ainsi bien désignés, il faudra se servir de la transposition pour les instruments comme pour la voix, ce qui n’aura nulle difficulté pour les musiciens instruits, comme ils doivent l’être, des tons et des intervalles naturels à chaque mode, et de la manière de les trouver sur leurs instruments ; il en résultera au contraire cet avantage important, qu’il ne sera pas plus difficile de transporter toutes sortes d’airs un demi-ton ou un ton plus haut ou plus bas, suivant le besoin, que de les jouer sur leur ton naturel ; ou, s’il s’y trouve quelque peine, elle dépendra uniquement de l’instrument, et jamais de la note, qui, par le changement d’un seul signe, représentera le même air sur quelque ton l’on veuille proposer : de sorte enfin qu’un orchestre entier, sur un simple avertissement du maître, exécuterait sur le champ en mi ou en sol une pièce notée en fa, en la, en si bémol ou en tout autre ton imaginable ; chose impossible à pratiquer dans la musique ordinaire, et dont l’utilité se fait assez sentir à ceux qui fréquentent les concerts. En général, ce qu’on appelle chanter et exécuter au naturel est peut-être ce qu’il y a de plus mal imaginé dans la musique : car si les noms des notes ont quelque utilité réelle, ce ne peut être que pour exprimer certains rapports, certaines affections déterminées dans les progressions des sons. Or, dès que le ton change, les rapports des sons et la progression changeant aussi, la raison dit qu’il faut de même changer les noms des notes en les rapportant par analogie au nouveau ton ; sans quoi l’on renverse le sens des noms et l’on ôte aux mots le seul avantage qu’ils puissent avoir, qui est d’exciter d’autres idées avec celles des sons. Le passage du mi au fa, ou du si à l’ut, excite naturellement dans l’esprit du musicien l’idée du demi-ton. Cependant, si l’on est dans le ton de si ou dans celui de mi, l’intervalle du si à l’ut, ou du mi au fa, est toujours d’un ton, et jamais d’un demi-ton. Donc, au lieu de conserver des noms qui trompent l’esprit et qui choquent l’oreille exercée par une différente habitude, il est important de leur en appliquer d’autres dont le sens connu, au lieu d’être contradictoire, annonce les intervalles qu’ils doivent exprimer. Or, tous les rapports des sons du système diatonique se trouvent exprimés, dans le majeur, tant en montant qu’en descendant, dans l’octave comprise entre deux ut, suivant l’ordre naturel, et, dans le mineur, dans l’octave comprise entre deux la, suivant le même ordre en descendant seulement : car, en montant, le mode mineur est assujetti à des affections différentes qui présentent de nouvelles réflexions pour la théorie, lesquelles ne sont pas aujourd’hui de mon sujet, et qui ne font rien au système que je propose.
 
@@ -78,7 +78,7 @@ Un défaut considérable dans le musique est de représenter, comme valeurs abso
 
 D’ailleurs, la division sous-double des notes et de leurs valeurs, telle qu’elle est établie, ne suffit pas pour tous les cas ; et si, par exemple, je veux passer trois notes égales dans un temps d’une mesure à deux, à trois ou à quatre, il faut, ou que le musicien le devine, ou que je l’en instruise par un signe étranger qui fait exception à la règle.
 
-<span class="atom-split" data-atom="003" data-title="(apertura) (3/3)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="(apertura) (3/3)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Enfin, c’est encore un autre inconvénient de ne point séparer les temps ; il arrive de-là que dans le milieu d’une grande mesure, l’écolier ne sait où il en est, surtout lorsque, chantant le vocal, il trouve une quantité de croches et de doubles-croches détachées, dont il faut qu’il fasse lui-même la distribution.
 
@@ -102,7 +102,7 @@ Ce système renferme, sans contredit, des avantages essentiels par-dessus la mé
 
 En premier lieu. La musique sera du double et du triple plus aisée à apprendre.
 
-<span class="atom-split" data-atom="004" data-title="2. Parce que ces signes sont plus simples." data-chapter="2. Parce que ces signes sont plus simples." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="2. Parce que ces signes sont plus simples." data-chapter="2. Parce que ces signes sont plus simples." data-kind="atom" data-srclang="fr"></span>
 
 3. Parce que, sans autre étude, les caractères mêmes des notes y représentent leurs intervalles et leurs rapports, au lieu que ces rapports et ces intervalles sont très difficiles à trouver, et demandent une grande habitude par la musique ordinaire.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo (2)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Bajo el epígrafe Ensimismamiento y alteración, doy al público la primera lección del curso titulado «Seis lecciones sobre el hombre y la gente», que estoy desarrollando en la Asociación de Amigos del Arte, de Buenos Aires, y que en su casi totalidad puede desintegrarse del resto de ese curso, como prólogo a él. Algunos puntos que esta lección no hacen sino anunciar, sobre todo el toque de bélico clarín contra ciertas frivolidades de los sociólogos, han recibido en las lecciones sucesivas la demostración concreta y reiterada que aquí había de faltar.
 

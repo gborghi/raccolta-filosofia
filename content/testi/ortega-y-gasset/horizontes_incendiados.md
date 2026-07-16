@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/horizontes_incendiados" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Horizontes incendiados" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Horizontes incendiados" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Y sobre todos estos pensamientos y estas exigencias de mi corazón veo, como un fondo doliente, la guerra. ¿Habrá habido una guerra más triste, monótona y moralmente sorda que ésta? ¡Y todavía en los discursos de los políticos y en los artículos de los periódicos se dice que combaten dos culturas! Las culturas son actitudes del ingenio, y no pueden combatir sino ingeniosamente. Ahora bien: en esta guerra no se ha escuchado todavía una sola palabra espiritual.
 

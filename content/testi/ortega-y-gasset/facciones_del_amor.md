@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/facciones_del_amor" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Facciones del amor" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Facciones del amor" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hablemos del amor, pero comencemos por no hablar de «amores». «Los amores» son historias más o menos accidentadas que acontecen entre hombres y mujeres. En ellas intervienen factores innumerables que complican y enmarañan su proceso hasta el punto que, en la mayor parte de los casos, hay en los «amores» de todo menos eso que en rigor merece llamarse amor. Es de gran interés un análisis psicológico de los «amores» con su pintoresca casuística; pero mal podríamos entendernos si antes no averiguamos lo que es propia y puramente el amor. Además, fuera empequeñecer el tema reducir el estudio del amor al que sienten, unos por otros, hombres y mujeres. El tema es mucho más vasto, y Dante creía que el amor mueve el sol y las otras estrellas.
 
@@ -40,7 +40,7 @@ Spinoza no miró bien: amar no es alegría. El que ama a la patria, tal vez muer
 
 Puesto que estas ilustres definiciones no nos satisfacen, más vale que ensayemos directamente describir el acto amoroso, filiándolo, como hace el entomólogo con un insecto captado en la espesura. Espero que los lectores aman o han amado algo o alguien, y pueden ahora prender su sentimiento por las alas traslúcidas y mantenerlo fijo ante la mirada interior. Yo voy a ir enumerando los caracteres más generales, más abstractos de esa abeja estremecida que sabe de miel y punzada. Los lectores juzgarán si mis fórmulas se ajustan o no a lo que ven dentro de sí.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En el modo de comenzar se parece, ciertamente, el amor al deseo, porque su objeto —cosa o persona— lo excita. El alma se siente irritada, delicadamente herida en un punto por una estimulación que del objeto llega hasta ella. Tal estímulo tiene, pues, una dirección centrípeta: del objeto viene a nosotros. Pero el acto amoroso no comienza sino después de esa excitación; mejor, incitación. Por el poro que ha abierto la flecha incitante del objeto brota el amor y se dirige activamente a éste: camina, pues, en sentido inverso a la incitación y a todo deseo. Va del amante a lo amado —de mí al otro— en dirección centrífuga. Este carácter de hallarse psíquicamente en movimiento, en ruta hacia un objeto; el estar de continuo marchando íntimamente de nuestro ser al del prójimo es esencial al amor y al odio. Ya veremos en qué se diferencian ambos. No se trata, sin embargo, de que nos movamos físicamente hacia lo amado, que procuremos la aproximación y convivencia externa. Todos estos actos exteriores nacen, ciertamente, del amor como efectos de él, pero no nos interesan para su definición, y debemos eliminarlos por completo del ensayo que ahora hacemos. Todas mis palabras han de referirse al acto amoroso en su intimidad psíquica como proceso en el alma.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/sur_la_musique_militaire" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="SUR LA MUSIQUE MILITAIRE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="SUR LA MUSIQUE MILITAIRE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Le luxe de musique qu'on étale aujourd'hui dans celle des régiments me paraît de mauvais goût. Je n'en trouve l'effet ni guerrier, ni grave, ni gai, ni sonore ; et toutes ces marches, plutôt barbouillées que travaillées, produisent toujours une mauvaise exécution, moins par la faute des musiciens que par celle de la musique.
 

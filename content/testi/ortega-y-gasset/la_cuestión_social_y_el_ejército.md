@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_cuestión_social_y_el_ejército" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La cuestión social y el ejército" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La cuestión social y el ejército" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¡Cuántas veces lo hicimos observar! Los Gobiernos españoles, débiles por naturaleza, habían dado en la magnífica solución de utilizar al Ejército siempre que se producía una alteración en los servicios nacionales. Esto probará que la característica de esos Gobiernos era la más absoluta desorganización.
 

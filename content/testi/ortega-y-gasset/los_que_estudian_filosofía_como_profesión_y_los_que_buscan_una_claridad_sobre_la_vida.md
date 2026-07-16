@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_que_estudian_filosofía_como_profesión_y_los_que_buscan_una_claridad_sobre_la_vida" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los que estudian filosofía como profesión y los que buscan una claridad sobre la vida" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los que estudian filosofía como profesión y los que buscan una claridad sobre la vida" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, septiembre de 1934
 

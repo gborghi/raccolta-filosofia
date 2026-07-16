@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_sentido_histórico_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El sentido histórico (2)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El sentido histórico (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En el siglo XIX, el sentido histórico se ha abierto como una nueva pupila, como un nuevo órgano humano, el más humano de todos, porque con él el hombre percibe al hombre.
 
@@ -42,7 +42,7 @@ Nótese bien. La etnología era, hasta hace poco, la ciencia histórica de los p
 
 Aplicar el punto de vista etnológico a los pueblos cultos equivale, pues, a distanciarse de éstos, a empujarlos lejos de nuestra proximidad, desentendiéndose de presuntas comunidades.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La historia vive y progresa merced a una aguda antinomia. La historia no es, como la física, un ensayo de explicar fenómenos materiales que por sí carecen de sentido: el movimiento de los cuerpos, la luz, el sonido, etcétera. En vez de explicar, la historia trata de entender. Sólo se entiende lo que tiene sentido. El hecho humano es precisamente el fenómeno cósmico del tener sentido. Mas, por de pronto, nuestra mente sólo se entiende a sí misma. Entiende cada época lo que para ella es la verdad. La nuestra entiende la teoría de la relatividad. En cambio, la metafísica medieval ya casi no tiene buen sentido para nosotros y la magia del salvaje carece de él por completo para la conciencia espontánea de nuestros contemporáneos. Sin embargo, el gesto mágico es incomprensible en otra forma que lo es un movimiento físico. En aquél columbramos un sentido latente que no se nos alcanza; en éste vemos con toda claridad la absoluta ausencia de sentido. He aquí todo el problema de la ciencia histórica: dilatar nuestra perspicacia hasta entender el sentido de lo que para nosotros no tiene sentido. En muchos pueblos africanos existe el asesinato ritual del rey. Tal uso nos parece absurdo. Mas el historiador no habrá concluido su faena mientras no nos haga entrever que no hay tal absurdo; que, dada una cierta estructura psicológica, dada una cierta idea del cosmos, el asesinato ritual de los reyes es cosa tan «lógica», tan llena de buen sentido, como el sistema parlamentario. Ésta es la antinomia de la óptica histórica. Tenemos que distanciarnos del prójimo para hacernos cargo de que no es como nosotros; pero a la vez necesitamos acercarnos a él para descubrir que, no obstante, es un hombre como nosotros, que su vida emana sentido. La admirable palabra griega nous significa precisamente eso: sentido.
 
@@ -70,7 +70,7 @@ La obra de Spengler, que, lejos de ser una última palabra, es sólo la primera,
 
 * * *
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En la primera edición de Las Atlántidas se incluyeron varias figuras del Sudán y de China que motivaron el siguiente preámbulo del autor:
 
@@ -104,7 +104,7 @@ II
 
 En pocos hechos se advierte tan claramente ese carácter deportivo, creador de posibilidades insospechadas, que es la vitalidad primaria, como en el origen del Estado. Por supuesto, tampoco ha habido cosa que con más seguridad y constancia haya querido explicar atribuyéndole una génesis utilitaria o de giro semejante. El mismo Platón en la República no duda en suponer que el Estado se forma en vista de la necesidad que los hombres sienten de cambiar sus productos, sus manufacturas y labores y de la necesidad consecuente de establecer principios justos, normas que hagan posible y tranquilo ese intercambio. Tenemos, pues, exactamente en tiempo de Platón el mismo sistema de valoraciones que en estos dos últimos siglos ha dominado nuestra vida, haciéndola gravitar hacia un centro —utilidad— y un epicentro —justicia. Y ha llegado a ser natural en nosotros considerar ante una cosa o hecho como las únicas esenciales estas dos cuestiones: si es útil y si es justa. Yo sospecho muy vehementemente que los años próximos reservan al europeo poco adivinador del futuro las mayores sorpresas y los más increíbles cambios.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Rousseau cree forzoso suponer, si no como hecho histórico, por lo menos como hipótesis esclarecedora, que el Estado nace como un contrato y acuerdo entre los hombres a fin de convivir acertadamente. Se ve que hemos vivido durante dos centurias sometidos al predominio de dos tipos humanos —el burgués u homo oeconomicus y el abogado— para los cuales es nativo preferir a todo lo útil y considerar como la forma mejor de relación humana el contrato. Y yo no pretendo decir —claro está— que lo útil no sea, en efecto útil y justo lo justo, ni que haya interacciones humanas para las cuales es inexcusable el contrato —sólo quiero sugerir que esos valores ni son los únicos ni son los superiores, que el mundo es más rico en calidades estimables— o por lo menos, si tengo que subrayar el hecho de que la predilección por lo útil, lo justo y lo contractual no es condición general humana, sino sólo de ciertas épocas y de ciertos pueblos, probablemente no los mejores. Yo creo, por ejemplo, que históricamente es de calidad superior la Edad Media —tan denostada por nuestro tiempo: la Edad Media que, en el lugar de esos valores modernos de utilidad y justicia instauraba las del honor y la lealtad. En este sentido, confieso ser un reaccionario superlativo. A quién darán la razón los años que vienen, lo veremos. El tiempo, que como decía el cardenal Mazzarino es un galantuomo, no dejará de darnos contestación.
 
@@ -142,7 +142,7 @@ El estudio de los pueblos mal llamados salvajes, mejor llamados primitivos nos p
 
 ¿Qué es la horda? Un tropel de entre 10 y 30 seres humanos que se parece sobremanera a un rebaño de animales silvestres. La horda vaga por campos y selvas: no conoce ley alguna, ni diferencias sociales entre sus individuos. No tiene jefe alguno. No sospecha la utilización agrícola de la tierra: vive de la caza y de recoger tubérculos y frutos espontáneos. Habita a la intemperie sin cabaña ni choza: a lo sumo fabrica un cañizo o pantalla que le resguarda de los vientos. En la época de lluvias procura guarecerse en cavernas. No mantiene relación alguna con las hordas vecinas y, lo que es muy importante, ignora la guerra.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Desde hace tiempo sostengo una privada polémica con algunos de mis mejores amigos, los cuales no me encuentran bastante pacifista. En rigor, yo me siento tan pacifista como ellos, lo que ocurre es que una invencible propensión me impide negar la verdad aunque ésta me ofenda. Por tal motivo, yo no puedo repetir con ellos la canción de que es la guerra un resto salvaje y un residuo de la existencia animal. Esto es rotundamente falso, ni el animal ni el hombre más primitivo saben de guerra. Séanos simpático u odioso, el hecho evidente es que la guerra fue uno de los grandes inventos del hombre y una de las formas básicas de la cultura. Yo lo deploro lo mismo que ustedes, pero como Voltaire decía: «Ni supongo ni propongo sino que sólo expongo». El hombre más primitivo de tal modo ignora la guerra que no posee aún arma defensiva. Usa el arco para la caza; tal vez, como los pigmeos actuales, oculto en la selva virgen, dispara contra el hombre su flecha envenenada, es decir, da caza al hombre, pero no combate.
 

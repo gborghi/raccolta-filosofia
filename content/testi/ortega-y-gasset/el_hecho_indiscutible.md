@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_hecho_indiscutible" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El hecho indiscutible" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El hecho indiscutible" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ante todo, es preciso que cuantos hombres haya de intención a un tiempo clarividente y honrada se esfuercen en peraltar el nivel donde ha de moverse la discusión y aun la lucha que el Destino, queramos o no, ha traído ahora sobre España. Debe haber en este punto una como conjuración espontánea de todos, sean quienes sean y piensen lo que piensen. ¡Estamos en 1930! La vida del mundo, cada vez más solidaria, más planetaria, ha apretado terriblemente sus exigencias y reclama de los pueblos, si quieren subsistir, ciertas condiciones mínimas de modernidad, de inteligencia, de eficacia (piense el lector aunque no sea más que en el lado económico de una existencia nacional). Nos es ya imposible seguir siendo los aldeanos arcaicos que venimos siendo. El nivel mínimo de nuestros actos, inclusive, repito, en la disputa y en la lucha, tiene que ser otro. Hay que acabar con las astucias y los matonismos de villorrio.
 
@@ -38,7 +38,7 @@ Pero no queda dibujado adecuadamente el hecho cuando se dice que el Estado espa�
 
 Silvela lo declaró en la mañana de este siglo: «España está en período constituyente». El pecado máximo de los «viejos políticos» fue, no el peculado ni el despilfarro, como se les imputó populacheramente durante la Dictadura, sino el no haber querido la reforma del Estado, cuando ellos, mejor que nadie, veían hasta qué punto era ineludible (así lo hice constar durante la Dictadura). Al ser enterrado don Antonio Maura se encontró al borde de su tumba un proyecto de Constitución. Según parece, era éste el retoque último, en las postreras semanas de su noble existencia, de otro u otros proyectos —anteriores a la Dictadura. La vida de Maura fue el clamor incesante ante el hecho de que el Estado español no era el Estado español, que era un Estado por esencia fraudulento. Haber reconocido siempre esto, sin desconocer los errores de don Antonio Maura, me ha valido muchos denuestos de las llamadas «izquierdas», que me dan hoy el derecho a autorizarme con su nombre. Sin embargo, no debía ser yo, precisamente yo, quien hiciese cruzar por el fondo sombrío del nacional presente esta figura casi romántica de Maura, «con su rostro yodado y barba de un blanco inencontrable, porque era el Comendador que aparecía en todos los festines de la disipación», según dice en libro recientísimo un generoso y alegre poeta de ahora.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Todas estas frases designan hechos sobradamente notorios, que juntos forman el hecho grande, el hecho fundamental de la historia española en los últimos treinta años, a saber: la anormalidad constitutiva de nuestro Estado. No vale, pues, referirse sólo a la Dictadura. Ésta termina y frenetiza el proceso de descomposición del Estado español, que empieza aproximadamente en 1900 (a demostrar parte de esto dediqué diecisiete artículos seguidos en tiempo de la Dictadura)[222].
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_sentido_histórico_de_la_teoría_de_einstein" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El sentido histórico de la teoría de Einstein" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El sentido histórico de la teoría de Einstein" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La teoría de la relatividad, el hecho intelectual de más rango que el presente puede ostentar, es una teoría, y, por tanto, cabe discutir si es verdadera o errónea. Pero, aparte de su verdad o su error, una teoría es un cuerpo de pensamientos que nace en un alma, en un espíritu, en una conciencia, lo mismo que el fruto en el árbol. Ahora bien: un fruto nuevo indica una especie vegetal nueva que aparece en la flora. Podemos, pues, estudiar aquella teoría con la misma intención que el botánico cuando describe una planta: prescindiendo de si el fruto es saludable o nocivo, verdadero o erróneo, atentos exclusivamente a filiar la nueva especie, el nuevo tipo de ser viviente que en él sorprendemos. Este análisis nos descubrirá el sentido histórico de la teoría de la relatividad, lo que ésta es como fenómeno histórico.
 

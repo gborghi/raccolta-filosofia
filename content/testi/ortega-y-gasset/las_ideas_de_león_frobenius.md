@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_ideas_de_león_frobenius" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las ideas de León Frobenius" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Las ideas de León Frobenius" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La Residencia de Estudiantes hace ahora el ensayo de organizar una sociedad de «Cursos y conferencias». La discreción, la selección, la mesura con que este centro educativo ha sabido siempre ejecutar sus designios aseguran el buen éxito de la nueva institución. El comienzo es, por sí, excelente. El lunes fueron inauguradas las conferencias con una de León Frobenius; el miércoles y el viernes oiremos y veremos otras dos del mismo etnólogo alemán. Digo que, además de oír, veremos por que Frobenius expone una gran cantidad de maravillosas fotografías en color, obtenidas durante sus diez años de viajes por África.
 

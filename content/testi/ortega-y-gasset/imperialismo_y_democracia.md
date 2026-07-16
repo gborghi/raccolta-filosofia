@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/imperialismo_y_democracia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Imperialismo y democracia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Imperialismo y democracia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Para Ramiro de Maeztu
 
@@ -58,7 +58,7 @@ Mas para la dinámica moderna, en física como en política, la fuerza es siempr
 
 Sacudida por los recientes magnos dolores la masa popular —no los pocos, no los sabios— ha acabado de ver claro en el problema nacional: la mengua española no es mengua industrial y agrícola, como sostuvo la Unión Nacional de Productores; ni es violenta organización de los tipos étnicos peninsulares, como quiere el catalanismo; ni es caciquismo y relapsa administración como pretendía el partido conservador, sino meramente la ausencia de las izquierdas en nuestra vida secular. Pues donde no hay izquierdas, claro está que no hay derechas; y donde ni izquierdas ni derechas hay, falta la fuerza política. Y sin fuerza política es imposible aquel sumo poder plasmante sólo capaz de suscitar una legislación positiva y sistemática que pedagogice y cree a un pueblo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Nuestra ansia de regeneración, amigo Maeztu, ha necesitado doce años para llegar a esta viejísima verdad de que sin política no hay pueblo, y que la sustancia de la política es la «guerra ilustre» entre gentes de la izquierda y gentes de la derecha, entre imperialismo y democracia. Así, hace veinticuatro siglos, Platón en la República: «¿A qué hablamos de “la” ciudad? ¿No es, por ventura, cada ciudad muchas ciudades? ¿No es, por lo menos, cada ciudad dos ciudades que viven juntas en perpetua lucha, la ciudad de los pobres y la ciudad de los ricos?»
 

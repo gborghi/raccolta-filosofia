@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/vejamen_del_orador" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Vejamen del orador" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Vejamen del orador" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor Cuartero, redactor-jefe en El Imparcial, y antes en otros periódicos, lleva veinte años de su vida, ejemplarmente solícita y laboriosa, mirando el mundo desde su mesa de confeccionador. La misión de confeccionar un periódico es, lector, de las más duras que existen en la república. No es sólo ardua, llena de peligros, menesterosa de inaudita cautela, sino que es, además de todo esto, tan penosa como pueda parecerlo labrar los largos surcos de Dios a sol y a helada. El confeccionador ha de leer íntegro, con toda atención y acribia, el original de su publicación antes que vaya a las máquinas y salga clamoroso a la calle. Y esto un día y otro, uno y otro mes, año sobre año. ¿Se comprende que en el confeccionador, sometido a esta pena perdurable, germinen algunos odios particulares?
 

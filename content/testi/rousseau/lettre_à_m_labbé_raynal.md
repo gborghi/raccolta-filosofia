@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettre_à_m_labbé_raynal" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRE À M. L’ABBÉ RAYNAL" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRE À M. L’ABBÉ RAYNAL" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Réponse de J.J. Rousseau
 

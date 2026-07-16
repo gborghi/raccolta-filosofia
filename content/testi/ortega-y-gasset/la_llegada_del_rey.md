@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_llegada_del_rey" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La llegada del rey" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La llegada del rey" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 6 noviembre
 

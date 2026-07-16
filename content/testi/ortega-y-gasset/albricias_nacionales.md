@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/albricias_nacionales" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Albricias nacionales" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Albricias nacionales" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Fue la de ayer una mañana espléndida para los españoles. Al despertar, como de una pesadilla, hallaron en el aire la mejor luz de primavera y un raro entusiasmo nacional en los corazones. Pocas veces hemos visto reflejarse tan claramente en la fisonomía de los transeúntes el efecto de un suceso político. Las calles estaban llenas de gente, y en cada semblante adquiría la sonrisa de satisfacción el valor de una actitud política. Dondequiera formábanse grupos de ciudadanos que se daban el parabién, y, a veces, la aglomeración se organizaba en muchedumbre congregada para aplaudir. ¡Se nos ha dado en los últimos tiempos tan poco pretexto a ejercitar este noble [sacramento](/concepts/sacrament) del aplauso, que casi temíamos haber olvidado su técnica! Ayer, los pechos se dilataron en una emoción de esperanza y gratitud, y las manos se dedicaron con fruición al aplauso como a un deporte inusitado. Se aplaudió al Rey, a los ministros, a los cartelones de los periódicos, al aire, a la luz, y es de presumir que los más reflexivos no olvidaron en sus aplausos a la Divina Providencia.
 

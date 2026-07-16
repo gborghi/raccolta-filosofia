@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pidiendo_una_biblioteca" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Pidiendo una biblioteca" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Pidiendo una biblioteca" data-chapter="(apertura)" data-kind="intro" data-srclang="es"></span>
 
 El proyectado Teatro Nacional, que anda ahora en los ambages de una comisión parlamentaria, ofrece algunos inconvenientes que no son del género económico, sino del de las cuestiones culturales. Por lo pronto, esa ostentación de nacionalismo no me parece discreta ni simpática. Puede ocurrir que en algún [caso](/concepts/fortune) el fervor, la piedad hacia lo castizo, hacia lo nativo deban tomar la forma del pudor. Y si alguna vez se da ese caso, yo creo que estamos en él los españoles.
 
@@ -28,7 +28,7 @@ Hace tiempo que se viene hablando en España de lo espontáneo; parece haberse d
 
 Capítulo I. —Dios.
 
-<span class="atom-split" data-atom="002" data-title="III. —Principio de los imperios." data-chapter="III. —Principio de los imperios." data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="III. —Principio de los imperios." data-chapter="III. —Principio de los imperios." data-kind="atom" data-srclang="es"></span>
 
 IV. —Creación de los alcaldes de cuadrillas y para qué sirvieron y sirven quienes deban serlo en los pueblos.
 

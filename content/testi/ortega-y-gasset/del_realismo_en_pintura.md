@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/del_realismo_en_pintura" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Del realismo en pintura" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Del realismo en pintura" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Algunos pintores que han llevado este año sus cuadros a la Exposición oficial —nombre redundante, porque todo lo oficial trae consigo exposición— habían intentado introducir dentro de los marcos un poco de arte. Habían intentado introducir formas, órganos estéticos. Porque en esto viene a diferenciarse el marco de un escaparate o el marco de una ventana del marco de un cuadro: al través de aquéllos se ven cosas sometidas a la gravitación universal; al través de éste se ven formas liberadas de la existencia.
 
@@ -50,7 +50,7 @@ El realismo español es una de tantas vagas palabras con que hemos ido tapando e
 
 Y sería buena nueva. Porque con la palabra realismo se quiere significar de ordinario una carencia de invención y de amor a la forma, de poesía y de reverberaciones sentimentales, que agosta miserablemente la mayor porción de las pinturas españolas. Realismo es entonces prosa. Realismo es entonces la negación del arte, dígase con todas sus letras.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los pintores que este año han sido más discutidos, y que yo no trato de defender en particular, aspiran a arrojar los mercaderes del templo, la prosa del arte. Buscan, tras de las apariencias, nuevas formas a construir. Afírmense en su propósito: corrijan ciertas puerilidades y arcaísmos, pero no duden que están en lo cierto. Arte no es copia de cosas, sino creación de formas. Cuarenta años de impresionismo creo que son sobrados para allegar nuevos instrumentos a la técnica pictórica y aumentar sus posibilidades. Por centésima vez vuelve a ser tarea inminente del arte la conquista de la forma, ¡Sus a la forma novecentista!
 

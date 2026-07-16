@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/dueñas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Dueñas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Dueñas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pocos kilómetros antes de llegar a Venta de Baños está Dueñas, un pueblo atroz. Se alza en la caída de un cabezo con aire de pueblo alerta. Es del color de la tierra. Las casas de adobe, bajo la luz de la siesta, casi incorpóreas, tiemblan, como hechas de luz y calígine, y una enorme iglesia se levanta en lo alto, defensora y hostil. En torno al pueblo, edificado sobre la tierra, hay un pueblo de terrícolas, de hombres que viven como hormigas dentro del cabezo. Allí, sepultos en las entrañas del montículo, que debe arder con fuego sin llama y sin claror, con terrible fuego mudo, estos castellanos y castellanas, hermanos nuestros, duermen, aman, paren. Fuera, el suelo amarillea a lo largo, calizo, polvoriento, y el sol de julio hinche con cada una de sus pulsaciones todo el horizonte como un alarido inmenso.
 

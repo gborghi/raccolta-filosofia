@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_la_biblioteca_de_ideas_del_siglo_xx" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a la Biblioteca de Ideas del siglo XX" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a la Biblioteca de Ideas del siglo XX" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En los últimos años se oye por dondequiera un monótono treno sobre la cultura fracasada y concluida. Filisteos de todas las lenguas y todas las observancias se inclinan ficticiamente compungidos sobre el cadáver de esa cultura, que ellos no han engendrado ni nutrido. La guerra mundial, que no ha sido tan mundial como se dice, parece ser el síntoma y, al par, la [causa](/concepts/cause) de la defunción.
 
@@ -76,7 +76,7 @@ El libro de Oswald Spengler, La decadencia de Occidente, es, sin disputa, la per
 
 Sin embargo, conforme el tiempo avanzaba se ha ido viendo que la obra de Spengler no necesitaba apoyarse en la anecdótica coincidencia con un estado fugaz de la opinión pública alemana. Es un libro que nace de profundas necesidades intelectuales y formula pensamientos que latían en el seno de nuestra época. Hasta tal punto es así, que una de las graves faltas del estilo de Spengler es presentar como exclusivas y propias sus ideas que, con más o menos mesura, habían sido expresadas antes por otros. Puede decirse que casi todos los temas fundamentales de Spengler le son ajenos, si bien es preciso reconocer que ha adquirido sobre ellos el derecho de cuño. Spengler es un poderoso acuñador de ideas, y quienquiera penetre en las tupidas páginas de este libro se sentirá sacudido una y otra vez por el eléctrico dramatismo de que las ideas se cargan cuando son fuertemente pensadas.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Qué es la obra de Spengler? Ante todo una filosofía de la historia. Los que siguen la publicación de esta Biblioteca habrán podido advertir que la física de Einstein y la biología de Uexküll coinciden, por lo pronto, en un rasgo que ahora reaparece en Spengler y más tarde veremos en la nueva estética, en la ética, en la pura matemática. Este rasgo, común a todas las reorganizaciones científicas del siglo XX, consiste en la autonomía de cada disciplina. Einstein quiere hacer una física que no sea matemática abstracta, sino propia y puramente física. Uexküll y Driesch bogan hacia una biología que sea sólo biología y no física aplicada a los organismos. Pues bien; desde hace tiempo se aspira a una interpretación histórica de la historia. Durante el siglo XIX se seguía una propensión inversa: parecía obligatorio deducir lo histórico de lo que no es histórico. Así, Hegel describe el desarrollo de los sucesos humanos como resultado automático de la dialéctica abstracta de los conceptos: Buckle, Taine, Ratzel, derivan la historia de la geografía; Chamberlain, de la antropología; Marx, de la economía. Todos estos ensayos suponen que no hay realidad última y propiamente histórica.
 

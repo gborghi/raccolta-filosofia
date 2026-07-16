@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/fenomenología_de_la_guerra" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Fenomenología de la guerra" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Fenomenología de la guerra" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En el análisis del fenómeno guerrero se han cometido, según Scheler, graves confusiones. Se ha querido ver en él una manifestación más de la lucha por la existencia que, según la biología clásica, regula los procesos de la vida animal. «Como todas las grandes cosas, llegan, en efecto, las raíces de esos fenómenos que llamamos guerra a las profundidades de la vida orgánica; pero, como todas las graves cosas, es la guerra algo específicamente humano que no puede concebirse como evolución rectilínea de los fenómenos propios a la vida infrahumana».
 
@@ -50,7 +50,7 @@ Esta experiencia, recogida a lo largo de su pasado, vino a ser reforzada, según
 
 El «liberalismo» —Scheler es quien lo pone entre comillas como entre dos parejas de ulanos— ha producido tres ideas, en su opinión falsas: la doctrina contractual del Estado, la doctrina de la «armonía natural de los intereses», aun en el ejercicio egoísta de ellos, y la negación (mecanicista) de agentes centrales que gobiernan e intervienen en el juego de fuerzas de cualesquiera unidades elementales (mundo, alma, Estado). Así desconoce la regulación divina sobre las partes del orbe, de la persona sobre la muchedumbre de representaciones e instintos, del Estado sobre los procesos económicos: deísmo, psicología asociacionista, libre cambio y manchesterismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Todo esto en conjunto y por igual le parece a Scheler resueltamente erróneo y funesto. Mas ¿con qué título ni pretexto aproxima y hasta mezcla la concepción atomística del alma que enseñó el viejo asociacionismo inglés con la idea del Estado contrato? El asociacionismo[64] es ciertamente insostenible en la actual psicología; pero fue en su tiempo una profunda idea, y hoy, demostrada su insuficiencia, no han tardado más los sabios ingleses en abandonarlo que los alemanes. Pero de todas suertes, tiene esa teoría un sentido completamente opuesto al que inspiró la concepción contractual del Estado. En ésta se trata precisamente de defender la inviolabilidad de la persona individual, y supone, por tanto, la más vigorosa afirmación de ésta que se ha hecho en la historia. Enoja a Scheler que no se reconozca en el Estado una persona real, tan real como el individuo. ¿No debe enojar más que Scheler rebaje, dentro de la enorme persona Estado, la persona individual al papel de una imagen, de una sensación, de un instinto?
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_un_museo_romántico_conferencia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para un Museo Romántico (conferencia)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Para un Museo Romántico (conferencia)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 SEÑORAS Y SEÑORES:
 
@@ -42,7 +42,7 @@ Acaso la conquista más delicada de la Edad contemporánea, conquista aún muy p
 
 Cuanto más se va ahondando en el estudio de la historia, se advierte con mayor claridad que la vida varía profundamente de época en época. Y no es que en una época sea la vida distinta que en otra porque lo sean sus ideas, sus artes, su política, su industria, sino, al revés; dos épocas tienen distintas ideas, artes, política e industria porque el sentimiento radical de la vida era en ellas diferente. Lo que pensamos y lo que hacemos es resultado y fruto de un clima sentimental que traemos al mundo, de una intuición o sensación primaria, simiente de todo lo demás. Conviene que abandonemos la creencia de que los cambios históricos decisivos provienen de grandes, solemnes acontecimientos, de inventos ilustres, de guerras gigantescas. Nada de eso.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En uno de sus cuentos fantásticos refiere Wells que un aficionado de antigüedades halló en un almacén de ellas un huevo de cristal. Extrañado de encontrar entre los demás objetos valiosos aquél tan baladí, lo compró y salió a la calle con él entre las manos, mirándolo al trasluz. De pronto, al inclinarse hacia un lado, notó que dentro de él se dibujaban escenas nunca vistas donde intervenían seres extrahumanos. Era que el cuerpo cristalino, colocado en cierta inclinación, recogía los rayos de una lejana estrella, los cuales reflejaban la vida insospechada del astro remoto. Pues bien, señores; para que el panorama vital varíe radicalmente, no son menester grandes guerras, pavorosos cataclismos, mágicos inventos; basta con que el corazón del hombre incline su sensitivo vértice hacia un lado o hacia otro del horizonte, hacia el optimismo o hacia el pesimismo, hacia la heroicidad o hacia la utilidad, hacia la lucha o hacia la paz.
 
@@ -64,7 +64,7 @@ Pobres cosas quietas son estos lienzos y estos muebles; pero apenas fijamos en e
 
 Permítanme ustedes una imagen barroca, pero exacta: cuando el toro, en la campiña, acierta a pasar junto al sitio donde queda sangre de otro toro, se estremece magníficamente, retiemblan sus fuertes tendones, jadea frenético y, alzando la testuz al firmamento, llena el cóncavo espacio con un mugido apasionado. Salven ustedes cuanto quieran salvar, pero en el fondo la cosa es la misma. Cuando un hombre que lo sea plenamente halla ante sí una huella profunda que otra vida humana ha dejado, sacude eléctricamente su alma una fraterna convulsión, a un tiempo deleitosa y dolorida.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Cómo fueron, cómo fueron en su sentir estos caballeros y estas damas que con su gracioso empaque asisten mudos a esta hora de nuestras vidas? ¿Cómo amaban, cómo odiaban? ¿Qué era lo que preferían y lo que menospreciaban en la existencia? ¿Cómo sonaba esa voz íntima que murmura en el fondo de todo corazón?
 
@@ -86,7 +86,7 @@ El mismo error que se comete al creer que la vida humana fue siempre idéntica, 
 
 La época romántica descubre una nueva calidad de amor. El siglo XVIII había significado, en este punto, un evidente retroceso. El imperio de la razón no dejó exento este territorio, y vertió sobre los tiernos afectos su período glacial. Fue el amor del XVIII frío erotismo, sensualidad exquisita y refinada nada más. ¡Qué diferentes de aquellas damiselas, casi inverosímiles, deliciosas porcelanas, maravillas de humana cerámica, cabecitas de agudo y claro pensar, donde anidaba un alma sin temperatura —estas otras damas aquí retratadas, sin duda menos graciosas y brillantes, pero que dejan entrever posibilidades de fuego entusiasta y ardiente sacrificio!
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Yo no quería, según al comienzo dije, sino atraer la atención de ustedes sobre el proyecto generoso y oportuno del marqués de la Vega Inclán. Razones, como hemos visto, de alguna trascendencia nos invitan a esperar algunas espirituales ventajas en el confrontamiento de nuestra sensibilidad actual con la época romántica. Es indudable que padeció ésta un exceso de gesto y una evidente propensión a exagerarlo todo. Pero bajo esa pompa inútil del sobrado ademán y la palabra superlativa laten en ella potencias abundantes de sana vitalidad. Pues bien; yo creo que nada es hoy tan urgente en España como mover los corazones a que se abreven, a que se embriaguen en anhelos de vivir. No tenemos mucha ciencia ni mucha previsión; nos falta buen orden, buena economía, buen gobierno; todo esto es cierto; pero ninguno de esos defectos importaría gravemente si en el cuerpo peninsular se sintiese la vibración de una vitalidad poderosa, resuelta a exigir a la hora que pasa la posible plenitud. Llevamos treinta años buscando qué es lo que falta a la vida española, sin encontrarlo en definitiva. Y es que acaso lo que nos falta es precisamente la vida.
 

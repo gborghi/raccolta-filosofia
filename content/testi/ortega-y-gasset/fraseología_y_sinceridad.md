@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/fraseología_y_sinceridad" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Fraseología y sinceridad" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Fraseología y sinceridad" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -48,7 +48,7 @@ Se comprende que si algún método mental puede servir de receta saludable será
 
 Nunca se ha creído tanto que se sabía lo que era el mundo todo como en los últimos siglos. Era natural: se le había previamente extirpado su carácter problemático, se le había vaciado de cuestiones, enigmas y sorpresas.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pues bien: así como el pensar utópico es abandonar la intuición de lo concreto, no retenerse en ella, el creer utópico consiste en no citar la fórmula ante nuestra efectiva e individual sensibilidad para ver si nos satisface o no; antes bien, procurar que nuestra fe se acomode a ella. En el orden artístico se ve esto muy claro: durante tres siglos se estimó que crear arte o gozar de arte era ajustarse a ciertos modelos dados de una vez para siempre. El «buen gusto» como [norma](/concepts/law) equivale a una amonestación para que neguemos nuestro sincero gusto y lo sustituyamos por otro que no es el nuestro, pero es «bueno».
 
@@ -80,7 +80,7 @@ De esta suerte, cuando de algún contemporáneo decimos que es un salvaje, tal v
 
 Pues bien; la fraseología representa uno de esos coeficientes de arcaísmo y denomina el tipo de mecanismo espiritual, de funcionamiento psíquico, que dominaba la vida europea especialmente en el siglo XVIII. Durante el XIX continúa, sin duda, ese predominio; pero en su transcurso asistimos al avance de otro tipo psicológico fraseoclasta, que poco a poco desaloja a su antagonista, y en nuestros días celebra su victoria. Este nuevo modo de ser se caracteriza por un afán de buscar en todo la nuda realidad, aceptando con resuelto cinismo su eventual crudeza. No me parece inadecuado titular esta propensión con el nombre de sinceridad; pero entiéndase que ni empleo esta palabra en son de alabanza, ni la de fraseología con intención de vituperio. Se trata simplemente de dos modos de ser, cuya diferencia resalta al enfrontarlos uno con otro.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Para el fraseólogo, pensar y sentir era hacer espontáneamente, preconscientemente, el esfuerzo de ajustarse a un pensar y sentir genéricos que se consideraban como debidos. De esta manera, el individuo tendía automáticamente a instalarse y sumirse en un alma colectiva y como ejemplar —lo que Hegel llama el «espíritu objetivo». Por ejemplo, nos parece hoy increíble, pero es perfectamente verídico, que todavía hacia 1850 la poética vigente consideraba como uno de los atributos de la belleza artística «la unidad en la variedad». Pues bien: ante una obra de arte, nuestros bisabuelos se esforzaban dócilmente en descubrir si poseía, en efecto, esa unidad con variedad, y cuando la encontraban sentían la tranquila satisfacción que era para ellos el goce estético. El hecho de que, en rigor, su individual persona no hubiese gozado nada, no importaba al [caso](/concepts/fortune). El goce estético no era para ellos un acontecimiento efectivo que se produce o no en cada alma individual, sino, por el contrario, la tranquilizadora conciencia de haberse comportado según un tópico ordenaba. Y en esto, más que en el mismo goce estético, consistía su auténtico goce. La diferencia entre su organización y la nuestra radica precisamente en que para ellos era una delicia conformarse a un molde preexistente, mover su espíritu según la línea de una convención.
 

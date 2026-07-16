@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/comienza_la_deshumanización_del_arte" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Comienza la deshumanización del arte" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Comienza la deshumanización del arte" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Con rapidez vertiginosa el arte joven se ha disociado en una muchedumbre de direcciones e intentos divergentes. Nada es más fácil que subrayar las diferencias entre unas producciones y otras. Pero esta acentuación de lo diferencial y específico resultará vacía si antes no se determina el fondo común que variamente, a veces contradictoriamente, en todas se afirma. Ya enseñaba nuestro buen viejo Aristóteles que las cosas diferentes se diferencian en lo que se asemejan, es decir, en cierto carácter común. Porque los cuerpos tienen todos color, advertimos que los unos tienen color diferente de los otros. Las especies son precisamente especificaciones de un género, y sólo las entendemos cuando las vemos modular en formas diversas su común patrimonio.
 

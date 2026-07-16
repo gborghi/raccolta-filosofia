@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/impopularidad_del_arte_nuevo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Impopularidad del arte nuevo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Impopularidad del arte nuevo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Entre las muchas ideas geniales, aunque mal desarrolladas, del genial francés Guyau, hay que contar su intento de estudiar el arte desde el punto de vista sociológico. Al pronto le ocurriría a uno pensar que parejo tema es estéril. Tomar el arte por el lado de sus efectos sociales, se parece mucho a tomar el rábano por las hojas o a estudiar al hombre por su sombra. Los efectos sociales del arte son, a primera vista, cosa tan extrínseca, tan remota de la esencia estética que no se ve bien cómo, partiendo de ellos, se puede penetrar en la intimidad de los estilos. Guyau, ciertamente, no extrajo de su genial intento el mejor jugo. La brevedad de su vida, y aquella su trágica prisa hacia la muerte impidieron que serenase sus inspiraciones y, dejando a un lado todo lo que es obvio y primerizo, pudiese insistir en lo más sustancial y recóndito. Puede decirse que de su libro El arte desde el punto de vista sociológico sólo existe el título; el resto está aún por escribir.
 

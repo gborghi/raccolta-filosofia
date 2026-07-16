@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/brindis_en_la_fiesta_del_armisticio_de_1918" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Brindis en la fiesta del armisticio de 1918" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Brindis en la fiesta del armisticio de 1918" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señoras y señores: Si de todos modos había de pediros benevolencia por tomar la palabra en este acto donde todos tienen derechos iguales, mucho más lo he de hacer sabiendo que voy a defraudaros.
 
@@ -70,7 +70,7 @@ Una nueva Edad empieza. ¿Y sabéis lo que es una nueva Edad? No creáis que par
 
 Lo que las cosas sean para nosotros —permitidme esta breve digresión filosófica harto propia de mi oficio—, más que de ellas mismas, depende de nuestra sensibilidad. Qué sea lo que en ellas vemos depende de nuestra atención, de lo que a ellas vayamos a buscar. Si esta atención, si esta sensibilidad cambia, la faz del mundo cambia también. Aun permaneciendo unas mismas las cosas del orbe, basta con que varíe nuestro sistema de preferencia, nuestra ordenación en el admirar o en el odiar, para que la perspectiva del mundo cambie totalmente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pues bien; el mundo que ahora empieza a nacer no es sino hijo de una variación en ese sistema de preferencias del hombre. En uno de sus cuentos maravillosos, el gran escritor británico Wells refiere que cierto aficionado a antigüedades halló en un comercio de ellas un huevo de cristal. Extrañado al ver que entre obras tan valiosas existiese objeto tan ruin, lo compró. Al salir a la calle, y cuando andaba contemplando el raro objeto, al moverlo en una cierta dirección vio con sorpresa que en el fondo se reflejaban escenas maravillosas en que intervenían seres de forma desconocida. Era que en aquel huevo de cristal, por una serie de reflexiones complicadas, venían a verterse los rayos de un planeta y reproducían escenas de la vida doméstica del astro. Con una leve inclinación, pues, aparecía en aquel trozo de cristal un mundo desconocido. Pues bien, señores: para que una nueva Edad aparezca y un nuevo mundo se presente, basta con que el corazón del hombre, breve nido de venas azules, se incline un poco más acá o un poco más allá del horizonte, basta con que se incline a preferir la fuerza a la justicia o la justicia a la fuerza.
 

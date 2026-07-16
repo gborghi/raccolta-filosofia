@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ideas_elementales_y_nacionales" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ideas elementales y nacionales" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ideas elementales y nacionales" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 He dicho que León Frobenius es un innovador de la etnología. Lo es por muchas razones; pero entre ellas por una eminente. Frobenius ha creado un nuevo método para la investigación etnológica. Como esta ciencia es muy poco conocida en España, convendrá dibujar previamente la situación en que se hallaba antes de intervenir aquél.
 

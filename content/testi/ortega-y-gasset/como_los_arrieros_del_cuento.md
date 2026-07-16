@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/como_los_arrieros_del_cuento" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Como los arrieros del cuento" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Como los arrieros del cuento" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El miércoles hubo en el Congreso gran pelotera entre los partidarios de las Juntas de defensa y los que, acaso sin saberlo, son partidarios de los Consejos de obreros y soldados. Ambas tendencias coinciden en muchas cosas: coinciden en proceder de un análogo ímpetu imperialista, coinciden en aceptar la pólvora como procedimiento de la contienda política; son, pues, con distinto signo, radicalmente militaristas. (Cierva y Trotsky, los dos extremos de la diagonal europea que va de Madrid a Petrogrado, son dos accidentes contrapuestos de una misma sustancia militar). Unos y otros sienten una gran fruición por las situaciones ilegales; no los irrita el imperio de la ilegalidad, con tal que sea la administrada por cada uno de ellos. Coinciden, por último, en cierta peregrina hipocresía, diríamos paradójicamente en una hipocresía de buena fe, que les permite escribir programas y pronunciar palabras que no expresan nunca exactamente lo que en sus actos ejecutan y en sus latentes intenciones germina.
 

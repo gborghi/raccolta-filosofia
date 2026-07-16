@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/selección" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Selección" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Selección" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ya que no me sea posible continuar la serie de artículos titulados «Dislocación y Restauración de España», quisiera salvar algunas de sus incitaciones. Porque esto eran, solamente: estímulos hacia una vida pública de más fuerte pulso, más emprendedora y alegre. Creo firmemente en la posibilidad —nótese bien, en la posibilidad— de que España inicie ahora una nueva ascensión histórica. Creo firmemente que se podría en pocos años hacer de España, no el pueblo más rico ni el más sabio, pero sí el más sano —política y socialmente— de toda Europa.
 

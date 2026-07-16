@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/introducción_metódica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Introducción metódica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Introducción metódica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace poco vinieron a mis manos los Nouveaux Cahiers de jeunesse, publicados recientemente. Son los cuadernos de anotación íntima que llenó Renan durante el año 1846, contando veintitrés de edad. Los libros de Renan me acompañan desde niño; en muchas ocasiones me han servido de abrevadero espiritual, y más de una vez han calmado ciertos dolores metafísicos que acometen a los corazones mozos sensibilizados por la soledad. Como pienso que algunos españoles de mi tiempo le deben asimismo gratitud, he considerado perdonable publicar estas páginas, compuestas sin rigor ni trascendentes intenciones. No quieren ser una crítica ni un retrato ideológico de tan fugaz e inaprensible espíritu: en medio de otros trabajos que requerían alguna mayor severidad, la lectura de los Nouveaux Cahiers, verificada en el rincón florido de una hora de descanso, fue centro de atracción en torno al cual se agruparon libérrimamente los recuerdos de un largo comercio con la obra de Renan. Tómense, pues, estos párrafos como una exudación lírica y espontánea, como una antífona prolongada dirigida a un santo de nuestra particular devoción.
 
@@ -48,7 +48,7 @@ Cuando hablo de las cosas quiero decir ley, orden, prescripción superior a noso
 
 En realidad, tiene también sus derechos, siquiera sean transitorios y no muy precisos. La humanidad es el camino que lleva hacia Dios, o lo que es lo mismo, a la absoluta objetividad en que nada hay secreto, sino todo patente, todo cosa. En España solemos decir, cuando algo es muy bueno: esto es una gran cosa. Tal vez en el dicho vulgar vaya incluida una profunda sospecha teológica, según la cual la Gran Cosa por excelencia sería Dios. Pero la absoluta objetividad significa una meta infinitamente remota, a la que sólo podemos aproximarnos, sin toparla nunca.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La humanidad, línea inmensa entre el orangután y Dios, avanza sin titubear, con ruta estricta; sobre su mole enorme no tienen la casualidad ni el error influjo perceptible. Sus grandes movimientos son como gestos de la divinidad. Mas el individuo oscila y se pierde, tropieza y se cansa, adelanta y torna lo andado. Las normas, absolutamente ciertas, que rigen el éxodo humano son demasiado sutiles y precisas para que no se le escapen de la atención; lo más frecuente es que no las divisemos nunca; cuando más, las columbramos en dos o tres ocasiones culminantes de nuestra vida. Por mucho que queramos seguir los consejos que nos dan las cosas, nuestro yo no se satisface, y tenemos que buscar para él otro método de orientación en la perenne marcha. Y como para él no existe el mundo de lo objetivo, como sólo entiende el idioma subjetivo, tenemos que formarnos un mundo provisional de los sujetos, mundo movible, menos exacto, pero que opera fortísimamente sobre el ánimo trashumante del individuo.
 

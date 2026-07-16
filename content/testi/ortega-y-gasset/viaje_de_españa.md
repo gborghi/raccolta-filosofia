@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/viaje_de_españa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Viaje de España" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Viaje de España" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Julius Meier-Graefe es un alemán, crítico de pintura. Hace un año recorrió nuestra tierra, solicitado por menesteres de su oficio, y tuve el gusto de presentar su nombre ante los lectores de este periódico. Ahora publica un diario de sus jornadas españolas, que titula simplemente Viaje de España.
 
@@ -52,7 +52,7 @@ Meier-Graefe confiesa al cabo del libro esta falta suya: «A menudo —dice— s
 
 * * *
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Este párrafo, que copiaba para justificar mi acusación, nos deja en suspenso, nos obliga a dudar de nuestro propio juicio. Con efecto, unos cuantos grandes hombres pueden pesar lo que un pueblo, más que un pueblo. En la historia de la cultura acaso pese más Cervantes que todo el continente africano. Y por otra parte, ¿hasta qué punto un pueblo sin grandes hombres sería verdaderamente un pueblo? Una raza —dice justamente Renan— es, ante todo, un molde de educación moral. Y ¿es ésta posible sin grandes hombres? Grandes educadores o grandes educados, ¿no son los grandes hombres síntomas de la capacidad moral necesaria a todo grupo humano para organizarse en esa unidad superior de cultura, en esa densa y potente animosidad colectiva que llamamos un pueblo? Cuando hacemos camino y peregrinamos en busca de la intimidad de una raza, ¿nos atrae sólo la frívola perspectiva de usos y trajes pintorescos? Visitar un pueblo ¿no es buscar el contacto espiritual con la mística comunión de sus grandes hombres?
 

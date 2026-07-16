@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/agrupación_al_servicio_de_la_república_circular" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Agrupación al Servicio de la República.— Circular" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Agrupación al Servicio de la República.— Circular" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Reunida la Minoría Parlamentaria de la Agrupación al Servicio de la República, bajo la Presidencia de don José Ortega y Gasset y recogiendo las ideas de éste, acuerda dirigirse a sus organizaciones y afiliados con la presente circular en la que condensa su pensamiento ante los problemas políticos más destacados del momento.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_problema_de_marruecos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El problema de Marruecos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El problema de Marruecos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Marburgo, junio de 1911
 
@@ -50,7 +50,7 @@ II
 
 Aún no es tiempo de juzgar la personalidad de Muley-Hafid; aún no ha podido gobernar, y es casi seguro que ni él ni otro sultán vuelva en mucho tiempo a gobernar Marruecos. Francia, como el judío de Venecia, va a cobrarse ahora sus préstamos apoderándose del corazón del sultanado. ¿No es esto más impuro que las antiguas guerras de conquista? El reino del pobre imbécil Abd-el-Azis fue vertiendo en los cofres de los banqueros republicanos todas las esperanzas marroquíes. Cuando subió al trono, el erario contenía 600 millones de pesetas: tres años después, existían otros tantos millones de deudas.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Tal capacidad de dilapidación es, sin embargo, incomprensible de no tener presente lo que en Marruecos quiere decir gobernar. Los diplomáticos europeos han contribuido al misterio de aquella vida política, y en lugar de aclararlo han revuelto más el río, para pescar con mayor ganancia. Desde hace años, por ejemplo, no se oye hablar de otra cosa que de rebeliones de tribus. Ahora bien, en muchos de tales casos, no hubo tal rebeldía. El jerife de Fez, el sultán no ha dominado nunca todo Marruecos: Marruecos mismo, como unidad geográfica y política, ha sido siempre un mito. Cuando Muley-Hafid, vencido su hermano, se atreve a hacer el viaje de Marrakech a Fez, directamente, a través del Atlas, realiza un acto que no había osado ningún sultán, desde hacía doscientos cincuenta años. El propio victorioso Muley-Hassan tomaba prudentemente la vuelta de la costa, aunque el viaje se alargara un mes más.
 
@@ -74,7 +74,7 @@ Frente al imaginario poder político del sultán se alza en el Norte un poder re
 
 En cada ciudad —dice Artbauer— lo mismo de la tierra baja que de las sierras, viven multitud innúmera de árabes, a veces tribus enteras, que pretenden descender de un solo jerife y que, por consiguiente, son santos. Así los Urriagel en el Rif, los Beni Hasem del otro lado del Atlas, de cuya kabila procede la casa reinante en Fez. Y no sólo procedencia documentada, sino la mera [circunstancia](/positions/life_as_project) de ser «casi» pariente de un gran santo, rodea al venturoso de un respeto que no tiene entre nosotros parangón. En todas las clases sociales, en todos los oficios, se encuentran de estos favorecidos de Alah que son humildemente saludados por sus contemporáneos con el ja mulaí, aun cuando se trate de un pobre mozo de cuadra.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Este pueblo de criaturas privilegiadas que vive difundido por todo Marruecos, tiene una cima: la familia Vasani, la primera del mundo musulmán. Según Segonzac, que ha sido su huésped, remonta su origen hasta Fatmat az-Zahra, la hija del profeta, sin una laguna en sus treinta y cinco generaciones: entre sus ascendientes cuenta a Muley Idris, el santo primer emperador de Marruecos (791). La familia de los jerifes de Tafilete que hoy rige el imperio, es una usurpadora y, consciente de ello, solicita la investidura de los vasaníes y se hace acompañar de uno de ellos en toda expedición.
 

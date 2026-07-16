@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/musicalia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Musicalia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Musicalia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -58,7 +58,7 @@ En la Sexta Sinfonía, el pacífico comerciante, el virtuoso profesor, el ingenu
 
 * * *
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los músicos románticos, Beethoven inclusive, han solido dedicar su talento melódico a la expresión de los sentimientos primarios que acometen al buen burgués. Lo mismo hicieron con sus versos los poetas hasta 1850. El romanticismo pertenece a la prole numerosa que trajeron al mundo las revoluciones políticas e ideológicas del siglo XVIII. Éstas vienen a resumirse en el advenimiento de la burguesía. La proclamación de los derechos del hombre, [sublime](/concepts/sublime) en teoría, se convirtió de hecho en el triunfo de los derechos del buen burgués. Cuando se pone a los hombres en igualdad de condiciones ante la lucha por la existencia, es seguro que triunfarán los peores, porque son los más. Hasta ahora, el espíritu democrático se ha caracterizado por una monomaníaca y susceptible ostentación de los derechos que cada uno tiene. Yo presumo que este primer ensayo de democracia fracasará si no se le completa. A la proclamación de derechos es preciso agregar una proclamación de obligaciones. Los espíritus más delicados de nuestro tiempo, ahítos de no ver en torno suyo sino gentes que blanden amenazadoras sus derechos, empiezan a buscar algún reposo en la contemplación de la Edad Media que antepuso a la idea de derecho la idea de obligación. Noblesse oblige ha sido el lema admirable de una época ferviente, transida por un generoso impulso de sesgo ascendente y creador. La democracia tiene derechos; la nobleza tiene obligaciones.
 
@@ -102,7 +102,7 @@ El arte evoluciona inexorablemente en el sentido de una progresiva purificación
 
 A Pedro se le muere la novia, y experimenta la congrua tristeza. Esta tristeza es un sentimiento primario, que nace en nuestro trato activo y vital con las cosas —por lo mismo, no es artístico, no es estético. Si, insatisfecho de expresar su pena como cada hijo de vecino, Pedro compone además una sonatina sobre su tristeza, habrá dado expresión artística a algo que no es estético.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pablo, el compasivo, y Juan, el artista, asisten a la desventura de Pedro. Aquél, siguiendo su propensión, se contagia con la amargura de su amigo, y… le acompaña en el sentimiento, se le compunge el corazón, vive la pena del prójimo. Juan, el artista, resiste a ese contagio, e interponiendo una distancia espiritual entre sí y la tristeza que ve, permanece como puro espectador, bien que espectador artista. El espectáculo de la dolorida vena que mana del amante transido suscita en él sentimientos secundarios que no son de participante, sino de contemplador estético. Si luego modula en claros tonos esas sus emociones, tendremos un tipo de creación en que es artístico, no sólo el medio de expresión, sino también el tema expresado.
 

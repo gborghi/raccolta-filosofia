@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_opinión_pública" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La opinión pública" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La opinión pública" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -70,7 +70,7 @@ Convencido de esto, se propuso Rubín de Cendoya huir, por lo menos a ratos, de 
 
 —Pues ¡ahora sí que estamos frescos! De lo que usted dice se desprendería que la opinión pública es la opinión de la mayoría y de la minoría juntas. Pero como la mayoría piensa blanco y la minoría negro, la opinión pública está condenada a ser una opinión berrenda, contradictoria, absurda, inopinable.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 —Yo creo que lleva usted un poco de razón, salvo en lo de que sea contradictoria y absurda. En mi entender, comete usted un error considerando las opiniones particulares de la mayoría y la minoría como las iniciales y suponiendo que luego la opinión pública se forma de la manera que una resultante. Lejos de ser así, pienso que las opiniones particulares son posteriores a la pública: ésta es la originaria; aquéllas, diversificaciones de ésta. Verá usted…
 
@@ -108,7 +108,7 @@ La dificultad que halla en lo que he dicho proviene de que insiste usted sin dar
 
 —Para mí no hay duda: su deber es hacerse republicano.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 —¡Admirable! Ya soy republicano; voto por los republicanos, me abono a los periódicos republicanos, peroro en las conglomeraciones republicanas. Pero, ser republicano por deber ¿no indica precisamente que no lo soy por plenitud? Sólo un átomo del cosmos interior que componen mis opiniones personales va a la República, arrastrando como una enorme inercia el resto de mí mismo. ¿Qué va hacer la República, que hay que traer, con republicanos que no pueden ni llevarse a sí mismos? Excuso decirle que se trata de un ejemplo nada más; lo mismo podía haberme supuesto monárquico.
 

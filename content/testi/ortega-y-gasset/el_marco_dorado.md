@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_marco_dorado" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El marco dorado" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El marco dorado" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Confirma esta manera de interpretar la función del marco el hecho indubitable del triunfo, confirmado durante siglos, del marco dorado sobre todos los demás. Si se pretende interrumpir nuestra ocupación con lo real, nada mejor que presentarnos algo remoto de toda semejanza con las cosas de la naturaleza, las cuales, más o menos, nos plantean siempre problemas prácticos. Ahora bien; toda forma, por estilizada que sea, conserva una alusión a los objetos reales de que ha sido alquitarada. El más puro y geométrico ornamento, el meandro o la voluta, guarda una indestructible resonancia de alguna forma natural, como en el viejo caracol pescado hace mil años repercute todavía el rumor de las resacas atlánticas. Sólo lo informe se halla libre de alusiones a lo real.
 

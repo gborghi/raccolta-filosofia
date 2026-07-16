@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/du_contrat_social_ou_essai_sur_la_forme_de_la_république" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="DU CONTRAT SOCIAL ou Essai sur la forme de la République" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="DU CONTRAT SOCIAL ou Essai sur la forme de la République" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Commençons par rechercher d’où naît la nécessité des institutions politiques.
 
@@ -40,7 +40,7 @@ Si la société générale existait ailleurs que dans les systèmes des philosop
 
 Il est faux que, dans l’état d’indépendance, la raison nous porte à concourir au bien commun par la vue de notre propre intérêt. Loin que l’intérêt particulier s’allie au bien général, ils s’excluent l’un l’autre dans l’ordre naturel des choses ; et les lois sociales sont un joug que chacun veut bien imposer aux autres, mais non pas s’en charger lui-même. « Je sens que je porte l’épouvante et le trouble au milieu de l’espèce humaine, » dit l’homme indépendant que le sage étouffe ; « mais il faut que je sois malheureux, ou que je fasse le malheur des autres, et personne ne m’est plus cher que moi. C’est vainement, » pourra-t-il ajouter, « que je voudrais concilier mon intérêt avec celui d’autrui ; tout ce que vous me dites des avantages de la loi sociale pourrait être bon, si, tandis que je l’observerais scrupuleusement envers les autres, j’étais sûr qu’ils l’observeraient tous envers moi. Mais quelle sûreté pouvez-vous me donner là-dessus ? et ma situation peut-elle être pire que de me voir exposé à tous les maux que les plus forts voudront me faire, sans oser me dédommager sur les faibles ? Ou donnez-moi des garants contre toute entreprise injuste, ou n’espérez pas que je m’en abstienne à mon tour. Vous avez beau me dire qu’en renonçant aux devoirs que m’impose la loi naturelle je me prive en même temps de ses droits, et que mes violences autoriseront toutes celles dont on voudra user envers moi. J’y consens d’autant plus volontiers que je ne vois point comment ma modération pourrait m’en garantir. Au surplus, ce sera mon affaire de mettre les forts dans mes intérêts, en partageant avec eux les dépouilles des faibles ; cela vaudra mieux que la justice pour mon avantage et pour ma sûreté. » La preuve que c’est ainsi qu’eût raisonné l’homme éclairé et indépendant est que c’est ainsi que raisonne toute société souveraine qui ne rend compte de sa conduite qu’à elle-même.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Que répondre de solide à de pareils discours, si l’on ne veut amener la religion à l’aide de la morale, et faire intervenir immédiatement la volonté de Dieu pour lier la société des hommes ? Mais les notions sublimes du Dieu des sages, les douces lois de la fraternité qu’il nous impose, les vertus sociales des âmes pures, qui sont le vrai culte qu’il veut de nous, échapperont toujours à la multitude. On lui fera toujours des dieux insensés comme elle, auxquels elle sacrifiera de légères commodités pour se livrer en leur honneur à mille passions horribles et destructives. La terre entière regorgerait de sang, et le genre humain périrait bientôt, si la philosophie et les lois ne retenaient les fureurs du fanatisme, et si la voix des hommes n’était plus forte que celle des dieux.
 
@@ -60,7 +60,7 @@ Mais quoiqu’il n’y ait point de société naturelle et générale entre les 
 
 Chapitre 3. Du pacte fondamental
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 L’homme est né libre, et cependant partout il est dans les fers. Tel se croit le maître des autres qui ne laisse pas d’être plus esclave qu’eux. Comment ce changement s’est-il fait ? On n’en sait rien. Qu’est-ce qui peut le rendre légitime ? Il n’est pas impossible de le dire. Si je ne considérais que la force, ainsi que les autres, je dirais : tant que le peuple est contraint d’obéir et qu’il obéit, il fait bien ; sitôt qu’il peut secouer le joug et qu’il le secoue, il fait encore mieux ; car, recouvrant sa liberté par le même droit qui la lui a ravie, ou il est bien fondé à la reprendre, ou l’on ne l’était point à la lui ôter. Mais l’ordre social est un droit sacré qui sert de base à tous les autres ; cependant ce droit n’a point sa source dans la nature ; il est donc fondé sur une convention. Il s’agit de savoir quelle est cette convention, et comment elle a pu se former.
 
@@ -78,7 +78,7 @@ Afin donc que le [Contrat social](/positions/social_contract) ne soit pas un vai
 
 Ce passage de l’état de nature à l’état social produit dans l’homme un changement très remarquable, en substituant dans sa conduite la justice à l’instinct, et donnant à ses actions des rapports moraux qu’elles n’avaient point auparavant. C’est alors seulement que, la voix du devoir succédant à l’impulsion physique et le droit à l’appétit, l’homme, qui jusque-là n’avait regardé que lui-même, se voit forcé d’agir sur d’autres principes, et de consulter sa raison avant d’écouter ses penchants. Mais, quoiqu’il se prive dans cet état de plusieurs avantages qu’il tient de la nature, il en regagne de si grands, ses facultés s’exercent et se développent, ses idées s’étendent, ses sentiments s’ennoblissent et son âme toute entière s’élève à tel point que, si les abus de cette nouvelle condition ne le dégradaient point souvent au-dessous même de celle dont il est sorti, il devrait bénir sans cesse l’instant heureux qui l’en arracha pour jamais et qui, d’un animal stupide et borné, fit un être intelligent et un homme.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Réduisons toute cette balance à des termes faciles à comparer. Ce que l’homme perd par le [Contrat social](/positions/social_contract), c’est la liberté naturelle et un droit illimité a tout ce qui lui est nécessaire ; ce qu’il gagne, c’est la liberté civile et la propriété de tout ce qu’il possède. Pour ne pas se tromper dans ces estimations, il faut bien distinguer la liberté naturelle, qui n’a pour bornes que la force de l’individu, de la liberté civile, qui est limitée par la [volonté générale](/positions/general_will) ; et la possession, qui n’est que l’effet de la force ou le droit du premier occupant, de la propriété, qui ne peut être fondée que sur un titre juridique.
 
@@ -108,7 +108,7 @@ De plus ; quand on aurait trouvé pour un moment l’accord des deux volontés, 
 
 Comme dans la constitution de l’homme l’action de l’âme sur le corps est l’abîme de la philosophie, de même l’action de la volonté générale sur la force publique est l’abîme de la politique dans la constitution de l’état. C’est là que tous les Législateurs se sont perdus. J’exposerai dans la suite les meilleurs moyens qu’on ait employés à cet effet, et je ne me fierai pour les apprécier au raisonnement qu’autant qu’il sera justifié par l’expérience. Si vouloir et faire sont la même chose pour tout être libre, et si la volonté d’un tel être mesure exactement la quantité de ses forces, qu’il emploie à l’accomplir, il est évident que, dans tout ce qui n’excède pas la puissance publique, l’état exécuterait toujours fidèlement tout ce que veut le souverain et comme il le veut, si la volonté était un acte aussi simple, et l’action un effet aussi immédiat, de cette même volonté, dans le corps civil que dans le corps humain.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mais, quand même la liaison dont je parle serait établie aussi bien qu’elle peut l’être, toutes les difficultés ne seraient pas levées. Les ouvrages des hommes, toujours moins parfaits que ceux de la nature, ne vont jamais si directement à leur fin. L’on ne peut éviter en politique, non plus qu’en mécanique, d’agir plus faiblement ou moins vite, et de perdre de la force ou du temps. La [volonté générale](/positions/general_will) est rarement celle de tous, et la force publique est toujours moindre que la somme des forces particulières ; de sorte qu’il y a dans les ressorts de l’état un équivalent aux frottements des machines, qu’il faut savoir réduire à la moindre quantité possible, et qu’il faut du moins calculer et déduire d’avance de la force totale, pour proportionner exactement les moyens qu’on emploie à l’effet qu’on veut obtenir. Mais, sans entrer dans ces pénibles recherches qui font la science du Législateur, achevons de fixer l’idée de l’état civil.
 
@@ -126,7 +126,7 @@ Par plusieurs raisons tirées de la nature de la chose, le père doit commander 
 
 Il n’y a rien de tout cela dans la société politique. Loin que le chef ait un intérêt naturel au bonheur des particuliers, il ne lui est pas rare de chercher le sien dans leur misère. La couronne est-elle héréditaire ? C’est souvent un enfant qui commande à des hommes. Est-elle élective ? Mille inconvénients se font sentir dans les élections ; et l’on perd, dans l’un et dans l’autre cas, tous les avantages de la paternité. Si vous n’avez qu’un seul chef, vous êtes à la discrétion d’un maître qui n’a nulle raison de vous aimer ; si vous en avez plusieurs, il faut supporter à la fois leur tyrannie et leurs divisions. En un mot ; les abus sont inévitables et leurs suites funestes dans toute société, où l’intérêt public et les lois n’ont aucune force naturelle et sont sans cesse attaqués par l’intérêt personnel et les passions du chef et des membres.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Quoique les fonctions du père de famille et du prince doivent tendre au même but, c’est par des voies si différentes, leurs devoirs et leurs droits sont tellement distingués, qu’on ne peut les confondre sans se former les plus fausses idées des principes de la société, et sans tomber dans des erreurs fatales au genre humain. En effet, si la voix de la nature est le meilleur conseil que doive écouter un bon père pour bien remplir ses devoirs, elle n’est pour le magistrat qu’un faux guide qui travaille sans cesse à l’écarter des siens, et qui l’entraîne tôt ou tard à sa perte ou à celle de l’état, s’il n’est retenu par la prudence ou par la vertu. La seule précaution nécessaire au père de famille est de se garantir de la dépravation, et d’empêcher que les inclinations naturelles ne se corrompent en lui ; mais ce sont elles qui corrompent le magistrat. Pour bien faire, le premier n’a qu’à consulter son [coeur](/positions/fideism) ; l’autre devient un traître, au moment qu’il écoute le sien ; sa raison même lui doit être suspecte, et il ne doit suivre que la raison publique, qui est la Loi. Aussi la nature a-t-elle fait une multitude de bons pères de famille ; mais j’ignore si la sagesse humaine a jamais fait un bon roi. Qu’on voie dans le Civilis de Platon les qualités que cet homme royal doit avoir, et qu’on cite quelqu’un qui les ait eues. Quand on supposerait même que cet homme ait existé et qu’il ait porté la couronne, la raison permet-elle d’établir sur un prodige la règle des gouvernements humains ? Il est donc certain que le lien social de la Cité n’a pu ni dû se former par l’extension de celui de la famille, ni sur le même modèle.
 
@@ -144,7 +144,7 @@ Ajoutons que, si par ce mot de guerre on entend la guerre publique, on suppose d
 
 Tel est, en effet, le véritable caractère de l’état civil ; un peuple est un peuple indépendamment de son chef ; et, si le prince vient à périr, il existe encore entre les sujets des liens qui les maintiennent en Corps de nation. Vous ne trouvez rien de pareil dans les principes de la tyrannie. Sitôt que le tyran cesse d’exister, tout se sépare et tombe en poussière, comme un chêne en un tas de cendres, quand le feu s’éteint après l’avoir dévoré.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 4. Que par le laps de temps une violente usurpation devienne enfin un pouvoir légitime ; que la prescription seule puisse changer un usurpateur en magistrat suprême, et un troupeau d’esclaves en Corps de nation ; c’est ce que beaucoup de savants hommes ont osé soutenir, et à quoi il ne manque d’autre autorité que celle de la raison. Bien loin qu’une longue violence puisse, à force de temps, se transformer en un gouvernement juste, il est incontestable au contraire que, quand un peuple serait assez insensé pour accorder volontairement à son chef un pouvoir arbitraire, ce pouvoir ne saurait être transmis sur d’autres générations, et que sa durée seule est capable de le rendre illégitime. Car on ne peut présumer que les enfants à naître approuveront l’extravagance de leurs pères, ni leur faire porter justement la peine d’une faute qu’ils n’ont pas commise.
 
@@ -170,7 +170,7 @@ Les engagements qui nous lient au Corps social ne sont obligatoires que parce qu
 
 En effet, sitôt qu’il s’agit d’un fait ou d’un droit particulier sur un point qui n’a pas été réglé par une convention générale et antérieure, l’affaire devient contentieuse ; c’est un procès où les particuliers intéressés sont une des parties, et le public l’autre, mais où je ne vois ni la loi qu’il faut suivre, ni le juge qui doit prononcer. Il serait ridicule de vouloir alors s’en rapporter à une expresse décision de la volonté générale, qui ne peut être que la conclusion de l’une des parties, et qui par conséquent n’est pour l’autre qu’une volonté particulière, sujette en cette occasion à l’injustice ou à l’erreur. Ainsi, de même qu’une volonté particulière ne peut représenter la volonté générale, la volonté générale, à son tour, ne peut, sans changer de nature, devenir une volonté particulière ; elle ne peut prononcer nommément ni sur un homme, ni sur un fait. Quand le peuple d’Athènes, par exemple, nommait ou cassait ses chefs, décernait une récompense à l’un, imposait une amende à l’autre, et par des multitudes de décrets particuliers exerçait indistinctement tous les actes du gouvernement, le peuple alors n’avait plus de volonté générale, proprement dit ; il n’agissait plus comme souverain, mais comme magistrat.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 On doit concevoir par-là que ce qui généralise la volonté publique n’est pas la quantité des votants, mais l’intérêt commun qui les unit. Car, dans cette institution, chacun se soumet nécessairement aux conditions qu’il impose aux autres : accord admirable de l’intérêt et de la justice, qui donne aux délibérations communes un caractère d’équité qu’on voit évanouir dans la discussion de toute affaire particulière, faute d’un intérêt commun qui unisse et identifie la volonté du juge avec celle de la partie.
 
@@ -202,7 +202,7 @@ Ce n’est pas qu’on ait jamais imaginé que la volonté d’un homme pût pas
 
 Celui qui rédige les lois n’a donc, ou ne doit avoir, aucun pouvoir législatif ; et le peuple même ne peut se dépouiller de ce droit suprême, parce que selon le pacte fondamental il n’y a que la volonté générale qui oblige les particuliers, et qu’on ne peut jamais s’assurer qu’une volonté particulière est conforme à la volonté générale, à moins de la soumettre aux suffrages libres du peuple.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Si l’on dit que, tout le peuple s’étant une fois soumis volontairement, solennellement et sans contrainte à un homme, toutes les volontés de cet homme doivent, en vertu de cette soumission, être censées autant d’actes de la [volonté générale](/positions/general_will), on dit un sophisme auquel j’ai déjà répondu. J’ajouterai que la soumission volontaire et supposée du peuple est toujours conditionnelle ; qu’il ne se donne point pour l’avantage du prince, mais pour le sien ; que, si chaque particulier promet d’obéir sans réserve, c’est pour le bien de tous ; que le prince en pareil cas prend aussi des engagements, auxquels tiennent ceux du peuple ; et que, même sous le plus absolu despotisme, il ne peut violer son serment sans relever à l’instant ses sujets du leur.
 
@@ -226,7 +226,7 @@ Chapitre 3. Du peuple à instituer.
 
 Quoique je traite ici du Droit et non des convenances, je ne puis m’empêcher de jeter en passant quelques coups d’œil sur celles qui sont indispensables dans toute bonne institution.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Comme, avant d’élever un édifice, l’habile architecte observe et sonde le sol pour voir s’il en peut soutenir le poids, le sage Instituteur ne commence pas par rédiger des lois au hasard ; mais il examine auparavant si le peuple, auquel il les destine, est propre à les supporter. C’est pour cela que Platon refusa de donner des lois aux Arcadiens et aux Cyréniens, sachant que les uns et les autres étaient riches et ne pouvaient souffrir l’égalité. C’est pour cela qu’on vit en Crète de bonnes lois et de méchants hommes, parce que Minos n’avait discipliné qu’un peuple chargé de vices. Mille nations ont longtemps brillé sur la terre, qui n’auraient jamais pu souffrir de bonnes lois ; et celles même qui l’auraient pu n’ont eu dans toute leur durée qu’un temps fort court pour cela. Les peuples, ainsi que les hommes, ne sont maniables que dans leur jeunesse ; ils deviennent incorrigibles en vieillissant. Quand une fois les coutumes sont établies et les préjugés enracinés, c’est une entreprise dangereuse et vaine de vouloir y toucher. Ils ne peuvent pas même souffrir qu’on parle de les rendre heureux, comme ces malades stupides et sans courage qui frémissent à la vue du médecin. Il y a peu de nations avilies sous la tyrannie qui fassent le moindre cas de la liberté ; et celles même qui en voudraient encore ne sont plus en état de la supporter.
 
@@ -248,7 +248,7 @@ On voit par là qu’il y a des raisons de s’étendre et des raisons de se res
 
 Au reste, on a vu des états tellement constitués que la nécessité des conquêtes était dans leur constitution même ; et que, pour se maintenir, ils étaient forcés de s’agrandir sans cesse. Peut-être se félicitaient-ils beaucoup de cette heureuse nécessité, qui leur montrait pourtant, avec le terme de leur grandeur, l’inévitable moment de leur chute.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Pour que l’état puisse être bien gouverné, il faudrait que sa grandeur, ou pour mieux dire son étendue, fût mesurée aux facultés de ceux qui la gouvernent ; et l’impossibilité que de grands génies se succèdent sans cesse dans le gouvernement veut qu’on se règle sur la portée commune. Voilà ce qui fait que les nations, agrandies sous des chefs illustres, dépérissent nécessairement entre les mains des imbéciles qui ne manquent pas de leur succéder ; et que, pour peu qu’un état soit grand, le prince est presque toujours trop petit. Quand, au contraire, il arrive que l’état est trop petit pour son chef, ce qui est très rare, il est encore mal gouverné ; parce que le chef, suivant toujours la grandeur de ses vues et les projets de l’ambition, oublie les intérêts du peuple et ne le rend pas moins malheureux par l’abus des talents qu’il a de trop, qu’un chef borné par le défaut de ceux qui lui manquent. Cet inconvénient de l’administration d’une monarchie, même bien réglée, se fait surtout sentir quand elle est héréditaire, et que le chef n’est point choisi par le peuple, mais donné par la naissance. Il faudrait, pour ainsi dire, que le royaume s’étendît ou se resserrât à chaque règne, selon la portée du prince ; au lieu que, les talents d’un sénat ayant des mesures plus fixes, l’état peut avoir des bornes constantes sans que l’administration en souffre.
 
@@ -268,7 +268,7 @@ Il faut encore avoir égard au voisinage. Ce qui fit subsister les petits états
 
 Enfin, il faut avoir égard aux circonstances ; car, par exemple, on ne doit point parler de règle au peuple quand il a faim, ni de raison à des fanatiques ; et la guerre qui fait taire les lois existantes ne permet guère d’en établir. Mais la famine, la fureur, la guerre ne durent pas toujours. Il n’y a presque ni homme ni peuple qui n’ait quelque intervalle meilleur et quelque moment de sa vie à donner à la raison : voilà l’instant qu’il faut savoir saisir.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Quel peuple est donc propre à la législation ? Celui qui n’a jamais encore porté le joug des lois ; celui qui n’a ni coutumes ni superstitions enracinées, et qui pourtant se trouve déjà lié par quelque union d’origine ou d’intérêt ; celui qui ne craint pas d’être écrasé par une invasion subite, et qui, sans entrer dans les querelles de ses voisins, peut résister à chacun par lui-même, ou s’aider de l’un pour repousser l’autre ; celui dont tous les membres peuvent être connus de chacun d’eux, et où l’on n’est point forcé de charger un homme d’un plus grand fardeau qu’un homme ne peut porter ; celui qui peut se passer des autres peuples et dont tout autre peuple peut se passer ; celui qui n’est ni riche ni pauvre, et se suffit à lui-même : en un mot, celui qui réunit la consistance d’un ancien peuple avec la docilité d’un peuple nouveau. Ce qui rend pénible l’ouvrage de la législation, c’est moins ce qu’il faut établir que ce qu’il faut détruire ; et ce qui rend le succès si rare, c’est l’impossibilité de trouver la simplicité de la nature jointe aux besoins de la société. Toutes ces conditions se trouvent difficilement rassemblées, je l’avoue ; aussi voit-on peu d’états bien constitués.
 
@@ -304,7 +304,7 @@ Or, la spécification des actions qui concourent à ce plus grand bien, par auta
 
 C’est ainsi que se forment en nous les premières notions distinctes du juste et de l’injuste. Car la Loi est antérieure à la justice, et non pas la justice à la Loi. Et si la Loi ne peut être injuste, ce n’est pas que la justice en soit la base, ce qui pourrait n’être pas toujours vrai ; mais parce qu’il est contre la nature qu’on veuille se nuire à soi-même, ce qui est sans exception.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 C’est un beau et [sublime](/concepts/sublime) précepte de faire à autrui comme nous voudrions qu’il nous fût fait. Mais n’est-il pas évident que, loin de servir de fondement à la justice, il a besoin de fondement lui-même ? car où est la raison claire et solide de me conduire, étant moi, sur la volonté que j’aurais, si j’étais un autre ? Il est clair encore que ce précepte est sujet à mille exceptions, dont on n’a jamais donné que des explications sophistiques. Un juge qui condamne un criminel ne voudrait-il pas être absous, s’il était criminel lui-même ? Où est l’homme qui voudrait qu’on lui refusât jamais rien ? s’ensuit-il qu’il faille accorder tout ce qu’on nous demande ? Cet autre axiome, cuique suum, qui sert de base à tout le droit de propriété, sur quoi se fonde-t-il que sur le droit de propriété même ? Et si je ne dis pas avec [Hobbes](/figures/hobbes) : tout est à moi, pourquoi du moins ne reconnaîtrais-je pas pour mien, dans l’état de nature, tout ce qui m’est utile et dont je puis m’emparer ?
 
@@ -350,7 +350,7 @@ Il y a une troisième sorte de religion, plus bizarre, qui donne aux hommes deux
 
 La seconde est bonne en ce qu’elle réunit le culte divin et l’amour des lois et que, faisant de la patrie l’objet de l’adoration des citoyens, elle leur apprend que servir l’état c’est servir Dieu. C’est une espèce de théocratie, dans laquelle l’état ne doit point avoir d’autres prêtres que ses magistrats. Alors, mourir pour son pays, c’est aller au martyre ; désobéir aux lois, c’est être impie et sacrilège ; et soumettre un criminel à l’exécration publique, c’est le dévouer au courroux céleste des dieux : Sacer esto.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mais elle est mauvaise, en ce qu’étant fondée sur l’erreur et sur le mensonge elle trompe les hommes, les rend crédules et superstitieux, et noie le vrai culte de la Divinité dans un vain cérémonial. Elle est mauvaise encore, quand, devenant exclusive et tyrannique, elle rend un peuple sanguinaire et intolérant ; en sorte qu’il ne respire que meurtre et massacre, et croit faire une action sainte de tuer quiconque n’admet pas ses dieux et ses lois. Il n’est pas permis de serrer le nœud d’une société particulière aux dépens du reste du genre humain.
 
@@ -378,7 +378,7 @@ Ces dogmes divers composent une profession de foi purement civile qu’il appart
 
 Tout citoyen doit être tenu de prononcer cette profession de foi par devant le magistrat et d’en reconnaître expressément tous les dogmes. Si quelqu’un ne les reconnaît pas, qu’il soit retranché de la Cité, mais qu’il emporte paisiblement tous ses biens. Si quelqu’un, après avoir reconnu ces dogmes, se conduit comme ne les croyant pas, qu’il soit puni de mort. Il a commis le plus grand des crimes : il a menti devant les lois.
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Les dogmes de la [religion civile](/concepts/civil_religion) seront simples et en petit nombre ; énoncés avec précision et sans explication ni commentaire. L’existence de la Divinité, bienfaisante, puissante, intelligente, prévoyante et pourvoyante ; la vie à venir ; le bonheur des justes et le châtiment des méchants ; la sainteté du [Contrat social](/positions/social_contract) et des lois : voilà les dogmes positifs. Quant aux dogmes négatifs, je les borne à un seul : c’est l’intolérance.
 
@@ -412,7 +412,7 @@ Les signes moraux sont incertains, difficiles à soumettre au calcul.
 
 La sûreté, la tranquillité, la liberté même.
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Plusieurs peuples au milieu des guerres et des dissensions intestines ne laissent pas de multiplier extrêmement. Dans d’autres gouvernements, au contraire, la paix même est dévorante et consume les citoyens.
 

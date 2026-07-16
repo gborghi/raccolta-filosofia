@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/theaetetus" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="THEAETETUS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="THEAETETUS" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -136,7 +136,7 @@ SOCRATES: And astronomy and harmony and calculation?
 
 THEAETETUS: I do my best.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Yes, my boy, and so do I; and my desire is to learn of him, or of anybody who seems to understand these things. And I get on pretty well in general; but there is a little difficulty which I want you and the company to aid me in investigating. Will you answer me a question: ’Is not learning growing wiser about that which you learn?’
 
@@ -266,7 +266,7 @@ SOCRATES: And that I myself practise midwifery?
 
 THEAETETUS: No, never.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Let me tell you that I do though, my friend: but you must not reveal the secret, as the world in general have not found me out; and therefore they only say of me, that I am the strangest of mortals and drive men to their wits’ end. Did you ever hear that too?
 
@@ -336,7 +336,7 @@ SOCRATES: Now is the wind, regarded not in relation to us but absolutely, cold o
 
 THEAETETUS: I suppose the last.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Then it must appear so to each of them?
 
@@ -442,7 +442,7 @@ SOCRATES: These three axioms, if I am not mistaken, are fighting with one anothe
 
 THEAETETUS: Yes, Socrates, and I am amazed when I think of them; by the Gods I am! and I want to know what on earth they mean; and there are times when my head quite swims with the contemplation of them.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I see, my dear Theaetetus, that Theodorus had a true insight into your nature when he said that you were a philosopher, for wonder is the feeling of a philosopher, and philosophy begins in wonder. He was not a bad genealogist who said that Iris (the messenger of heaven) is the child of Thaumas (wonder). But do you begin to see what is the explanation of this perplexity on the hypothesis which we attribute to Protagoras?
 
@@ -500,7 +500,7 @@ SOCRATES: And is truth or falsehood to be determined by duration of time?
 
 THEAETETUS: That would be in many ways ridiculous.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But can you certainly determine by any other means which of these opinions is true?
 
@@ -614,7 +614,7 @@ SOCRATES: I am charmed with his doctrine, that what appears is to each one, but 
 
 THEODORUS: He was a friend of mine, Socrates, as you were saying, and therefore I cannot have him refuted by my lips, nor can I oppose you when I agree with you; please, then, to take Theaetetus again; he seemed to answer very nicely.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): If you were to go into a Lacedaemonian palestra, Theodorus, would you have a right to look on at the naked wrestlers, some of them making a poor figure, if you did not strip and give them an opportunity of judging of your own person?
 
@@ -742,7 +742,7 @@ SOCRATES: Then you see and do not see the same thing at the same time.
 
 THEAETETUS: Yes, in a certain sense.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): None of that, he will reply; I do not ask or bid you answer in what sense you know, but only whether you know that which you do not know. You have been proved to see that which you do not see; and you have already admitted that seeing is knowing, and that not-seeing is not-knowing: I leave you to draw the inference.
 
@@ -756,7 +756,7 @@ SOCRATES: He will repeat all those things which we have been urging on his behal
 
 THEODORUS: You are jesting, Socrates; indeed, your defence of him has been most valorous.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Thank you, friend; and I hope that you observed Protagoras bidding us be serious, as the text, ‘Man is the measure of all things,’ was a solemn one; and he reproached us with making a boy the medium of discourse, and said that the boy’s timidity was made to tell against his argument; he also declared that we made a joke of him.
 
@@ -850,7 +850,7 @@ SOCRATES: And the truth of Protagoras being doubted by all, will be true neither
 
 THEODORUS: I think, Socrates, that we are running my old friend too hard.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But I do not know that we are going beyond the truth. Doubtless, as he is older, he may be expected to be wiser than we are. And if he could only just get his head out of the world below, he would have overthrown both of us again and again, me for talking nonsense and you for assenting to me, and have been off and underground in a trice. But as he is not within call, we must make the best use of our own faculties, such as they are, and speak out what appears to us to be true. And one thing which no one will deny is, that there are great differences in the understandings of men.
 
@@ -884,7 +884,7 @@ SOCRATES: I will illustrate my meaning, Theodorus, by the jest which the clever 
 
 THEODORUS: I do, and what you say is true.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And thus, my friend, on every occasion, private as well as public, as I said at first, when he appears in a law-court, or in any place in which he has to speak of things which are at his feet and before his eyes, he is the jest, not only of Thracian handmaids but of the general herd, tumbling into wells and every sort of disaster through his inexperience. His awkwardness is fearful, and gives the impression of imbecility. When he is reviled, he has nothing personal to say in answer to the civilities of his adversaries, for he knows no scandals of any one, and they do not interest him; and therefore he is laughed at for his sheepishness; and when others are being praised and glorified, in the simplicity of his heart he cannot help going into fits of laughter, so that he seems to be a downright idiot. When he hears a tyrant or king eulogized, he fancies that he is listening to the praises of some keeper of cattle — a swineherd, or shepherd, or perhaps a cowherd, who is congratulated on the quantity of milk which he squeezes from them; and he remarks that the creature whom they tend, and out of whom they squeeze the wealth, is of a less tractable and more insidious nature. Then, again, he observes that the great man is of necessity as ill-mannered and uneducated as any shepherd — for he has no leisure, and he is surrounded by a wall, which is his mountain-pen. Hearing of enormous landed proprietors of ten thousand acres and more, our philosopher deems this to be a trifle, because he has been accustomed to think of the whole earth; and when they sing the praises of family, and say that some one is a gentleman because he can show seven generations of wealthy ancestors, he thinks that their sentiments only betray a dull and narrow vision in those who utter them, and who are not educated enough to look at the whole, nor to consider that every man has had thousands and ten thousands of progenitors, and among them have been rich and poor, kings and slaves, Hellenes and barbarians, innumerable. And when people pride themselves on having a pedigree of twenty-five ancestors, which goes back to Heracles, the son of Amphitryon, he cannot understand their poverty of ideas. Why are they unable to calculate that Amphitryon had a twenty-fifth ancestor, who might have been anybody, and was such as fortune made him, and he had a fiftieth, and so on? He amuses himself with the notion that they cannot count, and thinks that a little arithmetic would have got rid of their senseless vanity. Now, in all these cases our philosopher is derided by the vulgar, partly because he is thought to despise them, and also because he is ignorant of what is before him, and always at a loss.
 
@@ -906,7 +906,7 @@ SOCRATES: Too true, my friend, as I well know; there is, however, one peculiarit
 
 THEODORUS: For my part, Socrates, I would rather have the digressions, for at my age I find them easier to follow; but if you wish, let us go back to the argument.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Had we not reached the point at which the partisans of the perpetual flux, who say that things are as they seem to each one, were confidently maintaining that the ordinances which [the state](/concepts/state) commanded and thought just, were just to the state which imposed them, while they were in force; this was especially asserted of justice; but as to the good, no one had any longer the hardihood to contend of any ordinances which the state thought and enacted to be good that these, while they were in force, were really good; — he who said so would be playing with the name ‘good,’ and would not touch the real question — it would be a mockery, would it not?
 
@@ -972,7 +972,7 @@ SOCRATES: I suppose, Theodorus, that you have only seen them when they were figh
 
 THEODORUS: Disciples! my good sir, they have none; men of their sort are not one another’s disciples, but they grow up at their own sweet will, and get their inspiration anywhere, each of them saying of his neighbour that he knows nothing. From these men, then, as I was going to remark, you will never get a reason, whether with their will or without their will; we must take the question out of their hands, and make the analysis ourselves, as if we were doing geometrical problem.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Quite right too; but as touching the aforesaid problem, have we not heard from the ancients, who concealed their wisdom from the many in poetical figures, that Oceanus and Tethys, the origin of all things, are streams, and that nothing is at rest? And now the moderns, in their superior wisdom, have declared the same openly, that the cobbler too may hear and learn of them, and no longer foolishly imagine that some things are at rest and others in motion — having learned that all is motion, he will duly honour his teachers. I had almost forgotten the opposite doctrine, Theodorus,
 
@@ -1062,7 +1062,7 @@ THEAETETUS: Yes, if he wishes; but I would rather have heard about the doctrine 
 
 THEODORUS: Invite Socrates to an argument — invite horsemen to the open plain; do but ask him, and he will answer.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Nevertheless, Theodorus, I am afraid that I shall not be able to comply with the request of Theaetetus.
 
@@ -1194,7 +1194,7 @@ THEAETETUS: Clearly not, Socrates; and knowledge has now been most distinctly pr
 
 SOCRATES: But the original aim of our discussion was to find out rather what knowledge is than what it is not; at the same time we have made some [progress](/positions/progress), for we no longer seek for knowledge in perception at all, but in that other process, however called, in which the mind is alone and engaged with being.
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 THEAETETUS: You mean, [Socrates](/figures/socrates), if I am not mistaken, what is called thinking or opining.
 
@@ -1358,7 +1358,7 @@ SOCRATES: Then when any one thinks of one thing as another, he is saying to hims
 
 THEAETETUS: Yes.
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But do you ever remember saying to yourself that the noble is certainly base, or the unjust just; or, best of all — have you ever attempted to convince yourself that one thing is another? Nay, not even in sleep, did you ever venture to say to yourself that odd is even, or anything of the kind?
 
@@ -1444,7 +1444,7 @@ SOCRATES: And that which he does not know will sometimes not be perceived by him
 
 THEAETETUS: That is also true.
 
-<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): See whether you can follow me better now: Socrates can recognize Theodorus and Theaetetus, but he sees neither of them, nor does he perceive them in any other way; he cannot then by any possibility imagine in his own mind that Theaetetus is Theodorus. Am I not right?
 
@@ -1534,7 +1534,7 @@ SOCRATES: Exactly; and I want you to consider whether this does not imply that t
 
 THEAETETUS: Yes, that seems to be the case.
 
-<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Then do we not come back to the old difficulty? For he who makes such a mistake does think one thing which he knows to be another thing which he knows; but this, as we said, was impossible, and afforded an irresistible proof of the non-existence of false opinion, because otherwise the same person would inevitably know and not know the same thing at the same time.
 
@@ -1648,7 +1648,7 @@ SOCRATES: Then shall we say that about [names](/positions/nominalism) we care no
 
 THEAETETUS: A very rational explanation.
 
-<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But when he catches the one which he wants, then he is not deceived, and has an opinion of what is, and thus false and true opinion may exist, and the difficulties which were previously raised disappear. I dare say that you agree with me, do you not?
 
@@ -1730,7 +1730,7 @@ SOCRATES: Excellent; but then, how did he distinguish between things which are a
 
 THEAETETUS: I do not know whether I can recall it; but if another person would tell me, I think that I could follow him.
 
-<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Let me give you, then, a dream in return for a dream: — Methought that I too had a dream, and I heard in my dream that the primeval letters or elements out of which you and I and all other things are compounded, have no reason or explanation; you can only name them, but no predicate can be either affirmed or denied of them, for in the one case existence, in the other non-existence is already implied, neither of which must be added, if you mean to speak of this or that thing by itself alone. It should not be called itself, or that, or each, or alone, or this, or the like; for these go about everywhere and are applied to all things, but are distinct from them; whereas, if the first elements could be described, and had a definition of their own, they would be spoken of apart from all else. But none of these primeval elements can be defined; they can only be named, for they have nothing but a name, and the things which are compounded of them, as they are complex, are expressed by a combination of [names](/positions/nominalism), for the combination of names is the essence of a definition. Thus, then, the elements or letters are only objects of perception, and cannot be defined or known; but the syllables or combinations of them are known and expressed, and are apprehended by true opinion. When, therefore, any one forms the true opinion of anything without rational explanation, you may say that his mind is truly exercised, but has no knowledge; for he who cannot give and receive a reason for a thing, has no knowledge of that thing; but when he adds rational explanation, then, he is perfected in knowledge and may be all that I have been denying of him. Was that the form in which the dream appeared to you?
 
@@ -1900,7 +1900,7 @@ SOCRATES: And is not a whole likewise that from which nothing is absent? but tha
 
 THEAETETUS: I now think that there is no difference between a whole and all.
 
-<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But were we not saying that when a thing has parts, all the parts will be a whole and all?
 
@@ -2036,7 +2036,7 @@ THEAETETUS: It would seem so.
 
 SOCRATES: And what we fancied to be a perfect definition of knowledge is a dream only. But perhaps we had better not say so as yet, for were there not three explanations of knowledge, one of which must, as we said, be adopted by him who maintains knowledge to be true opinion combined with rational explanation? And very likely there may be found some one who will not prefer this but the third.
 
-<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 THEAETETUS: You are quite right; there is still one remaining. The first was the image or expression of the mind in speech; the second, which has just been mentioned, is a way of reaching the whole by an enumeration of the elements. But what is the third definition?
 

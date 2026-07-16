@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_problemas_concretos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="«Los problemas concretos»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="«Los problemas concretos»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Innumerables veces he dicho que el problema de la vida pública de España no era cuestión de «derechas e izquierdas». Acaso por defectuosidad en el modo de decirlo producía siempre con ello alguna irritación en torno. Los irritables no advertían que me refería yo a lo que en nuestra vida pública era y es más urgente, a su mal peculiarísimo. Siempre he detestado la nivelación de los problemas españoles con los de otros países. Es una holgazanería mental traspasar a España, sin más ni más, las soluciones que a sus angustias han dado otros pueblos. Cada ser, persona o nación tiene su angustia intransferible y su inalienable alegría. Y de esa angustia y esa alegría propias hay que vivir como de la única raíz auténtica. El mundo en rededor —en este [caso](/concepts/fortune) los otros pueblos— está ahí actuando sobre nosotros, y debemos ser porosos a él y estar abiertos a su influjo. Pero en definitiva, para regir nuestra vida, el contorno debe servir sólo de orientación que nos ilustre y no de pauta que imitemos. La vida como imitación es la vida como falsificación.
 
@@ -58,7 +58,7 @@ III
 
 Esto quiere decir que no son separables los problemas parciales o «concretos» de los integrales o fundamentales. Y menos que otros el de la moneda. La moneda es un órgano del Estado que se nutre de confianza. No puede el extranjero tener confianza en una moneda si no la tiene en el Estado cuyo órgano de pago internacional es ella. Y no puede el extranjero tener confianza en un Estado cuando los indígenas no la tienen tampoco. Sin reconstituir la interna personalidad histórica de España es inútil pretender reconstituir aisladamente uno de sus atributos como el crematístico. Lo decisivo en la estabilización de la libra no lo hicieron los economistas, sino el pueblo inglés. Durante 1920 y casi entero el 1921, antes de que comenzasen a actuar las disposiciones desinflacionistas, se produce espontáneamente una gran baja de precios, y ésta y no aquellas disposiciones es quien origina la desinflación. Ahora bien: fenómeno tal no es verosímil sino en un pueblo que tiene confianza en su Estado y se siente solidario de él.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En España, la estabilización —y conste que no entiendo de estos asuntos— es, como problema estrictamente técnico y de «idea», cosa que puede hacerla un niño: por el reducido volumen de nuestra economía, por la gravedad incomparablemente menor de nuestra situación comparada con las naciones beligerantes, y en fin, por llegarnos la hora después de la experiencia lograda en tantas otras estabilizaciones recientes. Conviene, pues, evitar esos aires de «iniciados» que toman los señores del tópico, entre los cuales no hay un solo economista auténtico.
 
@@ -110,7 +110,7 @@ Por mala aventura del señor Cambó, el panorama político de Europa resulta ser
 
 Italia se ocupa en construir nada menos que un Estado; en opinión de los italianos, novísimo y sin precedentes en la historia. Día por día se afana en inventar nuevas instituciones de Poder público.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En Alemania pelean por las calles las multitudes, no con motivo de «problemas concretos», por ejemplo, el ligerísimo de sus cinco millones de obreros parados, sino sobre la Constitución, sobre democracia o autoritarismo, internacionalismo o nacionalismo.
 

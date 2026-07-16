@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/la_vertu_la_plus_nécessaire_aux_héros" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LA VERTU LA PLUS NÉCESSAIRE AUX HÉROS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LA VERTU LA PLUS NÉCESSAIRE AUX HÉROS" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Si je n'étais Alexandre, disait ce conquérant, je voudrais être Diogène. Le philosophe eût-il dit : Si je n'étais ce que je suis, je voudrais être Alexandre ? J'en doute ; un conquérant consentirait plutôt d'être un sage, qu'un sage d'être un conquérant. Mais quel homme au monde ne consentirait pas d'être un héros ? On sent donc que l'héroïsme a des vertus à lui, qui ne dépendent point de la fortune, mais qui ont besoin d'elle pour se développer. Le héros est l'ouvrage de la nature, de la fortune, et de lui-même. Pour bien le définir, il faudrait assigner ce qu'il tient de chacun des trois.
 
@@ -42,7 +42,7 @@ Rien n'est si décisif que l'ignorance ; et le doute est aussi rare parmi le peu
 
 Ne nous refusons point à la première réflexion que ce sujet fournit, et convenons d'abord que les peuples ont bien inconsidérément accordé leur estime et leur encens à la vaillance martiale, ou que c'est en eux une inconséquence bien odieuse de croire que ce soit par la destruction des hommes que les bienfaiteurs du genre humain annoncent leur caractère. Nous sommes à la fois bien maladroits et bien malheureux, si ce n'est qu'à force de nous désoler qu'on peut exciter notre admiration. Faut-il donc croire que si jamais les jours de bonheur et de paix renaissaient parmi nous, ils en banniraient l'héroïsme avec le cortège affreux des calamités publiques, et que les héros seraient tous relégués dans le temple de Janus, comme on enferme, après la guerre, de vieilles et inutiles armes dans nos arsenaux ?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Je sais qu'entre les qualités qui doivent former le grand homme, le courage est quelque chose ; mais hors du combat la valeur n'est rien. Le brave ne fait ses preuves qu'aux jours de bataille : le vrai héros fait les siennes tous les jours ; et ses vertus, pour se montrer quelquefois en pompe, n'en sont pas d'un usage moins fréquent sous un extérieur plus modeste.
 
@@ -64,7 +64,7 @@ Aux exemples qui se présentent en foule et qu'il ne m'est pas permis d'épuiser
 
 Ainsi, quelle que soit la vertu qui le caractérise, elle doit annoncer le génie et en être inséparable. Les qualités héroïques ont bien leur germe dans le cœur, mais c'est dans la tête qu'elles se développent et prennent de la solidité. L’âme la plus pure peut s'égarer dans la route même du bien, si l'esprit et la raison ne la guident ; et toutes les vertus s’altèrent, sans le concours de la sagesse. La fermeté dégénère aisément en opiniâtreté, la douceur en faiblesse, le zèle en fanatisme, la valeur en férocité. Souvent une grande entreprise mal concertée fait plus de tort à celui qui la manque qu'un succès mérité ne lui eût fait d'honneur ; car le mépris est ordinairement plus fort que l'estime. Il semble même que, pour établir une réputation éclatante, les talents suppléent bien plus aisément aux vertus que les vertus aux talents. Le soldat du Nord, avec un génie étroit et un courage sans bornes, perdit sans retour, dès le milieu de sa carrière, une gloire acquise par des prodiges de valeur et de générosité ; et il est encore douteux, dans l'opinion publique, si le meurtrier de Charles Stuart n'est point, avec tous ses forfaits, un des plus grands hommes qui aient jamais existé.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 La bravoure ne constitue point un caractère ; et c'est au contraire du caractère de celui qui la possède qu'elle tire sa [forme](/positions/realism_of_ideas) particulière. Elle est vertu dans une âme vertueuse, et vice dans un méchant. Le chevalier Bayard était brave ; Cartouche l'était aussi : mais croira-t-on jamais qu'ils le fussent de la même manière ? La valeur est susceptible de toutes les formes ; elle est généreuse ou brutale, stupide ou éclairée, furieuse ou tranquille, selon l'âme qui la possède ; selon les circonstances, elle est l'épée du vice ou le bouclier de la vertu ; et, puisqu'elle n'annonce nécessairement ni la grandeur de l'âme ni celle de l'esprit, elle n'est point la vertu la plus nécessaire au héros. Pardonnez-le-moi, peuple vaillant et infortuné qui avez si longtemps rempli l'Europe du bruit de vos exploits et de vos malheurs. Non, ce n'est point à la bravoure de ceux de vos concitoyens qui ont versé leur sang pour leur pays que j'accorderai la couronne héroïque, mais à leur ardent amour pour la patrie, et à leur constance invincible dans l'adversité. Pour être des héros, avec de tels sentiments ils auraient même pu se passer d'être braves.
 
@@ -90,7 +90,7 @@ Comme on peut faire des actions de vertu sans être vertueux, on peut faire de g
 
 Les hommes sont plus aveugles que méchants : et il y a plus de faiblesse que de malignité dans leurs vices. Nous nous trompons nous-mêmes avant que de tromper les autres, et nos fautes ne viennent que de nos erreurs ; nous n'en commettons guère que parce que nous nous laissons gagner à de petits intérêts présents qui nous font oublier les choses plus importantes et plus éloignées. De là, toutes les petitesses qui caractérisent le vulgaire, inconstance, légèreté, caprice, fourberie, fanatisme, cruauté : vices qui tous ont leur source dans la faiblesse de l'âme. Au contraire, tout est grand et généreux dans une âme forte, parce qu'elle sait discerner le beau du spécieux, la réalité de l'apparence, et se fixer à son objet avec cette fermeté qui écarte les illusions et surmonte les plus grands obstacles.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 C'est ainsi qu'un jugement incertain et un cœur facile à séduire rendent les hommes faibles et petits. Pour être grand il ne faut que se rendre maître de soi. C'est au-dedans de nous-mêmes que sont nos plus redoutables ennemis ; et quiconque aura su les combattre et les vaincre aura plus fait pour la gloire, au jugement des sages, que s'il eût conquis l'univers.
 

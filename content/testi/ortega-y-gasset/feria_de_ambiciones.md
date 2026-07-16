@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/feria_de_ambiciones" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Feria de ambiciones" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Feria de ambiciones" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Era de esperar que la Corona resolviese la crisis mediante la ratificación de poderes al conde de Romanones. Continúa, pues, el Gobierno actual con el compromiso de aprobar los presupuestos. Pero, en realidad, ¿se ha resuelto algo que merezca la pena de ser aceptado con júbilo? No; la crisis del régimen político español sigue su curso y presenta caracteres más graves que nunca.
 

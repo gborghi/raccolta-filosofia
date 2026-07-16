@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/charla_nada_más" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Charla, nada más" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Charla, nada más" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 «José Ortega Gasset.— Hotel Ritz.— Barcelona.— Esperamos su artículo para el domingo. Le prometo que será corregido cuidadosamente.— Félix Lorenzo».
 
@@ -44,7 +44,7 @@ BADALONA
 
 FABRICANTES DE NUBES
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Ayer ha llegado un barco cargado de solteronas inglesas. Las hay de toda edad; pero dominan esas viejas inglesas inimitables, con moños blancos de una blancura irreal. Van dirigidas por un solo varón, que tiene los dientes fuera y un peinado en cresta; del monóculo, que da al ojo aspecto de vitrina, pende una ancha cinta negra. Cuando se presenta en el comedor, al frente de su grey femenina, nos parece asistir a una escena de gallinero. Es sorprendente la fertilidad de las Islas Británicas en solteronas, y más sorprendente todavía que la existencia inglesa parezca ordenada de suerte que sea posible una vida tan grata a estas gallináceas. Sí; ya sé que todo ser tiene derecho a la existencia, etcétera… Pero el hecho es que un pueblo fuerte, colocado en todas las brechas del drama histórico, necesita dar a su vida una disciplina enérgica, áspera y hasta un poco brutal, que excluye la sensiblería y, sobre todo, lo ficticio e inoperante. Ahora bien; estas criaturas, en quienes la vida sólo puede pulsar a fuerza de negar todos sus instintos radicales, a fuerza de falsificaciones, representan un lastre formidable para una nación que tiene urgente oficio histórico. El pensamiento será un poco duro, pero es ineludible; para que estas solteronas inglesas vivan tan a gusto y se entreguen con tanta tranquilidad a sus ficticios goces —novelas tontas, asociaciones de esto y lo otro, visitas a museos, viajes alrededor del mundo— es preciso que tengan la cabeza llena de ideas falsas, las cuales les permitan flotar en la existencia. Una sola visión clara de lo real —que es siempre en su raíz terrible e impúdico— aniquilaría todo este manso averío. Pero es imposible que la falsedad de estas cabezas no impregne un poco el aire público de toda su nación. Basta verlas tan seguras de sí mismas, ver cómo a la noche, para cenar, escotan sus carnes, tan impenitentemente virginales, para comprender que en su contorno habitual es aceptada la ficción de que viven. Y, en efecto, Inglaterra, magnífica y fuerte, sigue, impertérrita, cultivando sus solteronas, como un gran señor que en sus vastas posesiones tuviese un parque de ñandúes. Es siempre maravilloso este pueblo inglés, hecho a fuerza de Biblia y de snobismo.
 
@@ -72,7 +72,7 @@ Los sentimientos no tendrían nada que hacer, por tanto; no existirían si el ho
 
 Pero esto supone que antes de nacer en nosotros el amor o el entusiasmo hemos advertido esos valores, cuya presencia en un ser dispara nuestros afectos. Existe, pues, una sensibilidad primaria merced a la cual descubrimos los valores de las cosas. Tal vez la averiguación más importante hecha por la filosofía en lo que va de siglo es ésta: toda nuestra vida psíquica, nuestro intelecto, nuestros sentidos, nuestros sentimientos, funcionan incitados por esa primaria sensibilidad, esa como visión incorpórea de los valores. Y si bien éstos no se perciben con plena, total claridad, sino cuando los vemos realizados en alguna cosa, es un hecho que tenemos de ellos nativamente cierta previsión y como presentimiento, que probablemente no podremos hallar en el mundo real más valores que los que de antemano presentíamos.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Existe en cada persona una predilección nativa, anterior a toda experiencia, por ciertas clases de valor y viceversa, una como ceguera o despego hacia otras. En lo esencial, todo lo que en nuestra vida veamos, pensemos y sintamos está inscripto dentro de ese sistema de predilecciones y repulsiones que a nativitate actúa en nosotros.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_lespagne_grandiose_et_fantastique_de_serge_rovinsky" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a L’espagne grandiose et fantastique, de Serge Rovinsky" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a L’espagne grandiose et fantastique, de Serge Rovinsky" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El campo de España me ha dejado una rica cosecha de imágenes. He aquí una. Un prado pajizo con un charco rojo de sangre. Sangre de un toro que acaba de pasar herido. Poco después, en la soledad, aparece otro toro que cruza el área tórrida y husmea el líquido aún caliente. El ojo del animal se enciende. Su cuerpo se estremece, retiembla de los morros a la cola, patea el suelo y alarga el cuello en un largo mugido. Aquella manera casi eléctrica de reaccionar el animal ante las huellas vitales de un semejante me hizo una profunda impresión. Por lo visto, cuando una vida encuentra en el espacio del mundo otra vida —o simplemente sus vestigios— se produce siempre una especie de corriente inducida, una sacudida frenética de la vitalidad; es decir, que la vida se exalta al entrar en su presencia otra vida.
 

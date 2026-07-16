@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/traduction_de_lode_de_jean_puthod" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="TRADUCTION DE L'ODE DE JEAN PUTHOD" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="TRADUCTION DE L'ODE DE JEAN PUTHOD" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Muse, vous exigez de moi que je consacre au roi de nouveaux chants ; inspirez-moi donc des vers dignes d'un si grand monarque.
 

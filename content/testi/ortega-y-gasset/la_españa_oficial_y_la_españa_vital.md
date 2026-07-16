@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_españa_oficial_y_la_españa_vital" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La España oficial y la España vital" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La España oficial y la España vital" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Casi diría que los pensamientos más urgentes que tenemos que comunicarnos unos a otros podrían nacer todos de la meditación de este hecho: que sea preciso llamar a las nuevas generaciones. Esto quiere decir, por lo pronto, que no están ahí, en su puesto de honor.
 
@@ -50,7 +50,7 @@ Lo mismo podría decirse de todas las demás estructuras sociales que conviven c
 
 La España oficial consiste, pues, en una especie de partidos fantasmas que defienden los fantasmas de unas ideas y que, apoyados por las sombras de unos periódicos, hacen marchar unos Ministerios de alucinación.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Conste, pues, que no he hecho aquí la crítica, cien veces repetida, de los abusos y errores que unos partidos, unos periódicos, unos Ministerios vengan cometiendo. Sus abusos me traen sin cuidado para los efectos de la nueva orientación política que busco y de que hoy os ofrezco, como la previa cuadrícula, la pauta de conceptos generales donde habrá de irse encontrando en sus detalles. Los abusos no constituyen nunca, nunca, sino enfermedades localizadas a quienes se puede hacer frente con el resto sano del organismo. Por eso no pienso como Costa, que atribuía la mengua de España a los pecados de las clases gobernantes, por tanto, a errores puramente políticos. No; las clases gobernantes durante siglos —salvas breves épocas— han gobernado mal no por casualidad, sino porque la España gobernada estaba tan enferma como ellas. Yo sostengo un punto de vista más duro, como juicio del pasado, pero más optimista en lo que afecta al porvenir. Toda una España —con sus gobernantes y sus gobernados—, con sus abusos y con sus usos, está acabando de morir.
 

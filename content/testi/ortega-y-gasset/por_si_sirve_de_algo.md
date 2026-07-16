@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/por_si_sirve_de_algo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Por si sirve de algo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Por si sirve de algo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En un artículo que el señor Bello publicó el sábado en Luz se dice que yo, «por motivos políticos, circunstanciales, he rebajado para Cataluña el cupo de atribuciones correspondientes a la región —a la gran comarca—, según criterio no de ahora, sino de hace años». Es ya la cuarta o quinta vez que, paladina o alusivamente, el señor Bello hace esta afirmación ejemplarmente gratuita y arbitraria. A ella opongo las siguientes observaciones:
 
@@ -54,7 +54,7 @@ En cambio, debemos preguntarnos qué significa concretamente para los efectos de
 
 Hay revolución cuando a los defectos y errores de un régimen político responde con cierta prontitud una parte de la sociedad que se constituye como oposición extragubernamental y logra, «en cuanto tal oposición», fuerza suficiente para luchar con el poder constituido. Por mucho que se quiera volatilizar la idea de revolución política, no habrá manera de amputarle este componente de lucha.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pero la lucha supone que cuando la oposición tiene ya fuerza suficiente para combatir el poder público, éste conserva todavía buena parte de la suya. Sólo así acontecerá que en cierto instante dos fuerzas opuestas coexisten y se enfrontan dentro del ámbito nacional. La revolución significa, pues, que el país se divide radicalmente en dos bandos, ninguno de los cuales es mínimo. Esto ha acaecido en Inglaterra, en Francia, en Alemania, en Italia (en estos dos últimos países con menos claridad por la interferencia que en sus revoluciones producía su falta de unidad estatal).
 

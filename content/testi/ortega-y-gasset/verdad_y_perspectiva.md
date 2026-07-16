@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/verdad_y_perspectiva" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Verdad y perspectiva" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Verdad y perspectiva" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El prospecto de El Espectador me ha valido numerosas cartas llenas de afecto, de interés, de curiosidad. Una de ellas concluye: «Pero siento que se dedique usted exclusivamente a ser espectador».
 
@@ -50,7 +50,7 @@ Yo ando muy lejos de pretender semejante cosa. No asevero que la actitud teóric
 
 Acentuar esta diferencia entre la contemplación y la vida —la vida, con su articulación política de intereses, deseos y conveniencias—, era necesario. Porque El Espectador lleva una segunda intención: él especula, mira —pero lo que quiere ver es la vida según fluye ante él.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Con razón se tachaba de gris la teoría, porque no se ocupaba más que de vagos, remotos y esquemáticos problemas. La historia de la ciencia del conocimiento nos muestra que la lógica, oscilando entre el escepticismo y el dogmatismo, ha solido partir siempre de esta errónea creencia: el punto de vista del individuo es falso. De aquí emanaban las dos opiniones contrapuestas: es así que no hay más punto de vista que el individual, luego no existe la verdad —escepticismo; es así que la verdad existe, luego ha de tomarse un punto de vista sobreindividual —racionalismo.
 

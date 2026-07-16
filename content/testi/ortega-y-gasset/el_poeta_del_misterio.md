@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_poeta_del_misterio" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El poeta del misterio" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El poeta del misterio" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Si se ha de ir a escuchar y a ver un drama de Maeterlinck con el mismo estado de alma que llevamos de ordinario al teatro, más vale quedarse en casa: las palabras de esos personajes pasarían escurriendo sobre nosotros, marmorizados, endurecidos por los choques groseros de la vida. Es preciso prepararse para oír Joycelle, Aglavaine et Selysette y La intrusa, recoger el espíritu disperso y debilitado, colocarse más allá de la vida momentánea: acaso cierto refinado gustador de las bellezas leería antes algunos capítulos de Santa Teresa, Novalis, Taulero o Ruysbrocho, algunas de esas páginas que hacen vibrar el cerebro y nos recluyen dentro de nosotros mismos.
 
@@ -42,7 +42,7 @@ En los dramas de Maeterlinck —excepción hecha de Monna Vanna, que no pertenec
 
 Si tuviera espacio trataría de mostrar cuánto hay de español en este misticismo de Maeterlinck. El escritor belga es nieto de los ardientes españoles que compusieron Las moradas, La cuna y la sepultura y Tratados de amor divino. Al entrar en los Países Bajos dejamos caer sobre las amplias carnes blancas de los flamencos la melancolía de nuestro misticismo, que es el poso íntimo del alma española. Cuando en la lucha por la vida era éste una fuerza, fuimos los primeros; cuando fue inútil, nos paramos; cuando ha sido perjudicial, nos hemos dormido, sin lograr arrancarlo de nosotros.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los místicos han estado durante todos los tiempos de pie en la frontera de lo desconocido: han sido los vigías de la humanidad que, izados en el ensueño o en el éxtasis, dan las voces de alerta al divisar las brumas rosadas que anuncian costa. Los sabios, con toda su impedimenta y sus andares de camellos cansados, llegan a las tierras prometidas siglos más tarde que los videntes. Y esto es una amarga burla del hado, porque sabio podrá serlo quien quiera, y vidente sólo el que lo sea desde la eternidad. Todas esas campiñas florecidas bajo nuestra conciencia que hoy, con maravilla nuestra, columbramos vagamente, las ha visto de seguro desde su asiento de clavos un buen mahatma indio que vivió hace diez siglos o una virgen asceta que hace seis centurias hallara en una región más alta, más noble y más limpia, todos los placeres de la carne intensificados; los místicos creen que fuerzas supremas juegan con nosotros y nos mueven. ¿Quién podrá sinceramente negar la existencia de estos poderes fatales? «Nuestra ilusión del libre albedrío —según Spinoza— no es más que nuestra ignorancia de las causas que nos hacen obrar».
 

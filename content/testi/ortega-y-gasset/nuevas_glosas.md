@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nuevas_glosas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nuevas glosas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nuevas glosas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La segunda conferencia de Unamuno pronunciada en el Círculo socialista de Bilbao llega hasta nosotros en la mejor sazón: la sequía política de este verano, sequía de porvenir más terrible que presente, amenazaba tostarnos las nobles esperanzas últimas. Las palabras del rector salmanticense, tan precisas, tan honradas, tan graves esta vez, nos ofrecen un pretexto para reverdecerlas. ¿Y qué otra cosa pedimos al clima tórrido, al ambiente moribundo? Pretextos de optimismo, ni siquiera motivos. ¿Por qué cierra en El Mundo contra el noble treno castizo de Costa un pseudónimo regocijado? ¿Hay, por ventura, opción a ser optimista sin pretexto? ¿Por ventura, los que se lamentan yacen como Guatemoc en un lecho de rosas?
 
@@ -60,7 +60,7 @@ Alguien pensará que el señor Unamuno debió hablar del bloque. Algo dijo, en e
 
 «Y no cabe darse —dijo— desde Madrid clara cuenta del ambiente social en que el movimiento socialista obrero se desenvuelve en Bilbao, ni por lo tanto dictarle absoluta regla de conducta. La unidad de acción tiene límites».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Ruego a mi antiguo maestro de griego, quien cometió una vez la bondad de no suspenderme, que medite de nuevo sobre el problema momentáneo del [socialismo](/schools/historical_materialism_school) español, y sobre todo que separe bien su socialismo, que es el mío y de algunos intelectuales, que es un socialismo incipiente y el núcleo organizado de socialistas obreros. La acción múltiple, la relativa membración, el movimiento amplio y libre y vario que podrá alcanzar ese futuro socialismo enriquecido con energías intelectuales serían la muerte en flor del partido que hoy existe. Tiene el grupo de Pablo Iglesias virtudes únicas, honda y genuinamente socialistas que faltan a los españoles cultos y en él habremos de aprender o en parte alguna. Aunque sólo fuera su religiosidad de lo colectivo, bastaría para que cuidásemos de conservarlo intacto. De esos pobres rescoldos de ardor y respeto que en él hay, habrá que sacar los incendios deseados para el porvenir. ¿Qué importa, si esa religiosidad, como todo fervor exento de erudición, es ruda, sin flexibilidad ni tolerancia? ¿Qué importa, inclusive, que sea grotesca alguna vez?
 

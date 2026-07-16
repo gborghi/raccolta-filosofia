@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_reforma_liberal" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La reforma liberal" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La reforma liberal" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ora il [lavoro](/concepts/labour) canterò, né curo ch’io sembri ai re l’Aedo degli schiavi
 
@@ -54,7 +54,7 @@ Una empresa política de Saavedra Fajardo pinta una saeta en el aire bajo la cua
 
 Los partidos liberales son partidos fronterizos de la Revolución o no son nada. El último y más fino teorizador de la idea conservadora, Federico Julio Stahl, jurista ingenioso y teológico, creyó dictar la sentencia del liberalismo demostrando que el liberalismo es el «sistema de la Revolución». Fue esto dicho hacia 1840: los liberales de entonces, aún siéndolo muy de veras, porque consideraban aquella palabra perjudicial a la sazón para sus intentos, protestaron. Mas el tiempo, que es un galant’uomo, según el cardenal Mazzarino, ha ido limpiando esa voz de su escoria lamentable, y hoy sería menester harta mala fe para ver en ella otra cosa que la luz sutil y espiritual de una idea. Hoy son afortunadamente, las calles de las grandes urbes demasiado anchas, y los cargadores de los fusiles demasiado rápidos para que tenga nadie honrado derecho a interpretar aviesamente lo que digo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Y es esto que digo que el liberalismo de hoy, si no quiere seguir siendo un entremés para la Historia, tiene que confesarse y declararse inequívocamente «sistema de la revolución». A los ánimos que acostumbran espantarse de la sombra que dejan en el aire las palabras propongo este punto de meditación: ¿Qué prefieren: un sistema de revolución o revolucionarios sin sistema? Un sistema es una idea: sistema de la revolución significa, pues, idea de la revolución o revolución ideal. De revolutionibus orbium cœlestium llamó el sacerdote Copérnico a su sistema de los astros, y mire el señor lector cómo, gracias al sistema astronómico, han desaparecido de tras los planetas aquellas torvas divinidades anárquicas e injustas que intervenían a lo mejor en los negocios de los hombres, y hoy quedan simplemente unas flores de dulce lumbre lejana que dan sus vueltas o revoluciones con estricta blandura y armonía. Los terremotos, en cambio, continúan siendo irreductibles a un sistema: cuando se les reduzca habráseles puesto un yugo, y en lugar de destruir ciudades los aprovechará la industria como fieras domadas.
 
@@ -80,7 +80,7 @@ No cabe, pues, equívoco en el liberalismo. El sentido que su tradición y orige
 
 Hasta aquí sólo he hablado del liberalismo como idea, como sistema de abstracciones, como corolario de una ética científica. He llamado ideal al liberalismo: ¿quiere esto decir que sea un utopismo? En modo alguno: el ideal, cuando lo es, ni es fantasía ni es ensueño: es la anticipación de una realidad futura. El teorizador del liberalismo —mi modesta persona, en este [caso](/concepts/fortune)—, tiene que estar fuera de la realidad, fuera de la realidad actual, ya que se pone en una futura y en nombre de ésta exige la transformación de la presente; su perspectiva espiritual puede simplificarse en estas palabras de Pestalozzi: «Es preciso desviar nuestros ojos de cuanto ocurre, a fin de conservar en nosotros límpida la sensibilidad para lo que debe ocurrir».
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Tampoco la realización del ideal necesita la destrucción de la realidad: cambiarla es suficiente. Aquí concluye la acción del liberalismo y comienza la del partido liberal, que es su instrumento. Consiste el papel de éste en adecuar trozo a trozo el ideal a la realidad y hallar las fórmulas para insertar en ella la mayor porción posible de ideal. De este modo quedan sistematizadas las revoluciones. El liberalismo señala dónde hay que ir; el partido liberal busca y proclama el camino, pero arbolando en todo instante aquella exigencia última, categórica, que da una dirección y un oriente a sus pasos.
 

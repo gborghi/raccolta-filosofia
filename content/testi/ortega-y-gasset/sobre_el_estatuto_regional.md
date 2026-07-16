@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_el_estatuto_regional" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre el estatuto regional" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre el estatuto regional" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La política rutinaria y faraónica, la política sin tonicidad moral ni agudeza intelectual va de tumbo en tumbo. Cada paso es un traspiés, como era inevitable. Ahí tenemos el estatuto regional parido por esta Comisión de los perpetuos. De tal palo tal astilla. Esta Comisión de palo nos da esa astilla del estatuto, más propia para abrir heridas que para retoñar con frutos.
 

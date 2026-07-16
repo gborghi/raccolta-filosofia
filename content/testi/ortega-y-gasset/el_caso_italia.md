@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_caso_italia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El caso Italia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El caso Italia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Merece la pena de que atendamos los españoles a las aventuras de los italianos en Trípoli. No tanto por ellas mismas, que carecen, en absoluto, de interés, sino por el efecto que los gestos de los italianos producen en el resto de Europa. ¡Son tan hermanos nuestros! ¡Nos parecemos tanto!
 
@@ -48,7 +48,7 @@ Yo no sé hallar una palabra adecuada con qué expresar el efecto que producen l
 
 La palabra es dura, y yo quisiera que no se la tomara en su significación vulgar. Pero es eso, es eso y no otra cosa lo que distingue a las grandes naciones reflexivas de las pequeñas razas histéricas del Sur. Inglaterra, Alemania, Francia no pierden la cabeza. ¡Qué casualidad!
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Y otras naciones, como ahora Italia, parece como si sólo aguardaran un pretexto para desentenderse de su propia testa, como si se hallaran más a gusto sin ese utensilio capital. Y la anexión simplicísima de un par de kilómetros o unas míseras huelgas o cualquier otra cosa basta para que éste se líe la manta a la cabeza y el otro líe la cabeza en la manta, y ambos pierdan la cabeza y pierdan la manta. Y mañana será otro día —que dice un cuarto tópico. Y no mañaneamos nunca —que dice un clásico español.
 

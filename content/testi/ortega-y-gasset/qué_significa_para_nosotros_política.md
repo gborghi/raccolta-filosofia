@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/qué_significa_para_nosotros_política" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Qué significa para nosotros «política»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Qué significa para nosotros «política»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La nueva política, todo eso que, en forma de proyecto y de aspiración, late vagamente dentro de todos nosotros, tiene que comenzar por ampliar sumamente los contornos del concepto político. Y es menester que signifique muchas otras actividades sobre la electoral, parlamentaria y gubernativa; es preciso que, trasponiendo el recinto de las relaciones jurídicas, incluya en sí todas las formas, principios e instintos de socialización. La nueva política es menester que comience a diferenciarse de la vieja política en no ser para ella lo más importante, en ser para ella casi lo menos importante la captación del gobierno de España, y ser, en cambio, lo único importante el aumento y fomento de la vitalidad de España. De suerte que llegará un día (¿quién lo duda?) en que, con unos u otros hombres, la nueva política ganará sus elecciones y tendrán gentes de su espíritu las varas de alcaldes; pero esto no pesará en su satisfacción ni un adarme más que el haber conseguido, por ejemplo, que se publique un buen libro de anatomía o de electricidad, o haber hecho que se [forme](/positions/realism_of_ideas) por los labriegos perdidos en el áspero rincón de una montaña una Sociedad agrícola de resistencia.
 

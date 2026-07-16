@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_intrascendencia_del_arte" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La intrascendencia del arte" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La intrascendencia del arte" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Todo ello viene a condensarse en el síntoma más agudo, más grave, más hondo que presenta el arte joven, una facción extrañísima de la nueva sensibilidad estética que reclama alerta meditación. Es algo muy delicado de decir, entre otros motivos, porque es muy difícil de formular con justeza.
 

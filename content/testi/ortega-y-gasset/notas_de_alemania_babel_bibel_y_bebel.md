@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/notas_de_alemania_babel_bibel_y_bebel" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Notas de Alemania.— Babel, bibel y bebel" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Notas de Alemania.— Babel, bibel y bebel" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace poco más de un año el imperio alemán, en cuyos confines no se pone el káiser, retembló ante la aparición de una obra formidable, o más bien de una serie de tres folletos titulada: Babel y Bibel. Su autor, el profesor Delitzsch, maestro en asiriología en la Universidad de Berlín, hombre de esos para quienes nada es suficientemente viejo, demostraba con redundante evidencia que las tradiciones fundamentales de la Biblia proceden, como de la madre el hijo, de la remota y protohistórica Babilonia. Miles y miles de ejemplares fueron consumidos hasta llegar al sesenta y seis millar. Y el juego de palabras del sabio profesor ha quedado por siempre en el uso de la lengua vulgar para significar lo que en el Avapiés llamamos «lío», caos o confusión.
 

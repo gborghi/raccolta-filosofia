@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/de_un_estorbo_nacional" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="De un estorbo nacional" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="De un estorbo nacional" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -70,7 +70,7 @@ No obstante, el partido liberal, que había de encontrar ahí «la base y la car
 
 Sexto. El Ejército y la Marina; «para ello, pensadlo bien, no hay sacrificio, por exagerado que fuere, que pueda parecer grande».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Esto es todo. Para recibir semejante unción y hasta aplaudir briosamente han peregrinado de Gog y de Magog, de las cuarenta y nueve provincias, multitud de ciudadanos. Estos ciudadanos forman un partido que pretende asumir la política española. Pero, como se ve, constituyen un peligro nacional: a ser sinceros los aplausos tributados al discurso del señor conde de Romanones, pondrían de manifiesto su escaso poder de reflexionar. ¿Cómo vamos a situar el destino de España en esas manos plaudentes que obedecen a corazones tan irreflexivos?
 
@@ -110,7 +110,7 @@ He ahí lo que es el partido liberal. Lejos de fluir por sus poros la opinión p
 
 Y así son posibles detalles como éste, que sufrirá, naturalmente, rectificación, sin que por eso deje de ser exacto. Cuando los ocho hombres que fortuitamente representan la avalancha izquierdista asisten a cierta reunión semanal y el jefe del Estado solicita de ellos reformas democráticas, los ocho hombres se miran entre mohínos y asombrados como diciendo: ¿Qué será lo que se nos pide?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El partido liberal ha vivido, hasta hace poco, de un stock de ideas políticas, fabricadas a fines del siglo XVIII. Hace ya mucho tiempo que la cosecha se consumió, y en todas partes se retiraron los grandes organismos liberales, o, a lo sumo, dejaron minorías esporádicas y de transición. En España persiste la arcaica mole donde ha venido a aposentarse la astucia, como acude de sólito la alimaña a toda vieja construcción.
 

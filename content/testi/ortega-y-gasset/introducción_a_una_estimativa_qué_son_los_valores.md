@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/introducción_a_una_estimativa_qué_son_los_valores" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Introducción a una estimativa—. ¿Qué son los valores?" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Introducción a una estimativa—. ¿Qué son los valores?" data-chapter="(apertura)" data-kind="intro" data-srclang="es"></span>
 
 Desde hace algún tiempo, en los estudios filosóficos, en las obras literarias y aun en la conversación de las gentes pulidas aparecen con mucha insistencia los vocablos «valores», «valoración», «valorar». Las gentes de espíritu agrio que no saben otorgarse a sí mismas el lujo de comprender las cosas dirán que se trata de una moda. Sin embargo, la preocupación teórica y práctica en torno a los valores es uno de los hechos más hondamente reales del tiempo nuevo. Quien ignore el sentido e importancia de esa preocupación se halla a cien leguas de sospechar lo que hoy está aconteciendo en los profundos senos de la realidad contemporánea, y más lejos aún de entrever el mañana que hacia nosotros rápido avanza.
 
@@ -46,7 +46,7 @@ Percibimos los objetos, los comparamos y analizamos, los sumamos, ordenamos y cl
 
 Si por mundo entendemos la ordenación unitaria de los objetos, tenemos dos mundos, dos ordenaciones distintas pero compenetradas: el mundo del ser y el mundo del valer. La constitución del uno carece de vigencia en la del otro; por ventura, lo que es nos parece no valer nada, y, en cambio, lo que no es se nos impone como un valor máximo. Ejemplo: la perfecta justicia nunca lograda y siempre ambicionada.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/2)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (2/2)" data-chapter="(apertura)" data-kind="atom" data-srclang="es"></span>
 
 Hay en el vocabulario vulgar palabras cuyo significado alude especial y exclusivamente al mundo de los valores: bueno y malo, mejor y peor, valioso e inválido, precioso y baladí, estimable, preferible, etcétera. Con ser bastante rica esta lengua valorativa, apenas si forma un rincón imperceptible de las significaciones estimativas. Por causas hondas, de las cuales no es posible discurrir en este ensayo, existe en el lenguaje la tendencia económica a expresar fenómenos de valor por medio de un halo de significación complementaria que rodea a la significación primaria, realista, de la palabra. Así, la voz «noble», en complexiones como «acción noble», «carácter noble», significa primariamente una cierta constitución real de unos movimientos externos o internos de una persona, o bien una cierta predisposición constante que posee realmente el alma de un individuo. Esta significación primaria se refiere, pues, a cosas o cualidades reales, como la palabra «rojo» se refiere a esta cualidad cromática que ahora estoy viendo. Pero sería falso afirmar que con esto hemos satisfecho plenamente la significación de «noble». Cuando digo rojo me refiero exclusivamente al color de este nombre; pero cuando digo «acción noble» no me limito a nombrar una cierta clase de actos reales, sino que doy a entender de paso o complementariamente que esa clase de actos reales tiene un valor positivo frente al valor negativo que tiene otra clase de actos reales, a los que llamo «abyectos». Y si insistiéramos en nuestro análisis de lo que significamos con el vocablo «noble» dentro ya de lo estimativo, notaríamos que no declaramos sólo adherir a tales actos un valor positivo en general. Pues al calificar una acción de «útil» también le atribuimos un valor positivo, pero muy distinto del valor «nobleza». Por «noble» entendemos, pues, un determinado valor positivo.
 
@@ -54,7 +54,7 @@ Del propio modo, los vocablos «generoso», «elegante», «diestro», «fuerte�
 
 Preguntémonos, pues, con algún rigor y urgencia: ¿qué son esos valores? Es seguro que a la mente del lector acuden ciertas respuestas a tal pregunta, y es probable que el orden en que aparezcan sea el mismo en que esas respuestas han surgido en el proceso científico. Dos de ellas resumen todas las demás y son como estaciones del camino dialéctico que todo espíritu sigue para llegar a una noción más pura, más exacta y más clara del Valor.
 
-<span class="atom-split" data-atom="003" data-title="1. LOS VALORES NO SON LAS COSAS AGRADABLES" data-chapter="1. LOS VALORES NO SON LAS COSAS AGRADABLES" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="1. LOS VALORES NO SON LAS COSAS AGRADABLES" data-chapter="1. LOS VALORES NO SON LAS COSAS AGRADABLES" data-kind="atom" data-srclang="es"></span>
 
 Antes que nada, nos ocurre pensar esto: una cosa es valiosa, tiene valor, cuando nos agrada y en la medida en que nos agrada. Tiene valor negativo cuando nos desagrada y en la medida en que nos desagrada.
 
@@ -76,7 +76,7 @@ La complacencia es ciertamente un estado subjetivo, pero no nace del sujeto, sin
 
 Por lo tanto, el valor del objeto tiene que hallarse ante nuestra conciencia previamente al orto de nuestro agrado. Luego no es nuestro sentimiento de complacencia quien da u otorga el valor a la cosa; antes bien, es, por decirlo así, quien lo recibe y con él o en él se regala.
 
-<span class="atom-split" data-atom="004" data-title="2. LOS VALORES NO SON LAS COSAS DESEADAS O DESEABLES" data-chapter="2. LOS VALORES NO SON LAS COSAS DESEADAS O DESEABLES" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="2. LOS VALORES NO SON LAS COSAS DESEADAS O DESEABLES" data-chapter="2. LOS VALORES NO SON LAS COSAS DESEADAS O DESEABLES" data-kind="atom" data-srclang="es"></span>
 
 Si, como Meinong en su teoría inicial pretende, el valor de una cosa no fuese más que el resultado del agrado que nos produce, sólo serían valiosos los objetos existentes. Ahora bien, valoramos sobre todo lo inexistente, la riqueza que no poseemos, la salud que nos falta. Los grandes valores son los ideales, esto es, lo que aún no se ha realizado.
 
@@ -106,7 +106,7 @@ Mas si el valor de una cosa no consiste en que la cosa complazca o enoje, ni en 
 
 Casi siempre que en la ciencia se llega a un punto donde nos parece haber agotado vanamente todos los conceptos en una serie de ensayos estériles, es que nos hallamos próximos a la solución satisfactoria. Esos ensayos aparentemente inútiles han sido los esfuerzos exigidos para una más perfecta mise au point de la inteligencia.
 
-<span class="atom-split" data-atom="005" data-title="3. LOS VALORES SON ALGO OBJETIVO Y NO SUBJETIVO" data-chapter="3. LOS VALORES SON ALGO OBJETIVO Y NO SUBJETIVO" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="3. LOS VALORES SON ALGO OBJETIVO Y NO SUBJETIVO" data-chapter="3. LOS VALORES SON ALGO OBJETIVO Y NO SUBJETIVO" data-kind="atom" data-srclang="es"></span>
 
 «Deseable» es un término equívoco. Cuando menos tiene dos sentidos diferentes que se refieren a dos fenómenos completamente distintos.
 
@@ -128,7 +128,7 @@ A lo que Héctor replica con estas aladas, esenciales palabras:
 
 Se nos presenta, pues, el valor como un carácter objetivo consistente en una dignidad positiva o negativa que en el acto de valoración reconocemos. Valorar no es dar valor a quien por sí no lo tenía; es reconocer un valor residente en el objeto. No es una quaestio facti, sino una quaestio juris. No es la percatación de un hecho, sino de un derecho. La cuestión del valor es la cuestión de derecho por excelencia. Y nuestro derecho en sentido estricto representa sólo una clase específica de valor: el valor de justicia.
 
-<span class="atom-split" data-atom="006" data-title="4. LOS VALORES SON CUALIDADES IRREALES RESIDENTES EN LAS COSAS" data-chapter="4. LOS VALORES SON CUALIDADES IRREALES RESIDENTES EN LAS COSAS" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="4. LOS VALORES SON CUALIDADES IRREALES RESIDENTES EN LAS COSAS" data-chapter="4. LOS VALORES SON CUALIDADES IRREALES RESIDENTES EN LAS COSAS" data-kind="atom" data-srclang="es"></span>
 
 No son, pues, los valores un don que nuestra subjetividad hace a las cosas, sino una extraña, sutil casta de objetividades que nuestra conciencia encuentra fuera de sí, como encuentra los árboles y los hombres.
 
@@ -148,7 +148,7 @@ Los valores son un linaje peculiar de objetos irreales que residen en los objeto
 
 El estimar es una función psíquica real —como el ver, como el entender— en que los valores se nos hacen patentes. Y viceversa, los valores no existen sino para sujetos dotados de la facultad estimativa, del mismo modo que la igualdad y la diferencia sólo existen para seres capaces de comparar. En este sentido, y sólo en este sentido, puede hablarse de cierta subjetividad en el valor.
 
-<span class="atom-split" data-atom="007" data-title="5. EL CONOCIMIENTO DE LOS VALORES ES ABSOLUTO Y CUASI MATEMÁTICO" data-chapter="5. EL CONOCIMIENTO DE LOS VALORES ES ABSOLUTO Y CUASI MATEMÁTICO" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="5. EL CONOCIMIENTO DE LOS VALORES ES ABSOLUTO Y CUASI MATEMÁTICO" data-chapter="5. EL CONOCIMIENTO DE LOS VALORES ES ABSOLUTO Y CUASI MATEMÁTICO" data-kind="atom" data-srclang="es"></span>
 
 Alguna pulcritud de lenguaje contribuirá a esclarecer la cuestión. He dicho que es forzoso distinguir entre las cosas —que son realidades— y los valores —que son virtualidades. Pues bien, una cosa que tomamos con sus propiedades materiales y además con sus valores, es lo que debe llamarse un «bien» si los valores son positivos, un «mal» si son negativos. El lienzo de Velázquez, con sus líneas y colores, es sólo una cosa; si además percibimos en él la gracia sobria de su cromatismo, el noble asiento de las figuras, la conmovedora palpitación de su ambiente —es un «bien». Diríase, pues, que cada cosa, sobre el repertorio de cualidades que hacen de ella tal ser, tiene como un halo de cualidades de valor que definen su perfil estimativo.
 
@@ -160,7 +160,7 @@ Por tanto, la experiencia de valores es independiente de la experiencia de cosas
 
 Esto sonará extrañamente en muchos oídos, pero es de esperar que mayor reflexión los habitúe a reconocer tan ineludible pensamiento. La sentencia de gustibus non disputandum es un craso error. Supone que en el orbe de los «gustos», es decir, de las valoraciones, no existen objetividades evidentes a las cuales poder referir en última substancia nuestras disputas. La verdad es lo contrario: todo «gusto» nuestro gusta un valor (las puras cosas no ofrecen posibilidad al gustar y disgustar), y todo valor es un objeto independiente de nuestros caprichos.
 
-<span class="atom-split" data-atom="008" data-title="6. DIMENSIONES DEL VALOR" data-chapter="6. DIMENSIONES DEL VALOR" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="6. DIMENSIONES DEL VALOR" data-chapter="6. DIMENSIONES DEL VALOR" data-kind="atom" data-srclang="es"></span>
 
 La naturaleza genuina de los valores aparece con mayor claridad cuando se advierten sus propiedades. En efecto, un valor es siempre o positivo o negativo. Por el contrario, las realidades no son nunca sensu stricto negativas. No hay nada en el mundo del ser que sea negativo en el plenario sentido en que lo es la fealdad, la injusticia o la torpeza.
 
@@ -180,7 +180,7 @@ Si ahora consideramos qué reacciones sentimentales a estos valores son adecuada
 
 Complace tal vez el fin que el útil logra, pero el útil como tal sólo provoca una peculiar emoción de satisfacción, sentimiento sin temperatura muy proporcionado al carácter racional, frígido, del valor mismo «utilidad». De aquí que las épocas de utilitarismo predominante se caractericen por una gran tibieza psíquica.
 
-<span class="atom-split" data-atom="009" data-title="7. CLASES DE VALORES" data-chapter="7. CLASES DE VALORES" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="7. CLASES DE VALORES" data-chapter="7. CLASES DE VALORES" data-kind="atom" data-srclang="es"></span>
 
 El propósito de estas páginas se reducía a obtener una noción clara de lo que es el valor. El problema de la clasificación de los valores requeriría muy complejas observaciones. Quede, pues, intacto para mejor coyuntura. Solamente con el fin de facilitar al lector la meditación propia sobre tan sutil [materia](/positions/materialism) indicaré las grandes clases que, atendiendo a su materia, forman los valores:
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/un_libro_sobre_la_filosofía_del_derecho" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Un libro sobre la filosofía del Derecho" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Un libro sobre la filosofía del Derecho" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Desde los estudios de don Francisco Giner de los Ríos acaso no ha aparecido en España una obra tan honda y sugestiva sobre filosofía del Derecho como la que ahora saca a la luz el señor Rivera Pastor con el título de Lógica de la Libertad.
 

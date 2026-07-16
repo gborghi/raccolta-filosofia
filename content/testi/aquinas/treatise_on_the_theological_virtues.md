@@ -20,12 +20,12 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_theological_virtues" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Theological Virtues" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Theological Virtues" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 SECOND PART OF THE SECOND PART (SS) (QQ[1]-189)
 TREATISE ON THE [THEOLOGICAL VIRTUES](/concepts/theological_virtues) (QQ[1]-46)
 
-<span class="atom-split" data-atom="002" data-title="OF FAITH (TEN ARTICLES)" data-chapter="OF FAITH (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF FAITH (TEN ARTICLES)" data-chapter="OF FAITH (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having to treat now of the [theological virtues](/concepts/theological_virtues), we shall begin with Faith, secondly we shall
 speak of Hope, and thirdly, of Charity.
@@ -46,7 +46,7 @@ a proposition?
 (9) Of the manner of embodying the articles in a symbol;
 (10) Who has the right to propose a symbol of faith?
 
-<span class="atom-split" data-atom="003" data-title="Whether the object of faith is the First Truth?" data-chapter="Whether the object of faith is the First Truth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether the object of faith is the First Truth?" data-chapter="Whether the object of faith is the First Truth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the object of faith is not the First Truth. For it seems that the
 object of faith is that which is proposed to us to be believed. Now not only things pertaining to the
@@ -91,7 +91,7 @@ The same answer applies to the Second Objection, as regards all things contained
 Reply to Objection 3: Charity also loves our neighbor on account of God, so that its object,
 properly speaking, is God, as we shall show further on (Q[25] , A[1]).
 
-<span class="atom-split" data-atom="004" data-title="Whether the object of faith is something complex, by way of a proposition?" data-chapter="Whether the object of faith is something complex, by way of a proposition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether the object of faith is something complex, by way of a proposition?" data-chapter="Whether the object of faith is something complex, by way of a proposition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the object of faith is not something complex by way of a
 proposition. For the object of faith is the First Truth, as stated above (A[1]). Now the First Truth
@@ -136,7 +136,7 @@ shall see Him as He is": hence that vision will not be by way of a proposition b
 understanding. On the other hand, by faith, we do not apprehend the First Truth as it is in itself.
 Hence the comparison fails.
 
-<span class="atom-split" data-atom="005" data-title="Whether anything false can come under faith?" data-chapter="Whether anything false can come under faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether anything false can come under faith?" data-chapter="Whether anything false can come under faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that something false can come under faith. For faith is condivided
 with hope and charity. Now something false can come under hope, since many hope to have eternal
@@ -199,7 +199,7 @@ bread, but to the fact that the true body of Christ is under the appearances of 
 it is rightly consecrated. Hence if it be not rightly consecrated, it does not follow that anything false
 comes under faith.
 
-<span class="atom-split" data-atom="006" data-title="Whether the object of faith can be something seen?" data-chapter="Whether the object of faith can be something seen?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the object of faith can be something seen?" data-chapter="Whether the object of faith can be something seen?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the object of faith is something seen. For Our Lord said to
 Thomas (Jn. 20:29): "Because thou hast seen Me, Thomas, thou hast believed." Therefore vision
@@ -248,7 +248,7 @@ to assent to others.
 Reply to Objection 4: Hearing is of words signifying what is of faith, but not of the things
 themselves that are believed; hence it does not follow that these things are seen.
 
-<span class="atom-split" data-atom="007" data-title="Whether those things that are of faith can be an object of science [*Science is certain knowledge of a demonstrated conclusion through its demonstration]?" data-chapter="Whether those things that are of faith can be an object of science [*Science is certain knowledge of a demonstrated conclusion through its demonstration]?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether those things that are of faith can be an object of science [*Science is certain knowledge of a demonstrated conclusion through its demonstration]?" data-chapter="Whether those things that are of faith can be an object of science [*Science is certain knowledge of a demonstrated conclusion through its demonstration]?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those things that are of faith can be an object of science. For
 where science is lacking there is ignorance, since ignorance is the opposite of science. Now we are
@@ -320,7 +320,7 @@ is also deemed impossible to be otherwise; and the reason why science and faith 
 the same object and in the same respect is because the object of science is something seen whereas
 the object of faith is the unseen, as stated above.
 
-<span class="atom-split" data-atom="008" data-title="Whether those things that are of faith should be divided into certain articles?" data-chapter="Whether those things that are of faith should be divided into certain articles?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether those things that are of faith should be divided into certain articles?" data-chapter="Whether those things that are of faith should be divided into certain articles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those things that are of faith should not be divided into certain
 articles. For all things contained in Holy Writ are matters of faith. But these, by reason of their
@@ -387,7 +387,7 @@ of no man by a necessity of coercion, since belief is a voluntary act, yet it is
 necessity of end, since "he that cometh to God must believe that He is," and "without faith it is
 impossible to please God," as the Apostle declares (Heb. 11:6).
 
-<span class="atom-split" data-atom="009" data-title="Whether the articles of faith have increased in course of time?" data-chapter="Whether the articles of faith have increased in course of time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether the articles of faith have increased in course of time?" data-chapter="Whether the articles of faith have increased in course of time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the articles of faith have not increased in course of time.
 Because, as the Apostle says (Heb. 11:1), "faith is the substance of things to be hoped for." Now
@@ -477,7 +477,7 @@ had a fuller knowledge of the mysteries of faith; for even with regard to man's 
 the perfection of manhood comes in youth, and that a man's state is all the more perfect, whether
 before or after, the nearer it is to the time of his youth.
 
-<span class="atom-split" data-atom="010" data-title="Whether the articles of faith are suitably formulated?" data-chapter="Whether the articles of faith are suitably formulated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the articles of faith are suitably formulated?" data-chapter="Whether the articles of faith are suitably formulated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the articles of faith are unsuitably formulated. For those things,
 which can be known by demonstration, do not belong to faith as to an object of belief for all, as
@@ -577,7 +577,7 @@ is the fact that it is a sacrament, and in this respect it is like the other eff
 The other is that Christ's body is miraculously contained therein and thus it is included under God's
 omnipotence, like all other miracles which are ascribed to God's almighty power.
 
-<span class="atom-split" data-atom="011" data-title="Whether it is suitable for the articles of faith to be embodied in a symbol?" data-chapter="Whether it is suitable for the articles of faith to be embodied in a symbol?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether it is suitable for the articles of faith to be embodied in a symbol?" data-chapter="Whether it is suitable for the articles of faith to be embodied in a symbol?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is unsuitable for the articles of faith to be embodied in a
 symbol. Because Holy Writ is the rule of faith, to which no addition or subtraction can lawfully be
@@ -655,7 +655,7 @@ already at peace, it is sung publicly in the Mass. On the other hand the symbol 
 which was drawn up at the time of persecution, before the faith was made public, is said secretly
 at Prime and Compline, as though it were against the darkness of past and future errors.
 
-<span class="atom-split" data-atom="012" data-title="Whether it belongs to the Sovereign Pontiff to draw up a symbol of faith?" data-chapter="Whether it belongs to the Sovereign Pontiff to draw up a symbol of faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether it belongs to the Sovereign Pontiff to draw up a symbol of faith?" data-chapter="Whether it belongs to the Sovereign Pontiff to draw up a symbol of faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it does not belong to the Sovereign Pontiff to draw up a symbol
 of faith. For a new edition of the symbol becomes necessary in order to explain the articles of faith,
@@ -718,7 +718,7 @@ but rather by way of an exposition of doctrine, as appears from his way of speak
 contained briefly the whole truth of faith, it was accepted by the authority of the Sovereign Pontiff,
 so as to be considered as a rule of faith.
 
-<span class="atom-split" data-atom="013" data-title="OF THE ACT OF FAITH (TEN ARTICLES)" data-chapter="OF THE ACT OF FAITH (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="OF THE ACT OF FAITH (TEN ARTICLES)" data-chapter="OF THE ACT OF FAITH (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the act of faith, and (1) the internal act; (2) the external act.
 Under the first head there are ten points of inquiry:
@@ -733,7 +733,7 @@ Under the first head there are ten points of inquiry:
 (9) Whether the act of faith is meritorious?
 (10) Whether human reason diminishes the merit of faith?
 
-<span class="atom-split" data-atom="014" data-title="Whether to believe is to think with assent?" data-chapter="Whether to believe is to think with assent?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether to believe is to think with assent?" data-chapter="Whether to believe is to think with assent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to believe is not to think with assent. Because the Latin word
 "cogitatio" [thought] implies a research, for "cogitare" [to think] seems to be equivalent to
@@ -791,7 +791,7 @@ Reply to Objection 3: The intellect of the believer is determined to one object,
 reason, but by the will, wherefore assent is taken here for an act of the intellect as determined to
 one object by the will.
 
-<span class="atom-split" data-atom="015" data-title="Whether the act of faith is suitably distinguished as believing God, believing in a God and believing in God?" data-chapter="Whether the act of faith is suitably distinguished as believing God, believing in a God and believing in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the act of faith is suitably distinguished as believing God, believing in a God and believing in God?" data-chapter="Whether the act of faith is suitably distinguished as believing God, believing in a God and believing in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the act of faith is unsuitably distinguished as believing God,
 believing in a God, and believing in God. For one [habit](/concepts/custom) has but one act. Now faith is one habit
@@ -841,7 +841,7 @@ determines; hence they do not truly imply believe in a God, since, as the Philos
 Reply to Objection 4: As stated above (FS, Q[9], A[1]) the will moves the intellect and the
 other powers of the soul to the end: and in this respect an act of faith is "to believe in God."
 
-<span class="atom-split" data-atom="016" data-title="Whether it is necessary for salvation to believe anything above the natural reason?" data-chapter="Whether it is necessary for salvation to believe anything above the natural reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether it is necessary for salvation to believe anything above the natural reason?" data-chapter="Whether it is necessary for salvation to believe anything above the natural reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unnecessary for salvation to believe anything above the natural
 reason. For the salvation and perfection of a thing seem to be sufficiently insured by its natural
@@ -899,7 +899,7 @@ Reply to Objection 3: In many respects faith perceives the invisible things of G
 way than natural reason does in proceeding to God from His creatures. Hence it is written (Ecclus.
 3:25): "Many things are shown to thee above the understandings of man."
 
-<span class="atom-split" data-atom="017" data-title="Whether it is necessary to believe those things which can be proved by natural reason?" data-chapter="Whether it is necessary to believe those things which can be proved by natural reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether it is necessary to believe those things which can be proved by natural reason?" data-chapter="Whether it is necessary to believe those things which can be proved by natural reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unnecessary to believe those things which can be proved by natural
 reason. For nothing is superfluous in God's works, much less even than in the works of nature. Now
@@ -949,7 +949,7 @@ Reply to Objection 3: Although all things that can be known by science are of on
 scientific aspect, they do not all alike lead man to [beatitude](/positions/beatitude): hence they are not all equally proposed
 to our belief.
 
-<span class="atom-split" data-atom="018" data-title="Whether man is bound to believe anything explicitly?" data-chapter="Whether man is bound to believe anything explicitly?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether man is bound to believe anything explicitly?" data-chapter="Whether man is bound to believe anything explicitly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man is not bound to believe anything explicitly. For no man
 is bound to do what is not in his power. Now it is not in man's power to believe a thing explicitly,
@@ -1013,7 +1013,7 @@ promptness of the will subject to authority, suffices for the act of obedience, 
 and direct object of obedience. But this or that precept is accidental or consequent to that proper
 and direct object.
 
-<span class="atom-split" data-atom="019" data-title="Whether all are equally bound to have explicit faith?" data-chapter="Whether all are equally bound to have explicit faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether all are equally bound to have explicit faith?" data-chapter="Whether all are equally bound to have explicit faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all are equally bound to have explicit faith. For all are bound
 to those things which are necessary for salvation, as is evidenced by the precepts of charity. Now
@@ -1061,7 +1061,7 @@ ones, who think that the learned believe aright; unless the simple hold obstinat
 errors, against the faith of the universal Church, which cannot err, since Our Lord said (Lk. 22:32):
 "I have prayed for thee," Peter, "that thy faith fail not."
 
-<span class="atom-split" data-atom="020" data-title="Whether it is necessary for the salvation of all, that they should believe explicitly in the mystery of Christ?" data-chapter="Whether it is necessary for the salvation of all, that they should believe explicitly in the mystery of Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether it is necessary for the salvation of all, that they should believe explicitly in the mystery of Christ?" data-chapter="Whether it is necessary for the salvation of all, that they should believe explicitly in the mystery of Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not necessary for the salvation of all that they should
 believe explicitly in the mystery of Christ. For man is not bound to believe explicitly what the
@@ -1149,7 +1149,7 @@ providence, since they believed that God would deliver mankind in whatever way w
 Him, and according to the revelation of the Spirit to those who knew the truth, as stated in Job
 35:11: "Who teacheth us more than the beasts of the earth."
 
-<span class="atom-split" data-atom="021" data-title="Whether it is necessary for salvation to believe explicitly in the Trinity?" data-chapter="Whether it is necessary for salvation to believe explicitly in the Trinity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether it is necessary for salvation to believe explicitly in the Trinity?" data-chapter="Whether it is necessary for salvation to believe explicitly in the Trinity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not necessary for salvation to believe explicitly in the
 Trinity. For the Apostle says (Heb. 11:6): "He that cometh to God must believe that He is, and is
@@ -1196,7 +1196,7 @@ can be understood without the Trinity of Persons: but as understood in itself, a
 Blessed, it cannot be understood without the Trinity of Persons. Moreover the mission of the Divine
 Persons brings us to heavenly happiness.
 
-<span class="atom-split" data-atom="022" data-title="Whether to believe is meritorious?" data-chapter="Whether to believe is meritorious?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether to believe is meritorious?" data-chapter="Whether to believe is meritorious?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to believe in not meritorious. For the principle of all merit is
 charity, as stated above (FS, Q[114], A[4]). Now faith, like nature, is a preamble to charity.
@@ -1251,7 +1251,7 @@ authority of Divine teaching confirmed by miracles, and, what is more, by the in
 the Divine invitation: hence he does not believe lightly. He has not, however, sufficient reason for
 scientific knowledge, hence he does not lose the merit.
 
-<span class="atom-split" data-atom="023" data-title="Whether reasons in support of what we believe lessen the merit of faith?" data-chapter="Whether reasons in support of what we believe lessen the merit of faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether reasons in support of what we believe lessen the merit of faith?" data-chapter="Whether reasons in support of what we believe lessen the merit of faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that reasons in support of what we believe lessen the merit of faith.
 For Gregory says (Hom. xxvi in Evang.) that "there is no merit in believing what is shown by
@@ -1317,14 +1317,14 @@ their faith on account of the reasons brought forward by philosophers or heretic
 faith. On the other hand things that are favorable to faith, do not always diminish the promptness
 of the will to believe, and therefore they do not always diminish the merit of faith.
 
-<span class="atom-split" data-atom="024" data-title="OF THE OUTWARD ACT OF FAITH (TWO ARTICLES)" data-chapter="OF THE OUTWARD ACT OF FAITH (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="OF THE OUTWARD ACT OF FAITH (TWO ARTICLES)" data-chapter="OF THE OUTWARD ACT OF FAITH (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the outward act, viz. the confession of faith: under which head there are
 two points of inquiry:
 (1) Whether confession is an act of faith?
 (2) Whether confession of faith is necessary for salvation?
 
-<span class="atom-split" data-atom="025" data-title="Whether confession is an act of faith?" data-chapter="Whether confession is an act of faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether confession is an act of faith?" data-chapter="Whether confession is an act of faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession is not an act of faith. For the same act does not
 belong to different virtues. Now confession belongs to penance of which it is a part. Therefore it
@@ -1369,7 +1369,7 @@ Reply to Objection 3: Inward faith, with the aid of charity, causes all outward 
 by means of the other virtues, commanding, but not eliciting them; whereas it produces the act of
 confession as its proper act, without the help of any other virtue.
 
-<span class="atom-split" data-atom="026" data-title="Whether confession of faith is necessary for salvation?" data-chapter="Whether confession of faith is necessary for salvation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether confession of faith is necessary for salvation?" data-chapter="Whether confession of faith is necessary for salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession of faith is not necessary for salvation. For, seemingly,
 a thing is sufficient for salvation, if it is a means of attaining the end of virtue. Now the proper end
@@ -1421,7 +1421,7 @@ his faith in public. Hence it is written (Mat. 15:12) that when the disciples ha
 that "the Pharisee, when they heard this word, were scandalized," He answered: "Let them alone,
 they are blind, and leaders of the blind."
 
-<span class="atom-split" data-atom="027" data-title="OF THE VIRTUE ITSELF OF FAITH (EIGHT ARTICLES)" data-chapter="OF THE VIRTUE ITSELF OF FAITH (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="OF THE VIRTUE ITSELF OF FAITH (EIGHT ARTICLES)" data-chapter="OF THE VIRTUE ITSELF OF FAITH (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the virtue itself of faith, and, in the first place, faith itself; secondly,
 those who have faith; thirdly, the cause of faith; fourthly, its effects.
@@ -1435,7 +1435,7 @@ Under the first head there are eight points of inquiry:
 (7) Of its relation to the other virtues;
 (8) Of its certitude as compared with the certitude of the intellectual virtues.
 
-<span class="atom-split" data-atom="028" data-title="Whether this is a fitting definition of faith: \&quot;Faith is the substance of things to be hoped for, the evidence of things that appear not?\&quot;" data-chapter="Whether this is a fitting definition of faith: \&quot;Faith is the substance of things to be hoped for, the evidence of things that appear not?\&quot;" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether this is a fitting definition of faith: \&quot;Faith is the substance of things to be hoped for, the evidence of things that appear not?\&quot;" data-chapter="Whether this is a fitting definition of faith: \&quot;Faith is the substance of things to be hoped for, the evidence of things that appear not?\&quot;" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is a fitting definition of faith: "Faith is the substance of things to be hoped for, the evidence of things that appear not?"
 
@@ -1534,7 +1534,7 @@ Reply to Objection 5: Evidence taken from the proper principles of a thing, make
 whereas evidence taken from Divine authority does not make a thing apparent in itself, and such
 is the evidence referred to in the definition of faith.
 
-<span class="atom-split" data-atom="029" data-title="Whether faith resides in the intellect?" data-chapter="Whether faith resides in the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether faith resides in the intellect?" data-chapter="Whether faith resides in the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that faith does not reside in the intellect. For [Augustine](/figures/augustine) says (De
 Praedest. Sanct. v) that "faith resides in the believer's will." Now the will is a power distinct from
@@ -1583,7 +1583,7 @@ since this object, which is the First Truth, is the end of all our desires and a
 proves (De Trin. i, 8), it follows that faith worketh by charity just as "the speculative intellect
 becomes practical by extension" (De Anima iii, 10).
 
-<span class="atom-split" data-atom="030" data-title="Whether charity is the form of faith?" data-chapter="Whether charity is the form of faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether charity is the form of faith?" data-chapter="Whether charity is the form of faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not the form of faith. For each thing derives its
 species from its form. When therefore two things are opposite members of a division, one cannot
@@ -1623,7 +1623,7 @@ Reply to Objection 3: Even obedience, and hope likewise, and whatever other virt
 precede the act of faith, is quickened by charity, as we shall show further on (Q[23], A[8]), and
 consequently charity is spoken of as the form of faith.
 
-<span class="atom-split" data-atom="031" data-title="Whether lifeless faith can become living, or living faith, lifeless?" data-chapter="Whether lifeless faith can become living, or living faith, lifeless?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether lifeless faith can become living, or living faith, lifeless?" data-chapter="Whether lifeless faith can become living, or living faith, lifeless?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that lifeless faith does not become living, or living faith lifeless.
 For, according to 1 Cor. 13:10, "when that which is perfect is come, that which is in part shall be
@@ -1690,7 +1690,7 @@ sin does not take away grace from one who has already lost it through a previous
 Reply to Objection 4: When living faith becomes lifeless, faith is not changed, but its subject,
 the soul, which at one time has faith without charity, and at another time, with charity.
 
-<span class="atom-split" data-atom="032" data-title="Whether faith is a virtue?" data-chapter="Whether faith is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether faith is a virtue?" data-chapter="Whether faith is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that faith is not a virtue. For virtue is directed to the good, since
 "it is virtue that makes its subject good," as the Philosopher states (Ethic. ii, 6). But faith is directed
@@ -1757,7 +1757,7 @@ Faith is numbered among the fruits, in so far as it gives a certain pleasure in 
 of its certainty, wherefore the gloss on the fifth chapter to the Galatians, where the fruits are
 enumerated, explains faith as being "certainty about the unseen."
 
-<span class="atom-split" data-atom="033" data-title="Whether faith is one virtue?" data-chapter="Whether faith is one virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether faith is one virtue?" data-chapter="Whether faith is one virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that faith is not one. For just as faith is a gift of God according to
 Eph. 2:8, so also wisdom and knowledge are numbered among God's gifts according to Is. 11:2.
@@ -1798,7 +1798,7 @@ we have mentioned above (FS, Q[103], A[4]; FS, Q[107], A[1], ad 1).
 
 Reply to Objection 3: This objection considers numerical diversity of faith.
 
-<span class="atom-split" data-atom="034" data-title="Whether faith is the first of the virtues?" data-chapter="Whether faith is the first of the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether faith is the first of the virtues?" data-chapter="Whether faith is the first of the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that faith is not the first of the virtues. For a gloss on Lk. 12:4, "I
 say to you My friends," says that fortitude is the foundation of faith. Now the foundation precedes
@@ -1869,7 +1869,7 @@ Reply to Objection 5: Some act of the will is required before faith, but not an 
 quickened by charity. This latter act presupposes faith, because the will cannot tend to God with
 perfect love, unless the intellect possesses right faith about Him.
 
-<span class="atom-split" data-atom="035" data-title="Whether faith is more certain than science and the other intellectual virtues?" data-chapter="Whether faith is more certain than science and the other intellectual virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether faith is more certain than science and the other intellectual virtues?" data-chapter="Whether faith is more certain than science and the other intellectual virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that faith is not more certain than science and the other intellectual
 virtues. For doubt is opposed to certitude, wherefore a thing would seem to be the more certain,
@@ -1928,7 +1928,7 @@ of faith, even as the certitude of the knowledge of conclusions arises from the 
 But in so far as science, wisdom and understanding are intellectual virtues, they are based upon the
 natural light of reason, which falls short of the certitude of God's word, on which faith is founded.
 
-<span class="atom-split" data-atom="036" data-title="OF THOSE WHO HAVE FAITH (FOUR ARTICLES)" data-chapter="OF THOSE WHO HAVE FAITH (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="OF THOSE WHO HAVE FAITH (FOUR ARTICLES)" data-chapter="OF THOSE WHO HAVE FAITH (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider those who have faith: under which head there are four points of inquiry:
 (1) Whether there was faith in the angels, or in man, in their original state?
@@ -1936,7 +1936,7 @@ We must now consider those who have faith: under which head there are four point
 (3) Whether those heretics who err in one article, have faith in others?
 (4) Whether among those who have faith, one has it more than another?
 
-<span class="atom-split" data-atom="037" data-title="Whether there was faith in the angels, or in man, in their original state?" data-chapter="Whether there was faith in the angels, or in man, in their original state?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether there was faith in the angels, or in man, in their original state?" data-chapter="Whether there was faith in the angels, or in man, in their original state?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was no faith, either in the angels, or in man, in their
 original state. For Hugh St. Victor says in his Sentences (De Sacram. i, 10) that "man cannot see
@@ -2010,7 +2010,7 @@ Reply to Objection 3: In the original state there was no hearing anything from m
 outwardly, but there was from God inspiring inwardly: thus the prophets heard, as expressed by
 the Ps. 84:9: "I will hear what the Lord God will speak in me."
 
-<span class="atom-split" data-atom="038" data-title="Whether in the demons there is faith?" data-chapter="Whether in the demons there is faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether in the demons there is faith?" data-chapter="Whether in the demons there is faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the demons have no faith. For [Augustine](/figures/augustine) says (De Praedest.
 Sanct. v) that "faith depends on the believer's will": and this is a good will, since by it man wishes
@@ -2058,7 +2058,7 @@ Reply to Objection 3: The very fact that the signs of faith are so evident, that
 compelled to believe, is displeasing to them, so that their malice is by no means diminished by their
 believe.
 
-<span class="atom-split" data-atom="039" data-title="Whether a man who disbelieves one article of faith, can have lifeless faith in the other articles?" data-chapter="Whether a man who disbelieves one article of faith, can have lifeless faith in the other articles?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether a man who disbelieves one article of faith, can have lifeless faith in the other articles?" data-chapter="Whether a man who disbelieves one article of faith, can have lifeless faith in the other articles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a heretic who disbelieves one article of faith, can have lifeless
 faith in the other articles. For the natural intellect of a heretic is not more able than that of a catholic.
@@ -2114,7 +2114,7 @@ proximate motives, and thus one can be kept without another; or to their primary
 perfect obedience to God, in which a man fails whenever he breaks one commandment, according
 to  James 2:10: "Whosoever shall . . . offend in one point is become guilty of all."
 
-<span class="atom-split" data-atom="040" data-title="Whether faith can be greater in one man than in another?" data-chapter="Whether faith can be greater in one man than in another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether faith can be greater in one man than in another?" data-chapter="Whether faith can be greater in one man than in another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that faith cannot be greater in one man than in another. For the
 quantity of a [habit](/concepts/custom) is taken from its object. Now whoever has faith believes everything that is of
@@ -2167,13 +2167,13 @@ explained above (FS, Q[112], A[4]). Hence the comparison fails.
 Nevertheless the truth of principles is more known to one than to another, according to the
 greater capacity of intellect.
 
-<span class="atom-split" data-atom="041" data-title="OF THE CAUSE OF FAITH (TWO ARTICLES)" data-chapter="OF THE CAUSE OF FAITH (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="OF THE CAUSE OF FAITH (TWO ARTICLES)" data-chapter="OF THE CAUSE OF FAITH (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of faith, under which head there are two points of inquiry:
 (1) Whether faith is infused into man by God?
 (2) Whether lifeless faith is a gift of God?
 
-<span class="atom-split" data-atom="042" data-title="Whether faith is infused into man by God?" data-chapter="Whether faith is infused into man by God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether faith is infused into man by God?" data-chapter="Whether faith is infused into man by God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that faith is not infused into man by God. For [Augustine](/figures/augustine) says (De
 Trin. xiv) that "science begets faith in us, and nourishes, defends and strengthens it." Now those
@@ -2225,7 +2225,7 @@ Reply to Objection 3: To believe does indeed depend on the will of the believer:
 will needs to be prepared by God with grace, in order that he may be raised to things which are
 above his nature, as stated above (Q[2] , A[3]).
 
-<span class="atom-split" data-atom="043" data-title="Whether lifeless faith is a gift of God?" data-chapter="Whether lifeless faith is a gift of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether lifeless faith is a gift of God?" data-chapter="Whether lifeless faith is a gift of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that lifeless faith is not a gift of God. For it is written (Dt. 32:4)
 that "the works of God are perfect." Now lifeless faith is something imperfect. Therefore it is not
@@ -2282,13 +2282,13 @@ sin, through the instigation of his own malice. And in this way sometimes it is 
 a man to believe, and yet he is not granted the gift of charity: even so the gift of prophecy, or the
 like, is given to some without charity.
 
-<span class="atom-split" data-atom="044" data-title="OF THE EFFECTS OF FAITH (TWO ARTICLES)" data-chapter="OF THE EFFECTS OF FAITH (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="OF THE EFFECTS OF FAITH (TWO ARTICLES)" data-chapter="OF THE EFFECTS OF FAITH (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of faith: under which head there are two points of inquiry:
 (1) Whether fear is an effect of faith?
 (2) Whether the heart is purified by faith?
 
-<span class="atom-split" data-atom="045" data-title="Whether fear is an effect of faith?" data-chapter="Whether fear is an effect of faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether fear is an effect of faith?" data-chapter="Whether fear is an effect of faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear is not an effect of faith. For an effect does not precede its
 cause. Now fear precedes faith: for it is written (Ecclus. 2:8): "Ye that fear the Lord, believe in
@@ -2335,7 +2335,7 @@ Truth; but the material object of faith includes also certain evils; for instanc
 not to submit to God, or to be separated from Him, and that sinners will suffer penal evils from
 God: in this way faith can be the cause of fear.
 
-<span class="atom-split" data-atom="046" data-title="Whether faith has the effect of purifying the heart?" data-chapter="Whether faith has the effect of purifying the heart?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether faith has the effect of purifying the heart?" data-chapter="Whether faith has the effect of purifying the heart?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that faith does not purify the heart. For purity of the heart pertains
 chiefly to the affections, whereas faith is in the intellect. Therefore faith has not the effect of
@@ -2373,7 +2373,7 @@ all sins" (Prov. 10:12).
 Reply to Objection 3: The obscurity of faith does not pertain to the impurity of sin, but rather
 to the natural defect of the human intellect, according to the present state of life.
 
-<span class="atom-split" data-atom="047" data-title="OF THE GIFT OF UNDERSTANDING (EIGHT ARTICLES)" data-chapter="OF THE GIFT OF UNDERSTANDING (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="OF THE GIFT OF UNDERSTANDING (EIGHT ARTICLES)" data-chapter="OF THE GIFT OF UNDERSTANDING (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the gifts of understand and knowledge, which respond to the virtue of
 faith. With regard to the gift of understanding there are eight points of inquiry:
@@ -2387,7 +2387,7 @@ also?
 (7) Which of the beatitudes corresponds to this gift?
 (8) Which of the fruits?
 
-<span class="atom-split" data-atom="048" data-title="Whether understanding is a gift of the Holy Ghost?" data-chapter="Whether understanding is a gift of the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether understanding is a gift of the Holy Ghost?" data-chapter="Whether understanding is a gift of the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that understanding is not a gift of the Holy Ghost. For the gifts of
 grace are distinct from the gifts of nature, since they are given in addition to the latter. Now
@@ -2444,7 +2444,7 @@ any excellence; whereas "understanding" denotes a certain excellence of a knowle
 into the heart of things. Hence the supernatural gift is called after the understanding rather than
 after the will.
 
-<span class="atom-split" data-atom="049" data-title="Whether the gift of understanding is compatible with faith?" data-chapter="Whether the gift of understanding is compatible with faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether the gift of understanding is compatible with faith?" data-chapter="Whether the gift of understanding is compatible with faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gift of understanding is incompatible with faith. For
 [Augustine](/figures/augustine) says (QQ. lxxxiii, qu. 15) that "the thing which is understood is bounded by the
@@ -2487,7 +2487,7 @@ direct object of faith.
 This suffices for the Replies to the Objections: for the first three argue in reference to perfect
 understanding, while the last refers to the understanding of matters subordinate to faith.
 
-<span class="atom-split" data-atom="050" data-title="Whether the gift of understanding is merely speculative or also practical?" data-chapter="Whether the gift of understanding is merely speculative or also practical?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether the gift of understanding is merely speculative or also practical?" data-chapter="Whether the gift of understanding is merely speculative or also practical?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that understanding, considered as a gift of the Holy Ghost, is not
 practical, but only speculative. For, according to Gregory (Moral. i, 32), "understanding penetrates
@@ -2530,7 +2530,7 @@ stated above (FS, Q[71], A[6]). Now the eternal law surpasses human reason: so t
 of human actions, as ruled by the eternal law, surpasses the natural reason, and requires the
 supernatural light of a gift of the Holy Ghost.
 
-<span class="atom-split" data-atom="051" data-title="Whether the gift of understanding is in all who are in a state of grace?" data-chapter="Whether the gift of understanding is in all who are in a state of grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether the gift of understanding is in all who are in a state of grace?" data-chapter="Whether the gift of understanding is in all who are in a state of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gift of understanding is not in all who are in a state of
 grace. For Gregory says (Moral. ii, 49) that "the gift of understanding is given as a remedy against
@@ -2579,7 +2579,7 @@ never withdraws from holy persons: but, in order that they may have no incentive
 withdraw sometimes with regard to other things, so that their mind is unable to penetrate all things
 clearly.
 
-<span class="atom-split" data-atom="052" data-title="Whether the gift of understanding is found also in those who have not sanctifying grace?" data-chapter="Whether the gift of understanding is found also in those who have not sanctifying grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether the gift of understanding is found also in those who have not sanctifying grace?" data-chapter="Whether the gift of understanding is found also in those who have not sanctifying grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gift of understanding is found also in those who have not
 sanctifying grace. For [Augustine](/figures/augustine), in expounding the words of Ps. 118:20: "My soul hath coveted
@@ -2629,7 +2629,7 @@ implies a certain perception of the truth, which perception, except in one who h
 cannot regard the end, as stated above. Hence the comparison fails between understanding and
 faith.
 
-<span class="atom-split" data-atom="053" data-title="Whether the gift of understanding is distinct from the other gifts?" data-chapter="Whether the gift of understanding is distinct from the other gifts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether the gift of understanding is distinct from the other gifts?" data-chapter="Whether the gift of understanding is distinct from the other gifts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gift of understanding is not distinct from the other gifts.
 For there is no distinction between things whose opposites are not distinct. Now "wisdom is contrary
@@ -2702,7 +2702,7 @@ while it belongs to the gift of understanding to pierce with the mind the things
 Reply to Objection 3: The gift of understanding is related to both kinds of knowledge, viz.
 speculative and practical, not as to the judgment, but as to apprehension, by grasping what is said.
 
-<span class="atom-split" data-atom="054" data-title="Whether the sixth beatitude, \&quot;Blessed are the clean of heart,\&quot; etc., responds to the gift of understanding?" data-chapter="Whether the sixth beatitude, \&quot;Blessed are the clean of heart,\&quot; etc., responds to the gift of understanding?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the sixth beatitude, \&quot;Blessed are the clean of heart,\&quot; etc., responds to the gift of understanding?" data-chapter="Whether the sixth beatitude, \&quot;Blessed are the clean of heart,\&quot; etc., responds to the gift of understanding?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the sixth beatitude, "Blessed are the clean of heart," etc., responds to the gift of understanding?
 
@@ -2745,7 +2745,7 @@ This suffices for the Replies to the Objections: for the first two arguments ref
 of cleanness; while the third refers to the perfect vision of God. Moreover the gifts both perfect us
 in this life by way of inchoation, and will be fulfilled, as stated above (FS, Q[69], A[2]).
 
-<span class="atom-split" data-atom="055" data-title="Whether faith, among the fruits, responds to the gift of understanding?" data-chapter="Whether faith, among the fruits, responds to the gift of understanding?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether faith, among the fruits, responds to the gift of understanding?" data-chapter="Whether faith, among the fruits, responds to the gift of understanding?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, among the fruits, faith does not respond to the gift of
 understanding. For understanding is the fruit of faith, since it is written (Is. 7:9) according to another
@@ -2796,7 +2796,7 @@ denoted by the name of faith. The reason why there are several fruits pertaining
 faculty, is because, as already stated, the character of end, which the word fruit implies, pertains
 to the appetitive rather than to the intellective part.
 
-<span class="atom-split" data-atom="056" data-title="OF THE GIFT OF KNOWLEDGE (FOUR ARTICLES)" data-chapter="OF THE GIFT OF KNOWLEDGE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="OF THE GIFT OF KNOWLEDGE (FOUR ARTICLES)" data-chapter="OF THE GIFT OF KNOWLEDGE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the gift of knowledge, under which head there are four points of inquiry:
 (1) Whether knowledge is a gift?
@@ -2804,7 +2804,7 @@ We must now consider the gift of knowledge, under which head there are four poin
 (3) Whether it is speculative or practical?
 (4) Which [beatitude](/positions/beatitude) responds to it?
 
-<span class="atom-split" data-atom="057" data-title="Whether knowledge is a gift?" data-chapter="Whether knowledge is a gift?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether knowledge is a gift?" data-chapter="Whether knowledge is a gift?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that knowledge is not a gift. For the gifts of the Holy Ghost surpass
 the natural faculty. But knowledge implies an effect of natural reason: for the Philosopher says
@@ -2857,7 +2857,7 @@ they are not more perfect than the [theological virtues](/concepts/theological_v
 of the theological virtues, as to their end. Hence it is not unreasonable if several gifts are ordained
 to one theological virtue.
 
-<span class="atom-split" data-atom="058" data-title="Whether the gift of knowledge is about Divine things?" data-chapter="Whether the gift of knowledge is about Divine things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the gift of knowledge is about Divine things?" data-chapter="Whether the gift of knowledge is about Divine things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gift of knowledge is about Divine things. For [Augustine](/figures/augustine)
 says (De Trin. xiv, 1) that "knowledge begets, nourishes and strengthens faith." Now faith is about
@@ -2917,7 +2917,7 @@ man knows God through His creatures, this seems to pertain to "knowledge," to wh
 formally, rather than to "wisdom," to which it belongs materially: and, conversely, when we judge
 of creatures according to Divine things, this pertains to "wisdom" rather than to "knowledge."
 
-<span class="atom-split" data-atom="059" data-title="Whether the gift of knowledge is practical knowledge?" data-chapter="Whether the gift of knowledge is practical knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether the gift of knowledge is practical knowledge?" data-chapter="Whether the gift of knowledge is practical knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the knowledge, which is numbered among the gifts, is practical
 knowledge. For [Augustine](/figures/augustine) says (De Trin. xii, 14) that "knowledge is concerned with the actions
@@ -2962,7 +2962,7 @@ bestowed on them, so as never to wander from the straight path of justice. This 
 of holy things, according to Wis. 10:10: "She conducted the just . . . through the right ways . . . and
 gave him the knowledge of holy things."
 
-<span class="atom-split" data-atom="060" data-title="Whether the third beatitude, \&quot;Blessed are they that mourn,\&quot; etc. corresponds to the gift of knowledge?" data-chapter="Whether the third beatitude, \&quot;Blessed are they that mourn,\&quot; etc. corresponds to the gift of knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the third beatitude, \&quot;Blessed are they that mourn,\&quot; etc. corresponds to the gift of knowledge?" data-chapter="Whether the third beatitude, \&quot;Blessed are they that mourn,\&quot; etc. corresponds to the gift of knowledge?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the third beatitude, "Blessed are they that mourn," etc. corresponds to the gift of knowledge?
 
@@ -3012,7 +3012,7 @@ love of them: and this I say with regard to the beatitude of a wayfarer. Hence b
 contemplation is not ascribed to knowledge, but to understanding and wisdom, which are about
 Divine things.
 
-<span class="atom-split" data-atom="061" data-title="OF UNBELIEF IN GENERAL (TWELVE ARTICLES)" data-chapter="OF UNBELIEF IN GENERAL (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="OF UNBELIEF IN GENERAL (TWELVE ARTICLES)" data-chapter="OF UNBELIEF IN GENERAL (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In due sequence we must consider the contrary vices: first, unbelief, which is contrary to faith;
 secondly, blasphemy, which is opposed to confession of faith; thirdly, ignorance and dulness of
@@ -3032,7 +3032,7 @@ Under the first head there are twelve points of inquiry:
 (11) Whether the rites of unbelievers should be tolerated?
 (12) Whether the children of unbelievers are to be baptized against their parents' will?
 
-<span class="atom-split" data-atom="062" data-title="Whether unbelief is a sin?" data-chapter="Whether unbelief is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether unbelief is a sin?" data-chapter="Whether unbelief is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that unbelief is not a sin. For every sin is contrary to nature, as
 Damascene proves (De Fide Orth. ii, 4). Now unbelief seems not to be contrary to nature; for
@@ -3078,7 +3078,7 @@ It might also be replied that just as the [theological virtues](/concepts/theolo
 but precede them, so too, the vices opposed to the theological virtues are not reduced to the capital
 vices.
 
-<span class="atom-split" data-atom="063" data-title="Whether unbelief is in the intellect as its subject?" data-chapter="Whether unbelief is in the intellect as its subject?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether unbelief is in the intellect as its subject?" data-chapter="Whether unbelief is in the intellect as its subject?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that unbelief is not in the intellect as its subject. For every sin is
 in the will, according to [Augustine](/figures/augustine) (De Duabus Anim. x, xi). Now unbelief is a sin, as stated above
@@ -3117,7 +3117,7 @@ true and right judgment" as the gloss observes [*Augustine, Enchiridion lx]. But
 same authority, to adhere to Satan when he begins to invite one to his abode, i.e. wickedness and
 error, is not without sin.
 
-<span class="atom-split" data-atom="064" data-title="Whether unbelief is the greatest of sin?" data-chapter="Whether unbelief is the greatest of sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether unbelief is the greatest of sin?" data-chapter="Whether unbelief is the greatest of sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that unbelief is not the greatest of sins. For [Augustine](/figures/augustine) says (De
 Bapt. contra Donat. iv, 20): "I should hesitate to decide whether a very wicked Catholic ought to
@@ -3170,7 +3170,7 @@ sins more gravely than the unbeliever, both on account of his knowledge of the t
 and on account of the sacraments of faith with which he has been satiated, and which he insults by
 committing sin.
 
-<span class="atom-split" data-atom="065" data-title="Whether every act of an unbeliever is a sin?" data-chapter="Whether every act of an unbeliever is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether every act of an unbeliever is a sin?" data-chapter="Whether every act of an unbeliever is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that each act of an unbeliever is a sin. Because a gloss on Rom.
 14:23, "All that is not of faith is sin," says: "The whole life of unbelievers is a sin." Now the life
@@ -3212,7 +3212,7 @@ unbeliever, else his works would not have been acceptable to God, whom none can 
 faith. Now he had implicit faith, as the truth of the Gospel was not yet made manifest: hence Peter
 was sent to him to give him fuller instruction in the faith.
 
-<span class="atom-split" data-atom="066" data-title="Whether there are several species of unbelief?" data-chapter="Whether there are several species of unbelief?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether there are several species of unbelief?" data-chapter="Whether there are several species of unbelief?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not several species of unbelief. For, since faith and
 unbelief are contrary to one another, they must be about the same thing. Now the formal object of
@@ -3279,7 +3279,7 @@ so may unbelief, although it errs in many things, be one in so far as all those 
 one. Yet nothing hinders one man from erring in various species of unbelief, even as one man may
 be subject to various vices, and to various bodily diseases.
 
-<span class="atom-split" data-atom="067" data-title="Whether the unbelief of pagans or heathens is graver than other kinds?" data-chapter="Whether the unbelief of pagans or heathens is graver than other kinds?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether the unbelief of pagans or heathens is graver than other kinds?" data-chapter="Whether the unbelief of pagans or heathens is graver than other kinds?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the unbelief of heathens or pagans is graver than other kinds.
 For just as bodily disease is graver according as it endangers the health of a more important member
@@ -3325,7 +3325,7 @@ mere absence of faith, for the latter as was stated (A[1]) seems rather to bear 
 punishment. Hence, speaking absolutely, the unbelief of heretics is the worst.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="068" data-title="Whether one ought to dispute with unbelievers in public?" data-chapter="Whether one ought to dispute with unbelievers in public?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether one ought to dispute with unbelievers in public?" data-chapter="Whether one ought to dispute with unbelievers in public?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one ought not to dispute with unbelievers in public. For the
 Apostle says (2 Tim. 2:14): "Contend not in words, for it is to no profit, but to the subverting of
@@ -3384,7 +3384,7 @@ apparently taken from Bede]." Sometimes again, it is necessary, in order to conv
 are in error, according to Titus 1:9: "That he may be able to exhort in sound doctrine and to convince
 the gainsayers."
 
-<span class="atom-split" data-atom="069" data-title="Whether unbelievers ought to be compelled to the faith?" data-chapter="Whether unbelievers ought to be compelled to the faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether unbelievers ought to be compelled to the faith?" data-chapter="Whether unbelievers ought to be compelled to the faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that unbelievers ought by no means to be compelled to the faith.
 For it is written (Mat. 13:28) that the servants of the householder, in whose field cockle had been
@@ -3453,7 +3453,7 @@ killed in the war which he had raised against his father. Thus if the Catholic C
 some of the perdition of others, she heals the sorrow of her maternal heart by the delivery of so
 many nations."
 
-<span class="atom-split" data-atom="070" data-title="Whether it is lawful to communicate with unbelievers?" data-chapter="Whether it is lawful to communicate with unbelievers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether it is lawful to communicate with unbelievers?" data-chapter="Whether it is lawful to communicate with unbelievers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is lawful to communicate with unbelievers. For the Apostle
 says (1 Cor. 10:27): "If any of them that believe not, invite you, and you be willing to go, eat of
@@ -3520,7 +3520,7 @@ into whose territory the Jews were about to enter. For the latter were inclined 
 was to be feared lest, through frequent dealings with those nations, they should be estranged from
 the faith: hence the text goes on (Dt. 7:4): "For she will turn away thy son from following Me."
 
-<span class="atom-split" data-atom="071" data-title="Whether unbelievers may have authority or dominion over the faithful?" data-chapter="Whether unbelievers may have authority or dominion over the faithful?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether unbelievers may have authority or dominion over the faithful?" data-chapter="Whether unbelievers may have authority or dominion over the faithful?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that unbelievers may have authority or dominion over the faithful.
 For the Apostle says (1 Tim. 6:1): "Whosoever are servants under the yoke, let them count their
@@ -3596,7 +3596,7 @@ together with them. Thus Solomon besought the King of Tyre to send master workme
 trees, as related in 3 Kings 5:6. Yet, if there be reason to fear that the faithful will be perverted by
 such communications and dealings, they should be absolutely forbidden.
 
-<span class="atom-split" data-atom="072" data-title="Whether the rites of unbelievers ought to be tolerated?" data-chapter="Whether the rites of unbelievers ought to be tolerated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether the rites of unbelievers ought to be tolerated?" data-chapter="Whether the rites of unbelievers ought to be tolerated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that rites of unbelievers ought not to be tolerated. For it is evident
 that unbelievers sin in observing their rites: and not to prevent a sin, when one can, seems to imply
@@ -3636,7 +3636,7 @@ gradually be converted to the faith. For this reason the Church, at times, has t
 of heretics and pagans, when unbelievers were very numerous.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="073" data-title="Whether the children of Jews and other unbelievers ought to be baptized against their parents' will?" data-chapter="Whether the children of Jews and other unbelievers ought to be baptized against their parents' will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the children of Jews and other unbelievers ought to be baptized against their parents' will?" data-chapter="Whether the children of Jews and other unbelievers ought to be baptized against their parents' will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the children of Jews and of other unbelievers ought to be
 baptized against their parents' will. For the bond of marriage is stronger than the right of parental
@@ -3734,7 +3734,7 @@ provide the sacraments of salvation for the children of unbelievers is the duty 
 Hence it is they whom the danger threatens, if through being deprived of the sacraments their
 children fail to obtain salvation.
 
-<span class="atom-split" data-atom="074" data-title="OF HERESY (FOUR ARTICLES)" data-chapter="OF HERESY (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="OF HERESY (FOUR ARTICLES)" data-chapter="OF HERESY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider heresy: under which head there are four points of inquiry:
 (1) Whether heresy is a kind of unbelief?
@@ -3742,7 +3742,7 @@ We must now consider heresy: under which head there are four points of inquiry:
 (3) Whether heretics should be tolerated?
 (4) Whether converts should be received?
 
-<span class="atom-split" data-atom="075" data-title="Whether heresy is a species of unbelief?" data-chapter="Whether heresy is a species of unbelief?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether heresy is a species of unbelief?" data-chapter="Whether heresy is a species of unbelief?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that heresy is not a species of unbelief. For unbelief is in the
 understanding, as stated above (Q[10], A[2]). Now heresy would seem not to pertain to the
@@ -3808,7 +3808,7 @@ from pride or covetousness, as stated in the second objection, or some illusion 
 (which gives rise to error, as the Philosopher states in Metaph. iv; Ed. Did. iii, 5), for this faculty
 has a certain connection with the flesh, in as much as its act is independent on a bodily organ.
 
-<span class="atom-split" data-atom="076" data-title="Whether heresy is properly about matters of faith?" data-chapter="Whether heresy is properly about matters of faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether heresy is properly about matters of faith?" data-chapter="Whether heresy is properly about matters of faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that heresy is not properly about matters of faith. For just as there
 are heresies and sects among Christians, so were there among the Jews, and Pharisees, as Isidore
@@ -3878,7 +3878,7 @@ beg that it may be set aright by you who hold the faith and see of Peter. If how
 profession, be approved by the judgment of your apostleship, whoever may blame me, will prove
 that he himself is ignorant, or malicious, or even not a catholic but a heretic."
 
-<span class="atom-split" data-atom="077" data-title="Whether heretics ought to be tolerated?" data-chapter="Whether heretics ought to be tolerated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether heretics ought to be tolerated?" data-chapter="Whether heretics ought to be tolerated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that heretics ought to be tolerated. For the Apostle says (2 Tim. 2:24,25):
 "The servant of the Lord must not wrangle . . . with modesty admonishing them that resist the truth,
@@ -3933,7 +3933,7 @@ by death, this is not contrary to Our Lord's command, which is to be understood 
 case when the cockle cannot be plucked up without plucking up the wheat, as we explained above
 (Q[10], A[8], ad 1), when treating of unbelievers in general.
 
-<span class="atom-split" data-atom="078" data-title="Whether the Church should receive those who return from heresy?" data-chapter="Whether the Church should receive those who return from heresy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether the Church should receive those who return from heresy?" data-chapter="Whether the Church should receive those who return from heresy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Church ought in all cases to receive those who return from
 heresy. For it is written (Jer. 3:1) in the person of the Lord: "Thou hast prostituted thyself to many
@@ -3997,14 +3997,14 @@ Reply to Objection 3: When other unbelievers, who have never received the faith 
 they do not as yet show signs of inconstancy in faith, as relapsed heretics do; hence the comparison
 fails.
 
-<span class="atom-split" data-atom="079" data-title="OF APOSTASY (TWO ARTICLES)" data-chapter="OF APOSTASY (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="OF APOSTASY (TWO ARTICLES)" data-chapter="OF APOSTASY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider apostasy: about which there are two points of inquiry:
 (1) Whether apostasy pertains to unbelief?
 (2) Whether, on account of apostasy from the faith, subjects are absolved from allegiance to an
 apostate prince?
 
-<span class="atom-split" data-atom="080" data-title="Whether apostasy pertains to unbelief?" data-chapter="Whether apostasy pertains to unbelief?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether apostasy pertains to unbelief?" data-chapter="Whether apostasy pertains to unbelief?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that apostasy does not pertain to unbelief. For that which is the
 origin of all sins, does not, seemingly, pertain to unbelief, since many sins there are without unbelief.
@@ -4070,7 +4070,7 @@ movement of withdrawal from the faith; wherefore apostasy does not imply a speci
 unbelief, but an aggravating circumstance thereof, according to 2 Pet. 2:21: "It had been better for
 them not to know the truth [Vulg.: 'the way of justice'], than after they had known it, to turn back."
 
-<span class="atom-split" data-atom="081" data-title="Whether a prince forfeits his dominion over his subjects, on account of apostasy from the faith, so that they no longer owe him allegiance?" data-chapter="Whether a prince forfeits his dominion over his subjects, on account of apostasy from the faith, so that they no longer owe him allegiance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether a prince forfeits his dominion over his subjects, on account of apostasy from the faith, so that they no longer owe him allegiance?" data-chapter="Whether a prince forfeits his dominion over his subjects, on account of apostasy from the faith, so that they no longer owe him allegiance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a prince does not so forfeit his dominion over his subjects, on
 account of apostasy from the faith, that they no longer owe him allegiance. For Ambrose [*St.
@@ -4124,7 +4124,7 @@ have never received the faith.
 Reply to Objection 3: Apostasy from the faith severs man from God altogether, as stated above
 (A[1]), which is not the case in any other sin.
 
-<span class="atom-split" data-atom="082" data-title="OF THE SIN OF BLASPHEMY, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE SIN OF BLASPHEMY, IN GENERAL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="OF THE SIN OF BLASPHEMY, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE SIN OF BLASPHEMY, IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the sin of blasphemy, which is opposed to the confession of faith; and
 (1) blasphemy in general, (2) that blasphemy which is called the sin against the Holy Ghost.
@@ -4134,7 +4134,7 @@ Under the first head there are four points of inquiry:
 (3) Whether blasphemy is the most grievous sin?
 (4) Whether blasphemy is in the damned?
 
-<span class="atom-split" data-atom="083" data-title="Whether blasphemy is opposed to the confession of faith?" data-chapter="Whether blasphemy is opposed to the confession of faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether blasphemy is opposed to the confession of faith?" data-chapter="Whether blasphemy is opposed to the confession of faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that blasphemy is not opposed to the confession of faith. Because
 to blaspheme is to utter an affront or insult against the Creator. Now this pertains to ill-will against
@@ -4186,7 +4186,7 @@ i, 25. Again to ascribe to creatures things that are proper to God, seems to amo
 affirming something unfitting of Him, since whatever is proper to God is God Himself: and to
 ascribe to a creature, that which is proper to God, is to assert that God is the same as a creature.
 
-<span class="atom-split" data-atom="084" data-title="Whether blasphemy is always a mortal sin?" data-chapter="Whether blasphemy is always a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether blasphemy is always a mortal sin?" data-chapter="Whether blasphemy is always a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that blasphemy is not always a mortal sin. Because a gloss on the
 words, "Now lay you also all away," etc. (Col. 3:8) says: "After prohibiting greater crimes he forbids
@@ -4231,7 +4231,7 @@ and is not a blasphemy properly so called. In the second way, by adverting to th
 words, and to their blasphemous nature: in which case he is not excused from mortal sin, even as
 neither is he who, in a sudden movement of [anger](/concepts/anger), kills one who is sitting beside him.
 
-<span class="atom-split" data-atom="085" data-title="Whether the sin of blasphemy is the greatest sin?" data-chapter="Whether the sin of blasphemy is the greatest sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether the sin of blasphemy is the greatest sin?" data-chapter="Whether the sin of blasphemy is the greatest sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sin of blasphemy is not the greatest sin. For, according to
 [Augustine](/figures/augustine) (Enchiridion xii), a thing is said to be evil because it does harm. Now the sin of murder,
@@ -4276,7 +4276,7 @@ Reply to Objection 3: To excuse oneself for sin is a circumstance that aggravate
 even blasphemy itself: and it is called the most grievous sin, for as much as it makes every sin more
 grievous.
 
-<span class="atom-split" data-atom="086" data-title="Whether the damned blaspheme?" data-chapter="Whether the damned blaspheme?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether the damned blaspheme?" data-chapter="Whether the damned blaspheme?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the damned do not blaspheme. Because some wicked men are
 deterred from blaspheming now, on account of the fear of future punishment. But the damned are
@@ -4319,7 +4319,7 @@ demeritorious, but is part of the punishment of damnation.
 Reply to Objection 3: Whoever dies in mortal sin, bears with him a will that detests the Divine
 justice with regard to a certain thing, and in this respect there can be blasphemy in him.
 
-<span class="atom-split" data-atom="087" data-title="OF BLASPHEMY AGAINST THE HOLY GHOST (FOUR ARTICLES)" data-chapter="OF BLASPHEMY AGAINST THE HOLY GHOST (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="OF BLASPHEMY AGAINST THE HOLY GHOST (FOUR ARTICLES)" data-chapter="OF BLASPHEMY AGAINST THE HOLY GHOST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider in particular blasphemy against the Holy Ghost: under which head there
 are four points of inquiry:
@@ -4330,7 +4330,7 @@ through certain malice?
 (4) Whether it is possible to begin by sinning against the Holy Ghost before committing other
 sins?
 
-<span class="atom-split" data-atom="088" data-title="Whether the sin against the Holy Ghost is the same as the sin committed through certain malice?" data-chapter="Whether the sin against the Holy Ghost is the same as the sin committed through certain malice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether the sin against the Holy Ghost is the same as the sin committed through certain malice?" data-chapter="Whether the sin against the Holy Ghost is the same as the sin committed through certain malice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sin against the Holy Ghost is not the same as the sin
 committed through certain malice. Because the sin against the Holy Ghost is the sin of blasphemy,
@@ -4409,7 +4409,7 @@ sin. According to this interpretation the sin against the Holy Ghost is a specia
 according to the first interpretation: whereas according to the second, it is not a species of sin,
 because final impenitence may be a circumstance of any kind of sin.
 
-<span class="atom-split" data-atom="089" data-title="Whether it is fitting to distinguish six kinds of sin against the Holy Ghost?" data-chapter="Whether it is fitting to distinguish six kinds of sin against the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether it is fitting to distinguish six kinds of sin against the Holy Ghost?" data-chapter="Whether it is fitting to distinguish six kinds of sin against the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting to distinguish six kinds of sin against the Holy Ghost,
 viz. despair, presumption, impenitence, obstinacy, resisting the known truth, envy of our brother's
@@ -4483,7 +4483,7 @@ Reply to Objection 4: To refuse to obey belongs to obstinacy, while a feigned re
 belongs to impenitence, and schism to the envy of a brother's spiritual good, whereby the members
 of the Church are united together.
 
-<span class="atom-split" data-atom="090" data-title="Whether the sin against the Holy Ghost can be forgiven?" data-chapter="Whether the sin against the Holy Ghost can be forgiven?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether the sin against the Holy Ghost can be forgiven?" data-chapter="Whether the sin against the Holy Ghost can be forgiven?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sin against the Holy Ghost can be forgiven. For [Augustine](/figures/augustine)
 says (De Verb. Dom., Serm. lxxi): "We should despair of no man, so long as Our Lord's patience
@@ -4549,7 +4549,7 @@ Reply to Objection 3: In this life the free-will does indeed ever remain subject
 sometimes it rejects that whereby, so far as it is concerned, it can be turned to good. Hence considered
 in itself this sin is unpardonable, although God can pardon it.
 
-<span class="atom-split" data-atom="091" data-title="Whether a man can sin first of all against the Holy Ghost?" data-chapter="Whether a man can sin first of all against the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Whether a man can sin first of all against the Holy Ghost?" data-chapter="Whether a man can sin first of all against the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man cannot sin first of all against the Holy Ghost, without
 having previously committed other sins. For the natural order requires that one should be moved
@@ -4619,7 +4619,7 @@ opposed to the gift of understanding; and under this head there are three points
 (2) Whether dulness of sense is a sin distinct from blindness of mind?
 (3) Whether these vices arise from sins of the flesh?
 
-<span class="atom-split" data-atom="092" data-title="Whether blindness of mind is a sin?" data-chapter="Whether blindness of mind is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether blindness of mind is a sin?" data-chapter="Whether blindness of mind is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that blindness of mind is not a sin. Because, seemingly, that which
 excuses from sin is not itself a sin. Now blindness of mind excuses from sin; for it is written (Jn.
@@ -4666,7 +4666,7 @@ Reply to Objection 3: To understand the truth is, in itself, beloved by all; and
 it may be hateful to someone, in so far as a man is hindered thereby from having what he loves yet
 more.
 
-<span class="atom-split" data-atom="093" data-title="Whether dulness of sense is a sin distinct from blindness of mind?" data-chapter="Whether dulness of sense is a sin distinct from blindness of mind?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether dulness of sense is a sin distinct from blindness of mind?" data-chapter="Whether dulness of sense is a sin distinct from blindness of mind?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that dulness of sense is not a distinct sin from blindness of mind. Because
 one thing has one contrary. Now dulness is opposed to the gift of understanding, according to
@@ -4715,7 +4715,7 @@ voluntary, as evidenced in one who, owing to his affection for carnal things, di
 the careful consideration of spiritual things.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="094" data-title="Whether blindness of mind and dulness of sense arise from sins of the flesh?" data-chapter="Whether blindness of mind and dulness of sense arise from sins of the flesh?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether blindness of mind and dulness of sense arise from sins of the flesh?" data-chapter="Whether blindness of mind and dulness of sense arise from sins of the flesh?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that blindness of mind and dulness of sense do not arise from sins
 of the flesh. For [Augustine](/figures/augustine) (Retract. i, 4) retracts what he had said in his Soliloquies i, 1, "God
@@ -4774,7 +4774,7 @@ two points of inquiry:
 (1) The precepts concerning faith;
 (2) The precepts concerning the gifts of knowledge and understanding.
 
-<span class="atom-split" data-atom="095" data-title="Whether in the Old Law there should have been given precepts of faith?" data-chapter="Whether in the Old Law there should have been given precepts of faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether in the Old Law there should have been given precepts of faith?" data-chapter="Whether in the Old Law there should have been given precepts of faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, in the [Old Law](/concepts/divine_law), there should have been given precepts of
 faith. Because a precept is about something due and necessary. Now it is most necessary for man
@@ -4847,7 +4847,7 @@ which follow---"believe Him"---must be referred to certain special articles of f
 things which God promises to them that obey Him, wherefore the passage concludes---"and your
 reward shall not be made void."
 
-<span class="atom-split" data-atom="096" data-title="Whether the precepts referring to knowledge and understanding were fittingly set down in the Old Law?" data-chapter="Whether the precepts referring to knowledge and understanding were fittingly set down in the Old Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Whether the precepts referring to knowledge and understanding were fittingly set down in the Old Law?" data-chapter="Whether the precepts referring to knowledge and understanding were fittingly set down in the Old Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the precepts referring to knowledge and understanding were
 unfittingly set down in the [Old Law](/concepts/divine_law). For knowledge and understanding pertain to cognition. Now
@@ -4927,7 +4927,7 @@ movements pass from [the state](/concepts/state) of vigil to the state of sleep,
 are bound to be always actually thinking about the Law, but that we should regulate all our actions
 according to it.
 
-<span class="atom-split" data-atom="097" data-title="OF HOPE, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-chapter="OF HOPE, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="OF HOPE, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-chapter="OF HOPE, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After treating of faith, we must consider hope and (1) hope itself; (2) the gift of fear; (3) the
 contrary vices; (4) the corresponding precepts. The first of these points gives rise to a twofold
@@ -4942,7 +4942,7 @@ Under the first head there are eight points of inquiry:
 (7) Of its relation to faith;
 (8) Of its relation to charity.
 
-<span class="atom-split" data-atom="098" data-title="Whether hope is a virtue?" data-chapter="Whether hope is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether hope is a virtue?" data-chapter="Whether hope is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope is not a virtue. For "no man makes ill use of a virtue,"
 as [Augustine](/figures/augustine) states (De Lib. Arb. ii, 18). But one may make ill use of hope, since the passion of
@@ -4990,7 +4990,7 @@ Reply to Objection 3: He who hopes is indeed imperfect in relation to that which
 obtain, but has not as yet; yet he is perfect, in so far as he already attains his proper rule, viz. God,
 on Whose help he leans.
 
-<span class="atom-split" data-atom="099" data-title="Whether eternal happiness is the proper object of hope?" data-chapter="Whether eternal happiness is the proper object of hope?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether eternal happiness is the proper object of hope?" data-chapter="Whether eternal happiness is the proper object of hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that eternal happiness is not the proper object of hope. For a man
 does not hope for that which surpasses every movement of the soul, since hope itself is a movement
@@ -5036,7 +5036,7 @@ wherefore to him that hopes for eternal happiness, nothing else appears arduous,
 that hope; although, as compared with the capability of the man who hopes, other things besides
 may be arduous to him, so that he may have hope for such things in reference to its principal object.
 
-<span class="atom-split" data-atom="100" data-title="Whether one man may hope for another's eternal happiness?" data-chapter="Whether one man may hope for another's eternal happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether one man may hope for another's eternal happiness?" data-chapter="Whether one man may hope for another's eternal happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one may hope for another's eternal happiness. For the Apostle
 says (Phil. 1:6): "Being confident of this very thing, that He Who hath begun a good work in you,
@@ -5071,7 +5071,7 @@ loves God, himself, and his neighbor, so too it is the same virtue of hope, wher
 for himself and for another.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="101" data-title="Whether a man can lawfully hope in man?" data-chapter="Whether a man can lawfully hope in man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether a man can lawfully hope in man?" data-chapter="Whether a man can lawfully hope in man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It wold seem that one may lawfully hope in man. For the object of hope is eternal
 happiness. Now we are helped to obtain eternal happiness by the patronage of the saints, for Gregory
@@ -5105,7 +5105,7 @@ and that we ask men also for certain things; and for this reason some are blamed
 be trusted to give help.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="102" data-title="Whether hope is a theological virtue?" data-chapter="Whether hope is a theological virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="Whether hope is a theological virtue?" data-chapter="Whether hope is a theological virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope is not a [theological virtue](/concepts/theological_virtues). For a theological virtue is one
 that has God for its object. Now hope has for its object not only God but also other goods which
@@ -5162,7 +5162,7 @@ something that is within one's power, wherefore its proper object is the doing o
 the other hand hope, as a theological virtue, regards something arduous, to be obtained by another's
 help, as stated above (A[1]).
 
-<span class="atom-split" data-atom="103" data-title="Whether hope is distinct from the other theological virtues?" data-chapter="Whether hope is distinct from the other theological virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether hope is distinct from the other theological virtues?" data-chapter="Whether hope is distinct from the other theological virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope is not distinct from the other [theological virtues](/concepts/theological_virtues). For
 habits are distinguished by their objects, as stated above (FS, Q[54], A[2]). Now the object of hope
@@ -5203,7 +5203,7 @@ Reply to Objection 3: Hope makes us tend to God, as to a good to be obtained fin
 to a helper strong to assist: whereas charity, properly speaking, makes us tend to God, by uniting
 our affections to Him, so that we live, not for ourselves, but for God.
 
-<span class="atom-split" data-atom="104" data-title="Whether hope precedes faith?" data-chapter="Whether hope precedes faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether hope precedes faith?" data-chapter="Whether hope precedes faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope precedes faith. Because a gloss on Ps. 36:3, "Trust in the
 Lord, and do good," says: "Hope is the entrance to faith and the beginning of salvation." But
@@ -5241,7 +5241,7 @@ in a circumlocution by something resulting from faith.
 Reply to Objection 3: Hope does not precede every meritorious act; but it suffices for it to
 accompany or follow it.
 
-<span class="atom-split" data-atom="105" data-title="Whether charity precedes hope?" data-chapter="Whether charity precedes hope?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether charity precedes hope?" data-chapter="Whether charity precedes hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity precedes hope. For Ambrose says on Lk. 27:6, "If you
 had faith like to a grain of mustard seed," etc.: "Charity flows from faith, and hope from charity."
@@ -5287,7 +5287,7 @@ a friend.
 Reply to Objection 3: The Master is speaking of living hope, which is naturally preceded by
 charity and the merits caused by charity.
 
-<span class="atom-split" data-atom="106" data-title="OF THE SUBJECT OF HOPE (FOUR ARTICLES)" data-chapter="OF THE SUBJECT OF HOPE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="OF THE SUBJECT OF HOPE (FOUR ARTICLES)" data-chapter="OF THE SUBJECT OF HOPE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the subject of hope, under which head there are four points of inquiry:
 (1) Whether the virtue of hope is in the will as its subject?
@@ -5295,7 +5295,7 @@ We must now consider the subject of hope, under which head there are four points
 (3) Whether it is in the damned?
 (4) Whether there is certainty in the hope of the wayfarer?
 
-<span class="atom-split" data-atom="107" data-title="Whether hope is in the will as its subject?" data-chapter="Whether hope is in the will as its subject?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether hope is in the will as its subject?" data-chapter="Whether hope is in the will as its subject?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope is not in the will as its subject. For the object of hope is
 an arduous good, as stated above (Q[17], A[1]; FS, Q[40], A[1]). Now the arduous is the object,
@@ -5337,7 +5337,7 @@ as was shown above (Q[17], A[8]). Hence there is no reason why both movements sh
 belong at the same time to the same power: even as the intellect can understand many things at the
 same time if they be related to one another, as stated in the FP, Q[85], A[4].
 
-<span class="atom-split" data-atom="108" data-title="Whether in the blessed there is hope?" data-chapter="Whether in the blessed there is hope?" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Whether in the blessed there is hope?" data-chapter="Whether in the blessed there is hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in the blessed there is hope. For Christ was a perfect
 comprehensor from the first moment of His conception. Now He had hope, since, according to a
@@ -5394,7 +5394,7 @@ nature, yet it is not so for one who has the glory of the soul; both because the
 a very small thing as compared with the glory of the soul, and because one who has the glory of
 the soul has already the sufficient cause of the glory of the body.
 
-<span class="atom-split" data-atom="109" data-title="Whether hope is in the damned?" data-chapter="Whether hope is in the damned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Whether hope is in the damned?" data-chapter="Whether hope is in the damned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is hope in the damned. For the devil is damned and prince
 of the damned, according to Mat. 25:41: "Depart . . . you cursed, into everlasting fire, which was
@@ -5448,7 +5448,7 @@ Reply to Objection 3: Lack of hope in the damned does not change their demerit, 
 does the voiding of hope in the blessed increase their merit: but both these things are due to the
 change in their respective states.
 
-<span class="atom-split" data-atom="110" data-title="Whether there is certainty in the hope of a wayfarer?" data-chapter="Whether there is certainty in the hope of a wayfarer?" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="Whether there is certainty in the hope of a wayfarer?" data-chapter="Whether there is certainty in the hope of a wayfarer?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no certainty in the hope of a wayfarer. For hope resides
 in the will. But certainty pertains not to the will but to the intellect. Therefore there is no certainty
@@ -5482,7 +5482,7 @@ Reply to Objection 3: That some who have hope fail to obtain happiness, is due t
 the [free will](/positions/free_will) in placing the obstacle of sin, but not to any deficiency in God's power or mercy, in
 which hope places its trust. Hence this does not prejudice the certainty of hope.
 
-<span class="atom-split" data-atom="111" data-title="OF THE GIFT OF FEAR (TWELVE ARTICLES)" data-chapter="OF THE GIFT OF FEAR (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="OF THE GIFT OF FEAR (TWELVE ARTICLES)" data-chapter="OF THE GIFT OF FEAR (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the gift of fear, about which there are twelve points of inquiry:
 (1) Whether God is to be feared?
@@ -5498,7 +5498,7 @@ We must now consider the gift of fear, about which there are twelve points of in
 (11) Whether it remains in heaven?
 (12) Which of the beatitudes and fruits correspond to it?
 
-<span class="atom-split" data-atom="112" data-title="Whether God can be feared?" data-chapter="Whether God can be feared?" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="Whether God can be feared?" data-chapter="Whether God can be feared?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot be feared. For the object of fear is a future evil,
 as stated above (FS, Q[41], AA[2],3). But God is free of all evil, since He is goodness itself.
@@ -5543,7 +5543,7 @@ of a good, since it is something just, through being inflicted on us justly; alt
 is due to the demerit of sin: thus it is written (Wis. 1:13,16): "God made not death . . . but the wicked
 with works and words have called it to them."
 
-<span class="atom-split" data-atom="113" data-title="Whether fear is fittingly divided into filial, initial, servile and worldly fear?" data-chapter="Whether fear is fittingly divided into filial, initial, servile and worldly fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="Whether fear is fittingly divided into filial, initial, servile and worldly fear?" data-chapter="Whether fear is fittingly divided into filial, initial, servile and worldly fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear is unfittingly divided into filial, initial, servile and worldly
 fear. For Damascene says (De Fide Orth. ii, 15) that there are six kinds of fear, viz. "laziness,
@@ -5613,7 +5613,7 @@ goods belong to the body. Hence both these fears are reckoned as one here, altho
 different evils, even as they correspond to the desire of different goods. This diversity causes a
 specific diversity of sins, all of which alike however lead man away from God.
 
-<span class="atom-split" data-atom="114" data-title="Whether worldly fear is always evil?" data-chapter="Whether worldly fear is always evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="Whether worldly fear is always evil?" data-chapter="Whether worldly fear is always evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that worldly fear is not always evil. Because regard for men seems
 to be a kind of human fear. Now some are blamed for having no regard for man, for instance, the
@@ -5661,7 +5661,7 @@ of worldly goods, but to forsake justice on that account is contrary to natural 
 Philosopher says (Ethic. iii, 1) that there are certain things, viz. sinful deeds, which no fear should
 drive us to do, since to do such things is worse than to suffer any punishment whatever.
 
-<span class="atom-split" data-atom="115" data-title="Whether servile fear is good?" data-chapter="Whether servile fear is good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="Whether servile fear is good?" data-chapter="Whether servile fear is good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that servile fear is not good. For if the use of a thing is evil, the
 thing itself is evil. Now the use of servile fear is evil, for according to a gloss on Rom. 8:15, "if a
@@ -5710,7 +5710,7 @@ goods, and this is, of itself, contrary to charity, so that mercenary love is al
 fear, as to its substance, implies merely fear of punishment, whether or not this be feared as the
 principal evil.
 
-<span class="atom-split" data-atom="116" data-title="Whether servile fear is substantially the same as filial fear?" data-chapter="Whether servile fear is substantially the same as filial fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Whether servile fear is substantially the same as filial fear?" data-chapter="Whether servile fear is substantially the same as filial fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that servile fear is substantially the same as filial fear. For filial
 fear is to servile fear the same apparently as living faith is to lifeless faith, since the one is
@@ -5752,7 +5752,7 @@ one term, for movement from whiteness is not specifically the same as movement t
 Reply to Objection 3: Hope looks upon God as the principle not only of the enjoyment of God,
 but also of any other favor whatever. This cannot be said of fear; and so there is no comparison.
 
-<span class="atom-split" data-atom="117" data-title="Whether servile fear remains with charity?" data-chapter="Whether servile fear remains with charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Whether servile fear remains with charity?" data-chapter="Whether servile fear remains with charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that servile fear does not remain with charity. For [Augustine](/figures/augustine) says
 (In prim. canon. Joan. Tract. ix) that "when charity takes up its abode, it drives away fear which
@@ -5798,7 +5798,7 @@ but the substance of servile fear can remain with charity, even as self-love can
 Reply to Objection 1: Augustine is speaking of fear considered as servile: and such is the sense
 of the two other objections.
 
-<span class="atom-split" data-atom="118" data-title="Whether fear is the beginning of wisdom?" data-chapter="Whether fear is the beginning of wisdom?" data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Whether fear is the beginning of wisdom?" data-chapter="Whether fear is the beginning of wisdom?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear is not the beginning of wisdom. For the beginning of a
 thing is a part thereof. But fear is not a part of wisdom, since fear is seated in the appetitive faculty,
@@ -5848,7 +5848,7 @@ Reply to Objection 3: As stated above, faith is the beginning of wisdom in one w
 in another. Hence it is written (Ecclus. 25:16): "The fear of God is the beginning of love: and the
 beginning of faith is to be fast joined to it."
 
-<span class="atom-split" data-atom="119" data-title="Whether initial fear differs substantially from filial fear?" data-chapter="Whether initial fear differs substantially from filial fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="Whether initial fear differs substantially from filial fear?" data-chapter="Whether initial fear differs substantially from filial fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that initial fear differs substantially from filial fear. For filial fear
 is caused by love. Now initial fear is the beginning of love, according to Ecclus. 25:16, "The fear
@@ -5893,7 +5893,7 @@ things of the same genus, but as the imperfect is a mean between a perfect being
 as stated in Metaph. ii, for it is the same substantially as the perfect being, while it differs altogether
 from non-being.
 
-<span class="atom-split" data-atom="120" data-title="Whether fear is a gift of the Holy Ghost?" data-chapter="Whether fear is a gift of the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="Whether fear is a gift of the Holy Ghost?" data-chapter="Whether fear is a gift of the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear is not a gift of the Holy Ghost. For no gift of the Holy
 Ghost is opposed to a virtue, which is also from the Holy Ghost; else the Holy Ghost would be in
@@ -5963,7 +5963,7 @@ Q[68], A[4]), while the theological virtues are the origin of the gifts, as stat
 A[4], ad 3).
 This suffices for the Reply to the Fifth Objection.
 
-<span class="atom-split" data-atom="121" data-title="Whether fear decreases when charity increases?" data-chapter="Whether fear decreases when charity increases?" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Whether fear decreases when charity increases?" data-chapter="Whether fear decreases when charity increases?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fear decreases when charity increases. For [Augustine](/figures/augustine) says (In prim.
 canon. Joan. Tract. ix): "The more charity increases, the more fear decreases."
@@ -6002,7 +6002,7 @@ presuming to equal oneself to Him, and of submitting to Him, which separation is
 even in charity, in so far as a man loves God more than himself and more than aught else. Hence
 the increase of the love of charity implies not a decrease but an increase in the reverence of fear.
 
-<span class="atom-split" data-atom="122" data-title="Whether fear remains in heaven?" data-chapter="Whether fear remains in heaven?" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="Whether fear remains in heaven?" data-chapter="Whether fear remains in heaven?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear does not remain in heaven. For it is written (Prov. 1:33):
 "He . . . shall enjoy abundance, without fear of evils," which is to be understood as referring to
@@ -6065,7 +6065,7 @@ ceases when happiness is present: whereas fear implies a natural defect in a cre
 it is infinitely distant from God, and this defect will remain even in heaven. Hence fear will not be
 cast out altogether.
 
-<span class="atom-split" data-atom="123" data-title="Whether poverty of spirit is the beatitude corresponding to the gift of fear?" data-chapter="Whether poverty of spirit is the beatitude corresponding to the gift of fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Whether poverty of spirit is the beatitude corresponding to the gift of fear?" data-chapter="Whether poverty of spirit is the beatitude corresponding to the gift of fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that poverty of spirit is not the [beatitude](/positions/beatitude) corresponding to the gift
 of fear. For fear is the beginning of the spiritual life, as explained above (A[7]): whereas poverty
@@ -6128,7 +6128,7 @@ Reply to Objection 4: As regards the fruits, it seems that those things correspo
 of fear, which pertain to the moderate use of temporal things or to abstinence therefrom; such are
 modesty, continency and chastity.
 
-<span class="atom-split" data-atom="124" data-title="OF DESPAIR (FOUR ARTICLES)" data-chapter="OF DESPAIR (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="OF DESPAIR (FOUR ARTICLES)" data-chapter="OF DESPAIR (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the contrary vices; (1) despair; (2) presumption. Under the first head
 there are four points of inquiry:
@@ -6137,7 +6137,7 @@ there are four points of inquiry:
 (3) Whether it is the greatest of sins?
 (4) Whether it arises from sloth?
 
-<span class="atom-split" data-atom="125" data-title="Whether despair is a sin?" data-chapter="Whether despair is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="Whether despair is a sin?" data-chapter="Whether despair is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that despair is not a sin. For every sin includes conversion to a
 mutable good, together with aversion from the immutable good, as [Augustine](/figures/augustine) states (De Lib. Arb.
@@ -6195,7 +6195,7 @@ natural capacity for obtaining, or which was not due to be obtained by him; for 
 physician were to despair of healing some sick man, or if anyone were to despair of ever becoming
 rich.
 
-<span class="atom-split" data-atom="126" data-title="Whether there can be despair without unbelief?" data-chapter="Whether there can be despair without unbelief?" data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="Whether there can be despair without unbelief?" data-chapter="Whether there can be despair without unbelief?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there can be no despair without unbelief. For the certainty of
 hope is derived from faith; and so long as the cause remains the effect is not done away. Therefore
@@ -6244,7 +6244,7 @@ account of some particular disposition, there is no hope of the Divine mercy.
 The same answer applies to the Third Objection, since the Novatians denied, in universal, that
 there is remission of sins in the Church.
 
-<span class="atom-split" data-atom="127" data-title="Whether despair is the greatest of sins?" data-chapter="Whether despair is the greatest of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="Whether despair is the greatest of sins?" data-chapter="Whether despair is the greatest of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that despair is not the greatest of sins. For there can be despair
 without unbelief, as stated above (A[2]). But unbelief is the greatest of sins because it overthrows
@@ -6286,7 +6286,7 @@ diminished," says: "Nothing is more hateful than despair, for the man that has i
 both in the every day toils of this life, and, what is worse, in the battle of faith." And Isidore says
 (De Sum. Bono ii, 14): "To commit a crime is to kill the soul, but to despair is to fall into hell."
 
-<span class="atom-split" data-atom="128" data-title="Whether despair arises from sloth?" data-chapter="Whether despair arises from sloth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Whether despair arises from sloth?" data-chapter="Whether despair arises from sloth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that despair does not arise from sloth. Because different causes do
 not give rise to one same effect. Now despair of the future life arises from lust, according to Gregory
@@ -6334,7 +6334,7 @@ when a man is influenced by a certain passion he considers chiefly the things wh
 passion: so that a man who is full of sorrow does not easily think of great and joyful things, but
 only of sad things, unless by a great effort he turn his thoughts away from sadness.
 
-<span class="atom-split" data-atom="129" data-title="OF PRESUMPTION (FOUR ARTICLES)" data-chapter="OF PRESUMPTION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="OF PRESUMPTION (FOUR ARTICLES)" data-chapter="OF PRESUMPTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider presumption, under which head there are four points of inquiry:
 (1) What is the object in which presumption trusts?
@@ -6342,7 +6342,7 @@ We must now consider presumption, under which head there are four points of inqu
 (3) To what is it opposed?
 (4) From what vice does it arise?
 
-<span class="atom-split" data-atom="130" data-title="Whether presumption trusts in God or in our own power?" data-chapter="Whether presumption trusts in God or in our own power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="Whether presumption trusts in God or in our own power?" data-chapter="Whether presumption trusts in God or in our own power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that presumption, which is a sin against the Holy Ghost, trusts, not
 in God, but in our own power. For the lesser the power, the more grievously does he sin who trusts
@@ -6396,7 +6396,7 @@ in so far as it arises from an inordinate desire of one's own good, and aversion
 good, in as much as it ascribes to the Divine power that which is unbecoming to it, for thus man
 turns away from God's power.
 
-<span class="atom-split" data-atom="131" data-title="Whether presumption is a sin?" data-chapter="Whether presumption is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="Whether presumption is a sin?" data-chapter="Whether presumption is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that presumption is not a sin. For no sin is a reason why man should
 be heard by God. Yet, through presumption some are heard by God, for it is written (Judith 9:17):
@@ -6439,7 +6439,7 @@ with the hope of obtaining pardon some time, and with the intention of refrainin
 repenting of it, is not presumptuous, but diminishes sin, because this seems to indicate a will less
 hardened in sin.
 
-<span class="atom-split" data-atom="132" data-title="Whether presumption is more opposed to fear than to hope?" data-chapter="Whether presumption is more opposed to fear than to hope?" data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="Whether presumption is more opposed to fear than to hope?" data-chapter="Whether presumption is more opposed to fear than to hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that presumption is more opposed to fear than to hope. Because
 inordinate fear is opposed to right fear. Now presumption seems to pertain to inordinate fear, for
@@ -6489,7 +6489,7 @@ Reply to Objection 3: Presumption is opposed to fear by a generic contrariety, a
 of hope by a specific contrariety. Hence presumption excludes fear altogether even generically,
 whereas it does not exclude hope except by reason of its difference, by excluding its ordinateness.
 
-<span class="atom-split" data-atom="133" data-title="Whether presumption arises from vainglory?" data-chapter="Whether presumption arises from vainglory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Whether presumption arises from vainglory?" data-chapter="Whether presumption arises from vainglory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that presumption does not arise from vainglory. For presumption
 seems to rely most of all on the Divine mercy. Now mercy [misericordia] regards unhappiness
@@ -6518,14 +6518,14 @@ to arise directly from pride, as though man thought so much of himself as to est
 not punish him or exclude him from glory, however much he might be a sinner.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="134" data-title="OF THE PRECEPTS RELATING TO HOPE AND FEAR (TWO ARTICLES)" data-chapter="OF THE PRECEPTS RELATING TO HOPE AND FEAR (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="OF THE PRECEPTS RELATING TO HOPE AND FEAR (TWO ARTICLES)" data-chapter="OF THE PRECEPTS RELATING TO HOPE AND FEAR (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the precepts relating to hope and fear: under which head there are two
 points of inquiry:
 (1) The precepts relating to hope;
 (2) The precepts relating to fear.
 
-<span class="atom-split" data-atom="135" data-title="Whether there should be a precept of hope?" data-chapter="Whether there should be a precept of hope?" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="Whether there should be a precept of hope?" data-chapter="Whether there should be a precept of hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no precept should be given relating to the virtue of hope. For
 when an effect is sufficiently procured by one cause, there is no need to induce it by another. Now
@@ -6588,7 +6588,7 @@ dishonor their parents. And since in order to be saved it is man's duty to hope 
 induced to do so by one of the above ways, affirmatively, so to speak, wherein is implied the
 prohibition of the opposite.
 
-<span class="atom-split" data-atom="136" data-title="Whether there should have been given a precept of fear?" data-chapter="Whether there should have been given a precept of fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="Whether there should have been given a precept of fear?" data-chapter="Whether there should have been given a precept of fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, in the Law, there should not have been given a precept of
 fear. For the fear of God is about things which are a preamble to the Law, since it is the "beginning
@@ -6640,7 +6640,7 @@ which follow from them proximately or remotely.
 Reply to Objection 3: Inducement to fear suffices to exclude presumption, even as inducement
 to hope suffices to exclude despair, as stated above (A[1], ad 3).
 
-<span class="atom-split" data-atom="137" data-title="OF CHARITY, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-chapter="OF CHARITY, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="OF CHARITY, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-chapter="OF CHARITY, CONSIDERED IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In proper sequence, we must consider charity; and (1) charity itself; (2) the corresponding gift
 of wisdom. The first consideration will be fivefold: (1) Charity itself; (2) The object of charity; (3)
@@ -6656,7 +6656,7 @@ Charity, considered in its relation to its subject. Under the first head there a
 (7) Whether any true virtue is possible without it?
 (8) Whether it is the form of the virtues?
 
-<span class="atom-split" data-atom="138" data-title="Whether charity is friendship?" data-chapter="Whether charity is friendship?" data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="Whether charity is friendship?" data-chapter="Whether charity is friendship?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not [friendship](/concepts/friendship). For nothing is so appropriate to
 friendship as to dwell with one's friend, according to the Philosopher (Ethic. viii, 5). Now charity
@@ -6715,7 +6715,7 @@ virtuous man as the principal person, but for his sake we love those who belong 
 they be not virtuous: in this way charity, which above all is friendship based on the virtuous, extends
 to sinners, whom, out of charity, we love for God's sake.
 
-<span class="atom-split" data-atom="139" data-title="Whether charity is something created in the soul?" data-chapter="Whether charity is something created in the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="Whether charity is something created in the soul?" data-chapter="Whether charity is something created in the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not something created in the soul. For [Augustine](/figures/augustine)
 says (De Trin. viii, 7): "He that loveth his neighbor, consequently, loveth love itself." Now God is
@@ -6787,7 +6787,7 @@ power of the agent, who instills the form, wherefore it is evident that charity 
 because it produces an infinite effect, since, by justifying the soul, it unites it to God, this proves
 the [infinity](/concepts/infinity) of the Divine power, which is the author of charity.
 
-<span class="atom-split" data-atom="140" data-title="Whether charity is a virtue?" data-chapter="Whether charity is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="Whether charity is a virtue?" data-chapter="Whether charity is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not a virtue. For charity is a kind of [friendship](/concepts/friendship). Now
 philosophers do not reckon friendship a virtue, as may be gathered from Ethic. viii, 1; nor is it
@@ -6841,7 +6841,7 @@ higher nature is superior to its subject, in so far as it is a likeness of that 
 is superior to the diaphanous body. In this way charity is superior to the soul, in as much as it is a
 participation of the Holy Ghost.
 
-<span class="atom-split" data-atom="141" data-title="Whether charity is a special virtue?" data-chapter="Whether charity is a special virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="Whether charity is a special virtue?" data-chapter="Whether charity is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not a special virtue. For Jerome says: "Let me briefly
 define all virtue as the charity whereby we love God" [*The reference should be to [Augustine](/figures/augustine), Ep.
@@ -6883,7 +6883,7 @@ Reply to Objection 3: The precept of love is said to be a general command, becau
 precepts are reduced thereto as to their end, according to 1 Tim. 1:5: "The end of the commandment
 is charity."
 
-<span class="atom-split" data-atom="142" data-title="Whether charity is one virtue?" data-chapter="Whether charity is one virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="Whether charity is one virtue?" data-chapter="Whether charity is one virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not one virtue. For habits are distinct according to
 their objects. Now there are two objects of charity---God and our neighbor---which are infinitely
@@ -6926,7 +6926,7 @@ Reply to Objection 3: Human friendship of which the Philosopher treats has vario
 various forms of fellowship. This does not apply to charity, as stated above: wherefore the
 comparison fails.
 
-<span class="atom-split" data-atom="143" data-title="Whether charity is the most excellent of the virtues?" data-chapter="Whether charity is the most excellent of the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="Whether charity is the most excellent of the virtues?" data-chapter="Whether charity is the most excellent of the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not the most excellent of the virtues. Because the
 higher power has the higher virtue even as it has a higher operation. Now the intellect is higher
@@ -6979,7 +6979,7 @@ union with that good, whereas hope implies distance therefrom. Hence charity doe
 good as being arduous, as hope does, since what is already united has not the character of arduous:
 and this shows that charity is more perfect than hope.
 
-<span class="atom-split" data-atom="144" data-title="Whether any true virtue is possible without charity?" data-chapter="Whether any true virtue is possible without charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="144" data-title="Whether any true virtue is possible without charity?" data-chapter="Whether any true virtue is possible without charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there can be true virtue without charity. For it is proper to
 virtue to produce a good act. Now those who have not charity, do some good actions, as when they
@@ -7042,7 +7042,7 @@ Reply to Objection 3: Science and art of their very nature imply a relation to s
 good, and not to the ultimate good of human life, as do the moral virtues, which make man good
 simply, as stated above (FS, Q[56] , A[3]). Hence the comparison fails.
 
-<span class="atom-split" data-atom="145" data-title="Whether charity is the form of the virtues?" data-chapter="Whether charity is the form of the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="145" data-title="Whether charity is the form of the virtues?" data-chapter="Whether charity is the form of the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not the true form of the virtues. Because the form
 of a thing is either exemplar or essential. Now charity is not the exemplar form of the other virtues,
@@ -7084,7 +7084,7 @@ virtues to its own end. And since a mother is one who conceives within herself a
 charity is called the mother of the other virtues, because, by commanding them, it conceives the
 acts of the other virtues, by the desire of the last end.
 
-<span class="atom-split" data-atom="146" data-title="OF THE SUBJECT OF CHARITY (TWELVE ARTICLES)" data-chapter="OF THE SUBJECT OF CHARITY (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="146" data-title="OF THE SUBJECT OF CHARITY (TWELVE ARTICLES)" data-chapter="OF THE SUBJECT OF CHARITY (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider charity in relation to its subject, under which head there are twelve
 points of inquiry:
@@ -7101,7 +7101,7 @@ points of inquiry:
 (11) Whether charity can be lost after it has been possessed?
 (12) Whether it is lost through one mortal sin?
 
-<span class="atom-split" data-atom="147" data-title="Whether the will is the subject of charity?" data-chapter="Whether the will is the subject of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="147" data-title="Whether the will is the subject of charity?" data-chapter="Whether the will is the subject of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is not the subject of charity. For charity is a kind of
 love. Now, according to the Philosopher (Topic. ii, 3) love is in the concupiscible part. Therefore
@@ -7144,7 +7144,7 @@ For choice is of things directed to the end, whereas the will is of the end itse
 charity, whose object is the last end, should be described as residing in the will rather than in the
 free-will.
 
-<span class="atom-split" data-atom="148" data-title="Whether charity is caused in us by infusion?" data-chapter="Whether charity is caused in us by infusion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="148" data-title="Whether charity is caused in us by infusion?" data-chapter="Whether charity is caused in us by infusion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not caused in us by infusion. For that which is
 common to all creatures, is in man naturally. Now, according to Dionysius (Div. Nom. iv), the
@@ -7189,7 +7189,7 @@ by these things. Or again, this is said because the aforesaid acts dispose man t
 of charity. The same remark applies to the saying of [Augustine](/figures/augustine) (Tract. ix in prim. canon. Joan.):
 "Fear leads to charity," and of a gloss on Mat. 1:2: "Faith begets hope, and hope charity."
 
-<span class="atom-split" data-atom="149" data-title="Whether charity is infused according to the capacity of our natural gifts?" data-chapter="Whether charity is infused according to the capacity of our natural gifts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="149" data-title="Whether charity is infused according to the capacity of our natural gifts?" data-chapter="Whether charity is infused according to the capacity of our natural gifts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is infused according to the capacity of our natural gifts.
 For it is written (Mat. 25:15) that "He gave to every one according to his own virtue [Douay: 'proper
@@ -7240,7 +7240,7 @@ it is consistent to be sometimes in [potentiality](/concepts/act_potency) and so
 borne wholly whithersoever it is borne, and where there are greater natural gifts there may be less
 effort, and vice versa. Thus the comparison fails.
 
-<span class="atom-split" data-atom="150" data-title="Whether charity can increase?" data-chapter="Whether charity can increase?" data-kind="atom"></span>
+<span class="atom-split" data-atom="150" data-title="Whether charity can increase?" data-chapter="Whether charity can increase?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity cannot increase. For nothing increases save what has
 quantity. Now quantity is twofold, namely dimensive and virtual. The former does not befit charity
@@ -7287,7 +7287,7 @@ produce an act of more fervent love. Hence charity increases essentially, not by
 or ceasing to be in its subject, as the objection imagines, but by beginning to be more and more in
 its subject.
 
-<span class="atom-split" data-atom="151" data-title="Whether charity increases by addition?" data-chapter="Whether charity increases by addition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="151" data-title="Whether charity increases by addition?" data-chapter="Whether charity increases by addition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity increases by addition. For just as increase may be in
 respect of bodily quantity, so may it be according to virtual quantity. Now increase in bodily quantity
@@ -7368,7 +7368,7 @@ more there that previously was less there. This is what God does when He increas
 is He makes it to have a greater hold on the soul, and the likeness of the Holy Ghost to be more
 perfectly participated by the soul.
 
-<span class="atom-split" data-atom="152" data-title="Whether charity increases through every act of charity?" data-chapter="Whether charity increases through every act of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="152" data-title="Whether charity increases through every act of charity?" data-chapter="Whether charity increases through every act of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity increases through every act of charity. For that which
 can do what is more, can do what is less. But every act of charity can merit everlasting life; and
@@ -7411,7 +7411,7 @@ into act, just as when many drops hollow out a stone.
 Reply to Objection 3: Man advances in the way to God, not merely by actual increase of
 charity, but also by being disposed to that increase.
 
-<span class="atom-split" data-atom="153" data-title="Whether charity increases indefinitely?" data-chapter="Whether charity increases indefinitely?" data-kind="atom"></span>
+<span class="atom-split" data-atom="153" data-title="Whether charity increases indefinitely?" data-chapter="Whether charity increases indefinitely?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity does not increase indefinitely. For every movement is
 towards some end and term, as stated in Metaph. ii, text. 8,9. But the increase of charity is a
@@ -7466,7 +7466,7 @@ does not reach the quantity of a superficies. Now the quantity of a wayfarer's c
 the knowledge of faith is not of the same kind as the quantity of the charity of the blessed, which
 follows open vision. Hence the argument does not prove.
 
-<span class="atom-split" data-atom="154" data-title="Whether charity can be perfect in this life?" data-chapter="Whether charity can be perfect in this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="154" data-title="Whether charity can be perfect in this life?" data-chapter="Whether charity can be perfect in this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity cannot be perfect in this life. For this would have been
 the case with the apostles before all others. Yet it was not so, since the Apostle says (Phil. 3:12):
@@ -7514,7 +7514,7 @@ with that of heaven.
 Reply to Objection 3: The perfection of the way is not perfection simply, wherefore it can
 always increase.
 
-<span class="atom-split" data-atom="155" data-title="Whether charity is rightly distinguished into three degrees, beginning, progress, and perfection?" data-chapter="Whether charity is rightly distinguished into three degrees, beginning, progress, and perfection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="155" data-title="Whether charity is rightly distinguished into three degrees, beginning, progress, and perfection?" data-chapter="Whether charity is rightly distinguished into three degrees, beginning, progress, and perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting to distinguish three degrees of charity, beginning, [progress](/positions/progress),
 and perfection. For there are many degrees between the beginning of charity and its ultimate
@@ -7566,7 +7566,7 @@ but their aim is principally directed towards union with God. And though both th
 the proficient seek this, yet their solicitude is chiefly about other things, with the beginner, about
 avoiding sin, with the proficient, about progressing in virtue.
 
-<span class="atom-split" data-atom="156" data-title="Whether charity can decrease?" data-chapter="Whether charity can decrease?" data-kind="atom"></span>
+<span class="atom-split" data-atom="156" data-title="Whether charity can decrease?" data-chapter="Whether charity can decrease?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity can decrease. For contraries by their nature affect the
 same subject. Now increase and decrease are contraries. Since then charity increases, as stated
@@ -7647,7 +7647,7 @@ of the free-will is required for the safe-keeping of charity, else it would not 
 sleep. Hence charity does not decrease on account of an obstacle on the part of the intensity of the
 free-will's movement.
 
-<span class="atom-split" data-atom="157" data-title="Whether we can lose charity when once we have it?" data-chapter="Whether we can lose charity when once we have it?" data-kind="atom"></span>
+<span class="atom-split" data-atom="157" data-title="Whether we can lose charity when once we have it?" data-chapter="Whether we can lose charity when once we have it?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we cannot lose charity when once we have it. For if we lose
 it, this can only be through sin. Now he who has charity cannot sin, for it is written (1 Jn. 3:9):
@@ -7725,7 +7725,7 @@ Reply to Objection 4: Charity by reason of its act excludes every motive for sin
 happens sometimes that charity is not acting actually, and then it is possible for a motive to intervene
 for sinning, and if we consent to this motive, we lose charity.
 
-<span class="atom-split" data-atom="158" data-title="Whether charity is lost through one mortal sin?" data-chapter="Whether charity is lost through one mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="158" data-title="Whether charity is lost through one mortal sin?" data-chapter="Whether charity is lost through one mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity is not lost through one mortal sin. For Origen says
 (Peri Archon i): "When a man who has mounted to the stage of perfection, is satiated, I do not think
@@ -7812,7 +7812,7 @@ which destroy the habit of faith or of hope, even as charity is destroyed by eve
 it is evident that charity cannot remain lifeless, since it is itself the ultimate form regarding God
 under the aspect of last end as stated above (Q[23], A[8]).
 
-<span class="atom-split" data-atom="159" data-title="OF THE OBJECT OF CHARITY (TWELVE ARTICLES)" data-chapter="OF THE OBJECT OF CHARITY (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="159" data-title="OF THE OBJECT OF CHARITY (TWELVE ARTICLES)" data-chapter="OF THE OBJECT OF CHARITY (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the object of charity; which consideration will be twofold: (1) The things
 we ought to love out of charity: (2) The order in which they ought to be loved. Under the first head
@@ -7830,7 +7830,7 @@ there are twelve points of inquiry:
 (11) Whether we ought to love the demons?
 (12) How to enumerate the things we are bound to love out of charity.
 
-<span class="atom-split" data-atom="160" data-title="Whether the love of charity stops at God, or extends to our neighbor?" data-chapter="Whether the love of charity stops at God, or extends to our neighbor?" data-kind="atom"></span>
+<span class="atom-split" data-atom="160" data-title="Whether the love of charity stops at God, or extends to our neighbor?" data-chapter="Whether the love of charity stops at God, or extends to our neighbor?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the love of charity stops at God and does not extend to our
 neighbor. For as we owe God love, so do we owe Him fear, according Dt. 10:12: "And now Israel,
@@ -7885,7 +7885,7 @@ salvation, but not, to hope in man as helping us ministerially under God. In lik
 be wrong if a man loved his neighbor as though he were his last end, but not, if he loved him for
 God's sake; and this is what charity does.
 
-<span class="atom-split" data-atom="161" data-title="Whether we should love charity out of charity?" data-chapter="Whether we should love charity out of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="161" data-title="Whether we should love charity out of charity?" data-chapter="Whether we should love charity out of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity need not be loved out of charity. For the things to be
 loved out of charity are contained in the two precepts of charity (Mat. 22:37-39): and neither of
@@ -7928,7 +7928,7 @@ at happiness: hence it is loved as the good which we desire for all whom we love
 Reply to Objection 3: This argument considers friendship as referred to those with whom we
 are friends.
 
-<span class="atom-split" data-atom="162" data-title="Whether irrational creatures also ought to be loved out of charity?" data-chapter="Whether irrational creatures also ought to be loved out of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="162" data-title="Whether irrational creatures also ought to be loved out of charity?" data-chapter="Whether irrational creatures also ought to be loved out of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that irrational creatures also ought to be loved out of charity. For
 it is chiefly by charity that we are conformed to God. Now God loves irrational creatures out of
@@ -7977,7 +7977,7 @@ Reply to Objection 3: Faith can extend to all that is in any way true, whereas t
 of charity extends only to such things as have a natural capacity for everlasting life; wherefore the
 comparison fails.
 
-<span class="atom-split" data-atom="163" data-title="Whether a man ought to love himself out of charity?" data-chapter="Whether a man ought to love himself out of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="163" data-title="Whether a man ought to love himself out of charity?" data-chapter="Whether a man ought to love himself out of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man is bound to love himself out of charity. For Gregory
 says in a homily (In Evang. xvii) that there "can be no charity between less than two." Therefore
@@ -8018,7 +8018,7 @@ themselves as regards their sensitive nature, which they humor. This is not to l
 according to one's rational nature, so as to desire for oneself the good things which pertain to the
 perfection of reason: and in this way chiefly it is through charity that a man loves himself.
 
-<span class="atom-split" data-atom="164" data-title="Whether a man ought to love his body out of charity?" data-chapter="Whether a man ought to love his body out of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="164" data-title="Whether a man ought to love his body out of charity?" data-chapter="Whether a man ought to love his body out of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man ought not to love his body out of charity. For we do not
 love one with whom we are unwilling to associate. But those who have charity shun the society of
@@ -8062,7 +8062,7 @@ since the body has, in a fashion, a share of happiness, it can be loved with the
 Reply to Objection 3: Mutual love is found in the friendship which is for another, but not in
 that which a man has for himself, either in respect of his soul, or in respect of his body.
 
-<span class="atom-split" data-atom="165" data-title="Whether we ought to love sinners out of charity?" data-chapter="Whether we ought to love sinners out of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="165" data-title="Whether we ought to love sinners out of charity?" data-chapter="Whether we ought to love sinners out of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we ought not to love sinners out of charity. For it is written
 (Ps. 118:113): "I have hated the unjust." But David had perfect charity. Therefore sinners should
@@ -8142,7 +8142,7 @@ did Our Lord eat and drink with sinners as related by Mat. 9:11-13. Yet all shou
 of sinners, as regards fellowship in sin; in this sense it is written (2 Cor. 6:17): "Go out from among
 them . . . and touch not the unclean thing," i.e. by consenting to sin.
 
-<span class="atom-split" data-atom="166" data-title="Whether sinners love themselves?" data-chapter="Whether sinners love themselves?" data-kind="atom"></span>
+<span class="atom-split" data-atom="166" data-title="Whether sinners love themselves?" data-chapter="Whether sinners love themselves?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sinners love themselves. For that which is the principle of sin,
 is most of all in the sinner. Now love of self is the principle of sin, since [Augustine](/figures/augustine) says (De Civ.
@@ -8201,7 +8201,7 @@ Reply to Objection 3: The wicked have some share of self-love, in so far as they
 themselves good. Yet such love of self is not true but apparent: and even this is not possible in
 those who are very wicked.
 
-<span class="atom-split" data-atom="167" data-title="Whether charity requires that we should love our enemies?" data-chapter="Whether charity requires that we should love our enemies?" data-kind="atom"></span>
+<span class="atom-split" data-atom="167" data-title="Whether charity requires that we should love our enemies?" data-chapter="Whether charity requires that we should love our enemies?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity does not require us to love our enemies. For [Augustine](/figures/augustine)
 says (Enchiridion lxxiii) that "this great good," namely, the love of our enemies, is "not so universal
@@ -8246,7 +8246,7 @@ such that we are bound to love them.
 Reply to Objection 3: It is wrong to love one's enemies as such: charity does not do this, as
 stated above.
 
-<span class="atom-split" data-atom="168" data-title="Whether it is necessary for salvation that we should show our enemies the signs and effects of love?" data-chapter="Whether it is necessary for salvation that we should show our enemies the signs and effects of love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="168" data-title="Whether it is necessary for salvation that we should show our enemies the signs and effects of love?" data-chapter="Whether it is necessary for salvation that we should show our enemies the signs and effects of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that charity demands of a man to show his enemy the signs or
 effects of love. For it is written (1 Jn. 3:18): "Let us not love in word nor in tongue, but in deed and
@@ -8290,7 +8290,7 @@ hatred on account of the hurt done to us, but purpose to induce our enemy to lov
 our kindliness.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="169" data-title="Whether we ought to love the angels out of charity?" data-chapter="Whether we ought to love the angels out of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="169" data-title="Whether we ought to love the angels out of charity?" data-chapter="Whether we ought to love the angels out of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we are not bound to love the angels out of charity. For, as
 [Augustine](/figures/augustine) says (De Doctr. Christ. i), charity is a twofold love: the love of God and of our neighbor.
@@ -8327,7 +8327,7 @@ Reply to Objection 3: The companionship of the angels does not consist in outwar
 which we have in respect of our sensitive nature; it consists in a fellowship of the mind, imperfect
 indeed in this life, but perfect in heaven, as stated above (Q[23], A[1], ad 1).
 
-<span class="atom-split" data-atom="170" data-title="Whether we are bound to love the demons out of charity?" data-chapter="Whether we are bound to love the demons out of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="170" data-title="Whether we are bound to love the demons out of charity?" data-chapter="Whether we are bound to love the demons out of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we ought to love the demons out of charity. For the angels are
 our neighbors by reason of their fellowship with us in a rational mind. But the demons also share
@@ -8377,7 +8377,7 @@ Reply to Objection 3: That the demons are useful to us is due not to their inten
 ordering of Divine providence; hence this leads us to be friends, not with them, but with God, Who
 turns their perverse intention to our profit.
 
-<span class="atom-split" data-atom="171" data-title="Whether four things are rightly reckoned as to be loved out of charity, viz. God, our neighbor, our body and ourselves?" data-chapter="Whether four things are rightly reckoned as to be loved out of charity, viz. God, our neighbor, our body and ourselves?" data-kind="atom"></span>
+<span class="atom-split" data-atom="171" data-title="Whether four things are rightly reckoned as to be loved out of charity, viz. God, our neighbor, our body and ourselves?" data-chapter="Whether four things are rightly reckoned as to be loved out of charity, viz. God, our neighbor, our body and ourselves?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that these four things are not rightly reckoned as to be loved out
 of charity, to wit: God, our neighbor, our body, and ourselves. For, as [Augustine](/figures/augustine) states (Tract. super
@@ -8423,7 +8423,7 @@ Reply to Objection 3: Man loves his neighbor, both as to his soul and as to his 
 of a certain fellowship in happiness. Wherefore, on the part of his neighbor, there is only one reason
 for loving him; and our neighbor's body is not reckoned as a special object of love.
 
-<span class="atom-split" data-atom="172" data-title="OF THE ORDER OF CHARITY (THIRTEEN ARTICLES)" data-chapter="OF THE ORDER OF CHARITY (THIRTEEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="172" data-title="OF THE ORDER OF CHARITY (THIRTEEN ARTICLES)" data-chapter="OF THE ORDER OF CHARITY (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the order of charity, under which head there are thirteen points of inquiry:
 (1) Whether there is an order in charity?
@@ -8442,7 +8442,7 @@ him by other ties?
 (12) Whether we ought to love those who are kind to us more than those whom we are kind to?
 (13) Whether the order of charity endures in heaven?
 
-<span class="atom-split" data-atom="173" data-title="Whether there is order in charity?" data-chapter="Whether there is order in charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="173" data-title="Whether there is order in charity?" data-chapter="Whether there is order in charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no order in charity. For charity is a virtue. But no order
 is assigned to the other virtues. Neither, therefore, should any order be assigned to charity.
@@ -8482,7 +8482,7 @@ about things referred to God.
 Reply to Objection 3: Order belongs to reason as the faculty that orders, and to the appetitive
 power as to the faculty which is ordered. It is in this way that order is stated to be in charity.
 
-<span class="atom-split" data-atom="174" data-title="Whether God ought to be loved more than our neighbor?" data-chapter="Whether God ought to be loved more than our neighbor?" data-kind="atom"></span>
+<span class="atom-split" data-atom="174" data-title="Whether God ought to be loved more than our neighbor?" data-chapter="Whether God ought to be loved more than our neighbor?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God ought not to be loved more than our neighbor. For it is
 written (1 Jn. 4:20): "He that loveth not his brother whom he seeth, how can he love God, Whom
@@ -8536,7 +8536,7 @@ Reply to Objection 3: Considered in His substance, God is equally in all, in who
 may be, for He is not lessened by being in anything. And yet our neighbor does not possess God's
 goodness equally with God, for God has it essentially, and our neighbor by participation.
 
-<span class="atom-split" data-atom="175" data-title="Whether out of charity, man is bound to love God more than himself?" data-chapter="Whether out of charity, man is bound to love God more than himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="175" data-title="Whether out of charity, man is bound to love God more than himself?" data-chapter="Whether out of charity, man is bound to love God more than himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man is not bound, out of charity, to love God more than himself.
 For the Philosopher says (Ethic. ix, 8) that "a man's friendly relations with others arise from his
@@ -8585,7 +8585,7 @@ love of concupiscence. Now we love God with the love of friendship more than wit
 concupiscence, because the Divine good is greater in itself, than our share of good in enjoying Him.
 Hence, out of charity, man simply loves God more than himself.
 
-<span class="atom-split" data-atom="176" data-title="Whether our of charity, man ought to love himself more than his neighbor?" data-chapter="Whether our of charity, man ought to love himself more than his neighbor?" data-kind="atom"></span>
+<span class="atom-split" data-atom="176" data-title="Whether our of charity, man ought to love himself more than his neighbor?" data-chapter="Whether our of charity, man ought to love himself more than his neighbor?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man ought not, out of charity, to love himself more than his
 neighbor. For the principal object of charity is God, as stated above (A[2]; Q[25], AA[1],12). Now
@@ -8636,7 +8636,7 @@ her own,' means that it prefers the common to the private good." Now the common 
 more lovable to the individual than his private good, even as the good of the whole is more lovable
 to the part, than the latter's own partial good, as stated above (A[3]).
 
-<span class="atom-split" data-atom="177" data-title="Whether a man ought to love his neighbor more than his own body?" data-chapter="Whether a man ought to love his neighbor more than his own body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="177" data-title="Whether a man ought to love his neighbor more than his own body?" data-chapter="Whether a man ought to love his neighbor more than his own body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man is not bound to love his neighbor more than his own
 body. For his neighbor includes his neighbor's body. If therefore a man ought to love his neighbor
@@ -8676,7 +8676,7 @@ necessarily require a man to imperil his own body for his neighbor's welfare, ex
 he is under obligation to do so and if a man of his own accord offer himself for that purpose, this
 belongs to the perfection of charity.
 
-<span class="atom-split" data-atom="178" data-title="Whether we ought to love one neighbor more than another?" data-chapter="Whether we ought to love one neighbor more than another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="178" data-title="Whether we ought to love one neighbor more than another?" data-chapter="Whether we ought to love one neighbor more than another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we ought not to love one neighbor more than another. For
 [Augustine](/figures/augustine) says (De Doctr. Christ. i, 28): "One ought to love all men equally. Since, however, one
@@ -8736,7 +8736,7 @@ those who are not so near to Him.
 Reply to Objection 3: This argument considers the quantity of love on the part of the good
 which we wish our friends.
 
-<span class="atom-split" data-atom="179" data-title="Whether we ought to love those who are better more those who are more closely united us?" data-chapter="Whether we ought to love those who are better more those who are more closely united us?" data-kind="atom"></span>
+<span class="atom-split" data-atom="179" data-title="Whether we ought to love those who are better more those who are more closely united us?" data-chapter="Whether we ought to love those who are better more those who are more closely united us?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we ought to love those who are better more than those who
 are more closely united to us. For that which is in no way hateful seems more lovable than that
@@ -8810,7 +8810,7 @@ Reply to Objection 3: Charity elicits the act of love not only as regards the ob
 regards the lover, as stated above. The result is that the man who is more nearly united to us is more
 loved.
 
-<span class="atom-split" data-atom="180" data-title="Whether we ought to love more those who are connected with us by ties of blood?" data-chapter="Whether we ought to love more those who are connected with us by ties of blood?" data-kind="atom"></span>
+<span class="atom-split" data-atom="180" data-title="Whether we ought to love more those who are connected with us by ties of blood?" data-chapter="Whether we ought to love more those who are connected with us by ties of blood?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we ought not to love more those who are more closely united
 to us by ties of blood. For it is written (Prov. 18:24): "A man amiable in society, shall be more
@@ -8871,7 +8871,7 @@ Reply to Objection 3: The fact that in the battle a man obeys his officer rather
 proves, that he loves his father less, not simply relatively, i.e. as regards the love which is based
 on fellowship in battle.
 
-<span class="atom-split" data-atom="181" data-title="Whether a man ought, out of charity, to love his children more than his father?" data-chapter="Whether a man ought, out of charity, to love his children more than his father?" data-kind="atom"></span>
+<span class="atom-split" data-atom="181" data-title="Whether a man ought, out of charity, to love his children more than his father?" data-chapter="Whether a man ought, out of charity, to love his children more than his father?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a man ought, out of charity, to love his children more than his father.
 For we ought to love those more to whom we are more bound to do good. Now we are more bound
@@ -8921,7 +8921,7 @@ properly to the father to receive honor from his children, and to the children t
 parents with what is good for them. Nevertheless in cases of necessity the child is bound out of the
 favors received to provide for his parents before all.
 
-<span class="atom-split" data-atom="182" data-title="Whether a man ought to love his mother more than his father?" data-chapter="Whether a man ought to love his mother more than his father?" data-kind="atom"></span>
+<span class="atom-split" data-atom="182" data-title="Whether a man ought to love his mother more than his father?" data-chapter="Whether a man ought to love his mother more than his father?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man ought to love his mother more than his father. For, as
 the Philosopher says (De Gener. Animal. i, 20), "the female produces the body in generation." Now
@@ -8964,7 +8964,7 @@ we are speaking of here, is that which a man owes his father and mother through 
 of them.
 The Reply to the Third Objection is evident.
 
-<span class="atom-split" data-atom="183" data-title="Whether a man ought to love his wife more than his father and mother?" data-chapter="Whether a man ought to love his wife more than his father and mother?" data-kind="atom"></span>
+<span class="atom-split" data-atom="183" data-title="Whether a man ought to love his wife more than his father and mother?" data-chapter="Whether a man ought to love his wife more than his father and mother?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man ought to love his wife more than his father and mother.
 For no man leaves a thing for another unless he love the latter more. Now it is written (Gn. 2:24)
@@ -9010,7 +9010,7 @@ As to the argument in the contrary sense, it must be observed that in the words 
 particle "as" denotes not equality of love but the motive of love. For the principal reason why a
 man loves his wife is her being united to him in the flesh.
 
-<span class="atom-split" data-atom="184" data-title="Whether a man ought to love more his benefactor than one he has benefited?" data-chapter="Whether a man ought to love more his benefactor than one he has benefited?" data-kind="atom"></span>
+<span class="atom-split" data-atom="184" data-title="Whether a man ought to love more his benefactor than one he has benefited?" data-chapter="Whether a man ought to love more his benefactor than one he has benefited?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man ought to love his benefactor more than one he has
 benefited. For [Augustine](/figures/augustine) says (De Catech. Rud. iv): "Nothing will incite another more to love you
@@ -9067,7 +9067,7 @@ more than these love them. Yet it does not follow that we love all who have rece
 us, more than any of our benefactors. For we prefer such benefactors as God and our parents, from
 whom we have received the greatest favors, to those on whom we have bestowed lesser benefits.
 
-<span class="atom-split" data-atom="185" data-title="Whether the order of charity endures in heaven?" data-chapter="Whether the order of charity endures in heaven?" data-kind="atom"></span>
+<span class="atom-split" data-atom="185" data-title="Whether the order of charity endures in heaven?" data-chapter="Whether the order of charity endures in heaven?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the order of charity does not endure in heaven. For [Augustine](/figures/augustine)
 says (De Vera Relig. xlviii): "Perfect charity consists in loving greater goods more, and lesser goods
@@ -9131,7 +9131,7 @@ entire good. For if we make the impossible supposition that God were not man's g
 not be man's reason for loving. Hence it is that in the order of love man should love himself more
 than all else after God.
 
-<span class="atom-split" data-atom="186" data-title="OF THE PRINCIPLE ACT OF CHARITY, WHICH IS TO LOVE (EIGHT ARTICLES)" data-chapter="OF THE PRINCIPLE ACT OF CHARITY, WHICH IS TO LOVE (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="186" data-title="OF THE PRINCIPLE ACT OF CHARITY, WHICH IS TO LOVE (EIGHT ARTICLES)" data-chapter="OF THE PRINCIPLE ACT OF CHARITY, WHICH IS TO LOVE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the act of charity, and (1) the principal act of charity, which is to love,
 (2) the other acts or effects which follow from that act.
@@ -9145,7 +9145,7 @@ Under the first head there are eight points of inquiry:
 (7) Which is the better, to love one's friend, or one's enemy? (8) Which is the better, to love
 God, or one's neighbor?
 
-<span class="atom-split" data-atom="187" data-title="Whether to be loved is more proper to charity than to love?" data-chapter="Whether to be loved is more proper to charity than to love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="187" data-title="Whether to be loved is more proper to charity than to love?" data-chapter="Whether to be loved is more proper to charity than to love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is more proper to charity to be loved than to love. For the
 better charity is to be found in those who are themselves better. But those who are better should be
@@ -9193,7 +9193,7 @@ wish to be loved.
 Reply to Objection 3: Some love on account of being loved, not so that to be loved is the end
 of their loving, but because it is a kind of way leading a man to love.
 
-<span class="atom-split" data-atom="188" data-title="Whether to love considered as an act of charity is the same as goodwill?" data-chapter="Whether to love considered as an act of charity is the same as goodwill?" data-kind="atom"></span>
+<span class="atom-split" data-atom="188" data-title="Whether to love considered as an act of charity is the same as goodwill?" data-chapter="Whether to love considered as an act of charity is the same as goodwill?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to love, considered as an act of charity, is nothing else than
 goodwill. For the Philosopher says (Rhet. ii, 4) that "to love is to wish a person well"; and this is
@@ -9243,7 +9243,7 @@ they arise from a man's love for himself, as he says in the same passage, in so 
 these things in respect of his friend, even as he does them to himself: and this belongs to the aforesaid
 union of the affections.
 
-<span class="atom-split" data-atom="189" data-title="Whether out of charity God ought to be loved for Himself?" data-chapter="Whether out of charity God ought to be loved for Himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="189" data-title="Whether out of charity God ought to be loved for Himself?" data-chapter="Whether out of charity God ought to be loved for Himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God is loved out of charity, not for Himself but for the sake
 of something else. For Gregory says in a homily (In Evang. xi): "The soul learns from the things
@@ -9297,7 +9297,7 @@ the Saviour of the world."
 Reply to Objection 3: Hope and fear lead to charity by way of a certain disposition, as was
 shown above (Q[17], A[8]; Q[19], AA[4],7,10).
 
-<span class="atom-split" data-atom="190" data-title="Whether God can be loved immediately in this life?" data-chapter="Whether God can be loved immediately in this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="190" data-title="Whether God can be loved immediately in this life?" data-chapter="Whether God can be loved immediately in this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot be loved immediately in this life. For the "unknown
 cannot be loved" as [Augustine](/figures/augustine) says (De Trin. x, 1). Now we do not know God immediately in this
@@ -9380,7 +9380,7 @@ is finite.
 This suffices for the Replies to the Objections, because the first three objections consider the
 question in this third sense, while the last takes it in the second sense.
 
-<span class="atom-split" data-atom="191" data-title="Whether in loving God we ought to observe any mode?" data-chapter="Whether in loving God we ought to observe any mode?" data-kind="atom"></span>
+<span class="atom-split" data-atom="191" data-title="Whether in loving God we ought to observe any mode?" data-chapter="Whether in loving God we ought to observe any mode?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we ought to observe some mode in loving God. For the notion
 of good consists in mode, species and order, as [Augustine](/figures/augustine) states (De Nat. Boni iii, iv). Now the
@@ -9440,7 +9440,7 @@ since man's ultimate good consists in his soul cleaving to God, according to Ps.
 for me to adhere to my God"; whereas the exterior acts are as means to the end, and so have to be
 measured both according to charity and according to reason.
 
-<span class="atom-split" data-atom="192" data-title="Whether it is more meritorious to love an enemy than to love a friend?" data-chapter="Whether it is more meritorious to love an enemy than to love a friend?" data-kind="atom"></span>
+<span class="atom-split" data-atom="192" data-title="Whether it is more meritorious to love an enemy than to love a friend?" data-chapter="Whether it is more meritorious to love an enemy than to love a friend?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem more meritorious to love an enemy than to love a friend. For it is
 written (Mat. 5:46): "If you love them that love you, what reward shall you have?" Therefore it is
@@ -9493,7 +9493,7 @@ The Reply to the other Objections is evident from what has been said in the arti
 two arguments that follow consider the reason for loving, while the last considers the question on
 the part of those who are loved.
 
-<span class="atom-split" data-atom="193" data-title="Whether it is more meritorious to love one's neighbor than to love God?" data-chapter="Whether it is more meritorious to love one's neighbor than to love God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="193" data-title="Whether it is more meritorious to love one's neighbor than to love God?" data-chapter="Whether it is more meritorious to love one's neighbor than to love God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is more meritorious to love one's neighbor than to love God.
 For the more meritorious thing would seem to be what the Apostle preferred. Now the Apostle
@@ -9544,7 +9544,7 @@ Reply to Objection 3: The "good" has, more than the "difficult," to do with the 
 and virtue. Therefore it does not follow that whatever is more difficult is more meritorious, but
 only what is more difficult, and at the same time better.
 
-<span class="atom-split" data-atom="194" data-title="OF JOY (FOUR ARTICLES)" data-chapter="OF JOY (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="194" data-title="OF JOY (FOUR ARTICLES)" data-chapter="OF JOY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 WE must now consider the effects which result from the principal act of charity which is love,
 and (1) the interior effects, (2) the exterior effects. As to the first, three things have to be considered:
@@ -9555,7 +9555,7 @@ Under the first head there are four points of inquiry:
 (3) Whether this joy can be full?
 (4) Whether it is a virtue?
 
-<span class="atom-split" data-atom="195" data-title="Whether joy is effected in us by charity?" data-chapter="Whether joy is effected in us by charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="195" data-title="Whether joy is effected in us by charity?" data-chapter="Whether joy is effected in us by charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that joy is not effected in us by charity. For the absence of what
 we love causes sorrow rather than joy. But God, Whom we love by charity, is absent from us, so
@@ -9603,7 +9603,7 @@ by us. The former joy is the better, and proceeds from charity chiefly: while th
 from hope also, whereby we look forward to enjoy the Divine good, although this enjoyment itself,
 whether perfect or imperfect, is obtained according to the measure of one's charity.
 
-<span class="atom-split" data-atom="196" data-title="Whether the spiritual joy, which results from charity, is compatible with an admixture of sorrow?" data-chapter="Whether the spiritual joy, which results from charity, is compatible with an admixture of sorrow?" data-kind="atom"></span>
+<span class="atom-split" data-atom="196" data-title="Whether the spiritual joy, which results from charity, is compatible with an admixture of sorrow?" data-chapter="Whether the spiritual joy, which results from charity, is compatible with an admixture of sorrow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the spiritual joy that results from charity is compatible with
 an admixture of sorrow. For it belongs to charity to rejoice in our neighbor's good, according to 1
@@ -9648,7 +9648,7 @@ Divine good, by knowledge and love, yet the unhappiness of this life is an obsta
 participation in the Divine good: hence this very sorrow, whereby a man grieves for the delay of
 glory, is connected with the hindrance to a participation of the Divine good.
 
-<span class="atom-split" data-atom="197" data-title="Whether the spiritual joy which proceeds from charity, can be filled?" data-chapter="Whether the spiritual joy which proceeds from charity, can be filled?" data-kind="atom"></span>
+<span class="atom-split" data-atom="197" data-title="Whether the spiritual joy which proceeds from charity, can be filled?" data-chapter="Whether the spiritual joy which proceeds from charity, can be filled?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the spiritual joy which proceeds from charity cannot be filled.
 For the more we rejoice in God, the more is our joy in Him filled. But we can never rejoice in Him
@@ -9701,7 +9701,7 @@ known, so that it is known as much as it can be. There is however a fulness of k
 of the knower, just as we have said of joy. Wherefore the Apostle says (Col. 1:9): "That you may
 be filled with the knowledge of His will, in all wisdom and spiritual understanding."
 
-<span class="atom-split" data-atom="198" data-title="Whether joy is a virtue?" data-chapter="Whether joy is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="198" data-title="Whether joy is a virtue?" data-chapter="Whether joy is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that joy is a virtue. For vice is contrary to virtue. Now sorrow is
 set down as a vice, as in the case of sloth and envy. Therefore joy also should be accounted a virtue.
@@ -9742,7 +9742,7 @@ cause a special virtue.
 Reply to Objection 3: The Law prescribes joy, as being an act of charity, albeit not its first
 act.
 
-<span class="atom-split" data-atom="199" data-title="OF PEACE (FOUR ARTICLES)" data-chapter="OF PEACE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="199" data-title="OF PEACE (FOUR ARTICLES)" data-chapter="OF PEACE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider Peace, under which head there are four points of inquiry:
 (1) Whether peace is the same as concord?
@@ -9750,7 +9750,7 @@ We must now consider Peace, under which head there are four points of inquiry:
 (3) Whether peace is an effect of charity?
 (4) Whether peace is a virtue?
 
-<span class="atom-split" data-atom="200" data-title="Whether peace is the same as concord?" data-chapter="Whether peace is the same as concord?" data-kind="atom"></span>
+<span class="atom-split" data-atom="200" data-title="Whether peace is the same as concord?" data-chapter="Whether peace is the same as concord?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that peace is the same as concord. For [Augustine](/figures/augustine) says (De Civ.
 Dei xix, 13): "Peace among men is well ordered concord." Now we are speaking here of no other
@@ -9800,7 +9800,7 @@ Reply to Objection 3: A twofold dissension is opposed to peace, namely dissensio
 a man and himself, and dissension between one man and another. The latter alone is opposed to
 concord.
 
-<span class="atom-split" data-atom="201" data-title="Whether all things desire peace?" data-chapter="Whether all things desire peace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="201" data-title="Whether all things desire peace?" data-chapter="Whether all things desire peace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all things desire peace. For, according to Dionysius (Div.
 Nom. xi), peace "unites consent." But there cannot be unity of consent in things which are devoid
@@ -9858,7 +9858,7 @@ placed peace in thy borders." The other is imperfect peace, which may be had in 
 though the chief movement of the soul finds rest in God, yet there are certain things within and
 without which disturb the peace.
 
-<span class="atom-split" data-atom="202" data-title="Whether peace is the proper effect of charity?" data-chapter="Whether peace is the proper effect of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="202" data-title="Whether peace is the proper effect of charity?" data-chapter="Whether peace is the proper effect of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that peace is not the proper effect of charity. For one cannot have
 charity without sanctifying grace. But some have peace who have not sanctifying grace, thus
@@ -9908,7 +9908,7 @@ obstacles to peace: but it is the work of charity directly, since charity, accor
 causes peace. For love is "a unitive force" as Dionysius says (Div. Nom. iv): and peace is the union
 of the appetite's inclinations.
 
-<span class="atom-split" data-atom="203" data-title="Whether peace is a virtue?" data-chapter="Whether peace is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="203" data-title="Whether peace is a virtue?" data-chapter="Whether peace is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that peace is a virtue. For nothing is a matter of precept, unless it
 be an act of virtue. But there are precepts about keeping peace, for example: "Have peace among
@@ -9951,7 +9951,7 @@ We must now go on to consider Mercy, under which head there are four points of i
 (3) Whether mercy is a virtue?
 (4) Whether it is the greatest of virtues?
 
-<span class="atom-split" data-atom="204" data-title="Whether evil is properly the motive of mercy?" data-chapter="Whether evil is properly the motive of mercy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="204" data-title="Whether evil is properly the motive of mercy?" data-chapter="Whether evil is properly the motive of mercy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, properly speaking, evil is not the motive of mercy. For, as
 shown above (Q[19], A[1]; FS, Q[79], A[1], ad 4; FP, Q[48] , A[6]), fault is an evil rather than
@@ -10013,7 +10013,7 @@ sorrow arise from the prospect or the recollection of evil things; though not so
 are present to the senses. Hence the signs of evil move us to pity, in so far as they represent as
 present, the evil that excites our pity.
 
-<span class="atom-split" data-atom="205" data-title="Whether the reason for taking pity is a defect in the person who pities?" data-chapter="Whether the reason for taking pity is a defect in the person who pities?" data-kind="atom"></span>
+<span class="atom-split" data-atom="205" data-title="Whether the reason for taking pity is a defect in the person who pities?" data-chapter="Whether the reason for taking pity is a defect in the person who pities?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the reason for taking pity is not a defect in the person who
 takes pity. For it is proper to God to be merciful, wherefore it is written (Ps. 144:9): "His tender
@@ -10069,7 +10069,7 @@ For the same reason the proud are without pity, because they despise others, and
 so that they account them as suffering deservedly whatever they suffer. Hence Gregory says (Hom.
 in Evang. xxxiv) that "false godliness," i.e. of the proud, "is not compassionate but disdainful."
 
-<span class="atom-split" data-atom="206" data-title="Whether mercy is a virtue?" data-chapter="Whether mercy is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="206" data-title="Whether mercy is a virtue?" data-chapter="Whether mercy is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that mercy is not a virtue. For the chief part of virtue is choice as
 the Philosopher states (Ethic. ii, 5). Now choice is "the desire of what has been already counselled"
@@ -10131,7 +10131,7 @@ character" (Rhet. ii, 9). Now the Philosopher proposes these means not as virtue
 because, even as passions, they are praiseworthy. Yet nothing prevents them from proceeding from
 some elective [habit](/concepts/custom), in which case they assume the character of a virtue.
 
-<span class="atom-split" data-atom="207" data-title="Whether mercy is the greatest of the virtues?" data-chapter="Whether mercy is the greatest of the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="207" data-title="Whether mercy is the greatest of the virtues?" data-chapter="Whether mercy is the greatest of the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that mercy is the greatest of the virtues. For the [worship](/concepts/religion) of God
 seems a most virtuous act. But mercy is preferred before the worship of God, according to Osee
@@ -10180,7 +10180,7 @@ both love and mercy for our neighbor.
 Reply to Objection 3: Charity likens us to God by uniting us to Him in the bond of love:
 wherefore it surpasses mercy, which likens us to God as regards similarity of works.
 
-<span class="atom-split" data-atom="208" data-title="OF BENEFICENCE (FOUR ARTICLES)" data-chapter="OF BENEFICENCE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="208" data-title="OF BENEFICENCE (FOUR ARTICLES)" data-chapter="OF BENEFICENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the outward acts or effects of charity, (1) Beneficence, (2) Almsdeeds,
 which are a part of beneficence, (3) Fraternal correction, which is a kind of alms.
@@ -10190,7 +10190,7 @@ Under the first head there are four points of inquiry:
 (3) Whether we ought to be more beneficent to those who are more closely united to us?
 (4) Whether beneficence is a special virtue?
 
-<span class="atom-split" data-atom="209" data-title="Whether beneficence is an act of charity?" data-chapter="Whether beneficence is an act of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="209" data-title="Whether beneficence is an act of charity?" data-chapter="Whether beneficence is an act of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that beneficence is not an act of charity. For charity is chiefly
 directed to God. Now we cannot benefit God, according to Job 35:7: "What shalt thou give Him?
@@ -10237,7 +10237,7 @@ Reply to Objection 3: Just as friendship or charity sees, in the benefit bestowe
 aspect of good, so does justice see therein the aspect of debt, while pity considers the relieving of
 distress or defect.
 
-<span class="atom-split" data-atom="210" data-title="Whether we ought to do good to all?" data-chapter="Whether we ought to do good to all?" data-kind="atom"></span>
+<span class="atom-split" data-atom="210" data-title="Whether we ought to do good to all?" data-chapter="Whether we ought to do good to all?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we are not bound to do good to all. For [Augustine](/figures/augustine) says (De
 Doctr. Christ. i, 28) that we "are unable to do good to everyone." Now virtue does not incline one
@@ -10279,7 +10279,7 @@ urgent need of succor lest it fail, we are bound to help them: for instance, if 
 death through hunger or thirst, or suffer some like distress, unless this be according to the order of
 justice.
 
-<span class="atom-split" data-atom="211" data-title="Whether we ought to do good to those rather who are more closely united to us?" data-chapter="Whether we ought to do good to those rather who are more closely united to us?" data-kind="atom"></span>
+<span class="atom-split" data-atom="211" data-title="Whether we ought to do good to those rather who are more closely united to us?" data-chapter="Whether we ought to do good to those rather who are more closely united to us?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we are nor bound to do good to those rather who are more
 closely united to us. For it is written (Lk. 14:12): "When thou makest a dinner or a supper, call not
@@ -10365,7 +10365,7 @@ urgency it would be lawful to abandon one's children rather than one's parents, 
 it is by no means lawful, on account of the obligation we lie under towards them for the benefits
 we have received from them, as the Philosopher states (Ethic. iii, 14).
 
-<span class="atom-split" data-atom="212" data-title="Whether beneficence is a special virtue?" data-chapter="Whether beneficence is a special virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="212" data-title="Whether beneficence is a special virtue?" data-chapter="Whether beneficence is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that beneficence is a special virtue. For precepts are directed to
 virtue, since lawgivers purpose to make men virtuous (Ethic. i 9,13; ii, 1). Now beneficence and
@@ -10399,7 +10399,7 @@ aspects of good or of evil, they are to be traced to certain special virtues or 
 also there are various kinds of benefits.
 Hence the Reply to the Third Objection is evident.
 
-<span class="atom-split" data-atom="213" data-title="OF ALMSDEEDS (TEN ARTICLES)" data-chapter="OF ALMSDEEDS (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="213" data-title="OF ALMSDEEDS (TEN ARTICLES)" data-chapter="OF ALMSDEEDS (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider almsdeeds, under which head there are ten points of inquiry:
 (1) Whether almsgiving is an act of charity?
@@ -10413,7 +10413,7 @@ We must now consider almsdeeds, under which head there are ten points of inquiry
 (9) To whom should we give alms?
 (10) How should alms be given ?
 
-<span class="atom-split" data-atom="214" data-title="Whether almsgiving is an act of charity?" data-chapter="Whether almsgiving is an act of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="214" data-title="Whether almsgiving is an act of charity?" data-chapter="Whether almsgiving is an act of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that almsgiving is not an act of charity. For without charity one
 cannot do acts of charity. Now it is possible to give alms without having charity, according to 1
@@ -10466,7 +10466,7 @@ Reply to Objection 4: Almsgiving belongs to liberality, in so far as liberality 
 obstacle to that act, which might arise from excessive love of riches, the result of which is that one
 clings to them more than one ought.
 
-<span class="atom-split" data-atom="215" data-title="Whether the different kinds of almsdeeds are suitably enumerated?" data-chapter="Whether the different kinds of almsdeeds are suitably enumerated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="215" data-title="Whether the different kinds of almsdeeds are suitably enumerated?" data-chapter="Whether the different kinds of almsdeeds are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the different kinds of almsdeeds are unsuitably enumerated.
 For we reckon seven corporal almsdeeds, namely, to feed the hungry, to give drink to the thirsty,
@@ -10565,7 +10565,7 @@ ought to know, and it is a part of almsgiving to supply this defect by instructi
 however we should observe the due circumstances of persons, place and time, even as in other
 virtuous acts.
 
-<span class="atom-split" data-atom="216" data-title="Whether corporal alms are of more account than spiritual alms?" data-chapter="Whether corporal alms are of more account than spiritual alms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="216" data-title="Whether corporal alms are of more account than spiritual alms?" data-chapter="Whether corporal alms are of more account than spiritual alms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that corporal alms are of more account than spiritual alms. For it
 is more praiseworthy to give an alms to one who is in greater want, since an almsdeed is to be
@@ -10622,7 +10622,7 @@ of gaining corporal goods.
 Reply to Objection 3: The merit of an almsgiver depends on that in which the will of the
 recipient rests reasonably, and not on that in which it rests when it is inordinate.
 
-<span class="atom-split" data-atom="217" data-title="Whether corporal almsdeeds have a spiritual effect?" data-chapter="Whether corporal almsdeeds have a spiritual effect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="217" data-title="Whether corporal almsdeeds have a spiritual effect?" data-chapter="Whether corporal almsdeeds have a spiritual effect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that corporal almsdeeds have not a spiritual effect. For no effect
 exceeds its cause. But spiritual goods exceed corporal goods. Therefore corporal almsdeeds have
@@ -10661,7 +10661,7 @@ Reply to Objection 3: The widow who gave less in quantity, gave more in proporti
 thus we gather that the fervor of her charity, whence corporal almsdeeds derive their spiritual
 efficacy, was greater.
 
-<span class="atom-split" data-atom="218" data-title="Whether almsgiving is a matter of precept?" data-chapter="Whether almsgiving is a matter of precept?" data-kind="atom"></span>
+<span class="atom-split" data-atom="218" data-title="Whether almsgiving is a matter of precept?" data-chapter="Whether almsgiving is a matter of precept?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that almsgiving is not a matter of precept. For the counsels are
 distinct from the precepts. Now almsgiving is a matter of counsel, according to Dan. 4:24: "Let my
@@ -10743,7 +10743,7 @@ to come," and he says this because the precept about honoring our parents contai
 "that thou mayest be longlived upon the land" (Ex. 20:12): and dutifulness comprises all kinds of
 almsgiving. [*"Pietas," whence our English word "Piety." Cf. also inf. Q[101], A[2].]
 
-<span class="atom-split" data-atom="219" data-title="Whether one ought to give alms out of what one needs?" data-chapter="Whether one ought to give alms out of what one needs?" data-kind="atom"></span>
+<span class="atom-split" data-atom="219" data-title="Whether one ought to give alms out of what one needs?" data-chapter="Whether one ought to give alms out of what one needs?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one ought not to give alms out of what one needs. For the
 order of charity should be observed not only as regards the effect of our benefactions but also as
@@ -10793,7 +10793,7 @@ great need on the part of the common weal. For in such cases it would seem prais
 the requirements of one's station, in order to provide for a greater need.
 The objections may be easily solved from what has been said.
 
-<span class="atom-split" data-atom="220" data-title="Whether one may give alms out of ill-gotten goods?" data-chapter="Whether one may give alms out of ill-gotten goods?" data-kind="atom"></span>
+<span class="atom-split" data-atom="220" data-title="Whether one may give alms out of ill-gotten goods?" data-chapter="Whether one may give alms out of ill-gotten goods?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one may give alms out of ill-gotten goods. For it is written
 (Lk. 16:9): "Make unto you friends of the mammon of iniquity." Now mammon signifies riches.
@@ -10869,7 +10869,7 @@ to another, and give alms thereof; or even take something if there be no other w
 one who is in need. If however this be possible without danger, he must ask the owner's consent,
 and then succor the poor man who is in extreme necessity.
 
-<span class="atom-split" data-atom="221" data-title="Whether one who is under another's power can give alms?" data-chapter="Whether one who is under another's power can give alms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="221" data-title="Whether one who is under another's power can give alms?" data-chapter="Whether one who is under another's power can give alms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one who is under another's power can give alms. For religious
 are under the power of their prelates to whom they have vowed obedience. Now if it were unlawful
@@ -10935,7 +10935,7 @@ child cannot give alms, except in such small quantity that one may presume the f
 unless, perchance, the father authorize his child to dispose of any particular property. The same
 applies to servants. Hence the Reply to the Fourth Objection is clear.
 
-<span class="atom-split" data-atom="222" data-title="Whether one ought to give alms to those rather who are more closely united to us?" data-chapter="Whether one ought to give alms to those rather who are more closely united to us?" data-kind="atom"></span>
+<span class="atom-split" data-atom="222" data-title="Whether one ought to give alms to those rather who are more closely united to us?" data-chapter="Whether one ought to give alms to those rather who are more closely united to us?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one ought not to give alms to those rather who are more closely
 united to us. For it is written (Ecclus. 12:4,6): "Give to the merciful and uphold not the sinner . . .
@@ -10985,7 +10985,7 @@ properly speaking, no man gives himself an alms, unless he act in another's pers
 man is appointed to distribute alms, he can take something for himself, if he be in want, on the
 same ground as when he gives to others.
 
-<span class="atom-split" data-atom="223" data-title="Whether alms should be given in abundance?" data-chapter="Whether alms should be given in abundance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="223" data-title="Whether alms should be given in abundance?" data-chapter="Whether alms should be given in abundance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that alms should not be given in abundance. For we ought to give
 alms to those chiefly who are most closely connected with us. But we ought not to give to them in
@@ -11036,7 +11036,7 @@ of the giver. Yet, as a gloss says on the same passage, "he says this, not becau
 to give in abundance, but because he fears for the weak, and he admonishes them so to give that
 they lack not for themselves."
 
-<span class="atom-split" data-atom="224" data-title="OF FRATERNAL CORRECTION (EIGHT ARTICLES)" data-chapter="OF FRATERNAL CORRECTION (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="224" data-title="OF FRATERNAL CORRECTION (EIGHT ARTICLES)" data-chapter="OF FRATERNAL CORRECTION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider Fraternal Correction, under which head there are eight points of inquiry:
 (1) Whether fraternal correction is an act of charity?
@@ -11048,7 +11048,7 @@ We must now consider Fraternal Correction, under which head there are eight poin
 (7) Whether secret correction should precede denouncement?
 (8) Whether witnesses should be called before denouncement?
 
-<span class="atom-split" data-atom="225" data-title="Whether fraternal correction is an act of charity?" data-chapter="Whether fraternal correction is an act of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="225" data-title="Whether fraternal correction is an act of charity?" data-chapter="Whether fraternal correction is an act of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fraternal correction is not an act of charity. For a gloss on Mat.
 18:15, "If thy brother shall offend against thee," says that "a man should reprove his brother out of
@@ -11102,7 +11102,7 @@ Reply to Objection 3: Fraternal correction is not opposed to forbearance with th
 the contrary it results from it. For a man bears with a sinner, in so far as he is not disturbed against
 him, and retains his goodwill towards him: the result being that he strives to make him do better.
 
-<span class="atom-split" data-atom="226" data-title="Whether fraternal correction is a matter of precept?" data-chapter="Whether fraternal correction is a matter of precept?" data-kind="atom"></span>
+<span class="atom-split" data-atom="226" data-title="Whether fraternal correction is a matter of precept?" data-chapter="Whether fraternal correction is a matter of precept?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fraternal correction is not a matter of precept. For nothing
 impossible is a matter of precept, according to the saying of Jerome [*Pelagius, Expos. Symb. ad
@@ -11194,7 +11194,7 @@ on the lives of others, which is against the saying of Prov. 24:19: "Lie not in 
 wickedness in the house of the just, nor spoil his rest." It is evident from this that there is no need
 for religious to leave their cloister in order to rebuke evil-doers.
 
-<span class="atom-split" data-atom="227" data-title="Whether fraternal correction belongs only to prelates?" data-chapter="Whether fraternal correction belongs only to prelates?" data-kind="atom"></span>
+<span class="atom-split" data-atom="227" data-title="Whether fraternal correction belongs only to prelates?" data-chapter="Whether fraternal correction belongs only to prelates?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fraternal correction belongs to prelates alone. For Jerome
 [*Origen, Hom. vii in Joan.] says: "Let priests endeavor to fulfil this saying of the Gospel: 'If thy
@@ -11237,7 +11237,7 @@ through being in some respect higher than one another, in so far as each is some
 somewhat in [potentiality](/concepts/act_potency) with regard to another. In like manner one man can correct another in so
 far as he has a sane judgment in a matter wherein the other sins, though he is not his superior simply.
 
-<span class="atom-split" data-atom="228" data-title="Whether a mann is bound to correct his prelate?" data-chapter="Whether a mann is bound to correct his prelate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="228" data-title="Whether a mann is bound to correct his prelate?" data-chapter="Whether a mann is bound to correct his prelate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no man is bound to correct his prelate. For it is written (Ex.
 19:12): "The beast that shall touch the mount shall be stoned," [*Vulg.: 'Everyone that shall touch
@@ -11291,7 +11291,7 @@ man reproves his prelate charitably, it does not follow that he thinks himself a
 that he offers his help to one who, "being in the higher position among you, is therefore in greater
 danger," as Augustine observes in his Rule quoted above.
 
-<span class="atom-split" data-atom="229" data-title="Whether a sinner ought to reprove a wrongdoer?" data-chapter="Whether a sinner ought to reprove a wrongdoer?" data-kind="atom"></span>
+<span class="atom-split" data-atom="229" data-title="Whether a sinner ought to reprove a wrongdoer?" data-chapter="Whether a sinner ought to reprove a wrongdoer?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a sinner ought to reprove a wrongdoer. For no man is excused
 from obeying a precept by having committed a sin. But fraternal correction is a matter of precept,
@@ -11344,7 +11344,7 @@ deserving of condemnation, either in his brother's or in his own conscience, on 
 previous sin.
 Hence the Replies to the Objections are clear.
 
-<span class="atom-split" data-atom="230" data-title="Whether one ought to forbear from correcting someone, through fear lest he become worse?" data-chapter="Whether one ought to forbear from correcting someone, through fear lest he become worse?" data-kind="atom"></span>
+<span class="atom-split" data-atom="230" data-title="Whether one ought to forbear from correcting someone, through fear lest he become worse?" data-chapter="Whether one ought to forbear from correcting someone, through fear lest he become worse?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one ought not to forbear from correcting someone through
 fear lest he become worse. For sin is weakness of the soul, according to Ps. 6:3: "Have mercy on
@@ -11393,7 +11393,7 @@ the end. Hence whenever fraternal correction hinders the end, namely the amendme
 it is no longer good, so that when such a correction is omitted, good is not omitted lest evil should
 befall.
 
-<span class="atom-split" data-atom="231" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (1/2)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="231" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (1/2)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the precept of fraternal correction does not demand that a
 private admonition should precede denunciation. For, in works of charity, we should above all
@@ -11497,7 +11497,7 @@ than accusations or denunciations. If, however, they should be of such a nature 
 brother's good name, it would be contrary to Our Lord's precept, to denounce a brother's fault in
 this manner.
 
-<span class="atom-split" data-atom="232" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (2/2)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="232" data-title="Whether the precept of fraternal correction demands that a private admonition should precede denunciation? (2/2)" data-chapter="Whether the precept of fraternal correction demands that a private admonition should precede denunciation?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: A prelate is not to be obeyed contrary to a Divine precept, according to
 Acts 5:29: "We ought to obey God rather then men." Therefore when a prelate commands anyone
@@ -11511,7 +11511,7 @@ power to command anything in respect of hidden matters, except in so far as they
 through certain signs, as by ill-repute or suspicion; in which cases a prelate can command just as
 a judge, whether secular or ecclesiastical, can bind a man under oath to tell the truth.
 
-<span class="atom-split" data-atom="233" data-title="Whether before the public denunciation witnesses ought to be brought forward?" data-chapter="Whether before the public denunciation witnesses ought to be brought forward?" data-kind="atom"></span>
+<span class="atom-split" data-atom="233" data-title="Whether before the public denunciation witnesses ought to be brought forward?" data-chapter="Whether before the public denunciation witnesses ought to be brought forward?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that before the public denunciation witnesses ought not to be
 brought forward. For secret sins ought not to be made known to others, because by so doing "a man
@@ -11569,7 +11569,7 @@ before it is stated to the witnesses, in so far as the prelate is a private indi
 of more use than others, but not that it is to be told him as to the Church, i.e. as holding the position
 of judge.
 
-<span class="atom-split" data-atom="234" data-title="OF HATRED (SIX ARTICLES)" data-chapter="OF HATRED (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="234" data-title="OF HATRED (SIX ARTICLES)" data-chapter="OF HATRED (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must how consider the vices opposed to charity: (1) hatred, which is opposed to love; (2)
 sloth and envy, which are opposed to the joy of charity; (3) discord and schism, which are contrary
@@ -11582,7 +11582,7 @@ Under the first head there are six points of inquiry:
 (5) Whether it is a capital sin?
 (6) From what capital sin does it arise?
 
-<span class="atom-split" data-atom="235" data-title="Whether it is possible for anyone to hate God?" data-chapter="Whether it is possible for anyone to hate God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="235" data-title="Whether it is possible for anyone to hate God?" data-chapter="Whether it is possible for anyone to hate God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no man can hate God. For Dionysius says (Div. Nom. iv) that
 "the first good and beautiful is an object of love and dilection to all." But God is goodness and
@@ -11623,7 +11623,7 @@ to men.
 Reply to Objection 3: God draws all things to Himself, in so far as He is the source of being,
 since all things, in as much as they are, tend to be like God, Who is Being itself.
 
-<span class="atom-split" data-atom="236" data-title="Whether hatred of God is the greatest of sins?" data-chapter="Whether hatred of God is the greatest of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="236" data-title="Whether hatred of God is the greatest of sins?" data-chapter="Whether hatred of God is the greatest of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hatred of God is not the greatest of sins. For the most grievous
 sin is the sin against the Holy Ghost, since it cannot be forgiven, according to Mat. 12:32. Now
@@ -11677,7 +11677,7 @@ when He inflicts those punishments, is to hate God's very justice, and that is a
 Hence Gregory says (Moral. xxv, 11): "Even as sometimes it is more grievous to love sin than to
 do it, so is it more wicked to hate justice than, not to have done it."
 
-<span class="atom-split" data-atom="237" data-title="Whether hatred of one's neighbor is always a sin?" data-chapter="Whether hatred of one's neighbor is always a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="237" data-title="Whether hatred of one's neighbor is always a sin?" data-chapter="Whether hatred of one's neighbor is always a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hatred of one's neighbor is not always a sin. For no sin is
 commanded or counselled by God, according to Prov. 8:8: "All My words are just, there is nothing
@@ -11719,7 +11719,7 @@ received from God: wherefore, in this respect, we should love them. But they are
 in so far as they show hostility towards us, and this is sinful in them. In this respect we should hate
 them, for we should hate in them the fact that they are hostile to us.
 
-<span class="atom-split" data-atom="238" data-title="Whether hatred of our neighbor is the most grievous sin against our neighbor?" data-chapter="Whether hatred of our neighbor is the most grievous sin against our neighbor?" data-kind="atom"></span>
+<span class="atom-split" data-atom="238" data-title="Whether hatred of our neighbor is the most grievous sin against our neighbor?" data-chapter="Whether hatred of our neighbor is the most grievous sin against our neighbor?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hatred of our neighbor is the most grievous sin against our
 neighbor. For it is written (1 Jn. 3:15): "Whosoever hateth his brother is a murderer." Now murder
@@ -11750,7 +11750,7 @@ traced to his inward hatred.
 On the other hand, as regards the hurt inflicted on his neighbor, a man's outward sins are worse
 than his inward hatred. This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="239" data-title="Whether hatred is a capital sin?" data-chapter="Whether hatred is a capital sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="239" data-title="Whether hatred is a capital sin?" data-chapter="Whether hatred is a capital sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hatred is a capital sin. For hatred is directly opposed to charity.
 Now charity is the foremost among the virtues, and the mother of all others. Therefore hatred is
@@ -11792,7 +11792,7 @@ There is, however, another which is not a true, but an apparent evil, which, nam
 connatural good, and yet is reckoned evil on account of the corruption of nature: and the hatred of
 such an evil must needs come last. This hatred is vicious, but the former is not.
 
-<span class="atom-split" data-atom="240" data-title="Whether hatred arises from envy?" data-chapter="Whether hatred arises from envy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="240" data-title="Whether hatred arises from envy?" data-chapter="Whether hatred arises from envy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that hatred does not arise from envy. For envy is sorrow for another's
 good. Now hatred does not arise from sorrow, for, on the contrary, we grieve for the presence of
@@ -11844,7 +11844,7 @@ vengeance: but afterwards, through the continuance of anger, man goes so far as 
 his neighbor's evil, which desire is part of hatred. Wherefore it is evident that hatred is caused by
 envy formally as regards the aspect of the object, but dispositively by anger.
 
-<span class="atom-split" data-atom="241" data-title="OF SLOTH (FOUR ARTICLES)" data-chapter="OF SLOTH (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="241" data-title="OF SLOTH (FOUR ARTICLES)" data-chapter="OF SLOTH (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the vices opposed to the joy of charity. This joy is either about the Divine
 good, and then its contrary is sloth, or about our neighbor's good, and then its contrary is envy.
@@ -11855,7 +11855,7 @@ Under the first head there are four points of inquiry:
 (3) Whether it is a mortal sin?
 (4) Whether it is a capital sin?
 
-<span class="atom-split" data-atom="242" data-title="Whether sloth is a sin?" data-chapter="Whether sloth is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="242" data-title="Whether sloth is a sin?" data-chapter="Whether sloth is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sloth is not a sin. For we are neither praised nor blamed for
 our passions, according to the Philosopher (Ethic. ii, 5). Now sloth is a passion, since it is a kind
@@ -11927,7 +11927,7 @@ resistance, when perseverance in the thought diminishes the incentive to sin, wh
 from some trivial consideration. This is the case with sloth, because the more we think about spiritual
 goods, the more pleasing they become to us, and forthwith sloth dies away.
 
-<span class="atom-split" data-atom="243" data-title="Whether sloth is a special vice?" data-chapter="Whether sloth is a special vice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="243" data-title="Whether sloth is a special vice?" data-chapter="Whether sloth is a special vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sloth is not a special vice. For that which is common to all
 vices does not constitute a special kind of vice. But every vice makes a man sorrowful about the
@@ -11964,7 +11964,7 @@ displeased at the spiritual good which is in each act of virtue, belongs, not to
 to every vice, but sorrow in the Divine good about which charity rejoices, belongs to a special vice,
 which is called sloth. This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="244" data-title="Whether sloth is a mortal sin?" data-chapter="Whether sloth is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="244" data-title="Whether sloth is a mortal sin?" data-chapter="Whether sloth is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sloth is not a mortal sin. For every mortal sin is contrary to a
 precept of the [Divine Law](/concepts/divine_law). But sloth seems contrary to no precept, as one may see by going through
@@ -12013,7 +12013,7 @@ when he is sorry to have to do something for God's sake.
 Reply to Objection 3: Imperfect movements of sloth are to be found in holy men, but they do
 not reach to the consent of reason.
 
-<span class="atom-split" data-atom="245" data-title="Whether sloth should be accounted a capital vice?" data-chapter="Whether sloth should be accounted a capital vice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="245" data-title="Whether sloth should be accounted a capital vice?" data-chapter="Whether sloth should be accounted a capital vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sloth ought not to be accounted a capital vice. For a capital
 vice is one that moves a man to sinful acts, as stated above (Q[34], A[5]). Now sloth does not move
@@ -12089,7 +12089,7 @@ it is called "restlessness of the body," when, to wit, a man shows the unsteadin
 the inordinate movements of members of his body; while if it causes the body to move from one
 place to another, it is called "instability"; or "instability" may denote changeableness of purpose.
 
-<span class="atom-split" data-atom="246" data-title="OF ENVY (FOUR ARTICLES)" data-chapter="OF ENVY (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="246" data-title="OF ENVY (FOUR ARTICLES)" data-chapter="OF ENVY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider envy, and under this head there are four points of inquiry:
 (1) What is envy?
@@ -12097,7 +12097,7 @@ We must now consider envy, and under this head there are four points of inquiry:
 (3) Whether it is a mortal sin?
 (4) Whether it is a capital sin, and which are its daughters?
 
-<span class="atom-split" data-atom="247" data-title="Whether envy is a kind of sorrow?" data-chapter="Whether envy is a kind of sorrow?" data-kind="atom"></span>
+<span class="atom-split" data-atom="247" data-title="Whether envy is a kind of sorrow?" data-chapter="Whether envy is a kind of sorrow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that envy is not a kind of sorrow. For the object of envy is a good,
 for Gregory says (Moral. v, 46) of the envious man that "self-inflicted pain wounds the pining
@@ -12162,7 +12162,7 @@ the old envy the young, and those who have spent much in order to get something,
 have got it by spending little, because they grieve that they have lost their goods, and that others
 have acquired goods.
 
-<span class="atom-split" data-atom="248" data-title="Whether envy is a sin?" data-chapter="Whether envy is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="248" data-title="Whether envy is a sin?" data-chapter="Whether envy is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that envy is not a sin. For Jerome says to Laeta about the [education](/concepts/education)
 of her daughter (Ep. cvii): "Let her have companions, so that she may learn together with them,
@@ -12226,7 +12226,7 @@ good, whereas envy is always evil.
 Reply to Objection 4: Nothing hinders a sin from being penal accidentally, as stated above
 (FS, Q[87], A[2]) when we were treating of sins.
 
-<span class="atom-split" data-atom="249" data-title="Whether envy is a mortal sin?" data-chapter="Whether envy is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="249" data-title="Whether envy is a mortal sin?" data-chapter="Whether envy is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that envy is not a mortal sin. For since envy is a kind of sorrow, it
 is a passion of the sensitive appetite. Now there is no mortal sin in the sensuality, but only in the
@@ -12274,7 +12274,7 @@ prosperity of sinners'], whereas the envious grieves over the good of those who 
 Hence it is clear that the former contrariety is more direct than the latter. Now pity is a virtue, and
 an effect proper to charity: so that envy is contrary to pity and charity.
 
-<span class="atom-split" data-atom="250" data-title="Whether envy is a capital vice?" data-chapter="Whether envy is a capital vice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="250" data-title="Whether envy is a capital vice?" data-chapter="Whether envy is a capital vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that envy is not a capital vice. For the capital vices are distinct
 from their daughters. Now envy is the daughter of vainglory; for the Philosopher says (Rhet. ii, 10)
@@ -12335,7 +12335,7 @@ man sees his neighbor prosper notwithstanding his efforts to prevent it. On the 
 another's misfortune" is not directly the same as envy, but is a result thereof, because grief over
 our neighbor's good which is envy, gives rise to joy in his evil.
 
-<span class="atom-split" data-atom="251" data-title="OF DISCORD, WHICH IS CONTRARY TO PEACE (TWO ARTICLES)" data-chapter="OF DISCORD, WHICH IS CONTRARY TO PEACE (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="251" data-title="OF DISCORD, WHICH IS CONTRARY TO PEACE (TWO ARTICLES)" data-chapter="OF DISCORD, WHICH IS CONTRARY TO PEACE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the sins contrary to peace, and first we shall consider discord which is
 in the heart, secondly contention, which is on the lips, thirdly, those things which consist in deeds,
@@ -12343,7 +12343,7 @@ viz. schism, quarrelling, war, and sedition. Under the first head there are two 
 (1) Whether discord is a sin?
 (2) Whether it is a daughter of vainglory?
 
-<span class="atom-split" data-atom="252" data-title="Whether discord is a sin?" data-chapter="Whether discord is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="252" data-title="Whether discord is a sin?" data-chapter="Whether discord is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that discord is not a sin. For to disaccord with man is to sever
 oneself from another's will. But this does not seem to be a sin, because God's will alone, and not
@@ -12408,7 +12408,7 @@ something else, which was owing to human deficiency: for that controversy was no
 necessary to salvation. Moreover all this was ordained by Divine providence, on account of the
 good which would ensue.
 
-<span class="atom-split" data-atom="253" data-title="Whether discord is a daughter of vainglory?" data-chapter="Whether discord is a daughter of vainglory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="253" data-title="Whether discord is a daughter of vainglory?" data-chapter="Whether discord is a daughter of vainglory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that discord is not a daughter of vainglory. For [anger](/concepts/anger) is a vice
 distinct from vainglory. Now discord is apparently the daughter of anger, according to Prov. 15:18:
@@ -12452,13 +12452,13 @@ it is the weaker it becomes" (De Causis xvii). Hence it is evident that this is 
 of discord which is a disunion of wills, and in no way indicates that other vices arise from discord,
 as though it were a capital vice.
 
-<span class="atom-split" data-atom="254" data-title="OF CONTENTION (TWO ARTICLES)" data-chapter="OF CONTENTION (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="254" data-title="OF CONTENTION (TWO ARTICLES)" data-chapter="OF CONTENTION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider contention, in respect of which there are two points of inquiry:
 (1) Whether contention is a mortal sin?
 (2) Whether it is a daughter of vainglory?
 
-<span class="atom-split" data-atom="255" data-title="Whether contention is a mortal sin?" data-chapter="Whether contention is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="255" data-title="Whether contention is a mortal sin?" data-chapter="Whether contention is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that contention is not a mortal sin. For there is no mortal sin in
 spiritual men: and yet contention is to be found in them, according to Lk. 22:24: "And there was
@@ -12533,7 +12533,7 @@ Reply to Objection 4: Contention here denotes an ordinary dispute. For Job had s
 truth, but to defend it, and in seeking the truth thus, he had no wish to be inordinate in mind or in
 speech.
 
-<span class="atom-split" data-atom="256" data-title="Whether contention is a daughter of vainglory?" data-chapter="Whether contention is a daughter of vainglory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="256" data-title="Whether contention is a daughter of vainglory?" data-chapter="Whether contention is a daughter of vainglory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that contention is not a daughter of vainglory. For contention is
 akin to zeal, wherefore it is written (1 Cor. 3:3): "Whereas there is among you zeal [Douay: 'envying']
@@ -12573,7 +12573,7 @@ way, it does so not directly but accidentally, in which way nothing hinders one 
 out of another. Hence there is no reason why the "per se" and direct effects of pride or vainglory,
 should not result from the contraries of those things which are the occasion of pride.
 
-<span class="atom-split" data-atom="257" data-title="OF SCHISM (FOUR ARTICLES)" data-chapter="OF SCHISM (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="257" data-title="OF SCHISM (FOUR ARTICLES)" data-chapter="OF SCHISM (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the vices contrary to peace, which belong to deeds: such are schism,
 strife, sedition, and war. In the first place, then, about schism, there are four points of inquiry:
@@ -12582,7 +12582,7 @@ strife, sedition, and war. In the first place, then, about schism, there are fou
 (3) Of the power exercised by schismatics;
 (4) Of the punishment inflicted on them.
 
-<span class="atom-split" data-atom="258" data-title="Whether schism is a special sin?" data-chapter="Whether schism is a special sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="258" data-title="Whether schism is a special sin?" data-chapter="Whether schism is a special sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that schism is not a special sin. For "schism," as Pope Pelagius I
 says (Epist. ad Victor. et Pancrat.), "denotes a division." But every sin causes a division, according
@@ -12647,7 +12647,7 @@ Ep. ad Tit. iii, 10) that "at the outset it is possible, in a certain respect, t
 schism and heresy: yet there is no schism that does not devise some heresy for itself, that it may
 appear to have had a reason for separating from the Church."
 
-<span class="atom-split" data-atom="259" data-title="Whether schism is a graver sin than unbelief?" data-chapter="Whether schism is a graver sin than unbelief?" data-kind="atom"></span>
+<span class="atom-split" data-atom="259" data-title="Whether schism is a graver sin than unbelief?" data-chapter="Whether schism is a graver sin than unbelief?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that schism is a graver sin than unbelief. For the graver sin meets
 with a graver punishment, according to Dt. 25:2: "According to the measure of the sin shall the
@@ -12720,7 +12720,7 @@ other hand, hatred of God, which is opposed to charity in respect of its princip
 grievous than unbelief. Nevertheless of all sins committed by man against his neighbor, the sin of
 schism would seem to be the greatest, because it is opposed to the spiritual good of the multitude.
 
-<span class="atom-split" data-atom="260" data-title="Whether schismatics have any power?" data-chapter="Whether schismatics have any power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="260" data-title="Whether schismatics have any power?" data-chapter="Whether schismatics have any power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that schismatics have some power. For [Augustine](/figures/augustine) says (Contra
 Donat. i, 1): "Just as those who come back to the Church after being baptized, are not baptized
@@ -12765,7 +12765,7 @@ as referring either to the second power, or if it be referred to the first power
 essence of the power, but to its lawful use.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="261" data-title="Whether it is right that schismatics should be punished with excommunication?" data-chapter="Whether it is right that schismatics should be punished with excommunication?" data-kind="atom"></span>
+<span class="atom-split" data-atom="261" data-title="Whether it is right that schismatics should be punished with excommunication?" data-chapter="Whether it is right that schismatics should be punished with excommunication?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that schismatics are not rightly punished with excommunication.
 For excommunication deprives a man chiefly of a share in the sacraments. But [Augustine](/figures/augustine) says
@@ -12812,7 +12812,7 @@ several body medicines when one has no effect. In like manner the Church, when e
 does not sufficiently restrain certain men, employs the compulsion of the secular arm. If, however,
 one punishment suffices, another should not be employed.
 
-<span class="atom-split" data-atom="262" data-title="OF WAR (FOUR ARTICLES)" data-chapter="OF WAR (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="262" data-title="OF WAR (FOUR ARTICLES)" data-chapter="OF WAR (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider war, under which head there are four points of inquiry:
 (1) Whether some kind of war is lawful?
@@ -12820,7 +12820,7 @@ We must now consider war, under which head there are four points of inquiry:
 (3) Whether it is lawful for belligerents to lay ambushes?
 (4) Whether it is lawful to fight on holy days?
 
-<span class="atom-split" data-atom="263" data-title="Whether it is always sinful to wage war?" data-chapter="Whether it is always sinful to wage war?" data-kind="atom"></span>
+<span class="atom-split" data-atom="263" data-title="Whether it is always sinful to wage war?" data-chapter="Whether it is always sinful to wage war?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is always sinful to wage war. Because punishment is not
 inflicted except for sin. Now those who wage war are threatened by Our Lord with punishment,
@@ -12907,7 +12907,7 @@ which are inordinate and perilous, and end in slaying or plundering. In olden ti
 presented no such danger, and hence they were called "exercises of arms" or "bloodless wars," as
 Jerome states in an epistle [*Reference incorrect: cf. Veget., De Re Milit. i].
 
-<span class="atom-split" data-atom="264" data-title="Whether it is lawful for clerics and bishops to fight?" data-chapter="Whether it is lawful for clerics and bishops to fight?" data-kind="atom"></span>
+<span class="atom-split" data-atom="264" data-title="Whether it is lawful for clerics and bishops to fight?" data-chapter="Whether it is lawful for clerics and bishops to fight?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem lawful for clerics and bishops to fight. For, as stated above (A[1]),
 wars are lawful and just in so far as they protect the poor and the entire common weal from suffering
@@ -12988,7 +12988,7 @@ unlawful for clerics, by reason of their being deputed to works more meritorious
 marriage act may be meritorious; and yet it becomes reprehensible in those who have vowed
 virginity, because they are bound to a yet greater good.
 
-<span class="atom-split" data-atom="265" data-title="Whether it is lawful to lay ambushes in war?" data-chapter="Whether it is lawful to lay ambushes in war?" data-kind="atom"></span>
+<span class="atom-split" data-atom="265" data-title="Whether it is lawful to lay ambushes in war?" data-chapter="Whether it is lawful to lay ambushes in war?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is unlawful to lay ambushes in war. For it is written (Dt.
 16:20): "Thou shalt follow justly after that which is just." But ambushes, since they are a kind of
@@ -13026,7 +13026,7 @@ well-ordered will. For a man would have an inordinate will if he were unwilling 
 hide anything from him
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="266" data-title="Whether it is lawful to fight on holy days?" data-chapter="Whether it is lawful to fight on holy days?" data-kind="atom"></span>
+<span class="atom-split" data-atom="266" data-title="Whether it is lawful to fight on holy days?" data-chapter="Whether it is lawful to fight on holy days?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unlawful to fight on holy days. For holy days are instituted that
 we may give our time to the things of God. Hence they are included in the keeping of the Sabbath
@@ -13060,7 +13060,7 @@ We must now consider strife, under which head there are two points of inquiry:
 (1) Whether strife is a sin?
 (2) Whether it is a daughter of [anger](/concepts/anger)?
 
-<span class="atom-split" data-atom="267" data-title="Whether strife is always a sin?" data-chapter="Whether strife is always a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="267" data-title="Whether strife is always a sin?" data-chapter="Whether strife is always a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that strife is not always a sin. For strife seems a kind of contention:
 hence Isidore says (Etym. x) that the word "rixosus [quarrelsome] is derived from the snarling
@@ -13111,7 +13111,7 @@ certain men and these defend themselves, it is not the former who are said to be
 those who resist the public authority. Hence it is not the assailants in this case who are guilty of
 strife and commit sin, but those who defend themselves inordinately.
 
-<span class="atom-split" data-atom="268" data-title="Whether strife is a daughter of anger?" data-chapter="Whether strife is a daughter of anger?" data-kind="atom"></span>
+<span class="atom-split" data-atom="268" data-title="Whether strife is a daughter of anger?" data-chapter="Whether strife is a daughter of anger?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that strife is not a daughter of [anger](/concepts/anger). For it is written (James 4:1):
 "Whence are wars and contentions? Are they not . . . from your concupiscences, which war in your
@@ -13172,13 +13172,13 @@ quarrel among themselves. Even so any sin may command the act of another sin, by
 its own end. This does not, however, prove that strife is the daughter of vainglory properly and
 directly.
 
-<span class="atom-split" data-atom="269" data-title="OF SEDITION (TWO ARTICLES)" data-chapter="OF SEDITION (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="269" data-title="OF SEDITION (TWO ARTICLES)" data-chapter="OF SEDITION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider sedition, under which head there are two points of inquiry:
 (1) Whether it is a special sin?
 (2) Whether it is a mortal sin?
 
-<span class="atom-split" data-atom="270" data-title="Whether sedition is a special sin distinct from other sins?" data-chapter="Whether sedition is a special sin distinct from other sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="270" data-title="Whether sedition is a special sin distinct from other sins?" data-chapter="Whether sedition is a special sin distinct from other sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sedition is not a special sin distinct from other sins. For,
 according to Isidore (Etym. x), "a seditious man is one who sows dissent among minds, and begets
@@ -13222,7 +13222,7 @@ does not imply any preparation for a material fight as sedition does, but only f
 Reply to Objection 3: Sedition, like schism, is contained under discord, since each is a kind
 of discord, not between individuals, but between the parts of a multitude.
 
-<span class="atom-split" data-atom="271" data-title="Whether sedition is always a mortal sin?" data-chapter="Whether sedition is always a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="271" data-title="Whether sedition is always a mortal sin?" data-chapter="Whether sedition is always a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sedition is not always a mortal sin. For sedition denotes "a
 tumult tending to fight," according to the gloss quoted above (A[1]). But fighting is not always a
@@ -13270,7 +13270,7 @@ since he encourages discord and sedition among his subjects, that he may lord ov
 securely; for this is tyranny, being conducive to the private good of the ruler, and to the injury of
 the multitude.
 
-<span class="atom-split" data-atom="272" data-title="OF SCANDAL (EIGHT ARTICLES)" data-chapter="OF SCANDAL (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="272" data-title="OF SCANDAL (EIGHT ARTICLES)" data-chapter="OF SCANDAL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 It remains for us to consider the vices which are opposed to beneficence, among which some
 come under the head of injustice, those, to wit, whereby one harms one's neighbor unjustly. But
@@ -13285,7 +13285,7 @@ which head there are eight points of inquiry:
 (7) Whether spiritual goods are to be foregone on account of scandal?
 (8) Whether temporal things are to be foregone on account of scandal?
 
-<span class="atom-split" data-atom="273" data-title="Whether scandal is fittingly defined as being something less rightly said or done that occasions spiritual downfall?" data-chapter="Whether scandal is fittingly defined as being something less rightly said or done that occasions spiritual downfall?" data-kind="atom"></span>
+<span class="atom-split" data-atom="273" data-title="Whether scandal is fittingly defined as being something less rightly said or done that occasions spiritual downfall?" data-chapter="Whether scandal is fittingly defined as being something less rightly said or done that occasions spiritual downfall?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that scandal is unfittingly defined as "something less rightly said
 or done that occasions spiritual downfall." For scandal is a sin as we shall state further on (A[2]).
@@ -13371,7 +13371,7 @@ Reply to Objection 5: "Weakness" denotes proneness to scandal; while "offense" s
 resentment against the person who commits a sin, which resentment may be sometimes without
 spiritual downfall; and "scandal" is the stumbling that results in downfall.
 
-<span class="atom-split" data-atom="274" data-title="Whether scandal is a sin?" data-chapter="Whether scandal is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="274" data-title="Whether scandal is a sin?" data-chapter="Whether scandal is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that scandal is not a sin. For sins do not occur from necessity, since
 all sin is voluntary, as stated above (FS, Q[74], AA[1],2). Now it is written (Mat. 18:7): "It must
@@ -13420,7 +13420,7 @@ to hinder Our Lord's Passion out of a sense of dutifulness towards Christ.
 Reply to Objection 3: No man stumbles spiritually, without being kept back somewhat from
 advancing in God's way, and that is at least a venial sin.
 
-<span class="atom-split" data-atom="275" data-title="Whether scandal is a special sin?" data-chapter="Whether scandal is a special sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="275" data-title="Whether scandal is a special sin?" data-chapter="Whether scandal is a special sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that scandal is not a special sin. For scandal is "something said or
 done less rightly." But this applies to every kind of sin. Therefore every sin is a scandal, and
@@ -13465,7 +13465,7 @@ scandalizes his neighbor by a deed which is not a sin in itself, but has an appe
 Reply to Objection 3: Scandal does not derive the species of a special sin from the circumstance
 in question, but from the intention of the end, as stated above.
 
-<span class="atom-split" data-atom="276" data-title="Whether scandal is a mortal sin?" data-chapter="Whether scandal is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="276" data-title="Whether scandal is a mortal sin?" data-chapter="Whether scandal is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that scandal is a mortal sin. For every sin that is contrary to charity
 is a mortal sin, as stated above (Q[24], A[12]; Q[35] , A[3]). But scandal is contrary to charity, as
@@ -13504,7 +13504,7 @@ a mortal sin himself, to lead another into venial sin; whereas if he intends, by
 sin, to lead another into venial sin, there will be a venial sin of scandal.
 And this suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="277" data-title="Whether passive scandal may happen even to the perfect?" data-chapter="Whether passive scandal may happen even to the perfect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="277" data-title="Whether passive scandal may happen even to the perfect?" data-chapter="Whether passive scandal may happen even to the perfect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that passive scandal may happen even to the perfect. For Christ
 was supremely perfect: and yet He said to Peter (Mat. 16:23): "Thou art a scandal to Me." Much
@@ -13549,7 +13549,7 @@ flesh; but they are not scandalized (taking scandal in its true sense), by the w
 although there can be an approach to scandal in them, according to Ps. 72:2: "My feet were almost
 moved."
 
-<span class="atom-split" data-atom="278" data-title="Whether active scandal can be found in the perfect?" data-chapter="Whether active scandal can be found in the perfect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="278" data-title="Whether active scandal can be found in the perfect?" data-chapter="Whether active scandal can be found in the perfect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that active scandal can be found in the perfect. For passion is the
 effect of action. Now some are scandalized passively by the words or deeds of the perfect, according
@@ -13594,7 +13594,7 @@ Reply to Objection 3: The venial sins of the perfect consist chiefly in sudden m
 which being hidden cannot give scandal. If, however, they commit any venial sins even in their
 external words or deeds, these are so slight as to be insufficient in themselves to give scandal.
 
-<span class="atom-split" data-atom="279" data-title="Whether spiritual goods should be foregone on account of scandal?" data-chapter="Whether spiritual goods should be foregone on account of scandal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="279" data-title="Whether spiritual goods should be foregone on account of scandal?" data-chapter="Whether spiritual goods should be foregone on account of scandal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that spiritual goods ought to be foregone on account of scandal.
 For [Augustine](/figures/augustine) (Contra Ep. Parmen. iii, 2) teaches that "punishment for sin should cease, when the
@@ -13689,7 +13689,7 @@ word is a venial sin, when it is uttered uselessly; yet if it be uttered for a r
 neither idle nor sinful. And though venial sin does not deprive a man of grace which is his means
 of salvation, yet, in so far as it disposes him to mortal sin, it tends to the loss of salvation.
 
-<span class="atom-split" data-atom="280" data-title="Whether temporal goods should be foregone on account of scandal?" data-chapter="Whether temporal goods should be foregone on account of scandal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="280" data-title="Whether temporal goods should be foregone on account of scandal?" data-chapter="Whether temporal goods should be foregone on account of scandal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temporal goods should be foregone on account of scandal. For
 we ought to love our neighbor's spiritual welfare which is hindered by scandal, more than any
@@ -13768,7 +13768,7 @@ gentiles who were not used to this payment. Hence it behooved him to forego it f
 so that they might be taught first of all that such a payment was a duty. For a like reason the Church
 refrains from demanding tithes in those countries where it is not customary to pay them.
 
-<span class="atom-split" data-atom="281" data-title="OF THE PRECEPTS OF CHARITY (EIGHT ARTICLES)" data-chapter="OF THE PRECEPTS OF CHARITY (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="281" data-title="OF THE PRECEPTS OF CHARITY (EIGHT ARTICLES)" data-chapter="OF THE PRECEPTS OF CHARITY (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the Precepts of Charity, under which there are eight points of inquiry:
 (1) Whether precepts should be given about charity?
@@ -13780,7 +13780,7 @@ We must now consider the Precepts of Charity, under which there are eight points
 (7) Of the precept: "Thou shalt love thy neighbor as thyself";
 (8) Whether the order of charity is included in the precept?
 
-<span class="atom-split" data-atom="282" data-title="Whether any precept should be given about charity?" data-chapter="Whether any precept should be given about charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="282" data-title="Whether any precept should be given about charity?" data-chapter="Whether any precept should be given about charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no precept should be given about charity. For charity imposes
 the mode on all acts of virtue, since it is the form of the virtues as stated above (Q[23], A[8]), while
@@ -13836,7 +13836,7 @@ Reply to Objection 3: All the precepts of the decalogue are directed to the love
 our neighbor: and therefore the precepts of charity had not to be enumerated among the precepts
 of the decalogue, since they are included in all of them.
 
-<span class="atom-split" data-atom="283" data-title="Whether there should have been given two precepts of charity?" data-chapter="Whether there should have been given two precepts of charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="283" data-title="Whether there should have been given two precepts of charity?" data-chapter="Whether there should have been given two precepts of charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there should not have been given two precepts of charity. For
 the precepts of the Law are directed to virtue, as stated above (A[1], OBJ[3]). Now charity is one
@@ -13886,7 +13886,7 @@ Reply to Objection 4: Love of our neighbor includes love of God, as the end is i
 the means, and vice versa: and yet it behooved each precept to be given explicitly, for the reason
 given above.
 
-<span class="atom-split" data-atom="284" data-title="Whether two precepts of charity suffice?" data-chapter="Whether two precepts of charity suffice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="284" data-title="Whether two precepts of charity suffice?" data-chapter="Whether two precepts of charity suffice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that two precepts of charity do not suffice. For precepts are given
 about acts of virtue. Now acts are distinguished by their objects. Since, then, man is bound to love
@@ -13938,7 +13938,7 @@ against discord (1 Cor. 1:10): "That you all speak the same thing, and that ther
 among you"; and against scandal (Rom. 14:13): "That you put not a stumbling-block or a scandal
 in your brother's way."
 
-<span class="atom-split" data-atom="285" data-title="Whether it is fittingly commanded that man should love God with his whole heart?" data-chapter="Whether it is fittingly commanded that man should love God with his whole heart?" data-kind="atom"></span>
+<span class="atom-split" data-atom="285" data-title="Whether it is fittingly commanded that man should love God with his whole heart?" data-chapter="Whether it is fittingly commanded that man should love God with his whole heart?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is unfittingly commanded that man should love God with
 his whole heart. For the mode of a virtuous act is not a matter of precept, as shown above (A[1],
@@ -13982,7 +13982,7 @@ the two perfections mentioned in the preceding reply: and it consists in man ren
 as possible, temporal things, even such as are lawful, because they occupy the mind and hinder the
 actual movement of the heart towards God.
 
-<span class="atom-split" data-atom="286" data-title="Whether to the words, \&quot;Thou shalt love the Lord thy God with thy whole heart,\&quot; it was fitting to add \&quot;and with thy whole soul, and with thy whole strength\&quot;?" data-chapter="Whether to the words, \&quot;Thou shalt love the Lord thy God with thy whole heart,\&quot; it was fitting to add \&quot;and with thy whole soul, and with thy whole strength\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="286" data-title="Whether to the words, \&quot;Thou shalt love the Lord thy God with thy whole heart,\&quot; it was fitting to add \&quot;and with thy whole soul, and with thy whole strength\&quot;?" data-chapter="Whether to the words, \&quot;Thou shalt love the Lord thy God with thy whole heart,\&quot; it was fitting to add \&quot;and with thy whole soul, and with thy whole strength\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether to the words, "Thou shalt love the Lord thy God with thy whole heart," it was fitting to add "and with thy whole soul, and with thy whole strength"?
 
@@ -14033,7 +14033,7 @@ the vegetative soul, "soul" the sensitive, and "mind" the intellective soul, bec
 sensation, and understanding ought all to be referred by us to God.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="287" data-title="Whether it is possible in this life to fulfil this precept of the love of God?" data-chapter="Whether it is possible in this life to fulfil this precept of the love of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="287" data-title="Whether it is possible in this life to fulfil this precept of the love of God?" data-chapter="Whether it is possible in this life to fulfil this precept of the love of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in this life it is possible to fulfil this precept of the love of
 God. For according to Jerome [*Pelagius, Exposit. Cath. Fid.] "accursed is he who says that Cod
@@ -14081,7 +14081,7 @@ Reply to Objection 3: As Augustine says (De Perfect. Justit. viii), "why should 
 perfection be prescribed to man, although no man attains it in this life? For one cannot run straight
 unless one knows whither to run. And how would one know this if no precept pointed it out."
 
-<span class="atom-split" data-atom="288" data-title="Whether the precept of love of our neighbor is fittingly expressed?" data-chapter="Whether the precept of love of our neighbor is fittingly expressed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="288" data-title="Whether the precept of love of our neighbor is fittingly expressed?" data-chapter="Whether the precept of love of our neighbor is fittingly expressed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the precept of the love of our neighbor is unfittingly expressed.
 For the love of charity extends to all men, even to our enemies, as may be seen in Mat. 5:44. But
@@ -14118,7 +14118,7 @@ loves his neighbor for his own profit or pleasure, he does not love his neighbor
 himself.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="289" data-title="Whether the order of charity is included in the precept?" data-chapter="Whether the order of charity is included in the precept?" data-kind="atom"></span>
+<span class="atom-split" data-atom="289" data-title="Whether the order of charity is included in the precept?" data-chapter="Whether the order of charity is included in the precept?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the order of charity is not included in the precept. For whoever
 transgresses a precept does a wrong. But if man loves some one as much as he ought, and loves
@@ -14161,7 +14161,7 @@ virtuous or more closely united to us.
 Reply to Objection 3: It follows from the very words, "Thou shalt love thy neighbor" that
 those who are nearer to us are to be loved more.
 
-<span class="atom-split" data-atom="290" data-title="OF THE GIFT OF WISDOM (SIX ARTICLES)" data-chapter="OF THE GIFT OF WISDOM (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="290" data-title="OF THE GIFT OF WISDOM (SIX ARTICLES)" data-chapter="OF THE GIFT OF WISDOM (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the gift of wisdom which corresponds to charity; and firstly, wisdom
 itself, secondly, the opposite vice. Under the first head there are six points of inquiry:
@@ -14172,7 +14172,7 @@ itself, secondly, the opposite vice. Under the first head there are six points o
 (5) Whether it is in all those who have sanctifying grace?
 (6) Which [beatitude](/positions/beatitude) corresponds to it?
 
-<span class="atom-split" data-atom="291" data-title="Whether wisdom should be reckoned among the gifts of the Holy Ghost?" data-chapter="Whether wisdom should be reckoned among the gifts of the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="291" data-title="Whether wisdom should be reckoned among the gifts of the Holy Ghost?" data-chapter="Whether wisdom should be reckoned among the gifts of the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that wisdom ought not to be reckoned among the gifts of the Holy
 Ghost. For the gifts are more perfect than the virtues, as stated above (FS, Q[68], A[8]). Now virtue
@@ -14236,7 +14236,7 @@ faith, in so far as we make profession of faith by worshipping God, so too, piet
 For this reason piety is stated to be wisdom, and so is fear, for the same reason, because if a man
 fear and worship God, this shows that he has a right judgment about Divine things.
 
-<span class="atom-split" data-atom="292" data-title="Whether wisdom is in the intellect as its subject?" data-chapter="Whether wisdom is in the intellect as its subject?" data-kind="atom"></span>
+<span class="atom-split" data-atom="292" data-title="Whether wisdom is in the intellect as its subject?" data-chapter="Whether wisdom is in the intellect as its subject?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that wisdom is not in the intellect as its subject. For [Augustine](/figures/augustine)
 says (Ep. cxx) that "wisdom is the charity of God." Now charity is in the will as its subject, and
@@ -14283,7 +14283,7 @@ Reply to Objection 3: The intellect exercises a twofold act, perception and judg
 of understanding regards the former; the gift of wisdom regards the latter according to the Divine
 ideas, the gift of knowledge, according to human ideas.
 
-<span class="atom-split" data-atom="293" data-title="Whether wisdom is merely speculative, or practical also?" data-chapter="Whether wisdom is merely speculative, or practical also?" data-kind="atom"></span>
+<span class="atom-split" data-atom="293" data-title="Whether wisdom is merely speculative, or practical also?" data-chapter="Whether wisdom is merely speculative, or practical also?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that wisdom is not practical but merely speculative. For the gift of
 wisdom is more excellent than the wisdom which is an intellectual virtue. But wisdom, as an
@@ -14326,7 +14326,7 @@ and afterwards the direction of human acts according to the Divine rules. Nor fr
 of wisdom does there result any bitterness or toil in human acts; on the contrary the result of wisdom
 is to make the bitter sweet, and labor a rest.
 
-<span class="atom-split" data-atom="294" data-title="Whether wisdom can be without grace, and with mortal sin?" data-chapter="Whether wisdom can be without grace, and with mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="294" data-title="Whether wisdom can be without grace, and with mortal sin?" data-chapter="Whether wisdom can be without grace, and with mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that wisdom can be without grace and with mortal sin. For saints
 glory chiefly in such things as are incompatible with mortal sin, according to 2 Cor. 1:12: "Our
@@ -14364,7 +14364,7 @@ which is acquired by the study and research of reason, and is compatible with mo
 Reply to Objection 3: Although wisdom is distinct from charity, it presupposes it, and for that
 very reason divides the children of perdition from the children of the kingdom.
 
-<span class="atom-split" data-atom="295" data-title="Whether wisdom is in all who have grace?" data-chapter="Whether wisdom is in all who have grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="295" data-title="Whether wisdom is in all who have grace?" data-chapter="Whether wisdom is in all who have grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that wisdom is not in all who have grace. For it is more to have
 wisdom than to hear wisdom. Now it is only for the perfect to hear wisdom, according to 1 Cor.
@@ -14415,7 +14415,7 @@ Reply to Objection 3: Baptized idiots, like little children, have the [habit](/c
 a gift of the Holy Ghost, but they have not the act, on account of the bodily impediment which
 hinders the use of reason in them.
 
-<span class="atom-split" data-atom="296" data-title="Whether the seventh beatitude corresponds to the gift of wisdom?" data-chapter="Whether the seventh beatitude corresponds to the gift of wisdom?" data-kind="atom"></span>
+<span class="atom-split" data-atom="296" data-title="Whether the seventh beatitude corresponds to the gift of wisdom?" data-chapter="Whether the seventh beatitude corresponds to the gift of wisdom?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the seventh [beatitude](/positions/beatitude) does not correspond to the gift of wisdom. For
 the seventh beatitude is: "Blessed are the peacemakers, for they shall be called the children of God."
@@ -14483,7 +14483,7 @@ fruits." Thirdly, he should strive in all charity to correct the sins of others,
 the words "judging without dissimulation [*Vulg.: 'The wisdom that is from above . . . is . . . without
 judging, without dissimulation']," lest he should purpose to sate his hatred under cover of correction.
 
-<span class="atom-split" data-atom="297" data-title="OF FOLLY WHICH IS OPPOSED TO WISDOM (THREE ARTICLES)" data-chapter="OF FOLLY WHICH IS OPPOSED TO WISDOM (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="297" data-title="OF FOLLY WHICH IS OPPOSED TO WISDOM (THREE ARTICLES)" data-chapter="OF FOLLY WHICH IS OPPOSED TO WISDOM (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider folly which is opposed to wisdom; and under this head there are three
 points of inquiry:
@@ -14491,7 +14491,7 @@ points of inquiry:
 (2) Whether folly is a sin?
 (3) To which capital sin is it reducible?
 
-<span class="atom-split" data-atom="298" data-title="Whether folly is contrary to wisdom?" data-chapter="Whether folly is contrary to wisdom?" data-kind="atom"></span>
+<span class="atom-split" data-atom="298" data-title="Whether folly is contrary to wisdom?" data-chapter="Whether folly is contrary to wisdom?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that folly is not contrary to wisdom. For seemingly unwisdom is
 directly opposed to wisdom. But folly does not seem to be the same as unwisdom, for the latter is
@@ -14545,7 +14545,7 @@ worldly but to Divine wisdom, as Gregory declares (Moral. x, 49). Sometimes howe
 result of a man's being simply stupid about everything, as may be seen in idiots, who do not discern
 what is injurious to them, and this belongs to folly simply.
 
-<span class="atom-split" data-atom="299" data-title="Whether folly is a sin?" data-chapter="Whether folly is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="299" data-title="Whether folly is a sin?" data-chapter="Whether folly is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that folly is not a sin. For no sin arises in us from nature. But some
 are fools naturally. Therefore folly is not a sin.
@@ -14577,7 +14577,7 @@ without sin.
 Reply to Objection 3: Folly is opposed to the precepts about the contemplation of truth, of
 which we have spoken above (Q[16]) when we were treating of knowledge and understanding.
 
-<span class="atom-split" data-atom="300" data-title="Whether folly is a daughter of lust?" data-chapter="Whether folly is a daughter of lust?" data-kind="atom"></span>
+<span class="atom-split" data-atom="300" data-title="Whether folly is a daughter of lust?" data-chapter="Whether folly is a daughter of lust?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that folly is not a daughter of lust. For Gregory (Moral. xxxi, 45)
 enumerates the daughters of lust, among which however he makes no mention of folly. Therefore

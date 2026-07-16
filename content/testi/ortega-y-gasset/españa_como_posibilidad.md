@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/españa_como_posibilidad" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="España como posibilidad" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="España como posibilidad" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 «Un viaje por España y Portugal —dice Meier-Graefe en el prólogo de su nuevo libro Viaje de España— proporcionó a los venturosos participantes variadísimas impresiones. Lo que de ello pudo ser anotado en las pocas horas exentas de mejor ocupación va copiado aquí. Si hubiera sido más, habría yo sacado menos. Quien visitó aquel país comprenderá que prefiriera yo vivir a escribir. A quien no estuvo allí, le aumentarán mis someras sugestiones el ansia de ir, mejor que la descripción detallada de cosas que quieren ser vistas. Para conocer la Península pirenaica son menester, mal contados, diez años, dándoles buen empleo. Yo disponía sólo de seis meses, y carecía por completo del impulso a tanta aplicación. Nos hemos encontrado a placer en España. Europa se hace poco a poco tan pequeña, que merece gratitud la indicación de espacios libres donde agitar el cuerpo y el espíritu. Esto constituye el único orgullo del autor».
 

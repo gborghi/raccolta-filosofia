@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/geometría_sentimental" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Geometría sentimental" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Geometría sentimental" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Entre los muchos recuerdos y papeles que conservo de mi amigo A…, hallo éste, donde se alude a la geometría sentimental y puede corroborar lo antedicho a guisa de documento o corolario.
 
@@ -58,7 +58,7 @@ Porque esta tripartición del ser íntimo no agota su fuerza de esclarecimiento 
 
 El hombre griego vive desde su cuerpo, y sin pasar por el alma asciende hacia el espíritu. Así se comprende esa doble y contradictoria impresión que nos produce el arte, el libro y la existencia toda de Grecia. Por un lado sentimos una extraña inocencia y como desnudez de animal; por otro, una sorprendente claridad y pureza que toca lo sobrehumano. Al helénico animal no le cubre la atmósfera de un alma, y en las Panateneas va la cerviz del potro junto al cuello del efebo sin esencial disparidad. En cambio, la acción de crear tal escultura parece inspirada por un puro espíritu, por la Nous anónima de la geometría, que se complace en esculpir las ideas de Platón.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En la vida, en los hombres de Grecia echamos de menos la individualidad —como asimismo falta, rigorosamente hablando, en toda su filosofía. No encontramos nunca ese recinto hermético, esa «morada» aparte del resto del cosmos, ese privatissime que nos hace sentirnos solos frente al Universo, aislados en nosotros, viviendo desde un punto exclusivo de todos los demás puntos cósmicos, que es nuestro yo anímico. El griego, comparado con nosotros, es mínimamente excéntrico. Existe como si fuese un «género» —un eidos— viviente.
 
@@ -78,7 +78,7 @@ El sentido que ambas artes tuvieron en el XVIII se hace patente si las miramos d
 
 Pero aún hay un atributo de la poesía romántica más radicalmente opuesto a la clásica. Al fin y al cabo, la fantasía es pariente de la razón del intelecto. Es, en cierto modo, la demencia del entendimiento, la sinrazón de la razón. El verdadero antagonista de ésta es el sentimiento. En la imagen está preformado un concepto; en la emoción, no. Pues bien: la poesía romántica usará la palabra para expresar sentimientos; no conceptos, no cosas, sino afectos.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La inversión es perfecta. Se toma la palabra del revés, por el polo subjetivo en que expresa el último y vago secreto de la emoción. Su otro polo, el conceptual, queda reducido a la condición de estimulante para un sentimiento. El ci-devant señor es ahora ayuda de cámara. El vuelco de los órdenes a que aspiraba la Revolución francesa se ha ejecutado en la poesía romántica.
 

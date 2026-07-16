@@ -18,6 +18,6 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/kant" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="KANT" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="KANT" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Se incluyen bajo el título general Kant dos estudios: el primero, Reflexiones de centenario, fue publicado en los números de abril y mayo de 1924 de la Revista de Occidente, y posteriormente, en folleto, en 1929; el segundo, Filosofía pura (Anejo a mi folleto «Kant»), apareció en el número de julio de 1929 de la misma Revista.

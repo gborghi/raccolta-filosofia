@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_coligación_conservadora" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La coligación conservadora" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La coligación conservadora" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Estos días parece abonanzar el horizonte del Gobierno. Confirmado el apoyo del señor La Cierva, sin otra excepción que el punto de las tarifas ferroviarias, conocida la nota del señor Maura, donde entre deliciosos giros apocalípticos ofrece al partido liberal-conservador un armisticio, diríase que la situación del señor Dato es envidiable. Un poco excesivo nos parece hablar de unión de derechas; tal vez mañana sea ésta posible, hoy sólo cabe una coincidencia y una coligación. Por otra parte, frente al desbarajuste que se ha avecindado en el pueblo liberal basta con ese concurso adventicio. Nosotros, que hemos considerado siempre un utópico deseo del señor Dato la reconstrucción de un único partido conservador, encontramos muy beneficiosa esta mancomunidad de derechas.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_historia_del_bibliotecario_el_siglo_xv" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La historia del bibliotecario. El siglo XV" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La historia del bibliotecario. El siglo XV" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Todos vosotros conocéis mejor que yo el pasado de vuestra profesión. Si ahora lo oteáis, observaréis cuán claramente se manifiesta en él que el quehacer del bibliotecario ha variado siempre en rigorosa función de lo que el libro significaba como necesidad social.
 

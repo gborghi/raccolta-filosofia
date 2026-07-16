@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/3º_antiutopismo_o_antirracionalismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="3.º Antiutopismo o antirracionalismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="3.º Antiutopismo o antirracionalismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La misma tendencia que en su forma positiva conduce al [perspectivismo](/positions/perspectivism), en su forma negativa significa hostilidad al utopismo.
 
@@ -50,7 +50,7 @@ Suponiendo una perfecta congruencia en el carácter, llevado Lorentz a la polít
 
 No es fácil exagerar la importancia de este viraje a que Einstein somete la ciencia física. Hasta ahora, el papel de la geometría, de la pura razón, era ejercer una indiscutida dictadura. En el lenguaje vulgar queda la huella del [sublime](/concepts/sublime) oficio que a la razón se atribuía: el vulgo habla de los «dictados de la razón». Para Einstein, el papel de la razón es mucho más modesto: de dictadora pasa a ser humilde instrumento, que ha de confirmar en cada [caso](/concepts/fortune) su eficacia.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Galileo y Newton hicieron euclidiano al universo, simplemente porque la razón lo dictaba así. Pero la razón pura no puede hacer otra cosa que inventar sistemas de ordenación. Éstos pueden ser muy numerosos y diferentes. La geometría euclidiana es uno; otro, la de Riemann, la de Lobachevski, etcétera. Más claro está que no son ellos, que no es la razón pura quien resuelve cómo es lo real. Por el contrario, la realidad selecciona entre esos órdenes posibles, entre esos esquemas, el que le es más afín. Esto es lo que significa la teoría de la relatividad. Frente al pasado racionalista de cuatro siglos se opone genialmente Einstein e invierte la relación inveterada que existía entre razón y observación. La razón deja de ser [norma](/concepts/law) imperativa y se convierte en arsenal de instrumentos; la observación prueba éstos y decide sobre cuál es el oportuno. Resulta, pues, la ciencia de una mutua selección entre las ideas puras y los puros hechos.
 

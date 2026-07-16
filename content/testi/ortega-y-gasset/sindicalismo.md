@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sindicalismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sindicalismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sindicalismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El sindicalismo no es simplemente la sindicación. Es una aspiración política perfectamente definida y toto coelo diversa del [socialismo](/schools/historical_materialism_school). Con éste sólo tiene de común el propósito de eliminar al capitalista. Pero mientras el socialismo se hace solidario de todos los principios democráticos y liberales creando un poder público en que todos los ciudadanos intervengan por igual (democracia), y que, a la vez, se imponga a sí mismo límites, garantizando ciertos derechos individuales (liberalismo), el sindicalismo aspira a organizar una sociedad sin poder público, sin Estado. Los hombres estarán asociados por oficios, cada uno de los cuales formará un gran Sindicato con un núcleo directivo elegido por votación. Cada Sindicato regulará los menesteres de su oficio o industria o gremio, exigirá a los demás sindicatos estas o las otras condiciones, y en [caso](/concepts/fortune) de desacuerdo, luchará con ellos mediante huelgas fulminantes y otros procedimientos eficaces. Una conjunción de representantes de los diversos sindicatos constituirá una especie de Sindicato central que tratará de concordar en las horas normales la convivencia de todos.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/comentarios_del_conferenciante_una_carta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Comentarios del conferenciante.— Una carta" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Comentarios del conferenciante.— Una carta" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señor don Roberto Castrovido.
 

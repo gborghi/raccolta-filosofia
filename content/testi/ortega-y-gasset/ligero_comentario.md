@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ligero_comentario" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ligero comentario" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ligero comentario" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En un mismo número del periódico ABC escribe el presidente del Gobierno un artículo sobre la situación de la Dictadura y contesta en un comunicado de la Oficina de Censura a otro artículo del formidable periodista don José Cuartero. Ambas producciones del dictador forman un solo cuerpo; ambas procuran definir la situación en el día de la fecha. De su total, acoto estas dos frases: «La Dictadura comienza a estar gastada». He aquí una. «La mejor prueba de la fuerza enorme que conserva la Dictadura es que se permite señalarse a sí misma plazos y condiciones para traspasar sus poderes. ¿Cuándo ningún Gobierno, fuera ni dentro de España, se vio en tal [caso](/concepts/fortune)?» He aquí la otra. No se puede negar que ambas frases dicen la verdad, por tanto, que dicen dos verdades. Sólo cabría —para apurar la exactitud— alguna reserva sobre que dentro de España ningún Gobierno haya gozado de esa capacidad superabundante y paradójica que consiste en ser dueño hasta de su propia desaparición. Pero, en cambio, es tan verídico no haber acontecido eso a ningún Gobierno fuera de España, que queda de sobra compensada la leve imprecisión.
 

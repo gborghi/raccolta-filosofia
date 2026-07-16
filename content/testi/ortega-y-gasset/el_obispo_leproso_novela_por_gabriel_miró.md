@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_obispo_leproso_novela_por_gabriel_miró" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El obispo leproso, novela, por Gabriel Miró" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El obispo leproso, novela, por Gabriel Miró" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Varias veces me he acercado a algún libro de Gabriel Miró. He sorbido unas líneas, tal vez una página, y me he quedado siempre sorprendido de lo bien que estaba. Sin embargo, no he seguido leyendo. ¿Qué clase de perfección es ésta que complace y no subyuga, que admira y no arrastra? ¿Es una perfección estática, paralítica, toda en cada trozo de sí misma, y que por esta razón no invita a completar lo que ya vemos de ella, apeteciendo lo que aún nos falta? Cada frase gravita sobre su propio aislamiento, sin dispararnos sobre la que sigue ni recoger el zumo de la precedente. Tal vez por esto, el movimiento, la trashumancia en que consiste la lectura, tiene que ponerlos el lector con su propio esfuerzo y empujarse a sí mismo, a pulso, de una página a otra. Esto perjudica a la obra de Miró. Porque el lector, a la postre, resta lo que él pone de lo que el autor le da.
 
@@ -36,7 +36,7 @@ Llega estruendo de ranas y leemos: «—¿Las oyes, Pablo? ¡Las chafaría todas
 
 Es una pena que los entendidos en la cosa literaria no hayan aclarado, de una vez para siempre, el error de este procedimiento. La experiencia de los seres va precipitando en nosotros automáticamente ciertos esquemas de uniformidad vital. Así, el oficio destiñe sobre el individuo que lo ejerce y le imprime con gran frecuencia algunos rasgos comunes. O bien los avaros coincidirán muy probablemente en determinadas reacciones. De este modo se forma en el intelecto lo genérico, el tipo «militar», «jesuita», «avaro», «ambicioso», etcétera. Pero nótese que estos tipos o entidades genéricas no pretenden representar adecuadamente ninguna realidad; quiero decir: los ingredientes que integran el tipo «jesuita» no bastan para hacer un jesuita efectivo. Aquél contiene sólo las notas comunes a muchos jesuitas, pero deja fuera ex professo todo lo que les diferencia.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Qué debe hacer el novelista con esos tipos que la experiencia vulgar ha decantado en las mentes medias? Para mí, no hay duda: debe evitarlos, precisamente porque todo el mundo los posee en su haber mental. Tan los posee, tan seguro está de ellos, tan sabidos le son, que el hombre mediocre se acostumbra a suplantar con ellos la visión directa de cada realidad, y entonces se convierten en simplistas falsificaciones y violaciones de la plenitud maravillosa, inagotable, en que lo real consiste. Producto de una experiencia burda y superficial, todo espíritu alerta, aun sintiéndolos dentro de sí, menosprecia esos tipos y percibe su sordidez, su falsedad, su convencionalismo.
 

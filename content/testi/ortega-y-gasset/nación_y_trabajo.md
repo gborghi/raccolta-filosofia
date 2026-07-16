@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nación_y_trabajo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nación y trabajo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nación y trabajo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Por encima de todas las cuestiones mayores y menores que hoy aquejan la vida española está la necesidad de instaurar con toda plenitud un nuevo Estado. El Estado no puede vivir de precario: no existe mientras no es una instancia prepotente, sólidamente instalada, invulnerable frente a todos los ataques y que asegura a los ciudadanos una existencia tranquila en que puedan dedicarse con fervor a sus ocupaciones.
 

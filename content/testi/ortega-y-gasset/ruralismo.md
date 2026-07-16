@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ruralismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ruralismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ruralismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Esta capacidad que la tierra asturiana posee de mantener al hombre en la campiña ha influido hondamente en el alma del pueblo que la habita. El florecimiento económico va erigiendo urbes deliciosas sobre todo el haz del principado; hay en él ciudades viejas y próceres —como Oviedo y Gijón— que prolongan una brillante tradición de cultura refinada. Y, sin embargo, yo encuentro, más o menos oculto, en todos los asturianos, un fondo rural que perdura. Bajo los modales de la ciudad continúan latiendo corazones labriegos.
 

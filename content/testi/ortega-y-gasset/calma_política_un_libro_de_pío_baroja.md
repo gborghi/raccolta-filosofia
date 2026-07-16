@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/calma_política_un_libro_de_pío_baroja" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Calma política.— Un libro de Pío Baroja" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Calma política.— Un libro de Pío Baroja" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, agosto de 1912
 
@@ -52,7 +52,7 @@ Andrés Hurtado es un precursor, según Baroja, porque representa una generació
 
 Cuando yo decía antes que la historia profunda de la España actual no podrá ser reconstruida fijándose en los ademanes políticos, en las querellas parlamentarias sino en realidades del subsuelo, me refería al hecho bien significativo, de que estos escritores, representantes de los últimos quince años españoles, no tomaron y —salvo uno— no han tomado aún posiciones en los grandes bandos de la contienda pública. No eran conservadores que arremetieran con los liberales: liberales y conservadores los odiaban y siguen odiándolos. Ni porque fueran anticristianos, que vinieran a aporrear los principios del catolicismo: alguno de ellos era entonces apostólico romano. No era, pues, una parte mayor o menor de España que pugnara con el resto.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Andrés Hurtado siente su incompatibilidad con la vida que le rodea, con la vida nacional entera: se siente otro que esa España circundante. Él y sus conciudadanos normales se sienten irreductiblemente extraños o, como los griegos decían de aquellos cuyo idioma no entendían, se sienten mutuamente bárbaros. Este mozo es un precursor porque siente germinar en lo hondo de su espíritu un nuevo idioma ideológico, una nueva manera de pensar. Ahora bien: un pueblo, más que una variedad anatómica, es eso: una genuina manera de pensar.
 

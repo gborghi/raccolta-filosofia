@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/propósitos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Propósitos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Propósitos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los propósitos de la Revista de Occidente son bastante sencillos. Existe en España e Hispano-América un número crecido de personas que se complacen en una gozosa y serena contemplación de las ideas y del arte. Asimismo les interesa recibir de cuando en cuando noticias claras y meditadas de lo que se siente, se hace y se padece en el mundo: ni el relato inerte de los hechos, ni la interpretación superficial y apasionada que el periódico les ofrece, concuerdan con su deseo. Esta curiosidad, que va lo mismo al pensamiento o la poesía que al acontecimiento público y al secreto rumbo de las naciones, es bajo su aspecto de dispersión e indisciplina, la más natural, la más orgánica. Es la curiosidad ni exclusivamente estética ni especialmente científica o política. Es la vital curiosidad que el individuo de nervios alerta siente por el vasto germinar de la vida en torno y es el deseo de vivir cara a cara con la honda realidad contemporánea.
 

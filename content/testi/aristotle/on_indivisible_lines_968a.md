@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/aristotle/on_indivisible_lines_968a" data-philosopher="Aristotle"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="On Indivisible Lines (968a)" data-chapter="INTRODUCTION" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="On Indivisible Lines (968a)" data-chapter="INTRODUCTION" data-kind="intro" data-srclang="en"></span>
 
 THIS is a most interesting and extremely difficult treatise, written by some author of the [Peripatetic School](/schools/lyceum). It refers directly to Euclid’s Elementa, Book X., and is unintelligible without some understanding of Euclid’s definitions. Unfortunately the condition of the manuscripts is most unsatisfactory. By kind permission of Messrs. Teubner, Apelt’s text has been used for this volume. This together with his comments in the Introduction has elucidated a number of difficulties, but, even so the thought as well as the terminology is involved. The treatise is mainly concerned with a refutation of the theory that every line contains a unit which is an indivisible line. Without the modern view of [infinity](/concepts/infinity), there is much which is mathematically brilliant, and on his own terms the author seems to prove his case. The main argument is a syllogism:
 
@@ -32,7 +32,7 @@ All indivisible lines are points.
 
 [Aristotle](/figures/aristotle) then demonstrates the absurdity of this conclusion, thus demolishing the major premiss.
 
-<span class="atom-split" data-atom="002" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (1/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (1/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
 
 Are there such things as indivisible lines, and must there be in all magnitudes some unit which has no parts, as some say?
 
@@ -74,7 +74,7 @@ So their position is absurd; after professing that they are going to demonstrate
 
 Moreover it is unreasonable for them to be led astray on the one hand by the reasoning of Zeno, and presume the existence of indivisible lines merely because they cannot disprove their existence; and on the other to be unimpressed by the arguments both from the movement of a straight line in a semicircle, which must clearly touch all the infinite points of the circumference and its divisions, and again to neglect the convincing fact about a circle that there must be movement of some such kind, if the radius moves in a semicircle,” and all the other theorems demonstrated about lines showing that movement is impossible of such a kind that it does not fall upon all the intervening points in turn; for these theorems are far more universally admitted than the others.
 
-<span class="atom-split" data-atom="003" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (2/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (2/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
 
 It is, then, clear from the arguments we have adduced that it is not inevitable nor even plausible that indivisible lines should exist. But from what follows it will become still more obvious. First of all from theorems demonstrated and laid down as axiomatic in mathematics, which must either be accepted or removed by more convincing arguments.
 
@@ -126,7 +126,7 @@ Also, one line would have to be greater than another by a point; and it will the
 
 But perhaps time consists of a succession of “nows,” and both ideas belong to the same theory.
 
-<span class="atom-split" data-atom="004" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (3/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (3/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
 
 But if a “now” is the beginning and the limit of time, and a point is in a similar relation to a line, the beginning and the end cannot be in themselves continuous, but there must be something in between, so that neither the “nows” (in time), nor the points (in a line) could by themselves form a continuous whole.
 
@@ -160,7 +160,7 @@ Further, the term greater can only be applied to the following things in space �
 
 Again, since the phrase “the smallest of the things in the house” is used without any reference to the size of the house, so also in other cases, nor will the smallest thing in a line have any reference to the line, so that the phrase smallest does not apply to the line.
 
-<span class="atom-split" data-atom="005" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (4/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS) (4/4)" data-chapter="ON INDIVISIBLE LINES (DE LINEIS INSECABILIBUS)" data-kind="atom" data-srclang="en"></span>
 
 Further, if that which is not” in the house cannot be the smallest of the things in the house, just in the same way in other cases (for a point can exist by itself) it will not be true to say of the point that it is the smallest thing in the line.
 

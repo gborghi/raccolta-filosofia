@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_leyenda" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La leyenda" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La leyenda" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -78,7 +78,7 @@ Queda, pues, reducido todo a Francia y a ese vidente de la Thuringia, que llegad
 
 Para sostener la leyenda los que la cultivaron (que hoy ya no es nadie, según creemos), tuvieron que acudir, aparte los ya citados trozos, harto vagos, a un párrafo de la Crónica de Guillermo Godel, monje de Limoges, que escribió después de 1124, es decir siglo y pico más tarde de la fecha terrible. En ella se lee que al extenderse por el mundo la noticia de la toma de Jerusalén por los turcos Anno Domini MX in multis locis per orbem, tali rumore audito, timor et maeror corda plurimorum occupavit et suspicaci sunt multi finem sæculi adesse.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Como se ve aquí, Godel habla del año 1010. Los demás cronistas de la época nada dicen al escribir esta fecha. Al concluir la relación de una de las hambres más terribles, Raúl Glaber dice: «creíase que la ordenación de las estaciones y las leyes de los elementos que hasta entonces habían gobernado el Universo habían recaído en un eterno caos y se temía el fin del género humano». Ahora bien, esta hambre ocurrió en el año 1033. Tampoco, pues, sirve este testimonio, y en cambio quita a los anteriores la fuerza que pudieran tener, pues demuestra que no existió un terror general al acercarse el año mil precisamente, sino que en muchos lugares, a raíz de cualquier calamidad, los escritores y predicadores trataban de remover los espíritus angustiados y les hacían ver lo acontecido con colores aún más negros.
 

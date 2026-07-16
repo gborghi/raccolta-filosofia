@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/the_republic" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="THE REPUBLIC" data-chapter="BOOK I" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="THE REPUBLIC" data-chapter="BOOK I" data-kind="intro" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -84,7 +84,7 @@ That was why I asked you the question, I replied, because I see that you are ind
 
 Yes, that is very true, but may I ask another question? What do you consider to be the greatest blessing which you have reaped from your wealth?
 
-<span class="atom-split" data-atom="002" data-title="BOOK I (2/9)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="BOOK I (2/9)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 One, he said, of which I could not expect easily to convince others. For let me tell you, [Socrates](/figures/socrates), that when a man thinks himself to be near death, fears and cares enter into his mind which he never had before; the tales of a world below and the punishment which is exacted there of deeds done here were once a laughing matter to him, but now he is tormented with the thought that they may be true: either from the weakness of age, or because he is now drawing nearer to that other place, he has a clearer view of these things; suspicions and alarms crowd thickly upon him, and he begins to reflect and consider what wrongs he has done to others. And when he finds that the sum of his transgressions is great he will many a time like a child start up in his sleep for fear, and he is filled with dark forebodings. But to him who is conscious of no sin, sweet hope, as Pindar charmingly says, is the kind nurse of his age:
 
@@ -244,7 +244,7 @@ And so of all the other things; — justice is useful when they are useless, and
 
 That is the inference.
 
-<span class="atom-split" data-atom="003" data-title="BOOK I (3/9)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="BOOK I (3/9)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Then justice is not good for much. But let us consider this further point: Is not he who can best strike a blow in a boxing match or in any kind of fighting best able to ward off a blow?
 
@@ -410,7 +410,7 @@ Thrasymachus, I said, with a quiver, don’t be hard upon us. Polemarchus and I 
 
 How characteristic of Socrates! he replied, with a bitter laugh; — that’s your ironical style! Did I not foresee — have I not already told you, that whatever he was asked he would refuse to answer, and try irony or any other shuffle, in order that he might avoid answering?
 
-<span class="atom-split" data-atom="004" data-title="BOOK I (4/9)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="BOOK I (4/9)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 You are a philosopher, [Thrasymachus](/figures/thrasymachus), I replied, and well know that if you ask a person what numbers make up twelve, taking care to prohibit him whom you ask from answering twice six, or three times four, or six times two, or four times three, ‘for this sort of nonsense will not do for me,’ — then obviously, that is your way of putting the question, no one can answer you. But suppose that he were to retort, ‘Thrasymachus, what do you mean? If one of these numbers which you interdict be the true answer to the question, am I falsely to say some other number which is not the right one? — is that your meaning?’ — How would you answer him?
 
@@ -520,7 +520,7 @@ Never mind, I replied, if he now says that they are, let us accept his statement
 
 Certainly not, he said. Do you suppose that I call him who is mistaken the stronger at the time when he is mistaken?
 
-<span class="atom-split" data-atom="005" data-title="BOOK I (5/9)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="BOOK I (5/9)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Yes, I said, my impression was that you did so, when you admitted that the ruler was not infallible but might be sometimes mistaken.
 
@@ -612,7 +612,7 @@ Because she leaves you to snivel, and never wipes your nose: she has not even ta
 
 What makes you say that? I replied.
 
-<span class="atom-split" data-atom="006" data-title="BOOK I (6/9)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="BOOK I (6/9)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Because you fancy that the shepherd or neatherd fattens of tends the sheep or oxen with a view to their own good and not to the good of himself or his master; and you further imagine that the rulers of states, if they are true rulers, never think of their subjects as sheep, and that they are not studying their own advantage day and night. Oh, no; and so entirely astray are you in your ideas about the just and unjust as not even to know that justice and the just are in reality another’s good; that is to say, the interest of the ruler and stronger, and the loss of the subject and servant; and injustice the opposite; for the unjust is lord over the truly simple and just: he is the stronger, and his subjects do what is for his interest, and minister to his happiness, which is very far from being their own. Consider further, most foolish [Socrates](/figures/socrates), that the just is always a loser in comparison with the unjust. First of all, in private contracts: wherever the unjust is the partner of the just you will find that, when the partnership is dissolved, the unjust man has always more and the just less. Secondly, in their dealings with [the State](/concepts/state): when there is an income tax, the just man will pay more and the unjust less on the same amount of income; and when there is anything to be received the one gains nothing and the other much. Observe also what happens when they take an office; there is the just man neglecting his affairs and perhaps suffering other losses, and getting nothing out of the public, because he is just; moreover he is hated by his friends and acquaintance for refusing to serve them in unlawful ways. But all this is reversed in the case of the unjust man. I am speaking, as before, of injustice on a large scale in which the advantage of the unjust is more apparent; and my meaning will be most clearly seen if we turn to that highest form of injustice in which the criminal is the happiest of men, and the sufferers or those who refuse to do injustice are the most miserable — that is to say tyranny, which by fraud and force takes away the property of others, not little by little but wholesale; comprehending in one, things sacred as well as profane, private and public; for which acts of wrong, if he were detected perpetrating any one of them singly, he would be punished and incur great disgrace — they who do such wrong in particular cases are called robbers of temples, and man-stealers and burglars and swindlers and thieves. But when a man besides taking away the money of the citizens has made slaves of them, then, instead of these [names](/positions/nominalism) of reproach, he is termed happy and blessed, not only by the citizens but by all who hear of his having achieved the consummation of injustice. For mankind censure injustice, fearing that they may be the victims of it and not because they shrink from committing it. And thus, as I have shown, Socrates, injustice, when on a sufficient scale, has more strength and freedom and mastery than justice; and, as I said at first, justice is the interest of the stronger, whereas injustice is a man’s own profit and interest.
 
@@ -660,7 +660,7 @@ And when the artist is benefited by receiving pay the advantage is gained by an 
 
 He gave a reluctant assent to this.
 
-<span class="atom-split" data-atom="007" data-title="BOOK I (7/9)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="BOOK I (7/9)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Then the pay is not derived by the several artists from their respective arts. But the truth is, that while the art of medicine gives health, and the art of the builder builds a house, another art attends them which is the art of pay. The various arts may be doing their own business and benefiting that over which they preside, but would the artist receive any benefit from his art unless he were paid as well?
 
@@ -772,7 +772,7 @@ True.
 
 We may put the matter thus, I said — the just does not desire more than his like but more than his unlike, whereas the unjust desires more than both his like and his unlike?
 
-<span class="atom-split" data-atom="008" data-title="BOOK I (8/9)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="BOOK I (8/9)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Nothing, he said, can be better than that statement.
 
@@ -930,7 +930,7 @@ But if so, the unjust will be the enemy of the gods, and the just will be their 
 
 Feast away in triumph, and take your fill of the argument; I will not oppose you, lest I should displease the company.
 
-<span class="atom-split" data-atom="009" data-title="BOOK I (9/9)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="BOOK I (9/9)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Well then, proceed with your answers, and let me have the remainder of my repast. For we have already shown that the just are clearly wiser and better and abler than the unjust, and that the unjust are incapable of common action; nay ing at more, that to speak as we did of men who are evil acting at any time vigorously together, is not strictly true, for if they had been perfectly evil, they would have laid hands upon one another; but it is evident that there must have been some remnant of justice in them, which enabled them to combine; if there had not been they would have injured one another as well as their victims; they were but half — villains in their enterprises; for had they been whole villains, and utterly unjust, they would have been utterly incapable of action. That, as I believe, is the truth of the matter, and not what you said at first. But whether the just have a better and happier life than the unjust is a further question which we also proposed to consider. I think that they have, and for the reasons which to have given; but still I should like to examine further, for no light matter is at stake, nothing less than the rule of human life.
 
@@ -1050,7 +1050,7 @@ Let this, [Socrates](/figures/socrates), he said, be your entertainment at the B
 
 For which I am indebted to you, I said, now that you have grown gentle towards me and have left off scolding. Nevertheless, I have not been well entertained; but that was my own fault and not yours. As an epicure snatches a taste of every dish which is successively brought to table, he not having allowed himself time to enjoy the one before, so have I gone from one subject to another without having discovered what I sought at first, the nature of justice. I left that enquiry and turned away to consider whether justice is virtue and wisdom or evil and folly; and when there arose a further question about the comparative advantages of justice and injustice, I could not refrain from passing on to that. And the result of the whole discussion has been that I know nothing at all. For I know not what justice is, and therefore I am not likely to know whether it is or is not a virtue, nor can I say whether the just man is happy or unhappy.
 
-<span class="atom-split" data-atom="010" data-title="BOOK II (1/9)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="BOOK II (1/9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -1088,7 +1088,7 @@ GLAUCON
 
 They say that to do injustice is, by nature, good; to suffer injustice, evil; but that the evil is greater than the good. And so when men have both done and suffered injustice and have had experience of both, not being able to avoid the one and obtain the other, they think that they had better agree among themselves to have neither; hence there arise laws and mutual covenants; and that which is ordained by law is termed by them lawful and just. This they affirm to be the origin and nature of justice; — it is a mean or compromise, between the best of all, which is to do injustice and not be punished, and the worst of all, which is to suffer injustice without the power of retaliation; and justice, being at a middle point between the two, is tolerated not as a good, but as the lesser evil, and honoured by reason of the inability of men to do injustice. For no man who is worthy to be called a man would ever submit to such an agreement if he were able to resist; he would be mad if he did. Such is the received account, Socrates, of the nature and origin of justice.
 
-<span class="atom-split" data-atom="011" data-title="BOOK II (2/9)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="BOOK II (2/9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Now that those who practise justice do so involuntarily and because they have not the power to be unjust will best appear if we imagine something of this kind: having given both to the just and the unjust power to do what they will, let us watch and see whither desire will lead them; then we shall discover in the very act the just and unjust man to be proceeding along the same road, following their interest, which all natures deem to be their good, and are only diverted into the path of justice by the force of law. The liberty which we are supposing may be most completely given to them in the form of such a power as is said to have been possessed by Gyges the ancestor of Croesus the Lydian. According to the tradition, Gyges was a shepherd in the service of the king of Lydia; there was a great storm, and an earthquake made an opening in the earth at the place where he was feeding his flock. Amazed at the sight, he descended into the opening, where, among other marvels, he beheld a hollow brazen horse, having doors, at which he stooping and looking in saw a dead body of stature, as appeared to him, more than human, and having nothing on but a gold ring; this he took from the finger of the dead and reascended. Now the shepherds met together, according to [custom](/concepts/custom), that they might send their monthly report about the flocks to the king; into their assembly he came having the ring on his finger, and as he was sitting among them he chanced to turn the collet of the ring inside his hand, when instantly he became invisible to the rest of the company and they began to speak of him as if he were no longer present. He was astonished at this, and again touching the ring he turned the collet outwards and reappeared; he made several trials of the ring, and always with the same result-when he turned the collet inwards he became invisible, when outwards he reappeared. Whereupon he contrived to be chosen one of the messengers who were sent to the court; where as soon as he arrived he seduced the queen, and with her help conspired against the king and slew him, and took the kingdom. Suppose now that there were two such magic rings, and the just put on one of them and the unjust the other; no man can be imagined to be of such an iron nature that he would stand fast in justice. No man would keep his hands off what was not his own when he could safely take what he liked out of the market, or go into houses and lie with any one at his pleasure, or kill or release from prison whom he would, and in all respects be like a God among men. Then the actions of the just would be as the actions of the unjust; they would both come at last to the same point. And this we may truly affirm to be a great proof that a man is just, not willingly or because he thinks that justice is any good to him individually, but of necessity, for wherever any one thinks that he can safely be unjust, there he is unjust. For all men believe in their hearts that injustice is far more profitable to the individual than justice, and he who argues as I have been supposing, will say that they are right. If you could imagine any one obtaining this power of becoming invisible, and never doing any wrong or touching what was another’s, he would be thought by the lookers-on to be a most wretched idiot, although they would praise him to one another’s faces, and keep up appearances with one another from a fear that they too might suffer injustice. Enough of this.
 
@@ -1108,7 +1108,7 @@ In the first place, he is thought just, and therefore bears rule in the city; he
 
 ADEIMANTUS - SOCRATES
 
-<span class="atom-split" data-atom="012" data-title="BOOK II (3/9)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="BOOK II (3/9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 I was going to say something in answer to Glaucon, when Adeimantus, his brother, interposed: [Socrates](/figures/socrates), he said, you do not suppose that there is nothing more to be urged?
 
@@ -1152,7 +1152,7 @@ He proceeded: And now when the young hear all this said about virtue and vice, a
 
 Can I by justice or by crooked ways of deceit ascend a loftier tower which may he a fortress to me all my days?
 
-<span class="atom-split" data-atom="013" data-title="BOOK II (4/9)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="BOOK II (4/9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 For what men say is that, if I am really just and am not also thought just profit there is none, but the pain and loss on the other hand are unmistakable. But if, though unjust, I acquire the reputation of justice, a heavenly life is promised to me. Since then, as philosophers prove, appearance tyrannizes over truth and is lord of happiness, to appearance I must devote myself. I will describe around me a picture and shadow of virtue to be the vestibule and exterior of my house; behind I will trail the subtle and crafty fox, as Archilochus, greatest of sages, recommends. But I hear some one exclaiming that the concealment of wickedness is often difficult; to which I answer, Nothing great is easy. Nevertheless, the argument indicates this, if we would be happy, to be the path along which we should proceed. With a view to concealment we will establish secret brotherhoods and political clubs. And there are professors of rhetoric who teach the art of persuading courts and assemblies; and so, partly by persuasion and partly by force, I shall make unlawful gains and not be punished. Still I hear a voice saying that the gods cannot be deceived, neither can they be compelled. But what if there are no gods? or, suppose them to have no care of human things — why in either case should we mind about concealment? And even if there are gods, and they do care about us, yet we know of them only from tradition and the genealogies of the poets; and these are the very persons who say that they may be influenced and turned by ‘sacrifices and soothing entreaties and by offerings.’ Let us be consistent then, and believe both or neither. If the poets speak truly, why then we had better be unjust, and offer of the fruits of injustice; for if we are just, although we may escape the vengeance of heaven, we shall lose the gains of injustice; but, if we are unjust, we shall keep the gains, and by our sinning and praying, and praying and sinning, the gods will be propitiated, and we shall not be punished. ‘But there is a world below in which either we or our posterity will suffer for our unjust deeds.’ Yes, my friend, will be the reflection, but there are mysteries and atoning deities, and these have great power. That is what mighty cities declare; and the children of the gods, who were their poets and prophets, bear a like testimony.
 
@@ -1168,7 +1168,7 @@ I had always admired the genius of Glaucon and Adeimantus, but on hearing these 
 
 The epithet is very appropriate, for there is something truly divine in being able to argue as you have done for the superiority of injustice, and remaining unconvinced by your own arguments. And I do believe that you are not convinced — this I infer from your general character, for had I judged only from your speeches I should have mistrusted you. But now, the greater my confidence in you, the greater is my difficulty in knowing what to say. For I am in a strait between two; on the one hand I feel that I am unequal to the task; and my inability is brought home to me by the fact that you were not satisfied with the answer which I made to Thrasymachus, proving, as I thought, the superiority which justice has over injustice. And yet I cannot refuse to help, while breath and speech remain to me; I am afraid that there would be an impiety in being present when justice is evil spoken of and not lifting up a hand in her defence. And therefore I had best give such help as I can.
 
-<span class="atom-split" data-atom="014" data-title="BOOK II (5/9)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="BOOK II (5/9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Glaucon and the rest entreated me by all means not to let the question drop, but to proceed in the investigation. They wanted to arrive at the truth, first, about the nature of justice and injustice, and secondly, about their relative advantages. I told them, what I really thought, that the enquiry would be of a serious nature, and would require very good eyes. Seeing then, I said, that we are no great wits, I think that we had better adopt a [method](/axes/method) which I may illustrate thus; suppose that a short-sighted person had been asked by some one to read small letters from a distance; and it occurred to some one else that they might be found in another place which was larger and in which the letters were larger — if they were the same and he could read the larger letters first, and then proceed to the lesser — this would have been thought a rare piece of good fortune.
 
@@ -1332,7 +1332,7 @@ And now, Adeimantus, is our State matured and perfected?
 
 I think so.
 
-<span class="atom-split" data-atom="015" data-title="BOOK II (6/9)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="BOOK II (6/9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Where, then, is justice, and where is injustice, and in what part of [the State](/concepts/state) did they spring up?
 
@@ -1446,7 +1446,7 @@ Yes.
 
 But are not these spirited natures apt to be savage with one another, and with everybody else?
 
-<span class="atom-split" data-atom="016" data-title="BOOK II (7/9)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="BOOK II (7/9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 A difficulty by no means easy to overcome, he replied.
 
@@ -1588,7 +1588,7 @@ Yes, Adeimantus, they are stories not to be repeated in our State; the young man
 
 I entirely agree with you, he said; in my opinion those stories are quite unfit to be repeated.
 
-<span class="atom-split" data-atom="017" data-title="BOOK II (8/9)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="BOOK II (8/9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Neither, if we mean our future guardians to regard the [habit](/concepts/custom) of quarrelling among themselves as of all things the basest, should any word be said to them of the wars in heaven, and of the plots and fightings of the gods against one another, for they are not true. No, we shall never mention the battles of the giants, or let them be embroidered on garments; and we shall be silent about the innumerable other quarrels of gods and heroes with their friends and relatives. If they would only believe us we would tell them that quarrelling is unholy, and that never up to this time has there been any, quarrel between citizens; this is what old men and old women should begin by telling children; and when they grow up, the poets also should be told to compose for them in a similar spirit. But the narrative of Hephaestus binding Here his mother, or how on another occasion Zeus sent him flying for taking her part when she was being beaten, and all the battles of the gods in Homer — these tales must not be admitted into our State, whether they are supposed to have an allegorical meaning or not. For a young person cannot judge what is allegorical and what is literal; anything that he receives into his mind at that age is likely to become indelible and unalterable; and therefore it is most important that the tales which the young first hear should be models of virtuous thoughts.
 
@@ -1724,7 +1724,7 @@ and let no one slander Proteus and Thetis, neither let any one, either in traged
 
 For the life-giving daughters of Inachus the river of Argos;
 
-<span class="atom-split" data-atom="018" data-title="BOOK II (9/9)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="BOOK II (9/9)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 — let us have no more lies of that sort. Neither must we have mothers under the influence of the poets scaring their children with a bad version of these myths — telling how certain gods, as they say, ‘Go about by night in the likeness of so many strangers and in divers forms’; but let them take heed lest they make cowards of their children, and at the same time speak blasphemy against the gods.
 
@@ -1802,7 +1802,7 @@ These are the kind of sentiments about the gods which will arouse our [anger](/c
 
 I entirely agree, be said, in these principles, and promise to make them my laws.
 
-<span class="atom-split" data-atom="019" data-title="BOOK III (1/10)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="BOOK III (1/10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates) - ADEIMANTUS
 
@@ -1952,7 +1952,7 @@ If, then, the ruler catches anybody beside himself lying in the State,
 
     carpenter.
 
-<span class="atom-split" data-atom="020" data-title="BOOK III (2/10)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="BOOK III (2/10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 he will punish him for introducing a practice which is equally subversive and destructive of ship or State.
 
@@ -2090,7 +2090,7 @@ That again, he said, I do not quite understand.
 
 I fear that I must be a ridiculous teacher when I have so much difficulty in making myself apprehended. Like a bad speaker, therefore, I will not take the whole of the subject, but will break a piece off in illustration of my meaning. You know the first lines of the Iliad, in which the poet says that Chryses prayed Agamemnon to release his daughter, and that Agamemnon flew into a passion with him; whereupon Chryses, failing of his object, invoked the anger of the God against the Achaeans. Now as far as these lines,
 
-<span class="atom-split" data-atom="021" data-title="BOOK III (3/10)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="BOOK III (3/10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 And he prayed all the Greeks, but especially the two sons of Atreus, the chiefs of the people,
 
@@ -2190,7 +2190,7 @@ You mean, I said, if I understand you aright, that there is one sort of narrativ
 
 And which are these two sorts? he asked.
 
-<span class="atom-split" data-atom="022" data-title="BOOK III (4/10)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="BOOK III (4/10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 Suppose, I answered, that a just and good man in the course of a narration comes on some saying or action of another good man, — I should imagine that he will like to personate him, and will not be ashamed of this sort of imitation: he will be most ready to play the part of the good man when he is acting firmly and wisely; in a less degree when he is overtaken by illness or love or drink, or has met with any other disaster. But when he comes to a character which is unworthy of him, he will not make a study of that; he will disdain such a person, and will assume his likeness, if at all, for a moment only when he is performing some good action; at other times he will be ashamed to play a part which he has never practised, nor will he like to fashion and frame himself after the baser models; he feels the employment of such an art, unless in jest, to be beneath him, and his mind revolts at it.
 
@@ -2300,7 +2300,7 @@ Then we shall not maintain the artificers of lyres with three corners and comple
 
 Certainly not.
 
-<span class="atom-split" data-atom="023" data-title="BOOK III (5/10)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="BOOK III (5/10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 But what do you say to flute-makers and flute-players? Would you admit them into our State when you reflect that in this composite use of harmony the flute is worse than all the stringed instruments put together; even the panharmonic music is only an imitation of the flute?
 
@@ -2390,7 +2390,7 @@ That is true, he replied, if the deficiency be in his soul; but if there be any 
 
 I perceive, I said, that you have or have had experiences of this sort, and I agree. But let me ask you another question: Has excess of pleasure any affinity to temperance?
 
-<span class="atom-split" data-atom="024" data-title="BOOK III (6/10)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="BOOK III (6/10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 How can that be? he replied; pleasure deprives a man of the use of his faculties quite as much as pain.
 
@@ -2522,7 +2522,7 @@ Not so extraordinary, I replied, if you bear in mind that in former days, as is 
 
 How was that? he said.
 
-<span class="atom-split" data-atom="025" data-title="BOOK III (7/10)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="BOOK III (7/10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 By the invention of lingering death; for he had a mortal disease which he perpetually tended, and as recovery was out of the question, he passed his entire life as a valetudinarian; he could do nothing but attend upon himself, and he was in constant torment whenever he departed in anything from his usual regimen, and so dying hard, by the help of science he struggled on to old age.
 
@@ -2592,7 +2592,7 @@ Therefore, I said, the judge should not be young; he should have learned to know
 
 Yes, he said, that is the ideal of a judge.
 
-<span class="atom-split" data-atom="026" data-title="BOOK III (8/10)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="BOOK III (8/10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 Yes, I replied, and he will be a good man (which is my answer to your question); for he is good who has a good soul. But the cunning and suspicious nature of which we spoke, — he who has committed many crimes, and fancies himself to be a master in wickedness, when he is amongst his fellows, is wonderful in the precautions which he takes, because he judges of them by himself: but when he gets into the company of men of virtue, who have the experience of age, he appears to be a fool again, owing to his unseasonable suspicions; he cannot recognise an honest man, because he has no pattern of honesty in himself; at the same time, as the bad are more numerous than the good, and he meets with them oftener, he thinks himself, and is by others thought to be, rather wise than foolish.
 
@@ -2736,7 +2736,7 @@ How cast off? he said.
 
 I will explain to you, I replied. A resolution may go out of a man’s mind either with his will or against his will; with his will when he gets rid of a falsehood and learns better, against his will whenever he is deprived of a truth.
 
-<span class="atom-split" data-atom="027" data-title="BOOK III (9/10)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="BOOK III (9/10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 I understand, he said, the willing loss of a resolution; the meaning of the unwilling I have yet to learn.
 
@@ -2812,7 +2812,7 @@ That I will endeavour to explain, I replied. To keep watchdogs, who, from want o
 
 Truly monstrous, he said.
 
-<span class="atom-split" data-atom="028" data-title="BOOK III (10/10)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="BOOK III (10/10)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 And therefore every care must be taken that our auxiliaries, being stronger than our citizens, may not grow to be too much for them and become savage tyrants instead of friends and allies?
 
@@ -2834,7 +2834,7 @@ Then let us consider what will be their way of life, if they are to realize our 
 
 Yes, said Glaucon.
 
-<span class="atom-split" data-atom="029" data-title="BOOK IV (1/8)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="BOOK IV (1/8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 ADEIMANTUS - [SOCRATES](/figures/socrates)
 
@@ -2924,7 +2924,7 @@ But how simple of you to use the term State at all of any but our own!
 
 Why so?
 
-<span class="atom-split" data-atom="030" data-title="BOOK IV (2/8)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="BOOK IV (2/8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 You ought to speak of other States in the plural number; not one of them is a city, but many cities, as they say in the game. For indeed any city, however small, is in fact divided into two, one the city of the poor, the other of the rich; these are at war with one another; and in either there are many smaller divisions, and you would be altogether beside the mark if you treated them all as a single State. But if you deal with them as many, and give the wealth or power or persons of the one to the others, you will always have a great many friends and not many enemies. And your State, while the wise order which has now been prescribed continues to prevail in her, will be the greatest of States, I do not mean to say in reputation or appearance, but in deed and truth, though she number not more than a thousand defenders. A single State which is her equal you will hardly find, either among Hellenes or barbarians, though many that appear to be as great and many times greater.
 
@@ -3034,7 +3034,7 @@ These gentlemen, I said, do not seem to be in your good graces.
 
 Assuredly not.
 
-<span class="atom-split" data-atom="031" data-title="BOOK IV (3/8)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="BOOK IV (3/8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 Nor would you praise the behaviour of States which act like the men whom I was just now describing. For are there not ill-ordered States in which the citizens are forbidden under pain of death to alter the constitution; and yet he who most sweetly courts those who live under this regime and indulges them and fawns upon them and is skilful in anticipating and gratifying their humours is held to be a great and good statesman — do not these States resemble the persons whom I was describing?
 
@@ -3178,7 +3178,7 @@ Of the opinion respecting things to be feared, what they are and of what nature,
 
 If you please.
 
-<span class="atom-split" data-atom="032" data-title="BOOK IV (4/8)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="BOOK IV (4/8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 You know, I said, that dyers, when they want to dye wool for making the true sea-purple, begin by selecting their white colour first; this they prepare and dress with much care and pains, in order that the white ground may take the purple hue in full perfection. The dyeing then proceeds; and whatever is dyed in this manner becomes a fast colour, and no washing either with lyes or without them can take away the bloom. But, when the ground has not been duly prepared, you will have noticed how poor is the look either of purple or of any other colour.
 
@@ -3302,7 +3302,7 @@ Further, we affirmed that justice was doing one’s own business, and not being 
 
 Yes, we said so.
 
-<span class="atom-split" data-atom="033" data-title="BOOK IV (5/8)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="BOOK IV (5/8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 Then to do one’s own business in a certain way may be assumed to be justice. Can you tell me whence I derive this inference?
 
@@ -3420,7 +3420,7 @@ Still, I said, let us have a more precise statement of terms, lest we should her
 
 Very true.
 
-<span class="atom-split" data-atom="034" data-title="BOOK IV (6/8)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="BOOK IV (6/8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 And suppose the objector to refine still further, and to draw the nice distinction that not only parts of tops, but whole tops, when they spin round with their pegs fixed on the spot, are at rest and in motion at the same time (and he may say the same of anything which revolves in the same spot), his objection would not be admitted by us, because in such cases things are not at rest and in motion in the same parts of themselves; we should rather say that they have both an axis and a circumference, and that the axis stands still, for there is no deviation from the perpendicular; and that the circumference goes round. But if, while revolving, the axis inclines either to the right or left, forwards or backwards, then in no point of view can they be at rest.
 
@@ -3538,7 +3538,7 @@ Then let us finally determine that there are two principles existing in the soul
 
 I should be inclined to say — akin to desire.
 
-<span class="atom-split" data-atom="035" data-title="BOOK IV (7/8)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="BOOK IV (7/8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 Well, I said, there is a story which I remember to have heard, and in which I put faith. The story is, that Leontius, the son of Aglaion, coming up one day from the Piraeus, under the north wall on the outside, observed some dead bodies lying on the ground at the place of execution. He felt a desire to see them, and also a dread and abhorrence of them; for a time he struggled and covered his eyes, but at length the desire got the better of him; and forcing them open, he ran up to the dead bodies, saying, Look, ye wretches, take your fill of the fair sight.
 
@@ -3664,7 +3664,7 @@ No one will be less likely to commit adultery, or to dishonour his father and mo
 
 No one.
 
-<span class="atom-split" data-atom="036" data-title="BOOK IV (8/8)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="BOOK IV (8/8)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 And the reason is that each part of him is doing its own business, whether in ruling or being ruled?
 
@@ -3766,7 +3766,7 @@ But I regard the two names as describing one form only; for whether the governme
 
 That is true, he replied.
 
-<span class="atom-split" data-atom="037" data-title="BOOK V (1/10)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="BOOK V (1/10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON - ADEIMANTUS
 
@@ -3860,7 +3860,7 @@ Yes, and the most ridiculous thing of all will be the sight of women naked in th
 
 Yes, indeed, he said: according to present notions the proposal would be thought ridiculous.
 
-<span class="atom-split" data-atom="038" data-title="BOOK V (2/10)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="BOOK V (2/10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 But then, I said, as we have determined to speak our minds, we must not fear the jests of the wits which will be directed against this sort of innovation; how they will talk of women’s attainments both in music and gymnastic, and above all about their wearing armour and riding upon horseback!
 
@@ -3956,7 +3956,7 @@ And can you mention any pursuit of mankind in which the male sex has not all the
 
 You are quite right, he replied, in maintaining the general inferiority of the female sex: although many women are in many things superior to many men, yet on the whole what you say is true.
 
-<span class="atom-split" data-atom="039" data-title="BOOK V (3/10)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="BOOK V (3/10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 And if so, my friend, I said, there is no special faculty of administration in a state which a woman has because she is a woman, or which a man has by virtue of his sex, but the gifts of nature are alike diffused in both; all the pursuits of men are the pursuits of women also, but in all of them a woman is inferior to a man.
 
@@ -4098,7 +4098,7 @@ Then clearly the next thing will be to make matrimony sacred in the highest degr
 
 Exactly.
 
-<span class="atom-split" data-atom="040" data-title="BOOK V (4/10)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="BOOK V (4/10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 And how can marriages be made most beneficial? — that is a question which I put to you, because I see in your house dogs for hunting, and of the nobler sort of birds not a few. Now, I beseech you, do tell me, have you ever attended to their pairing and breeding?
 
@@ -4200,7 +4200,7 @@ Such is the scheme, Glaucon, according to which the guardians of our State are t
 
 Yes, certainly.
 
-<span class="atom-split" data-atom="041" data-title="BOOK V (5/10)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="BOOK V (5/10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 Shall we try to find a common basis by asking of ourselves what ought to be the chief aim of the legislator in making laws and in the organization of a State, — what is the greatest I good, and what is the greatest evil, and then consider whether our previous description has the stamp of the good or of the evil?
 
@@ -4346,7 +4346,7 @@ And as the guardians will never quarrel among themselves there will be no danger
 
 None whatever.
 
-<span class="atom-split" data-atom="042" data-title="BOOK V (6/10)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="BOOK V (6/10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 I hardly like even to mention the little meannesses of which they will be rid, for they are beneath notice: such, for example, as the flattery of the rich by the poor, and all the pains and pangs which men experience in bringing up a family, and in finding money to buy necessaries for their household, borrowing and then repudiating, getting how they can, and giving the money into the hands of women and slaves to keep — the many evils of so many kinds which people suffer in this way are mean enough and obvious enough, and not worth speaking of.
 
@@ -4470,7 +4470,7 @@ Capital, I said. That the brave man is to have more wives than others has been a
 
 Agreed.
 
-<span class="atom-split" data-atom="043" data-title="BOOK V (7/10)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="BOOK V (7/10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 Again, there is another manner in which, according to Homer, brave youths should be honoured; for he tells how Ajax, after he had distinguished himself in battle, was rewarded with long chines, which seems to be a compliment appropriate to a hero in the flower of his age, being not only a tribute of honour but also a very strengthening thing.
 
@@ -4590,7 +4590,7 @@ Agreed; and we may agree also in thinking that these, all our previous enactment
 
 But still I must say, [Socrates](/figures/socrates), that if you are allowed to go on in this way you will entirely forget the other question which at the commencement of this discussion you thrust aside: — Is such an order of things possible, and how, if at all? For I am quite ready to acknowledge that the plan which you propose, if only feasible, would do all sorts of good to [the State](/concepts/state). I will add, what you have omitted, that your citizens will be the bravest of warriors, and will never leave their ranks, for they will all know one another, and each will call the other father, brother, son; and if you suppose the women to join their armies, whether in the same rank or in the rear, either as a terror to the enemy, or as auxiliaries in case of need, I know that they will then be absolutely invincible; and there are many domestic tic advantages which might also be mentioned and which I also fully acknowledge: but, as I admit all these advantages and as many more as you please, if only this State of yours were to come into existence, we need say no more about them; assuming then the existence of the State, let us now turn to the question of possibility and ways and means — the rest may be left.
 
-<span class="atom-split" data-atom="044" data-title="BOOK V (8/10)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="BOOK V (8/10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 If I loiter for a moment, you instantly make a raid upon me, I said, and have no mercy; I have hardly escaped the first and second waves, and you seem not to be aware that you are now bringing upon me the third, which is the greatest and heaviest. When you have seen and heard the third wave, I think you be more considerate and will acknowledge that some fear and hesitation was natural respecting a proposal so extraordinary as that which I have now to state and investigate.
 
@@ -4684,7 +4684,7 @@ And may we not say of the philosopher that he is a lover, not of a part of wisdo
 
 Yes, of the whole.
 
-<span class="atom-split" data-atom="045" data-title="BOOK V (9/10)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="BOOK V (9/10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 And he who dislikes learnings, especially in youth, when he has no power of judging what is good and what is not, such an one we maintain not to be a philosopher or a lover of knowledge, just as he who refuses his food is not hungry, and may be said to have a bad appetite and not a good one?
 
@@ -4860,7 +4860,7 @@ And also to be within and between them?
 
 Yes.
 
-<span class="atom-split" data-atom="046" data-title="BOOK V (10/10)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="BOOK V (10/10)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 Then you would infer that opinion is intermediate?
 
@@ -4926,7 +4926,7 @@ But those who love the truth in each thing are to be called lovers of wisdom and
 
 Assuredly.
 
-<span class="atom-split" data-atom="047" data-title="BOOK VI (1/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="BOOK VI (1/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -5082,7 +5082,7 @@ SOCRATES - ADEIMANTUS
 
 Here Adeimantus interposed and said: To these statements, Socrates, no one can offer a reply; but when you talk in this way, a strange feeling passes over the minds of your hearers: They fancy that they are led astray a little at each step in the argument, owing to their own want of skill in asking and answering questions; these littles accumulate, and at the end of the discussion they are found to have sustained a mighty overthrow and all their former notions appear to be turned upside down. And as unskilful players of draughts are at last shut up by their more skilful adversaries and have no piece to move, so they too find themselves shut up at last; for they have nothing to say in this new game of which words are the counters; and yet all the time they are in the right. The observation is suggested to me by what is now occurring. For any one of us might say, that although in words he is not able to meet you at each step of the argument, he sees as a fact that the votaries of philosophy, when they carry on the study, not only in youth as a part of education, but as the pursuit of their maturer years, most of them become strange monsters, not to say utter rogues, and that those who may be considered the best of them are made useless to the world by the very study which you extol.
 
-<span class="atom-split" data-atom="048" data-title="BOOK VI (2/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="BOOK VI (2/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 Well, and do you think that those who say so are wrong?
 
@@ -5164,7 +5164,7 @@ And what numberless and powerful causes tend to destroy these rare natures!
 
 What causes?
 
-<span class="atom-split" data-atom="049" data-title="BOOK VI (3/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="BOOK VI (3/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 In the first place there are their own virtues, their courage, temperance, and the rest of them, every one of which praise worthy qualities (and this is a most singular circumstance) destroys and distracts from philosophy the soul which is the possessor of them.
 
@@ -5262,7 +5262,7 @@ And what will a man such as he be likely to do under such circumstances, especia
 
 To be sure he will.
 
-<span class="atom-split" data-atom="050" data-title="BOOK VI (4/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="BOOK VI (4/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 Now, when he is in this state of mind, if some one gently comes to him and tells him that he is a fool and must get understanding, which can only be got by slaving for it, do you think that, under such adverse circumstances, he will be easily induced to listen?
 
@@ -5334,7 +5334,7 @@ I shall not be hindered, I said, by any want of will, but, if at all, by a want 
 
 In what manner?
 
-<span class="atom-split" data-atom="051" data-title="BOOK VI (5/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="BOOK VI (5/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 At present, I said, the students of philosophy are quite young; beginning when they are hardly past childhood, they devote only the time saved from moneymaking and housekeeping to such pursuits; and even those of them who are reputed to have most of the philosophic spirit, when they come within sight of the great difficulty of the subject, I mean [dialectic](/positions/dialectic), take themselves off. In after life when invited by some one else, they may, perhaps, go and hear a lecture, and about this they make much ado, for philosophy is not considered by them to be their proper business: at last, when they grow old, in most cases they are extinguished more truly than Heracleitus’ sun, inasmuch as they never light up again.
 
@@ -5408,7 +5408,7 @@ And one feature they will erase, and another they will put in, they have made th
 
 Indeed, he said, in no way could they make a fairer picture.
 
-<span class="atom-split" data-atom="052" data-title="BOOK VI (6/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="BOOK VI (6/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 And now, I said, are we beginning to persuade those whom you described as rushing at us with might and main, that the painter of constitutions is such an one as we are praising; at whom they were so very indignant because to his hands we committed [the State](/concepts/state); and are they growing a little calmer at what they have just heard?
 
@@ -5528,7 +5528,7 @@ Yes, I said, there is. And of the virtues too we must behold not the outline mer
 
 A right noble thought; but do you suppose that we shall refrain from asking you what is this highest knowledge?
 
-<span class="atom-split" data-atom="053" data-title="BOOK VI (7/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="BOOK VI (7/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 Nay, I said, ask if you will; but I am certain that you have heard the answer many times, and now you either do not understand me or, as I rather think, you are disposed to be troublesome; for you have of been told that the idea of good is the highest knowledge, and that all other things become useful and advantageous only by their use of this. You can hardly be ignorant that of this I was about to speak, concerning which, as you have often heard me say, we know so little; and, without which, any other knowledge or possession of any kind will profit us nothing. Do you think that the possession of all other things is of any value if we do not possess the good? or the knowledge of all other things if we have no knowledge of [beauty](/concepts/beauty) and goodness?
 
@@ -5676,7 +5676,7 @@ Then the sun is not sight, but the author of sight who is recognised by sight.
 
 True, he said.
 
-<span class="atom-split" data-atom="054" data-title="BOOK VI (8/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="BOOK VI (8/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 And this is he whom I call the child of the good, whom the good begat in his own likeness, to be in the visible world, in relation to sight and the things of sight, what the good is in the intellectual world in relation to mind and the things of mind.
 
@@ -5760,13 +5760,13 @@ And when I speak of the other division of the intelligible, you will understand 
 
 I understand you, he replied; not perfectly, for you seem to me to be describing a task which is really tremendous; but, at any rate, I understand you to say that knowledge and being, which the science of dialectic contemplates, are clearer than the notions of the arts, as they are termed, which proceed from hypotheses only: these are also contemplated by the understanding, and not by the senses: yet, because they start from hypotheses and do not ascend to a principle, those who contemplate them appear to you not to exercise the higher reason upon them, although when a first principle is added to them they are cognizable by the higher reason. And the [habit](/concepts/custom) which is concerned with geometry and the cognate sciences I suppose that you would term understanding and not reason, as being intermediate between opinion and reason.
 
-<span class="atom-split" data-atom="055" data-title="BOOK VI (9/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="BOOK VI (9/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 You have quite conceived my meaning, I said; and now, corresponding to these four divisions, let there be four faculties in the soul-reason answering to the highest, understanding to the second, faith (or conviction) to the third, and perception of shadows to the last-and let there be a scale of them, and let us suppose that the several faculties have clearness in the same degree that their objects have truth.
 
 I understand, he replied, and give my assent, and accept your arrangement.
 
-<span class="atom-split" data-atom="056" data-title="BOOK VII (1/8)" data-chapter="BOOK VII" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="BOOK VII (1/8)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -5854,7 +5854,7 @@ And is there anything surprising in one who passes from divine contemplations to
 
 Anything but surprising, he replied.
 
-<span class="atom-split" data-atom="057" data-title="BOOK VII (2/8)" data-chapter="BOOK VII" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="BOOK VII (2/8)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
 
 Any one who has common sense will remember that the bewilderments of the eyes are of two kinds, and arise from two causes, either from coming out of the light or from going into the light, which is true of the mind’s eye, quite as much as of the bodily eye; and he who remembers this when he sees any one whose vision is perplexed and weak, will not be too ready to laugh; he will first ask whether that soul of man has come out of the brighter light, and is unable to see because unaccustomed to the dark, or having turned from darkness to the day is dazzled by excess of light. And he will count the one happy in his condition and state of being, and he will pity the other; or, if he have a mind to laugh at the soul which comes from below into the light, there will be more reason in this than in the laugh which greets him who returns from above out of the light into the den.
 
@@ -5916,7 +5916,7 @@ And those who govern ought not to be lovers of the task? For, if they are, there
 
 No question.
 
-<span class="atom-split" data-atom="058" data-title="BOOK VII (3/8)" data-chapter="BOOK VII" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="BOOK VII (3/8)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
 
 Who then are those whom we shall compel to be guardians? Surely they will be the men who are wisest about affairs of State, and by whom [the State](/concepts/state) is best administered, and who at the same time have other honours and another and a better life than that of politics?
 
@@ -6068,7 +6068,7 @@ And to which class do unity and number belong?
 
 I do not know, he replied.
 
-<span class="atom-split" data-atom="059" data-title="BOOK VII (4/8)" data-chapter="BOOK VII" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="BOOK VII (4/8)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
 
 Think a little and you will see that what has preceded will supply the answer; for if simple unity could be adequately perceived by the sight or by any other sense, then, as we were saying in the case of the finger, there would be nothing to attract towards being; but when there is some contradiction always present, and one is the reverse of one and involves the conception of plurality, then thought begins to be aroused within us, and the soul perplexed and wanting to arrive at a decision asks ‘What is absolute unity?’ This is the way in which the study of the one has a power of drawing and converting the mind to the contemplation of true being.
 
@@ -6190,7 +6190,7 @@ After plane geometry, I said, we proceeded at once to solids in [revolution](/po
 
 That is true, [Socrates](/figures/socrates); but so little seems to be known as yet about these subjects.
 
-<span class="atom-split" data-atom="060" data-title="BOOK VII (5/8)" data-chapter="BOOK VII" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="BOOK VII (5/8)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
 
 Why, yes, I said, and for two reasons: — in the first place, no government patronises them; this leads to a want of energy in the pursuit of them, and they are difficult; in the second place, students cannot learn them unless they have a director. But then a director can hardly be found, and even if he could, as matters now stand, the students, who are very conceited, would not attend to him. That, however, would be otherwise if the whole State became the director of these studies and gave honour to them; then disciples would want to come, and there would be continuous and earnest search, and discoveries would be made; since even now, disregarded as they are by the world, and maimed of their fair proportions, and although none of their votaries can tell the use of them, still these studies force their way by their natural charm, and very likely, if they had the help of [the State](/concepts/state), they would some day emerge into light.
 
@@ -6266,7 +6266,7 @@ That, he said, is a thing of more than mortal knowledge.
 
 A thing, I replied, which I would rather call useful; that is, if sought after with a view to the beautiful and good; but if pursued in any other spirit, useless. Very true, he said.
 
-<span class="atom-split" data-atom="061" data-title="BOOK VII (6/8)" data-chapter="BOOK VII" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="BOOK VII (6/8)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
 
 Now, when all these studies reach the point of inter-communion and connection with one another, and come to be considered in their mutual affinities, then, I think, but not till then, will the pursuit of them have a value for our objects; otherwise there is no profit in them.
 
@@ -6350,7 +6350,7 @@ You remember, I said, how the rulers were chosen before?
 
 Certainly, he said.
 
-<span class="atom-split" data-atom="062" data-title="BOOK VII (7/8)" data-chapter="BOOK VII" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="BOOK VII (7/8)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
 
 The same natures must still be chosen, and the preference again given to the surest and the bravest, and, if possible, to the fairest; and, having noble and generous tempers, they should also have the natural gifts which will facilitate their [education](/concepts/education).
 
@@ -6458,7 +6458,7 @@ Well, all that is very probable. But how is the image applicable to the disciple
 
 In this way: you know that there are certain principles about justice and honour, which were taught us in childhood, and under their parental authority we have been brought up, obeying and honouring them.
 
-<span class="atom-split" data-atom="063" data-title="BOOK VII (8/8)" data-chapter="BOOK VII" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="BOOK VII (8/8)" data-chapter="BOOK VII" data-kind="atom" data-srclang="en"></span>
 
 That is true.
 
@@ -6530,7 +6530,7 @@ Enough then of the perfect State, and of the man who bears its image — there i
 
 There is no difficulty, he replied; and I agree with you in thinking that nothing more need be said.
 
-<span class="atom-split" data-atom="064" data-title="BOOK VIII (1/8)" data-chapter="BOOK VIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="BOOK VIII (1/8)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -6586,7 +6586,7 @@ In what way, then, will our city be moved, and in what manner the two classes of
 
 How would they address us?
 
-<span class="atom-split" data-atom="065" data-title="BOOK VIII (2/8)" data-chapter="BOOK VIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="BOOK VIII (2/8)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
 
 After this manner: — A city which is thus constituted can hardly be shaken; but, seeing that everything which has a beginning has also an end, even a constitution such as yours will not last for ever, but will in time be dissolved. And this is the dissolution: — In plants that grow in the earth, as well as in animals that move on the earth’s surface, fertility and sterility of [soul and body](/axes/soul_body) occur when the circumferences of the circles of each are completed, which in short-lived existences pass over a short space, and in long-lived ones over a long space. But to the knowledge of human fecundity and sterility all the wisdom and [education](/concepts/education) of your rulers will not attain; the laws which regulate them will not be discovered by an intelligence which is alloyed with sense, but will escape them, and they will bring children into the world when they ought not. Now that which is of divine birth has a period which is contained in a perfect number, but the period of human birth is comprehended in a number in which first increments by involution and evolution (or squared and cubed) obtaining three intervals and four terms of like and unlike, waxing and waning numbers, make all the terms commensurable and agreeable to one another. The base of these (3) with a third added (4) when combined with five (20) and raised to the third power furnishes two harmonies; the first a square which is a hundred times as great (400 = 4 X 100), and the other a figure having one side equal to the former, but oblong, consisting of a hundred numbers squared upon rational diameters of a square (i. e. omitting fractions), the side of which is five (7 X 7 = 49 X 100 = 4900), each of them being less by one (than the perfect square which includes the fractions, sc. 50) or less by two perfect squares of irrational diameters (of a square the side of which is five = 50 + 50 = 100); and a hundred cubes of three (27 X 100 = 2700 + 4900 + 400 = 8000). Now this number represents a geometrical figure which has control over the good and evil of births. For when your guardians are ignorant of the law of births, and unite bride and bridegroom out of season, the children will not be goodly or fortunate. And though only the best of them will be appointed by their predecessors, still they will be unworthy to hold their fathers’ places, and when they come into power as guardians, they will soon be found to fall in taking care of us, the Muses, first by under-valuing music; which neglect will soon extend to gymnastic; and hence the young men of your State will be less cultivated. In the succeeding generation rulers will be appointed who have lost the guardian power of testing the metal of your different races, which, like Hesiod’s, are of gold and silver and brass and iron. And so iron will be mingled with silver, and brass with gold, and hence there will arise dissimilarity and inequality and irregularity, which always and in all places are causes of hatred and war. This the Muses affirm to be the stock from which discord has sprung, wherever arising; and this is their answer to us.
 
@@ -6658,7 +6658,7 @@ Such, I said, is the timocratical youth, and he is like the timocratical State.
 
 Exactly.
 
-<span class="atom-split" data-atom="066" data-title="BOOK VIII (3/8)" data-chapter="BOOK VIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="BOOK VIII (3/8)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
 
 His origin is as follows: — He is often the young son of a grave father, who dwells in an ill-governed city, of which he declines the honours and offices, and will not go to law, or exert himself in any way, but is ready to waive his rights in order that he may escape trouble.
 
@@ -6798,7 +6798,7 @@ Yes, he said; nearly everybody is a pauper who is not a ruler.
 
 And may we be so bold as to affirm that there are also many criminals to be found in them, rogues who have stings, and whom the authorities are careful to restrain by force?
 
-<span class="atom-split" data-atom="067" data-title="BOOK VIII (4/8)" data-chapter="BOOK VIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="BOOK VIII (4/8)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
 
 Certainly, we may be so bold.
 
@@ -6934,7 +6934,7 @@ They themselves care only for making money, and are as indifferent as the pauper
 
 Yes, quite as indifferent.
 
-<span class="atom-split" data-atom="068" data-title="BOOK VIII (5/8)" data-chapter="BOOK VIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="BOOK VIII (5/8)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
 
 Such is [the state](/concepts/state) of affairs which prevails among them. And often rulers and their subjects may come in one another’s way, whether on a pilgrimage or a march, as fellow-soldiers or fellow-sailors; aye, and they may observe the behaviour of each other in the very moment of danger — for where danger is, there is no fear that the poor will be despised by the rich — and very likely the wiry sunburnt poor man may be placed in battle at the side of a wealthy one who has never spoilt his complexion and has plenty of superfluous flesh — when he sees such an one puffing and at his wit’s end, how can he avoid drawing the conclusion that men like him are only rich because no one has the courage to despoil them? And when they meet in private will not people be saying to one another ‘Our warriors are not good for much’?
 
@@ -7060,7 +7060,7 @@ When a young man who has been brought up as we were just now describing, in a vu
 
 Inevitably.
 
-<span class="atom-split" data-atom="069" data-title="BOOK VIII (6/8)" data-chapter="BOOK VIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="BOOK VIII (6/8)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
 
 And as in the city like was helping like, and the change was effected by an alliance from without assisting one division of the citizens, so too the young man is changed by a class of desires coming from without to assist the desires within him, that which is and alike again helping that which is akin and alike?
 
@@ -7166,7 +7166,7 @@ I mean that the father grows accustomed to descend to the level of his sons and 
 
 Yes, he said, that is the way.
 
-<span class="atom-split" data-atom="070" data-title="BOOK VIII (7/8)" data-chapter="BOOK VIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="BOOK VIII (7/8)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
 
 And these are not the only evils, I said — there are several lesser ones: In such a state of society the master fears and flatters his scholars, and the scholars despise their masters and tutors; young and old are all alike; and the young man is on a level with the old, and is ready to compete with him in word or deed; and old men condescend to the young and are full of pleasantry and gaiety; they are loth to be thought morose and authoritative, and therefore they adopt the manners of the young.
 
@@ -7308,7 +7308,7 @@ And when a man who is wealthy and is also accused of being an enemy of the peopl
 
     ashamed to be a coward.
 
-<span class="atom-split" data-atom="071" data-title="BOOK VIII (8/8)" data-chapter="BOOK VIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="BOOK VIII (8/8)" data-chapter="BOOK VIII" data-kind="atom" data-srclang="en"></span>
 
 And quite right too, said he, for if he were, he would never be ashamed again.
 
@@ -7442,7 +7442,7 @@ Very well; and may we not rightly say that we have sufficiently discussed the na
 
 Yes, quite enough, he said.
 
-<span class="atom-split" data-atom="072" data-title="BOOK IX (1/7)" data-chapter="BOOK IX" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="BOOK IX (1/7)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates) - ADEIMANTUS
 
@@ -7564,7 +7564,7 @@ Truly, then, I said, a tyrannical son is a blessing to his father and mother.
 
 He is indeed, he replied.
 
-<span class="atom-split" data-atom="073" data-title="BOOK IX (2/7)" data-chapter="BOOK IX" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="BOOK IX (2/7)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
 
 He first takes their property, and when that falls, and pleasures are beginning to swarm in the hive of his soul, then he breaks into a house, or steals the garments of some nightly wayfarer; next he proceeds to clear a temple. Meanwhile the old opinions which he had when a child, and which gave judgment about good and evil, are overthrown by those others which have just been emancipated, and are now the bodyguard of love and share his empire. These in his democratic days, when he was still subject to the laws and to his father, were only let loose in the dreams of sleep. But now that he is under the dominion of love, he becomes always and in waking reality what he was then very rarely and in a dream only; he will commit the foulest murder, or eat forbidden food, or be guilty of any other horrid act. Love is his tyrant, and lives lordly in him and lawlessly, and being himself a king, leads him on, as a tyrant leads a State, to the performance of any reckless deed by which he can maintain himself and the rabble of his associates, whether those whom evil communications have brought in from without, or those whom he himself has allowed to break loose within him by reason of a similar evil nature in himself. Have we not here a picture of his way of life?
 
@@ -7688,7 +7688,7 @@ Certainly not.
 
 And is there any man in whom you will find more of this sort of misery than in the tyrannical man, who is in a fury of passions and desires?
 
-<span class="atom-split" data-atom="074" data-title="BOOK IX (3/7)" data-chapter="BOOK IX" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="BOOK IX (3/7)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
 
 Impossible.
 
@@ -7832,7 +7832,7 @@ Now, if you examine the three classes of men, and ask of them in turn which of t
 
 True, he said.
 
-<span class="atom-split" data-atom="075" data-title="BOOK IX (4/7)" data-chapter="BOOK IX" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="BOOK IX (4/7)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
 
 And the lover of honour — what will be his opinion? Will he not think that the pleasure of riches is vulgar, while the pleasure of learning, if it brings no distinction, is all smoke and nonsense to him?
 
@@ -8014,7 +8014,7 @@ Then can you wonder that persons who are inexperienced in the truth, as they hav
 
 No, indeed; I should be much more disposed to wonder at the opposite.
 
-<span class="atom-split" data-atom="076" data-title="BOOK IX (5/7)" data-chapter="BOOK IX" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="BOOK IX (5/7)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
 
 Look at the matter thus: — Hunger, thirst, and the like, are inanitions of the bodily state?
 
@@ -8170,7 +8170,7 @@ An ideal image of the soul, like the composite creations of ancient mythology, s
 
 There are said of have been such unions.
 
-<span class="atom-split" data-atom="077" data-title="BOOK IX (6/7)" data-chapter="BOOK IX" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="BOOK IX (6/7)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
 
 Then do you now model the form of a multitudinous, many-headed monster, having a ring of heads of all manner of beasts, tame and wild, which he is able to generate and metamorphose at will.
 
@@ -8268,13 +8268,13 @@ By the dog of Egypt, he will! in the city which is his own he certainly will, th
 
 I understand; you mean that he will be a ruler in the city of which we are the founders, and which exists in idea only; for I do not believe that there is such an one anywhere on earth?
 
-<span class="atom-split" data-atom="078" data-title="BOOK IX (7/7)" data-chapter="BOOK IX" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="BOOK IX (7/7)" data-chapter="BOOK IX" data-kind="atom" data-srclang="en"></span>
 
 In heaven, I replied, there is laid up a pattern of it, methinks, which he who desires may behold, and beholding, may set his own house in order. But whether such an one exists, or ever will exist in fact, is no matter; for he will live after the manner of that city, having nothing to do with any other.
 
 I think so, he said.
 
-<span class="atom-split" data-atom="079" data-title="BOOK X (1/9)" data-chapter="BOOK X" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="BOOK X (1/9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates) - GLAUCON
 
@@ -8438,7 +8438,7 @@ Then the imitator, I said, is a long way off the truth, and can do all things be
 
 Certainly.
 
-<span class="atom-split" data-atom="080" data-title="BOOK X (2/9)" data-chapter="BOOK X" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="BOOK X (2/9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
 
 And whenever any one informs us that he has found a man knows all the arts, and all things else that anybody knows, and every single thing with a higher degree of accuracy than any other man — whoever tells us this, I think that we can only imagine to be a simple creature who is likely to have been deceived by some wizard or actor whom he met, and whom he thought all-knowing, because he himself was unable to analyse the nature of knowledge and ignorance and imitation.
 
@@ -8520,7 +8520,7 @@ And the excellence or [beauty](/concepts/beauty) or truth of every structure, an
 
 True.
 
-<span class="atom-split" data-atom="081" data-title="BOOK X (3/9)" data-chapter="BOOK X" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="BOOK X (3/9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
 
 Then the user of them must have the greatest experience of them, and he must indicate to the maker the good or bad qualities which develop themselves in use; for example, the flute-player will tell the flute-maker which of his flutes is satisfactory to the performer; he will tell him how he ought to make them, and the other will attend to his instructions?
 
@@ -8678,7 +8678,7 @@ Then the imitative poet who aims at being popular is not by nature made, nor is 
 
 Clearly.
 
-<span class="atom-split" data-atom="082" data-title="BOOK X (4/9)" data-chapter="BOOK X" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="BOOK X (4/9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
 
 And now we may fairly take him and place him by the side of the painter, for he is like him in two ways: first, inasmuch as his creations have an inferior degree of truth — in this, I say, he is like him; and he is also like him in being concerned with an inferior part of the soul; and therefore we shall be right in refusing to admit him into a well-ordered State, because he awakens and nourishes and strengthens the feelings and impairs the reason. As in a city when the evil are permitted to have authority and the good are put out of the way, so in the soul of man, as we maintain, the imitative poet implants an evil constitution, for he indulges the irrational nature which has no discernment of greater and less, but thinks the same thing at one time great and at another small-he is a manufacturer of images and is very far removed from the truth.
 
@@ -8736,7 +8736,7 @@ If her defence fails, then, my dear friend, like other persons who are enamoured
 
 Yes, he said, I quite agree with you.
 
-<span class="atom-split" data-atom="083" data-title="BOOK X (5/9)" data-chapter="BOOK X" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="BOOK X (5/9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
 
 Yes, I said, my dear Glaucon, for great is the issue at stake, greater than appears, whether a man is to be good or bad. And what will any one be profited if under the influence of honour or money or power, aye, or under the excitement of poetry, he neglect justice and virtue?
 
@@ -8846,7 +8846,7 @@ Her immortality is demonstrated by the previous argument, and there are many oth
 
 Where then?
 
-<span class="atom-split" data-atom="084" data-title="BOOK X (6/9)" data-chapter="BOOK X" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="BOOK X (6/9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
 
 At her love of wisdom. Let us see whom she affects, and what society and converse she seeks in virtue of her near kindred with the immortal and eternal and divine; also how different she would become if wholly following this superior principle, and borne by a divine impulse out of the ocean in which she now is, and disengaged from the stones and shells and things of earth and rock which in wild variety spring up around her because she feeds upon earth, and is overgrown by the good things of this life as they are termed: then you would see her as she is, and know whether she has one shape only or many, or what her nature is. Of her affections and of the forms which she takes in this present life I think that we have now said enough.
 
@@ -8914,17 +8914,17 @@ Speak, he said; there are few things which I would more gladly hear.
 
 [SOCRATES](/figures/socrates)
 
-<span class="atom-split" data-atom="085" data-title="BOOK X (7/9)" data-chapter="BOOK X" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="BOOK X (7/9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
 
 Well, I said, I will tell you a tale; not one of the tales which Odysseus tells to the hero Alcinous, yet this too is a tale of a hero, Er the son of Armenius, a Pamphylian by birth. He was slain in battle, and ten days afterwards, when the bodies of the dead were taken up already in a state of corruption, his body was found unaffected by decay, and carried away home to be buried. And on the twelfth day, as he was lying on the funeral pile, he returned to life and told them what he had seen in the other world. He said that when his soul left the body he went on a journey with a great company, and that they came to a mysterious place at which there were two openings in the earth; they were near together, and over against them were two other openings in the heaven above. In the intermediate space there were judges seated, who commanded the just, after they had given judgment on them and had bound their sentences in front of them, to ascend by the heavenly way on the right hand; and in like manner the unjust were bidden by them to descend by the lower way on the left hand; these also bore the symbols of their deeds, but fastened on their backs. He drew near, and they told him that he was to be the messenger who would carry the report of the other world to men, and they bade him hear and see all that was to be heard and seen in that place. Then he beheld and saw on one side the souls departing at either opening of heaven and earth when sentence had been given on them; and at the two other openings other souls, some ascending out of the earth dusty and worn with travel, some descending out of heaven clean and bright. And arriving ever and anon they seemed to have come from a long journey, and they went forth with gladness into the meadow, where they encamped as at a festival; and those who knew one another embraced and conversed, the souls which came from earth curiously enquiring about the things above, and the souls which came from heaven about the things beneath. And they told one another of what had happened by the way, those from below weeping and sorrowing at the remembrance of the things which they had endured and seen in their journey beneath the earth (now the journey lasted a thousand years), while those from above were describing heavenly delights and visions of inconceivable [beauty](/concepts/beauty). The Story, Glaucon, would take too long to tell; but the sum was this: — He said that for every wrong which they had done to any one they suffered tenfold; or once in a hundred years — such being reckoned to be the length of man’s life, and the penalty being thus paid ten times in a thousand years. If, for example, there were any who had been the cause of many deaths, or had betrayed or enslaved cities or armies, or been guilty of any other evil behaviour, for each and all of their offences they received punishment ten times over, and the rewards of beneficence and justice and holiness were in the same proportion. I need hardly repeat what he said concerning young children dying almost as soon as they were born. Of piety and impiety to gods and parents, and of murderers, there were retributions other and greater far which he described. He mentioned that he was present when one of the spirits asked another, ‘Where is Ardiaeus the Great?’ (Now this Ardiaeus lived a thousand years before the time of Er: he had been the tyrant of some city of Pamphylia, and had murdered his aged father and his elder brother, and was said to have committed many other abominable crimes.) The answer of the other spirit was: ‘He comes not hither and will never come. And this,’ said he, ‘was one of the dreadful sights which we ourselves witnessed. We were at the mouth of the cavern, and, having completed all our experiences, were about to reascend, when of a sudden Ardiaeus appeared and several others, most of whom were tyrants; and there were also besides the tyrants private individuals who had been great criminals: they were just, as they fancied, about to return into the upper world, but the mouth, instead of admitting them, gave a roar, whenever any of these incurable sinners or some one who had not been sufficiently punished tried to ascend; and then wild men of fiery aspect, who were standing by and heard the sound, seized and carried them off; and Ardiaeus and others they bound head and foot and hand, and threw them down and flayed them with scourges, and dragged them along the road at the side, carding them on thorns like wool, and declaring to the passers-by what were their crimes, and that they were being taken away to be cast into hell.’ And of all the many terrors which they had endured, he said that there was none like the terror which each of them felt at that moment, lest they should hear the voice; and when there was silence, one by one they ascended with exceeding joy. These, said Er, were the penalties and retributions, and there were blessings as great.
 
-<span class="atom-split" data-atom="086" data-title="BOOK X (8/9)" data-chapter="BOOK X" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="BOOK X (8/9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
 
 Now when the spirits which were in the meadow had tarried seven days, on the eighth they were obliged to proceed on their journey, and, on the fourth day after, he said that they came to a place where they could see from above a line of light, straight as a column, extending right through the whole heaven and through the earth, in colour resembling the rainbow, only brighter and purer; another day’s journey brought them to the place, and there, in the midst of the light, they saw the ends of the chains of heaven let down from above: for this light is the belt of heaven, and holds together the circle of the universe, like the under-girders of a trireme. From these ends is extended the spindle of Necessity, on which all the revolutions turn. The shaft and hook of this spindle are made of steel, and the whorl is made partly of steel and also partly of other materials. Now the whorl is in form like the whorl used on earth; and the description of it implied that there is one large hollow whorl which is quite scooped out, and into this is fitted another lesser one, and another, and another, and four others, making eight in all, like vessels which fit into one another; the whorls show their edges on the upper side, and on their lower side all together form one continuous whorl. This is pierced by the spindle, which is driven home through the centre of the eighth. The first and outermost whorl has the rim broadest, and the seven inner whorls are narrower, in the following proportions — the sixth is next to the first in size, the fourth next to the sixth; then comes the eighth; the seventh is fifth, the fifth is sixth, the third is seventh, last and eighth comes the second. The largest (of fixed stars) is spangled, and the seventh (or sun) is brightest; the eighth (or moon) coloured by the reflected light of the seventh; the second and fifth (Saturn and Mercury) are in colour like one another, and yellower than the preceding; the third (Venus) has the whitest light; the fourth (Mars) is reddish; the sixth (Jupiter) is in whiteness second. Now the whole spindle has the same motion; but, as the whole revolves in one direction, the seven inner circles move slowly in the other, and of these the swiftest is the eighth; next in swiftness are the seventh, sixth, and fifth, which move together; third in swiftness appeared to move according to the law of this reversed motion the fourth; the third appeared fourth and the second fifth. The spindle turns on the knees of Necessity; and on the upper surface of each circle is a siren, who goes round with them, hymning a single tone or note. The eight together form one harmony; and round about, at equal intervals, there is another band, three in number, each sitting upon her throne: these are the Fates, daughters of Necessity, who are clothed in white robes and have chaplets upon their heads, Lachesis and Clotho and Atropos, who accompany with their voices the harmony of the sirens — Lachesis singing of the past, Clotho of the present, Atropos of the future; Clotho from time to time assisting with a touch of her right hand the [revolution](/positions/revolution) of the outer circle of the whorl or spindle, and Atropos with her left hand touching and guiding the inner ones, and Lachesis laying hold of either in turn, first with one hand and then with the other.
 
 When Er and the spirits arrived, their duty was to go at once to Lachesis; but first of all there came a prophet who arranged them in order; then he took from the knees of Lachesis lots and samples of lives, and having mounted a high pulpit, spoke as follows: ‘Hear the word of Lachesis, the daughter of Necessity. Mortal souls, behold a new cycle of life and mortality. Your genius will not be allotted to you, but you choose your genius; and let him who draws the first lot have the first choice, and the life which he chooses shall be his destiny. Virtue is free, and as a man honours or dishonours her he will have more or less of her; the responsibility is with the chooser — God is justified.’ When the Interpreter had thus spoken he scattered lots indifferently among them all, and each of them took up the lot which fell near him, all but Er himself (he was not allowed), and each as he took his lot perceived the number which he had obtained. Then the Interpreter placed on the ground before them the samples of lives; and there were many more lives than the souls present, and they were of all sorts. There were lives of every animal and of man in every condition. And there were tyrannies among them, some lasting out the tyrant’s life, others which broke off in the middle and came to an end in poverty and exile and beggary; and there were lives of famous men, some who were famous for their form and [beauty](/concepts/beauty) as well as for their strength and success in games, or, again, for their birth and the qualities of their ancestors; and some who were the reverse of famous for the opposite qualities. And of women likewise; there was not, however, any definite character them, because the soul, when choosing a new life, must of necessity become different. But there was every other quality, and the all mingled with one another, and also with elements of wealth and poverty, and disease and health; and there were mean states also. And here, my dear Glaucon, is the supreme peril of our human state; and therefore the utmost care should be taken. Let each one of us leave every other kind of knowledge and seek and follow one thing only, if peradventure he may be able to learn and may find some one who will make him able to learn and discern between good and evil, and so to choose always and everywhere the better life as he has opportunity. He should consider the bearing of all these things which have been mentioned severally and collectively upon virtue; he should know what the effect of beauty is when combined with poverty or wealth in a particular soul, and what are the good and evil consequences of noble and humble birth, of private and public station, of strength and weakness, of cleverness and dullness, and of all the soul, and the operation of them when conjoined; he will then look at the nature of the soul, and from the consideration of all these qualities he will be able to determine which is the better and which is the worse; and so he will choose, giving the name of evil to the life which will make his soul more unjust, and good to the life which will make his soul more just; all else he will disregard. For we have seen and know that this is the best choice both in life and after death. A man must take with him into the world below an adamantine faith in truth and right, that there too he may be undazzled by the desire of wealth or the other allurements of evil, lest, coming upon tyrannies and similar villainies, he do irremediable wrongs to others and suffer yet worse himself; but let him know how to choose the mean and avoid the extremes on either side, as far as possible, not only in this life but in all that which is to come. For this is the way of happiness.
 
-<span class="atom-split" data-atom="087" data-title="BOOK X (9/9)" data-chapter="BOOK X" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="BOOK X (9/9)" data-chapter="BOOK X" data-kind="atom" data-srclang="en"></span>
 
 And according to the report of the messenger from the other world this was what the prophet said at the time: ‘Even for the last comer, if he chooses wisely and will live diligently, there is appointed a happy and not undesirable existence. Let not him who chooses first be careless, and let not the last despair.’ And when he had spoken, he who had the first choice came forward and in a moment chose the greatest tyranny; his mind having been darkened by folly and sensuality, he had not thought out the whole matter before he chose, and did not at first sight perceive that he was fated, among other evils, to devour his own children. But when he had time to reflect, and saw what was in the lot, he began to beat his breast and lament over his choice, forgetting the proclamation of the prophet; for, instead of throwing the blame of his misfortune on himself, he accused [chance](/concepts/fortune) and the gods, and everything rather than himself. Now he was one of those who came from heaven, and in a former life had dwelt in a well-ordered State, but his virtue was a matter of [habit](/concepts/custom) only, and he had no philosophy. And it was true of others who were similarly overtaken, that the greater number of them came from heaven and therefore they had never been schooled by trial, whereas the pilgrims who came from earth, having themselves suffered and seen others suffer, were not in a hurry to choose. And owing to this inexperience of theirs, and also because the lot was a chance, many of the souls exchanged a good destiny for an evil or an evil for a good. For if a man had always on his arrival in this world dedicated himself from the first to sound philosophy, and had been moderately fortunate in the number of the lot, he might, as the messenger reported, be happy here, and also his journey to another life and return to this, instead of being rough and underground, would be smooth and heavenly. Most curious, he said, was the spectacle — sad and laughable and strange; for the choice of the souls was in most cases based on their experience of a previous life. There he saw the soul which had once been Orpheus choosing the life of a swan out of enmity to the race of women, hating to be born of a woman because they had been his murderers; he beheld also the soul of Thamyras choosing the life of a nightingale; birds, on the other hand, like the swan and other musicians, wanting to be men. The soul which obtained the twentieth lot chose the life of a lion, and this was the soul of Ajax the son of Telamon, who would not be a man, remembering the injustice which was done him the judgment about the arms. The next was Agamemnon, who took the life of an eagle, because, like Ajax, he hated [human nature](/axes/human_nature) by reason of his sufferings. About the middle came the lot of Atalanta; she, seeing the great fame of an athlete, was unable to resist the temptation: and after her there followed the soul of Epeus the son of Panopeus passing into the nature of a woman cunning in the arts; and far away among the last who chose, the soul of the jester Thersites was putting on the form of a monkey. There came also the soul of Odysseus having yet to make a choice, and his lot happened to be the last of them all. Now the recollection of former tolls had disenchanted him of ambition, and he went about for a considerable time in search of the life of a private man who had no cares; he had some difficulty in finding this, which was lying about and had been neglected by everybody else; and when he saw it, he said that he would have done the had his lot been first instead of last, and that he was delighted to have it. And not only did men pass into animals, but I must also mention that there were animals tame and wild who changed into one another and into corresponding human natures — the good into the gentle and the evil into the savage, in all sorts of combinations.
 

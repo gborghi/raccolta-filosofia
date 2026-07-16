@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/a_metodología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="a) Metodología" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="a) Metodología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ese proceso de lo dado a otro concepto es lo que se llama la relación de principio y consecuencia. Si la experiencia es hallar pasivamente y la lógica aclarar y distinguir, es la metafísica concluir de un concepto a otro.
 

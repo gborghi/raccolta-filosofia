@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_el_punto_de_vista_en_las_artes" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre el punto de vista en las artes" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre el punto de vista en las artes" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -66,7 +66,7 @@ Esta advertencia nos obliga a reconocer la siguiente paradoja: el objeto que vem
 
 VII
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pues bien, a lo largo de la historia artística europea, el punto de vista del pintor ha ido cambiando desde la visión próxima a la visión lejana, y paralelamente, la pintura, que empieza en Giotto por ser pintura de bulto, se torna pintura de hueco.
 
@@ -120,7 +120,7 @@ Esto son Ribera, Caravaggio y Velázquez mozo (Adoración de los Reyes).
 
 Aún se busca la corporeidad según el uso recibido. Pero ya no interesa primordialmente. El objeto por sí empieza a ser desatendido y a no tener otro papel que servir de sostén y fondo a la luz sobre él. Se persigue la trayectoria de la luz, insistiendo en su resbalar sobre el haz de los volúmenes, de los bultos.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Se advierte claramente el desplazamiento del punto de vista que esto implica? El Velázquez de la Adoración de los Reyes no se fija ya en el cuerpo como tal, sino en su superficie, donde la luz choca y se refleja. Ha habido, pues, un retraimiento de la mirada, que deja de ser mano y suelta la presa del cuerpo redondo. Ahora, el rayo visual se detiene donde el cuerpo comienza y la luz cae fúlgida; de allí va a buscar otro lugar de otro objeto cualquiera donde vibra pareja intensidad de iluminación. Se ha producido una mágica solidaridad y unificación de todos los trozos claros frente a los oscuros. Las cosas por su forma y condición más dispares, resultan ahora equivalentes. La primacía individualista de los objetos acaba. Ya no interesan por sí mismos y empiezan a no ser más que pretexto para otra cosa.
 
@@ -160,7 +160,7 @@ Más dentro aún de éste se hallan las ideas. También las ideas son realidades
 
 Pues bien: los volúmenes que Cézanne evoca no tienen nada que ver con los que Giotto descubre; son más bien sus antagonistas. Giotto busca el volumen propio de cada cosa, su corporeidad realísima y tangible. Antes de él sólo se conocía la imagen bizantina de dos dimensiones. Cézanne, por el contrario, sustituye a los cuerpos de las cosas volúmenes irreales de pura invención, que sólo tienen con aquéllos un nexo metafórico. Desde él la pintura sólo pinta ideas —las cuales, ciertamente, son también objetos, pero objetos ideales, inmanentes al sujeto o intrasubjetivos.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Esto explica la mescolanza que, a despecho de explicaciones erróneas, se presenta en el turbio jirón del llamado cubismo. Junto a volúmenes en que parece acusarse superlativamente la rotundidad de los cuerpos, Picasso, en sus cuadros más escandalosos y típicos, aniquila la forma cerrada del objeto y, en puros planos euclidianos, anota trozos de él, una ceja, un bigote, una nariz —sin otra misión que servir de cifra simbólica a ideas.
 

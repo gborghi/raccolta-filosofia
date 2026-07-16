@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_situación_en_diciembre" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La situación en diciembre" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La situación en diciembre" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Es conveniente recordar cómo andaban las cosas en el punto en que vinieron a quebrar los albores de esta nueva era.
 

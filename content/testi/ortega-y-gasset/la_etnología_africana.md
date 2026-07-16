@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_etnología_africana" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La etnología africana" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La etnología africana" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 África ha sido siempre tierra de leones. El clásico entre los historiadores europeos de África se llamó León Africano, y hoy es León Frobenius el mayor doctor en africanidades.
 

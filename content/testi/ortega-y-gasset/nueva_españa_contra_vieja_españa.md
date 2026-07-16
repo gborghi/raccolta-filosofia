@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nueva_españa_contra_vieja_españa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nueva España contra vieja España" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nueva España contra vieja España" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El general Carranza, jefe del partido constitucionalista mejicano, ha echado a nuestro representante diplomático del territorio de Nueva España, como se echa a un perro de una iglesia. El suceso debe referirse así, huyendo de todo eufemismo, buscando expresiones que lleven a todos los ánimos españoles la clara conciencia de la ominosa realidad. Y es un deber de patriotismo que el cuento doloroso se cuente en la última aldea, entre los hombres de capa parda juntados en la solana, y en la última escuela, ante los niños de pupilas inquietas, para que quede en sus menudos corazones como un germen de inquietud y una simiente de coraje. Que lo sepan todos. ¡Hasta de la Nueva España quieren ahuyentar la sombra de la Vieja España!
 

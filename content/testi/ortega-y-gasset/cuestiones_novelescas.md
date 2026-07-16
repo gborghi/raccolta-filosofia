@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/cuestiones_novelescas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Cuestiones novelescas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Cuestiones novelescas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Para entendernos con el señor Massis era menester previamente recusar la ficción de su tomismo y de su presunto catolicismo. Uno y otro son en el señor Massis máscaras de guerra como las que usan los mahoríes, «posturas» y batimán polémico. Nada urge tanto en la presente hora del espíritu como lograr que el escritor se deje de polémicas y gestos, de predicaciones y propagandas, para, en lugar de ello, sumergirse hasta el occipucio en las cuestiones substantivas. En definitiva, son las cosas quienes han de salvarnos, proporcionándonos nueva nutrición. De lo que ellas sean depende toda posible salud. ¿A qué perder el tiempo en recomendaciones o reconvenciones?
 
@@ -42,7 +42,7 @@ En una conferencia sobre «La novela de hoy», François Mauriac se plantea así
 
 El señor Massis quiere que en la novela «pase algo», y ese algo es, por lo visto, un conflicto —religioso, amoroso, personal— como pasaba en Balzac. El señor Mauriac, pensando, yo creo, más lealmente, más al hilo de las cosas, declara que la novela no puede radicar en la historia de un conflicto, porque hoy no los hay, y, consecuentemente, no debe parecerse a Balzac.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Si en última instancia lleva o no dentro de sí conflictos el alma contemporánea, es cuestión delicada. Pero es innegable que, aparentemente, se halla libre de ellos, y este hecho debía causar mayor sorpresa de la que levanta. ¿Qué quiere decir esa ausencia de conflictos, por lo menos, esa evidente disminución de angustias íntimas, esa niñez inesperada que sobreviene al europeo cuando sus conflictos exteriores empiezan a ser pavorosos? Pero dejando ahora este grueso tema, ¿cree Mauriac que si hubiese conflictos en nuestra vida nos interesarían en la novela? Este paralelismo entre las formas del arte y del contenido de la vida es un poco ingenuo. La historia nos pasma dándonos el espectáculo escandaloso de la aparente independencia entre el apetito artístico y el destino vital. Mientras los parisienses del 93 se guillotinaban mutuamente, el Mercure de France publicaba versos titulados «A los manes de mi canario». Cuando yo tenía veinte años me irritaba esta incongruencia; hoy me parece admirable. Ella me recuerda que la vida es más profunda que mis ideas preconcebidas y me invita a ensanchar éstas, a seguir la pista subterránea de los instintos humanos. Porque hay, en efecto, paralelismo rigoroso entre nuestro estilo y nuestra existencia; pero son idiomas distintos y es preciso descubrir la clave de sus exquisitas correspondencias. En la época más abrumada de la vida ateniense, cuando se deshace su poderío y su riqueza en trágico derrumbamiento, la gracia elástica y aérea de Praxíteles fluye en allegro cantabile por los mármoles y destierra de sus figuras toda pesadumbre.
 

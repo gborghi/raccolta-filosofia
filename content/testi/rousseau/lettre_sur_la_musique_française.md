@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettre_sur_la_musique_française" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRE SUR LA MUSIQUE FRANÇAISE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRE SUR LA MUSIQUE FRANÇAISE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Et s'ils désespèrent de rendre en français la douce harmonie de l'une, qu'ils essaient d'exprimer la rauque dureté de l'autre. Il n'est pas besoin, pour juger de ceci, d'entendre la langue, il ne faut qu'avoir des oreilles et de la bonne foi. Au reste vous observerez que cette dureté de la dernière strophe n'est point sourde, mais très sonore, et qu'elle n'est que pour l'oreille et non pour la prononciation ; car la langue n'articule pas moins facilement les r multipliées qui font la rudesse de cette strophe, que les l qui rendent la première si coulante. Au contraire, toutes les fois que nous voulons donner de la dureté à l'harmonie de notre langue, nous sommes forcés d'entasser des consonnes de toute espèce qui forment des articulations difficiles et rudes, ce qui retarde la marche du chant et contraint souvent la musique d'aller plus lentement, précisément quand le sens des paroles exigerait le plus de vitesse.
 
@@ -50,7 +50,7 @@ L'un et l'autre furent chantés, médiocrement pour le français et mal pour l'i
 
 Mais, sans chercher ailleurs des exemples, n'avons-nous pas même parmi nous plusieurs personnes qui, ne connaissant que notre opéra, croyaient de bonne foi n'avoir aucun goût pour le chant, et n'ont été désabusées que par les intermèdes italiens. C'est précisément parce qu'ils n'aimaient que la véritable musique, qu'ils croyaient ne pas aimer la musique.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 J'avoue que tant de faits m'ont rendu douteuse l'existence de notre mélodie, et m'ont fait soupçonner qu'elle pourrait bien n'être qu'une sorte de plain-chant modulé, qui n'a rien d'agréable en lui-même, qui ne plaît qu'à l'aide de quelques ornements arbitraires, et seulement à ceux qui sont convenus de les trouver beaux. Aussi à peine notre musique est-elle supportable à nos propres oreilles, lorsqu'elle est exécutée par des voix médiocres qui manquent d'art pour la faire valoir. Il faut des Fel et des Jelyotte pour chanter la musique française ; mais toute voix est bonne pour l'italienne, parce que les beautés du chant italien sont dans la musique même, au lieu que celles du chant français, s'il en a, ne sont que dans l'art du chanteur[26].
 
@@ -72,7 +72,7 @@ Au reste, il s'en faut beaucoup que les accompagnements italiens soient toujours
 
 Quand le musicien saura son art, dit l'auteur de la Lettre sur les sourds et les muets, les parties d'accompagnement concourront ou à fortifier l'expression de la partie chantante, ou à ajouter de nouvelles idées que le sujet demandait, et que la partie chantante n'aura pu rendre. » Ce passage me paraît renfermer lui précepte très utile, et voici comment je pense qu'on doit l'entendre.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Si le chant est de nature à exiger quelques additions, ou, comme disaient nos anciens musiciens, quelques diminutions[30], qui ajoutent à l'expression ou à l'agrément, sans détruire en cela l'unité de mélodie, de sorte que l'oreille, qui blâmerait peut-être ces additions faites par la voix, les approuve dans l'accompagnement, et s'en laisse doucement affecter sans cesser pour cela d'être attentive au chant ; alors l'habile musicien, en les ménageant à propos et les employant avec goût, embellira son sujet, et le rendra plus expressif sans le rendre moins un ; et quoique l'accompagnement n'y soit pas exactement semblable à la partie chantante, l'un et l'autre ne feront pourtant qu'un chant et qu'une mélodie. Que si le sens des paroles comporte une idée accessoire que le chant n'aura pas pu rendre, le musicien l'enchâssera dans des silences ou dans des tenues, de manière qu'il puisse la présenter à l'auditeur sans le détourner de celle du chant. L'avantage serait encore plus grand si cette idée accessoire pouvait être rendue par un accompagnement contraint et continu, qui fit plutôt un léger murmure qu'un véritable chant, comme serait le bruit d'une rivière ou le gazouillement des oiseaux ; car alors le compositeur pourrait séparer tout-à-fait le chant de l'accompagnement ; et destinant uniquement ce dernier à rendre l'idée accessoire, il disposera son chant de manière à donner des jours fréquents à l'orchestre, en observant avec soin que la symphonie soit toujours dominée par la partie chantante, ce qui dépend encore plus de l'art du compositeur que de l'exécution des instruments : mais ceci demande une expérience consommée, pour éviter la duplicité de mélodie.
 
@@ -88,7 +88,7 @@ De toutes les parties de la musique, la plus difficile à traiter, sans sortir d
 
 En disant ce que les duo doivent être, j'ai dit précisément ce qu'ils sont dans opéra italiens. Si quelqu'un a pu entendre sur un théâtre d'Italie un duo tragique chanté par deux bons acteurs, et accompagné par un véritable orchestre, sans en être attendri ; s'il a pu d'un œil sec assister aux adieux de Mandane et d'Arbace, je le tiens digne de pleurer à ceux de Libye et d'Épaphus.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mais sans insister sur les duo tragiques, genre de musique dont on n'a pas même l'idée à Paris, je puis vous citer un duo comique qui est connu de tout le monde, et je le citerai hardiment comme un modèle de chant, d'unité, de mélodie, de dialogue et de goût, auquel, selon moi, rien ne manquera, quand il sera bien exécuté, que des auditeurs qui sachent l'entendre : c'est celui du premier acte de la Serva Padrona, Lo conosco a quegl’ occhietti, etc. J'avoue que peu de musiciens français sont en état d'en sentir les beautés ; et je dirais volontiers du Pergolèse, comme Cicéron disait d'Homère, que c'est avoir déjà fait beaucoup de progrès dans l'art, que de se plaire à sa lecture.
 
@@ -104,7 +104,7 @@ Or, me disais-je à moi-même en raisonnant d'après cette supposition, je vois 
 
 Il suit de tout ceci qu'après avoir bien étudié les règles élémentaires de l'harmonie, le musicien ne doit point se hâter de la prodiguer inconsidérément, ni se croire en état de composer parce qu'il sait remplir des accords, mais qu'il doit, avant que de mettre la main à l'œuvre, s'appliquer à l'étude beaucoup plus longue et plus difficile des impressions diverses que les consonnances, les dissonances, et tous les accords, font sur les oreilles sensibles, et se dire souvent à lui-même que le grand art du compositeur ne consiste pas moins à savoir discerner dans l'occasion les sons qu'on doit supprimer, que ceux dont il faut faire usage. C'est en étudiant et feuilletant sans cesse les chefs-d'œuvre de l'Italie qu'il apprendra à faire ce choix exquis, si la nature lui a donné assez de génie et de goût pour en sentir la nécessité ; car les difficultés de l'art ne se laissent apercevoir qu'à ceux qui sont faits pour les vaincre : et ceux-là ne s'aviseront pas de compter avec mépris les portées vides d'une partition ; mais voyant la facilité qu'un écolier aurait eue à les remplir, ils soupçonneront et chercheront les raisons de cette simplicité trompeuse, d'autant plus admirable qu'elle cache des prodiges sous une feinte négligence, et que l’arte che tutto fa, nulla si scuopre.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Voilà, à ce qu'il me semble, la cause des effets surprenants que produit l'harmonie de la musique italienne, quoique beaucoup moins chargée que la nôtre, qui en produit si peu : ce qui ne signifie pas qu'il ne faille jamais remplir l'harmonie, mais qu'il ne faut la remplir qu'avec choix et discernement. Ce n'est pas non plus à dire que pour ce choix le musicien soit obligé de faire tous ces raisonnements, mais qu'il en doit sentir le résultat. C'est à lui d'avoir du génie et du goût pour trouver les choses d'effet ; c'est au théoricien à en chercher les causes, et à dire pourquoi ce sont des choses d'effet.
 
@@ -126,7 +126,7 @@ Mais ce qui prévient encore plus efficacement la monotonie et l'ennui dans les 
 
 Voilà la source de cette prodigieuse variété que les grands maîtres d'Italie savent répandre dans leurs opéras, sans jamais sortir de la nature : variété qui prévient la monotonie, la langueur, et l'ennui, et que les musiciens français ne peuvent imiter, parce que leurs mouvements sont donnés par le sens des paroles, et qu'ils sont forcés de s’y tenir, s'ils ne veulent tomber dans des contre-sens ridicules.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 À l'égard du récitatif, dont il me reste à parler, il me semble que, pour en bien juger, il faudrait une fois savoir précisément ce que c'est ; car jusqu'ici je ne sache pas que, de tous ceux qui en ont disputé, personne se soit avisé de le définir. Je ne sais, monsieur, quelle idée vous pouvez avoir de ce mot ; quant à moi, j'appelle récitatif une déclamation harmonieuse, c'est-à-dire une déclamation dont toutes les inflexions se font par intervalles harmoniques : d'où il suit que, comme chaque langue a une déclamation qui lui est propre, chaque langue doit aussi avoir son récitatif particulier ; ce qui n'empêche pas qu'on ne puisse très bien comparer un récitatif à un autre, pour savoir lequel des deux est le meilleur, ou celui qui se rapporte le mieux à son objet.
 
@@ -146,7 +146,7 @@ Par la même raison je ne tenterai pas non plus le parallèle qui a été propos
 
 Au reste, comme je ne puis examiner ce morceau sans en adopter le genre, au moins par hypothèse, c'est rendre à la musique française tout l'avantage que la raison m'a forcé de lui ôter dans le cours de cette lettre ; c'est la juger sur ses propres règles : de sorte que, quand cette scène serait aussi parfaite qu'on le prétend, on n'en pourrait conclure autre chose, sinon que c'est de la musique française bien faite ; ce qui n'empêcherait pas que le genre étant démontré mauvais, ce ne fût absolument de mauvaise musique. Il ne s'agit donc ici que de voir si l’on peut l’admettre pour bonne, au moins dans son genre.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Je vais pour cela tâcher d'analyser en peu de mots ce célèbre monologue d’Armide, Enfin il est en ma puissance, qui passe pour lui chef-d'œuvre de déclamation, et que les maîtres donnent eux-mêmes pour le modèle le plus parfait du vrai récitatif français[37].
 
@@ -240,7 +240,7 @@ Je passe, pour abréger, le reste de cette scène, qui n'a plus rien d'intéress
 
 Que, s'il se peut, je le haïsse.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Cette parenthèse, s'il se peut, me semble une épreuve suffisante du talent du musicien : quand on la trouve sur le même ton, sur les mêmes notes que je le haïsse, il est bien difficile de ne pas sentir combien Lulli était peu capable de mettre de la musique sur les paroles du grand homme qu'il tenait à ses gages.
 

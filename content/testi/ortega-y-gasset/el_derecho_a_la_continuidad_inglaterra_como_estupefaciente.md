@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_derecho_a_la_continuidad_inglaterra_como_estupefaciente" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El derecho a la continuidad.— Inglaterra como estupefaciente" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El derecho a la continuidad.— Inglaterra como estupefaciente" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Desde hace un cuarto de siglo todo lo que pasa es estupefaciente. No vivimos casi de otra cosa que de estupores. Cuando uno va a cesar, tal nuevo acontecimiento vuelve a dejarnos patidifusos. La constancia del fenómeno podía, al menos, habernos bonificado con una ventaja: la de que nos hubiésemos habituado. Pero es el [caso](/concepts/fortune) que tampoco esto nos ha sido otorgado. Cuando ya íbamos acostumbrándonos a que cada día trajera algo increíblemente absurdo, atroz o repugnante, he aquí que estas semanas hacen caer a Europa en un estupor de nueva índole para el cual se hallaba completamente desapercibida. Y es que esta vez se trata de un hecho increíblemente correcto, digno, ejemplar. ¿Cómo? ¿Podía acontecer aún algo en el mundo que fuese correcto, digno, ejemplar? Me refiero a la conducta del pueblo inglés ante la abdicación de Eduardo VIII y la exaltación de Jorge VI.
 

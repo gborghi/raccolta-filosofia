@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sensaciones_parlamentarias" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sensaciones parlamentarias" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sensaciones parlamentarias" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, junio de 1932
 
@@ -46,7 +46,7 @@ En primer lugar, en ningún país los políticos constituyen una selección de l
 
 La política requiere resolución, ejecutividad, prontitud, facilidad de movilización. Al intelectual le [causa](/concepts/cause), al pronto, gran admiración —contra lo que se dice el intelectual es uno de los pocos tipos humanos en verdad capaces de admiración— la agilidad del político, la ligereza con que se mueve, el coraje con que actúa en las situaciones difíciles. Luego se convence de que esa agilidad y ese coraje se componen en grandes dosis de inconsciencia, es decir, que el político no ve la situación con la claridad que el intelectual —lo contrario de lo que suele decirse—, sobre todo no prevé las consecuencias de la situación y este futuro peligroso, a veces con toda evidencia catastrófico, no gravita sobre él. Así, sin peso encima, es fácil ser ágil: así, sin conciencia del peligro es fácil ser valiente. (Falta y sería de gran interés la psicología del valiente). En suma, la experiencia me ha enseñado que algunas de las más eficientes virtudes del político se nutren de su inconsciencia. Más que valientes son audaces. Y la audacia es en un cincuenta por ciento inconsciencia y sonambulismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los Parlamentos están, pues, en todas partes formados por gente que puede representar el nivel medio del país. Pero el nivel medio de un país, entiéndase bien, no es el nivel medio de la parte activa del país, de lo que con una expresión anticuada y torpe, pero aún no sustituida, llamamos la gente «culta». De aquí que una Cámara sea siempre menos sensible que un público cualquiera de los que espontáneamente acuden a una conferencia. Es que representa un nivel inferior.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_alemán_y_el_español" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El alemán y el español" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El alemán y el español" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, marzo de 1926
 
@@ -58,7 +58,7 @@ Inversamente para el alemán el «tú» y el «él» son siempre relativamente c
 
 En cambio el español cuando se queda solo no sabe qué hacer. La vida dentro de sí y consigo mismo se le presenta con los terribles caracteres de un destierro y una amputación. El español tiene poca «intimidad».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sólo sabe de intimidad quien sabe de soledad: son potencias recíprocas. Einsamkeit, Innerlichkeit… Tal vez no haya otras palabras que resuenen más insistentemente a lo largo de la historia alemana. Eckhart, Leibniz, Kant…
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_ciudadanía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La ciudadanía" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La ciudadanía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Si venimos al siglo XIX encontramos, ciertamente, en los españoles una morbosa despreocupación por la cosa pública. Mayor, no obstante, fue hasta 1850 la padecida por Alemania. Ni siquiera supo en 1807 resistir a Napoleón, como nosotros supimos. Comprendo, pues, que los historiadores germanos hayan visto en aquella insensibilidad política un problema histórico. Mientras se despreocupaba de la política, Alemania creaba su nueva agricultura, multiplicaba su comercio resucitando la potencia de Hamburgo, instauraba la industria mecanizada, inventaba las técnicas químicas, florecía en una espléndida literatura y daba al mundo el tesoro de su ciencia. Parece, en efecto, contradictorio, incomprensible que un pueblo de tal manera activo en sus funciones vitales más profundas, sufriera parálisis política. Ahora bien, los problemas son precisamente esto: fenómenos que parecen contradictorios.
 

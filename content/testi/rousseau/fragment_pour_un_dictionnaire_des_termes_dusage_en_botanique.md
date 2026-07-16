@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/fragment_pour_un_dictionnaire_des_termes_dusage_en_botanique" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="FRAGMENT POUR UN DICTIONNAIRE DES TERMES D'USAGE EN BOTANIQUE" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="FRAGMENT POUR UN DICTIONNAIRE DES TERMES D'USAGE EN BOTANIQUE" data-chapter="(apertura)" data-kind="intro" data-srclang="fr"></span>
 
 Le premier malheur de la botanique est d'avoir été regardée dès sa naissance comme une partie de la médecine. Cela fit qu'on ne s'attacha qu'à trouver ou supposer des vertus aux plantes, et qu'on négligea la connaissance des plantes mêmes ; car comment se livrer aux courses immenses et continuelles qu'exige cette recherche, et en même temps aux travaux sédentaires du laboratoire, et aux traitements des malades, par lesquels on parvient à s'assurer de la nature des substances végétales, et de leurs effets dans le corps humain ? Cette fausse manière d'envisager la botanique en a longtemps rétréci l'étude, au point de la borner presque aux plantes usuelles, et de réduire la chaîne végétale à un petit nombre de chaînons interrompus ; encore ces chaînons mêmes ont-ils été très mal étudiés, parce qu'on y regardait seulement la matière, et non pas l'organisation. Comment se serait-on beaucoup occupé de la structure organique d'une substance, ou plutôt d'une masse ramifiée, qu'on ne songeait qu'à piler dans un mortier ? On ne cherchait des plantes que pour trouver des remèdes ; on ne cherchait pas des plantes, mais des simples. C'était fort bien fait, dira-t-on ; soit: mais il n'en a pas moins résulté que, si l'on connaissait fort bien les remèdes, on ne laissait pas de connaître fort mal les plantes et c'est tout ce que j'avance ici.
 
@@ -40,7 +40,7 @@ Le plan de son frère était encore plus vaste, comme il paraît par le premier 
 
 Comme la nomenclature des Bauhin n'était formée que des titres de leurs chapitres, et que ces titres comprenaient ordinairement plusieurs mots, de là vient l'habitude de n'employer pour noms de plantes que des phrases louches assez longues, ce qui rendait cette nomenclature non seulement traînante et embarrassante ; mais pédantesque et ridicule. Il y aurait à cela, je l'avoue, quelque avantage, si ces phrases avaient été mieux faites ; mais, composées indifféremment des noms des lieux d'où venaient ces plantes, des noms des gens qui les avaient envoyées, et même des noms d'autres plantes avec lesquelles on leur trouvait quelque similitude, ces phrases étaient des sources de nouveaux embarras et de nouveaux doutes, puisque la connaissance d'une seule plante exigeait celle de plusieurs autres, auxquelles sa phrase renvoyait, et dont les noms n'étaient pas plus déterminés que le sien.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/8)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (2/8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Cependant les voyages de long cours enrichissaient incessamment la botanique de nouveaux trésors ; et tandis que les anciens noms accablaient déjà la mémoire, il en fallait inventer de nouveaux sans cesse pour les plantes nouvelles qu'on découvrait. Perdus dans ce labyrinthe immense, les botanistes, forcés de chercher un fil pour s'en tirer, s'attachèrent enfin sérieusement à la méthode. Herman, Rivin, Ray, proposèrent chacun la sienne ; mais l'immortel Tournefort[20] l'emporta sur eux tous: il rangea le premier, systématiquement, tout le règne végétal, et réformant en partie la nomenclature, la combina par ses nouveaux genres avec celle de Gaspar Bauhin. Mais loin de la débarrasser de ses longues phrases, ou il en ajouta de nouvelles, ou il chargea les anciennes des additions que sa méthode le forçait d'y faire. Alors s'introduisit l'usage barbare de lier les nouveaux noms aux anciens par un qui quae quod contradictoire, qui d'une même plante faisait deux genres tout différents.
 
@@ -64,7 +64,7 @@ Les jalousies nationales s'opposent encore à l'admission d'un système étrange
 
 Malgré tout cela, la grande commodité de cette nouvelle nomenclature, et son utilité, que l'usage a fait connaître, l'ont fait adopter presque universellement dans toute l'Europe, plus tôt ou plus tard à la vérité, mais enfin à peu près partout, et même à Paris. M. de Jussieu vient de l'établir au jardin du Roi, préférant ainsi l'utilité publique à la gloire d'une nouvelle refonte, que semblait demander la méthode des familles naturelles, dont son illustre oncle est l'auteur. Ce n'est pas que cette nomenclature linnéenne n'ait encore ses défauts, et ne laisse de grandes prises à la critique ; mais, en attendant qu'on en trouve une plus parfaite, à qui rien ne manque, il vaut cent fois mieux adopter celle-là que de n'en avoir aucune, ou de retomber dans les phrases de Tournefort et de Gaspar Bauhin. J'ai même peine à croire qu'une meilleure nomenclature pût avoir désormais assez de succès pour proscrire celle-ci, à laquelle les botanistes de l'Europe sont déjà tout accoutumés ; et c'est par la double chaîne de l'habitude et de la commodité qu'ils y l'énonceraient avec plus de peine encore qu'ils n'en eurent à l'adopter. Il faudrait, pour opérer ce changement, un auteur dont le crédit effaçât celui de M. Linnaeus, et à l'autorité duquel l'Europe entière voulût se soumettre une seconde fois, ce qui me parait difficile à espérer ; car si son système, quelque excellent qu'il puisse être, n'est adopté que par une seule nation, il jettera la botanique dans un nouveau labyrinthe, et nuira plus qu'il ne servira.
 
-<span class="atom-split" data-atom="003" data-title="(apertura) (3/8)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="(apertura) (3/8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Le travail même de M. Linnaeus, bien qu'immense, reste encore imparfait, tant qu'il ne comprend pas toutes les plantes connues, et tant qu'il n'est pas adopté par tous les botanistes sans exception ; car les livres de ceux qui ne s'y soumettent pas exigent de la part des lecteurs le même travail pour la concordance auquel ils étaient forcés pour les livres qui ont précédé. On a obligation à M. Crantz, malgré sa passion contre M. Linnaeus, d'avoir, en rejetant son système, adopté sa nomenclature. Mais M. Haller, dans son grand et excellent Traité des plantes alpines, rejette à la fois l'un et l'autre, et M. Adanson fait encore plus ; il prend une nomenclature toute nouvelle, et ne fournit aucun renseignement pour y rapporter celle de M. Linnaeus. M. Haller cite toujours les genres et quelquefois les phrases des espèces de M. Linnaeus, mais M. Adanson n'en cite jamais ni genre ni phrase. M. Haller s'attache à une synonymie exacte, par laquelle, quand il n'y joint pas la phrase de M. Linnaeus, on peut du moins la trouver indirectement par le rapport des synonymes. Mais M. Linnaeus et ses livres sont tout-à-fait nuls pour M. Adanson et pour ses lecteurs ; il ne laisse aucun renseignement par lequel on s'y puisse reconnaître: ainsi il faut opter entre M. Linnaeus et M. Adanson, qui l'exclut sans miséricorde, et jeter tous les livres de l'un ou de l'autre au feu, ou bien il faut entreprendre un nouveau travail, qui ne sera ni court ni facile, pour faire accorder deux nomenclatures qui n'offrent aucun point de réunion.
 
@@ -144,7 +144,7 @@ BOURGEON. Germe des feuilles et des branches.
 
 BOUTON. Germe des fleurs.
 
-<span class="atom-split" data-atom="004" data-title="(apertura) (4/8)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="(apertura) (4/8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 BOUTURE. Est une jeune branche que l’on coupe à certains arbres moelleux, tels que le figuier, le saule, le cognassier, laquelle reprend en terre sans racine. La réussite des boutures dépend plutôt de leur facilité à produire des racines, que de l’abondance de la moelle des branches ; car l’oranger, le buis, l’if et la sabine, qui ont peu de moelle, reprennent facilement de bouture.
 
@@ -236,7 +236,7 @@ Les cotylédons, autrement appelés feuilles séminales, sont les premières par
 
 Il y a des plantes qui n’ont qu’un cotyledon, et qui, pour cela s’appellent monocotyledones, tels sont les palmiers, les liliacées, les graminées et d’autres plantes ; le plus grand nombre en ont deux, et s’appellent dicotyledones ; si d’autres en ont davantage, elles s’appelleront polycoryledones. Les acotyledones sont celles qui n’ont point de cotylédons, telles les fougères, les mousses, les champignons et toutes les cryptogames.
 
-<span class="atom-split" data-atom="005" data-title="(apertura) (5/8)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="(apertura) (5/8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Ces différences de la germination ont fourni à Ray, à d’autres botanistes, et en dernier lieu à messieurs de Jussieu et Haller, la première ou plus grande division naturelle du règne végétal.
 
@@ -344,7 +344,7 @@ FEUILLES. Sont des organes nécessaires aux plantes pour pomper l'humidité de l
 
 FILET. Pédicule qui soutient l’étamine. On donne aussi le nom de filets aux poils qu’on voit sur la surface des tiges, des feuilles et même des fleurs de plusieurs plantes.
 
-<span class="atom-split" data-atom="006" data-title="(apertura) (6/8)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="(apertura) (6/8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 FLEUR. Si je livrais mon imagination aux douces sensations que ce mot semble appeler, je pourrais faire un article agréable peut-être aux bergers, mais fort mauvais pour les botanistes: écartons donc un moment les vives couleurs, les odeurs suaves, les formes élégantes, pour chercher premièrement à bien connaître l'être organisé qui les rassemble. Rien ne paraît d'abord plus facile: qui est-ce qui croit avoir « besoin qu'on lui apprenne ce que c'est qu'une fleur ? Quand on ne me demande pas ce que c'est que le temps, disait saint Augustin, je le sais fort bien ; je ne le sais plus quand on me le demande. On en pourrait dire autant de la fleur et peut-être de la beauté même, qui, comme elle, est la rapide proie du temps. En effet, tous les botanistes qui ont voulu donner jusqu'ici des définitions de la fleur ont échoué dans cette entreprise, et les plus illustres, tels que MM. Linnaeus, Haller, Adanson, qui sentaient mieux la difficulté que les autres, n'ont pas même tenté de la surmonter, et ont laissé la fleur à définir. Le premier a bien donné dans sa Philosophie botanique les définitions de Jungins, de Ray, de Tournefort, de Pontedera, de Ludwig, mais sans en adopter aucune et sans en proposer de son chef.
 
@@ -368,7 +368,7 @@ La fleur est une partie locale et passagère de la plante qui précède la féco
 
 Je ne m'étendrai pas à justifier ici tous les termes de cette définition qui peut-être n'en vaut pas la peine ; je dirai seulement que le mot précède m'y paraît essentiel, parce que le plus souvent la corolle s'ouvre et s'épanouit avant que les anthères s'ouvrent à leur tour ; et, dans ce cas, il est incontestable que la fleur préexiste à l'œuvre de la fécondation. J'ajoute que cette fécondation s'opère dans elle ou par elle, parce que, dans les fleurs mâles des plantes androgynes et dioïques, il ne s'opère aucune fructification, et qu'elles n'en sont pas moins des fleurs pour cela.
 
-<span class="atom-split" data-atom="007" data-title="(apertura) (7/8)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="(apertura) (7/8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Voilà, ce me semble, la notion la plus juste qu'on puisse se faire de la fleur, et la seule qui ne laisse aucune prise aux objections qui renversent toutes les autres définitions qu'on a tenté d'en donner jusqu'ici: il faut seulement ne pas prendre trop strictement le mot durant, que j'ai employé dans la mienne ; car même avant que la fécondation du germe soit commencée, on peut dire que la fleur existe aussitôt que les organes sexuels sont en évidence, c'est-à-dire aussitôt que la corolle est épanouie ; et d'ordinaire les anthères ne s'ouvrent pas à la poussière séminale, dès l'instant que la corolle s'ouvre aux anthères. Cependant la fécondation ne peut commencer avant que les anthères soient ouvertes: de même l'œuvre de la fécondation s'achève souvent avant que la corolle se flétrisse et tombe ; or, jusqu'à cette chute, on peut dire que la fleur existe encore. Il faut donc donner nécessairement un peu d'extension au mot durant, pour pouvoir dire que la fleur et l'œuvre de la fécondation commencent et finissent ensemble.
 
@@ -406,7 +406,7 @@ Les fleurs simples ont une autre sorte d'opposition dans celles qu'on appelle fl
 
 La fleur double est celle dont quelqu'une des parties est multipliée au-delà de son nombre naturel, mais sans que cette multiplication nuise à la fécondation du germe.
 
-<span class="atom-split" data-atom="008" data-title="(apertura) (8/8)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="(apertura) (8/8)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Les fleurs se doublent rarement par le calice, presque jamais par les étamines. Leur multiplication la plus commune se fait par la corolle. Les exemples les plus fréquents en sont dans les fleurs polypétales, comme oeillets, anémones, renoncules ; les fleurs monopétales doublent moins communément. Cependant on voit assez souvent des campanules, des primevères, des auricules, et surtout des jacinthes à fleur double.
 
@@ -430,7 +430,7 @@ FLEURON. Petite fleur incomplète qui entre dans la structure d'une fleur compos
 
 Voici quelle est la structure naturelle des fleurons composants.
 
-<span class="atom-split" data-atom="009" data-title="2. Pistil allongé, terminé par deux stigmates réfléchis. (1/5)" data-chapter="2. Pistil allongé, terminé par deux stigmates réfléchis." data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="2. Pistil allongé, terminé par deux stigmates réfléchis. (1/5)" data-chapter="2. Pistil allongé, terminé par deux stigmates réfléchis." data-kind="atom" data-srclang="fr"></span>
 
 3. Cinq étamines dont les filets sont séparés par le bas, mais formant, par l'adhérence de leurs anthères, un tube autour du pistil.
 
@@ -550,7 +550,7 @@ LIGNEUX. Qui a la consistance de bois.
 
 LILIACÉES. Fleurs qui portent le caractère du lis.
 
-<span class="atom-split" data-atom="010" data-title="2. Pistil allongé, terminé par deux stigmates réfléchis. (2/5)" data-chapter="2. Pistil allongé, terminé par deux stigmates réfléchis." data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="2. Pistil allongé, terminé par deux stigmates réfléchis. (2/5)" data-chapter="2. Pistil allongé, terminé par deux stigmates réfléchis." data-kind="atom" data-srclang="fr"></span>
 
 LIMBE. Quand une corolle monopétale régulière s'évase et s'élargit par le haut, la partie qui [forme](/positions/realism_of_ideas) cet évasement s'appelle le limbe, et se découpe ordinairement en quatre, cinq, ou plusieurs segments. Diverses campanules, primevères, liserons, et autres fleurs monopétales, offrent des exemples de ce limbe, qui est, à l'égard, de la corolle, à peu près ce qu'est, à l'égard d'une cloche, la partie qu'on nomme le pavillon: le différent degré de l'angle, que forme le limbe avec le tube, est ce qui fait donner à la corolle le nom d'infundibuliforme, de campaniforme, ou d'hypocratériforme.
 
@@ -680,7 +680,7 @@ PÉRIANTHE. Sorte de calice qui touche immédiatement la fleur ou le fruit.
 
 PERRUQUE. Nom donné par Vaillant aux racines garnies d’un chevelu touffu de fibrilles entrelacées comme des cheveux emmêlés.
 
-<span class="atom-split" data-atom="011" data-title="2. Pistil allongé, terminé par deux stigmates réfléchis. (3/5)" data-chapter="2. Pistil allongé, terminé par deux stigmates réfléchis." data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="2. Pistil allongé, terminé par deux stigmates réfléchis. (3/5)" data-chapter="2. Pistil allongé, terminé par deux stigmates réfléchis." data-kind="atom" data-srclang="fr"></span>
 
 PÉTALE. On donne le nom de pétale à chaque pièce entière de la corolle. Quand la corolle n'est que d'une seule pièce, il n'y a aussi qu'un pétale ; le pétale et la corolle ne sont alors qu'une seule et même chose, et cette sorte de corolle se désigne par l'épithète de monopétale. Quand la corolle est de plusieurs pièces, ces pièces sont autant de pétales, et la corolle qu'elles composent se désigne par leur nombre tiré du grec, parce que le mot de pétale en vient aussi, et qu'il convient, quand on veut composer un mot, de tirer les deux racines de la même langue. Ainsi, les mots de monopétale, de dipétale, de tripétale, de tétrapétale, de pentapétale, et enfin de polypétale, indiquent une corolle d'une seule pièce, ou de deux, de trois, de quatre, de cinq, etc. ; enfin, d'une multitude indéterminée de pièces.
 
@@ -762,7 +762,7 @@ Quand la fleur est infère, c'est le même réceptacle qui porte toute la fructi
 
 Quand la fleur est sur le fruit, comment se peut-il faire que la fleur et le fruit n'aient cependant qu'un seul et même réceptacle ?
 
-<span class="atom-split" data-atom="012" data-title="2. Pistil allongé, terminé par deux stigmates réfléchis. (4/5)" data-chapter="2. Pistil allongé, terminé par deux stigmates réfléchis." data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="2. Pistil allongé, terminé par deux stigmates réfléchis. (4/5)" data-chapter="2. Pistil allongé, terminé par deux stigmates réfléchis." data-kind="atom" data-srclang="fr"></span>
 
 Le réceptacle commun n'appartient proprement qu'aux fleurs composées, dont il porte et unit tous les fleurons en une fleur régulière ; en sorte que le retranchement de quelques-uns causerait l'irrégularité de tous ; mais, outre les fleurs agrégées dont on peut dire à peu près la même chose, il y a d'autres sortes de réceptacles communs qui méritent encore le même nom, comme ayant le même usage: tels sont l’ombelle, l'épi, la panicule, le thyrse, la cyme, le spadix, dont on trouvera les articles chacun à sa place.
 
@@ -908,7 +908,7 @@ V
 
 VÉGÉTAL. Corps organisé, doué de vie et privé de sentiment.
 
-<span class="atom-split" data-atom="013" data-title="2. Pistil allongé, terminé par deux stigmates réfléchis. (5/5)" data-chapter="2. Pistil allongé, terminé par deux stigmates réfléchis." data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="2. Pistil allongé, terminé par deux stigmates réfléchis. (5/5)" data-chapter="2. Pistil allongé, terminé par deux stigmates réfléchis." data-kind="atom" data-srclang="fr"></span>
 
 On ne me passera pas cette définition, je le sais. On veut que les minéraux vivent, que les végétaux sentent, et que la matière même informe soit douée de sentiment. Quoi qu'il en soit de cette nouvelle physique, jamais je n'ai pu, je ne pourrai jamais parler d'après les idées d'autrui, quand ces idées ne sont pas les miennes. J'ai souvent vu mort un arbre que je voyais auparavant plein de vie ; mais la mort d'une pierre est une idée qui ne saurait m'entrer dans l'esprit. Je vois un sentiment exquis dans mon chien, mais je n'en aperçois aucun dans un chou. Les paradoxes de Jean-Jacques sont fort célèbres. J'ose demander s'il en avança jamais d'aussi fou que celui que j'aurais à combattre si j'entrais ici dans cette discussion, et qui pourtant ne choque personne. Mais je m'arrête, et rentre dans mon sujet.
 

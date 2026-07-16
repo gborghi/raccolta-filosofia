@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/a_la_mayor_gloria_de_dios" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="A la mayor gloria de Dios" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="A la mayor gloria de Dios" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Todos los templos se erigen, claro está, para la mayor gloria de Dios; pero Dios es una idea general, y ningún templo verdadero se ha elevado jamás a una idea general. El apóstol que vagabundeando por Atenas creyó leer en el frontis de un altar: «Al Dios desconocido», padeció un grave error; ese hierón no ha existido nunca. La religión no se satisface con un Dios abstracto, con un mero pensamiento; necesita de un Dios concreto, al cual sintamos y experimentemos realmente. De aquí que haya tantas imágenes de Dios como individuos: cada cual, allá en sus íntimos hervores, lo compone con los materiales que encuentra más a mano. El rigoroso dogmatismo católico se limita a exigir que los fieles admitan la definición canónica de Dios; pero deja libre la fantasía de cada uno para que lo imagine y lo sienta a su manera. Refiere Taine que una niña a quien dijeron que Dios estaba en los cielos, exclamó: «¿En el cielo, como los pájaros? Entonces tendrá pico». Esta niña podía ser católica: la definición del catecismo no excluye el pico en Dios.
 

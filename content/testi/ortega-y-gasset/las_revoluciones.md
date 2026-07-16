@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_revoluciones" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las revoluciones" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Las revoluciones" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No es lícito, señores, a la hora en que hablamos, juzgar las revoluciones de una manera tan simplista como se ha hecho estos días. Notad que los Códigos modernos han abierto cuenta aparte para los crímenes políticos y que la sensibilidad pública, que siempre va delante llevando los Códigos al estricote, no considera jamás como criminal al criminal político. Yo diría que, sin percatarse de ello, las gentes incluyen los actos revolucionarios en la sección de los crímenes pasionales y les otorgan la misma indulgencia plenaria. Un hombre que mata a otro porque solicitó los garridos secretos de su novia no parece a las gentes ciudadano repulsivo y la libertad política, señores, es desde lo eterno la novia arisca de todos los grandes entusiastas.
 
@@ -54,7 +54,7 @@ Lo son, señores, pero lo son en su sentido: las muertes, los incendios son siem
 
 Por esto es moralmente obligatorio evitar los hechos revolucionarios, de un lado, de otro justificar su sentido. Tal es, a mi modo de ver, la misión histórica del radicalismo democrático, del [Socialismo](/schools/historical_materialism_school): las revoluciones sólo se evitan organizando partidos revolucionarios. El dilema es de hierro: ¿qué se prefiere, la revolución o la amenaza de la revolución? Pues bien: todo poder constituido que no se siente amenazado equivale a la seguridad de una revolución.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Ved por qué ha sido, en mi opinión, lo más grave de todo el fracaso de la huelga general. Púsose aquel día de manifiesto que el pueblo no está organizado, que el pueblo carece de ideales políticos, que el pueblo es sólo una pasión, ayer en Madrid de miedo, en Barcelona de venganza. ¿Quién sabe si mañana ocurrirá lo contrario? ¿Quién puede garantizar los cambios de lo que es sólo pasión?
 

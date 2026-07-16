@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/algunas_notas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Algunas notas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Algunas notas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Nada puede serme tan grato como disputar con Ramiro de Maeztu de asuntos aparentemente sobrehistóricos. Es preciso que intentemos, cada cual a su modo y según su vigor, enriquecer la conciencia nacional con el mayor número posible de motivos ideales, de puntos de vista. La discrepancia, pues, me parece muy deseable y todo dogmatismo me hiere. Sólo creo poder reservarme el derecho de advertir que una opinión precisa y tajante no es siempre un dogma, que el sistematismo puede hallarse a cien leguas del dogmatismo y, en fin, que arribando a ciertas cuestiones capitales, no rehuya el contradictor la discusión técnica.
 
@@ -54,7 +54,7 @@ Sistema es unificación de los problemas, y en el individuo unidad de la concien
 
 En un diálogo —no recuerdo ahora cuál, aunque pienso sea Fedro— dice Platón que las ideas son como las fabulosas estatuas de Demetrio, que si no se las ataba se iban al llegar la noche. No es decente mantener en el alma compartimientos estancos, sin comunicación unos con otros; los cien problemas que constituyen la visión del mundo tienen que vivir en unidad consciente. Cabe, naturalmente, no tener listo un sistema; pero es obligatorio tratar de formárselo. El sistema es la honradez del pensador. Mi convicción política ha de estar en armonía sintética con mi física y mi teoría del arte.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No entiendo, pues, lo que usted llama conceder demasiada importancia a los sistemas. Éstos no han de ser más o menos importantes: han de ser y basta. De su falta proviene el doloroso [atomismo](/positions/atomism) de la raza española, su disgregación. Es preciso que el alma nuestra marche con perfecta continuidad desde Los borrachos, de Velázquez, hasta el cálculo infinitesimal, pasando por el imperativo categórico. Sólo mediante el sistema pondremos bien tenso el espíritu de nuestra raza como un tinglado de cuerdas y estacas sirve al beduino para poner tirante la tela feble de su tienda.
 

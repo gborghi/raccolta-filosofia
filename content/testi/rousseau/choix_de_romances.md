@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/choix_de_romances" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="CHOIX DE ROMANCES" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="CHOIX DE ROMANCES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Le rosier
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/cosmopolitismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Cosmopolitismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Cosmopolitismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En el paisaje de la postguerra se acusan entre otros, con creciente claridad, dos fenómenos que al ser enfrontados facilitan su recíproca definición. Uno de ellos es el internacionalismo representado por la Sociedad de las Naciones; otro es el cosmopolitismo de ciertas minorías intelectuales.
 
@@ -48,7 +48,7 @@ A las minorías selectas no las elige nadie. Por la sencilla razón de que la pe
 
 No hay cosa que no pueda hacerse de uno de estos tres modos: o peor, o igual, o mejor que suele hacerse. Y estos tres modos posibles son los que producen de una manera automática la selección entre los hombres. Nuestra índole más íntima nos determina desde luego, y fatalmente, a decidirnos por uno o por otro. Hay quien no se siente vivir si no es a máxima tensión de sus capacidades. Sólo le sabe el peligro y la dificultad. La existencia no tiene para él sentido si no es ascensión de lo menos a lo más perfecto. De aquí que le repugne el dominio. El temperamento dominador ve todo de arriba abajo: le complace mirar a los inferiores, y su afán de ascensión es sólo el deseo de estar encima de los inferiores; por tanto, de lo que está bajo. El temperamento selecto no goza con ningún predominio. Señorear algo es, a la postre, tratar con inferiores y él necesita, por el contrario, el acicate constante que le impulse hacia arriba, la succión de lo supremo. Por lo menos necesita sentirse entre iguales. Al cabo, el que nos es igual, puesto que no lo dominamos, está siempre en potencia de superarnos y nos incita, por tanto, al certamen ascensional.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 De aquí que los cosmopolitas de la cultura se sientan desligados de la convivencia espiritual con la masa de su nación e impremeditadamente sientan la necesidad de contacto con los pares o mejores de todo el mundo. Han menester de esa presión, de esa incitación hacia lo alto. Por su parte, la masa propensa a la inercia, al sospechar ese apetito de fuga cenital, de incansable exigencia hacia lo óptimo, se fatiga, se inquieta, se irrita y prefiere desentenderse de quien no se ocupa de ella ni siquiera para dominarla.
 

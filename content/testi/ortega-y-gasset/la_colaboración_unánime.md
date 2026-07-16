@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_colaboración_unánime" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La colaboración unánime" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La colaboración unánime" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero es preciso que a esta cuestión personal que el señor Prieto y yo tenemos, se ofrezca impermeable nuestra relación política o —si me niega su reciprocidad— la mía unilateral con él.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/organización_y_cotización" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Organización y cotización" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Organización y cotización" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 He aquí, para pleno conocimiento de nuestros adheridos, la estructura que hemos dado a la Agrupación en tanto asambleas ulteriores no resuelven otra cosa.
 

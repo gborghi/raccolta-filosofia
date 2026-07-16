@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/cuestión_religiosa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Cuestión religiosa" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Cuestión religiosa" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El Estado encarna el poder de la Nación. Donde él llegue —y llega donde llega la ley— tiene que afirmar el principio nacional que excluye fieramente toda pretensión de predominio particular. Por eso era antinacional la situación de privilegios políticos que gozaba la Iglesia en España.
 

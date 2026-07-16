@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/un_ministerio_de_portland" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Un Ministerio de Portland" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Un Ministerio de Portland" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Y cuando aparecía un mañana, que ya es un hoy, sembrado de urgentes dificultades internacionales, a las que sólo podrán hacer frente hombres muy capaces y muy respetados; cuando, por otra parte, el desbarajuste económico de estos años viene a condensarse en un déficit mil-millonario que anuncia una posible bancarrota de la Hacienda española; cuando hace sobre el horizonte social de España su largo vuelo de buitre el bolchevismo, florecen de pronto en el banco azul los caballeros que han acaparado todos los desprestigios, los personajes de la triste bufonada ibérica, los escarnecedores de la madre España paralítica.
 

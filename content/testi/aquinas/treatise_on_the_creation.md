@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_creation" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Creation" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Creation" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE CREATION (QQ 44-49)
 
-<span class="atom-split" data-atom="002" data-title="THE PROCESSION OF CREATURES FROM GOD, AND OF THE FIRST CAUSE OF ALL THINGS (FOUR ARTICLES)" data-chapter="THE PROCESSION OF CREATURES FROM GOD, AND OF THE FIRST CAUSE OF ALL THINGS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="THE PROCESSION OF CREATURES FROM GOD, AND OF THE FIRST CAUSE OF ALL THINGS (FOUR ARTICLES)" data-chapter="THE PROCESSION OF CREATURES FROM GOD, AND OF THE FIRST CAUSE OF ALL THINGS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After treating of the procession of the divine persons, we must consider the procession of
 creatures from God. This consideration will be threefold: (1) of the production of creatures; (2) of
@@ -38,7 +38,7 @@ Him?
 (3) Whether God is the exemplar cause of beings or whether there are other exemplar causes?
 (4) Whether He is the final cause of things?
 
-<span class="atom-split" data-atom="003" data-title="Whether it is necessary that every being be created by God?" data-chapter="Whether it is necessary that every being be created by God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether it is necessary that every being be created by God?" data-chapter="Whether it is necessary that every being be created by God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not necessary that every being be created by God. For
 there is nothing to prevent a thing from being without that which does not belong to its essence, as
@@ -92,7 +92,7 @@ an efficient cause, still, its relation to that cause is not the reason why it i
 consideration of the mathematician, who therefore does not demonstrate that object from its efficient
 cause.
 
-<span class="atom-split" data-atom="004" data-title="Whether primary matter is created by God?" data-chapter="Whether primary matter is created by God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether primary matter is created by God?" data-chapter="Whether primary matter is created by God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that primary matter is not created by God. For whatever is made
 is composed of a subject and of something else (Phys. i, text 62). But primary matter has no subject.
@@ -146,7 +146,7 @@ it is not created without form; for though everything created is actual, still i
 it is necessary that even what is potential in it should be created, if all that belongs to its being is
 created.
 
-<span class="atom-split" data-atom="005" data-title="Whether the exemplar cause is anything besides God?" data-chapter="Whether the exemplar cause is anything besides God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether the exemplar cause is anything besides God?" data-chapter="Whether the exemplar cause is anything besides God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the exemplar cause is something besides God. For the effect
 is like its exemplar cause. But creatures are far from being like God. Therefore God is not their
@@ -207,7 +207,7 @@ Reply to Objection 4: As Dionysius says (Div. Nom. iv), by "self-existing life a
 wisdom" he sometimes denotes God Himself, sometimes the powers given to things themselves;
 but not any self-subsisting things, as the ancients asserted.
 
-<span class="atom-split" data-atom="006" data-title="Whether God is the final cause of all things?" data-chapter="Whether God is the final cause of all things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether God is the final cause of all things?" data-chapter="Whether God is the final cause of all things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God is not the [final cause](/concepts/four_causes) of all things. For to act for an end
 seems to imply need of the end. But God needs nothing. Therefore it does not become Him to act
@@ -266,7 +266,7 @@ this is called creation, and includes eight points of inquiry:
 (7) Whether any trace of the Trinity is to be found in created things?
 (8) Whether the work of creation is mingled with the works of nature and of the will?
 
-<span class="atom-split" data-atom="007" data-title="Whether to create is to make something from nothing?" data-chapter="Whether to create is to make something from nothing?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether to create is to make something from nothing?" data-chapter="Whether to create is to make something from nothing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to create is not to make anything from nothing. For [Augustine](/figures/augustine)
 says (Contra Adv. Leg. et Proph. i): "To make concerns what did not exist at all; but to create is to
@@ -320,7 +320,7 @@ when it is said, that anything is made from nothing. But in the first way this p
 [ex] implies order, as has been said in this reply. In the second sense, it imports the material cause,
 which is denied.
 
-<span class="atom-split" data-atom="008" data-title="Whether God can create anything?" data-chapter="Whether God can create anything?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether God can create anything?" data-chapter="Whether God can create anything?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot create anything, because, according to the
 Philosopher (Phys. i, text 34), the ancient philosophers considered it as a commonly received axiom
@@ -390,7 +390,7 @@ Reply to Objection 4: This objection proceeds from a false imagination, as if th
 infinite medium between nothing and being; which is plainly false. This false imagination comes
 from creation being taken to signify a change existing between two forms.
 
-<span class="atom-split" data-atom="009" data-title="Whether creation is anything in the creature?" data-chapter="Whether creation is anything in the creature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether creation is anything in the creature?" data-chapter="Whether creation is anything in the creature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that creation is not anything in the creature. For as creation taken
 in a passive sense is attributed to the creature, so creation taken in an active sense is attributed to
@@ -444,7 +444,7 @@ which is the beginning of the creature. Nor is it necessary that as long as the 
 be created; because creation imports a relation of the creature to the Creator, with a certain newness
 or beginning.
 
-<span class="atom-split" data-atom="010" data-title="Whether to be created belongs to composite and subsisting things?" data-chapter="Whether to be created belongs to composite and subsisting things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether to be created belongs to composite and subsisting things?" data-chapter="Whether to be created belongs to composite and subsisting things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to be created does not belong to composite and subsisting
 things. For in the book, De Causis (prop. iv) it is said, "The first of creatures is being." But the
@@ -489,7 +489,7 @@ Reply to Objection 3: This reason does not prove that matter alone is created, b
 does not exist except by creation; for creation is the production of the whole being, and not only
 matter.
 
-<span class="atom-split" data-atom="011" data-title="Whether it belongs to God alone to create?" data-chapter="Whether it belongs to God alone to create?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether it belongs to God alone to create?" data-chapter="Whether it belongs to God alone to create?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it does not belong to God alone to create, because, according
 to the Philosopher (De [Anima](/concepts/soul) ii, text 34), what is perfect can make its own likeness. But immaterial
@@ -579,7 +579,7 @@ by the power of a natural agent, as there is no proportion between "not being" a
 because no creature has simply an infinite power, any more than it has an infinite being, as was
 proved above (Q[7], A[2]), it follows that no creature can create.
 
-<span class="atom-split" data-atom="012" data-title="Whether to create is proper to any person?" data-chapter="Whether to create is proper to any person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether to create is proper to any person?" data-chapter="Whether to create is proper to any person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to create is proper to some Person. For what comes first is the
 cause of what is after; and what is perfect is the cause of what is imperfect. But the procession of
@@ -647,7 +647,7 @@ to "wisdom," and the justification of the sinner to "mercy" and "goodness" poure
 super-abundantly. But creation, which is the production of the very substance of a thing, is reduced
 to "power."
 
-<span class="atom-split" data-atom="013" data-title="Whether in creatures is necessarily found a trace of the Trinity?" data-chapter="Whether in creatures is necessarily found a trace of the Trinity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether in creatures is necessarily found a trace of the Trinity?" data-chapter="Whether in creatures is necessarily found a trace of the Trinity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in creatures there is not necessarily found a trace of the Trinity.
 For anything can be traced through its traces. But the trinity of persons cannot be traced from the
@@ -706,7 +706,7 @@ to those three things.
 Reply to Objection 3: The processions of the persons are also in some way the cause and type
 of creation; as appears from the above (A[6]).
 
-<span class="atom-split" data-atom="014" data-title="Whether creation is mingled with works of nature and art?" data-chapter="Whether creation is mingled with works of nature and art?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether creation is mingled with works of nature and art?" data-chapter="Whether creation is mingled with works of nature and art?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that creation is mingled in works of nature and art. For in every
 operation of nature and art some form is produced. But it is not produced from anything, since
@@ -755,7 +755,7 @@ agent is required, in the shape of a univocal generator.
 Reply to Objection 4: The operation of nature takes place only on the presupposition of created
 principles; and thus the products of nature are called creatures.
 
-<span class="atom-split" data-atom="015" data-title="OF THE BEGINNING OF THE DURATION OF CREATURES (THREE ARTICLES)" data-chapter="OF THE BEGINNING OF THE DURATION OF CREATURES (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="OF THE BEGINNING OF THE DURATION OF CREATURES (THREE ARTICLES)" data-chapter="OF THE BEGINNING OF THE DURATION OF CREATURES (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Next must be considered the beginning of the duration of creatures, about which there are three
 points for treatment:
@@ -763,7 +763,7 @@ points for treatment:
 (2) Whether that they began to exist in an article of Faith?
 (3) How God is said to have created heaven and earth in the beginning?
 
-<span class="atom-split" data-atom="016" data-title="Whether the universe of creatures always existed? (1/2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether the universe of creatures always existed? (1/2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the universe of creatures, called the world, had no beginning,
 but existed from [eternity](/positions/eternity). For everything which begins to exist, is a possible being before it exists:
@@ -873,7 +873,7 @@ Reply to Objection 4: The notion of a vacuum is not only "in which is nothing," 
 implies a space capable of holding a body and in which there is not a body, as appears from Aristotle
 (Phys. iv, text 60). Whereas we hold that there was no place or space before the world was.
 
-<span class="atom-split" data-atom="017" data-title="Whether the universe of creatures always existed? (2/2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the universe of creatures always existed? (2/2)" data-chapter="Whether the universe of creatures always existed?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The first mover was always in the same state: but the first movable thing
 was not always so, because it began to be whereas hitherto it was not. This, however, was not
@@ -930,7 +930,7 @@ preordained is to be taken as the form, which is the principle of action. Theref
 action of God an eternal effect did not follow; but such an effect as God willed, an effect, to wit,
 which has being after not being.
 
-<span class="atom-split" data-atom="018" data-title="Whether it is an article of faith that the world began? (1/2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether it is an article of faith that the world began? (1/2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not an article of faith but a demonstrable conclusion that
 the world began. For everything that is made has a beginning of its duration. But it can be proved
@@ -1032,7 +1032,7 @@ bygone day we choose, from it to the present day there is a finite number of day
 passed through. The objection is founded on the idea that, given two extremes, there is an infinite
 number of mean terms.
 
-<span class="atom-split" data-atom="019" data-title="Whether it is an article of faith that the world began? (2/2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether it is an article of faith that the world began? (2/2)" data-chapter="Whether it is an article of faith that the world began?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 7: In efficient causes it is impossible to proceed to [infinity](/concepts/infinity) "per se"---thus,
 there cannot be an infinite number of causes that are "per se" required for a certain effect; for
@@ -1059,7 +1059,7 @@ considers only a particular case. Hence one might say that the world was eternal
 creature, as an angel, but not man. But we are considering the question in general, as to whether
 any creature can exist from eternity.
 
-<span class="atom-split" data-atom="020" data-title="Whether the creation of things was in the beginning of time?" data-chapter="Whether the creation of things was in the beginning of time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether the creation of things was in the beginning of time?" data-chapter="Whether the creation of things was in the beginning of time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the creation of things was not in the beginning of time. For
 whatever is not in time, is not of any part of time. But the creation of things was not in time; for

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/divagación_ante_el_retrato_de_la_marquesa_de_santillana" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Divagación ante el retrato de la marquesa de Santillana" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Divagación ante el retrato de la marquesa de Santillana" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Para mi gusto, lo más interesante de la Exposición[170] es este cuadro de Jorge Inglés. Si los proyectos de feminidad que aquí se insinúan hubiesen madurado, esta galería de cuatro siglos sería muy otra, y muy otra la historia de España.
 
@@ -40,7 +40,7 @@ Esta posesión de una vida propia, aparte y secreta, este señorío de una morad
 
 Fluye, pues, la verdadera existencia femenina larvada y oculta, defendida del público por una feminidad aparente, construida a propósito para servir de máscara y coraza. Yo creo que toda vida intensamente personal ha necesitado siempre segregar una personalidad ficticia, una especie de dermato psique que detenga y distraiga la hostil curiosidad de las gentes inferiores, a fin de poder, tras ese baluarte, vacar libremente a ser lo que se es. Pero esto, que en el hombre acontece por excepción, llega a ser constitutivo en la mujer.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Suele olvidar el hombre esa condición, por esencia latente, de la personalidad femenina, y por eso en su trato con la mujer va de sorpresa en sorpresa. Normalmente, el primer aspecto de una mujer excluye la posibilidad de que aquella delicada, juguetona, ingrávida figura, todo desdenes y fugas, sea capaz de pasión. Toda mujer parece una santita, si creemos que la santidad consiste en resbalar sobre la vida sin dejarse comprometer por ella. Y, sin embargo, la verdad es todo lo contrario: esa casi irreal figura no hace otra cosa que esperar la ocasión para arrojarse en un torbellino apasionado, con tal ímpetu, decisión y valentía, con tal olvido de penosas consecuencias, que el hombre más resuelto queda siempre a la zaga y, avergonzado, se descubre a sí mismo como un temperamento utilitario, calculador y vacilante. Mas para que esa vitalidad profunda o individual de la mujer se manifieste, es preciso que el hombre deje de formar parte del público, y por uno u otro motivo se destaque individualmente ante ella. Lo que hay de repugnante y monstruoso en la prostituta es su contradicción de la naturaleza femenina, en virtud de la cual ofrenda al hombre anónimo, al público, aquella personalidad latente que sólo debe ser revelada al preferido. Hasta tal punto es esto una negación del carácter femenino, que el hombre delicado siente una instintiva aversión hacia la prostituta, como si, a despecho de sus formas de hembra, hubiera en ella un espíritu masculino. En cambio, el «clásico» en feminidad, Don Juan, es atraído preferentemente por la mujer más recatada, por la que más se oculta al público, y que en la morfología femenina representa el polo opuesto a la prostituta. Don Juan, en efecto, se enamora de la monja.
 

@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/descartes/extrait_des_manuscrits_de_rené_descartes" data-philosopher="Descartes"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="EXTRAIT DES MANUSCRITS DE RENÉ DESCARTES" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="EXTRAIT DES MANUSCRITS DE RENÉ DESCARTES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Extrait
 
@@ -83,7 +83,7 @@ Si maintenant nous voulons trouver les parties aliquotes d’une puissance d’u
 
 Si nous cherchons les parties aliquotes d’une puissance quelconque d’un nombre premier multipliée par un autre nombre dont on connaît les parties aliquotes, et qui, bien qu’il ne soit premier en lui-même, est néanmoins premier à l’égard de la puissance qu’il multiplie, soit la première quantité xn et la seconde a dont les parties aliquotes sont b, les parties aliquotes de la quantité axn seront :
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Si nous avons deux nombres premiers entre eux, et leurs parties aliquotes, nous ayons aussi les parties aliquotes de leur produit ; comme si l’un des nombres est a et ses parties aliquotes b, l’autre nombre c, et ses parties aliquotes d, les parties aliquotes de ac seront :
 
@@ -193,7 +193,7 @@ Faisant seulement la différence = x, et en même temps :
 
 Ou bien :
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Étant donnés les points ca = 5, ba = n, et ar = 5, imaginons que soit décrite la courbe ae par le fil af fixé au foyer c, de là passant à e et à b, pour revenir ensuite à e et de là s’étendre à l’infini vers h, de manière qu’elle devienne plus Iongue à mesure que l’angle erc s’ouvre davantage, on aura toujours :
 

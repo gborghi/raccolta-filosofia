@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_el_fascismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre el fascismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre el fascismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 «Sine [ira](/concepts/anger) et studio»
 
@@ -58,7 +58,7 @@ Sobre este desprestigio, que no es exclusivo a Italia, se ha hablado mucho, pero
 
 Yo creo, por el contrario, que se trata del síntoma más grave en toda la vida pública contemporánea. Procede de modificaciones radicales en las ideas y los sentimientos del europeo, y él va a ser el agente secreto de todo el largo proceso en que ahora ingresan las naciones continentales, quién sabe si también Inglaterra.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 De todos modos, no se aclara suficientemente un movimiento político de alto bordo mientras no se encuentra un hecho lo bastante radical y subterráneo para que puedan derivarse de él a un tiempo la fisonomía de ese movimiento y la de sus contrarios. Todos los fenómenos de una época son hermanos uterinos, aunque sean hermanos enemigos. Y es preciso explorar hasta que hallemos su común cuenca maternal.
 
@@ -90,7 +90,7 @@ Ante pareja situación, se me antoja que es igualmente inepto entonar elegías p
 
 Una consideración realista de esta clase es la que nos descubre bajo el ademán afirmativo del fascismo su carácter predominantemente negativo. Su aparente fuerza consiste realmente en la debilidad de los demás.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Así se explica que, siendo por completo dueño del presente, tenga el fascismo que vivir al día y a nadie se le ocurra verlo proyectado sobre el futuro. Ni siquiera teóricamente conseguimos imaginar una forma futura y estable de organización política derivándose de él. Es un resultado y no un comienzo, una táctica y no una solución.
 

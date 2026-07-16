@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estafeta_romántica_un_poeta_indo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Estafeta romántica.— Un poeta indo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Estafeta romántica.— Un poeta indo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -78,7 +78,7 @@ Y la joya de mi pecho brilla.
 
 ¿Verdad que una vez se dijo usted eso? Claro es que usted no ha llevado nunca ajorcas; en realidad, llevaba usted aquella noche una crucecita de rubíes, pendiente de una cadena de oro. Discreto, el poeta trata de despistarnos con las ajorcas, a fin de que no atribuyamos nominalmente a usted esos pensamientos de tan dulce y cálida intimidad.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Es inútil que nos defendamos. Rabindranath vive lejos, muy lejos de nosotros, en la región sagrada y milenaria que bañan el Ganges y el Brahmaputra. Ha habitado largo tiempo bajo el Himalaya, en medio de una selva ungida de silencio dentro del cual se vierte a ciertas horas la voz del gong llamando a la plegaria en la pagoda. Pero este indio, que tiene un perfil de Cristo ario y una mirada febril entre sus párpados, ha pasado por innumerables avatares o reencarnaciones: ha sido sucesivamente todas las cosas. Como el Buda ha sido liebre y ha sido lobo, ha sido muchacha y ha sido guerrero, sacerdote y juglar. De una en otra existencia ha ido acumulando ese íntimo fermentar secreto de cada vida y al través de cuerpos sin cuento, se ha filtrado su alma, como la gota por las capas de roca, perdiendo [materia](/positions/materialism) y ganando en esencia sutil. Esta esencia sutil de una vida innumerable nos llega hoy, líricamente modulada, en el dulce trémolo de su poesía. Si ha sido un poco cada uno de nosotros, ¿cómo extrañar que en estos versos sorprendamos la revelación de nuestros propios arcanos?
 
@@ -110,7 +110,7 @@ Esto no es una manera de decir, sino una verdad literal. Lo que ocurre es que no
 
 Todos los grandes espíritus han sabido escuchar, por debajo de los ruidos exteriores de la vida, la alegría y el llanto del niño que llevamos dentro. Cuando en el Fedón se dispone Sócrates a morir, le presenta Platón demostrando lógicamente a sus discípulos que no debemos temer a la muerte. Pero Cebes replica sonriendo: «Está muy bien cuanto dices, Sócrates; mas yo quisiera que nos convencieses de otra manera, pues, aunque nosotros no temamos a la muerte, acaso un niño dentro de nosotros se asusta de ella. Y a éste, a éste es a quien tienes que convencer para que no se amedrente de la muerte como de un fantasma errante».
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Señora, ¡qué libro más bello se podría escribir sobre el niño en nosotros! Sólo vivimos verdaderamente las horas que él logra vivir. Somos personas formales en los días vulgares de nuestra existencia; pero en las cimas de la vida, en el sumo dolor o la dicha máxima, el niño en nosotros reaparece.
 
@@ -160,7 +160,7 @@ Y entretanto el aire se satura con el perfume de la promesa.
 
 ¿No es éste, señora, el supremo acierto: lograr que la vida se nos presente como un árbol cuajado de promesas maduras? ¿Qué importa si no se cumplen? Lo decisivo es que la promesa de mañana dé brío a nuestras horas de hoy. ¡Creer que va a acontecer, que puede acontecer algo inmenso en torno nuestro… he ahí la emoción que yo deseo más para los que amo más! Lo horrible es que nada en derredor nos envíe alusiones a un fermentar secreto y romántico que acaso hierve bajo la corteza visible del mundo. Si las cosas no son más que lo que son, no ofrecerán pretexto para que funcione nuestra víscera cordial. Nuestra pupila se detendrá sobre ellas; pero no se dispararán nuestros afanes. Para esto hace falta que las cosas irradien más allá de lo que cada una es en realidad cierto halo imaginario y como luminosa palpitación; que aparezcan en nuestro paisaje rodeadas de aureola, al modo que el Arcángel Gabriel, y como él, sean mensajeras de anunciaciones. ¿Quiere usted un ejemplo claro de esto que vagamente digo? El semblante de una mujer hermosa. ¿No lo vemos ahí, ante nosotros? ¿No nos entregan nuestros ojos entera su realidad? Y, sin embargo, la visión del rostro bello, lejos de satisfacernos, es el incitador de nuestro deseo. Porque la belleza —decía Stendhal— es una promesa de felicidad, y lo que tiene de bello no es lo que tiene de real, sino lo que tiene de promesa.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los acontecimientos que los hombres solemos llamar grandes, como una gran tormenta o una gran batalla, embotan nuestra sensibilidad por su misma violencia. Cuando acaecen, los percibimos según son, y sólo lo que ellos son percibimos. En cambio, a lo mejor, tendidos en la umbría, una hoja vaga que se desprende de la fronda nos roza la sien y produce en nosotros un misterioso estremecimiento, en que nos parece barruntar un suceso inmenso que en aquel instante está ocurriendo, tan grande y universal, que no tiene límites, que no tiene forma, que no puede ser definido ni nombrado, y del que la hoja caediza es sólo un humilde nuncio o infinitesimal síntoma. ¡Cuán otro tono y tensión serían los de nuestra vida si acertásemos a creer que hay en todo objeto el símbolo y anuncio de un inmenso bien o de un inmenso mal! Al menos, usted y yo sólo estimamos hondamente a los que creen esto y van por el mundo con un alma de cristal, pronta a quebrarse bajo el golpe de un grano de arena. Para ellos, como para Novalis, es la naturaleza una varita mágica… petrificada.
 

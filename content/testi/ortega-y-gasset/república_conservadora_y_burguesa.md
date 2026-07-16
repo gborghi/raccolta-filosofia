@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/república_conservadora_y_burguesa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿República conservadora y burguesa?" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="¿República conservadora y burguesa?" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando preparaban la revolución los hombres que han aparecido al frente de la República veían, con plena claridad, lo que ésta tenía que ser durante la primera etapa de su historia, durante el tiempo de su consolidación. La República que ahora triunfe, decían —notad bien: lo decían ellos entonces, no lo digo yo ahora—, la República que ahora triunfe tiene que ser una República conservadora, una República burguesa. Algún ministro recordará los atronadores aplausos que estas palabras, pronunciadas por él, disparaban en el auditorio; pero yo aproveché la primera ocasión que se me ofrecía para hacer notar que ambas expresiones eran poco o nada felices.
 
@@ -44,6 +44,6 @@ Para no desorientarnos, evitemos, pues, hablar de política conservadora y de po
 
 Porque no se ha hecho eso, o, para hablar con más cautela y tal vez con más justicia, porque se ha dado la impresión de que no se hacía eso, sino que se aprovechaba ese triunfo espontáneo y nacional —¡y nacional!— de la República para arropar en él propósitos, preferencias, credos políticos particulares, que no eran coincidencia nacional, es por lo que resulta que al cabo de siete meses ha caído la temperatura del entusiasmo republicano y trota España, entristecida, por ruta a la deriva. Y esto es lo que hay que rectificar.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Apenas sobrevenido su triunfo, comienza ya a falsearse. Gentes atropelladas comenzaron a decir: ¿Cómo? ¿No se ha hecho más que cambiar la forma de gobierno? Con lo cual no hacían sino descubrir su inconsciencia y revelar que no tenían una idea clara de lo que era la monarquía en España, cuando su simple ausencia y su sustitución por un régimen opuesto se les antojaba a estos señores parva mutación. Les parecía poco el cambio de régimen, y, en cambio, les parecía mucho media docena de reformas verbalistas que habían capturado en los archivos de una vetusta y agotada democracia. (Muy bien). Esta agitación formó un círculo de inquietud en torno a los gobernantes, la mayor parte de los cuales —estoy seguro— no simpatizaba con ella, veía perfectamente su inanidad, pero no acertó a resistirla. ¡Ahí es nada: que España haya dejado de vivir bajo la monarquía de Sagunto y aliente hoy constituida bajo la figura de una República! ¿Es que se sabe, se sabe, lo que esa monarquía significaba más allá de todo detalle, más allá de todos los abusos particulares, por su esencia misma, lo que significaba para los destinos españoles?

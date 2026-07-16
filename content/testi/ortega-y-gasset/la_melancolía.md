@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_melancolía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La melancolía" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La melancolía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Mas ¿adónde puede llevar el esfuerzo puro? A ninguna parte; mejor dicho, sólo a una: a la melancolía.
 

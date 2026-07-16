@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/actuación_social_de_la_liga" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Actuación social de la «Liga»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Actuación social de la «Liga»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Por esto, la obra característica de nuestra Asociación ha de ser el estudio al detalle de la vida española y la articulación, al pormenor, de la sociedad patria con la propaganda, con la crítica, con la defensa, con la protesta y con el fomento inmediato de órganos educativos, económicos, técnicos, etcétera.
 

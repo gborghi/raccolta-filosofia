@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/labor_que_ahora_se_emprende" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Labor que ahora se emprende" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Labor que ahora se emprende" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los núcleos regionales, muy especialmente el de Madrid, se dividirán en secciones profesionales. Los ingenieros, los médicos, los juristas, los comerciantes, los empleados, los obreros, según su gremio, serán reunidos aparte con el fin de que estudien rápidamente los problemas más urgentes en la constitución del nuevo Estado que afecten a su profesión y oficio. Asimismo se ocuparán de informar al Comité central de cuanto en el sector social a que pertenecen pueda interesar con urgencia a la República naciente. Careciendo por el pronto —esperamos que en breve se subsane este defecto— de adecuados locales propios para efectuar estas reuniones profesionales, procurará cada sección hallar lugares adecuados. Cada una de esas secciones nombrará un secretario, quien llevará crónica de los trabajos hechos en la sección y los comunicará a la secretaría central. En las Agrupaciones de cada región se procurará, dentro de una fértil autonomía, ejecutar por medios parecidos el mismo propósito. Importa mucho sobre todo que se informe al Comité central, después de una observación pronta, pero bien fundada en datos fehacientes, de la situación política de la provincia y de los errores, abusos o defectos que en el funcionamiento del nuevo Poder público se adviertan.
 

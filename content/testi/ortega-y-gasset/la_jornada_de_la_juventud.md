@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_jornada_de_la_juventud" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¡La jornada de la juventud!" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="¡La jornada de la juventud!" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Qué cosa es la triunfante en esta guerra? Muchas, muchas que poco a poco se irán nombrando. Pero hay una que envuelve y resume todas las demás cosas triunfantes de esta guerra, y es la modernidad. Cada mañana de estos días, al levantarnos, alzamos la cabeza para ventear el cariz de la vida y sentimos que nos da en el rostro un bronco viento vernal cargado con aromas que perecen recién nacidos, como si llegaran de una vasta selva virgen. Nuestro planeta tiene un poder divino de renovación, y ahora que parecía irse a morir de viejo y desesperado, he aquí que se estremece de juventud.
 

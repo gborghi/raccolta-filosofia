@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_intuición_radical_de_azorín" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La intuición radical de Azorín" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La intuición radical de Azorín" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El arte no puede consistir nunca en copiar una realidad, si por realidad se entiende lo que se ve, se oye, se toca. Lo sensible es sólo el resultado de una complicada labor oculta. Lo visto, lo oído, tiene valor meramente por lo que en ello hay de alusión a ese fermentar secreto, a esa latente trayectoria de que lo sensible no es sino un estadio. La realidad no es sólo el arroyo que vemos correr, mas también el manantial subterráneo que no vemos y produce a aquél. Por eso, la realidad no puede copiarse, sino que se la sorprende mediante un acierto misterioso que hace al artista coincidir con ella, como el compás de la danza hace coincidir movimientos espontáneos e independientes. El [caso](/concepts/fortune) de Flaubert, que mientras describe el envenenamiento de la Bovary experimenta en sí mismo los síntomas de la intoxicación, y el de Kierkegaard, que pensando en la avaricia vive una semana convertido de verdad en avaro, son fenómenos extremos y burlescos de esta coincidencia.
 

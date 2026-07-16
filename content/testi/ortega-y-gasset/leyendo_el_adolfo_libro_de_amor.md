@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/leyendo_el_adolfo_libro_de_amor" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Leyendo el Adolfo, libro de amor" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Leyendo el Adolfo, libro de amor" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Un azar ha traído a mis manos el Adolfo, de Benjamín Constant. No había yo leído este libro. Siempre me ha causado miedo la literatura romántica francesa. Miedo de lector; es decir, temor de aburrirme.
 
@@ -50,7 +50,7 @@ Me hago cargo de que es el tema sumamente delicado. Hay una forma de erotismo qu
 
 Según cierto sesgo, el progreso de la cultura se nos aparece como un progreso desde lo lejano hacia lo próximo. El hombre ha empezado por no ocuparse sino de los dioses, que son la mayor lontananza; luego ha ido tomando en consideración, deteniéndose sobre temas que parecían más humildes, demasiado humildes y consuetudinarios, y con sorpresa siempre renovada ha visto que en ellos encontraban su asiento y [causa](/concepts/cause) aquellos asuntos sublimes. En ciencia, como en arte o en política, todos los avances han consistido en que algún espíritu genial lograba transferir la seria atención humana de las cosas que eran reconocidas como interesantes a otras en que nadie se había fijado (fijarse es detenerse, demorar en algo, plantar las tiendas sobre una superficie y cargar sobre ella la seriedad de nuestro ánimo). Velázquez, de los cuerpos retrotrae la mirada al aire, que entre ellos y nuestra córnea tiembla sin ser advertido. El gran invento de Goethe —su lírica— radica en haberse atrevido a cantar aquellas personalísimas inquietudes de su pecho en que nadie se había antes parado. Por eso, cuando habla de sus obras completas, puede llamarlas: «la edición de las huellas de mi vida…» En ciencia y en política acontece lo propio: el progreso coincide siempre con una ampliación de nuestra seriedad a cosas antes desapercibidas o tachadas de poco serias.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¡Poetas, pensadores, políticos, los que aspiráis a la originalidad y a mundos siempre nuevos! No pretendáis crear las cosas, porque esto sería una objeción contra vuestra obra. Una cosa creada no puede menos de ser una ficción. Las cosas no se crean, se inventan en la buena acepción vieja de la palabra: se hallan. Y las cosas nuevas, las minas aún no denunciadas, se encuentran no más allá, sino más acá de lo ya conocido y consagrado, más cerca de vuestra intimidad y domesticidad, en torno de vuestras entrañas, llenando en inmenso filón las horas más humildes de vuestra vida. No insistáis sobre lo que ya triunfa santificado; esforzaos, por el contrario, en hacer arte con lo que, dado que sea percibido, parece antiartístico; en hacer ciencia sobre lo que la ciencia de hoy ignora, y política con los intereses que hoy se antojan antipolíticos. Eso mismo han hecho cuantos alguna vez hicieron verdaderamente arte y ciencia y política.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_estética_de_el_enano_gregorio_el_botero" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La estética de El enano Gregorio El Botero" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La estética de El enano Gregorio El Botero" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -42,7 +42,7 @@ Cuando Zuloaga pinta una escena más o menos del gusto de París, pongamos por c
 
 En cambio, Zuloaga ha pintado el enano Gregorio el Botero. Una figura deforme de horrible faz, ancha, chata y bisoja, calzados los pies de alpargatas y las piernas de calzones que medio se le derriban, en mangas de camisa, abierta ésta por el pecho, que avanza con enormes músculos de antropoide. Sobre el suelo se alzan, y apoyados en su hombro se mantienen en pie, dos henchidos pellejos que conservan las formas orgánicas del animal que en ellos habitó y afirman un no remoto parentesco con el hombre monstruoso que los abraza como a dos semejantes. Y este grupo de vida orgánica destaca sobre un paisaje de tierra desolada, sin árboles, rugosa, dura y frígida. A mano derecha rampan por un collado los cubos de unas murallas rudísimas de una ciudad apenas sugerida —sugerida lo bastante para que se sepa que es una ciudad bárbara y torva y enérgica, cuyos pobladores son crueles unos para con otros y cada cual es enemigo de sí mismo y nadie sabe qué es admirar ni qué es amor. Encima un cielo que es una guerra rauda entre un ventarrón y unas nubes, las cuales, en sus desgajes y culebreos dan cuerpo a las líneas de embestida del viento.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Y cómo está esto pintado? La pintura contemporánea, realizando un teorema de Leonardo, aspira a resolver cada cosa en las demás. Una mano, verbi [gratia](/concepts/grace), es para el impresionista un lugar donde se reflejan las cosas en derredor existentes: pintar una mano es, pues, pintar las demás cosas en esa mano, y así sucesivamente. En realidad el impresionismo es la aplicación a la pintura del principio físico de Newton. Cada cosa es el lugar de cita para las demás. Pues bien; Zuloaga comienza por separar lo que en el cuadro hay de orgánico y lo que es inorgánico —tierra, cielo, construcciones. El enano y los odres están pintados semi-impresionistamente, como los hubieran pintado Greco o Velázquez o Goya. En qué consista este semi-impresionismo no puede decirse con cuatro palabras; aun con muchas, sería fácil dar de él una fórmula equivocada. Sólo provisionalmente me atrevería a decir: el impresionismo de los clásicos nuestros es un impresionismo limitado por un medio neutro. El plein air del contemporáneo hace ilimitada la impresión: el aire libre es la negación del medio, porque no reacciona sobre las cosas, sino que las deja en su salvaje independencia, en su inagotable reflejarse mutuamente.
 
@@ -72,7 +72,7 @@ De su tema saca Zuloaga esa característica fortaleza de algunos de sus cuadros,
 
 El enano Gregorio el Botero sería una curiosidad antropológica, un fenómeno de feria si su fisonomía concreta, individual, de humano bicharraco no fuera enriquecida y explicada por la idea general, por la síntesis derramada en el crudo paisaje que le rodea. Gregorio el Botero es un símbolo; si se quiere, un mito español. Y en esto consiste la fuerza de Zuloaga: en ser un creador de mitos. Veamos cómo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sabido es que Zuloaga se ha declarado enemigo de la doctrina europeizadora que en formas y tonos diferentes defendemos algunos. Por tanto, es Zuloaga nuestro enemigo. Mas ahora no se trata de discutir doctrinas. Ante la obra de arte, las discrepancias teóricas sobre historia y política deben enmudecer. Sin embargo, la doctrina europeísta ha tenido, aparte su acierto o su error, una utilidad indiscutible: la de que se ponga en su fórmula extrema el problema de España. Unos y otros convienen en lo siguiente: es la española una raza que se ha negado a realizar en sí misma aquella serie de transformaciones sociales, morales e intelectuales que llamamos Edad Moderna. La civilización ha avanzado, ha construido nuevas formas de vida, ha impuesto nuevas condiciones a la existencia, demanda nuevas virtudes y repele como vicios y flaquezas y miserias algunas que antaño lo fueron. Los pueblos que se han sometido a este cambio del medio histórico han renunciado a perseverar en su ser, han aceptado las reformas de su carácter y han comprado el bienestar, el poderío, la moralidad y el saber, a cambio de esa renuncia. Como Fausto, han vendido su alma o porciones de ella para mejorar su [fortuna](/concepts/fortune).
 

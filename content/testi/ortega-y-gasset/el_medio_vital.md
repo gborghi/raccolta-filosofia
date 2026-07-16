@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_medio_vital" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El medio vital" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El medio vital" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero no hay modo de acercarse con alguna pulcritud a la esencia de la vida infantil si antes no rectificamos las ideas recibidas sobre lo que es el medio. Para la biología del pasado siglo, el medio era, en definitiva, el mundo fisicoquímico, un escenario único donde caen los individuos y las especies como en un contorno hostil y frente al cual no les queda otro papel que el de adaptarse con la mayor humildad posible. Si el medio no tolera un órgano o una función, la vida, servilmente, habrá de amputar aquél y atrofiar ésta.
 

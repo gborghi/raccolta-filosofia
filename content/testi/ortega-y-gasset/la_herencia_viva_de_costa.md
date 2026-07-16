@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_herencia_viva_de_costa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La herencia viva de Costa" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La herencia viva de Costa" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Apenas si he escrito una página alguna vez en que no apareciera el nombre de Costa como fondo resonante y ennoblecedor que yo buscara para la silueta de mis pensamientos, en realidad como epónimo y genealogía de estos mismos pensamientos. Y ello me da alguna facilidad para moverme libremente en medio de este fango lírico que sobre aquel hombre poderoso ha caído estos días.
 
@@ -50,7 +50,7 @@ A este propósito —y perdónese la cita refleja— decía yo en marzo del pasa
 
 Seguirá viviendo el alma de Costa mientras haya quien recoja esta su doble herencia: el dolor de España, la idea de Europa.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En cuanto a la enorme masa de su cuerpo —cuya muerte desde lejos tiene no sé qué magnitud de derrumbamiento—, sólo me parece lícito desearle píamente, como solían los antiguos, que la tierra le sea leve. Por eso pido a los amigos fieles del programa de Costa que no contribuyan a que le sea pesada poniendo sobre ella un mausoleo. En cuanto cabe afirmar estas cosas, ese mausoleo constituirá una nueva desdicha nacional, porque será un error estético. Cuando un pueblo carece de alientos para vivir integralmente, carece también de ellos para festejar y dar honores adecuados. La conmemoración es una forma de la cultura. No somos aún dignos de conmemorar la muerte de Costa: tratemos, primero, de vivir su vida.
 

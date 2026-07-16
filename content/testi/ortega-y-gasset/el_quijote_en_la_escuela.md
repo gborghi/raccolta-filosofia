@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_quijote_en_la_escuela" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El Quijote en la escuela" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El Quijote en la escuela" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 A propósito de la Real Orden que impone la lectura del Quijote en todas las escuelas primarias, escribe en La Libertad Antonio Zozaya: «El Quijote no es lectura para párvulos ni para adolescentes… En la escuela no hacen falta Don Quijote ni Hamlet». Desde que apareció la Real Orden mencionada esperaba yo que alguien se resolviese a decir esto el primero, con el fin de apresurarme a repetirlo yo el segundo. La razón por la cual esperaba cortés a que alguien se me adelantase no importa mucho, aunque podría en pocas palabras expresarse así: los que están condenados a pensar en muchas cosas de distinta suerte que sus convecinos, a ser de otra opinión, a ser heterodoxos, deben economizar cuanto puedan esta su heterodoxia, para que no se tache de afán lo que es más bien una desdicha. Es seguro que la Real Orden quijotesca parecerá excelente a casi todo el mundo. Como a mí me parece en muchos sentidos un desatino, me complace cargar la responsabilidad de esta opinión sobre los hombros respetables de Antonio Zozaya, escritor tan mesurado y reflexivo, de quien las ideas suelen presentarse avanzando noblemente sobre un fondo de elevada filosofía.
 

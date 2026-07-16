@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/al_margen_del_libro_a_m_d_g" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Al margen del libro A. M. D. G." data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Al margen del libro A. M. D. G." data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ramón Pérez de Ayala me envía un libro que acaba de componer. Se titula A. M. D. G.: La vida en los colegios de jesuitas. El autor ha sido discípulo de esos benditos padres: yo, también. El autor es de mis amigos más próximos, y nos une, sobre el afecto, análoga sensibilidad para los problemas españoles.
 

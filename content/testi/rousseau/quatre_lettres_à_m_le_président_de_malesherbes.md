@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/quatre_lettres_à_m_le_président_de_malesherbes" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="QUATRE LETTRES À M. LE PRÉSIDENT DE MALESHERBES" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="QUATRE LETTRES À M. LE PRÉSIDENT DE MALESHERBES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Première Lettre
 
@@ -44,7 +44,7 @@ Seconde lettre
 
 Montmorency, le 12 janvier 1762.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Je continue, monsieur, à vous rendre compte de moi, puisque j’ai commencé ; car ce qui peut m’être le plus défavorable est d’être connu à demi ; et puisque mes fautes ne m’ont point ôté votre estime, je ne présume pas que ma franchise me la doive ôter.
 
@@ -58,7 +58,7 @@ Après avoir découvert, ou cru découvrir, dans les fausses opinions des hommes
 
 J’avoue que le nom que m’ont fait mes écrits a beaucoup facilité l’exécution du parti que j’ai pris. Il faut être cru bon auteur, pour se faire impunément mauvais copiste, et ne pas manquer de travail pour cela. Sans ce premier titre, on m’eût pu trop prendre au mot sur l’autre, et peut-être cela m’aurait-il mortifié ; car je brave aisément le ridicule, mais je ne supporterais pas si bien le mépris. Mais si quelque réputation me donne à cet égard un peu d’avantage, il est bien compensé par tous les inconvénients attachés à cette même réputation, quand on n’en veut point être esclave, et qu’on veut vivre isolé et indépendant. Ce sont ces inconvénients en partie qui m’ont chassé de Paris, et qui, me poursuivant encore dans mon asile, me chasseraient très certainement plus loin, pour peu que ma santé vînt à se raffermir. Un autre de mes fléaux dans cette grande ville était ces foules de prétendus amis qui s’étaient emparés de moi, et qui, jugeant de mon cœur par les leurs, voulaient absolument me rendre heureux à leur mode, et non pas à la mienne. Au désespoir de ma retraite, ils m’y ont poursuivi pour m’en tirer. Je n’ai pu m’y maintenir sans tout rompre. Je ne suis vraiment libre que depuis ce temps-là.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Libre ! non, je ne le suis point encore ; mes derniers écrits ne sont point encore imprimés ; et, vu le déplorable état de ma pauvre machine, je n’espère plus survivre à l’impression du recueil de tous : mais si, contre mon attente, je puis aller jusque-là et prendre une fois congé du public, croyez, monsieur, qu’alors je serai libre, ou que jamais homme ne l’aura été. O utinam ! O jour trois fois heureux ! Non, il ne me sera pas donné de le voir.
 
@@ -80,7 +80,7 @@ Mon imagination ne laissait pas longtemps déserte la terre ainsi parée. Je la 
 
 Bientôt de la surface de la terre j’élevais mes idées à tous les êtres de la nature, au système universel des choses, à l’être incompréhensible qui embrasse tout. Alors l’esprit perdu dans cette immensité, je ne pensais pas, je ne raisonnais pas, je ne philosophais pas, je me sentais, avec une sorte de volupté, accablé du poids de cet univers, je me livrais avec ravissement à la confusion de ces grandes idées, j’aimais à me perdre en imagination dans l’espace, mon cœur resserré dans les bornes des êtres s’y trouvait trop à l’étroit ; j'étouffais dans l’univers ; j’aurais voulu m’élancer dans l’infini. Je crois que si j’eusse dévoilé tous les mystères de la nature, je me serais senti dans-une situation moins délicieuse que cette étourdissante extase à laquelle mon esprit se livrait sans retenue, et qui, dans l’agitation de mes transports, me faisait écrier quelquefois, O grand Être ! ô grand Être ! sans pouvoir dire ni penser rien de plus.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Ainsi s’écoulaient dans un délire continuel les journées les plus charmantes que jamais créature humaine ait passées : et quand le coucher, du soleil me faisait songer à la retraite, étonné de la rapidité du temps, je croyais n’avoir pas assez mis à profit ma journée, je pensais en pouvoir jouir davantage encore ; et, pour réparer le temps perdu, je me disais, Je reviendrai demain.
 

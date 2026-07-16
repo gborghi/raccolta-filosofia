@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_la_muerte_de_roma" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre la muerte de Roma" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre la muerte de Roma" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -52,7 +52,7 @@ La doctrina de Weber sobre la muerte de Roma puede resumirse así: la economía 
 
 No es, pues, la intención de Weber decir: porque la economía romana fue tal, Roma sucumbió; sino más bien esto otro: porque Roma fue como fue se desarrolló en ella un proceso económico morboso que acaba estrangulándose a sí mismo. No aspira a revelarnos por qué muere, sino cómo es su muerte mirada por el haz económico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Nadie ha explicado todavía por qué un gran organismo histórico llega al aniquilamiento. De lo único que podemos estar seguros es de que cuanto mayor sea aquél, menos poder tendrán sobre él las causas externas. Un Municipio puede ser destruido por un terremoto o por una epidemia. Una pequeña nación puede sucumbir en unas cuantas batallas. Pero todo un «mundo», como fue Roma, está inmunizado para accidentes parejos. Tiene, pues, razón Weber cuando empieza su ensayo diciendo: «El Imperio romano no se derrumbó por causas exteriores, tal vez como consecuencia de una evidente superioridad de sus enemigos». Los «mundos» sólo mueren de muerte natural. Dentro de ellos hay que buscar los asesinos. No hay, pues, irrupción de los bárbaros. Esta idea, tan de viejo cuadro histórico, fue inventada por los literatos de la decadencia romana, que eran, como suelen ser los literatos de todas las épocas difíciles, superlativamente reaccionarios. Incapaces de crear cultura, llamaban así a la tradicional. Cuando los escritores tenían todavía talento —Tácito, por ejemplo—, entrevén que lo verdaderamente nuevo, progresivo, es el bárbaro, aunque o, precisamente, porque ni tiene Senado ni compone párrafos ciceronianos. Esta intuición fresca y abierta a lo real se pierde muy pronto y los literatos vuelven a creer que el progreso es el Senado y la elocuencia. Siempre se ha repetido el mismo curioso fenómeno: los «progresistas» de ayer son los más nocivos reaccionarios de hoy, los que impiden la verdadera acomodación a lo absolutamente nuevo que el tiempo aporta. Son progresistas en línea recta. Los chinos creen que los diablos avanzan sólo rectilíneamente, y por eso, les basta poner un biombo ante la puerta de la habitación para que el tozudo diablo tenga que detenerse. De aquí también el encorvamiento de los tejados: el diablo, al deslizarse por ellos, no puede caer a tierra, sino que sale despedido otra vez en línea recta hacia el espacio, como la pelota de la cesta vasca. El buen literato de decadencia se dedica a componer acrósticos indolentes mientras ve llegar a los grandes bárbaros blancos. Luego se queja e inventa la irrupción en largas elegías verbipotentes, mientras los pueblos salían a recibir a las huestes francas o godas como a salvadores.
 
@@ -78,7 +78,7 @@ Pero he aquí que Roma conquista toda Italia. Los italiotas —como en su tiempo
 
 Hubo un momento en que los aliados tuvieron ganada la partida. Entonces deciden crear frente a Roma otro Estado. Pero el Estado que forman es idéntico al romano. Las mismas instituciones, el mismo método electoral con presencia de cuerpo. Designaron como capital a Corfinium —si no padezco error.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 (Los lectores sabrán ser indulgentes si se desliza alguna equivocación adjetiva; no escribo rodeado de libros ni de notas sino como un romántico, entre rocas ásperas y lentiscos, mientras delante, al horizonte, forma el mar su gran curva de ballesta pronta a disparar nuestro corazón, que siente afanes de flecha y es ya de suyo una cruenta herida).
 

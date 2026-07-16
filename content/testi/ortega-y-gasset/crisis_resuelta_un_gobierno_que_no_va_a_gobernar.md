@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/crisis_resuelta_un_gobierno_que_no_va_a_gobernar" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Crisis resuelta.— Un Gobierno que no va a gobernar" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Crisis resuelta.— Un Gobierno que no va a gobernar" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Al conocer la solución dada a la crisis, todos nos hemos dicho: «No había otra». Con estas palabras queríamos decir que no había ninguna. El Gobierno, que ha renacido de sus cenizas, es las cenizas de un Gobierno. Nadie ignora la opinión que de este conglomerado ministerial tenían ayer y siguen hoy teniendo sus propios miembros. El ensayo emprendido en 21 de marzo ha fracasado. Era forzoso esto. Siempre hicimos constar que aquel Gobierno no significaba el futuro: era, por el contrario, la liquidación de un pretérito pluscuamperfecto, la aniquilación de los partidos y grupos tradicionales. Como suelen en un entierro los parientes mal avenidos, se habían juntado todos los familiares de la vieja España oficial, a fin de dar a ésta cristiana sepultura.
 

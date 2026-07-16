@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/liberalismo_abstracto" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Liberalismo abstracto" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Liberalismo abstracto" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No se inquiete usted, conde. Con no haber muchas, hay más probabilidades de que se [forme](/positions/realism_of_ideas) ese frente único constitucional, apadrinado por usted, que el otro frente recomendado por mí. Yo pido demasiado: pido que las gentes cambien de ideas y sustituyan las que tienen, anquilosadas y simples, por otras más flexibles y complicadas. Llevo, pues, las de perder. No tiene usted más que leer los periódicos de estos días y hallará con satisfacción que casi todos los «intelectuales» coinciden en lo esencial con usted y se oponen a mí. La doctrina de libertad que insinúa en su carta y los simpáticos aspavientos que hace usted frente a la reacción invasora son canónicos para todas las «izquierdas» —salvo, y me interesa subrayarlo, los socialistas. El [socialismo](/schools/historical_materialism_school), ultimogénito del pasado, es el primer partido donde aparecen algunas facciones de la política futura, y por lo mismo azara tanto a los liberales, que no le hallan tan liberal como ellos quisieran. Tampoco el socialismo quiere la libertad ante todo, la libertad sola, porque ha aprendido de Carlos Marx, el cual lo aprendió de Hegel, que la libertad sin más no es más que un abstracto. Decía este filósofo que en el proceso histórico, donde se va elaborando la liberación humana, «el liberalismo es la tendencia que se aferra a la abstracción; sobre él triunfa siempre lo concreto, y lo mantiene en perpetua bancarrota».
 
@@ -50,7 +50,7 @@ Esta duplicidad es la que empieza a parecernos tan poco ingeniosa como poco mora
 
 En este sentido —ello le demostrará que no escatimo el esfuerzo de aproximarme a usted— la única política estimable es la política realista. Pero conviene no dejar este término a la intemperie, sin abrigo de aclaraciones, expuesto a contraer las significaciones más nocivas.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Política realista no puede querer decir política de intereses. Eso sería más bien una política materialista o de egoísmos. Es falso que la realidad se componga sólo de afanes interesados. Si damos una palmada dentro de nosotros, veremos que levantan el vuelo pasiones del más vario plumaje, y que junto a egoísmos baten sus alas generosidades; junto a apetitos, entusiasmos.
 
@@ -98,7 +98,7 @@ Esta convicción me hace repugnar el gesto plañidero, amanerado y como inseguro
 
 Sin embargo, en España, como en Italia —en principio puede un día u otro acaecer cosa análoga en Francia, Alemania e Inglaterra—, se ha suspendido de pronto y radicalmente el ejercicio de las libertades y el imperio de la democracia. Este enrarecimiento súbito de la atmósfera, esta disnea de libertades nos obliga a reflexionar sobre el suceso. Por lo pronto, no a indignarnos, no a hacer aspavientos en la tertulia privada o en letra de molde, sino a reflexionar sobre lo que ha pasado. Es posible que sentir un excesivo bochorno nos lleve a dar demasiada importancia a un episodio, frente al cual no es hora de ejecutar acción ninguna. Ponga cara mustia el que se satisfaga con poner cara mustia. A mí me urge más hacerme bien cargo de lo que ha pasado y de su porqué. La coyuntura inspira antes que indignación otras emociones más tibias y socráticas.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Por muy bajo que se afore el liberalismo español, la facilidad con que se ha suspendido la Constitución y se ha volatilizado el Parlamento parece excesiva. Por otra parte, no se advierte que hayan hecho su presentación grandes fuerzas antiliberales capaces de instituir otro régimen perdurable. Todo ello nos obliga a pensar que, aunque hayan pagado el pato las libertades, el pato no es un triunfo de la reacción.
 

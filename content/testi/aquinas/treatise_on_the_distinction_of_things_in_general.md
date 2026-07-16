@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_distinction_of_things_in_general" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Distinction of Things in General" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Distinction of Things in General" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE DISTINCTION OF THINGS IN GENERAL (Q[47])
 
-<span class="atom-split" data-atom="002" data-title="OF THE DISTINCTION OF THINGS IN GENERAL (THREE ARTICLES)" data-chapter="OF THE DISTINCTION OF THINGS IN GENERAL (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE DISTINCTION OF THINGS IN GENERAL (THREE ARTICLES)" data-chapter="OF THE DISTINCTION OF THINGS IN GENERAL (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the production of creatures, we come to the consideration of the distinction
 of things. This consideration will be threefold---first, of the distinction of things in general; secondly,
@@ -34,7 +34,7 @@ Under the first head, there are three points of inquiry:
 (2) Their inequality.
 (3) The unity of the world.
 
-<span class="atom-split" data-atom="003" data-title="Whether the multitude and distinction of things come from God?" data-chapter="Whether the multitude and distinction of things come from God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether the multitude and distinction of things come from God?" data-chapter="Whether the multitude and distinction of things come from God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the multitude and distinction of things does not come from
 God. For one naturally always makes one. But God is supremely one, as appears from what precedes
@@ -107,7 +107,7 @@ operation is concerned, if the means be equal, so to speak, to the end, one only
 the creature is not such a means to its end, which is God; and hence the multiplication of creatures
 is necessary.
 
-<span class="atom-split" data-atom="004" data-title="Whether the inequality of things is from God?" data-chapter="Whether the inequality of things is from God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether the inequality of things is from God?" data-chapter="Whether the inequality of things is from God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the inequality of things is not from God. For it belongs to the
 best to produce the best. But among things that are best, one is not greater than another. Therefore,
@@ -179,7 +179,7 @@ in works done by art; for the roof of a house differs from the foundation, not b
 other material; but in order that the house may be made perfect of different parts, the artificer seeks
 different material; indeed, he would make such material if he could.
 
-<span class="atom-split" data-atom="005" data-title="Whether there is only one world?" data-chapter="Whether there is only one world?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether there is only one world?" data-chapter="Whether there is only one world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is not only one world, but many. Because, as [Augustine](/figures/augustine)
 says (QQ. 83, qu. 46), it is unfitting to say that God has created things without a reason. But for

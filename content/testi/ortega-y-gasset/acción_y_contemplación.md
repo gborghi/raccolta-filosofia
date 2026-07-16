@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/acción_y_contemplación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Acción y contemplación" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Acción y contemplación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace más de diez años que en las Meditaciones del Quijote atribuía yo a la novela moderna, como su misión esencial, describir una atmósfera a diferencia de otras formas épicas —la epopeya, el cuento, la novela de aventuras, el melodrama y el folletín— que refieren una acción concreta, de línea y curso muy definidos. Frente a la acción concreta, que es un movimiento lo más rápido posible hacia una conclusión, lo atmosférico significa algo difuso y quieto. La acción nos arrebata en su dramática carrera; lo atmosférico, en cambio, nos invita simplemente a su contemplación. En la pintura representa el paisaje un tema atmosférico, donde , mientras el cuadro de historia narra una hazaña perfilada, un suceso de forma escueta. No es un azar que con motivo del paisaje se inventase la técnica del plein air, es decir, de la atmósfera.
 
@@ -48,7 +48,7 @@ Esto indica que la situación prácticamente óptima para conocer —es decir, p
 
 Los cuadros que más nos han penetrado no son los del Museo, donde hemos ido a «ver cuadros» sino, tal vez, la humilde tabla en la entreluz de un aposento donde la existencia nos llevó con muy otras preocupaciones. En el concierto fracasa la música que, a lo mejor, yendo por la calle, sumidos en interesadas reflexiones, oímos tocar a un ciego y nos compunge el corazón.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Es evidente que el destino del hombre no es primariamente contemplativo. Por eso es un error que para contemplar, la condición mejor es ponerse a contemplar, esto es, hacer de ello un acto primario. En cambio, dejando a la contemplación un oficio secundario y montando en el alma el dinamismo de un interés, parece que adquirimos el máximo poder absorbente y receptivo.
 

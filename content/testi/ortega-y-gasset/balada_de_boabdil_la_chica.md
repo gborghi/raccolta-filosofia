@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/balada_de_boabdil_la_chica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Balada de Boabdil La Chica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Balada de Boabdil La Chica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Espíritus selectos afirman que no es España un pueblo civilizado; por lo menos, que no es un pueblo moderno. Tal afirmación no va inspirada en vagos enojos ni en remilgadas displicencias de esos espíritus. Alude a absurdos concretísimos que en todos los órdenes de la vida nacional acontecen. La «ciencia» hispánica se parece todavía mucho a la del tiempo de Averroes. El arte no es menos extemporáneo. Y en cuanto a la política…
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/viaje_a_españa_en_1718" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Viaje a España en 1718" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Viaje a España en 1718" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Juan Eberardo Zetzner fue un banquero estrasburgués. Estrasburgo está puesto en esa parte central de Europa donde parece que todo el brío se lo han llevado las montañas, quedando sólo para los hombres algunos adarmes de energía. Aquel país da una raza poseedora de un minimum de virtudes y un minimum de vicios. Calvino, Rousseau, Pestalozzi confirman la regla.
 
@@ -48,7 +48,7 @@ Al menos declara Zetzner que somos sobrios y que solemos decir: «Nosotros no co
 
 «He aquí —dice Zetzner— lo que he notado en mi diario sobre el reino de España y lo que he reunido luego en Cádiz: hubiera podido, a no dudar, añadir otras muchas cosas, pero la depresión mental causada por mis grandes pérdidas de dinero me han impedido hacerlo».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Zetzner era, pues, un infeliz; pero muchas de estas apreciaciones fantásticas las encontramos nada menos que en Montesquieu.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_la_cultura_del_amor" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para la cultura del amor" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Para la cultura del amor" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Vuelvo hoy al tema del Adolfo, al asunto del «amor». En las páginas anteriores[46] he dejado correr el equívoco múltiple que transporta siempre esta palabra. He aquí un vocablo donde se refractan por lo menos tres significaciones distintas. Rompamos la prismática voz.
 
@@ -52,7 +52,7 @@ Pues bien: yo insisto en que debemos aprender a respetar los derechos de la ilus
 
 De otro modo, viviremos en perpetuo desacuerdo con nosotros mismos y no evitaremos nunca crueldades inútiles como esa que sobre el hombre cae cuando ama; jura él amor eterno, y la sociedad le obliga, ex amante, a cumplir su palabra.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Esto sería justo si fuese posible al «amor» elegir entre jurar o no jurar su propia eternidad. Bien que entonces se hiciese responsable al hombre de ese añadido que voluntariamente ponía. Pero en este [caso](/concepts/fortune) no existe el albedrío. No es el amante quien jura, sino que el «amor» mismo es, en su plenitud, juramento. Mientras la moral no consiga modificar la naturaleza del amor, éste es el responsable y no el hombre a quien sobrecoge.
 

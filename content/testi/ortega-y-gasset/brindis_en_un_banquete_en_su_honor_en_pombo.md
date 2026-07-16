@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/brindis_en_un_banquete_en_su_honor_en_pombo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Brindis en un banquete en su honor en «pombo»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Brindis en un banquete en su honor en «pombo»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando yo tenía diez años, con mi padre y con Rodríguez Chaves, autor mirífico de Cuentos de dos siglos ha, solía venir a «Pombo» para tomar sorbete de arroz. Desde entonces creo que no he vuelto a entrar hasta hoy en este venerable tabernáculo. Por cierto que es para mí interesante comparar aquellas visitas pueriles con esta que ahora hago. Entonces «Pombo» era a mis ojos una cosa mucho más vieja que yo: me parecía que visitaba a un señor decrépito, con gran alarde de gafas y una escueta levita orillada, una especie de Mesonero Romanos o Hartzenbusch. Ahora, al hallarme entre ustedes, me encuentro con que es «Pombo» una cosa más joven que yo. Mientras yo he envejecido, esta perenne botillería se ha remozado. Decididamente no se sabe qué es en definitiva lo joven y lo caduco: hasta hace poco el puente más viejo de París era el Pont Neuf.
 

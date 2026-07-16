@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_sobrehombre" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El sobrehombre" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El sobrehombre" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Todos los que no siendo actualmente demasiado viejos nos hemos dejado llevar desde la niñez a un comercio superfluo y tenaz con las cosas del espíritu encontramos en el recuerdo de nuestros dieciocho años una atmósfera caliginosa y como un sol africano que nos tostó las paredes de la morada interior. Fue aquella nuestra época de «nietzscheanos»; atravesábamos a la sazón, jocundamente cargados con los odrecillos olorosos de nuestra juventud, la zona tórrida de Nietzsche. Luego hemos arribado a regiones de más suave y fecundo clima, donde nos hemos refrigerado el torrefacto espíritu con aguas de alguna perenne fontana clásica, y sólo nos queda de aquella comarca ideal recorrida, toda arena ardiente y viento de fuego, la remembranza de un calor insoportable e injustificado.
 
@@ -42,7 +42,7 @@ Nótese bien una cosa: para Nietzsche no tienen valor esos individuos por ser in
 
 Para Nietzsche vivir es más vivir, o de otro modo, vida es el nombre que damos a una serie de cualidades progresivas, al instinto de crecimiento, de perduración, de capitalización de fuerzas, de poder. El principio de la vida, la voluntad de la vida es «Voluntad de poderío». Tanto de vida habrá en cada época cuanto más libre sea la expansión de esas fuerzas afirmativas. De aquí que la moral de Zarathustra imponga como un deber fomentar la liberación de esas energías. En cada siglo ciérnese ante las miradas de los fuertes el ideal de una organización humana más libre y expansiva donde unos cuantos hombres podrán vivir más intensamente. Este ideal es el Sobrehombre.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Como se ve, Nietzsche no predica el rompimiento de toda ley moral. «El hecho —nota Simmel— de que se haya tomado esta doctrina como un egoísmo frívolo, como la santificación de una epicúrea indisciplina, es uno de los errores ópticos más extraños en la historia de la moral». Zarathustra escupe mil desdenes e improperios contra los snobs del libertinaje, a quienes falta el instinto para los altos fines de la humanidad. «Yo, grita, soy una ley para los míos, no para todos». Y en otro lado: «No se debe querer gozar». «El alma distinguida se tiene respeto a sí misma». En fin: «El hombre distinguido honra en sí mismo al potente, al que tiene poder sobre sí mismo, al que sabe hablar y callar que ejercita placentero rigidez y dureza consigo mismo y siente veneración hacia todo lo rígido y duro».
 

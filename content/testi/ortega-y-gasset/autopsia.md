@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/autopsia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Autopsia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Autopsia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La verdad es que, salvo uno o dos de sus libros, el gran Balzac nos parece hoy irresistible. Nuestro aparato ocular, hecho a espectáculos más exactos y auténticos, descubre, al punto, el carácter convencional, falso, de à peu près, que domina el mundo de la Comedia humana. Si se me pregunta por qué la obra de Balzac me parece inaceptable (Balzac mismo, como individuo, es un ejemplar magnífico de humanidad), responderé: «Porque el cuadro que me ofrece es sólo un chafarrinón». ¿Qué diferencia hay entre el chafarrinón y la buena pintura? En la buena pintura, el objeto que ella representa se halla, por decirlo así, en persona, con toda la plenitud de su ser y como en absoluta presencia. En el chafarrinón, por el contrario, el objeto no está presente, sino que hay de él en el lienzo o tabla sólo algunas pobres e inesenciales alusiones. Cuanto más lo miremos, más clara nos es la ausencia del objeto.
 

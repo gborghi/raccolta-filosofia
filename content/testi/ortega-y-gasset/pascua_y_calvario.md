@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pascua_y_calvario" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Pascua y calvario" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Pascua y calvario" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Bajo las cruces de las torres ya voltean las campanas de Resurrección. Es la fiesta más alegre del cristianismo, un símbolo encantador del poder triunfante del espíritu y una concesión a la primavera.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_escritura" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La escritura" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La escritura" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El funcionario es en Egipto el hombre [culto](/concepts/religion) —lo mismo que en China y por análogas razones. La cultura consiste puramente en técnicas oficiales y casi se resume en la escritura y su adjunto, la contabilidad. El egipcio siente un respeto religioso por la sabiduría; pero la palabra con que denomina el saber, el conocimiento, es sospechosa. Como nuestros labriegos, llama al saber «los libros». Saber es simplemente saber escribir. El sabio es el escriba, el literato —como en China. El hombre que sabe dibujar letras lo es todo en esta civilización: «Nadie conoce el nombre del iletrado, del analfabeto —dice un viejo texto—, y es como un asno harto de carga que el letrado aguija».
 

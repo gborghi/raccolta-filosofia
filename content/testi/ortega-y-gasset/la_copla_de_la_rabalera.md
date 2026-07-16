@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_copla_de_la_rabalera" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La copla de la Rabalera" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La copla de la Rabalera" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¡Triste espectáculo el que ayer ofreció el Gobierno! Se diría que hasta en los gestos, lastimosos gestos de pelele, con que el pleno del Ministerio iba subrayando las palabras de los oradores amigos, revelaban la deplorable condición a que su propia insensatez política le va reduciendo.
 

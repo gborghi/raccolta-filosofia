@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_crisis" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La crisis" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La crisis" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La muerte de Canalejas antes de terminarse la discusión de los presupuestos obligaba a mantener un gobierno liberal hasta que concluyera ésta. El conde de Romanones trepó ágilmente a la presidencia, y España comenzó a sentir curiosidad por lo que acontecería en los últimos días de diciembre cuando se planteara a la corona la cuestión de confianza.
 

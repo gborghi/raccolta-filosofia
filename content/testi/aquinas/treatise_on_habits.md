@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_habits" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Habits" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Habits" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON HABITS (QQ[49]-54)
 
-<span class="atom-split" data-atom="002" data-title="OF HABITS IN GENERAL, AS TO THEIR SUBSTANCE (FOUR ARTICLES)" data-chapter="OF HABITS IN GENERAL, AS TO THEIR SUBSTANCE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF HABITS IN GENERAL, AS TO THEIR SUBSTANCE (FOUR ARTICLES)" data-chapter="OF HABITS IN GENERAL, AS TO THEIR SUBSTANCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After treating of human acts and passions, we now pass on to the consideration of the principles
 of human acts, and firstly of intrinsic principles, secondly of extrinsic principles. The intrinsic
@@ -40,7 +40,7 @@ Under the first head, there are four points of inquiry:
 (3) Whether habit implies an order to an act?
 (4) Of the necessity of habit.
 
-<span class="atom-split" data-atom="003" data-title="Whether habit is a quality?" data-chapter="Whether habit is a quality?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether habit is a quality?" data-chapter="Whether habit is a quality?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [habit](/concepts/custom) is not a quality. For [Augustine](/figures/augustine) says (QQ. lxxxiii, qu.
 73): "this word 'habit' is derived from the verb 'to have.'" But "to have" belongs not only to quality,
@@ -54,7 +54,7 @@ Therefore habit is not a quality.
 Objection 3: Further, "every habit is a disposition," as is stated in the Book of the Predicaments
 (Categor. vi). Now disposition is "the order of that which has parts," as stated in Metaph. v, text.
 
-<span class="atom-split" data-atom="004" data-title="24. But this belongs to the predicament Position. Therefore habit is not a quality." data-chapter="24. But this belongs to the predicament Position. Therefore habit is not a quality." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="24. But this belongs to the predicament Position. Therefore habit is not a quality." data-chapter="24. But this belongs to the predicament Position. Therefore habit is not a quality." data-kind="atom" data-srclang="en"></span>
 
 On the contrary, The Philosopher says in the Book of Predicaments (Categor. vi) that "[habit](/concepts/custom)
 is a quality which is difficult to change."
@@ -101,7 +101,7 @@ formation and not yet arrived at perfect usefulness," such as inchoate science a
 he says, 'as to species,' he includes perfect dispositions, which are called habits," such as perfected
 science and virtue.
 
-<span class="atom-split" data-atom="005" data-title="Whether habit is a distinct species of quality? (1/2)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether habit is a distinct species of quality? (1/2)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [habit](/concepts/custom) is not a distinct species of quality. Because, as we have
 said (A[1]), habit, in so far as it is a quality, is "a disposition whereby that which is disposed is
@@ -182,7 +182,7 @@ this way heat and cold are put, by the Philosopher, in the first species of qual
 Wherefore it is clear how to answer the second objection: though some give another solution,
 as Simplicius says in his Commentary on the Predicaments.
 
-<span class="atom-split" data-atom="006" data-title="Whether habit is a distinct species of quality? (2/2)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether habit is a distinct species of quality? (2/2)" data-chapter="Whether habit is a distinct species of quality?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: This difference, "difficult to change," does not distinguish [habit](/concepts/custom) from
 the other species of quality, but from disposition. Now disposition may be taken in two ways; in
@@ -210,7 +210,7 @@ differences, though apparently accidental to quality, nevertheless designate dif
 proper and essential to quality. In the same way, in the genus of substance we often take accidental
 instead of substantial differences, in so far as by the former, essential principles are designated.
 
-<span class="atom-split" data-atom="007" data-title="Whether habit implies order to an act?" data-chapter="Whether habit implies order to an act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether habit implies order to an act?" data-chapter="Whether habit implies order to an act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [habit](/concepts/custom) does not imply order to an act. For everything acts
 according as it is in act. But the Philosopher says (De [Anima](/concepts/soul) iii, text 8), that "when one is become
@@ -261,7 +261,7 @@ act. Wherefore the Philosopher says (De Hist. Animal. x, 1), that man, or one of
 called healthy, "when he can perform the operation of a healthy man." And the same applies to
 other habits.
 
-<span class="atom-split" data-atom="008" data-title="Whether habits are necessary?" data-chapter="Whether habits are necessary?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether habits are necessary?" data-chapter="Whether habits are necessary?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that habits are not necessary. For by habits we are well or ill
 disposed in respect of something, as stated above. But a thing is well or ill disposed by its form:
@@ -323,7 +323,7 @@ Reply to Objection 3: The same habit has not a relation to good and evil, as wil
 further on (Q[54], A[3]): whereas the same power has a relation to good and evil. And, therefore,
 habits are necessary that the powers be determined to good.
 
-<span class="atom-split" data-atom="009" data-title="OF THE SUBJECT OF HABITS (SIX ARTICLES)" data-chapter="OF THE SUBJECT OF HABITS (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="OF THE SUBJECT OF HABITS (SIX ARTICLES)" data-chapter="OF THE SUBJECT OF HABITS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We consider next the subject of habits: and under this head there are six points of inquiry:
 (1) Whether there is a [habit](/concepts/custom) in the body?
@@ -333,7 +333,7 @@ We consider next the subject of habits: and under this head there are six points
 (5) Whether there is a habit in the will?
 (6) Whether there is a habit in separate substances?
 
-<span class="atom-split" data-atom="010" data-title="Whether there is a habit in the body?" data-chapter="Whether there is a habit in the body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether there is a habit in the body?" data-chapter="Whether there is a habit in the body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is not a [habit](/concepts/custom) in the body. For, as the Commentator says
 (De [Anima](/concepts/soul) iii), "a habit is that whereby we act when we will." But bodily actions are not subject
@@ -410,7 +410,7 @@ takes place in these same passion-like qualities, which are heat and cold, moist
 there results a change as to sickness and health. But change does not occur in regard to like habits
 and dispositions, primarily and of themselves.
 
-<span class="atom-split" data-atom="011" data-title="Whether the soul is the subject of habit in respect of its essence or in respect of its power?" data-chapter="Whether the soul is the subject of habit in respect of its essence or in respect of its power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the soul is the subject of habit in respect of its essence or in respect of its power?" data-chapter="Whether the soul is the subject of habit in respect of its essence or in respect of its power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [habit](/concepts/custom) is in the soul in respect of its essence rather than in respect
 of its powers. For we speak of dispositions and habits in relation to nature, as stated above (Q[49],
@@ -459,7 +459,7 @@ power, as the complete takes precedence of the incomplete, and as act takes prec
 [potentiality](/concepts/act_potency). For act is naturally prior to potentiality, though potentiality is prior in order of generation
 and time, as stated in Metaph. vii, text. 17; ix, text. 13.
 
-<span class="atom-split" data-atom="012" data-title="Whether there can be any habits in the powers of the sensitive parts?" data-chapter="Whether there can be any habits in the powers of the sensitive parts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether there can be any habits in the powers of the sensitive parts?" data-chapter="Whether there can be any habits in the powers of the sensitive parts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there cannot be any habits in the powers of the sensitive part.
 For as the nutritive power is an irrational part, so is the sensitive power. But there can be no habits
@@ -515,7 +515,7 @@ susceptible of habits, but are ordained to their fixed acts, according to the di
 just as the members of the body, for there are no habits in them, but rather in the powers which
 command their movements.
 
-<span class="atom-split" data-atom="013" data-title="Whether there is any habit in the intellect?" data-chapter="Whether there is any habit in the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether there is any habit in the intellect?" data-chapter="Whether there is any habit in the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are no habits in the intellect. For habits are in conformity
 with operations, as stated above (A[1]). But the operations of man are common to [soul and body](/axes/soul_body),
@@ -589,7 +589,7 @@ good disposition of the body cooperates, that man is rendered apt to understand.
 secondary way the intellective habit can be in these powers. But principally it is in the "possible"
 intellect.
 
-<span class="atom-split" data-atom="014" data-title="Whether any habit is in the will?" data-chapter="Whether any habit is in the will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether any habit is in the will?" data-chapter="Whether any habit is in the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is not a [habit](/concepts/custom) in the will. For the habit which is in the
 intellect is the intelligible species, by means of which the intellect actually understands. But the
@@ -632,7 +632,7 @@ Reply to Objection 3: The will from the very nature of the power inclined to the
 reason. But because this good is varied in many ways, the will needs to be inclined, by means of a
 habit, to some fixed good of the reason, in order that action may follow more promptly.
 
-<span class="atom-split" data-atom="015" data-title="Whether there are habits in the angels?" data-chapter="Whether there are habits in the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether there are habits in the angels?" data-chapter="Whether there are habits in the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are no habits in the angels. For Maximus, commentator
 of Dionysius (Coel. Hier. vii), says: "It is not proper to suppose that there are intellectual (i.e.
@@ -702,7 +702,7 @@ Reply to Objection 3: In angels there are no essential parts: but there are pote
 far as their intellect is perfected by several species, and in so far as their will has a relation to several
 things.
 
-<span class="atom-split" data-atom="016" data-title="OF THE CAUSE OF HABITS, AS TO THEIR FORMATION (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF HABITS, AS TO THEIR FORMATION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="OF THE CAUSE OF HABITS, AS TO THEIR FORMATION (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF HABITS, AS TO THEIR FORMATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the cause of habits: and firstly, as to their formation; secondly, as to
 their increase; thirdly, as to their diminution and corruption. Under the first head there are four
@@ -712,7 +712,7 @@ points of inquiry:
 (3) Whether any habit can be caused by one act?
 (4) Whether any habits are infused in man by God?
 
-<span class="atom-split" data-atom="017" data-title="Whether any habit is from nature?" data-chapter="Whether any habit is from nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether any habit is from nature?" data-chapter="Whether any habit is from nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no [habit](/concepts/custom) is from nature. For the use of those things which are
 from nature does not depend on the will. But habit "is that which we use when we will," as the
@@ -794,7 +794,7 @@ Reply to Objection 3: Nature is not equally inclined to cause all the various ki
 since some can be caused by nature, and some not, as we have said above. And so it does not follow
 that because some habits are natural, therefore all are natural.
 
-<span class="atom-split" data-atom="018" data-title="Whether any habit is caused by acts?" data-chapter="Whether any habit is caused by acts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether any habit is caused by acts?" data-chapter="Whether any habit is caused by acts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no [habit](/concepts/custom) is caused by acts. For habit is a quality, as we have
 said above (Q[49], A[1]). Now every quality is caused in a subject, according to the latter's
@@ -843,7 +843,7 @@ reason is a more excellent principle than the habit of moral virtue produced in 
 by repeated acts, and as the understanding of first principles is a more excellent principle than the
 science of conclusions.
 
-<span class="atom-split" data-atom="019" data-title="Whether a habit can be caused by one act?" data-chapter="Whether a habit can be caused by one act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether a habit can be caused by one act?" data-chapter="Whether a habit can be caused by one act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a [habit](/concepts/custom) can be caused by one act. For demonstration is an act
 of reason. But science, which is the habit of one conclusion, is caused by one demonstration.
@@ -888,7 +888,7 @@ principle is of great power: sometimes, for instance, a strong dose of medicine 
 once.
 Hence the solutions to the objections are clear.
 
-<span class="atom-split" data-atom="020" data-title="Whether any habits are infused in man by God?" data-chapter="Whether any habits are infused in man by God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether any habits are infused in man by God?" data-chapter="Whether any habits are infused in man by God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no [habit](/concepts/custom) is infused in man by God. For God treats all equally.
 If therefore He infuses habits into some, He would infuse them into all: which is clearly untrue.
@@ -934,7 +934,7 @@ Reply to Objection 3: Acts produced by an infused habit, do not cause a habit, b
 the already existing habit; just as the remedies of medicine given to a man who is naturally health,
 do not cause a kind of health, but give new strength to the health he had before.
 
-<span class="atom-split" data-atom="021" data-title="OF THE INCREASE OF HABITS (THREE ARTICLES)" data-chapter="OF THE INCREASE OF HABITS (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="OF THE INCREASE OF HABITS (THREE ARTICLES)" data-chapter="OF THE INCREASE OF HABITS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the increase of habits; under which head there are three points of
 inquiry:
@@ -942,7 +942,7 @@ inquiry:
 (2) Whether they increase by addition?
 (3) Whether each act increases the [habit](/concepts/custom)?
 
-<span class="atom-split" data-atom="022" data-title="Whether habits increase? (1/3)" data-chapter="Whether habits increase?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether habits increase? (1/3)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that habits cannot increase. For increase concerns quantity (Phys.
 v, text. 18). But habits are not in the genus quantity, but in that of quality. Therefore there can be
@@ -958,7 +958,7 @@ as is proved in Phys. vii, text. 15,17. Therefore habits cannot increase.
 On the contrary, Faith is a habit, and yet it increases: wherefore the disciples said to our Lord
 (Lk. 17:5): "Lord, increase our faith." Therefore habits increase.
 
-<span class="atom-split" data-atom="023" data-title="Whether habits increase? (2/3)" data-chapter="Whether habits increase?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether habits increase? (2/3)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Increase, like other things pertaining to quantity, is transferred from bodily
 quantities to intelligible spiritual things, on account of the natural connection of the intellect with
@@ -1051,7 +1051,7 @@ another, according to a diverse aptitude arising either from nature, or from cus
 disposition do not give species to the subject: nor again do they essentially imply indivisibility.
 We shall say further on (Q[66], A[1]) how it is with the virtues.
 
-<span class="atom-split" data-atom="024" data-title="Whether habits increase? (3/3)" data-chapter="Whether habits increase?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether habits increase? (3/3)" data-chapter="Whether habits increase?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: As the word "great" is taken from corporeal quantities and applied to
 the intelligible perfections of forms; so also is the word "growth," the term of which is something
@@ -1068,7 +1068,7 @@ cold, there follows in an animal an alteration as to health and sickness. In lik
 take place in the passions of the sensitive appetite, or the sensitive powers of apprehension, an
 alteration follows as to science and virtue (Phys. viii, text. 20).
 
-<span class="atom-split" data-atom="025" data-title="Whether habits increases by addition?" data-chapter="Whether habits increases by addition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether habits increases by addition?" data-chapter="Whether habits increases by addition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the increase of habits is by way of addition. For the word
 "increase," as we have said, is transferred to forms, from corporeal quantities. But in corporeal
@@ -1136,7 +1136,7 @@ the form of whiteness: hence the agent causes a new form in the subject. But tha
 or white, is not in potentiality to those forms, since it has them already actually: but it is in
 potentiality to a perfect mode of participation; and this it receives through the agent's action.
 
-<span class="atom-split" data-atom="026" data-title="Whether every act increases its habit?" data-chapter="Whether every act increases its habit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether every act increases its habit?" data-chapter="Whether every act increases its habit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every act increases its [habit](/concepts/custom). For when the cause is increased
 the effect is increased. Now acts are causes of habits, as stated above (Q[51], A[2]). Therefore a
@@ -1170,7 +1170,7 @@ however, the act falls short of the intensity of the habit, such an act does not
 of that habit, but rather to a lessening thereof.
 From this it is clear how to solve the objections.
 
-<span class="atom-split" data-atom="027" data-title="HOW HABITS ARE CORRUPTED OR DIMINISHED (THREE ARTICLES)" data-chapter="HOW HABITS ARE CORRUPTED OR DIMINISHED (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="HOW HABITS ARE CORRUPTED OR DIMINISHED (THREE ARTICLES)" data-chapter="HOW HABITS ARE CORRUPTED OR DIMINISHED (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider how habits are lost or weakened; and under this head there are three
 points of inquiry:
@@ -1178,7 +1178,7 @@ points of inquiry:
 (2) Whether it can be diminished?
 (3) How are habits corrupted or diminished?
 
-<span class="atom-split" data-atom="028" data-title="Whether a habit can be corrupted?" data-chapter="Whether a habit can be corrupted?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether a habit can be corrupted?" data-chapter="Whether a habit can be corrupted?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a [habit](/concepts/custom) cannot be corrupted. For habit is within its subject like
 a second nature; wherefore it is pleasant to act from habit. Now so long as a thing is, its nature is
@@ -1252,7 +1252,7 @@ said that "virtue is more lasting than learning," this must be understood in res
 or cause, but of the act: because the use of virtue continues through the whole of life, whereas the
 use of learning does not.
 
-<span class="atom-split" data-atom="029" data-title="Whether a habit can diminish?" data-chapter="Whether a habit can diminish?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether a habit can diminish?" data-chapter="Whether a habit can diminish?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a [habit](/concepts/custom) cannot diminish. Because a habit is a simple quality
 and form. Now a simple thing is possessed either wholly or not at all. Therefore although a habit
@@ -1306,7 +1306,7 @@ to a white thing. The same applies to habits and other qualities; save that cert
 qualities; save that certain habits increase or diminish by a kind of addition, as we have already
 clearly explained (Q[52], A[2]).
 
-<span class="atom-split" data-atom="030" data-title="Whether a habit is corrupted or diminished through mere cessation from act?" data-chapter="Whether a habit is corrupted or diminished through mere cessation from act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether a habit is corrupted or diminished through mere cessation from act?" data-chapter="Whether a habit is corrupted or diminished through mere cessation from act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a [habit](/concepts/custom) is not corrupted or diminished through mere cessation
 from act. For habits are more lasting than passion-like qualities, as we have explained above (Q[49],
@@ -1361,7 +1361,7 @@ the sensitive part is subject to time, and therefore in course of time it underg
 passions of the sensitive part, and also as to the powers of apprehension. Hence the Philosopher
 says (Phys. iv. text. 117) that time makes us forget.
 
-<span class="atom-split" data-atom="031" data-title="OF THE DISTINCTION OF HABITS (FOUR ARTICLES)" data-chapter="OF THE DISTINCTION OF HABITS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="OF THE DISTINCTION OF HABITS (FOUR ARTICLES)" data-chapter="OF THE DISTINCTION OF HABITS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the distinction of habits; and under this head there are four points of
 inquiry:
@@ -1370,7 +1370,7 @@ inquiry:
 (3) Whether habits are divided into good and bad?
 (4) Whether one [habit](/concepts/custom) may be made up of many habits?
 
-<span class="atom-split" data-atom="032" data-title="Whether many habits can be in one power?" data-chapter="Whether many habits can be in one power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether many habits can be in one power?" data-chapter="Whether many habits can be in one power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there cannot be many habits in one power. For when several
 things are distinguished in respect of the same thing, if one of them be multiplied, the others are
@@ -1434,7 +1434,7 @@ save in so far as one shape enters into another, as a three-sided in a four-side
 cannot understand several things at the same time "actually"; and yet it can know several things at
 the same time "habitually."
 
-<span class="atom-split" data-atom="033" data-title="Whether habits are distinguished by their objects?" data-chapter="Whether habits are distinguished by their objects?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether habits are distinguished by their objects?" data-chapter="Whether habits are distinguished by their objects?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that habits are not distinguished by their objects. For contraries
 differ in species. Now the same [habit](/concepts/custom) of science regards contraries: thus medicine regards the
@@ -1485,7 +1485,7 @@ demands a diversity of virtues, even as diversity of active principles does. Mor
 objects of the internal acts, with which, above all, the virtues are concerned, as is evident from what
 has been said (Q[18], A[6]; Q[19], A[2], ad 1; Q[34], A[4]).
 
-<span class="atom-split" data-atom="034" data-title="Whether habits are divided into good and bad?" data-chapter="Whether habits are divided into good and bad?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether habits are divided into good and bad?" data-chapter="Whether habits are divided into good and bad?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that habits are not divided into good and bad. For good and bad
 are contraries. Now the same [habit](/concepts/custom) regards contraries, as was stated above (A[2], OBJ[1]). Therefore
@@ -1533,7 +1533,7 @@ to their suitability to various natures, as stated above. But several bad habits
 are distinct in reference to their diverse repugnance to that which is in keeping with nature: thus,
 various vices about one same matter are contrary to one virtue.
 
-<span class="atom-split" data-atom="035" data-title="Whether one habit is made up of many habits?" data-chapter="Whether one habit is made up of many habits?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether one habit is made up of many habits?" data-chapter="Whether one habit is made up of many habits?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one [habit](/concepts/custom) is made up of many habits. For whatever is
 engendered, not at once, but little by little, seems to be made up of several parts. But a habit is

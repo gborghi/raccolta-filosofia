@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_nueva_misión" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La nueva misión" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La nueva misión" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hasta mediados del siglo XIX nuestras sociedades de Occidente sentían que el libro les era una necesidad, pero esta necesidad tenía signo positivo. Aclararé brevísimamente lo que entiendo bajo esta expresión.
 
@@ -46,7 +46,7 @@ Puede decirse que una necesidad humana deja de ser puramente positiva y empieza 
 
 Sin embargo, el pleno carácter negativo brota cuando el instrumento creado como facilidad suscita espontáneamente una dificultad imprevista y practica agresión contra el hombre. Esto es lo que hoy empieza a acontecer con el libro y ha hecho que en toda Europa desaparezca casi por completo la antigua alegría ante lo impreso.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Lo cual significa para mí que vuestra profesión inicia su edad madura. Si la vida es quehacer, quiere decirse que cada edad de ella se diferencia por el estilo predominante en la actuación del hombre. La juventud no suele hacer lo que hace porque haya que hacerlo, por considerarlo inexcusable. Al contrario: en cuanto advierte que algo es forzoso, ineludible, procurará evitarlo, y si no lo logra, cumplirá la tarea con tristeza y desgana. La falta de lógica que ello implica pertenece al tesoro magnífico de incongruencias en que, por su [fortuna](/concepts/fortune), la mocedad consiste. El joven sólo se embarca con ilusión en aquellas ocupaciones que se le presentan con el aspecto de revocables, es decir, que no son forzosas, que podían perfectamente ser sustituidas por otras, ni más ni menos oportunas y recomendables. Necesita pensar que en todo momento está en su mano dejar aquella faena y brincar a otra, con lo cual evita sentirse prisionero de un solo quehacer. En suma, el joven no se adscribe a lo que hace, o lo que es lo mismo, aunque lo haga con todo esmero y heroísmo, no lo hace casi nunca completamente en serio, sino que en su secreto fondo rechaza sentirse irrevocablemente comprometido y prefiere quedar en permanente disponibilidad para hacer otra cosa distinta y aun opuesta. De este modo, su concreta ocupación se le aparece como un mero ejemplo de las innumerables otras cosas a que podía en aquel instante dedicarse. Merced a este íntimo ardid consigue virtualmente lo que ambiciona: hacer todas las cosas a un tiempo, ser de un golpe todos los modos de ser hombre. Es inútil intentar negarlo; el joven es por esencia poco leal consigo mismo y torea a su misión. Su hacer conserva algo del juego infantil y es casi siempre mero ensayo, prueba, échantillon sans valeur.
 

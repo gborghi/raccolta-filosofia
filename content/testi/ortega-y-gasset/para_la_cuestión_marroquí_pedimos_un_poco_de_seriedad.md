@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_la_cuestión_marroquí_pedimos_un_poco_de_seriedad" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para la cuestión marroquí pedimos un poco de seriedad" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Para la cuestión marroquí pedimos un poco de seriedad" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Con esto llegamos a un problema del cual no puedo menos de decir algo, por la enorme significación que tiene dentro de la atención española, y que, sin embargo, no puedo tocar de una manera suficiente por la absoluta escasez de tiempo: el problema de Marruecos.
 
@@ -52,6 +52,6 @@ De todas suertes, hay que recordar, frente a los simplismos de los gritadores, q
 
 En fin, señores, habíamos de decidir el punto de la guerra y el abandono absoluto de Marruecos, incluso de esos viejos peñones calvos donde está agarrada secularmente España, como un águila herida, y todavía continuábamos forzados a tener pensada una política africana. Pero de esto no podemos hoy hablar con oportunidad.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Estos días toma un cariz nuevo este problema de Marruecos, un cariz de política interior, un cariz nuevo del que va a ser difícil tratar con discreción. Alguien, presentándose noblemente como guerrilla avanzada de quien no aparece todavía, ha disparado un venablo…, no sé cómo decir esto, ha disparado un venablo en dirección cenital. Y ha habido en muchos periódicos esta exclamación: «Eso es quebrantar secretos». Señores, vayamos claros: nos pasamos la vida diciendo que no sabemos nada de Marruecos, y cuando se nos presenta alguien que nos declara un secreto, ¿vamos a negarle la audición? No; eso tenemos que recibirlo con simpatía, con honda simpatía. Ahora, una cosa es eso y otra es que nos parezcan tan simpáticos los que pueden ser móviles de esa declaración de secretos. Porque son cosas que pasaron en 1909 y ha corrido el tiempo hasta 1914. ¿Qué ha pasado entre medias de nuevo que justifique la nueva actitud de un hombre? Nada nacional: sólo un asunto particular. Y, además, de esos secretos ahora presentados, resulta que hubo un momento en que los gobernantes de 1909 estaban plenamente convencidos de que no se debía realizar una cierta campaña en una cierta manera, y eso trajo consigo el que una porción de españoles pensaran próximamente lo mismo que el Gobierno, y eso produjo un movimiento de inquietud en Barcelona, que tuvo como consecuencia una represión por el mismo Gobierno que pensaba lo mismo que aquéllos que protestaban.

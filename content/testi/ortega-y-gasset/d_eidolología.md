@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/d_eidolología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="d) Eidolología" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="d) Eidolología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Toda imagen se presenta con una doble referencia: de un lado, presenta lo imaginado; de otro, se declara a sí misma como perteneciendo a un yo. El mundo de la «apariencia objetiva» es un mundo de representaciones de un yo. Con esto damos en uno de aquellos temas contradictorios que la experiencia ineludiblemente nos plantea. Yo no puedo representar algo sin atribuir a mi yo, como una propiedad y parte de él, esa representación. No obstante, mi yo me aparece como una unidad frente a las muchas representaciones que lo constituyen. Es el eterno problema de la inherencia, de la «cosa con varias propiedades» que vuelve aquí particularizado en la cosa «yo». No ofrece, por lo pronto, novedad alguna y podrá resolverse del mismo modo arriba indicado. Más aún: la solución general que da Herbart al problema de la inherencia no adquiere sentido claro hasta su aplicación concreta al problema del yo. Para él fue, en verdad, pensada primero por quien más que metafísico era psicólogo.
 
@@ -54,7 +54,7 @@ El resultado del mutuo estorbo puede ser que a pierda toda su energía —que de
 
 Hasta ahora hemos hablado del caso en que dos representaciones sean opuestas. Veamos el caso inverso. No siendo a y b contrapuestas, no se estorban; pero así como las opuestas sólo conviven en la unidad del alma en forma de mutuo estorbo, las homogéneas sólo pueden convivir uniéndose. Estas uniones son de dos linajes: representaciones de una misma clase (colores entre sí, sonidos entre sí), pueden ser encontradas (ejemplo: blanco y negro); las de clase distinta, no. Las primeras se unen sólo en tanto que el estorbo lo permite, y forman fusiones. Las segundas se unen por completo, y forman complicaciones.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Lo mismo en unas que en otras hay que tener en cuenta dos instantes: las representaciones antes de ser detenidas y después. En la detención pierden una porción de sí mismas y entran a la fusión modificadas. Esto que entra de ellas es lo que tienen de común con las a la sazón dominantes en la conciencia. Después de la detención fúndense sin más, pero ya no son las mismas que eran. Han sido, por decirlo así, reducidas a un común denominador con las preexistentes.
 
@@ -90,7 +90,7 @@ Un juicio es el gusto también, precisamente el juicio estimativo (Schätzung), 
 
 Tal estética tiene por objeto lo bello en sus varias formas concretas: hay lo bello-musical y lo bello-plástico, hay junto a éstos lo bello-moral. Las primeras formas de lo bello han sido sólo tratadas de paso por Herbart en su Breve Enciclopedia, en algunas otras páginas perdidas dentro de su larga producción; no nos interesa mayormente. Por el contrario, la estética moral reclama nuestra atención.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Podía el gusto confundirse con el sentimiento de placer y dolor, que ya hemos estudiado en la psicología, así como algunos lo han confundido con el deseo. Pero la diferencia es clara a poco que nos fijemos. El deseo era aquel esfuerzo de una representación por llegar a triunfar en la conciencia; es, pues, un movimiento de la representación, un defecto de plenitud en ésta. En el juicio estimativo, por el contrario, no hay ese movimiento del representar ni esa imperfección en lo representado. La estimación o desestimación son, por decirlo así, momentáneas, tranquilas declaraciones de nuestra conciencia, simples e irrevocables como sentencias supremas. Del placer y dolor se diferencia en que, si bien tienen de común la nota de aprobación y desaprobación, lo aprobado y desaprobado por el sentimiento no es discernible, separable del sentimiento mismo. En un dolor de muelas, el desagrado y lo que desagrada no son cosas que toleren disyunción: sentimos el desagrado —dolor—, pero no sabemos bien qué es el dolor aparte del desagrado. La razón de esto se declara recordando que, en efecto, el objeto a que el sentimiento se refiere, es momentáneo, relativo, distinto siempre; es el estado general de la conciencia que varía de momento a momento y nunca se repite idénticamente.
 
@@ -120,7 +120,7 @@ El hombre que se encuentra ante el dilema de ceder a una imposición del medio o
 
 La tercera relación típica es la idea de benevolencia[61]. En lugar de relacionarse una volición mía con otra mía también entra en relación mi querer con la imagen recibida en mi yo de un querer de otra persona. Mi voluntad hace suyo ese querer del prójimo, quiero para él lo que él quiere para sí, quiero su satisfacción. El uso corriente de las palabras «bueno», «bondad», expresa claramente esta «idea». Un buen carácter es este carácter benévolo. Consiste, no en querer lo que yo creo que es el bien del otro[62], sino lo que yo creo que él quiere.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En esta relación la voluntad de la otra persona no tiene que ser real: no es con ella como realidad con quien mi volición entra en conexión, sino sólo con la representación que yo tengo de ella. Cuando ambas voluntades —la mía y la suya— se exteriorizan, se hacen reales externamente, es que entre ambas se ha interpuesto un objeto real. Los dos tenemos un mismo objeto como término de nuestras voluntades: un conflicto sobreviene. No quiere esto decir que haya entre nuestras voluntades malevolencia, en el sentido de la «idea» anterior: en el conflicto no se refieren una a otra directamente, sino mediante el objeto. La evitación del conflicto lleva a la idea del derecho. A diferencia de las anteriores, esta idea presenta un carácter negativo: lo ingrato de todo conflicto.
 

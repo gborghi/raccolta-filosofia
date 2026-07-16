@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/tempo_de_la_historia_egipcia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Tempo de la historia egipcia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Tempo de la historia egipcia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En cierta manera, este dato de tan formal apariencia contiene y cifra todo lo esencial del alma egipcia. La instauración de un calendario supone que la colectividad ha llegado a la madurez de su cultura. En esa legislación sobre la medida del tiempo se resume siempre un vasto saber cosmológico. Pero, además, implica la existencia de un Estado fuerte y en orden que posee ya una compleja técnica administrativa.
 

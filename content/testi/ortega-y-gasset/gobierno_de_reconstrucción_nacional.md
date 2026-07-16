@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/gobierno_de_reconstrucción_nacional" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Gobierno de reconstrucción nacional" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Gobierno de reconstrucción nacional" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -68,7 +68,7 @@ Y en cambio, con él se habrá inutilizado el último aparato que había en el a
 
 Póngase en torno a esto el probable crecimiento de la nerviosidad pública, motivado por las últimas sacudidas de la guerra, que, sobre todos los temas de discordia, descargarán entonces sobre España la necesidad inaplazable de adoptar una actitud internacional para la hora de la paz, hora en la cual creemos que no baste la salomónica neutralidad del señor Dato.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 A primera vista podrá antojarse todo esto emanación de un prurito pesimista en que suelen caer los escritores, por oficio acostumbrados a poner negro sobre blanco. Pero invitamos a los lectores leales y reflexivos —y sólo a ellos nos dirigimos— a que repasen nuestro razonamiento. Seguramente echarán de menos otras muchas notas oscuras que de propósito dejamos en el tintero.
 
@@ -130,7 +130,7 @@ Cada cual es hijo de sus obras, decía Cervantes, hablando en general. Pero este
 
 Por esta razón, volvemos a nuestro tema, que nos parece el esencial para el porvenir español. So pena de pulverización nacional, este Gobierno tiene que durar: para que dure tiene que ofrecer al pueblo un vasto programa alentador. Sólo esta llamada al latente entusiasmo público puede solidarizar en torno suyo las fuerzas colectivas necesarias para sostenerse. De los cuatro puntos convencionales que le sirvieron de cuna, tres andan próximos a consumarse. El cuarto, el presupuesto, será fácil si se contenta con ser convencional. ¿No es hora ya de iniciar sugerimientos a la opinión pública a fin de que se disponga a organizarse en vista del mañana próximo?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Si, lo que juzgamos improbable, antipatriótico y absurdo, algunos elementos del Gobierno se negasen a colaborar en un programa más amplio y de largo desarrollo dentro del actual Gobierno, convendría prevenir al ánimo popular para que éste, llegada la hora, apareciese vigorosamente adherido a aquel trozo del Ministerio que mejor garantizase la resolución de no volver al antiguo régimen.
 

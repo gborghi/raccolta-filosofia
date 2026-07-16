@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_historia_de_la_filosofía_de_karl_vorländer" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a Historia de la Filosofía, de Karl Vorländer" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a Historia de la Filosofía, de Karl Vorländer" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Este libro de Vorländer que ahora aparece traducido al castellano, será pronto, yo lo espero, la compañía inseparable de todos los que estudian filosofía en los países de lengua española y, además, de aquéllos que sin entregarse al oficio filosófico, se sienten curiosos de esta ciencia. No existe ninguna otra obra de historia de la filosofía que sea tan adecuada como la presente para iniciar en las grandes rutas del pensamiento a quienes, dentro de más voluminosas y complicadas producciones, fácilmente se perderían. Es, pues, el mejor maestro para principiantes y curiosos. Llegar a serlo constituyó el propósito principal de su autor.
 
@@ -48,7 +48,7 @@ Si la dificultad de la filosofía se origina, como he dicho, exclusivamente en n
 
 ESCEPTICISMO.— He querido indicar que el pasado filosófico no es nunca definitivamente pasado, sino que perdura vivaz y activo en la ciencia presente. No acontece lo mismo en las otras disciplinas. La astronomía ptolomeica ejerce escaso influjo, por no decir nulo, sobre la astronomía actual. Platón o Aristóteles, en cambio, son de hoy tanto como de ayer, al menos por lo que hace a la línea medular de su pensamiento. Todo pensador contemporáneo, si mira al trasluz su propia doctrina, ve en ella pululando íntegro el pasado filosófico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La proclamación de esta identidad radical de la filosofía a lo largo de los tiempos da en rostro a la opinión más extendida hoy entre el vulgo para el cual un filósofo es siempre un hombre que piensa de manera distinta a los demás de su gremio. Apenas hay para el vulgo intelectual de nuestra Edad —ingenieros, médicos, políticos— hecho más popular que la escandalosa divergencia de los sistemas filosóficos entre sí. Muchos jóvenes que por naturaleza se sienten inclinados a la filosofía se apartan de su estudio por virtud de este tópico e infundado prejuicio.
 
@@ -76,7 +76,7 @@ A mi juicio, frente a las demasías del evolucionismo cometidas por el siglo XIX
 
 Así en la historia de la filosofía, por un curioso retorno de las actitudes, tenemos que insistir sobre lo diferencial de los sistemas. Con mayor denuedo aún habrá que hacer esto en la historia general de las culturas. Pero no haya duda, esta tendencia lejos de negar el fundamento de la contraria, la supone y reconoce. La filosofía no ha sido, a lo largo del tiempo, una acumulación de caprichos; lejos de esto es justamente, con la matemática, la que ha variado dentro de límites más angostos.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Si en el público [culto](/concepts/religion) no se hubiese perdido, como arriba he indicado, la tradición de los conocimientos filosóficos, no habría reparo en recomendar al principiante y al curioso obras de historia filosófica más en armonía con el pensamiento de los investigadores actuales. Pero aunque esas obras estuviesen ya escritas —y no lo están—, me parecería funesto ponerlas en manos de los que se inician. La realidad es que existe una perfecta incongruencia entre el estado de espíritu de los que hoy hacen filosofía y el del público. Sigue éste en 1850: en la masa social dominan hoy los mismos prejuicios e ignorancias que entonces respecto a la filosofía. Si hay alguna diferencia habrá que buscarla en la expansión mayor adquirida por aquellos prejuicios. Verdad es que se va nutriendo con triunfal progresión el grupo de los que vuelven a filosofar tras el eclipse ideológico de media centuria. Pero entretanto los que no son filósofos siguen pseudo-filosofando a la moda de 1850.
 

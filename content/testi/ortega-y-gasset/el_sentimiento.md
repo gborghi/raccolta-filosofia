@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_sentimiento" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El sentimiento" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El sentimiento" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Entre éstas, las más profundas y eficaces son los sentimientos. Sería interesante, si el espacio no lo vedara, desarrollar con alguna minucia el paralelismo entre sentimientos y emociones, de un lado, y las secreciones internas de otro[110]. Sabido es que la actividad sentimental constituye una de las grandes objeciones contra el darwinismo y, a la par, uno de los problemas más difíciles en biología. El sentimiento, por lo menos primariamente, carece de utilidad externa. Que al tocar con el dedo una llama experimente el sujeto una sensación de dolor es útil, porque provoca el movimiento de retirar la mano. Pero que esa sensación de dolor suscite además un sentimiento de desagrado, a veces tan vivo que lleva a contraer los músculos de la cara y a verter lágrimas, no parece de provecho alguno. A veces, el perjuicio es evidente. El miedo que la percepción de un peligro origina produce en ocasiones la paralización de la motilidad, impidiendo la huida oportuna.
 

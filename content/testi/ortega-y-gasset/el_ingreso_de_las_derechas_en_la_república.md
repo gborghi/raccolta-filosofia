@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_ingreso_de_las_derechas_en_la_república" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El ingreso de las derechas en la República" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El ingreso de las derechas en la República" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cada hora que pase sin que precisen su actitud respecto al Régimen los grupos de «derecha» hasta ahora indecisos, intensifica el mal. Porque es evidente que cada una de esas horas obligará más a que los republicanos se apresten enérgicamente a la defensa de la República. Sobre esto conviene que no haya duda.
 

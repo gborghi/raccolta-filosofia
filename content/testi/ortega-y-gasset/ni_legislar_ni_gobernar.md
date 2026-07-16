@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ni_legislar_ni_gobernar" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ni legislar ni gobernar" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ni legislar ni gobernar" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En el discurso del presidente del Congreso, no exuberante en doctrina, a la verdad, hay una distinción de positivo interés. Menos legislar y más gobernar, dice el presidente del Congreso. En sus labios tiene la amonestación alguna ironía. El presidente del Poder legislativo declara conveniente la huelga en el hacer leyes, e indica cuán nociva es la operosidad del Parlamento. Parece, en cambio, según él, llegada la hora del Poder ejecutivo. Es ya sazón, siempre según el señor presidente del Congreso, para gobernar, para hacer que se cumplan las leyes hechas.
 
@@ -52,7 +52,7 @@ Las leyes, las instituciones que tratan de estructurar la vida de nuestro pueblo
 
 ¿Quiere esto decir que haya de volverse del revés el aforismo del señor presidente del Congreso? ¿Que debamos decir: «Más legislar y menos gobernar»? Tampoco, tampoco. En el fondo, esto no sería lo contrario. Presumiría una aptitud novísima sobrevenida en nuestro país, merced a la cual podían hoy hacerse leyes nuevas impecables o, al menos, superiores a las vigentes. Esto sería descortés y de harta vanidad. Sería decir al señor presidente del Congreso que sus leyes de instrucción pública no fueron sabias, pero que ahora hay unos cuantos hombres, posteriores al señor presidente del Congreso, dotados de plena competencia. Ahora bien, esto es taxativamente falso. El deseo de exponer una opinión distinta a la suya, no puede hacernos desconocer que, relativamente, claro está que sólo muy relativamente, las leyes pedagógicas del actual presidente del Congreso han sido, hablando en general, de las menos inoportunas que padecemos.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No creo que hoy pueda hacerse una ley orgánica de instrucción pública o leyes particulares en que se pretenda recrear de arriba abajo los grandes institutos de la enseñanza, mejores que las que andan en vigor. Esto es, en cierto modo, cuestión de leal convicción; de que cada cual ponga la mano sobre su corazón. No hay hombres lo bastante competentes para hacer buenas leyes constructoras ni entre los políticos ni fuera de los políticos. Puede, sin duda, pensarse lo contrario; pero déjeseme en libertad para pensar así, déjeseme decir que lo peor que podía en la presente hora acontecer a la enseñanza es que se hiciera una gran ley de enseñanza.
 

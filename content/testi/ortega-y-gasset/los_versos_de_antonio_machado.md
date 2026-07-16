@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_versos_de_antonio_machado" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los versos de Antonio Machado" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los versos de Antonio Machado" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En el zodíaco poético de nuestra España actual hay un signo Géminis: los Machado, hermanos y poetas. El uno, Manuel, vive en la ribera del Manzanares. Es su musa más bien escarolada, ardiente, jacarandosa; cuando camina, recoge con desenvoltura el vuelo flameante de su falda almidonada y sobre el pavimento ritma los versos con el aventajado tacón. El otro, Antonio, habita las altas márgenes del Duero y empuja meditabundo el volumen de su canto como si fuera una fatal dolencia.
 

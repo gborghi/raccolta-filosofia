@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/función_y_substancia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Función y substancia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Función y substancia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Nuestro interés se ha transferido, pues, de la trama a las figuras, de los actos a las personas. Ahora bien —y vaya dicho como un intermedio—; este desplazamiento coincide con el que en la ciencia física, y sobre todo en la filosofía, se inicia desde hace veinte años. Desde Kant a 1900 predomina una exacerbada tendencia a eliminar de la teoría las sustancias y sustituirlas por las funciones. En Grecia, en la Edad Media, se decía operari sequitur esse, los actos son consecuencia y derivados de la esencia. En el siglo XIX se considera como un ideal lo contrario: esse sequitur operari, el ser no es más que el conjunto de sus actos o funciones.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_descrédito_de_un_gobierno_el_gabinete_nacional_ha_aumentado_el_gran_desgobierno" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El descrédito de un Gobierno.— El Gabinete nacional ha aumentado el gran desgobierno" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El descrédito de un Gobierno.— El Gabinete nacional ha aumentado el gran desgobierno" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El ministro de Instrucción pública ha provocado una difícil situación política al presentar la dimisión de su cartera. En estos instantes, el Gabinete nacional está en plena crisis, porque el señor Maura ha anunciado su propósito de abandonar el Poder, en el momento en que uno solo de los ministros deje de pertenecer al Gobierno que se formó en la noche del 21 de marzo.
 

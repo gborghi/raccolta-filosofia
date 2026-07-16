@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_hombre_individuo_de_la_humanidad" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El hombre, individuo de la humanidad" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El hombre, individuo de la humanidad" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ahora bien, señores: lo característico de la ciencia, de la moral y del arte es que sus contenidos no son patrimonio individual. Dos y dos son cuatro, no para mí sólo sino para toda criatura inteligente. Cada uno de nosotros tiene sus caprichos, sus amores y odios personales, sus apetitos propios. Mas a la vera de ese mundo sólo nuestro, de ese yo individual y caprichoso, hay otro yo que piensa la verdad común a todos, la bondad general, la universal belleza.
 

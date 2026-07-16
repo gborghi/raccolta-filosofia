@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_política_inmediata" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La política inmediata" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La política inmediata" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Sea cualquiera el género de pequeñas modificaciones que a última hora pueda traer el amaño a la composición del Congreso, es un hecho indestructible que las izquierdas vienen a las Cortes con una gran fuerza, obtenida a pesar de los atropellos y de las polacadas gubernativas. Frente a ellas, una situación política impuesta a España por medios inconfesables intenta restaurar normas e ideales de Gobierno que se podían considerar como caducados. Del mismo modo que en la contienda electoral se ha querido aniquilar toda representación liberal, a fuerza de cometer abusos de Poder se pretenderá ahora desterrar de la vida pública, de la legislación, de las inevitables reformas que el país exige, toda influencia o inspiración procedente del campo de las izquierdas.
 

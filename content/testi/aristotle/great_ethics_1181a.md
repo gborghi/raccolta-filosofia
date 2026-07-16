@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/aristotle/great_ethics_1181a" data-philosopher="Aristotle"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Great Ethics (1181a)" data-chapter="BOOK I" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Great Ethics (1181a)" data-chapter="BOOK I" data-kind="intro" data-srclang="en"></span>
 
 SINCE our purpose is to speak about ethics, we must first inquire of what moral character is a branch. To speak concisely, then, it would seem to be a branch of nothing else than statecraft. For it is not possible to act at all in affairs of state unless one is of a certain kind, to wit, good. Now to be good is to possess the virtues.
 
@@ -50,7 +50,7 @@ But neither has it to speak of the common element as arrived at by induction. Wh
 
 And generally one can see that it is not the part of any one science or art to consider the question of good in general. Why so? Because good occurs in all the categories — in that of substance, quality, quantity, time, relation, [instrument], and generally in all. But what is good at a given time is known in medicine by the doctor, in navigation by the pilot, and in each art by the expert in that art. For it is the doctor who knows when one ought to amputate, and the pilot when one ought to sail. And in each art each expert will know the time of the good which concerns himself. For neither will the doctor know the time of the good in navigation nor the pilot that in medicine. It follows then from this point of view also that we have not to speak about the common good: for time is common to all the arts. Similarly the relative good and the good which corresponds to other categories is common to all, and it does not belong to any art or science to speak of what is good in each at a given time, nor, we may add, is it the part of statecraft to speak about the common element of good. Our subject then is the good, in the sense of the best, and that the best for us.
 
-<span class="atom-split" data-atom="002" data-title="BOOK I (2/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="BOOK I (2/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Perhaps when one wishes to show something, one ought not to employ illustrations that are not manifest, but to illustrate the obscure by the manifest, and the things of mind by the things of sense, for the latter are more manifest. When, therefore, one takes in hand to speak about the good, one ought not to speak about the Idea. And yet they think it quite necessary, when they are speaking about the good, to speak about the Idea. For they say that it is necessary to speak about what is most good, and the very thing in each kind has the quality of that kind in the highest degree, so that the Idea will be the most good, as they think. Possibly there is truth in such a contention: but all the same the science or art of statecraft, about which we are now speaking, does not inquire about this good, but about that which is good for us. [For no science or art pronounces its end to be good, so that statecraft does not do so either.] Wherefore it does not concern itself to speak about the good in the sense of the Idea.
 
@@ -78,7 +78,7 @@ Now we come to happiness, which we all declare to be, and which seems in fact to
 
 For no one would care to have sight, if he were destined never to see, but always to have his eyes shut. And the same with hearing and the like. When then a thing may be both used and had the using is always better and more choice worthy than the having. For the use and exercise are the end, whereas the having is with a view to the using.
 
-<span class="atom-split" data-atom="003" data-title="BOOK I (3/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="BOOK I (3/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Next, then, if one examines this point in the case of all the arts, he will see that it is not one art that makes a house and another that makes a good house, but simply the art of house building; and what the house builder makes, that same thing his virtue enables him to make well. Similarly in all other cases.
 
@@ -106,7 +106,7 @@ The word ‘ethical’ (or ‘moral’) virtue is derived as follows, if etymolo
 
 After this, then, as we wish to say what virtue is, we must know what are the things that there are in the soul.
 
-<span class="atom-split" data-atom="004" data-title="BOOK I (4/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="BOOK I (4/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 They are these — feelings, capacities, states; so that it is evident that virtue will be some one of these. Now feelings are [anger](/concepts/anger), fear, hate, regret, emulation, pity, and the like, which are usually attended by pain pleasure. Capacities are those things in virtue of which we are said to be capable of these feelings; for instance, those things in virtue of which we are capable of feeling anger or pain or pity, and so on. States are those things in virtue of which we stand in a good or bad relation to these feelings; for instance, towards being angered; if we are angry overmuch, we stand in a bad relation towards anger, whereas if we are not angry at all where we ought to be, in that case also we stand in a bad relation towards anger.
 
@@ -138,7 +138,7 @@ This can be seen more clearly in matters of geometry. For there also, when certa
 
 — So, then, and in the like way with this, is it in the case of man. For since man is apt to produce, being, he tends to produce the actions which he does from certain principles. How else could it be? For we do not say that any of the things without life acts, nor any other of the things with life, except men. It is evident, then, that man is the begetter of his acts.
 
-<span class="atom-split" data-atom="005" data-title="BOOK I (5/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="BOOK I (5/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Since, then, we see that the acts change, and we never do the same things, and the acts have been brought into being from certain principles, it is evident that, since the acts change, the principles from which the acts proceed also change, as we said in our comparison was the case with geometrical properties.
 
@@ -178,7 +178,7 @@ Let this, then, be our definition of what is due to force — those things of wh
 
 — It now remains for us to inquire into purpose. Is purpose impulse or is it not? Now impulse is found in the lower animals, but not purpose; for purpose is attended with reason, and none of the lower animals has reason. Therefore it will not be impulse.
 
-<span class="atom-split" data-atom="006" data-title="BOOK I (6/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="BOOK I (6/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Is it then wish? Or is it not this either? For wish is concerned even with the impossible; for instance, we wish that we may live for ever, but we do not purpose it, Again, purpose is not concerned with the end but with the means; for instance, no one purposes to be in health, but we purpose what leads to health, e g. walking, running; but we wish for the ends. For we wish to be in health. So that it is evident in this way also that wish and purpose are not the same thing.
 
@@ -220,7 +220,7 @@ Why, then, some one may say, did we say before that the activity was better than
 
 But since we reckoned up certain means of the feelings, we must say with what sort of feelings they are concerned.
 
-<span class="atom-split" data-atom="007" data-title="BOOK I (7/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="BOOK I (7/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Since, then, courage has to do with feelings of confidence and fear, we must examine with what sort of fears and confidences it has to do. If, then, any one is afraid of losing his property, is he a coward? And if any one is confident about these matters, is he brave? Surely not! And in the same way if one is afraid of or confident about illness, one ought not to say that the man who fears is a coward or that the man who does not fear is brave. It is not, therefore, in such fears and confidences as these that courage consists. Nor yet in such as follow; for instance, if one is not afraid of thunder or lightning or any other superhuman terror, he is not brave but a sort of madman. It is with human fears and confidences, then, that the brave man has to do; I mean to say that whoso is confident under circumstances in which most people or all are afraid, he is a brave man.
 
@@ -254,7 +254,7 @@ Nor yet with regard to these will a man be temperate who is in such a state as n
 
 Next to this it behoves us to speak about the definition and sphere of gentleness: Gentleness, then, is in a mean between irascibility and a want of [anger](/concepts/anger). And generally the virtues seem to be a kind of means. One can show that they are so in this way as well. For if the best is in the mean, and virtue is the best state [and the mean is best], virtue will be the mean. But it will be more plain as we inquire into them separately. For since he is irascible who gets angry with everybody and under all circumstances and to too great an extent, and such a one is blameworthy (for one ought not to be angry with everybody nor at everything nor under all circumstances and always, nor yet again on the other hand ought one to be in such a state as never to be angry with anybody; for this character also is blameworthy, as being insensible), since then both he who is in the excess is blameworthy and he who is in the defect, the man who is in the mean between them will be gentle and praiseworthy. For neither he who is in defect in anger nor he who is in excess is praiseworthy, but he who stands in a mean with regard to these things. He is gentle; and gentleness will be a mean state with regard to these feelings.
 
-<span class="atom-split" data-atom="008" data-title="BOOK I (8/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="BOOK I (8/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Liberality is a mean state between prodigality and illiberality. Feelings of this sort have to do with property. The prodigal is he who spends on wrong objects and more than he ought and at wrong times, while the illiberal man, in the opposite way to him, is he who does not spend on right objects and as much as he ought and when he ought. And both these characters are blameworthy. And one of them is characterized by defect and the other by excess. The liberal man, therefore, since he is praiseworthy, will be in a mean between them. Who, then, is he? He who spends on right objects and right amounts and at right times.
 
@@ -288,7 +288,7 @@ Whether, then, these are virtues or not is another question. But that they are m
 
 It remains to speak about justice — what it is, in what, and about what.
 
-<span class="atom-split" data-atom="009" data-title="BOOK I (9/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="BOOK I (9/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 First, then, if we could fix upon what justice is. Justice is twofold, of which one kind is legal justice. For people say that what the law commands is just. Now the law commands us to act bravely and temperately, and generally to perform the actions which come under the head of the virtues. For which reason also, they say, justice appears to be a kind of perfect virtue. For if the things which the law” commands us to do are just, and the law ordains what is in accordance with all virtues, it follows that he who abides by legal justice will be perfectly virtuous, so that the just man and justice are a kind of perfect virtue.
 
@@ -310,7 +310,7 @@ But since the term ‘just’ is used in more senses than one, we must determine
 
 There is, then, a sort of justice, as they say, for a domestic as against his master, and a son as against his father. But the just in these cases would seem only to share the name of political justice without sharing the nature (for the justice about which we are inquiring is political justice); for this above all consists in equality (for citizens are a sort of partners, and tend to be on a par by nature, though they differ in character), but a son as against his father or a domestic against his master would not seem to have any rights at all, any more than my foot or my hand has any rights against me, and in the same way with each of the members. The same, then, would seem to be the case with the son as against his father. For the son is, as it were, a part of his father, except when he has already attained to the position of a man and has been separated from him; then, and not till then, is he the equal and peer of his father. Now citizens are supposed to be on that footing. And in the same way neither has a domestic any rights as against his master for the same reason. For the domestic is a part of his master. Or if he has any rights as against him, it is in the way of economic justice. But this is not what we are in search of, but political justice; for political justice seems to lie in equality and peerdom. Though, indeed, the justice that there is in the intercourse between wife and husband comes near to political justice. For the wife is inferior to the husband, but more intimately connected with him, and partakes in a way more of equality, because their life is an approximation to political society, so that justice between man and wife is more than any other like that between citizens. Since, then, the just is that which is found in political society, justice also and the just man will be concerned with the politically just.
 
-<span class="atom-split" data-atom="010" data-title="BOOK I (10/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="BOOK I (10/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Things are just either by nature or by law. But we must not regard the natural as being something which cannot by any possibility change; for even the things which are by nature partake of change. I mean, for instance, if we were all to practise always throwing with the left hand, we should become ambidextrous. But still by nature left is left, and the right is none the less naturally superior to the left hand, even if we do everything with the left as we do with the right. Nor because things change does it follow that they are not by nature. But if for the most part and for the greater length of time the left continues thus to be left and the right right, this is by nature. The same is the case with things just by nature. Do not suppose that, if things change owing to our use, there is not therefore a natural justice; because there is. For that which continues for the most part can plainly be seen to be naturally just. As to what we establish for ourselves and practise, that is thereby just, and we call it just according to law. Natural justice, then, is better than legal. But what we are in search of is political justice. Now the politically just is the legal, not the natural.
 
@@ -334,7 +334,7 @@ But these statements can hardly have been true, nor is it possible for a man to 
 
 Again, he who does injustice does it voluntarily, and he who suffers it suffers it involuntarily, so that, if it is possible for a man to be unjust to himself, it would be possible at the same time to do something involuntarily and voluntarily. But this is impossible. So in this way also it is not possible for a man to be unjust to himself.
 
-<span class="atom-split" data-atom="011" data-title="BOOK I (11/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="BOOK I (11/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 Again, one might look at the question from the point of view of particular acts of injustice. Whenever men commit injustice, it is either by stealing a deposit, or committing adultery, or thieving, or doing some other particular act of injustice; but no one ever robbed himself of a deposit, or committed adultery with his own wife, or stole his own property; so that if the commission of injustice lies in such things, and it is not possible to do any of them to oneself, it will not be possible to commit injustice against oneself.
 
@@ -366,7 +366,7 @@ Are wisdom and philosophy the same thing? Surely not! For philosophy has to do w
 
 Is philosophy a virtue or not? It can become plain to us that it is a virtue by merely looking at wisdom. For if wisdom is, as we maintain, the virtue of one of the two rational parts, and wisdom is inferior to philosophy (for its objects are inferior; for philosophy has to do with the eternal and the divine, as we maintain, but wisdom with what is expedient for man), if, then, the inferior thing is a virtue, it is reasonable that the better should be a virtue, so that it is evident that philosophy is a virtue.
 
-<span class="atom-split" data-atom="012" data-title="BOOK I (12/12)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="BOOK I (12/12)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 What is intelligence, and with what is it concerned? The sphere of intelligence is the same as that of wisdom, having to do with matters of action. For the intelligent man is doubtless so called from his capacity for deliberation, and in that he judges and sees a thing rightly. But his judgement is about small things and on small occasions. Intelligence, then, and the intelligent man are a part of wisdom and the wise man, and cannot be found apart from these; for you cannot separate the intelligent from the wise man.
 
@@ -388,7 +388,7 @@ But whether wisdom is practical or not one might see from this, namely, by looki
 
 But does this hold sway over all things in the soul, as is held and also questioned? Surely not! For it would not seem to do so over what is superior to itself; for instance, it does not hold sway over philosophy. But, it is said, this has charge of all, and is supreme in issuing commands. But perhaps it holds the same position as the steward in the household. For he is supreme over all and manages everything. But it does not follow that he holds sway over all; instead of that he is procuring leisure for the master, in order that he may not be hindered by necessary cares and so shut out from doing something that is noble and befitting. So and in like manner with him wisdom is, as it were, a kind of steward of philosophy, and is procuring leisure for it and for the doing of its work, by subduing the passions and keeping them in order. —
 
-<span class="atom-split" data-atom="013" data-title="BOOK II (1/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="BOOK II (1/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 After this we must inquire into equity. What is it? And what is its field and sphere? The equitable man with his equity is he who is inclined to take less than his legal rights. There are matters in which it is impossible for the lawgiver to enter into exact details in defining, and where he has to content himself with a general statement. When, then, a man gives way in these matters, and chooses those things which the lawgiver would have wished indeed to determine in detail, but was not able to, such a man is equitable. It is not the way with him to take less than what is just absolutely; for he does not fall short of what is naturally and really just, but only of what is legally just in matters which the law left undetermined for want of power.
 
@@ -408,7 +408,7 @@ This also presents a difficulty. For instance, when it is not possible at the sa
 
 Nor less will the following present itself as a difficulty.
 
-<span class="atom-split" data-atom="014" data-title="BOOK II (2/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="BOOK II (2/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Is it in the case of the virtues as it is in the case of the other goods, whether external or bodily? For these when they run to excess make men worse; for instance, when wealth becomes great it makes men supercilious and disagreeable. And so also with the other goods — office, honour, [beauty](/concepts/beauty), stature. Is it, then, thus in the case of virtue also, so that, if one comes to have justice or courage to excess, he will be worse? Surely not! But, it will be said, from virtue comes honour, and when honour becomes great, it makes men worse, so that it is evident that virtue when progressing to a great extent will make men worse. For virtue is the cause of honour, so that virtue also, if it becomes great, will make men worse. Surely this cannot be true! For virtue, though it may have many other functions, as it has, has this among the most special, to be able to make a right use of these and the like goods when they are there. If therefore the good man on there coming to him high honour or high office shall not make a right use of these, it shows that he is not a good man. Therefore neither honour nor office will make the good man worse, so that neither will virtue. But generally, since it was laid down by us at the start that the virtues are mean states, it follows that the more any state is a virtue, the more it is a mean; so that not only will virtue as it becomes great not make a man worse, but it will make him better. For the mean in question was found to be the mean between excess and defect in the passions.
 
@@ -438,7 +438,7 @@ Again, on the other hand, let his reason be mistaken, and let what is right not 
 
 A difficulty might also be raised as to whether lack of self-control and the incontinent man display themselves in and about everything, for instance, property and honour and [anger](/concepts/anger) and glory (for people seem to be deficient in self-control with regard to all these things), or whether they do not, but lack of self-control has a certain definite sphere.
 
-<span class="atom-split" data-atom="015" data-title="BOOK II (3/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="BOOK II (3/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 The above, then, are the points which present a difficulty; but it is necessary to solve these difficulties. First, then, that which is connected with knowledge. For it appeared to be an absurdity that one who possessed knowledge should cast it from him or fall away from it. But the same reasoning applies also to opinion; for it makes no difference whether it is opinion or knowledge. For if opinion is intensely firm and unalterable by persuasion, it will not differ at all from knowledge, opinion carrying with it the belief that things are as people opine them to be; for instance, Heraclitus of Ephesus has this sort of opinion about his own dogmas.
 
@@ -468,7 +468,7 @@ It is evident also from the following consideration that incontinence has to do 
 
 Among the so-called ‘incontinences’ with respect to other things that which is concerned with anger is the most blameworthy. But which is more blameworthy, this or incontinence with regard to pleasures? Now incontinence with regard to anger resembles servants who are eager to minister to one’s needs. For they, when the master says ‘Give me’, are carried away by their eagerness, and before they hear what they ought to give, give something, and give the wrong thing. For often, when they ought to give a book, they give a pen. Something like this is the case with the man who cannot control his anger. For passion, as soon as it hears the first mention of injury, starts up to take vengeance, without waiting to hear whether it ought or ought not, or not so vehemently. This sort of impulse, then, to anger, which appears to be incontinence of anger, is not greatly to be blamed, but the impulse to pleasure is blameworthy. For this latter differs from the former owing to the injunction of reason to abstain, which it nevertheless acts against; for which reason it is more blameworthy than incontinence due to anger. For incontinence due to anger is a pain (for no one feels anger without being pained), but that which is due to appetite is attended with pleasure, for which reason it is more blameworthy. For incontinence due to pleasure seems to involve wantonness.
 
-<span class="atom-split" data-atom="016" data-title="BOOK II (4/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="BOOK II (4/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Are self-control and endurance the same thing? Surely not! For self-control has to do with pleasures and the man of self-control is he who masters pleasures, but endurance has to do with pains. For the man of endurance is he who endures and undergoes pains. Again, lack of self-control and softness are not the same thing. For the soft person with his softness is he who does not undergo pains — not all of them, but such as any one else would undergo, if he had to; whereas the man who lacks self-control is he who is not able to endure pleasures, but succumbs to them and lets himself be led by them.
 
@@ -486,7 +486,7 @@ But seeing that the incontinent is the kind of man who knows and is not deceived
 
 After this we must speak about pleasure, since our discussion is on the subject of happiness, and all think that: happiness is pleasure and living pleasantly, or not without pleasure. Even those who feel disgust at pleasure, and do not think that pleasure ought to be reckoned among goods, at least add the absence of pain; now to live without pain borders on pleasure. Therefore we must speak about pleasure, not merely because other people think that we ought, but because it is actually indispensable for us to do so. For since our discussion is about happiness, and we have defined and declare happiness to be an exercise of virtue in a perfect life, and virtue has to do with pleasure and pain, it is indispensable to speak about pleasure, since happiness is not apart from pleasure.
 
-<span class="atom-split" data-atom="017" data-title="BOOK II (5/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="BOOK II (5/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 First, then, let us mention the reasons which some people give for thinking that one ought not to regard pleasure as part of good. First, they say that pleasure is a becoming, and that a becoming is something incomplete, but that the good never occupies the place of the incomplete. Secondly, that there are some bad pleasures, whereas the good is never to be found in badness. Again, that it is found in all, both in the bad man and in the good, and in beasts wild and tame; but the good is unmixed with the bad and not promiscuous. And that pleasure is not the best thing, whereas the good is the best thing. And that it is an impediment to right action, and what tends to impede right cannot be good.
 
@@ -510,7 +510,7 @@ But those who assert that pleasure is not a good thing are in much the same case
 
 Since, then, there are pleasures both of a nature undergoing restoration and also of one in its normal state, for instance of the former the satisfactions which follow upon want, but of a nature in its normal state the pleasures ‘ of sight, hearing, and so on, the activities of the nature in its normal state will be better—’activities’ I say, for the pleasures of both kinds are activities. It is evident, then, that the pleasures of sight, bearing, and thought will be best, since the bodily result from a satisfaction.
 
-<span class="atom-split" data-atom="018" data-title="BOOK II (6/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="BOOK II (6/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Again, this was also said by way of showing that it is not a good, that what exists in all and is common to all is not good. Such an objection might seem to be appropriate in the case of a man who covets honour and is actuated by that feeling. For the man who is covetous of honour is one who wishes to be sole possessor of something and by some such means to surpass all others; so he thinks that, if pleasure is to be a good, it too must be something of this sort. Surely this is not so, but, on the contrary, it would seem to be a good for this reason, that all things aim at it. For it is the nature of all things to aim at the good, so that, if all things aim at pleasure, pleasure must be good in kind. Again, it was denied that pleasure is a good on the ground that it is an impediment. But their asserting it to be an impediment seems to arise from a wrong view of the matter. For the pleasure that comes from the performance of the action is not an impediment; if, however, it be a different pleasure, it is an impediment; for instance, — the pleasure of intoxication is an impediment to action; but on this principle one kind of knowledge will be a hindrance to another, for one cannot exercise both at once. But why is knowledge not good, if it produces the pleasure that comes from knowledge? And will that pleasure be an impediment? Surely not; but it will intensify the action. For the pleasure is an incentive to increased action, if it comes from the action itself. For suppose the good man to be doing his acts of virtue, and to be doing them pleasantly; will he not much more exert himself in the action? And if he acts with pleasure, he will be virtuous, but if he does the right with pain, he is not virtuous. For pain attends upon what is due to compulsion, so that if one is pained at doing right, he is acting under compulsion; and he who acts under compulsion is not virtuous.
 
@@ -544,7 +544,7 @@ And yet outside of these there is no other position which one can assign to fort
 
 Nature, then, only is left as being most connected with good fortune. And good fortune and fortune generally displays itself in things that are not in our own power, and of which we are not masters nor able to bring them about.
 
-<span class="atom-split" data-atom="019" data-title="BOOK II (7/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="BOOK II (7/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 For which reason no one calls the just man, in so far as he is just, fortunate, nor yet the brave man, nor any other virtuous character. For these things are in our power to have or not to have. But it is just in such things as follow that we shall speak more appropriately of good fortune. For we do call the well-born fortunate, and generally the man who possesses such kinds of goods, whereof he is not himself the arbiter.
 
@@ -578,7 +578,7 @@ For ‘Jackdaw sits by jackdaw’, as the proverb has it, and ‘Unto the like G
 
 There is a story also of a dog that used always to sleep upon the same tile, and how Empedocles, on being asked, ‘Why does the dog sleep on the same tile?’ said, ‘Because the dog has something that is like the tile’, implying that it was owing to the likeness that the dog resorted to it.
 
-<span class="atom-split" data-atom="020" data-title="BOOK II (8/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="BOOK II (8/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 But again, on the other hand, some people think that [friendship](/concepts/friendship) occurs rather among opposites. Take the saying —
 
@@ -604,7 +604,7 @@ When people find their friends bad, the result is complaint and expressions of s
 
 For when friendship has taken its start from pleasure, and this is why they are friends, or from interest, so soon as these fail the friendship does not continue. Very often the friendship does remain, but a man treats his friend badly, owing to which there are complaints; but neither is this anything out of the way, For your friendship with this man was not from the first founded on virtue, so that it is not extraordinary that he should do nothing of what virtue requires. The complaints, then, are unreasonable. Having formed their friendship with a view to pleasure, they think they ought to have the kind which is due to virtue; but that is not possible. For the friendship of pleasure and interest does not depend on virtue. Having entered then into a partnership in pleasure, they expect virtue, but there they are wrong. For virtue does not follow upon pleasure and utility, but both these follow upon virtue. For it would be strange not to suppose that the serious are the most agreeable to one another. For even the bad, as Euripides says, are pleasant to one another. ‘ The bad man is fused into one with the bad.’ For virtue does not follow upon pleasure, whereas pleasure does follow upon virtue.
 
-<span class="atom-split" data-atom="021" data-title="BOOK II (9/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="BOOK II (9/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 But is it necessary that there should be pleasure in the [friendship](/concepts/friendship) of the serious? Or is it not? It would be strange indeed to say that it is not. For if you deprive them of the quality of being agreeable to one another, they will procure other friends, who are agreeable, to live with, for in view of that there is nothing more important than being agreeable. It would be curious then not to think that the virtuous ought above all others to live in common one with another; and this cannot be without the element of pleasure. It will be necessary, then, as it seems, for them above all to be agreeable.
 
@@ -622,7 +622,7 @@ Whether a man can have friendship for and towards himself may be omitted for the
 
 Further, it may perhaps be thought that wherever justice is possible, there friendship may exist too. Wherefore there are as many species of friendship as there are of just dealing. Now there can be justice between a foreigner and a citizen, between a slave and his master, between one citizen and another, between son and father, between wife and husband, and generally every form of association has its separate form of friendship. But the firmest of friendships would seem to be that with a foreigner; for they have no common aim about which to dispute, as is the case with fellow-citizens; for when these dispute with one another for the priority, they do not remain friends. —
 
-<span class="atom-split" data-atom="022" data-title="BOOK II (10/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="BOOK II (10/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 It will be in place now to speak about this, whether there is [friendship](/concepts/friendship) towards oneself or not. Since then we see, as we said just a little above, that the act of loving is recognized from the particulars, and it is to ourselves that we should most wish the particulars (the good, and being, and well-being; and we are most sympathetic with ourselves, and we most wish to live along with ourselves); therefore, if friendship is known from the particulars, and we should wish the particulars to belong to ourselves, it is plain that there is friendship towards ourselves, just as we maintained that there is injustice towards oneself. Though, indeed, as it takes one person to inflict and another to receive an injury, while each individual is the same person, it appeared for that reason that there was no injustice towards oneself. It is possible, however, as we said on examining into the parts of the soul, when these, as they are more than one, are not in agreement, that then there should be injustice towards oneself. In the same way then there would seem to be friendship towards oneself. For the friend being, according to the proverb — when we wish to describe a very great friend, we say ‘my soul and his are one’; since then the parts of the soul are more than one, then only will the soul be one, when the reason and the passions are in accord with one another (for so it will be one): so that when it has become one there will be friendship towards oneself. And this friendship towards oneself will exist in the virtuous man; for in him alone the parts of the soul are in proper relation to one another owing to their not being at variance, since the bad man is never a friend to himself, for he is always at strife with himself. At all events the incontinent man, when he has done something to which pleasure prompts, not long afterwards repents and reviles himself. It is the same with the
 bad man in other vices. For he is always fighting with and opposing himself.
@@ -645,7 +645,7 @@ For if one entertains the same notions as Empedocles and has the same views abou
 
 Since there is, as we maintain, such a thing as friendship towards oneself, will the good man be a lover of self or not? Now the lover of self is he who does everything for his own sake in matters of advantage. The bad man is a lover of self (for he does everything for his own sake), but not the good man. For the reason why he is a good man is because he does so and so for the sake of another; wherefore he is not actuated by self-love. But it is true that all feel an impulse towards things that are good, and think that they themselves ought to have these in the highest degree. This is most apparent in the case of wealth and rule. Now the good man will resign these to another, not on the ground that it does not become him in the highest degree to have them, but if he sees that another will be able to make more use of these than he; but the rest of the world will not do this owing to ignorance (for they do not think they might make a bad use of such goods) or else owing to the ambition of ruling. But the good man will not be affected in either of these ways.
 
-<span class="atom-split" data-atom="023" data-title="BOOK II (11/11)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="BOOK II (11/11)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Wherefore he is not a lover of self as regards such goods at least; but, if at all, in respect of the noble. For this is the only thing in which he will not resign his share, but in respect of things useful and pleasant he will. In the choice, then, of things in accordance with the noble he will display love of self, but in the choice which we describe as being prompted by the useful and the pleasant it is not he who will do so, but the bad man.
 

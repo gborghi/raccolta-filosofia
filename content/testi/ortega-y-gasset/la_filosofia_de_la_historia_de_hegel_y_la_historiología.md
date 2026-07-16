@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_filosofia_de_la_historia_de_hegel_y_la_historiología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La Filosofia de la Historia de Hegel y la historiología" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La Filosofia de la Historia de Hegel y la historiología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Con esta versión de la Filosofía de la Historia, de Hegel, comienzo a publicar una Biblioteca de Historiología. Esta palabra —historiología— se usa aquí, según creo, por vez primera. Convendría, pues, conjuntamente, aclarar cuál sea su significado y por qué al frente de lo que ella enuncia colocamos a Hegel con aire de capitán[32].
 
@@ -44,7 +44,7 @@ Los alemanes nos presentan una y otra vez como prototipo de historiador, como gr
 
 Pero a esta sincera impresión del lector responden los historiadores diciendo: «Esa falta de “ideas” que se advierte en Ranke no es su defecto, sino su específica virtud. Tener “ideas” es cosa para los filósofos. El historiador debe huir de ellas. La idea histórica es la certificación de un hecho o la comprensión de su influjo sobre otros hechos». Nada más, nada menos. Por eso, según Ranke, la misión de la Historia es «tan sólo decir cómo, efectivamente, han pasado las cosas»[33].
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los historiadores repiten constantemente esta fórmula, como si en ella residiese un poder entre mágico y jurídico que les tranquiliza respecto a sus empedernidos usos y les otorga un fuero bien fundado. Pero la verdad es que esa frase de Ranke, típica de su estilo, no dice nada determinado[34]. Sólo cabrá algún sentido si se advierte que fue escrita como declaración de guerra contra Hegel, precisamente contra esta Filosofía de la Historia, que entonces no se había publicado aún, pero actuaba ya en forma de curso universitario. Con ella comienza la batalla entre la «escuela histórica» y la «escuela filosófica»[35].
 
@@ -74,7 +74,7 @@ Contra este estado de las cosas en el reino de la Historia se levanta la histori
 
 Toda ciencia de realidad —y la Historia es una de ellas— se compone de estos cuatro elementos:
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 a) Un núcleo [a priori](/positions/transcendental_criticism), la analítica del género de realidad que se intente investigar —la [materia](/positions/materialism) en física, lo «histórico» en Historia.
 
@@ -104,7 +104,7 @@ La Historia, si quiere conquistar el título de verdadera ciencia, se encuentra 
 
 Ahora bien: esta realidad histórica se halla en cada momento constituida por un número de ingredientes variables y un núcleo de ingredientes invariables —relativa o absolutamente constantes. Estas constantes del hecho o realidad históricos son su estructura radical, categórica, a priori. Y como es a priori, no depende, en principio, de la variación de los datos históricos. Al revés, es ella quien encarga al filólogo y al archivero que busque tales o cuales determinados datos que son necesarios para la reconstrucción histórica de tal o cual época concreta. La determinación de ese núcleo categórico, de lo esencial histórico, es el tema primario de la historiología.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La razón que suele movilizarse contra el [a priori](/positions/transcendental_criticism) histórico es inoperante. Consiste en hacer constar que la realidad histórica es individual, innovación, etcétera, etcétera. Pero decir esto es ya practicar el a priori historiológico. ¿Cómo sabe eso el que lo dice, si no es de una vez para siempre, por tanto, a priori? Cabe, es cierto, sostener que de lo histórico sólo es posible una única tesis a priori: la que niega a lo histórico toda estructura a priori. Pero, evidentemente, no se quiere sustentar semejante proposición, que haría imposible cualquier modo de historia. Al destacar el carácter individual e innovador de lo histórico, se quiere indicar que es diferencial en potencia más elevada que lo físico. Pero esa extrema diferencialidad de todo punto histórico no excluye, antes bien, incluye la existencia de constantes históricas. César no es diferente de Pompeyo ni en sentido abstracto ni en sentido absoluto, porque entonces no habrían podido ni siquiera luchar —lucha supone comunidad, por lo menos, la de desear lo mismo uno y otro contendiente. Su diferencia es concreta, y consiste en su diferente modo de ser romanos —una constante— y de ser romanos del siglo I a. de J. C. —otra constante. Estas constantes son relativas, pero en César y Pompeyo hay, cuando menos, un sistema común de constantes absolutas —su condición de hombres, de entes históricos. Sólo sobre el fondo de esas invariantes es posible su diferencialidad.
 
@@ -120,7 +120,7 @@ Ha padecido la Historia el mismo quid pro quo que en las mentes poco atentas pad
 
 Por filosofía de la Historia se ha entendido hasta ahora una de dos cosas: o el intento de construir el contenido de la Historia mediante categorías sensu stricto filosóficas (Hegel), o bien la reflexión sobre la forma intelectual que la historiografía practica (Rickert). Ésta es una lógica, aquélla una metafísica de la Historia.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La historiología no es ni lo uno ni lo otro. Los neokantianos conservan del gran chino de Königsberga el dogma fundamental que niega a todo ser o realidad la posesión de una forma o estructura propia. Sólo el pensar tiene y da forma a lo que carece de ella. De aquí que tampoco lo histórico tenga por sí una figura y un verdadero ser. El pensamiento encuentra un caos de datos humanos, puro material informe, al cual, mediante la historiografía, proporciona modelado y perfil. Si a la actividad intelectual del sujeto llamamos logos, tendremos que no hay más formas en el mundo que las lógicas, ni más categorías o principios estructurales que los del logos subjetivo. De esta manera los neokantianos reducen la filosofía de la Historia a una lógica de la historiografía.
 

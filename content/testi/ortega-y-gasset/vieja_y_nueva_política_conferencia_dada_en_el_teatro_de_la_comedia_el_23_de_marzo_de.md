@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/vieja_y_nueva_política_conferencia_dada_en_el_teatro_de_la_comedia_el_23_de_marzo_de" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="VIEJA Y NUEVA POLÍTICA. (Conferencia dada en el Teatro de la Comedia el 23 de marzo de" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="VIEJA Y NUEVA POLÍTICA. (Conferencia dada en el Teatro de la Comedia el 23 de marzo de" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Antes de comenzar a decir lo que he de deciros tengo que empezar dándoos gracias por la benévola curiosidad con que habéis acudido a esta cita de difusa esperanza española, y pediros que, dilatando un poco más vuestra benevolencia, suspendáis un momento los juicios previos que hayáis formado sobre lo que este acto, como todo acto, tiene de personal. Porque antes de que las palabras vuelquen su sentido sobre los que escuchan, llegan a la audición como sones timbrados por una voz de un individuo, y pudiera ocurrir que el haber juzgado previamente inmodesto y excesivo que ese individuo levante su voz dañe a la comprensión seria de los pensamientos que van a conducir las palabras sobre sus alas sonoras.
 

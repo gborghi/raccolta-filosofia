@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_destitución_de_unamuno" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La destitución de Unamuno" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La destitución de Unamuno" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El día 4 de este mes escribí sobre la exoneración de don Miguel de Unamuno una carta al señor Castrovido que El País publicó poco después. Tenía yo entonces sólo la noticia con algunos datos más incompletos y vagos. Mi carta se ajustaba a esta penuria de elementos para el juicio; eran mis palabras, más aun que templadas, precavidas.
 

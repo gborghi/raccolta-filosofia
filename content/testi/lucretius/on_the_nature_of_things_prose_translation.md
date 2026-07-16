@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/lucretius/on_the_nature_of_things_prose_translation" data-philosopher="Lucretius"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ON THE NATURE OF THINGS: PROSE TRANSLATION" data-chapter="BOOK I." data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="ON THE NATURE OF THINGS: PROSE TRANSLATION" data-chapter="BOOK I." data-kind="intro" data-srclang="en"></span>
 
 [1] MOTHER of the Aeneadae, darling of men and gods, increase-giving Venus, who beneath the gliding signs of heaven fillest with thy presence the ship-carrying sea, the corn-bearing lands, since through thee every kind of living things is conceived, rises up and beholds the light of the sun.
 
@@ -84,7 +84,7 @@ But yet your worth and the looked-for pleasure of sweet [friendship](/concepts/f
 
 This terror then and darkness of mind must be dispelled not by the rays of the sun and glittering shafts of day, but by the aspect and the law of nature; the warp of whose design we shall begin with this first principle, nothing is ever gotten out of nothing by divine power.
 
-<span class="atom-split" data-atom="002" data-title="BOOK I. (2/8)" data-chapter="BOOK I." data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="BOOK I. (2/8)" data-chapter="BOOK I." data-kind="atom" data-srclang="en"></span>
 
 Fear in sooth holds so in check all mortals, because they see many operations go on in earth and heaven, the causes of which they can in no way understand, believing them therefore to be done by power divine.
 
@@ -144,7 +144,7 @@ Winds therefore sure enough are unseen bodies which sweep the seas, the lands, a
 
 On they stream and spread destruction abroad in just the same way as the soft liquid nature of water, when all at once it is borne along in an overflowing stream, and a great downfall of water from the high hills augments it with copious rains, flinging together fragments of forests and entire ,trees; nor can the strong bridges sustain the sudden force of coming water: in such wise turbid with much rain the river dashes upon the piers with mighty force: makes havoc with loud noise and rolls under its eddies huge stones: [289] wherever aught opposes its waves, down it dashes it.
 
-<span class="atom-split" data-atom="003" data-title="BOOK I. (3/8)" data-chapter="BOOK I." data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="BOOK I. (3/8)" data-chapter="BOOK I." data-kind="atom" data-srclang="en"></span>
 
 In this way then must the blasts of wind as well move on, and when they like a mighty stream have borne down in any direction, they push things before them and throw them down with repeated assaults, sometimes catch them up in curling eddy and carry them away in swift-circling whirl.
 
@@ -212,7 +212,7 @@ Moreover there is nothing which you can affirm to be at once separate from all b
 
 For whatever shall exist, this of itself must be something or other.
 
-<span class="atom-split" data-atom="004" data-title="BOOK I. (4/8)" data-chapter="BOOK I." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="BOOK I. (4/8)" data-chapter="BOOK I." data-kind="atom" data-srclang="en"></span>
 
 Now if it shall admit of touch in however slight and small a measure, it will, be it with a large or be it with a little addition, provided it do exist, increase the amount of body and join the sum.
 
@@ -298,7 +298,7 @@ First-beginnings therefore are strong in solid singleness, and by a denser combi
 
 Again if no limit has been set to the breaking of bodies, nevertheless the several bodies which go to things must survive from [eternity](/positions/eternity) up to the present time, not yet assailed by any danger.
 
-<span class="atom-split" data-atom="005" data-title="BOOK I. (5/8)" data-chapter="BOOK I." data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="BOOK I. (5/8)" data-chapter="BOOK I." data-kind="atom" data-srclang="en"></span>
 
 But since they are possessed of a frail nature, it is not consistent with this that they could have continued through [eternity](/positions/eternity) harassed through ages by countless blows.
 
@@ -358,7 +358,7 @@ For these reasons they who have held that fire is the matter of things and that 
 
 Chief of whom is Agrigentine Empedocles: him within the three-cornered shores of its lands that island bore, about which the Ionian sea flows in large crankings, and splashes up brine from its green waves.
 
-<span class="atom-split" data-atom="006" data-title="BOOK I. (6/8)" data-chapter="BOOK I." data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="BOOK I. (6/8)" data-chapter="BOOK I." data-kind="atom" data-srclang="en"></span>
 
 Here the sea racing in its straitened froth divides by its waters the shores of Italia’s lands from the other’s coasts; here is wasteful Charybdis and here the rumblings of Aetna threaten anew to gather up such fury of flames, as again with force to belch forth the fires bursting from its throat and carry up to heaven once more the lightnings of flame.
 
@@ -414,7 +414,7 @@ Not one methinks, where everything will be just as essentially mortal as those t
 
 But I appeal to facts demonstrated above for proof that things cannot fall away to nothing nor on the other hand grow from nothing.
 
-<span class="atom-split" data-atom="007" data-title="BOOK I. (7/8)" data-chapter="BOOK I." data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="BOOK I. (7/8)" data-chapter="BOOK I." data-kind="atom" data-srclang="en"></span>
 
 Again since food gives increase and nourishment to the body, you are to know that our veins and blood and bones [and the like are formed of things foreign to them in kind]; or if they shall say that all foods are of a mixed body and contain in them small bodies of sinews and bones and veins as well and particles of blood, it will follow that all food, solid as well as liquid, must be held to be composed of things foreign to them in kind, of bones that is and sinews and matter and blood mixed up.
 
@@ -478,7 +478,7 @@ The result will be that an end can nowhere be fixed, and that the room given for
 
 Lastly one thing is seen by the eyes to end another thing; air bounds off hills, and mountains air, earth limits sea and sea again all lands; the universe however there is nothing outside to end.
 
-<span class="atom-split" data-atom="008" data-title="BOOK I. (8/8)" data-chapter="BOOK I." data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="BOOK I. (8/8)" data-chapter="BOOK I." data-kind="atom" data-srclang="en"></span>
 
 [989] Again if all the space of the whole sum were enclosed within fixed borders and were bounded, in that case the store of matter by its solid weights would have streamed together from all sides to the lowest point nor could anything have gone on under the canopy of heaven, no nor would there have been a heaven nor sunlight at all, inasmuch as all matter, settling down through infinite time past, would lie together in a heap.
 
@@ -528,7 +528,7 @@ For on whatever side you shall first determine first bodies to be wanting, this 
 
 For one thing after another will grow clear and dark night will not rob you of the road and keep you from surveying the utmost ends of nature: in such wise things will light the torch for other things.
 
-<span class="atom-split" data-atom="009" data-title="BOOK II. (1/9)" data-chapter="BOOK II." data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="BOOK II. (1/9)" data-chapter="BOOK II." data-kind="atom" data-srclang="en"></span>
 
 [1] It is sweet, when on the great sea the winds trouble its waters, to behold from land another’s deep distress; not that it is a pleasure and delight that any should be afflicted, but because it is sweet to see from what evils you are yourself exempt.
 
@@ -584,7 +584,7 @@ All, you are to know, derive this restlessness from the first-beginnings.
 
 For the first-beginnings of things move first of themselves; (next those bodies which form a small aggregate and come nearest, so to say to the powers of the first beginnings, are impelled and set in movement by the unseen strokes of those first bodies, and they next in turn stir up bodies which are a little larger.
 
-<span class="atom-split" data-atom="010" data-title="BOOK II. (2/9)" data-chapter="BOOK II." data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="BOOK II. (2/9)" data-chapter="BOOK II." data-kind="atom" data-srclang="en"></span>
 
 Thus motion mounts up from the first-beginnings and step by step issues forth to our senses, so that those bodies also move, which we can discern in the sunlight, though it is not clearly seen by what blows they so act.
 
@@ -650,7 +650,7 @@ The whole store of matter through the whole body must be sought out, in order th
 
 Quite different is the case when we move on propelled by a stroke inflicted by the strong might and strong compulsion of another; for then it is quite clear that all the matter of the whole body moves and is hurried on against our inclination, until the will has reined it in throughout the limbs.
 
-<span class="atom-split" data-atom="011" data-title="BOOK II. (3/9)" data-chapter="BOOK II." data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="BOOK II. (3/9)" data-chapter="BOOK II." data-kind="atom" data-srclang="en"></span>
 
 Do you see then in this case that, though an outward force often pushes men on and compels them frequently to advance against their will and to be hurried headlong on, there yet is something in our breast sufficient to struggle against and resist it? And when ,too, this something chooses, the store of matter is compelled sometimes to change its course through the limbs and frame, and after it has been forced forward, is reined in and settles back into its place.
 
@@ -702,7 +702,7 @@ And quickly as we see wines flow through a strainer, sluggish oil on the other h
 
 Moreover the liquids honey and milk excite a pleasant sensation of tongue when held in the mouth; but on the other hand the nauseous nature of wormwood and of harsh centaury writhes the mouth with a noisome flavor; so that you may easily see that the things which are able to affect the senses pleasantly consist of smooth and round elements; while all those on the other hand which are found to be bitter and harsh, are held in connection by particles that are more hooked and for this reason are wont to tear open passages into our senses and in entering in to break through the body.
 
-<span class="atom-split" data-atom="012" data-title="BOOK II. (4/9)" data-chapter="BOOK II." data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="BOOK II. (4/9)" data-chapter="BOOK II." data-kind="atom" data-srclang="en"></span>
 
 All things in short, which are agreeable to the senses and all which are unpleasant to the feeling are mutually repugnant, formed as they are out of an unlike first shape; [409] lest haply you suppose that the harsh grating of the creaking saw consists of the elements as smooth as those of tuneful melodies which musicians wake into life with nimble fingers and give shape to on strings; or suppose that the first-beginnings are of like shape which pass into the nostrils of men, when noisome carcasses are burning, and when the stage is fresh sprinkled with Cilician saffron, while the altar close by exhales Panchaean odors; or decide that the pleasant colors of things which are able to feast the eyes are formed of a seedlike to the seed of those which make the pupil smart and force it to shed tears or from their disgusting aspect look hideous and foul.
 
@@ -754,7 +754,7 @@ For since the difference of forms is finite, those which are like must be infini
 
 For though you see that some animals are rarer than others and discern a less fruitful nature in them, yet in another quarter and spot and in distant lands there may be many of that kind and the full tale may be made up; just as we see that in the class of four-footed beasts snake-handed elephants are elsewhere especially numerous; [537] for India is so fenced about with an ivory rampart made out of many thousands of these, that its inner parts cannot be reached, so great is the quantity of brutes, of which we see but very few samples.
 
-<span class="atom-split" data-atom="013" data-title="BOOK II. (5/9)" data-chapter="BOOK II." data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="BOOK II. (5/9)" data-chapter="BOOK II." data-kind="atom" data-srclang="en"></span>
 
 But yet though I should grant this point too: be there even as you will some one thing sole in its kind existing alone with a body that had birth, and let no other thing resemble it in the whole world; yet unless there shall be an infinite supply of matter out of which it may be conceived and brought into being, it cannot be produced, and, more than this, it cannot have growth and food.
 
@@ -818,7 +818,7 @@ Again you see many things to which are given at once both color and taste togeth
 
 These must therefore be made up of elements of different shapes; for smell enters in where color passes not into the frame, color too in one way, taste in another makes its entrance into the senses; so that you know they differ in the shapes of their first elements.
 
-<span class="atom-split" data-atom="014" data-title="BOOK II. (6/9)" data-chapter="BOOK II." data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="BOOK II. (6/9)" data-chapter="BOOK II." data-kind="atom" data-srclang="en"></span>
 
 Therefore unlike forms unite into one mass and things are made up of a mixture of seed.
 
@@ -882,7 +882,7 @@ And since the pupil receives into it a kind of blow, when it is said to perceive
 
 Moreover since no particular kind of color is assigned to particular shapes and every configuration of first-beginnings can exist in any color, why on a ‘like principle are not the things which are formed out of them in every kind overlaid with colors of every kind? For then it were natural that crows too in flying should often display a white color from whitewings and that swans should come to be black from a black seed, or of any other different color you please.
 
-<span class="atom-split" data-atom="015" data-title="BOOK II. (7/9)" data-chapter="BOOK II." data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="BOOK II. (7/9)" data-chapter="BOOK II." data-kind="atom" data-srclang="en"></span>
 
 Again the more minute the parts are into which anything is rent, the more you may perceive the color fade away by little and little and become extinct; as for instance if a piece of purple is torn into small shreds: when it has been plucked into separate threads, the purple, and the scarlet far the most brilliant of colors, are quite effaced; [831] from which you may infer that the shreds part with all their color before they come back to the seeds of things.
 
@@ -936,7 +936,7 @@ For the positions of the first-beginnings are broken up and the vital motions en
 
 Often too when the blow is inflicted with less violence, the remaining vital motions are wont to prevail, ay, prevail and still the huge disorders caused by the blow and recall each part into its proper channels and shake off the motion of death now reigning as it were paramount in the body and kindle afresh the almost lost senses.
 
-<span class="atom-split" data-atom="016" data-title="BOOK II. (8/9)" data-chapter="BOOK II." data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="BOOK II. (8/9)" data-chapter="BOOK II." data-kind="atom" data-srclang="en"></span>
 
 For in what other way should the thing be able to gather together its powers of mind and come back to life from the very threshold of death, rather than pass on to the goal to which it had almost run and so pass away? Again since there is pain when the bodies of matter are disordered by any force throughout the living flesh and frame ,and quake in their seats within, and as when they travel back into their place, a soothing pleasure ensues, you am to know that first-beginnings can be assailed by no pain and can derive no pleasure from themselves; since they are not formed of any bodies of first-beginnings, so as to be distressed by any novelty in their motion or derive from it any fruit of fostering delight; and therefore they must not be possessed of any sense.
 
@@ -992,7 +992,7 @@ If you well apprehend and keep in mind these things, nature free at once and rid
 
 For I appeal to the holy breasts of the gods who in tranquil peace pass a calm time and an unruffled existence, who can rule the sum, who can hold in his hand with controlling force the strong reins, of the immeasurable deep?
 
-<span class="atom-split" data-atom="017" data-title="BOOK II. (9/9)" data-chapter="BOOK II." data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="BOOK II. (9/9)" data-chapter="BOOK II." data-kind="atom" data-srclang="en"></span>
 
 Who can at once make all the different heavens to roll and warm with ethereal fires all the fruitful earths, or be present in all places at all times, to bring darkness with clouds and shake with noise the heaven’s serene expanse, to hurl lightnings and often throw down his own temples, and withdrawing into the deserts there to spend his rage in practicing his bolt which often passes the guilty by and strikes dead the innocent and unoffending?
 
@@ -1026,7 +1026,7 @@ And now the aged plowman shakes his head and sighs again and again to think that
 
 The sorrowful planter too of the exhausted and shriveled vine impeaches the march of time and wearies heaven, and comprehends not that all things are gradually wasting away and passing to the grave, quite forspent by age and length of days.
 
-<span class="atom-split" data-atom="018" data-title="BOOK III. (1/9)" data-chapter="BOOK III." data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="BOOK III. (1/9)" data-chapter="BOOK III." data-kind="atom" data-srclang="en"></span>
 
 [1] THEE, who first was able amid such thick darkness to raise on high so bright a beacon and shed a light on the true interests of life, thee I follow, glory of the Greek race, and plant now my footsteps firmly fixed in thy imprinted marks, not so much from a desire to rival thee as that from the love I bear thee I yearn to imitate thee; for why need the swallow contend with swans, or what likeness is there between the feats of racing performed by kids with tottering limbs and by the powerful strength of the horse? Thou, father, art discoverer of things, thou furnishest us with fatherly precepts, and like as bees sip of all things in the flowery lawns, we, o glorious being, in like manner feed from out thy pages upon all the golden maxims, golden I say, most worthy ever of endless life.
 
@@ -1080,7 +1080,7 @@ Since then the nature of the mind and that of the soul have been proved to be a 
 
 Now I assert that the mind and the soul are kept together in close union and make up a single nature, but that the directing principle which we call mind and understanding is the head, so to speak ,and reigns paramount in the whole body.
 
-<span class="atom-split" data-atom="019" data-title="BOOK III. (2/9)" data-chapter="BOOK III." data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="BOOK III. (2/9)" data-chapter="BOOK III." data-kind="atom" data-srclang="en"></span>
 
 It has a fixed seat in the middle region of the breast: here throb fear and apprehension, about these spots dwell soothing joys; therefore here is the understanding or mind.
 
@@ -1148,7 +1148,7 @@ Thus the heat and the air and the unseen power of the spirit mixed together prod
 
 For this nature lurks secreted in its inmost depths, and nothing in our body is farther beneath all ken than it, and more than this it is the very soul of the whole soul.
 
-<span class="atom-split" data-atom="020" data-title="BOOK III. (3/9)" data-chapter="BOOK III." data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="BOOK III. (3/9)" data-chapter="BOOK III." data-kind="atom" data-srclang="en"></span>
 
 Just in the same way as the power of the mind and the function of the soul are latent in our limbs and throughout our body, because they are each formed of small and few bodies: even so, you are to know, this nameless power made of minute bodies is concealed and is moreover the very soul so to say of the whole soul, and reigns supreme in the whole body.
 
@@ -1210,7 +1210,7 @@ For without the understanding and the mind no part of the soul can maintain itse
 
 But he abides in life whose mind and understanding continue to stay with him: though the trunk is mangled with its limbs shorn all roundabout it, after the soul has been taken away on all sides and been severed from the limbs the trunk yet lives and inhales the ethereal airs of life.
 
-<span class="atom-split" data-atom="021" data-title="BOOK III. (4/9)" data-chapter="BOOK III." data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="BOOK III. (4/9)" data-chapter="BOOK III." data-kind="atom" data-srclang="en"></span>
 
 [405] When robbed, if not of the whole, yet of a large portion of the soul, it still lingers in and cleaves to life just as, after the eye has been lacerated if the pupil has continued uninjured, the living power of sight remains, provided always you do not destroy the whole ball of the eye and pare close round the pupil and leave only it; for that will not be done even to the ball without the entire destruction of the eye.
 
@@ -1274,7 +1274,7 @@ But if haply you suppose that it can draw itself in through the whole frame and 
 
 But as this is nowhere found, sure enough as we said before, it is torn in pieces and scattered abroad, and therefore dies.
 
-<span class="atom-split" data-atom="022" data-title="BOOK III. (5/9)" data-chapter="BOOK III." data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="BOOK III. (5/9)" data-chapter="BOOK III." data-kind="atom" data-srclang="en"></span>
 
 Moreover if I were pleased for the moment to grant what is false and admit that the soul might be collected in one mass in the body of those who leave the light dying piecemeal, even then you must admit the soul to be mortal; and it makes no difference whether it perish dispersed in air, or gathered into one lump out of all its parts lose all feeling, since sense ever more and more fails the whole man throughout and less and less of life remains throughout.
 
@@ -1324,7 +1324,7 @@ To take another case, if, as a serpent’s tongue is quivering, as its tail is d
 
 Shall we say then that there are entire souls in all those pieces? Why from that argument it will follow that one living creature had many souls in its body; and this being absurd, therefore the soul which was one has been divided together with the body; therefore each alike must be reckoned mortal, since each is alike chopped up into many pieces.
 
-<span class="atom-split" data-atom="023" data-title="BOOK III. (6/9)" data-chapter="BOOK III." data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="BOOK III. (6/9)" data-chapter="BOOK III." data-kind="atom" data-srclang="en"></span>
 
 Again, if the nature of the soul is immortal and makes its way into our body at the time of birth, why are we unable to remember besides the time already gone, and why do we retain no traces of past actions? If the power of the mind has been so completely changed that all remembrance of past things is lost, that methinks differs not widely from death; therefore you must admit that the soul which was before has perished and that which now is has now been formed.
 
@@ -1388,7 +1388,7 @@ Therefore when the body has died, we must admit that the soul has perished, wren
 
 To link forsooth a mortal thing with an everlasting and suppose that they can have sense in common and can be reciprocally acted upon, is sheer folly; for what can be conceived more incongruous, more discordant and inconsistent with itself, than a thing which is mortal, linked with an immortal and everlasting thing, trying in such union to weather furious storms?
 
-<span class="atom-split" data-atom="024" data-title="BOOK III. (7/9)" data-chapter="BOOK III." data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="BOOK III. (7/9)" data-chapter="BOOK III." data-kind="atom" data-srclang="en"></span>
 
 But if haply the soul is to be accounted immortal for this reason rather, because it is kept sheltered from death-bringing things, either because things hostile to its existence do not approach at all, or because those which do approach, in some way or other retreat discomfited before we can feel the harm they do, [manifest experience proves that this can not be true].
 
@@ -1438,7 +1438,7 @@ Death therefore must be thought to concern us much less, if less there can be th
 
 Once more, if the nature of things could suddenly utter a voice and in person could rally any of us in such words as these:
 
-<span class="atom-split" data-atom="025" data-title="BOOK III. (8/9)" data-chapter="BOOK III." data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="BOOK III. (8/9)" data-chapter="BOOK III." data-kind="atom" data-srclang="en"></span>
 
 “What hast thou: o mortal, so much at heart, that thou goest such lengths in sickly sorrows? Why bemoan and bewail death? For say thy life past and gone has been welcome to thee and thy blessings have not all, as if they were poured into a perforated vessel, run through and been lost without avail? Why not then take thy departure like a guest filled with life, and with resignation, thou fool, enter upon untroubled rest? But if all that thou hast enjoyed has been squandered and lost, and life is a grievance, why seek to make any addition, to be wasted perversely in its turn and lost utterly without avail? Why not rather make an end of life and travail? [944] For there is nothing more which I can contrive and discover for thee to give pleasure: all things are ever the same. Though thy body is not yet decayed with years nor thy frame worn out and exhausted, yet all things remain the same, ay though in length of life thou shouldst outlast all races of things now living, nay even more if thou shouldst never die.”
 
@@ -1504,7 +1504,7 @@ If, just as they are seen to feel that a load is on their mind which wears them 
 
 The man who is sick of home often issues forth from his large mansion, and as suddenly comes back to it, finding as he does that he is no better off abroad.
 
-<span class="atom-split" data-atom="026" data-title="BOOK III. (9/9)" data-chapter="BOOK III." data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="BOOK III. (9/9)" data-chapter="BOOK III." data-kind="atom" data-srclang="en"></span>
 
 He races to his country-house, driving his jennets in headlong haste, as if hurrying to bring help to a house on fire: [1064] he yawns the moment he has reached the door of his house, or sinks heavily into sleep and seeks forgetfulness, or even in haste goes back again to town.
 
@@ -1524,7 +1524,7 @@ Nor by prolonging life do we take one tittle from the time past in death nor can
 
 Therefore you may complete as many generations as you please during your life; none the less however will that everlasting death await you; and for no less long a time will he be no more in being, who beginning with today has ended his life, than the man who has died many months and years ago.
 
-<span class="atom-split" data-atom="027" data-title="BOOK IV. (1/10)" data-chapter="BOOK IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="BOOK IV. (1/10)" data-chapter="BOOK IV." data-kind="atom" data-srclang="en"></span>
 
 [1] I TRAVERSE the pathless haunts of the Pierides never yet trodden by sole of man.
 
@@ -1580,7 +1580,7 @@ Now [I will proceed to show] with what ease and celerity they are begotten and h
 
 The outermost surface is ever streaming off from things and admits of being discharged: when this reaches some things, it passes through them, glass especially.
 
-<span class="atom-split" data-atom="028" data-title="BOOK IV. (2/10)" data-chapter="BOOK IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="BOOK IV. (2/10)" data-chapter="BOOK IV." data-kind="atom" data-srclang="en"></span>
 
 But when it reaches rough stones or the matter of wood, it is then so torn that it cannot give back any idol.
 
@@ -1648,7 +1648,7 @@ That vision too is effected by two separate airs: first there is an air seen in 
 
 Thus when the image of the mirror has first discharged itself, in coming to our sight it pushes forward and impels all the air which lies between it and the eyes, and enables us to see the whole of it before the mirror.
 
-<span class="atom-split" data-atom="029" data-title="BOOK IV. (3/10)" data-chapter="BOOK IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="BOOK IV. (3/10)" data-chapter="BOOK IV." data-kind="atom" data-srclang="en"></span>
 
 But when we have perceived the mirror as well, at once the image which is conveyed from us reaches the mirror and then is reflected and comes back to our eyes, and drives on and rolls in front of it a second air and lets us see this before itself, and for this reason it looks so far withdrawn from the mirror.
 
@@ -1710,7 +1710,7 @@ When children have stopped turning round themselves, the halls appear to them to
 
 Again when nature begins to raise on high the sun’s beam ruddy with bickering fires and to lift it up above the mountains, those hills above which the sun then seems to you to be, as blazing close at hand he dyes them with his own fire, are distant from us scarce two thousand arrow-flights, yea often scarce five hundred casts of a javelin; and yet between them and the sun lie immense levels of sea, spread out below the huge borders of ether, and many thousands of lands are between, held by divers peoples and races of wild beasts.
 
-<span class="atom-split" data-atom="030" data-title="BOOK IV. (4/10)" data-chapter="BOOK IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="BOOK IV. (4/10)" data-chapter="BOOK IV." data-kind="atom" data-srclang="en"></span>
 
 [414] Then a puddle of water not more than a finger-breadth deep, which stands between the stones in the streets, offers a prospect beneath the earth of a reach as vast, as that with which the high yawning maw of heaven opens out above the earth; so that you seem to discern clouds and see the bodies of birds far withdrawn into that wondrous sky beneath the earth.
 
@@ -1784,7 +1784,7 @@ Next roughness of voice comes from roughness of first-beginnings, as smoothness 
 
 Nor are the first-beginnings of like shape which pierce the ears in these two cases: when the trumpet brays dully in deep low tones, the barbarian country roused echoing back the hoarse hollow sound, and when swans from the headstrong torrents of Helicon raise their clear-toned dirge with plaintive voice.
 
-<span class="atom-split" data-atom="031" data-title="BOOK IV. (5/10)" data-chapter="BOOK IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="BOOK IV. (5/10)" data-chapter="BOOK IV." data-kind="atom" data-srclang="en"></span>
 
 When therefore we force these voices forth from the depths of our body and discharge them straight out at the mouth, the pliant tongue, deft fashioner of words, gives them articulate utterance and the structure of the lips does its part in shaping them.
 
@@ -1860,7 +1860,7 @@ Now mark me, and I will discuss the way in which the contact of smell affects th
 
 Also the onward-reaching power of scent in dogs leads them whithersoever the cloven hoof of wild beasts has carried them in their course; and the smell of man is felt far away by the savior of the Romans’ citadel, the bright white goose.
 
-<span class="atom-split" data-atom="032" data-title="BOOK IV. (6/10)" data-chapter="BOOK IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="BOOK IV. (6/10)" data-chapter="BOOK IV." data-kind="atom" data-srclang="en"></span>
 
 Thus different scents assigned to different creatures led each to its appropriate food and constrain them to recoil from nauseous poison, and in this way the races of beasts are preserved.
 
@@ -1934,7 +1934,7 @@ Sometimes it happens too that an image of the same kind is not supplied, but wha
 
 But sleep and forgetfulness prevent us from feeling surprise at this.
 
-<span class="atom-split" data-atom="033" data-title="BOOK IV. (7/10)" data-chapter="BOOK IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="BOOK IV. (7/10)" data-chapter="BOOK IV." data-kind="atom" data-srclang="en"></span>
 
 And herein you should desire with all your might to shun the weakness, with a lively apprehension to avoid the mistake of supposing that the bright lights of the eyes were made in order that we might see; [826] and that the tapering ends of the shanks and hams are attached to the feet as a base in order to enable us to step out with long strides; or again that the forearms were slung to the stout upper arms and ministering hands given us on each side, that we might be able to discharge the needful duties of life.
 
@@ -1996,7 +1996,7 @@ Then next a part of the soul is forced out and apart withdraws into the inner re
 
 And since there is nothing as it were to lend support to the frame, the body becomes weak and all the limbs are faint, the arms and eyelids droop and the hams even in bed often give way under you and relax their powers.
 
-<span class="atom-split" data-atom="034" data-title="BOOK IV. (8/10)" data-chapter="BOOK IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="BOOK IV. (8/10)" data-chapter="BOOK IV." data-kind="atom" data-srclang="en"></span>
 
 Then sleep follows on food, because food produces just the same effects as air, while it is distributed into all the veins; and that sleep is much the heaviest which you take when full or tired, because then the greatest number of bodies fall into disorder, bruised by much exertion.
 
@@ -2062,7 +2062,7 @@ For in this there is hope, that from the same body whence springs their burning 
 
 Meat and drink are taken into the body; and as they can fill up certain fixed parts, in this way the craving for drink and bread is easily satisfied; but from the face and beautiful bloom of man nothing is given into the body to enjoy save flimsy idols; a sorry hope which is often snatched off by the wind.
 
-<span class="atom-split" data-atom="035" data-title="BOOK IV. (9/10)" data-chapter="BOOK IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="BOOK IV. (9/10)" data-chapter="BOOK IV." data-kind="atom" data-srclang="en"></span>
 
 As when in sleep a thirsty man seeks to drink and water is not given to quench the burning in his frame, but he seeks the idols of waters and toils in vain and thirsts as he drinks in the midst of the torrent stream, thus in love Venus mocks lovers with idols, nor can bodies satisfy them by all their gazing upon them nor can they with their hands rub aught off the soft limbs, wandering undecided over the whole body.
 
@@ -2130,7 +2130,7 @@ But those whom you see with a share of both forms, blending equally the features
 
 Sometimes too the children may spring up like their grandfathers and often resemble the forms of their grandfathers’ fathers, because the parents often keep concealed in their bodies many first-beginnings mixed in many ways, which first proceeding from the original stock one father hands down to the next father; and then from these Venus produces forms after a manifold [chance](/concepts/fortune) and repeats not only the features, but the voices and hair of their forefathers.
 
-<span class="atom-split" data-atom="036" data-title="BOOK IV. (10/10)" data-chapter="BOOK IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="BOOK IV. (10/10)" data-chapter="BOOK IV." data-kind="atom" data-srclang="en"></span>
 
 And the female sex equally springs from the father’s seed and males go forth equally formed from the mother’s body; since these distinctions no more proceed from the fixed seed of one or other parent than our faces and bodies and limbs: the birth is always formed out of the two seeds; and whichever parent that which is produced more resembles of that parent it has more than an equal share; as you may equally observe, whether it is a male child or a female birth.
 
@@ -2164,7 +2164,7 @@ Moreover [custom](/concepts/custom) renders love attractive; for that which is s
 
 See you not too that drops of water falling on stones after long course of time scoop a hole through these stones?
 
-<span class="atom-split" data-atom="037" data-title="BOOK V. (1/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="BOOK V. (1/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 [1] WHO is able with powerful genius to frame a poem worthy of the grandeur of the things and these discoveries? Or who is so great a master of words as to be able to devise praises equal to the deserts of him who left to us such prizes won and earned by his own genius? None, methinks, who is formed of mortal body.
 
@@ -2220,7 +2220,7 @@ Thus the nature of the mind cannot come into being alone without the body nor ex
 
 But if (for this would be much more likely to happen than that) the force itself of the mind might be in the head or shoulders or heels or might be born in any other part of the body, it would after all be wont to abide in one and the same man or vessel.
 
-<span class="atom-split" data-atom="038" data-title="BOOK V. (2/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="BOOK V. (2/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 But since in our body even it is fixed and seen to be ordained where the soul and the mind can severally be and grow, it must still more strenuously be denied that it can abide out of the body and the living form altogether in crumbling clods of earth or in the fire of the sun or in water or in the high borders of ether.
 
@@ -2276,7 +2276,7 @@ Furthermore, that sea rivers fountains always stream over with new moisture and 
 
 But then the water on the surface is always taken off, and thus it is that on the whole there is no overflow, partly because the seas are lessened by the strong winds sweeping over them and by the ethereal sun decomposing them with his rays; partly because the water is diffused below the surface over all lands; for the salt is strained off and the matter of liquid streams back again to the source and all meets together at the river-heads, and then flows over the lands in a fresh current, where a channel once scooped out has carried down the waters with liquid foot.
 
-<span class="atom-split" data-atom="039" data-title="BOOK V. (3/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="BOOK V. (3/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 And next I will speak of the air which is changed over its whole body every hour in countless ways.
 
@@ -2330,7 +2330,7 @@ But the almighty father, stirred then to fierce wrath, with a sudden thunder str
 
 Fire may gain the mastery when more bodies of matter than usual have gathered themselves up out of the infinite; and then its powers decay, vanquished in some way or other, or else things perish burnt up by the torrid air.
 
-<span class="atom-split" data-atom="040" data-title="BOOK V. (4/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="BOOK V. (4/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 Water too of yore gathered itself and began to get the mastery, as the story goes, when it whelmed many cities of men; and then when all that force that had gathered itself up out of the infinite, by some means or other was turned aside and withdrew, the rains were stayed and the rivers abated their fury.
 
@@ -2378,7 +2378,7 @@ For this reason it is no burden and does not weigh down the air; just as his lim
 
 Thus then the earth is not an alien body suddenly brought in and forced from some other quarter on air alien to it, but was conceived together with it at the first birth of the world and is a fixed portion of that world, just as our limbs are seen to be to us.
 
-<span class="atom-split" data-atom="041" data-title="BOOK V. (5/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="BOOK V. (5/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 Again the earth when suddenly shaken by loud thunder shakes by its motion all the things which are above it; and this it could in no wise do, unless it had been fast bound with the airy portions of the world and with heaven.
 
@@ -2450,7 +2450,7 @@ Lastly lightnings, snow, rains, clouds, and winds take place at not very irregul
 
 For where causes from their very first beginnings have been in this way and things have thus fallen out from the first birth of the world, in due sequence too they now come round after a fixed order.
 
-<span class="atom-split" data-atom="042" data-title="BOOK V. (6/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="BOOK V. (6/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 Likewise days may lengthen and nights wane, and days shorten when the nights receive increase, either because the same sun running his course below the earth and above in curves of unlike length parts the borders of ether and divides his orbit into unequal halves; and as he comes round adds on in the opposite half just as much as he has subtracted from the other of the two halves, until he has arrived at that sign of heaven, where the node of the year makes the shades of night of the same length as the daylight.
 
@@ -2508,7 +2508,7 @@ First of all the race of fowls and the various birds would leave their eggs, hat
 
 Then you must know did the earth first give forth races of mortal men.
 
-<span class="atom-split" data-atom="043" data-title="BOOK V. (7/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="BOOK V. (7/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 For much heat and moisture would then abound in the fields; and therefore wherever a suitable spot offered, wombs would grow attached to the earth by roots; and when the warmth of the infants, flying the wet and craving the air, had opened these in the fulness of time, nature would turn to that spot the pores of the earth and constrain it to yield from its opened veins a liquid most like to milk, even as now-a-days every woman when she has borne, is filled with sweet milk, because all that current of nutriment streams towards the breasts.
 
@@ -2570,7 +2570,7 @@ No one then was a sturdy guider of the bent plow or knew how to labor the fields
 
 What the sun and rains had given, what the earth had produced spontaneously, was guerdon sufficient to content their hearts.
 
-<span class="atom-split" data-atom="044" data-title="BOOK V. (8/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="BOOK V. (8/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 Among acorn-bearing oaks they would refresh their bodies for the most part; [940] and the arbute-berries which you now see in the winter-time ripen with a bright scarlet hue, the earth would then bear in greatest plenty and of a larger size; and many coarse kinds of food besides the teeming freshness of the world then bare, more than enough for poor wretched men.
 
@@ -2644,7 +2644,7 @@ Since dumb brutes, yes and the races of wild beasts are accustomed to give forth
 
 Again when they essay fondly to lick their whelps with their tongue or when they toss them with their feet and snapping at them make a feint with lightly closing teeth of swallowing though with gentle forbearance, they caress them with a yelping sound of a sort greatly differing from that which they utter when left alone in a house they bay or when they slink away howling from blows with a crouching body.
 
-<span class="atom-split" data-atom="045" data-title="BOOK V. (9/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="BOOK V. (9/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 Again is not the neigh too seen to differ, when a young stallion in the flower of age rages among the mares smitten by the goads of winged love, and when with wide-stretched nostrils he snorts out the signal to arms, and when as it chances on any occasion he neighs with limbs all shaking?
 
@@ -2710,7 +2710,7 @@ What groanings did they then beget for themselves, what wounds for us, what tear
 
 No act is it of piety to be often seen with veiled head to turn to a stone and approach every altar and fall prostrate on the ground and spread out the palms before the statues of the gods and sprinkle the altars with much blood of beasts and link vow on to vow, but rather to be able to look on all things with a mind at peace.
 
-<span class="atom-split" data-atom="046" data-title="BOOK V. (10/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="BOOK V. (10/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 For when we turn our gaze on the heavenly quarters of the great upper world and ether fast above the glittering stars, and direct our thoughts to the courses of the sun and moon, then into our breasts burdened with other ills that fear as well begins to exalt its reawakened head, the fear that we may haply find the power of the gods to be unlimited, able to wheel the bright stars in their varied motion; for lack of power to solve the question troubles the mind with doubts, whether there was ever a birth-time of the world, and whether likewise there is to be any end; how far the walls of the world can endure this strain of restless motion; or whether gifted by the grace of the gods with an everlasting existence they may glide on through a never-ending tract of time and defy the strong powers of immeasurable ages.
 
@@ -2768,7 +2768,7 @@ The boars too would rend their friends with powerful tusks, in their rage dying 
 
 Those whom they believed before to have been sufficiently broken in at home, they would see lash themselves into fury in the heat of action from wounds and shouting, flight panic and uproar; and they could not rally any portion of them; for all the different kinds of wild beasts would fly all abroad; just as now the lucan kine when cruelly mangled by the steel fly often all abroad, after inflicting on their friends many cruel sufferings.
 
-<span class="atom-split" data-atom="047" data-title="BOOK V. (11/11)" data-chapter="BOOK V." data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="BOOK V. (11/11)" data-chapter="BOOK V." data-kind="atom" data-srclang="en"></span>
 
 But men chose thus to act not so much in any hope of victory, as from a wish to give the enemy something to rue at the cost of their own lives, when they mistrusted their numbers and were in want of arms.
 
@@ -2820,7 +2820,7 @@ Ships and tillage, walls, laws, arms, roads, dress, and all such like things, al
 
 Thus time by degrees brings each several thing forth before men’s eyes and reason raises it up into the borders of light; for things must be brought to light one after the other and in due order in the different arts until these have reached their highest point of development.
 
-<span class="atom-split" data-atom="048" data-title="BOOK VI. (1/10)" data-chapter="BOOK VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="BOOK VI. (1/10)" data-chapter="BOOK VI." data-kind="atom" data-srclang="en"></span>
 
 [1] IN days of yore Athens of famous name first imparted corn-producing crops to suffering mankind, and modeled life anew and passed laws; and first too bestowed sweet solaces of existence, when she gave birth to a man who showed himself gifted with such a genius and poured forth all knowledge of old from his truth-telling mouth; whose glory, even now that he is dead, on account of his godlike discoveries confirmed by length of time is spread abroad among men and reaches high as heaven.
 
@@ -2860,7 +2860,7 @@ In this way also all things appear to quake often from the shock of heavy thunde
 
 And no wonder, when a small bladder filled with air often emits a hideous sound if suddenly burst.
 
-<span class="atom-split" data-atom="049" data-title="BOOK VI. (2/10)" data-chapter="BOOK VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="BOOK VI. (2/10)" data-chapter="BOOK VI." data-kind="atom" data-srclang="en"></span>
 
 It can also be explained how the winds, when they blow through the clouds, make noises: we see branching and rough clouds often borne along in many ways; thus, you are to know, when the blasts of the northwest blow through a dense forest, the leaves give forth a rustling and the boughs a crashing.
 
@@ -2920,7 +2920,7 @@ That this is so beyond all question is proved by facts evident to sense: clouds 
 
 Very often again a black storm-cloud too out at sea, like a stream of pitch sent down from heaven, falls in such wise upon the waters heavily charged with darkness afar off and draws down a black tempest big with lightnings and storms, itself so fraught above all the rest with fires and winds, that even on land men shudder and seek shelter.
 
-<span class="atom-split" data-atom="050" data-title="BOOK VI. (3/10)" data-chapter="BOOK VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="BOOK VI. (3/10)" data-chapter="BOOK VI." data-kind="atom" data-srclang="en"></span>
 
 Thus then we must suppose that the storm above our head reaches high up; for the clouds would never bury the earth in such thick darkness, unless they were built up high heap upon heap, the sunlight totally disappearing; nor could the clouds when they descend drown it with so great a rain, as to make rivers overflow and put fields under water, if they were not piled high up in the sky.
 
@@ -2982,7 +2982,7 @@ Therefore these seasons are to be called the cross-seas of the year; and it is n
 
 This is the way to see into the true nature of the thunderbolt and to understand by what force it produces each effect, and not the turning over the scrolls of Tyrrhene charms and vainly searching for tokens of the hidden will of the gods, in order to know from what quarter the volant fire has come or to which of the two halves it has betaken itself, in what way it has gained an entrance within walled places, and how after lording it with tyrant sway it has gotten itself out from these; also what harm the thunderstroke from heaven can do.
 
-<span class="atom-split" data-atom="051" data-title="BOOK VI. (4/10)" data-chapter="BOOK VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="BOOK VI. (4/10)" data-chapter="BOOK VI." data-kind="atom" data-srclang="en"></span>
 
 But if Jupiter and other gods shake with an appalling crash the glittering quarters of heaven, and hurl their fire whither each is so minded, why strike they not those whoever they be who have recked not of committing some abominable sin and make them give forth the flames of lightning from breast pierced through and through, a sharp lesson to men?
 
@@ -3040,7 +3040,7 @@ Again when the clouds are also rarefied by the winds, or are dispersed, being sm
 
 [516] But a violent rain follows, when the clouds are violently pressed upon by both causes, by their own accumulated weight and by the impetuous assault of the wind.
 
-<span class="atom-split" data-atom="052" data-title="BOOK VI. (5/10)" data-chapter="BOOK VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="BOOK VI. (5/10)" data-chapter="BOOK VI." data-kind="atom" data-srclang="en"></span>
 
 And rains are wont to hold out and to last long, when many seeds of waters are stirred to action, and clouds upon clouds and rack upon rack welling forth from all quarters round about are borne along, and when the reeking earth steams moisture back again from its whole surface.
 
@@ -3102,7 +3102,7 @@ In these matters you must look far and deep and make a wide survey in all direct
 
 If you should clearly comprehend, clearly see this point well put, you would cease to wonder at many things.
 
-<span class="atom-split" data-atom="053" data-title="BOOK VI. (6/10)" data-chapter="BOOK VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="BOOK VI. (6/10)" data-chapter="BOOK VI." data-kind="atom" data-srclang="en"></span>
 
 Does any one among us wonder if he has gotten into his frame a fever that has broken out with burning heat, or into his body the pains of any other disease? The foot suddenly swells, sharp pain often seizes the teeth, or else attacks the eyes; the holy fire breaks out and creeping over the body burns whatever part it has seized upon, and spreads over the frame, because sure enough there are seeds of many things, and this earth and heaven bring to us evil enough to allow of a measureless amount of disease springing up.
 
@@ -3166,7 +3166,7 @@ And we have shown before that one thing is more adapted to one, another thing to
 
 Many which are noxious pass through the ears, many make their way too through the nostrils, dangerous and harsh when they come in contact; and not a few are to be shunned by the touch, and not a few to be avoided by the sight, and others are nauseous in taste.
 
-<span class="atom-split" data-atom="054" data-title="BOOK VI. (7/10)" data-chapter="BOOK VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="BOOK VI. (7/10)" data-chapter="BOOK VI." data-kind="atom" data-srclang="en"></span>
 
 Again you may see how many things are for man of a virulently noxious sensation and are nauseous and oppressive; to certain trees for instance has been given so very oppressive a shade that they often cause headaches when a man has lain down under them extended on the grass.
 
@@ -3240,7 +3240,7 @@ Next in order I will proceed to discuss by what law of nature it comes to pass t
 
 This stone men wonder at; as it often produces a chain of rings hanging down from it.
 
-<span class="atom-split" data-atom="055" data-title="BOOK VI. (8/10)" data-chapter="BOOK VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="BOOK VI. (8/10)" data-chapter="BOOK VI." data-kind="atom" data-srclang="en"></span>
 
 Thus you may see sometimes five and more suspended in succession and tossing about in the light airs, one always hanging down from one and attached to its lower side, and each in turn one from the other experiencing the binding power of the stone: with such a continued current its force flies through all.
 
@@ -3322,7 +3322,7 @@ I have seen Samothracian iron rings even jump up, and at the same time filings o
 
 So great a disturbance is raised by the interposition of the brass, because sure enough when the current of the brass has first seized on and taken possession of the open passages of the iron, the current of the stone comes after and finds all things full in the iron and has no opening to swim through as before.
 
-<span class="atom-split" data-atom="056" data-title="BOOK VI. (9/10)" data-chapter="BOOK VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="BOOK VI. (9/10)" data-chapter="BOOK VI." data-kind="atom" data-srclang="en"></span>
 
 [1053] It is forced therefore to dash against and beat with its wave the iron texture; by which means it repels from it and sets in motion through the brass that which without the brass it often draws to itself.
 
@@ -3404,7 +3404,7 @@ And many symptoms of death besides would then be given, the mind disordered in s
 
 The tendons of the hands ceased not to contract, the limbs to shiver, a coldness to mount with slow sure pace from the feet upward.
 
-<span class="atom-split" data-atom="057" data-title="BOOK VI. (10/10)" data-chapter="BOOK VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="BOOK VI. (10/10)" data-chapter="BOOK VI." data-kind="atom" data-srclang="en"></span>
 
 Then at their very last moments they had nostrils pinched, the tip of the nose sharp, eyes deep-sunk, temples hollow, the skin cold and hard, on the grim mouth a grin, the brow tense and swollen; and not long after their limbs would be stretched stiff in death: about the eighth day of bright sunlight or else on the ninth return of his lamp they would yield up life.
 

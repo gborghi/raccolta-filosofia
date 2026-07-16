@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/dostoyewsky_y_proust" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Dostoyewsky y Proust" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Dostoyewsky y Proust" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En tanto que otros grandes declinan, arrastrados hacia el ocaso por la misteriosa resaca de los tiempos, Dostoyewsky se ha instalado en lo más alto. Tal vez haya un poco de exceso en el fervor actual por su obra, y yo quisiera reservar mi juicio sobre ella para una hora de mayor holgura. Pero de todas suertes, no es dudoso que Dostoyewsky se ha salvado del general naufragio padecido por la novela del siglo pasado en lo que va del corriente. Y es el [caso](/concepts/fortune) que las razones emitidas casi siempre para explicar este triunfo, esta capacidad de supervivencia, me parecen erróneas. Se atribuye el interés que sus novelas suscitan a su [materia](/positions/materialism): el dramatismo misterioso de la acción, el carácter extremadamente patológico de los personajes, el exotismo de estas almas eslavas, tan diferentes en su caótica complexión de las nuestras, pulidas, aristadas y claras. No niego que todo ello colabore en el placer que nos [causa](/concepts/cause) Dostoyewsky; pero no me parece suficiente para explicarlo. Es más, cabría considerar tales ingredientes como factores negativos, más propios para enojarnos que para atraernos. Recuerde el que ha leído estas novelas que envuelta en la complacencia dejaba en él su lectura cierta impresión penosa, desapacible y como turbia.
 
@@ -44,7 +44,7 @@ En esta estratagema de despistar al lector llega Dostoyewsky a la crueldad. Porq
 
 A éste y otros artificios debe Dostoyewsky la sin par cualidad de que sus libros —mejores o peores— no parecen nunca falsos, convencionales. El lector no tropieza nunca con los bastidores del teatro, sino que, desde luego, se siente sumergido en una cuasi-realidad perfecta, siempre auténtica y eficaz. Porque la novela exige —a diferencia de otros géneros poéticos— que no se la perciba como tal novela, que no se vea el telón de boca ni las tablas del escenario. Balzac, leído hoy, nos despierta de nuestro ensueño novelesco a cada página, porque nos golpeamos contra su andamiaje de novelista. Sin embargo, la condición más importante de la estructura que Dostoyewsky proporciona a la novela es más difícil de explicar y prefiero referirme a ella posteriormente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Conviene, en cambio, hacer constar desde ahora que ese hábito de no definir, antes bien, de despistar, esa continua mutación de los caracteres, esa condensación en tiempo y lugar, en fin, esa morosidad o [tempo](/concepts/time) lento no son uso exclusivo de Dostoyewsky. Todas las novelas que aun pueden leerse hoy coinciden más o menos en su empleo. Sirva de ejemplo occidental Stendhal en todos sus libros mayores. El Rojo y Negro, que, por ser una novela biográfica, refiere algunos años de la vida de un hombre, está compuesta en forma de tres o cuatro cuadros, cada uno de los cuales se comporta en su interior como una novela entera del maestro ruso.
 

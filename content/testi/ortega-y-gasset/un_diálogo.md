@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/un_diálogo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Un diálogo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Un diálogo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor Henri Massis, autor de estas Reflexiones sobre la novela[37], ejerce la crítica literaria católica. Porque vivimos un tiempo tan extraño, que existe en él una crítica literaria católica. Una voz: «¿Y no le parece a usted que ese síntoma honra a una época?» Contestación: «No, señor». La voz: «¡Es usted un sectario!» Contestación: «¡Y usted, un majadero!» Escena vil de boxeo. Párpados amoratados; en las frentes, inusitadas protuberancias. Intervención de la Policía. Recalada en la Delegación.
 
@@ -58,7 +58,7 @@ El señor Henri Massis, autor de estas Reflexiones sobre la novela[37], ejerce l
 
 —De modo que para usted tomismo y clasicismo…
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 —Sí; con todo respeto sea dicho, y reservándome un amplio margen para juicio más detallado y formal, tomismo, clasicismo y demás específicos me parecen cosas que inventan los hombres para no trabajar. Apartémonos cortésmente, pero un poco aburridos, de las personas que nos las proponen con gesto farmacéutico. El deber del hombre no es poseer, sea como sea, soluciones, sino aceptar, sea como sea, los problemas. Y éstos son siempre los actuales, son el destino de cada generación.
 

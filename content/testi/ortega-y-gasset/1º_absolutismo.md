@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/1º_absolutismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="1.º Absolutismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="1.º Absolutismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El nervio de todo el sistema está en la idea de relatividad. Todo depende, pues, de que se entienda bien la fisonomía que este pensamiento tiene en la obra genial de Einstein. No sería falto de toda mesura afirmar que éste es el punto en que la genialidad ha insertado su divina fuerza, su aventurero empujón, su audacia [sublime](/concepts/sublime) de arcángel. Dado este punto, el resto de la teoría podía haberse encargado a la mera discreción.
 

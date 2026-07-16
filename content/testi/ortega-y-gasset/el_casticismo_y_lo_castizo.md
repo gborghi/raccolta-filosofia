@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_casticismo_y_lo_castizo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El casticismo y lo castizo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El casticismo y lo castizo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La misma distinción establecida entre poeta de lo costumbrero y escritor de costumbres tenemos que hacer entre escritor casticista y poeta de lo castizo. Me interesa esta distinción porque, llamando a Azorín poeta de lo castizo, quisiera conferirle un alto honor, y escritor casticista significa en mi léxico una forma del deshonor literario, quiero decir, una de las muchas maneras, de las infinitas maneras entre que un poeta puede elegir para no serlo.
 

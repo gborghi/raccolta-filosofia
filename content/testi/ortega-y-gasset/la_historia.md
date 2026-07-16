@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_historia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La historia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La historia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La política del señor Maura parece condensarse cada día más dentro de esta palabra: ciudadanía. Con ella se busca remedio a lo que en su opinión constituye la más grave enfermedad de nuestra raza: la «ausencia del Gobierno».
 

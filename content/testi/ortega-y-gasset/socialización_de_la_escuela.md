@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/socialización_de_la_escuela" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Socialización de la escuela" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Socialización de la escuela" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Si la sociedad es cooperación, los miembros de la sociedad tienen que ser, antes que otra cosa, trabajadores. En la sociedad no puede participar quien no trabaja. Ésta es la afirmación mediante la cual la democracia se precisa en [socialismo](/schools/historical_materialism_school). Socializar al hombre es hacer de él un trabajador en la magnífica tarea humana, en la cultura, donde cultura abarca todo, desde cavar la tierra hasta componer versos.
 

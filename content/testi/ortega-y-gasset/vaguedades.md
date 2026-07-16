@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/vaguedades" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Vaguedades" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Vaguedades" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -64,7 +64,7 @@ El día y hora en que un grupo de hombres mesurados defina un programa de reorga
 
 Ha llegado, pues, una excelente ocasión para que los verdaderos liberales se den el lujo de no aparentar serlo y vaguen a preocuparse de menesteres más urgentes y eficaces. La libertad es una forma, con lo cual es ya bastante. Pero la libertad solitaria es una forma vacía, un vaso inane. Hablar de ella a secas es un formalismo tan vano y tan estéril como encomiar una política de fuerza y autoridad. Ya se va viendo prácticamente cómo la fuerza y el autoritarismo, sin más, son otro formalismo. Nada de formas hueras. No hacen falta vasos, sino manantiales.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿La libertad ante todo?… Yo no la deseo, porque con ella sola no se hace nada. La libertad con todo, con todo lo que España necesita urgentemente, y que puede resumirse en la voluntad exaltada, gigante, jocunda de hacerse una nación fortísima y alegre.
 

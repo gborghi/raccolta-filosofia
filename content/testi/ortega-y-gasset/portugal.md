@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/portugal" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Portugal" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Portugal" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 «Anexión de Portugal. A esto se alude vagamente, amigos y correligionarios de Granada, cuando se habla por alguien de una posible intervención armada de España en la República vecina. Es una de las muchas imprudencias con que sueñan a diario los pocos, poquísimos españoles que tienen la vanidad imperialista, y que por tenerla, revelan desconocer tanto a su país como al pueblo lusitano. Doy de barato que semejante idea sea el fruto de una exaltación patriótica. No he de inferirles el agravio de suponer lo contrario. Mas habremos de convenir en que hay exaltaciones de patriotismo que, por lo que tienen de nocivas y perturbadoras, merecen la camisa de fuerza. Y ésta es una de ellas.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Van en este volumen reunidos los trabajos menos imperfectos de entre los que he publicado durante la corriente de nueve años. El primero de ellos —Las ermitas de Córdoba— es tal vez el primero que he dirigido al público desde un periódico notorio. Era en 1904: tenía yo veinte años e innumerables inquietudes. El más reciente de los artículos aquí coleccionados es de 1912.
 

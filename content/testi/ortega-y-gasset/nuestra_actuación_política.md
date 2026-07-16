@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nuestra_actuación_política" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nuestra actuación política" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nuestra actuación política" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Huelga advertir a quien sea maligno que no pretendemos hacer todo esto, sino que vamos meramente a ensayarlo de todas veras.
 

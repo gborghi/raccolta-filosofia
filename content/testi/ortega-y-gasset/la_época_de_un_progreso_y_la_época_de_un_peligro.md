@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_época_de_un_progreso_y_la_época_de_un_peligro" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La época de un progreso y la época de un peligro" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La época de un progreso y la época de un peligro" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, noviembre de 1934
 

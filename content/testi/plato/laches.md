@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/laches" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LACHES" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LACHES" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -56,7 +56,7 @@ LYSIMACHUS: That is very high praise which is accorded to you, Socrates, by fait
 
 SOCRATES: I will endeavour to advise you, Lysimachus, as far as I can in this matter, and also in every way will comply with your wishes; but as I am younger and not so experienced, I think that I ought certainly to hear first what my elders have to say, and to learn of them, and if I have anything to add, then I may venture to give my opinion to them as well as to you. Suppose, Nicias, that one or other of you begin.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 NICIAS: I have no objection, [Socrates](/figures/socrates); and my opinion is that the acquirement of this art is in many ways useful to young men. It is an advantage to them that among the favourite amusements of their leisure hours they should have one which tends to improve and not to injure their bodily health. No gymnastics could be better or harder exercise; and this, and the art of riding, are of all arts most befitting to a freeman; for they only who are thus trained in the use of arms are the athletes of our military profession, trained in that on which the conflict turns. Moreover in actual battle, when you have to fight in a line with a number of others, such an acquirement will be of some use, and will be of the greatest whenever the ranks are broken and you have to fight singly, either in pursuit, when you are attacking some one who is defending himself, or in flight, when you have to defend yourself against an assailant. Certainly he who possessed the art could not meet with any harm at the hands of a single person, or perhaps of several; and in any case he would have a great advantage. Further, this sort of skill inclines a man to the love of other noble lessons; for every man who has learned how to fight in armour will desire to learn the proper arrangement of an army, which is the sequel of the lesson: and when he has learned this, and his ambition is once fired, he will go on to learn the complete art of the general. There is no difficulty in seeing that the knowledge and practice of other military arts will be honourable and valuable to a man; and this lesson may be the beginning of them. Let me add a further advantage, which is by no means a slight one, — that this science will make any man a great deal more valiant and self-possessed in the field. And I will not disdain to mention, what by some may be thought to be a small matter; — he will make a better appearance at the right time; that is to say, at the time when his appearance will strike terror into his enemies. My opinion then, Lysimachus, is, as I say, that the youths should be instructed in this art, and for the reasons which I have given. But Laches may take a different view; and I shall be very glad to hear what he has to say.
 
@@ -80,7 +80,7 @@ SOCRATES: And for this reason, as I imagine, — because a good decision is base
 
 MELESIAS: To be sure.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Must we not then first of all ask, whether there is any one of us who has knowledge of that about which we are deliberating? If there is, let us take his advice, though he be one only, and not mind the rest; if there is not, let us seek further counsel. Is this a slight matter about which you and Lysimachus are deliberating? Are you not risking the greatest of your possessions? For children are your riches; and upon their turning out well or ill depends the whole order of their father’s house.
 
@@ -138,7 +138,7 @@ NICIAS: I see very clearly, Lysimachus, that you have only known Socrates’ fat
 
 LYSIMACHUS: Why do you say that, Nicias?
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 NICIAS: Because you seem not to be aware that any one who has an intellectual affinity to [Socrates](/figures/socrates) and enters into conversation with him is liable to be drawn into an argument; and whatever subject he may start, he will be continually carried round and round by him, until at last he finds that he has to give an account both of his present and past life; and when he is once entangled, Socrates will not let him go until he has completely and thoroughly sifted him. Now I am used to his ways; and I know that he will certainly do as I say, and also that I myself shall be the sufferer; for I am fond of his conversation, Lysimachus. And I think that there is no harm in being reminded of any wrong thing which we are, or have been, doing: he who does not fly from reproof will be sure to take more heed of his after-life; as Solon says, he will wish and desire to be learning so long as he lives, and will not think that old age of itself brings wisdom. To me, to be cross-examined by Socrates is neither unusual nor unpleasant; indeed, I knew all along that where Socrates was, the argument would soon pass from our sons to ourselves; and therefore, I say that for my part, I am quite willing to discourse with Socrates in his own manner; but you had better ask our friend Laches what his feeling may be.
 
@@ -194,7 +194,7 @@ LACHES: How flying?
 
 SOCRATES: Why, as the Scythians are said to fight, flying as well as pursuing; and as Homer says in praise of the horses of Aeneas, that they knew ‘how to pursue, and fly quickly hither and thither’; and he passes an encomium on Aeneas himself, as having a knowledge of fear or flight, and calls him ‘an author of fear or flight.’
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 LACHES: Yes, [Socrates](/figures/socrates), and there Homer is right: for he was speaking of chariots, as you were speaking of the Scythian cavalry, who have that way of fighting; but the heavy-armed Greek fights, as I say, remaining in his rank.
 
@@ -328,7 +328,7 @@ LACHES: I should like that.
 
 SOCRATES: Come then, Nicias, and do what you can to help your friends, who are tossing on the waves of argument, and at the last gasp: you see our extremity, and may save us and also settle your own opinion, if you will tell us what you think about courage.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 NICIAS: I have been thinking, [Socrates](/figures/socrates), that you and Laches are not defining courage in the right way; for you have forgotten an excellent saying which I have heard from your own lips.
 
@@ -446,7 +446,7 @@ NICIAS: Not so, Laches, but do not be alarmed; for I am quite willing to say of 
 
 LACHES: I could answer that; but I would not have you cast in my teeth that I am a haughty Aexonian.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Do not answer him, Laches; I rather fancy that you are not aware of the source from which his wisdom is derived. He has got all this from my friend Damon, and Damon is always with Prodicus, who, of all the Sophists, is considered to be the best puller to pieces of words of this sort.
 
@@ -546,7 +546,7 @@ NICIAS: To that I quite agree, if Socrates is willing to take them under his cha
 
 LYSIMACHUS: He ought, Nicias: for certainly I would do things for him which I would not do for many others. What do you say, Socrates — will you comply? And are you ready to give assistance in the improvement of the youths?
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Indeed, Lysimachus, I should be very wrong in refusing to aid in the improvement of anybody. And if I had shown in this conversation that I had a knowledge which Nicias and Laches have not, then I admit that you would be right in inviting me to perform this duty; but as we are all in the same perplexity, why should one of us be preferred to another? I certainly think that no one should; and under these circumstances, let me offer you a piece of advice (and this need not go further than ourselves). I maintain, my friends, that every one of us should seek out the best teacher whom he can find, first for ourselves, who are greatly in need of one, and then for the youth, regardless of expense or anything. But I cannot advise that we remain as we are. And if any one laughs at us for going to school at our age, I would quote to them the authority of Homer, who says, that
 

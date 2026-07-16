@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/economía_nacional" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Economía nacional" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Economía nacional" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No se debe tardar un día más en reunir un Consejo de Economía Nacional formado por técnicos nacionales, e incluso extranjeros si fuera preciso, sin otra misión por lo pronto que formar rápidamente un dictamen sobre la situación actual y próximas posibilidades de nuestra economía. España necesita un credo económico nacional cuyas grandes líneas consten en todas las conciencias españolas. Sólo de esta manera se podrá en serio exigir que todo interés particular quede supeditado al común, porque sólo así podrá ver con claridad el país entero dónde el apetito privado se excede y muerde en el beneficio general.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_el_estudiar_y_el_estudiante_primera_lección_de_un_curso" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre el estudiar y el estudiante (Primera lección de un curso)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre el estudiar y el estudiante (Primera lección de un curso)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -44,7 +44,7 @@ Hecha esta aclaración, fijémonos en cuál es la situación normal del hombre q
 
 Esto revela que aun en el mejor caso —y salvas, repito, las excepciones—, el deseo de saber que pueda sentir el buen estudiante es por completo heterogéneo, tal vez antagónico del estado de espíritu que llevó a crear el saber mismo. Y es que, en efecto, la situación del estudiante ante la ciencia es opuesta a la que ante ésta tuvo su creador. Éste no se encontró primero con ella y luego sintió la necesidad de poseerla, sino que primero sintió una necesidad vital y no científica y ella le llevó a buscar su satisfacción, y al encontrarla en unas ciertas ideas resultó que éstas eran la ciencia.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En cambio, el estudiante se encuentra, desde luego, con la ciencia ya hecha, como con una serranía que se levanta ante él y le cierra su camino vital. En el mejor [caso](/concepts/fortune), repito, la serranía de la ciencia le gusta, le atrae, le parece bonita, le promete triunfos en la vida. Pero nada de esto tiene que ver con la necesidad auténtica que lleva a crear la ciencia. La prueba de ello está en que ese deseo general de saber es incapaz de concretarse por sí mismo en el deseo estricto de un saber determinado. Aparte, repito, de que no es un deseo lo que lleva propiamente al saber, sino una necesidad. El deseo no existe si previamente no existe la cosa deseada —ya sea en la realidad, ya sea, por lo menos, en la imaginación. Lo que por completo no existe aún, no puede provocar el deseo. Nuestros deseos se disparan al contacto de lo que ya está ahí. En cambio, la necesidad auténtica existe sin que tenga que preexistir ni siquiera en la imaginación aquello que podría satisfacerla. Se necesita precisamente lo que no se tiene, lo que falta, lo que no hay, y la necesidad, el menester, son tanto más estrictamente tales cuanto menos se tenga, cuanto menos haya lo que se necesita, lo que se ha menester.
 
@@ -72,7 +72,7 @@ Cuando se dice, pues, que la curiosidad nos lleva a la ciencia, una de dos, o no
 
 Estas objeciones son, por tanto, vanas. No andemos con idealizaciones de la áspera realidad, con beaterías que nos inducen a debilitar, esfumar, endulzar los problemas, a ponerles bolas en los cuernos. El hecho es que el estudiante tipo es un hombre que no siente directa necesidad de la ciencia, preocupación por ella y, sin embargo, se ve forzado a ocuparse de ella. Esto significa ya la falsedad general del estudiar. Pero luego viene la concreción, casi perversa por lo minuciosa, de esa falsedad —porque no se obliga al estudiante a estudiar en general, sino que éste se encuentra, quiera o no, con el estudio disociado en carreras especiales y la carrera constituida por disciplinas singulares, por la ciencia tal o la ciencia cual. ¿Quién va a pretender que el joven sienta efectiva necesidad, en un cierto año de su vida, por tal ciencia que a los hombres antecesores les vino en gana inventar?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Así, de lo que fue una necesidad tan auténtica y vivaz que a ella dedicaron su vida íntegra unos hombres —los creadores de la ciencia—, se hace una necesidad muerta y un falso hacer. No nos hagamos ilusiones; en ese estado de espíritu no se puede llegar a saber el saber humano. Estudiar es, pues, algo constitutivamente contradictorio y falso. El estudiante es una falsificación del hombre. Porque el hombre es propiamente sólo lo que es auténticamente por íntima e inexorable necesidad. Ser hombre no es ser, o, lo que es igual, no es hacer cualquier cosa, sino ser lo que irremediablemente se es. Y hay los modos más distintos entre sí de ser hombre, y todos ellos igualmente auténticos. El hombre puede ser hombre de ciencia y hombre de negocios u hombre político u hombre religioso, porque todas estas cosas son, como veremos, necesidades constitutivas e inmediatas de la condición humana. Pero el hombre por sí mismo no sería nunca estudiante, como el hombre por sí mismo no sería nunca contribuyente. Tiene que pagar contribuciones, tiene que estudiar, pero no es ni contribuyente ni estudiante. Ser estudiante, como ser contribuyente, es algo «artificial» que el hombre se ve obligado a ser.
 

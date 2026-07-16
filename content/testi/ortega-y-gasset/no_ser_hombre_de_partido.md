@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/no_ser_hombre_de_partido" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="No ser hombre de partido" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="No ser hombre de partido" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -38,7 +38,7 @@ El «yo» del lector es, por lo pronto, un proyecto de vida. Pero no se trata de
 
 Somos nuestro Destino, somos proyecto irremediable de una cierta existencia. En cada instante de la vida notamos si su realidad coincide o no con nuestro proyecto, y todo lo que hacemos lo hacemos para darle cumplimiento. Porque así como ese proyecto que somos no consiste en un plan libérrimamente dibujado por nuestra fantasía, tampoco se halla ahí, como éste, atenido a nuestro buen deseo de cumplirlo o no. Lejos de esto, es un proyecto que por sí mismo se proyecta sobre nuestra vida, que la oprime rigorosamente porque impone su ejecución. Por eso decía yo antes: el lector es el que tiene que vivir una cierta vida.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pero la vida no es sólo nuestro «yo», sino que es también el mundo en que ese yo tiene que realizarse. El proyecto es un programa de actuación en el mundo y tropieza, por lo tanto, con lo que éste sea. Más o menos, siempre hallará dificultades. Y aquí aparece la otra dimensión de nuestro yo. ¿Aceptamos ese proyecto que somos no obstante las dificultades que se oponen a su ejecución? O, por el contrario, ¿decidimos en éste, en el otro [caso](/concepts/fortune), traicionar al que tenemos que ser, renunciando a soportar los enojos que nos traiga? Es decir, que si somos un proyecto vital, somos también, inseparablemente, el que decide o no su aceptación. Esta decisión es previa a todo acto de voluntad. Hay quien inequívocamente acepta su destino, su ser, pero se encuentra mal dotado de voluntad. Yo decido no fumar porque perjudica mi salud y estorba mi trabajo, que es mi destino. Mi decisión es plena y auténtica. Sin embargo, sigo fumando porque mi voluntad es débil. Nuestro idioma habla muy agudamente del hombre «decidido», que es cosa muy distinta del hombre dotado con fuerte voluntad. El «decidido» es el que está, desde luego e íntegramente, puesto a su destino, que lo ha aceptado, que desde siempre y para siempre está encajado en él. Hállase, pues, por completo al servicio de aquél que tiene que ser.
 
@@ -64,7 +64,7 @@ Cualesquiera sean los antecedentes y gérmenes de ella[72], parece cierto que ha
 
 Sin duda, la lucha intestina es un hecho frecuentísimo a lo largo del pasado humano. Por lo mismo sorprende ver la diferente reacción ante él de unas y otras épocas. Las anteriores lo interpretaban como una desdicha y, en consecuencia, como algo anómalo y accidental. El siglo XIX, por el contrario, alardea de no hacerse ilusiones, de tomar la realidad según ella es. Pero esto lo lleva primero a un prurito pesimista. Del accidente desdichado hará la substancia misma. La sociedad será en su propia esencia lucha y nada más que lucha. Convivir es pelear —franca o artificiosamente. Parejamente, los psicólogos de entonces intentaban convencernos de que la percepción del mundo exterior consistía en una alucinación consuetudinaria. En vista de que a menudo erramos, consideraban la verdad como un error habitual. Y así en todo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 A este pesimismo en la concepción de la realidad siguió un cinismo similar en la moral. Puesto que la vida social es constitutivamente lucha —se dijo—, dediquémonos todos de manera concienzuda a luchar. Neguemos el derecho de hacer otra cosa. Y como la lucha necesita de grupos beligerantes, hagamos de éstos la forma sustantiva de existencia humana. Lo más importante del mundo será el partido, la organización sobreindividual para el combate. Los individuos no interesan, porque mueren, y es preciso perpetuar los partidos. Todo hombre será miembro de algún partido, y sus ideas y sentimientos serán partidistas. Nada de ajustarse a la verdad, al buen sentido, a lo justo y a lo oportuno. No hay una verdad ni una justicia; hay sólo lo que al partido convenga, y ésa será la verdad y la justicia —se entiende que habrá otras tantas cuantos partidos haya.
 

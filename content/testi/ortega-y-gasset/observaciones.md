@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/observaciones" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Observaciones" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Observaciones" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Bajo el título «Costa, rectificado», leo en el Heraldo, del viernes, 10, unos párrafos de don Julio Cejador, dentro de los cuales vienen algunas piedras para mi tejado. Séame permitido, puesto que se trata de la grande cuestión española, recoger esas piedras y ordenar con ellas una pequeña construcción.
 
@@ -44,7 +44,7 @@ Así fue suscitada aquella grandiosa labor de filólogos, de historiadores, de j
 
 A excepción de los krausistas, tomaron los españoles, sin meditarlos, como quien los compra en la botica, los dogmas de esa filosofía extranjera, y más o menos conscientemente se dejaron impregnar de su sustancia. Hace poco, con la malignidad que le es nativa, nos mostraba Ramón Pérez de Ayala un ejemplar de la Estética de Hegel, en cuyas márgenes había dejado Cánovas unos cuantos gestos poco decentes.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Jurista y filólogo, como hombre científico; oriundo, como hombre instintivo, de una comarca española que conserva más acusados que otra alguna ciertos rasgos irreductibles de la raza, Costa se saturó de la atmósfera historicista, de los dogmas románticos, y dejando ir su corazón y su cerebro hacia donde naturalmente tendían, dedicó su vida austera y solícita al estudio del pueblo español, de las masas irracionales hispánicas. Conforme con los principios extranjeros, que sin detenerse a discutirlos había aceptado, pensaba que cada Pueblo tiene su misión histórica, su carácter metafísico irrompible y su absoluta justificación. Porque ha de notarse que aquel amor hacia lo peculiar, sugerido por el hegelianismo, degeneró en un [empirismo](/positions/empiricism) histórico que se afanaba exclusivamente por dotar a lo transitorio e individual de una importancia eterna.
 

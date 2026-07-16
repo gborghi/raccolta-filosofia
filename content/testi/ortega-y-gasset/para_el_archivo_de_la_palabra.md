@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_el_archivo_de_la_palabra" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para el «Archivo de la palabra»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Para el «Archivo de la palabra»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 [El Centro de Estudios Históricos registró varios discos con la palabra de las personalidades sobresalientes del mundo literario y científico español. He aquí el disco impresionado por José Ortega y Gasset:]
 

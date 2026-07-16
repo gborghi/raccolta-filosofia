@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_tablero_de_marruecos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El tablero de Marruecos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El tablero de Marruecos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, agosto de 1912
 
@@ -42,7 +42,7 @@ Lo que sí se sabe es que si España acierta a satisfacer las necesidades mercan
 
 Otras consideraciones primarias saltan a la vista. Una de ellas es la que, así en Francia como en España, la intervención en Marruecos ha de modificar esencialmente las condiciones de la política. ¿Cómo prescindir ya de los compromisos contraídos y de la acción comenzada? Su cumplimiento y su desarrollo exigirán de momento gastos cuantiosos y recios contingentes militares y constituirán una preocupación constante de los gobernantes. Y esto ocurre precisamente cuando radicales, socialistas y sindicalistas, se oponen con energía amenazadora a toda empresa militar y a todo esfuerzo de irradiación del poder del Estado. Bastará apuntarlo para que quede señalada la causa de las futuras contradicciones que en Francia y en España van a surgir con motivo del ejercicio del protectorado que acaba de establecerse.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Un poderoso elemento de acción puede tener España en Marruecos, el elemento judío. Habrá en el Imperio unos cien mil israelitas, raza oprimida, envilecida y despreciada, pero que como consigna un viajero de reconocida autoridad ejerce una influencia social grandísima, gracias a su arte singularísimo para juntar dinero. La situación es muy parecida a la que en Europa tuvieron durante la Edad Media. El judío no puede entrar en un santuario: al pasar por delante de uno de estos edificios, o de una mezquita, o de la casa de un magnate debe descalzarse; no le es permitido montar en caballo, ni en mula, sino en asno; ha de vestir de negro o de morado; vivir barrio aparte; pagar impuesto especial si viaja. En cambio, el labrador, el comerciante, el empleado, el cherife, el magzen, el sultán mismo están sujetos al judío que les presta dinero y es el siervo de la vida económica del marroquí. En los últimos tiempos su condición ha mejorado algo por el desarrollo de la industria y por la protección europea, pero aún se ve amenazado del saqueo y de la matanza, cuando se quiebra el débil muro que allí separa el orden de la anarquía. Digno de leerse es el libro que el francés Foucauld, sobre los israelitas del Mogreb. Foucauld vivió diez años entre ellos, acompañado del rabino Mardoqueo Serour y penetró en los miserables Melás y en el secreto de aquellas viviendas malolientes, donde la sórdida avaricia tiene encerrado en misteriosos nidos el arca llena de oro de los cuentos románticos. Casi todos los judíos de Marruecos hablan el español y éste es el idioma de sus hogares. Y no sólo lo hablan ellos, sino que se lo enseñan y aun se lo imponen, con la autoridad que tiene en el tráfago mercantil el que cambia monedas por especias, a los moros y a los árabes. Así en la costa y en sus zocos, el español puede negociar sin intérprete, y esto le da una superioridad extraordinaria sobre franceses e ingleses. El ya citado Foucauld dice: «Independiente de lo que en el futuro decida la fuerza de las armas o de la diplomacia, España tendrá siempre en Marruecos medios poderosos de propaganda mercantil, porque los judíos conservan el idioma de Castilla, convirtiéndolo en instrumento indispensable para la comunicación y para el trato».
 
@@ -72,7 +72,7 @@ Una curiosa anécdota nos ofrecen las crónicas que puede encerrar un símbolo d
 
 —Si yo no los poseo, mis nietos los poseerán.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Y así fue, porque en 1542, el ejército del conde de Alcaudete ganó a Tremecén y puso en posesión del hijo de Fernán Pérez los dos molinos que allí había con los que se creó allí un centro agrícola y un caserío, eje de la riqueza agraria de la comarca, que han venido gozando los herederos de aquella noble estirpe hasta nuestros días en que los vendieron a la Compañía Rural Argelina.
 

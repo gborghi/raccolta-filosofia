@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_manera_grande" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La manera grande" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La manera grande" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señores, hay en la evolución del espíritu europeo un instante todavía muy poco estudiado y, sin embargo, de grandísimo interés. Es una hora en que el alma continental debió sufrir uno de esos terribles dramas íntimos que, a pesar de su gravedad y del agudo dolor que ocasionan, sólo por medios indirectos se manifiestan. Esa hora coincide con la edificación del Escorial. En la mitad del siglo XVI da sus frutas mejor madurecidas el Renacimiento. Ya sabéis lo que es el Renacimiento: la alegría de vivir, una jornada de plenitud. Se aparece a los hombres el mundo de nuevo como un paraíso. Hay una perfecta coincidencia entre las aspiraciones y las realidades. Notad que la amargura nace siempre de la desproporción entre lo que anhelamos y lo que conseguimos.
 

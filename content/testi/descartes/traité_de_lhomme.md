@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/descartes/traité_de_lhomme" data-philosopher="Descartes"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="TRAITÉ DE L’HOMME" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="TRAITÉ DE L’HOMME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Première partie
 
@@ -49,7 +49,7 @@ Et ainsi vous voyez que la respiration, qui sert seulement en cette machine à y
 
 Le pouls, ou battement des artères, dépend des onze petites peaux qui, comme autant de petites portes, ferment et ouvrent les entrées des quatre vaisseaux qui regardent dans les deux concavités du cœur ; car au moment qu’un de ces battements cesse, et qu’un autre est près de commencer, celles de ces petites portes qui sont aux entrées des deux artères se trouvent exactement fermées, et celles qui sont aux entrées des deux veines se trouvent ouvertes ; si bien qu’il ne peut manquer de tomber aussitôt deux gouttes de sang par ces deux veines, une dans chaque concavité du cœur. Puis ces gouttes de sang se raréfiant, et s’étendant tout d’un coup dans un espace plus grand sans comparaison que celui qu’elles occupaient auparavant, poussent et ferment ces petites portes qui sont aux entrées des deux veines, empêchant par ce moyen qu’il ne descende davantage de sang dans le cœur, et poussent et ouvrent celles des deux artères, par où elles entrent promptement et avec effort, faisant ainsi enfler le cœur et toutes les artères du corps en même temps. Mais, incontinent après, ce sang raréfié se condense derechef, où pénètre dans les autres parties ; et ainsi le cœur et les artères se désenflent, les petites portes qui sont aux deux entrées des artères se referment, et celles qui sont aux entrées des deux veines se rouvrent, et donnent passage à deux autres gouttes de sang, qui font derechef enfler le cœur et les artères, tout de même que les précédentes.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Sachant ainsi la cause du pouls, il est aisé à entendre que ce n’est pas tant le sang contenu dans les veines de cette machine, et qui vient nouvellement de son foie, comme celui qui est dans ses artères, et qui a déjà été distillé dans son cœur, qui se peut attacher à ses autres parties et servir à réparer ce que leur agitation continuelle et les diverses actions des autres corps qui les environnent en détachent et font sortir. Car le sang qui est dans ses veines s’écoule toujours peu à peu de leurs extrémités vers le cœur (et la disposition de certaines petites portes, ou valvules, que les anatomistes ont remarquées en plusieurs endroits le long de nos veines vous doit assez persuader qu’il arrive en nous tout le semblable) ; mais au contraire celui qui est dans ses artères est poussé hors du cœur avec effort, et à diverses petites secousses, vers leurs extrémités ; en sorte qu’il peut facilement s’aller joindre et unir à tous ses membres, et ainsi les entretenir, ou même les faire croître, si elle représente le corps d’un homme qui y soit disposé.
 
@@ -77,7 +77,7 @@ Seconde partie
 
 COMMENT SE MEUT LA MACHINE DE SON CORPS
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Or, à mesure que ces esprits entrent ainsi dans les concavités du cerveau, ils passent de là dans les pores de sa substance, et de ces pores dans les nerfs ; où selon qu’ils entrent, ou même seulement qu’ils tendent à entrer plus ou moins dans les uns que dans les autres, ils ont la force de changer la figure des muscles en qui ses nerfs sont insérés, et par ce moyen de faire mouvoir tous les membres. Ainsi que vous pouvez avoir vu dans les grottes et les fontaines qui sont aux jardins de nos rois, que la seule force dont l’eau se meut en sortant de sa source est suffisante pour y mouvoir diverses machines, et même pour les y faire jouer de quelques instruments, ou prononcer quelques paroles, selon la diverse disposition des tuyaux qui la conduisent.
 
@@ -97,7 +97,7 @@ Enfin, voyez qu’entre les deux tuyaux bf, ef, il y a une certaine petite peau 
 
 Ensuite de quoi il est aisé à entendre que si les esprits animaux qui sont dans le cerveau ne tendent point, ou presque point, à couler par les tuyaux bf, cg, les deux petites peaux ou valvules f et g demeurent entrouvertes, et ainsi que les deux muscles D et E sont lâches et sans action ; d’autant que les esprits animaux qu’ils contiennent passent librement de l’un dans l’autre, prenant leur cours d’e par f vers d, et réciproquement de d par g vers e. Mais si les esprits qui sont dans le cerceau tendent d’entrer avec quelque force dans les deux tuyaux bf, cg, et que cette force soit égale des deux côtés, ils ferment aussitôt les deux passages g et f, et enflent les deux muscles D et E autant qu’ils peuvent, leur faisant par ce moyen tenir et arrêter l’œil ferme en la situation qu’ils le trouvent.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Puis si ces esprits qui viennent du cerveau tendent à couler avec plus de force par bf que par cg, ils ferment la petite peau g, et ouvrent f, et ce plus ou moins, selon qu’ils agissent plus ou moins fort ; au moyen de quoi les esprits contenus dans le muscle vont rendre dans le muscle D, par le canal ef ; et ce plus ou moins vite, selon que la peau f est plus ou moins ouverte ; si bien que le muscle D, d’où ces esprits ne peuvent sortir, s’accourcit, et E se rallonge ; et ainsi l’œil est tourné vers E. Comme au contraire, si les esprits qui sont dans le cerveau tendent à couler avec plus de force par cg que par bf, ils ferment la petite peau f, et ouvrent g ; en sorte que les esprits du muscle D retournent aussitôt par le canal dg dans le muscle E, qui par ce moyen s’accourcit, et retire l’œil de son côté.
 
@@ -123,7 +123,7 @@ Pour entendre après Cela comment elle peut être incitée par les objets extér
 
 Comme, par exemple, si le feu A se trouve proche du pied B, les petites parties de ce feu, qui se meuvent, comme vous savez, très promptement, ont la force de mouvoir avec soi l’endroit de la peau de ce pied, qu’elles touchent ; et, par ce moyen, tirant le petit filet cc, que vous voyez y être attaché, elles ouvrent au même instant l’entrée du pore de, contre lequel ce petit filet se termine, ainsi que, tirant l’un des bouts d’une corde, on fait sonner en même temps la cloche qui pend à l’autre bout.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Or l’entrée du pore ou petit conduit de étant ainsi ouverte, les esprits animaux de la concavité F entrent dedans, et sont portés par lui, partie dans les muscles qui servent à retirer ce pied de ce feu, partie dans ceux qui servent à tourner les yeux et la tête pour le regarder, et partie en ceux qui servent à avancer les mains et à plier tout le corps pour y apporter du secours.
 
@@ -159,7 +159,7 @@ Car, pour celles qui agissent trop ou trop peu, comme elles ne sauraient faire s
 
 Et ceci est si généralement vrai, que souvent, il mesure que le tempérament de l’estomac se change, la force du goût se change aussi ; en sorte qu’une viande qui aura coutume de sembler à l’âme agréable au goût, lui pourra même quelquefois sembler fade ou amère : dont la raison est que la sauve qui vient de l’estomac, et qui retient toujours les qualités de l’humeur qui y abonde, se mêle avec les petites parties des viandes qui sont dans la bouche et contribue beaucoup à leur action.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Le sens de l’odorat dépend aussi de plusieurs petits filets qui s’avancent de la base du cerveau vers le nez, au-dessous de ces deux petites parties toutes creuses que les anatomistes ont comparées aux bouts des mamelles d’une femme, et qui ne diffèrent en rien des nerfs qui servent à l’attouchement et au goût, sinon qu’ils ne sortent point hors de la concavité de la tête qui contient tout le cerveau, et qu’ils peuvent être mus par des parties terrestres encore plus petites que les nerfs de la langue, tant à cause qu’ils sont un peu plus déliés, comme aussi à cause qu’ils sont plus immédiatement touchés par les objets qui les meuvent.
 
@@ -185,7 +185,7 @@ En la première peau la partie BC B est transparente et un peu plus voûtée que
 
 La figure de l’humeur marquée L, qu’on nomme l’humeur cristalline, est semblable à celle de ces verres que j’ai décrits au traité de la Dioptrique, par le moyen desquels tous les rayons qui viennent d’un certain point se rassemblent à Un autre certain point, et sa matière est moins molle ou plus ferme, et cause par conséquent une plus grande réfraction que celle des deux autres humeurs qui l’environnent.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 E, N sont de petits filets noirs, qui viennent du dedans de la peau D, E, F, et qui embrassent tout autour cette humeur cristalline, qui sont comme autant de petits tendons par le moyen desquels sa figure se peut changer, et se rendre un peu plus plate, ou plus voûtée, selon qu’il est de besoin. Enfin oo sont six ou sept muscles attachés à l’œil par dehors, et qui le peuvent mouvoir très facilement et très promptement de tous côtés.
 
@@ -209,7 +209,7 @@ La petitesse de la prunelle sert aussi à rendre la vision plus distincte ; car
 
 De là vient aussi que l’âme ne pourra jamais voir très distinctement qu’un seul point de l’objet à chaque fois, savoir celui vers lequel toutes les parties de l’œil seront dressées pour lors, et que les autres lui paraîtront d’autant plus confus qu’ils seront plus éloignés de celui-ci : car, par exemple, si les rayons du point R s’assemblent tous exactement au point S, ceux du point X s’assembleront encore moins exactement vers Y que ceux du point T ne s’assembleront vers Y ; et il faut juger ainsi des autres, à mesure qu’ils sont plus éloignés du point R. Mais les muscles o, tournant l’œil très promptement de tous côtés, servent à suppléer à ce défaut : car ils peuvent en moins de rien l’appliquer successivement à tous les points de l’objet, et ainsi faire que l’âme les puisse voir tous distinctement l’un après l’autre.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Je n’ajoute pas ici particulièrement ce que c’est qui pourra donner occasion à cette âme de concevoir toutes les différences des couleurs, car j’en ai déjà assez parlé ci-dessus ; et je ne dis pas aussi quels objets de la vue lui doivent être agréables ou désagréables ; car, de ce que j’ai expliqué des autres sens, il vous est facile à entendre que la lumière trop forte doit offenser les yeux, et que la modérée les doit recréer, et qu’entre les couleurs, la verte, qui consiste en l’action la plus modérée (qu’on peut nommer par analogie la proportion d’un à deux), est comme l’octave entre les consonances de la musique, ou le pain entre les viandes que l’on mange, c’est-à-dire celle qui est le plus universellement agréable ; et enfin que toutes ces diverses couleurs de la mode, qui récréent souvent plus que le vert, sont comme les accords et les passages d’un air nouveau, touché par quelque excellent joueur de luth, ou les ragoûts d’un bon cuisinier, qui chatouillent bien davantage le sens, et lui font sentir d’abord plus de plaisir, mais aussi qui le lassent beaucoup plus tôt que ne font les objets simples et ordinaires.
 
@@ -237,7 +237,7 @@ Quatrième partie
 
 DES SENS INTÉRIEURS QUI SE TROUVENT EN CETTE MACHINE
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Lorsque les liqueurs que j’ai dit ci-dessus servir comme d’eau-forte dans son estomac, et y entrer sans cesse de toute la masse du sang par les extrémités des artères, n’y trouvent pas assez de viandes à dissoudre pour occuper toute leur force, elles la tournent contre l’estomac même, et, agitant les petits filets de ses nerfs plus fort que de coutume, font mouvoir les parties du cerveau d’où ils viennent ; ce qui sera cause que l’âme, étant unie à cette machine, concevra l’idée générale de la faim. Et si ces liqueurs sont disposées à employer plutôt leur action contre certaines viandes particulières que contre d’autres, ainsi que l’eau-forte commune dissout plus aisément les métaux que la cire, elles agiront aussi d’une façon particulière contre les nerfs de l’estomac, laquelle sera cause que l’âme concevra pour lors l’appétit de manger de certaines viandes plutôt que d’autres.
 
@@ -263,7 +263,7 @@ L’air de la respiration se mêlant aussi en quelque façon avec le sang avant 
 
 Lorsque le foie est bien disposé, et qu’il élabore parfaitement le sang qui doit aller dans le cœur, les esprits qui sortent de ce sang en sont d’autant plus abondants et plus également agités ; et s’il arrive que le foie soit pressé par ses nerfs, les plus subtiles parties du sang qu’il contient montant incontinent vers le cœur, produiront aussi des esprits plus abondants et plus vifs que de coutume, mais non pas si également agités.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Si le fiel, qui est destiné à purger le sang de celles de ses parties qui sont les plus propres de toutes à être embrasées dans le cœur, manque à faire son devoir, ou qu’étant resserré par son nerf la matière qu’il contient regorge dans les veines, les esprits en seront d’autant plus vifs, et avec cela plus inégalement agités.
 
@@ -299,7 +299,7 @@ Mais, avant que je vous parle plus particulièrement du sommeil et des songes, i
 
 Vous pouvez voir, en la figure marquée M, que les esprits qui sortent de la glande H, ayant dilaté la partie du cerveau marquée A, et entrouvert tous ses pores, coulent de là vers B, puis vers C, et enfin vers D, d’où ils se répandent dans tous ses nerfs, et tiennent par ce moyen tous les petits filets dont ces nerfs et le cerveau sont composés tellement tendus que les actions qui ont tant soit peu la force de les mouvoir se communiquent facilement de l’une de leurs extrémités jusqu’à l’autre, sans que les détours des chemins par où ils passent les en empêchent.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mais, afin que ces détours ne vous empêchent pas aussi de voir clairement comment cela sert à former les idées des objets qui frappent les sens, regardez en la figure ci-jointe les petits filets 12, 34, 56, et semblables, qui composent le nerf optique, et sont étendus depuis Je fond de l’œil 1, 3, 5 jusqu’à la superficie intérieure du cerveau 2, 4, 6, et pensez que ces filets sont tellement disposés que si les rayons qui viennent, par exemple, du point A de l’objet vont presser le fond de l’œil au point 1, ils tirent par ce moyen tout le filet 12, et augmentent l’ouverture du petit tuyau marqué 2, et tout de même que les rayons qui viennent du point B augmentent l’ouverture du petit tuyau 4, et ainsi des autres ; en sorte que, comme les diverses façons dont les points 1, 3, 5 sont pressés par ces rayons tracent dans le fond de l’œil une figure qui se rapporte à celle de l’objet ABC, ainsi qu’il a été dit ci-dessus, il est évident que les diverses façons dont les petits tuyaux 2, 4, 6 sont ouverts par les filets 12, 34, 56, etc., la doivent aussi tracer en la superficie intérieure du cerveau.
 
@@ -323,7 +323,7 @@ Considérez, outre cela, que la glande H est composée d’une matière qui est 
 
 Or il y a deux causes principales, sans compter la force de l’âme, que je mettrai ci-après, qui la peuvent ainsi faire mouvoir, et qu’il faut ici que je vous explique.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 La première est la différence qui se rencontre entre les petites parties des esprits qui sortent d’elle : car, si tous ces esprits étaient exactement d’égale force, et qu’il n’y eût aucune autre cause qui la déterminât à se pencher ni çà ni là, ils couleraient également dans tous ses pores et la soutiendraient toute droite et immobile au centre de la tête, ainsi qu’elle est représentée en la figure 40.
 
@@ -345,7 +345,7 @@ Mais, si plusieurs diverses figures se trouvent tracées en ce même endroit du 
 
 Mais l’effet de la mémoire qui me semble ici le plus digne d’être considéré consiste en ce que, sans qu’il y ait aucune âme dans cette machine, elle peut naturellement être disposée à imiter tous les mouvements que de vrais hommes, ou bien d’autres semblables machines, feront en sa présence.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 La seconde cause qui peut déterminer les mouvements de la glande H est l’action des objets qui touchent les sens ; car il est aisé à entendre que l’ouverture des petits tuyaux 2, 4, 6, par exemple, étant élargie par l’action de l’objet ABC, les esprits qui commencent aussitôt à couler vers eux plus librement et plus vite qu’ils ne faisaient, attirent après soi quelque peu cette glande, et font qu’elle se penche, si elle n’en est d’ailleurs empêchée ; et, changeant la disposition de ses pores, elle commence à conduire beaucoup plus grande quantité d’esprits par a, b, c vers 2, 4, 6 qu’elle ne faisait auparavant, ce qui rend l’idée que forment ces esprits d’autant plus parfaite ; et c’est en quoi consiste le premier effet, que je désire que vous remarquiez.
 
@@ -367,7 +367,7 @@ Achevons maintenant de conduire les esprits jusqu’aux nerfs, et voyons les mou
 
 Mais s’il y a quelques-uns des tuyaux qui soient plus ou moins ouverts, ou seulement ouverts de quelque autre façon que leurs voisins, par l’action des objets qui meuvent les sens, les petits filets qui composent la substance du cerveau étant ensuite un peu plus tendus ou plus lâches les uns que les autres, conduiront les esprits vers certains endroits de sa base, et de là vers certains nerfs, avec plus ou moins de force que vers les autres ; ce qui suffira pour causer divers mouvements dans les muscles, suivant ce qui a été ci-dessus amplement expliqué.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Or, d’autant que je veux vous faire concevoir ces mouvements, semblables à ceux auxquels nous sommes naturellement incités par les diverses actions des objets qui meuvent nos sens, je désire ici que vous considériez six diverses sortes de circonstances dont ils peuvent dépendre : la première est le lieu d’où procède l’action qui ouvre quelques-uns des petits tuyaux par où entrent premièrement les esprits ; la seconde consiste en la force et en toutes les autres qualités de cette action ; la troisième, en la disposition des petits filets qui composent la substance du cerveau ; la quatrième, en l’inégale force que peuvent avoir les petites parties des esprits ; la cinquième, en la diverse situation des membres extérieurs ; et la sixième, en la rencontre de plusieurs actions qui meuvent les sens en même temps.
 
@@ -385,7 +385,7 @@ Quant aux autres mouvements extérieurs, qui ne servent point à éviter le mal 
 
 Mais je ne vous ai pas encore fait voir comment les diverses qualités des esprits peuvent avoir la force de changer la détermination de leur cours ; ce qui arrive principalement lorsque d’ailleurs ils ne sont que fort peu ou point du tout déterminés. Comme si les nerfs de l’estomac sont agités en la façon que j’ai dit ci-dessus qu’ils doivent être pour causer le sentiment de la faim, et que cependant il ne se présente rien à aucun sens, ni à la mémoire, qui paraisse propre à être mangé, les esprits que cette action fera entrer par les tuyaux 8 dans le cerveau s’iront rendre en un endroit, où ils trouveront plusieurs pores disposés à les conduire indifféremment en tous les nerfs qui peuvent servir à la recherche ou à la poursuite de quelque objet ; en sorte qu’il n’y aura que la seule inégalité de leurs parties qui puisse être cause qu’ils prennent leur cours plutôt par les uns que par les autres.
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Et s’il arrive que les plus fortes de ces parties soient maintenant celles qui tendent à couler vers certains nerfs, puis incontinent après que ce soient celles qui tendent vers leurs contraires, cela fera imiter à cette machine les mouvements qui se voient en nous lorsque nous hésitons, et sommes en doute de quelque chose.
 
@@ -403,7 +403,7 @@ Au reste, pendant le sommeil, la substance du cerveau qui est en repos a le lois
 
 Je ne m’arrêterai pas à vous dire comment le bruit et la douleur, et les autres actions qui meuvent avec beaucoup de force les parties intérieures de son cerveau par l’entremise des organes de ses sens ; et comment la joie et la colère, et les autres passions qui agitent beaucoup ses esprits ; et comment la sécheresse de l’air, qui rend son sang plus subtil, et choses semblables, la peuvent empêcher de dormir ; ni comment, au contraire, le silence, la tristesse, l’humidité de l’air, et choses semblables, l’y invitent ; ni comment une grande perte de sang, le trop jeûner, le trop boire, et autres tels excès, qui ont en soi quelque chose qui augmente et quelque chose qui diminue la force de ses esprits, peuvent, selon ses divers tempéraments, la faire ou trop veiller ou trop dormir ; ni comment par l’excès de la veille son cerveau se peut affaiblir, et par l’excès du sommeil s’appesantir, et ainsi devenir semblable à celui d’un homme insensé, ou d’un stupide ; ni une infinité d’autres telles choses, d’autant qu’elles me semblent pouvoir toutes assez facilement être déduites de celles que j’ai ici expliquées.
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Or, avant que je passe à la description de l’âme raisonnable, je désire encore que vous fassiez un peu de réflexion sur tout ce que je viens de dire de cette machine, et que vous considériez premièrement que je n’ai supposé en elle aucuns organes ni aucuns ressorts qui ne soient tels qu’on se peut très aisément persuader qu’il y en a de tout semblables tant en nous que même aussi en plusieurs animaux sans raison. Car, pour ceux qui peuvent être clairement aperçus de la vue, les anatomistes les y ont déjà tous remarqués ; et quant à ce que j’ai dit de la façon que les artères apportent les esprits au dedans de la tête, et de la différence qui est entre la superficie intérieure du cerveau et le milieu de sa substance, ils en pourront aussi voir à l’œil assez d’indices pour n’en pouvoir douter, s’ils y regardent un peu de près. Ils ne pourront non plus douter de ces petites portes ou valvules que j’ai mises dans les nerfs aux entrées de chaque muscle, s’ils prennent garde que la nature en a formé généralement en tous les endroits de nos corps par où il entre d’ordinaire quelque matière qui peut tendre à en ressortir, comme aux entrées du cœur, du fiel, de la gorge, des plus larges boyaux, et aux principales divisions de toutes les veines. Ils ne sauraient aussi rien imaginer de plus vraisemblable touchant le cerveau, que de dire qu’il est composé de plusieurs petits filets diversement entrelacés, vu que toutes les peaux et toutes les chairs paraissent ainsi composées de plusieurs fibres ou filets, et qu’on remarque le même en toutes les plantes, en sorte que c’est une propriété qui semble commune à tous les corps qui peuvent croître et se nourrir par l’union et la jonction des petites parties des autres corps. Enfin, pour le reste des choses que j’ai supposées, et qui ne peuvent être aperçues par aucun sens, elles sont toutes si simples et si communes, et même en si petit nombre, que si vous les comparez avec la diverse composition et le merveilleux artifice qui paraît en la structure des organes qui sont visibles, vous aurez bien plus de sujet de penser que j’en ai omis plusieurs qui sont en nous, que non pas que j’en aie supposé aucune qui n’y soit point ; et sachant que la nature agit toujours par les moyens qui sont les plus faciles de tous et les plus simples, vous ne jugerez peut-être pas qu’il soit possible d’en trouver de plus semblables à ceux dont elle se sert que ceux qui sont ici proposés.
 

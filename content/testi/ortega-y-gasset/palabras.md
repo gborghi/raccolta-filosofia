@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/palabras" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Palabras" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Palabras" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Amigo Azorín: Esta fiesta tan sencilla, que a usted dedicamos, tiene, como los ensueños, varios sentidos. El más complejo y trascendente preferiríamos que usted mismo se encargara de interpretarlo. El más sencillo y próximo no es, sin embargo, el de menos importancia moral, y consiste en que nos hemos juntado aquí unas cuantas gentes dispuestas a otorgar con fruición el santo [sacramento](/concepts/sacrament) del aplauso. No es frecuente en nuestra patria, donde tanto se aplaude, la pura voluntad del aplauso. Dedícase éste con largueza al político influyente, y entonces el aplauso significa, a la verdad, un acto de postulación inferior o un gesto de odio que hacen nuestros instintos contra el enemigo. Otras veces se aplaude a las glorias nacionales: tampoco son éstos puros aplausos. En las llamadas glorias nacionales solemos aplaudirnos un poco cada cual a sí mismo.
 

@@ -18,13 +18,13 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/vision_de_pierre_de_la_montagne" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="VISION DE PIERRE DE LA MONTAGNE" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="VISION DE PIERRE DE LA MONTAGNE" data-chapter="(apertura)" data-kind="intro" data-srclang="fr"></span>
 
 Chapitre I
 
 1. Et j'étais dans mon pré, fauchant mon regain, et il faisait chaud, et j'étais las, et un prunier de prunes vertes était près de moi.
 
-<span class="atom-split" data-atom="002" data-title="2. Et, me couchant sous le prunier, je m'endormis." data-chapter="2. Et, me couchant sous le prunier, je m'endormis." data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="2. Et, me couchant sous le prunier, je m'endormis." data-chapter="2. Et, me couchant sous le prunier, je m'endormis." data-kind="atom" data-srclang="fr"></span>
 
 3. Et durant mon sommeil j'eus une vision, et j'entendis une voix aigre et éclatante comme le son d'un cornet de postillon.
 
@@ -50,13 +50,13 @@ Chapitre I
 
 14. Car la loi défend de venger les offenses qu'on a reçues, et eux outragent sans cesse un homme qui ne les a point offensés.
 
-<span class="atom-split" data-atom="003" data-title="19. La loi défend la médisance, et ils le calomnient sans cesse." data-chapter="19. La loi défend la médisance, et ils le calomnient sans cesse." data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="19. La loi défend la médisance, et ils le calomnient sans cesse." data-chapter="19. La loi défend la médisance, et ils le calomnient sans cesse." data-kind="atom" data-srclang="fr"></span>
 
 20. Ils l'accusent d'avoir dit que les femmes n'avaient point d'âme, et il dit, au contraire, que toutes les femmes aimables en ont au moins deux.
 
 21. Ils l'accusent de ne pas croire en Dieu, et nul n'a si fortement prouvé l'existence de Dieu.
 
-<span class="atom-split" data-atom="004" data-title="22. Ils disent qu'il est l'Antéchrist, et nul n'a si dignement honoré le Christ." data-chapter="22. Ils disent qu'il est l'Antéchrist, et nul n'a si dignement honoré le Christ." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="22. Ils disent qu'il est l'Antéchrist, et nul n'a si dignement honoré le Christ." data-chapter="22. Ils disent qu'il est l'Antéchrist, et nul n'a si dignement honoré le Christ." data-kind="atom" data-srclang="fr"></span>
 
 23. Ils disent qu'il veut troubler leurs consciences, et jamais il ne leur a parlé de religion.
 
@@ -78,7 +78,7 @@ Chapitre II
 
 3. Tu crois en Dieu puissant, intelligent, bon, juste, et rémunérateur ; et en cela tu fais bien.
 
-<span class="atom-split" data-atom="005" data-title="5. Tu suis de tout ton pouvoir les préceptes du saint Évangile ; et en cela tu fais bien." data-chapter="5. Tu suis de tout ton pouvoir les préceptes du saint Évangile ; et en cela tu fais bien." data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="5. Tu suis de tout ton pouvoir les préceptes du saint Évangile ; et en cela tu fais bien." data-chapter="5. Tu suis de tout ton pouvoir les préceptes du saint Évangile ; et en cela tu fais bien." data-kind="atom" data-srclang="fr"></span>
 
 6. Tu aimes les hommes comme ton prochain, et les chrétiens comme tes frères ; tu fais le bien quand tu peux, et ne fais jamais de mal à personne que pour ta défense et celle de la justice.
 

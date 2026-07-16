@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/en_tiempo_del_lock-out_lo_justo_y_lo_demasiado" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="En tiempo del lock-out.— Lo justo y lo demasiado" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="En tiempo del lock-out.— Lo justo y lo demasiado" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Sólo cuando los hechos nos obliguen a ello habremos de renunciar a la esperanza de que el conflicto patronal-obrero de Barcelona se resuelva mesuradamente. Para esto hace falta que los patronos no se obstinen en tener más razón de la que, en efecto, tienen, ni pretendan más de lo que, en efecto, tienen derecho a pretender. Éste es el motivo por el cual les salimos apresuradamente al encuentro, días pasados, con ocasión de la segunda nota oficiosa emanada de su organismo director.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_germano_breno_como_ejemplo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El germano Breno, como ejemplo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El germano Breno, como ejemplo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En el número primero de España, hablando yo de la lucha inminente entre Italia y Germania, me ocurrió aludir a la primera escena de esta contienda perenne entre el Mediterráneo y el Norte europeo, y menté a Breno y le llamé «el germano Breno», así, con todas sus letras. Y unos cuantos lectores de epítomes han llevado esto muy a mal. Como en España desearíamos escatimar el espacio en asuntos que no atañan vivamente a la existencia nacional, he querido evitar la publicación de esta nota, esperando que no reincidieran los filisteos. Pero han reincidido y con una insistencia que, a no tratarse de un escritor sin viso, como yo, haría pensar en la fruición del ínfimo cuando cree haber cogido en falta a una persona de rango.
 

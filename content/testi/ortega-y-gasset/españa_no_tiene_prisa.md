@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/españa_no_tiene_prisa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="España no tiene prisa" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="España no tiene prisa" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El tiempo no es de comedias ni siquiera de tragicomedias. Anda España demasiado ungida de peligros para que los españoles conscientes toleren la tragicómica farsa de estos días. Necesitamos, con apresuramiento de minutos, un Gobierno para alta mar que solidarice una gran porción de ciudadanos a fin de poder gobernar en serio y en firme. Los capitales huyen de las llamadas que hace el Tesoro: la última de doscientos millones ha fracasado, y ha sido menester pedirlos al Banco de España. En lo que queda de año se consumirá el crédito legal que la Hacienda pública tiene en éste. Para esa fecha se habrá entrado de lleno en las definiciones de la paz, y, por tanto, se estarán decidiendo las cuestiones más agudas y más concretas del porvenir español.
 

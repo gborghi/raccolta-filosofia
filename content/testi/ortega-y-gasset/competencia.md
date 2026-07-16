@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/competencia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Competencia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Competencia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -74,7 +74,7 @@ España es una cosa que hay que hacer. Y es una cosa muy difícil de hacer. Ya e
 
 Yo comprendo que estas palabras han de ser impopulares y enojosas; pero todo lo que no sea insistir sobre este tema y clavarlo en la preocupación de los españoles, equivale al defecto esencial de patriotismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No basta, no basta con querer lealmente que se organice una hacienda democrática para que, en efecto, una hacienda democrática se organice. Nueve décimas partes de ciudadanos lo deseamos así. Dios premiará, a no dudarlo, nuestra buena voluntad tomándonos asumptos en las praderas azules del cielo donde tiemblan las amapolas de oro que desde abajo parecen estrellas. Pero la buena voluntad, que sirve para ir al cielo, no sirve para organizar una hacienda; para este menester sólo es útil y es imprescindible la ciencia económica. Et si non, non. Números, estadísticas, sistemas complicadísimos, un Cuerpo burocrático de gran saber y solicitud, una cantidad enorme de prosaicas competencias. Sin esto no hay ascensión al cielo de la hacienda. ¡Qué le vamos a hacer! En La Paz, de Aristófanes, Trigeo tiene que subir al cielo cabalgando un escarabajo.
 

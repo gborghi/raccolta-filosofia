@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_ensimismarse_y_alterarse" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre ensimismarse y alterarse" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre ensimismarse y alterarse" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, febrero de 1933
 
@@ -36,7 +36,7 @@ El conocimiento se define tradicionalmente como la aprehensión del ser, de lo r
 
 Pero dejemos esto. El tema de ahora es marcar el magnífico sentido que tuvo la peripecia máxima acontecida en la historia del pensamiento humano hasta ahora. El cambio radical de actitud que en el problema del conocimiento —y por tanto en todo el resto de su vitalidad— ejecuta el hombre en torno a 1600, dividiendo la historia en dos partes: antigüedad, modernidad. Si el lector tiene un poco de paciencia y roe el hueso que, por lo pronto, le arrojo, verá que el problema del conocimiento me sirve ahora sólo de instrumento y símbolo para aclarar un asunto mucho más jugoso y que le afecta a él en todos los órdenes de la vida.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El hombre antiguo vive de tal manera sumido en el mundo, en el «ser», que al llegar a una cuestión tan subjetiva como es la del conocimiento, la hace gravitar sobre la realidad conocida y no sobre el sujeto que conoce. Cuando el griego se preguntaba si es posible que el hombre alcance la verdad, esto es, que conozca el ser, su contestación es ésta: Todo depende de que exista algo en el universo que verdaderamente sea. Lo que vemos y tocamos no es propiamente porque cuando vamos a pensar que es y que es tal —por ejemplo, grande, blanco, suave, etcétera— ya está dejando de serlo. Lo corruptible no tiene auténtico ser y «por eso» —es decir, por culpa del objeto— no se puede conocer. En cambio, la figura geométrica pura o la «idea» de justicia, de blancura, de grandeza son siempre lo que son. Por eso tenemos de ello conocimiento pleno.
 

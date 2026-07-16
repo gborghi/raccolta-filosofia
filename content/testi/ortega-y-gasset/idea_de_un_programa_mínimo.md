@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/idea_de_un_programa_mínimo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Idea de un programa mínimo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Idea de un programa mínimo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Queramos o no, el punto a que ha llegado la situación interior de España coincidiendo con el profundo cambio de la vida mundial, nos obliga a hacer los grandes ensayos, a ejecutar las transmutaciones de alto calibre. La burla, la ficción, el acomodo han concluido. Es decir, puede que perduren dentro de los individuos; pero una ineluctable mecánica más fuerte que todos los individuos, la gigantesca potencia de la necesidad histórica, pasará sobre el burlón, el fingidor y el acomodable, ejerciendo su terrible menester de trituración. Queramos o no, España, nuestra pobre España paralítica, crujirá de Norte a Sur. Más de una vez he afirmado que era cosa fácil librarse de la guerra, pero que es imposible librarse de la paz, sobre todo de esta paz, que, abriendo de par en par el Continente, va a suscitar tremendos vendavales históricos.
 

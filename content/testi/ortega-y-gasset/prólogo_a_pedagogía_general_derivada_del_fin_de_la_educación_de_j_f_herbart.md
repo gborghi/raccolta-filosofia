@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_pedagogía_general_derivada_del_fin_de_la_educación_de_j_f_herbart" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a Pedagogía general derivada del fin de la educación, de J. F. Herbart" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a Pedagogía general derivada del fin de la educación, de J. F. Herbart" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Este libro clásico de la pedagogía, tan discretamente vertido al castellano por el señor Luzuriaga dirígese principalmente a los maestros. Se trata del primer gran ensayo que ha hecho el pensamiento para reducir la actividad educativa espontánea a un régimen científico. Cierto que antes de Herbart la turbulenta genialidad de Pestalozzi alcanzó atisbos tan profundos que de sus obras confusas y trastornadas por una ideología balbuciente ha podido luego extraerse todo el material de principios necesario para edificar un sistema científico de pedagogía. Hay, pues, en Pestalozzi un germen maravillosamente fecundo; pero hay en Herbart la primera maturación de él. Es posible —yo así lo pienso— que en este [caso](/concepts/fortune) valga más la simiente que el fruto primero, mas no sería justo emplear contra Herbart, como estos últimos años ha hecho Natorp[37], armas que desconoció Pestalozzi y que sólo una bonísima voluntad y una fatal tendencia a solicitar los textos pueden hallar en éste preformadas.
 
@@ -54,7 +54,7 @@ Ahora bien; todo esto en la experiencia (= conocimiento espontáneo) dado puede 
 
 La materia dada y las formas dadas llevan a dos órdenes de dudas, según hemos dicho. La sensación —en la cual se nos da como presente una realidad— varía: lo que ahora vemos blanco, aparece luego azulado: además, los diversos sentidos al hacer referencia a una misma realidad refieren a ella distintas materias: ¿cuál de ellas es la que en realidad posee lo real? Otros perciben la misma pretensa realidad de distinta suerte que nosotros, etcétera, etcétera. En una palabra: la sensación nos pone delante con toda evidencia la realidad; pero vacila, es contradictoria en la determinación de qué, cuál, sea esa realidad: nos dice con absoluta evidencia que algo es; pero lo que ella nos da como siendo ese algo es sólo apariencia, relatividad. Lo real que ella anuncia no es como ella supone. A estas dudas que la materia de la experiencia plantea llama Herbart escepticismo inferior[38].
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Las formas de la experiencia nos conducen a un escepticismo superior[39]. Ante todo: si el espacio nos es dado, ¿cómo nos es dado? —ni lo vemos ni lo tocamos. ¿Y la sustancia? ¿Y la [causa](/concepts/cause)? Nada parece más evidente que nuestro yo; pero ese yo tan evidente, ¿en qué consiste? Apenas ensayamos la respuesta a estas preguntas nos vemos cercados de dificultades. Estos dos escepticismos ponen en inquietud nuestro pensamiento, que ya no logra contentarse con lo dado, antes bien, hallando en éste siempre un problema[40], entra en un movimiento reflexivo y se dispone a buscar soluciones. Este movimiento del pensar, dirigido a aclarar y corregir los conceptos problemáticos ofrecidos por la experiencia, es la filosofía.
 

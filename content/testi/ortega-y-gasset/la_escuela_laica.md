@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_escuela_laica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La escuela laica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La escuela laica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los griegos llamaban al pueblo laos; a lo popular, laicos. La escuela que exige la pedagogía científica, es la escuela laica.
 

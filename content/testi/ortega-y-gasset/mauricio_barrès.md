@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/mauricio_barrès" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Mauricio Barrès" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Mauricio Barrès" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 «J’ai une âme composite»
 
@@ -48,7 +48,7 @@ Lo peor de Barrès son sus ideas, llamémoslas así. Más bien que pensarlas, Ba
 
 A la educación abstracta, sin raíces, opone Barrès un imperativo de disciplina francesa. Apenas habrá cosa sobre que Barrès haya insistido más. Pero imaginemos que un mozo francés toma en serio esta pertinaz y monótona orden de Barrès y trata de orientarse en su obra sobre lo que es la disciplina francesa. ¡Vano intento! En la obra de Barrès no hay ninguna idea clara sobre el sentido francés de la vida. No nos enseña lo más mínimo sobre cómo ha sido y debe ser un francés. En vez de una doctrina positiva, hallamos sólo una frase formal e inane, un formalismo más estéril aún que el del imperativo kantiano, al cual pretende sustituir. Barrès no ha extraído nada sustancial de los clásicos franceses, y del que más ha estimado, de Pascal, sólo ha aprendido qu’il faut s’abêtir.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Va a ser muy difícil salvar a Barrès. Aunque no quisiera que esta nota se tomase como expresión completa ni bien ponderada de mi juicio sobre su labor, he buscado manera de tejerle una corona con sus propias virtudes. Pero, lealmente dicho, no las he hallado fuera de su gracia verbal. Diez años antes de morirse, Barrès no significaba ya nada importante para las nuevas generaciones. Como Heine diría, era ya el rey abdicado del milenio romántico. Suya es esta frase: Les jeunes gens et moi, nous ne nous comprenons pas! Para un hombre que ha sido y ha querido ser un poder social sin límites, esta renuncia a dominar la juventud equivale a una abdicación. Con los jóvenes es preciso entenderse siempre. Nunca tienen razón en lo que niegan, pero siempre en lo que afirman. Nuestra obra debe extender siempre un tentáculo hacia los corazones de mañana. Hoy vemos que la figura de Barrès estaba toda vuelta al pasado. De sus páginas no se levanta cenital ninguna alondra que vuele hacia auroras. Todas sus inspiraciones fueron vespertinas —recogen un día ya cumplido; son densas, fatigadas y somníferas.
 

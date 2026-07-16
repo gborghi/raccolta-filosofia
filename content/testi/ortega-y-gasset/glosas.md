@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/glosas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Glosas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Glosas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 GLOSA. —Nota o reparo que se pone en las cuentas a una o varias partidas de ellas
 
@@ -130,7 +130,7 @@ Es la conseja antigua y perdurable. Los pueblos son siempre pobres enfermos de l
 
 Esa creencia es necesaria para la vida y la buscan fuera.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La historia va mostrando grandes cuadros de imploraciones, pueblos que piden una ley, un canto, una leyenda; turbas dolientes y miserables que buscan con los ojos la serpiente de bronce.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/cómo_es_lawrence" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Cómo es Lawrence?" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="¿Cómo es Lawrence?" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace mucho tiempo que no siento por nada tan viva curiosidad como por lo que enuncia esta pregunta: ¿Cómo es Lawrence? Yo quisiera ahora contaminar de esta curiosidad a los lectores. Para ello es necesario que comience diciéndoles quién es Lawrence[18].
 
@@ -46,7 +46,7 @@ Sin embargo, viejos cazadores de líneas negras sobre áreas blancas, conseguimo
 
 Pero esto no es una explicación del problema Lawrence. El dandysmo es siempre máscara y coraza. No nos revela lo que hay tras ella; antes bien, lo oculta y defiende, marcando la frontera de dos mundos —el de los demás, patente, exterior, y frente a él, el mundo hermético, recluso, íntimo, de un único individuo. El gesto del dandy no es nunca el que corresponde a su realidad interior. Todo lo contrario. Es un gesto convencional de prestidigitador que hace la persona para distraer las miradas demasiado curiosas. Sólo nos revela que, tras él, un ser humano vive por su propia cuenta, según principios y normas individuales.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El libro de Lawrence nos hace entrever que no estima mucho su hazaña, que más bien se avergüenza de ella. Es un héroe que desdeña su heroicidad. Por otra parte, su autor, que es arqueólogo, evita toda alusión arqueológica en la descripción de los lugares donde opera como guerrero. Desdeña también la arqueología. La dimisión de todos los honores que le han sido otorgados, la aniquilación de su propio nombre, indican que tampoco estima mucho a su país y a la sociedad que le ha educado. Todos estos desdenes son fáciles y sin gran sentido cuando aparecen solos. Pero en este [caso](/concepts/fortune) se presentan dentro de un hombre que ha demostrado ser capaz de todo, de ciencia, de genio bélico, de gracia literaria. ¿Cómo es Lawrence?
 

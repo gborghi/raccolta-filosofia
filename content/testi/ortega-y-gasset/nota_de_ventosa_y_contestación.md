@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nota_de_ventosa_y_contestación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nota de Ventosa y contestación" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nota de Ventosa y contestación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El ministro de Hacienda manifestó ayer a los periodistas lo siguiente:
 

@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/cratylus" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="CRATYLUS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="CRATYLUS" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE: [Socrates](/figures/socrates), Hermogenes, Cratylus.
 
@@ -142,7 +142,7 @@ SOCRATES: Then the actions also are done according to their proper nature, and n
 
 HERMOGENES: I should say that the natural way is the right way.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Again, in burning, not every way is the right way; but the right way is the natural way, and the right instrument the natural instrument.
 
@@ -354,7 +354,7 @@ HERMOGENES: That is true.
 
 SOCRATES: Then, Hermogenes, I should say that this giving of names can be no such light matter as you fancy, or the work of light or [chance](/concepts/fortune) persons; and Cratylus is right in saying that things have names by nature, and that not every man is an artificer of names, but he only who looks to the name which each thing by nature has, and is able to express the true forms of things in letters and syllables.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 HERMOGENES: I cannot answer you, [Socrates](/figures/socrates); but I find a difficulty in changing my opinion all in a moment, and I think that I should be more readily persuaded, if you would show me what this is which you term the natural fitness of [names](/positions/nominalism).
 
@@ -452,7 +452,7 @@ SOCRATES: A very simple matter. I may illustrate my meaning by the names of lett
 
 HERMOGENES: I believe you are right.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And may not the same be said of a king? a king will often be the son of a king, the good son or the noble son of a good or noble sire; and similarly the offspring of every kind, in the regular course of nature, is like the parent, and therefore has the same name. Yet the syllables may be disguised until they appear different to the ignorant person, and he may not recognize them, although they are the same, just as any one of us would not recognize the same drugs under different disguises of colour and smell, although to the physician, who regards the power of them, they are the same, and he is not put out by the addition; and in like manner the etymologist is not put out by the addition or transposition or subtraction of a letter or two, or indeed by the change of all the letters, for this need not interfere with the meaning. As was just now said, the [names](/positions/nominalism) of Hector and Astyanax have only one letter alike, which is tau, and yet they have the same meaning. And how little in common with the letters of their names has Archepolis (ruler of the city) — and yet the meaning is the same. And there are many other names which just mean ‘king.’ Again, there are several names for a general, as, for example, Agis (leader) and Polemarchus (chief in war) and Eupolemus (good warrior); and others which denote a physician, as Iatrocles (famous healer) and Acesimbrotus (curer of mortals); and there are many others which might be cited, differing in their syllables and letters, but having the same meaning. Would you not say so?
 
@@ -506,7 +506,7 @@ SOCRATES: Ought we not to begin with the consideration of the Gods, and show tha
 
 HERMOGENES: Yes, that will be well.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): My notion would be something of this sort: — I suspect that the sun, moon, earth, stars, and heaven, which are still the Gods of many barbarians, were the only Gods known to the aboriginal Hellenes. Seeing that they were always moving and running, from their running nature they were called Gods or runners (Theous, Theontas); and when men became acquainted with the other Gods, they proceeded to apply the same name to them all. Do you think that likely?
 
@@ -618,7 +618,7 @@ SOCRATES: That may be variously interpreted; and yet more variously if a little 
 
 HERMOGENES: I think, Socrates, that we have said enough of this class of words. But have we any more explanations of the names of the Gods, like that which you were giving of Zeus? I should like to know whether any similar principle of correctness is to be applied to them.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Yes, indeed, Hermogenes; and there is one excellent principle which, as men of sense, we must acknowledge, — that of the Gods we know nothing, either of their natures or of the [names](/positions/nominalism) which they give themselves; but we are sure that the names by which they call themselves, whatever they may be, are true. And this is the best of all principles; and the next best is to say, as in prayers, that we will call them by any sort or kind of names or patronymics which they like, because we do not know of any other. That also, I think, is a very good [custom](/concepts/custom), and one which I should much wish to observe. Let us, then, if you please, in the first place announce to them that we are not enquiring about them; we do not presume that we are able to do so; but we are enquiring about the meaning of men in giving them these names, — in this there can be small blame.
 
@@ -720,7 +720,7 @@ SOCRATES: Yes, Hermogenes, and the legislator called him Hades, not from the uns
 
 HERMOGENES: Very good; and what do we say of Demeter, and Here, and Apollo, and Athene, and Hephaestus, and Ares, and the other deities?
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Demeter is e didousa meter, who gives food like a mother; Here is the lovely one (erate) — for Zeus, according to tradition, loved and married her; possibly also the name may have been given when the legislator was thinking of the heavens, and may be only a disguise of the air (aer), putting the end in the place of the beginning. You will recognize the truth of this if you repeat the letters of Here several times over. People dread the name of Pherephatta as they dread the name of Apollo, — and with as little reason; the fear, if I am not mistaken, only arises from their ignorance of the nature of [names](/positions/nominalism). But they go changing the name into Phersephone, and they are terrified at this; whereas the new name means only that the Goddess is wise (sophe); for seeing that all things in the world are in motion (pheromenon), that principle which embraces and touches and is able to follow them, is wisdom. And therefore the Goddess may be truly called Pherepaphe (Pherepapha), or some name like it, because she touches that which is in motion (tou pheromenon ephaptomene), herein showing her wisdom. And Hades, who is wise, consorts with her, because she is wise. They alter her name into Pherephatta now-a-days, because the present generation care for euphony more than truth. There is the other name, Apollo, which, as I was saying, is generally supposed to have some terrible signification. Have you remarked this fact?
 
@@ -798,7 +798,7 @@ SOCRATES: And now, by the Gods, let us have no more of the Gods, for I am afraid
 
 HERMOGENES: Only one more God! I should like to know about Hermes, of whom I am said not to be a true son. Let us make him out, and then I shall know whether there is any meaning in what Cratylus says.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I should imagine that the name Hermes has to do with speech, and signifies that he is the interpreter (ermeneus), or messenger, or thief, or liar, or bargainer; all that sort of thing has a great deal to do with language; as I was telling you, the word eirein is expressive of the use of speech, and there is an often-recurring Homeric word emesato, which means ‘he contrived’ — out of these two words, eirein and mesasthai, the legislator formed the name of the God who invented language and speech; and we may imagine him dictating to us the use of this name: ‘O my friends,’ says he to us, ‘seeing that he is the contriver of tales or speeches, you may rightly call him Eirhemes.’ And this has been improved by us, as we think, into Hermes. Iris also appears to have been called from the verb ‘to tell’ (eirein), because she was a messenger.
 
@@ -904,7 +904,7 @@ SOCRATES: That is a tremendous class of names which you are disinterring; still,
 
 HERMOGENES: Surely, we must not leave off until we find out their meaning.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): By the dog of Egypt I have a not bad notion which came into my head only this moment: I believe that the primeval givers of [names](/positions/nominalism) were undoubtedly like too many of our modern philosophers, who, in their search after the nature of things, are always getting dizzy from constantly going round and round, and then they imagine that the world is going round and round and moving in all directions; and this appearance, which arises out of their own internal condition, they suppose to be a reality of nature; they think that there is nothing stable or permanent, but only flux and motion, and that the world is always full of every sort of motion and change. The consideration of the names which I mentioned has led me into making this reflection.
 
@@ -942,7 +942,7 @@ SOCRATES: That may be identified with echonoe, and expresses the possession of m
 
 HERMOGENES: That is a very shabby etymology.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Yes, my dear friend; but then you know that the original [names](/positions/nominalism) have been long ago buried and disguised by people sticking on and stripping off letters for the sake of euphony, and twisting and bedizening them in all sorts of ways: and time too may have had a share in the change. Take, for example, the word katoptron; why is the letter rho inserted? This must surely be the addition of some one who cares nothing about the truth, but thinks only of putting the mouth into shape. And the additions are often such that at last no human being can possibly make out the original meaning of the word. Another example is the word sphigx, sphiggos, which ought properly to be phigx, phiggos, and there are other examples.
 
@@ -1048,7 +1048,7 @@ SOCRATES: That is the fault of the makers of the name, Hermogenes; not mine.
 
 HERMOGENES: Very true; but what is the derivation of zemiodes?
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): What is the meaning of zemiodes? — let me remark, Hermogenes, how right I was in saying that great changes are made in the meaning of words by putting in and pulling out letters; even a very slight permutation will sometimes give an entirely opposite sense; I may instance the word deon, which occurs to me at the moment, and reminds me of what I was going to say to you, that the fine fashionable language of modern times has twisted and disguised and entirely altered the original meaning both of deon, and also of zemiodes, which in the old language is clearly indicated.
 
@@ -1114,7 +1114,7 @@ SOCRATES: One way of giving the appearance of an answer has been already suggest
 
 HERMOGENES: What way?
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): To say that [names](/positions/nominalism) which we do not understand are of foreign origin; and this is very likely the right answer, and something of this kind may be true of them; but also the original forms of words may have been lost in the lapse of ages; names have been so twisted in all manner of ways, that I should not be surprised if the old language when compared with that now in use would appear to us to be a barbarous tongue.
 
@@ -1216,7 +1216,7 @@ SOCRATES: So I should expect. But how shall we further analyse them, and where d
 
 HERMOGENES: Yes.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Must we not begin in the same way with letters; first separating the vowels, and then the consonants and mutes (letters which are neither vowels nor semivowels), into classes, according to the received distinctions of the learned; also the semivowels, which are neither vowels, nor yet mutes; and distinguishing into classes the vowels themselves? And when we have perfected the classification of things, we shall give them [names](/positions/nominalism), and see whether, as in the case of letters, there are any classes to which they may be all referred (cf. Phaedrus); and hence we shall see their natures, and see, too, whether they have in them classes as there are in the letters; and when we have well considered all this, we shall know how to apply them to what they resemble — whether one letter is used to denote one thing, or whether there is to be an admixture of several of them; just, as in painting, the painter who wants to depict anything sometimes uses purple only, or any other colour, and sometimes mixes up several colours, as his [method](/axes/method) is when he has to paint flesh colour or anything of that kind — he uses his colours as his figures appear to require them; and so, too, we shall apply letters to the expression of objects, either single letters when required, or several letters; and so we shall form syllables, as they are called, and from syllables make nouns and verbs; and thus, at last, from the combinations of nouns and verbs arrive at language, large and fair and whole; and as the painter made a figure, even so shall we make speech by the art of the namer or the rhetorician, or by some other art. Not that I am literally speaking of ourselves, but I was carried away — meaning to say that this was the way in which (not we but) the ancients formed language, and what they put together we must take to pieces in like manner, if we are to attain a scientific view of the whole subject, and we must see whether the primary, and also whether the secondary elements are rightly given or not, for if they are not, the composition of them, my dear Hermogenes, will be a sorry piece of work, and in the wrong direction.
 
@@ -1242,7 +1242,7 @@ SOCRATES: In the first place, the letter rho appears to me to be the general ins
 
 HERMOGENES: But, Socrates, as I was telling you before, Cratylus mystifies me; he says that there is a fitness of names, but he never explains what is this fitness, so that I cannot tell whether his obscurity is intended or not. Tell me now, Cratylus, here in the presence of Socrates, do you agree in what Socrates has been saying about names, or have you something better of your own? and if you have, tell me what your view is, and then you will either learn of Socrates, or Socrates and I will learn of you.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 CRATYLUS: Well, but surely, Hermogenes, you do not suppose that you can learn, or I explain, any subject of importance all in a moment; at any rate, not such a subject as language, which is, perhaps, the very greatest of all.
 
@@ -1366,7 +1366,7 @@ CRATYLUS: I would fain agree with you, Socrates; and therefore I say, Granted.
 
 SOCRATES: That is very good of you, if I am right, which need hardly be disputed at present. But if I can assign names as well as pictures to objects, the right assignment of them we may call truth, and the wrong assignment of them falsehood. Now if there be such a wrong assignment of names, there may also be a wrong or inappropriate assignment of verbs; and if of names and verbs then of the sentences, which are made up of them. What do you say, Cratylus?
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 CRATYLUS: I agree; and think that what you say is very true.
 
@@ -1474,7 +1474,7 @@ SOCRATES: Are they altogether alike?
 
 CRATYLUS: Yes; for the purpose of expressing motion.
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And what do you say of the insertion of the lamda? for that is expressive not of hardness but of softness.
 
@@ -1552,7 +1552,7 @@ SOCRATES: And would you say that the giver of the first names had also a knowled
 
 CRATYLUS: I should.
 
-<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But how could he have learned or discovered things from [names](/positions/nominalism) if the primitive names were not yet given? For, if we are correct in our view, the only way of learning and discovering things, is either to discover names for ourselves or to learn them from others.
 

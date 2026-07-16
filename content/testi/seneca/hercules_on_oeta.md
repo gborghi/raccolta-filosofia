@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/seneca/hercules_on_oeta" data-philosopher="Seneca"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="HERCULES ON OETA" data-chapter="DRAMATIS PERSONAE" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="HERCULES ON OETA" data-chapter="DRAMATIS PERSONAE" data-kind="intro" data-srclang="en"></span>
 
 HERCULES, son of Jupiter and Alcmena.
 
@@ -44,13 +44,13 @@ CHORUS of Oechalian maidens, suffering captivity in company with Iole.
 
 THE SCENE is laid, first in Euboea, and later at the home of Hercules in Trachin.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
 
 The long, heroic life of Hercules has neared its end. His twelve great tasks, assigned him by Eurystheus through Juno’s hatred, have been done. His latest victory was over Eurytus, king of Oechalia. Him he slew and overthrew his house, because the monarch would not give him Iole to wife.
 
 And now the hero, having overcome the world, and Pluto’s realm beneath the earth, aspires to heaven. He sacrifices to Cenaean Jove, and prays at last to be received into his proper home.
 
-<span class="atom-split" data-atom="003" data-title="HERCULES OETAEUS (1/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="HERCULES OETAEUS (1/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [In Euboea, near Oechalia, after the overthrow of Eurytus, king of that city.]
 
@@ -72,7 +72,7 @@ CHORUS OF CAPTIVE OECHALIAN MAIDENS IN COMPANY WITH IOLE
 
 [119] But us, foul wasting claims, and tears, and hair defiled by the dust of fatherland; us nor greedy flame nor crashing wall has overwhelmed. The happy dost thou pursue, O Death, the wretched thou fleest. Here we stand, yet alas! the spot shall no more be given to our country’s crops, but to forests wild, and squalid hovels shall our fallen shrines become. Here soon shall the chill Dolopian lead his flocks where the buried ashes, sole remnant of Oechalia’s ruins, still are warm. Here in our very city a Thessalian shepherd, on rude pipe going o’er his songs, shall sing of our story with doleful notes; and ere God shall bring a few more generations to an end, men will be asking where our country lay. Once I was blest; not barren the hearth nor hungry the acres of Thessalian soil whereon I dwelt; but not to Trachin am I called, to a rough and stony land, to brambles bristling on her parched hills, to woods which e’en the wandering goats disdain. But if some captives by a milder fate are called, then either swift Inachus will bear them o’er, or within Dircaean walls shall they abide, where flows slow Ismenus with scanty stream, where the mother of haughty Hercules once was wed.
 
-<span class="atom-split" data-atom="004" data-title="HERCULES OETAEUS (2/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="HERCULES OETAEUS (2/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [147] False is the story of the double night, when the stars lingered in the sky o’erlong, when Lucifer changed place with Hesperus, and Delia, too slow, kept back the sun. What Scythian crag, what rocky cliff begot thee? As some fierce Titan, did Rhodope bring thee forth, or Athos rough? Did some wild Caspian beast, some striped tigress give thee suck? By no wounds may his limbs be assailed; iron he feels blunt, steel is too dull; upon his naked body swords are broken, and stones rebound; and so he scorns the fates, and with body all invincible defies mortality. Sharp spear-points could not pierce him, nor Scythian arrows shot from bended bow, nor darts which cold Sarmatians wield, or the Parthians who, in the land of the rising sun, with surer aim than ever Cretan’s was, direct their shafts against the neighbouring Arabians. With his bare hands did he o’erthrow Oechalia’s walls, and naught can make stand against him; for whate’er he plans to overcome is overcome already. How few the foes who by his wounds have fallen! His angry countenance was death in open view, and but to have seen the threats of Hercules is enough. What huge Briareus, what Gyas, puffed with pride, when upon Thessalia’s mountain-heap they stood and clutched at heaven with snaky hands, had countenance inflexible as his? But mighty ills have mighty recompense. No more is left to suffer – we have seen, oh, woe! the angry Hercules.
 
@@ -108,7 +108,7 @@ NURSE
 
 DEÏANIRA
 
-<span class="atom-split" data-atom="005" data-title="HERCULES OETAEUS (3/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="HERCULES OETAEUS (3/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [278] Shall captive Iole give brothers to my sons? Shall a slave become daughter-in-law of Jove? Together will flame and torrent never run, and the thirsty Bear from the blue sea ne’er will drink – nor will I go unavenged. Though thou didst bear the heavens up, though the whole world owes its peace to thee, a worse pest than Hydra waits thee – the wrath of an angered wife. What fire as hot as this rages to heaven from burning Aetna? Whate’er has been conquered by thy might, this passion of mine shall conquer. – And shall a slave seize on my marriage bed? Till now did I fear monsters, but now is no evil more; the pests have vanished and in the place of beasts has come the hated harlot. O most high ruler of the gods, O lustrous Sun, I have been wife to Hercules but in his perils; the prayers which to the heavenly ones I raised have been granted to a slave; for a harlot have I been fortunate; for her have ye heard my prayers, O gods, for her is he safe returned. – O grief that can be satisfied with no revenge, seek thee some dreadful punishment, unthought, unspeakable; teach Juno’s self what hate can do; she knows not to rage enough. For me didst thou do battle; on my account did Acheloüs dye his wandering waves with his own blood, when now he became a stubborn serpent, now to a fierce bull changed his threats, the serpent form discarded, and thou in that one foe didst conquer a thousand beasts. But now I please thee not; a captive is preferred to me – but she shall not be preferred; for that day which shall end our marriage joys shall end thy life.
 
@@ -168,7 +168,7 @@ NURSE
 
 DEÏANIRA
 
-<span class="atom-split" data-atom="006" data-title="HERCULES OETAEUS (4/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="HERCULES OETAEUS (4/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [410] He whom thou seest going, big with fame, from town to town, wearing the spoil of a tawny lion on his back; who gives kingdoms to the lowly and takes them from the proud, his dread hand laden with a massive club; whose triumphs the far off Seres sing, and whoe’er besides dwells in the whole known world, – he is a trifler, nor does the charm of glory urge him on. He goes wandering o’er the earth, not in the hope that he may rival Jove, nor that he may fare illustrious through Grecian cities. Some one to love he seeks; his quest is maidens’ chambers. If any is refused him, she is ravished; against nations doth he rage, midst ruins seeks this brides, and unrestrained excess is called heroic. Oechalia, the illustrious, fell; one sun, one day beheld her stand and fall; and passion was the mother of that strife. As oft as a father shall deny his child to Hercules, as oft as a foeman refuses to be his father-in-law, so oft shall he have cause to fear; if he is not accepted as a son-in-law, he smites. After all this, why do I harmlessly keep back these hands until he feign another fit of madness, with deadly hand bend his bow, and slay me and my son? Thus does Alcides put away his wives; such is his manner of divorce. Yet naught can make him guilty! He has made the world believe his step-dame answerable for his crimes. Why art inactive then, thou sluggish rage? His crime must be forestalled; act while thy hand is hot!
 
@@ -296,7 +296,7 @@ NURSE
 
 DEÏANIRA
 
-<span class="atom-split" data-atom="007" data-title="HERCULES OETAEUS (5/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="HERCULES OETAEUS (5/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [541] Thee do I pray, by earth and heaven-dwellers held in fear, by sea, by him who wields Aetnaean thunderbolts, and by thy ruthless mother to be feared, O winged boy; with unerring hand aim a swift shaft, and not of thy lighter arrows. Choose thee, I pray one of thy heavier shafts, which thy hands have ne’er yet shot at any; for no light weapon must thou use that Hercules may feel the power of love. Stretch thy hands stiffly forth, and bend thy bow until the tips shall meet. Now, now that shaft let loose with which once thou aimedst at Jove the terrible, what time the god threw down his thunderbolt and as a bull, with horns quick-sprouting on his brow, clove through the boisterous sea, bearing the Assyrian maid. Fill him with love; let him outstrip all precedents, – let him learn to love his wife. If Iole’s [beauty](/concepts/beauty) hath kindled fires in the breast of Hercules, extinguish them every one, and of my beauty let him deeply drink. Oft hast thou conquered Jove, the thunderer, oft him who wields the dark sceptre of the dusky world, king of the greater throng, and lord of Styx; and now, O god more dreadful than a step-dame’s wrath, win thou this triumph all alone, and conquer Hercules.
 
@@ -356,7 +356,7 @@ NURSE
 
 DEÏANIRA
 
-<span class="atom-split" data-atom="008" data-title="HERCULES OETAEUS (6/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="HERCULES OETAEUS (6/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [716] When I had sent away the robe anointed with Nessus’ blood, and, sad at heart, betook me to my chamber, my soul feared I know not what – did the dying centaur ‘gainst my husband plan revenge, and plot some treachery? I was pleased to make the test. Dread Nessus forbade me to expose the wild blood to the sun’s rays and to fire; and this artifice itself forewarned me of treachery.
 
@@ -424,7 +424,7 @@ DEÏANIRA
 
 [842] Why, soul, dost hesitate? Why art amazed? The crime is done. Jupiter demands back his son of thee, Juno, her rival; yea, to the world must he be restored. What still thou canst, give back, make restitution; let the sword, deep driven, through my body pass. So, so must it be done. But does so frail hand as this exact punishment so great? With thy thunderbolts, O sire, destroy thy guilty daughter. And with no common weapon let thy hand be armed; let that bolt leap from heaven with which, had Alcides not sprung from thee, thou wouldst have scorched the Hydra. Destroy me as some strange pest, as a scourge far worse than step-dame’s wrath. Launch such a bolt as once thou didst hurl at straying Phaëthon; for I, e’en I myself, in Hercules alone have ruined nations.
 
-<span class="atom-split" data-atom="009" data-title="HERCULES OETAEUS (7/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="HERCULES OETAEUS (7/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [855] But why dost ask weapons of the gods? At last spare thy father. The wife of Hercules should be ashamed to pray for death; this hand shall grant my prayer; from myself let death be sought. Then quickly seize the sword. – Why then the sword? Whatever brings to death is weapon all-sufficent – from a sky-piercing cliff I’ll cast me down. Let this, this crag of Oeta, which is the first to greet the new-born day, be chosen; from this ’tis well to fling me. May its broken crags rend asunder, and every rock take its share of me; may my mangled hands hang there, and may the whole rough mountain-side run red. One death is all too light – light? but still it can be prolonged. Thou canst not choose, O soul, on what weapon thou shalt fall. Oh, would that the sword of Hercules were hanging in my chamber! Upon that steel ‘twere well for me to die. But is it enough that by one right hand I perish? Come all ye nations; let the world cast rocks and huge firebrands on me; let no hand shrink its task; seize weapons, for your avenger have I done to death. Now with impunity shall cruel kings wield sceptres; yea, with impunity now fierce monsters shall be born; again shall altars be found wont to behold victim like to worshipper. A highway to crime have I prepared; I have exposed you to tyrants, kings, monsters, wild beasts and cruel gods, by slaying your avenger. Dost shirk thy task, wife of the thunderer? Why dost thou not, in imitation of thy brother, scatter fire, snatch from Jove’s hand his bolt, hurl it, and thyself destroy me? Illustrious praise and mighty triumph have been snatched from thee; I have forestalled thee, Juno, in thy rival’s death.
 
@@ -550,7 +550,7 @@ HYLLUS
 
 DEÏANIRA
 
-<span class="atom-split" data-atom="010" data-title="HERCULES OETAEUS (8/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="HERCULES OETAEUS (8/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [984] If, Hyllus, thou wouldst be truly filial, come, slay thy mother – why does thy hand quake and tremble? Why turnst thy face away? This crime will be filial piety. Tamely dost hesitate? This hand robbed thee of Hercules, yea, this right hand destroyed him to whom as father thou owest descent from Jove. Of greater glory have I robbed thee than I gave thee at thy birth. If thou art unskilled in monstrous crime, learn from thy mother. Whether in my throat it pleases thee to plunge the sword, or ’tis thy will to assail thy mother’s womb, thy mother herself will give thee unshrinking courage. Not by thee will this dreadful crime be done; by thy hand, truly, shall I fall, but by my will. Son of Alcides, art afraid? Wilt thou not do as bidden, wilt not crush monsters, and so be like thy sire? Thy dauntless hand make ready. Behold my breast, so full of cares, lies open: smite; I forgive the deed, the Eumenides themselves will acquit thy hand – but I hear their scourges hissing.
 
@@ -592,7 +592,7 @@ HERCULES
 
 [1161] Lo I, who have escaped from death, who scorned the Styx, who through the midst of Lethe’s pool have returned with spoil, at sight whereof Titan was almost flung from his falling car, I, whose presence three realms of gods have felt, am perishing. No deep-thrust sword grates through my side, nor is all Othrys the instrument of my death; no giant with fierce and gaping jaws has buried my body beneath the whole of Pindus; no, without enemy am I overcome and, thought which racks me more (shame to my manhood!) the last day of Alcides has seen no monster slain. Ah, woe is me! I am squandering my life for no return.
 
-<span class="atom-split" data-atom="011" data-title="HERCULES OETAEUS (9/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="HERCULES OETAEUS (9/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [1173] O thou ruler of the world, ye gods, once witnesses of my deeds, O earth entire, is it resolved your Hercules should perish by such death as this? Oh, cruel shame to me, oh, end most foul – a woman will be called author of Alcides’ death! And for whom is Alcides dying? If the fates unchanging have willed that by a woman’s hand I fall, if through distaff so base the thread of my death has run, ah me! that I might have fallen by Juno’s hate! ’Twould be by woman’s hand, but of one who holds the heavens. If, O ye gods, that were too much to ask, the Amazon, born ‘neath Scythian skies, might have o’ercome my strength. But by what woman’s hand is Juno’s foe o’ercome? This is for thee, my stepdame, heavier shame. Why callest thou this day joyful? What monster such as this has earth produced to sate thy wrath? A mortal woman has outdone thy hate. Till now thou deemdst thyself by Alcides alone outmatched; by two hast thou been surpassed – of such wrath let heaven be ashamed! Oh, that the Nemean lion with my blood had sated his gaping jaws, or that, hedged by hundred snakes, I had fed the hydra with my gore! O that I had been given to the Centaurs as a prey, or that midst the shades I, bound to an everlasting rock, in wretchedness were sitting! But now have I dragged here my latest spoil while Death looked on amazed; now from infernal Styx have I regained the light, the bars of Dis I’ve conquered – on every hand death shunned me, that I might lack at last a glorious end. O beasts, O conquered beasts! Neither did the three-formed dog, when he saw the sun, drag me back to Styx, nor ‘neath western skies did the Spanish rout of the wild shepherd conquer me, nor the twain serpents – ah, woe is me! how often have I missed a glorious death! My final claim to glory – what is it?
 
@@ -616,7 +616,7 @@ HERCULES
 
 [1290] O father, turn thou thine eyes on my calamity. Never till now has Alcides fled to thee for aid, not even when around my limbs the hydra entwined its fertile heads. Midst the infernal pools, by the black pall of night enfolded, I stood with Death nor did I call upon thee. So many dreadful beasts have I o’ercome, yea kings and tyrants; yet have I ne’er lifted my face unto the stars. This hand of mine has ever been surety for my prayers; no bolts for my sake have flashed from the sacred sky – but this day has bidden me ask somewhat of thee. ’Tis the first to hear my prayers, ‘twill be the last. Just one thunderbolt I ask; count me a giant. I could have laid hands on heaven no less than they; but while I thought thee my sire in very truth, I spared the skies. Oh, whether thou be harsh, my sire, or merciful, lay hands on thy son with speedy death and claim thee this great renown.
 
-<span class="atom-split" data-atom="012" data-title="HERCULES OETAEUS (10/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="HERCULES OETAEUS (10/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [1307] Or, if thy hand shrinks reluctant from the impious task, ‘gainst me release from Aetna’s mount the burning Titans, who in their hands may heave Pindus up, or, Ossa, thee, and by the hurled mountain overwhelm me quite. Let Bellona burst the bars of Erebus and with drawn sword rush upon me; or send fierce Mars; let the dread god ‘gainst me be armed. He is my brother, true, but of my step-dame born. Thou too, Alcides’ sister, but by our sire alone, hurl thy spear, O Pallas, against thy brother hurl. And to thee, my step-dame, do I stretch suppliant hands; do thou at least, I pray, let fly thy bolt (I brook to perish by a woman’s hand); oh, at last yielding, at last glutted, why still feed thy vengeance? What seekest thou further? Thou seest Alcides suppliant; whereas no land, no monster has ever seen me begging thee for quarter. Now have I need of a wrathful, raging step-dame – now has thy passion cooled? Now dost lay by thy hate? Thou sparest me when my prayer is all for death. O earth and cities of the earth, have y none to bring torches ‘gainst your Hercules, none to bring arms? Do ye withhold weapons from me? So may no land produce savage monsters more when I am dead, and let the world ne’er ask for aid of mine; if any evils rise, let avenger rise as well. From every side crush out my luckless life with stones, o’erwhelm my woes. O ungrateful world, dost falter? Hast quite forgotten me? E’en now wouldst thou be prey to ills and savage beasts hadst thou not borne me. Then, O ye peoples, rescue your champion from his woes. This [chance](/concepts/fortune) is given you to requite my services – death will be reward for all.
 
@@ -708,7 +708,7 @@ HERCULES
 
 [1441] [Begins to come out of his delirium.] But what is this? Who shuts heaven’s gates to me, O father, and draws me down even from the stars? But now the care of Phoebus breathed hot upon my face, now was I near to heaven – but I see Trachin. Who has given me earth again? A moment since, and Oeta stood below me, and the whole world lay beneath my feet. How well, O pain, hadst thou fallen from me! Thou compellest me to confess – but stay, forestall that word.
 
-<span class="atom-split" data-atom="013" data-title="HERCULES OETAEUS (11/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="HERCULES OETAEUS (11/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [1448] [To HYLLUS.] O Hyllus, this, this is thy mother’s boon, her gift to me. Would that with lifted club I might crush out her wicked life just as I smote down the Amazonian pest upon the slopes of snowy Caucasus. O well-loved Megara, wast thou wife to me when madness came upon me? Give me my club and bow, let my right hand be defiled, let me put stain upon my glory, and let a woman be chosen as the last toil of Hercules.
 
@@ -762,7 +762,7 @@ CHORUS
 
 PHILOCTETES
 
-<span class="atom-split" data-atom="014" data-title="HERCULES OETAEUS (12/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="HERCULES OETAEUS (12/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [1610] He showed that now flames were as naught to him. What ‘neath the heavens has Hercules left by defeat unscathed? Lo, all things have been subdued.
 
@@ -804,7 +804,7 @@ PHILOCTETES
 
 ALCMENA
 
-<span class="atom-split" data-atom="015" data-title="HERCULES OETAEUS (13/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="HERCULES OETAEUS (13/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [1758] Fear ye the fates, O powers above! [Holding up the urn.] See the scant dust of Hercules – to this, to this has that mighty body shrunk! O Sun, how great a mass has passed away to nothingness! Ah me, this aged breast can hold Alcides, this is a tomb for him. See, Hercules has scarce filled all the urn; how light for me his weight upon whose shoulders the whole heavens as a light weight rested. Once to the farthest realms of Tartarus, O son, didst thou go but to return – Oh, when from infernal Styx wilt thou come again? Not in such wise as to bring e’en spoil with thee, nor that Theseus again may owe thee the light of day, – but when, though all alone? Will the whole world, heaped on thee, hold thy shade, on the hell-hound avail to keep thee back? When wilt thou batter down the Taenarian gates, or to what yawning jaws shall my mother betake herself, where is the approach to death? Thou takest thy journey to the dead, and ‘twill be thy only one. Why do I waste time in wailing? Why dost endure, O wretched life? Why clingest to the light? What Hercules can I again bring forth to Jove? What son so great will call me mother, will call me his Alcmena? Oh, too, too happy thou, my Theban husband, for thou to the realms of Tartarus didst descend, thy son still living; at thy approach the infernal ones, perchance, were filled with fear, merely because thou wast the sire of Hercules, even though falsely called. – What lands shall an aged woman seek, hated by savage kigns, if spite of all any savage king is left alive? Oh, woe is me! All sons who lament their murdered sires will seek revenge from me; they all will overwhelm me. If any young Busiris or if any young Antaeus terrifies the region of the burning zone, I shall be led off as booty; if any Ismarian seeks revenge for the herds of the bloody king of Thrace, upon my limbs will his horrid herds be fed. Juno, perchance, in [anger](/concepts/anger) will seek revenge; against me will the whole force of her wrath incline; though her soul is more disturbed by Alcides, o’ercome at last, I, the concubine, am left – ah! what punishments will she inflict, lest I be again a mother! This son has made my womb a thing of fear.
 
@@ -838,7 +838,7 @@ ALCMENA
 
 [1903] You too, ye thronging deities of the whirling heavens, bewail Hercules’ fate; for my Alcides bore your heavens upon his shoulders, your sky, ye gods above, when Atlas, starry Olympus’ prop, was eased of his load awhile. Where now are thy heights, O Jove? Where is the promised palace in the sky? Alcides, mortal, is dead! mortal, is buried! How oft did he save thee thy lightnings, how seldom thy fire needed hurling! Against me at least brandish thy lightning, and deem me Semele.
 
-<span class="atom-split" data-atom="016" data-title="HERCULES OETAEUS (14/14)" data-chapter="HERCULES OETAEUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="HERCULES OETAEUS (14/14)" data-chapter="HERCULES OETAEUS" data-kind="atom" data-srclang="en"></span>
 
 [1916] And now, O son, holdst thou the Elysian seats, holdst now the shore whither nature calls all peoples? Or after the dog was stolen has the dark Styx barred thy way, and on the very threshold of Dis do the fates delay thee? What confusion now, my son, seizes the shadowy spirits? Does the boatman draw away his skiff in flight? Do Thessalian Centaurs with flying hoofs smite the affrighted ghosts? Does the hydra in terror plunge his snaky heads beneath the waves and do thy toils all fear thee, O my son? Fooled, fooled am I, distracted, mad! Nor ghosts nor shadows are afraid of thee; the fearsome pelt, stripped from the Argolic lion, with its tawny mane shields thy left arm no more, and its savage teeth hedge not thy temples; thy quiver thou hast given away and now a lesser hand will aim thy shafts. Unarmed, my son, thou farest through the shades, and with them forever shalt thou abide.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_única_solución" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La única solución" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La única solución" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Podría decirse que estamos como en junio de 1917 si no fuese obligado decir que estamos mucho peor. En la información política hallará el lector algunas noticias sobre las hazañas que estos días están ejecutando las Juntas de defensa. Una última evidencia de lo que realmente acontece no es fácil tener, porque, para deshonor de España, la vida pública nacional lleva una existencia clandestina. Lo público por excelencia es estos días por excelencia secreto, y todas las instituciones del Estado han venido a contraerse hasta caber íntegras en un cuarto de banderas.
 

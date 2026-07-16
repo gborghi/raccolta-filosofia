@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/emociones_tornasoladas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Emociones tornasoladas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Emociones tornasoladas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 —¡Un pueblecito! —casi no nos es necesario leer este libro: nos bastaría con el título. En él está todo Azorín.
 

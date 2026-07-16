@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_amor_al_sino" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El amor al sino" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El amor al sino" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Mi artículo anterior se proponía, por lo pronto, una cosa: refrescar en las cabezas de los españoles la visión de la realidad nacional que es la República. Las disputas, combates y deseos particulares sobre si debe ser de este modo o debe ser del otro, e inclusive sobre si no debe ser, han anublado inconcebiblemente las retinas para la sencilla percepción de que la República, quiérase o no se quiera, es la realidad histórica en que ahora se está, que ahora es el pueblo español. Y, naturalmente, no me refiero al hecho de que hoy la forma de gobierno oficial sea la República. Me refiero a aquella realidad efectiva de la vida española actual que está por debajo de toda oficialidad, más allá y enfrente de nuestros deseos, preferencias, disputas e ideas sobre lo que debe ser o no debe ser.
 

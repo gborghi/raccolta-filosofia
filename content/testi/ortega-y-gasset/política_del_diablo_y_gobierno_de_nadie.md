@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/política_del_diablo_y_gobierno_de_nadie" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Política del diablo y Gobierno de nadie" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Política del diablo y Gobierno de nadie" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 A principios de octubre hicimos unas cuantas observaciones sobre la política iniciada en Llodio. Dijimos que se había aconsejado a la Monarquía perniciosamente, que los responsables la habían inducido a un grave error y la habían llevado a un callejón sin salida. Anunciábamos que en la situación presente de España el señor Dato no podría gobernar; le faltaban para ello las dos cosas esenciales: fuerzas políticas e ideas de gobierno. Cuando la declaración ministerial fue publicada, hicimos notar su inane y logomáquico contenido. Se advierte, decíamos, que estas gentes no tienen idea alguna de lo que van a hacer, que en su vida las han visto más gordas, y que, cegados por pasiones particulares, asumen las responsabilidades de gobierno con una inconsciencia sólo perdonable en menores de edad. Como el señor Dato no es precisamente un niño, sospechamos que se trata de su ingreso en la segunda infancia.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_universidad_española_y_la_universidad_alemana" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La Universidad española y la Universidad alemana" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La Universidad española y la Universidad alemana" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -44,7 +44,7 @@ Esta última es la más importante: de ella depende la capacidad y hace buenos o
 
 Contando con la paciencia del lector, se hablará de las tres dimensiones sucesivamente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Firmado X. Z., El Imparcial, 16 de enero de 1906
 
@@ -90,7 +90,7 @@ Quiere decir esto que si al cabo se emprende la reforma de la Universidad, no se
 
 «España debió ser la Grecia cristiana». Este imperativo histórico, al que hemos faltado hasta ahora, puede ser realidad algún día, y aunque este día sea lejano, con un poco de buena fe podemos irlo preparando. Para volver a España nada menos que en una Grecia, no es ciertamente la Universidad el único instrumento, pero sí el más importante.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Hemos convenido —según notábamos en el artículo anterior— que para renovar y enriquecer la agricultura es preciso dar de lado al viejo arado de los padres de Roma, y que para crear civilización hay que desechar también el arado romano universitario. Todo es cuestión de arados, y es vieja la idea: las selvas se apaciguan con el arado, decía Horacio el viejo: pacantur vomere silvae. Ahora bien, la Universidad es la fábrica de arados que ararán el porvenir.
 
@@ -136,7 +136,7 @@ Firmado X. Z., El Imparcial, 1 de febrero de 1906
 
 IV
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Quedábamos en que los estudiantes nuestros son malos estudiantes y malos profesores nuestros profesores porque la Universidad es mala y no al contrario. No se diga que ésta es tan sólo la suma y conocimiento de alumnos y profesores, porque el mismo Pero Grullo, último padre de la Iglesia, olvidado injustamente por Migne, protestaría de ello; pueden ser unos y otros cumplidores de sus deberes y el resultado mezquino, como ocurre en Francia. Un verso no es un puñado de letras, sino un orden de letras. Ese orden es lo que está en la mente del poeta y lo que se llama idea.
 
@@ -168,7 +168,7 @@ SUELDOS Y HONORARIOS.— El profesor alemán tiene dos suertes de ganancias: una
 
 Según la orden de 1897 los profesores ordinarios de Prusia reciben 4.000 marcos de sueldo y si lo son en Berlín 4.800, poco más de 7.000 pesetas con moquillo. Los extraordinarios 2.000 marcos, 2.400 en Berlín. Los ascensos hasta cinco, en Berlín seis, son de 400 marcos cada cuatro años.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los honorarios varían grandemente según la personalidad del profesor y según la disciplina. Las más elevadas materias de la ciencia tienen muy pocos oyentes, al paso que las elementales y populares son escuchadas por verdaderos rebaños de aprendices. En 1900 hubo la siguiente proporción entre los honorarios cobrados por los 502 profesores prusianos:
 
@@ -234,7 +234,7 @@ Luego aparece el primer libro donde aquellos años de juvenil meditación se mue
 
 El sabio siente la madurez de su espíritu como en la niñez sintió la pubertad de su cuerpo. Entonces elige una Universidad y pide a la facultad permiso para explicar, venia legendi: compone su curriculum vitae, un esquema de su vida, envía a informe sus obras y dos discursos, uno de ellos dirigido a la facultad, el otro en forma de lección (Vorlesung) a los estudiantes. La facultad delibera: estos dos discursos son meras fórmulas que no se toman en cuenta. Lo importante son las obras, sean impresas o manuscritas que manifieste el peticionario; es decir que «la capacidad creadora científica es lo decisivo para entrar en la carrera académica; un colegio de sabios aprueba o reprueba las condiciones de sabio del joven científico».
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Concedida la venia legendi, inicia sus explicaciones con igual libertad que un profesor ordinario: su lección —y esto es muy importante— se considera válida como la de éste para el cuadro de disciplinas, cultivadas oficialmente, que se exige a los estudiantes cuando solicitan sus grados. Por su trabajo no cobra sueldo del Estado, sólo percibe los honorarios de sus clases, que a fuer de maestro nuevo, suelen ser pequeñísimos. Y siguen años, muchos años ordinariamente, a veces toda la vida, sin que llegue el deseado profesorazgo. ¿De qué vive en tanto? Como no posea alguna [fortuna](/concepts/fortune) de herencia, o su labor libresca o lecciones particulares no le ayuden, no vive. En Alemania, al contrario que en España, la ciencia es patrimonio de los hombres acomodados, ya que no ricos, al paso que entre nosotros es cosa que se deja al buen arbitrio de algunos golfos geniales. Claro que también lo que en Alemania ocurre es perjudicial: conviene que la ciencia esté en manos a quienes no ate ni trabe excesivamente la necesidad; sólo así se la librará de caer en un ganapán, cosa que jamás, jamás, debe ser la profesión de maestro. Pero, en cambio, se desperdician muchas fuerzas que acaso fueran las mejores, porque las tales fuerzas habían ido a asentarse en cuerpos proletarios. Para obviar, siquiera en corto trecho, ese inconveniente, creáronse en 1875 unas ayundantías por valor total de 54.000 marcos, que se otorgaban a mozos de largas esperanzas y de escasos dineros. Cada ayudantía dura cuatro años: en su ejercicio puede el joven maestro hacerse lo bastantemente conocido para que sus lecciones sean escuchadas por un número crecido de oyentes.
 
@@ -266,7 +266,7 @@ Hoy existe gran pendencia entre los sustentadores de la lección y los defensore
 
 La lección es actualmente lo mismo que era en los tiempos clásicos de la Universidad de Salamanca, salvo que allí se «leía» al maestro en o acerca de un libro prefijado y así las cátedras de Avicena y de Lulio eran como glosas habladas de las obras de uno y otro. Hoy la lección es una semilectura sobre los apuntes (Kollegheft, Kolleg) que el profesor ha bosquejado previamente, apuntes que vienen a ser la armazón de alambre que sustenta el discurso libre ante los estudiantes. Pero no se crea que este discurso es algo parecido a las ingeniosas y elocuentes divagaciones del Colegio de Francia, que el mismo Renan condenó: la Vorlesung, de una a cinco horas semanales, es una exposición sistemática de una disciplina, o de una parte de ella, seguida con todo rigor científico por lo común y mezclada con recomendaciones para el trabajo aislado y personal de los oyentes, con crítica bibliográfica, etcétera.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El complicado artefacto de la ciencia va apareciendo poco a poco ante los estudiosos noveles, van fijándose sus líneas, cuajándose sus fondos, irguiéndose los problemas y floreciendo sobre ellos súbitamente las soluciones como las veletas en las torres. El solícito oyente puede decir que ha visto cómo se creaba ante él la ciencia completa de la nada, o mejor dicho, de la confusa realidad vulgar. Véanse los títulos de algunas Vorlesungen, tomados del índice de lecciones de la Universidad de Berlín para el semestre invernal que ahora termina:
 
@@ -310,7 +310,7 @@ Y dicen los defensores:
 
 4.º En las disciplinas cuyo objeto puede ser mostrado intuitivamente (anatomía, etcétera), ni que dudar tiene, pero aún en las otras (derecho, filosofía, etcétera) también es útil el discurso, pues consiente la patentización del proceso de ideas en forma de esquemas. (Nótese que un alemán es capaz de poner en esquemas de «Tauromaquia» la de Montes sin moverse de un ladrillo).
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 5.º Es además útil para el profesor porque el tener que dirigirse a gentes aún ignorantes del «argot» científico, «argot» que suele ser más de conceptos que de palabras, y el haber de atraer blandamente su atención y retenerla evita el excesivo especialismo y la hieratización científica. Demás de esto obliga al sabio a volver con gran frecuencia su pensamiento a los primeros elementos básicos de su ciencia.
 

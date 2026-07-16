@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_región_no_es_definida" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La región no es definida" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La región no es definida" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 V. La idea de la región, en consecuencia, repele la idea de soberanía. Sólo cabe llamarla autonomía. Hablemos, pues, sólo de autonomía regional.
 

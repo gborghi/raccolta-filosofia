@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/cultura_y_culturas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Cultura y culturas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Cultura y culturas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La Historia es el ensayo que un hombre hace de entender a los demás. Por eso, es preciso que al construirla evitemos introducir en ella nuestros ideales. Los demás son precisamente «los demás», y no nosotros mismos, porque tienen ideales distintos de los nuestros. En qué y en cuánto se diferencian, es justamente lo que la historia va a averiguar.
 

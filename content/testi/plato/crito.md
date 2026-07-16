@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/crito" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="CRITO" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="CRITO" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -102,7 +102,7 @@ CRITO: Fear not — there are persons who are willing to get you out of prison a
 
 that you will have a difficulty in knowing what to do with yourself anywhere else. For men will love you in other places to which you may go, and not in Athens only; there are friends of mine in Thessaly, if you like to go to them, who will value and protect you, and no Thessalian will give you any trouble. Nor can I think that you are at all justified, Socrates, in betraying your own life when you might be saved; in acting thus you are playing into the hands of your enemies, who are hurrying on your destruction. And further I should say that you are deserting your own children; for you might bring them up and educate them; instead of which you go away and leave them, and they will have to take their chance; and if they do not meet with the usual fate of orphans, there will be small thanks to you. No man should bring children into the world who is unwilling to persevere to the end in their nurture and [education](/concepts/education). But you appear to be choosing the easier part, not the better and manlier, which would have been more becoming in one who professes to care for virtue in all his actions, like yourself. And indeed, I am ashamed not only of you, but of us who are your friends, when I reflect that the whole business will be attributed entirely to our want of courage. The trial need never have come on, or might have been managed differently; and this last act, or crowning folly, will seem to have occurred through our negligence and cowardice, who might have saved you, if we had been good for anything; and you might have saved yourself, for there was no difficulty at all. See now, Socrates, how sad and discreditable are the consequences, both to us and you. Make up your mind then, or rather have your mind already made up, for the time of deliberation is over, and there is only one thing to be done, which must be done this very night, and, if we delay at all, will be no longer practicable or possible; I beseech you therefore, Socrates, be persuaded by me, and do as I say.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Dear Crito, your zeal is invaluable, if a right one; but if wrong, the greater the zeal the greater the danger; and therefore we ought to consider whether I shall or shall not do as you say. For I am and always have been one of those natures who must be guided by reason, whatever the reason may be which upon reflection appears to me to be the best; and now that this [chance](/concepts/fortune) has befallen me, I cannot repudiate my own words: the principles which I have hitherto honoured and revered I still honour, and unless we can at once find other and better principles, I am certain not to agree with you; no, not even if the power of the multitude could inflict many more imprisonments, confiscations, deaths, frightening us like children with hobgoblin terrors. 
 
@@ -206,7 +206,7 @@ SOCRATES: For doing evil to another is the same as injuring him?
 
 CRITO: Very true.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Then we ought not to retaliate or render evil for evil to anyone, whatever evil we may have suffered from him. But I would have you consider, Crito, whether you really mean what you are saying. For this opinion has never been held, and never will be held, by any considerable number of persons; and those who are agreed and those who are not agreed upon this point have no common ground, and can only despise one another when they see how widely they differ. Tell me, then, whether you agree with and assent to my first principle, that neither injury nor retaliation nor warding off evil by evil is ever right. And shall that be the premise of our argument? Or do you decline and dissent from this? For so I have ever thought, and continue to think; but, if you are of another opinion, let me hear what you have to say. If, however, you remain of the same mind as formerly, I will proceed to the next step.
 
@@ -238,7 +238,7 @@ For you never went out of the city either to see the games, except once when you
 
 8
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 and that you were not unwilling to die. And now you have forgotten these fine sentiments, and pay no respect to us the laws, of whom you are the destroyer; and are doing what only a miserable slave would do, running away and turning your back upon the compacts and agreements which you made as a citizen. And first of all answer this very question: Are we right in saying that you agreed to be governed according to us in deed, and not in word only? Is that true or not?’ How shall we answer, Crito? Must we not assent?
 

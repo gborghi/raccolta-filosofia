@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_afirmación_de_la_moral_y_de_la_nación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La afirmación de la moral y de la nación" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La afirmación de la moral y de la nación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cada pueblo renace hoy de afirmar lo que más falta le hacía; por eso tiene que descender, en profundo buceo de sinceridad, al sótano de sus angustias, de sus lacras y de sus defectos, y luego emerger de nuevo en un ansia gigantesca de corrección y perfeccionamiento. En España no ofrece duda qué es lo que más falta: moral. Es un pueblo desmoralizado en los dos sentidos de la palabra —el ético y el vital. Sólo puede renacer de una política que comience por ser una moral, una moral exasperada, exigentísima, que reclame al hombre entero y lo sature, que arroje de él cuanto en él hay de encanallamiento, de vileza, de chabacanería, de chiste e incapacidad para las nobles empresas.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ética_de_los_griegos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ética de los griegos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ética de los griegos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -58,7 +58,7 @@ Sin duda, el sol de Grecia, la alegría de vivir del hombre helénico, el firmam
 
 Entretanto, alborea la conciencia individual. (En qué medida los griegos llegaron nunca a poseer plenamente la idea del individuo personal, es cuestión aparte). La individualidad fue el resultado de una aventura colonial.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 De las viejas ciudades continentales tuvieron que emigrar los más díscolos, los más audaces. Llegaron a las costas asiáticas y conquistaron tierras, donde labraron ciudades nuevas. Que nadie pretendiese contarles, como era sólito en las metrópolis, el origen divino de la ciudad y los derechos sagrados al mando adscritos a las familias descendientes del dios fundador. La ciudad nueva, hecha con sus manos o ganada con sus corajes, era obra individual suya, no recibida por tradición. La individualidad de la obra repercute en la mente de su autor, que se sospecha entonces individuo entre individuos, iguales en derechos y potencias. La política, en principio democrática, la independencia histórica, es el supuesto de la ciencia individual.
 
@@ -88,7 +88,7 @@ Con Sócrates ingresa en el pensamiento helénico otro principio que, unido indi
 
 No hay figura más grande en Grecia. Ya un antiguo le llamó «Hélade de Hélade», triple extracto de helenismo. Como para mí todo lo griego es sospechoso y equívoco —no por azar, sino constitutivamente, no me extraña que este archigriego sea archiequívoco. No hay por dónde apresarlo. Estos años últimos se ha conseguido una mayor proximidad a su fugitiva fisonomía. Se ha conseguido a fuerza de negaciones. El gran libro de Enrique Maier, publicado en 1913[27], demuestra que Sócrates no fue ni siquiera filósofo. Fue todo lo contrario: un enemigo de la filosofía, de toda filosofía. Tanto, que detuvo el carro de la ciencia griega, y, en cierto modo, lo atascó para siempre.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El esfuerzo científico se nutre de dos impulsos diferentes, pero que han de coexistir y complementarse. Uno es la curiosidad de intelección; otro es el afán de salvación. La curiosidad es el aguijón que incita a investigar, a poner en duda lo recibido; impide la anquilosis de los pensamientos en dogmas, y dilata constantemente nuestra esfera mental. Pero bajo su sola inspiración, el hombre se movería intelectualmente de aquí para allá, frívolamente, desperdigada la atención en innumerables «curiosidades». Ahora bien: la específica dignidad de la ciencia exige que ésta sea algo más que un montón de cosas curiosas. De aquí que la curiosidad necesite someterse a una grave disciplina: el afán de resolver el gigante problema de la vida, de crear un sistema del universo, completo, solidario, en el cual nuestra mente descanse. Mientras yo no sepa lo que es el universo, mi vida no tiene sentido, porque es ella una mínima palabra y fragmento de una frase enorme, cósmica, que sólo en su integridad posee significación. Esa posibilidad de completarnos, averiguando lo que es el resto del mundo, es la «salvación». La ciencia hereda este afán de la mitología y de la religión; a él debe su arquitectura sistemática, su orden e interior jerarquía, su urgencia. Pero sin curiosidad la veríamos recaer muy pronto en el dogmatismo religioso y místico.
 

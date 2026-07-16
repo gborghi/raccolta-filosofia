@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/meno" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="MENO" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="MENO" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -126,7 +126,7 @@ MENO: What do you mean?
 
 SOCRATES: I mean as I might say about anything; that a round, for example, is ‘a figure’ and not simply ‘figure,’ and I should adopt this mode of speaking, because there are other figures.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 MENO: Quite right; and that is just what I am saying about virtue — that there are other virtues as well as justice.
 
@@ -260,7 +260,7 @@ MENO: But I will stay, Socrates, if you will give me many such answers.
 
 SOCRATES: Well then, for my own sake as well as for yours, I will do my very best; but I am afraid that I shall not be able to give you very many as good: and now, in your turn, you are to fulfil your promise, and tell me what virtue is in the universal; and do not make a singular into a plural, as the facetious say of those who break a thing, but deliver virtue to me whole and sound, and not broken into a number of pieces: I have given you the pattern.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 MENO: Well then, [Socrates](/figures/socrates), virtue, as I take it, is when he, who desires the honourable, is able to provide it for himself; so the poet says, and I say too —
 
@@ -402,7 +402,7 @@ SOCRATES: I can tell why you made a simile about me.
 
 MENO: Why?
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): In order that I might make another simile about you. For I know that all pretty young gentlemen like to have pretty similes made about them — as well they may — but I shall not return the compliment. As to my being a torpedo, if the torpedo is torpid as well as the cause of torpidity in others, then indeed I am a torpedo, but not otherwise; for I perplex others, not because I am clear, but because I am utterly perplexed myself. And now I know not what virtue is, and you seem to be in the same case, although you did once perhaps know before you touched me. However, I have no objection to join with you in the enquiry.
 
@@ -564,7 +564,7 @@ SOCRATES: Then the line which forms the side of eight feet ought to be more than
 
 BOY: It ought.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Try and see if you can tell me how much it will be.
 
@@ -754,7 +754,7 @@ SOCRATES: Then, as we are agreed that a man should enquire about that which he d
 
 MENO: By all means, Socrates. And yet I would much rather return to my original question, Whether in seeking to acquire virtue we should regard it as a thing to be taught, or as a gift of nature, or as coming to men in some other way?
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Had I the command of you as well as of myself, Meno, I would not have enquired whether virtue is given by instruction or not, until we had first ascertained ‘what it is.’ But as you think only of controlling me who am your slave, and never of controlling yourself, — such being your notion of freedom, I must yield to you, for you are irresistible. And therefore I have now to enquire into the qualities of a thing of which I do not as yet know the nature. At any rate, will you condescend a little, and allow the question ‘Whether virtue is given by instruction, or in any other way,’ to be argued upon hypothesis? As the geometrician, when he is asked whether a certain triangle is capable being inscribed in a certain circle (Or, whether a certain area is capable of being inscribed as a triangle in a certain circle.), will reply: ‘I cannot tell you as yet; but I will offer a hypothesis which may assist us in forming a conclusion: If the figure be such that when you have produced a given side of it (Or, when you apply it to the given line, i.e. the diameter of the circle (autou).), the given area of the triangle falls short by an area corresponding to the part produced (Or, similar to the area so applied.), then one consequence follows, and if this is impossible then some other; and therefore I wish to assume a hypothesis before I tell you whether this triangle is capable of being inscribed in the circle’: — that is a geometrical hypothesis. And we too, as we know not the nature and qualities of virtue, must ask, whether virtue is or is not taught, under a hypothesis: as thus, if virtue is of such a class of mental goods, will it be taught or not? Let the first hypothesis be that virtue is or is not knowledge, — in that case will it be taught or not? or, as we were just now saying, ‘remembered’? For there is no use in disputing about the name. But is virtue taught or not? or rather, does not every one see that knowledge alone is taught?
 
@@ -868,7 +868,7 @@ SOCRATES: And conversely, may not the art of which neither teachers nor disciple
 
 MENO: True; but do you think that there are no teachers of virtue?
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I have certainly often enquired whether there were any, and taken great pains to find them, and have never succeeded; and many have assisted me in the search, and they were the persons whom I thought the most likely to know. Here at the moment when he is wanted we fortunately have sitting by us Anytus, the very person of whom we should make enquiry; to him then let us repair. In the first place, he is the son of a wealthy and wise father, Anthemion, who acquired his wealth, not by accident or gift, like Ismenias the Theban (who has recently made himself as rich as Polycrates), but by his own skill and industry, and who is a well-conditioned, modest man, not insolent, or overbearing, or annoying; moreover, this son of his has received a good [education](/concepts/education), as the Athenian people certainly appear to think, for they choose him to fill the highest offices. And these are the sort of men from whom you are likely to learn whether there are any teachers of virtue, and who they are. Please, Anytus, to help me and your friend Meno in answering our question, Who are the teachers? Consider the matter thus: If we wanted Meno to be a good physician, to whom should we send him? Should we not send him to the physicians?
 
@@ -934,7 +934,7 @@ SOCRATES: And must not he then have been a good teacher, if any man ever was a g
 
 ANYTUS: Yes certainly, — if he wanted to be so.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But would he not have wanted? He would, at any rate, have desired to make his own son a good man and a gentleman; he could not have been jealous of him, or have intentionally abstained from imparting to him his own virtue. Did you never hear that he made his son Cleophantus a famous horseman; and had him taught to stand upright on horseback and hurl a javelin, and to do many other marvellous things; and in anything which could be learned from a master he was well trained? Have you not heard from our elders of him?
 
@@ -1048,7 +1048,7 @@ SOCRATES: I mean that good men are necessarily useful or profitable. Were we not
 
 MENO: Yes.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And in supposing that they will be useful only if they are true guides to us of action — there we were also right?
 

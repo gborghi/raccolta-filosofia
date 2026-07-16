@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/philebus" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="PHILEBUS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="PHILEBUS" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -126,7 +126,7 @@ PROTARCHUS: Speak plainer.
 
 SOCRATES: The principle which has just turned up, which is a marvel of nature; for that one should be many or many one, are wonderful propositions; and he who affirms either is very open to attack.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 PROTARCHUS: Do you mean, when a person says that I, Protarchus, am by nature one and also many, dividing the single ‘me’ into many ‘me’s,’ and even opposing them as great and small, light and heavy, and in ten thousand other ways?
 
@@ -194,7 +194,7 @@ SOCRATES: But you would not be a real musician if this was all that you knew; th
 
 PROTARCHUS: Nothing.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But when you have learned what sounds are high and what low, and the number and nature of the intervals and their limits or proportions, and the systems compounded out of them, which our fathers discovered, and have handed down to us who are their descendants under the name of harmonies; and the affections corresponding to them in the movements of the human body, which when measured by numbers ought, as they say, to be called rhythms and measures; and they tell us that the same principle should be applied to every one and many; — when, I say, you have learned all this, then, my dear friend, you are perfect; and you may be said to understand any other subject, when you have a similar grasp of it. But the [infinity](/concepts/infinity) of kinds and the infinity of individuals which there is in each of them, when not classified, creates in every one of us a state of infinite ignorance; and he who never looks for number in anything, will not himself be looked for in the number of famous men.
 
@@ -290,7 +290,7 @@ SOCRATES: Would you choose, Protarchus, to live all your life long in the enjoym
 
 PROTARCHUS: Certainly I should.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Would you consider that there was still anything wanting to you if you had perfect pleasure?
 
@@ -412,7 +412,7 @@ SOCRATES: Then, says the argument, there is never any end of them, and being end
 
 PROTARCHUS: Yes, Socrates, that is exceedingly true.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Yes, my dear Protarchus, and your answer reminds me that such an expression as ‘exceedingly,’ which you have just uttered, and also the term ‘gently,’ have the same significance as more or less; for whenever they occur they do not allow of the existence of quantity — they are always introducing degrees into actions, instituting a comparison of a more or a less excessive or a more or a less gentle, and at each creation of more or less, quantity disappears. For, as I was just now saying, if quantity and measure did not disappear, but were allowed to intrude in the sphere of more and less and the other comparatives, these last would be driven out of their own domain. When definite quantity is once admitted, there can be no longer a ‘hotter’ or a ‘colder’ (for these are always progressing, and are never in one stay); but definite quantity is at rest, and has ceased to [progress](/positions/progress). Which proves that comparatives, such as the hotter and the colder, are to be ranked in the class of the infinite.
 
@@ -562,7 +562,7 @@ SOCRATES: This is evidently comprehended in the third or mixed class; which is n
 
 PROTARCHUS: Most true.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And what shall we say, Philebus, of your life which is all sweetness; and in which of the aforesaid classes is that to be placed? Perhaps you will allow me to ask you a question before you answer?
 
@@ -696,7 +696,7 @@ SOCRATES: And let us remember, too, of both of them, (1) that mind was akin to t
 
 PROTARCHUS: I shall be sure to remember.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): We must next examine what is their place and under what conditions they are generated. And we will begin with pleasure, since her class was first examined; and yet pleasure cannot be rightly tested apart from pain.
 
@@ -868,7 +868,7 @@ PROTARCHUS: By heavens, Socrates, that is a question which is not easily answere
 
 SOCRATES: Then let us go back to our examples.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 PROTARCHUS: Where shall we begin?
 
@@ -1104,7 +1104,7 @@ SOCRATES: And do not opinion and the endeavour to form an opinion always spring 
 
 PROTARCHUS: Certainly.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Might we imagine the process to be something of this nature?
 
@@ -1310,7 +1310,7 @@ SOCRATES: Then the opinions were true and false, and infected the pleasures and 
 
 PROTARCHUS: Very true.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But now it is the pleasures which are said to be true and false because they are seen at various distances, and subjected to comparison; the pleasures appear to be greater and more vehement when placed side by side with the pains, and the pains when placed side by side with the pleasures.
 
@@ -1474,7 +1474,7 @@ PROTARCHUS: That is obvious as soon as it is said.
 
 SOCRATES: Well, then, shall we not be right in saying, that if a person would wish to see the greatest pleasures he ought to go and look, not at health, but at disease? And here you must distinguish: — do not imagine that I mean to ask whether those who are very ill have more pleasures than those who are well, but understand that I am speaking of the magnitude of pleasure; I want to know where pleasures are found to be most intense. For, as I say, we have to discover what is pleasure, and what they mean by pleasure who deny her very existence.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 PROTARCHUS: I think I follow you.
 
@@ -1634,7 +1634,7 @@ SOCRATES: But we must pursue the division a step further, Protarchus, if we woul
 
 PROTARCHUS: How can we make the further division which you suggest?
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): All who are silly enough to entertain this lying conceit of themselves may of course be divided, like the rest of mankind, into two classes — one having power and might; and the other the reverse.
 
@@ -1768,7 +1768,7 @@ SOCRATES: Suppose that we first of all take whiteness.
 
 PROTARCHUS: Very good.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): How can there be purity in whiteness, and what purity? Is that purest which is greatest or most in quantity, or that which is most unadulterated and freest from any admixture of other colours?
 
@@ -1938,7 +1938,7 @@ SOCRATES: Certainly, Protarchus; but are not these also distinguishable into two
 
 PROTARCHUS: What are the two kinds?
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): In the first place, arithmetic is of two kinds, one of which is popular, and the other philosophical.
 
@@ -2084,7 +2084,7 @@ SOCRATES: That the good differs from all other things.
 
 PROTARCHUS: In what respect?
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): In that the being who possesses good always everywhere and in all things has the most perfect sufficiency, and is never in need of anything else.
 
@@ -2210,7 +2210,7 @@ SOCRATES: Very true. And now let us go back and interrogate wisdom and mind: Wou
 
 PROTARCHUS: Likely enough.
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And we shall take up our parable and say: Do you wish to have the greatest and most vehement pleasures for your companions in addition to the true ones? ‘Why, Socrates,’ they will say, ‘how can we? seeing that they are the source of ten thousand hindrances to us; they trouble the souls of men, which are our habitation, with their madness; they prevent us from coming to the birth, and are commonly the ruin of the children which are born to us, causing them to be forgotten and unheeded; but the true and pure pleasures, of which you spoke, know to be of our family, and also those pleasures which accompany health and temperance, and which every Virtue, like a goddess, has in her train to follow her about wherever she goes, — mingle these and not the others; there would be great want of sense in any one who desires to see a fair and perfect mixture, and to find in it what is the highest good in man and in the universe, and to divine what is the true form of good — there would be great want of sense in his allowing the pleasures, which are always in the company of folly and vice, to mingle with mind in the cup.’ — Is not this a very rational and suitable reply, which mind has made, both on her own behalf, as well as on the behalf of memory and true opinion?
 
@@ -2344,7 +2344,7 @@ SOCRATES: And, according to the judgment which has now been given, pleasure will
 
 PROTARCHUS: True.
 
-<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But not first; no, not even if all the oxen and horses and animals in the world by their pursuit of enjoyment proclaim her to be so; — although the many trusting in them, as diviners trust in birds, determine that pleasures make up the good of life, and deem the lusts of animals to be better witnesses than the inspirations of divine philosophy.
 

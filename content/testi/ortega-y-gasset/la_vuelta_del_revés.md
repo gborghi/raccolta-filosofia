@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_vuelta_del_revés" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La vuelta del revés" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La vuelta del revés" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Al sustantivarse la metáfora se hace, más o menos, protagonista de los destinos poéticos. Esto implica sencillamente que la intención estética ha cambiado de signo, que se ha vuelto del revés. Antes se vertía la metáfora sobre una realidad, a manera de adorno, encaje o capa pluvial. Ahora, al revés, se procura eliminar el sostén extra-poético o real y se trata de realizar la metáfora, hacer de ella la res poética. Pero esta inversión del proceso estético no es exclusiva del menester metafórico, sino que se verifica en todos los órdenes y con todos los medios hasta convertirse en un cariz general —como tendencia[103]— de todo el arte al uso.
 

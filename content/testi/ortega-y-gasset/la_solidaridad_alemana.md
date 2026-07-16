@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_solidaridad_alemana" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La solidaridad alemana" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La solidaridad alemana" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Que los hombres se esfuercen a la hora de ahora en compaginarse formando solidaridades, no me parece un indicio favorable de su energía cultural. Es más, creo que esas nuevas formas políticas revelan un amenguamiento y debilitación de la conciencia política europea. El [idealismo](/positions/idealism) social, que originario de corrientes soterráneas se abrió paso en la torrentera gloriosa de la revolución francesa, ha ido perdiendo brío a lo largo del siglo XIX, y hoy, los sedientos de una noble emoción política, tienen que ir a abrevarse en ocultos hilillos de frescor que aún quedan allá y acá, esparcidos, tenues, murientes. El tórrido [materialismo](/positions/materialism) conservador ha ido secando en los cauces las aguas claras que fluían: la razón económica se ha convertido en centro de gravedad de la política, y los partidos liberales, nacidos para fomentar ideas y deberes humanos, parecen ocuparse únicamente de conservar y defender el crédito de un hombre, de una casta o de un pueblo.
 
@@ -34,7 +34,7 @@ En las elecciones perdieron los socialistas muchos puestos, que ganaron los naci
 
 Llevamos todos en aluvión por nuestras venas algunas arenillas de este divino Mare Nostrum que tiene la sonrisa innumerable. Y si orientamos nuestra alma, que con severa y avisada virtud nos hemos hecho en la desventura humilde, hacia el mar profundo del Norte para aprender en él la sabiduría de lo que está más allá de la física, nos acompaña, en cambio, como viático, la sabiduría antropológica, la distinción estética y la malicia que enseñan el tiempo y sus hijas las diversas fortunas. Las olas reverberantes del Mediterráneo, clásico constructor de repúblicas, han pulido en largos siglos el canto rodado de nuestro corazón, y quiso el destino que una tarde le rozara al paso la quilla llena de ovas de la barca de Ulises. Tenemos el corazón antiguo y memorioso; y nos ocurriría cien veces, viviendo entre alemanes, decirles lo que al ateniense hablaron los sacerdotes egipcios: «Vosotros los griegos sois unos niños. Y si estáis hoy en auge, ya os llegará la mengua».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pero no es preciso que lo digamos nosotros; ahí está el mismo Goethe, que lo formuló conversando con Eckermann en 3 de mayo de 1827: «Nosotros los alemanes somos de ayer. Hemos trabajado mucho, a la verdad, desde hace cien años; pero aún tienen que pasar unos siglos antes de que penetre y se generalice en nuestros compatriotas tanto de espíritu y superior cultura que lleguen a venerar la Belleza, como los griegos, a entusiasmarse por una canción linda, y que pueda, en fin, decirse de ellos que hace mucho que fueron bárbaros».
 

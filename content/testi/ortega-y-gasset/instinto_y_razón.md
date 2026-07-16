@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/instinto_y_razón" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Instinto y razón" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Instinto y razón" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero Stefansson no hubiera podido hacer esto si previamente no hubiese aprendido de los esquimales a cazar focas y construir casas de hielo. El método de «vivir sobre el país» presupone la imitación del esquimal. Se trataba, pues, de aprovechar la experiencia instintiva pero milenaria del habitante primitivo y añadirle el suplemento de la razón y del coraje que sólo el hombre ario posee.
 

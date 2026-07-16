@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/justa_suspicacia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Justa suspicacia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Justa suspicacia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Esta socialización evolutiva de la riqueza encuentra un grave enemigo, vaya dicho sin ambages. Los enemigos de la evolución, los que han logrado convertir al revolucionarismo al proletariado casi íntegro, han sido los hombres del pasado, o, como aún decimos por irónica cortesía, los de la derecha. Lo más grave de todo el movimiento obrero, lo que ya es acaso incorregible y —no nos hacemos ilusiones—, traerá consigo, fatalmente, convulsionarias escenas, es la suspicacia anidada en el corazón del proletario. Ahora mismo, el obrero que acaba de leer nuestra taxativa declaración de fe en el principio del trabajo, no creerá en ella porque hemos añadido la necesidad de imponerlo evolutivamente. La evolución supone que las derechas no vulnerarán jamás una ley para impedir que los obreros ganen terreno. ¿No es eso otra utopía? —dicen, con no escasa razón, los obreros.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pueblo_agrícola" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Pueblo agrícola" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Pueblo agrícola" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La vertiginosidad con que se constituye el Estado egipcio y su relativo estancamiento posterior tienen dos causas, material la una, psicológica la otra. La [causa](/concepts/cause) material fue, como es sabido, el Nilo. Aunque parcial, sigue pareciéndonos verdadera la fórmula canónica dada por Herodoto: «Egipto es un don del Nilo».
 

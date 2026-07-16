@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/seneca/medea" data-philosopher="Seneca"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="MEDEA" data-chapter="DRAMATIS PERSONAE" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="MEDEA" data-chapter="DRAMATIS PERSONAE" data-kind="intro" data-srclang="en"></span>
 
 MEDEA, daughter of Aeëtes, king of Colchis, and wife of Jason.
 
@@ -40,7 +40,7 @@ THE TIME of the play is confined to the single day of the culmination of the tra
 
 THE SCENE is in Corinth, in the court of the house of Jason.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
 
 Although the play is confined in time to the final day of catastrophe at Corinth, the background is the whole romantic story of the Argonauts: how Jason and his hero-comrades, at the instigation of Pelias, the usurping king of Thessalian Iolchos, undertook the first voyage in quest of the Golden Fleece; how, after many adventures, these first sailors reached the kingdom of Aeëtes, who jealously guarded the fleece, since upon its possession depended his kingship; how the three deadly labours were imposed upon Jason before the fleece could be won – the yoking of the fiery bulls, the contest with the giants that sprang from the sown serpent’s teeth, and the overcoming of the sleepless dragon that ever guarded the fleece; how, smitten by love of him, the beautiful barbaric Medea, daughter of the king, by the help of her magic aided Jason in all these labours and accompanied him in his flight; how to retard her father’s pursuit she slew her brother and scattered his mangled remains in the path as they fled; how again, for love of Jason, she restored his father to youth and tricked Pelias’ own daughters into slaying their aged sire; how, for this act, Medea with her husband were exiled from Thessalia and dwelt in Corinth; how, for ten happy years, she lived with her husband and two sons in this alien land, her wild past almost forgotten, her magic untouched.
 
@@ -48,7 +48,7 @@ But now Jason has been won away from his wife, and is about to wed Creusa, the d
 
 MEDEA
 
-<span class="atom-split" data-atom="003" data-title="MEDEA (1/7)" data-chapter="MEDEA" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="MEDEA (1/7)" data-chapter="MEDEA" data-kind="atom" data-srclang="en"></span>
 
 [1] Ye gods of wedlock, and thou, Lucina, guardian of the nuptial couch, and thou who didst teach Tiphys to guide his new barque to the conquest of the seas, and thou, grim ruler of the deeps of Ocean, and Titan, who dost portion out bright day unto the world, and thou who doest show thy bright face as witness of the silent mysteries, O three-formed Hecate, and ye gods by whose divinity Jason swore to me, to whom Medea may more lawfully appeal – thou chaos of endless night, ye realms remote from heaven, ye unhallowed ghosts, thou lord of the realm of gloom, and thou, his queen, won by violence but with better faith, with ill-omened speech I make my prayer to you. Be present, be present, ye goddesses who avenge crime, your hair foul with writhing snakes, grasping the smoking torch with your bloody hands, be present now, such as once ye stood in dread array beside my marriage couch; upon this new wife destruction bring, destruction on this father-in-law and the whole royal stock.
 
@@ -102,7 +102,7 @@ MEDEA
 
 NURSE
 
-<span class="atom-split" data-atom="004" data-title="MEDEA (2/7)" data-chapter="MEDEA" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="MEDEA (2/7)" data-chapter="MEDEA" data-kind="atom" data-srclang="en"></span>
 
 [162] No hope points out a way for our broken fortunes.
 
@@ -302,7 +302,7 @@ CREON
 
 CHORUS
 
-<span class="atom-split" data-atom="005" data-title="MEDEA (3/7)" data-chapter="MEDEA" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="MEDEA (3/7)" data-chapter="MEDEA" data-kind="atom" data-srclang="en"></span>
 
 [301] Too venturesome the man who in frail barque first cleft the treacherous seas and, with one last look behind him at the well-known shore, trusted his life to the fickle winds; who, ploughing the waters on an unknown course, could trust to a slender plank, stretching too slight a boundary between the ways of life and death.
 
@@ -364,7 +364,7 @@ MEDEA
 
 [447] We are fleeing, Jason, fleeing. ’Tis no new thing to change our abode; but the cause of flight is new – ’twas for thee I was wont to flee. I withdraw, I go away, whom thou art forcing to flee forth from thy home; but whither doest thou send me back? Shall I seek Phasis and the Colchians, my father’s kingdom, the fields drenched with my brother’s blood? What lands dost thou bid me seek? What waters dost show to me? The jaws of the Pontic sea through which I brought back the noble band of princes, following thee, thou wanton, through the Clashing Rocks? Is it little Iolcos or Thessalian Tempe I shall seek? All the ways which I have opened for thee I have closed upon myself. Whither dost send me back? Thou imposest exile on an exile, but givest no place. But let me go. A king’s son-in-law has commanded it; I’ll not refuse. Heap dire penalties upon me; them have I deserved. Let the angry king crush thy mistress with cruel punishments, load her hands with chains, shut her up and bury her in dungeons of eternal darkness; I shall suffer less than I deserve.
 
-<span class="atom-split" data-atom="006" data-title="MEDEA (4/7)" data-chapter="MEDEA" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="MEDEA (4/7)" data-chapter="MEDEA" data-kind="atom" data-srclang="en"></span>
 
 [465] O ungrateful man, let thy heart recall the bull’s fiery breath, and, midst the savage terrors of unconquered race, the fire-breathing herd on Aeëtes’ arm-bearing plain, the weapons of the suddenly appearing foe, when, at my order, the earth-born soldiery fell in mutual slaughter. Think, too, on the long-sought spoil of the ram of Phrixus, the sleepless dragon, bidden to close his eyes in unknown slumber, my brother given up to death, crime not done once alone in one act of crime; think on the daughters who, lured by my guile, dared dismember the old man who was never to return to life. By the hopes of thy children, thine established house, by the monsters conquered, by these hands which I have never spared in thy service, by the perils we have undergone, by heaven and sea, witnesses of my marriage, have mercy on me; happy thyself, give thy suppliant her turn at happiness. Seeking a kingdom for another, I have given up my own; of all that wealth which, plundered even from the distant swart tribes of India, the Scythians heap up, that golden treasure which, since the packed palace can scarce contain it, we hang upon the trees, I brought away nothing in my exile save only my brother’s limbs. Those also I squandered upon thee; for thee my country has given place, for thee father, brother, maidenhood – with this dower did I wed thee. Give back to the fugitive her own.
 
@@ -532,7 +532,7 @@ CHORUS
 
 [607] Whoever handled that daring ship’s famous oars and despoiled Pelion of his sacred grove’s thick shade, whoever entered between the roaming rocks and, having passed the perils of the deep, moored his vessel on a savage shore, to return captor of foreign gold – all by a dreadful end atoned for the sea’s outraged laws.
 
-<span class="atom-split" data-atom="007" data-title="MEDEA (5/7)" data-chapter="MEDEA" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="MEDEA (5/7)" data-chapter="MEDEA" data-kind="atom" data-srclang="en"></span>
 
 [616] Punishment the challenged ocean claims. First of all, Tiphys, the tamer of the deep, gave up control to an untrained helmsman; dying on a foreign shore, far from his ancestral realm, in a paltry tomb he lies midst unfamiliar shades. For this, Aulis, remembering her lost king, in her becalmed harbour holds ships chafing at delay.
 
@@ -564,7 +564,7 @@ MEDEA
 
 [She offers various gifts to HECATE.]
 
-<span class="atom-split" data-atom="008" data-title="MEDEA (6/7)" data-chapter="MEDEA" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="MEDEA (6/7)" data-chapter="MEDEA" data-kind="atom" data-srclang="en"></span>
 
 [771] To thee I offer these wreaths wrought with bloody hands, each entwined with nine serpent coils; to thee, these serpent limbs which rebellious Typhoeus wore, who caused Jove’s throne to tremble. In this is the blood which Nessus, that traitor ferryman, bestowed as he expired. With these ashes the pyre on Oeta sank down which drank in the poisoned blood of Hercules. Here thou seest the billet of a pious sister but impious mother, Althaea, the avenger. These feathers the Harpy left in her trackless lair when she fled from Zetes. Add to these the quills of the wounded Stymphalian bird which felt the darts of Lerna. – You have given forth your voice, ye altars; I see my tripods shaken by the favouring deity.
 
@@ -642,7 +642,7 @@ MEDEA
 
 [926] Horror has smit my heart! My limbs are numb with cold and my heart with terror flutters. Wrath has given place; the mother has all come back, the wife is banished. Can I shed my children’s, my own offspring’s blood? Ah, mad rage, say not so! Far, even from me, be that unheard-of deed, that accursed guilt! What sin will the poor boys atone? Their sin is that Jason is their father, and, greater sin, that Medea is their mother. [She pauses.] Let them die, they are none of mine; let them be lost – they are my own. They are without crime and guilt, yea, they are innocent – I acknowledge it; so, too, was my brother. Why, soul, dost hesitate? Why are my cheeks wet with tears? Why do anger and love now hither, now thither draw my changeful heart? A double tide tosses me, uncertain of my course; as when rushing winds wage mad warfare, and from both sides conflicting floods lash the seas and the fluctuating waters boil, even so is my heart tossed. Anger puts love to flight, and love, anger. O wrath, yield thee to love.
 
-<span class="atom-split" data-atom="009" data-title="MEDEA (7/7)" data-chapter="MEDEA" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="MEDEA (7/7)" data-chapter="MEDEA" data-kind="atom" data-srclang="en"></span>
 
 [945] Hither, dear children, sole comfort of my fallen house, come hither and link your entwining limbs with mine. Let your father have you unharmed, so but your mother may have you too. But exile and flight press hard upon me; now, now will they be torn from my bosom and carried away from me, midst tears and sighs and kisses. – Let them be lost to their father; they are lost to me. My grief grows again and my hate burns hot; Erinys, as of old, claims my unwilling hand. O wrath, where thou dost lead I follow. I would that from my womb the throng of proud Niobe had sprung, and that I had been the mother of twice seven sons! Too barren have I been for vengeance – yet for my brother and my father there is enough, for I have borne two sons.
 

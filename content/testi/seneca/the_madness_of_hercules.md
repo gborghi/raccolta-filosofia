@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/seneca/the_madness_of_hercules" data-philosopher="Seneca"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="THE MADNESS OF HERCULES" data-chapter="DRAMATIS PERSONAE" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="THE MADNESS OF HERCULES" data-chapter="DRAMATIS PERSONAE" data-kind="intro" data-srclang="en"></span>
 
 HERCULES, son of Jupiter and Alcmena, but the reputed son of Amphitryon.
 
@@ -36,11 +36,11 @@ MEGARA, wife of Hercules and daughter of Creon.
 
 CHORUS of Thebans.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
 
 The jealous wrath of Juno, working through Eurystheus, has imposed twelve mighty and destructive tasks on Hercules, her hated stepson. But these, even to the last and worst, the bringing of Cerberus to the upper world, he has triumphantly accomplished. Abandoning her plan of crushing him by toils like these, she will turn his hand against himself, and so accomplish his destruction. Upon the day of his return from hell she brings a madness on him, and so precipitates the tragedy which forms the action of the play.
 
-<span class="atom-split" data-atom="003" data-title="HERCULES FURENS (1/9)" data-chapter="HERCULES FURENS" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="HERCULES FURENS (1/9)" data-chapter="HERCULES FURENS" data-kind="atom" data-srclang="en"></span>
 
 JUNO
 
@@ -68,7 +68,7 @@ CHORUS
 
 [139] The shepherd, turning out his flock, plucks pasturage still white with frosty rime. In the open mead the young bullock sports at will, his forehead not yet broken with young horns; the kine at leisure fill again their udders; the sportive kid with unsteady, aimless course wanders on the soft turf; perched on the topmost bough, shrill-voiced, amid her complaining young, the Thracian paramour is eager to spread her wings to the morning sun; and all around a mingled throng sounds forth, proclaiming the dawn of day with varied notes. The sailor, life ever at risk, commits his canvas to the winds, while the breeze fills its flapping folds. Here the fisher, perched on the wave-worn rocks, either rebaits his cheated hooks or, with firm grip, watches anxiously for his prize; meantime, his line feels the quivering fish.
 
-<span class="atom-split" data-atom="004" data-title="HERCULES FURENS (2/9)" data-chapter="HERCULES FURENS" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="HERCULES FURENS (2/9)" data-chapter="HERCULES FURENS" data-kind="atom" data-srclang="en"></span>
 
 [159] Such are the tasks of those whose is the peaceful calm of harmless lives, whose home rejoices in the tiny store that is its own; overweening hopes stalk abroad in cities, and trembling fears. One, sleepless, haunts the haughty vestibules and unfeeling doors of his rich patrons; another endlessly heaps up abundant wealth, gloats over his treasures, and is still poor amid piled-up bold. Yonder dazed wretch, with empty wind puffed up, popular applause and the mob more shifting than the sea uplift; this, trafficking in the mad wrangles of the noisy court, shamelessly lets out for hire his passions and his speech. Known to but few is untroubled calm, and they, mindful of time’s swift flight, hold fast the days that never will return. While the fates permit, live happily; life speeds on with hurried step, and with winged days the wheel of the headlong year is turned. The harsh sisters ply their tasks, yet do they not spin backward the threads of life. But men are driven, each one uncertain of his own, to meet the speeding fates; we seek the Stygian waves of our own accord. With heart too brave, Alcides, thou dost haste to visit the grieving ghosts; at the appointed time the Parcae come. No one may linger when they command, no one may postpone the allotted day; the urn receives the nations hurried to their doom.
 
@@ -108,7 +108,7 @@ MEGARA
 
 AMPHITRYON
 
-<span class="atom-split" data-atom="005" data-title="HERCULES FURENS (3/9)" data-chapter="HERCULES FURENS" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="HERCULES FURENS (3/9)" data-chapter="HERCULES FURENS" data-kind="atom" data-srclang="en"></span>
 
 [319] The same he had when across the parched desert and the sands, billowing like the stormy sea, he made his way, and across the strait with twice-receding, twice-returning waves; and when, his barque abandoned, he was stranded, a prisoner on Syrtes’ shoals, and, though his vessel was held fast, he crossed o’er seas on foot.
 
@@ -274,7 +274,7 @@ AMPHITRYON
 
 LYCUS
 
-<span class="atom-split" data-atom="006" data-title="HERCULES FURENS (4/9)" data-chapter="HERCULES FURENS" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="HERCULES FURENS (4/9)" data-chapter="HERCULES FURENS" data-kind="atom" data-srclang="en"></span>
 
 [465] Are we to call him brave from whose shoulders fell the lion’s skin and club, made present for a girl, and whose side shone resplendent, decked out in Tyrian robes? Call him brave, whose bristling locks dripped with nard, who busied those famous hands with unmanly strummings on the tambourine, whose warlike brow a barbaric turban crowned?
 
@@ -340,7 +340,7 @@ HERCULES
 
 AMPHITRYON
 
-<span class="atom-split" data-atom="007" data-title="HERCULES FURENS (5/9)" data-chapter="HERCULES FURENS" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="HERCULES FURENS (5/9)" data-chapter="HERCULES FURENS" data-kind="atom" data-srclang="en"></span>
 
 [618] Can it be that my hopes deceive my sight, or has that world-subduer, the pride of Greece, come back from the silent halls of mournful gloom? Is that my son? My limbs are numb with joy. O son, sure, though late, deliverance of Thebes, do I really clasp thee risen to upper air, or am I mocked, enjoying but an empty shade? Is it thou indeed? Aye, now I recognize the bulging thews, the shoulders, the hand famed for its huge club.
 
@@ -418,7 +418,7 @@ AMPHITRYON
 
 THESEUS
 
-<span class="atom-split" data-atom="008" data-title="HERCULES FURENS (6/9)" data-chapter="HERCULES FURENS" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="HERCULES FURENS (6/9)" data-chapter="HERCULES FURENS" data-kind="atom" data-srclang="en"></span>
 
 [762] A rock funereal o’erhangs the slothful shoals, where the waves are sluggish and the dull mere is numbed. This stream an old man tends, clad in foul garb and to the sight abhorrent, and ferries over the quaking shades. His beard hangs down unkempt; a knot ties his robe’s misshapen folds; haggard his sunken cheeks; himself his own boatman, with a long pole he directs his craft. Now, having discharged his load, he is turning his boat towards the bank, seeking the ghosts again; Alcides demands passage, while the crowd draws back. Fierce Charon cries: “Whither in such haste, bold man? Halt there thy hastening steps.” Brooking no delay, Alcmena’s son o’erpowers the ferryman with his own pole and climbs aboard. The craft, ample for whole nations, sinks low beneath one man; as he takes his seat the o’erweighted boat with rocking sides drinks in Lethe on either hand. Then the monsters he had conquered are in a panic, the fierce Centaurs and the Lapithae whom too much wine had inflamed to war; and, seeking the farthest fens of the Stygian swamp, Lerna’s [labour](/concepts/labour) plunges deep his fertile heads.
 
@@ -464,7 +464,7 @@ AMPHITRYON
 
 HERCULES
 
-<span class="atom-split" data-atom="009" data-title="HERCULES FURENS (7/9)" data-chapter="HERCULES FURENS" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="HERCULES FURENS (7/9)" data-chapter="HERCULES FURENS" data-kind="atom" data-srclang="en"></span>
 
 [926] Myself will I frame prayers worthy of Jupiter and me: May heaven abide in its own place, and earth and sea; may the eternal stars hold on their way unhindered; may deep peace brood upon the nations; may the harmless country’s toil employ all iron, and may swords lie hid; may no raging tempest stir up the sea, no fires leap forth from angered Jove, no river, fed by winter’s snows, sweep away the uptorn fields. Let poisons cease to be. Let no destructive herb swell with harmful juice. May savage and cruel tyrants rule no more. If earth is still to produce any wickedness, let her make haste, and if she is preparing any monster, let it be mine.
 
@@ -560,7 +560,7 @@ CHORUS
 
 [1054] Let heaven mourn, and the great father of high heaven, and fertile earth, and wandering waves of the restless main; and thou above all, who ever the lands and stretches of the sea dost shed thy rays, and dispellest night with comely face, O glowing Sun; equally with thee hath Alcides seen the lands of thy setting and thy rising, and hath known both thy dwellings.
 
-<span class="atom-split" data-atom="010" data-title="HERCULES FURENS (8/9)" data-chapter="HERCULES FURENS" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="HERCULES FURENS (8/9)" data-chapter="HERCULES FURENS" data-kind="atom" data-srclang="en"></span>
 
 [1063] O free his soul from such monstrous ills, free him, ye gods, and turn to better things his darkened spirit. And do thou, O Sleep, vanquisher of woes, rest of the soul, the better part of human life, thou winged son of thy mother Astraea, sluggish brother of cruel Death, thou who dost mingle false with true, sure yet gloomy guide to what shall be; O thou, who art peace after wanderings, haven of life, day’s respite and night’s comrade, who comest alike to king and slave, who doest compel the human race, trembling at death, to prepare for unending night – sweetly and gently soothe his weary spirit; hold him fast bound in heavy stupor; let slumber chain his untamed limbs, and leave not his savage breast until his former mind regain its course.
 
@@ -632,7 +632,7 @@ AMPHITRYON
 
 HERCULES
 
-<span class="atom-split" data-atom="011" data-title="HERCULES FURENS (9/9)" data-chapter="HERCULES FURENS" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="HERCULES FURENS (9/9)" data-chapter="HERCULES FURENS" data-kind="atom" data-srclang="en"></span>
 
 [1221] Ye dire abodes of fiends, prison-house of the dead, ye regions set apart for the guilty throng, if any place of banishment lies hidden away beneath hell itself, unknown to Cerberus and me, hide me there, O earth; to the remotest bounds of Tartarus will I go and there abide. O heart too fierce! Who can weep worthily for you, my children, scattered through all my house? This face, hardened with woe, has forgotten how to weep. Give my bow here, give me my arrows, here give me my huge club.
 

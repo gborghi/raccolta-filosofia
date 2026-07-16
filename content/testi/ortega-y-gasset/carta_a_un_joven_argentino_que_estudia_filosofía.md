@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/carta_a_un_joven_argentino_que_estudia_filosofía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Carta a un joven argentino que estudia filosofía" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Carta a un joven argentino que estudia filosofía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Me ha complacido mucho su carta, amigo mío. Encuentro en ella algo que es hoy insólito encontrar en un joven, y especialmente en un joven argentino. Pregunta usted algunas cosas, es decir, admite usted la posibilidad de que las ignora. Ese poro de ignorancia que deja usted abierto en el área pulimentada de su espíritu, le salvará. Por él se infiltrará un superior conocimiento. Créame: no hay nada más fecundo que la ignorancia consciente de sí misma. Desde Platón hasta la fecha, los más agudos pensadores no han encontrado mejor definición de la ciencia que el título antepuesto por el gran Cusano a uno de sus libros: De docta ignorantia. La ciencia es, ante y sobre todo, un docto ignorar. Por la sencilla razón de que las soluciones, el saber que se sabe, son en todos sentidos algo secundario con respecto a los problemas. Si no se tiene clara noción de los problemas, mal se puede proceder a resolverlos. Además, por muy seguras que sean las soluciones, su seguridad depende de la seguridad de los problemas. Ahora bien: darse cuenta de un problema es advertir ante nosotros la existencia concreta de algo que no sabemos lo que es; por tanto, es un saber que no sabemos. Quien no sienta voluptuosamente esta delicia socrática de la concreta ignorancia, esa herida, ese hueco que hace el problema en nosotros, es inepto para el ejercicio intelectual.
 
@@ -42,7 +42,7 @@ Yo espero mucho de la juventud intelectual argentina; pero sólo confiaré en el
 
 * * *
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Más de una vez —y por cierto con anterioridad a las voces que ahora comienzan fuera de España a insinuar algo parecido— he hecho notar que la historia avanza según grandes ritmos biológicos, de los cuales es uno el de la edad. «Hay tiempos de jóvenes y tiempos de viejos», decía yo en El tema de nuestro tiempo. La manera de reconocer a qué sazón vital pertenece una época es determinar si las ocupaciones que en ella dan el tono son de tono «serio» o de tono «alegre». Porque las cosas todas del mundo se pueden repartir en esas dos clases de tonalidad. Hay paisajes tristes y paisajes jocundos. Y esta diferencia de matiz expresivo no proviene, como ha solido creerse, de una mera proyección sobre el paisaje indiferente de nuestros estados subjetivos. El paisaje triste —ciertos puertos lívidos y cardenosos de España—, Somosierra, Piqueras, por ejemplo, lo son por sí mismos. El que va alegre por ellos nota su tristeza, sólo que el hervor de su interno regocijo le defiende e inmuniza de la tristeza invasora que el paisaje comprime contra su persona. Del mismo modo, al salir de una habitación caldeada, el fuego acumulado en nuestro cuerpo impide que sea penetrado por el frío exterior que percibimos, pero, por decirlo así, mantenemos a raya, sin transitar la frontera de nuestra piel.
 

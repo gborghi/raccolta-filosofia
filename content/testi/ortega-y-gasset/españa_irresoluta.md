@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/españa_irresoluta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="España irresoluta" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="España irresoluta" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 También nosotros hemos tenido un gran psicólogo: Ignacio de Loyola. Como el hombre del Foreign Office, este oscuro vasco de faz triangular fue un gran capitán de corazones. Habíase labrado una menuda arma para abrir los pechos españoles, un pequeño tratado de táctica sentimental: los Ejercicios espirituales. La clave de este libro y de esta táctica consiste en apoyar todas las meditaciones sobre lo que él llama «composición de lugar». Nada de ideas, de razonamientos —con esto no se hace mucho en España. Imágenes, imágenes materiales, a ser posible, visiones.
 

@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/marx/the_poverty_of_philosophy_1847" data-philosopher="Marx"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="THE POVERTY OF PHILOSOPHY, 1847" data-chapter="FOREWORD" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="THE POVERTY OF PHILOSOPHY, 1847" data-chapter="FOREWORD" data-kind="intro" data-srclang="en"></span>
 
 M. Proudhon has the misfortune of being peculiarly misunderstood in Europe. In France, he has the right to be a bad economist, because he is reputed to be a good German philosopher. In Germany, he has the right to be a bad philosopher, because he is reputed to be one of the ablest French economists. Being both German and economist at the same time, we desire to protest against this double error.
 
@@ -31,7 +31,7 @@ Brussels, June 15, 1847
 
 M. Proudhon’s work is not just a treatise on political economy, an ordinary book; it is a bible. “Mysteries”, “Secrets Wrested from the Bosom of God”, “Revelations” – it lacks nothing. But as prophets are discussed nowadays more conscientiously than profane writers, the reader must resign himself to going with us through the arid and gloomy eruditions of “Genesis”, in order to ascend later, with M. Proudhon, into the ethereal and fertile realm of super-socialism. (See Proudhon, Philosophy of Poverty, Prologue, p.III, line 20.)
 
-<span class="atom-split" data-atom="002" data-title="PREFACE TO THE FIRST GERMAN EDITION (1/5)" data-chapter="PREFACE TO THE FIRST GERMAN EDITION" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="PREFACE TO THE FIRST GERMAN EDITION (1/5)" data-chapter="PREFACE TO THE FIRST GERMAN EDITION" data-kind="atom" data-srclang="en"></span>
 
 The present work was produced in the winter of 1846-47, at a time when Marx had cleared up for himself the basic features of his new historical and economic outlook. Proudhon’s Système des contradictions économiques, ou Philosophie de la misère, which had just appeared, gave him the opportunity to develop these basic features, setting them against the views of a man who, from then on, was to occupy the most important place among living French socialists. Since the time in Paris when the two of them had often spent whole nights discussing economic questions, their paths had increasingly diverged: Proudhon’s book proved that there was already an unbridgeable gulf between them. To ignore it was at that time impossible, and so Marx put on record the irreparable rupture in this reply of his.
 
@@ -71,7 +71,7 @@ Rodbertus, therefore, had sufficient opportunity of convincing himself whether h
 
 The simplest socialist application of the Ricardian theory is indeed that given above. It has led in many cases to insights into the origin and nature of [surplus value](/concepts/surplus_value) which go far beyond Ricardo, as in the case of Rodbertus among others. Quite apart from the fact that on this matter he nowhere presents anything which has not already been said at least as well, before him, his presentation suffers like those of his predecessors from the fact that he adopts, uncritically and without examining their content, economic categories – labour, capital, value, etc. – in the crude form, clinging to their external appearance, in which they were handed down to him by the economists. He thereby not only cuts himself off from all further development – in contrast to Marx who was the first to make something of these propositions so often repeated for the last sixty-four years – but, as will be shown, he opens for himself the road leading straight to utopia.
 
-<span class="atom-split" data-atom="003" data-title="PREFACE TO THE FIRST GERMAN EDITION (2/5)" data-chapter="PREFACE TO THE FIRST GERMAN EDITION" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="PREFACE TO THE FIRST GERMAN EDITION (2/5)" data-chapter="PREFACE TO THE FIRST GERMAN EDITION" data-kind="atom" data-srclang="en"></span>
 
 The above application of the Ricardian theory that the entire social product belongs to the workers as their product, because they are the sole real producers, leads directly to communism. But, as Marx indeed indicates in the above-quoted passage, it is incorrect in formal economic terms, for it is simply an application of morality to economics. According to the laws of bourgeois economics, the greatest part of the product does not belong to the workers who have produced it. If we now say: that is unjust, that ought not to be so, then that has nothing immediately to do with economics. We are merely saying that this economic fact is in contradiction to our sense of morality. Marx, therefore, never based his communist demands upon this, but upon the inevitable collapse of the capitalist mode of production which is daily taking place before our eyes to an ever growing degree; he says only that [surplus value](/concepts/surplus_value) consists of unpaid [labour](/concepts/labour), which is a simple fact. But what in economic terms may be formally incorrect, may all the same be correct from the point of view of world history. If mass moral consciousness declares an economic fact to be unjust, as it did at one time in the case of slavery and statute labour, that is proof that the fact itself has outlived its day, that other economic facts have made their appearance due to which the former has become unbearable and untenable. Therefore, a very true economic content may be concealed behind the formal economic incorrectness. This is not the place to deal more closely with the significance and history of the theory of surplus value.
 
@@ -89,7 +89,7 @@ As already noted, Rodbertus adopts the traditional definitions of economic conce
 
 This, to put it mildly, extremely slovenly definition gives us at the best an idea of what value approximately looks like, but says absolutely nothing of what it is. Since this, however, is all that Rodbertus is able to tell us about value, it is understandable that he looks for a measure of value located outside value. After thirty pages in which he mixes up use value and exchange value in higgledy-piggledy fashion with that power of abstract thought so infinitely admired by Herr Adolf Wagner, he arrives at the conclusion that there is no real measure of value and that one has to make do with a substitute measure. Labour could serve as such but only if products of an equal quantity of labour were always exchanged against products of an equal quantity of labour whether this “is already the case of itself, or whether precautionary measures are adopted” to ensure that it is. Consequently value and labour remain without any sort of material connection in spite of the fact that the whole first chapter is taken up to expound to us that commodities “cost labour” and nothing but labour, and why this is so.
 
-<span class="atom-split" data-atom="004" data-title="PREFACE TO THE FIRST GERMAN EDITION (3/5)" data-chapter="PREFACE TO THE FIRST GERMAN EDITION" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="PREFACE TO THE FIRST GERMAN EDITION (3/5)" data-chapter="PREFACE TO THE FIRST GERMAN EDITION" data-kind="atom" data-srclang="en"></span>
 
 [Labour](/concepts/labour), again, is taken uncritically in the form in which it occurs among the economists. And not even that. For, although there is a reference in a couple of words to differences in intensity of labour, labour is still put forward quite generally as something which “costs”, hence as something which measures value, quite irrespective of whether it is expended under normal average social conditions or not. Whether the producers take ten days, or only one, to make products which could be made in one day; whether they employ the best or the worst tools; whether they expend their labour time in the production of socially necessary articles and in the socially required quantity, or whether they make quite undesired articles or desired articles in quantities above or below demand – about all this there is not a word: labour is labour, the product of equal labour must be exchanged against the product of equal labour. Rodbertus, who is otherwise always ready, whether rightly or not, to adopt the national standpoint and to survey the relations of individual producers from the high watchtower of general social considerations, is anxious to avoid doing so here. And this, indeed, solely because from the very first line of his book he makes directly for the utopia of labour money, and because any investigation of labour seen from its property of creating value would be bound to put insuperable obstacles in his way. His instinct was here considerably stronger than his power of abstract thought which, by the by, is revealed in Rodbertus only by the most concrete absence of ideas.
 
@@ -109,7 +109,7 @@ In present-day capitalist society each industrial capitalist produces off his ow
 
 First, continual deviations of the prices of commodities from their values are the necessary condition in and through which the value of the commodities as such can come into existence. Only through the fluctuations of competition, and consequently of [commodity](/concepts/commodity) prices, does the law of value of commodity production assert itself and the determination of the value of the commodity by the socially necessary labour time become a reality. That thereby the form of manifestation of value, the price, as a rule looks somewhat different from the value which it manifests, is a fate which value shares with most social relations. A king usually looks quite different from the monarchy which he represents. To desire, in a society of producers who exchange their commodities, to establish the determination of value by labour time, by forbidding competition to establish this determination of value through pressure on prices in the only way it can be established, is therefore merely to prove that, at least in this sphere, one has adopted the usual utopian disdain of economic laws.
 
-<span class="atom-split" data-atom="005" data-title="PREFACE TO THE FIRST GERMAN EDITION (4/5)" data-chapter="PREFACE TO THE FIRST GERMAN EDITION" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="PREFACE TO THE FIRST GERMAN EDITION (4/5)" data-chapter="PREFACE TO THE FIRST GERMAN EDITION" data-kind="atom" data-srclang="en"></span>
 
 Secondly, competition, by bringing into operation the law of value of [commodity](/concepts/commodity) production in a society of producers who exchange their commodities, precisely thereby brings about the only organisation and arrangement of social production which is possible in the circumstances. Only through the undervaluation or overvaluation of products is it forcibly brought home to the individual commodity producers what society requires or does not require and in what amounts. But it is precisely this sole regulator that the utopia advocated by Rodbertus among others wishes to abolish. And if we then ask what guarantee we have that necessary quantity and not more of each product will be produced, that we shall not go hungry in regard to corn and meat while we are choked in beet sugar and drowned in potato spirit, that we shall not lack trousers to cover our nakedness while trouser buttons flood us by the million – Rodbertus triumphantly shows us his splendid calculation, according to which the correct certificate has been handed out for every superfluous pound of sugar, for every unsold barrel of spirit, for every unusable trouser button, a calculation which “works out” exactly, and according to which “all claims will be satisfied and the liquidation correctly brought about.” And anyone who does not believe this can apply to governmental chief revenue office accountant X in Pomerania who has checked the calculation and found it correct, and who, as one who has never yet been caught lacking with the accounts, is thoroughly trustworthy.
 
@@ -127,7 +127,7 @@ If, however, our workers are sufficiently docile to be taken in that they have i
 
 For the time when Rodbertus’ Zur Erkenntnis, etc., appeared, it was certainly an important book. His development of Ricardo’s theory of value in that one direction was a very promising beginning. Even if it was new only for him and for Germany, still as a whole, it stands on a par with the achievements of the better ones among his English predecessors. But it was only a beginning, from which a real gain for theory could be achieved only by further thorough and critical work. But he cut himself off from further development by also tackling the development of Ricardo’s theory from the very beginning in the second direction, in the direction of utopia. Thereby he surrendered the first condition of all criticism – freedom from bias. He worked on towards a goal fixed in advance, he became a Tendenzökonom. Once imprisoned by his utopia, he cut himself off from all possibility of scientific advance. From 1842 up to his death, he went round in circles, always repeating the same ideas which he had already expressed or suggested in his first work, feeling himself unappreciated, finding himself plundered, where there was nothing to plunder, and finally refusing, not without intention, to recognise that in essence he had only rediscovered what had already been discovered long before.
 
-<span class="atom-split" data-atom="006" data-title="PREFACE TO THE FIRST GERMAN EDITION (5/5)" data-chapter="PREFACE TO THE FIRST GERMAN EDITION" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="PREFACE TO THE FIRST GERMAN EDITION (5/5)" data-chapter="PREFACE TO THE FIRST GERMAN EDITION" data-kind="atom" data-srclang="en"></span>
 
 In a few places the translation departs from the printed French original. This is due to handwritten alterations by Marx, which will also be inserted in the new French edition that is now being prepared.
 
@@ -143,7 +143,7 @@ London, October 23, 1884
 
 Frederick [Engels](/schools/historical_materialism_school)
 
-<span class="atom-split" data-atom="007" data-title="ENGELS’ 1892 INTRODUCTION" data-chapter="ENGELS’ 1892 INTRODUCTION" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="ENGELS’ 1892 INTRODUCTION" data-chapter="ENGELS’ 1892 INTRODUCTION" data-kind="atom" data-srclang="en"></span>
 
 For the second edition I have only to remark that the name wrongly written Hopkins in the French text (on page 45) has been replaced by the correct name Hodgskin and that in the same place the date of the work of William Thompson has been corrected to 1824. It is to be hoped that this will appease the bibiliographical conscience of Professor Anton Menger.
 
@@ -151,7 +151,7 @@ Frederick [Engels](/schools/historical_materialism_school)
 
 London, March 29, 1892
 
-<span class="atom-split" data-atom="008" data-title="1. The Antithesis of Use Value and Exchange Value" data-chapter="1. The Antithesis of Use Value and Exchange Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="1. The Antithesis of Use Value and Exchange Value" data-chapter="1. The Antithesis of Use Value and Exchange Value" data-kind="atom" data-srclang="en"></span>
 
 “The capacity for all products, whether natural or industrial, to contribute to man’s subsistence is specifically termed use value; their capacity to be given in exchange for one another, exchange value.... How does use value become exchange value?... The genesis of the idea of (exchange) value has not been noted by economists with sufficient care. It is necessary, therefore, for us to dwell upon it. Since a very large number of the things I need occur in nature only in moderate quantities, or even not at all, I am forced to assist in the production of what I lack. And as I cannot set my hand to so many things, I shall propose to other men, my collaborators in various functions, to cede to me a part of their products in exchange for mine.”
 
@@ -203,11 +203,11 @@ If we have thoroughly grasped M. Proudhon’s thought the following are the four
 
 1. Use value and exchange value form a “surprising contrast,” they are in opposition to each other.
 
-<span class="atom-split" data-atom="009" data-title="2. Use value and exchange value are in inverse ratio, in contradiction, to each other." data-chapter="2. Use value and exchange value are in inverse ratio, in contradiction, to each other." data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="2. Use value and exchange value are in inverse ratio, in contradiction, to each other." data-chapter="2. Use value and exchange value are in inverse ratio, in contradiction, to each other." data-kind="atom" data-srclang="en"></span>
 
 3. Economists have neither observed nor recognized either the opposition or the contradiction.
 
-<span class="atom-split" data-atom="010" data-title="4. M. Proudhon’s criticism begins at the end." data-chapter="4. M. Proudhon’s criticism begins at the end." data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="4. M. Proudhon’s criticism begins at the end." data-chapter="4. M. Proudhon’s criticism begins at the end." data-kind="atom" data-srclang="en"></span>
 
 We, too, shall begin at the end, and, in order to clear the economists from M. Proudhon’s accusations, we shall let two sufficiently well-known economists speak for themselves.
 
@@ -263,7 +263,7 @@ Who is to reconcile these two contradictory forces? What is to be done to bring 
 
 “Certainly,” cries M. Proudhon, “there is one – [free will](/positions/free_will). The price resulting from this battle between supply and demand, between utility and estimation will not be the expression of eternal justice.”
 
-<span class="atom-split" data-atom="011" data-title="M. Proudhon goes on to develop this antithesis." data-chapter="M. Proudhon goes on to develop this antithesis." data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="M. Proudhon goes on to develop this antithesis." data-chapter="M. Proudhon goes on to develop this antithesis." data-kind="atom" data-srclang="en"></span>
 
 “In my capacity as a free buyer, I am judge of my needs, judge of the desirability of an object, judge of the price I am willing to pay for it. On the other hand, in your capacity as a free producer, you are master of the means of execution, and in consequence, you have the power to reduce your expenses.”
 
@@ -327,7 +327,7 @@ And what was he aiming at?
 
 At arranging for himself a means of introducing later on one of the elements he had set aside, the cost of production, as the synthesis of use value and exchange value. And it is thus that in his eyes the cost of production constitutes synthetic value or constituted value.
 
-<span class="atom-split" data-atom="012" data-title="2. Constituted Value or Synthetic Value (1/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="2. Constituted Value or Synthetic Value (1/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom" data-srclang="en"></span>
 
 Value (marketable value) is the corner-stone of the economic structure. “Constituted” value is the corner-stone of the system of economic contradictions.
 
@@ -395,7 +395,7 @@ Ricardo sets out to prove that the ownership of land, that is, ground rent, cann
 
 (Vol.I, p.28)
 
-<span class="atom-split" data-atom="013" data-title="2. Constituted Value or Synthetic Value (2/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="2. Constituted Value or Synthetic Value (2/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom" data-srclang="en"></span>
 
 “In making labor the foundation of the value of commodities and the comparative quantity of labor which is necessary to their production, the rule which determines the respective quantities of goods which shall be given in exchange for each other, we must not be supposed to deny the accidental and temporary deviations of the actual or market price of commodities from this, their primary and natural price.”
 
@@ -447,7 +447,7 @@ Let us go further.
 
 Does labor time, as the measure of value, suppose at least that the days are equivalent, and that one man’s day is worth as much as another’s? No.
 
-<span class="atom-split" data-atom="014" data-title="2. Constituted Value or Synthetic Value (3/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="2. Constituted Value or Synthetic Value (3/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom" data-srclang="en"></span>
 
 Let us suppose for a moment that a jeweller’s day is equivalent to three days of a weaver; the fact remains that any change in the value of jewels relative to that of woven materials, unless it be the transitory result of the fluctuations of supply and demand, must have as its cause a reduction or an increase in the labor time expended in the production of one or the other. If three working days of different workers be related to one another in the ratio of 1:2:3, then every change in the relative value of their products will be a change in this same proportion of 1:2:3. Thus values can be measured by labor time, in spite of the inequality of value of different working days; but to apply such a measure we must have a comparative scale of the different working days: it is competition that sets up this scale.
 
@@ -487,7 +487,7 @@ It is in order to find the proper proportion in which workers should share in th
 
 (Proudhon, I, 188)
 
-<span class="atom-split" data-atom="015" data-title="2. Constituted Value or Synthetic Value (4/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="2. Constituted Value or Synthetic Value (4/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom" data-srclang="en"></span>
 
 We have seen that M. Proudhon makes the value of labor the “determining cause” of the value of products to such an extent that for him wages, the official name for the “value of labor,” form the integral price of all things: that is why Say’s objection troubles him. In labor as a [commodity](/concepts/commodity), which is a grim reality, he sees nothing but a grammatical ellipsis. Thus the whole of existing society, founded on labor as a commodity, is henceforth founded on a poetic licence, a figurative expression. If society wants to “eliminate all the drawbacks” that assail it, well, let it eliminate all the ill-sounding terms, change the language; and to this end it has only to apply to the Academy for a new edition of its dictionary. After all that we have just seen, it is easy for us to understand why M. Proudhon, in a work on political economy, has to enter upon long dissertations on etymology and other parts of grammar. Thus he is still learnedly discussing the antiquated derivation of servus [a slave, servant] from servare [To preserve]. These philological dissertations have a deep meaning, an esoteric meaning – they form an essential part of M. Proudhon’s argument.
 
@@ -531,7 +531,7 @@ M. Proudhon finds the very proof of his thesis in the observation that the most 
 
 M. Proudhon borrows from M. Dunoyer the example of extractive industry – fruit-gathering, pasturage, hunting, fishing, etc. – which is the simplest, the least costly of industries, and the one by which man began “the first day of his second creation.” The first day of his first creation is recorded in Genesis, which shows God as the world’s first manufacturer.
 
-<span class="atom-split" data-atom="016" data-title="2. Constituted Value or Synthetic Value (5/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="2. Constituted Value or Synthetic Value (5/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom" data-srclang="en"></span>
 
 Things happen in quite a different way from what M. Proudhon imagines. The very moment civilization begins, production begins to be founded on the antagonism of orders, estates, classes, and finally on the antagonism of accumulated labor and actual labor. No antagonism, no [progress](/positions/progress). This is the law that civilization has followed up to our days. Till now the productive forces have been developed by virtue of this system of class antagonisms. To say now that, because all the needs of all the workers were satisfied, men could devote themselves to the creation of products of a higher order – to more complicated industries – would be to leave class antagonism out of account and turn all historical development upside down. It is like saying that because, under the Roman emperors, muraena were fattened in artificial fishponds, therefore there was enough to feed abundantly the whole Roman population. Actually, on the contrary, the Roman people had not enough to buy bread with, while the Roman aristocrats had slaves enough to throw as fodder to the muraena.
 
@@ -575,7 +575,7 @@ Sismondi goes further. He sees in this “value constituted” by labor time, th
 
 (Etudes, etc., Vol.II, p.267)
 
-<span class="atom-split" data-atom="017" data-title="2. Constituted Value or Synthetic Value (6/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="2. Constituted Value or Synthetic Value (6/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom" data-srclang="en"></span>
 
 It is important to emphasize the point that what determines value is not the time taken to produce a thing, but the minimum time it could possibly be produced in, and the minimum is ascertained by competition. Suppose for a moment that there is no more competition and consequently no longer any means to ascertain the minimum of labor necessary for the production of a [commodity](/concepts/commodity); what will happen? It will suffice to spend six hours’ work on the production of an object, in order to have the right, according to M. Proudhon, to demand in exchange six times as much as the one who has taken only one hour to produce the same object.
 
@@ -653,7 +653,7 @@ Anyone who is in any way familiar with the trend of political economy in England
 
 “Every man has an undoubted right to all that his honest labor can procure him. When he thus appropriates the fruits of his labor, he commits no injustice upon any other human being; for he interferes with no other man’s right of doing the same with the produce of his labor....
 
-<span class="atom-split" data-atom="018" data-title="2. Constituted Value or Synthetic Value (7/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="2. Constituted Value or Synthetic Value (7/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom" data-srclang="en"></span>
 
 “All these ideas of superior and inferior – of master and man – may be traced to the neglect of First Principles, and to the consequent rise of inequality of possessions; and such ideas will never be subverted, so long as this inequality is maintained. Men have hitherto blindly hoped to remedy the present unnatural state of things... by destroying existing inequality; but it will be shortly seen... that misgovernment is not a cause, but a consequence – that it is not the creator, but the created – that is is the offspring of inequality of possessions; and that the inequality of possessions is inseparably connected with our present social system.”
 
@@ -701,7 +701,7 @@ After having refuted the objections of the economists to communism, Mr. Bray goe
 
 (Bray, p.134)
 
-<span class="atom-split" data-atom="019" data-title="2. Constituted Value or Synthetic Value (8/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="2. Constituted Value or Synthetic Value (8/8)" data-chapter="2. Constituted Value or Synthetic Value" data-kind="atom" data-srclang="en"></span>
 
 “The whole movement would require only co-operation in its simplest form.... Cost of production would in every instance determine value; and equal values would always exchange for equal values. If one person worked a whole week, and another worked only half a week, the first would receive double the remuneration of the last; but this extra pay of the one would not be at the expense of the other, nor would the loss incurred by [the last man](/positions/last_man) fall in any way upon the first. Each person would exchange the wages he individually received for commodities of the same value as his respective wages; and in no case could the gain of one man or one trade be a loss to another man or another trade. The labor of every individual would alone determine his gains of his losses....
 
@@ -747,7 +747,7 @@ Mr. Bray turns the illusion of the respectable bourgeois into an ideal he would 
 
 Mr. Bray does not see that this equalitarian relation, this corrective ideal that he would like to apply to the world, is itself nothing but the reflection of the actual world; and that therefore it is totally impossible to reconstitute society on the basis of what is merely an embellished shadow of it. In proportion as this shadow takes on substance again, we perceive that this substance, far from being the transfiguration dreamt of, is the actual body of existing society.
 
-<span class="atom-split" data-atom="020" data-title="3. Application of the Law of the Proportionality of Value (1/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="3. Application of the Law of the Proportionality of Value (1/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom" data-srclang="en"></span>
 
 A) Money
 
@@ -807,7 +807,7 @@ Was it the sovereign who took possession of gold and silver to make them the uni
 
 The impress which was and is still given to money is not that of its value but of its weight. The stability and authenticity M. Proudhon speaks of apply only to the standard of the money ; and this standard indicates how much metallic matter there is in a coined piece of money.
 
-<span class="atom-split" data-atom="021" data-title="3. Application of the Law of the Proportionality of Value (2/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="3. Application of the Law of the Proportionality of Value (2/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom" data-srclang="en"></span>
 
 “The sole intrinsic value of a silver mark,” says Voltaire, with his habitual good sense, “is a mark of silver, half a pound weighing eight ounces. The weight and the standard alone form this intrinsic value.”
 
@@ -849,7 +849,7 @@ He adds, nevertheless, that the value of money is not determined by the labour t
 
 “Though it [paper money] has no intrinsic value, yet, by limiting its quantity, its value in exchange is as great as an equal denomination of coin, or of bullion in that coin. On the same principle, too, namely, by limitation of its quantity, a debased coin would circulate at the value it should bear, if it were of the legal weight and fineness, and not at the value of the quantity of metal which it actually contained. In the history of the British coinage, we find, accordingly, that the currency was never depreciated in the same proportion that it was debased; the reason of which was, that it never was increased in quantity, in proportion to its diminished intrinsic value.”
 
-<span class="atom-split" data-atom="022" data-title="3. Application of the Law of the Proportionality of Value (3/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="3. Application of the Law of the Proportionality of Value (3/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom" data-srclang="en"></span>
 
 (Ricardo, loc. cit. [pp.206-07])
 
@@ -945,7 +945,7 @@ Does M. Proudhon mean thereby merely that the production of the social individua
 
 To return to M. Proudhon. Surplus labour, he says, is explained by the person, Society. The life of this person is guided by laws, the opposite of those which govern the activities of man as an individual. He desires to prove this by “facts.”
 
-<span class="atom-split" data-atom="023" data-title="3. Application of the Law of the Proportionality of Value (4/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="3. Application of the Law of the Proportionality of Value (4/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom" data-srclang="en"></span>
 
 “The discovery of an economic process can never provide the inventor with a profit equal to that which he procures for society.... It has been remarked that railway enterprises are much less a source of wealth for the contractors than for [the state](/concepts/state).... The average cost of transporting commodities by road is 18 centimes per ton per kilometre, from the collection of the goods to their delivery. It has been calculated that at this rate an ordinary railway enterprise would not obtain 10 per cent net profit, a result approximately equal to that of a road-transport enterprise. But let us suppose that the speed of rail transport compared with that of road transport is as 4 is to 1. Since in society time is value itself, the railway would, prices being equal, present an advantage of 400 per cent over road-transport. Yet this enormous advantage, very real for society, is far from being realised in the same proportion for the carrier, who, while bestowing upon society an extra value of 400 per cent, does not for his own part draw 10 per cent. To bring the matter home still more pointedly, let us suppose, in fact, that the railway puts up its rate to 25 centimes, the cost of road transport remaining at 18: it would instantly lose all its consignments. Senders, receivers, everybody would return to the van, to the primitive waggon if necessary. The locomotive would be abandoned. A social advantage of 400 per cent would be sacrificed to a private loss of 35 per cent. The reason for this is easily grasped: the advantage resulting from the speed of the railway is entirely social, and each individual participates in it only in a minute proportion (it must be remembered that at the moment we are dealing only with the transport of goods), while the loss strikes the consumer directly and personally. A social profit equal to 400 represents for the individual, if society is composed only of a million men, four ten-thousandths; while a loss of 33 per cent for the consumer would suppose a social deficit of 33 million.
 
@@ -973,7 +973,7 @@ Having rectified these simple errors of pure calculation, let us take a look at 
 
 Let us return to the fiction of the person, Society, a fiction which has no other aim than that of proving this simple truth – that a new invention which enables a given amount of labour to produce a greater number of commodities, lowers the marketable value of the product. Society, then, makes a profit, not by obtaining more exchange values, but by obtaining more commodities for the same value. As for the inventor, competition makes his profit fall successively to the general level of profits. Has M. Proudhon proved this proposition as he wanted to? No. This does not prevent him from reproaching the economists with failure to prove it. To prove to him on the contrary that they have proved it, we shall cite only Ricardo and Lauderdale – Ricardo, the head of the school which determines value by labour time, and Lauderdale, one of the most uncompromising defenders of the determination of value by supply and demand. Both have expounded the same proposition:
 
-<span class="atom-split" data-atom="024" data-title="3. Application of the Law of the Proportionality of Value (5/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="3. Application of the Law of the Proportionality of Value (5/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom" data-srclang="en"></span>
 
 “By constantly increasing the facility of production, we constantly diminish the value of some of the commodities before produced, though by the same means we not only add to the national riches, but also to the power of future production.... As soon as by the aid of machinery, or by the knowledge of natural philosophy, you oblige natural agents to do the work which was before done by man, the exchangeable value of such work falls accordingly. If 10 men turned a corn mill, and it be discovered that by the assistance of wind, or of water, the [labour](/concepts/labour) of these 10 men may be spared, the flour which is the produce partly of the work performed by the mill, would immediately fall in value, in proportion to the quantity of labour saved; and the society would be richer by the commodities which the labour of the 10 men could produce, the funds destined for their maintenance being in no degree impaired.”
 
@@ -1019,7 +1019,7 @@ In 1840 the population did not exceed 30 million: the productive population was 
 
 In English society the working day thus acquired in 70 years a surplus of 2,700 per cent productivity; that is, in 1840 it produced 27 times as much as in 1770. According to M. Proudhon, the following question should be raised: why was not the English worker of 1840 27 times as rich as the one of 1770? In raising such a question one would naturally be supposing that the English could have produced this wealth without the historical conditions in which it was produced, such as: private accumulation of capital, modern division of labour, automatic workshops, anarchical competition, the wage system – in short, everything that is based upon class antagonism. Now, these were precisely the necessary conditions of existence for the development of productive forces and of surplus labour. Therefore, to obtain this development of productive forces and this surplus labour, there had to be classes which profited and classes which decayed.
 
-<span class="atom-split" data-atom="025" data-title="3. Application of the Law of the Proportionality of Value (6/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="3. Application of the Law of the Proportionality of Value (6/6)" data-chapter="3. Application of the Law of the Proportionality of Value" data-kind="atom" data-srclang="en"></span>
 
 What then, ultimately, is this Prometheus resuscitated by M. Proudhon? It is society, social relations based on class antagonism. These relations are not relations between individual and individual, but between worker and capitalist, between farmer and landlord, etc. Wipe out these relations and you annihilate all society, and your Prometheus is nothing but a ghost without arms or legs; that is, without automatic workshops, without division of [labour](/concepts/labour) – in a word, without everything that you gave him to start with in order to make him obtain this surplus labour.
 
@@ -1039,7 +1039,7 @@ After his lengthy digressions on railways, on Prometheus, and on the new society
 
 “I beseech the economists to ask themselves for one moment, in the silence of their hearts – far from the prejudices that trouble them and regardless of the employment they are engaged in or hope to obtain, of the interests they subserve, or the approbation to which they aspire, of the honors which nurse their vanity – let them say whether before this day the principle that all labour must leave a surplus appeared to them with this chain of premises and consequences that we have revealed.”
 
-<span class="atom-split" data-atom="026" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (1/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (1/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom" data-srclang="en"></span>
 
 The [Method](/axes/method)
 
@@ -1085,7 +1085,7 @@ So what is this absolute method? The abstraction of movement. What is the abstra
 
 How does reason manage to affirm itself, to pose itself in a definite category? That is the business of reason itself and of its apologists.
 
-<span class="atom-split" data-atom="027" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (2/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (2/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom" data-srclang="en"></span>
 
 But once it has managed to pose itself as a thesis, this thesis, this thought, opposed to itself, splits up into two contradictory thoughts – the positive and the negative, the yes and no. The struggle between these two antagonistic elements comprised in the antithesis constitutes the dialectical movement. The yes becoming no, the no becoming yes, the yes becoming both yes and no, the no becoming both no and yes, the contraries balance, neutralize, paralyze each other. The fusion of these two contradictory thoughts constitutes a new thought, which is the synthesis of them. This thought splits up once again into two contradictory thoughts, which in turn fuse into a new synthesis. Of this travail is born a group of thoughts. This group of thoughts follows the same [dialectic](/positions/dialectic) movement as the simple category, and has a contradictory group as antithesis. Of these two groups of thoughts is born a new group of thoughts, which is the antithesis of them.
 
@@ -1143,7 +1143,7 @@ Hegel has no problems to formulate. He has only dialectics. M. Proudhon has noth
 
 Let us for a moment consider M. Proudhon himself as a category. Let us examine his good and bad side, his advantages and his drawbacks.
 
-<span class="atom-split" data-atom="028" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (3/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (3/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom" data-srclang="en"></span>
 
 If he has the advantage over Hegel of setting problems which he reserves the right of solving for the greater good of humanity, he has the drawback of being stricken with sterility when it is a question of engendering a new category by dialectical birth-throes. What constitutes dialectical movement is the coexistence of two contradictory sides, their conflict and their fusion into a new category. The very setting of the problem of eliminating the bad side cuts short the [dialectic](/positions/dialectic) movement. It is not the category which is posed and opposed to itself, by its contradictory nature, it is M. Proudhon who gets excited, perplexed and frets and fumes between the two sides of the category.
 
@@ -1191,7 +1191,7 @@ To this end he has invented a new reason, which is neither the pure and virgin a
 
 “Human reason does not create truth,” hidden in the depths of absolute, eternal reason. It can only unveil it. But such truths as it has unveiled up to now are incomplete, insufficient, and consequently contradictory. Hence, economic categories, being themselves truths discovered, revealed by human reason, by social genius, are equally incomplete and contain within themselves the germ of contradictions. Before M. Proudhon, social genius saw only the antagonistic elements, and not the synthetic formula, both hidden simultaneously in absolute reason. Economic relations, which merely realize on earth these insufficient truths, these incomplete ideas, are consequently contradictory in themselves, and present two sides, one good, the other bad.
 
-<span class="atom-split" data-atom="029" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (4/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (4/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom" data-srclang="en"></span>
 
 To find complete truth, the idea, in all its fullness, the synthetic formula that is to annihilate the contradiction, this is the problem of social genius. This again is why, in M. Proudhon’s illusion, this same social genius has been harried from one category to another without ever having been able, despite all its battery of categories, to snatch from God or from absolute reason, a synthetic formula.
 
@@ -1223,7 +1223,7 @@ Feudalism also had its proletariat – serfdom, which contained all the germs of
 
 After the triumph of the bourgeoisie, there was no longer any question of the good or the bad side of feudalism. The bourgeoisie took possession of the productive forces it had developed under feudalism. All the old economic forms, the corresponding civil relations, the political state which was the official expression of the old [civil society](/positions/civil_society), were smashed.
 
-<span class="atom-split" data-atom="030" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (5/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (5/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom" data-srclang="en"></span>
 
 Thus, feudal production, to be judged properly, must be considered as a mode of production founded on antagonism. It must be shown how wealth was produced within this antagonism, how the productive forces were developed at the same time as class antagonisms, how one of the classes, the bad side, the drawback of society, went on growing until the material conditions for its emancipation had attained full maturity. Is not this as good as saying that the mode of production, the relations in which productive forces are developed, are anything but eternal laws, but that they correspond to a definite development of men and of their productive forces, and that a change in men’s productive forces necessarily brings about a change in their relations of production? As the main thing is not to be deprived of the fruits of civilization, of the acquired productive forces, the traditional forms in which they were produced must be smashed. From this moment, the revolutionary class becomes conservative.
 
@@ -1265,7 +1265,7 @@ Bad side of the division of labour
 
 (Tome I, .)
 
-<span class="atom-split" data-atom="031" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (6/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (6/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom" data-srclang="en"></span>
 
 “[labour](/concepts/labour), by dividing itself according to the law which is peculiar to it, and which is the primary condition of its fruitfulness, ends in the negation of its aims and destroys itself.”
 
@@ -1327,7 +1327,7 @@ The division of labour created castes. Now, castes are the drawbacks of the divi
 
 After philosophy comes history. It is no longer either descriptive history or dialectical history, it is comparative history. M. Proudhon establishes a parallel between the present-day printing worker and the printing worker of the Middle Ages; between the man of letters of today and the man of letters of the Middle Ages, and he weighs down the balance on the side of those who belong more or less to the division of labour as the Middle Ages constituted or transmitted it. He opposes the division of labour of one historical epoch. Was that what M. Proudhon had to prove? No. He should have shown us the drawbacks of the division of labour in general, of the division of labour as a category. Besides, why stress this part of M. Proudhon’s work, since a little later we shall see him formally retract all these alleged developments?
 
-<span class="atom-split" data-atom="032" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (7/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (7/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom" data-srclang="en"></span>
 
 “The first effect of fractional [labour](/concepts/labour),” continues M. Proudhon, “after the depravation of the soul, is the prolongation of the shifts, which grow in inverse ratio to the sum total of intelligence expended.... But as the length of the shifts cannot exceed 16 to 18 hours per day, the moment the compensation cannot be taken out of the time, it will be taken out of the price, and the wages will diminish.... What is certain, and the only thing for us to note, is that the universal conscience does not assess at the same rate the work of a foreman and the labour of a mechanic’s assistant. It is therefore necessary to reduce the price of the day’s work; so that the worker, after having been afflicted in his soul by a degrading function, cannot escape being struck in his body by the meagreness of his remuneration.”
 
@@ -1379,7 +1379,7 @@ It can even be laid down as a general rule that the less authority presides over
 
 The question now is what kind of workshop it is in which the occupations are very much separated, where each worker’s task is reduced to a very simple operation, and where the authority, capital, groups and directs the work. How was this workshop brought into existence? In order to answer this question, we shall have to examine how manufacturing industry, properly so-called, has developed. I am speaking here of that industry which is not yet industry, with its machinery, but which is already no longer the industry of the artisans of the Middle Ages, nor domestic industry. We shall not go into great detail: we shall merely give a few main points to show that history is not to be made with formulas.
 
-<span class="atom-split" data-atom="033" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (8/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (8/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom" data-srclang="en"></span>
 
 One of the most indispensable conditions for the formation of manufacturing industry was the accumulation of capital, facilitated by the discovery of America and the import of its precious metals.
 
@@ -1429,7 +1429,7 @@ The automatic workshop opened its career with acts which were anything but phila
 
 In short, by the introduction of machinery, the division of labour inside society has grown up, the task of the worker inside the workshop has been simplified, capital has been concentrated, human beings have been further dismembered.
 
-<span class="atom-split" data-atom="034" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (9/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY (9/9)" data-chapter="CHAPTER TWO: THE METAPHYSICS OF POLITICAL ECONOMY" data-kind="atom" data-srclang="en"></span>
 
 When M. Proudhon wants to be an economist, and to abandon for a moment the “evolution of ideas in serial relation in the understanding,” then he goes and draws erudition from Adam Smith, from a time when the automatic workshop was only just coming into existence. Indeed, what a difference between the division of [labour](/concepts/labour) as it existed in Adam Smith’s day and as we see it in the automatic workshop! In order to make this properly understood, we need only quote a few passages from Dr. Ure’s The Philosophy of Manufactures.
 
@@ -1459,7 +1459,7 @@ M. Proudhon, not having understood even this one revolutionary side of the autom
 
 To sum up, M. Proudhon has not gone further than the petty-bourgeois ideal. And to realize this ideal, he can think of nothing better than to take us back to the journeyman or, at most, to the master craftsman of the Middle Ages. It is enough, he says somewhere in his book, to have created a masterpiece once in one’s life, to have felt oneself just once to be a man. Is not this, in form as in content, the masterpiece demanded by the trade guild of the Middle Ages?
 
-<span class="atom-split" data-atom="035" data-title="3. Competition and Monopoly (1/2)" data-chapter="3. Competition and Monopoly" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="3. Competition and Monopoly (1/2)" data-chapter="3. Competition and Monopoly" data-kind="atom" data-srclang="en"></span>
 
 Good side of competition
 
@@ -1541,7 +1541,7 @@ Competition engenders misery, it foments civil war, it “changes natural zones,
 
 After all the ill M. Proudhon says of it, can there be for the relations of bourgeois society, for its principles and its illusions, a more disintegrating, more destructive element than competition??
 
-<span class="atom-split" data-atom="036" data-title="3. Competition and Monopoly (2/2)" data-chapter="3. Competition and Monopoly" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="3. Competition and Monopoly (2/2)" data-chapter="3. Competition and Monopoly" data-kind="atom" data-srclang="en"></span>
 
 It must be carefully noted that competition always becomes the more destructive for bourgeois relations in proportion as it urges on a feverish creation of new productive forces, that is, of the material conditions of a new society. In this respect at least, the bad side of competition would have its good points.
 
@@ -1597,7 +1597,7 @@ As for the logical sequence of taxes, of the balance of trade, of credit – in 
 
 This brief summary will suffice to give the reader a true idea of M. Proudhon’s lubrications on the police or on taxes, the balance of trade, credit, communism, and population. We defy the most indulgent criticism to treat these chapters seriously.
 
-<span class="atom-split" data-atom="037" data-title="4. Property or Ground Rent (1/5)" data-chapter="4. Property or Ground Rent" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="4. Property or Ground Rent (1/5)" data-chapter="4. Property or Ground Rent" data-kind="atom" data-srclang="en"></span>
 
 In each historical epoch, property has developed differently and under a set of entirely different social relations. Thus to define bourgeois property is nothing else than to give an exposition of all the social relations of bourgeois production.
 
@@ -1645,7 +1645,7 @@ We have seen that, according to the Ricardian doctrine, the price of all objects
 
 In agricultural industry, on the contrary, it is the price of the product obtained by the greatest amount of labour which regulates the price of all products of the same kind. In the first place, one cannot, as in manufacturing industry, multiply at will the instruments of production possessing the same degree of productivity, that is, plots of land with the same degree of fertility. Then, as population increases, land of an inferior quality begins to be exploited, or new outlays of capital, proportionately less productive than before, are made upon the same plot of land. In both cases a greater amount of labour is expended to obtain a proportionately smaller product. The needs of the population having rendered necessary this increase of labour, the product of the land whose [exploitation](/concepts/surplus_value) is the more costly has as certain a sale as that of a piece of land whose exploitation is cheaper. As competition levels the market price, the product of the better soil will be paid for as dearly as that of the inferior. It is the excess of the price of the products of the better soil over the cost of their production that constitutes rent. If one could always have at one’s disposal plots of land of the same degree of fertility; if one could, as in manufacturing industry, have recourse continually to cheaper and more productive machines, or if the subsequent outlays of capital produced as much as the first, then the price of agricultural products would be determined by the price of commodities produced by the best instruments of production, as we have seen with the price of manufactured products. But, from this moment rent would have disappeared also.
 
-<span class="atom-split" data-atom="038" data-title="4. Property or Ground Rent (2/5)" data-chapter="4. Property or Ground Rent" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="4. Property or Ground Rent (2/5)" data-chapter="4. Property or Ground Rent" data-kind="atom" data-srclang="en"></span>
 
 For the Ricardian doctrine – “once the premises granted” – to be generally true, it is moreover essential that capital should be freely applicable to different branches of industry; that a strongly developed competition among the capitalists should have brought profits to an equal level; that the farmer should be no more than an industrial capitalist claiming for the use of his capital on the land, a profit equal to that which he would draw from his capital if it were applied in any kind of manufacture; that agricultural [exploitation](/concepts/surplus_value) should be subjected to the regime of large-scale industry; and finally, that the landowner himself should aim at nothing beyond the money return.
 
@@ -1691,7 +1691,7 @@ M. Proudhon has improvised his land valuation, which has not even the value of a
 
 (Vol. II, )
 
-<span class="atom-split" data-atom="039" data-title="4. Property or Ground Rent (3/5)" data-chapter="4. Property or Ground Rent" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="4. Property or Ground Rent (3/5)" data-chapter="4. Property or Ground Rent" data-kind="atom" data-srclang="en"></span>
 
 This time, M. Proudhon sees in rent all the characteristics of interest, save that it is derived from capital of a specific nature. This capital is land, an eternal capital, “which is capable of no increase in matter, but only an indefinite improvement in its use.” In the progressive advance of civilization, interest has a continual tendency to fall, whilst rent continually tends to rise. Interest falls because of the abundance of capital; rent rises owning to the improvements brought about in industry, which results in an ever better utilization of land.
 
@@ -1743,7 +1743,7 @@ But as the relation of manual labour to fixed capital is not the same in differe
 
 The rise and fall of profits and wages expresses merely the proportion in which capitalists and workers share in the product of a day’s work, without influencing in most instances the price of the product. But that “strikes followed by an increase in wages culminate in a general rise in prices, in a dearth even” – those are notions which can blossom only in the brain of a poet who has not been understood.
 
-<span class="atom-split" data-atom="040" data-title="4. Property or Ground Rent (4/5)" data-chapter="4. Property or Ground Rent" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="4. Property or Ground Rent (4/5)" data-chapter="4. Property or Ground Rent" data-kind="atom" data-srclang="en"></span>
 
 In England, strikes have regularly given rise to the invention and application of new machines. Machines were, it may be said, the weapon employed by the capitalist to quell the [revolt](/positions/revolution) of specialized [labour](/concepts/labour). The self-acting mule, the greatest invention of modern industry, put out of action the spinners who were in revolt. If combinations and strikes had no other effect than that of making the efforts of mechanical genius react against them, they would still exercise an immense influence on the development of industry.
 
@@ -1795,7 +1795,7 @@ In England, they have not stopped at partial combinations which have no other ob
 
 The first attempt of workers to associate among themselves always takes place in the form of combinations.
 
-<span class="atom-split" data-atom="041" data-title="4. Property or Ground Rent (5/5)" data-chapter="4. Property or Ground Rent" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="4. Property or Ground Rent (5/5)" data-chapter="4. Property or Ground Rent" data-kind="atom" data-srclang="en"></span>
 
 Large-scale industry concentrates in one place a crowd of people unknown to one another. Competition divides their interests. But the maintenance of wages, this common interest which they have against their boss, unites them in a common thought of resistance – combination. Thus combination always has a double aim, that of stopping competition among the workers, so that they can carry on general competition with the capitalist. If the first aim of resistance was merely the maintenance of wages, combinations, at first isolated, constitute themselves into groups as the capitalists in their turn unite for the purpose of repression, and in the face of always united capital, the maintenance of the association becomes more necessary to them than that of wages. This is so true that English economists are amazed to see the workers sacrifice a good part of their wages in favor of associations, which, in the eyes of these economists, are established solely in favor of wages. In this struggle – a veritable civil war – all the elements necessary for a coming battle unite and develop. Once it has reached this point, association takes on a political character.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_sesiones_de_estos_días" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las sesiones de estos días" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Las sesiones de estos días" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -58,7 +58,7 @@ En general, el maurismo y el ciervismo han degenerado en una política tan perso
 
 Nosotros quisiéramos algún día proporcionarnos el insólito placer de dar la razón al señor La Cierva. Pero ¿cómo llegaremos nunca a darle la razón si el señor La Cierva renuncia a presentar razones? Repase quien quiera los últimos Diarios de Sesiones y díganos si la actitud de aquél no es estupenda.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El señor La Cierva está resuelto a detener él solo la marcha de la política nacional entera, como dicen que Milón de Crotona detenía con el puño la carrera de cuatro potros. Tal empresa sería siempre audaz; pero podía ser respetable si el señor La Cierva hubiese descubierto evidentes razones que presentasen la política bucólica del señor Sánchez de Toca como un peligro nacional. Pero no hay nada de esto. Aparte algunas fintas sin gravedad tiradas al azúcar del presidente, el señor La Cierva da sólo dos razones para justificar su faena de energúmeno. La primera es que este Gobierno debe fenecer porque sus hombres no quisieron unirse con el señor Maura y con él hace unos meses; antes bien, fraguaron la caída de aquel Gabinete. La segunda, es ésta: es inmoral que un Gobierno del partido liberalconservador se nutra con los votos de la izquierda. Y nada más. Esto es todo lo que el señor Cierva entrega a la discusión racional. Lo demás son improperios, gesticulaciones, desdenes, amenazas, descoyuntamientos, rabia, rencor, frenesí e iracundia.
 

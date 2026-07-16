@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_lirismo_en_montjuich" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El lirismo en Montjuich" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El lirismo en Montjuich" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Después de haber asistido con alguna atención al debate parlamentario de julio, quedan en la memoria, tras de las grandes emociones políticas que suscitara, no pocas menudas reminiscencias que solicitan la meditación y el comentario.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/gracia_y_desgracia_de_la_lengua_francesa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Gracia y desgracia de la lengua francesa" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Gracia y desgracia de la lengua francesa" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La situación en que, tal vez, aparecen con más evidencia las virtudes y limitaciones de cada lengua es la del escritor que lucha con los traductores de su obra. Como es natural, desde su punto de vista interesado, el carácter que primero advierte es la dosis de blandura o de dureza, de maleabilidad o de rigidez que cada lengua posee. Hay idiomas inhospitalarios que no toleran la menor infracción de los usos en que consisten: por ejemplo y más que ninguno, el francés. Nadie lo diría cuando contempla, por decirlo así, desde fuera, esta lengua: todo en ella es suavidad, gracia, agilidad, facilidad. ¡Qué delicia —piensa uno— poder hablar o escribir en lenguaje tal! Pero todo lo que ad extra tiene aspecto de virtud vive ad intra merced a una férrea disciplina. Esos encantos de la lengua francesa se deben a que es inexorable.
 

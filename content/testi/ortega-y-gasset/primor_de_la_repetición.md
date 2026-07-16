@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/primor_de_la_repetición" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Primor de la repetición" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Primor de la repetición" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La nubecilla poética en que nos llegan envueltos los personajes, las acciones, las cosas mentadas por Azorín, emana siempre de que, al presentársenos, nos dejan ver, como en una galería de espejos, repetida indefinidamente su fisonomía. Este placer estético de la mera repetición que aquí toma un contenido más sutil y complicado, es el mismo que creó las estelas orientales, donde una larguísima hilera de ángeles-toros multiplica la misma postura.
 

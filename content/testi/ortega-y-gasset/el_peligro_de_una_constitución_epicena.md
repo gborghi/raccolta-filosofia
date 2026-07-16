@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_peligro_de_una_constitución_epicena" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[El peligro de una Constitución epicena]" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="[El peligro de una Constitución epicena]" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor Ortega y Gasset (don José): Señores diputados: No sé si es parlamentario lo que voy a hacer, y, por tanto, suplico la benevolencia de la Cámara.
 
@@ -36,7 +36,7 @@ En el [caso](/concepts/fortune) presente, yo me encuentro con una posibilidad de
 
 Toda mi obra es, en cierto modo, un deseo de curarme de posibles radicalismos que haya dentro de mí, como hombre obligado a manejar sólo los esquemas de las ideas. Nada me es más grato, pues, que la transacción; pero es menester que la transacción resultante de una situación parlamentaria transitoria, aislada, de una situación efímera, que el tiempo se lleva, tenga sentido en sí misma, sea respetable, se pueda enseñar a las gentes.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pues bien, señores, temo yo que la solución que ayer se acordó no tenga estas virtudes. Uno de los que la defendieron, uno de los hombres para mí de más respeto en esta Cámara, el señor Alcalá Zamora, lo más que pudo decir de ella es que era una entre las peores. En esa autoridad, para mí enorme, del señor Alcalá Zamora, en ésta como en otra porción de cosas, yo me amparo, y después de haber tal vez perforado la posibilidad reglamentaria de la Cámara, por el momento me siento, quedándome con la misma buena voluntad con que comencé. (Aplausos).
 

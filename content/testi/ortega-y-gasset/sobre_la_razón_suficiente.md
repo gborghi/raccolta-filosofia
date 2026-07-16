@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_la_razón_suficiente" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre la razón suficiente" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre la razón suficiente" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¡La razón, la razón! —¿Quién tiene la razón en política? Por lo pronto, una cosa es clara: en política menos que en ningún otro orden puede nadie pretender tener la razón en asuntos aislados. La política, como historia y vida que es, es un conjunto, y la razón se tiene o se pierde también en conjunto. Esto vale lo mismo para los gobernantes que para las oposiciones, y es sobremanera pueril hacerse ilusiones de lo contrario, creer que aislando una cuestión, en la que abstractamente se tiene la razón, se ha logrado poseerla en efecto. Será todo lo absurdo o deplorable que se quiera, pero tal es la pura e inexorable verdad: en política o se tiene toda la razón o no se tiene ninguna. Y lo curioso es que ese todo de la razón política no es como el geométrico, que implica la posesión de todas sus partes. En política se puede no tener razón en esto y en lo otro y en lo de más allá, y, sin embargo, tenerla «toda». O viceversa, tener muchas razones y no tener ninguna. El todo de la razón política es una impresión de conjunto, un como balance automático que hace —a veces sin darse cuenta de ello— la opinión pública.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/arte_de_este_mundo_y_del_otro" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Arte de este mundo y del otro" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Arte de este mundo y del otro" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -50,7 +50,7 @@ Pero hay siempre en ellas, para un hombre sin imaginación, algo de petulante, u
 
 Prefiero la honrada pesadumbre románica, dice el hombre del Sur. Ese misticismo, esa suplantación de este mundo por otro me pone en sospechas. Unido a un gran respeto y a un fervor hacia la idea religiosa, hay en mí una suspicacia y una antipatía radicales hacia el misticismo, hacia el temperamento confusionario, que me impiden encontrarle justificación dondequiera se presenta. Siempre me parece descubrir en él la intervención de la chifladura o de la mistificación.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sin embargo, la arquitectura es un documento tan amplio del espíritu en ella expresado, que ofrece la posibilidad de orientarnos sobre lo que realmente haya de verecundo, de profundamente humano y significativo en el misticismo gótico. La arquitectura es un arte étnico y no se presta a caprichos. Su capacidad expresiva es poco compleja; sólo expresa, pues, amplios y simples estados de espíritu, los cuales no son los del carácter individual, sino los de un pueblo o de una época. Además, como obra material supera todas las fuerzas individuales: el tiempo y el coste que supone hacen de ella forzosamente una manufactura colectiva, una labor común, social.
 
@@ -88,7 +88,7 @@ Ahora bien, si el objeto es angosto y vertical, por ejemplo, nuestros músculos 
 
 Ésta es la simpatía: «Sólo cuando existe esta simpatía —dice Lipps— son bellas las formas y su belleza no es otra cosa que este sentirse idealmente vivir una vida libre». «Goce estético es, por tanto, goce de sí mismo objetivado».
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Según esta teoría, el arte vendría a ser la fabricación de formas tales que susciten en nosotros esa vitalidad orgánica potenciada, esa expansión virtual de energías, esa liberación ilimitada e imaginaria. La consecuencia es obvia: el arte, entendido así, propenderá siempre a presentarnos las formas orgánicas vivas en toda su riqueza y libertad, el arte buscará constantemente la captación de la vida animal real, que es la que más puede favorecer esa otra vida virtual; el arte, en suma, será esencialmente naturalista.
 
@@ -130,7 +130,7 @@ La postura del hombre clásico ante el universo tiene, consecuentemente, que ser
 
 Nuestro autor caracteriza, pues, al hombre clásico por el racionalismo, por la falta de sensibilidad y de interés para ese más allá, que limita la porción del mundo acotada por nuestra razón. Dejemos a un lado toda discusión sobre si esta característica es o no acertada, y prosigamos.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Este hombre, para quien sólo este mundo existe, el mundo de lo real, que es el mundo de lo racional, sentirá dondequiera mire, la voluptuosidad de la armonía que rige las formas corporales, es decir, la belleza, la buena proporción. En la antología del monje Planudio, donde se ha almacenado todo el menudo erotismo helénico, se dice del talle de una mujer que era «armonioso y divino». Para el griego que escribió aquel meloso epigrama, lo divino, lo bello y cumplido es lo que guarda ciertas buenas proporciones. Ahora bien; lo que en nuestras matemáticas se llama proporción, se llamaba en las antiguas razón. Esta razón o regularidad de lo viviente, ese ritmo placentero de lo orgánico, esa razón que hay en la planta como en el hombre, constituye el lema del arte clásico, del arte simpático propio de un temperamento confiado, amigo y afirmador de la vida. El griego busca en la plástica ese placer causado «por el misterioso poder de la forma orgánica, en que se puede gozar del propio organismo potenciado». Con el mismo fin, el Renacimiento estudia afanosamente las formas reales, no para lograr copias, sino para aprender en ellas los tesoros de armonía que su optimismo triunfante le hace sospechar desparramados por la vitalidad cósmica.
 
@@ -176,7 +176,7 @@ Con objeto de no alargar indefinidamente estas notas, dejo a un lado todas las c
 
 La historia del arte señala con plena claridad el momento en que esas dos corrientes elementales —el estilo geométrico, que viene con los dorios del Norte, y el estilo vitalista, de incontinente simpatía hacia lo real, que llega del Sur— se dan la batalla, y, sin vencidos ni vencedores, se funden en una divina tregua ejemplar, que es el clasicismo griego. Primero es el estilo de Mykena y el estilo de Dipylon quienes combaten; luego, el dórico y el jónico.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sin embargo, aquella fusión es pasajera, como todo lo razonable que suele durar poco. Tras de Grecia y de Roma vienen pueblos dentro de bosques incultos, tropeles humanos que conservan no domada su originalidad espiritual. Son los germanos, que, según Worringer, constituyen la conditio sine qua non del arte gótico. No se piense, pues, cuando de goticismo hablemos, en los alemanes actuales. Recuérdese que aquellos germanos cayeron sobre los imperios mediterráneos y, haciendo que su sangre corriera por dentro de las venas grecolatinas, perviven en nosotros los españoles, franceses e italianos. Los germanos no poseían originariamente más arte que la ornamentación. «No hay en ésta —dice Haupt— representación alguna de lo natural, ni del hombre, ni del animal, ni de la planta. Todo se ha convertido en un adorno superficial, sin que intente jamás la imitación de cosa alguna presente ante los ojos». En las épocas más antiguas no se distingue del estilo geométrico primitivo «que hemos llamado bien mostrenco» de todos los pueblos arios. Poco a poco, no obstante, se va desenvolviendo sobre la base de esta gramática lineal aria, un peculiar idioma de líneas que claramente se caracteriza como el idioma propiamente germánico. Este nuevo arte es la ornamentación de lazos. Lamprecht, el famoso autor de la Historia de Alemania lo describe así: «El carácter de esta ornamentación está determinado por la penetración y complicación de unos pocos motivos simplicísimos. Primero es sólo el punto, la línea, el lazo; luego, ya la ojiva, el círculo, la espiral, el zigzag, y un adorno en forma de S. En verdad, no es un tesoro de motivos. Pero ¡qué diversidad no se logra en su aplicación! Unas veces corren paralelamente, otras entre paréntesis, otras en enrejado, otras anudados, otras entretejidos en confusa complicación. Así resultan fantasías inextricables, cuyos enigmas hacen cavilar, que en su fluencia parecen evitarse y buscarse, cuyos elementos, dotados, por decirlo así, de sensibilidad, poseídos de un movimiento apasionadamente vital, sujetan la mirada y la atención».
 

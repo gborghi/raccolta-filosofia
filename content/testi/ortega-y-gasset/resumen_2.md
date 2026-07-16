@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/resumen_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Resumen (2)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Resumen (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El discurso leído por el señor Sánchez de Toca nos habla de la guerra circundante y de la actitud de España ante ella. Señalemos la perfecta coincidencia entre los juicios del político escritor y los que en estas columnas se han sostenido. Sólo hallamos una superficial diferencia en el estilo. Las columnas donde el señor Sánchez de Toca escribe se convierten ineludiblemente en columnas salomónicas. Mas esta propensión al barroquismo no es para nosotros un inconveniente. Al contrario, vemos en el estilo barroco una tendencia muy castizamente española y no vacilamos en considerar admirables las páginas que a la significación general de la guerra dedica este discurso. Por desdicha, los trozos que vamos a copiar no pertenecen a estas páginas.
 
@@ -58,7 +58,7 @@ El señor Sánchez de Toca cree, con sumo acierto, que en el conflicto presente 
 
 VI. Iberismo.— «Resultaría esta Península con extraordinarios prestigios de autoridad propia para las obras más perdurables que deben concertarse en las negociaciones futuras, si antes de llegar el momento histórico de sellarse paces duraderas entre las grandes potencias actualmente en beligerancia, los nacionalismos hermanados en este cuadro geográfico aparecieran como nacionalidades espontáneamente unidas en amplio concierto, asegurándose mutuamente sus comunes intereses en condición de ejercitar sus formas propias de gobierno en vida independiente para desarrollar más intensamente la prosperidad de sus intereses patrios».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 VII. Actividad reconstructora.— «En estos momentos tan decisivos para los destinos de las naciones, la reconstitución de España en ciudadanía libre y nacionalismo soberano es interés supremo que relegue en nuestra vida política a lugar secundario todas las demás consideraciones».
 

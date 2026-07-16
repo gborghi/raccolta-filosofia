@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/restauración" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Restauración" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Restauración" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -64,7 +64,7 @@ II
 
 —¿Se refiere usted, por ejemplo, a la algarada filosófico-política de los realistas franceses?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 —No es el mejor ejemplo, pero es un dato. El realismo gana terreno en Francia; el señor Carlos Maurras escribe y tonitrúa conduciendo una hueste, cada vez más numerosa, de jóvenes que arden en monárquicos furores. No obstante los razonamientos del señor Maurras no ofrecen flanco a la serena aquiescencia. Son tópicas ornamentales, críticas caprichosas y vagos proyectos. Pero no es lo importante esta restauración monárquica. La restauración hacia que vamos es más grave y honda. Es la restauración del irracionalismo, y como toda la edad moderna es un régimen racionalista, pudiera decirse que a donde vamos de cabeza es a una restauración de la Edad Media.
 

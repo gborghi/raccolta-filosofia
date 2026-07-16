@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_los_estados_unidos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre los Estados Unidos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre los Estados Unidos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -46,7 +46,7 @@ Habría, pues, que definir la «vida colonial» no como ha sido acá o allá, si
 
 Con esto insinúo ya mi primer carácter de esta forma de vida humana: que es sólo etapa, período, momento hacia otra. La «vida oriental», la «vida antigua», la «vida europea», duraron o durarán más o menos milenios, pero aunque no quedasen de ellas rastro serían en sí mismas imperecederas, intransitorias, por la sencilla razón de que no son tránsito a otra vida, sino que terminan dentro de sí mismas. La vida colonial, en cambio, lleva dentro de sí la inexorable condición de desembocar en otra forma de vida que es ya estable —la vida autóctona.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Con esto nos hallamos ya en un segundo carácter: la vida colonial es la no autóctona. Es decir, que el hombre que la vive no pertenece al espacio geográfico en que la vive. Pero dicha así, la cosa no está clara. Porque no toda emigración, no toda invasión es colonización. No basta, pues, que un pueblo caiga en un espacio distinto de aquél en que nació y se desarrolló para que se produzca el fenómeno «colonia». Hay una forma histórica de incongruencia entre hombre y espacio o tierra que es precisamente lo inverso de una colonización. Cuando los bárbaros pasan el limes romano y se instalan en aquellas tierras hipercivilizadas, no sólo pasan de un espacio a otro, sino de un tiempo a otro. La tierra no es sólo espacio, sino tiempo. Cada tierra está en un cierto estadio de «cultivo», de civilización, según sean los hombres autóctonos que la habitaban. La inseparabilidad de espacio y tiempo que la Física actual nos enseña vale también para la Historia y la Geografía. Cuando el bárbaro entra en tierra romana pasa súbitamente de una tierra históricamente más joven a una tierra históricamente más vieja. El bárbaro, pues, se avejenta de modo automático y traspasa su mocedad a las viejas razas invadidas por él. Sufre el anacronismo entre la edad de su organismo vital —que es juvenil— y la de la tierra donde irrumpe, que es senescente.
 
@@ -70,7 +70,7 @@ III
 
 Según nuestra ecuación, el hombre colonial es el hombre de una raza antigua y avanzada cuya intimidad ha recaído en el primitivismo mientras su dintorno vital goza de plena civilización. Este anacronismo viviente, esta duplicidad constitucional motiva la perenne ilusión óptica que el americano produce. Nuestra sinceridad advierte, queramos o no, una extraña desazón en el trato con él. Ninguna de las posturas que ante él adoptamos es suficiente. Siempre tenemos que completarla con la contraria. Y es que las dos zonas de su ser, la periférica y la íntima, tienen distinta cronología.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Hay una imagen errónea que desorienta nuestra comprensión del hombre en general. Suponemos que la personalidad humana se forma partiendo de un núcleo central, que es lo más íntimo de ella, el cual, creciendo, engrosándose y perfeccionándose, llega en su periferia a constituir nuestro yo social, aquello de cada uno de nosotros que da hacia los demás. La verdad, sin embargo, ha sido siempre lo contrario. Lo primero que del hombre se forma es su persona social, el repertorio de acciones, normas, ideas, hábitos, tendencias, en que consiste nuestro trato con los prójimos. Y puede llegarse —es precisamente el [caso](/concepts/fortune) del americano— a poseer una personalidad social muy civilizada, muy estimable y llena de virtudes, o, al menos, destrezas cuando aún la intimidad casi no existe. Tendríamos entonces que la persona podría representarse por una esfera hueca. La pared de la esfera —el espíritu social de la persona— es más o menos gruesa, pero, al cabo, tras ella hay un vacío central. Conforme progresa la plenificación de su cultura personal, la pared crece hacia dentro, va creando capas más internas del individuo. El término ideal del desarrollo sería que la esfera espiritual en que consiste la persona fuera maciza y compacta.
 

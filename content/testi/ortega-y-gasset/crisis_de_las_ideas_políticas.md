@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/crisis_de_las_ideas_políticas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Crisis de las ideas políticas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Crisis de las ideas políticas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Mas ¿dónde está un conjunto de ideas políticas, dotadas de evidencia y fecundidad bastante para que sirvan de fe motriz a esa minoría, de cuya existencia depende la perduración nacional? No lo hay en parte alguna: a esta ausencia nos referimos antes, y del hecho de ella partíamos para razonar la necesidad de un nuevo instrumento político encargado, por lo pronto, de remediarla.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/política_española_los_grandes_partidos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Política española. Los grandes partidos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Política española. Los grandes partidos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando yo era niño —dice una vez Anatolio France—, creía que siendo el mundo una cosa tan grande, se comportaría con alguna seriedad.
 

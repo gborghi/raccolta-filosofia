@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_paz_y_españa_esta_hora_suprema_nos_encuentra_desprevenidos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La paz y España.— Esta hora suprema nos encuentra desprevenidos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La paz y España.— Esta hora suprema nos encuentra desprevenidos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Alemania, Austria y Turquía piden la paz. Sea cualquiera el resultado próximo de este hecho, quiere decir que, en uno u otro modo, la paz está ahí: sobre la línea del horizonte quiebran los albores de un tiempo nuevo.
 

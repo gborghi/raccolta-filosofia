@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/política_americana" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Política americana" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Política americana" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 «Es uno de esos ideales todavía borrosos e imprecisos en el alma del pueblo. La habilidad del político consiste en recogerlos a tiempo para definirlos con claridad, y señalar, desde luego con acierto, su orientación en el porvenir. Abrigo la esperanza de que ha de ser el ideal nacional, hondamente sentido y querido por todos, y al cual debemos consagrar desde luego los mayores esfuerzos, a fin de realizarlo en breve plazo y con éxito.
 

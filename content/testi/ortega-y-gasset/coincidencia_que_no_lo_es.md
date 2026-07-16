@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/coincidencia_que_no_lo_es" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Coincidencia que no lo es" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Coincidencia que no lo es" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 III. Discurso del señor Cambó.— Lee el señor Maura «dos párrafos» de éste, «porque son la esencia del discurso», su «punto culminante». De esos dos párrafos es, a su vez, uno el que delimita mejor la cuestión. Helo aquí:
 

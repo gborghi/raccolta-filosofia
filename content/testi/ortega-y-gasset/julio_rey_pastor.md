@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/julio_rey_pastor" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Julio Rey Pastor" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Julio Rey Pastor" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Durante el ciclo de conferencias filosóficas que el año pasado tuve el honor de dar en esa ciudad, aludí más de una vez a las radicales transformaciones que la ciencia matemática ha experimentado en el XIX. Llegué a afirmar que ninguna otra disciplina del globus intellectualis había en todo el siglo sufrido ampliación semejante. Una prudente ironía ante los juicios y prejuicios que la época en que vivimos inmersos inyecta en nuestro espíritu, debe permitirnos imaginar que, acaso esta centuria pasada cuya gloria parecía consistir en los descubrimientos técnicos, halle gracia andando el tiempo en la memoria humana como la edad de la más pura, abstracta, etérea e irreal matemática.
 

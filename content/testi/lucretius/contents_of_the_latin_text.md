@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/lucretius/contents_of_the_latin_text" data-philosopher="Lucretius"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="CONTENTS OF THE LATIN TEXT" data-chapter="Liber Primus" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="CONTENTS OF THE LATIN TEXT" data-chapter="Liber Primus" data-kind="intro" data-srclang="en"></span>
 
 Aeneadum genetrix, hominum divomque [voluptas](/positions/pleasure),
 
@@ -473,7 +473,7 @@ nullius exitium patitur natura videri.
 
 si penitus peremit consumens materiem omnem,
 
-<span class="atom-split" data-atom="002" data-title="Liber Primus (2/6)" data-chapter="Liber Primus" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Liber Primus (2/6)" data-chapter="Liber Primus" data-kind="atom" data-srclang="en"></span>
 
 unde animale genus generatim in lumina vitae
 
@@ -911,7 +911,7 @@ at facere et fungi sine corpore nulla potest res
 
 nec praebere locum porro nisi inane vacansque.
 
-<span class="atom-split" data-atom="003" data-title="Liber Primus (3/6)" data-chapter="Liber Primus" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Liber Primus (3/6)" data-chapter="Liber Primus" data-kind="atom" data-srclang="en"></span>
 
 445 ergo praeter inane et corpora tertia per se
 
@@ -1359,7 +1359,7 @@ ignis in coetu stingui mutareque corpus,
 
 scilicet ex nulla facere id si parte reparcent,
 
-<span class="atom-split" data-atom="004" data-title="Liber Primus (4/6)" data-chapter="Liber Primus" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Liber Primus (4/6)" data-chapter="Liber Primus" data-kind="atom" data-srclang="en"></span>
 
 occidet ad nihilum ni mirum funditus ardor
 
@@ -1795,7 +1795,7 @@ robore cum in saxi franguntur, mittere signum
 
 sanguinis aut aliquid, nostro quae corpore aluntur.
 
-<span class="atom-split" data-atom="005" data-title="Liber Primus (5/6)" data-chapter="Liber Primus" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Liber Primus (5/6)" data-chapter="Liber Primus" data-kind="atom" data-srclang="en"></span>
 
 cum lapidi in lapidem terimus, manare cruorem
 
@@ -2243,7 +2243,7 @@ constitues, haec rebus erit pars ianua leti,
 
 hac se turba foras dabit omnis materiai.
 
-<span class="atom-split" data-atom="006" data-title="Liber Primus (6/6)" data-chapter="Liber Primus" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Liber Primus (6/6)" data-chapter="Liber Primus" data-kind="atom" data-srclang="en"></span>
 
 Haec sic pernosces parva perductus opella;
 
@@ -2253,7 +2253,7 @@ nox iter eripiet, quin ultima naturai
 
 pervideas: ita res accendent lumina rebus.
 
-<span class="atom-split" data-atom="007" data-title="Liber Secundus (1/6)" data-chapter="Liber Secundus" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Liber Secundus (1/6)" data-chapter="Liber Secundus" data-kind="atom" data-srclang="en"></span>
 
 Suave, mari magno turbantibus aequora ventis
 
@@ -2705,7 +2705,7 @@ nec foret offensus natus nec plaga creata
 
 principiis; ita nihil umquam natura creasset.
 
-<span class="atom-split" data-atom="008" data-title="Liber Secundus (2/6)" data-chapter="Liber Secundus" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Liber Secundus (2/6)" data-chapter="Liber Secundus" data-kind="atom" data-srclang="en"></span>
 
 225 Quod si forte aliquis credit graviora potesse
 
@@ -3151,7 +3151,7 @@ Denique quae nobis durata ac spissa videntur,
 
 et quasi ramosis alte compacta teneri.
 
-<span class="atom-split" data-atom="009" data-title="Liber Secundus (3/6)" data-chapter="Liber Secundus" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Liber Secundus (3/6)" data-chapter="Liber Secundus" data-kind="atom" data-srclang="en"></span>
 
 in quo iam genere in primis adamantina saxa
 
@@ -3615,7 +3615,7 @@ si nil praeterea, tamen haec in corpore tradunt,
 
 unde ignem iacere et lumen submittere possint
 
-<span class="atom-split" data-atom="010" data-title="Liber Secundus (4/6)" data-chapter="Liber Secundus" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Liber Secundus (4/6)" data-chapter="Liber Secundus" data-kind="atom" data-srclang="en"></span>
 
 675 scintillasque agere ac late differre favillam.
 
@@ -4055,7 +4055,7 @@ sensilia, extemplo me gigni dicere sensus,
 
 sed magni referre ea primum quantula constent,
 
-<span class="atom-split" data-atom="011" data-title="Liber Secundus (5/6)" data-chapter="Liber Secundus" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Liber Secundus (5/6)" data-chapter="Liber Secundus" data-kind="atom" data-srclang="en"></span>
 
 895 sensile quae faciunt, et qua sint praedita forma,
 
@@ -4497,7 +4497,7 @@ nam sua cuique, locis ex omnibus, omnia plagis
 
 corpora distribuuntur et ad sua saecla recedunt,
 
-<span class="atom-split" data-atom="012" data-title="Liber Secundus (6/6)" data-chapter="Liber Secundus" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Liber Secundus (6/6)" data-chapter="Liber Secundus" data-kind="atom" data-srclang="en"></span>
 
 umor ad umorem, terreno corpore terra
 
@@ -4621,7 +4621,7 @@ nec tenet omnia paulatim tabescere et ire
 
 ad capulum spatio aetatis defessa vetusto.
 
-<span class="atom-split" data-atom="013" data-title="Liber Tertius (1/6)" data-chapter="Liber Tertius" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Liber Tertius (1/6)" data-chapter="Liber Tertius" data-kind="atom" data-srclang="en"></span>
 
 E tenebris tantis tam clarum extollere lumen
 
@@ -5057,7 +5057,7 @@ ad speciem, nihil ad pondus: [mors](/concepts/death) omnia praestat,
 
 ergo animam totam perparvis esse necessest
 
-<span class="atom-split" data-atom="014" data-title="Liber Tertius (2/6)" data-chapter="Liber Tertius" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Liber Tertius (2/6)" data-chapter="Liber Tertius" data-kind="atom" data-srclang="en"></span>
 
 seminibus nexam per venas viscera nervos,
 
@@ -5493,7 +5493,7 @@ exhalare vaporem altaria ferreque fumum;
 
 nam procul haec dubio nobis simulacra gerunturÆ
 
-<span class="atom-split" data-atom="015" data-title="Liber Tertius (3/6)" data-chapter="Liber Tertius" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Liber Tertius (3/6)" data-chapter="Liber Tertius" data-kind="atom" data-srclang="en"></span>
 
 nunc igitur quoniam quassatis undique vasis
 
@@ -5927,7 +5927,7 @@ corpore relicuo pugnam caedesque petessit,
 
 nec tenet amissam laevam cum tegmine saepe
 
-<span class="atom-split" data-atom="016" data-title="Liber Tertius (4/6)" data-chapter="Liber Tertius" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Liber Tertius (4/6)" data-chapter="Liber Tertius" data-kind="atom" data-srclang="en"></span>
 
 650 inter equos abstraxe rotas falcesque rapaces,
 
@@ -6359,7 +6359,7 @@ debet enim, misere si forte aegreque futurumst;
 
 ipse quoque esse in eo tum tempore, cui male possit
 
-<span class="atom-split" data-atom="017" data-title="Liber Tertius (5/6)" data-chapter="Liber Tertius" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Liber Tertius (5/6)" data-chapter="Liber Tertius" data-kind="atom" data-srclang="en"></span>
 
 accidere. id quoniam [mors](/concepts/death) eximit, esseque prohibet
 
@@ -6781,7 +6781,7 @@ naturam primum studeat cognoscere rerum,
 
 temporis aeterni quoniam, non unius horae,
 
-<span class="atom-split" data-atom="018" data-title="Liber Tertius (6/6)" data-chapter="Liber Tertius" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Liber Tertius (6/6)" data-chapter="Liber Tertius" data-kind="atom" data-srclang="en"></span>
 
 ambigitur status, in quo sit mortalibus omnis
 
@@ -6825,7 +6825,7 @@ lumine qui finem vitai fecit, et ille,
 
 mensibus atque annis qui multis occidit ante.
 
-<span class="atom-split" data-atom="019" data-title="Liber Quartus (1/6)" data-chapter="Liber Quartus" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Liber Quartus (1/6)" data-chapter="Liber Quartus" data-kind="atom" data-srclang="en"></span>
 
 Avia Pieridum peragro loca nullius ante
 
@@ -7267,7 +7267,7 @@ corpora quae feriant oculos visumque lacessant.
 
 perpetuoque fluunt certis ab rebus odores,
 
-<span class="atom-split" data-atom="020" data-title="Liber Quartus (2/6)" data-chapter="Liber Quartus" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Liber Quartus (2/6)" data-chapter="Liber Quartus" data-kind="atom" data-srclang="en"></span>
 
 frigus ut a fluviis, calor ab sole, aestus ab undis
 
@@ -7697,7 +7697,7 @@ paulatim trahit angusti fastigia coni,
 
 donec in obscurum coni conduxit acumen.
 
-<span class="atom-split" data-atom="021" data-title="Liber Quartus (3/6)" data-chapter="Liber Quartus" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Liber Quartus (3/6)" data-chapter="Liber Quartus" data-kind="atom" data-srclang="en"></span>
 
 In pelago nautis ex undis ortus in undis
 
@@ -8133,7 +8133,7 @@ extima membrorum circumcaesura coërcet,
 
 proinde et seminibus constant variantque figura.
 
-<span class="atom-split" data-atom="022" data-title="Liber Quartus (4/6)" data-chapter="Liber Quartus" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Liber Quartus (4/6)" data-chapter="Liber Quartus" data-kind="atom" data-srclang="en"></span>
 
 semina cum porro distent, differre necessest
 
@@ -8559,7 +8559,7 @@ quod natura cibum quaerit cuiusque animantis.
 
 860 quippe etenim fluere atque recedere corpora rebus
 
-<span class="atom-split" data-atom="023" data-title="Liber Quartus (5/6)" data-chapter="Liber Quartus" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Liber Quartus (5/6)" data-chapter="Liber Quartus" data-kind="atom" data-srclang="en"></span>
 
 multa modis multis docui, sed plurima debent
 
@@ -9001,7 +9001,7 @@ quod petiere, premunt arte faciuntque dolorem
 
 1080 corporis et dentes inlidunt saepe labellis
 
-<span class="atom-split" data-atom="024" data-title="Liber Quartus (6/6)" data-chapter="Liber Quartus" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Liber Quartus (6/6)" data-chapter="Liber Quartus" data-kind="atom" data-srclang="en"></span>
 
 osculaque adfigunt, quia non est pura [voluptas](/positions/pleasure)
 
@@ -9417,7 +9417,7 @@ nonne vides etiam guttas in saxa cadentis
 
 umoris longo in spatio pertundere saxa?
 
-<span class="atom-split" data-atom="025" data-title="Liber Quintus (1/7)" data-chapter="Liber Quintus" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Liber Quintus (1/7)" data-chapter="Liber Quintus" data-kind="atom" data-srclang="en"></span>
 
 Quis potis est dignum pollenti pectore carmen
 
@@ -9857,7 +9857,7 @@ praeterea genus horriferum natura ferarum
 
 humanae genti infestum terraque marique
 
-<span class="atom-split" data-atom="026" data-title="Liber Quintus (2/7)" data-chapter="Liber Quintus" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Liber Quintus (2/7)" data-chapter="Liber Quintus" data-kind="atom" data-srclang="en"></span>
 
 220 cur alit atque auget? cur anni tempora morbos
 
@@ -10309,7 +10309,7 @@ propter dissimilis formas variasque figuras,
 
 quod non omnia sic poterant coniuncta manere
 
-<span class="atom-split" data-atom="027" data-title="Liber Quintus (3/7)" data-chapter="Liber Quintus" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Liber Quintus (3/7)" data-chapter="Liber Quintus" data-kind="atom" data-srclang="en"></span>
 
 445 nec motus inter sese dare convenientis,
 
@@ -10745,7 +10745,7 @@ anticipat caelum radiis accendere temptans,
 
 confluere ardoris consuerunt tempore certo,
 
-<span class="atom-split" data-atom="028" data-title="Liber Quintus (4/7)" data-chapter="Liber Quintus" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Liber Quintus (4/7)" data-chapter="Liber Quintus" data-kind="atom" data-srclang="en"></span>
 
 quae faciunt solis nova semper lumina gigni;
 
@@ -11191,7 +11191,7 @@ id licet hinc quamvis hebeti cognoscere corde.
 
 principio circum tribus actis impiger annis
 
-<span class="atom-split" data-atom="029" data-title="Liber Quintus (5/7)" data-chapter="Liber Quintus" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Liber Quintus (5/7)" data-chapter="Liber Quintus" data-kind="atom" data-srclang="en"></span>
 
 floret equus, puer haut quaquam; nam saepe etiam nunc
 
@@ -11643,7 +11643,7 @@ commutare novis monstrabant rebus et igni,
 
 ingenio qui praestabant et corde vigebant.
 
-<span class="atom-split" data-atom="030" data-title="Liber Quintus (6/7)" data-chapter="Liber Quintus" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Liber Quintus (6/7)" data-chapter="Liber Quintus" data-kind="atom" data-srclang="en"></span>
 
 condere coeperunt urbis arcemque locare
 
@@ -12097,7 +12097,7 @@ ne quiquam, quoniam ab nervis succisa videres
 
 concidere atque gravi terram consternere casu.
 
-<span class="atom-split" data-atom="031" data-title="Liber Quintus (7/7)" data-chapter="Liber Quintus" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Liber Quintus (7/7)" data-chapter="Liber Quintus" data-kind="atom" data-srclang="en"></span>
 
 si quos ante domi domitos satis esse putabant,
 
@@ -12347,7 +12347,7 @@ namque alid ex alio clarescere corde videbant,
 
 artibus ad summum donec venere cacumen.
 
-<span class="atom-split" data-atom="032" data-title="Liber Sextus (1/6)" data-chapter="Liber Sextus" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Liber Sextus (1/6)" data-chapter="Liber Sextus" data-kind="atom" data-srclang="en"></span>
 
 Primae frugiparos fetus mortalibus aegris
 
@@ -12793,7 +12793,7 @@ terrore atque sonis fulgit nulloque tumultu.
 
 Quod superest, quali natura praedita constent
 
-<span class="atom-split" data-atom="033" data-title="Liber Sextus (2/6)" data-chapter="Liber Sextus" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Liber Sextus (2/6)" data-chapter="Liber Sextus" data-kind="atom" data-srclang="en"></span>
 
 220 fulmina, declarant ictus et inusta vaporis
 
@@ -13227,7 +13227,7 @@ paulatim, quasi quid pugno bracchique superne
 
 435 coniectu trudatur et extendatur in undas;
 
-<span class="atom-split" data-atom="034" data-title="Liber Sextus (3/6)" data-chapter="Liber Sextus" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Liber Sextus (3/6)" data-chapter="Liber Sextus" data-kind="atom" data-srclang="en"></span>
 
 quam cum discidit, hinc prorumpitur in mare venti
 
@@ -13679,7 +13679,7 @@ opturgescit enim subito pes, arripit acer
 
 saepe dolor dentes, oculos invadit in ipsos,
 
-<span class="atom-split" data-atom="035" data-title="Liber Sextus (4/6)" data-chapter="Liber Sextus" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Liber Sextus (4/6)" data-chapter="Liber Sextus" data-kind="atom" data-srclang="en"></span>
 
 660 existit sacer ignis et urit corpore serpens
 
@@ -14113,7 +14113,7 @@ ignis et in terram cedit calor omnis aquai.
 
 frigidus hanc ob rem fit fons in luce diurna.
 
-<span class="atom-split" data-atom="036" data-title="Liber Sextus (5/6)" data-chapter="Liber Sextus" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Liber Sextus (5/6)" data-chapter="Liber Sextus" data-kind="atom" data-srclang="en"></span>
 
 praeterea solis radiis iactatur aquai
 
@@ -14541,7 +14541,7 @@ quorum ita texturae ceciderunt mutua contra,
 
 huiusque inter se, iunctura haec optima constat.
 
-<span class="atom-split" data-atom="037" data-title="Liber Sextus (6/6)" data-chapter="Liber Sextus" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Liber Sextus (6/6)" data-chapter="Liber Sextus" data-kind="atom" data-srclang="en"></span>
 
 est etiam, quasi ut anellis hamisque plicata
 

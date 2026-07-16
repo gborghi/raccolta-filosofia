@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/marx/capital" data-philosopher="Marx"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="CAPITAL" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="CAPITAL" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 Preface to the First German Edition (Marx,
 1867)
@@ -146,7 +146,7 @@ natural history, can less than any other make the individual responsible for
 relations whose creature he socially remains, however much he may subjectively
 raise himself above them.
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/2)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (2/2)" data-chapter="(apertura)" data-kind="atom" data-srclang="en"></span>
 
 In the
 domain of Political Economy, free scientific inquiry meets not merely the same
@@ -259,7 +259,7 @@ from Hamburg, and he convinced me that most readers needed a supplementary,
 more didactic explanation of the form of value. – The last section of the first
 chapter, “The [Fetishism](/concepts/commodity) of Commodities, etc.,” has largely been altered.
 
-<span class="atom-split" data-atom="003" data-title="Chapter III, Section I (The Measure of Value), has been carefully revised, (1/2)" data-chapter="Chapter III, Section I (The Measure of Value), has been carefully revised," data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Chapter III, Section I (The Measure of Value), has been carefully revised, (1/2)" data-chapter="Chapter III, Section I (The Measure of Value), has been carefully revised," data-kind="atom" data-srclang="en"></span>
 
 because in the first edition this section had been treated negligently, the
 reader having been referred to the explanation already given in “Zur Kritik der
@@ -404,7 +404,7 @@ economy. So far as such criticism represents a class, it can only represent the
 class whose vocation in history is the overthrow of the capitalist mode of
 production and the final abolition of all classes – the proletariat.
 
-<span class="atom-split" data-atom="004" data-title="Chapter III, Section I (The Measure of Value), has been carefully revised, (2/2)" data-chapter="Chapter III, Section I (The Measure of Value), has been carefully revised," data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Chapter III, Section I (The Measure of Value), has been carefully revised, (2/2)" data-chapter="Chapter III, Section I (The Measure of Value), has been carefully revised," data-kind="atom" data-srclang="en"></span>
 
 The learned
 and unlearned spokesmen of the German bourgeoisie tried at first to kill “Das
@@ -440,7 +440,7 @@ it deals with actual theory, the method of Marx is the deductive method of the
 whole English school, a school whose failings and virtues are common to the
 best theoretic economists.”
 
-<span class="atom-split" data-atom="005" data-title="M. Block – (1/2)" data-chapter="M. Block –" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="M. Block – (1/2)" data-chapter="M. Block –" data-kind="atom" data-srclang="en"></span>
 
 “Les Théoriciens du Socialisme en Allemagne. Extrait du Journal des
 Economistes, Juillet et Août 1872” – makes the discovery that my [method](/axes/method) is
@@ -589,7 +589,7 @@ London
 
 January 24, 1873
 
-<span class="atom-split" data-atom="006" data-title="M. Block – (2/2)" data-chapter="M. Block –" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="M. Block – (2/2)" data-chapter="M. Block –" data-kind="atom" data-srclang="en"></span>
 
 Afterword to the French Edition (1875)
 
@@ -755,7 +755,7 @@ The
 following portions of the book have been translated by Dr. Aveling: (I)
 Chapters X. (The Working day), and XI. (Rate and Mass of Surplus-Value); (2)
 
-<span class="atom-split" data-atom="007" data-title="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the (1/3)" data-chapter="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the (1/3)" data-chapter="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the" data-kind="atom" data-srclang="en"></span>
 
 latter part of Chapter XXIV.,. Chapter XXV., and the whole of Part VIII.
 (Chapters XXVI. to XXXIII); (4) the two Author's prefaces. All the rest of the
@@ -899,7 +899,7 @@ have added a few more explanatory notes, especially where changed historical
 conditions seemed to demand this. All these additional notes are enclosed in
 square brackets and marked either with my initials or “D. H.” 2
 
-<span class="atom-split" data-atom="008" data-title="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the (2/3)" data-chapter="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the (2/3)" data-chapter="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the" data-kind="atom" data-srclang="en"></span>
 
 Meanwhile a
 complete revision of the numerous quotations had been made necessary by the
@@ -1051,7 +1051,7 @@ he battled, in his “masterly conduct of the attack,” this St. George of the
 German Manufacturers’ Association, whilst the infernal dragon Marx, “in deadly
 shifts,” “speedily” breathed his last at his feet.
 
-<span class="atom-split" data-atom="009" data-title="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the (3/3)" data-chapter="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the (3/3)" data-chapter="Section 4 (Circumstances that &amp;c.) to the end of the book, comprising the" data-kind="atom" data-srclang="en"></span>
 
 All this
 Ariostian battle scene, however, only serves to conceal the dodges of our St.
@@ -1114,7 +1114,7 @@ London.
 
 June 25. 1890
 
-<span class="atom-split" data-atom="010" data-title="Section 1: The (1/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Section 1: The (1/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 Two Factors of a [Commodity](/concepts/commodity):
 
@@ -1259,7 +1259,7 @@ substance, the labour, contained in the article. The quantity of labour,
 however, is measured by its duration, and labour time in its turn finds its
 standard in weeks, days, and hours.
 
-<span class="atom-split" data-atom="011" data-title="Section 1: The (2/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Section 1: The (2/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 Some people
 might think that if the value of a [commodity](/concepts/commodity) is determined by the quantity of
@@ -1341,7 +1341,7 @@ nothing can have value, without being an object of utility. If the thing is
 useless, so is the labour contained in it; the labour does not count as labour,
 and therefore creates no value.
 
-<span class="atom-split" data-atom="012" data-title="Section 2: The (1/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Section 2: The (1/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 Two-fold Character of the [Labour](/concepts/labour) Embodied in Commodities
 
@@ -1478,7 +1478,7 @@ fixed by [custom](/concepts/custom). For simplicity’s sake we shall henceforth
 of labour to be unskilled, simple labour; by this we do no more than save
 ourselves the trouble of making the reduction.
 
-<span class="atom-split" data-atom="013" data-title="Section 2: The (2/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Section 2: The (2/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 Just as,
 therefore, in viewing the coat and linen as values, we abstract from their
@@ -1555,7 +1555,7 @@ forms the value of commodities. On the other hand, all labour is the
 expenditure of human labour power in a special form and with a definite aim,
 and in this, its character of concrete useful labour, it produces use values.16
 
-<span class="atom-split" data-atom="014" data-title="Section 3: The (1/3)" data-chapter="Section 3: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Section 3: The (1/3)" data-chapter="Section 3: The" data-kind="atom" data-srclang="en"></span>
 
 Form of Value or Exchange-Value
 
@@ -1611,7 +1611,7 @@ linen = 1 coat, or
 
 20 Yards of linen are worth 1 coat.
 
-<span class="atom-split" data-atom="015" data-title="1.  The two poles of the expression of value." data-chapter="1.  The two poles of the expression of value." data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="1.  The two poles of the expression of value." data-chapter="1.  The two poles of the expression of value." data-kind="atom" data-srclang="en"></span>
 
 Relative form and Equivalent form
 
@@ -1660,7 +1660,7 @@ depends entirely upon its accidental position in the expression of value – tha
 is, upon whether it is the commodity whose value is being expressed or the
 commodity in which value is being expressed.
 
-<span class="atom-split" data-atom="016" data-title="2. The Relative Form of (1/2)" data-chapter="2. The Relative Form of" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="2. The Relative Form of (1/2)" data-chapter="2. The Relative Form of" data-kind="atom" data-srclang="en"></span>
 
 value
 
@@ -1796,7 +1796,7 @@ relative value.
 
 (b.) Quantitative determination of Relative value
 
-<span class="atom-split" data-atom="017" data-title="2. The Relative Form of (2/2)" data-chapter="2. The Relative Form of" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="2. The Relative Form of (2/2)" data-chapter="2. The Relative Form of" data-kind="atom" data-srclang="en"></span>
 
 Every [commodity](/concepts/commodity), whose value it is intended to
 express, is a useful object of given quantity, as 15 bushels of corn, or 100
@@ -1817,7 +1817,7 @@ the production of 20 yards of linen or 1 coat varies with every change in the
 productiveness of weaving or tailoring. We have now to consider the influence
 of such changes on the quantitative aspect of the relative expression of value.
 
-<span class="atom-split" data-atom="018" data-title="I. Let the value of the linen vary,20" data-chapter="I. Let the value of the linen vary,20" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="I. Let the value of the linen vary,20" data-chapter="I. Let the value of the linen vary,20" data-kind="atom" data-srclang="en"></span>
 
 that of the coat remaining constant. If, say in consequence of the exhaustion
 of flax-growing soil, the [labour](/concepts/labour) time necessary for the production of the linen
@@ -1830,7 +1830,7 @@ one-half. Consequently, we should have 20 yards of linen = ½ coat. The relative
 value of [commodity](/concepts/commodity) A, i.e., its value expressed in commodity B, rises
 and falls directly as the value of A, the value of B being supposed constant.
 
-<span class="atom-split" data-atom="019" data-title="II. Let the value of the linen remain constant, while the value of the" data-chapter="II. Let the value of the linen remain constant, while the value of the" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="II. Let the value of the linen remain constant, while the value of the" data-chapter="II. Let the value of the linen remain constant, while the value of the" data-kind="atom" data-srclang="en"></span>
 
 coat varies. If, under these circumstances, in consequence, for instance, of a
 poor crop of wool, the [labour](/concepts/labour) time necessary for the production of a coat
@@ -1849,7 +1849,7 @@ has fallen by one-half; and it becomes 20 yards of linen = ½ coat, either,
 because the value of the linen has fallen by one-half, or because the value of
 the coat has doubled.
 
-<span class="atom-split" data-atom="020" data-title="III. Let the quantities of labour time respectively necessary for the" data-chapter="III. Let the quantities of labour time respectively necessary for the" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="III. Let the quantities of labour time respectively necessary for the" data-chapter="III. Let the quantities of labour time respectively necessary for the" data-kind="atom" data-srclang="en"></span>
 
 production of the linen and the coat vary simultaneously in the same direction
 and in the same proportion. In this case 20 yards of linen continue equal to 1
@@ -1860,7 +1860,7 @@ the same proportion, their relative values would remain unaltered. Their real
 change of value would appear from the diminished or increased quantity of
 commodities produced in a given time.
 
-<span class="atom-split" data-atom="021" data-title="IV. The labour time respectively necessary for the production of the" data-chapter="IV. The labour time respectively necessary for the production of the" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="IV. The labour time respectively necessary for the production of the" data-chapter="IV. The labour time respectively necessary for the production of the" data-kind="atom" data-srclang="en"></span>
 
 linen and the coat, and therefore the value of these commodities may
 simultaneously vary in the same direction, but at unequal rates or in opposite
@@ -1877,7 +1877,7 @@ although its value varies; and finally, simultaneous variations in the
 magnitude of value and in that of its relative expression by no means
 necessarily correspond in amount.21
 
-<span class="atom-split" data-atom="022" data-title="3. The (1/2)" data-chapter="3. The" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="3. The (1/2)" data-chapter="3. The" data-kind="atom" data-srclang="en"></span>
 
 Equivalent form of value
 
@@ -2015,7 +2015,7 @@ of the product of weaving. Just as the coat in its bodily form became a direct
 expression of value, so now does tailoring, a concrete form of labour, appear
 as the direct and palpable embodiment of human labour generally.
 
-<span class="atom-split" data-atom="023" data-title="3. The (2/2)" data-chapter="3. The" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="3. The (2/2)" data-chapter="3. The" data-kind="atom" data-srclang="en"></span>
 
 Hence, the
 second peculiarity of the equivalent form is, that concrete [labour](/concepts/labour) becomes the
@@ -2093,7 +2093,7 @@ discovered, in the expression of the value of commodities, a relation of
 equality. The peculiar conditions of the society in which he lived, alone
 prevented him from discovering what, “in truth,” was at the bottom of this equality.
 
-<span class="atom-split" data-atom="024" data-title="4. The Elementary Form of value considered as a whole" data-chapter="4. The Elementary Form of value considered as a whole" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="4. The Elementary Form of value considered as a whole" data-chapter="4. The Elementary Form of value considered as a whole" data-kind="atom" data-srclang="en"></span>
 
 The
 elementary form of value of a [commodity](/concepts/commodity) is contained in the equation,
@@ -2192,7 +2192,7 @@ or = Com. E or = &c.
 
 = 1 quarter corn or = 2 ounces gold or = ½ ton iron or = &c.)
 
-<span class="atom-split" data-atom="025" data-title="1. The Expanded Relative form of value" data-chapter="1. The Expanded Relative form of value" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="1. The Expanded Relative form of value" data-chapter="1. The Expanded Relative form of value" data-kind="atom" data-srclang="en"></span>
 
 The value
 of a single [commodity](/concepts/commodity), the linen, for example, is now expressed in terms of
@@ -2223,7 +2223,7 @@ not the exchange of commodities which regulates the magnitude of their value;
 but, on the contrary, that it is the magnitude of their value which controls
 their exchange proportions.
 
-<span class="atom-split" data-atom="026" data-title="2. The particular Equivalent form" data-chapter="2. The particular Equivalent form" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="2. The particular Equivalent form" data-chapter="2. The particular Equivalent form" data-kind="atom" data-srclang="en"></span>
 
 Each [commodity](/concepts/commodity), such as, coat, tea, corn, iron, &c., figures in the
 expression of value of the linen, as an equivalent, and, consequently, as a
@@ -2233,7 +2233,7 @@ concrete useful kinds of [labour](/concepts/labour), embodied in these different
 now as so many different forms of the realisation, or manifestation, of
 undifferentiated human labour.
 
-<span class="atom-split" data-atom="027" data-title="3. Defects of the Total or Expanded form of value" data-chapter="3. Defects of the Total or Expanded form of value" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="3. Defects of the Total or Expanded form of value" data-chapter="3. Defects of the Total or Expanded form of value" data-kind="atom" data-srclang="en"></span>
 
 In the first place, the relative expression of value is incomplete
 because the series representing it is interminable. The chain of which each
@@ -2281,7 +2281,7 @@ third commodity, the linen. If then, we reverse the series, 20 yards of linen =
 1 coat or = 10 lbs of tea, etc., that is to say, if we give expression to the
 converse relation already implied in the series, we get,
 
-<span class="atom-split" data-atom="028" data-title="C. The General Form of Value" data-chapter="C. The General Form of Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="C. The General Form of Value" data-chapter="C. The General Form of Value" data-kind="atom" data-srclang="en"></span>
 
 1
 
@@ -2314,7 +2314,7 @@ x
     = 20
 yards of linen
 
-<span class="atom-split" data-atom="029" data-title="1. The altered character of the form of value" data-chapter="1. The altered character of the form of value" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="1. The altered character of the form of value" data-chapter="1. The altered character of the form of value" data-kind="atom" data-srclang="en"></span>
 
 All
 commodities now express their value (1) in an elementary form, because in a
@@ -2411,7 +2411,7 @@ indisputably evident that in the world of commodities the character possessed
 by all labour of being human labour constitutes its specific social
 character.
 
-<span class="atom-split" data-atom="030" data-title="2. The Interdependent Development of the Relative Form of Value, and of the" data-chapter="2. The Interdependent Development of the Relative Form of Value, and of the" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="2. The Interdependent Development of the Relative Form of Value, and of the" data-chapter="2. The Interdependent Development of the Relative Form of Value, and of the" data-kind="atom" data-srclang="en"></span>
 
 Equivalent Form
 
@@ -2470,7 +2470,7 @@ expressed by a never ending series of other commodities. Thus,
 the expanded form of relative value, or form B, now shows itself as the
 specific form of relative value for the equivalent commodity.
 
-<span class="atom-split" data-atom="031" data-title="3. Transition from the General form of value to the Money form" data-chapter="3. Transition from the General form of value to the Money form" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="3. Transition from the General form of value to the Money form" data-chapter="3. Transition from the General form of value to the Money form" data-kind="atom" data-srclang="en"></span>
 
 The
 universal equivalent form is a form of value in general. It can, therefore, be
@@ -2493,7 +2493,7 @@ relative values in linen, this foremost place has been attained by one in
 particular – namely, gold. If, then, in form C we replace the linen by gold, we
 get,
 
-<span class="atom-split" data-atom="032" data-title="D. The Money-Form" data-chapter="D. The Money-Form" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="D. The Money-Form" data-chapter="D. The Money-Form" data-kind="atom" data-srclang="en"></span>
 
 20
 
@@ -2584,7 +2584,7 @@ expanded form of value, the essential component element of which, we saw, is
 form A, 20 yards of linen = 1 coat or x commodity A = y commodity B. The simple
 commodity form is therefore the germ of the money form.
 
-<span class="atom-split" data-atom="033" data-title="Section 4: The Fetishism of Commodities and the Secret Thereof (1/4)" data-chapter="Section 4: The Fetishism of Commodities and the Secret Thereof" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Section 4: The Fetishism of Commodities and the Secret Thereof (1/4)" data-chapter="Section 4: The Fetishism of Commodities and the Secret Thereof" data-kind="atom" data-srclang="en"></span>
 
 A [commodity](/concepts/commodity)
 appears, at first sight, a very trivial thing, and easily understood. Its
@@ -2702,7 +2702,7 @@ particular labour has of being the equal of all other particular kinds of
 labour, takes the form that all the physically different articles that are the
 products of labour, have one common quality, viz., that of having value.
 
-<span class="atom-split" data-atom="034" data-title="Section 4: The Fetishism of Commodities and the Secret Thereof (2/4)" data-chapter="Section 4: The Fetishism of Commodities and the Secret Thereof" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Section 4: The Fetishism of Commodities and the Secret Thereof (2/4)" data-chapter="Section 4: The Fetishism of Commodities and the Secret Thereof" data-kind="atom" data-srclang="en"></span>
 
 Hence, when
 we bring the products of our [labour](/concepts/labour) into relation with each other as values, it
@@ -2836,7 +2836,7 @@ between individuals in the performance of their labour, appear at all events as
 their own mutual personal relations, and are not disguised under the shape of
 social relations between the products of labour.
 
-<span class="atom-split" data-atom="035" data-title="Section 4: The Fetishism of Commodities and the Secret Thereof (3/4)" data-chapter="Section 4: The Fetishism of Commodities and the Secret Thereof" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Section 4: The Fetishism of Commodities and the Secret Thereof (3/4)" data-chapter="Section 4: The Fetishism of Commodities and the Secret Thereof" data-kind="atom" data-srclang="en"></span>
 
 For an
 example of [labour](/concepts/labour) in common or directly associated labour, we have no occasion
@@ -2976,7 +2976,7 @@ value) “are the attribute of men, value is the attribute of commodities. A man
 or a community is rich, a pearl or a diamond is valuable...” A pearl or a
 diamond is valuable as a pearl or a diamond.36
 
-<span class="atom-split" data-atom="036" data-title="Section 4: The Fetishism of Commodities and the Secret Thereof (4/4)" data-chapter="Section 4: The Fetishism of Commodities and the Secret Thereof" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Section 4: The Fetishism of Commodities and the Secret Thereof (4/4)" data-chapter="Section 4: The Fetishism of Commodities and the Secret Thereof" data-kind="atom" data-srclang="en"></span>
 
 So far no
 chemist has ever discovered exchange value either in a pearl or a diamond. The
@@ -2991,7 +2991,7 @@ a social process. Who fails here to call to mind our good friend, Dogberry, who
 informs neighbour Seacoal, that, “To be a well-favoured man is the gift of
 fortune; but reading and writing comes by Nature.”37
 
-<span class="atom-split" data-atom="037" data-title="Chapter 2: Exchange (1/2)" data-chapter="Chapter 2: Exchange" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Chapter 2: Exchange (1/2)" data-chapter="Chapter 2: Exchange" data-kind="atom" data-srclang="en"></span>
 
 It is plain
 that commodities cannot go to market and make exchanges of their own account.
@@ -3125,7 +3125,7 @@ other hand, the quantitative proportion in which the articles are exchangeable,
 becomes dependent on their production itself. [Custom](/concepts/custom) stamps them as values with
 definite magnitudes.
 
-<span class="atom-split" data-atom="038" data-title="Chapter 2: Exchange (2/2)" data-chapter="Chapter 2: Exchange" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Chapter 2: Exchange (2/2)" data-chapter="Chapter 2: Exchange" data-kind="atom" data-srclang="en"></span>
 
 In the
 direct barter of products, each [commodity](/concepts/commodity) is directly a means of exchange to
@@ -3262,11 +3262,11 @@ commodity-producers stamps one privileged commodity with the character of
 money. Hence the riddle presented by money is but the riddle presented by
 commodities; only it now strikes us in its most glaring form.
 
-<span class="atom-split" data-atom="039" data-title="Chapter 3: Money, Or the Circulation of" data-chapter="Chapter 3: Money, Or the Circulation of" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Chapter 3: Money, Or the Circulation of" data-chapter="Chapter 3: Money, Or the Circulation of" data-kind="atom" data-srclang="en"></span>
 
 Commodities
 
-<span class="atom-split" data-atom="040" data-title="Section 1: The (3/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Section 1: The (3/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 Measure of Values
 
@@ -3397,7 +3397,7 @@ the production of a given quantity of gold costs, at the given period, a given
 amount of labour. As regards the fluctuations of prices generally, they are
 subject to the laws of elementary relative value investigated in a former chapter.
 
-<span class="atom-split" data-atom="041" data-title="Section 1: The (4/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Section 1: The (4/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 A general rise in the prices of commodities can
 result only, either from a rise in their values – the value of money remaining
@@ -3523,7 +3523,7 @@ imaginary price-form may sometimes conceal either a direct or indirect real
 value-relation; for instance, the price of uncultivated land, which is without
 value, because no human labour has been incorporated in it.
 
-<span class="atom-split" data-atom="042" data-title="Section 1: The (5/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Section 1: The (5/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 Price, like relative value in general, expresses
 the value of a [commodity](/concepts/commodity) (e.g., a ton of iron), by stating that a given
@@ -3557,7 +3557,7 @@ hand, gold serves as an ideal measure of value, only because it has already, in
 the process of exchange, established itself as the money-commodity. Under the
 ideal measure of values there lurks the hard cash.
 
-<span class="atom-split" data-atom="043" data-title="Section 2: The Medium (1/7)" data-chapter="Section 2: The Medium" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Section 2: The Medium (1/7)" data-chapter="Section 2: The Medium" data-kind="atom" data-srclang="en"></span>
 
 of Circulation
 
@@ -3658,7 +3658,7 @@ labour. When this result is attained, the process is at an end.
 C – M. First
 metamorphosis, or sale
 
-<span class="atom-split" data-atom="044" data-title="Section 2: The Medium (2/7)" data-chapter="Section 2: The Medium" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Section 2: The Medium (2/7)" data-chapter="Section 2: The Medium" data-kind="atom" data-srclang="en"></span>
 
 The leap
 taken by value from the body of the [commodity](/concepts/commodity), into the body of the gold, is,
@@ -3758,7 +3758,7 @@ apparently single process is in reality a double one. From the pole of the
 commodity-owner it is a sale, from the opposite pole of the money-owner, it is
 a purchase. In other words, a sale is a purchase, C–M is also M–C.18
 
-<span class="atom-split" data-atom="045" data-title="Section 2: The Medium (3/7)" data-chapter="Section 2: The Medium" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Section 2: The Medium (3/7)" data-chapter="Section 2: The Medium" data-kind="atom" data-srclang="en"></span>
 
 Up to this
 point we have considered men in only one economic capacity, that of owners of
@@ -3885,7 +3885,7 @@ commodity in the course of its metamorphoses is inextricably mixed up with the
 circuits of other commodities. The total of all the different circuits
 constitutes the circulation of commodities.
 
-<span class="atom-split" data-atom="046" data-title="Section 2: The Medium (4/7)" data-chapter="Section 2: The Medium" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Section 2: The Medium (4/7)" data-chapter="Section 2: The Medium" data-kind="atom" data-srclang="en"></span>
 
 The
 circulation of commodities differs from the direct exchange of products
@@ -3989,7 +3989,7 @@ commodities takes the form of a constant motion away from its starting-point,
 of a course from the hands of one commodity-owner into those of another. This
 course constitutes its currency (cours de la monnaie).
 
-<span class="atom-split" data-atom="047" data-title="Section 2: The Medium (5/7)" data-chapter="Section 2: The Medium" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Section 2: The Medium (5/7)" data-chapter="Section 2: The Medium" data-kind="atom" data-srclang="en"></span>
 
 The currency of money is the constant and
 monotonous repetition of the same process. The [commodity](/concepts/commodity) is always in the hands
@@ -4062,7 +4062,7 @@ contrary, as the medium of circulation, keeps continually within the sphere of
 circulation, and moves about in it. The question therefore arises, how much
 money this sphere constantly absorbs?
 
-<span class="atom-split" data-atom="048" data-title="Section 2: The Medium (6/7)" data-chapter="Section 2: The Medium" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Section 2: The Medium (6/7)" data-chapter="Section 2: The Medium" data-kind="atom" data-srclang="en"></span>
 
 In a given country there take place every day at
 the same time, but in different localities, numerous one-sided metamorphoses of
@@ -4170,7 +4170,7 @@ quantity of money functioning as the circulating medium is equal to the sum of
 the prices of the commodities divided by the number of moves made by coins of
 the same denomination. This law holds generally.
 
-<span class="atom-split" data-atom="049" data-title="Section 2: The Medium (7/7)" data-chapter="Section 2: The Medium" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Section 2: The Medium (7/7)" data-chapter="Section 2: The Medium" data-kind="atom" data-srclang="en"></span>
 
 The total circulation of commodities in a given
 country during a given period is made up on the one hand of numerous isolated
@@ -4283,7 +4283,7 @@ enter into circulation, and that, once in the circulation, an aliquot part of
 the medley of commodities is exchanged for an aliquot part of the heap of
 precious metals.33
 
-<span class="atom-split" data-atom="050" data-title="C. Coin and symbols of value (1/2)" data-chapter="C. Coin and symbols of value" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="C. Coin and symbols of value (1/2)" data-chapter="C. Coin and symbols of value" data-kind="atom" data-srclang="en"></span>
 
 That money
 takes the shape of coin, springs from its function as the circulating medium.
@@ -4394,7 +4394,7 @@ quantities of gold that are symbolically represented by the paper. Only in so
 far as paper money represents gold, which like all other commodities has value,
 is it a symbol of value.37
 
-<span class="atom-split" data-atom="051" data-title="C. Coin and symbols of value (2/2)" data-chapter="C. Coin and symbols of value" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="C. Coin and symbols of value (2/2)" data-chapter="C. Coin and symbols of value" data-kind="atom" data-srclang="en"></span>
 
 Finally,
 some one may ask why gold is capable of being replaced by tokens that have no
@@ -4425,7 +4425,7 @@ with the territories of the community, but it is also only within that sphere
 that money completely responds to its function of being the circulating medium,
 or becomes coin.
 
-<span class="atom-split" data-atom="052" data-title="Section 3: Money (1/3)" data-chapter="Section 3: Money" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Section 3: Money (1/3)" data-chapter="Section 3: Money" data-kind="atom" data-srclang="en"></span>
 
 The
 [commodity](/concepts/commodity) that functions as a measure of value, and, either in its own person
@@ -4559,7 +4559,7 @@ silver, unconnected with their functions as money, and, on the other hand, a
 latent source of supply, to which recourse is had principally in times of
 crisis and social disturbance.
 
-<span class="atom-split" data-atom="053" data-title="Section 3: Money (2/3)" data-chapter="Section 3: Money" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Section 3: Money (2/3)" data-chapter="Section 3: Money" data-kind="atom" data-srclang="en"></span>
 
 Hoarding
 serves various purposes in the economy of the metallic circulation. Its first
@@ -4683,7 +4683,7 @@ single balance to pay. The greater the amount of the payments concentrated, the
 less is this balance relatively to that amount, and the less is the mass of the
 means of payment in circulation.
 
-<span class="atom-split" data-atom="054" data-title="Section 3: Money (3/3)" data-chapter="Section 3: Money" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Section 3: Money (3/3)" data-chapter="Section 3: Money" data-kind="atom" data-srclang="en"></span>
 
 The
 function of money as the means of payment implies a contradiction without a
@@ -4782,7 +4782,7 @@ hoarding, as a distinct mode of acquiring riches, vanishes with the [progress](/
 [civil society](/positions/civil_society), the formation of reserves of the means of payment grows with
 that progress.
 
-<span class="atom-split" data-atom="055" data-title="C. Universal Money" data-chapter="C. Universal Money" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="C. Universal Money" data-chapter="C. Universal Money" data-kind="atom" data-srclang="en"></span>
 
 When money
 leaves the home sphere of circulation, it strips off the local garbs which it
@@ -4847,11 +4847,11 @@ above their average level, it is, with some exceptions, an indication of
 stagnation in the circulation of commodities, of an interruption in the even
 flow of their metamorphoses.66
 
-<span class="atom-split" data-atom="056" data-title="Part 2:" data-chapter="Part 2:" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Part 2:" data-chapter="Part 2:" data-kind="atom" data-srclang="en"></span>
 
 Transformation of Money into Capital
 
-<span class="atom-split" data-atom="057" data-title="Chapter 4: The General Formula for Capital (1/3)" data-chapter="Chapter 4: The General Formula for Capital" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Chapter 4: The General Formula for Capital (1/3)" data-chapter="Chapter 4: The General Formula for Capital" data-kind="atom" data-srclang="en"></span>
 
 The circulation of commodities is the
 starting-point of capital. The production of commodities, their circulation,
@@ -4986,7 +4986,7 @@ aim. The circuit M-C-M, on the contrary, commences with money and ends with
 money. Its leading motive, and the goal that attracts it, is therefore mere
 exchange-value.
 
-<span class="atom-split" data-atom="058" data-title="Chapter 4: The General Formula for Capital (2/3)" data-chapter="Chapter 4: The General Formula for Capital" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Chapter 4: The General Formula for Capital (2/3)" data-chapter="Chapter 4: The General Formula for Capital" data-kind="atom" data-srclang="en"></span>
 
 In the simple circulation of commodities, the
 two extremes of the circuit have the same economic form. They are both
@@ -5107,7 +5107,7 @@ badly they may smell, are in faith and in truth money, inwardly circumcised
 Jews, and what is more, a wonderful means whereby out of money to make more
 money.
 
-<span class="atom-split" data-atom="059" data-title="Chapter 4: The General Formula for Capital (3/3)" data-chapter="Chapter 4: The General Formula for Capital" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Chapter 4: The General Formula for Capital (3/3)" data-chapter="Chapter 4: The General Formula for Capital" data-kind="atom" data-srclang="en"></span>
 
 In simple circulation, C-M-C, the value of
 commodities attained at the most a form independent of their use-values, i.e.,
@@ -5145,7 +5145,7 @@ to say, money that is worth more money, value that is greater than itself.
 M-C-M' is therefore in reality the general formula of capital as it
 appears prima facie within the sphere of circulation.
 
-<span class="atom-split" data-atom="060" data-title="Chapter 5: Contradictions in the General (1/2)" data-chapter="Chapter 5: Contradictions in the General" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Chapter 5: Contradictions in the General (1/2)" data-chapter="Chapter 5: Contradictions in the General" data-kind="atom" data-srclang="en"></span>
 
 Formula of Capital
 
@@ -5246,7 +5246,7 @@ be sold at prices deviating from their values, but these deviations are to be
 considered as infractions of the laws of the exchange of commodities6, which in its normal state is an exchange
 of equivalents, consequently, no [method](/axes/method) for increasing value.7
 
-<span class="atom-split" data-atom="061" data-title="Chapter 5: Contradictions in the General (2/2)" data-chapter="Chapter 5: Contradictions in the General" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Chapter 5: Contradictions in the General (2/2)" data-chapter="Chapter 5: Contradictions in the General" data-kind="atom" data-srclang="en"></span>
 
 Hence, we
 see that behind all attempts to represent the circulation of commodities as a
@@ -5309,7 +5309,7 @@ then, that by some inexplicable privilege, the seller is enabled to sell his
 commodities above their value, what is worth 100 for 110, in which case the
 price is nominally raised 10%. The seller therefore pockets a surplus-value of
 
-<span class="atom-split" data-atom="062" data-title="10. But after he has sold he becomes a buyer. A third owner of commodities (1/2)" data-chapter="10. But after he has sold he becomes a buyer. A third owner of commodities" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="10. But after he has sold he becomes a buyer. A third owner of commodities (1/2)" data-chapter="10. But after he has sold he becomes a buyer. A third owner of commodities" data-kind="atom" data-srclang="en"></span>
 
 comes to him now as seller, who in this capacity also enjoys the privilege of
 selling his commodities 10% too dear. Our friend gained 10 as a seller only to
@@ -5443,7 +5443,7 @@ interest-bearing capital are derivative forms, and at the same time it will
 become clear, why these two forms appear in the course of history before the
 modern standard form of capital.
 
-<span class="atom-split" data-atom="063" data-title="10. But after he has sold he becomes a buyer. A third owner of commodities (2/2)" data-chapter="10. But after he has sold he becomes a buyer. A third owner of commodities" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="10. But after he has sold he becomes a buyer. A third owner of commodities (2/2)" data-chapter="10. But after he has sold he becomes a buyer. A third owner of commodities" data-kind="atom" data-srclang="en"></span>
 
 We have
 shown that surplus-value cannot be created by circulation, and, therefore, that
@@ -5490,7 +5490,7 @@ at starting. His development into a full-grown capitalist must take place, both
 within the sphere of circulation and without it. These are the conditions of
 the problem. Hic Rhodus, hic salta!25
 
-<span class="atom-split" data-atom="064" data-title="Chapter 6: The Buying and Selling of (1/3)" data-chapter="Chapter 6: The Buying and Selling of" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Chapter 6: The Buying and Selling of (1/3)" data-chapter="Chapter 6: The Buying and Selling of" data-kind="atom" data-srclang="en"></span>
 
 Labour-Power
 
@@ -5616,7 +5616,7 @@ examine more closely this peculiar commodity, labour-power. Like all others it
 has a value.5 How is that value
 determined?
 
-<span class="atom-split" data-atom="065" data-title="Chapter 6: The Buying and Selling of (2/3)" data-chapter="Chapter 6: The Buying and Selling of" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Chapter 6: The Buying and Selling of (2/3)" data-chapter="Chapter 6: The Buying and Selling of" data-kind="atom" data-srclang="en"></span>
 
 The value
 of labour-power is determined, as in the case of every other [commodity](/concepts/commodity), by the
@@ -5730,7 +5730,7 @@ its production a definite amount of the means of subsistence and that it will
 continue to do so for its reproduction. He will then agree with Sismondi: “that
 capacity for labour ... is nothing unless it is sold.”11
 
-<span class="atom-split" data-atom="066" data-title="Chapter 6: The Buying and Selling of (3/3)" data-chapter="Chapter 6: The Buying and Selling of" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Chapter 6: The Buying and Selling of (3/3)" data-chapter="Chapter 6: The Buying and Selling of" data-kind="atom" data-srclang="en"></span>
 
 One
 consequence of the peculiar nature of labour-power as a [commodity](/concepts/commodity) is, that its
@@ -5807,11 +5807,11 @@ of labour-power follows as his labourer. The one with an air of importance,
 smirking, intent on business; the other, timid and holding back, like one who
 is bringing his own hide to market and has nothing to expect but – a hiding.
 
-<span class="atom-split" data-atom="067" data-title="Chapter 7: The Labour-Process and the Process" data-chapter="Chapter 7: The Labour-Process and the Process" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Chapter 7: The Labour-Process and the Process" data-chapter="Chapter 7: The Labour-Process and the Process" data-kind="atom" data-srclang="en"></span>
 
 of Producing Surplus-Value
 
-<span class="atom-split" data-atom="068" data-title="Section 1: The (6/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Section 1: The (6/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 Labour-Process or the Production of Use-Values
 
@@ -5952,7 +5952,7 @@ The same use-value is both the product of a previous process, and a means of
 production in a later process. Products are therefore not only results, but
 also essential conditions of labour.
 
-<span class="atom-split" data-atom="069" data-title="Section 1: The (7/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Section 1: The (7/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 With the
 exception of the extractive industries, in which the material for [labour](/concepts/labour) is
@@ -6099,7 +6099,7 @@ period immediately preceding the rise of capitalists. Changes in the methods of
 production by the subordination of labour to capital, can take place only at a
 later period, and therefore will have to be treated of in a later chapter.
 
-<span class="atom-split" data-atom="070" data-title="Section 1: The (8/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Section 1: The (8/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 The
 labour-process, turned into the process by which the capitalist consumes
@@ -6129,7 +6129,7 @@ the capitalist has purchased, things that have become his property. The product
 of this process belongs, therefore, to him, just as much as does the wine which
 is the product of a process of fermentation completed in his cellar.10
 
-<span class="atom-split" data-atom="071" data-title="Section 2: The (3/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Section 2: The (3/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 Production of Surplus-Value
 
@@ -6244,7 +6244,7 @@ It amounts to twelve shillings or the value of two days’ work. The next point
 for our consideration is, what portion of the value of the yarn is added to the
 cotton by the labour of the spinner.
 
-<span class="atom-split" data-atom="072" data-title="Section 2: The (4/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Section 2: The (4/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 We have now
 to consider this [labour](/concepts/labour) under a very different aspect from that which it had
@@ -6360,7 +6360,7 @@ must pay fifteen shillings for them. It is clear that, whether a man buys his
 house ready built, or gets it built for him, in neither case will the mode of
 acquisition increase the amount of money laid out on the house.
 
-<span class="atom-split" data-atom="073" data-title="Section 2: The (5/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Section 2: The (5/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 Our
 capitalist, who is at home in his vulgar economy, exclaims: “Oh! but I advanced my
@@ -6467,7 +6467,7 @@ greater than the value advanced for its production; 27 shillings have been
 transformed into 30 shillings; a surplus-value of 3 shillings has been created.
 The trick has at last succeeded; money has been converted into capital.
 
-<span class="atom-split" data-atom="074" data-title="Section 2: The (6/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Section 2: The (6/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 Every
 condition of the problem is satisfied, while the laws that regulate the
@@ -6585,7 +6585,7 @@ therefore save ourselves a superfluous operation, and simplify our analysis, by
 the assumption, that the labour of the workman employed by the capitalist is
 unskilled average labour.
 
-<span class="atom-split" data-atom="075" data-title="Chapter 8: Constant Capital and Variable (1/4)" data-chapter="Chapter 8: Constant Capital and Variable" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Chapter 8: Constant Capital and Variable (1/4)" data-chapter="Chapter 8: Constant Capital and Variable" data-kind="atom" data-srclang="en"></span>
 
 Capital
 
@@ -6703,7 +6703,7 @@ variation, or, as the case may be, six times as much as before. The same result
 occurs when the value of the instruments of labour rises or falls, while their
 useful efficacy in the process remains unaltered.
 
-<span class="atom-split" data-atom="076" data-title="Chapter 8: Constant Capital and Variable (2/4)" data-chapter="Chapter 8: Constant Capital and Variable" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Chapter 8: Constant Capital and Variable (2/4)" data-chapter="Chapter 8: Constant Capital and Variable" data-kind="atom" data-srclang="en"></span>
 
 Again, if
 the technical conditions of the spinning process remain unchanged, and no
@@ -6828,7 +6828,7 @@ large machine works at Manchester, where mountains of iron turnings are carted
 away to the foundry in the evening, in order the next morning to re-appear in
 the workshops as solid masses of iron.
 
-<span class="atom-split" data-atom="077" data-title="Chapter 8: Constant Capital and Variable (3/4)" data-chapter="Chapter 8: Constant Capital and Variable" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Chapter 8: Constant Capital and Variable (3/4)" data-chapter="Chapter 8: Constant Capital and Variable" data-kind="atom" data-srclang="en"></span>
 
 We have
 seen that the means of production transfer value to the new product, so far
@@ -6936,7 +6936,7 @@ objective and subjective factors, as means of production and labour-power,
 present themselves, from the point of view of the process of creating surplus-value,
 as constant and variable capital.
 
-<span class="atom-split" data-atom="078" data-title="Chapter 8: Constant Capital and Variable (4/4)" data-chapter="Chapter 8: Constant Capital and Variable" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Chapter 8: Constant Capital and Variable (4/4)" data-chapter="Chapter 8: Constant Capital and Variable" data-kind="atom" data-srclang="en"></span>
 
 The
 definition of constant capital given above by no means excludes the possibility
@@ -6996,7 +6996,7 @@ constant and the variable capital, or the proportions in which the total
 capital is split up into its constant and variable constituents; it has not in
 the least degree affected the essential difference between the two.
 
-<span class="atom-split" data-atom="079" data-title="Section 1: The (9/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Section 1: The (9/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 Degree of [Exploitation](/concepts/surplus_value) of Labour-Power
 
@@ -7110,7 +7110,7 @@ industry, we first of all deduct the sums paid for cotton to the United States,
 India, Egypt and other countries; in other words, the value of the capital that
 merely re-appears in the value of the product, is put = 0.
 
-<span class="atom-split" data-atom="080" data-title="Section 1: The (10/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Section 1: The (10/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 Of course the ratio of surplus-value not only to
 that portion of the capital from which it immediately springs, and whose change
@@ -7239,7 +7239,7 @@ Though the method is so simple, yet it may not
 be amiss, by means of a few examples, to exercise the reader in the application
 of the novel principles underlying it.
 
-<span class="atom-split" data-atom="081" data-title="Section 1: The (11/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Section 1: The (11/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 First we will take the case of a spinning mill
 containing 10,000 mule spindles, spinning No. 32 yarn from American cotton, and
@@ -7321,7 +7321,7 @@ giving a rate of surplus-value of more than 100%. The labourer employs more
 than one half of his working day in producing the surplus-value, which
 different persons, under different pretexts, share amongst themselves.9
 
-<span class="atom-split" data-atom="082" data-title="Section 2: The (7/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Section 2: The (7/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 [Representation](/concepts/idea) of the Components of the Value of the Product by Corresponding
 Proportional Parts of the Product Itself
@@ -7435,7 +7435,7 @@ arrive at the same result as before, if we represent the partial products,
 given off at the different stages, as functionally different parts of the final
 or total product.
 
-<span class="atom-split" data-atom="083" data-title="Section 2: The (8/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Section 2: The (8/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 The spinner
 produces in 12 hours 20 lbs. of yarn, or in 1 hour 1⅔ lbs; consequently
@@ -7473,7 +7473,7 @@ day. That the love of lucre induces an easy belief in such miracles, and that
 sycophant doctrinaires are never wanting to prove them, is vouched for by the
 following incident of historical celebrity.
 
-<span class="atom-split" data-atom="084" data-title="Section 3: (1/9)" data-chapter="Section 3:" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Section 3: (1/9)" data-chapter="Section 3:" data-kind="atom" data-srclang="en"></span>
 
 Senior’s “Last Hour”
 
@@ -7538,7 +7538,7 @@ the calculation of the manufacturers, the workman reproduced or replaced his
 wages in 2 half-hours, in that case, he should have continued his analysis
 thus:
 
-<span class="atom-split" data-atom="085" data-title="Section 3: (2/9)" data-chapter="Section 3:" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Section 3: (2/9)" data-chapter="Section 3:" data-kind="atom" data-srclang="en"></span>
 
 According to your figures, the workman in the
 last hour but one produces his wages, and in the last hour your surplus-value
@@ -7613,7 +7613,7 @@ hour” in 1836.12 In the London Economist of the 15th
 April, 1848, the same cry was again raised by James Wilson, an economic
 mandarin of high standing: this time in opposition to the 10 hours’ bill.
 
-<span class="atom-split" data-atom="086" data-title="Section 4: (1/4)" data-chapter="Section 4:" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Section 4: (1/4)" data-chapter="Section 4:" data-kind="atom" data-srclang="en"></span>
 
 Surplus-Produce
 
@@ -7634,7 +7634,7 @@ the necessary labour and the surplus labour, i.e., of the periods of time during
 value of his labour-power, and produces the surplus-value, this sum constitutes
 the actual time during which he works, i.e., the working day.
 
-<span class="atom-split" data-atom="087" data-title="Section 1: The (12/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Section 1: The (12/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 Limits of the Working Day
 
@@ -7771,7 +7771,7 @@ face to face with me has no heart in its breast. That which seems to throb
 there is my own heart-beating. I demand the normal working day because I, like
 every other seller, demand the value of my commodity. 6
 
-<span class="atom-split" data-atom="088" data-title="Section 1: The (13/13)" data-chapter="Section 1: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Section 1: The (13/13)" data-chapter="Section 1: The" data-kind="atom" data-srclang="en"></span>
 
 We see then, that, apart from extremely elastic
 bounds, the nature of the exchange of commodities itself imposes no limit to
@@ -7788,7 +7788,7 @@ what is a working day, presents itself as the result of a struggle, a struggle
 between collective capital, i.e., the class of capitalists, and
 collective labour, i.e., the working-class.
 
-<span class="atom-split" data-atom="089" data-title="Section 2: The (9/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Section 2: The (9/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 Greed for Surplus-Labour. Manufacturer and Boyard
 
@@ -7921,7 +7921,7 @@ exhausted the soil, had, in the other, torn up by the roots the living force of
 the nation. Periodical epidemics speak on this point as clearly as the
 diminishing military standard in Germany and France.13
 
-<span class="atom-split" data-atom="090" data-title="Section 2: The (10/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Section 2: The (10/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 The Factory Act of 1850 now in force (1867) allows
 for the average working day 10 hours, i.e., for the first 5 days 12 hours from
@@ -8066,7 +8066,7 @@ as “half-timers.” The worker is here nothing more than personified labour-ti
 All individual distinctions are merged in those of “full-timers” and
 “half-timers” 30
 
-<span class="atom-split" data-atom="091" data-title="Section 3: (3/9)" data-chapter="Section 3:" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Section 3: (3/9)" data-chapter="Section 3:" data-kind="atom" data-srclang="en"></span>
 
 Branches of English Industry Without Legal Limits to [Exploitation](/concepts/surplus_value)
 
@@ -8218,7 +8218,7 @@ a.m. to 10 p.m. or further into the night.
 
 J. Leach deposes:
 
-<span class="atom-split" data-atom="092" data-title="Section 3: (4/9)" data-chapter="Section 3:" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Section 3: (4/9)" data-chapter="Section 3:" data-kind="atom" data-srclang="en"></span>
 
 “Last winter
 six out of nineteen girls were away from ill-health at one time from over-work.
@@ -8310,7 +8310,7 @@ the same Act of Parliament, work from 9 in the evening to 5 in the morning was
 forbidden for journeymen bakers under 18. The last clause speaks volumes as to
 the over-work in this old-fashioned, homely line of business.
 
-<span class="atom-split" data-atom="093" data-title="Section 3: (5/9)" data-chapter="Section 3:" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Section 3: (5/9)" data-chapter="Section 3:" data-kind="atom" data-srclang="en"></span>
 
 “The work of
 a London journeyman baker begins, as a rule, at about eleven at night. At that
@@ -8442,7 +8442,7 @@ in future, be more extravagant in the purchase of a sufficient quantity of
 labour-power, and more “abstemious,” more “self-denying,” more “thrifty,” in
 the draining of paid labour-power. 55
 
-<span class="atom-split" data-atom="094" data-title="Section 3: (6/9)" data-chapter="Section 3:" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Section 3: (6/9)" data-chapter="Section 3:" data-kind="atom" data-srclang="en"></span>
 
 From the motley crowd of labourers of all
 callings, ages, sexes, that press on us more busily than the souls of the slain
@@ -8507,7 +8507,7 @@ breaths per day, and to increase altogether a fourth of his life. He meets the
 effort; the result is, that producing for a limited time a fourth more work, he
 dies at 37 for 50.” 59
 
-<span class="atom-split" data-atom="095" data-title="Section 4: Day (1/2)" data-chapter="Section 4: Day" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Section 4: Day (1/2)" data-chapter="Section 4: Day" data-kind="atom" data-srclang="en"></span>
 
 and Night Work. The Relay System
 
@@ -8639,7 +8639,7 @@ Naylor & Vickers, on the other hand, in conformity with the interest of
 their business, considered that periodically changed night-labour might
 possibly do more harm than continual night-labour.)
 
-<span class="atom-split" data-atom="096" data-title="Section 4: Day (2/2)" data-chapter="Section 4: Day" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Section 4: Day (2/2)" data-chapter="Section 4: Day" data-kind="atom" data-srclang="en"></span>
 
 “We find the
 men who do it, as well as the others who do other work only by day.... Our
@@ -8741,7 +8741,7 @@ working-time for the Sanderson tribe), and the furnaces themselves would suffer
 from the changes of temperature.” (Whilst those same furnaces suffer nothing
 from the day and night change of labour.) 71
 
-<span class="atom-split" data-atom="097" data-title="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the (1/3)" data-chapter="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the (1/3)" data-chapter="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the" data-kind="atom" data-srclang="en"></span>
 
 Extension of the Working Day from the Middle 
 of the 14th to the End of the 17th Century
@@ -8881,7 +8881,7 @@ came up to London, and waited on the right hon. gentleman [Mr. Villiers,
 President of the Poor Law Board] with a view of obtaining poor children from
 certain union houses for the mills of Lancashire.” 78
 
-<span class="atom-split" data-atom="098" data-title="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the (2/3)" data-chapter="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the (2/3)" data-chapter="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the" data-kind="atom" data-srclang="en"></span>
 
 What experience shows to the capitalist
 generally is a constant excess of population, i.e., an excess in relation to
@@ -9005,7 +9005,7 @@ author (already quoted) of the “Essay on Trade and Commerce.” 89
 
 Postlethwayt says among other things:
 
-<span class="atom-split" data-atom="099" data-title="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the (3/3)" data-chapter="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the (3/3)" data-chapter="Section 5: The Struggle for a Normal Working Day. Compulsory Laws for the" data-kind="atom" data-srclang="en"></span>
 
 “We cannot
 put an end to those few observations, without noticing that trite remark in the
@@ -9101,7 +9101,7 @@ realised a few years later in the shape of a gigantic “Workhouse” for the
 industrial worker himself. It is called the Factory. And the ideal this time
 fades before the reality.
 
-<span class="atom-split" data-atom="100" data-title="Section 6: The (1/6)" data-chapter="Section 6: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Section 6: The (1/6)" data-chapter="Section 6: The" data-kind="atom" data-srclang="en"></span>
 
 Struggle for a Normal Working Day. 
 Compulsory Limitation by Law of the Working-Time.  English Factory Acts, 1833
@@ -9243,7 +9243,7 @@ they still less dared to oppose a measure intended only to make the law of 1833
 a reality. Threatened in their holiest interest, the rent of land, the Tories
 thundered with philanthropic indignation against the “nefarious practices”104 of their foes.
 
-<span class="atom-split" data-atom="101" data-title="Section 6: The (2/6)" data-chapter="Section 6: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Section 6: The (2/6)" data-chapter="Section 6: The" data-kind="atom" data-srclang="en"></span>
 
 This was
 the origin of the additional Factory Act of June 7th, 1844. It came into effect
@@ -9378,7 +9378,7 @@ work the longer time, others would immediately get their places, so that it was
 a question with them of agreeing to work the longer time, or of being thrown
 out of employment altogether.”112
 
-<span class="atom-split" data-atom="102" data-title="Section 6: The (3/6)" data-chapter="Section 6: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="Section 6: The (3/6)" data-chapter="Section 6: The" data-kind="atom" data-srclang="en"></span>
 
 The preliminary campaign of capital thus came to
 grief, and the Ten Hours’ Act came into force May 1st, 1848. But meanwhile the
@@ -9516,7 +9516,7 @@ Inspectors, on the other hand, declared that the Home Secretary had no power
 dictatorially to suspend the law, and continued their legal proceedings against
 the pro-slavery rebellion.
 
-<span class="atom-split" data-atom="103" data-title="Section 6: The (4/6)" data-chapter="Section 6: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Section 6: The (4/6)" data-chapter="Section 6: The" data-kind="atom" data-srclang="en"></span>
 
 But what was the good of summoning the
 capitalists when the Courts in this case the county magistrates – Cobbett’s
@@ -9643,7 +9643,7 @@ same time for all, and conformably to the conditions of 1844. By this an end
 was put to the relay system once for all.134
 For children’s labour, the Act of 1844 remained in force.
 
-<span class="atom-split" data-atom="104" data-title="Section 6: The (5/6)" data-chapter="Section 6: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Section 6: The (5/6)" data-chapter="Section 6: The" data-kind="atom" data-srclang="en"></span>
 
 One set of masters, this time as before, secured
 to itself special seigneurial rights over the children of the proletariat.
@@ -9746,7 +9746,7 @@ Commission, which threatened to deprive of their “freedom” all the important
 branches of English Industry, with the exception of agriculture, mines, and the
 means of transport.150
 
-<span class="atom-split" data-atom="105" data-title="Section 7: The" data-chapter="Section 7: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Section 7: The" data-chapter="Section 7: The" data-kind="atom" data-srclang="en"></span>
 
 Struggle for a Normal Working Day. 
 Reaction of the English Factory Acts on Other Countries
@@ -9868,7 +9868,7 @@ catalogue of the “inalienable rights of man” comes the modest Magna Charta o
 legally limited working day, which shall make clear “when the time which the
 worker sells is ended, and when his own begins.” Quantum mutatus ab illo! [What a great change from that time! – Virgil]166
 
-<span class="atom-split" data-atom="106" data-title="Chapter 11: Rate and Mass of Surplus-Value (1/3)" data-chapter="Chapter 11: Rate and Mass of Surplus-Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Chapter 11: Rate and Mass of Surplus-Value (1/3)" data-chapter="Chapter 11: Rate and Mass of Surplus-Value" data-kind="atom" data-srclang="en"></span>
 
 In this chapter, as hitherto, the value of
 labour-power, and therefore the part of the working day necessary for the
@@ -9983,7 +9983,7 @@ employed, or the amount of variable capital, increases, but not in proportion
 to [the fall](/positions/original_sin) in the rate of surplus-value, the mass of the surplus-value
 produced, falls.
 
-<span class="atom-split" data-atom="107" data-title="Chapter 11: Rate and Mass of Surplus-Value (2/3)" data-chapter="Chapter 11: Rate and Mass of Surplus-Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Chapter 11: Rate and Mass of Surplus-Value (2/3)" data-chapter="Chapter 11: Rate and Mass of Surplus-Value" data-kind="atom" data-srclang="en"></span>
 
 A third law results from the determination, of
 the mass of the surplus-value produced, by the two factors: rate of surplus-value
@@ -10109,7 +10109,7 @@ labour-power or the labourer himself. Personified capital, the capitalist takes
 care that the labourer does his work regularly and with the proper degree of
 intensity.
 
-<span class="atom-split" data-atom="108" data-title="Chapter 11: Rate and Mass of Surplus-Value (3/3)" data-chapter="Chapter 11: Rate and Mass of Surplus-Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Chapter 11: Rate and Mass of Surplus-Value (3/3)" data-chapter="Chapter 11: Rate and Mass of Surplus-Value" data-kind="atom" data-srclang="en"></span>
 
 Capital further developed into a coercive
 relation, which compels the working class to do more work than the narrow round
@@ -10178,11 +10178,11 @@ they help to pump out daily from the brave Scots of Paisley, and for that very
 reason he thinks that with the shortening of the working day by 2 hours, the
 selling-price of 12 spinning machines dwindles to that of 10!
 
-<span class="atom-split" data-atom="109" data-title="Part 4:" data-chapter="Part 4:" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Part 4:" data-chapter="Part 4:" data-kind="atom" data-srclang="en"></span>
 
 Production of Relative Surplus-Value
 
-<span class="atom-split" data-atom="110" data-title="Chapter 12: The Concept of Relative Surplus-Value (1/2)" data-chapter="Chapter 12: The Concept of Relative Surplus-Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="Chapter 12: The Concept of Relative Surplus-Value (1/2)" data-chapter="Chapter 12: The Concept of Relative Surplus-Value" data-kind="atom" data-srclang="en"></span>
 
 That portion of the working day which merely
 produces an equivalent for the value paid by the capitalist for his
@@ -10313,7 +10313,7 @@ productiveness of labour in those branches of industry which supply neither the
 necessaries of life, nor the means of production for such necessaries, leaves
 the value of labour-power undisturbed.
 
-<span class="atom-split" data-atom="111" data-title="Chapter 12: The Concept of Relative Surplus-Value (2/2)" data-chapter="Chapter 12: The Concept of Relative Surplus-Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="Chapter 12: The Concept of Relative Surplus-Value (2/2)" data-chapter="Chapter 12: The Concept of Relative Surplus-Value" data-kind="atom" data-srclang="en"></span>
 
 The cheapened [commodity](/concepts/commodity), of course, causes only
 a pro tanto fall in the value of labour-power, a fall proportional to the
@@ -10380,7 +10380,7 @@ shilling, he sells it for threepence above its individual value, and thus
 realises an extra surplus-value of threepence. On the other hand, the working
 day of 12 hours is, as regards him, now represented by 24 articles instead of
 
-<span class="atom-split" data-atom="112" data-title="12. Hence, in order to get rid of the product of one working day, the demand" data-chapter="12. Hence, in order to get rid of the product of one working day, the demand" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="12. Hence, in order to get rid of the product of one working day, the demand" data-chapter="12. Hence, in order to get rid of the product of one working day, the demand" data-kind="atom" data-srclang="en"></span>
 
 must be double what it was, i.e., the market must become twice as extensive.
 Other things being equal, his commodities can command a more extended market
@@ -10499,7 +10499,7 @@ this result is also attainable, without cheapening commodities, will appear
 from an examination of the particular modes of producing relative surplus-value,
 to which examination we now proceed.
 
-<span class="atom-split" data-atom="113" data-title="Chapter 13: Co-operation (1/4)" data-chapter="Chapter 13: Co-operation" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="Chapter 13: Co-operation (1/4)" data-chapter="Chapter 13: Co-operation" data-kind="atom" data-srclang="en"></span>
 
 Capitalist production only then really begins,
 as we have already seen, when each individual capital employs simultaneously a
@@ -10629,7 +10629,7 @@ When numerous labourers work together side by
 side, whether in one and the same process, or in different but connected
 processes, they are said to co-operate, or to work in co-operation.3
 
-<span class="atom-split" data-atom="114" data-title="Chapter 13: Co-operation (2/4)" data-chapter="Chapter 13: Co-operation" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="Chapter 13: Co-operation (2/4)" data-chapter="Chapter 13: Co-operation" data-kind="atom" data-srclang="en"></span>
 
 Just as the offensive power of a squadron of
 cavalry, or the defensive power of a regiment of infantry is essentially
@@ -10760,7 +10760,7 @@ condition for the co-operation of wage-labourers, and the extent of the
 co-operation or the scale of production, depends on the extent of this
 concentration.
 
-<span class="atom-split" data-atom="115" data-title="Chapter 13: Co-operation (3/4)" data-chapter="Chapter 13: Co-operation" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="Chapter 13: Co-operation (3/4)" data-chapter="Chapter 13: Co-operation" data-kind="atom" data-srclang="en"></span>
 
 We saw in a former chapter, that a certain
 minimum amount of capital was necessary, in order that the number of labourers
@@ -10892,7 +10892,7 @@ of Asiatic and Egyptian kings, Etruscan theocrats, &c., has in modern
 society been transferred to the capitalist, whether he be an isolated, or as in
 joint-stock companies, a collective capitalist.
 
-<span class="atom-split" data-atom="116" data-title="Chapter 13: Co-operation (4/4)" data-chapter="Chapter 13: Co-operation" data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Chapter 13: Co-operation (4/4)" data-chapter="Chapter 13: Co-operation" data-kind="atom" data-srclang="en"></span>
 
 Co-operation,
 such as we find it at the dawn of human development, among races who live by
@@ -10950,7 +10950,7 @@ nevertheless the elementary form of co-operation continues to subsist as a
 particular form of capitalist production side by side with the more developed
 forms of that mode of production.
 
-<span class="atom-split" data-atom="117" data-title="Section 1: Two-Fold" data-chapter="Section 1: Two-Fold" data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Section 1: Two-Fold" data-chapter="Section 1: Two-Fold" data-kind="atom" data-srclang="en"></span>
 
 Origin of Manufacture
 
@@ -11062,7 +11062,7 @@ this division of labour is a particular sort of co-operation, and many of its
 disadvantages spring from the general character of co-operation, and not from
 this particular form of it.
 
-<span class="atom-split" data-atom="118" data-title="Section 2: The (11/11)" data-chapter="Section 2: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Section 2: The (11/11)" data-chapter="Section 2: The" data-kind="atom" data-srclang="en"></span>
 
 Detail Labourer and his Implements
 
@@ -11161,7 +11161,7 @@ The detail
 labourer and his implements are the simplest elements of manufacture. Let us
 now turn to its aspect as a whole.
 
-<span class="atom-split" data-atom="119" data-title="Section 3: The (2/3)" data-chapter="Section 3: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="Section 3: The (2/3)" data-chapter="Section 3: The" data-kind="atom" data-srclang="en"></span>
 
 Two Fundamental Forms of Manufacture: Heterogeneous Manufacture, Serial
 Manufacture
@@ -11304,7 +11304,7 @@ of labourers, for each detail operation. It develops, along with the
 qualitative sub-division of the social labour-process, a quantitative rule and
 proportionality for that process.
 
-<span class="atom-split" data-atom="120" data-title="Section 3: The (3/3)" data-chapter="Section 3: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="Section 3: The (3/3)" data-chapter="Section 3: The" data-kind="atom" data-srclang="en"></span>
 
 When once
 the most fitting proportion has been experimentally established for the numbers
@@ -11436,7 +11436,7 @@ for the benefit of capital; for everything that shortens the necessary
 labour-time required for the reproduction of labour-power, extends the domain
 of surplus labour.
 
-<span class="atom-split" data-atom="121" data-title="Section 4: (2/4)" data-chapter="Section 4:" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Section 4: (2/4)" data-chapter="Section 4:" data-kind="atom" data-srclang="en"></span>
 
 Division of [Labour](/concepts/labour) in Manufacture, and Division of Labour in Society
 
@@ -11540,7 +11540,7 @@ one single faculty at the expense of all other faculties, which caused A.
 Ferguson, the master of Adam Smith, to exclaim: “We make a nation of Helots,
 and have no free citizens.”32
 
-<span class="atom-split" data-atom="122" data-title="Section 4: (3/4)" data-chapter="Section 4:" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="Section 4: (3/4)" data-chapter="Section 4:" data-kind="atom" data-srclang="en"></span>
 
 But, in
 spite of the numerous analogies and links connecting them, division of [labour](/concepts/labour)
@@ -11671,7 +11671,7 @@ refounding of Asiatic States, and the never-ceasing changes of dynasty. The
 structure of the economic elements of society remains untouched by the
 storm-clouds of the political sky.
 
-<span class="atom-split" data-atom="123" data-title="Section 4: (4/4)" data-chapter="Section 4:" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Section 4: (4/4)" data-chapter="Section 4:" data-kind="atom" data-srclang="en"></span>
 
 The rules
 of the guilds, as I have said before, by limiting most strictly the number of
@@ -11699,7 +11699,7 @@ or not by exchange of commodities, is common to economic formations of society
 the most diverse, division of labour in the workshop, as practised by
 manufacture, is a special creation of the capitalist mode of production alone.
 
-<span class="atom-split" data-atom="124" data-title="Section 5: The (1/5)" data-chapter="Section 5: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="Section 5: The (1/5)" data-chapter="Section 5: The" data-kind="atom" data-srclang="en"></span>
 
 Capitalistic Character of Manufacture
 
@@ -11848,7 +11848,7 @@ various operations of a handicraft (such as book-binding) to particular men. In
 such cases, a week’s experience is enough to determine the proportion between
 the numbers of the hands necessary for the various functions.52
 
-<span class="atom-split" data-atom="125" data-title="Section 5: The (2/5)" data-chapter="Section 5: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="Section 5: The (2/5)" data-chapter="Section 5: The" data-kind="atom" data-srclang="en"></span>
 
 By decomposition of handicrafts, by
 specialisation of the instruments of [labour](/concepts/labour), by the formation of detail
@@ -11960,7 +11960,7 @@ annexation of the workman to a detail function is removed. On the other hand,
 the fetters that this same principle laid on the dominion of capital, fall
 away.
 
-<span class="atom-split" data-atom="126" data-title="Section 1 : The (1/5)" data-chapter="Section 1 : The" data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="Section 1 : The (1/5)" data-chapter="Section 1 : The" data-kind="atom" data-srclang="en"></span>
 
 Development of Machinery
 
@@ -12060,7 +12060,7 @@ once. The number of tools that a machine can bring into play simultaneously, is
 from the very first emancipated from the organic limits that hedge in the tools
 of a handicraftsman.
 
-<span class="atom-split" data-atom="127" data-title="Section 1 : The (2/5)" data-chapter="Section 1 : The" data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="Section 1 : The (2/5)" data-chapter="Section 1 : The" data-kind="atom" data-srclang="en"></span>
 
 In many manual implements the distinction
 between man as mere motive power, and man as the workman or operator properly
@@ -12167,7 +12167,7 @@ apparatus.
 We now proceed to distinguish the co-operation
 of a number of machines of one kind from a complex system of machinery.
 
-<span class="atom-split" data-atom="128" data-title="Section 1 : The (3/5)" data-chapter="Section 1 : The" data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Section 1 : The (3/5)" data-chapter="Section 1 : The" data-kind="atom" data-srclang="en"></span>
 
 In the one case, the product is entirely made by
 a single machine, which performs all the various operations previously done by
@@ -12280,7 +12280,7 @@ and whose demon power, at first veiled under the slow and measured motions of
 his giant limbs, at length breaks out into the fast and furious whirl of his
 countless working organs.
 
-<span class="atom-split" data-atom="129" data-title="Section 1 : The (4/5)" data-chapter="Section 1 : The" data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="Section 1 : The (4/5)" data-chapter="Section 1 : The" data-kind="atom" data-srclang="en"></span>
 
 There were mules and steam-engines before there
 were any labourers, whose exclusive occupation it was to make mules and
@@ -12413,7 +12413,7 @@ tons. It is mere child’s-play for it to crush a block of granite into powder,
 yet it is no less capable of driving, with a succession of light taps, a nail
 into a piece of soft wood.22
 
-<span class="atom-split" data-atom="130" data-title="Section 1 : The (5/5)" data-chapter="Section 1 : The" data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="Section 1 : The (5/5)" data-chapter="Section 1 : The" data-kind="atom" data-srclang="en"></span>
 
 The implements of [labour](/concepts/labour), in the form of
 machinery, necessitate the substitution of natural forces for human force, and
@@ -12429,7 +12429,7 @@ later, operates only by means of associated labour, or labour in common. Hence
 the co-operative character of the labour-process is, in the latter case, a
 technical necessity dictated by the instrument of labour itself.
 
-<span class="atom-split" data-atom="131" data-title="Section 2:  The Value Transferred by Machinery to the (1/2)" data-chapter="Section 2:  The Value Transferred by Machinery to the" data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="Section 2:  The Value Transferred by Machinery to the (1/2)" data-chapter="Section 2:  The Value Transferred by Machinery to the" data-kind="atom" data-srclang="en"></span>
 
 Product
 
@@ -12549,7 +12549,7 @@ instruments of labour increases relatively, but decreases absolutely. In other
 words, its absolute amount decreases, but its amount, relatively to the total
 value of the product, of a pound of yarn, for instance, increases.27
 
-<span class="atom-split" data-atom="132" data-title="Section 2:  The Value Transferred by Machinery to the (2/2)" data-chapter="Section 2:  The Value Transferred by Machinery to the" data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="Section 2:  The Value Transferred by Machinery to the (2/2)" data-chapter="Section 2:  The Value Transferred by Machinery to the" data-kind="atom" data-srclang="en"></span>
 
 It is
 evident that whenever it costs as much [labour](/concepts/labour) to produce a machine as is saved
@@ -12656,7 +12656,7 @@ surplus-population is below all calculation. Hence nowhere do we find a more
 shameful squandering of human labour-power for the most despicable purposes
 than in England, the land of machinery.
 
-<span class="atom-split" data-atom="133" data-title="Section 3:  The Proximate Effects of Machinery on the (1/4)" data-chapter="Section 3:  The Proximate Effects of Machinery on the" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Section 3:  The Proximate Effects of Machinery on the (1/4)" data-chapter="Section 3:  The Proximate Effects of Machinery on the" data-kind="atom" data-srclang="en"></span>
 
 Workman
 
@@ -12790,7 +12790,7 @@ examined in that district, were “wonderfully in accord” on this point. In fa
 the revolution in the mode of cultivation had led to the introduction of the
 industrial system.
 
-<span class="atom-split" data-atom="134" data-title="Section 3:  The Proximate Effects of Machinery on the (2/4)" data-chapter="Section 3:  The Proximate Effects of Machinery on the" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="Section 3:  The Proximate Effects of Machinery on the (2/4)" data-chapter="Section 3:  The Proximate Effects of Machinery on the" data-kind="atom" data-srclang="en"></span>
 
 Married women, who work in gangs along with boys
 and girls, are, for a stipulated sum of money, placed at the disposal of the
@@ -12942,7 +12942,7 @@ despotism of capital.60
 
 B. Prolongation of the Working day
 
-<span class="atom-split" data-atom="135" data-title="Section 3:  The Proximate Effects of Machinery on the (3/4)" data-chapter="Section 3:  The Proximate Effects of Machinery on the" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="Section 3:  The Proximate Effects of Machinery on the (3/4)" data-chapter="Section 3:  The Proximate Effects of Machinery on the" data-kind="atom" data-srclang="en"></span>
 
 If
 machinery be the most powerful means for increasing the productiveness of
@@ -13051,7 +13051,7 @@ profits are therefore exceptional, and the capitalist endeavours to exploit thor
 “the sunny time of this his first love,” by prolonging the working day as much
 as possible. The magnitude of the profit whets his appetite for more profit.
 
-<span class="atom-split" data-atom="136" data-title="Section 3:  The Proximate Effects of Machinery on the (4/4)" data-chapter="Section 3:  The Proximate Effects of Machinery on the" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="Section 3:  The Proximate Effects of Machinery on the (4/4)" data-chapter="Section 3:  The Proximate Effects of Machinery on the" data-kind="atom" data-srclang="en"></span>
 
 As the use
 of machinery becomes more general in a particular industry, the social value of
@@ -13122,7 +13122,7 @@ half-educated parvenus, might become “eminent spinners,” “extensive
 sausage-makers,” and “influential shoe-black dealers,” to do this, they lacked
 the bump of Christianity.
 
-<span class="atom-split" data-atom="137" data-title="C. Intensification of Labour (1/3)" data-chapter="C. Intensification of Labour" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="C. Intensification of Labour (1/3)" data-chapter="C. Intensification of Labour" data-kind="atom" data-srclang="en"></span>
 
 The immoderate lengthening of the working day,
 produced by machinery in the hands of capital, leads to a reaction on the part
@@ -13262,7 +13262,7 @@ In the year 1844, Lord Ashley, now Lord
 Shaftesbury, made in the House of Commons the following statements, supported
 by documentary evidence:
 
-<span class="atom-split" data-atom="138" data-title="C. Intensification of Labour (2/3)" data-chapter="C. Intensification of Labour" data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="C. Intensification of Labour (2/3)" data-chapter="C. Intensification of Labour" data-kind="atom" data-srclang="en"></span>
 
 “The [labour](/concepts/labour)
 performed by those engaged in the processes of manufacture, is three times as
@@ -13387,7 +13387,7 @@ of labour-power. From 1838 to 1850, the average proportional increase in
 English cotton and other factories was 32%, while from 1850 to 1856 it amounted
 to 86%.
 
-<span class="atom-split" data-atom="139" data-title="C. Intensification of Labour (3/3)" data-chapter="C. Intensification of Labour" data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="C. Intensification of Labour (3/3)" data-chapter="C. Intensification of Labour" data-kind="atom" data-srclang="en"></span>
 
 But however great the [progress](/positions/progress) of English
 industry had been during the 8 years from 1848 to 1856 under the influence of a
@@ -13449,7 +13449,7 @@ influence of a day of 10 hours, surpasses the advance made between 1833 and
 advance made during the half century after the first introduction of the
 factory system, when the working day was without limits.96
 
-<span class="atom-split" data-atom="140" data-title="Section 4: The (1/2)" data-chapter="Section 4: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="Section 4: The (1/2)" data-chapter="Section 4: The" data-kind="atom" data-srclang="en"></span>
 
 Factory
 
@@ -13588,7 +13588,7 @@ together with that mechanism, constitute the power of the “master.” This “
 monopoly of it are inseparably united, whenever he falls out with his “hands,”
 contemptuously tells them:
 
-<span class="atom-split" data-atom="141" data-title="Section 4: The (2/2)" data-chapter="Section 4: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="Section 4: The (2/2)" data-chapter="Section 4: The" data-kind="atom" data-srclang="en"></span>
 
 “The factory
 operatives should keep in wholesome remembrance the fact that theirs is really
@@ -13642,7 +13642,7 @@ dangerous and unwholesome accompaniments of the productive process, not to
 mention the robbery of appliances for the comfort of the workman.110 Is Fourier wrong when he calls factories
 “tempered bagnos"?111
 
-<span class="atom-split" data-atom="142" data-title="Section 5: The (3/5)" data-chapter="Section 5: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="Section 5: The (3/5)" data-chapter="Section 5: The" data-kind="atom" data-srclang="en"></span>
 
 Strife Between Workman and Machine
 
@@ -13784,7 +13784,7 @@ starvation, many with families vegetated for a long time on 2½ d. a day.117 On 
 machinery produced an acute effect in India. The Governor General reported
 1834-35:
 
-<span class="atom-split" data-atom="143" data-title="Section 5: The (4/5)" data-chapter="Section 5: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="Section 5: The (4/5)" data-chapter="Section 5: The" data-kind="atom" data-srclang="en"></span>
 
 “The misery
 hardly finds a parallel in the history of commerce. The bones of the
@@ -14098,7 +14098,7 @@ at discretion.”
 With regard to the invention of the self-acting
 mule, he says:
 
-<span class="atom-split" data-atom="144" data-title="Section 5: The (5/5)" data-chapter="Section 5: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="144" data-title="Section 5: The (5/5)" data-chapter="Section 5: The" data-kind="atom" data-srclang="en"></span>
 
 “A creation
 destined to restore order among the industrious classes.... This invention
@@ -14151,7 +14151,7 @@ days of the Middle Ages. This does not prevent him from calling upon the
 factory operatives to thank Providence, who by means of machinery has given
 them the leisure to think of their “immortal interests.”131
 
-<span class="atom-split" data-atom="145" data-title="Section 6: The (6/6)" data-chapter="Section 6: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="145" data-title="Section 6: The (6/6)" data-chapter="Section 6: The" data-kind="atom" data-srclang="en"></span>
 
 Theory of Compensation as Regards the Workpeople Displaced by Machinery
 
@@ -14255,7 +14255,7 @@ optimism of economists, are as follows: The labourers, when driven out of the
 workshop by the machinery, are thrown upon the labour market, and there add to
 the number of workmen at the disposal of the capitalists. In Part VII of this
 
-<span class="atom-split" data-atom="146" data-title="book it will be seen that this effect of machinery, which, as we have seen, is (1/2)" data-chapter="book it will be seen that this effect of machinery, which, as we have seen, is" data-kind="atom"></span>
+<span class="atom-split" data-atom="146" data-title="book it will be seen that this effect of machinery, which, as we have seen, is (1/2)" data-chapter="book it will be seen that this effect of machinery, which, as we have seen, is" data-kind="atom" data-srclang="en"></span>
 
 represented to be a compensation to the working class, is on the contrary a
 most frightful scourge. For the present I will only say this: The labourers
@@ -14371,7 +14371,7 @@ undergoing the process of still further reducing the number of its inhabitants,
 so as exactly to suit the requirements of its landlords and of the English
 woollen manufacturers.
 
-<span class="atom-split" data-atom="147" data-title="book it will be seen that this effect of machinery, which, as we have seen, is (2/2)" data-chapter="book it will be seen that this effect of machinery, which, as we have seen, is" data-kind="atom"></span>
+<span class="atom-split" data-atom="147" data-title="book it will be seen that this effect of machinery, which, as we have seen, is (2/2)" data-chapter="book it will be seen that this effect of machinery, which, as we have seen, is" data-kind="atom" data-srclang="en"></span>
 
 When machinery is applied to any of the
 preliminary or intermediate stages through which the subject of [labour](/concepts/labour) has to
@@ -14487,7 +14487,7 @@ factories and metal industries, taken together, number 1,039,605; in both cases
 less than the number of modern domestic slaves. What a splendid result of the
 capitalist exploitation of machinery!
 
-<span class="atom-split" data-atom="148" data-title="Section 7:" data-chapter="Section 7:" data-kind="atom"></span>
+<span class="atom-split" data-atom="148" data-title="Section 7:" data-chapter="Section 7:" data-kind="atom" data-srclang="en"></span>
 
 Repulsion and Attraction of Workpeople by the Factory System. Crises in the
 Cotton Trade
@@ -14568,7 +14568,7 @@ constant. But we have already seen that, with every advance in the use of
 machinery, the constant component of capital, that part which consists of
 machinery, raw material, &c., increases, while the variable component, the
 
-<span class="atom-split" data-atom="149" data-title="part laid out in labour-power, decreases. We also know that in no other system (1/3)" data-chapter="part laid out in labour-power, decreases. We also know that in no other system" data-kind="atom"></span>
+<span class="atom-split" data-atom="149" data-title="part laid out in labour-power, decreases. We also know that in no other system (1/3)" data-chapter="part laid out in labour-power, decreases. We also know that in no other system" data-kind="atom" data-srclang="en"></span>
 
 of production is improvement so continuous, and the composition of the capital
 employed so constantly changing as in the factory system. These changes are,
@@ -14778,7 +14778,7 @@ constant changes take place in the sex, age, and skill of the levies.
 The lot of the factory operatives will be best
 depicted by taking a rapid survey of the course of the English cotton industry.
 
-<span class="atom-split" data-atom="150" data-title="part laid out in labour-power, decreases. We also know that in no other system (2/3)" data-chapter="part laid out in labour-power, decreases. We also know that in no other system" data-kind="atom"></span>
+<span class="atom-split" data-atom="150" data-title="part laid out in labour-power, decreases. We also know that in no other system (2/3)" data-chapter="part laid out in labour-power, decreases. We also know that in no other system" data-kind="atom" data-srclang="en"></span>
 
 From 1770 to 1815 this trade was depressed or
 stagnant for 5 years only. During this period of 45 years the English
@@ -14911,7 +14911,7 @@ weigh 26 lbs. after it was woven.”162
 In the
 Report of Inspectors of Factories for 30th April, 1864, we read as follows:
 
-<span class="atom-split" data-atom="151" data-title="part laid out in labour-power, decreases. We also know that in no other system (3/3)" data-chapter="part laid out in labour-power, decreases. We also know that in no other system" data-kind="atom"></span>
+<span class="atom-split" data-atom="151" data-title="part laid out in labour-power, decreases. We also know that in no other system (3/3)" data-chapter="part laid out in labour-power, decreases. We also know that in no other system" data-kind="atom" data-srclang="en"></span>
 
 “The trade is
 availing itself of this resource at present to an extent which is even
@@ -14949,7 +14949,7 @@ prosperity against 9 years of depression and stagnation. The condition of the
 adult male operatives, even during the years of prosperity, may be judged from
 the note subjoined.165
 
-<span class="atom-split" data-atom="152" data-title="Section 8:" data-chapter="Section 8:" data-kind="atom"></span>
+<span class="atom-split" data-atom="152" data-title="Section 8:" data-chapter="Section 8:" data-kind="atom" data-srclang="en"></span>
 
 [Revolution](/positions/revolution) Effected in Manufacture, Handicrafts, and Domestic Industry by
 Modern Industry
@@ -15060,7 +15060,7 @@ given branch of industry, the less the social productive power of labour and
 the technical basis for a combination of processes are developed in that
 branch.
 
-<span class="atom-split" data-atom="153" data-title="C. Modern" data-chapter="C. Modern" data-kind="atom"></span>
+<span class="atom-split" data-atom="153" data-title="C. Modern" data-chapter="C. Modern" data-kind="atom" data-srclang="en"></span>
 
 Manufacture
 
@@ -15213,7 +15213,7 @@ printers
 
 2,367
 
-<span class="atom-split" data-atom="154" data-title="D. Modern Domestic Industry (1/4)" data-chapter="D. Modern Domestic Industry" data-kind="atom"></span>
+<span class="atom-split" data-atom="154" data-title="D. Modern Domestic Industry (1/4)" data-chapter="D. Modern Domestic Industry" data-kind="atom" data-srclang="en"></span>
 
 I now come to the so-called domestic industry.
 In order to get an idea of the horrors of this sphere, in which capital
@@ -15361,7 +15361,7 @@ of these numbers, says one of the commissioners, Mr. White, represents less
 space than the half of what a child would occupy if packed in a box
 measuring 3 feet in each direction.”
 
-<span class="atom-split" data-atom="155" data-title="D. Modern Domestic Industry (2/4)" data-chapter="D. Modern Domestic Industry" data-kind="atom"></span>
+<span class="atom-split" data-atom="155" data-title="D. Modern Domestic Industry (2/4)" data-chapter="D. Modern Domestic Industry" data-kind="atom" data-srclang="en"></span>
 
 Thus do the children enjoy life till the age of
 12 or 14. The wretched half-starved parents think of nothing but getting as
@@ -15477,7 +15477,7 @@ Even when moderate hours of work, i.e., from 8 in the morning till 6 in the
 evening, prevail in such places, yet 3 or 4 persons fall into a swoon regularly
 every day.”188
 
-<span class="atom-split" data-atom="156" data-title="D. Modern Domestic Industry (3/4)" data-chapter="D. Modern Domestic Industry" data-kind="atom"></span>
+<span class="atom-split" data-atom="156" data-title="D. Modern Domestic Industry (3/4)" data-chapter="D. Modern Domestic Industry" data-kind="atom" data-srclang="en"></span>
 
 The [revolution](/positions/revolution) in the industrial methods which
 is the necessary result of the revolution in the instruments of production, is
@@ -15612,7 +15612,7 @@ hours, specified by the Factory Acts.”200
 Hardly had the Act been passed when our friends the
 manufacturers found out:
 
-<span class="atom-split" data-atom="157" data-title="D. Modern Domestic Industry (4/4)" data-chapter="D. Modern Domestic Industry" data-kind="atom"></span>
+<span class="atom-split" data-atom="157" data-title="D. Modern Domestic Industry (4/4)" data-chapter="D. Modern Domestic Industry" data-kind="atom" data-srclang="en"></span>
 
 “The
 inconveniences we expected to arise from the introduction of the Factory Acts
@@ -15710,7 +15710,7 @@ is admitted over and over again by its own representatives – except “under t
 pressure of a General Act of Parliament”213
 for the compulsory regulation of the hours of labour.
 
-<span class="atom-split" data-atom="158" data-title="Section 9: The (1/4)" data-chapter="Section 9: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="158" data-title="Section 9: The (1/4)" data-chapter="Section 9: The" data-kind="atom" data-srclang="en"></span>
 
 Factory Acts. Sanitary and Educational Clauses of the same. Their General
 Extension in England
@@ -15852,7 +15852,7 @@ especially, for 14, 15, and 16 hours at a stretch, during several days in the
 week, and frequently for 36 hours, with only 2 hours’ rest for meals and sleep.222 A great part of them cannot read, and
 they are, as a rule, utter savages and very extraordinary creatures.
 
-<span class="atom-split" data-atom="159" data-title="Section 9: The (2/4)" data-chapter="Section 9: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="159" data-title="Section 9: The (2/4)" data-chapter="Section 9: The" data-kind="atom" data-srclang="en"></span>
 
 “To qualify
 them for the work which they have to do, they require no intellectual training;
@@ -15985,7 +15985,7 @@ legislature, as a [natural right](/positions/natural_right), that an exemption s
 from what destroys prematurely their physical strength, and lowers them in the
 scale of intellectual and moral beings.”231
 
-<span class="atom-split" data-atom="160" data-title="Section 9: The (3/4)" data-chapter="Section 9: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="160" data-title="Section 9: The (3/4)" data-chapter="Section 9: The" data-kind="atom" data-srclang="en"></span>
 
 It was not, however, the misuse of parental
 authority that created the capitalistic [exploitation](/concepts/surplus_value), whether direct or
@@ -16142,7 +16142,7 @@ any handicraft is carried on by any child, young person, or woman, and to which
 and over which the person by whom such child, young person, or woman is
 employed, has the right of access and control.”
 
-<span class="atom-split" data-atom="161" data-title="Section 9: The (4/4)" data-chapter="Section 9: The" data-kind="atom"></span>
+<span class="atom-split" data-atom="161" data-title="Section 9: The (4/4)" data-chapter="Section 9: The" data-kind="atom" data-srclang="en"></span>
 
 “Employed
 shall mean occupied in any handicraft, whether for wages or not, under a master
@@ -16222,7 +16222,7 @@ spirit of capital, not to call for a few extracts from this Report. For the
 sake of conciseness I have classified them. I may also add that every question
 and its answer are numbered in the English Blue books.
 
-<span class="atom-split" data-atom="162" data-title="1. Employment in mines of" data-chapter="1. Employment in mines of" data-kind="atom"></span>
+<span class="atom-split" data-atom="162" data-title="1. Employment in mines of" data-chapter="1. Employment in mines of" data-kind="atom" data-srclang="en"></span>
 
 boys of 10 years and upwards. – In the mines the
 work, inclusive of going and returning, usually lasts 14 or 15 hours, sometimes
@@ -16260,7 +16260,7 @@ if he were discovered reading; he is there to mind his business, he has a duty
 to perform, and he has to attend to it in the first place, and I do not think
 it would be allowed down the pit.” (ns. 139, 141, 143, 158, 160).
 
-<span class="atom-split" data-atom="163" data-title="II. Education. – The working miners want a law for the compulsory" data-chapter="II. Education. – The working miners want a law for the compulsory" data-kind="atom"></span>
+<span class="atom-split" data-atom="163" data-title="II. Education. – The working miners want a law for the compulsory" data-chapter="II. Education. – The working miners want a law for the compulsory" data-kind="atom" data-srclang="en"></span>
 
 [education](/concepts/education) of their children, as in factories. They declare the clauses of the
 Act of 1860, which require a school certificate to be obtained before employing
@@ -16318,7 +16318,7 @@ to spring up, the schools would be forthcoming.” (n. 1647.) “Some of them (t
 boys) cannot read and write at all, I suppose?” “The majority cannot... The
 majority of the men themselves cannot.” (ns. 705, 725.)
 
-<span class="atom-split" data-atom="164" data-title="III. Employment of women. – Since 1842 women are no more employed underground," data-chapter="III. Employment of women. – Since 1842 women are no more employed underground," data-kind="atom"></span>
+<span class="atom-split" data-atom="164" data-title="III. Employment of women. – Since 1842 women are no more employed underground," data-chapter="III. Employment of women. – Since 1842 women are no more employed underground," data-kind="atom" data-srclang="en"></span>
 
 but are occupied on the surface in loading the coal, &c., in drawing the
 tubs to the canals and railway waggons, in sorting, &c. Their numbers have
@@ -16385,7 +16385,7 @@ most economical basis they can, and these girls are employed at from 1s. up to
 1s. 6d. a day, where a man at the rate of 2s. 6d. a day would have to be
 employed.” (n. 1816.)
 
-<span class="atom-split" data-atom="165" data-title="IV. Coroner’s inquests. –" data-chapter="IV. Coroner’s inquests. –" data-kind="atom"></span>
+<span class="atom-split" data-atom="165" data-title="IV. Coroner’s inquests. –" data-chapter="IV. Coroner’s inquests. –" data-kind="atom" data-srclang="en"></span>
 
 “With regard
 to coroner’s inquests in your district, have the workmen confidence in the
@@ -16409,7 +16409,7 @@ knowledge of the operations in connexion with the mine.” “You do not think
 there would be a tendency on the part of the workmen to return unfairly severe
 verdicts?” “No, I think not.” (ns. 378, 379, 380.)
 
-<span class="atom-split" data-atom="166" data-title="V. False weights and" data-chapter="V. False weights and" data-kind="atom"></span>
+<span class="atom-split" data-atom="166" data-title="V. False weights and" data-chapter="V. False weights and" data-kind="atom" data-srclang="en"></span>
 
 measures. – The workmen demand to be paid weekly instead
 of fortnightly, and by weight instead of by cubical contents of the tubs; they
@@ -16423,7 +16423,7 @@ committed?” “It is general; wherever he goes, he has to submit to it.” (n.
 1072.) “Could a man leave by giving 14 days’ notice?” “Yes.” (n. 1073.) And yet
 they are not satisfied!
 
-<span class="atom-split" data-atom="167" data-title="VI. Inspection of mines. – Casualties from explosions are not the only things" data-chapter="VI. Inspection of mines. – Casualties from explosions are not the only things" data-kind="atom"></span>
+<span class="atom-split" data-atom="167" data-title="VI. Inspection of mines. – Casualties from explosions are not the only things" data-chapter="VI. Inspection of mines. – Casualties from explosions are not the only things" data-kind="atom" data-srclang="en"></span>
 
 the workmen suffer from. (n. 234, sqq.)
 
@@ -16557,7 +16557,7 @@ antagonisms of the capitalist form of production, and thereby provides, along
 with the elements for the formation of a new society, the forces for exploding
 the old one.244
 
-<span class="atom-split" data-atom="168" data-title="Section 10:" data-chapter="Section 10:" data-kind="atom"></span>
+<span class="atom-split" data-atom="168" data-title="Section 10:" data-chapter="Section 10:" data-kind="atom" data-srclang="en"></span>
 
 Modern Industry and Agriculture
 
@@ -16623,11 +16623,11 @@ production, therefore, develops technology, and the combining together of
 various processes into a social whole, only by sapping the original sources of
 all wealth-the soil and the labourer.
 
-<span class="atom-split" data-atom="169" data-title="Chapter 16: Absolute and Relative Surplus-Value" data-chapter="Chapter 16: Absolute and Relative Surplus-Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="169" data-title="Chapter 16: Absolute and Relative Surplus-Value" data-chapter="Chapter 16: Absolute and Relative Surplus-Value" data-kind="atom" data-srclang="en"></span>
 
 In considering the labour-process, we began (see
 
-<span class="atom-split" data-atom="170" data-title="Chapter VII.) by treating it in the abstract, apart from its (1/3)" data-chapter="Chapter VII.) by treating it in the abstract, apart from its" data-kind="atom"></span>
+<span class="atom-split" data-atom="170" data-title="Chapter VII.) by treating it in the abstract, apart from its (1/3)" data-chapter="Chapter VII.) by treating it in the abstract, apart from its" data-kind="atom" data-srclang="en"></span>
 
 historical forms, as a process between man and Nature. We there stated, “If we
 examine the whole labour-process, from the point of view of its result, it is
@@ -16762,7 +16762,7 @@ productiveness in his labour, he has no such superfluous time at his disposal;
 without such superfluous time, no surplus labour, and therefore no capitalists,
 no slave-owners, no feudal lords, in one word, no class of large proprietors.1
 
-<span class="atom-split" data-atom="171" data-title="Chapter VII.) by treating it in the abstract, apart from its (2/3)" data-chapter="Chapter VII.) by treating it in the abstract, apart from its" data-kind="atom"></span>
+<span class="atom-split" data-atom="171" data-title="Chapter VII.) by treating it in the abstract, apart from its (2/3)" data-chapter="Chapter VII.) by treating it in the abstract, apart from its" data-kind="atom" data-srclang="en"></span>
 
 Thus we may say that surplus-value rests on a
 natural basis; but this is permissible only in the very general sense, that
@@ -16890,7 +16890,7 @@ Thus, not only does the historically developed
 social productiveness of labour, but also its natural productiveness, appear to
 be productiveness of the capital with which that labour is incorporated.
 
-<span class="atom-split" data-atom="172" data-title="Chapter VII.) by treating it in the abstract, apart from its (3/3)" data-chapter="Chapter VII.) by treating it in the abstract, apart from its" data-kind="atom"></span>
+<span class="atom-split" data-atom="172" data-title="Chapter VII.) by treating it in the abstract, apart from its (3/3)" data-chapter="Chapter VII.) by treating it in the abstract, apart from its" data-kind="atom" data-srclang="en"></span>
 
 Ricardo never concerns himself about the origin
 of surplus-value. He treats it as a thing inherent in the capitalist mode of
@@ -17003,7 +17003,7 @@ to Mill, transforms him into a capitalist. On the level plain, simple mounds
 look like hills; and the imbecile flatness of the present bourgeoisie is to be
 measured by the altitude of its great intellects.
 
-<span class="atom-split" data-atom="173" data-title="Chapter 17: Changes of Magnitude in the Price" data-chapter="Chapter 17: Changes of Magnitude in the Price" data-kind="atom"></span>
+<span class="atom-split" data-atom="173" data-title="Chapter 17: Changes of Magnitude in the Price" data-chapter="Chapter 17: Changes of Magnitude in the Price" data-kind="atom" data-srclang="en"></span>
 
 of Labour-Power and in Surplus-Value
 
@@ -17041,7 +17041,7 @@ combinations is augmented by the fact that, when these factors simultaneously
 vary, the amount and direction of their respective variations may differ. In
 what follows the chief combinations alone are considered.
 
-<span class="atom-split" data-atom="174" data-title="Section 1: Length of the Working day and (1/2)" data-chapter="Section 1: Length of the Working day and" data-kind="atom"></span>
+<span class="atom-split" data-atom="174" data-title="Section 1: Length of the Working day and (1/2)" data-chapter="Section 1: Length of the Working day and" data-kind="atom" data-srclang="en"></span>
 
 Intensity of [Labour](/concepts/labour) Constant. Productiveness of Labour Variable
 
@@ -17175,7 +17175,7 @@ subsistence. But even in such case, [the fall](/positions/original_sin) in the v
 cause a corresponding rise of surplus-value, and thus the abyss between the
 labourer's position and that of the capitalist would keep widening.3
 
-<span class="atom-split" data-atom="175" data-title="Section 1: Length of the Working day and (2/2)" data-chapter="Section 1: Length of the Working day and" data-kind="atom"></span>
+<span class="atom-split" data-atom="175" data-title="Section 1: Length of the Working day and (2/2)" data-chapter="Section 1: Length of the Working day and" data-kind="atom" data-srclang="en"></span>
 
 Ricardo was
 the first who accurately formulated the three laws we have above stated. But he
@@ -17200,7 +17200,7 @@ I shall show in Book III. that, with a given rate of surplus-value, we may have
 any number of rates of profit, and that various rates of surplus-value may,
 under given conditions, express themselves in a single rate of profit.
 
-<span class="atom-split" data-atom="176" data-title="Section 2: Working day Constant. Productiveness" data-chapter="Section 2: Working day Constant. Productiveness" data-kind="atom"></span>
+<span class="atom-split" data-atom="176" data-title="Section 2: Working day Constant. Productiveness" data-chapter="Section 2: Working day Constant. Productiveness" data-kind="atom" data-srclang="en"></span>
 
 of [Labour](/concepts/labour) Constant. Intensity of Labour Variable
 
@@ -17251,7 +17251,7 @@ different countries, and would modify the international application of the law
 of value. The more intense working day of one nation would be represented by a
 greater sum of money than would the less intense day of another nation.4
 
-<span class="atom-split" data-atom="177" data-title="Section 3: (7/9)" data-chapter="Section 3:" data-kind="atom"></span>
+<span class="atom-split" data-atom="177" data-title="Section 3: (7/9)" data-chapter="Section 3:" data-kind="atom" data-srclang="en"></span>
 
 Productiveness and Intensity of [Labour](/concepts/labour) Constant. Length of the Working
 day Variable
@@ -17328,7 +17328,7 @@ condition suitable for the normal reproduction and functioning of labour-power
 is suppressed. The price of labour-power and the degree of its [exploitation](/concepts/surplus_value)
 cease to be commensurable quantities.
 
-<span class="atom-split" data-atom="178" data-title="Section 4: Simultaneous Variations in the" data-chapter="Section 4: Simultaneous Variations in the" data-kind="atom"></span>
+<span class="atom-split" data-atom="178" data-title="Section 4: Simultaneous Variations in the" data-chapter="Section 4: Simultaneous Variations in the" data-kind="atom" data-srclang="en"></span>
 
 Duration, Productiveness, and Intensity of [Labour](/concepts/labour)
 
@@ -17431,14 +17431,14 @@ the shortening of the working day finds at last a limit in the generalisation
 of labour. In capitalist society spare time is acquired for one class by
 converting the whole life-time of the masses into labour time.
 
-<span class="atom-split" data-atom="179" data-title="Chapter 18: Various Formula for the Rate of" data-chapter="Chapter 18: Various Formula for the Rate of" data-kind="atom"></span>
+<span class="atom-split" data-atom="179" data-title="Chapter 18: Various Formula for the Rate of" data-chapter="Chapter 18: Various Formula for the Rate of" data-kind="atom" data-srclang="en"></span>
 
 Surplus-Value
 
 We have seen that the rate of surplus-value is
 represented by the following formulae:
 
-<span class="atom-split" data-atom="180" data-title="I." data-chapter="I." data-kind="atom"></span>
+<span class="atom-split" data-atom="180" data-title="I." data-chapter="I." data-kind="atom" data-srclang="en"></span>
 
 Surplus-value
 
@@ -17471,7 +17471,7 @@ one to the other, are rigorously definite and correct. We therefore find them
 substantially, but not consciously, worked out in classical Political Economy.
 There we meet with the following derivative formulae.
 
-<span class="atom-split" data-atom="181" data-title="II." data-chapter="II." data-kind="atom"></span>
+<span class="atom-split" data-atom="181" data-title="II." data-chapter="II." data-kind="atom" data-srclang="en"></span>
 
 Surplus-labour
 
@@ -17606,7 +17606,7 @@ Necessary labour of
 There is a third formula which I have
 occasionally already anticipated; it is
 
-<span class="atom-split" data-atom="182" data-title="III." data-chapter="III." data-kind="atom"></span>
+<span class="atom-split" data-atom="182" data-title="III." data-chapter="III." data-kind="atom" data-srclang="en"></span>
 
 Surplus-value
 
@@ -17657,7 +17657,7 @@ subsequently crystallize into, is in substance the materialisation of unpaid lab
 The secret of the self-expansion of capital resolves itself into having the
 disposal of a definite quantity of other people’s unpaid labour.
 
-<span class="atom-split" data-atom="183" data-title="Chapter 19: The Transformation of the Value (1/2)" data-chapter="Chapter 19: The Transformation of the Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="183" data-title="Chapter 19: The Transformation of the Value (1/2)" data-chapter="Chapter 19: The Transformation of the Value" data-kind="atom" data-srclang="en"></span>
 
 (and Respective Price) of Labour-Power into Wages
 
@@ -17798,7 +17798,7 @@ value, but on the length of time it is in action. Thus, we have a result absurd
 at first sight that labour which creates a value of 6s. possesses a value of
 3s.7
 
-<span class="atom-split" data-atom="184" data-title="Chapter 19: The Transformation of the Value (2/2)" data-chapter="Chapter 19: The Transformation of the Value" data-kind="atom"></span>
+<span class="atom-split" data-atom="184" data-title="Chapter 19: The Transformation of the Value (2/2)" data-chapter="Chapter 19: The Transformation of the Value" data-kind="atom" data-srclang="en"></span>
 
 We see,
 further: The value of 3s. by which a part only of the working day – i.e., 6
@@ -17905,7 +17905,7 @@ be discovered by science. Classical Political Economy nearly touches the true
 relation of things, without, however, consciously formulating it. This it
 cannot, so long as it sticks in its bourgeois skin.
 
-<span class="atom-split" data-atom="185" data-title="Chapter 20: Time-Wages (1/2)" data-chapter="Chapter 20: Time-Wages" data-kind="atom"></span>
+<span class="atom-split" data-atom="185" data-title="Chapter 20: Time-Wages (1/2)" data-chapter="Chapter 20: Time-Wages" data-kind="atom" data-srclang="en"></span>
 
 Wages themselves again take many forms, a fact
 not recognizable in the ordinary economic treatises which, exclusively
@@ -18046,7 +18046,7 @@ so-called normal time compels the labourer to work during the better paid
 over-time, if he wishes to obtain a sufficient wage at all.8 Legal limitation of the working day puts
 an end to these amenities.9
 
-<span class="atom-split" data-atom="186" data-title="Chapter 20: Time-Wages (2/2)" data-chapter="Chapter 20: Time-Wages" data-kind="atom"></span>
+<span class="atom-split" data-atom="186" data-title="Chapter 20: Time-Wages (2/2)" data-chapter="Chapter 20: Time-Wages" data-kind="atom" data-srclang="en"></span>
 
 It is a fact generally known that, the longer
 the working days, in any branch of industry, the lower are the wages.10 A. Redgrave, factory inspector,
@@ -18134,7 +18134,7 @@ value-product of 2/3 of a working hour. In the first case the capitalist
 appropriates to himself one-half, in the second, one-third of the working-hour
 without paying for it.
 
-<span class="atom-split" data-atom="187" data-title="Chapter 21: Piece Wages (1/2)" data-chapter="Chapter 21: Piece Wages" data-kind="atom"></span>
+<span class="atom-split" data-atom="187" data-title="Chapter 21: Piece Wages (1/2)" data-chapter="Chapter 21: Piece Wages" data-kind="atom" data-srclang="en"></span>
 
 Wages by
 the piece are nothing else than a converted form of wages by time, just as
@@ -18282,7 +18282,7 @@ ribbon-weavers of Coventry.11
 Piece-wage is finally one of the chief supports of the hour-system described in
 the preceding chapter.12
 
-<span class="atom-split" data-atom="188" data-title="Chapter 21: Piece Wages (2/2)" data-chapter="Chapter 21: Piece Wages" data-kind="atom"></span>
+<span class="atom-split" data-atom="188" data-title="Chapter 21: Piece Wages (2/2)" data-chapter="Chapter 21: Piece Wages" data-kind="atom" data-srclang="en"></span>
 
 From what has been shown so far, it follows that
 piece-wage is the form of wages most in harmony with the capitalist mode of
@@ -18369,7 +18369,7 @@ pretensions as gross errors as to the nature of wage-labour.19 He cries out agai
 attempt to lay taxes on the advance of industry, and declares roundly that the
 productiveness of labour does not concern the labourer at all.20
 
-<span class="atom-split" data-atom="189" data-title="Chapter 22: National Differences of Wages (1/2)" data-chapter="Chapter 22: National Differences of Wages" data-kind="atom"></span>
+<span class="atom-split" data-atom="189" data-title="Chapter 22: National Differences of Wages (1/2)" data-chapter="Chapter 22: National Differences of Wages" data-kind="atom" data-srclang="en"></span>
 
 In the 17th chapter we were occupied with the
 manifold combinations which may bring about a change in magnitude of the value
@@ -18563,7 +18563,7 @@ labour, but this has brought them no loss. Their experience shows that even if
 the height of wages corresponds more or less with the average intensity of
 labour, the relative price of labour varies generally in the inverse direction.
 
-<span class="atom-split" data-atom="190" data-title="Chapter 22: National Differences of Wages (2/2)" data-chapter="Chapter 22: National Differences of Wages" data-kind="atom"></span>
+<span class="atom-split" data-atom="190" data-title="Chapter 22: National Differences of Wages (2/2)" data-chapter="Chapter 22: National Differences of Wages" data-kind="atom" data-srclang="en"></span>
 
 In an “Essay on the Rate of Wages,”6 one of his first economic writings, H.
 Carey tries to prove that the wages of the different nations are directly
@@ -18599,7 +18599,7 @@ the critical faculty and such spurious erudition deserved, in spite of his
 Protectionist heresy, to become the secret source of the harmonious wisdom of a
 Bastiat, and of all the other Free-trade optimists of today.
 
-<span class="atom-split" data-atom="191" data-title="Part 7: The Accumulation of Capital" data-chapter="Part 7: The Accumulation of Capital" data-kind="atom"></span>
+<span class="atom-split" data-atom="191" data-title="Part 7: The Accumulation of Capital" data-chapter="Part 7: The Accumulation of Capital" data-kind="atom" data-srclang="en"></span>
 
 The
 conversion of a sum of money into means of production and labour-power, is the
@@ -18655,7 +18655,7 @@ the splitting up of surplus-value. An exact analysis of the process, therefore,
 demands that we should, for a time, disregard all phenomena that hide the play
 of its inner mechanism.
 
-<span class="atom-split" data-atom="192" data-title="Chapter 23: Simple Reproduction (1/4)" data-chapter="Chapter 23: Simple Reproduction" data-kind="atom"></span>
+<span class="atom-split" data-atom="192" data-title="Chapter 23: Simple Reproduction (1/4)" data-chapter="Chapter 23: Simple Reproduction" data-kind="atom" data-srclang="en"></span>
 
 Whatever
 the form of the process of production in a society, it must be a continuous
@@ -18776,7 +18776,7 @@ the mere continuity of the process, the simple reproduction, brings about some
 other wonderful changes, which affect not only the variable, but the total
 capital.
 
-<span class="atom-split" data-atom="193" data-title="Chapter 23: Simple Reproduction (2/4)" data-chapter="Chapter 23: Simple Reproduction" data-kind="atom"></span>
+<span class="atom-split" data-atom="193" data-title="Chapter 23: Simple Reproduction (2/4)" data-chapter="Chapter 23: Simple Reproduction" data-kind="atom" data-srclang="en"></span>
 
 If a
 capital of £1,000 beget yearly a surplus-value of £200, and if this surplus-value
@@ -18901,7 +18901,7 @@ consumption as far as possible to what is strictly necessary, and he is far
 away from imitating those brutal South Americans, who force their labourers to
 take the more substantial, rather than the less substantial, kind of food.9
 
-<span class="atom-split" data-atom="194" data-title="Chapter 23: Simple Reproduction (3/4)" data-chapter="Chapter 23: Simple Reproduction" data-kind="atom"></span>
+<span class="atom-split" data-atom="194" data-title="Chapter 23: Simple Reproduction (3/4)" data-chapter="Chapter 23: Simple Reproduction" data-kind="atom" data-srclang="en"></span>
 
 Hence both
 the capitalist and his ideological representative, the political economist,
@@ -19017,7 +19017,7 @@ contrary gets better the longer it lasts, and in proportion as the skill,
 handed from one generation to another, accumulates. The Times answered
 the cotton lord as follows:
 
-<span class="atom-split" data-atom="195" data-title="Chapter 23: Simple Reproduction (4/4)" data-chapter="Chapter 23: Simple Reproduction" data-kind="atom"></span>
+<span class="atom-split" data-atom="195" data-title="Chapter 23: Simple Reproduction (4/4)" data-chapter="Chapter 23: Simple Reproduction" data-kind="atom" data-srclang="en"></span>
 
 “Mr. Edmund
 Potter is so impressed with the exceptional and supreme importance of the
@@ -19074,11 +19074,11 @@ process of reproduction, produces not only commodities, not only surplus-value,
 but it also produces and reproduces the capitalist relation; on the one side the
 capitalist, on the other the wage labourer.20
 
-<span class="atom-split" data-atom="196" data-title="Chapter 24: Conversion of Surplus-Value into" data-chapter="Chapter 24: Conversion of Surplus-Value into" data-kind="atom"></span>
+<span class="atom-split" data-atom="196" data-title="Chapter 24: Conversion of Surplus-Value into" data-chapter="Chapter 24: Conversion of Surplus-Value into" data-kind="atom" data-srclang="en"></span>
 
 Capital
 
-<span class="atom-split" data-atom="197" data-title="Section 1: (1/3)" data-chapter="Section 1:" data-kind="atom"></span>
+<span class="atom-split" data-atom="197" data-title="Section 1: (1/3)" data-chapter="Section 1:" data-kind="atom" data-srclang="en"></span>
 
 Capitalist Production on a Progressively Increasing Scale. Transition of
 the Laws of Property that Characterise Production of Commodities into Laws of
@@ -19220,7 +19220,7 @@ surplus labour of one year the capital destined to employ additional labour in
 the following year.5 And this
 is what is called: creating capital out of capital.
 
-<span class="atom-split" data-atom="198" data-title="Section 1: (2/3)" data-chapter="Section 1:" data-kind="atom"></span>
+<span class="atom-split" data-atom="198" data-title="Section 1: (2/3)" data-chapter="Section 1:" data-kind="atom" data-srclang="en"></span>
 
 The accumulation of the first additional capital
 of £2,000 presupposes a value of £10,000 belonging to the capitalist by virtue
@@ -19366,7 +19366,7 @@ read: before his own labour had borne fruit); “the employer (le maître),
 because the labour of this worker was worth more than his wages” (should read:
 produced more value than the value of his wages). (Sismondi, l. c., p. 135.)
 
-<span class="atom-split" data-atom="199" data-title="Section 1: (3/3)" data-chapter="Section 1:" data-kind="atom"></span>
+<span class="atom-split" data-atom="199" data-title="Section 1: (3/3)" data-chapter="Section 1:" data-kind="atom" data-srclang="en"></span>
 
 To be sure, the matter looks quite different if
 we consider capitalist production in the uninterrupted flow of its renewal, and
@@ -19428,7 +19428,7 @@ is employed over again in the production of surplus-value,”9 and the capitalis
 the same thing to say that all existing capital is accumulated or capitalised
 interest, for interest is a mere fragment of surplus-value.11
 
-<span class="atom-split" data-atom="200" data-title="Section 2: Erroneous Conception, by Political" data-chapter="Section 2: Erroneous Conception, by Political" data-kind="atom"></span>
+<span class="atom-split" data-atom="200" data-title="Section 2: Erroneous Conception, by Political" data-chapter="Section 2: Erroneous Conception, by Political" data-kind="atom" data-srclang="en"></span>
 
 Economy, of Reproduction on a Progressively Increasing Scale
 
@@ -19531,7 +19531,7 @@ failed to exploit the doctrine of Adam Smith, viz., that the whole of that part
 of the surplus-product which is converted into capital, is consumed by the
 working class.
 
-<span class="atom-split" data-atom="201" data-title="Section 3: (8/9)" data-chapter="Section 3:" data-kind="atom"></span>
+<span class="atom-split" data-atom="201" data-title="Section 3: (8/9)" data-chapter="Section 3:" data-kind="atom" data-srclang="en"></span>
 
 Separation of Surplus-Value into Capital and Revenue. The Abstinence
 Theory
@@ -19689,7 +19689,7 @@ that the pressure of the spur may constantly be kept on the industrious by
 unproductive consumers! By all means, production, production on a constantly
 increasing scale, runs the shibboleth; but
 
-<span class="atom-split" data-atom="202" data-title="Section 3: (9/9)" data-chapter="Section 3:" data-kind="atom"></span>
+<span class="atom-split" data-atom="202" data-title="Section 3: (9/9)" data-chapter="Section 3:" data-kind="atom" data-srclang="en"></span>
 
 “production
 will, by such a process, be far more curbed in than spurred on. Nor is it quite
@@ -19789,7 +19789,7 @@ implements of labour. Here, production and reproduction on a progressively
 increasing scale, go on their way without any intervention from that queer
 saint, that knight of the woeful countenance, the capitalist “abstainer.”
 
-<span class="atom-split" data-atom="203" data-title="Section 4: Circumstances that, Independently of (1/3)" data-chapter="Section 4: Circumstances that, Independently of" data-kind="atom"></span>
+<span class="atom-split" data-atom="203" data-title="Section 4: Circumstances that, Independently of (1/3)" data-chapter="Section 4: Circumstances that, Independently of" data-kind="atom" data-srclang="en"></span>
 
 the Proportional Division of Surplus-Value into Capital and Revenue, Determine
 the Amount of Accumulation. Degree of [Exploitation](/concepts/surplus_value) of Labour-Power.
@@ -19937,7 +19937,7 @@ creators of the material elements of capital – man and Nature – still work
 together. Thanks to the elasticity of labour-power, the domain of accumulation
 has extended without any previous enlargement of constant capital.
 
-<span class="atom-split" data-atom="204" data-title="Section 4: Circumstances that, Independently of (2/3)" data-chapter="Section 4: Circumstances that, Independently of" data-kind="atom"></span>
+<span class="atom-split" data-atom="204" data-title="Section 4: Circumstances that, Independently of (2/3)" data-chapter="Section 4: Circumstances that, Independently of" data-kind="atom" data-srclang="en"></span>
 
 In agriculture the land under cultivation cannot
 be increased without the advance of more seed and manure. But this advance once
@@ -20066,7 +20066,7 @@ labour take the appearance of inherent properties of capital, and as the
 constant appropriation of surplus labour by the capitalists, takes that of a
 constant self-expansion of capital.
 
-<span class="atom-split" data-atom="205" data-title="Section 4: Circumstances that, Independently of (3/3)" data-chapter="Section 4: Circumstances that, Independently of" data-kind="atom"></span>
+<span class="atom-split" data-atom="205" data-title="Section 4: Circumstances that, Independently of (3/3)" data-chapter="Section 4: Circumstances that, Independently of" data-kind="atom" data-srclang="en"></span>
 
 With the increase of capital, the difference
 between the capital employed and the capital consumed increases. In other
@@ -20110,7 +20110,7 @@ time show more “abstinence.” And, finally, all the springs of production act
 with greater elasticity, the more its scale extends with the mass of the
 capital advanced.
 
-<span class="atom-split" data-atom="206" data-title="Section 5: The So-Called Labour Fund" data-chapter="Section 5: The So-Called Labour Fund" data-kind="atom"></span>
+<span class="atom-split" data-atom="206" data-title="Section 5: The So-Called Labour Fund" data-chapter="Section 5: The So-Called Labour Fund" data-kind="atom" data-srclang="en"></span>
 
 It has been shown in the course of this inquiry
 that capital is not a fixed magnitude, but is a part of social wealth, elastic
@@ -20186,11 +20186,11 @@ from the English labourer, is thus used as capital, not in England, but in
 foreign countries. But with the additional capital thus exported, a part of the
 “labour fund” invented by God and Bentham is also exported.56
 
-<span class="atom-split" data-atom="207" data-title="Chapter 25: The General Law of Capitalist" data-chapter="Chapter 25: The General Law of Capitalist" data-kind="atom"></span>
+<span class="atom-split" data-atom="207" data-title="Chapter 25: The General Law of Capitalist" data-chapter="Chapter 25: The General Law of Capitalist" data-kind="atom" data-srclang="en"></span>
 
 Accumulation
 
-<span class="atom-split" data-atom="208" data-title="Section 1: The Increased Demand for labour power (1/3)" data-chapter="Section 1: The Increased Demand for labour power" data-kind="atom"></span>
+<span class="atom-split" data-atom="208" data-title="Section 1: The Increased Demand for labour power (1/3)" data-chapter="Section 1: The Increased Demand for labour power" data-kind="atom" data-srclang="en"></span>
 
 that Accompanies Accumulation, the Composition of Capital Remaining the same
 
@@ -20314,7 +20314,7 @@ relation on their own product, as personified in the capitalists. In reference
 to this relation of dependence, Sir F. M. Eden in his “[The State](/concepts/state) of the Poor,
 an History of the Labouring Classes in England,” says,
 
-<span class="atom-split" data-atom="209" data-title="Section 1: The Increased Demand for labour power (2/3)" data-chapter="Section 1: The Increased Demand for labour power" data-kind="atom"></span>
+<span class="atom-split" data-atom="209" data-title="Section 1: The Increased Demand for labour power (2/3)" data-chapter="Section 1: The Increased Demand for labour power" data-kind="atom" data-srclang="en"></span>
 
 “the natural
 produce of our soil is certainly not fully adequate to our subsistence; we can
@@ -20418,7 +20418,7 @@ complete misunderstanding of facts9  are worthily paralleled by the economists,
 who interpret the above phenomena of accumulation by saying that there are now
 too few, now too many wage labourers.
 
-<span class="atom-split" data-atom="210" data-title="Section 1: The Increased Demand for labour power (3/3)" data-chapter="Section 1: The Increased Demand for labour power" data-kind="atom"></span>
+<span class="atom-split" data-atom="210" data-title="Section 1: The Increased Demand for labour power (3/3)" data-chapter="Section 1: The Increased Demand for labour power" data-kind="atom" data-srclang="en"></span>
 
 The law of capitalist production, that is at the
 bottom of the pretended “[natural law](/positions/natural_law) of population,” reduces itself simply to
@@ -20451,7 +20451,7 @@ on the part of the labourer. As, in religion, man is governed by the products
 of his own brain, so in capitalistic production, he is governed by the products
 of his own hand.10
 
-<span class="atom-split" data-atom="211" data-title="Section 2: Relative Diminution of the Variable (1/3)" data-chapter="Section 2: Relative Diminution of the Variable" data-kind="atom"></span>
+<span class="atom-split" data-atom="211" data-title="Section 2: Relative Diminution of the Variable (1/3)" data-chapter="Section 2: Relative Diminution of the Variable" data-kind="atom" data-srclang="en"></span>
 
 Part of Capital Simultaneously with the [Progress](/positions/progress) of Accumulation and of the
 Concentration that Accompanies it
@@ -20588,7 +20588,7 @@ reciprocally give one another, that change in the technical composition of
 capital by which the variable constituent becomes always smaller and smaller as
 compared with the constant.
 
-<span class="atom-split" data-atom="212" data-title="Section 2: Relative Diminution of the Variable (2/3)" data-chapter="Section 2: Relative Diminution of the Variable" data-kind="atom"></span>
+<span class="atom-split" data-atom="212" data-title="Section 2: Relative Diminution of the Variable (2/3)" data-chapter="Section 2: Relative Diminution of the Variable" data-kind="atom" data-srclang="en"></span>
 
 Every individual capital is a larger or smaller
 concentration of means of production, with a corresponding command over a
@@ -20727,7 +20727,7 @@ is obviously so much the greater the higher the degree in which the capitals
 undergoing this process of renewal are already massed together by virtue of the
 centralisation movement.
 
-<span class="atom-split" data-atom="213" data-title="Section 2: Relative Diminution of the Variable (3/3)" data-chapter="Section 2: Relative Diminution of the Variable" data-kind="atom"></span>
+<span class="atom-split" data-atom="213" data-title="Section 2: Relative Diminution of the Variable (3/3)" data-chapter="Section 2: Relative Diminution of the Variable" data-kind="atom" data-srclang="en"></span>
 
 On the one hand, therefore, the additional
 capital formed in the course of accumulation attracts fewer and fewer labourers
@@ -20735,7 +20735,7 @@ in proportion to its magnitude. On the other hand, the old capital periodically
 reproduced with change of composition, repels more and more of the labourers
 formerly employed by it.
 
-<span class="atom-split" data-atom="214" data-title="Section 3: Progressive Production of a Relative (1/4)" data-chapter="Section 3: Progressive Production of a Relative" data-kind="atom"></span>
+<span class="atom-split" data-atom="214" data-title="Section 3: Progressive Production of a Relative (1/4)" data-chapter="Section 3: Progressive Production of a Relative" data-kind="atom" data-srclang="en"></span>
 
 surplus population or Industrial Reserve Army
 
@@ -20818,7 +20818,7 @@ the capitalist mode of production; and in fact every special historic mode of
 production has its own special laws of population, historically valid within
 its limits and only in so far as man has not interfered with them.
 
-<span class="atom-split" data-atom="215" data-title="Section 3: Progressive Production of a Relative (2/4)" data-chapter="Section 3: Progressive Production of a Relative" data-kind="atom"></span>
+<span class="atom-split" data-atom="215" data-title="Section 3: Progressive Production of a Relative (2/4)" data-chapter="Section 3: Progressive Production of a Relative" data-kind="atom" data-srclang="en"></span>
 
 But if a surplus labouring population is a
 necessary product of accumulation or of the development of wealth on a
@@ -20958,7 +20958,7 @@ labour power, as he progressively replaces skilled labourers by less skilled,
 mature labour power by immature, male by female, that of adults by that of
 young persons or children.
 
-<span class="atom-split" data-atom="216" data-title="Section 3: Progressive Production of a Relative (3/4)" data-chapter="Section 3: Progressive Production of a Relative" data-kind="atom"></span>
+<span class="atom-split" data-atom="216" data-title="Section 3: Progressive Production of a Relative (3/4)" data-chapter="Section 3: Progressive Production of a Relative" data-kind="atom" data-srclang="en"></span>
 
 On the one hand, therefore, with the [progress](/positions/progress) of
 accumulation, a larger variable capital sets more [labour](/concepts/labour) in action without
@@ -21074,7 +21074,7 @@ demand and supply of labour works. It confines the field of action of this law
 within the limits absolutely convenient to the activity of exploitation and to
 the domination of capital.
 
-<span class="atom-split" data-atom="217" data-title="Section 3: Progressive Production of a Relative (4/4)" data-chapter="Section 3: Progressive Production of a Relative" data-kind="atom"></span>
+<span class="atom-split" data-atom="217" data-title="Section 3: Progressive Production of a Relative (4/4)" data-chapter="Section 3: Progressive Production of a Relative" data-kind="atom" data-srclang="en"></span>
 
 This is the place to return to one of the grand
 exploits of economic apologetics. It will be remembered that if through the
@@ -21131,7 +21131,7 @@ dependence of the working class upon the capitalist class, capital, along with
 its commonplace Sancho Panza, rebels against the “sacred” law of supply and
 demand, and tries to check its inconvenient action by forcible means and State interference.
 
-<span class="atom-split" data-atom="218" data-title="Section 4: Different Forms of the Relative (1/2)" data-chapter="Section 4: Different Forms of the Relative" data-kind="atom"></span>
+<span class="atom-split" data-atom="218" data-title="Section 4: Different Forms of the Relative (1/2)" data-chapter="Section 4: Different Forms of the Relative" data-kind="atom" data-srclang="en"></span>
 
 surplus population. The General Law of Capitalistic Accumulation
 
@@ -21273,7 +21273,7 @@ adaptation is the creation of a relative surplus population, or industrial
 reserve army. Its last word is the misery of constantly extending strata of the
 active army of labour, and the dead weight of pauperism.
 
-<span class="atom-split" data-atom="219" data-title="Section 4: Different Forms of the Relative (2/2)" data-chapter="Section 4: Different Forms of the Relative" data-kind="atom"></span>
+<span class="atom-split" data-atom="219" data-title="Section 4: Different Forms of the Relative (2/2)" data-chapter="Section 4: Different Forms of the Relative" data-kind="atom" data-srclang="en"></span>
 
 The law by which a constantly increasing
 quantity of means of production, thanks to the advance in the productiveness of
@@ -21397,7 +21397,7 @@ bourgeois doctrinaire, blurts out brutally:
 “In poor
 nations the people are comfortable, in rich nations they are generally poor.”30
 
-<span class="atom-split" data-atom="220" data-title="Section 5: Illustrations of the General Law of (1/4)" data-chapter="Section 5: Illustrations of the General Law of" data-kind="atom"></span>
+<span class="atom-split" data-atom="220" data-title="Section 5: Illustrations of the General Law of (1/4)" data-chapter="Section 5: Illustrations of the General Law of" data-kind="atom" data-srclang="en"></span>
 
 Capitalist Accumulation
 
@@ -21709,7 +21709,7 @@ and dwelling. The limits of this book compel us to concern ourselves chiefly
 with the worst paid part of the industrial proletariat, and with the
 agricultural labourers, who together form the majority of the working class.
 
-<span class="atom-split" data-atom="221" data-title="Section 5: Illustrations of the General Law of (2/4)" data-chapter="Section 5: Illustrations of the General Law of" data-kind="atom"></span>
+<span class="atom-split" data-atom="221" data-title="Section 5: Illustrations of the General Law of (2/4)" data-chapter="Section 5: Illustrations of the General Law of" data-kind="atom" data-srclang="en"></span>
 
 But first, one word on official pauperism, or on
 that part of the working class which has forfeited its condition of existence
@@ -21887,7 +21887,7 @@ is only in a qualified sense that the work can be deemed self-supporting....
 And on a very large scale the nominal self-support can be only a circuit,
 longer or shorter, to pauperism.”51
 
-<span class="atom-split" data-atom="222" data-title="Section 5: Illustrations of the General Law of (3/4)" data-chapter="Section 5: Illustrations of the General Law of" data-kind="atom"></span>
+<span class="atom-split" data-atom="222" data-title="Section 5: Illustrations of the General Law of (3/4)" data-chapter="Section 5: Illustrations of the General Law of" data-kind="atom" data-srclang="en"></span>
 
 The intimate connexion between the pangs of
 hunger of the most industrious layers of the working class, and the extravagant
@@ -22042,7 +22042,7 @@ industrial or commercial town, the more rapidly flows the stream of exploitable
 human material, the more miserable are the improvised dwellings of the
 labourers.
 
-<span class="atom-split" data-atom="223" data-title="Section 5: Illustrations of the General Law of (4/4)" data-chapter="Section 5: Illustrations of the General Law of" data-kind="atom"></span>
+<span class="atom-split" data-atom="223" data-title="Section 5: Illustrations of the General Law of (4/4)" data-chapter="Section 5: Illustrations of the General Law of" data-kind="atom" data-srclang="en"></span>
 
 Newcastle-on-Tyne, as the centre of a coal and
 iron district of growing productiveness, takes the next place after London in
@@ -22117,7 +22117,7 @@ the misery of its dwellings.
 where the blankest poverty and domestic misery abound in the wealthiest town of
 Europe.” 66
 
-<span class="atom-split" data-atom="224" data-title="C. The Nomad Population (1/2)" data-chapter="C. The Nomad Population" data-kind="atom"></span>
+<span class="atom-split" data-atom="224" data-title="C. The Nomad Population (1/2)" data-chapter="C. The Nomad Population" data-kind="atom" data-srclang="en"></span>
 
 We turn now to a class of people whose origin is
 agricultural, but whose occupation is in great part industrial. They are the
@@ -22235,7 +22235,7 @@ for safety in mines, &c. It is the same here with the housing of the
 miners. Dr. Simon, medical officer of the Privy Council, in his official Report
 says:
 
-<span class="atom-split" data-atom="225" data-title="C. The Nomad Population (2/2)" data-chapter="C. The Nomad Population" data-kind="atom"></span>
+<span class="atom-split" data-atom="225" data-title="C. The Nomad Population (2/2)" data-chapter="C. The Nomad Population" data-kind="atom" data-srclang="en"></span>
 
 “In apology
 for the wretched household accommodation ... it is alleged that miners are
@@ -22266,7 +22266,7 @@ fall have not [education](/concepts/education) enough to know the value of their
 neither obscenest lodging nor foulest drinking water will be appreciable
 inducements towards a ‘strike.’”73
 
-<span class="atom-split" data-atom="226" data-title="D. Effect of Crises on the Best Paid Part of the (1/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom"></span>
+<span class="atom-split" data-atom="226" data-title="D. Effect of Crises on the Best Paid Part of the (1/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom" data-srclang="en"></span>
 
 working class
 
@@ -22376,7 +22376,7 @@ and useless for them to beg. The local ratepayers themselves are driven by the
 parochial charges to the verge of pauperism.” – (Standard, 5th April,
 1867.)
 
-<span class="atom-split" data-atom="227" data-title="D. Effect of Crises on the Best Paid Part of the (2/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom"></span>
+<span class="atom-split" data-atom="227" data-title="D. Effect of Crises on the Best Paid Part of the (2/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom" data-srclang="en"></span>
 
 As it is the fashion amongst English capitalists
 to quote Belgium as the Paradise of the labourer because “freedom of [labour](/concepts/labour),”
@@ -22547,7 +22547,7 @@ regard to his food and dwelling, as well as to his self-respect, amusements,
 expressed in pints of wheat was from 1770 to 1771, 90 pints, in Eden’s time
 (1797) only 65, in 1808 but 60.78
 
-<span class="atom-split" data-atom="228" data-title="D. Effect of Crises on the Best Paid Part of the (3/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom"></span>
+<span class="atom-split" data-atom="228" data-title="D. Effect of Crises on the Best Paid Part of the (3/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom" data-srclang="en"></span>
 
 [The state](/concepts/state)
 of the agricultural labourer at the end of the Anti-Jacobin War, during which
@@ -22976,7 +22976,7 @@ then the agricultural labourer was at last, post tot discrimina rerum,
 placed in circumstances that ought, secundum artem, to have made him
 drunk with happiness.
 
-<span class="atom-split" data-atom="229" data-title="D. Effect of Crises on the Best Paid Part of the (4/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom"></span>
+<span class="atom-split" data-atom="229" data-title="D. Effect of Crises on the Best Paid Part of the (4/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom" data-srclang="en"></span>
 
 But
 Professor Rogers comes to the conclusion that the lot of the English
@@ -23201,7 +23201,7 @@ Ireland99
 
 2,434
 
-<span class="atom-split" data-atom="230" data-title="D. Effect of Crises on the Best Paid Part of the (5/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom"></span>
+<span class="atom-split" data-atom="230" data-title="D. Effect of Crises on the Best Paid Part of the (5/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom" data-srclang="en"></span>
 
 “To the
 insufficient quantity and miserable quality of the house accommodation
@@ -23330,7 +23330,7 @@ a room occupied by her father and mother, her bastard child, two young men (her
 brothers), and her two sisters, each with a bastard child – 10 persons in all.
 A few weeks ago 13 persons slept in it.”106
 
-<span class="atom-split" data-atom="231" data-title="D. Effect of Crises on the Best Paid Part of the (6/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom"></span>
+<span class="atom-split" data-atom="231" data-title="D. Effect of Crises on the Best Paid Part of the (6/6)" data-chapter="D. Effect of Crises on the Best Paid Part of the" data-kind="atom" data-srclang="en"></span>
 
 Dr. Hunter
 investigated 5,375 cottages of agricultural labourers, not only in the purely
@@ -23448,7 +23448,7 @@ of houses has not prevented increase of population, or has not brought about
 that expulsion which, under the name “migration to towns,” generally occurs. In
 Fingringhoe, a parish of 3,443 acres, were in 1851, 145 houses; in 1861, only
 
-<span class="atom-split" data-atom="232" data-title="110. But the people did not wish to go away, and managed even to increase under (1/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom"></span>
+<span class="atom-split" data-atom="232" data-title="110. But the people did not wish to go away, and managed even to increase under (1/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom" data-srclang="en"></span>
 
 these circumstances. In 1851, 252 persons inhabited 61 houses, but in 1861, 262
 persons were squeezed into 49 houses. In Basilden, in 1851, 157 persons lived
@@ -23723,7 +23723,7 @@ will send them here. If each could find an allotment near his work, he would
 not prefer Badsey, where he pays for his scrap of ground twice as much as the
 farmer pays for his.”
 
-<span class="atom-split" data-atom="233" data-title="110. But the people did not wish to go away, and managed even to increase under (2/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom"></span>
+<span class="atom-split" data-atom="233" data-title="110. But the people did not wish to go away, and managed even to increase under (2/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom" data-srclang="en"></span>
 
 The
 continual emigration to the towns, the continual formation of surplus
@@ -23858,7 +23858,7 @@ migration to the towns.117 The
 cleanly weeded land, and the uncleanly human weeds, of Lincolnshire, are pole
 and counterpole of capitalistic production.118
 
-<span class="atom-split" data-atom="234" data-title="110. But the people did not wish to go away, and managed even to increase under (3/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom"></span>
+<span class="atom-split" data-atom="234" data-title="110. But the people did not wish to go away, and managed even to increase under (3/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom" data-srclang="en"></span>
 
 F. Ireland
 
@@ -24899,7 +24899,7 @@ the more rapidly did the concentration of its individual constituents develop.
 And, however small its absolute increase, in proportion to the dwindling
 population it had increased largely.
 
-<span class="atom-split" data-atom="235" data-title="110. But the people did not wish to go away, and managed even to increase under (4/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom"></span>
+<span class="atom-split" data-atom="235" data-title="110. But the people did not wish to go away, and managed even to increase under (4/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom" data-srclang="en"></span>
 
 Here, then, under our own eyes and on a large
 scale, a process is revealed, than which nothing more excellent could be wished
@@ -25057,7 +25057,7 @@ to corresponding sentiments of antagonism and dissatisfaction towards those by w
 they are thus led to regard themselves as being treated as ... a proscribed
 race.” 130
 
-<span class="atom-split" data-atom="236" data-title="110. But the people did not wish to go away, and managed even to increase under (5/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom"></span>
+<span class="atom-split" data-atom="236" data-title="110. But the people did not wish to go away, and managed even to increase under (5/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom" data-srclang="en"></span>
 
 The first act of the agricultural [revolution](/positions/revolution) was
 to sweep away the huts situated on the field of [labour](/concepts/labour). This was done on the
@@ -25171,7 +25171,7 @@ of the day in England. At the end of 1866 and the beginning of 1867, one of the
 Irish land magnates, Lord Dufferin, set about its solution in The Times.
 “Wie menschlich von solch grossem Herrn!”
 
-<span class="atom-split" data-atom="237" data-title="110. But the people did not wish to go away, and managed even to increase under (6/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom"></span>
+<span class="atom-split" data-atom="237" data-title="110. But the people did not wish to go away, and managed even to increase under (6/6)" data-chapter="110. But the people did not wish to go away, and managed even to increase under" data-kind="atom" data-srclang="en"></span>
 
 From Table E. we saw that, during 1864, of
 £4,368,610 of total profits, three surplus-value makers pocketed only £262,819;
@@ -25302,7 +25302,7 @@ Scelusque fraternae necis.
 
 and the crime of fratricide]
 
-<span class="atom-split" data-atom="238" data-title="Chapter 26: The Secret of Primitive" data-chapter="Chapter 26: The Secret of Primitive" data-kind="atom"></span>
+<span class="atom-split" data-atom="238" data-title="Chapter 26: The Secret of Primitive" data-chapter="Chapter 26: The Secret of Primitive" data-kind="atom" data-srclang="en"></span>
 
 Accumulation
 
@@ -25424,7 +25424,7 @@ different aspects, and runs through its various phases in different orders of
 succession, and at different periods. In England alone, which we take as our
 example, has it the classic form. 1
 
-<span class="atom-split" data-atom="239" data-title="Chapter 27: Expropriation of the Agricultural Population From the Land (1/4)" data-chapter="Chapter 27: Expropriation of the Agricultural Population From the Land" data-kind="atom"></span>
+<span class="atom-split" data-atom="239" data-title="Chapter 27: Expropriation of the Agricultural Population From the Land (1/4)" data-chapter="Chapter 27: Expropriation of the Agricultural Population From the Land" data-kind="atom" data-srclang="en"></span>
 
 In England, serfdom had practically disappeared
 in the last part of the 14th century. The immense majority of the population1 consisted then, and to a still larger extent, in the
@@ -25534,7 +25534,7 @@ furnished with a little garden, or if he may rent, far away from his cottage, a
 few roods. “Landlords and farmers,” says Dr. Hunter, “work here hand in hand. A
 few acres to the cottage would make the labourers too independent.”6
 
-<span class="atom-split" data-atom="240" data-title="Chapter 27: Expropriation of the Agricultural Population From the Land (2/4)" data-chapter="Chapter 27: Expropriation of the Agricultural Population From the Land" data-kind="atom"></span>
+<span class="atom-split" data-atom="240" data-title="Chapter 27: Expropriation of the Agricultural Population From the Land (2/4)" data-chapter="Chapter 27: Expropriation of the Agricultural Population From the Land" data-kind="atom" data-srclang="en"></span>
 
 The process of forcible expropriation of the
 people received in the 16th century a new and frightful impulse from the Reformation,
@@ -25628,7 +25628,7 @@ Communal lands helped especially, next to the theft of the State domains, to
 swell those large farms, that were called in the 18th century capital farms17 or merchant farms,18 and to “set free” the agricultural
 population as proletarians for manufacturing industry.
 
-<span class="atom-split" data-atom="241" data-title="Chapter 27: Expropriation of the Agricultural Population From the Land (3/4)" data-chapter="Chapter 27: Expropriation of the Agricultural Population From the Land" data-kind="atom"></span>
+<span class="atom-split" data-atom="241" data-title="Chapter 27: Expropriation of the Agricultural Population From the Land (3/4)" data-chapter="Chapter 27: Expropriation of the Agricultural Population From the Land" data-kind="atom" data-srclang="en"></span>
 
 The 18th century, however, did not yet recognise
 as fully as the 19th, the identity between national wealth and the poverty of
@@ -25734,7 +25734,7 @@ at once; in Scotland areas as large as German principalities are dealt with),
 finally by the peculiar form of property, under which the embezzled lands were
 held.
 
-<span class="atom-split" data-atom="242" data-title="Chapter 27: Expropriation of the Agricultural Population From the Land (4/4)" data-chapter="Chapter 27: Expropriation of the Agricultural Population From the Land" data-kind="atom"></span>
+<span class="atom-split" data-atom="242" data-title="Chapter 27: Expropriation of the Agricultural Population From the Land (4/4)" data-chapter="Chapter 27: Expropriation of the Agricultural Population From the Land" data-kind="atom" data-srclang="en"></span>
 
 The Highland Celts were organised in clans, each
 of which was the owner of the land on which it was settled. The representative
@@ -25826,7 +25826,7 @@ capitalistic agriculture, made the soil part and parcel of capital, and created
 for the town industries the necessary supply of a “free” and outlawed
 proletariat.
 
-<span class="atom-split" data-atom="243" data-title="Chapter 28: Bloody Legislation Against the" data-chapter="Chapter 28: Bloody Legislation Against the" data-kind="atom"></span>
+<span class="atom-split" data-atom="243" data-title="Chapter 28: Bloody Legislation Against the" data-chapter="Chapter 28: Bloody Legislation Against the" data-kind="atom" data-srclang="en"></span>
 
 Expropriated, from the End of the 15th Century. Forcing Down of Wages by Acts
 of Parliament
@@ -25848,7 +25848,7 @@ existed.
 
 In England this legislation began under Henry
 
-<span class="atom-split" data-atom="244" data-title="VII. (1/2)" data-chapter="VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="244" data-title="VII. (1/2)" data-chapter="VII." data-kind="atom" data-srclang="en"></span>
 
 Henry VIII. 1530: Beggars old and unable to work receive a beggar’s
 licence. On the other hand, whipping and imprisonment for sturdy vagabonds.
@@ -25965,7 +25965,7 @@ do not return to them, as this point was treated earlier (Chap. X., Section 5).
 The Statute of Labourers was passed at the
 urgent instance of the House of Commons. A Tory says naively:
 
-<span class="atom-split" data-atom="245" data-title="VII. (2/2)" data-chapter="VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="245" data-title="VII. (2/2)" data-chapter="VII." data-kind="atom" data-srclang="en"></span>
 
 “Formerly the
 poor demanded such high wages as to threaten industry and wealth. Next,
@@ -26071,7 +26071,7 @@ cidevant masters, the present entrepreneurs,” and because a coalition against
 the despotism of the quondam masters of the corporations is – guess what! – is
 a restoration of the corporations abolished by the French constitution.7
 
-<span class="atom-split" data-atom="246" data-title="Chapter 29: Genesis of the Capitalist Farmer" data-chapter="Chapter 29: Genesis of the Capitalist Farmer" data-kind="atom"></span>
+<span class="atom-split" data-atom="246" data-title="Chapter 29: Genesis of the Capitalist Farmer" data-chapter="Chapter 29: Genesis of the Capitalist Farmer" data-kind="atom" data-srclang="en"></span>
 
 Now that we
 have considered the forcible creation of a class of outlawed proletarians, the
@@ -26119,7 +26119,7 @@ their labourers and their landlords. No wonder, therefore, that England, at the
 end of the 16th century, had a class of capitalist farmers, rich, considering
 the circumstances of the time.3
 
-<span class="atom-split" data-atom="247" data-title="Chapter 30: Reaction of the Agricultural" data-chapter="Chapter 30: Reaction of the Agricultural" data-kind="atom"></span>
+<span class="atom-split" data-atom="247" data-title="Chapter 30: Reaction of the Agricultural" data-chapter="Chapter 30: Reaction of the Agricultural" data-kind="atom" data-srclang="en"></span>
 
 [Revolution](/positions/revolution) on Industry. Creation of the Home-Market for Industrial Capital
 
@@ -26248,7 +26248,7 @@ whose roots – spinning and weaving – it tears up.7
 It therefore also, for the first time, conquers for industrial capital the
 entire home market.8
 
-<span class="atom-split" data-atom="248" data-title="Chapter 31: The Genesis of the Industrial Capitalist" data-chapter="Chapter 31: The Genesis of the Industrial Capitalist" data-kind="atom"></span>
+<span class="atom-split" data-atom="248" data-title="Chapter 31: The Genesis of the Industrial Capitalist" data-chapter="Chapter 31: The Genesis of the Industrial Capitalist" data-kind="atom" data-srclang="en"></span>
 
 The genesis of the industrial* capitalist did not proceed in such a
 gradual way as that of the farmer. Doubtless many small guild-masters, and yet
@@ -26359,7 +26359,7 @@ higher employés of the company. The monopolies of salt, opium, betel and other
 commodities, were inexhaustible mines of wealth. The employés themselves fixed
 the price and plundered at will the unhappy Hindus. The Governor-General took
 
-<span class="atom-split" data-atom="249" data-title="part in this private traffic. His favourites received contracts under (1/2)" data-chapter="part in this private traffic. His favourites received contracts under" data-kind="atom"></span>
+<span class="atom-split" data-atom="249" data-title="part in this private traffic. His favourites received contracts under (1/2)" data-chapter="part in this private traffic. His favourites received contracts under" data-kind="atom" data-srclang="en"></span>
 
 conditions whereby they, cleverer than the alchemists, made gold out of
 nothing. Great fortunes sprang up like mushrooms in a day; primitive
@@ -26484,7 +26484,7 @@ England and the United States. A great deal of capital, which appears today in
 the United States without any certificate of birth, was yesterday, in England,
 the capitalised blood of children.
 
-<span class="atom-split" data-atom="250" data-title="part in this private traffic. His favourites received contracts under (2/2)" data-chapter="part in this private traffic. His favourites received contracts under" data-kind="atom"></span>
+<span class="atom-split" data-atom="250" data-title="part in this private traffic. His favourites received contracts under (2/2)" data-chapter="part in this private traffic. His favourites received contracts under" data-kind="atom" data-srclang="en"></span>
 
 As the national debt finds its support in the
 public revenue, which must cover the yearly payments for interest, &c., the
@@ -26534,7 +26534,7 @@ period, increase gigantically during the infancy of Modem Industry. The birth
 of the latter is heralded by a great slaughter of the innocents. Like the royal
 navy, the factories were recruited by means of the press-gang. Blasé as Sir F.
 
-<span class="atom-split" data-atom="251" data-title="M. Eden is as to the horrors of the expropriation of the agricultural" data-chapter="M. Eden is as to the horrors of the expropriation of the agricultural" data-kind="atom"></span>
+<span class="atom-split" data-atom="251" data-title="M. Eden is as to the horrors of the expropriation of the agricultural" data-chapter="M. Eden is as to the horrors of the expropriation of the agricultural" data-kind="atom" data-srclang="en"></span>
 
 population from the soil, from the last third of the 15th century to his own
 time; with all the self-satisfaction with which he rejoices in this process,
@@ -26630,7 +26630,7 @@ Augier,14 “comes into the world
 with a congenital blood-stain on one cheek,” capital comes dripping from head
 to foot, from every pore, with blood and dirt.15
 
-<span class="atom-split" data-atom="252" data-title="Chapter 32: Historical Tendency of Capitalist" data-chapter="Chapter 32: Historical Tendency of Capitalist" data-kind="atom"></span>
+<span class="atom-split" data-atom="252" data-title="Chapter 32: Historical Tendency of Capitalist" data-chapter="Chapter 32: Historical Tendency of Capitalist" data-kind="atom" data-srclang="en"></span>
 
 Accumulation
 
@@ -26735,7 +26735,7 @@ few usurpers by the mass of the people.
 
 2
 
-<span class="atom-split" data-atom="253" data-title="Chapter 33: The Modern Theory of Colonisation1 (1/3)" data-chapter="Chapter 33: The Modern Theory of Colonisation1" data-kind="atom"></span>
+<span class="atom-split" data-atom="253" data-title="Chapter 33: The Modern Theory of Colonisation1 (1/3)" data-chapter="Chapter 33: The Modern Theory of Colonisation1" data-kind="atom" data-srclang="en"></span>
 
 Political
 economy confuses on principle two very different kinds of private property, of
@@ -26859,7 +26859,7 @@ obtain a piece of land for himself, not only is labour very dear, as respects
 the labourer’s share of the produce, but the difficulty is to obtain combined
 labour at any price.”11
 
-<span class="atom-split" data-atom="254" data-title="Chapter 33: The Modern Theory of Colonisation1 (2/3)" data-chapter="Chapter 33: The Modern Theory of Colonisation1" data-kind="atom"></span>
+<span class="atom-split" data-atom="254" data-title="Chapter 33: The Modern Theory of Colonisation1 (2/3)" data-chapter="Chapter 33: The Modern Theory of Colonisation1" data-kind="atom" data-srclang="en"></span>
 
 As in the
 colonies the separation of the labourer from the conditions of [labour](/concepts/labour) and their
@@ -26965,7 +26965,7 @@ property, are better fed than English peasants.”19
 But, never mind, national wealth is, once again, by its very nature, identical
 with misery of the people.
 
-<span class="atom-split" data-atom="255" data-title="Chapter 33: The Modern Theory of Colonisation1 (3/3)" data-chapter="Chapter 33: The Modern Theory of Colonisation1" data-kind="atom"></span>
+<span class="atom-split" data-atom="255" data-title="Chapter 33: The Modern Theory of Colonisation1 (3/3)" data-chapter="Chapter 33: The Modern Theory of Colonisation1" data-kind="atom" data-srclang="en"></span>
 
 How, then,
 to heal the anti-capitalistic cancer of the colonies? If men were willing, at a

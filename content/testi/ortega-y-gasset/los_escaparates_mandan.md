@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_escaparates_mandan" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los escaparates mandan" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los escaparates mandan" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Se dice que el dinero es el único poder que actúa sobre la vida social. Si miramos la realidad con una óptica de retícula fina, la proposición es más bien falsa que verídica. Pero tiene también sus derechos la visión de retícula gruesa, y entonces no hay inconveniente en aceptar esa terrible sentencia.
 
@@ -40,7 +40,7 @@ Así se explica esa nota común a todas las épocas sometidas al imperio cremat�
 
 Mas aun limitando de tal suerte la frase inicial que da ocasión a esta nota, yo me pregunto si hay alguna razón para afirmar que en nuestro tiempo goza el dinero de un poder social mayor que en sazón ninguna del pasado. También esta curiosidad es expuesta y difícil de satisfacer. Si nos dejamos ir, todo lo que pasa en nuestra hora nos parecerá único y excepcional en la serie de los tiempos. Hay, sin embargo, a mi juicio, una razón que da probabilidad clara a la sospecha de ser nuestro tiempo el más crematístico de cuantos fueron. Es también edad de crisis: los prestigios hace años aún vigentes han perdido su eficiencia. Ni la religión ni la moral dominan la vida social ni el corazón de la muchedumbre. La cultura intelectual y artística es valorada en menos que hace veinte años. Queda sólo el dinero. Pero, como he indicado, esto ha acaecido varias veces en la historia. Lo nuevo, lo exclusivo del presente es esta otra coyuntura. El dinero ha tenido, para su poder, un límite automático en su propia esencia. El dinero no es más que un medio para comprar cosas. Si hay pocas cosas que comprar, por mucho dinero que haya y muy libre que se encuentre su acción de conflictos con otras potencias, su influjo será escaso. Esto nos permite formar una escala con las épocas de crematismo y decir: el poder social del dinero —ceteris paribus— será tanto mayor cuantas más cosas haya que comprar, no cuanto mayor sea la cantidad del dinero mismo. Ahora bien: no hay duda que el industrialismo moderno, en su combinación con los fabulosos progresos de la técnica, ha producido en estos años un cúmulo tal de objetos mercables, de tantas clases y calidades, que puede el dinero desarrollar fantásticamente su esencia: el comprar.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En el siglo XVIII existían también grandes fortunas, pero había poco que comprar. El rico, si quería algo más que el breve repertorio de mercancías existente, tenía que inventar un apetito y el objeto que lo satisfaría, tenía que buscar el artífice que lo realizase y dejar tiempo para su fabricación. En todo este intrincamiento intercalado entre el dinero y el objeto se complicaba aquél con otras fuerzas espirituales —fantasía creadora de deseos en el rico, selección del artífice, labor técnica de éste, etcétera— de que se hacía, sin quererlo, dependiente.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/les_muses_galantes" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LES MUSES GALANTES" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LES MUSES GALANTES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Ballet représenté en 1745 devant le duc de Richelieu ; en 1747, sur le théâtre de l'Opéra ; en 1761, devant le prince de Conti.
 
@@ -598,7 +598,7 @@ L'amour et la gloire
 
 Suivront le vainqueur.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 (On danse, après quoi Hésiode s'approche pour disputer.)
 
@@ -1132,7 +1132,7 @@ ANACRÉON.
 
 Je conçois le détour :
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Parmi tant de beautés vous espérez connaître
 

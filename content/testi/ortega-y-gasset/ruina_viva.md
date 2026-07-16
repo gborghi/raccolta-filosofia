@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ruina_viva" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ruina viva" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ruina viva" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Algo es una ruina cuando queda de ello sólo el esfuerzo vital necesario para que la muerte perpetúe su gesto destructor. En las ruinas, quien propiamente vive y pervive es la muerte[59].
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/marco_traje_y_adorno" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Marco, traje y adorno" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Marco, traje y adorno" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Viven los cuadros alojados en los marcos. Esa asociación de marco y cuadro no es accidental. El uno necesita del otro. Un cuadro sin marco tiene el aire de un hombre expoliado y desnudo. Su contenido parece derramarse por los cuatro lados del lienzo y deshacerse en la atmósfera. Viceversa, el marco postula constantemente un cuadro para su interior, hasta el punto de que, cuando le falta, tiende a convertir en cuadro cuanto se ve a su través.
 

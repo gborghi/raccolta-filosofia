@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/dos_teatros" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Dos teatros" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Dos teatros" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pocas cosas pueden orientar tan delicadamente sobre la diferencia en los destinos de España y Francia como la diferencia de estructura entre el teatro clásico francés y el nuestro castizo. No llamo también clásico a éste porque, sin mermar porción alguna de su valor, es forzoso negarle todo carácter de clasicismo. Se trata, ante todo, de un arte popular y no creo que haya en la historia nada que siendo popular haya resultado clásico. La tragedia francesa es, por el contrario, un arte para aristocracias. Comienza, pues, a diverger de nuestro teatro en la clase de público a que se dirige. Su intención estética es, asimismo, próximamente inversa de la que mueve a nuestros populares dramaturgos, y me refiero, claro está, a la totalidad de ambos estilos, sin negar que en uno y otro aparezcan excepciones, encargadas como siempre de confirmar la regla.
 
@@ -36,7 +36,7 @@ La sustancia de placer que encierra nuestro teatro es del mismo linaje dionisía
 
 Vemos, pues, en ambos teatros dos propósitos artísticos contrapuestos: en el drama castellano lo esencial es la peripecia, el destino accidentado y junto a ello la lírica ornamentación del verso estofado. En la tragedia francesa, lo más importante es el personaje mismo, su calidad ejemplar y paradigmática. Por esta razón, Racine nos parece frío y monócromo. Diríamos que se nos hace ingresar en un jardín donde hablan unas estatuas y fatigan nuestra admiración presentándonos el mismo modelo de gesto. En Lope de Vega, por el contrario, hallamos más bien pintura que escultura. Un vasto lienzo lleno de tinieblas y luminosidades, donde todo alienta colorido y gesticulante, el noble y el plebeyo, el arzobispo y el capitán, la reina y la serrana, gente inquieta, decidora, abundante, extremada, que va y viene locamente, sin rangos y sin normas, como una pululación de infusorios en la gota de agua. Para ver la masa espléndida de nuestro teatro, no conviene abrir mucho los ojos, como quien persigue la línea de un perfil, sino más bien entornarlos, con gesto de pintor, con el gesto de Velázquez mirando a las meninas, a los enanos y a la pareja real.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Yo creo que este punto de vista es el que nos permite ver hoy nuestro teatro bajo el ángulo más favorable. Los entendidos en literatura española —yo sé muy poco de ella— deberían ensayar su aplicación. Tal vez resulte fecundo y dirija el análisis hasta los valores efectivos de aquella gigantesca cosecha poética.
 

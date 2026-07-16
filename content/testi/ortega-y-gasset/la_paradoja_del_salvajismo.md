@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_paradoja_del_salvajismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La paradoja del salvajismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La paradoja del salvajismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace dieciocho o veinte años sufrió España una epidemia de practicismo ingenuo y mal entendido. Un fenómeno particular de esa epidemia fue creer que el porvenir nacional e individual de los españoles estaba en la explotación minera. Numerosas familias hicieron que sus hijos, tuvieran o no la vocación de ello, siguiesen la carrera de ingenieros de minas. Cuando pocos años más tarde sobrevino la ruina de nuestra minería, los jóvenes ingenieros se encontraron, al concluir sus estudios, especializados en una función social sin horizonte favorable, y no pocos pagaron el error de sus padres con el fracaso de sus vidas.
 

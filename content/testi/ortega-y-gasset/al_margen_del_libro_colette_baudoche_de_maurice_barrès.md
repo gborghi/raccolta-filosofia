@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/al_margen_del_libro_colette_baudoche_de_maurice_barrès" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Al margen del libro Colette Baudoche, de Maurice Barrès" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Al margen del libro Colette Baudoche, de Maurice Barrès" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El público español no conoce apenas el nombre de Maurice Barrès. Esto es una falta más de nuestra república literaria, privada completamente de espíritus críticos que se encarguen de orientar los débiles residuos de atención que aún pudieran hallarse entre los escombros de la conciencia nacional. Aparte de la significación que tiene Barrès en la literatura europea vigente, debiéramos los españoles haberle demostrado algún agradecimiento por sus páginas tituladas Sangre, placer y muerte, donde se nos ha enseñado a nosotros mismos una manera de mirar nuestra pintoresca barbarie, que no será probablemente exacta, pero que es muy fecunda en emociones y vale, por lo tanto, como una verdad provisoria. Mientras no tengamos presto el historial de nuestra raza —y necesitaríamos un siglo para ello—, habremos de contentarnos con poéticas interpretaciones de nuestro carácter, en las que no podremos creer sino a medias y entre sonrisas. Esta que Barrès nos ofrece es grata al menos, y le ha inspirado tan bellos párrafos que sólo puede ocurrirnos pensar: ¡Cuánto nos divertiríamos si fuésemos así!
 
@@ -42,7 +42,7 @@ Las Baudoche son dos francesas de la especie más sencilla: su educación no es 
 
 El doctor Asmus, por el contrario, viene de una raza que necesita aprender las cosas por principios. No es pedante porque en él la pedantería es la manera natural y espontánea de tocar las cosas. Es leal y honrado, pero alguna vez se emborracha siguiendo la costumbre de su nación. «Pertenecía a la raza de los idealistas que sobre su colina sagrada de Bayreuth, después de haber oído a su profeta durante una hora, se lanzan sobre la cerveza y las salchichas y comienzan de nuevo a soñar y vuelven a ahitarse, alternativamente, de actos en entreactos, incapaces aún en estos días consagrados a la sublime de depurar sus hábitos groseros».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Este invasor va entrando insensiblemente bajo el encanto de una vida más pulimentada. Todo va iniciándole en una civilización más suculenta, a la vez de mayor complejidad y de más graciosa unidad. Al sustituir la cerveza por el vino confiesa que se siente más ingenioso. La estufa sajona, mole enorme e idiota, le había acostumbrado a un fuego mudo, y por decirlo así, inorgánico. En Metz trabaja junto a una chimenea de leña que se consume charlando, gimiendo y riendo y mientras las llamas le componen rojas fantasmagorías. Y sobre todo Colette va y viene por la casa: es una muchacha profundamente serena, dotada de un buen gusto automático y sin vacilaciones.
 

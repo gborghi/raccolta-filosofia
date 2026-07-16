@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/quién_es_el_que_grita" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Quién es el que grita" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Quién es el que grita" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero como todo anda un poco confundido, y los españoles del día tenemos poca memoria, quiero recordar o hacer constar algunas cosas que hasta ahora he callado o no he querido subrayar. Desde el fondo de mi largo y amargo silencio, estrujándolo como un racimo lleno de jugo, quiero rememorar a mis lectores y a todos los españoles —porque tengo tanto derecho como cualquiera otro para dirigirme a ellos— quién es el ciudadano que ahora, precisamente ahora, grita: «¡Viva la República!»
 

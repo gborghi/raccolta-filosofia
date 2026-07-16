@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/un_partido_nacional_de_amplitud" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Un partido nacional de amplitud" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Un partido nacional de amplitud" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Mas lo que no queda dudoso, señores, es que es preciso rectificar el perfil y el tono de la República, y para ello es menester que surja un gran movimiento político en el país, un partido gigante, que anude, de la manera más expresa, con aquel ejemplar hecho de solidaridad nacional portador de la República, que interprete ésta como un instrumento de todos y de nadie para forjar la nueva nación, y haciendo de ella un cuerpo ágil, diestro, solidario, actualísimo, capaz de dar su buen brinco sobre las grupas de la [fortuna](/concepts/fortune) histórica, animal fabuloso que pasó ante los pueblos siempre muy a la carrera. En suma, señores, que frente a los particularismos de todo jaez, urge suscitar un partido de amplitud nacional; de otro modo, el Estado naciente vivirá en continuo peligro y a merced de que cualquiera banda de aventureros lo amedrente e imponga su capricho.
 
@@ -42,7 +42,7 @@ Lo que pasa es que los capitalistas españoles no están bien acostumbrados. Yo,
 
 Lo que ocurre es que estaban mal acostumbrados; no estaban hechos a luchar por sí mismos, como acontece a sus parejos en las otras naciones, sino que se habían habituado, como la Iglesia, a vivir bajo el amparo y el mimo del Estado. Esto explica que habiendo padecido tan poco de la política social el capitalismo español, sólo con unos cuantos gestos y unos cuantos vocablos ariscos de los gobernantes ha caído en el pavor. Recuerdo a este propósito una ingenua anécdota que hace muchos años leí en las Memorias de una princesa rusa. Había gran fiesta en la corte y toda ella bajaba la escalinata de palacio. De pronto se oyen gritos de fuego; prodúcese la natural confusión, todo el mundo desaparece, vacando cada cual a su salvación; queda la pobre princesa sola en medio de la escalinata y ante un terrible conflicto: tener que bajar sola la escalera, cosa que no había hecho en su vida, porque siempre había encontrado el oportuno apoyo del brazo de un gentilhombre o de la mano de un chambelán. Es decir, que lo que para cualquiera de nosotros es la operación más sencilla, descender una escalera, era para esta pobre criatura, atrofiada por privilegios, un conflicto casi trágico. (Risas).
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Es preciso, pues, que, sin desánimo, las fuerzas favorecidas antes por el Estado, se acostumbren a vivir bravamente a la intemperie; creedme que la intemperie es cosa sana: tonifica el músculo y aligera la cabeza. (Grandes aplausos).
 

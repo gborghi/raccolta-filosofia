@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/sophist" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="SOPHIST" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="SOPHIST" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -124,7 +124,7 @@ THEAETETUS: Yes.
 
 STRANGER: And there is no reason why the art of hunting should not be further divided.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 THEAETETUS: How would you make the division?
 
@@ -328,7 +328,7 @@ STRANGER: Next, we will suppose the art of selling to be divided into two parts.
 
 THEAETETUS: How?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: There is one part which is distinguished as the sale of a man’s own productions; another, which is the exchange of the works of others.
 
@@ -502,7 +502,7 @@ STRANGER: There is the purification of living bodies in their inward and in thei
 
 THEAETETUS: Very true.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: There can be no doubt that they are thought ridiculous, Theaetetus; but then the dialectical art never considers whether the benefit to be derived from the purge is greater or less than that to be derived from the sponge, and has not more interest in the one than in the other; her endeavour is to know what is and is not kindred in all arts, with a view to the acquisition of intelligence; and having this in view, she honours them all alike, and when she makes comparisons, she counts one of them not a whit more ridiculous than another; nor does she esteem him who adduces as his example of hunting, the general’s art, at all more decorous than another who cites that of the vermin-destroyer, but only as the greater pretender of the two. And as to your question concerning the name which was to comprehend all these arts of purification, whether of animate or inanimate bodies, the art of [dialectic](/positions/dialectic) is in no wise particular about fine words, if she may be only allowed to have a general name for all other purifications, binding them up together and separating them off from the purification of the soul or intellect. For this is the purification at which she wants to arrive, and this we should understand to be her aim.
 
@@ -656,7 +656,7 @@ STRANGER: For all these reasons, Theaetetus, we must admit that refutation is th
 
 THEAETETUS: Very true.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: And who are the ministers of this art? I am afraid to say the Sophists.
 
@@ -820,7 +820,7 @@ THEAETETUS: Certainly.
 
 STRANGER: And may there not be supposed to be an imitative art of reasoning? Is it not possible to enchant the hearts of young men by words poured through their ears, when they are still at a distance from the truth of facts, by exhibiting to them fictitious arguments, and making them think that they are true, and that the speaker is the wisest of men in all things?
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 THEAETETUS: Yes; why should there not be another such art?
 
@@ -962,7 +962,7 @@ THEAETETUS: The argument implies that we should be wrong in doing so.
 
 STRANGER: But how can a man either express in words or even conceive in thought things which are not or a thing which is not without number?
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 THEAETETUS: How indeed?
 
@@ -1142,7 +1142,7 @@ STRANGER: Yes, a blind man, as they say, might see that, and, unless these quest
 
 THEAETETUS: Most true.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: And therefore I must venture to lay hands on my father’s argument; for if I am to be over-scrupulous, I shall have to give the matter up.
 
@@ -1284,7 +1284,7 @@ STRANGER: Shall we say that being is one and a whole, because it has the attribu
 
 THEAETETUS: That is a hard alternative to offer.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: Most true; for being, having in a certain sense the attribute of one, is yet proved not to be the same as one, and the all is therefore more than one.
 
@@ -1430,7 +1430,7 @@ STRANGER: They deny this, and say that the power of doing or suffering is confin
 
 THEAETETUS: And is there not some truth in what they say?
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: Yes; but our reply will be, that we want to ascertain from them more distinctly, whether they further admit that the soul knows, and that being or essence is known.
 
@@ -1590,7 +1590,7 @@ THEAETETUS: No.
 
 STRANGER: Then by this admission everything is instantly overturned, as well the doctrine of universal motion as of universal rest, and also the doctrine of those who distribute being into immutable and everlasting kinds; for all these add on a notion of being, some affirming that things ‘are’ truly in motion, and others that they ‘are’ truly at rest.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 THEAETETUS: Just so.
 
@@ -1770,7 +1770,7 @@ STRANGER: And the other is always relative to other?
 
 THEAETETUS: True.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: But this would not be the case unless being and the other entirely differed; for, if the other, like being, were absolute as well as relative, then there would have been a kind of other which was not other than other. And now we find that what is other must of necessity be what it is in relation to some other.
 
@@ -1962,7 +1962,7 @@ STRANGER: Whereas, we have not only proved that things which are not are, but we
 
 THEAETETUS: And surely, Stranger, we were quite right.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: Let not any one say, then, that while affirming the opposition of not-being to being, we still assert the being of not-being; for as to whether there is an opposite of being, to that enquiry we have long said good-bye — it may or may not be, and may or may not be capable of definition. But as touching our present account of not-being, let a man either convince us of error, or, so long as he cannot, he too must say, as we are saying, that there is a communion of classes, and that being, and difference or other, traverse all things and mutually interpenetrate, so that the other partakes of being, and by reason of this participation is, and yet is not that of which it partakes, but other, and being other than being, it is clearly a necessity that not-being should be. And again, being, through partaking of the other, becomes a class other than the remaining classes, and being other than all of them, is not each one of them, and is not all the rest, so that undoubtedly there are thousands upon thousands of cases in which being is not, and all other things, whether regarded individually or collectively, in many respects are, and in many respects are not.
 
@@ -2072,7 +2072,7 @@ STRANGER: I mean that words like ‘walks,’ ‘runs,’ ‘sleeps,’ or any o
 
 THEAETETUS: How can they?
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: Or, again, when you say ‘lion,’ ‘stag,’ ‘horse,’ or any other words which denote agents — neither in this way of stringing words together do you attain to discourse; for there is no expression of action or inaction, or of the existence of existence or non-existence indicated by the sounds, until verbs are mingled with nouns; then the words fit, and the smallest combination of them forms language, and is the simplest and least form of discourse.
 
@@ -2270,7 +2270,7 @@ STRANGER: The opinion that nature brings them into being from some spontaneous a
 
 THEAETETUS: I dare say that, owing to my youth, I may often waver in my view, but now when I look at you and see that you incline to refer them to God, I defer to your authority.
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: Nobly said, Theaetetus, and if I thought that you were one of those who would hereafter change your mind, I would have gently argued with you, and forced you to assent; but as I perceive that you will come of yourself and without any argument of mine, to that belief which, as you say, attracts you, I will not forestall the work of time. Let me suppose, then, that things which are said to be made by nature are the work of divine art, and that things which are made by man out of these are works of human art. And so there are two kinds of making and production, the one human and the other divine.
 

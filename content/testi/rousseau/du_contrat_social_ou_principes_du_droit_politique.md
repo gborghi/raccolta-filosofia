@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/du_contrat_social_ou_principes_du_droit_politique" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="DU CONTRAT SOCIAL ou Principes du droit politique" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="DU CONTRAT SOCIAL ou Principes du droit politique" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Je veux chercher si, dans l'ordre civil, il peut y avoir quelque règle d'administration légitime et sûre, en prenant les hommes tels qu'ils sont, et les lois telles qu'elles peuvent être. Je tâcherai d'allier toujours, dans cette recherche, ce que le droit permet avec ce que l'intérêt prescrit, afin que la justice et l'utilité ne se trouvent point divisées.
 
@@ -66,7 +66,7 @@ Renoncer à sa liberté, c'est renoncer à sa qualité d'homme, aux droits de l'
 
 Grotius et les autres tirent de la guerre une autre origine du prétendu droit d'esclavage. Le vainqueur ayant, selon eux, le droit de tuer le vaincu, celui-ci peut racheter sa vie aux dépens de sa liberté ; convention d'autant plus légitime qu'elle tourne au profit de tous deux.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mais il est clair que ce prétendu droit de tuer les vaincus ne résulte en aucune manière de l'état de guerre. Par cela seul que les hommes, vivant dans leur primitive indépendance, n'ont point entre eux de rapport assez constant pour constituer ni l'état de paix ni l'état de guerre, ils ne sont point naturellement ennemis. C'est le rapport des choses et non des hommes qui constitue la guerre ; et l'état de guerre ne pouvant naître des simples relations personnelles, mais seulement des relations réelles, la guerre privée ou d'homme à homme ne peut exister, ni dans l'état de nature, où il n'y a point de propriété constante, ni dans l'état social, où tout est sous l'autorité des lois.
 
@@ -106,7 +106,7 @@ Enfin chacun se donnant à tous ne se donne à personne ; et comme il n'y a pas 
 
 Si donc on écarte du pacte social ce qui n'est pas de son essence, on trouvera qu'il se réduit aux termes suivants : « Chacun de nous met en commun sa personne et toute sa puissance sous la suprême direction de la [volonté générale](/positions/general_will) ; et nous recevons encore chaque membre comme partie indivisible du tout. »
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 À l'instant, au lieu de la personne particulière de chaque contractant, cet acte d'association produit un corps moral et collectif, composé d'autant de membres que l'assemblée a de voix ; lequel reçoit de ce même acte son unité, son moi commun, sa vie, et sa volonté. Cette personne publique, qui se [forme](/positions/realism_of_ideas) ainsi par l'union de toutes les autres, prenait autrefois le nom de cité[613], et prend maintenant celui de république ou de corps politique, lequel est appelé par ses membres état quand il est passif, souverain quand il est actif, puissance en le comparant à ses semblables. À l'égard des associés, ils prennent collectivement le nom de peuple, et s'appellent en particulier citoyens, comme participant à l'autorité souveraine, et sujets, comme soumis aux lois de l'état. Mais ces termes se confondent souvent et se prennent l'un pour l'autre ; il suffit de les savoir distinguer quand ils sont employés dans toute leur précision.
 
@@ -142,7 +142,7 @@ En général, pour autoriser sur un terrain quelconque le droit de premier occup
 
 En effet, accorder au besoin et au travail le droit de premier occupant, n'est-ce pas l'étendre aussi loin qu'il peut aller ? Peut-on ne pas donner des bornes à ce droit ? Suffira-t-il de mettre le pied sur un terrain commun pour s'en prétendre aussitôt le maître ? Suffira-t-il d'avoir la force d'en écarter un moment les autres hommes pour leur ôter le droit d'y jamais revenir ? Comment un homme ou un peuple peut-il s'emparer d'un territoire immense et en priver tout le genre humain autrement que par une usurpation punissable, puisqu'elle ôte au reste des hommes le séjour et les aliments que la nature leur donne en commun ? Quand Nunez Balbao prenait sur le rivage possession de la mer du Sud et de toute l'Amérique méridionale au nom de la couronne de Castille[614], était-ce assez pour en déposséder tous les habitants et en exclure tous les princes du monde ? Sur ce pied-là, ces cérémonies se multipliaient assez vainement ; et le roi catholique n'avait tout d'un coup qu'à prendre de son cabinet possession de tout l'univers, sauf à retrancher ensuite de son empire ce qui était auparavant possédé par les autres princes.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 On conçoit comment les terres des particuliers réunies et contiguës deviennent le territoire public, et comment le droit de souveraineté, s'étendant des sujets au terrain qu'ils occupent, devient à la fois réel et personnel ; ce qui met les possesseurs dans une plus grande dépendance, et fait de leurs forces mêmes les garants de leur fidélité ; avantage qui ne paraît pas avoir été bien senti des anciens monarques, qui, ne s'appelant que rois des Perses, des Scythes, des Macédoniens, semblaient se regarder comme les chefs des hommes plutôt que comme les maîtres du pays. Ceux d'aujourd'hui s'appellent plus habilement rois de France, d'Espagne, d'Angleterre, etc. : en tenant ainsi le terrain, ils sont bien sûrs d'en tenir les habitants.
 
@@ -180,7 +180,7 @@ Liste générale des titres
 
 Chapitre 4. – Des bornes du pouvoir souverain.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Si l'état ou la cité n'est qu'une personne morale dont la vie consiste dans l'union de ses membres, et si le plus important de ses soins est celui de sa propre conservation, il lui faut une force universelle et compulsive pour mouvoir et disposer chaque partie de la manière la plus convenable au tout. Comme la nature donne à chaque homme un pouvoir absolu sur tous ses membres, le pacte social donne au corps politique un pouvoir absolu sur tous les siens ; et c'est ce même pouvoir qui, dirigé par la [volonté générale](/positions/general_will), porte, comme j'ai dit, le nom de souveraineté.
 
@@ -208,7 +208,7 @@ On demande comment les particuliers, n'ayant point droit de disposer de leur pro
 
 Le traité social a pour fin la conservation des contractants. Qui veut la fin veut aussi les moyens, et ces moyens sont inséparables de quelques risques, même de quelques pertes. Qui veut conserver sa vie aux dépens des autres doit la donner aussi pour eux quand il faut. Or le citoyen n'est plus juge du péril auquel la loi veut qu'il s'expose ; et quand le prince lui a dit, Il est expédient à l'état que tu meures, il doit mourir, puisque ce n'est qu'à cette condition qu'il a vécu en sûreté jusqu'alors, et que sa vie n'est plus seulement un bienfait de la nature, mais un don conditionnel de l'état.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 La peine de mort infligée aux criminels peut être envisagée à peu près sous le même point de vue : c'est pour n'être pas la victime d'un assassin que l'on consent à mourir si on le devient. Dans ce traité, loin de disposer de sa propre vie, on ne songe qu'à la garantir, et il n'est pas à présumer qu'aucun des contractants prémédite alors de se faire pendre.
 
@@ -240,7 +240,7 @@ On voit encore que la loi réunissant l'universalité de la volonté et celle de
 
 J’appelle donc république tout état régi par des lois, sous quelque forme d'administration que ce puisse être : car alors seulement l'intérêt public gouverne, et la chose publique est quelque chose. Tout gouvernement légitime est républicain[621] : j’expliquerai ci-après ce que c’est que gouvernement.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Les lois ne sont proprement que les conditions de l'association civile. Le peuple, soumis aux lois, en doit être l'auteur ; il n'appartient qu'à ceux qui s'associent de régler les conditions de la société. Mais comment les régleront-ils ? Sera-ce d'un commun accord, par une inspiration subite ? Le corps politique a-t-il un organe pour énoncer ses volontés ? Qui lui donnera la prévoyance nécessaire pour en former les actes et les publier d'avance ? ou comment les prononcera-t-il au moment du besoin ? Comment une multitude aveugle, qui souvent ne sait ce qu'elle veut, parce qu'elle sait rarement ce qui lui est bon, exécuterait-elle d'elle-même une entreprise aussi grande, aussi difficile qu'un système de législation ? De lui-même le peuple veut toujours le bien, mais de lui-même, il ne le voit pas toujours. La [volonté générale](/positions/general_will) est toujours droite, mais, le jugement qui la guide n'est pas toujours éclairé. Il faut lui faire voir les objets tels qu'ils sont, quelquefois tels qu'ils doivent lui paraître, lui montrer le bon chemin qu'elle cherche, la garantir des séductions des volontés particulières, rapprocher à ses yeux les lieux et les temps, balancer l'attrait des avantages présents et sensibles par le danger des maux éloignés et cachés. Les particuliers voient le bien qu'ils rejettent ; le public veut le bien qu’il ne voit pas, Tous ont également besoin de guides. Il faut obliger les uns à conformer leurs volontés à leur raison ; il faut apprendre à l'autre à connaître ce qu'il veut. Alors des [lumières](/schools/enlightenment) publiques résulte l'union de l'entendement et de la volonté dans le corps social ; de là l’exact concours des parties, et enfin la plus grande force du tout. Voilà d'où naît la nécessité d’un législateur.
 
@@ -266,7 +266,7 @@ Autre difficulté qui mérite attention. Les sages qui veulent parler au vulgair
 
 Voilà ce qui força de tout temps les pères des nations de recourir à l'intervention du ciel et d'honorer les dieux de leur propre sagesse, afin que les peuples soumis aux lois de l'état comme à celles de la nature, et reconnaissant le même pouvoir dans la formation de l'homme et dans celle de la cité, obéissent avec liberté, et portassent docilement le joug de la félicité publique.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Cette raison [sublime](/concepts/sublime), qui s'élève au-dessus de la portée des hommes vulgaires, est celle dont le législateur met les décisions dans la bouche des immortels, pour entraîner par l'autorité divine ceux que ne pourrait ébranler la prudence humaine[626]. Mais il n'appartient pas à tout homme de faire parler les dieux, ni d'en être cru quand il s'annonce pour être leur interprète. La grande âme du législateur est le vrai [miracle](/concepts/miracle) qui doit prouver sa mission. Tout homme peut graver des tables de pierre, ou acheter un oracle, ou feindre un secret commerce avec quelque divinité, ou dresser un oiseau pour lui parler à l'oreille, ou trouver d'autres moyens grossiers d'en imposer au peuple. Celui qui ne saura que cela pourra même assembler par hasard une troupe d'insensés mais il ne fondera jamais un empire, et son extravagant ouvrage périra bientôt avec lui. De vains prestiges forment un lien passager ; il n'y a que la sagesse qui le rende durable. La loi judaïque, toujours subsistante, celle de l'enfant d'Ismaël, qui depuis dix siècles régit la moitié du monde, annoncent encore aujourd'hui les grands hommes qui les ont dictées ; et tandis que l'orgueilleuse philosophie ou l'aveugle esprit de parti ne voit en eux que d'heureux imposteurs, le vrai politique admire dans leurs institutions ce grand et puissant génie qui préside aux établissements durables.
 
@@ -294,7 +294,7 @@ Mille raisons démontrent cette maxime. Premièrement, l'administration devient 
 
 Ce n'est pas tout : non seulement le gouvernement a moins de vigueur et de célérité pour faire observer les lois, empêcher les vexations, corriger les abus, prévenir les entreprises séditieuses qui peuvent se faire dans des lieux éloignés ; mais le peuple a moins d'affection pour ses chefs, qu'il ne voit jamais, pour la patrie, qui est à ses yeux comme le monde, et pour ses concitoyens, dont la plupart lui sont étrangers. Les mêmes lois ne peuvent convenir à tant de provinces ; diverses qui ont des mœurs différentes, qui vivent sous des climats opposés, et qui ne peuvent souffrir la même forme de gouvernement. Des lois différentes n'engendrent que trouble et confusion parmi des peuples qui, vivant sous les mêmes chefs et dans une communication continuelle, passent ou se marient les uns chez les autres, sont soumis à d'autres coutumes, ne savent jamais si leur patrimoine est bien à eux. Les talents sont enfouis, les vertus ignorées, les vices impunis, dans cette multitude d'hommes inconnus les uns aux autres, que le siège de l'administration suprême rassemble dans un même lieu. Les chefs, accablés d'affaires, ne voient rien par eux-mêmes ; des commis gouvernent l'état. Enfin les mesures qu'il faut prendre pour maintenir l'autorité générale, à laquelle tant d'officiers éloignés veulent se soustraire ou en imposer, absorbent tous les soins publics ; il n'en reste plus pour le bonheur du peuple, à peine en reste-t-il pour sa défense, au besoin ; et c'est ainsi qu'un corps trop grand pour sa constitution s'affaisse et périt écrasé sous son propre poids.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 D'un autre côté, l'état doit se donner une certaine base pour avoir de la solidité, pour résister aux secousses qu'il ne manquera pas d'éprouver, et aux efforts qu'il sera contraint de faire pour se soutenir : car tous les peuples ont une espèce de force centrifuge, par laquelle ils agissent continuellement les uns contre les autres, et tendent à s'agrandir aux dépens de leurs voisins, comme les tourbillons de Descartes. Ainsi les faibles risquent d'être bientôt engloutis ; et nul ne peut guère se conserver qu'en se mettant avec tous dans une espèce d'équilibre qui rende la compression partout à peu près égale.
 
@@ -324,7 +324,7 @@ J'ai déjà dit ce que c'est que la liberté civile : à l'égard de l'égalité
 
 Cette égalité, disent-ils, est une chimère de spéculation qui ne peut exister dans la pratique. Mais si l'abus est inévitable, s'ensuit-il qu'il ne faille pas au moins le régler ? C'est précisément parce que la force des choses tend toujours à détruire l'égalité, que la force de la législation doit toujours tendre à la maintenir.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mais ces objets généraux de toute bonne institution doivent être modifiés en chaque pays par les rapports qui naissent tant de la situation locale que du caractère des habitants, et c'est sur ces rapports qu'il faut assigner à chaque peuple un système particulier d'institution, qui soit le meilleur, non peut-être en lui-même, mais pour l'état auquel il est destiné. Par exemple, le sol est-il ingrat et stérile, ou le pays trop serré pour les habitants, tournez-vous du côté de l'industrie et des arts, dont vous échangerez les productions contre les denrées qui vous manquent. Au contraire, occupez-vous de riches plaines et des coteaux fertiles dans un bon terrain, manquez-vous d'habitants donnez tous vos soins à l'agriculture, qui multiplie les hommes, et chassez les arts, qui ne feraient qu'achever de dépeupler le pays en attroupant sur quelques points du territoire le peu d'habitants qu'il a[630]. Occupez-vous des rivages étendus et commodes, couvrez la mer de vaisseaux, cultivez le commerce et la navigation, vous aurez une existence brillante et courte. La mer ne baigne-t-elle sur vos côtes que, des rochers presque inaccessibles, restez barbares et ichtyophages ; vous en vivrez plus tranquilles, meilleurs peut-être, et sûrement plus heureux. En un mot, outre les maximes communes à tous, chaque peuple renferme en lui quelque cause qui les ordonne d'une manière particulière, et rend sa législation propre à lui seul. C'est ainsi qu'autrefois les Hébreux, et récemment les Arabes, ont eu pour principal objet la religion, les Athéniens les lettres, Carthage et Tyr le commerce, Rhodes la marine, Sparte la guerre, et Rome la vertu. L'auteur de l'Esprit des lois a montré dans des foules d'exemples par quel art le législateur dirige l'institution vers chacun de ces objets.
 
@@ -362,7 +362,7 @@ J'appelle donc gouvernement ou suprême administration, l'exercice légitime de 
 
 C'est dans le gouvernement que se trouvent les forces intermédiaires, dont les rapports composent celui du tout au tout du souverain à l'état. On peut représenter ce dernier rapport par celui des extrêmes d'une proportion continue, dont la moyenne proportionnelle est le gouvernement. Le gouvernement reçoit du souverain les ordres qu'il donne au peuple ; et, pour que l'état soit dans un bon équilibre, il faut, tout compensé, qu'il y ait égalité entre le produit ou la puissance du gouvernement pris en lui-même, et le produit ou la puissance des citoyens, qui sont souverain d'un côté et sujets de l'autre.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 De plus, on ne saurait altérer aucun des trois termes sans rompre à l'instant la proportion. Si le souverain veut gouverner, ou si le magistrat veut donner des lois, ou si les sujets refusent d'obéir, le désordre succède à la règle, la force et la volonté n'agissent plus de concert, et l'état dissous tombe ainsi dans le despotisme ou dans l'anarchie. Enfin, comme il n'y a qu'une moyenne proportionnelle entre chaque rapport, il n'y a non plus qu'un bon gouvernement possible dans un état : mais, comme mille événements peuvent changer les rapports d'un peuple, non seulement différents gouvernements peuvent être bons à divers peuples, mais au même peuple en différents temps.
 
@@ -406,7 +406,7 @@ Donc, plus les magistrats sont nombreux, plus le gouvernement est faible. Comme 
 
 Nous pouvons distinguer dans la personne du magistrat trois volontés essentiellement différentes : premièrement, la volonté propre de l'individu, qui ne tend qu'à son avantage particulier ; secondement, la volonté commune des magistrats, qui se rapporte uniquement à l'avantage du prince, et qu'on peut appeler volonté de corps, laquelle est générale par rapport au gouvernement, et particulière par rapport à l'état, dont le gouvernement fait partie ; en troisième lieu, la volonté du peuple ou la volonté souveraine, laquelle est générale, tant par rapport à l'état considéré comme le tout, que par rapport au gouvernement considéré comme partie du tout.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Dans une législation parfaite, la volonté particulière ou individuelle doit être nulle ; la volonté de corps propre au gouvernement très subordonnée ; et par conséquent la [volonté générale](/positions/general_will) ou souveraine toujours dominante et la règle unique de toutes les autres.
 
@@ -452,7 +452,7 @@ Il n'est pas bon que celui qui fait les lois les exécute, ni que le corps du pe
 
 En effet, je crois pouvoir poser en principe que, quand les fonctions du gouvernement sont partagées entre plusieurs tribunaux, les moins nombreux acquièrent tôt ou tard la plus grande autorité, ne fût-ce qu'à cause de la facilité d'expédier les affaires, qui les y amène naturellement.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 D'ailleurs, que de choses difficiles à réunir ne suppose pas ce gouvernement ! Premièrement, un état très petit, où le peuple soit facile à rassembler, et où chaque citoyen puisse aisément connaître tous les autres ; secondement, une grande simplicité de mœurs qui prévienne la multitude d'affaires et de discussions épineuses ; ensuite beaucoup d'égalité dans les rangs et dans les fortunes, sans quoi l'égalité ne saurait subsister longtemps dans les droits et l'autorité ; enfin peu ou point de luxe, car ou le luxe est l'effet des richesses, ou il les rend nécessaires ; il corrompt à la fois le riche et le pauvre, l'un par la possession, l'autre par la convoitise ; il vend la patrie à la mollesse, à la vanité ; il ôte à l'état tous ses citoyens pour les asservir les uns aux autres, et tous à l'opinion.
 
@@ -494,7 +494,7 @@ Ainsi la volonté du peuple, et la volonté du prince, et la force publique de l
 
 Mais s'il n'y a point de gouvernement qui ait plus de vigueur, il n'y en a point où la volonté particulière ait plus d'empire et domine plus aisément les autres : tout marche au même but, il est vrai ; mais ce but n'est point celui de la félicité publique, et la force même de l'administration tourne sans cesse au préjudice de l'état.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Les rois veulent être absolus, et de loin on leur crie que le meilleur moyen de l'être est de se faire aimer de leurs peuples. Cette maxime est très belle, et même très vraie à certains égards : malheureusement, on s'en moquera toujours dans les cours. La puissance qui vient de l'amour des peuples est sans doute la plus grande ; mais elle est précaire et conditionnelle ; jamais les princes ne s'en contenteront. Les meilleurs rois veulent pouvoir être méchants s'il leur plait, sans cesser d'être les maîtres. Un sermonneur politique aura beau leur dire que, la force du peuple étant la leur, leur plus grand intérêt est que le peuple soit florissant, nombreux, redoutable ; ils savent très bien que cela n'est pas vrai. Leur intérêt personnel est premièrement que le peuple soit faible, misérable, et qu'il ne puisse jamais leur résister. J'avoue que, supposant les sujets toujours parfaitement soumis, l'intérêt du prince serait alors que le peuple fût puissant, afin que cette puissance étant sienne le rendît redoutable à ses voisins ; mais, comme cet intérêt n'est que secondaire et subordonné, et que les deux suppositions sont incompatibles, il est naturel que les princes donnent la préférence à la maxime qui leur est le plus immédiatement utile. C'est ce que Samuel représentait fortement aux Hébreux : c'est ce que Machiavel a fait voir avec évidence. En feignant de donner des leçons aux rois, il en a donné de grandes aux peuples. Le Prince de Machiavel est le livre des républicains[637].
 
@@ -518,7 +518,7 @@ De cette même incohérence se tire encore la solution d'un sophisme très famil
 
 Mais si, selon Platon[641], le roi par nature est un personnage si rare, combien de fois la nature et la fortune concourront-elles à le couronner ? Et si l'éducation royale corrompt nécessairement ceux qui la reçoivent, que doit-on espérer d'une suite d'hommes élevés pour régner ? C'est donc bien vouloir s'abuser que de confondre le gouvernement royal avec celui d'un bon roi. Pour voir ce qu'est ce gouvernement en lui-même, il faut le considérer sous des princes bornés ou méchants ; car ils arriveront tels au trône, ou le trône les rendra tels.
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Ces difficultés n'ont pas échappé à nos auteurs ; mais ils n'en sont point embarrassés. Le remède est, disent-ils, d'obéir sans murmure ; Dieu donne les mauvais rois dans sa colère, et il faut les supporter comme des châtiments du ciel. Ce discours est édifiant, sans doute ; mais je ne sais s'il ne conviendrait pas mieux en chaire que dans un livre de politique. Que dire d'un médecin qui promet des miracles, et dont tout l'art est d'exhorter son malade à la patience ? On sait bien qu'il faut souffrir un mauvais gouvernement quand on l'a : la question serait d'en trouver un bon.
 
@@ -560,7 +560,7 @@ Supposons que de deux terrains égaux l'un rapporte cinq et l'autre dix. Si les 
 
 Mais il n'est pas question d'un produit double, et je ne crois pas que personne ose mettre en général la fertilité des pays froids en égalité même avec celle des pays chauds. Toutefois supposons cette égalité ; laissons, si l'on veut, en balance l'Angleterre avec la Sicile, et la Pologne avec l'Égypte : plus au midi, nous aurons l'Afrique et les Indes ; plus au nord, nous n'aurons plus rien. Pour cette égalité de produit, quelle différence dans la culturel En Sicile, il ne faut que gratter la terre ; en Angleterre, que de soins pour la labourer ! Or, là où il faut plus de bras pour donner le même produit, le superflu doit être nécessairement moindre.
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Considérez, outre cela, que la même quantité d'hommes consomme beaucoup moins dans les pays chauds. Le climat demande qu'on y soit sobre pour se porter bien : les Européens qui veulent y vivre comme chez eux périssent tous de dysenterie et d'indigestion. « Nous sommes, dit Chardin, des bêtes carnassières, des loups, en comparaison des Asiatiques. Quelques-uns attribuent la sobriété des Persans à ce que leur pays est moins cultivé et moi, je crois au contraire que leur pays abonde moins en denrées parce qu'il en faut moins aux habitants. Si leur frugalité, continue-t-il, était un effet de la disette du pays, il n'y aurait que les pauvres qui mangeraient peu, au lieu que c'est généralement tout le monde ; et on mangerait plus ou moins en chaque province, selon la fertilité du pays, au lieu que la même sobriété se trouve par tout le royaume. Ils se louent fort de leur manière de vivre, disant qu'il ne faut que regarder leur teint pour reconnaître combien elle est plus excellente que celle des chrétiens. En effet, le teint des Persans est uni, ils ont la peau belle, fine et polie ; au lieu que le teint des Arméniens, leurs sujets, qui vivent à l'européenne, est rude, couperosé, et que leurs corps sont gros et pesants. »
 
@@ -602,7 +602,7 @@ Pour donner différents noms à différentes choses, j'appelle tyran l'usurpateu
 
 Chapitre 11. – De la mort du corps politique.
 
-<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Telle est la pente naturelle et inévitable des gouvernements les mieux constitués. Si Sparte et Rome ont péri, quel état peut espérer de durer toujours ? Si nous voulons former un établissement durable, ne songeons donc point à le rendre éternel. Pour réussir il ne faut pas tenter l'impossible, ni se flatter de donner à l'ouvrage des hommes une solidité que les choses humaines ne comportent pas.
 
@@ -654,7 +654,7 @@ Sitôt que le service public cesse d'être la principale affaire des citoyens, e
 
 C'est le tracas du commerce et des arts, c'est l'avide intérêt du gain, c'est la mollesse et l'amour des commodités, qui changent les services personnels en argent. On cède une partie de son profit pour l'augmenter à son aise. Donnez de l'argent, et bientôt vous aurez des fers. Ce mot de finance est un mot d'esclave, il est inconnu dans la cité. Dans un pays vraiment libre, les citoyens font tout avec leurs bras, et rien avec de l'argent ; loin de payer pour s'exempter de leurs devoirs, ils payeraient pour les remplir eux-mêmes. Je suis bien loin des idées communes ; je crois les corvées moins contraires à la liberté que les taxes.
 
-<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mieux l’état est constitué, plus les affaires publiques l'emportent sur les privées, dans l'esprit des citoyens. Il y a même beaucoup moins d'affaires privées, parce que la somme du bonheur commun fournissant une portion plus considérable à celui de chaque individu, il lui en reste moins à chercher dans les soins particuliers. Dans une cité bien conduite, chacun vole aux assemblées ; sous un mauvais gouvernement, nul n'aime à faire un pas pour s'y rendre, parce que nul ne prend intérêt à ce qui s'y fait, qu'on prévoit que la [volonté générale](/positions/general_will) n'y dominera pas, et qu'enfin les soins domestiques absorbent tout. Les bonnes lois en font faire de meilleures, les mauvaises en amènent de pires. Sitôt que quelqu'un dit des affaires de l'état : Que m'importe ? on doit compter que l'état est perdu.
 
@@ -698,7 +698,7 @@ Sous quelle idée faut-il donc concevoir l'acte par lequel le gouvernement est i
 
 Par le premier, le souverain statue qu'il y aura un corps de gouvernement établi sous telle ou telle [forme](/positions/realism_of_ideas) ; et il est clair que cet acte est une loi.
 
-<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Par le second, le peuple nomme les chefs qui seront chargés du gouvernement établi. Or cette nomination, étant un acte particulier, n'est pas une seconde loi, mais seulement une suite de la première et une fonction du gouvernement.
 
@@ -742,7 +742,7 @@ Mais quand le nœud social commence à se relâcher et l'état à s'affaiblir, q
 
 Enfin, quand l'état, près de sa ruine, ne subsiste plus que par une forme illusoire et vaine, que le lien social est rompu dans tous les cœurs, que le plus vil intérêt se pare effrontément du nom sacré du bien public, alors la volonté générale devient muette ; tous, guidés par des motifs secrets, n'opinent pas plus comme citoyens que si l'état n'eût jamais existé ; et l'on fait passer faussement sous le nom de lois des décrets iniques qui n'ont pour but que l'intérêt particulier.
 
-<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 S'ensuit-il de là que la [volonté générale](/positions/general_will) soit anéantie ou corrompue ? Non : elle est toujours constante, inaltérable et pure ; mais elle est subordonnée à d'autres qui l'emportent sur elle. Chacun, détachant son intérêt de l'intérêt commun, voit bien qu'il ne peut l'en séparer tout à fait ; mais sa part du mal public ne lui paraît rien auprès du bien exclusif qu'il prétend s'approprier. Ce bien particulier excepté, il veut le bien général pour son propre intérêt, tout aussi fortement qu'aucun autre. Même en vendant son suffrage à prix d'argent, il n'éteint pas en lui la volonté générale, il l'élude. La faute qu'il commet est de changer l'état de la question et de répondre autre chose que ce qu'on lui demande ; en sorte qu'au lieu de dire, par un suffrage : « Il est avantageux à l'état », il dit : « Il est avantageux à tel homme ou à tel parti que tel ou tel avis passe. » Ainsi la loi de l'ordre public dans les assemblées n'est pas tant d'y maintenir la volonté générale que de faire qu'elle soit toujours interrogée et qu'elle réponde toujours.
 
@@ -784,7 +784,7 @@ Dans toute véritable démocratie, la magistrature n'est pas un avantage, mais u
 
 Dans l'aristocratie le prince choisit le prince, le gouvernement se conserve par lui-même, et c'est là que les suffrages sont bien placés.
 
-<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 L'exemple de l'élection du doge de Venise confirme cette distinction, loin de la détruire : cette [forme](/positions/realism_of_ideas) mêlée convient dans un gouvernement mixte. Car c'est une erreur de prendre le gouvernement de Venise pour une véritable aristocratie. Si le peuple n'y a nulle part au gouvernement, la noblesse y est peuple elle-même. Une multitude de pauvres Barnabotes n'approcha jamais d'aucune magistrature, et n'a de sa noblesse que le vain titre d'excellence et le droit d'assister au grand conseil. Ce grand conseil étant aussi nombreux que notre conseil général à Genève, ses illustres membres n'ont pas plus de privilèges que nos simples citoyens. Il est certain qu'ôtant l'extrême disparité des deux républiques, la bourgeoisie de Genève représente exactement le patriciat vénitien ; nos natifs et habitants représentent les citadins et le peuple de Venise ; nos paysans représentent les sujets de terre ferme : enfin, de quelque manière que l'on considère cette république, abstraction faite de sa grandeur, son gouvernement n'est pas plus aristocratique que le nôtre. Toute la différence est que, n'ayant aucun chef à vie, nous n'avons pas le même besoin du sort.
 
@@ -822,7 +822,7 @@ Premièrement, les censeurs, après s'être arrogé longtemps le droit de transf
 
 Il arriva encore que les tribus de la ville, étant plus à portée, se trouvèrent souvent les plus fortes dans les comices, et vendirent l'état à ceux qui daignaient acheter les suffrages de la canaille qui les composait.
 
-<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 À l'égard des curies, l'instituteur, en ayant fait dix en chaque tribu, tout le peuple romain, alors renfermé dans les murs de la ville, se trouva composé de trente curies, dont chacune avait ses temples, ses dieux, ses officiers, ses prêtres et ses fêtes, appelées compitalia, semblables aux paganalia, qu'eurent dans la suite les tribus rustiques.
 
@@ -852,7 +852,7 @@ Cette même forme des curies ayant subsisté sous les rois jusqu'à Servius, et 
 
 Sous la république, les curies, toujours bornées aux quatre tribus urbaines, et ne contenant plus que la populace de Rome, ne pouvaient convenir ni au sénat, qui était à la tête des patriciens, ni aux tribuns qui, quoique plébéiens, étaient à la tête des citoyens aisés. Elles tombèrent donc dans le discrédit ; leur avilissement fut tel, que leurs trente licteurs assemblés faisaient ce que les comices par curies auraient dû faire.
 
-<span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 La division par centuries était si favorable à l'aristocratie, qu'on ne voit pas d'abord comment le sénat ne l'emportait pas toujours dans les comices qui portaient ce nom, et par lesquels étaient élus les consuls, les censeurs et les autres magistrats curules. En effet, de cent quatre-vingt-treize centuries qui formaient les six classes de tout le peuple romain, la première classe en comprenant quatre-vingt-dix-huit, et les voix ne se comptant que par centuries, cette seule première classe l'emportait en nombre de voix sur toutes les autres. Quand toutes ces centuries étaient d'accord, on ne continuait pas même à recueillir les suffrages ; ce qu'avait décidé le plus petit nombre passait pour une décision de la multitude ; et l'on peut dire que, dans les comices par centuries, les affaires se réglaient à la pluralité des écus bien plus qu'à celle des voix.
 
@@ -886,7 +886,7 @@ Le tribunat n'est point une partie constitutive de la cité, et ne doit avoir au
 
 Le tribunat, sagement tempéré, est le plus ferme appui d'une bonne constitution ; mais pour peu de force qu'il ait de trop, il renverse tout : à l'égard de la faiblesse, elle n'est pas dans sa nature ; et pourvu qu'il soit quelque chose, il n'est jamais moins qu’il ne faut.
 
-<span class="atom-split" data-atom="024" data-title="Parte 24" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Parte 24" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Il dégénère en tyrannie quand il usurpe la puissance exécutive, dont il n'est que le modérateur, et qu'il veut dispenser des lois, qu'il ne doit que protéger. L'énorme pouvoir des éphores, qui fut sans danger tant que Sparte conserva ses mœurs, en accéléra la corruption commencée. Le sang d'Agis, égorgé par ces tyrans, fut vengé par son successeur : le crime et le châtiment des éphores hâtèrent également la perte de la république ; et après Cléomène, Sparte ne fut plus rien. Rome périt encore par la même voie ; et le pouvoir excessif des tribuns, usurpé par décret, servit enfin, à l'aide des lois faites pour la liberté, de sauvegarde aux empereurs qui la détruisirent. Quant au conseil des Dix, à Venise, c'est un tribunal de sang, horrible également aux patriciens et au peuple, et qui, loin de protéger hautement les lois, ne sert plus, après leur avilissement, qu'à porter dans les ténèbres des coups qu'on n'ose apercevoir.
 
@@ -930,7 +930,7 @@ Loin donc que le tribunal censorial soit l'arbitre de l'opinion du peuple, il n'
 
 Il est inutile de distinguer les mœurs d'une nation des objets de son estime ; car tout cela tient au même principe et se confond nécessairement. Chez tous les peuples du monde, ce n'est point la nature, mais l'opinion, qui décide du choix de leurs plaisirs. Redressez les opinions des hommes, et leurs mœurs s'épureront d'elles-mêmes. On aime toujours ce qui est beau ou ce qu'on trouve tel ; mais c'est sur ce jugement qu'on se trompe ; c'est donc ce jugement qu'il s'agit de, régler.
 
-<span class="atom-split" data-atom="025" data-title="Parte 25" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Parte 25" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Qui juge des mœurs juge de l'honneur ; et qui juge de l'honneur prend sa loi de l'opinion.
 
@@ -970,7 +970,7 @@ Cependant, comme il y a toujours eu un prince et des lois civiles, il a résult�
 
 Plusieurs peuples cependant, même dans l'Europe ou à son voisinage, ont voulu conserver ou rétablir l'ancien système, mais sans succès ; l'esprit du christianisme a tout gagné. Le culte sacré est toujours resté ou redevenu indépendant du souverain, et sans liaison nécessaire avec le corps de l’état. Mahomet eut des vues très saines, il lia bien son système politique ; et, tant que la [forme](/positions/realism_of_ideas) de son gouvernement subsista sous les califes ses successeurs, ce gouvernement fut exactement un, et bon en cela. Mais les Arabes, devenus florissants, lettrés, [polis](/concepts/state), mous et lâches, furent subjugués par des barbares : alors la division entre les deux puissances recommença. Quoiqu'elle soit moins apparente chez les mahométans que chez les chrétiens, elle y est pourtant, surtout dans la secte d'Ali ; et il y a des états, tels que la Perse, où elle ne cesse de se faire sentir.
 
-<span class="atom-split" data-atom="026" data-title="Parte 26" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Parte 26" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Parmi nous, les rois d'Angleterre se sont établis chefs de l'Église ; autant en ont fait les czars mais, par ce titre, ils s'en sont moins rendus les maîtres que les ministres ; ils ont moins acquis le droit de la changer que le pouvoir de la maintenir, ils n'y sont pas législateurs, ils ne sont que princes. Partout où le clergé fait un corps[669], il est maître et législateur dans sa patrie. Il y a donc deux puissances, deux souverains, en Angleterre et en Russie, tout comme ailleurs.
 
@@ -1004,7 +1004,7 @@ Pour que la société fût paisible et que l'harmonie se maintînt, il faudrait 
 
 Survient-il quelque guerre étrangère, les citoyens marchent sans peine au combat ; nul d'entre eux ne songe à fuir ; ils font leur devoir, mais sans passion pour la victoire ; ils savent plutôt mourir que vaincre. Qu'ils soient vainqueurs ou vaincus, qu'importe ? La Providence ne sait-elle pas mieux qu'eux ce qu'il leur faut ? Qu'on imagine quel parti un ennemi fier, impétueux, passionné, peut tirer de leur stoïcisme ! Mettez vis-à-vis d'eux ces peuples généreux que dévorait l'ardent amour de la gloire et de la patrie, supposez votre république chrétienne vis-à-vis de Sparte ou de Rome : les pieux chrétiens seront battus, écrasés, détruits, avant d'avoir eu le temps de se reconnaître, ou ne devront leur salut qu'au mépris que leur ennemi concevra pour eux. C'était un beau serment à mon gré que celui des soldats de Fabius ; ils ne jurèrent pas de mourir ou de vaincre, ils jurèrent de revenir vainqueurs, et tinrent leur serment[671]. Jamais des chrétiens n'en eussent fait un pareil ; ils auraient cru tenter Dieu.
 
-<span class="atom-split" data-atom="027" data-title="Parte 27" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Parte 27" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mais je me trompe en disant une république chrétienne ; chacun de ces deux mots exclut l'autre. Le christianisme ne prêche que servitude et dépendance. Son esprit est trop favorable à la tyrannie pour qu'elle n'en profite pas toujours. Les vrais chrétiens sont faits pour être esclaves, ils le savent et ne s'en émeuvent guère ; cette courte vie a trop peu de prix à leurs yeux.
 

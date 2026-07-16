@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/parmenides" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="PARMENIDES" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="PARMENIDES" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -60,7 +60,7 @@ I see, Parmenides, said Socrates, that Zeno would like to be not only one with y
 
 Yes, Socrates, said Zeno. But although you are as keen as a Spartan hound in pursuing the track, you do not fully apprehend the true motive of the composition, which is not really such an artificial work as you imagine; for what you speak of was an accident; there was no pretence of a great purpose; nor any serious intention of deceiving the world. The truth is, that these writings of mine were meant to protect the arguments of Parmenides against those who make fun of him and seek to show the many ridiculous and contradictory results which they suppose to follow from the affirmation of the one. My answer is addressed to the partisans of the many, whose attack I return with interest by retorting upon them that their hypothesis of the being of many, if carried out, appears to be still more ridiculous than the hypothesis of the being of one. Zeal for my master led me to write the book in the days of my youth, but some one stole the copy; and therefore I had no choice whether it should be published or not; the motive, however, of writing, was not the ambition of an elder man, but the pugnacity of a young one. This you do not seem to see, Socrates; though in other respects, as I was saying, your notion is a very just one.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 I understand, said [Socrates](/figures/socrates), and quite accept your account. But tell me, Zeno, do you not further think that there is an idea of likeness in itself, and another idea of unlikeness, which is the opposite of likeness, and that in these two, you and I and all other things to which we apply the term many, participate — things which participate in likeness become in that degree and manner like; and so far as they participate in unlikeness become in that degree unlike, or both like and unlike in the degree in which they participate in both? And may not all things partake of both opposites, and be both like and unlike, by reason of this participation? — Where is the wonder? Now if a person could prove the absolute like to become unlike, or the absolute unlike to become like, that, in my opinion, would indeed be a wonder; but there is nothing extraordinary, Zeno, in showing that the things which only partake of likeness and unlikeness experience both. Nor, again, if a person were to show that all is one by partaking of one, and at the same time many by partaking of many, would that be very astonishing. But if he were to show me that the absolute one was many, or the absolute many one, I should be truly amazed. And so of all the rest: I should be surprised to hear that the natures or ideas themselves had these opposite qualities; but not if a person wanted to prove of me that I was many and also one. When he wanted to show that I was many he would say that I have a right and a left side, and a front and a back, and an upper and a lower half, for I cannot deny that I partake of multitude; when, on the other hand, he wants to prove that I am one, he will say, that we who are here assembled are seven, and that I am one and partake of the one. In both instances he proves his case. So again, if a person shows that such things as wood, stones, and the like, being many are also one, we admit that he shows the coexistence of the one and many, but he does not show that the many are one or the one many; he is uttering not a paradox but a truism. If however, as I just now suggested, some one were to abstract simple notions of like, unlike, one, many, rest, motion, and similar ideas, and then to show that these admit of admixture and separation in themselves, I should be very much astonished. This part of the argument appears to be treated by you, Zeno, in a very spirited manner; but, as I was saying, I should be far more amazed if any one found in the ideas themselves which are apprehended by reason, the same puzzle and entanglement which you have shown to exist in visible objects.
 
@@ -138,7 +138,7 @@ I imagine that the way in which you are led to assume one idea of each kind is a
 
 Very true, said Socrates.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And if you go on and allow your mind in like manner to embrace in one view the idea of greatness and of great things which are not the idea, and to compare them, will not another greatness arise, which will appear to be the source of all these?
 
@@ -284,7 +284,7 @@ But, then, what is to become of philosophy? Whither shall we turn, if the ideas 
 
 I certainly do not see my way at present.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Yes, said Parmenides; and I think that this arises, [Socrates](/figures/socrates), out of your attempting to define the beautiful, the just, the good, and the ideas generally, without sufficient previous training. I noticed your deficiency, when I heard you talking here with your friend Aristoteles, the day before yesterday. The impulse that carries you towards philosophy is assuredly noble and divine; but there is an art which is called by the vulgar idle talking, and which is often imagined to be useless; in that you must train and exercise yourself, now that you are young, or truth will elude your grasp.
 
@@ -430,7 +430,7 @@ Impossible.
 
 But perhaps the motion of the one consists in change of place?
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Perhaps so, if it moves at all.
 
@@ -694,7 +694,7 @@ And do not ‘will be,’ ‘will become,’ ‘will have become,’ signify a p
 
 Yes.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And ’is,’ or ‘becomes,’ signifies a participation of present time?
 
@@ -940,7 +940,7 @@ Then not only the one which has being is many, but the one itself distributed by
 
 Certainly.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Further, inasmuch as the parts are parts of a whole, the one, as a whole, will be limited; for are not the parts contained by the whole?
 
@@ -1194,7 +1194,7 @@ Then when we say that the others are other than the one, and the one other than 
 
 Quite true.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Then the one which is other than others, and the other which is other than the one, in that the word ‘other’ is applied to both, will be in the same condition; and that which is in the same condition is like?
 
@@ -1424,7 +1424,7 @@ But, surely, that which is must always be somewhere?
 
 Yes.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 But that which is in anything will be less, and that in which it is will be greater; in no other way can one thing be in another.
 
@@ -1622,7 +1622,7 @@ Then the one is of the same age with all the others, so that if the one itself d
 
 Certainly.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 After this manner then the one is and has become. But as to its becoming older and younger than the others, and the others than the one, and neither older nor younger, what shall we say? Shall we say as of being so also of becoming, or otherwise?
 
@@ -1786,7 +1786,7 @@ True.
 
 All these, then, are the affections of the one, if the one has being.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Of course.
 
@@ -1986,7 +1986,7 @@ Therefore they are neither the same, nor other, nor in motion, nor at rest, nor 
 
 Very true.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Therefore if one is, the one is all things, and also nothing, both in relation to itself and to other things.
 
@@ -2220,7 +2220,7 @@ And, further, if not moved in any way, it will not be altered in any way?
 
 No.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Then, in so far as the one that is not is moved, it is altered, but in so far as it is not moved, it is not altered?
 
@@ -2454,7 +2454,7 @@ Nor as like or unlike?
 
 No.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Nor as the same or different, nor in contact or separation, nor in any of those states which we enumerated as appearing to be; — the others neither are nor appear to be any of these, if one is not?
 

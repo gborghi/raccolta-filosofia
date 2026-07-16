@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/golpe_de_timón" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Golpe de timón" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Golpe de timón" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La República española tiene que rectificar su ruta. Con extremada urgencia. ¿Hacia la derecha? ¿Hacia la izquierda? Precisamente estas palabras son el origen de la confusión y de la desgracia en la marcha de la República. El golpe de timón que es urgentísimo dar no deberá ir de la derecha hacia la izquierda ni de la izquierda hacia la derecha. ¡Error mortal, sencillamente mortal, plantear así la cuestión! Lo que es ineludible hacer es virar de lo falso hacia lo auténtico. El tono que se ha dado a la vida republicana es falso: no responde a su origen ni a la realidad profunda de la nación. El nuevo régimen nació del ansia que España, en su casi totalidad, sentía hacia un orden superior. La monarquía se había convertido en el desorden sustancial.
 

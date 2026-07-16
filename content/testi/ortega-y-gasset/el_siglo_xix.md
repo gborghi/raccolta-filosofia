@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_siglo_xix" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El siglo XIX" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El siglo XIX" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Con un esfuerzo de deportiva agilidad brinquemos tres siglos y detengámonos en 1800. ¿Qué ha pasado entretanto con los libros? Se han publicado muchos; la imprenta se ha hecho más barata. Ya no se siente que hay pocos libros; son tantos los que hay, que se siente la necesidad de catalogarlos. Esto en cuanto a su materialidad. En cuanto a su contenido, la necesidad sentida por la sociedad ha variado también. Buena parte de las esperanzas que en el libro se tuvieron parecen cumplidas. En el mundo hay ya lo que antes no había: las ciencias de la naturaleza y del pasado, los conocimientos técnicos. Ahora se siente la necesidad, no de buscar libros —esto ha dejado de ser verdadero problema—, sino la de fomentar la lectura, la de buscar lectores. Y, en efecto, en esta etapa las bibliotecas se multiplican y con ellas el bibliotecario. Es ya una profesión que ocupa a muchos hombres, pero aún es una profesión social espontánea. Todavía el Estado no la ha hecho oficial.
 

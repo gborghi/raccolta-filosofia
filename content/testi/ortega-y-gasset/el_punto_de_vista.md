@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_punto_de_vista" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El punto de vista" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El punto de vista" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La historia recompone el pasado en grandes cuadros sintéticos, recorta la figura de los grandes sucesos, de los advenimientos, de las catástrofes. Tiene, en suma, su propia perspectiva. El memorialista corre siempre el riesgo de dejarse absorber por esa perspectiva histórica. Entonces su obra pierde gracia y autenticidad porque le falta evidencia. La historia no es recuerdo, sino una reconstrucción intelectual del pasado. A fuer de reconstrucción intelectual, adopta un punto de vista irreal. El historiador asiste a la vida toda de un pueblo o de un hombre. Esto quiere decir que, en rigor, no asiste a nada. Todas las partes de la realidad, cuya historia nos hace, están en primer plano y a igual distancia de él, como miradas por la pupila ubicua de un dios. En cambio, el recuerdo impone siempre a lo real una perspectiva privada, modela el paisaje, distribuyéndolo en primeros y últimos términos; sobre todo, traza la órbita de un horizonte redondo, más allá del cual no vemos nada.
 

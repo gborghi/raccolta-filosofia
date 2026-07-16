@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_rostro_maravillado" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El rostro maravillado" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El rostro maravillado" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La villégiature se lleva a los ciudadanos de las ciudades y los deja en lugares rientes donde el estío abre el arca de sus secretos. ¡Pobres habitantes de estas urbes opresoras, siniestramente mudas, que son para el alma como gigantescos plomos venecianos! Los misérrimos urbícolas se encuentran al llegar al campo, a un campo lejano e ingenuo, desde donde no se oye el resoplido de la ciudad, con tantas cosas nuevas… Por ejemplo: una noche estrellada; esta grande alma de una noche limpia es un descubrimiento, un hallazgo desconcertante para quien vive diez meses prisionero en Madrid. Madrid no tiene noches ni estrellas y es en las horas nocturnas círculo trágico, como los dantescos, en que han cesado casualmente los quejidos de los eternos espíritus dolientes. No se mira en ellas al cielo: se echa a andar por las calles que con las torvas luces de los faroles parecen rodearnos de odio. En la sombra de un recodo se entrevé, acaso, la disputa de una pareja. La mujer desarrapada sacude nerviosamente unos brazos largos y escuálidos, como sarmientos. El hombre calla resignado e inmóvil; entre ellos, se supone, vibra algún drama horrible y sucio. Todas estas cosas son opacas a las sutiles influencias de la naturaleza: por eso se las llama prosaicas.
 
@@ -74,7 +74,7 @@ Ahora que hay tantas mujeres ciudadanas por las campiñas y por las playas; ahor
 
 Isabel de Baviera exclamaba: «Nuestras casas deben ser tales que no puedan destruir las ilusiones que de fuera llevamos a ellas».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sé que muchos hombres sienten un frío de desolación al entrar en sus hogares porque allí escuchan con más claridad que en otras partes el ruido torpe, mohoso, chabacano, que hace la vida al girar sobre sus goznes.
 

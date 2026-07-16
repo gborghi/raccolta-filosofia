@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/marx/mr_george_howells_history_of_the_international_working-mens_association" data-philosopher="Marx"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="MR. GEORGE HOWELL’S HISTORY OF THE INTERNATIONAL WORKING-MEN’S ASSOCIATION" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="MR. GEORGE HOWELL’S HISTORY OF THE INTERNATIONAL WORKING-MEN’S ASSOCIATION" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 Published in The Secular Chronicle, And Record of Freethought [Progress](/positions/progress), August 4, 1878
 
@@ -81,7 +81,7 @@ The Council, in its published Report to the Congress of Basle (1869), ridicules 
 
 “If these people, though good Christians, had happened to live at the time of nascent Christianity, they would have hurried to a Roman bank there to pry into St. Paul’s balance.”
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Mr. Ernest Renan who, it is true, falls somewhat short of Mr. George Howell’s standard of orthodoxy, even fancies [the state](/concepts/state) of the primitive Christian communes sapping the Roman Empire might be best illustrated by that of the International Sections.
 

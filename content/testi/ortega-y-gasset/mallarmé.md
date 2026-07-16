@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/mallarmé" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Mallarmé" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Mallarmé" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El 11 de septiembre de 1923, amigos españoles de Mallarmé se reunían en el Jardín Botánico de Madrid para conmemorar con un silencio de cinco minutos el XXV aniversario de su muerte. Los reunidos fueron: José Ortega y Gasset, Eugenio d’Ors, Enrique Díez-Canedo, José Moreno Villa, José María Chacón, Antonio Marichalar, José Bergamín, Mauricio Bacarisse y Alfonso Reyes.
 

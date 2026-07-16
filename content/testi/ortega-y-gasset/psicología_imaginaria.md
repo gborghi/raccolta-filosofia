@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/psicología_imaginaria" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Psicología Imaginaria" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Psicología Imaginaria" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Estas notas sobre la novela van mostrando un aire tan resuelto de no acabar nunca, que se hace menester darles fin de una manera violenta. Un paso más sería fatal. Porque hasta aquí se han mantenido en un orden de amplia generalidad, eludiendo toda casuística. Y acontece que en estética, como en moral, los principios genéricos son únicamente la cuadrícula que se traza en vista de la casuística, del análisis más concreto. Donde éste se inicia comienza lo más seductor de la cuestión, pero a la vez se pone la planta en un área sin límites. Conviene, pues, aprovechar el último momento de cordura y detenerse.
 

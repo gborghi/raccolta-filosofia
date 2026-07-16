@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/seneca/the_phoenician_women" data-philosopher="Seneca"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="THE PHOENICIAN WOMEN" data-chapter="DRAMATIS PERSONAE" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="THE PHOENICIAN WOMEN" data-chapter="DRAMATIS PERSONAE" data-kind="intro" data-srclang="en"></span>
 
 OEDIPUS, late king of Thebes.
 
@@ -38,7 +38,7 @@ THE SCENE is laid, first in the wild country to which Oedipus, accompanied by An
 
 THE TIME is three years after the downfall of Oedipus.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
 
 The stroke of fate, that has been threatening Oedipus since long before his birth, has fallen at last, and he has done the thing he feared to do. And now, self-blinded and self-exiled from his land, he has for three years wandered in rough and trackless places, attended by Antigone, his daughter, who, alone of all his friends, has condoned his fated sins and remained attached to him.
 
@@ -46,7 +46,7 @@ Meanwhile his sons, though they agreed to reign alternate years, are soon to mee
 
 [By a different version from the “Oedipus,” Jocasta did not slay herself at once as in that tale, but still is living on in grief and shame, and strives to reconcile her sons.]
 
-<span class="atom-split" data-atom="003" data-title="PHOENISSAE (1/5)" data-chapter="PHOENISSAE" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="PHOENISSAE (1/5)" data-chapter="PHOENISSAE" data-kind="atom" data-srclang="en"></span>
 
 OEDIPUS
 
@@ -68,7 +68,7 @@ OEDIPUS
 
 A speech of Antigone may have dropped out at this point, or Oedipus may hark back to the earlier speech of Antigone after a dramatic pause. Leo holds that the hiatus is, as Swoboda thinks, left by the poet himself.
 
-<span class="atom-split" data-atom="004" data-title="PHOENISSAE (2/5)" data-chapter="PHOENISSAE" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="PHOENISSAE (2/5)" data-chapter="PHOENISSAE" data-kind="atom" data-srclang="en"></span>
 
 [140] Why dost thou waste further words? Why dost try to soften my hard heart with prayers? My will is fixed to pour forth this life which has long been struggling with death ,and to seek the nether darkness; for this deep night is not deep enough for my crime; in Tartarus would I be buried, or if there be aught deeper than Tartarus; ’tis pleasing to do at last what long ago I should have done. I cannot be kept from death. Wilt withhold the sword? Wilt bar paths where I might fall to death? Wilt keep my neck from the choking noose? Wilt remove death-bringing herbs? What, pray, will that care of thine accomplish? Death is everywhere. This hath God with wisdom excellent provided: of life anyone can rob a man, but of death no one; to this a thousand doors lie open. I ask for naught. This right hand, though bare, my soul hath practice to use well – O hand of mine, come now with all thy force, with all thy smarting rage, with all thy might. Not one spot only do I mark out for the wound – I am all sin; inflict death where thou wilt. Break through my breast and tear out my heart, which has room for so many crimes; lay bare my vitals, every nook; rain resounding blows upon my neck until it break, and let my veins flow, torn by my gouging fingers. Or aim thy mad attack at the accustomed place; these wounds reopen; bathe them in streams of blood and gore; through this passage drag out my stubborn life, impregnable. And do thou, my father, where’er thou standst as arbiter of my sufferings – I have never deemed that this grievous crime of mine was sufficiently atoned by any suffering, nor have I been content with such death as this, nor have I bought my pardon with a portion of myself; limb by limb have I desired to die for thee – at length exact the debt. Now am I paying my penalty; before, I did but offer sacrifices to thy ghost. Come to my aid, help me to plunge my nerveless hand deep down and deeper; timidly, aforetime, and with but a meagre outpouring did it sprinkle my head, when it scarce drew forth the eyes that yearned to follow. Even now this soul of mine halts, yes halts, when my face has bent downward to my shrinking hands. Thou shalt hear the truth, Oedipus: less boldly didst thou pluck out thine eyes than thou didst undertake to do. Thrust now thy hand e’en to the brain; through that door whereby I began to die fulfil my death.
 
@@ -86,7 +86,7 @@ OEDIPUS
 
 [241] Stand off! My soul will not listen to any prayers and seeks some new punishment to match its crimes. And what match can there be? Even in my infancy I was doomed to death. Who ever drew lot so sad? I had not yet seen the light, was still imprisoned in the womb, and already I was held in fear. Some there are whom straightway at birth night hath seized upon and snatched from their first dawn; but on me death came ere birth. Some, while still within the mother’s womb, have suffered untimely death; but have they sinned also? Hidden away, confined, my very being in doubt, the god made me guilty of a charge unspeakable. On that charge my sire condemned me, spitted my slender ankles on hot iron, and sent me to he deep forest as prey for wild beasts and savage birds which baleful Cithaeron, oft stained with royal blood, doth breed. Yet him whom God condemned, whom his sire cast away, hath death also shunned. I kept faith with Delphi; I assailed my father and with impious death-stroke slew him. For this another act of piety will atone; I killed my father, true, but my mother – I loved. Oh, ’tis shame to speak of wedlock and my marriage torches. But this punishment also force thyself to bear through against thy will; proclaim thy crime, unheard of, bestial, unexampled, at which nations would shudder, which no age would believe ever befell, which would put even a parricide to shame: into my father’s bed I bore hands smeared with my father’s blood, and there, as the reward of my crime, I did worse crime.
 
-<span class="atom-split" data-atom="005" data-title="PHOENISSAE (3/5)" data-chapter="PHOENISSAE" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="PHOENISSAE (3/5)" data-chapter="PHOENISSAE" data-kind="atom" data-srclang="en"></span>
 
 [270] A trivial sin is my father’s murder; my mother, brought to my marriage chamber, that my guilt might be complete, conceived – no greater crime than this can nature brook. And yet, if there is even now worse crime, we have given the world those who can commit it. I have flung away the sceptre, price of my father’s murder, and this, again, has armed other hands. I myself best know my kingdom’s destiny; no one unstained by sacred blood shall bear sway there. Dire misfortunes my father-soul presages. Already are sown the seeds of calamity to come; the plighted pact is scorned. The one will not retire from the throne he has usurped; the other proclaims his right, calls on the gods to witness the broken bond, and, wandering in exile, is rousing Argos and the cities of Greece to arms. ’Tis no light destruction that is coming on weary Thebes; weapons, flames, wounds press round her and a greater ill than these, if greater there be, – that all may know I have begotten sons.
 
@@ -134,7 +134,7 @@ ANTIGONE
 
 [403] Hasten, mother, hasten on flying feet! hold back their weapons, strike the steel from my brothers’ hands, set thy bared breast between their hostile swords! Either stop the war, mother, or be the first to feel it.
 
-<span class="atom-split" data-atom="006" data-title="PHOENISSAE (4/5)" data-chapter="PHOENISSAE" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="PHOENISSAE (4/5)" data-chapter="PHOENISSAE" data-kind="atom" data-srclang="en"></span>
 
 JOCASTA
 
@@ -182,7 +182,7 @@ JOCASTA
 
 [515] O son, returned to me after so many years, son, fear and hope of thy anxious mother, for sight of whom I have ever prayed the gods, though thy return was destined to take as much from me as by thy coming it could give: “When shall I cease to fear for thee?” I cried; and the god, mocking me, answered: “’Tis himself thou shalt fear.” Surely if there were no war, I should be without thee; surely if thou wert not here, I should be free from war. Oh, bitter price and hard, to pay for a sight of thee; but thy mother pays it willingly. Only let thy hostile hosts fall back while as yet savage Mars dares no impious crime. Even this is an outrageous crime, that they have come so near. I am appalled; pale am I and I tremble to see two brothers stand, one here, one there, ‘neath guilt’s o’erhanging stroke. My limbs quake with fear: how near did I, thy mother, come to seeing greater infamy than that which thy wretched father could not bear to see. Though I am free from fear of so great a crime, and now see no such thing, still I am unhappy because I almost saw it.
 
-<span class="atom-split" data-atom="007" data-title="PHOENISSAE (5/5)" data-chapter="PHOENISSAE" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="PHOENISSAE (5/5)" data-chapter="PHOENISSAE" data-kind="atom" data-srclang="en"></span>
 
 [535] By the womb that bore thee for ten weary months, by the devotion of thy noble sister, by thy self-hating father’s eyes which he, though innocent, yet, seeking to inflict on himself dire punishment for his mistake, tore from their sockets – save thy country’s walls from eh accursed torch; turn back again the standards of this warring host. Though thou shouldst retire, still is the great part of your sin already done; thy country has seen its plains o’errun by hostile hordes, has seen armed squadrons gleaming from afar, the Cadmean meadows trampled by flying hoofs, princes in their chariots careering high, the smoke and flames of blazing torches which seek to burn our homes, and brothers (a crime new even to Thebes) rushing upon each other. This crime the whole army say, this, all the people, this, both thy sisters saw and I, thy mother, saw – for thy father owest it to his own act that he beheld not such deeds. Let Oedipus stand before thee now, in whose judgment even for error is penalty demanded.
 

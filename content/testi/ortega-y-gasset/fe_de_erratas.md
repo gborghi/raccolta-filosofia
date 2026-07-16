@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/fe_de_erratas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Fe de erratas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Fe de erratas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La indisciplina que impera en la convivencia intelectual de los escritores españoles, no sólo hace imposible todo serio intento de polémica, pero ni siquiera invita a las más sobrias rectificaciones. Sin embargo, yo quisiera atreverme esta vez a corregir unas erratas que aparecieron ayer en El Sol.
 

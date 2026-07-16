@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/euthyphro" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="EUTHYPHRO" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="EUTHYPHRO" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE: [Socrates](/figures/socrates), Euthyphro.
 
@@ -100,7 +100,7 @@ SOCRATES: Rare friend! I think that I cannot do better than be your disciple. Th
 
 EUTHYPHRO: Yes, indeed, Socrates; and if he attempts to indict me I am mistaken if I do not find a flaw in him; the court shall have a great deal more to say to him than to me.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And I, my dear friend, knowing this, am desirous of becoming your disciple. For I observe that no one appears to notice you — not even this Meletus; but his sharp eyes have found me out at once, and he has indicted me for impiety. And therefore, I adjure you to tell me the nature of piety and impiety, which you said that you knew so well, and of murder, and of other offences against the gods. What are they? Is not piety in every action always the same? and impiety, again — is it not always the opposite of piety, and also the same with itself, having, as impiety, one notion which includes whatever is impious?
 
@@ -206,7 +206,7 @@ SOCRATES: But do they admit their guilt, Euthyphro, and yet say that they ought 
 
 EUTHYPHRO: No; they do not.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Then there are some things which they do not venture to say and do: for they do not venture to argue that the guilty are to be unpunished, but they deny their guilt, do they not?
 
@@ -308,7 +308,7 @@ SOCRATES: But, friend Euthyphro, if that which is holy is the same with that whi
 
 EUTHYPHRO: I really do not know, Socrates, how to express what I mean. For somehow or other our arguments, on whatever ground we rest them, seem to turn round and walk away from us.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Your words, Euthyphro, are like the handiwork of my ancestor Daedalus; and if I were the sayer or propounder of them, you might say that my arguments walk away and will not remain fixed where they are placed because I am a descendant of his. But now, since these notions are your own, you must find some other gibe, for they certainly, as you yourself allow, show an inclination to be on the move.
 
@@ -438,7 +438,7 @@ SOCRATES: And of the many and fair things done by the gods, which is the chief o
 
 EUTHYPHRO: I have told you already, Socrates, that to learn all these things accurately will be very tiresome. Let me simply say that piety or holiness is learning how to please the gods in word and deed, by prayers and sacrifices. Such piety is the salvation of families and states, just as the impious, which is unpleasing to the gods, is their ruin and destruction.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I think that you could have answered in much fewer words the chief question which I asked, Euthyphro, if you had chosen. But I see plainly that you are not disposed to instruct me — clearly not: else why, when we reached the point, did you turn aside? Had you only answered me I should have truly learned of you by this time the nature of piety. Now, as the asker of a question is necessarily dependent on the answerer, whither he leads I must follow; and can only ask again, what is the pious, and what is piety? Do you mean that they are a sort of science of praying and sacrificing?
 

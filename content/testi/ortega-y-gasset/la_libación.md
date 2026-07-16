@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_libación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La libación" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La libación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En todo lo que llevo dicho alrededor de Renan se manifiesta una clara contraposición entre dos conceptos: [natura](/concepts/nature) y cultura. Podéis llamar a la naturaleza como gustéis, es la diosa que acude a una evocación de mil nombres: naturaleza es la [materia](/positions/materialism), es lo fisiológico, es lo espontáneo. En una sinfonía de Beethoven pone la naturaleza las tripas de cabra sobre el puente de los rubios violines, da la madera para los oboes, el metal para los clarines, el aire vibrátil para las ondas sonoras. Y todo lo que en una sinfonía de Beethoven no es tripas de cabra, ni madera, ni metal, ni aire inquieto, es cultura. El montón de bloques de mármol formado por un rompimiento de tierras es un trozo de naturaleza: esos mismos bloques, distribuidos en orden de propileo, forman una columnata y son cultura.
 
@@ -52,7 +52,7 @@ Sólo el grosero sigue su capricho,
 
 el noble aspira a ordenación y a ley.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El lujo de sacrificar a la [norma](/concepts/law), que es una ficción, caracterizaba para Renan la ironía radical de la cultura. «Nuestro realismo —leemos en los Nouveaux Cahiers— encuentra absurdos todos los sacrificios que de su bienestar material hace el hombre sin saber a qué. Pero yo amo esto: otra cosa sería suponer que no hay nada más allá de lo útil. Admiro la libación antigua: echar un poco de nuestro bien no se sabe a quién. Ahora se diría: Ut quid perditio haec? ¿A qué este derroche? Es inútil. ¡Ah, es inútil! ¿Por ventura lo invisible no es nada? Me agrada que se le hagan sacrificios, aunque sólo fuera para probar la realidad de lo que no es palpable».
 

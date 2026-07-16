@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/seneca/octavia" data-philosopher="Seneca"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="OCTAVIA" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="OCTAVIA" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 OCTAVIA
 
@@ -28,7 +28,7 @@ A FABULA PRAETEXTA
 
 THE ONLY EXTANT ROMAN HISTORICAL DRAMA
 
-<span class="atom-split" data-atom="002" data-title="INTRODUCTION" data-chapter="INTRODUCTION" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="INTRODUCTION" data-chapter="INTRODUCTION" data-kind="atom" data-srclang="en"></span>
 
 THE Roman historical drama had a place among the earliest products of Roman literature, and seems to have enjoyed a degree of popularity through all succeeding periods. That Roman literary genius did not find a much fuller expression through this channel was not due to a lack of national pride and patriotism, nor yet to a dearth of interesting and inspiring subjects in Roman history. The true reason is probably to be found in the fact that by the time national conditions were ripe for the development of any form of literature, the Greeks had already worked, and well worked, nearly all available fields, and had produced a mass of literature which dazzled the Roman mind when at last circumstances brought these two nations into closer contact.
 
@@ -60,7 +60,7 @@ These eleven historical plays are, as we have seen, for the most part, plays of 
 
 We have still a twelfth play of this class, which enjoys the unique distinction of being the only Roman historical drama which has come down to us in its complete form — the Octavia. Its authorship is unknown, although tradition gives it a place among the tragedies of Seneca, the philosopher. The general opinion of modern critics, however, is against this tradition, chiefly because one passage in the play, in the form of a prophecy, too circumstantially describes the death of Nero, which occurred three years after the death of Seneca. It is generally agreed that the play must have been written soon after the death of Nero, and by some one, possibly Maternus, who had been an eye-witness of the events, and who had been inspired by his sympathies for the unfortunate Octavia to write this story of her sufferings.
 
-<span class="atom-split" data-atom="003" data-title="SUMMARY OF THE IMPERIAL FAMILY HISTORY WHICH FORMS A BACKGROUND TO THE OCTAVIA AND TO WHICH REFERENCES ARE MADE THROUGHOUT THE PLAY." data-chapter="SUMMARY OF THE IMPERIAL FAMILY HISTORY WHICH FORMS A BACKGROUND TO THE OCTAVIA AND TO WHICH REFERENCES ARE MADE THROUGHOUT THE PLAY." data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="SUMMARY OF THE IMPERIAL FAMILY HISTORY WHICH FORMS A BACKGROUND TO THE OCTAVIA AND TO WHICH REFERENCES ARE MADE THROUGHOUT THE PLAY." data-chapter="SUMMARY OF THE IMPERIAL FAMILY HISTORY WHICH FORMS A BACKGROUND TO THE OCTAVIA AND TO WHICH REFERENCES ARE MADE THROUGHOUT THE PLAY." data-kind="atom" data-srclang="en"></span>
 
 TIBERIUS CLAUDIUS DRUSUS NERO CAESAR GER- MANICUS, more commonly known as Claudius, fourth emperor of Rome, had taken for his third wife the daughter of M. Valerius Messala, Messalina, who bore to him two children, Britannicus and Octavia. Always notorious for her profligacy and licentiousness, Messalina crowned her career by publicly marrying C. Silius at Rome during the temporary sojourn of her imperial husband at Ostia. Claudius long wavered as to her punishment, but at last, through the influence of his favourite, Narcissus, he signed her death warrant, and she was executed by a tribune of the guards in 48 A.D.
 
@@ -76,7 +76,7 @@ Nero had long since become enamoured of Poppaea, a beautiful profligate, who had
 
 Poppaea herself died in 65 A.D. as the result, it was said, of a kick by her brutal husband when she was far advanced in pregnancy. In the same year, at the command of the emperor, Seneca committed suicide; and three years thereafter, in 68 A.D., Nero himself, deposed by the praetorian guards, who had espoused the cause of Galba, and condemned to death by the Senate, fled from Rome and, after vain efforts to escape, received his death-stroke by his own request at the hands of a faithful attendant who had fled with him.
 
-<span class="atom-split" data-atom="004" data-title="DRAMATIS PERSONAE." data-chapter="DRAMATIS PERSONAE." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="DRAMATIS PERSONAE." data-chapter="DRAMATIS PERSONAE." data-kind="atom" data-srclang="en"></span>
 
 OCTAVIA, stepsister and wife of Nero.
 
@@ -104,7 +104,7 @@ THE SCENE is laid throughout in different apartments of the palace of Nero, and 
 
 OCTAVIA
 
-<span class="atom-split" data-atom="005" data-title="OCTAVIA (1/6)" data-chapter="OCTAVIA" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="OCTAVIA (1/6)" data-chapter="OCTAVIA" data-kind="atom" data-srclang="en"></span>
 
 [1] Now doth flushing dawn drive the wandering stars from heaven; with radiant beams the sun arises and gives the world once more the light of day. On then, with all thy woes weighed down, resume thy now accustomed plaints and outwail the sea-bred Halcyons, out-wail the birds of old Pandion’s house; for more grievous is thy lot than theirs. O mother, constant source of tears to me, first cause of my misfortunes, hearken to thy daughter’s sad complaints, if any consciousness remains among the shades. Oh, that the ancient Clotho with her own hand had clipped my threads before sadly I saw thy wounds, thy face with foul gore besmeared! O light, ever calamitous to me, from that time, O light, thou art more hateful than the dark! We have endured a cruel step-dame’s orders, her hostile spirit and her aspect fierce. ’Twas she, ’twas she, the baleful fury, who bore the Stygian torches to my bridal chamber, and quenched thy light, O wretched father, whom but yesterday the whole world obeyed, even beyond Ocean’s bounds, before whom the Britons fled, erstwhile to our leaders all unknown and unsubdued. Alas, my father, by thy wife’s plots thou liest crushed, and thy house together with thy child bends to a tyrant’s will.
 
@@ -188,7 +188,7 @@ That he may give back to me my brother, wickedly destroyed?
 
 NURSE
 
-<span class="atom-split" data-atom="006" data-title="OCTAVIA (2/6)" data-chapter="OCTAVIA" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="OCTAVIA (2/6)" data-chapter="OCTAVIA" data-kind="atom" data-srclang="en"></span>
 
 That thou mayst be thyself unharmed, that one day thou mayst restore thy father’s tottering house with sons of thine.
 
@@ -274,7 +274,7 @@ This age as well has seen a son’s dire crime, when in a deadly bark the prince
 
 At last, with hope of safety gone, blazing with [anger](/concepts/anger) and now overcome with woe, she cries; “Such reward as this for my great boon, O son, dost thou return me? Worthy am I of this ship, I do confess, who brought thee forth, who gave thee light and empire and the name of Caesar, fool that I was. Thrust forth thy face from Acheron, and glut thee with my punishment, O husband; I caused thy death, poor soul, was the author of thy son’s destruction, and lo, as I have merited, to thy ghost am I now borne unburied, whelmed in the cruel waters of the sea.”
 
-<span class="atom-split" data-atom="007" data-title="OCTAVIA (3/6)" data-chapter="OCTAVIA" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="OCTAVIA (3/6)" data-chapter="OCTAVIA" data-kind="atom" data-srclang="en"></span>
 
 Even while she speaks the waves wash over her lips, and down into the deep she plunges; anon she rises from the briny weight and with her hands, fear driving her, lashes the sea; but soon, outwearied, gives over the struggle. There still lived in secret hearts fidelity which scorned the grim fear of death. Many to their mistress dare bring aid, when her strength is exhausted by the sea, and, as she drags her arms, though sluggishly, along, with their voices cheer her and lift her with their hands. But what availed it to have escaped the waters of the cruel sea? By the sword of thine own son thou art to die, to whose crime scarce will posterity, slowly will all future ages, give belief. He rages and grieves that his mother, snatched from the sea, still lives, the impious monster, and heaps huge guilt on guilt; bent on his wretched mother’s death, he brooks no stay of crime. Sent to the task, his creature works his will, and with the sword lays open his mistress’ breast. The unhappy woman, dying, begs her murderer to sheathe his fell sword within her womb: “’Tis this, ’tis this that must with the sword be pierced, which gave such monster birth!” After such utterance, with a dying groan commingled, at length through the cruel wound she yielded her sad ghost.
 
@@ -424,7 +424,7 @@ SENECA
 
 NERO
 
-<span class="atom-split" data-atom="008" data-title="OCTAVIA (4/6)" data-chapter="OCTAVIA" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="OCTAVIA (4/6)" data-chapter="OCTAVIA" data-kind="atom" data-srclang="en"></span>
 
 ’Tis the gift of heaven that Rome herself and the senate are subject unto me, and that from unwilling lips prayers and servile words are extorted by fear of me. To preserve citizens, to ruler and fatherland alike oppressive, puffed up with pride of race — what folly is it, when with a word one may give to death those he suspects? Brutus for the murder of his chief, to whom he owed his safety, armed his hands; and Caesar, invincible in battle shock, tamer of nations, walking, a very Jove, along the upward path of honors, died by the unspeakable crime of citizens. What streams of her own blood did Rome then behold, so often rent with strife! He who earned heaven by piety, the deified Augustus, how many nobles did he put to death, young men and old, scattered throughout ihe world, when they fled their own homes through fear of death and the sword of the three handed chiefs — all by the accusing list delivered to grim destruction! The grieving fathers saw the heads of the slain set out upon the rostra, but dared not weep their dead nor groan, while the forum reeked with foul corruption, and sluggish gore dripped down the rotting faces. Nor was this the end of slaughter and of blood: long did grim Philippi feed birds and beasts of prey, and the Sicilian sea engulfed fleets and men often retreating; the world was shaken by its own contending forces. The great commander, by the leaders’ array overcome, with his ships prepared for flight, hied him to the Nile, himself doomed soon to perish; incestuous Egypt a second time drank a Roman leader’s blood, and now covers his flitting shade. There civil strife is buried, waged impiously and long. At last the victor now weary, sheathed his sword, blunted with savage blows, and maintained his sway by fear. Safe under the protection of his loyal guards he lived, and when he died, by the surpassing piety of his son was made a god, hallowed and enshrined. Me, too, shall the stars await, if with relentless sword I first destroy whatever is hostile to me, and on a worthy offspring found my house.
 
@@ -556,7 +556,7 @@ Alas! to what end my labor and my prayers? Hath thy frenzy carried thee so far i
 
 OCTAVIA
 
-<span class="atom-split" data-atom="009" data-title="OCTAVIA (5/6)" data-chapter="OCTAVIA" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="OCTAVIA (5/6)" data-chapter="OCTAVIA" data-kind="atom" data-srclang="en"></span>
 
 [to the Chorus] Restrain your tears on this glad, festal day of Rome, lest your great love and care for me arouse the emperor’s sharp wrath, and I be cause of suffering to you. This wound is not the first my heart has felt; far heavier have I borne; but this day shall end my cares even by my death. No more shall I be forced to look on my brutal husband’s face, nor to enter a slave’s chamber which I hate; Augustus’ sister shall I be, not wife. Only may I be spared dire punishments and fearful death. — And canst thou, poor, foolish girl, remembering thy cruel husband’s crimes, yet hope for this? Long kept back for this marriage-festival, thou shalt fall at last, an ill-starred victim. But why so often to thy father’s house dost look back with streaming eyes? Haste thee to leave this roof; abandon the blood-stained palace of the emperor. [Exit.]
 
@@ -628,7 +628,7 @@ Why do you stir up dire strife in vain? Invincible the shafts that Cupid bears; 
 
 NERO
 
-<span class="atom-split" data-atom="010" data-title="OCTAVIA (6/6)" data-chapter="OCTAVIA" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="OCTAVIA (6/6)" data-chapter="OCTAVIA" data-kind="atom" data-srclang="en"></span>
 
 Oh, too slow are my soldiers’ hands, and too patient my wrath after such sacrilege as this, seeing that the blood of citizens has not quenched the fires they kindled against me, and that with the slaughter of her people mourning Rome reeks not, who bore such men as these. But she for whose sake the citizens rage at me, my sister-wife whom with distrust I ever look upon, shall give her life at last to sate my grief, and quench my [anger](/concepts/anger) with her blood. But now death is too light a punishment for her deeds. Heavier doom has the people’s unhallowed guilt deserved. Quickly let Rome’s roofs fall beneath my flames; let fires, let ruins crush the guilty populace, and wretched want, and grief and hunger dire. The huge mob grows riotous, distempered by the blessings of my age, nor hath it understanding of my mercy in its thanklessness nor can it suffer peace; but here ’tis swept along by restless insolence and there by its own recklessness is headlong borne. By suffering must it be held in check, be ever pressed beneath the heavy yoke, that it may never dare the like again, and against my wife’s sacred countenance lift its eyes; crushed by the fear of punishment, it shall be taught to obey its emperor’s nod.
 

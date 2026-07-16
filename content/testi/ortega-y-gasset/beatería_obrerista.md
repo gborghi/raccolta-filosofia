@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/beatería_obrerista" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Beatería obrerista" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Beatería obrerista" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Conocemos personas, por lo demás excelentes, que han especializado su sensiblería para cuanto a los obreros se refiere y han dejado embotarse su percepción para todo lo demás. Es una de las enfermedades características de nuestra época. Esas excelentes personas se vuelven de cartón piedra para recibir la noticia de que un obrero ha asesinado a un patrono o que un grupo numeroso de trabajadores ha obligado por la fuerza a sindicarse a otro menos numeroso. En cambio, si oyen que un patrono ha roto un brazo a un obrero, agitan los suyos elocuentemente, suspiran y se compungen. Esas mismas personas, hablando de los partidos políticos, censurarán la vacuidad e imprecisión de sus programas, pero dan como buenas la imprecisión, la vacuidad o la fantasmogoría que nutren en grande escala la labor de los agitadores sociales. Heine, de los miembros de una orquesta, decía: «Estas buenas personas, pero malos músicos…» Digamos nosotros de aquéllas que son excelentes personas, pero que no son almas libres. Necesitan practicar servilismo espiritual. En otro tiempo hubieran servido a los inquisidores; nacidas póstumamente, son siervas de la religión obrerista. Agitan los brazos, suspiran, se compungen. Lo mismo que las beatas en las sacristías. Hay un beatismo obrerista.
 

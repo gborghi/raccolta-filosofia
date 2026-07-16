@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/a_la_vuelta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="A la vuelta" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="A la vuelta" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Durante este verano he vivido mes y medio en Asturias. Ese tiempo y otro tanto más son insuficientes para conocer el cuerpo y el alma de una comarca, aun dedicándolos por entero a su estudio. Si se trata de Asturias, donde los paisajes y los corazones están tejidos con raros matices y transiciones, la insuficiencia resulta mucho mayor. Ahora bien; yo no he dedicado ese mes y medio a estudiar la vida asturiana, sino más bien a lo contrario, a descansar de mi vida castellana.
 

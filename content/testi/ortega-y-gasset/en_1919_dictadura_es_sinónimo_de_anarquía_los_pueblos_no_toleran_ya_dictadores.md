@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/en_1919_dictadura_es_sinónimo_de_anarquía_los_pueblos_no_toleran_ya_dictadores" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="En 1919, «dictadura» es sinónimo de «anarquía».— Los pueblos no toleran ya dictadores" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="En 1919, «dictadura» es sinónimo de «anarquía».— Los pueblos no toleran ya dictadores" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Somos enemigos de todas las dictaduras, sean de arriba o de abajo. Todas nos parecen igualmente odiosas, porque en todas ellas germinan los desastres nacionales. Llena está la Historia de ejemplos de revolución y catástrofes que se deben a las «dictaduras de arriba». La «dictadura de abajo» ha producido efectos tan terribles como los que a estas horas padece Rusia.
 

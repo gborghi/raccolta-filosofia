@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/statesman" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="STATESMAN" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="STATESMAN" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -204,7 +204,7 @@ STRANGER: And is not the herald under command, and does he not receive orders, a
 
 YOUNG SOCRATES: Very true.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: Then shall we mingle the kingly art in the same class with the art of the herald, the interpreter, the boatswain, the prophet, and the numerous kindred arts which exercise command; or, as in the preceding comparison we spoke of manufacturers, or sellers for themselves, and of retailers, — seeing, too, that the class of supreme rulers, or rulers for themselves, is almost nameless — shall we make a word following the same analogy, and refer kings to a supreme or ruling-for-self science, leaving the rest to receive a name from some one else? For we are seeking the ruler; and our enquiry is not concerned with him who is not a ruler.
 
@@ -322,7 +322,7 @@ STRANGER: In that case, there was already implied a division of all animals into
 
 YOUNG SOCRATES: True.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: And the political science of which we are in search, is and ever was concerned with tame animals, and is also confined to gregarious animals.
 
@@ -488,7 +488,7 @@ STRANGER: Then now, let us go back to the beginning, and join the links, which t
 
 YOUNG SOCRATES: By all means.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: The science of pure knowledge had, as we said originally, a part which was the science of rule or command, and from this was derived another part, which was called command-for-self, on the analogy of selling-for-self; an important section of this was the management of living animals, and this again was further limited to the management of them in herds; and again in herds of pedestrian animals. The chief division of the latter was the art of managing pedestrian animals which are without horns; this again has a part which can only be comprehended under one term by joining together three [names](/positions/nominalism) — shepherding pure-bred animals. The only further subdivision is the art of man-herding, — this has to do with bipeds, and is what we were seeking after, and have now found, being at once the royal and political.
 
@@ -598,7 +598,7 @@ STRANGER: And it may be supposed to result in the greatest changes to the human 
 
 YOUNG SOCRATES: Such changes would naturally occur.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: And animals, as we know, survive with difficulty great and serious changes of many different kinds when they come upon them at once.
 
@@ -624,7 +624,7 @@ STRANGER: Then shall I determine for you as well as I can?
 
 YOUNG SOCRATES: By all means.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: Suppose that the nurslings of Cronos, having this boundless leisure, and the power of holding intercourse, not only with men, but with the brute creation, had used all these advantages with a view to philosophy, conversing with the brutes as well as with one another, and learning of every nature which was gifted with any special power, and was able to contribute some special experience to the store of wisdom, there would be no difficulty in deciding that they would be a thousand times happier than the men of our own day. Or, again, if they had merely eaten and drunk until they were full, and told stories to one another and to the animals — such stories as are now attributed to them — in this case also, as I should imagine, the answer would be easy. But until some satisfactory witness can be found of the love of that age for knowledge and discussion, we had better let the matter drop, and give the reason why we have unearthed this tale, and then we shall be able to get on. In the fulness of time, when the change was to take place, and the earth-born race had all perished, and every soul had completed its proper cycle of births and been sown in the earth her appointed number of times, the pilot of the universe let the helm go, and retired to his place of view; and then Fate and innate desire reversed the motion of the world. Then also all the inferior deities who share the rule of the supreme power, being informed of what was happening, let go the parts of the world which were under their control. And the world turning round with a sudden shock, being impelled in an opposite direction from beginning to end, was shaken by a mighty earthquake, which wrought a new destruction of all manner of animals. Afterwards, when sufficient time had elapsed, the tumult and confusion and earthquake ceased, and the universal creature, once more at peace, attained to a calm, and settled down into his own orderly and accustomed course, having the charge and rule of himself and of all the creatures which are contained in him, and executing, as far as he remembered them, the instructions of his Father and Creator, more precisely at first, but afterwords with less exactness. The reason of the falling off was the admixture of matter in him; this was inherent in the primal nature, which was full of disorder, until attaining to the present order. From God, the constructor, the world received all that is good in him, but from a previous state came elements of evil and unrighteousness, which, thence derived, first of all passed into the world, and were then transmitted to the animals. While the world was aided by the pilot in nurturing the animals, the evil was small, and great the good which he produced, but after the separation, when the world was let go, at first all proceeded well enough; but, as time went on, there was more and more forgetting, and the old discord again held sway and burst forth in full glory; and at last small was the good, and great was the admixture of evil, and there was a danger of universal ruin to the world, and to the things contained in him. Wherefore God, the orderer of all, in his tender care, seeing that the world was in great straits, and fearing that all might be dissolved in the storm and disappear in infinite chaos, again seated himself at the helm; and bringing back the elements which had fallen into dissolution and disorder to the motion which had prevailed under his dispensation, he set them in order and restored them, and made the world imperishable and immortal. And this is the whole tale, of which the first part will suffice to illustrate the nature of the king. For when the world turned towards the present cycle of generation, the age of man again stood still, and a change opposite to the previous one was the result. The small creatures which had almost disappeared grew in and stature, and the newly-born children of the earth became grey and died and sank into the earth again. All things changed, imitating and following the condition of the universe, and of necessity agreeing with that in their mode of conception and generation and nurture; for no animal was any longer allowed to come into being in the earth through the agency of other creative beings, but as the world was ordained to be the lord of his own [progress](/positions/progress), in like manner the parts were ordained to grow and generate and give nourishment, as far as they could, of themselves, impelled by a similar movement. And so we have arrived at the real end of this discourse; for although there might be much to tell of the lower animals, and of the condition out of which they changed and of the causes of the change, about men there is not much, and that little is more to the purpose. Deprived of the care of God, who had possessed and tended them, they were left helpless and defenceless, and were torn in pieces by the beasts, who were naturally fierce and had now grown wild. And in the first ages they were still without skill or resource; the food which once grew spontaneously had failed, and as yet they knew not how to procure it, because they had never felt the pressure of necessity. For all these reasons they were in a great strait; wherefore also the gifts spoken of in the old tradition were imparted to man by the gods, together with so much teaching and [education](/concepts/education) as was indispensable; fire was given to them by Prometheus, the arts by Hephaestus and his fellow-worker, Athene, seeds and plants by others. From these is derived all that has helped to frame human life; since the care of the Gods, as I was saying, had now failed men, and they had to order their course of life for themselves, and were their own masters, just like the universal creature whom they imitate and follow, ever changing, as he changes, and ever living and growing, at one time in one manner, and at another time in another. Enough of the story, which may be of use in showing us how greatly we erred in the delineation of the king and the statesman in our previous discourse.
 
@@ -662,7 +662,7 @@ STRANGER: There, somewhere, lay our error; for we never included or mentioned th
 
 YOUNG SOCRATES: How was that?
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: All other herdsmen ‘rear’ their herds, but this is not a suitable term to apply to the Statesman; we should use a name which is common to them all.
 
@@ -788,7 +788,7 @@ STRANGER: I shall reply by actually performing the process.
 
 YOUNG SOCRATES: Very good.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: All things which we make or acquire are either creative or preventive; of the preventive class are antidotes, divine and human, and also defences; and defences are either military weapons or protections; and protections are veils, and also shields against heat and cold, and shields against heat and cold are shelters and coverings; and coverings are blankets and garments; and garments are some of them in one piece, and others of them are made in several parts; and of these latter some are stitched, others are fastened and not stitched; and of the not stitched, some are made of the sinews of plants, and some of hair; and of these, again, some are cemented with water and earth, and others are fastened together by themselves. And these last defences and coverings which are fastened together by themselves are called clothes, and the art which superintends them we may call, from the nature of the operation, the art of clothing, just as before the art of the Statesman was derived from [the State](/concepts/state); and may we not say that the art of weaving, at least that largest portion of it which was concerned with the making of clothes, differs only in name from this art of clothing, in the same way that, in the previous case, the royal science differed from the political?
 
@@ -914,7 +914,7 @@ STRANGER: And the wool thus prepared, when twisted by the spindle, and made into
 
 YOUNG SOCRATES: True.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: And the threads which are more loosely spun, having a softness proportioned to the intertexture of the warp and to the degree of force used in dressing the cloth, — the threads which are thus spun are called the woof, and the art which is set over them may be called the art of spinning the woof.
 
@@ -1008,7 +1008,7 @@ STRANGER: And is our enquiry about the Statesman intended only to improve our kn
 
 YOUNG SOCRATES: Clearly, as in the former example, the purpose is general.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: Still less would any rational man seek to analyse the notion of weaving for its own sake. But people seem to forget that some things have sensible images, which are readily known, and can be easily pointed out when any one desires to answer an enquirer without any trouble or argument; whereas the greatest and highest truths have no outward image of themselves visible to man, which he who wishes to satisfy the soul of the enquirer can adapt to the eye of sense (compare Phaedr.), and therefore we ought to train ourselves to give and accept a rational account of them; for immaterial things, which are the noblest and greatest, are shown only in thought and idea, and in no other way, and all that we are now saying is said for the sake of them. Moreover, there is always less difficulty in fixing the mind on small matters than on great.
 
@@ -1098,7 +1098,7 @@ STRANGER: The provision of food and of all other things which mingle their parti
 
 YOUNG SOCRATES: Certainly not.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: These seven classes include nearly every description of property, with the exception of tame animals. Consider; — there was the original material, which ought to have been placed first; next come instruments, vessels, vehicles, defences, playthings, nourishment; small things, which may be included under one of these — as for example, coins, seals and stamps, are omitted, for they have not in them the character of any larger kind which includes them; but some of them may, with a little forcing, be placed among ornaments, and others may be made to harmonize with the class of implements. The art of herding, which has been already divided into parts, will include all property in tame animals, except slaves.
 
@@ -1238,7 +1238,7 @@ STRANGER: Well, then, in which of these various forms of States may the science 
 
 YOUNG SOCRATES: That, as the argument has already intimated, will be our duty.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: Do you think that the multitude in a State can attain political science?
 
@@ -1336,7 +1336,7 @@ STRANGER: Do you know a plausible saying of the common people which is in point?
 
 YOUNG SOCRATES: I do not recall what you mean at the moment.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: They say that if any one knows how the ancient laws may be improved, he must first persuade his own State of the improvement, and then he may legislate, but not otherwise.
 
@@ -1402,7 +1402,7 @@ STRANGER: But hear what follows: — When the year of office has expired, the pi
 
 YOUNG SOCRATES: He who is willing to take a command under such conditions, deserves to suffer any penalty.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: Yet once more, we shall have to enact that if any one is detected enquiring into piloting and navigation, or into health and the true nature of medicine, or about the winds, or other conditions of the atmosphere, contrary to the written rules, and has any ingenious notions about such matters, he is not to be called a pilot or physician, but a cloudy prating sophist; — further, on the ground that he is a corrupter of the young, who would persuade them to follow the art of medicine or piloting in an unlawful manner, and to exercise an arbitrary rule over their patients or ships, any one who is qualified by law may inform against him, and indict him in some court, and then if he is found to be persuading any, whether young or old, to act contrary to the written law, he is to be punished with the utmost rigour; for no one should presume to be wiser than the laws; and as touching healing and health and piloting and navigation, the nature of them is known to all, for anybody may learn the written laws and the national customs. If such were the mode of procedure, [Socrates](/figures/socrates), about these sciences and about generalship, and any branch of hunting, or about painting or imitation in general, or carpentry, or any sort of handicraft, or husbandry, or planting, or if we were to see an art of rearing horses, or tending herds, or divination, or any ministerial service, or draught-playing, or any science conversant with number, whether simple or square or cube, or comprising motion, — I say, if all these things were done in this way according to written regulations, and not according to art, what would be the result?
 
@@ -1496,7 +1496,7 @@ STRANGER: Monarchy divides into royalty and tyranny; the rule of the few into ar
 
 YOUNG SOCRATES: On what principle of division?
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: On the same principle as before, although the name is now discovered to have a twofold meaning. For the distinction of ruling with law or without law, applies to this as well as to the rest.
 
@@ -1638,7 +1638,7 @@ STRANGER: A task has to be accomplished, which, although difficult, appears to b
 
 YOUNG SOCRATES: Certainly the attempt must be made.
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: To assume that one part of virtue differs in kind from another, is a position easily assailable by contentious disputants, who appeal to popular opinion.
 
@@ -1764,7 +1764,7 @@ STRANGER: First of all, she takes the eternal element of the soul and binds it w
 
 YOUNG SOCRATES: I do not understand what you mean.
 
-<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 STRANGER: The meaning is, that the opinion about the honourable and the just and good and their opposites, which is true and confirmed by reason, is a divine principle, and when implanted in the soul, is implanted, as I maintain, in a nature of heavenly birth.
 

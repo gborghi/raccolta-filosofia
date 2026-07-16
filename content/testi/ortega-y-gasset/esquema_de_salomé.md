@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/esquema_de_salomé" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Esquema de Salomé" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Esquema de Salomé" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En la morfología del ser femenino acaso no haya figuras más extrañas que las de Judit y Salomé, las dos mujeres que van con dos cabezas cada una: la suya y la cortada.
 

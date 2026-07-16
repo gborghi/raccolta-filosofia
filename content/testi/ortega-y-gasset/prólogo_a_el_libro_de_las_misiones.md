@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_el_libro_de_las_misiones" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a El libro de las misiones" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a El libro de las misiones" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Me voy gratamente acostumbrando a que mi ser impreso subsista, aliente y opere bajo la especie editorial de esta Colección Austral. Tal vez el libro completamente nuevo requiera otra forma de aparición, pero los que han hecho ya sus primeras experiencias con los lectores y han gastado su patetismo de iniciación, adquieren como una segunda vida en esta Colección y logran lo que es supremo y secreto anhelo de todo lo viviente: la cotidianeidad. En esta biblioteca encuentran el ambiente simpático y sin dengues del potrero general. Pulcro de atuendo, cómodo a la lectura, cada uno de estos volúmenes hace posible el porvenir con que todo libro sueña: ser llevado por alguien en el bolsillo. La cosa irritará a los grandilocuentes, a los fraseólogos, a los épicos, a los que no sienten la fruición de escuchar el arcano decir de las cosas —pero no, por todo eso, es menos evidente que el libro más heroico siente envidia del pañuelo que solemos llevar siempre con nosotros, que cambiamos, que rompemos, que tiramos, que reemplazamos. A todo esto se prestan los pañuelos literarios que la Colección Austral lanza al mercado.
 

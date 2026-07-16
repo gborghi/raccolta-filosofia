@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/un_parlamento_industrial" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Un Parlamento industrial" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Un Parlamento industrial" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Entre los políticos españoles —que son todo vejez— pasa el señor Cambó por ser el hombre de soluciones más nuevas y originales. En el fondo de esa reputación, reforzada luego por un sólido talento y un constante deseo de saber, no hay otra cosa sino que el señor Cambó es el político español que lee más Prensa extranjera. Las soluciones que los grandes países progresivos aceptan para resolver sus problemas interiores, llegan, por lo tanto, a conocimiento del señor Cambó antes que a sus compañeros de Consejo, de Asamblea o de Comisión.
 

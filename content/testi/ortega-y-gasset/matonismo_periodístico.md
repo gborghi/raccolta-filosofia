@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/matonismo_periodístico" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Matonismo periodístico" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Matonismo periodístico" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Jamás hubo en España tantos periódicos como ahora. Sobre todo el número de semanarios ha aumentado en proporción desmesurada. Los kioscos aparecen inundados de estas publicaciones hebdomadarias. He ahí un fenómeno que a primera vista os llena de optimismo. El pueblo español —pensáis—se ha reconciliado por fin con la letra impresa. Ya comienza a sentir la avidez de la lectura, síntoma de robustez espiritual. ¿No hay razón para confiar en el porvenir de España?
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/desconfianza_ante_los_programas_simples" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Desconfianza ante los programas simples" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Desconfianza ante los programas simples" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Yo quisiera ahora, rápidamente, puesto que el tiempo no me deja más, explicar cuáles son algunas de las posiciones de la Liga de Educación Política frente a algunos temas presentes e ineludibles de la política española.
 

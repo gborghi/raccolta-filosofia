@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_votos_van_al_presidio" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los votos van al presidio" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los votos van al presidio" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -60,7 +60,7 @@ Amigo Gómez Hidalgo: En un viejísimo «purana» indio se dice que donde quiera
 
 Como un hueso a un can hambriento, arroja usted a mi meditación este hecho social de unos «presidiarios» elegidos para concejales. Y me pregunta: «¿Qué piensa usted de ello?» Más fácil sería acaso la respuesta si me preguntase usted qué no pienso de ello. Porque ese hecho tiene haces o caras múltiples, buenos unos, malos otros, donde se refleja gran parte del presente y el porvenir nacionales. Recuerda usted, sin duda, aquella escena del antiguo régimen moribundo que Marmontel refiere en sus Memorias: cenando en el palacio de Richelieu damas y próceres, a la sobremesa, se inclinan, invitados por Cagliostro, sobre una copa de agua, y en los vagos reflejos del líquido aciertan a ver representados los sucesos de la gran Revolución, diez años antes que ésta sobrevenga.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Ayer tomé un sendero y dibujé una cara de las que aquel hecho presenta. Me importaba ante todo señalar lo que este fenómeno tiene de común con tantos otros surgidos en España desde hace algún tiempo. En una de sus significaciones coincide con la actitud de los militares; uno y otro hecho implican la sensación de que ciertas porciones del derecho vigente y constituido perpetúan una legalidad falsa, ficticia, hipócrita y, por lo tanto, irrespetable. La realidad social se ve obligada a afirmar contra ella su derecho preferente. Mas entiéndase bien, siempre que la vida rompe una ley va movida por la aspiración a otra ley más efectiva, compleja y respetable. Toda España ha visto la ilegalidad de la situación creada por las Juntas de defensa y, sin embargo, expresa o tácita, no ha faltado a éstas la adhesión de los corazones. ¿De dónde nace tal adhesión general? ¿Por acaso, de una perversa fruición en la ilegalidad como tal, pareja a la que siente el loco furioso al ver rotas las cosas? Algunos individuos de temperamento socialmente anómalo tal vez obedezcan a este motivo. Pero la adhesión ha sido general y no sólo de estos «especialistas en desorden».
 
@@ -98,7 +98,7 @@ El Día, 18 de noviembre de 1917
 
 III
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Amigo Gómez Hidalgo: Mi carta anterior no concluía donde concluía su asunto. Quedó truncada por razones de espacio. En ella iba yo desarrollando esta idea: la sentencia contra el Comité de huelga nació muerta y sin eficacia moral. Porque en la ley que la dictó venía a condensarse una serie de frivolidades. La primera fue la huelga misma. La segunda fue el semblante con que el Ejército salió a su encuentro. No debió nunca castigar con la una mano sin sustentar con la otra lo que en aquel movimiento había de explosión de un descontento positivo. La huelga fue una manifestación, frívola en la forma, de un malestar realísimo que ciertas capas del cuerpo social sentían y siguen sintiendo. Reconocida la extrema defectuosidad del régimen público, en general, no puede extrañar a ningún hombre comprensivo y honrado que el malestar tome formas particulares en cada clase y grupo de la sociedad. El militar interpretará la angustia nacional acentuando ciertos rasgos de ella que los hábitos mentales propios de su oficio le fuerzan a destacar. El propietario, a su vez, se quejará preferentemente de otros defectos. El obrero hará lo mismo. Y cada cual buscará el remedio a su manera movilizando sus peculiares recursos. Si cada uno de esos grupos no consigue, mediante un esfuerzo de reflexión, reconocer y respetar el fondo común y nacional de justas exigencias que late más allá de esos ademanes discrepantes, el militar vendrá a las manos con el propietario y con el obrero, el obrero con el propietario y con el militar, todos con los políticos y los políticos con todos; de suerte que a la vuelta de unos meses va a ser España una olla de grillos cocidos en sangre.
 
@@ -128,7 +128,7 @@ Mostrar semejante prisa y celo en parecer a la hora de agosto sostenedores de un
 
 Voy a suponer que sus deseos coinciden exactamente con los míos y con los del lector. El que nosotros lo queramos no trae consigo que ello resulte posible. Nosotros pondremos todos nuestros medios para realizarlo, pero el mundo sobre el cual vertemos nuestro deseo tiene su peculiar estructura y exigencias indominables. Deberemos, pues, mirar siempre a la par lo que nosotros deseamos que sea y lo que el mundo es aparte de nuestro deseo.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Saltando de su esfera de acción propia los militares cumplen un acto de instrucción política. ¿No se quiere reconocer esta intervención política por motivos abogadescos? Bien, digamos entonces algo más grave: cumplen un acto de intervención histórica, imprimen un cierto movimiento al cuerpo nacional íntegro. Lanzan una piedra al viento y la piedra al abandonar la mano sigue su trayectoria, según la ley ineludible de la gravitación. ¿Fuera serio que, en el aire la piedra, creyese la mano poder aún regir su dirección? Los militares han dado un empellón —tal vez glorioso— a la vida española. Ésta desarrollará a su manera española, de quien la manera militar es sólo un rasgo, este impulso recibido. La idea de lo que debe hacerse en cada momento tiene, por fuerza, que ser distinta en la cabeza del militar, en la del obrero, en la del industrial. No hay duda que la resultante será una articulación de todas estas ideas parciales. Pero ese término se obtendrá con tanto menos dolor y tanta menor pérdida cuanto sea el esfuerzo que cada uno de esos gremios ponga en superar sus limitadas ideas gremiales.
 

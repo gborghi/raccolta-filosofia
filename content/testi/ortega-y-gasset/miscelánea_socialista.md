@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/miscelánea_socialista" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Miscelánea socialista" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Miscelánea socialista" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -70,7 +70,7 @@ Como se ve, para Lassalle no quiso decir «internacionalismo» un principio que 
 
 A esto voy: el partido español tiende a una actividad puramente internacionalista; piensa que ocuparse de lo que no sea el obrero en su inmediata contienda con el capital es incompatible con la acción socialista. Ahora bien: esto me parece bastante erróneo; procede de una compresión verbal y fragmentaria del socialismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Es para Marx el [socialismo](/schools/historical_materialism_school) la cima luminosa del capitalismo, el lugar ideal hacia donde éste camina. Pero el capitalismo es justamente un camino, un proceso en el cual hay estadios muy distintos. Se puede estar al comienzo, a la mitad, casi al fin del camino. La plenitud de la estructura capitalista es condición para que el socialismo pueda tener seria esperanza de triunfar. Si los partidos socializadores se abstraen de esto, dejan de ser lo que pretenden y se convierten en uno de tantos partidos embarulladamente radicales; partidos que se forman disolviendo la retórica de unos pocos en la tontería de unos muchos.
 

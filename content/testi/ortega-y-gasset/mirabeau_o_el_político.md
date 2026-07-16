@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/mirabeau_o_el_político" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="MIRABEAU O EL POLÍTICO" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="MIRABEAU O EL POLÍTICO" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -40,7 +40,7 @@ Más clarividente que los historiadores de un siglo después, no se dejó engañ
 
 Mirabeau no se apea de esto. Había inexorablemente llegado el tiempo de constituir la nación por medio de la nación misma, y todo lo demás eran zarandajas. Los expedientes y arbitrismos que se proponían a Luis XVI en forma de despotismos ilustrados o sin ilustrar, tiranías, dictaduras, le parecían puras superfluidades; peor: le parecían caminos funestos. Con la visión profética que abunda en sus locuciones, dijo a los palaciegos: «Así se conduce un rey al patíbulo».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No se comprende que mente tan sagaz confiase en que el rey habría de reconocer la situación. La clave está acaso en que Mirabeau, de espíritu liberal y democrático, era de alma y de raza un noble. Ahora bien; el noble, por muy inteligente que sea, por muy libre de prejuicios que se imagine, suele padecer un fatal misticismo palatino.
 
@@ -70,7 +70,7 @@ Pero la verdad es muy diferente: la previsión de placeres y honores tuvo sobre 
 
 La oposición entre egoísmo y altruismo pierde sentido referida al grande hombre, porque su «yo» está lleno hasta los bordes con «lo otro»: su ego es un alter —la obra. Preocuparse de sí mismo es preocuparse del Universo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La «frase» de Chénier, en su segunda parte, habla de virtudes. Pero éstas no son esas cualidades que hemos descubierto en César o Mirabeau —no son las virtudes o virtualidades del grande hombre. Son, por el contrario, las maneras normales de comportarse los pequeños hombres, las almas chicas. Chénier exige a Mirabeau que sea Mirabeau y además que sea el señor Duval, uno de los varios millones de señores Duval que componían la mediocridad de Francia o de cualquier otro pueblo en cualquiera otra época. Porque, en efecto, estos millones de hombres son virtuosos: no estafan, no mienten, no estupran. Todo su valer se reduce a no hacer ninguna de esas cosas, en efecto, inmorales.
 
@@ -102,7 +102,7 @@ Como antes había atacado a su madre, escribirá ahora una memoria contra su pad
 
 Mas, por lo pronto, tiene que ingresar en el castillo de Vincennes, una de las altas prisiones de Francia, Mirabeau asciende en su categoría de perpetuo encarcelado. Cada vez su prisión es más prisión, de más rango, de más cadenas.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Esta vez la reclusión va a durar de 1777 a 1780. Tres años «en un calabozo de diez pies de ancho». ¿Qué hará allí esta magnífica fiera? Sin duda, hozar con su alma de gran felino. Por lo pronto, se las arreglará para escribir a Sofía carta sobre carta. Este epistolario se publicó después con enorme escándalo. Porque en el calabozo de diez pies, contraída la sensualidad gigantesca de su temperamento, se escapará por la dimensión literaria. En las cartas a Sofía vierte materias de toda índole: ensayos oratorios y líricos, consideraciones morales, efusiones sinceras, pornografía y hasta trozos de libros y revistas que da como suyos. Empieza una carta: «Escucha, amiga mía, voy a verter en el tuyo mi corazón», y lo que vierte, en realidad, es un artículo ajeno del Mercurio de Francia[54]. Me interesa mucho subrayar este dato.
 
@@ -128,7 +128,7 @@ IV
 
 Convocados los Estados Generales, Mirabeau busca en su Provenza natal electores. Va a Aix y a Marsella, donde se percata de las dimensiones que ha adquirido su popularidad. No obstante, sus congéneres los nobles de Provenza, con una hipersensibilidad de ayudas de cámara, quieren evitar la contaminación de su presencia y le excluyen del estado noble. Mirabeau no se inmuta. Pocos días después se producen graves revueltas en Marsella, tan graves, que el Poder público se declara incapaz de reprimirlas, y entonces los nobles de Marsella recurren a Mirabeau, el revolucionario excluido de sus rangos por sus «opiniones subversivas del orden público y atentatorias a la autoridad real». ¿Qué hará Mirabeau cuando se le pide que vaya a Marsella para corregir, contener y castigar al pueblo mismo que poco antes le aclamaba y cuya adhesión era su única fuerza? Mirabeau es el político por la gracia de Dios, el hombre de Estado nato, y no duda un momento. Va a Marsella, y, sin perder un minuto, organiza a jóvenes burgueses y obreros en una milicia ciudadana, que impone pronto el orden. Mirabeau permanece cuatro días seguidos sin dormir. Pacificada Marsella, brota la revuelta en Aix, y Mirabeau sale a galope, sin tomar descanso, hacia la villa de cuya nobleza ha sido borrado. Mirabeau será elegido representante del Tercer Estado por el departamento de Aix.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En la primera sesión de los Estados Generales se forma un vacío en torno al lugar donde Mirabeau ha tomado asiento. Es un apestado. Pocos días después es el conductor de aquel rebaño turbulento. Gracias a él, el trabajo parlamentario toma una dirección y un orden. Él mismo hará frente, con una capacidad de labor verdaderamente legendaria, a todos los asuntos. Para ello necesita sostener una oficina con numerosos secretarios. Pero Mirabeau sigue impecune. Ocupado en la cosa pública, mal puede atender a su privado presupuesto. Sin embargo, vive y mantiene su hueste de colaboradores, y produce, y crea. Es una obra de magia. La gente recelará subvenciones inconfesables, y cada movimiento de su táctica política será atribuido a alguna simonía. Como nadie sabe nada concreto, se construye imaginariamente la historia de su venalidad. ¿No es el más rico y el más ambicioso hombre de Francia el duque de Orleáns? Mirabeau se ha vendido al duque de Orleáns. Pero he aquí que el conde de la Mark, testimonio irrecusable por su carácter y posición, nos dice que mientras se acusaba a Mirabeau de haberse vendido al arca más repleta de Francia, Mirabeau, tímidamente, iba a pedirle prestados unos luises. Pero entiéndase bien: no rehusaba el oro de Orleáns por razones de virtud íntima. Mirada según su óptica moral, esta pulcra renuncia significaría una inmoralidad y una estupidez. No tenía derecho a entorpecer su acción pública por darse el gusto de mantener una pulcritud privada. No pidió dinero al duque de Orleáns porque este personaje le parecía incompatible con su política. La venalidad de Mirabeau —esto es lo esencial— fue siempre articulada con la trayectoria de su táctica política, y no era más que un ingrediente de ésta.
 
@@ -154,7 +154,7 @@ El intelectual no siente la necesidad de la acción. Al contrario: siente la acc
 
 Hay, pues, dos clases de hombres: los ocupados y los preocupados; políticos e intelectuales. Pensar es ocuparse antes de ocuparse, es preocuparse de las cosas, es interponer ideas entre el desear y el ejecutar. La preocupación extrema lleva a la apraxia, que es una enfermedad. El intelectual es, en efecto, casi siempre, un poco enfermo. En cambio, el político es —como Mirabeau, como César—, por lo pronto, un magnífico animal, una espléndida fisiología.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La moral, psicológicamente, representa una preocupación, puesto que implica la detención de nuestras impulsiones hasta determinar si son debidas o indebidas. En el hombre normal, el acto no se dispara tan rápidamente después de deseado que no deje tiempo para hacerse cuestión moral de él, para preguntarse si es bueno o malo, para ver su cariz ético. Pero imagínese el funcionamiento de un alma impulsiva: su primer momento no es de ver ese cariz del acto, sino de comenzar desde luego su ejecución. Hay, pues, mucha injusticia en llamarle inmoral por haber querido aquel acto incorrecto. ¿Es que lo ha querido; es decir: que ha habido un instante en que lo ha visto, en que se ha colocado ante él contemplativamente? Eso es lo que hace el intelectual, el moral: contemplar sus propios actos. Por eso suele no ejecutarlos. Pero el impulsivo no se anda en contemplaciones. En él lo primario es ya el operar. Desde un punto de vista moral, lo único que cabe exigirle es que se arrepienta después de la acción consumada, ya que sólo entonces le es dado contemplarla.
 
@@ -178,7 +178,7 @@ El intelectual vive, principalmente, una vida interior, vive consigo mismo, aten
 
 El hombre de acción, en cambio, no existe para sí mismo, no se ve a sí mismo. El ruido de fuera, hacia el cual su alma está por naturaleza proyectada, no le deja oír el rumor de su intimidad. Falta ésta de atención y cultivo, anda desmedrada. Sorprende notar que todos los grandes hombres políticos carecen de vida interior. No es paradoja decir que no tienen personalidad. La tienen sus actos, sus obras; pero no ellos. Por esta razón —el fenómeno es muy curioso— no son interesantes. Para convencerse de ello basta informarse del sumo juez en [materia](/positions/materialism) de hombres interesantes: la mujer. ¿No es extraño que los grandes hombres políticos, al fin y al cabo grandes triunfadores de la vida, dueños del poder, de la riqueza, corporalmente destacados y aureolados sobre el resto de los varones, no hayan conseguido nunca, nunca, valiosos triunfos sobre la mujer? Ni siquiera César puede ser considerado como una excepción.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El [caso](/concepts/fortune) de Mirabeau confirma plenamente esta regla. Su sensibilidad le inducía sin descanso hacia la mujer. Su audacia y su rumbo verbal le permitían cazar rápidamente la hembra predispuesta a ser cazada. Pero este tipo de cazador de mujeres no tiene nada que ver con el verdadero seductor. Son distintos ellos y son distintos los tipos de mujer sobre que actúan. Una cosa es conseguir favores de una mujer, y otra absorber íntegramente su alma. La que es capaz de hacer favores suele ser incapaz de entregar su alma, y viceversa. Esta última es la mujer interesante, la que vive hermética, cerrada en su íntimo recato, y que no puede conceder nada si no concede su vida entera. Salvo madama de Nehra, que era una niña, Mirabeau no conoció más que faldas, faldas, muchas faldas.
 
@@ -212,7 +212,7 @@ Me importaba, digo, subrayar esto, porque no creo posible la salvación de Europ
 
 Asia es conformista: para ella lo que es, debe ser. Europa es reformista: para ella lo que no debe ser, no es. Si algún sentido trascendente tiene el hecho de la convivencia intercontinental que caracteriza al siglo presente, será, a no dudarlo, hacer posible el mutuo complemento de esas dos tendencias exclusivas: la reforma emanada de una previa conformidad con lo real; la modificación ideal de la vida, que parte de haber reconocido previamente sus condiciones.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 He aquí por qué me ha parecido de alguna oportunidad quitar la piel al grande hombre político, y mostrar, como en preparación anatómica, sus músculos rojos, sus venas azules, sus tendones lívidos. Pero claro es que ninguna de esas fuerzas zoológicas —sin las que no se da el gran político— son su política.
 
@@ -244,7 +244,7 @@ Esta nota de intelectualidad que, como un fuego de San Telmo, corona la enérgic
 
 En esto, como en todo lo que al político se refiere, es el mayor ejemplo César. Su perfil prodigioso puede valer como paradigma del género y dosis de intelectualidad que aquí se exige al gran político. Compáresele con Mario, con Pompeyo, con Marco Antonio, fila espléndida de fogosos animales humanos. A todos les falta la llamita de San Telmo que produce en las cimas la combustión del espíritu. Ninguna visión y previsión les visita. Son enormes autómatas bajo el Destino. En César, el Destino no cae desde fuera, sino que va en él, que él lo lleva y lo es. Porque en ello radica el señorío supremo que ha sido otorgado al espíritu. Como todo en el universo, avanza él también sometido al Destino. (Lo que no es Destino es sólo frivolidad). Pero el espíritu ve ese Destino, lo hiere y traspasa con su dardo de comprensión. Comprender es captar. Destino comprendido. Destino capturado, domesticado. César lo lleva junto al flanco como un can dócil.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Es César un [caso](/concepts/fortune) ejemplar de agudeza intelectual. En su tiempo nadie veía en torno más que problemas de cariz insoluble. César vio la solución, clara, radiante, fecunda. Y esta solución brotaba sencillamente de una rigorosa comprensión analítica de lo que era la sociedad romana en aquel instante, de lo que podía ser, de lo que no podía ya ser[57]. Como casi todas las grandes soluciones, tuvo ésta un aspecto paradójico. Los males de Roma —todo el mundo, y principalmente los conservadores insistían en ello— eran oriundos de la fabulosa expansión a que el poderío romano había llegado. Por eso los conservadores demandaban la cesación de todo nuevo crecimiento. La solución de César —que los siglos han comprobado en una experiencia milenaria— fue estrictamente contraria: la ilimitada ampliación, el imperio universal, la inclusión en el orbe romano del intacto Occidente —que era entonces, frente a las viejas naciones orientales, la tierra nueva, la América de los antiguos.
 

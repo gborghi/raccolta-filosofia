@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/glosa_a_ramón_del_valle-inclán" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Glosa.— A Ramón del Valle-Inclán" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Glosa.— A Ramón del Valle-Inclán" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Galicia es miserable como Mignon pero como ella tiene melodías admirables.
 

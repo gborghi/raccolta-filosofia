@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/angustia_progreso" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Angustia? ¿Progreso?" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="¿Angustia? ¿Progreso?" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Azorín es todo lo contrario que un filósofo de la historia: es un sensitivo de la historia. Aquél se complace en ordenar, como en una procesión o cabalgata, las variaciones de la humana existencia, el siglo opulento y glorioso tras el humilde y sin destellos, los días culminantes —Atenas de Pericles, Roma cesárea, Florencia, París— entreverados de las jornadas grises o acerbas, y todo ello movilizado, en ruta más o menos sinuosa, hacia un estado de perfección. De tal manera, la sucesión de las vidas humanas toma un semblante de Progreso.
 

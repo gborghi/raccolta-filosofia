@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pleamar_filosófica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Pleamar filosófica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Pleamar filosófica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Uno de los síntomas más sugerentes de la hora presente es que los especialistas de todo orden, y principalmente los físicos y biólogos, se sientan forzados a plantearse cuestiones filosóficas y a emplear para ellas métodos filosóficos. Puede decirse que en el horizonte universal se hincha una pleamar filosófica. Basta para advertirlo asomarse a las publicaciones de cada ciencia y hojear las revistas especiales. Conviene no olvidar, a fin de que cada palo aguante su vela, que algunos habíamos anunciado hace diez, hace quince años, esta sorprendente mudanza.
 
@@ -38,7 +38,7 @@ Siglos y siglos se ha mantenido la física circunscrita a su verdadero oficio. E
 
 De esta manera se nos confinaba en un plano de verdades intermedias, prohibiéndonos todo movimiento audaz hacia las últimas verdades. Du Bois-Reymond, pontificando desde el laboratorio, lanzó urbi et orbi su Ignorabimus. Pero no bastaba con quererlo así. Una perspectiva no puede componerse sólo de planos intermedios; le es ineludible poseer un primer plano y un fondo o plano último. Cuando a una perspectiva le amputamos violentamente el último plano, el que era sólo penúltimo pasa automáticamente a hacerse extremo. Quiero decir con esto que no se halla en nuestra mano renunciar a la adopción de posiciones ante los temas últimos, porque si nos quedamos en una posición penúltima, queramos o no, se alza ésta, bien que fraudulentamente, con todos los atributos de la ultimidad.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Así la física subversiva no tuvo más remedio que tomar actitud de soberana intelectual, produciendo una pésima filosofía: [materialismo](/positions/materialism) o positivismo. El materialismo consistía simplemente en la divinización de la materia. Como el físico maneja la materia, pero ignora lo que es, hizo con ella lo que el salvaje que no sabe qué es el rayo y por eso lo diviniza. Más cauteloso, el positivismo renuncia a intentar apoteosis. Convencido de que la física sólo puede resolver las cuestiones penúltimas, declara que es imposible resolver las últimas. Y haciendo, como otra vez he dicho, un gracioso gesto de zorra ante uvas altaneras, las llama mitos, predica el agnosticismo, es decir, el abandono de los problemas supremos. Y así acaeció que durante casi un siglo la humanidad occidental ha vivido con una perspectiva mutilada, con un mundo al cual faltaba el primero y el último plano, alimentándose de cuestiones intermedias, segundas si se empieza a contar por el principio, penúltimas si se cuenta por el fin.
 

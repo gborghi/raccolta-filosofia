@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/un_libro_sobre_platón" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Un libro sobre Platón" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Un libro sobre Platón" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, mayo de 1926
 

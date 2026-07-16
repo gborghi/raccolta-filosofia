@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_one_god" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the One God" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the One God" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE ONE GOD (QQ[2]-26)
 
-<span class="atom-split" data-atom="002" data-title="THE EXISTENCE OF GOD (THREE ARTICLES)" data-chapter="THE EXISTENCE OF GOD (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="THE EXISTENCE OF GOD (THREE ARTICLES)" data-chapter="THE EXISTENCE OF GOD (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Because the chief aim of sacred doctrine is to teach the knowledge of God, not only as He is
 in Himself, but also as He is the beginning of things and their last end, and especially of rational
@@ -42,7 +42,7 @@ Concerning the first, there are three points of inquiry:
 (2) Whether it is demonstrable?
 (3) Whether God exists?
 
-<span class="atom-split" data-atom="003" data-title="Whether the existence of God is self-evident?" data-chapter="Whether the existence of God is self-evident?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether the existence of God is self-evident?" data-chapter="Whether the existence of God is self-evident?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the existence of God is self-evident. Now those things are said to
 be self-evident to us the knowledge of which is naturally implanted in us, as we can see in regard
@@ -105,7 +105,7 @@ not exist.
 Reply to Objection 3: The existence of truth in general is self-evident but the existence of a
 Primal Truth is not self-evident to us.
 
-<span class="atom-split" data-atom="004" data-title="Whether it can be demonstrated that God exists?" data-chapter="Whether it can be demonstrated that God exists?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether it can be demonstrated that God exists?" data-chapter="Whether it can be demonstrated that God exists?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the existence of God cannot be demonstrated. For it is an article of
 faith that God exists. But what is of faith cannot be demonstrated, because a demonstration produces
@@ -156,7 +156,7 @@ that cause can be obtained. Yet from every effect the existence of the cause can
 demonstrated, and so we can demonstrate the existence of God from His effects; though from them
 we cannot perfectly know God as He is in His essence.
 
-<span class="atom-split" data-atom="005" data-title="Whether God exists?" data-chapter="Whether God exists?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether God exists?" data-chapter="Whether God exists?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not exist; because if one of two contraries be infinite, the
 other would be altogether destroyed. But the word "God" means that He is infinite goodness. If,
@@ -244,7 +244,7 @@ or will, since these can change or fail; for all things that are changeable and 
 be traced back to an immovable and self-necessary first principle, as was shown in the body of the
 Article.
 
-<span class="atom-split" data-atom="006" data-title="OF THE SIMPLICITY OF GOD (EIGHT ARTICLES)" data-chapter="OF THE SIMPLICITY OF GOD (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="OF THE SIMPLICITY OF GOD (EIGHT ARTICLES)" data-chapter="OF THE SIMPLICITY OF GOD (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 When the existence of a thing has been ascertained there remains the further question of the
 manner of its existence, in order that we may know its essence. Now, because we cannot know
@@ -267,7 +267,7 @@ Concerning His simplicity, there are eight points of inquiry:
 (7) Whether He is in any way composite, or wholly simple?
 (8) Whether He enters into composition with other things?
 
-<span class="atom-split" data-atom="007" data-title="Whether God is a body?" data-chapter="Whether God is a body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether God is a body?" data-chapter="Whether God is a body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is a body. For a body is that which has the three dimensions.
 But Holy [Scripture](/concepts/revelation) attributes the three dimensions to God, for it is written: "He is higher than
@@ -341,7 +341,7 @@ but by the affections of our soul, and by the actions of that same soul do we wi
 thus, to draw near to or to withdraw signifies merely spiritual actions based on the metaphor of
 local motion.
 
-<span class="atom-split" data-atom="008" data-title="Whether God is composed of matter and form?" data-chapter="Whether God is composed of matter and form?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether God is composed of matter and form?" data-chapter="Whether God is composed of matter and form?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is composed of matter and form. For whatever has a soul is
 composed of matter and form; since the soul is the form of the body. But [Scripture](/concepts/revelation) attributes a soul
@@ -386,7 +386,7 @@ itself, unless something else prevents it, can be received by many. But that for
 received in matter, but is self-subsisting, is individualized precisely because it cannot be received
 in a subject; and such a form is God. Hence it does not follow that matter exists in God.
 
-<span class="atom-split" data-atom="009" data-title="Whether God is the same as His essence or nature?" data-chapter="Whether God is the same as His essence or nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether God is the same as His essence or nature?" data-chapter="Whether God is the same as His essence or nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not the same as His essence or nature. For nothing can be in
 itself. But the substance or nature of God---i.e. the Godhead---is said to be in God. Therefore it
@@ -431,7 +431,7 @@ are able; and the imitation is here defective, precisely because what is simple 
 represented by divers things; consequently, composition is accidental to them, and therefore, in
 them "suppositum" is not the same as nature.
 
-<span class="atom-split" data-atom="010" data-title="Whether essence and existence are the same in God?" data-chapter="Whether essence and existence are the same in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether essence and existence are the same in God?" data-chapter="Whether essence and existence are the same in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [essence and existence](/concepts/essentia_existentia) are not the same in God. For if it be so, then
 the divine being has nothing added to it. Now being to which no addition is made is universal being
@@ -482,7 +482,7 @@ subject. Taking "to be" in the first sense, we cannot understand God's existence
 but only in the second sense. We know that this proposition which we form about God when we
 say "God is," is true; and this we know from His effects (Q[2], A[2]).
 
-<span class="atom-split" data-atom="011" data-title="Whether God is contained in a genus?" data-chapter="Whether God is contained in a genus?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether God is contained in a genus?" data-chapter="Whether God is contained in a genus?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is contained in a genus. For a substance is a being that subsists
 of itself. But this is especially true of God. Therefore God is in a genus of substance.
@@ -533,7 +533,7 @@ homogeneous with what is measured. Now, God is not a measure proportionate to an
 He is called the measure of all things, in the sense that everything has being only according as it
 resembles Him.
 
-<span class="atom-split" data-atom="012" data-title="Whether in God there are any accidents?" data-chapter="Whether in God there are any accidents?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether in God there are any accidents?" data-chapter="Whether in God there are any accidents?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there are accidents in God. For substance cannot be an accident, as
 [Aristotle](/figures/aristotle) says (Phys. i). Therefore that which is an accident in one, cannot, in another, be a substance.
@@ -567,7 +567,7 @@ Reply to Objection 2: Since substance is prior to its accidents, the principles 
 reducible to the principles of the substance as to that which is prior; although God is not first as if
 contained in the genus of substance; yet He is first in respect to all being, outside of every genus.
 
-<span class="atom-split" data-atom="013" data-title="Whether God is altogether simple?" data-chapter="Whether God is altogether simple?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether God is altogether simple?" data-chapter="Whether God is altogether simple?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not altogether simple. For whatever is from God must imitate
 Him. Thus from the first being are all beings; and from the first good is all good. But in the things
@@ -612,7 +612,7 @@ Reply to Objection 2: With us composite things are better than simple things, be
 perfections of created goodness cannot be found in one simple thing, but in many things. But the
 perfection of divine goodness is found in one simple thing (Q[4], A[1] and Q[6], A[2]).
 
-<span class="atom-split" data-atom="014" data-title="Whether God enters into the composition of other things?" data-chapter="Whether God enters into the composition of other things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether God enters into the composition of other things?" data-chapter="Whether God enters into the composition of other things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God enters into the composition of other things, for Dionysius says
 (Coel. Hier. iv): "The being of all things is that which is above being---the Godhead." But the being
@@ -669,7 +669,7 @@ it is better to say that they are, not different, but diverse. Hence, according 
 by something." Therefore, strictly speaking, primary matter and God do not differ, but are by their
 very being, diverse. Hence it does not follow they are the same.
 
-<span class="atom-split" data-atom="015" data-title="THE PERFECTION OF GOD (THREE ARTICLES)" data-chapter="THE PERFECTION OF GOD (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="THE PERFECTION OF GOD (THREE ARTICLES)" data-chapter="THE PERFECTION OF GOD (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having considered the divine simplicity, we treat next of God's perfection. Now because
 everything in so far as it is perfect is called good, we shall speak first of the divine perfection;
@@ -679,7 +679,7 @@ Concerning the first there are three points of inquiry:
 (2) Whether God is perfect universally, as having in Himself the perfections of all things?
 (3) Whether creatures can be said to be like God?
 
-<span class="atom-split" data-atom="016" data-title="Whether God is perfect?" data-chapter="Whether God is perfect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether God is perfect?" data-chapter="Whether God is perfect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that perfection does not belong to God. For we say a thing is perfect if
 it is completely made. But it does not befit God to be made. Therefore He is not perfect.
@@ -723,7 +723,7 @@ things as the receiver is to the received; but rather as the received to the rec
 I speak of the existence of man, or horse, or anything else, existence is considered a formal principle,
 and as something received; and not as that which exists.
 
-<span class="atom-split" data-atom="017" data-title="Whether the perfections of all things are in God?" data-chapter="Whether the perfections of all things are in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the perfections of all things are in God?" data-chapter="Whether the perfections of all things are in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the perfections of all things are not in God. For God is simple, as
 shown above (Q[3], A[7]); whereas the perfections of things are many and diverse. Therefore the
@@ -782,7 +782,7 @@ that which participates in existence need not participate in every mode of exist
 God's existence includes in itself life and wisdom, because nothing of the perfection of being can
 be wanting to Him who is subsisting being itself.
 
-<span class="atom-split" data-atom="018" data-title="Whether any creature can be like God?" data-chapter="Whether any creature can be like God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether any creature can be like God?" data-chapter="Whether any creature can be like God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that no creature can be like God. For it is written (Ps. 85:8): "There is
 none among the gods like unto Thee, O Lord." But of all creatures the most excellent are those
@@ -847,7 +847,7 @@ it must nowise be admitted that God is like creatures; because, as Dionysius say
 that which is caused." For, we say that a statue is like a man, but not conversely; so also a creature
 can be spoken of as in some sort like God; but not that God is like a creature.
 
-<span class="atom-split" data-atom="019" data-title="OF GOODNESS IN GENERAL (SIX ARTICLES)" data-chapter="OF GOODNESS IN GENERAL (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="OF GOODNESS IN GENERAL (SIX ARTICLES)" data-chapter="OF GOODNESS IN GENERAL (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider goodness: First, goodness in general. Secondly, the goodness of God.
 Under the first head there are six points of inquiry:
@@ -858,7 +858,7 @@ Under the first head there are six points of inquiry:
 (5) Whether goodness consists in mode, species, and order?
 (6) Whether goodness is divided into the virtuous, the useful, and the pleasant?
 
-<span class="atom-split" data-atom="020" data-title="Whether goodness differs really from being?" data-chapter="Whether goodness differs really from being?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether goodness differs really from being?" data-chapter="Whether goodness differs really from being?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that goodness differs really from being. For Boethius says (De Hebdom.):
 "I perceive that in nature the fact that things are good is one thing: that they are is another." Therefore
@@ -908,7 +908,7 @@ actuality.
 Reply to Objection 3: Again, goodness is spoken of as more or less according to a thing's
 superadded actuality, for example, as to knowledge or virtue.
 
-<span class="atom-split" data-atom="021" data-title="Whether goodness is prior in idea to being?" data-chapter="Whether goodness is prior in idea to being?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether goodness is prior in idea to being?" data-chapter="Whether goodness is prior in idea to being?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that goodness is prior in idea to being. For [names](/positions/nominalism) are arranged according
 to the arrangement of the things signified by the names. But Dionysius (Div. Nom. iii) assigned
@@ -970,7 +970,7 @@ Reply to Objection 4: Life, wisdom, and the like, are desirable only so far as t
 Hence, in each one of them some sort of being is desired. And thus nothing can be desired except
 being; and consequently nothing is good except being.
 
-<span class="atom-split" data-atom="022" data-title="Whether every being is good?" data-chapter="Whether every being is good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether every being is good?" data-chapter="Whether every being is good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not every being is good. For goodness is something superadded to
 being, as is clear from A[1]. But whatever is added to being limits it; as substance, quantity, quality,
@@ -1016,7 +1016,7 @@ aspect of moving another. Nor is it repugnant that there should be in some logic
 goodness nor form of goodness; since the idea of being is prior to the idea of goodness, as was said
 in the preceding article.
 
-<span class="atom-split" data-atom="023" data-title="Whether goodness has the aspect of a final cause?" data-chapter="Whether goodness has the aspect of a final cause?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether goodness has the aspect of a final cause?" data-chapter="Whether goodness has the aspect of a final cause?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that goodness has not the aspect of a [final cause](/concepts/four_causes), but rather of the other
 causes. For, as Dionysius says (Div. Nom. iv), "Goodness is praised as [beauty](/concepts/beauty)." But beauty has the
@@ -1064,7 +1064,7 @@ it is by our will that we employ whatever powers we may have. Hence a man is sai
 not by his good understanding; but by his good will. Now the will relates to the end as to its proper
 object. Thus the saying, "we exist because God is good" has reference to the final cause.
 
-<span class="atom-split" data-atom="024" data-title="Whether the essence of goodness consists in mode, species and order? (1/2)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the essence of goodness consists in mode, species and order? (1/2)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the essence of goodness does not consist in mode, species and order.
 For goodness and being differ logically. But mode, species and order seem to belong to the nature
@@ -1177,7 +1177,7 @@ the pleasant.
 Reply to Objection 1: Goodness, so far as it is identical with being, is divided by the ten
 predicaments. But this division belongs to it according to its proper formality.
 
-<span class="atom-split" data-atom="025" data-title="Whether the essence of goodness consists in mode, species and order? (2/2)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the essence of goodness consists in mode, species and order? (2/2)" data-chapter="Whether the essence of goodness consists in mode, species and order?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: This division is not by opposite things; but by opposite aspects. Now
 those things are called pleasing which have no other formality under which they are desirable except
@@ -1190,7 +1190,7 @@ predicated equally of them all; but as something analogical to be predicated of 
 priority and posteriority. Hence it is predicated chiefly of the virtuous; then of the pleasant; and
 lastly of the useful.
 
-<span class="atom-split" data-atom="026" data-title="THE GOODNESS OF GOD (FOUR ARTICLES)" data-chapter="THE GOODNESS OF GOD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="THE GOODNESS OF GOD (FOUR ARTICLES)" data-chapter="THE GOODNESS OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the goodness of God; under which head there are four points of inquiry:
 (1) Whether goodness belongs to God?
@@ -1198,7 +1198,7 @@ We next consider the goodness of God; under which head there are four points of 
 (3) Whether He alone is essentially good?
 (4) Whether all things are good by the divine goodness?
 
-<span class="atom-split" data-atom="027" data-title="Whether God is good?" data-chapter="Whether God is good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether God is good?" data-chapter="Whether God is good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that to be good does not belong to God. For goodness consists in mode,
 species and order. But these do not seem to belong to God; since God is immense and is not ordered
@@ -1231,7 +1231,7 @@ Himself, and this is proper to the rational creature; others know some participa
 and this belongs also to sensible knowledge; others have a natural desire without knowledge, as
 being directed to their ends by a higher intelligence.
 
-<span class="atom-split" data-atom="028" data-title="Whether God is the supreme good?" data-chapter="Whether God is the supreme good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether God is the supreme good?" data-chapter="Whether God is the supreme good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not the supreme good. For the supreme good adds something
 to good; otherwise it would belong to every good. But everything which is an addition to anything
@@ -1280,7 +1280,7 @@ good things; not that He is any other genus, but that He is outside genus, and i
 every genus; and thus He is compared to others by excess, and it is this kind of comparison the
 supreme good implies.
 
-<span class="atom-split" data-atom="029" data-title="Whether to be essentially good belongs to God alone?" data-chapter="Whether to be essentially good belongs to God alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether to be essentially good belongs to God alone?" data-chapter="Whether to be essentially good belongs to God alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that to be essentially good does not belong to God alone. For as "one"
 is convertible with "being," so is "good"; as we said above (Q[5], A[1]). But every being is one
@@ -1328,7 +1328,7 @@ by it something has being, not because it itself has being through something els
 reason is it called good because by it something is good, and not because it itself has some other
 goodness whereby it is good.
 
-<span class="atom-split" data-atom="030" data-title="Whether all things are good by the divine goodness?" data-chapter="Whether all things are good by the divine goodness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether all things are good by the divine goodness?" data-chapter="Whether all things are good by the divine goodness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that all things are good by the divine goodness. For [Augustine](/figures/augustine) says (De
 Trin. viii), "This and that are good; take away this and that, and see good itself if thou canst; and
@@ -1367,7 +1367,7 @@ the similitude of the divine goodness belonging to it, which is formally its own
 it is denominated good. And so of all things there is one goodness, and yet many goodnesses.
 This is a sufficient Reply to the Objections.
 
-<span class="atom-split" data-atom="031" data-title="THE INFINITY OF GOD (FOUR ARTICLES)" data-chapter="THE INFINITY OF GOD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="THE INFINITY OF GOD (FOUR ARTICLES)" data-chapter="THE INFINITY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the divine perfection we must consider the divine [infinity](/concepts/infinity), and God's existence
 in things: for God is everywhere, and in all things, inasmuch as He is boundless and infinite.
@@ -1377,7 +1377,7 @@ Concerning the first, there are four points of inquiry:
 (3) Whether anything can be infinitude in magnitude?
 (4) Whether an infinite multitude can exist?
 
-<span class="atom-split" data-atom="032" data-title="Whether God is infinite?" data-chapter="Whether God is infinite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether God is infinite?" data-chapter="Whether God is infinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not infinite. For everything infinite is imperfect, as the
 Philosopher says; because it has parts and matter, as is said in Phys. iii. But God is most perfect;
@@ -1426,7 +1426,7 @@ to be apart from Him. Even so, were there such a thing as a self-subsisting whit
 that it did not exist in anything else, would make it distinct from every other whiteness existing in
 a subject.
 
-<span class="atom-split" data-atom="033" data-title="Whether anything but God can be essentially infinite?" data-chapter="Whether anything but God can be essentially infinite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether anything but God can be essentially infinite?" data-chapter="Whether anything but God can be essentially infinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that something else besides God can be essentially infinite. For the power
 of anything is proportioned to its essence. Now if the essence of God is infinite, His power must
@@ -1472,7 +1472,7 @@ being, but potentially only; hence it is something concreated rather than create
 primary matter even as a potentiality is not absolutely infinite, but relatively, because its potentiality
 extends only to natural forms.
 
-<span class="atom-split" data-atom="034" data-title="Whether an actually infinite magnitude can exist?" data-chapter="Whether an actually infinite magnitude can exist?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether an actually infinite magnitude can exist?" data-chapter="Whether an actually infinite magnitude can exist?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there can be something actually infinite in magnitude. For in
 mathematics there is no error, since "there is no lie in things abstract," as the Philosopher says
@@ -1546,7 +1546,7 @@ they have [potentiality](/concepts/act_potency) mixed with actuality. But magnit
 in quantity refers to matter, and does not agree with the totality of magnitude; yet it agrees with
 the totality of time and movement: for it is proper to matter to be in potentiality.
 
-<span class="atom-split" data-atom="035" data-title="Whether an infinite multitude can exist?" data-chapter="Whether an infinite multitude can exist?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether an infinite multitude can exist?" data-chapter="Whether an infinite multitude can exist?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that an actually infinite multitude is possible. For it is not impossible for
 a [potentiality](/concepts/act_potency) to be made actual. But number can be multiplied to [infinity](/concepts/infinity). Therefore it is possible
@@ -1604,7 +1604,7 @@ Reply to Objection 3: Although the supposition of some things does not preclude 
 of others, still the supposition of an infinite number is opposed to any single species of multitude.
 Hence it is not possible for an actually infinite multitude to exist.
 
-<span class="atom-split" data-atom="036" data-title="THE EXISTENCE OF GOD IN THINGS (FOUR ARTICLES)" data-chapter="THE EXISTENCE OF GOD IN THINGS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="THE EXISTENCE OF GOD IN THINGS (FOUR ARTICLES)" data-chapter="THE EXISTENCE OF GOD IN THINGS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Since it evidently belongs to the infinite to be present everywhere, and in all things, we now
 consider whether this belongs to God; and concerning this there arise four points of inquiry:
@@ -1613,7 +1613,7 @@ consider whether this belongs to God; and concerning this there arise four point
 (3) Whether God is everywhere by essence, power, and presence?
 (4) Whether to be everywhere belongs to God alone?
 
-<span class="atom-split" data-atom="037" data-title="Whether God is in all things?" data-chapter="Whether God is in all things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether God is in all things?" data-chapter="Whether God is in all things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not in all things. For what is above all things is not in all
 things. But God is above all, according to the Psalm (Ps. 112:4), "The Lord is high above all nations,"
@@ -1666,7 +1666,7 @@ deformity of sin which is not from Him; therefore, it is not to be absolutely co
 in the demons, except with the addition, "inasmuch as they are beings." But in things not deformed
 in their nature, we must say absolutely that God is.
 
-<span class="atom-split" data-atom="038" data-title="Whether God is everywhere?" data-chapter="Whether God is everywhere?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether God is everywhere?" data-chapter="Whether God is everywhere?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not everywhere. For to be everywhere means to be in every
 place. But to be in every place does not belong to God, to Whom it does not belong to be in place
@@ -1724,7 +1724,7 @@ not whole in every part of the surface. On the other hand, incorporeal substance
 either of themselves or accidentally, except in reference to the perfect idea of their essence. Hence,
 as the soul is whole in every part of the body, so is God whole in all things and in each one.
 
-<span class="atom-split" data-atom="039" data-title="Whether God is everywhere by essence, presence and power?" data-chapter="Whether God is everywhere by essence, presence and power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether God is everywhere by essence, presence and power?" data-chapter="Whether God is everywhere by essence, presence and power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the mode of God's existence in all things is not properly described
 by way of essence, presence and power. For what is by essence in anything, is in it essentially. But
@@ -1796,7 +1796,7 @@ present in anything as the object known and loved; therefore only grace constitu
 of God's existence in things. There is, however, another special mode of God's existence in man
 by union, which will be treated of in its own place (TP).
 
-<span class="atom-split" data-atom="040" data-title="Whether to be everywhere belongs to God alone?" data-chapter="Whether to be everywhere belongs to God alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether to be everywhere belongs to God alone?" data-chapter="Whether to be everywhere belongs to God alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that to be everywhere does not belong to God alone. For the universal,
 according to the Philosopher (Poster. i), is everywhere, and always; primary matter also, since it
@@ -1867,14 +1867,14 @@ according as the adverb determines the act of the seer, as proceeding from the s
 true that where the soul feels and sees, there it is, and there it lives according to this mode of
 speaking; and thus it does not follow that it is everywhere.
 
-<span class="atom-split" data-atom="041" data-title="THE IMMUTABILITY OF GOD (TWO ARTICLES)" data-chapter="THE IMMUTABILITY OF GOD (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="THE IMMUTABILITY OF GOD (TWO ARTICLES)" data-chapter="THE IMMUTABILITY OF GOD (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider God's immutability, and His [eternity](/positions/eternity) following on His immutability. On the
 immutability of God there are two points of inquiry:
 (1) Whether God is altogether immutable?
 (2) Whether to be immutable belongs to God alone?
 
-<span class="atom-split" data-atom="042" data-title="Whether God is altogether immutable?" data-chapter="Whether God is altogether immutable?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether God is altogether immutable?" data-chapter="Whether God is altogether immutable?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not altogether immutable. For whatever moves itself is in
 some way mutable. But, as [Augustine](/figures/augustine) says (Gen. ad lit viii, 20), "The Creator Spirit moves Himself
@@ -1926,7 +1926,7 @@ Reply to Objection 3: These things are said of God in Scripture metaphorically. 
 is said to enter a house, or to go out, according as its rays reach the house, so God is said to approach
 to us, or to recede from us, when we receive the influx of His goodness, or decline from Him.
 
-<span class="atom-split" data-atom="043" data-title="Whether to be immutable belongs to God alone?" data-chapter="Whether to be immutable belongs to God alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether to be immutable belongs to God alone?" data-chapter="Whether to be immutable belongs to God alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that to be immutable does not belong to God alone. For the Philosopher
 says (Metaph. ii) that "matter is in everything which is moved." But, according to some, certain
@@ -2001,7 +2001,7 @@ variation; but they are subject to variation because by them their subject is va
 clear that they vary in so far as they are; for they are not called beings as though they were the
 subject of being, but because through them something has being.
 
-<span class="atom-split" data-atom="044" data-title="THE ETERNITY OF GOD (SIX ARTICLES)" data-chapter="THE ETERNITY OF GOD (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="THE ETERNITY OF GOD (SIX ARTICLES)" data-chapter="THE ETERNITY OF GOD (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the [eternity](/positions/eternity) of God, concerning which arise six points of inquiry:
 (1) What is eternity?
@@ -2010,7 +2010,7 @@ We must now consider the [eternity](/positions/eternity) of God, concerning whic
 (4) Whether eternity differs from time?
 (5) The difference of aeviternity, as there is one time, and one eternity?
 
-<span class="atom-split" data-atom="045" data-title="Whether this is a good definition of eternity, \&quot;The simultaneously-whole and perfect possession of interminable life\&quot;?" data-chapter="Whether this is a good definition of eternity, \&quot;The simultaneously-whole and perfect possession of interminable life\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether this is a good definition of eternity, \&quot;The simultaneously-whole and perfect possession of interminable life\&quot;?" data-chapter="Whether this is a good definition of eternity, \&quot;The simultaneously-whole and perfect possession of interminable life\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is a good definition of eternity, "The simultaneously-whole and perfect possession of interminable life"?
 
@@ -2076,7 +2076,7 @@ to remove the idea of time, and the word "perfect" is used to exclude the "now" 
 Reply to Objection 6: Whatever is possessed, is held firmly and quietly; therefore to designate
 the immutability and permanence of eternity, we use the word "possession."
 
-<span class="atom-split" data-atom="046" data-title="Whether God is eternal?" data-chapter="Whether God is eternal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether God is eternal?" data-chapter="Whether God is eternal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not eternal. For nothing made can be predicated of God; for
 Boethius says (De Trin. iv) that, "The now that flows away makes time, the now that stands still
@@ -2128,7 +2128,7 @@ apprehension of our mind alone.
 Reply to Objection 4: Words denoting different times are applied to God, because His eternity
 includes all times; not as if He Himself were altered through present, past and future.
 
-<span class="atom-split" data-atom="047" data-title="Whether to be eternal belongs to God alone?" data-chapter="Whether to be eternal belongs to God alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether to be eternal belongs to God alone?" data-chapter="Whether to be eternal belongs to God alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it does not belong to God alone to be eternal. For it is written that
 "those who instruct many to justice," shall be "as stars unto perpetual eternities [*Douay: 'for all
@@ -2172,7 +2172,7 @@ Philosopher (Metaph. vi), is in the mind. Therefore in this sense the true and n
 because they are in the eternal mind, which is the divine intellect alone; hence it does not follow
 that anything beside God is eternal.
 
-<span class="atom-split" data-atom="048" data-title="Whether eternity differs from time? (1/2)" data-chapter="Whether eternity differs from time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether eternity differs from time? (1/2)" data-chapter="Whether eternity differs from time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [eternity](/positions/eternity) does not differ from time. For two measures of duration
 cannot exist together, unless one is part of the other; for instance two days or two hours cannot be
@@ -2256,7 +2256,7 @@ impossible. Therefore aeviternity does not differ from time.
 On the contrary, Boethius says (De Consol. iii) "Who commandest time to be separate from
 aeviternity."
 
-<span class="atom-split" data-atom="049" data-title="Whether eternity differs from time? (2/2)" data-chapter="Whether eternity differs from time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether eternity differs from time? (2/2)" data-chapter="Whether eternity differs from time?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Aeviternity differs from time, and from [eternity](/positions/eternity), as the mean between them
 both. This difference is explained by some to consist in the fact that eternity has neither beginning
@@ -2314,7 +2314,7 @@ Reply to Objection 4: The duration of aeviternity is infinite, forasmuch as it i
 time. Hence, there is no incongruity in saying that a creature is infinite, inasmuch as it is not ended
 by any other creature.
 
-<span class="atom-split" data-atom="050" data-title="Whether there is only one aeviternity?" data-chapter="Whether there is only one aeviternity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether there is only one aeviternity?" data-chapter="Whether there is only one aeviternity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there is not only one aeviternity; for it is written in the apocryphal
 books of Esdras: "Majesty and power of ages are with Thee, O Lord."
@@ -2383,7 +2383,7 @@ one aeviternity by reason of the first, though all did not begin together.
 Reply to Objection 4: For things to be measured by one, it is not necessary that the one should
 be the cause of all, but that it be more simple than the rest.
 
-<span class="atom-split" data-atom="051" data-title="THE UNITY OF GOD (FOUR ARTICLES)" data-chapter="THE UNITY OF GOD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="THE UNITY OF GOD (FOUR ARTICLES)" data-chapter="THE UNITY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After the foregoing, we consider the divine unity; concerning which there are four points of
 inquiry:
@@ -2392,7 +2392,7 @@ inquiry:
 (3) Whether God is one?
 (4) Whether He is in the highest degree one?
 
-<span class="atom-split" data-atom="052" data-title="Whether \&quot;one\&quot; adds anything to \&quot;being\&quot;?" data-chapter="Whether \&quot;one\&quot; adds anything to \&quot;being\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether \&quot;one\&quot; adds anything to \&quot;being\&quot;?" data-chapter="Whether \&quot;one\&quot; adds anything to \&quot;being\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether "one" adds anything to "being"?
 
@@ -2454,7 +2454,7 @@ one in genus; and what are many in processions, are one in principle."
 Reply to Objection 3: It does not follow that it is nugatory to say "being" is "one"; forasmuch
 as "one" adds an idea to "being."
 
-<span class="atom-split" data-atom="053" data-title="Whether \&quot;one\&quot; and \&quot;many\&quot; are opposed to each other?" data-chapter="Whether \&quot;one\&quot; and \&quot;many\&quot; are opposed to each other?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether \&quot;one\&quot; and \&quot;many\&quot; are opposed to each other?" data-chapter="Whether \&quot;one\&quot; and \&quot;many\&quot; are opposed to each other?" data-kind="atom" data-srclang="en"></span>
 
 # Whether "one" and "many" are opposed to each other?
 
@@ -2525,7 +2525,7 @@ understood from the very negation of being: so what first comes to mind is being
 this being is not that being, and thus we apprehend division as a consequence; thirdly, comes the
 notion of one; fourthly, the notion of multitude.
 
-<span class="atom-split" data-atom="054" data-title="Whether God is one?" data-chapter="Whether God is one?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether God is one?" data-chapter="Whether God is one?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not one. For it is written "For there be many gods and many
 lords" (1 Cor. 8:5).
@@ -2573,7 +2573,7 @@ way only of privation and remotion. Thus there is no reason why a certain kind o
 not be predicated of God; for instance, that He is incorporeal and infinite; and in the same way it
 is said of God that He is one.
 
-<span class="atom-split" data-atom="055" data-title="Whether God is supremely one?" data-chapter="Whether God is supremely one?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether God is supremely one?" data-chapter="Whether God is supremely one?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not supremely "one." For "one" is so called from the privation
 of division. But privation cannot be greater or less. Therefore God is not more "one" than other
@@ -2611,7 +2611,7 @@ and subject, so neither can an accident.
 Reply to Objection 3: Although every being is "one" by its substance, still every such substance
 is not equally the cause of unity; for the substance of some things is compound and of others simple.
 
-<span class="atom-split" data-atom="056" data-title="HOW GOD IS KNOWN BY US (THIRTEEN ARTICLES)" data-chapter="HOW GOD IS KNOWN BY US (THIRTEEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="HOW GOD IS KNOWN BY US (THIRTEEN ARTICLES)" data-chapter="HOW GOD IS KNOWN BY US (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 As hitherto we have considered God as He is in Himself, we now go on to consider in what
 manner He is in the knowledge of creatures; concerning which there are thirteen points of inquiry:
@@ -2631,7 +2631,7 @@ essence of God?
 (13) Whether there is in this life any knowledge of God through grace above the knowledge of
 natural reason?
 
-<span class="atom-split" data-atom="057" data-title="Whether any created intellect can see the essence of God?" data-chapter="Whether any created intellect can see the essence of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether any created intellect can see the essence of God?" data-chapter="Whether any created intellect can see the essence of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that no created intellect can see the essence of God. For Chrysostom
 (Hom. xiv. in Joan.) commenting on Jn. 1:18, "No man hath seen God at any time," says: "Not
@@ -2692,7 +2692,7 @@ sense every relation of one thing to another is called proportion. And in this s
 proportion of the creature to God, inasmuch as it is related to Him as the effect of its cause, and as
 potentiality to its act; and in this way the created intellect can be proportioned to know God.
 
-<span class="atom-split" data-atom="058" data-title="Whether the essence of God is seen by the created intellect through an image?" data-chapter="Whether the essence of God is seen by the created intellect through an image?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the essence of God is seen by the created intellect through an image?" data-chapter="Whether the essence of God is seen by the created intellect through an image?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the essence of God is seen through an image by the created intellect.
 For it is written: "We know that when He shall appear, we shall be like to Him, and [Vulg.: 'because']
@@ -2753,7 +2753,7 @@ which are not their own existence are united to the intellect by means of some e
 intellect itself is informed, and made in act; so the divine essence is united to the created intellect,
 as the object actually understood, making the intellect in act by and of itself.
 
-<span class="atom-split" data-atom="059" data-title="Whether the essence of God can be seen with the bodily eye?" data-chapter="Whether the essence of God can be seen with the bodily eye?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether the essence of God can be seen with the bodily eye?" data-chapter="Whether the essence of God can be seen with the bodily eye?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the essence of God can be seen by the corporeal eye. For it is written
 (Job 19:26): "In my flesh I shall see . . . God," and (Job 42:5), "With the hearing of the ear I have
@@ -2803,7 +2803,7 @@ Reply to Objection 3: The essence of God is not seen in a vision of the imaginat
 imagination receives some form representing God according to some mode of similitude; as in the
 divine [Scripture](/concepts/revelation) divine things are metaphorically described by means of sensible things.
 
-<span class="atom-split" data-atom="060" data-title="Whether any created intellect by its natural powers can see the Divine essence?" data-chapter="Whether any created intellect by its natural powers can see the Divine essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether any created intellect by its natural powers can see the Divine essence?" data-chapter="Whether any created intellect by its natural powers can see the Divine essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a created intellect can see the Divine essence by its own natural
 power. For Dionysius says (Div. Nom. iv): "An angel is a pure mirror, most clear, receiving, if it
@@ -2875,7 +2875,7 @@ and its existence is another. Since therefore the created intellect is naturally
 the concrete form, and the concrete being abstractedly, by way of a kind of resolution of parts; it
 can by grace be raised up to know separate subsisting substance, and separate subsisting existence.
 
-<span class="atom-split" data-atom="061" data-title="Whether the created intellect needs any created light in order to see the essence of God?" data-chapter="Whether the created intellect needs any created light in order to see the essence of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the created intellect needs any created light in order to see the essence of God?" data-chapter="Whether the created intellect needs any created light in order to see the essence of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the created intellect does not need any created light in order to see
 the essence of God. For what is of itself lucid in sensible things does not require any other light in
@@ -2923,7 +2923,7 @@ that form. Hence the light of glory cannot be natural to a creature unless the c
 nature; which is impossible. But by this light the rational creature is made deiform, as is said in
 this article.
 
-<span class="atom-split" data-atom="062" data-title="Whether of those who see the essence of God, one sees more perfectly than another?" data-chapter="Whether of those who see the essence of God, one sees more perfectly than another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether of those who see the essence of God, one sees more perfectly than another?" data-chapter="Whether of those who see the essence of God, one sees more perfectly than another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that of those who see the essence of God, one does not see more perfectly
 than another. For it is written (1 Jn. 3:2): "We shall see Him as He is." But He is only in one way.
@@ -2978,7 +2978,7 @@ the same object will be presented to all---viz. the essence of God; nor will it 
 participation of the object seen by different similitudes; but it will arise on the part of the diverse
 faculty of the intellect, not, indeed, the natural faculty, but the glorified faculty.
 
-<span class="atom-split" data-atom="063" data-title="Whether those who see the essence of God comprehend Him?" data-chapter="Whether those who see the essence of God comprehend Him?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether those who see the essence of God comprehend Him?" data-chapter="Whether those who see the essence of God comprehend Him?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that those who see the divine essence, comprehend God. For the Apostle
 says (Phil. 3:12): "But I follow after, if I may by any means comprehend [Douay: 'apprehend']."
@@ -3054,7 +3054,7 @@ infinitely knowable; nevertheless, this infinite mode does not extend to enable 
 infinitely; thus, for instance, a person can have a probable opinion that a proposition is demonstrable,
 although he himself does not know it as demonstrated.
 
-<span class="atom-split" data-atom="064" data-title="Whether those who see the essence of God see all in God?" data-chapter="Whether those who see the essence of God see all in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether those who see the essence of God see all in God?" data-chapter="Whether those who see the essence of God see all in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that those who see the essence of God see all things in God. For Gregory
 says (Dialog. iv): "What do they not see, who see Him Who sees all things?" But God sees all
@@ -3114,7 +3114,7 @@ the man who knoweth all these" (i.e. all creatures) "and knoweth not Thee! but h
 knoweth Thee although he know not these. And whoso knoweth both Thee and them is not the
 happier for them, but for Thee alone."
 
-<span class="atom-split" data-atom="065" data-title="Whether what is seen in God by those who see the Divine essence, is seen through any similitude?" data-chapter="Whether what is seen in God by those who see the Divine essence, is seen through any similitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether what is seen in God by those who see the Divine essence, is seen through any similitude?" data-chapter="Whether what is seen in God by those who see the Divine essence, is seen through any similitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that what is seen in God by those who see the Divine essence, is seen
 by means of some similitude. For every kind of knowledge comes about by the knower being
@@ -3163,7 +3163,7 @@ in the divine essence, which remained in Paul even when he had ceased to see the
 Still this kind of vision whereby things are seen by this likeness thus conceived, is not the same as
 that whereby things are seen in God.
 
-<span class="atom-split" data-atom="066" data-title="Whether those who see the essence of God see all they see in it at the same time?" data-chapter="Whether those who see the essence of God see all they see in it at the same time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether those who see the essence of God see all they see in it at the same time?" data-chapter="Whether those who see the essence of God see all they see in it at the same time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that those who see the essence of God do not see all they see in Him at
 one and the same time. For according to the Philosopher (Topic. ii): "It may happen that many
@@ -3198,7 +3198,7 @@ ideas given them, the angels do not know all things simultaneously, and thus the
 act of understanding according to time; but as regards what they see in God, they see all at the same
 time.
 
-<span class="atom-split" data-atom="067" data-title="Whether anyone in this life can see the essence of God?" data-chapter="Whether anyone in this life can see the essence of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether anyone in this life can see the essence of God?" data-chapter="Whether anyone in this life can see the essence of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that one can in this life see the Divine essence. For Jacob said: "I have
 seen God face to face" (Gn. 32:30). But to see Him face to face is to see His essence, as appears
@@ -3265,7 +3265,7 @@ Reply to Objection 4: Intellectual vision is of the things which are in the soul
 as intelligible things are in the intellect. And thus God is in the souls of the blessed; not thus is He
 in our soul, but by presence, essence and power.
 
-<span class="atom-split" data-atom="068" data-title="Whether God can be known in this life by natural reason?" data-chapter="Whether God can be known in this life by natural reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether God can be known in this life by natural reason?" data-chapter="Whether God can be known in this life by natural reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that by natural reason we cannot know God in this life. For Boethius
 says (De Consol. v) that "reason does not grasp simple form." But God is a supremely simple form,
@@ -3306,7 +3306,7 @@ Augustine says (Retract. i), retracting what he had said before: "I do not appro
 prayer, 'God who willest that only the pure should know truth.' For it can be answered that many
 who are not pure can know many truths," i.e. by natural reason.
 
-<span class="atom-split" data-atom="069" data-title="Whether by grace a higher knowledge of God can be obtained than by natural reason?" data-chapter="Whether by grace a higher knowledge of God can be obtained than by natural reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether by grace a higher knowledge of God can be obtained than by natural reason?" data-chapter="Whether by grace a higher knowledge of God can be obtained than by natural reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that by grace a higher knowledge of God is not obtained than by natural
 reason. For Dionysius says (De Mystica Theol. i) that whoever is the more united to God in this
@@ -3358,7 +3358,7 @@ vision of the believer, but from the vision of Him who is believed. Thus as far 
 of vision, it falls short of the knowledge which belongs to science, for science determines the
 intellect to one object by the vision and understanding of first principles.
 
-<span class="atom-split" data-atom="070" data-title="THE NAMES OF GOD (TWELVE ARTICLES)" data-chapter="THE NAMES OF GOD (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="THE NAMES OF GOD (TWELVE ARTICLES)" data-chapter="THE NAMES OF GOD (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After the consideration of those things which belong to the divine knowledge, we now proceed
 to the consideration of the divine [names](/positions/nominalism). For everything is named by us according to our knowledge
@@ -3379,7 +3379,7 @@ and by opinion?
 (11) Whether this name, "Who is," is the supremely appropriate name of God?
 (12) Whether affirmative propositions can be formed about God?
 
-<span class="atom-split" data-atom="071" data-title="Whether a name can be given to God?" data-chapter="Whether a name can be given to God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether a name can be given to God?" data-chapter="Whether a name can be given to God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that no name can be given to God. For Dionysius says (Div. Nom. i)
 that, "Of Him there is neither name, nor can one be found of Him;" and it is written: "What is His
@@ -3434,7 +3434,7 @@ demonstrative pronouns are applied to God as describing what is understood, not 
 For we can only describe Him as far as we understand Him. Thus, according as nouns, participles
 and demonstrative pronouns are applicable to God, so far can He be signified by relative pronouns.
 
-<span class="atom-split" data-atom="072" data-title="Whether any name can be applied to God substantially?" data-chapter="Whether any name can be applied to God substantially?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether any name can be applied to God substantially?" data-chapter="Whether any name can be applied to God substantially?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that no name can be applied to God substantially. For Damascene says
 (De Fide Orth. i, 9): "Everything said of God signifies not His substance, but rather shows forth
@@ -3514,7 +3514,7 @@ Reply to Objection 3: We cannot know the essence of God in this life, as He real
 Himself; but we know Him accordingly as He is represented in the perfections of creatures; and
 thus the names imposed by us signify Him in that manner only.
 
-<span class="atom-split" data-atom="073" data-title="Whether any name can be applied to God in its literal sense?" data-chapter="Whether any name can be applied to God in its literal sense?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether any name can be applied to God in its literal sense?" data-chapter="Whether any name can be applied to God in its literal sense?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that no name is applied literally to God. For all [names](/positions/nominalism) which we apply
 to God are taken from creatures; as was explained above (A[1]). But the names of creatures are
@@ -3561,7 +3561,7 @@ Reply to Objection 3: These names which are applied to God literally imply corpo
 not in the thing signified, but as regards their mode of signification; whereas those which are applied
 to God metaphorically imply and mean a corporeal condition in the thing signified.
 
-<span class="atom-split" data-atom="074" data-title="Whether names applied to God are synonymous?" data-chapter="Whether names applied to God are synonymous?" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether names applied to God are synonymous?" data-chapter="Whether names applied to God are synonymous?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that these [names applied to God](/concepts/analogy_of_being) are synonymous [names](/positions/nominalism). For synonymous
 names are those which mean exactly the same. But these names applied to God mean entirely the
@@ -3612,7 +3612,7 @@ in others should exist in Him simply and unitedly. Thus it comes about that He i
 and yet multiple in idea, because our intellect apprehends Him in a manifold manner, as things
 represent Him.
 
-<span class="atom-split" data-atom="075" data-title="Whether what is said of God and of creatures is univocally predicated of them?" data-chapter="Whether what is said of God and of creatures is univocally predicated of them?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether what is said of God and of creatures is univocally predicated of them?" data-chapter="Whether what is said of God and of creatures is univocally predicated of them?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the things attributed to God and creatures are univocal. For every
 equivocal term is reduced to the univocal, as many are reduced to one; for if the name "dog" be
@@ -3698,7 +3698,7 @@ necessary that God and creatures should be in the same genus.
 The arguments adduced in the contrary sense prove indeed that these names are not predicated
 univocally of God and creatures; yet they do not prove that they are predicated equivocally.
 
-<span class="atom-split" data-atom="076" data-title="Whether names predicated of God are predicated primarily of creatures?" data-chapter="Whether names predicated of God are predicated primarily of creatures?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether names predicated of God are predicated primarily of creatures?" data-chapter="Whether names predicated of God are predicated primarily of creatures?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [names](/positions/nominalism) are predicated primarily of creatures rather than of God. For
 we name anything accordingly as we know it, since "names", as the Philosopher says, "are signs
@@ -3755,7 +3755,7 @@ said above.
 Reply to Objection 3: This objection would be valid if these names were applied to God only
 as cause, and not also essentially, for instance as "healthy" is applied to medicine.
 
-<span class="atom-split" data-atom="077" data-title="Whether names which imply relation to creatures are predicated of God temporally? (1/2)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether names which imply relation to creatures are predicated of God temporally? (1/2)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [names](/positions/nominalism) which imply relation to creatures are not predicated of God
 temporally. For all such names signify the divine substance, as is universally held. Hence also
@@ -3864,7 +3864,7 @@ related to Him: and since the relation of subjection is real in the creature, it
 Lord not in idea only, but in reality; for He is called Lord according to the manner in which the
 creature is subject to Him.
 
-<span class="atom-split" data-atom="078" data-title="Whether names which imply relation to creatures are predicated of God temporally? (2/2)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether names which imply relation to creatures are predicated of God temporally? (2/2)" data-chapter="Whether names which imply relation to creatures are predicated of God temporally?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: To know whether relations are simultaneous by nature or otherwise, it
 is not necessary by nature or otherwise of things to which they belong but the meaning of the
@@ -3879,7 +3879,7 @@ signification of Lord includes the idea of a servant and vice versa, these two r
 and "servant," are simultaneous by nature. Hence, God was not "Lord" until He had a creature
 subject to Himself.
 
-<span class="atom-split" data-atom="079" data-title="Whether this name \&quot;God\&quot; is a name of the nature?" data-chapter="Whether this name \&quot;God\&quot; is a name of the nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether this name \&quot;God\&quot; is a name of the nature?" data-chapter="Whether this name \&quot;God\&quot; is a name of the nature?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this name "God" is a name of the nature?
 
@@ -3922,7 +3922,7 @@ what it is; but only by way of eminence, and by way of causality, and of negatio
 signify something existing above all things, the principle of all things and removed from all things;
 for those who name God intend to signify all this.
 
-<span class="atom-split" data-atom="080" data-title="Whether this name \&quot;God\&quot; is communicable?" data-chapter="Whether this name \&quot;God\&quot; is communicable?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether this name \&quot;God\&quot; is communicable?" data-chapter="Whether this name \&quot;God\&quot; is communicable?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this name "God" is communicable?
 
@@ -3997,7 +3997,7 @@ signify the perfections themselves absolutely; and therefore they are in truth c
 many. But this name "God" is given to God from His own proper operation, which we experience
 continually, to signify the divine nature.
 
-<span class="atom-split" data-atom="081" data-title="Whether this name \&quot;God\&quot; is applied to God univocally by nature, by participation, and according to opinion?" data-chapter="Whether this name \&quot;God\&quot; is applied to God univocally by nature, by participation, and according to opinion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether this name \&quot;God\&quot; is applied to God univocally by nature, by participation, and according to opinion?" data-chapter="Whether this name \&quot;God\&quot; is applied to God univocally by nature, by participation, and according to opinion?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this name "God" is applied to God univocally by nature, by participation, and according to opinion?
 
@@ -4064,7 +4064,7 @@ Catholic does in saying an idol is not God. But if anyone should be quite ignora
 he could not even name Him, unless, perhaps, as we use names the meaning of which we know
 not.
 
-<span class="atom-split" data-atom="082" data-title="Whether this name, HE WHO IS, is the most proper name of God?" data-chapter="Whether this name, HE WHO IS, is the most proper name of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether this name, HE WHO IS, is the most proper name of God?" data-chapter="Whether this name, HE WHO IS, is the most proper name of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this name HE WHO IS is not the most proper name of God. For this
 name "God" is an incommunicable name. But this name HE WHO IS, is not an incommunicable
@@ -4117,7 +4117,7 @@ Reply to Objection 3: It is not necessary that all the divine names should impor
 creatures, but it suffices that they be imposed from some perfections flowing from God to creatures.
 Among these the first is existence, from which comes this name, HE WHO IS.
 
-<span class="atom-split" data-atom="083" data-title="Whether affirmative propositions can be formed about God?" data-chapter="Whether affirmative propositions can be formed about God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether affirmative propositions can be formed about God?" data-chapter="Whether affirmative propositions can be formed about God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that affirmative propositions cannot be formed about God. For Dionysius
 says (Coel. Hier. ii) that "negations about God are true; but affirmations are vague."
@@ -4180,7 +4180,7 @@ immaterial. Likewise, when it understands simple things above itself, it underst
 to its own mode, which is in a composite manner; yet not so as to understand them to be composite
 things. And thus our intellect is not false in forming composition in its ideas concerning God.
 
-<span class="atom-split" data-atom="084" data-title="OF GOD'S KNOWLEDGE (SIXTEEN ARTICLES)" data-chapter="OF GOD'S KNOWLEDGE (SIXTEEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="OF GOD'S KNOWLEDGE (SIXTEEN ARTICLES)" data-chapter="OF GOD'S KNOWLEDGE (SIXTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having considered what belongs to the divine substance, we have now to treat of God's operation.
 And since one kind of operation is immanent, and another kind of operation proceeds to the exterior
@@ -4208,7 +4208,7 @@ Concerning knowledge, there are sixteen points for inquiry:
 (15) Whether the knowledge of God is variable?
 (16) Whether God has speculative or practical knowledge of things?
 
-<span class="atom-split" data-atom="085" data-title="Whether there is knowledge [*Scientia]?" data-chapter="Whether there is knowledge [*Scientia]?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether there is knowledge [*Scientia]?" data-chapter="Whether there is knowledge [*Scientia]?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that in God there is not knowledge. For knowledge is a [habit](/concepts/custom); and habit
 does not belong to God, since it is the mean between [potentiality](/concepts/act_potency) and act. Therefore knowledge is
@@ -4263,7 +4263,7 @@ divine essence is higher than that of creatures, divine knowledge does not exist
 mode of created knowledge, so as to be universal or particular, or habitual, or potential, or existing
 according to any such mode.
 
-<span class="atom-split" data-atom="086" data-title="Whether God understands Himself?" data-chapter="Whether God understands Himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether God understands Himself?" data-chapter="Whether God understands Himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not understand Himself. For it is said by the Philosopher
 (De Causis), "Every knower who knows his own essence, returns completely to his own essence."
@@ -4331,7 +4331,7 @@ understanding, and by this act knows the intellectual faculty. But God is a pure
 existence, as also in the order of intelligible objects; therefore He understands Himself through
 Himself.
 
-<span class="atom-split" data-atom="087" data-title="Whether God comprehends Himself?" data-chapter="Whether God comprehends Himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Whether God comprehends Himself?" data-chapter="Whether God comprehends Himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not comprehend Himself. For [Augustine](/figures/augustine) says (Octog. Tri.
 Quaest. xv), that "whatever comprehends itself is finite as regards itself." But God is in all ways
@@ -4372,7 +4372,7 @@ according to a certain similitude of proportion, because He has the same relatio
 His intellect, as anything finite has in not exceeding finite intellect. But God is not to be called
 finite to Himself in this sense, as if He understood Himself to be something finite.
 
-<span class="atom-split" data-atom="088" data-title="Whether the act of God's intellect is His substance?" data-chapter="Whether the act of God's intellect is His substance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether the act of God's intellect is His substance?" data-chapter="Whether the act of God's intellect is His substance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the act of God's intellect is not His substance. For to understand is
 an operation. But an operation signifies something proceeding from the operator. Therefore the act
@@ -4417,7 +4417,7 @@ cannot be likened to the act of the divine understanding which is subsistent.
 Thus appears the Reply to the Third Objection. For the act of divine understanding subsists in
 itself, and belongs to its very self and is not another's; hence it need not proceed to infinity.
 
-<span class="atom-split" data-atom="089" data-title="Whether God knows things other than Himself?" data-chapter="Whether God knows things other than Himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether God knows things other than Himself?" data-chapter="Whether God knows things other than Himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not know things besides Himself. For all other things but
 God are outside of God. But [Augustine](/figures/augustine) says (Octog. Tri. Quaest. qu. xlvi) that "God does not behold
@@ -4477,7 +4477,7 @@ but His own essence in which all images of things are comprehended. Hence it doe
 the divine intellectual act, or rather God Himself, is specified by anything else than the divine
 essence itself.
 
-<span class="atom-split" data-atom="090" data-title="Whether God knows things other than Himself by proper knowledge?" data-chapter="Whether God knows things other than Himself by proper knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether God knows things other than Himself by proper knowledge?" data-chapter="Whether God knows things other than Himself by proper knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not know things other than Himself by proper knowledge.
 For, as was shown (A[5]), God knows things other than Himself, according as they are in Himself.
@@ -4573,7 +4573,7 @@ different things. But the divine essence excels all creatures. Hence it can be t
 ration of each thing according to the diverse ways in which diverse creatures participate in, and
 imitate it.
 
-<span class="atom-split" data-atom="091" data-title="Whether the knowledge of God is discursive?" data-chapter="Whether the knowledge of God is discursive?" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Whether the knowledge of God is discursive?" data-chapter="Whether the knowledge of God is discursive?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the knowledge of God is discursive. For the knowledge of God is
 not habitual knowledge, but actual knowledge. Now the Philosopher says (Topic. ii): "The [habit](/concepts/custom)
@@ -4621,7 +4621,7 @@ better than we can; but still not in such a manner that the knowledge of the eff
 by the knowledge of the created causes, as is the case with us; and hence His knowledge is not
 discursive.
 
-<span class="atom-split" data-atom="092" data-title="Whether the knowledge of God is the cause of things?" data-chapter="Whether the knowledge of God is the cause of things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether the knowledge of God is the cause of things?" data-chapter="Whether the knowledge of God is the cause of things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the knowledge of God is not the cause of things. For Origen says,
 on Rom. 8:30, "Whom He called, them He also justified," etc.: "A thing will happen not because
@@ -4670,7 +4670,7 @@ measure, so, the knowledge of God is prior to natural things, and is the measure
 instance, a house is midway between the knowledge of the builder who made it, and the knowledge
 of the one who gathers his knowledge of the house from the house already built.
 
-<span class="atom-split" data-atom="093" data-title="Whether God has knowledge of things that are not?" data-chapter="Whether God has knowledge of things that are not?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether God has knowledge of things that are not?" data-chapter="Whether God has knowledge of things that are not?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God has not knowledge of things that are not. For the knowledge
 of God is of true things. But "truth" and "being" are convertible terms. Therefore the knowledge
@@ -4716,7 +4716,7 @@ it is not necessary that what ever God knows, is, or was, or will be; but only i
 regards what He wills to be, or permits to be. Further, it is in the knowledge of God not that they
 be, but that they be possible.
 
-<span class="atom-split" data-atom="094" data-title="Whether God knows evil things?" data-chapter="Whether God knows evil things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether God knows evil things?" data-chapter="Whether God knows evil things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not know evil things. For the Philosopher (De [Anima](/concepts/soul) iii)
 says that the intellect which is not in [potentiality](/concepts/act_potency) does not know privation. But "evil is the privation
@@ -4769,7 +4769,7 @@ if that thing is of itself knowable; but evil is not of itself knowable, forasmu
 of evil means the privation of good; therefore evil can neither be defined nor known except by
 good.
 
-<span class="atom-split" data-atom="095" data-title="Whether God knows singular things?" data-chapter="Whether God knows singular things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether God knows singular things?" data-chapter="Whether God knows singular things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not know singular things. For the divine intellect is more
 immaterial than the human intellect. Now the human intellect by reason of its immateriality does
@@ -4834,7 +4834,7 @@ both immaterial and material things.
 Reply to Objection 3: Although matter as regards its potentiality recedes from likeness to God,
 yet, even in so far as it has being in this wise, it retains a certain likeness to the divine being.
 
-<span class="atom-split" data-atom="096" data-title="Whether God can know infinite things?" data-chapter="Whether God can know infinite things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Whether God can know infinite things?" data-chapter="Whether God can know infinite things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God cannot know infinite things. For the infinite, as such, is unknown;
 since the infinite is that which, "to those who measure it, leaves always something more to be
@@ -4899,7 +4899,7 @@ of air, as some of the ancients held; yet it is manifest that these would have a
 being, because their being would be limited to some determinate nature. Hence they would be
 measurable as regards the knowledge of God.
 
-<span class="atom-split" data-atom="097" data-title="Whether the knowledge of God is of future contingent things? (1/2)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Whether the knowledge of God is of future contingent things? (1/2)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the knowledge of God is not of future contingent things. For from
 a necessary cause proceeds a necessary effect. But the knowledge of God is the cause of things
@@ -4977,7 +4977,7 @@ consequent must be understood as it is subject to the divine knowledge, i.e. as 
 And thus it is necessary, as also is the antecedent: "For everything that is, while it is, must be
 necessarily be," as the Philosopher says in Peri Herm. i.
 
-<span class="atom-split" data-atom="098" data-title="Whether the knowledge of God is of future contingent things? (2/2)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether the knowledge of God is of future contingent things? (2/2)" data-chapter="Whether the knowledge of God is of future contingent things?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Things reduced to act in time, as known by us successively in time, but
 by God (are known) in [eternity](/positions/eternity), which is above time. Whence to us they cannot be certain, forasmuch
@@ -5004,7 +5004,7 @@ of the knower, something can be attributed to the thing known, in itself (even i
 which is not attributed to it in so far as it stands under actual knowledge; thus material existence
 is attributed to a stone in itself, which is not attributed to it inasmuch as it is known.
 
-<span class="atom-split" data-atom="099" data-title="Whether God knows enunciable things?" data-chapter="Whether God knows enunciable things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether God knows enunciable things?" data-chapter="Whether God knows enunciable things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not know enunciable things. For to know enunciable things
 belongs to our intellect as it composes and divides. But in the divine intellect, there is no composition.
@@ -5040,7 +5040,7 @@ Reply to Objection 2: Enunciatory composition signifies some existence of a thin
 God by His existence, which is His essence, is the similitude of all those things which are signified
 by enunciation.
 
-<span class="atom-split" data-atom="100" data-title="Whether the knowledge of God is variable?" data-chapter="Whether the knowledge of God is variable?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether the knowledge of God is variable?" data-chapter="Whether the knowledge of God is variable?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the knowledge of God is variable. For knowledge is related to what
 is knowable. But whatever imports relation to the creature is applied to God from time, and varies
@@ -5105,7 +5105,7 @@ thing suffers change we retained the same opinion about it; or as regards divers
 first thought that anyone was sitting, and afterwards thought that he was not sitting; neither of which
 can be in God.
 
-<span class="atom-split" data-atom="101" data-title="Whether God has a speculative knowledge of things?" data-chapter="Whether God has a speculative knowledge of things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether God has a speculative knowledge of things?" data-chapter="Whether God has a speculative knowledge of things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God has not a speculative knowledge of things. For the knowledge
 of God is the cause of things, as shown above (A[8]). But speculative knowledge is not the cause
@@ -5160,7 +5160,7 @@ of His speculative knowledge, forasmuch as He sees all things other than Himself
 He knows Himself speculatively; and so in the speculative knowledge of Himself, he possesses
 both speculative and practical knowledge of all other things.
 
-<span class="atom-split" data-atom="102" data-title="OF IDEAS (THREE ARTICLES)" data-chapter="OF IDEAS (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="OF IDEAS (THREE ARTICLES)" data-chapter="OF IDEAS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the knowledge of God, it remains to consider ideas. And about this there are
 three points of inquiry:
@@ -5168,7 +5168,7 @@ three points of inquiry:
 (2) Whether they are many, or one only?
 (3) Whether there are ideas of all things known by God?
 
-<span class="atom-split" data-atom="103" data-title="Whether there are ideas?" data-chapter="Whether there are ideas?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether there are ideas?" data-chapter="Whether there are ideas?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there are no ideas. For Dionysius says (Div. Nom. vii), that God
 does not know things by ideas. But ideas are for nothing else except that things may be known
@@ -5212,7 +5212,7 @@ idea with respect to other things; though not with respect to Himself.
 Reply to Objection 3: God is the similitude of all things according to His essence; therefore
 an idea in God is identical with His essence.
 
-<span class="atom-split" data-atom="104" data-title="Whether ideas are many?" data-chapter="Whether ideas are many?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether ideas are many?" data-chapter="Whether ideas are many?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that ideas are not many. For an idea in God is His essence. But God's
 essence is one only. Therefore there is only one idea.
@@ -5290,7 +5290,7 @@ Reply to Objection 4: Relations multiplying ideas do not exist in created things
 Yet they are not real relations, such as those whereby the Persons are distinguished, but relations
 understood by God.
 
-<span class="atom-split" data-atom="105" data-title="Whether there are ideas of all things that God knows?" data-chapter="Whether there are ideas of all things that God knows?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether there are ideas of all things that God knows?" data-chapter="Whether there are ideas of all things that God knows?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there are not ideas in God of all things that He knows. For the idea
 of evil is not in God; since it would follow that evil was in Him. But evil things are known by God.
@@ -5348,7 +5348,7 @@ nature regards the species, and produces individuals only that in them the speci
 However, divine providence extends not merely to species; but to individuals as will be shown later
 (Q[22], A[3] ).
 
-<span class="atom-split" data-atom="106" data-title="OF TRUTH (EIGHT ARTICLES)" data-chapter="OF TRUTH (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="OF TRUTH (EIGHT ARTICLES)" data-chapter="OF TRUTH (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Since knowledge is of things that are true, after the consideration of the knowledge of God, we
 must inquire concerning truth. About this there are eight points of inquiry:
@@ -5361,7 +5361,7 @@ must inquire concerning truth. About this there are eight points of inquiry:
 (7) On the [eternity](/positions/eternity) of truth.
 (8) On the unchangeableness of truth.
 
-<span class="atom-split" data-atom="107" data-title="Whether truth resides only in the intellect?" data-chapter="Whether truth resides only in the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether truth resides only in the intellect?" data-chapter="Whether truth resides only in the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that truth does not reside only in the intellect, but rather in things. For
 [Augustine](/figures/augustine) (Soliloq. ii, 5) condemns this definition of truth, "That is true which is seen"; since it
@@ -5435,7 +5435,7 @@ health, for here the agent is not univocal. In the same way, the being of the th
 the cause of truth in the intellect. Hence the Philosopher says that a thought or a word is true "from
 the fact that a thing is, not because a thing is true."
 
-<span class="atom-split" data-atom="108" data-title="Whether truth resides only in the intellect composing and dividing?" data-chapter="Whether truth resides only in the intellect composing and dividing?" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Whether truth resides only in the intellect composing and dividing?" data-chapter="Whether truth resides only in the intellect composing and dividing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that truth does not reside only in the intellect composing and dividing.
 For the Philosopher says (De [Anima](/concepts/soul) iii) that as the senses are always true as regards their proper
@@ -5471,7 +5471,7 @@ known. Therefore, properly speaking, truth resides in the intellect composing an
 not in the senses; nor in the intellect knowing "what a thing is."
 And thus the Objections given are solved.
 
-<span class="atom-split" data-atom="109" data-title="Whether the true and being are convertible terms?" data-chapter="Whether the true and being are convertible terms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Whether the true and being are convertible terms?" data-chapter="Whether the true and being are convertible terms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the true and being are not convertible terms. For the true resides
 properly in the intellect, as stated (A[1]); but being is properly in things. Therefore they are not
@@ -5515,7 +5515,7 @@ object with being. For being cannot be understood, unless being is intelligible.
 understood while its intelligibility is not understood. Similarly, being when understood is true, yet
 the true is not understood by understanding being.
 
-<span class="atom-split" data-atom="110" data-title="Whether good is logically prior to the true?" data-chapter="Whether good is logically prior to the true?" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="Whether good is logically prior to the true?" data-chapter="Whether good is logically prior to the true?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that good is logically prior to the true. For what is more universal is
 logically prior, as is evident from Phys. i. But the good is more universal than the true, since the
@@ -5560,7 +5560,7 @@ is ordained by the divine intellect, as it has been said that truth exists in ot
 the truth of "justice" is found in man as he fulfills his duty to his neighbor, as ordained by law.
 Hence we cannot argue from these particular truths to truth in general.
 
-<span class="atom-split" data-atom="111" data-title="Whether God is truth?" data-chapter="Whether God is truth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="Whether God is truth?" data-chapter="Whether God is truth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not truth. For truth consists in the intellect composing and
 dividing. But in God there is not composition and division. Therefore in Him there is not truth.
@@ -5600,7 +5600,7 @@ apprehension of the intellect. Now all apprehension of the intellect is from God
 that exists in the statement---"that a person commits fornication is true"---is entirely from God. But
 to argue, "Therefore that this person fornicates is from God", is a fallacy of Accident.
 
-<span class="atom-split" data-atom="112" data-title="Whether there is only one truth, according to which all things are true?" data-chapter="Whether there is only one truth, according to which all things are true?" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="Whether there is only one truth, according to which all things are true?" data-chapter="Whether there is only one truth, according to which all things are true?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there is only one truth, according to which all things are true. For
 according to [Augustine](/figures/augustine) (De Trin. xv, 1), "nothing is greater than the mind of man, except God."
@@ -5645,7 +5645,7 @@ God.
 Reply to Objection 2: The saying of Anselm is correct in so far as things are said to be true
 by their relation to the divine intellect.
 
-<span class="atom-split" data-atom="113" data-title="Whether created truth is eternal?" data-chapter="Whether created truth is eternal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="Whether created truth is eternal?" data-chapter="Whether created truth is eternal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that created truth is eternal. For [Augustine](/figures/augustine) says (De Lib. Arbit. ii, 8)
 "Nothing is more eternal than the nature of a circle, and that two added to three make five." But
@@ -5702,7 +5702,7 @@ things. For this is truth concerning not-being; and not-being has not truth of i
 as our intellect apprehends it. Hence it is true to say that truth did not exist, in so far as we apprehend
 its not-being as preceding its being.
 
-<span class="atom-split" data-atom="114" data-title="Whether truth is immutable?" data-chapter="Whether truth is immutable?" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="Whether truth is immutable?" data-chapter="Whether truth is immutable?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that truth is immutable. For [Augustine](/figures/augustine) says (De Lib. Arbit. ii, 12), that
 "Truth and mind do not rank as equals, otherwise truth would be mutable, as the mind is."
@@ -5763,7 +5763,7 @@ the truth which results, varies, and is variously signified by these proposition
 past, or future. Thus it does not follow, though one of the three propositions is true, that the same
 truth remains invariable.
 
-<span class="atom-split" data-atom="115" data-title="CONCERNING FALSITY (FOUR ARTICLES)" data-chapter="CONCERNING FALSITY (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="CONCERNING FALSITY (FOUR ARTICLES)" data-chapter="CONCERNING FALSITY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider falsity. About this four points of inquiry arise:
 (1) Whether falsity exists in things?
@@ -5771,7 +5771,7 @@ We next consider falsity. About this four points of inquiry arise:
 (3) Whether it exists in the intellect?
 (4) Concerning the opposition of the true and the false.
 
-<span class="atom-split" data-atom="116" data-title="Whether falsity exists in things?" data-chapter="Whether falsity exists in things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Whether falsity exists in things?" data-chapter="Whether falsity exists in things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It appears that falsity does not exist in things. For [Augustine](/figures/augustine) says (Soliloq. ii, 8),
 "If the true is that which is, it will be concluded that the false exists nowhere; whatever reason may
@@ -5841,7 +5841,7 @@ involve the idea of falsity except in so far as it gives occasion to false opini
 always said to be false, because it resembles another thing; but only when the resemblance is such
 as naturally to produce a false opinion, not in any one case, but in the majority of instances.
 
-<span class="atom-split" data-atom="117" data-title="Whether there is falsity in the senses?" data-chapter="Whether there is falsity in the senses?" data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Whether there is falsity in the senses?" data-chapter="Whether there is falsity in the senses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that falsity is not in the senses. For [Augustine](/figures/augustine) says (De Vera Relig. 33):
 "If all the bodily senses report as they are affected, I do not know what more we can require from
@@ -5895,7 +5895,7 @@ the likeness of things that are not present in substance.
 Reply to Objection 3: This argument proves that the false is not in the sense, as in that which
 knows the true and the false.
 
-<span class="atom-split" data-atom="118" data-title="Whether falsity is in the intellect?" data-chapter="Whether falsity is in the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Whether falsity is in the intellect?" data-chapter="Whether falsity is in the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that falsity is not in the intellect. For [Augustine](/figures/augustine) says (Qq. lxxxiii, 32),
 "Everyone who is deceived, understands not that in which he is deceived." But falsity is said to
@@ -5948,7 +5948,7 @@ deceived about them for the same reason that it is not deceived about what a thi
 principles are such as are known as soon as the terms are understood, from the fact that the predicate
 is contained in the definition of the subject.
 
-<span class="atom-split" data-atom="119" data-title="Whether true and false are contraries?" data-chapter="Whether true and false are contraries?" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="Whether true and false are contraries?" data-chapter="Whether true and false are contraries?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that true and false are not contraries. For true and false are opposed, as
 that which is to that which is not; for "truth," as [Augustine](/figures/augustine) says (Soliloq. ii, 5), "is that which is."
@@ -5996,7 +5996,7 @@ in our apprehension of Him contraries exist, for the false opinion concerning Hi
 the true. So idols are called lies, opposed to the divine truth, inasmuch as the false opinion concerning
 them is contrary to the true opinion of the divine unity.
 
-<span class="atom-split" data-atom="120" data-title="THE LIFE OF GOD (FOUR ARTICLES)" data-chapter="THE LIFE OF GOD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="THE LIFE OF GOD (FOUR ARTICLES)" data-chapter="THE LIFE OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Since to understand belongs to living beings, after considering the divine knowledge and
 intellect, we must consider the divine life. About this, four points of inquiry arise:
@@ -6005,7 +6005,7 @@ intellect, we must consider the divine life. About this, four points of inquiry 
 (3) Whether life is properly attributed to God?
 (4) Whether all things in God are life?
 
-<span class="atom-split" data-atom="121" data-title="Whether to live belongs to all natural things?" data-chapter="Whether to live belongs to all natural things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Whether to live belongs to all natural things?" data-chapter="Whether to live belongs to all natural things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that to live belongs to all natural things. For the Philosopher says (Phys.
 viii, 1) that "Movement is like a kind of life possessed by all things existing in nature." But all
@@ -6065,7 +6065,7 @@ look as if they were alive. Yet this is not life in them in its real sense, sinc
 is not from themselves but from the cause that generates them. The same is the case with the
 movement of other heavy and light bodies.
 
-<span class="atom-split" data-atom="122" data-title="Whether life is an operation?" data-chapter="Whether life is an operation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="Whether life is an operation?" data-chapter="Whether life is an operation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that life is an operation. For nothing is divided except into parts of the
 same genus. But life is divided by certain operations, as is clear from the Philosopher (De [Anima](/concepts/soul)
@@ -6123,7 +6123,7 @@ to lead to life of self-indulgence, others a life of virtue. In this way the con
 distinguished from the active, and thus to know God is said to be life eternal.
 Wherefore the Reply to the Third Objection is clear.
 
-<span class="atom-split" data-atom="123" data-title="Whether life is properly attributed to God?" data-chapter="Whether life is properly attributed to God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Whether life is properly attributed to God?" data-chapter="Whether life is properly attributed to God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that life is not properly attributed to God. For things are said to live
 inasmuch as they move themselves, as previously stated (A[2]). But movement does not belong to
@@ -6200,7 +6200,7 @@ generation to preserve the species, and nourishment to preserve the individual. 
 is not found here below apart from a vegetative soul: but this does not hold good with incorruptible
 natures.
 
-<span class="atom-split" data-atom="124" data-title="Whether all things are life in God?" data-chapter="Whether all things are life in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="Whether all things are life in God?" data-chapter="Whether all things are life in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not all things are life in God. For it is said (Acts 17:28), "In Him we
 live, and move, and be." But not all things in God are movement. Therefore not all things are life
@@ -6265,7 +6265,7 @@ that bad things are life in God. Those things that are not in time may be called
 as life means understanding only, and inasmuch as they are understood by God; but not in so far
 as life implies a principle of operation.
 
-<span class="atom-split" data-atom="125" data-title="THE WILL OF GOD (TWELVE ARTICLES)" data-chapter="THE WILL OF GOD (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="THE WILL OF GOD (TWELVE ARTICLES)" data-chapter="THE WILL OF GOD (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the things belonging to the divine knowledge, we consider what belongs to
 the divine will. The first consideration is about the divine will itself; the second about what belongs
@@ -6284,7 +6284,7 @@ will itself there are twelve points of inquiry:
 (11) Whether the will of expression is distinguished in God?
 (12) Whether five expressions of will are rightly assigned to the divine will?
 
-<span class="atom-split" data-atom="126" data-title="Whether there is will in God?" data-chapter="Whether there is will in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="Whether there is will in God?" data-chapter="Whether there is will in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there is not will in God. For the object of will is the end and the
 good. But we cannot assign to God any end. Therefore there is not will in God.
@@ -6296,7 +6296,7 @@ God.
 Objection 3: Further, according to the Philosopher (De [Anima](/concepts/soul) iii, 54), the will moves, and is
 moved. But God is the first cause of movement, and Himself is unmoved, as proved in Phys. viii,
 
-<span class="atom-split" data-atom="127" data-title="49. Therefore there is not will in God." data-chapter="49. Therefore there is not will in God." data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="49. Therefore there is not will in God." data-chapter="49. Therefore there is not will in God." data-kind="atom" data-srclang="en"></span>
 
 On the contrary, The Apostle says (Rom. 12:2): "That you may prove what is the will of God."
 
@@ -6326,7 +6326,7 @@ since the will of God is His essence, it is not moved by another than itself, bu
 the same sense as understanding and willing are said to be movement. This is what Plato meant
 when he said that the first mover moves itself.
 
-<span class="atom-split" data-atom="128" data-title="Whether God wills things apart from Himself?" data-chapter="Whether God wills things apart from Himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Whether God wills things apart from Himself?" data-chapter="Whether God wills things apart from Himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not will things apart from Himself. For the divine will is
 the divine existence. But God is not other than Himself. Therefore He does not will things other
@@ -6385,7 +6385,7 @@ Reply to Objection 4: As the divine intellect is one, as seeing the many only in
 same way the divine will is one and simple, as willing the many only through the one, that is,
 through its own goodness.
 
-<span class="atom-split" data-atom="129" data-title="Whether whatever God wills He wills necessarily?" data-chapter="Whether whatever God wills He wills necessarily?" data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="Whether whatever God wills He wills necessarily?" data-chapter="Whether whatever God wills He wills necessarily?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that whatever God wills He wills necessarily. For everything eternal is
 necessary. But whatever God wills, He wills from [eternity](/positions/eternity), for otherwise His will would be mutable.
@@ -6470,7 +6470,7 @@ have necessary existence inasmuch as they exist in God; but no absolute necessit
 necessary in themselves, in so far as they exist in themselves; it follows that God knows necessarily
 whatever He wills, but does not will necessarily whatever He wills.
 
-<span class="atom-split" data-atom="130" data-title="Whether the will of God is the cause of things?" data-chapter="Whether the will of God is the cause of things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="Whether the will of God is the cause of things?" data-chapter="Whether the will of God is the cause of things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the will of God is not the cause of things. For Dionysius says (Div.
 Nom. iv, 1): "As our sun, not by reason nor by pre-election, but by its very being, enlightens all
@@ -6537,7 +6537,7 @@ in the intellect only is not determined to exist or not to exist in the effect, 
 the speculative intellect has nothing to say to operation. But the power is cause, as executing the
 effect, since it denotes the immediate principle of operation. But in God all these things are one.
 
-<span class="atom-split" data-atom="131" data-title="Whether any cause can be assigned to the divine will?" data-chapter="Whether any cause can be assigned to the divine will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="Whether any cause can be assigned to the divine will?" data-chapter="Whether any cause can be assigned to the divine will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that some cause can be assigned to the divine will. For [Augustine](/figures/augustine) says
 (Qq. lxxxiii, 46): "Who would venture to say that God made all things irrationally?" But to a
@@ -6597,7 +6597,7 @@ him to be man that he might enjoy Him, or for the completion of the universe. Bu
 reduced to other created secondary ends. Hence such things depend on the simple will of God; but
 the others on the order of other causes.
 
-<span class="atom-split" data-atom="132" data-title="Whether the will of God is always fulfilled?" data-chapter="Whether the will of God is always fulfilled?" data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="Whether the will of God is always fulfilled?" data-chapter="Whether the will of God is always fulfilled?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the will of God is not always fulfilled. For the Apostle says (1 Tim.
 2:4): "God will have all men to be saved, and to come to the knowledge of the truth." But this does
@@ -6671,7 +6671,7 @@ Reply to Objection 3: A first cause can be hindered in its effect by deficiency 
 cause, when it is not the universal first cause, including within itself all causes; for then the effect
 could in no way escape its order. And thus it is with the will of God, as said above.
 
-<span class="atom-split" data-atom="133" data-title="Whether the will of God is changeable?" data-chapter="Whether the will of God is changeable?" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Whether the will of God is changeable?" data-chapter="Whether the will of God is changeable?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the Will of God is changeable. For the Lord says (Gn. 6:7): "It
 repenteth Me that I have made man." But whoever repents of what he has done, has a changeable
@@ -6739,7 +6739,7 @@ Reply to Objection 4: Although God's willing a thing is not by absolute necessit
 necessary by supposition, on account of the unchangeableness of the divine will, as has been said
 above (A[3]).
 
-<span class="atom-split" data-atom="134" data-title="Whether the will of God imposes necessity on the things willed?" data-chapter="Whether the will of God imposes necessity on the things willed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="Whether the will of God imposes necessity on the things willed?" data-chapter="Whether the will of God imposes necessity on the things willed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the will of God imposes necessity on the things willed. For [Augustine](/figures/augustine)
 says (Enchiridion 103): "No one is saved, except whom God has willed to be saved. He must
@@ -6795,7 +6795,7 @@ mode of the antecedents. Hence things effected by the divine will have that kind
 God wills them to have, either absolute or conditional. Not all things, therefore, are absolute
 necessities.
 
-<span class="atom-split" data-atom="135" data-title="Whether God wills evils?" data-chapter="Whether God wills evils?" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="Whether God wills evils?" data-chapter="Whether God wills evils?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God wills evils. For every good that exists, God wills. But it is a
 good that evil should exist. For [Augustine](/figures/augustine) says (Enchiridion 95): "Although evil in so far as it is
@@ -6856,7 +6856,7 @@ contradictories; yet the statements that anyone wills evil to exist and that he 
 not so opposed; since either is affirmative. God therefore neither wills evil to be done, nor wills it
 not to be done, but wills to permit evil to be done; and this is a good.
 
-<span class="atom-split" data-atom="136" data-title="Whether God has free-will?" data-chapter="Whether God has free-will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="Whether God has free-will?" data-chapter="Whether God has free-will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God has not free-will. For Jerome says, in a homily on the prodigal
 son [*Ep. 146, ad Damas.]; "God alone is He who is not liable to sin, nor can be liable: all others,
@@ -6884,7 +6884,7 @@ to will the evil of sin; yet He can make choice of one of two opposites, inasmuc
 thing to be, or not to be. In the same way we ourselves, without sin, can will to sit down, and not
 will to sit down.
 
-<span class="atom-split" data-atom="137" data-title="Whether the will of expression is to be distinguished in God?" data-chapter="Whether the will of expression is to be distinguished in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="Whether the will of expression is to be distinguished in God?" data-chapter="Whether the will of expression is to be distinguished in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the will of expression is not to be distinguished in God. For as the
 will of God is the cause of things, so is His wisdom. But no expressions are assigned to the divine
@@ -6924,7 +6924,7 @@ wills anything; but because what in us is the usual expression of our will, is c
 in God. Thus punishment is not a sign that there is anger in God; but it is called anger in Him, from
 the fact that it is an expression of anger in ourselves.
 
-<span class="atom-split" data-atom="138" data-title="Whether five expressions of will are rightly assigned to the divine will?" data-chapter="Whether five expressions of will are rightly assigned to the divine will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="Whether five expressions of will are rightly assigned to the divine will?" data-chapter="Whether five expressions of will are rightly assigned to the divine will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that five expressions of will---namely, prohibition, precept, counsel,
 operation, and permission---are not rightly assigned to the divine will. For the same things that God
@@ -6989,7 +6989,7 @@ subject of precept; and there are others by which we attain to it more perfectly
 subject of counsel. Or it may be said that counsel is not only concerned with the obtaining of greater
 good; but also with the avoiding of lesser evils.
 
-<span class="atom-split" data-atom="139" data-title="GOD'S LOVE (FOUR ARTICLES)" data-chapter="GOD'S LOVE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="GOD'S LOVE (FOUR ARTICLES)" data-chapter="GOD'S LOVE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider those things that pertain absolutely to the will of God. In the appetitive part
 of the soul there are found in ourselves both the passions of the soul, as joy, love, and the like; and
@@ -7000,7 +7000,7 @@ love of God, and secondly His justice and mercy. About the first there are four 
 (3) Whether He loves one thing more than another?
 (4) Whether He loves more the better things?
 
-<span class="atom-split" data-atom="140" data-title="Whether love exists in God?" data-chapter="Whether love exists in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="Whether love exists in God?" data-chapter="Whether love exists in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that love does not exist in God. For in God there are no passions. Now
 love is a passion. Therefore love is not in God.
@@ -7070,7 +7070,7 @@ himself. So far love is a binding force, since it aggregates another to ourselve
 to our own. And then again the divine love is a binding force, inasmuch as God wills good to others;
 yet it implies no composition in God.
 
-<span class="atom-split" data-atom="141" data-title="Whether God loves all things?" data-chapter="Whether God loves all things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="Whether God loves all things?" data-chapter="Whether God loves all things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not love all things. For according to Dionysius (Div. Nom.
 iv, 1), love places the lover outside himself, and causes him to pass, as it were, into the object of
@@ -7131,7 +7131,7 @@ have existence and have it from Him. In so far as they are sinners, they have no
 but fall short of it; and this in them is not from God. Hence under this aspect, they are hated by
 Him.
 
-<span class="atom-split" data-atom="142" data-title="Whether God loves all things equally?" data-chapter="Whether God loves all things equally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="Whether God loves all things equally?" data-chapter="Whether God loves all things equally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God loves all things equally. For it is said: "He hath equally care of
 all" (Wis. 6:8). But God's providence over things comes from the love wherewith He loves them.
@@ -7169,7 +7169,7 @@ Reply to Objection 3: To understand and to will denote the act alone, and do not
 their meaning objects from the diversity of which God may be said to know or will more or less,
 as has been said with respect to God's love.
 
-<span class="atom-split" data-atom="143" data-title="Whether God always loves more the better things?" data-chapter="Whether God always loves more the better things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="Whether God always loves more the better things?" data-chapter="Whether God always loves more the better things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God does not always love more the better things. For it is manifest
 that Christ is better than the whole human race, being God and man. But God loved the human race
@@ -7261,7 +7261,7 @@ by divine goodness. According therefore to the time, when there is to be given b
 to the predestined sinner a greater good, the sinner is better; although according to some other time
 he is the worse; because even according to some time he is neither good nor bad.
 
-<span class="atom-split" data-atom="144" data-title="THE JUSTICE AND MERCY OF GOD (FOUR ARTICLES)" data-chapter="THE JUSTICE AND MERCY OF GOD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="144" data-title="THE JUSTICE AND MERCY OF GOD (FOUR ARTICLES)" data-chapter="THE JUSTICE AND MERCY OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the divine love, we must treat of God's justice and mercy. Under this head
 there are four points of inquiry:
@@ -7270,7 +7270,7 @@ there are four points of inquiry:
 (3) Whether there is mercy in God?
 (4) Whether in every work of God there are justice and mercy?
 
-<span class="atom-split" data-atom="145" data-title="Whether there is justice in God?" data-chapter="Whether there is justice in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="145" data-title="Whether there is justice in God?" data-chapter="Whether there is justice in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there is not justice in God. For justice is divided against temperance.
 But temperance does not exist in God: neither therefore does justice.
@@ -7343,7 +7343,7 @@ does not always regard act; since a thing is called good not merely with respect
 regards perfection in its essence. For this reason it is said (De Hebdom.) that the good is related to
 the just, as the general to the special.
 
-<span class="atom-split" data-atom="146" data-title="Whether the justice of God is truth?" data-chapter="Whether the justice of God is truth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="146" data-title="Whether the justice of God is truth?" data-chapter="Whether the justice of God is truth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the justice of God is not truth. For justice resides in the will; since,
 as Anselm says (Dial. Verit. 13), it is a rectitude of the will, whereas truth resides in the intellect,
@@ -7376,7 +7376,7 @@ virtue whereby a man shows himself in word and deed such as he really is. Thus i
 conformity of the sign with the thing signified; and not in that of the effect with its cause and rule:
 as has been said regarding the truth of justice.
 
-<span class="atom-split" data-atom="147" data-title="Whether mercy can be attributed to God?" data-chapter="Whether mercy can be attributed to God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="147" data-title="Whether mercy can be attributed to God?" data-chapter="Whether mercy can be attributed to God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that mercy cannot be attributed to God. For mercy is a kind of sorrow,
 as Damascene says (De Fide Orth. ii, 14). But there is no sorrow in God; and therefore there is no
@@ -7416,7 +7416,7 @@ as Christ has forgiven you" (Eph. 4:32). Hence it is clear that mercy does not d
 in a sense is the fulness thereof. And thus it is said: "Mercy exalteth itself above judgement" (James
 2:13).
 
-<span class="atom-split" data-atom="148" data-title="Whether in every work of God there are mercy and justice?" data-chapter="Whether in every work of God there are mercy and justice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="148" data-title="Whether in every work of God there are mercy and justice?" data-chapter="Whether in every work of God there are mercy and justice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not in every work of God are mercy and justice. For some works of
 God are attributed to mercy, as the justification of the ungodly; and others to justice, as the damnation
@@ -7480,7 +7480,7 @@ presuppose something in the knowledge of God. In this way too the idea of justic
 creation; by the production of beings in a manner that accords with the divine wisdom and goodness.
 And the idea of mercy, also, is preserved in the change of creatures from non-existence to existence.
 
-<span class="atom-split" data-atom="149" data-title="THE PROVIDENCE OF GOD (FOUR ARTICLES)" data-chapter="THE PROVIDENCE OF GOD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="149" data-title="THE PROVIDENCE OF GOD (FOUR ARTICLES)" data-chapter="THE PROVIDENCE OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having considered all that relates to the will absolutely, we must now proceed to those things
 which have relation to both the intellect and the will, namely providence, in respect to all created
@@ -7493,7 +7493,7 @@ Concerning God's providence there are four points of inquiry:
 (3) Whether divine providence is immediately concerned with all things?
 (4) Whether divine providence imposes any necessity upon things foreseen?
 
-<span class="atom-split" data-atom="150" data-title="Whether providence can suitably be attributed to God?" data-chapter="Whether providence can suitably be attributed to God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="150" data-title="Whether providence can suitably be attributed to God?" data-chapter="Whether providence can suitably be attributed to God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that providence is not becoming to God. For providence, according to
 Tully (De Invent. ii), is a part of prudence. But prudence, since, according to the Philosopher (Ethic.
@@ -7554,7 +7554,7 @@ good, as the Philosopher says. Even if Providence has to do with the divine will
 this would not affect the divine simplicity, since in God both the will and intellect are one and the
 same thing, as we have said above (Q[19]).
 
-<span class="atom-split" data-atom="151" data-title="Whether everything is subject to the providence of God? (1/2)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="151" data-title="Whether everything is subject to the providence of God? (1/2)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that everything is not subject to divine providence. For nothing foreseen
 can happen by [chance](/concepts/fortune). If then everything was foreseen by God, nothing would happen by chance.
@@ -7645,7 +7645,7 @@ Apparently it was this argument that moved those who withdrew the course of natu
 of divine providence, attributing it rather to the necessity of matter, as Democritus, and others of
 the ancients.
 
-<span class="atom-split" data-atom="152" data-title="Whether everything is subject to the providence of God? (2/2)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="152" data-title="Whether everything is subject to the providence of God? (2/2)" data-chapter="Whether everything is subject to the providence of God?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: When it is said that God left man to himself, this does not mean that
 man is exempt from divine providence; but merely that he has not a prefixed operating force
@@ -7671,7 +7671,7 @@ way of punishment or reward. In this way, the Apostle withdraws oxen from the ca
 however, that individual irrational creatures escape the care of divine providence; as was the opinion
 of the Rabbi Moses.
 
-<span class="atom-split" data-atom="153" data-title="Whether God has immediate providence over everything?" data-chapter="Whether God has immediate providence over everything?" data-kind="atom"></span>
+<span class="atom-split" data-atom="153" data-title="Whether God has immediate providence over everything?" data-chapter="Whether God has immediate providence over everything?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God has not immediate providence over all things. For whatever is
 contained in the notion of dignity, must be attributed to God. But it belongs to the dignity of a king,
@@ -7723,7 +7723,7 @@ simultaneously; because the thought of evil sometimes perverts the will towards 
 not hold with God, Who sees everything simultaneously at one glance, and whose will cannot turn
 in the direction of evil.
 
-<span class="atom-split" data-atom="154" data-title="Whether providence imposes any necessity on things foreseen?" data-chapter="Whether providence imposes any necessity on things foreseen?" data-kind="atom"></span>
+<span class="atom-split" data-atom="154" data-title="Whether providence imposes any necessity on things foreseen?" data-chapter="Whether providence imposes any necessity on things foreseen?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that divine providence imposes necessity upon things foreseen. For every
 effect that has a "per se" cause, either present or past, which it necessarily follows, happens from
@@ -7766,7 +7766,7 @@ speaking 'necessary' and "contingent" are consequent upon being, as such. Hence 
 of necessity and of contingency falls under the foresight of God, who provides universally for all
 being; not under the foresight of causes that provide only for some particular order of things.
 
-<span class="atom-split" data-atom="155" data-title="OF PREDESTINATION (EIGHT ARTICLES)" data-chapter="OF PREDESTINATION (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="155" data-title="OF PREDESTINATION (EIGHT ARTICLES)" data-chapter="OF PREDESTINATION (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After consideration of divine providence, we must treat of [predestination](/concepts/predestination) and the book of life.
 Concerning predestination there are eight points of inquiry:
@@ -7780,7 +7780,7 @@ chosen?
 (7) Whether the number of the predestined is certain?
 (8) Whether predestination can be furthered by the prayers of the saints?
 
-<span class="atom-split" data-atom="156" data-title="Whether men are predestined by God?" data-chapter="Whether men are predestined by God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="156" data-title="Whether men are predestined by God?" data-chapter="Whether men are predestined by God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that men are not predestined by God, for Damascene says (De Fide Orth.
 ii, 30): "It must be borne in mind that God foreknows but does not predetermine everything, since
@@ -7842,7 +7842,7 @@ Reply to Objection 4: Even if by a special privilege their predestination were r
 it is not fitting that it should be revealed to everyone; because, if so, those who were not predestined
 would despair; and security would beget negligence in the predestined.
 
-<span class="atom-split" data-atom="157" data-title="Whether predestination places anything in the predestined?" data-chapter="Whether predestination places anything in the predestined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="157" data-title="Whether predestination places anything in the predestined?" data-chapter="Whether predestination places anything in the predestined?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [predestination](/concepts/predestination) does place something in the predestined. For every
 action of itself causes passion. If therefore predestination is action in God, predestination must be
@@ -7903,7 +7903,7 @@ Reply to Objection 4: Grace does not come into the definition of predestination,
 belonging to its essence, but inasmuch as predestination implies a relation to grace, as of cause to
 effect, and of act to its object. Whence it does not follow that predestination is anything temporal.
 
-<span class="atom-split" data-atom="158" data-title="Whether God reprobates any man?" data-chapter="Whether God reprobates any man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="158" data-title="Whether God reprobates any man?" data-chapter="Whether God reprobates any man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God reprobates no man. For nobody reprobates what he loves. But
 God loves every man, according to (Wis. 11:25): "Thou lovest all things that are, and Thou hatest
@@ -7953,7 +7953,7 @@ which does not do away with the liberty of choice. Whence, although anyone repro
 cannot acquire grace, nevertheless that he falls into this or that particular sin comes from the use
 of his free-will. Hence it is rightly imputed to him as guilt.
 
-<span class="atom-split" data-atom="159" data-title="Whether the predestined are chosen by God? [*\&quot;Eligantur.\&quot;]" data-chapter="Whether the predestined are chosen by God? [*\&quot;Eligantur.\&quot;]" data-kind="atom"></span>
+<span class="atom-split" data-atom="159" data-title="Whether the predestined are chosen by God? [*\&quot;Eligantur.\&quot;]" data-chapter="Whether the predestined are chosen by God? [*\&quot;Eligantur.\&quot;]" data-kind="atom" data-srclang="en"></span>
 
 # Whether the predestined are chosen by God? [*"Eligantur."]
 
@@ -8005,7 +8005,7 @@ yet He does not err in His choice."
 Reply to Objection 3: God wills all men to be saved by His antecedent will, which is to will
 not simply but relatively; and not by His consequent will, which is to will simply.
 
-<span class="atom-split" data-atom="160" data-title="Whether the foreknowledge of merits is the cause of predestination? (1/2)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom"></span>
+<span class="atom-split" data-atom="160" data-title="Whether the foreknowledge of merits is the cause of predestination? (1/2)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that foreknowledge of merits is the cause of [predestination](/concepts/predestination). For the
 Apostle says (Rom. 8:29): "Whom He foreknew, He also predestined." Again a gloss of Ambrose
@@ -8086,7 +8086,7 @@ Reply to Objection 2: Predestination has its foundation in the goodness of God a
 effects in general. Considered in its particular effects, however, one effect is the reason of another;
 as already stated.
 
-<span class="atom-split" data-atom="161" data-title="Whether the foreknowledge of merits is the cause of predestination? (2/2)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom"></span>
+<span class="atom-split" data-atom="161" data-title="Whether the foreknowledge of merits is the cause of predestination? (2/2)" data-chapter="Whether the foreknowledge of merits is the cause of predestination?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The reason for the [predestination](/concepts/predestination) of some, and reprobation of others,
 must be sought for in the goodness of God. Thus He is said to have made all things through His
@@ -8121,7 +8121,7 @@ just as he pleases (provided he deprives nobody of his due), without any infring
 This is what the master of the house said: "Take what is thine, and go thy way. Is it not lawful for
 me to do what I will?" (Mat. 20:14,15).
 
-<span class="atom-split" data-atom="162" data-title="Whether predestination is certain?" data-chapter="Whether predestination is certain?" data-kind="atom"></span>
+<span class="atom-split" data-atom="162" data-title="Whether predestination is certain?" data-chapter="Whether predestination is certain?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [predestination](/concepts/predestination) is not certain. Because on the words "Hold fast that
 which thou hast, that no one take thy crown," (Rev 3:11), [Augustine](/figures/augustine) says (De Corr. et Grat. 15):
@@ -8173,7 +8173,7 @@ predestination. Wherefore one ought not to say that God is able not to predestin
 has predestinated, taking it in a composite sense, thought, absolutely speaking, God can predestinate
 or not. But in this way the certainty of predestination is not destroyed.
 
-<span class="atom-split" data-atom="163" data-title="Whether the number of the predestined is certain?" data-chapter="Whether the number of the predestined is certain?" data-kind="atom"></span>
+<span class="atom-split" data-atom="163" data-title="Whether the number of the predestined is certain?" data-chapter="Whether the number of the predestined is certain?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the number of the predestined is not certain. For a number to which
 an addition can be made is not certain. But there can be an addition to the number of the predestined
@@ -8253,7 +8253,7 @@ through the corruption of [original sin](/positions/original_sin), those who are
 however, appears the mercy of God, that He has chosen some for that salvation, from which very
 many in accordance with the common course and tendency of nature fall short.
 
-<span class="atom-split" data-atom="164" data-title="Whether predestination can be furthered by the prayers of the saints?" data-chapter="Whether predestination can be furthered by the prayers of the saints?" data-kind="atom"></span>
+<span class="atom-split" data-atom="164" data-title="Whether predestination can be furthered by the prayers of the saints?" data-chapter="Whether predestination can be furthered by the prayers of the saints?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [predestination](/concepts/predestination) cannot be furthered by the prayers of the saints. For
 nothing eternal can be preceded by anything temporal; and in consequence nothing temporal can
@@ -8316,14 +8316,14 @@ Reply to Objection 3: Secondary causes cannot escape the order of the first univ
 as has been said above (Q[19], A[6]), indeed, they execute that order. And therefore predestination
 can be furthered by creatures, but it cannot be impeded by them.
 
-<span class="atom-split" data-atom="165" data-title="THE BOOK OF LIFE (THREE ARTICLES)" data-chapter="THE BOOK OF LIFE (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="165" data-title="THE BOOK OF LIFE (THREE ARTICLES)" data-chapter="THE BOOK OF LIFE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the book of life; concerning which there are three points of inquiry:
 (1) What is the book of life?
 (2) Of what life is it the book?
 (3) Whether anyone can be blotted out of the book of life?
 
-<span class="atom-split" data-atom="166" data-title="Whether the book of life is the same as predestination?" data-chapter="Whether the book of life is the same as predestination?" data-kind="atom"></span>
+<span class="atom-split" data-atom="166" data-title="Whether the book of life is the same as predestination?" data-chapter="Whether the book of life is the same as predestination?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the book of life is not the same thing as pre-destination. For it is
 said, "All things are the book of life" (Ecclus. 4:32)---i.e. the Old and New Testament according
@@ -8373,7 +8373,7 @@ Reply to Objection 4: Predestination and the book of life are different aspects 
 thing. For this latter implies the knowledge of predestination; as also is made clear from the gloss
 quoted above.
 
-<span class="atom-split" data-atom="167" data-title="Whether the book of life regards only the life of glory of the predestined?" data-chapter="Whether the book of life regards only the life of glory of the predestined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="167" data-title="Whether the book of life regards only the life of glory of the predestined?" data-chapter="Whether the book of life regards only the life of glory of the predestined?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the book of life does not only regard the life of glory of the
 predestined. For the book of life is the knowledge of life. But God, through His own life, knows
@@ -8415,7 +8415,7 @@ said to be chosen simply, but relatively. Likewise they are not said to be writt
 simply, but relatively; that is to say, that it is in the ordination and knowledge of God that they are
 to have some relation to eternal life, according to their participation in grace.
 
-<span class="atom-split" data-atom="168" data-title="Whether anyone may be blotted out of the book of life?" data-chapter="Whether anyone may be blotted out of the book of life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="168" data-title="Whether anyone may be blotted out of the book of life?" data-chapter="Whether anyone may be blotted out of the book of life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that no one may be blotted out of the book of life. For [Augustine](/figures/augustine) says
 (De Civ. Dei xx, 15): "God's foreknowledge, which cannot be deceived, is the book of life." But
@@ -8468,7 +8468,7 @@ in which one is said to be written therein anew; either in the opinion of men, o
 again to have relation towards eternal life through grace; which also is included in the knowledge
 of God, although not anew.
 
-<span class="atom-split" data-atom="169" data-title="THE POWER OF GOD (SIX ARTICLES)" data-chapter="THE POWER OF GOD (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="169" data-title="THE POWER OF GOD (SIX ARTICLES)" data-chapter="THE POWER OF GOD (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering the divine foreknowledge and will, and other things pertaining thereto, it
 remains for us to consider the power of God. About this are six points of inquiry:
@@ -8479,7 +8479,7 @@ remains for us to consider the power of God. About this are six points of inquir
 (5) Whether He could do what He does not, or not do what He does?
 (6) Whether what He makes He could make better?
 
-<span class="atom-split" data-atom="170" data-title="Whether there is power in God?" data-chapter="Whether there is power in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="170" data-title="Whether there is power in God?" data-chapter="Whether there is power in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that power is not in God. For as primary matter is to power, so God, who
 is the first agent, is to act. But primary matter, considered in itself, is devoid of all act. Therefore,
@@ -8538,7 +8538,7 @@ it is the effective principle, has the notion of power contained in it. Hence th
 knowledge and will of God precedes the consideration of His power, as the cause precedes the
 operation and effect.
 
-<span class="atom-split" data-atom="171" data-title="Whether the power of God is infinite?" data-chapter="Whether the power of God is infinite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="171" data-title="Whether the power of God is infinite?" data-chapter="Whether the power of God is infinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the power of God is not infinite. For everything that is infinite is
 imperfect according to the Philosopher (Phys. iii, 6). But the power of God is far from imperfect.
@@ -8595,7 +8595,7 @@ time. An incorporeal mover, however, is not a univocal agent; whence it is not n
 whole of its power should be manifested in motion, so as to move without time; and especially
 since it moves in accordance with the disposition of its will.
 
-<span class="atom-split" data-atom="172" data-title="Whether God is omnipotent?" data-chapter="Whether God is omnipotent?" data-kind="atom"></span>
+<span class="atom-split" data-atom="172" data-title="Whether God is omnipotent?" data-chapter="Whether God is omnipotent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not omnipotent. For movement and passiveness belong to
 everything. But this is impossible with God, for He is immovable, as was said above (Q[2], A[3]).
@@ -8696,7 +8696,7 @@ A[1], ad 2). Thus is it that the wisdom of the world is deemed foolish, because 
 to nature, it judges to be impossible to God. So it is clear that the omnipotence of God does not
 take away from things their impossibility and necessity.
 
-<span class="atom-split" data-atom="173" data-title="Whether God can make the past not to have been?" data-chapter="Whether God can make the past not to have been?" data-kind="atom"></span>
+<span class="atom-split" data-atom="173" data-title="Whether God can make the past not to have been?" data-chapter="Whether God can make the past not to have been?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God can make the past not to have been. For what is impossible in
 itself is much more impossible than that which is only impossible accidentally. But God can do
@@ -8748,7 +8748,7 @@ who has fallen; but the fact that she had been corrupt cannot be removed from he
 impossible that the fact of having sinned or having lost charity thereby can be removed from the
 sinner.
 
-<span class="atom-split" data-atom="174" data-title="Whether God can do what He does not?" data-chapter="Whether God can do what He does not?" data-kind="atom"></span>
+<span class="atom-split" data-atom="174" data-title="Whether God can do what He does not?" data-chapter="Whether God can do what He does not?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God cannot do other than what He does. For God cannot do what
 He has not foreknown and pre-ordained that He would do. But He neither foreknew nor pre-ordained
@@ -8824,7 +8824,7 @@ Reply to Objection 3: Although this order of things be restricted to what now ex
 power and wisdom are not thus restricted. Whence, although no other order would be suitable and
 good to the things which now are, yet God can do other things and impose upon them another order.
 
-<span class="atom-split" data-atom="175" data-title="Whether God can do better than what He does?" data-chapter="Whether God can do better than what He does?" data-kind="atom"></span>
+<span class="atom-split" data-atom="175" data-title="Whether God can do better than what He does?" data-chapter="Whether God can do better than what He does?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God cannot do better than He does. For whatever God does, He does
 in a most powerful and wise way. But a thing is so much the better done as it is more powerfully
@@ -8885,7 +8885,7 @@ fact that she is the mother of God; have all a certain infinite dignity from the
 is God. And on this account there cannot be anything better than these; just as there cannot be
 anything better than God.
 
-<span class="atom-split" data-atom="176" data-title="OF THE DIVINE BEATITUDE (FOUR ARTICLES)" data-chapter="OF THE DIVINE BEATITUDE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="176" data-title="OF THE DIVINE BEATITUDE (FOUR ARTICLES)" data-chapter="OF THE DIVINE BEATITUDE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering all that pertains to the unity of the divine essence, we come to treat of the
 divine [beatitude](/positions/beatitude). Concerning this, there are four points of inquiry:
@@ -8894,7 +8894,7 @@ divine [beatitude](/positions/beatitude). Concerning this, there are four points
 (3) Whether He is essentially the beatitude of each of the blessed?
 (4) Whether all other beatitude is included in the divine beatitude?
 
-<span class="atom-split" data-atom="177" data-title="Whether beatitude belongs to God?" data-chapter="Whether beatitude belongs to God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="177" data-title="Whether beatitude belongs to God?" data-chapter="Whether beatitude belongs to God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that [beatitude](/positions/beatitude) does not belong to God. For beatitude according to Boethius
 (De Consol. iv) "is a state made perfect by the aggregation of all good things." But the aggregation
@@ -8923,7 +8923,7 @@ virtue, so far as anyone attains to beatitude; even as to be the term of generat
 to a being, so far as it passes from [potentiality](/concepts/act_potency) to act. As, then, God has being, though not begotten;
 so He has beatitude, although not acquired by merit.
 
-<span class="atom-split" data-atom="178" data-title="Whether God is called blessed in respect of His intellect?" data-chapter="Whether God is called blessed in respect of His intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="178" data-title="Whether God is called blessed in respect of His intellect?" data-chapter="Whether God is called blessed in respect of His intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not called blessed in respect to His intellect. For [beatitude](/positions/beatitude) is
 the highest good. But good is said to be in God in regard to His essence, because good has reference
@@ -8958,7 +8958,7 @@ understood as prior to the act of a power. Whence in our manner of understanding
 precedes the act of the will at rest in it. This cannot be other than the act of the intellect; and thus
 beatitude is to be found in an act of the intellect.
 
-<span class="atom-split" data-atom="179" data-title="Whether God is the beatitude of each of the blessed?" data-chapter="Whether God is the beatitude of each of the blessed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="179" data-title="Whether God is the beatitude of each of the blessed?" data-chapter="Whether God is the beatitude of each of the blessed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is the [beatitude](/positions/beatitude) of each of the blessed. For God is the supreme
 good, as was said above (Q[6], AA[2],4). But it is quite impossible that there should be many
@@ -8990,7 +8990,7 @@ says (Greater Ethics i, 3), namely, the "thing itself" and "its use." Thus to a 
 and its acquisition. Accordingly God is indeed the last end of a rational creature, as the thing itself;
 but created beatitude is the end, as the use, or rather fruition, of the thing.
 
-<span class="atom-split" data-atom="180" data-title="Whether all other beatitude is included in the beatitude of God?" data-chapter="Whether all other beatitude is included in the beatitude of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="180" data-title="Whether all other beatitude is included in the beatitude of God?" data-chapter="Whether all other beatitude is included in the beatitude of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the divine [beatitude](/positions/beatitude) does not embrace all other beatitudes. For there
 are some false beatitudes. But nothing false can be in God. Therefore the divine beatitude does not

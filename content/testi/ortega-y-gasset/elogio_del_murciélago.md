@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/elogio_del_murciélago" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Elogio del Murciélago" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Elogio del Murciélago" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -44,7 +44,7 @@ Cuando se recogen datos fehacientes sobre los goces preferidos en las más diver
 
 Del mismo modo, nuestra afición a las danzas rusas y al pequeño Murciélago puede servirnos para ponernos en claro sobre muchas cosas íntimas, de esa verdadera intimidad que no se encuentra fácilmente al volver la atención hacia nosotros, sino que necesita ser descubierta, no menos que el remoto secreto de un astro o el misterio botánico de una flor.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Ello es que, en tanto Europa sigue empujando sin fe las momias de sus instituciones y los espectros de sus fiestas exangües, Rusia revoluciona y danza. Allá, al fondo del planeta, el enorme cuerpo eslavo se contorsiona, y lo imaginamos como un saurio prediluvial que retuerce la cordillera de sus vértebras. Al mismo tiempo, en Londres, en París, en Madrid, la tropa moscovita brinca, elástica y fúlgida, sobre la escena. Y ambas cosas, el baile y la subversión, nos parecen sucesos tan esenciales a nuestro tiempo, que un momento llegan a confundirse en nuestra sensibilidad. El Comité de Delegados Obreros y Soldados que inició la gran revuelta se nos presenta, queramos o no, bajo la especie de un coro de danzarines, con sus botas altas de charol, largos abrigos de astracán y música de Strawinsky, mientras que, asistiendo a la ejecución de Petruchka, la masa de pueblo palpitante y rítmico que inunda la escena nos parece una vista de la revolución petersburguesa tomada desde un arrabal.
 
@@ -66,7 +66,7 @@ Una reforma del arte escénico que aspire a ser suficientemente profunda no pued
 
 Pero tornemos a nuestro análisis del viejo arte escénico. Lo que añade al texto, decíamos, es inesencial. Veamos ahora qué es eso que añade. Cabe imaginar una representación deliciosa de La vida es sueño, acentuando cuanto yace en el tema de aprovechable para un ballet o pantomima. En esta representación lo importante serían las decoraciones, los trajes, el ritmo de los movimientos. La fantasía, la musicalidad y el sentido cromático de un grupo de artistas nuevos crearían un espectáculo encantador. En semejante caso, lo que el teatro añadiría al texto sería de alta calidad y valdría por sí mismo. El verso calderoniano superpondría sus volutas coruscantes al acontecimiento plástico, y tendríamos, en rigor, juntas dos obras de arte, extrañas entre sí, pero ambas sustantivas. Es muy posible que la atención no pudiera gozar a un tiempo de ambas. Entonces resultaría que cuando el teatro añade a la poesía algo valioso por sí, la hace daño.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pero el arte escénico usado es muy distinto de lo que ese espectáculo promete. No crea una obra plástica y sonora que valga por sí, sino que, obediente al texto, sólo aspira a «realizar la obra literaria». Esta realización consiste en agregar a las ideas del texto el complemento intuitivo que a la poesía falta. Pero ¿no hay un quid pro quo en tal propósito? La poesía, en efecto, no tiene esos detalles intuitivos; pero, aunque no los tiene, no le faltan; al contrario, le sobran. Por esta razón, cuanto más exquisito sea el carácter dramático de un personaje, más nos repugna su corporización en un hombre de carne y hueso. Siempre me ha parecido una crueldad el tema que damos a nuestros actores; por ejemplo: que «hagan» un Hamlet. Porque lo que hay que «hacer» y lo que se puede «hacer» de Hamlet ya lo ha hecho Shakespeare, y lo que puede hacer el actor —un joven taciturno y neurasténico— no es precisamente Hamlet. Se le pide hacer una cosa para la cual ni tiene ni se le dan los medios. El resultado es ineludiblemente que nos parezca asistir a una suplantación. Jóvenes taciturnos y neurasténicos hay muchos; Hamlet, sólo uno: el de Shakespeare. Una vez que el autor pone lo que en su personaje hay de singular e interesante, sólo queda a cargo del actor lo que hay de genérico e insignificante en la figura. ¿No sería más acertado prescindir de esto?
 

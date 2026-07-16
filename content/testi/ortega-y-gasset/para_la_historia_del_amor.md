@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_la_historia_del_amor" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para la historia del amor" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Para la historia del amor" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -46,7 +46,7 @@ II
 
 NOTA SOBRE EL «AMOR CORTÉS»
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Vemos pasar el nuevo amor con vaga melancolía, como invitados que llegan tarde a un convite. Aunque seamos irremediablemente fieles a otra forma menos nueva de amar, presentimos las gracias peculiares de este estilo más reciente y las quisiéramos también. La vida es siempre apetitosa, y diez existencias diferentes no nos permitirían renunciar sin nostalgia a la undécima. Ello es que desde fuera vemos la nueva escena erótica, y como no participamos de la raíz vital que la engendra, sólo podemos acercarnos intelectualmente a su esencia. Y el intelecto es acto de comparar. Así el nuevo amor nos aparece sobre el fondo del que nosotros ejercitábamos destacando de él por sus rasgos diferenciales. Nuestro amor, con unas u otras modulaciones pertenecía a la casta del siglo XIX. Era el «amor romántico». En las postrimerías del siglo, el fuego apasionado de sus comienzos se había entibiado en todas las esferas de la vitalidad. Tal vez por eso nos hacíamos la ilusión de que no éramos ya románticos de sentimiento ni literatura. Pero basta que nos confrontemos con la gente moza para que sintamos el tirón histórico que nos mantiene adheridos a los abuelos románticos. Somos su progenie, próxima ya a una nueva especie más mesurada y cuerda. Ya Heine pretendía indecisamente no ser del todo romántico, y se titulaba «rey abdicado del imperio milenario del romanticismo».
 

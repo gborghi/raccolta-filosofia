@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/más_literatura_resignada" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Más literatura resignada" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Más literatura resignada" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 A un comentario que puse al discurso último de don Melquíades Álvarez contesta Luis de Zulueta en esta nuestra España. No le ha parecido bien a mi amigo que yo discrepe de la posición oficial que el partido reformista ha tomado, y acude solícito para ponerme un cerco de ortodoxia.
 

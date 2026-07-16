@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sencillas_reflexiones_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sencillas reflexiones (2)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sencillas reflexiones (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -66,7 +66,7 @@ Esta doctrina es lo que de fuerte y personal yace en su figura política, y es l
 
 Se dirá que eso no es una doctrina, que es, a lo sumo, un sentimiento, un estado de espíritu. Es cierto; pero, ¿qué otra cosa es el señor Maura? Su historia política se caracteriza precisamente por haber usado de los sentimientos subjetivos como si fueran doctrinas. Su verdad fue su pasión. Al removerse de la publicidad lo hace con una explosión pasional.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Y aquella sensación de repugnancia ante la impureza ambiente, que era justa y ejemplar como estado íntimo de espíritu, al ser formulada en pensamiento, en juicios concretos, pierde todo su valor e incita a que excusemos al señor Maura hasta el mérito de haberla sentido. Porque la repugnancia hacia lo repugnante es una gran virtud privada; mas la política comienza donde aquel asco sentimental concluye e inicia la clara intelección un sistema de medios correctivos.
 
@@ -136,7 +136,7 @@ LA EXPERIENCIA MONÁRQUICA
 
 El poder moderador… Declaro que esta frase me es poco simpática; suena a hipocresía y a jurídico escolasticismo. Es insuficiente para definir la función de la institución máxima en una sociedad, y es inexacta si pretende formular la fluencia real, viviente de la historia. Es una expresión gris. Fue ideada por el liberalismo del siglo XIX, el cual nos parece cosa tan vieja y manida como la política de los Faraones.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¡Un poder, cuya potencia es sólo moderar! En la dinámica historia sólo hay poderes contrarios, y la moderación surge espontáneamente de ellos. Mejor aún; como todo poder se forma y crece en lucha con otro poder enemigo, necesita que éste no desaparezca del todo y mantiene con él una tácita comunidad de intereses extremos. La moderación viene a ser, pues, la medida de la necesidad que en cada [caso](/concepts/fortune) siente un partido de su contrario. ¿A qué más moderador que la opinión pública, en la cual se reúnen y vienen fatalmente a composición y límites los torbellinos particulares?
 

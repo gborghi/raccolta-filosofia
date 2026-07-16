@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/falta_de_individualidad" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Falta de individualidad" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Falta de individualidad" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ese «oficialismo» de la existencia íntegra sería imposible si cada persona singular tuviese, como suele decirse, su alma en su almario; si cada cual sintiese su individualidad y la afirmase. Pero el alma egipcia es colectiva y no individual. Quiero decir con esto: primero, que el alma de cada egipcio era prácticamente idéntica a la de otro cualquiera, que estaba formada por un repertorio igual de pensamientos y reacciones; no sentía el choque con el prójimo, ni percibía esa diferencia que, como Stendhal dijo, engendra odio; segundo, no sólo eran idénticas las almas, sino que su contenido estaba desproporcionadamente constituido por contenidos sociales.
 

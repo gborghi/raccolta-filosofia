@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_política_del_gobierno" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La política del Gobierno" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La política del Gobierno" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La composición del Gobierno provisional era un documento de carne y hueso, que acreditaba y simbolizaba el carácter nacional y no particular o partidista del cambio de régimen. Era natural que existiesen elementos dispuestos a tergiversar su sentido y pretender que eran ellos quienes habían traído la República y, en consecuencia, que la República había venido en beneficio de ellos. El Gobierno no debió tolerar ni un minuto este falseamiento del gran hecho nacional.
 

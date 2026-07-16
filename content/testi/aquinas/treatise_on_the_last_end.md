@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_last_end" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Last End" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Last End" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 FIRST PART OF THE SECOND PART (FS) (QQ[1]-114)
 TREATISE ON THE LAST END (QQ[1]-5)
@@ -31,7 +31,7 @@ that we have treated of the exemplar, i.e. God, and of those things which came f
 of God in accordance with His will; it remains for us to treat of His image, i.e. man, inasmuch as
 he too is the principle of his actions, as having free-will and control of his actions.
 
-<span class="atom-split" data-atom="002" data-title="OF MAN'S LAST END (EIGHT ARTICLES)" data-chapter="OF MAN'S LAST END (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF MAN'S LAST END (EIGHT ARTICLES)" data-chapter="OF MAN'S LAST END (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In this matter we shall consider first the last end of human life; and secondly, those things by
 means of which man may advance towards this end, or stray from the path: for the end is the rule
@@ -47,7 +47,7 @@ Under the first head there are eight points of inquiry:
 (7) Whether all men have the same last end?
 (8) Whether all other creatures concur with man in that last end?
 
-<span class="atom-split" data-atom="003" data-title="Whether it belongs to man to act for an end?" data-chapter="Whether it belongs to man to act for an end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether it belongs to man to act for an end?" data-chapter="Whether it belongs to man to act for an end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it does not belong to man to act for an end. For a cause is
 naturally first. But an end, in its very name, implies something that is last. Therefore an end is not
@@ -96,7 +96,7 @@ Reply to Objection 3: Such like actions are not properly human actions; since th
 proceed from deliberation of the reason, which is the proper principle of human actions. Therefore
 they have indeed an imaginary end, but not one that is fixed by reason.
 
-<span class="atom-split" data-atom="004" data-title="Whether it is proper to the rational nature to act for an end?" data-chapter="Whether it is proper to the rational nature to act for an end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether it is proper to the rational nature to act for an end?" data-chapter="Whether it is proper to the rational nature to act for an end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is proper to the rational nature to act for an end. For man,
 to whom it belongs to act for an end, never acts for an unknown end. On the other hand, there are
@@ -155,7 +155,7 @@ city, who intends the common good, moves, by his command, all the particular dep
 city. Consequently all things that lack reason are, of necessity, moved to their particular ends by
 some rational will which extends to the universal good, namely by the Divine will.
 
-<span class="atom-split" data-atom="005" data-title="Whether human acts are specified by their end?" data-chapter="Whether human acts are specified by their end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether human acts are specified by their end?" data-chapter="Whether human acts are specified by their end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that human acts are not specified by their end. For the end is an
 extrinsic cause. But everything is specified by an intrinsic principle. Therefore human acts are not
@@ -209,7 +209,7 @@ the relation to a natural end is accidental to morality. Consequently there is n
 which are the same considered in their natural species, should not be diverse, considered in their
 moral species, and conversely.
 
-<span class="atom-split" data-atom="006" data-title="Whether there is one last end of human life?" data-chapter="Whether there is one last end of human life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether there is one last end of human life?" data-chapter="Whether there is one last end of human life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no last end of human life, but that we proceed to
 [infinity](/concepts/infinity). For good is essentially diffusive, as Dionysius states (Div. Nom. iv). Consequently if that
@@ -274,7 +274,7 @@ Reply to Objection 3: This multiplication of acts of the will reacting on itself
 the order of ends. This is clear from the fact that in regard to one and the same end, the will reacts
 on itself indifferently once or several times.
 
-<span class="atom-split" data-atom="007" data-title="Whether one man can have several last ends?" data-chapter="Whether one man can have several last ends?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether one man can have several last ends?" data-chapter="Whether one man can have several last ends?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem possible for one man's will to be directed at the same time to several
 things, as last ends. For [Augustine](/figures/augustine) says (De Civ. Dei xix, 1) that some held man's last end to consist
@@ -330,7 +330,7 @@ Reply to Objection 3: The power of the will does not extend to making opposites 
 same time. Which would be the case were it to tend to several diverse objects as last ends, as has
 been shown above (ad 2).
 
-<span class="atom-split" data-atom="008" data-title="Whether man will all, whatsoever he wills, for the last end?" data-chapter="Whether man will all, whatsoever he wills, for the last end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether man will all, whatsoever he wills, for the last end?" data-chapter="Whether man will all, whatsoever he wills, for the last end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man does not will all, whatsoever he wills, for the last end.
 For things ordained to the last end are said to be serious matter, as being useful. But jests are foreign
@@ -371,7 +371,7 @@ in every desire directed to any object whatever, even though one's thoughts be n
 to the last end. Thus while walking along the road one needs not to be thinking of the end at every
 step.
 
-<span class="atom-split" data-atom="009" data-title="Whether all men have the same last end?" data-chapter="Whether all men have the same last end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether all men have the same last end?" data-chapter="Whether all men have the same last end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all men have not the same last end. For before all else the
 unchangeable good seems to be the last end of man. But some turn away from the unchangeable
@@ -408,7 +408,7 @@ things in which men seek to find their last end.
 Reply to Objection 3: Although actions are of individuals, yet their first principle of action is
 nature, which tends to one thing, as stated above (A[5]).
 
-<span class="atom-split" data-atom="010" data-title="Whether other creatures concur in that last end?" data-chapter="Whether other creatures concur in that last end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether other creatures concur in that last end?" data-chapter="Whether other creatures concur in that last end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all other creatures concur in man's last end. For the end
 corresponds to the beginning. But man's beginning---i.e. God---is also the beginning of all else.
@@ -439,7 +439,7 @@ the Divine likeness, inasmuch as they are, or live, or even know.
 Hence it is evident how the objections are solved: since happiness means the acquisition of the
 last end.
 
-<span class="atom-split" data-atom="011" data-title="OF THOSE THINGS IN WHICH MAN'S HAPPINESS CONSISTS (EIGHT ARTICLES)" data-chapter="OF THOSE THINGS IN WHICH MAN'S HAPPINESS CONSISTS (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="OF THOSE THINGS IN WHICH MAN'S HAPPINESS CONSISTS (EIGHT ARTICLES)" data-chapter="OF THOSE THINGS IN WHICH MAN'S HAPPINESS CONSISTS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider happiness: and (1) in what it consists; (2) what it is; (3) how we can
 obtain it.
@@ -453,7 +453,7 @@ Concerning the first there are eight points of inquiry:
 (7) Whether in any good of the soul?
 (8) Whether in any created good?
 
-<span class="atom-split" data-atom="012" data-title="Whether man's happiness consists in wealth?" data-chapter="Whether man's happiness consists in wealth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether man's happiness consists in wealth?" data-chapter="Whether man's happiness consists in wealth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man's happiness consists in wealth. For since happiness is
 man's last end, it must consist in that which has the greatest hold on man's affections. Now this is
@@ -511,7 +511,7 @@ signified, "shall thirst again." The reason of this is that we realize more thei
 we possess them: and this very fact shows that they are imperfect, and the sovereign good does not
 consist therein.
 
-<span class="atom-split" data-atom="013" data-title="Whether man's happiness consists in honors?" data-chapter="Whether man's happiness consists in honors?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether man's happiness consists in honors?" data-chapter="Whether man's happiness consists in honors?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man's happiness consists in honors. For happiness or bliss is
 "the reward of virtue," as the Philosopher says (Ethic. i, 9). But honor more than anything else
@@ -550,7 +550,7 @@ Reply to Objection 3: That man desires honor above all else, arises from his nat
 happiness, from which honor results, as stated above. Wherefore man seeks to be honored especially
 by the wise, on whose judgment he believes himself to be excellent or happy.
 
-<span class="atom-split" data-atom="014" data-title="Whether man's happiness consists in fame or glory?" data-chapter="Whether man's happiness consists in fame or glory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether man's happiness consists in fame or glory?" data-chapter="Whether man's happiness consists in fame or glory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man's happiness consists in glory. For happiness seems to
 consist in that which is paid to the saints for the trials they have undergone in the world. But this
@@ -602,7 +602,7 @@ it follows that fame can nowise make man happy.
 Reply to Objection 3: Fame has no stability; in fact, it is easily ruined by false report. And if
 sometimes it endures, this is by accident. But happiness endures of itself, and for ever.
 
-<span class="atom-split" data-atom="015" data-title="Whether man's happiness consists in power?" data-chapter="Whether man's happiness consists in power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether man's happiness consists in power?" data-chapter="Whether man's happiness consists in power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that happiness consists in power. For all things desire to become
 like to God, as to their last end and first beginning. But men who are in power, seem, on account
@@ -652,7 +652,7 @@ good and evil.
 Reply to Objection 3: Servitude is a hindrance to the good use of power: therefore is it that
 men naturally shun it; not because man's supreme good consists in power.
 
-<span class="atom-split" data-atom="016" data-title="Whether man's happiness consists in any bodily good?" data-chapter="Whether man's happiness consists in any bodily good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether man's happiness consists in any bodily good?" data-chapter="Whether man's happiness consists in any bodily good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man's happiness consists in bodily goods. For it is written
 (Ecclus. 30:16): "There is no riches above the riches of the health of the body." But happiness
@@ -711,7 +711,7 @@ the last end is the first beginning of being, in Whom every perfection of being 
 according to their proportion, some desire as to being only, some as to living being, some as to
 being which is living, intelligent and happy. And this belongs to few.
 
-<span class="atom-split" data-atom="017" data-title="Whether man's happiness consists in pleasure?" data-chapter="Whether man's happiness consists in pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether man's happiness consists in pleasure?" data-chapter="Whether man's happiness consists in pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man's happiness consists in pleasure. For since happiness is
 the last end, it is not desired for something else, but other things for it. But this answers to pleasure
@@ -776,7 +776,7 @@ desire delight by reason of the good and not conversely, as stated above (ad 1).
 does not follow that delight is the supreme and essential good, but that every delight results from
 some good, and that some delight results from that which is the essential and supreme good.
 
-<span class="atom-split" data-atom="018" data-title="Whether some good of the soul constitutes man's happiness?" data-chapter="Whether some good of the soul constitutes man's happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether some good of the soul constitutes man's happiness?" data-chapter="Whether some good of the soul constitutes man's happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that some good of the soul constitutes man's happiness. For
 happiness is man's good. Now this is threefold: external goods, goods of the body, and goods of
@@ -833,7 +833,7 @@ Reply to Objection 3: Happiness, itself, since it is a perfection of the soul, i
 of the soul; but that which constitutes happiness, viz. which makes man happy, is something outside
 his soul, as stated above.
 
-<span class="atom-split" data-atom="019" data-title="Whether any created good constitutes man's happiness?" data-chapter="Whether any created good constitutes man's happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether any created good constitutes man's happiness?" data-chapter="Whether any created good constitutes man's happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that some created good constitutes man's happiness. For Dionysius
 says (Div. Nom. vii) that Divine wisdom "unites the ends of first things to the beginnings of second
@@ -880,7 +880,7 @@ something intrinsic and inherent to him: but it is less than the good of which h
 an object, and which is infinite. And the participated good which is in an angel, and in the whole
 universe, is a finite and restricted good.
 
-<span class="atom-split" data-atom="020" data-title="WHAT IS HAPPINESS (EIGHT ARTICLES)" data-chapter="WHAT IS HAPPINESS (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="WHAT IS HAPPINESS (EIGHT ARTICLES)" data-chapter="WHAT IS HAPPINESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider (1) what happiness is, and (2) what things are required for it.
 Concerning the first there are eight points of inquiry:
@@ -896,7 +896,7 @@ speculative sciences?
 (7) Whether it consists in the consideration of separate substances viz. angels?
 (8) Whether it consists in the sole contemplation of God seen in His Essence?
 
-<span class="atom-split" data-atom="021" data-title="Whether happiness is something uncreated?" data-chapter="Whether happiness is something uncreated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether happiness is something uncreated?" data-chapter="Whether happiness is something uncreated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that happiness is something uncreated. For Boethius says (De
 Consol. iii): "We must needs confess that God is happiness itself."
@@ -934,7 +934,7 @@ or enjoyment of the supreme good.
 Reply to Objection 3: Happiness is said to be the last end, in the same way as the attainment
 of the end is called the end.
 
-<span class="atom-split" data-atom="022" data-title="Whether happiness is an operation?" data-chapter="Whether happiness is an operation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether happiness is an operation?" data-chapter="Whether happiness is an operation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that happiness is not an operation. For the Apostle says (Rom.
 6:22): "You have your fruit unto sanctification, and the end, life everlasting." But life is not an
@@ -1016,7 +1016,7 @@ since he can always easily turn to it, and since he ordains the very cessation, 
 himself otherwise, to the aforesaid occupation, the latter seems, as it were, continuous. From these
 remarks the replies to Objections 5 and 6 are evident.
 
-<span class="atom-split" data-atom="023" data-title="Whether happiness is an operation of the sensitive part, or of the intellective part only?" data-chapter="Whether happiness is an operation of the sensitive part, or of the intellective part only?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether happiness is an operation of the sensitive part, or of the intellective part only?" data-chapter="Whether happiness is an operation of the sensitive part, or of the intellective part only?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that happiness consists in an operation of the senses also. For there
 is no more excellent operation in man than that of the senses, except the intellective operation. But
@@ -1061,7 +1061,7 @@ Reply to Objection 3: In perfect happiness the entire man is perfected, in the l
 nature, by an overflow from the higher. But in the imperfect happiness of this life, it is otherwise;
 we advance from the perfection of the lower part to the perfection of the higher part.
 
-<span class="atom-split" data-atom="024" data-title="Whether, if happiness is in the intellective part, it is an operation of the intellect or of the will?" data-chapter="Whether, if happiness is in the intellective part, it is an operation of the intellect or of the will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether, if happiness is in the intellective part, it is an operation of the intellect or of the will?" data-chapter="Whether, if happiness is in the intellective part, it is an operation of the intellect or of the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that happiness consists in an act of the will. For [Augustine](/figures/augustine) says
 (De Civ. Dei xix, 10,11), that man's happiness consists in peace; wherefore it is written (Ps. 147:3):
@@ -1134,7 +1134,7 @@ is needed for happiness, as a necessary disposition thereto. And a good will is 
 good things which make a man happy, forasmuch as it is an inclination of the will: just as a
 movement is reduced to the genus of its terminus, for instance, "alteration" to the genus "quality."
 
-<span class="atom-split" data-atom="025" data-title="Whether happiness is an operation of the speculative, or of the practical intellect?" data-chapter="Whether happiness is an operation of the speculative, or of the practical intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether happiness is an operation of the speculative, or of the practical intellect?" data-chapter="Whether happiness is an operation of the speculative, or of the practical intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that happiness is an operation of the practical intellect. For the end
 of every creature consists in becoming like God. But man is like God, by his practical intellect,
@@ -1195,7 +1195,7 @@ man's last end is something outside of him, to wit, God, to Whom we reach out by
 the speculative intellect; therefore, man's happiness consists in an operation of the speculative
 intellect rather than of the practical intellect.
 
-<span class="atom-split" data-atom="026" data-title="Whether happiness consists in the consideration of speculative sciences?" data-chapter="Whether happiness consists in the consideration of speculative sciences?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether happiness consists in the consideration of speculative sciences?" data-chapter="Whether happiness consists in the consideration of speculative sciences?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man's happiness consists in the consideration of speculative
 sciences. For the Philosopher says (Ethic. i, 13) that "happiness is an operation according to perfect
@@ -1253,7 +1253,7 @@ participation thereof.
 Reply to Objection 3: Our intellect is reduced to act, in a fashion, by the consideration of
 speculative sciences, but not to its final and perfect act.
 
-<span class="atom-split" data-atom="027" data-title="Whether happiness consists in the knowledge of separate substances, namely, angels?" data-chapter="Whether happiness consists in the knowledge of separate substances, namely, angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether happiness consists in the knowledge of separate substances, namely, angels?" data-chapter="Whether happiness consists in the knowledge of separate substances, namely, angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man's happiness consists in the knowledge of separate
 substances, namely, angels. For Gregory says in a homily (xxvi in Evang.): "It avails nothing to
@@ -1305,7 +1305,7 @@ a contemplation such as that of the angels. Secondly, as the object is attained 
 thus the final perfection of each power is to attain that in which is found the fulness of its formal
 object.
 
-<span class="atom-split" data-atom="028" data-title="Whether man's happiness consists in the vision of the divine essence?" data-chapter="Whether man's happiness consists in the vision of the divine essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether man's happiness consists in the vision of the divine essence?" data-chapter="Whether man's happiness consists in the vision of the divine essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man's happiness does not consist in the vision of the Divine
 Essence. For Dionysius says (Myst. Theol. i) that by that which is highest in his intellect, man is
@@ -1353,7 +1353,7 @@ according to their respective habitudes to that thing. So then in the happiness 
 understanding his Essence, comprehends It, is higher than that of a man or angel who sees It indeed,
 but comprehends It not.
 
-<span class="atom-split" data-atom="029" data-title="OF THOSE THINGS THAT ARE REQUIRED FOR HAPPINESS (EIGHT ARTICLES)" data-chapter="OF THOSE THINGS THAT ARE REQUIRED FOR HAPPINESS (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="OF THOSE THINGS THAT ARE REQUIRED FOR HAPPINESS (EIGHT ARTICLES)" data-chapter="OF THOSE THINGS THAT ARE REQUIRED FOR HAPPINESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider those things that are required for happiness: and concerning this there
 are eight points of inquiry:
@@ -1366,7 +1366,7 @@ are eight points of inquiry:
 (7) Whether any external goods are necessary?
 (8) Whether the fellowship of friends is necessary?
 
-<span class="atom-split" data-atom="030" data-title="Whether delight is required for happiness?" data-chapter="Whether delight is required for happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether delight is required for happiness?" data-chapter="Whether delight is required for happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that delight is not required for happiness. For [Augustine](/figures/augustine) says (De
 Trin. i, 8) that "vision is the entire reward of faith." But the prize or reward of virtue is happiness,
@@ -1408,7 +1408,7 @@ be less attentive to another: sometimes on account of opposition; thus a sensual
 contrary to reason, hinders the estimate of prudence more than it hinders the estimate of the
 speculative intellect.
 
-<span class="atom-split" data-atom="031" data-title="Whether in happiness vision ranks before delight?" data-chapter="Whether in happiness vision ranks before delight?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether in happiness vision ranks before delight?" data-chapter="Whether in happiness vision ranks before delight?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in happiness, delight ranks before vision. For "delight is the
 perfection of operation" (Ethic. x, 4). But perfection ranks before the thing perfected. Therefore
@@ -1454,7 +1454,7 @@ Reply to Objection 3: Charity does not seem the beloved good for the sake of del
 charity a consequence that it delights in the good gained which it loves. Thus delight does not
 answer to charity as its end, but vision does, whereby the end is first made present to charity.
 
-<span class="atom-split" data-atom="032" data-title="Whether comprehension is necessary for happiness?" data-chapter="Whether comprehension is necessary for happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether comprehension is necessary for happiness?" data-chapter="Whether comprehension is necessary for happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that comprehension is not necessary for happiness. For [Augustine](/figures/augustine)
 says (Ad Paulinam de Videndo Deum; [*Cf. Serm. xxxciii De Verb. Dom.]): "To reach God with
@@ -1507,7 +1507,7 @@ Reply to Objection 3: Comprehension is not a distinct operation from vision; but
 relation to the end already gained. Wherefore even vision itself, or the thing seen, inasmuch as it
 is present, is the object of comprehension.
 
-<span class="atom-split" data-atom="033" data-title="Whether rectitude of the will is necessary for happiness?" data-chapter="Whether rectitude of the will is necessary for happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether rectitude of the will is necessary for happiness?" data-chapter="Whether rectitude of the will is necessary for happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that rectitude of the will is not necessary for Happiness. For
 Happiness consists essentially in an operation of the intellect, as stated above (Q[3], A[4]). But
@@ -1552,7 +1552,7 @@ the end: but only that which involves imperfection, such as movement. Hence the 
 movement are no longer necessary when the end has been gained: but the due order to the end is
 necessary.
 
-<span class="atom-split" data-atom="034" data-title="Whether the body is necessary for man's happiness? (1/2)" data-chapter="Whether the body is necessary for man's happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether the body is necessary for man's happiness? (1/2)" data-chapter="Whether the body is necessary for man's happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the body is necessary for Happiness. For the perfection of
 virtue and grace presupposes the perfection of nature. But Happiness is the perfection of virtue and
@@ -1655,7 +1655,7 @@ desired; since, to wit, it has that which suffices its appetite. But it is not w
 the desirer, since it does not possess that good in every way that it would wish to possess it.
 Consequently, after the body has been resumed, Happiness increases not in intensity, but in extent.
 
-<span class="atom-split" data-atom="035" data-title="Whether the body is necessary for man's happiness? (2/2)" data-chapter="Whether the body is necessary for man's happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether the body is necessary for man's happiness? (2/2)" data-chapter="Whether the body is necessary for man's happiness?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: The statement made (Gen. ad lit. xii, 35) to the effect that "the souls of
 the departed see not God as the angels do," is not to be understood as referring to inequality of
@@ -1664,7 +1664,7 @@ thus seeing God more clearly than the lower angels. But it refers to inequality 
 the angels, even the lowest, have every perfection of Happiness that they ever will have, whereas
 the separated souls of the saints have not.
 
-<span class="atom-split" data-atom="036" data-title="Whether perfection of the body is necessary for happiness?" data-chapter="Whether perfection of the body is necessary for happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether perfection of the body is necessary for happiness?" data-chapter="Whether perfection of the body is necessary for happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that perfection of the body is not necessary for man's perfect
 Happiness. For perfection of the body is a bodily good. But it has been shown above (Q[2]) that
@@ -1719,7 +1719,7 @@ be abstracted from this corruptible body which weighs upon the soul; but not fro
 body, which will be wholly subject to the spirit. On this point we shall treat in the Third Part of
 this work (SS, Q[82], seqq.).
 
-<span class="atom-split" data-atom="037" data-title="Whether any external goods are necessary for happiness?" data-chapter="Whether any external goods are necessary for happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether any external goods are necessary for happiness?" data-chapter="Whether any external goods are necessary for happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that external goods also are necessary for Happiness. For that which
 is promised the saints for reward, belongs to Happiness. But external goods are promised the saints;
@@ -1755,7 +1755,7 @@ Happiness, since they are ordained to the animal life. And since, in this life, 
 contemplation, as being more Godlike, approaches nearer than that of action to the likeness of that
 perfect Happiness, therefore it stands in less need of these goods of the body as stated in Ethic. x,
 
-<span class="atom-split" data-atom="038" data-title="8." data-chapter="8." data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="8." data-chapter="8." data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: All those material promises contained in Holy [Scripture](/concepts/revelation), are to be
 understood metaphorically, inasmuch as Scripture is wont to express spiritual things under the form
@@ -1774,7 +1774,7 @@ heaven that is described as the reward of the saints, but a heaven raised on the
 goods. Nevertheless a bodily place, viz. the empyrean heaven, will be appointed to the Blessed,
 not as a need of Happiness, but by reason of a certain fitness and adornment.
 
-<span class="atom-split" data-atom="039" data-title="Whether the fellowship of friend is necessary for happiness?" data-chapter="Whether the fellowship of friend is necessary for happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the fellowship of friend is necessary for happiness?" data-chapter="Whether the fellowship of friend is necessary for happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that friends are necessary for Happiness. For future Happiness is
 frequently designated by [Scripture](/concepts/revelation) under the name of "glory." But glory consists in man's good
@@ -1818,7 +1818,7 @@ be happy, though having no neighbor to love. But supposing one neighbor to be th
 results from perfect love of God. Consequently, [friendship](/concepts/friendship) is, as it were, concomitant with perfect
 Happiness.
 
-<span class="atom-split" data-atom="040" data-title="OF THE ATTAINMENT OF HAPPINESS (EIGHT ARTICLES)" data-chapter="OF THE ATTAINMENT OF HAPPINESS (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="OF THE ATTAINMENT OF HAPPINESS (EIGHT ARTICLES)" data-chapter="OF THE ATTAINMENT OF HAPPINESS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the attainment of Happiness. Under this heading there are eight points
 of inquiry:
@@ -1831,7 +1831,7 @@ of inquiry:
 (7) Whether any actions of man are necessary in order that man may obtain Happiness of God?
 (8) Whether every man desires Happiness?
 
-<span class="atom-split" data-atom="041" data-title="Whether man can attain happiness?" data-chapter="Whether man can attain happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether man can attain happiness?" data-chapter="Whether man can attain happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man cannot attain happiness. For just as the rational is above
 the sensible nature, so the intellectual is above the rational, as Dionysius declares (Div. Nom. iv,
@@ -1877,7 +1877,7 @@ above them naturally. But he can surmount them by an operation of the intellect,
 that there is above the angels something that makes men happy; and when he has attained it, he
 will be perfectly happy.
 
-<span class="atom-split" data-atom="042" data-title="Whether one man can be happier than another?" data-chapter="Whether one man can be happier than another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether one man can be happier than another?" data-chapter="Whether one man can be happier than another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one man cannot be happier than another. For Happiness is
 "the reward of virtue," as the Philosopher says (Ethic. i, 9). But equal reward is given for all the
@@ -1920,7 +1920,7 @@ of other goods does not increase Happiness, since Augustine says (Confess. v, 4)
 Thee, and others besides, is not the happier for knowing them, but is happy for knowing Thee
 alone."
 
-<span class="atom-split" data-atom="043" data-title="Whether one can be happy in this life?" data-chapter="Whether one can be happy in this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether one can be happy in this life?" data-chapter="Whether one can be happy in this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Happiness can be had in this life. For it is written (Ps. 118:1):
 "Blessed are the undefiled in the way, who walk in the law of the Lord." But this happens in this
@@ -1973,7 +1973,7 @@ Reply to Objection 3: Men esteem that there is some kind of happiness to be had 
 on account of a certain likeness to true Happiness. And thus they do not fail altogether in their
 estimate.
 
-<span class="atom-split" data-atom="044" data-title="Whether happiness once had can be lost?" data-chapter="Whether happiness once had can be lost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether happiness once had can be lost?" data-chapter="Whether happiness once had can be lost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Happiness can be lost. For Happiness is a perfection. But every
 perfection is in the thing perfected according to the mode of the latter. Since then man is, by his
@@ -2048,7 +2048,7 @@ Reply to Objection 3: Happiness has a beginning owing to the condition of the pa
 but it has no end by reason of the condition of the good, the participation of which makes man
 happy. Hence the beginning of happiness is from one cause, its endlessness is from another.
 
-<span class="atom-split" data-atom="045" data-title="Whether man can attain happiness by his natural powers?" data-chapter="Whether man can attain happiness by his natural powers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether man can attain happiness by his natural powers?" data-chapter="Whether man can attain happiness by his natural powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man can attain Happiness by his natural powers. For nature
 does not fail in necessary things. But nothing is so necessary to man as that by which he attains the
@@ -2105,7 +2105,7 @@ imperfect operation, which is subject to man's natural power, is not of the same
 perfect operation which is man's happiness: since operation takes its species from its object.
 Consequently the argument does not prove.
 
-<span class="atom-split" data-atom="046" data-title="Whether man attains happiness through the action of some higher creature?" data-chapter="Whether man attains happiness through the action of some higher creature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether man attains happiness through the action of some higher creature?" data-chapter="Whether man attains happiness through the action of some higher creature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man can be made happy through the action of some higher
 creature, viz. an angel. For since we observe a twofold order in things---one, of the parts of the
@@ -2158,7 +2158,7 @@ Reply to Objection 3: A happy angel enlightens the intellect of a man or of a lo
 to certain notions of the Divine works: but not as to the vision of the Divine Essence, as was stated
 in the FP, Q[106], A[1]: since in order to see this, all are immediately enlightened by God.
 
-<span class="atom-split" data-atom="047" data-title="Whether any good works are necessary that man may receive happiness from God?" data-chapter="Whether any good works are necessary that man may receive happiness from God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether any good works are necessary that man may receive happiness from God?" data-chapter="Whether any good works are necessary that man may receive happiness from God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no works of man are necessary that he may obtain Happiness
 from God. For since God is an agent of infinite power, He requires before acting, neither matter,
@@ -2213,7 +2213,7 @@ on us by sanctifying grace, which is not given on account of previous works. For
 term of movement, as Happiness is; rather is it the principle of the movement that tends towards
 Happiness.
 
-<span class="atom-split" data-atom="048" data-title="Whether every man desires happiness?" data-chapter="Whether every man desires happiness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether every man desires happiness?" data-chapter="Whether every man desires happiness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all desire Happiness. For no man can desire what he knows
 not; since the apprehended good is the object of the appetite (De [Anima](/concepts/soul) iii, 10). But many know

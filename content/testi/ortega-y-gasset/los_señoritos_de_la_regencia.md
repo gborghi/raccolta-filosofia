@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_señoritos_de_la_regencia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los señoritos de la Regencia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los señoritos de la Regencia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En tanto que una inmensa gloria de paz ilumina el mundo y grandezas triunfantes se levantan sobre derrotadas grandezas, va a presentarse al Parlamento español este nuevo Gobierno, que han tenido la osadía de formar los señoritos de la Regencia. Por vigésima vez los vemos avanzar hacia el banco azul, inconscientes y audaces, como pelícanos que bajan a una marisma. Helos ahí: uno, dos, tres, cuatro… —son los señoritos de la Regencia.
 

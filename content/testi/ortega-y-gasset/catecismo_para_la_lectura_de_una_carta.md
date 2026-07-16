@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/catecismo_para_la_lectura_de_una_carta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Catecismo para la lectura de una carta" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Catecismo para la lectura de una carta" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Filólogos men ho Longinos,
 
@@ -58,7 +58,7 @@ En cuanto a la palabra Teodicea… Preceden dos muestras del estilo reticente en
 
 Quedamos en que los oyentes del meeting aplauden la pedagogía basada en la Teodicea. Ábranse, pues, en cada barrio escuelas donde se preparen los nuevos corazones, según la Teodicea de Spinoza, Voltaire, Lessing, Rousseau, Kant, Hegel, Strauss (joven), Renan, etcétera. ¿O es que estas gentes no llevan el sello de la nobleza intelectual? ¿O es que estas gentes no crearon una Teodicea? Acaso los oyentes del meeting no contaran con que las más sabias y nobles Teodiceas modernas son Teodiceas sin Dios, como las más ciertas psicologías son psicologías sin alma.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Y ¿qué diríamos si tras de un párrafo tan peregrino, que por respeto anticipado no copio, la carta añadiese esto?:
 

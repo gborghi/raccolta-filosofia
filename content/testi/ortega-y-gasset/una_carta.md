@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/una_carta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Una carta" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Una carta" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señor director de El Sol.
 

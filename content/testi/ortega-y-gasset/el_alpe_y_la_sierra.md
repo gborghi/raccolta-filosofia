@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_alpe_y_la_sierra" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El alpe y la sierra" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El alpe y la sierra" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cauterets fue el lugar del veraneo romántico. Era el tiempo feliz en que los poetas regían a Europa. (Sí, joven futbolista; esto ha acaecido una vez…) Todos venían aquí, con sus cabelleras tormentosas, con el cuello estrangulado por las grandes corbatas, ceñidas las cinturas por las levitas y con un junco en la mano. Todos: lo mismo Chateaubriand que Heine, que Musset, que Stendhal. Era el sitio elegante del romanticismo. (Todas las épocas, todos los estilos, han tenido su dimensión de elegancia, inclusive aquellas épocas, aquellos estilos que, como el romanticismo, son inelegantes). La elegancia es una faceta esencial de la especie humana —como la verdad, como la belleza, como la justicia. Tal vez hay otras especies de animales que tienen el sentido de lo elegante. Si se medita largamente sobre lo que es la elegancia, se descubre con sorpresa su secreto anudamiento a la raíz misma de la vida. (Lector que me eres fiel: te prometo para un día u otro cierta «Meditación de la elegancia» que anda perdida entre mis papeles desde hace no sé cuánto tiempo).
 
@@ -38,7 +38,7 @@ Resulta paradójico preferir un paisaje que comienza por ofrecer dificultades a 
 
 Dudo mucho que en ningún porvenir próximo vuelva el paisaje alpino a conquistar nuestra preferencia, y espero, en cambio, firmemente un novísimo entusiasmo por las sierras claras y bien formadas. Es lo más probable que hacia 1940 el europeo buscará sus paisajes favoritos en el Sahara, fecundo en serranías. (A los baños de mar sucederán los baños de arena, mucho más tónicos y desinfectantes).
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La razón que tengo para pensar así es que en medio de todas las censuras merecidas por la vida actual —sus limitaciones, sus miserias, sus petulancias, sus absurdos—, es forzoso reconocerle una virtud y un don: el sentido para la belleza plástica, para la gracia del volumen y la dignidad del color. Y no es en el arte actual —tan problemático— donde más clara aparece esta fina percepción, sino en la vida, en el traje, en los cuerpos, en los gestos, en los usos, en los utensilios. Es sorprendente notar cómo se ha extendido hasta las clases más humildes el discernimiento de lo que es visualmente bello. A pesar de que hemos heredado un tipo de vestimenta que parece irreductible a normas de belleza, el apetito y criterio para ésta se hallan tan extendidos, que tal vez nunca han ido las gentes todas, las ricas y las pobres, tan bien vestidas, tan pulcras, ni han cuidado tanto el ritmo en el ademán y el canon del cuerpo. No creo que la vida del hombre medio haya sido nunca, en toda la historia, tan bella como ahora.
 

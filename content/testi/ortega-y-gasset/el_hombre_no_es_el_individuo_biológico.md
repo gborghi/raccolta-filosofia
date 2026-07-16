@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_hombre_no_es_el_individuo_biológico" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El hombre no es el individuo biológico" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El hombre no es el individuo biológico" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 También hay un educador en el ganadero: en el criador de caballos. Pugna éste por sacar de sus cuadras un tipo equino de soberbia belleza, un pur sang. Cuando Platón repetía que de todo lo que existe en la naturaleza hay en nosotros una idea previa, el villanesco Antístenes se burlaba: «veo lo blanco —decía—, pero no veo la blancura de lo blanco». «Veo el caballo, pero no veo la caballidad del caballo». El ganadero comprendería mejor que el mal filósofo Antístenes la [sublime](/concepts/sublime) filosofía de Platón: iría a sus establos, tomaría de la crin a un potro nuevo y se lo donaría a Platón, el de las anchas espaldas, diciéndole: «Toma mi idea: yo tuve primero la idea de este caballo y ahora he logrado este caballo de mi idea».
 

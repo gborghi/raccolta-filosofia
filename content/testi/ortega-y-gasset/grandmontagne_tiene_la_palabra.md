@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/grandmontagne_tiene_la_palabra" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Grandmontagne tiene la palabra" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Grandmontagne tiene la palabra" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Saben ustedes lo que hay en España? «El fraude en el sufragio, la mentira política y social, el caciquismo agresivo, la corrupción de la justicia, su lentitud mientras duran los bienes del pleito, la concusión, el parasitismo burocrático, el nepotismo, el crónico y flúido palabreo parlamentario, saturado de ese ingenio inferior que es el talento manqué, frustrado, el desorden administrativo, la incapacidad gubernativa, la pereza, la blandura de raspa, raíz idiosincrásica de los pechos fidalgos: la fe en el azar, el [culto](/concepts/religion) de la buena suerte, la esperanza en una lotería general que ha de dar el premio de la riqueza, el premio del cielo, el premio de la salud y hasta el premio de la inspiración en arte».
 

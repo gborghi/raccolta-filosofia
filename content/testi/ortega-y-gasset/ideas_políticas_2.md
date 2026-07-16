@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ideas_políticas_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ideas políticas (2)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ideas políticas (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -58,7 +58,7 @@ MARRUECOS, ¿SÍ O NO?
 
 Muy rara vez, decía yo, es la opinión pública lo que ella dice. Sólo en raros, fugitivos instantes de plenitud social, coincide lo que se dice con lo que se siente. Y no me refiero ahora a las falsificaciones premeditadas de la opinión que este político o aquel periódico intenten cometer. No; ella misma es insincera, reservada, jeroglífica. Dice siempre otra cosa, si no contraria, por lo menos distinta de la que siente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Prueba de la insinceridad radical de la opinión pública es que no se ha dado el [caso](/concepts/fortune) jamás de que en ella se eche la culpa el público a sí mismo. Siempre es otro el causante del mal. ¿Quién duda de que frecuentemente lleva razón? Pero si el mal de un pueblo llega a consistir ni más ni menos que en ser barrido del haz de la Historia, ¿quién duda que es él el culpable? No obstante, cuando ese caso ominoso llega, el pueblo tiene siempre a mano algún conde Don Julián o algún Don Opas sobre quién descargar la responsabilidad.
 

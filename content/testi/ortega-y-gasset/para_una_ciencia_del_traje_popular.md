@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_una_ciencia_del_traje_popular" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para una ciencia del traje popular" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Para una ciencia del traje popular" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Con su máquina fotográfica Ortiz Echagüe ha conseguido algo épico… No sé bien qué: ¿tragedia, comedia, fábula más bien? Pero estas páginas nos cuentan historias mudas de dos héroes. Los dos protagonistas son Paño y Piedra. Nos ostentan, con cierto cinismo entre orgulloso y zumbón, sus músculos, sus masas, sus poros, sus luces, sus sombras. La Piedra, más segura de sí misma, se suele quedar al fondo, donde afirma su dureza geológica. Y, sin embargo, juega consigo misma a curvarse como un junco en el arco, en el portal, a bombearse en la panza de los torreones, a enternecerse en los detalles íntimos de un blasón que florece sobre la sillería granítica. El Paño, menos confiado en su destino, se adelanta al primer plano, como un tenor, para cantarnos su aria romántica, para que le veamos bien y nos interesemos por su suerte. Tienen también estos trajes extemporáneos, al acercarse a quien contempla las fotografías de Ortiz Echagüe, algo de animales exóticos, que en el Zoo, tras los barrotes, se aproximan al visitante con la esperanza de que les eche algo.
 
@@ -42,7 +42,7 @@ Conviene, sin embargo, defenderse de la ilusión óptica que suele producir todo
 
 Así cuentan el hecho los historiadores y no hay nada que rectificar a su relación. Sólo les imputo una falta: no decirnos por qué ese sombrero tan castizo, tan consustancial con la raza madrileña, se llamaba chambergo. La palabra huele enormemente a extranjería. Chambergo viene de Schomberg. Y ¿quién fue Schomberg? Schomberg fue el comandante de la guardia flamenca traída a España en tiempos de Carlos II, aproximadamente un siglo antes del motín de Squilache. Esta guardia flamenca despertó también la antipatía popular. ¡Irritaban aquellos hombres barrocos del Norte, tocados con sus enormes sombreros a lo Schomberg! Pero es el [caso](/concepts/fortune) que, no mucho después, el pueblo matritense adoptó el amplio chapeo extranjero y que dos generaciones más tarde lo consideraba como simbólico fetiche de la más pura casta madrileña. Por defenderlo se entregó denodadamente a linchar guardias walonas, herederos de aquéllos a quienes había tomado el sombrero.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Este dato nos invita a reformar nuestra manera de deleitarnos con el traje popular. Su gracia no está en su efectiva antigüedad, sino precisamente en la portentosa ilusión de vetustez, más aún de sin-edad, que el pueblo da a cuanto adopta, aunque sea de ayer. Ésta es su peculiar y genial ironía. Mientras las clases superiores acentúan la novedad de cuanto usan y hacen, cayendo siempre, más o menos, en una gesticulación de parvenus, aunque no lo sean, el pueblo parece complacerse en lo contrario, y da a su traje y a su canto y a su vocablo pátina de milenio y resonancias inmemorables.
 

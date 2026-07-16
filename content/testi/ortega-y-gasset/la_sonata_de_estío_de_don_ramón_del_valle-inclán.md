@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_sonata_de_estío_de_don_ramón_del_valle-inclán" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La Sonata de estío, de Don Ramón del Valle-Inclán" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La Sonata de estío, de Don Ramón del Valle-Inclán" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hay hombres que trascienden a épocas antiguas. De algunos podría precisarse el momento en que debieran haber nacido y decirse que son hombres Luis XV, que son hombres Imperio, que son hombres «antiguo régimen». Taine muestra a Napoleón como un hombre de Plutarco. Don Juan Valera es del siglo XVIII; tiene la fría malignidad de los enciclopedistas y su noble manera de decir. Son espíritus que parecen forjados en otras edades, almas que retrotraen al tiempo muerto y le hacen vivir de nuevo a nuestros ojos mejor que una historia. Tienen estos hombres de milagro el encanto de las cosas pasadas y el atractivo de una preciosa falsificación. Don Ramón del Valle-Inclán es un hombre «Renacimiento». La lectura de sus libros hace pensar en aquellos nombres y en aquellos grandes días de la historia humana.
 
@@ -48,7 +48,7 @@ Parece que existieron épocas de decadencia en que un pueblo heredero de cultura
 
 Parece que en el siglo XIX se inspiraban las obras de nuestros autores, más que en un arte sincero, espontáneo, en pragmáticas oratorias y en hábiles perspectivas de escenógrafo. Como la creación bella no era ya una necesidad expansiva, un lujo de fuerzas, un exceso de [idealismo](/positions/idealism), de fortaleza espiritual, sino un oficio, un medio de vida reconocido, estudiado, socialmente estatuido, se comenzó a escribir para ganar lectores.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Cambiado el fin de la elaboración literaria, cambió el origen, y viceversa. Se escribía para ganar; se ganaba, es natural, tanto más cuanto mayor número de ciudadanos leyera lo escrito. El compositor lograba esto halagando a la mayoría de los hombres, «sirviéndoles un ideal», que diría Unamuno, deseado por ellos, mas previamente creado por el público. Y ello servido fácilmente, popularmente. Ya no hubo quien adornara sus puños de encajes, como cuentan que hacía para escribir Buffon. El gran estilo había muerto. ¿Quién iba a detenerse en reflexionar un cuarto de hora sobre la colocación de un adjetivo a la zaga de un sustantivo? Flaubert y Stendhal: un hombre rico y aficionado, y un desdeñoso, de pluma inactual.
 
@@ -84,7 +84,7 @@ No hay ningún ser vulgar en estas novelas y en estos cuentos; todos son atroces
 
 Lo pintoresco: he ahí la fuerza principal de las páginas que glosamos. Valle-Inclán corre desalado a la caza de lo pintoresco en sus composiciones. Es el eje de su producción: me dicen que también lo es de su vida, y yo lo creo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Para poder atrapar esa postura graciosa y amena de las cosas y de las personas hace falta haber vivido bastante, haber huroneado en muchos rincones y —¿quién sabe?— tal vez haber tenido poco amor al hogar y haber dado muchos bandazos por esos curiosísimos mundos. Yo pienso en ocasiones por qué [causa](/concepts/cause) lo pintoresco estará desterrado de la literatura diplomática. Pienso esto cuando leo los libros fríos y correctos de algunos escritores nuevos del Ministerio de Estado que alienta y ampara el alma de don Juan Valera, ese Dios-Pan sonriente y ciego que perdura en el yermo jardín de nuestras bellas letras como la estatua blanca y rota de una deidad gentílica.
 

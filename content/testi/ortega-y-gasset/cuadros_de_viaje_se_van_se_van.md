@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/cuadros_de_viaje_se_van_se_van" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Cuadros de viaje.— ¡Se van, se van!" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Cuadros de viaje.— ¡Se van, se van!" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Debe haber en mi corazón algo así como una nao con las velas rotas y los obenques segados, porque de otro modo no acierto a explicarme la atracción que sobre mí ejercen los puertos. Sentado en uno de estos norays de hierro donde se amarran los vapores y que llevan impresa en relieve la marca de fábrica, yo me estaría unos cuantos siglos, como dicen que oyendo a un jilguero se estuvo cierto santo eremita. Y más que en ningunos otros, hallo complacencia en estos puertos españoles, que son todos un poco tristes, porque son todos un mucho pobres.
 
@@ -62,7 +62,7 @@ El hombre del chapeo pardo es un castellano que habla con una rara inteligencia 
 
 —Las canteras están cerradas, muchas fábricas lo mismo. Las minas apretadas de obreros.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 —¡No hay donde dar una peoná!
 

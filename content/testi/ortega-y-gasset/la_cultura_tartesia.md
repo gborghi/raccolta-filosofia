@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_cultura_tartesia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La cultura tartesia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La cultura tartesia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Se comprende que de todas las ampliaciones experimentadas por nuestro horizonte es ésta, producida en la dimensión de profundidad, la más inquietante y sugestiva. En ella todo es posible. Por eso hay arqueólogos y etnógrafos que se dedican a buscar la Atlántida, no en el sentido genérico a que antes me refiero, sino en el más concreto e individual: la Atlántida de que hablaron Platón y Teopompo como de una deleitable quimera.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_formas_de_gobierno" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las formas de gobierno" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Las formas de gobierno" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Esto nos lleva a una de las cuestiones más graves del momento, sobre la que es forzoso tomar una postura digna, seria, evidente, inequívoca; la cuestión de las formas de gobierno.
 
@@ -60,7 +60,7 @@ Hay un momento famoso, en el año de 1878, en que Cánovas, habiendo oprimido or
 
 …El cual era el partido liberal de la Restauración.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sin embargo, no creáis que esto ha pasado por completo. Si no en fórmula tan extrema ni tan solemne, yo tengo aquí unas palabras del señor Maura en 1907, donde viene a decirse lo mismo: «Así como una mujer, para elevar sus plegarias a la Virgen, necesita de una imagen para formarse una idea de ella, así la idea de la Patria no está concebida sin el Rey».
 

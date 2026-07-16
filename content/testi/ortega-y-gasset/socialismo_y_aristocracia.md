@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/socialismo_y_aristocracia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Socialismo y aristocracia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Socialismo y aristocracia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 He aquí una manera de mirar el [Socialismo](/schools/historical_materialism_school) muy adecuada para servir de tema a la meditación en este día de mayo, consagrado por los obreros de todas las tierras a la afirmación de su clase como poder creador de nueva historia. En brevísimas palabras, y expuesto con toda llaneza, he aquí lo que pienso:
 

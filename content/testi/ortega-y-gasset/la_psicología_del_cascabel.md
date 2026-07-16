@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_psicología_del_cascabel" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La psicología del cascabel" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La psicología del cascabel" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La incomprensión de la vida infantil que solemos padecer procede de que juzgamos los actos de los niños suponiendo a éstos sumergidos en el mismo medio que nosotros. Partimos de nuestro mundo como de algo definitivo; y en vista de que el niño se mueve torpemente por este paisaje nuestro, consideramos la infancia como una etapa enfermiza, defectuosa, que la vida humana atraviesa para llegar a la madurez.
 

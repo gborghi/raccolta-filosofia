@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/maura" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Maura" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Maura" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hay un hombre en la política española que se diferencia de estos partidos, y frente al cual no hay otro remedio sino reconocer que lleva tras él una realidad. Es el señor Maura. Pero esta realidad que está tras él es, señores, la más terrible de España, es el peso inerte que lleva España desde hace siglos; es lo que ha ido quedando sobre el organismo de la raza de resultas de sus fracasos y de sus dolores; es toda esa parte inculta, apegada a las palabras más viejas, a las emociones más extremas; es todo ese trozo de la raza que yo llamaría el trozo histérico de España. Pero es una realidad; eso está ahí y con el señor Maura, y es lástima que no podamos decir que estando detrás de él una realidad es él una realidad.
 

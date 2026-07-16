@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/conclusión" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Conclusión" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Conclusión" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Isis miriónima, Isis la de diez mil nombres, llamaban los egipcios a su diosa. Toda realidad en cierto modo lo es. Sus componentes, sus facciones son innumerables. ¿No es audaz, con unas cuantas denominaciones, querer definir una cosa, la más humilde? Fuera ilustre casualidad que las notas subrayadas por nosotros entre infinitas resultasen ser, en efecto, las decisivas. La improbabilidad aumenta cuando se trata de una realidad naciente que inicia su trayectoria en los espacios.
 

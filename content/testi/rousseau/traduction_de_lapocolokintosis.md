@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/traduction_de_lapocolokintosis" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="TRADUCTION DE L’APOCOLOKINTOSIS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="TRADUCTION DE L’APOCOLOKINTOSIS" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Hercule, en parlant de la sorte, affectait plus d'intrépidité qu'il n'en avait dans l’âme, et ne laissait pas de craindre la main d'un fou. Mais Claude, lui voyant l'air d'un homme résolu qui n'entendait pas raillerie, jugea qu'il n'était pas là comme à Rome, où nul n'osait s'égaler à lui, et que partout le coq est maître sur son fumier. Il se remit donc à grogner ; et, autant qu'on put l'entendre, il sembla parler ainsi :
 
@@ -44,7 +44,7 @@ Cet avis fut suivi tout d'une voix. À l'instant le Cyllénien[23], lui tordant 
 
 D'où nul, dit-on, ne retourna jamais.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 En descendant par la voie sacrée, ils trouvent un grand concours dont Mercure demande la cause. Parions, dit-il, que c'est sa pompe funèbre : et en effet, la beauté du convoi, où l'argent n'avait pas été épargné, annonçait bien l'enterrement d'un dieu. Le bruit des trompettes, des cors, des instruments de toute espèce, et surtout de la foule, était si grand, que Claude lui-même pouvait l'entendre. Tout le monde était dans l'allégresse ; le peuple romain marchait légèrement comme ayant secoué ses fers. Agathon et quelques chicaneurs pleuraient tout bas dans le fond du cœur. Les jurisconsultes, maigres, exténués[24], commençaient à respirer, et semblaient sortir du tombeau. Un d'entre eux, voyant les avocats la tête basse déplorer leur perte, leur dit en s'approchant : Ne vous le disais-je pas, que les saturnales ne dureraient pas toujours ?
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_ciencia_romántica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La ciencia romántica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La ciencia romántica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Somos desatentos para nuestro prójimo porque nuestro prójimo hace zapatos y nosotros tejemos esteras. Como para los egipcios primeros el mundo terminaba en el valle del Nilo, solemos encerrar el mundo en nuestro gremio: no hay que salir de él. Estereros somos y sólo nos importan los hombres estereros, sin que cuidemos para nada de mirar a nuestro vecino el zapatero, cuyos zapatos han de pisar nuestras esteras. Un libro nuevo que aparece fue escrito para unos cuantos aficionados a la ciencia o al arte de que se ocupa. Y si esa ciencia y ese arte, por su dificultad o su novedad o su alejamiento de las preocupaciones políticas momentáneas, tiene pocos aficionados, el libro y la labor de hombre en él condensada desaparecen por los siglos de los siglos, y aquella fuerza de fecundación que a lo mejor poseía queda seca y estéril como la higuera del Evangelio. El literato no es otra cosa que el encargado en la república de despertar la atención de los desatentos, hostigar la modorra de la conciencia popular con palabras agudas e imágenes tomadas a ese mismo pueblo para que ninguna simiente quede sana. Pero el literato tiene también su gremio y dentro de él su universo, y por eso no habla casi nunca de los hombres de ciencia, para quienes a su vez los literatos no existen sino vagamente. De esta suerte está salpicada y esparcida el alma española en sinnúmero de círculos discretos y es la vida española un montón de avemarías desglosadas que jamás se enhilan en rosario.
 
@@ -48,7 +48,7 @@ Todos debemos suspirar porque andando el tiempo den los espíritus españoles un
 
 Menéndez Pelayo, cuando juvenil y hazañero, rompió aquellas famosas lanzas en pro de la ciencia española; antes de su libro entreveíase ya que en España no había habido ciencia; luego de publicado se vio paladinamente que jamás la había habido. Ciencia, no; hombres de ciencia, sí. Y esto quisiera hacer notar. Nuestra raza extrema, nuestro clima extremo, nuestras almas extremosas no son las llamadas a dejar sobre la historia el recuerdo de una forma de vida continua y razonable.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Como hemos hecho historia a la manera que un terremoto, hemos hecho y haremos todo lo demás. «No mañanamos, no mañanamos», se complacía en repetir Navarro Ledesma. Y ¿queremos tener ciencia disciplinada? Al tiempo que supone ésta una continuidad en el esfuerzo, la ciencia y los sabios españoles son monolíticos, como sus pintores y sus poetas: seres de una pieza que nacen sin precursores, por generación espontánea, de las madres bravas, aunque bastante cenagosas de nuestra raza, y mueren muerte de su cuerpo y de su obra, sin dejar discípulos. Al contrario de Alemania, nuestra ciencia ha vivido sólo en los entresijos de los que la crearon y se la han comido los gusanos también. Es en nosotros la ciencia un hecho personalísimo y no una acción social, o como quiera decirse, lo que se ha llamado sinergia.
 

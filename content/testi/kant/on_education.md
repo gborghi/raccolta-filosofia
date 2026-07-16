@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/kant/on_education" data-philosopher="Kant"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ON EDUCATION" data-chapter="INTRODUCTION" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="ON EDUCATION" data-chapter="INTRODUCTION" data-kind="intro" data-srclang="en"></span>
 
 Nearly a century after its original publication in Germany Immanuel Kant über Pädagogik is now for the first time presented to English readers in the translation made by Miss Annette Churton. The little work, as is well known, was not compiled for publication by the master himself. In the last years of his long life he handed over to his younger friend and former pupil, Theodor Rink, the notes he had written for his professorial courses on Physical Geography and on Pædagogics, and commissioned the latter to select and compile from the loose leaflets as much as he thought might prove serviceable to the reading public. Rink set to work and brought out the notes on [education](/concepts/education) in 1803, the year before Kant’s death. The lectures, it seems, were not intended, nor à fortiori the notes, to give an exhaustive theory of education, nor do they present any well-formulated body of philosophical doctrine based on either metaphysical or psychological or sociological data. Kant’s chair at Königsberg University was that of logic and metaphysic, but his lecturing work — both as professor and, before that, as Privat-docent — included a number of subsidiary subjects. During the last quarter of the eighteenth century pædagogics was included as a subject of instruction in the university, certain professors taking it in turn to deliver a course of lectures thereon. When the course fell to Kant he conformed, as was his wont, to the not unusual [custom](/concepts/custom) of taking a standard text-book on his theme — in this connection it was that of his colleague, Prof. Bock, Ueber die Erziehungskunst (Königsberg, 1780) — as a nominal guide to procedure. But he did not allow the exposition of the book to hamper him in the original and constructive treatment of his subject. There is, indeed, no very apparent trace of Bock in these notes. The text-book, being in his hand and accessible to his hearers, probably required no memoranda for exposition and criticism of it. Whether he expounded and criticised or not, the legacy transmitted through his pupil to posterity consists simply of a number of independent reflections, of criticisms not relating to Bock, of series of apophthegms, suggestive points, aperçus, with here and there digression and repetition. Above all we feel that, according to his usual [method](/axes/method), the master is addressing the average youth among his listeners. The toughest things of the Critiques are not drawn upon, nor is there any terminological paraphernalia to deter the listener. The Kantian ethic is there, right enough, but the teacher is feeling out after a theory of education. He is deeply interested in his theme, but his attitude towards it is inductive and experimental. He realised its importance and the magnitude of its issues, but also the imperfect and provisional nature of existing conclusions on the subject. There was his nine years’ experience as a private tutor to correct any rash theorising — he used to say he had never been able to apply his own precepts in any specific case among his pupils! And his long academic career must have afforded him very varied insight into the nature of youthful development.
 
@@ -28,7 +28,7 @@ But it was above all the time and the man that left the thoughtful minds of the 
 
 Such and much more was in the air when these lecture-notes were written. And its Conjunktur had brought forth the man. Comenius and Locke, over and under a century earlier, had been fashioning him. And now Voltaire had gone to Locke comme l’enfant prodigue qui retourne chez son père, and had brought that father home to the adopted land of Rousseau. Émile saw the light in 1762, and the effect of its absorbing fascination on Kant when he opened the book is an old story. The next two decades witnessed the ideas therein put forth taking root and germinating in Kant’s native land. Educational innovations were tried; educational reformers were maturing. The Philanthropist schools were founded in Germany in and after 1774, Kant taking a lively interest in the parent Philanthropin at Dessau. Bahrdt, Basedow, Campe, were avowed Rousseauists. Pestalozzi was preparing his aphorisms. Oberlin, Herder, Lessing, were in their prime; Olivier yet a youth. Herbart was in the nursery; [Fichte](/schools/german_idealism) and Froebel in the cradle.
 
-<span class="atom-split" data-atom="002" data-title="INTRODUCTION (2/3)" data-chapter="INTRODUCTION" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="INTRODUCTION (2/3)" data-chapter="INTRODUCTION" data-kind="atom" data-srclang="en"></span>
 
 If these slight suggestions be worked out, the reader of these Thoughts on [Education](/concepts/education) will get a more lifelike background to them than if he held in his hand the defunct text-book on which Kant embroidered his lectures. Rousseau far more than Bock — the pioneer and not the pedant — is the real inspirer, I do not say of Kant’s underlying principles, but of so much in these notes as indicates an inductive search for a fresh theory of education. This is patent throughout. Bock, as I have said, is never quoted. Apparently his colleague’s views did not get woven up into the tissue of Kant’s theorising. Rousseau, on the other hand, appears throughout, explicit and implicit, though the tender insight of the father is replaced by the relatively rigid and crude standpoints of one who had never gone in and out among infants of his own. It is Rousseau’s Baby who sits enthroned in the Chair of Logic and Metaphysics of the elderly bachelor philosopher, and hears curious things said respecting his temperature, a Spartan treatment prescribed for his many tears, an impossible reasonableness in expressing his wants required of him, but a glorious freedom in dress and limb declared essential to his happiness. It is Rousseau’s Child for whom Kant claims that he be brought up independent of the stunting assistance of tools and apparatus generally; that his nature, devoid of original perversity, but depending for its moral growth on right nurture, be drawn out, not repressed — be allowed the play of regulated freedom and not moulded into an automaton of habits, nor be worried by arguments appealing to faculties yet undeveloped. We do not catch distinctly in Kant’s teaching the real Leitmotif of Émile, viz. education not by precepts but by ‘things’ — in other words by the laws of Nature. What, again, we find in Kant and not in the Émile I will outline presently. But through both works, while the ideals of liberty and equality are held up as supremely worthy, both the Stoic Prussian and the sympathetic Genevan submerge that of fraternity in the concept of the free Weltbürger, jealous of his own liberty so it encroach not on that of others, jealous for the dignity of humanity in himself and others. To the ideal of liberty Kant attained by a road peculiar to his own philosophy. As to that of equality, by his own admission it was Rousseau — l’ami de l’égalité — who had dragged him from his exclusive and aristocratic standpoint, and had made him sensible of the claims of all men on him in virtue of the common humanity in all. At times, offended by Rousseau’s extreme and paradoxical conclusions couched in a style of great charm, Kant accused him, just as Rousseau himself had accused many old and newer philosophers, of attempting to trick out well-worn doctrines in new forms. Yet the profound impression made by Rousseau remained, and so too does Kant’s confession remain, that never before were sagacity of mind, loftiness of genius, and sensitiveness of soul so combined as in this man.
 
@@ -44,13 +44,13 @@ That the ultimate ideal of education is nothing less than the perfection of [hum
 
 It is worth while noticing that both Kant and Rousseau, at least implicitly, teach that the proximate ideal best conducing towards that ultimate end is not citizenship, nor fraternity, but fatherhood. For Kant the boy’s training culminates and ceases when he is old enough to have children of his own. And there is nothing wanting in the emphasis laid on the mission of the father in the Émile. What, truly, would be left of most of our painful social problems were all parents always at their best and wisest in intercourse with their children? And who shall say whether we may not come to see [progress](/positions/progress) in concentrating the goal of boyhood in proportion as we expand that of girlhood?
 
-<span class="atom-split" data-atom="003" data-title="INTRODUCTION (3/3)" data-chapter="INTRODUCTION" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="INTRODUCTION (3/3)" data-chapter="INTRODUCTION" data-kind="atom" data-srclang="en"></span>
 
 Finally, as to those who should educate the fathers of the coming generation, Kant has left a word pregnant with the future far more than he himself was aware, and going far beyond the educational range of the time. ‘The whole race’ — not a group of cities here and there, or an epoch now and then— ‘the whole race must educate the individual.’ Though, as he has said, it be chiefly through the agency of ‘those who know,’ it is all humanity, past and present, that must minister to the development of the child, by whom in his or her turn, when rightly trained, the whole race, both present and future and past, is served.
 
 Our modern pædagogics will in no wise suffer from keeping in view Kant’s wide and high prospect. And for the general English reader, in whose eyes Kant still counts, most inaccurately, as a mainly speculative thinker, it should prove a benefit to come to know, through Miss Churton’s translation, some of the less known workings of a mind whose influence on modern philosophic and scientific thought has scarcely been surpassed.
 
-<span class="atom-split" data-atom="005" data-title="CHAPTER I: INTRODUCTION (1/3)" data-chapter="CHAPTER I: INTRODUCTION" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="CHAPTER I: INTRODUCTION (1/3)" data-chapter="CHAPTER I: INTRODUCTION" data-kind="atom" data-srclang="en"></span>
 
 [Education](/concepts/education) includes nurture, discipline, instruction, and moral training
 
@@ -100,7 +100,7 @@ The theory of education is a glorious ideal; none the less worthy of our aim bec
 
 8. The prospect of a theory of education is a glorious ideal, and it matters little if we are not able to realise it at once. Only we must not look upon the idea as chimerical, nor decry it as a beautiful dream, notwithstanding the difficulties that stand in the way of its realisation.
 
-<span class="atom-split" data-atom="006" data-title="CHAPTER I: INTRODUCTION (2/3)" data-chapter="CHAPTER I: INTRODUCTION" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="CHAPTER I: INTRODUCTION (2/3)" data-chapter="CHAPTER I: INTRODUCTION" data-kind="atom" data-srclang="en"></span>
 
 An idea is nothing else than the conception of a perfection which has not yet been experienced. For instance, the idea of a perfect republic governed by principles of justice — is such an idea impossible, because it has not yet been experienced?
 
@@ -138,7 +138,7 @@ The origin and the carrying out of the art of education must not be merely mecha
 
 16. Here, however, we are met by two difficulties — (a) parents usually only care that their children make their way in the world, and (b) Sovereigns look upon their subjects merely as tools for their own purposes.
 
-<span class="atom-split" data-atom="007" data-title="CHAPTER I: INTRODUCTION (3/3)" data-chapter="CHAPTER I: INTRODUCTION" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="CHAPTER I: INTRODUCTION (3/3)" data-chapter="CHAPTER I: INTRODUCTION" data-kind="atom" data-srclang="en"></span>
 
 Parents care for the home, rulers for [the state](/concepts/state). Neither have as their aim the universal good and the perfection to which man is destined, and for which he has also a natural disposition. But the basis of a scheme of [education](/concepts/education) must be cosmopolitan. And is, then, the idea of the universal good harmful to us as individuals?The basis of education should be cosmopolitan Never! for though it may appear that something must be sacrificed by this idea, an advance is also made towards what is the best even for the individual under his present conditions. And then what glorious consequences follow! It is through good education that all the good in the world arises. For this the germs which lie hidden in man need only to be more and more developed; for the rudiments of evil are not to be found in the natural disposition of man. Evil is only the result of nature not being brought under control. In man there are only germs of good.
 
@@ -154,7 +154,7 @@ The management of schools ought, then, to depend entirely upon the judgment of t
 
 Education includes (1) Discipline (2) Culture (3) Discretion (4) Moral training
 
-<span class="atom-split" data-atom="008" data-title="18. Through education, then, man must be made — (1/2)" data-chapter="18. Through education, then, man must be made —" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="18. Through education, then, man must be made — (1/2)" data-chapter="18. Through education, then, man must be made —" data-kind="atom" data-srclang="en"></span>
 
 First, subject to discipline; by which we must understand that influence which is always restraining our animal nature from getting the better of our manhood, either in the individual as such, or in man as a member of society. Discipline, then, is merely restraining unruliness.
 
@@ -204,7 +204,7 @@ Home education and its chief difficulty
 
 Public education is, on the whole, the best
 
-<span class="atom-split" data-atom="009" data-title="18. Through education, then, man must be made — (2/2)" data-chapter="18. Through education, then, man must be made —" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="18. Through education, then, man must be made — (2/2)" data-chapter="18. Through education, then, man must be made —" data-kind="atom" data-srclang="en"></span>
 
 25. How far, then, has home [education](/concepts/education) an advantage over public education, or vice versâ? Regarded not only from the point of view of developing ability, but also as a preparation for the duties of a citizen, it must, I am inclined to think, be allowed that, on the whole, public education is the best. Home education frequently not only fosters family failings, but tends to continue these failings in the new generation.
 
@@ -226,7 +226,7 @@ In the development of moral constraint it is necessary to unite submission with 
 
 The child should be allowed perfect liberty, while at the same time he must be taught to respect the liberty of others, and submit himself to a restraint which will lead to a right use of future liberty
 
-<span class="atom-split" data-atom="010" data-title="30. Here we must observe the following: —" data-chapter="30. Here we must observe the following: —" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="30. Here we must observe the following: —" data-chapter="30. Here we must observe the following: —" data-kind="atom" data-srclang="en"></span>
 
 First, we must allow the child from his earliest childhood perfect liberty in every respect (except on those occasions when he might hurt himself — as, for instance, when he clutches at a knife), provided that in acting so he does not interfere with the liberty of others. For instance, as soon as he screams or is too boisterously happy, he annoys others.
 
@@ -246,7 +246,7 @@ Education may be divided into physical and ‘practical’
 
 (1) Instruction makes man valuable as an individual (for himself) (2) Practical education makes him valuable as a citizen (for [the state](/concepts/state) and society) (3) Moral training makes him valuable as a human being (for mankind)
 
-<span class="atom-split" data-atom="011" data-title="32. This ‘practical’ education consists, then, of three parts: —" data-chapter="32. This ‘practical’ education consists, then, of three parts: —" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="32. This ‘practical’ education consists, then, of three parts: —" data-chapter="32. This ‘practical’ education consists, then, of three parts: —" data-kind="atom" data-srclang="en"></span>
 
 (a) The ordinary curriculum of the school, where the child’s general ability is developed — the work of the schoolmaster.
 
@@ -266,7 +266,7 @@ School-teaching is the earliest, moral training the last, in order of time
 
 Moral training, in as far as it is based upon fundamental principles which a man must himself comprehend, comes last in order of time. In so far, however, as it is based on common sense merely, it must be taken into account from the beginning, at the same time with physical training; for if moral training be omitted, many faults will take root in the child, against which all influences of education at a later stage will be powerless. As to ability and the general knowledge of life, everything must depend entirely upon the age of the pupil. Let a child be clever after the manner of children; let him be shrewd and good-natured in a childish way, but not cunning (listig) like a man. The latter is as unsuitable for a child as a childish mind is for a grown-up person.
 
-<span class="atom-split" data-atom="012" data-title="CHAPTER II: PHYSICAL EDUCATION (1/4)" data-chapter="CHAPTER II: PHYSICAL EDUCATION" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="CHAPTER II: PHYSICAL EDUCATION (1/4)" data-chapter="CHAPTER II: PHYSICAL EDUCATION" data-kind="atom" data-srclang="en"></span>
 
 The private tutor, as the confidant of the parents, should know something of the physical training of children
 
@@ -304,7 +304,7 @@ The custom of swathing children is useless and even harmful
 
 It is simply for the sake of our own convenience that we swathe our children like mummies, so that we may not have the trouble of watching them in order to prevent their limbs from getting broken or bent. And yet it often happens that they do get bent, just by swathing them. Also it makes the children themselves uneasy, and they are almost driven to despair on account of their never being able to use their limbs. And then people imagine that by calling to the child they stop its crying. But suppose a grown man were to be subjected to the same treatment, and we shall soon see whether he, too, would not cry and fall into uneasiness and despair.
 
-<span class="atom-split" data-atom="013" data-title="CHAPTER II: PHYSICAL EDUCATION (2/4)" data-chapter="CHAPTER II: PHYSICAL EDUCATION" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="CHAPTER II: PHYSICAL EDUCATION (2/4)" data-chapter="CHAPTER II: PHYSICAL EDUCATION" data-kind="atom" data-srclang="en"></span>
 
 In general we must bear in mind that early [education](/concepts/education) is only negative — that is, we have not to add anything to the provision of Nature, but merely to see that such provision is duly carried out. If any addition to this is necessary on our part, it must be the process of hardening the child. For this reason, also, we must give up the [habit](/concepts/custom) of swathing our children. If, however, we want to use some kind of caution, the most suitable arrangement would be a kind of box covered with leather straps, such as the Italians use and call arcuccio. The child is never taken out of this box, even when nursed by its mother. This protects the child from the [chance](/concepts/fortune) of being smothered when sleeping with its mother at night, while with us many children lose their lives in this way. This arrangement is better than swathing the child, since it allows greater freedom for the limbs, while at the same time it serves as a protection against anything that might hurt or bend its body.
 
@@ -338,7 +338,7 @@ An enervating influence is as much to be avoided as an over-hardenin process
 
 Regular times should be observed for eating and drinking
 
-<span class="atom-split" data-atom="014" data-title="CHAPTER II: PHYSICAL EDUCATION (3/4)" data-chapter="CHAPTER II: PHYSICAL EDUCATION" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="CHAPTER II: PHYSICAL EDUCATION (3/4)" data-chapter="CHAPTER II: PHYSICAL EDUCATION" data-kind="atom" data-srclang="en"></span>
 
 45. Many parents want to get their children used to anything and everything. But this is no good. For [human nature](/axes/human_nature) in general, as well as the nature of certain individuals in particular, will not allow of such training, and consequently many children remain apprentices all their lives. Some parents, for instance, would have their children go to sleep, get up, and have their meals whenever they please; but in order that they may do this with impunity, they must follow a special diet, a diet which will strengthen the body, and repair the evil which this irregularity causes. We find, indeed, many instances of periodicity in Nature also. Animals have their appointed time to sleep, and man should accustom himself to a certain time, that the functions of the body be not disturbed. As to the other matter, that children ought to eat at any hour, we cannot well adduce here the case of the animal as an example; as, for instance, all grass-eating animals get but little nourishment each time they eat, therefore grazing is necessarily a constant occupation with them. It is, however, very important for man always to eat at regular hours. Many parents try to accustom their children to endure great cold, bad smells, and noises; this, however, is quite unnecessary, the only thing needful being to prevent them from forming habits. And for this it is best that they shall not always be subject to the same conditions.
 
@@ -370,7 +370,7 @@ Working-class parents are specially wont to spoil their children in this way, ca
 
 51. It may be said with truth that the children of the working classes are more spoilt than the children of those of higher rank, for the working classes play with their children like monkeys, singing to them, caressing, kissing, and dancing with them. They think indeed they are doing a kindness to their child in always running to him when he cries, and playing with him, &c.; but he only cries the oftener. If, on the other hand, no notice is taken of the child’s crying, he will leave off at last — for no one cares to continue a fruitless task. Once a child has become accustomed to having all his whims gratified, it is afterwards too late to begin to cross his will. On the other hand, if you do not mind the child’s crying, he will soon get tired of it. But should his fancies always be gratified, both his character and his manners will be spoilt.
 
-<span class="atom-split" data-atom="015" data-title="CHAPTER II: PHYSICAL EDUCATION (4/4)" data-chapter="CHAPTER II: PHYSICAL EDUCATION" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="CHAPTER II: PHYSICAL EDUCATION (4/4)" data-chapter="CHAPTER II: PHYSICAL EDUCATION" data-kind="atom" data-srclang="en"></span>
 
 The child has as yet, indeed, no idea of manners, but it goes far towards spoiling his natural disposition, so that afterwards sharp measures are necessary to undo the evil caused by early indulgence. When attempts are made later on to break off the [habit](/concepts/custom) of giving way to all the child’s wishes, his crying is then accompanied by a rage as fierce as any of which grown-up people are capable, only that he has not the physical strength to exercise it. This is but what we must expect, for children who have been for so long accustomed merely to cry to get what they want, become veritable despots, and are naturally aggrieved when their rule comes suddenly to an end; for even grown-up people who have been for some time in a high position find it very difficult if they are suddenly called upon to abdicate.
 
@@ -402,7 +402,7 @@ Many fears are due to false impressions
 
 57. All this we may consider as negative training, for many weaknesses of mankind proceed not so much from lack of teaching as from false impressions. For instance, fear of spiders and toads, &c., is suggested to children by their nurses. A child would probably pick up a spider as readily as anything else, were it not that the nurse’s horror at the sight of spiders has affected the child by a sort of [sympathy](/positions/moral_sentiment). Many children retain this fear all their lives, and in this matter always remain childish; for spiders, though dangerous to flies, for whom their bite is poisonous, are harmless to men. In the same way the toad is as harmless as the beautiful green frog or any other animal.
 
-<span class="atom-split" data-atom="016" data-title="CHAPTER III: INSTRUCTION (CULTURE) (1/2)" data-chapter="CHAPTER III: INSTRUCTION (CULTURE)" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="CHAPTER III: INSTRUCTION (CULTURE) (1/2)" data-chapter="CHAPTER III: INSTRUCTION (CULTURE)" data-kind="atom" data-srclang="en"></span>
 
 In physical training artificial aids should, as far as possible, be dispensed with
 
@@ -444,11 +444,11 @@ On social training
 
 Discipline must precede instruction. Here, however, in training the bodies of children we must also take care to fit them for society. Rousseau says: ‘You will never get an able man, unless you have a street urchin first.’ A lively boy will sooner become a good man than a conceited and priggish lad.
 
-<span class="atom-split" data-atom="017" data-title="CHAPTER III: INSTRUCTION (CULTURE) (2/2)" data-chapter="CHAPTER III: INSTRUCTION (CULTURE)" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="CHAPTER III: INSTRUCTION (CULTURE) (2/2)" data-chapter="CHAPTER III: INSTRUCTION (CULTURE)" data-kind="atom" data-srclang="en"></span>
 
 A child must learn to be neither troublesome nor insinuating in company. He must be confident at the invitation of others without being obtrusive, and frank without being impertinent. As a means to this end all we have to do is not to spoil the child’s nature, either by giving him such ideas of good behaviour as will only serve to make him timid and shy, or, on the other hand, by suggesting to him a wish to assert himself. Nothing is more ridiculous than precocious good behaviour and priggish self-conceit in a child. In this last instance we must let the child see his weakness all the more, but at the same time we must not overpower him with a sense of our own superiority and power; so that, though the child may develop his own individuality, he should do so only as a member of society — in a world which must, it is true, be large enough for him, but also for others. Toby in ‘Tristram Shandy’ says to a fly which has been annoying him for some time, and which he at last puts out of the window, ‘Go away, tiresome creature; the world is large enough for us both.’ We may each of us take these words for our motto. We need not be troublesome to one another; the world is large enough for all of us.
 
-<span class="atom-split" data-atom="018" data-title="CHAPTER IV: CULTIVATION OF THE MIND (1/3)" data-chapter="CHAPTER IV: CULTIVATION OF THE MIND" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="CHAPTER IV: CULTIVATION OF THE MIND (1/3)" data-chapter="CHAPTER IV: CULTIVATION OF THE MIND" data-kind="atom" data-srclang="en"></span>
 
 Mental culture may also in a certain sense be called physical, so far as it is distinguished from ‘practical’
 
@@ -484,7 +484,7 @@ The inferior faculties have no value in themselves; for instance, a man who has 
 
 The memory should be carefully trained to retain such things as are important
 
-<span class="atom-split" data-atom="019" data-title="CHAPTER IV: CULTIVATION OF THE MIND (2/3)" data-chapter="CHAPTER IV: CULTIVATION OF THE MIND" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="CHAPTER IV: CULTIVATION OF THE MIND (2/3)" data-chapter="CHAPTER IV: CULTIVATION OF THE MIND" data-kind="atom" data-srclang="en"></span>
 
 69. The maxim Tantum scimus, quantum memoria tenemus is quite true — hence it is very necessary to cultivate the memory. Things are so constituted that the understanding first follows the mental impression, and the memory must preserve this impression. So it is, for instance, in languages. We learn them either by the formal [method](/axes/method) of committing them to memory or by conversation — this last being the best method for modern languages. The learning of words is really necessary, but the best plan is for the youth to learn words as he comes across them in the author he is reading. The youth should have a certain set task. In the same way geography is best learnt mechanically. What is learnt in a mechanical way is best retained by the memory, and in a great many cases this way is indeed very useful. The proper mechanism for the study of history has yet to be found. An attempt has been made in this direction consisting of a system of tables, but the result has not been very satisfactory. History, however, is an excellent means of exercising the understanding in judging rightly. Learning by heart is very necessary, but doing it merely for the sake of exercising the memory is of no use educationally — for instance, the learning of a speech by heart. At all events, it only serves to encourage forwardness. Besides this, declamation is only proper for grown-up men. The same may be said of all those things which we learn merely for some future examination or with a view to futuram oblivionem. The memory should only be occupied with such things as are important to be retained, and which will be of service to us in real life.Novel-reading is bad for children Novel-reading is the worst thing for children, since they can make no further use of it, and it merely affords them entertainment for the moment. Novel-reading weakens the memory. For it would be ridiculous to remember novels in order to relate them to others. Therefore all novels should be taken away from children. Whilst reading them they weave, as it were, an inner romance of their own, rearranging the circumstances for themselves; their fancy is thus imprisoned, but there is no exercise of thought.
 
@@ -528,7 +528,7 @@ The cultivation of particular mental faculties includes, first, the inferior fac
 
 Of the cultivation of the senses — eyesight, for instance — we have already spoken. As to the cultivation of the imagination, the following is to be noticed: — Children generally have a very lively imagination, which does not need to be expanded or made more intense by the reading of fairy tales. It needs rather to be curbed and brought under rule, but at the same time should not be left quite unoccupied. There is something in maps which attracts everybody, even the smallest children. When they are tired of everything else, they will still learn something by means of maps. And this is a good amusement for children, for here their imagination is not allowed to rove, since it must, as it were, confine itself to certain figures. We might really begin with geography in teaching children. Figures of animals, plants, and so on, might be added at the same time; these will make the study of geography more lively. History, however, would probably have to come later on.
 
-<span class="atom-split" data-atom="020" data-title="CHAPTER IV: CULTIVATION OF THE MIND (3/3)" data-chapter="CHAPTER IV: CULTIVATION OF THE MIND" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="CHAPTER IV: CULTIVATION OF THE MIND (3/3)" data-chapter="CHAPTER IV: CULTIVATION OF THE MIND" data-kind="atom" data-srclang="en"></span>
 
 With regard to the power of attention, we may remark that this faculty needs general strengthening. The power of rigidly fixing our thoughts upon one object is not so much a talent as a weakness of our mind, which in this case is inflexible, and does not allow itself to be applied at pleasure. But distraction is the enemy of all [education](/concepts/education). Memory depends upon our attention.
 
@@ -548,7 +548,7 @@ In the culture of reason the Socratic [method](/axes/method) is the best
 
 76. In the culture of reason we must proceed according to the Socratic method. [Socrates](/figures/socrates), who called himself the midwife of his hearers’ knowledge, gives examples in his dialogues, which Plato has in a manner preserved for us, of the way in which, even in the case of grown-up people, ideas may be drawn forth from their own individual reason. In many respects children need not exercise their reason. They must not be allowed to argue about everything. It is not necessary for them to know the principles of everything connected with their education; but when the question of duty arises, they should be made to understand those principles. But on the whole we should try to draw out their own ideas, founded on reason, rather than to introduce such ideas into their minds. The Socratic method should form, then, the rule for the catechetical method. True it is somewhat slow, and it is difficult to manage so that in drawing ideas out of one child the others shall also learn something. The mechanical method of catechising is also useful in some sciences; for instance, in the explanation of revealed religion. In universal religion, on the other hand, we must employ the Socratic method. As to what has to be learnt historically, the mechanical method of catechising is much to be commended.
 
-<span class="atom-split" data-atom="021" data-title="CHAPTER V: MORAL CULTURE (1/2)" data-chapter="CHAPTER V: MORAL CULTURE" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="CHAPTER V: MORAL CULTURE (1/2)" data-chapter="CHAPTER V: MORAL CULTURE" data-kind="atom" data-srclang="en"></span>
 
 By moral culture the child is taught to think, so that he may act in accordance with ‘maxims’ — a difficult task since what is right or wrong is easily confounded with what gains reward, and what does not.
 
@@ -590,7 +590,7 @@ Punishments may also be divided into natural and artificial punishments
 
 Punishments should be inflicted with great caution, never in [anger](/concepts/anger), and always with a view to their object — namely, the improvement of the child
 
-<span class="atom-split" data-atom="022" data-title="CHAPTER V: MORAL CULTURE (2/2)" data-chapter="CHAPTER V: MORAL CULTURE" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="CHAPTER V: MORAL CULTURE (2/2)" data-chapter="CHAPTER V: MORAL CULTURE" data-kind="atom" data-srclang="en"></span>
 
 85. Punishments inflicted with signs of [anger](/concepts/anger) are useless. Children then look upon the punishment simply as the result of anger, and upon themselves merely as the victims of that anger; and as a general rule punishment must be inflicted on children with great caution, that they may understand that its one aim is their improvement. It is foolish to cause children, when they are punished, to return thanks for the punishment by kissing hands, and only turns the child into a slave. If physical punishment is often repeated, it makes a child stubborn; and if parents punish their children for obstinacy, they often become all the more obstinate. Besides, it is not always the worst men who are obstinate, and they will often yield easily to kind remonstrance.
 
@@ -624,7 +624,7 @@ Children should be taught only what is suitable to their age. Precocity and vani
 
 At the same time the parents must not set great store by their own clothes, nor admire themselves; for here, as everywhere, example is all-powerful, and either strengthens or destroys good precepts.
 
-<span class="atom-split" data-atom="023" data-title="91. Practical education includes (1) skill, (2) discretion, and (3) morality. (1/2)" data-chapter="91. Practical education includes (1) skill, (2) discretion, and (3) morality." data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="91. Practical education includes (1) skill, (2) discretion, and (3) morality. (1/2)" data-chapter="91. Practical education includes (1) skill, (2) discretion, and (3) morality." data-kind="atom" data-srclang="en"></span>
 
 Skill must be thorough
 
@@ -668,7 +668,7 @@ We must place before them the duties they have to perform, as far as possible, b
 
 We can easily find opportunities for making children conscious of the dignity of man, even in their own persons. For instance, in the case of uncleanliness, which is at least unbecoming to mankind. But it is really through lying that a child degrades himself below the dignity of man, since lying presupposes the power of thinking and of communicating one’s thoughts to others. Lying makes a man the object of common contempt, and is a means of robbing him of the respect for and trust in himself that every man should have.
 
-<span class="atom-split" data-atom="024" data-title="91. Practical education includes (1) skill, (2) discretion, and (3) morality. (2/2)" data-chapter="91. Practical education includes (1) skill, (2) discretion, and (3) morality." data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="91. Practical education includes (1) skill, (2) discretion, and (3) morality. (2/2)" data-chapter="91. Practical education includes (1) skill, (2) discretion, and (3) morality." data-kind="atom" data-srclang="en"></span>
 
 (2) The child’s duties towards others. — A child should learn early to reverence and respect the rights of others, and we must be careful to see that this reverence is realised in his actions. For instance, were a child to meet another poorer child and to push him rudely away, or to hit him, and so on, we must not say to the aggressor, ‘Don’t do that, you will hurt him; you should have pity, he is a poor child,’ and so on. But we must treat him in the same haughty manner, because his conduct is against the rights of man. Children have as yet no idea, properly speaking, of generosity. We may, for instance, notice that when a child is told by his parents to share his slice of bread-and-butter with another, without being promised a second slice, the child either refuses to obey, or obeys unwillingly. It is, besides, useless to talk to a child of generosity, as it is not yet in his power to be generous.
 
@@ -706,7 +706,7 @@ Vices of the third kind are those of unkindness, niggardliness, and idleness (ef
 
 Classification of virtues
 
-<span class="atom-split" data-atom="025" data-title="101. Virtues are either virtues of merit or merely of obligation or of innocence. (1/3)" data-chapter="101. Virtues are either virtues of merit or merely of obligation or of innocence." data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="101. Virtues are either virtues of merit or merely of obligation or of innocence. (1/3)" data-chapter="101. Virtues are either virtues of merit or merely of obligation or of innocence." data-kind="atom" data-srclang="en"></span>
 
 To the first belong magnanimity (shown in self-conquest in times of [anger](/concepts/anger) or when tempted to ease and the lust of possession), benevolence, and self-command.
 
@@ -750,7 +750,7 @@ Children should be taught reverence and obedience to the divine will
 
 By uniting the idea of God and duty the child will learn to be kind to animals. He should be taught also to discover good in evil
 
-<span class="atom-split" data-atom="026" data-title="101. Virtues are either virtues of merit or merely of obligation or of innocence. (2/3)" data-chapter="101. Virtues are either virtues of merit or merely of obligation or of innocence." data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="101. Virtues are either virtues of merit or merely of obligation or of innocence. (2/3)" data-chapter="101. Virtues are either virtues of merit or merely of obligation or of innocence." data-kind="atom" data-srclang="en"></span>
 
 108. Through an explanation which unites the ideas of God and of duty the child learns the better to respect the divine care for creatures, and will thus be kept from an inclination towards destruction and cruelty, which we so often see in the torture of small animals. At the same time we should teach the child to discover good in evil. For instance, beasts of prey and insects are patterns of cleanliness and diligence; so, too, evil men are a warning to follow the law; and birds, by waylaying worms, protect the garden; and so on.
 
@@ -792,7 +792,7 @@ Again, we must encourage the youth —
 
 (4) In love towards others, as well as to feelings of cosmopolitanism. There exists something in our minds which causes us to take an interest (a) in ourselves, (b) in those with whom we have been brought up, and (c) there should also be an interest in the [progress](/positions/progress) of the world. Children should be made acquainted with this interest, so that it may give warmth to their hearts. They should learn to rejoice at the world’s progress, although it may not be to their own advantage or to that of their country.
 
-<span class="atom-split" data-atom="027" data-title="101. Virtues are either virtues of merit or merely of obligation or of innocence. (3/3)" data-chapter="101. Virtues are either virtues of merit or merely of obligation or of innocence." data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="101. Virtues are either virtues of merit or merely of obligation or of innocence. (3/3)" data-chapter="101. Virtues are either virtues of merit or merely of obligation or of innocence." data-kind="atom" data-srclang="en"></span>
 
 (5) To set little store by the enjoyment of the good things of life. The childish fear of death will then disappear — we must point out to the youth that the anticipations of pleasure are not realised in its fulfilment.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/dios_a_la_vista" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Dios a la vista" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Dios a la vista" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En la órbita de la Tierra hay perihelio y afelio: un tiempo de máxima aproximación al Sol y un tiempo de máximo alejamiento. Un espectador astral que viese a la Tierra en el momento en que huye del Sol, pensaría que el planeta no había de volver nunca junto a él, sino que cada día, eviternamente, se alejaría más. Pero si espera un poco verá que la Tierra, imponiendo una suave inflexión a su vuelo, encorva su ruta, volviendo pronto junto al Sol, como la paloma al palomar y el boomerang a la mano que lo lanzó. Algo parecido acontece en la órbita de la historia con la mente respecto a Dios. Hay épocas de odium Dei, de gran fuga lejos de lo divino, en que esta enorme montaña de Dios llega casi a desaparecer del horizonte. Pero al cabo vienen sazones en que súbitamente, con la gracia intacta de una costa virgen, emerge a sotavento el acantilado de la divinidad. La hora de ahora es de este linaje, y procede gritar desde la cofa: ¡Dios a la vista!
 

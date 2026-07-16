@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/seneca/phaedra" data-philosopher="Seneca"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="PHAEDRA" data-chapter="DRAMATIS PERSONAE" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="PHAEDRA" data-chapter="DRAMATIS PERSONAE" data-kind="intro" data-srclang="en"></span>
 
 HIPPOLYTUS, son of Theseus and Antiope, an Amazon.
 
@@ -38,7 +38,7 @@ CHORUS of Athenian citizens.
 
 THE SCENE is laid throughout the court in front of the royal palace at Athens, and the action is confined to the space of one day.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
 
 Theseus had wed Antiope, the Amazons, and of their union had been born Hippolytus. This youth grew up to love the chase, austere and beautiful, shunning the haunts of men and scorning the love of women. Theseus had meanwhile slain Antiope, and married Phaedra, Cretan Minos’ child.
 
@@ -46,7 +46,7 @@ And now, for four years past, the king has not been seen upon the earth, for, fo
 
 Deserted by her lord, the hapless Phaedra has conceived a hopeless passion for Hippolytus; for Venus mindful of her old armour with Mars, which Phaedra’s ancestor, Apollo [Phoebus or Sol the Sun], had exposed, has sent this madness on her, even as Pasiphaë, her mother, had been cursed with a most mad and fatal malady.
 
-<span class="atom-split" data-atom="003" data-title="PHAEDRA (1/9)" data-chapter="PHAEDRA" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="PHAEDRA (1/9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
 
 HIPPOLYTUS
 
@@ -86,7 +86,7 @@ NURSE
 
 [140] Best is the upright purpose and the unswerving path; next is the shame, that knows some measure in transgressing. To what end art thou hasting, wretched woman? Why heap fresh infamy upon thy house and outsin thy mother? Impious sin is worse than monstrous passion; for monstrous love thou mayst impute to fate, but crime, to character. If, because thy husband sees not the realms of earth, thou dost believe thy guilt safe and devoid of fear, thou errest. Suppose that Theseus is indeed held fast, hidden away in Lethean depths, and must suffer the Styx eternally; what of him, thy father, who holds the seas under his wide dominion and gives law to a hundred peoples? Will he permit so great a crime to lie concealed? Shrewd is the care of fathers. Yet suppose that by craft and guile we do hide this great wickedness from him; what of him who sheds his light on all things, thy mother’s sire? What of him who makes the heavens rocks, brandishing Aetnean bolts in his glittering hand, the father of the gods? Dost believe thou canst so sin as to escape the all-seeing eyes of both thy grandsires?
 
-<span class="atom-split" data-atom="004" data-title="PHAEDRA (2/9)" data-chapter="PHAEDRA" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="PHAEDRA (2/9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
 
 [159] But grant that heaven’s kindly grace conceals this impious intercourse; grant that to incest be shown the loyalty which great crimes never find; what of the ever-present penalty, the soul’s conscious dread, and the heart filled with crime and fearful of itself? Some women have sinned with safety, but none with peace of soul. Then quench the fires of impious love, I pray, and shun a deed which no barbaric land has ever done, neither the Getae, wandering on their plains, nor the inhospitable Taurians, nor scattered Scythians. Drive this hideous purpose from thy chaste mind, and, remembering thy mother, shun strange matings. Dost purpose to share thy bed with father and with son, and receive in an incestuous womb a blended progeny? Then go thou on and overturn all nature with thy unhallowed fires. Why do monsters cease? Why does thy brother’s labyrinth stand empty? Shall the world hear of strange prodigies, shall nature’s laws give way, whenever a Cretan woman loves?
 
@@ -200,7 +200,7 @@ CHORUS
 
 [274] Thou goddess, born of the cruel sea, who art called mother of both Loves, that wanton, smiling boy of thine, reckless alike with torches and with arrows, with how sure bow doth he aim his shafts! His madness steals to the inmost marrow, while with creeping fire he ravages the veins. The wound he deals has no broad front, but it eats its way deep into the hidden marrow. There is no open peace with that boy of thine; throughout the world nimbly he scatters his flying shafts. The shore that beholds the new-born sun and the shore that lies at this far western goal, the land lying beneath the burning Crab and the cold region of the Arcadian Bear, which sustains its ever-wandering husbandmen, all know these fires of his. He kindles the fierce flames of youth and in worn-out age he wakes again the extinguished fires; he smites maids’ breasts with unknown heat, and bids the very gods leave heaven and dwell on earth in borrowed forms.
 
-<span class="atom-split" data-atom="005" data-title="PHAEDRA (3/9)" data-chapter="PHAEDRA" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="PHAEDRA (3/9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
 
 [296] Phoebus as keeper of the Thessalian herd drove his cattle along and, laying quill aside, called together his bulls on the unequal reeds. How often did he put on lower forms, even he who made heaven and the clouds: now as a bird he fluttered his white wings with note sweeter than the dying swan; now with savage front as a wanton bull he lowered his back for the sport of maidens and through the strange kingdom of his brother’s waves, using his hoofs in place of pliant oars, he breasted the deep sea and overcame it, a ferryman trembling for the prize he bore. The radiant goddess of the darksome sky burned with love and, forsaking the night, gave her gleaming chariot to her brother to guide in fashion other than his own. He learned to drive the team of night and to wheel in narrower circuit, while the axle groaned beneath the car’s heavier weight; nor did the nights keep their accustomed length, and with belated dawning came the day. The son of Alcmena laid by his quiver and the threatening skin of the huge lion, letting emeralds be fitted on his fingers and law be enforced on his rough locks; he bound his legs with cross-garterings of gold and within yellow sandals confined his feet; and in that hand, with which he but now bore the club, he spun out threads with flying spindle.
 
@@ -242,7 +242,7 @@ NURSE
 
 [446] Enjoy thy life; ’tis speeding swift away. Now hearts are light, now love to youth is pleasing. Let thy heart rejoice. Why dost lie on a lonely couch? Free thy youth from gloom; lay hold on pleasures; loosen the reins; let not life’s best days escape thee. God has portioned out its proper duties to each time of life and led this span of ours through its own stages; joy befits the young, a serious face the old. Why dost hold thyself in check and strangle thy true nature? That crop will give to the farmer the best return which in the tender blade runs riot with joyous growth, and that tree with lofty head will overtop the grove which no grudging hand cuts down or prunes away. So will right minds be reared unto a richer fruit of praise, if sprightly freedom nourish the high-born soul.
 
-<span class="atom-split" data-atom="006" data-title="PHAEDRA (4/9)" data-chapter="PHAEDRA" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="PHAEDRA (4/9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
 
 [461] Wilt thou, as a harsh wood-dweller, ignorant of life, spend thy youth in gloom and let Venus be forgot? Is it man’s allotted task, thinkst thou, to endure hardship, curb horses in their swift course, and wage savage wars in bloody battles? How various are the forms of death that seize and feed no mortal throngs! the sea, the steel and treachery! But suppose these lacking: by thy path we make wantonly for murky death. The unwedded life let barren youth applaud; then will all that thou beholdest be the throng of one generation only and will fall in ruins on itself. In his providence did yonder almighty father of the universe, when he saw how greedy were the hands of Fate, give heed ever by fresh progeny to make losses good. Come now, let love but be banished from human life, love, which supplies and renews the impoverished race: the whole globe will lie foul in vile neglect; the sea will stand empty of its fish; birds will be lacking to the heaven, wild bests to the woods, and the paths of air will be traversed only by the winds. Follow, then, nature as life’s guide; frequent the city; seek out the haunts of men.
 
@@ -322,7 +322,7 @@ HIPPOLYTUS
 
 PHAEDRA
 
-<span class="atom-split" data-atom="007" data-title="PHAEDRA (5/9)" data-chapter="PHAEDRA" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="PHAEDRA (5/9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
 
 [609] Mother – that name is too proud and high; a humbler name better suits my feelings. Call me sister, Hippolytus, or slave – yes, slave is better; I will endure servitude. Shouldst thou bid me walk through deep-drifted snows, I would not shrink from faring along the cold peaks of Pindus; shouldst thou send me through fire and midst deadly battle ranks, I would not hesitate to offer my breast to naked swords. Take thou in my stead the sceptre committed to my care, accept me for thy slave; it becomes thee to bear sway, me, to obey thine orders. It is no woman’s task to watch o’er royal cities. Do thou, in the vigour of thy youth’s first bloom, rule o’er the citizens, strong in thy father’s power; take to thine arms thy suppliant, and protect thy slave. Pity my widowhood –
 
@@ -418,7 +418,7 @@ CHORUS
 
 [741] Let fame compare with thee all ancient beauty, fame, admirer of the olden time; as much fairer does thy beauty shine as gleams more brightly the full-orbed moon when with meeting horns she has joined her fires, when at the full with speeding chariot blushing Phoebe shows her face and the lesser stars fade out of sight. Such as he is the messenger of night, who brings the first shadows back, Hesperus, fresh bathed in ocean; and when the shadows have been driven away again, Lucifer also.
 
-<span class="atom-split" data-atom="008" data-title="PHAEDRA (6/9)" data-chapter="PHAEDRA" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="PHAEDRA (6/9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
 
 [753] And thou, Bacchus, from thyrsus-bearing India, with unshorn locks, perpetually young, thou who frightenest tigers with thy vine-clad spear, and with a turban bindest thy hornèd head – thou wilt not surpass Hippolytus’ crisp locks. Admire not thou thy [beauty](/concepts/beauty) overmuch; story has spread through every nation whom the sister of Phaedra preferred to Bromius.
 
@@ -564,7 +564,7 @@ PHAEDRA
 
 THESEUS
 
-<span class="atom-split" data-atom="009" data-title="PHAEDRA (7/9)" data-chapter="PHAEDRA" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="PHAEDRA (7/9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
 
 [903] O holy Piety, O ruler of the heavens, and thou who with thy billows dost sway the second realm, whence came this infection of infamy in our stock? Was that man nurtured by the land of Greece or by the Scythian Taurus and Colchian Phasis? The breed reverts to its progenitors and debased blood reproduces the primal stock. This, truly, is the madness of that warlike race, to contemn Venus’ laws and to prostitute the long-chaste body to the crowd. O abominable race, yielding to no laws of a better land! Even the very beasts do shun incestuous love, and instinctive chastity guards Nature’s laws. Where are those features, that feigned austerity of the man, that rough garb, aping old-fashioned and archaic ways? Where thy stern manners and the sour severity of age? O two-faced life, thou keepest thy true thoughts hidden and dost clothe foul purpose with an aspect fair – chaste bearing hides unchastity; meekness, effrontery; piety, sin unspeakable; false men approve truth and the soft affect hardihood.
 
@@ -614,7 +614,7 @@ MESSENGER
 
 [1025] While we in dumb amaze are wondering what this means, behold, the whole sea bellows, and the cliffs on every hand echo back the sound; the highest peak is wet with dashed-up spray; it foams, and then in turn spews back the flood, as when a cavernous whale swims through the deep ways of ocean, spouting back streams of water form his mouth. Then the great globe of waters shivered, shook and broke, and brought to the shore a thing more terrible than our fear; the sea rushed landward, following its monster. My lips tremble in the telling. How the thing looked! how huge! A bull it was, towering high with a dark blue neck, and he reared a high mane upon his verdant crest; his shaggy ears stood up; his eyes flashed with changing colour, now such as the lord of the wild herd might have, now such as one born beneath the sea – now his eyes dart flame, now they flash wondrous with cerulean gleam. His brawny neck with great muscles bulges and his wide nostrils roar with his gaping draughts of air. His breast and dewlap are green with clinging moss, and his long flanks with red seaweed are spotted. His hinder parts are joined into monstrous shape, and, all scaly, the huge beast drags his measureless length along. Such is that sea-monster of the outer ocean which swallows or crushes swift-flying ships. The lands quaked with fear; herds fled in frenzy in all directions through the fields, and the herdsman forgot to follow his cattle. All beasts fled from their wooded haunts; all hunters stood trembling, pale with chilling fear. Hippolytus alone, quite unafraid, with tight reins holds fast his horses and, terror-stricken though they are, urges them on with the encouragement of his familiar voice.
 
-<span class="atom-split" data-atom="010" data-title="PHAEDRA (8/9)" data-chapter="PHAEDRA" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="PHAEDRA (8/9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
 
 [1057] There is a deep passage towards the fields through the broken hills, hard by the neighbouring stretches of the sea below. Here that huge creature sharpens his [anger](/concepts/anger) and prepares his wrath. When he has gained his spirit, and with full trail rehearsed his wrath, he darts forth, running swiftly, scarce touching the surface of the ground with flying feet, and stands, in grim menace, before the trembling steeds. Thy son, rising up, confronts him with fierce, threatening look, nor does he change countenance, but loudly thunders: “This empty terror cannot break my spirit, for ’twas my father’s task to conquer bulls.” But straightway his horses, disobedient to the reins, seized the chariot and, roaming from the road, wherever frenzied terror carried them in their mad flight, there they plunged along and dashed amid the rocks.
 
@@ -682,7 +682,7 @@ PHAEDRA
 
 THESEUS
 
-<span class="atom-split" data-atom="011" data-title="PHAEDRA (9/9)" data-chapter="PHAEDRA" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="PHAEDRA (9/9)" data-chapter="PHAEDRA" data-kind="atom" data-srclang="en"></span>
 
 [1201] Ye jaws of wan Avernus, ye Taenarean caves, ye waves of Lethe, welcome to the wretched, ye sluggish pools, hide ye in my impious self, plunge deep and bury me in unending woes. Come now, savage monsters of the deep, now, vast sea, and whatever Proteus has hidden away in the furthest hollow of his waters, and hurry me off, me who felt triumph in crime so great, to your deep pools. And thou, father, who didst e’er give too quick assent to my angry prayer, I am not worthy of an easy death who have brought unheard-of destruction on my son and scattered his mangled limbs throughout the fields; who, while, as stern avenger, I was punishing an unreal crime, have myself fallen into true guilt. Heaven, hell, and ocean have I filled up by my sin; there remains no further lot; three kingdoms know me.
 

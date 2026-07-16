@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_colaboración_de_la_juventud" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La colaboración de la juventud" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La colaboración de la juventud" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Estas palabras de solicitación dirigimos hoy a los españoles que por dedicarse al trabajo científico y literario, a la industria, a la técnica administrativa y comercial, están más obligados a tener una idea serena y grave de los problemas nacionales. No quieren ser un manifiesto destinado al gran público y huyen de formular un programa circunstanciado.
 

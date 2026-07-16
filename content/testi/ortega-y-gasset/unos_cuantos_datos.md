@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/unos_cuantos_datos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Unos cuantos datos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Unos cuantos datos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Si abrimos El árbol de la ciencia por la página primera y leemos hasta la sexta, aprenderemos en tan breve espacio cómo acontece el absurdo de que la clase de Química de la Facultad de Medicina se da en la Escuela de Arquitectura, que los estudiantes son unos bárbaros y el profesor «un pobre hombre presuntuoso, ridículo», que parece «un francés petulante». Andrés Hurtado se encuentra en esta primera clase con un compañero de Instituto, Aracil, a quien acompaña un amigo, Montaner. Y tenemos que ya en esta página 10, «Andrés experimenta por Julio Aracil bastante antipatía, pero mucha mayor aversión por Montaner». Además, «los dos condiscípulos se encuentran en esta primera conversación completamente en desacuerdo».
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/su_excelencia_el_autillo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Su excelencia el autillo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Su excelencia el autillo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero si al hablar al Ejército, aun en son de polémica y radical discrepancia, no podemos faltar a ningún miramiento, no nos ocurre lo mismo cuando se trata del señor La Cierva, que no es una entidad moral, como la milicia, sino un hombre de carne y hueso, con sus torpezas nativas y sus pasiones crónicas.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/vives" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Vives" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Vives" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

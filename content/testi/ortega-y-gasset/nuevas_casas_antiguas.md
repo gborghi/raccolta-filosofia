@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nuevas_casas_antiguas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nuevas casas antiguas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nuevas casas antiguas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En las calles de Madrid encontramos cada día mayor número de casas «madrileñas». Parejamente, Sevilla se está llenando hasta los bordes de «sevillanerías». Ahora vamos a preguntarnos si es éste un hecho reconfortante o desesperante. Para ello conviene descender a su raíz. La raíz está en la mente del propietario o del arquitecto que ha construido la nueva casa antigua.
 
@@ -48,7 +48,7 @@ En rigor, hoy no quería sino llegar, con algún sentido para el lector, a esta 
 
 Al amueblar una habitación o construir un edificio es un deber vital, inspirado por la estimación hacia sí mismo, intentar la belleza, partiendo de las formas y necesidades actuales. Y es preferible equivocarse al servicio de este empeño que acertar en la trivial resolución de copiar un viejo estilo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Nadie saldría a la calle —fuera de Carnestolendas— vestido con un traje a lo Felipe IV. Sería hacer de la propia vida y el propio ser una ruin mascarada. Pues ¿qué diferencia hay entre eso y vivir en una nueva casa antigua? La casa, como los nómadas árabes dicen de la tienda de campaña, es el traje de la familia.
 

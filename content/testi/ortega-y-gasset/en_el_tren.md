@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/en_el_tren" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="En el tren" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="En el tren" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La vida es un viaje, decían los ascetas, y corrigiendo la puntería disparaban sus almas como dardos hacia la eterna posada. ¿Por qué decían esto? ¿Por qué elegían ese trozo de la vida —un viaje— como metáfora sustancial de la vida entera?
 

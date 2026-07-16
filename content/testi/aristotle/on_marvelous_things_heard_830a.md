@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aristotle/on_marvelous_things_heard_830a" data-philosopher="Aristotle"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="On Marvelous Things Heard (830a)" data-chapter="INTRODUCTION" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="On Marvelous Things Heard (830a)" data-chapter="INTRODUCTION" data-kind="intro" data-srclang="en"></span>
 
 THIS curious collection of “marvels” reads like the jottings from a diary. All authorities are agreed that it is not the work of [Aristotle](/figures/aristotle), but it is included in this volume as it forms part of the “Corpus” which has come down to us; most Aristotelian scholars believe that it emanated from the [Peripatetic School](/schools/lyceum). Some of the notes are puerile, but some on the other hand are evidently the fruit of direct and accurate observation.
 
-<span class="atom-split" data-atom="002" data-title="ON MARVELLOUS THINGS HEARD (1/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ON MARVELLOUS THINGS HEARD (1/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 In Paeonia they say that in the mountain called Hesaenus, which divides Paeonia from Maedice, there is a wild beast called “bolinthus,” which the Paeonians call “monaepus.” They say that the beast is in general character like an ox, but that it is larger and stronger, and also more hairy; for it has a mane on its neck like a horse, stretching down very thickly, and spreading from its brow to its eyes. Its horns are not like those of oxen, but are turned downwards, and come to a sharp point by the ears; each of these holds more than three pints and is pitch black, but they shine as though they were peeled. But when the hide is skinned it covers the space of eight couches. But when the beast is hit it flees, and even if incapacitated continues to do so; its flesh is sweet. It protects itself by kicking and voiding excrement over a distance of forty feet; it easily and often employs this form of defence, which scorches so fiercely that it will scrape off a dog’s hair. They say that it has this effect when the animal is disturbed, but that it does not scorch when it is undisturbed. When they bring forth their voting they meet in large numbers, and collecting in a herd all the biggest bring forth young and void excrement in a circle. For the beast voids a great deal of such excrement.
 
@@ -84,7 +84,7 @@ In Cyrene they say that there is not one kind of mouse but many, differing in sh
 
 In Cilicia they say that there is a whirlpool; when birds and other creatures which have been drowned are put into it, they come to life again.
 
-<span class="atom-split" data-atom="003" data-title="ON MARVELLOUS THINGS HEARD (2/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="ON MARVELLOUS THINGS HEARD (2/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 Among the Scythians called Geloni they say that there is a beast, excessively rare, which is called “tarandos”; they say that it changes the colour of its hair according to the place it is in. For this reason it is difficult to catch; for it becomes the same colour as the trees and the ground, and generally of the place in which it is. But the changing of the colour of the hair is most remarkable; other creatures change their skin like the chameleon and polypus.
 
@@ -144,7 +144,7 @@ Also on the road to Syracuse there is a spring in a meadow neither large nor wit
 
 There is a spring among the Palici in Sicily, covering the space of ten couches; this throws up water to the height of six cubits, so that the whole place is thought by observers to be inundated; and it falls back again to the same spot. There is an oath which is regarded as very sacred there; for a man writes down the oath he takes on a small tablet and casts it into the water. If he swears truly, the tablet floats. If he swears falsely, the tablet is said to grow heavy and disappear, and the man is burned. So the priest takes security from him that someone shall purify the temple.
 
-<span class="atom-split" data-atom="004" data-title="ON MARVELLOUS THINGS HEARD (3/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="ON MARVELLOUS THINGS HEARD (3/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 Demonesus, the Chalcedonian island, took its name from Demonesus who first worked there: the place has a mine of cyanus and malachite. The best of this fetches a price comparable with gold; for it is a drug used for the eyes. There is also copper to be dived for in two fathoms of sea; from this is made the statue in Sicyon in the ancient temple of Apollo, and also those in Pheneus called yellow-copper. On them is inscribed “Heracles, son of Amphitryon, dedicated these on capturing Elis.” He captured Elis under the guidance of a woman, in accordance with the oracle, whose father Augeas he had killed. Those who dig for copper become very keen-sighted, and those who have no eyelashes grow them; hence doctors also use the flower of copper and Phrygian ash for the eyes.
 
@@ -198,7 +198,7 @@ In Sicily in the district called Enna there is said to be a cave, around which i
 
 They say that there are no wolves, bears or snakes in Crete, and, generally speaking, no beasts of the kind, because Zeus was born there.
 
-<span class="atom-split" data-atom="005" data-title="ON MARVELLOUS THINGS HEARD (4/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="ON MARVELLOUS THINGS HEARD (4/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 In the sea outside the Pillars of Heracles they say that a desert island was found by the Carthaginians, having woods of all kinds and navigable rivers, remarkable for all other kinds of fruits, and a few days’ voyage away; as the Carthaginians frequented it often owing to its prosperity, and some even lived there, the chief of the Carthaginians announced that they would punish with death any who proposed to sail there, and that they massacred all the inhabitants, that they might not tell the story, and that a crowd might not resort to the island, and get possession of it, and take away the prosperity of the Carthaginians.
 
@@ -234,7 +234,7 @@ In the city of Orchomenus in Boeotia they say that a fox was seen, which, when p
 
 In the island of Sardinia they say that there are many fine buildings arranged in the ancient Greek style, and among others domed buildings, carved with many shapes; these are said to have been built by Iolaus the son of Iphicles, when he took the Thespians, descended from Heracles, and sailed to those parts to colonize them, on the grounds that they belonged to him by his kinship with Heracles, because Heracles was master of all the country towards the west. Apparently the island was originally called Ichnussa, because its circumference made a shape like a man’s footstep (Greek ichnos), and it is said before this time to have been prosperous and fruitful; for the legend was that Aristaeus, who, they say, was the most efficient husbandman in ancient times, ruled them, in a district previously full of many great birds. Now the island no longer bears anything, because the Carthaginians who got possession of it cut down all the fruits useful for food, and prescribed the penalty of death to the inhabitants, if any of them replanted them.
 
-<span class="atom-split" data-atom="006" data-title="ON MARVELLOUS THINGS HEARD (5/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="ON MARVELLOUS THINGS HEARD (5/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 In one of the seven islands called those of Aeolus, which is known as Lipara, runs a legend that there is a tomb, concerning which they tell many marvels; among other things they agree that it is not safe to approach the place by night, for the sound of drums and cymbals can be heard, and distinct laughter, with noise and the clapping of castanets. There is a still more remarkable story about the cave; for someone once slept here drunk before dawn, and was sought for by his servants for three days, and on the fourth was found, and taken away for dead by the servants and put into his own tomb; after receiving all the usual rites he suddenly arose and told all that had happened to him. This strikes us as more like legend; but at the same time one must not pass over it without record, when making a catalogue of events on the spot.
 
@@ -262,7 +262,7 @@ Among the Peucetini they say that there is a temple of Artemis, in which is dedi
 
 On the promontory in Sicily called Pelorias there is said to be a crocus which grows so large that among some of the inhabitants of the district the Greeks do not know what kind of flower it is, but at Pelorias any who wish bring large wagons, and in the season of spring make beds and platforms out of the crocus.
 
-<span class="atom-split" data-atom="007" data-title="ON MARVELLOUS THINGS HEARD (6/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="ON MARVELLOUS THINGS HEARD (6/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 Polycritus, who wrote the Sicilian history, says in his story that in a certain part of the interior there is a little lake having a circumference of a shield, and this has water which is transparent, but the surface is somewhat ruffled. If anyone goes into it needing to wash, it increases in width, and if a second man goes in, it grows still broader. But the limit of its expansion is reached when it has received fifty men. But when it has received this number, it swells up from the bottom and casts up the bodies of the bathers high and dry on the land; when this has occurred it reverts again to its original size in circumference. This does not occur merely in the case of men, but if a quadruped goes into it the same thing happens.
 
@@ -300,7 +300,7 @@ Cattle in Illyria are said to breed twice during the year, and most commonly of 
 
 It is also said in Paeonia that the wild bulls are bigger than in any of the other races, and that their horns will hold two gallons, and some of them even more.
 
-<span class="atom-split" data-atom="008" data-title="ON MARVELLOUS THINGS HEARD (7/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="ON MARVELLOUS THINGS HEARD (7/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 About the Sicilian strait many others have written, and this author says that a marvellous thing happens. For the waves from the Tyrrhenian Sea are borne with much surge to both the promontories, the one on the Sicilian side and the other on the Italian side called Rhegium, and being carried from the great sea into a narrow one are compressed. When this happens the wave is carried high in the air with a loud noise over a wide space upwards, so that, when hurled high in the air, it can be seen by those who are a long way off, not like the high travel of the sea but white and foamy, and like the tracks which are made by violent storms. Sometimes the waves crash against each other on both promontories and come together with a crash impossible to describe, and unbearable to look at; and sometimes, when they have parted after dashing against each other, so deep and terrifying is the appearance to those who are forced to see it that many cannot control themselves, but grow dizzy and fall down from fear. But when the wave falling on either of the spots, and flung as high as the promontories, dashes back again into the sea flowing below, with a vast roar and with huge swift eddies the sea boils up and is hurled high, seething from the depths and changing to every kind of colour; sometimes it appears black and sometimes blue, and then again purple. No beast can bear either to hear or to see the race and length of it, and in addition to this the upward flow, but all flee to the foot of the mountain. When the wave ceases, the eddies are carried up into the air and make such varied whirlings that the movements look like the coils of sea-serpents, or some other huge snakes.
 
@@ -338,7 +338,7 @@ They say that there is a kind of snake in Curium in Cyprus which has the same po
 
 They say that there is a kind of prickly pear in Ceos, and that, if one is pricked by a thorn, one dies.
 
-<span class="atom-split" data-atom="009" data-title="ON MARVELLOUS THINGS HEARD (8/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="ON MARVELLOUS THINGS HEARD (8/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 In Mysia they say that there is a species of white bear which lets out so foul a breath when it is hunted that it causes the flesh of the dogs to decompose: it has the same effect upon all other kinds of animals, and makes them uneatable. But if one forces one’s way close to them, they let out of their mouths a quantity of phlegm, which apparently blows at the faces of dogs and men alike, so as to choke and blind them.
 
@@ -402,7 +402,7 @@ On the mountain Berecynthus there is said to be a stone called “Dagger.” If 
 
 On Mount Tmolus they say that, there is a stone like ivy which changes its colour four times a day; it is seen by girls who have not reached the age of discretion.
 
-<span class="atom-split" data-atom="010" data-title="ON MARVELLOUS THINGS HEARD (9/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="ON MARVELLOUS THINGS HEARD (9/9)" data-chapter="ON MARVELLOUS THINGS HEARD" data-kind="atom" data-srclang="en"></span>
 
 At the altar of Artemis Orthosia a golden bull is set up, which bellows when hunters come in.
 

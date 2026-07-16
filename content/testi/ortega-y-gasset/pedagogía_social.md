@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pedagogía_social" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Pedagogía social" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Pedagogía social" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Una grave consecuencia deducimos de lo dicho hasta aquí: que todo individualismo es mitología, es anticientífico. Por tanto, también la pedagogía individual será un error y un proyecto estéril. ¡Cuán mínimo el influjo del maestro sobre el discípulo! Vive junto a él unas horas, horas que el niño considera heterogéneas a la integridad de su vida, frías horas inorgánicas que él ve como agujeros de vacío recortados sobre el tapiz sugestivo de su vida espontánea.
 

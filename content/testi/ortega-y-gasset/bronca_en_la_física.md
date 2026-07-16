@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/bronca_en_la_física" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Bronca en la física" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Bronca en la física" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -52,7 +52,7 @@ No podemos reprimir un ligero movimiento de sorpresa al leer esto porque es de s
 
 El [caso](/concepts/fortune) es que desde hace trescientos años se discute precisamente eso que el señor Dingler da como cosa libre de posible error. Se discute, desde tiempos del mismo Galileo, si la ciencia es observación o algo más. Porque las objeciones más fuertes que los aristotélicos oponían a Galileo consistían en motejarle por no ajustarse estrictamente a lo que se observa, al experimento.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pues fuera oportuno recordar al articulista que los aristotélicos, frente a los cuales se hallaba Galileo, eran predominantemente nominalistas, gentes que no creían —hacía ya dos siglos— que la naturaleza fuese racional y que, por lo mismo, sólo cabía de ella un conocimiento empírico, de observación, que se contentase con formar teorías donde «se salvasen las apariencias», donde los «fenómenos manifiestos» fuesen de alguna manera ordenados. Y por eso en París y en Padua se hacían experimentos cien años antes que en Padua estudiase Galileo.
 
@@ -80,7 +80,7 @@ A esta situación ha llegado la física actual. Una situación bastante paradój
 
 Yo no voy a dirimir la cuestión. Mas es el [caso](/concepts/fortune) que los físicos mismos no han podido menos de percibir el extraño carácter que en cuanto conocimiento ofrece su ciencia. Y algunos de ellos se han resuelto a declarar que la física es un «conocimiento simbólico», el que tiene de los sobretodos quien no los ha visto jamás, pero posee el conjunto de las fichas y sabe que a cada una de éstas corresponde uno de aquéllos y el lugar de la percha en que está colgado. A lo que no se han resuelto ni éstos ni los otros físicos es a reflexionar enérgicamente sobre si un conocimiento simbólico es en serio conocimiento. ¿Por qué ha de ser la física un conocimiento? ¿Por ventura es el conocimiento una cosa tan clara que parezca justificado el empeño de las «ciencias» en ser tenidas por conocimientos? ¿Por qué no ha de ser la física, y en general las «ciencias», otra cosa: por ejemplo, técnica y nada más, técnica y nada menos? Después de todo, si alguien dijese que el conocimiento fue sólo un ensayo y una ilusión de los hombres de Grecia, que terminó en glorioso fracaso, diría algo mucho menos extravagante y mucho más profundo de lo que al pronto parece, aunque acaso no sea lo últimamente verdadero.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Véase, pues, cómo en la cuestión planteada por el doctor Dingler fermentan otras mucho más graves y más radicales. Pero el doctor Dingler y la mayor parte de sus víctimas mantienen la polémica dentro de la órbita gremial. No quieren embarcarse en problemas filosóficos. Hacen bien, ¡qué diablo! La física sirve para muchas cosas, mientras que la filosofía no sirve para nada. Ya lo dijo, conste, un filósofo, el patrón de los filósofos, Aristóteles. Precisamente por eso soy yo filósofo: porque no sirve para nada serlo. La notoria «inutilidad» de la filosofía es acaso el síntoma más favorable para que veamos en ella el verdadero conocimiento. Una cosa que sirve es una cosa que sirve para otra, y en esa medida es servil. La filosofía, que es la vida auténtica, la vida poseyéndose a sí misma, no es útil para nada ajeno a ella misma. En ella, el hombre es sólo siervo de sí mismo, lo cual quiere decir que sólo en ella el hombre es señor de sí mismo. Mas, por supuesto, la cosa no tiene importancia. Queda usted en entera libertad de elegir entre estas dos cosas: o ser filósofo o ser sonámbulo. Los físicos, en general, van sonámbulos dentro de su física, que es el sueño egregio, la modorra genial de Occidente.
 
@@ -112,7 +112,7 @@ Milne se propone aplicar de la manera más radical posible el principio de la ec
 
 Es decir —y esto es lo enorme del hecho— que la física está a punto de convertirse en una geometría que entre sus varios axiomas incluye uno donde se anticipa la noción de movimiento. Lo cual —pasando ahora nuevamente de la claridad matemática a la claridad plástica— significa que un hombre encerrado en su habitación, sin aparatos, sin materias observables, por simple combinación de ideas, puede en pocas semanas redescubrir lo que ha requerido emplear trescientos años y treinta mil laboratorios. Con esta agravante: que no hay razón para que esta nueva física-geometría no prosiga sus deducciones y averigüe innumerables leyes nuevas.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La dignidad o carácter matemático de esta investigación no permite, claro está, garantizar que las cosas se comportan según esos teoremas. La observación será quien decida si, en efecto, es así. Pero es evidente que el papel de ésta queda, en principio, invertido. Según Dingler, sólo la observación nos permite descubrir las leyes de la naturaleza. Según Milne se puede llegar a ellas [a priori](/positions/transcendental_criticism) y la observación reduce su papel a confirmarlas.
 
@@ -148,7 +148,7 @@ Concédame el lector la satisfacción de leer ahora lo que en 1927 escribía yo 
 
 »De modo que si los fenómenos —las bolas de plomo, de hierro y de piedra— no se comportan según nuestra construcción, peor para ellas, suo danno.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 »Claro es que la física actual se diferencia mucho de la de Galileo y Toscanelli, no sólo por su contenido, sino por su método. Pero esta diferencia metódica no es contraposición, sino, al contrario, continuación y perfeccionamiento, depuración y enriquecimiento de aquella táctica intelectual descubierta por los gigantes del post-renacimiento».
 

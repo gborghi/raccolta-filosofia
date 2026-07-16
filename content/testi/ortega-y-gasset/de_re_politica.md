@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/de_re_politica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="De re politica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="De re politica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando son cerradas las Cortes suelen quedarse nuestros políticos sin saber qué hacer, como las viejas de los pueblos si les cierran la iglesuca y les falta un buen fuego en torno al cual contar consejas, decir decires y roer memorias. Fue instituido el Parlamento a guisa de máquina expansionadora de la política, para impedir que los pueblos fueran gobernados desde unas cuantas reuniones y camarillas, para ofrecer garantías a las públicas pasiones que nacieren fuera de los muros oficiales. Weigel y otros místicos alemanes llaman al alma individual spiraculum vitae, respiradero de la vida, breve abertura por donde se manifiesta el borboteo soterráneo de corrientes colectivas, manadero en que hace sentir su pulso la oculta y metafísica voluntad vibrante del universo. Algo así corresponde ser al Parlamento: respiradero de la vida nacional, síntoma de la realidad pública, signo de cosas externas, vivas y orgánicas.
 
@@ -54,7 +54,7 @@ Toda opinión, pues, es siempre de origen privado y la única significación jus
 
 El pueblo no sabe lo que quiere; sabe a lo sumo lo que no quiere y por esta razón desdeña a muchos que le solicitan y no responde a cualquier palabra o conjuro. En fórmula más precisa pero más técnica podría definirse al pueblo como lo indeterminado histórico a determinar por la cultura. Esta labor de determinación que debe realizar la parte más culta de una raza sobre la parte menos culta o pueblo es la política. Y como vivir no es ir arrastrado, ir forzado, sino proponerse fines y lograrlos en lo posible, querer, en fin, algo y querer los medios que lo producen, la política significa una acción sobre la voluntad indeterminada del pueblo, no sobre sus músculos, una educación, no una imposición. No es dar leyes, es dar ideales y por ideales no se entienda nada vago y doncellil, sino cualquiera posible mejora espiritual o material de la sociedad, desde la libertad de cultos hasta la revisión del arancel, donde acaso ésta parezca más ideal que aquélla como más remota y difícil.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 De todo esto resulta que el lugar donde menos quehaceres políticos puede haber es el Parlamento; allí no debía irse sino a refrendar la organización del espíritu público realizada fuera. Precisamente para esto se inventó el Parlamento: para que pudiera sin peligro hacerse la política fuera de él, fuera del antiguo Consejo despótico. Parlamento es representación, mero reflejo y sombra de la realidad política exterior. El único lugar donde no está un pueblo es aquél en que está su representación.
 

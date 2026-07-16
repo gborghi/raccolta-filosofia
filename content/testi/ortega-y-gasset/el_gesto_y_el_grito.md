@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_gesto_y_el_grito" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El gesto y el grito" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El gesto y el grito" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 «El buen Bejarano Galavis —nos dice Azorín— vive en Riofrío sereno, tranquilo, sosegado; aquí pasa sus días, en este barranco de la sierra de Ávila. Mas ¿será cierto que nuestro autor logra sobreponerse a sus recuerdos? ¿No habrá en este hombre ecuánime y jovial ni un rápido gesto de tristeza en su paz, ni un segundo de desesperanza, ni un movimiento de taciturnidad febril y de desasosiego? En una hora dada, considerando su apartamiento del mundo y la solitaria esquividad de estas montañas, este hombre delicado, fino, inteligente, sensual —sensual como Montaigne—, ¿no tendrá un grito, un solo grito, revelador, por encima de su inalterable ecuanimidad, de lo más hondo de su espíritu?»
 

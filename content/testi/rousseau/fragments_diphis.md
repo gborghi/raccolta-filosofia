@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/fragments_diphis" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="FRAGMENTS D’IPHIS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="FRAGMENTS D’IPHIS" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Nous venons vous offrir ses voeux et sa richesse.
 

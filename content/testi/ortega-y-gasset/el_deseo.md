@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_deseo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El deseo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El deseo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Escojamos un ejemplo entre mil, perteneciente a nuestra vida de voluntad. En la conversación solemos usar, como equivalentes, las ideas de querer y desear. La observación psicológica muestra, sin embargo, que una y otra se refieren a fenómenos psíquicos muy distintos. Querer es querer la realidad de algo, y, por tanto, querer los medios que lo realizan. En última sustancia, es siempre un querer «hacer» algo. Desear, en cambio, es lo que solemos expresar con más rigor cuando hablamos de un «mero deseo». El deseo, en sentido estricto, implica el darse cuenta de que lo deseado es relativa o absolutamente imposible.
 

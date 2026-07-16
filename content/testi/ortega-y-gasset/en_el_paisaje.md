@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/en_el_paisaje" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="En el paisaje" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="En el paisaje" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Sobre el paisaje del Escorial, el Monasterio es solamente la piedra máxima que destaca entre las moles circundantes por la mayor fijeza y pulimento de sus aristas. En estos días de primavera hay una hora en que el sol, como una ampolla de oro, se quiebra contra los picachos de la sierra, y una luz blanda, coloreada de azul, de violeta, de carmín, se derrama por las laderas y por el valle, fundiendo suavemente todos los perfiles. Entonces, la piedra edificada burla las intenciones del constructor y, obedeciendo a un instinto más poderoso, va a confundirse con las canteras maternales.
 

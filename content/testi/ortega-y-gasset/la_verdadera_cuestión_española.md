@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_verdadera_cuestión_española" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La verdadera cuestión española" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La verdadera cuestión española" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -60,7 +60,7 @@ Quedábamos en que a la hora de ahora España no está gobernada por institucion
 
 Cuando en junio de 1917 se desmandaron los militares, buscaron con los ojos los españoles un organismo público capaz de hacer frente a la actitud del Ejército. Y hallaron que ni el Parlamento ni el Gobierno tenían vigor suficiente para dominar la subversión. Por tratarse de una clase armada, cabía suponer que cuando el Ejército se insubordina ninguna otra institución puede imponerse. Pero acaeció que poco después los carteros, los inermes e incruentos hombres postales, se rebelaron a su vez, y ni el Parlamento, ni el Gobierno, ni el Ejército mismo pudieron reducirlos. Esto que llamamos sociedad es, por lo visto, cosa más sutil y compleja que el simple juego de fuerzas brutas. En la vida contemporánea, la fuerza material apenas si tiene eficiencia alguna sobre las luchas interiores de una sociedad. La contienda se produce entre poderes espirituales y se resuelve, según una mecánica psicológica, donde las energías combatientes son los prestigios. El poder de mayor prestigio absorbe invisiblemente al otro, y vuelve con perfecto automatismo el equilibrio social.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No importa mucho que una institución se corrompa siempre que queden otras sanas y ungidas de autoridad. Apoyándonos en cualquiera de éstas, podremos disciplinar, corregir y curar la institución decadente. Pero la verdadera cuestión española es que no existe organismo nacional ninguno que ejerza sobre los españoles ese supremo influjo espiritual, mezcla de respeto y esperanza, con el que pueda renovarse y reconstruirse el resto de la contextura pública. Esto es, en mi entender, lo que debería repetirse a la mañana todo español consciente. No es, pues, cuestión de derechas, ni de izquierdas, ni de zurdas: es una cuestión previa que se plantea de idéntico modo para todo corazón patriota y reflexivo.
 

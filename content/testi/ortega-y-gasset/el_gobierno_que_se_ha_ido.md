@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_gobierno_que_se_ha_ido" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El gobierno que se ha ido" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El gobierno que se ha ido" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La última hoja seca que este otoño ha empujado ha sido el señor Dato. Tras él va su gobierno umbrátil y el cortejo de espectros bien vestidos que integraban su mayoría. Pero ¿a dónde se van? Para mí no hay duda: se van al otro mundo.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/no_imitar" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="No imitar" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="No imitar" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Qué puedo yo dar a la República? —claro está, que después de darle todo lo que tengo y lo que soy. Poco, muy poco, casi nada: unos adarmes de doctrina. No me censuréis, amigos. Si no tengo otra cosa, ¿qué queréis que dé? Veinticinco años de meditar sobre España, bien estrujados, pueden gotear algunas observaciones estimables. Yo sé que mis compatriotas me escuchan, incluso los que me pegan. He logrado lo que el filósofo griego solicitaba del tirano que le golpeaba: «¡Pega, pero escucha!» Por lo mismo, he de tener cuidado, mesura, paciencia, responsabilidad. No se me exija, pues, que ahora dibuje urgentes arquitecturas. Todo lo contrario. Acepto la lección de continencia que nos han dado los ministros y, practicándola, les corroboro en el acierto que van teniendo.
 
@@ -68,7 +68,7 @@ Hagamos, pues, un alto en la marcha y… pongámonos a pensar en grande.
 
 La primera condición para pensar en grande es pensar con arquitectura, es ver las cosas con su perspectiva, poniendo cada una en la altitud y rango que le corresponde. Ya se ha faltado contra esta primera condición. Todo, lo importante y lo baladí, anda confundido y las cabezas padecen grave desorden. Para corregirlo es preciso que la Prensa haga un enérgico esfuerzo, poniendo orden en su información, dejándose de estúpidas persecuciones personales y dibujando cada día en las mentes de sus lectores claras líneas jerarquizadas, que hagan vislumbrar el edificio de la nueva España.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Tras diez años de anulación, vuelve la Prensa, quiérase o no, a poseer una intervención decisiva en la vida pública. Ni puede dejar de ser así cuando se trata nada menos de construir un Estado, por tanto, de retirar las nociones habituales enquistadas en las cabezas y sustituirlas por las novísimas del Estado que se va a hacer. Ha aumentado, pues, enormemente la responsabilidad de los periódicos. Yo estoy seguro de que sabrán responder como buenos; pero he de decir que en estos dos meses la Prensa —y especialmente la de Madrid— no ha estado al nivel de su formidable misión. La [causa](/concepts/cause), como de tantas otras cosas que ahora pasan, habrá tal vez de buscarse en esos diez años de censura que la han desmoralizado, impidiéndola vivir sobre sí misma y ejercitar su propia responsabilidad. No era fácil, sin titubeo, pasar de golpe a una situación diametralmente opuesta en que pesa sobre la Prensa un máximum de responsabilidad. Lleno de confianza envío esta excitación a mis compañeros de Prensa. Piensen que de nosotros depende en anormal medida lo que en España vaya a pasar. Eliminen a rajatabla de sus columnas toda frivolidad, toda ligereza, toda información inexacta y, sobre todo, el desorden. Demuestren que saben contribuir a la gigantesca faena de edificar un Estado novísimo.
 

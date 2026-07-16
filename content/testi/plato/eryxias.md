@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/eryxias" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ERYXIAS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="ERYXIAS" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -100,7 +100,7 @@ Eryxias looked askance, as if he had received some unfair treatment, and said, I
 
 I dare say, Eryxias, I said, that you may regard these arguments of ours as a kind of game; you think that they have no relation to facts, but are like the pieces in the game of draughts which the player can move in such a way that his opponents are unable to make any countermove. (Compare Republic.) And perhaps, too, as regards riches you are of opinion that while facts remain the same, there are arguments, no matter whether true or false, which enable the user of them to prove that the wisest and the richest are one and the same, although he is in the wrong and his opponents are in the right. There would be nothing strange in this; it would be as if two persons were to dispute about letters, one declaring that the word Socrates began with an S, the other that it began with an A, and the latter could gain the victory over the former.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Eryxias glanced at the audience, laughing and blushing at once, as if he had had nothing to do with what had just been said, and replied, — No, indeed, [Socrates](/figures/socrates), I never supposed that our arguments should be of a kind which would never convince any one of those here present or be of advantage to them. For what man of sense could ever be persuaded that the wisest and the richest are the same? The truth is that we are discussing the subject of riches, and my notion is that we should argue respecting the honest and dishonest means of acquiring them, and, generally, whether they are a good thing or a bad.
 
@@ -162,7 +162,7 @@ Prodicus agreed to this also.
 
 And when you pray to the Gods that you may do well and receive good, you mean by your prayer nothing else than that you desire to become good and wise: — if, at least, things are good to the good and wise and evil to the evil. But in that case, if virtue is acquired by instruction, it would appear that you only pray to be taught what you do not know.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Hereupon I said to Prodicus that it was no misfortune to him if he had been proved to be in error in supposing that the Gods immediately granted to us whatever we asked: — if, I added, whenever you go up to the Acropolis you earnestly entreat the Gods to grant you good things, although you know not whether they can yield your request, it is as though you went to the doors of the grammarian and begged him, although you had never made a study of the art, to give you a knowledge of grammar which would enable you forthwith to do the business of a grammarian.
 
@@ -200,7 +200,7 @@ SOCRATES: Clearly we have not yet answered the question, What is wealth? That we
 
 ERYXIAS: He would not.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And does not this apply in other cases? If we did not want for the service of the body the things of which we now stand in need, and heat and cold and the other bodily sensations were unperceived by us, there would be no use in this so-called wealth, if no one, that is, had any necessity for those things which now make us wish for wealth in order that we may satisfy the desires and needs of the body in respect of our various wants. And therefore if the possession of wealth is useful in ministering to our bodily wants, and bodily wants were unknown to us, we should not need wealth, and possibly there would be no such thing as wealth.
 
@@ -330,7 +330,7 @@ SOCRATES: Then you think that a man may gain wealth by bad and disgraceful means
 
 CRITIAS: Yes, I do.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But can that which is evil be useful for virtue?
 

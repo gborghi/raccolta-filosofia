@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_campo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El campo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El campo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Si yo alcanzase la edad en que vivan los hijos de mis hijos, como todos los viejos habré de complacerme alguna vez resucitando el buen tiempo fenecido. La vejez, vista desde dentro, consiste en que se van abriendo en el área del alma multitud de escotillones —como ojales inoclusos de llagas que dieron dolores—; por esos escotillones brincan a lo mejor sobre la escena de la memoria reminiscencias caprichosas, que hacen una pirueta o un gesto nervioso y lejano y vuelven a sumirse bajo la tierra mental. Nada se parece menos a la imagen continua y bien ordenada de la historia, como las memorias que hacen los viejos junto al fuego. No tienen recuerdos históricos, sino personales. Tanto les da acordarse de cierto gabán que les abrigó en un invierno apasionado, como de la destrucción de una monarquía.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ideas_políticas_ejercicio_normal_del_parlamento" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ideas políticas: ejercicio normal del Parlamento" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ideas políticas: ejercicio normal del Parlamento" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -48,7 +48,7 @@ El Sol, 28 de junio de 1922
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 He empezado por decir que la opinión despectiva sobre nuestro Parlamento es casi unánime. No me extrañaría, pues, que esta defensa de él se juzgue, al primer pronto, extravagante. Pero es el [caso](/concepts/fortune) que aquella opinión me parece errónea. Las razones en que se funda son, a mi juicio, falsas, o, cuando menos, inexactas. El hecho de que casi todo el mundo las acepte como buenas no es sino un motivo más para que me sienta obligado a pedir la revisión.
 
@@ -72,7 +72,7 @@ La política de la Corona no ha sido, en este punto, muy afortunada. Con la mejo
 
 No creo que decir esto sea disparar ningún terrible dardo contra la Monarquía. Ajeno a la actuación política y hostil a toda demagogia, ni siquiera ideológicamente participo de la confesión antimonárquica. Además, no veo claro que, como suele oírse por ahí, Europa evolucione hacia la República; antes bien vislumbro que, bajo opuestas apariencias, se dirige hacia nuevas formas de Monarquía. Pero ésta es [materia](/positions/materialism) complicada, y ahora sólo me interesa subrayar la intención monárquica con que me atrevo a deslizar un reparo a la política de la Corona.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿En qué ha consistido el error? Reduciendo la respuesta al menor número de palabras, yo partiría de la objeción más repetida, y que se juzga decisiva contra el Parlamento, a saber: que en las Cortes no se puede aprobar una simple ley. Está bien; pero, ¿por qué pasa esto? Porque el Parlamento se compone de grupos inorgánicamente hacinados. ¿Y esto por qué? En todas partes murieron hacia 1900 los grandes partidos. En su lugar se han formado en todas las naciones grandes articulaciones de grupos. En España, no. ¿Por qué? Porque esas articulaciones no se forman en la luna y mediante un ukase, sino en los Parlamentos y merced al ejercicio libre de la vida parlamentaria, pasando por épocas de grandes luchas, apasionamientos y conflictos. La vida es así, y sólo se pare con dolor y entre convulsiones. En España no ha habido nada de esto. ¿Por qué? Fuera del Parlamento, la opinión política es sumamente débil. Más que en parte alguna, el Poder necesita aquí nutrirse del escorzo de opinión pública que forma el Parlamento. La Corona, que cambió de sienes cuando morían en España los viejos partidos, ha creído ver en la crisis fisiológica que atravesaban las Cortes españolas para poder organizar las grandes articulaciones parlamentarias un síntoma patológico. Con excelente deseo e insuficiente paciencia ha querido evitar a la nación los efectos de esas crisis, y ha intervenido instigada por el noble afán de curar lo que juzgaba una enfermedad. Ha disuelto Cortes que no debieron ser disueltas; ha ensayado jefes de Gobierno sin dar tiempo a que madurasen sus poderes parlamentarios; con ello ha contribuido a atomizar las fuerzas políticas y las ha habituado a buscar el Poder exclusivamente en Palacio. Cuando se iniciaba algún debate enérgico, capaz de llegar a alguna conclusión clara, y, por tanto, a una estructuración orgánica de los grupos, ha llamado a sus ministros en uso constitucional y ha elegido otros para que apagasen el germen de incendio. De aquí que en el Parlamento no se haya podido llevar nada a sus naturales y fecundas consecuencias. ¿No es excesivo pedir que un instrumento sometido a tal régimen resulte hoy usadero? La máquina yace desvencijada por error de conducción. Déjesela funcionar dos años seguidos, sin intervenciones forasteras, y se verá cómo, automáticamente, el aparato, volviendo a sus goznes y engranajes, se pone en movimiento. No hará cosas excelsas, pero marchará regularmente. Con los mismos hombres, con los mismos vicios individuales, la institución representativa puede recobrar aquel mínimum de autoridad que el Poder público necesita. Entonces será ocasión para pensar en mayores finuras.
 
@@ -96,7 +96,7 @@ Con esto llegamos a otro de los tópicos antiparlamentarios. Yo niego rotundamen
 
 La concentración liberal-reformista, reunida hace poco en el Palace, hacía al país la misma demanda que yo ahora hago para que se asegure el funcionamiento de las Cortes. El propósito parece digno de todo aplauso. Pero, tal vez, no ha sido certero el giro que se ha dado a su expresión. Porque aquella demanda viene inclusa en un programa donde se solicita la instauración de ciertas formas jurídicas, simplemente porque como formas jurídicas, les parecen preciosas a los concentrados.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Poseen éstos una hipersensibilidad para las formas de Derecho que es muy estimable, pero evidentemente anacrónica. En tiempo de Hegel y más aún en el de Edgard Quinet, comulgaban amplias masas sociales en la fe de que hemos venido al mundo para realizar ciertas formas jurídicas. Se componían filosofías de la historia mostrando la larga y ondulante línea de las aventuras humanas como un proceso progresivo de realización del Derecho. Había entonces en el aire público una voluptuosidad para los formalismos del Corpus Juris, que hoy falta por completo. Estamos en otra edad, y no sobraría que gentes de avance como los concentrados lo advirtiesen. Ya no sienten fruición por las puras formas jurídicas más que los jurisperitos. Es la huella y el hábito de su oficio. ¿No convendría ampliar un poco más el estilo de la concentración a fin de que no lo fuese sólo de abogados?
 

@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/seneca/oedipus" data-philosopher="Seneca"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="OEDIPUS" data-chapter="DRAMATIS PERSONAE" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="OEDIPUS" data-chapter="DRAMATIS PERSONAE" data-kind="intro" data-srclang="en"></span>
 
 OEDIPUS, king of Thebes; the son, as he supposed, of Polybus, king of Corinth, and Merope his wife, but found to be the son of Laïus and Jocasta.
 
@@ -42,7 +42,7 @@ CHORUS of Theban elders.
 
 THE SCENE is laid before the royal palace of Thebes; the play opens in the early morning of the day within which the tragedy is consummated.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
 
 An oracle once came to Laïus, king of Thebes, that he should perish by his own son’s hands. When, therefore, a son was born to him, he gave the infant to his chief shepherd to expose on Mount Cithaeron. But the tender-hearted rustic gave the babe instead to a wandering herdsman of Polybus, the king of Corinth.
 
@@ -52,7 +52,7 @@ Now other years have passed, and sons and daughters have been born to the royal 
 
 OEDIPUS
 
-<span class="atom-split" data-atom="003" data-title="OEDIPUS (1/7)" data-chapter="OEDIPUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="OEDIPUS (1/7)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
 
 [1] Now night is driven away; the hesitant sun returns, and rises, sadly veiling his beams in murky cloud; with woeful flame he brings a light of gloom and will look forth upon our homes stricken with ravening plague, and day will reveal the havoc which night has wrought.
 
@@ -88,7 +88,7 @@ CHORUS
 
 [154] No more do the woods, crowned with their own foliage, shed dusky shadows on the mountain-sides; the fields no more grow green with fertile glebe, no more do the vine’s full branches bend ‘neath the load of its own deity; all things have felt our plague.
 
-<span class="atom-split" data-atom="004" data-title="OEDIPUS (2/7)" data-chapter="OEDIPUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="OEDIPUS (2/7)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
 
 [160] They have burst the bars of abysmal Erebus, the throng of sisters with Tartarean torch, and Phlegethon, changing his own course, has mingled Styx with our Sidonian streams. Dark Death opens wide his greedy, gaping jaws and unfolds all his wings, and the boatman who plies the troubled stream with roomy skiff, tough hardy in his vigorous old age, can scarce draw back his arms wearied with constant poling, worn out with ferrying the fresh throng o’er. Nay more, they say that the dog has burst his chains of Taenarian iron, and is wandering through our fields; that the earth has rumbled; that ghosts go stealing through the groves, larger than mortal forms; that twice have Cadmean forests trembled and shed their snows; twice has Dirce welled up with blood; in the silent night Amphion’s hounds have bayed.
 
@@ -220,7 +220,7 @@ TIRESIAS
 
 MANTO
 
-<span class="atom-split" data-atom="005" data-title="OEDIPUS (3/7)" data-chapter="OEDIPUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="OEDIPUS (3/7)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
 
 [314] Not one appearance only had the changeful flame. As when rain-bringing Iris entwines her various colours, who, over a great space of heaven sweeping, by her painted bow proclaims the storm, so wouldst thou be in doubt what colour is lacking, what is present in the flame; dark-blue, mingled with yellow spots, it hovered, then was blood-red, and at last trailed off in blackness.
 
@@ -296,7 +296,7 @@ CHORUS
 
 [449] Thee, O boy, a Tyrrhenian band once captured and Nereus allayed the swollen sea; the dark blue waters he changed to meadows. Thence flourish the plane-tree with vernal foliage and the laurel-grove dear to Phoebus; the chatter of birds sounds loud through the branches. Fast-growing ivy clings to the oars, and grape-vines twine at the mast-head. On the prow an Idaean lion roars; at the stern crouches a tiger of Ganges. Then the frightened pirates swim in the sea, and plunged in the water their bodies assume new forms: the robbers’ arms first fall away; their breasts smite their bellies and are joined in one; a tiny hand comes down at the side; with curving back they dive into the waves, and with crescent-shaped tail they cleave the sea; and now as curved dolphins they follow the fleeing sails.
 
-<span class="atom-split" data-atom="006" data-title="OEDIPUS (4/7)" data-chapter="OEDIPUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="OEDIPUS (4/7)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
 
 [467] On its rich stream has Lydian Pactolus borne thee, leading along its burning banks the golden waters; the Massgetan who mingles blood with milk in his goblets has unstrung his vanquished bow and given up his Getan arrows; the realms of axe-wielding Lycurgus have felt the dominion of Bacchus; the fierce lands of the Zalaces have felt it, and those wandering tribes whom neighbouring Boreas smites, and the nations which Maeotis’ cold water washes, and they on whom the Arcadian constellation looks down from the zenith and the wagons twain. He has subdued the scattered Gelonians; he has wrested their arms form the warrior maidens; with downcast face they fell to earth, those Thermodontian hordes, gave up at length their light arrows, and became maenads. Sacred Cithaeron has flowed with the blood of Ophionian slaughter; the Proetides fled to the woods, and Argos, in his stepdame’s very presence, paid homage to Bacchus.
 
@@ -378,7 +378,7 @@ CREON
 
 [598] Straightway, like clouds, the shadowy forms flit forth and snuff the air of open heaven. Not as many falling leaves does Eryx show; nor does Hybla in mid-spring as many flowers produce, when in close masses cling the swarming bees; as many waves break not on the Ionian sea; as many birds, fleeing cold Strymon’s threats, leave not the wintry land and, cleaving the sky, change Arctic snows for the warm valley of the Nile; as were the throngs which the priest’s call summoned forth. Eagerly the shivering ghosts seek the shelter of the shady grove. First from the gound, his right hand grasping a wild bull by the horns, Zethus emerges, and Amphion, in his left holding the shell which by its sweet music drew the rocks. And midst her children Tantalis, at last safe in her pride, holds up her head with insolent arrogance, and numbers o’er her shades. A mother worse than she, Agave comes, still raging; her the whole band follows who rent their king in pieces, and after the Bacchanals mangled Pentheus comes, even now savage and holding to his threats.
 
-<span class="atom-split" data-atom="007" data-title="OEDIPUS (5/7)" data-chapter="OEDIPUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="OEDIPUS (5/7)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
 
 [619] At length, when often called, one lifts his shame-stricken head and, shrinking afar from all the throng, seeks to hide himself. The seer presses hard after him and redoubles his Stygian prayers, until he bring out to open view the features that fain would hide – Laïus! I shudder as I tell it. There he stood, a sight of horror, his limbs streaming o’er with blood, his ragged locks matted with foul filth; and with raving lips he spoke: “O savage house of Cadmus, rejoicing even in kindred blood, brandish the thyrsus, with frenzied hands rend thy sons – ‘twere better so; for Thebes’ crowning crime is – the love of mother. O fatherland, not by the wrath of Heaven, but by sin art thou despoiled. ’Tis not the plague-fraught south wind with its destructive blast, nor yet the earth, too little watered by the rain from heaven, that with its dry breath is harming thee; but thy blood-stained king, who as the price of cruel murder has seized the sceptre and the incestuous chamber of his sire, detested son! – but worse the mother than the son, again pregnant in her unhallowed womb; and to his own origin he returned and brought his mother impious progeny, and (a thing the beasts scarce do) himself begot brothers to himself – entanglement of evil, a monster more confused than his own Sphinx. Thee, thee, who in thy blood-stained hand dost hold the sceptre, thee and thy whole city will I, thy father, still unavenged, pursue; and with me Erinys as bridesmaid of thy nuptials will I bring, yea, I will bring her sounding with her lash; thine incestuous house will I overturn and thy household with unnatural strife will I destroy.
 
@@ -490,7 +490,7 @@ OEDIPUS
 
 JOCASTA
 
-<span class="atom-split" data-atom="008" data-title="OEDIPUS (6/7)" data-chapter="OEDIPUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="OEDIPUS (6/7)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
 
 [778] The most mistook the uncertain path and strayed; a few by faithful toil kept near his car.
 
@@ -754,7 +754,7 @@ MESSENGER
 
 [926] “Why do I delay punishment?” he cries; “let someone with the sword assail this guilty breast, or overwhelm me with burning fire or stones. What tigress, what ravening bird will pounce upon my vitals? Do thou thyself, thou all-holding haunt of crime, O curst Cithaeron, send thy wild beasts against me from thy forests, send thy maddened dogs – once more send Agave. O soul, why shrinkst from death? ’Tis death alone saves innocence from fortune.”
 
-<span class="atom-split" data-atom="009" data-title="OEDIPUS (7/7)" data-chapter="OEDIPUS" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="OEDIPUS (7/7)" data-chapter="OEDIPUS" data-kind="atom" data-srclang="en"></span>
 
 [935] With this he lays impious hand on hilt and draws his sword. “So then? With brief suffering like this canst atone for so great crimes, and with one blow wilt pay all debts? Thy death – for thy father ’tis enough; what then to thy mother, what to thy children shamefully begot, what to her who with utter ruin is atoning for thy crime, thy mourning country, wilt thou give? Thou canst not pay! Let that same Nature who in Oedipus alone reverses established laws, devising strange births, be changed anew for my punishment. Be it thine to live again, to die again, ever to be reborn, that at each birth thou mayst pay new penalties. Now use thy wit, poor wretch; let that which may not oft befall, befall thee long – choose thou a lasting death. Search out a way whereon to wander, not mingling with the dead and yet removed from the living; die thou, but reaching not thy sire. Dost hesitate, O soul?”
 

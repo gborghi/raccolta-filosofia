@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/tartufo_y_compañía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Tartufo y compañía" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Tartufo y compañía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Con tanta mansedumbre como dolor asistimos desde hace unas semanas al desarrollo de la política patria. Dos años ha se formó un nudo en las entrañas del Estado español, y nuestros esfuerzos han ido encaminados durante todo ese tiempo a intentar deshacerlo por otros procedimientos que no fueran el cólico miserere. La [fortuna](/concepts/fortune) labora en contra nuestra, y hoy, al cabo de cien previsiones y bien intencionados avisos, vemos desesperanzados que media España se apresta a venir a las manos con la otra media. Porque de esto andamos cerca, no haya duda.
 
@@ -46,7 +46,7 @@ Si hubiera espacio vendría a pelo contar ahora la crisis del papelito. El héro
 
 Verdad es que la Monarquía ha usado con todos sus hombres, uno tras otro, del mismo trato. Primero los acercó a su seno y luego los aniquiló con su desdén. Así fue con Moret y luego con Maura; así, en varia medida y sucesivamente, con los cabecillas liberales; así, en fin, con el señor Dato. Ahora, recorridos todos, el ciclo se renueva y vemos al señor Maura, antaño expulsado, que ahora vuelve a la privanza, y que se entregan actas y se envía a los gobiernos de provincias a los jóvenes mauristas que hace año y medio, y no más, practicaban en su Círculo de la Carrera ejercicios iconoclastas. En verdad que la Corona ha rizado el rizo de los amores y los desdenes.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 «Somos monárquicos sin vocación de guardias de corps», decíamos en nuestro programa de nacimiento. No extrañe, pues, que expresemos nuestra leal convicción patriótica con franqueza de viejos castellanos. Estos días hay en torno a Palacio una condensación de tartuferías y se llevan allá muchas palabras de vil adulación por gentes a quienes no interesa el mañana de la Monarquía con tal de que hoy se les deje gozar mando y cordón.
 

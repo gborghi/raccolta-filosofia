@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/corte_y_cortesía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Corte y cortesía" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Corte y cortesía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Tres días ya sin solución para la crisis política. Y a medida que pasa el tiempo, el conflicto se agrava, los ánimos vibran más enconados y las pasiones se enardecen. Buena prueba de ello, la nota que ayer dieron a la Prensa las izquierdas y la declaración de los ex ministros conservadores frente a los ensayos de solución que realiza, sin éxito alguno, el señor Maura. El ambiente es hoy más duro que hace tres días; hasta el aire parece haberse tornado más agresivo. Vean los privados de Palacio cuáles son los frutos que han logrado para la Corona en tres días de crisis.
 

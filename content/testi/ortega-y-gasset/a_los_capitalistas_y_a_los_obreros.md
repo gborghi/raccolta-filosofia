@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/a_los_capitalistas_y_a_los_obreros" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="A los capitalistas y a los obreros" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="A los capitalistas y a los obreros" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Es preciso, pues, como sugería, según he visto ayer en un periódico, uno de vuestros compañeros, Teodomiro Menéndez, a quien, desgraciadamente, no conozco en persona y que figura en esa ejemplar, generosa anonimidad que formáis los diputados socialistas, es menester tranquilizar al capitalista, diciéndole seriamente que si se va a mermar una porción de su haber, le queda el resto para movilizarlo con acierto; y además, si añade a ello el esfuerzo suyo de empresario, podrá tener un porvenir mucho más lucido y ágil que el que ha tenido en las economías pasadas, sobre todo en esa lamentable economía monárquica, que por la caprichosidad y variación de los tributos, por el vaivén de las Ordenanzas, no consentía continuidad de empresa alguna.
 

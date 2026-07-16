@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/socialización_del_hombre" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Socialización del hombre" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Socialización del hombre" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Desde mediados del siglo último se advierte en Europa una progresiva publicación de la vida. En los últimos años ha avanzado vertiginosamente. La existencia privada, oculta o solitaria, cerrada al público, al gentío, a los demás, va siendo cada vez más difícil.
 

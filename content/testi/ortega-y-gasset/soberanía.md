@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/soberanía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Soberanía" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Soberanía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 IV. Concepto de la soberanía, según el señor Maura.— Soberanía no quiere decir libre albedrío: en tal sentido todos somos soberanos. No es un acto soberano «que el Municipio acuerde que la acera tenga dos metros».
 

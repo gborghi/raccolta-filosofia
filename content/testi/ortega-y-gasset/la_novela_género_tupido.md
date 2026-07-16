@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_novela_género_tupido" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La novela, género tupido" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La novela, género tupido" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Lo que he llamado carácter hermético de la novela se hace patente si comparamos a ésta con el género lírico. Gozamos del lírico milagro viéndolo emerger sobre el fondo de la realidad como el surtidor artificioso sobre el paisaje en torno. El lirismo nace para ser visto desde fuera como la estatua, como el templo de Grecia. No entra en colisión con nuestra realidad, o, mejor dicho, adquiere su gracia peculiar al aparecer contrapuesto a ella, instalando en medio de ella con olímpica inocencia la desnudez de su irrealidad. En cambio, la novela está destinada a ser vista desde su propio interior, que es lo que acontece también con el mundo verdadero, del cual, por inexorable prescripción metafísica, es centro cada individuo en cada momento de su vida. Para gozar novelescamente tenemos que sentirnos rodeados de novela por todas partes, y no cabe situar ésta como un objeto que destaca, más o menos, entre los demás. Precisamente al ser un género «realista» por excelencia resulta incompatible con la realidad exterior. Para evocar la suya interna necesita desalojar y abolir la circundante.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/organización_de_la_decencia_nacional" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Organización de la decencia nacional" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Organización de la decencia nacional" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La gallina pone el huevo; pero el huevo puso a la gallina. Es el círculo paradójico e inexorable en que está encerrada la legalidad. Una situación legal sólo puede nacer de una situación legal. La legalidad exige su propia continuidad. Por eso cuando el chico del pueblo rompe los huevos trastorna todo el corral, y luego es una historia reparar el estropicio.
 
@@ -50,7 +50,7 @@ En el frontis de la ley fundamental de 1876 se proclaman ciertas garantías; per
 
 Aunque parezca increíble, la grande y urgente tarea que hoy tienen los españoles inmediatamente ante sí consiste en la nacionalización del Estado español. Lo demás, o es inane, o supone la resolución previa de esa tarea. Por eso fuera preciso compaginar un enorme partido nacionalizador, por encima de «derechas» e «izquierdas», que son garambainas impropias de la crítica altura en que se encuentra el sino europeo. Un enorme partido arrollador, tan grande y tan sin manías, que casi no pudiese llamársele partido. Y ya que el uso del idioma imponga este nombre, que pudiese llamarse nacional.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Un partido nacional es un partido hacia dentro de la nación, y, por tanto, excluye el nacionalismo que implica un frente a y un contra de otras naciones. En Europa carece hoy de sentido el nacionalismo. Por la sencilla razón de que no es posible un nacionalismo sin agresión e imperialismo, sin batallas y sin conquistas —por eso el gran nacionalista Napoleón fue el mayor imperialista. Por eso el fascismo inevitablemente fracasará, cualesquiera sean o fueren sus otros aciertos y oportunidades, que yo aquí no discuto ni ligeramente sentencio. Lo que digo es que en Europa un nacionalismo de 1930 será inevitablemente la política del cuadrado redondo.
 

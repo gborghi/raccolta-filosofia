@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/en_el_desierto_un_león_más" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="En el desierto, un león más" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="En el desierto, un león más" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En abril último apareció en algunos periódicos la noticia. La Esfinge, por fin, se había desperezado, sacudiendo el enterramiento en la arena donde había permanecido quieta durante milenios. La obra enorme se debe a la Dirección de Arqueología del Estado egipcio, y ha sido dirigida por Baraize. Durante cinco meses —de octubre 1925 a 1 de marzo 1926— han trabajado 1.100 obreros en el desplazamiento de 50.000 metros cúbicos de arena desértica. Al remover el desierto se ha dado con un ejemplar de su fauna normal: ha aparecido entero el león, de quien sólo conocíamos la testa antropomorfa emergiendo curiosa y sonriente, excesiva y rosada, junto a las pirámides. Era aquel paisaje el más viejo que conservaba la retina humana; ya recuerdan ustedes aquel paisaje de Gizeh donde iban en asnos las inglesas victorianas con un salakof en la cabeza, y en el salakof un largo velo verde. Aquel paisaje tan antiguo —cabeza hierática de esfinge, pirámides en fila— era un paisaje cubista.
 

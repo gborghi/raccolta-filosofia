@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/intermedio_de_las_siluetas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Intermedio de las siluetas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Intermedio de las siluetas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cada hora trae su luz y cada luz —como un poeta— crea de nuevo las cosas todas a su manera. Gracias a esto, el mundo, que es ya tan rico en formas estáticas, aumenta indefinidamente su contenido. Así el Monasterio de El Escorial no es uno solo: salvo las del centro de la noche, tardas, inútiles horas inertes, cada hora somete nuestra gran piedra lírica a una nueva interpretación, la transfigura, produciéndose una muchedumbre de monasterios sucesivos que podemos acumular en nuestra sensibilidad. Eran en otro tiempo las horas danzarinas que, como dice el clásico, cogidas de la mano golpeaban la tierra con pie alterno. Ahora se han convertido a la literatura. Cada cual cultiva un género literario, y esta primera hora nocturna propende a la comedia.
 

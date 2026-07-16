@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/del_horror_al_libro" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Del horror al libro" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Del horror al libro" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En una reciente conversación de Barcelona, que ha divulgado El Sol, se queja Pío Baroja de que en España y la América española no se venden apenas libros. El hecho es conocido, ilustre y posee toda la dignidad de una tradición. Sin embargo, conviene hacerlo constar periódicamente para que no nos hagamos ilusiones los que vivimos dedicados a poner negro sobre blanco. En cuanto deja de repetirse la advertencia se forma por generación espontánea la conseja de que en España, y sobre todo en América, ha aumentado mucho el consumo literario. Escritores y editores movilizan entonces nuevas flotillas hacia el supuesto Eldorado, y los mejores afanes, los mayores esfuerzos, sirven sólo para organizar naufragios.
 

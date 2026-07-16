@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/más_acción_nacional_que_fórmulas_políticas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Más acción nacional que fórmulas políticas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Más acción nacional que fórmulas políticas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cualquiera que sea el contenido particular de nuestro programa, sé de antemano que se caracterizará por exigir con el mismo vigor estas dos cualidades: justicia y eficacia. Mirad cómo en toda Europa comienzan nuevos fervores de luchas liberales, y mirad cómo no encienden esa pasionalidad política modernísima, utopías más o menos remozadas, sino el ideal de la eficacia.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/resumen_de_una_historia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Resumen de una historia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Resumen de una historia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Con la promulgación de la amnistía y la llegada a Madrid del Comité de huelga, es de esperar que quede cerrado el circuito abierto en agosto último. Al menos, para un observador de hechos sociales se ofrece ya concluso y terminado, y sugiere fértiles meditaciones.
 

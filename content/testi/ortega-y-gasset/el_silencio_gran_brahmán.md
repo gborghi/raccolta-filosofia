@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_silencio_gran_brahmán" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El silencio, gran brahmán" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El silencio, gran brahmán" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -44,7 +44,7 @@ Y, en efecto, nuestro saber de lo humano hinche y perhinche una enorme porción 
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La censura que automáticamente ejercemos sobre nuestra mejor sabiduría, sobre nuestro saber del prójimo, le impide llegar a su perfección. La imposibilidad de comunicarlo hace que al recibir una «impresión» del prójimo no nos esforcemos en formularla. Queda así tosca e impoluta. La expresión verbal, aunque sólo sea la endofasia, o hablar interno, precisa y purifica todo saber primario e inexpreso. Sobre todo, es condición para que pueda ser luego sometido a las grandes elaboraciones, sin las cuales no alcanza ningún saber su plenitud. La principal entre estas elaboraciones es la sistematización. Calcúlese a qué punto llegaría nuestro conocimiento del prójimo si no nos contentásemos con esas «impresiones» que de él recibimos, sino que, reobrando sobre ellas, las investigásemos con orden, continuidad y método. Toda esta perfección de nuestra sabiduría «humana» queda fallida por la censura que sobre ella practicamos.
 
@@ -64,7 +64,7 @@ Pero sea una u otra la porción de este saber que nos haya sido concedida, da pe
 
 Esta liberación de nuestra sabiduría reprimida traería grandes ventajas. He aquí una de ellas. El conocimiento que tenemos del prójimo incluye el conocimiento que tenemos de la idea que él se ha formado de nosotros. Sí, amigo mío; yo puedo decirle a usted, no sólo cómo es usted por dentro, sino también cómo me ve usted a mí, cuál es la proyección o refracción que en el medio de su alma da mi persona. Sabemos según qué leyes nuestra figura se deforma en los demás. Mi definición de usted, difícilmente le parecerá a usted acertada; pero si le descubro la idea que de mí tiene se sorprenderá usted como tomado in fraganti. Entonces caerá usted en la cuenta de que, en efecto, somos transparentes los unos a los otros. Y ésta es una averiguación de que yo espero mucho como medio educativo del hombre. Porque la mayor parte de nuestros defectos se nutre de que la persona se cree inasequible en el secreto de su intimidad, se presume opaca y usa de su cuerpo como de un disfraz para ocultar su interior, su auténtico ser. ¡Como si esto fuera posible! ¡Cuántas veces diríamos al prójimo!: «¿Por qué hace usted este vano gesto de vanidad, si yo estoy viendo que es de vanidad, que usted no está convencido de ser un genio, sino, al revés, me hace usted un gesto de genio para que yo me convenza de que lo es usted y luego yo transmita a usted mi convencimiento?» ¡Por ejemplo, el autor de cualquier «contribución científica» me asegura que su obra ha causado profunda emoción en el extranjero! ¿Por qué el pobre hombre no advierte cómo yo veo perfectamente que él no cree lo que dice, y que me lo dice para que yo lo crea y, al creerlo yo, se lo diga a él, e intentar de este modo creerse lo que yo le digo?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Todas las estulticias y torpezas que casi todas las gentes padecen, y que se alimentan de la supuesta intransparencia de la persona, acabarían de una vez para siempre. La mayor parte de los errores que cometemos se originan en la ignorancia de cuál es nuestro puesto en la estimación pública. De hecho sabemos siempre muy bien cuál nos corresponde: la conciencia no falla nunca con su voz subterránea. Pero creemos que los demás no lo saben y que podemos engañarles fingiendo tener un puesto más elevado que el oportuno. Y como los demás no nos dicen nada, juzgamos que aceptan la valoración que de nosotros mismos hemos decretado.
 

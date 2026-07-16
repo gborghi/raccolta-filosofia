@@ -1111,10 +1111,16 @@ ul.tags {
 .ar-crumb { font-size: .82rem; color: var(--darkgray); }
 .ar-crumb b { color: var(--secondary); }
 .ar-crumb .ar-count { color: var(--gray); font-variant-numeric: tabular-nums; margin-left: .5rem; font-size: .78rem; }
-.ar-lang { display: inline-flex; border: 1px solid var(--lightgray); border-radius: 999px; overflow: hidden; }
+// Selettore di lingua: 2 o 3 bottoni in un gruppo a pillola. Palette dedicata
+// (#D90000 rosso, #FFEA93 giallo pallido, #8DB355 verde, #000000 nero); l'attivo
+// e' nettamente distinto (rosso pieno su giallo), l'hover verde tenue.
+.ar-lang { display: inline-flex; border: 1px solid #000000; border-radius: 999px; overflow: hidden; }
 .ar-lang button { font: inherit; font-weight: 600; font-size: .78rem; border: 0; background: transparent;
-  color: var(--darkgray); padding: .25rem .7rem; cursor: pointer; }
-.ar-lang button.active { background: var(--secondary); color: var(--light); }
+  color: #000000; padding: .25rem .7rem; cursor: pointer; }
+.ar-lang button + button { border-left: 1px solid #000000; }
+.ar-lang button:hover { background: #8DB355; color: #000000; }
+.ar-lang button.active { background: #D90000; color: #FFEA93; }
+.ar-lang button.active:hover { background: #D90000; color: #FFEA93; }
 .ar-pager { display: inline-flex; gap: .3rem; }
 .ar-pager button, .ar-tocbtn {
   font: inherit; border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);

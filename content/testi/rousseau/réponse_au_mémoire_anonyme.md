@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/réponse_au_mémoire_anonyme" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="RÉPONSE AU MÉMOIRE ANONYME" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="RÉPONSE AU MÉMOIRE ANONYME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Monsieur,
 
@@ -36,7 +36,7 @@ Que pourrait-on répondre à de si fortes instances ? Je n'en sais rien du tout.
 
 Mais ne chicanons point ; je veux accorder votre premier argument. Vous avez démontré que la superficie de la mer, et par conséquent celle de la terre, doit être sphérique ; si, par l'expérience, je démontrais qu'elle ne l'est point, tout votre raisonnement pourrait-il détruire la force de ma conséquence ? Supposons pour un moment que cent épreuves exactes et réitérées vinssent à nous convaincre qu'un degré de latitude a constamment plus de longueur à mesure qu'on approche de l'équateur, serais-je moins en droit d'en conclure à mon tour, Donc la terre est effectivement plus courbée vers les pôles que vers l'équateur ; donc elle s'allonge en ce sens-là ; donc c'est un sphéroïde ? Ma démonstration, fondée sur les opérations les plus fidèles de la géométrie, serait-elle moins évidente que la vôtre établie sur un principe universellement accordé ? Où les faits parlent, n'est-ce pas au raisonnement à se taire ? Or, c'est pour constater le fait en question que plusieurs membres de l'académie ont entrepris les voyages du Nord et du Pérou : c'est donc à l'académie à en décider, et votre argument n'aura point de force contre sa décision.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Pour éluder d'avance une conclusion dont vous sentez la nécessité, vous tâchez de jeter de l'incertitude sur les opérations faites en divers lieux et à plusieurs reprises par MM. Picart, de La Hire et Cassini, pour tracer la fameuse méridienne qui traverse la France, lesquelles donnèrent lieu à M. Cassini de soupçonner le premier de l'irrégularité dans la rondeur du globe, quand il se fut assuré que les degrés mesurés vers le septentrion avaient quelque longueur de moins que ceux qui s'avançaient vers le Midi.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/maximus_in_minimis" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Maximus in minimis" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Maximus in minimis" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En Azorín no hay nada solemne, majestuoso, altisonante. Su arte se insinúa hasta aquel estrato profundo de nuestro ánimo donde habitan estas menudas emociones tornasoladas. No le interesan las grandes líneas que, mirada la trayectoria del hombre en sintética visión, se desarrollan serenas, simples y magníficas, como el perfil de una serranía. Es todo lo contrario de un «filósofo de la historia». Por una genial inversión de la perspectiva, lo minúsculo, lo atómico, ocupa el primer rango en su panorama, y lo grande, lo monumental, queda reducido a un breve ornamento.
 

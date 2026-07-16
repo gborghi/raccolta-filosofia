@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/una_fiesta_de_paz" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Una fiesta de paz" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Una fiesta de paz" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hay un gran dolor sobre España. Ese dolor habrá de recogerse, sin que se pierda una gota, piadosamente en los corazones fieles, puros y orientados hacia un porvenir inequívoco de precisión y de energía. La inquietud y las emociones interinas pasarán dejando una huella luminosa de serenidad y de severidad. Llegará la sazón para el juicio libre y claro. Entretanto, hablemos de una gran fiesta de paz que celebra Alemania estos días con motivo del quinto centenario de la Universidad de Leipzig.
 

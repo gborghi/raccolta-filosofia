@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nuevo_libro_de_azorín" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nuevo libro de Azorín" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nuevo libro de Azorín" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Uno de los libros mejores que yo he leído en castellano es éste que Azorín publica llamándole Lecturas españolas. El volumen se presenta con un talle tan elegante, tan sobrio, que antes de comenzar a leerlo se siente uno invitado al recogimiento. Conforme vamos leyendo advertimos que el autor no emplea expresiones excesivas, frases gruesas y contundentes para dar patencia a su intención. Esto me parece tan grato como ejemplar. En la hora de ahora mueven las plumas gentes mejor dotadas de fuerza física que de inspiración. Todo se dice a garrotazos y se corta de los fresnos de la literatura. Ahora bien, las cosas son difíciles, las cosas son fugaces y no se dejan tratar con turbulencia, ni a grandes voces ante la muchedumbre triunfante, la de arriba, la de los ricos o simplemente soberbios, la que ocupa los altos oficios de la vida nacional, la que cree saber y no sabe en política, en ciencia, en arte.
 
@@ -48,7 +48,7 @@ Del mismo modo escribía hace pocos días la más alta autoridad en la filologí
 
 Así acontece con todas las cosas, sean materiales, sean espirituales: cada cual tiene un lado débil, y sólo uno, por el cual puede ser aprehendida intelectualmente y reducida a la domesticidad científica. Dar con este secreto es la verdadera ciencia, aunque los gestos y la forma en que se descubra parezcan frívolos y ligeros.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La historia de España, según todos reconocen y yo he oído a los maestros de ella, no ha llegado aún a ese estadio. Salvo en cuestiones parciales de derecho y de lingüística, es el pasado de España tierra incógnita, de topografía insospechada. No obstante, se ha acumulado, libro sobre libro, una gran biblioteca de historiografía nacional. En general, las obras que la componen se hallan totalmente remotas del carácter científico. Padecen una noción de la historia sobremanera anticuada: entienden la historia como panegírico. Sus autores han sido llevados a tan ímproba y benemérita labor por un heroico amor a la patria. ¡Cosa más triste! No han conseguido su propósito. Y es que para construir la historia de España es más conveniente un amor a España modesto y sin pretensiones, y luego un heroico amor a la ciencia histórica. ¿Quiere decírsenos, en otro [caso](/concepts/fortune), qué se le había perdido a Mommsen en Roma?
 

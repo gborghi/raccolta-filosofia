@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_genio_de_la_guerra_y_la_guerra_alemana" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El genio de la guerra y la guerra alemana" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El genio de la guerra y la guerra alemana" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 (Der Genius des Krieges und der deutsche Krieg, por Max Scheler, 1915)
 

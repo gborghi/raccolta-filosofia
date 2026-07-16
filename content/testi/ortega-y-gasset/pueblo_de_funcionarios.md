@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pueblo_de_funcionarios" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Pueblo de funcionarios" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Pueblo de funcionarios" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No ha existido nunca una sociedad que sea más pura y exclusivamente un Estado que en Egipto. Concluye por absorber el país entero. En el nuevo Imperio es propietario único de todo el territorio, que arrienda en parcelas al 20 por 100. Todo llevaba a hipertrofia del Estado. La condición externa de la vida egipcia —la agricultura en terreno de inundaciones periódicas— equivalía a un mandamiento hacia la más amplia organización política; la condición interna, el módulo psicológico, era, por su falta de individuación, una tendencia nativa y como preestablecida a lo mismo.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_el_santo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre El Santo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre El Santo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Clerici sunt infructuosi et laici fructuosi.
 
@@ -46,7 +46,7 @@ Mediante el origenismo, los reformistas ejercitan la virtud moderna de la veraci
 
 «El tercer espíritu maligno que corrompe la Iglesia —dice el santo al propio Papa— es el espíritu de avaricia… El Vicario de Cristo vive en esta magnificencia, como vivió en su arzobispado con un corazón puro de pobre. Muchos Pastores venerandos viven en la Iglesia con igual corazón; pero el espíritu de pobreza no es bastante enseñado como lo enseñó Cristo; los labios de los ministros de Cristo son con demasiada frecuencia complacientes con la codicia de los avaros… El espíritu me obliga a decir más. No es obra de un día; pero prepárese este día y no se deje tal misión a los enemigos de Dios y de la Iglesia; prepárese el día en el cual los sacerdotes de Cristo den ejemplo de pobreza efectiva, vivan pobres por obligación, como por obligación viven castos».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Éste es el franciscanismo, reforma de la práctica evangélica, como el otro momento llevaba a la reforma de la teoría dogmática. Taxativamente lo declara otro personaje: «Los tiempos, señores, piden una acción franciscana. Pero yo no veo señal de ella. Veo a las antiguas órdenes religiosas que ya no tienen fuerza para obrar sobre la sociedad. Veo una democracia cristiana, administrativa y política que no tiene el espíritu de San Francisco, que no ama la santa Pobreza. Veo una sociedad de estudios franciscanos ¡juguetes intelectuales! Yo desearía que se suscitase una acción franciscana. ¡Si se quiere, una reforma católica!»
 
@@ -74,7 +74,7 @@ Y ahora os pregunto: ¿qué otra cosa es la cultura sino la labor paulatina de l
 
 —Bien, don Rubín —dijo entonces Juan Esturión—; pero la cultura, la solución de un problema es, ante todo y sobre todo, una actividad científica. Sostiene usted, por lo tanto, que la ciencia nace de la emoción religiosa, y aunque esto parece muy exacto, me ocurre preguntar: ¿cómo explica usted esta disensión casi incesante entre la religión y la ciencia? Ya veo que usted distingue entre religión y sentimiento religioso: mas en todo [caso](/concepts/fortune), serán ciencia y religión dos hermanas concebidas en aquella matriz original del respeto. ¿Cómo es posible que sean enemigas?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 —Ahí tienes, hermano Esturión —repuso el místico español—, lo que ha dado interés supremo a la algarada modernista: la cuestión de las relaciones entre la fe y la ciencia, querella eterna y brava, en que todos debemos tomar posiciones, porque anda en el juego la suerte de la cultura y el porvenir del respeto.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/meditaciones_del_quijote" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="MEDITACIONES DEL QUIJOTE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="MEDITACIONES DEL QUIJOTE" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 LECTOR…
 
@@ -58,7 +58,7 @@ Llámase en un diálogo platónico a este afán de comprensión ἐρωτικὴ
 
 Nada que de éste provenga puede sernos simpático. El rencor es una emanación de la conciencia de inferioridad. Es la supresión imaginaria de quien no podemos con nuestras propias fuerzas realmente suprimir. Lleva en nuestra fantasía aquél por quien sentimos rencor, el aspecto lívido de un cadáver; lo hemos matado, aniquilado, con la intención. Y luego, al hallarlo en la realidad firme y tranquilo, nos parece un muerto indócil, más fuerte que nuestros poderes, cuya existencia significa la burla personificada, el desdén viviente hacia nuestra débil condición.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Una manera más sabia de esta muerte anticipada que da a su enemigo el rencoroso, consiste en dejarse penetrar de un dogma moral, donde, alcoholizados por cierta ficción de heroísmo, lleguemos a creer que el enemigo no tiene ni un adarme de razón ni una tilde de derecho. Conocido y simbólico es el [caso](/concepts/fortune) de aquella batalla contra los marcomanos en que echó Marco Aurelio por delante de sus soldados los leones del circo. Los enemigos retrocedieron espantados. Pero su caudillo, dando una gran voz, les dijo: «¡No temáis! ¡Son perros romanos!» Aquietados, los temerosos se revolvieron en victoriosa embestida. El amor combate también, no vegeta en la paz turbia de los compromisos; pero combate a los leones como leones y sólo llama perros a los que lo son.
 
@@ -86,7 +86,7 @@ El placer sexual parece consistir en una súbita descarga de energía nerviosa. 
 
 ESTAS Meditaciones, exentas de erudición —aun en el buen sentido que pudiera dejarse a la palabra—, van empujadas por filosóficos deseos. Sin embargo, yo agradecería al lector que no entrara en su lectura con demasiadas exigencias. No son filosofía, que es ciencia. Son simplemente unos ensayos. Y el ensayo es la ciencia, menos la prueba explícita. Para el escritor hay una cuestión de honor intelectual en no escribir nada susceptible de prueba sin poseer antes ésta. Pero le es lícito borrar de su obra toda apariencia apodíctica, dejando las comprobaciones meramente indicadas en elipse, de modo que quien las necesite pueda encontrarlas y no estorben, por otra parte, la expansión del íntimo calor con que los pensamientos fueron pensados. Aun los libros de intención exclusivamente científica comienzan a escribirse en estilo menos didáctico y de remediavagos; se suprime en lo posible las notas al pie, y el rígido aparato mecánico de la prueba es disuelto en una elocución más orgánica, movida y personal.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Con mayor razón habrá de hacerse así en ensayos de este género, donde las doctrinas, bien que convicciones científicas para el autor, no pretenden ser recibidas por el lector como verdades. Yo sólo ofrezco modi res considerandi, posibles maneras nuevas de mirar las cosas. Invito al lector a que las ensaye por sí mismo; que experimente si, en efecto, proporcionan visiones fecundas; él, pues, en virtud de su íntima y leal experiencia, probará su verdad o su error.
 
@@ -130,7 +130,7 @@ Ahora bien; la perspectiva se perfecciona por la multiplicación de sus término
 
 Hemos de buscar para nuestra circunstancia, tal y como ella es, precisamente en lo que tiene de limitación, de peculiaridad, el lugar acertado en la inmensa perspectiva del mundo. No detenernos perpetuamente en éxtasis ante los valores hieráticos, sino conquistar a nuestra vida individual el puesto oportuno entre ellos. En suma: la reabsorción de la circunstancia es el destino concreto del hombre.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Mi salida natural hacia el universo se abre por los puertos del Guadarrama o el campo de Ontígola. Este sector de realidad circunstante forma la otra mitad de mi persona: sólo al través de él puedo integrarme y ser plenamente yo mismo. La ciencia biológica más reciente estudia el organismo vivo como una unidad compuesta del cuerpo y su medio particular: de modo que el proceso vital no consiste sólo en una adaptación del cuerpo a su medio, sino también en la adaptación del medio a su cuerpo. La mano procura amoldarse al objeto material a fin de apresarlo bien; pero, a la vez, cada objeto material oculta una previa afinidad con una mano determinada.
 
@@ -164,7 +164,7 @@ Por cierto que, tanto en este ensayo sobre Baroja, como en los que se dedican a 
 
 Veo en la crítica un fervoroso esfuerzo para potenciar la obra elegida. Todo lo contrario, pues, de lo que hace Sainte-Beuve cuando nos lleva de la obra al autor, y luego pulveriza a éste con una llovizna de anécdotas. La crítica no es biografía ni se justifica como labor independiente, si no se propone completar la obra. Esto quiere decir, por lo pronto, que el crítico ha de introducir en su trabajo todos aquellos utensilios sentimentales e ideológicos merced a los cuales puede el lector medio recibir la impresión más intensa y clara de la obra que sea posible. Procede orientar la crítica en un sentido afirmativo y dirigirla, más que a corregir al autor, a dotar al lector de un órgano visual más perfecto. La obra se completa completando su lectura.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Así, por un estudio crítico sobre Pío Baroja, entiendo el conjunto de puntos de vista desde los cuales sus libros adquieren una significación potenciada. No extrañe, pues, que se hable poco del autor y aun de los detalles de su producción; se trata precisamente de reunir todo aquello que no está en él, pero que lo completa, de proporcionarle la atmósfera más favorable.
 
@@ -222,7 +222,7 @@ Tengo yo ahora en torno mío hasta dos docenas de robles graves y de fresnos gen
 
 Yo puedo ahora levantarme y tomar uno de estos vagos senderos por donde veo cruzar a los mirlos. Los árboles que antes veía serán substituidos por otros análogos. Se irá el bosque descomponiendo, desgranando en una serie de trozos sucesivamente visibles. Pero nunca lo hallaré allí donde me encuentre. El bosque huye de los ojos.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Cuando llegamos a uno de estos breves claros que deja la verdura, nos parece que había allí un hombre sentado sobre una piedra, los codos en las rodillas, las palmas en las sienes, y que, precisamente cuando íbamos a llegar, se ha levantado y se ha ido. Sospechamos que este hombre, dando un breve rodeo, ha ido a colocarse en la misma postura no lejos de nosotros. Si cedemos al deseo de sorprenderle —a ese poder de atracción que ejerce el centro de los bosques sobre quien en ellos penetra—, la escena se repetirá indefinidamente.
 
@@ -268,7 +268,7 @@ Este agua que corre a mis pies hace una blanda quejumbre al tropezar con las gui
 
 Tengo ahora delante de mí estos dos sonidos: pero no están ellos solos. Son meramente líneas o puntos de sonoridad que destacan por su genuina plenitud y su peculiar brillo sobre una muchedumbre de otros rumores y sones con ellos entretejidos.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Si del canto de la oropéndola posada sobre mi cabeza y del son del agua que fluye a mis pies hago resbalar la atención a otros sonidos, me encuentro de nuevo con un canto de oropéndola y un rumorear de agua que se afana en su áspero cauce. Pero ¿qué acontece a estos nuevos sones? Reconozco uno de ellos sin vacilar como el canto de una oropéndola, pero le falta brillo, intensión; no da en el aire su puñalada de sonoridad con la misma energía, no llena el ámbito de la manera que el otro, más bien se desliza subrepticiamente, medrosamente. También reconozco el nuevo clamor de fontana; pero ¡ay! da pena oírlo. ¿Es una fuente valetudinaria? Es un sonido como el otro, pero más entrecortado, más sollozante, menos rico de sones interiores, como apagado, como borroso; a veces no tiene fuerza para llegar a mi oído; es un pobre rumor débil que se cae en el camino.
 
@@ -314,7 +314,7 @@ Permítaseme reproducir aquí unas palabras sobre este instante de nuestra exist
 
 »Hacia el año 1854 —que es donde en lo soterraño se inicia la Restauración— comienzan a apagarse sobre este haz triste de España los esplendores de aquel incendio de energías; los dinamismos van viniendo luego a tierra como proyectiles que han cumplido su parábola; la vida española se repliega sobre sí misma, se hace hueco de sí misma. Este vivir el hueco de la propia vida fue la Restauración.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 »En pueblos de ánimo más completo y armónico que el nuestro, puede a una época de dinamismo suceder fecundamente una época de tranquilidad, de quietud, de éxtasis. El intelecto es el encargado de suscitar y organizar los intereses tranquilos y estáticos, como son el buen gobierno, la economía, el aumento de los medios, de la técnica. Pero ha sido la característica de nuestro pueblo haber brillado más como esforzado que como inteligente.
 
@@ -366,7 +366,7 @@ Cada día que pasa afirma Grecia más enérgicamente su posición hors ligne en 
 
 Y cada nuevo avance en las investigaciones históricas separa más de Grecia el mundo oriental, rebajando el influjo directo que sobre los helenos parecía haber ejercido. Del otro lado, va haciéndose patente la incapacidad del pueblo romano para inventar temas clásicos; no ha colaborado con Grecia; en rigor, no llegó nunca a comprenderla. La cultura de Roma es, en los órdenes superiores, totalmente refleja —un Japón occidental. Sólo le quedaba el derecho, la musa ideadora de instituciones, y ahora resulta que también el derecho lo había aprendido de Grecia.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Una vez rota la cadena de tópicos que mantenía a Roma anclada en el Pireo, las olas del mar Jónico, de inquietud tan afamada, la han ido removiendo hasta soltarla en el Mediterráneo, como quien arroja de casa a un intruso.
 
@@ -414,7 +414,7 @@ LA PANTERA O DEL SENSUALISMO
 
 Hay, por el contrario, en el dominio de las artes plásticas un rasgo que sí parece genuino de nuestra cultura. «El arte griego se encuentra en Roma —dice Wickhoff— frente a un arte común latino, basado en la tradición etrusca». El arte griego, que busca lo típico y esencial bajo las apariencias concretas, no puede afirmar su ideal conato frente a la voluntad de imitación ilusionista que halla desde tiempo inmemorial dominando en Roma[69].
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pocas noticias podían de la suerte que ésta sernos una revelación. La inspiración griega, no obstante su suficiencia estética y su autoridad, se quiebra al llegar a Italia contra un instinto artístico de aspiración opuesta. Y es éste tan fuerte e inequívoco, que no es necesario esperar para que se inyecte en la plástica helénica a que nazcan escultores autóctonos; el que hace el encargo ejerce de tal modo una espiritual presión sobre los artistas de Grecia arribados a Roma, que en las propias manos de éstos se desvía el cincel, y en lugar de lo ideal latente, va a fijar sobre el haz marmóreo lo concreto, lo aparente, lo individual.
 
@@ -454,7 +454,7 @@ Como para el sensual el órgano es la retina, el paladar, las pulpas de los dedo
 
 Antes me he fijado principalmente en la profundidad temporal —que es el pasado—, y en la espacial —que es la lejanía. Pero ambas no son más que dos ejemplos, dos casos particulares de profundidad. ¿En qué consiste ésta, tomada in genere? En forma de alusión queda ya indicado cuando oponía el mundo patente de las puras impresiones a los mundos latentes constituidos por estructuras de impresiones. Una estructura es una cosa de segundo grado, quiero decir, un conjunto de cosas o simples elementos materiales, más un orden en que esos elementos se hallan dispuestos. Es evidente que la realidad de ese orden tiene un valor, una significación distintos de la realidad que poseen sus elementos. Este fresno es verde y está a mi derecha: el ser verde y el estar a mi derecha son cualidades que él posee, pero su posesión no significa lo mismo con respecto a la una y a la otra. Cuando el sol caiga por detrás de estos cerros, yo tomaré una de estas confusas sendas abiertas como surcos ideales en la alta grama. Cortaré al paso unas menudas flores amarillas que aquí crecen lo mismo que en los cuadros primitivos, y moviendo mis pasos hacia el Monasterio, dejaré el bosque solitario, mientras allá en su fondo vierte el cuco sobre el paisaje su impertinencia vespertina. Entonces este fresno seguirá siendo verde, pero habrá quedado desposeído de la otra cualidad, no estará ya a mi derecha. Los colores son cualidades materiales; derecha e izquierda, cualidades relativas que sólo poseen las cosas en relación unas con otras. Pues bien, las cosas trabadas en una relación forman una estructura.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Cuán poca cosa sería una cosa si fuera sólo lo que es en el aislamiento? ¡Qué pobre, qué yerma, qué borrosa! Diríase que hay en cada una cierta secreta potencialidad de ser muchas más, la cual se liberta y expansiona cuando otra u otras entran en relación con ella. Diríase que cada cosa es fecundada por las demás; diríase que se desean como machos y hembras; diríase que se aman y aspiran a maridarse, a juntarse en sociedades, en organismos, en edificios, en mundos. Eso que llamamos «Naturaleza» no es sino la máxima estructura en que todos los elementos materiales han entrado. Y es obra de amor naturaleza, porque significa generación, engendro de las unas cosas en las otras, nacer la una de la otra donde estaba premeditada, preformada, virtualmente inclusa.
 
@@ -504,7 +504,7 @@ Muy lejos nos sentimos hoy del dogma hegeliano, que hace del pensamiento substan
 
 CULTURA.— SEGURIDAD
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sólo cuando algo ha sido pensado, cae debajo de nuestro poder. Y sólo cuando están sometidas las cosas elementales, podemos adelantarnos hacia las más complejas.
 
@@ -560,7 +560,7 @@ Claridad no es vida, pero es la plenitud de la vida.
 
 Cada nuevo concepto es un nuevo órgano que se abre en nosotros sobre una porción del mundo, tácita antes e invisible. El que os da una idea os aumenta la vida y dilata la realidad en torno vuestro. Literalmente exacta es la opinión platónica de que no miramos con los ojos, sino al través o por medio de los ojos; miramos con los conceptos[76]. Idea en Platón quería decir punto de vista.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Frente a lo problemático de la vida, la cultura —en la medida en que es viva y auténtica— representa el tesoro de los principios. Podremos disputar sobre cuáles sean los principios suficientes para resolver aquel problema; pero sean cualesquiera, tendrán que ser principios. Y para poder ser algo principio, tiene que comenzar por no ser a su vez problema. Ésta es la dificultad con que tropieza la religión y que la ha mantenido siempre en polémica con otras formas de la humana cultura, sobre todo con la razón. El espíritu religioso refiere el misterio que es la vida a misterios todavía más intensos y peraltados. Al fin y al cabo, la vida se nos presenta como un problema acaso soluble o, cuando menos, no a limine insoluble.
 
@@ -610,7 +610,7 @@ Conviene que nuestra meditación penetre hasta la última capa de conciencia ét
 
 Dicen que toda la sangre puramente griega que queda hoy en el mundo cabría en un vaso de vino. ¿Cuán difícil no será encontrar una gota de pura sangre helénica? Pues bien, yo creo que es mucho más difícil encontrar ni hoy ni en otro tiempo verdaderos españoles. De ninguna especie existen acaso ejemplares menos numerosos.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Hay, es cierto, quienes piensan de otra suerte. Nace la discrepancia de que, usada tan a menudo, la palabra «español» corre el riesgo de no ser entendida en toda su dignidad. Olvidamos que es, en definitiva, cada raza un ensayo de una nueva manera de vivir, de una nueva sensibilidad. Cuando la raza consigue desenvolver plenamente sus energías peculiares, el orbe se enriquece de un modo incalculable: la nueva sensibilidad suscita nuevos usos e instituciones, nueva arquitectura y nueva poesía, nuevas ciencias y nuevas aspiraciones, nuevos sentimientos y nueva religión. Por el contrario, cuando una raza fracasa, toda esta posible novedad y aumento quedan irremediablemente nonatos, porque la sensibilidad que los crea es intransferible. Un pueblo es un estilo de vida, y como tal, consiste en cierta modulación simple y diferencial que va organizando la [materia](/positions/materialism) en torno[77]. Causas exteriores desvían a lo mejor de su ideal trayectoria este movimiento de organización creadora en que se va desarrollando el estilo de un pueblo, y el resultado es el más monstruoso y lamentable que cabe imaginar. Cada paso de avance en ese proceso de desviación soterra y oprime más la intención original, la va envolviendo en una costra muerta de productos fracasados, torpes, insuficientes. Cada día es ese pueblo menos lo que tenía que haber sido.
 
@@ -654,7 +654,7 @@ Así es la tragedia la expansión de un cierto tema poético fundamental y sólo
 
 Entiendo, pues, por géneros literarios, a la inversa que la poética antigua, ciertos temas radicales, irreductibles entre sí, verdaderas categorías estéticas. La epopeya, por ejemplo, no es el nombre de una forma poética sino de un fondo poético substantivo que en el progreso de su expansión o manifestación llega a la plenitud. La lírica no es un idioma convencional al que puede traducirse lo ya dicho en idioma dramático o novelesco, sino a la vez una cierta cosa a decir y la manera única de decirlo plenamente.
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 De uno u otro modo, es siempre el hombre el tema esencial del arte. Y los géneros entendidos como temas estéticos irreductibles entre sí, igualmente necesarios y últimos, son amplias vistas que se toman sobre las vertientes cardinales de lo humano. Cada época trae consigo una interpretación radical del hombre. Mejor dicho, no la trae consigo, sino que cada época es eso. Por esto, cada época prefiere un determinado género.
 
@@ -698,7 +698,7 @@ Esta esencial lejanía de lo legendario libra a los objetos épicos de la corrup
 
 POESÍA DEL PASADO
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Conviene hacer almoneda de los juicios que mereció Homero a la filología de hace cien años. Homero no es la ingenuidad, ni es un temperamento de alborada. Nadie ignora hoy que la Ilíada, por lo menos nuestra Ilíada, no ha sido nunca entendida por el pueblo. Es decir, que fue desde luego una obra arcaizante. El rapsoda compone en un lenguaje convencional que le sonaba a él mismo como algo viejo, sacramental y rudo. Las costumbres que presta a los personajes son también de vetusta aspereza.
 
@@ -732,7 +732,7 @@ Tal es el ejercicio del rapsoda, tal su papel en el edificio de la obra épica. 
 
 HELENA Y MADAME BOVARY
 
-<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Yo no comprendo cómo un español, maestro de griego, ha podido decir que facilita la inteligencia de la Ilíada imaginar la lucha entre los mozos de dos pueblos castellanos por el dominio de una garrida aldeana. Comprendo que, a propósito de Madame Bovary, se nos indicara que dirigiésemos nuestra atención hacia el tipo de una provinciana practicante del adulterio. Esto sería oportuno; el novelista consume su tarea cuando ha logrado presentarnos en concreto lo que en abstracto conocíamos ya[81]. Al cerrar el libro, decimos: «Así son, en efecto, las provincianas adúlteras. Y estos comicios agrícolas son, en verdad, unos comicios agrícolas». Con tal resultado hemos satisfecho al novelista. Pero leyendo la Ilíada no se nos ocurre congratular a Homero por que su Aquiles es efectivamente un buen Aquiles, un perfecto Aquiles, y una Helena inconfundible su Helena. Las figuras épicas no son representantes de tipos, sino criaturas únicas. Sólo un Aquiles ha existido y una sola Helena; sólo una guerra al margen del Scamandros. Si en la distraída mujer de Menelao creyéramos ver una moza cualquiera, requerida de amores enemigos, Homero habría fracasado. Porque su misión era muy circunscrita —no libre como la de Ghiberti o Flaubert—, nos ha de hacer ver esta Helena y este Aquiles, los cuales, por ventura, no se parecen a los humanos que solemos hallar por los trivios.
 
@@ -764,7 +764,7 @@ Aparte los discreteos de algunos diálogos, el instrumento poético en el libro 
 
 Por otra parte, en la novela nos interesa la descripción, precisamente porque, en rigor, no nos interesa lo descrito. Desatendemos a los objetos que se nos ponen delante para atender a la manera como nos son presentados. Ni Sancho, ni el cura, ni el barbero, ni el Caballero del Verde Gabán, ni Madame Bovary, ni su marido, ni el majadero de Homais son interesantes. No daríamos dos reales por verlos a ellos. En cambio, nos desprenderíamos de un reino en pago a la fruición de verlos captados dentro de los dos libros famosos. Yo no comprendo cómo ha pasado esto desapercibido a los que piensan sobre cosas estéticas. Lo que, faltos de piedad, solemos llamar lata, es todo un género literario, bien que fracasado. La lata consiste en una narración de algo que no nos interesa[84]. La narración tiene que justificarse por su asunto, y será tanto mejor cuanto más somera, cuanto menos se interponga entre lo acontecido y nosotros.
 
-<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 De modo que el autor del libro de caballerías, a diferencia del novelista, hace gravitar toda su energía poética hacia la invención de sucesos interesantes. Éstas son las aventuras. Hoy pudiéramos leer la Odisea como una relación de aventuras; la obra perdería sin duda nobleza y significación, pero no habríamos errado por completo su intención estética. Bajo Ulises, el igual a los dioses, asoma Simbad el marino, y apunta, bien que muy lejanamente, la honrada musa burguesa de Julio Verne. La proximidad se funda en la intervención del capricho gobernando los acontecimientos. En la Odisea el capricho actúa consagrado por los varios humores de los dioses; en la patraña, en las caballerías ostenta cínicamente su naturaleza. Y si en el viejo poema las andanzas cobran interés levantado por emanar del capricho de un dios —razón al cabo teológica—, es la aventura interesante por sí misma, por su inmanente caprichosidad.
 
@@ -806,7 +806,7 @@ En efecto, sería ininteligible si la gran gesticulación de Don Quijote no acer
 
 Si se nos dice que Don Quijote pertenece íntegramente a la realidad, no nos enojaremos. Sólo haríamos notar que con Don Quijote entraría a formar parte de lo real su indómita voluntad. Y esta voluntad se halla henchida de una decisión: es la voluntad de la aventura. Don Quijote, que es real, quiere realmente las aventuras. Como él mismo dice: «Bien podrán los encantadores quitarme la ventura, pero el esfuerzo y el ánimo es imposible». Por eso, con tan pasmosa facilidad transita de la sala del espectáculo al interior de la patraña. Es una naturaleza fronteriza, como lo es, en general, según Platón, la naturaleza del hombre.
 
-<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Tal vez no sospechábamos hace un momento lo que ahora nos ocurre: que la realidad entra en la poesía para elevar a una potencia estética más alta la aventura. Si esto se confirmara, veríamos a la realidad abrirse para dar cabida al continente imaginario y servirle de soporte, del mismo modo que la venta es esta clara noche un bajel que boga sobre las tórridas llanadas manchegas, llevando en su vientre a Carlomagno y los doce Pares, a Marsilio de Sansueña y la sin par Melisendra. Ello es que lo referido en los libros de caballerías tiene realidad dentro de la fantasía de Don Quijote, el cual, a su vez, goza de una indubitable existencia. De modo que, aunque la novela realista haya nacido como oposición a la llamada novela imaginaria, lleva dentro de sí infartada la aventura.
 
@@ -848,7 +848,7 @@ Sabido es que la acción de ver consiste en aplicar una imagen previa que tenemo
 
 Ahora bien; hay distancias, luces e inclinaciones, desde las cuales el material sensitivo de las cosas reduce a un mínimo la esfera de nuestras interpretaciones. Una fuerza de concreción impide el movimiento de nuestras imágenes. La cosa inerte y áspera escupe de sí cuantos «sentidos» queramos darle: está ahí, frente a nosotros, afirmando su muda, terrible materialidad frente a todos los fantasmas. He ahí lo que llamamos realismo: traer las cosas a una distancia, ponerlas bajo una luz, inclinarlas de modo que se acentúe la vertiente de ellas que baja hacia la pura materialidad.
 
-<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El mito es siempre el punto de partida de toda poesía, inclusive de la realista. Sólo que en ésta acompañamos al mito en su descenso, en su caída. El tema de la poesía realista es el desmoronamiento de una poesía.
 
@@ -896,7 +896,7 @@ Conviene subrayar ahora que el núcleo de realidad a que ambas se refieren es un
 
 En lo anterior se ha abstraído, por completo, del lirismo, que es, frente a la épica, el otro manantial de poesía. No conviene en estas páginas perseguir su esencia ni detenerse a meditar qué cosa pueda ser lirismo. Otra vez llegará la sazón. Baste con recordar lo admitido por todo el mundo: el lirismo es una proyección estética de la tonalidad general de nuestros sentimientos. La épica no es triste ni es alegre: es un arte apolíneo, indiferente, todo él formas de objetos eternos, sin edad, extrínseco e invulnerable.
 
-<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Con el lirismo penetra en el arte una substancia voluble y tornadiza. La intimidad del hombre varía a lo largo de los siglos, el vértice de su sentimentalidad gravita unas veces hacia Oriente y otras hacia Poniente. Hay tiempos jocundos y tiempos de amargor. Todo depende de que el balance que hace el hombre de su propio valer, le parezca, en definitiva, favorable o adverso.
 
@@ -936,7 +936,7 @@ La tragedia no se produce a ras de nuestro suelo; tenemos que elevarnos a ella. 
 
 Supone la tragedia en nuestro ánimo una predisposición hacia los grandes actos —de otra suerte nos parecerá una fanfarronada. No se impone a nosotros con la evidencia y forzosidad del realismo, que hace comenzar la obra bajo nuestros mismos pies, y sin sentirlo, pasivamente, nos introduce en ella. En cierta manera, el fruir la tragedia pide de nosotros que la queramos también un poco, como el héroe quiere su destino. Viene, en consecuencia, a hacer presa en los síntomas de heroísmo atrofiado que existan en nosotros. Porque todos llevamos dentro como el muñón de un héroe.
 
-<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Mas una vez embarcados según el heroico rumbo, veremos que nos repercuten en lo hondo los fuertes movimientos y el ímpetu de ascensión que hinchen la tragedia. Sorprendidos, hallaremos que somos capaces de vivir a una tensión formidable y que todo en torno nuestro aumenta sus proporciones recibiendo una superior dignidad. La tragedia en el teatro nos abre los ojos para descubrir y estimar lo heroico en la realidad. Así, Napoleón, que sabía algo de psicología, no quiso que durante su estancia en Francfort, ante aquel público de reyes vencidos, representara comedias su compañía ambulante, y obligó a Talma a que produjera las figuras de Racine y de Corneille.
 
@@ -978,7 +978,7 @@ La infecundidad de lo que ha solido llamarse patriotismo en el pensamiento espa�
 
 Falta el libro donde se demuestre al detalle que toda novela lleva dentro, como una íntima filigrana, el Quijote, de la misma manera que todo poema épico lleva, como el fruto el hueso, la Ilíada.
 
-<span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Flaubert no siente empacho en proclamarlo: «Je retrouve —dice— mes origines dans le livre que je savais par [coeur](/positions/fideism) avant de savoir lire: don Quichotte»[90]. Madame Bovary es un Don Quijote con faldas y un mínimo de tragedia sobre el alma. Es la lectora de novelas románticas y representante de los ideales burgueses que se han cernido sobre Europa durante medio siglo. ¡Míseros ideales! ¡Democracia burguesa, romanticismo positivista!
 

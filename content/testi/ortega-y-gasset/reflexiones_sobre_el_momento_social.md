@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/reflexiones_sobre_el_momento_social" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Reflexiones sobre el momento social" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Reflexiones sobre el momento social" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En 25 de noviembre último, bajo el título «Demasiadas huelgas», y precisamente con motivo de una huelga de panaderos en Madrid, escribíamos en estas columnas lo siguiente:
 

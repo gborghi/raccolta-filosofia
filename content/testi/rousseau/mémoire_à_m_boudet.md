@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/mémoire_à_m_boudet" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="MÉMOIRE À M. BOUDET" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="MÉMOIRE À M. BOUDET" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 MÉMOIRE remis le 19 Avril 1742, À M. BOUDET, ANTONIN,
 

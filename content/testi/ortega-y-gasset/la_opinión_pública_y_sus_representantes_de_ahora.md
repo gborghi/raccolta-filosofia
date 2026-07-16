@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_opinión_pública_y_sus_representantes_de_ahora" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La opinión pública y sus representantes de ahora" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La opinión pública y sus representantes de ahora" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ahora bien: exactamente lo mismo acontece a las fuerzas ahora triunfantes, como tendremos ocasión de ver en los meses próximos. ¿Es que en serio pueden presentarse ante los españoles, como gentes que saben lo que hay que hacer con España, los grupos supervivientes de la Dictadura que la han tenido siete años en sus manos sin dejar rastro de fecundidad y menos después de muerto el único de esos hombres que poseía alma cálida y buen sentido, que era el propio general Primo de Rivera? Y con más vehemente evidencia hay que decir lo propio de los monárquicos.
 

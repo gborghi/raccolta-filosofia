@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/política_social_contra_los_asesinos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Política social.— Contra los asesinos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Política social.— Contra los asesinos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Lejos de menguar, crece el número de crímenes y atentados sociales. La marea de sangre aumenta, y con ella el asco que se va acumulando en todo ánimo honrado. Tuvimos un momento la esperanza de que el vil deporte de asesinar fuese una moda salvaje, pero transitoria, suscitada por los usos sanguinolentos que han deshonrado la iniciación del bolchevismo. Este turbio movimiento de Rusia que había desorientado a nuestros obreros en política, hacía también que algunos vacilasen en moral. Pero la decadencia del bolchevismo eslavo, la inverosimilitud creciente de su triunfo en Europa —Rusia es históricamente Asia, y el ruso una especie de chino más joven— han disminuido la influencia de la política leninista sobre los obreros occidentales. Tiempo es ya sobrado para exigir de la manera más enérgica que cese el influjo en la moral práctica de éstos. Es preciso organizar la guerra sin cuartel al asesinato. La paciencia de todos los que no son asesinos va siendo excesiva y tiñéndose con un innoble matiz de complicidad.
 

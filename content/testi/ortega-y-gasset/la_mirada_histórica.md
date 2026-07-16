@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_mirada_histórica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La mirada histórica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La mirada histórica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Y comienzo por una insistencia.
 
@@ -40,7 +40,7 @@ Pero el Renacimiento significa, precisamente, el comienzo de la reafirmación hu
 
 Pero precisamente todo esto es lo que en nuestros días viene a caducidad. Descubrimos ahora que el hombre no tiene esa supuesta «naturaleza», ni por tanto, ese instrumental nativo que sea suficiente, de que y con que pueda vivir. La razón no es una dote. Ni la tiene de suyo el hombre, ni siquiera la tiene todavía. A fuerza de fuerzas, en ensayos milenarios, se ha forjado a sí mismo el hombre un comienzo de racionalidad, pero nada más. Decir del hombre que es racional, es decir algo utópico que a todas horas se da de bruces con la realidad.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pero más aún. La «naturaleza» misma —no sólo la del hombre— nos aparece hoy como una mera hipótesis. La física actual no permite imaginar esa realidad yacente, segura, acogedora y solemne en que todavía los físicos del siglo xix creían. La [materia](/positions/materialism) se revela ahora como algo también móvil, que tiene casi historia, que tampoco posee un ser fijo. Ni el mundo ni el hombre son: todo está en marcha. Viene de —va hacia— no se sabe aún adónde. Sólo se sabe que es cambio, mudanza, peregrinación. Hay que crear nuevas virtudes en el hombre que le permitan vivir enérgica y jovialmente en medio de la radical inquietud. Nuestro lema ha de ser éste: Mobilis in mobili.
 
@@ -56,7 +56,7 @@ Es evidente que estas dos clases de ideas —las ocurrencias y las creencias— 
 
 Esta concepción obliga a crear nuevos métodos y nueva técnica en historia. Hay que convertirse en minero de humanidades. Este estudio de las creencias como tales nos revela los diversos estados por que pasan. Un mismo contenido de fe puede actuar en épocas sucesivas de modos diferentes. Sin meternos en más finuras, topamos, desde luego, con estos tres estados de una misma creencia: cuando es fe viva, cuando es fe inerte o «muerta» y cuando es duda. Porque el estado de duda pertenece al mismo estrato de las creencias, es un modo deficiente del creer. Dudar no es simplemente creer que no frente a creer que sí, ni tampoco vacío de creencia. Por el contrario, es un creer doble. Estamos en la duda porque dos creencias incompatibles batallan dentro de nosotros, y entre ambas oscilamos, fluctuamos. Por eso dije hace poco en la Facultad de Filosofía que la duda es la hermana bizca que tiene la ciencia.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Otra de las cosas que la teoría de las creencias nos enseña es que no puede darse una creencia, en la plenitud del término, si no es colectiva. Como individuo, puedo llegar a estar plenamente convencido, esto es, persuadido de algo, y esa convicción ser tan vigorosa y compacta que se aproxime mucho a la índole de las creencias. Pero siempre habrá entre aquélla y éstas diferencia y distancia. Los nombres mismos las declaran. Convicción, persuasión, dan a entender que son estados a los cuales hemos llegado por nuestra cuenta en virtud de razones y, cuando no, de motivos. Pero una creencia auténtica, en la cual de verdad estamos, no se funda en razones ni en motivos. En el momento en que esto aconteciese, no sería pura creencia. Tenían razón los teólogos cuando hablaban de que la fe es ciega. Sólo que ellos tenían de la fe una idea menos franca y resuelta que yo. Esos teólogos eran, en el fondo, snobs de la razón, a la cual miraban constantemente con el rabillo del ojo y delante de la cual no querían quedar mal. La razón ha sido y será siempre lo esencialmente «distinguido». Por eso el esnobismo ante ella está muy justificado y ha sido de gran fecundidad en el desarrollo humano. Ha sido menester que lleguemos a la bestialidad de nuestro tiempo, que acaso no tenga par en todo el pretérito, para que ese esnobismo casi desaparezca. El hombre-masa, en efecto, cree que lo sabe todo sin necesidad de razón. A ese esnobismo de los teólogos medievales debemos nuestra presente destreza mental. El maravilloso escolasticismo fue la piedra de afilar sobre la cual, durante cinco siglos, se estuvo afinando el corte el intelecto occidental.
 
@@ -80,7 +80,7 @@ Hay, pues, una diferencia radical en el carácter mismo de fe entre la medieval 
 
 * * *
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Platonismo y aristotelismo no fueron nunca en Grecia objeto de fe. Fueron meras ideas o, en mi terminología, ocurrencias. Pero en la Edad Media entran en las almas fundidas con las creencias religiosas y adquieren una solidez de efectivas creencias. Ahora bien: ambas filosofías, que en última instancia son dos caras de la misma, son una interpretación del mundo que hace de éste una pluralidad de realidades inmóviles. Pluralidad e invariabilidad última son, en efecto, los dos rasgos decisivos del universo medieval. La Imago mundi del siglo xiii y primera mitad del xiv —el mundo que oprimía la persona de Dante— estaba compuesta de un número crecidísimo de realidades independientes— las formas —que eran inmutables o, si se quiere, que no podían cambiar sino para desaparecer, aniquiladas por la divina omnipotencia.
 

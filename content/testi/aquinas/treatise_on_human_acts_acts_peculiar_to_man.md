@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_human_acts_acts_peculiar_to_man" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Human Acts: Acts Peculiar to Man" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Human Acts: Acts Peculiar to Man" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON HUMAN ACTS: ACTS PECULIAR TO MAN (QQ[6]-21)
 
-<span class="atom-split" data-atom="002" data-title="OF THE VOLUNTARY AND THE INVOLUNTARY (EIGHT ARTICLES)" data-chapter="OF THE VOLUNTARY AND THE INVOLUNTARY (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE VOLUNTARY AND THE INVOLUNTARY (EIGHT ARTICLES)" data-chapter="OF THE VOLUNTARY AND THE INVOLUNTARY (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Since therefore Happiness is to be gained by means of certain acts, we must in due sequence
 consider human acts, in order to know by what acts we may obtain Happiness, and by what acts
@@ -59,7 +59,7 @@ there are eight points of inquiry:
 (7) Whether concupiscence causes involuntariness?
 (8) Whether ignorance causes involuntariness?
 
-<span class="atom-split" data-atom="003" data-title="Whether there is anything voluntary in human acts?" data-chapter="Whether there is anything voluntary in human acts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether there is anything voluntary in human acts?" data-chapter="Whether there is anything voluntary in human acts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is nothing voluntary in human acts. For that is voluntary
 "which has its principle within itself." as Gregory of Nyssa [*Nemesius, De [Natura](/concepts/nature) Hom. xxxii.],
@@ -137,7 +137,7 @@ it proceed from God, inasmuch as the will is moved by God. Nevertheless both nat
 movements have this in common, that it is essential that they should proceed from a principle within
 the agent.
 
-<span class="atom-split" data-atom="004" data-title="Whether there is anything voluntary in irrational animals?" data-chapter="Whether there is anything voluntary in irrational animals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether there is anything voluntary in irrational animals?" data-chapter="Whether there is anything voluntary in irrational animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is nothing voluntary in irrational animals. For a thing is
 called "voluntary" from "[voluntas](/concepts/will)" [will]. Now since the will is in the reason (De [Anima](/concepts/soul) iii, 9), it
@@ -185,7 +185,7 @@ stated above.
 Reply to Objection 3: Praise and blame are the result of the voluntary act, wherein is the perfect
 voluntary; such as is not to be found in irrational animals.
 
-<span class="atom-split" data-atom="005" data-title="Whether there can be voluntariness without any act?" data-chapter="Whether there can be voluntariness without any act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether there can be voluntariness without any act?" data-chapter="Whether there can be voluntariness without any act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that voluntariness cannot be without any act. For that is voluntary
 which proceeds from the will. But nothing can proceed from the will, except through some act, at
@@ -231,7 +231,7 @@ an act of will; namely, in order that it be in one's power to consider, to wish 
 just as not to wish, and not to act, when it is time to wish and to act, is voluntary, so is it voluntary
 not to consider.
 
-<span class="atom-split" data-atom="006" data-title="Whether violence can be done to the will?" data-chapter="Whether violence can be done to the will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether violence can be done to the will?" data-chapter="Whether violence can be done to the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that violence can be done to the will. For everything can be
 compelled by that which is more powerful. But there is something, namely, God, that is more
@@ -283,7 +283,7 @@ contrary to the rational nature, nevertheless is apprehended as something good a
 nature, in so far as it is suitable to man by reason of some pleasurable sensation or some vicious
 [habit](/concepts/custom).
 
-<span class="atom-split" data-atom="007" data-title="Whether violence causes involuntariness?" data-chapter="Whether violence causes involuntariness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether violence causes involuntariness?" data-chapter="Whether violence causes involuntariness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that violence does not cause involuntariness. For we speak of
 voluntariness and involuntariness in respect of the will. But violence cannot be done to the will, as
@@ -336,7 +336,7 @@ The same remark applies in the case of one who contorts his limbs in a way that 
 natural disposition. For this is violent in a certain respect, i.e. as to that particular limb; but not
 simply, i.e. as to the man himself.
 
-<span class="atom-split" data-atom="008" data-title="Whether fear causes involuntariness simply?" data-chapter="Whether fear causes involuntariness simply?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether fear causes involuntariness simply?" data-chapter="Whether fear causes involuntariness simply?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear causes involuntariness simply. For just as violence regards
 that which is contrary to the will at the time, so fear regards a future evil which is repugnant to the
@@ -402,7 +402,7 @@ Reply to Objection 3: That which is done through fear, is voluntary without any 
 that is to say, according as it is actually done: but it is involuntary, under a certain condition, that
 is to say, if such a fear were not threatening. Consequently, this argument proves rather the opposite.
 
-<span class="atom-split" data-atom="009" data-title="Whether concupiscence causes involuntariness?" data-chapter="Whether concupiscence causes involuntariness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether concupiscence causes involuntariness?" data-chapter="Whether concupiscence causes involuntariness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that concupiscence causes involuntariness. For just as fear is a
 passion, so is concupiscence. But fear causes involuntariness to a certain extent. Therefore
@@ -448,7 +448,7 @@ act. Nevertheless, this itself is voluntary, according as by voluntary we mean t
 power of the will, for example "not to act" or "not to will," and in like manner "not to consider";
 for the will can resist the passion, as we shall state later on (Q[10], A[3]; Q[77], A[7]).
 
-<span class="atom-split" data-atom="010" data-title="Whether ignorance causes involuntariness?" data-chapter="Whether ignorance causes involuntariness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether ignorance causes involuntariness?" data-chapter="Whether ignorance causes involuntariness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that ignorance does not cause involuntariness. For "the involuntary
 act deserves pardon," as Damascene says (De Fide Orth. ii, 24). But sometimes that which is done
@@ -504,7 +504,7 @@ ignorance of what a man is bound to know. The second, with ignorance of choice, 
 to a certain extent, as stated above. The third, with that ignorance which is concomitant with the
 act of the will.
 
-<span class="atom-split" data-atom="011" data-title="OF THE CIRCUMSTANCES OF HUMAN ACTS (FOUR ARTICLES)" data-chapter="OF THE CIRCUMSTANCES OF HUMAN ACTS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="OF THE CIRCUMSTANCES OF HUMAN ACTS (FOUR ARTICLES)" data-chapter="OF THE CIRCUMSTANCES OF HUMAN ACTS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the circumstances of human acts: under which head there are four points
 of inquiry:
@@ -513,7 +513,7 @@ of inquiry:
 (3) How many circumstances are there?
 (4) Which are the most important of them?
 
-<span class="atom-split" data-atom="012" data-title="Whether a circumstance is an accident of a human act?" data-chapter="Whether a circumstance is an accident of a human act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether a circumstance is an accident of a human act?" data-chapter="Whether a circumstance is an accident of a human act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a circumstance is not an accident of a human act. For Tully
 says (De Invent. Rhetor. i) that a circumstance is that from "which an orator adds authority and
@@ -572,7 +572,7 @@ have a relation to acts, belong to the agent otherwise than through the act; as 
 of person; whereas others belong to the agent by reason of the act, as the manner in which the act
 is done.
 
-<span class="atom-split" data-atom="013" data-title="Whether theologians should take note of the circumstances of human acts?" data-chapter="Whether theologians should take note of the circumstances of human acts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether theologians should take note of the circumstances of human acts?" data-chapter="Whether theologians should take note of the circumstances of human acts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that theologians should not take note of the circumstances of human
 acts. Because theologians do not consider human acts otherwise than according to their quality of
@@ -628,7 +628,7 @@ belongs, in all the aforesaid ways: since to him all the other arts are subservi
 consider virtuous and vicious acts, just as the moralist does; and with the orator and politician he
 considers acts according as they are deserving of reward or punishment.
 
-<span class="atom-split" data-atom="014" data-title="Whether the circumstances are properly set forth in the third book of Ethics?" data-chapter="Whether the circumstances are properly set forth in the third book of Ethics?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the circumstances are properly set forth in the third book of Ethics?" data-chapter="Whether the circumstances are properly set forth in the third book of Ethics?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the circumstances are not properly set forth in Ethic. iii, 1. For
 a circumstance of an act is described as something outside the act. Now time and place answer to
@@ -682,7 +682,7 @@ circumstance "what"; for that a man by pouring water on someone should happen to
 not a circumstance of the washing; but that in doing so he give him a chill, or scald him; heal him
 or harm him, these are circumstances.
 
-<span class="atom-split" data-atom="015" data-title="Whether the most important circumstances are \&quot;why\&quot; and \&quot;in what the act consists\&quot;?" data-chapter="Whether the most important circumstances are \&quot;why\&quot; and \&quot;in what the act consists\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the most important circumstances are \&quot;why\&quot; and \&quot;in what the act consists\&quot;?" data-chapter="Whether the most important circumstances are \&quot;why\&quot; and \&quot;in what the act consists\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the most important circumstances are "why" and "in what the act consists"?
 
@@ -724,7 +724,7 @@ conditions of the person have not such an important relation to the act. As to t
 [substantial form](/concepts/forma_substantialis) of the act, for in an act the substantial form depends on the object and term or end;
 but it is, as it were, a certain accidental quality of the act.
 
-<span class="atom-split" data-atom="016" data-title="OF THE WILL, IN REGARD TO WHAT IT WILLS (THREE ARTICLES)" data-chapter="OF THE WILL, IN REGARD TO WHAT IT WILLS (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="OF THE WILL, IN REGARD TO WHAT IT WILLS (THREE ARTICLES)" data-chapter="OF THE WILL, IN REGARD TO WHAT IT WILLS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the different acts of the will; and in the first place, those acts which
 belong to the will itself immediately, as being elicited by the will; secondly, those acts which are
@@ -741,7 +741,7 @@ Under the first head there are three points of inquiry:
 (3) If in any way it be of the means, whether it be moved to the end and to the means, by the
 same movement?
 
-<span class="atom-split" data-atom="017" data-title="Whether the will is of good only?" data-chapter="Whether the will is of good only?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the will is of good only?" data-chapter="Whether the will is of good only?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is not of good only. For the same power regards
 opposites; for instance, sight regards white and black. But good and evil are opposites. Therefore
@@ -793,7 +793,7 @@ in so far as they are apprehended, are beings. Accordingly, in so far as such li
 are apprehended under the aspect of good; and it is thus that the will is directed to them. Wherefore
 the Philosopher says (Ethic. v, 1) that "to lack evil is considered as a good."
 
-<span class="atom-split" data-atom="018" data-title="Whether volition is of the end only, or also of the means?" data-chapter="Whether volition is of the end only, or also of the means?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether volition is of the end only, or also of the means?" data-chapter="Whether volition is of the end only, or also of the means?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that volition is not of the means, but of the end only. For the
 Philosopher says (Ethic. iii, 2) that "volition is of the end, while choice is of the means."
@@ -849,7 +849,7 @@ ship-building art considers the means as that which it effects; but it considers
 as that to which it refers what it effects. And again, in every practical art there is an end proper to
 it and means that belong properly to that art.
 
-<span class="atom-split" data-atom="019" data-title="Whether the will is moved by the same act to the end and to the means?" data-chapter="Whether the will is moved by the same act to the end and to the means?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether the will is moved by the same act to the end and to the means?" data-chapter="Whether the will is moved by the same act to the end and to the means?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is moved by the same act, to the end and to the means.
 Because according to the Philosopher (Topic. iii, 2) "where one thing is on account of another there
@@ -900,7 +900,7 @@ ad 2). For the useful and the righteous are not species of good in an equal degr
 which is for its own sake and that which is for the sake of something else: wherefore the act of the
 will can be directed to one and not to the other; but not conversely.
 
-<span class="atom-split" data-atom="020" data-title="OF THAT WHICH MOVES THE WILL (SIX ARTICLES)" data-chapter="OF THAT WHICH MOVES THE WILL (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="OF THAT WHICH MOVES THE WILL (SIX ARTICLES)" data-chapter="OF THAT WHICH MOVES THE WILL (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider what moves the will: and under this head there are six points of inquiry:
 (1) Whether the will is moved by the intellect?
@@ -910,7 +910,7 @@ We must now consider what moves the will: and under this head there are six poin
 (5) Whether it is moved by a heavenly body?
 (6) Whether the will is moved by God alone as by an extrinsic principle?
 
-<span class="atom-split" data-atom="021" data-title="Whether the will is moved by the intellect?" data-chapter="Whether the will is moved by the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether the will is moved by the intellect?" data-chapter="Whether the will is moved by the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is not moved by the intellect. For [Augustine](/figures/augustine) says on
 Ps. 118:20: "My soul hath coveted to long for Thy justifications: The intellect flies ahead, the desire
@@ -970,7 +970,7 @@ good. But as to the determination of the act, which the act derives from the obj
 moves the will; since the good itself is apprehended under a special aspect as contained in the
 universal true. It is therefore evident that the same is not mover and moved in the same respect.
 
-<span class="atom-split" data-atom="022" data-title="Whether the will is moved by the sensitive appetite?" data-chapter="Whether the will is moved by the sensitive appetite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the will is moved by the sensitive appetite?" data-chapter="Whether the will is moved by the sensitive appetite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will cannot be moved by the sensitive appetite. For "to
 move and to act is more excellent than to be passive," as [Augustine](/figures/augustine) says (Gen. ad lit. xii, 16). But
@@ -1021,7 +1021,7 @@ men are ruled by their governor, and can nevertheless act counter to his command
 irascible and concupiscible can move counter to the will: and accordingly nothing hinders the will
 from being moved by them at times.
 
-<span class="atom-split" data-atom="023" data-title="Whether the will moves itself?" data-chapter="Whether the will moves itself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether the will moves itself?" data-chapter="Whether the will moves itself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will does not move itself. For every mover, as such, is in
 act: whereas what is moved, is in [potentiality](/concepts/act_potency); since "movement is the act of that which is in
@@ -1059,7 +1059,7 @@ Reply to Objection 3: The will is moved by the intellect, otherwise than by itse
 intellect it is moved on the part of the object: whereas it is moved by itself, as to the exercise of its
 act, in respect of the end.
 
-<span class="atom-split" data-atom="024" data-title="Whether the will is moved by an exterior principle?" data-chapter="Whether the will is moved by an exterior principle?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the will is moved by an exterior principle?" data-chapter="Whether the will is moved by an exterior principle?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is not moved by anything exterior. For the movement
 of the will is voluntary. But it is essential to the voluntary act that it be from an intrinsic principle,
@@ -1110,7 +1110,7 @@ Reply to Objection 3: The will moves itself sufficiently in one respect, and in 
 that is to say as proximate agent; but it cannot move itself in every respect, as we have shown.
 Wherefore it needs to be moved by another as first mover.
 
-<span class="atom-split" data-atom="025" data-title="Whether the will is moved by a heavenly body?" data-chapter="Whether the will is moved by a heavenly body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the will is moved by a heavenly body?" data-chapter="Whether the will is moved by a heavenly body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human will is moved by a heavenly body. For all various
 and multiform movements are reduced, as to their cause, to a uniform movement which is that of
@@ -1178,7 +1178,7 @@ Or, as Augustine says (Gen. ad lit. ii, 15): "We must confess that when the trut
 astrologers, this is due to some most hidden inspiration, to which the human mind is subject without
 knowing it. And since this is done in order to deceive man, it must be the work of the lying spirits."
 
-<span class="atom-split" data-atom="026" data-title="Whether the will is moved by God alone, as exterior principle?" data-chapter="Whether the will is moved by God alone, as exterior principle?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether the will is moved by God alone, as exterior principle?" data-chapter="Whether the will is moved by God alone, as exterior principle?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is not moved by God alone as exterior principle. For
 it is natural that the inferior be moved by its superior: thus the lower bodies are moved by the
@@ -1228,7 +1228,7 @@ determines himself by his reason to will this or that, which is true or apparent
 sometimes God moves some specially to the willing of something determinate, which is good; as
 in the case of those whom He moves by grace, as we shall state later on (Q[109], A[2]).
 
-<span class="atom-split" data-atom="027" data-title="OF THE MANNER IN WHICH THE WILL IS MOVED (FOUR ARTICLES)" data-chapter="OF THE MANNER IN WHICH THE WILL IS MOVED (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="OF THE MANNER IN WHICH THE WILL IS MOVED (FOUR ARTICLES)" data-chapter="OF THE MANNER IN WHICH THE WILL IS MOVED (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the manner in which the will is moved. Under this head there are four
 points of inquiry:
@@ -1237,7 +1237,7 @@ points of inquiry:
 (3) Whether it is moved of necessity by the lower appetite?
 (4) Whether it is moved of necessity by the exterior mover which is God?
 
-<span class="atom-split" data-atom="028" data-title="Whether the will is moved to anything naturally?" data-chapter="Whether the will is moved to anything naturally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether the will is moved to anything naturally?" data-chapter="Whether the will is moved to anything naturally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is not moved to anything naturally. For the natural
 agent is condivided with the voluntary agent, as stated at the beginning of Phys. ii, 1. Therefore
@@ -1301,7 +1301,7 @@ intellect there corresponds some one general thing, which is the true, or being,
 And under good in general are included many particular goods, to none of which is the will
 determined.
 
-<span class="atom-split" data-atom="029" data-title="Whether the will is moved, of necessity, by its object?" data-chapter="Whether the will is moved, of necessity, by its object?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether the will is moved, of necessity, by its object?" data-chapter="Whether the will is moved, of necessity, by its object?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the will is moved, of necessity, by its object. For the object of the
 will is compared to the will as mover to movable, as stated in De [Anima](/concepts/soul) iii, 10. But a mover, if it
@@ -1358,7 +1358,7 @@ as "to be" and "to live," and the like. But other things without which the end c
 necessarily willed by one who wills the end: just as he who assents to the principle, does not
 necessarily assent to the conclusions, without which the principles can still be true.
 
-<span class="atom-split" data-atom="030" data-title="Whether the will is moved, of necessity, by the lower appetite?" data-chapter="Whether the will is moved, of necessity, by the lower appetite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the will is moved, of necessity, by the lower appetite?" data-chapter="Whether the will is moved, of necessity, by the lower appetite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is moved of necessity by a passion of the lower appetite.
 For the Apostle says (Rom. 7:19): "The good which I will I do not; but the evil which I will not,
@@ -1416,7 +1416,7 @@ reason, but also by good apprehended by sense. Wherefore he can be moved to some
 good independently of a passion of the sensitive appetite. For we will and do many things without
 passion, and through choice alone; as is most evident in those cases wherein reason resists passion.
 
-<span class="atom-split" data-atom="031" data-title="Whether the will is moved of necessity by the exterior mover which is God?" data-chapter="Whether the will is moved of necessity by the exterior mover which is God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the will is moved of necessity by the exterior mover which is God?" data-chapter="Whether the will is moved of necessity by the exterior mover which is God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is moved of necessity by God. For every agent that
 cannot be resisted moves of necessity. But God cannot be resisted, because His power is infinite;
@@ -1458,7 +1458,7 @@ Reply to Objection 3: If God moves the will to anything, it is incompatible with
 that the will be not moved thereto. But it is not impossible simply. Consequently it does not follow
 that the will is moved by God necessarily.
 
-<span class="atom-split" data-atom="032" data-title="OF ENJOYMENT [*Or, Fruition], WHICH IS AN ACT OF THE WILL (FOUR ARTICLES)" data-chapter="OF ENJOYMENT [*Or, Fruition], WHICH IS AN ACT OF THE WILL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="OF ENJOYMENT [*Or, Fruition], WHICH IS AN ACT OF THE WILL (FOUR ARTICLES)" data-chapter="OF ENJOYMENT [*Or, Fruition], WHICH IS AN ACT OF THE WILL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider enjoyment: concerning which there are four points of inquiry:
 (1) Whether to enjoy is an act of the appetitive power?
@@ -1466,7 +1466,7 @@ We must now consider enjoyment: concerning which there are four points of inquir
 (3) Whether enjoyment is only of the last end?
 (4) Whether it is only of the end possessed?
 
-<span class="atom-split" data-atom="033" data-title="Whether to enjoy is an act of the appetitive power?" data-chapter="Whether to enjoy is an act of the appetitive power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether to enjoy is an act of the appetitive power?" data-chapter="Whether to enjoy is an act of the appetitive power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to enjoy belongs not only to the appetitive power. For to enjoy
 seems nothing else than to receive the fruit. But it is the intellect, in whose act Happiness consists,
@@ -1511,7 +1511,7 @@ Reply to Objection 3: In delight there are two things: perception of what is bec
 belongs to the apprehensive power; and complacency in that which is offered as becoming: and
 this belongs to the appetitive power, in which power delight is formally completed.
 
-<span class="atom-split" data-atom="034" data-title="Whether to enjoy belongs to the rational creature alone, or also to irrational animals?" data-chapter="Whether to enjoy belongs to the rational creature alone, or also to irrational animals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether to enjoy belongs to the rational creature alone, or also to irrational animals?" data-chapter="Whether to enjoy belongs to the rational creature alone, or also to irrational animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to enjoy belongs to men alone. For [Augustine](/figures/augustine) says (De Doctr.
 Christ. i, 22) that "it is given to us men to enjoy and to use." Therefore other animals cannot enjoy.
@@ -1558,7 +1558,7 @@ Reply to Objection 4: Augustine is speaking there of imperfect enjoyment. This i
 his way of speaking: for he says that "it is not so absurd to suppose that even beasts enjoy," that is,
 as it would be, if one were to say that they "use."
 
-<span class="atom-split" data-atom="035" data-title="Whether enjoyment is only of the last end?" data-chapter="Whether enjoyment is only of the last end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether enjoyment is only of the last end?" data-chapter="Whether enjoyment is only of the last end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that enjoyment is not only of the last end. For the Apostle says
 (Philem. 20): "Yea, brother, may I enjoy thee in the Lord." But it is evident that Paul had not placed
@@ -1614,7 +1614,7 @@ this last end. And so, just as God is not one end, and the enjoyment of God, ano
 same enjoyment whereby we enjoy God, and whereby we enjoy our enjoyment of God. And the
 same applies to created happiness which consists in enjoyment.
 
-<span class="atom-split" data-atom="036" data-title="Whether enjoyment is only of the end possessed?" data-chapter="Whether enjoyment is only of the end possessed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether enjoyment is only of the end possessed?" data-chapter="Whether enjoyment is only of the end possessed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that enjoyment is only of the end possessed. For [Augustine](/figures/augustine) says
 (De Trin. x, 1) that "to enjoy is to use joyfully, with the joy, not of hope, but of possession." But
@@ -1652,7 +1652,7 @@ imperfect, on account of the imperfect way in which it is possessed.
 Reply to Objection 3: One is said to lay hold of or to have an end, not only in reality, but also
 in intention, as stated above.
 
-<span class="atom-split" data-atom="037" data-title="OF INTENTION (FIVE ARTICLES)" data-chapter="OF INTENTION (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="OF INTENTION (FIVE ARTICLES)" data-chapter="OF INTENTION (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider Intention: concerning which there are five points of inquiry:
 (1) Whether intention is an act of intellect or of the will?
@@ -1661,7 +1661,7 @@ We must now consider Intention: concerning which there are five points of inquir
 (4) Whether intention of the end is the same act as volition of the means?
 (5) Whether intention is within the competency of irrational animals?
 
-<span class="atom-split" data-atom="038" data-title="Whether intention is an act of the intellect or of the will?" data-chapter="Whether intention is an act of the intellect or of the will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether intention is an act of the intellect or of the will?" data-chapter="Whether intention is an act of the intellect or of the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that intention is an act of the intellect, and not of the will. For it is
 written (Mat. 6:22): "If thy eye be single, thy whole body shall be lightsome": where, according to
@@ -1711,7 +1711,7 @@ absolutely to have health, and so forth. Secondly, it considers the end, as its 
 ordained; and thus "intention" regards the end. For when we speak of intending to have health, we
 mean not only that we have it, but that we will have it by means of something else.
 
-<span class="atom-split" data-atom="039" data-title="Whether intention is only of the last end?" data-chapter="Whether intention is only of the last end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether intention is only of the last end?" data-chapter="Whether intention is only of the last end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that intention is only of the last end. For it is said in the book of
 Prosper's Sentences (Sent. 100): "The intention of the heart is a cry to God." But God is the last
@@ -1745,7 +1745,7 @@ sometimes in respect of a part.
 Reply to Objection 3: Enjoyment implies rest in the end; and this belongs to the last end alone.
 But intention implies movement towards an end, not rest. Wherefore the comparison proves nothing.
 
-<span class="atom-split" data-atom="040" data-title="Whether one can intend two things at the same time?" data-chapter="Whether one can intend two things at the same time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether one can intend two things at the same time?" data-chapter="Whether one can intend two things at the same time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one cannot intend several things at the same time. For [Augustine](/figures/augustine)
 says (De Serm. Dom. in Monte ii, 14,16,17) that man's intention cannot be directed at the same
@@ -1794,7 +1794,7 @@ acquire wealth, from intending both the others.
 Reply to Objection 3: As stated in the FP, Q[12], A[10]; FP, Q[58], A[2]; FP, Q[85], A[4] it
 is possible to understand several things at the same time, in so far as, in some way, they are one.
 
-<span class="atom-split" data-atom="041" data-title="Whether intention of the end is the same act as the volition of the means?" data-chapter="Whether intention of the end is the same act as the volition of the means?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether intention of the end is the same act as the volition of the means?" data-chapter="Whether intention of the end is the same act as the volition of the means?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intention of the end and the volition of the means are not
 one and the same movement. For [Augustine](/figures/augustine) says (De Trin. xi, 6) that "the will to see the window,
@@ -1842,7 +1842,7 @@ called "choice": but the movement of the will to the end as acquired by the mean
 "intention." A sign of this is that we can have intention of the end without having determined the
 means which are the object of choice.
 
-<span class="atom-split" data-atom="042" data-title="Whether intention is within the competency of irrational animals?" data-chapter="Whether intention is within the competency of irrational animals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether intention is within the competency of irrational animals?" data-chapter="Whether intention is within the competency of irrational animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that irrational animals intend the end. For in things void of reason
 nature stands further apart from the rational nature, than does the sensitive nature in irrational
@@ -1891,7 +1891,7 @@ Concerning choice there are six points of inquiry:
 (5) Whether choice is only of possible things?
 (6) Whether man chooses of necessity or freely?
 
-<span class="atom-split" data-atom="043" data-title="Whether choice is an act of will or of reason?" data-chapter="Whether choice is an act of will or of reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether choice is an act of will or of reason?" data-chapter="Whether choice is an act of will or of reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that choice is an act, not of will but of reason. For choice implies
 comparison, whereby one is given preference to another. But to compare is an act of reason.
@@ -1938,7 +1938,7 @@ reason the conclusion seems to belong to the act of choice, as to that which res
 Reply to Objection 3: In speaking "of ignorance of choice," we do not mean that choice is a
 sort of knowledge, but that there is ignorance of what ought to be chosen.
 
-<span class="atom-split" data-atom="044" data-title="Whether choice is to be found in irrational animals?" data-chapter="Whether choice is to be found in irrational animals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether choice is to be found in irrational animals?" data-chapter="Whether choice is to be found in irrational animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that irrational animals are able to choose. For choice "is the desire
 of certain things on account of an end," as stated in Ethic. iii, 2,3. But irrational animals desire
@@ -1997,7 +1997,7 @@ most orderly manner through being ordained by the Supreme art. For which reason,
 animals are called prudent or sagacious; and not because they reason or exercise any choice about
 things. This is clear from the fact that all that share in one nature, invariably act in the same way.
 
-<span class="atom-split" data-atom="045" data-title="Whether choice is only of the means, or sometimes also of the end?" data-chapter="Whether choice is only of the means, or sometimes also of the end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether choice is only of the means, or sometimes also of the end?" data-chapter="Whether choice is only of the means, or sometimes also of the end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that choice is not only of the means. For the Philosopher says
 (Ethic. vi, 12) that "virtue makes us choose aright; but it is not the part of virtue, but of some other
@@ -2033,7 +2033,7 @@ Reply to Objection 2: As stated above (Q[1], A[5]), there is but one last end. A
 wherever there are several ends, they can be the subject of choice, in so far as they are ordained to
 a further end.
 
-<span class="atom-split" data-atom="046" data-title="Whether choice is of those things only that are done by us?" data-chapter="Whether choice is of those things only that are done by us?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether choice is of those things only that are done by us?" data-chapter="Whether choice is of those things only that are done by us?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that choice is not only in respect of human acts. For choice regards
 the means. Now, not only acts, but also the organs, are means (Phys. ii, 3). Therefore choice is not
@@ -2070,7 +2070,7 @@ Reply to Objection 3: When a man chooses someone for a bishopric or some high po
 of the bishop or official, he would have no right to choose. Likewise, whenever we speak of one
 thing being chosen in preference to another, it is in conjunction with some action of the chooser.
 
-<span class="atom-split" data-atom="047" data-title="Whether choice is only of possible things?" data-chapter="Whether choice is only of possible things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether choice is only of possible things?" data-chapter="Whether choice is only of possible things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that choice in not only of possible things. For choice is an act of
 the will, as stated above (A[1]). Now there is "a willing of impossibilities" (Ethic. iii, 2). Therefore
@@ -2120,7 +2120,7 @@ of something apprehended as possible to the chooser, and yet impossible to him.
 Reply to Objection 3: The reason for this is that the subject should not rely on his own judgment
 to decide whether a certain thing is possible; but in each case should stand by his superior's judgment.
 
-<span class="atom-split" data-atom="048" data-title="Whether man chooses of necessity or freely?" data-chapter="Whether man chooses of necessity or freely?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether man chooses of necessity or freely?" data-chapter="Whether man chooses of necessity or freely?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man chooses of necessity. For the end stands in relation to the
 object of choice, as the principle of that which follows from the principles, as declared in Ethic.
@@ -2173,7 +2173,7 @@ Reply to Objection 3: If two things be proposed as equal under one aspect, nothi
 us from considering in one of them some particular point of superiority, so that the will has a bent
 towards that one rather than towards the other.
 
-<span class="atom-split" data-atom="049" data-title="OF COUNSEL, WHICH PRECEDES CHOICE (SIX ARTICLES)" data-chapter="OF COUNSEL, WHICH PRECEDES CHOICE (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="OF COUNSEL, WHICH PRECEDES CHOICE (SIX ARTICLES)" data-chapter="OF COUNSEL, WHICH PRECEDES CHOICE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider counsel; concerning which there are six points of inquiry:
 (1) Whether counsel is an inquiry?
@@ -2183,7 +2183,7 @@ We must now consider counsel; concerning which there are six points of inquiry:
 (5) Whether the process of counsel is one of analysis?
 (6) Whether the process of counsel is indefinite?
 
-<span class="atom-split" data-atom="050" data-title="Whether counsel is an inquiry?" data-chapter="Whether counsel is an inquiry?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether counsel is an inquiry?" data-chapter="Whether counsel is an inquiry?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that counsel is not an inquiry. For Damascene says (De Fide Orth.
 ii, 22) that counsel is "an act of the appetite." But inquiry is not an act of the appetite. Therefore
@@ -2235,7 +2235,7 @@ Reply to Objection 3: It may happen that things which are most certainly good in
 of wise and spiritual men are not certainly good in the opinion of many, or at least of carnal-minded
 men. Consequently in such things counsel may be given.
 
-<span class="atom-split" data-atom="051" data-title="Whether counsel is of the end, or only of the means?" data-chapter="Whether counsel is of the end, or only of the means?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether counsel is of the end, or only of the means?" data-chapter="Whether counsel is of the end, or only of the means?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that counsel is not only of the means but also of the end. For
 whatever is doubtful, can be the subject of inquiry. Now in things to be done by man there happens
@@ -2263,7 +2263,7 @@ about it, it will be counsel not about the end, but about the means.
 Reply to Objection 2: Counsel is about operations, in so far as they are ordained to some end.
 Consequently if any human act be an end, it will not, as such, be the matter of counsel.
 
-<span class="atom-split" data-atom="052" data-title="Whether counsel is only of things that we do?" data-chapter="Whether counsel is only of things that we do?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether counsel is only of things that we do?" data-chapter="Whether counsel is only of things that we do?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that counsel is not only of things that we do. For counsel implies
 some kind of conference. But it is possible for many to confer about things that are not subject to
@@ -2314,7 +2314,7 @@ his friend, as though it concerned himself; or after the manner of an instrument
 agent and the instrument are, in a way, one cause, since one acts through the other; thus the master
 takes counsel about what he would do through his servant.
 
-<span class="atom-split" data-atom="053" data-title="Whether counsel is about all things that we do?" data-chapter="Whether counsel is about all things that we do?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether counsel is about all things that we do?" data-chapter="Whether counsel is about all things that we do?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that counsel is about all things that we have to do. For choice is
 the "desire of what is counselled" as stated above (A[1]). But choice is about all things that we do.
@@ -2358,7 +2358,7 @@ doubt may arise, just as when it can be accomplished by several means: hence the
 But when not only the means, but also the way of using the means, is fixed, then there is no need
 of counsel.
 
-<span class="atom-split" data-atom="054" data-title="Whether the process of counsel is one of analysis?" data-chapter="Whether the process of counsel is one of analysis?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the process of counsel is one of analysis?" data-chapter="Whether the process of counsel is one of analysis?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the process of counsel is not one of analysis. For counsel is
 about things that we do. But the process of our actions is not one of analysis, but rather one of
@@ -2399,7 +2399,7 @@ Reply to Objection 3: We should not want to know whether something to be done fo
 be possible, if it were not suitable for gaining that end. Hence we must first inquire whether it be
 conducive to the end, before considering whether it be possible.
 
-<span class="atom-split" data-atom="055" data-title="Whether the process of counsel is indefinite?" data-chapter="Whether the process of counsel is indefinite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether the process of counsel is indefinite?" data-chapter="Whether the process of counsel is indefinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the process of counsel is indefinite. For counsel is an inquiry
 about the particular things with which action is concerned. But singulars are infinite. Therefore the
@@ -2451,7 +2451,7 @@ We must now consider consent; concerning which there are four points of inquiry:
 (3) Whether it is directed to the end or to the means?
 (4) Whether consent to an act belongs to the higher part of the soul only?
 
-<span class="atom-split" data-atom="056" data-title="Whether consent is an act of the appetitive or of the apprehensive power?" data-chapter="Whether consent is an act of the appetitive or of the apprehensive power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether consent is an act of the appetitive or of the apprehensive power?" data-chapter="Whether consent is an act of the appetitive or of the apprehensive power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that consent belongs only to the apprehensive part of the soul. For
 [Augustine](/figures/augustine) (De Trin. xii, 12) ascribes consent to the higher reason. But the reason is an apprehensive
@@ -2494,7 +2494,7 @@ have stated in the FP, Q[16], A[1]; FP, Q[27], A[4]; FP, Q[59], A[2], is more pr
 assent: although one word is wont to be used for the other [*In Latin rather than in English.]. We
 may also say that the intellect assents, in so far as it is moved by the will.
 
-<span class="atom-split" data-atom="057" data-title="Whether consent is to be found in irrational animals?" data-chapter="Whether consent is to be found in irrational animals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether consent is to be found in irrational animals?" data-chapter="Whether consent is to be found in irrational animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that consent is to be found in irrational animals. For consent implies
 a determination of the appetite to one thing. But the appetite of irrational animals is determinate to
@@ -2537,7 +2537,7 @@ animals.
 Reply to Objection 3: The man who acts through passion is able not to follow the passion:
 whereas irrational animals have not that power. Hence the comparison fails.
 
-<span class="atom-split" data-atom="058" data-title="Whether consent is directed to the end or to the means?" data-chapter="Whether consent is directed to the end or to the means?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether consent is directed to the end or to the means?" data-chapter="Whether consent is directed to the end or to the means?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that consent is directed to the end. Because that on account of
 which a thing is such is still more such. But it is on account of the end that we consent to the means.
@@ -2588,7 +2588,7 @@ with approval, then consent and choice do not differ in reality, but only in our
 them; so that we call it consent, according as we approve of doing that thing; but choice according
 as we prefer it to those that do not meet with our approval.
 
-<span class="atom-split" data-atom="059" data-title="Whether consent to the act belongs only to the higher part of the soul?" data-chapter="Whether consent to the act belongs only to the higher part of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether consent to the act belongs only to the higher part of the soul?" data-chapter="Whether consent to the act belongs only to the higher part of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that consent to the act does not always belong to the higher reason.
 For "delight follows action, and perfects it, just as [beauty](/concepts/beauty) perfects youth" [*oion tois akmaiois he
@@ -2642,7 +2642,7 @@ We must now consider use; concerning which there are four points of inquiry:
 (3) Whether it regards the means only, or the end also?
 (4) Of the relation of use to choice.
 
-<span class="atom-split" data-atom="060" data-title="Whether use is an act of the will?" data-chapter="Whether use is an act of the will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether use is an act of the will?" data-chapter="Whether use is an act of the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that use is not an act of the will. For [Augustine](/figures/augustine) says (De Doctr.
 Christ. i, 4) that "to use is to refer that which is the object of use to the obtaining of something else."
@@ -2689,7 +2689,7 @@ Reply to Objection 3: Even the speculative reason is applied by the will to the 
 understanding or judging. Consequently the speculative reason is said to use, in so far as it is moved
 by the will, in the same way as the other powers.
 
-<span class="atom-split" data-atom="061" data-title="Whether use is to be found in irrational animals?" data-chapter="Whether use is to be found in irrational animals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether use is to be found in irrational animals?" data-chapter="Whether use is to be found in irrational animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that use is to be found in irrational animals. For it is better to enjoy
 than to use, because, as [Augustine](/figures/augustine) says (De Trin. x, 10): "We use things by referring them to
@@ -2721,7 +2721,7 @@ Reply to Objection 2: Animals by means of their members do something from natura
 not through knowing the relation of their members to these operations. Wherefore, properly speaking,
 they do not apply their members to action, nor do they use them.
 
-<span class="atom-split" data-atom="062" data-title="Whether use regards also the last end?" data-chapter="Whether use regards also the last end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether use regards also the last end?" data-chapter="Whether use regards also the last end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that use can regard also the last end. For [Augustine](/figures/augustine) says (De Trin.
 x, 11): "Whoever enjoys, uses." But man enjoys the last end. Therefore he uses the last end.
@@ -2764,7 +2764,7 @@ just as, speaking in a general sense, one may be said to use the end for the pur
 as stated above. Hence Augustine says (De Trin. vi, 10) that "this love, delight, felicity, or happiness,
 is called use by him."
 
-<span class="atom-split" data-atom="063" data-title="Whether use precedes choice?" data-chapter="Whether use precedes choice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether use precedes choice?" data-chapter="Whether use precedes choice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that use precedes choice. For nothing follows after choice, except
 execution. But use, since it belongs to the will, precedes execution. Therefore it precedes choice
@@ -2812,7 +2812,7 @@ on one another, in each act of the will we can find both consent and choice and 
 say that the will consents to choose, and consents to consent, and uses itself in consenting and
 choosing. And such acts as are ordained to that which precedes, precede also.
 
-<span class="atom-split" data-atom="064" data-title="OF THE ACTS COMMANDED BY THE WILL (NINE ARTICLES)" data-chapter="OF THE ACTS COMMANDED BY THE WILL (NINE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="OF THE ACTS COMMANDED BY THE WILL (NINE ARTICLES)" data-chapter="OF THE ACTS COMMANDED BY THE WILL (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the acts commanded by the will; under which head there are nine points
 of inquiry:
@@ -2826,7 +2826,7 @@ of inquiry:
 (8) Whether the act of the vegetal soul is commanded?
 (9) Whether the acts of the external members are commanded?
 
-<span class="atom-split" data-atom="065" data-title="Whether command is an act of the reason or of the will?" data-chapter="Whether command is an act of the reason or of the will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether command is an act of the reason or of the will?" data-chapter="Whether command is an act of the reason or of the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that command is not an act of the reason but of the will. For
 command is a kind of motion; because Avicenna says that there are four ways of moving, "by
@@ -2877,7 +2877,7 @@ arising from reason," implying that reason is the root of liberty.
 Reply to Objection 3: This argument proves that command is an act of reason not absolutely,
 but with a kind of motion as stated above.
 
-<span class="atom-split" data-atom="066" data-title="Whether command belongs to irrational animals?" data-chapter="Whether command belongs to irrational animals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether command belongs to irrational animals?" data-chapter="Whether command belongs to irrational animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that command belongs to irrational animals. Because, according
 to Avicenna, "the power that commands movement is the appetite; and the power that executes
@@ -2915,7 +2915,7 @@ as they apprehend the fitting or the unfitting, their appetite is moved naturall
 Wherefore they are directed by another to act; and they themselves do not direct themselves to act.
 Consequently in them is impulse but not command.
 
-<span class="atom-split" data-atom="067" data-title="Whether use precedes command?" data-chapter="Whether use precedes command?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether use precedes command?" data-chapter="Whether use precedes command?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that use precedes command. For command is an act of the reason
 presupposing an act of the will, as stated above (A[1]). But, as we have already shown (Q[16],
@@ -2957,7 +2957,7 @@ Reply to Objection 3: Just as the act of the will in using the reason for the pu
 precedes the command; so also we may say that this act whereby the will uses the reason, is preceded
 by a command of reason; since the acts of these powers react on one another.
 
-<span class="atom-split" data-atom="068" data-title="Whether command and the commanded act are one act, or distinct?" data-chapter="Whether command and the commanded act are one act, or distinct?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether command and the commanded act are one act, or distinct?" data-chapter="Whether command and the commanded act are one act, or distinct?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the commanded act is not one with the command itself. For
 the acts of different powers are themselves distinct. But the commanded act belongs to one power,
@@ -3008,7 +3008,7 @@ Reply to Objection 3: In those things that are many in parts, but one as a whole
 one part from preceding another. Thus the soul, in a way, precedes the body; and the heart, the
 other members.
 
-<span class="atom-split" data-atom="069" data-title="Whether the act of the will is commanded?" data-chapter="Whether the act of the will is commanded?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether the act of the will is commanded?" data-chapter="Whether the act of the will is commanded?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the act of the will is not commanded. For [Augustine](/figures/augustine) says
 (Confess. viii, 9): "The mind commands the mind to will, and yet it does not." But to will is the act
@@ -3051,7 +3051,7 @@ subject to reason. Now the first act of the will is not due to the direction of 
 instigation of nature, or of a higher cause, as stated above (Q[9], A[4]). Therefore there is no need
 to proceed to infinity.
 
-<span class="atom-split" data-atom="070" data-title="Whether the act of the reason is commanded?" data-chapter="Whether the act of the reason is commanded?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether the act of the reason is commanded?" data-chapter="Whether the act of the reason is commanded?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the act of the reason cannot be commanded. For it seems
 impossible for a thing to command itself. But it is the reason that commands, as stated above (A[1]).
@@ -3095,7 +3095,7 @@ nothing prevents the reason from participating in itself: thus the knowledge of 
 participated in the knowledge of the conclusions.
 The reply to the third object is evident from what has been said.
 
-<span class="atom-split" data-atom="071" data-title="Whether the act of the sensitive appetite is commanded?" data-chapter="Whether the act of the sensitive appetite is commanded?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether the act of the sensitive appetite is commanded?" data-chapter="Whether the act of the sensitive appetite is commanded?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the act of the sensitive appetite is not commanded. For the
 Apostle says (Rom. 7:15): "For I do not that good which I will": and a gloss explains this by saying
@@ -3162,7 +3162,7 @@ or weakness of the imaginative power. For that man is unable to imagine the thin
 considers, is either because they cannot be imagined, such as incorporeal things; or because of the
 weakness of the imaginative power, due to some organic indisposition.
 
-<span class="atom-split" data-atom="072" data-title="Whether the act of the vegetal soul is commanded?" data-chapter="Whether the act of the vegetal soul is commanded?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether the act of the vegetal soul is commanded?" data-chapter="Whether the act of the vegetal soul is commanded?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the acts of the vegetal soul are subject to the command of
 reason. For the sensitive powers are of higher rank than the vegetal powers. But the powers of the
@@ -3206,7 +3206,7 @@ the acts of the sensitive part, that are ordained to the acts of generation and 
 the desire for pleasure in the act of taking food or in the act of generation, and the right or wrong
 use thereof.
 
-<span class="atom-split" data-atom="073" data-title="Whether the acts of the external members are commanded?" data-chapter="Whether the acts of the external members are commanded?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the acts of the external members are commanded?" data-chapter="Whether the acts of the external members are commanded?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the members of the body do not obey reason as to their acts.
 For it is evident that the members of the body are more distant from the reason, than the powers of
@@ -3270,7 +3270,7 @@ the principle of the senses; and from the organ of generation proceeds the semin
 virtually the entire animal. Consequently they have their proper movements naturally: because
 principles must needs be natural, as stated above (Reply OBJ 2).
 
-<span class="atom-split" data-atom="074" data-title="OF THE GOOD AND EVIL OF HUMAN ACTS, IN GENERAL (ELEVEN ARTICLES)" data-chapter="OF THE GOOD AND EVIL OF HUMAN ACTS, IN GENERAL (ELEVEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="OF THE GOOD AND EVIL OF HUMAN ACTS, IN GENERAL (ELEVEN ARTICLES)" data-chapter="OF THE GOOD AND EVIL OF HUMAN ACTS, IN GENERAL (ELEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the good and evil of human acts. First, how a human act is good or evil;
 secondly, what results from the good or evil of a human act, as merit or demerit, sin and guilt.
@@ -3292,7 +3292,7 @@ object, as under its genus, or conversely?
 (11) Whether every circumstance that makes an action better or worse, places the moral action
 in the species of good or evil?
 
-<span class="atom-split" data-atom="075" data-title="Whether every human action is good, or are there evil actions?" data-chapter="Whether every human action is good, or are there evil actions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether every human action is good, or are there evil actions?" data-chapter="Whether every human action is good, or are there evil actions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every human action is good, and that none is evil. For Dionysius
 says (Div. Nom. iv) that evil acts not, save in virtue of the good. But no evil is done in virtue of
@@ -3344,7 +3344,7 @@ Reply to Objection 3: An evil action can have a proper effect, according to the 
 being that it has. Thus adultery is the cause of human generation, inasmuch as it implies union of
 male and female, but not inasmuch as it lacks the order of reason.
 
-<span class="atom-split" data-atom="076" data-title="Whether the good or evil of a man's action is derived from its object?" data-chapter="Whether the good or evil of a man's action is derived from its object?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether the good or evil of a man's action is derived from its object?" data-chapter="Whether the good or evil of a man's action is derived from its object?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the good or evil of an action is not derived from its object. For
 the object of any action is a thing. But "evil is not in things, but in the sinner's use of them," as
@@ -3397,7 +3397,7 @@ the goodness of an action is not caused by the goodness of its effect, yet an ac
 from the fact that it can produce a good effect. Consequently the very proportion of an action to its
 effect is the measure of its goodness.
 
-<span class="atom-split" data-atom="077" data-title="Whether man's action is good or evil from a circumstance?" data-chapter="Whether man's action is good or evil from a circumstance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether man's action is good or evil from a circumstance?" data-chapter="Whether man's action is good or evil from a circumstance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an action is not good or evil from a circumstance. For
 circumstances stand around [circumstant] an action, as being outside it, as stated above (Q[7],
@@ -3440,7 +3440,7 @@ Reply to Objection 3: Since good and being are convertible; according as being i
 of substance and of accident, so is good predicated of a thing both in respect of its essential being,
 and in respect of its accidental being; and this, both in natural things and in moral actions.
 
-<span class="atom-split" data-atom="078" data-title="Whether a human action is good or evil from its end?" data-chapter="Whether a human action is good or evil from its end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether a human action is good or evil from its end?" data-chapter="Whether a human action is good or evil from its end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the good and evil in human actions are not from the end. For
 Dionysius says (Div. Nom. iv) that "nothing acts with a view to evil." If therefore an action were
@@ -3486,7 +3486,7 @@ in its species or in its circumstances is ordained to an evil end, or vice versa
 is not good simply, unless it is good in all those ways: since "evil results from any single defect,
 but good from the complete cause," as Dionysius says (Div. Nom. iv).
 
-<span class="atom-split" data-atom="079" data-title="Whether a human action is good or evil in its species?" data-chapter="Whether a human action is good or evil in its species?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether a human action is good or evil in its species?" data-chapter="Whether a human action is good or evil in its species?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that good and evil in moral actions do not make a difference of
 species. For the existence of good and evil in actions is in conformity with their existence in things,
@@ -3548,7 +3548,7 @@ object, as compared to reason; and then it can specify a moral act. And it must 
 a circumstance transforms an action from good to evil; for a circumstance would not make an action
 evil, except through being repugnant to reason.
 
-<span class="atom-split" data-atom="080" data-title="Whether an action has the species of good or evil from its end?" data-chapter="Whether an action has the species of good or evil from its end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether an action has the species of good or evil from its end?" data-chapter="Whether an action has the species of good or evil from its end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the good and evil which are from the end do not diversify the
 species of actions. For actions derive their species from the object. But the end is altogether apart
@@ -3591,7 +3591,7 @@ Reply to Objection 3: When many actions, differing in species, are ordained to t
 there is indeed a diversity of species on the part of the external actions; but unity of species on the
 part of the internal action.
 
-<span class="atom-split" data-atom="081" data-title="Whether the species derived from the end is contained under the species derived from the object, as under its genus, or conversely?" data-chapter="Whether the species derived from the end is contained under the species derived from the object, as under its genus, or conversely?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether the species derived from the end is contained under the species derived from the object, as under its genus, or conversely?" data-chapter="Whether the species derived from the end is contained under the species derived from the object, as under its genus, or conversely?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the species of goodness derived from the end is contained
 under the species of goodness derived from the object, as a species is contained under its genus;
@@ -3663,7 +3663,7 @@ inasmuch as it is something more absolute and less contracted. Wherefore also th
 definition are reduced to the genus of [formal cause](/concepts/four_causes), as is stated in Phys. ii, 3. And in this sense the
 genus is the formal cause of the species; and so much the more formal, as it is more universal.
 
-<span class="atom-split" data-atom="082" data-title="Whether any action is indifferent in its species?" data-chapter="Whether any action is indifferent in its species?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether any action is indifferent in its species?" data-chapter="Whether any action is indifferent in its species?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no action is indifferent in its species. For evil is the privation
 of good, according to [Augustine](/figures/augustine) (Enchiridion xi). But privation and [habit](/concepts/custom) are immediate contraries,
@@ -3712,7 +3712,7 @@ Wherefore although an action's specific nature may not contain all that belongs 
 complement of its goodness, it is not therefore an action specifically bad; nor is it specifically good.
 Thus a man in regard to his species is neither virtuous nor wicked.
 
-<span class="atom-split" data-atom="083" data-title="Whether an individual action can be indifferent?" data-chapter="Whether an individual action can be indifferent?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether an individual action can be indifferent?" data-chapter="Whether an individual action can be indifferent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an individual action can be indifferent. For there is no species
 that does not, cannot, contain an individual. But an action can be indifferent in its species, as stated
@@ -3773,7 +3773,7 @@ the good of some virtue, or to the evil of some vice. Thus, if a man's action is
 or repose of his body, it is also directed to the good of virtue, provided he direct his body itself to
 the good of virtue. The same clearly applies to other actions.
 
-<span class="atom-split" data-atom="084" data-title="Whether a circumstance places a moral action in the species of good or evil?" data-chapter="Whether a circumstance places a moral action in the species of good or evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether a circumstance places a moral action in the species of good or evil?" data-chapter="Whether a circumstance places a moral action in the species of good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a circumstance cannot place a moral action in the species of
 good or evil. For the species of an action is taken from its object. But circumstances differ from
@@ -3823,7 +3823,7 @@ although one action may have many circumstances, it does not follow that it is i
 Nevertheless there is no reason why one action should not be in several, even disparate, moral
 species, as said above (A[7], ad 1; Q[1], A[3], ad 3).
 
-<span class="atom-split" data-atom="085" data-title="Whether every circumstance that makes an action better or worse, places a moral action in a species of good or evil?" data-chapter="Whether every circumstance that makes an action better or worse, places a moral action in a species of good or evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether every circumstance that makes an action better or worse, places a moral action in a species of good or evil?" data-chapter="Whether every circumstance that makes an action better or worse, places a moral action in a species of good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every circumstance relating to good or evil, specifies an action.
 For good and evil are specific differences of moral actions. Therefore that which causes a difference
@@ -3893,7 +3893,7 @@ in the intention?
 (10) Whether it is necessary for the human will, in order to be good, to be conformed to the
 Divine Will, as regards the thing willed?
 
-<span class="atom-split" data-atom="086" data-title="Whether the goodness of the will depends on the object?" data-chapter="Whether the goodness of the will depends on the object?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether the goodness of the will depends on the object?" data-chapter="Whether the goodness of the will depends on the object?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the goodness of the will does not depend on the object. For
 the will cannot be directed otherwise than to what is good: since "evil is outside the scope of the
@@ -3933,7 +3933,7 @@ Reply to Objection 3: Good is presented to the will as its object by the reason:
 as it is in accord with reason, it enters the moral order, and causes moral goodness in the act of the
 will: because the reason is the principle of human and moral acts, as stated above (Q[18], A[5]).
 
-<span class="atom-split" data-atom="087" data-title="Whether the goodness of the will depends on the object alone?" data-chapter="Whether the goodness of the will depends on the object alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Whether the goodness of the will depends on the object alone?" data-chapter="Whether the goodness of the will depends on the object alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the goodness of the will does not depend on the object alone.
 For the end has a closer relationship to the will than to any other power. But the acts of the other
@@ -3990,7 +3990,7 @@ Reply to Objection 3: Ignorance of circumstances excuses malice of the will, in 
 circumstance affects the thing willed: that is to say, in so far as a man ignores the circumstances
 of the act which he wills.
 
-<span class="atom-split" data-atom="088" data-title="Whether the goodness of the will depends on reason?" data-chapter="Whether the goodness of the will depends on reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether the goodness of the will depends on reason?" data-chapter="Whether the goodness of the will depends on reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the goodness of the will does not depend on reason. For what
 comes first does not depend on what follows. But the good belongs to the will before it belongs to
@@ -4030,7 +4030,7 @@ of the end.
 Reply to Objection 3: The will moves the reason in one way: the reason moves the will in
 another, viz. on the part of the object, as stated above (Q[9], A[1]).
 
-<span class="atom-split" data-atom="089" data-title="Whether the goodness of the will depends on the eternal law?" data-chapter="Whether the goodness of the will depends on the eternal law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether the goodness of the will depends on the eternal law?" data-chapter="Whether the goodness of the will depends on the eternal law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the goodness of the human will does not depend on the eternal
 law. Because to one thing there is one rule and one measure. But the rule of the human will, on
@@ -4068,7 +4068,7 @@ Reply to Objection 3: Although the eternal law is unknown to us according as it 
 Mind: nevertheless, it becomes known to us somewhat, either by natural reason which is derived
 therefrom as its proper image; or by some sort of additional [revelation](/concepts/revelation).
 
-<span class="atom-split" data-atom="090" data-title="Whether the will is evil when it is at variance with erring reason?" data-chapter="Whether the will is evil when it is at variance with erring reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether the will is evil when it is at variance with erring reason?" data-chapter="Whether the will is evil when it is at variance with erring reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is not evil when it is at variance with erring reason.
 Because the reason is the rule of the human will, in so far as it is derived from the [eternal law](/concepts/eternal_law), as
@@ -4150,7 +4150,7 @@ Reply to Objection 3: Whenever reason apprehends something as evil, it apprehend
 some species of evil; for instance, as being something contrary to a divine precept, or as giving
 scandal, or for some such like reason. And then that evil is reduced to that species of malice.
 
-<span class="atom-split" data-atom="091" data-title="Whether the will is good when it abides by erring reason?" data-chapter="Whether the will is good when it abides by erring reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Whether the will is good when it abides by erring reason?" data-chapter="Whether the will is good when it abides by erring reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is good when it abides by erring reason. For just as
 the will, when at variance with the reason, tends to that which reason judges to be evil; so, when
@@ -4211,7 +4211,7 @@ manner, suppose a man's reason or conscience to err through inexcusable ignoranc
 needs result in the will. Nor is this man in a dilemma: because he can lay aside his error, since his
 ignorance is vincible and voluntary.
 
-<span class="atom-split" data-atom="092" data-title="Whether the goodness of the will, as regards the means, depends on the intention of the end?" data-chapter="Whether the goodness of the will, as regards the means, depends on the intention of the end?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether the goodness of the will, as regards the means, depends on the intention of the end?" data-chapter="Whether the goodness of the will, as regards the means, depends on the intention of the end?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the goodness of the will does not depend on the intention of
 the end. For it has been stated above (A[2]) that the goodness of the will depends on the object
@@ -4260,7 +4260,7 @@ itself, even under the species of good; or to the good under the species of evil
 either case. But in order for the will to be good, it must tend to the good under the species of good;
 in other words, it must will the good for the sake of the good.
 
-<span class="atom-split" data-atom="093" data-title="Whether the degree of goodness or malice in the will depends on the degree of good or evil in the intention?" data-chapter="Whether the degree of goodness or malice in the will depends on the degree of good or evil in the intention?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the degree of goodness or malice in the will depends on the degree of good or evil in the intention?" data-chapter="Whether the degree of goodness or malice in the will depends on the degree of good or evil in the intention?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the degree of goodness in the will depends on the degree of
 good in the intention. Because on Mat. 12:35, "A good man out of the good treasure of his heart
@@ -4326,7 +4326,7 @@ Reply to Objection 3: The mere malice of the intention suffices to make the will
 therefore too, the will is as evil as the intention is evil. But the same reasoning does not apply to
 goodness, as stated above (ad 2).
 
-<span class="atom-split" data-atom="094" data-title="Whether the goodness of the will depends on its conformity to the Divine will?" data-chapter="Whether the goodness of the will depends on its conformity to the Divine will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether the goodness of the will depends on its conformity to the Divine will?" data-chapter="Whether the goodness of the will depends on its conformity to the Divine will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the goodness of the human will does not depend on its
 conformity to the Divine will. Because it is impossible for man's will to be conformed to the Divine
@@ -4363,7 +4363,7 @@ knowledge, in so far as it knows truth: and human action is conformed to the Div
 it is becoming to the agent: and this by way of imitation, not by way of equality.
 From the above may be gathered the replies to the Second and Third Objections.
 
-<span class="atom-split" data-atom="095" data-title="Whether it is necessary for the human will, in order to be good, to be conformed to the Divine will, as regards the thing willed?" data-chapter="Whether it is necessary for the human will, in order to be good, to be conformed to the Divine will, as regards the thing willed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether it is necessary for the human will, in order to be good, to be conformed to the Divine will, as regards the thing willed?" data-chapter="Whether it is necessary for the human will, in order to be good, to be conformed to the Divine will, as regards the thing willed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human will need not always be conformed to the Divine
 will, as regards the thing willed. For we cannot will what we know not: since the apprehended good
@@ -4457,7 +4457,7 @@ different things, but not under the same aspect: but there is opposition of will
 and the same aspect, one man wills a thing which another wills not. But there is no question of this
 here.
 
-<span class="atom-split" data-atom="096" data-title="OF GOODNESS AND MALICE IN EXTERNAL HUMAN AFFAIRS (SIX ARTICLES)" data-chapter="OF GOODNESS AND MALICE IN EXTERNAL HUMAN AFFAIRS (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="OF GOODNESS AND MALICE IN EXTERNAL HUMAN AFFAIRS (SIX ARTICLES)" data-chapter="OF GOODNESS AND MALICE IN EXTERNAL HUMAN AFFAIRS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider goodness and malice as to external actions: under which head there are
 six points of inquiry:
@@ -4470,7 +4470,7 @@ action?
 (5) Whether the consequences of an external action increase its goodness or malice?
 (6) Whether one and the same external action can be both good and evil?
 
-<span class="atom-split" data-atom="097" data-title="Whether goodness or malice is first in the action of the will, or in the external action?" data-chapter="Whether goodness or malice is first in the action of the will, or in the external action?" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Whether goodness or malice is first in the action of the will, or in the external action?" data-chapter="Whether goodness or malice is first in the action of the will, or in the external action?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that good and evil are in the external action prior to being in the
 act of the will. For the will derives goodness from its object, as stated above (Q[19], AA[1],2). But
@@ -4517,7 +4517,7 @@ it precedes in every way. Now the will is compared to the exterior action, as it
 Wherefore the goodness of the act of the will, as existing in the active cause, is the form of the
 exterior action.
 
-<span class="atom-split" data-atom="098" data-title="Whether the whole goodness and malice of the external action depends on the goodness of the will?" data-chapter="Whether the whole goodness and malice of the external action depends on the goodness of the will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether the whole goodness and malice of the external action depends on the goodness of the will?" data-chapter="Whether the whole goodness and malice of the external action depends on the goodness of the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the whole goodness and malice of the external action depend
 on the goodness of the will. For it is written (Mat. 7:18): "A good tree cannot bring forth evil fruit,
@@ -4560,7 +4560,7 @@ Reply to Objection 3: Voluntariness applies not only to the interior act of the 
 external actions, inasmuch as they proceed from the will and the reason. Consequently the difference
 of good and evil is applicable to both the interior and external act.
 
-<span class="atom-split" data-atom="099" data-title="Whether the goodness and malice of the external action are the same as those of the interior act?" data-chapter="Whether the goodness and malice of the external action are the same as those of the interior act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether the goodness and malice of the external action are the same as those of the interior act?" data-chapter="Whether the goodness and malice of the external action are the same as those of the interior act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the goodness and malice of the interior act of the will are not
 the same as those of the external action. For the principle of the interior act is the interior
@@ -4625,7 +4625,7 @@ the body of an animal, of which health medicine is the cause, and urine the sign
 that the goodness of the external action is derived from the goodness of the will, and vice versa;
 viz. according to the order of one to the other.
 
-<span class="atom-split" data-atom="100" data-title="Whether the external action adds any goodness or malice to that of the interior act?" data-chapter="Whether the external action adds any goodness or malice to that of the interior act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether the external action adds any goodness or malice to that of the interior act?" data-chapter="Whether the external action adds any goodness or malice to that of the interior act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the external action does not add any goodness or malice to
 that of the interior action. For Chrysostom says (Hom. xix in Mat.): "It is the will that is rewarded
@@ -4681,7 +4681,7 @@ that which it has from the very act willed, to which it stands in the relation o
 as stated above (AA[1],2).
 From this the reply to the Third Objection is evident.
 
-<span class="atom-split" data-atom="101" data-title="Whether the consequences of the external action increase its goodness or malice?" data-chapter="Whether the consequences of the external action increase its goodness or malice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether the consequences of the external action increase its goodness or malice?" data-chapter="Whether the consequences of the external action increase its goodness or malice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the consequences of the external action increase its goodness
 or malice. For the effect pre-exists virtually in its cause. But the consequences result from the action
@@ -4739,7 +4739,7 @@ reckoned as punishable.
 Reply to Objection 4: This argument would prove if irregularity were the result of the fault.
 But it is not the result of the fault, but of the fact, and of the obstacle to the reception of a [sacrament](/concepts/sacrament).
 
-<span class="atom-split" data-atom="102" data-title="Whether one and the same external action can be both good and evil?" data-chapter="Whether one and the same external action can be both good and evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="Whether one and the same external action can be both good and evil?" data-chapter="Whether one and the same external action can be both good and evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one and the same external action can be both good and evil.
 For "movement, if continuous, is one and the same" (Phys. v, 4). But one continuous movement
@@ -4784,7 +4784,7 @@ Reply to Objection 3: The action of the servant, in so far as it proceeds from t
 servant, is not the master's action: but only in so far as it proceeds from the master's command.
 Wherefore the evil will of the servant does not make the action evil in this respect.
 
-<span class="atom-split" data-atom="103" data-title="OF THE CONSEQUENCES OF HUMAN ACTIONS BY REASON OF THEIR GOODNESS AND MALICE (FOUR ARTICLES)" data-chapter="OF THE CONSEQUENCES OF HUMAN ACTIONS BY REASON OF THEIR GOODNESS AND MALICE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="OF THE CONSEQUENCES OF HUMAN ACTIONS BY REASON OF THEIR GOODNESS AND MALICE (FOUR ARTICLES)" data-chapter="OF THE CONSEQUENCES OF HUMAN ACTIONS BY REASON OF THEIR GOODNESS AND MALICE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the consequences of human actions by reason of their goodness and
 malice: and under this head there are four points of inquiry:
@@ -4793,7 +4793,7 @@ malice: and under this head there are four points of inquiry:
 (3) Whether accordingly, it is meritorious or demeritorious?
 (4) Whether it is accordingly meritorious or demeritorious before God?
 
-<span class="atom-split" data-atom="104" data-title="Whether a human action is right or sinful, in so far as it is good or evil?" data-chapter="Whether a human action is right or sinful, in so far as it is good or evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether a human action is right or sinful, in so far as it is good or evil?" data-chapter="Whether a human action is right or sinful, in so far as it is good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a human action is not right or sinful, in so far as it is good or evil.
 For "monsters are the sins of nature" (Phys. ii, 8). But monsters are not actions, but things engendered
@@ -4847,7 +4847,7 @@ Reply to Objection 3: Each thing is ordained to its end by its action: and there
 consists in straying from the order to the end, consists properly in an action. On the other hand,
 punishment regards the person of the sinner, as was stated in the FP, Q[48], A[5], ad 4; A[6], ad
 
-<span class="atom-split" data-atom="105" data-title="Whether a human action deserves praise or blame, by reason of its being good or evil?" data-chapter="Whether a human action deserves praise or blame, by reason of its being good or evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether a human action deserves praise or blame, by reason of its being good or evil?" data-chapter="Whether a human action deserves praise or blame, by reason of its being good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a human action does not deserve praise or blame by reason of
 its being good or evil. For "sin happens even in things done by nature" (Phys. ii, 8). And yet natural
@@ -4902,7 +4902,7 @@ is preferable; but in prudence, as in the moral virtues," which prudence directs
 Reply to Objection 3: Weakness that occurs in voluntary evils, is subject to man's power:
 wherefore it neither takes away nor diminishes guilt.
 
-<span class="atom-split" data-atom="106" data-title="Whether a human action is meritorious or demeritorious in so far as it is good or evil?" data-chapter="Whether a human action is meritorious or demeritorious in so far as it is good or evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Whether a human action is meritorious or demeritorious in so far as it is good or evil?" data-chapter="Whether a human action is meritorious or demeritorious in so far as it is good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a human action is not meritorious or demeritorious on account
 of its goodness or malice. For we speak of merit or demerit in relation to retribution, which has no
@@ -4953,7 +4953,7 @@ which he is bound to serve the community.
 Reply to Objection 3: This very good or evil, which a man does to himself by his action,
 redounds to the community, as stated above.
 
-<span class="atom-split" data-atom="107" data-title="Whether a human action is meritorious or demeritorious before God, according as it is good or evil?" data-chapter="Whether a human action is meritorious or demeritorious before God, according as it is good or evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether a human action is meritorious or demeritorious before God, according as it is good or evil?" data-chapter="Whether a human action is meritorious or demeritorious before God, according as it is good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man's actions, good or evil, are not meritorious or demeritorious
 in the sight of God. Because, as stated above (A[3]), merit and demerit imply relation to retribution

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/reforma_parlamentaria" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Reforma parlamentaria" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Reforma parlamentaria" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero, en fin, ¿qué podría hacerse hoy concretamente en el sentido de nuestro principio? Cosas que juzgamos de enorme importancia: unas, de carácter político; otras, de sustancia económica.
 

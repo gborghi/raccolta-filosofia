@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/extrait_dune_réponse_du_petit_faiseur_a_son_prête-nom" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="EXTRAIT D'UNE RÉPONSE DU PETIT FAISEUR A SON PRÊTE-NOM" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="EXTRAIT D'UNE RÉPONSE DU PETIT FAISEUR A SON PRÊTE-NOM" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Quant au passage enharmonique de l'Orphée de M. Gluck, que vous dites avoir tant de peine à entonner et même à entendre, j'en sais bien la raison : c'est que vous ne pouvez rien sans moi, et qu'en quelque genre que ce puisse être, dépourvu de mon assistance, vous ne serez jamais qu'un ignorant. Vous sentez du moins la beauté de ce passage, et c'est déjà quelque chose ; mais vous ignorez ce qui la produit : je vais vous l'apprendre.
 
@@ -42,6 +42,6 @@ Ceci, je le sais bien, est directement contraire aux calculs établis et à l'op
 
 Je finirai ces observations par une remarque qu'il ne faut pas omettre ; c'est que tout l'effet du passage que je viens d'examiner lui vient de ce que le morceau dans lequel il se trouve est en mode majeur ; car s'il eût été mineur, le chant d'Orphée restant le même eût été sans force et sans effet, l'intonation des furies par le bécarre eut été impossible et absurde, et il n'y aurait rien eu d'enharmonique dans le passage. Je parierais tout au monde qu'un Français, ayant ce morceau à faire, l'eut traité en mode mineur. Il y aurait pu mettre d'autres beautés sans doute, mais aucune qui fût aussi simple et qui valût celle-là.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Voilà ce que ma mémoire a pu me suggérer sur ce passage et sur son explication. Ces grands effets se trouvent par le génie, qui est rare, et se sentent par l'organe sensitif, dont tant de gens sont privés ; mais ils ne s’expliquent que par une étude réfléchie de l’art. Vous n'auriez pas besoin maintenant de mes analyses, si vous aviez un peu plus médité sur les réflexions que nous faisions jadis quand je vous dictais notre dictionnaire. Mais, avec un naturel très vif, vous avez un esprit d'une lenteur inconcevable. Vous ne saisissez aucune idée que longtemps après qu'elle s'est présentée à vous, et vous ne voyez aujourd'hui que ce que vous avez regardé hier. Croyez-moi, mon cher prête-nom, ne nous brouillons jamais ensemble, car sans moi vous êtes nid. Je suis complaisant, vous le savez ; je ne me refuse jamais au travail que vous désirez, quand vous vous donnez la peine de m'appeler et le temps de m'attendre : mais ne tentez jamais rien sans moi dans aucun genre ; ne vous mêlez jamais de l'impromptu en quoi que ce soit, si vous ne voulez gâter en un instant, par votre ineptie, tout ce que j'ai fait jusqu'ici pour vous donner l'air d'un homme pensant.

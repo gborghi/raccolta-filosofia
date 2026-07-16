@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_resurrección_de_la_mónada" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La resurrección de la mónada" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La resurrección de la mónada" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En uno de mis anteriores artículos sobre la novela señalaba yo el hecho de que los buenos aficionados a este género literario parecen hoy interesarse más por los personajes que por la trama. Este desplazamiento del interés novelesco me parecía, a su vez, sobremanera interesante. Para quien los fenómenos espirituales acontecen por azar o engendrados por causas adventicias, externas a la espiritualidad misma, no hay en el hecho apuntado motivo alguno de meditación. Para mí, que creo lo contrario, es, en cambio, un curioso síntoma. El espíritu es siempre solidario de sí mismo. No puede en unos órdenes comportarse de una manera y en otros de otra. Un módulo único y central actúa en él y es aplicado a todos los temas, asuntos y materias de la vida. Cuando esto no acaece es que se trata de un espíritu anormal, lo que quiere decir patológico, lo que quiere decir desespiritualizado.
 
@@ -50,7 +50,7 @@ En la concepción burguesa de la vida, la sociedad no tiene carácter sustancial
 
 Se comprende que este régimen conduzca a una degeneración de todas las virtudes auténticas. Son siempre los inferiores, los absolutamente menos valiosos, quienes sentencian primero sobre qué valores son los más estimables, y luego quienes deciden qué actos concretos son los que mejor realizan esos valores.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La consecuencia es que el individuo, para valer, tiene que servir a los más, con un servilismo mucho más crudo y total que el del vasallo a su señor, del siervo a su amo. Al fin y al cabo, señorío y dominio obraban sólo sobre ciertas facetas de la actividad personal, dejando el resto libre y en franquía, aparte de que el señor y el amo quedaban recíprocamente ligados por muchas obligaciones a siervo y vasallo. Pero aquí acaece que la masa social tiene todos los derechos sobre el individuo y ninguna responsabilidad ni obligación.
 

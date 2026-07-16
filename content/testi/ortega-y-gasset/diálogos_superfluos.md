@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/diálogos_superfluos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Diálogos superfluos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Diálogos superfluos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Juan Esturión y Juan Rémora, interlocutores de estos diálogos, son dos españoles de la mejor cepa. Ya Cervantes alude a ellos en sendos pasajes: del esturión nos asegura que es un pez obstinado en bogar siempre contra la corriente, y del pez rémora, que, aun siendo muy pequeño, se adhiere al flanco de una nao y la impide avanzar.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/hacia_la_boca_del_zorro" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Hacia la boca del zorro" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Hacia la boca del zorro" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Tal vez, tal vez… Porque si no, no se comprende que las pocas palabras en su discurso dedicadas a la política nacional e interna sean para incitar al partido reformista hacia una colaboración con los llamados liberales, con el viejo partido asmático y caduco que ha extirpado de la conciencia pública casi todas las esperanzas.
 

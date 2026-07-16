@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_varita_de_virtudes" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La varita de virtudes" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La varita de virtudes" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero quede esta cuestión intacta para mejor oportunidad. Ahora se trata de filiar en dos palabras el medio natural del niño. ¿Cuál es el paisaje pueril? ¿Qué carácter general tienen los objetos que predominan en el contorno de la infancia? En la teoría por mí expuesta, a cada especie corresponde un pequeño mundo de objetos, y así como aquélla se reconoce por un cierto perfil general y permanente, sus objetos afines, su medio específico, tendrán también una específica silueta. Un mismo edificio sobre la larga estepa manchega presenta a Don Quijote rostro de castillo y hace a Sancho una mueca de venta.
 

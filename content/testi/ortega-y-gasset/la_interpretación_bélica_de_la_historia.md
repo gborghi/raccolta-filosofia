@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_interpretación_bélica_de_la_historia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La interpretación bélica de la historia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La interpretación bélica de la historia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -48,7 +48,7 @@ Este pensamiento podría proporcionarnos una interpretación bélica de la histo
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La interpretación bélica de la historia tiene de común con la idea de Marx la convicción previa de que la realidad histórica es lucha, y que en ella, quienes luchan, más que los hombres, son los instrumentos. El poder social parece repartido en cada época según la calidad y cantidad de medios de destrucción que cada hombre posea. En rigor, este pensamiento de la lucha como substrato de la realidad cósmica, lo mismo física que histórica, yace en los más hondos senos del alma moderna. Debiera haberse hecho antes la curiosa observación de que toda la física moderna está elaborada en torno a las leyes del choque formuladas por Wreen. En cambio, no se ha sabido qué hacer con la idea de «atracción universal», que, instalada en la cima de la mecánica de Newton, tuvo siempre el aire de una noción mágica y heterogénea a todas las demás de la ciencia, como caída de otro mundo espiritual distinto del moderno. Y no es el menos sugestivo síntoma de que con Einstein empieza tiempo nuevo el hecho de que haya sido el primero en destacar esa idea de «atracción» y absorber en ella, por decirlo así, toda la mecánica.
 
@@ -70,7 +70,7 @@ Cada nave —trirreme— necesitaba de 150 a 180 remeros: tres filas de a sesent
 
 Hacia la misma época existe en Grecia un Estado rígidamente aristocrático: Esparta. Se compone de sólo 12.000 espartanos, frente a 180.000 ilotas y 50.000 periecos. ¿Cómo logran aquéllos mantener en obediencia a una masa tan superior? El misterio se aclara cuando averiguamos que los espartanos no dejan a los ilotas tomar parte en las guerras o, a lo sumo los emplean como escuderos, y siempre sin armas. Sólo admitían en su ejército cierto número de periecos, cuando más igual al de esparciatas.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Lo mismo que la democracia supone el servicio militar generalizado, la aristocracia tiene que hacer del guerrear un privilegio. Siempre mandan —como insinuaba Aristóteles, hoi kektemenoi ta hopla— los que tienen las armas. La Edad Media fue de constitución aristocrática mientras supo guardar celosamente para unos pocos este privilegio del peligro y la ofensa. De aquí el [culto](/concepts/religion) a la guerra, a la postura bélica, del señor medieval. En tanto que el místico, cuyo afán es triunfar en el otro mundo, pide morir de rodillas, el bárbaro Siguardo el Fuerte, anglodanés, canta en la agonía: «¡Levantadme! Quiero morir como un soldado, y no tumbado como una vaca. Vestidme la cota, cubridme con mi casco, poned mi escudo en el brazo izquierdo y mi hacha dorada en mi diestra, a fin de que expire bajo las armas».
 
@@ -96,7 +96,7 @@ Junto a ambas innovaciones —jurisdicción consular y manípulo—, no son de m
 
 ¡El pueblo romano! Convendría, tal vez, que nos entendiésemos sobre el sentido estricto de esta expresión. Siempre que hablaba el Poder público lo hacía en nombre del Senado y del pueblo —Senatus populusque romanus— el S.P.Q.R. de los tirsos oficiales —(que aparecen en las procesiones de Sevilla, y un ingenuo deportista, maravillado, leía: SPORT). Sorprende, ante todo, la dualidad: Roma no es, por lo visto, una sola cosa, sino dos: un Senado y un pueblo. Cuando Roma dejó de ser esas dos cosas y se hizo una sola —al modo que las naciones actuales— dejó de existir. Esa dualidad tiene una enjundia incalculable, que fuera beneficioso presentar a la meditación de los políticos contemporáneos. En ella va oculto el secreto de la grandeza romana —y digo el secreto, porque, en efecto, se trata de un misterio, de una constitución, la más irracional que ha existido nunca, y, a pesar de ello, o tal vez por ello, la más eficaz de la historia. Pero no es ahora ocasión para tanto.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Quería decir que si traducimos el Senatus populusque por el Senado y el pueblo, habremos dado una versión literal, pero falsa. Por pueblo entendemos hoy el cuerpo civil. Pues bien: el sentido verdadero de populus fue originariamente el de cuerpo armado. Para quien quisiera expresar el significado más hondo de esa fórmula, según el espíritu de Roma, tendría que invertir paradójicamente los términos, y decir: el pueblo y el Ejército. En la mente romana lo civil era el Senado: los señores territoriales, las viejas familias o gentes que gozaban de derecho sagrado, se casaban por confarreatio y podían dejar herederos. Estos herederos —que heredan todo, hacienda y plenitud de derechos— son los únicos hijos de padre, los patricios. Los demás no tienen padre, en puro estilo jurídico romano, sino sólo generador; son prole —de aquí proletarios. Estos viejos agricultores, el pueblo civil, combate con las armas en la mano, pero necesita auxiliares para sus campañas, y entonces organizan en torno a sí un cuerpo de guerreros —el populus—, compuesto de los pequeños terratenientes asentados en la campiña. Mommsen pone este vocablo en relación con populari, que no es poblar, sino, al contrario, despoblar, devastar. (El que hería la víctima del sacrificio se llamaba popa). El populus primitivamente no interviene sino en faenas de guerra, y su ingreso en la política se hace a fuerza de huelgas militares. Cuando el enemigo se acerca a las Siete Colinas, el populus se niega a formar y partir a la guerra. De aquí las innumerables y legendarias retiradas a uno u otro monte —Aventino, Sacro, Janículo, etcétera—, que tantas cabezas de eruditos han quebrado.
 

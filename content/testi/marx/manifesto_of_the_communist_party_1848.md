@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/marx/manifesto_of_the_communist_party_1848" data-philosopher="Marx"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="MANIFESTO OF THE COMMUNIST PARTY, 1848" data-chapter="PREFACE." data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="MANIFESTO OF THE COMMUNIST PARTY, 1848" data-chapter="PREFACE." data-kind="intro" data-srclang="en"></span>
 
 The “Manifesto” was published as the platform of the “Communist League” a workingmen’s association, first exclusively German, later an international, and under the political conditions of the Continent before 1848, unavoidably a secret society. At a Congress of the League, held in London in November, 1847, Marx and [Engels](/schools/historical_materialism_school) were commissioned to prepare for publication a complete theoretical and practical party-program. Drawn up in German, in January, 1848, the manuscript was sent to the printer in London a few weeks before the French [revolution](/positions/revolution) of February 24th. A French translation was brought out in Paris, shortly before the insurrection of June, 1848. The first English translation, by Miss Helen Macfarlane, appeared in George Julian Harney’s “Red Republican,” London, 1850. A Danish and a Polish edition had also been published.
 
@@ -38,7 +38,7 @@ This proposition which, in my opinion, is destined to do for history what Darwin
 
 From our joint preface to the German edition of 1872, I quote the following:
 
-<span class="atom-split" data-atom="002" data-title="PREFACE. (2/2)" data-chapter="PREFACE." data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="PREFACE. (2/2)" data-chapter="PREFACE." data-kind="atom" data-srclang="en"></span>
 
 “However much [the state](/concepts/state) of things may have altered during the last 25 years, the general principles laid down in this Manifesto, are, on the whole, as correct today as ever. Here and there some detail might be improved. The practical application of the principles will depend, as the manifesto itself states, everywhere and at all times, on the historical conditions for the time being existing, and, for that reason, no special stress is laid on the revolutionary measures proposed at the end of Section II. That passage would, in many respects, be very differently worded today. In view of the gigantic strides of Modern Industry since 1848, and of the accompanying improved and extended organization of the working-class, in view of the practical experience gained, first in the February [revolution](/positions/revolution), and then, still more, in the Paris Commune, where the proletariat for the first time held political power for two whole months, this program has in some details become antiquated. One thing especially was proved by the Commune, viz., that “the working-class cannot simply lay hold of the ready-made State machinery, and wield it for its own purposes.” (See “The Civil War in France; Address of the General Council of the International Working-men’s Association,” Chicago, Charles H. Kerr & Co., where this point is further developed). Further, it is self-evident, that the criticism of socialist literature is deficient in relation to the present time, because it comes down only to 1847; also, that the remarks on the relation of the Communists to the various opposition-parties (Section IV.), although in principle still correct, yet in practice are antiquated, because the political situation has been entirely changed, and the [progress](/positions/progress) of history has swept from off the earth the greater portion of the political parties there enumerated.
 
@@ -50,7 +50,7 @@ Frederick [Engels](/schools/historical_materialism_school).
 
 London, 30th January, 1888.
 
-<span class="atom-split" data-atom="003" data-title="MANIFESTO OF THE COMMUNIST PARTY BY KARL MARX AND FREDERICK ENGELS" data-chapter="MANIFESTO OF THE COMMUNIST PARTY BY KARL MARX AND FREDERICK ENGELS" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="MANIFESTO OF THE COMMUNIST PARTY BY KARL MARX AND FREDERICK ENGELS" data-chapter="MANIFESTO OF THE COMMUNIST PARTY BY KARL MARX AND FREDERICK ENGELS" data-kind="atom" data-srclang="en"></span>
 
 A SPECTRE is haunting Europe — the spectre of Communism. All the powers of old Europe have entered into a holy alliance to exorcise this spectre; Pope and Czar, Metternich and Guizot, French Radicals and German police-spies.
 
@@ -58,13 +58,13 @@ Where is the party in opposition that has not been decried as communistic by its
 
 Two things result from this fact.
 
-<span class="atom-split" data-atom="004" data-title="I. Communism is already acknowledged by all European Powers to be itself a Power." data-chapter="I. Communism is already acknowledged by all European Powers to be itself a Power." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="I. Communism is already acknowledged by all European Powers to be itself a Power." data-chapter="I. Communism is already acknowledged by all European Powers to be itself a Power." data-kind="atom" data-srclang="en"></span>
 
 II. It is high time that Communists should openly, in the face of the whole world, publish their views, their aims, their tendencies, and meet this nursery tale of the Spectre of Communism with a Manifesto of the party itself.
 
 To this end, Communists of various nationalities have assembled in London, and sketched the following manifesto, to be published in the English, French, German, Italian, Flemish and Danish languages.
 
-<span class="atom-split" data-atom="005" data-title="I. BOURGEOIS AND PROLETARIANS. (1/3)" data-chapter="I. BOURGEOIS AND PROLETARIANS." data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="I. BOURGEOIS AND PROLETARIANS. (1/3)" data-chapter="I. BOURGEOIS AND PROLETARIANS." data-kind="atom" data-srclang="en"></span>
 
 The history of all hitherto existing society is the history of class struggles.
 
@@ -110,7 +110,7 @@ The bourgeoisie, by the rapid improvement of all instruments of production, by t
 
 The bourgeoisie has subjected the country to the rule of the towns. It has created enormous cities, has greatly increased the urban population as compared with the rural, and has thus rescued a considerable part of the population from the idiocy of rural life. Just as it has made the country dependent on the towns, so it has made barbarian and semi-barbarian countries dependent on the civilized ones, nations of peasants on nations of bourgeois, the East on the West.
 
-<span class="atom-split" data-atom="006" data-title="I. BOURGEOIS AND PROLETARIANS. (2/3)" data-chapter="I. BOURGEOIS AND PROLETARIANS." data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="I. BOURGEOIS AND PROLETARIANS. (2/3)" data-chapter="I. BOURGEOIS AND PROLETARIANS." data-kind="atom" data-srclang="en"></span>
 
 The bourgeoisie keeps more and more doing away with the scattered state of the population, of the means of production, and of property. It has agglomerated population, centralized means of production, and has concentrated property in a few hands. The necessary consequence of this was political centralization. Independent, or but loosely connected provinces, with separate interests, laws, governments and systems of taxation, became lumped together in one nation, with one government, one code of laws, one national class-interest, one frontier and one customs-tariff.
 
@@ -142,7 +142,7 @@ The proletariat goes through various stages of development. With its birth begin
 
 At this stage the laborers still form an incoherent mass scattered over the whole country, and broken up by their mutual competition. If anywhere they unite to form more compact bodies, this is not yet the consequence of their own active union, but of the union of the bourgeoisie, which class, in order to attain its own political ends, is compelled to set the whole proletariat in motion, and is moreover yet, for a time, able to do so. At this stage, therefore, the proletarians do not fight their enemies, but the enemies of their enemies, the remnants of absolute monarchy, the landowners, the non-industrial bourgeois, the petty bourgeoisie. Thus the whole historical movement is concentrated in the hands of the bourgeoisie; every victory so obtained is a victory for the bourgeoisie.
 
-<span class="atom-split" data-atom="007" data-title="I. BOURGEOIS AND PROLETARIANS. (3/3)" data-chapter="I. BOURGEOIS AND PROLETARIANS." data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="I. BOURGEOIS AND PROLETARIANS. (3/3)" data-chapter="I. BOURGEOIS AND PROLETARIANS." data-kind="atom" data-srclang="en"></span>
 
 But with the development of industry the proletariat not only increases in number, it becomes concentrated in greater masses, its strength grows, and it feels that strength more. The various interests and conditions of life within the ranks of the proletariat are more and more equalized, in proportion as machinery obliterates all distinctions of labor, and nearly everywhere reduces wages to the same low level. The growing competition among the bourgeois, and the resulting commercial crises, make the wages of the workers ever more fluctuating. The unceasing improvement of machinery, ever more rapidly developing, makes their livelihood more and more precarious; the collisions between individual workmen and individual bourgeois take more and more the character of collisions between two classes. Thereupon the workers begin to form combinations (Trades’ Unions) against the bourgeois; they club together in order to keep up the rate of wages; they found permanent associations in order to make provision beforehand for these occasional revolts. Here and there the contest breaks out into riots.
 
@@ -176,7 +176,7 @@ Hitherto, every form of society has been based, as we have already seen, on the 
 
 The essential condition for the existence, and for the sway of the bourgeois class, is the formation and augmentation of capital; the condition for capital is wage-labor. Wage-labor rests exclusively on competition between the laborers. The advance of industry, whose involuntary promoter is the bourgeoisie, replaces the isolation of the laborers, due to competition, by their revolutionary combination, due to association. The development of Modern Industry, therefore, cuts from under its feet the very foundation on which the bourgeoisie produces and appropriates products. What the bourgeoisie therefore produces, above all, are its own grave-diggers. Its fall and the victory of the proletariat are equally inevitable.
 
-<span class="atom-split" data-atom="008" data-title="II. PROLETARIANS AND COMMUNISTS. (1/2)" data-chapter="II. PROLETARIANS AND COMMUNISTS." data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="II. PROLETARIANS AND COMMUNISTS. (1/2)" data-chapter="II. PROLETARIANS AND COMMUNISTS." data-kind="atom" data-srclang="en"></span>
 
 In what relation do the Communists stand to the proletarians as a whole?
 
@@ -250,7 +250,7 @@ That culture, the loss of which he laments, is, for the enormous majority, a mer
 
 But don’t wrangle with us so long as you apply, to our intended abolition of bourgeois property, the standard of your bourgeois notions of freedom, culture, law, etc. Your very ideas are but the outgrowth of the conditions of your bourgeois production and bourgeois property, just as your jurisprudence is but the will of your class made into a law for all, a will, whose essential character and direction are determined by the economic conditions of existence of your class.
 
-<span class="atom-split" data-atom="009" data-title="II. PROLETARIANS AND COMMUNISTS. (2/2)" data-chapter="II. PROLETARIANS AND COMMUNISTS." data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="II. PROLETARIANS AND COMMUNISTS. (2/2)" data-chapter="II. PROLETARIANS AND COMMUNISTS." data-kind="atom" data-srclang="en"></span>
 
 The selfish misconception that induces you to transform into eternal laws of nature and of reason, the social forms springing from your present mode of production and form of property — historical relations that rise and disappear in the [progress](/positions/progress) of production — this misconception you share with every ruling class that has preceded you. What you see clearly in the case of ancient property, what you admit in the case of feudal property, you are of course forbidden to admit in the case of your own bourgeois form of property.
 
@@ -322,11 +322,11 @@ These measures will of course be different in different countries.
 
 Nevertheless in the most advanced countries the following will be pretty generally applicable:
 
-<span class="atom-split" data-atom="010" data-title="4. Confiscation of the property of all emigrants and rebels." data-chapter="4. Confiscation of the property of all emigrants and rebels." data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="4. Confiscation of the property of all emigrants and rebels." data-chapter="4. Confiscation of the property of all emigrants and rebels." data-kind="atom" data-srclang="en"></span>
 
 5. Centralization of credit in the hands of [the state](/concepts/state), by means of a national bank with State capital and an exclusive monopoly.
 
-<span class="atom-split" data-atom="011" data-title="6. Centralization of the means of communication and transport in the hands of the State." data-chapter="6. Centralization of the means of communication and transport in the hands of the State." data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="6. Centralization of the means of communication and transport in the hands of the State." data-chapter="6. Centralization of the means of communication and transport in the hands of the State." data-kind="atom" data-srclang="en"></span>
 
 7. Extension of factories and instruments of production owned by [the State](/concepts/state); the bringing into cultivation of waste lands, and the improvement of the soil generally in accordance with a common plan.
 
@@ -340,7 +340,7 @@ When, in the course of development, class distinctions have disappeared, and all
 
 In place of the old bourgeois society, with its classes and class antagonisms, we shall have an association, in which the free development of each is the condition for the free development of all.
 
-<span class="atom-split" data-atom="012" data-title="1. Reactionary Socialism. (1/2)" data-chapter="1. Reactionary Socialism." data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="1. Reactionary Socialism. (1/2)" data-chapter="1. Reactionary Socialism." data-kind="atom" data-srclang="en"></span>
 
 a. Feudal Socialism.
 
@@ -402,7 +402,7 @@ This German Socialism, which took its schoolboy task so seriously and solemnly, 
 
 The fight of the German, and, especially, of the Prussian bourgeoisie, against feudal aristocracy and absolute monarchy, in other words, the liberal movement, became more earnest.
 
-<span class="atom-split" data-atom="013" data-title="1. Reactionary Socialism. (2/2)" data-chapter="1. Reactionary Socialism." data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="1. Reactionary Socialism. (2/2)" data-chapter="1. Reactionary Socialism." data-kind="atom" data-srclang="en"></span>
 
 By this, the long-wished-for opportunity was offered to “True Socialism” of confronting the political movement with the socialist demands, of hurling the traditional anathemas against liberalism, against representative government, against bourgeois competition, bourgeois freedom of the press, bourgeois legislation, bourgeois liberty and equality, and of preaching to the masses that they had nothing to gain, and everything to lose, by this bourgeois movement. German Socialism forgot, in the nick of time, that the French criticism, whose silly echo it was, presupposed the existence of modern bourgeois society, with its corresponding economic conditions of existence, and the political constitution adapted thereto, the very things whose attainment was the object of the pending struggle in Germany.
 
@@ -420,7 +420,7 @@ And on its part, German Socialism recognized, more and more, its own calling as 
 
 It proclaimed the German nation to be the model nation, and the German petty Philistine to be the typical man. To every villainous meanness of this model man it gave a hidden, higher, socialistic interpretation, the exact contrary of its true character. It went to the extreme length of directly opposing the “brutally destructive” tendency of Communism, and of proclaiming its supreme and impartial contempt of all class struggles. With very few exceptions, all the so-called Socialist and Communist publications that now (1847) circulate in Germany belong to the domain of this foul and enervating literature.
 
-<span class="atom-split" data-atom="014" data-title="2. Conservative or Bourgeois Socialism." data-chapter="2. Conservative or Bourgeois Socialism." data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="2. Conservative or Bourgeois Socialism." data-chapter="2. Conservative or Bourgeois Socialism." data-kind="atom" data-srclang="en"></span>
 
 A part of the bourgeoisie is desirous of redressing social grievances, in order to secure the continued existence of bourgeois society.
 
@@ -438,7 +438,7 @@ Free trade: for the benefit of the working class. Protective duties: for the ben
 
 It is summed up in the phrase: the bourgeois is a bourgeois — for the benefit of the working class.
 
-<span class="atom-split" data-atom="015" data-title="3. Critical-Utopian Socialism and Communism." data-chapter="3. Critical-Utopian Socialism and Communism." data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="3. Critical-Utopian Socialism and Communism." data-chapter="3. Critical-Utopian Socialism and Communism." data-kind="atom" data-srclang="en"></span>
 
 We do not here refer to that literature which, in every great modern [revolution](/positions/revolution), has always given voice to the demands of the proletariat: such as the writings of Babeuf and others.
 
@@ -464,7 +464,7 @@ But these Socialist and Communist publications contain also a critical element. 
 
 The significance of Critical-Utopian Socialism and Communism bears an inverse relation to historical development. In proportion as the modern class struggle develops and takes definite shape, this fantastic standing apart from the contest, these fantastic attacks on it lose all practical value and all theoretical justification. Therefore, although the originators of these systems were, in many respects, revolutionary, their disciples have, in every case, formed mere reactionary sects. They hold fast by the original views of their masters, in opposition to the progressive
 
-<span class="atom-split" data-atom="016" data-title="IV. POSITION OF THE COMMUNISTS IN RELATION TO THE VARIOUS EXISTING OPPOSITION PARTIES." data-chapter="IV. POSITION OF THE COMMUNISTS IN RELATION TO THE VARIOUS EXISTING OPPOSITION PARTIES." data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="IV. POSITION OF THE COMMUNISTS IN RELATION TO THE VARIOUS EXISTING OPPOSITION PARTIES." data-chapter="IV. POSITION OF THE COMMUNISTS IN RELATION TO THE VARIOUS EXISTING OPPOSITION PARTIES." data-kind="atom" data-srclang="en"></span>
 
 Section II. has made clear the relations of the Communists to the existing working class parties, such as the Chartists in England and the Agrarian Reformers in America.
 

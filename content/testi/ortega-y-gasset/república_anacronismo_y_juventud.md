@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/república_anacronismo_y_juventud" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="República, anacronismo y juventud" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="República, anacronismo y juventud" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Servicio a la República no quiere decir entrometimiento en la República. Por eso, una vez sobrevenida ésta, me he recluido a mi rincón, me he ausentado deliberadamente de la intervención en la marcha de las cosas. Entre los españoles de alguna notoriedad soy quien menos ha contribuido al triunfo republicano (el «porqué» ya se dirá cuando importe), y era debido que fuesen los beneméritos del nuevo régimen quienes condujesen a la nación en esta primera etapa, no sólo desde el Gobierno, sino desde la tribuna y el periódico. Con esto respondo a las cartas que me llegan preguntándome por qué no escribo. Recuerden mis lectores que siempre he hecho constar la escasez de mis dotes políticas y mi poca vocación para el ejercicio del Gobierno. Mi compromiso con el reducido grupo de esos lectores habituales, y, en general, con mis compatriotas, era sobremanera taxativo: vocear mi verdad cuando ella se ha formado en mí y su enunciación resulta oportuna y fértil. Ni más ni menos. Era el compromiso radical y exclusivo que tiene con su país —y con la Humanidad y con las estrellas— quien ha sumergido su vida entera en el oficio intelectual.
 

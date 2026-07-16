@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/una_mala_obra" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Una mala obra" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Una mala obra" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Una mala obra han realizado —con la mejor intención tal vez— las minorías que se reunieron para redactar una nota protestando de que el Gobierno prohibiese las reuniones donde se hablara de la guerra. ¿Quién se acuerda ya de aquella nota? Esto es lo grave, que ya nadie se acuerda. El Gobierno respondió con un inmenso desprecio. ¡Curiosa condición la de las cosas psicológicas! En un vaso pequeño sólo cabe un poco de vino; pero en hombres de reducidísimas proporciones espirituales cabe, a lo mejor, un desprecio colosal.
 

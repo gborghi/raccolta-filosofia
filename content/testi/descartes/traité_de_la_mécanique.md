@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/descartes/traité_de_la_mécanique" data-philosopher="Descartes"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="TRAITÉ DE LA MÉCANIQUE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="TRAITÉ DE LA MÉCANIQUE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Explication des machines et des engins
 
@@ -59,7 +59,7 @@ On peut aussi, au lieu de la corde qui se roule autour du cylindre C, y mettre u
 
 La vis
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Lorsqu’on sait la puissance du tour et du plan incliné, celle de la vis est aisée à connaître et à calculer ; car elle n’est composée que d’un plan fort incliné qui tournoie sur un cylindre ; et si ce plan est tellement incliné que le cylindre doive faire, par exemple, dix tours pour s’avancer de la longueur d’un pied dans l’écrou, et que la grandeur de la circonférence du cercle que décrit la force qui le tourne soit de dix pieds, à cause que dix fois dix font cent, un homme seul pourra presser aussi fort avec cette vis que cent pourraient faire sans elle, pourvu seulement qu’on en rabatte la force qu’il faut à la tourner. Or j’ai parlé ici de presser plutôt que de hausser ou remuer, à cause que c’est à cela que l’on emploie le plus ordinairement cette vis. Mais lorsqu’on s’en veut servir à lever des fardeaux, au lieu de la faire avancer dans un écrou, on joint à elle une roue à plusieurs dents tellement faites, que si cette roue a par exemple trente dents, pendant que la vis fait un tour entier, elle ne lui fait faire que la trentième partie d’un tour ; et si le poids est attaché à une corde qui, se roulant autour de l’essieu de cette roue, ne l’élève que d’un pied de haut pendant que la roue fait un tour entier, et que la grandeur de la circonférence du cercle que décrit la force qui tourne la vissait derechef de dix pieds, à cause que dix fois trente font trois cents, un homme seul pourra lever un aussi grand poids avec cet instrument, lequel s’appelle la vis sans fin, que trois cents hommes sans lui ; pourvu derechef qu’on en rabatte la difficulté qu’on peut avoir à le tourner, qui n’est pas proprement causée par la pesanteur du fardeau, mais par la [forme](/positions/realism_of_ideas) ou la matière de l’instrument, et cette difficulté est en lui plus sensible qu’aux précédents, d’autant qu’il a plus de force.
 

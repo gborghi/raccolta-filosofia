@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_la_vieja_política" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre la vieja política" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre la vieja política" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Alfa y omega de la faena que se ha impuesto el Directorio militar es acabar con la vieja política. El propósito es tan excelente, que no cabe ponerle reparos. Hay que acabar con la vieja política.
 
@@ -42,7 +42,7 @@ Una de las características de la vieja política era la flojera de la autoridad
 
 Advertencias de este linaje nos llevan a la convicción de que es completamente ilusorio reducir la «vieja política» a una detentación del Poder público por unos centenares de audaces. Si fuera esto, carecería de importancia, y hubiera sido muy fácil curar el mal. Mas es preciso reconocer con entereza la pura verdad: la «vieja política» era y es el sistema de gobernación que espontánea y entrañablemente corresponde al modo de ser de los españoles. Pensar otra cosa es ganas de hacerse torpes ilusiones, y es, además, la mayor falta de patriotismo: cobardía para mirar de frente la realidad nacional. Quien de verdad aspire a curar la enfermedad histórica de España tiene que comenzar por atreverse a verla y a denunciarla.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No; la vieja política no es sólo ni siquiera principalmente una serie de abusos —latrocinios, injusticias, ilegalidades— cometidos por unos cuantos hombres. Ha sido, a mi juicio, un error del movimiento militar enfocar exclusivamente por este lado el proceso de rehabilitación nacional. Porque la realidad no es ésa, y la realidad se venga siempre, pronto o tarde, cuando no se la atiende o se la confunde. Es preciso decirlo taxativamente; los políticos españoles no han sido nocivos a la nación por sus abusos. En muchos otros países que llevan vida saludable, los políticos han abusado más que en España. Atacarlos por el frente de los supuestos abusos es caminar ciegamente hacia su reivindicación. Todo lo que se podrá encontrar hurgando en los bajos fondos serán algunas pequeñas canalladas de algún que otro personaje, pero nada que, siquiera a manera de símbolo, explique la profunda desorganización de nuestro cuerpo colectivo y justifique nada menos que un golpe de Estado.
 

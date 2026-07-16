@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lengagement_téméraire" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="L’ENGAGEMENT TÉMÉRAIRE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="L’ENGAGEMENT TÉMÉRAIRE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Rien n’est plus plat que cette pièce : Cependant j’ai gardé quelque attachement pour elle, à cause de la gaieté du troisième acte et de la facilité avec laquelle elle fut faite en trois jours[62], grâce à la tranquillité et au contentement d’esprit où je vivais alors, sans connaître l’art d’écrire, et sans aucune prétention. Si je fais moi-même l’édition générale, j’espère avoir assez de raison pour en retrancher ce barbouillage, sinon je laisse à ceux que j’aurai chargés de cette entreprise le soin de juger de ce qu’il convient, soit à ma mémoire, soit au goût présent du public.
 
@@ -538,7 +538,7 @@ Et c’est pour m’accabler qu’elle a lu dans mon âme.
 
 LISETTE.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Qui vous a dit cela ?
 
@@ -1072,7 +1072,7 @@ Elle croit tout de bon que j’en veux à Valère ?
 
 LISETTE.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Et que trouvez-vous là que de fort ordinaire ?
 
@@ -1590,7 +1590,7 @@ Il la rend aussitôt sans la décacheter ;
 
 La chose est immanquable : et cependant Valère
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Vous lui souffle Isabelle, et sous mon ministère,
 
@@ -2028,7 +2028,7 @@ De peur d’étourderie,
 
 Allons faire en secret veiller sur sa furie.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Dans ses emportements je vois tout son amour...
 
@@ -2490,7 +2490,7 @@ Elle trompe souvent.
 
 ISABELLE, à Valère.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Et bien ! qu’en dites-vous ?
 
@@ -3038,7 +3038,7 @@ CARLIN.
 
 Tope, j’en fais le saut ; mais sois bonne diablesse
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 À me cacher tes tours mets toute ton adresse ;
 

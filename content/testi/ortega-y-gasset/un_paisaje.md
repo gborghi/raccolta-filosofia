@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/un_paisaje" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Un paisaje" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Un paisaje" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Para entrar en el alma de Asturias, como para entrar en su tierra, un castellano tiene que pasar por los puertos de la cordillera cantábrica. ¡Leitariegos, Pajares, Piedrafita, El Pontón, Pan de Ruedas! Son los puertos, lector, lugares sublimes, majestuosos de prócer soledad. No son León-Castilla, no son Asturias. Son sitios para elegir entre lo uno y lo otro. Desde ellos se divisa a ambas manos dos paisajes totalmente diversos que guardan, como la vaina su espada, dentro de sí predispuestas dos maneras de vivir, dos modos distintos y antagónicos de decir sí a la existencia.
 

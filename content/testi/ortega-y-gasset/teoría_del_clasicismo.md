@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/teoría_del_clasicismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Teoría del clasicismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Teoría del clasicismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -42,7 +42,7 @@ Otro síntoma de lo que voy hablando, amigo Rubín, es la querella perdurable de
 
 En cualquier momento del hoy, del ayer o del mañana europeos, se hallará la pelea metafísica de ambos principios, en mengua el uno, triunfante el otro, polarizando la agitación humana.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El error de pensar el clasicismo según una noción cronológica y más o menos estrictamente confundirlo con la antigüedad, tiene tan hondas raíces psíquicas, que no dudo atribuirlo a los restos de asiatismo que quedan en los corazones europeos. Pues es sabido que para el oriental un libro, por el mero hecho de ser antiguo, es un libro inspirado, es un libro divino. Aquí tiene usted el clasicismo histórico de mongoles y semitas, el clasicismo como superstición, el clasicismo romántico. ¿Por qué romántico? —me dirá usted…
 
@@ -72,7 +72,7 @@ Para esta sugestión de una mejora indefinida del hombre dentro del cauce de la 
 
 Pero, ¡ay!, que el mal, que el romanticismo es racial, es radical; como el hombre no puede saltar fuera de su sombra, según el proverbio árabe, tampoco puede desarraigar su romanticismo. Y bien, ¿qué? ¿No da ese mismo mal un sentido a nuestras energías, si bien trágico? El sentido es patente: domeñar dentro de nosotros la bestia romántica para que progrese en nosotros la realidad del hombre clásico, realidad inasible y por eso precisamente ideal seguro y perenne.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Recuerda usted aquella tragedia quieta y luminosa que pintó Tiziano en su cuadro Amor divino y amor humano? Dos mujeres sentadas a ambos extremos de un estanque de mármol y en medio un niño que busca en el fondo del agua tal vez una rosa ahogada, o no se sabe qué. Nuestro corazón vacila entre a qué mujer entregarse, y no acierta a decidir cuál es la hembra divina y cuál la humana, porque halla en las cavidades de sí mismo resonancias para una y otra. La equívoca alegría nos da dolor, y en tanto aquel brazo gordezuelo del niño que se refracta en el iris del agua y como que se quiebra…
 

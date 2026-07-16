@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_provincias_y_sus_candidaturas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las provincias y sus candidaturas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Las provincias y sus candidaturas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pensando de esta manera se comprenderá que no pueda ver sin profunda irritación la perspectiva de chabacanería que ofrecen —si no se pone remedio— las próximas elecciones para Cortes Constituyentes. Se trata nada menos que del instrumento fundamental del nuevo Estado —el Parlamento— y que va esta vez nada menos que a engendrar la figura misma del Poder público. Si en algo tienen que poner los españoles todos, todos los sentidos de que posean usufructo es evidentemente en la selección de personas que venga a integrar la institución legisladora.
 

@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_incarnation" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Incarnation" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Incarnation" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 THIRD PART (TP) OF THE [SUMMA](/schools/scholasticism) THEOLOGICA
 (QQ[1]-90)
@@ -38,7 +38,7 @@ itself, whereby God was made man for our salvation; the second, about such thing
 and suffered by our Saviour---i.e. God incarnate.
 TREATISE ON THE INCARNATION (QQ[1]-59)
 
-<span class="atom-split" data-atom="002" data-title="OF THE FITNESS OF THE INCARNATION (SIX ARTICLES)" data-chapter="OF THE FITNESS OF THE INCARNATION (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE FITNESS OF THE INCARNATION (SIX ARTICLES)" data-chapter="OF THE FITNESS OF THE INCARNATION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Concerning the first, three things occur to be considered: first, the fitness of the Incarnation;
 secondly, the mode of union of the Word Incarnate; thirdly, what follows this union.
@@ -50,7 +50,7 @@ Under the first head there are six points of inquiry:
 (5) Whether it was fitting for God to become incarnate from the beginning of the world?
 (6) Whether His Incarnation ought to have been deferred to the end of the world?
 
-<span class="atom-split" data-atom="003" data-title="Whether it was fitting that God should become incarnate?" data-chapter="Whether it was fitting that God should become incarnate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether it was fitting that God should become incarnate?" data-chapter="Whether it was fitting that God should become incarnate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting for God to become incarnate. Since God from
 all [eternity](/positions/eternity) is the very essence of goodness, it was best for Him to be as He had been from all
@@ -122,7 +122,7 @@ the greatness of His might feels no straits in narrow surroundings. Nor, if the 
 man is heard at once by many, and wholly by each, is it incredible that the abiding Word of God
 should be everywhere at once?" Hence nothing unfitting arises from God becoming incarnate.
 
-<span class="atom-split" data-atom="004" data-title="Whether it was necessary for the restoration of the human race that the Word of God should become incarnate?" data-chapter="Whether it was necessary for the restoration of the human race that the Word of God should become incarnate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether it was necessary for the restoration of the human race that the Word of God should become incarnate?" data-chapter="Whether it was necessary for the restoration of the human race that the Word of God should become incarnate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not necessary for the reparation of the human race that
 the Word of God should become incarnate. For since the Word of God is perfect God, as has been
@@ -220,7 +220,7 @@ did not lessen the reason for reverencing Him, which is increased by the increas
 Him. But, on the contrary, inasmuch as He wished to draw nigh to us by taking flesh, He greatly
 drew us to know Him.
 
-<span class="atom-split" data-atom="005" data-title="Whether, if man had not sinned, God would have become incarnate?" data-chapter="Whether, if man had not sinned, God would have become incarnate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether, if man had not sinned, God would have become incarnate?" data-chapter="Whether, if man had not sinned, God would have become incarnate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that if man had not sinned, God would still have become incarnate.
 For the cause remaining, the effect also remains. But as [Augustine](/figures/augustine) says (De Trin. xiii, 17): "Many
@@ -303,7 +303,7 @@ cause is not revealed. Hence, the mystery of the Incarnation could be revealed t
 without his being fore-conscious of his fall. For not everyone who knows the effect knows the
 cause.
 
-<span class="atom-split" data-atom="006" data-title="Whether God became incarnate in order to take away actual sin, rather than to take away original sin?" data-chapter="Whether God became incarnate in order to take away actual sin, rather than to take away original sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether God became incarnate in order to take away actual sin, rather than to take away original sin?" data-chapter="Whether God became incarnate in order to take away actual sin, rather than to take away original sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God became incarnate as a remedy for actual sins rather than
 for [original sin](/positions/original_sin). For the more grievous the sin, the more it runs counter to man's salvation, for which
@@ -360,7 +360,7 @@ person. But the sin of the nature is as perfectly healed in each one as if it we
 Hence, on account of the union of charity, what is vouchsafed to all ought to be accounted his own
 by each one.
 
-<span class="atom-split" data-atom="007" data-title="Whether it was fitting that God should become incarnate in the beginning of the human race?" data-chapter="Whether it was fitting that God should become incarnate in the beginning of the human race?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether it was fitting that God should become incarnate in the beginning of the human race?" data-chapter="Whether it was fitting that God should become incarnate in the beginning of the human race?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was fitting that God should become incarnate in the beginning
 of the human race. For the work of the Incarnation sprang from the immensity of Divine charity,
@@ -443,7 +443,7 @@ same, imperfection is prior in time though posterior in nature. And thus the ete
 God precedes in duration the imperfection of [human nature](/axes/human_nature); but the latter's ultimate perfection in
 union with God follows.
 
-<span class="atom-split" data-atom="008" data-title="Whether the Incarnation ought to have been put off till the end of the world?" data-chapter="Whether the Incarnation ought to have been put off till the end of the world?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the Incarnation ought to have been put off till the end of the world?" data-chapter="Whether the Incarnation ought to have been put off till the end of the world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the work of the Incarnation ought to have been put off till the
 end of the world. For it is written (Ps. 91:11): "My old age in plentiful mercy"---i.e. "in the last
@@ -516,7 +516,7 @@ of sins; the second, to judge the world. For if He had not done so, all would ha
 since all have sinned and need the glory of God." Hence it is plain that He ought not to have put
 off the coming in mercy till the end of the world.
 
-<span class="atom-split" data-atom="009" data-title="OF THE MODE OF UNION OF THE WORD INCARNATE (TWELVE ARTICLES)" data-chapter="OF THE MODE OF UNION OF THE WORD INCARNATE (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="OF THE MODE OF UNION OF THE WORD INCARNATE (TWELVE ARTICLES)" data-chapter="OF THE MODE OF UNION OF THE WORD INCARNATE (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Now we must consider the mode of union of the Incarnate Word; and, first, the union itself;
 secondly, the Person assuming; thirdly, the nature assumed.
@@ -534,7 +534,7 @@ Under the first head there are twelve points of inquiry:
 (11) Whether any merits preceded it?
 (12) Whether the grace of union was natural to the man Christ?
 
-<span class="atom-split" data-atom="010" data-title="Whether the Union of the Incarnate Word took place in the nature?" data-chapter="Whether the Union of the Incarnate Word took place in the nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the Union of the Incarnate Word took place in the nature?" data-chapter="Whether the Union of the Incarnate Word took place in the nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Union of the Word Incarnate took place in the nature. For
 Cyril says (he is quoted in the acts of the Council of Chalcedon, part ii, act. 1): "We must understand
@@ -626,7 +626,7 @@ likewise the flesh is said to be deified, as he also says (De Fide Orth. 15,17),
 union with the Word, its natural properties still remaining, and hence it may be considered as
 deified, inasmuch as it becomes the flesh of the Word of God, but not that it becomes God.
 
-<span class="atom-split" data-atom="011" data-title="Whether the union of the Incarnate Word took place in the Person?" data-chapter="Whether the union of the Incarnate Word took place in the Person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the union of the Incarnate Word took place in the Person?" data-chapter="Whether the union of the Incarnate Word took place in the Person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the union of the Incarnate Word did not take place in the
 person. For the Person of God is not distinct from His Nature, as we said (FP, Q[39], A[1]). If,
@@ -696,7 +696,7 @@ this human nature is a kind of individual in the genus of substance, it has not 
 because it does not exist separately, but in something more perfect, viz. in the Person of the Word.
 Therefore the union took place in the person.
 
-<span class="atom-split" data-atom="012" data-title="Whether the union of the Word Incarnate took place in the suppositum or hypostasis?" data-chapter="Whether the union of the Word Incarnate took place in the suppositum or hypostasis?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether the union of the Word Incarnate took place in the suppositum or hypostasis?" data-chapter="Whether the union of the Word Incarnate took place in the suppositum or hypostasis?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the union of the Word Incarnate did not take place in the
 suppositum or hypostasis. For [Augustine](/figures/augustine) says (Enchiridion xxxv, xxxviii): "Both the Divine and
@@ -782,7 +782,7 @@ account of what belongs to its [individuation](/concepts/individuation), but on 
 form, and in composite things individuation is taken more from matter. Hence we say that Christ
 is in the human species by reason of the nature assumed, and not by reason of the hypostasis.
 
-<span class="atom-split" data-atom="013" data-title="Whether after the Incarnation the Person or Hypostasis of Christ is composite?" data-chapter="Whether after the Incarnation the Person or Hypostasis of Christ is composite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether after the Incarnation the Person or Hypostasis of Christ is composite?" data-chapter="Whether after the Incarnation the Person or Hypostasis of Christ is composite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Person of Christ is not composite. For the Person of Christ
 is naught else than the Person or hypostasis of the Word, as appears from what has been said (A[2]).
@@ -819,7 +819,7 @@ homogeneous with its component parts, but only in the parts of a continuous thin
 is composed solely of continuous [parts]. But an animal is composed of [soul and body](/axes/soul_body), and neither
 of these is an animal.
 
-<span class="atom-split" data-atom="014" data-title="Whether in Christ there is any union of soul and body?" data-chapter="Whether in Christ there is any union of soul and body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether in Christ there is any union of soul and body?" data-chapter="Whether in Christ there is any union of soul and body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was no union of [soul and body](/axes/soul_body). For from the
 union of soul and body in us a person or a human hypostasis is caused. Hence if the soul and body
@@ -888,7 +888,7 @@ for since "in living things to be is to live," as the Philosopher says (De [Anim
 everything is formally by its form, so likewise the body lives by the soul: in this way a body could
 not live by the Word, Which cannot be the form of a body.
 
-<span class="atom-split" data-atom="015" data-title="Whether the human nature was united to the Word of God accidentally? (1/2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the human nature was united to the Word of God accidentally? (1/2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [human nature](/axes/human_nature) was united to the Word of God accidentally.
 For the Apostle says (Phil. 2:7) of the Son of God, that He was "in [habit](/concepts/custom) found as a man." But habit
@@ -991,7 +991,7 @@ Metaph. v, 25, is taken in two ways: first, for essence or nature; secondly, for
 hypostasis---hence the union having taken place in the hypostasis, is enough to show that it is not
 an accidental union, although the union did not take place in the nature.
 
-<span class="atom-split" data-atom="016" data-title="Whether the human nature was united to the Word of God accidentally? (2/2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether the human nature was united to the Word of God accidentally? (2/2)" data-chapter="Whether the human nature was united to the Word of God accidentally?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Not everything that is assumed as an instrument pertains to the hypostasis
 of the one who assumes, as is plain in the case of a saw or a sword; yet nothing prevents what is
@@ -1003,7 +1003,7 @@ was really the Son of God, but His instrument. Hence Cyril says (Epist. ad Monac
 instrument, but as God truly humanized," i.e. made man. But Damascene held that the human nature
 in Christ is an instrument belonging to the unity of the hypostasis.
 
-<span class="atom-split" data-atom="017" data-title="Whether the union of the Divine nature and the human is anything created?" data-chapter="Whether the union of the Divine nature and the human is anything created?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the union of the Divine nature and the human is anything created?" data-chapter="Whether the union of the Divine nature and the human is anything created?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the union of the Divine and human natures is not anything
 created. For there can be nothing created in God, because whatever is in God is God. But the union
@@ -1043,7 +1043,7 @@ Reply to Objection 3: A man is called Creator and is God because of the union, i
 it is terminated in the Divine hypostasis; yet it does not follow that the union itself is the Creator
 or God, because that a thing is said to be created regards its being rather than its relation.
 
-<span class="atom-split" data-atom="018" data-title="Whether union is the same as assumption?" data-chapter="Whether union is the same as assumption?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether union is the same as assumption?" data-chapter="Whether union is the same as assumption?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that union is the same as assumption. For relations, as motions,
 are specified by their termini. Now the term of assumption and union is one and the same, viz. the
@@ -1095,7 +1095,7 @@ incarnation and humanation (determine with whom the union is made) on the part o
 assumed, which is flesh or human nature. And thus assumption differs logically both from union
 and from incarnation or humanation.
 
-<span class="atom-split" data-atom="019" data-title="Whether the union of the two natures in Christ is the greatest of all unions?" data-chapter="Whether the union of the two natures in Christ is the greatest of all unions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether the union of the two natures in Christ is the greatest of all unions?" data-chapter="Whether the union of the two natures in Christ is the greatest of all unions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the union of the two natures in Christ is not the greatest of all
 unions. For what is united falls short of the unity of what is one, since what is united is by
@@ -1148,7 +1148,7 @@ the Son in the Father---namely, inasmuch as the same suppositum is signified whe
 meaning Christ, and when I say "Son of God"; whereas it is not the same suppositum of Father and
 Son.
 
-<span class="atom-split" data-atom="020" data-title="Whether the union of the Incarnation took place by grace?" data-chapter="Whether the union of the Incarnation took place by grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether the union of the Incarnation took place by grace?" data-chapter="Whether the union of the Incarnation took place by grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the union of the Incarnation did not take place by grace. For
 grace is an accident, as was shown above (FS, Q[110], A[2]). But the union of the [human nature](/axes/human_nature)
@@ -1199,7 +1199,7 @@ secondly, by sanctifying grace, as in the saints; thirdly, by personal union, wh
 Hence the reply to the third is manifest, viz. because the union of the Incarnation did not take
 place by habitual grace alone, but in subsistence or person.
 
-<span class="atom-split" data-atom="021" data-title="Whether any merits preceded the union of the Incarnation?" data-chapter="Whether any merits preceded the union of the Incarnation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether any merits preceded the union of the Incarnation?" data-chapter="Whether any merits preceded the union of the Incarnation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the union of the Incarnation followed upon certain merits,
 because upon Ps. 32:22, "Let Thy mercy, o Lord, be upon us, as," etc. a gloss says: "Here the
@@ -1255,7 +1255,7 @@ Reply to Objection 3: The Blessed Virgin is said to have merited to bear the Lor
 that she merited His Incarnation, but because by the grace bestowed upon her she merited that grade
 of purity and holiness, which fitted her to be the Mother of God.
 
-<span class="atom-split" data-atom="022" data-title="Whether the grace of union was natural to the man Christ?" data-chapter="Whether the grace of union was natural to the man Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the grace of union was natural to the man Christ?" data-chapter="Whether the grace of union was natural to the man Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the grace of union was not natural to the man Christ. For the
 union of the Incarnation did not take place in the nature, but in the Person, as was said above (A[2]).
@@ -1317,7 +1317,7 @@ are eight points of inquiry:
 (8) Whether it was more fitting for the Person of the Son of God to assume human nature than
 for another Divine Person?
 
-<span class="atom-split" data-atom="023" data-title="Whether it is befitting for a Divine Person to assume?" data-chapter="Whether it is befitting for a Divine Person to assume?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether it is befitting for a Divine Person to assume?" data-chapter="Whether it is befitting for a Divine Person to assume?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not befitting to a Divine Person to assume a created nature.
 For a Divine Person signifies something most perfect. Now no addition can be made to what is
@@ -1363,7 +1363,7 @@ nature does not make the Son of Man to be simply, since He was from [eternity](/
 It is by the Divine Nature that a Divine Person is constituted simply. Hence the Divine Person is
 not said to assume the Divine Nature, but to assume the human nature.
 
-<span class="atom-split" data-atom="024" data-title="Whether it is befitting to the Divine Nature to assume?" data-chapter="Whether it is befitting to the Divine Nature to assume?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether it is befitting to the Divine Nature to assume?" data-chapter="Whether it is befitting to the Divine Nature to assume?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not befitting to the Divine Nature to assume. Because, as
 was said above (A[1]), to assume is to take to oneself. But the Divine Nature did not take to Itself
@@ -1406,7 +1406,7 @@ Reply to Objection 3: As in God "what is" and "whereby it is" are the same, so l
 Him "what acts" and "whereby it acts" are the same, since everything acts, inasmuch as it is a being.
 Hence the Divine Nature is both that whereby God acts, and the very God Who acts.
 
-<span class="atom-split" data-atom="025" data-title="Whether the Nature abstracted from the Personality can assume?" data-chapter="Whether the Nature abstracted from the Personality can assume?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the Nature abstracted from the Personality can assume?" data-chapter="Whether the Nature abstracted from the Personality can assume?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that if we abstract the Personality by our mind, the Nature cannot
 assume. For it was said above (A[1]) that it belongs to the Nature to assume by reason of the Person.
@@ -1457,7 +1457,7 @@ all we can think of in God is considered as a subsisting suppositum. However, so
 predicated of God can be understood without others, not by way of resolution, but by the way
 mentioned above.
 
-<span class="atom-split" data-atom="026" data-title="Whether one Person without another can assume a created nature?" data-chapter="Whether one Person without another can assume a created nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether one Person without another can assume a created nature?" data-chapter="Whether one Person without another can assume a created nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one Person cannot assume a created nature without another
 assuming it. For "the works of the Trinity are inseparable," as [Augustine](/figures/augustine) says (Enchiridion xxxviii).
@@ -1498,7 +1498,7 @@ common to the three Persons, in regard to the principle and the term. But the as
 by the grace of union is common on the part of the principle, but not on the part of the term, as was
 said above.
 
-<span class="atom-split" data-atom="027" data-title="Whether each of the Divine Persons could have assumed human nature?" data-chapter="Whether each of the Divine Persons could have assumed human nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether each of the Divine Persons could have assumed human nature?" data-chapter="Whether each of the Divine Persons could have assumed human nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no other Divine Person could have assumed [human nature](/axes/human_nature)
 except the Person of the Son. For by this assumption it has been brought about that God is the Son
@@ -1551,7 +1551,7 @@ temporal birth would not destroy this. But the Son of God is said to be sent in 
 Incarnation, inasmuch as He is from another, without which the Incarnation would not suffice for
 the nature of mission.
 
-<span class="atom-split" data-atom="028" data-title="Whether several Divine Persons can assume one and the same individual nature?" data-chapter="Whether several Divine Persons can assume one and the same individual nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether several Divine Persons can assume one and the same individual nature?" data-chapter="Whether several Divine Persons can assume one and the same individual nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that two Divine Persons cannot assume one and the same individual
 nature. For, this being granted, there would either be several men or one. But not several, for just
@@ -1618,7 +1618,7 @@ the Son is man; therefore the Son is unbegotten," it would be the fallacy of fig
 accident; even as we now say God is unbegotten, because the Father is unbegotten, yet we cannot
 conclude that the Son is unbegotten, although He is God.
 
-<span class="atom-split" data-atom="029" data-title="Whether one Divine Person can assume two human natures?" data-chapter="Whether one Divine Person can assume two human natures?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether one Divine Person can assume two human natures?" data-chapter="Whether one Divine Person can assume two human natures?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one Divine Person cannot assume two human natures. For the
 nature assumed in the mystery of the Incarnation has no other suppositum than the suppositum of
@@ -1691,7 +1691,7 @@ natures assumed there would be a uniform relation to the Divine Person, nor woul
 the other. Hence it would not be necessary for one of them to be altogether united to the other, i.e.
 all the parts of one with all the parts of the other.
 
-<span class="atom-split" data-atom="030" data-title="Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?" data-chapter="Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?" data-chapter="Whether it was more fitting that the Person of the Son rather than any other Divine Person should assume human nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not more fitting that the Son of God should become
 incarnate than the Father or the Holy Ghost. For by the mystery of the Incarnation men are led to
@@ -1763,7 +1763,7 @@ Reply to Objection 3: To be the gift of the Father and the Son is proper to the 
 But the remission of sins is caused by the Holy Ghost, as by the gift of God. And hence it was more
 fitting to man's justification that the Son should become incarnate, Whose gift the Holy Ghost is.
 
-<span class="atom-split" data-atom="031" data-title="OF THE MODE OF UNION ON THE PART OF THE HUMAN NATURE (SIX ARTICLES)" data-chapter="OF THE MODE OF UNION ON THE PART OF THE HUMAN NATURE (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="OF THE MODE OF UNION ON THE PART OF THE HUMAN NATURE (SIX ARTICLES)" data-chapter="OF THE MODE OF UNION ON THE PART OF THE HUMAN NATURE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the union on the part of what was assumed. About which we must
 consider first what things were assumed by the Word of God; secondly, what were co-assumed,
@@ -1781,7 +1781,7 @@ individuals?
 (6) Whether it was becoming that He should assume human nature in any man begotten of the
 stock of Adam?
 
-<span class="atom-split" data-atom="032" data-title="Whether human nature was more assumable by the Son of God than any other nature?" data-chapter="Whether human nature was more assumable by the Son of God than any other nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether human nature was more assumable by the Son of God than any other nature?" data-chapter="Whether human nature was more assumable by the Son of God than any other nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [human nature](/axes/human_nature) is not more capable of being assumed by the
 Son of God than any other nature. For [Augustine](/figures/augustine) says (Ep. ad Volusianum cxxxvii): "In deeds
@@ -1854,7 +1854,7 @@ suppositum, but of something which is one by position or order, whereof very man
 capable of assumption, as was said above. Hence it follows that only human nature is capable of
 being assumed.
 
-<span class="atom-split" data-atom="033" data-title="Whether the Son of God assumed a person?" data-chapter="Whether the Son of God assumed a person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether the Son of God assumed a person?" data-chapter="Whether the Son of God assumed a person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God assumed a person. For Damascene says (De
 Fide Orth. iii, 11) that the Son of God "assumed [human nature](/axes/human_nature) 'in atomo,'" i.e. in an individual. But
@@ -1894,7 +1894,7 @@ by a Divine Person, the human nature would have had its own personality; and in 
 said, although improperly, that the Person "absorbed the person," inasmuch as the Divine Person
 by His union hindered the human nature from having its personality.
 
-<span class="atom-split" data-atom="034" data-title="Whether the Divine Person assumed a man?" data-chapter="Whether the Divine Person assumed a man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether the Divine Person assumed a man?" data-chapter="Whether the Divine Person assumed a man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Divine Person assumed a man. For it is written (Ps. 64:5):
 "Blessed is he whom Thou hast chosen and taken to Thee," which a gloss expounds of Christ; and
@@ -1936,7 +1936,7 @@ a man was assumed.
 Reply to Objection 3: The Son of God is not the man whom He assumed, but the man whose
 nature He assumed.
 
-<span class="atom-split" data-atom="035" data-title="Whether the Son of God ought to have assumed human nature abstracted from all individuals?" data-chapter="Whether the Son of God ought to have assumed human nature abstracted from all individuals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether the Son of God ought to have assumed human nature abstracted from all individuals?" data-chapter="Whether the Son of God ought to have assumed human nature abstracted from all individuals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God ought to have assumed [human nature](/axes/human_nature) abstracted
 from all individuals. For the assumption of human nature took place for the common salvation of
@@ -1995,7 +1995,7 @@ Reply to Objection 3: Although human nature was not assumed in the concrete, as 
 suppositum were presupposed to the assumption, nevertheless it is assumed in an individual, since
 it is assumed so as to be in an individual.
 
-<span class="atom-split" data-atom="036" data-title="Whether the Son of God ought to have assumed human nature in all individuals?" data-chapter="Whether the Son of God ought to have assumed human nature in all individuals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether the Son of God ought to have assumed human nature in all individuals?" data-chapter="Whether the Son of God ought to have assumed human nature in all individuals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God ought to have assumed [human nature](/axes/human_nature) in all
 individuals. For what is assumed first and by itself is human nature. But what belongs essentially
@@ -2041,7 +2041,7 @@ Reply to Objection 3: In order to shorten the way, which every skilful workman d
 can be done by one must not be done by many. Hence it was most fitting that by one man all the
 rest should be saved.
 
-<span class="atom-split" data-atom="037" data-title="Whether it was fitting for the Son of God to assume human nature of the stock of Adam?" data-chapter="Whether it was fitting for the Son of God to assume human nature of the stock of Adam?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether it was fitting for the Son of God to assume human nature of the stock of Adam?" data-chapter="Whether it was fitting for the Son of God to assume human nature of the stock of Adam?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting for the Son of God to assume [human nature](/axes/human_nature)
 of the stock of Adam, for the Apostle says (Heb. 7:26): "For it was fitting that we should have such
@@ -2089,7 +2089,7 @@ forth. And hence, even in the people from whom Christ was to be born, God appoin
 holiness, which began in Abraham, who was the first to receive the promise of Christ, and
 circumcision, as a sign that the covenant should be kept, as is written (Gn. 17:11).
 
-<span class="atom-split" data-atom="038" data-title="OF THE PARTS OF HUMAN NATURE WHICH WERE ASSUMED (FOUR ARTICLES)" data-chapter="OF THE PARTS OF HUMAN NATURE WHICH WERE ASSUMED (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="OF THE PARTS OF HUMAN NATURE WHICH WERE ASSUMED (FOUR ARTICLES)" data-chapter="OF THE PARTS OF HUMAN NATURE WHICH WERE ASSUMED (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the assumption of the parts of [human nature](/axes/human_nature); and under this head there
 are four points of inquiry:
@@ -2098,7 +2098,7 @@ are four points of inquiry:
 (3) Whether He ought to have assumed a soul?
 (4) Whether He ought to have assumed an intellect?
 
-<span class="atom-split" data-atom="039" data-title="Whether the Son of God ought to have assumed a true body?" data-chapter="Whether the Son of God ought to have assumed a true body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the Son of God ought to have assumed a true body?" data-chapter="Whether the Son of God ought to have assumed a true body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God did not assume a true body. For it is written
 (Phil. 2:7), that He was "made in the likeness of men." But what is something in truth is not said
@@ -2154,7 +2154,7 @@ apparition of the Son of God in the world should be in a real body, being the th
 these figures. Hence the Apostle says (Col. 2:17): "Which are a shadow of things to come, but the
 body is Christ's."
 
-<span class="atom-split" data-atom="040" data-title="Whether the Son of God ought to have assumed a carnal or earthly body?" data-chapter="Whether the Son of God ought to have assumed a carnal or earthly body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether the Son of God ought to have assumed a carnal or earthly body?" data-chapter="Whether the Son of God ought to have assumed a carnal or earthly body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ had not a carnal or earthly, but a heavenly body. For
 the Apostle says (1 Cor. 15:41): "The first man was of the earth, earthy; the second man from
@@ -2211,7 +2211,7 @@ earth, they show the power of their craft; so the best of all workmen, the Word 
 come down to us by taking a heavenly body of some most precious matter, but shewed the greatness
 of His skill in clay."
 
-<span class="atom-split" data-atom="041" data-title="Whether the Son of God assumed a soul?" data-chapter="Whether the Son of God assumed a soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether the Son of God assumed a soul?" data-chapter="Whether the Son of God assumed a soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God did not assume a soul. For John has said,
 teaching the mystery of the Incarnation (Jn. 1:14): "The Word was made flesh"---no mention being
@@ -2288,7 +2288,7 @@ a nature which was constituted by the soul coming to the body. But Damascene den
 Christ there was a common species, i.e. a third something resulting from the Godhead and the
 humanity.
 
-<span class="atom-split" data-atom="042" data-title="Whether the Son of God assumed a human mind or intellect?" data-chapter="Whether the Son of God assumed a human mind or intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether the Son of God assumed a human mind or intellect?" data-chapter="Whether the Son of God assumed a human mind or intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God did not assume a human mind or intellect. For
 where a thing is present, its image is not required. But man is made to God's image, as regards his
@@ -2353,7 +2353,7 @@ the essence of the human soul, which is the form of the body, requires that it s
 in order that it may have the power of understanding; and hence it is necessary that a better disposed
 body should correspond to it.
 
-<span class="atom-split" data-atom="043" data-title="OF THE ORDER OF ASSUMPTION (SIX ARTICLES)" data-chapter="OF THE ORDER OF ASSUMPTION (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="OF THE ORDER OF ASSUMPTION (SIX ARTICLES)" data-chapter="OF THE ORDER OF ASSUMPTION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the order of the foregoing assumption, and under this head there are six
 points of inquiry:
@@ -2364,7 +2364,7 @@ points of inquiry:
 (5) Whether the whole [human nature](/axes/human_nature) was assumed through the medium of the parts?
 (6) Whether it was assumed through the medium of grace?
 
-<span class="atom-split" data-atom="044" data-title="Whether the Son of God assumed flesh through the medium of the soul?" data-chapter="Whether the Son of God assumed flesh through the medium of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether the Son of God assumed flesh through the medium of the soul?" data-chapter="Whether the Son of God assumed flesh through the medium of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God did not assume flesh through the medium of
 the soul. For the mode in which the Son of God is united to [human nature](/axes/human_nature) and its parts, is more
@@ -2428,7 +2428,7 @@ account of her [beauty](/concepts/beauty), which makes a woman's fittingness for
 passes away, the marriage tie still remains. So likewise, when the soul was separated, the union of
 the Word with flesh still endured.
 
-<span class="atom-split" data-atom="045" data-title="Whether the Son of God assumed a soul through the medium of the spirit or mind?" data-chapter="Whether the Son of God assumed a soul through the medium of the spirit or mind?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether the Son of God assumed a soul through the medium of the spirit or mind?" data-chapter="Whether the Son of God assumed a soul through the medium of the spirit or mind?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God did not assume a soul through the medium of
 the spirit or mind. For nothing is a medium between itself and another. But the spirit is nothing else
@@ -2469,7 +2469,7 @@ Reply to Objection 3: The soul, between which and the Word of God the intellect 
 be a medium, does not stand for the essence of the soul, which is common to all the powers, but
 for the lower powers, which are common to every soul.
 
-<span class="atom-split" data-atom="046" data-title="Whether the soul was assumed before the flesh by the Son of God?" data-chapter="Whether the soul was assumed before the flesh by the Son of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether the soul was assumed before the flesh by the Son of God?" data-chapter="Whether the soul was assumed before the flesh by the Son of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ was assumed before the flesh by the Word.
 For the Son of God assumed flesh through the medium of the soul, as was said above (A[1]). Now
@@ -2528,7 +2528,7 @@ in Him that justifieth the ungodly, his faith is reputed to justice according to
 grace of God." Hence because this purpose is eternal, there is nothing to hinder some from being
 justified by the faith of Jesus Christ, even before His soul was full of grace and truth.
 
-<span class="atom-split" data-atom="047" data-title="Whether the flesh of Christ was assumed by the Word before being united to the soul?" data-chapter="Whether the flesh of Christ was assumed by the Word before being united to the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether the flesh of Christ was assumed by the Word before being united to the soul?" data-chapter="Whether the flesh of Christ was assumed by the Word before being united to the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the flesh of Christ was assumed by the Word before being
 united to the soul. For [Augustine](/figures/augustine) [*Fulgentius] says (De Fide ad Petrum xviii): "Most firmly hold,
@@ -2584,7 +2584,7 @@ we understand the flesh as united to the soul before it is united to the Word, f
 with the soul that it is capable of being united to the Word in Person; especially since a person is
 found only in the rational nature
 
-<span class="atom-split" data-atom="048" data-title="Whether the whole human nature was assumed through the medium of the parts?" data-chapter="Whether the whole human nature was assumed through the medium of the parts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether the whole human nature was assumed through the medium of the parts?" data-chapter="Whether the whole human nature was assumed through the medium of the parts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God assumed the whole [human nature](/axes/human_nature) through the
 medium of its parts. For [Augustine](/figures/augustine) says (De Agone Christ. xviii) that "the invisible and unchangeable
@@ -2635,7 +2635,7 @@ more like to God than the parts, inasmuch as it is more perfect.
 Reply to Objection 3: It is a personal union wherein the assumption is terminated, not a union
 of nature, which springs from a conjunction of parts.
 
-<span class="atom-split" data-atom="049" data-title="Whether the human nature was assumed through the medium of grace?" data-chapter="Whether the human nature was assumed through the medium of grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether the human nature was assumed through the medium of grace?" data-chapter="Whether the human nature was assumed through the medium of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God assumed [human nature](/axes/human_nature) through the medium
 of grace. For by grace we are united to God. But the human nature in Christ was most closely united
@@ -2681,7 +2681,7 @@ proceeds, from which the speech is formed. And similarly from the eternal Word p
 Spirit, Who formed the body of Christ, as will be shown (Q[32], A[1]). But it does not follow from
 this that the grace of the Holy Spirit is the formal medium in the aforesaid union.
 
-<span class="atom-split" data-atom="050" data-title="OF THE GRACE OF CHRIST AS AN INDIVIDUAL MAN (THIRTEEN ARTICLES)" data-chapter="OF THE GRACE OF CHRIST AS AN INDIVIDUAL MAN (THIRTEEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="OF THE GRACE OF CHRIST AS AN INDIVIDUAL MAN (THIRTEEN ARTICLES)" data-chapter="OF THE GRACE OF CHRIST AS AN INDIVIDUAL MAN (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider such things as were co-assumed by the Son of God in [human nature](/axes/human_nature);
 and first what belongs to perfection; secondly, what belongs to defect.
@@ -2704,7 +2704,7 @@ Under the first head there are thirteen points of inquiry:
 (12) Whether it could have been increased?
 (13) How this grace stood towards the union?
 
-<span class="atom-split" data-atom="051" data-title="Whether in the Soul of Christ there was any habitual grace?" data-chapter="Whether in the Soul of Christ there was any habitual grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether in the Soul of Christ there was any habitual grace?" data-chapter="Whether in the Soul of Christ there was any habitual grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem there was no habitual grace in the soul assumed by the Word. For
 grace is a certain partaking of the Godhead by the rational creature, according to 2 Pet. 1:4: "By
@@ -2759,7 +2759,7 @@ an inanimate instrument, which nowise acts, but is merely acted upon; but an ins
 by a rational soul, which is so acted upon as to act. And hence the nature of the action demanded
 that he should have habitual grace.
 
-<span class="atom-split" data-atom="052" data-title="Whether in Christ there were virtues?" data-chapter="Whether in Christ there were virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether in Christ there were virtues?" data-chapter="Whether in Christ there were virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there were no virtues. For Christ had the plenitude
 of grace. Now grace is sufficient for every good act, according to 2 Cor. 12:9: "My grace is sufficient
@@ -2811,7 +2811,7 @@ evil desires which the continent suffers. Hence, taking continence in this sense
 takes it, Christ, from the very fact that He had all virtue, had not continence, since it is not a virtue,
 but something less than virtue.
 
-<span class="atom-split" data-atom="053" data-title="Whether in Christ there was faith?" data-chapter="Whether in Christ there was faith?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether in Christ there was faith?" data-chapter="Whether in Christ there was faith?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was faith in Christ. For faith is a nobler virtue than the
 moral virtues, e.g. temperance and liberality. Now these were in Christ, as stated above (A[2]).
@@ -2851,7 +2851,7 @@ Reply to Objection 3: As a gloss says in the same place, faith is that "whereby 
 are not seen are believed." But faith in things seen is improperly so called, and only after a certain
 similitude with regard to the certainty and firmness of the assent.
 
-<span class="atom-split" data-atom="054" data-title="Whether in Christ there was hope?" data-chapter="Whether in Christ there was hope?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether in Christ there was hope?" data-chapter="Whether in Christ there was hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was hope in Christ. For it is said in the Person of Christ
 (Ps. 30:1): "In Thee, O Lord, have I hoped." But the virtue of hope is that whereby a man hopes in
@@ -2896,7 +2896,7 @@ pertain to the perfection of Christ, whereby He is perfect in Himself, but inasm
 to a share of His perfection. And because hope properly regards what is expected by him who
 hopes, the virtue of hope cannot properly be said to be in Christ, because of the aforesaid reason.
 
-<span class="atom-split" data-atom="055" data-title="Whether in Christ there were the gifts?" data-chapter="Whether in Christ there were the gifts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether in Christ there were the gifts?" data-chapter="Whether in Christ there were the gifts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gifts were not in Christ. For, as is commonly said, the gifts
 are given to help the virtues. But what is perfect in itself does not need an exterior help. Therefore,
@@ -2936,7 +2936,7 @@ Reply to Objection 3: In Christ there was not only heavenly knowledge, but also 
 knowledge, as will be said (Q[15], A[10]). And yet even in heaven the gifts of the Holy Ghost will
 still exist, in a certain manner, as was said above (FS, Q[68], A[6]).
 
-<span class="atom-split" data-atom="056" data-title="Whether in Christ there was the gift of fear?" data-chapter="Whether in Christ there was the gift of fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether in Christ there was the gift of fear?" data-chapter="Whether in Christ there was the gift of fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was not the gift of fear. For hope would seem
 to be stronger than fear; since the object of hope is goodness, and of fear, evil. as was said above
@@ -2981,7 +2981,7 @@ Reply to Objection 2: This reason is based on fear in so far as it regards the e
 Reply to Objection 3: Perfect charity casts out servile fear, which principally regards
 punishment. But this kind of fear was not in Christ.
 
-<span class="atom-split" data-atom="057" data-title="Whether the gratuitous graces were in Christ?" data-chapter="Whether the gratuitous graces were in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether the gratuitous graces were in Christ?" data-chapter="Whether the gratuitous graces were in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gratuitous graces were not in Christ. For whoever has
 anything in its fulness, to him it does not pertain to have it by participation. Now Christ has grace
@@ -3034,7 +3034,7 @@ not wanting to Him, since even the secrets of hearts, of which all words are sig
 from Him, as will be shown (Q[10], A[2]). Nor was this knowledge uselessly possessed. just as it
 is not useless to have a habit, which we do not use when there is no occasion.
 
-<span class="atom-split" data-atom="058" data-title="Whether in Christ there was the gift of prophecy?" data-chapter="Whether in Christ there was the gift of prophecy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether in Christ there was the gift of prophecy?" data-chapter="Whether in Christ there was the gift of prophecy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was not the gift of prophecy. For prophecy
 implies a certain obscure and imperfect knowledge, according to Num. 12:6: "If there be among
@@ -3091,7 +3091,7 @@ hence faith and hope are repugnant to the perfection of Christ's [beatitude](/po
 Reply to Objection 3: Angels, being "comprehensors," are above prophets, who are merely
 "wayfarers"; but not above Christ, Who was both a "comprehensor" and a "wayfarer."
 
-<span class="atom-split" data-atom="059" data-title="Whether in Christ there was the fulness of grace?" data-chapter="Whether in Christ there was the fulness of grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether in Christ there was the fulness of grace?" data-chapter="Whether in Christ there was the fulness of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was not the fulness of grace. For the virtues
 flow from grace, as was said above (FS, Q[110], A[4]). But in Christ there were not all the virtues;
@@ -3147,7 +3147,7 @@ the beginning of His conception; not that it was until then sinful, or even not 
 Reply to Objection 3: The fulness of grace is attributed to the soul of Christ according to the
 capacity of the creature and not by comparison with the infinite fulness of the Divine goodness.
 
-<span class="atom-split" data-atom="060" data-title="Whether the fulness of grace is proper to Christ?" data-chapter="Whether the fulness of grace is proper to Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the fulness of grace is proper to Christ?" data-chapter="Whether the fulness of grace is proper to Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the fulness of grace is not proper to Christ. For what is proper
 to anyone belongs to him alone. But to be full of grace is attributed to some others; for it was said
@@ -3203,7 +3203,7 @@ and fruition, and the like, have certain gifts corresponding to them in this lif
 to all the saints. Yet there are certain prerogatives of saints, both in heaven and on earth, which are
 not possessed by all.
 
-<span class="atom-split" data-atom="061" data-title="Whether the grace of Christ is infinite?" data-chapter="Whether the grace of Christ is infinite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the grace of Christ is infinite?" data-chapter="Whether the grace of Christ is infinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's grace is infinite. For everything immeasurable is
 infinite. But the grace of Christ is immeasurable; since it is written (Jn. 3:34): "For God doth not
@@ -3261,7 +3261,7 @@ as a particular to a universal power; hence as the force of fire, no matter how 
 can never equal the sun's strength, so the grace of a man, no matter how much it increases, can
 never equal the grace of Christ.
 
-<span class="atom-split" data-atom="062" data-title="Whether the grace of Christ could increase?" data-chapter="Whether the grace of Christ could increase?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether the grace of Christ could increase?" data-chapter="Whether the grace of Christ could increase?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the grace of Christ could increase. For to every finite thing
 addition can be made. But the grace of Christ was finite. Therefore it could increase.
@@ -3321,7 +3321,7 @@ Secondly, as regards the effects, i.e. inasmuch as they do wiser and greater wor
 Christ increased in wisdom and grace even as in age, since in the course of time He did more perfect
 works, to prove Himself true man, both in the things of God, and in the things of man.
 
-<span class="atom-split" data-atom="063" data-title="Whether the habitual grace of Christ followed after the union?" data-chapter="Whether the habitual grace of Christ followed after the union?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether the habitual grace of Christ followed after the union?" data-chapter="Whether the habitual grace of Christ followed after the union?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the habitual grace did not follow after the union. For nothing
 follows itself. But this habitual grace seems to be the same as the grace of union; for [Augustine](/figures/augustine)
@@ -3396,7 +3396,7 @@ individual man?
 (7) Whether the devil is the head of all the wicked?
 (8) Whether Anti-christ can be called the head of all the wicked?
 
-<span class="atom-split" data-atom="064" data-title="Whether Christ is the Head of the Church?" data-chapter="Whether Christ is the Head of the Church?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether Christ is the Head of the Church?" data-chapter="Whether Christ is the Head of the Church?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it does not belong to Christ as man to be Head of the Church.
 For the head imparts sense and motion to the members. Now spiritual sense and motion which are
@@ -3456,7 +3456,7 @@ but the heart has a certain hidden influence. And hence the Holy Ghost is likene
 He invisibly quickens and unifies the Church; but Christ is likened to the Head in His visible nature
 in which man is set over man.
 
-<span class="atom-split" data-atom="065" data-title="Whether Christ is the Head of men as to their bodies or only as to their souls?" data-chapter="Whether Christ is the Head of men as to their bodies or only as to their souls?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether Christ is the Head of men as to their bodies or only as to their souls?" data-chapter="Whether Christ is the Head of men as to their bodies or only as to their souls?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ is not the Head of men as to their bodies. For Christ is
 said to be the Head of the Church inasmuch as He bestows spiritual sense and the movement of
@@ -3495,7 +3495,7 @@ Reply to Objection 3: Although Christ drew the matter of His body from other men
 draw from Him the immortal life of their body, according to 1 Cor. 15:22: "And as in Adam all
 die, so also in Christ all shall be made alive."
 
-<span class="atom-split" data-atom="066" data-title="Whether Christ is the Head of all men?" data-chapter="Whether Christ is the Head of all men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether Christ is the Head of all men?" data-chapter="Whether Christ is the Head of all men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ is not the Head of all men. For the head has no relation
 except to the members of its body. Now the unbaptized are nowise members of the Church which
@@ -3555,7 +3555,7 @@ to the reality, as is clear from the Philosopher (De Memor. et Remin. ii). Hence
 by observing the legal sacraments, were borne to Christ by the same faith and love whereby we
 also are borne to Him, and hence the ancient Fathers belong to the same Church as we.
 
-<span class="atom-split" data-atom="067" data-title="Whether Christ is the Head of the angels?" data-chapter="Whether Christ is the Head of the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether Christ is the Head of the angels?" data-chapter="Whether Christ is the Head of the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ as man is not the head of the angels. For the head and
 members are of one nature. But Christ as man is not of the same nature with the angels, but only
@@ -3605,7 +3605,7 @@ of Christ, by virtue of the spiritual nature, i.e. the Divine, can cause somethi
 of men, but also in the spirits of angels, on account of its most close conjunction with God, i.e. by
 personal union.
 
-<span class="atom-split" data-atom="068" data-title="Whether the grace of Christ, as Head of the Church, is the same as His habitual grace, inasmuch as He is Man?" data-chapter="Whether the grace of Christ, as Head of the Church, is the same as His habitual grace, inasmuch as He is Man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether the grace of Christ, as Head of the Church, is the same as His habitual grace, inasmuch as He is Man?" data-chapter="Whether the grace of Christ, as Head of the Church, is the same as His habitual grace, inasmuch as He is Man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the grace whereby Christ is Head of the Church and the
 individual grace of the Man are not the same. For the Apostle says (Rom. 5:15): "If by the offense
@@ -3659,7 +3659,7 @@ called in a manner the grace of union, inasmuch as it brings about a fitness for
 the grace of union, the capital, and the personal grace are one in essence, though there is a distinction
 of reason between them.
 
-<span class="atom-split" data-atom="069" data-title="Whether it is proper to Christ to be Head of the Church?" data-chapter="Whether it is proper to Christ to be Head of the Church?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether it is proper to Christ to be Head of the Church?" data-chapter="Whether it is proper to Christ to be Head of the Church?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it is not proper to Christ to be Head of the Church. For it is written
 (1 Kings 15:17): "When thou wast a little one in thy own eyes, wast thou not made the head of the
@@ -3716,7 +3716,7 @@ house; and it is Christ alone by "Whom also we have access . . . into this grace
 (Rom. 5:2); but by the other [names](/positions/nominalism) above-mentioned there may be implied not merely the principal
 but also the secondary authority.
 
-<span class="atom-split" data-atom="070" data-title="Whether the devil is the head of all the wicked?" data-chapter="Whether the devil is the head of all the wicked?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether the devil is the head of all the wicked?" data-chapter="Whether the devil is the head of all the wicked?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the devil is not the head of the wicked. For it belongs to the
 head to diffuse sense and movement into the members, as a gloss says, on Eph. 1:22, "And made
@@ -3767,7 +3767,7 @@ death came into the world. And they follow him that are of his side."
 Reply to Objection 3: All sins agree in aversion from God, although they differ by conversion
 to different changeable goods.
 
-<span class="atom-split" data-atom="071" data-title="Whether Anti-christ may be called the head of all the wicked?" data-chapter="Whether Anti-christ may be called the head of all the wicked?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether Anti-christ may be called the head of all the wicked?" data-chapter="Whether Anti-christ may be called the head of all the wicked?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Antichrist is not the head of the wicked. For there are not
 several heads of one body. But the devil is the head of the multitude of the wicked. Therefore
@@ -3813,7 +3813,7 @@ Reply to Objection 3: Anti-christ is said to be the head of all the wicked not b
 influence, but by a likeness of perfection. For in him the devil, as it were, brings his wickedness to
 a head, in the same way that anyone is said to bring his purpose to a head when he executes it.
 
-<span class="atom-split" data-atom="072" data-title="OF CHRIST'S KNOWLEDGE IN GENERAL (FOUR ARTICLES)" data-chapter="OF CHRIST'S KNOWLEDGE IN GENERAL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="OF CHRIST'S KNOWLEDGE IN GENERAL (FOUR ARTICLES)" data-chapter="OF CHRIST'S KNOWLEDGE IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider Christ's knowledge; concerning which the consideration will be twofold.
 First, of Christ's knowledge in general; secondly, of each particular kind of knowledge He had.
@@ -3823,7 +3823,7 @@ Under the first head there are four points of inquiry:
 (3) Whether He had an imprinted or infused knowledge?
 (4) Whether He had any acquired knowledge?
 
-<span class="atom-split" data-atom="073" data-title="Whether Christ had any knowledge besides the Divine?" data-chapter="Whether Christ had any knowledge besides the Divine?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether Christ had any knowledge besides the Divine?" data-chapter="Whether Christ had any knowledge besides the Divine?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was no knowledge except the Divine. For
 knowledge is necessary that things may be known thereby. But by His Divine knowledge Christ
@@ -3885,7 +3885,7 @@ attributed to God, as was said above (Q[3], AA[1],6). But on the part of the uni
 admit any knowledge in Christ. For this union is in personal being, and knowledge belongs to
 person only by reason of a nature.
 
-<span class="atom-split" data-atom="074" data-title="Whether Christ had the knowledge which the blessed or comprehensors have?" data-chapter="Whether Christ had the knowledge which the blessed or comprehensors have?" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether Christ had the knowledge which the blessed or comprehensors have?" data-chapter="Whether Christ had the knowledge which the blessed or comprehensors have?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was not the knowledge of the blessed or
 comprehensors. For the knowledge of the blessed is a participation of Divine light, according to
@@ -3934,7 +3934,7 @@ accordance with its nature, inasmuch as it is capable of it by nature, having be
 of God, as stated above. But the uncreated knowledge is in every way above the nature of the human
 soul.
 
-<span class="atom-split" data-atom="075" data-title="Whether Christ had an imprinted or infused knowledge?" data-chapter="Whether Christ had an imprinted or infused knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether Christ had an imprinted or infused knowledge?" data-chapter="Whether Christ had an imprinted or infused knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was not in Christ another infused knowledge besides the
 beatific knowledge. For all other knowledge compared to the beatific knowledge is like imperfect
@@ -4000,7 +4000,7 @@ and the Divine Essence is a form exceeding the capacity of any creature whatsoev
 with this super-exceeding form, there is nothing to hinder from being in the rational mind, intelligible
 species, proportioned to its nature.
 
-<span class="atom-split" data-atom="076" data-title="Whether Christ had any acquired knowledge?" data-chapter="Whether Christ had any acquired knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether Christ had any acquired knowledge?" data-chapter="Whether Christ had any acquired knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was no empiric and acquired knowledge. For
 whatever befitted Christ, He had most perfectly. Now Christ did not possess acquired knowledge
@@ -4063,7 +4063,7 @@ the same kind cannot be again acquired. But the habit of infused knowledge is of
 as coming down to the soul from on high, and not from phantasms. And hence there is no parity
 between these habits.
 
-<span class="atom-split" data-atom="077" data-title="OF THE BEATIFIC KNOWLEDGE OF CHRIST'S SOUL (FOUR ARTICLES)" data-chapter="OF THE BEATIFIC KNOWLEDGE OF CHRIST'S SOUL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="OF THE BEATIFIC KNOWLEDGE OF CHRIST'S SOUL (FOUR ARTICLES)" data-chapter="OF THE BEATIFIC KNOWLEDGE OF CHRIST'S SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Now we must consider each of the aforesaid knowledges. Since, however, we have treated of
 the Divine knowledge in the FP, Q[14], it now remains to speak of the three others: (1) of the
@@ -4076,7 +4076,7 @@ of Christ. Under this head there are four points of inquiry:
 (3) Whether the soul of Christ knew the infinite in the Word?
 (4) Whether it saw the Word or the Divine Essence clearer than did any other creature?
 
-<span class="atom-split" data-atom="078" data-title="Whether the soul of Christ comprehended the Word or the Divine Essence?" data-chapter="Whether the soul of Christ comprehended the Word or the Divine Essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether the soul of Christ comprehended the Word or the Divine Essence?" data-chapter="Whether the soul of Christ comprehended the Word or the Divine Essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ comprehended and comprehends the Word
 or Divine Essence. For Isidore says (De Summo Bono i, 3) that "the Trinity is known only to Itself
@@ -4126,7 +4126,7 @@ Man on account of the identity of suppositum. And in this way it may be said tha
 is a comprehensor of the Divine Essence, not indeed by His soul, but in His Divine Nature; even
 as we may also say that the Son of Man is the Creator.
 
-<span class="atom-split" data-atom="079" data-title="Whether the Son of God knew all things in the Word?" data-chapter="Whether the Son of God knew all things in the Word?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether the Son of God knew all things in the Word?" data-chapter="Whether the Son of God knew all things in the Word?" data-kind="atom" data-srclang="en"></span>
 
 Objection 2: It would seem that the soul of Christ does not know all things in the Word. For
 it is written (Mk. 13:32): "But of that day or hour no man knoweth, neither the angels in heaven
@@ -4199,7 +4199,7 @@ any created light received by the soul of Christ; although, absolutely speaking,
 exceeds the knowledge of the soul of Christ, not only as regards the mode of knowing, but also as
 regards the number of things known, as was stated above.
 
-<span class="atom-split" data-atom="080" data-title="Whether the soul of Christ can know the infinite in the Word?" data-chapter="Whether the soul of Christ can know the infinite in the Word?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether the soul of Christ can know the infinite in the Word?" data-chapter="Whether the soul of Christ can know the infinite in the Word?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ cannot know the infinite in the Word. For
 that the infinite should be known is repugnant to the definition of the infinite which (Phys. iii, 63)
@@ -4287,7 +4287,7 @@ the power of God than in the potentiality of the creature. So, too, the soul of 
 things by the knowledge of simple intelligence; yet God knows more by this manner of knowledge
 or understanding.
 
-<span class="atom-split" data-atom="081" data-title="Whether the soul of Christ sees the Word or the Divine Essence more clearly than does any other creature?" data-chapter="Whether the soul of Christ sees the Word or the Divine Essence more clearly than does any other creature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether the soul of Christ sees the Word or the Divine Essence more clearly than does any other creature?" data-chapter="Whether the soul of Christ sees the Word or the Divine Essence more clearly than does any other creature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ does not see the Word more perfectly than
 does any other creature. For the perfection of knowledge depends upon the medium of knowing;
@@ -4347,7 +4347,7 @@ head there are six points of inquiry:
 (5) Whether it was a habitual knowledge?
 (6) Whether it was distinguished by various habits?
 
-<span class="atom-split" data-atom="082" data-title="Whether by this imprinted or infused knowledge Christ knew all things?" data-chapter="Whether by this imprinted or infused knowledge Christ knew all things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether by this imprinted or infused knowledge Christ knew all things?" data-chapter="Whether by this imprinted or infused knowledge Christ knew all things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that by this knowledge Christ did not know all things. For this
 knowledge is imprinted upon Christ for the perfection of the passive intellect. Now the passive
@@ -4405,7 +4405,7 @@ required the remembrance of past things, knowledge of present things, and foresi
 things, as Tully says (De Invent. ii). Therefore, since Christ had the fulness of prudence by the gift
 of counsel, He consequently knew all singular things---present, past, and future.
 
-<span class="atom-split" data-atom="083" data-title="Whether Christ could use this knowledge by turning to phantasms?" data-chapter="Whether Christ could use this knowledge by turning to phantasms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether Christ could use this knowledge by turning to phantasms?" data-chapter="Whether Christ could use this knowledge by turning to phantasms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ could not understand by this knowledge
 except by turning to phantasms, because, as is stated De [Anima](/concepts/soul) iii, 18,31,39, phantasms are compared
@@ -4455,7 +4455,7 @@ phantasms, yet it could also understand by turning to phantasms. Hence the sense
 in it; especially as the senses are not afforded to man solely for intellectual knowledge, but for the
 need of animal life.
 
-<span class="atom-split" data-atom="084" data-title="Whether this knowledge is collative?" data-chapter="Whether this knowledge is collative?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether this knowledge is collative?" data-chapter="Whether this knowledge is collative?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ had not this knowledge by way of comparison.
 For Damascene says (De Fide Orth. iii, 14): "We do not uphold counsel or choice in Christ." Now
@@ -4498,7 +4498,7 @@ Reply to Objection 3: The blessed are likened to the angels in the gifts of grac
 still remains the difference of natures. And hence to use comparison and discursion is connatural
 to the souls of the blessed, but not to angels.
 
-<span class="atom-split" data-atom="085" data-title="Whether in Christ this knowledge was greater than the knowledge of the angels?" data-chapter="Whether in Christ this knowledge was greater than the knowledge of the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether in Christ this knowledge was greater than the knowledge of the angels?" data-chapter="Whether in Christ this knowledge was greater than the knowledge of the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this knowledge was not greater in Christ than in the angels.
 For perfection is proportioned to the thing perfected. But the human soul in the order of nature is
@@ -4531,7 +4531,7 @@ knowing that is natural to the human soul, i.e. by turning to phantasms, and by 
 discursion.
 And hereby the reply to the objections is made clear.
 
-<span class="atom-split" data-atom="086" data-title="Whether this knowledge was habitual?" data-chapter="Whether this knowledge was habitual?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether this knowledge was habitual?" data-chapter="Whether this knowledge was habitual?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was no habitual knowledge. For it has been
 said (Q[9], A[1]) that the highest perfection of knowledge befitted Christ's soul. But the perfection
@@ -4586,7 +4586,7 @@ and goodness, but that its subject is a being and a good. And hence habitual kno
 better or more excellent than the soul of Christ; but relatively, since the whole goodness of habitual
 knowledge is added to the goodness of the subject.
 
-<span class="atom-split" data-atom="087" data-title="Whether this knowledge was distinguished by divers habits?" data-chapter="Whether this knowledge was distinguished by divers habits?" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Whether this knowledge was distinguished by divers habits?" data-chapter="Whether this knowledge was distinguished by divers habits?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in the soul of Christ there was only one [habit](/concepts/custom) of knowledge.
 For the more perfect knowledge is, the more united it is; hence the higher angels understand by the
@@ -4636,7 +4636,7 @@ there are four points of inquiry:
 (3) Whether He learned anything from man?
 (4) Whether He received anything from angels?
 
-<span class="atom-split" data-atom="088" data-title="Whether Christ knew all things by this acquired or empiric knowledge?" data-chapter="Whether Christ knew all things by this acquired or empiric knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether Christ knew all things by this acquired or empiric knowledge?" data-chapter="Whether Christ knew all things by this acquired or empiric knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not know everything by this knowledge. For this
 knowledge is acquired by experience. But Christ did not experience everything. Therefore He did
@@ -4681,7 +4681,7 @@ but all such as are knowable by the light of man's active intellect. Hence by th
 not know the essences of separate substances, nor past, present, or future singulars, which,
 nevertheless, He knew by infused knowledge, as was said above (Q[11]).
 
-<span class="atom-split" data-atom="089" data-title="Whether Christ advanced in acquired or empiric knowledge?" data-chapter="Whether Christ advanced in acquired or empiric knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether Christ advanced in acquired or empiric knowledge?" data-chapter="Whether Christ advanced in acquired or empiric knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not advance in this knowledge. For even as Christ
 knew all things by His beatific and His infused knowledge, so also did He by this acquired
@@ -4740,7 +4740,7 @@ was made to Christ's knowledge, i.e. as regards any knowledge of His, and especi
 the infused knowledge which is caused in Christ's soul by union with the Word; but it does not
 regard the increase of knowledge caused by the natural agent.
 
-<span class="atom-split" data-atom="090" data-title="Whether Christ learned anything from man?" data-chapter="Whether Christ learned anything from man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether Christ learned anything from man?" data-chapter="Whether Christ learned anything from man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ learned something from man. For it is written (Lk.
 2:46,47) that, "They found Him in the temple in the midst of the doctors, hearing them, and asking
@@ -4790,7 +4790,7 @@ of knowledge by way of experience. Hence Gregory says (Sup. Ezech. Lib. i, Hom. 
 twelfth year of His age He deigned to question men on earth, since in the course of reason, the word
 of doctrine is not vouchsafed before the age of perfection."
 
-<span class="atom-split" data-atom="091" data-title="Whether Christ received knowledge from the angels?" data-chapter="Whether Christ received knowledge from the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Whether Christ received knowledge from the angels?" data-chapter="Whether Christ received knowledge from the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ received knowledge from the angels. For it is written
 (Lk. 22:43) that "there appeared to Him an angel from heaven, strengthening Him." But we are
@@ -4842,7 +4842,7 @@ Reply to Objection 3: The Son of God assumed a passible body (as will be said he
 body was rightly subject to the impression of heavenly bodies; but His soul was not subject to the
 impression of heavenly spirits.
 
-<span class="atom-split" data-atom="092" data-title="OF THE POWER OF CHRIST'S SOUL (FOUR ARTICLES)" data-chapter="OF THE POWER OF CHRIST'S SOUL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="OF THE POWER OF CHRIST'S SOUL (FOUR ARTICLES)" data-chapter="OF THE POWER OF CHRIST'S SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the power of Christ's soul; and under this head there are four points of
 inquiry:
@@ -4851,7 +4851,7 @@ inquiry:
 (3) Whether He had omnipotence with regard to His own body?
 (4) Whether He had omnipotence as regards the execution of His own will?
 
-<span class="atom-split" data-atom="093" data-title="Whether the soul of Christ had omnipotence?" data-chapter="Whether the soul of Christ had omnipotence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the soul of Christ had omnipotence?" data-chapter="Whether the soul of Christ had omnipotence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ had omnipotence. For Ambrose [*Gloss,
 Ord.] says on Lk. 1:32: "The power which the Son of God had naturally, the Man was about to
@@ -4925,7 +4925,7 @@ than merely to be lightsome. Hence the soul of Christ has a speculative knowledg
 it knows the mode of God's creation), but it has no practical knowledge of this mode, since it has
 no knowledge operative of creation.
 
-<span class="atom-split" data-atom="094" data-title="Whether the soul of Christ had omnipotence with regard to the transmutation of creatures?" data-chapter="Whether the soul of Christ had omnipotence with regard to the transmutation of creatures?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether the soul of Christ had omnipotence with regard to the transmutation of creatures?" data-chapter="Whether the soul of Christ had omnipotence with regard to the transmutation of creatures?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ had omnipotence with regard to the
 transmutation of creatures. For He Himself says (Mat. 28:18): "All power is given to Me in heaven
@@ -4994,7 +4994,7 @@ He might work miracles, but also that He might communicate this grace to others.
 (Mat. 10:1) that, "having called His twelve disciples together, He gave them power over unclean
 spirits, to cast them out, and to heal all manner of diseases, and all manner of infirmities."
 
-<span class="atom-split" data-atom="095" data-title="Whether the soul of Christ had omnipotence with regard to His own body?" data-chapter="Whether the soul of Christ had omnipotence with regard to His own body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether the soul of Christ had omnipotence with regard to His own body?" data-chapter="Whether the soul of Christ had omnipotence with regard to His own body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's soul had omnipotence with regard to His own body.
 For Damascene says (De Fide Orth. iii, 20,23) that "all natural things were voluntary to Christ; He
@@ -5048,7 +5048,7 @@ imagination, and thus by commotion of the spirits the whole body is altered. But
 dispositions which have no natural relation to the imagination are not transmuted by the imagination,
 however strong it is, e.g. the shape of the hand, or foot, or such like.
 
-<span class="atom-split" data-atom="096" data-title="Whether the soul of Christ had omnipotence as regards the execution of His will?" data-chapter="Whether the soul of Christ had omnipotence as regards the execution of His will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Whether the soul of Christ had omnipotence as regards the execution of His will?" data-chapter="Whether the soul of Christ had omnipotence as regards the execution of His will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ had not omnipotence as regards the execution
 of His own will. For it is written (Mk. 7:24) that "entering into a house, He would that no man
@@ -5100,7 +5100,7 @@ power, and for what He Himself was to do by His human will, since the power and 
 Christ's soul depended on God, "Who works in all [Vulg.: 'you'], both to will and to accomplish"
 (Phil. 2:13).
 
-<span class="atom-split" data-atom="097" data-title="OF THE DEFECTS OF BODY ASSUMED BY THE SON OF GOD (FOUR ARTICLES)" data-chapter="OF THE DEFECTS OF BODY ASSUMED BY THE SON OF GOD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="OF THE DEFECTS OF BODY ASSUMED BY THE SON OF GOD (FOUR ARTICLES)" data-chapter="OF THE DEFECTS OF BODY ASSUMED BY THE SON OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the defects Christ assumed in the [human nature](/axes/human_nature); and first, of the defects
 of body; secondly, of the defects of soul.
@@ -5110,7 +5110,7 @@ Under the first head there are four points of inquiry:
 (3) Whether He contracted these defects?
 (4) Whether He assumed all these defects?
 
-<span class="atom-split" data-atom="098" data-title="Whether the Son of God in human nature ought to have assumed defects of body?" data-chapter="Whether the Son of God in human nature ought to have assumed defects of body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether the Son of God in human nature ought to have assumed defects of body?" data-chapter="Whether the Son of God in human nature ought to have assumed defects of body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Son of God ought not to have assumed [human nature](/axes/human_nature) with
 defects of body. For as His soul is personally united to the Word of God, so also is His body. But
@@ -5192,7 +5192,7 @@ they made known His Manhood, which is the way of coming to the Godhead, accordin
 strength in Christ, but spiritual strength, wherewith He vanquished the devil and healed human
 weakness.
 
-<span class="atom-split" data-atom="099" data-title="Whether Christ was of necessity subject to these defects?" data-chapter="Whether Christ was of necessity subject to these defects?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether Christ was of necessity subject to these defects?" data-chapter="Whether Christ was of necessity subject to these defects?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not of necessity subject to these defects. For it is
 written (Is. 53:7): "He was offered because it was His own will"; and the prophet is speaking of
@@ -5236,7 +5236,7 @@ Reply to Objection 3: Nothing was more powerful than Christ's soul, absolutely; 
 nothing to hinder a thing being more powerful in regard to this or that effect, as a nail for piercing.
 And this I say, in so far as Christ's soul is considered in its own proper nature and power.
 
-<span class="atom-split" data-atom="100" data-title="Whether Christ contracted these defects?" data-chapter="Whether Christ contracted these defects?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether Christ contracted these defects?" data-chapter="Whether Christ contracted these defects?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ contracted bodily defects. For we are said to contract
 what we derive with our nature from birth. But Christ, together with [human nature](/axes/human_nature), derived His
@@ -5281,7 +5281,7 @@ them.
 Reply to Objection 3: Christ was made like to other men in the quality and not in the cause of
 these defects; and hence, unlike others, He did not contract them.
 
-<span class="atom-split" data-atom="101" data-title="Whether Christ ought to have assumed all the bodily defects of men?" data-chapter="Whether Christ ought to have assumed all the bodily defects of men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether Christ ought to have assumed all the bodily defects of men?" data-chapter="Whether Christ ought to have assumed all the bodily defects of men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ ought to have assumed all the bodily defects of men.
 For Damascene says (De Fide Orth. iii, 6,18): "What is unassumable is incurable." But Christ came
@@ -5329,7 +5329,7 @@ assume them all, but only such as sufficed to satisfy for the sin of the whole n
 Reply to Objection 3: Death comes to all men from the sin of our first parent; but not other
 defects, although they are less than death. Hence there is no parity.
 
-<span class="atom-split" data-atom="102" data-title="OF THE DEFECTS OF SOUL ASSUMED BY CHRIST (TEN ARTICLES)" data-chapter="OF THE DEFECTS OF SOUL ASSUMED BY CHRIST (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="OF THE DEFECTS OF SOUL ASSUMED BY CHRIST (TEN ARTICLES)" data-chapter="OF THE DEFECTS OF SOUL ASSUMED BY CHRIST (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the defects pertaining to the soul; and under this head there are ten points
 of inquiry:
@@ -5344,7 +5344,7 @@ of inquiry:
 (9) Whether there was [anger](/concepts/anger)?
 (10) Whether He was at once wayfarer and comprehensor?
 
-<span class="atom-split" data-atom="103" data-title="Whether there was sin in Christ?" data-chapter="Whether there was sin in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether there was sin in Christ?" data-chapter="Whether there was sin in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was sin in Christ. For it is written (Ps. 21:2): "O God,
 My God . . . why hast Thou forsaken Me? Far from My salvation are the words of My sins." Now
@@ -5419,7 +5419,7 @@ Reply to Objection 5: A penitent can give a praiseworthy example, not by having 
 by freely bearing the punishment of sin. And hence Christ set the highest example to penitents,
 since He willingly bore the punishment, not of His own sin, but of the sins of others.
 
-<span class="atom-split" data-atom="104" data-title="Whether there was the \&quot;fomes\&quot; of sin in Christ?" data-chapter="Whether there was the \&quot;fomes\&quot; of sin in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether there was the \&quot;fomes\&quot; of sin in Christ?" data-chapter="Whether there was the \&quot;fomes\&quot; of sin in Christ?" data-kind="atom" data-srclang="en"></span>
 
 # Whether there was the "fomes" of sin in Christ?
 
@@ -5476,7 +5476,7 @@ hence this belonged to Christ, whose spirit reached the highest degree of fortit
 He suffered no internal assault on the part of the "fomes" of sin, He sustained an external assault
 on the part of the world and the devil, and won the crown of victory by overcoming them.
 
-<span class="atom-split" data-atom="105" data-title="Whether in Christ there was ignorance?" data-chapter="Whether in Christ there was ignorance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether in Christ there was ignorance?" data-chapter="Whether in Christ there was ignorance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was ignorance in Christ. For that is truly in Christ which
 belongs to Him in His [human nature](/axes/human_nature), although it does not belong to Him in His Divine Nature, as
@@ -5528,7 +5528,7 @@ idolatry; since this people, having turned away from the Lord, turned to the [wo
 these were the first spoils which the child took from the domination of idolatry." And in this way
 "before the child know" may be taken to mean "before he show himself to know."
 
-<span class="atom-split" data-atom="106" data-title="Whether Christ's soul was passible?" data-chapter="Whether Christ's soul was passible?" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Whether Christ's soul was passible?" data-chapter="Whether Christ's soul was passible?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of Christ was not passible. For nothing suffers except
 by reason of something stronger; since "the agent is greater than the patient," as is clear from
@@ -5591,7 +5591,7 @@ Now, it is manifest that passions like these were not in Christ.
 Reply to Objection 3: The "passions of sins" are movements of the sensitive appetite that tend
 to unlawful things; and these were not in Christ, as neither was the "fomes" of sin.
 
-<span class="atom-split" data-atom="107" data-title="Whether there was sensible pain in Christ?" data-chapter="Whether there was sensible pain in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether there was sensible pain in Christ?" data-chapter="Whether there was sensible pain in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was no true sensible pain in Christ. For Hilary says (De
 Trin. x): "Since with Christ to die was life, what pain may He be supposed to have suffered in the
@@ -5642,7 +5642,7 @@ passibility and mortality should be taken away; and for the same reason the deli
 was so kept in the mind as not to overflow into the sensitive powers, lest sensible pain should
 thereby be prevented.
 
-<span class="atom-split" data-atom="108" data-title="Whether there was sorrow in Christ?" data-chapter="Whether there was sorrow in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Whether there was sorrow in Christ?" data-chapter="Whether there was sorrow in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was no sorrow. For it is written of Christ (Is.
 42:4): "He shall not be sad nor troublesome."
@@ -5707,7 +5707,7 @@ desired, but only as it is ordained to health. And thus Christ's death and passi
 involuntary, and caused sorrow, although they were voluntary as ordained to the end, which is the
 redemption of the human race.
 
-<span class="atom-split" data-atom="109" data-title="Whether there was fear in Christ?" data-chapter="Whether there was fear in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Whether there was fear in Christ?" data-chapter="Whether there was fear in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was no fear in Christ. For it is written (Prov. 28:1): "The
 just, bold as a lion, shall be without dread." But Christ was most just. Therefore there was no fear
@@ -5747,7 +5747,7 @@ He voluntarily assumed fear, even as sorrow.
 Reply to Objection 3: Although Christ could have avoided future evils by the power of His
 Godhead, yet they were unavoidable, or not easily avoidable by the weakness of the flesh.
 
-<span class="atom-split" data-atom="110" data-title="Whether there was wonder in Christ?" data-chapter="Whether there was wonder in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="Whether there was wonder in Christ?" data-chapter="Whether there was wonder in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was no wonder. For the Philosopher says
 (Metaph. i, 2) that wonder results when we see an effect without knowing its cause; and thus wonder
@@ -5786,7 +5786,7 @@ respect to Himself, but because it was great with respect to others.
 Reply to Objection 3: He could do all things by the Divine power, for with respect to this there
 was no wonder in Him, but only with respect to His human empiric knowledge, as was said above.
 
-<span class="atom-split" data-atom="111" data-title="Whether there was anger in Christ?" data-chapter="Whether there was anger in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="Whether there was anger in Christ?" data-chapter="Whether there was anger in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was no [anger](/concepts/anger) in Christ. For it is written (James 1:20):
 "The anger of man worketh not the justice of God." Now whatever was in Christ pertained to the
@@ -5832,7 +5832,7 @@ was allowed to do what was proper to it," and one power was not impeded by anoth
 the joy of His mind in contemplation did not impede the sorrow or pain of the inferior part, so,
 conversely, the passions of the inferior part no-wise impeded the act of reason.
 
-<span class="atom-split" data-atom="112" data-title="Whether Christ was at once a wayfarer and a comprehensor?" data-chapter="Whether Christ was at once a wayfarer and a comprehensor?" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="Whether Christ was at once a wayfarer and a comprehensor?" data-chapter="Whether Christ was at once a wayfarer and a comprehensor?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not at once a wayfarer and a comprehensor. For it
 belongs to a wayfarer to be moving toward the end of [beatitude](/positions/beatitude), and to a comprehensor it belongs
@@ -5880,7 +5880,7 @@ reasons: first, because the souls of saints are not passible, as Christ's soul w
 their bodies do nothing by which they tend to beatitude, as Christ by His bodily sufferings tended
 to beatitude as regards the glory of His body.
 
-<span class="atom-split" data-atom="113" data-title="OF THOSE THINGS WHICH ARE APPLICABLE TO CHRIST IN HIS BEING AND BECOMING (TWELVE ARTICLES)" data-chapter="OF THOSE THINGS WHICH ARE APPLICABLE TO CHRIST IN HIS BEING AND BECOMING (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="OF THOSE THINGS WHICH ARE APPLICABLE TO CHRIST IN HIS BEING AND BECOMING (TWELVE ARTICLES)" data-chapter="OF THOSE THINGS WHICH ARE APPLICABLE TO CHRIST IN HIS BEING AND BECOMING (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the consequences of the union; and first as to what belongs to Christ in
 Himself; secondly, as to what belongs to Christ in relation with His Father; thirdly, as to what
@@ -5904,7 +5904,7 @@ belongs to the Son of God of the [human nature](/axes/human_nature)?
 (11) Whether this is true: "Christ as man is God"?
 (12) Whether this is true: "Christ as man is a hypostasis or person"?
 
-<span class="atom-split" data-atom="114" data-title="Whether this is true: \&quot;God is man\&quot;?" data-chapter="Whether this is true: \&quot;God is man\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="Whether this is true: \&quot;God is man\&quot;?" data-chapter="Whether this is true: \&quot;God is man\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is true: "God is man"?
 
@@ -5993,7 +5993,7 @@ Reply to Objection 4: This word "man" is predicated of God, because of the union
 and this union implies a relation. Hence it does not follow the rule of those words which are
 absolutely predicated of God from [eternity](/positions/eternity).
 
-<span class="atom-split" data-atom="115" data-title="Whether this is true: \&quot;Man is God\&quot;?" data-chapter="Whether this is true: \&quot;Man is God\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="Whether this is true: \&quot;Man is God\&quot;?" data-chapter="Whether this is true: \&quot;Man is God\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is true: "Man is God"?
 
@@ -6094,7 +6094,7 @@ who is a lord, lordly; but whatsoever belongs to a lord is called lordly, as the
 "lordly hand," or the "lordly possession." And hence the man Christ, Who is our Lord, cannot be
 called lordly; yet His flesh can be called "lordly flesh" and His passion the "lordly passion."
 
-<span class="atom-split" data-atom="116" data-title="Whether what belongs to the human nature can be predicated of God?" data-chapter="Whether what belongs to the human nature can be predicated of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Whether what belongs to the human nature can be predicated of God?" data-chapter="Whether what belongs to the human nature can be predicated of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that what belongs to the [human nature](/axes/human_nature) cannot be said of God. For
 contrary things cannot be said of the same. Now, what belongs to human nature is contrary to what
@@ -6158,7 +6158,7 @@ dost thou maintain that what was the cause of our salvation was the occasion of 
 Reply to Objection 3: To be assumed pertains to human nature, not in its suppositum, but in
 itself; and thus it does not belong to God.
 
-<span class="atom-split" data-atom="117" data-title="Whether what belongs to the human nature can be predicated of the Divine Nature?" data-chapter="Whether what belongs to the human nature can be predicated of the Divine Nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Whether what belongs to the human nature can be predicated of the Divine Nature?" data-chapter="Whether what belongs to the human nature can be predicated of the Divine Nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that what belongs to the [human nature](/axes/human_nature) can be said of the Divine
 Nature. For what belongs to the human nature is predicated of the Son of God, and of God. But
@@ -6210,7 +6210,7 @@ omnipotent), is nowise predicated of the human nature. But the Divine Nature rec
 participation from the human nature; and hence what belongs to the human nature can nowise be
 predicated of the Divine Nature.
 
-<span class="atom-split" data-atom="118" data-title="Whether this is true: \&quot;God was made man\&quot;?" data-chapter="Whether this is true: \&quot;God was made man\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Whether this is true: \&quot;God was made man\&quot;?" data-chapter="Whether this is true: \&quot;God was made man\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is true: "God was made man"?
 
@@ -6259,7 +6259,7 @@ Reply to Objection 3: Man stands not for the bare Person of the Son of God, but 
 it subsists in human nature. Hence, although this is false, "God was made the Person of the Son of
 God," yet this is true: "God was made man" by being united to human nature.
 
-<span class="atom-split" data-atom="119" data-title="Whether this is true: \&quot;Man was made God\&quot;?" data-chapter="Whether this is true: \&quot;Man was made God\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="Whether this is true: \&quot;Man was made God\&quot;?" data-chapter="Whether this is true: \&quot;Man was made God\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is true: "Man was made God"?
 
@@ -6334,7 +6334,7 @@ was made man today." Nevertheless, if on the part of the subject there is added 
 human nature in the abstract, it might be taken in this way for the subject of the making, e.g. if it
 were said that "human nature was made the Son of God's."
 
-<span class="atom-split" data-atom="120" data-title="Whether this is true: \&quot;Christ is a creature\&quot;?" data-chapter="Whether this is true: \&quot;Christ is a creature\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="Whether this is true: \&quot;Christ is a creature\&quot;?" data-chapter="Whether this is true: \&quot;Christ is a creature\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is true: "Christ is a creature"?
 
@@ -6387,7 +6387,7 @@ incorporeal and impassible "in His Godhead."
 Reply to Objection 3: There can be no doubt how the birth from the Virgin applies to the
 Person of the Son of God, as there can be in the case of creation; and hence there is no parity.
 
-<span class="atom-split" data-atom="121" data-title="Whether this Man, i.e. Christ, began to be?" data-chapter="Whether this Man, i.e. Christ, began to be?" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Whether this Man, i.e. Christ, began to be?" data-chapter="Whether this Man, i.e. Christ, began to be?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this Man, i.e. Christ, began to be. For [Augustine](/figures/augustine) says (Tract.
 cv in Joan.) that "before the world was, neither were we, nor the Mediator of God and men---the
@@ -6431,7 +6431,7 @@ Hence, since it signifies the suppositum when placed in the subject, and refers 
 placed in the predicate, therefore this is false: "The Man Christ began to be": but this is true: "Christ
 began to be Man."
 
-<span class="atom-split" data-atom="122" data-title="Whether this is true: \&quot;Christ as Man is a creature\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is a creature\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="Whether this is true: \&quot;Christ as Man is a creature\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is a creature\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is true: "Christ as Man is a creature"?
 
@@ -6480,7 +6480,7 @@ creature as man, it is a creature simply. But Christ is a suppositum not merely 
 also of the Divine Nature, in which He has an uncreated being. Hence it does not follow that, if He
 is a creature as Man, He is a creature simply.
 
-<span class="atom-split" data-atom="123" data-title="Whether this is true: \&quot;Christ as Man is God\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is God\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Whether this is true: \&quot;Christ as Man is God\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is God\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is true: "Christ as Man is God"?
 
@@ -6527,7 +6527,7 @@ Reply to Objection 3: When we say "this man," the demonstrative pronoun "this" a
 "man" to the suppositum; and hence "Christ as this Man, is God, is a truer proposition than Christ
 as Man is God."
 
-<span class="atom-split" data-atom="124" data-title="Whether this is true: \&quot;Christ as Man is a hypostasis or person\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is a hypostasis or person\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="Whether this is true: \&quot;Christ as Man is a hypostasis or person\&quot;?" data-chapter="Whether this is true: \&quot;Christ as Man is a hypostasis or person\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is true: "Christ as Man is a hypostasis or person"?
 
@@ -6575,7 +6575,7 @@ that subsists of itself. Hence, as human nature is not of itself a person apart 
 Son of God, so likewise it is not of itself a hypostasis or suppositum or a being of nature. Hence in
 the sense in which we deny that "Christ as Man is a person" we must deny all the other propositions.
 
-<span class="atom-split" data-atom="125" data-title="OF CHRIST'S UNITY OF BEING (TWO ARTICLES)" data-chapter="OF CHRIST'S UNITY OF BEING (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="OF CHRIST'S UNITY OF BEING (TWO ARTICLES)" data-chapter="OF CHRIST'S UNITY OF BEING (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider what pertains to Christ's unity in common. For, in their proper place,
 we must consider what pertains to unity and plurality in detail: thus we concluded (Q[9]) that there
@@ -6586,7 +6586,7 @@ Under the first head there are two points of inquiry:
 (1) Whether Christ is one or two?
 (2) Whether there is only one being in Christ?
 
-<span class="atom-split" data-atom="126" data-title="Whether Christ is one or two? (1/2)" data-chapter="Whether Christ is one or two?" data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="Whether Christ is one or two? (1/2)" data-chapter="Whether Christ is one or two?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ is not one, but two. For [Augustine](/figures/augustine) says (De Trin. i, 7):
 "Because the form of God took the form of a servant, both are God by reason of God Who assumed,
@@ -6691,7 +6691,7 @@ which "two" is predicated. Now what is predicated is said of the suppositum, whi
 the word "Christ." Hence, although Christ has duality of nature, yet, because He has not duality of
 suppositum, it cannot be said that Christ is two.
 
-<span class="atom-split" data-atom="127" data-title="Whether Christ is one or two? (2/2)" data-chapter="Whether Christ is one or two?" data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="Whether Christ is one or two? (2/2)" data-chapter="Whether Christ is one or two?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 7: Otherwise implies diversity of accident. Hence diversity of accident
 suffices for anything to be called "otherwise" simply. But "another thing" implies diversity of
@@ -6700,7 +6700,7 @@ Metaph. v, text. 15. Hence diversity of nature does not suffice for anything to 
 thing" simply, unless there is diversity of suppositum. But diversity of nature makes "another thing"
 relatively, i.e. in nature, if there is no diversity of suppositum.
 
-<span class="atom-split" data-atom="128" data-title="Whether there is only one being in Christ?" data-chapter="Whether there is only one being in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Whether there is only one being in Christ?" data-chapter="Whether there is only one being in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there is not merely one being, but two. For Damascene
 says (De Fide Orth. iii, 13) that whatever follows the nature is doubled in Christ. But being follows
@@ -6772,7 +6772,7 @@ and body, as signified by the word "humanity," does not signify "what is," but "
 Hence being belongs to the subsisting person, inasmuch as it has a relation to such a nature, and
 of this relation the soul is the cause, inasmuch as it perfects human nature by informing the body.
 
-<span class="atom-split" data-atom="129" data-title="OF CHRIST'S UNITY OF WILL (SIX ARTICLES)" data-chapter="OF CHRIST'S UNITY OF WILL (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="OF CHRIST'S UNITY OF WILL (SIX ARTICLES)" data-chapter="OF CHRIST'S UNITY OF WILL (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider unity as regards the will; and under this head there are six points of
 inquiry:
@@ -6783,7 +6783,7 @@ inquiry:
 (5) Whether Christ's human will was always conformed to the Divine will in the thing willed?
 (6) Whether there was any contrariety of wills in Christ?
 
-<span class="atom-split" data-atom="130" data-title="Whether there are two wills in Christ?" data-chapter="Whether there are two wills in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="Whether there are two wills in Christ?" data-chapter="Whether there are two wills in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there are not two wills, one Divine, the other human.
 For the will is the first mover and first commander in whoever wills. But in Christ the first mover
@@ -6869,7 +6869,7 @@ absolutely, but as it is in the hypostasis. Hence the human will of Christ had a
 from the fact of being in a Divine hypostasis, i.e. it was always moved in accordance with the
 bidding of the Divine will.
 
-<span class="atom-split" data-atom="131" data-title="Whether in Christ there was a will of sensuality besides the will of reason?" data-chapter="Whether in Christ there was a will of sensuality besides the will of reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="Whether in Christ there was a will of sensuality besides the will of reason?" data-chapter="Whether in Christ there was a will of sensuality besides the will of reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was no will of sensuality besides the will of
 reason. For the Philosopher says (De [Anima](/concepts/soul) iii, text. 42) that "the will is in the reason, and in the
@@ -6913,7 +6913,7 @@ one" ([Aristotle](/figures/aristotle), Topic. iii); thus a surface which is visi
 color. So, too, because the sensuality is called the will, only because it partakes of the rational will,
 there is said to be but one human will in Christ, even as there is but one human nature.
 
-<span class="atom-split" data-atom="132" data-title="Whether in Christ there were two wills as regards the reason?" data-chapter="Whether in Christ there were two wills as regards the reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="Whether in Christ there were two wills as regards the reason?" data-chapter="Whether in Christ there were two wills as regards the reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there were two wills as regards the reason. For
 Damascene says (De Fide Orth. ii, 22) that there is a double will in man, viz. the natural will which
@@ -6960,7 +6960,7 @@ FP, Q[79], A[8].
 Reply to Objection 3: The "will of piety" would not seem to be distinct from the will considered
 as nature, inasmuch as it shrinks from another's evil, absolutely considered.
 
-<span class="atom-split" data-atom="133" data-title="Whether there was free-will in Christ?" data-chapter="Whether there was free-will in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Whether there was free-will in Christ?" data-chapter="Whether there was free-will in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there was no free-will. For Damascene says (De Fide
 Orth. iii, 14) that {gnome}, i.e. opinion, thinking or cogitation, and {proairesis}, i.e. choice, "cannot
@@ -7006,7 +7006,7 @@ Reply to Objection 3: The will of Christ, though determined to good, is not dete
 or that good. Hence it pertains to Christ, even as to the blessed, to choose with a free-will confirmed
 in good.
 
-<span class="atom-split" data-atom="134" data-title="Whether the human will of Christ was altogether conformed to the Divine will in the thing willed?" data-chapter="Whether the human will of Christ was altogether conformed to the Divine will in the thing willed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="Whether the human will of Christ was altogether conformed to the Divine will in the thing willed?" data-chapter="Whether the human will of Christ was altogether conformed to the Divine will in the thing willed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human will in Christ did not will anything except what
 God willed. For it is written (Ps. 39:9) in the person of Christ: "That I should do Thy will: O my
@@ -7060,7 +7060,7 @@ Reply to Objection 3: Christ was at once comprehensor and wayfarer, inasmuch as 
 enjoying God in His mind and had a passible body. Hence things repugnant to His natural will and
 to His sensitive appetite could happen to Him in His passible flesh.
 
-<span class="atom-split" data-atom="135" data-title="Whether there was contrariety of wills in Christ?" data-chapter="Whether there was contrariety of wills in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="Whether there was contrariety of wills in Christ?" data-chapter="Whether there was contrariety of wills in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was contrariety of wills in Christ. For contrariety of wills
 regards contrariety of objects, as contrariety of movements springs from contrariety of termini, as
@@ -7135,7 +7135,7 @@ of the human race should be fulfilled by His passion. Nevertheless, there was an
 as regards the sensitive part, inasmuch as it implied a dread of coming trial, as Damascene says
 (De Fide Orth. ii, 15; iii, 18,23).
 
-<span class="atom-split" data-atom="136" data-title="OF THE UNITY OF CHRIST'S OPERATION (FOUR ARTICLES)" data-chapter="OF THE UNITY OF CHRIST'S OPERATION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="OF THE UNITY OF CHRIST'S OPERATION (FOUR ARTICLES)" data-chapter="OF THE UNITY OF CHRIST'S OPERATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the unity of Christ's operation; and under this head there are four points
 of inquiry:
@@ -7144,7 +7144,7 @@ of inquiry:
 (3) Whether Christ by His human operation merited anything for Himself?
 (4) Whether He merited anything for us by it?
 
-<span class="atom-split" data-atom="137" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (1/2)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (1/2)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there is but one operation of the Godhead and the
 Manhood. For Dionysius says (Div. Nom. ii): "The most loving operation of God is made manifest
@@ -7228,7 +7228,7 @@ with reason that the Sixth Council (Act. 18) condemned this opinion, and decreed
 confess two natural, indivisible, unconvertible, unconfused, and inseparable operations in the same
 Lord Jesus Christ our true God"; i.e. the Divine operation and the human operation.
 
-<span class="atom-split" data-atom="138" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (2/2)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="Whether in Christ there is only one operation of the Godhead and Manhood? (2/2)" data-chapter="Whether in Christ there is only one operation of the Godhead and Manhood?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: Dionysius places in Christ a theandric, i.e. a God-manlike or
 Divino-human, operation not by any confusion of the operations or powers of both natures, but
@@ -7280,7 +7280,7 @@ work of the human operation. Thus to heal a leper is a proper work of the Divine
 touch him is the proper work of the human operation. Now both these operations concur in one
 work, inasmuch as one nature acts in union with the other.
 
-<span class="atom-split" data-atom="139" data-title="Whether in Christ there are several human operations?" data-chapter="Whether in Christ there are several human operations?" data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="Whether in Christ there are several human operations?" data-chapter="Whether in Christ there are several human operations?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in Christ there are several human operations. For Christ as
 man communicates with plants by His nutritive soul, with the brutes by His sensitive soul, and with
@@ -7340,7 +7340,7 @@ active principle, as was said above.
 (St. Thomas gives no reply to OBJ[3]; some codices add: Hence may be gathered the reply to
 the third objection.)
 
-<span class="atom-split" data-atom="140" data-title="Whether the human action of Christ could be meritorious to Him?" data-chapter="Whether the human action of Christ could be meritorious to Him?" data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="Whether the human action of Christ could be meritorious to Him?" data-chapter="Whether the human action of Christ could be meritorious to Him?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human action of Christ could not be meritorious to Him.
 For before His death Christ was a comprehensor even as He is now. But comprehensors do not
@@ -7412,7 +7412,7 @@ which it has in the knowledge of others; although in regard to the being which t
 themselves it chiefly belongs to the good of those who know Him. Yet even this is referred to Christ
 inasmuch as they are His members.
 
-<span class="atom-split" data-atom="141" data-title="Whether Christ could merit for others?" data-chapter="Whether Christ could merit for others?" data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="Whether Christ could merit for others?" data-chapter="Whether Christ could merit for others?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ could not merit for others. For it is written (Ezech.
 18:4): "The soul that sinneth, the same shall die." Hence, for a like reason, the soul that meriteth,
@@ -7454,7 +7454,7 @@ wherein we are incorporated with Christ, according to Gal. 3:27, "As many of you
 baptized in Christ, have put on Christ"; and it is by grace that it is granted to man to be incorporated
 with Christ. And thus man's salvation is from grace.
 
-<span class="atom-split" data-atom="142" data-title="OF CHRIST'S SUBJECTION TO THE FATHER (TWO ARTICLES)" data-chapter="OF CHRIST'S SUBJECTION TO THE FATHER (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="OF CHRIST'S SUBJECTION TO THE FATHER (TWO ARTICLES)" data-chapter="OF CHRIST'S SUBJECTION TO THE FATHER (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider such things as belong to Christ in relation to the Father. Some of these
 things are predicated of Him because of His relation to the Father, e.g. that He was subject to Him,
@@ -7467,7 +7467,7 @@ Under the first head there are two points of inquiry:
 (1) Whether Christ is subject to the Father?
 (2) Whether He is subject to Himself?
 
-<span class="atom-split" data-atom="143" data-title="Whether we may say that Christ is subject to the Father?" data-chapter="Whether we may say that Christ is subject to the Father?" data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="Whether we may say that Christ is subject to the Father?" data-chapter="Whether we may say that Christ is subject to the Father?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we may not say that Christ was subject to the Father. For
 everything subject to the Father is a creature, since, as is said in De Eccles. Dogm. iv, "in the Trinity
@@ -7538,7 +7538,7 @@ then all things will be fully subject to Him by the final accomplishment of His 
 them; although even now all things are subject to Him as regards His power, according to  Mat.
 28:18: "All power is given to Me in heaven and in earth."
 
-<span class="atom-split" data-atom="144" data-title="Whether Christ is subject to Himself?" data-chapter="Whether Christ is subject to Himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="144" data-title="Whether Christ is subject to Himself?" data-chapter="Whether Christ is subject to Himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ is not subject to Himself. For Cyril says in a synodal
 letter which the Council of Ephesus (Part I, ch. xxvi) received: "Christ is neither servant nor master
@@ -7604,7 +7604,7 @@ said to be subject and subservient to Himself as regards His different parts.
 To the other arguments, the reply is clear from what has been said. For Augustine asserts that
 the Son is less than, or subject to, Himself in His human nature, and not by a diversity of supposita.
 
-<span class="atom-split" data-atom="145" data-title="OF CHRIST'S PRAYER (FOUR ARTICLES)" data-chapter="OF CHRIST'S PRAYER (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="145" data-title="OF CHRIST'S PRAYER (FOUR ARTICLES)" data-chapter="OF CHRIST'S PRAYER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider Christ's prayer; and under this head there are four points of inquiry:
 (1) Whether it is becoming that Christ should pray?
@@ -7612,7 +7612,7 @@ We must now consider Christ's prayer; and under this head there are four points 
 (3) Whether it is becoming to Him to pray for Himself or only for others?
 (4) Whether every prayer of His was heard?
 
-<span class="atom-split" data-atom="146" data-title="Whether it is becoming of Christ to pray?" data-chapter="Whether it is becoming of Christ to pray?" data-kind="atom"></span>
+<span class="atom-split" data-atom="146" data-title="Whether it is becoming of Christ to pray?" data-chapter="Whether it is becoming of Christ to pray?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unbecoming that Christ should pray. For, as Damascene says (De
 Fide Orth. iii, 24), "prayer is the asking for becoming things from God." But since Christ could do
@@ -7667,7 +7667,7 @@ the act of something perfect, i.e. something existing in act, as to understand a
 movements; and in this sense the mind of Christ was always raised up to God, since He was always
 contemplating Him as existing above Himself.
 
-<span class="atom-split" data-atom="147" data-title="Whether it pertains to Christ to pray according to His sensuality?" data-chapter="Whether it pertains to Christ to pray according to His sensuality?" data-kind="atom"></span>
+<span class="atom-split" data-atom="147" data-title="Whether it pertains to Christ to pray according to His sensuality?" data-chapter="Whether it pertains to Christ to pray according to His sensuality?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it pertains to Christ to pray according to His sensuality. For it
 is written (Ps. 83:3) in the person of Christ: "My heart and My flesh have rejoiced in the Living
@@ -7716,7 +7716,7 @@ Reply to Objection 3: The union in person is according to the personal being, wh
 to every part of the human nature; but the uplifting of prayer is by an act which pertains only to the
 reason, as stated above. Hence there is no parity.
 
-<span class="atom-split" data-atom="148" data-title="Whether it was fitting that Christ should pray for Himself?" data-chapter="Whether it was fitting that Christ should pray for Himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="148" data-title="Whether it was fitting that Christ should pray for Himself?" data-chapter="Whether it was fitting that Christ should pray for Himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting that Christ should pray for Himself. For Hilary
 says (De Trin. x): "Although His word of beseeching did not benefit Himself, yet He spoke for the
@@ -7769,7 +7769,7 @@ Consequently the prayer which He offered for Himself was also in a manner offere
 also anyone that asks a boon of God that he may use it for the good of others, prays not only for
 himself, but also for others.
 
-<span class="atom-split" data-atom="149" data-title="Whether Christ's prayer was always heard?" data-chapter="Whether Christ's prayer was always heard?" data-kind="atom"></span>
+<span class="atom-split" data-atom="149" data-title="Whether Christ's prayer was always heard?" data-chapter="Whether Christ's prayer was always heard?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's prayer was not always heard. For He besought that
 the chalice of His passion might be taken from Him, as we read (Mat. 26:39): and yet it was not
@@ -7837,7 +7837,7 @@ Reply to Objection 4: When He says: "I shall cry and Thou wilt not hear," we mus
 as referring to the desire of sensuality, which shunned death. But He is heard as to the desire of His
 reason, as stated above.
 
-<span class="atom-split" data-atom="150" data-title="OF THE PRIESTHOOD OF CHRIST (SIX ARTICLES)" data-chapter="OF THE PRIESTHOOD OF CHRIST (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="150" data-title="OF THE PRIESTHOOD OF CHRIST (SIX ARTICLES)" data-chapter="OF THE PRIESTHOOD OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the Priesthood of Christ; and under this head there are six points of
 inquiry:
@@ -7848,7 +7848,7 @@ inquiry:
 (5) Of the eternal duration of His priesthood;
 (6) Whether He should be called "a priest according to the order of Melchisedech"?
 
-<span class="atom-split" data-atom="151" data-title="Whether it is fitting that Christ should be a priest?" data-chapter="Whether it is fitting that Christ should be a priest?" data-kind="atom"></span>
+<span class="atom-split" data-atom="151" data-title="Whether it is fitting that Christ should be a priest?" data-chapter="Whether it is fitting that Christ should be a priest?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting that Christ should be a priest. For a priest is less than an
 angel; whence it is written (Zech. 3:1): "The Lord showed me the high-priest standing before the
@@ -7906,7 +7906,7 @@ Wherefore, as to others, one is a lawgiver, another is a priest, another is a ki
 in Christ, as the fount of all grace. Hence it is written (Is. 33:22): "The Lord is our Judge, the Lord
 is our law-giver, the Lord is our King: He will" come and "save us."
 
-<span class="atom-split" data-atom="152" data-title="Whether Christ was Himself both priest and victim?" data-chapter="Whether Christ was Himself both priest and victim?" data-kind="atom"></span>
+<span class="atom-split" data-atom="152" data-title="Whether Christ was Himself both priest and victim?" data-chapter="Whether Christ was Himself both priest and victim?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ Himself was not both priest and victim. For it is the
 duty of the priest to slay the victim. But Christ did not kill Himself. Therefore He was not both
@@ -7968,7 +7968,7 @@ way---namely, as a victim actually offered then. For it acquired then the actual
 from the charity which it had from the beginning, and from the grace of union sanctifying it
 absolutely.]
 
-<span class="atom-split" data-atom="153" data-title="Whether the effect of Christ's priesthood is the expiation of sins?" data-chapter="Whether the effect of Christ's priesthood is the expiation of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="153" data-title="Whether the effect of Christ's priesthood is the expiation of sins?" data-chapter="Whether the effect of Christ's priesthood is the expiation of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the effect of Christ's priesthood is not the expiation of sins.
 For it belongs to God alone to blot out sins, according to Is. 43:25: "I am He that blot out thy
@@ -8031,7 +8031,7 @@ lamb, as appears from Num. 38:3,4. By which it was signified that the offering u
 i.e. Christ, was the culminating sacrifice of all. Hence (Jn. 1:29) it is said: "Behold the Lamb of
 God, behold Him Who taketh away the sins [Vulg.: 'sin'] of the world."
 
-<span class="atom-split" data-atom="154" data-title="Whether the effect of the priesthood of Christ pertained not only to others, but also to Himself?" data-chapter="Whether the effect of the priesthood of Christ pertained not only to others, but also to Himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="154" data-title="Whether the effect of the priesthood of Christ pertained not only to others, but also to Himself?" data-chapter="Whether the effect of the priesthood of Christ pertained not only to others, but also to Himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the effect of the priesthood of Christ pertained not only to
 others, but also to Himself. For it belongs to the priest's office to pray for the people, according to
@@ -8095,7 +8095,7 @@ stand in need of this. Consequently, there is no comparison between the two; and
 Apostle says (Heb. 7:28): "The Law maketh men priests, who have infirmity; but the word of the
 oath, which was since the Law, the Son Who is perfected for evermore."
 
-<span class="atom-split" data-atom="155" data-title="Whether the priesthood of Christ endures for ever?" data-chapter="Whether the priesthood of Christ endures for ever?" data-kind="atom"></span>
+<span class="atom-split" data-atom="155" data-title="Whether the priesthood of Christ endures for ever?" data-chapter="Whether the priesthood of Christ endures for ever?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the priesthood of Christ does not endure for ever. For as stated
 above (A[4], ad 1,3) those alone need the effect of the priesthood who have the weakness of sin,
@@ -8141,7 +8141,7 @@ high-priest of the Law entered into the Holies, with a solemn oblation of blood,
 16:11. But the figure fell short of the reality in this, that the victim had not an everlasting virtue,
 for which reason those sacrifices were renewed every year.
 
-<span class="atom-split" data-atom="156" data-title="Whether the priesthood of Christ was according to the order of Melchisedech?" data-chapter="Whether the priesthood of Christ was according to the order of Melchisedech?" data-kind="atom"></span>
+<span class="atom-split" data-atom="156" data-title="Whether the priesthood of Christ was according to the order of Melchisedech?" data-chapter="Whether the priesthood of Christ was according to the order of Melchisedech?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's priesthood was not according to the order of
 Melchisedech. For Christ is the fountain-head of the entire priesthood, as being the principal priest.
@@ -8193,7 +8193,7 @@ is that, as the Apostle says in the same passage, he is "likened unto the Son of
 earthly father, no heavenly mother, and no genealogy, according to Is. 53:8: "Who shall declare
 His generation?" and Who in His Godhead has neither beginning nor end of days.
 
-<span class="atom-split" data-atom="157" data-title="OF ADOPTION AS BEFITTING TO CHRIST (FOUR ARTICLES)" data-chapter="OF ADOPTION AS BEFITTING TO CHRIST (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="157" data-title="OF ADOPTION AS BEFITTING TO CHRIST (FOUR ARTICLES)" data-chapter="OF ADOPTION AS BEFITTING TO CHRIST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now come to consider whether adoption befits Christ: and under this head there are
 four points of inquiry:
@@ -8202,7 +8202,7 @@ four points of inquiry:
 (3) Whether it is proper to man to be adopted to the sonship of God?
 (4) Whether Christ can be called the adopted Son?
 
-<span class="atom-split" data-atom="158" data-title="Whether it is fitting that God should adopt sons?" data-chapter="Whether it is fitting that God should adopt sons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="158" data-title="Whether it is fitting that God should adopt sons?" data-chapter="Whether it is fitting that God should adopt sons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not fitting that God should adopt sons. For, as jurists say,
 no one adopts anyone but a stranger as his son. But no one is a stranger in relation to God, Who is
@@ -8248,7 +8248,7 @@ to the ever-living Father.
 Yet it might be said that God ceases to be, according as He is in us by faith, so as to begin to
 be in us by vision, as a gloss says on Rom. 8:17: "If sons, heirs also."
 
-<span class="atom-split" data-atom="159" data-title="Whether it is fitting that the whole Trinity should adopt?" data-chapter="Whether it is fitting that the whole Trinity should adopt?" data-kind="atom"></span>
+<span class="atom-split" data-atom="159" data-title="Whether it is fitting that the whole Trinity should adopt?" data-chapter="Whether it is fitting that the whole Trinity should adopt?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting that the whole Trinity should adopt. For adoption is said
 of God in likeness to human [custom](/concepts/custom). But among men those only adopt who can beget: and in God
@@ -8299,7 +8299,7 @@ is attributed to the Holy Ghost. Therefore adoption, though common to the whole 
 appropriated to the Father as its author; to the Son, as its exemplar; to the Holy Ghost, as imprinting
 on us the likeness of this exemplar.
 
-<span class="atom-split" data-atom="160" data-title="Whether it is proper to the rational nature to be adopted?" data-chapter="Whether it is proper to the rational nature to be adopted?" data-kind="atom"></span>
+<span class="atom-split" data-atom="160" data-title="Whether it is proper to the rational nature to be adopted?" data-chapter="Whether it is proper to the rational nature to be adopted?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not proper to the rational nature to be adopted. For God
 is not said to be the Father of the rational creature, save by adoption. But God is called the Father
@@ -8348,7 +8348,7 @@ Reply to Objection 3: Adoption is a property resulting not from nature, but from
 which the rational nature is capable. Therefore it need not belong to every rational nature: but every
 rational creature must needs be capable of adoption.
 
-<span class="atom-split" data-atom="161" data-title="Whether Christ as man is the adopted Son of God?" data-chapter="Whether Christ as man is the adopted Son of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="161" data-title="Whether Christ as man is the adopted Son of God?" data-chapter="Whether Christ as man is the adopted Son of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ as man is the adopted Son of God. For Hilary says (De
 Trin. ii) speaking of Christ: "The dignity of power is not forfeited when carnal humanity [*Some
@@ -8393,7 +8393,7 @@ Reply to Objection 3: To be a creature, as also to be subservient or subject to 
 not only the person, but also the nature: but this cannot be said of sonship. Wherefore the comparison
 does not hold.
 
-<span class="atom-split" data-atom="162" data-title="OF THE PREDESTINATION OF CHRIST (FOUR ARTICLES)" data-chapter="OF THE PREDESTINATION OF CHRIST (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="162" data-title="OF THE PREDESTINATION OF CHRIST (FOUR ARTICLES)" data-chapter="OF THE PREDESTINATION OF CHRIST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We shall now consider the [predestination](/concepts/predestination) of Christ. Under this head there are four points of
 inquiry:
@@ -8402,7 +8402,7 @@ inquiry:
 (3) Whether His predestination is the exemplar of ours?
 (4) Whether it is the cause of our predestination?
 
-<span class="atom-split" data-atom="163" data-title="Whether it is befitting that Christ should be predestinated?" data-chapter="Whether it is befitting that Christ should be predestinated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="163" data-title="Whether it is befitting that Christ should be predestinated?" data-chapter="Whether it is befitting that Christ should be predestinated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting that Christ should be predestinated. For the term of
 anyone's [predestination](/concepts/predestination) seems to be the adoption of sons, according to Eph. 1:5: "Who hath
@@ -8480,7 +8480,7 @@ in human nature, because at one time it began to be true that one existing in hu
 Son of God; therefore this proposition---"Christ was predestinated the Son of God"---is truer than
 this---"Christ was made the Son of God."
 
-<span class="atom-split" data-atom="164" data-title="Whether this proposition is false: \&quot;Christ as man was predestinated to be the Son of God\&quot;?" data-chapter="Whether this proposition is false: \&quot;Christ as man was predestinated to be the Son of God\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="164" data-title="Whether this proposition is false: \&quot;Christ as man was predestinated to be the Son of God\&quot;?" data-chapter="Whether this proposition is false: \&quot;Christ as man was predestinated to be the Son of God\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this proposition is false: "Christ as man was predestinated to be the Son of God"?
 
@@ -8543,7 +8543,7 @@ nature, that it might be united to the Son of God; it is more proper to say that
 predestinated to be the Son of God," than that, "Christ, as Son of God, was predestinated to be
 Man."
 
-<span class="atom-split" data-atom="165" data-title="Whether Christ's predestination is the exemplar of ours?" data-chapter="Whether Christ's predestination is the exemplar of ours?" data-kind="atom"></span>
+<span class="atom-split" data-atom="165" data-title="Whether Christ's predestination is the exemplar of ours?" data-chapter="Whether Christ's predestination is the exemplar of ours?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's [predestination](/concepts/predestination) is not the exemplar of ours. For the
 exemplar exists before the exemplate. But nothing exists before the eternal. Since, therefore, our
@@ -8584,7 +8584,7 @@ The same is to be said of the second objection.
 Reply to Objection 3: The exemplate need not be conformed to the exemplar in all respects:
 it is sufficient that it imitate it in some.
 
-<span class="atom-split" data-atom="166" data-title="Whether Christ's predestination is the cause of ours?" data-chapter="Whether Christ's predestination is the cause of ours?" data-kind="atom"></span>
+<span class="atom-split" data-atom="166" data-title="Whether Christ's predestination is the cause of ours?" data-chapter="Whether Christ's predestination is the cause of ours?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's [predestination](/concepts/predestination) is not the cause of ours. For that which
 is eternal has no cause. But our predestination is eternal. Therefore Christ's predestination is not
@@ -8617,7 +8617,7 @@ Reply to Objection 3: If Christ were not to have been incarnate, God would have 
 men's salvation by other means. But since He decreed the Incarnation of Christ, He decreed at the
 same time that He should be the cause of our salvation.
 
-<span class="atom-split" data-atom="167" data-title="OF THE ADORATION OF CHRIST (SIX ARTICLES)" data-chapter="OF THE ADORATION OF CHRIST (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="167" data-title="OF THE ADORATION OF CHRIST (SIX ARTICLES)" data-chapter="OF THE ADORATION OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider things pertaining to Christ in reference to us; and first, the adoration
 of Christ, by which we adore Him; secondly, we must consider how He is our Mediator with God.
@@ -8629,7 +8629,7 @@ Under the first head there are six points of inquiry:
 (5) Whether to His Mother?
 (6) Concerning the adoration of the relics of Saints.
 
-<span class="atom-split" data-atom="168" data-title="Whether Christ's humanity and Godhead are to be adored with the same adoration?" data-chapter="Whether Christ's humanity and Godhead are to be adored with the same adoration?" data-kind="atom"></span>
+<span class="atom-split" data-atom="168" data-title="Whether Christ's humanity and Godhead are to be adored with the same adoration?" data-chapter="Whether Christ's humanity and Godhead are to be adored with the same adoration?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's humanity and Godhead are not to be adored with the
 same adoration. For Christ's Godhead is to be adored, as being common to Father and Son; wherefore
@@ -8691,7 +8691,7 @@ which is principal in him [*Cf. Ethic. ix, 8]. But since Christ's soul is united
 dignity, to that Person is honor principally due to Whom Christ's soul is united. Nor is the dignity
 of Christ's soul hereby diminished, but rather increased, as stated above (Q[2], A[2], ad 2).
 
-<span class="atom-split" data-atom="169" data-title="Whether Christ's humanity should be adored with the adoration of \&quot;latria\&quot;?" data-chapter="Whether Christ's humanity should be adored with the adoration of \&quot;latria\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="169" data-title="Whether Christ's humanity should be adored with the adoration of \&quot;latria\&quot;?" data-chapter="Whether Christ's humanity should be adored with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether Christ's humanity should be adored with the adoration of "latria"?
 
@@ -8745,7 +8745,7 @@ Hence appear the answers to the second and third objections. Because the adorati
 is not given to Christ's humanity in respect of itself; but in respect of the Godhead to which it is
 united, by reason of which Christ is not less than the Father.
 
-<span class="atom-split" data-atom="170" data-title="Whether the image of Christ should be adored with the adoration of \&quot;latria\&quot;?" data-chapter="Whether the image of Christ should be adored with the adoration of \&quot;latria\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="170" data-title="Whether the image of Christ should be adored with the adoration of \&quot;latria\&quot;?" data-chapter="Whether the image of Christ should be adored with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the image of Christ should be adored with the adoration of "latria"?
 
@@ -8822,7 +8822,7 @@ learned, whether by word"---that is by word of mouth---"or by our epistle"---tha
 into writing. Among these traditions is the worship of Christ's image. Wherefore it is said that
 Blessed Luke painted the image of Christ, which is in Rome.
 
-<span class="atom-split" data-atom="171" data-title="Whether Christ's cross should be worshipped with the adoration of \&quot;latria\&quot;?" data-chapter="Whether Christ's cross should be worshipped with the adoration of \&quot;latria\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="171" data-title="Whether Christ's cross should be worshipped with the adoration of \&quot;latria\&quot;?" data-chapter="Whether Christ's cross should be worshipped with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether Christ's cross should be worshipped with the adoration of "latria"?
 
@@ -8887,7 +8887,7 @@ Wherefore the angel said to the women (Mk. 16:6): "You seek Jesus of Nazareth, W
 crucified": he said not "pierced," but "crucified." For this reason we worship the image of Christ's
 cross in any material, but not the image of the nails or of any such thing.
 
-<span class="atom-split" data-atom="172" data-title="Whether the Mother of God should be worshipped with the adoration of \&quot;latria\&quot;?" data-chapter="Whether the Mother of God should be worshipped with the adoration of \&quot;latria\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="172" data-title="Whether the Mother of God should be worshipped with the adoration of \&quot;latria\&quot;?" data-chapter="Whether the Mother of God should be worshipped with the adoration of \&quot;latria\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the Mother of God should be worshipped with the adoration of "latria"?
 
@@ -8930,7 +8930,7 @@ Reply to Objection 3: The cross, considered in itself, is not an object of vener
 above (AA[4],5). But the Blessed Virgin is in herself an object of veneration. Hence there is no
 comparison.
 
-<span class="atom-split" data-atom="173" data-title="Whether any kind of worship is due to the relics of the saints?" data-chapter="Whether any kind of worship is due to the relics of the saints?" data-kind="atom"></span>
+<span class="atom-split" data-atom="173" data-title="Whether any kind of worship is due to the relics of the saints?" data-chapter="Whether any kind of worship is due to the relics of the saints?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the relics of the saints are not to be worshiped at all. For we
 should avoid doing what may be the occasion of error. But to [worship](/concepts/religion) the relics of the dead seems
@@ -8981,14 +8981,14 @@ Reply to Objection 3: The dead body of a saint is not identical with that which 
 during life, on account of the difference of form, viz. the soul: but it is the same by identity of
 matter, which is destined to be reunited to its form.
 
-<span class="atom-split" data-atom="174" data-title="OF CHRIST AS CALLED THE MEDIATOR OF GOD AND MAN (TWO ARTICLES)" data-chapter="OF CHRIST AS CALLED THE MEDIATOR OF GOD AND MAN (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="174" data-title="OF CHRIST AS CALLED THE MEDIATOR OF GOD AND MAN (TWO ARTICLES)" data-chapter="OF CHRIST AS CALLED THE MEDIATOR OF GOD AND MAN (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider how Christ is called the Mediator of God and man, and under this
 head there are two points of inquiry:
 (1) Whether it is proper to Christ to be the Mediator of God and man?
 (2) Whether this belongs to Him by reason of His [human nature](/axes/human_nature)?
 
-<span class="atom-split" data-atom="175" data-title="Whether it is proper to Christ to be the Mediator of God and man?" data-chapter="Whether it is proper to Christ to be the Mediator of God and man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="175" data-title="Whether it is proper to Christ to be the Mediator of God and man?" data-chapter="Whether it is proper to Christ to be the Mediator of God and man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not proper to Christ to be the Mediator of God and man.
 For a priest and a prophet seem to be mediators between God and man, according to Dt. 5:5: "I was
@@ -9052,7 +9052,7 @@ Hence on  Gal. 3:20, "Christ is a Mediator [Vulg.: 'Now a mediator is not of one
 the gloss says: "Not the Father nor the Holy Ghost." The Holy Ghost, however, is said "to ask for
 us," because He makes us ask.
 
-<span class="atom-split" data-atom="176" data-title="Whether Christ, is the Mediator of God and men? (1/2)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="176" data-title="Whether Christ, is the Mediator of God and men? (1/2)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ is not, as man, the Mediator of God and men. For
 [Augustine](/figures/augustine) says (Contra Felic. x): "One is the Person of Christ: lest there be not one Christ, not one
@@ -9095,7 +9095,7 @@ approached nearer to God.
 Reply to Objection 2: Christ, as God, is in all things equal to the Father. But even in the human
 nature He is above all men. Therefore, as man, He can be Mediator, but not as God.
 
-<span class="atom-split" data-atom="177" data-title="Whether Christ, is the Mediator of God and men? (2/2)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="177" data-title="Whether Christ, is the Mediator of God and men? (2/2)" data-chapter="Whether Christ, is the Mediator of God and men?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Although it belongs to Christ as God to take away sin authoritatively,
 yet it belongs to Him, as man, to satisfy for the sin of the human race. And in this sense He is called
@@ -9157,7 +9157,7 @@ redeemed, and (2) that the grace of her sanctification was a grace of preservati
 in conclusion, these two points, so much insisted on by St. Thomas, are at the very basis of the
 Catholic doctrine of the Immaculate Conception.
 
-<span class="atom-split" data-atom="178" data-title="OF THE SANCTIFICATION OF THE BLESSED VIRGIN (SIX ARTICLES)" data-chapter="OF THE SANCTIFICATION OF THE BLESSED VIRGIN (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="178" data-title="OF THE SANCTIFICATION OF THE BLESSED VIRGIN (SIX ARTICLES)" data-chapter="OF THE SANCTIFICATION OF THE BLESSED VIRGIN (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After the foregoing treatise of the union of God and man and the consequences thereof, it
 remains for us to consider what things the Incarnate Son of God did or suffered in the [human nature](/axes/human_nature)
@@ -9179,7 +9179,7 @@ Concerning the first there are six points of inquiry:
 (5) Whether in virtue of this sanctification she received the fulness of grace?
 (6) Whether it was proper to her to be thus sanctified?
 
-<span class="atom-split" data-atom="179" data-title="Whether the Blessed Virgin was sanctified before her birth from the womb?" data-chapter="Whether the Blessed Virgin was sanctified before her birth from the womb?" data-kind="atom"></span>
+<span class="atom-split" data-atom="179" data-title="Whether the Blessed Virgin was sanctified before her birth from the womb?" data-chapter="Whether the Blessed Virgin was sanctified before her birth from the womb?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Blessed Virgin was not sanctified before her birth from
 the womb. For the Apostle says (1 Cor. 15:46): "That was not first which is spiritual but that which
@@ -9245,7 +9245,7 @@ conceived from being sanctified after animation: for after this it remains in th
 for the purpose of receiving human nature, but for a certain perfecting of that which it has already
 received.
 
-<span class="atom-split" data-atom="180" data-title="Whether the Blessed Virgin was sanctified before animation?" data-chapter="Whether the Blessed Virgin was sanctified before animation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="180" data-title="Whether the Blessed Virgin was sanctified before animation?" data-chapter="Whether the Blessed Virgin was sanctified before animation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Blessed Virgin was sanctified before animation. Because,
 as we have stated (A[1]), more grace was bestowed on the Virgin Mother of God than on any saint.
@@ -9326,7 +9326,7 @@ the Blessed Virgin were cleansed from original sin, nevertheless she contracted 
 she was conceived by way of fleshly concupiscence and the intercourse of man and woman: for
 [Augustine](/figures/augustine) says (De Nup. et Concup. i): "All flesh born of carnal intercourse is sinful."
 
-<span class="atom-split" data-atom="181" data-title="Whether the Blessed Virgin was cleansed from the infection of the fomes?" data-chapter="Whether the Blessed Virgin was cleansed from the infection of the fomes?" data-kind="atom"></span>
+<span class="atom-split" data-atom="181" data-title="Whether the Blessed Virgin was cleansed from the infection of the fomes?" data-chapter="Whether the Blessed Virgin was cleansed from the infection of the fomes?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Blessed Virgin was not cleansed from the infection of the
 fomes. For just as the fomes, consisting in the rebellion of the lower powers against the reason, is
@@ -9416,7 +9416,7 @@ in whom there is no stain, as Dionysius says (Eccl. Hier. vi). The second purifi
 her by the Holy Ghost was by means of the conception of Christ which was the operation of the
 Holy Ghost. And in respect of this, it may be said that He purified her entirely from the fomes.
 
-<span class="atom-split" data-atom="182" data-title="Whether by being sanctified in the womb the Blessed Virgin was preserved from all actual sin?" data-chapter="Whether by being sanctified in the womb the Blessed Virgin was preserved from all actual sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="182" data-title="Whether by being sanctified in the womb the Blessed Virgin was preserved from all actual sin?" data-chapter="Whether by being sanctified in the womb the Blessed Virgin was preserved from all actual sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that by being sanctified in the womb the Blessed Virgin was not
 preserved from all actual sin. For, as we have already stated (A[3]), after her first sanctification the
@@ -9485,7 +9485,7 @@ Reply to Objection 3: In those words Chrysostom goes too far. They may, however,
 explained as meaning that our Lord corrected in her, not the inordinate motion of vain glory in
 regard to herself, but that which might be in the thoughts of others.
 
-<span class="atom-split" data-atom="183" data-title="Whether, by her sanctification in the womb, the Blessed Virgin received the fulness of grace?" data-chapter="Whether, by her sanctification in the womb, the Blessed Virgin received the fulness of grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="183" data-title="Whether, by her sanctification in the womb, the Blessed Virgin received the fulness of grace?" data-chapter="Whether, by her sanctification in the womb, the Blessed Virgin received the fulness of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, by her sanctification in the womb, the Blessed Virgin did not
 receive the fulness or perfection of grace. For this seems to be Christ's privilege, according to Jn.
@@ -9558,7 +9558,7 @@ miracles. Hence of John the Baptist it is written (Jn. 10:41) that he "did no si
 that all might fix their attention on Christ. As to the use of prophecy, it is clear that she had it, from
 the canticle spoken by her: "My soul doth magnify the Lord" (Lk. 1:46, etc.).
 
-<span class="atom-split" data-atom="184" data-title="Whether after Christ, it was proper to the Blessed Virgin to be sanctified in the womb?" data-chapter="Whether after Christ, it was proper to the Blessed Virgin to be sanctified in the womb?" data-kind="atom"></span>
+<span class="atom-split" data-atom="184" data-title="Whether after Christ, it was proper to the Blessed Virgin to be sanctified in the womb?" data-chapter="Whether after Christ, it was proper to the Blessed Virgin to be sanctified in the womb?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was proper for the Blessed Virgin, after Christ, to be sanctified
 in the womb. For it has been said (A[4]) that the Blessed Virgin was sanctified in the womb, in
@@ -9626,7 +9626,7 @@ foreshadowing His sanctification, as explained above.
 Reply to Objection 3: The mercy of which Job speaks is not the infused virtue; but a certain
 natural inclination to the act of that virtue.
 
-<span class="atom-split" data-atom="185" data-title="OF THE VIRGINITY OF THE MOTHER OF GOD (FOUR ARTICLES)" data-chapter="OF THE VIRGINITY OF THE MOTHER OF GOD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="185" data-title="OF THE VIRGINITY OF THE MOTHER OF GOD (FOUR ARTICLES)" data-chapter="OF THE VIRGINITY OF THE MOTHER OF GOD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider the virginity of the Mother of God; concerning which there are four
 points of inquiry:
@@ -9635,7 +9635,7 @@ points of inquiry:
 (3) Whether she remained a virgin after His Birth?
 (4) Whether she took a vow of virginity?
 
-<span class="atom-split" data-atom="186" data-title="Whether the Mother of God was a virgin in conceiving Christ?" data-chapter="Whether the Mother of God was a virgin in conceiving Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="186" data-title="Whether the Mother of God was a virgin in conceiving Christ?" data-chapter="Whether the Mother of God was a virgin in conceiving Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Mother of God was not a virgin in conceiving Christ. For
 no child having father and mother is conceived by a virgin mother. But Christ is said to have had
@@ -9736,7 +9736,7 @@ just as it transmuted the slime of the earth into Adam's body, so could it trans
 supplied by His Mother into Christ's body, even though it were not the sufficient matter for a natural
 conception.
 
-<span class="atom-split" data-atom="187" data-title="Whether Christ's Mother was a virgin in His birth?" data-chapter="Whether Christ's Mother was a virgin in His birth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="187" data-title="Whether Christ's Mother was a virgin in His birth?" data-chapter="Whether Christ's Mother was a virgin in His birth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Mother was not a virgin in His Birth. For Ambrose
 says on Lk. 2:23: "He who sanctified a strange womb, for the birth of a prophet, He it is who opened
@@ -9806,7 +9806,7 @@ Birth His Mother's virginity remained inviolate." And Dionysius says in an epist
 that "Christ excelled man in doing that which is proper to man: this is shown in His supernatural
 conception, of a virgin, and in the unstable waters bearing the weight of earthly feet."
 
-<span class="atom-split" data-atom="188" data-title="Whether Christ's Mother remained a virgin after His birth? (1/2)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="188" data-title="Whether Christ's Mother remained a virgin after His birth? (1/2)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Mother did not remain a virgin after His Birth. For it
 is written (Mat. 1:18): "Before Joseph and Mary came together, she was found with child of the
@@ -9912,7 +9912,7 @@ to be supplied by our understanding. Thus the evangelist says that the Mother of
 known by her husband until she gave birth, that we may be given to understand that still less did
 he know her afterwards" (Adversus Helvid. v).
 
-<span class="atom-split" data-atom="189" data-title="Whether Christ's Mother remained a virgin after His birth? (2/2)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="189" data-title="Whether Christ's Mother remained a virgin after His birth? (2/2)" data-chapter="Whether Christ's Mother remained a virgin after His birth?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The Scriptures are wont to designate as the first-born, not only a child
 who is followed by others, but also the one that is born first. "Otherwise, if a child were not first-born
@@ -9935,7 +9935,7 @@ for the Mother of our Lord, who is not wont to be named in the Gospels save unde
 of her dignity---"the Mother of Jesus." This Mary is to be taken for the wife of Alphaeus, whose
 son was James the less, known as the "brother of the Lord" (Gal. 1:19).
 
-<span class="atom-split" data-atom="190" data-title="Whether the Mother of God took a vow of virginity?" data-chapter="Whether the Mother of God took a vow of virginity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="190" data-title="Whether the Mother of God took a vow of virginity?" data-chapter="Whether the Mother of God took a vow of virginity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Mother of God did not take a vow of virginity. For it is
 written (Dt. 7:14): "No one shall be barren among you of either sex." But sterility is a consequence
@@ -9982,13 +9982,13 @@ Reply to Objection 3: These words of the Apostle are to be understood of those w
 chastity absolutely. Christ's Mother did not do this until she was espoused to Joseph. After her
 espousals, however, by their common consent she took a vow of virginity together with her spouse.
 
-<span class="atom-split" data-atom="191" data-title="OF THE ESPOUSALS OF THE MOTHER OF GOD (TWO ARTICLES)" data-chapter="OF THE ESPOUSALS OF THE MOTHER OF GOD (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="191" data-title="OF THE ESPOUSALS OF THE MOTHER OF GOD (TWO ARTICLES)" data-chapter="OF THE ESPOUSALS OF THE MOTHER OF GOD (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the espousals of God's Mother: concerning which two points arise for inquiry:
 (1) Whether Christ should have been born of an espoused virgin?
 (2) Whether there was true marriage between our Lord's Mother and Joseph?
 
-<span class="atom-split" data-atom="192" data-title="Whether Christ should have been born of an espoused virgin? (1/2)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="192" data-title="Whether Christ should have been born of an espoused virgin? (1/2)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have been born of an espoused virgin. For
 espousals are ordered to carnal intercourse. But our Lord's Mother never wished to have carnal
@@ -10093,7 +10093,7 @@ did He deceive the princes of the world, since the evil disposition of the demon
 even hidden things: but those who spend their lives in worldly vanities can have no acquaintance
 of Divine things."
 
-<span class="atom-split" data-atom="193" data-title="Whether Christ should have been born of an espoused virgin? (2/2)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="193" data-title="Whether Christ should have been born of an espoused virgin? (2/2)" data-chapter="Whether Christ should have been born of an espoused virgin?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The sentence of adulteresses according to the Law was that they should
 be stoned, not only if they were already espoused or married, but also if their maidenhood were
@@ -10107,7 +10107,7 @@ the priestly tribe was condemned to death for whoredom; for we read (Lev. 21:9):
 of a priest be taken in whoredom, and dishonor the name of her father, she shall be burnt with fire."
 Lastly, some understand the passage of Jerome to refer to the throwing of stones by ill-fame.
 
-<span class="atom-split" data-atom="194" data-title="Whether there was a true marriage between Mary and Joseph?" data-chapter="Whether there was a true marriage between Mary and Joseph?" data-kind="atom"></span>
+<span class="atom-split" data-atom="194" data-title="Whether there was a true marriage between Mary and Joseph?" data-chapter="Whether there was a true marriage between Mary and Joseph?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was no true marriage between Mary and Joseph. For
 Jerome says against Helvidius that Joseph "was Mary's guardian rather than her husband." But if
@@ -10179,7 +10179,7 @@ wife"; that is: "Fear not to solemnize your marriage with her." Others, however,
 not yet admitted to his house, but only betrothed to him. But the first is more in keeping with the
 Gospel narrative.
 
-<span class="atom-split" data-atom="195" data-title="OF THE ANNUNCIATION OF THE BLESSED VIRGIN (FOUR ARTICLES)" data-chapter="OF THE ANNUNCIATION OF THE BLESSED VIRGIN (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="195" data-title="OF THE ANNUNCIATION OF THE BLESSED VIRGIN (FOUR ARTICLES)" data-chapter="OF THE ANNUNCIATION OF THE BLESSED VIRGIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider the Blessed Virgin's Annunciation, concerning which there are four
 points of inquiry:
@@ -10189,7 +10189,7 @@ begotten of her?
 (3) In what manner should this announcement be made?
 (4) Of the order observed in the Annunciation.
 
-<span class="atom-split" data-atom="196" data-title="Whether it was necessary to announce to the Blessed Virgin that which was to be done in her?" data-chapter="Whether it was necessary to announce to the Blessed Virgin that which was to be done in her?" data-kind="atom"></span>
+<span class="atom-split" data-atom="196" data-title="Whether it was necessary to announce to the Blessed Virgin that which was to be done in her?" data-chapter="Whether it was necessary to announce to the Blessed Virgin that which was to be done in her?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was unnecessary to announce to the Blessed Virgin that
 which was to be done in her. For there seems to have been no need of the Annunciation except for
@@ -10239,7 +10239,7 @@ Reply to Objection 3: The spiritual conception of Christ through faith is preced
 preaching of the faith, for as much as "faith is by hearing" (Rom. 10:17). Yet man does not know
 for certain thereby that he has grace; but he does know that the faith, which he has received, is true.
 
-<span class="atom-split" data-atom="197" data-title="Whether the annunciation should have been made by an angel to the Blessed Virgin?" data-chapter="Whether the annunciation should have been made by an angel to the Blessed Virgin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="197" data-title="Whether the annunciation should have been made by an angel to the Blessed Virgin?" data-chapter="Whether the annunciation should have been made by an angel to the Blessed Virgin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Annunciation should not have been made by an angel to
 our Blessed Lady. For revelations to the highest angels are made immediately by God, as Dionysius
@@ -10324,7 +10324,7 @@ archangels. And, as Gregory says (De Centum Ovibus 34), this name agrees with hi
 "Gabriel means 'Power of God.' This message therefore was fittingly brought by the 'Power of God,'
 because the Lord of hosts and mighty in battle was coming to overcome the powers of the air."
 
-<span class="atom-split" data-atom="198" data-title="Whether the angel of annunciation should have appeared to the Virgin in a bodily vision?" data-chapter="Whether the angel of annunciation should have appeared to the Virgin in a bodily vision?" data-kind="atom"></span>
+<span class="atom-split" data-atom="198" data-title="Whether the angel of annunciation should have appeared to the Virgin in a bodily vision?" data-chapter="Whether the angel of annunciation should have appeared to the Virgin in a bodily vision?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angel of the Annunciation should not have appeared to the
 Virgin in a bodily vision. For "intellectual vision is more excellent than bodily vision," as [Augustine](/figures/augustine)
@@ -10400,7 +10400,7 @@ troubled at seeing this angel, but with wonder at hearing what the angel said to
 think so highly of herself. Wherefore the evangelist does not say that she was troubled at seeing
 the angel, but "at his saying."
 
-<span class="atom-split" data-atom="199" data-title="Whether the Annunciation took place in becoming order?" data-chapter="Whether the Annunciation took place in becoming order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="199" data-title="Whether the Annunciation took place in becoming order?" data-chapter="Whether the Annunciation took place in becoming order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Annunciation did not take place in becoming order. For
 the dignity of the Mother of God results from the child she conceived. But the cause should be
@@ -10474,7 +10474,7 @@ Concerning the first there are eight points of inquiry:
 (7) Whether the flesh of Christ in the patriarchs was subject to sin?
 (8) Whether Christ paid tithes in the loins of Abraham?
 
-<span class="atom-split" data-atom="200" data-title="Whether the flesh of Christ was derived from Adam?" data-chapter="Whether the flesh of Christ was derived from Adam?" data-kind="atom"></span>
+<span class="atom-split" data-atom="200" data-title="Whether the flesh of Christ was derived from Adam?" data-chapter="Whether the flesh of Christ was derived from Adam?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's flesh was not derived from Adam. For the Apostle
 says (1 Cor. 15:47): "The first man was of the earth, earthly: the second man, from heaven, heavenly."
@@ -10521,7 +10521,7 @@ from Adam: but it was not there by reason of seminal virtue, because it was not 
 the seed of man. Thus it did not contract original sin, as others who are descended from Adam by
 man's seed.
 
-<span class="atom-split" data-atom="201" data-title="Whether Christ took flesh of the seed of David?" data-chapter="Whether Christ took flesh of the seed of David?" data-kind="atom"></span>
+<span class="atom-split" data-atom="201" data-title="Whether Christ took flesh of the seed of David?" data-chapter="Whether Christ took flesh of the seed of David?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not take flesh of the seed of David. For Matthew,
 in tracing the [genealogy](/positions/genealogy) of Christ, brings it down to Joseph. But Joseph was not Christ's father, as
@@ -10592,7 +10592,7 @@ that a posterity will be born of the seed of Jechonias. And so Christ is of his 
 fact that Christ reigned contrary to prophecy, for He did not reign with worldly honor; since He
 declared: "My kingdom is not of this world."
 
-<span class="atom-split" data-atom="202" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (1/2)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom"></span>
+<span class="atom-split" data-atom="202" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (1/2)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's [genealogy](/positions/genealogy) is not suitably traced by the Evangelists.
 For it is written (Is. 53:8): "Who shall declare His generation?" Therefore Christ's genealogy should
@@ -10679,7 +10679,7 @@ Melchi: yet must we also believe that she was in some way descended from Solomon
 patriarchs enumerated by Matthew, who is said to have set down Christ's genealogy according to
 the flesh; and all the more since Ambrose states that Christ was of the seed of Jechonias.
 
-<span class="atom-split" data-atom="203" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (2/2)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom"></span>
+<span class="atom-split" data-atom="203" data-title="Whether Christ's genealogy is suitably traced by the evangelists? (2/2)" data-chapter="Whether Christ's genealogy is suitably traced by the evangelists?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: According to [Augustine](/figures/augustine) (De Consensu Evang. ii) "Matthew purposed
 to delineate the royal personality of Christ; Luke the priestly personality: so that in Matthew's
@@ -10761,7 +10761,7 @@ according to the Law," signified by Zara; "the other by Faith," of which Phares 
 brethren of Jechonias are included, because they all reigned at various times: which was not the
 case with other kings: or, again, because they were alike in wickedness and misfortune.
 
-<span class="atom-split" data-atom="204" data-title="Whether the matter of Christ's body should have been taken from a woman?" data-chapter="Whether the matter of Christ's body should have been taken from a woman?" data-kind="atom"></span>
+<span class="atom-split" data-atom="204" data-title="Whether the matter of Christ's body should have been taken from a woman?" data-chapter="Whether the matter of Christ's body should have been taken from a woman?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the matter of Christ's body should not have been taken from
 a woman. For the male sex is more noble than the female. But it was most suitable that Christ
@@ -10834,7 +10834,7 @@ My Birth? I was not conceived by lustful desire. I made Myself a mother of whom 
 the sun's rays can dry up the filth in the drain, and yet not be defiled: much more can the Splendor
 of eternal light cleanse whatever It shines upon, but Itself cannot be sullied."
 
-<span class="atom-split" data-atom="205" data-title="Whether the flesh of Christ was conceived of the Virgin's purest blood?" data-chapter="Whether the flesh of Christ was conceived of the Virgin's purest blood?" data-kind="atom"></span>
+<span class="atom-split" data-atom="205" data-title="Whether the flesh of Christ was conceived of the Virgin's purest blood?" data-chapter="Whether the flesh of Christ was conceived of the Virgin's purest blood?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the flesh of Christ was not conceived of the Virgin's purest
 blood: For it is said in the collect (Feast of the Annunciation) that God "willed that His Word should
@@ -10903,7 +10903,7 @@ This, however, did not take place in Christ's conception: because this blood was
 in the Virgin's womb and fashioned into a child by the operation of the Holy Ghost. Therefore is
 Christ's body said to be "formed of the most chaste and purest blood of the Virgin."
 
-<span class="atom-split" data-atom="206" data-title="Whether Christ's body was in Adam and the other patriarchs, as to something signate?" data-chapter="Whether Christ's body was in Adam and the other patriarchs, as to something signate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="206" data-title="Whether Christ's body was in Adam and the other patriarchs, as to something signate?" data-chapter="Whether Christ's body was in Adam and the other patriarchs, as to something signate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's body was in Adam and the patriarchs as to something
 signate. For [Augustine](/figures/augustine) says (Gen. ad lit. x) that the flesh of Christ was in Adam and Abraham "by
@@ -10960,7 +10960,7 @@ sufficiently preserved by His body being formed from the Virgin's blood, derived
 Adam and the other patriarchs. Nor is this kinship affected by the matter whence this blood is taken,
 as neither is it in the generation of other men, as stated in the FP, Q[119], A[2], ad 3.
 
-<span class="atom-split" data-atom="207" data-title="Whether Christ's flesh in the patriarchs was infected by sin?" data-chapter="Whether Christ's flesh in the patriarchs was infected by sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="207" data-title="Whether Christ's flesh in the patriarchs was infected by sin?" data-chapter="Whether Christ's flesh in the patriarchs was infected by sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's flesh was not infected by sin in the patriarchs. For it
 is written (Wis. 7:25) that "no defiled thing cometh into" Divine Wisdom. But Christ is the Wisdom
@@ -11015,7 +11015,7 @@ Reply to Objection 3: Before Christ, there was actually in human nature a wound,
 infection of original sin. But the balm to heal the wound was not there actually, but only by a certain
 virtue of origin, forasmuch as from those patriarchs the flesh of Christ was to be propagated.
 
-<span class="atom-split" data-atom="208" data-title="Whether Christ paid tithes in Abraham's loins?" data-chapter="Whether Christ paid tithes in Abraham's loins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="208" data-title="Whether Christ paid tithes in Abraham's loins?" data-chapter="Whether Christ paid tithes in Abraham's loins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ "paid tithes" in Abraham's loins. For the Apostle says
 (Heb. 7:6-9) that Levi, the great-grandson of Abraham, "paid tithes in Abraham," because, when
@@ -11079,7 +11079,7 @@ result from carnal origin, but from spiritual grace. Therefore it is possible th
 to a priest, as the less to the greater, and yet his son, if he be a bishop, is greater than that priest,
 not through carnal origin, but through the spiritual grace which he has received from Christ.
 
-<span class="atom-split" data-atom="209" data-title="OF THE ACTIVE PRINCIPLE IN CHRIST'S CONCEPTION (FOUR ARTICLES)" data-chapter="OF THE ACTIVE PRINCIPLE IN CHRIST'S CONCEPTION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="209" data-title="OF THE ACTIVE PRINCIPLE IN CHRIST'S CONCEPTION (FOUR ARTICLES)" data-chapter="OF THE ACTIVE PRINCIPLE IN CHRIST'S CONCEPTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We shall now consider the active principle in Christ's conception: concerning which there are
 four points of inquiry:
@@ -11088,7 +11088,7 @@ four points of inquiry:
 (3) Whether it can be said that the Holy Ghost is Christ's father according to the flesh?
 (4) Whether the Blessed Virgin cooperated actively in Christ's conception?
 
-<span class="atom-split" data-atom="210" data-title="Whether the accomplishment of Christ's conception should be attributed to the Holy Ghost?" data-chapter="Whether the accomplishment of Christ's conception should be attributed to the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="210" data-title="Whether the accomplishment of Christ's conception should be attributed to the Holy Ghost?" data-chapter="Whether the accomplishment of Christ's conception should be attributed to the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the accomplishment of Christ's conception should not be
 attributed to the Holy Ghost, because. as [Augustine](/figures/augustine) says (De Trin. i), "The works of the Trinity are
@@ -11164,7 +11164,7 @@ understood in two ways. For, first, Christ's house is the Church, which He built
 Secondly, His body may be called His house, just as it is called His temple . . . and what is done
 by the Holy Ghost is done by the Son of God, because Theirs is one Nature and one Will."
 
-<span class="atom-split" data-atom="211" data-title="Whether it should be said that Christ was conceived of [de] the Holy Ghost?" data-chapter="Whether it should be said that Christ was conceived of [de] the Holy Ghost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="211" data-title="Whether it should be said that Christ was conceived of [de] the Holy Ghost?" data-chapter="Whether it should be said that Christ was conceived of [de] the Holy Ghost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we should not say that Christ was conceived of [de] the Holy
 Ghost. Because on Rom. 11:36: "For of Him [ex ipso] and by Him, and in Him, are all things," the
@@ -11219,7 +11219,7 @@ Reply to Objection 3: As Augustine says (Enchiridion xl), Christ is said to be c
 born of the Holy Ghost in one sense; of the Virgin Mary in another---of the Virgin Mary materially;
 of the Holy Ghost efficiently. Therefore there was no mingling here.
 
-<span class="atom-split" data-atom="212" data-title="Whether the Holy Ghost should be called Christ's father in respect of His humanity?" data-chapter="Whether the Holy Ghost should be called Christ's father in respect of His humanity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="212" data-title="Whether the Holy Ghost should be called Christ's father in respect of His humanity?" data-chapter="Whether the Holy Ghost should be called Christ's father in respect of His humanity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Holy Ghost should be called Christ's father in respect of
 His humanity. Because, according to the Philosopher (De Gener. Animal. i): "The Father is the
@@ -11275,7 +11275,7 @@ Trinity.
 But with Christ it is different, as stated above.
 The same reply avails for the Third Objection.
 
-<span class="atom-split" data-atom="213" data-title="Whether the Blessed Virgin cooperated actively in the conception of Christ's body?" data-chapter="Whether the Blessed Virgin cooperated actively in the conception of Christ's body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="213" data-title="Whether the Blessed Virgin cooperated actively in the conception of Christ's body?" data-chapter="Whether the Blessed Virgin cooperated actively in the conception of Christ's body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Blessed Virgin cooperated actively in the conception of
 Christ's body. For Damascene says (De Fide Orth. iii) that "the Holy Ghost came upon the Virgin,
@@ -11342,7 +11342,7 @@ the matter, which is then fashioned by the active power of the male.
 Reply to Objection 3: In order for a transformation to be natural, there is no need for an active
 principle in matter, but only for a passive principle, as stated above.
 
-<span class="atom-split" data-atom="214" data-title="OF THE MODE AND ORDER OF CHRIST'S CONCEPTION (FOUR ARTICLES)" data-chapter="OF THE MODE AND ORDER OF CHRIST'S CONCEPTION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="214" data-title="OF THE MODE AND ORDER OF CHRIST'S CONCEPTION (FOUR ARTICLES)" data-chapter="OF THE MODE AND ORDER OF CHRIST'S CONCEPTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the mode and order of Christ's conception, concerning which there
 are four points of inquiry:
@@ -11351,7 +11351,7 @@ are four points of inquiry:
 (3) Whether it was assumed by the Word in the first instant of its conception?
 (4) Whether this conception was natural or miraculous?
 
-<span class="atom-split" data-atom="215" data-title="Whether Christ's body was formed in the first instant of its conception?" data-chapter="Whether Christ's body was formed in the first instant of its conception?" data-kind="atom"></span>
+<span class="atom-split" data-atom="215" data-title="Whether Christ's body was formed in the first instant of its conception?" data-chapter="Whether Christ's body was formed in the first instant of its conception?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's body was not formed in the first instant of its
 conception. For it is written (Jn. 2:20): "Six-and-forty years was this Temple in building"; on which
@@ -11429,7 +11429,7 @@ the augmentative power in Christ's soul: and since this was of the same species 
 His body to develop in the same way as the bodies of other men, so as to prove the reality of His
 [human nature](/axes/human_nature).
 
-<span class="atom-split" data-atom="216" data-title="Whether Christ's body was animated in the first instant of its conception?" data-chapter="Whether Christ's body was animated in the first instant of its conception?" data-kind="atom"></span>
+<span class="atom-split" data-atom="216" data-title="Whether Christ's body was animated in the first instant of its conception?" data-chapter="Whether Christ's body was animated in the first instant of its conception?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's body was not animated in the first instant of its
 conception. For Pope Leo says (Ep. ad Julian.): "Christ's flesh was not of another nature than ours:
@@ -11487,7 +11487,7 @@ perfect soul. But Christ's body, on account of the infinite power of the agent, 
 instantaneously. Wherefore, at once and in the first instant it received a perfect form, that is, the
 rational soul.
 
-<span class="atom-split" data-atom="217" data-title="Whether Christ's flesh was first of all conceived and afterwards assumed?" data-chapter="Whether Christ's flesh was first of all conceived and afterwards assumed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="217" data-title="Whether Christ's flesh was first of all conceived and afterwards assumed?" data-chapter="Whether Christ's flesh was first of all conceived and afterwards assumed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's flesh was first of all conceived, and afterwards assumed.
 Because what is not cannot be assumed. But Christ's flesh began to exist when it was conceived.
@@ -11535,7 +11535,7 @@ Photinus maintained. Rather is it to be considered as a descent, by reason of th
 God taking unto Himself the imperfection of our nature; according to Jn. 6:38: "I came down from
 heaven."
 
-<span class="atom-split" data-atom="218" data-title="Whether Christ's conception was natural?" data-chapter="Whether Christ's conception was natural?" data-kind="atom"></span>
+<span class="atom-split" data-atom="218" data-title="Whether Christ's conception was natural?" data-chapter="Whether Christ's conception was natural?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's conception was natural. For Christ is called the Son
 of Man by reason of His conception in the flesh. But He is a true and natural Son of Man: as also
@@ -11574,7 +11574,7 @@ Reply to Objection 3: A natural passive principle suffices for a transformation 
 when it is moved by its proper active principle in a natural and wonted way. But this is not so in
 the case in point. Therefore this conception cannot be called simply natural.
 
-<span class="atom-split" data-atom="219" data-title="OF THE PERFECTION OF THE CHILD CONCEIVED (FOUR ARTICLES)" data-chapter="OF THE PERFECTION OF THE CHILD CONCEIVED (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="219" data-title="OF THE PERFECTION OF THE CHILD CONCEIVED (FOUR ARTICLES)" data-chapter="OF THE PERFECTION OF THE CHILD CONCEIVED (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the perfection of the child conceived: and concerning this there are four
 points of inquiry:
@@ -11583,7 +11583,7 @@ points of inquiry:
 (3) Whether in that same instant He could merit?
 (4) Whether in that same instant He was a perfect comprehensor?
 
-<span class="atom-split" data-atom="220" data-title="Whether Christ was sanctified in the first instant of His conception?" data-chapter="Whether Christ was sanctified in the first instant of His conception?" data-kind="atom"></span>
+<span class="atom-split" data-atom="220" data-title="Whether Christ was sanctified in the first instant of His conception?" data-chapter="Whether Christ was sanctified in the first instant of His conception?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not sanctified in the first instant of His conception.
 For it is written (1 Cor. 15:46): "That was not first which is spiritual, but that which is natural:
@@ -11638,7 +11638,7 @@ which is both mover and moved. Whereas the humanity of Christ is as the instrume
 as stated above (Q[7], A[1], ad 3; Q[8], A[1], ad 1). Therefore Christ's humanity is both sanctified
 and sanctifier.
 
-<span class="atom-split" data-atom="221" data-title="Whether Christ as man had the use of free-will in the first instant of His conception?" data-chapter="Whether Christ as man had the use of free-will in the first instant of His conception?" data-kind="atom"></span>
+<span class="atom-split" data-atom="221" data-title="Whether Christ as man had the use of free-will in the first instant of His conception?" data-chapter="Whether Christ as man had the use of free-will in the first instant of His conception?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ as man had not the use of free-will in the first instant
 of His conception. For a thing is, before it acts or operates. Now the use of free-will is an operation.
@@ -11699,7 +11699,7 @@ had the rational soul in the first instant of His conception, through His body b
 and endowed with sensible organs, much more was it possible for Him to exercise the sense of
 touch in that same instant.
 
-<span class="atom-split" data-atom="222" data-title="Whether Christ could merit in the first instant of His conception?" data-chapter="Whether Christ could merit in the first instant of His conception?" data-kind="atom"></span>
+<span class="atom-split" data-atom="222" data-title="Whether Christ could merit in the first instant of His conception?" data-chapter="Whether Christ could merit in the first instant of His conception?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ could not merit in the first instant of His conception.
 For the free-will bears the same relation to merit as to demerit. But the devil could not sin in the
@@ -11752,7 +11752,7 @@ of immortality, which He also merited in the first instant of His conception: no
 became thereby more due to Him than before, but so that it was due to Him from more causes than
 before.
 
-<span class="atom-split" data-atom="223" data-title="Whether Christ was a perfect comprehensor in the first instant of His conception?" data-chapter="Whether Christ was a perfect comprehensor in the first instant of His conception?" data-kind="atom"></span>
+<span class="atom-split" data-atom="223" data-title="Whether Christ was a perfect comprehensor in the first instant of His conception?" data-chapter="Whether Christ was a perfect comprehensor in the first instant of His conception?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not a perfect comprehensor in the first instant of
 His conception. For merit precedes reward, as fault precedes punishment. But Christ merited in the
@@ -11794,7 +11794,7 @@ Reply to Objection 3: Since Christ was both God and man, He had, even in His hum
 something more than other creatures---namely, that He was in the state of beatitude from the very
 beginning.
 
-<span class="atom-split" data-atom="224" data-title="OF CHRIST'S NATIVITY (EIGHT ARTICLES)" data-chapter="OF CHRIST'S NATIVITY (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="224" data-title="OF CHRIST'S NATIVITY (EIGHT ARTICLES)" data-chapter="OF CHRIST'S NATIVITY (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering Christ's conception, we must treat of His nativity. First, as to the nativity
 itself; secondly, as to His manifestation after birth.
@@ -11809,7 +11809,7 @@ filiations?
 (7) Of its place;
 (8) Of the time of the Nativity.
 
-<span class="atom-split" data-atom="225" data-title="Whether nativity regards the nature rather than the person?" data-chapter="Whether nativity regards the nature rather than the person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="225" data-title="Whether nativity regards the nature rather than the person?" data-chapter="Whether nativity regards the nature rather than the person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that nativity regards the nature rather than the person. For [Augustine](/figures/augustine)
 [*Fulgentius] says (De Fide ad Petrum): "The eternal Divine Nature could not be conceived and
@@ -11854,7 +11854,7 @@ Reply to Objection 3: Nature, properly speaking, does not begin to exist: rather
 that begins to exist in some nature. Because, as stated above, nature designates that by which
 something is; whereas person designates something as having subsistent being.
 
-<span class="atom-split" data-atom="226" data-title="Whether a temporal nativity should be attributed to Christ?" data-chapter="Whether a temporal nativity should be attributed to Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="226" data-title="Whether a temporal nativity should be attributed to Christ?" data-chapter="Whether a temporal nativity should be attributed to Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temporal nativity is not to be attributed to Christ. For "to be
 born is a certain movement of a thing that did not exist before it was born, which movement procures
@@ -11916,7 +11916,7 @@ For just as he is said to run twice who runs at two different times, so can He b
 twice who is born once from eternity and once in time: because eternity and time differ much more
 than two different times, although each signifies a measure of duration.
 
-<span class="atom-split" data-atom="227" data-title="Whether the Blessed Virgin can be called Christ's Mother in respect of His temporal nativity?" data-chapter="Whether the Blessed Virgin can be called Christ's Mother in respect of His temporal nativity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="227" data-title="Whether the Blessed Virgin can be called Christ's Mother in respect of His temporal nativity?" data-chapter="Whether the Blessed Virgin can be called Christ's Mother in respect of His temporal nativity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Blessed Virgin cannot be called Christ's Mother in respect
 of His temporal nativity. For, as stated above (Q[32], A[4]), the Blessed Virgin Mary did not
@@ -11957,7 +11957,7 @@ Ghost it was supernatural. Therefore the Blessed Virgin is the true and natural 
 Reply to Objection 3: As stated above (Q[31], A[5], ad 3; Q[32], A[4]), the resolution of the
 woman's semen is not necessary for conception; neither, therefore, is it required for motherhood.
 
-<span class="atom-split" data-atom="228" data-title="Whether the Blessed Virgin should be called the Mother of God?" data-chapter="Whether the Blessed Virgin should be called the Mother of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="228" data-title="Whether the Blessed Virgin should be called the Mother of God?" data-chapter="Whether the Blessed Virgin should be called the Mother of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Blessed Virgin should not be called the Mother of God.
 For in the Divine mysteries we should not make any assertion that is not taken from Holy [Scripture](/concepts/revelation).
@@ -12021,7 +12021,7 @@ it stands for the Person of the Father alone, sometimes only for the Person of t
 Ghost, as stated above (Q[16], A[1]; FP, Q[39], A[4]). So that when we say, "The Blessed Virgin
 is the Mother of God," this word "God" stands only for the incarnate Person of the Son.
 
-<span class="atom-split" data-atom="229" data-title="Whether there are two filiations in Christ?" data-chapter="Whether there are two filiations in Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="229" data-title="Whether there are two filiations in Christ?" data-chapter="Whether there are two filiations in Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are two filiations in Christ. For nativity is the cause of
 filiation. But in Christ there are two nativities. Therefore in Christ there are also two filiations.
@@ -12119,7 +12119,7 @@ relations in the parents, as considered by the intellect. And thus in one way th
 filiation in Christ, which is in respect of the Eternal Father: yet there is another temporal relation
 in regard to His temporal mother.
 
-<span class="atom-split" data-atom="230" data-title="Whether Christ was born without His Mother suffering?" data-chapter="Whether Christ was born without His Mother suffering?" data-kind="atom"></span>
+<span class="atom-split" data-atom="230" data-title="Whether Christ was born without His Mother suffering?" data-chapter="Whether Christ was born without His Mother suffering?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not born without His Mother suffering. For just as
 man's death was a result of the sin of our first parents, according to Gn. 2:17: "In what day soever
@@ -12168,7 +12168,7 @@ iv): "No midwife was there, no officious women interfered. She was both mother a
 'With swaddling clothes,' says he, 'she wrapped up the child, and laid Him in a manger.'" These
 words prove the falseness of the apocryphal ravings.
 
-<span class="atom-split" data-atom="231" data-title="Whether Christ should have been born in Bethlehem?" data-chapter="Whether Christ should have been born in Bethlehem?" data-kind="atom"></span>
+<span class="atom-split" data-atom="231" data-title="Whether Christ should have been born in Bethlehem?" data-chapter="Whether Christ should have been born in Bethlehem?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have been born in Bethlehem. For it is written
 (Is. 2:3): "The law shall come forth from Sion, and the Word of the Lord from Jerusalem." But
@@ -12227,7 +12227,7 @@ that city the faith might spread throughout the world; according to Is. 26:5,6: 
 shall lay low . . . the feet of the poor," i.e. of Christ, "shall tread it down; the steps of the needy,"
 i.e. of the apostles Peter and Paul.
 
-<span class="atom-split" data-atom="232" data-title="Whether Christ was born at a fitting time?" data-chapter="Whether Christ was born at a fitting time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="232" data-title="Whether Christ was born at a fitting time?" data-chapter="Whether Christ was born at a fitting time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not born at a fitting time. Because Christ came in
 order to restore liberty to His own. But He was born at a time of subjection---namely, when the
@@ -12283,7 +12283,7 @@ in darkness and in the shadow of death."
 In like manner He chose to be born in the rough winter season, that He might begin from then
 to suffer in body for us.
 
-<span class="atom-split" data-atom="233" data-title="OF THE MANIFESTATION OF THE NEWLY BORN CHRIST (EIGHT ARTICLES)" data-chapter="OF THE MANIFESTATION OF THE NEWLY BORN CHRIST (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="233" data-title="OF THE MANIFESTATION OF THE NEWLY BORN CHRIST (EIGHT ARTICLES)" data-chapter="OF THE MANIFESTATION OF THE NEWLY BORN CHRIST (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the manifestation of the newly born Christ: concerning which there are
 eight points of inquiry:
@@ -12297,7 +12297,7 @@ by others?
 (7) Of the star by means of which His birth was made known;
 (8) of the adoration of the Magi, who were informed of Christ's nativity by means of the star.
 
-<span class="atom-split" data-atom="234" data-title="Whether Christ's birth should have been made known to all?" data-chapter="Whether Christ's birth should have been made known to all?" data-kind="atom"></span>
+<span class="atom-split" data-atom="234" data-title="Whether Christ's birth should have been made known to all?" data-chapter="Whether Christ's birth should have been made known to all?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's birth should have been made known to all. Because
 fulfilment should correspond to promise. Now, the promise of Christ's coming is thus expressed
@@ -12349,7 +12349,7 @@ and for this reason it behooves that the coming of Christ unto judgment should b
 His first coming was unto the salvation of all, which is by faith that is of things not seen. And
 therefore it was fitting that His first coming should be hidden.
 
-<span class="atom-split" data-atom="235" data-title="Whether Christ's birth should have been made known to some?" data-chapter="Whether Christ's birth should have been made known to some?" data-kind="atom"></span>
+<span class="atom-split" data-atom="235" data-title="Whether Christ's birth should have been made known to some?" data-chapter="Whether Christ's birth should have been made known to some?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's birth should not have been made known to anyone.
 For, as stated above (A[1], ad 3), it befitted the salvation of mankind that Christ's first coming
@@ -12416,7 +12416,7 @@ says in a sermon on the Epiphany (66 de Diversis): "It cannot be questioned that
 to set man free, rewarded those who were slain for Him; since, while hanging on the cross, He
 prayed for those who were putting Him to death."
 
-<span class="atom-split" data-atom="236" data-title="Whether those to whom Christ's birth was made known were suitably chosen?" data-chapter="Whether those to whom Christ's birth was made known were suitably chosen?" data-kind="atom"></span>
+<span class="atom-split" data-atom="236" data-title="Whether those to whom Christ's birth was made known were suitably chosen?" data-chapter="Whether those to whom Christ's birth was made known were suitably chosen?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those to whom Christ's birth was made known were not suitably
 chosen. For our Lord (Mat. 10:5) commanded His disciples, "Go ye not into the way of the Gentiles,"
@@ -12497,7 +12497,7 @@ Reply to Objection 5: As Ambrose says (on Lk. 2:25): "It was right that our Lord
 be attested not only by the shepherds, but also by people advanced in age and virtue": whose
 testimony is rendered the more credible by reason of their righteousness.
 
-<span class="atom-split" data-atom="237" data-title="Whether Christ Himself should have made His birth know?" data-chapter="Whether Christ Himself should have made His birth know?" data-kind="atom"></span>
+<span class="atom-split" data-atom="237" data-title="Whether Christ Himself should have made His birth know?" data-chapter="Whether Christ Himself should have made His birth know?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should have Himself made His birth known. For "a
 direct cause is always of greater power than an indirect cause," as is stated Phys. viii. But Christ
@@ -12544,7 +12544,7 @@ baptizing with water.' Moreover, it was fitting that He should not begin to work
 age. For people would have thought the Incarnation to be unreal, and, out of sheer spite, would
 have crucified Him before the proper time."
 
-<span class="atom-split" data-atom="238" data-title="Whether Christ's birth should have been manifested by means of the angels and the star?" data-chapter="Whether Christ's birth should have been manifested by means of the angels and the star?" data-kind="atom"></span>
+<span class="atom-split" data-atom="238" data-title="Whether Christ's birth should have been manifested by means of the angels and the star?" data-chapter="Whether Christ's birth should have been manifested by means of the angels and the star?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's birth should not have been manifested by means of
 the angels. For angels are spiritual substances, according to  Ps. 103:4: "Who maketh His [Vulg.:
@@ -12639,7 +12639,7 @@ Or with Pope Leo, in a sermon on the Epiphany (xxxiv), that "besides the outward
 aroused the attention of their corporeal eyes, a more brilliant ray enlightened their minds with the
 light of faith."
 
-<span class="atom-split" data-atom="239" data-title="Whether Christ's birth was made known in a becoming order?" data-chapter="Whether Christ's birth was made known in a becoming order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="239" data-title="Whether Christ's birth was made known in a becoming order?" data-chapter="Whether Christ's birth was made known in a becoming order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's birth was made known in an unbecoming order. For
 Christ's birth should have been made known to them first who were nearest to Christ, and who
@@ -12716,7 +12716,7 @@ who were two years old, but also the younger children, would be, as Augustine sa
 on the Innocents, because he feared lest a child whom the stars obey, might make himself appear
 older or younger.
 
-<span class="atom-split" data-atom="240" data-title="Whether the star which appeared to the Magi belonged to the heavenly system?" data-chapter="Whether the star which appeared to the Magi belonged to the heavenly system?" data-kind="atom"></span>
+<span class="atom-split" data-atom="240" data-title="Whether the star which appeared to the Magi belonged to the heavenly system?" data-chapter="Whether the star which appeared to the Magi belonged to the heavenly system?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the star which appeared to the Magi belonged to the heavenly
 system. For [Augustine](/figures/augustine) says in a sermon on the Epiphany (cxxii): "While God yet clings to the
@@ -12781,7 +12781,7 @@ customary course. Nevertheless in its signification it has something in common w
 Because the heavenly kingdom of Christ "shall break in pieces, and shall consume all the kingdoms"
 of the earth, "and itself shall stand for ever" (Dan. 2:44).
 
-<span class="atom-split" data-atom="241" data-title="Whether it was becoming that the Magi should come to adore Christ and pay homage to Him?" data-chapter="Whether it was becoming that the Magi should come to adore Christ and pay homage to Him?" data-kind="atom"></span>
+<span class="atom-split" data-atom="241" data-title="Whether it was becoming that the Magi should come to adore Christ and pay homage to Him?" data-chapter="Whether it was becoming that the Magi should come to adore Christ and pay homage to Him?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was unbecoming that the Magi should come to adore Christ
 and pay homage to Him. For reverence is due to a king from his subjects. But the Magi did not
@@ -12855,7 +12855,7 @@ wisdom, to the new-born King, by the luster of our wisdom in His sight." We offe
 and we offer myrrh, "which signifies mortification of the flesh, if we mortify the ill-deeds of the
 flesh by refraining from them."
 
-<span class="atom-split" data-atom="242" data-title="OF CHRIST'S CIRCUMCISION, AND OF THE OTHER LEGAL OBSERVANCES ACCOMPLISHED IN REGARD TO THE CHILD CHRIST (FOUR ARTICLES)" data-chapter="OF CHRIST'S CIRCUMCISION, AND OF THE OTHER LEGAL OBSERVANCES ACCOMPLISHED IN REGARD TO THE CHILD CHRIST (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="242" data-title="OF CHRIST'S CIRCUMCISION, AND OF THE OTHER LEGAL OBSERVANCES ACCOMPLISHED IN REGARD TO THE CHILD CHRIST (FOUR ARTICLES)" data-chapter="OF CHRIST'S CIRCUMCISION, AND OF THE OTHER LEGAL OBSERVANCES ACCOMPLISHED IN REGARD TO THE CHILD CHRIST (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider Christ's circumcision. And since the circumcision is a kind of profession
 of observing the Law, according to Gal. 5:3: "I testify . . . to every man circumcising himself that
@@ -12866,7 +12866,7 @@ observances accomplished in regard to the Child Christ. Therefore there are four
 (3) His presentation;
 (4) His Mother's purification.
 
-<span class="atom-split" data-atom="243" data-title="Whether Christ should have been circumcised?" data-chapter="Whether Christ should have been circumcised?" data-kind="atom"></span>
+<span class="atom-split" data-atom="243" data-title="Whether Christ should have been circumcised?" data-chapter="Whether Christ should have been circumcised?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have been circumcised. For on the advent
 of the reality, the figure ceases. But circumcision was prescribed to Abraham as a sign of the
@@ -12923,7 +12923,7 @@ sin, whereas He contracted no original sin, in order to deliver us from the yoke
 accomplish a spiritual circumcision in us---in order, that is to say, that, by taking upon Himself the
 shadow, He might accomplish the reality.
 
-<span class="atom-split" data-atom="244" data-title="Whether His name was suitably given to Christ?" data-chapter="Whether His name was suitably given to Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="244" data-title="Whether His name was suitably given to Christ?" data-chapter="Whether His name was suitably given to Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an unsuitable name was given to Christ. For the Gospel reality
 should correspond to the prophetic foretelling. But the prophets foretold another name for Christ:
@@ -12997,7 +12997,7 @@ says: "Why does Solomon call himself an only son in the sight of his mother, whe
 testifies that he had an elder brother of the same mother, unless it be that the latter died unnamed
 soon after birth?" Therefore it was that Christ received His name at the time of His circumcision.
 
-<span class="atom-split" data-atom="245" data-title="Whether Christ was becomingly presented in the temple?" data-chapter="Whether Christ was becomingly presented in the temple?" data-kind="atom"></span>
+<span class="atom-split" data-atom="245" data-title="Whether Christ was becomingly presented in the temple?" data-chapter="Whether Christ was becomingly presented in the temple?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was unbecomingly presented in the Temple. For it is
 written (Ex. 13:2): "Sanctify unto Me every first-born that openeth the womb among the children
@@ -13081,7 +13081,7 @@ whereas the pigeon, being gregarious, signifies the public prayers of the Church
 xv in Purif.]. Lastly, two of each of these animals are offered, to show that holiness should be not
 only in the soul, but also in the body.
 
-<span class="atom-split" data-atom="246" data-title="Whether it was fitting that the Mother of God should go to the temple to be purified?" data-chapter="Whether it was fitting that the Mother of God should go to the temple to be purified?" data-kind="atom"></span>
+<span class="atom-split" data-atom="246" data-title="Whether it was fitting that the Mother of God should go to the temple to be purified?" data-chapter="Whether it was fitting that the Mother of God should go to the temple to be purified?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was unfitting for the Mother of God to go to the Temple to
 be purified. For purification presupposes uncleanness. But there was no uncleanness in the Blessed
@@ -13126,7 +13126,7 @@ kind of carnal purification, from the uncleanness of a certain irregularity, as 
 A[5]; FS, Q[103], A[2]. But the Blessed Virgin contracted neither uncleanness, and consequently
 did not need to be purified.
 
-<span class="atom-split" data-atom="247" data-title="OF THE BAPTISM OF JOHN (SIX ARTICLES)" data-chapter="OF THE BAPTISM OF JOHN (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="247" data-title="OF THE BAPTISM OF JOHN (SIX ARTICLES)" data-chapter="OF THE BAPTISM OF JOHN (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now proceed to consider the baptism wherewith Christ was baptized. And since Christ was
 baptized with the baptism of John, we shall consider (1) the baptism of John in general; (2) the
@@ -13138,7 +13138,7 @@ baptizing of Christ. In regard to the former there are six points of inquiry:
 (5) Whether that baptism should have ceased when Christ was baptized?
 (6) Whether those who received John's baptism had afterwards to receive Christ's baptism?
 
-<span class="atom-split" data-atom="248" data-title="Whether it was fitting that John should baptize?" data-chapter="Whether it was fitting that John should baptize?" data-kind="atom"></span>
+<span class="atom-split" data-atom="248" data-title="Whether it was fitting that John should baptize?" data-chapter="Whether it was fitting that John should baptize?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting that John should baptize. For every sacramental
 rite belongs to some law. But John did not introduce a [new law](/concepts/divine_law). Therefore it was not fitting that he
@@ -13193,7 +13193,7 @@ Reply to Objection 3: Those baptisms of the Pharisees were vain, being ordered m
 carnal cleanliness. But the baptism of John was ordered unto spiritual cleanliness, since it led men
 to do penance, as stated above.
 
-<span class="atom-split" data-atom="249" data-title="Whether the baptism of John was from God?" data-chapter="Whether the baptism of John was from God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="249" data-title="Whether the baptism of John was from God?" data-chapter="Whether the baptism of John was from God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the baptism of John was not from God. For nothing sacramental
 that is from God is named after a mere man: thus the baptism of the [New Law](/concepts/divine_law) is not named after
@@ -13242,7 +13242,7 @@ Reply to Objection 3: The baptism of John was intended by God to last only for a
 for the reasons given above (A[1]). Therefore it was not the subject of a general commandment set
 down in Sacred Writ, but of a certain interior revelation of the Holy Ghost, as stated above.
 
-<span class="atom-split" data-atom="250" data-title="Whether grace was given in the baptism of John?" data-chapter="Whether grace was given in the baptism of John?" data-kind="atom"></span>
+<span class="atom-split" data-atom="250" data-title="Whether grace was given in the baptism of John?" data-chapter="Whether grace was given in the baptism of John?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace was given in the baptism of John. For it is written (Mk.
 1:4): "John was in the desert baptizing and preaching the baptism of penance unto remission of
@@ -13296,7 +13296,7 @@ baptism of John was not instituted for this purpose, but was merely in preparati
 of Christ, as stated above; whereas the sacraments attain their effect through the force of their
 institution.
 
-<span class="atom-split" data-atom="251" data-title="Whether Christ alone should have been baptized with the baptism of John?" data-chapter="Whether Christ alone should have been baptized with the baptism of John?" data-kind="atom"></span>
+<span class="atom-split" data-atom="251" data-title="Whether Christ alone should have been baptized with the baptism of John?" data-chapter="Whether Christ alone should have been baptized with the baptism of John?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ alone should have been baptized with the baptism of
 John. For, as stated above (A[1]), "the reason why John baptized was that Christ might receive
@@ -13342,7 +13342,7 @@ reserved to Christ alone, who is the "expectation of the nations," as we read Gn
 Christ forbade the apostles to preach the Gospel to the Gentiles before His Passion and Resurrection.
 Much less fitting, therefore, was it for the Gentiles to be baptized by John.
 
-<span class="atom-split" data-atom="252" data-title="Whether John's baptism should have ceased after Christ was baptized?" data-chapter="Whether John's baptism should have ceased after Christ was baptized?" data-kind="atom"></span>
+<span class="atom-split" data-atom="252" data-title="Whether John's baptism should have ceased after Christ was baptized?" data-chapter="Whether John's baptism should have ceased after Christ was baptized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that John's baptism should have ceased after Christ was baptized.
 For it is written (Jn. 1:31): "That He may be made manifest in Israel, therefore am I come baptizing
@@ -13384,7 +13384,7 @@ Reply to Objection 3: John's baptism prepared the way not only for Christ to be 
 also for others to approach to Christ's baptism: and this did not take place as soon as Christ was
 baptized.
 
-<span class="atom-split" data-atom="253" data-title="Whether those who had been baptized with John's baptism had to be baptized with the baptism of Christ?" data-chapter="Whether those who had been baptized with John's baptism had to be baptized with the baptism of Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="253" data-title="Whether those who had been baptized with John's baptism had to be baptized with the baptism of Christ?" data-chapter="Whether those who had been baptized with John's baptism had to be baptized with the baptism of Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those who had been baptized with John's baptism had not to
 be baptized with the baptism of Christ. For John was not less than the apostles, since of him is it
@@ -13475,7 +13475,7 @@ present grace, whereas the sacraments of the [Old Law](/concepts/divine_law) wer
 very fact that John baptized in the name of one who was to come, shows that he did not give the
 baptism of Christ, which is a sacrament of the New Law.
 
-<span class="atom-split" data-atom="254" data-title="OF THE BAPTIZING OF CHRIST (EIGHT ARTICLES)" data-chapter="OF THE BAPTIZING OF CHRIST (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="254" data-title="OF THE BAPTIZING OF CHRIST (EIGHT ARTICLES)" data-chapter="OF THE BAPTIZING OF CHRIST (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the baptizing of Christ, concerning which there are eight points of
 inquiry:
@@ -13488,7 +13488,7 @@ inquiry:
 (7) Whether that dove was a real animal?
 (8) Of the voice of the Father witnessing unto Him.
 
-<span class="atom-split" data-atom="255" data-title="Whether it was fitting that Christ should be baptized?" data-chapter="Whether it was fitting that Christ should be baptized?" data-kind="atom"></span>
+<span class="atom-split" data-atom="255" data-title="Whether it was fitting that Christ should be baptized?" data-chapter="Whether it was fitting that Christ should be baptized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting for Christ to be baptized. For to be baptized
 is to be washed. But it was not fitting for Christ to be washed, since there was no uncleanness in
@@ -13529,7 +13529,7 @@ be circumcised, but also to be baptized.
 Reply to Objection 3: Christ is the first principle of baptism's spiritual effect. Unto this He
 was not baptized, but only in water.
 
-<span class="atom-split" data-atom="256" data-title="Whether it was fitting for Christ to be baptized with John's baptism?" data-chapter="Whether it was fitting for Christ to be baptized with John's baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="256" data-title="Whether it was fitting for Christ to be baptized with John's baptism?" data-chapter="Whether it was fitting for Christ to be baptized with John's baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was unfitting for Christ to be baptized with John's baptism.
 For John's baptism was the "baptism of penance." But penance is unbecoming to Christ, since He
@@ -13578,7 +13578,7 @@ remedy does it need. Consequently, from the very fact that Christ is most perfec
 was fitting that He should not receive the most perfect baptism: just as one who is healthy does not
 need a strong medicine.
 
-<span class="atom-split" data-atom="257" data-title="Whether Christ was baptized at a fitting time?" data-chapter="Whether Christ was baptized at a fitting time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="257" data-title="Whether Christ was baptized at a fitting time?" data-chapter="Whether Christ was baptized at a fitting time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was baptized at an unfitting time. For Christ was baptized
 in order that He might lead others to baptism by His example. But it is commendable that the faithful
@@ -13655,7 +13655,7 @@ not wait for the setting of the morning star, but comes forth while the latter i
 and by its brilliance dims its shining: so Christ did not wait till John had run his course, but appeared
 while he was yet teaching and baptizing."
 
-<span class="atom-split" data-atom="258" data-title="Whether Christ should have been baptized in the Jordan?" data-chapter="Whether Christ should have been baptized in the Jordan?" data-kind="atom"></span>
+<span class="atom-split" data-atom="258" data-title="Whether Christ should have been baptized in the Jordan?" data-chapter="Whether Christ should have been baptized in the Jordan?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have been baptized in the Jordan. For the
 reality should correspond to the figure. But baptism was prefigured in the crossing of the Red Sea,
@@ -13697,7 +13697,7 @@ waters of the Jordan were held back, so now, when Christ was baptized, the torre
 back." Or else this may signify that against the downward flow of the waters the river of blessings
 flowed upwards.
 
-<span class="atom-split" data-atom="259" data-title="Whether the heavens should have been opened unto Christ at His baptism?" data-chapter="Whether the heavens should have been opened unto Christ at His baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="259" data-title="Whether the heavens should have been opened unto Christ at His baptism?" data-chapter="Whether the heavens should have been opened unto Christ at His baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the heavens should not have been opened unto Christ at His
 baptism. For the heavens should be opened unto one who needs to enter heaven, by reason of his
@@ -13780,7 +13780,7 @@ that the obstacles which had hitherto hindered the souls of the departed from en
 were entirely removed by the Passion: but at Christ's baptism they were opened, as though the way
 had been shown by which men were to enter into heaven.
 
-<span class="atom-split" data-atom="260" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (1/2)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom"></span>
+<span class="atom-split" data-atom="260" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (1/2)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not fitting to say that when Christ was baptized the Holy
 Ghost came down on Him in the form of a dove. For the Holy Ghost dwells in man by grace. But
@@ -13846,7 +13846,7 @@ according to that which has occurred once for all." And therefore the Holy Ghost
 under a bodily shape, on Christ at His baptism, in order that we may believe Him to descend invisibly
 on all those who are baptized.
 
-<span class="atom-split" data-atom="261" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (2/2)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom"></span>
+<span class="atom-split" data-atom="261" data-title="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove? (2/2)" data-chapter="Whether it is fitting to say that when Christ was baptized the Holy Ghost came down on Him in the form of a dove?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The Holy Ghost appeared over Christ at His baptism, under the form
 of a dove, for four reasons. First, on account of the disposition required in the one baptized---namely,
@@ -13892,7 +13892,7 @@ Secondly, because, as Chrysostom says (Gregory, Hom. xxx in Ev.): "Since sins ha
 forgiven," which is effected in baptism, "meekness was required"; this is shown by the dove: "but
 when we have obtained grace we must look forward to be judged"; and this is signified by the fire.
 
-<span class="atom-split" data-atom="262" data-title="Whether the dove in which the Holy Ghost appeared was real?" data-chapter="Whether the dove in which the Holy Ghost appeared was real?" data-kind="atom"></span>
+<span class="atom-split" data-atom="262" data-title="Whether the dove in which the Holy Ghost appeared was real?" data-chapter="Whether the dove in which the Holy Ghost appeared was real?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the dove in which the Holy Ghost appeared was not real. For
 that seems to be a mere apparition which appears in its semblance. But it is stated (Lk. 3:22) that
@@ -13935,7 +13935,7 @@ Reply to Objection 3: The properties of the dove lead us to understand the dove'
 the effects of the Holy Ghost in the same way. Because from the very fact that the dove has such
 properties, it results that it signifies the Holy Ghost.
 
-<span class="atom-split" data-atom="263" data-title="Whether it was becoming, when Christ was baptized that the Father's voice should be heard, bearing witness to the Son?" data-chapter="Whether it was becoming, when Christ was baptized that the Father's voice should be heard, bearing witness to the Son?" data-kind="atom"></span>
+<span class="atom-split" data-atom="263" data-title="Whether it was becoming, when Christ was baptized that the Father's voice should be heard, bearing witness to the Son?" data-chapter="Whether it was becoming, when Christ was baptized that the Father's voice should be heard, bearing witness to the Son?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was unbecoming when Christ was baptized for the Father's
 voice to be heard bearing witness to the Son. For the Son and the Holy Ghost, according as they
@@ -13996,7 +13996,7 @@ heard saying: "'This is My beloved Son,' that we might know, from what was accom
 Christ, that after being washed in the waters of baptism the Holy Ghost comes down upon us from
 on high, and that the Father's voice declares us to have become the adopted sons of God."
 
-<span class="atom-split" data-atom="264" data-title="OF CHRIST'S MANNER OF LIFE (FOUR ARTICLES)" data-chapter="OF CHRIST'S MANNER OF LIFE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="264" data-title="OF CHRIST'S MANNER OF LIFE (FOUR ARTICLES)" data-chapter="OF CHRIST'S MANNER OF LIFE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having considered those things which relate to Christ's entrance into the world, or to His
 beginning, it remains for us to consider those that relate to the process of His life. And we must
@@ -14008,7 +14008,7 @@ He have conformed Himself to others in these respects?
 (3) Whether He should have adopted a lowly state of life, or one of wealth and honor?
 (4) Whether He should have lived in conformity with the Law?
 
-<span class="atom-split" data-atom="265" data-title="Whether Christ should have associated with men, or led a solitary life?" data-chapter="Whether Christ should have associated with men, or led a solitary life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="265" data-title="Whether Christ should have associated with men, or led a solitary life?" data-chapter="Whether Christ should have associated with men, or led a solitary life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have associated with men, but should have
 led a solitary life. For it behooved Christ to show by His manner of life not only that He was man,
@@ -14078,7 +14078,7 @@ Mat. 5:1, Jesus, "seeing the multitude, went up into a mountain," says: "By sitt
 and in the market-place, but on a mountain and in a place of solitude, He taught us to do nothing
 for show, and to withdraw from the crowd, especially when we have to discourse of needful things."
 
-<span class="atom-split" data-atom="266" data-title="Whether it was becoming that Christ should lead an austere life in this world?" data-chapter="Whether it was becoming that Christ should lead an austere life in this world?" data-kind="atom"></span>
+<span class="atom-split" data-atom="266" data-title="Whether it was becoming that Christ should lead an austere life in this world?" data-chapter="Whether it was becoming that Christ should lead an austere life in this world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was becoming that Christ should lead an austere life in this
 world. For Christ preached the perfection of life much more than John did. But John led an austere
@@ -14161,7 +14161,7 @@ he afterwards come down to the publicity of active life by associating with othe
 says on Mk. 2:18: "Christ fasted, that thou mightest not disobey the commandment; He ate with
 sinners, that thou mightest discern His sanctity and acknowledge His power."
 
-<span class="atom-split" data-atom="267" data-title="Whether Christ should have led a life of poverty in this world?" data-chapter="Whether Christ should have led a life of poverty in this world?" data-kind="atom"></span>
+<span class="atom-split" data-atom="267" data-title="Whether Christ should have led a life of poverty in this world?" data-chapter="Whether Christ should have led a life of poverty in this world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have led a life of poverty in this world.
 Because Christ should have embraced the most eligible form of life. But the most eligible form of
@@ -14231,7 +14231,7 @@ anxiety.
 Reply to Objection 3: Humility is not much to be praised in one who is poor of necessity. But
 in one who, like Christ, is poor willingly, poverty itself is a sign of very great humility.
 
-<span class="atom-split" data-atom="268" data-title="Whether Christ conformed His conduct to the Law?" data-chapter="Whether Christ conformed His conduct to the Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="268" data-title="Whether Christ conformed His conduct to the Law?" data-chapter="Whether Christ conformed His conduct to the Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not conform His conduct to the Law. For the Law
 forbade any work whatsoever to be done on the Sabbath, since God "rested on the seventh day from
@@ -14296,7 +14296,7 @@ on the Sabbath, are to be excused from transgressing the Law, since they were pr
 just as David did not transgress the Law when, through being compelled by hunger, he ate the
 loaves which it was not lawful for him to eat.
 
-<span class="atom-split" data-atom="269" data-title="OF CHRIST'S TEMPTATION (FOUR ARTICLES)" data-chapter="OF CHRIST'S TEMPTATION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="269" data-title="OF CHRIST'S TEMPTATION (FOUR ARTICLES)" data-chapter="OF CHRIST'S TEMPTATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider Christ's temptation, concerning which there are four points of inquiry:
 (1) Whether it was becoming that Christ should be tempted?
@@ -14304,7 +14304,7 @@ We have now to consider Christ's temptation, concerning which there are four poi
 (3) Of the time;
 (4) Of the mode and order of the temptation.
 
-<span class="atom-split" data-atom="270" data-title="Whether it was becoming that Christ should be tempted?" data-chapter="Whether it was becoming that Christ should be tempted?" data-kind="atom"></span>
+<span class="atom-split" data-atom="270" data-title="Whether it was becoming that Christ should be tempted?" data-chapter="Whether it was becoming that Christ should be tempted?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not becoming for Christ to be tempted. For to tempt is
 to make an experiment, which is not done save in regard to something unknown. But the power of
@@ -14375,7 +14375,7 @@ without sin, because such a temptation is caused by pleasure and concupiscence; 
 says (De Civ. Dei xix), "it is not without sin that 'the flesh desireth against the spirit.'" And hence
 Christ wished to be tempted by an enemy, but not by the flesh.
 
-<span class="atom-split" data-atom="271" data-title="Whether Christ should have been tempted in the desert?" data-chapter="Whether Christ should have been tempted in the desert?" data-kind="atom"></span>
+<span class="atom-split" data-atom="271" data-title="Whether Christ should have been tempted in the desert?" data-chapter="Whether Christ should have been tempted in the desert?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have been tempted in the desert. Because
 Christ wished to be tempted in order to give us an example, as stated above (A[1]). But an example
@@ -14438,7 +14438,7 @@ that the Holy City itself, i.e. Jerusalem, is called "a desert," because it was 
 there is no need for this explanation. For Mark says that He was tempted in the desert by the devil,
 but not that He was tempted in the desert only.
 
-<span class="atom-split" data-atom="272" data-title="Whether Christ's temptation should have taken place after His fast?" data-chapter="Whether Christ's temptation should have taken place after His fast?" data-kind="atom"></span>
+<span class="atom-split" data-atom="272" data-title="Whether Christ's temptation should have taken place after His fast?" data-chapter="Whether Christ's temptation should have taken place after His fast?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's temptation should not have taken place after His fast.
 For it has been said above (Q[40], A[2]) that an austere mode of life was not becoming to Christ.
@@ -14507,7 +14507,7 @@ time of His Passion. Nevertheless, He seemed in this later assault to tempt Chri
 hatred of His neighbor; just as in the desert he had tempted Him to gluttonous pleasure and idolatrous
 contempt of God.
 
-<span class="atom-split" data-atom="273" data-title="Whether the mode and order of the temptation were becoming? (1/2)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom"></span>
+<span class="atom-split" data-atom="273" data-title="Whether the mode and order of the temptation were becoming? (1/2)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the mode and order of the temptation were unbecoming. For
 the devil tempts in order to induce us to sin. But if Christ had assuaged His bodily hunger by
@@ -14616,7 +14616,7 @@ not, provided it be made clear that all these things did take place." It may be 
 set these things in different orders, because sometimes cupidity arises from vainglory, sometimes
 the reverse happens.
 
-<span class="atom-split" data-atom="274" data-title="Whether the mode and order of the temptation were becoming? (2/2)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom"></span>
+<span class="atom-split" data-atom="274" data-title="Whether the mode and order of the temptation were becoming? (2/2)" data-chapter="Whether the mode and order of the temptation were becoming?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: When Christ had suffered the wrong of being tempted by the devil
 saying, "If Thou be the Son of God cast Thyself down," He was not troubled, nor did He upbraid
@@ -14634,7 +14634,7 @@ and silver: but that the devil pointed out the quarters in which each kingdom or
 forth to Him in words their glory and estate." Or, again, as Origen says (Hom. xxx in Luc.), "he
 showed Him how, by means of the various vices, he was the lord of the world."
 
-<span class="atom-split" data-atom="275" data-title="OF CHRIST'S DOCTRINE (FOUR ARTICLES)" data-chapter="OF CHRIST'S DOCTRINE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="275" data-title="OF CHRIST'S DOCTRINE (FOUR ARTICLES)" data-chapter="OF CHRIST'S DOCTRINE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider Christ's doctrine, about which there are four points of inquiry:
 (1) Whether Christ should have preached to the Jews only, or to the Gentiles also?
@@ -14644,7 +14644,7 @@ We have now to consider Christ's doctrine, about which there are four points of 
 Concerning the time when He began to teach, we have spoken above when treating of His
 baptism (Q[29], A[3]).
 
-<span class="atom-split" data-atom="276" data-title="Whether Christ should have preached not only to the Jews, but also to the Gentiles?" data-chapter="Whether Christ should have preached not only to the Jews, but also to the Gentiles?" data-kind="atom"></span>
+<span class="atom-split" data-atom="276" data-title="Whether Christ should have preached not only to the Jews, but also to the Gentiles?" data-chapter="Whether Christ should have preached not only to the Jews, but also to the Gentiles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should have preached not only to the Jews, but also to
 the Gentiles. For it is written (Is. 49:6): "It is a small thing that thou shouldst be My servant to raise
@@ -14718,7 +14718,7 @@ Jews, as to the first-born people; so neither was it fitting for Him to neglect 
 lest they should be deprived of the hope of salvation. For this reason certain individual Gentiles
 were admitted, on account of the excellence of their faith and devotedness.
 
-<span class="atom-split" data-atom="277" data-title="Whether Christ should have preached to the Jews without offending them?" data-chapter="Whether Christ should have preached to the Jews without offending them?" data-kind="atom"></span>
+<span class="atom-split" data-atom="277" data-title="Whether Christ should have preached to the Jews without offending them?" data-chapter="Whether Christ should have preached to the Jews without offending them?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should have preached to the Jews without offending
 them. For, as [Augustine](/figures/augustine) says (De Agone Christ. xi): "In the Man Jesus Christ, a model of life is
@@ -14769,7 +14769,7 @@ the people." But if by sinning openly they turn the authority of their years int
 wickedness, they should be rebuked openly and severely, as also Daniel says (Dan. 13:52): "O thou
 that art grown old in evil days," etc.
 
-<span class="atom-split" data-atom="278" data-title="Whether Christ should have taught all things openly?" data-chapter="Whether Christ should have taught all things openly?" data-kind="atom"></span>
+<span class="atom-split" data-atom="278" data-title="Whether Christ should have taught all things openly?" data-chapter="Whether Christ should have taught all things openly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have taught all things openly. For we read
 that He taught many things to His disciples apart: as is seen clearly in the sermon at the Supper.
@@ -14840,7 +14840,7 @@ He said many things to the multitude without parables. Or, as Augustine says (De
 xvii), this means, "not that He spoke nothing literally, but that He scarcely ever spoke without
 introducing a parable, although He also spoke some things in the literal sense."
 
-<span class="atom-split" data-atom="279" data-title="Whether Christ should have committed His doctrine to writing?" data-chapter="Whether Christ should have committed His doctrine to writing?" data-kind="atom"></span>
+<span class="atom-split" data-atom="279" data-title="Whether Christ should have committed His doctrine to writing?" data-chapter="Whether Christ should have committed His doctrine to writing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should have committed His doctrine to writing. For the
 purpose of writing is to hand down doctrine to posterity. Now Christ's doctrine was destined to
@@ -14910,7 +14910,7 @@ Reply to Objection 3: Those who were unwilling to believe what the apostles wrot
 would have refused to believe the writings of Christ, whom they deemed to work miracles by the
 magic art.
 
-<span class="atom-split" data-atom="280" data-title="OF THE MIRACLES WORKED BY CHRIST, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE MIRACLES WORKED BY CHRIST, IN GENERAL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="280" data-title="OF THE MIRACLES WORKED BY CHRIST, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE MIRACLES WORKED BY CHRIST, IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the miracles worked by Christ: (1) In general; (2) Specifically, of each
 kind of [miracle](/concepts/miracle); (3) In particular, of His transfiguration.
@@ -14920,7 +14920,7 @@ Concerning the first, there are four points of inquiry:
 (3) When did He begin to work miracles?
 (4) Whether His miracles are a sufficient proof of His Godhead?
 
-<span class="atom-split" data-atom="281" data-title="Whether Christ should have worked miracles?" data-chapter="Whether Christ should have worked miracles?" data-kind="atom"></span>
+<span class="atom-split" data-atom="281" data-title="Whether Christ should have worked miracles?" data-chapter="Whether Christ should have worked miracles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have worked miracles. For Christ's deeds
 should have been consistent with His words. But He Himself said (Mat. 16:4): "A wicked and
@@ -14972,7 +14972,7 @@ by miracles. Yet it is better for them to be converted to the faith even by mira
 should remain altogether in their unbelief. For it is written (1 Cor. 14:22) that signs are given "to
 unbelievers," viz. that they may be converted to the faith.
 
-<span class="atom-split" data-atom="282" data-title="Whether Christ worked miracles by Divine power?" data-chapter="Whether Christ worked miracles by Divine power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="282" data-title="Whether Christ worked miracles by Divine power?" data-chapter="Whether Christ worked miracles by Divine power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not work miracles by Divine power. For the Divine
 power is omnipotent. But it seems that Christ was not omnipotent in working miracles; for it is
@@ -15025,7 +15025,7 @@ cast out a demon unless He had overcome Him by Divine power; fourthly, because t
 nothing in common between His works and their effects and those of Satan; since Satan's purpose
 was to "scatter" those whom Christ "gathered" together [*Cf. Mat. 12:24-30; Mk. 3:22; Lk. 11:15-32].
 
-<span class="atom-split" data-atom="283" data-title="Whether Christ began to work miracles when He changed water into wine at the marriage feast?" data-chapter="Whether Christ began to work miracles when He changed water into wine at the marriage feast?" data-kind="atom"></span>
+<span class="atom-split" data-atom="283" data-title="Whether Christ began to work miracles when He changed water into wine at the marriage feast?" data-chapter="Whether Christ began to work miracles when He changed water into wine at the marriage feast?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not begin to work miracles when He changed water
 into wine at the marriage feast. For we read in the book De Infantia Salvatoris that Christ worked
@@ -15076,7 +15076,7 @@ they then believed in Him for the first time, but because then "they believed wi
 and perfection." Or they are called "disciples" because "they were to be disciples later on," as
 [Augustine](/figures/augustine) observes (De Consensu Evang. ii).
 
-<span class="atom-split" data-atom="284" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (1/2)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom"></span>
+<span class="atom-split" data-atom="284" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (1/2)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the miracles which Christ worked were not a sufficient proof
 of His Godhead. For it is proper to Christ to be both God and man. But the miracles which Christ
@@ -15143,7 +15143,7 @@ them,' or 'In their presence,' but wholly 'In them,' because He healed them . . 
 works He did in them are works that none ever did; since if ever any other man did any one of
 them, by His doing he did it; whereas these works He did, not by their doing, but by Himself."
 
-<span class="atom-split" data-atom="285" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (2/2)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom"></span>
+<span class="atom-split" data-atom="285" data-title="Whether the miracles which Christ worked were a sufficient proof of His Godhead? (2/2)" data-chapter="Whether the miracles which Christ worked were a sufficient proof of His Godhead?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: [Augustine](/figures/augustine) explains this passage of John as follows (Tract. lxxi): "What
 are these 'greater works' which believers in Him would do? That, as they passed by, their very
@@ -15179,7 +15179,7 @@ to man, the mere fact that someone reasons about any particular proposition prov
 man. In like manner, since it is proper to God to work miracles by His own power, any single
 [miracle](/concepts/miracle) worked by Christ by His own power is a sufficient proof that He is God.
 
-<span class="atom-split" data-atom="286" data-title="OF (CHRIST'S) MIRACLES CONSIDERED SPECIFICALLY (FOUR ARTICLES)" data-chapter="OF (CHRIST'S) MIRACLES CONSIDERED SPECIFICALLY (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="286" data-title="OF (CHRIST'S) MIRACLES CONSIDERED SPECIFICALLY (FOUR ARTICLES)" data-chapter="OF (CHRIST'S) MIRACLES CONSIDERED SPECIFICALLY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider each kind of [miracle](/concepts/miracle):
 (1) The miracles which He worked in spiritual substances;
@@ -15187,7 +15187,7 @@ We have now to consider each kind of [miracle](/concepts/miracle):
 (3) The miracles which He worked in man;
 (4) The miracles which He worked in irrational creatures.
 
-<span class="atom-split" data-atom="287" data-title="Whether those miracles were fitting which Christ worked in spiritual substances?" data-chapter="Whether those miracles were fitting which Christ worked in spiritual substances?" data-kind="atom"></span>
+<span class="atom-split" data-atom="287" data-title="Whether those miracles were fitting which Christ worked in spiritual substances?" data-chapter="Whether those miracles were fitting which Christ worked in spiritual substances?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those miracles were unfitting which Christ worked in spiritual
 substances. For among spiritual substances the holy angels are above the demons; for, as [Augustine](/figures/augustine)
@@ -15283,7 +15283,7 @@ does, either that he may inspire us with a distaste for virtue, or that he may a
 having been cast out." For the man who was healed "became as dead," says Jerome, "because to
 those who are healed it is said, 'You are dead; and your life is hid with Christ in God'" (Col. 3:3)
 
-<span class="atom-split" data-atom="288" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (1/2)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom"></span>
+<span class="atom-split" data-atom="288" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (1/2)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was unfitting that Christ should work miracles in the heavenly
 bodies. For, as Dionysius says (Div. Nom. iv), "it beseems Divine providence not to destroy, but
@@ -15327,7 +15327,7 @@ of all natures, does nothing contrary to nature: for whatsoever He does in each 
 nature." Consequently the nature of a heavenly body is not destroyed when God changes its course:
 but it would be if the change were due to any other cause.
 
-<span class="atom-split" data-atom="289" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (2/2)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom"></span>
+<span class="atom-split" data-atom="289" data-title="Whether it was fitting that Christ should work miracles in the heavenly bodies? (2/2)" data-chapter="Whether it was fitting that Christ should work miracles in the heavenly bodies?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: The order of the seasons was not disturbed by the [miracle](/concepts/miracle) worked by
 Christ. For, according to some, this gloom or darkening of the sun, which occurred at the time of
@@ -15408,7 +15408,7 @@ given it, but the sign of Jonas the prophet,' referring to His Cross . . . and R
 was much more wonderful that this should happen when He was crucified than when He was
 walking on earth."
 
-<span class="atom-split" data-atom="290" data-title="Whether Christ worked miracles fittingly on men? (1/2)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="290" data-title="Whether Christ worked miracles fittingly on men? (1/2)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ worked miracles unfittingly on men. For in man the
 soul is of more import than the body. Now Christ worked many miracles on bodies, but we do not
@@ -15494,7 +15494,7 @@ His Divine power, not only by the bestowal of righteousness and the infusion of 
 pertains to the end of miracles, but also by outwardly drawing men to Himself, or by terrifying or
 stupefying them, which pertains to the miraculous itself.
 
-<span class="atom-split" data-atom="291" data-title="Whether Christ worked miracles fittingly on men? (2/2)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="291" data-title="Whether Christ worked miracles fittingly on men? (2/2)" data-chapter="Whether Christ worked miracles fittingly on men?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Christ came to save the world, not only by Divine power, but also
 through the mystery of His Incarnation. Consequently in healing the sick He frequently not only
@@ -15542,7 +15542,7 @@ another place we find Him saying, 'Go and declare the glory of God' (cf. Mk. 5:1
 is not contrary to this. For He instructs us to forbid them that would praise us on our own account:
 but if the glory be referred to God, then we must not forbid, but command, that it be done."
 
-<span class="atom-split" data-atom="292" data-title="Whether Christ worked miracles fittingly on irrational creatures?" data-chapter="Whether Christ worked miracles fittingly on irrational creatures?" data-kind="atom"></span>
+<span class="atom-split" data-atom="292" data-title="Whether Christ worked miracles fittingly on irrational creatures?" data-chapter="Whether Christ worked miracles fittingly on irrational creatures?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ worked miracles unfittingly on irrational creatures. For
 brute animals are more noble than plants. But Christ worked a [miracle](/concepts/miracle) on plants as when the fig-tree
@@ -15611,7 +15611,7 @@ but by an addition of extraneous matter transformed into loaves; hence [Augustin
 "Whence He multiplieth a few grains into harvests, thence in His hands He multiplied the five
 loaves": and it is clearly by a process of transformation that grains are multiplied into harvests.
 
-<span class="atom-split" data-atom="293" data-title="OF CHRIST'S TRANSFIGURATION (FOUR ARTICLES)" data-chapter="OF CHRIST'S TRANSFIGURATION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="293" data-title="OF CHRIST'S TRANSFIGURATION (FOUR ARTICLES)" data-chapter="OF CHRIST'S TRANSFIGURATION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider Christ's transfiguration; and here there are four points of inquiry:
 (1) Whether it was fitting that Christ should be transfigured?
@@ -15619,7 +15619,7 @@ We now consider Christ's transfiguration; and here there are four points of inqu
 (3) Of the witnesses of the transfiguration;
 (4) Of the testimony of the Father's voice.
 
-<span class="atom-split" data-atom="294" data-title="Whether it was fitting that Christ should be transfigured?" data-chapter="Whether it was fitting that Christ should be transfigured?" data-kind="atom"></span>
+<span class="atom-split" data-atom="294" data-title="Whether it was fitting that Christ should be transfigured?" data-chapter="Whether it was fitting that Christ should be transfigured?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting that Christ should be transfigured. For it is
 not fitting for a true body to be changed into various shapes [figuras], but only for an imaginary
@@ -15672,7 +15672,7 @@ of the Virgin; of impassibility, when He escaped unhurt from the hands of the Je
 hurl Him down or to stone Him. And yet He is not said, on account of this, to be transfigured, but
 only on account of clarity, which pertains to the aspect of His Person.
 
-<span class="atom-split" data-atom="295" data-title="Whether this clarity was the clarity of glory?" data-chapter="Whether this clarity was the clarity of glory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="295" data-title="Whether this clarity was the clarity of glory?" data-chapter="Whether this clarity was the clarity of glory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this clarity was not the clarity of glory. For a gloss of Bede
 on Mat. 17:2, "He was transfigured before them," says: "In His mortal body He shows forth, not
@@ -15743,7 +15743,7 @@ says (Tract. iii in Matth.), by which in the glory to come the saints will be co
 may be said fittingly that it signifies the clarity of the world redeemed, which clarity will cover the
 saints as a tent. Hence when Peter proposed to make tents, "a bright cloud overshaded" the disciples.
 
-<span class="atom-split" data-atom="296" data-title="Whether the witnesses of the transfiguration were fittingly chosen?" data-chapter="Whether the witnesses of the transfiguration were fittingly chosen?" data-kind="atom"></span>
+<span class="atom-split" data-atom="296" data-title="Whether the witnesses of the transfiguration were fittingly chosen?" data-chapter="Whether the witnesses of the transfiguration were fittingly chosen?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the witnesses of the transfiguration were unfittingly chosen.
 For everyone is a better witness of things that he knows. But at the time of Christ's transfiguration
@@ -15819,7 +15819,7 @@ scandalized at the Cross" that followed; or, again, "lest [the Cross] should be 
 the people" [*Bede, Hom. xviii; cf. Catena Aurea]; and "in order that they might then be witnesses
 of spiritual things when they should be filled with the Holy Ghost" [*Hilary, in Matth. xvii].
 
-<span class="atom-split" data-atom="297" data-title="Whether the testimony of the Father's voice, saying, \&quot;This is My beloved Son,\&quot; was fittingly added?" data-chapter="Whether the testimony of the Father's voice, saying, \&quot;This is My beloved Son,\&quot; was fittingly added?" data-kind="atom"></span>
+<span class="atom-split" data-atom="297" data-title="Whether the testimony of the Father's voice, saying, \&quot;This is My beloved Son,\&quot; was fittingly added?" data-chapter="Whether the testimony of the Father's voice, saying, \&quot;This is My beloved Son,\&quot; was fittingly added?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the testimony of the Father's voice, saying, "This is My beloved Son," was fittingly added?
 
@@ -15879,7 +15879,7 @@ This is what Jerome says on Mat. 17:6: "Such is human frailty that it cannot bea
 great glory." But men are healed of this frailty by Christ when He brings them into glory. And this
 is signified by what He says to them: "Arise, and fear not."
 
-<span class="atom-split" data-atom="298" data-title="THE PASSION OF CHRIST (TWELVE ARTICLES)" data-chapter="THE PASSION OF CHRIST (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="298" data-title="THE PASSION OF CHRIST (TWELVE ARTICLES)" data-chapter="THE PASSION OF CHRIST (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In proper sequence we have now to consider all that relates to Christ's leaving the world. In the
 first place, His Passion; secondly, His death; thirdly, His burial; and, fourthly, His descent into hell.
@@ -15899,7 +15899,7 @@ Under the first heading there are twelve points of inquiry:
 (11) Whether it was fitting for Him to be crucified with robbers?
 (12) Whether Christ's Passion is to be attributed to the Godhead?
 
-<span class="atom-split" data-atom="299" data-title="Whether it was necessary for Christ to suffer for the deliverance of the human race?" data-chapter="Whether it was necessary for Christ to suffer for the deliverance of the human race?" data-kind="atom"></span>
+<span class="atom-split" data-atom="299" data-title="Whether it was necessary for Christ to suffer for the deliverance of the human race?" data-chapter="Whether it was necessary for Christ to suffer for the deliverance of the human race?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not necessary for Christ to suffer for the deliverance of
 the human race. For the human race could not be delivered except by God, according to Is. 45:21:
@@ -15968,7 +15968,7 @@ together in Christ."
 Reply to Objection 4: The sin of the angels was irreparable; not so the sin of the first man (FP,
 Q[64], A[2]).
 
-<span class="atom-split" data-atom="300" data-title="Whether there was any other possible way of human deliverance besides the Passion of Christ?" data-chapter="Whether there was any other possible way of human deliverance besides the Passion of Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="300" data-title="Whether there was any other possible way of human deliverance besides the Passion of Christ?" data-chapter="Whether there was any other possible way of human deliverance besides the Passion of Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was no other possible way of human deliverance besides
 Christ's Passion. For our Lord says (Jn. 12:24): "Amen, amen I say to you, unless the grain of wheat
@@ -16030,7 +16030,7 @@ are both based on the Divine foreknowledge and ordinance. And the same reason ho
 that necessity which comes of supposition, and of the necessity which arises of the Divine
 foreknowledge and will.
 
-<span class="atom-split" data-atom="301" data-title="Whether there was any more suitable way of delivering the human race than by Christ's Passion?" data-chapter="Whether there was any more suitable way of delivering the human race than by Christ's Passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="301" data-title="Whether there was any more suitable way of delivering the human race than by Christ's Passion?" data-chapter="Whether there was any more suitable way of delivering the human race than by Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was some other more suitable way of delivering the
 human race besides Christ's Passion. For nature in its operation imitates the Divine work, since it
@@ -16093,7 +16093,7 @@ deserter from justice, and covetous of sway"; in that Christ "should vanquish hi
 not merely by the power of His Godhead, but likewise by the justice and lowliness of the Passion,"
 as Augustine says (De Trin. xiii).
 
-<span class="atom-split" data-atom="302" data-title="Whether Christ ought to have suffered on the cross?" data-chapter="Whether Christ ought to have suffered on the cross?" data-kind="atom"></span>
+<span class="atom-split" data-atom="302" data-title="Whether Christ ought to have suffered on the cross?" data-chapter="Whether Christ ought to have suffered on the cross?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ ought not to have suffered on the cross. For the truth
 ought to conform to the figure. But in all the sacrifices of the Old Testament which prefigured
@@ -16185,7 +16185,7 @@ and to destroy it. Acknowledge, then, that it was for us He took the curse upon 
 confess to have died for us." Hence it is written (Gal. 3:13): "Christ hath redeemed us from the
 curse of the law, being made a curse for us."
 
-<span class="atom-split" data-atom="303" data-title="Whether Christ endured all suffering?" data-chapter="Whether Christ endured all suffering?" data-kind="atom"></span>
+<span class="atom-split" data-atom="303" data-title="Whether Christ endured all suffering?" data-chapter="Whether Christ endured all suffering?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did endure all sufferings, because Hilary (De Trin. x)
 says: "God's only-begotten Son testifies that He endured every kind of human sufferings in order
@@ -16243,7 +16243,7 @@ Reply to Objection 3: The very least one of Christ's sufferings was sufficient o
 the human race from all sins; but as to fittingness, it sufficed that He should endure all classes of
 sufferings, as stated above.
 
-<span class="atom-split" data-atom="304" data-title="Whether the pain of Christ's Passion was greater than all other pains? (1/2)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom"></span>
+<span class="atom-split" data-atom="304" data-title="Whether the pain of Christ's Passion was greater than all other pains? (1/2)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the pain of Christ's Passion was not greater than all other pains.
 For the sufferer's pain is increased by the sharpness and the duration of the suffering. But some of
@@ -16340,7 +16340,7 @@ have felt less pain than Christ's body, for the reasons already stated. From all
 even if by impassibility Adam had suffered in the state of innocence, his pain would have been less
 than Christ's.
 
-<span class="atom-split" data-atom="305" data-title="Whether the pain of Christ's Passion was greater than all other pains? (2/2)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom"></span>
+<span class="atom-split" data-atom="305" data-title="Whether the pain of Christ's Passion was greater than all other pains? (2/2)" data-chapter="Whether the pain of Christ's Passion was greater than all other pains?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Christ grieved not only over the loss of His own bodily life, but also
 over the sins of all others. And this grief in Christ surpassed all grief of every contrite heart, both
@@ -16365,7 +16365,7 @@ power, but also according to justice. And therefore He did not simply weigh what
 suffering would have from union with the Godhead, but also how much, according to His human
 nature, His pain would avail for so great a satisfaction.
 
-<span class="atom-split" data-atom="306" data-title="Whether Christ suffered in His whole soul?" data-chapter="Whether Christ suffered in His whole soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="306" data-title="Whether Christ suffered in His whole soul?" data-chapter="Whether Christ suffered in His whole soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not suffer in His whole soul. For the soul suffers
 indirectly when the body suffers, inasmuch as it is the "act of the body." But the soul is not, as to
@@ -16431,7 +16431,7 @@ Reply to Objection 4: The speculative intellect can have no pain or sadness on t
 object, which is truth considered absolutely, and which is its perfection: nevertheless, both grief
 and its cause can reach it in the way mentioned above.
 
-<span class="atom-split" data-atom="307" data-title="Whether Christ's entire soul enjoyed blessed fruition during the Passion?" data-chapter="Whether Christ's entire soul enjoyed blessed fruition during the Passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="307" data-title="Whether Christ's entire soul enjoyed blessed fruition during the Passion?" data-chapter="Whether Christ's entire soul enjoyed blessed fruition during the Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's entire soul did not enjoy blessed fruition during the
 Passion. For it is not possible to be sad and glad at the one time, since sadness and gladness are
@@ -16478,7 +16478,7 @@ said above.
 Reply to Objection 3: Such argument holds good of the totality of the soul with regard to its
 faculties.
 
-<span class="atom-split" data-atom="308" data-title="Whether Christ suffered at a suitable time? (1/2)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="308" data-title="Whether Christ suffered at a suitable time? (1/2)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not suffer at a suitable time. For Christ's Passion
 was prefigured by the sacrifice of the Paschal lamb: hence the Apostle says (1 Cor. 5:7): "Christ
@@ -16571,7 +16571,7 @@ while, according to Mark, it is the third hour of the day.
 Still, there are some who contend that this discrepancy is due to the error of a Greek transcriber:
 since the characters employed by them to represent 3 and 6 are somewhat alike.
 
-<span class="atom-split" data-atom="309" data-title="Whether Christ suffered at a suitable time? (2/2)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="309" data-title="Whether Christ suffered at a suitable time? (2/2)" data-chapter="Whether Christ suffered at a suitable time?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: According to the author of De Qq. Vet. et Nov. Test., qu. lv, "our Lord
 willed to redeem and reform the world by His Passion, at the time of year at which He had created
@@ -16590,7 +16590,7 @@ Christ might exhibit beforehand in His own person the future condition of those 
 Hence it is written (Eph. 4:13): "Until we all meet into the unity of faith, and of the knowledge of
 the Son of God, unto a perfect man, unto the measure of the age of the fulness of Christ."
 
-<span class="atom-split" data-atom="310" data-title="Whether Christ suffered in a suitable place?" data-chapter="Whether Christ suffered in a suitable place?" data-kind="atom"></span>
+<span class="atom-split" data-atom="310" data-title="Whether Christ suffered in a suitable place?" data-chapter="Whether Christ suffered in a suitable place?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not suffer in a suitable place. For Christ suffered
 according to His [human nature](/axes/human_nature), which was conceived in Nazareth and born in Bethlehem.
@@ -16659,7 +16659,7 @@ and Arbe, as we read in the book of Jesus Ben Nave." But Jesus was to be crucifi
 spot of the condemned rather than beside Adam's sepulchre, to make it manifest that Christ's cross
 was the remedy, not only for Adam's personal sin, but also for the sin of the entire world.
 
-<span class="atom-split" data-atom="311" data-title="Whether it was fitting for Christ to be crucified with thieves?" data-chapter="Whether it was fitting for Christ to be crucified with thieves?" data-kind="atom"></span>
+<span class="atom-split" data-atom="311" data-title="Whether it was fitting for Christ to be crucified with thieves?" data-chapter="Whether it was fitting for Christ to be crucified with thieves?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting for Christ to have been crucified with thieves, because it
 is written (2 Cor. 6:14): "What participation hath justice with injustice?" But for our sakes Christ
@@ -16721,7 +16721,7 @@ Reply to Objection 3: As Augustine says (De Consensu Evang. iii): We can underst
 said, with Jerome, that "at first both blasphemed Him, but afterwards one believed in Him on
 witnessing the wonders."
 
-<span class="atom-split" data-atom="312" data-title="Whether Christ's Passion is to be attributed to His Godhead?" data-chapter="Whether Christ's Passion is to be attributed to His Godhead?" data-kind="atom"></span>
+<span class="atom-split" data-atom="312" data-title="Whether Christ's Passion is to be attributed to His Godhead?" data-chapter="Whether Christ's Passion is to be attributed to His Godhead?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Passion is to be attributed to His Godhead; for it is
 written (1 Cor. 2:8): "If they had known it, they would never have crucified the Lord of glory." But
@@ -16767,7 +16767,7 @@ not for merely tearing up a document, but as destroying the imperial message. Le
 then, stand in security, as crucifying a mere man; since what he saw was as the parchment, but what
 was hidden under it was the imperial Word, the Son by nature, not the mere utterance of a tongue."
 
-<span class="atom-split" data-atom="313" data-title="OF THE EFFICIENT CAUSE OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFICIENT CAUSE OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="313" data-title="OF THE EFFICIENT CAUSE OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFICIENT CAUSE OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the [efficient cause](/concepts/four_causes) of Christ's Passion, concerning which there are
 six points of inquiry:
@@ -16779,7 +16779,7 @@ Jews?
 (5) Whether His slayers knew who He was?
 (6) Of the sin of them who slew Christ.
 
-<span class="atom-split" data-atom="314" data-title="Whether Christ was slain by another or by Himself?" data-chapter="Whether Christ was slain by another or by Himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="314" data-title="Whether Christ was slain by another or by Himself?" data-chapter="Whether Christ was slain by another or by Himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not slain by another, but by Himself. For He says
 Himself (Jn. 10:18): "No men taketh My life from Me, but I lay it down of Myself." But he is said
@@ -16834,7 +16834,7 @@ Reply to Objection 3: Christ at the same time suffered violence in order to die,
 nevertheless, voluntarily; because violence was inflicted on His body, which, however, prevailed
 over His body only so far as He willed it.
 
-<span class="atom-split" data-atom="315" data-title="Whether Christ died out of obedience?" data-chapter="Whether Christ died out of obedience?" data-kind="atom"></span>
+<span class="atom-split" data-atom="315" data-title="Whether Christ died out of obedience?" data-chapter="Whether Christ died out of obedience?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not die out of obedience. For obedience is referred
 to a command. But we do not read that Christ was commanded to suffer. Therefore He did not
@@ -16897,7 +16897,7 @@ Reply to Objection 3: For the same reason Christ suffered out of charity and out
 because He fulfilled even the precepts of charity out of obedience only; and was obedient, out of
 love, to the Father's command.
 
-<span class="atom-split" data-atom="316" data-title="Whether God the Father delivered up Christ to the Passion?" data-chapter="Whether God the Father delivered up Christ to the Passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="316" data-title="Whether God the Father delivered up Christ to the Passion?" data-chapter="Whether God the Father delivered up Christ to the Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God the Father did not deliver up Christ to the Passion. For it
 is a wicked and cruel act to hand over an innocent man to torment and death. But, as it is written
@@ -16949,7 +16949,7 @@ from charity, and consequently we give praise to both: but Judas betrayed Christ
 Jews from envy, and Pilate from worldly fear, for he stood in fear of Caesar; and these accordingly
 are held guilty.
 
-<span class="atom-split" data-atom="317" data-title="Whether it was fitting for Christ to suffer at the hands of the Gentiles?" data-chapter="Whether it was fitting for Christ to suffer at the hands of the Gentiles?" data-kind="atom"></span>
+<span class="atom-split" data-atom="317" data-title="Whether it was fitting for Christ to suffer at the hands of the Gentiles?" data-chapter="Whether it was fitting for Christ to suffer at the hands of the Gentiles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting that Christ should suffer at the hands of the Gentiles. For
 since men were to be freed from sin by Christ's death, it would seem fitting that very few should
@@ -16996,7 +16996,7 @@ king, of which it was not their place to judge. Or, again, because it was not la
 crucify Him (as they wanted to), but to stone Him, as they did to Stephen. Better still is it to say
 that the power of putting to death was taken from them by the Romans, whose subjects they were.
 
-<span class="atom-split" data-atom="318" data-title="Whether Christ's persecutors knew who He was?" data-chapter="Whether Christ's persecutors knew who He was?" data-kind="atom"></span>
+<span class="atom-split" data-atom="318" data-title="Whether Christ's persecutors knew who He was?" data-chapter="Whether Christ's persecutors knew who He was?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's persecutors did know who He was. For it is written
 (Mat. 21:38) that the husbandmen seeing the son said within themselves: "This is the heir; come,
@@ -17070,7 +17070,7 @@ aggravate it: for it shows that a man is so strongly attached to sin that he wis
 lest he avoid sinning. The Jews therefore sinned, as crucifiers not only of the Man-Christ, but also
 as of God.
 
-<span class="atom-split" data-atom="319" data-title="Whether the sin of those who crucified Christ was most grievous?" data-chapter="Whether the sin of those who crucified Christ was most grievous?" data-kind="atom"></span>
+<span class="atom-split" data-atom="319" data-title="Whether the sin of those who crucified Christ was most grievous?" data-chapter="Whether the sin of those who crucified Christ was most grievous?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sin of Christ's crucifiers was not the most grievous. Because
 the sin which has some excuse cannot be most grievous. But our Lord Himself excused the sin of
@@ -17117,7 +17117,7 @@ to [the State](/concepts/state); just as he who kills himself, as the Philosophe
 condemned to death the man who "did not fear to lay hands upon the Lord's anointed," even though
 he (Saul) had requested it, as related 2 Kings 1:5-14.
 
-<span class="atom-split" data-atom="320" data-title="OF THE EFFICIENCY OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFICIENCY OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="320" data-title="OF THE EFFICIENCY OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFICIENCY OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider Christ's Passion as to its effect; first of all, as to the manner in which
 it was brought about; and, secondly, as to the effect in itself. Under the first heading there are six
@@ -17129,7 +17129,7 @@ points for inquiry:
 (5) Whether it is proper to Christ to be the Redeemer?
 (6) Whether (the Passion) secured man's salvation efficiently?
 
-<span class="atom-split" data-atom="321" data-title="Whether Christ's Passion brought about our salvation by way of merit?" data-chapter="Whether Christ's Passion brought about our salvation by way of merit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="321" data-title="Whether Christ's Passion brought about our salvation by way of merit?" data-chapter="Whether Christ's Passion brought about our salvation by way of merit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Passion did not bring about our salvation by way of
 merit. For the sources of our sufferings are not within us. But no one merits or is praised except
@@ -17171,7 +17171,7 @@ possess, not on account of greater charity, but because of the nature of the wor
 for such an effect, as is clear from the arguments brought forward above all the fittingness of Christ's
 Passion (Q[46], AA, 3,4).
 
-<span class="atom-split" data-atom="322" data-title="Whether Christ's Passion brought about our salvation by way of atonement?" data-chapter="Whether Christ's Passion brought about our salvation by way of atonement?" data-kind="atom"></span>
+<span class="atom-split" data-atom="322" data-title="Whether Christ's Passion brought about our salvation by way of atonement?" data-chapter="Whether Christ's Passion brought about our salvation by way of atonement?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Passion did not bring about our salvation by way of
 atonement. For it seems that to make the atonement devolves on him who commits the sin; as is
@@ -17218,7 +17218,7 @@ Reply to Objection 3: The dignity of Christ's flesh is not to be estimated solel
 of flesh, but also from the Person assuming it---namely, inasmuch as it was God's flesh, the result
 of which was that it was of infinite worth.
 
-<span class="atom-split" data-atom="323" data-title="Whether Christ's Passion operated by way of sacrifice?" data-chapter="Whether Christ's Passion operated by way of sacrifice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="323" data-title="Whether Christ's Passion operated by way of sacrifice?" data-chapter="Whether Christ's Passion operated by way of sacrifice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Passion did not operate by way of sacrifice. For the
 truth should correspond with the figure. But human flesh was never offered up in the sacrifices of
@@ -17278,7 +17278,7 @@ Reply to Objection 3: Christ's Passion was indeed a malefice on His slayers' par
 own it was the sacrifice of one suffering out of charity. Hence it is Christ who is said to have offered
 this sacrifice, and not the executioners.
 
-<span class="atom-split" data-atom="324" data-title="Whether Christ's Passion brought about our salvation by way of redemption?" data-chapter="Whether Christ's Passion brought about our salvation by way of redemption?" data-kind="atom"></span>
+<span class="atom-split" data-atom="324" data-title="Whether Christ's Passion brought about our salvation by way of redemption?" data-chapter="Whether Christ's Passion brought about our salvation by way of redemption?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Passion did not effect our salvation by way of
 redemption. For no one purchases or redeems what never ceased to belong to him. But men never
@@ -17343,7 +17343,7 @@ deliverance, but not with regard to the devil, the price had to be paid not to t
 And therefore Christ is said to have paid the price of our redemption---His own precious blood---not
 to the devil, but to God.
 
-<span class="atom-split" data-atom="325" data-title="Whether it is proper to Christ to be the Redeemer?" data-chapter="Whether it is proper to Christ to be the Redeemer?" data-kind="atom"></span>
+<span class="atom-split" data-atom="325" data-title="Whether it is proper to Christ to be the Redeemer?" data-chapter="Whether it is proper to Christ to be the Redeemer?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not proper to Christ to be the Redeemer, because it is
 written (Ps. 30:6): "Thou hast redeemed me, O Lord, the God of Truth." But to be the Lord God
@@ -17384,7 +17384,7 @@ Reply to Objection 3: The sufferings of the saints are beneficial to the Church,
 of redemption, but of example and exhortation, according to 2 Cor. 1:6: "Whether we be in
 tribulation, it is for your exhortation and salvation."
 
-<span class="atom-split" data-atom="326" data-title="Whether Christ's Passion brought about our salvation efficiently?" data-chapter="Whether Christ's Passion brought about our salvation efficiently?" data-kind="atom"></span>
+<span class="atom-split" data-atom="326" data-title="Whether Christ's Passion brought about our salvation efficiently?" data-chapter="Whether Christ's Passion brought about our salvation efficiently?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Passion did not bring about our salvation efficiently.
 For the [efficient cause](/concepts/four_causes) of our salvation is the greatness of the Divine power, according to Is. 59:1:
@@ -17429,7 +17429,7 @@ inasmuch as we are liberated by it from the debt of punishment; while inasmuch a
 from the servitude of guilt, it acts by way of redemption: but in so far as we are reconciled with
 God it acts by way of sacrifice, as shall be shown farther on (Q[49]).
 
-<span class="atom-split" data-atom="327" data-title="OF THE EFFECTS OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="327" data-title="OF THE EFFECTS OF CHRIST'S PASSION (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF CHRIST'S PASSION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider what are the effects of Christ's Passion, concerning which there are
 six points of inquiry:
@@ -17440,7 +17440,7 @@ six points of inquiry:
 (5) Whether heaven's gate was opened to us thereby?
 (6) Whether Christ derived exaltation from it?
 
-<span class="atom-split" data-atom="328" data-title="Whether we were delivered from sin through Christ's Passion?" data-chapter="Whether we were delivered from sin through Christ's Passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="328" data-title="Whether we were delivered from sin through Christ's Passion?" data-chapter="Whether we were delivered from sin through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we were not delivered from sin through Christ's Passion. For
 to deliver from sin belongs to God alone, according to Is. 43:25: "I am He who blot out your
@@ -17506,7 +17506,7 @@ can exist even with sin, but "faith living" through charity; that thus Christ's 
 to us, not only as to our minds, but also as to our hearts. And even in this way sins are forgiven
 through the power of the Passion of Christ.
 
-<span class="atom-split" data-atom="329" data-title="Whether we were delivered from the devil's power through Christ's Passion?" data-chapter="Whether we were delivered from the devil's power through Christ's Passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="329" data-title="Whether we were delivered from the devil's power through Christ's Passion?" data-chapter="Whether we were delivered from the devil's power through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we were not delivered from the power of the devil through
 Christ's Passion. For he has no power over others, who can do nothing to them without the sanction
@@ -17569,7 +17569,7 @@ through Christ's Passion, for defending themselves against the wicked snares of 
 in Antichrist's time. But if any man neglect to make use of this remedy, it detracts nothing from
 the efficacy of Christ's Passion.
 
-<span class="atom-split" data-atom="330" data-title="Whether men were freed from the punishment of sin through Christ's Passion?" data-chapter="Whether men were freed from the punishment of sin through Christ's Passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="330" data-title="Whether men were freed from the punishment of sin through Christ's Passion?" data-chapter="Whether men were freed from the punishment of sin through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that men were not freed from the punishment of sin by Christ's
 Passion. For the chief punishment of sin is eternal damnation. But those damned in hell for their
@@ -17620,7 +17620,7 @@ to the sufferings and death of Christ, we are brought into immortal glory, accor
 of the Apostle (Rom. 8:17): "And if sons, heirs also: heirs indeed of God, and joint heirs with Christ;
 yet so if we suffer with Him, that we may be also glorified with Him."
 
-<span class="atom-split" data-atom="331" data-title="Whether we were reconciled to God through Christ's Passion?" data-chapter="Whether we were reconciled to God through Christ's Passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="331" data-title="Whether we were reconciled to God through Christ's Passion?" data-chapter="Whether we were reconciled to God through Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we were not reconciled to God through Christ's Passion. For
 there is no need of reconciliation between friends. But God always loved us, according to Wis.
@@ -17664,7 +17664,7 @@ Reply to Objection 3: As Christ's slayers were men, so also was the Christ slain
 charity of the suffering Christ surpassed the wickedness of His slayers. Accordingly Christ's Passion
 prevailed more in reconciling God to the whole human race than in provoking Him to wrath.
 
-<span class="atom-split" data-atom="332" data-title="Whether Christ opened the gate of heaven to us by His Passion?" data-chapter="Whether Christ opened the gate of heaven to us by His Passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="332" data-title="Whether Christ opened the gate of heaven to us by His Passion?" data-chapter="Whether Christ opened the gate of heaven to us by His Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not open the gate of heaven to us by His Passion.
 For it is written (Prov. 11:18): "To him that soweth justice, there is a faithful reward." But the
@@ -17731,7 +17731,7 @@ heaven, and removed the obstacle; but by His ascension He, as it were, brought u
 of the heavenly kingdom. And consequently it is said that by ascending He "opened the way before
 them."
 
-<span class="atom-split" data-atom="333" data-title="Whether by His Passion Christ merited to be exalted?" data-chapter="Whether by His Passion Christ merited to be exalted?" data-kind="atom"></span>
+<span class="atom-split" data-atom="333" data-title="Whether by His Passion Christ merited to be exalted?" data-chapter="Whether by His Passion Christ merited to be exalted?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ did not merit to be exalted on account of His Passion. For
 eminence of rank belongs to God alone, just as knowledge of truth, according to Ps. 112:4: "The
@@ -17800,7 +17800,7 @@ of His soul to be postponed, since the soul was united immediately with the Word
 beseeming that its glory should be filled by the Word Himself. But the body was united with the
 Word through the soul.
 
-<span class="atom-split" data-atom="334" data-title="OF THE DEATH OF CHRIST (SIX ARTICLES)" data-chapter="OF THE DEATH OF CHRIST (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="334" data-title="OF THE DEATH OF CHRIST (SIX ARTICLES)" data-chapter="OF THE DEATH OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the death of Christ; concerning which there are six subjects of inquiry:
 (1) Whether it was fitting that Christ should die?
@@ -17810,7 +17810,7 @@ We have now to consider the death of Christ; concerning which there are six subj
 (5) Whether His was the same body, living and dead?
 (6) Whether His death conduced in any way to our salvation?
 
-<span class="atom-split" data-atom="335" data-title="Whether it was fitting that Christ should die?" data-chapter="Whether it was fitting that Christ should die?" data-kind="atom"></span>
+<span class="atom-split" data-atom="335" data-title="Whether it was fitting that Christ should die?" data-chapter="Whether it was fitting that Christ should die?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting that Christ should die. For a first principle
 in any order is not affected by anything contrary to such order: thus fire, which is the principle of
@@ -17866,7 +17866,7 @@ at times: thus cold sometimes is the indirect cause of heat: and in this way Chr
 brought us back to life, when by His death He destroyed our death; just as he who bears another's
 punishment takes such punishment away.
 
-<span class="atom-split" data-atom="336" data-title="Whether the Godhead was separated from the flesh when Christ died?" data-chapter="Whether the Godhead was separated from the flesh when Christ died?" data-kind="atom"></span>
+<span class="atom-split" data-atom="336" data-title="Whether the Godhead was separated from the flesh when Christ died?" data-chapter="Whether the Godhead was separated from the flesh when Christ died?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Godhead was separated from the flesh when Christ died.
 For as Matthew relates (27:46), when our Lord was hanging upon the cross He cried out: "My God,
@@ -17921,7 +17921,7 @@ has not the life-giving energy formally, but effectively; because It cannot be t
 and therefore it is not necessary for the flesh to be living while the union of the Godhead with the
 flesh remains, since God does not act of necessity, but of His own will.
 
-<span class="atom-split" data-atom="337" data-title="Whether in Christ's death there was a severance between His Godhead and His soul?" data-chapter="Whether in Christ's death there was a severance between His Godhead and His soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="337" data-title="Whether in Christ's death there was a severance between His Godhead and His soul?" data-chapter="Whether in Christ's death there was a severance between His Godhead and His soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was a severance in death between Christ's Godhead and
 His soul, because our Lord said (Jn. 10:18): "No man taketh away My soul from Me: but I lay it
@@ -17993,7 +17993,7 @@ Wherefore the one hypostasis of the Word was the hypostasis of the Word, of the 
 body. For neither soul nor body ever had an hypostasis of its own, besides the hypostasis of the
 Word: for there was always one hypostasis of the Word, and never two."
 
-<span class="atom-split" data-atom="338" data-title="Whether Christ was a man during the three days of His death?" data-chapter="Whether Christ was a man during the three days of His death?" data-kind="atom"></span>
+<span class="atom-split" data-atom="338" data-title="Whether Christ was a man during the three days of His death?" data-chapter="Whether Christ was a man during the three days of His death?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was a man during the three days of His death, because
 [Augustine](/figures/augustine) says (De Trin. iii): "Such was the assuming [of nature] as to make God to be man, and
@@ -18045,7 +18045,7 @@ Reply to Objection 3: That a man is competent to be a priest is by reason of the
 is the subject of the character of order: hence a man does not lose his priestly order by death, and
 much less does Christ, who is the fount of the entire priesthood.
 
-<span class="atom-split" data-atom="339" data-title="Whether Christ's was identically the same body living and dead?" data-chapter="Whether Christ's was identically the same body living and dead?" data-kind="atom"></span>
+<span class="atom-split" data-atom="339" data-title="Whether Christ's was identically the same body living and dead?" data-chapter="Whether Christ's was identically the same body living and dead?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's was not identically the same body living and dead.
 For Christ truly died just as other men do. But the body of everyone else is not simply identically
@@ -18107,7 +18107,7 @@ Reply to Objection 3: Corruption and death do not belong to Christ by reason of 
 from which suppositum follows the unity of identity; but by reason of the human nature, according
 to which is found the difference of death and of life in Christ's body.
 
-<span class="atom-split" data-atom="340" data-title="Whether Christ's death conduced in any way to our salvation?" data-chapter="Whether Christ's death conduced in any way to our salvation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="340" data-title="Whether Christ's death conduced in any way to our salvation?" data-chapter="Whether Christ's death conduced in any way to our salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's death did not conduce in any way to our salvation.
 For death is a sort of privation, since it is the privation of life. But privation has not any power of
@@ -18149,7 +18149,7 @@ by way of merit, yet it did so by way of causality, as stated above.
 Reply to Objection 3: Christ's death was indeed corporeal; but the body was the instrument
 of the Godhead united to Him, working by Its power, although dead.
 
-<span class="atom-split" data-atom="341" data-title="OF CHRIST'S BURIAL (FOUR ARTICLES)" data-chapter="OF CHRIST'S BURIAL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="341" data-title="OF CHRIST'S BURIAL (FOUR ARTICLES)" data-chapter="OF CHRIST'S BURIAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider Christ's burial, concerning which there are four points of inquiry:
 (1) Whether it was fitting for Christ to be buried?
@@ -18157,7 +18157,7 @@ We have now to consider Christ's burial, concerning which there are four points 
 (3) Whether His body was decomposed in the tomb?
 (4) Concerning the length of time He lay in the tomb.
 
-<span class="atom-split" data-atom="342" data-title="Whether it was fitting for Christ to be buried?" data-chapter="Whether it was fitting for Christ to be buried?" data-kind="atom"></span>
+<span class="atom-split" data-atom="342" data-title="Whether it was fitting for Christ to be buried?" data-chapter="Whether it was fitting for Christ to be buried?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting for Christ to have been buried, because it is said of Him
 (Ps. 87:6): "He is [Vulg.: 'I am'] become as a man without help, free among the dead." But the
@@ -18201,7 +18201,7 @@ and in another discourse of the same Council [*P. iii, cap. 10]: "God does not r
 an injury which is an occasion of men's salvation. Thus thou shalt not deem God's Nature to be so
 vile, as though It may sometimes be subjected to injuries."
 
-<span class="atom-split" data-atom="343" data-title="Whether Christ was buried in a becoming manner?" data-chapter="Whether Christ was buried in a becoming manner?" data-kind="atom"></span>
+<span class="atom-split" data-atom="343" data-title="Whether Christ was buried in a becoming manner?" data-chapter="Whether Christ was buried in a becoming manner?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was buried in an unbecoming manner. For His burial
 should be in keeping with His death. But Christ underwent a most shameful death, according to
@@ -18288,7 +18288,7 @@ as Origen says (Tract. xxxv in Matth.): "It was not written by hazard: 'Joseph w
 body in a clean winding-sheet, and placed it in a new monument,'" and that "'he rolled a great stone,'
 because all things around the body of Jesus are clean, and new, and exceeding great."
 
-<span class="atom-split" data-atom="344" data-title="Whether Christ's body was reduced to dust in the tomb?" data-chapter="Whether Christ's body was reduced to dust in the tomb?" data-kind="atom"></span>
+<span class="atom-split" data-atom="344" data-title="Whether Christ's body was reduced to dust in the tomb?" data-chapter="Whether Christ's body was reduced to dust in the tomb?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's body was reduced to dust in the tomb. For just as man
 dies in punishment of his first parent's sin, so also does he return to dust, since it was said to the
@@ -18338,7 +18338,7 @@ Reply to Objection 3: Christ rose from the tomb by Divine power, which is not na
 within bounds. Consequently, His rising from the grave was a sufficient argument to prove that
 men are to be raised up by Divine power, not only from their graves, but also from any dust whatever.
 
-<span class="atom-split" data-atom="345" data-title="Whether Christ was in the tomb only one day and two nights?" data-chapter="Whether Christ was in the tomb only one day and two nights?" data-kind="atom"></span>
+<span class="atom-split" data-atom="345" data-title="Whether Christ was in the tomb only one day and two nights?" data-chapter="Whether Christ was in the tomb only one day and two nights?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not in the tomb during only one day and two nights;
 because He said (Mat. 12:40): "As Jonas was in the whale's belly three days and three nights: so
@@ -18391,7 +18391,7 @@ expression "early" can be taken as partly night and partly day, from its fitting
 Reply to Objection 3: The light prevailed so far in Christ's death (which is denoted by the one
 day) that it dispelled the darkness of the two nights, that is, of our twofold death, as stated above.
 
-<span class="atom-split" data-atom="346" data-title="OF CHRIST'S DESCENT INTO HELL (EIGHT ARTICLES)" data-chapter="OF CHRIST'S DESCENT INTO HELL (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="346" data-title="OF CHRIST'S DESCENT INTO HELL (EIGHT ARTICLES)" data-chapter="OF CHRIST'S DESCENT INTO HELL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider Christ's descent into hell; concerning which there are eight points of
 inquiry:
@@ -18404,7 +18404,7 @@ inquiry:
 (7) Whether He delivered the children who died in [original sin](/positions/original_sin)?
 (8) Whether He delivered men from Purgatory?
 
-<span class="atom-split" data-atom="347" data-title="Whether it was fitting for Christ to descend into hell?" data-chapter="Whether it was fitting for Christ to descend into hell?" data-kind="atom"></span>
+<span class="atom-split" data-atom="347" data-title="Whether it was fitting for Christ to descend into hell?" data-chapter="Whether it was fitting for Christ to descend into hell?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting for Christ to descend into hell, because
 [Augustine](/figures/augustine) says (Ep. ad Evod. cliv.): "Nor could I find anywhere in the Scriptures hell mentioned
@@ -18459,7 +18459,7 @@ Reply to Objection 3: Christ's soul descended into hell not by the same kind of 
 whereby bodies are moved, but by that kind whereby the angels are moved, as was said in the FP,
 Q[53], A[1].
 
-<span class="atom-split" data-atom="348" data-title="Whether Christ went down into the hell of the lost?" data-chapter="Whether Christ went down into the hell of the lost?" data-kind="atom"></span>
+<span class="atom-split" data-atom="348" data-title="Whether Christ went down into the hell of the lost?" data-chapter="Whether Christ went down into the hell of the lost?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ went down into the hell of the lost, because it is said
 by the mouth of Divine Wisdom (Ecclus. 24:45): "I will penetrate to all the lower parts of the earth."
@@ -18555,7 +18555,7 @@ relatively to the height of this same air the earth lying beneath can be conside
 deep. And again in comparison with the height of the same earth, those parts of hell which are
 higher than the other infernal mansions, may in this way be designated as the deepest hell."
 
-<span class="atom-split" data-atom="349" data-title="Whether the whole Christ was in hell?" data-chapter="Whether the whole Christ was in hell?" data-kind="atom"></span>
+<span class="atom-split" data-atom="349" data-title="Whether the whole Christ was in hell?" data-chapter="Whether the whole Christ was in hell?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the whole Christ was not in hell. For Christ's body is one of
 His parts. But His body was not in hell. Therefore, the whole Christ was not in hell.
@@ -18600,7 +18600,7 @@ it is outside that place. But this is not the case with God. Hence Augustine say
 at one time whole in one place, at another time whole in another: but as being whole always and
 everywhere."
 
-<span class="atom-split" data-atom="350" data-title="Whether Christ made any stay in hell?" data-chapter="Whether Christ made any stay in hell?" data-kind="atom"></span>
+<span class="atom-split" data-atom="350" data-title="Whether Christ made any stay in hell?" data-chapter="Whether Christ made any stay in hell?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not make any stay in hell. For Christ went down
 into hell to deliver men from thence. But He accomplished this deliverance at once by His descent,
@@ -18644,7 +18644,7 @@ the thief descended locally into hell with Christ, because it was said to him: "
 be with Me in paradise"; still as to reward he was in paradise, because he enjoyed Christ's Godhead
 just as the other saints did.
 
-<span class="atom-split" data-atom="351" data-title="Whether Christ descending into hell delivered the holy Fathers from thence?" data-chapter="Whether Christ descending into hell delivered the holy Fathers from thence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="351" data-title="Whether Christ descending into hell delivered the holy Fathers from thence?" data-chapter="Whether Christ descending into hell delivered the holy Fathers from thence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ descending into hell did not deliver the holy Fathers
 from thence. For [Augustine](/figures/augustine) (Epist. ad Evod. clxiv) says: "I have not yet discovered what Christ
@@ -18710,7 +18710,7 @@ Reply to Objection 3: Directly Christ died His soul went down into hell, and bes
 fruits of His Passion on the saints detained there; although they did not go out as long as Christ
 remained in hell, because His presence was part of the fulness of their glory.
 
-<span class="atom-split" data-atom="352" data-title="Whether Christ delivered any of the lost from hell?" data-chapter="Whether Christ delivered any of the lost from hell?" data-kind="atom"></span>
+<span class="atom-split" data-atom="352" data-title="Whether Christ delivered any of the lost from hell?" data-chapter="Whether Christ delivered any of the lost from hell?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did deliver some of the lost from hell, because it is
 written (Is. 24:22): "And they shall be gathered together as in the gathering of one bundle into the
@@ -18760,7 +18760,7 @@ to the very different condition of each state. For, so long as men live here bel
 converted to faith and charity, because in this life men are not confirmed either in good or in evil,
 as they are after quitting this life.
 
-<span class="atom-split" data-atom="353" data-title="Whether the children who died in original sin were delivered by Christ?" data-chapter="Whether the children who died in original sin were delivered by Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="353" data-title="Whether the children who died in original sin were delivered by Christ?" data-chapter="Whether the children who died in original sin were delivered by Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the children who died in [original sin](/positions/original_sin) were delivered from hell
 by Christ's descending thither. For, like the holy Fathers, the children were kept in hell simply
@@ -18811,7 +18811,7 @@ from sin into grace: but Christ's descent into hell was vouchsafed to the souls 
 they are no longer capable of the said change. And consequently by baptism children are delivered
 from original sin and from hell, but not by Christ's descent into hell.
 
-<span class="atom-split" data-atom="354" data-title="Whether Christ by His descent into hell delivered souls from purgatory?" data-chapter="Whether Christ by His descent into hell delivered souls from purgatory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="354" data-title="Whether Christ by His descent into hell delivered souls from purgatory?" data-chapter="Whether Christ by His descent into hell delivered souls from purgatory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ by His descent into hell delivered souls from
 Purgatory---for [Augustine](/figures/augustine) says (Ep. ad Evod. clxiv): "Because evident testimonies speak of hell
@@ -18869,7 +18869,7 @@ of punishment in Purgatory which pertains to personal defect. Just as on the oth
 Fathers before Christ's coming were delivered from their personal defects, but not from the common
 defect, as was stated above (A[7], ad 1; Q[49], A[5], ad 1).
 
-<span class="atom-split" data-atom="355" data-title="OF CHRIST'S RESURRECTION (FOUR ARTICLES)" data-chapter="OF CHRIST'S RESURRECTION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="355" data-title="OF CHRIST'S RESURRECTION (FOUR ARTICLES)" data-chapter="OF CHRIST'S RESURRECTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider those things that concern Christ's Exaltation; and we shall deal with
 (1) His Resurrection; (2) His Ascension; (3) His sitting at the right hand of God the Father; (4) His
@@ -18881,7 +18881,7 @@ causality. Concerning the first there are four points of inquiry:
 (3) Its order;
 (4) Its cause.
 
-<span class="atom-split" data-atom="356" data-title="Whether it was necessary for Christ to rise again?" data-chapter="Whether it was necessary for Christ to rise again?" data-kind="atom"></span>
+<span class="atom-split" data-atom="356" data-title="Whether it was necessary for Christ to rise again?" data-chapter="Whether it was necessary for Christ to rise again?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not necessary for Christ to rise again. For Damascene
 says (De Fide Orth. iv): "Resurrection is the rising again of an animate being, which was disintegrated
@@ -18945,7 +18945,7 @@ condition of nature, but not to a higher personal state.
 Reply to Objection 3: Christ's Passion wrought our salvation, properly speaking, by removing
 evils; but the Resurrection did so as the beginning and exemplar of all good things.
 
-<span class="atom-split" data-atom="357" data-title="Whether it was fitting for Christ to rise again on the third day?" data-chapter="Whether it was fitting for Christ to rise again on the third day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="357" data-title="Whether it was fitting for Christ to rise again on the third day?" data-chapter="Whether it was fitting for Christ to rise again on the third day?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting that Christ should have risen again on the third day. For
 the members ought to be in conformity with their head. But we who are His members do not rise
@@ -19022,7 +19022,7 @@ rises, the more are the remaining shadows dispelled." But when Mark says "'the s
 risen,' it is not to be taken as if the sun were already apparent over the horizon, but as coming
 presently into those parts."
 
-<span class="atom-split" data-atom="358" data-title="Whether Christ was the first to rise from the dead?" data-chapter="Whether Christ was the first to rise from the dead?" data-kind="atom"></span>
+<span class="atom-split" data-atom="358" data-title="Whether Christ was the first to rise from the dead?" data-chapter="Whether Christ was the first to rise from the dead?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ was not the first to rise from the dead, because we read
 in the Old Testament of some persons raised to life by Elias and Eliseus, according to Heb. 11:35:
@@ -19088,7 +19088,7 @@ they regard the soul, as the perfect fruition of God, or whether they regard the
 resurrection, to be first in Christ as the author of glory: but that grace should be first in those that
 were ordained unto Christ.
 
-<span class="atom-split" data-atom="359" data-title="Whether Christ was the cause of His own Resurrection?" data-chapter="Whether Christ was the cause of His own Resurrection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="359" data-title="Whether Christ was the cause of His own Resurrection?" data-chapter="Whether Christ was the cause of His own Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ was not the cause of His own Resurrection. For whoever is
 raised up by another is not the cause of his own rising. But Christ was raised up by another, according
@@ -19134,7 +19134,7 @@ Godhead united to it is more powerful than the body in respect of its created na
 it was by the Divine power that the body and soul mutually resumed each other, but not by the
 power of their created nature.
 
-<span class="atom-split" data-atom="360" data-title="OF THE QUALITY OF CHRIST RISING AGAIN (FOUR ARTICLES)" data-chapter="OF THE QUALITY OF CHRIST RISING AGAIN (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="360" data-title="OF THE QUALITY OF CHRIST RISING AGAIN (FOUR ARTICLES)" data-chapter="OF THE QUALITY OF CHRIST RISING AGAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the quality of the rising Christ, which presents four points of inquiry:
 (1) Whether Christ had a true body after His Resurrection?
@@ -19142,7 +19142,7 @@ We have now to consider the quality of the rising Christ, which presents four po
 (3) Whether His was a glorified body?
 (4) Of the scars which showed in His body.
 
-<span class="atom-split" data-atom="361" data-title="Whether Christ had a true body after His Resurrection? (1/2)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="361" data-title="Whether Christ had a true body after His Resurrection? (1/2)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not have a true body after His Resurrection. For a
 true body cannot be in the same place at the same time with another body. But after the Resurrection
@@ -19238,7 +19238,7 @@ body was not glorified.
 On the contrary, The Apostle says (Phil. 3:21): "He will reform the body of our lowness, made
 like to the body of His glory."
 
-<span class="atom-split" data-atom="362" data-title="Whether Christ had a true body after His Resurrection? (2/2)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="362" data-title="Whether Christ had a true body after His Resurrection? (2/2)" data-chapter="Whether Christ had a true body after His Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Christ's was a glorified body in His Resurrection, and this is evident from three
 reasons. First of all, because His Resurrection was the exemplar and the cause of ours, as is stated
@@ -19287,7 +19287,7 @@ and the sun's burning ray absorbs it; the former from need, the latter by its po
 Resurrection He ate, "not as needing food, but in order thus to show the nature of His risen body."
 Nor does it follow that His was an animal body that stands in need of food.
 
-<span class="atom-split" data-atom="363" data-title="Whether Christ's body rose again entire?" data-chapter="Whether Christ's body rose again entire?" data-kind="atom"></span>
+<span class="atom-split" data-atom="363" data-title="Whether Christ's body rose again entire?" data-chapter="Whether Christ's body rose again entire?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's body did not rise entire. For flesh and blood belong
 to the integrity of the body: whereas Christ seems not to have had both, for it is written (1 Cor.
@@ -19352,7 +19352,7 @@ particles which belong to the truth and integrity of human nature. But the blood
 in some churches did not flow from Christ's side, but is said to have flowed from some maltreated
 image of Christ.
 
-<span class="atom-split" data-atom="364" data-title="Whether Christ's body ought to have risen with its scars?" data-chapter="Whether Christ's body ought to have risen with its scars?" data-kind="atom"></span>
+<span class="atom-split" data-atom="364" data-title="Whether Christ's body ought to have risen with its scars?" data-chapter="Whether Christ's body ought to have risen with its scars?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's body ought not to have risen with its scars. For it is
 written (1 Cor. 15:52): "The dead shall rise incorrupt." But scars and wounds imply corruption and
@@ -19413,7 +19413,7 @@ what fool would dare to say this, save he that denies the true resurrection of t
 it is evident that the scars which Christ showed on His body after His Resurrection, have never
 since been removed from His body.
 
-<span class="atom-split" data-atom="365" data-title="OF THE MANIFESTATION OF THE RESURRECTION (SIX ARTICLES)" data-chapter="OF THE MANIFESTATION OF THE RESURRECTION (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="365" data-title="OF THE MANIFESTATION OF THE RESURRECTION (SIX ARTICLES)" data-chapter="OF THE MANIFESTATION OF THE RESURRECTION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the manifestation of the Resurrection: concerning which there are six
 points of inquiry:
@@ -19425,7 +19425,7 @@ special individuals?
 (5) Whether He ought to have demonstrated the Resurrection by proofs?
 (6) Of the cogency of those proofs.
 
-<span class="atom-split" data-atom="366" data-title="Whether Christ's Resurrection ought to have been manifested to all?" data-chapter="Whether Christ's Resurrection ought to have been manifested to all?" data-kind="atom"></span>
+<span class="atom-split" data-atom="366" data-title="Whether Christ's Resurrection ought to have been manifested to all?" data-chapter="Whether Christ's Resurrection ought to have been manifested to all?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Resurrection ought to have been manifested to all.
 For just as a public penalty is due for public sin, according to 1 Tim. 5:20: "Them that sin reprove
@@ -19487,7 +19487,7 @@ the women whose love for our Lord was more persistent---so much so that "when ev
 withdrew" from the sepulchre "they did not depart" [*Gregory, Hom. xxv in Evang.]---were the
 first to see Him rising in glory.
 
-<span class="atom-split" data-atom="367" data-title="Whether it was fitting that the disciples should see Him rise again?" data-chapter="Whether it was fitting that the disciples should see Him rise again?" data-kind="atom"></span>
+<span class="atom-split" data-atom="367" data-title="Whether it was fitting that the disciples should see Him rise again?" data-chapter="Whether it was fitting that the disciples should see Him rise again?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem fitting that the disciples should have seen Him rise again, because
 it was their office to bear witness to the Resurrection, according to Acts 4:33: "With great power
@@ -19535,7 +19535,7 @@ Resurrection ought not to be accomplished so as to be seen by man.
 Reply to Objection 3: Lazarus was raised so that he returned to the same life as before, which
 life is not beyond man's common ken. Consequently, there is no parity.
 
-<span class="atom-split" data-atom="368" data-title="Whether Christ ought to have lived constantly with His disciples after the Resurrection?" data-chapter="Whether Christ ought to have lived constantly with His disciples after the Resurrection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="368" data-title="Whether Christ ought to have lived constantly with His disciples after the Resurrection?" data-chapter="Whether Christ ought to have lived constantly with His disciples after the Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ ought to have lived constantly with His Disciples,
 because He appeared to them after His Resurrection in order to confirm their faith in the Resurrection,
@@ -19631,7 +19631,7 @@ understand this as applying to Him not in the form of a servant, but in that for
 to the Father, and which He has promised to them that love Him. Although He has gone before us
 in this sense, He has not abandoned us."
 
-<span class="atom-split" data-atom="369" data-title="Whether Christ should have appeared to the disciples \&quot;in another shape\&quot;?" data-chapter="Whether Christ should have appeared to the disciples \&quot;in another shape\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="369" data-title="Whether Christ should have appeared to the disciples \&quot;in another shape\&quot;?" data-chapter="Whether Christ should have appeared to the disciples \&quot;in another shape\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether Christ should have appeared to the disciples "in another shape"?
 
@@ -19695,7 +19695,7 @@ they were hitherto walking with their eyes shut; but there was something in them
 were not permitted to recognize what they saw. This could be caused by the darkness or by some
 kind of humor."
 
-<span class="atom-split" data-atom="370" data-title="Whether Christ should have demonstrated the truth of His Resurrection by proofs?" data-chapter="Whether Christ should have demonstrated the truth of His Resurrection by proofs?" data-kind="atom"></span>
+<span class="atom-split" data-atom="370" data-title="Whether Christ should have demonstrated the truth of His Resurrection by proofs?" data-chapter="Whether Christ should have demonstrated the truth of His Resurrection by proofs?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ should not have demonstrated the truth of His
 Resurrection by proofs. For Ambrose says (De Fide, ad Gratian. i): "Let there be no proofs where
@@ -19759,7 +19759,7 @@ does not require such helps for belief. Hence, to put to shame the faith of some
 who are so ready to believe God, even without beholding signs, are blessed in comparison with
 them who do not believe except they see the like.
 
-<span class="atom-split" data-atom="371" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (1/2)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="371" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (1/2)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the proofs which Christ made use of did not sufficiently
 manifest the truth of His Resurrection. For after the Resurrection Christ showed nothing to His
@@ -19856,7 +19856,7 @@ in Evang.): "The Lord manifested two wonders, which are mutually contrary accord
 reason, when after the Resurrection He showed His body as incorruptible and at the same time
 palpable."
 
-<span class="atom-split" data-atom="372" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (2/2)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="372" data-title="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection? (2/2)" data-chapter="Whether the proofs which Christ made use of manifested sufficiently the truth of His Resurrection?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: As [Augustine](/figures/augustine) says (Tract. cxxi super Joan.), "these words of our Lord,
 'Do not touch Me, for I am not yet ascended to My Father,'" show "that in that woman there is a
@@ -19897,14 +19897,14 @@ that this is Mark's expression---'sitting on the right side'; afterwards when th
 where the Lord's body had lain, they beheld two angels, who were at first seated, as John says, and
 who afterwards rose so as to be seen standing, as Luke relates."
 
-<span class="atom-split" data-atom="373" data-title="OF THE CAUSALITY OF CHRIST'S RESURRECTION (TWO ARTICLES)" data-chapter="OF THE CAUSALITY OF CHRIST'S RESURRECTION (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="373" data-title="OF THE CAUSALITY OF CHRIST'S RESURRECTION (TWO ARTICLES)" data-chapter="OF THE CAUSALITY OF CHRIST'S RESURRECTION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the causality of Christ's Resurrection, concerning which there are
 two points of inquiry:
 (1) Whether Christ's Resurrection is the cause of our resurrection?
 (2) Whether it is the cause of our justification?
 
-<span class="atom-split" data-atom="374" data-title="Whether Christ's Resurrection is the cause of the resurrection of our bodies?" data-chapter="Whether Christ's Resurrection is the cause of the resurrection of our bodies?" data-kind="atom"></span>
+<span class="atom-split" data-atom="374" data-title="Whether Christ's Resurrection is the cause of the resurrection of our bodies?" data-chapter="Whether Christ's Resurrection is the cause of the resurrection of our bodies?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Resurrection is not the cause of the resurrection of
 our bodies, because, given a sufficient cause, the effect must follow of necessity. If, then, Christ's
@@ -19996,7 +19996,7 @@ withdrew from mortal life---is the cause of the destruction of our death; while 
 whereby He inaugurated immortal life, is the cause of the repairing of our life. But Christ's Passion
 is furthermore a meritorious cause, as stated above (Q[48], A[1]).
 
-<span class="atom-split" data-atom="375" data-title="Whether Christ's Resurrection is the cause of the resurrection of souls?" data-chapter="Whether Christ's Resurrection is the cause of the resurrection of souls?" data-kind="atom"></span>
+<span class="atom-split" data-atom="375" data-title="Whether Christ's Resurrection is the cause of the resurrection of souls?" data-chapter="Whether Christ's Resurrection is the cause of the resurrection of souls?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Resurrection is not the cause of the resurrection of
 souls, because [Augustine](/figures/augustine) says (Tract. xxiii super Joan.) that "bodies rise by His human dispensation,
@@ -20056,7 +20056,7 @@ cause of newness of life, which comes through grace or justice: consequently, th
 rose again for our justification." But Christ's Passion was also a meritorious cause, as stated above
 (A[1], ad 4; Q[48], A[1]).
 
-<span class="atom-split" data-atom="376" data-title="OF THE ASCENSION OF CHRIST (SIX ARTICLES)" data-chapter="OF THE ASCENSION OF CHRIST (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="376" data-title="OF THE ASCENSION OF CHRIST (SIX ARTICLES)" data-chapter="OF THE ASCENSION OF CHRIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider Christ's Ascension: concerning which there are six points of inquiry:
 (1) Whether it belonged for Christ to ascend into heaven?
@@ -20066,7 +20066,7 @@ We have now to consider Christ's Ascension: concerning which there are six point
 (5) Whether He ascended above all spiritual creatures?
 (6) Of the effect of the Ascension.
 
-<span class="atom-split" data-atom="377" data-title="Whether it was fitting for Christ to ascend into heaven?" data-chapter="Whether it was fitting for Christ to ascend into heaven?" data-kind="atom"></span>
+<span class="atom-split" data-atom="377" data-title="Whether it was fitting for Christ to ascend into heaven?" data-chapter="Whether it was fitting for Christ to ascend into heaven?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting for Christ to ascend into heaven. For the
 Philosopher says (De Coelo ii) that "things which are in a state of perfection possess their good
@@ -20152,7 +20152,7 @@ during forty days He established the fact of His being alive again. Or the forty
 understood as a figure of this world, wherein Christ dwells in His Church: inasmuch as man is
 made out of the four elements, and is cautioned not to transgress the Decalogue."
 
-<span class="atom-split" data-atom="378" data-title="Whether Christ's Ascension into heaven belonged to Him according to His Divine Nature?" data-chapter="Whether Christ's Ascension into heaven belonged to Him according to His Divine Nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="378" data-title="Whether Christ's Ascension into heaven belonged to Him according to His Divine Nature?" data-chapter="Whether Christ's Ascension into heaven belonged to Him according to His Divine Nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Ascension into heaven belonged to Him according to
 His Divine Nature. For, it is written (Ps. 46:6): "God is ascended with jubilee": and (Dt. 33:26):
@@ -20209,7 +20209,7 @@ Reply to Objection 3: Christ is said to ascend to the Father, inasmuch as He asc
 the right hand of the Father; and this is befitting Christ in a measure according to His Divine Nature,
 and in a measure according to His human nature, as will be said later (Q[58], A[3])
 
-<span class="atom-split" data-atom="379" data-title="Whether Christ ascended by His own power?" data-chapter="Whether Christ ascended by His own power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="379" data-title="Whether Christ ascended by His own power?" data-chapter="Whether Christ ascended by His own power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not ascend by His own power, because it is written
 (Mk. 16:19) that "the Lord Jesus, after He had spoken to them, was taken up to heaven"; and (Acts
@@ -20277,7 +20277,7 @@ be commensurate with space, according to the division of which time is reckoned,
 Physics vi. Consequently, it is not necessary for a body moved by God to be moved instantaneously,
 but with such speed as God disposes.
 
-<span class="atom-split" data-atom="380" data-title="Whether Christ ascended above all the heavens?" data-chapter="Whether Christ ascended above all the heavens?" data-kind="atom"></span>
+<span class="atom-split" data-atom="380" data-title="Whether Christ ascended above all the heavens?" data-chapter="Whether Christ ascended above all the heavens?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not ascend above all the heavens, for it is written
 (Ps. 10:5): "The Lord is in His holy temple, the Lord's throne is in heaven." But what is in heaven
@@ -20346,7 +20346,7 @@ from its natural principles, but from the beatified soul, from which it derives 
 the upward motion of a glorified body is not violent, so neither is its rest violent: consequently,
 there is nothing to prevent it from being everlasting.
 
-<span class="atom-split" data-atom="381" data-title="Whether Christ's body ascended above every spiritual creature?" data-chapter="Whether Christ's body ascended above every spiritual creature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="381" data-title="Whether Christ's body ascended above every spiritual creature?" data-chapter="Whether Christ's body ascended above every spiritual creature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's body did not ascend above every spiritual creature.
 For no fitting comparison can be made between things which have no common ratio. But place is
@@ -20388,7 +20388,7 @@ thus there is no place so high as to exceed the dignity of a spiritual substance
 objection runs. Or it may be considered on the part of the dignity of the things to which a place is
 attributed: and in this way it is due to the body of Christ to be above spiritual creatures.
 
-<span class="atom-split" data-atom="382" data-title="Whether Christ's Ascension is the cause of our salvation?" data-chapter="Whether Christ's Ascension is the cause of our salvation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="382" data-title="Whether Christ's Ascension is the cause of our salvation?" data-chapter="Whether Christ's Ascension is the cause of our salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's Ascension is not the cause of our salvation. For, Christ
 was the cause of our salvation in so far as He merited it. But He merited nothing for us by His
@@ -20456,7 +20456,7 @@ Cor. 14:8, to confirm faith in the Resurrection: "Last of all He was seen also b
 out of due time": which vision would not confirm the truth of the Resurrection except he had beheld
 Christ's very body.
 
-<span class="atom-split" data-atom="383" data-title="OF CHRIST'S SITTING AT THE RIGHT HAND OF THE FATHER (FOUR ARTICLES)" data-chapter="OF CHRIST'S SITTING AT THE RIGHT HAND OF THE FATHER (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="383" data-title="OF CHRIST'S SITTING AT THE RIGHT HAND OF THE FATHER (FOUR ARTICLES)" data-chapter="OF CHRIST'S SITTING AT THE RIGHT HAND OF THE FATHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 WE have now to consider Christ's sitting at the right hand of the Father, concerning which there
 are four points of inquiry:
@@ -20465,7 +20465,7 @@ are four points of inquiry:
 (3) Whether it belongs to Him according to His [human nature](/axes/human_nature)?
 (4) Whether it is something proper to Christ?
 
-<span class="atom-split" data-atom="384" data-title="Whether it is fitting that Christ should sit at the right hand of God the Father?" data-chapter="Whether it is fitting that Christ should sit at the right hand of God the Father?" data-kind="atom"></span>
+<span class="atom-split" data-atom="384" data-title="Whether it is fitting that Christ should sit at the right hand of God the Father?" data-chapter="Whether it is fitting that Christ should sit at the right hand of God the Father?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting that Christ should sit at the right hand of God the Father.
 For right and left are differences of bodily position. But nothing corporeal can be applied to God,
@@ -20513,7 +20513,7 @@ Stephen in his toil of combat saw Him standing whom He had as his helper. But Ma
 Him as seated after the Ascension, because after the glory of His Ascension He will at the end be
 seen as judge."
 
-<span class="atom-split" data-atom="385" data-title="Whether it belongs to Christ as God to sit at the right hand of the Father?" data-chapter="Whether it belongs to Christ as God to sit at the right hand of the Father?" data-kind="atom"></span>
+<span class="atom-split" data-atom="385" data-title="Whether it belongs to Christ as God to sit at the right hand of the Father?" data-chapter="Whether it belongs to Christ as God to sit at the right hand of the Father?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it does not belong to Christ as God to sit at the right hand of
 the Father. For, as God, Christ is the Father's right hand. But it does not appear to be the same thing
@@ -20559,7 +20559,7 @@ Father or of the Son, in the aforesaid sense, although by a kind of appropriatio
 the Son, to whom equality is appropriated; thus Augustine says (De Doctr. Christ. i) that "in the
 Father there is unity, in the Son equality, in the Holy Ghost the connection of unity with equality."
 
-<span class="atom-split" data-atom="386" data-title="Whether it belongs to Christ as man to sit at the right hand of the Father?" data-chapter="Whether it belongs to Christ as man to sit at the right hand of the Father?" data-kind="atom"></span>
+<span class="atom-split" data-atom="386" data-title="Whether it belongs to Christ as man to sit at the right hand of the Father?" data-chapter="Whether it belongs to Christ as man to sit at the right hand of the Father?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it does not belong to Christ as man to sit at the right hand of
 the Father, because, as Damascene says (De Fide Orth. iv): "What we call the Father's right hand
@@ -20621,7 +20621,7 @@ Reply to Objection 3: It does not belong to Christ's human nature to be in equal
 Father, but only to the Person who assumed it; but it does belong even to the assumed human nature
 to share in God's mightier gifts, in so far as it implies exaltation above other creatures.
 
-<span class="atom-split" data-atom="387" data-title="Whether it is proper to Christ to sit at the right hand of the Father?" data-chapter="Whether it is proper to Christ to sit at the right hand of the Father?" data-kind="atom"></span>
+<span class="atom-split" data-atom="387" data-title="Whether it is proper to Christ to sit at the right hand of the Father?" data-chapter="Whether it is proper to Christ to sit at the right hand of the Father?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not proper to Christ to sit at the right hand of the Father,
 because the Apostle says (Eph. 2:4,6): "God . . . hath raised us up together, and hath made us sit
@@ -20682,7 +20682,7 @@ thing alone, to stand nigh to Him." Still it can be said that the sons of Zebede
 excellence in sharing His judiciary power; hence they did not ask to sit on the Father's right hand
 or left, but on Christ's.
 
-<span class="atom-split" data-atom="388" data-title="OF CHRIST'S JUDICIARY POWER (SIX ARTICLES)" data-chapter="OF CHRIST'S JUDICIARY POWER (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="388" data-title="OF CHRIST'S JUDICIARY POWER (SIX ARTICLES)" data-chapter="OF CHRIST'S JUDICIARY POWER (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider Christ's judiciary power. Under this head there are six points of
 inquiry:
@@ -20697,7 +20697,7 @@ It will be more suitable to consider the execution of the Last Judgment when we 
 pertaining to the end of the world [*See XP, QQ[88], seqq.]. For the present it will be enough to
 touch on those points that concern Christ's dignity.
 
-<span class="atom-split" data-atom="389" data-title="Whether judiciary power is to be specially attributed to Christ?" data-chapter="Whether judiciary power is to be specially attributed to Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="389" data-title="Whether judiciary power is to be specially attributed to Christ?" data-chapter="Whether judiciary power is to be specially attributed to Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that judiciary power is not to be specially attributed to Christ. For
 judgment of others seems to belong to their lord; hence it is written (Rom. 14:4): "Who art thou
@@ -20755,7 +20755,7 @@ when fear is driven away, you shall have freedom for convincing." Consequently, 
 is attributed to the Holy Ghost, not as regards the rule of judgment, but as regards man's desire to
 judge others aright.
 
-<span class="atom-split" data-atom="390" data-title="Whether judiciary power belongs to Christ as man?" data-chapter="Whether judiciary power belongs to Christ as man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="390" data-title="Whether judiciary power belongs to Christ as man?" data-chapter="Whether judiciary power belongs to Christ as man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that judiciary power does not belong to Christ as man. For [Augustine](/figures/augustine)
 says (De Vera Relig. xxxi) that judgment is attributed to the Son inasmuch as He is the law of the
@@ -20830,7 +20830,7 @@ the secrets of hearts, as we stated above (Q[10], A[2]), when dealing with the k
 Hence it is written (Rom. 2:16): "In the day when God shall judge the secrets of men by Jesus
 Christ."
 
-<span class="atom-split" data-atom="391" data-title="Whether Christ acquired His judiciary power by His merits?" data-chapter="Whether Christ acquired His judiciary power by His merits?" data-kind="atom"></span>
+<span class="atom-split" data-atom="391" data-title="Whether Christ acquired His judiciary power by His merits?" data-chapter="Whether Christ acquired His judiciary power by His merits?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not acquire His judiciary power by His merits. For
 judiciary power flows from the royal dignity: according to Prov. 20:8: "The king that sitteth on the
@@ -20876,7 +20876,7 @@ Reply to Objection 3: This argument holds good in regard to habitual grace, whic
 Christ's soul. But although judiciary power be Christ's due in these ways, it is not hindered from
 being His due from merit.
 
-<span class="atom-split" data-atom="392" data-title="Whether judiciary power belongs to Christ with respect to all human affairs?" data-chapter="Whether judiciary power belongs to Christ with respect to all human affairs?" data-kind="atom"></span>
+<span class="atom-split" data-atom="392" data-title="Whether judiciary power belongs to Christ with respect to all human affairs?" data-chapter="Whether judiciary power belongs to Christ with respect to all human affairs?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that judiciary power concerning all human affairs does not belong
 to Christ. For as we read in Lk. 12:13,14, when one of the crowd said to Christ: "Speak to my
@@ -20932,7 +20932,7 @@ Reply to Objection 3: Judgments of this kind were exercised by Christ before His
 inasmuch as He is the Word of God: and the soul united with Him personally became a partaker
 of this power by the Incarnation.
 
-<span class="atom-split" data-atom="393" data-title="Whether after the Judgment that takes place in the present time, there remains yet another General Judgment?" data-chapter="Whether after the Judgment that takes place in the present time, there remains yet another General Judgment?" data-kind="atom"></span>
+<span class="atom-split" data-atom="393" data-title="Whether after the Judgment that takes place in the present time, there remains yet another General Judgment?" data-chapter="Whether after the Judgment that takes place in the present time, there remains yet another General Judgment?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that after the Judgment that takes place in the present time, there
 does not remain another General Judgment. For a judgment serves no purpose after the final allotment
@@ -21003,7 +21003,7 @@ of the body, once it is separated from the body it enters into an unchangeable c
 its judgment. But the body remains subject to change down to the close of time: and therefore it
 must receive its reward or punishment then, in the last Judgment.
 
-<span class="atom-split" data-atom="394" data-title="Whether Christ's judiciary power extends to the angels?" data-chapter="Whether Christ's judiciary power extends to the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="394" data-title="Whether Christ's judiciary power extends to the angels?" data-chapter="Whether Christ's judiciary power extends to the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ's judiciary power does not extend to the angels, because
 the good and wicked angels alike were judged in the beginning of the world, when some fell through

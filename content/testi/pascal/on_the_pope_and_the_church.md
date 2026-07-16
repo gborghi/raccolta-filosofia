@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/pascal/on_the_pope_and_the_church" data-philosopher="Pascal"></div>
 
 
-<span class="atom-split" data-atom="002" data-title="On the Pope and the Church" data-chapter="I. Church. Pope." data-kind="intro"></span>
+<span class="atom-split" data-atom="002" data-title="On the Pope and the Church" data-chapter="I. Church. Pope." data-kind="intro" data-srclang="en"></span>
 
 UNITY, MULTITUDE. CONSIDERING the Church in its unity, the Pope, for the time being, is head over all; and as it were, everything. Considering it in multitude, the Pope is but a part.
 
@@ -44,13 +44,13 @@ II. We are not to judge of the Papal office by a few expressions of the Fathers,
 
 III. + The Pope dislikes and fears the learned, [“Les savants the copies have here “les souverains,” in contradiction to the MS.] who are not attached to the See by vows.
 
-<span class="atom-split" data-atom="003" data-title="IV. + Kings can dispose of their sovereignties; but Popes cannot dispose of theirs." data-chapter="IV. + Kings can dispose of their sovereignties; but Popes cannot dispose of theirs." data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="IV. + Kings can dispose of their sovereignties; but Popes cannot dispose of theirs." data-chapter="IV. + Kings can dispose of their sovereignties; but Popes cannot dispose of theirs." data-kind="atom" data-srclang="en"></span>
 
 V. We desiderate certainty. We like that the Pope should be infallible in the faith, and that learned doctors [The allusion is quietly ironical, to the learned doctors of probability.] should be the like in morals; and then we are secure.
 
 VI. God does not work miracles in the ordinary course of things in his church. It would be remarkable if infallibility were to be found in one individual; but that it should be found in a multitude seems so natural, that the intervention of Divinity is concealed in nature, as in all his other works.
 
-<span class="atom-split" data-atom="004" data-title="VII. + In the Bull, “ Cum ex apostolatus officio” by Paul IV., published in 1558: —" data-chapter="VII. + In the Bull, “ Cum ex apostolatus officio” by Paul IV., published in 1558: —" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="VII. + In the Bull, “ Cum ex apostolatus officio” by Paul IV., published in 1558: —" data-chapter="VII. + In the Bull, “ Cum ex apostolatus officio” by Paul IV., published in 1558: —" data-kind="atom" data-srclang="en"></span>
 
 + “We order and command, that every one of those who have wandered, or fallen into heresy or schism, of whatsoever condition, lay, ecclesiastical, bishops, archbishops, patriarchs, primates, cardinals, counts, marquises, dukes, kings and emperors; besides the sentences and penalties subjoined, be absolutely deprived, wholly, and entirely, of their orders, sees, benefices, offices, kingdoms, empires; and incapable of enjoying them again for evermore.
 
@@ -120,7 +120,7 @@ They make their stand upon this one point, — that this sacrament is figurative
 
 XIII. There is a pleasure in being in a vessel tossed by storms, if we can be satisfied that we shall not perish. The persecutions which agitate the church are of this nature.
 
-<span class="atom-split" data-atom="005" data-title="XV. Priests of all sorts of people, as under Jeroboam." data-chapter="XV. Priests of all sorts of people, as under Jeroboam." data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="XV. Priests of all sorts of people, as under Jeroboam." data-chapter="XV. Priests of all sorts of people, as under Jeroboam." data-kind="atom" data-srclang="en"></span>
 
 + It is shocking to be told, as in the present day, — the discipline of the church is so good, that it would be criminal to propose changes. Formerly it was infallibly good, and yet we find that it admitted of changes; and now, being what it is, we are not to desire any change!
 
@@ -134,7 +134,7 @@ XVII. + It is not the absolution alone which remits sin in the [sacrament](/conc
 
 XVIII. + The church teaches, and God gives his inspiration; — both, with infallibility. The office of the church is only to prepare for pardon or condemnation. What she does suffices for condemnation, not for inspiration (“suffit pour condamner, non pour inspirer”).
 
-<span class="atom-split" data-atom="006" data-title="XIX. + On confessions and absolutions without signs of sorrow: — (1/2)" data-chapter="XIX. + On confessions and absolutions without signs of sorrow: —" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="XIX. + On confessions and absolutions without signs of sorrow: — (1/2)" data-chapter="XIX. + On confessions and absolutions without signs of sorrow: —" data-kind="atom" data-srclang="en"></span>
 
 God alone sees the heart of man; the church can judge only of his external conduct. God pardons as soon as he discerns penitence in the heart; the church when she sees it in the life. God can make a church so pure within, that it may confound, by its internal and spiritual sanctity, the internal impiety of proud sages and pharisees; and the church can produce a body of men, whose external conduct may be so pure, as to confound the morality of the heathen. If, among them, there be hypocrites, but so disguised that the church cannot detect the imposture, she endures them; for although they cannot deceive God, they may escape the eye of man. Thus she suffers no dishonour from a conduct on the part of her members which bears the appearance of sanctity.
 
@@ -182,7 +182,7 @@ Thence it was that, in former times, none were found among the ranks of Christia
 
 The holiness of the church is utterly sullied by the debasements of the wicked: and her own children, born and nourished from their infancy in her bosom, are those who lay bare her inmost recesses — the celebration of her most august mysteries — to the invasion of her deadly enemies, worldliness of spirit, ambition, revenge, impurity, concupiscence: while the love borne by the church to her children compels her to admit, without resistance, these her most cruel persecutors.
 
-<span class="atom-split" data-atom="007" data-title="XIX. + On confessions and absolutions without signs of sorrow: — (2/2)" data-chapter="XIX. + On confessions and absolutions without signs of sorrow: —" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="XIX. + On confessions and absolutions without signs of sorrow: — (2/2)" data-chapter="XIX. + On confessions and absolutions without signs of sorrow: —" data-kind="atom" data-srclang="en"></span>
 
 But it is not the church to which we ought to impute the evils which have ensued upon this abandonment of so salutary a discipline: she has never changed in spirit, although she may have changed in conduct. Considering that the postponement of baptism left large numbers of children under the curse of Adam, she was desirous of delivering them from the danger of perdition to which they were exposed, by hastening her succour; and now, that tender Parent sees, with deep concern, that the means by which she sought the salvation of the children, has occasioned the ruin of the adults.
 

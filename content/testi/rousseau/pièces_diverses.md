@@ -18,6 +18,6 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/pièces_diverses" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="PIÈCES DIVERSES" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="PIÈCES DIVERSES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Table générale de tous les tons et de toutes les clefs

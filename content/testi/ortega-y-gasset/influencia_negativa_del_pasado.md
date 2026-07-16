@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/influencia_negativa_del_pasado" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Influencia negativa del pasado" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Influencia negativa del pasado" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La intención de este ensayo se reduce, como he dicho, a filiar el arte nuevo mediante algunos de sus rasgos diferenciales. Pero, a su vez, esta intención se halla al servicio de una curiosidad más larga que estas páginas no se atreven a satisfacer, dejando al lector que la sienta, abandonado a su privada meditación. Me refiero a lo siguiente.
 

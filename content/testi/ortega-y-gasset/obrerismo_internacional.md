@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/obrerismo_internacional" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Obrerismo internacional" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Obrerismo internacional" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En tanto, los obreros de Francia, Italia y Portugal lanzan su ultimátum al Gobierno español para que levante la suspensión de garantías, liberte a los presos políticos exentos de proceso y abra los centros obreros.
 

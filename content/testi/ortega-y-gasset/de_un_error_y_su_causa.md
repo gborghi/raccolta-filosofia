@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/de_un_error_y_su_causa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="De un error y su causa" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="De un error y su causa" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Quién quiere este Gobierno? Ambas elecciones, la popular y la senatorial, se han mostrado crudamente adversas para él. Al extremo derechismo que el Ministerio representa, ha respondido la nación con ciertas victorias de extremo izquierdismo sobremanera características. Por su parte, los regionalistas maldicen del Gabinete, y los carlistas parecen no menos insatisfechos. Entre tanto, los afines, los hombres del partido liberal-conservador, refrescan el color de la línea que los separa del maurismo y enseñan a éste su adjetivo liberal como se enseña el puño cerrado. ¿Quién quiere, pues, este Gobierno?
 

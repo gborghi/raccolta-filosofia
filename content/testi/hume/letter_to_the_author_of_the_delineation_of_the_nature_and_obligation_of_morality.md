@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/hume/letter_to_the_author_of_the_delineation_of_the_nature_and_obligation_of_morality" data-philosopher="Hume"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTER TO THE AUTHOR OF THE DELINEATION OF THE NATURE AND OBLIGATION OF MORALITY" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LETTER TO THE AUTHOR OF THE DELINEATION OF THE NATURE AND OBLIGATION OF MORALITY" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 LETTER FROM DAVID HUME, ESQ. TO THE AUTHOR OF THE DELINEATION OF THE NATURE AND OBLIGATION OF MORALITY.
 

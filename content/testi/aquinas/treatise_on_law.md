@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_law" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Law" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Law" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON LAW (QQ 90-108)
 
-<span class="atom-split" data-atom="002" data-title="OF THE ESSENCE OF LAW (FOUR ARTICLES)" data-chapter="OF THE ESSENCE OF LAW (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE ESSENCE OF LAW (FOUR ARTICLES)" data-chapter="OF THE ESSENCE OF LAW (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the extrinsic principles of acts. Now the extrinsic principle inclining
 to evil is the devil, of whose temptations we have spoken in the FP, Q[114]. But the extrinsic
@@ -39,7 +39,7 @@ Under the first head there are four points of inquiry:
 (3) Its cause;
 (4) The promulgation of law.
 
-<span class="atom-split" data-atom="003" data-title="Whether law is something pertaining to reason?" data-chapter="Whether law is something pertaining to reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether law is something pertaining to reason?" data-chapter="Whether law is something pertaining to reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that law is not something pertaining to reason. For the Apostle
 says (Rom. 7:23): "I see another law in my members," etc. But nothing pertaining to reason is in
@@ -95,7 +95,7 @@ of law, it needs to be in accord with some rule of reason. And in this sense is 
 saying that the will of the sovereign has the force of law; otherwise the sovereign's will would savor
 of lawlessness rather than of law.
 
-<span class="atom-split" data-atom="004" data-title="Whether the law is always something directed to the common good?" data-chapter="Whether the law is always something directed to the common good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether the law is always something directed to the common good?" data-chapter="Whether the law is always something directed to the common good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the law is not always directed to the common good as to its
 end. For it belongs to law to command and to forbid. But commands are directed to certain individual
@@ -144,7 +144,7 @@ that which is traced back to the first indemonstrable principles, so nothing sta
 to the practical reason, unless it be directed to the last end which is the common good: and whatever
 stands to reason in this sense, has the nature of a law.
 
-<span class="atom-split" data-atom="005" data-title="Whether the reason of any man is competent to make laws?" data-chapter="Whether the reason of any man is competent to make laws?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether the reason of any man is competent to make laws?" data-chapter="Whether the reason of any man is competent to make laws?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the reason of any man is competent to make laws. For the
 Apostle says (Rom. 2:14) that "when the Gentiles, who have not the law, do by nature those things
@@ -187,7 +187,7 @@ is ordained to the good of a single state, which is a perfect community. Consequ
 a family, can indeed make certain commands or ordinances, but not such as to have properly the
 force of law.
 
-<span class="atom-split" data-atom="006" data-title="Whether promulgation is essential to a law?" data-chapter="Whether promulgation is essential to a law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether promulgation is essential to a law?" data-chapter="Whether promulgation is essential to a law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that promulgation is not essential to a law. For the [natural law](/positions/natural_law)
 above all has the character of law. But the natural law needs no promulgation. Therefore it is not
@@ -224,7 +224,7 @@ Reply to Objection 3: The promulgation that takes place now, extends to future t
 of the durability of written characters, by which means it is continually promulgated. Hence Isidore
 says (Etym. v, 3; ii, 10) that "[lex](/concepts/law) [law] is derived from legere [to read] because it is written."
 
-<span class="atom-split" data-atom="007" data-title="OF THE VARIOUS KINDS OF LAW (SIX ARTICLES)" data-chapter="OF THE VARIOUS KINDS OF LAW (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="OF THE VARIOUS KINDS OF LAW (SIX ARTICLES)" data-chapter="OF THE VARIOUS KINDS OF LAW (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the various kinds of law: under which head there are six points of inquiry:
 (1) Whether there is an [eternal law](/concepts/eternal_law)?
@@ -234,7 +234,7 @@ We must now consider the various kinds of law: under which head there are six po
 (5) Whether there is one Divine law, or several?
 (6) Whether there is a law of sin?
 
-<span class="atom-split" data-atom="008" data-title="Whether there is an eternal law?" data-chapter="Whether there is an eternal law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether there is an eternal law?" data-chapter="Whether there is an eternal law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no [eternal law](/concepts/eternal_law). Because every law is imposed on
 someone. But there was not someone from [eternity](/positions/eternity) on whom a law could be imposed: since God
@@ -274,7 +274,7 @@ accidentally, in a governor whose end is extrinsic to him, and to which end his 
 ordained. But the end of the Divine government is God Himself, and His law is not distinct from
 Himself. Wherefore the eternal law is not ordained to another end.
 
-<span class="atom-split" data-atom="009" data-title="Whether there is in us a natural law?" data-chapter="Whether there is in us a natural law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether there is in us a natural law?" data-chapter="Whether there is in us a natural law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no [natural law](/positions/natural_law) in us. Because man is governed
 sufficiently by the [eternal law](/concepts/eternal_law): for [Augustine](/figures/augustine) says (De Lib. Arb. i) that "the eternal law is that by
@@ -329,7 +329,7 @@ called a law, since a law is something pertaining to reason, as stated above (Q[
 creatures, however, do not partake thereof in a rational manner, wherefore there is no participation
 of the eternal law in them, except by way of similitude.
 
-<span class="atom-split" data-atom="010" data-title="Whether there is a human law?" data-chapter="Whether there is a human law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether there is a human law?" data-chapter="Whether there is a human law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is not a [human law](/concepts/human_law). For the [natural law](/positions/natural_law) is a participation
 of the [eternal law](/concepts/eternal_law), as stated above (A[2]). Now through the eternal law "all things are most orderly,"
@@ -382,7 +382,7 @@ concerned. Wherefore human laws cannot have that inerrancy that belongs to the d
 conclusions of sciences. Nor is it necessary for every measure to be altogether unerring and certain,
 but according as it is possible in its own particular genus.
 
-<span class="atom-split" data-atom="011" data-title="Whether there was any need for a Divine law?" data-chapter="Whether there was any need for a Divine law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether there was any need for a Divine law?" data-chapter="Whether there was any need for a Divine law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was no need for a [Divine law](/concepts/divine_law). Because, as stated above
 (A[2]), the [natural law](/positions/natural_law) is a participation in us of the [eternal law](/concepts/eternal_law). But the eternal law is a Divine
@@ -442,7 +442,7 @@ the precepts of the Divine law.
 Reply to Objection 3: Irrational creatures are not ordained to an end higher than that which is
 proportionate to their natural powers: consequently the comparison fails.
 
-<span class="atom-split" data-atom="012" data-title="Whether there is but one Divine law?" data-chapter="Whether there is but one Divine law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether there is but one Divine law?" data-chapter="Whether there is but one Divine law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is but one [Divine law](/concepts/divine_law). Because, where there is one king
 in one kingdom there is but one law. Now the whole of mankind is compared to God as to one king,
@@ -508,7 +508,7 @@ to both the perfect and the imperfect: wherefore it is one and the same for all.
 directs man also in certain particular matters, to which the perfect and imperfect do not stand in
 the same relation. Hence the necessity for the Divine law to be twofold, as already explained.
 
-<span class="atom-split" data-atom="013" data-title="Whether there is a law in the fomes of sin?" data-chapter="Whether there is a law in the fomes of sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether there is a law in the fomes of sin?" data-chapter="Whether there is a law in the fomes of sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no law of the "fomes" of sin. For Isidore says (Etym.
 v) that the "law is based on reason." But the "fomes" of sin is not based on reason, but deviates
@@ -568,14 +568,14 @@ thus it is ordained to the common good, namely, to the preservation of nature in
 the individual. And this is in man also, in so far as sensuality is subject to reason. But it is called
 "fomes" in so far as it strays from the order of reason.
 
-<span class="atom-split" data-atom="014" data-title="OF THE EFFECTS OF LAW (TWO ARTICLES)" data-chapter="OF THE EFFECTS OF LAW (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="OF THE EFFECTS OF LAW (TWO ARTICLES)" data-chapter="OF THE EFFECTS OF LAW (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of law; under which head there are two points of inquiry:
 (1) Whether an effect of law is to make men good?
 (2) Whether the effects of law are to command, to forbid, to permit, and to punish, as the Jurist
 states?
 
-<span class="atom-split" data-atom="015" data-title="Whether an effect of law is to make men good?" data-chapter="Whether an effect of law is to make men good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether an effect of law is to make men good?" data-chapter="Whether an effect of law is to make men good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it is not an effect of law to make men good. For men are good through
 virtue, since virtue, as stated in Ethic. ii, 6 is "that which makes its subject good." But virtue is in
@@ -641,7 +641,7 @@ of a law, it aims at the citizens' being good. For all it has in the nature of a
 an ordinance made by a superior to his subjects, and aims at being obeyed by them, which is to
 make them good, not simply, but with respect to that particular government.
 
-<span class="atom-split" data-atom="016" data-title="Whether the acts of law are suitably assigned?" data-chapter="Whether the acts of law are suitably assigned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether the acts of law are suitably assigned?" data-chapter="Whether the acts of law are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the acts of law are not suitably assigned as consisting in
 "command," "prohibition," "permission" and "punishment." For "every law is a general precept,"
@@ -692,7 +692,7 @@ Reply to Objection 4: From becoming accustomed to avoid evil and fulfill what is
 through fear of punishment, one is sometimes led on to do so likewise, with delight and of one's
 own accord. Accordingly, law, even by punishing, leads men on to being good.
 
-<span class="atom-split" data-atom="017" data-title="OF THE ETERNAL LAW (SIX ARTICLES)" data-chapter="OF THE ETERNAL LAW (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="OF THE ETERNAL LAW (SIX ARTICLES)" data-chapter="OF THE ETERNAL LAW (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider each law by itself; and (1) The [eternal law](/concepts/eternal_law); (2) The [natural law](/positions/natural_law); (3) The
 [human law](/concepts/human_law); (4) The [old law](/concepts/divine_law); (5) The new law, which is the law of the Gospel. Of the sixth law
@@ -705,7 +705,7 @@ Concerning the first there are six points of inquiry:
 (5) Whether natural contingencies are subject to the eternal law?
 (6) Whether all human things are subject to it?
 
-<span class="atom-split" data-atom="018" data-title="Whether the eternal law is a sovereign type [*Ratio] existing in God?" data-chapter="Whether the eternal law is a sovereign type [*Ratio] existing in God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether the eternal law is a sovereign type [*Ratio] existing in God?" data-chapter="Whether the eternal law is a sovereign type [*Ratio] existing in God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [eternal law](/concepts/eternal_law) is not a sovereign type existing in God. For
 there is only one eternal law. But there are many types of things in the Divine mind; for [Augustine](/figures/augustine)
@@ -763,7 +763,7 @@ measure of things: since each thing has so far truth in it, as it represents the
 stated in the FP, Q[16], A[1]. Consequently the Divine intellect is true in itself; and its type is truth
 itself.
 
-<span class="atom-split" data-atom="019" data-title="Whether the eternal law is known to all?" data-chapter="Whether the eternal law is known to all?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether the eternal law is known to all?" data-chapter="Whether the eternal law is known to all?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [eternal law](/concepts/eternal_law) is not known to all. Because, as the Apostle
 says (1 Cor. 2:11), "the things that are of God no man knoweth, but the Spirit of God." But the
@@ -807,7 +807,7 @@ what is put forward is true. In another way we speak of a superior judging of a 
 kind of practical judgment, as to whether he should be such and such or not. And thus none can
 judge of the eternal law.
 
-<span class="atom-split" data-atom="020" data-title="Whether every law is derived from the eternal law?" data-chapter="Whether every law is derived from the eternal law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether every law is derived from the eternal law?" data-chapter="Whether every law is derived from the eternal law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not every law is derived from the [eternal law](/concepts/eternal_law). For there is a
 law of the "fomes," as stated above (Q[91], A[6]), which is not derived from that [Divine law](/concepts/divine_law) which
@@ -863,7 +863,7 @@ of the eternal law. It would be different, were human law to sanction what the e
 Consequently it does not follow that human law is not derived from the eternal law, but that it is
 not on a perfect equality with it.
 
-<span class="atom-split" data-atom="021" data-title="Whether necessary and eternal things are subject to the eternal law?" data-chapter="Whether necessary and eternal things are subject to the eternal law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether necessary and eternal things are subject to the eternal law?" data-chapter="Whether necessary and eternal things are subject to the eternal law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that necessary and eternal things are subject to the [eternal law](/concepts/eternal_law). For
 whatever is reasonable is subject to reason. But the Divine will is reasonable, for it is just. Therefore
@@ -913,7 +913,7 @@ have a cause of their necessity: and thus they derive from something else the fa
 be otherwise. And this is in itself a most effective restraint; for whatever is restrained, is said to be
 restrained in so far as it cannot do otherwise than it is allowed to.
 
-<span class="atom-split" data-atom="022" data-title="Whether natural contingents are subject to the eternal law?" data-chapter="Whether natural contingents are subject to the eternal law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether natural contingents are subject to the eternal law?" data-chapter="Whether natural contingents are subject to the eternal law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that natural contingents are not subject to the [eternal law](/concepts/eternal_law). Because
 promulgation is essential to law, as stated above (Q[90], A[4]). But a law cannot be promulgated
@@ -966,7 +966,7 @@ i.e. God, from Whose providence nothing can escape, as stated in the FP, Q[22], 
 the eternal law is the type of Divine providence, as stated above (A[1]), hence the defects of natural
 things are subject to the eternal law.
 
-<span class="atom-split" data-atom="023" data-title="Whether all human affairs are subject to the eternal law?" data-chapter="Whether all human affairs are subject to the eternal law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether all human affairs are subject to the eternal law?" data-chapter="Whether all human affairs are subject to the eternal law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all human affairs are subject to the [eternal law](/concepts/eternal_law). For the
 Apostle says (Gal. 5:18): "If you are led by the spirit you are not under the law." But the righteous
@@ -1038,7 +1038,7 @@ deserve happiness, others unhappiness, so is it by the eternal law that some are
 happy state, others in an unhappy state. Accordingly both the blessed and the damned are under
 the eternal law.
 
-<span class="atom-split" data-atom="024" data-title="OF THE NATURAL LAW (SIX ARTICLES)" data-chapter="OF THE NATURAL LAW (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="OF THE NATURAL LAW (SIX ARTICLES)" data-chapter="OF THE NATURAL LAW (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the [natural law](/positions/natural_law); concerning which there are six points of inquiry:
 (1) What is the natural law?
@@ -1048,7 +1048,7 @@ We must now consider the [natural law](/positions/natural_law); concerning which
 (5) Whether it is changeable?
 (6) Whether it can be abolished from the heart of man?
 
-<span class="atom-split" data-atom="025" data-title="Whether the natural law is a habit?" data-chapter="Whether the natural law is a habit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the natural law is a habit?" data-chapter="Whether the natural law is a habit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [natural law](/positions/natural_law) is a [habit](/concepts/custom). Because, as the Philosopher says
 (Ethic. ii, 5), "there are three things in the soul: power, habit, and passion." But the natural law is
@@ -1097,7 +1097,7 @@ sleep, a man is unable to use the habit of science. In like manner, through the 
 a child cannot use the habit of understanding of principles, or the natural law, which is in him
 habitually.
 
-<span class="atom-split" data-atom="026" data-title="Whether the natural law contains several precepts, or only one?" data-chapter="Whether the natural law contains several precepts, or only one?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether the natural law contains several precepts, or only one?" data-chapter="Whether the natural law contains several precepts, or only one?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [natural law](/positions/natural_law) contains, not several precepts, but one only.
 For law is a kind of precept, as stated above (Q[92], A[2]). If therefore there were many precepts
@@ -1172,7 +1172,7 @@ many in themselves, but are based on one common foundation.
 Reply to Objection 3: Although reason is one in itself, yet it directs all things regarding man;
 so that whatever can be ruled by reason, is contained under the law of reason.
 
-<span class="atom-split" data-atom="027" data-title="Whether all acts of virtue are prescribed by the natural law?" data-chapter="Whether all acts of virtue are prescribed by the natural law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether all acts of virtue are prescribed by the natural law?" data-chapter="Whether all acts of virtue are prescribed by the natural law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all acts of virtue are prescribed by the [natural law](/positions/natural_law). Because,
 as stated above (Q[90], A[2]) it is essential to a law that it be ordained to the common good. But
@@ -1218,7 +1218,7 @@ Reply to Objection 3: This argument considers acts in themselves. For it is owin
 conditions of men, that certain acts are virtuous for some, as being proportionate and becoming to
 them, while they are vicious for others, as being out of proportion to them.
 
-<span class="atom-split" data-atom="028" data-title="Whether the natural law is the same in all men?" data-chapter="Whether the natural law is the same in all men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether the natural law is the same in all men?" data-chapter="Whether the natural law is the same in all men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [natural law](/positions/natural_law) is not the same in all. For it is stated in the
 Decretals (Dist. i) that "the natural law is that which is contained in the Law and the Gospel." But
@@ -1289,7 +1289,7 @@ natural inclinations belonging to the other powers must needs be directed accord
 Wherefore it is universally right for all men, that all their inclinations should be directed according
 to reason.
 
-<span class="atom-split" data-atom="029" data-title="Whether the natural law can be changed?" data-chapter="Whether the natural law can be changed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether the natural law can be changed?" data-chapter="Whether the natural law can be changed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [natural law](/positions/natural_law) can be changed. Because on  Ecclus. 17:9, "He
 gave them instructions, and the law of life," the gloss says: "He wished the law of the letter to be
@@ -1347,7 +1347,7 @@ of possessions and slavery were not brought in by nature, but devised by human r
 benefit of human life. Accordingly the law of nature was not changed in this respect, except by
 addition.
 
-<span class="atom-split" data-atom="030" data-title="Whether the law of nature can be abolished from the heart of man?" data-chapter="Whether the law of nature can be abolished from the heart of man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the law of nature can be abolished from the heart of man?" data-chapter="Whether the law of nature can be abolished from the heart of man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [natural law](/positions/natural_law) can be abolished from the heart of man. Because
 on Rom. 2:14, "When the Gentiles who have not the law," etc. a gloss says that "the law of
@@ -1386,7 +1386,7 @@ essential to man, and therefore more enduring.
 Reply to Objection 3: This argument is true of the secondary precepts of the natural law,
 against which some legislators have framed certain enactments which are unjust.
 
-<span class="atom-split" data-atom="031" data-title="OF HUMAN LAW (FOUR ARTICLES)" data-chapter="OF HUMAN LAW (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="OF HUMAN LAW (FOUR ARTICLES)" data-chapter="OF HUMAN LAW (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider [human law](/concepts/human_law); and (1) this law considered in itself; (2) its power; (3) its
 mutability. Under the first head there are four points of inquiry:
@@ -1395,7 +1395,7 @@ mutability. Under the first head there are four points of inquiry:
 (3) Its quality.
 (4) Its division.
 
-<span class="atom-split" data-atom="032" data-title="Whether it was useful for laws to be framed by men?" data-chapter="Whether it was useful for laws to be framed by men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether it was useful for laws to be framed by men?" data-chapter="Whether it was useful for laws to be framed by men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not useful for laws to be framed by men. Because the
 purpose of every law is that man be made good thereby, as stated above (Q[92], A[1]). But men
@@ -1461,7 +1461,7 @@ Reply to Objection 3: Certain individual facts which cannot be covered by the la
 necessarily to be committed to judges," as the Philosopher says in the same passage: for instance,
 "concerning something that has happened or not happened," and the like.
 
-<span class="atom-split" data-atom="033" data-title="Whether every human law is derived from the natural law?" data-chapter="Whether every human law is derived from the natural law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether every human law is derived from the natural law?" data-chapter="Whether every human law is derived from the natural law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not every [human law](/concepts/human_law) is derived from the [natural law](/positions/natural_law). For the
 Philosopher says (Ethic. v, 7) that "the legal just is that which originally was a matter of indifference."
@@ -1525,7 +1525,7 @@ Hence the Philosopher says (Ethic. vi, 11) that in such matters, "we ought to pa
 attention to the undemonstrated sayings and opinions of persons who surpass us in experience, age
 and prudence, as to their demonstrations."
 
-<span class="atom-split" data-atom="034" data-title="Whether Isidore's description of the quality of positive law is appropriate?" data-chapter="Whether Isidore's description of the quality of positive law is appropriate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether Isidore's description of the quality of positive law is appropriate?" data-chapter="Whether Isidore's description of the quality of positive law is appropriate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Isidore's description of the quality of positive law is not
 appropriate, when he says (Etym. v, 21): "Law shall be virtuous, just, possible to nature, according
@@ -1576,7 +1576,7 @@ the need of preventing any harm ensuing from the law itself. And since, as state
 A[2]), law is ordained to the common good, this is expressed in the last part of the description.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="035" data-title="Whether Isidore's division of human laws is appropriate?" data-chapter="Whether Isidore's division of human laws is appropriate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether Isidore's division of human laws is appropriate?" data-chapter="Whether Isidore's division of human laws is appropriate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Isidore wrongly divided human statutes or [human law](/concepts/human_law) (Etym.
 v, 4, seqq.). For under this law he includes the "law of nations," so called, because, as he says,
@@ -1646,7 +1646,7 @@ not very remote from its premises. Wherefore men easily agreed thereto. Neverthe
 from the natural law, especially it is distinct from the natural law which is common to all animals.
 The Replies to the other Objections are evident from what has been said.
 
-<span class="atom-split" data-atom="036" data-title="OF THE POWER OF HUMAN LAW (SIX ARTICLES)" data-chapter="OF THE POWER OF HUMAN LAW (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="OF THE POWER OF HUMAN LAW (SIX ARTICLES)" data-chapter="OF THE POWER OF HUMAN LAW (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the power of [human law](/concepts/human_law). Under this head there are six points of inquiry:
 (1) Whether human law should be framed for the community?
@@ -1656,7 +1656,7 @@ We must now consider the power of [human law](/concepts/human_law). Under this h
 (5) Whether all men are subject to human law?
 (6) Whether those who are under the law may act beside the letter of the law?
 
-<span class="atom-split" data-atom="037" data-title="Whether human law should be framed for the community rather than for the individual?" data-chapter="Whether human law should be framed for the community rather than for the individual?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether human law should be framed for the community rather than for the individual?" data-chapter="Whether human law should be framed for the community rather than for the individual?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [human law](/concepts/human_law) should be framed not for the community, but rather
 for the individual. For the Philosopher says (Ethic. v, 7) that "the legal just . . . includes all particular
@@ -1710,7 +1710,7 @@ Reply to Objection 3: "We must not seek the same degree of certainty in all thin
 to be certain, as being true in the greater number of instances, though at times and less frequently
 it fail.
 
-<span class="atom-split" data-atom="038" data-title="Whether it belongs to the human law to repress all vices?" data-chapter="Whether it belongs to the human law to repress all vices?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether it belongs to the human law to repress all vices?" data-chapter="Whether it belongs to the human law to repress all vices?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it belongs to [human law](/concepts/human_law) to repress all vices. For Isidore says
 (Etym. v, 20) that "laws were made in order that, in fear thereof, man's audacity might be held in
@@ -1766,7 +1766,7 @@ providence. Nor, if this law does not attempt to do everything, is this a reason
 blamed for what it does." Wherefore, too, human law does not prohibit everything that is forbidden
 by the natural law.
 
-<span class="atom-split" data-atom="039" data-title="Whether human law prescribes acts of all the virtues?" data-chapter="Whether human law prescribes acts of all the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether human law prescribes acts of all the virtues?" data-chapter="Whether human law prescribes acts of all the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [human law](/concepts/human_law) does not prescribe acts of all the virtues. For vicious
 acts are contrary to acts of virtue. But human law does not prohibit all vices, as stated above (A[2]).
@@ -1810,7 +1810,7 @@ lawgiver aims.
 Reply to Objection 3: There is no virtue whose act is not ordainable to the common good, as
 stated above, either mediately or immediately.
 
-<span class="atom-split" data-atom="040" data-title="Whether human law binds a man in conscience?" data-chapter="Whether human law binds a man in conscience?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether human law binds a man in conscience?" data-chapter="Whether human law binds a man in conscience?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [human law](/concepts/human_law) does not bind man in conscience. For an inferior
 power has no jurisdiction in a court of higher power. But the power of man, which frames human
@@ -1868,7 +1868,7 @@ Reply to Objection 3: This argument is true of a law that inflicts unjust hurt o
 The power that man holds from God does not extend to this: wherefore neither in such matters is
 man bound to obey the law, provided he avoid giving scandal or inflicting a more grievous hurt.
 
-<span class="atom-split" data-atom="041" data-title="Whether all are subject to the law?" data-chapter="Whether all are subject to the law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether all are subject to the law?" data-chapter="Whether all are subject to the law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all are subject to the law. For those alone are subject to a
 law for whom a law is made. But the Apostle says (1 Tim. 1:9): "The law is not made for the just
@@ -1932,7 +1932,7 @@ exempt from the law, as to its directive force; but he should fulfil it to his o
 constraint. Again the sovereign is above the law, in so far as, when it is expedient, he can change
 the law, and dispense in it according to time and place.
 
-<span class="atom-split" data-atom="042" data-title="Whether he who is under a law may act beside the letter of the law?" data-chapter="Whether he who is under a law may act beside the letter of the law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether he who is under a law may act beside the letter of the law?" data-chapter="Whether he who is under a law may act beside the letter of the law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that he who is subject to a law may not act beside the letter of the law.
 For [Augustine](/figures/augustine) says (De Vera Relig. 31): "Although men judge about temporal laws when they
@@ -1989,7 +1989,7 @@ end he has in view. And even if a lawgiver were able to take all the cases into 
 ought not to mention them all, in order to avoid confusion: but should frame the law according to
 that which is of most common occurrence.
 
-<span class="atom-split" data-atom="043" data-title="OF CHANGE IN LAWS (FOUR ARTICLES)" data-chapter="OF CHANGE IN LAWS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="OF CHANGE IN LAWS (FOUR ARTICLES)" data-chapter="OF CHANGE IN LAWS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider change in laws: under which head there are four points of inquiry:
 (1) Whether [human law](/concepts/human_law) is changeable?
@@ -1998,7 +1998,7 @@ We must now consider change in laws: under which head there are four points of i
 (4) Whether the application of human law should be changed by dispensation of those in
 authority?
 
-<span class="atom-split" data-atom="044" data-title="Whether human law should be changed in any way?" data-chapter="Whether human law should be changed in any way?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether human law should be changed in any way?" data-chapter="Whether human law should be changed in any way?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [human law](/concepts/human_law) should not be changed in any way at all. Because
 human law is derived from the [natural law](/positions/natural_law), as stated above (Q[95], A[2]). But the natural law
@@ -2050,7 +2050,7 @@ as itself is concerned, always remains right. But right is predicated of law wit
 common weal, to which one and the same thing is not always adapted, as stated above: wherefore
 rectitude of this kind is subject to change.
 
-<span class="atom-split" data-atom="045" data-title="Whether human law should always be changed, whenever something better occurs?" data-chapter="Whether human law should always be changed, whenever something better occurs?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether human law should always be changed, whenever something better occurs?" data-chapter="Whether human law should always be changed, whenever something better occurs?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [human law](/concepts/human_law) should be changed, whenever something better
 occurs. Because human laws are devised by human reason, like other arts. But in the other arts, the
@@ -2093,7 +2093,7 @@ Reply to Objection 2: This argument proves that laws ought to be changed: not in
 improvement, but for the sake of a great benefit or in a case of great urgency, as stated above. This
 answer applies also to the Third Objection.
 
-<span class="atom-split" data-atom="046" data-title="Whether custom can obtain force of law?" data-chapter="Whether custom can obtain force of law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether custom can obtain force of law?" data-chapter="Whether custom can obtain force of law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [custom](/concepts/custom) cannot obtain force of law, nor abolish a law. Because
 [human law](/concepts/human_law) is derived from the [natural law](/positions/natural_law) and from the [Divine law](/concepts/divine_law), as stated above (Q[93], A[3];
@@ -2151,7 +2151,7 @@ nevertheless with such a people a prevailing custom obtains force of law, in so 
 by those to whom it belongs to make laws for that people: because by the very fact that they tolerate
 it they seem to approve of that which is introduced by custom.
 
-<span class="atom-split" data-atom="047" data-title="Whether the rulers of the people can dispense from human laws?" data-chapter="Whether the rulers of the people can dispense from human laws?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether the rulers of the people can dispense from human laws?" data-chapter="Whether the rulers of the people can dispense from human laws?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the rulers of the people cannot dispense from human laws. For
 the law is established for the "common weal," as Isidore says (Etym. v, 21). But the common good
@@ -2205,7 +2205,7 @@ human law, except the man from whom the law derives its authority, or his delega
 precepts of the Divine law, which are from God, none can dispense but God, or the man to whom
 He may give special power for that purpose.
 
-<span class="atom-split" data-atom="048" data-title="OF THE OLD LAW (SIX ARTICLES)" data-chapter="OF THE OLD LAW (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="OF THE OLD LAW (SIX ARTICLES)" data-chapter="OF THE OLD LAW (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In due sequence we must now consider the [Old Law](/concepts/divine_law); and (1) The Law itself; (2) Its precepts.
 Under the first head there are six points of inquiry:
@@ -2216,7 +2216,7 @@ Under the first head there are six points of inquiry:
 (5) Whether it was binding on all?
 (6) Whether it was given at a suitable time?
 
-<span class="atom-split" data-atom="049" data-title="Whether the Old Law was good?" data-chapter="Whether the Old Law was good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether the Old Law was good?" data-chapter="Whether the Old Law was good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) was not good. For it is written (Ezech. 20:25):
 "I gave them statutes that were not good, and judgments in which they shall not live." But a law is
@@ -2289,7 +2289,7 @@ runneth," viz. that he wills and runs in the commandments of God, "but of God th
 Wherefore it is written (Ps. 118:32): "I have run the way of Thy commandments, when Thou didst
 enlarge my heart," i.e. by giving me grace and charity.
 
-<span class="atom-split" data-atom="050" data-title="Whether the Old Law was from God?" data-chapter="Whether the Old Law was from God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether the Old Law was from God?" data-chapter="Whether the Old Law was from God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) was not from God. For it is written (Dt. 32:4):
 "The works of God are perfect." But the Law was imperfect, as stated above (A[1]). Therefore the
@@ -2350,7 +2350,7 @@ from God besides the Law was available for man, viz. faith in the Mediator, by w
 of old were justified even as we were. Accordingly God did not fail man by giving him insufficient
 aids to salvation.
 
-<span class="atom-split" data-atom="051" data-title="Whether the Old Law was given through the angels?" data-chapter="Whether the Old Law was given through the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether the Old Law was given through the angels?" data-chapter="Whether the Old Law was given through the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the [Old Law](/concepts/divine_law) was not given through the angels, but immediately by
 God. For an angel means a "messenger"; so that the word "angel" denotes ministry, not lordship,
@@ -2408,7 +2408,7 @@ Reply to Objection 3: It is for the sovereign alone to make a law by his own aut
 sometimes after making a law, he promulgates it through others. Thus God made the Law by His
 own authority, but He promulgated it through the angels.
 
-<span class="atom-split" data-atom="052" data-title="Whether the Old Law should have been given to the Jews alone?" data-chapter="Whether the Old Law should have been given to the Jews alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether the Old Law should have been given to the Jews alone?" data-chapter="Whether the Old Law should have been given to the Jews alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) should not have been given to the Jews alone.
 For the Old Law disposed men for the salvation which was to come through Christ, as stated above
@@ -2483,7 +2483,7 @@ various natures demands, viz. that the lowest beings be governed through the int
 and also bodily aids, which God vouchsafes not only to men, but also to beasts, according to Ps.
 35:7: "Men and beasts Thou wilt preserve, O Lord."
 
-<span class="atom-split" data-atom="053" data-title="Whether all men were bound to observe the Old Law?" data-chapter="Whether all men were bound to observe the Old Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether all men were bound to observe the Old Law?" data-chapter="Whether all men were bound to observe the Old Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all men were bound to observe the [Old Law](/concepts/divine_law). Because whoever
 is subject to the king, must needs be subject to his law. But the Old Law was given by God, Who
@@ -2539,7 +2539,7 @@ the observances of the Law than under the mere natural law: and for this reason 
 to them. So too the laity are now admitted to the ranks of the clergy, and secular persons to those
 of the religious, although they can be saved without this.
 
-<span class="atom-split" data-atom="054" data-title="Whether the Old Law was suitably given at the time of Moses?" data-chapter="Whether the Old Law was suitably given at the time of Moses?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the Old Law was suitably given at the time of Moses?" data-chapter="Whether the Old Law was suitably given at the time of Moses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) was not suitably given at the time of Moses.
 Because the Old Law disposed man for the salvation which was to come through Christ, as stated
@@ -2602,7 +2602,7 @@ circumcision, which was the sign of the promise made to Abraham, and in which he
 according to Rom. 4:11: hence even before David, the Law had to be given to that people as soon
 as they were collected together.
 
-<span class="atom-split" data-atom="055" data-title="OF THE PRECEPTS OF THE OLD LAW (SIX ARTICLES)" data-chapter="OF THE PRECEPTS OF THE OLD LAW (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="OF THE PRECEPTS OF THE OLD LAW (SIX ARTICLES)" data-chapter="OF THE PRECEPTS OF THE OLD LAW (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the precepts of the [Old Law](/concepts/divine_law); and (1) how they are distinguished from
 one another; (2) each kind of precept. Under the first head there are six points of inquiry:
@@ -2613,7 +2613,7 @@ one another; (2) each kind of precept. Under the first head there are six points
 (5) Whether it contains any others besides these?
 (6) How the Old Law induced men to keep its precepts.
 
-<span class="atom-split" data-atom="056" data-title="Whether the Old Law contains only one precept?" data-chapter="Whether the Old Law contains only one precept?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether the Old Law contains only one precept?" data-chapter="Whether the Old Law contains only one precept?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) contains but one precept. Because a law is nothing
 else than a precept, as stated above (Q[90], AA[2],3). Now there is but one Old Law. Therefore it
@@ -2661,7 +2661,7 @@ friendship towards oneself," in so far as man looks on another as on himself. He
 explanation of the rule of neighborly love contained implicitly in the words, "Thou shalt love thy
 neighbor as thyself": so that it is an explanation of this commandment.
 
-<span class="atom-split" data-atom="057" data-title="Whether the Old Law contains moral precepts?" data-chapter="Whether the Old Law contains moral precepts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether the Old Law contains moral precepts?" data-chapter="Whether the Old Law contains moral precepts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) contains no moral precepts. For the Old Law is
 distinct from the law of nature, as stated above (Q[91], AA[4],5; Q[98], A[5]). But the moral
@@ -2713,7 +2713,7 @@ Reply to Objection 3: As [Augustine](/figures/augustine) proves (De Spiritu et L
 law is said to be the occasion of death, as to the moral precepts; in so far as, to wit, it prescribes
 what is good, without furnishing the aid of grace for its fulfilment.
 
-<span class="atom-split" data-atom="058" data-title="Whether the Old Law comprises ceremonial, besides moral, precepts?" data-chapter="Whether the Old Law comprises ceremonial, besides moral, precepts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the Old Law comprises ceremonial, besides moral, precepts?" data-chapter="Whether the Old Law comprises ceremonial, besides moral, precepts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) does not comprise ceremonial, besides moral,
 precepts. For every law that is given to man is for the purpose of directing human actions. Now
@@ -2773,7 +2773,7 @@ are set forth in the Scriptures not only by similitudes expressed in words, as i
 metaphorical expressions; but also by similitudes of things set before the eyes, which pertains to
 the ceremonial precepts.
 
-<span class="atom-split" data-atom="059" data-title="Whether, besides the moral and ceremonial precepts, there are also judicial precepts?" data-chapter="Whether, besides the moral and ceremonial precepts, there are also judicial precepts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether, besides the moral and ceremonial precepts, there are also judicial precepts?" data-chapter="Whether, besides the moral and ceremonial precepts, there are also judicial precepts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are no judicial precepts in addition to the moral and
 ceremonial precepts in the [Old Law](/concepts/divine_law). For [Augustine](/figures/augustine) says (Contra Faust. vi, 2) that in the Old Law
@@ -2826,7 +2826,7 @@ My judgments, and shall observe My precepts," where "precepts" denotes moral pre
 Reply to Objection 3: The act of justice, in general, belongs to the moral precepts; but its
 determination to some special kind of act belongs to the judicial precepts.
 
-<span class="atom-split" data-atom="060" data-title="Whether the Old Law contains any others besides the moral, judicial, and ceremonial precepts?" data-chapter="Whether the Old Law contains any others besides the moral, judicial, and ceremonial precepts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the Old Law contains any others besides the moral, judicial, and ceremonial precepts?" data-chapter="Whether the Old Law contains any others besides the moral, judicial, and ceremonial precepts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) contains others besides the moral, judicial, and
 ceremonial precepts. Because the judicial precepts belong to the act of justice, which is between
@@ -2897,7 +2897,7 @@ is a part, as Tully says (De Invent. ii). Wherefore the legal just cannot be any
 ceremonial and judicial precepts.
 The Replies to the other Objections are clear from what has been said.
 
-<span class="atom-split" data-atom="061" data-title="Whether the Old Law should have induced men to the observance of its precepts, by means of temporal promises and threats?" data-chapter="Whether the Old Law should have induced men to the observance of its precepts, by means of temporal promises and threats?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the Old Law should have induced men to the observance of its precepts, by means of temporal promises and threats?" data-chapter="Whether the Old Law should have induced men to the observance of its precepts, by means of temporal promises and threats?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) should not have induced men to the observance
 of its precepts, by means of temporal promises and threats. For the purpose of the Divine law is to
@@ -2961,7 +2961,7 @@ fulfilling the works of the Law, their heart was altogether fixed on temporal go
 from God, according to Is. 29:13 (Mat. 15:8): "This people honoreth Me with their lips; but their
 hearts is far from Me."
 
-<span class="atom-split" data-atom="062" data-title="OF THE MORAL PRECEPTS OF THE OLD LAW (TWELVE ARTICLES)" data-chapter="OF THE MORAL PRECEPTS OF THE OLD LAW (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="OF THE MORAL PRECEPTS OF THE OLD LAW (TWELVE ARTICLES)" data-chapter="OF THE MORAL PRECEPTS OF THE OLD LAW (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider each kind of precept of the [Old Law](/concepts/divine_law): and (1) the moral precepts, (2) the
 ceremonial precepts, (3) the judicial precepts. Under the first head there are twelve points of inquiry:
@@ -2979,7 +2979,7 @@ decalogue?
 (11) The distinction of other moral precepts;
 (12) Whether the moral precepts of the Old Law justified man?
 
-<span class="atom-split" data-atom="063" data-title="Whether all the moral precepts of the Old Law belong to the law of nature?" data-chapter="Whether all the moral precepts of the Old Law belong to the law of nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether all the moral precepts of the Old Law belong to the law of nature?" data-chapter="Whether all the moral precepts of the Old Law belong to the law of nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all the moral precepts belong to the law of nature. For it
 is written (Ecclus. 17:9): "Moreover He gave them instructions, and the law of life for an inheritance."
@@ -3030,7 +3030,7 @@ God: e.g. "Thou shalt not make to thyself a graven thing, nor the likeness of an
 not take the name of the Lord thy God in vain."
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="064" data-title="Whether the moral precepts of the Law are about all the acts of virtue?" data-chapter="Whether the moral precepts of the Law are about all the acts of virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether the moral precepts of the Law are about all the acts of virtue?" data-chapter="Whether the moral precepts of the Law are about all the acts of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the moral precepts of the Law are not about all the acts of
 virtue. For observance of the precepts of the [Old Law](/concepts/divine_law) is called justification, according to Ps. 118:8:
@@ -3084,7 +3084,7 @@ that the Philosopher speaks (Ethic. v, 11) of a kind of metaphorical justice.
 The Reply to the Third Objection is clear from what has been said about the different kinds of
 community.
 
-<span class="atom-split" data-atom="065" data-title="Whether all the moral precepts of the Old Law are reducible to the ten precepts of the decalogue?" data-chapter="Whether all the moral precepts of the Old Law are reducible to the ten precepts of the decalogue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether all the moral precepts of the Old Law are reducible to the ten precepts of the decalogue?" data-chapter="Whether all the moral precepts of the Old Law are reducible to the ten precepts of the decalogue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all the moral precepts of the [Old Law](/concepts/divine_law) are reducible to the
 ten precepts of the decalogue. For the first and principal precepts of the Law are, "Thou shalt love
@@ -3134,7 +3134,7 @@ Hence the precepts about the acts of the other virtues are not so well known to 
 the precepts about acts of justice. Wherefore the acts of justice especially come under the precepts
 of the decalogue, which are the primary elements of the Law.
 
-<span class="atom-split" data-atom="066" data-title="Whether the precepts of the decalogue are suitably distinguished from one another?" data-chapter="Whether the precepts of the decalogue are suitably distinguished from one another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether the precepts of the decalogue are suitably distinguished from one another?" data-chapter="Whether the precepts of the decalogue are suitably distinguished from one another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the precepts of the decalogue are unsuitably distinguished
 from one another. For [worship](/concepts/religion) is a virtue distinct from faith. Now the precepts are about acts of
@@ -3212,7 +3212,7 @@ various special kinds of covetousness, therefore Augustine distinguishes differe
 against coveting: for covetousness differs specifically in respect of the diversity of actions or things
 coveted, as the Philosopher says (Ethic. x, 5).
 
-<span class="atom-split" data-atom="067" data-title="Whether the precepts of the decalogue are suitably set forth? (1/2)" data-chapter="Whether the precepts of the decalogue are suitably set forth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether the precepts of the decalogue are suitably set forth? (1/2)" data-chapter="Whether the precepts of the decalogue are suitably set forth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the precepts of the decalogue are unsuitably set forth. Because
 sin, as stated by Ambrose (De Paradiso viii), is "a transgression of the [Divine law](/concepts/divine_law) and a disobedience
@@ -3306,7 +3306,7 @@ disorders of a man with regard to himself, reach the people through the instruct
 versed through the instruction of men who are versed in such matters; and, consequently, they are
 not contained in the decalogue.
 
-<span class="atom-split" data-atom="068" data-title="Whether the precepts of the decalogue are suitably set forth? (2/2)" data-chapter="Whether the precepts of the decalogue are suitably set forth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether the precepts of the decalogue are suitably set forth? (2/2)" data-chapter="Whether the precepts of the decalogue are suitably set forth?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: All the solemnities of the [Old Law](/concepts/divine_law) were instituted in celebration of
 some Divine favor, either in memory of past favors, or in sign of some favor to come: in like manner
@@ -3356,7 +3356,7 @@ arise from the passions of the concupiscible part. Hence, as the precepts of the
 were, the first elements of the Law, there was no need for mention of the irascible passions, but
 only of the concupiscible passions.
 
-<span class="atom-split" data-atom="069" data-title="Whether the ten precepts of the decalogue are set in proper order?" data-chapter="Whether the ten precepts of the decalogue are set in proper order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether the ten precepts of the decalogue are set in proper order?" data-chapter="Whether the ten precepts of the decalogue are set in proper order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the ten precepts of the decalogue are not set in proper order.
 Because love of one's neighbor is seemingly previous to love of God, since our neighbor is better
@@ -3425,7 +3425,7 @@ an affirmative precept is placed last, since its transgression implies a less gr
 Reply to Objection 3: Although sin of thought stands first in the order of execution, yet its
 prohibition holds a later position in the order of reason.
 
-<span class="atom-split" data-atom="070" data-title="Whether the precepts of the decalogue are suitably formulated?" data-chapter="Whether the precepts of the decalogue are suitably formulated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether the precepts of the decalogue are suitably formulated?" data-chapter="Whether the precepts of the decalogue are suitably formulated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the precepts of the decalogue are unsuitably formulated.
 Because the affirmative precepts direct man to acts of virtue, while the negative precepts withdraw
@@ -3497,7 +3497,7 @@ blessing. Wherefore special mention of the memory is made therein. Or again, the
 about the Sabbath has a determination affixed to it that does not belong to the [natural law](/positions/natural_law), wherefore
 this precept needed a special admonition.
 
-<span class="atom-split" data-atom="071" data-title="Whether the precepts of the decalogue are dispensable?" data-chapter="Whether the precepts of the decalogue are dispensable?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether the precepts of the decalogue are dispensable?" data-chapter="Whether the precepts of the decalogue are dispensable?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the precepts of the decalogue are dispensable. For the precepts
 of the decalogue belong to the [natural law](/positions/natural_law). But the natural law fails in some cases and is changeable,
@@ -3587,7 +3587,7 @@ Reply to Objection 4: This determination was an interpretation rather than a dis
 a man is not taken to break the Sabbath, if he does something necessary for human welfare; as Our
 Lord proves (Mat. 12:3, seqq.).
 
-<span class="atom-split" data-atom="072" data-title="Whether the mode of virtue falls under the precept of the law?" data-chapter="Whether the mode of virtue falls under the precept of the law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether the mode of virtue falls under the precept of the law?" data-chapter="Whether the mode of virtue falls under the precept of the law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the mode of virtue falls under the precept of the law. For the
 mode of virtue is that deeds of justice should be done justly, that deeds of fortitude should be done
@@ -3660,7 +3660,7 @@ from a habit; for "pleasure taken in a work proves the existence of a habit," as
 3. For an act may give pleasure either on account of its end, or through its proceeding from a
 becoming habit.
 
-<span class="atom-split" data-atom="073" data-title="Whether the mode of charity falls under the precept of the Divine law?" data-chapter="Whether the mode of charity falls under the precept of the Divine law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the mode of charity falls under the precept of the Divine law?" data-chapter="Whether the mode of charity falls under the precept of the Divine law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the mode of charity falls under the precept of the [Divine law](/concepts/divine_law).
 For it is written (Mat. 19:17): "If thou wilt enter into life, keep the commandments": whence it
@@ -3726,7 +3726,7 @@ Reply to Objection 3: Man cannot fulfil all the precepts of the law, unless he f
 of charity, which is impossible without charity. Consequently it is not possible, as Pelagius
 maintained, for man to fulfil the law without grace.
 
-<span class="atom-split" data-atom="074" data-title="Whether it is right to distinguish other moral precepts of the law besides the decalogue?" data-chapter="Whether it is right to distinguish other moral precepts of the law besides the decalogue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether it is right to distinguish other moral precepts of the law besides the decalogue?" data-chapter="Whether it is right to distinguish other moral precepts of the law besides the decalogue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is wrong to distinguish other moral precepts of the law
 besides the decalogue. Because, as Our Lord declared (Mat. 22:40), "on these two commandments"
@@ -3812,7 +3812,7 @@ the prohibition of acts of gluttony is left to paternal admonition, since it is 
 the household; hence it is said (Dt. 21:20) in the person of parents: "He slighteth hearing our
 admonitions, he giveth himself to revelling, and to debauchery and banquetings."
 
-<span class="atom-split" data-atom="075" data-title="Whether the moral precepts of the Old Law justified man?" data-chapter="Whether the moral precepts of the Old Law justified man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether the moral precepts of the Old Law justified man?" data-chapter="Whether the moral precepts of the Old Law justified man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the moral precepts of the [Old Law](/concepts/divine_law) justified man. Because the
 Apostle says (Rom. 2:13): "For not the hearers of the Law are justified before God, but the doers
@@ -3869,7 +3869,7 @@ sense the Apostle quotes this passage (Gal. 3:12).
 Reply to Objection 3: The precepts of human law justify man by acquired justice: it is not
 about this that we are inquiring now, but only about that justice which is before God.
 
-<span class="atom-split" data-atom="076" data-title="OF THE CEREMONIAL PRECEPTS IN THEMSELVES (FOUR ARTICLES)" data-chapter="OF THE CEREMONIAL PRECEPTS IN THEMSELVES (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="OF THE CEREMONIAL PRECEPTS IN THEMSELVES (FOUR ARTICLES)" data-chapter="OF THE CEREMONIAL PRECEPTS IN THEMSELVES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the ceremonial precepts: and first we must consider them in themselves;
 secondly, their cause; thirdly, their duration. Under the first head there are four points of inquiry:
@@ -3878,7 +3878,7 @@ secondly, their cause; thirdly, their duration. Under the first head there are f
 (3) Whether there should have been many of them?
 (4) Of their various kinds.
 
-<span class="atom-split" data-atom="077" data-title="Whether the nature of the ceremonial precepts consists in their pertaining to the worship of God?" data-chapter="Whether the nature of the ceremonial precepts consists in their pertaining to the worship of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether the nature of the ceremonial precepts consists in their pertaining to the worship of God?" data-chapter="Whether the nature of the ceremonial precepts consists in their pertaining to the worship of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the nature of the ceremonial precepts does not consist in their
 pertaining to the [worship](/concepts/religion) of God. Because, in the [Old Law](/concepts/divine_law), the Jews were given certain precepts
@@ -3943,7 +3943,7 @@ them; this is a kind of consequence. For, since the precepts referring to the Di
 needs be figurative, as we shall state further on (A[2]), the consequence is that the reason for them
 is not so very evident.
 
-<span class="atom-split" data-atom="078" data-title="Whether the ceremonial precepts are figurative?" data-chapter="Whether the ceremonial precepts are figurative?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether the ceremonial precepts are figurative?" data-chapter="Whether the ceremonial precepts are figurative?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the ceremonial precepts are not figurative. For it is the duty
 of every teacher to express himself in such a way as to be easily understood, as [Augustine](/figures/augustine) states
@@ -4015,7 +4015,7 @@ external worship should be ordained, as stated above.
 The same answer applies to the Fourth Objection: because men were taught by Him to practice
 more perfectly the spiritual worship of God.
 
-<span class="atom-split" data-atom="079" data-title="Whether there should have been man ceremonial precepts?" data-chapter="Whether there should have been man ceremonial precepts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether there should have been man ceremonial precepts?" data-chapter="Whether there should have been man ceremonial precepts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there should not have been many ceremonial precepts. For
 those things which conduce to an end should be proportionate to that end. But the ceremonial
@@ -4076,7 +4076,7 @@ lessening of bodily worship; as Rabbi Moses, the Egyptian testifies (Doct. Perpl
 it behooved not to attenuate the bodily worship of God so much as to allow men to fall away into
 the worship of idols.
 
-<span class="atom-split" data-atom="080" data-title="Whether the ceremonies of the Old Law are suitably divided into sacrifices, sacred things, sacraments, and observances?" data-chapter="Whether the ceremonies of the Old Law are suitably divided into sacrifices, sacred things, sacraments, and observances?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether the ceremonies of the Old Law are suitably divided into sacrifices, sacred things, sacraments, and observances?" data-chapter="Whether the ceremonies of the Old Law are suitably divided into sacrifices, sacred things, sacraments, and observances?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the ceremonies of the [Old Law](/concepts/divine_law) are unsuitably divided into
 "sacrifices, sacred things, sacraments, and observances." For the ceremonies of the Old Law
@@ -4151,7 +4151,7 @@ The oblations and gifts are counted together with the sacrifices; hence the Apos
 "Every high-priest taken from among men, is ordained for men in things that appertain to God, that
 he may offer up gifts and sacrifices."
 
-<span class="atom-split" data-atom="081" data-title="OF THE CAUSES OF THE CEREMONIAL PRECEPTS (SIX ARTICLES)" data-chapter="OF THE CAUSES OF THE CEREMONIAL PRECEPTS (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="OF THE CAUSES OF THE CEREMONIAL PRECEPTS (SIX ARTICLES)" data-chapter="OF THE CAUSES OF THE CEREMONIAL PRECEPTS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the causes of the ceremonial precepts: under which head there are six
 points of inquiry:
@@ -4162,7 +4162,7 @@ points of inquiry:
 (5) The causes of the sacred things;
 (6) The causes of the observances.
 
-<span class="atom-split" data-atom="082" data-title="Whether there was any cause for the ceremonial precepts?" data-chapter="Whether there was any cause for the ceremonial precepts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether there was any cause for the ceremonial precepts?" data-chapter="Whether there was any cause for the ceremonial precepts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was no cause for the ceremonial precepts. Because on
 Eph. 2:15, "Making void the law of the commandments," the gloss says, (i.e.) "making void the
@@ -4217,7 +4217,7 @@ Reply to Objection 3: The moral precepts in their very nature have reasonable ca
 instance, "Thou shalt not kill, Thou shalt not steal." But the ceremonial precepts have a reasonable
 cause in their relation to something else, as stated above.
 
-<span class="atom-split" data-atom="083" data-title="Whether the ceremonial precepts have a literal cause or merely a figurative cause?" data-chapter="Whether the ceremonial precepts have a literal cause or merely a figurative cause?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether the ceremonial precepts have a literal cause or merely a figurative cause?" data-chapter="Whether the ceremonial precepts have a literal cause or merely a figurative cause?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the ceremonial precepts have not a literal, but merely a figurative
 cause. For among the ceremonial precepts, the chief was circumcision and the sacrifice of the
@@ -4273,7 +4273,7 @@ on the judgment of those who frame them; so also many particular determinations 
 of the Old Law have no literal cause, but only a figurative cause; whereas in the abstract they have
 a literal cause.
 
-<span class="atom-split" data-atom="084" data-title="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices? (1/4)" data-chapter="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices? (1/4)" data-chapter="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no suitable cause can be assigned for the ceremonies pertaining
 to sacrifices. For those things which were offered in sacrifice, are those which are necessary for
@@ -4387,7 +4387,7 @@ sacrifice for sins, for ever." And since the reason of the figure is taken from 
 represents, therefore the reasons of the figurative sacrifices of the Old Law should be taken from
 the true sacrifice of Christ.
 
-<span class="atom-split" data-atom="085" data-title="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices? (2/4)" data-chapter="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices? (2/4)" data-chapter="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: God did not wish these sacrifices to be offered to Him on account of
 the things themselves that were offered, as though He stood in need of them: wherefore it is written
@@ -4453,7 +4453,7 @@ forbidden (Dt. 23:18) to offer "the hire of a strumpet or the price of a dog in 
 For the same reason they did not offer animals before the seventh day, because such were abortive
 as it were, the flesh being not yet firm on account of its exceeding softness.
 
-<span class="atom-split" data-atom="086" data-title="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices? (3/4)" data-chapter="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices? (3/4)" data-chapter="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 8: There were three kinds of sacrifices. There was one in which the victim
 was entirely consumed by fire: this was called "a holocaust, i.e. all burnt." For this kind of sacrifice
@@ -4545,7 +4545,7 @@ binds easily together.
 Now the bread foreshadowed the flesh of Christ; and the wine, His blood, whereby we were
 redeemed; oil betokens the grace of Christ; salt, His knowledge; incense, His prayer.
 
-<span class="atom-split" data-atom="087" data-title="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices? (4/4)" data-chapter="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices?" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices? (4/4)" data-chapter="Whether a suitable cause can be assigned for the ceremonies which pertained to sacrifices?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 14: Honey was not offered in the sacrifices to God, both because it was
 wont to be offered in the sacrifices to idols; and in order to denote the absence of all carnal sweetness
@@ -4559,7 +4559,7 @@ to signify the odor of a good name: for incense is composed of matter, both rich
 since the sacrifice "of jealousy" did not proceed from devotion, but rather from suspicion, therefore
 incense was not offered therein (Num. 5:15).
 
-<span class="atom-split" data-atom="088" data-title="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things? (1/5)" data-chapter="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things? (1/5)" data-chapter="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no sufficient reason can be assigned for the ceremonies of the
 [Old Law](/concepts/divine_law) that pertain to holy things. For Paul said (Acts 17:24): "God Who made the world and all
@@ -4649,7 +4649,7 @@ to contain God, as abiding therein locally, but that God might be made known the
 things done and said there; and that those who prayed there might, through reverence for the place,
 pray more devoutly, so as to be heard more readily.
 
-<span class="atom-split" data-atom="089" data-title="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things? (2/5)" data-chapter="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things? (2/5)" data-chapter="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Before the coming of Christ, [the state](/concepts/state) of the [Old Law](/concepts/divine_law) was not changed
 as regards the fulfilment of the Law, which was effected in Christ alone: but it was changed as
@@ -4742,7 +4742,7 @@ figurative reason may also be found in the fact that the whole state of the firs
 ordained to foreshadow the death of Christ, which is signified by the west, according to Ps. 67:5:
 "Who ascendeth unto the west; the Lord is His name."
 
-<span class="atom-split" data-atom="090" data-title="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things? (3/5)" data-chapter="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things? (3/5)" data-chapter="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: Both literal and figurative reasons may be assigned for the things
 contained in the tabernacle. The literal reason is in connection with the divine [worship](/concepts/religion). And because,
@@ -4854,7 +4854,7 @@ on the altar of holocausts; and those which, with greater perfection of mind, ar
 Christ, by the spiritual desires of the perfect, on the altar of incense, as it were, according to Heb.
 13:15: "By Him therefore let us offer the sacrifice of praise always to God."
 
-<span class="atom-split" data-atom="091" data-title="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things? (4/5)" data-chapter="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things? (4/5)" data-chapter="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 7: The Lord commanded an altar to be made for the offering of sacrifices
 and gifts, in honor of God, and for the upkeep of the ministers who served the tabernacle. Now
@@ -4909,7 +4909,7 @@ was that they might be treated with greater reverence, being deputed, as it were
 worship by this consecration. The figurative reason is that this sanctification signified the
 sanctification of the living tabernacle, i.e. the faithful of whom the Church of Christ is composed.
 
-<span class="atom-split" data-atom="092" data-title="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things? (5/5)" data-chapter="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things? (5/5)" data-chapter="Whether sufficient reason can be assigned for the ceremonies pertaining to holy things?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 10: Under the [Old Law](/concepts/divine_law) there were seven temporal solemnities, and one
 continual solemnity, as may be gathered from Num. 28,29. There was a continual feast, since the
@@ -4955,7 +4955,7 @@ kingdom of heaven: wherefore this feast is described as "most holy" (Lev. 23:36)
 feasts followed immediately on one another, because those who expiate their vices should advance
 in virtue, until they come to see God, as stated in Ps. 83:8.
 
-<span class="atom-split" data-atom="093" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (1/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (1/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there can be no suitable cause for the sacraments of the Old
 Law. Because those things that are done for the purpose of divine [worship](/concepts/religion) should not be like the
@@ -5050,7 +5050,7 @@ And all these things had reasonable causes, both literal, in so far as they were
 worship of God for the time being, and figurative, in so far as they were ordained to foreshadow
 Christ: as we shall see by taking them one by one.
 
-<span class="atom-split" data-atom="094" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (2/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (2/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: The chief literal reason for circumcision was in order that man might
 profess his belief in one God. And because Abraham was the first to sever himself from the infidels,
@@ -5130,7 +5130,7 @@ function of nature, but not as the sacrament of the union of Christ with the Chu
 was not as yet brought about. Hence under the Old Law it was allowable to give a bill of divorce,
 which is contrary to the nature of the sacrament.
 
-<span class="atom-split" data-atom="095" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (3/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (3/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: As already stated, the purifications of the [Old Law](/concepts/divine_law) were ordained for
 the removal of impediments to the divine [worship](/concepts/religion): which worship is twofold; viz. spiritual, consisting
@@ -5210,7 +5210,7 @@ for as the warp is in the woof, so is the soul in the body. The vessel that has 
 binding, betokens a man who lacks the veil of taciturnity, and who is unrestrained by any severity
 of discipline.
 
-<span class="atom-split" data-atom="096" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (4/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (4/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: As stated above (ad 4), there was a twofold uncleanness in the Law;
 one by way of corruption in the mind or in the body; and this was the graver uncleanness; the other
@@ -5280,7 +5280,7 @@ when the remnants of Israel will be converted; or else because they who handle s
 a view to the cleansing of others contract certain uncleannesses, as Gregory says (Pastor. ii, 5); and
 this until the evening, i.e. until the end of this life.
 
-<span class="atom-split" data-atom="097" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (5/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (5/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: As stated above (ad 5), an uncleanness which was caused by corruption
 either of mind or of body was expiated by sin-offerings. Now special sacrifices were wont to be
@@ -5322,7 +5322,7 @@ offer up to Our Lord acts of virtue.
 With regard to the uncleanness contracted by those who burnt these sacrifices, the reason is the
 same as that which we assigned (ad 5) to the sacrifice of the red heifer.
 
-<span class="atom-split" data-atom="098" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (6/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (6/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 7: The legal rite did not cleanse the leper of his deformity, but declared
 him to be cleansed. This is shown by the words of Lev. 14:3, seqq., where it was said that the priest,
@@ -5404,7 +5404,7 @@ They have also to shave all the hair of their body, i.e. all evil thoughts. They
 decked with virtues, and be consecrated with the oil of the Holy Ghost, and with the sprinkling of
 Christ's blood. And thus they should be intent on the fulfilment of their spiritual ministry.
 
-<span class="atom-split" data-atom="099" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (7/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether there can be any suitable cause for the sacraments of the Old Law? (7/7)" data-chapter="Whether there can be any suitable cause for the sacraments of the Old Law?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 10: As already stated (A[4]), the purpose of the Law was to induce men
 to have reverence for the divine [worship](/concepts/religion): and this in two ways; first, by excluding from the worship
@@ -5480,7 +5480,7 @@ to his godly mode of life. In addition to these were the pomegranates, signifyin
 concord in good morals: because his doctrine should hold together in such a way that it should not
 rend asunder the unity of faith and peace.
 
-<span class="atom-split" data-atom="100" data-title="Whether there was any reasonable cause for the ceremonial observances? (1/4)" data-chapter="Whether there was any reasonable cause for the ceremonial observances?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether there was any reasonable cause for the ceremonial observances? (1/4)" data-chapter="Whether there was any reasonable cause for the ceremonial observances?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there was no reasonable cause for the ceremonial observances.
 Because, as the Apostle says (1 Tim. 4:4), "every creature of God is good, and nothing to be rejected
@@ -5561,7 +5561,7 @@ things happened to them in figures." Consequently the reasons for these observan
 in two ways, first according to their fittingness to the worship of God; secondly, according as they
 foreshadow something touching the Christian mode of life.
 
-<span class="atom-split" data-atom="101" data-title="Whether there was any reasonable cause for the ceremonial observances? (2/4)" data-chapter="Whether there was any reasonable cause for the ceremonial observances?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether there was any reasonable cause for the ceremonial observances? (2/4)" data-chapter="Whether there was any reasonable cause for the ceremonial observances?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: As stated above (A[5], ad 4,5), the Law distinguished a twofold pollution
 or uncleanness; one, that of sin, whereby the soul was defiled; and another consisting in some kind
@@ -5663,7 +5663,7 @@ abuse the doctrine of the four Evangelists, so that they are not lifted up there
 By the prohibition of blood, fat and nerves, we are to understand the forbidding of cruelty, lust,
 and bravery in committing sin.
 
-<span class="atom-split" data-atom="102" data-title="Whether there was any reasonable cause for the ceremonial observances? (3/4)" data-chapter="Whether there was any reasonable cause for the ceremonial observances?" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="Whether there was any reasonable cause for the ceremonial observances? (3/4)" data-chapter="Whether there was any reasonable cause for the ceremonial observances?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Men were wont to eat plants and other products of the soil even before
 the deluge: but the eating of flesh seems to have been introduced after the deluge; for it is written
@@ -5731,7 +5731,7 @@ cloaks signify the godly intention which should accompany our every deed. It may
 said that, because they were a carnal-minded and stiff-necked people, it was necessary for them to
 be stirred by these sensible things to the observance of the Law.
 
-<span class="atom-split" data-atom="103" data-title="Whether there was any reasonable cause for the ceremonial observances? (4/4)" data-chapter="Whether there was any reasonable cause for the ceremonial observances?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether there was any reasonable cause for the ceremonial observances? (4/4)" data-chapter="Whether there was any reasonable cause for the ceremonial observances?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 8: Affection in man is twofold: it may be an affection of reason, or it may
 be an affection of passion. If a man's affection be one of reason, it matters not how man behaves
@@ -5821,7 +5821,7 @@ sins. And they should not shave their heads, i.e. set wisdom aside; nor should t
 beards, i.e. set aside the perfection of wisdom; nor rend their garments or cut their flesh, i.e. they
 should not incur the sin of schism.
 
-<span class="atom-split" data-atom="104" data-title="OF THE DURATION OF THE CEREMONIAL PRECEPTS (FOUR ARTICLES)" data-chapter="OF THE DURATION OF THE CEREMONIAL PRECEPTS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="OF THE DURATION OF THE CEREMONIAL PRECEPTS (FOUR ARTICLES)" data-chapter="OF THE DURATION OF THE CEREMONIAL PRECEPTS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the duration of the ceremonial precepts: under which head there are
 four points of inquiry:
@@ -5830,7 +5830,7 @@ four points of inquiry:
 (3) Whether they ceased at the coming of Christ?
 (4) Whether it is a mortal sin to observe them after the coming of Christ?
 
-<span class="atom-split" data-atom="105" data-title="Whether the ceremonies of the Law were in existence before the Law?" data-chapter="Whether the ceremonies of the Law were in existence before the Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether the ceremonies of the Law were in existence before the Law?" data-chapter="Whether the ceremonies of the Law were in existence before the Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the ceremonies of the Law were in existence before the Law.
 For sacrifices and holocausts were ceremonies of the [Old Law](/concepts/divine_law), as stated above (Q[101], A[4]). But
@@ -5899,7 +5899,7 @@ that it was considered illegal to eat such animals, since this was not forbidden
 dislike or [custom](/concepts/custom): thus even now we see that certain foods are looked upon with disgust in some
 countries, while people partake of them in others.
 
-<span class="atom-split" data-atom="106" data-title="Whether, at the time of the Law, the ceremonies of the Old Law had any power of justification?" data-chapter="Whether, at the time of the Law, the ceremonies of the Old Law had any power of justification?" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Whether, at the time of the Law, the ceremonies of the Old Law had any power of justification?" data-chapter="Whether, at the time of the Law, the ceremonies of the Old Law had any power of justification?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the ceremonies of the [Old Law](/concepts/divine_law) had the power of justification
 at the time of the Law. Because expiation from sin and consecration pertains to justification. But
@@ -5984,7 +5984,7 @@ not in virtue of the sacrifice. Thus also it was by [miracle](/concepts/miracle)
 rotted, when she had drunk the water "on which" the priest had "heaped curses," as stated in Num.
 5:19-27.
 
-<span class="atom-split" data-atom="107" data-title="Whether the ceremonies of the Old Law ceased at the coming of Christ?" data-chapter="Whether the ceremonies of the Old Law ceased at the coming of Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether the ceremonies of the Old Law ceased at the coming of Christ?" data-chapter="Whether the ceremonies of the Old Law ceased at the coming of Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the ceremonies of the [Old Law](/concepts/divine_law) did not cease at the coming of
 Christ. For it is written (Bar 4:1): "This is the book of the commandments of God, and the law that
@@ -6065,7 +6065,7 @@ fulness of grace: the feast of Trumpets, to the feasts of the Apostles: the feas
 feasts of Martyrs and Confessors: the feast of Tabernacles, to the feast of the Church Dedication:
 the feast of the Assembly and Collection, to feast of the Angels, or else to the feast of All Hallows.
 
-<span class="atom-split" data-atom="108" data-title="Whether since Christ's Passion the legal ceremonies can be observed without committing mortal sin? (1/2)" data-chapter="Whether since Christ's Passion the legal ceremonies can be observed without committing mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Whether since Christ's Passion the legal ceremonies can be observed without committing mortal sin? (1/2)" data-chapter="Whether since Christ's Passion the legal ceremonies can be observed without committing mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that since Christ's Passion the legal ceremonies can be observed
 without committing mortal sin. For we must not believe that the apostles committed mortal sin
@@ -6155,7 +6155,7 @@ observing the legal ceremonial for the time being; because this was lawful for h
 converted Jew. But he did sin by excessive minuteness in the observance of the legal rites lest he
 should scandalize the Jews, the result being that he gave scandal to the Gentiles.
 
-<span class="atom-split" data-atom="109" data-title="Whether since Christ's Passion the legal ceremonies can be observed without committing mortal sin? (2/2)" data-chapter="Whether since Christ's Passion the legal ceremonies can be observed without committing mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Whether since Christ's Passion the legal ceremonies can be observed without committing mortal sin? (2/2)" data-chapter="Whether since Christ's Passion the legal ceremonies can be observed without committing mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Some have held that this prohibition of the apostles is not to be taken
 literally, but spiritually: namely, that the prohibition of blood signifies the prohibition of murder;
@@ -6182,7 +6182,7 @@ was divulged, wherein Our Lord taught that "not that which entereth into the mou
 With regard to fornication a special prohibition was made, because the Gentiles did not hold it to
 be sinful.
 
-<span class="atom-split" data-atom="110" data-title="OF THE JUDICIAL PRECEPTS (FOUR ARTICLES)" data-chapter="OF THE JUDICIAL PRECEPTS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="OF THE JUDICIAL PRECEPTS (FOUR ARTICLES)" data-chapter="OF THE JUDICIAL PRECEPTS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the judicial precepts: and first of all we shall consider them in general;
 in the second place we shall consider their reasons. Under the first head there are four points of
@@ -6192,7 +6192,7 @@ inquiry:
 (3) Their duration;
 (4) Their division.
 
-<span class="atom-split" data-atom="111" data-title="Whether the judicial precepts were those which directed man in relation to his neighbor?" data-chapter="Whether the judicial precepts were those which directed man in relation to his neighbor?" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="Whether the judicial precepts were those which directed man in relation to his neighbor?" data-chapter="Whether the judicial precepts were those which directed man in relation to his neighbor?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the judicial precepts were not those which directed man in his
 relations to his neighbor. For judicial precepts take their name from "judgment." But there are many
@@ -6256,7 +6256,7 @@ to his neighbor are more subject to reason than the relations of man to God, the
 whereby man is directed in his relations to his neighbor, than whereby he is directed to God. For
 the same reason there had to be more ceremonial than judicial precepts in the Law.
 
-<span class="atom-split" data-atom="112" data-title="Whether the judicial precepts were figurative?" data-chapter="Whether the judicial precepts were figurative?" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="Whether the judicial precepts were figurative?" data-chapter="Whether the judicial precepts were figurative?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the judicial precepts were not figurative. Because it seems
 proper to the ceremonial precepts to be instituted as figures of something else. Therefore, if the
@@ -6301,7 +6301,7 @@ Reply to Objection 3: In this people the direction of man in regard to his neigh
 in itself, was subject to reason. But in so far as it was referred to the worship of God, it was above
 reason: and in this respect it was figurative.
 
-<span class="atom-split" data-atom="113" data-title="Whether the judicial precepts of the Old Law bind for ever?" data-chapter="Whether the judicial precepts of the Old Law bind for ever?" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="Whether the judicial precepts of the Old Law bind for ever?" data-chapter="Whether the judicial precepts of the Old Law bind for ever?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the judicial precepts of the [Old Law](/concepts/divine_law) bind for ever. Because
 the judicial precepts relate to the virtue of justice: since a judgment is an execution of the virtue of
@@ -6362,7 +6362,7 @@ keeping with the demands of that state. But after the coming of Christ, there ha
 the state of that people, so that in Christ there was no distinction between Gentile and Jew, as there
 had been before. For this reason the judicial precepts needed to be changed also.
 
-<span class="atom-split" data-atom="114" data-title="Whether it is possible to assign a distinct division of the judicial precepts?" data-chapter="Whether it is possible to assign a distinct division of the judicial precepts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="Whether it is possible to assign a distinct division of the judicial precepts?" data-chapter="Whether it is possible to assign a distinct division of the judicial precepts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is impossible to assign a distinct division of the judicial
 precepts. Because the judicial precepts direct men in their relations to one another. But those things
@@ -6414,7 +6414,7 @@ reason for distinguishing them.
 Reply to Objection 3: The Law alludes to the division of the judicial precepts in the very things
 themselves which are prescribed by the judicial precepts of the Law.
 
-<span class="atom-split" data-atom="115" data-title="OF THE REASON FOR THE JUDICIAL PRECEPTS (FOUR ARTICLES)" data-chapter="OF THE REASON FOR THE JUDICIAL PRECEPTS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="OF THE REASON FOR THE JUDICIAL PRECEPTS (FOUR ARTICLES)" data-chapter="OF THE REASON FOR THE JUDICIAL PRECEPTS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the reason for the judicial precepts: under which head there are four
 points of inquiry:
@@ -6423,7 +6423,7 @@ points of inquiry:
 (3) Concerning matters relating to foreigners;
 (4) Concerning things relating to domestic matters.
 
-<span class="atom-split" data-atom="116" data-title="Whether the Old Law enjoined fitting precepts concerning rulers? (1/2)" data-chapter="Whether the Old Law enjoined fitting precepts concerning rulers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Whether the Old Law enjoined fitting precepts concerning rulers? (1/2)" data-chapter="Whether the Old Law enjoined fitting precepts concerning rulers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) made unfitting precepts concerning rulers. Because,
 as the Philosopher says (Polit. iii, 4), "the ordering of the people depends mostly on the chief ruler."
@@ -6522,7 +6522,7 @@ fear and obey God. Moreover, He decided how they should behave towards their sub
 that they should not proudly despise them, or ill-treat them, and that they should not depart from
 the paths of justice.
 
-<span class="atom-split" data-atom="117" data-title="Whether the Old Law enjoined fitting precepts concerning rulers? (2/2)" data-chapter="Whether the Old Law enjoined fitting precepts concerning rulers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Whether the Old Law enjoined fitting precepts concerning rulers? (2/2)" data-chapter="Whether the Old Law enjoined fitting precepts concerning rulers?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The division of the kingdom, and a number of kings, was rather a
 punishment inflicted on that people for their many dissensions, specially against the just rule of
@@ -6552,7 +6552,7 @@ however, that even a good king, without being a tyrant, may take away the sons, 
 tribunes and centurions; and may take many things from his subjects in order to secure the common
 weal.
 
-<span class="atom-split" data-atom="118" data-title="Whether the judicial precepts were suitably framed as to the relations of one man with another? (1/5)" data-chapter="Whether the judicial precepts were suitably framed as to the relations of one man with another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Whether the judicial precepts were suitably framed as to the relations of one man with another? (1/5)" data-chapter="Whether the judicial precepts were suitably framed as to the relations of one man with another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the judicial precepts were not suitably framed as regards the
 relations of one man with another. Because men cannot live together in peace, if one man takes
@@ -6644,7 +6644,7 @@ heifer."
 On the contrary, It is recalled as a special blessing (Ps. 147:20) that "He hath not done in like
 manner to every nation; and His judgments He hath not made manifest to them."
 
-<span class="atom-split" data-atom="119" data-title="Whether the judicial precepts were suitably framed as to the relations of one man with another? (2/5)" data-chapter="Whether the judicial precepts were suitably framed as to the relations of one man with another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="Whether the judicial precepts were suitably framed as to the relations of one man with another? (2/5)" data-chapter="Whether the judicial precepts were suitably framed as to the relations of one man with another?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, As [Augustine](/figures/augustine) says (De Civ. Dei ii, 21), quoting Tully, "a nation is a body of
 men united together by consent to the law and by community of welfare." Consequently it is of the
@@ -6735,7 +6735,7 @@ but "in a village that hath no walls," could not be sold in perpetuity: because 
 merely with a view to the cultivation and care of possessions; wherefore the Law rightly made the
 same prescription in regard to both (Lev. 25).
 
-<span class="atom-split" data-atom="120" data-title="Whether the judicial precepts were suitably framed as to the relations of one man with another? (3/5)" data-chapter="Whether the judicial precepts were suitably framed as to the relations of one man with another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="Whether the judicial precepts were suitably framed as to the relations of one man with another? (3/5)" data-chapter="Whether the judicial precepts were suitably framed as to the relations of one man with another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: As stated above (ad 1), the purpose of the Law was to accustom men
 to its precepts, so as to be ready to come to one another's assistance: because this is a very great
@@ -6825,7 +6825,7 @@ of the Divine Persons, Who are sometimes mentioned as two, because the Holy Ghos
 of the other two Persons; and sometimes as three: as [Augustine](/figures/augustine) observes on Jn. 8:17: "In your law
 it is written that the testimony of two men is true."
 
-<span class="atom-split" data-atom="121" data-title="Whether the judicial precepts were suitably framed as to the relations of one man with another? (4/5)" data-chapter="Whether the judicial precepts were suitably framed as to the relations of one man with another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Whether the judicial precepts were suitably framed as to the relations of one man with another? (4/5)" data-chapter="Whether the judicial precepts were suitably framed as to the relations of one man with another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 9: A severe punishment is inflicted not only on account of the gravity of
 a fault, but also for other reasons. First, on account of the greatness of the sin, because a greater
@@ -6900,7 +6900,7 @@ offenses. Hence the owner was more severely punished if his ox had butted anyone
 the day before" (in which case steps might have been taken to butting suddenly). Or again, the
 animal was slain in detestation of the sin; and lest men should be horrified at the sight thereof.
 
-<span class="atom-split" data-atom="122" data-title="Whether the judicial precepts were suitably framed as to the relations of one man with another? (5/5)" data-chapter="Whether the judicial precepts were suitably framed as to the relations of one man with another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="Whether the judicial precepts were suitably framed as to the relations of one man with another? (5/5)" data-chapter="Whether the judicial precepts were suitably framed as to the relations of one man with another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 12: The literal reason for this commandment, as Rabbi Moses declares
 (Doct. Perplex. iii), was because the slayer was frequently from the nearest city: wherefore the
@@ -6922,7 +6922,7 @@ yoke, since it had done no sin; nor did it plough the ground, i.e. it never knew
 The fact of the heifer being killed in an uncultivated valley signified the despised death of Christ,
 whereby all sins are washed away, and the devil is shown to be the arch-murderer.
 
-<span class="atom-split" data-atom="123" data-title="Whether the judicial precepts regarding foreigners were framed in a suitable manner? (1/2)" data-chapter="Whether the judicial precepts regarding foreigners were framed in a suitable manner?" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Whether the judicial precepts regarding foreigners were framed in a suitable manner? (1/2)" data-chapter="Whether the judicial precepts regarding foreigners were framed in a suitable manner?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the judicial precepts regarding foreigners were not suitably
 framed. For Peter said (Acts 10:34,35): "In very deed I perceive that God is not a respecter of
@@ -7026,7 +7026,7 @@ others, as neither were strangers, as already stated: for it is written (Isa. 56
 the stranger that adhereth to the Lord speak, saying: The Lord will divide and separate me from
 His people. And let not the eunuch say: Behold I am a dry tree."
 
-<span class="atom-split" data-atom="124" data-title="Whether the judicial precepts regarding foreigners were framed in a suitable manner? (2/2)" data-chapter="Whether the judicial precepts regarding foreigners were framed in a suitable manner?" data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="Whether the judicial precepts regarding foreigners were framed in a suitable manner? (2/2)" data-chapter="Whether the judicial precepts regarding foreigners were framed in a suitable manner?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: It was not the intention of the Law to sanction the acceptance of usury
 from strangers, but only to tolerate it on account of the proneness of the Jews to avarice; and in
@@ -7057,7 +7057,7 @@ Reply to Objection 6: The timid were sent back home, not that they might be the 
 thereby; but lest the people might be the losers by their presence, since their timidity and flight
 might cause others to be afraid and run away.
 
-<span class="atom-split" data-atom="125" data-title="Whether the Old Law set forth suitable precepts about the members of the household? (1/2)" data-chapter="Whether the Old Law set forth suitable precepts about the members of the household?" data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="Whether the Old Law set forth suitable precepts about the members of the household? (1/2)" data-chapter="Whether the Old Law set forth suitable precepts about the members of the household?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [Old Law](/concepts/divine_law) set forth unsuitable precepts about the members
 of the household. For a slave "is in every respect his master's property," as the Philosopher states
@@ -7161,7 +7161,7 @@ sense, after a lapse of time they were set free.
 Reply to Objection 2: This commandment is to be understood as referring to a servant whom
 his master seeks to kill, or to help him in committing some sin.
 
-<span class="atom-split" data-atom="126" data-title="Whether the Old Law set forth suitable precepts about the members of the household? (2/2)" data-chapter="Whether the Old Law set forth suitable precepts about the members of the household?" data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="Whether the Old Law set forth suitable precepts about the members of the household? (2/2)" data-chapter="Whether the Old Law set forth suitable precepts about the members of the household?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: With regard to the ill-treatment of servants, the Law seems to have taken
 into consideration whether it was certain or not: since if it were certain, the Law fixed a penalty:
@@ -7221,7 +7221,7 @@ does not apply to a son in respect of his father, or to a servant in respect of 
 latter infidelity is not the result of the lust of pleasure, but rather of malice: nor can it remain hidden
 like the infidelity of an adulterous woman.
 
-<span class="atom-split" data-atom="127" data-title="OF THE LAW OF THE GOSPEL, CALLED THE NEW LAW, CONSIDERED IN ITSELF (FOUR ARTICLES)" data-chapter="OF THE LAW OF THE GOSPEL, CALLED THE NEW LAW, CONSIDERED IN ITSELF (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="OF THE LAW OF THE GOSPEL, CALLED THE NEW LAW, CONSIDERED IN ITSELF (FOUR ARTICLES)" data-chapter="OF THE LAW OF THE GOSPEL, CALLED THE NEW LAW, CONSIDERED IN ITSELF (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In proper sequence we have to consider now the [Law of the Gospel](/concepts/divine_law) which is called the New
 Law: and in the first place we must consider it in itself; secondly, in comparison with the Old Law;
@@ -7232,7 +7232,7 @@ are four points of inquiry:
 (3) Of its beginning: should it have been given at the beginning of the world?
 (4) Of its end: i.e. whether it will last until the end, or will another law take its place?
 
-<span class="atom-split" data-atom="128" data-title="Whether the New Law is a written law?" data-chapter="Whether the New Law is a written law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Whether the New Law is a written law?" data-chapter="Whether the New Law is a written law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) is a written law. For the New Law is just the
 same as the Gospel. But the Gospel is set forth in writing, according to Jn. 20:31: "But these are
@@ -7294,7 +7294,7 @@ Reply to Objection 3: No man ever had the grace of the Holy Ghost except through
 Christ either explicit or implicit: and by faith in Christ man belongs to the New Testament.
 Consequently whoever had the law of grace instilled into them belonged to the New Testament.
 
-<span class="atom-split" data-atom="129" data-title="Whether the New Law justifies?" data-chapter="Whether the New Law justifies?" data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="Whether the New Law justifies?" data-chapter="Whether the New Law justifies?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) does not justify. For no man is justified unless
 he obeys God's law, according to Heb. 5:9: "He," i.e. Christ, "became to all that obey Him the cause
@@ -7349,7 +7349,7 @@ of death and a ministration of condemnation: whereas he calls the other letter, 
 New Testament, the ministration of the spirit and the ministration of justice: because through the
 gift of the Spirit we work justice, and are delivered from the condemnation due to transgression."
 
-<span class="atom-split" data-atom="130" data-title="Whether the New Law should have been given from the beginning of the world?" data-chapter="Whether the New Law should have been given from the beginning of the world?" data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="Whether the New Law should have been given from the beginning of the world?" data-chapter="Whether the New Law should have been given from the beginning of the world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) should have been given from the beginning of
 the world. "For there is no respect of persons with God" (Rom. 2:11). But "all" men "have sinned
@@ -7409,7 +7409,7 @@ Reply to Objection 3: Things pertaining to the health of the body are of service
 regards his nature, which sin does not destroy: whereas things pertaining to the health of the soul
 are ordained to grace, which is forfeit through sin. Consequently the comparison will not hold.
 
-<span class="atom-split" data-atom="131" data-title="Whether the New Law will last till the end of the world?" data-chapter="Whether the New Law will last till the end of the world?" data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="Whether the New Law will last till the end of the world?" data-chapter="Whether the New Law will last till the end of the world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) will not last until the end of the world. Because,
 as the Apostle says (1 Cor. 13:10), "when that which is perfect is come, that which is in part shall
@@ -7501,7 +7501,7 @@ to wit, the Church would be founded in every nation. And in these sense, as Augu
 Hesychius (Epist. cxcix), the Gospel is not preached to the whole world yet, but, when it is, the
 consummation of the world will come.
 
-<span class="atom-split" data-atom="132" data-title="OF THE NEW LAW AS COMPARED WITH THE OLD (FOUR ARTICLES)" data-chapter="OF THE NEW LAW AS COMPARED WITH THE OLD (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="OF THE NEW LAW AS COMPARED WITH THE OLD (FOUR ARTICLES)" data-chapter="OF THE NEW LAW AS COMPARED WITH THE OLD (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the [New Law](/concepts/divine_law) as compared with the Old: under which head there are
 four points of inquiry:
@@ -7510,7 +7510,7 @@ four points of inquiry:
 (3) Whether the New Law is contained in the Old?
 (4) Which is the more burdensome, the New or the Old Law?
 
-<span class="atom-split" data-atom="133" data-title="Whether the New Law is distinct from the Old Law?" data-chapter="Whether the New Law is distinct from the Old Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Whether the New Law is distinct from the Old Law?" data-chapter="Whether the New Law is distinct from the Old Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) is not distinct from the Old. Because both these
 laws were given to those who believe in God: since "without faith it is impossible to please God,"
@@ -7607,7 +7607,7 @@ through faith in Christ, Who is the Author of the New Testament. Hence of Moses 
 (Heb. 11:26) that he esteemed "the reproach of Christ greater riches than the treasure of the
 Egyptians."
 
-<span class="atom-split" data-atom="134" data-title="Whether the New Law fulfils the Old? (1/2)" data-chapter="Whether the New Law fulfils the Old?" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="Whether the New Law fulfils the Old? (1/2)" data-chapter="Whether the New Law fulfils the Old?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) does not fulfil the Old. Because to fulfil and to
 void are contrary. But the New Law voids or excludes the observances of the Old Law: for the
@@ -7706,7 +7706,7 @@ sabbath according to the superstitious interpretation of the Pharisees, who thou
 to abstain from doing even works of kindness on the sabbath; which was contrary to the intention
 of the Law.
 
-<span class="atom-split" data-atom="135" data-title="Whether the New Law fulfils the Old? (2/2)" data-chapter="Whether the New Law fulfils the Old?" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="Whether the New Law fulfils the Old? (2/2)" data-chapter="Whether the New Law fulfils the Old?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The reason why the ceremonial precepts of the Law are not mentioned
 in Mat. 5 is because, as stated above (ad 1), their observance was abolished by their fulfilment. But
@@ -7716,7 +7716,7 @@ retaliation should be sought out of love of justice, and not as a punishment out
 which He forbade, admonishing man to be ready to suffer yet greater insults; and this remains still
 in the [New Law](/concepts/divine_law).
 
-<span class="atom-split" data-atom="136" data-title="Whether the New Law is contained in the Old?" data-chapter="Whether the New Law is contained in the Old?" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="Whether the New Law is contained in the Old?" data-chapter="Whether the New Law is contained in the Old?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) is not contained in the Old. Because the New
 Law consists chiefly in faith: wherefore it is called the "law of faith" (Rom. 3:27). But many points
@@ -7765,7 +7765,7 @@ in the seed.
 Reply to Objection 3: What is set forth implicitly needs to be declared explicitly. Hence after
 the publishing of the Old Law, a New Law also had to be given.
 
-<span class="atom-split" data-atom="137" data-title="Whether the New Law is more burdensome than the Old?" data-chapter="Whether the New Law is more burdensome than the Old?" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="Whether the New Law is more burdensome than the Old?" data-chapter="Whether the New Law is more burdensome than the Old?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) is more burdensome than the Old. For Chrysostom
 (Opus Imp. in Matth., Hom. x [*The work of an unknown author]) say: "The commandments given
@@ -7830,7 +7830,7 @@ render it easier to do what it prescribed, as Augustine states [*De Serm. Dom. i
 xix, 23,26]. Accordingly this does not prove that the New Law is more burdensome, but rather that
 it is a lighter burden.
 
-<span class="atom-split" data-atom="138" data-title="OF THOSE THINGS THAT ARE CONTAINED IN THE NEW LAW (FOUR ARTICLES)" data-chapter="OF THOSE THINGS THAT ARE CONTAINED IN THE NEW LAW (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="OF THOSE THINGS THAT ARE CONTAINED IN THE NEW LAW (FOUR ARTICLES)" data-chapter="OF THOSE THINGS THAT ARE CONTAINED IN THE NEW LAW (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider those things that are contained in the [New Law](/concepts/divine_law): under which head there
 are four points of inquiry:
@@ -7840,7 +7840,7 @@ acts?
 (3) Whether in the matter of internal acts it directs man sufficiently?
 (4) Whether it fittingly adds counsels to precepts?
 
-<span class="atom-split" data-atom="139" data-title="Whether the New Law ought to prescribe or prohibit any external acts?" data-chapter="Whether the New Law ought to prescribe or prohibit any external acts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="Whether the New Law ought to prescribe or prohibit any external acts?" data-chapter="Whether the New Law ought to prescribe or prohibit any external acts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) should not prescribe or prohibit any external
 acts. For the New Law is the Gospel of the kingdom, according to Mat. 24:14: "This Gospel of the
@@ -7917,7 +7917,7 @@ liberty" (James 1:25).
 Reply to Objection 3: The New Law, by restraining the mind from inordinate movements,
 must needs also restrain the hand from inordinate acts, which ensue from inward movements.
 
-<span class="atom-split" data-atom="140" data-title="Whether the New Law made sufficient ordinations about external acts?" data-chapter="Whether the New Law made sufficient ordinations about external acts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="Whether the New Law made sufficient ordinations about external acts?" data-chapter="Whether the New Law made sufficient ordinations about external acts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) made insufficient ordinations about external
 acts. Because faith that worketh through charity seems chiefly to belong to the New Law, according
@@ -8011,7 +8011,7 @@ Lord left the judicial precepts to the discretion of those who were to have spir
 charge of others. But as regards the judicial precepts of the Old Law, some of them He explained,
 because they were misunderstood by the Pharisees, as we shall state later on (A[3], ad 2).
 
-<span class="atom-split" data-atom="141" data-title="Whether the New Law directed man sufficiently as regards interior actions? (1/2)" data-chapter="Whether the New Law directed man sufficiently as regards interior actions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="Whether the New Law directed man sufficiently as regards interior actions? (1/2)" data-chapter="Whether the New Law directed man sufficiently as regards interior actions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [New Law](/concepts/divine_law) directed man insufficiently as regards interior
 actions. For there are ten commandments of the decalogue directing man to God and his neighbor.
@@ -8116,7 +8116,7 @@ worship: as is evident from Jn. 4:21,23, where He says: "The hour cometh when yo
 on this mountain, nor in Jerusalem adore the Father . . . but . . . the true adorers shall adore the
 Father in spirit and in truth."
 
-<span class="atom-split" data-atom="142" data-title="Whether the New Law directed man sufficiently as regards interior actions? (2/2)" data-chapter="Whether the New Law directed man sufficiently as regards interior actions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="Whether the New Law directed man sufficiently as regards interior actions? (2/2)" data-chapter="Whether the New Law directed man sufficiently as regards interior actions?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: All worldly goods may be reduced to three---honors, riches, and pleasures;
 according to 1 Jn. 2:16: "All that is in the world is the concupiscence of the flesh," which refers to
@@ -8151,7 +8151,7 @@ Reply to Objection 6: Our Lord did not forbid the judgment of justice, without w
 things could not be withdrawn from the unworthy. But he forbade inordinate judgment, as stated
 above.
 
-<span class="atom-split" data-atom="143" data-title="Whether certain definite counsels are fittingly proposed in the New Law?" data-chapter="Whether certain definite counsels are fittingly proposed in the New Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="Whether certain definite counsels are fittingly proposed in the New Law?" data-chapter="Whether certain definite counsels are fittingly proposed in the New Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that certain definite counsels are not fittingly proposed in the New
 Law. For counsels are given about that which is expedient for an end, as we stated above, when

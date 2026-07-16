@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/tratado_del_esfuerzo_puro" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Tratado del esfuerzo puro" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Tratado del esfuerzo puro" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿A quién va dedicado —decíamos— este fastuoso sacrificio de esfuerzo?
 

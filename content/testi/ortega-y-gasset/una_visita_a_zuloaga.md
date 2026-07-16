@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/una_visita_a_zuloaga" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Una visita a Zuloaga" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Una visita a Zuloaga" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, diciembre de 1911
 
@@ -48,7 +48,7 @@ Con los cuadros de Zuloaga, he dicho en otro lugar, penetra en las exposiciones 
 
 Cuando Zuloaga pinta una escena, más o menos, del gusto de París, pongamos por caso Le vieux marcheur —el viejo verde que es atraído como una hoja quebradiza de otoño por la ráfaga erótica de dos mozas andantes— no podemos llegar al entusiasmo. Nos hallamos con una anécdota más allá de la cual hay lugar para infinitas otras anécdotas; además, esa anécdota no nos es referida de una manera simple, sobria y espontánea. El pintor pretende que nos detengamos en ella, convierte cada línea y cada mancha de color en una gesticulación, se afana demasiado en convencernos, insiste con exceso en los detalles, y acaba por hacer cabriolas sobre el mísero tema anecdótico, que, exento de fortaleza, se viene abajo con toda la saltimbanquia de líneas y contrastes sobre él amontonada. Éste no es nuestro Zuloaga: es un juglar que, tal vez muy diestro y ágil, nos entretiene con una fantasmagoría.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En cambio, Zuloaga ha pintado el enano Gregorio el Botero. Una figura deforme, de horrible faz, ancha, chata y bisoja, calzados los pies de alpargatas y las piernas de calzones, que medio se le derriban, en mangas de camisa, abierta ésta por el pecho, que avanza con enormes músculos de antropoide. Sobre el suelo se alzan, y apoyados en su hombro se mantienen en pie, dos henchidos pellejos que conservan las formas orgánicas del animal que en ellos habitó, y afirman un no remoto parentesco con el hombre monstruoso que los abraza como a dos semejantes. Y este grupo de vida orgánica destaca sobre un paisaje de tierra desolada sin árboles, rugosa, dura, frígida. A mano derecha, rampan por un collado los cubos de unas murallas rudísimas, de una ciudad apenas sugerida, sugerida lo bastante para que se sepa que es una ciudad bárbara y torva y enérgica, cuyos pobladores son crueles unos para con otros, y cada cual es enemigo de sí mismo, y nadie sabe qué es admirar ni qué es amor. Encima, un cielo, que es una guerra rauda entre un ventarrón y unas nubes, las cuales, en sus desgajes y culebreos, dan cuerpo a las líneas de embestida del viento. A mi manera de ver, debe Zuloaga su triunfo a que es acaso el único pintor vivo cuyo tema no ha sido inventado por él. Me explicaré.
 

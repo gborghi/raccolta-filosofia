@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/unas_gotas_de_fenomenología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Unas gotas de fenomenología" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Unas gotas de fenomenología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Un hombre ilustre agoniza. Su mujer está junto al lecho. Un médico cuenta las pulsaciones del moribundo. En el fondo de la habitación hay otras dos personas: un periodista, que asiste a la escena obitual por razón de su oficio, y un pintor que el azar ha conducido allí. Esposa, médico, periodista y pintor presencian un mismo hecho. Sin embargo, este único y mismo hecho —la agonía de un hombre— se ofrece a cada uno de ellos con aspecto distinto. Tan distintos son estos aspectos, que apenas si tienen un núcleo común. La diferencia entre lo que es para la mujer transida de dolor y para el pintor que, impasible, mira la escena, es tanta, que casi fuera más exacto decir: la esposa y el pintor presencian dos hechos completamente distintos.
 

@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_passions" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Passions" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Passions" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE PASSIONS (QQ[22]-48)
 
-<span class="atom-split" data-atom="002" data-title="OF THE SUBJECT OF THE SOUL'S PASSIONS (THREE ARTICLES)" data-chapter="OF THE SUBJECT OF THE SOUL'S PASSIONS (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE SUBJECT OF THE SOUL'S PASSIONS (THREE ARTICLES)" data-chapter="OF THE SUBJECT OF THE SOUL'S PASSIONS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the passions of the soul: first, in general; secondly, in particular. Taking
 them in general, there are four things to be considered: (1) Their subject: (2) The difference between
@@ -35,7 +35,7 @@ Under the first head there are three points of inquiry:
 (3) Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is
 called the will?
 
-<span class="atom-split" data-atom="003" data-title="Whether any passion is in the soul?" data-chapter="Whether any passion is in the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether any passion is in the soul?" data-chapter="Whether any passion is in the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no passion in the soul. Because passivity belongs to
 matter. But the soul is not composed of matter and form, as stated in the FP, Q[75], A[5]. Therefore
@@ -86,7 +86,7 @@ Reply to Objection 3: This argument is true of passion accompanied by transmutat
 something worse. And passion, in this sense, is not found in the soul, except accidentally: but the
 composite, which is corruptible, admits of it by reason of its own nature.
 
-<span class="atom-split" data-atom="004" data-title="Whether passion is in the appetitive rather than in the apprehensive part?" data-chapter="Whether passion is in the appetitive rather than in the apprehensive part?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether passion is in the appetitive rather than in the apprehensive part?" data-chapter="Whether passion is in the appetitive rather than in the apprehensive part?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that passion is in the apprehensive part of the soul rather than in
 the appetitive. Because that which is first in any genus, seems to rank first among all things that
@@ -156,7 +156,7 @@ of the blood about the heart." Hence it is evident that the notion of passion is
 the act of the sensitive appetite, than with that of the sensitive apprehension, although both are
 actions of a corporeal organ.
 
-<span class="atom-split" data-atom="005" data-title="Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is called the will?" data-chapter="Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is called the will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is called the will?" data-chapter="Whether passion is in the sensitive appetite rather than in the intellectual appetite, which is called the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that passion is not more in the sensitive than in the intellectual
 appetite. For Dionysius declares (Div. Nom. ii) Hierotheus "to be taught by a kind of yet more
@@ -201,7 +201,7 @@ while they punish . . . no fellow-feeling with misery while they relieve the unh
 human speech is wont to ascribe to them also these passions by name, because, although they have
 none of our weakness, their acts bear a certain resemblance to ours."
 
-<span class="atom-split" data-atom="006" data-title="HOW THE PASSIONS DIFFER FROM ONE ANOTHER (FOUR ARTICLES)" data-chapter="HOW THE PASSIONS DIFFER FROM ONE ANOTHER (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="HOW THE PASSIONS DIFFER FROM ONE ANOTHER (FOUR ARTICLES)" data-chapter="HOW THE PASSIONS DIFFER FROM ONE ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider how the passions differ from one another: and under this head there are
 four points of inquiry:
@@ -212,7 +212,7 @@ and evil?
 (4) Whether, in the same power, there are any passions, differing in species, but not contrary
 to one another?
 
-<span class="atom-split" data-atom="007" data-title="Whether the passions of the concupiscible part are different from those of the irascible part?" data-chapter="Whether the passions of the concupiscible part are different from those of the irascible part?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether the passions of the concupiscible part are different from those of the irascible part?" data-chapter="Whether the passions of the concupiscible part are different from those of the irascible part?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the same passions are in the irascible and concupiscible parts.
 For the Philosopher says (Ethic. ii, 5) that the passions of the soul are those emotions "which are
@@ -275,7 +275,7 @@ power: and hence the need of another power tending to that good. The same applie
 this power is the irascible faculty. Consequently the concupiscible passions are specifically different
 from the irascible passions.
 
-<span class="atom-split" data-atom="008" data-title="Whether the contrariety of the irascible passions is based on the contrariety of good and evil?" data-chapter="Whether the contrariety of the irascible passions is based on the contrariety of good and evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the contrariety of the irascible passions is based on the contrariety of good and evil?" data-chapter="Whether the contrariety of the irascible passions is based on the contrariety of good and evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the contrariety of the irascible passions is based on no other
 contrariety than that of good and evil. For the irascible passions are ordained to the concupiscible
@@ -331,7 +331,7 @@ contrariety in respect of good and evil (as between hope and fear): and also con
 to approach and withdrawal in respect of the same term (as between daring and fear).
 From what has been said the replies to the objections are evident.
 
-<span class="atom-split" data-atom="009" data-title="Whether any passion of the soul has no contrariety?" data-chapter="Whether any passion of the soul has no contrariety?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether any passion of the soul has no contrariety?" data-chapter="Whether any passion of the soul has no contrariety?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every passion of the soul has a contrary. For every passion of
 the soul is either in the irascible or in the concupiscible faculty, as stated above (A[1]). But both
@@ -366,7 +366,7 @@ else than cessation from its movement is contrary thereto; thus the Philosopher 
 that "calm is contrary to anger," by opposition not of contrariety but of negation or privation.
 From what has been said the replies to the objections are evident.
 
-<span class="atom-split" data-atom="010" data-title="Whether in the same power, there are any passions, specifically different, but not contrary to one another?" data-chapter="Whether in the same power, there are any passions, specifically different, but not contrary to one another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether in the same power, there are any passions, specifically different, but not contrary to one another?" data-chapter="Whether in the same power, there are any passions, specifically different, but not contrary to one another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there cannot be, in the same power, specifically different
 passions that are not contrary to one another. For the passions of the soul differ according to their
@@ -425,7 +425,7 @@ Consequently there are altogether eleven passions differing specifically; six in
 faculty, and five in the irascible; and under these all the passions of the soul are contained.
 From this the replies to the objections are evident.
 
-<span class="atom-split" data-atom="011" data-title="OF GOOD AND EVIL IN THE PASSIONS OF THE SOUL (FOUR ARTICLES)" data-chapter="OF GOOD AND EVIL IN THE PASSIONS OF THE SOUL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="OF GOOD AND EVIL IN THE PASSIONS OF THE SOUL (FOUR ARTICLES)" data-chapter="OF GOOD AND EVIL IN THE PASSIONS OF THE SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider good and evil in the passions of the soul: and under this head there are
 four points of inquiry:
@@ -434,7 +434,7 @@ four points of inquiry:
 (3) Whether every passion increases or decreases the goodness of malice of an act?
 (4) Whether any passion is good or evil specifically?
 
-<span class="atom-split" data-atom="012" data-title="Whether moral good and evil can be found in the passions of the soul?" data-chapter="Whether moral good and evil can be found in the passions of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether moral good and evil can be found in the passions of the soul?" data-chapter="Whether moral good and evil can be found in the passions of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no passion of the soul is morally good or evil. For moral good
 and evil are proper to man: since "morals are properly predicated of man," as Ambrose says (Super
@@ -476,7 +476,7 @@ in so far as they are subordinate to reason. Hence he continues: "For the man wh
 is not praised . . . or blamed, but the man who is angry in a certain way, i.e. according to, or against
 reason."
 
-<span class="atom-split" data-atom="013" data-title="Whether every passion of the soul is evil morally?" data-chapter="Whether every passion of the soul is evil morally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether every passion of the soul is evil morally?" data-chapter="Whether every passion of the soul is evil morally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the passions of the soul are morally evil. For [Augustine](/figures/augustine)
 says (De Civ. Dei ix, 4) that "some call the soul's passions diseases or disturbances of the soul"
@@ -527,7 +527,7 @@ from the order of natural reason.
 Reply to Objection 3: The passions of the soul, in so far as they are contrary to the order of
 reason, incline us to sin: but in so far as they are controlled by reason, they pertain to virtue.
 
-<span class="atom-split" data-atom="014" data-title="Whether passion increases or decreases the goodness or malice of an act?" data-chapter="Whether passion increases or decreases the goodness or malice of an act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether passion increases or decreases the goodness or malice of an act?" data-chapter="Whether passion increases or decreases the goodness or malice of an act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every passion decreases the goodness of a moral action. For
 anything that hinders the judgment of reason, on which depends the goodness of a moral act,
@@ -589,7 +589,7 @@ Reply to Objection 3: A passion that tends to evil, and precedes the judgment of
 diminishes sin; but if it be consequent in either of the ways mentioned above (Reply OBJ 1), it
 aggravates the sin, or else it is a sign of its being more grievous.
 
-<span class="atom-split" data-atom="015" data-title="Whether any passion is good or evil in its species?" data-chapter="Whether any passion is good or evil in its species?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether any passion is good or evil in its species?" data-chapter="Whether any passion is good or evil in its species?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no passion of the soul is good or evil morally according to its
 species. Because moral good and evil depend on reason. But the passions are in the sensitive appetite;
@@ -634,7 +634,7 @@ Nevertheless, in so far as they are led by a kind of estimative power, which is 
 i.e. the Divine reason, there is a certain likeness of moral good in them, in regard to the soul's
 passions.
 
-<span class="atom-split" data-atom="016" data-title="OF THE ORDER OF THE PASSIONS TO ONE ANOTHER (FOUR ARTICLES)" data-chapter="OF THE ORDER OF THE PASSIONS TO ONE ANOTHER (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="OF THE ORDER OF THE PASSIONS TO ONE ANOTHER (FOUR ARTICLES)" data-chapter="OF THE ORDER OF THE PASSIONS TO ONE ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the order of the passions to one another: and under this head there are
 four points of inquiry:
@@ -643,7 +643,7 @@ four points of inquiry:
 (3) The relation of the irascible passions to one another;
 (4) The four principal passions.
 
-<span class="atom-split" data-atom="017" data-title="Whether the irascible passions precede the concupiscible passions, or vice versa?" data-chapter="Whether the irascible passions precede the concupiscible passions, or vice versa?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the irascible passions precede the concupiscible passions, or vice versa?" data-chapter="Whether the irascible passions precede the concupiscible passions, or vice versa?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the irascible passions precede the concupiscible passions. For
 the order of the passions is that of their objects. But the object of the irascible faculty is the difficult
@@ -707,7 +707,7 @@ removes the obstacle that hinders the concupiscible from resting in its object. 
 follows that the irascible passions precede those concupiscible passions that connote rest. The third
 object leads to the same conclusion.
 
-<span class="atom-split" data-atom="018" data-title="Whether love is the first of the concupiscible passions?" data-chapter="Whether love is the first of the concupiscible passions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether love is the first of the concupiscible passions?" data-chapter="Whether love is the first of the concupiscible passions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love is not the first of the concupiscible passions. For the
 concupiscible faculty is so called from concupiscence, which is the same passion as desire. But
@@ -758,7 +758,7 @@ betokens such a union. This union precedes the movement of desire.
 
 Reply to Objection 3: Pleasure causes love, in so far as it precedes love in the order of intention.
 
-<span class="atom-split" data-atom="019" data-title="Whether hope is the first of the irascible passions?" data-chapter="Whether hope is the first of the irascible passions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether hope is the first of the irascible passions?" data-chapter="Whether hope is the first of the irascible passions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope is not the first of the irascible passions. Because the
 irascible faculty is denominated from [anger](/concepts/anger). Since, therefore, "things are [names](/positions/nominalism) from their chief
@@ -821,7 +821,7 @@ the appetitive part is in proportion, not to natural movement, but to the intent
 intends the end before intending the removal of a contrary, which removal is desired only for the
 sake of obtaining the end.
 
-<span class="atom-split" data-atom="020" data-title="Whether these are the four principal passions: joy, sadness, hope and fear?" data-chapter="Whether these are the four principal passions: joy, sadness, hope and fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether these are the four principal passions: joy, sadness, hope and fear?" data-chapter="Whether these are the four principal passions: joy, sadness, hope and fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that joy, sadness, hope and fear are not the four principal passions.
 For [Augustine](/figures/augustine) (De Civ. Dei xiv, 3,[7] sqq.) omits hope and puts desire in its place.
@@ -881,7 +881,7 @@ The effects of love. Under the first head there are four points of inquiry:
 (3) Whether love is the same as dilection?
 (4) Whether love is properly divided into love of [friendship](/concepts/friendship), and love of concupiscence?
 
-<span class="atom-split" data-atom="021" data-title="Whether love is in the concupiscible power?" data-chapter="Whether love is in the concupiscible power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether love is in the concupiscible power?" data-chapter="Whether love is in the concupiscible power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love is not in the concupiscible power. For it is written (Wis.
 8:2): "Her," namely wisdom, "have I loved, and have sought her out from my youth." But the
@@ -931,7 +931,7 @@ soul's powers, and also in all the parts of the body, and universally in all thi
 says (Div. Nom. iv), "[Beauty](/concepts/beauty) and goodness are beloved by all things"; since each single thing has
 a connaturalness with that which is naturally suitable to it.
 
-<span class="atom-split" data-atom="022" data-title="Whether love is a passion?" data-chapter="Whether love is a passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether love is a passion?" data-chapter="Whether love is a passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love is not a passion. For no power is a passion. But every
 love is a power, as Dionysius says (Div. Nom. iv). Therefore love is not a passion.
@@ -975,7 +975,7 @@ Reply to Objection 3: Although love does not denote the movement of the appetite
 towards the appetible object, yet it denotes that movement whereby the appetite is changed by the
 appetible object, so as to have complacency therein.
 
-<span class="atom-split" data-atom="023" data-title="Whether love is the same as dilection?" data-chapter="Whether love is the same as dilection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether love is the same as dilection?" data-chapter="Whether love is the same as dilection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love is the same as dilection. For Dionysius says (Div. Nom.
 iv) that love is to dilection, "as four is to twice two, and as a rectilinear figure is to one composed
@@ -1025,7 +1025,7 @@ judgment of reason. But it is possible for man to tend to God by love, being as 
 drawn by Him, more than he can possibly be drawn thereto by his reason, which pertains to the
 nature of dilection, as stated above. And consequently love is more Godlike than dilection.
 
-<span class="atom-split" data-atom="024" data-title="Whether love is properly divided into love of friendship and love of concupiscence?" data-chapter="Whether love is properly divided into love of friendship and love of concupiscence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether love is properly divided into love of friendship and love of concupiscence?" data-chapter="Whether love is properly divided into love of friendship and love of concupiscence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love is not properly divided into love of [friendship](/concepts/friendship) and love
 of concupiscence. For "love is a passion, while friendship is a [habit](/concepts/custom)," according to the Philosopher
@@ -1070,7 +1070,7 @@ wish his friend some good: and in this respect the character of friendship is pr
 he refers this good further to his own pleasure or use, the result is that friendship of the useful or
 pleasant, in so far as it is connected with love of concupiscence, loses the character to true friendship.
 
-<span class="atom-split" data-atom="025" data-title="OF THE CAUSE OF LOVE (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF LOVE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="OF THE CAUSE OF LOVE (FOUR ARTICLES)" data-chapter="OF THE CAUSE OF LOVE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of love: and under this head there are four points of inquiry:
 (1) Whether good is the only cause of love?
@@ -1078,7 +1078,7 @@ We must now consider the cause of love: and under this head there are four point
 (3) Whether likeness is a cause of love?
 (4) Whether any other passion of the soul is a cause of love?
 
-<span class="atom-split" data-atom="026" data-title="Whether good is the only cause of love?" data-chapter="Whether good is the only cause of love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether good is the only cause of love?" data-chapter="Whether good is the only cause of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that good is not the only cause of love. For good does not cause
 love, except because it is loved. But it happens that evil also is loved, according to Ps. 10:6: "He
@@ -1121,7 +1121,7 @@ and beautiful odors. Thus it is evident that [beauty](/concepts/beauty) adds to 
 faculty: so that "good" means that which simply pleases the appetite; while the "beautiful" is
 something pleasant to apprehend.
 
-<span class="atom-split" data-atom="027" data-title="Whether knowledge is a cause of love?" data-chapter="Whether knowledge is a cause of love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether knowledge is a cause of love?" data-chapter="Whether knowledge is a cause of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that knowledge is not a cause of love. For it is due to love that a
 thing is sought. But some things are sought without being known, for instance, the sciences; for
@@ -1169,7 +1169,7 @@ Reply to Objection 3: Even natural love, which is in all things, is caused by a 
 not indeed existing in natural things themselves, but in Him Who created their nature, as stated
 above (Q[26], A[1]; cf. FP, Q[6], A[1], ad 2).
 
-<span class="atom-split" data-atom="028" data-title="Whether likeness is a cause of love?" data-chapter="Whether likeness is a cause of love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether likeness is a cause of love?" data-chapter="Whether likeness is a cause of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that likeness is not a cause of love. For the same thing is not the
 cause of contraries. But likeness is the cause of hatred; for it is written (Prov. 13:10) that "among
@@ -1232,7 +1232,7 @@ all men have these virtues in the complete [habit](/concepts/custom), yet they h
 principles in the reason, in force of which principles the man who is not virtuous loves the virtuous
 man, as being in conformity with his own natural reason.
 
-<span class="atom-split" data-atom="029" data-title="Whether any other passion of the soul is a cause of love?" data-chapter="Whether any other passion of the soul is a cause of love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether any other passion of the soul is a cause of love?" data-chapter="Whether any other passion of the soul is a cause of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that some other passion can be the cause of love. For the Philosopher
 (Ethic. viii, 3) says that some are loved for the sake of the pleasure they give. But pleasure is a
@@ -1269,7 +1269,7 @@ causes pleasure; and by reason of desire, because hope strengthens desire, since
 so intensely that which we have no hope of receiving. Nevertheless hope itself is of a good that is
 loved.
 
-<span class="atom-split" data-atom="030" data-title="OF THE EFFECTS OF LOVE (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF LOVE (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="OF THE EFFECTS OF LOVE (SIX ARTICLES)" data-chapter="OF THE EFFECTS OF LOVE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider the effects of love: under which head there are six points of inquiry:
 (1) Whether union is an effect of love?
@@ -1279,7 +1279,7 @@ We now have to consider the effects of love: under which head there are six poin
 (5) Whether love is a passion that is hurtful to the lover?
 (6) Whether love is cause of all that the lover does?
 
-<span class="atom-split" data-atom="031" data-title="Whether union is an effect of love?" data-chapter="Whether union is an effect of love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether union is an effect of love?" data-chapter="Whether union is an effect of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that union is not an effect of love. For absence is incompatible
 with union. But love is compatible with absence; for the Apostle says (Gal. 4:18): "Be zealous for
@@ -1338,7 +1338,7 @@ likeness, to the knower. But the effect of love is that the thing itself which i
 united to the lover, as stated above. Consequently the union caused by love is closer than that which
 is caused by knowledge.
 
-<span class="atom-split" data-atom="032" data-title="Whether mutual indwelling is an effect of love?" data-chapter="Whether mutual indwelling is an effect of love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether mutual indwelling is an effect of love?" data-chapter="Whether mutual indwelling is an effect of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love does not cause mutual indwelling, so that the lover be in
 the beloved and vice versa. For that which is in another is contained in it. But the same cannot be
@@ -1402,7 +1402,7 @@ as was explained above.
 Reply to Objection 3: This argument is true of the third kind of mutual indwelling, which is
 not to be found in every kind of love.
 
-<span class="atom-split" data-atom="033" data-title="Whether ecstasy is an effect of love?" data-chapter="Whether ecstasy is an effect of love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether ecstasy is an effect of love?" data-chapter="Whether ecstasy is an effect of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that ecstasy is not an effect of love. For ecstasy seems to imply
 loss of reason. But love does not always result in loss of reason: for lovers are masters of themselves
@@ -1451,7 +1451,7 @@ Reply to Objection 3: He who loves, goes out from himself, in so far as he wills
 his friend and works for it. Yet he does not will the good of his friend more than his own good: and
 so it does not follow that he loves another more than himself.
 
-<span class="atom-split" data-atom="034" data-title="Whether zeal is an effect of love?" data-chapter="Whether zeal is an effect of love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether zeal is an effect of love?" data-chapter="Whether zeal is an effect of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that zeal is not an effect of love. For zeal is a beginning of
 contention; wherefore it is written (1 Cor. 3:3): "Whereas there is among you zeal [Douay: 'envying']
@@ -1507,7 +1507,7 @@ of it.
 Reply to Objection 3: The very fact that a man hates whatever is opposed to the object of his
 love, is the effect of love. Hence zeal is set down as an effect of love rather than of hatred.
 
-<span class="atom-split" data-atom="035" data-title="Whether love is a passion that wounds the lover?" data-chapter="Whether love is a passion that wounds the lover?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether love is a passion that wounds the lover?" data-chapter="Whether love is a passion that wounds the lover?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love wounds the lover. For languor denotes a hurt in the one
 that languishes. But love causes languor: for it is written (Cant 2:5): "Stay me up with flowers,
@@ -1554,7 +1554,7 @@ is signified by "fervor." And these are the effects of love considered formally,
 relation of the appetitive power to its object. But in the passion of love, other effects ensue,
 proportionate to the above, in respect of a change in the organ.
 
-<span class="atom-split" data-atom="036" data-title="Whether love is cause of all that the lover does?" data-chapter="Whether love is cause of all that the lover does?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether love is cause of all that the lover does?" data-chapter="Whether love is cause of all that the lover does?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the lover does not do everything from love. For love is a
 passion, as stated above (Q[26], A[2]). But man does not do everything from passion: but some
@@ -1587,7 +1587,7 @@ proximate causes, are not superfluous.
 
 Reply to Objection 3: Hatred also is a result of love, as we shall state further on (Q[29], A[2]).
 
-<span class="atom-split" data-atom="037" data-title="OF HATRED (SIX ARTICLES)" data-chapter="OF HATRED (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="OF HATRED (SIX ARTICLES)" data-chapter="OF HATRED (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider hatred: concerning which there are six points of inquiry:
 (1) Whether evil is the cause and the object of hatred?
@@ -1597,7 +1597,7 @@ We must now consider hatred: concerning which there are six points of inquiry:
 (5) Whether a man can hate the truth?
 (6) Whether a thing can be the object of universal hatred?
 
-<span class="atom-split" data-atom="038" data-title="Whether evil is the cause and object of hatred?" data-chapter="Whether evil is the cause and object of hatred?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether evil is the cause and object of hatred?" data-chapter="Whether evil is the cause and object of hatred?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that evil is not the object and cause of hatred. For everything that
 exists, as such, is good. If therefore evil be the object of hatred, it follows that nothing but the lack
@@ -1642,7 +1642,7 @@ naturally unsuitable to another: thus heat is becoming to fire and unbecoming to
 respect of the animal appetite, owing to one and the same thing being apprehended by one as good,
 by another as bad.
 
-<span class="atom-split" data-atom="039" data-title="Whether love is a cause of hatred?" data-chapter="Whether love is a cause of hatred?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether love is a cause of hatred?" data-chapter="Whether love is a cause of hatred?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love is not a cause of hatred. For "the opposite members of a
 division are naturally simultaneous" (Praedic. x). But love and hatred are opposite members of a
@@ -1687,7 +1687,7 @@ one term is the reason for turning away from the other. Now the appetitive movem
 rather to the order of intention than to that of execution. Wherefore love precedes hatred: because
 each is an appetitive movement.
 
-<span class="atom-split" data-atom="040" data-title="Whether hatred is stronger than love?" data-chapter="Whether hatred is stronger than love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether hatred is stronger than love?" data-chapter="Whether hatred is stronger than love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hatred is stronger than love. For [Augustine](/figures/augustine) says (QQ. 83, qu.
 36): "There is no one who does not flee from pain, more than he desires pleasure." But flight from
@@ -1729,7 +1729,7 @@ Hence it is clear how to reply to the First Objection. For the love of pleasure 
 love of self-preservation, to which corresponds flight from pain. Wherefore we flee from pain more
 than we love pleasure.
 
-<span class="atom-split" data-atom="041" data-title="Whether a man can hate himself?" data-chapter="Whether a man can hate himself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether a man can hate himself?" data-chapter="Whether a man can hate himself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man can hate himself. For it is written (Ps. 10:6): "He that
 loveth iniquity, hateth his own soul." But many love iniquity. Therefore many hate themselves.
@@ -1770,7 +1770,7 @@ Or we may say that avarice makes man hateful to others, but not to himself. In f
 inordinate self-love, in respect of which, man desires temporal goods for himself more than he
 should.
 
-<span class="atom-split" data-atom="042" data-title="Whether a man can hate the truth?" data-chapter="Whether a man can hate the truth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether a man can hate the truth?" data-chapter="Whether a man can hate the truth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man cannot hate the truth. For good, true, and being are
 convertible. But a man cannot hate good. Neither, therefore, can he hate the truth.
@@ -1814,7 +1814,7 @@ so far as it hinders one from accomplishing one's desire.
 Reply to Objection 3: The reason why we love those who are straightforward is that they make
 known the truth, and the knowledge of the truth, considered in itself, is a desirable thing.
 
-<span class="atom-split" data-atom="043" data-title="Whether anything can be an object of universal hatred?" data-chapter="Whether anything can be an object of universal hatred?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether anything can be an object of universal hatred?" data-chapter="Whether anything can be an object of universal hatred?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a thing cannot be an object of universal hatred. Because hatred
 is a passion of the sensitive appetite, which is moved by an apprehension in the senses. But the
@@ -1860,7 +1860,7 @@ them.
 Reply to Objection 3: This argument considers the universal under the aspect of universality:
 and thus it does not come under the sensitive apprehension or appetite.
 
-<span class="atom-split" data-atom="044" data-title="OF CONCUPISCENCE (FOUR ARTICLES)" data-chapter="OF CONCUPISCENCE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="OF CONCUPISCENCE (FOUR ARTICLES)" data-chapter="OF CONCUPISCENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider concupiscence: under which head there are four points of inquiry:
 (1) Whether concupiscence is in the sensitive appetite only?
@@ -1868,7 +1868,7 @@ We have now to consider concupiscence: under which head there are four points of
 (3) Whether some concupiscences are natural, and some not natural?
 (4) Whether concupiscence is infinite?
 
-<span class="atom-split" data-atom="045" data-title="Whether concupiscence is in the sensitive appetite only?" data-chapter="Whether concupiscence is in the sensitive appetite only?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether concupiscence is in the sensitive appetite only?" data-chapter="Whether concupiscence is in the sensitive appetite only?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that concupiscence is not only in the sensitive appetite. For there
 is a concupiscence of wisdom, according to Wis. 6:21: "The concupiscence [Douay: 'desire'] of
@@ -1915,7 +1915,7 @@ which arises from apprehension, belongs to the appetitive power alone. And to cr
 the aspect of something delightful to the senses, wherein concupiscence properly consists, belongs
 to the concupiscible power.
 
-<span class="atom-split" data-atom="046" data-title="Whether concupiscence is a specific passion?" data-chapter="Whether concupiscence is a specific passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether concupiscence is a specific passion?" data-chapter="Whether concupiscence is a specific passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that concupiscence is not a specific passion of the concupiscible
 power. For passions are distinguished by their objects. But the object of the concupiscible power
@@ -1970,7 +1970,7 @@ absent evil; sometimes it goes by the name of fear, just as hope is sometimes ca
 For a small good or evil is reckoned as though it were nothing: and consequently every movement
 of the appetite in future good or evil is called hope or fear, which regard good and evil as arduous.
 
-<span class="atom-split" data-atom="047" data-title="Whether some concupiscences are natural, and some not natural?" data-chapter="Whether some concupiscences are natural, and some not natural?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether some concupiscences are natural, and some not natural?" data-chapter="Whether some concupiscences are natural, and some not natural?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that concupiscences are not divided into those which are natural
 and those which are not. For concupiscence belongs to the animal appetite, as stated above (A[1],
@@ -2025,7 +2025,7 @@ Q[81], A[3]: so that even rational concupiscence may pertain to the sensitive ap
 the sensitive appetite can be moved by the universal reason also, through the medium of the particular
 imagination.
 
-<span class="atom-split" data-atom="048" data-title="Whether concupiscence is infinite?" data-chapter="Whether concupiscence is infinite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether concupiscence is infinite?" data-chapter="Whether concupiscence is infinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that concupiscence is not infinite. For the object of concupiscence
 is good, which has the aspect of an end. But where there is [infinity](/concepts/infinity) there is no end (Metaph. ii, 2).
@@ -2075,7 +2075,7 @@ apprehends, is infinite in a sense, inasmuch as it contains potentially an infin
 Reply to Objection 3: In order that a man be delighted, there is no need for him to realize all
 that he desires: for he delights in the realization of each object of his concupiscence.
 
-<span class="atom-split" data-atom="049" data-title="OF DELIGHT CONSIDERED IN ITSELF [*Or, Pleasure] (EIGHT ARTICLES)" data-chapter="OF DELIGHT CONSIDERED IN ITSELF [*Or, Pleasure] (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="OF DELIGHT CONSIDERED IN ITSELF [*Or, Pleasure] (EIGHT ARTICLES)" data-chapter="OF DELIGHT CONSIDERED IN ITSELF [*Or, Pleasure] (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider delight and sadness. Concerning delight four things must be considered:
 (1) Delight in itself; (2) The causes of delight; (3) Its effects; (4) Its goodness and malice.
@@ -2089,7 +2089,7 @@ Under the first head there are eight points of inquiry:
 (7) Whether any delight is non-natural?
 (8) Whether one delight can be contrary to another?
 
-<span class="atom-split" data-atom="050" data-title="Whether delight is a passion?" data-chapter="Whether delight is a passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether delight is a passion?" data-chapter="Whether delight is a passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that delight is not a passion. For Damascene (De Fide Orth. ii, 22)
 distinguishes operation from passion, and says that "operation is a movement in accord with nature,
@@ -2149,7 +2149,7 @@ which have a corruptive and evil tendency, such as bodily ailments, as also sadn
 soul; yet some passions have a tendency to something good, as stated above (Q[23], AA[1],4): and
 in this sense delight is called a passion.
 
-<span class="atom-split" data-atom="051" data-title="Whether delight is in time?" data-chapter="Whether delight is in time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether delight is in time?" data-chapter="Whether delight is in time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that delight is in time. For "delight is a kind of movement," as the
 Philosopher says (Rhet. i, 11). But all movement is in time. Therefore delight is in time.
@@ -2190,7 +2190,7 @@ Reply to Objection 3: Other passions have not for their object a good obtained, 
 Wherefore there is more of the movement of the imperfect in them than in delight. And consequently
 it belongs more to delight not to be in time.
 
-<span class="atom-split" data-atom="052" data-title="Whether delight differs from joy?" data-chapter="Whether delight differs from joy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether delight differs from joy?" data-chapter="Whether delight differs from joy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that delight is altogether the same as joy. Because the passions of
 the soul differ according to their objects. But delight and joy have the same object, namely, a good
@@ -2237,7 +2237,7 @@ in so far as the inward joy breaks forth from its bounds; and "cheerfulness" is 
 special signs and effects of gladness. Yet all these names seem to belong to joy; for we do not
 employ them save in speaking of rational beings.
 
-<span class="atom-split" data-atom="053" data-title="Whether delight is in the intellectual appetite?" data-chapter="Whether delight is in the intellectual appetite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether delight is in the intellectual appetite?" data-chapter="Whether delight is in the intellectual appetite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that delight is not in the intellectual appetite. Because the
 Philosopher says (Rhet. i, 11) that "delight is a sensible movement." But sensible movement is not
@@ -2280,7 +2280,7 @@ in the angelic delights." Accordingly we have delight, not only in the sensitive
 have in common with dumb animals, but also in the intellectual appetite, which we have in common
 with the angels.
 
-<span class="atom-split" data-atom="054" data-title="Whether bodily and sensible pleasures are greater than spiritual and intellectual pleasures?" data-chapter="Whether bodily and sensible pleasures are greater than spiritual and intellectual pleasures?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether bodily and sensible pleasures are greater than spiritual and intellectual pleasures?" data-chapter="Whether bodily and sensible pleasures are greater than spiritual and intellectual pleasures?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that bodily and sensible pleasures are greater than spiritual and
 intelligible pleasures. For all men seek some pleasure, according to the Philosopher (Ethic. x, 2,4).
@@ -2352,7 +2352,7 @@ Reply to Objection 3: Bodily pleasures are realized in the sensitive faculty whi
 by reason: wherefore they need to be tempered and checked by reason. But spiritual pleasures are
 in the mind, which is itself the rule: wherefore they are in themselves both sober and moderate.
 
-<span class="atom-split" data-atom="055" data-title="Whether the pleasures of touch are greater than the pleasures afforded by the other senses?" data-chapter="Whether the pleasures of touch are greater than the pleasures afforded by the other senses?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether the pleasures of touch are greater than the pleasures afforded by the other senses?" data-chapter="Whether the pleasures of touch are greater than the pleasures afforded by the other senses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the pleasures of touch are not greater than the pleasures afforded
 by the other senses. Because the greatest pleasure seems to be that without which all joy is at an
@@ -2410,7 +2410,7 @@ sake of the pleasant: whereas the sight is a cause like that from which a moveme
 inasmuch as the beholder on seeing the lovable object receives an impression of its image, which
 entices him to love it and to seek its delight.
 
-<span class="atom-split" data-atom="056" data-title="Whether any pleasure is not natural?" data-chapter="Whether any pleasure is not natural?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether any pleasure is not natural?" data-chapter="Whether any pleasure is not natural?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no pleasure is not natural. For pleasure is to the emotions of
 the soul what repose is to bodies. But the appetite of a natural body does not repose save in a
@@ -2451,7 +2451,7 @@ take pleasure in cannibalism or in the unnatural intercourse of man and beast, o
 which are not in accord with [human nature](/axes/human_nature).
 This suffices for the answers to the objections.
 
-<span class="atom-split" data-atom="057" data-title="Whether one pleasure can be contrary to another?" data-chapter="Whether one pleasure can be contrary to another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether one pleasure can be contrary to another?" data-chapter="Whether one pleasure can be contrary to another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one pleasure cannot be contrary to another. Because the passions
 of the soul derive their species and contrariety from their objects. Now the object of pleasure is the
@@ -2495,7 +2495,7 @@ pleasure, cause not only a material, but also a formal difference, if the formal
 be different. Because difference in the formal object causes a specific difference in acts and passions,
 as stated above (Q[23], AA[1],4; Q[30], A[2]).
 
-<span class="atom-split" data-atom="058" data-title="OF THE CAUSE OF PLEASURE (EIGHT ARTICLES)" data-chapter="OF THE CAUSE OF PLEASURE (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="OF THE CAUSE OF PLEASURE (EIGHT ARTICLES)" data-chapter="OF THE CAUSE OF PLEASURE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the causes of pleasure: and under this head there are eight points of
 inquiry:
@@ -2508,7 +2508,7 @@ inquiry:
 (7) Whether likeness is a cause of pleasure?
 (8) Whether wonder is a cause of pleasure?
 
-<span class="atom-split" data-atom="059" data-title="Whether operation is the proper cause of pleasure?" data-chapter="Whether operation is the proper cause of pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether operation is the proper cause of pleasure?" data-chapter="Whether operation is the proper cause of pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that operation is not the proper and first cause of pleasure. For, as
 the Philosopher says (Rhet. i, 11), "pleasure consists in a perception of the senses," since knowledge
@@ -2550,7 +2550,7 @@ certain measure. Wherefore if it exceed that measure, it will be no longer propo
 but, on the contrary, painful and irksome. And in this sense, leisure and play and other things
 pertaining to repose, are pleasant, inasmuch as they banish sadness which results from labor.
 
-<span class="atom-split" data-atom="060" data-title="Whether movement is a cause of pleasure?" data-chapter="Whether movement is a cause of pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether movement is a cause of pleasure?" data-chapter="Whether movement is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that movement is not a cause of pleasure. Because, as stated above
 (Q[31], A[1]), the good which is obtained and is actually possessed, is the cause of pleasure:
@@ -2612,7 +2612,7 @@ departs from custom, but rather that which prevents the corruption of the natura
 that might result from continued operation. And thus from the same cause of connaturalness, both
 custom and movement become pleasant.
 
-<span class="atom-split" data-atom="061" data-title="Whether hope and memory causes pleasure?" data-chapter="Whether hope and memory causes pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether hope and memory causes pleasure?" data-chapter="Whether hope and memory causes pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that memory and hope do not cause pleasure. Because pleasure is
 caused by present good, as Damascene says (De Fide Orth. ii, 12). But hope and memory regard
@@ -2657,7 +2657,7 @@ pleasing good, that is not implied either by love or by concupiscence, is reckon
 them as causing pleasure; and also in preference to memory, which is of that which has already
 passed away.
 
-<span class="atom-split" data-atom="062" data-title="Whether sadness causes pleasure?" data-chapter="Whether sadness causes pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether sadness causes pleasure?" data-chapter="Whether sadness causes pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sadness does not cause pleasure. For nothing causes its own
 contrary. But sadness is contrary to pleasure. Therefore it does not cause it.
@@ -2696,7 +2696,7 @@ recollection of pleasant things, by reason of these being lost, may cause sadnes
 Reply to Objection 3: Hatred also can be the accidental cause of love: i.e. so far as some love
 one another, inasmuch as they agree in hating one and the same thing.
 
-<span class="atom-split" data-atom="063" data-title="Whether the actions of others are a cause of pleasure to us?" data-chapter="Whether the actions of others are a cause of pleasure to us?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether the actions of others are a cause of pleasure to us?" data-chapter="Whether the actions of others are a cause of pleasure to us?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the actions of others are not a cause of pleasure to us. Because
 the cause of pleasure is our own good when conjoined to us. But the actions of others are not
@@ -2742,7 +2742,7 @@ Reply to Objection 3: Although the actions of another do not proceed from habits
 me, yet they either produce in me something that gives pleasure; or they make me appreciate or
 know a habit of mind; or they proceed from the habit of one who is united to me by love.
 
-<span class="atom-split" data-atom="064" data-title="Whether doing good to another is a cause of pleasure?" data-chapter="Whether doing good to another is a cause of pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether doing good to another is a cause of pleasure?" data-chapter="Whether doing good to another is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that doing good to another is not a cause of pleasure. Because
 pleasure is caused by one's obtaining one's proper good, as stated above (AA[1],5; Q[31], A[1]).
@@ -2800,7 +2800,7 @@ slight by paying back the hurt. And thus it is clear that doing good to another 
 pleasant: whereas doing evil to another is not pleasant, except in so far as it seems to affect one's
 own good.
 
-<span class="atom-split" data-atom="065" data-title="Whether likeness is a cause of pleasure?" data-chapter="Whether likeness is a cause of pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether likeness is a cause of pleasure?" data-chapter="Whether likeness is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that likeness is not a cause of pleasure. Because ruling and presiding
 seem to imply a certain unlikeness. But "it is natural to take pleasure in ruling and presiding," as
@@ -2850,7 +2850,7 @@ Reply to Objection 3: Bodily goods are conditioned by a certain fixed measure: w
 surfeit of such things destroys the proper good, and consequently gives rise to disgust and sorrow,
 through being contrary to the proper good of man.
 
-<span class="atom-split" data-atom="066" data-title="Whether wonder is a cause of pleasure?" data-chapter="Whether wonder is a cause of pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether wonder is a cause of pleasure?" data-chapter="Whether wonder is a cause of pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that wonder is not a cause of pleasure. Because wonder is the act
 of one who is ignorant of the nature of something, as Damascene says. But knowledge, rather than
@@ -2903,7 +2903,7 @@ wonderful; or as regards action, from the fact that "the mind is more inclined b
 intensely in things that are new," as stated in Ethic. x, 4, since more perfect operation causes more
 perfect pleasure.
 
-<span class="atom-split" data-atom="067" data-title="OF THE EFFECTS OF PLEASURE (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF PLEASURE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="OF THE EFFECTS OF PLEASURE (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF PLEASURE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of pleasure; and under this head there are four points of
 inquiry:
@@ -2912,7 +2912,7 @@ inquiry:
 (3) Whether pleasure hinders the use of reason?
 (4) Whether pleasure perfects operation?
 
-<span class="atom-split" data-atom="068" data-title="Whether expansion is an effect of pleasure?" data-chapter="Whether expansion is an effect of pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether expansion is an effect of pleasure?" data-chapter="Whether expansion is an effect of pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that expansion is not an effect of pleasure. For expansion seems
 to pertain more to love, according to the Apostle (2 Cor. 6:11): "Our heart is enlarged." Wherefore
@@ -2957,7 +2957,7 @@ desires it before possessing it; since pleasure is the end of desire.
 Reply to Objection 3: He that takes pleasure in a thing holds it fast, by clinging to it with all
 his might: but he opens his heart to it that he may enjoy it perfectly.
 
-<span class="atom-split" data-atom="069" data-title="Whether pleasure causes thirst or desire for itself?" data-chapter="Whether pleasure causes thirst or desire for itself?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether pleasure causes thirst or desire for itself?" data-chapter="Whether pleasure causes thirst or desire for itself?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pleasure does not cause desire for itself. Because all movement
 ceases when repose is reached. But pleasure is, as it were, a certain repose of the movement of
@@ -3020,7 +3020,7 @@ same time.
 
 Reply to Objection 3: Pleasures cause distaste in one way, desire in another, as stated above.
 
-<span class="atom-split" data-atom="070" data-title="Whether pleasure hinders the use of reason?" data-chapter="Whether pleasure hinders the use of reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether pleasure hinders the use of reason?" data-chapter="Whether pleasure hinders the use of reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pleasure does not hinder the use of reason. Because repose
 facilitates very much the due use of reason: wherefore the Philosopher says (Phys. vii, 3) that "while
@@ -3072,7 +3072,7 @@ other sensitive powers, which are exercised through a bodily organ. Consequently
 body hinders the use of reason, because it hinders the act of the imagination and of the other sensitive
 powers.
 
-<span class="atom-split" data-atom="071" data-title="Whether pleasure perfects operation?" data-chapter="Whether pleasure perfects operation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether pleasure perfects operation?" data-chapter="Whether pleasure perfects operation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pleasure does not perfect operation. For every human operation
 depends on the use of reason. But pleasure hinders the use of reason, as stated above (A[3]).
@@ -3112,7 +3112,7 @@ be the efficient, the other the [final cause](/concepts/four_causes). And in thi
 while pleasure perfects operation by way of final cause, as stated above.
 The Reply to the Third Objection is evident for what has been said.
 
-<span class="atom-split" data-atom="072" data-title="OF THE GOODNESS AND MALICE OF PLEASURES (FOUR ARTICLES)" data-chapter="OF THE GOODNESS AND MALICE OF PLEASURES (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="OF THE GOODNESS AND MALICE OF PLEASURES (FOUR ARTICLES)" data-chapter="OF THE GOODNESS AND MALICE OF PLEASURES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the goodness and malice of pleasures: under which head there are four
 points of inquiry:
@@ -3121,7 +3121,7 @@ points of inquiry:
 (3) Whether any pleasure is the greatest good?
 (4) Whether pleasure is the measure or rule by which to judge of moral good and evil?
 
-<span class="atom-split" data-atom="073" data-title="Whether every pleasure is evil?" data-chapter="Whether every pleasure is evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether every pleasure is evil?" data-chapter="Whether every pleasure is evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every pleasure is evil. For that which destroys prudence and
 hinders the use of reason, seems to be evil in itself: since man's good is to be "in accord with reason,"
@@ -3197,7 +3197,7 @@ within us, are more the concern of prudence and virtue than of art. Nevertheless
 making pleasure, namely, "the art of cookery and the art of making arguments," as stated in Ethic.
 vii, 12.
 
-<span class="atom-split" data-atom="074" data-title="Whether every pleasure is good?" data-chapter="Whether every pleasure is good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether every pleasure is good?" data-chapter="Whether every pleasure is good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every pleasure is good. Because as stated in the FP, Q[5], A[6]
 there are three kinds of good: the virtuous, the useful, and the pleasant. But everything virtuous is
@@ -3246,7 +3246,7 @@ Reply to Objection 3: All things seek pleasure in the same way as they seek good
 pleasure is the repose of the appetite in good. But, just as it happens that not every good which is
 desired, is of itself and verily good; so not every pleasure is of itself and verily good.
 
-<span class="atom-split" data-atom="075" data-title="Whether any pleasure is the greatest good?" data-chapter="Whether any pleasure is the greatest good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether any pleasure is the greatest good?" data-chapter="Whether any pleasure is the greatest good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no pleasure is the greatest good. Because nothing generated
 is the greatest good: since generation cannot be the last end. But pleasure is a consequence of
@@ -3301,7 +3301,7 @@ pleasure, but to the fact that it is perfect repose in the perfect good. Hence i
 every pleasure is supremely good, or even good at all. Thus a certain science is supremely good,
 but not every science is.
 
-<span class="atom-split" data-atom="076" data-title="Whether pleasure is the measure or rule by which to judge of moral good or evil?" data-chapter="Whether pleasure is the measure or rule by which to judge of moral good or evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether pleasure is the measure or rule by which to judge of moral good or evil?" data-chapter="Whether pleasure is the measure or rule by which to judge of moral good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pleasure is not the measure or rule of moral good and evil.
 Because "that which is first in a genus is the measure of all the rest" (Metaph. x, 1). But pleasure
@@ -3350,7 +3350,7 @@ A[4]); an operation cannot be perfectly good, unless there be also pleasure in g
 goodness of a thing depends on its end. And thus, in a way, the goodness of the pleasure is the
 cause of goodness in the operation.
 
-<span class="atom-split" data-atom="077" data-title="OF PAIN OR SORROW, IN ITSELF (EIGHT ARTICLES)" data-chapter="OF PAIN OR SORROW, IN ITSELF (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="OF PAIN OR SORROW, IN ITSELF (EIGHT ARTICLES)" data-chapter="OF PAIN OR SORROW, IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider pain and sorrow: concerning which we must consider: (1) Sorrow or
 pain in itself; (2) Its cause; (3) Its effects; (4) Its remedies; (5) Its goodness or malice.
@@ -3364,7 +3364,7 @@ Under the first head there are eight points of inquiry:
 (7) Whether exterior pain is greater than interior?
 (8) Of the species of sorrow.
 
-<span class="atom-split" data-atom="078" data-title="Whether pain is a passion of the soul?" data-chapter="Whether pain is a passion of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether pain is a passion of the soul?" data-chapter="Whether pain is a passion of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pain is not a passion of the soul. Because no passion of the
 soul is in the body. But pain can be in the body, since [Augustine](/figures/augustine) says (De Vera Relig. xii), that
@@ -3415,7 +3415,7 @@ Reply to Objection 3: Pain at the loss of good proves the goodness of the nature
 pain is an act of the natural appetite, but because nature desires something as good, the removal of
 which being perceived, there results the passion of pain in the sensitive appetite.
 
-<span class="atom-split" data-atom="079" data-title="Whether sorrow is the same as pain?" data-chapter="Whether sorrow is the same as pain?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether sorrow is the same as pain?" data-chapter="Whether sorrow is the same as pain?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow is not pain. For [Augustine](/figures/augustine) says (De Civ. Dei xiv, 7)
 that "pain is used to express bodily suffering." But sorrow is used more in reference to the soul.
@@ -3463,7 +3463,7 @@ contrasted with sorrow, according to the distinction of interior and exterior ap
 on the part of the objects, pleasure extends further than does bodily pain. But if pain be taken in a
 wide sense, then it is the genus of sorrow, as stated above.
 
-<span class="atom-split" data-atom="080" data-title="Whether sorrow or pain is contrary to pleasure?" data-chapter="Whether sorrow or pain is contrary to pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether sorrow or pain is contrary to pleasure?" data-chapter="Whether sorrow or pain is contrary to pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow is not contrary to pleasure. For one of two contraries
 is not the cause of the other. But sorrow can be the cause of pleasure; for it is written (Mat. 5:5):
@@ -3512,7 +3512,7 @@ themselves of the will and reason are considered under the aspect of good or evi
 can be the matter of pleasure, or vice versa, not essentially but accidentally: that is, in so far as
 either of them is considered under the aspect of good or evil.
 
-<span class="atom-split" data-atom="081" data-title="Whether all sorrow is contrary to all pleasure?" data-chapter="Whether all sorrow is contrary to all pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether all sorrow is contrary to all pleasure?" data-chapter="Whether all sorrow is contrary to all pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all sorrow is contrary to all pleasure. Because, just as whiteness
 and blackness are contrary species of color, so pleasure and sorrow are contrary species of the soul's
@@ -3576,7 +3576,7 @@ sorrow is specifically contrary to every pleasure, yet they are contrary to one 
 their effects: since one has the effect of strengthening the animal nature, while the other results in
 a kind of discomfort.
 
-<span class="atom-split" data-atom="082" data-title="Whether there is any sorrow contrary to the pleasure of contemplation?" data-chapter="Whether there is any sorrow contrary to the pleasure of contemplation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether there is any sorrow contrary to the pleasure of contemplation?" data-chapter="Whether there is any sorrow contrary to the pleasure of contemplation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is a sorrow that is contrary to the pleasure of
 contemplation. For the Apostle says (2 Cor. 7:10): "The sorrow that is according to God, worketh
@@ -3667,7 +3667,7 @@ pleasure of contemplation, but is in harmony with it, as stated above.
 Reply to Objection 5: Affliction of the flesh affects contemplation accidentally and indirectly,
 as stated above.
 
-<span class="atom-split" data-atom="083" data-title="Whether sorrow is to be shunned more than pleasure is to be sought?" data-chapter="Whether sorrow is to be shunned more than pleasure is to be sought?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether sorrow is to be shunned more than pleasure is to be sought?" data-chapter="Whether sorrow is to be shunned more than pleasure is to be sought?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow is to be shunned more than pleasure is to be sought.
 For [Augustine](/figures/augustine) says (QQ. 83, qu. 63): "There is nobody that does not shun sorrow more than he
@@ -3743,7 +3743,7 @@ temperance: thus life is loved more than food and sexual pleasure. But the tempe
 for refraining from pleasures of touch, more than for not shunning the pains which are contrary to
 them, as is stated in Ethic. iii, 11.
 
-<span class="atom-split" data-atom="084" data-title="Whether outward pain is greater than interior sorrow?" data-chapter="Whether outward pain is greater than interior sorrow?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether outward pain is greater than interior sorrow?" data-chapter="Whether outward pain is greater than interior sorrow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that outward pain is greater than interior sorrow of the heart.
 Because outward pain arises from a cause repugnant to the well-being of the body in which is life:
@@ -3807,7 +3807,7 @@ inward sense, just as the sensitive appetite is more material than the intellect
 as stated above (Q[22], A[3]; Q[31], A[5] ), the body undergoes a greater change from the movement
 of the sensitive appetite: and, in like manner, from outward than from inward pain.
 
-<span class="atom-split" data-atom="085" data-title="Whether there are only four species of sorrow?" data-chapter="Whether there are only four species of sorrow?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether there are only four species of sorrow?" data-chapter="Whether there are only four species of sorrow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Damascene's (De Fide Orth. ii, 14) division of sorrow into
 four species is incorrect; viz. into "torpor, distress," which Gregory of Nyssa [*Nemesius, De Nat.
@@ -3867,7 +3867,7 @@ shall explain later (SS, Q[36], A[2]).
 Reply to Objection 3: This division is not according to opposite species; but according to the
 diversity of foreign matter to which the notion of sorrow is applied, as stated above.
 
-<span class="atom-split" data-atom="086" data-title="OF THE CAUSES OF SORROW OR PAIN (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SORROW OR PAIN (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="OF THE CAUSES OF SORROW OR PAIN (FOUR ARTICLES)" data-chapter="OF THE CAUSES OF SORROW OR PAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the causes of sorrow: under which head there are four points of inquiry:
 (1) Whether sorrow is caused by the loss of a good or rather by the presence of an evil?
@@ -3875,7 +3875,7 @@ We must now consider the causes of sorrow: under which head there are four point
 (3) Whether the craving for unity is a cause of sorrow?
 (4) Whether an irresistible power is a cause of sorrow?
 
-<span class="atom-split" data-atom="087" data-title="Whether sorrow is caused by the loss of good or by the presence of evil?" data-chapter="Whether sorrow is caused by the loss of good or by the presence of evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Whether sorrow is caused by the loss of good or by the presence of evil?" data-chapter="Whether sorrow is caused by the loss of good or by the presence of evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow is caused by the loss of a good rather than by the
 presence of an evil. For [Augustine](/figures/augustine) says (De viii QQ. Dulcit. qu. 1) that sorrow is caused by the
@@ -3930,7 +3930,7 @@ Reply to Objection 3: When many movements arise from one cause, it does not foll
 they all regard chiefly that which the cause regards chiefly, but only the first of them. And each of
 the others regards chiefly that which is suitable to it according to its own nature.
 
-<span class="atom-split" data-atom="088" data-title="Whether desire is a cause of sorrow?" data-chapter="Whether desire is a cause of sorrow?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether desire is a cause of sorrow?" data-chapter="Whether desire is a cause of sorrow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that desire is not a cause of pain or sorrow. Because sorrow of
 itself regards evil, as stated above (A[1]): whereas desire is a movement of the appetite towards
@@ -3982,7 +3982,7 @@ yet the hindrance is reckoned as present, and so gives rise to sorrow.
 Reply to Objection 3: Desire gives pleasure, so long as there is hope of obtaining that which
 is desired. But, when hope is removed through the presence of an obstacle, desire causes sorrow.
 
-<span class="atom-split" data-atom="089" data-title="Whether the craving for unity is a cause of sorrow?" data-chapter="Whether the craving for unity is a cause of sorrow?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether the craving for unity is a cause of sorrow?" data-chapter="Whether the craving for unity is a cause of sorrow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the craving for unity is not a cause of sorrow. For the
 Philosopher says (Ethic. x, 3) that "this opinion," which held repletion to be the cause of pleasure,
@@ -4028,7 +4028,7 @@ Reply to Objection 3: Separation from things hurtful and corruptive is desired, 
 they destroy the unity which is due. Wherefore the desire for such like separation is not the first
 cause of sorrow, whereas the craving for unity is.
 
-<span class="atom-split" data-atom="090" data-title="Whether an irresistible power is a cause of sorrow?" data-chapter="Whether an irresistible power is a cause of sorrow?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether an irresistible power is a cause of sorrow?" data-chapter="Whether an irresistible power is a cause of sorrow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a greater power should not be reckoned a cause of sorrow. For
 that which is in the power of the agent is not present but future. But sorrow is for present evil.
@@ -4071,7 +4071,7 @@ Reply to Objection 3: External agents can be the causes of appetitive movements,
 they cause the presence of the object: and it is thus that a greater power is reckoned to be the cause
 of sorrow.
 
-<span class="atom-split" data-atom="091" data-title="OF THE EFFECTS OF PAIN OR SORROW (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF PAIN OR SORROW (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="OF THE EFFECTS OF PAIN OR SORROW (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF PAIN OR SORROW (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of pain or of sorrow: under which head there are four points
 of inquiry:
@@ -4080,7 +4080,7 @@ of inquiry:
 (3) Whether sorrow or pain weakens all activity?
 (4) Whether sorrow is more harmful to the body than all the other passions of the soul?
 
-<span class="atom-split" data-atom="092" data-title="Whether pain deprives one of the power to learn?" data-chapter="Whether pain deprives one of the power to learn?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether pain deprives one of the power to learn?" data-chapter="Whether pain deprives one of the power to learn?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pain does not deprive one of the power to learn. For it is written
 (Is. 26:9): "When Thou shalt do Thy judgments on the earth, the inhabitants of the world shall learn
@@ -4140,7 +4140,7 @@ sorrow be very intense, it attracts the intention, so that man is unable to lear
 time: wherefore on account of sorrow Gregory interrupted his commentary on Ezechiel (Hom. xxii
 in Ezechiel).
 
-<span class="atom-split" data-atom="093" data-title="Whether the effect of sorrow or pain is to burden the soul?" data-chapter="Whether the effect of sorrow or pain is to burden the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether the effect of sorrow or pain is to burden the soul?" data-chapter="Whether the effect of sorrow or pain is to burden the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not an effect of sorrow to burden the soul. For the Apostle
 says (2 Cor. 7:11): "Behold this self-same thing, that you were made sorrowful according to God,
@@ -4188,7 +4188,7 @@ such as to shut out all hope of evasion: and thus also it both depresses and con
 time. For certain things, taken metaphorically, imply one another, which taken literally, appear to
 exclude one another.
 
-<span class="atom-split" data-atom="094" data-title="Whether sorrow or pain weakens all activity?" data-chapter="Whether sorrow or pain weakens all activity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether sorrow or pain weakens all activity?" data-chapter="Whether sorrow or pain weakens all activity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow does not weaken all activity. Because carefulness is
 caused by sorrow, as is clear from the passage of the Apostle quoted above (A[2], OBJ[1]). But
@@ -4218,7 +4218,7 @@ on account of a certain thing, the more one strives to shake off sorrow, provide
 shaking it off: otherwise no movement or action would result from that sorrow.
 From what has been said the replies to the objections are evident.
 
-<span class="atom-split" data-atom="095" data-title="Whether sorrow is more harmful to the body than the other passions of the soul?" data-chapter="Whether sorrow is more harmful to the body than the other passions of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether sorrow is more harmful to the body than the other passions of the soul?" data-chapter="Whether sorrow is more harmful to the body than the other passions of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow is not most harmful to the body. For sorrow has a
 spiritual existence in the soul. But those things which have only a spiritual existence do not cause
@@ -4276,7 +4276,7 @@ imply, and which arises from the absence of the thing desired. Moreover sorrow t
 deprives man of the use of reason: as may be seen in those who through sorrow become a prey to
 melancholy or madness.
 
-<span class="atom-split" data-atom="096" data-title="OF THE REMEDIES OF SORROW OR PAIN (FIVE ARTICLES)" data-chapter="OF THE REMEDIES OF SORROW OR PAIN (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="OF THE REMEDIES OF SORROW OR PAIN (FIVE ARTICLES)" data-chapter="OF THE REMEDIES OF SORROW OR PAIN (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the remedies of pain or sorrow: under which head there are five points
 of inquiry:
@@ -4286,7 +4286,7 @@ of inquiry:
 (4) Whether it is assuaged by contemplating the truth?
 (5) Whether it is assuaged by sleep and baths?
 
-<span class="atom-split" data-atom="097" data-title="Whether pain or sorrow is assuaged by every pleasure?" data-chapter="Whether pain or sorrow is assuaged by every pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Whether pain or sorrow is assuaged by every pleasure?" data-chapter="Whether pain or sorrow is assuaged by every pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not every pleasure assuages every pain or sorrow. For pleasure
 does not assuage sorrow, save in so far as it is contrary to it: for "remedies work by contraries"
@@ -4333,7 +4333,7 @@ than the memory of the past, and since love of self is more persistent than love
 it is that, in the end, the pleasure drives out the sorrow. Wherefore a little further on (Confess. iv,
 8) Augustine says that his "sorrow gave way to his former pleasures."
 
-<span class="atom-split" data-atom="098" data-title="Whether pain or sorrow is assuaged by tears?" data-chapter="Whether pain or sorrow is assuaged by tears?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether pain or sorrow is assuaged by tears?" data-chapter="Whether pain or sorrow is assuaged by tears?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that tears do not assuage sorrow. Because no effect diminishes its
 cause. But tears or groans are an effect of sorrow. Therefore they do not diminish sorrow.
@@ -4375,7 +4375,7 @@ which is fitting according to his actual state, he feels a certain amount of ple
 reason if laughter escapes a man when he is so disposed that he thinks he ought to weep, he is sorry
 for it, as having done something unbecoming to him, as [Cicero](/figures/cicero) says (De Tusc. Quaest. iii, 27).
 
-<span class="atom-split" data-atom="099" data-title="Whether pain or sorrow are assuaged by the sympathy of friends?" data-chapter="Whether pain or sorrow are assuaged by the sympathy of friends?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether pain or sorrow are assuaged by the sympathy of friends?" data-chapter="Whether pain or sorrow are assuaged by the sympathy of friends?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sorrow of sympathizing friends does not assuage our own
 sorrow. For contraries have contrary effects. Now as [Augustine](/figures/augustine) says (Confess. viii, 4), "when many
@@ -4412,7 +4412,7 @@ Reply to Objection 2: The friend's sorrow itself would be a cause of sorrow: but
 of its cause, viz. his love, gives rise rather to pleasure.
 And this suffices for the reply to the Third Objection.
 
-<span class="atom-split" data-atom="100" data-title="Whether pain and sorrow are assuaged by the contemplation of truth?" data-chapter="Whether pain and sorrow are assuaged by the contemplation of truth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether pain and sorrow are assuaged by the contemplation of truth?" data-chapter="Whether pain and sorrow are assuaged by the contemplation of truth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the contemplation of truth does not assuage sorrow. For it is
 written (Eccles. 1:18): "He that addeth knowledge addeth also sorrow" [Vulg.: 'labor']. But knowledge
@@ -4454,7 +4454,7 @@ Reply to Objection 3: In the powers of the soul there is an overflow from the hi
 lower powers: and accordingly, the pleasure of contemplation, which is in the higher part, overflows
 so as to mitigate even that pain which is in the senses.
 
-<span class="atom-split" data-atom="101" data-title="Whether pain and sorrow are assuaged by sleep and baths?" data-chapter="Whether pain and sorrow are assuaged by sleep and baths?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether pain and sorrow are assuaged by sleep and baths?" data-chapter="Whether pain and sorrow are assuaged by sleep and baths?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sleep and baths do not assuage sorrow. For sorrow is in the
 soul: whereas sleep and baths regard the body. Therefore they do not conduce to the assuaging of
@@ -4492,7 +4492,7 @@ by causes which hinder one another.
 Reply to Objection 3: Every good disposition of the body reacts somewhat on the heart, which
 is the beginning and end of bodily movements, as stated in De [Causa](/concepts/cause) Mot. Animal. xi.
 
-<span class="atom-split" data-atom="102" data-title="OF THE GOODNESS AND MALICE OF SORROW OR PAIN (FOUR ARTICLES)" data-chapter="OF THE GOODNESS AND MALICE OF SORROW OR PAIN (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="OF THE GOODNESS AND MALICE OF SORROW OR PAIN (FOUR ARTICLES)" data-chapter="OF THE GOODNESS AND MALICE OF SORROW OR PAIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the goodness and malice of pain or sorrow: under which head there are
 four points of inquiry:
@@ -4501,7 +4501,7 @@ four points of inquiry:
 (3) Whether it can be a useful good?
 (4) Whether bodily pain is the greatest evil?
 
-<span class="atom-split" data-atom="103" data-title="Whether all sorrow is evil?" data-chapter="Whether all sorrow is evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether all sorrow is evil?" data-chapter="Whether all sorrow is evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all sorrow is evil. For Gregory of Nyssa [*Nemesius, De Nat.
 Hom. xix.] says: "All sorrow is evil, from its very nature." Now what is naturally evil, is evil always
@@ -4542,7 +4542,7 @@ rejection of evil. The same also applies to bodily pain: because the perception 
 bodily evil is the proof of the goodness of nature.
 This suffices for the Replies to the Second and Third Objections.
 
-<span class="atom-split" data-atom="104" data-title="Whether sorrow can be a virtuous good?" data-chapter="Whether sorrow can be a virtuous good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether sorrow can be a virtuous good?" data-chapter="Whether sorrow can be a virtuous good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow is not a virtuous good. For that which leads to hell is
 not a virtuous good. But, as [Augustine](/figures/augustine) says (Gen. ad lit. xii, 33), "Jacob seems to have feared lest
@@ -4589,7 +4589,7 @@ God's will. But it is not necessary for the rectitude of his will, that man shou
 themselves: but only that he should not [revolt](/positions/revolution) against the order of Divine justice, as stated above
 (Q[19], A[10]).
 
-<span class="atom-split" data-atom="105" data-title="Whether sorrow can be a useful good?" data-chapter="Whether sorrow can be a useful good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether sorrow can be a useful good?" data-chapter="Whether sorrow can be a useful good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow cannot be a useful good. For it is written (Ecclus.
 30:25): "Sadness hath killed many, and there is no profit in it."
@@ -4636,7 +4636,7 @@ respect, sorrow is useful.
 Reply to Objection 3: Sorrow caused by an action hinders that action: but sorrow for the
 cessation of an action, makes one do it more earnestly.
 
-<span class="atom-split" data-atom="106" data-title="Whether bodily pain is the greatest evil?" data-chapter="Whether bodily pain is the greatest evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Whether bodily pain is the greatest evil?" data-chapter="Whether bodily pain is the greatest evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pain is the greatest evil. Because "the worst is contrary to the
 best" (Ethic. viii, 10). But a certain pleasure is the greatest good, viz. the pleasure of bliss. Therefore
@@ -4697,7 +4697,7 @@ We must now consider the irascible passions: (1) Hope and despair; (2) Fear and 
 (7) Concerning the order of hope to love;
 (8) Whether love conduces to action?
 
-<span class="atom-split" data-atom="107" data-title="Whether hope is the same as desire of cupidity?" data-chapter="Whether hope is the same as desire of cupidity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether hope is the same as desire of cupidity?" data-chapter="Whether hope is the same as desire of cupidity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope is the same as desire or cupidity. Because hope is reckoned
 as one of the four principal passions. But [Augustine](/figures/augustine) in setting down the four principal passions
@@ -4746,7 +4746,7 @@ of movement; and nothing is moved to anything except under the aspect of being p
 one is moved to that which he reckons impossible to get. Consequently hope differs from despair
 according to the difference of possible and impossible.
 
-<span class="atom-split" data-atom="108" data-title="Whether hope is in the apprehensive or in the appetitive power?" data-chapter="Whether hope is in the apprehensive or in the appetitive power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Whether hope is in the apprehensive or in the appetitive power?" data-chapter="Whether hope is in the apprehensive or in the appetitive power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope belongs to the cognitive power. Because hope, seemingly,
 is a kind of awaiting; for the Apostle says (Rom. 8:25): "If we hope for that which we see not; we
@@ -4798,7 +4798,7 @@ also of the natural appetite; thus we say that a stone is certain to tend downwa
 the inerrancy which the movement of the sensitive or even natural appetite derives from the certainty
 of the knowledge that precedes it.
 
-<span class="atom-split" data-atom="109" data-title="Whether hope is in dumb animals?" data-chapter="Whether hope is in dumb animals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Whether hope is in dumb animals?" data-chapter="Whether hope is in dumb animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no hope in dumb animals. Because hope is for some
 future good, as Damascene says (De Fide Orth. ii, 12). But knowledge of the future is not in the
@@ -4842,7 +4842,7 @@ Reply to Objection 3: Although the thing which is future does not come under the
 sight; nevertheless through seeing something present, an animal's appetite is moved to seek or avoid
 something future.
 
-<span class="atom-split" data-atom="110" data-title="Whether despair is contrary to hope?" data-chapter="Whether despair is contrary to hope?" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="Whether despair is contrary to hope?" data-chapter="Whether despair is contrary to hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that despair is not contrary to hope. Because "to one thing there is
 one contrary" (Metaph. x, 5). But fear is contrary to hope. Therefore despair is not contrary to hope.
@@ -4885,7 +4885,7 @@ thing desired, by reason of its being esteemed impossible to get. Hence despair,
 presupposes desire; because we neither hope for nor despair of that which we do not desire to have.
 For this reason, too, each of them regards the good, which is the object of desire.
 
-<span class="atom-split" data-atom="111" data-title="Whether experience is a cause of hope?" data-chapter="Whether experience is a cause of hope?" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="Whether experience is a cause of hope?" data-chapter="Whether experience is a cause of hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that experience is not a cause of hope. Because experience belongs
 to the cognitive power; wherefore the Philosopher says (Ethic. ii, 1) that "intellectual virtue needs
@@ -4934,7 +4934,7 @@ Reply to Objection 3: Folly and inexperience can be a cause of hope accidentally
 by removing the knowledge which would help one to judge truly a thing to be impossible. Wherefore
 inexperience is a cause of hope, for the same reason as experience causes lack of hope.
 
-<span class="atom-split" data-atom="112" data-title="Whether hope abounds in young men and drunkards?" data-chapter="Whether hope abounds in young men and drunkards?" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="Whether hope abounds in young men and drunkards?" data-chapter="Whether hope abounds in young men and drunkards?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that youth and drunkenness are not causes of hope. Because hope
 implies certainty and steadiness; so much so that it is compared to an anchor (Heb. 6:19). But young
@@ -4975,7 +4975,7 @@ not their shortcomings.
 Reply to Objection 3: Not only experience, but also lack of experience, is, in some way, a
 cause of hope, as explained above (A[5], ad 3).
 
-<span class="atom-split" data-atom="113" data-title="Whether hope is a cause of love?" data-chapter="Whether hope is a cause of love?" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="Whether hope is a cause of love?" data-chapter="Whether hope is a cause of love?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope is not a cause of love. Because, according to [Augustine](/figures/augustine)
 (De Civ. Dei xiv, 7,9), love is the first of the soul's emotions. But hope is an emotion of the soul.
@@ -5005,7 +5005,7 @@ the fact of being loved by another makes us hope in him; but our love for him is
 we have in him.
 Wherefore the Replies to the Objections are evident.
 
-<span class="atom-split" data-atom="114" data-title="Whether hope is a help or a hindrance to action?" data-chapter="Whether hope is a help or a hindrance to action?" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="Whether hope is a help or a hindrance to action?" data-chapter="Whether hope is a help or a hindrance to action?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope is not a help but a hindrance to action. Because hope
 implies security. But security begets negligence which hinders action. Therefore hope is a hindrance
@@ -5042,7 +5042,7 @@ Reply to Objection 3: Despair threatens danger in war, on account of a certain h
 attaches to it. For they who despair of flight, strive less to fly, but hope to avenge their death: and
 therefore in this hope they fight the more bravely, and consequently prove dangerous to the foe.
 
-<span class="atom-split" data-atom="115" data-title="OF FEAR, IN ITSELF (FOUR ARTICLES)" data-chapter="OF FEAR, IN ITSELF (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="OF FEAR, IN ITSELF (FOUR ARTICLES)" data-chapter="OF FEAR, IN ITSELF (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider, in the first place, fear; and, secondly, daring. With regard to fear, four
 things must be considered: (1) Fear, in itself; (2) Its object; (3) Its cause; (4) Its effect. Under the
@@ -5052,7 +5052,7 @@ first head there are four points of inquiry:
 (3) Whether there is a natural fear?
 (4) Of the species of fear.
 
-<span class="atom-split" data-atom="116" data-title="Whether fear is a passion of the soul?" data-chapter="Whether fear is a passion of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Whether fear is a passion of the soul?" data-chapter="Whether fear is a passion of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear is not a passion of the soul. For Damascene says (De Fide
 Orth. iii, 23) that "fear is a power, by way of {systole}"---i.e. of contraction---"desirous of vindicating
@@ -5096,7 +5096,7 @@ the apprehension of the soul.
 Reply to Objection 3: The senses do not apprehend the future: but from apprehending the
 present, an animal is moved by natural instinct to hope for a future good, or to fear a future evil.
 
-<span class="atom-split" data-atom="117" data-title="Whether fear is a special passion?" data-chapter="Whether fear is a special passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Whether fear is a special passion?" data-chapter="Whether fear is a special passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear is not a special passion. For [Augustine](/figures/augustine) says (QQ. 83, qu.
 33) that "the man who is not distraught by fear, is neither harassed by desire, nor wounded by
@@ -5141,7 +5141,7 @@ In like manner desire is ascribed by Damascene to fear, because just as hope ari
 of good, so fear arises from avoidance of evil; while avoidance of evil arises from the desire of
 good, as is evident from what has been said above (Q[25], A[2]; Q[29], A[2]; Q[36], A[2]).
 
-<span class="atom-split" data-atom="118" data-title="Whether there is a natural fear?" data-chapter="Whether there is a natural fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Whether there is a natural fear?" data-chapter="Whether there is a natural fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is a natural fear. For Damascene says (De Fide Orth. iii,
 23) that "there is a natural fear, through the soul refusing to be severed from the body."
@@ -5188,7 +5188,7 @@ evil; both of which are contrary to the inclination of nature. Wherefore such li
 way ascribed to inanimate beings.
 Thus the Replies to the Objections are evident.
 
-<span class="atom-split" data-atom="119" data-title="Whether the species of fear is suitably assigned?" data-chapter="Whether the species of fear is suitably assigned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="Whether the species of fear is suitably assigned?" data-chapter="Whether the species of fear is suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that six species of fear are unsuitably assigned by Damascene (De
 Fide Orth. ii, 15); namely, "laziness, shamefacedness, shame, amazement, stupor, and anxiety."
@@ -5253,7 +5253,7 @@ which amazes him, fearing to fall short of the truth, but inquires afterwards: w
 overcome by stupor fears both to judge at present, and to inquire afterwards. Wherefore amazement
 is a beginning of philosophical research: whereas stupor is a hindrance thereto.
 
-<span class="atom-split" data-atom="120" data-title="OF THE OBJECT OF FEAR (SIX ARTICLES)" data-chapter="OF THE OBJECT OF FEAR (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="OF THE OBJECT OF FEAR (SIX ARTICLES)" data-chapter="OF THE OBJECT OF FEAR (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the object of fear: under which head there are six points of inquiry:
 (1) Whether good or evil is the object of fear?
@@ -5263,7 +5263,7 @@ We must now consider the object of fear: under which head there are six points o
 (5) Whether sudden things are especially feared?
 (6) Whether those things are more feared against which there is no remedy?
 
-<span class="atom-split" data-atom="121" data-title="Whether the object of fear is good or evil?" data-chapter="Whether the object of fear is good or evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Whether the object of fear is good or evil?" data-chapter="Whether the object of fear is good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that good is the object of fear. For [Augustine](/figures/augustine) says (QQ. 83, qu.
 83) that "we fear nothing save to lose what we love and possess, or not to obtain that which we
@@ -5300,7 +5300,7 @@ to do us a harm: thus a man fears another, who knows him to be guilty of a crime
 to others.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="122" data-title="Whether evil of nature is an object of fear?" data-chapter="Whether evil of nature is an object of fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="Whether evil of nature is an object of fear?" data-chapter="Whether evil of nature is an object of fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that evil of nature is not an object of fear. For the Philosopher says
 (Rhet. ii, 5) that "fear makes us take counsel." But we do not take counsel about things which
@@ -5351,7 +5351,7 @@ and yet the individual nature rebels against them as far as it can. Accordingly,
 of the individual nature arise pain and sorrow for such like evils, when present; fear when threatening
 in the future.
 
-<span class="atom-split" data-atom="123" data-title="Whether the evil of sin is an object of fear?" data-chapter="Whether the evil of sin is an object of fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Whether the evil of sin is an object of fear?" data-chapter="Whether the evil of sin is an object of fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the evil of sin can be an object of fear. For [Augustine](/figures/augustine) says on
 the canonical Epistle of John (Tract. ix), that "by chaste fear man fears to be severed from God."
@@ -5406,7 +5406,7 @@ Reply to Objection 4: As stated above (Q[41], A[4], ad 2,3), shame is not fear o
 of sin, but of the disgrace or ignominy which arises therefrom, and which is due to an extrinsic
 cause.
 
-<span class="atom-split" data-atom="124" data-title="Whether fear itself can be feared?" data-chapter="Whether fear itself can be feared?" data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="Whether fear itself can be feared?" data-chapter="Whether fear itself can be feared?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear cannot be feared. For whatever is feared, is prevented
 from being lost, through fear thereof: thus a man who fears to lose his health, keeps it, through
@@ -5444,7 +5444,7 @@ cases.
 Reply to Objection 3: On account of the various kinds of fear already alluded to (ad 2) a man's
 present fear may have a future fear for its object.
 
-<span class="atom-split" data-atom="125" data-title="Whether sudden things are especially feared?" data-chapter="Whether sudden things are especially feared?" data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="Whether sudden things are especially feared?" data-chapter="Whether sudden things are especially feared?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that unwonted and sudden things are not especially feared. Because,
 as hope is about good things, so fear is about evil things. But experience conduces to the increase
@@ -5493,7 +5493,7 @@ more to be evil. However, it may happen through some accident that the greatness
 hidden; for instance if the foe hides himself in ambush: and then it is true that evil inspires greater
 fear through being much thought about.
 
-<span class="atom-split" data-atom="126" data-title="Whether those things are more feared, for which there is no remedy?" data-chapter="Whether those things are more feared, for which there is no remedy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="Whether those things are more feared, for which there is no remedy?" data-chapter="Whether those things are more feared, for which there is no remedy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those things are not more to be feared, for which there is no
 remedy. Because it is a condition of fear, that there be some hope of safety, as stated above (A[2]).
@@ -5538,13 +5538,13 @@ Reply to Objection 3: The Philosopher is speaking there of things that are good 
 i.e. good specifically. And such like good is no better for lasting long or for ever: its goodness
 depends on its very nature.
 
-<span class="atom-split" data-atom="127" data-title="OF THE CAUSE OF FEAR (TWO ARTICLES)" data-chapter="OF THE CAUSE OF FEAR (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="OF THE CAUSE OF FEAR (TWO ARTICLES)" data-chapter="OF THE CAUSE OF FEAR (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of fear: under which head there are two points of inquiry:
 (1) Whether love is the cause of fear?
 (2) Whether defect is the cause of fear?
 
-<span class="atom-split" data-atom="128" data-title="Whether love is the cause of fear?" data-chapter="Whether love is the cause of fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Whether love is the cause of fear?" data-chapter="Whether love is the cause of fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that love is not the cause of fear. For that which leads to a thing is
 its cause. But "fear leads to the love of charity" as [Augustine](/figures/augustine) says on the canonical epistle of John
@@ -5595,7 +5595,7 @@ evil of which is feared, was loved from the beginning.
 Reply to Objection 3: This argument is true of that which is the efficient cause of the evil to
 be feared: whereas love causes fear by way of material disposition, as stated above.
 
-<span class="atom-split" data-atom="129" data-title="Whether defect is the cause of fear?" data-chapter="Whether defect is the cause of fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="Whether defect is the cause of fear?" data-chapter="Whether defect is the cause of fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that defect is not a cause of fear. Because those who are in power
 are very much feared. But defect is contrary to power. Therefore defect is not a cause of fear.
@@ -5633,7 +5633,7 @@ Reply to Objection 3: Those who contend with one another are afraid, not on acco
 power which enables them to contend: but on account of the lack of power, owing to which they
 are not confident of victory.
 
-<span class="atom-split" data-atom="130" data-title="OF THE EFFECTS OF FEAR (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF FEAR (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="OF THE EFFECTS OF FEAR (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF FEAR (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of fear: under which head there are four points of inquiry:
 (1) Whether fear causes contraction?
@@ -5641,7 +5641,7 @@ We must now consider the effects of fear: under which head there are four points
 (3) Whether it makes one tremble?
 (4) Whether it hinders action?
 
-<span class="atom-split" data-atom="131" data-title="Whether fear causes contraction?" data-chapter="Whether fear causes contraction?" data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="Whether fear causes contraction?" data-chapter="Whether fear causes contraction?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear does not cause contraction. For when contraction takes
 place, the heat and vital spirits are withdrawn inwardly. But accumulation of heat and vital spirits
@@ -5710,7 +5710,7 @@ results a contraction in this appetite, but not in the corporeal nature; in fact
 contracted in itself, is free to set the vital spirits and heat in movement, so that they spread to the
 outward parts of the body: the result being that those who are ashamed blush.
 
-<span class="atom-split" data-atom="132" data-title="Whether fear makes one suitable for counsel?" data-chapter="Whether fear makes one suitable for counsel?" data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="Whether fear makes one suitable for counsel?" data-chapter="Whether fear makes one suitable for counsel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear does not make one suitable for counsel. For the same
 thing cannot be conducive to counsel, and a hindrance thereto. But fear hinders counsel: because
@@ -5753,7 +5753,7 @@ things, as being possible of attainment; whereas fear is of evil things, as bein
 that fear regards the aspect of difficulty more than hope does. And it is in matters of difficulty,
 especially when we distrust ourselves, that we take counsel, as stated above.
 
-<span class="atom-split" data-atom="133" data-title="Whether fear makes one tremble?" data-chapter="Whether fear makes one tremble?" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Whether fear makes one tremble?" data-chapter="Whether fear makes one tremble?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that trembling is not an effect of fear. Because trembling is
 occasioned by cold; thus we observe that a cold person trembles. Now fear does not seem to make
@@ -5795,7 +5795,7 @@ reason the arms and hands tremble. Or else because the aforesaid members are mor
 which reason the knees tremble in those who are afraid, according to Is. 35:3: "Strengthen ye the
 feeble hands, and confirm the trembling [Vulg.: 'weak'] knees."
 
-<span class="atom-split" data-atom="134" data-title="Whether fear hinders action?" data-chapter="Whether fear hinders action?" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="Whether fear hinders action?" data-chapter="Whether fear hinders action?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fear hinders action. For action is hindered chiefly by a
 disturbance in the reason, which directs action. But fear disturbs reason, as stated above (A[2]).
@@ -5830,7 +5830,7 @@ is a fear of work itself as being toilsome, it hinders work by withdrawing the w
 of other things conduces to action, in so far as it inclines the will to do that whereby a man escapes
 from what he fears.
 
-<span class="atom-split" data-atom="135" data-title="OF DARING (FOUR ARTICLES)" data-chapter="OF DARING (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="OF DARING (FOUR ARTICLES)" data-chapter="OF DARING (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider daring: under which head there are four points of inquiry:
 (1) Whether daring is contrary to fear?
@@ -5838,7 +5838,7 @@ We must now consider daring: under which head there are four points of inquiry:
 (3) Of the cause of daring;
 (4) Of its effect.
 
-<span class="atom-split" data-atom="136" data-title="Whether daring is contrary to fear?" data-chapter="Whether daring is contrary to fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="Whether daring is contrary to fear?" data-chapter="Whether daring is contrary to fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that daring is not contrary to fear. For [Augustine](/figures/augustine) says (QQ. 83,
 qu. 31) that "daring is a vice." Now vice is contrary to virtue. Since, therefore, fear is not a virtue
@@ -5877,7 +5877,7 @@ exclusion of fear: for he is said to be safe, who fears not. Wherefore safety is
 privation: while daring is opposed thereto as a contrary. And as contrariety implies privation, so
 daring implies safety.
 
-<span class="atom-split" data-atom="137" data-title="Whether daring ensues from hope?" data-chapter="Whether daring ensues from hope?" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="Whether daring ensues from hope?" data-chapter="Whether daring ensues from hope?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that daring does not ensue from hope. Because daring regards evil
 and fearful things, as stated in Ethic. iii, 7. But hope regards good things, as stated above (Q[40],
@@ -5926,7 +5926,7 @@ fear regards the conjoined evil. Hence, properly speaking, daring is not a part 
 just as despair is an effect, not a part, of fear. For this reason, too, daring cannot be a principal
 passion.
 
-<span class="atom-split" data-atom="138" data-title="Whether some defect is a cause of daring?" data-chapter="Whether some defect is a cause of daring?" data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="Whether some defect is a cause of daring?" data-chapter="Whether some defect is a cause of daring?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that some defect is a cause of daring. For the Philosopher says (De
 Problem. xxvii, 4) that "lovers of wine are strong and daring." But from wine ensues the effect of
@@ -5984,7 +5984,7 @@ courageous, because they think that God comes to the assistance of those who suf
 Hence it is evident that no defect causes daring except accidentally, i.e. in so far as some
 excellence attaches thereto, real or imaginary, either in oneself or in another.
 
-<span class="atom-split" data-atom="139" data-title="Whether the brave are more eager at first than in the midst of danger?" data-chapter="Whether the brave are more eager at first than in the midst of danger?" data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="Whether the brave are more eager at first than in the midst of danger?" data-chapter="Whether the brave are more eager at first than in the midst of danger?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the daring are not more eager at first than in the midst of
 danger. Because trembling is caused by fear, which is contrary to daring, as stated above (A[1];
@@ -6035,7 +6035,7 @@ we shall see later on (Q[46], A[1]). Consequently if the danger be so great as t
 victory, anger does not ensue. It is true, however, that if anger does ensue, there will be greater
 daring.
 
-<span class="atom-split" data-atom="140" data-title="OF ANGER, IN ITSELF (EIGHT ARTICLES)" data-chapter="OF ANGER, IN ITSELF (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="OF ANGER, IN ITSELF (EIGHT ARTICLES)" data-chapter="OF ANGER, IN ITSELF (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider [anger](/concepts/anger): and (1) anger in itself; (2) the cause of anger and its remedy; (3)
 the effect of anger.
@@ -6049,7 +6049,7 @@ Under the first head there are eight points of inquiry:
 (7) Whether anger is only towards those with whom we have a relation of justice?
 (8) Of the species of anger.
 
-<span class="atom-split" data-atom="141" data-title="Whether anger is a special passion?" data-chapter="Whether anger is a special passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="Whether anger is a special passion?" data-chapter="Whether anger is a special passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is not a special passion. For the irascible power takes
 its name from anger [ira]. But there are several passions in this power, not only one. Therefore
@@ -6097,7 +6097,7 @@ except that of the simple colors from which they are made.
 Reply to Objection 3: Anger includes several passions, not indeed as a genus includes several
 species; but rather according to the inclusion of cause and effect.
 
-<span class="atom-split" data-atom="142" data-title="Whether the object of anger is good or evil?" data-chapter="Whether the object of anger is good or evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="Whether the object of anger is good or evil?" data-chapter="Whether the object of anger is good or evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the object of [anger](/concepts/anger) is evil. For Gregory of Nyssa says
 [*Nemesius, De Nat. Hom. xxi.] that anger is "the sword-bearer of desire," inasmuch, to wit, as it
@@ -6144,7 +6144,7 @@ person, on whom it seeks to be avenged. Consequently it is a passion somewhat ma
 passions.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="143" data-title="Whether anger is in the concupiscible faculty?" data-chapter="Whether anger is in the concupiscible faculty?" data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="Whether anger is in the concupiscible faculty?" data-chapter="Whether anger is in the concupiscible faculty?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is in the concupiscible faculty. For [Cicero](/figures/cicero) says (De
 Quaest. Tusc. iv, 9) that anger is a kind of "desire." But desire is in the concupiscible faculty.
@@ -6184,7 +6184,7 @@ Reply to Objection 3: Anger is said to be composed of sorrow and desire, not as 
 were its parts, but because they are its causes: and it has been said above (Q[25], A[2]) that the
 concupiscible passions are the causes of the irascible passions.
 
-<span class="atom-split" data-atom="144" data-title="Whether anger requires an act of reason?" data-chapter="Whether anger requires an act of reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="144" data-title="Whether anger requires an act of reason?" data-chapter="Whether anger requires an act of reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not require an act of reason. For, since anger is a
 passion, it is in the sensitive appetite. But the sensitive appetite follows an apprehension, not of
@@ -6224,7 +6224,7 @@ who are very drunk, so as to be incapable of the use of reason, do not get angry
 slightly drunk, do get angry, through being still able, though hampered, to form a judgment of
 reason.
 
-<span class="atom-split" data-atom="145" data-title="Whether anger is more natural than desire?" data-chapter="Whether anger is more natural than desire?" data-kind="atom"></span>
+<span class="atom-split" data-atom="145" data-title="Whether anger is more natural than desire?" data-chapter="Whether anger is more natural than desire?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is not more natural than desire. Because it is proper to
 man to be by nature a gentle animal. But "gentleness is contrary to anger," as the Philosopher states
@@ -6285,7 +6285,7 @@ fact that anger requires an act of reason, it follows that it is, in a manner, n
 
 Reply to Objection 3: This argument regards anger and desire on the part of the object.
 
-<span class="atom-split" data-atom="146" data-title="Whether anger is more grievous than hatred?" data-chapter="Whether anger is more grievous than hatred?" data-kind="atom"></span>
+<span class="atom-split" data-atom="146" data-title="Whether anger is more grievous than hatred?" data-chapter="Whether anger is more grievous than hatred?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is more grievous than hatred. For it is written (Prov.
 27:4) that "anger hath no mercy, nor fury when it breaketh forth." But hatred sometimes has mercy.
@@ -6349,7 +6349,7 @@ transitory than disposition or habit, so anger is less lasting than hatred; alth
 passion ensuing from this disposition. Hence the Philosopher says (Rhet. ii, 4) that "hatred is more
 incurable than anger."
 
-<span class="atom-split" data-atom="147" data-title="Whether anger is only towards those to whom one has an obligation of justice?" data-chapter="Whether anger is only towards those to whom one has an obligation of justice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="147" data-title="Whether anger is only towards those to whom one has an obligation of justice?" data-chapter="Whether anger is only towards those to whom one has an obligation of justice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is not only towards those to whom one has an obligation
 of justice. For there is no justice between man and irrational beings. And yet sometimes one is
@@ -6399,7 +6399,7 @@ Anger, on the other hand, ensues from someone having injured us by his action. N
 are the deeds of individuals: and consequently anger is always pointed at an individual. When the
 whole state hurts us, the whole state is reckoned as one individual [*Cf. Q[29], A[6]].
 
-<span class="atom-split" data-atom="148" data-title="Whether the species of anger are suitably assigned?" data-chapter="Whether the species of anger are suitably assigned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="148" data-title="Whether the species of anger are suitably assigned?" data-chapter="Whether the species of anger are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Damascene (De Fide Orth. ii, 16) unsuitably assigns three
 species of anger---"wrath," "ill-will" and "rancor." For no genus derives its specific differences
@@ -6457,7 +6457,7 @@ are four points of inquiry:
 (3) Of the cause of anger on the part of the angry person;
 (4) Of the cause of anger on the part of the person with whom one is angry.
 
-<span class="atom-split" data-atom="149" data-title="Whether the motive of anger is always something done against the one who is angry?" data-chapter="Whether the motive of anger is always something done against the one who is angry?" data-kind="atom"></span>
+<span class="atom-split" data-atom="149" data-title="Whether the motive of anger is always something done against the one who is angry?" data-chapter="Whether the motive of anger is always something done against the one who is angry?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the motive of [anger](/concepts/anger) is not always something done against the
 one who is angry. Because man, by sinning, can do nothing against God; since it is written (Job
@@ -6506,7 +6506,7 @@ own good; so that if anyone despise it, it seems as though we ourselves were des
 Reply to Objection 4: Silence provokes the insulter to anger when he thinks it is due to
 contempt, as though his anger were slighted: and a slight is an action.
 
-<span class="atom-split" data-atom="150" data-title="Whether the sole motive of anger is slight or contempt?" data-chapter="Whether the sole motive of anger is slight or contempt?" data-kind="atom"></span>
+<span class="atom-split" data-atom="150" data-title="Whether the sole motive of anger is slight or contempt?" data-chapter="Whether the sole motive of anger is slight or contempt?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that slight or contempt is not the sole motive of [anger](/concepts/anger). For
 Damascene says (De Fide Orth. ii, 16) that we are angry "when we suffer, or think that we are
@@ -6564,7 +6564,7 @@ to care little about his good or evil. Again he that hinders another from carryi
 deriving thereby any profit to himself, seems not to care much for his [friendship](/concepts/friendship). Consequently all
 those things, in so far as they are signs of contempt, provoke anger.
 
-<span class="atom-split" data-atom="151" data-title="Whether a man's excellence is the cause of his being angry?" data-chapter="Whether a man's excellence is the cause of his being angry?" data-kind="atom"></span>
+<span class="atom-split" data-atom="151" data-title="Whether a man's excellence is the cause of his being angry?" data-chapter="Whether a man's excellence is the cause of his being angry?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man's excellence is not the cause of his being more easily
 angry. For the Philosopher says (Rhet. ii, 2) that "some are angry especially when they are grieved,
@@ -6607,7 +6607,7 @@ Reply to Objection 3: All these things hinder anger in so far as they hinder sor
 another respect they are naturally apt to provoke anger, because they make it more unseemly to
 insult anyone.
 
-<span class="atom-split" data-atom="152" data-title="Whether a person's defect is a reason for being more easily angry with him?" data-chapter="Whether a person's defect is a reason for being more easily angry with him?" data-kind="atom"></span>
+<span class="atom-split" data-atom="152" data-title="Whether a person's defect is a reason for being more easily angry with him?" data-chapter="Whether a person's defect is a reason for being more easily angry with him?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a person's defect is not a reason for being more easily angry
 with him. For the Philosopher says (Rhet. ii, 3) that "we are not angry with those who confess and
@@ -6649,7 +6649,7 @@ Reply to Objection 3: To be despised by one's friends seems also a greater indig
 Consequently if they despise us by hurting or by failing to help, we are angry with them for the
 same reason for which we are angry with those who are beneath us.
 
-<span class="atom-split" data-atom="153" data-title="OF THE EFFECTS OF ANGER (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF ANGER (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="153" data-title="OF THE EFFECTS OF ANGER (FOUR ARTICLES)" data-chapter="OF THE EFFECTS OF ANGER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of [anger](/concepts/anger): under which head there are four points of inquiry:
 (1) Whether anger causes pleasure?
@@ -6657,7 +6657,7 @@ We must now consider the effects of [anger](/concepts/anger): under which head t
 (3) Whether above all it hinders the use of reason?
 (4) Whether it causes taciturnity?
 
-<span class="atom-split" data-atom="154" data-title="Whether anger causes pleasure?" data-chapter="Whether anger causes pleasure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="154" data-title="Whether anger causes pleasure?" data-chapter="Whether anger causes pleasure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not cause pleasure. Because sorrow excludes
 pleasure. But anger is never without sorrow, since, as stated in Ethic. vii, 6, "everyone that acts
@@ -6699,7 +6699,7 @@ of vengeance, which banishes anger altogether.
 Reply to Objection 3: Pleasure that precedes hinders sorrow from ensuing, and consequently
 is a hindrance to anger. But pleasure felt in taking vengeance follows from anger.
 
-<span class="atom-split" data-atom="155" data-title="Whether anger above all causes fervor in the heart?" data-chapter="Whether anger above all causes fervor in the heart?" data-kind="atom"></span>
+<span class="atom-split" data-atom="155" data-title="Whether anger above all causes fervor in the heart?" data-chapter="Whether anger above all causes fervor in the heart?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that heat is not above all the effect of [anger](/concepts/anger). For fervor, as stated
 above (Q[28], A[5]; Q[37], A[2]), belongs to love. But love, as above stated, is the beginning and
@@ -6769,7 +6769,7 @@ the former is weakened. Especially is this so if his anger in the second case be
 wrong done which aroused his former anger, will, in comparison with the second wrong, which is
 reckoned greater, seem to be of little or no account.
 
-<span class="atom-split" data-atom="156" data-title="Whether anger above all hinders the use of reason?" data-chapter="Whether anger above all hinders the use of reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="156" data-title="Whether anger above all hinders the use of reason?" data-chapter="Whether anger above all hinders the use of reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not hinder the use of reason. Because that which
 presupposes an act of reason, does not seem to hinder the use of reason. But "anger listens to reason,"
@@ -6823,7 +6823,7 @@ unforeseen. Consequently it causes greater grief: just as a great good, through 
 unexpectedly, causes greater delight. And in proportion to the increase of the grief that precedes,
 anger is increased also.
 
-<span class="atom-split" data-atom="157" data-title="Whether anger above all causes taciturnity?" data-chapter="Whether anger above all causes taciturnity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="157" data-title="Whether anger above all causes taciturnity?" data-chapter="Whether anger above all causes taciturnity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) does not cause taciturnity. Because taciturnity is opposed
 to speech. But increase in anger conduces to speech; as is evident from the degrees of anger laid

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_nación_frente_al_estado" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La nación frente al Estado" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La nación frente al Estado" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La política que España va a propagar y defender, cuando menos, parte de una idea clara, que es, a la vez, una idea prácticamente nueva. Vamos a ensayar su realización por cuantos medios se hallen a nuestra mano. Si fracasamos en el intento no desmayaremos: volveremos a empezar de nuevo. Una vida noble no es una vida con buen éxito, sino una vida poblada de honrados intentos. Cervantes, nuestro divino y dolorido Cervantes, nos lo dice como en un supremo consejo: «Vale más el camino que la posada». Echemos, pues, a andar pensando que lo que diferencia al nuestro de los demás pueblos europeos no es el número de cosas que en él fracasan, sino el número de cosas que en él no se intentan.
 

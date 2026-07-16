@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/iconoclasia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Iconoclasia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Iconoclasia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No parece excesivo afirmar que las artes plásticas del nuevo estilo han revelado un verdadero asco hacia las formas vivas o de los seres vivientes. El fenómeno adquiere completa evidencia si se compara el arte de estos años con aquella hora en que de la disciplina gótica emergen pintura y escultura como de una pesadilla, y dan la gran cosecha mundanal del Renacimiento. Pincel y cincel se deleitan voluptuosamente en seguir la pauta que el modelo animal o vegetal presenta en sus carnes mórbidas donde la vitalidad palpita. No importa qué seres con tal que en ellos la vida dé su pulsación dinámica. Y del cuadro o la escultura se derrama la forma orgánica sobre el ornamento. Es la época de los cuernos de la abundancia, manantiales de vida torrencial que amenaza inundar el espacio con sus frutos redondos y maduros.
 

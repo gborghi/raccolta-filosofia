@@ -20,14 +20,14 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_penance" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Penance" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Penance" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 SUPPLEMENT (XP): TO THE THIRD PART OF THE [SUMMA](/schools/scholasticism)
 THEOLOGICA OF ST. THOMAS AQUINAS GATHERED
 FROM HIS COMMENTARY ON BOOK IV OF THE
 SENTENCES (QQ[1] -99)
 
-<span class="atom-split" data-atom="002" data-title="OF THE PARTS OF PENANCE, IN PARTICULAR, AND FIRST OF CONTRITION (THREE ARTICLES)" data-chapter="OF THE PARTS OF PENANCE, IN PARTICULAR, AND FIRST OF CONTRITION (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE PARTS OF PENANCE, IN PARTICULAR, AND FIRST OF CONTRITION (THREE ARTICLES)" data-chapter="OF THE PARTS OF PENANCE, IN PARTICULAR, AND FIRST OF CONTRITION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider each single part of Penance, and (1) Contrition; (2) Confession; (3)
 Satisfaction. The consideration about Contrition will be fourfold: (1) What is it? (2) What should
@@ -37,7 +37,7 @@ Under the first head there are three points of inquiry:
 (2) Whether it is an act of virtue?
 (3) Whether attrition can become contrition?
 
-<span class="atom-split" data-atom="003" data-title="Whether contrition is an assumed sorrow for sins, together with the purpose of confessing them and of making satisfaction for them?" data-chapter="Whether contrition is an assumed sorrow for sins, together with the purpose of confessing them and of making satisfaction for them?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether contrition is an assumed sorrow for sins, together with the purpose of confessing them and of making satisfaction for them?" data-chapter="Whether contrition is an assumed sorrow for sins, together with the purpose of confessing them and of making satisfaction for them?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that contrition is not "an assumed sorrow for sins, together with
 the purpose of confessing them and of making satisfaction for them," as some define it. For, as
@@ -105,7 +105,7 @@ confession and satisfaction are still necessary, both because man cannot be sure
 was sufficient to take away all, and because confession and satisfaction are a matter of precept:
 wherefore he becomes a transgressor, who confesses not and makes not satisfaction.
 
-<span class="atom-split" data-atom="004" data-title="Whether contrition is an act of virtue?" data-chapter="Whether contrition is an act of virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether contrition is an act of virtue?" data-chapter="Whether contrition is an act of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that contrition is not an act of virtue. For passions are not acts of
 virtue, since "they bring us neither praise nor blame" (Ethic. ii, 5). But sorrow is a passion. As
@@ -145,7 +145,7 @@ crushed to pieces; while they are said to be contrite, when all the parts are cr
 Wherefore, in spiritual matters, attrition signifies a certain but not a perfect displeasure for sins
 committed, whereas contrition denotes perfect displeasure.
 
-<span class="atom-split" data-atom="005" data-title="Whether attrition can become contrition?" data-chapter="Whether attrition can become contrition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether attrition can become contrition?" data-chapter="Whether attrition can become contrition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that attrition can become contrition. For contrition differs from
 attrition, as living from dead. Now dead faith becomes living. Therefore attrition can become
@@ -181,7 +181,7 @@ anew by some form, whereby it was not quickened previously: whereas this cannot 
 act, even as it is impossible for the identically same thing to arise from a cause wherefrom it did
 not arise before, since a thing is brought into being but once.
 
-<span class="atom-split" data-atom="006" data-title="OF THE OBJECT OF CONTRITION (SIX ARTICLES)" data-chapter="OF THE OBJECT OF CONTRITION (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="OF THE OBJECT OF CONTRITION (SIX ARTICLES)" data-chapter="OF THE OBJECT OF CONTRITION (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the object of contrition. Under this head there are six points of inquiry:
 (1) Whether a man should be contrite on account of his punishment?
@@ -191,7 +191,7 @@ We must now consider the object of contrition. Under this head there are six poi
 (5) Whether, for the sins of others?
 (6) Whether, for each single mortal sin?
 
-<span class="atom-split" data-atom="007" data-title="Whether man should be contrite on account of the punishment, and not only on account of his sin?" data-chapter="Whether man should be contrite on account of the punishment, and not only on account of his sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether man should be contrite on account of the punishment, and not only on account of his sin?" data-chapter="Whether man should be contrite on account of the punishment, and not only on account of his sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man should be contrite on account of the punishment, and not
 only on account of his sin. For [Augustine](/figures/augustine) says in De Poenitentia [*Cf. Hom. 50 inter 1]: "No man
@@ -225,7 +225,7 @@ contrition, but is its principle. For just as we are moved to desire a thing on 
 we expect to derive from it, so are we moved to be sorry for something on account of the evil
 accruing to us therefrom.
 
-<span class="atom-split" data-atom="008" data-title="Whether contrition should be on account of original sin?" data-chapter="Whether contrition should be on account of original sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether contrition should be on account of original sin?" data-chapter="Whether contrition should be on account of original sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that contrition should be on account of [original sin](/positions/original_sin). For we ought
 to be contrite on account of actual sin; not by reason of the act, considered as a kind of being, but
@@ -256,7 +256,7 @@ act of the will; and this does not apply to original sin, so that contrition doe
 The same Reply avails for the Second Objection, because contrition is due to aversion of the
 will.
 
-<span class="atom-split" data-atom="009" data-title="Whether we should have contrition for every actual sin?" data-chapter="Whether we should have contrition for every actual sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether we should have contrition for every actual sin?" data-chapter="Whether we should have contrition for every actual sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we have no need to have contrition for every actual sin we
 have committed. For contraries are healed by their contraries. Now some sins are committed through
@@ -318,7 +318,7 @@ Reply to Objection 4: A venial sin can remain after contrition for a mortal sin,
 contrition for the venial sin: wherefore contrition should also cover venial sins even as penance
 does, as stated above (Sent. iv, D, 16, Q[2], A[2], qu. 2; XP, Q[87], A[1]).
 
-<span class="atom-split" data-atom="010" data-title="Whether a man is bound to have contrition for his future sins?" data-chapter="Whether a man is bound to have contrition for his future sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether a man is bound to have contrition for his future sins?" data-chapter="Whether a man is bound to have contrition for his future sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man is bound to have contrition for his future sins also. For
 contrition is an act of the free-will: and the free-will extends to the future rather than to the past,
@@ -363,7 +363,7 @@ punishment accrues to it, in the respect of which the damned will have the more 
 for the more evils that have resulted from their sins. It is in this sense that Jerome [*Basil] speaks.
 Hence there is not need for contrition to be for other than past sins.
 
-<span class="atom-split" data-atom="011" data-title="Whether a man ought to have contrition for another's sin?" data-chapter="Whether a man ought to have contrition for another's sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether a man ought to have contrition for another's sin?" data-chapter="Whether a man ought to have contrition for another's sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man ought to have contrition for another's sin. For one should
 not ask forgiveness for a sin unless one is contrite for it. Now forgiveness is asked for another's sin
@@ -390,7 +390,7 @@ through fellowship with sinners, a man contracts a stain by consenting to their 
 Reply to Objection 2: We ought to grieve for the sins of others, but not to have contrition for
 them, because not all sorrow for past sins is contrition, as is evident for what has been said already.
 
-<span class="atom-split" data-atom="012" data-title="Whether it is necessary to have contrition for each mortal sin?" data-chapter="Whether it is necessary to have contrition for each mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether it is necessary to have contrition for each mortal sin?" data-chapter="Whether it is necessary to have contrition for each mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not necessary to have contrition for each mortal sin. For
 the movement of contrition in justification is instantaneous: whereas a man cannot think of every
@@ -436,7 +436,7 @@ the accident which is the term of the alteration. In like manner, one Baptism bl
 together and introduces a new life; whereas Penance does not blot out each sin, unless it be directed
 to each. For this reason it is necessary to be contrite for, and to confess each sin.
 
-<span class="atom-split" data-atom="013" data-title="OF THE DEGREE OF CONTRITION (THREE ARTICLES)" data-chapter="OF THE DEGREE OF CONTRITION (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="OF THE DEGREE OF CONTRITION (THREE ARTICLES)" data-chapter="OF THE DEGREE OF CONTRITION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the degree of contrition: under which head there are three points of
 inquiry:
@@ -444,7 +444,7 @@ inquiry:
 (2) Whether the sorrow of contrition can be too great?
 (3) Whether sorrow for one sin ought to be greater than for another?
 
-<span class="atom-split" data-atom="014" data-title="Whether contrition is the greatest possible sorrow in the world?" data-chapter="Whether contrition is the greatest possible sorrow in the world?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether contrition is the greatest possible sorrow in the world?" data-chapter="Whether contrition is the greatest possible sorrow in the world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that contrition is not the greatest possible sorrow in the world. For
 sorrow is the sensation of hurt. But some hurts are more keenly felt than the hurt of sin, e.g. the
@@ -545,7 +545,7 @@ not be questioned about his feelings, because man cannot easily measure them. So
 which displeases least seems to displease most, through being more closely connected with some
 sensible hurt, which is more known to us.
 
-<span class="atom-split" data-atom="015" data-title="Whether the sorrow of contrition can be too great?" data-chapter="Whether the sorrow of contrition can be too great?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the sorrow of contrition can be too great?" data-chapter="Whether the sorrow of contrition can be too great?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sorrow of contrition cannot be too great. For no sorrow
 can be more immoderate than that which destroys its own subject. But the sorrow of contrition, if
@@ -581,7 +581,7 @@ did not wish his eyes to be blinded.
 Reply to Objection 2: This objection considers the sorrow which is in the reason: while the
 Third considers the sorrow of the sensitive part.
 
-<span class="atom-split" data-atom="016" data-title="Whether sorrow for one sin should be greater than for another?" data-chapter="Whether sorrow for one sin should be greater than for another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether sorrow for one sin should be greater than for another?" data-chapter="Whether sorrow for one sin should be greater than for another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sorrow for one sin need not be greater than for another. For
 Jerome (Ep. cviii) commends Paula for that "she deplored her slightest sins as much as great ones."
@@ -637,14 +637,14 @@ Reply to Objection 3: Although each mortal sin turns us away from God and depriv
 His grace, yet some remove us further away than others, inasmuch as through their inordinateness
 they become more out of harmony with the order of the Divine goodness, than others do.
 
-<span class="atom-split" data-atom="017" data-title="OF THE TIME FOR CONTRITION (THREE ARTICLES)" data-chapter="OF THE TIME FOR CONTRITION (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="OF THE TIME FOR CONTRITION (THREE ARTICLES)" data-chapter="OF THE TIME FOR CONTRITION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the time for contrition: under which head there are three points of inquiry:
 (1) Whether the whole of this life is the time for contrition?
 (2) Whether it is expedient to grieve continually for our sins?
 (3) Whether souls grieve for their sins even after this life?
 
-<span class="atom-split" data-atom="018" data-title="Whether the whole of this life is the time for contrition?" data-chapter="Whether the whole of this life is the time for contrition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether the whole of this life is the time for contrition?" data-chapter="Whether the whole of this life is the time for contrition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the time for contrition is not the whole of this life. For as we
 should be sorry for a sin committed, so should we be ashamed of it. But shame for sin does not last
@@ -715,7 +715,7 @@ derives its finiteness. On the other hand, the sorrow of contrition corresponds 
 the aversion, whence it derives a certain [infinity](/concepts/infinity); wherefore contrition ought to continue always;
 nor is it unreasonable if that which precedes remains, when that which follows is taken away.
 
-<span class="atom-split" data-atom="019" data-title="Whether it is expedient to grieve for sin continually?" data-chapter="Whether it is expedient to grieve for sin continually?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether it is expedient to grieve for sin continually?" data-chapter="Whether it is expedient to grieve for sin continually?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not expedient to grieve for sin continually. For it is
 sometimes expedient to rejoice, as is evident from  Phil. 4:4, where the gloss on the words, "Rejoice
@@ -761,7 +761,7 @@ for which it is assumed, demands.
 
 Reply to Objection 3: Bernard is speaking of sorrow as a passion.
 
-<span class="atom-split" data-atom="020" data-title="Whether our souls are contrite for sins even after this life?" data-chapter="Whether our souls are contrite for sins even after this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether our souls are contrite for sins even after this life?" data-chapter="Whether our souls are contrite for sins even after this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our souls are contrite for sins even after this life. For the love
 of charity causes displeasure at sin. Now, after this life, charity remains in some, both as to its act
@@ -802,7 +802,7 @@ Reply to Objection 3: The pain which the souls suffer in purgatory, cannot, prop
 be called satisfaction, because satisfaction demands a meritorious work; yet, in a broad sense, the
 payment of the punishment due may be called satisfaction.
 
-<span class="atom-split" data-atom="021" data-title="OF THE EFFECT OF CONTRITION (THREE ARTICLES)" data-chapter="OF THE EFFECT OF CONTRITION (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="OF THE EFFECT OF CONTRITION (THREE ARTICLES)" data-chapter="OF THE EFFECT OF CONTRITION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effect of contrition: under which head there are three points of
 inquiry:
@@ -810,7 +810,7 @@ inquiry:
 (2) Whether contrition can take away the debt of punishment entirely?
 (3) Whether slight contrition suffices to blot out great sins?
 
-<span class="atom-split" data-atom="022" data-title="Whether the forgiveness of sin is the effect of contrition?" data-chapter="Whether the forgiveness of sin is the effect of contrition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the forgiveness of sin is the effect of contrition?" data-chapter="Whether the forgiveness of sin is the effect of contrition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the forgiveness of sin is not the effect of contrition. For God
 alone forgives sins. But we are somewhat the cause of contrition, since it is an act of our own.
@@ -852,7 +852,7 @@ Reply to Objection 3: The dispensation of the Eucharist belongs to the ministers
 wherefore a man should not go to Communion until his sin has been forgiven through the ministers
 of the Church, although his sin may be forgiven him before God.
 
-<span class="atom-split" data-atom="023" data-title="Whether contrition can take away the debt of punishment entirely?" data-chapter="Whether contrition can take away the debt of punishment entirely?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether contrition can take away the debt of punishment entirely?" data-chapter="Whether contrition can take away the debt of punishment entirely?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that contrition cannot take away the debt of punishment entirely.
 For satisfaction and confession are ordained for man's deliverance from the debt of punishment.
@@ -897,7 +897,7 @@ Reply to Objection 3: Although the sorrow of contrition is finite in its intensi
 punishment due for mortal sin is finite; yet it derives infinite power from charity, whereby it is
 quickened, and so it avails for the remission of both guilt and punishment.
 
-<span class="atom-split" data-atom="024" data-title="Whether slight contrition suffices to blot out great sins?" data-chapter="Whether slight contrition suffices to blot out great sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether slight contrition suffices to blot out great sins?" data-chapter="Whether slight contrition suffices to blot out great sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that slight contrition does not suffice to blot out great sins. For
 contrition is the remedy for sin. Now a bodily remedy, that heals a lesser bodily infirmity, does not
@@ -930,7 +930,7 @@ a lesser, according as it is more repugnant to the love which causes his sorrow.
 same degree of sorrow for a greater sin, as another has for a lesser, this would suffice for the
 remission of the sin.
 
-<span class="atom-split" data-atom="025" data-title="OF CONFESSION, AS REGARDS ITS NECESSITY (SIX ARTICLES)" data-chapter="OF CONFESSION, AS REGARDS ITS NECESSITY (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="OF CONFESSION, AS REGARDS ITS NECESSITY (SIX ARTICLES)" data-chapter="OF CONFESSION, AS REGARDS ITS NECESSITY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider confession, about which there are six points for our consideration: (1)
 The necessity of confession; (2) Its nature; (3) Its minister; (4) Its quality; (5) Its effect; (6) The
@@ -943,7 +943,7 @@ Under the first head there are six points of inquiry:
 (5) Whether one is bound to confess at once?
 (6) Whether one can be dispensed from confessing to another man?
 
-<span class="atom-split" data-atom="026" data-title="Whether confession is necessary for salvation?" data-chapter="Whether confession is necessary for salvation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether confession is necessary for salvation?" data-chapter="Whether confession is necessary for salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession is not necessary for salvation. For the [sacrament](/concepts/sacrament)
 of Penance is ordained for the sake of the remission of sin. But sin is sufficiently remitted by the
@@ -1018,7 +1018,7 @@ reason of the severity of the punishment which is enjoined in satisfaction, but 
 being a part of the sacrament having the sacramental power; wherefore it ought to be imposed by
 the dispensers of the sacraments, and consequently confession is necessary.
 
-<span class="atom-split" data-atom="027" data-title="Whether confession is according to the natural law?" data-chapter="Whether confession is according to the natural law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether confession is according to the natural law?" data-chapter="Whether confession is according to the natural law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession is according to the [natural law](/positions/natural_law). For Adam and Cain
 were bound to none but the precepts of the natural law, and yet they are reproached for not confessing
@@ -1070,7 +1070,7 @@ Reply to Objection 3: Job is speaking of the man who hides his sin by denying it
 himself when he is accused thereof, as we may gather from a gloss [*Cf. Gregory, Moral. xxii, 9]
 on the passage.
 
-<span class="atom-split" data-atom="028" data-title="Whether all are bound to confession?" data-chapter="Whether all are bound to confession?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether all are bound to confession?" data-chapter="Whether all are bound to confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all are bound to confession, for Jerome says on Is. 3:9
 ("They have proclaimed abroad"), "their sin," etc.: "Penance is the second plank after shipwreck."
@@ -1116,7 +1116,7 @@ no mortal sins to confess, is not bound to confess his venial sins, but it suffi
 of the commandment of the Church that he present himself before the priest, and declare himself
 to be unconscious of any mortal sin: and this will count for his confession.
 
-<span class="atom-split" data-atom="029" data-title="Whether it is lawful for a man to confess a sin which he has not committed?" data-chapter="Whether it is lawful for a man to confess a sin which he has not committed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether it is lawful for a man to confess a sin which he has not committed?" data-chapter="Whether it is lawful for a man to confess a sin which he has not committed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is lawful for a man to confess a sin which he has not
 committed. For, as Gregory says (Regist. xii), "it is the mark of a good conscience to acknowledge
@@ -1171,7 +1171,7 @@ which he did not commit, as when anyone confesses a sin which he thinks he has n
 And if he mentions a sin that he has not committed, believing that he has, he does not lie; wherefore
 he does not sin, provided his confession thereof tally with his conscience.
 
-<span class="atom-split" data-atom="030" data-title="Whether one is bound to confess at once?" data-chapter="Whether one is bound to confess at once?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether one is bound to confess at once?" data-chapter="Whether one is bound to confess at once?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one is bound to confess at once. For Hugh of St. Victor says
 (De Sacram. ii): "The contempt of confession is inexcusable, unless there be an urgent reason for
@@ -1253,7 +1253,7 @@ to a negative precept, which binds always and for always, and therefore one is a
 make immediate restitution. It is not the same with the fulfillment of an affirmative precept, which
 binds always, but not for always, wherefore one is not bound to fulfill it at once.
 
-<span class="atom-split" data-atom="031" data-title="Whether one can be dispensed from confession?" data-chapter="Whether one can be dispensed from confession?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether one can be dispensed from confession?" data-chapter="Whether one can be dispensed from confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one can be dispensed from confessing his sins to a man. For
 precepts of positive law are subject to dispensation by the prelates of the Church. Now such is
@@ -1292,7 +1292,7 @@ John's Baptism for the grace of Christ, confessed their sins to him, and that th
 to the priests, and though they were not priests of the New Testament, yet the priesthood of the
 New Testament was foreshadowed in them.
 
-<span class="atom-split" data-atom="032" data-title="OF THE NATURE OF CONFESSION (THREE ARTICLES)" data-chapter="OF THE NATURE OF CONFESSION (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="OF THE NATURE OF CONFESSION (THREE ARTICLES)" data-chapter="OF THE NATURE OF CONFESSION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the nature of confession, under which head there are three points of
 inquiry:
@@ -1300,7 +1300,7 @@ inquiry:
 (2) Whether confession is an act of virtue?
 (3) Whether confession is an act of the virtue of penance?
 
-<span class="atom-split" data-atom="033" data-title="Whether Augustine fittingly defines confession?" data-chapter="Whether Augustine fittingly defines confession?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether Augustine fittingly defines confession?" data-chapter="Whether Augustine fittingly defines confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [Augustine](/figures/augustine) defines confession unfittingly, when he says (Super
 Ps. 21) that confession "lays bare the hidden disease by the hope of pardon." For the disease against
@@ -1349,7 +1349,7 @@ Reply to Objection 4: It is not necessary that every definition should include e
 connected with the thing defined: and for this reason we find some definitions or descriptions that
 indicate one cause, and some that indicate another.
 
-<span class="atom-split" data-atom="034" data-title="Whether confession is an act of virtue?" data-chapter="Whether confession is an act of virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether confession is an act of virtue?" data-chapter="Whether confession is an act of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession is not an act of virtue. For every act of virtue belongs
 to the [natural law](/positions/natural_law), since "we are naturally capable of virtue," as the Philosopher says (Ethic. ii, 1).
@@ -1394,7 +1394,7 @@ they are not contrary but disparate; hence there is nothing to prevent that whic
 in so far as it proceeds from the free-will quickened by grace, from being a sacrament, or part of a
 sacrament, in so far as it is ordained as a remedy for sin.
 
-<span class="atom-split" data-atom="035" data-title="Whether confession is an act of the virtue of penance?" data-chapter="Whether confession is an act of the virtue of penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether confession is an act of the virtue of penance?" data-chapter="Whether confession is an act of the virtue of penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession is not an act of the virtue of penance. For an act
 belongs to the virtue which is its cause. Now the cause of confession is the hope of pardon, as
@@ -1453,7 +1453,7 @@ article about the Judgment, which fear considers; although penance, in its aspec
 the opposite.
 The Reply to the Fifth Objection is to be gathered from what has been said.
 
-<span class="atom-split" data-atom="036" data-title="OF THE MINISTER OF CONFESSION (SEVEN ARTICLES)" data-chapter="OF THE MINISTER OF CONFESSION (SEVEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="OF THE MINISTER OF CONFESSION (SEVEN ARTICLES)" data-chapter="OF THE MINISTER OF CONFESSION (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the minister of confession, under which head there are seven points of
 inquiry:
@@ -1467,7 +1467,7 @@ privilege or of the command of a superior?
 (6) Whether a penitent, in danger of death can be absolved by any priest?
 (7) Whether the temporal punishment should be enjoined in proportion to the sin?
 
-<span class="atom-split" data-atom="037" data-title="Whether it is necessary to confess to a priest?" data-chapter="Whether it is necessary to confess to a priest?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether it is necessary to confess to a priest?" data-chapter="Whether it is necessary to confess to a priest?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not necessary to confess to a priest. For we are not bound
 to confession, except in virtue of its Divine institution. Now its Divine institution is made known
@@ -1526,7 +1526,7 @@ thus belongs to the man, i.e. the priest, whose business it is to provide remedi
 such as the sacrament of the Eucharist, and other like things. It is to this knowledge of the sheep
 that confession is ordained.
 
-<span class="atom-split" data-atom="038" data-title="Whether it is ever lawful to confess to another than a priest?" data-chapter="Whether it is ever lawful to confess to another than a priest?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether it is ever lawful to confess to another than a priest?" data-chapter="Whether it is ever lawful to confess to another than a priest?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is never lawful to confess to another than a priest. For
 confession is a sacramental accusation, as appears from the definition given above (Q[7], A[1]).
@@ -1586,7 +1586,7 @@ more so since, as stated above (ad 1), the sacrament of Penance was not perfecte
 yet to be perfected, in order that by receiving the sacrament, the penitent may receive a more
 plentiful effect, and that he may fulfill the commandment about receiving the sacrament of Penance.
 
-<span class="atom-split" data-atom="039" data-title="Whether, outside a case of necessity, anyone who is not a priest may hear the confession of venial sins?" data-chapter="Whether, outside a case of necessity, anyone who is not a priest may hear the confession of venial sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether, outside a case of necessity, anyone who is not a priest may hear the confession of venial sins?" data-chapter="Whether, outside a case of necessity, anyone who is not a priest may hear the confession of venial sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, outside a case of necessity, no one but a priest may hear the
 confession of venial sins. For the dispensation of a [sacrament](/concepts/sacrament) is committed to a layman by reason
@@ -1613,7 +1613,7 @@ purpose.
 Reply to Objection 2: Extreme Unction is not given directly as a remedy for venial sin, nor is
 any other sacrament.
 
-<span class="atom-split" data-atom="040" data-title="Whether it is necessary for one to confess to one's own priest?" data-chapter="Whether it is necessary for one to confess to one's own priest?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether it is necessary for one to confess to one's own priest?" data-chapter="Whether it is necessary for one to confess to one's own priest?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is nol necessary to confess to one's own priest. For Gregory
 [*Cf. Can. Ex auctoritate xvi, Q[1]] says: "By our apostolic authority and in discharge of our
@@ -1709,7 +1709,7 @@ without confession than confess to such a priest. Wherefore those priests who ar
 probe the consciences of their subjects by means of confession, lay a snare of damnation for many,
 and consequently for themselves.
 
-<span class="atom-split" data-atom="041" data-title="Whether it is lawful for anyone to confess to another than his own priest, in virtue of a privilege or a command given by a superior?" data-chapter="Whether it is lawful for anyone to confess to another than his own priest, in virtue of a privilege or a command given by a superior?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether it is lawful for anyone to confess to another than his own priest, in virtue of a privilege or a command given by a superior?" data-chapter="Whether it is lawful for anyone to confess to another than his own priest, in virtue of a privilege or a command given by a superior?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not lawful for anyone to confess to another than his own
 priest, even in virtue of a privilege or command given by a superior. For no privilege should be
@@ -1803,7 +1803,7 @@ of which applies to Penance. Hence it would be well for him who hears confession
 authority, to advise the penitent to confess to his own priest, yet he must absolve him, even if he
 declines to do so.
 
-<span class="atom-split" data-atom="042" data-title="Whether a penitent, at the point of death, can be absolved by any priest?" data-chapter="Whether a penitent, at the point of death, can be absolved by any priest?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether a penitent, at the point of death, can be absolved by any priest?" data-chapter="Whether a penitent, at the point of death, can be absolved by any priest?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a penitent, at the point of death, cannot be absolved by any
 priest. For absolution requires jurisdiction, as stated above (A[5]). Now a priest does not acquire
@@ -1858,7 +1858,7 @@ diminution of his punishment which results from the power of the keys; and conse
 confess again to a priest; and one who has confessed thus, is more punished hereafter than if he
 had confessed to a priest.
 
-<span class="atom-split" data-atom="043" data-title="Whether the temporal punishment is imposed according to the degree of the fault?" data-chapter="Whether the temporal punishment is imposed according to the degree of the fault?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the temporal punishment is imposed according to the degree of the fault?" data-chapter="Whether the temporal punishment is imposed according to the degree of the fault?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the temporal punishment, the debt of which remains after
 Penance, is not imposed according to the degree of fault. For it is imposed according to the degree
@@ -1939,7 +1939,7 @@ due. Hence he is punished less in Purgatory.
 Reply to Objection 4: This punishment refers to the case when this happens against the priest's
 will: for if he spilled it willingly he would deserve a much heavier punishment.
 
-<span class="atom-split" data-atom="044" data-title="OF THE QUALITY OF CONFESSION (FOUR ARTICLES)" data-chapter="OF THE QUALITY OF CONFESSION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="OF THE QUALITY OF CONFESSION (FOUR ARTICLES)" data-chapter="OF THE QUALITY OF CONFESSION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the quality of confession: under which head there are four points of
 inquiry:
@@ -1949,7 +1949,7 @@ inquiry:
 (4) Whether the sixteen conditions, which are assigned by the masters, are necessary for
 confession?
 
-<span class="atom-split" data-atom="045" data-title="Whether confession can be lacking in form?" data-chapter="Whether confession can be lacking in form?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether confession can be lacking in form?" data-chapter="Whether confession can be lacking in form?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession cannot be lacking in form. For it is written (Ecclus.
 17:26): "Praise [confession] perisheth from the dead as nothing." But a man without charity is dead,
@@ -1990,7 +1990,7 @@ Reply to Objection 3: He who declares the sins which he has, speaks the truth; a
 thought agrees with his lips or words, as to the substance of confession, though it is discordant with
 the purpose of confession.
 
-<span class="atom-split" data-atom="046" data-title="Whether confession should be entire?" data-chapter="Whether confession should be entire?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether confession should be entire?" data-chapter="Whether confession should be entire?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not necessary for confession to be entire, namely, for a
 man to confess all his sins to one priest. For shame conduces to the diminution of punishment. Now
@@ -2054,7 +2054,7 @@ Reply to Objection 4: Although the priest may be unable to absolve the penitent 
 sins, yet the latter is bound to confess all to him, that he may know the total quantity of his guilt,
 and refer him to the superior with regard to the sins from which he cannot absolve him.
 
-<span class="atom-split" data-atom="047" data-title="Whether one may confess through another, or by writing?" data-chapter="Whether one may confess through another, or by writing?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether one may confess through another, or by writing?" data-chapter="Whether one may confess through another, or by writing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one may confess through another, or by writing. For confession
 is necessary in order that the penitent's conscience may be made known to the priest. But a man
@@ -2101,7 +2101,7 @@ Reply to Objection 3: In the absence of one's own priest, confession may be made
 layman, so that there is no necessity to confess in writing, because the act of confession is more
 essential than the person to whom confession is made.
 
-<span class="atom-split" data-atom="048" data-title="Whether the sixteen conditions usually assigned are necessary for confession?" data-chapter="Whether the sixteen conditions usually assigned are necessary for confession?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether the sixteen conditions usually assigned are necessary for confession?" data-chapter="Whether the sixteen conditions usually assigned are necessary for confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the conditions assigned by masters, and contained in the
 following lines, are not requisite for confession:
@@ -2175,7 +2175,7 @@ sometimes for slight sins, and sometimes for none at all.
 
 Reply to Objection 5: We must understand this to refer to tears of the heart.
 
-<span class="atom-split" data-atom="049" data-title="OF THE EFFECT OF CONFESSION (FIVE ARTICLES)" data-chapter="OF THE EFFECT OF CONFESSION (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="OF THE EFFECT OF CONFESSION (FIVE ARTICLES)" data-chapter="OF THE EFFECT OF CONFESSION (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effect of confession: under which head there are five points of
 inquiry:
@@ -2185,7 +2185,7 @@ inquiry:
 (4) Whether confession gives hope of salvation?
 (5) Whether a general confession blots out mortal sins that one has forgotten?
 
-<span class="atom-split" data-atom="050" data-title="Whether confession delivers one from the death of sin?" data-chapter="Whether confession delivers one from the death of sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether confession delivers one from the death of sin?" data-chapter="Whether confession delivers one from the death of sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession does not deliver one from the death of sin. For
 confession follows contrition. But contrition sufficiently blots out guilt. Therefore confession does
@@ -2225,7 +2225,7 @@ e.g. an idle word: secondly, for what is venial in its cause, i.e. having within
 pardon, e.g. sins due to weakness: thirdly, for what is venial in the result, in which sense it is
 understood here, because the result of confession is that man's past guilt is pardoned.
 
-<span class="atom-split" data-atom="051" data-title="Whether confession delivers from punishment in some way?" data-chapter="Whether confession delivers from punishment in some way?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether confession delivers from punishment in some way?" data-chapter="Whether confession delivers from punishment in some way?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession nowise delivers from punishment. For sin deserves
 no punishment but what is either eternal or temporal. Now eternal punishment is remitted by
@@ -2262,7 +2262,7 @@ under the head of accidental and secondary reward. Consequently one who has conf
 received absolution will be less punished in Purgatory than one who has gone no further than
 contrition.
 
-<span class="atom-split" data-atom="052" data-title="Whether confession opens paradise?" data-chapter="Whether confession opens paradise?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether confession opens paradise?" data-chapter="Whether confession opens paradise?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that confession does not open Paradise. For different sacraments
 have different effects. But it is the effect of Baptism to open Paradise. Therefore it is not the effect
@@ -2285,7 +2285,7 @@ he conceived the desire to confess his sin, although afterwards it was opened by
 a desire for confession, even before he actually confessed. Nevertheless the obstacle of the debt of
 punishment was not entirely removed before confession and satisfaction.
 
-<span class="atom-split" data-atom="053" data-title="Whether confession gives hope of salvation?" data-chapter="Whether confession gives hope of salvation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether confession gives hope of salvation?" data-chapter="Whether confession gives hope of salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that hope of salvation should not be reckoned an effect of confession.
 For hope arises from all meritorious acts. Therefore, seemingly, it is not the proper effect of
@@ -2311,7 +2311,7 @@ Reply to Objection 2: Tribulation gives hope of salvation, by making us exercise
 virtue, and by paying off the debt of punishment: while confession does so also in the way mentioned
 above.
 
-<span class="atom-split" data-atom="054" data-title="Whether a general confession suffices to blot out forgotten mortal sins?" data-chapter="Whether a general confession suffices to blot out forgotten mortal sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether a general confession suffices to blot out forgotten mortal sins?" data-chapter="Whether a general confession suffices to blot out forgotten mortal sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a general confession does not suffice to blot out forgotten
 mortal sins. For there is no necessity to confess again a sin which has been blotted out by confession.
@@ -2378,7 +2378,7 @@ Now forgetfulness of an act of sin comes under the head of ignorance of fact, wh
 from the sin of insincerity in confession, which is an obstacle to the fruit of absolution and
 confession.
 
-<span class="atom-split" data-atom="055" data-title="OF THE SEAL OF CONFESSION (FIVE ARTICLES)" data-chapter="OF THE SEAL OF CONFESSION (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="OF THE SEAL OF CONFESSION (FIVE ARTICLES)" data-chapter="OF THE SEAL OF CONFESSION (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now inquire about the seal of confession, about which there are five points of inquiry:
 (1) Whether in every case a man is bound to hide what he knows under the seal of confession?
@@ -2389,7 +2389,7 @@ confession?
 which he knew under the seal of confession?
 (5) Whether he is bound to hide even what he knows through other sources besides?
 
-<span class="atom-split" data-atom="056" data-title="Whether in every case the priest is bound to hide the sins which he knows under the seal of confession?" data-chapter="Whether in every case the priest is bound to hide the sins which he knows under the seal of confession?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether in every case the priest is bound to hide the sins which he knows under the seal of confession?" data-chapter="Whether in every case the priest is bound to hide the sins which he knows under the seal of confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the priest is not bound in every case to hide the sins which he
 knows under the seal of confession. For, as Bernard says (De Proecep. et Dispens. ii), "that which
@@ -2475,7 +2475,7 @@ Reply to Objection 4: A man is rendered unworthy of ecclesiastical preferment, b
 causes besides sin, for instance, by lack of knowledge, age, or the like: so that by raising an objection
 one does not raise a suspicion of crime or divulge the secret of confession.
 
-<span class="atom-split" data-atom="057" data-title="Whether the seal of confession extends to other matters than those which have reference to confession?" data-chapter="Whether the seal of confession extends to other matters than those which have reference to confession?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether the seal of confession extends to other matters than those which have reference to confession?" data-chapter="Whether the seal of confession extends to other matters than those which have reference to confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the seal of confession extends to other matters besides those
 which have reference to confession. For sins alone have reference to confession. Now sometimes
@@ -2503,7 +2503,7 @@ Reply to Objection 2: A confidence ought not easily to be accepted in this way: 
 done the secret must be kept in the way promised, as though one had the secret through confession,
 though not through the seal of confession.
 
-<span class="atom-split" data-atom="058" data-title="Whether the priest alone is bound by the seal of confession?" data-chapter="Whether the priest alone is bound by the seal of confession?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the priest alone is bound by the seal of confession?" data-chapter="Whether the priest alone is bound by the seal of confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not only the priest is bound by the seal of confession. For
 sometimes a priest hears a confession through an interpreter, if there be an urgent reason for so
@@ -2532,7 +2532,7 @@ the act of the seal of confession, and is bound to secrecy, though, properly spe
 by the seal of confession.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="059" data-title="Whether by the penitent's permission, a priest may reveal to another a sin which he knows under the seal of confession?" data-chapter="Whether by the penitent's permission, a priest may reveal to another a sin which he knows under the seal of confession?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether by the penitent's permission, a priest may reveal to another a sin which he knows under the seal of confession?" data-chapter="Whether by the penitent's permission, a priest may reveal to another a sin which he knows under the seal of confession?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a priest may not, by the penitent's permission, reveal to another
 a sin which he knows under the seal of confession. For an inferior may not do what his superior
@@ -2581,7 +2581,7 @@ Reply to Objection 4: He that is informed of a sin through the priest with the p
 shares in an act of the priest's, so that the same applies to him as to an interpreter, unless perchance
 the penitent wish him to know it unconditionally and freely.
 
-<span class="atom-split" data-atom="060" data-title="Whether a man may reveal that which he knows through confession and through some other source besides?" data-chapter="Whether a man may reveal that which he knows through confession and through some other source besides?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether a man may reveal that which he knows through confession and through some other source besides?" data-chapter="Whether a man may reveal that which he knows through confession and through some other source besides?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man may not reveal what he knows through confession and
 through some other source besides. For the seal of confession is not broken unless one reveals a
@@ -2650,7 +2650,7 @@ a man should not be deterred by the fear of giving scandal, from divulging what 
 confession, provided he knows it from some other source: although he ought to avoid giving scandal,
 as far as he is able.
 
-<span class="atom-split" data-atom="061" data-title="OF SATISFACTION, AS TO ITS NATURE (THREE ARTICLES)" data-chapter="OF SATISFACTION, AS TO ITS NATURE (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="OF SATISFACTION, AS TO ITS NATURE (THREE ARTICLES)" data-chapter="OF SATISFACTION, AS TO ITS NATURE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider satisfaction; about which four things have to be considered: (1) Its
 nature; (2) Its possibility; (3) Its quality; (4) The means whereby man offers satisfaction to God.
@@ -2659,7 +2659,7 @@ Under the first head there are three points of inquiry:
 (2) Whether it is an act of justice?
 (3) Whether the definition of satisfaction contained in the text is suitable?
 
-<span class="atom-split" data-atom="062" data-title="Whether satisfaction is a virtue or an act of virtue?" data-chapter="Whether satisfaction is a virtue or an act of virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether satisfaction is a virtue or an act of virtue?" data-chapter="Whether satisfaction is a virtue or an act of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that satisfaction is neither a virtue nor an act of virtue. For every
 act of virtue is meritorious; whereas, seemingly, satisfaction is not, since merit is gratuitous, while
@@ -2709,7 +2709,7 @@ choice, which is common to all virtues, becomes proper to such and such a virtue
 directed to such and such an act. Thus it is that external acts hold the chief place in certain virtues;
 and this is the case with satisfaction.
 
-<span class="atom-split" data-atom="063" data-title="Whether satisfaction is an act of justice?" data-chapter="Whether satisfaction is an act of justice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether satisfaction is an act of justice?" data-chapter="Whether satisfaction is an act of justice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that satisfaction is not an act of justice. Because the purpose of
 satisfaction is that one may be reconciled to the person offended. But reconciliation, being an act
@@ -2772,7 +2772,7 @@ Reply to Objection 3: Each moral virtue shares in the act of prudence, because t
 completes in it the conditions essential to virtue, since each moral virtue takes its mean according
 to the ruling of prudence, as is evident from the definition of virtue given in Ethic. ii, 6.
 
-<span class="atom-split" data-atom="064" data-title="Whether the definition of satisfaction given in the text is suitable?" data-chapter="Whether the definition of satisfaction given in the text is suitable?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether the definition of satisfaction given in the text is suitable?" data-chapter="Whether the definition of satisfaction given in the text is suitable?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the definition of satisfaction given in the text (Sent. iv, D, 15)
 and quoted from [Augustine](/figures/augustine) [*Gennadius Massiliensis, De Eccl. Dogm. liv] is unsuitable---viz. that
@@ -2853,14 +2853,14 @@ above.
 Reply to Objection 6: By debt is meant the debt we owe to God by reason of the sins we have
 committed, because Penance regards a debt, as stated above (A[2]).
 
-<span class="atom-split" data-atom="065" data-title="OF THE POSSIBILITY OF SATISFACTION (TWO ARTICLES)" data-chapter="OF THE POSSIBILITY OF SATISFACTION (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="OF THE POSSIBILITY OF SATISFACTION (TWO ARTICLES)" data-chapter="OF THE POSSIBILITY OF SATISFACTION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the possibility of satisfaction, under which head there are two points of
 inquiry:
 (1) Whether man can make satisfaction to God?
 (2) Whether one man can make satisfaction for another?
 
-<span class="atom-split" data-atom="066" data-title="Whether man can make satisfaction to God?" data-chapter="Whether man can make satisfaction to God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether man can make satisfaction to God?" data-chapter="Whether man can make satisfaction to God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man cannot make satisfaction to God. For satisfaction should
 balance the offense, as shown above (Q[12], AA[2],3). But an offense against God is infinite, since
@@ -2944,7 +2944,7 @@ Reply to Objection 5: Though original sin has less of the nature of sin than act
 it is a more grievous evil, because it is an infection of [human nature](/axes/human_nature) itself, so that, unlike actual
 sin, it could not be expiated by the satisfaction of a mere man.
 
-<span class="atom-split" data-atom="067" data-title="Whether one man can fulfill satisfactory punishment for another?" data-chapter="Whether one man can fulfill satisfactory punishment for another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether one man can fulfill satisfactory punishment for another?" data-chapter="Whether one man can fulfill satisfactory punishment for another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one man cannot fulfill satisfactory punishment for another.
 Because merit is requisite for satisfaction. Now one man cannot merit or demerit for another, since
@@ -3020,7 +3020,7 @@ long as the other makes satisfaction for him: and if he do not this, then both a
 of fulfilling this punishment, one for the sin committed, the other for his omission, so that it does
 not follow that one sin is twice punished.
 
-<span class="atom-split" data-atom="068" data-title="OF THE QUALITY OF SATISFACTION (FIVE ARTICLES)" data-chapter="OF THE QUALITY OF SATISFACTION (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="OF THE QUALITY OF SATISFACTION (FIVE ARTICLES)" data-chapter="OF THE QUALITY OF SATISFACTION (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the quality of satisfaction, under which head there are five points of
 inquiry:
@@ -3031,7 +3031,7 @@ lost charity, satisfy for his other sins which were pardoned him through his con
 (4) Whether works done without charity merit any good?
 (5) Whether such works avail for the mitigation of the pains of hell?
 
-<span class="atom-split" data-atom="069" data-title="Whether a man can satisfy for one sin without satisfying for another?" data-chapter="Whether a man can satisfy for one sin without satisfying for another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether a man can satisfy for one sin without satisfying for another?" data-chapter="Whether a man can satisfy for one sin without satisfying for another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man can satisfy for one sin without satisfying for another.
 Because when several things are not connected together one can be taken away without another.
@@ -3082,7 +3082,7 @@ Reply to Objection 3: By its weight, one sin drags us down to another, as Gregor
 xxv): so that when a man holds to one sin, he does not sufficiently cut himself off from the causes
 of further sin.
 
-<span class="atom-split" data-atom="070" data-title="Whether, when deprived of charity, a man can make satisfaction for sins for which he was previously contrite?" data-chapter="Whether, when deprived of charity, a man can make satisfaction for sins for which he was previously contrite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether, when deprived of charity, a man can make satisfaction for sins for which he was previously contrite?" data-chapter="Whether, when deprived of charity, a man can make satisfaction for sins for which he was previously contrite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that if a man fall into sin after being contrite for all his sins, he
 can, now that he has lost charity, satisfy for his other sins which were already pardoned him through
@@ -3137,7 +3137,7 @@ virtue to the works done after that sin.
 Reply to Objection 4: Sufficient equalization is impossible both as to the Divine acceptation
 and as to equivalence: so that the argument proves nothing.
 
-<span class="atom-split" data-atom="071" data-title="Whether previous satisfaction begins to avail after man is restored to charity?" data-chapter="Whether previous satisfaction begins to avail after man is restored to charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether previous satisfaction begins to avail after man is restored to charity?" data-chapter="Whether previous satisfaction begins to avail after man is restored to charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that when a man has recovered charity his previous satisfaction
 begins to avail, because a gloss on Lev. 25:25, "If thy brother being impoverished," etc., says that
@@ -3193,7 +3193,7 @@ satisfaction leaves behind no effect in the person that does satisfaction, it ne
 in the case of prayer and so forth. Interior works, since they pass away altogether, are nowise
 quickened, and must be repeated.
 
-<span class="atom-split" data-atom="072" data-title="Whether works done without charity merit any, at least temporal, good?" data-chapter="Whether works done without charity merit any, at least temporal, good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether works done without charity merit any, at least temporal, good?" data-chapter="Whether works done without charity merit any, at least temporal, good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that works done without charity merit some, at least a temporal,
 good. For as punishment is to the evil act, so is reward to a good act. Now no evil deed is unpunished
@@ -3250,7 +3250,7 @@ punishment, nevertheless a good deed without charity does not merit condign rewa
 Reply OBJ 2 and 3: These arguments consider merit of congruity; while the other arguments
 consider merit of condignity.
 
-<span class="atom-split" data-atom="073" data-title="Whether the aforesaid works avail for the mitigation of the pains of hell?" data-chapter="Whether the aforesaid works avail for the mitigation of the pains of hell?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the aforesaid works avail for the mitigation of the pains of hell?" data-chapter="Whether the aforesaid works avail for the mitigation of the pains of hell?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the aforesaid works do not avail for the mitigation of the pains
 of hell. For the measure of punishment in hell will answer to the measure of guilt. But works done
@@ -3292,7 +3292,7 @@ as to the pain of fire. But neither will this stand, because as the pain of fire
 also is the pain of the remorse of conscience: so that what applies to one applies to the other.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="074" data-title="OF THE MEANS OF MAKING SATISFACTION (THREE ARTICLES)" data-chapter="OF THE MEANS OF MAKING SATISFACTION (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="OF THE MEANS OF MAKING SATISFACTION (THREE ARTICLES)" data-chapter="OF THE MEANS OF MAKING SATISFACTION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the means of making satisfaction, under which head there are three
 points of inquiry:
@@ -3301,7 +3301,7 @@ points of inquiry:
 (3) Whether the works of satisfaction are suitably reckoned, by saying that there are three, viz.
 almsdeeds, fasting, and prayer?
 
-<span class="atom-split" data-atom="075" data-title="Whether satisfaction must be made by means of penal works?" data-chapter="Whether satisfaction must be made by means of penal works?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether satisfaction must be made by means of penal works?" data-chapter="Whether satisfaction must be made by means of penal works?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that satisfaction need not be made by means of penal works. For
 satisfaction should make compensation for the offense committed against God. Now, seemingly,
@@ -3354,7 +3354,7 @@ does not lessen the efficacy of satisfaction, but increases it.
 Reply to Objection 3: That which is due for sin is compensation for the offense, and this cannot
 be done without punishment of the sinner. It is of this debt that Anselm speaks.
 
-<span class="atom-split" data-atom="076" data-title="Whether the scourges of the present life are satisfactory?" data-chapter="Whether the scourges of the present life are satisfactory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether the scourges of the present life are satisfactory?" data-chapter="Whether the scourges of the present life are satisfactory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the scourges whereby we are punished by God in this life,
 cannot be satisfactory. For nothing but what is meritorious can be satisfactory, as is clear from what
@@ -3399,7 +3399,7 @@ sin. Moreover, these two things are necessary in satisfaction. For the work need
 that honor may be given to God, and it must be a safeguard of virtue, that we may be preserved
 from future sins.
 
-<span class="atom-split" data-atom="077" data-title="Whether the works of satisfaction are suitably enumerated?" data-chapter="Whether the works of satisfaction are suitably enumerated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether the works of satisfaction are suitably enumerated?" data-chapter="Whether the works of satisfaction are suitably enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the works of satisfaction are unsuitably enumerated by saying
 that there are three, viz. almsdeeds, fasting, and prayer. For a work of satisfaction should be penal.
@@ -3470,7 +3470,7 @@ Reply to Objection 5: Whatever relates to affliction of the body is all referred
 whatever is spent for the benefit of one's neighbor is a kind of alms, and whatever act of [worship](/concepts/religion)
 is given to God becomes a kind of prayer, so that even one work can be satisfactory in several ways.
 
-<span class="atom-split" data-atom="078" data-title="OF THOSE WHO RECEIVE THE SACRAMENT OF PENANCE (THREE ARTICLES)" data-chapter="OF THOSE WHO RECEIVE THE SACRAMENT OF PENANCE (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="OF THOSE WHO RECEIVE THE SACRAMENT OF PENANCE (THREE ARTICLES)" data-chapter="OF THOSE WHO RECEIVE THE SACRAMENT OF PENANCE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the recipients of the [sacrament](/concepts/sacrament) of Penance: under which head there are
 three points of inquiry:
@@ -3478,7 +3478,7 @@ three points of inquiry:
 (2) Whether it can be in the saints in glory?
 (3) Whether in the good or bad angels?
 
-<span class="atom-split" data-atom="079" data-title="Whether penance can be in the innocent?" data-chapter="Whether penance can be in the innocent?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether penance can be in the innocent?" data-chapter="Whether penance can be in the innocent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that penance cannot be in the innocent. For penance consists in
 bewailing one's evil deeds: whereas the innocent have done no evil. Therefore penance cannot be
@@ -3518,7 +3518,7 @@ something to be in them for which they would deserve to be punished.
 Reply to Objection 3: So long as the power to sin remains, there would be room for vindictive
 justice as to the habit, though not as to the act, if there were no actual sins.
 
-<span class="atom-split" data-atom="080" data-title="Whether the saints in glory have penance?" data-chapter="Whether the saints in glory have penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether the saints in glory have penance?" data-chapter="Whether the saints in glory have penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the saints in glory have not penance. For, as Gregory says
 (Moral. iv), "the blessed remember their sins, even as we, without grief, remember our griefs after
@@ -3562,7 +3562,7 @@ one will be altogether conformed to the will of God. Wherefore, as God, by His a
 but not by His consequent will, wishes that all things should be good, and therefore that there should
 be no evil, so is it with the blessed. It is this will that this holy father improperly calls penance.
 
-<span class="atom-split" data-atom="081" data-title="Whether an angel can be the subject of penance?" data-chapter="Whether an angel can be the subject of penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether an angel can be the subject of penance?" data-chapter="Whether an angel can be the subject of penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that even a good or bad angel can be a subject of penance. For fear
 is the beginning of penance. But fear is in the angels, according to James 2:19: "The devils . . .
@@ -3620,7 +3620,7 @@ because in the latter there has been or could have been a sin that could be pard
 former: so that though they are like as to their present state, they differ as to their previous states,
 which penance regards directly.
 
-<span class="atom-split" data-atom="082" data-title="OF THE POWER OF THE KEYS (THREE ARTICLES)" data-chapter="OF THE POWER OF THE KEYS (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="OF THE POWER OF THE KEYS (THREE ARTICLES)" data-chapter="OF THE POWER OF THE KEYS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the power of the ministers of this [sacrament](/concepts/sacrament), which power depends on
 the keys. As to this matter, in the first place we shall treat of the keys, secondly, of excommunication,
@@ -3632,7 +3632,7 @@ Under the first head there are three points of inquiry:
 (2) Whether the key is the power of binding and loosing, etc.?
 (3) Whether there are two keys or only one?
 
-<span class="atom-split" data-atom="083" data-title="Whether there should be keys in the Church?" data-chapter="Whether there should be keys in the Church?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether there should be keys in the Church?" data-chapter="Whether there should be keys in the Church?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no necessity for keys in the Church. For there is no
 need for keys that one may enter a house the door of which is open. But it is written (Apoc. 4:1):
@@ -3688,7 +3688,7 @@ It may also be replied, as some state, that the key of heaven is also the key of
 is opened to a man, the other, for that very reason, is closed to him, but it takes its name from the
 better of the two.
 
-<span class="atom-split" data-atom="084" data-title="Whether the key is the power of binding and loosing, etc.?" data-chapter="Whether the key is the power of binding and loosing, etc.?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether the key is the power of binding and loosing, etc.?" data-chapter="Whether the key is the power of binding and loosing, etc.?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the key is not the power of binding and loosing, whereby "the
 ecclesiastical judge has to admit the worthy to the kingdom and exclude the unworthy" therefrom,
@@ -3759,7 +3759,7 @@ prayed that He may absolve, so that there may be room for the priest's absolutio
 Reply to Objection 5: The priest's act does not bear immediately on the kingdom, but on the
 sacraments, by means of which man wins to the kingdom.
 
-<span class="atom-split" data-atom="085" data-title="Whether there are two keys or only one?" data-chapter="Whether there are two keys or only one?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether there are two keys or only one?" data-chapter="Whether there are two keys or only one?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not two keys but only one. For one lock requires but
 one key. Now the lock for the removal of which the keys of the Church are required, is sin. Therefore
@@ -3842,7 +3842,7 @@ there is no need for the priest, who is the minister of the Trinity, to have thr
 more, since the will, which is appropriated to the Holy Ghost, requires no key, as stated above (ad
 4).
 
-<span class="atom-split" data-atom="086" data-title="OF THE EFFECT OF THE KEYS (FOUR ARTICLES) (1/2)" data-chapter="OF THE EFFECT OF THE KEYS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="OF THE EFFECT OF THE KEYS (FOUR ARTICLES) (1/2)" data-chapter="OF THE EFFECT OF THE KEYS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effect of the keys under which head there are four points of inquiry:
 (1) Whether the power of the keys extends to the remission of guilt?
@@ -3940,7 +3940,7 @@ the penitent to the remission of his guilt, from the fact that the guilt is alre
 neither is it unreasonable that Baptism, considered in itself, causes a disposition in one who is
 already sanctified.
 
-<span class="atom-split" data-atom="087" data-title="OF THE EFFECT OF THE KEYS (FOUR ARTICLES) (2/2)" data-chapter="OF THE EFFECT OF THE KEYS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="OF THE EFFECT OF THE KEYS (FOUR ARTICLES) (2/2)" data-chapter="OF THE EFFECT OF THE KEYS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Neither the [sacrament](/concepts/sacrament) of Penance, nor the sacrament of Baptism, by its
 operation, causes grace, or the remission of guilt, directly, but only dispositively [*St. Thomas here
@@ -3950,7 +3950,7 @@ is evident.
 The other arguments show that the power of the keys does not effect the remission of guilt
 directly, and this is to be granted.
 
-<span class="atom-split" data-atom="088" data-title="Whether a priest can remit sin as to the punishment?" data-chapter="Whether a priest can remit sin as to the punishment?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether a priest can remit sin as to the punishment?" data-chapter="Whether a priest can remit sin as to the punishment?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a priest cannot remit sin as to the punishment. For sin deserves
 eternal and temporal punishment. But after the priest's absolution the penitent is still obliged to
@@ -4044,7 +4044,7 @@ the whole punishment is remitted, as we have already stated (Q[5], A[2]). Conseq
 unreasonable, if by frequent confession even the whole punishment be remitted, that a sin remain
 altogether unpunished, since Christ made satisfaction for its punishment.
 
-<span class="atom-split" data-atom="089" data-title="Whether the priest can bind through the power of the keys?" data-chapter="Whether the priest can bind through the power of the keys?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether the priest can bind through the power of the keys?" data-chapter="Whether the priest can bind through the power of the keys?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the priest cannot bind by virtue of the power of the keys. For
 the sacramental power is ordained as a remedy against sin. Now binding is not a remedy for sin,
@@ -4087,7 +4087,7 @@ latter is enjoined by the priest, has been said in the article.
 Reply to Objection 3: Even the Passion of Christ binds us to some punishment whereby we
 are conformed to Him.
 
-<span class="atom-split" data-atom="090" data-title="Whether the priest can bind and loose according to his own judgment?" data-chapter="Whether the priest can bind and loose according to his own judgment?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether the priest can bind and loose according to his own judgment?" data-chapter="Whether the priest can bind and loose according to his own judgment?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the priest can bind and loose according to his own judgment. For
 Jerome [*Cf. Can. 86, Mensuram, De Poenit. Dist. i] says: "The canons do not fix the length of
@@ -4141,7 +4141,7 @@ Reply to Objection 3: Christ had the power of "excellence" in the sacraments, so
 own authority, He could remit the punishment wholly or in part, just as He chose. Therefore there
 is no comparison between Him and those who act merely as ministers.
 
-<span class="atom-split" data-atom="091" data-title="OF THE MINISTERS OF THE KEYS (SIX ARTICLES)" data-chapter="OF THE MINISTERS OF THE KEYS (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="OF THE MINISTERS OF THE KEYS (SIX ARTICLES)" data-chapter="OF THE MINISTERS OF THE KEYS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the ministers and the use of the keys: under which head there are six
 points of inquiry:
@@ -4153,7 +4153,7 @@ points of inquiry:
 (6) Whether those who are schismatics, heretics, excommunicate, suspended or degraded, have
 the use of the keys?
 
-<span class="atom-split" data-atom="092" data-title="Whether the priest of the Law had the keys?" data-chapter="Whether the priest of the Law had the keys?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether the priest of the Law had the keys?" data-chapter="Whether the priest of the Law had the keys?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the priests of the Law had the keys. For the possession of the
 keys results from having orders. But they had orders since they were called priests. Therefore the
@@ -4196,7 +4196,7 @@ Reply to Objection 3: They had no spiritual power, since, by the sacraments of t
 cleansed men not from their sins but from irregularities, so that those who were cleansed by them
 could enter into a tabernacle which was "made with hand."
 
-<span class="atom-split" data-atom="093" data-title="Whether Christ had the key?" data-chapter="Whether Christ had the key?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether Christ had the key?" data-chapter="Whether Christ had the key?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Christ did not have the key. For the key goes with the character
 of order. But Christ did not have a character. Therefore He had not the key.
@@ -4224,7 +4224,7 @@ conformed to Christ, whereas in Christ it results not from a character, but from
 Reply to Objection 2: The key, which Christ had was not sacramental, but the origin of the
 sacramental key.
 
-<span class="atom-split" data-atom="094" data-title="Whether priests alone have the keys?" data-chapter="Whether priests alone have the keys?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether priests alone have the keys?" data-chapter="Whether priests alone have the keys?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not only priests have the keys. For Isidore says (Etym. vii, 12)
 that the "doorkeepers have to tell the good from the bad, so as to admit the good and keep out the
@@ -4285,7 +4285,7 @@ woman. Consequently a woman has neither the key of order nor the key of jurisdic
 a certain use of the keys is allowed to women, such as the right to correct other women who are
 under them, on account of the danger that might threaten if men were to dwell under the same roof.
 
-<span class="atom-split" data-atom="095" data-title="Whether holy men who are not priests have the keys?" data-chapter="Whether holy men who are not priests have the keys?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether holy men who are not priests have the keys?" data-chapter="Whether holy men who are not priests have the keys?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that holy men, even those who are not priests, have the use of the
 keys. For loosing and binding, which are the effects of the keys, derive their efficacy from the merit
@@ -4329,7 +4329,7 @@ holy person in whom Christ dwells by His grace, in so far as he excels in goodne
 whom he blesses. The other blessing is when a man blesses, as applying a blessing instrumentally
 through the merit of Christ, and this requires excellence of order and not of virtue.
 
-<span class="atom-split" data-atom="096" data-title="Whether wicked priests have the use of the keys?" data-chapter="Whether wicked priests have the use of the keys?" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Whether wicked priests have the use of the keys?" data-chapter="Whether wicked priests have the use of the keys?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that wicked priests have not the use of the keys. For in the passage
 where the use of the keys is bestowed on the apostles (Jn. 20:22,23), the gift of the Holy Ghost is
@@ -4387,7 +4387,7 @@ Reply to Objection 4: The prayer which the wicked priest proffers on his own acc
 efficacious: but that which he makes as a minister of the Church, is efficacious through the merit
 of Christ. Yet in both ways the priest's prayer should profit those who are subject to him.
 
-<span class="atom-split" data-atom="097" data-title="Whether those who are schismatics, heretics, excommunicate, suspended or degraded have the use of the keys?" data-chapter="Whether those who are schismatics, heretics, excommunicate, suspended or degraded have the use of the keys?" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Whether those who are schismatics, heretics, excommunicate, suspended or degraded have the use of the keys?" data-chapter="Whether those who are schismatics, heretics, excommunicate, suspended or degraded have the use of the keys?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those who are schismatics, heretics, excommunicate, suspended
 or degraded have the use of the keys. For just as the power of the keys results from orders, so does
@@ -4440,7 +4440,7 @@ there are three points of inquiry:
 (2) Whether a priest can always absolve his subject?
 (3) Whether anyone can use the keys on his superior?
 
-<span class="atom-split" data-atom="098" data-title="Whether a priest can use the key which he has, on any man?" data-chapter="Whether a priest can use the key which he has, on any man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether a priest can use the key which he has, on any man?" data-chapter="Whether a priest can use the key which he has, on any man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a priest can use the key which he has, on any man. For the
 power of the keys was bestowed on priests by Divine authority in the words: "Receive ye the Holy
@@ -4498,7 +4498,7 @@ Reply to Objection 3: The people of Israel were one people, and had but one temp
 there was no need for a distinction in priestly jurisdiction, as there is now in the Church which
 comprises various peoples and nations.
 
-<span class="atom-split" data-atom="099" data-title="Whether a priest can always absolve his subject?" data-chapter="Whether a priest can always absolve his subject?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether a priest can always absolve his subject?" data-chapter="Whether a priest can always absolve his subject?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a priest cannot always absolve his subject. For, as [Augustine](/figures/augustine)
 says (De vera et false Poenitentia [*Work of an unknown author]), "no man should exercise the
@@ -4554,7 +4554,7 @@ from sin, for as long as a man is excommunicated, he cannot receive any sacramen
 Reply to Objection 3: This objection considers those cases in which superiors reserve the
 power of jurisdiction to themselves.
 
-<span class="atom-split" data-atom="100" data-title="Whether a man can use the keys with regard to his superior?" data-chapter="Whether a man can use the keys with regard to his superior?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether a man can use the keys with regard to his superior?" data-chapter="Whether a man can use the keys with regard to his superior?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man cannot use the keys in respect of a superior. For every
 sacramental act requires its proper matter. Now the proper matter for the use of the keys, is a person
@@ -4611,7 +4611,7 @@ Under the first head there are four points of inquiry:
 (3) Whether anyone should be excommunicated for inflicting temporal harm?
 (4) Whether an excommunication unjustly pronounced has any effect?
 
-<span class="atom-split" data-atom="101" data-title="Whether excommunication is suitably defined as separation from the communion of the Church, etc?" data-chapter="Whether excommunication is suitably defined as separation from the communion of the Church, etc?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether excommunication is suitably defined as separation from the communion of the Church, etc?" data-chapter="Whether excommunication is suitably defined as separation from the communion of the Church, etc?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that excommunication is unsuitably defined by some thus:
 "Excommunication is separation from the communion of the Church, as to fruit and general
@@ -4682,7 +4682,7 @@ Reply to Objection 4: The minor excommunication does not fulfill all the conditi
 excommunication but only a part of them, hence the definition of excommunication need not apply
 to it in every respect, but only in some.
 
-<span class="atom-split" data-atom="102" data-title="Whether the Church should excommunicate anyone?" data-chapter="Whether the Church should excommunicate anyone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="Whether the Church should excommunicate anyone?" data-chapter="Whether the Church should excommunicate anyone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Church ought not to excommunicate anyone, because
 excommunication is a kind of curse, and we are forbidden to curse (Rom. 12:14). Therefore the
@@ -4740,7 +4740,7 @@ his body by the devil. Nor is it unreasonable that one, for whom there is still 
 to the enemy, for he is surrendered, not unto damnation, but unto correction, since the Church has
 the power to rescue him from the hands of the enemy, whenever he is willing.
 
-<span class="atom-split" data-atom="103" data-title="Whether anyone should be excommunicated for inflicting temporal harm?" data-chapter="Whether anyone should be excommunicated for inflicting temporal harm?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether anyone should be excommunicated for inflicting temporal harm?" data-chapter="Whether anyone should be excommunicated for inflicting temporal harm?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no man should be excommunicated for inflicting a temporal
 harm. For the punishment should not exceed the fault. But the punishment of excommunication is
@@ -4777,7 +4777,7 @@ excommunication exceeds the harm done, it does not exceed the measure of the sin
 Reply to Objection 2: When a man is corrected by being punished, evil is not rendered to him,
 but good: since punishments are remedies, as stated above.
 
-<span class="atom-split" data-atom="104" data-title="Whether an excommunication unjustly pronounced has any effect?" data-chapter="Whether an excommunication unjustly pronounced has any effect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether an excommunication unjustly pronounced has any effect?" data-chapter="Whether an excommunication unjustly pronounced has any effect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an excommunication which is pronounced unjustly has no
 effect at all. Because excommunication deprives a man of the protection and grace of God, which
@@ -4825,7 +4825,7 @@ there are six points of inquiry:
 (5) Whether a multitude can be excommunicated?
 (6) Whether one who is already excommunicated can be excommunicated again?
 
-<span class="atom-split" data-atom="105" data-title="Whether every priest can excommunicate?" data-chapter="Whether every priest can excommunicate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether every priest can excommunicate?" data-chapter="Whether every priest can excommunicate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every priest can excommunicate. For excommunication is an
 act of the keys. But every priest has the keys. Therefore every priest can excommunicate.
@@ -4865,7 +4865,7 @@ Hence they cannot excommunicate, but they can absolve them in the tribunal of Pe
 though the tribunal of Penance is higher, yet more solemnity is requisite in the judicial tribunal,
 because therein it is necessary to make satisfaction not only to God but also to man.
 
-<span class="atom-split" data-atom="106" data-title="Whether those who are not priests can excommunicate?" data-chapter="Whether those who are not priests can excommunicate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Whether those who are not priests can excommunicate?" data-chapter="Whether those who are not priests can excommunicate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those who are not priests cannot excommunicate. Because
 excommunication is an act of the keys, as stated in Sent. iv, D, 18. But those who are not priests
@@ -4890,7 +4890,7 @@ Reply to Objection 2: These two are related to one another as something exceedin
 something exceeded [*Cf. A[1], a[2]; Q[24], A[1], ad 1], and consequently one of them may be
 within the competency of someone while the other is not.
 
-<span class="atom-split" data-atom="107" data-title="Whether a man who is excommunicated or suspended can excommunicate another?" data-chapter="Whether a man who is excommunicated or suspended can excommunicate another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether a man who is excommunicated or suspended can excommunicate another?" data-chapter="Whether a man who is excommunicated or suspended can excommunicate another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one who is excommunicated or suspended can excommunicate
 another. For such a one has lost neither orders nor jurisdiction, since neither is he ordained anew
@@ -4922,7 +4922,7 @@ is indelible, wherefore, from the very fact that a man has the character of orde
 consecrate, though not always lawfully. It is different with the power of excommunication which
 results from jurisdiction, for this can be taken away and bound.
 
-<span class="atom-split" data-atom="108" data-title="Whether a man can excommunicate himself, his equal, or his superior?" data-chapter="Whether a man can excommunicate himself, his equal, or his superior?" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Whether a man can excommunicate himself, his equal, or his superior?" data-chapter="Whether a man can excommunicate himself, his equal, or his superior?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man can excommunicate himself, his equal, or his superior.
 For an angel of God was greater than Paul, according to Mat. 11:11: "He that is lesser in the kingdom
@@ -4963,7 +4963,7 @@ his equal, unless the power to do so be committed to him. This does not apply to
 they can be remitted through any sacraments which confer grace, hence remission of venial sins
 follows the power of orders.
 
-<span class="atom-split" data-atom="109" data-title="Whether a sentence of excommunication can be passed on a body of men?" data-chapter="Whether a sentence of excommunication can be passed on a body of men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Whether a sentence of excommunication can be passed on a body of men?" data-chapter="Whether a sentence of excommunication can be passed on a body of men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sentence of excommunication can be passed on a body of men.
 Because it is possible for a number of people to be united together in wickedness. Now when a
@@ -4994,7 +4994,7 @@ are. Wherefore a man can be suspended without having committed a sin himself, ju
 kingdom is laid under an interdict on account of the king's crime. Hence there is no comparison
 between excommunication and suspension.
 
-<span class="atom-split" data-atom="110" data-title="Whether a man can be excommunicated who is already under sentence of excommunication?" data-chapter="Whether a man can be excommunicated who is already under sentence of excommunication?" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="Whether a man can be excommunicated who is already under sentence of excommunication?" data-chapter="Whether a man can be excommunicated who is already under sentence of excommunication?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man who is already under sentence of excommunication
 cannot be excommunicated any further. For the Apostle says (1 Cor. 5:12): "What have I to do to
@@ -5025,7 +5025,7 @@ regards its cause. In this way an excommunication can be repeated, and a man who
 excommunicated several times is further from the Church's prayers than one who has been
 excommunicated only once.
 
-<span class="atom-split" data-atom="111" data-title="OF COMMUNICATION WITH EXCOMMUNICATED PERSONS (THREE ARTICLES)" data-chapter="OF COMMUNICATION WITH EXCOMMUNICATED PERSONS (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="OF COMMUNICATION WITH EXCOMMUNICATED PERSONS (THREE ARTICLES)" data-chapter="OF COMMUNICATION WITH EXCOMMUNICATED PERSONS (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider communication with those who are excommunicated. Under this head
 there are three points of inquiry:
@@ -5035,7 +5035,7 @@ excommunicated?
 (3) Whether it is always a mortal sin to communicate with an excommunicated person in matters
 not permitted by law?
 
-<span class="atom-split" data-atom="112" data-title="Whether it is lawful, in matters purely corporal, to communicate with an excommunicated person?" data-chapter="Whether it is lawful, in matters purely corporal, to communicate with an excommunicated person?" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="Whether it is lawful, in matters purely corporal, to communicate with an excommunicated person?" data-chapter="Whether it is lawful, in matters purely corporal, to communicate with an excommunicated person?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is lawful, in matters purely corporal, to communicate with
 an excommunicated person. For excommunication is an act of the keys. But the power of the keys
@@ -5082,7 +5082,7 @@ art which considers the end commands in matters ordained to the end.
 Reply to Objection 2: In a case where one is bound by the precept of charity to hold
 communication, the prohibition ceases, as is clear from what has been said.
 
-<span class="atom-split" data-atom="113" data-title="Whether a person incurs excommunication for communicating with one who is excommunicated?" data-chapter="Whether a person incurs excommunication for communicating with one who is excommunicated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="Whether a person incurs excommunication for communicating with one who is excommunicated?" data-chapter="Whether a person incurs excommunication for communicating with one who is excommunicated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a person does not incur excommunication for communicating
 with one who is excommunicated. For a heathen or a Jew is more separated from the Church than
@@ -5115,7 +5115,7 @@ exercises a certain power.
 Reply to Objection 2: It is lawful to hold communion with one who has incurred a minor
 excommunication, so that excommunication does not pass on to a third person.
 
-<span class="atom-split" data-atom="114" data-title="Whether it is always a mortal sin to communicate with an excommunicated person in other cases than those in which it is allowed?" data-chapter="Whether it is always a mortal sin to communicate with an excommunicated person in other cases than those in which it is allowed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="Whether it is always a mortal sin to communicate with an excommunicated person in other cases than those in which it is allowed?" data-chapter="Whether it is always a mortal sin to communicate with an excommunicated person in other cases than those in which it is allowed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is always a mortal sin to hold communion with an
 excommunicated person in other cases than those in which it is allowed. Because a certain decretal
@@ -5175,7 +5175,7 @@ Reply to Objection 4: Although it is a venial sin to hold communion with one who
 excommunicated, yet to do so obstinately is a mortal sin: and for this reason one may be
 excommunicated according to the law.
 
-<span class="atom-split" data-atom="115" data-title="OF ABSOLUTION FROM EXCOMMUNICATION (THREE ARTICLES)" data-chapter="OF ABSOLUTION FROM EXCOMMUNICATION (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="OF ABSOLUTION FROM EXCOMMUNICATION (THREE ARTICLES)" data-chapter="OF ABSOLUTION FROM EXCOMMUNICATION (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider absolution from excommunication: under which head there are three
 points of inquiry:
@@ -5184,7 +5184,7 @@ points of inquiry:
 (3) Whether a man can be absolved from one excommunication without being absolved from
 another?
 
-<span class="atom-split" data-atom="116" data-title="Whether any priest can absolve his subject from excommunication?" data-chapter="Whether any priest can absolve his subject from excommunication?" data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Whether any priest can absolve his subject from excommunication?" data-chapter="Whether any priest can absolve his subject from excommunication?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that any priest can absolve his subject from excommunication. For
 the chains of sin are stronger than those of excommunication. But any priest can absolve his subject
@@ -5239,7 +5239,7 @@ Reply to Objection 2: As an excommunicated person has no share in the sacraments
 Church, a priest cannot absolve him from his guilt, unless he be first absolved from
 excommunication.
 
-<span class="atom-split" data-atom="117" data-title="Whether anyone can be absolved against his will?" data-chapter="Whether anyone can be absolved against his will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Whether anyone can be absolved against his will?" data-chapter="Whether anyone can be absolved against his will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no man can be absolved against his will. For spiritual things
 are not conferred on anyone against his will. Now absolution from excommunication is a spiritual
@@ -5268,7 +5268,7 @@ Reply to Objection 2: It is possible for excommunication to be removed from a ma
 though he be contumacious, if it seem to be for the good of the man for whom the excommunication
 was intended as a medicine.
 
-<span class="atom-split" data-atom="118" data-title="Whether a man can be absolved from one excommunication without being absolved from all?" data-chapter="Whether a man can be absolved from one excommunication without being absolved from all?" data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Whether a man can be absolved from one excommunication without being absolved from all?" data-chapter="Whether a man can be absolved from one excommunication without being absolved from all?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man cannot be absolved from one excommunication without
 being absolved from all. For an effect should be proportionate to its cause. Now the cause of
@@ -5301,7 +5301,7 @@ hindered by contrariety of the will, as stated above (A[2]). Hence the argument 
 Reply to Objection 2: Just as such a man was for several reasons outside the Church so is it
 possible for his separation to be removed on one count and to remain on another.
 
-<span class="atom-split" data-atom="119" data-title="OF INDULGENCES (THREE ARTICLES)" data-chapter="OF INDULGENCES (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="OF INDULGENCES (THREE ARTICLES)" data-chapter="OF INDULGENCES (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider indulgence: (1) in itself; (2) those who grant indulgence; (3) those who
 receive it.
@@ -5310,7 +5310,7 @@ Under the first head there are three points of inquiry:
 (2) Whether indulgences are as effective as they claim to be?
 (3) Whether an indulgence should be granted for temporal assistance?
 
-<span class="atom-split" data-atom="120" data-title="Whether an indulgence can remit any part of the punishment due for the satisfaction of sins?" data-chapter="Whether an indulgence can remit any part of the punishment due for the satisfaction of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="Whether an indulgence can remit any part of the punishment due for the satisfaction of sins?" data-chapter="Whether an indulgence can remit any part of the punishment due for the satisfaction of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an indulgence cannot remit any part of the punishment due
 for the satisfaction of sins. Because a gloss on 2 Tim. 2:13, "He cannot deny Himself," says: "He
@@ -5394,7 +5394,7 @@ not, on this account, to omit the penitential works imposed on them, so that the
 remedy from these also, even though they may be quit of the debt of punishment; and all the more,
 seeing that they are often more in debt than they think.
 
-<span class="atom-split" data-atom="121" data-title="Whether indulgences are as effective as they claim to be? (1/2)" data-chapter="Whether indulgences are as effective as they claim to be?" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Whether indulgences are as effective as they claim to be? (1/2)" data-chapter="Whether indulgences are as effective as they claim to be?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that indulgences are not as effective as they claim to be. For
 indulgences have no effect save from the power of the keys. Now by the power of the keys, he who
@@ -5485,7 +5485,7 @@ view have we "too great a market of the Divine mercy" [*St. Bonaventure, Sent. i
 maintain, nor again does it derogate from Divine justice, for no punishment is remitted, but the
 punishment of one is imputed to another.
 
-<span class="atom-split" data-atom="122" data-title="Whether indulgences are as effective as they claim to be? (2/2)" data-chapter="Whether indulgences are as effective as they claim to be?" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="Whether indulgences are as effective as they claim to be? (2/2)" data-chapter="Whether indulgences are as effective as they claim to be?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: As stated above (Q[19], A[3]) there are two keys, the key of orders and
 the key of jurisdiction. The key of orders is a sacramental: and as the effects of the sacraments are
@@ -5534,7 +5534,7 @@ have charity: secondly, by the intention of the person who does the good action;
 provided there be a lawful cause, the intention of a person who has done something for the profit
 of the Church, may reach to some individual through indulgences.
 
-<span class="atom-split" data-atom="123" data-title="Whether an indulgence ought to be granted for temporal help?" data-chapter="Whether an indulgence ought to be granted for temporal help?" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Whether an indulgence ought to be granted for temporal help?" data-chapter="Whether an indulgence ought to be granted for temporal help?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an indulgence ought not to be granted for temporal help.
 Because the remission of sins is something spiritual. Now to exchange a spiritual for a temporal
@@ -5561,7 +5561,7 @@ matters. Thus Pope Innocent IV granted an indulgence of ten days to all who pray
 of France; and in like manner sometimes the same indulgence is granted to those who preach a
 crusade as to those who take part in it.
 
-<span class="atom-split" data-atom="124" data-title="OF THOSE WHO CAN GRANT INDULGENCES (FOUR ARTICLES)" data-chapter="OF THOSE WHO CAN GRANT INDULGENCES (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="OF THOSE WHO CAN GRANT INDULGENCES (FOUR ARTICLES)" data-chapter="OF THOSE WHO CAN GRANT INDULGENCES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider those who can grant indulgences: under which head there are four points
 of inquiry:
@@ -5570,7 +5570,7 @@ of inquiry:
 (3) Whether a bishop can grant them?
 (4) Whether they can be granted by one who is in mortal sin?
 
-<span class="atom-split" data-atom="125" data-title="Whether every parish priest can grant indulgences?" data-chapter="Whether every parish priest can grant indulgences?" data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="Whether every parish priest can grant indulgences?" data-chapter="Whether every parish priest can grant indulgences?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every parish priest can grant indulgences. For an indulgence
 derives its efficacy from the superabundance of the Church's merits. Now there is no congregation
@@ -5625,7 +5625,7 @@ and for this reason they do not dispense all the sacraments. Hence parish priest
 like prelates cannot grant indulgences.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="126" data-title="Whether a deacon or another who is not a priest can grant an indulgence?" data-chapter="Whether a deacon or another who is not a priest can grant an indulgence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="Whether a deacon or another who is not a priest can grant an indulgence?" data-chapter="Whether a deacon or another who is not a priest can grant an indulgence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a deacon, or one that is not a priest cannot grant an indulgence.
 Because remission of sins is an effect of the keys. Now none but a priest has the keys. Therefore
@@ -5647,7 +5647,7 @@ indulgences, although they cannot absolve in the tribunal of Penance, since this
 of orders. This suffices for the Replies to the Objections, because the granting of indulgences
 belongs to the key of jurisdiction and not to the key of orders.
 
-<span class="atom-split" data-atom="127" data-title="Whether a bishop can grant indulgences?" data-chapter="Whether a bishop can grant indulgences?" data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="Whether a bishop can grant indulgences?" data-chapter="Whether a bishop can grant indulgences?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that even a bishop cannot grant indulgences. Because the treasury
 of the Church is the common property of the whole Church. Now the common property of the
@@ -5669,7 +5669,7 @@ grant them, as he lists, provided the cause be a lawful one: while, in bishops, 
 subject to the Pope's ordination, so that they can grant them within fixed limits and not beyond.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="128" data-title="Whether indulgences can be granted by one who is in mortal sin?" data-chapter="Whether indulgences can be granted by one who is in mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Whether indulgences can be granted by one who is in mortal sin?" data-chapter="Whether indulgences can be granted by one who is in mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that indulgences cannot be granted by one who is in mortal sin.
 For a stream can no longer flow if cut off from its source. Now the source of grace which is the
@@ -5696,7 +5696,7 @@ from the source, in order that he may grant a valid indulgence.
 Reply to Objection 2: Further, to grant an indulgence is more than to receive one, if we consider
 the power, but it is less, if we consider the personal profit.
 
-<span class="atom-split" data-atom="129" data-title="OF THOSE WHOM INDULGENCES AVAIL (FOUR ARTICLES)" data-chapter="OF THOSE WHOM INDULGENCES AVAIL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="OF THOSE WHOM INDULGENCES AVAIL (FOUR ARTICLES)" data-chapter="OF THOSE WHOM INDULGENCES AVAIL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider those whom indulgences avail: under which head there are four points
 of inquiry:
@@ -5706,7 +5706,7 @@ of inquiry:
 given?
 (4) Whether they avail him who grants them?
 
-<span class="atom-split" data-atom="130" data-title="Whether an indulgence avails those who are in mortal sin?" data-chapter="Whether an indulgence avails those who are in mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="Whether an indulgence avails those who are in mortal sin?" data-chapter="Whether an indulgence avails those who are in mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an indulgence avails those who are in mortal sin. For one
 person can merit grace and many other good things for another, even though he be in mortal sin.
@@ -5739,7 +5739,7 @@ This suffices for the Reply to the First Objection.
 Reply to Objection 2: Although he who is in mortal sin is in greater need of help, yet he is
 less capable of receiving it.
 
-<span class="atom-split" data-atom="131" data-title="Whether indulgences avail religious?" data-chapter="Whether indulgences avail religious?" data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="Whether indulgences avail religious?" data-chapter="Whether indulgences avail religious?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that indulgences do not avail religious. For there is no reason to
 bring supplies to those who supply others out of their own abundance. Now indulgences are derived
@@ -5771,7 +5771,7 @@ they merit less. Nor again do indulgences remit the punishment enjoined in chapt
 chapter is a judicial rather than a penitential tribunal. hence even those who are not priests hold
 chapter. Absolution from punishment enjoined or due for sin is given in the tribunal of Penance.
 
-<span class="atom-split" data-atom="132" data-title="Whether an indulgence can ever be granted to one who does not fulfill the conditions required?" data-chapter="Whether an indulgence can ever be granted to one who does not fulfill the conditions required?" data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="Whether an indulgence can ever be granted to one who does not fulfill the conditions required?" data-chapter="Whether an indulgence can ever be granted to one who does not fulfill the conditions required?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an indulgence can sometimes be granted to one who does not
 fulfill the required conditions. Because when a person is unable to perform a certain action his will
@@ -5803,7 +5803,7 @@ whomsoever this is done, shall gain so much indulgence," it would avail the pers
 done. Nor would the person who does this action, give the indulgence to another, but he who grants
 the indulgence in this form.
 
-<span class="atom-split" data-atom="133" data-title="Whether an indulgence avails the person who grants it?" data-chapter="Whether an indulgence avails the person who grants it?" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Whether an indulgence avails the person who grants it?" data-chapter="Whether an indulgence avails the person who grants it?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an indulgence does not avail him who grants it. For the granting
 of an indulgence belongs to jurisdiction. Now no one can exercise jurisdiction on himself. thus no
@@ -5841,7 +5841,7 @@ can pronounce on himself, for the reason that in the tribunal of justice the sam
 judge and accused. On the other hand an indulgence is not given under the form of a sentence, but
 by way of dispensation, which a man can apply to himself.
 
-<span class="atom-split" data-atom="134" data-title="OF THE SOLEMN RITE OF PENANCE (THREE ARTICLES)" data-chapter="OF THE SOLEMN RITE OF PENANCE (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="OF THE SOLEMN RITE OF PENANCE (THREE ARTICLES)" data-chapter="OF THE SOLEMN RITE OF PENANCE (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the solemn rite of Penance: under which head there are three points of
 inquiry:
@@ -5849,7 +5849,7 @@ inquiry:
 (2) Whether a solemn penance can be repeated?
 (3) Whether public penance should be imposed on women?
 
-<span class="atom-split" data-atom="135" data-title="Whether a penance should be published or solemnized?" data-chapter="Whether a penance should be published or solemnized?" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="Whether a penance should be published or solemnized?" data-chapter="Whether a penance should be published or solemnized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a penance should not be published or solemnized. Because it
 is not lawful for a priest, even through fear, to divulge anyone's sin, however notorious it may be.
@@ -5899,7 +5899,7 @@ orders. First, on account of the dignity of the latter; secondly, for fear of re
 to avoid the scandal which the people might take through recollection of his former sins; fourthly,
 because he would not have the face to correct others, by reason of the publicity of his own sin.
 
-<span class="atom-split" data-atom="136" data-title="Whether a solemn penance can be repeated?" data-chapter="Whether a solemn penance can be repeated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="Whether a solemn penance can be repeated?" data-chapter="Whether a solemn penance can be repeated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a solemn penance can be repeated. For those sacraments which
 do not imprint a character, can be solemnized a second time, such as the Eucharist, Extreme Unction
@@ -5925,7 +5925,7 @@ is not inconsistent with solemnity, as it is in the present case. Hence the comp
 Reply to Objection 2: Although, if we consider his crime, he ought to do the same penance
 again, yet the repeated solemnization is not becoming, for the reasons stated above.
 
-<span class="atom-split" data-atom="137" data-title="Whether solemn penance should be imposed on women and clerics, and whether any priest can impose it?" data-chapter="Whether solemn penance should be imposed on women and clerics, and whether any priest can impose it?" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="Whether solemn penance should be imposed on women and clerics, and whether any priest can impose it?" data-chapter="Whether solemn penance should be imposed on women and clerics, and whether any priest can impose it?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that solemn penance should not be imposed on women. Because,
 when this penance is imposed on a man, he has to cut his hair off. But this becomes not a woman,

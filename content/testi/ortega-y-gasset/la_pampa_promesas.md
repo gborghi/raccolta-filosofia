@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_pampa_promesas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La Pampa… promesas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La Pampa… promesas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hay en mi obra bastantes estudios de paisaje. He sentido los campos apasionadamente, he vivido absorto ante ellos, sumido en su textura de gran tapiz botánico y telúrico; he amado, he sufrido en ellos. A la verdad, sólo se ven bien los paisajes cuando han sido fondo y escenario para el dramatismo de nuestro corazón. Conforme avanza éste por la vida lleva consigo a la rastra todo el repertorio de sus antiguos paisajes esenciales como un empresario de teatro viaja con sus decoraciones y bastidores.
 
@@ -42,7 +42,7 @@ De este modo, la vista, sin llegar a fijarse en nada, es despedida hasta los con
 
 En el confín, la Pampa entreabre su cuerpo y sus venas para que toda la inverosimilitud adscrita a lo aéreo y celestial sea absorbida por la tierra geométrica, abstracta y como vacía, del primer término. El paisaje bebe allí cielo, se abreva y embriaga de irrealidad, y por eso el horizonte pampero vacila como borracho, flota, ondula, vibra como los bordes de una bandera al viento, y no está fijo en la tierra, no radica en una localización rígida, a tantos kilómetros o a cuantos.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Esos boscajes de la lejanía pueden ser todo: ciudades, castillos de placer, sotos, islas a la deriva —son [materia](/positions/materialism) blanda seducida por toda posible forma, son metáfora universal. Son la constante y omnímoda promesa. El hombre está en su primer término —pero vive con los ojos puestos en el horizonte. Allí se le cargan de la embriaguez que hay allí —y entonces los retrae hacia su inmediato contorno. La Pampa se mira comenzando por su fin, por su órgano de promesas, vago oleaje de imaginación donde la inverosimilitud forma su espumosa rompiente que el primer término, tiritando de su propia miseria, de no ser sino atroz y vacía realidad, afanoso absorbe.
 
@@ -74,7 +74,7 @@ Me atrevería a sostener que la manera de colaborar un extraño en el conocimien
 
 Pero aun como viajero yo hablo ahora por vez primera sobre estos modos criollos de la humanidad con especial temor. Pues es la verdad que casi ni viajero he sido. Y aun elevo esto a una potencia superlativa. ¿Es posible, prácticamente posible, ser viajero en la Argentina? ¿Se ha caído en la cuenta de que en ese país, donde hay posibilidad abierta para las clases más diversas de hombres, el único prácticamente imposible es, tal vez, el viajero?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Viajar no es ir a la Argentina como emigrante, ni para concluir un negocio, ni a dar unas conferencias. Todo esto es ir a hacer y a pasar, no es ir a ver y a estar. A mi juicio, esto último es la esencia del viaje. Justamente las dos cosas —ver y estar— que no es fácil o que es imposible practicar en nuestra patria, a la cual nos hallamos demasiado adheridos para lograr la distancia que requiere la visión, y donde los asuntos privados y públicos, el tráfago activo en que desde siempre nos hallamos insertos, nos impiden vivir estáticamente, en actitud receptiva y quieta. La celeridad de los medios de tránsito hace olvidar que lo propio del viaje no es la movilización y el correr tierras, sino la demora que en cada una se hace. Como pasa siempre al llevar una cosa hasta su forma extrema, se la anula. Cook ha acabado con el verdadero viaje, y el turismo lo ha vaciado, quedándose sólo con el pellejo, conservando de tan jugosa aventura externa e íntima como es el viajar su porción abstracta y material: el paso ante las cosas.
 

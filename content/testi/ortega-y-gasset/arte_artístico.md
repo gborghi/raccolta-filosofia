@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/arte_artístico" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Arte artístico" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Arte artístico" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Si el arte nuevo no es inteligible para todo el mundo, quiere decirse que sus resortes no son los genéricamente humanos. No es un arte para los hombres en general, sino para una clase muy particular de hombres que podrán no valer más que los otros, pero que evidentemente son distintos.
 
@@ -42,7 +42,7 @@ No discutamos ahora si es posible un arte puro. Tal vez no lo sea; pero las razo
 
 He aquí por qué el arte nuevo divide al público en dos clases de individuos: los que lo entienden y los que no lo entienden; esto es, los artistas y los que no lo son. El arte nuevo es un arte artístico.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Yo no pretendo ahora ensalzar esta manera nueva de arte, y menos denigrar la usada en el último siglo. Me limito a filiarlas, como hace el zoólogo con dos faunas antagónicas. El arte nuevo es un hecho universal. Desde hace veinte años, los jóvenes más alerta de dos generaciones sucesivas —en París, en Berlín, en Londres, Nueva York, Roma, Madrid— se han encontrado sorprendidos por el hecho ineluctable de que el arte tradicional no les interesaba; más aún, les repugnaba. Con estos jóvenes cabe hacer una de dos cosas: o fusilarlos o esforzarse en comprenderlos. Yo he optado resueltamente por esta segunda operación. Y pronto he advertido que germina en ellos un nuevo sentido del arte, perfectamente claro, coherente y racional. Lejos de ser un capricho, significa su sentir el resultado inevitable y fecundo de toda la evolución artística anterior. Lo caprichoso, lo arbitrario y, en consecuencia, estéril, es resistirse a este nuevo estilo y obstinarse en la reclusión dentro de formas ya arcaicas, exhaustas y periclitadas. En arte, como en moral, no depende el deber de nuestro arbitrio; hay que aceptar el imperativo de trabajo que la época nos impone. Esta docilidad a la orden del tiempo es la única probabilidad de acertar que el individuo tiene. Aun así, tal vez no consiga nada; pero es mucho más seguro su fracaso si se obstina en componer una ópera wagneriana más o una novela naturalista.
 

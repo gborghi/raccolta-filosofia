@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_los_que_no_quieren_un_nuevo_estado" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para los que no quieren un nuevo Estado" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Para los que no quieren un nuevo Estado" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Se encuentra, pues, la vida de nuestra nación ante una peripecia de máximo calibre, y ahora se va a ver si los españoles son capaces, en serio, de hacer historia, si tienen magnanimidad. Porque con almas pequeñas no se hace historia; se hace, a lo sumo, «aldea». Es preciso que todos, cualesquiera sean nuestra doctrina y nuestro amor, intentemos ensanchar nuestras almas en las tres dimensiones de la reflexión mesurada, de la energía y del entusiasmo por los destinos de España.
 

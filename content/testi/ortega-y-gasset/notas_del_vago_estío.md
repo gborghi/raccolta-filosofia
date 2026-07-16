@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/notas_del_vago_estío" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Notas del vago estío" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Notas del vago estío" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

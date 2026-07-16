@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_conservación_de_la_cultura" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La conservación de la cultura" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La conservación de la cultura" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor Maura y Gamazo me invita galantemente a una polémica. No me faltan fe ni amor hacia este procedimiento dual de exponer un asunto. La polémica es, después de todo, la forma única de la labor intelectual: la república de gérmenes racionales que constituye nuestra alma no es más que un fermento peculiar de lo que ya hay en otras almas. El contenido de nuestro cerebro se organiza en la lucha con los idearios ajenos. La historia de las ciencias es íntegramente la relación de las polémicas entre grandes pensadores. Y es este valor de la polémica, como hogar ardiente donde se va forjando el acero de humanidad, tan hondo, tan decisivo, que las obras clásicas de la filosofía sólo tienen una interpretación plausible cuando se las coloca en la perspectiva polémica en que fueron escritas. Las audaces deducciones de la Crítica de la razón pura, que son los últimos fundamentos del mundo contemporáneo y serán eternamente verdaderas, no adquirieron, sin embargo, un sentido estricto mientras no se intentó explicarlas como una polémica contra un enemigo de dos frentes: Leibniz y Hume. La creación, en fin, el hecho más ilustre que se conoce, no es fácilmente inteligible si no se le considera como resultado de una divina polémica anterior a los tiempos, entre el principio del bien y algún otro principio oscuro de avieso y contradictorio natural. Dondequiera que la germinación de ideas fue activa y enérgica, viviose en perpetua polémica, llegando en ocasiones de incomparable exquisitez cultural a verificarse ésta dentro de un solo espíritu, tan rico que no necesitaba de ir a buscar fuera motivos antagónicos. Así el deleitoso Renan gustaba dejar que disputaran entre sí los lóbulos de su cerebro.
 
@@ -44,7 +44,7 @@ Hay una Libertad, con mayúscula, venía yo a decir, una libertad genérica, la 
 
 Por esto me ha parecido peregrino que el señor Maura diga: «¿Qué es ideal moral? ¿Quién lo define? La mayoría, sin duda». Lamento una vez más el prurito parlamentario de este hombre joven e inteligente, que quiere hacer pasar todas las tragedias metafísicas de la Historia universal por el estrecho cauce del Diario de Sesiones. ¿Pues no llega a preferir los nombres de izquierdas y derechas, que tienen en el idioma un origen periférico, contingente, debido a un capricho semántico, a los de liberales y conservadores, palabras perfectas, que siguen fieles a la significación de su raíz?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Qué es eso de que la mayoría define el ideal moral? Si hubiera el señor Maura contestado a su propia pregunta primera, habría advertido que ideal moral no es más que ley moral y ley es el resultado de la ciencia. El ideal moral es, pues, definido por la ciencia moral. La intervención de la mayoría, sea parlamentaria, sea popular, en esa definición, téngola por funesta y no poco absurda.
 
@@ -72,7 +72,7 @@ De aquí parte mi convicción de que España no tendrá vida íntima, no será c
 
 El estigma de nuestra historia ha sido la carencia de preocupaciones universales. Hemos realizado hechos universalmente conocidos, pero no hemos cumplido acciones de fecundidad universal. No hemos iniciado reformas, ni renacimientos ni revoluciones. Hemos sido más españoles que hombres. Y es preciso que al cabo deje de colgar España, en el mapa moral del mismo modo que en el geográfico, como una piltrafa de Europa. Si con este sobrepatriotismo puedo ser llamado patriota, lo soy.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Hay algún partido político que traiga a la raza española esas emociones universales, cosmopolitas? No, ciertamente. Para mí, en consecuencia, todos los partidos actuales son conservadores. Si, como indica el señor Maura, su partido se contenta con ir componiendo reglamentos que presten yo no sé qué burocrática realidad a lo que por definición es irreal: la cultura, el progreso, el ánimo libre, la historia universal se olvidará de él en sus índices. Y sólo le quedará una historia a que recurrir: la historia natural, donde se estudia al hombre en sus instintos y se clasifican las degeneraciones físicas de las razas.
 

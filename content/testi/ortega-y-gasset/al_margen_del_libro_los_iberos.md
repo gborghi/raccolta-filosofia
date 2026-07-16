@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/al_margen_del_libro_los_iberos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Al margen del libro Los iberos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Al margen del libro Los iberos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Qué otra cosa podemos hacer en este ambiente tórrido que oprime a Madrid durante la canícula sino ir por las tardes a contemplar desde el paseo de Rosales la cenefa roja que pone el sol decadente sobre la silueta del Guadarrama? Esta belleza madrileña es de todas la más pura y la más firme: no puede el Ayuntamiento ejercitar sobre ella su solicitud.
 
@@ -54,7 +54,7 @@ Mas la etnografía no se vale sólo, para clasificar las razas históricas, de l
 
 Todo esto es horroroso: dentro de la máxima probabilidad histórica las razas africanas no pueden sino decaer; cada día menguará su energía social; las virtudes públicas serán más raras y el alma de cada individuo perderá un grado más de intensidad humana, hasta apagarse, como una bujía, hasta sumirse en la modorra de la fisiología animal.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 De tal amargura metafísica se propone aliviarnos este libro del señor Philipon. Sostiénese en él una tesis nueva, sumamente osada, pero que nos sería muy favorable. Sabíamos que acá por el siglo VII antes de Jesucristo, dos grandes pueblos se repartían la posesión de España: al Sur y Sudoeste, los Libio-Tartesios, en el resto, los iberos. Otros nombres sonaban de razas menos poderosas: los kempses, sefes, ártabros, cántabros, etc. Pues bien, según Philipon los Libio-Tartesios son hombres del Asia, que corriéndose sobre el Norte de África, llegaron a las columnas de Hércules y entraron en nuestra tierra por Gibraltar, fundando a Calpe. Los kempses, sefes, ártabros y cántabros, tienen el mismo origen. Toda esta avalancha indoeuropea desalojó, más aún, desarraigó de España un pueblo ignoto originario, que huyendo y feneciendo acabó por reducirse al golfo cantábrico; este pueblo, desdeñable según el señor Philipon, hablaba euskera, y luego, mucho más tarde, llamose vasco. Éste puede que fuera africano.
 

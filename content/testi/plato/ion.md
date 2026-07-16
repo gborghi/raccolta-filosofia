@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/ion" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ION" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="ION" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -156,7 +156,7 @@ ION: No indeed; no more than the other.
 
 SOCRATES: And if I am not mistaken, you never met with any one among flute-players or harp-players or singers to the harp or rhapsodes who was able to discourse of Olympus or Thamyras or Orpheus, or Phemius the rhapsode of Ithaca, but was at a loss when he came to speak of Ion of Ephesus, and had no notion of his merits or defects?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 ION: I cannot deny what you say, [Socrates](/figures/socrates). Nevertheless I am conscious in my own self, and the world agrees with me in thinking that I do speak better and have more to say about Homer than any other man. But I do not speak equally well about others — tell me the reason of this.
 
@@ -186,7 +186,7 @@ ION: Only too well; for I look down upon them from the stage, and behold the var
 
 SOCRATES: Do you know that the spectator is the last of the rings which, as I am saying, receive the power of the original magnet from one another? The rhapsode like yourself and the actor are intermediate links, and the poet himself is the first of them. Through all these the God sways the souls of men in any direction which he pleases, and makes one man hang down from another. Thus there is a vast chain of dancers and masters and under-masters of choruses, who are suspended, as if from the stone, at the side of the rings which hang down from the Muse. And every poet has some Muse from whom he is suspended, and by whom he is said to be possessed, which is nearly the same thing; for he is taken hold of. And from these first rings, which are the poets, depend others, some deriving their inspiration from Orpheus, others from Musaeus; but the greater number are possessed and held by Homer. Of whom, Ion, you are one, and are possessed by Homer; and when any one repeats the words of another poet you go to sleep, and know not what to say; but when any one recites a strain of Homer you wake up in a moment, and your soul leaps within you, and you have plenty to say; for not by art or knowledge about Homer do you say what you say, but by divine inspiration and by possession; just as the Corybantian revellers too have a quick perception of that strain only which is appropriated to the God by whom they are possessed, and have plenty of dances and words for that, but take no heed of any other. And you, Ion, when the name of Homer is mentioned have plenty to say, and have nothing to say of others. You ask, ‘Why is this?’ The answer is that you praise Homer not by art but by divine inspiration.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 ION: That is good, [Socrates](/figures/socrates); and yet I doubt whether you will ever have eloquence enough to persuade me that I praise Homer only when I am mad and possessed; and if you could hear me speak of him I am sure you would never think this to be the case.
 
@@ -334,7 +334,7 @@ SOCRATES: At any rate he will know what a general ought to say when exhorting hi
 
 ION: Yes, that is the sort of thing which the rhapsode will be sure to know.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Well, but is the art of the rhapsode the art of the general?
 

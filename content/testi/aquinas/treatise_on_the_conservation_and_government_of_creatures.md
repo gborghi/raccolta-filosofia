@@ -20,12 +20,12 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_conservation_and_government_of_creatures" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Conservation and Government of Creatures" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Conservation and Government of Creatures" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE CONSERVATION AND GOVERNMENT OF
 CREATURES (QQ[103]-119)
 
-<span class="atom-split" data-atom="002" data-title="OF THE GOVERNMENT OF THINGS IN GENERAL (EIGHT ARTICLES)" data-chapter="OF THE GOVERNMENT OF THINGS IN GENERAL (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE GOVERNMENT OF THINGS IN GENERAL (EIGHT ARTICLES)" data-chapter="OF THE GOVERNMENT OF THINGS IN GENERAL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having considered the creation of things and their distinction, we now consider in the third
 place the government thereof, and (1) the government of things in general; (2) in particular, the
@@ -39,7 +39,7 @@ effects of this government. Under the first head there are eight points of inqui
 (7) Whether the Divine government is frustrated in anything?
 (8) Whether anything is contrary to the Divine Providence?
 
-<span class="atom-split" data-atom="003" data-title="Whether the world is governed by anyone?" data-chapter="Whether the world is governed by anyone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether the world is governed by anyone?" data-chapter="Whether the world is governed by anyone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the world is not governed by anyone. For it belongs to those
 things to be governed, which move or work for an end. But natural things which make up the greater
@@ -94,7 +94,7 @@ God is their nature, while that which natural things receive from man in additio
 somewhat violent. Wherefore, as the violent necessity in the movement of the arrow shows the
 action of the archer, so the natural necessity of things shows the government of Divine Providence.
 
-<span class="atom-split" data-atom="004" data-title="Whether the end of the government of the world is something outside the world?" data-chapter="Whether the end of the government of the world is something outside the world?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether the end of the government of the world is something outside the world?" data-chapter="Whether the end of the government of the world is something outside the world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the end of the government of the world is not something
 existing outside the world. For the end of the government of a thing is that whereto the thing
@@ -146,7 +146,7 @@ Reply to Objection 3: A good existing in the universe, namely, the order of the 
 an end thereof; this. however, is not its ultimate end, but is ordered to the extrinsic good as to the
 end: thus the order in an army is ordered to the general, as stated in Metaph. xii, Did. xi, 10.
 
-<span class="atom-split" data-atom="005" data-title="Whether the world is governed by one?" data-chapter="Whether the world is governed by one?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether the world is governed by one?" data-chapter="Whether the world is governed by one?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the world is not governed by one. For we judge the cause by
 the effect. Now, we see in the government of the universe that things are not moved and do not
@@ -194,7 +194,7 @@ universe.
 Reply to Objection 3: If we consider individual goods, then two are better than one. But if we
 consider the essential good, then no addition is possible.
 
-<span class="atom-split" data-atom="006" data-title="Whether the effect of government is one or many?" data-chapter="Whether the effect of government is one or many?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the effect of government is one or many?" data-chapter="Whether the effect of government is one or many?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is but one effect of the government of the world and not
 many. For the effect of government is that which is caused in the things governed. This is one,
@@ -231,7 +231,7 @@ by God and their movement. As regards these two things we find order among them,
 one is better than another; and one is moved by another.
 From what has been said above, we can gather the replies to the other two objections.
 
-<span class="atom-split" data-atom="007" data-title="Whether all things are subject to the Divine government?" data-chapter="Whether all things are subject to the Divine government?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether all things are subject to the Divine government?" data-chapter="Whether all things are subject to the Divine government?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all things are subject to the Divine government. For it is
 written (Eccles. 9:11): "I saw that under the sun the race is not to the swift, nor the battle to the
@@ -296,7 +296,7 @@ which require to be governed and perfected by the Divine intellect and will. The
 government whereby the rational creature governs itself as master of its own act, it requires to be
 governed by God.
 
-<span class="atom-split" data-atom="008" data-title="Whether all things are immediately governed by God?" data-chapter="Whether all things are immediately governed by God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether all things are immediately governed by God?" data-chapter="Whether all things are immediately governed by God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all things are governed by God immediately. For Gregory of
 Nyssa (Nemesius, De Nat. Hom.) reproves the opinion of Plato who divides providence into three
@@ -348,7 +348,7 @@ Reply to Objection 3: That an earthly king should have ministers to execute his 
 not only of his being imperfect, but also of his dignity; because by the ordering of ministers the
 kingly power is brought into greater evidence.
 
-<span class="atom-split" data-atom="009" data-title="Whether anything can happen outside the order of the Divine government?" data-chapter="Whether anything can happen outside the order of the Divine government?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether anything can happen outside the order of the Divine government?" data-chapter="Whether anything can happen outside the order of the Divine government?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem possible that something may occur outside the order of the Divine
 government. For Boethius says (De Consol. iii) that "God disposes all for good." Therefore, if
@@ -391,7 +391,7 @@ causes, which may fail in their effects; and not as though anything could happen
 the order of Divine government. The very fact that something occurs outside the order of some
 proximate cause, is owing to some other cause, itself subject to the Divine government.
 
-<span class="atom-split" data-atom="010" data-title="Whether anything can resist the order of the Divine government?" data-chapter="Whether anything can resist the order of the Divine government?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether anything can resist the order of the Divine government?" data-chapter="Whether anything can resist the order of the Divine government?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem possible that some resistance can be made to the order of the Divine
 government. For it is written (Is. 3:8): "Their tongue and their devices are against the Lord."
@@ -429,7 +429,7 @@ Reply to Objection 3: From the fact that one thing opposes another, it follows t
 thing can resist the order of a particular cause; but not that order which depends on the universal
 cause of all things.
 
-<span class="atom-split" data-atom="011" data-title="THE SPECIAL EFFECTS OF THE DIVINE GOVERNMENT (FOUR ARTICLES)" data-chapter="THE SPECIAL EFFECTS OF THE DIVINE GOVERNMENT (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="THE SPECIAL EFFECTS OF THE DIVINE GOVERNMENT (FOUR ARTICLES)" data-chapter="THE SPECIAL EFFECTS OF THE DIVINE GOVERNMENT (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the effects of the Divine government in particular; concerning which four
 points of inquiry arise:
@@ -438,7 +438,7 @@ points of inquiry arise:
 (3) Whether God can reduce anything to nothingness?
 (4) Whether anything is reduced to nothingness?
 
-<span class="atom-split" data-atom="012" data-title="Whether creatures need to be kept in being by God? (1/2)" data-chapter="Whether creatures need to be kept in being by God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether creatures need to be kept in being by God? (1/2)" data-chapter="Whether creatures need to be kept in being by God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that creatures do not need to be kept in being by God. For what
 cannot not-be, does not need to be kept in being; just as that which cannot depart, does not need to
@@ -477,7 +477,7 @@ unreasonable. Therefore creatures are not kept in being by God.
 
 On the contrary, It is written (Heb. 1:3): "Upholding all things by the word of His power."
 
-<span class="atom-split" data-atom="013" data-title="Whether creatures need to be kept in being by God? (2/2)" data-chapter="Whether creatures need to be kept in being by God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether creatures need to be kept in being by God? (2/2)" data-chapter="Whether creatures need to be kept in being by God?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Both reason and faith bind us to say that creatures are kept in being by God. To
 make this clear, we must consider that a thing is preserved by another in two ways. First, indirectly,
@@ -553,7 +553,7 @@ Reply to Objection 4: The preservation of things by God is a continuation of tha
 He gives existence, which action is without either motion or time; so also the preservation of light
 in the air is by the continual influence of the sun.
 
-<span class="atom-split" data-atom="014" data-title="Whether God preserves every creature immediately?" data-chapter="Whether God preserves every creature immediately?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether God preserves every creature immediately?" data-chapter="Whether God preserves every creature immediately?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God preserves every creature immediately. For God creates
 and preserves things by the same action, as above stated (A[1], ad 4). But God created all things
@@ -606,7 +606,7 @@ any fresh change in the effect, the cause preserves that form or disposition; as
 lit up anew, we must allow some change to have taken place, while the preservation of the light is
 without any further change in the air due to the presence of the source of light.
 
-<span class="atom-split" data-atom="015" data-title="Whether God can annihilate anything?" data-chapter="Whether God can annihilate anything?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether God can annihilate anything?" data-chapter="Whether God can annihilate anything?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot annihilate anything. For [Augustine](/figures/augustine) says (QQ. 83,
 qu. 21) that "God is not the cause of anything tending to non-existence." But He would be such a
@@ -649,7 +649,7 @@ prejudice to His goodness, He might not preserve things in existence.
 Reply to Objection 3: If God were to annihilate anything, this would not imply an action on
 God's part; but a mere cessation of His action.
 
-<span class="atom-split" data-atom="016" data-title="Whether anything is annihilated?" data-chapter="Whether anything is annihilated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether anything is annihilated?" data-chapter="Whether anything is annihilated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that something is annihilated. For the end corresponds to the
 beginning. But in the beginning there was nothing but God. Therefore all things must tend to this
@@ -700,7 +700,7 @@ Yet so far as their mode of existence is concerned, they are not entirely reduce
 not that any part of them survives, but that they remain in the potentiality of the matter, or of the
 subject.
 
-<span class="atom-split" data-atom="017" data-title="OF THE CHANGE OF CREATURES BY GOD (EIGHT ARTICLES)" data-chapter="OF THE CHANGE OF CREATURES BY GOD (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="OF THE CHANGE OF CREATURES BY GOD (EIGHT ARTICLES)" data-chapter="OF THE CHANGE OF CREATURES BY GOD (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the second effect of the Divine government, i.e. the change of creatures; and
 first, the change of creatures by God; secondly, the change of one creature by another.
@@ -714,7 +714,7 @@ Under the first head there are eight points of inquiry:
 (7) Whether all that God does is miraculous?
 (8) Of the diversity of miracles.
 
-<span class="atom-split" data-atom="018" data-title="Whether God can move the matter immediately to the form?" data-chapter="Whether God can move the matter immediately to the form?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether God can move the matter immediately to the form?" data-chapter="Whether God can move the matter immediately to the form?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot move the matter immediately to receive the form.
 For as the Philosopher proves (Metaph. vii, Did. vi, 8), nothing can bring a form into any particular
@@ -761,7 +761,7 @@ Reply to Objection 3: The fact that secondary causes are ordered to determinate 
 to God; wherefore since God ordains other causes to certain effects He can also produce certain
 effects by Himself without any other cause.
 
-<span class="atom-split" data-atom="019" data-title="Whether God can move a body immediately?" data-chapter="Whether God can move a body immediately?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether God can move a body immediately?" data-chapter="Whether God can move a body immediately?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot move a body immediately. For as the mover and
 the moved must exist simultaneously, as the Philosopher says (Phys. vii, 2), it follows that there
@@ -823,7 +823,7 @@ other hand, a power which is not in bulk is the power of an intelligent being, w
 effects according to what is fitting to them; and therefore, since it cannot be fitting for a body to
 be moved without time, it does not follow that it moves without time.
 
-<span class="atom-split" data-atom="020" data-title="Whether God moves the created intellect immediately?" data-chapter="Whether God moves the created intellect immediately?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether God moves the created intellect immediately?" data-chapter="Whether God moves the created intellect immediately?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God does not immediately move the created intellect. For the
 action of the intellect is governed by its own subject; since it does not pass into external matter; as
@@ -878,7 +878,7 @@ intellect to understand Him through His Essence, as we have seen above (Q[12], A
 Hence He moves the created intellect, and yet He cannot be intelligible to it, as we have explained
 (Q[12], A[4]).
 
-<span class="atom-split" data-atom="021" data-title="Whether God can move the created will?" data-chapter="Whether God can move the created will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether God can move the created will?" data-chapter="Whether God can move the created will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot move the created will. For whatever is moved
 from without, is forced. But the will cannot be forced. Therefore it is not moved from without; and
@@ -926,7 +926,7 @@ within itself, the act of the will would not be imputed for reward or blame. But
 moved by another does not prevent its being moved from within itself, as we have stated (ad 2), it
 does not thereby forfeit the motive for merit or demerit.
 
-<span class="atom-split" data-atom="022" data-title="Whether God works in every agent?" data-chapter="Whether God works in every agent?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether God works in every agent?" data-chapter="Whether God works in every agent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God does not work in every agent. For we must not attribute
 any insufficiency to God. If therefore God works in every agent, He works sufficiently in each one.
@@ -995,7 +995,7 @@ nothing hinders the same action from proceeding from a primary and a secondary a
 Reply to Objection 3: God not only gives things their form, but He also preserves them in
 existence, and applies them to act, and is moreover the end of every action, as above explained.
 
-<span class="atom-split" data-atom="023" data-title="Whether God can do anything outside the established order of nature?" data-chapter="Whether God can do anything outside the established order of nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether God can do anything outside the established order of nature?" data-chapter="Whether God can do anything outside the established order of nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God cannot do anything outside the established order of nature.
 For [Augustine](/figures/augustine) (Contra Faust. xxvi, 3) says: "God the Maker and Creator of each nature, does
@@ -1050,7 +1050,7 @@ Reply to Objection 3: God fixed a certain order in things in such a way that at 
 He reserved to Himself whatever he intended to do otherwise than by a particular cause. So when
 He acts outside this order, He does not change.
 
-<span class="atom-split" data-atom="024" data-title="Whether whatever God does outside the natural order is miraculous?" data-chapter="Whether whatever God does outside the natural order is miraculous?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether whatever God does outside the natural order is miraculous?" data-chapter="Whether whatever God does outside the natural order is miraculous?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not everything which God does outside the natural order of
 things, is miraculous. For the creation of the world, and of souls, and the justification of the
@@ -1099,7 +1099,7 @@ hope comes from faith, whereby we believe in the future resurrection.
 Reply to Objection 3: The knowledge of the Apostles, although not manifest in itself, yet was
 made manifest in its effect, from which it was shown to be wonderful.
 
-<span class="atom-split" data-atom="025" data-title="Whether one miracle is greater than another?" data-chapter="Whether one miracle is greater than another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether one miracle is greater than another?" data-chapter="Whether one miracle is greater than another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one [miracle](/concepts/miracle) is not greater than another. For [Augustine](/figures/augustine) says
 (Epist. ad Volusian. cxxxvii): "In miraculous deeds, the whole measure of the deed is the power
@@ -1131,7 +1131,7 @@ these kinds has various degrees, according to the different ways in which the po
 surpassed.
 From this is clear how to reply to the objections, arguing as they do from the Divine power.
 
-<span class="atom-split" data-atom="026" data-title="HOW ONE CREATURE MOVES ANOTHER (FOUR ARTICLES)" data-chapter="HOW ONE CREATURE MOVES ANOTHER (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="HOW ONE CREATURE MOVES ANOTHER (FOUR ARTICLES)" data-chapter="HOW ONE CREATURE MOVES ANOTHER (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider how one creature moves another. This consideration will be threefold: (1)
 How the angels move, who are purely spiritual creatures; (2) How bodies move; (3) How man
@@ -1146,7 +1146,7 @@ Concerning their enlightenment there are four points of inquiry:
 (3) Whether an inferior angel can enlighten a superior angel?
 (4) Whether a superior angel enlightens an inferior angel in all that he knows himself?
 
-<span class="atom-split" data-atom="027" data-title="Whether one angel enlightens another?" data-chapter="Whether one angel enlightens another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether one angel enlightens another?" data-chapter="Whether one angel enlightens another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one angel does not enlighten another. For the angels possess
 now the same [beatitude](/positions/beatitude) which we hope to obtain. But one man will not then enlighten another,
@@ -1211,7 +1211,7 @@ ultimate perfecting form: for the created mind is always considered to be unform
 to the first truth; while the other kinds of [enlightenment](/schools/enlightenment) that proceed from man or angel, are, as it
 were, dispositions to this ultimate form.
 
-<span class="atom-split" data-atom="028" data-title="Whether one angel moves another angel's will?" data-chapter="Whether one angel moves another angel's will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether one angel moves another angel's will?" data-chapter="Whether one angel moves another angel's will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one angel can move another angel's will. Because, according
 to Dionysius quoted above (A[1]), as one angel enlightens another, so does he cleanse and perfect
@@ -1267,7 +1267,7 @@ Reply to Objection 3: The Philosopher speaks of the lower sensitive appetite whi
 moved by the superior intellectual appetite, because it belongs to the same nature of the soul, and
 because the inferior appetite is a power in a corporeal organ. But this does not apply to the angels.
 
-<span class="atom-split" data-atom="029" data-title="Whether an inferior angel can enlighten a superior angel?" data-chapter="Whether an inferior angel can enlighten a superior angel?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether an inferior angel can enlighten a superior angel?" data-chapter="Whether an inferior angel can enlighten a superior angel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an inferior angel can enlighten a superior angel. For the
 ecclesiastical hierarchy is derived from, and represents the heavenly hierarchy; and hence the
@@ -1317,7 +1317,7 @@ hold.
 Reply to Objection 3: An angel turns voluntarily to enlighten another angel, but the angel's
 will is ever regulated by the [Divine law](/concepts/divine_law) which made the order in the angels.
 
-<span class="atom-split" data-atom="030" data-title="Whether the superior angel enlightens the inferior as regards all he himself knows?" data-chapter="Whether the superior angel enlightens the inferior as regards all he himself knows?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the superior angel enlightens the inferior as regards all he himself knows?" data-chapter="Whether the superior angel enlightens the inferior as regards all he himself knows?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the superior angel does not enlighten the inferior concerning
 all he himself knows. For Dionysius says (Coel. Hier. xii) that the superior angels have a more
@@ -1367,7 +1367,7 @@ Reply to Objection 3: Till the Judgment Day some new things are always being rev
 God to the highest angels, concerning the course of the world, and especially the salvation of the
 elect. Hence there is always something for the superior angels to make known to the inferior.
 
-<span class="atom-split" data-atom="031" data-title="THE SPEECH OF THE ANGELS (FIVE ARTICLES)" data-chapter="THE SPEECH OF THE ANGELS (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="THE SPEECH OF THE ANGELS (FIVE ARTICLES)" data-chapter="THE SPEECH OF THE ANGELS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the speech of the angels. Here there are five points of inquiry:
 (1) Whether one angel speaks to another?
@@ -1376,7 +1376,7 @@ We next consider the speech of the angels. Here there are five points of inquiry
 (4) Whether the angelic speech is subject to local distance?
 (5) Whether all the speech of one angel to another is known to all?
 
-<span class="atom-split" data-atom="032" data-title="Whether one angel speaks to another?" data-chapter="Whether one angel speaks to another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether one angel speaks to another?" data-chapter="Whether one angel speaks to another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one angel does not speak to another. For Gregory says (Moral.
 xviii) that, in [the state](/concepts/state) of the resurrection "each one's body will not hide his mind from his fellows."
@@ -1437,7 +1437,7 @@ the bad angels speak to each other, we must say that the intellect is moved by t
 just as sense is affected by the sensible object. Therefore, as sense is aroused by the sensible object,
 so the mind of an angel can be aroused to attention by some intelligible power.
 
-<span class="atom-split" data-atom="033" data-title="Whether the inferior angel speaks to the superior?" data-chapter="Whether the inferior angel speaks to the superior?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether the inferior angel speaks to the superior?" data-chapter="Whether the inferior angel speaks to the superior?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the inferior angel does not speak to the superior. For on the
 text (1 Cor. 13:1), "If I speak with the tongues of men and of angels," a gloss remarks that the
@@ -1486,7 +1486,7 @@ will of God is the rule of truth, it belongs to the perfection and enlightenment
 to know even what God wills. But the same does not apply to the will of the angels, as was explained
 above.
 
-<span class="atom-split" data-atom="034" data-title="Whether an angel speaks to God?" data-chapter="Whether an angel speaks to God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether an angel speaks to God?" data-chapter="Whether an angel speaks to God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an angel does not speak to God. For speech makes known
 something to another. But an angel cannot make known anything to God, Who knows all things.
@@ -1520,7 +1520,7 @@ Reply to Objection 2: The angels are ever speaking to God in the sense of praisi
 Him and His works; but they speak to Him by consulting Him about what ought to be done whenever
 they have to perform any new work, concerning which they desire [enlightenment](/schools/enlightenment).
 
-<span class="atom-split" data-atom="035" data-title="Whether local distance influences the angelic speech?" data-chapter="Whether local distance influences the angelic speech?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether local distance influences the angelic speech?" data-chapter="Whether local distance influences the angelic speech?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that local distance affects the angelic speech. For as Damascene
 says (De Fide Orth. i, 13): "An angel works where he is." But speech is an angelic operation.
@@ -1552,7 +1552,7 @@ Reply to Objection 2: The cry mentioned is not a bodily voice raised by reason o
 distance; but is taken to signify the magnitude of what is said, or the intensity of the affection,
 according to what Gregory says (Moral. ii): "The less one desires, the less one cries out."
 
-<span class="atom-split" data-atom="036" data-title="Whether all the angels know what one speaks to another?" data-chapter="Whether all the angels know what one speaks to another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether all the angels know what one speaks to another?" data-chapter="Whether all the angels know what one speaks to another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the angels know what one speaks to another. For unequal
 local distance is the reason why all men do not know what one man says to another. But in the
@@ -1583,7 +1583,7 @@ which is the principle common to all the angels; and in that way all enlightenme
 to all. But speech may be of something ordered to the principle of the created will, which is proper
 to each angel; and in this way it is not necessary that these speeches should be common to all.
 
-<span class="atom-split" data-atom="037" data-title="OF THE ANGELIC DEGREES OF HIERARCHIES AND ORDERS (EIGHT ARTICLES)" data-chapter="OF THE ANGELIC DEGREES OF HIERARCHIES AND ORDERS (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="OF THE ANGELIC DEGREES OF HIERARCHIES AND ORDERS (EIGHT ARTICLES)" data-chapter="OF THE ANGELIC DEGREES OF HIERARCHIES AND ORDERS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the degrees of the angels in their hierarchies and orders; for it was said above
 (Q[106], A[3]), that the superior angels enlighten the inferior angels; and not conversely.
@@ -1597,7 +1597,7 @@ Under this head there are eight points of inquiry:
 (7) Whether the orders will outlast the Day of Judgment?
 (8) Whether men are taken up into the angelic orders?
 
-<span class="atom-split" data-atom="038" data-title="Whether all the angels are of one hierarchy?" data-chapter="Whether all the angels are of one hierarchy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether all the angels are of one hierarchy?" data-chapter="Whether all the angels are of one hierarchy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the angels belong to one hierarchy. For since the angels
 are supreme among creatures, it is evident that they are ordered for the best. But the best ordering
@@ -1656,7 +1656,7 @@ Reply to Objection 3: All men are of one species, and have one connatural mode o
 understanding; which is not the case in the angels: and hence the same argument does not apply to
 both.
 
-<span class="atom-split" data-atom="039" data-title="Whether there are several orders in one hierarchy?" data-chapter="Whether there are several orders in one hierarchy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether there are several orders in one hierarchy?" data-chapter="Whether there are several orders in one hierarchy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in the one hierarchy there are not several orders. For when a
 definition is multiplied, the thing defined is also multiplied. But hierarchy is order, as Dionysius
@@ -1712,7 +1712,7 @@ John the Baptist, than whom "there hath not risen a greater among them that are 
 enlighten and perfect, and in a higher way than can the orders of our hierarchy. Thus the heavenly
 orders are not distinguished by reason of these, but by reason of other different acts.
 
-<span class="atom-split" data-atom="040" data-title="Whether there are many angels in one order?" data-chapter="Whether there are many angels in one order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether there are many angels in one order?" data-chapter="Whether there are many angels in one order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there are not many angels in one order. For it was shown above
 (Q[50], A[4]), that all the angels are unequal. But equals belong to one order. Therefore there are
@@ -1760,7 +1760,7 @@ parts, but are less akin in quality; so two angels who are on the boundary of tw
 akin in propinquity of nature than one of them is akin to the others of its own order, but less akin
 in their fitness for similar offices, which fitness, indeed, extends to a definite limit.
 
-<span class="atom-split" data-atom="041" data-title="Whether the distinction of hierarchies and orders comes from the angelic nature?" data-chapter="Whether the distinction of hierarchies and orders comes from the angelic nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether the distinction of hierarchies and orders comes from the angelic nature?" data-chapter="Whether the distinction of hierarchies and orders comes from the angelic nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the distinction of hierarchies and of orders is not from the
 nature of the angels. For hierarchy is "a sacred principality," and Dionysius places in its definition
@@ -1797,7 +1797,7 @@ the case with men, as above explained (Q[62], A[6]). Hence among men the orders 
 according to the gratuitous gifts only, and not according to natural gifts.
 From the above the replies to the objections are evident.
 
-<span class="atom-split" data-atom="042" data-title="Whether the orders of the angels are properly named? (1/2)" data-chapter="Whether the orders of the angels are properly named?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether the orders of the angels are properly named? (1/2)" data-chapter="Whether the orders of the angels are properly named?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the orders of the angels are not properly named. For all the
 heavenly spirits are called angels and heavenly virtues. But common [names](/positions/nominalism) should not be
@@ -1908,7 +1908,7 @@ they are called "Archangels," because they preside over the one order of the "An
 announcing greater things: and the "Principalities" are so called as presiding over all the heavenly
 "Virtues" who fulfil the Divine commands.
 
-<span class="atom-split" data-atom="043" data-title="Whether the orders of the angels are properly named? (2/2)" data-chapter="Whether the orders of the angels are properly named?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the orders of the angels are properly named? (2/2)" data-chapter="Whether the orders of the angels are properly named?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The name "Seraphim" does not come from charity only, but from the
 excess of charity, expressed by the word ardor or fire. Hence Dionysius (Coel. Hier. vii) expounds
@@ -1943,7 +1943,7 @@ thereupon; and so the angels receive God in themselves, and in a certain way bea
 inferior creatures. Fourthly, because in its shape, a seat is open on one side to receive the sitter;
 and thus are the angels promptly open to receive God and to serve Him.
 
-<span class="atom-split" data-atom="044" data-title="Whether the grades of the orders are properly assigned? (1/2)" data-chapter="Whether the grades of the orders are properly assigned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether the grades of the orders are properly assigned? (1/2)" data-chapter="Whether the grades of the orders are properly assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the grades of the orders are not properly assigned. For the
 order of prelates is the highest. But the [names](/positions/nominalism) of "Dominations," "Principalities," and "Powers" of
@@ -2049,7 +2049,7 @@ and relation to God.
 Reply to Objection 2: The nearness to God designated by the name of the "Thrones," belongs
 also to the "Cherubim" and "Seraphim," and in a more excellent way, as above explained.
 
-<span class="atom-split" data-atom="045" data-title="Whether the grades of the orders are properly assigned? (2/2)" data-chapter="Whether the grades of the orders are properly assigned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether the grades of the orders are properly assigned? (2/2)" data-chapter="Whether the grades of the orders are properly assigned?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: As above explained (Q[27], A[3]), knowledge takes place accordingly
 as the thing known is in the knower; but love as the lover is united to the object loved. Now higher
@@ -2066,7 +2066,7 @@ seem to be the same as "Principalities" of Dionysius. For to work miracles holds
 the Divine ministrations; since thereby the way is prepared for the announcements of the
 "Archangels" and the "Angels."
 
-<span class="atom-split" data-atom="046" data-title="Whether the orders will outlast the Day of Judgment?" data-chapter="Whether the orders will outlast the Day of Judgment?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether the orders will outlast the Day of Judgment?" data-chapter="Whether the orders will outlast the Day of Judgment?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the orders of angels will not outlast the Day of Judgment. For
 the Apostle says (1 Cor. 15:24), that Christ will "bring to naught all principality and power, when
@@ -2121,7 +2121,7 @@ Reply to Objection 3: Although after the Day of Judgment men will not be led any
 salvation by the ministry of the angels, still those who are already saved will be enlightened through
 the angelic ministry.
 
-<span class="atom-split" data-atom="047" data-title="Whether men are taken up into the angelic orders?" data-chapter="Whether men are taken up into the angelic orders?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether men are taken up into the angelic orders?" data-chapter="Whether men are taken up into the angelic orders?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that men are not taken up into the orders of the angels. For the
 human hierarchy is stationed beneath the lowest heavenly hierarchy, as the lowest under the middle
@@ -2173,7 +2173,7 @@ Reply to Objection 3: It is not erroneous to say that men are transferred to the
 demons; but some erroneously stated that the demons are nothing but souls of the dead; and it is
 this that Chrysostom rejects.
 
-<span class="atom-split" data-atom="048" data-title="THE ORDERING OF THE BAD ANGELS (FOUR ARTICLES)" data-chapter="THE ORDERING OF THE BAD ANGELS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="THE ORDERING OF THE BAD ANGELS (FOUR ARTICLES)" data-chapter="THE ORDERING OF THE BAD ANGELS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the ordering of the bad angels; concerning which there are four points of
 inquiry:
@@ -2182,7 +2182,7 @@ inquiry:
 (3) Whether one enlightens another?
 (4) Whether they are subject to the precedence of the good angels?
 
-<span class="atom-split" data-atom="049" data-title="Whether there are orders among the demons?" data-chapter="Whether there are orders among the demons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether there are orders among the demons?" data-chapter="Whether there are orders among the demons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are no orders among the demons. For order belongs to
 good, as also mode, and species, as [Augustine](/figures/augustine) says (De Nat. Boni iii); and on the contrary, disorder
@@ -2223,7 +2223,7 @@ Reply to Objection 3: The name "Seraphim" is given from the ardor of charity; an
 "Thrones" from the Divine indwelling; and the name "Dominations" imports a certain liberty; all
 of which are opposed to sin; and therefore these names are not given to the angels who sinned.
 
-<span class="atom-split" data-atom="050" data-title="Whether among the demons there is precedence?" data-chapter="Whether among the demons there is precedence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether among the demons there is precedence?" data-chapter="Whether among the demons there is precedence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no precedence among the demons. For every precedence
 is according to some order of justice. But the demons are wholly fallen from justice. Therefore
@@ -2267,7 +2267,7 @@ subject to the superior, is not for the benefit of the superior, but rather to t
 since to do evil belongs in a pre-eminent degree to unhappiness, it follows that to preside in evil is
 to be more unhappy.
 
-<span class="atom-split" data-atom="051" data-title="Whether there is enlightenment in the demons?" data-chapter="Whether there is enlightenment in the demons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether there is enlightenment in the demons?" data-chapter="Whether there is enlightenment in the demons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [enlightenment](/schools/enlightenment) is in the demons. For enlightenment means the
 manifestation of the truth. But one demon can manifest truth to another, because the superior excel
@@ -2298,7 +2298,7 @@ A[2]; Q[58], A[2]; Q[79], A[2]), they know from the first all that belongs to th
 So the greater fulness of natural light in the superior demons does not prove that they can enlighten
 others.
 
-<span class="atom-split" data-atom="052" data-title="Whether the good angels have precedence over the bad angels?" data-chapter="Whether the good angels have precedence over the bad angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether the good angels have precedence over the bad angels?" data-chapter="Whether the good angels have precedence over the bad angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the good angels have no precedence over the bad angels. For
 the angels' precedence is especially connected with [enlightenment](/schools/enlightenment). But the bad angels, being
@@ -2342,7 +2342,7 @@ angels cleave, is stronger than the natural power of the angels. Hence likewise 
 spiritual man judgeth all things" (1 Cor. 2:15), and the Philosopher says (Ethic. iii, 4; x, 5) that "the
 virtuous man is the rule and measure of all human acts."
 
-<span class="atom-split" data-atom="053" data-title="HOW ANGELS ACT ON BODIES (FOUR ARTICLES)" data-chapter="HOW ANGELS ACT ON BODIES (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="HOW ANGELS ACT ON BODIES (FOUR ARTICLES)" data-chapter="HOW ANGELS ACT ON BODIES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider how the angels preside over the corporeal creatures. Under this head there
 are four points of inquiry:
@@ -2351,7 +2351,7 @@ are four points of inquiry:
 (3) Whether the angels by their own power can immediately move bodies locally?
 (4) Whether the good or bad angels can work miracles?
 
-<span class="atom-split" data-atom="054" data-title="Whether the corporeal creature is governed by the angels?" data-chapter="Whether the corporeal creature is governed by the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the corporeal creature is governed by the angels?" data-chapter="Whether the corporeal creature is governed by the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the corporeal creature is not governed by angels. For whatever
 possesses a determinate mode of action, needs not to be governed by any superior power; for we
@@ -2425,7 +2425,7 @@ over the demons are of the order of the "powers"; so to the order of the "virtue
 seem to belong who preside over purely corporeal creatures; for by their ministration miracles are
 sometimes performed.
 
-<span class="atom-split" data-atom="055" data-title="Whether corporeal matter obeys the mere will of an angel?" data-chapter="Whether corporeal matter obeys the mere will of an angel?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether corporeal matter obeys the mere will of an angel?" data-chapter="Whether corporeal matter obeys the mere will of an angel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that corporeal matter obeys the mere will of an angel. For the power
 of an angel excels the power of the soul. But corporeal matter obeys a conception of the soul; for
@@ -2487,7 +2487,7 @@ according to the prescription of his art he produces a dish that the fire could 
 itself); since to reduce matter to the act of the substantial form does not exceed the power of a
 corporeal agent; for it is natural for like to make like.
 
-<span class="atom-split" data-atom="056" data-title="Whether bodies obey the angels as regards local motion?" data-chapter="Whether bodies obey the angels as regards local motion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether bodies obey the angels as regards local motion?" data-chapter="Whether bodies obey the angels as regards local motion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that bodies do not obey the angels in local motion. For the local
 motion of natural bodies follows on their forms. But the angels do not cause the forms of natural
@@ -2529,7 +2529,7 @@ Hence the motive power of the soul is limited to the body united to it, which is
 by which it can move other things. But an angel's power is not limited to any body; hence it can
 move locally bodies not joined to it.
 
-<span class="atom-split" data-atom="057" data-title="Whether angels can work miracles?" data-chapter="Whether angels can work miracles?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether angels can work miracles?" data-chapter="Whether angels can work miracles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels can work miracles. For Gregory says (Hom. xxxiv
 in Evang.): "Those spirits are called virtues by whom signs and miracles are usually done."
@@ -2587,7 +2587,7 @@ Reply to Objection 4: Although the angels can do something which is outside the 
 corporeal nature, yet they cannot do anything outside the whole created order, which is essential
 to a miracle, as above explained.
 
-<span class="atom-split" data-atom="058" data-title="THE ACTION OF THE ANGELS ON MAN (FOUR ARTICLES)" data-chapter="THE ACTION OF THE ANGELS ON MAN (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="THE ACTION OF THE ANGELS ON MAN (FOUR ARTICLES)" data-chapter="THE ACTION OF THE ANGELS ON MAN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the action of the angels on man, and inquire: (1) How far they can change
 them by their own natural power; (2) How they are sent by God to the ministry of men; (3) How
@@ -2598,7 +2598,7 @@ Under the first head there are four points of inquiry:
 (3) Whether he can change man's imagination?
 (4) Whether he can change man's senses?
 
-<span class="atom-split" data-atom="059" data-title="Whether an angel can enlighten man?" data-chapter="Whether an angel can enlighten man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether an angel can enlighten man?" data-chapter="Whether an angel can enlighten man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an angel cannot enlighten man. For man is enlightened by
 faith; hence Dionysius (Eccl. Hier. iii) attributes [enlightenment](/schools/enlightenment) to baptism, as "the [sacrament](/concepts/sacrament) of
@@ -2658,7 +2658,7 @@ on the part of the principle; and thus it does not follow that whoever understan
 what the intellect is, which is the principle of the intellectual operation. In like manner not everyone
 who is enlightened by an angel, knows that he is enlightened by him.
 
-<span class="atom-split" data-atom="060" data-title="Whether the angels can change the will of man?" data-chapter="Whether the angels can change the will of man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the angels can change the will of man?" data-chapter="Whether the angels can change the will of man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels can change the will of man. For, upon the text,
 "Who maketh His angels spirits and His ministers a flame of fire" (Heb. 1:7), the gloss notes that
@@ -2708,7 +2708,7 @@ Reply to Objection 3: The human intellect in its present state can understand on
 to the phantasms; but the human will can will something following the judgment of reason rather
 than the passion of the sensitive appetite. Hence the comparison does not hold.
 
-<span class="atom-split" data-atom="061" data-title="Whether an angel can change man's imagination?" data-chapter="Whether an angel can change man's imagination?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether an angel can change man's imagination?" data-chapter="Whether an angel can change man's imagination?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an angel cannot change man's imagination. For the phantasy,
 as is said De [Anima](/concepts/soul) iii, is "a motion caused by the sense in act." But if this motion were caused by
@@ -2769,7 +2769,7 @@ but neither then is deception caused by the angel, but by the defect in the inte
 things appear. Thus neither was Christ a cause of deception when He spoke many things to the
 people in parables, which He did not explain to them.
 
-<span class="atom-split" data-atom="062" data-title="Whether an angel can change the human senses?" data-chapter="Whether an angel can change the human senses?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether an angel can change the human senses?" data-chapter="Whether an angel can change the human senses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that an angel cannot change the human senses. For the sensitive operation
 is a vital operation. But such an operation does not come from an extrinsic principle. Therefore the
@@ -2811,7 +2811,7 @@ Reply to Objection 3: An angel can do nothing outside the entire order of creatu
 can outside some particular order of nature, since he is not subject to that order; thus in some special
 way an angel can work a change in the senses outside the common mode of nature.
 
-<span class="atom-split" data-atom="063" data-title="THE MISSION OF THE ANGELS (FOUR ARTICLES)" data-chapter="THE MISSION OF THE ANGELS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="THE MISSION OF THE ANGELS (FOUR ARTICLES)" data-chapter="THE MISSION OF THE ANGELS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the mission of the angels. Under this head arise four points of inquiry:
 (1) Whether any angels are sent on works of ministry?
@@ -2819,7 +2819,7 @@ We next consider the mission of the angels. Under this head arise four points of
 (3) Whether those who are sent, assist?
 (4) From what orders they are sent.
 
-<span class="atom-split" data-atom="064" data-title="Whether the angels are sent on works of ministry?" data-chapter="Whether the angels are sent on works of ministry?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether the angels are sent on works of ministry?" data-chapter="Whether the angels are sent on works of ministry?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels are not sent on works of ministry. For every mission
 is to some determinate place. But intellectual actions do not determine a place, for intellect abstracts
@@ -2890,7 +2890,7 @@ secondarily to us; not because we are superior to them, absolutely speaking, but
 every man or angel by cleaving to God is made one spirit with God, he is thereby superior to every
 creature. Hence the Apostle says (Phil. 2:3): "Esteeming others better than themselves."
 
-<span class="atom-split" data-atom="065" data-title="Whether all the angels are sent in ministry?" data-chapter="Whether all the angels are sent in ministry?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether all the angels are sent in ministry?" data-chapter="Whether all the angels are sent in ministry?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the angels are sent in ministry. For the Apostle says (Heb.
 1:14): "All are ministering spirits, sent to minister" [Vulg. 'Are they not all . . . ?'].
@@ -2943,7 +2943,7 @@ Reply to Objection 4: A manifold grade exists in the Divine ministries. Hence th
 to prevent angels though unequal from being sent immediately in ministry, in such a manner however
 that the superior are sent to the higher ministries, and the lower to the inferior ministries.
 
-<span class="atom-split" data-atom="066" data-title="Whether all the angels who are sent, assist?" data-chapter="Whether all the angels who are sent, assist?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether all the angels who are sent, assist?" data-chapter="Whether all the angels who are sent, assist?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels who are sent also assist. For Gregory says (Hom.
 xxxiv in Evang.): "So the angels are sent, and assist; for, though the angelic spirit is limited, yet
@@ -2992,7 +2992,7 @@ immediately enlightened by God; while the higher ones among them see more than i
 inferior; some of whom enlighten others: as also among those who assist the king, one knows more
 of the king's secrets than another.
 
-<span class="atom-split" data-atom="067" data-title="Whether all the angels of the second hierarchy are sent?" data-chapter="Whether all the angels of the second hierarchy are sent?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether all the angels of the second hierarchy are sent?" data-chapter="Whether all the angels of the second hierarchy are sent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the angels of the second hierarchy are sent. For all the
 angels either assist, or minister, according to Dan. 7:10. But the angels of the second hierarchy do
@@ -3045,7 +3045,7 @@ but rather that it is much greater, in that it exceeds all material multitude. T
 multiplication together of all the greatest numbers, namely ten, a hundred, and a thousand, as
 Dionysius remarks in the same passage.
 
-<span class="atom-split" data-atom="068" data-title="OF THE GUARDIANSHIP OF THE GOOD ANGELS (EIGHT ARTICLES)" data-chapter="OF THE GUARDIANSHIP OF THE GOOD ANGELS (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="OF THE GUARDIANSHIP OF THE GOOD ANGELS (EIGHT ARTICLES)" data-chapter="OF THE GUARDIANSHIP OF THE GOOD ANGELS (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the guardianship exercised by the good angels; and their warfare against the
 bad angels. Under the first head eight points of inquiry arise:
@@ -3058,7 +3058,7 @@ bad angels. Under the first head eight points of inquiry arise:
 (7) Whether the angel grieves over the loss of the one guarded?
 (8) Whether rivalry exists among the angels as regards their guardianship?
 
-<span class="atom-split" data-atom="069" data-title="Whether men are guarded by the angels?" data-chapter="Whether men are guarded by the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether men are guarded by the angels?" data-chapter="Whether men are guarded by the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that men are not guarded by the angels. For guardians are deputed
 to some because they either know not how, or are not able, to guard themselves, as children and
@@ -3110,7 +3110,7 @@ to the negligence of the angels but to the malice of men. That they sometimes ap
 outside the ordinary course of nature comes from a special grace of God, as likewise that miracles
 occur outside the order of nature.
 
-<span class="atom-split" data-atom="070" data-title="Whether each man is guarded by an angel?" data-chapter="Whether each man is guarded by an angel?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether each man is guarded by an angel?" data-chapter="Whether each man is guarded by an angel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that each man is not guarded by an angel. For an angel is stronger
 than a man. But one man suffices to guard many men. Therefore much more can one angel guard
@@ -3166,7 +3166,7 @@ to Ecclus. 33:11,12: "With much knowledge the Lord hath divided them, and divers
 some of them hath He blessed and exalted, and some of them hath He cursed and brought low."
 Thus it is a greater office to guard one man than another.
 
-<span class="atom-split" data-atom="071" data-title="Whether to guard men belongs only to the lowest order of angels?" data-chapter="Whether to guard men belongs only to the lowest order of angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether to guard men belongs only to the lowest order of angels?" data-chapter="Whether to guard men belongs only to the lowest order of angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the guardianship of men does not belong only to the lowest
 order of the angels. For Chrysostom says that the text (Mat. 18:10), "Their angels in heaven," etc.
@@ -3209,7 +3209,7 @@ Reply to Objection 3: Even inferior angels exercise the office of the superior, 
 their gifts, and they are executors of the superiors' power; and in this way all the angels of the lowest
 order can coerce the demons, and work miracles.
 
-<span class="atom-split" data-atom="072" data-title="Whether angels are appointed to the guardianship of all men?" data-chapter="Whether angels are appointed to the guardianship of all men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether angels are appointed to the guardianship of all men?" data-chapter="Whether angels are appointed to the guardianship of all men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that angels are not appointed to the guardianship of all men. For
 it is written of Christ (Phil. 2:7) that "He was made in the likeness of men, and in [habit](/concepts/custom) found as a
@@ -3259,7 +3259,7 @@ nevertheless conduce to their being protected from certain evils which would hur
 and others. For even the demons are held off by the good angels, lest they hurt as much as they
 would. In like manner Antichrist will not do as much harm as he would wish.
 
-<span class="atom-split" data-atom="073" data-title="Whether an angel is appointed to guard a man from his birth?" data-chapter="Whether an angel is appointed to guard a man from his birth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether an angel is appointed to guard a man from his birth?" data-chapter="Whether an angel is appointed to guard a man from his birth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that an angel is not appointed to guard a man from his birth. For
 angels are "sent to minister for them who shall receive the inheritance of salvation," as the Apostle
@@ -3303,7 +3303,7 @@ is part of the tree. And therefore it can be said with some degree of probabilit
 guards the mother guards the child while in the womb. But at its birth, when it becomes separate
 from the mother, an angel guardian is appointed to it; as Jerome, above quoted, says.
 
-<span class="atom-split" data-atom="074" data-title="Whether the angel guardian ever forsakes a man?" data-chapter="Whether the angel guardian ever forsakes a man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether the angel guardian ever forsakes a man?" data-chapter="Whether the angel guardian ever forsakes a man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angel guardian sometimes forsakes the man whom he is
 appointed to guard. For it is said (Jer. 51:9) in the person of the angels: "We would have cured
@@ -3339,7 +3339,7 @@ for that reason forsake him as to the effect of his guardianship: for even when 
 knows what is happening to man; nor does he need time for his local motion, for he can be with
 man in an instant.
 
-<span class="atom-split" data-atom="075" data-title="Whether angels grieve for the ills of those whom they guard?" data-chapter="Whether angels grieve for the ills of those whom they guard?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether angels grieve for the ills of those whom they guard?" data-chapter="Whether angels grieve for the ills of those whom they guard?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that angels grieve for the ills of those whom they guard. For it is
 written (Is. 33:7): "The angels of peace shall weep bitterly." But weeping is a sign of grief and
@@ -3392,7 +3392,7 @@ angel's joy, namely the fulfilment of the ordering of the Divine Providence.
 Reply to Objection 4: The angels are brought into judgment for the sins of men, not as guilty,
 but as witnesses to convict man of weakness.
 
-<span class="atom-split" data-atom="076" data-title="Whether there can be strife or discord among the angels?" data-chapter="Whether there can be strife or discord among the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether there can be strife or discord among the angels?" data-chapter="Whether there can be strife or discord among the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there can be strife or discord among the angels. For it is written
 (Job 25:2): "Who maketh peace in His high places." But strife is opposed to peace. Therefore among
@@ -3430,7 +3430,7 @@ since they are all of one mind as to the fulfilment of the Divine decree; but th
 which they seek knowledge are in opposition.
 From this the answers to the objections are clear.
 
-<span class="atom-split" data-atom="077" data-title="OF THE ASSAULTS OF THE DEMONS (FIVE ARTICLES)" data-chapter="OF THE ASSAULTS OF THE DEMONS (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="OF THE ASSAULTS OF THE DEMONS (FIVE ARTICLES)" data-chapter="OF THE ASSAULTS OF THE DEMONS (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the assaults of the demons. Under this head there are five points of inquiry:
 (1) Whether men are assailed by the demons?
@@ -3439,7 +3439,7 @@ We now consider the assaults of the demons. Under this head there are five point
 (4) Whether they can work real miracles for the purpose of leading men astray?
 (5) Whether the demons who are overcome by men, are hindered from making further assaults?
 
-<span class="atom-split" data-atom="078" data-title="Whether men are assailed by the demons?" data-chapter="Whether men are assailed by the demons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether men are assailed by the demons?" data-chapter="Whether men are assailed by the demons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that men are not assailed by the demons. For angels are sent by
 God to guard man. But demons are not sent by God: for the demons' intention is the loss of souls;
@@ -3483,7 +3483,7 @@ Reply to Objection 3: The assault of the flesh and the world would suffice for t
 human weakness: but it does not suffice for the demon's malice, which makes use of both the above
 in assailing men. But by the Divine ordinance this tends to the glory of the elect.
 
-<span class="atom-split" data-atom="079" data-title="Whether to tempt is proper to the devil?" data-chapter="Whether to tempt is proper to the devil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether to tempt is proper to the devil?" data-chapter="Whether to tempt is proper to the devil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that to tempt is not proper to the devil. For God is said to tempt,
 according to Gn. 22:1, "God tempted Abraham." Moreover man is tempted by the flesh and the
@@ -3531,7 +3531,7 @@ Reply to Objection 3: Although a demon cannot change the will, yet, as stated ab
 A[3]), he can change the inferior powers of man, in a certain degree: by which powers, though the
 will cannot be forced, it can nevertheless be inclined.
 
-<span class="atom-split" data-atom="080" data-title="Whether all sins are due to the temptation of the devil?" data-chapter="Whether all sins are due to the temptation of the devil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether all sins are due to the temptation of the devil?" data-chapter="Whether all sins are due to the temptation of the devil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all sins are due to the temptation of the devil. For Dionysius
 says (Div. Nom. iv) that "the multitude of demons is the cause of all evils, both to themselves and
@@ -3577,7 +3577,7 @@ without the Divine assistance, which is borne to man by the ministry of the ange
 the angels take part in all our good works: whereas all our sins are not due to the demons' instigation.
 Nevertheless there is no kind of sin which is not sometimes due to the demons' suggestion.
 
-<span class="atom-split" data-atom="081" data-title="Whether demons can lead men astray by means of real miracles?" data-chapter="Whether demons can lead men astray by means of real miracles?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether demons can lead men astray by means of real miracles?" data-chapter="Whether demons can lead men astray by means of real miracles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the demons cannot lead men astray by means of real miracles.
 For the activity of the demons will show itself especially in the works of Antichrist. But as the
@@ -3651,7 +3651,7 @@ men do, they do it for a different end and by a different right. The former do i
 the latter, for the glory of God: the former, by certain private compacts; the latter by the evident
 assistance and command of God, to Whom every creature is subject."
 
-<span class="atom-split" data-atom="082" data-title="Whether a demon who is overcome by man, is for this reason hindered from making further assaults?" data-chapter="Whether a demon who is overcome by man, is for this reason hindered from making further assaults?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether a demon who is overcome by man, is for this reason hindered from making further assaults?" data-chapter="Whether a demon who is overcome by man, is for this reason hindered from making further assaults?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a demon who is overcome by a man, is not for that reason
 hindered from any further assault. For Christ overcame the tempter most effectively. Yet afterwards
@@ -3678,7 +3678,7 @@ nevertheless sometimes return to the assault, is apparent from Mat. 12:44: "I wi
 house from whence I came out."
 From what has been said, the objections can easily be solved.
 
-<span class="atom-split" data-atom="083" data-title="OF THE ACTION OF THE CORPOREAL CREATURE (SIX ARTICLES)" data-chapter="OF THE ACTION OF THE CORPOREAL CREATURE (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="OF THE ACTION OF THE CORPOREAL CREATURE (SIX ARTICLES)" data-chapter="OF THE ACTION OF THE CORPOREAL CREATURE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the action of the corporeal creature; and fate, which is ascribed to
 certain bodies. Concerning corporeal actions there are six points of inquiry:
@@ -3690,7 +3690,7 @@ certain bodies. Concerning corporeal actions there are six points of inquiry:
 (6) Whether the heavenly bodies impose necessity on those things which are subject to their
 influence?
 
-<span class="atom-split" data-atom="084" data-title="Whether a body can be active?" data-chapter="Whether a body can be active?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether a body can be active?" data-chapter="Whether a body can be active?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no bodies are active. For [Augustine](/figures/augustine) says (De Civ. Dei v, 9):
 "There are things that are acted upon, but do not act; such are bodies: there is one Who acts but is
@@ -3793,7 +3793,7 @@ its subject in acting, but it is to surpass it in being; unless indeed one were 
 transfers its identical self from the agent to the patient; thus Democritus explained action by an
 issue of atoms.
 
-<span class="atom-split" data-atom="085" data-title="Whether there are any seminal virtues in corporeal matter?" data-chapter="Whether there are any seminal virtues in corporeal matter?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether there are any seminal virtues in corporeal matter?" data-chapter="Whether there are any seminal virtues in corporeal matter?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are no seminal virtues in corporeal matter. For virtue
 [ratio] implies something of a spiritual order. But in corporeal matter nothing exists spiritually, but
@@ -3859,7 +3859,7 @@ any purpose that God commands. But miracles are said to be wrought outside the s
 natural active virtues, and the passive potentialities which are ordered to such active virtues, and
 this is what is meant when we say that they are wrought outside the scope of seminal virtues.
 
-<span class="atom-split" data-atom="086" data-title="Whether the heavenly bodies are the cause of what is produced in bodies here below?" data-chapter="Whether the heavenly bodies are the cause of what is produced in bodies here below?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether the heavenly bodies are the cause of what is produced in bodies here below?" data-chapter="Whether the heavenly bodies are the cause of what is produced in bodies here below?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the heavenly bodies are not the cause of what is produced in
 bodies here below. For Damascene says (De Fide Orth. ii, 7): "We say that they"---namely, the
@@ -3929,7 +3929,7 @@ sometimes into a female. Augustine quotes this as an argument against divination
 the effects of the stars are varied even in corporeal things, according to the various dispositions of
 matter.
 
-<span class="atom-split" data-atom="087" data-title="Whether the heavenly bodies are the cause of human actions?" data-chapter="Whether the heavenly bodies are the cause of human actions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Whether the heavenly bodies are the cause of human actions?" data-chapter="Whether the heavenly bodies are the cause of human actions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the heavenly bodies are the cause of human actions. For since
 the heavenly bodies are moved by spiritual substances, as stated above (Q[110], A[3]), they act by
@@ -3993,7 +3993,7 @@ his passions by his free-will. Wherefore the astrologers themselves are wont to 
 man is stronger than the stars" [*Ptolemy, Centiloquium, prop. 5], forasmuch as, to wit, he conquers
 his passions.
 
-<span class="atom-split" data-atom="088" data-title="Whether heavenly bodies can act on the demons?" data-chapter="Whether heavenly bodies can act on the demons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether heavenly bodies can act on the demons?" data-chapter="Whether heavenly bodies can act on the demons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that heavenly bodies can act on the demons. For the demons,
 according to certain phases of the moon, can harass men, who on that account are called lunatics,
@@ -4051,7 +4051,7 @@ various kinds of stones, herbs, trees, animals, songs, rites, not as an animal i
 as a spirit by signs"; that is to say, forasmuch as these things are offered to them in token of the
 honor due to God, of which they are covetous.
 
-<span class="atom-split" data-atom="089" data-title="Whether heavenly bodies impose necessity on things subject to their action?" data-chapter="Whether heavenly bodies impose necessity on things subject to their action?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether heavenly bodies impose necessity on things subject to their action?" data-chapter="Whether heavenly bodies impose necessity on things subject to their action?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that heavenly bodies impose necessity on things subject to their
 action. For given a sufficient cause, the effect follows of necessity. But heavenly bodies are a
@@ -4119,7 +4119,7 @@ Reply to Objection 3: Although the cause that hinders the effect of another caus
 reduced to a heavenly body as its cause; nevertheless the clashing of two causes, being accidental,
 is not reduced to the causality of a heavenly body, as stated above.
 
-<span class="atom-split" data-atom="090" data-title="ON FATE (FOUR ARTICLES)" data-chapter="ON FATE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="ON FATE (FOUR ARTICLES)" data-chapter="ON FATE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We come now to the consideration of fate. Under this head there are four points of inquiry:
 (1) Is there such a thing as fate?
@@ -4127,7 +4127,7 @@ We come now to the consideration of fate. Under this head there are four points 
 (3) Is it unchangeable?
 (4) Are all things subject to fate?
 
-<span class="atom-split" data-atom="091" data-title="Whether there be such a thing as fate?" data-chapter="Whether there be such a thing as fate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Whether there be such a thing as fate?" data-chapter="Whether there be such a thing as fate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fate is nothing. For Gregory says in a homily for the Epiphany
 (Hom. x in Evang.): "Far be it from the hearts of the faithful to think that fate is anything real."
@@ -4188,7 +4188,7 @@ Reply to Objection 2: Nothing hinders certain things happening by luck or by cha
 compared to their proximate causes: but not if compared to Divine Providence, whereby "nothing
 happens at random in the world," as Augustine says (QQ. 83, qu. 24).
 
-<span class="atom-split" data-atom="092" data-title="Whether fate is in created things?" data-chapter="Whether fate is in created things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether fate is in created things?" data-chapter="Whether fate is in created things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fate is not in created things. For [Augustine](/figures/augustine) says (De Civ. Dei
 v, 1) that the "Divine will or power is called fate." But the Divine will or power is not in creatures,
@@ -4231,7 +4231,7 @@ this order be considered in relation to its principle, it is one; and thus fate 
 considered in relation to its effects, or to the mediate causes, this fate is multiple. In this sense the
 poet wrote: "Thy fate draws thee."
 
-<span class="atom-split" data-atom="093" data-title="Whether fate is unchangeable?" data-chapter="Whether fate is unchangeable?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether fate is unchangeable?" data-chapter="Whether fate is unchangeable?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fate is not unchangeable. For Boethius says (De Consol. iv): "As
 reasoning is to the intellect, as the begotten is to that which is, as time to [eternity](/positions/eternity), as the circle to
@@ -4265,7 +4265,7 @@ shortly afterwards adds---"which, since it is derived from an unchangeable Provi
 itself be unchangeable."
 From this the answers to the objections are clear.
 
-<span class="atom-split" data-atom="094" data-title="Whether all things are subject to fate?" data-chapter="Whether all things are subject to fate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether all things are subject to fate?" data-chapter="Whether all things are subject to fate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that all things are subject to fate. For Boethius says (De Consol. iv):
 "The chain of fate moves the heaven and the stars, tempers the elements to one another, and models
@@ -4304,7 +4304,7 @@ Reply to Objection 3: Although all creatures are in some way changeable, yet som
 do not proceed from changeable created causes. And these, therefore, are not subject to fate, as
 stated above.
 
-<span class="atom-split" data-atom="095" data-title="OF THINGS PERTAINING TO THE ACTION OF MAN (FOUR ARTICLES)" data-chapter="OF THINGS PERTAINING TO THE ACTION OF MAN (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="OF THINGS PERTAINING TO THE ACTION OF MAN (FOUR ARTICLES)" data-chapter="OF THINGS PERTAINING TO THE ACTION OF MAN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have next to consider those things which pertain to the action of man, who is composed of
 a created corporeal and spiritual nature. In the first place we shall consider that action (in general)
@@ -4315,7 +4315,7 @@ of inquiry:
 (3) Whether by the power of his soul man can change corporeal matter?
 (4) Whether the separate soul of man can move bodies by local movement?
 
-<span class="atom-split" data-atom="096" data-title="Whether one man can teach another? (1/2)" data-chapter="Whether one man can teach another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Whether one man can teach another? (1/2)" data-chapter="Whether one man can teach another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one man cannot teach another. For the Lord says (Mat. 22:8):
 "Be not you called Rabbi": on which the gloss of Jerome says, "Lest you give to men the honor
@@ -4417,14 +4417,14 @@ he cause the intelligible species directly: but he moves the disciple by teachin
 by the power of his intellect, forms intelligible concepts, the signs of which are proposed to him
 from without.
 
-<span class="atom-split" data-atom="097" data-title="Whether one man can teach another? (2/2)" data-chapter="Whether one man can teach another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Whether one man can teach another? (2/2)" data-chapter="Whether one man can teach another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The signs proposed by the master to the disciple are of things known
 in a general and confused manner; but not known in detail and distinctly. Therefore when anyone
 acquires knowledge by himself, he cannot be called self-taught, or be said to have his own master
 because perfect knowledge did not precede in him, such as is required in a master.
 
-<span class="atom-split" data-atom="098" data-title="Whether man can teach the angels?" data-chapter="Whether man can teach the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether man can teach the angels?" data-chapter="Whether man can teach the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that men teach angels. For the Apostle says (Eph. 3:10): "That the
 manifold wisdom of God may be made known to the principalities and powers in the heavenly
@@ -4479,7 +4479,7 @@ actually, but virtually; forasmuch as they have such great charity that they can
 of [beatitude](/positions/beatitude) than that possessed by certain angels. In the same way we might say that the seed of
 a great tree is virtually greater than a small tree, though actually it is much smaller.
 
-<span class="atom-split" data-atom="099" data-title="Whether man by the power of his soul can change corporeal matter?" data-chapter="Whether man by the power of his soul can change corporeal matter?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether man by the power of his soul can change corporeal matter?" data-chapter="Whether man by the power of his soul can change corporeal matter?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man by the power of his soul can change corporeal matter.
 For Gregory says (Dialog. ii, 30): "Saints work miracles sometimes by prayer, sometimes by their
@@ -4534,7 +4534,7 @@ with an accompanying corporeal operation. But the apprehension of the human soul
 to work a change in exterior bodies, except by means of a change in the body united to it, as stated
 above (ad 2).
 
-<span class="atom-split" data-atom="100" data-title="Whether the separate human soul can move bodies at least locally?" data-chapter="Whether the separate human soul can move bodies at least locally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether the separate human soul can move bodies at least locally?" data-chapter="Whether the separate human soul can move bodies at least locally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the separate human soul can move bodies at least locally. For a body
 naturally obeys a spiritual substance as to local motion, as stated above (Q[110], A[5]). But the
@@ -4568,7 +4568,7 @@ Matt.) say, the demons often pretend to be the souls of the dead, in order to co
 heathen superstition. It is therefore credible that Simon Magus was deceived by some demon who
 pretended to be the soul of the child whom the magician had slain.
 
-<span class="atom-split" data-atom="101" data-title="OF THE PRODUCTION OF MAN FROM MAN AS TO THE SOUL (THREE ARTICLES)" data-chapter="OF THE PRODUCTION OF MAN FROM MAN AS TO THE SOUL (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="OF THE PRODUCTION OF MAN FROM MAN AS TO THE SOUL (THREE ARTICLES)" data-chapter="OF THE PRODUCTION OF MAN FROM MAN AS TO THE SOUL (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the production of man from man: first, as to the soul; secondly, as to the body.
 Under the first head there are three points of inquiry:
@@ -4576,7 +4576,7 @@ Under the first head there are three points of inquiry:
 (2) Whether the intellectual soul is thus transmitted?
 (3) Whether all souls were created at the same time?
 
-<span class="atom-split" data-atom="102" data-title="Whether the sensitive soul is transmitted with the semen?" data-chapter="Whether the sensitive soul is transmitted with the semen?" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="Whether the sensitive soul is transmitted with the semen?" data-chapter="Whether the sensitive soul is transmitted with the semen?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sensitive soul is not transmitted with the semen, but created
 by God. For every perfect substance, not composed of matter and form, that begins to exist, acquires
@@ -4675,7 +4675,7 @@ the semen is dissolved and the (vital) spirit thereof vanishes. Nor is there any
 in this, because this force is not the principal but the instrumental agent; and the movement of an
 instrument ceases when once the effect has been produced.
 
-<span class="atom-split" data-atom="103" data-title="Whether the intellectual soul is produced from the semen?" data-chapter="Whether the intellectual soul is produced from the semen?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether the intellectual soul is produced from the semen?" data-chapter="Whether the intellectual soul is produced from the semen?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual soul is produced from the semen. For it is
 written (Gn. 46:26): "All the souls that came out of [Jacob's] thigh, sixty-six." But nothing is
@@ -4776,7 +4776,7 @@ disposed for the reception of a certain species of form.
 Reply to Objection 5: In the action of the adulterer, what is of nature is good; in this God
 concurs. But what there is of inordinate lust is evil; in this God does not concur.
 
-<span class="atom-split" data-atom="104" data-title="Whether human souls were created together at the beginning of the world?" data-chapter="Whether human souls were created together at the beginning of the world?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether human souls were created together at the beginning of the world?" data-chapter="Whether human souls were created together at the beginning of the world?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that human souls were created together at the beginning of the
 world. For it is written (Gn. 2:2): "God rested Him from all His work which He had done." This
@@ -4840,7 +4840,7 @@ body, which was a result of sin. Consequently it was not fitting that God should
 without the body from the beginning: for as it is written (Wis. 1:13,16): "God made not death . . .
 but the wicked with works and words have called it to them."
 
-<span class="atom-split" data-atom="105" data-title="OF THE PROPAGATION OF MAN AS TO THE BODY (TWO ARTICLES)" data-chapter="OF THE PROPAGATION OF MAN AS TO THE BODY (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="OF THE PROPAGATION OF MAN AS TO THE BODY (TWO ARTICLES)" data-chapter="OF THE PROPAGATION OF MAN AS TO THE BODY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the propagation of man, as to the body. Concerning this there are two points
 of inquiry:
@@ -4848,7 +4848,7 @@ of inquiry:
 (2) Whether the semen, which is the principle of human generation, is produced from the surplus
 food?
 
-<span class="atom-split" data-atom="106" data-title="Whether some part of the food is changed into true human nature? (1/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Whether some part of the food is changed into true human nature? (1/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that none of the food is changed into true [human nature](/axes/human_nature). For it is
 written (Mat. 15:17): "Whatsoever entereth into the mouth, goeth into the belly, and is cast out into
@@ -4880,7 +4880,7 @@ On the contrary, [Augustine](/figures/augustine) says (De Vera Relig. xi): "The 
 is, having lost its form, is changed into the texture of the members." But the texture of the members
 belongs to true human nature. Therefore the food is changed into the reality of human nature.
 
-<span class="atom-split" data-atom="107" data-title="Whether some part of the food is changed into true human nature? (2/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether some part of the food is changed into true human nature? (2/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, According to the Philosopher (Metaph. ii), "The relation of a thing to truth is
 the same as its relation to being." Therefore that belongs to the true nature of any thing which enters
@@ -4962,7 +4962,7 @@ but "all"---because something from every kind of food is cast out into the privy
 that whatever is generated from food, can be dissolved by natural heat, and be cast aside through
 the pores, as Jerome expounds the passage.
 
-<span class="atom-split" data-atom="108" data-title="Whether some part of the food is changed into true human nature? (3/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Whether some part of the food is changed into true human nature? (3/3)" data-chapter="Whether some part of the food is changed into true human nature?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: By flesh belonging to the species, some have understood that which
 first receives the human species, which is derived from the begetter: this, they say, lasts as long as
@@ -5008,7 +5008,7 @@ consumed, the same identical fire will remain all the time: because that which i
 what pre-existed. It is the same with living bodies, in which by means of nourishment that is renewed
 which was consumed by natural heat.
 
-<span class="atom-split" data-atom="109" data-title="Whether the semen is produced from surplus food?" data-chapter="Whether the semen is produced from surplus food?" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Whether the semen is produced from surplus food?" data-chapter="Whether the semen is produced from surplus food?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the semen is not produced from the surplus food, but from the
 substance of the begetter. For Damascene says (De Fide Orth. i, 8) that "generation is a work of

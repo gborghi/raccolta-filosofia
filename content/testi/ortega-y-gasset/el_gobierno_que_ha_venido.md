@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_gobierno_que_ha_venido" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El gobierno que ha venido" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El gobierno que ha venido" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El Gobierno del señor Dato se fue porque creía que se debía anteponer la discusión de las reformas militares a la discusión de los presupuestos y proyectos económicos. El Gobierno del conde de Romanones ha venido porque creía que se debía anteponer la discusión de los presupuestos y proyectos económicos a la discusión de las reformas militares. El resultado es que no se discuten ni los presupuestos, ni los proyectos económicos, ni las reformas militares. Las Cortes serán disueltas y un nuevo entreacto comienza, una nueva dilación, un nuevo período que un nuevo gobierno dedicará a ir ahorcando días hasta que llegue el de las calendas griegas.
 

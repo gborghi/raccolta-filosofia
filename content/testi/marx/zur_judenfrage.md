@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/marx/zur_judenfrage" data-philosopher="Marx"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Zur Judenfrage" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Zur Judenfrage" data-chapter="(apertura)" data-kind="intro" data-srclang="de"></span>
 
 Geschrieben August bis Dezember 1843.
 
@@ -27,7 +27,7 @@ Geschrieben August bis Dezember 1843.
 
 Bruno Bauer: "Die Fähigkeit der heutigen Juden und Christen, frei zu werden". "Einundzwanzig Bogen aus der Schweiz". Herausgegeben von Georg Herwegh. Zürich und Winterthur, 1843, 5.56-71.
 
-<span class="atom-split" data-atom="002" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (1/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (1/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom" data-srclang="de"></span>
 
 Die deutschen Juden begehren die Emanzipation. Welche Emanzipation begehren sie? Die staatsbürgerliche, die politische Emanzipation.
 
@@ -75,7 +75,7 @@ An diesem Punkt tritt die einseitige Fassung der Judenfrage hervor.
 
 Es genügte keineswegs zu untersuchen: Wer soll emanzipieren? Wer soll emanzipiert werden? Die Kritik hatte ein Drittes zu tun. Sie mußte fragen: Von welcher Art der Emanzipation handelt es sich? Welche Bedingungen sind im Wesen der verlangten Emanzipation begründet? Die Kritik der politischen Emanzipation selbst war erst die schließliche Kritik der Judenfrage und ihre wahre Auflösung in die "allgemeine Frage der [Zeit](/concepts/time)".
 
-<span class="atom-split" data-atom="003" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (2/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (2/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom" data-srclang="de"></span>
 
 Weil Bauer die Frage nicht auf diese Höhe erhebt, verfällt er in Widersprüche. Er stellt Bedingungen, die nicht im Wesen der politischen Emanzipation selbst begründet sind. Er wirft Fragen auf, welche seine Aufgabe nicht enthält, und er löst Aufgaben, welche seine Frage unerledigt lassen. Wenn Bauer von den Gegnern der Judenemanzipation sagt: "Ihr Fehler war nur der, daß sie den christlichen [Staat](/concepts/state) als den einzig wahren voraussetzten und nicht derselben Kritik unterwarfen, mit der sie das Judentum betrachteten" (p. 3), so finden wir Bauers Fehler darin, daß er nur den "christlichen Staat", nicht den "Staat schlechthin" der Kritik unterwirft, daß er das Verhältnis der politischen Emanzipation zur menschlichen Emanzipation nicht untersucht und daher Bedingungen stellt, welche nur aus einer unkritischen Verwechslung der politischen Emanzipation mit der allgemein menschlichen erklärlich sind. Wenn Bauer die Juden fragt: Habt ihr von eurem Standpunkt aus das Recht, die politische Emanzipation zu begehren? so fragen wir umgekehrt: Hat der Standpunkt der politischen Emanzipation das Recht, vom Juden die [Aufhebung](/positions/dialectic) des Judentums, vom Menschen überhaupt die Aufhebung der Religion zu verlangen?
 
@@ -103,7 +103,7 @@ Aber das Verhalten des Staats zur Religion, namentlich des Freistaats, ist doch 
 
 Die politische Erhebung des Menschen über die Religion teilt alle Mängel und alle Vorzüge der politischen Erhebung überhaupt. Der Staat als Staat annulliert z.B. das Privateigentum, der Mensch erklärt auf politische Weise das Privateigentum für aufgehoben, sobald er den Zensus für aktive und passive Wählbarkeit aufhebt, wie dies in vielen nordamerikanischen Staaten geschehen ist. Hamilton interpretiert dies Faktum von politischem Standpunkte ganz richtig dahin: "Der große Haufen hat den Sieg über die Eigentümer und den Geldreichtum davongetragen." Ist das Privateigentum nicht ideell aufgehoben, wenn der Nichtbesitzende zum Gesetzgeber des Besitzenden geworden ist? Der Zensus ist die letzte politische Form, das Privateigentum anzuerkennen.
 
-<span class="atom-split" data-atom="004" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (3/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (3/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom" data-srclang="de"></span>
 
 Dennoch ist mit der politischen Annullation des Privateigentums das Privateigentum nicht nur nicht aufgehoben, sondern sogar vorausgesetzt. Der [Staat](/concepts/state) hebt den Unterschied der Geburt, des Standes, der [Bildung](/concepts/education), der Beschäftigung in seiner Weise auf, wenn er Geburt, Stand, Bildung, Beschäftigung für unpolitische Unterschiede erklärt, wenn er ohne Rücksicht auf diese Unterschiede jedes Glied des Volkes zum gleichmäßigen Teilnehmer der Volkssouveränität ausruft, wenn er alle Elemente des wirklichen Volkslebens von dem Staatsgesichtspunkt aus behandelt. Nichtsdestoweniger läßt der Staat das Privateigentum, die Bildung, die Beschäftigung auf ihre Weise, d.h. als Privateigentum, als Bildung, als Beschäftigung wirken und ihr besondres Wesen geltend machen. Weit entfernt, diese faktischen Unterschiede aufzuheben, existiert er vielmehr nur unter ihrer Voraussetzung, empfindet er sich als politischer Staat und macht er seine Allgemeinheit geltend nur im Gegensatz zu diesen seinen Elementen. Hegel bestimmt das Verhältnis des politischen Staats zur Religion daher ganz richtig, wenn er sagt:
 
@@ -129,7 +129,7 @@ Die Zersetzung des Menschen in den Juden und in den Staatsbürger, in den Protes
 
 Ja, nicht der sogenannte christliche Staat, der das Christenturn als seine Grundlage, als Staatsreligion bekennt und sich daher ausschließend zu andern Religionen verhält, ist der vollendete christliche Staat, sondern vielmehr der atheistische Staat, der demokratische Staat, der Staat, der die Religion unter die übrigen Elemente der bürgerlichen Gesellschaft verweist. Dem Staat, der noch Theologe ist, der noch das Glaubensbekenntnis des Christentums auf offizielle Weise ablegt, der sich noch nicht als Staat zu proklamieren wagt, ihm ist es noch nicht gelungen, in weltlicher, menschlicher Form, in seiner Wirklichkeit als Staat die menschliche Grundlage auszudrücken, deren überschwenglicher Ausdruck das Christentum ist. Der sogenannte christliche Staat ist nur einfach der Nichtstaat, weil nicht das Christentum als Religion, sondern nur der menschliche Hintergrund der christlichen Religion in wirklich menschlichen Schöpfungen sich ausführen kann.
 
-<span class="atom-split" data-atom="005" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (4/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (4/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom" data-srclang="de"></span>
 
 Der sogenannte christliche [Staat](/concepts/state) ist die christliche Verneinung des Staats, aber keineswegs die staatliche Verwirklichung des Christentums. Der Staat, der das Christentum noch in der Form der Religion bekennt, bekennt es noch nicht in der Form des Staats, denn er verhält sich noch religiös zu der Religion, d.h., er ist nicht die wirkliche Ausführung des menschlichen Grundes der Religion, weil er noch auf die Unwirklichkeit, auf die imaginäre Gestalt dieses menschlichen Kernes provoziert. Der sogenannte christliche Staat ist der unvollkommene Staat, und die christliche Religion gilt ihm als Ergänzung und als Heiligung seiner Unvollkommenheit. Die Religion wird ihm daher notwendig zum Mittel, und er ist der Staat der Heuchelei. Es ist ein großer Unterschied, ob der vollendete Staat wegen des Mangels, der im allgemeinen Wesen des Staats liegt, die Religion unter seine Voraussetzungen zählt, oder ob der unvollendete Staat wegen des Mangels, der in seiner besondern Existenz liegt, als mangelhafter Staat, die Religion für seine Grundlage erklärt. Im letztem Fall wird die Religion zur unvollkommenen Politik. Im ersten Fall zeigt sich die Unvollkommenheit selbst der vollendeten Politik in der Religion. Der sogenannte christliche Staat bedarf der christlichen Religion, um sich als Staat zu vervollständigen. Der demokratische Staat, der wirkliche Staat, bedarf nicht der Religion zu seiner politischen Vervollständigung. Er kann vielmehr von der Religion abstrahieren, weil in ihm die menschliche Grundlage der Religion auf weltliche Weise ausgeführt ist. Der sogenannte christliche Staat verhält sich dagegen politisch zur Religion und religiös zur Politik. Wenn er die Staatsformen zum Schein herabsetzt, so setzt er ebensosehr die Religion zum Schein herab.
 
@@ -157,7 +157,7 @@ Das religiöse und theologische Bewußtsein selbst gilt sich in der vollendeten 
 
 Wir haben also gezeigt: Die politische Emanzipation von der Religion läßt die Religion bestehn, wenn auch keine privilegierte Religion. Der Widerspruch, in welchem sich der Anhänger einer besondern Religion mit seinem Staatsbürgertum befindet, ist nur ein Teil des allgemeinen weltlichen Widerspruchs zwischen dem politischen Staat und der bürgerlichen Gesellschaft. Die Vollendung des christlichen Staats ist der Staat, der sich als Staat bekennt und von der Religion seiner Glieder abstrahiert. Die Emanzipation des Staats von der Religion ist nicht die Emanzipation des wirklichen Menschen von der Religion.
 
-<span class="atom-split" data-atom="006" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (5/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (5/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom" data-srclang="de"></span>
 
 Wir sagen also nicht mit Bauer den Juden: Ihr könnt nicht politisch emanzipiert werden, ohne euch radikal vom Judentum zu emanzipieren. Wir sagen ihnen vielmehr: Weil ihr politisch emanzipiert werden könnt, ohne euch vollständig und widerspruchslos vom Judentum loszusagen, darum ist die politische Emanzipation selbst nicht die menschliche Emanzipation. Wenn ihr Juden politisch emanzipiert werden wollt, ohne euch selbst menschlich zu emanzipieren, so liegt die Halbheit und der Widerspruch nicht nur in euch, sie liegt, in dem Wesen und der Kategorie der politischen Emanzipation, Wenn ihr in dieser Kategorie befangen seid, so teilt ihr eine allgemeine Befangenheit. Wie der [Staat](/concepts/state) evangelisiert, wenn er, obschon Staat, sich christlich zu dem Juden verhält, so politisiert der Jude, wenn er, obschon Jude, Staatsbürgerrechte verlangt.
 
@@ -223,7 +223,7 @@ Article 16. (Constitution de 1793): "Le droit de propriété est celui qui appar
 
 Das Menschenrecht des Privateigentums ist also das Recht, willkürlich (à son gré), ohne Beziehung auf andre Menschen, unabhängig von der Gesellschaft, sein Vermögen zu genießen und über dasselbe zu disponieren, das Recht des Eigennutzes. Jene individuelle Freiheit, wie diese Nutzanwendung derselben, bilden die Grundlage der bürgerlichen Gesellschaft. Sie läßt jeden Menschen im andern Menschen nicht die Verwirklichung, sondern vielmehr die Schranke seiner Freiheit finden. Sie proklamiert vor allem aber das Menschenrecht,
 
-<span class="atom-split" data-atom="007" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (6/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (6/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom" data-srclang="de"></span>
 
 "de jouir et de disposer à son gré de ses biens, de ses revenus, du fruit de son travail et de son industrie".
 
@@ -271,7 +271,7 @@ Die Freiheit des egoistischen Menschen und die [Anerkennung](/concepts/recogniti
 
 Der Mensch wurde daher nicht von der Religion befreit, er erhielt die Religionsfreiheit. Er wurde nicht vom Eigentum befreit. Er erhielt die Freiheit des Eigentums. Er wurde nicht von dem Egoismus des Gewerbes befreit, er erhielt die Gewerbefreiheit.
 
-<span class="atom-split" data-atom="008" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (7/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843 (7/7)" data-chapter="I. Bruno Bauer: Die Judenfrage. Braunschweig 1843" data-kind="atom" data-srclang="de"></span>
 
 Die Konstitution des politischen Staats und die Auflösung der bürgerlichen Gesellschaft in die unabhängigen Individuen - deren Verhältnis das Recht ist, wie das Verhältnis der Standes- und Innungsmenschen das Privilegium war - vollzieht sich in einem und demselben Akte. Der Mensch, wie er Mitglied der bürgerlichen Gesellschaft ist, der unpolitische Mensch, erscheint aber notwendig als der natürliche Mensch. Die droits de l'homme erscheinen als droits naturels »natürliche Rechte«, denn die selbstbewußte Tätigkeit konzentriert sich auf den politischen Akt. Der egoistische Mensch ist das passive, nur vorgefundne Resultat der aufgelösten Gesellschaft, Gegenstand der unmittelbaren Gewißheit, also natürlicher Gegenstand. Die politische [Revolution](/positions/revolution) löst das bürgerliche Leben in seine Bestandteile auf, ohne diese Bestandteile selbst zu revolutionieren und der Kritik zu unterwerfen. Sie verhält sich zur bürgerlichen Gesellschaft, zur Welt der Bedürfnisse, der [Arbeit](/concepts/labour), der Privatinteressen, des Privatrechts, als zur Grundlage ihres Bestehns, als zu einer nicht weiter begründeten Voraussetzung, daher als zu ihrer Naturbasis. Endlich gilt der Mensch, wie er Mitglied der bürgerlichen Gesellschaft ist, für den eigentlichen Menschen, für den homme im Unterschied von dem citoyen, weil er der Mensch in seiner sinnlichen individuellen nächsten Existenz ist, während der politische Mensch nur der abstrahierte, künstliche Mensch ist, der Mensch als eine allegorische, moralische Person. Der wirkliche Mensch ist erst in der Gestalt des egoistischen Individuums, der wahre Mensch erst in der Gestalt des abstrakten citoyen anerkannt.
 
@@ -287,7 +287,7 @@ Die politische Emanzipation ist die Reduktion des Menschen, einerseits auf das M
 
 Erst wenn der wirkliche individuelle Mensch den abstrakten Staatsbürger in sich zurücknimmt und als individueller Mensch in seinem empirischen Leben, in seiner individuellen Arbeit, in seinen individuellen Verhältnissen, Gattungswesen geworden ist, erst wenn der Mensch seine "forces propres" »"eigene Kräfte"« als gesellschaftliche Kräfte erkannt und organisiert hat und daher die gesellschaftliche Kraft nicht mehr in der Gestalt der politischen Kraft von sich trennt, erst dann ist die menschliche Emanzipation vollbracht.
 
-<span class="atom-split" data-atom="009" data-title="II. Die Fähigkeit der heutigen Juden und Christen, frei zu werden. (1/2)" data-chapter="II. Die Fähigkeit der heutigen Juden und Christen, frei zu werden." data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="II. Die Fähigkeit der heutigen Juden und Christen, frei zu werden. (1/2)" data-chapter="II. Die Fähigkeit der heutigen Juden und Christen, frei zu werden." data-kind="atom" data-srclang="de"></span>
 
 Von [Bruno Bauer](/figures/bauer). ("Einundzwanzig Bogen", pag. 56-71.)
 
@@ -361,7 +361,7 @@ Welches war an und für sich die Grundlage der jüdischen Religion? Das praktisc
 
 Der Monotheismus des Juden ist daher in der Wirklichkeit der Polytheismus der vielen Bedürfnisse, ein Polytheismus, der auch den Abtritt zu einem Gegenstand des göttlichen Gesetzes macht. Das praktische Bedürfnis, der Egoismus ist das Prinzip der bürgerlichen Gesellschaft und tritt rein als solches hervor, sobald die bürgerliche Gesellschaft den politischen Staat vollständig aus sich herausgeboren. Der Gott des praktischen Bedürfnisses und Eigennutzes ist das Geld.
 
-<span class="atom-split" data-atom="010" data-title="II. Die Fähigkeit der heutigen Juden und Christen, frei zu werden. (2/2)" data-chapter="II. Die Fähigkeit der heutigen Juden und Christen, frei zu werden." data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="II. Die Fähigkeit der heutigen Juden und Christen, frei zu werden. (2/2)" data-chapter="II. Die Fähigkeit der heutigen Juden und Christen, frei zu werden." data-kind="atom" data-srclang="de"></span>
 
 Das [Geld](/concepts/money) ist der eifrige Gott Israels, vor welchem kein andrer Gott bestehen darf. Das Geld erniedrigt alle Götter des Menschen - und verwandelt sie in eine [Ware](/concepts/commodity). Das Geld ist der allgemeine, für sich selbst konstituierte Wert aller Dinge. Es hat daher die ganze Weit, die Menschenwelt wie die [Natur](/concepts/nature), ihres eigentümlichen Wertes beraubt. Das Geld ist das dem Menschen entfremdete Wesen seiner [Arbeit](/concepts/labour) und seines Daseins, und dies fremde Wesen beherrscht ihn, und er betet es an.
 

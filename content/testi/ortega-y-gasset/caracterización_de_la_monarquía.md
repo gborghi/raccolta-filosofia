@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/caracterización_de_la_monarquía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Caracterización de la monarquía" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Caracterización de la monarquía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 España, es decir, el país entre todos los conocidos donde el Poder público una vez afirmado tiene mayor influjo, tiene un influjo incontrastable porque, desgraciadamente, nuestra espontaneidad social ha sido siempre increíblemente débil frente a él. Pues bien; la monarquía era una sociedad de socorros mutuos que habían formado unos cuantos grupos para usar del Poder público, es decir, de lo decisivo en España. Esos grupos representaban una porción mínima de la nación; eran los grandes capitales, la alta jerarquía del Ejército, la aristocracia de sangre, la Iglesia.
 

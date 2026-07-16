@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/democracia_morbosa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Democracia morbosa" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Democracia morbosa" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Las cosas buenas que por el mundo acontecen obtienen en España sólo un pálido reflejo. En cambio, las malas repercuten con increíble eficacia y adquieren entre nosotros mayor intensidad que en parte alguna.
 
@@ -54,7 +54,7 @@ La época en que la democracia era un sentimiento saludable y de impulso ascende
 
 A Nietzsche debemos el descubrimiento del mecanismo que funciona en la conciencia pública degenerada: le llamó [Ressentiment](/concepts/ressentiment). Cuando un hombre se siente a sí mismo inferior por carecer de ciertas calidades —inteligencia o valor o elegancia— procura indirectamente afirmarse ante su propia vista negando la excelencia de esas cualidades. Como ha indicado finamente un glosador de Nietzsche, no se trata del caso de la zorra y las uvas. La zorra sigue estimando como lo mejor la madurez en el fruto, y se contenta con negar esa estimable condición de las uvas demasiado altas. El «resentido» va más allá: odia la madurez y prefiere lo agraz. Es la total inversión de los valores: lo superior, precisamente por serlo, padece una «capitis diminutio», y en su lugar triunfa lo inferior.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El hombre del pueblo suele o solía tener una sana capacidad admirativa. Cuando veía pasar una duquesa en su carroza se extasiaba, y le era grato cavar la tierra de un planeta donde se ven, por veces, tan lindos espectáculos transeúntes. Admira y goza el lujo, la prestancia, la belleza, como admiramos los oros y los rubíes con que solemniza su ocaso el Sol moribundo. ¿Quién es capaz de envidiar el áureo lujo del atardecer? El hombre del pueblo no se despreciaba a sí mismo: se sabía distinto y menor que la clase noble; pero no mordía su pecho el venenoso «resentimiento». En los comienzos de la Revolución francesa una carbonera decía a una marquesa: «Señora, ahora las cosas van a andar al revés: yo iré en silla de manos y la señora llevará el carbón». Un abogadete «resentido» de los que hostigaban al pueblo hacia la revolución, hubiera corregido: «No, ciudadana: ahora vamos a ser todos carboneros».
 

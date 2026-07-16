@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pensar_en_grande" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[Pensar en grande]" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="[Pensar en grande]" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Veo que estos días los periódicos entran en erupción a beneficio de supuestos proyectos políticos míos. Periodista de toda la vida, mejor aún, de toda la vida de varias generaciones por uno y otro lado familiar, he solicitado siempre de mis compañeros el natural trato de favor, que para mí consiste en evitar todo lo posible la impresión de mi nombre. Durante muchos años lo he logrado; pero desde el advenimiento de la República, y con el pretexto de modestísimas intervenciones mías en la vida pública, veo con frecuencia aterradora transitar mi persona por las columnas periodísticas. Yo preferiría que se me dejase como hasta aquí, en la discreta penumbra correspondiente a quien no es uno de estos personajes políticos tremebundos, a quienes se sorprende siempre con todas las cuestiones resueltas, seguros de sí mismos y capaces de tragarse el Universo.
 

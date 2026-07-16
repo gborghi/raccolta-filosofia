@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_espectador_ii_1917" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="EL ESPECTADOR II (1917)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="EL ESPECTADOR II (1917)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 (1917)
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_arte_en_presente_y_en_pretérito" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El arte en presente y en pretérito" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El arte en presente y en pretérito" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -46,7 +46,7 @@ Pero se dirá que el pasado artístico no pasa, que el arte es eterno… Sí, es
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Se habla a menudo de la eternidad de la obra de arte. Si con ello se quisiera decir que crearla y gozarla incluye la aspiración a que su valor sea eterno, no habría reparo que poner. Pero el hecho es que la obra de arte envejece y se pudre antes como valor estético que como realidad material. Acontece lo mismo que en los amores. Todo amor jura en un cierto momento su propia eternidad. Pero ese momento, con su eternidad aspirada, transcurre; le vemos caer en el torrente del tiempo, agitar sus manos de náufrago, ahogarse en el pasado. Porque esto es el pasado: un naufragio, una sumersión en lo profundo. Los chinos, al morir le llaman «correr al río». El presente es un haz sin espesor apenas. Lo hondo es el pasado hecho con presentes innumerables, unos sobre otros, comprimidos. Delicadamente, los griegos al morir llamaban «irse con los más».
 
@@ -70,7 +70,7 @@ Sería insuficiente oponer a lo dicho la observación de que en la antigua pintu
 
 Y, en efecto, literatura o filosofía son cosas muy diferentes de la plástica; pero las tres son irremisiblemente espíritu y se hallan sumidas en las complicaciones de éste. Es, pues, vano ese intento de hacerse las cosas más sencillas y manejables a medida de la propia simplicidad. No hay pura retina, no hay valores plásticos absolutos. Todos ellos pertenecen a algún estilo, son relativos a él, y un estilo es el fruto de un sistema de convenciones vivas. Pero, en todo [caso](/concepts/fortune), esos valores de supuesta vigencia actual son mínimas parcelas de la obra antigua que violentamente desencajamos del resto, para afirmarlas solas, relegando lo demás. Sería interesante que con alguna sinceridad se subrayase lo que de uno de esos cuadros famosos parece belleza intacta y perviviente. La escasez de lo acotado contrastaría tan crudamente con la fama de la obra, que sería el mejor modo de darme la razón.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Si merece algo la pena de haber nacido en esta época nuestra, tan áspera e insegura, es precisamente porque se inicia en Europa la aspiración a vivir sin frases, mejor dicho, a no vivir de frases. Eso de que el arte es eterno y la retahíla de los cien mejores libros, las cien mejores pinturas, etcétera, son cosas para el buen tiempo viejo, cuando los burgueses creían su deber ocuparse de arte y de letras. Ahora que se va viendo hasta qué punto el arte no es cosa «seria», sino, más bien, un fino juego exento de patetismo y solemnidad, a que sólo deben dedicarse los verdaderamente aficionados, los que se complacen en sus peripecias y dificultades superfluas y se someten al pulcro cumplimiento de sus reglas, la monserga de que el arte es eterno no puede satisfacer ni aclarar nada. La eternidad del arte no es una sentencia firme a que quepa acogerse; es, sencillamente, un sutilísimo problema. Dejemos que los sacerdotes, no muy seguros de la existencia de sus dioses, los envuelvan en la calígine pavorosa de los grandes epítetos patéticos. El arte no necesita nada de eso, sino mediodía, tiempo claro, conversación transparente, precisión y un poco de buen humor.
 

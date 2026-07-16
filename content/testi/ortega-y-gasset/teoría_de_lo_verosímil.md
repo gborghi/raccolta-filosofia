@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/teoría_de_lo_verosímil" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Teoría de lo verosímil" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Teoría de lo verosímil" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -60,7 +60,7 @@ Pero esta dualidad es imposible; los centauros tenían que decidirse por un terc
 
 II
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Delante del Hombre con la mano al pecho, que pintó el Greco, nos preguntamos si aquella romántica figura que parece irse quemando de dentro afuera, consumida por un corazón incandescente, es una verdad o una mentira. La humana presunción que el lienzo nos ofrece desvíase de todas las leyes de la antropología, y tras el cráneo aquel, fingido en una superficie, podemos suponer solamente una psique imaginaria. Sin embargo, estamos muy ciertos de que nos sentimos en la presencia de un español; más aún, aquellas sombras y colores, aquella lividez exaltada nos dan una realidad que expresamos con la palabra españolismo —mucho más cierta y plenaria que cuantos españoles hemos visto y tratado en verdad.
 
@@ -96,7 +96,7 @@ Esa variedad es sorprendente; pero aun más que sorprendente es dolorosa: esa va
 
 Hay un término en Platón y en alguno de sus sucesores muy poco estudiado todavía, y capaz, en mi opinión, de un fecundo desarrollo; me refiero a la palabra que para ellos definía la vida: pleonexia, es decir, aumento, henchimiento. Vivir es crecer ilimitadamente; cada vida es un ensayo de expansión hasta el [infinito](/concepts/infinity). El límite nos es impuesto; es una resistencia que nos opone otra vida que a nuestro lado, e incitada por análoga energía, ensaya su acaparamiento del universo. Cada cosa —afirma Spinoza— aspira a perseverar en su ser. No, no; la fórmula no es suficiente; cada cosa viva aspira a ser todas las demás. La biología exige que instituyamos la categoría del henchimiento. Dios, inmutable, perseverando en su ser hasta el fin de los tiempos, es un objeto teológico; la biología comienza con la historia natural de Luzbel, la bestia del empíreo que aspiró a ser Dios.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Hace veintiséis siglos que Anaximandro enseñaba a los marineros de Mileto la doctrina de que el límite es un gran castigo impuesto por una severísima justicia. Nos limitamos los unos a los otros; nos distinguimos, nos diferenciamos, y, como advierte Stendhal, diferencia engendra odio; somos progenie del odio y de la enemistad. Homines ex [natura](/concepts/nature) hostes. De aquí que la labor filosófica por excelencia sea buscar tras esas crueles diferencias y limitaciones una sustancia colectiva, homogénea e idéntica. El magno deber del sabio, historiador o moralista, es intentar la reconstrucción de la unidad fundamental, es ir adobando, tras de la variedad de los hombres, la unidad humana.
 
@@ -130,7 +130,7 @@ La certeza de lo verosímil es, por el contrario, una aquiescencia sentimental. 
 
 Las pragmáticas que dicta el sentimiento no son susceptibles de análisis: son simples revelaciones. Por eso, la coincidencia de varios hombres al reconocer una verosimilitud revela en ellos una misma constitución sentimental, un mismo régimen afectivo. Cuando ante un cuadro del Greco experimentamos la misma certidumbre, averiguamos nuestra identidad radical.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Se advierte la significación metafísica del arte y de los mitos, en una palabra, de la verosimilitud? Es la pedagogía de la unidad humana: ella nos enseña la comunidad radical de los hombres y nos amonesta a la labor común. Cada generación se reconoce una al admirar su poeta favorito: cada pueblo comunica, es decir, comulga en una obra de arte, en una leyenda. Admirar es encontrarme de nuevo, declara Renan; pudo añadir que es encontrarse transubstanciado en otros, que es hallarse formado de una esencia colectiva y difusa. Los círculos de compenetración se ensanchan poco a poco. En el siglo XVIII un francés no lograba asimilarse la pasión acre de Shakespeare; hoy podemos sentir el corazón de Julieta estremeciéndose en el cuerpo de porcelana de una japonesa. Y los clásicos, productos inconmensurables de la cultura, que persisten al través de los tiempos y de las variaciones étnicas, sin que amengüe su capacidad de emocionar, ¿qué son sino testimonio de la unidad ideal del hombre? En ellos comulga la humanidad y son de aquellos hilos tendidos entre las almas, los más firmes y largos que engarzan los pueblos y las generaciones, y ordenándolos en [sublime](/concepts/sublime) corona mística, los pone a ceñir las sienes del Gran Artífice, del Promotor del Bien. ¡Genios clásicos, fisonomías incomparables, tejedores de humanidad, vosotros vais labrando la gran paz del universo, vais construyendo, más allá de toda frivolidad inquieta, la trastierra de la cultura, donde un día los hombres reunidos en la espléndida democracia del ideal, serán justos, veraces y poetas! ¡Afán divino, oficio santo, labor eucarística!
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/todo_es_posible_en_españa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Todo es posible en España" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Todo es posible en España" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor Dato es tan exangüe, que no se ha sonrojado al firmar la nueva Real orden en pro de una Prensa contra otra. Se le ha hecho ver en pleno Consejo de ministros que jurídicamente era una ilegalidad, un estupro de la Constitución, y que moralmente era una iniquidad, la mayor imaginable dentro de las sociedades actuales, puesto que vende a unos pocos el poder del Estado, que existe precisamente por ser de todos. El negocio que el señor Dato quiere hacer me parece, sin embargo, algo mejor que el de Judas. Aquél se contentó con treinta pobres dineros, al paso que el jefe liberal-conservador, por trece mil centímetros de papel, allana el camino para obtener los cientos de millones que importa el aumento en las tarifas ferroviarias y procura organizarse una cuadrilla con que asaltar en octubre el Palacio real y sustraer el decreto de disolución.
 

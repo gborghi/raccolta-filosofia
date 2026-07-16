@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/résumé_de_la_querelle" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="RÉSUMÉ DE LA QUERELLE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="RÉSUMÉ DE LA QUERELLE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Résumé de la querelle
 
@@ -42,7 +42,7 @@ Mais c'est trop raisonner d'après des suppositions chimériques. Si l'on m'accu
 
 Je suivrai pour cela, selon ma coutume, la méthode simple et facile qui convient à la vérité. J'établirai de nouveau l'état de la question ; j'exposerai de nouveau mon sentiment, et j'attendrai que, sur cet exposé, on veuille me montrer en quoi mes actions démentent mes discours. Mes adversaires, de leur côté, n'auront garde de demeurer sans réponse, eux qui possèdent l'art merveilleux de disputer pour et contre sur toutes sortes de sujets. Ils commenceront, selon leur coutume, par établir une autre question à leur fantaisie ; ils me la feront résoudre comme il leur conviendra. Pour m'attaquer plus commodément, ils me feront raisonner, non à ma manière, mais à la leur : ils détourneront habilement les yeux du lecteur de l'objet essentiel, pour les fixer à droite à gauche. Ils combattront un fantôme, et prétendront m'avoir vaincu ; mais j'aurai fait ce que je dois faire, et je commence.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 « La science n'est bonne à rien, et ne fait jamais que du mal ; car elle est mauvaise par sa nature. Elle n'est pas moins inséparable du vice, que l'ignorance de la vertu. Tous les peuples lettrés ont toujours été corrompus ; tous les peuples ignorants ont été vertueux : en un mot, il n'y a de vices que parmi les savants, ni d'homme vertueux que celui qui ne sait rien. Il y a donc un moyen pour nous de redevenir honnêtes gens ; c'est de nous hâter de proscrire la science et les savants, de brûler nos bibliothèques, fermer nos académies, nos collèges, nos universités, et de nous replonger dans toute la barbarie des premiers siècles. »
 
@@ -74,7 +74,7 @@ Le goût de la philosophie relâche tous les liens d'estime et de bienveillance 
 
 En même temps que la culture des sciences retire, en quelque sorte, de la presse le [coeur](/positions/fideism) du philosophe, elle y engage, en un autre sens, celui de l'homme de lettres ; et toujours avec un égal préjudice pour la vertu. Tout homme qui s'occupe des talents agréables veut plaire, être admiré ; et il veut être admiré plus qu'un autre. Les applaudissements publics appartiennent à lui seul : je dirais qu'il fait tout pour les obtenir, s'il ne faisait encore plus pour en priver ses concurrents. De là naissent, d'un côté, les raffinements du goût et de la politesse, vile et basse flatterie, soins séducteurs, insidieux, puérils, qui, à la longue, rapetissent l'âme et corrompent le coeur ; et de l'autre, les jalousies, les rivalités, les haines d'artistes si renommées, la perfide calomnie, la fourberie, la trahison, et tout ce que le vice a de plus lâche et de plus odieux. Si le philosophe méprise les hommes, l'artiste s'en fait bientôt mépriser, et tous deux concourent enfin à les rendre méprisables.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Il y a plus ; et de toutes les vérités que j'ai proposées à la considération des sages, voici la plus étonnante et la plus cruelle. Nos écrivains regardent tous comme le chef-d'oeuvre de la politique de notre siècle, les sciences, les arts, le luxe, le commerce, les lois, et les autres liens, qui resserrant entre les hommes les noeuds de la société[84], par l'intérêt personnel, les mettent tous dans une dépendance mutuelle, leur donnent des besoins réciproques et des intérêts communs, et obligent chacun d'eux de concourir au bonheur des autres, pour pouvoir faire le sien. Ces idées sont belles, sans doute, et présentées sous un jour favorable : mais en les examinant avec attention et sans partialité, on trouve beaucoup à rabattre des avantages qu'elles semblent présenter d'abord.
 
@@ -98,7 +98,7 @@ Mon avis est donc, et je l'ai déjà dit plus d'une fois, de laisser subsister, 
 
 Je demande maintenant où est la contradiction, de cultiver moi-même des goûts dont j'approuve le progrès ? Il ne s'agit plus de porter les peuples à bien faire, il faut seulement les distraire de faire le mal ; il faut les occuper à des niaiseries pour les détourner des mauvaises actions ; il faut les amuser au lieu de les prêcher. Si mes écrits ont édifié le petit nombre des bons, je leur ai fait tout le bien qui dépendait de moi, et c'est peut-être les servir utilement encore, que d'offrir aux autres des objets de distraction qui les empêchent de songer à eux. Je m'estimerais trop heureux d'avoir tous les jours une pièce à faire siffler, si je pouvais à ce prix contenir pendant deux heures les mauvais desseins d'un seul des spectateurs, et sauver l'honneur de la fille ou de la femme de son ami, le secret de son confident, ou la fortune de son créancier. Lorsqu'il n'y a plus de moeurs, il ne faut songer qu'à la police, et l'on sait assez que la musique et les spectacles en font un des plus importants objets.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 S'il reste quelque difficulté à ma justification, j'ose le dire hardiment, ce n'est vis-à-vis ni du public ni de mes adversaires, c'est vis-à-vis de moi seul : car ce n'est qu'en m'observant moi-même que je puis juger si je dois me compter dans le petit nombre, et si mon âme est en état de soutenir le faix des exercices littéraires. J'en ai senti plus d'une fois le danger ; plus d'une fois je les ai abandonnés, dans le dessein de ne les plus reprendre, et renonçant à leur charme séducteur, j'ai sacrifié à la paix de mon [coeur](/positions/fideism) les seuls plaisirs qui pouvaient encore le flatter. Si dans les langueurs qui m'accablent, si sur la fin d'une carrière pénible et douloureuse, j'ai osé encore quelques moments reprendre ces exercices pour charmer mes maux, je crois au moins n'y avoir mis ni assez d'intérêt ni assez de prétention pour mériter à cet égard les justes reproches que j'ai faits aux gens de lettres.
 

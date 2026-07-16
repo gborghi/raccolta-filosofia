@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/2º_perspectivismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="2.º Perspectivismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="2.º Perspectivismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El espíritu provinciano ha sido siempre, y con plena razón, considerado como una torpeza. Consiste en un error de óptica. El provinciano no cae en la cuenta de que mira el mundo desde una posición excéntrica. Supone, por el contrario, que está en el centro del orbe, y juzga de todo como si su visión fuese central. De aquí una deplorable suficiencia que produce efectos tan cómicos. Todas sus opiniones nacen falsificadas, porque parten de un pseudocentro. En cambio, el hombre de la capital sabe que su ciudad, por grande que sea, es sólo un punto del cosmos, un rincón excéntrico. Sabe, además, que en el mundo no hay centro y que es, por tanto, necesario descontar en todos nuestros juicios la peculiar perspectiva que la realidad ofrece mirada desde nuestro punto de vista. Por este motivo, al provinciano el vecino de la gran ciudad parece siempre escéptico, cuando sólo es más avisado.
 

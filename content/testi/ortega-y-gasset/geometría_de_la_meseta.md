@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/geometría_de_la_meseta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Geometría de la meseta" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Geometría de la meseta" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Al día siguiente, cuando el tren sale de León, es la alborada, y el sol —¡otra vez el sol!— llama con el cuento de su lanza de oro en ventanas y galerías. La ciudad, irradiando reflejos, tiene un despertar de joya.
 

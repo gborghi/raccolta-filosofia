@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/libros_de_andar_y_ver" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Libros de andar y ver" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Libros de andar y ver" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -46,7 +46,7 @@ Cunningham Graham, el demócrata, viajero y estilista inglés, me refirió que, 
 
 Tengo a la vista la obra más reciente, según creo, sobre Marruecos, compuesta por Otto C. Artbauer, un austríaco joven todavía, que después de recorrer Oriente ha penetrado por el Imperio mogrebita en todas direcciones, dueño del idioma, hecho a andanzas, y en lo sustancial de sus juicios digno de crédito. Artbauer hizo la campaña última de Melilla desde el campo rifeño, y sus notas verán muy pronto la luz. No digamos que Artbauer sea muy inteligente, mas para andar y ver —libros de andar y ver llaman los árabes a sus obras de viaje— no hace falta emplear tanto talento como el que gasta a diario un caudillo liberal para ni ver ni andar. Que no es inteligente lo demuestra Artbauer escribiendo un libro sobre cuyos datos exactos pesa una costra repugnante de odio a los franceses y de desprecio a los españoles. En su odio a los franceses, Artbauer se ha hecho realmente un africano.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sin embargo, ¿qué observaciones podrían lealmente oponerse a párrafos como éste de un capítulo titulado «Los derechos históricos de España»?: «En una ladera oriental del peñasco Dchebel Uarca, cuya punta Norte “Tres Forcas” se adelanta sobre el mar 25 kilómetros, se halla la posesión más antigua de los españoles en tierra marroquí, Melilla. Desde 1496 era ya tiempo más que suficiente para que se hubieran entablado relaciones de amigable vecindad con las porciones de la tribu Gelaia, que habita en aquella tierra tan rica. Mas el comercio con los naturales es poco más crecido que en cualquiera de los otros cinco presidios. Y, sin embargo, Melilla está situada como ningún otro pueblo de la costa de Marruecos para servir de capital a un poderoso comercio interior. Los rifeños bereberes llaman este lugar Tamrirt; esto es, lugar de encuentro. Aquí desemboca el hasta hace poco tan frecuentado camino de Tafilet; parten vías usaderas para Taza y Fez, llegan aquí habitantes de Kebdana y del Rif, porque sería un rodeo excesivo y campo a traviesa buscar por otro lado el cambio de productos. El puerto posee las más raras condiciones para desarrollarse opimamente. A pesar de todo esto, hace un decenio no podía arriesgarse ningún español más allá de las piedras blancas que indicaban el estrecho territorio neutral, sin ser amonestado por saludos de plomo, procedentes de los siempre alerta fusiles rifeños» (96-97). Y añade: «Si los españoles fueran más discretos, más pacientes y enérgicos, podía Melilla acaparar todo el comercio entre el Estrecho de Gibraltar y la capital argelina».
 
@@ -88,7 +88,7 @@ Pero monsieur Say no se dejó intimidar: siguió impertérrito construyendo, sin
 
 Los trabajos eran realizados, bajo su dirección, por ingenieros franceses; pero, desgraciadamente, no los sabía escoger bien. Poco perito del corazón humano sufrió frecuentes desengaños, y trabajos errados le costaron pérdidas de dinero y de tiempo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Por lo demás, reinaba en Port Say siempre buen humor entre los pocos franceses distinguidos que allí se reunían. Se pasaba el tiempo de la mejor manera, y, como no solía haber señoras, no eran graves las preocupaciones por el traje. Monsieur Say solía recibir en camiseta, con pantalones cortos de pana, alpargatas y sin medias. ¡Verdaderamente —exclamaba Karow— una vida fronteriza! Por la noche, a la hora de comer, la indumentaria no variaba; a lo sumo, Say se ponía un cuello, pero jamás medias ni cosa que las valiera.
 
@@ -114,7 +114,7 @@ El Turquí pasa a Melilla. Su capitán va por la tarde a tierra, y en el hotel A
 
 »Pareciome —prosigue el autor—, en verdad, bastante sorprendente cuanto vi y oí de estas gentes. Madame Du Gast marchó a Fez con oficiales franceses, después de haber ensayado cerrar negocios con el pretendiente, y mientras uno de sus agentes trabajaba todavía con él. C… siguió sin pagar su cuenta en la fonda. B…, que andaba en todo el intríngulis, era hermano de un alto empleado francés en Argel. Pero, sobre todo ello, me parecían incalificables las andanzas de madame Du Gast, que, por encargo de su Gobierno, ejercía aquel juego doble. No pude menos de poner en autos de todo a Torres, invitándole a desconfiar del nuevo método de atracción francesa, la hermosa señora Du Gast».
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Tal es la vida y alguno de los milagros de monsieur Say, aventurero y fundador, termita francés que trabaja el sultanado occidental por el rincón de Muluya. Lo escrito es simplemente un extracto, en su mayor parte literal, de las notas que hallo desparramadas en el libro de Karow.
 
@@ -146,7 +146,7 @@ Política de pueblo a pueblo, y no de Gobierno a Gobierno, debe ser la nuestra e
 
 La lista de fechorías aducida por Artbauer es larga; luego añade: «La única excepción ilustre es Tetuán, con el pequeño capitán Cogolludo, el hombre de la barba negra».
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Cuando la tropa fue organizada faltaban clases indígenas. Francia se las proporcionó en los regimientos argelinos; España, en su tabor rifeño de Ceuta, compuesto de 150 hombres. Ambas medidas, explicables en un principio, se mostraron luego defectuosas. Los instructores españoles se dieron cuenta de ello y sustituyeron poco a poco a la oficialidad subalterna, de modo que hoy puede tenerse en ella bastante confianza. Francia, empero, introdujo cada vez más elementos extraños.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_un_libro_no_escrito" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para un libro no escrito" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Para un libro no escrito" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -48,7 +48,7 @@ Todas las culturas son soluciones o intentos de solución al problema de la vida
 
 La mejor introducción al andalucismo, a la cultura tartesia, es, en mi entender, pensar lo siguiente: supóngase que el problema de la vida consista, no en crear esto o lo otro, no en realizar tales o cuales valores trascendentes —la verdad, la justicia, el dominio sobre la naturaleza, la organización de la humanidad, etcétera, etcétera—, sino simplemente en pasarla lo menos ingratamente que se pueda. Pues bien: desde este supuesto, la vida sevillana es un sistema perfecto, cerrado y completo. Probablemente, hace mil años era en lo esencial[36] idéntica a lo que es hoy, y no hay razón para que no lo sea dentro de otros mil. Ciertamente que un europeo normal no acepta ese supuesto; para él la vida no es un torrente que pasa sobre el hombre y del cual conviene defenderse con astucia, gracia y cautela, sino una fuerza que radica y brota en cada individuo y le incita a empresas. El europeo busca la tragedia, se obstina en intervenir en la marcha del universo con la pretensión de gobernarla. Como esto es, probablemente, imposible, la historia de Europa va de tragedia en tragedia, sometida a perpetuo cambio y constante inquietud. El andaluz es, por el contrario, el hombre resuelto a evitar la tragedia, a sortearla, a darle un quiebro. Esto, claro es, le lleva a no hacer historia. (Uno de los temas del libro sobre Andalucía que postulo, debería determinar la medida en que esta raza ha intervenido o no ha intervenido activamente en la historia).
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Lo que la vida andaluza tiene de oriental no es su aparente y superficial orientalismo, sino la común raíz campesina. La cultura tartesia es una cultura eterna y esencialmente rural. Los ritos de la campiña son el sustituto de las ideas de Estado, de los principios religiosos, de las «razones» científicas…
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/problemas_culturales_sobre_la_enseñanza_clásica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Problemas culturales.— Sobre la enseñanza clásica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Problemas culturales.— Sobre la enseñanza clásica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 V
 
@@ -60,7 +60,7 @@ Cuando los hulanos imperiales ponían cerco a París no sabían que uno de los l
 
 La actualidad, es decir, el medio vital en que hoy podemos respirar cultura, es germánica. Y esto es lo primero de todo, ser actual, percatarse del elemento en que vivimos y abrir bien los pulmones para que se nos llenen de oxígeno. Con lamentos por el bien perdido y vagas solicitaciones del porvenir no conseguiremos nada.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Es menester que en nuestras relaciones con el pasado y con el porvenir, con aquello que recordado nos enamora y con aquello otro que apenas entrevemos y bajo el nombre de Ideal nos desasosiega y lleva al estricote —como dice Cervantes que era el terreno Sancho llevado por el ardor fugitivo de su señor— tomemos una posición firme. Ha vuelto a apoderarse en estos años de nuestro mundo civilizado una inquietud y nerviosa titilación, un descontento cósmico y una falta de apetitos y de energía que debe preocuparnos seriamente. Como a Heine, nos huele la tierra a violetas marchitas. La falta de interés que ofrece la vida europea de estos años, hace que nuestras almas se carguen de recuerdos o de esperanzas, y nuestros corazones como el semblante de los ciegos, se orientan hacia donde nos parece que se derrama un poco de luminosidad. Hemos perdido el contacto con la actualidad, y el pasado y el futuro disputan entre sí por imponer sobre nosotros cada cual su hegemonía. Y hay espíritus que van corvos bajo la pesadumbre de las remembranzas, y otros excesivamente ingrávidos, con grandes alas utópicas, que no pueden posarse sobre la tierra porque son menos pesados que el aire ambiente y actual. En política, en literatura, en filosofía, hay conservadores y arcaizantes de un lado, ilusionarios y utopistas de otro: faltan casi por completo los hombres compenetrados con el presente, los hombres actuales que viven su hora plenamente, en ella se infunden y disuelven sin nostalgia ni ascos, preparando el porvenir desde el presente. Atravesamos una calma chicha de la historia, un punto muerto.
 
@@ -96,7 +96,7 @@ Largo sería entrar en la discusión de todos estos puntos. Mas yo me contentar�
 
 A los ojos salta la necesidad de superar las formas diferenciales que constituyen las culturas particulares, francesa, italiana, española, alemana, salvarse de esta confusión de pretensiones análogas y fijar con inequívoca formula la cultura esencial, la única cultura verdadera.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Ahora bien, esa cultura esencial que atraviesa todas las variaciones históricas y las trasciende inmortal, se mostró una vez casi en su pureza, relativamente exenta de exterioridades ornamentales, de superfetaciones y desviaciones. Fue aquella hora en que nació, fue en su momento original: Grecia.
 

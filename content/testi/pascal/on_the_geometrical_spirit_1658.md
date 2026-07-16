@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/pascal/on_the_geometrical_spirit_1658" data-philosopher="Pascal"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="On the Geometrical Spirit (1658)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="On the Geometrical Spirit (1658)" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 OF THE GEOMETRICAL SPIRIT
 
@@ -74,7 +74,7 @@ This is what is perfectly taught by geometry. She does not define any of these t
 
 For there is nothing more feeble than the discourse of those who wish to define these primitive words. What necessity is there, for example, of explaining what is understood by the word man? Do we not know well enough what the thing is that we wish to designate by this term? And what advantage did Plato think to procure us in saying that he was a two-legged animal without feathers? As though the idea that I have of him naturally, and which I cannot express, were not clearer and surer than that which he gives me by his useless and even ridiculous explanation; since a man does not lose humanity by losing the two legs, nor does a capon acquire it by losing his feathers.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 There are those who are absurd enough to explain a word by the word itself. I know some who have defined light in this wise: Light is a luminary movement of luminous bodies, as though we could understand the words luminary and luminous without the word light.2
 
@@ -114,7 +114,7 @@ But this will not surprise us if we remark that, this admirable science only att
 
 These three things which comprehend the whole universe, according to the words: Deus fecit omnia in pondere, in numero, et mensura,4 have a reciprocal and necessary connection. For we cannot imagine motion without something that moves; and this thing being one, this unity is the origin of all numbers; and lastly, motion not being able to exist without space, we see these three things included within the first.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Time even is also comprehended in it; for motion and time are relative to each other; speed and slowness, which are the differences of motion, having a necessary relation to time.
 
@@ -164,7 +164,7 @@ But as to these chimerical difficulties, which have relation only to our weaknes
 
 And to console them for the trouble they would have in certain junctures, as in conceiving that a space may have an infinity of divisibles, seeing that these are run over in so little time during which this infinity of divisibles would be run over, we must admonish them that they should not compare things so disproportionate as is the infinity of divisibles with the little time in which they are run over: but let them compare the entire space with the entire time, and the infinite divisibles of the space with the infinite moments of the time; and thus they will find that we pass over an infinity of divisibles in an infinity of moments, and a little space in a little time; in which there is no longer the disproportion that astonished them.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Lastly, if they find it surprising that a small space has as many parts as a great one, let them understand also that they are smaller in measure, and let them look at the firmament through a diminishing glass, to familiarize themselves with this knowledge, by seeing every part of the sky in every part of the glass.
 
@@ -202,7 +202,7 @@ Such is the admirable relation that nature has established between these things,
 
 For in numbers, inasmuch as they can be continually augmented, it absolutely follows that they can be continually diminished, and this clearly; for if a number can be multiplied to 100,000, for example, 100,000th part can also be taken from it, by dividing it by the same number by which it is multiplied; and thus every term of augmentation will become a term of division, by changing the whole into a fraction. So that infinite augmentation also includes necessarily infinite division.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And in space the same relation is seen between these two contrary infinites; that is, that inasmuch as a space can be infinitely prolonged, it follows that it may be infinitely diminished, as appears in this example: If we look through a glass at a vessel that recedes continually in a straight line, it is evident that any point of the vessel observed will continually advance by a perpetual flow in proportion as the ship recedes. Therefore if the course of the vessel is extended ad [infinitum](/concepts/infinity), this point will continually recede; and yet it will never reach that point in which the horizontal ray carried from the eye to the glass shall fall, so that it will constantly approach it without ever reaching it, unceasingly dividing the space which will remain under this horizontal point without ever arriving at it. From which is seen the necessary conclusion that is drawn from the infinity of the extension of the course of the vessel to the infinite and infinitely minute division of this little space remaining beneath this horizontal point.
 

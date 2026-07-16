@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/incipit_el_reinado_de_la_grosería" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Incipit el reinado de la grosería" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Incipit el reinado de la grosería" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El gobernador de Madrid prohibiendo a las señoras el uso del sombrero en los teatros, ha realizado algo que es de la mayor importancia. Hasta ahora se había respetado la indumentaria de la mujer y se la había considerado como [materia](/positions/materialism) ilegislable. La política perduraba galante. Hoy rompe la verja del jardín de Citerea y destoca a las damas. ¡Qué irreverencia! ¡Qué grosería! Ellas habían sabido permanecer inexpugnables bajo ciertos puntos de vista, y esta primera grosería legal amenaza consecuencias y progresos en el faltar a las tablas galantes.
 

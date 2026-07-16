@@ -399,18 +399,19 @@ async function main() {
   // name is therefore NOT a reliable work key. Every atom's frontmatter carries the
   // untruncated canonical key in `work:`, matching the _raw basename exactly — group
   // atoms by that field, never by the (possibly-truncated) directory name.
-  const workAtoms = new Map() // canonical workKey -> { philosopher, atoms: [{data,body,itBody}] }
+  const workAtoms = new Map() // canonical workKey -> { philosopher, atoms: [{data,body,itBody,enBody}] }
   let truncatedDirs = 0
   let itAtoms = 0
+  let enAtoms = 0
   for (const philosopher of philosophers) {
     const atomizedDir = path.join(PHIL_DIR, philosopher, "Atomized")
     if (!existsSync(atomizedDir)) continue
     const files = await walkMd(atomizedDir)
     for (const f of files) {
-      // `<atom>.it.md` is the translation sibling, not an atom of its own: it is
-      // paired onto its source below. Walking it as an atom would publish the
-      // Italian twice and give it a bogus atom_n.
-      if (f.endsWith(".it.md")) continue
+      // `<atom>.it.md` / `<atom>.en.md` sono i sibling di traduzione, non atomi a
+      // se': vengono agganciati alla fonte piu' sotto. Trattarli come atomi
+      // pubblicherebbe la traduzione due volte con un atom_n fasullo.
+      if (f.endsWith(".it.md") || f.endsWith(".en.md")) continue
       const raw = await fs.readFile(f, "utf8")
       const { data, content } = parseFrontmatter(raw)
       const dirKey = path.basename(path.dirname(f))
@@ -430,13 +431,22 @@ async function main() {
         itBody = parseFrontmatter(await fs.readFile(itPath, "utf8")).content
         itAtoms++
       }
-      workAtoms.get(workKey).atoms.push({ data, body: content, itBody })
+      // Il `.en.md` esiste solo quando la fonte NON e' gia' inglese (vedi
+      // REGOLE.md): fonte spagnola/tedesca/... porta sia .en che .it, fonte
+      // inglese solo .it. Qui accettiamo 0, 1 o 2 sibling senza distinzioni.
+      let enBody = null
+      const enPath = f.slice(0, -3) + ".en.md"
+      if (existsSync(enPath)) {
+        enBody = parseFrontmatter(await fs.readFile(enPath, "utf8")).content
+        enAtoms++
+      }
+      workAtoms.get(workKey).atoms.push({ data, body: content, itBody, enBody })
     }
   }
   for (const w of workAtoms.values())
     w.atoms.sort((a, b) => (a.data.atom_n ?? 0) - (b.data.atom_n ?? 0))
   if (truncatedDirs) console.log(`note: ${truncatedDirs} atoms live under a truncated directory name (resolved via frontmatter "work:")`)
-  console.log(`traduzioni: ${itAtoms} atomi con sibling .it.md`)
+  console.log(`traduzioni: ${itAtoms} atomi .it, ${enAtoms} atomi .en`)
   // Stampato dopo il loop delle opere, piu' sotto: vedi abstractsEmitted.
 
   // Un titolo che si APRE dichiarando traduttore/editore come autore: e' il suo
@@ -563,15 +573,21 @@ async function main() {
       // TF-IDF sample would let translation artefacts outrank the source's terms.
       kwTextParts.push(body)
 
+      // Ogni traduzione presente subisce lo stesso trattamento della fonte: si
+      // rispecchia il taglio dell'H1 (l'H1 tradotto non uguaglia mai atom_title,
+      // quindi ri-testare il titolo lo terrebbe sempre, lasciando un'intestazione
+      // che la fonte non ha), poi si riscrivono i wikilink e si taglia.
       let itBody = a.itBody
       if (itBody) {
-        // Mirror the source's H1 handling rather than re-testing the title: the
-        // Italian H1 is translated, so it never equals atom_title and a repeat of
-        // the EN test would always keep it — leaving a heading on the IT side that
-        // the EN side doesn't have.
         if (droppedH1) itBody = itBody.replace(H1_RE, "")
         itBody = rewriteLinks(itBody)
         itBody = itBody.trim()
+      }
+      let enBody = a.enBody
+      if (enBody) {
+        if (droppedH1) enBody = enBody.replace(H1_RE, "")
+        enBody = rewriteLinks(enBody)
+        enBody = enBody.trim()
       }
 
       // I nodi che questo atomo nomina, letti dal testo originale (mai dalla
@@ -582,11 +598,18 @@ async function main() {
         if (ids.size) atomTokenSets.push({ key: `${workSlug}#${atomId}`, workHref: workSlug, ids })
       }
 
+      // Il corpo fonte resta primo, marcato con la lingua propria dell'atomo
+      // (data-srclang): e' cosi' che il client sa quale lingua governa il bottone
+      // "sorgente". Ogni traduzione presente segue, dietro il proprio marker
+      // qlang-split data-lang. atomRouter partiziona su questi marker e mostra un
+      // bottone per lingua effettivamente presente.
+      const srcLang = String(a.data.lang || lang || "")
       blocks.push(
-        `\n\n<span class="atom-split" data-atom="${esc(atomId)}" data-title="${esc(label)}" data-chapter="${esc(chapter)}" data-kind="${isIntro ? "intro" : "atom"}"></span>\n\n` +
+        `\n\n<span class="atom-split" data-atom="${esc(atomId)}" data-title="${esc(label)}" data-chapter="${esc(chapter)}" data-kind="${isIntro ? "intro" : "atom"}" data-srclang="${esc(srcLang)}"></span>\n\n` +
           body +
-          // atomRouter partitions on this marker and only shows the .ar-lang
-          // switch when at least one atom carries an IT half.
+          (enBody
+            ? `\n\n<span class="qlang-split" data-lang="en"></span>\n\n` + enBody
+            : "") +
           (itBody
             ? `\n\n<span class="qlang-split" data-lang="it"></span>\n\n` + itBody
             : ""),
@@ -656,6 +679,12 @@ async function main() {
       href: workSlug,
       title,
       philosopher: philosopherName,
+      // `author` e' un alias di `philosopher`: le tabelle client (opereTable,
+      // cerca) sono nate per ../English, dove il campo si chiama `author`, e
+      // leggono `r.author`. Senza questo alias la colonna Autore mostra
+      // "undefined" e il filtro per autore non combacia mai (mostra tutte le
+      // opere). Si tiene anche `philosopher` per il resto del preprocess.
+      author: philosopherName,
       lang,
       kind,
       words: totalWords,
@@ -957,7 +986,13 @@ async function main() {
     .filter((p) => EMBLEM[p])
     .map(
       (p) =>
-        `  <a class="desk-card" href="opere" title="${p} - ${philCounts[p]} opere">` +
+        // La card e' `author-card` con `data-cerca-author`: wireAuthorCards
+        // (opereTable.inline) intercetta il click, salva "author::<nome>" in
+        // sessionStorage e /cerca lo raccoglie preselezionando quell'autore.
+        // Prima era una `desk-card` verso "opere" senza autore: apriva la
+        // tabella intera, non filtrata. L'href resta "cerca" perche' e' li' che
+        // il preselect viene consumato.
+        `  <a class="desk-card author-card" data-cerca-author="${p}" href="cerca" title="${p} - ${philCounts[p]} opere">` +
         `<img src="static/emblems/${EMBLEM[p]}.webp" alt="${p}" loading="lazy" width="400" height="400">` +
         `<span class="desk-name">${p}</span></a>`,
     )

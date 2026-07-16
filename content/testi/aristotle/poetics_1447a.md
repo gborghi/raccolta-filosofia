@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/aristotle/poetics_1447a" data-philosopher="Aristotle"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Poetics (1447a)" data-chapter="I" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Poetics (1447a)" data-chapter="I" data-kind="intro" data-srclang="en"></span>
 
 I propose to treat of Poetry in itself and of its various kinds, noting the essential quality of each, to inquire into the structure of the plot as requisite to a good poem; into the number and nature of the parts of which a poem is composed; and similarly into whatever else falls within the same inquiry. Following, then, the order of nature, let us begin with the principles which come first.
 
@@ -38,13 +38,13 @@ There are, again, some arts which employ all the means above mentioned — namel
 
 Such, then, are the differences of the arts with respect to the medium of imitation
 
-<span class="atom-split" data-atom="002" data-title="II" data-chapter="II" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="II" data-chapter="II" data-kind="atom" data-srclang="en"></span>
 
 Since the objects of imitation are men in action, and these men must be either of a higher or a lower type (for moral character mainly answers to these divisions, goodness and badness being the distinguishing marks of moral differences), it follows that we must represent men either as better than in real life, or as worse, or as they are. It is the same in painting. Polygnotus depicted men as nobler than they are, Pauson as less noble, Dionysius drew them true to life.
 
 Now it is evident that each of the modes of imitation above mentioned will exhibit these differences, and become a distinct kind in imitating objects that are thus distinct. Such diversities may be found even in dancing, flute-playing, and lyre-playing. So again in language, whether prose or verse unaccompanied by music. Homer, for example, makes men better than they are; Cleophon as they are; Hegemon the Thasian, the inventor of parodies, and Nicochares, the author of the Deiliad, worse than they are. The same thing holds good of Dithyrambs and Nomes; here too one may portray different types, as Timotheus and Philoxenus differed in representing their Cyclopes. The same distinction marks off Tragedy from Comedy; for Comedy aims at representing men as worse, Tragedy as better than in actual life.
 
-<span class="atom-split" data-atom="003" data-title="III" data-chapter="III" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="III" data-chapter="III" data-kind="atom" data-srclang="en"></span>
 
 There is still a third difference — the manner in which each of these objects may be imitated. For the medium being the same, and the objects the same, the poet may imitate by narration — in which case he can either take another personality as Homer does, or speak in his own person, unchanged — or he may present all his characters as living and moving before us.
 
@@ -52,7 +52,7 @@ These, then, as we said at the beginning, are the three differences which distin
 
 This may suffice as to the number and nature of the various modes of imitation.
 
-<span class="atom-split" data-atom="004" data-title="IV" data-chapter="IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="IV" data-chapter="IV" data-kind="atom" data-srclang="en"></span>
 
 Poetry in general seems to have sprung from two causes, each of them lying deep in our nature. First, the instinct of imitation is implanted in man from childhood, one difference between him and other animals being that he is the most imitative of living creatures, and through imitation learns his earliest lessons; and no less universal is the pleasure felt in things imitated. We have evidence of this in the facts of experience. Objects which in themselves we view with pain, we delight to contemplate when reproduced with minute fidelity: such as the forms of the most ignoble animals and of dead bodies. The cause of this again is, that to learn gives the liveliest pleasure, not only to philosophers but to men in general; whose capacity, however, of learning is more limited. Thus the reason why men enjoy seeing a likeness is, that in contemplating it they find themselves learning or inferring, and saying perhaps, ‘Ah, that is he.’ For if you happen not to have seen the original, the pleasure will be due not to the imitation as such, but to the execution, the coloring, or some such other cause.
 
@@ -66,7 +66,7 @@ Whether Tragedy has as yet perfected its proper types or not; and whether it is 
 
 Aeschylus first introduced a second actor; he diminished the importance of the Chorus, and assigned the leading part to the dialogue. Sophocles raised the number of actors to three, and added scene-painting. Moreover, it was not till late that the short plot was discarded for one of greater compass, and the grotesque diction of the earlier satyric form for the stately manner of Tragedy. The iambic measure then replaced the trochaic tetrameter, which was originally employed when the poetry was of the satyric order, and had greater with dancing. Once dialogue had come in, Nature herself discovered the appropriate measure. For the iambic is, of all measures, the most colloquial we see it in the fact that conversational speech runs into iambic lines more frequently than into any other kind of verse; rarely into hexameters, and only when we drop the colloquial intonation. The additions to the number of ‘episodes’ or acts, and the other accessories of which tradition tells, must be taken as already described; for to discuss them in detail would, doubtless, be a large undertaking.
 
-<span class="atom-split" data-atom="005" data-title="V" data-chapter="V" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="V" data-chapter="V" data-kind="atom" data-srclang="en"></span>
 
 Comedy is, as we have said, an imitation of characters of a lower type — not, however, in the full sense of the word bad, the ludicrous being merely a subdivision of the ugly. It consists in some defect or ugliness which is not painful or destructive. To take an obvious example, the comic mask is ugly and distorted, but does not imply pain.
 
@@ -76,7 +76,7 @@ Epic poetry agrees with Tragedy in so far as it is an imitation in verse of char
 
 Of their constituent parts some are common to both, some peculiar to Tragedy: whoever, therefore knows what is good or bad Tragedy, knows also about Epic poetry. All the elements of an Epic poem are found in Tragedy, but the elements of a Tragedy are not all found in the Epic poem.
 
-<span class="atom-split" data-atom="006" data-title="VI" data-chapter="VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="VI" data-chapter="VI" data-kind="atom" data-srclang="en"></span>
 
 Of the poetry which imitates in hexameter verse, and of Comedy, we will speak hereafter. Let us now discuss Tragedy, resuming its formal definition, as resulting from what has been already said.
 
@@ -98,7 +98,7 @@ Of the remaining elements Song holds the chief place among the embellishments
 
 The Spectacle has, indeed, an emotional attraction of its own, but, of all the parts, it is the least artistic, and connected least with the art of poetry. For the power of Tragedy, we may be sure, is felt even apart from representation and actors. Besides, the production of spectacular effects depends more on the art of the stage machinist than on that of the poet.
 
-<span class="atom-split" data-atom="007" data-title="VII" data-chapter="VII" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="VII" data-chapter="VII" data-kind="atom" data-srclang="en"></span>
 
 These principles being established, let us now discuss the proper structure of the Plot, since this is the first and most important thing in Tragedy.
 
@@ -106,11 +106,11 @@ Now, according to our definition Tragedy is an imitation of an action that is co
 
 Again, a beautiful object, whether it be a living organism or any whole composed of parts, must not only have an orderly arrangement of parts, but must also be of a certain magnitude; for [beauty](/concepts/beauty) depends on magnitude and order. Hence a very small animal organism cannot be beautiful; for the view of it is confused, the object being seen in an almost imperceptible moment of time. Nor, again, can one of vast size be beautiful; for as the eye cannot take it all in at once, the unity and sense of the whole is lost for the spectator; as for instance if there were one a thousand miles long. As, therefore, in the case of animate bodies and organisms a certain magnitude is necessary, and a magnitude which may be easily embraced in one view; so in the plot, a certain length is necessary, and a length which can be easily embraced by the memory. The limit of length in relation to dramatic competition and sensuous presentment is no part of artistic theory. For had it been the rule for a hundred tragedies to compete together, the performance would have been regulated by the water-clock — as indeed we are told was formerly done. But the limit as fixed by the nature of the drama itself is this: the greater the length, the more beautiful will the piece be by reason of its size, provided that the whole be perspicuous. And to define the matter roughly, we may say that the proper magnitude is comprised within such limits, that the sequence of events, according to the law of probability or necessity, will admit of a change from bad fortune to good, or from good fortune to bad.
 
-<span class="atom-split" data-atom="008" data-title="VIII" data-chapter="VIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="VIII" data-chapter="VIII" data-kind="atom" data-srclang="en"></span>
 
 Unity of plot does not, as some persons think, consist in the unity of the hero. For infinitely various are the incidents in one man’s life which cannot be reduced to unity; and so, too, there are many actions of one man out of which we cannot make one action. Hence the error, as it appears, of all poets who have composed a Heracleid, a Theseid, or other poems of the kind. They imagine that as Heracles was one man, the story of Heracles must also be a unity. But Homer, as in all else he is of surpassing merit, here too — whether from art or natural genius — seems to have happily discerned the truth. In composing the Odyssey he did not include all the adventures of Odysseus — such as his wound on Parnassus, or his feigned madness at the mustering of the host — incidents between which there was no necessary or probable connection: but he made the Odyssey, and likewise the Iliad, to center round an action that in our sense of the word is one. As therefore, in the other imitative arts, the imitation is one when the object imitated is one, so the plot, being an imitation of an action, must imitate one action and that a whole, the structural union of the parts being such that, if any one of them is displaced or removed, the whole will be disjointed and disturbed. For a thing whose presence or absence makes no visible difference, is not an organic part of the whole.
 
-<span class="atom-split" data-atom="009" data-title="IX" data-chapter="IX" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="IX" data-chapter="IX" data-kind="atom" data-srclang="en"></span>
 
 It is, moreover, evident from what has been said, that it is not the function of the poet to relate what has happened, but what may happen — what is possible according to the law of probability or necessity. The poet and the historian differ not by writing in verse or in prose. The work of Herodotus might be put into verse, and it would still be a species of history, with meter no less than without it. The true difference is that one relates what has happened, the other what may happen. Poetry, therefore, is a more philosophical and a higher thing than history: for poetry tends to express the universal, history the particular. By the universal I mean how a person of a certain type on occasion speak or act, according to the law of probability or necessity; and it is this universality at which poetry aims in the [names](/positions/nominalism) she attaches to the personages. The particular is — for example — what Alcibiades did or suffered. In Comedy this is already apparent: for here the poet first constructs the plot on the lines of probability, and then inserts characteristic names — unlike the lampooners who write about particular individuals. But tragedians still keep to real names, the reason being that what is possible is credible: what has not happened we do not at once feel sure to be possible; but what has happened is manifestly possible: otherwise it would not have happened. Still there are even some tragedies in which there are only one or two well-known names, the rest being fictitious. In others, none are well known — as in Agathon’s Antheus, where incidents and names alike are fictitious, and yet they give none the less pleasure. We must not, therefore, at all costs keep to the received legends, which are the usual subjects of Tragedy. Indeed, it would be absurd to attempt it; for even subjects that are known are known only to a few, and yet give pleasure to all. It clearly follows that the poet or ‘maker’ should be the maker of plots rather than of verses; since he is a poet because he imitates, and what he imitates are actions. And even if he chances to take a historical subject, he is none the less a poet; for there is no reason why some events that have actually happened should not conform to the law of the probable and possible, and in virtue of that quality in them he is their poet or maker.
 
@@ -118,13 +118,13 @@ Of all plots and actions the episodic are the worst. I call a plot ‘episodic�
 
 But again, Tragedy is an imitation not only of a complete action, but of events inspiring fear or pity. Such an effect is best produced when the events come on us by surprise; and the effect is heightened when, at the same time, they follows as cause and effect. The tragic wonder will then be greater than if they happened of themselves or by accident; for even coincidences are most striking when they have an air of design. We may instance the statue of Mitys at Argos, which fell upon his murderer while he was a spectator at a festival, and killed him. Such events seem not to be due to mere [chance](/concepts/fortune). Plots, therefore, constructed on these principles are necessarily the best.
 
-<span class="atom-split" data-atom="010" data-title="X" data-chapter="X" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="X" data-chapter="X" data-kind="atom" data-srclang="en"></span>
 
 Plots are either Simple or Complex, for the actions in real life, of which the plots are an imitation, obviously show a similar distinction. An action which is one and continuous in the sense above defined, I call Simple, when the change of fortune takes place without Reversal of the Situation and without [Recognition](/concepts/recognition)
 
 A Complex action is one in which the change is accompanied by such Reversal, or by Recognition, or by both. These last should arise from the internal structure of the plot, so that what follows should be the necessary or probable result of the preceding action. It makes all the difference whether any given event is a case of propter hoc or post hoc.
 
-<span class="atom-split" data-atom="011" data-title="XI" data-chapter="XI" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="XI" data-chapter="XI" data-kind="atom" data-srclang="en"></span>
 
 Reversal of the Situation is a change by which the action veers round to its opposite, subject always to our rule of probability or necessity. Thus in the Oedipus, the messenger comes to cheer Oedipus and free him from his alarms about his mother, but by revealing who he is, he produces the opposite effect. Again in the Lynceus, Lynceus is being led away to his death, and Danaus goes with him, meaning to slay him; but the outcome of the preceding incidents is that Danaus is killed and Lynceus saved.
 
@@ -132,13 +132,13 @@ Reversal of the Situation is a change by which the action veers round to its opp
 
 Two parts, then, of the Plot — Reversal of the Situation and Recognition — turn upon surprises. A third part is the Scene of Suffering. The Scene of Suffering is a destructive or painful action, such as death on the stage, bodily agony, wounds, and the like.
 
-<span class="atom-split" data-atom="012" data-title="XII" data-chapter="XII" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="XII" data-chapter="XII" data-kind="atom" data-srclang="en"></span>
 
 The parts of Tragedy which must be treated as elements of the whole have been already mentioned. We now come to the quantitative parts — the separate parts into which Tragedy is divided — namely, Prologue, Episode, Exode, Choric song; this last being divided into Parode and Stasimon. These are common to all plays: peculiar to some are the songs of actors from the stage and the Commoi.
 
 The Prologue is that entire part of a tragedy which precedes the Parode of the Chorus. The Episode is that entire part of a tragedy which is between complete choric songs. The Exode is that entire part of a tragedy which has no choric song after it. Of the Choric part the Parode is the first undivided utterance of the Chorus: the Stasimon is a Choric ode without anapaests or trochaic tetrameters: the Commos is a joint lamentation of Chorus and actors. The parts of Tragedy which must be treated as elements of the whole have been already mentioned. The quantitative parts — the separate parts into which it is divided — are here enumerated.
 
-<span class="atom-split" data-atom="013" data-title="XIII" data-chapter="XIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="XIII" data-chapter="XIII" data-kind="atom" data-srclang="en"></span>
 
 As the sequel to what has already been said, we must proceed to consider what the poet should aim at, and what he should avoid, in constructing his plots; and by what means the specific effect of Tragedy will be produced.
 
@@ -148,7 +148,7 @@ A well-constructed plot should, therefore, be single in its issue, rather than d
 
 In the second rank comes the kind of tragedy which some place first. Like the Odyssey, it has a double thread of plot, and also an opposite catastrophe for the good and for the bad. It is accounted the best because of the weakness of the spectators; for the poet is guided in what he writes by the wishes of his audience. The pleasure, however, thence derived is not the true tragic pleasure. It is proper rather to Comedy, where those who, in the piece, are the deadliest enemies — like Orestes and Aegisthus — quit the stage as friends at the close, and no one slays or is slain.
 
-<span class="atom-split" data-atom="014" data-title="XIV" data-chapter="XIV" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="XIV" data-chapter="XIV" data-kind="atom" data-srclang="en"></span>
 
 Fear and pity may be aroused by spectacular means; but they may also result from the inner structure of the piece, which is the better way, and indicates a superior poet. For the plot ought to be so constructed that, even without the aid of the eye, he who hears the tale told will thrill with horror and melt to pity at what takes Place. This is the impression we should receive from hearing the story of the Oedipus. But to produce this effect by the mere spectacle is a less artistic [method](/axes/method), and dependent on extraneous aids. Those who employ spectacular means to create a sense not of the terrible but only of the monstrous, are strangers to the purpose of Tragedy; for we must not demand of Tragedy any and every kind of pleasure, but only that which is proper to it. And since the pleasure which the poet should afford is that which comes from pity and fear through imitation, it is evident that this quality must be impressed upon the incidents.
 
@@ -160,7 +160,7 @@ The action may be done consciously and with knowledge of the persons, in the man
 
 Enough has now been said concerning the structure of the incidents, and the right kind of plot.
 
-<span class="atom-split" data-atom="015" data-title="XV" data-chapter="XV" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="XV" data-chapter="XV" data-kind="atom" data-srclang="en"></span>
 
 In respect of Character there are four things to be aimed at. First, and most important, it must be good. Now any speech or action that manifests moral purpose of any kind will be expressive of character: the character will be good if the purpose is good. This rule is relative to each class. Even a woman may be good, and also a slave; though the woman may be said to be an inferior being, and the slave quite worthless. The second thing to aim at is propriety. There is a type of manly valor; but valor in a woman, or unscrupulous cleverness is inappropriate. Thirdly, character must be true to life: for this is a distinct thing from goodness and propriety, as here described. The fourth point is consistency: for though the subject of the imitation, who suggested the type, be inconsistent, still he must be consistently inconsistent. As an example of motiveless degradation of character, we have Menelaus in the Orestes; of character indecorous and inappropriate, the lament of Odysseus in the Scylla, and the speech of Melanippe; of inconsistency, the Iphigenia at Aulis — for Iphigenia the suppliant in no way resembles her later self.
 
@@ -170,7 +170,7 @@ Again, since Tragedy is an imitation of persons who are above the common level, 
 
 These then are rules the poet should observe. Nor should he neglect those appeals to the senses, which, though not among the essentials, are the concomitants of poetry; for here too there is much room for error. But of this enough has been said in our published treatises.
 
-<span class="atom-split" data-atom="016" data-title="XVI" data-chapter="XVI" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="XVI" data-chapter="XVI" data-kind="atom" data-srclang="en"></span>
 
 What [Recognition](/concepts/recognition) is has been already explained. We will now enumerate its kinds.
 
@@ -184,7 +184,7 @@ The fourth kind is by process of reasoning. Thus in the Choephori: ‘Some one r
 
 But, of all recognitions, the best is that which arises from the incidents themselves, where the startling discovery is made by natural means. Such is that in the Oedipus of Sophocles, and in the Iphigenia; for it was natural that Iphigenia should wish to dispatch a letter. These recognitions alone dispense with the artificial aid of tokens or amulets. Next come the recognitions by process of reasoning.
 
-<span class="atom-split" data-atom="017" data-title="XVII" data-chapter="XVII" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="XVII" data-chapter="XVII" data-kind="atom" data-srclang="en"></span>
 
 In constructing the plot and working it out with the proper diction, the poet should place the scene, as far as possible, before his eyes. In this way, seeing everything with the utmost vividness, as if he were a spectator of the action, he will discover what is in keeping with it, and be most unlikely to overlook inconsistencies. The need of such a rule is shown by the fault found in Carcinus. Amphiaraus was on his way from the temple. This fact escaped the observation of one who did not see the situation. On the stage, however, the Piece failed, the audience being offended at the oversight.
 
@@ -194,7 +194,7 @@ As for the story, whether the poet takes it ready made or constructs it for hims
 
 After this, the [names](/positions/nominalism) being once given, it remains to fill in the episodes. We must see that they are relevant to the action. In the case of Orestes, for example, there is the madness which led to his capture, and his deliverance by means of the purificatory rite. In the drama, the episodes are short, but it is these that give extension to Epic poetry. Thus the story of the Odyssey can be stated briefly. A certain man is absent from home for many years; he is jealously watched by Poseidon, and left desolate. Meanwhile his home is in a wretched plight — suitors are wasting his substance and plotting against his son. At length, tempest-tost, he himself arrives; he makes certain persons acquainted with him; he attacks the suitors with his own hand, and is himself preserved while he destroys them. This is the essence of the plot; the rest is episode.
 
-<span class="atom-split" data-atom="018" data-title="XVIII" data-chapter="XVIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="XVIII" data-chapter="XVIII" data-kind="atom" data-srclang="en"></span>
 
 Every tragedy falls into two parts — Complication and Unraveling or Denouement. Incidents extraneous to the action are frequently combined with a portion of the action proper, to form the Complication; the rest is the Unraveling. By the Complication I mean all that extends from the beginning of the action to the part which marks the turning-point to good or bad fortune. The Unraveling is that which extends from the beginning of the change to the end. Thus, in the Lynceus of Theodectes, the Complication consists of the incidents presupposed in the drama, the seizure of the child, and then again... [the Unraveling] extends from the accusation of murder to the end.
 
@@ -206,13 +206,13 @@ Again, the poet should remember what has been often said, and not make an Epic s
 
 The Chorus too should be regarded as one of the actors; it should be an integral part of the whole, and share in the action, in the manner not of Euripides but of Sophocles. As for the later poets, their choral songs pertain as little to the subject of the piece as to that of any other tragedy. They are, therefore, sung as mere interludes — a practice first begun by Agathon. Yet what difference is there between introducing such choral interludes, and transferring a speech, or even a whole act, from one play to another.
 
-<span class="atom-split" data-atom="019" data-title="XIX" data-chapter="XIX" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="XIX" data-chapter="XIX" data-kind="atom" data-srclang="en"></span>
 
 It remains to speak of Diction and Thought, the other parts of Tragedy having been already discussed. concerning Thought, we may assume what is said in the Rhetoric, to which inquiry the subject more strictly belongs. Under Thought is included every effect which has to be produced by speech, the subdivisions being: proof and refutation; the excitation of the feelings, such as pity, fear, [anger](/concepts/anger), and the like; the suggestion of importance or its opposite. Now, it is evident that the dramatic incidents must be treated from the same points of view as the dramatic speeches, when the object is to evoke the sense of pity, fear, importance, or probability. The only difference is that the incidents should speak for themselves without verbal exposition; while effects aimed at in should be produced by the speaker, and as a result of the speech. For what were the business of a speaker, if the Thought were revealed quite apart from what he says?
 
 Next, as regards Diction. One branch of the inquiry treats of the Modes of Utterance. But this province of knowledge belongs to the art of Delivery and to the masters of that science. It includes, for instance — what is a command, a prayer, a statement, a threat, a question, an answer, and so forth. To know or not to know these things involves no serious censure upon the poet’s art. For who can admit the fault imputed to Homer by Protagoras — that in the words, ‘Sing, goddess, of the wrath, he gives a command under the idea that he utters a prayer? For to tell some one to do a thing or not to do it is, he says, a command. We may, therefore, pass this over as an inquiry that belongs to another art, not to poetry.
 
-<span class="atom-split" data-atom="020" data-title="XX" data-chapter="XX" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="XX" data-chapter="XX" data-kind="atom" data-srclang="en"></span>
 
 Language in general includes the following parts: Letter, Syllable, Connecting Word, Noun, Verb, Inflection or Case, Sentence or Phrase.
 
@@ -230,7 +230,7 @@ Inflection belongs both to the noun and verb, and expresses either the relation 
 
 A Sentence or Phrase is a composite significant sound, some at least of whose parts are in themselves significant; for not every such group of words consists of verbs and nouns—’the definition of man,’ for example — but it may dispense even with the verb. Still it will always have some significant part, as ‘in walking,’ or ‘Cleon son of Cleon.’ A sentence or phrase may form a unity in two ways — either as signifying one thing, or as consisting of several parts linked together. Thus the Iliad is one by the linking together of parts, the definition of man by the unity of the thing signified.
 
-<span class="atom-split" data-atom="021" data-title="XXI" data-chapter="XXI" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="XXI" data-chapter="XXI" data-kind="atom" data-srclang="en"></span>
 
 Words are of two kinds, simple and double. By simple I mean those composed of nonsignificant elements, such as ge, ‘earth.’ By double or compound, those composed either of a significant and nonsignificant element (though within the whole word no element is significant), or of elements that are both significant. A word may likewise be triple, quadruple, or multiple in form, like so many Massilian expressions, e.g., ‘Hermo-caico-xanthus [who prayed to Father Zeus].’
 
@@ -248,7 +248,7 @@ An altered word is one in which part of the ordinary form is left unchanged, and
 
 Nouns in themselves are either masculine, feminine, or neuter. Masculine are such as end in N, R, S, or in some letter compounded with S — these being two, PS and X. Feminine, such as end in vowels that are always long, namely E and O, and — of vowels that admit of lengthening — those in A. Thus the number of letters in which nouns masculine and feminine end is the same; for PS and X are equivalent to endings in S. No noun ends in a mute or a vowel short by nature. Three only end in I — meli, ‘honey’; kommi, ‘gum’; peperi, ‘pepper’; five end in U. Neuter nouns end in these two latter vowels; also in N and S.
 
-<span class="atom-split" data-atom="022" data-title="XXII" data-chapter="XXII" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="XXII" data-chapter="XXII" data-kind="atom" data-srclang="en"></span>
 
 The perfection of style is to be clear without being mean. The clearest style is that which uses only current or proper words; at the same time it is mean — witness the poetry of Cleophon and of Sthenelus. That diction, on the other hand, is lofty and raised above the commonplace which employs unusual words. By unusual, I mean strange (or rare) words, metaphorical, lengthened — anything, in short, that differs from the normal idiom. Yet a style wholly composed of such words is either a riddle or a jargon; a riddle, if it consists of metaphors; a jargon, if it consists of strange (or rare) words. For the essence of a riddle is to express true facts under impossible combinations. Now this cannot be done by any arrangement of ordinary words, but by the use of metaphor it can. Such is the riddle: ‘A man I saw who on another man had glued the bronze by aid of fire,’ and others of the same kind. A diction that is made up of strange (or rare) terms is a jargon. A certain infusion, therefore, of these elements is necessary to style; for the strange (or rare) word, the metaphorical, the ornamental, and the other kinds above mentioned, will raise it above the commonplace and mean, while the use of proper words will make it perspicuous. But nothing contributes more to produce a cleanness of diction that is remote from commonness than the lengthening, contraction, and alteration of words. For by deviating in exceptional cases from the normal idiom, the language will gain distinction; while, at the same time, the partial conformity with usage will give perspicuity. The critics, therefore, are in error who censure these licenses of speech, and hold the author up to ridicule. Thus Eucleides, the elder, declared that it would be an easy matter to be a poet if you might lengthen syllables at will. He caricatured the practice in the very form of his diction, as in the verse:
 
@@ -302,11 +302,11 @@ Of the various kinds of words, the compound are best adapted to dithyrambs, rare
 
 Concerning Tragedy and imitation by means of action this may suffice.
 
-<span class="atom-split" data-atom="023" data-title="XXIII" data-chapter="XXIII" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="XXIII" data-chapter="XXIII" data-kind="atom" data-srclang="en"></span>
 
 As to that poetic imitation which is narrative in form and employs a single meter, the plot manifestly ought, as in a tragedy, to be constructed on dramatic principles. It should have for its subject a single action, whole and complete, with a beginning, a middle, and an end. It will thus resemble a living organism in all its unity, and produce the pleasure proper to it. It will differ in structure from historical compositions, which of necessity present not a single action, but a single period, and all that happened within that period to one person or to many, little connected together as the events may be. For as the sea-fight at Salamis and the battle with the Carthaginians in Sicily took place at the same time, but did not tend to any one result, so in the sequence of events, one thing sometimes follows another, and yet no single result is thereby produced. Such is the practice, we may say, of most poets. Here again, then, as has been already observed, the transcendent excellence of Homer is manifest. He never attempts to make the whole war of Troy the subject of his poem, though that war had a beginning and an end. It would have been too vast a theme, and not easily embraced in a single view. If, again, he had kept it within moderate limits, it must have been over-complicated by the variety of the incidents. As it is, he detaches a single portion, and admits as episodes many events from the general story of the war — such as the Catalogue of the ships and others — thus diversifying the poem. All other poets take a single hero, a single period, or an action single indeed, but with a multiplicity of parts. Thus did the author of the Cypria and of the Little Iliad. For this reason the Iliad and the Odyssey each furnish the subject of one tragedy, or, at most, of two; while the Cypria supplies materials for many, and the Little Iliad for eight — the Award of the Arms, the Philoctetes, the Neoptolemus, the Eurypylus, the Mendicant Odysseus, the Laconian Women, [the Fall](/positions/original_sin) of Ilium, the Departure of the Fleet.
 
-<span class="atom-split" data-atom="024" data-title="XXIV" data-chapter="XXIV" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="XXIV" data-chapter="XXIV" data-kind="atom" data-srclang="en"></span>
 
 Again, Epic poetry must have as many kinds as Tragedy: it must be simple, or complex, or ‘ethical,’or ‘pathetic.’ The parts also, with the exception of song and spectacle, are the same; for it requires Reversals of the Situation, Recognitions, and Scenes of Suffering. Moreover, the thoughts and the diction must be artistic. In all these respects Homer is our earliest and sufficient model. Indeed each of his poems has a twofold character. The Iliad is at once simple and ‘pathetic,’ and the Odyssey complex (for [Recognition](/concepts/recognition) scenes run through it), and at the same time ‘ethical.’ Moreover, in diction and thought they are supreme.
 
@@ -324,7 +324,7 @@ Accordingly, the poet should prefer probable impossibilities to improbable possi
 
 The diction should be elaborated in the pauses of the action, where there is no expression of character or thought. For, conversely, character and thought are merely obscured by a diction that is over-brilliant
 
-<span class="atom-split" data-atom="025" data-title="XXV" data-chapter="XXV" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="XXV" data-chapter="XXV" data-kind="atom" data-srclang="en"></span>
 
 With respect to critical difficulties and their solutions, the number and nature of the sources from which they may be drawn may be thus exhibited.
 
@@ -362,7 +362,7 @@ The element of the irrational, and, similarly, depravity of character, are justl
 
 Thus, there are five sources from which critical objections are drawn. Things are censured either as impossible, or irrational, or morally hurtful, or contradictory, or contrary to artistic correctness. The answers should be sought under the twelve heads above mentioned.
 
-<span class="atom-split" data-atom="026" data-title="XXVI" data-chapter="XXVI" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="XXVI" data-chapter="XXVI" data-kind="atom" data-srclang="en"></span>
 
 The question may be raised whether the Epic or Tragic mode of imitation is the higher. If the more refined art is the higher, and the more refined in every case is that which appeals to the better sort of audience, the art which imitates anything and everything is manifestly most unrefined. The audience is supposed to be too dull to comprehend unless something of their own is thrown by the performers, who therefore indulge in restless movements. Bad flute-players twist and twirl, if they have to represent ‘the quoit-throw,’ or hustle the coryphaeus when they perform the Scylla. Tragedy, it is said, has this same defect. We may compare the opinion that the older actors entertained of their successors. Mynniscus used to call Callippides ‘ape’ on account of the extravagance of his action, and the same view was held of Pindarus. Tragic art, then, as a whole, stands to Epic in the same relation as the younger to the elder actors. So we are told that Epic poetry is addressed to a cultivated audience, who do not need gesture; Tragedy, to an inferior public. Being then unrefined, it is evidently the lower of the two.
 

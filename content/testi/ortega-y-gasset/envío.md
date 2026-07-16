@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/envío" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Envío" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Envío" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 —¡Vizconde, las Torres Bermejas lo están ahora de vergüenza, y su púrpura es tanta, que enrojece el valle, gana las laderas y tiñe hasta la nívea frente lunar del sacro Mulhacén!
 

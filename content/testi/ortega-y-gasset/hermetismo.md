@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/hermetismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Hermetismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Hermetismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Observémonos en el momento en que damos fin a la lectura de una gran novela. Nos parece que emergemos de otra existencia, que nos hemos evadido de un mundo incomunicante con el nuestro auténtico. Esta incomunicación es evidente, puesto que no podemos percibir el tránsito. Hace un instante nos hallábamos en Parma con el conde Mosca y la Sanseverina y Clelia y Fabricio; vivíamos con ellos, preocupados de sus vicisitudes, inmersos en el mismo aire, espacio y tiempo que sus personas. Ahora, súbitamente, sin intermisión, nos hallamos en nuestro aposento, en nuestra ciudad y en nuestra fecha; ya comienzan a despertar en torno a nuestros nervios las preocupaciones que nos eran habituales. Hay un intervalo de indecisión, de titubeo. Acaso el brusco aletazo de un recuerdo vuelve de un golpe a sumergirnos en el universo de la novela, y con algún esfuerzo, como braceando en un elemento líquido, tenemos que nadar hasta la orilla de nuestra propia existencia. Si alguien nos mira, entonces descubrirá en nosotros la dilatación de párpados, que caracteriza a los náufragos.
 

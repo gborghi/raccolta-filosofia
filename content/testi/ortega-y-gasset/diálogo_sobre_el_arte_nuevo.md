@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/diálogo_sobre_el_arte_nuevo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Diálogo sobre el arte nuevo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Diálogo sobre el arte nuevo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 A principios de este verano se encontraron un día Baroja y Azorín en una librería de Bayona. Azorín venía de San Sebastián, Pío Baroja de su casa de Vera. Baroja, temperamento siempre fronterizo, habita un viejo solar que es la última habitación de la Península en su linde con Francia. Azorín traspone ésta con frecuencia y va a San Juan de Luz, Biarritz o Bayona. Dondequiera que vaya se le ve recalar en alguna librería porque Azorín sólo va donde las hay. Viaja para ver libros. Baroja se desplaza con mayor facilidad, y aunque fondea también en las librerías que le salen al paso, su propósito es más bien el de ver gente.
 
@@ -70,7 +70,7 @@ En cambio, usted comienza uno de los capítulos de «La ruta de Don Quijote»: �
 
 —¡Sutilezas! La materia y el espíritu serán siempre lo que han sido.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 —Yo no sé muy bien qué sea [materia](/positions/materialism), ni qué sea espíritu; pero me parece que lo característico de la vida es la aparición súbita de especies nuevas. En mi huerta se plantaron hace años unas habichuelas: cosecha tras cosecha venían siendo iguales. Pero hace un par de ellos, aparecieron de pronto unas habichuelas punteadas que se han ido propagando a costa de las antiguas. ¿Por qué no pensar que las generaciones son cosechas humanas y que de pronto en una de ellas aparece una mutación?
 

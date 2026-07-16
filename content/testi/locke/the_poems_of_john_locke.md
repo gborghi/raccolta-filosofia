@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/locke/the_poems_of_john_locke" data-philosopher="Locke"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="THE POEMS OF JOHN LOCKE" data-chapter="A POEM IN LATIN AND ENGLISH DEDICATED TO CROMWELL" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="THE POEMS OF JOHN LOCKE" data-chapter="A POEM IN LATIN AND ENGLISH DEDICATED TO CROMWELL" data-kind="intro" data-srclang="en"></span>
 
 Locke wrote this epigram at Christchurch, to which college he repaired in the year 1651, and whence he underwent that memorable expulsion concerning which Mr Fox observes, that it indicated some instinctive sagacity in the government of the time, which pointed out to them, even before he had made himself known to the world, the man who was destined to be the most successful adversary of superstition and tyranny. None of our Sovereigns have, like Cromwell, been honoured with poetical panegyrics by four such eminent authors as Milton, Dryden, Waller, and Locke.
 
@@ -59,7 +59,7 @@ You sure from heaven a perfect hero fell,
 
 Who thus alone two pagan gods excel.
 
-<span class="atom-split" data-atom="002" data-title="ON THE MARRIAGE OF KING CHARLES II WITH THE INFANTA OF PORTUGAL" data-chapter="ON THE MARRIAGE OF KING CHARLES II WITH THE INFANTA OF PORTUGAL" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ON THE MARRIAGE OF KING CHARLES II WITH THE INFANTA OF PORTUGAL" data-chapter="ON THE MARRIAGE OF KING CHARLES II WITH THE INFANTA OF PORTUGAL" data-kind="atom" data-srclang="en"></span>
 
 From 1662. Domiduca Oxomensis (Oxford, 1662), sig. B 2V-3V — Locke’s poem is among 126 in this volume. See Letter 134. In this year King Charles II married Catherine of Braganza. The poem displays some of the characteristic sentiments of Restoration royalism, exhibited also in the Tracts on Government.
 
@@ -175,7 +175,7 @@ Like Heaven you come, with Ravishments of Bliss,
 
 Desir’d unknown, at once seen, and made his.
 
-<span class="atom-split" data-atom="003" data-title="IN TRACTATUM DE FEBRIBUS D. D. SYDENHAM" data-chapter="IN TRACTATUM DE FEBRIBUS D. D. SYDENHAM" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="IN TRACTATUM DE FEBRIBUS D. D. SYDENHAM" data-chapter="IN TRACTATUM DE FEBRIBUS D. D. SYDENHAM" data-kind="atom" data-srclang="en"></span>
 
 Febriles aestus, victumque ardoribus orbem
 

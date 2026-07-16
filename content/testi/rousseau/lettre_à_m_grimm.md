@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettre_à_m_grimm" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRE À M. GRIMM" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRE À M. GRIMM" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Je vous renvoie, monsieur, le Mercure d'octobre que vous avez eu la bonté de me prêter. J'y ai lu avec beaucoup de plaisir la réfutation que M. Gautier a pris la peine de faire de mon Discours : mais je ne crois pas être, comme vous le prétendez, dans la nécessité d'y répondre ; et voici mes objections :
 
@@ -44,7 +44,7 @@ Par exemple, M. Gautier prend la peine de m'apprendre qu'il y a des peuples vici
 
 Il dit que le commerce du monde suffit pour acquérir cette politesse dont se pique un galant homme ; d'où il conclut qu'on n'est pas fondé à en faire honneur aux sciences. Mais à quoi donc nous permettra-t-il d'en faire honneur ? Depuis que les hommes vivent en société, il y a eu des peuples [polis](/concepts/state), et d'autres qui ne l'étaient pas. M. Gautier a oublié de nous rendre raison de cette différence.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 M. Gautier est partout en admiration de la pureté de nos mœurs actuelles. Cette bonne opinion qu'il en a fait assurément beaucoup d’honneur aux siennes ; mais elle n'annonce pas une grande expérience. On dirait, au ton dont il en parle, qu'il a étudié les hommes comme les péripatéticiens étudiaient la physique, sans sortir de son cabinet. Quant à moi, j'ai fermé mes livres ; et, après avoir écouté parler les hommes, je les ai regardés agir. Ce n'est pas une merveille qu'ayant suivi des méthodes si différentes nous nous rencontrions si peu dans nos jugements. Je vois qu'on ne saurait employer un langage plus honnête que celui de notre siècle ; et voilà ce qui frappe M. Gautier : mais je vois aussi qu'on ne saurait avoir des mœurs plus corrompues ; et voilà ce qui me scandalise. Pensons-nous donc être devenus gens de bien parce qu'à force de donner des noms décents à nos vices, nous avons appris à n'en plus rougir ?
 
@@ -78,7 +78,7 @@ Mais voyons un peu si je pourrais rendre exactement en d'autres termes le sens d
 
 Autre exemple du style de M. Gautier.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 « Vous savez que les sciences dont on occupe les jeunes philosophes dans les universités sont la logique, la métaphysique, la morale, la physique, les mathématiques élémentaires. » Si je l'ai su, je l'avais oublié, comme nous faisons tous en devenant raisonnables. « Ce sont donc là, selon vous, de stériles spéculations ? » Stériles, selon l'opinion commune ; mais, selon moi, très fertiles en mauvaises choses. « Les universités vous ont une grande obligation de leur avoir appris que la vérité de ces sciences s'est retirée au fond d'un puits. » Je ne crois pas avoir appris cela à personne : cette sentence n'est point de mon invention ; elle est aussi ancienne que la philosophie. Au reste, je sais que les universités ne me doivent aucune reconnaissance ; et je n'ignorais pas, en prenant la plume, que je ne pouvais à la fois faire ma cour aux hommes, et rendre hommage à la vérité. « Les grands philosophes qui les possèdent dans un degré éminent sont sans doute bien surpris d'apprendre qu'ils ne savent rien. » Je crois qu'en effet ces grands philosophes qui possèdent toutes ces grandes sciences dans un degré éminent seraient très surpris d'apprendre qu'ils ne savent rien : mais je serais bien plus surpris moi-même si ces hommes qui savent tant de choses savaient jamais celle-là.
 

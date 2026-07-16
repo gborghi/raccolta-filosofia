@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/en_el_momento_de_la_paz_los_nuevos_gobiernos_que_necesita_españa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="En el momento de la paz.— Los nuevos Gobiernos que necesita España" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="En el momento de la paz.— Los nuevos Gobiernos que necesita España" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor Maura —cuyo dolor reciente saludamos con el más alto respeto— ha presentado al Rey la crisis total del Gobierno. En verdad, este Gobierno fabuloso había fenecido tiempo hace; mas por su propia mole seguía en pie, como dicen que después de muertos siguen en pie los elefantes. Excusemos analizar hoy la múltiple enfermedad que lo ha destruido. Acaso tengamos mañana, u otro día, la ocasión de hacerlo, porque, aunque parezca absurdo, muerto y todo, pudiera ocurrir que perdurase, sin más mudanza que sustituir al señor Alba con algún otro ciudadano español. Ello sería una farsa superlativa y una triste vergüenza, pero ello puede que sea.
 

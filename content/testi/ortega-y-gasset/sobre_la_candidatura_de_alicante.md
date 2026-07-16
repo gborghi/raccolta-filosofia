@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_la_candidatura_de_alicante" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[Sobre la candidatura de Alicante]" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="[Sobre la candidatura de Alicante]" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La convocatoria a Cortes Constituyentes debió significar en toda España como un concurso que se abría entre las provincias para ver cuál enviaba al Parlamento representantes de mayor capacidad. Se trata nada menos que de un Parlamento encargado de construir el nuevo Estado español, y un Estado es una fabulosa obra de arquitectura. Era natural, pues, que cada provincia, sin el menor titubeo, hubiese desde luego aplastado las ambiciones enanas de partidos, partidillos y partidejos y, saltando sin más sobre todo ello, hubiese extraído de sus recónditos cobijos a los hombres de la comarca que poseyesen más clara visión arquitectónica. La ventaja mayor de la democracia es que tiene siempre las manos libres. Libres de castas y rangos petrificados para poner sus destinos en manos de los mejores.
 

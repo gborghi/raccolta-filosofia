@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/planeta_sitibundo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Planeta sitibundo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Planeta sitibundo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -68,7 +68,7 @@ II
 
 Este Perceval Lowel —prosiguió Rubín de Cendoya— es un hombre de imaginación. Yo admiro sobremanera a quien se halla provisto de imaginación a la moderna. Porque ha de advertirse un cambio profundo entre la antigua y la nueva manera de ejercitar la fantasía. El antiguo imaginario huía de la confrontación con las cosas reales; el moderno, por el contrario, se sume en el extremo realismo, busca una contención y un cauce a sus invenciones en las rígidas e inequívocas fisonomías de las cosas. Éste es un carácter distintivo de los pueblos nuevos, y muy especialmente de los yankees, el pueblo de mayor juventud. Edgar Poe, el genio más representativo de Norteamérica, no hizo otra cosa, y lo hizo con plena conciencia, como lo prueban sus Marginalia.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Lowel, asimismo, para poder imaginar con mayor energía, se dedicó a los estudios astronómicos, y, buscando una atmósfera propicia a las inquisiciones planetarias, se aisló en el desierto del Arizona y montó un Observatorio. Largos años hace que allí vive perescrutando la vida íntima de Marte, y ahora resume en un libro sus contemplaciones.
 

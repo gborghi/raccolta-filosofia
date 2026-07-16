@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/reforma_de_la_inteligencia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Reforma de la inteligencia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Reforma de la inteligencia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En un artículo sobre Shakespeare, resume Goethe su pensamiento en torno al gigante isleño con estas palabras: «Shakespeare acompaña a la Naturaleza». Goethe expresa en esta forma su admiración por el genio, que a él le faltó casi siempre, de ser justo con todas las cosas, merced al cual Shakespeare deja que en su obra todo ser llegue a ser lo que es: criminal o virtuoso, mente clara o mentecato, mujer apasionada, o trueno o flor.
 
@@ -38,7 +38,7 @@ Nos aparece, pues, la inteligencia como una actividad que es primariamente depor
 
 La inteligencia no ha creado los pueblos, no ha fabricado las naciones. Es curioso advertir cómo en las etapas en que las nacionalidades son forjadas, el intelectual representa un papel muy secundario. Así, en la Edad Media, los pueblos de Occidente son lentamente construidos por hombres dotados con preferencia de coraje y emoción. Las aristocracias primitivas no sobresalen por su inteligencia ni tenían para qué. La faena que andaba en sus manos —hacer un pueblo— exige grandes dosis de carácter, tenacidad e ímpetu, calidades que difícilmente pueden sobresalir en el intelectual.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Evitemos nociones utópicas. Reconozcamos que cada oficio y clase social elabora un tipo humano distinto, dotado de un repertorio peculiar de virtudes y vicios. De estos tipos humanos cada cual está predispuesto para una tarea afín, y es incongruente encargar al uno que haga lo del otro. Si lo intenta, lo hará torpemente.
 

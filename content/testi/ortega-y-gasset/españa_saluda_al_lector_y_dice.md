@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/españa_saluda_al_lector_y_dice" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="España saluda al lector y dice:" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="España saluda al lector y dice:" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Nacido del enojo y la esperanza, pareja española, sale al mundo este semanario: España.
 

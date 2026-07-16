@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_una_encuesta_interrumpida" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre una encuesta interrumpida" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre una encuesta interrumpida" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Qué pasa en Europa? Desde hace mucho tiempo es ésta la curiosidad más grande que siento y procuro darme, poco a poco, una contestación. Hay quien se contenta con leer los periódicos y cree que lo que ellos cuentan o narran eso es lo que pasa. Pero aunque fueran rigorosamente veraces, los periódicos no rozan siquiera esa realidad que yo busco. ¡Gran paradoja, pero inexcusable, la realidad histórica no es nunca de «actualidad»! El periódico cuanto más fiel a su propia misión, tanto más la evita y la elude. Obra como Buloz, el famoso fundador de la Revue des Deux Mondes, cuando alguien le presentó un artículo titulado: Dios. «¿Dios? —exclamó—, ¡cuánto lo siento!, pero no es un asunto de actualidad».
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/se_anuncian_unas_memorias" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Se anuncian unas memorias" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Se anuncian unas memorias" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Se dice que uno de mis recientes artículos ha ocasionado algún quebranto al régimen. Eso se dice, pero ustedes —¡claro está!— no lo creerán. No creerán ni siquiera que lo creen los que lo dicen, sobre todo los hostiles al régimen. Si lo creyeran éstos no lo dirían. Dejarían que el quebranto se produjese y no se apresurarían a anunciarlo, corriendo el riesgo de que el anuncio del quebranto impidiese el quebranto.
 

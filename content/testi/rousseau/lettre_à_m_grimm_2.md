@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettre_à_m_grimm_2" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRE À M. GRIMM (2)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRE À M. GRIMM (2)" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Je vous félicite, monsieur, de votre nouvelle gloire. Vous voilà en possession d'un honneur qu'Homère et Platon n'ont eu que longtemps après leur mort, et dont Boileau seul avait joui de son vivant parmi nous : vous avez un commentateur. Les remarques sur votre lettre n'ont pas, il est vrai, le titre de commentaires ; mais vous savez que les commentateurs suppriment les choses essentielles, et étendent celles qui n'en ont pas besoin ; qu'ils ont la fureur d'interpréter tout ce qui est clair ; que leurs explications sont toujours plus obscures que le texte, et qu'il n'y a sorte de choses qu'ils n'aperçoivent dans leur auteur, excepté les grâces et la finesse.
 
@@ -54,7 +54,7 @@ et à ces autres vers de la même pièce,
 
 C'en est fait ; je renonce à tous les gens de bien, etc.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Priez-le de vouloir décider si c'est là du [sublime](/concepts/sublime) ou non. On lui en pourrait demander autant de la musique de la Serva padrona ; mais il n'en a peut-être jamais entendu parler.
 
@@ -84,7 +84,7 @@ Quant à moi, qui vous dis librement ce que je pense à charge et à décharge, 
 
 En remarquant très bien la grande supériorité de l'ariette italienne, par la force et la variété des passions et des tableaux, vous auriez dû peut-être relever un ridicule contre-sens qu'on y trouve souvent, et qui est la seule chose que les musiciens français en ont fidèlement copiée : c'est que les paroles roulant ordinairement sur une comparaison, dont la première partie de l'ariette fait le premier membre, et la seconde le second, quand le musicien reprend le rondeau pour finir sur la première partie, il nous offre un sens tout semblable à celui d'un discours exactement ponctué, qui finirait par une virgule.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mais revenons au pauvre compère qui se morfond peut-être à écouter, et ne point entendre.
 
@@ -112,7 +112,7 @@ Il faut reconnaître dans M. Rameau un très grand talent, beaucoup de feu, une 
 
 Son récitatif est moins naturel, mais beaucoup plus varié que celui de Lulli ; admirable dans un petit nombre de scènes, mauvais presque partout ailleurs : ce qui est peut-être autant la faute du genre que la sienne ; car c'est souvent pour avoir trop voulu s'asservir à la déclamation qu'il a rendu son chant baroque et ses transitions dures. S'il eût eu la force d'imaginer le vrai récitatif, et de le faire passer chez cette troupe moutonnière, je crois qu'il y eût pu exceller.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Il est le premier qui ait fait des symphonies et des accompagnements travaillés, et il en a abusé. L'orchestre de l'Opéra ressemblait, avant lui, à une troupe de quinze-vingts attaquée de paralysie. Il les a un peu dégourdis. Ils assurent qu'ils ont actuellement de l'exécution ; mais je dis, moi, que ces gens-là n'auront jamais ni goût ni âme. Ce n'est encore rien d'être ensemble, de jouer fort ou doux, et de bien suivre un acteur. Renforcer, adoucir, appuyer, dérober des sons, selon que le bon goût ou l'expression l'exigent ; prendre l'esprit d'un accompagnement, faire valoir et soutenir des voix, c'est l'art de tous les orchestres du monde, excepté celui de notre Opéra.
 

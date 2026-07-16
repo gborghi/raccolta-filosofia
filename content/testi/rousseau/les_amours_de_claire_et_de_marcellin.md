@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/les_amours_de_claire_et_de_marcellin" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LES AMOURS DE CLAIRE ET DE MARCELLIN" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LES AMOURS DE CLAIRE ET DE MARCELLIN" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Dans le village d'Orival en Dauphiné demeurait un laboureur à son aise nommé Germon. Ce paysan avait un fils unique nommé Marcellin : jeune homme heureusement né et d'un mérite d'autant plus vrai qu'il n'avait point reçu le fard de l'éducation. Son père fâché de n'avoir que lui, voulut le marier de bonne heure pour s'assurer une plus nombreuse famille. Car la multitude des enfants qui chez les paysans ajoute à la misère des pauvres, augmente la richesse de ceux qui sont à leur aise. Germon s'étant donc arrangé pour ce mariage, le conclut moins en villageois qu'en homme riche, c'est-à-dire sur les seules convenances du bien et sans beaucoup consulter le goût de son fils.
 
@@ -46,7 +46,7 @@ Le danger du fils ranima la mère et l'arracha de son lit. Et cet événement qu
 
 Les causes du mal une fois connues, il n'y avait plus de difficulté dans le choix des remèdes. La jeunesse et la vigueur du malade promettaient bien la prompte guérison du corps, mais la plaie de l'âme devait saigner longtemps.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Germon apprit avec surprise et douleur le secret de la maladie de son fils, cependant son opiniâtreté naturelle balança longtemps l'effroi que lui causait une résolution si désespérée. Il la regardait plutôt comme une simplicité de jeune homme que comme un excès d'amour. Car Les phénomènes de cette étrange passion sont des mystères, inconcevables pour les cœurs qui ne sont pas faits pour la sentir. Claire ne s'y trompa pas de même ; le secret avait transpiré ; car quoique la bonne Germon fût mère, cela n'empêchait pas qu'elle ne fut femme. Et l'on conçoit bien qu'en pareil cas, une amante inquiète n'est pas la dernière instruite des événements qui l'intéressent. Claire vola au chevet de Marcellin ; elle avait le bonheur de n'être pas l'esclave de ces ridicules bienséances qui font des procédés des villes un commerce perpétuel de contrainte et de fausseté. Elle se livra donc sans scrupule a toute la sensibilité de son âme ; ses yeux en disaient plus que sa bouche et elle pouvait s'exprimer avec d'autant plus d'assurance que le langage du sentiment, si vif, si énergique, si bien entendu d'elle et de Marcellin ne l'était guère des autres spectateurs.
 

@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_extreme_unction" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Extreme Unction" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Extreme Unction" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 EXTREME UNCTION (QQ[29]-33)
 OF EXTREME UNCTION, AS REGARDS ITS ESSENCE AND INSTITUTION (NINE
@@ -39,7 +39,7 @@ Under the first head there are nine points of inquiry:
 (8) Whether the form of this sacrament should take the shape of a deprecatory phrase?
 (9) Whether this is a suitable form for this sacrament?
 
-<span class="atom-split" data-atom="002" data-title="Whether Extreme Unction is a sacrament?" data-chapter="Whether Extreme Unction is a sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Whether Extreme Unction is a sacrament?" data-chapter="Whether Extreme Unction is a sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Extreme Unction is not a [sacrament](/concepts/sacrament). For just as oil is used on
 sick people, so is it on catechumens. But anointing of catechumens with oil is not a sacrament.
@@ -91,7 +91,7 @@ the ministers, their actions, and the recipients. Nevertheless since Extreme Unc
 and remission of sins, there is no doubt that it possesses an enlightening and cleansing power, even
 as Baptism, though not so copious.
 
-<span class="atom-split" data-atom="003" data-title="Whether Extreme Unction is one sacrament?" data-chapter="Whether Extreme Unction is one sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether Extreme Unction is one sacrament?" data-chapter="Whether Extreme Unction is one sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Extreme Unction is not one [sacrament](/concepts/sacrament). Because the oneness
 of a thing depends on its matter and form, since being and oneness are derived from the same
@@ -151,7 +151,7 @@ as if one were to consecrate a host a second time, which ought by no means to be
 the plurality of ministers destroy the unity of this sacrament, because they only act as instruments,
 and the unity of a smith's work is not destroyed by his using several hammers.
 
-<span class="atom-split" data-atom="004" data-title="Whether this sacrament was instituted by Christ?" data-chapter="Whether this sacrament was instituted by Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether this sacrament was instituted by Christ?" data-chapter="Whether this sacrament was instituted by Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) was not instituted by Christ. For mention is
 made in the Gospel of the institution of those sacraments which Christ instituted, for instance the
@@ -202,7 +202,7 @@ Reply to Objection 3: Christ did not show forth any sacrament except such as He 
 way of example: but He could not be a recipient of Penance and Extreme Unction, since there was
 no sin in Him: hence He did not show them forth.
 
-<span class="atom-split" data-atom="005" data-title="Whether olive oil is a suitable matter for this sacrament?" data-chapter="Whether olive oil is a suitable matter for this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether olive oil is a suitable matter for this sacrament?" data-chapter="Whether olive oil is a suitable matter for this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that olive oil is not a suitable matter for this [sacrament](/concepts/sacrament). For this
 sacrament is ordained immediately to [the state](/concepts/state) of incorruption. Now incorruption is signified by
@@ -245,7 +245,7 @@ Reply to Objection 3: Though olive oil is not produced everywhere, yet it can ea
 transported from one place to another. Moreover this sacrament is not so necessary that the dying
 cannot obtain salvation without it.
 
-<span class="atom-split" data-atom="006" data-title="Whether the oil ought to be consecrated?" data-chapter="Whether the oil ought to be consecrated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the oil ought to be consecrated?" data-chapter="Whether the oil ought to be consecrated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the oil need not be consecrated. Because there is a sanctification
 in the use of this [sacrament](/concepts/sacrament), through the form of words. Therefore another sanctification is
@@ -287,7 +287,7 @@ Reply to Objection 2: The efficacy which the sacrament derives from its institut
 to this particular matter when it is consecrated.
 The Reply to the Third Objection is gathered from what has been said.
 
-<span class="atom-split" data-atom="007" data-title="Whether the matter of this sacrament need be consecrated by a bishop?" data-chapter="Whether the matter of this sacrament need be consecrated by a bishop?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether the matter of this sacrament need be consecrated by a bishop?" data-chapter="Whether the matter of this sacrament need be consecrated by a bishop?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the matter of this [sacrament](/concepts/sacrament) need not be consecrated by a
 bishop. Because the consecration of the Eucharistic elements surpasses that of the matter in this
@@ -331,7 +331,7 @@ a Divine operation. Hence the matter needs to acquire this virtue from a higher 
 among efficient causes, the more prior the cause the more perfect it is, whereas in material causes,
 the more prior the matter, the more imperfect it is.
 
-<span class="atom-split" data-atom="008" data-title="Whether this sacrament has a form?" data-chapter="Whether this sacrament has a form?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether this sacrament has a form?" data-chapter="Whether this sacrament has a form?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) has no form. Because, since the efficacy of the
 sacraments is derived from their institution, as also from their form, the latter must needs be
@@ -379,7 +379,7 @@ very contact of our Saviour's flesh; but the form of words sanctifies it so that
 force. In like manner when the matter of this sacrament has been sanctified in itself, it requires
 sanctification in its use, so that it may sanctify actually.
 
-<span class="atom-split" data-atom="009" data-title="Whether the form of this sacrament should be expressed by way of assertion or of petition?" data-chapter="Whether the form of this sacrament should be expressed by way of assertion or of petition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether the form of this sacrament should be expressed by way of assertion or of petition?" data-chapter="Whether the form of this sacrament should be expressed by way of assertion or of petition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the form of this [sacrament](/concepts/sacrament) should be expressed by way of
 assertion rather than of petition. Because all the sacraments of the [New Law](/concepts/divine_law) have a sure effect. But
@@ -430,7 +430,7 @@ Reply to Objection 3: These words in the indicative mood, which some are wont to
 the prayer, are not the sacramental form, but are a preparation for the form, in so far as they determine
 the intention of the minister.
 
-<span class="atom-split" data-atom="010" data-title="Whether the foregoing prayer is a suitable form for this sacrament?" data-chapter="Whether the foregoing prayer is a suitable form for this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the foregoing prayer is a suitable form for this sacrament?" data-chapter="Whether the foregoing prayer is a suitable form for this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the foregoing prayer is not a suitable form for this [sacrament](/concepts/sacrament).
 For in the forms of the other sacraments mention is made of the matter, for instance in Confirmation,
@@ -464,7 +464,7 @@ the recipient. Now bodily health is not an effect of this kind, as we shall stat
 AA[1] ,2), though it does ensue at times, for which reason James ascribes this effect to the prayer
 which is the form of this sacrament.
 
-<span class="atom-split" data-atom="011" data-title="OF THE EFFECT OF THIS SACRAMENT (THREE ARTICLES)" data-chapter="OF THE EFFECT OF THIS SACRAMENT (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="OF THE EFFECT OF THIS SACRAMENT (THREE ARTICLES)" data-chapter="OF THE EFFECT OF THIS SACRAMENT (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effect of this [sacrament](/concepts/sacrament): under which head there are three points of
 inquiry:
@@ -472,7 +472,7 @@ inquiry:
 (2) Whether bodily health is an effect of this sacrament?
 (3) Whether this sacrament imprints a character?
 
-<span class="atom-split" data-atom="012" data-title="Whether Extreme Unction avails for the remission of sins?" data-chapter="Whether Extreme Unction avails for the remission of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether Extreme Unction avails for the remission of sins?" data-chapter="Whether Extreme Unction avails for the remission of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Extreme Unction does not avail for the remission of sins. For
 when a thing can be attained by one means, no other is needed. Now repentance is required in the
@@ -543,7 +543,7 @@ Reply to Objection 3: When many actions are ordained to one effect, the last is 
 respect to all the others that precede, and acts by virtue of them: wherefore by the last anointing is
 infused grace which gives the sacrament its effect.
 
-<span class="atom-split" data-atom="013" data-title="Whether bodily health is an effect of this sacrament?" data-chapter="Whether bodily health is an effect of this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether bodily health is an effect of this sacrament?" data-chapter="Whether bodily health is an effect of this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that bodily health is not an effect of this [sacrament](/concepts/sacrament). For every
 sacrament is a spiritual remedy. Now a spiritual remedy is ordained to spiritual health, just as a
@@ -586,7 +586,7 @@ Reply to Objection 3: This prayer is the form of this sacrament as stated above 
 Hence, so far as its form is concerned, this sacrament derives from it its efficacy in healing the
 body.
 
-<span class="atom-split" data-atom="014" data-title="Whether this sacrament imprints a character?" data-chapter="Whether this sacrament imprints a character?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether this sacrament imprints a character?" data-chapter="Whether this sacrament imprints a character?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) imprints a character. For a character is a
 distinctive sign. Now just as one who is baptized is distinguished from one who is not so is one
@@ -622,7 +622,7 @@ comparison fails.
 Reply to Objection 3: In this sacrament, that which is both reality and sacrament is not a
 character, but a certain inward devotion which is a kind of spiritual anointing.
 
-<span class="atom-split" data-atom="015" data-title="OF THE MINISTER OF THIS SACRAMENT (THREE ARTICLES)" data-chapter="OF THE MINISTER OF THIS SACRAMENT (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="OF THE MINISTER OF THIS SACRAMENT (THREE ARTICLES)" data-chapter="OF THE MINISTER OF THIS SACRAMENT (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the minister of this [sacrament](/concepts/sacrament): under which head there are three points
 of inquiry:
@@ -630,7 +630,7 @@ of inquiry:
 (2) Whether a deacon can?
 (3) Whether none but a bishop can confer it?
 
-<span class="atom-split" data-atom="016" data-title="Whether a layman can confer this sacrament?" data-chapter="Whether a layman can confer this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether a layman can confer this sacrament?" data-chapter="Whether a layman can confer this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that even a layman can confer this [sacrament](/concepts/sacrament). For this sacrament
 derives its efficacy from prayer, as James declares (James 5:15). But a layman's prayer is sometimes
@@ -656,7 +656,7 @@ Reply to Objection 2: These unctions were not sacramental. It was due to the dev
 recipients of the unction, and to the merits of those who anointed them that they procured the effects
 of bodily health, through the "grace of healing" (1 Cor. 12:9) but not through sacramental grace.
 
-<span class="atom-split" data-atom="017" data-title="Whether deacons can confer this sacrament?" data-chapter="Whether deacons can confer this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether deacons can confer this sacrament?" data-chapter="Whether deacons can confer this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that deacons can confer this [sacrament](/concepts/sacrament). For, according to Dionysius
 (Eccl. Hier. v) "deacons have the power to cleanse." Now this sacrament was instituted precisely
@@ -680,7 +680,7 @@ Reply to Objection 2: This is not a necessary sacrament, as Baptism is. Hence it
 not committed to all in cases of necessity, but only to those who are competent to do so in virtue
 of their office. Nor are deacons competent to baptize in virtue of their office.
 
-<span class="atom-split" data-atom="018" data-title="Whether none but a bishop can confer this sacrament?" data-chapter="Whether none but a bishop can confer this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether none but a bishop can confer this sacrament?" data-chapter="Whether none but a bishop can confer this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that none but a bishop can confer this [sacrament](/concepts/sacrament). For this sacrament
 consists in an anointing, just as Confirmation does. Now none but a bishop can confirm. Therefore
@@ -710,7 +710,7 @@ of view of efficient cause, the consecration of the matter is the more important
 matter is dependent thereon, as on its active cause: hence the consecration of the matter demands
 a higher power than the use of the matter does.
 
-<span class="atom-split" data-atom="019" data-title="ON WHOM SHOULD THIS SACRAMENT BE CONFERRED AND ON WHAT PART OF THE BODY? (SEVEN ARTICLES)" data-chapter="ON WHOM SHOULD THIS SACRAMENT BE CONFERRED AND ON WHAT PART OF THE BODY? (SEVEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="ON WHOM SHOULD THIS SACRAMENT BE CONFERRED AND ON WHAT PART OF THE BODY? (SEVEN ARTICLES)" data-chapter="ON WHOM SHOULD THIS SACRAMENT BE CONFERRED AND ON WHAT PART OF THE BODY? (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider on whom this [sacrament](/concepts/sacrament) should be conferred and on what part of the
 body: under which head there are seven points of inquiry:
@@ -722,7 +722,7 @@ body: under which head there are seven points of inquiry:
 (6) Whether certain parts are suitably assigned to be anointed?
 (7) Whether those who are deformed in the above parts ought to be anointed thereon?
 
-<span class="atom-split" data-atom="020" data-title="Whether this sacrament ought to be conferred on those who are in good health?" data-chapter="Whether this sacrament ought to be conferred on those who are in good health?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether this sacrament ought to be conferred on those who are in good health?" data-chapter="Whether this sacrament ought to be conferred on those who are in good health?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) should be conferred even on those who are in
 good health. For the healing of the mind is a more important effect of this sacrament than the healing
@@ -752,7 +752,7 @@ Reply to Objection 2: Even those who are entering into life cannot receive Bapti
 they are capable of a bodily washing. And so those who are departing this life cannot receive this
 sacrament, unless they be subjects for a bodily healing.
 
-<span class="atom-split" data-atom="021" data-title="Whether this sacrament ought to be given in any kind of sickness?" data-chapter="Whether this sacrament ought to be given in any kind of sickness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether this sacrament ought to be given in any kind of sickness?" data-chapter="Whether this sacrament ought to be given in any kind of sickness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) should be given in any kind of sickness. For
 no kind of sickness is determined in the fifth chapter of James where this sacrament is delivered
@@ -782,7 +782,7 @@ people lack, whatever be the stage of their sickness. But the principal effect o
 that immunity from disorder which is needed by those who are taking their departure from this life
 and setting out for the life of glory. Hence the comparison fails.
 
-<span class="atom-split" data-atom="022" data-title="Whether this sacrament ought to be given to madmen and imbeciles?" data-chapter="Whether this sacrament ought to be given to madmen and imbeciles?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether this sacrament ought to be given to madmen and imbeciles?" data-chapter="Whether this sacrament ought to be given to madmen and imbeciles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) should be given to madmen and imbeciles. For
 these diseases are full of danger and cause death quickly. Now when there is danger it is the time
@@ -813,7 +813,7 @@ given chiefly as a remedy for [original sin](/positions/original_sin), which, in
 free-will. On the other hand this sacrament requires a movement of the free-will; wherefore the
 comparison fails. Moreover Baptism is a necessary sacrament, while Extreme Unction is not.
 
-<span class="atom-split" data-atom="023" data-title="Whether this sacrament should be given to children?" data-chapter="Whether this sacrament should be given to children?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether this sacrament should be given to children?" data-chapter="Whether this sacrament should be given to children?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) ought to be given to children. Because children
 suffer from the same ailments sometimes as adults. Now the same disease requires the same remedy.
@@ -839,7 +839,7 @@ Reply to Objection 2: This sacrament is not given as a remedy for the remnants o
 sin, except in so far as they gather strength, so to speak, from actual sins. Hence from the very form
 it appears that it is given chiefly as a remedy for actual sins, which are not in children.
 
-<span class="atom-split" data-atom="024" data-title="Whether the whole body should be anointed in this sacrament?" data-chapter="Whether the whole body should be anointed in this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the whole body should be anointed in this sacrament?" data-chapter="Whether the whole body should be anointed in this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the whole body should be anointed in this [sacrament](/concepts/sacrament). For,
 according to [Augustine](/figures/augustine) (De Trin. vi, 6), "the whole soul is in every part of the body." Now this
@@ -871,7 +871,7 @@ Reply to Objection 3: Baptism is given under the form of washing: and a bodily w
 cleanses only the part to which it is applied; for this reason Baptism is applied to the whole body.
 It is different with Extreme Unction for the reason given above.
 
-<span class="atom-split" data-atom="025" data-title="Whether the parts to be anointed are suitably assigned?" data-chapter="Whether the parts to be anointed are suitably assigned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the parts to be anointed are suitably assigned?" data-chapter="Whether the parts to be anointed are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that these parts are unsuitably assigned, namely, that the eyes,
 nose, ears, lips, hands, and feet should be anointed. For a wise physician heals the disease in its
@@ -921,7 +921,7 @@ Reply to Objection 4: The bodily organs which are the instruments of sin, are th
 and tongue, all of which are anointed, and the organs of generation which it would be unbecoming
 to anoint, on account of their uncleanliness, and out of respect for the sacrament.
 
-<span class="atom-split" data-atom="026" data-title="Whether those who are deformed in those parts should be anointed?" data-chapter="Whether those who are deformed in those parts should be anointed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether those who are deformed in those parts should be anointed?" data-chapter="Whether those who are deformed in those parts should be anointed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those who are deformed should not be anointed in those parts.
 For just as this [sacrament](/concepts/sacrament) demands a certain disposition on the part of the recipient, viz. that he
@@ -942,14 +942,14 @@ they have, at least radically, the powers of the soul, corresponding to those me
 commit inwardly the sins that pertain to those members, though they cannot outwardly.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="027" data-title="OF THE REPETITION OF THIS SACRAMENT (TWO ARTICLES)" data-chapter="OF THE REPETITION OF THIS SACRAMENT (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="OF THE REPETITION OF THIS SACRAMENT (TWO ARTICLES)" data-chapter="OF THE REPETITION OF THIS SACRAMENT (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the repetition of this [sacrament](/concepts/sacrament): under which head there are two points
 of inquiry:
 (1) Whether this sacrament ought to be repeated?
 (2) Whether it ought to be repeated during the same sickness?
 
-<span class="atom-split" data-atom="028" data-title="Whether this sacrament ought to be repeated?" data-chapter="Whether this sacrament ought to be repeated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether this sacrament ought to be repeated?" data-chapter="Whether this sacrament ought to be repeated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) ought not to be repeated. For the anointing of
 a man is of greater import than the anointing of a stone. But the anointing of an altar is not repeated,
@@ -978,7 +978,7 @@ Reply to Objection 2: What men think to be extreme is not always extreme in real
 that this sacrament is called Extreme Unction, because it ought not to be given save to those whose
 death men think to be nigh.
 
-<span class="atom-split" data-atom="029" data-title="Whether this sacrament ought to be repeated during the same sickness?" data-chapter="Whether this sacrament ought to be repeated during the same sickness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether this sacrament ought to be repeated during the same sickness?" data-chapter="Whether this sacrament ought to be repeated during the same sickness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) ought not to be repeated during the same
 sickness. For one disease demands one remedy. Now this sacrament is a spiritual remedy. Therefore

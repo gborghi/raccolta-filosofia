@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/seneca/thyestes" data-philosopher="Seneca"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="THYESTES" data-chapter="DRAMATIS PERSONAE" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="THYESTES" data-chapter="DRAMATIS PERSONAE" data-kind="intro" data-srclang="en"></span>
 
 THYESTES, brother of Atreus, in exile from his fatherland.
 
@@ -38,13 +38,13 @@ CHORUS, Citizens of Mycenae.
 
 THE SCENE is laid partly without the city of Argos, and partly within the royal palace.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
 
 Pelops, the son of Tantalus, had banished his sons for the murder of their half-brother, Chrysippus, with a curse upon them, that they and their posterity might perish by each others’ hands. Upon the death of Pelops, Atreus returned and took possession of his father’s throne. Thyestes, also, claimed the throne, and sought to gain it by the foulest means. For he seduced his brother’s wife, Aërope, and stole by her assistance the magical, gold-fleeced ram from Atreus’ flocks, upon the possession of which the right to rule was said to rest. For this act he was banished by the king.
 
 But Atreus has long been meditating a more complete revenge upon his brother; and now in pretended [friendship](/concepts/friendship) has recalled him from banishment, offering him a place beside himself upon the throne, that thus he may have Thyestes entirely in his power.
 
-<span class="atom-split" data-atom="003" data-title="THYESTES (1/8)" data-chapter="THYESTES" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="THYESTES (1/8)" data-chapter="THYESTES" data-kind="atom" data-srclang="en"></span>
 
 THE GHOST OF TANTALUS
 
@@ -78,7 +78,7 @@ CHORUS
 
 [122] If any god loves Achaian Argos and Pisa’s homes renowned for chariots; if any loves Corinthian Isthmus’ realm, its twin harbours, its dissevered sea; if any, the far-seen snows of Mount Taÿgetus, snows which, when in winter-time the Sarmatian blasts have laid them on the heights, the summer with its sail-filling Etesian breezes melts away; if any is moved by the cool, clear stream of Alpheus, famed for its Olympic course – let him his kindly godhead hither turn, let him forbid the recurrent waves of crime to come again, forbid that on his grandsire follow a worse grandson, and greater crime please lesser men. Wearied at last, may the impious race of thirsty Tantalus give o’er its lust for savagery. Enough sin has been wrought; nothing has right availed, or general wrong. Himself betrayed, fell Myrtilus, betrayer of his lord, and, dragged down by the faith which he had shown, he made a sea famous by its change of name; to Ionian ships no tale is better known. While the little son ran to his father’s kiss, welcomed by sinful sword, he fell, an untimely victim at the hearth, and by the right hand was carved, O Tantalus, that thou mightest spread a banquet for the gods, thy guests. Such food eternal hunger, such eternal thirst pursues; nor for such bestial viands could have been meted penalty more fit.
 
-<span class="atom-split" data-atom="004" data-title="THYESTES (2/8)" data-chapter="THYESTES" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="THYESTES (2/8)" data-chapter="THYESTES" data-kind="atom" data-srclang="en"></span>
 
 [152] Weary, with empty throat, stands Tantalus; above his guilty head hangs food in plenty, than Phineus’ birds more elusive; on either side, with laden boughs, a tree leans over him and, bending and trembling ‘neath its weight of fruit, makes sport with his wide-straining jaws. The prize, though he is eager and impatient of delay, deceived so oft, he tries no more to touch, turns away his eyes, shuts tight his lips, and behind clenched teeth he bars his hunger. But then the whole grove lets its riches down nearer still, and the mellow fruits above his head mock him with drooping boughs and whet again the hunger, which bids him ply his hands in vain. When he has stretched these forth and gladly has been baffled, the whole ripe harvest of the bending woods is snatched far out of reach. Then comes a raging thirst, harder to bear than hunger; when by this his blood has grown hot and glowed as with fiery torches, the poor wretch stands catching at waves that seem to approach his lips; but these the elusive water turns aside, failing in meagre shallows, and leaves him utterly, striving to pursue; then deep from the whirling stream he drinks – but dust.
 
@@ -206,7 +206,7 @@ ATTENDANT
 
 ATREUS
 
-<span class="atom-split" data-atom="005" data-title="THYESTES (3/8)" data-chapter="THYESTES" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="THYESTES (3/8)" data-chapter="THYESTES" data-kind="atom" data-srclang="en"></span>
 
 [295] Base hope is credulous. Still to my sons will I give a message to carry to their uncle: let the exiled wanderer quit strangers’ homes, for a throne exchange his wretched state and rule at Argos, a partner of my sway. If too stubbornly Thyestes spurns my prayer, his sons, guileless and spent with hard misfortunes and easy to be entreated, will be moved. On this side, his old mad thirst for power, on that, grim want and unfeeling toil by their many woes will force the man, however stiff, to yield.
 
@@ -316,7 +316,7 @@ TANTALUS
 
 THYESTES
 
-<span class="atom-split" data-atom="006" data-title="THYESTES (4/8)" data-chapter="THYESTES" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="THYESTES (4/8)" data-chapter="THYESTES" data-kind="atom" data-srclang="en"></span>
 
 [446] False, believe me, are the titles that give greatness charm; idle our fears of hardship. While I stood high in power, never did I cease to dread, yea, to fear the very sword upon my thigh. Oh, how good it is to stand in no man’s road, care-free to eat one’s bread, on the ground reclining! Crime enters not lowly homes, and in safety is food taken at a slender board; poison is drunk from cups of gold. I speak that I do know: evil fortune is to be preferred to good. The lowly citizen fears no house of mine set high and threatening on a mountain top; my towering roofs flash not with gleaming ivory, no guard watches o’er my slumbers; with no fleet of boats I fish, with no piled break-water do I drive back the sea; I gorge not my vile belly at the world’s expense; for me no fields are harvested beyond the Getae and the Parthians; no incense burns for me, nor are my shrines adorned in neglect of Jove; no planted grove waves on my battlements, nor does many a pool heated by art steam for me; my days are not given to sleep nor are my nights linked with wakeful revelry: but I am not feared, safe without weapons is my house and to my small estate great peace is granted. ’Tis a boundless kingdom, – the power without kingdoms to content.
 
@@ -424,7 +424,7 @@ CHORUS
 
 [560] This sudden lull out of so great uproar what god has wrought? But now throughout Mycenae the arms of civil strife resounded; pale mother held fast their sons, the wife feared for her lord full armed, when to his hand came the reluctant sword, foul with the rust of peace; one strove to repair tottering walls, one to strengthen towers, crumbling with long neglect; another strove to shut gates tight with iron bars, while on the battlements the trembling guard kept watch o’er the troubled night – for worse than war is the very fear of war. Now the sword’s dire threats have fallen; now still is the deep trumpet-blare; now silent the shrill clarion’s blast; deep peace to a glad city is restored. So, when the floods heave up from ocean’s depths and Corus lashes the Bruttian waters; when Scylla roars in her disturbed cavern, and mariners in harbour tremble at the sea which greedy Charybdis drains and vomits forth again; when the wild Cyclops, sitting on burning Aetna’s crag, dreads his sire’s rage, lest the o’erwheening waves put out the fires that roar in immemorial furnaces; and when beggared Laërtes thinks, while Ithaca reels beneath the shock, that his kingdom may be submerged – then, if their strength has failed the winds, the sea sinks back more peaceful than a pool; and the deep waters which the ship feared to cleave, now far and wide studded with bellying sails, a beauteous sight, to pleasure-boats spread out their waves; and you may now count the fish swimming far below, where but lately beneath the mighty hurricane the tossed Cyclads trembled at the sea.
 
-<span class="atom-split" data-atom="007" data-title="THYESTES (5/8)" data-chapter="THYESTES" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="THYESTES (5/8)" data-chapter="THYESTES" data-kind="atom" data-srclang="en"></span>
 
 [596] No lot endureth long; pain and pleasure, each in turn, give place; more quickly, pleasure. Lowest with highest the fickle hour exchanges. He who wears crown on brow, before whom trembling nations bend the knee, at whose nod the Medes lay down their arms, and the Indians of the nearer sun, and the Dahae who hurl their horse upon the Parthians – he with anxious hand holds the sceptre, and both foresees and fear fickle [chance](/concepts/fortune) and shifting time that change all things.
 
@@ -520,7 +520,7 @@ CHORUS
 
 MESSENGER
 
-<span class="atom-split" data-atom="008" data-title="THYESTES (6/8)" data-chapter="THYESTES" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="THYESTES (6/8)" data-chapter="THYESTES" data-kind="atom" data-srclang="en"></span>
 
 [749] Would that he had refused! I pray not that earth cover or fire consume the dead! He may give them to the birds to feast upon, may drag them out as a ghastly meal for ravenous beasts – oh, after what befell, one might pray for what is oft held punishment – unburied may the father gaze upon his sons! O crime incredible to any age, which coming generations will deny – torn from the still living breasts the vitals quiver; the lungs still breathe and the fluttering heart still beats. But he handles the organs and enquires the fates, and notes the markings of the still warm entrails.
 
@@ -550,7 +550,7 @@ ATREUS
 
 [908] The open hall with many a torch is gleaming. There he himself reclines at full length on gold and purple, propping his wine-heavy head on his left hand. He belches with content. Oh, most exalted of the gods am I, and king of kings! I have o’ertopped my hopes. His meal is done; from the great silver cup he quaffs the wine – spare not thy drinking; there still remains the blood of all the victims, and this the colour of old wine will well disguise. With this, this goblet let the meal be done. His sons’ mingled blood let the father drink; he would have drunk my own. Lo, now he raises his joyous voice in song, nor well controls his spirit.
 
-<span class="atom-split" data-atom="009" data-title="THYESTES (7/8)" data-chapter="THYESTES" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="THYESTES (7/8)" data-chapter="THYESTES" data-kind="atom" data-srclang="en"></span>
 
 [THYESTES sits alone at the banquet-table, half overcome with wine; he tries to sing and be gay, but, in spite of this, some vague premonition of evil weighs upon his spirits.]
 
@@ -628,7 +628,7 @@ ATREUS
 
 THYESTES
 
-<span class="atom-split" data-atom="010" data-title="THYESTES (8/8)" data-chapter="THYESTES" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="THYESTES (8/8)" data-chapter="THYESTES" data-kind="atom" data-srclang="en"></span>
 
 [1068] Hear, O ye seas, by shifting shores imprisoned, and ye, too, hear this crime, withersoever you have fled, ye gods; hear, lords of the underworld; hear, lands, and Night, heavy with black, Tartarean fogs, give ear unto my cries; (to thee am I abandoned, thou only lookest on my woe, thou also forsaken of the stars;) no wicked pleas will I make, naught for myself implore – and what now can I ask in my own behalf? For you shall my prayers be offered. O thou, exalted ruler of the sky, who sittest in majesty upon the throne of heaven, enwrap the whole universe in awful clouds, set the winds warring on every hand, and from every quarter of the sky let the loud thunders roll; not with what hand thou seekest houses and undeserving homes, using thy lesser bolts, but with that hand by which the threefold mass of mountains fell, and the Giants, who stood level with the mountains – these arms let loose and hurl thy fires. Make compensation for the banished day, brandish they flames, and the light that was snatched from heaven with thy lightning’s flash supply. Let the cause, lest long thou hesitate, of each one of us be evil; if not, let mine be evil; aim thou at me, through this heart send thy three-forked flaming bolt. If I their father would give his sons to burial and commit them to the funeral flames, I must myself be burned. But if naught moves the gods, and no divinity hurls darts against the impious, may night stay on for ever, and cover with endless darkness boundless crimes. No protest do I make, O sun, if thou continue steadfast.
 

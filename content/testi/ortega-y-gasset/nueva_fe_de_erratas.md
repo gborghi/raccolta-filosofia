@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nueva_fe_de_erratas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nueva fe de erratas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nueva fe de erratas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Sancho Quijano rectifica con escasez y se ratifica con exceso. Esta actitud no puede sorprenderme, y no pretendí un momento con mi nota anterior modificar de una manera apreciable su posición, que, desde luego, he supuesto inconmovible. Yo me contentaba con dirigirme al lector, y renunciando a todo razonamiento suasorio, le presentaba lealmente junto a un texto de Sancho Quijano otros viejos textos míos a fin de que pudiese él, no Sancho Quijano, ejecutar las rectificaciones oportunas. No tenía el [caso](/concepts/fortune) otro interés que servir como ejemplo de la anarquía y liviandad reinantes en la república intelectual, pues resultaba que «Sancho Quijano» combatía una supuesta tesis mía de 1914 con otra suya de 1923, y la verdad era que esta idea suya de 1923 coincidía con la auténtica opinión mía de 1914. Por muy habituado que se esté a los malos usos de la sociedad literaria, desazona siempre un poco ver que le arrojan a uno en calidad de proyectil lo que constituye precisamente nuestro propio pensamiento.
 

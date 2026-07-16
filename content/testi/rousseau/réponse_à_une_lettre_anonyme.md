@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/réponse_à_une_lettre_anonyme" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="RÉPONSE À UNE LETTRE ANONYME" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="RÉPONSE À UNE LETTRE ANONYME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Je suis sensible aux attentions dont m'honorent ces messieurs que je ne connais point, mais il faut que je réponde à ma manière, car je n'en ai qu'une.
 

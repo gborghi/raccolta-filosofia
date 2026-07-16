@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/a_aulard_taine_historien_de_la_révolution_française" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="A. Aulard: Taine, historien de la Révolution Française" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="A. Aulard: Taine, historien de la Révolution Française" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace pocos días un amigo mío, catalán y aun catalanista, me escribía estas palabras: «Ya sabe usted cómo fue educada la generación de la cual salieron los que hoy gobiernan en este caos desdichado que se llama política catalana: se les ha enseñado el prólogo de la obra de Taine y… nada más».
 
@@ -50,7 +50,7 @@ Taine es hoy el último baluarte teórico de los conservadores porque fue enemig
 
 También fue Renan literato y acaso dañó un poco la literatura a la integridad de su conciencia científica. ¡Pero tan poco! Con todo y con ello, Renan —aunque figura de segundo orden en la gran perspectiva de la historia de la cultura— supo injertar su ingenio en los profundos bosques sagrados, vírgenes, hoscos, difíciles, que son vivero de humanidad. Renan, si no llegó jamás a inventar una idea —no es la invención su característica—, llegó hasta el fondo del aprendizaje en el estudio de los grandes productores. No fue un filósofo original, pero se abrevó severamente en los problemas disciplinarios de la sabiduría como esos fervientes budistas que llegan hasta el río sagrado y viven algún tiempo en sus aguas dejando que la divinidad líquida macere y sature sus carnes.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No pretendo en dos párrafos cerrar con el nombre de Taine: sería necio, sería poco piadoso y, sobre todo, sería injusto. Todos debemos a las paradojas de Taine un primer impulso al juego intelectual cuando en torno a los veinte años, cansado de jugar nuestro cuerpo, despertó al ejercicio nuestro espíritu. Además, Taine puede operar un influjo fecundo en los estudios artísticos: su idea de la historia del arte, su noción de lo bello, aun pareciéndome terriblemente falsas, llevan en aluvión un interés serio y objetivo. La crítica artística, como interpretación histórica de las obras bellas, obliga al estudio y a la síntesis de épocas pasadas del hombre, ensancha el criterio y el gusto, enriquece el horizonte del juicio y, por encima de todo, lleva a considerar la obra de arte como una realidad hondamente humana ante la cual aparecen ridículos los párrafos de una crítica subjetiva.
 

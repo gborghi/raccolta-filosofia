@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/shylock" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Shylock" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Shylock" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -68,7 +68,7 @@ fluyen todos y se vierten
 
 allá abajo, en el Jordán.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No acabaría de hablar nunca sobre los judíos, ni creo que haya tema más delicado para la sensibilidad de un poeta que este milenario dolor de un pueblo que eligió Dios una vez como vaso en que contenerse. ¡Pobre Jahvé magnífico, dios de la inquietud y de la melancolía; tú que tenías el fuego en la una mano y el maná en la otra y te ponías a arder en las retamas al borde de los caminos, aún la policía rusa azuza un pueblo imbécil, todavía no purificado por la palabra cáustica de los profetas, sobre las gentes de tu elección! ¡Qué horror! Aún ayer Alejandro III expulsaba a los judíos, y las mujeres hebreas, para permanecer, tenían que usar la cédula amarilla de las prostitutas. Eso, ayer; hoy… ¡Kicheneff, Bielostock, sangre, torrentes de sangre; sangre de Rubén, sangre de Neftalí!
 

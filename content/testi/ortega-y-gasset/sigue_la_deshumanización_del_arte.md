@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sigue_la_deshumanización_del_arte" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sigue la deshumanización del arte" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sigue la deshumanización del arte" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La gente nueva ha declarado «tabú» toda injerencia de lo humano en el arte. Ahora bien; lo humano, el repertorio de elementos que integran nuestro mundo habitual, posee una jerarquía de tres rangos. Hay primero el orden de las personas, hay luego el de los seres vivos, hay, en fin, las cosas inorgánicas. Pues bien: el veto del arte nuevo se ejerce con una energía proporcional a la altura jerárquica del objeto. Lo personal, por ser lo más humano de lo humano, es lo que más evita el arte joven.
 
@@ -48,7 +48,7 @@ Recuérdese cuál era el tema de la poesía en la centuria romántica. El poeta 
 
 No sé, no sé; pero creo que el poeta joven, cuando poetiza, se propone simplemente ser poeta. Ya veremos cómo todo el arte nuevo, coincidiendo en esto con la nueva ciencia, con la nueva política, con la nueva vida, en fin, repugna ante todo la confusión de fronteras. Es un síntoma de pulcritud mental querer que las fronteras entre las cosas estén bien demarcadas. Vida es una cosa, poesía es otra —piensan o, al menos, sienten. No las mezclemos. El poeta empieza donde el hombre acaba. El destino de éste es vivir su itinerario humano; la misión de aquél es inventar lo que no existe. De esta manera se justifica el oficio poético. El poeta aumenta el mundo, añadiendo a lo real, que ya está ahí por sí mismo, un irreal continente. Autor viene de auctor, el que aumenta. Los latinos llamaban así al general que ganaba para la patria un nuevo territorio.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Mallarmé fue el primer hombre del siglo pasado que quiso ser un poeta. Como él mismo dice, «rehusó los materiales naturales» y compuso pequeños objetos líricos, diferentes de la fauna y la flora humanas. Esta poesía no necesita ser «sentida», porque, como no hay en ella nada humano, no hay en ella nada patético. Si se habla de una mujer es de la «mujer ninguna», y si suena una hora es «la hora ausente del cuadrante». A fuerza de negaciones, el verso de Mallarmé anula toda resonancia vital, y nos presenta figuras tan extraterrestres, que el mero contemplarlas es ya sumo placer. ¿Qué puede hacer entre esas fisonomías el pobre rostro del hombre que oficia de poeta? Sólo una cosa: desaparecer, volatilizarse y quedar convertido en una pura voz anónima que sostiene en el aire las palabras, verdaderas protagonistas de la empresa lírica. Esa pura voz anónima, mero substrato acústico del verso, es la voz del poeta, que sabe aislarse de su hombre circundante.
 

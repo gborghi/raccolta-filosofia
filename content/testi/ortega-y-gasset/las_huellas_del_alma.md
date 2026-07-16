@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_huellas_del_alma" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las huellas del alma" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Las huellas del alma" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El alma se expresa en la palabra y en el gesto; pero, además, se imprime en la obra. El gesto y la palabra dicha se volatilizan, y queda del alma que fue sólo la obra y la palabra escrita. Son sus huellas, sus presiones sobre la [materia](/positions/materialism), llenas de significación. No es desdeñable enseñanza que la materia, lo más opuesto al alma, sea la encargada de hacer vivir a ésta. El resto del espíritu que no ha logrado materializarse se evapora.
 

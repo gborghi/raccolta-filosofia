@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_poder_social" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El poder social" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El poder social" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -48,7 +48,7 @@ Téngase en cuenta la fabulosa multiplicación de la influencia personal que él
 
 Así, el exceso de poder social que en España goza el político o el gobernante, constituye al pronto un enigma que luego se convierte en una clave luminosa. Es enigmático que en un país como el nuestro, menos político que Francia, se otorgue al hombre de gobierno más poder social. Pero no tardamos en hallar la solución. En Francia —como veremos— se concede gran poder social a otros muchos oficios y clases de hombres: el político, por muy favorecido que se halle, tiene que entrar en concurrencia con estos otros poderhabientes y pierde el rango desmesurado que entre nosotros ocupa. No es, pues, que posea el ex ministro español más fuerza social que el francés, sino que, por ausencia de otras fuerzas parejas, queda monstruosamente destacado.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En cambio, parecería probable que en nuestra tierra el cura y sobre todo el alto clero, usufructuase un gran poder social. Sin embargo, no ocurre así, y el matiz de los hechos en este punto descubre un secreto de la dinámica nacional española, según ella es verdaderamente en el tiempo que corre.
 
@@ -76,7 +76,7 @@ III
 
 Hemos visto que en todas partes goza el político de un gran poder social, aunque el coeficiente de esa cuantía varía según los países, llegando en España al máximum. Pero este hecho más bien enturbia que aclara lo que hay de peculiar y sorprendente en el fenómeno del poder social. La afluencia de éste a los que ejercen el Poder público, a los que mandan hoy o mañana, puede hacer pensar que se trata de una reacción utilitaria mediante la cual el hombre medio procura halagar a quien puede favorecerle.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Por esta razón conviene que nos transportemos al otro polo de las actividades humanas, al oficio que menos fuerza material —de mando o dinero— posee: el escritor u hombre de letras y ciencias. La profesión literaria lleva en su misma consistencia la notoriedad para quien la ejercita con medianas dotes. Como el político, es el escritor consustancialmente hombre público. No cabe ignorarlo. Por otra parte, su acción es puramente virtual; no puede esperarse de ella ningún beneficio terreno. (Los resultados económicos que acaso produzca —la industria editorial— no proceden directamente de la obra, sino de la actitud del público hacia ella. Por eso no es el escritor, sino el editor, quien obtiene el rendimiento mayor en los países donde el libro proporciona algún rendimiento). Ambas condiciones juntas dan un valor muy puro y característico a la reacción que en una u otra sociedad suscite el gremio literario.
 
@@ -94,7 +94,7 @@ Hablemos, pues, primero de cuál es la influencia directa que el escritor ejerce
 
 No creo que exista entre las civilizadas nación alguna menos dócil al influjo intelectual que la nuestra. Con ligeras modificaciones en esta o la otra época, puede decirse que nunca ha atendido al escritor. La vida de la España moderna representa el original ensayo de sostenerse una raza europea y afrontar el destino histórico sin dejar intervención al pensamiento. Los resultados, hasta ahora, no han sido muy brillantes; pero el buen español medio seguirá perdurablemente considerando a la inteligencia como la quinta rueda del carro. Ya es un síntoma de despego hacia esa facultad del alma contestar irritadamente a lo que acabo de decir, sosteniendo que se puede estimar la inteligencia y, sin embargo, no prestar oído a los intelectuales; que no es aquélla un don estancado por éstos, sino bien común de otras clases sociales, etcétera, etcétera. Vale más no intentar el aforo del nivel intelectual que poseen en España —al menos, en la de hoy— las clases no intelectuales. Afortunadamente, tampoco es necesario. Convengamos sin esfuerzo en que la inteligencia no es una virtud exclusiva del gremio intelectual; pero es, en cambio, grotesco que un país presuma poseer la dosis imprescindible de aquélla cuando al mismo tiempo se jacta de desatender la obra y persona de los escritores. Ni bastaría la excusa de que los autores nacionales fuesen en esta fecha de escaso valer, porque entonces estaba obligado el pueblo español a nutrirse de la obra extranjera, y si aun ésta parecía a su exquisito paladar manjar grosero, recurrir a los antiguos o a quien fuera. Todo antes que permanecer siglo tras siglo ajeno a tema alguno de inteligencia.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El hecho se presenta con tal constancia, que ya no reparamos en él y toma el aire de una ley natural, a la cual es ridículo oponer objeciones. La idea de que un libro influya directa e inmediatamente en la vida pública o privada de los españoles es tan inverosímil que no concebimos la posibilidad de suceso semejante en ningún otro país. Y, sin embargo, fuera del nuestro acontece cotidianamente. ¿Se quiere un ejemplo extremo de ello? Una de las modificaciones más importantes de la vida pública en los Estados Unidos ha sido la recentísima ley de inmigración. Pues bien: esta ley es el resultado fulminante del libro de Madison titulado La decadencia de la gran raza. (La obra, como casi todas las que se publican en América, es de una modestia mental superlativa).
 
@@ -116,7 +116,7 @@ Se me dirá que hay casos de enorme y respetuosa popularidad, y se me citará co
 
 Es difícil encontrar en las naciones actuales nada que se parezca a la colocación sociológica del gremio intelectual en España. Vive al margen de la existencia normal colectiva. No se cuenta con él para nada, ni oficial ni privadamente. Al contrario: se descuenta para él un como breve territorio baldío, especie de Indian Reservation, donde se le deja extravagar. Porque esto es, en definitiva, lo único que de él se espera: la extravagancia. Añádase a esta existencia marginal, pareja a la que llevaban los leprosos en la Edad Media, la humillante impecuniosidad que sufren casi todas las familias de escritores. En tales circunstancias resulta inevitable, pero no justificado, el tono agrio, violento, chabacano, que domina en nuestra producción literaria. Lo sorprendente parecerá que su actitud no sea más desesperada, y lo increíble, que bajo el escritor el hombre sea tan honrado. Porque es preciso hacer constar que la honestidad civil del intelectual español supera acaso a la de casi todos los gremios hermanos triunfantes en otros países. (No es posible decir lo mismo de su honestidad técnica: en general, no pone cuidado, ni mesura, ni elevación ni rigor en su trabajo).
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Esta irrealidad social de su oficio, que más o menos clara percibe entre nosotros todo escritor, es [causa](/concepts/cause) de una peculiaridad que, por su misma constancia, no ha sorprendido cuanto debiera. Me refiero al hecho de que España es el único país europeo donde los intelectuales se ocupan de política inmediata. Fuera de aquí, sólo por excepción se encuentra a un escritor mezclado en las luchas cotidianas de los partidos. Pero aun en esos casos excepcionales, cuida muy bien el escritor de separar su labor intelectual de su inquietud política, y cuando esto no, de exigir a sus intervenciones políticas todas las altas virtudes que rigen la obra intelectual. Llevan, pues, su intelectualidad íntegra a la política, al paso que entre nosotros la política más basta y pueril viene a anegar la intelectualidad. De suerte, que no se logra la única ventaja que esta confusión de oficios podía traer: que el intelectual elevase el nivel de los combates públicos merced a la superior disciplina de su intelecto. En cambio, pasa que la necedad constitutiva de la política diaria desintelectualiza al escritor. Así acontece el hecho bochornoso de que los escritores españoles vivan separados por sus tendencias políticas —que son siempre las de la calle— más que por discrepancias intelectuales. Ayer fue por una cosa; hoy es por otra: nunca falta el pretexto para que el intelectual mismo, siguiendo la tradición nacional, patee concienzudamente su oficio.
 
@@ -140,7 +140,7 @@ En España presenciamos la escena contraria. Si apenas nadie tiene entre nosotro
 
 Ahora, creo yo, se manifiesta el sentido de estas consideraciones sobre el poder social. La falta de generosidad para otorgarlo que nuestra sociedad revela es gravemente nociva para ella misma. Cada oficio desatendido socialmente señala una faceta de humanidad que nuestro pueblo deja de vivir. Si resulta que casi todos los oficios son desatendidos, dígaseme qué repertorio normal de ideas y fervores, de saberes y de normas, reside en el alma del español medio.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No se me diga que estas advertencias emanan de un preconcebido pesimismo. Todo lo contrario. La pulcra descripción de este enorme defecto muestra, a la par, que no hay en él factor alguno irremediable, fatal; antes bien, actúa de manera automática en su corrección, despertando en el lector la tendencia a subsanarlo.
 

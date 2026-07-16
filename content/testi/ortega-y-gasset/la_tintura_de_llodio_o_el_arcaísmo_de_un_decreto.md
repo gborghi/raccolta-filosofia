@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_tintura_de_llodio_o_el_arcaísmo_de_un_decreto" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La tintura de Llodio, o el arcaísmo de un decreto" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La tintura de Llodio, o el arcaísmo de un decreto" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor Dato quiere resolver el problema agrario introduciendo algunas modificaciones en la ley de Colonización interior.
 

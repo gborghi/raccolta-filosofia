@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_león_pintado" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El león pintado" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El león pintado" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Me ha contado Baroja que, durante su estancia en Roma, [dio](/axes/god) a leer La Feria de los discretos a una señora italiana de levantada alcurnia. Unos días más tarde preguntó el escritor a la dama «qué le parecía su novela», y ella le contestó sencillamente: «Questo Quintino è troppo impertinente!»
 
@@ -70,7 +70,7 @@ Baroja quisiera que sus personajes fueran vórtices de vitalidad; pero sus hijos
 
 Los personajes de Baroja no son activos: a despecho de la presunta turbulencia y dinamismo, no suelen hacer más que andar, modestísima muestra de energía. Digo que no suelen hacer más que eso, porque lo que hacen en mayor grado suele considerarse como lo opuesto a la acción. Baroja, especialmente, odia, antes que nada, la charla y el raciocinio. Pues bien: sus personajes no acostumbran a hacer otra cosa. Son, en general, unas criaturas atacadas de la monomanía deambulatoria, que se pasan la vida andando por las calles y frecuentemente por las afueras; van mirando de paso lo que pasa, con ojos inactivos, y, sobre todo, van charlando y teorizando. El anhelo de cósmicas cascadas de energía que lleva Baroja a sus libros concluye en una pertinaz llovizna de conversaciones teoréticas. ¡Qué cosa más melancólica! Aurora Roja, fíjense bien en el título: ¡Aurora Roja!, es, en realidad, un manual de Derecho político.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Ando tan lejos de desear que Baroja deje de ser lo que él quisiera ser, que voy hacia él movido por un sincero y admirativo afecto que me invita a completarme en el trato con un personaje silvestre. Por lo mismo experimento alguna desilusión, encontrando en realidad, bajo sus ásperos gestos, un ergotista acérrimo. Mientras sus personajes caminan por las afueras, Baroja ejerce presión sobre ellos y les obliga a pensar. Y, claro está, acontece que las ideas suelen resentirse de haber sido pensadas en el paseo de los Ocho Hilos o yendo hacia la Bombilla. El autor pone de manifiesto una fuerte mentalidad de extrarradio.
 

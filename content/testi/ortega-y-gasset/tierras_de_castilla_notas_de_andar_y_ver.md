@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/tierras_de_castilla_notas_de_andar_y_ver" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Tierras de castilla. Notas de andar y ver" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Tierras de castilla. Notas de andar y ver" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -84,7 +84,7 @@ Es un guerrero joven, lampiño, tendido a la larga sobre uno de sus costados. El
 
 Era un caballero santiaguista, que mataron los moros cuando socorría a unos hombres de Jaén, con el ilustre duque del Infantado, su señor, a orillas de la acequia gorda, en la vega de Granada.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Nadie sabe quién es el autor de la escultura. Por un destino muy significativo, en España casi todo lo grande es anónimo. De todas suertes, el escultor ha esculpido aquí una de esas antítesis. Este mozo es guerrero de oficio: lleva cota de malla y piezas de arnés cubren su pecho y sus piernas. No obstante, el cuerpo revela un temperamento débil, nervioso. Las mejillas descarnadas y las pupilas intensamente recogidas declaran sus hábitos intelectuales. Este hombre parece más de pluma que de espada. Y, sin embargo, combatió en Loja, en Mora, en Montefrío bravamente. La historia nos garantiza su coraje varonil. La escultura ha conservado su sonrisa dialéctica. ¿Será posible? ¿Ha habido alguien que haya unido el coraje a la dialéctica?
 

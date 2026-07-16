@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_metafísica_y_leibniz" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La metafísica y Leibniz" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La metafísica y Leibniz" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El único sistema filosófico que ha podido ser expuesto íntegramente en unas pocas páginas es el de Leibniz. Esto indica, por lo pronto, que su autor ha pensado sus pensamientos con una claridad sin par. La Monadología, única exposición total del sistema leibniziano, es, en efecto, un librito de pocas páginas, un epítome de noventa tesis, cada una de las cuales, como un diamante se transparenta y a la vez irradia en torno una luz etérea. Yo no conozco obra de la mente humana que más se parezca a un aparato de relojería. Levantamos la tapa de este brevísimo volumen y vemos dentro funcionar el universo con su secreto rodaje.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_mito" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El mito" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El mito" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Mediante reacciones sentimentales podemos, pues, favorecer o corregir el pulso radical de la vida psíquica. La técnica de estos influjos, la proporción o combinación en que deben suministrarse las corrientes emotivas es, sin duda, bastante complicada. Sin embargo, la importancia pedagógica de ciertas emociones corroborantes no ofrece lugar a duda. El niño debe ser envuelto en una atmósfera de sentimientos audaces y magnánimos, ambiciosos y entusiastas. Un poco de violencia y un poco de dureza convendría también fomentar en él. Por el contrario, deberá apartarse de su derredor cuanto pueda deprimir su confianza en sí mismo y en la vida cósmica, cuanto siembre en su interior suspicacia y le haga presentir lo equívoco de la existencia.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/planches_sur_la_botanique" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="PLANCHES SUR LA BOTANIQUE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="PLANCHES SUR LA BOTANIQUE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 k. Plante entière.
 

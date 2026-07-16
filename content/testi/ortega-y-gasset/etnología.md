@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/etnología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Etnología" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Etnología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Uno de los fenómenos en que más sutilmente se reflejan las mudanzas de la sensibilidad histórica es el cambio de colocación, dentro de la perspectiva intelectual, de ciertas disciplinas. En el siglo XIX, por ejemplo, se hallaba instalada en el centro de las ciencias históricas la filología clásica. Gramática, literatura, historia de griegos y romanos constituían las disciplinas reguladoras para toda investigación histórica. Ellas imponían sus métodos y puntos de vista, sus problemas y corolarios, dondequiera que surgía alguna cuestión de humanidad pretérita. La vieja idea de que griegos y romanos eran los pueblos «clásicos», corroborada por el hecho de que nuestra civilización ha recibido de ellos profundas influencias, [dio](/axes/god) origen a este pernicioso favoritismo.
 

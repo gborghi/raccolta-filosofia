@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/conversación_en_el_golf_o_la_idea_del_dharma" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Conversación en el golf o la idea del dharma" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Conversación en el golf o la idea del dharma" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En este mediodía radiante de febrero, unos amigos, damas y varones, me extraen de mis ocupaciones habituales y me llevan al golf. Se trata de almorzar allí, bajo el influjo solar, entre las encinas, frente a la bruma azulada de la sierra.
 
@@ -68,7 +68,7 @@ Entonces fue cuando el fauno benévolo que se hallaba frontero, lleno de simpat�
 
 —En modo alguno. Si usted no jugase al golf incurriría en el mismo pecado que yo si jugase. Ambos habríamos sido indóciles a nuestro dharma.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 —¡Bien por el dharma! —dijo la ninfa agudísima, apoyando luego el rubí de sus labios en el gran rubí del vaso donde el sol se diluía en borgoña. Detrás de ese dharma sospecho toda una teoría. ¡Venga al punto, ahora mejor que después! Con los entremeses llegaron las anécdotas, con la entrée se aventuró usted a galantearme, ahora se presenta el asado, lo fundamental; venga, pues, la teoría. ¡No me negarán ustedes que la comida es perfecta!
 

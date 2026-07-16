@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/asamblea_para_el_progreso_de_las_ciencias" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Asamblea para el progreso de las ciencias" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Asamblea para el progreso de las ciencias" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Una vida sin investigación no es vividera para el hombre
 
@@ -56,7 +56,7 @@ Aquí tenemos, al fin, la novedad introducida en la economía del mundo oriental
 
 Europa = ciencia; todo lo demás le es común con el resto del planeta.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Y ahora volvamos al asunto de la europeización. ¿Ha habido, de 1898 acá, programa alguno que considere la ciencia como la labor central de donde únicamente puede salir esta nueva España, moza idealmente garrida que abrazamos todos en nuestros más puros ensueños? Se ha hablado, y por [fortuna](/concepts/fortune) se habla cada vez más, de educación: sólo a la insolencia irresponsable de alguno que quiera oficiar de necio representativo es lícita la duda sobre si puede correr un día más sin que iniciemos una magna acción pedagógica que restaure los últimos tejidos espirituales de nuestra raza. Pero esto no basta: el problema educativo persiste en todas las naciones con meras diferencias de intensidad. El problema español es, ciertamente, un problema pedagógico; pero lo genuino, lo característico de nuestro problema pedagógico, es que necesitamos primero educar unos pocos hombres de ciencia, suscitar siquiera una sombra de preocupaciones científicas y que sin esta previa obra el resto de la acción pedagógica será vano, imposible, sin sentido. Creo que una cosa análoga a lo que voy diciendo podría ser la fórmula precisa de europeización.
 
@@ -84,7 +84,7 @@ Las únicas facetas de sensibilidad que quedan a España son la literatura perio
 
 La literatura diaria y la política de café son las formas que adquieren los temas de la cultura para hacerse populares, como Harún-al-Raschid se disfrazaba de menestral y vagaba por las tabernas cuando quería asomarse al corazón de sus súbditos. Nadie, pues, las toque. Lo malo, lo deplorable es que no haya en realidad más que eso. El oro no podrá ser nunca manejado por las manos populares, pero es menester que se guarde oro en las arcas de los Bancos si ha de tener algún valor cierto el papel moneda y la calderilla circulantes en el pueblo. Esa otra cosa que ha de haber tras de los periódicos y las conversaciones públicas, es la ciencia, la cual representa —no se olvide— la única garantía de supervivencia moral y material en Europa.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Y quién duda de que no existe hoy entre nosotros un público para la ciencia, no hablemos ya de creadores de ciencia? Harto claramente marca nuestra temperatura espiritual el arte que producimos. Hoy, por ejemplo, es imposible que una labor de alta literatura logre reunir público suficiente para sustentarse. Sólo el señor Benavente ha conseguido hacer algo discreto y, a la vez, gustar a un público. Pero esto no es una excepción. A decir verdad, su teatro no tiene con el público más punto de contacto que el calembour. En general, sería difícil descubrir un grupo considerable de españoles capaces de reaccionar ante lo que no sea un calembour o una carga de caballería, últimos reductos de la literatura periodística y de la política de tertulia. El nivel intelectual va bajando tanto y tan deprisa en estos confines de la decadencia, que dentro de poco no habrá academias ni teatros, sino que sentados los españoles en torno a enormes mesas de café nos contaremos cuentos verdes. Y con este gesto de simiesca apocalipsis desaparecerá una [sublime](/concepts/sublime) posibilidad de riquezas humanas aún no sidas, de virtudes futuras aún no intentadas, de emociones profundas hoy ignotas, todo eso que queremos designar cuando hablamos religiosamente conmovidos de cultura española por venir.
 
@@ -112,6 +112,6 @@ El sol, traidor amigo nuestro, que nos mata en un abrazo, sólo puede combatirse
 
 No sé si todo esto serán logomaquias, pero estoy firmemente convencido de que más útil para España que cuanto pueda fabricarse en el Parlamento, sería que unos cuantos compatriotas se dedicaran a averiguar qué fue lo que se comió en la cena Platón.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El Imparcial, 10 de agosto de 1908

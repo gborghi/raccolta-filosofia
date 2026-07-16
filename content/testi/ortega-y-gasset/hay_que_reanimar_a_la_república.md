@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/hay_que_reanimar_a_la_república" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Hay que reanimar a la República" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Hay que reanimar a la República" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¡Quia, hombre! ¡Ése es el error en que estaba usted! Creía usted que la República es un cuarto cerrado, dentro del cual hay unos señores determinados y nada más. ¡No, hombre, no! La República es un espacio muy grande, tan grande como la nación, y dentro de él se dan muchos modos diferentes. Cuando uno de éstos falla, crece otro nuevo, enriquecido con la experiencia del fallido, que pone las cosas un poco más en su punto y dilata la figura de la República.
 

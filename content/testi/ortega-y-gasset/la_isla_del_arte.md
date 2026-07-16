@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_isla_del_arte" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La isla del arte" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La isla del arte" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En vez de atraer sobre sí la mirada, el marco se limita a condensarla y verterla desde luego en el cuadro. Pero no es ésta su principal eficacia.
 

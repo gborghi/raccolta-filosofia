@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/epílogo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Epílogo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Epílogo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ni el espacio ni mi intención de mero y fiel abreviador me permiten hoy hacer comentario personal ninguno. Yo no he sugerido —salvo el punto de carácter científico que se refiere a la idea de soberanía— mis opiniones privadas. No he dicho que me parezca acertada la táctica de las bases, ni he empleado una sola palabra para rebatir las opiniones del señor Maura.
 

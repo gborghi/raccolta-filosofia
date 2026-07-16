@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ensayo_de_estética_a_manera_de_prólogo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ensayo de estética a manera de prólogo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ensayo de estética a manera de prólogo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Este tomito de versos[33] —a quien su autor llama El pasajero— nos hace asistir a la iniciación de un nuevo poeta, al nacimiento de una nueva musa. En todo instante pueblan el aire poéticas voces de las cuales son algunas plenas y armoniosas, por lo menos correctas; pero muy pocas de ellas son gritos líricos originales. No seamos demasiado duros con la falta de originalidad; apliquemos a las obras de arte donde no se intenta un estilo nuevo, una crítica apropiada. Exijámosles plenitud, armonía, por lo menos corrección —las virtudes de eternidad.
 
@@ -64,7 +64,7 @@ Mas a lo que parece, nos es dado elegir ante otro hombre, ante otro sujeto, entr
 
 Pero antes hablábamos del yo como de lo único que, no sólo no queremos, sino que no podemos convertir en cosa. Esto ha de tomarse al pie de la letra.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Para verlo claramente conviene percatarse primero de la modificación que en el significado de un verbo introduce su empleo en primera persona del presente indicativo con respecto a su significado en segunda o tercera persona: Yo ando, por ejemplo. El sentido andar en «yo ando» y «él anda» tiene evidentemente un primer aspecto de identidad —de otra suerte no emplearíamos la misma raíz idiomática. Adviértase que «significación» no quiere decir sino «referencia a un objeto»—; por tanto, «significación idéntica» será «referencia a un mismo objeto o realidad, a un mismo cariz de un objeto o realidad». Pues bien: si fijamos con alguna insistencia nuestra atención en cuál sea la realidad a que el «yo ando» alude, notaremos cuán grande es su diferencia de la aludida por «él anda». El andar de «él» es una realidad que percibo por los ojos, verificándose en el espacio: una serie de posiciones sucesivas de unas piernas sobre la tierra. En el «yo ando» tal vez acuda a mí la imagen visual de mis pies moviéndose; pero sobre ello, y como más directamente aludido en aquellas palabras, encuentro una realidad invisible y ajena al espacio —el esfuerzo, el impulso, las sensaciones musculares de tensión y resistencia. La diferencia no puede ser mayor. Diríase que en el «yo ando» me refiero al andar visto por dentro de lo que él es y en «él anda», al andar visto en su exterior resultado. Sin embargo, la unidad del andar como íntimo suceso y el andar como acontecimiento externo con ser palmaria, inmediata y presentársenos sin exigirnos trabajo alguno no implica la menor semejanza entre ambas sus caras. ¿Qué tiene que ver, en qué puede parecerse la peculiar cosa íntimo «esfuerzo», «sensación de resistencia» con un cuerpo que varía su situación en el espacio? Hay, pues, un «yo-andar» completamente distinto del «andar los demás».
 
@@ -104,7 +104,7 @@ De suerte que llegamos al siguiente rígido dilema: no podemos hacer objeto de n
 
 La intimidad no puede ser objeto nuestro ni de la ciencia, ni en el pensar práctico, ni en el representar maquinativo. Y, sin embargo, es el verdadero ser de cada cosa, lo único suficiente y de quien la contemplación nos satisfaría con plenitud.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Dejemos el perseguir la cuestión de si es posible racionalmente y de cómo será posible llegar a hacer objeto de nuestra contemplación lo que parece condenado a no ser nunca objeto. Esto nos llevaría demasiado adentro en tierras metafísicas. Coloquémonos con alguna atención frente a una obra de arte —el Pensieroso, por ejemplo, divinamente quieto bajo la luz frígida de la capilla medicea. Y preguntémonos qué cosa es la que, en última instancia, sirve de término, de objeto y tema a nuestra contemplación.
 
@@ -154,7 +154,7 @@ Esto es un error. En primer lugar, esa mayor o menor distancia entre las cosas n
 
 Pero además, si al leer el verso de López Picó fijamos la atención, insistimos premeditadamente en lo que ambas cosas tienen de real similitud —el esquema lineal del ciprés y de la llama— advertiremos que todo el encanto de la metáfora se desvanece dejándonos delante una muda, insignificante observación geométrica. No es, pues, la asimilación real lo metafórico.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En efecto, la semejanza positiva es la primera articulación del aparato metafórico, pero sólo esto. Necesitamos del parecido real, de cierta aproximación capaz de ser razonada entre dos elementos, mas con un fin contrario al que suponemos.
 
@@ -198,7 +198,7 @@ EL ESTILO O LA MUSA
 
 Una última consideración me importa añadir aquí. La doctrina casi universal de la estética tiende a definir el arte —con unos u otros términos— como una expresión de la interioridad humana, de los sentimientos del sujeto. No voy a discutir en estas páginas esta opinión tan general como autorizada, sino meramente a subrayar el punto de discrepancia entre ella y lo expuesto en las páginas anteriores.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El arte no es sólo una actividad de expresión de tal suerte que lo expresado, bien que inexpreso, existiera previamente como realidad. En el sucinto análisis del mecanismo metafórico que acabo de hacer, los sentimientos no son el término del trabajo poético. Es falso, facticiamente falso que en una obra de arte se exprese un sentimiento real. En nuestro ejemplo, el objeto estético es literalmente un objeto, aquél que llamábamos ciprés sentimental. De modo que el sentimiento es en el arte también signo, medio expresivo, no lo expresado, material para una nueva corporeidad sui generis. «Don Quijote» no es ni un sentimiento mío, ni una persona real o imagen de una persona real: es un nuevo objeto que vive en el ámbito del mundo estético, distinto éste del mundo físico y del mundo psicológico.
 

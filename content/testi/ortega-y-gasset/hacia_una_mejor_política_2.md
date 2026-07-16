@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/hacia_una_mejor_política_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Hacia una mejor política (2)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Hacia una mejor política (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -66,7 +66,7 @@ Este fenómeno sociológico no es peculiar de España ni de nuestro tiempo: se h
 
 Si ascendemos al momento de entrar en la Historia el pueblo jónico o el pueblo romano, los encontramos ya arrastrando principios sociales que no tenían sentido claro para los contemporáneos. Así, entre los jonios la organización en fratrías o hermandades no tiene ya en el alborear histórico otra realidad que ciertas periódicas comidas en común. Cuando Roma pone el pie en la Historia aparece cargada con no pocas magistraturas y reglamentos superfluos y sin sentido vivo. Por lo pronto, las tribus originarias que formaron la ciudad conservan una jerarquía que el romano de Servio Tulio acepta aún, pero ya no entiende: los Tatii preceden siempre a los Ramnes, y éstos, a los Luceres. Además, casi todas las instituciones son dobles; hay dos colegios de sacerdotes Salii, y otros dos de Luperci. Cada tribu se duplica en dos órdenes: hay Tatii priores, esto es, antiguos, y posteriores, o modernos. Las vestales forman tres parejas. El origen de esta duplicación, que va a conservarse al instituir el consulado, el tribunado, los ediles, etcétera, parece ser la fusión prehistórica de dos comunas: la Roma de la montaña, o palatina, con la Roma de la colina, o Quirinal. Los ciudadanos de una y otra no sienten entre sí la menor diferencia, y han perdido hasta la noción clara de su originaria separación. No obstante, toda magistratura palatina tiene rango superior a su correspondiente del Quirinal. Y ejemplo curioso del poder sugestivo que estas preeminencias tradicionales poseen, es que, no obstante la mayor altura del Quirinal, jamás un romano le llamó otra cosa que colina, reservando la dignidad de monte al menos levantado Palatino.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Cito estos ejemplos tan conocidos porque no existen otras sociedades a cuyo nacimiento asistamos con mayor proximidad. Además, se trata de dos pueblos que nacen no sólo como Estados, sino como culturas. Parecería, pues, natural que, no habiendo en ellos ni un pasado por liquidar ni principios heterogéneos recibidos de otras civilizaciones, todo en el cuerpo público gozase de plena actualidad. Sin embargo, vemos que no es así. Toda sociedad despilfarra una cantidad de sus energías en llevar a cuestas instituciones supervivientes que no sirven para lo que pretenden servir. En su clásico libro sobre Civilización primitiva, llamó Taylor a este fenómeno survival. El nombre no es el más oportuno, porque esos residuos de otros tiempos no sobreviven, antes bien, sobremueren, hacen gravitar sus cadáveres sobre la porción viva de la sociedad.
 
@@ -116,7 +116,7 @@ IV
 
 MÁS, MÁS MINISTROS
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Aunque remota de la sangrienta línea, comienza España a sentir vagamente análogo afán. Por lo menos, se ha logrado ya una cosa: que sea lícito hablar de ciertas reformas sin quedar convicto de lunatismo.
 
@@ -158,7 +158,7 @@ El hombre de la calle es ya viejo, tan viejo como el sufragio universal. Ha atra
 
 El siglo XIX, que es nuestro más próximo enemigo, cometió el monstruoso error de aplicar a la política los mismos sentimientos radicales que antes se apacentaban en la religión. Nos prometía ésta salvarnos, poniéndonos en trato con poderes soberanos capaces de resolver nuestros últimos problemas. La religión administra las postrimerías, y por tanto, será erróneo, pero no absurdo, que le dediquemos las más profundas emociones.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Mas la política, aun en el mejor [caso](/concepts/fortune), ¿qué puede lograr? Un mejor orden en lo más externo de la vida social. Ni siquiera tiene medios para acercarse a las relaciones sociales más importantes: no puede organizar la amistad entre los hombres, ni la lealtad mutua, ni el amor, ni la diversión. En el mundo antiguo intentó, con grave fracaso, algo de esto: en Esparta instituyó la legión sagrada que sancionaba la fidelidad de los amigos; en Roma se ocupó de dar placer al pueblo haciendo de los juegos circenses una institución del Estado. Pero en nuestra edad, ¿qué puede la política? Torciendo hacia la escena interior nuestra atención observemos lo que íntimamente nos ocupa y preocupa durante los días de un año, lo que constituye en verdad nuestra vida, y advirtamos que la política es sólo una tangente que apenas roza un punto de esa nuestra viva realidad. Casi por entero, el volumen de nuestra existencia personal queda intacto por la política. Ni siquiera en el orden económico logra ésta tener una misión sustantiva. A lo sumo, podría intentar repartir con equidad la riqueza. Pero no puede crearla. La pretensión de salvar económicamente a un pueblo desde el ministerio de Hacienda ha resultado dondequiera fallida. Un pueblo donde no abunden los ambiciosos de dinero que vayan frenéticamente empujados por una sed individual de oro será siempre un pueblo mendigo.
 

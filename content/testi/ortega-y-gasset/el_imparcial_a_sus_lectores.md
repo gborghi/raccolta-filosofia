@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_imparcial_a_sus_lectores" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El Imparcial a sus lectores" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El Imparcial a sus lectores" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Casi al mismo tiempo de iniciarse los acontecimientos políticos que tanto han conmovido la conciencia nacional, entraba El Imparcial en una nueva forma de interna organización. Solicitada la atención pública por aquellos graves hechos, nos pareció poco delicado invitarla a fijarse en asuntos privados de esta casa. Ahora aprovechamos el primer instante de aparente calma, para poner a nuestros lectores en conocimiento de ellos.
 

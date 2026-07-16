@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/disciplina_jefe_energía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Disciplina, jefe, energía" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Disciplina, jefe, energía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Qué haremos de nuestra pequeña hermana que no tiene pechos? —se preguntan los pastores del Cantar de los Cantares. ¿Qué haremos del partido liberal que no tiene disciplina ni jefe? —nos preguntamos muchos españoles, rabadanes de vagos ensueños étnicos, que en horas de melancolía y arrastrados por el deber solemos llevar al abrevadero político los rebaños cándidos de nuestras esperanzas.
 
@@ -56,7 +56,7 @@ Disciplina, jefe, energía: tres formalismos, jineteo en el vacío, como dice, a
 
 Gobernar con tristeza, como Fernando VI —gritaba dolidamente Costa— y nos gobiernan exultando. «Necesitamos en el gobierno “impersonales” —decía Costa—; Bismarcks injertos en San Franciscos de Asís, con más de San Franciscos que de Bismarcks».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No podía hallarse más noble y precisa fórmula para señalar el camino del liberalismo: un partido «impersonal», con o sin el señor Moret, con o sin el señor Canalejas. En un partido rico de ideas y convicciones son los jefes una tilde de que se puede prescindir. En lugar de que el jefe gravite sobre el partido, es preciso que el partido gravite sobre los jefes. Un partido látigo.
 

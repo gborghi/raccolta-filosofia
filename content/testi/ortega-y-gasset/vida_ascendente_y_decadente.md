@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/vida_ascendente_y_decadente" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Vida ascendente y decadente" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Vida ascendente y decadente" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Más a la intemperie que el cuerpo, presenta la psique su actuación como un todo solidario, como una unidad funcional. Nuestros pensamientos y apetitos singulares no aparecen juntos merced a un zurcido, sino que se les siente nacer de cierta raíz íntima y como manar de cierto hontanar profundo y único.
 

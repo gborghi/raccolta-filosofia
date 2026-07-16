@@ -20,12 +20,12 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_man" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Man" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Man" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON MAN (QQ[75]-102)
 OF MAN WHO IS COMPOSED OF A SPIRITUAL AND A CORPOREAL SUBSTANCE:
 
-<span class="atom-split" data-atom="002" data-title="AND IN THE FIRST PLACE, CONCERNING WHAT BELONGS TO THE ESSENCE OF THE SOUL (SEVEN ARTICLES)" data-chapter="AND IN THE FIRST PLACE, CONCERNING WHAT BELONGS TO THE ESSENCE OF THE SOUL (SEVEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="AND IN THE FIRST PLACE, CONCERNING WHAT BELONGS TO THE ESSENCE OF THE SOUL (SEVEN ARTICLES)" data-chapter="AND IN THE FIRST PLACE, CONCERNING WHAT BELONGS TO THE ESSENCE OF THE SOUL (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Having treated of the spiritual and of the corporeal creature, we now proceed to treat of man,
 who is composed of a spiritual and corporeal substance. We shall treat first of the nature of man,
@@ -46,7 +46,7 @@ are seven points of inquiry.
 (6) Whether the soul is incorruptible?
 (7) Whether the soul is of the same species as an angel?
 
-<span class="atom-split" data-atom="003" data-title="Whether the soul is a body?" data-chapter="Whether the soul is a body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether the soul is a body?" data-chapter="Whether the soul is a body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul is a body. For the soul is the moving principle of the
 body. Nor does it move unless moved. First, because seemingly nothing can move unless it is itself
@@ -113,7 +113,7 @@ Reply to Objection 3: There are two kinds of contact; of "quantity," and of "pow
 former a body can be touched only by a body; by the latter a body can be touched by an incorporeal
 thing, which moves that body.
 
-<span class="atom-split" data-atom="004" data-title="Whether the human soul is something subsistent?" data-chapter="Whether the human soul is something subsistent?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether the human soul is something subsistent?" data-chapter="Whether the human soul is something subsistent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human soul is not something subsistent. For that which
 subsists is said to be "this particular thing." Now "this particular thing" is said not of the soul, but
@@ -178,7 +178,7 @@ Neither does such a dependence on the body prove the intellect to be non-subsist
 would follow that an animal is non-subsistent, since it requires external objects of the senses in
 order to perform its act of perception.
 
-<span class="atom-split" data-atom="005" data-title="Whether the souls of brute animals are subsistent?" data-chapter="Whether the souls of brute animals are subsistent?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether the souls of brute animals are subsistent?" data-chapter="Whether the souls of brute animals are subsistent?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the souls of brute animals are subsistent. For man is of the
 same 'genus' as other animals; and, as we have just shown (A[2]), the soul of man is subsistent.
@@ -229,7 +229,7 @@ that which executes motion in adapting the members for obeying the appetite; and
 power does not consist in moving, but in being moved. Whence it is clear that to move is not an
 act of the sensitive soul without the body.
 
-<span class="atom-split" data-atom="006" data-title="Whether the soul is man?" data-chapter="Whether the soul is man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the soul is man?" data-chapter="Whether the soul is man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul is man. For it is written (2 Cor. 4:16): "Though our
 outward man is corrupted, yet the inward man is renewed day by day." But that which is within
@@ -273,7 +273,7 @@ Reply to Objection 2: Not every particular substance is a hypostasis or a person
 has the complete nature of its species. Hence a hand, or a foot, is not called a hypostasis, or a person;
 nor, likewise, is the soul alone so called, since it is a part of the human species.
 
-<span class="atom-split" data-atom="007" data-title="Whether the soul is composed of matter and form?" data-chapter="Whether the soul is composed of matter and form?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether the soul is composed of matter and form?" data-chapter="Whether the soul is composed of matter and form?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul is composed of matter and form. For [potentiality](/concepts/act_potency) is
 opposed to actuality. Now, whatsoever things are in actuality participate of the First Act, which is
@@ -356,7 +356,7 @@ actuality and potentiality, not, indeed, of matter and form, but of form and par
 Wherefore some say that they are composed of that "whereby they are" and that "which they are";
 for existence itself is that by which a thing is.
 
-<span class="atom-split" data-atom="008" data-title="Whether the human soul is incorruptible?" data-chapter="Whether the human soul is incorruptible?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the human soul is incorruptible?" data-chapter="Whether the human soul is incorruptible?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human soul is corruptible. For those things that have a like
 beginning and process seemingly have a like end. But the beginning, by generation, of men is like
@@ -433,7 +433,7 @@ by virtue of its union with the body. After separation from the body it will hav
 understanding, similar to other substances separated from bodies, as will appear later on (Q[89],
 A[1]).
 
-<span class="atom-split" data-atom="009" data-title="Whether the soul is of the same species as an angel?" data-chapter="Whether the soul is of the same species as an angel?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether the soul is of the same species as an angel?" data-chapter="Whether the soul is of the same species as an angel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul is of the same species as an angel. For each thing is
 ordained to its proper end by the nature of its species, whence is derived its inclination for that end.
@@ -492,7 +492,7 @@ its essence can be united to the body, so that, properly speaking, not the soul 
 its operation, proves that the soul is endowed with a grade of intellectuality inferior to that of an
 angel, who is not united to a body.
 
-<span class="atom-split" data-atom="010" data-title="OF THE UNION OF BODY AND SOUL (EIGHT ARTICLES)" data-chapter="OF THE UNION OF BODY AND SOUL (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="OF THE UNION OF BODY AND SOUL (EIGHT ARTICLES)" data-chapter="OF THE UNION OF BODY AND SOUL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now consider the union of the soul with the body; and concerning this there are eight points
 of inquiry:
@@ -506,7 +506,7 @@ bodies; or is there one intelligence for all men?
 (7) Whether by means of an accident?
 (8) Whether the soul is wholly in each part of the body?
 
-<span class="atom-split" data-atom="011" data-title="Whether the intellectual principle is united to the body as its form? (1/3)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the intellectual principle is united to the body as its form? (1/3)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the intellectual principle is not united to the body as its form. For
 the Philosopher says (De [Anima](/concepts/soul) iii, 4) that the intellect is "separate," and that it is not the act of
@@ -549,7 +549,7 @@ On the contrary, According to the Philosopher, Metaph. viii (Did. vii 2), differ
 from the form. But the difference which constitutes man is "rational," which is applied to man on
 account of his intellectual principle. Therefore the intellectual principle is the form of man.
 
-<span class="atom-split" data-atom="012" data-title="Whether the intellectual principle is united to the body as its form? (2/3)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether the intellectual principle is united to the body as its form? (2/3)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, We must assert that the intellect which is the principle of intellectual operation
 is the form of the human body. For that whereby primarily anything acts is a form of the thing to
@@ -638,7 +638,7 @@ by virtue of itself as a whole. But if it is a form by virtue of some part of it
 is the form we call the soul, and that of which it is the form we call the "primary animate," as was
 said above (Q[75], A[5]).
 
-<span class="atom-split" data-atom="013" data-title="Whether the intellectual principle is united to the body as its form? (3/3)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether the intellectual principle is united to the body as its form? (3/3)" data-chapter="Whether the intellectual principle is united to the body as its form?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: As the Philosopher says (Phys. ii, 2), the ultimate natural form to which
 the consideration of the natural philosopher is directed is indeed separate; yet it exists in matter.
@@ -670,7 +670,7 @@ removed from its proper place, retaining meanwhile an aptitude and an inclinatio
 place; so the human soul retains its proper existence when separated from the body, having an
 aptitude and a natural inclination to be united to the body.
 
-<span class="atom-split" data-atom="014" data-title="Whether the intellectual principle is multiplied according to the number of bodies? (1/2)" data-chapter="Whether the intellectual principle is multiplied according to the number of bodies?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the intellectual principle is multiplied according to the number of bodies? (1/2)" data-chapter="Whether the intellectual principle is multiplied according to the number of bodies?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual principle is not multiplied according to the
 number of bodies, but that there is one intellect in all men. For an immaterial substance is not
@@ -768,7 +768,7 @@ of the body, the intellectual soul retains its own being. In like manner the mul
 in proportion to the multiplicity of the bodies; yet, after the dissolution of the bodies, the souls
 retain their multiplied being.
 
-<span class="atom-split" data-atom="015" data-title="Whether the intellectual principle is multiplied according to the number of bodies? (2/2)" data-chapter="Whether the intellectual principle is multiplied according to the number of bodies?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the intellectual principle is multiplied according to the number of bodies? (2/2)" data-chapter="Whether the intellectual principle is multiplied according to the number of bodies?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Individuality of the intelligent being, or of the species whereby it
 understands, does not exclude the understanding of [universals](/axes/universals); otherwise, since separate intellects
@@ -811,7 +811,7 @@ is caused will be shown later on (Q[117], A[1]).
 Reply to Objection 6: [Augustine](/figures/augustine) denies a plurality of souls, that would involve a plurality of
 species.
 
-<span class="atom-split" data-atom="016" data-title="Whether besides the intellectual soul there are in man other souls essentially different from one another? (1/2)" data-chapter="Whether besides the intellectual soul there are in man other souls essentially different from one another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether besides the intellectual soul there are in man other souls essentially different from one another? (1/2)" data-chapter="Whether besides the intellectual soul there are in man other souls essentially different from one another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that besides the intellectual soul there are in man other souls
 essentially different from one another, such as the sensitive soul and the nutritive soul. For corruptible
@@ -913,7 +913,7 @@ Reply to Objection 3: The embryo has first of all a soul which is merely sensiti
 this is removed, it is supplanted by a more perfect soul, which is both sensitive and intellectual: as
 will be shown further on (Q[118], A[2], ad 2).
 
-<span class="atom-split" data-atom="017" data-title="Whether besides the intellectual soul there are in man other souls essentially different from one another? (2/2)" data-chapter="Whether besides the intellectual soul there are in man other souls essentially different from one another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether besides the intellectual soul there are in man other souls essentially different from one another? (2/2)" data-chapter="Whether besides the intellectual soul there are in man other souls essentially different from one another?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: We must not consider the diversity of natural things as proceeding from
 the various logical notions or intentions, which flow from our manner of understanding, because
@@ -924,7 +924,7 @@ imperfect and material. And because it observes that this is something common to
 animals, it forms thence the notion of the "genus"; while that wherein the intellectual soul exceeds
 the sensitive soul, it takes as formal and perfecting; thence it gathers the "difference" of man.
 
-<span class="atom-split" data-atom="018" data-title="Whether in man there is another form besides the intellectual soul?" data-chapter="Whether in man there is another form besides the intellectual soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether in man there is another form besides the intellectual soul?" data-chapter="Whether in man there is another form besides the intellectual soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in man there is another form besides the intellectual soul. For
 the Philosopher says (De [Anima](/concepts/soul) ii, 1), that "the soul is the act of a physical body which has life
@@ -1020,7 +1020,7 @@ elements remain, though modified; and in them is the power of the elementary for
 of the mixture is the proper disposition for the substantial form of the mixed body; for instance,
 the form of a stone, or of any sort of soul.
 
-<span class="atom-split" data-atom="019" data-title="Whether the intellectual soul is properly united to such a body?" data-chapter="Whether the intellectual soul is properly united to such a body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether the intellectual soul is properly united to such a body?" data-chapter="Whether the intellectual soul is properly united to such a body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual soul is improperly united to such a body. For
 matter must be proportionate to the form. But the intellectual soul is incorruptible. Therefore it is
@@ -1103,7 +1103,7 @@ all these, man has by nature his reason and his hands, which are "the organs of 
 iii), since by their means man can make for himself instruments of an infinite variety, and for any
 number of purposes.
 
-<span class="atom-split" data-atom="020" data-title="Whether the intellectual soul is united to the body through the medium of accidental dispositions?" data-chapter="Whether the intellectual soul is united to the body through the medium of accidental dispositions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether the intellectual soul is united to the body through the medium of accidental dispositions?" data-chapter="Whether the intellectual soul is united to the body through the medium of accidental dispositions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual soul is united to the body through the medium
 of accidental dispositions. For every form exists in its proper disposed matter. But dispositions to
@@ -1156,7 +1156,7 @@ Reply to Objection 3: A spiritual substance which is united to a body as its mot
 united thereto by power or virtue. But the intellectual soul is united by its very being to the body
 as a form; and yet it guides and moves the body by its power and virtue.
 
-<span class="atom-split" data-atom="021" data-title="Whether the soul is united to the animal body by means of a body?" data-chapter="Whether the soul is united to the animal body by means of a body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether the soul is united to the animal body by means of a body?" data-chapter="Whether the soul is united to the animal body by means of a body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the soul is united to the animal body by means of a body. For
 [Augustine](/figures/augustine) says (Gen. ad lit. vii, 19), that "the soul administers the body by light," that is, by fire,
@@ -1217,7 +1217,7 @@ the existence of the body, but by its own existence is united to the body immedi
 case with every form which, if considered as an act, is very distant from matter, which is a being
 only in [potentiality](/concepts/act_potency).
 
-<span class="atom-split" data-atom="022" data-title="Whether the soul is in each part of the body?" data-chapter="Whether the soul is in each part of the body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the soul is in each part of the body?" data-chapter="Whether the soul is in each part of the body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the whole soul is not in each part of the body; for the
 Philosopher says in De [causa](/concepts/cause) motus animalium (De mot. animal. x): "It is not necessary for the
@@ -1309,7 +1309,7 @@ various powers, of which the parts of the body are the organs. For that part whi
 a nobler power, is a nobler part of the body: as also is that part which serves the same power in a
 nobler manner.
 
-<span class="atom-split" data-atom="023" data-title="OF THOSE THINGS WHICH BELONG TO THE POWERS OF THE SOUL IN GENERAL (EIGHT ARTICLES)" data-chapter="OF THOSE THINGS WHICH BELONG TO THE POWERS OF THE SOUL IN GENERAL (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="OF THOSE THINGS WHICH BELONG TO THE POWERS OF THE SOUL IN GENERAL (EIGHT ARTICLES)" data-chapter="OF THOSE THINGS WHICH BELONG TO THE POWERS OF THE SOUL IN GENERAL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We proceed to consider those things which belong to the powers of the soul; first, in general,
 secondly, in particular. Under the first head there are eight points of inquiry:
@@ -1322,7 +1322,7 @@ secondly, in particular. Under the first head there are eight points of inquiry:
 (7) Whether one power rises from another?
 (8) Whether all the powers of the soul remain in the soul after death?
 
-<span class="atom-split" data-atom="024" data-title="Whether the essence of the soul is its power? (1/2)" data-chapter="Whether the essence of the soul is its power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the essence of the soul is its power? (1/2)" data-chapter="Whether the essence of the soul is its power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the essence of the soul is its power. For [Augustine](/figures/augustine) says (De
 Trin. ix, 4), that "mind, knowledge, and love are in the soul substantially, or, which is the same
@@ -1423,7 +1423,7 @@ soul, not as loving and knowing, but as loved and known. His argument proceeds i
 if love were in the soul loved as in a subject, it would follow that an accident transcends its subject,
 since even other things are loved through the soul.
 
-<span class="atom-split" data-atom="025" data-title="Whether the essence of the soul is its power? (2/2)" data-chapter="Whether the essence of the soul is its power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the essence of the soul is its power? (2/2)" data-chapter="Whether the essence of the soul is its power?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: Although the soul is not composed of matter and form, yet it has an
 admixture of [potentiality](/concepts/act_potency), as we have said above (Q[75], A[5], ad 4); and for this reason it can be
@@ -1435,7 +1435,7 @@ sense and reason, but from the sensitive and rational soul itself. But because s
 which in themselves are unknown to us, are known by their accidents; nothing prevents us from
 sometimes substituting accidents for substantial differences.
 
-<span class="atom-split" data-atom="026" data-title="Whether there are several powers of the soul?" data-chapter="Whether there are several powers of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether there are several powers of the soul?" data-chapter="Whether there are several powers of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not several powers of the soul. For the intellectual
 soul approaches nearest to the likeness of God. But in God there is one simple power: and therefore
@@ -1479,7 +1479,7 @@ power is superior to it, if it is over many things.
 Reply to Objection 3: One thing has one substantial existence, but may have several operations.
 So there is one essence of the soul, with several powers.
 
-<span class="atom-split" data-atom="027" data-title="Whether the powers are distinguished by their acts and objects?" data-chapter="Whether the powers are distinguished by their acts and objects?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether the powers are distinguished by their acts and objects?" data-chapter="Whether the powers are distinguished by their acts and objects?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the powers of the soul are not distinguished by acts and objects.
 For nothing is determined to its species by what is subsequent and extrinsic to it. But the act is
@@ -1553,7 +1553,7 @@ power considers of itself; while they differ in the formalities regarded by the 
 themselves. Thus it is that various objects belong to various lower powers; which objects, however,
 are subject to one higher power.
 
-<span class="atom-split" data-atom="028" data-title="Whether among the powers of the soul there is order?" data-chapter="Whether among the powers of the soul there is order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether among the powers of the soul there is order?" data-chapter="Whether among the powers of the soul there is order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no order among the powers of the soul. For in those
 things which come under one division, there is no before and after, but all are naturally simultaneous.
@@ -1604,7 +1604,7 @@ Reply to Objection 3: This argument is verified as regards those powers among wh
 of the third kind exists. Those powers among which the two other kinds of order exist are such that
 the action of one depends on another.
 
-<span class="atom-split" data-atom="029" data-title="Whether all the powers of the soul are in the soul as their subject?" data-chapter="Whether all the powers of the soul are in the soul as their subject?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether all the powers of the soul are in the soul as their subject?" data-chapter="Whether all the powers of the soul are in the soul as their subject?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the powers of the soul are in the soul as their subject. For
 as the powers of the body are to the body; so are the powers of the soul to the soul. But the body
@@ -1655,7 +1655,7 @@ it feels a wound or something of that sort; while it senses some things without 
 which do not exist in the body, but only in the apprehension of the soul, as when it feels sad or
 joyful on hearing something.
 
-<span class="atom-split" data-atom="030" data-title="Whether the powers of the soul flow from its essence?" data-chapter="Whether the powers of the soul flow from its essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the powers of the soul flow from its essence?" data-chapter="Whether the powers of the soul flow from its essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the powers of the soul do not flow from its essence. For different
 things do not proceed from one simple thing. But the essence of the soul is one and simple. Since,
@@ -1713,7 +1713,7 @@ Reply to Objection 3: The emanation of proper accidents from their subject is no
 transmutation, but by a certain natural resultance; thus one thing results naturally from another, as
 color from light.
 
-<span class="atom-split" data-atom="031" data-title="Whether one power of the soul arises from another?" data-chapter="Whether one power of the soul arises from another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether one power of the soul arises from another?" data-chapter="Whether one power of the soul arises from another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one power of the soul does not arise from another. For if several
 things arise together, one of them does not arise from another. But all the powers of the soul are
@@ -1761,7 +1761,7 @@ Reply to Objection 3: The powers of the soul are opposed to one another, as perf
 imperfect; as also are the species of numbers and figures. But this opposition does not prevent the
 origin of one from another, because imperfect things naturally proceed from perfect things.
 
-<span class="atom-split" data-atom="032" data-title="Whether all the powers remain in the soul when separated from the body?" data-chapter="Whether all the powers remain in the soul when separated from the body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether all the powers remain in the soul when separated from the body?" data-chapter="Whether all the powers remain in the soul when separated from the body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the powers of the soul remain in the soul separated from
 the body. For we read in the book De Spiritu et [Anima](/concepts/soul) that "the soul withdraws from the body,
@@ -1826,7 +1826,7 @@ intellectual appetite, as in the angels.
 Reply to Objection 6: Augustine in that passage is speaking as inquiring, not as asserting.
 Wherefore he retracted some things which he had said there (Retrac. ii, 24).
 
-<span class="atom-split" data-atom="033" data-title="OF THE SPECIFIC POWERS OF THE SOUL (FOUR ARTICLES)" data-chapter="OF THE SPECIFIC POWERS OF THE SOUL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="OF THE SPECIFIC POWERS OF THE SOUL (FOUR ARTICLES)" data-chapter="OF THE SPECIFIC POWERS OF THE SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next treat of the powers of the soul specifically. The theologian, however, has only to inquire
 specifically concerning the intellectual and appetitive powers, in which the virtues reside. And
@@ -1840,7 +1840,7 @@ Under the first head there are four points of inquiry:
 (3) The exterior senses;
 (4) The interior senses.
 
-<span class="atom-split" data-atom="034" data-title="Whether there are to be distinguished five genera of powers in the soul?" data-chapter="Whether there are to be distinguished five genera of powers in the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether there are to be distinguished five genera of powers in the soul?" data-chapter="Whether there are to be distinguished five genera of powers in the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not to be distinguished five genera of powers in the
 soul---namely, vegetative, sensitive, appetitive, locomotive, and intellectual. For the powers of the
@@ -1936,7 +1936,7 @@ movement, but also in the parts of the body, to make them obey the appetite of t
 moves them. Of this we have a sign in the fact that when the members are deprived of their natural
 disposition, they do not move in obedience to the appetite.
 
-<span class="atom-split" data-atom="035" data-title="Whether the parts of the vegetative soul are fittingly described as the nutritive, augmentative, and generative?" data-chapter="Whether the parts of the vegetative soul are fittingly described as the nutritive, augmentative, and generative?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether the parts of the vegetative soul are fittingly described as the nutritive, augmentative, and generative?" data-chapter="Whether the parts of the vegetative soul are fittingly described as the nutritive, augmentative, and generative?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the parts of the vegetative soul are not fittingly
 described---namely, the nutritive, augmentative, and generative. For these are called "natural"
@@ -2002,7 +2002,7 @@ to restore the humidity thus lost, the nutritive power is required, whereby the 
 the substance of the body. This is also necessary for the action of the augmentative and generative
 powers.
 
-<span class="atom-split" data-atom="036" data-title="Whether the five exterior senses are properly distinguished?" data-chapter="Whether the five exterior senses are properly distinguished?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether the five exterior senses are properly distinguished?" data-chapter="Whether the five exterior senses are properly distinguished?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem inaccurate to distinguish five exterior senses. But there are many
 kinds of accidents. Therefore, as powers are distinguished by their objects, it seems that the senses
@@ -2108,7 +2108,7 @@ necessarily immuted by a natural immutation by reason of the quality which is it
 so that the tongue itself becomes sweet and bitter: but by reason of a quality which is a preamble
 to, and on which is based, the flavor, which quality is moisture, the object of touch.
 
-<span class="atom-split" data-atom="037" data-title="Whether the interior senses are suitably distinguished? (1/2)" data-chapter="Whether the interior senses are suitably distinguished?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether the interior senses are suitably distinguished? (1/2)" data-chapter="Whether the interior senses are suitably distinguished?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the interior senses are not suitably distinguished. For the
 common is not divided against the proper. Therefore the common sense should not be numbered
@@ -2214,7 +2214,7 @@ this cannot be done by the proper sense, which only knows the form of the sensib
 immuted, in which immutation the action of sight is completed, and from immutation follows
 another in the common sense which perceives the act of vision.
 
-<span class="atom-split" data-atom="038" data-title="Whether the interior senses are suitably distinguished? (2/2)" data-chapter="Whether the interior senses are suitably distinguished?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the interior senses are suitably distinguished? (2/2)" data-chapter="Whether the interior senses are suitably distinguished?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: As one power arises from the soul by means of another, as we have seen
 above (Q[77], A[7]), so also the soul is the subject of one power through another. In this way the
@@ -2232,7 +2232,7 @@ same, yet more perfect than in other animals.
 Reply to Objection 6: [Augustine](/figures/augustine) calls that vision spiritual which is effected by the images of
 bodies in the absence of bodies. Whence it is clear that it is common to all interior apprehensions.
 
-<span class="atom-split" data-atom="039" data-title="OF THE INTELLECTUAL POWERS (THIRTEEN ARTICLES)" data-chapter="OF THE INTELLECTUAL POWERS (THIRTEEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="OF THE INTELLECTUAL POWERS (THIRTEEN ARTICLES)" data-chapter="OF THE INTELLECTUAL POWERS (THIRTEEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 The next question concerns the intellectual powers, under which head there are thirteen points
 of inquiry:
@@ -2250,7 +2250,7 @@ of inquiry:
 (12) Whether "[synderesis](/concepts/synderesis)" is a power of the intellectual part?
 (13) Whether the conscience is a power of the intellectual part?
 
-<span class="atom-split" data-atom="040" data-title="Whether the intellect is a power of the soul?" data-chapter="Whether the intellect is a power of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether the intellect is a power of the soul?" data-chapter="Whether the intellect is a power of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellect is not a power of the soul, but the essence of the
 soul. For the intellect seems to be the same as the mind. Now the mind is not a power of the soul,
@@ -2302,7 +2302,7 @@ Reply to Objection 4: The immateriality of the created intelligent substance is 
 and through its immateriality it has the power of intelligence. Wherefore it follows not that the
 intellect is the substance of the soul, but that it is its virtue and power.
 
-<span class="atom-split" data-atom="041" data-title="Whether the intellect is a passive power?" data-chapter="Whether the intellect is a passive power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether the intellect is a passive power?" data-chapter="Whether the intellect is a passive power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellect is not a passive power. For everything is passive
 by its matter, and acts by its form. But the intellectual power results from the immateriality of the
@@ -2371,7 +2371,7 @@ passive power in regard to the whole universal being: while the vegetative power
 to some particular thing, namely, the body as united to the soul. Wherefore nothing prevents such
 a passive force being nobler than such an active one.
 
-<span class="atom-split" data-atom="042" data-title="Whether there is an active intellect?" data-chapter="Whether there is an active intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether there is an active intellect?" data-chapter="Whether there is an active intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no active intellect. For as the senses are to things
 sensible, so is our intellect to things intelligible. But because sense is in [potentiality](/concepts/act_potency) to things
@@ -2432,7 +2432,7 @@ from matter. And therefore in order to understand them, the immaterial nature of
 would not suffice but for the presence of the active intellect which makes things actually intelligible
 by way of abstraction.
 
-<span class="atom-split" data-atom="043" data-title="Whether the active intellect is something in the soul?" data-chapter="Whether the active intellect is something in the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the active intellect is something in the soul?" data-chapter="Whether the active intellect is something in the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the active intellect is not something in the soul. For the effect
 of the active intellect is to give light for the purpose of understanding. But this is done by something
@@ -2530,7 +2530,7 @@ Reply to Objection 5: Since the essence of the soul is immaterial, created by th
 intellect, nothing prevents that power which it derives from the supreme intellect, and whereby it
 abstracts from matter, flowing from the essence of the soul, in the same way as its other powers.
 
-<span class="atom-split" data-atom="044" data-title="Whether the active intellect is one in all?" data-chapter="Whether the active intellect is one in all?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether the active intellect is one in all?" data-chapter="Whether the active intellect is one in all?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is one active intellect in all. For what is separate from
 the body is not multiplied according to the number of bodies. But the active intellect is "separate,"
@@ -2576,7 +2576,7 @@ identical in all. Yet it must be derived by all from one principle. And thus the
 men in common of the first principles proves the unity of the separate intellect, which Plato compares
 to the sun; but not the unity of the active intellect, which [Aristotle](/figures/aristotle) compares to light.
 
-<span class="atom-split" data-atom="045" data-title="Whether memory is in the intellectual part of the soul?" data-chapter="Whether memory is in the intellectual part of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether memory is in the intellectual part of the soul?" data-chapter="Whether memory is in the intellectual part of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that memory is not in the intellectual part of the soul. For [Augustine](/figures/augustine)
 says (De Trin. xii, 2,3,8) that to the higher part of the soul belongs those things which are not
@@ -2663,7 +2663,7 @@ as regards the ultimate completion of the act, and then it understands in act. A
 intelligible species is in a middle state, between potentiality and act: and then we have habitual
 knowledge. In this way the intellect retains the species, even when it does not understand in act.
 
-<span class="atom-split" data-atom="046" data-title="Whether the intellectual memory is a power distinct from the intellect?" data-chapter="Whether the intellectual memory is a power distinct from the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether the intellectual memory is a power distinct from the intellect?" data-chapter="Whether the intellectual memory is a power distinct from the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual memory is distinct from the intellect. For
 [Augustine](/figures/augustine) (De Trin. x, 11) assigns to the soul memory, understanding, and will. But it is clear that
@@ -2714,7 +2714,7 @@ intellectual powers, for the reason give above.
 Reply to Objection 3: Intelligence arises from memory, as act from habit; and in this way it
 is equal to it, but not as a power to a power.
 
-<span class="atom-split" data-atom="047" data-title="Whether the reason is distinct from the intellect?" data-chapter="Whether the reason is distinct from the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether the reason is distinct from the intellect?" data-chapter="Whether the reason is distinct from the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the reason is a distinct power from the intellect. For it is stated
 in De Spiritu et [Anima](/concepts/soul) that "when we wish to rise from lower things to higher, first the sense comes
@@ -2764,7 +2764,7 @@ of intelligible truth, which angels know. Therefore in the angels the power of k
 a different genus fro that which is in the human reason, but is compared to it as the perfect to the
 imperfect.
 
-<span class="atom-split" data-atom="048" data-title="Whether the higher and lower reason are distinct powers?" data-chapter="Whether the higher and lower reason are distinct powers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether the higher and lower reason are distinct powers?" data-chapter="Whether the higher and lower reason are distinct powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the higher and lower reason are distinct powers. For [Augustine](/figures/augustine)
 says (De Trin. xii, 4,7), that the image of the Trinity is in the higher part of the reason, and not in
@@ -2849,7 +2849,7 @@ to one side of a contradiction, whilst in fear of the other. While to "judge" or
 is an act of the intellect, applying certain principles to examine propositions. From this is taken the
 word "mens" [mind]. Lastly, to "understand" is to adhere to the formed judgment with approval.
 
-<span class="atom-split" data-atom="049" data-title="Whether intelligence is a power distinct from intellect?" data-chapter="Whether intelligence is a power distinct from intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether intelligence is a power distinct from intellect?" data-chapter="Whether intelligence is a power distinct from intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intelligence is another power than the intellect. For we
 read in De Spiritu et [Anima](/concepts/soul) that "when we wish to rise from lower to higher things, first the sense
@@ -2907,7 +2907,7 @@ known to others; and this is the ordering of "interior speech," from which proce
 For every difference of acts does not make the powers vary, but only what cannot be reduced to
 the one same principle, as we have said above (Q[78], A[4]).
 
-<span class="atom-split" data-atom="050" data-title="Whether the speculative and practical intellects are distinct powers?" data-chapter="Whether the speculative and practical intellects are distinct powers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether the speculative and practical intellects are distinct powers?" data-chapter="Whether the speculative and practical intellects are distinct powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the speculative and practical intellects are distinct powers. For
 the apprehensive and motive are different kinds of powers, as is clear from De [Anima](/concepts/soul) ii, 3. But the
@@ -2951,7 +2951,7 @@ as the speculative, but it directs the known truth to operation.
 Reply to Objection 3: Many differences differentiate the sensitive powers, which do not
 differentiate the intellectual powers, as we have said above (A[7] , ad 2; Q[77], A[3], ad 4).
 
-<span class="atom-split" data-atom="051" data-title="Whether synderesis is a special power of the soul distinct from the others?" data-chapter="Whether synderesis is a special power of the soul distinct from the others?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether synderesis is a special power of the soul distinct from the others?" data-chapter="Whether synderesis is a special power of the soul distinct from the others?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that "[synderesis](/concepts/synderesis)" is a special power, distinct from the others. For
 those things which fall under one division, seem to be of the same genus. But in the gloss of Jerome
@@ -3001,7 +3001,7 @@ Reply to Objection 3: Those unchangeable notions are the first practical princip
 which no one errs; and they are attributed to reason as to a power, and to "synderesis" as to a habit.
 Wherefore we judge naturally both by our reason and by "synderesis."
 
-<span class="atom-split" data-atom="052" data-title="Whether conscience be a power?" data-chapter="Whether conscience be a power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether conscience be a power?" data-chapter="Whether conscience be a power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that conscience is a power; for Origen says [*Commentary on
 Rom. 2:15] that "conscience is a correcting and guiding spirit accompanying the soul, by which it
@@ -3056,7 +3056,7 @@ many, nevertheless have their efficacy from one first habit, the habit of first 
 called "synderesis." And for this special reason, this habit is sometimes called conscience, as we
 have said above.
 
-<span class="atom-split" data-atom="053" data-title="OF THE APPETITIVE POWERS IN GENERAL (TWO ARTICLES)" data-chapter="OF THE APPETITIVE POWERS IN GENERAL (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="OF THE APPETITIVE POWERS IN GENERAL (TWO ARTICLES)" data-chapter="OF THE APPETITIVE POWERS IN GENERAL (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Next we consider the appetitive powers, concerning which there are four heads of consideration:
 first, the appetitive powers in general; second, sensuality; third, the will; fourth, the free-will. Under
@@ -3064,7 +3064,7 @@ the first there are two points of inquiry:
 (1) Whether the appetite should be considered a special power of the soul?
 (2) Whether the appetite should be divided into intellectual and sensitive as distinct powers?
 
-<span class="atom-split" data-atom="054" data-title="Whether the appetite is a special power of the soul?" data-chapter="Whether the appetite is a special power of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the appetite is a special power of the soul?" data-chapter="Whether the appetite is a special power of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the appetite is not a special power of the soul. For no power
 of the soul is to be assigned for those things which are common to animate and to inanimate things.
@@ -3117,7 +3117,7 @@ to itself. Above which natural appetite is the animal appetite, which follows th
 by which something is desired not as suitable to this or that power, such as sight for seeing, or
 sound for hearing; but simply as suitable to the animal.
 
-<span class="atom-split" data-atom="055" data-title="Whether the sensitive and intellectual appetites are distinct powers?" data-chapter="Whether the sensitive and intellectual appetites are distinct powers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether the sensitive and intellectual appetites are distinct powers?" data-chapter="Whether the sensitive and intellectual appetites are distinct powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sensitive and intellectual appetites are not distinct powers.
 For powers are not differentiated by accidental differences, as we have seen above (Q[77], A[3]).
@@ -3161,7 +3161,7 @@ because it is good. Wherefore the Philosopher says (Rhetoric. ii, 4) that hatred
 as when "we hate every kind of thief." In the same way by the intellectual appetite we may desire
 the immaterial good, which is not apprehended by sense, such as knowledge, virtue, and suchlike.
 
-<span class="atom-split" data-atom="056" data-title="OF THE POWER OF SENSUALITY (THREE ARTICLES)" data-chapter="OF THE POWER OF SENSUALITY (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="OF THE POWER OF SENSUALITY (THREE ARTICLES)" data-chapter="OF THE POWER OF SENSUALITY (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 Next we have to consider the power of sensuality, concerning which there are three points of
 inquiry:
@@ -3169,7 +3169,7 @@ inquiry:
 (2) Whether it is divided into irascible and concupiscible as distinct powers?
 (3) Whether the irascible and concupiscible powers obey reason?
 
-<span class="atom-split" data-atom="057" data-title="Whether sensuality is only appetitive?" data-chapter="Whether sensuality is only appetitive?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether sensuality is only appetitive?" data-chapter="Whether sensuality is only appetitive?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sensuality is not only appetitive, but also cognitive. For
 [Augustine](/figures/augustine) says (De Trin. xii, 12) that "the sensual movement of the soul which is directed to the
@@ -3210,7 +3210,7 @@ and lower reason, is a motive power; as is appetite, to which appertains sensual
 Reply to Objection 3: The serpent not only showed and proposed sin, but also incited to the
 commission of sin. And in this, sensuality is signified by the serpent.
 
-<span class="atom-split" data-atom="058" data-title="Whether the sensitive appetite is divided into the irascible and concupiscible as distinct powers?" data-chapter="Whether the sensitive appetite is divided into the irascible and concupiscible as distinct powers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the sensitive appetite is divided into the irascible and concupiscible as distinct powers?" data-chapter="Whether the sensitive appetite is divided into the irascible and concupiscible as distinct powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sensitive appetite is not divided into the irascible and
 concupiscible as distinct powers. For the same power of the soul regards both sides of a contrariety,
@@ -3270,7 +3270,7 @@ and this is the irascible power.
 Reply to Objection 3: Hatred belongs simply to the concupiscible appetite: but by reason of
 the strife which arises from hatred, it may belong to the irascible appetite.
 
-<span class="atom-split" data-atom="059" data-title="Whether the irascible and concupiscible appetites obey reason?" data-chapter="Whether the irascible and concupiscible appetites obey reason?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether the irascible and concupiscible appetites obey reason?" data-chapter="Whether the irascible and concupiscible appetites obey reason?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the irascible and concupiscible appetites do not obey reason.
 For irascible and concupiscible are parts of sensuality. But sensuality does not obey reason, wherefore
@@ -3346,7 +3346,7 @@ appetitive and apprehensive, do not require exterior things. Therefore they are 
 command of reason, which can not only incite or modify the affections of the appetitive power,
 but can also form the phantasms of the imagination.
 
-<span class="atom-split" data-atom="060" data-title="OF THE WILL (FIVE ARTICLES)" data-chapter="OF THE WILL (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="OF THE WILL (FIVE ARTICLES)" data-chapter="OF THE WILL (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the will. Under this head there are five points of inquiry:
 (1) Whether the will desires something of necessity?
@@ -3355,7 +3355,7 @@ We next consider the will. Under this head there are five points of inquiry:
 (4) Whether the will moves the intellect?
 (5) Whether the will is divided into irascible and concupiscible?
 
-<span class="atom-split" data-atom="061" data-title="Whether the will desires something of necessity?" data-chapter="Whether the will desires something of necessity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the will desires something of necessity?" data-chapter="Whether the will desires something of necessity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will desires nothing. For [Augustine](/figures/augustine) says (De Civ. Dei v,
 10) that it anything is necessary, it is not voluntary. But whatever the will desires is voluntary.
@@ -3411,7 +3411,7 @@ this or that. But choice regards not the end, but "the means to the end," as the
 (Ethic. iii, 9). Wherefore the desire of the ultimate end does not regard those actions of which we
 are masters.
 
-<span class="atom-split" data-atom="062" data-title="Whether the will desires of necessity, whatever it desires?" data-chapter="Whether the will desires of necessity, whatever it desires?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether the will desires of necessity, whatever it desires?" data-chapter="Whether the will desires of necessity, whatever it desires?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will desires all things of necessity, whatever it desires. For
 Dionysius says (Div. Nom. iv) that "evil is outside the scope of the will." Therefore the will tends
@@ -3464,7 +3464,7 @@ moves the sensitive appetite in a determinate way. But the reason is a power tha
 things together: therefore from several things the intellectual appetite---that is, the will---may be
 moved; but not of necessity from one thing.
 
-<span class="atom-split" data-atom="063" data-title="Whether the will is a higher power than the intellect?" data-chapter="Whether the will is a higher power than the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether the will is a higher power than the intellect?" data-chapter="Whether the will is a higher power than the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will is a higher power than the intellect. For the object of
 the will is good and the end. But the end is the first and highest cause. Therefore the will is the first
@@ -3525,7 +3525,7 @@ and as the active precedes the passive; for good which is understood moves the w
 Reply to Objection 3: This reason is verified of the will as compared with what is above the
 soul. For charity is the virtue by which we love God.
 
-<span class="atom-split" data-atom="064" data-title="Whether the will moves the intellect?" data-chapter="Whether the will moves the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether the will moves the intellect?" data-chapter="Whether the will moves the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the will does not move the intellect. For what moves excels
 and precedes what is moved, because what moves is an agent, and "the agent is nobler than the
@@ -3591,7 +3591,7 @@ every apprehension is not preceded by an act of the will; but the principle of c
 understanding is an intellectual principle higher than our intellect ---namely, God---as also [Aristotle](/figures/aristotle)
 says (Eth. Eudemic. vii, 14), and in this way he explains that there is no need to proceed indefinitely.
 
-<span class="atom-split" data-atom="065" data-title="Whether we should distinguish irascible and concupiscible parts in the superior appetite?" data-chapter="Whether we should distinguish irascible and concupiscible parts in the superior appetite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether we should distinguish irascible and concupiscible parts in the superior appetite?" data-chapter="Whether we should distinguish irascible and concupiscible parts in the superior appetite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we ought to distinguish irascible and concupiscible parts in
 the superior appetite, which is the will. For the concupiscible power is so called from "concupiscere"
@@ -3653,7 +3653,7 @@ concupiscible powers are in the soul before it is united to the body (as long as
 of nature, and not of time), although there is no need to have faith in what that book says. Whence
 the answer to the third objection is clear.
 
-<span class="atom-split" data-atom="066" data-title="OF FREE-WILL (FOUR ARTICLES)" data-chapter="OF FREE-WILL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="OF FREE-WILL (FOUR ARTICLES)" data-chapter="OF FREE-WILL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now inquire concerning free-will. Under this head there are four points of inquiry:
 (1) Whether man has free-will?
@@ -3661,7 +3661,7 @@ We now inquire concerning free-will. Under this head there are four points of in
 (3) If it is a power, is it appetitive or cognitive?
 (4) If it is appetitive, is it the same power as the will, or distinct?
 
-<span class="atom-split" data-atom="067" data-title="Whether man has free-will?" data-chapter="Whether man has free-will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether man has free-will?" data-chapter="Whether man has free-will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man has not free-will. For whoever has free-will does what
 he wills. But man does not what he wills; for it is written (Rom. 7:19): "For the good which I will
@@ -3744,7 +3744,7 @@ Such qualities, too, are subject to reason, as it is in our power either to acqu
 causing them or disposing ourselves to them, or to reject them. And so there is nothing in this that
 is repugnant to free-will.
 
-<span class="atom-split" data-atom="068" data-title="Whether free-will is a power?" data-chapter="Whether free-will is a power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether free-will is a power?" data-chapter="Whether free-will is a power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that free-will is not a power. For free-will is nothing but a free
 judgment. But judgment denominates an act, not a power. Therefore free-will is not a power.
@@ -3796,7 +3796,7 @@ liberty, which is freedom from coercion, but as regards freedom from fault and u
 this we shall treat later in the treatise on Morals in the second part of this work (FS, Q[85], seqq.;
 Q[109]).
 
-<span class="atom-split" data-atom="069" data-title="Whether free-will is an appetitive power?" data-chapter="Whether free-will is an appetitive power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether free-will is an appetitive power?" data-chapter="Whether free-will is an appetitive power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that free-will is not an appetitive, but a cognitive power. For
 Damascene (De Fide Orth. ii, 27) says that "free-will straightway accompanies the rational nature."
@@ -3841,7 +3841,7 @@ counsel, which is an act of reason. For though the appetite does not make compar
 as it is moved by the apprehensive power which does compare, it has some likeness of comparison
 by choosing one in preference to another.
 
-<span class="atom-split" data-atom="070" data-title="Whether free-will is a power distinct from the will?" data-chapter="Whether free-will is a power distinct from the will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether free-will is a power distinct from the will?" data-chapter="Whether free-will is a power distinct from the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that free-will is a power distinct from the will. For Damascene
 says (De Fide Orth. ii, 22) that {thelesis} is one thing and {boulesis} another. But {thelesis} is the
@@ -3888,7 +3888,7 @@ belong to the same power, as also to understand and to reason, as we have said.
 Reply to Objection 3: The intellect is compared to the will as moving the will. And therefore
 there is no need to distinguish in the will an active and a passive will.
 
-<span class="atom-split" data-atom="071" data-title="HOW THE SOUL WHILE UNITED TO THE BODY UNDERSTANDS CORPOREAL THINGS BENEATH IT (EIGHT ARTICLES)" data-chapter="HOW THE SOUL WHILE UNITED TO THE BODY UNDERSTANDS CORPOREAL THINGS BENEATH IT (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="HOW THE SOUL WHILE UNITED TO THE BODY UNDERSTANDS CORPOREAL THINGS BENEATH IT (EIGHT ARTICLES)" data-chapter="HOW THE SOUL WHILE UNITED TO THE BODY UNDERSTANDS CORPOREAL THINGS BENEATH IT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider the acts of the soul in regard to the intellectual and the appetitive
 powers: for the other powers of the soul do not come directly under the consideration of the
@@ -3916,7 +3916,7 @@ the soul?
 without turning to the phantasms?
 (8) Whether the judgment of the intellect is hindered by an obstacle in the sensitive powers?
 
-<span class="atom-split" data-atom="072" data-title="Whether the soul knows bodies through the intellect?" data-chapter="Whether the soul knows bodies through the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether the soul knows bodies through the intellect?" data-chapter="Whether the soul knows bodies through the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul does not know bodies through the intellect. For
 [Augustine](/figures/augustine) says (Soliloq. ii, 4) that "bodies cannot be understood by the intellect; nor indeed anything
@@ -3997,7 +3997,7 @@ immovable; for instance, though [Socrates](/figures/socrates) be not always sitt
 whenever he does sit he remains in one place. For this reason there is nothing to hinder our having
 an immovable science of movable things.
 
-<span class="atom-split" data-atom="073" data-title="Whether the soul understands corporeal things through its essence?" data-chapter="Whether the soul understands corporeal things through its essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether the soul understands corporeal things through its essence?" data-chapter="Whether the soul understands corporeal things through its essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul understands corporeal things through its essence. For
 [Augustine](/figures/augustine) says (De Trin. x, 5) that the soul "collects and lays hold of the images of bodies which
@@ -4084,7 +4084,7 @@ determined to a certain species other than the species of the lower creature. Bu
 is a perfect likeness of all, whatsoever may be found to exist in things created, being the universal
 principle of all.
 
-<span class="atom-split" data-atom="074" data-title="Whether the soul understands all things through innate species?" data-chapter="Whether the soul understands all things through innate species?" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether the soul understands all things through innate species?" data-chapter="Whether the soul understands all things through innate species?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul understands all things through innate species. For
 Gregory says, in a homily for the Ascension (xxix in Ev.), that "man has understanding in common
@@ -4154,7 +4154,7 @@ because he had knowledge previously, but because he thus learns for the first ti
 not whether the teacher proceed from universal principles to conclusions by questioning or by
 asserting; for in either case the mind of the listener is assured of what follows by that which preceded.
 
-<span class="atom-split" data-atom="075" data-title="Whether the intelligible species are derived by the soul from certain separate forms?" data-chapter="Whether the intelligible species are derived by the soul from certain separate forms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether the intelligible species are derived by the soul from certain separate forms?" data-chapter="Whether the intelligible species are derived by the soul from certain separate forms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intelligible species are derived by the soul from some
 separate forms. For whatever is such by participation is caused by what is such essentially; for
@@ -4246,7 +4246,7 @@ Reply to Objection 3: Our passive intellect is reduced from potentiality to act 
 in act, that is, by the active intellect, which is a power of the soul, as we have said (Q[79], A[4]);
 and not by a separate intelligence, as proximate cause, although perchance as remote cause.
 
-<span class="atom-split" data-atom="076" data-title="Whether the intellectual soul knows material things in the eternal types?" data-chapter="Whether the intellectual soul knows material things in the eternal types?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether the intellectual soul knows material things in the eternal types?" data-chapter="Whether the intellectual soul knows material things in the eternal types?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual soul does not know material things in the eternal
 types. For that in which anything is known must itself be known more and previously. But the
@@ -4311,7 +4311,7 @@ But that Augustine did not understand all things to be known in their "eternal t
 namely, of the eternal types, "but only those that are holy and pure," such as the souls of the blessed.
 From what has been said the objections are easily solved.
 
-<span class="atom-split" data-atom="077" data-title="Whether intellectual knowledge is derived from sensible things?" data-chapter="Whether intellectual knowledge is derived from sensible things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether intellectual knowledge is derived from sensible things?" data-chapter="Whether intellectual knowledge is derived from sensible things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that intellectual knowledge is not derived from sensible things.
 For [Augustine](/figures/augustine) says (QQ. 83, qu. 9) that "we cannot expect to learn the fulness of truth from the
@@ -4404,7 +4404,7 @@ Reply to Objection 3: Sensitive knowledge is not the entire cause of intellectua
 And therefore it is not strange that intellectual knowledge should extend further than sensitive
 knowledge.
 
-<span class="atom-split" data-atom="078" data-title="Whether the intellect can actually understand through the intelligible species of which it is possessed, without turning to the phantasms?" data-chapter="Whether the intellect can actually understand through the intelligible species of which it is possessed, without turning to the phantasms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether the intellect can actually understand through the intelligible species of which it is possessed, without turning to the phantasms?" data-chapter="Whether the intellect can actually understand through the intelligible species of which it is possessed, without turning to the phantasms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellect can actually understand through the intelligible
 species of which it is possessed, without turning to the phantasms. For the intellect is made actual
@@ -4472,7 +4472,7 @@ in the present state of life, only by way of remotion or by some comparison to c
 And, therefore, when we understand something about these things, we need to turn to phantasms
 of bodies, although there are no phantasms of the things themselves.
 
-<span class="atom-split" data-atom="079" data-title="Whether the judgment of the intellect is hindered through suspension of the sensitive powers?" data-chapter="Whether the judgment of the intellect is hindered through suspension of the sensitive powers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether the judgment of the intellect is hindered through suspension of the sensitive powers?" data-chapter="Whether the judgment of the intellect is hindered through suspension of the sensitive powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the judgment of the intellect is not hindered by suspension of
 the sensitive powers. For the superior does not depend on the inferior. But the judgment of the
@@ -4524,7 +4524,7 @@ particular. Therefore, while man is asleep, according as sense and imagination a
 judgment of his intellect unfettered, though not entirely. Consequently, if a man syllogizes while
 asleep, when he wakes up he invariably recognizes a flaw in some respect.
 
-<span class="atom-split" data-atom="080" data-title="OF THE MODE AND ORDER OF UNDERSTANDING (EIGHT ARTICLES)" data-chapter="OF THE MODE AND ORDER OF UNDERSTANDING (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="OF THE MODE AND ORDER OF UNDERSTANDING (EIGHT ARTICLES)" data-chapter="OF THE MODE AND ORDER OF UNDERSTANDING (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We come now to consider the mode and order of understanding. Under this head there are eight
 points of inquiry:
@@ -4538,7 +4538,7 @@ understands, or that whereby it understands?
 (7) Whether one intellect can understand better than another?
 (8) Whether our intellect understands the indivisible before the divisible?
 
-<span class="atom-split" data-atom="081" data-title="Whether our intellect understands corporeal and material things by abstraction from phantasms? (1/2)" data-chapter="Whether our intellect understands corporeal and material things by abstraction from phantasms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether our intellect understands corporeal and material things by abstraction from phantasms? (1/2)" data-chapter="Whether our intellect understands corporeal and material things by abstraction from phantasms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our intellect does not understand corporeal and material things
 by abstraction from the phantasms. For the intellect is false if it understands an object otherwise
@@ -4619,7 +4619,7 @@ that the mode of understanding, in one who understands, is not the same as the m
 existing: since the thing understood is immaterially in the one who understands, according to the
 mode of the intellect, and not materially, according to the mode of a material thing.
 
-<span class="atom-split" data-atom="082" data-title="Whether our intellect understands corporeal and material things by abstraction from phantasms? (2/2)" data-chapter="Whether our intellect understands corporeal and material things by abstraction from phantasms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether our intellect understands corporeal and material things by abstraction from phantasms? (2/2)" data-chapter="Whether our intellect understands corporeal and material things by abstraction from phantasms?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Some have thought that the species of a natural thing is a form only,
 and that matter is not part of the species. If that were so, matter would not enter into the definition
@@ -4670,7 +4670,7 @@ inasmuch as it considers the natures of things in universal, and, nevertheless, 
 natures in the phantasms since it cannot understand even the things of which it abstracts the species,
 without turning to the phantasms, as we have said above (Q[84], A[7]).
 
-<span class="atom-split" data-atom="083" data-title="Whether the intelligible species abstracted from the phantasm is related to our intellect as that which is understood?" data-chapter="Whether the intelligible species abstracted from the phantasm is related to our intellect as that which is understood?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether the intelligible species abstracted from the phantasm is related to our intellect as that which is understood?" data-chapter="Whether the intelligible species abstracted from the phantasm is related to our intellect as that which is understood?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intelligible species abstracted from the phantasm is related
 to our intellect as that which is understood. For the understood in act is in the one who understands:
@@ -4760,7 +4760,7 @@ and a proposition conveys the intellect's division or composition. Words do not 
 the intelligible species themselves; but that which the intellect forms for itself for the purpose of
 judging of external things.
 
-<span class="atom-split" data-atom="084" data-title="Whether the more universal is first in our intellectual cognition? (1/2)" data-chapter="Whether the more universal is first in our intellectual cognition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether the more universal is first in our intellectual cognition? (1/2)" data-chapter="Whether the more universal is first in our intellectual cognition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the more universal is not first in our intellectual cognition. For
 what is first and more known in its own nature, is secondarily and less known in relation to ourselves.
@@ -4850,7 +4850,7 @@ principles of definition are known before the thing defined is known; otherwise 
 would not be known at all. But as parts of the definition they are known after. For we know man
 vaguely as man before we know how to distinguish all that belongs to [human nature](/axes/human_nature).
 
-<span class="atom-split" data-atom="085" data-title="Whether the more universal is first in our intellectual cognition? (2/2)" data-chapter="Whether the more universal is first in our intellectual cognition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether the more universal is first in our intellectual cognition? (2/2)" data-chapter="Whether the more universal is first in our intellectual cognition?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: The universal, as understood with the intention of universality, is, indeed,
 in a way, a principle of knowledge, in so far as the intention of universality results from the mode
@@ -4870,7 +4870,7 @@ the form. Neither is it necessary that, as regards us, knowledge of any cause or
 secondary: since at times through sensible causes we become acquainted with unknown effects,
 and sometimes conversely.
 
-<span class="atom-split" data-atom="086" data-title="Whether we can understand many things at the same time?" data-chapter="Whether we can understand many things at the same time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether we can understand many things at the same time?" data-chapter="Whether we can understand many things at the same time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we can understand many things at the same time. For intellect
 is above time, whereas the succession of before and after belongs to time. Therefore the intellect
@@ -4927,7 +4927,7 @@ Reply to Objection 4: If the intellect sees the difference or comparison between
 another, it knows both in relation to their difference or comparison; just, as we have said above (ad
 3), as it knows the parts in the whole.
 
-<span class="atom-split" data-atom="087" data-title="Whether our intellect understands by composition and division?" data-chapter="Whether our intellect understands by composition and division?" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Whether our intellect understands by composition and division?" data-chapter="Whether our intellect understands by composition and division?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our intellect does not understand by composition and division.
 For composition and division are only of many; whereas the intellect cannot understand many
@@ -4991,7 +4991,7 @@ intellectual nature; man, that which has both; and [Socrates](/figures/socrates)
 with individual matter; and according to this kind of identity our intellect predicates the composition
 of one thing with another.
 
-<span class="atom-split" data-atom="088" data-title="Whether the intellect can be false?" data-chapter="Whether the intellect can be false?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether the intellect can be false?" data-chapter="Whether the intellect can be false?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellect can be false; for the Philosopher says (Metaph.
 vi, Did. v, 4) that "truth and falsehood are in the mind." But the mind and intellect are the same, as
@@ -5039,7 +5039,7 @@ judgment of the appetible object. But in the absolute consideration of the quidd
 of those things which are known thereby, the intellect is never deceived. In this sense are to be
 understood the authorities quoted in proof of the opposite conclusion.
 
-<span class="atom-split" data-atom="089" data-title="Whether one person can understand one and the same thing better than another can?" data-chapter="Whether one person can understand one and the same thing better than another can?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether one person can understand one and the same thing better than another can?" data-chapter="Whether one person can understand one and the same thing better than another can?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one person cannot understand one and the same thing better
 than another can. For [Augustine](/figures/augustine) says (QQ. 83, qu. 32), "Whoever understands a thing otherwise
@@ -5083,7 +5083,7 @@ Reply to Objection 3: The difference of form which is due only to the different 
 matter, causes not a specific but only a numerical difference: for different individuals have different
 forms, diversified according to the difference of matter.
 
-<span class="atom-split" data-atom="090" data-title="Whether the intellect understands the indivisible before the divisible?" data-chapter="Whether the intellect understands the indivisible before the divisible?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether the intellect understands the indivisible before the divisible?" data-chapter="Whether the intellect understands the indivisible before the divisible?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellect understands the indivisible before the divisible.
 For the Philosopher says (Phys. i, 1) that "we understand and know from the knowledge of principles
@@ -5143,7 +5143,7 @@ in the knower; therefore a thing is known first, not on account of its natural l
 power, but on account of the power's aptitude for the object: otherwise sight would perceive hearing
 rather than color.
 
-<span class="atom-split" data-atom="091" data-title="WHAT OUR INTELLECT KNOWS IN MATERIAL THINGS (FOUR ARTICLES)" data-chapter="WHAT OUR INTELLECT KNOWS IN MATERIAL THINGS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="WHAT OUR INTELLECT KNOWS IN MATERIAL THINGS (FOUR ARTICLES)" data-chapter="WHAT OUR INTELLECT KNOWS IN MATERIAL THINGS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now have to consider what our intellect knows in material things. Under this head there are
 four points of inquiry:
@@ -5152,7 +5152,7 @@ four points of inquiry:
 (3) Whether it knows contingent things?
 (4) Whether it knows future things?
 
-<span class="atom-split" data-atom="092" data-title="Whether our intellect knows singulars?" data-chapter="Whether our intellect knows singulars?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether our intellect knows singulars?" data-chapter="Whether our intellect knows singulars?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our intellect knows singulars. For whoever knows composition,
 knows the terms of composition. But our intellect knows this composition; "[Socrates](/figures/socrates) is a man":
@@ -5197,7 +5197,7 @@ Reply to Objection 4: The higher power can do what the lower power can, but in a
 eminent way. Wherefore what the sense knows materially and concretely, which is to know the
 singular directly, the intellect knows immaterially and in the abstract, which is to know the universal.
 
-<span class="atom-split" data-atom="093" data-title="Whether our intellect can know the infinite?" data-chapter="Whether our intellect can know the infinite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether our intellect can know the infinite?" data-chapter="Whether our intellect can know the infinite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our intellect can know the infinite. For God excels all infinite
 things. But our intellect can know God, as we have said above (Q[12], A[1]). Much more, therefore,
@@ -5264,7 +5264,7 @@ power is indeed infinite inasmuch as it is not terminated by corporeal matter. M
 the universal, which is abstracted from individual matter, and which consequently is not limited to
 one individual, but, considered in itself, extends to an infinite number of individuals.
 
-<span class="atom-split" data-atom="094" data-title="Whether our intellect can know contingent things?" data-chapter="Whether our intellect can know contingent things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether our intellect can know contingent things?" data-chapter="Whether our intellect can know contingent things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellect cannot know contingent things: because, as the
 Philosopher says (Ethic. vi, 6), the objects of understanding, wisdom and knowledge are not
@@ -5297,7 +5297,7 @@ things. But if we consider the things themselves, thus some sciences are of nece
 of contingent things.
 From which the replies to the objections are clear.
 
-<span class="atom-split" data-atom="095" data-title="Whether our intellect can know the future?" data-chapter="Whether our intellect can know the future?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether our intellect can know the future?" data-chapter="Whether our intellect can know the future?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our intellect knows the future. For our intellect knows by
 means of intelligible species abstracted from the "here" and "now," and related indifferently to all
@@ -5376,7 +5376,7 @@ head there are four points of inquiry:
 (3) How does the intellect know its own act?
 (4) How does it know the act of the will?
 
-<span class="atom-split" data-atom="096" data-title="Whether the intellectual soul knows itself by its essence?" data-chapter="Whether the intellectual soul knows itself by its essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Whether the intellectual soul knows itself by its essence?" data-chapter="Whether the intellectual soul knows itself by its essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellectual soul knows itself by its own essence. For
 [Augustine](/figures/augustine) says (De Trin. ix, 3), that "the mind knows itself, because it is incorporeal."
@@ -5464,7 +5464,7 @@ the Commentator says (De Anima iii) that the proposition quoted is true only of 
 because in a sense it is verified in their regard, and not in regard of other substances, as already
 stated (Reply OBJ 2).
 
-<span class="atom-split" data-atom="097" data-title="Whether our intellect knows the habits of the soul by their essence?" data-chapter="Whether our intellect knows the habits of the soul by their essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Whether our intellect knows the habits of the soul by their essence?" data-chapter="Whether our intellect knows the habits of the soul by their essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our intellect knows the habits of the soul by their essence. For
 [Augustine](/figures/augustine) says (De Trin. xiii, 1): "Faith is not seen in the heart wherein it abides, as the soul of a
@@ -5513,7 +5513,7 @@ as such does not belong to the order of objects of knowledge; nor are things kno
 the habit, as on account of an object known, but as on account of a disposition or form whereby
 the subject knows: and therefore the argument does not prove.
 
-<span class="atom-split" data-atom="098" data-title="Whether our intellect knows its own act?" data-chapter="Whether our intellect knows its own act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether our intellect knows its own act?" data-chapter="Whether our intellect knows its own act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our intellect does not know its own act. For what is known is
 the object of the knowing faculty. But the act differs from the object. Therefore the intellect does
@@ -5569,7 +5569,7 @@ by another, and therefore the act of the proper sense is perceived by the common
 on the contrary, does not perform the act of understanding by the material immutation of an organ;
 and so there is no comparison.
 
-<span class="atom-split" data-atom="099" data-title="Whether the intellect understands the act of the will?" data-chapter="Whether the intellect understands the act of the will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether the intellect understands the act of the will?" data-chapter="Whether the intellect understands the act of the will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the intellect does not understand the act of the will. For nothing
 is known by the intellect, unless it be in some way present in the intellect. But the act of the will
@@ -5616,7 +5616,7 @@ bodies; nor by being present in their subject, as the arts; but as the thing cau
 which contains some notion of the thing caused. And so Augustine says that the soul's affections
 are in the memory by certain notions.
 
-<span class="atom-split" data-atom="100" data-title="HOW THE HUMAN SOUL KNOWS WHAT IS ABOVE ITSELF (THREE ARTICLES)" data-chapter="HOW THE HUMAN SOUL KNOWS WHAT IS ABOVE ITSELF (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="HOW THE HUMAN SOUL KNOWS WHAT IS ABOVE ITSELF (THREE ARTICLES)" data-chapter="HOW THE HUMAN SOUL KNOWS WHAT IS ABOVE ITSELF (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider how the human soul knows what is above itself, viz. immaterial
 substances. Under this head there are three points of inquiry:
@@ -5625,7 +5625,7 @@ called angels, in themselves?
 (2) Whether it can arrive at the knowledge thereof by the knowledge of material things?
 (3) Whether God is the first object of our knowledge?
 
-<span class="atom-split" data-atom="101" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (1/3)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (1/3)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human soul in the present state of life can understand
 immaterial substances in themselves. For [Augustine](/figures/augustine) (De Trin. ix, 3) says: "As the mind itself
@@ -5659,7 +5659,7 @@ On the contrary, It is written (Wis. 9:16): "The things that are in heaven, who 
 out?" But these substances are said to be in heaven, according to Mat. 18:10, "Their angels in
 heaven," etc. Therefore immaterial substances cannot be known by human investigation.
 
-<span class="atom-split" data-atom="102" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (2/3)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (2/3)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, In the opinion of Plato, immaterial substances are not only understood by us,
 but are the objects we understand first of all. For Plato taught that immaterial subsisting forms,
@@ -5760,14 +5760,14 @@ Secondly, to be understood by us is not the end of separate substances: while on
 and purposeless, which fails to attain its end. It does not follow, therefore, that immaterial substances
 are purposeless, even if they are not understood by us at all.
 
-<span class="atom-split" data-atom="103" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (3/3)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether the human soul in the present state of life can understand immaterial substances in themselves? (3/3)" data-chapter="Whether the human soul in the present state of life can understand immaterial substances in themselves?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: Sense knows bodies, whether superior or inferior, in the same way, that
 is, by the sensible acting on the organ. But we do not understand material and immaterial substances
 in the same way. The former we understand by a process of abstraction, which is impossible in the
 case of the latter, for there are no phantasms of what is immaterial.
 
-<span class="atom-split" data-atom="104" data-title="Whether our intellect can understand immaterial substances through its knowledge of material things?" data-chapter="Whether our intellect can understand immaterial substances through its knowledge of material things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether our intellect can understand immaterial substances through its knowledge of material things?" data-chapter="Whether our intellect can understand immaterial substances through its knowledge of material things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that our intellect can know immaterial substances through the
 knowledge of material things. For Dionysius says (Coel. Hier. i) that "the human mind cannot be
@@ -5831,7 +5831,7 @@ through the likeness derived from material things we can know something positive
 angels, according to some common notion, though not according to the specific nature; whereas
 we cannot acquire any such knowledge at all about God.
 
-<span class="atom-split" data-atom="105" data-title="Whether God is the first object known by the human mind?" data-chapter="Whether God is the first object known by the human mind?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether God is the first object known by the human mind?" data-chapter="Whether God is the first object known by the human mind?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God is the first object known by the human mind. For that
 object in which all others are known, and by which we judge others, is the first thing known to us;
@@ -5871,7 +5871,7 @@ Reply to Objection 3: If there existed in our souls a perfect image of God, as t
 perfect image of the Father, our mind would know God at once. But the image in our mind is
 imperfect; hence the argument does not prove.
 
-<span class="atom-split" data-atom="106" data-title="OF THE KNOWLEDGE OF THE SEPARATED SOUL (EIGHT ARTICLES)" data-chapter="OF THE KNOWLEDGE OF THE SEPARATED SOUL (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="OF THE KNOWLEDGE OF THE SEPARATED SOUL (EIGHT ARTICLES)" data-chapter="OF THE KNOWLEDGE OF THE SEPARATED SOUL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the knowledge of the separated soul. Under this head there are eight
 points of inquiry:
@@ -5884,7 +5884,7 @@ points of inquiry:
 (7) Whether local distance impedes the separated soul's knowledge?
 (8) Whether souls separated from the body know what happens here?
 
-<span class="atom-split" data-atom="107" data-title="Whether the separated soul can understand anything?" data-chapter="Whether the separated soul can understand anything?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether the separated soul can understand anything?" data-chapter="Whether the separated soul can understand anything?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul separated from the body can understand nothing at
 all. For the Philosopher says (De [Anima](/concepts/soul) i, 4) that "the understanding is corrupted together with its
@@ -5984,7 +5984,7 @@ as it ceases to act by turning to corporeal (phantasms), the soul turns at once 
 nor is this way of knowledge unnatural, for God is the author of the influx of both of the light of
 grace and of the light of nature.
 
-<span class="atom-split" data-atom="108" data-title="Whether the separated soul understands separate substances?" data-chapter="Whether the separated soul understands separate substances?" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Whether the separated soul understands separate substances?" data-chapter="Whether the separated soul understands separate substances?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the separated soul does not understand separate substances.
 For the soul is more perfect when joined to the body than when existing apart from it, being an
@@ -6035,7 +6035,7 @@ substances; but in the knowledge of God, Who is seen only by grace. The knowledg
 separate substances if perfectly understood gives great happiness---not final and ultimate happiness.
 But the separated soul does not understand them perfectly, as was shown above in this article.
 
-<span class="atom-split" data-atom="109" data-title="Whether the separated soul knows all natural things?" data-chapter="Whether the separated soul knows all natural things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Whether the separated soul knows all natural things?" data-chapter="Whether the separated soul knows all natural things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the separated soul knows all natural things. For the types of
 all natural things exist in separate substances. Therefore, as separated souls know separate substances,
@@ -6076,7 +6076,7 @@ known by Divine [revelation](/concepts/revelation). But we are here treating of 
 Reply to Objection 4: Knowledge acquired here by study is proper and perfect; the knowledge
 of which we speak is confused. Hence it does not follow that to study in order to learn is useless.
 
-<span class="atom-split" data-atom="110" data-title="Whether the separated soul knows singulars?" data-chapter="Whether the separated soul knows singulars?" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="Whether the separated soul knows singulars?" data-chapter="Whether the separated soul knows singulars?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the separated soul does not know singulars. For no cognitive
 power besides the intellect remains in the separated soul, as is clear from what has been said above
@@ -6118,7 +6118,7 @@ Reply to Objection 3: The separated soul has not the same relation to all singul
 relation to some, and another to others. Therefore there is not the same reason why it should know
 all singulars.
 
-<span class="atom-split" data-atom="111" data-title="Whether the habit of knowledge here acquired remains in the separated soul?" data-chapter="Whether the habit of knowledge here acquired remains in the separated soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="Whether the habit of knowledge here acquired remains in the separated soul?" data-chapter="Whether the habit of knowledge here acquired remains in the separated soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [habit](/concepts/custom) of knowledge acquired in this life does not remain
 in the soul separated from the body: for the Apostle says: "Knowledge shall be destroyed" (1 Cor.
@@ -6186,7 +6186,7 @@ no impossibility.
 Reply to Objection 4: This objection considers the corruption of knowledge on the part of the
 sensitive powers.
 
-<span class="atom-split" data-atom="112" data-title="Whether the act of knowledge acquired here remains in the separated soul?" data-chapter="Whether the act of knowledge acquired here remains in the separated soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="Whether the act of knowledge acquired here remains in the separated soul?" data-chapter="Whether the act of knowledge acquired here remains in the separated soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the act of knowledge here acquired does not remain in the
 separated soul. For the Philosopher says (De [Anima](/concepts/soul) i, 4), that when the body is corrupted, "the soul
@@ -6229,7 +6229,7 @@ species, but not in mode. For example, to do just things, but not justly, that i
 the habit of political justice, whereby we act pleasurably. (Cf. [Aristotle](/figures/aristotle), Ethic. v, 8: Magn. Moral.
 i, 34).
 
-<span class="atom-split" data-atom="113" data-title="Whether local distance impedes the knowledge in the separated soul?" data-chapter="Whether local distance impedes the knowledge in the separated soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="Whether local distance impedes the knowledge in the separated soul?" data-chapter="Whether local distance impedes the knowledge in the separated soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that local distance impedes the separated soul's knowledge. For
 [Augustine](/figures/augustine) says (De Cura pro Mort. xiii), that "the souls of the dead are where they cannot know
@@ -6272,7 +6272,7 @@ is not knowable in itself, because so far as a thing falls short of being, so fa
 being knowable. But what is locally distant exists actually, and is knowable in itself. Hence we
 cannot argue from distance of time to distance of place.
 
-<span class="atom-split" data-atom="114" data-title="Whether separated souls know that takes place on earth?" data-chapter="Whether separated souls know that takes place on earth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="Whether separated souls know that takes place on earth?" data-chapter="Whether separated souls know that takes place on earth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that separated souls know what takes place on earth; for otherwise
 they would have no care for it, as they have, according to what Dives said (Lk. 16:27,28), "I have
@@ -6337,7 +6337,7 @@ not being received by the Jews as canonical Scripture.
 Reply to Objection 3: This kind of ignorance does not proceed from the obstacle of local
 distance, but from the cause mentioned above.
 
-<span class="atom-split" data-atom="115" data-title="OF THE FIRST PRODUCTION OF MAN'S SOUL (FOUR ARTICLES)" data-chapter="OF THE FIRST PRODUCTION OF MAN'S SOUL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="OF THE FIRST PRODUCTION OF MAN'S SOUL (FOUR ARTICLES)" data-chapter="OF THE FIRST PRODUCTION OF MAN'S SOUL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After the foregoing we must consider the first production of man, concerning which there are
 four subjects of treatment: (1) the production of man himself; (2) the end of this production; (3)
@@ -6350,7 +6350,7 @@ Under the first head there are four points of inquiry:
 (3) Whether it was made by angelic instrumentality?
 (4) Whether it was made before the body?
 
-<span class="atom-split" data-atom="116" data-title="Whether the soul was made or was of God's substance?" data-chapter="Whether the soul was made or was of God's substance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Whether the soul was made or was of God's substance?" data-chapter="Whether the soul was made or was of God's substance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul was not made, but was God's substance. For it is
 written (Gn. 2:7): "God formed man of the slime of the earth, and breathed into his face the breath
@@ -6407,7 +6407,7 @@ simple things are diverse; yet do not differ from one another by differences whi
 composition. For instance, a man and a horse differ by the difference of rational and irrational; but
 we cannot say that these again differ by some further difference.
 
-<span class="atom-split" data-atom="117" data-title="Whether the soul was produced by creation?" data-chapter="Whether the soul was produced by creation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Whether the soul was produced by creation?" data-chapter="Whether the soul was produced by creation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul was not produced by creation. For that which has in
 itself something material is produced from matter. But the soul is in part material, since it is not a
@@ -6454,7 +6454,7 @@ corporeal matter, as we have seen (Q[75], A[2]), it is not educed from the poten
 Reply to Objection 3: As we have said, there is no comparison between the rational soul and
 other forms.
 
-<span class="atom-split" data-atom="118" data-title="Whether the rational soul is produced by God immediately?" data-chapter="Whether the rational soul is produced by God immediately?" data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Whether the rational soul is produced by God immediately?" data-chapter="Whether the rational soul is produced by God immediately?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the rational soul is not immediately made by God, but by the
 instrumentality of the angels. For spiritual things have more order than corporeal things. But inferior
@@ -6487,7 +6487,7 @@ Thus the replies to the objections are clear. For that bodies produce their like
 inferior to themselves, and that the higher things lead forward the inferior---all these things are
 effected through a certain transmutation.
 
-<span class="atom-split" data-atom="119" data-title="Whether the human soul was produced before the body?" data-chapter="Whether the human soul was produced before the body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="Whether the human soul was produced before the body?" data-chapter="Whether the human soul was produced before the body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human soul was made before the body. For the work of
 creation preceded the work of distinction and adornment, as shown above (Q[66], A[1]; Q[70],
@@ -6546,7 +6546,7 @@ form of the body, it belongs to the animal genus, as a formal principle.
 Reply to Objection 3: That the soul remains after the body, is due to a defect of the body,
 namely, death. Which defect was not due when the soul was first created.
 
-<span class="atom-split" data-atom="120" data-title="THE PRODUCTION OF THE FIRST MAN'S BODY (FOUR ARTICLES)" data-chapter="THE PRODUCTION OF THE FIRST MAN'S BODY (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="THE PRODUCTION OF THE FIRST MAN'S BODY (FOUR ARTICLES)" data-chapter="THE PRODUCTION OF THE FIRST MAN'S BODY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the production of the first man's body. Under this head there are four
 points of inquiry:
@@ -6555,7 +6555,7 @@ points of inquiry:
 (3) The disposition it received in its production;
 (4) The mode and order of its production.
 
-<span class="atom-split" data-atom="121" data-title="Whether the body of the first man was made of the slime of the earth?" data-chapter="Whether the body of the first man was made of the slime of the earth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Whether the body of the first man was made of the slime of the earth?" data-chapter="Whether the body of the first man was made of the slime of the earth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the body of the first man was not made of the slime of the
 earth. For it is an act of greater power to make something out of nothing than out of something;
@@ -6627,7 +6627,7 @@ body, as we have said; and because also in the account of the Creation no mentio
 and air, which are not perceived by senses of uncultured men such as those to whom the Scripture
 was immediately addressed.
 
-<span class="atom-split" data-atom="122" data-title="Whether the human body was immediately produced by God?" data-chapter="Whether the human body was immediately produced by God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="Whether the human body was immediately produced by God?" data-chapter="Whether the human body was immediately produced by God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the human body was not produced by God immediately. For
 [Augustine](/figures/augustine) says (De Trin. iii, 4), that "corporeal things are disposed by God through the angels."
@@ -6692,7 +6692,7 @@ of pre-existing matter, but also that some pre-existing creature can produce it.
 potentiality only; that is, that out of pre-existing matter it can be produced by God. In this sense,
 according to Augustine, the human body pre-existed in the previous work in their causal virtues.
 
-<span class="atom-split" data-atom="123" data-title="Whether the body of man was given an apt disposition?" data-chapter="Whether the body of man was given an apt disposition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Whether the body of man was given an apt disposition?" data-chapter="Whether the body of man was given an apt disposition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the body of man was not given an apt disposition. For since
 man is the noblest of animals, his body ought to be the best disposed in what is proper to an animal,
@@ -6776,7 +6776,7 @@ inferior part towards the upper world. But brute animals have a middle dispositi
 part of the animal is that by which it takes food, and the inferior part that by which it rids itself of
 the surplus.
 
-<span class="atom-split" data-atom="124" data-title="Whether the production of the human body is fittingly described in Scripture?" data-chapter="Whether the production of the human body is fittingly described in Scripture?" data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="Whether the production of the human body is fittingly described in Scripture?" data-chapter="Whether the production of the human body is fittingly described in Scripture?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the production of the human body is not fittingly described in
 [Scripture](/concepts/revelation). For, as the human body was made by God, so also were the other works of the six days.
@@ -6836,7 +6836,7 @@ made with the angels, was not made before the sixth day; but on the sixth day bo
 first man was made actually, and his body in its causal elements. But other doctors hold that on the
 sixth day both body and soul of man were actually made.
 
-<span class="atom-split" data-atom="125" data-title="THE PRODUCTION OF THE WOMAN (FOUR ARTICLES)" data-chapter="THE PRODUCTION OF THE WOMAN (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="THE PRODUCTION OF THE WOMAN (FOUR ARTICLES)" data-chapter="THE PRODUCTION OF THE WOMAN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the production of the woman. Under this head there are four points of
 inquiry:
@@ -6845,7 +6845,7 @@ inquiry:
 (3) Whether of man's rib?
 (4) Whether the woman was made immediately by God?
 
-<span class="atom-split" data-atom="126" data-title="Whether the woman should have been made in the first production of things?" data-chapter="Whether the woman should have been made in the first production of things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="Whether the woman should have been made in the first production of things?" data-chapter="Whether the woman should have been made in the first production of things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the woman should not have been made in the first production
 of things. For the Philosopher says (De Gener. ii, 3), that "the female is a misbegotten male." But
@@ -6907,7 +6907,7 @@ occasion of sin, the universe would have been imperfect. Nor was it fitting for 
 to be destroyed in order that individual evil might be avoided; especially as God is so powerful that
 He can direct any evil to a good end.
 
-<span class="atom-split" data-atom="127" data-title="Whether woman should have been made from man?" data-chapter="Whether woman should have been made from man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="Whether woman should have been made from man?" data-chapter="Whether woman should have been made from man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that woman should not have been made from man. For sex belongs
 both to man and animals. But in the other animals the female was not made from the male. Therefore
@@ -6952,7 +6952,7 @@ to matrimony. Woman, however, was not produced from man by natural generation, b
 Divine Power alone. Wherefore Eve is not called the daughter of Adam; and so this argument does
 not prove.
 
-<span class="atom-split" data-atom="128" data-title="Whether the woman was fittingly made from the rib of man?" data-chapter="Whether the woman was fittingly made from the rib of man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Whether the woman was fittingly made from the rib of man?" data-chapter="Whether the woman was fittingly made from the rib of man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the woman should not have been formed from the rib of man.
 For the rib was much smaller than the woman's body. Now from a smaller thing a larger thing can
@@ -7004,7 +7004,7 @@ and is released by a natural and pleasurable operation. Much more, therefore, wa
 by the Divine power the body of the woman should be produced from the man's rib.
 From this it is clear how to answer the third objection.
 
-<span class="atom-split" data-atom="129" data-title="Whether the woman was formed immediately by God?" data-chapter="Whether the woman was formed immediately by God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="Whether the woman was formed immediately by God?" data-chapter="Whether the woman was formed immediately by God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the woman was not formed immediately by God. For no
 individual is produced immediately by God from another individual alike in species. But the woman
@@ -7044,7 +7044,7 @@ the body of the woman did indeed pre-exist in these causal virtues, in the thing
 as regards active [potentiality](/concepts/act_potency), but as regards a potentiality passive in relation to the active potentiality
 of the Creator.
 
-<span class="atom-split" data-atom="130" data-title="THE END OR TERM OF THE PRODUCTION OF MAN (NINE ARTICLES)" data-chapter="THE END OR TERM OF THE PRODUCTION OF MAN (NINE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="THE END OR TERM OF THE PRODUCTION OF MAN (NINE ARTICLES)" data-chapter="THE END OR TERM OF THE PRODUCTION OF MAN (NINE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now treat of the end or term of man's production, inasmuch as he is said to be made "to the
 image and likeness of God." There are under this head nine points of inquiry:
@@ -7059,7 +7059,7 @@ Persons, or with one of them?
 (8) Whether the image of God is in man by comparison with every object?
 (9) Of the difference between "image" and "likeness."
 
-<span class="atom-split" data-atom="131" data-title="Whether the image of God is in man?" data-chapter="Whether the image of God is in man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="Whether the image of God is in man?" data-chapter="Whether the image of God is in man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the image of God is not in man. For it is written (Is. 40:18):
 "To whom have you likened God? or what image will you make for Him?"
@@ -7111,7 +7111,7 @@ also according to a certain analogy or proportion. In this sense a creature is o
 to Him; but when Hilary says "of a thing which adequately represents another," this is to be
 understood of a perfect image.
 
-<span class="atom-split" data-atom="132" data-title="Whether the image of God is to be found in irrational creatures?" data-chapter="Whether the image of God is to be found in irrational creatures?" data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="Whether the image of God is to be found in irrational creatures?" data-chapter="Whether the image of God is to be found in irrational creatures?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the image of God is to be found in irrational creatures. For
 Dionysius says (Div. Nom. ii): "Effects are contingent images of their causes." But God is the cause
@@ -7171,7 +7171,7 @@ image of the exemplar type thereof in the Divine mind. We are not, however, usin
 in this sense; but as it implies a likeness in nature, that is, inasmuch as all things, as being, are like
 to the First Being; as living, like to the First Life; and as intelligent, like to the Supreme Wisdom.
 
-<span class="atom-split" data-atom="133" data-title="Whether the angels are more to the image of God than man is?" data-chapter="Whether the angels are more to the image of God than man is?" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Whether the angels are more to the image of God than man is?" data-chapter="Whether the angels are more to the image of God than man is?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the angels are not more to the image of God than man is. For
 [Augustine](/figures/augustine) says in a sermon de Imagine xliii (de verbis Apost. xxvii) that God granted to no other
@@ -7220,7 +7220,7 @@ mean that one species of substance is not more perfect than another; but that on
 individual does not participate in its specific nature at one time more than at another; nor do we
 mean that a species of substance is shared among different individuals in a greater or lesser degree.
 
-<span class="atom-split" data-atom="134" data-title="Whether the image of God is found in every man?" data-chapter="Whether the image of God is found in every man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="Whether the image of God is found in every man?" data-chapter="Whether the image of God is found in every man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the image of God is not found in every man. For the Apostle
 says that "man is the image of God, but woman is the image [Vulg. glory] of man" (1 Cor. 11:7).
@@ -7260,7 +7260,7 @@ and man was not created for woman, but woman for man."
 Reply OBJ 2 and 3: These reasons refer to the image consisting in the conformity of grace and
 glory.
 
-<span class="atom-split" data-atom="135" data-title="Whether the image of God is in man according to the Trinity of Persons?" data-chapter="Whether the image of God is in man according to the Trinity of Persons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="Whether the image of God is in man according to the Trinity of Persons?" data-chapter="Whether the image of God is in man according to the Trinity of Persons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the image of God does not exist in man as to the Trinity of
 Persons. For [Augustine](/figures/augustine) says (Fulgentius De Fide ad Petrum i): "One in essence is the Godhead of
@@ -7321,7 +7321,7 @@ book is made (like) to that one." Thus the image of God is the very Essence of G
 incorrectly called an image forasmuch as image is put for the exemplar. Or, as some say, the Divine
 Essence is called an image because thereby one Person imitates another.
 
-<span class="atom-split" data-atom="136" data-title="Whether the image of God is in man as regards the mind only? (1/2)" data-chapter="Whether the image of God is in man as regards the mind only?" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="Whether the image of God is in man as regards the mind only? (1/2)" data-chapter="Whether the image of God is in man as regards the mind only?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the image of God is not only in man's mind. For the Apostle
 says (1 Cor. 11:7) that "the man is the image . . . of God." But man is not only mind. Therefore the
@@ -7407,7 +7407,7 @@ image and likeness, rather than the bodies of other animals," as Augustine remar
 sense that the very shape of the human body represents the image of God in the soul by way of a
 trace.
 
-<span class="atom-split" data-atom="137" data-title="Whether the image of God is in man as regards the mind only? (2/2)" data-chapter="Whether the image of God is in man as regards the mind only?" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="Whether the image of God is in man as regards the mind only? (2/2)" data-chapter="Whether the image of God is in man as regards the mind only?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Both in the corporeal and in the imaginary vision we may find a trinity,
 as [Augustine](/figures/augustine) says (De Trin. xi, 2). For in corporeal vision there is first the species of the exterior
@@ -7428,7 +7428,7 @@ suitably represented. Lastly the intention of the will joining the two together,
 them either in corporeal or spiritual vision. Wherefore the procession of the Holy Ghost from the
 Father and the Son is not thus properly represented.
 
-<span class="atom-split" data-atom="138" data-title="Whether the image of God is to be found in the acts of the soul?" data-chapter="Whether the image of God is to be found in the acts of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="Whether the image of God is to be found in the acts of the soul?" data-chapter="Whether the image of God is to be found in the acts of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the image of God is not found in the acts of the soul. For
 [Augustine](/figures/augustine) says (De Civ. Dei xi, 26), that "man was made to God's image, inasmuch as we exist
@@ -7502,7 +7502,7 @@ Wherefore, Augustine says (De Trin. xiv, 4): "If the rational soul is made to th
 the sense that it can make use of reason and intellect to understand and consider God, then the
 image of God was in the soul from the beginning of its existence."
 
-<span class="atom-split" data-atom="139" data-title="Whether the image of the Divine Trinity is in the soul only by comparison with God as its object?" data-chapter="Whether the image of the Divine Trinity is in the soul only by comparison with God as its object?" data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="Whether the image of the Divine Trinity is in the soul only by comparison with God as its object?" data-chapter="Whether the image of the Divine Trinity is in the soul only by comparison with God as its object?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the image of the Divine Trinity is in the soul not only by
 comparison with God as its object. For the image of the Divine Trinity is to be found in the soul,
@@ -7578,7 +7578,7 @@ such a vision of things temporal will belong to the image of God. This is what A
 (De Trin. xiv, 6), when he says that "in that nature to which the mind will blissfully adhere, whatever
 it sees it will see as unchangeable"; for in the Uncreated Word are the types of all creatures.
 
-<span class="atom-split" data-atom="140" data-title="Whether \&quot;likeness\&quot; is properly distinguished from \&quot;image\&quot;?" data-chapter="Whether \&quot;likeness\&quot; is properly distinguished from \&quot;image\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="Whether \&quot;likeness\&quot; is properly distinguished from \&quot;image\&quot;?" data-chapter="Whether \&quot;likeness\&quot; is properly distinguished from \&quot;image\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether "likeness" is properly distinguished from "image"?
 
@@ -7644,7 +7644,7 @@ term "image" from one point of view and from another the term "likeness."
 Reply to Objection 4: Love of the word, which is knowledge loved, belongs to the nature of
 "image"; but love of virtue belongs to "likeness," as virtue itself belongs to likeness.
 
-<span class="atom-split" data-atom="141" data-title="OF THE STATE AND CONDITION OF THE FIRST MAN AS REGARDS HIS INTELLECT (FOUR ARTICLES)" data-chapter="OF THE STATE AND CONDITION OF THE FIRST MAN AS REGARDS HIS INTELLECT (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="OF THE STATE AND CONDITION OF THE FIRST MAN AS REGARDS HIS INTELLECT (FOUR ARTICLES)" data-chapter="OF THE STATE AND CONDITION OF THE FIRST MAN AS REGARDS HIS INTELLECT (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider [the state](/concepts/state) or condition of the first man; first, as regards his soul; secondly, as
 regards his body. Concerning the first there are two things to be considered: (1) The condition of
@@ -7655,7 +7655,7 @@ Under the first head there are four points of inquiry:
 (3) Whether he possessed all knowledge?
 (4) Whether he could err or be deceived?
 
-<span class="atom-split" data-atom="142" data-title="Whether the first man saw God through His Essence?" data-chapter="Whether the first man saw God through His Essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="Whether the first man saw God through His Essence?" data-chapter="Whether the first man saw God through His Essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the first man saw God through His Essence. For man's happiness
 consists in the vision of the Divine Essence. But the first man, "while established in paradise, led
@@ -7730,7 +7730,7 @@ may take obscurity as an effect of sin, so far as man is impeded in the consider
 things by being preoccupied with sensible things; in which sense Adam did not see God in an
 enigma.
 
-<span class="atom-split" data-atom="143" data-title="Whether Adam in the state of innocence saw the angels through their essence?" data-chapter="Whether Adam in the state of innocence saw the angels through their essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="Whether Adam in the state of innocence saw the angels through their essence?" data-chapter="Whether Adam in the state of innocence saw the angels through their essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Adam, in [the state](/concepts/state) of innocence, saw the angels through their
 essence. For Gregory says (Dialog. iv, 1): "In paradise man was accustomed to enjoy the words of
@@ -7792,7 +7792,7 @@ Reply to Objection 3: The soul of the first man was not able to arrive at knowle
 substances by means of its self-knowledge, as we have shown above; for even each separate
 substance knows others in its own measure.
 
-<span class="atom-split" data-atom="144" data-title="Whether the first man knew all things?" data-chapter="Whether the first man knew all things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="144" data-title="Whether the first man knew all things?" data-chapter="Whether the first man knew all things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the first man did not know all things. For if he had such
 knowledge it would be either by acquired species, or by connatural species, or by infused species.
@@ -7852,7 +7852,7 @@ by further [enlightenment](/schools/enlightenment). Moreover there is no compari
 advance in merit; since one man cannot be a principle of merit to another, although he can be to
 another a principle of knowledge.
 
-<span class="atom-split" data-atom="145" data-title="Whether man in his first state could be deceived?" data-chapter="Whether man in his first state could be deceived?" data-kind="atom"></span>
+<span class="atom-split" data-atom="145" data-title="Whether man in his first state could be deceived?" data-chapter="Whether man in his first state could be deceived?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man in his primitive state could have been deceived. For the
 Apostle says (1 Tim. 2:14) that "the woman being seduced was in the transgression."
@@ -7929,7 +7929,7 @@ If any object, as some do, that he was not guided, when tempted, though he was t
 need of guidance, we reply that man had already sinned in his heart, and that he failed to have
 recourse to the Divine aid.
 
-<span class="atom-split" data-atom="146" data-title="OF THINGS PERTAINING TO THE FIRST MAN'S WILL---NAMELY, GRACE AND RIGHTEOUSNESS (FOUR ARTICLES)" data-chapter="OF THINGS PERTAINING TO THE FIRST MAN'S WILL---NAMELY, GRACE AND RIGHTEOUSNESS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="146" data-title="OF THINGS PERTAINING TO THE FIRST MAN'S WILL---NAMELY, GRACE AND RIGHTEOUSNESS (FOUR ARTICLES)" data-chapter="OF THINGS PERTAINING TO THE FIRST MAN'S WILL---NAMELY, GRACE AND RIGHTEOUSNESS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider what belongs to the will of the first man; concerning which there are two
 points of treatment: (1) the grace and righteousness of the first man; (2) the use of righteousness
@@ -7940,7 +7940,7 @@ Under the first head there are four points of inquiry:
 (3) Whether he had all virtues?
 (4) Whether what he did would have been as meritorious as now?
 
-<span class="atom-split" data-atom="147" data-title="Whether the first man was created in grace?" data-chapter="Whether the first man was created in grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="147" data-title="Whether the first man was created in grace?" data-chapter="Whether the first man was created in grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the first man was not created in grace. For the Apostle,
 distinguishing between Adam and Christ, says (1 Cor. 15:45): "The first Adam was made into a
@@ -8019,7 +8019,7 @@ first man having consented to grace even in the first moment of his existence.
 Reply to Objection 6: We merit glory by an act of grace; but we do not merit grace by an act
 of nature; hence the comparison fails.
 
-<span class="atom-split" data-atom="148" data-title="Whether passions existed in the soul of the first man?" data-chapter="Whether passions existed in the soul of the first man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="148" data-title="Whether passions existed in the soul of the first man?" data-chapter="Whether passions existed in the soul of the first man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the first man's soul had no passions. For by the passions of
 the soul "the flesh lusteth against the spirit" (Gal. 5:7). But this did not happen in [the state](/concepts/state) of
@@ -8060,7 +8060,7 @@ Reply to Objection 3: Perfection of moral virtue does not wholly take away the p
 regulates them; for the temperate man desires as he ought to desire, and what he ought to desire,
 as stated in Ethic. iii, 11.
 
-<span class="atom-split" data-atom="149" data-title="Whether Adam had all the virtues?" data-chapter="Whether Adam had all the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="149" data-title="Whether Adam had all the virtues?" data-chapter="Whether Adam had all the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Adam had not all the virtues. For some virtues are directed to
 curb passions: thus immoderate concupiscence is restrained by temperance, and immoderate fear
@@ -8137,7 +8137,7 @@ uninterrupted continuation of virtue; in which sense Adam did not possess persev
 
 Reply to Objection 5: appears from what has been said above.
 
-<span class="atom-split" data-atom="150" data-title="Whether the actions of the first man were less meritorious than ours are?" data-chapter="Whether the actions of the first man were less meritorious than ours are?" data-kind="atom"></span>
+<span class="atom-split" data-atom="150" data-title="Whether the actions of the first man were less meritorious than ours are?" data-chapter="Whether the actions of the first man were less meritorious than ours are?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the actions of the first man were less meritorious than ours
 are. For grace is given to us through the mercy of God, Who succors most those who are most in
@@ -8199,7 +8199,7 @@ head there are four points of inquiry:
 (3) Whether in the state of innocence all men were equal?
 (4) Whether in that state man would have been master over men?
 
-<span class="atom-split" data-atom="151" data-title="Whether Adam in the state of innocence had mastership over the animals?" data-chapter="Whether Adam in the state of innocence had mastership over the animals?" data-kind="atom"></span>
+<span class="atom-split" data-atom="151" data-title="Whether Adam in the state of innocence had mastership over the animals?" data-chapter="Whether Adam in the state of innocence had mastership over the animals?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence Adam had no mastership over the
 animals. For [Augustine](/figures/augustine) says (Gen. ad lit. ix, 14), that the animals were brought to Adam, under the
@@ -8270,7 +8270,7 @@ prudence and reason: which accounts for the fact that cranes follow their leader
 their queen. So all animals would have obeyed man of their own accord, as in the present state
 some domestic animals obey him.
 
-<span class="atom-split" data-atom="152" data-title="Whether man had mastership over all other creatures?" data-chapter="Whether man had mastership over all other creatures?" data-kind="atom"></span>
+<span class="atom-split" data-atom="152" data-title="Whether man had mastership over all other creatures?" data-chapter="Whether man had mastership over all other creatures?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence man would not have had mastership
 over all other creatures. For an angel naturally has a greater power than man. But, as [Augustine](/figures/augustine)
@@ -8303,7 +8303,7 @@ mastership over plants and inanimate things consisted not in commanding or in ch
 in making use of them without hindrance.
 The answers to the objections appear from the above.
 
-<span class="atom-split" data-atom="153" data-title="Whether men were equal in the state of innocence?" data-chapter="Whether men were equal in the state of innocence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="153" data-title="Whether men were equal in the state of innocence?" data-chapter="Whether men were equal in the state of innocence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence all would have been equal. For Gregory
 says (Moral. xxi): "Where there is no sin, there is no inequality." But in the state of innocence there
@@ -8354,7 +8354,7 @@ would punish some and reward others, but that He would exalt some above others; 
 of order would the more shine forth among men. Inequality might also arise on the part of nature
 as above described, without any defect of nature.
 
-<span class="atom-split" data-atom="154" data-title="Whether in the state of innocence man would have been master over man?" data-chapter="Whether in the state of innocence man would have been master over man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="154" data-title="Whether in the state of innocence man would have been master over man?" data-chapter="Whether in the state of innocence man would have been master over man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence man would not have been master
 over man. For [Augustine](/figures/augustine) says (De Civ. Dei xix, 15): "God willed that man, who was endowed with
@@ -8413,7 +8413,7 @@ Under the first head there are four points of inquiry:
 (3) Whether he stood in need of food?
 (4) Whether he would have obtained immortality by the tree of life?
 
-<span class="atom-split" data-atom="155" data-title="Whether in the state of innocence man would have been immortal?" data-chapter="Whether in the state of innocence man would have been immortal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="155" data-title="Whether in the state of innocence man would have been immortal?" data-chapter="Whether in the state of innocence man would have been immortal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence man was not immortal. For the term
 "mortal" belongs to the definition of man. But if you take away the definition, you take away the
@@ -8465,7 +8465,7 @@ as we shall explain further on (TP, Q[14] , A[4], ad 1).
 Reply to Objection 4: The promised reward of the immortality of glory differs from the
 immortality which was bestowed on man in the state of innocence.
 
-<span class="atom-split" data-atom="156" data-title="Whether in the state of innocence man would have been passible?" data-chapter="Whether in the state of innocence man would have been passible?" data-kind="atom"></span>
+<span class="atom-split" data-atom="156" data-title="Whether in the state of innocence man would have been passible?" data-chapter="Whether in the state of innocence man would have been passible?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence man was passible. For "sensation is
 a kind of passion." But in the state of innocence man would have been sensitive. Therefore he
@@ -8505,7 +8505,7 @@ injury from a hard body; partly by the use of his reason, whereby he could avoid
 and partly also by Divine Providence, so preserving him, that nothing of a harmful nature could
 come upon him unawares.
 
-<span class="atom-split" data-atom="157" data-title="Whether in the state of innocence man had need of food?" data-chapter="Whether in the state of innocence man had need of food?" data-kind="atom"></span>
+<span class="atom-split" data-atom="157" data-title="Whether in the state of innocence man had need of food?" data-chapter="Whether in the state of innocence man had need of food?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence man did not require food. For food
 is necessary for man to restore what he has lost. But Adam's body suffered no loss, as being
@@ -8563,7 +8563,7 @@ than necessary food, so that there would have been nothing superfluous; which, h
 unreasonable to suppose, as implying that there would have been no faecal matter. Wherefore there
 was need for voiding the surplus, yet so disposed by God as to be decorous and suitable to the state.
 
-<span class="atom-split" data-atom="158" data-title="Whether in the state of innocence man would have acquired immortality by the tree of life?" data-chapter="Whether in the state of innocence man would have acquired immortality by the tree of life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="158" data-title="Whether in the state of innocence man would have acquired immortality by the tree of life?" data-chapter="Whether in the state of innocence man would have acquired immortality by the tree of life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the tree of life could not be the cause of immortality. For
 nothing can act beyond its own species; as an effect does not exceed its cause. But the tree of life
@@ -8615,14 +8615,14 @@ From this the replies to the objections clearly appear. For the first proves tha
 did not absolutely cause immortality; while the others show that it caused incorruption by warding
 off corruption, according to the explanation above given.
 
-<span class="atom-split" data-atom="159" data-title="OF THE PRESERVATION OF THE SPECIES (TWO ARTICLES)" data-chapter="OF THE PRESERVATION OF THE SPECIES (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="159" data-title="OF THE PRESERVATION OF THE SPECIES (TWO ARTICLES)" data-chapter="OF THE PRESERVATION OF THE SPECIES (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider what belongs to the preservation of the species; and, first, of generation;
 secondly, of [the state](/concepts/state) of the offspring. Under the first head there are two points of inquiry:
 (1) Whether in the state of innocence there would have been generation?
 (2) Whether generation would have been through coition?
 
-<span class="atom-split" data-atom="160" data-title="Whether in the state of innocence generation existed?" data-chapter="Whether in the state of innocence generation existed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="160" data-title="Whether in the state of innocence generation existed?" data-chapter="Whether in the state of innocence generation existed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem there would have been no generation in [the state](/concepts/state) of innocence.
 For, as stated in Phys. v, 5, "corruption is contrary to generation." But contraries affect the same
@@ -8679,7 +8679,7 @@ been so ordered that without any danger of strife they would have used in common
 each one's need, those things of which they were masters---a state of things to be observed even
 now among many good men.
 
-<span class="atom-split" data-atom="161" data-title="Whether in the state of innocence there would have been generation by coition?" data-chapter="Whether in the state of innocence there would have been generation by coition?" data-kind="atom"></span>
+<span class="atom-split" data-atom="161" data-title="Whether in the state of innocence there would have been generation by coition?" data-chapter="Whether in the state of innocence there would have been generation by coition?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that generation by coition would not have existed in [the state](/concepts/state) of
 innocence. For, as Damascene says (De Fide Orth. ii, 11; iv, 25), the first man in the terrestrial
@@ -8761,7 +8761,7 @@ menses. And just as in giving birth the mother was then relieved, not by groans 
 instigations of maturity; so in conceiving, the union was one, not of lustful desire, but of deliberate
 action."
 
-<span class="atom-split" data-atom="162" data-title="OF THE CONDITION OF THE OFFSPRING AS TO THE BODY (TWO ARTICLES)" data-chapter="OF THE CONDITION OF THE OFFSPRING AS TO THE BODY (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="162" data-title="OF THE CONDITION OF THE OFFSPRING AS TO THE BODY (TWO ARTICLES)" data-chapter="OF THE CONDITION OF THE OFFSPRING AS TO THE BODY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the condition of the offspring---first, as regards the body; secondly, as
 regards virtue; thirdly, in knowledge. Under the first head there are two points of inquiry:
@@ -8769,7 +8769,7 @@ regards virtue; thirdly, in knowledge. Under the first head there are two points
 immediately after birth?
 (2) Whether all infants would have been of the male sex?
 
-<span class="atom-split" data-atom="163" data-title="Whether in the state of innocence children would have had perfect strength of body as to the use of its members immediately after birth?" data-chapter="Whether in the state of innocence children would have had perfect strength of body as to the use of its members immediately after birth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="163" data-title="Whether in the state of innocence children would have had perfect strength of body as to the use of its members immediately after birth?" data-chapter="Whether in the state of innocence children would have had perfect strength of body as to the use of its members immediately after birth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence children would have had perfect
 strength of the body, as to the use of its members, immediately after birth. For [Augustine](/figures/augustine) says (De
@@ -8829,7 +8829,7 @@ Reply to Objection 4: In the state of innocence man would have been born, yet no
 corruption. Therefore in that state there could have been certain infantile defects which result from
 birth; but not senile defects leading to corruption.
 
-<span class="atom-split" data-atom="164" data-title="Whether, in the primitive state, women would have been born?" data-chapter="Whether, in the primitive state, women would have been born?" data-kind="atom"></span>
+<span class="atom-split" data-atom="164" data-title="Whether, in the primitive state, women would have been born?" data-chapter="Whether, in the primitive state, women would have been born?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in the primitive state woman would not have been born. For
 the Philosopher says (De Gener. Animal. ii, 3) that woman is a "misbegotten male," as though she
@@ -8878,7 +8878,7 @@ there are two points of inquiry:
 (1) Whether men would have been born in a state of righteousness?
 (2) Whether they would have been born confirmed in righteousness?
 
-<span class="atom-split" data-atom="165" data-title="Whether men would have been born in a state of righteousness?" data-chapter="Whether men would have been born in a state of righteousness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="165" data-title="Whether men would have been born in a state of righteousness?" data-chapter="Whether men would have been born in a state of righteousness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence men would not have been born in a
 state of righteousness. For Hugh of St. Victor says (De Sacram. i): "Before sin the first man would
@@ -8920,7 +8920,7 @@ on his receiving a rational soul. In the same way the rational soul, which is no
 parent, is infused by God as soon as the human body is apt to receive it.
 From this the reply to the third objection is clear.
 
-<span class="atom-split" data-atom="166" data-title="Whether in the state of innocence children would have been born confirmed in righteousness?" data-chapter="Whether in the state of innocence children would have been born confirmed in righteousness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="166" data-title="Whether in the state of innocence children would have been born confirmed in righteousness?" data-chapter="Whether in the state of innocence children would have been born confirmed in righteousness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence children would have been born
 confirmed in righteousness. For Gregory says (Moral. iv) on the words of Job 3:13: "For now I
@@ -8987,7 +8987,7 @@ points of inquiry:
 (1) Whether in the state of innocence children would have been born with perfect knowledge?
 (2) Whether they would have had perfect use of reason at the moment of birth?
 
-<span class="atom-split" data-atom="167" data-title="Whether in the state of innocence children would have been born with perfect knowledge?" data-chapter="Whether in the state of innocence children would have been born with perfect knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="167" data-title="Whether in the state of innocence children would have been born with perfect knowledge?" data-chapter="Whether in the state of innocence children would have been born with perfect knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in [the state](/concepts/state) of innocence children would have been born with
 perfect knowledge. For Adam would have begotten children like himself. But Adam was gifted
@@ -9032,7 +9032,7 @@ of righteousness, in which men are guided by universal principles of right; and 
 theirs would have been much more complete than what we have now by nature, as likewise their
 knowledge of other universal principles.
 
-<span class="atom-split" data-atom="168" data-title="Whether children would have had perfect use of reason at birth?" data-chapter="Whether children would have had perfect use of reason at birth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="168" data-title="Whether children would have had perfect use of reason at birth?" data-chapter="Whether children would have had perfect use of reason at birth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that children would have had perfect use of reason at birth. For
 that children have not perfect use of reason in our present state, is due to the soul being weighed
@@ -9067,7 +9067,7 @@ powers as they have later on. This is clear from the fact that birds teach their
 like may be observed in other animals. Moreover a special impediment exists in man from the
 humidity of the brain, as we have said above (Q[99], A[1]).
 
-<span class="atom-split" data-atom="169" data-title="OF MAN'S ABODE, WHICH IS PARADISE (FOUR ARTICLES)" data-chapter="OF MAN'S ABODE, WHICH IS PARADISE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="169" data-title="OF MAN'S ABODE, WHICH IS PARADISE (FOUR ARTICLES)" data-chapter="OF MAN'S ABODE, WHICH IS PARADISE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider man's abode, which is paradise. Under this head there are four points of
 inquiry:
@@ -9076,7 +9076,7 @@ inquiry:
 (3) For what purpose was man placed in paradise?
 (4) Whether he should have been created in paradise?
 
-<span class="atom-split" data-atom="170" data-title="Whether paradise is a corporeal place?" data-chapter="Whether paradise is a corporeal place?" data-kind="atom"></span>
+<span class="atom-split" data-atom="170" data-title="Whether paradise is a corporeal place?" data-chapter="Whether paradise is a corporeal place?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that paradise is not a corporeal place. For Bede [*Strabus, Gloss
 on Gn. 2:8] says that "paradise reaches to the lunar circle." But no earthly place answers that
@@ -9152,7 +9152,7 @@ trees of paradise; and what is said of the trees of paradise being planted after
 days is to be understood, they say, by way of recapitulation. Whence our text reads: "The Lord God
 had planted a paradise of pleasure from the beginning" (Gn. 2:8).
 
-<span class="atom-split" data-atom="171" data-title="Whether paradise was a place adapted to be the abode of man?" data-chapter="Whether paradise was a place adapted to be the abode of man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="171" data-title="Whether paradise was a place adapted to be the abode of man?" data-chapter="Whether paradise was a place adapted to be the abode of man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that paradise was not a place adapted to be the abode of man. For
 man and angels are similarly ordered to [beatitude](/positions/beatitude). But the angels from the very beginning of their
@@ -9224,7 +9224,7 @@ overhead, are extremely hot on account of the mere proximity of the sun. But wha
 of the matter, we must hold that paradise was situated in a most temperate situation, whether on
 the equator or elsewhere.
 
-<span class="atom-split" data-atom="172" data-title="Whether man was placed in paradise to dress it and keep it?" data-chapter="Whether man was placed in paradise to dress it and keep it?" data-kind="atom"></span>
+<span class="atom-split" data-atom="172" data-title="Whether man was placed in paradise to dress it and keep it?" data-chapter="Whether man was placed in paradise to dress it and keep it?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man was not placed in paradise to dress and keep it. For what
 was brought on him as a punishment of sin would not have existed in paradise in [the state](/concepts/state) of
@@ -9253,7 +9253,7 @@ would have striven to keep paradise for himself lest he should lose it by sin. A
 man's good; wherefore paradise was ordered to man's benefit, and not conversely.
 Whence the Replies to the Objections are made clear.
 
-<span class="atom-split" data-atom="173" data-title="Whether man was created in paradise?" data-chapter="Whether man was created in paradise?" data-kind="atom"></span>
+<span class="atom-split" data-atom="173" data-title="Whether man was created in paradise?" data-chapter="Whether man was created in paradise?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man was created in paradise. For the angel was created in his
 dwelling-place---namely, the empyrean heaven. But before sin paradise was a fitting abode for

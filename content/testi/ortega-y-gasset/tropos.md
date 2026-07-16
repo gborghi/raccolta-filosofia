@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/tropos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Tropos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Tropos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Son unos cuantos los españoles que no quisieran ver a España retrotraída por completo a la edad de la piedra pulimentada, cuando aún los hombres, exentos de policía y de ideas generales, ejercitaban asiduamente el mordisco. Mala [fortuna](/concepts/fortune) puede augurarse a personas tan bien intencionadas: con optimismo de ilusos se obstinan en no usar de otros medios de combate que los empleados en civilizaciones superiores, donde tienen el ingenio y las maneras delicadas añeja tradición y donde, a decir verdad, se ha dejado tiempo hace de luchar por la existencia y se vaca a otros problemas más sutiles. Mas aquí, donde el problema de la vida no ha progresado de las cuatro reglas elementales, donde todavía tenemos que luchar por la existencia del buen gusto y por naturalizar la discreción, ¿qué utilidad tendrán aquellas armas delicadas y aquellas elegantes posiciones?
 
@@ -44,7 +44,7 @@ Pero ¿a qué insistir? Los hechos prueban con lamentable evidencia que no hay e
 
 Entretanto el joven arabista se queda sin ir a Fez; los dos franciscanos, por el contrario, como en tiempos del decadente Alfonso X, llevan a los de Beni-Merín la esencia del alma española, y avanzan, encaramados en sus mulas, hacia la ciudad santa marroquí, enriqueciendo la sequedad ardiente del paisaje con su bárbaro fervor.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los que se sientan aquejados por una visión más fina del mundo y anhelen para España un puesto en el anfictionado europeo, pueden rodearse el corazón de un triple círculo de paciencia, y a fin de no perder los privilegios de su cortesía, limitarse a la faena de sagitarios, tomando del rincón el arco y disparando unos cuantos tropos al enemigo de piel dura.
 

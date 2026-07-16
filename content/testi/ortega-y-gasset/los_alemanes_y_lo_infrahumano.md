@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_alemanes_y_lo_infrahumano" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los alemanes y lo infrahumano" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los alemanes y lo infrahumano" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, junio de 1924
 
@@ -40,7 +40,7 @@ Nos sorprende, decía, encontrar a veces en el alma esa carencia de humanismo y 
 
 «Si las tardes continúan siendo tan agradables, —dijo la señora de Goethe— tendría gran placer en dar estos días un té en el parque escuchando el canto de los ruiseñores. ¿Qué le parece a usted querido padre?» «Podría ser muy agradable» —respondió Goethe. «¿Y usted Eckermann —me dijo la señora de Goethe— ¿qué dice usted a eso? ¿Puede convidársele?» «¡Pero, Otilia!, exclamó la señorita Ulrica, ¿cómo puede ocurrírsete invitar al doctor? Si no ha de venir. Y si viene está como sobre ascuas, y se le conoce que su alma está en otra parte, y que desearía irse cuanto antes».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 «Si he de ser sincero —repliqué— prefiero pasear con Doolan por el campo. Tés y sociedad y conversación de té son tan contrarias a mi naturaleza que sólo pensar en ello me hace daño». «Pero, Eckermann —dijo la señora de Goethe— en un té en el parque está usted al aire libre y, por tanto, en su elemento». «Al contrario —repuse. Cuando estoy tan cerca de la naturaleza que percibo todos sus aromas y, sin embargo, no puedo entregarme verdaderamente a ella, me impaciento como un pato a quien se pusiera próximo al agua pero impidiéndole sumergirse en ella». «También podía usted decir —interrumpió Goethe riéndose— que se sentía como un caballo que sacase la cabeza fuera de la cuadra y viese correr libremente por la pradera a otros caballos. Olfatea las delicias y la libertad de la fresca naturaleza, pero no puede ir a ella. Pero dejad a Eckermann; es como es, y no vais a cambiarlo. Pero dígame, querido, ¿qué hacen usted y Doolan en el campo toda la tarde?» «Buscamos un valle solitario y nos dedicamos a tirar flechas» —respondí. «¡Hum! —replicó Goethe— no debe ser mala diversión». «Es magnífica —dije— para curarse de los alifafes del invierno». «¿Pero cómo diablos —preguntó Goethe— ha podido usted aquí en Weimar hacerse con arcos y flechas?»
 

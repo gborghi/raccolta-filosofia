@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/gesticulación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Gesticulación" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Gesticulación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Al señor, el honor. Me complace sobremanera iniciar esta serie de notas bibliográficas con algunos ademanes delante de un libro de Menéndez Pidal. Grandes gestos de admiración, de entusiasmo hacia la obra gigante —gestos menores de curiosidad, de duda—; luego, alguna mueca de leve descontento. El libro se titula: Orígenes del español. Estado lingüístico de la Península ibérica hasta el siglo XI. No se trata precisamente de un cuento erótico. Y, sin embargo, el tema es de ternura —se habla de un niño: el idioma recién nacido, blando y mofletudo, lechal. Es un tratado del español balbuciente, que motiva cuestiones deliciosas, de esas que en toda sensibilidad específicamente intelectual despiertan largas voluptuosidades. (Porque no se puede dudar: se es intelectual en la medida en que se sea voluptuoso de problemas teóricos, de ideas. La actitud de ascetismo ante las ideas —eludirlas, reducir al mínimo su contacto y manoseo— es característica del pseudointelectual. Ya verán ustedes cómo éste se las arreglará para adoptar lo antes posible, frente a problemas teóricos, posturas políticas o religiosas o morales o prácticas. No cometerá nunca el pecado congénito al intelectual, el pecado de que éste nace, que le nutre, que le justifica: la delectación morosa en el problema como tal).
 

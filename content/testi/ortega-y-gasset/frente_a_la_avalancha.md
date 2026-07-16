@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/frente_a_la_avalancha" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Frente a la avalancha" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Frente a la avalancha" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Desde hace año y medio me veo obligado, periódicamente, a reeditar con vocablos distintos un mismo artículo publicado en junio de 1917 con el título «Bajo el arco en ruina». Los hombres inanes que dirigen la existencia española, después de evaporar todos los prestigios políticos, van a acabar también con el leve prestigio estético de los escritores, forzándoles a escribir siempre una idéntica y monótona protesta contra su vesania invariable.
 

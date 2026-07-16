@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/le_devin_du_village" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LE DEVIN DU VILLAGE" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LE DEVIN DU VILLAGE" data-chapter="(apertura)" data-kind="intro" data-srclang="fr"></span>
 
 Intermède représenté à Fontainebleau, devant le roi, les 18 et 24 octobre 1752 ; et à Paris, par l'Académie royale de Musique, le jeudi Ier mars 1753.
 
@@ -490,7 +490,7 @@ Mon coeur n'a point changé ; mon erreur trop cruelle
 
 Venait d'un sort jeté par quelque esprit malin :
 
-<span class="atom-split" data-atom="002" data-title="(apertura) (2/2)" data-chapter="(apertura)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="(apertura) (2/2)" data-chapter="(apertura)" data-kind="atom" data-srclang="fr"></span>
 
 Le Devin l'a détruit ; je suis, malgré l'envie,
 
@@ -802,7 +802,7 @@ Voyons, voyons ; nous chanterons aussi.
 
 (Elle prend la chanson.)
 
-<span class="atom-split" data-atom="003" data-title="II." data-chapter="II." data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="II." data-chapter="II." data-kind="atom" data-srclang="fr"></span>
 
 Ici de la simple nature
 
@@ -824,7 +824,7 @@ CHOEUR.
 
 C'est un enfant, c'est un enfant.
 
-<span class="atom-split" data-atom="004" data-title="III." data-chapter="III." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="III." data-chapter="III." data-kind="atom" data-srclang="fr"></span>
 
 COLIN.
 
@@ -842,7 +842,7 @@ Ah ! pour l'ordinaire, etc.
 
 C'est un enfant, c'est un enfant.
 
-<span class="atom-split" data-atom="005" data-title="IV." data-chapter="IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="IV." data-chapter="IV." data-kind="atom" data-srclang="fr"></span>
 
 LE DEVIN.
 
@@ -856,7 +856,7 @@ Et ce dieu punit les jaloux.
 
 Ah ! pour l'ordinaire, etc.
 
-<span class="atom-split" data-atom="006" data-title="V." data-chapter="V." data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="V." data-chapter="V." data-kind="atom" data-srclang="fr"></span>
 
 COLIN.
 
@@ -870,7 +870,7 @@ Est moins aimé qu'un inconstant.
 
 Ah ! pour l'ordinaire, etc.
 
-<span class="atom-split" data-atom="007" data-title="VI." data-chapter="VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="VI." data-chapter="VI." data-kind="atom" data-srclang="fr"></span>
 
 COLETTE.
 

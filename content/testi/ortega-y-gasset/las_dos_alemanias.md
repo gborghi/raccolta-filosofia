@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_dos_alemanias" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las dos Alemanias" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Las dos Alemanias" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Alemania ha mostrado al través de toda su historia la incapacidad para formar una unidad cultural; esa íntima armonía, ese estilo único que da a todas las manifestaciones de un pueblo en cada época cierta homogeneidad, ha faltado siempre a la raza germánica. Las noticias que llegan de Berlín estos días nos refieren unos tumultos que, sin la advertencia de este defecto alemán, nos parecerían incomprensibles. La nación que envía al sur de Europa la corriente científica más poderosa que haya existido nunca, tiene, en 1908, que andar a tiros en las calles para adquirir el derecho al sufragio universal. Este es el tema en torno al cual quisiera urdir algunas variaciones útiles, según pienso, para fomentar lo que es en mí una idea fija, una manía opresora: la reforma del concepto que se tiene vulgarmente de cultura.
 

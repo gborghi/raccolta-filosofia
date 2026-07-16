@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_dos_lunas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las dos lunas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Las dos lunas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Las monjas descienden en Sahagún… Y el paisaje, más allá, cobra en la bellísima puesta del sol una increíble emoción. Azul oscuro el cielo, como los cuadros de Filippo Lippi; oro viejo veneciano en las apretadas mieses donde los restos de un vientecillo aún goza revolcándose.
 

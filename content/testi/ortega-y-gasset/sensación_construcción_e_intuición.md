@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sensación_construcción_e_intuición" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sensación, construcción e intuición" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sensación, construcción e intuición" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Me ha parecido lo más oportuno a la ocasión escoger como tema de breves comentarios alguno que reuniera a la vez las condiciones de grande amplitud y suficiente concreción.
 
@@ -56,7 +56,7 @@ Con todo esto no habría otro remedio que acogerse a esta solución si, efectiva
 
 Es innegable que estrictamente no podremos llamar conocimiento sino a aquella función subjetiva en que nos sea dado el ser mismo. Esta tendencia del empirismo no ofrece flanco a la crítica. El conocimiento no puede consistir en la posesión de una «copia» o «signo» del ser. No es necesario repetir una vez más que la admisión de un intermediario no hace sino duplicar el problema e imponer una regresión al [infinito](/concepts/infinity). La inmediatez entre la función cognoscente originaria y el ser, es la exigencia donde coincide toda la Filosofía contemporánea, sin que se anuncie, por parte ninguna, la ruptura de este postulado común.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pero el [empirismo](/positions/empiricism) de Mach se muestra infiel a su propia tendencia. Al considerar como realidad definitiva los que él llama «elementos», es decir, los contenidos de la pura sensación, no advierte que esta función del puro sentir y su correlato «elementos» son conceptos límites, problemas nunca conclusos, en modo alguno realidades unívocas que puedan servirnos de punto de partida. Para aislar un puro sonido necesitamos de los métodos físicos y fisiológicos, y de todo el aparato reflexivo de la introspección. De suerte que el puro sonido y la pura sensación, lejos de sernos dados, son construcciones de la ciencia sistemática. Llegamos hasta ellos, no sólo al cabo de la actuación científica, sino que, una vez hallados, no podemos separarlos de ésta y considerarlos como una posesión definitiva independientemente del proceso por que hemos llegado a ellas.
 
@@ -94,7 +94,7 @@ De esta manera, quemadas las naves de todo recurso a la transcendencia, aparece 
 
 De arriba a abajo, es construido por el idealismo todo el ámbito del ser, y el criterio mismo que rige esa construcción no consiste en una evidencia inmediata que sería trans o sobreracional, sino que es, a su vez, construido como el instrumento primario que hace posible toda otra construcción particular. Así queda satisfecha la renuncia a todo supuesto material, que lleva consigo el problema mismo de la lógica.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En la teoría física son interpretadas las sensaciones refiriéndolas a un orden ideal de lugares previamente establecido y que llamamos orden espacio-temporal. Los objetos físicos no son, como Mach afirma, complejos de sensaciones; precisamente la luz vista y el sonido oído son lo que la física trata de resolver en determinaciones objetivas. En general, lo sensible es lo contrario de lo objetivo, su puro fenómeno, la deformación que lo objetivo experimenta al individualizarse en el sujeto psico-físico. Y la objetivación de los fenómenos consiste en referirlos a ese orden único espacio-temporal, donde convertidos en relaciones cuantitativas adquieren un «sentido» —dicho de otro modo, donde son.
 
@@ -112,7 +112,7 @@ La dificultad es ésta: ¿basta con el carácter de construcción, según la hem
 
 Y esto que acontece con los «objetos» imposibles ocurre idénticamente con todos los demás. Todo puede ser sujeto de un juicio, y en cuanto sujeto, dando la razón al idealismo, admitimos que no sea un concepto, un conocimiento, una verdad. Pero no por ello deja de hallarse presente ante nosotros con completa pasividad por nuestra parte. La verdad de que dos y dos sean igual a cuatro supone que el sentido de este juicio es superpuesto por nosotros al dos y al cuatro mismos, que, por decirlo así, se sitúan en persona delante de nuestra intuición y que, al superponerlo, intuimos su coincidencia.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Intuición es, por consiguiente, una función previa aún a aquélla en que construimos el ser o el no ser. Vuelve a aparecer, en consecuencia, la pasividad de que hablaba el [empirismo](/positions/empiricism). Pero ¡en cuán diferente significado! Para aquél, pasividad era sinónimo de sensación y no había más contenido originario que lo sensible. La intuición abarca todos los grados intelectuales. Con no menos claridad intuitiva se nos presenta el contenido de una percepción normal que el número irracional, «el polígono de n lados», «la justicia» o «el principio de relatividad de Minkowsky»[32].
 

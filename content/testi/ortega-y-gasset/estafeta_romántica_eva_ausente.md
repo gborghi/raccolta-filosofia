@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estafeta_romántica_eva_ausente" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Estafeta romántica.— Eva ausente" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Estafeta romántica.— Eva ausente" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señora, el otro día vi a usted, salir lenta y ensimismada, de la Exposición de retratos femeninos que ahora hace la Sociedad de Amigos del Arte. Cuando quise acercarme, se había usted ya confundido en Recoletos con la audaz primavera.
 
@@ -52,7 +52,7 @@ Sólo nos atrae profundamente lo que en algún sentido nos parece superior a nos
 
 Todo hombre dueño de una sensibilidad bien templada ha experimentado a la vera de alguna mujer la impresión de hallarse delante de algo extraña y absolutamente superior a él. Aquella mujer, es cierto, sabe menos de ciencia que nosotros, tiene menos poder creador de arte, no es capaz de regir un pueblo ni de ganar una batalla, y sin embargo, percibimos en su persona una superioridad sobre nosotros de índole más radical que cualquiera de las que pueden existir, por ejemplo, entre dos hombres de un mismo oficio. Y es que las excelencias varoniles —talento científico o artístico, la destreza política y financiera, la heroicidad moral— son, en cierta manera, extrínsecas a la persona, y, por decirlo así, instrumentales. El talento consiste en una aptitud para crear, ciertos productos socialmente útiles —la ciencia, el arte, la riqueza, el orden público. Lo que propiamente estimamos en estos productos, y sólo un reflejo del valor que les atribuimos se proyecta sobre las dotes necesarias para producirlos. No es el poeta, sino la poesía lo que nos interesa; no es el político, sino su política. Este carácter extrínseco de los talentos se hace patente por darse a menudo en el hombre al lado de los más graves defectos personales. La excelencia varonil radica, pues en un hacer: la de la mujer en un ser y en un estar, o con otras palabras: el hombre vale por lo que hace, la mujer por lo que es.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Tal [circunstancia](/positions/life_as_project) de que el valor del hombre esté condicionado por el resultado de sus acciones, da a nuestro destino fatalmente un carácter problemático, inseguro, relativo y servil. La mujer, en cambio, cuando en ella se realiza un tipo superior de feminidad, no gana nuestra estimación por sus actos, sino que quieta, como la rosa en el rosal, se impone a nuestro entusiasmo. En sus actos no nos importan los resultados: es más, no los tomamos como actos o causas de tales y cuales efectos, sino como gestos en que se manifiesta su soberana personalidad. Las acciones de la mujer superior se convierten a nuestros ojos en emanaciones de su ejemplar esencia, son el perfume de la rosa en el rosal. Frente a un equivocado y trivial feminismo, he creído siempre que para el hombre vivir es trabajar, mientras que para la mujer vivir es irradiar. Pensar otra cosa es querer vanamente suplantar las profundas voluntades de la Naturaleza por nuestros angostos programas de política. La Gioconda, irradiándose a sí misma secularmente desde su marco, ha hecho más en beneficio de la humanidad que los millones de superficiales sufragistas[3].
 

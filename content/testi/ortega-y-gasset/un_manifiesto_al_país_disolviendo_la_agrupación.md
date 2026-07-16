@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/un_manifiesto_al_país_disolviendo_la_agrupación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Un manifiesto al país disolviendo la agrupación" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Un manifiesto al país disolviendo la agrupación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Como iniciadores de la Agrupación al Servicio de la República nos reunimos el jueves, 13, con los demás diputados que forman el grupo parlamentario adscrito a aquélla, y les expusimos nuestro convencimiento de que, habiéndose logrado tiempo hace las finalidades precisas que nuestro llamamiento de enero 1931 enunciaba, era obligatorio dar por terminada la actuación conjunta de los que entonces nos reunimos. Los diputados que integran la minoría parlamentaria reconocieron sin discrepancia la necesidad de lo propuesto por nosotros y acordaron la disolución del grupo representante de nuestro movimiento, encargándonos de comunicar el acuerdo a los núcleos locales repartidos por todo el país.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/alemán_latín_y_griego" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Alemán, latín y griego" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Alemán, latín y griego" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La discusión que ahora se mueve en Francia a propósito del latín puede servirnos de pretexto para renovar entre nosotros la meditación sobre el problema de la enseñanza de las lenguas. Tal y como las cosas están ahora en nuestra legislación es imposible que continúen. Una reforma absoluta se impone. Ahí va una opinión.
 
@@ -38,7 +38,7 @@ Pero nosotros necesitamos vivir y no nos queda, no debe quedarnos, ocio para goz
 
 Puede creérseme si digo que nadie habrá sentido y seguirá sintiendo mayor antipatía espontánea hacia la cultura germánica que yo. La patética protestante, la pedantería, la pobreza intuitiva, la insensibilidad plástica y literaria, la insensibilidad política del alemán medio mantienen firme a toda hora mi convicción de que no se trata de una cultura clásica, de que el germanismo tiene que ser superado. Pero nótese bien: tiene que ser superado; hoy no lo está. Lo superado es la llamada cultura latina. Si aspiramos a algo más fuerte, nos es imprescindible partir de la ciencia germánica. De modo que, hoy por hoy, los pueblos románicos no tienen cosa mejor ni más seria que hacer que reabsorber el germanismo sin pensar en la galvanización de la momia latina. Después de todo, lo que hubiere de inmortal en la cultura latina lo hallaremos también en la germánica; pues ¿qué es germanismo más que la absorción del latinismo por los germanos a lo largo de la Edad Media?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Necesitamos una introducción a la vida esencial. Esto es la primera y la más amplia necesidad. Por eso es menester que toda la instrucción superior española, todas las carreras universitarias, todas las escuelas especiales, exijan el conocimiento del idioma alemán. La cultura germánica es la única introducción a la vida esencial.
 

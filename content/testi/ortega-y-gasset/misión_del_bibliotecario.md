@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/misión_del_bibliotecario" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Misión del bibliotecario" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Misión del bibliotecario" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Quisiera hoy prolongar en mi conducta la tradición de una virtud que unánimemente reconocían ya a los españoles los antiguos griegos y romanos: la hospitalidad[55]. Ahora bien, en la presente [circunstancia](/positions/life_as_project) el mejor rito hospitalario me parece consistir en que al llegar el extranjero a mi casa yo abandone ésta y me haga un poco extranjero. En esta ocasión de dirigiros la palabra, mi casa solariega es la lengua española, para muchos de vosotros poco habitual. Y he pensado que si había de buscar contacto eficaz con vuestras almas y no haceros perder por completo una hora de vuestras vidas, que las tienen tan contadas, yo debía hacer un esfuerzo y exponerme a la aventura de hablaros en una lengua que conozco muy poco, en que tendré que balbucir y tropezar muchas veces, que ni siquiera pronuncio bien, pero en que a la postre creo que me haré entender. Lo demás lo espero de vuestra benevolencia, que no me delatará a la policía por las erosiones que voy a producir en la sutil gramática francesa.
 

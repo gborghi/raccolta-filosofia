@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/un_problema_de_organización_española" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Un problema de organización española" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Un problema de organización española" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Comentando ayer la solución de los conflictos de Barcelona, dijimos que había alcanzado la victoria el único poder organizado que intervenía en la lucha. Esta afirmación ha tenido la virtud de irritar a los elementos conservadores. Claro es que no la desmienten ni siquiera intentan demostrar que frente al poder sindicalista, frente al soviet obrero, se alzaba otra fuerza poderosa y bien organizada. La demostración es imposible.
 

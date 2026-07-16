@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_voluntad_del_barroco" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La voluntad del Barroco" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La voluntad del Barroco" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Síntoma curioso de la mutación que en ideas y sentimientos experimenta la conciencia europea —y hablamos de lo que acontecía aún antes de la guerra— es el nuevo rumbo que toman nuestros gustos estéticos.
 

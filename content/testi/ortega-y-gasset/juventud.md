@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/juventud" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Juventud" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Juventud" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -36,7 +36,7 @@ Yo no sé si este triunfo de la juventud será un fenómeno pasajero o una actit
 
 Para hallar otra época de juventud como la nuestra, fuera preciso descender hasta el Renacimiento. Repase el lector raudamente la serie de sazones europeas. El romanticismo que, con una u otra intensidad, impregna todo el siglo XIX, puede parecer en su iniciación un tiempo de jóvenes. Hay en él, efectivamente, una subversión contra el pasado y es un ensayo de afirmarse a sí misma la juventud. La Revolución había hecho tabla rasa de la generación precedente y permitió durante quince años que ocupasen todas las eminencias sociales hombres muy mozos. El jacobino y el general de Bonaparte son muchachos. Sin embargo, ofrece este tiempo el ejemplo de un falso triunfo juvenil y el romanticismo pondrá de manifiesto su carencia de autenticidad. El joven revolucionario es sólo el ejecutor de las viejas ideas confeccionadas en los dos siglos anteriores. Lo que el joven afirma entonces no es su juventud, sino principios recibidos: nada tan representativo como el Robespierre, el viejo de nacimiento. Cuando en el romanticismo se reacciona contra el siglo XVIII es para volver a un pasado más antiguo, y los jóvenes al mirar dentro de sí sólo hallan desgana vital. Es la época de los blasés, de los suicidios, del aire prematuramente caduco en el andar y en el sentir. El joven imita en sí al viejo, prefiere sus actitudes fatigadas y se apresura a abandonar su mocedad. Todas las generaciones del siglo XIX han aspirado a ser maduras lo antes posible y sentían una extraña vergüenza de su propia juventud. Compárese con los jóvenes actuales —varones y hembras— que tienden a prolongar ilimitadamente su muchachez y se instalan en ella como definitivamente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Si damos un paso atrás caemos en el siglo vieillot por excelencia, el XVIII, que abomina de toda calidad juvenil, detesta el sentimiento y la pasión, el cuerpo elástico y nudo. Es el siglo de entusiasmo por los decrépitos, que se estremece al paso de Voltaire, cadáver viviente que pasa sonriendo a sí mismo en la sonrisa innumerable de sus arrugas. Para extremar tal estilo de vida se finge en la cabeza la nieve de la edad y la peluca empolvada cubre toda frente primaveral —hombre o mujer— con una suposición de sesenta años.
 
@@ -66,7 +66,7 @@ Pero hay un hecho que subraya más que otro alguno este triunfo de la juventud y
 
 Pues bien: hoy se prefiere el cuerpo al espíritu. No creo que haya síntoma más importante en la existencia europea actual. Tal vez las generaciones anteriores han rendido demasiado [culto](/concepts/religion) al espíritu y —salvo Inglaterra— han desdeñado excesivamente a la carne. Era conveniente que el ser humano fuese amonestado y se le recordase que no es sólo alma, sino unión mágica de espíritu y cuerpo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El cuerpo es por sí puerilidad. El entusiasmo que hoy despierta ha inundado de infantilismo la vida continental, ha aflojado la tensión de intelecto y voluntad en que se retorció el siglo XIX, arco demasiado tirante hacia metas demasiado problemáticas. Vamos a descansar un rato en el cuerpo. Europa —cuando tiene ante sí los problemas más pavorosos— se entrega a unas vacaciones. Brinca elástico el músculo del cuerpo desnudo detrás de un balón que declara francamente su desdén a toda trascendencia volando por el aire con aire en su interior.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_punto_de_arquímedes" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El punto de Arquímedes" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El punto de Arquímedes" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Vamos camino de la nación. Y he aquí que una vez más, cuando íbamos a dar la arremetida salvadora, surge otra cuestión previa: el equívoco sobre el Régimen suscitado por unas elecciones en que se ha destacado una demagogia de «derecha» atenta en su programa a aprovechar los intereses heridos, pero no a dar un ejemplo de conciencia verdaderamente nacional. Vuelve a detenerse —y ahora es por culpa de otros— el curso del sino español.
 

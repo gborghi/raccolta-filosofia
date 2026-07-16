@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nueva_revista" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nueva revista" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nueva revista" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace poco tiempo apareció en los puestos de periódicos una nueva revista: Europa. El título no podía ser más agresivo: esa palabra sola equivale a la negación prolija de cuanto compone la España actual.
 

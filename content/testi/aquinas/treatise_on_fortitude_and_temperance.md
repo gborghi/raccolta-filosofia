@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_fortitude_and_temperance" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Fortitude and Temperance" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Fortitude and Temperance" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON FORTITUDE AND TEMPERANCE (QQ[123]-170)
 
-<span class="atom-split" data-atom="002" data-title="OF FORTITUDE (TWELVE ARTICLES)" data-chapter="OF FORTITUDE (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF FORTITUDE (TWELVE ARTICLES)" data-chapter="OF FORTITUDE (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering justice we must in due sequence consider fortitude. We must (1) consider the
 virtue itself of fortitude; (2) its parts; (3) the gift corresponding thereto; (4) the precepts that pertain
@@ -45,7 +45,7 @@ Under the first head there are twelve points of inquiry:
 (11) Whether it is a cardinal virtue?
 (12) Of its comparison with the other cardinal virtues.
 
-<span class="atom-split" data-atom="003" data-title="Whether fortitude is a virtue?" data-chapter="Whether fortitude is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether fortitude is a virtue?" data-chapter="Whether fortitude is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude is not a virtue. For the Apostle says (2 Cor. 12:9): "Virtue
 is perfected in infirmity." But fortitude is contrary to infirmity. Therefore fortitude is not a virtue.
@@ -110,7 +110,7 @@ Reply to the First Objection, is so called from its likeness to fortitude of the
 inconsistent with the notion of virtue, that a man should have a natural inclination to virtue by
 reason of his natural temperament, as stated above (FS, Q[63], A[1]).
 
-<span class="atom-split" data-atom="004" data-title="Whether fortitude is a special virtue?" data-chapter="Whether fortitude is a special virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether fortitude is a special virtue?" data-chapter="Whether fortitude is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude is not a special virtue. For it is written (Wis. 7:7): "She
 teacheth temperance, and prudence, and justice, and fortitude," where the text has "virtue" for
@@ -154,7 +154,7 @@ to bear, is prepared, in consequence, to resist those which are less difficult.
 
 Reply to Objection 3: This objection takes fortitude in the first sense.
 
-<span class="atom-split" data-atom="005" data-title="Whether fortitude is about fear and dying?" data-chapter="Whether fortitude is about fear and dying?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether fortitude is about fear and dying?" data-chapter="Whether fortitude is about fear and dying?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude is not about fear and daring. For Gregory says (Moral. vii):
 "The fortitude of the just man is to overcome the flesh, to withstand self-indulgence, to quench the
@@ -197,7 +197,7 @@ temporal evils that withdraw one from virtue, as appears from Tully's definition
 Second Objection, it follows that fortitude properly is about fear and daring and not about hope,
 except in so far as it is connected with daring, as stated above (FS, Q[45], A[2]).
 
-<span class="atom-split" data-atom="006" data-title="Whether fortitude is only about dangers of death?" data-chapter="Whether fortitude is only about dangers of death?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether fortitude is only about dangers of death?" data-chapter="Whether fortitude is only about dangers of death?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude is not only about dangers of death. For [Augustine](/figures/augustine) says (De
 Morib. Eccl. xv) that "fortitude is love bearing all things readily for the sake of the object beloved":
@@ -240,7 +240,7 @@ special virtue modifying the fear of death.
 Reply to Objection 3: In virtues the extreme consists in exceeding right reason: wherefore to
 undergo the greatest dangers in accordance with reason is not contrary to virtue.
 
-<span class="atom-split" data-atom="007" data-title="Whether fortitude is properly about dangers of death in battle?" data-chapter="Whether fortitude is properly about dangers of death in battle?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether fortitude is properly about dangers of death in battle?" data-chapter="Whether fortitude is properly about dangers of death in battle?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude is not properly about dangers of death in battle. For martyrs
 above all are commended for their fortitude. But martyrs are not commended in connection with
@@ -295,7 +295,7 @@ certain persons make evil use of it. For there are many others who make good use
 evils prevented by it, such as murders and sacrileges, are much greater than those which are
 occasioned by it, and which belong chiefly to the sins of the flesh.
 
-<span class="atom-split" data-atom="008" data-title="Whether endurance is the chief act of fortitude?" data-chapter="Whether endurance is the chief act of fortitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether endurance is the chief act of fortitude?" data-chapter="Whether endurance is the chief act of fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that endurance is not the chief act of fortitude. For virtue "is about the
 difficult and the good" (Ethic. ii, 3). Now it is more difficult to attack than to endure. Therefore
@@ -339,7 +339,7 @@ threatening passion of the body. Now virtue concerns the soul rather than the bo
 Reply to Objection 3: He that endures fears not, though he is confronted with the cause of
 fear, whereas this cause is not present to the aggressor.
 
-<span class="atom-split" data-atom="009" data-title="Whether the brave man acts for the sake of the good of his habit?" data-chapter="Whether the brave man acts for the sake of the good of his habit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether the brave man acts for the sake of the good of his habit?" data-chapter="Whether the brave man acts for the sake of the good of his habit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the brave man does not act for the sake of the good of his [habit](/concepts/custom). For
 in matters of action the end, though first in intention, is last in execution. Now the act of fortitude,
@@ -373,7 +373,7 @@ This suffices for the Replies to the Objections: for the First Objection proceed
 very essence of a habit were its end, instead of the likeness of the habit in act, as stated. The other
 two objections consider the ultimate end.
 
-<span class="atom-split" data-atom="010" data-title="Whether the brave man delights in his act?" data-chapter="Whether the brave man delights in his act?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the brave man delights in his act?" data-chapter="Whether the brave man delights in his act?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the brave man delights in his act. For "delight is the unhindered
 action of a connatural [habit](/concepts/custom)" (Ethic. x, 4,6,8). Now the brave deed proceeds from a habit which
@@ -428,7 +428,7 @@ Yet since bodily pain is more sensible, and the sensitive apprehension is more i
 it follows that spiritual pleasure in the end of virtue fades away, so to speak, in the presence of
 great bodily pain.
 
-<span class="atom-split" data-atom="011" data-title="Whether fortitude deals chiefly with sudden occurrences?" data-chapter="Whether fortitude deals chiefly with sudden occurrences?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether fortitude deals chiefly with sudden occurrences?" data-chapter="Whether fortitude deals chiefly with sudden occurrences?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude does not deal chiefly with sudden occurrences. For it would
 seem that things occur suddenly when they are unforeseen. But Tully says (De Invent. Rhet. ii) that
@@ -464,7 +464,7 @@ Yet is it possible for a person even without the habit of fortitude, to prepare 
 danger by long forethought: in the same way as a brave man prepares himself when necessary. This
 suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="012" data-title="Whether the brave man makes use of anger in his action?" data-chapter="Whether the brave man makes use of anger in his action?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether the brave man makes use of anger in his action?" data-chapter="Whether the brave man makes use of anger in his action?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the brave man does not use [anger](/concepts/anger) in his action. For no one should
 employ as an instrument of his action that which he cannot use at will. Now man cannot use anger
@@ -523,7 +523,7 @@ dangers rather than lack pleasure. Hence the Philosopher says (Ethic. iii, 5): "
 which fortitude arises from a passion, the most natural is when a man is brave through anger, making
 his choice and acting for a purpose," i.e. for a due end; "this is true fortitude."
 
-<span class="atom-split" data-atom="013" data-title="Whether fortitude is a cardinal virtue?" data-chapter="Whether fortitude is a cardinal virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether fortitude is a cardinal virtue?" data-chapter="Whether fortitude is a cardinal virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude is not a cardinal virtue. For, as stated above (A[10]), [anger](/concepts/anger)
 is closely allied with fortitude. Now anger is not accounted a principal passion; nor is daring which
@@ -565,7 +565,7 @@ Reply to Objection 3: Though dangers of death are of rare occurrence, yet the oc
 those dangers occur frequently, since on account of justice which he pursues, and also on account
 of other good deeds, man encounters mortal adversaries.
 
-<span class="atom-split" data-atom="014" data-title="Whether fortitude excels among all other virtues?" data-chapter="Whether fortitude excels among all other virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether fortitude excels among all other virtues?" data-chapter="Whether fortitude excels among all other virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude excels among all other virtues. For Ambrose says (De
 Offic. i): "Fortitude is higher, so to speak, than the rest."
@@ -619,7 +619,7 @@ certain general utility attaches to fortitude, since it safeguards the whole ord
 the Philosopher says (Rhet. i, 9) that "just and brave men are most beloved, because they are most
 useful in war and peace."
 
-<span class="atom-split" data-atom="015" data-title="OF MARTYRDOM (FIVE ARTICLES)" data-chapter="OF MARTYRDOM (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="OF MARTYRDOM (FIVE ARTICLES)" data-chapter="OF MARTYRDOM (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider martyrdom, under which head there are five points of inquiry:
 (1) Whether martyrdom is an act of virtue?
@@ -628,7 +628,7 @@ We must now consider martyrdom, under which head there are five points of inquir
 (4) The pain of martyrdom;
 (5) Its cause.
 
-<span class="atom-split" data-atom="016" data-title="Whether martyrdom is an act of virtue?" data-chapter="Whether martyrdom is an act of virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether martyrdom is an act of virtue?" data-chapter="Whether martyrdom is an act of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that martyrdom is not an act of virtue. For all acts of virtue are voluntary.
 But martyrdom is sometimes not voluntary, as in the case of the Innocents who were slain for
@@ -681,7 +681,7 @@ reason. And this observation would seem very much to the point in the case of ma
 consists in the right endurance of sufferings unjustly inflicted. Nor ought a man to give another an
 occasion of acting unjustly: yet if anyone act unjustly, one ought to endure it in moderation.
 
-<span class="atom-split" data-atom="017" data-title="Whether martyrdom is an act of fortitude?" data-chapter="Whether martyrdom is an act of fortitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether martyrdom is an act of fortitude?" data-chapter="Whether martyrdom is an act of fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that martyrdom is not an act of fortitude. For the Greek {martyr} signifies
 a witness. Now witness is borne to the faith of Christ. according to Acts 1:8, "You shall be witnesses
@@ -738,7 +738,7 @@ to this and not to its secondary act, which is aggression, martyrdom belongs. An
 serves fortitude on the part of its chief act, viz. endurance, hence it is that martyrs are also praised
 for their patience.
 
-<span class="atom-split" data-atom="018" data-title="Whether martyrdom is an act of the greatest perfection?" data-chapter="Whether martyrdom is an act of the greatest perfection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether martyrdom is an act of the greatest perfection?" data-chapter="Whether martyrdom is an act of the greatest perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that martyrdom is not an act of the greatest perfection. For seemingly
 that which is a matter of counsel and not of precept pertains to perfection, because, to wit, it is not
@@ -796,7 +796,7 @@ Reply to Objection 3: This argument considers martyrdom according to the proper 
 its act, whence it derives no excellence over all other virtuous acts; thus neither is fortitude more
 excellent than all virtues.
 
-<span class="atom-split" data-atom="019" data-title="Whether death is essential to martyrdom?" data-chapter="Whether death is essential to martyrdom?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether death is essential to martyrdom?" data-chapter="Whether death is essential to martyrdom?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that death is not essential to martyrdom. For Jerome says in a sermon
 on the Assumption (Epist. ad Paul. et Eustoch.): "I should say rightly that the Mother of God was
@@ -860,7 +860,7 @@ suffering for the faith of Christ any other kind of hardship inflicted by persec
 until death ensues. The act of martyrdom is meritorious while a man is in this state, and at the very
 time that he is suffering these hardships.
 
-<span class="atom-split" data-atom="020" data-title="Whether faith alone is the cause of martyrdom?" data-chapter="Whether faith alone is the cause of martyrdom?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether faith alone is the cause of martyrdom?" data-chapter="Whether faith alone is the cause of martyrdom?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that faith alone is the cause of martyrdom. For it is written (1 Pet. 4:15,16):
 "Let none of you suffer as a murderer, or a thief, or a railer, or a coveter of other men's things. But
@@ -930,7 +930,7 @@ Under the first head there are four points of inquiry:
 (3) Whether it is a mortal sin?
 (4) Whether it excuses from sin, or diminishes it?
 
-<span class="atom-split" data-atom="021" data-title="Whether fear is a sin?" data-chapter="Whether fear is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether fear is a sin?" data-chapter="Whether fear is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fear is not a sin. For fear is a passion, as stated above (FS, Q[23],
 A[4]; Q[42]). Now we are neither praised nor blamed for passions, as stated in Ethic. ii. Since then
@@ -973,7 +973,7 @@ namely that servants should fear lest they be lacking in the service they owe th
 Reply to Objection 3: Reason dictates that we should shun the evils that we cannot withstand,
 and the endurance of which profits us nothing. Hence there is no sin in fearing them.
 
-<span class="atom-split" data-atom="022" data-title="Whether the sin of fear is contrary to fortitude?" data-chapter="Whether the sin of fear is contrary to fortitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the sin of fear is contrary to fortitude?" data-chapter="Whether the sin of fear is contrary to fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sin of fear is not contrary to fortitude: because fortitude is about
 dangers of death, as stated above (Q[123], AA[4],5). But the sin of fear is not always connected
@@ -1026,7 +1026,7 @@ kind. Now the despair that is opposed to hope is referred to another kind, namel
 whereas the fear that is opposed to fortitude regards dangers of death. Hence the argument does
 not prove.
 
-<span class="atom-split" data-atom="023" data-title="Whether fear is a mortal sin?" data-chapter="Whether fear is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether fear is a mortal sin?" data-chapter="Whether fear is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fear is not a mortal sin. For, as stated above (FS, Q[23], A[1]), fear
 is in the irascible faculty which is a part of the sensuality. Now there is none but venial sin in the
@@ -1072,7 +1072,7 @@ necessary, not for the fulfilment of a precept, but for the perfection of a coun
 not a mortal sin, but is sometimes venial: and sometimes it is not a sin, for instance when one has
 a reasonable cause for fear.
 
-<span class="atom-split" data-atom="024" data-title="Whether fear excuses from sin?" data-chapter="Whether fear excuses from sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether fear excuses from sin?" data-chapter="Whether fear excuses from sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fear does not excuse from sin. For fear is a sin, as stated above
 (A[1]). But sin does not excuse from sin, rather does it aggravate it. Therefore fear does not excuse
@@ -1123,13 +1123,13 @@ are goods of the least account, and this was also the opinion of the [Peripateti
 are indeed to be feared; but not so much that one ought for their sake to renounce that which is
 good according to virtue.
 
-<span class="atom-split" data-atom="025" data-title="OF FEARLESSNESS (TWO ARTICLES)" data-chapter="OF FEARLESSNESS (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="OF FEARLESSNESS (TWO ARTICLES)" data-chapter="OF FEARLESSNESS (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the vice of fearlessness: under which head there are two points of inquiry:
 (1) Whether it is a sin to be fearless?
 (2) Whether it is opposed to fortitude?
 
-<span class="atom-split" data-atom="026" data-title="Whether fearlessness is a sin?" data-chapter="Whether fearlessness is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether fearlessness is a sin?" data-chapter="Whether fearlessness is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fearlessness is not a sin. For that which is reckoned to the praise of
 a just man is not a sin. Now it is written in praise of the just man (Prov. 28:1): "The just, bold as a
@@ -1186,7 +1186,7 @@ serving God, and on the same score they are not to be feared; wherefore it is wr
 so far as they are helping us instrumentally to attain those things that pertain to Divine fear and
 love.
 
-<span class="atom-split" data-atom="027" data-title="Whether fearlessness is opposed to fortitude?" data-chapter="Whether fearlessness is opposed to fortitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether fearlessness is opposed to fortitude?" data-chapter="Whether fearlessness is opposed to fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fearlessness is not opposed to fortitude. For we judge of habits by
 their acts. Now no act of fortitude is hindered by a man being fearless: since if fear be removed,
@@ -1221,13 +1221,13 @@ Reply to Objection 3: The vice of daring is opposed to fortitude by excess of da
 fearlessness by deficiency of fear. Fortitude imposes the mean on each passion. Hence there is
 nothing unreasonable in its having different extremes in different respects.
 
-<span class="atom-split" data-atom="028" data-title="OF DARING [*Excessive daring or foolhardiness] (TWO ARTICLES)" data-chapter="OF DARING [*Excessive daring or foolhardiness] (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="OF DARING [*Excessive daring or foolhardiness] (TWO ARTICLES)" data-chapter="OF DARING [*Excessive daring or foolhardiness] (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider daring; and under this head there are two points of inquiry:
 (1) Whether daring is a sin?
 (2) Whether it is opposed to fortitude?
 
-<span class="atom-split" data-atom="029" data-title="Whether daring is a sin?" data-chapter="Whether daring is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether daring is a sin?" data-chapter="Whether daring is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that daring is not a sin. For it is written (Job 39:21) concerning the horse,
 by which according to Gregory (Moral. xxxi) the godly preacher is denoted, that "he goeth forth
@@ -1266,7 +1266,7 @@ vices and virtues: and in order to designate vices we employ especially the name
 the object of which is an evil, as in the case of hatred, fear, anger and daring. But hope and love
 have a good for this object, and so we use them rather to designate virtues.
 
-<span class="atom-split" data-atom="030" data-title="Whether daring is opposed to fortitude?" data-chapter="Whether daring is opposed to fortitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether daring is opposed to fortitude?" data-chapter="Whether daring is opposed to fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that daring is not opposed to fortitude. For excess of daring seems to
 result from presumption of mind. But presumption pertains to pride which is opposed to humility.
@@ -1309,12 +1309,12 @@ in daring has no contrary deficiency, save only timidity. Yet daring does not al
 so great a lack of timidity, for as the Philosopher says (Ethic. iii, 7), "the daring are precipitate and
 eager to meet danger, yet fail when the danger is present," namely through fear.
 
-<span class="atom-split" data-atom="031" data-title="OF THE PARTS OF FORTITUDE (ONE ARTICLE)" data-chapter="OF THE PARTS OF FORTITUDE (ONE ARTICLE)" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="OF THE PARTS OF FORTITUDE (ONE ARTICLE)" data-chapter="OF THE PARTS OF FORTITUDE (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the parts of fortitude; first we shall consider what are the parts of fortitude;
 and secondly we shall treat of each part.
 
-<span class="atom-split" data-atom="032" data-title="Whether the parts of fortitude are suitably assigned? (1/2)" data-chapter="Whether the parts of fortitude are suitably assigned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether the parts of fortitude are suitably assigned? (1/2)" data-chapter="Whether the parts of fortitude are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the parts of fortitude are unsuitably assigned. For Tully (De Invent.
 Rhet. ii) assigns four parts to fortitude, namely "magnificence," "confidence," "patience," and
@@ -1409,7 +1409,7 @@ Reply to Objection 5: Perseverance as denoting persistence in a good deed unto t
 be a circumstance of every virtue, but it is reckoned a part of fortitude in the sense stated in the
 body of the Article.
 
-<span class="atom-split" data-atom="033" data-title="Whether the parts of fortitude are suitably assigned? (2/2)" data-chapter="Whether the parts of fortitude are suitably assigned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether the parts of fortitude are suitably assigned? (2/2)" data-chapter="Whether the parts of fortitude are suitably assigned?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: Macrobius reckons the four aforesaid mentioned by Tully, namely
 "confidence, magnificence, forbearance," which he puts in the place of patience, and "firmness,"
@@ -1463,7 +1463,7 @@ Magnificence; (3) Patience; (4) Perseverance. As regards the first we shall trea
 (7) Of its relation to assurance;
 (8) Of its relation to goods of fortune.
 
-<span class="atom-split" data-atom="034" data-title="Whether magnanimity is about honors?" data-chapter="Whether magnanimity is about honors?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether magnanimity is about honors?" data-chapter="Whether magnanimity is about honors?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnanimity is not about honors. For magnanimity is in the irascible
 faculty, as its very name shows, since "magnanimity" signifies greatness of mind, and "mind"
@@ -1515,7 +1515,7 @@ were to despise honors so as not to care to do what is worthy of honor, this wou
 blame. Accordingly magnanimity is about honors in the sense that a man strives to do what is
 deserving of honor, yet not so as to think much of the honor accorded by man.
 
-<span class="atom-split" data-atom="035" data-title="Whether magnanimity is essentially about great honors?" data-chapter="Whether magnanimity is essentially about great honors?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether magnanimity is essentially about great honors?" data-chapter="Whether magnanimity is essentially about great honors?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnanimity is not essentially about great honors. For the proper
 matter of magnanimity is honor, as stated above (A[1]). But great and little are accidental to honor.
@@ -1582,7 +1582,7 @@ he does not deem them above him; rather does he despise them, and much more such
 or little. In like manner he is not cast down by dishonor, but despises it, since he recognizes that
 he does not deserve it.
 
-<span class="atom-split" data-atom="036" data-title="Whether magnanimity is a virtue?" data-chapter="Whether magnanimity is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether magnanimity is a virtue?" data-chapter="Whether magnanimity is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnanimity is not a virtue. For every moral virtue observes the
 mean. But magnanimity observes not the mean but the greater extreme: because the "magnanimous
@@ -1681,7 +1681,7 @@ have barren things, not indeed any, but good, i.e. virtuous; for in all things h
 to the useful, as being greater: since the useful is sought in order to supply a defect which is
 inconsistent with magnanimity.
 
-<span class="atom-split" data-atom="037" data-title="Whether magnanimity is a special virtue?" data-chapter="Whether magnanimity is a special virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether magnanimity is a special virtue?" data-chapter="Whether magnanimity is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnanimity is not a special virtue. For no special virtue is operative
 in every virtue. But the Philosopher states (Ethic. iv, 3) that "whatever is great in each virtue belongs
@@ -1729,7 +1729,7 @@ Reply to Objection 3: Every virtue derives from its species a certain luster or 
 is proper to each virtue: but further adornment results from the very greatness of a virtuous deed,
 through magnanimity which makes all virtues greater as stated in Ethic. iv, 3.
 
-<span class="atom-split" data-atom="038" data-title="Whether magnanimity is a part of fortitude?" data-chapter="Whether magnanimity is a part of fortitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether magnanimity is a part of fortitude?" data-chapter="Whether magnanimity is a part of fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnanimity is not a part of fortitude. For a thing is not a part of
 itself. But magnanimity appears to be the same as fortitude. For Seneca says (De Quat. Virtut.): "If
@@ -1791,7 +1791,7 @@ firmness of mind than the difficult in good things. Hence the virtue of fortitud
 of the virtue of magnanimity. For though good is simply of more import than evil, evil is of more
 import in this particular respect.
 
-<span class="atom-split" data-atom="039" data-title="Whether confidence belongs to magnanimity?" data-chapter="Whether confidence belongs to magnanimity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether confidence belongs to magnanimity?" data-chapter="Whether confidence belongs to magnanimity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that confidence does not belong to magnanimity. For a man may have
 assurance not only in himself, but also in another, according to 2 Cor. 3:4,5, "Such confidence we
@@ -1854,7 +1854,7 @@ it may denote the conditions of a virtue. For this reason it is reckoned among t
 not as an annexed virtue, except as identified with magnanimity by Tully (De Suv. Rhet. ii), but as
 an integral part, as stated in the preceding Question.
 
-<span class="atom-split" data-atom="040" data-title="Whether security belongs to magnanimity?" data-chapter="Whether security belongs to magnanimity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether security belongs to magnanimity?" data-chapter="Whether security belongs to magnanimity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that security does not belong to magnanimity. For security, as stated
 above (Q[128], ad 6), denotes freedom from the disturbance of fear. But fortitude does this most
@@ -1898,7 +1898,7 @@ Reply to Objection 3: There is in the virtues a certain likeness to, and partici
 happiness, as stated above (FS, Q[5], AA[3],7). Hence nothing hinders a certain security from being
 a condition of a virtue, although perfect security belongs to virtue's reward.
 
-<span class="atom-split" data-atom="041" data-title="Whether goods of fortune conduce to magnanimity?" data-chapter="Whether goods of fortune conduce to magnanimity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether goods of fortune conduce to magnanimity?" data-chapter="Whether goods of fortune conduce to magnanimity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that goods of fortune do not conduce to magnanimity. For according to
 Seneca ([De Ira](/concepts/anger) i: De vita beata xvi): "virtue suffices for itself." Now magnanimity takes every
@@ -1938,7 +1938,7 @@ obtaining it, nor very grieved at losing it. Wherefore, since the magnanimous ma
 much of external goods, that is goods of fortune, he is neither much uplifted by them if he has them,
 nor much cast down by their loss.
 
-<span class="atom-split" data-atom="042" data-title="OF PRESUMPTION (TWO ARTICLES)" data-chapter="OF PRESUMPTION (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="OF PRESUMPTION (TWO ARTICLES)" data-chapter="OF PRESUMPTION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the vices opposed to magnanimity; and in the first place, those that are
 opposed thereto by excess. These are three, namely, presumption, ambition, and vainglory. Secondly,
@@ -1947,7 +1947,7 @@ there are two points of inquiry:
 (1) Whether presumption is a sin?
 (2) Whether it is opposed to magnanimity by excess?
 
-<span class="atom-split" data-atom="043" data-title="Whether presumption is a sin?" data-chapter="Whether presumption is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether presumption is a sin?" data-chapter="Whether presumption is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that presumption is not a sin. For the Apostle says: "Forgetting the things
 that are behind, I stretch forth [Vulg.: 'and stretching forth'] myself to those that are before." But
@@ -2000,7 +2000,7 @@ God, this is not altogether above our ability. Hence it is not presumptuous for 
 accomplishment of a virtuous deed: but it would be presumptuous if one were to make the attempt
 without confidence in God's assistance.
 
-<span class="atom-split" data-atom="044" data-title="Whether presumption is opposed to magnanimity by excess?" data-chapter="Whether presumption is opposed to magnanimity by excess?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether presumption is opposed to magnanimity by excess?" data-chapter="Whether presumption is opposed to magnanimity by excess?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that presumption is not opposed to magnanimity by excess. For
 presumption is accounted a species of the sin against the Holy Ghost, as stated above (Q[14], A[2];
@@ -2057,13 +2057,13 @@ and bent on excelling in all things, whether in words or in deeds, without any c
 virtue." Thus it is evident that the presumptuous man sometimes falls short of the magnanimous
 in reality, although in appearance he surpasses him.
 
-<span class="atom-split" data-atom="045" data-title="OF AMBITION (TWO ARTICLES)" data-chapter="OF AMBITION (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="OF AMBITION (TWO ARTICLES)" data-chapter="OF AMBITION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider ambition: and under this head there are two points of inquiry:
 (1) Whether it is a sin?
 (2) Whether it is opposed to magnanimity by excess?
 
-<span class="atom-split" data-atom="046" data-title="Whether ambition is a sin?" data-chapter="Whether ambition is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether ambition is a sin?" data-chapter="Whether ambition is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that ambition is not a sin. For ambition denotes the desire of honor. Now
 honor is in itself a good thing, and the greatest of external goods: wherefore those who care not for
@@ -2116,7 +2116,7 @@ the wicked, "through lack of the good arts, make use of deceit and falsehood." Y
 for the sake of honor, either do good or avoid evil, are not virtuous, according to the Philosopher
 (Ethic. iii, 8), where he says that they who do brave things for the sake of honor are not truly brave.
 
-<span class="atom-split" data-atom="047" data-title="Whether ambition is opposed to magnanimity by excess?" data-chapter="Whether ambition is opposed to magnanimity by excess?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether ambition is opposed to magnanimity by excess?" data-chapter="Whether ambition is opposed to magnanimity by excess?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that ambition is not opposed to magnanimity by excess. For one mean
 has only one extreme opposed to it on the one side. Now presumption is opposed to magnanimity
@@ -2160,7 +2160,7 @@ shall come into your assembly a man having a golden ring, in fine apparel . . . 
 say to him: Sit thou here well," etc. Wherefore ambition does not regard outward worship, except
 in so far as this is a kind of honor.
 
-<span class="atom-split" data-atom="048" data-title="OF VAINGLORY (FIVE ARTICLES)" data-chapter="OF VAINGLORY (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="OF VAINGLORY (FIVE ARTICLES)" data-chapter="OF VAINGLORY (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider vainglory: under which head there are five points of inquiry:
 (1) Whether desire of glory is a sin?
@@ -2169,7 +2169,7 @@ We must now consider vainglory: under which head there are five points of inquir
 (4) Whether it is a capital vice?
 (5) Of its daughters.
 
-<span class="atom-split" data-atom="049" data-title="Whether the desire of glory is a sin?" data-chapter="Whether the desire of glory is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether the desire of glory is a sin?" data-chapter="Whether the desire of glory is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the desire of glory is not a sin. For no one sins in being likened to
 God: in fact we are commanded (Eph. 5:1): "Be ye . . . followers of God, as most dear children."
@@ -2243,7 +2243,7 @@ persevere therein and to become better. In this sense it is praiseworthy that a 
 of his good name," and that he should "provide good things in the sight of God and men": but not
 that he should take an empty pleasure in human praise.
 
-<span class="atom-split" data-atom="050" data-title="Whether vainglory is opposed to magnanimity?" data-chapter="Whether vainglory is opposed to magnanimity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether vainglory is opposed to magnanimity?" data-chapter="Whether vainglory is opposed to magnanimity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that vainglory is not opposed to magnanimity. For, as stated above (A[1]),
 vainglory consists in glorying in things that are not, which pertains to falsehood; or in earthly and
@@ -2292,7 +2292,7 @@ depend on their effects. Nevertheless contention, if done intentionally, is oppo
 since no one contends save for what he deems great. Wherefore the Philosopher says (Ethic. iv, 3)
 that the magnanimous man is not contentious, because nothing is great in his estimation.
 
-<span class="atom-split" data-atom="051" data-title="Whether vainglory is a mortal sin?" data-chapter="Whether vainglory is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether vainglory is a mortal sin?" data-chapter="Whether vainglory is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that vainglory is a mortal sin. For nothing precludes the eternal reward
 except a mortal sin. Now vainglory precludes the eternal reward: for it is written (Mat. 6:1): "Take
@@ -2354,7 +2354,7 @@ Reply to Objection 3: Vainglory is stated to be a dangerous sin, not only on acc
 gravity, but also because it is a disposition to grave sins, in so far as it renders man presumptuous
 and too self-confident: and so it gradually disposes a man to lose his inward goods.
 
-<span class="atom-split" data-atom="052" data-title="Whether vainglory is a capital vice?" data-chapter="Whether vainglory is a capital vice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether vainglory is a capital vice?" data-chapter="Whether vainglory is a capital vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that vainglory is not a capital vice. For a vice that always arises from
 another vice is seemingly not capital. But vainglory always arises from pride. Therefore vainglory
@@ -2401,7 +2401,7 @@ reason given above, and this suffices for it to be reckoned a capital vice. Nor 
 for a capital vice to be a mortal sin; for mortal sin can arise from venial sin, inasmuch as venial sin
 can dispose man thereto.
 
-<span class="atom-split" data-atom="053" data-title="Whether the daughters of vainglory are suitably reckoned to be disobedience, boastfulness, hypocrisy, contention, obstinacy, discord, and love of novelties?" data-chapter="Whether the daughters of vainglory are suitably reckoned to be disobedience, boastfulness, hypocrisy, contention, obstinacy, discord, and love of novelties?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether the daughters of vainglory are suitably reckoned to be disobedience, boastfulness, hypocrisy, contention, obstinacy, discord, and love of novelties?" data-chapter="Whether the daughters of vainglory are suitably reckoned to be disobedience, boastfulness, hypocrisy, contention, obstinacy, discord, and love of novelties?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the daughters of vainglory are unsuitably reckoned to be
 "disobedience, boastfulness, hypocrisy, contention, obstinacy, discord, and eccentricity
@@ -2449,13 +2449,13 @@ lack of charity apparent in one who prefers vainglory to the good of his neighbo
 does the latter for the sake of the former. But a man is not reproved for presuming to give alms as
 though this were something novel.
 
-<span class="atom-split" data-atom="054" data-title="OF PUSILLANIMITY (TWO ARTICLES)" data-chapter="OF PUSILLANIMITY (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="OF PUSILLANIMITY (TWO ARTICLES)" data-chapter="OF PUSILLANIMITY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider pusillanimity. Under this head there are two points of inquiry:
 (1) Whether pusillanimity is a sin?
 (2) To what virtue is it opposed?
 
-<span class="atom-split" data-atom="055" data-title="Whether pusillanimity is a sin?" data-chapter="Whether pusillanimity is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether pusillanimity is a sin?" data-chapter="Whether pusillanimity is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that pusillanimity is not a sin. For every sin makes a man evil, just as
 every virtue makes a man good. But a fainthearted man is not evil, as the Philosopher says (Ethic.
@@ -2517,7 +2517,7 @@ Reply to Objection 4: Moses and Jeremias were worthy of the office to which they
 appointed by God, but their worthiness was of Divine grace: yet they, considering the insufficiency
 of their own weakness, demurred; though not obstinately lest they should fall into pride.
 
-<span class="atom-split" data-atom="056" data-title="Whether pusillanimity is opposed to magnanimity?" data-chapter="Whether pusillanimity is opposed to magnanimity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether pusillanimity is opposed to magnanimity?" data-chapter="Whether pusillanimity is opposed to magnanimity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that pusillanimity is not opposed to magnanimity. For the Philosopher
 says (Ethic., 3) that "the fainthearted man knows not himself: for he would desire the good things,
@@ -2577,7 +2577,7 @@ Reply to Objection 4: According to its proper species pusillanimity is a graver 
 presumption, since thereby a man withdraws from good things, which is a very great evil according
 to Ethic. iv. Presumption, however, is stated to be "wicked" on account of pride whence it proceeds.
 
-<span class="atom-split" data-atom="057" data-title="OF MAGNIFICENCE (FOUR ARTICLES)" data-chapter="OF MAGNIFICENCE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="OF MAGNIFICENCE (FOUR ARTICLES)" data-chapter="OF MAGNIFICENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider magnificence and the vices opposed to it. With regard to magnificence
 there are four points of inquiry:
@@ -2586,7 +2586,7 @@ there are four points of inquiry:
 (3) What is its matter?
 (4) Whether it is a part of fortitude?
 
-<span class="atom-split" data-atom="058" data-title="Whether magnificence is a virtue?" data-chapter="Whether magnificence is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether magnificence is a virtue?" data-chapter="Whether magnificence is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnificence is not a virtue. For whoever has one virtue has all the
 virtues, as stated above (FS, Q[65], A[1]). But one may have the other virtues without having
@@ -2640,7 +2640,7 @@ Reply to Objection 4: As the Philosopher says (Ethic. vi, 5) "there must needs b
 act," i.e. a moral virtue, whereby the appetite is inclined to make good use of the rule of act: and
 this is what magnificence does. Hence it is not an act but a virtue.
 
-<span class="atom-split" data-atom="059" data-title="Whether magnificence is a special virtue?" data-chapter="Whether magnificence is a special virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether magnificence is a special virtue?" data-chapter="Whether magnificence is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnificence is not a special virtue. For magnificence would seem
 to consist in doing something great. But it may belong to any virtue to do something great, if the
@@ -2700,7 +2700,7 @@ Wherefore the Philosopher says (Ethic. iv, 2) that "the most commendable expendi
 is directed to Divine sacrifices": and this is the chief object of magnificence. For this reason
 magnificence is connected with holiness, since its chief effect is directed to religion or holiness.
 
-<span class="atom-split" data-atom="060" data-title="Whether the matter of magnificence is great expenditure?" data-chapter="Whether the matter of magnificence is great expenditure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the matter of magnificence is great expenditure?" data-chapter="Whether the matter of magnificence is great expenditure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the matter of magnificence is not great expenditure. For there are
 not two virtues about the same matter. But liberality is about expenditure, as stated above (Q[117],
@@ -2762,7 +2762,7 @@ to do so in things that are great by comparison to some particular work; which, 
 itself, can nevertheless be done magnificently in proportion to its genus: for little and great are
 relative terms, as the Philosopher says (De Praedic. Cap. Ad aliquid.).
 
-<span class="atom-split" data-atom="061" data-title="Whether magnificence is a part of fortitude?" data-chapter="Whether magnificence is a part of fortitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether magnificence is a part of fortitude?" data-chapter="Whether magnificence is a part of fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that magnificence is not a part of fortitude. For magnificence agrees in
 matter with liberality, as stated above (A[3]). But liberality is a part, not of fortitude, but of justice.
@@ -2817,7 +2817,7 @@ points of inquiry:
 (1) Whether meanness is a vice?
 (2) Of the vice opposed to it.
 
-<span class="atom-split" data-atom="062" data-title="Whether meanness is a vice?" data-chapter="Whether meanness is a vice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether meanness is a vice?" data-chapter="Whether meanness is a vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that meanness is not a vice. For just as vice moderates great things, so
 does it moderate little things: wherefore both the liberal and the magnificent do little things. But
@@ -2872,7 +2872,7 @@ accomplishment: wherefore meanness is less sinful than illiberality. Hence the P
 (Ethic. iv, 2) that "although meanness and its contrary vice are sinful, they do not bring shame on
 a man, since neither do they harm one's neighbor, nor are they very disgraceful."
 
-<span class="atom-split" data-atom="063" data-title="Whether there is a vice opposed to meanness?" data-chapter="Whether there is a vice opposed to meanness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether there is a vice opposed to meanness?" data-chapter="Whether there is a vice opposed to meanness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there is no vice opposed to meanness. For great is opposed to little.
 Now, magnificence is not a vice, but a virtue. Therefore no vice is opposed to meanness.
@@ -2915,7 +2915,7 @@ Reply to Objection 3: Wastefulness is opposed to meanness by the very species of
 it exceeds the rule of reason, whereas meanness falls short of it. Yet nothing hinders this from being
 directed to the end of another vice, such as vainglory or any other.
 
-<span class="atom-split" data-atom="064" data-title="OF PATIENCE (FIVE ARTICLES)" data-chapter="OF PATIENCE (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="OF PATIENCE (FIVE ARTICLES)" data-chapter="OF PATIENCE (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider patience. Under this head there are five points of inquiry:
 (1) Whether patience is a virtue?
@@ -2924,7 +2924,7 @@ We must now consider patience. Under this head there are five points of inquiry:
 (4) Whether it is a part of fortitude?
 (5) Whether it is the same as longanimity?
 
-<span class="atom-split" data-atom="065" data-title="Whether patience is a virtue?" data-chapter="Whether patience is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether patience is a virtue?" data-chapter="Whether patience is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that patience is not a virtue. For the virtues are most perfect in heaven,
 as [Augustine](/figures/augustine) says (De Trin. xiv). Yet patience is not there, since no evils have to be borne there,
@@ -2975,7 +2975,7 @@ of the virtues are wont to be applied to their acts. Wherefore patience as a [ha
 to the pleasure which its act affords, it is reckoned a fruit, especially in this, that patience safeguards
 the mind from being overcome by sorrow.
 
-<span class="atom-split" data-atom="066" data-title="Whether patience is the greatest of the virtues?" data-chapter="Whether patience is the greatest of the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether patience is the greatest of the virtues?" data-chapter="Whether patience is the greatest of the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that patience is the greatest of the virtues. For in every genus that which
 is perfect is the greatest. Now "patience hath a perfect work" (James 1:4). Therefore patience is the
@@ -3019,7 +3019,7 @@ hardships and disturb the soul.
 Reply to Objection 3: Patience is said to be the root and safeguard of all the virtues, not as
 though it caused and preserved them directly, but merely because it removes their obstacles.
 
-<span class="atom-split" data-atom="067" data-title="Whether it is possible to have patience without grace?" data-chapter="Whether it is possible to have patience without grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether it is possible to have patience without grace?" data-chapter="Whether it is possible to have patience without grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it is possible to have patience without grace. For the more his reason
 inclines to a thing, the more is it possible for the rational creature to accomplish it. Now it is more
@@ -3070,7 +3070,7 @@ Reply to Objection 3: Even the endurance of those evils which a man bears for th
 body's health, proceeds from the love a man naturally has for his own flesh. Hence there is no
 comparison between this endurance and patience which proceeds from a supernatural love.
 
-<span class="atom-split" data-atom="068" data-title="Whether patience is a part of fortitude?" data-chapter="Whether patience is a part of fortitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether patience is a part of fortitude?" data-chapter="Whether patience is a part of fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that patience is not a part of fortitude. For a thing is not part of itself.
 Now patience is apparently the same as fortitude: because, as stated above (Q[123], A[6]), the
@@ -3185,7 +3185,7 @@ they persist a long time in evil, wherefore it is said that they are borne with 
 the very fact of sinning through pride seems to be unendurable; for which reason those who sin
 through pride are stated to be borne with patience.
 
-<span class="atom-split" data-atom="069" data-title="OF PERSEVERANCE (FOUR ARTICLES)" data-chapter="OF PERSEVERANCE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="OF PERSEVERANCE (FOUR ARTICLES)" data-chapter="OF PERSEVERANCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider perseverance and the vices opposed to it. Under the head of perseverance
 there are four points of inquiry:
@@ -3194,7 +3194,7 @@ there are four points of inquiry:
 (3) Of its relation to constancy;
 (4) Whether it needs the help of grace?
 
-<span class="atom-split" data-atom="070" data-title="Whether perseverance is a virtue?" data-chapter="Whether perseverance is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether perseverance is a virtue?" data-chapter="Whether perseverance is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that perseverance is not a virtue. For, according to the Philosopher (Ethic.
 vii, 7), continency is greater than perseverance. But continency is not a virtue, as stated in Ethic.
@@ -3267,7 +3267,7 @@ until the end, belongs to a special virtue called perseverance, which intends th
 Secondly, by reason of the relation of the habit to its subject: and thus unchangeable persistence is
 consequent upon every virtue, inasmuch as virtue is a "quality difficult to change."
 
-<span class="atom-split" data-atom="071" data-title="Whether perseverance is a part of fortitude?" data-chapter="Whether perseverance is a part of fortitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether perseverance is a part of fortitude?" data-chapter="Whether perseverance is a part of fortitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that perseverance is not a part of fortitude. For, according to the
 Philosopher (Ethic. viii, 7), "perseverance is about pains of touch." But these belong to temperance.
@@ -3312,7 +3312,7 @@ Reply to Objection 3: Augustine speaks there of perseverance, as denoting, not a
 the end, he shall be saved." Hence it is incompatible with such like perseverance for it to be lost,
 since it would no longer endure to the end.
 
-<span class="atom-split" data-atom="072" data-title="Whether constancy pertains to perseverance?" data-chapter="Whether constancy pertains to perseverance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether constancy pertains to perseverance?" data-chapter="Whether constancy pertains to perseverance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that constancy does not pertain to perseverance. For constancy pertains
 to patience, as stated above (Q[137], A[5]): and patience differs from perseverance. Therefore
@@ -3401,14 +3401,14 @@ himself to be persevering in sin, unless he be delivered by God's grace. On the 
 good he does not make himself to be persevering in good, because he is able, by himself, to sin:
 wherefore he needs the help of grace for that end.
 
-<span class="atom-split" data-atom="073" data-title="OF THE VICES OPPOSED TO PERSEVERANCE (TWO ARTICLES)" data-chapter="OF THE VICES OPPOSED TO PERSEVERANCE (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="OF THE VICES OPPOSED TO PERSEVERANCE (TWO ARTICLES)" data-chapter="OF THE VICES OPPOSED TO PERSEVERANCE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the vices opposed to perseverance; under which head there are two
 points of inquiry:
 (1) Of effeminacy;
 (2) Of pertinacity.
 
-<span class="atom-split" data-atom="074" data-title="Whether effeminacy* is opposed to perseverance? [*Mollities, literally 'softness']" data-chapter="Whether effeminacy* is opposed to perseverance? [*Mollities, literally 'softness']" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether effeminacy* is opposed to perseverance? [*Mollities, literally 'softness']" data-chapter="Whether effeminacy* is opposed to perseverance? [*Mollities, literally 'softness']" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that effeminacy is not opposed to perseverance. For a gloss on 1 Cor.
 6:9,10, "Nor adulterers, nor the effeminate, nor liers with mankind," expounds the text thus:
@@ -3464,7 +3464,7 @@ the relaxation or rest which is opposed to toil. Accordingly just as it belongs 
 unable to endure toilsome things, so too it belongs thereto to desire play or any other relaxation
 inordinately.
 
-<span class="atom-split" data-atom="075" data-title="Whether pertinacity is opposed to perseverance?" data-chapter="Whether pertinacity is opposed to perseverance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether pertinacity is opposed to perseverance?" data-chapter="Whether pertinacity is opposed to perseverance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that pertinacity is not opposed to perseverance. For Gregory says (Moral.
 xxxi) that pertinacity arises from vainglory. But vainglory is not opposed to perseverance but to
@@ -3509,14 +3509,14 @@ they are not commended for persisting in the same way as perseverance is. As to 
 claim to praise seems to lie rather in overcoming pleasures. Hence pertinacity is directly opposed
 to perseverance.
 
-<span class="atom-split" data-atom="076" data-title="OF THE GIFT OF FORTITUDE (TWO ARTICLES)" data-chapter="OF THE GIFT OF FORTITUDE (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="OF THE GIFT OF FORTITUDE (TWO ARTICLES)" data-chapter="OF THE GIFT OF FORTITUDE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the gift corresponding to fortitude, and this is the gift of fortitude. Under
 this head there are two points of inquiry:
 (1) Whether fortitude is a gift?
 (2) Which among the beatitudes and fruits correspond to it?
 
-<span class="atom-split" data-atom="077" data-title="Whether fortitude is a gift?" data-chapter="Whether fortitude is a gift?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether fortitude is a gift?" data-chapter="Whether fortitude is a gift?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that fortitude is not a gift. For the virtues differ from the gifts: and
 fortitude is a virtue. Therefore it should not be reckoned a gift.
@@ -3561,7 +3561,7 @@ consists in enduring dangers, but also inasmuch as it consists in accomplishing 
 Wherefore the gift of fortitude is directed by the gift of counsel, which seems to be concerned
 chiefly with the greater goods.
 
-<span class="atom-split" data-atom="078" data-title="Whether the fourth beatitude: \&quot;Blessed are they that hunger and thirst after justice,\&quot; corresponds to the gift of fortitude?" data-chapter="Whether the fourth beatitude: \&quot;Blessed are they that hunger and thirst after justice,\&quot; corresponds to the gift of fortitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether the fourth beatitude: \&quot;Blessed are they that hunger and thirst after justice,\&quot; corresponds to the gift of fortitude?" data-chapter="Whether the fourth beatitude: \&quot;Blessed are they that hunger and thirst after justice,\&quot; corresponds to the gift of fortitude?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the fourth beatitude: "Blessed are they that hunger and thirst after justice," corresponds to the gift of fortitude?
 
@@ -3604,13 +3604,13 @@ Reply to Objection 3: There are two of the fruits which correspond sufficiently 
 fortitude: namely, patience, which regards the enduring of evils: and longanimity, which may regard
 the long delay and accomplishment of goods.
 
-<span class="atom-split" data-atom="079" data-title="OF THE PRECEPTS OF FORTITUDE (TWO ARTICLES)" data-chapter="OF THE PRECEPTS OF FORTITUDE (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="OF THE PRECEPTS OF FORTITUDE (TWO ARTICLES)" data-chapter="OF THE PRECEPTS OF FORTITUDE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the precepts of fortitude:
 (1) The precepts of fortitude itself;
 (2) The precepts of its parts.
 
-<span class="atom-split" data-atom="080" data-title="Whether the precepts of fortitude are suitably given in the Divine Law?" data-chapter="Whether the precepts of fortitude are suitably given in the Divine Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether the precepts of fortitude are suitably given in the Divine Law?" data-chapter="Whether the precepts of fortitude are suitably given in the Divine Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the precepts of fortitude are not suitably given in the [Divine Law](/concepts/divine_law).
 For the New Law is more perfect than the Old Law. Yet the Old Law contains precepts of fortitude
@@ -3659,7 +3659,7 @@ of the decalogue had to be chiefly about those acts of justice in which the noti
 and not about acts of fortitude, because it is not so evident that it is a duty for a person not to fear
 dangers of death.
 
-<span class="atom-split" data-atom="081" data-title="Whether the precepts of the parts of fortitude are suitably given in the Divine Law?" data-chapter="Whether the precepts of the parts of fortitude are suitably given in the Divine Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Whether the precepts of the parts of fortitude are suitably given in the Divine Law?" data-chapter="Whether the precepts of the parts of fortitude are suitably given in the Divine Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the precept of the parts of fortitude are unsuitably given in the Divine
 Law. For just as patience and perseverance are parts of fortitude, so also are magnificence,
@@ -3703,7 +3703,7 @@ in particular. On the other hand, patience and perseverance are about minor hard
 wherefore there is less danger in determining, especially in general, what is to be done in such
 cases.
 
-<span class="atom-split" data-atom="082" data-title="OF TEMPERANCE (EIGHT ARTICLES)" data-chapter="OF TEMPERANCE (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="OF TEMPERANCE (EIGHT ARTICLES)" data-chapter="OF TEMPERANCE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must consider temperance: (1) Temperance itself; (2) its parts; (3) its
 precepts. With regard to temperance we must consider (1) temperance itself; (2) the contrary vices.
@@ -3717,7 +3717,7 @@ Under the first head there are eight points of inquiry:
 (7) Whether it is a cardinal, or principal, virtue?
 (8) Whether it is the greatest of virtues ?
 
-<span class="atom-split" data-atom="083" data-title="Whether temperance is a virtue?" data-chapter="Whether temperance is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether temperance is a virtue?" data-chapter="Whether temperance is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that temperance is not a virtue. For no virtue goes against the inclination
 of nature, since "there is in us a natural aptitude for virtue," as stated in Ethic. ii, 1. Now temperance
@@ -3764,7 +3764,7 @@ for its secondary object whatever a man shuns in order to avoid offending God. N
 in the greatest need of the fear of God in order to shun those things which are most seductive, and
 these are the matter of temperance: wherefore the gift of fear corresponds to temperance also.
 
-<span class="atom-split" data-atom="084" data-title="Whether temperance is a special virtue?" data-chapter="Whether temperance is a special virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether temperance is a special virtue?" data-chapter="Whether temperance is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temperance is not a special virtue. For [Augustine](/figures/augustine) says (De
 Morib. Eccl. xv) that "it belongs to temperance to preserve one's integrity and freedom from
@@ -3820,7 +3820,7 @@ temperance: for Isidore says (Etym. x): "An honest man is one who has no defilem
 means an honorable state." This is most applicable to temperance, which withstands the vices that
 bring most dishonor on man, as we shall state further on (Q[142], A[4]).
 
-<span class="atom-split" data-atom="085" data-title="Whether temperance is only about desires and pleasures?" data-chapter="Whether temperance is only about desires and pleasures?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether temperance is only about desires and pleasures?" data-chapter="Whether temperance is only about desires and pleasures?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temperance is not only about desires and pleasures. For Tully
 says (De Invent. Rhet. ii, 54) that "temperance is reason's firm and moderate mastery of lust and
@@ -3884,7 +3884,7 @@ fortitude bestows. Hence temperance is properly about desires, and fortitude abo
 Reply to Objection 3: External acts proceed from the internal passions of the soul: wherefore
 their moderation depends on the moderation of the internal passions.
 
-<span class="atom-split" data-atom="086" data-title="Whether temperance is only about desires and pleasures of touch?" data-chapter="Whether temperance is only about desires and pleasures of touch?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether temperance is only about desires and pleasures of touch?" data-chapter="Whether temperance is only about desires and pleasures of touch?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temperance is not only about desires and pleasures of touch.
 For [Augustine](/figures/augustine) says (De Morib. Eccl. xix) that "the function of temperance is to control and quell
@@ -3962,7 +3962,7 @@ greater and more binding.
 Reply to Objection 5: Not all pleasures of touch regard the preservation of nature, and
 consequently it does not follow that temperance is about all pleasures of touch.
 
-<span class="atom-split" data-atom="087" data-title="Whether temperance is about the pleasures proper to the taste?" data-chapter="Whether temperance is about the pleasures proper to the taste?" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Whether temperance is about the pleasures proper to the taste?" data-chapter="Whether temperance is about the pleasures proper to the taste?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temperance is about pleasures proper to the taste. For pleasures
 of the taste result from food and drink, which are more necessary to man's life than sexual pleasures,
@@ -4009,7 +4009,7 @@ the pleasure of touch results essentially from the use of food and drink.
 Reply to Objection 3: Delicacy regards principally the substance of the food, but secondarily
 it regards its delicious savor and the way in which it is served.
 
-<span class="atom-split" data-atom="088" data-title="Whether the rule of temperance depends on the need of the present life?" data-chapter="Whether the rule of temperance depends on the need of the present life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether the rule of temperance depends on the need of the present life?" data-chapter="Whether the rule of temperance depends on the need of the present life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the rule of temperance does not depend on the needs of the
 present life. For higher things are not regulated according to lower. Now, as temperance is a virtue
@@ -4070,7 +4070,7 @@ they be not inconsistent with good," i.e. good conduct, nor "beyond his substanc
 And Augustine says (De Morib. Eccl. xxi) that the "temperate man considers the need" not only
 "of this life" but also "of his station."
 
-<span class="atom-split" data-atom="089" data-title="Whether temperance is a cardinal virtue?" data-chapter="Whether temperance is a cardinal virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether temperance is a cardinal virtue?" data-chapter="Whether temperance is a cardinal virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temperance is not a cardinal virtue. For the good of moral
 virtue depends on reason. But temperance is about those things that are furthest removed from
@@ -4113,7 +4113,7 @@ is accounted the principal passion in the irascible. But the objects of desires 
 move the appetite with greater force, since they are more natural. Therefore temperance, which
 appoints the mean in such things, is a principal virtue.
 
-<span class="atom-split" data-atom="090" data-title="Whether temperance is the greatest of the virtues?" data-chapter="Whether temperance is the greatest of the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether temperance is the greatest of the virtues?" data-chapter="Whether temperance is the greatest of the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temperance is the greatest of the virtues. For Ambrose says
 (De Offic. i, 43) that "what we observe and seek most in temperance is the safeguarding of what
@@ -4154,7 +4154,7 @@ the excellence of goodness than that which is general because it occurs frequent
 in the former way, temperance in the latter. Hence fortitude is greater simply, although in some
 respects temperance may be described as greater not only than fortitude but also than justice.
 
-<span class="atom-split" data-atom="091" data-title="OF THE VICES OPPOSED TO TEMPERANCE (FOUR ARTICLES)" data-chapter="OF THE VICES OPPOSED TO TEMPERANCE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="OF THE VICES OPPOSED TO TEMPERANCE (FOUR ARTICLES)" data-chapter="OF THE VICES OPPOSED TO TEMPERANCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the vices opposed to temperance. Under this head there are four points
 of inquiry:
@@ -4163,7 +4163,7 @@ of inquiry:
 (3) Of the comparison between intemperance and timidity;
 (4) Whether intemperance is the most disgraceful of vices?
 
-<span class="atom-split" data-atom="092" data-title="Whether insensibility is a vice?" data-chapter="Whether insensibility is a vice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="Whether insensibility is a vice?" data-chapter="Whether insensibility is a vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that insensibility is not a vice. For those are called insensible who
 are deficient with regard to pleasures of touch. Now seemingly it is praiseworthy and virtuous to
@@ -4219,7 +4219,7 @@ in duty bound to bodily occupations and carnal procreation.
 Reply to Objection 3: In order to avoid sin, pleasure must be shunned, not altogether, but so
 that it is not sought more than necessity requires.
 
-<span class="atom-split" data-atom="093" data-title="Whether intemperance is a childish sin? (1/2)" data-chapter="Whether intemperance is a childish sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether intemperance is a childish sin? (1/2)" data-chapter="Whether intemperance is a childish sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that intemperance is not a childish sin. For Jerome in commenting
 on Mat. 18:3, "Unless you be converted, and become as little children," says that "a child persists
@@ -4307,7 +4307,7 @@ of death, which pertains to cowardice. Therefore cowardice is a more grievous si
 On the contrary, The Philosopher says (Ethic. iii, 12) that "intemperance seems more akin to
 voluntary action than cowardice." Therefore it is more sinful.
 
-<span class="atom-split" data-atom="094" data-title="Whether intemperance is a childish sin? (2/2)" data-chapter="Whether intemperance is a childish sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether intemperance is a childish sin? (2/2)" data-chapter="Whether intemperance is a childish sin?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, one may be compared with another in two ways. First, with regard to the matter
 or object; secondly, on the part of the man who sins: and in both ways intemperance is a more
@@ -4360,7 +4360,7 @@ Reply to Objection 3: The voluntary, in cowardice, depends rather on a general t
 particular consideration: wherefore in such cases we have the voluntary not simply but in a restricted
 sense.
 
-<span class="atom-split" data-atom="095" data-title="Whether intemperance is the most disgraceful of sins?" data-chapter="Whether intemperance is the most disgraceful of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether intemperance is the most disgraceful of sins?" data-chapter="Whether intemperance is the most disgraceful of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that intemperance is not the most disgraceful of sins. As honor is
 due to virtue so is disgrace due to sin. Now some sins are more grievous than intemperance: for
@@ -4405,12 +4405,12 @@ human nature are still more disgraceful. Nevertheless such vices are apparently 
 genus of intemperance, by way of excess: for instance, if a man delight in eating human flesh, or
 in committing the unnatural vice.
 
-<span class="atom-split" data-atom="096" data-title="OF THE PARTS OF TEMPERANCE, IN GENERAL (ONE ARTICLE)" data-chapter="OF THE PARTS OF TEMPERANCE, IN GENERAL (ONE ARTICLE)" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="OF THE PARTS OF TEMPERANCE, IN GENERAL (ONE ARTICLE)" data-chapter="OF THE PARTS OF TEMPERANCE, IN GENERAL (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the parts of temperance: we shall consider these same parts (1) in general;
 (2) each of them in particular.
 
-<span class="atom-split" data-atom="097" data-title="Whether the parts of temperance are rightly assigned?" data-chapter="Whether the parts of temperance are rightly assigned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="Whether the parts of temperance are rightly assigned?" data-chapter="Whether the parts of temperance are rightly assigned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Tully (De Invent. Rhet. ii, 54) unbecomingly assigns the parts
 of temperance, when he asserts them to be "continence, mildness, and modesty." For continence
@@ -4491,7 +4491,7 @@ Reply to Objection 4: Under modesty Tully includes whatever pertains to the mode
 bodily movements and external things, as well as the moderation of hope which we reckoned as
 pertaining to humility.
 
-<span class="atom-split" data-atom="098" data-title="OF SHAMEFACEDNESS (FOUR ARTICLES)" data-chapter="OF SHAMEFACEDNESS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="OF SHAMEFACEDNESS (FOUR ARTICLES)" data-chapter="OF SHAMEFACEDNESS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the parts of temperance in particular: and in the first place the integral
 parts, which are shamefacedness and honesty. With regard to shamefacedness there are four points
@@ -4501,7 +4501,7 @@ of inquiry:
 (3) Who are the cause of a man being ashamed?
 (4) What kind of people are ashamed?
 
-<span class="atom-split" data-atom="099" data-title="Whether shamefacedness is a virtue?" data-chapter="Whether shamefacedness is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether shamefacedness is a virtue?" data-chapter="Whether shamefacedness is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that shamefacedness is a virtue. For it is proper to a virtue "to observe
 the mean as fixed by reason": this is clear from the definition of virtue given in Ethic. ii, 6. Now
@@ -4574,7 +4574,7 @@ one avoids disgraceful things which are the object of shamefacedness, without co
 ashamed in their regard: although as a consequence of this acquired virtue, a man would be more
 ashamed, if confronted with the matter of shamefacedness.
 
-<span class="atom-split" data-atom="100" data-title="Whether shamefacedness is about a disgraceful action?" data-chapter="Whether shamefacedness is about a disgraceful action?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether shamefacedness is about a disgraceful action?" data-chapter="Whether shamefacedness is about a disgraceful action?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that shamefacedness is not about a disgraceful action. For the
 Philosopher says (Ethic. iv, 9) that "shamefacedness is fear of disgrace." Now sometimes those
@@ -4647,7 +4647,7 @@ a certain abundance of some temporal good; thus a man is more ashamed of cowardi
 daring, of theft than of robbery, on account of a semblance of power. The same applies to other
 sins.
 
-<span class="atom-split" data-atom="101" data-title="Whether man is more shamefaced of those who are more closely connected with him?" data-chapter="Whether man is more shamefaced of those who are more closely connected with him?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether man is more shamefaced of those who are more closely connected with him?" data-chapter="Whether man is more shamefaced of those who are more closely connected with him?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man is not more shamefaced of those who are more closely
 connected with him. For it is stated in Rhet. ii, 6 that "men are more shamefaced of those from
@@ -4714,7 +4714,7 @@ he apprehends it as being the more disgraceful. The reason why we are made more 
 those of whom we ask something for the first time, or whose friends we wish to be, is that we fear
 to suffer some injury, by being disappointed in our request, or by failing to become their friends.
 
-<span class="atom-split" data-atom="102" data-title="Whether even virtuous men can be ashamed?" data-chapter="Whether even virtuous men can be ashamed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="Whether even virtuous men can be ashamed?" data-chapter="Whether even virtuous men can be ashamed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that even virtuous men can be ashamed. For contraries have contrary
 effects. Now those who excel in wickedness are not ashamed, according to Jer. 3:3, "Thou hadst a
@@ -4771,7 +4771,7 @@ for moral beauty];
 (3) Its relation with the useful and the pleasant;
 (4) Whether honesty is a part of temperance?
 
-<span class="atom-split" data-atom="103" data-title="Whether honesty is the same as virtue?" data-chapter="Whether honesty is the same as virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether honesty is the same as virtue?" data-chapter="Whether honesty is the same as virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that honesty is not the same as virtue. For Tully says (De Invent.
 Rhet. ii, 53) that "the honest is what is desired for its own sake." Now virtue is desired, not for its
@@ -4829,7 +4829,7 @@ reason honesty consists radically in the internal choice, but its expression lie
 Reply to Objection 4: It is because the excellence of wealth is commonly regarded as making
 a man deserving of honor, that sometimes the name of honesty is given to external prosperity.
 
-<span class="atom-split" data-atom="104" data-title="Whether the honest is the same as the beautiful?" data-chapter="Whether the honest is the same as the beautiful?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether the honest is the same as the beautiful?" data-chapter="Whether the honest is the same as the beautiful?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the honest is not the same as the beautiful. For the aspect of
 honest is derived from the appetite, since the honest is "what is desirable for its own sake" [*[Cicero](/figures/cicero),
@@ -4878,7 +4878,7 @@ replied that to be proud of one's honesty is to play the harlot because of one's
 according to Ezech. 28:17, "Thy heart was lifted up with thy beauty, thou hast lost thy wisdom in
 thy beauty."
 
-<span class="atom-split" data-atom="105" data-title="Whether the honest differs from the useful and the pleasant?" data-chapter="Whether the honest differs from the useful and the pleasant?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether the honest differs from the useful and the pleasant?" data-chapter="Whether the honest differs from the useful and the pleasant?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the honest does not differ from the useful and the pleasant.
 For the honest is "what is desirable for its own sake" [*[Cicero](/figures/cicero), De Invent. Rhet. ii, 53]. Now pleasure
@@ -4929,7 +4929,7 @@ in accordance with reason; although it may perhaps be useful in some respect, wi
 particular end. But they do not mean to say that every useful thing as such may be classed among
 those that are honest.
 
-<span class="atom-split" data-atom="106" data-title="Whether honesty should be reckoned a part of temperance?" data-chapter="Whether honesty should be reckoned a part of temperance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Whether honesty should be reckoned a part of temperance?" data-chapter="Whether honesty should be reckoned a part of temperance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that honesty should not be reckoned a part of temperance. For it
 is not possible for a thing to be part and whole in respect of one same thing. Now "temperance is
@@ -4970,7 +4970,7 @@ to be ascribed to temperance according to the rule given by the Apostle (1 Cor. 
 says that "our uncomely parts have more abundant comeliness," which, namely, destroys whatever
 is uncomely.
 
-<span class="atom-split" data-atom="107" data-title="OF ABSTINENCE (TWO ARTICLES)" data-chapter="OF ABSTINENCE (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="OF ABSTINENCE (TWO ARTICLES)" data-chapter="OF ABSTINENCE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the subjective parts of temperance: first, those which are about pleasures
 of food; secondly, those which are about pleasures of sex. The first consideration will include
@@ -4981,7 +4981,7 @@ of inquiry:
 (1) Whether abstinence is a virtue?
 (2) Whether it is a special virtue?
 
-<span class="atom-split" data-atom="108" data-title="Whether abstinence is a virtue?" data-chapter="Whether abstinence is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Whether abstinence is a virtue?" data-chapter="Whether abstinence is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that abstinence is not a virtue. For the Apostle says (1 Cor. 4:20): "The
 kingdom of God is not in speech but in power [virtute]." Now the kingdom of God does not consist
@@ -5041,7 +5041,7 @@ Reply to Objection 4: Those vices result from abstinence in so far as it is not 
 right reason. For right reason makes one abstain as one ought, i.e. with gladness of heart, and for
 the due end, i.e. for God's glory and not one's own.
 
-<span class="atom-split" data-atom="109" data-title="Whether abstinence is a special virtue?" data-chapter="Whether abstinence is a special virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Whether abstinence is a special virtue?" data-chapter="Whether abstinence is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that abstinence is not a special virtue. For every virtue is
 praiseworthy by itself. But abstinence is not praiseworthy by itself; for Gregory says (Pastor. iii,
@@ -5083,7 +5083,7 @@ Reply to Objection 3: The use of clothing was devised by art, whereas the use of
 nature. Hence it is more necessary to have a special virtue for the moderation of food than for the
 moderation of clothing.
 
-<span class="atom-split" data-atom="110" data-title="OF FASTING (EIGHT ARTICLES)" data-chapter="OF FASTING (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="OF FASTING (EIGHT ARTICLES)" data-chapter="OF FASTING (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider fasting: under which head there are eight points of inquiry:
 (1) Whether fasting is an act of virtue?
@@ -5095,7 +5095,7 @@ We must now consider fasting: under which head there are eight points of inquiry
 (7) The hour of eating for those who fast;
 (8) The meats from which it is necessary to abstain.
 
-<span class="atom-split" data-atom="111" data-title="Whether fasting is an act of virtue?" data-chapter="Whether fasting is an act of virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="Whether fasting is an act of virtue?" data-chapter="Whether fasting is an act of virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fasting is not an act of virtue. For every act of virtue is
 acceptable to God. But fasting is not always acceptable to God, according to Is. 58:3, "Why have
@@ -5157,7 +5157,7 @@ act. Such is only the fasting of one who abstains in some measure from food for 
 purpose. Hence the former is called natural fasting [jejunium jejunii] [*Literally the 'fast of fasting']:
 while the latter is called the faster's fast, because he fasts for a purpose.
 
-<span class="atom-split" data-atom="112" data-title="Whether fasting is an act of abstinence?" data-chapter="Whether fasting is an act of abstinence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="Whether fasting is an act of abstinence?" data-chapter="Whether fasting is an act of abstinence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fasting is not an act of abstinence. For Jerome [*The quotation
 is from the Ordinary Gloss, where the reference is lacking] commenting on Mat. 17:20, "This kind
@@ -5195,7 +5195,7 @@ hardship, but only those connected with the danger of death. To endure hardships
 privation of pleasure of touch, belongs to temperance and its parts: and such are the hardships of
 fasting.
 
-<span class="atom-split" data-atom="113" data-title="Whether fasting is a matter of precept?" data-chapter="Whether fasting is a matter of precept?" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="Whether fasting is a matter of precept?" data-chapter="Whether fasting is a matter of precept?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fasting is not a matter of precept. For precepts are not given
 about works of supererogation which are a matter of counsel. Now fasting is a work of
@@ -5255,7 +5255,7 @@ Nor are they opposed to the freedom of the faithful, rather are they of use in h
 of sin, which is opposed to spiritual freedom, of which it is written (Gal. 5:13): "You, brethren,
 have been called unto liberty; only make not liberty an occasion to the flesh."
 
-<span class="atom-split" data-atom="114" data-title="Whether all are bound to keep the fasts of the Church?" data-chapter="Whether all are bound to keep the fasts of the Church?" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="Whether all are bound to keep the fasts of the Church?" data-chapter="Whether all are bound to keep the fasts of the Church?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all are bound to keep the fasts of the Church. For the
 commandments of the Church are binding even as the commandments of God, according to Lk.
@@ -5346,7 +5346,7 @@ of the bridegroom"; hence when we read in Luke: "The children of the bridegroom 
 [*Vulg.: 'Can the children of the bridegroom mourn?']." The other pertains to the mind that rejoices
 in adhering to spiritual things: and this fasting is befitting the perfect.
 
-<span class="atom-split" data-atom="115" data-title="Whether the times for the Church fast are fittingly ascribed?" data-chapter="Whether the times for the Church fast are fittingly ascribed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="Whether the times for the Church fast are fittingly ascribed?" data-chapter="Whether the times for the Church fast are fittingly ascribed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the times for the Church fast are unfittingly appointed. For we
 read (Mat. 4) that Christ began to fast immediately after being baptized. Now we ought to imitate
@@ -5429,7 +5429,7 @@ fasting to be of obligation)---he would not be free from sin. Nevertheless fasti
 is commendable at all times; thus Jerome wrote (Ad Lucin., Ep. lxxi): "Would that we might fast
 always."
 
-<span class="atom-split" data-atom="116" data-title="Whether it is requisite for fasting that one eat but once?" data-chapter="Whether it is requisite for fasting that one eat but once?" data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Whether it is requisite for fasting that one eat but once?" data-chapter="Whether it is requisite for fasting that one eat but once?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not requisite for fasting that one eat but once. For, as stated
 above (A[2]), fasting is an act of the virtue of abstinence, which observes due quantity of food not
@@ -5470,7 +5470,7 @@ nourishment, but for digestion. Hence one does not break one's fast by taking th
 medicines, unless one were to take digestives, with a fraudulent intention, in great quantity and by
 way of food.
 
-<span class="atom-split" data-atom="117" data-title="Whether the ninth hour is suitably fixed for the faster's meal?" data-chapter="Whether the ninth hour is suitably fixed for the faster's meal?" data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Whether the ninth hour is suitably fixed for the faster's meal?" data-chapter="Whether the ninth hour is suitably fixed for the faster's meal?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the ninth hour is not suitably fixed for the faster's meal. For
 [the state](/concepts/state) of the [New Law](/concepts/divine_law) is more perfect than the state of the Old Law. Now in the Old Testament
@@ -5521,7 +5521,7 @@ to anyone, whatever his circumstances may be. If however this were to prove a he
 man on account of sickness, age, or some similar reason, he should be dispensed from fasting, or
 be allowed to forestall the hour by a little.
 
-<span class="atom-split" data-atom="118" data-title="Whether it is fitting that those who fast should be bidden to abstain from flesh meat, eggs, and milk foods?" data-chapter="Whether it is fitting that those who fast should be bidden to abstain from flesh meat, eggs, and milk foods?" data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Whether it is fitting that those who fast should be bidden to abstain from flesh meat, eggs, and milk foods?" data-chapter="Whether it is fitting that those who fast should be bidden to abstain from flesh meat, eggs, and milk foods?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unfitting that those who fast should be bidden to abstain from flesh
 meat, eggs, and milk foods. For it has been stated above (A[6]) that fasting was instituted as a curb
@@ -5576,7 +5576,7 @@ says [*[Augustine](/figures/augustine), De Lib. Arb. iii, 18; cf. De Nat. et Gra
 own practice, and look upon the commands of the elders as though they were the laws of the
 apostles."
 
-<span class="atom-split" data-atom="119" data-title="OF GLUTTONY (SIX ARTICLES)" data-chapter="OF GLUTTONY (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="OF GLUTTONY (SIX ARTICLES)" data-chapter="OF GLUTTONY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider gluttony. Under this head there are six points of inquiry:
 (1) Whether gluttony is a sin?
@@ -5586,7 +5586,7 @@ We must now consider gluttony. Under this head there are six points of inquiry:
 (5) Whether it is a capital sin?
 (6) Its daughters.
 
-<span class="atom-split" data-atom="120" data-title="Whether gluttony is a sin?" data-chapter="Whether gluttony is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="Whether gluttony is a sin?" data-chapter="Whether gluttony is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that gluttony is not a sin. For our Lord said (Mat. 15:11): "Not that
 which goeth into the mouth defileth a man." Now gluttony regards food which goes into a man.
@@ -5630,7 +5630,7 @@ the sensitive appetite, and it is in the concupiscence of this appetite that the
 Hence the first movement of gluttony denotes inordinateness in the sensitive appetite, and this is
 not without sin.
 
-<span class="atom-split" data-atom="121" data-title="Whether gluttony is a mortal sin?" data-chapter="Whether gluttony is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Whether gluttony is a mortal sin?" data-chapter="Whether gluttony is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that gluttony is not a mortal sin. For every mortal sin is contrary
 to a precept of the Decalogue: and this, apparently, does not apply to gluttony. Therefore gluttony
@@ -5681,7 +5681,7 @@ Reply to Objection 4: Gluttony is said to bring virtue to naught, not so much on
 as on account of the vices which arise from it. For Gregory says (Pastor. iii, 19): "When the belly
 is distended by gluttony, the virtues of the soul are destroyed by lust."
 
-<span class="atom-split" data-atom="122" data-title="Whether gluttony is the greatest of sins?" data-chapter="Whether gluttony is the greatest of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="Whether gluttony is the greatest of sins?" data-chapter="Whether gluttony is the greatest of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that gluttony is the greatest of sins. For the grievousness of a sin
 is measured by the grievousness of the punishment. Now the sin of gluttony is most grievously
@@ -5726,7 +5726,7 @@ and if injury results to his body, this is accidental. Hence this does not direc
 of gluttony, the guilt of which is nevertheless aggravated, if a man incur some bodily injury through
 taking too much food.
 
-<span class="atom-split" data-atom="123" data-title="Whether the species of gluttony are fittingly distinguished?" data-chapter="Whether the species of gluttony are fittingly distinguished?" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Whether the species of gluttony are fittingly distinguished?" data-chapter="Whether the species of gluttony are fittingly distinguished?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the species of gluttony are unfittingly distinguished by Gregory who
 says (Moral. xxx, 18): "The vice of gluttony tempts us in five ways. Sometimes it forestalls the
@@ -5774,7 +5774,7 @@ Reply to Objection 3: In all other vices, whenever different circumstances corre
 different motives, the difference of circumstances argues a specific difference of vice: but this does
 not apply to all circumstances, as stated above (FS, Q[72], A[9]).
 
-<span class="atom-split" data-atom="124" data-title="Whether gluttony is a capital vice?" data-chapter="Whether gluttony is a capital vice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="Whether gluttony is a capital vice?" data-chapter="Whether gluttony is a capital vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that gluttony is not a capital vice. For capital vices denote those
 whence, under the aspect of [final cause](/concepts/four_causes), other vices originate. Now food, which is the matter of
@@ -5821,7 +5821,7 @@ hand, that which is useful is desirable, not in itself, but as directed to somet
 seemingly in all useful things there is one aspect of desirability. Hence there is but one capital vice,
 in respect of such things.
 
-<span class="atom-split" data-atom="125" data-title="Whether six daughters are fittingly assigned to gluttony?" data-chapter="Whether six daughters are fittingly assigned to gluttony?" data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="Whether six daughters are fittingly assigned to gluttony?" data-chapter="Whether six daughters are fittingly assigned to gluttony?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that six daughters are unfittingly assigned to gluttony, to wit,
 "unseemly joy, scurrility, uncleanness, loquaciousness, and dullness of mind as regards the
@@ -5881,7 +5881,7 @@ vomiting as a remedy for sickness if the physician prescribes it.
 Reply to Objection 3: Scurrility proceeds from the act of gluttony, and not from the lustful
 act, but from the lustful will: wherefore it may be referred to either vice.
 
-<span class="atom-split" data-atom="126" data-title="OF SOBRIETY (FOUR ARTICLES)" data-chapter="OF SOBRIETY (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="OF SOBRIETY (FOUR ARTICLES)" data-chapter="OF SOBRIETY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider sobriety and the contrary vice, namely drunkenness. As regards sobriety
 there are four points of inquiry:
@@ -5890,7 +5890,7 @@ there are four points of inquiry:
 (3) Whether the use of wine is lawful?
 (4) To whom especially is sobriety becoming?
 
-<span class="atom-split" data-atom="127" data-title="Whether drink is the matter of sobriety?" data-chapter="Whether drink is the matter of sobriety?" data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="Whether drink is the matter of sobriety?" data-chapter="Whether drink is the matter of sobriety?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that drink is not the matter proper to sobriety. For it is written
 (Rom. 12:3): "Not to be more wise than it behooveth to be wise, but to be wise unto sobriety."
@@ -5941,7 +5941,7 @@ concerned with drink.
 Reply to Objection 3: Although a measure is needful in all things, sobriety is not properly
 employed in connection with all things, but only in those wherein there is most need for a measure.
 
-<span class="atom-split" data-atom="128" data-title="Whether sobriety is by itself a special virtue?" data-chapter="Whether sobriety is by itself a special virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Whether sobriety is by itself a special virtue?" data-chapter="Whether sobriety is by itself a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sobriety is not by itself a special virtue. For abstinence is
 concerned with both meat and drink. Now there is no special virtue about meat. Therefore neither
@@ -5978,7 +5978,7 @@ Reply to Objection 3: In all intoxicating drinks there is one kind of hindrance 
 reason: so that the difference of drinks bears an accidental relation to virtue. Hence this difference
 does not call for a difference of virtue. The same applies to the difference of meats.
 
-<span class="atom-split" data-atom="129" data-title="Whether the use of wine is altogether unlawful?" data-chapter="Whether the use of wine is altogether unlawful?" data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="Whether the use of wine is altogether unlawful?" data-chapter="Whether the use of wine is altogether unlawful?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the use of wine is altogether unlawful. For without wisdom,
 a man cannot be in [the state](/concepts/state) of salvation: since it is written (Wis. 7:28): "God loveth none but him
@@ -6022,7 +6022,7 @@ Reply to Objection 3: Christ withdraws us from some things as being altogether u
 from others as being obstacles to perfection. It is in the latter way that he withdraws some from the
 use of wine, that they may aim at perfection, even as from riches and the like.
 
-<span class="atom-split" data-atom="130" data-title="Whether sobriety is more requisite in persons of greater standing?" data-chapter="Whether sobriety is more requisite in persons of greater standing?" data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="Whether sobriety is more requisite in persons of greater standing?" data-chapter="Whether sobriety is more requisite in persons of greater standing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sobriety is more requisite in persons of greater standing. For
 old age gives a man a certain standing; wherefore honor and reverence are due to the old, according
@@ -6057,7 +6057,7 @@ vigorous in instructing others: to bishops and all ministers of the Church, who 
 spiritual duties with a devout mind; and to kings, who should rule their subjects with wisdom.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="131" data-title="OF DRUNKENNESS (FOUR ARTICLES)" data-chapter="OF DRUNKENNESS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="OF DRUNKENNESS (FOUR ARTICLES)" data-chapter="OF DRUNKENNESS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider drunkenness. Under this head there are four points of inquiry:
 (1) Whether drunkenness is a sin?
@@ -6065,7 +6065,7 @@ We must now consider drunkenness. Under this head there are four points of inqui
 (3) Whether it is the most grievous sin?
 (4) Whether it excuses from sin?
 
-<span class="atom-split" data-atom="132" data-title="Whether drunkenness is a sin?" data-chapter="Whether drunkenness is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="Whether drunkenness is a sin?" data-chapter="Whether drunkenness is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that drunkenness is not a sin. For every sin has a corresponding
 contrary sin, thus timidity is opposed to daring, and presumption to pusillanimity. But no sin is
@@ -6118,7 +6118,7 @@ are cured not by bitterness, severity, harshness, but by teaching rather than co
 rather than threats. Such is the course to be followed with the majority of sinners: few are they
 whose sins should be treated with severity."
 
-<span class="atom-split" data-atom="133" data-title="Whether drunkenness is a mortal sin?" data-chapter="Whether drunkenness is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Whether drunkenness is a mortal sin?" data-chapter="Whether drunkenness is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that drunkenness is not a mortal sin. For [Augustine](/figures/augustine) says in a sermon
 on Purgatory [*Serm. civ in the Appendix to St. Augustine's works] that "drunkenness if indulged
@@ -6177,7 +6177,7 @@ he is not to be deemed to have taken excessive meat or drink. There is, however,
 intoxicating drink in order to procure vomiting, since this is caused by drinking lukewarm water:
 wherefore this is no sufficient cause for excusing a man from drunkenness.
 
-<span class="atom-split" data-atom="134" data-title="Whether drunkenness is the gravest of sins?" data-chapter="Whether drunkenness is the gravest of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="Whether drunkenness is the gravest of sins?" data-chapter="Whether drunkenness is the gravest of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that drunkenness is the gravest of sins. For Chrysostom says (Hom.
 lviii in Matth.) that "nothing gains the devil's favor so much as drunkenness and lust, the mother
@@ -6216,7 +6216,7 @@ Reply to Objection 3: Drunkenness was the occasional cause of slavery, in so far
 brought the curse of slavery on to his descendants, for having laughed at his father when the latter
 was made drunk. But slavery was not the direct punishment of drunkenness.
 
-<span class="atom-split" data-atom="135" data-title="Whether drunkenness excuses from sin?" data-chapter="Whether drunkenness excuses from sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="Whether drunkenness excuses from sin?" data-chapter="Whether drunkenness excuses from sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that drunkenness does not excuse from sin. For the Philosopher
 says (Ethic. iii, 5) that "the drunkard deserves double punishment." Therefore drunkenness aggravates
@@ -6259,7 +6259,7 @@ Reply to Objection 3: Concupiscence does not altogether fetter the reason, as dr
 does, unless perchance it be so vehement as to make a man insane. Yet the passion of concupiscence
 diminishes sin, because it is less grievous to sin through weakness than through malice.
 
-<span class="atom-split" data-atom="136" data-title="OF CHASTITY (FOUR ARTICLES)" data-chapter="OF CHASTITY (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="OF CHASTITY (FOUR ARTICLES)" data-chapter="OF CHASTITY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider chastity: (1) The virtue itself of chastity: (2) virginity, which is a part
 of chastity: (3) lust, which is the contrary vice. Under the first head there are four points of inquiry:
@@ -6268,7 +6268,7 @@ of chastity: (3) lust, which is the contrary vice. Under the first head there ar
 (3) Whether it is a virtue distinct from abstinence?
 (4) Of its relation to purity.
 
-<span class="atom-split" data-atom="137" data-title="Whether chastity is a virtue?" data-chapter="Whether chastity is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="Whether chastity is a virtue?" data-chapter="Whether chastity is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that chastity is not a virtue. For here we are treating of virtues of
 the soul. But chastity, seemingly, belongs to the body: for a person is said to be chaste because he
@@ -6313,7 +6313,7 @@ from vices not by their functions," i.e. their acts, "but by their ends."
 Reply to Objection 4: Chastity is a virtue in so far as it works in accordance with reason, but
 in so far as it delights in its act, it is reckoned among the fruits.
 
-<span class="atom-split" data-atom="138" data-title="Whether chastity is a general virtue?" data-chapter="Whether chastity is a general virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="Whether chastity is a general virtue?" data-chapter="Whether chastity is a general virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that chastity is a general virtue. For [Augustine](/figures/augustine) says (De Mendacio
 xx) that "chastity of the mind is the well-ordered movement of the mind that does not prefer the
@@ -6360,7 +6360,7 @@ of strength of mind.
 Reply to Objection 3: This argument considers spiritual fornication metaphorically so called,
 which is opposed to spiritual chastity, as stated.
 
-<span class="atom-split" data-atom="139" data-title="Whether chastity is a distinct virtue from abstinence?" data-chapter="Whether chastity is a distinct virtue from abstinence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="Whether chastity is a distinct virtue from abstinence?" data-chapter="Whether chastity is a distinct virtue from abstinence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that chastity is not a distinct virtue from abstinence. Because where
 the matter is generically the same, one virtue suffices. Now it would seem that things pertaining to
@@ -6412,7 +6412,7 @@ though directed somewhat to venereal pleasures, are essentially directed to the 
 man's life: wherefore by their very nature they have a special virtue, although this virtue which is
 called abstinence directs its act to chastity as its end.
 
-<span class="atom-split" data-atom="140" data-title="Whether purity belongs especially to chastity?" data-chapter="Whether purity belongs especially to chastity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="Whether purity belongs especially to chastity?" data-chapter="Whether purity belongs especially to chastity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that purity does not belong especially to chastity. For [Augustine](/figures/augustine)
 says (De Civ. Dei i, 18) that "purity is a virtue of the soul." Therefore it is not something belonging
@@ -6453,7 +6453,7 @@ Reply to Objection 3: Among the vices of intemperance, venereal sins are most de
 reproach, both on account of the insubordination of the genital organs, and because by these sins
 especially, the reason is absorbed.
 
-<span class="atom-split" data-atom="141" data-title="OF VIRGINITY (FIVE ARTICLES)" data-chapter="OF VIRGINITY (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="OF VIRGINITY (FIVE ARTICLES)" data-chapter="OF VIRGINITY (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider virginity: and under this head there are five points of inquiry:
 (1) In what does virginity consist?
@@ -6462,7 +6462,7 @@ We must now consider virginity: and under this head there are five points of inq
 (4) Of its excellence in comparison with marriage;
 (5) Of its excellence in comparison with the other virtues.
 
-<span class="atom-split" data-atom="142" data-title="Whether virginity consists in integrity of the flesh?" data-chapter="Whether virginity consists in integrity of the flesh?" data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="Whether virginity consists in integrity of the flesh?" data-chapter="Whether virginity consists in integrity of the flesh?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virginity does not consist in integrity of the flesh. For [Augustine](/figures/augustine)
 says (De Nup. et Concup.) [*The quotation is from De Sancta Virgin. xiii] that "virginity is the
@@ -6533,7 +6533,7 @@ again through weakness of nature, as in the case of those who are subject to a f
 such cases virginity is not forfeit, because such like pollution is not the result of impurity which
 excludes virginity.
 
-<span class="atom-split" data-atom="143" data-title="Whether virginity is unlawful?" data-chapter="Whether virginity is unlawful?" data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="Whether virginity is unlawful?" data-chapter="Whether virginity is unlawful?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virginity is unlawful. For whatever is contrary to a precept of
 the [natural law](/positions/natural_law) is unlawful. Now just as the words of Gn. 2:16, "Of every tree" that is in "paradise,
@@ -6607,7 +6607,7 @@ the contemplation of truth: as Plato alone is related to have done. Hence it was
 this a sin, that he offered sacrifice, but "because he yielded to the false opinion of his fellow
 countrymen," as Augustine remarks (De Vera Relig. iii).
 
-<span class="atom-split" data-atom="144" data-title="Whether virginity is a virtue?" data-chapter="Whether virginity is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="144" data-title="Whether virginity is a virtue?" data-chapter="Whether virginity is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virginity is not a virtue. For "no virtue is in us by nature," as
 the Philosopher says (Ethic. ii, 1). Now virginity is in us by nature, since all are virgins when born.
@@ -6683,7 +6683,7 @@ matter, namely to entire freedom from venereal pleasure; virginity alone achieve
 virginity alone is accounted a virtue above chastity, even as magnificence is reckoned above
 liberality.
 
-<span class="atom-split" data-atom="145" data-title="Whether virginity is more excellent than marriage?" data-chapter="Whether virginity is more excellent than marriage?" data-kind="atom"></span>
+<span class="atom-split" data-atom="145" data-title="Whether virginity is more excellent than marriage?" data-chapter="Whether virginity is more excellent than marriage?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virginity is not more excellent than marriage. For [Augustine](/figures/augustine)
 says (De Bono Conjug. xxi): "Continence was equally meritorious in John who remained unmarried
@@ -6746,7 +6746,7 @@ is consecrated to God is preferable to carnal fruitfulness. Hence Augustine says
 seek naught else from marriage but children in order to make them servants of Christ, cannot
 compensate for lost virginity."
 
-<span class="atom-split" data-atom="146" data-title="Whether virginity is the greatest of virtues?" data-chapter="Whether virginity is the greatest of virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="146" data-title="Whether virginity is the greatest of virtues?" data-chapter="Whether virginity is the greatest of virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virginity is the greatest of virtues. For Cyprian says (De Virgin.
 [*De Habitu Virg.]): "We address ourselves now to the virgins. [Sublime](/concepts/sublime) is their glory, but no less
@@ -6800,7 +6800,7 @@ Wherefore they follow the Lamb in more ways, but this does not imply that they f
 closely, because other virtues make us cleave to God more closely by imitation of the mind. The
 "new hymn" which virgins alone sing, is their joy at having preserved integrity of the flesh.
 
-<span class="atom-split" data-atom="147" data-title="OF LUST (FIVE ARTICLES)" data-chapter="OF LUST (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="147" data-title="OF LUST (FIVE ARTICLES)" data-chapter="OF LUST (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the vice of lust which is opposed to chastity: (1) Lust in general; (2) its
 species. Under the first head there are five points of inquiry:
@@ -6810,7 +6810,7 @@ species. Under the first head there are five points of inquiry:
 (4) Whether lust is a capital vice?
 (5) Concerning its daughters.
 
-<span class="atom-split" data-atom="148" data-title="Whether the matter of lust is only venereal desires and pleasures?" data-chapter="Whether the matter of lust is only venereal desires and pleasures?" data-kind="atom"></span>
+<span class="atom-split" data-atom="148" data-title="Whether the matter of lust is only venereal desires and pleasures?" data-chapter="Whether the matter of lust is only venereal desires and pleasures?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the matter of lust is not only venereal desires and pleasures.
 For [Augustine](/figures/augustine) says (Confess. ii, 6) that "lust affects to be called surfeit and abundance." But surfeit
@@ -6847,7 +6847,7 @@ Reply to Objection 3: Although wanton pleasure applies to other matters, the nam
 a special application to venereal pleasures, to which also wantonness is specially applicable, as
 Augustine remarks (De Civ. xiv, 15,16).
 
-<span class="atom-split" data-atom="149" data-title="Whether no venereal act can be without sin?" data-chapter="Whether no venereal act can be without sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="149" data-title="Whether no venereal act can be without sin?" data-chapter="Whether no venereal act can be without sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no venereal act can be without sin. For nothing but sin would
 seem to hinder virtue. Now every venereal act is a great hindrance to virtue. For [Augustine](/figures/augustine) says
@@ -6910,7 +6910,7 @@ original sin, is born of fleshly concupiscence (which is not imputed as sin to t
 a daughter of sin." Hence it does not follow that the act in question is a sin, but that it contains
 something penal resulting from the first sin.
 
-<span class="atom-split" data-atom="150" data-title="Whether the lust that is about venereal acts can be a sin?" data-chapter="Whether the lust that is about venereal acts can be a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="150" data-title="Whether the lust that is about venereal acts can be a sin?" data-chapter="Whether the lust that is about venereal acts can be a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that lust about venereal acts cannot be a sin. For the venereal act
 consists in the emission of semen which is the surplus from food, according to the Philosopher (De
@@ -6955,7 +6955,7 @@ Reply to Objection 3: The opposite of lust is not found in many, since men are m
 to pleasure. Yet the contrary vice is comprised under insensibility, and occurs in one who has such
 a dislike for sexual intercourse as not to pay the marriage debt.
 
-<span class="atom-split" data-atom="151" data-title="Whether lust is a capital vice?" data-chapter="Whether lust is a capital vice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="151" data-title="Whether lust is a capital vice?" data-chapter="Whether lust is a capital vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that lust is not a capital vice. For lust is apparently the same as
 "uncleanness," according to a gloss on Eph. 5:3 (Cf. 2 Cor. 12:21). But uncleanness is a daughter
@@ -6992,7 +6992,7 @@ Reply to Objection 3: Certain persons refrain from lustful pleasures chiefly thr
 the glory to come, which hope is removed by despair, so that the latter is a cause of lust, as removing
 an obstacle thereto, not as its direct cause; whereas this is seemingly necessary for a capital vice.
 
-<span class="atom-split" data-atom="152" data-title="Whether the daughters of lust are fittingly described?" data-chapter="Whether the daughters of lust are fittingly described?" data-kind="atom"></span>
+<span class="atom-split" data-atom="152" data-title="Whether the daughters of lust are fittingly described?" data-chapter="Whether the daughters of lust are fittingly described?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the daughters of lust are unfittingly reckoned to be "blindness
 of mind, thoughtlessness, inconstancy, rashness, self-love, hatred of God, love of this world and
@@ -7071,7 +7071,7 @@ account of the sentiments expressed by his words, for through causing blindness 
 perverts a man's sentiments, and so he gives way "to foolish talking," for instance, by expressing
 a preference for the pleasures he desires to anything else.
 
-<span class="atom-split" data-atom="153" data-title="OF THE PARTS OF LUST (TWELVE ARTICLES)" data-chapter="OF THE PARTS OF LUST (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="153" data-title="OF THE PARTS OF LUST (TWELVE ARTICLES)" data-chapter="OF THE PARTS OF LUST (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the parts of lust, under which head there are twelve points of inquiry:
 (1) Into what parts is lust divided?
@@ -7087,7 +7087,7 @@ We must now consider the parts of lust, under which head there are twelve points
 (11) Of the sin against nature;
 (12) Of the order of gravity in the aforesaid sins.
 
-<span class="atom-split" data-atom="154" data-title="Whether six species are fittingly assigned to lust?" data-chapter="Whether six species are fittingly assigned to lust?" data-kind="atom"></span>
+<span class="atom-split" data-atom="154" data-title="Whether six species are fittingly assigned to lust?" data-chapter="Whether six species are fittingly assigned to lust?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that six species are unfittingly assigned to lust, namely, "simple
 fornication, adultery, incest, seduction, rape, and the unnatural vice." For diversity of matter does
@@ -7171,7 +7171,7 @@ venereal act, for instance kisses, touches, and so forth.
 Reply to Objection 6: According to a gloss on this passage "lust" there signifies any kind of
 excess.
 
-<span class="atom-split" data-atom="155" data-title="Whether simple fornication is a mortal sin? (1/2)" data-chapter="Whether simple fornication is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="155" data-title="Whether simple fornication is a mortal sin? (1/2)" data-chapter="Whether simple fornication is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that simple fornication is not a mortal sin. For things that come
 under the same head would seem to be on a par with one another. Now fornication comes under
@@ -7277,7 +7277,7 @@ Reply to Objection 3: Abraham and Jacob went in to their handmaidens with no pur
 fornication, as we shall show further on when we treat of matrimony (XP, Q[65], A[5], ad 2). As
 to Juda there is no need to excuse him, for he also caused Joseph to be sold.
 
-<span class="atom-split" data-atom="156" data-title="Whether simple fornication is a mortal sin? (2/2)" data-chapter="Whether simple fornication is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="156" data-title="Whether simple fornication is a mortal sin? (2/2)" data-chapter="Whether simple fornication is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Simple fornication is contrary to the love of our neighbor, because it is
 opposed to the good of the child to be born, as we have shown, since it is an act of generation
@@ -7297,7 +7297,7 @@ would alter the whole condition of his life, as was the case with Adam.
 Nor is it true that fornication is the least of the sins comprised under lust, for the marriage act
 that is done out of sensuous pleasure is a lesser sin.
 
-<span class="atom-split" data-atom="157" data-title="Whether fornication is the most grievous of sins?" data-chapter="Whether fornication is the most grievous of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="157" data-title="Whether fornication is the most grievous of sins?" data-chapter="Whether fornication is the most grievous of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that fornication is the most grievous of sins. For seemingly a sin
 is the more grievous according as it proceeds from a greater sensuous pleasure. Now the greatest
@@ -7356,7 +7356,7 @@ just as the members of our body are Christ's members, so too, our spirit is one 
 to 1 Cor. 6:17, "He who is joined to the Lord is one spirit." Wherefore also spiritual sins are more
 against Christ than fornication is.
 
-<span class="atom-split" data-atom="158" data-title="Whether there can be mortal sin in touches and kisses?" data-chapter="Whether there can be mortal sin in touches and kisses?" data-kind="atom"></span>
+<span class="atom-split" data-atom="158" data-title="Whether there can be mortal sin in touches and kisses?" data-chapter="Whether there can be mortal sin in touches and kisses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no mortal sin in touches and kisses. For the Apostle
 says (Eph. 5:3): "Fornication and all uncleanness, or covetousness, let it not so much as be named
@@ -7404,7 +7404,7 @@ account they are mortally sinful.
 
 Reply to Objection 3: This argument proves that such things are not mortal sins in their species.
 
-<span class="atom-split" data-atom="159" data-title="Whether nocturnal pollution is a mortal sin?" data-chapter="Whether nocturnal pollution is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="159" data-title="Whether nocturnal pollution is a mortal sin?" data-chapter="Whether nocturnal pollution is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that nocturnal pollution is a sin. For the same things are the matter
 of merit and demerit. Now a man may merit while he sleeps, as was the case with Solomon, who
@@ -7488,7 +7488,7 @@ principles of human thought. Hence nothing hinders man's reason during sleep fro
 anew something arising out of the traces left by his previous thoughts and phantasms presented to
 him, or again through Divine [revelation](/concepts/revelation), or the interference of a good or bad angel.
 
-<span class="atom-split" data-atom="160" data-title="Whether seduction should be reckoned a species of lust?" data-chapter="Whether seduction should be reckoned a species of lust?" data-kind="atom"></span>
+<span class="atom-split" data-atom="160" data-title="Whether seduction should be reckoned a species of lust?" data-chapter="Whether seduction should be reckoned a species of lust?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that seduction should not be reckoned a species of lust. For seduction
 denotes the unlawful violation of a virgin, according to the Decretals (XXXVI, qu. 1) [*Append.
@@ -7549,7 +7549,7 @@ give to the father of the maid fifty sicles of silver, and shall have her to wif
 humbled her, he may not put her away all the days of his life": and this, lest he should prove to
 have married her in mockery, as [Augustine](/figures/augustine) observes. [*QQ. in Dt., qu. xxxiv.]
 
-<span class="atom-split" data-atom="161" data-title="Whether rape is a species of lust, distinct from seduction?" data-chapter="Whether rape is a species of lust, distinct from seduction?" data-kind="atom"></span>
+<span class="atom-split" data-atom="161" data-title="Whether rape is a species of lust, distinct from seduction?" data-chapter="Whether rape is a species of lust, distinct from seduction?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that rape is not a species of lust, distinct from seduction. For Isidore
 says (Etym. v, 26) that "seduction [stuprum], or rape, properly speaking, is unlawful intercourse,
@@ -7621,7 +7621,7 @@ Hence Pope Gelasius says [*Can. Lex illa, xxvii, qu. 2; xxxvi, qu. 1]: "This law
 stated that rape was committed when a maiden, with regard to whose marriage nothing had so far
 been decided, was taken away by force."
 
-<span class="atom-split" data-atom="162" data-title="Whether adultery is determinate species of lust, distinct from the other species?" data-chapter="Whether adultery is determinate species of lust, distinct from the other species?" data-kind="atom"></span>
+<span class="atom-split" data-atom="162" data-title="Whether adultery is determinate species of lust, distinct from the other species?" data-chapter="Whether adultery is determinate species of lust, distinct from the other species?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that adultery is not a determinate species of lust, distinct from the
 other species. For adultery takes its name from a man having intercourse "with a woman who is
@@ -7683,7 +7683,7 @@ Hence the sin of adultery is contrary to the good of marriage in one way, and th
 in another; wherefore they are reckoned to differ specifically. Of other matters concerning adultery
 we shall speak in the Third Part [*XP, Q[59], A[3]; XP, QQ[60],62], when we treat of matrimony.
 
-<span class="atom-split" data-atom="163" data-title="Whether incest is a determinate species of lust?" data-chapter="Whether incest is a determinate species of lust?" data-kind="atom"></span>
+<span class="atom-split" data-atom="163" data-title="Whether incest is a determinate species of lust?" data-chapter="Whether incest is a determinate species of lust?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that incest is not a determinate species of lust. For incest [*'Incestus'
 is equivalent to 'in-castus = 'unchaste'] takes its name from being a privation of chastity. But all
@@ -7755,7 +7755,7 @@ to the common good, is subject to law. Wherefore, as Augustine says (De Civ. Dei
 the union of brothers and sisters goes back to olden times, it became all the more worthy of
 condemnation when religion forbade it.
 
-<span class="atom-split" data-atom="164" data-title="Whether sacrilege can be a species of lust?" data-chapter="Whether sacrilege can be a species of lust?" data-kind="atom"></span>
+<span class="atom-split" data-atom="164" data-title="Whether sacrilege can be a species of lust?" data-chapter="Whether sacrilege can be a species of lust?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sacrilege cannot be a species of lust. For the same species is
 not contained under different genera that are not subalternated to one another. Now sacrilege is a
@@ -7806,7 +7806,7 @@ may commit a sacrilege by partaking gluttonously of sacred food. Nevertheless, s
 more specially to lust which is opposed to chastity for the observance of which certain persons are
 specially consecrated.
 
-<span class="atom-split" data-atom="165" data-title="Whether the unnatural vice is a species of lust?" data-chapter="Whether the unnatural vice is a species of lust?" data-kind="atom"></span>
+<span class="atom-split" data-atom="165" data-title="Whether the unnatural vice is a species of lust?" data-chapter="Whether the unnatural vice is a species of lust?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the unnatural vice is not a species of lust. For no mention of
 the vice against nature is made in the enumeration given above (A[1], OBJ[1]). Therefore it is not
@@ -7846,7 +7846,7 @@ Reply to Objection 3: The lustful man intends not human generation but venereal 
 It is possible to have this without those acts from which human generation follows: and it is that
 which is sought in the unnatural vice.
 
-<span class="atom-split" data-atom="166" data-title="Whether the unnatural vice is the greatest sin among the species of lust?" data-chapter="Whether the unnatural vice is the greatest sin among the species of lust?" data-kind="atom"></span>
+<span class="atom-split" data-atom="166" data-title="Whether the unnatural vice is the greatest sin among the species of lust?" data-chapter="Whether the unnatural vice is the greatest sin among the species of lust?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the unnatural vice is not the greatest sin among the species of
 lust. For the more a sin is contrary to charity the graver it is. Now adultery, seduction and rape
@@ -7920,7 +7920,7 @@ After this comes the sin of sodomy, because use of the right sex is not observed
 sin of not observing the right manner of copulation, which is more grievous if the abuse regards
 the "vas" than if it affects the manner of copulation in respect of other circumstances.
 
-<span class="atom-split" data-atom="167" data-title="OF CONTINENCE (FOUR ARTICLES)" data-chapter="OF CONTINENCE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="167" data-title="OF CONTINENCE (FOUR ARTICLES)" data-chapter="OF CONTINENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the potential parts of temperance: (1) continence; (2) clemency; (3)
 modesty. Under the first head we must consider continence and incontinence. With regard to
@@ -7930,7 +7930,7 @@ continence there are four points of inquiry:
 (3) What is its subject?
 (4) Of its comparison with temperance.
 
-<span class="atom-split" data-atom="168" data-title="Whether continence is a virtue?" data-chapter="Whether continence is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="168" data-title="Whether continence is a virtue?" data-chapter="Whether continence is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that continence is not a virtue. For species and genus are not
 co-ordinate members of the same division. But continence is co-ordinated with virtue, according
@@ -7981,7 +7981,7 @@ Reply to Objection 3: The gloss quoted takes continence in the first sense, as d
 virtue, which refrains not merely from unlawful goods, but also from certain lawful things that are
 lesser goods, in order to give its whole attention to the more perfect goods.
 
-<span class="atom-split" data-atom="169" data-title="Whether desires for pleasures of touch are the matter of continence?" data-chapter="Whether desires for pleasures of touch are the matter of continence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="169" data-title="Whether desires for pleasures of touch are the matter of continence?" data-chapter="Whether desires for pleasures of touch are the matter of continence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that desires for pleasures of touch are not the matter of continence.
 For Ambrose says (De Offic. i, 46): "General decorum by its consistent form and the perfection of
@@ -8008,7 +8008,7 @@ Objection 5: Further, among pleasures of touch some are not human but bestial, b
 food---for instance, the pleasure of eating human flesh; and as regards venereal matters---for instance
 the abuse of animals or boys. But continence is not about such like things, as stated in Ethic. vii,
 
-<span class="atom-split" data-atom="170" data-title="5. Therefore desires for pleasures of touch are not the proper matter of continence." data-chapter="5. Therefore desires for pleasures of touch are not the proper matter of continence." data-kind="atom"></span>
+<span class="atom-split" data-atom="170" data-title="5. Therefore desires for pleasures of touch are not the proper matter of continence." data-chapter="5. Therefore desires for pleasures of touch are not the proper matter of continence." data-kind="atom" data-srclang="en"></span>
 
 On the contrary, The Philosopher says (Ethic. vii, 4) that "continence and incontinence are
 about the same things as temperance and intemperance." Now temperance and intemperance are
@@ -8057,7 +8057,7 @@ passions which can be connatural to man. Hence the Philosopher says (Ethic. vii,
 were to lay hold of a child with desire of eating him or of satisfying an unnatural passion whether
 he follow up his desire or not, he is said to be continent [*See A[4]], not absolutely, but relatively."
 
-<span class="atom-split" data-atom="171" data-title="Whether the subject of continence is the concupiscible power?" data-chapter="Whether the subject of continence is the concupiscible power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="171" data-title="Whether the subject of continence is the concupiscible power?" data-chapter="Whether the subject of continence is the concupiscible power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the subject of continence is the concupiscible power. For the
 subject of a virtue should be proportionate to the virtue's matter. Now the matter of continence, as
@@ -8107,7 +8107,7 @@ subject.
 Reply to Objection 3: Although the passions are not in the will as their subject, yet it is in the
 power of the will to resist them: thus it is that the will of the continent man resists desires.
 
-<span class="atom-split" data-atom="172" data-title="Whether continence is better than temperance?" data-chapter="Whether continence is better than temperance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="172" data-title="Whether continence is better than temperance?" data-chapter="Whether continence is better than temperance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that continence is better than temperance. For it is written (Ecclus.
 26:20): "No price is worthy of a continent soul." Therefore no virtue can be equalled to continence.
@@ -8161,7 +8161,7 @@ Wherefore the good of reason---on account of which virtue is praised by the very
 not only to the will but also to the concupiscible power, as happens in the temperate man---is shown
 to be greater than if it reach only to the will, as in the case of one who is continent.
 
-<span class="atom-split" data-atom="173" data-title="OF INCONTINENCE (FOUR ARTICLES)" data-chapter="OF INCONTINENCE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="173" data-title="OF INCONTINENCE (FOUR ARTICLES)" data-chapter="OF INCONTINENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider incontinence: and under this head there are four points of inquiry:
 (1) Whether incontinence pertains to the soul or to the body?
@@ -8169,7 +8169,7 @@ We must now consider incontinence: and under this head there are four points of 
 (3) The comparison between incontinence and intemperance;
 (4) Which is the worse, incontinence in [anger](/concepts/anger), or incontinence in desire?
 
-<span class="atom-split" data-atom="174" data-title="Whether incontinence pertains to the soul or to the body?" data-chapter="Whether incontinence pertains to the soul or to the body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="174" data-title="Whether incontinence pertains to the soul or to the body?" data-chapter="Whether incontinence pertains to the soul or to the body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that incontinence pertains not to the soul but to the body. For sexual
 diversity comes not from the soul but from the body. Now sexual diversity causes diversity of
@@ -8232,7 +8232,7 @@ incontinence, as stated above.
 Reply to Objection 3: In the incontinent man concupiscence of the flesh overcomes the spirit,
 not necessarily, but through a certain negligence of the spirit in not resisting strongly.
 
-<span class="atom-split" data-atom="175" data-title="Whether incontinence is a sin?" data-chapter="Whether incontinence is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="175" data-title="Whether incontinence is a sin?" data-chapter="Whether incontinence is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that incontinence is not a sin. For as [Augustine](/figures/augustine) says (De Lib. Arb.
 iii, 18): "No man sins in what he cannot avoid." Now no man can by himself avoid incontinence,
@@ -8281,7 +8281,7 @@ not standing firm in resisting the passion by holding to the judgment formed by 
 
 Reply to Objection 3: This argument takes incontinence metaphorically and not properly.
 
-<span class="atom-split" data-atom="176" data-title="Whether the incontinent man sins more gravely than the intemperate?" data-chapter="Whether the incontinent man sins more gravely than the intemperate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="176" data-title="Whether the incontinent man sins more gravely than the intemperate?" data-chapter="Whether the incontinent man sins more gravely than the intemperate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the incontinent man sins more gravely than the intemperate.
 For, seemingly, the more a man acts against his conscience, the more gravely he sins, according to
@@ -8362,7 +8362,7 @@ concupiscence and sometimes forestalls it. Hence the Philosopher says (Ethic. vi
 more the intemperate man, "because he pursues pleasure without desiring it or with calm," i.e.
 slight desire. "For what would he have done if he had desired it with passion?"
 
-<span class="atom-split" data-atom="177" data-title="Whether the incontinent in anger is worse than the incontinent in desire?" data-chapter="Whether the incontinent in anger is worse than the incontinent in desire?" data-kind="atom"></span>
+<span class="atom-split" data-atom="177" data-title="Whether the incontinent in anger is worse than the incontinent in desire?" data-chapter="Whether the incontinent in anger is worse than the incontinent in desire?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the incontinent in [anger](/concepts/anger) is worse than the incontinent in desire.
 For the more difficult it is to resist the passion, the less grievous, apparently is incontinence:
@@ -8417,7 +8417,7 @@ for this reason it is more disgraceful.
 
 Reply to Objection 3: This argument considers incontinence with regard to its result.
 
-<span class="atom-split" data-atom="178" data-title="OF CLEMENCY AND MEEKNESS (FOUR ARTICLES)" data-chapter="OF CLEMENCY AND MEEKNESS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="178" data-title="OF CLEMENCY AND MEEKNESS (FOUR ARTICLES)" data-chapter="OF CLEMENCY AND MEEKNESS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider clemency and meekness, and the contrary vices. Concerning the virtues
 themselves there are four points of inquiry:
@@ -8426,7 +8426,7 @@ themselves there are four points of inquiry:
 (3) Whether each is a part of temperance?
 (4) Of their comparison with the other virtues.
 
-<span class="atom-split" data-atom="179" data-title="Whether clemency and meekness are absolutely the same?" data-chapter="Whether clemency and meekness are absolutely the same?" data-kind="atom"></span>
+<span class="atom-split" data-atom="179" data-title="Whether clemency and meekness are absolutely the same?" data-chapter="Whether clemency and meekness are absolutely the same?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that clemency and meekness are absolutely the same. For meekness
 moderates [anger](/concepts/anger), according to the Philosopher (Ethic. iv, 5). Now anger is "desire of vengeance"
@@ -8479,7 +8479,7 @@ cruel who have reason for punishing, but lack moderation in punishing." Those wh
 man's punishment for its own sake may be called savage or brutal, as though lacking the human
 feeling that leads one man to love another.
 
-<span class="atom-split" data-atom="180" data-title="Whether both clemency and meekness are virtues?" data-chapter="Whether both clemency and meekness are virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="180" data-title="Whether both clemency and meekness are virtues?" data-chapter="Whether both clemency and meekness are virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that neither clemency nor meekness is a virtue. For no virtue is
 opposed to another virtue. Yet both of these are apparently opposed to severity, which is a virtue.
@@ -8530,7 +8530,7 @@ clemency differs from equity, as we shall state further on (A[3], ad 1).
 Reply to Objection 3: The beatitudes are acts of virtue: while the fruits are delights in virtuous
 acts. Wherefore nothing hinders meekness being reckoned both virtue, and [beatitude](/positions/beatitude) and fruit.
 
-<span class="atom-split" data-atom="181" data-title="Whether the aforesaid virtues are parts of temperance?" data-chapter="Whether the aforesaid virtues are parts of temperance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="181" data-title="Whether the aforesaid virtues are parts of temperance?" data-chapter="Whether the aforesaid virtues are parts of temperance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the aforesaid virtues are not parts of temperance. For clemency
 mitigates punishment, as stated above (A[2]). But the Philosopher (Ethic. v, 10) ascribes this to
@@ -8584,7 +8584,7 @@ to prudence. But that a man who takes pleasure in the punishment of others is sa
 mind, is because he seems on this account to be devoid of the humane feeling which gives rise to
 clemency.
 
-<span class="atom-split" data-atom="182" data-title="Whether clemency and meekness are the greatest virtues?" data-chapter="Whether clemency and meekness are the greatest virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="182" data-title="Whether clemency and meekness are the greatest virtues?" data-chapter="Whether clemency and meekness are the greatest virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that clemency and meekness are the greatest virtues. For virtue is
 deserving of praise chiefly because it directs man to happiness that consists in the knowledge of
@@ -8650,7 +8650,7 @@ as one looks upon it as affecting oneself, as stated above (Q[30], A[2]): and th
 removing anger that urges to vengeance, and clemency does this through leniency of soul, in so far
 as it judges equitable that a person be no further punished.
 
-<span class="atom-split" data-atom="183" data-title="OF ANGER (EIGHT ARTICLES)" data-chapter="OF ANGER (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="183" data-title="OF ANGER (EIGHT ARTICLES)" data-chapter="OF ANGER (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the contrary vices: (1) [Anger](/concepts/anger) that is opposed to meekness; (2) Cruelty
 that is opposed to clemency. Concerning anger there are eight points of inquiry:
@@ -8663,7 +8663,7 @@ that is opposed to clemency. Concerning anger there are eight points of inquiry:
 (7) Of its daughters;
 (8) Whether it has a contrary vice?
 
-<span class="atom-split" data-atom="184" data-title="Whether it is lawful to be angry?" data-chapter="Whether it is lawful to be angry?" data-kind="atom"></span>
+<span class="atom-split" data-atom="184" data-title="Whether it is lawful to be angry?" data-chapter="Whether it is lawful to be angry?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it cannot be lawful to be angry. For Jerome in his exposition
 on Mat. 5:22, "Whosoever is angry with his brother," etc. says: "Some codices add 'without cause.'
@@ -8736,7 +8736,7 @@ be altogether likened to Him in the mode of our desire, since in God there is no
 as in us, the movement of which has to obey reason. Wherefore Gregory says (Moral. v, 45) that
 "anger is more firmly erect in withstanding vice, when it bows to the command of reason."
 
-<span class="atom-split" data-atom="185" data-title="Whether anger is a sin?" data-chapter="Whether anger is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="185" data-title="Whether anger is a sin?" data-chapter="Whether anger is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is not a sin. For we demerit by sinning. But "we do not
 demerit by the passions, even as neither do we incur blame thereby," as stated in Ethic. ii, 5.
@@ -8798,7 +8798,7 @@ Reply to Objection 4: The irascible power in man is naturally subject to his rea
 its act is natural to man, in so far as it is in accord with reason, and in so far as it is against reason,
 it is contrary to man's nature.
 
-<span class="atom-split" data-atom="186" data-title="Whether all anger is a mortal sin?" data-chapter="Whether all anger is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="186" data-title="Whether all anger is a mortal sin?" data-chapter="Whether all anger is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all [anger](/concepts/anger) is a mortal sin. For it is written (Job 5:2): "Anger
 killeth the foolish man [*Vulg.: 'Anger indeed killeth the foolish']," and he speaks of the spiritual
@@ -8846,7 +8846,7 @@ mortal sin.
 Reply to Objection 3: In the case where anger is contrary to charity, it is a mortal sin, but it is
 not always so, as appears from what we have said.
 
-<span class="atom-split" data-atom="187" data-title="Whether anger is the most grievous sin?" data-chapter="Whether anger is the most grievous sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="187" data-title="Whether anger is the most grievous sin?" data-chapter="Whether anger is the most grievous sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) is the most grievous sin. For Chrysostom says [*Hom.
 xlviii in Joan.] that "nothing is more repulsive than the look of an angry man, and nothing uglier
@@ -8900,7 +8900,7 @@ from its impetuousness, as stated above.
 Reply to Objection 3: Murder results from hatred and envy no less than from anger: yet anger
 is less grievous, inasmuch as it considers the aspect of justice, as stated above.
 
-<span class="atom-split" data-atom="188" data-title="Whether the Philosopher suitably assigns the species of anger?" data-chapter="Whether the Philosopher suitably assigns the species of anger?" data-kind="atom"></span>
+<span class="atom-split" data-atom="188" data-title="Whether the Philosopher suitably assigns the species of anger?" data-chapter="Whether the Philosopher suitably assigns the species of anger?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the species of [anger](/concepts/anger) are unsuitably assigned by the Philosopher
 (Ethic. iv, 5) where he says that some angry persons are "choleric," some "sullen," and some
@@ -8972,7 +8972,7 @@ delivered, there is an opportunity for defense": in the second case "council" is
 the judges deliberate together on the punishment to be inflicted": to the third case is assigned
 "hell-fire," i.e. "decisive condemnation."
 
-<span class="atom-split" data-atom="189" data-title="Whether anger should be reckoned among the capital vices?" data-chapter="Whether anger should be reckoned among the capital vices?" data-kind="atom"></span>
+<span class="atom-split" data-atom="189" data-title="Whether anger should be reckoned among the capital vices?" data-chapter="Whether anger should be reckoned among the capital vices?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [anger](/concepts/anger) should not be reckoned among the capital sins. For anger
 is born of sorrow which is a capital vice known by the name of sloth. Therefore anger should not
@@ -9011,7 +9011,7 @@ Reply to Objection 3: Anger is stated to be the door to the vices accidentally, 
 obstacles, to wit by hindering the judgment of reason, whereby man is withdrawn from evil. It is,
 however, directly the cause of certain special sins, which are called its daughters.
 
-<span class="atom-split" data-atom="190" data-title="Whether six daughters are fittingly assigned to anger?" data-chapter="Whether six daughters are fittingly assigned to anger?" data-kind="atom"></span>
+<span class="atom-split" data-atom="190" data-title="Whether six daughters are fittingly assigned to anger?" data-chapter="Whether six daughters are fittingly assigned to anger?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that six daughters are unfittingly assigned to [anger](/concepts/anger), namely
 "quarreling, swelling of the mind, contumely, clamor, indignation and blasphemy." For blasphemy
@@ -9055,7 +9055,7 @@ Wherefore it was fitting to reckon that hatred arises from sloth rather than fro
 Reply to Objection 3: Swelling of the mind is not taken here as identical with pride, but for a
 certain effort or daring attempt to take vengeance; and daring is a vice opposed to fortitude.
 
-<span class="atom-split" data-atom="191" data-title="Whether there is a vice opposed to anger resulting from lack of anger?" data-chapter="Whether there is a vice opposed to anger resulting from lack of anger?" data-kind="atom"></span>
+<span class="atom-split" data-atom="191" data-title="Whether there is a vice opposed to anger resulting from lack of anger?" data-chapter="Whether there is a vice opposed to anger resulting from lack of anger?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there. is not a vice opposed to [anger](/concepts/anger), resulting from lack of
 anger. For no vice makes us like to God. Now by being entirely without anger, a man becomes like
@@ -9102,13 +9102,13 @@ only of the simple movement of the will but also of the passion in the sensitive
 above. Wherefore just as the removal of the effect is a sign that the cause is removed, so the lack
 of anger is a sign that the judgment of reason is lacking.
 
-<span class="atom-split" data-atom="192" data-title="OF CRUELTY (TWO ARTICLES)" data-chapter="OF CRUELTY (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="192" data-title="OF CRUELTY (TWO ARTICLES)" data-chapter="OF CRUELTY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider cruelty, under which head there are two points of inquiry:
 (1) Whether cruelty is opposed to clemency?
 (2) Of its comparison with savagery or brutality.
 
-<span class="atom-split" data-atom="193" data-title="Whether cruelty is opposed to clemency?" data-chapter="Whether cruelty is opposed to clemency?" data-kind="atom"></span>
+<span class="atom-split" data-atom="193" data-title="Whether cruelty is opposed to clemency?" data-chapter="Whether cruelty is opposed to clemency?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that cruelty is not opposed to clemency. For Seneca says (De
 Clementia ii, 4) that "those are said to be cruel who exceed in punishing," which is contrary to
@@ -9147,7 +9147,7 @@ likeness of these virtues, cruelty is sometimes taken for mercilessness.
 Reply to Objection 3: Cruelty is there taken for mercilessness, which is lack of beneficence.
 We may also reply that withdrawal of beneficence is in itself a punishment.
 
-<span class="atom-split" data-atom="194" data-title="Whether cruelty differs from savagery or brutality?" data-chapter="Whether cruelty differs from savagery or brutality?" data-kind="atom"></span>
+<span class="atom-split" data-atom="194" data-title="Whether cruelty differs from savagery or brutality?" data-chapter="Whether cruelty differs from savagery or brutality?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that cruelty differs not from savagery or brutality. For seemingly
 one vice is opposed in one way to one virtue. Now both savagery and cruelty are opposed to
@@ -9196,14 +9196,14 @@ justice, which requires a man to be punished on account of his offense, and whic
 On the other hand, cruelty disregards this order altogether. Wherefore remission of punishment is
 opposed to cruelty, but not to savagery.
 
-<span class="atom-split" data-atom="195" data-title="OF MODESTY (TWO ARTICLES)" data-chapter="OF MODESTY (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="195" data-title="OF MODESTY (TWO ARTICLES)" data-chapter="OF MODESTY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider modesty: and (1) Modesty in general; (2) Each of its species. Under the
 first head there are two points of inquiry:
 (1) Whether modesty is a part of temperance?
 (2) What is the matter of modesty?
 
-<span class="atom-split" data-atom="196" data-title="Whether modesty is a part of temperance?" data-chapter="Whether modesty is a part of temperance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="196" data-title="Whether modesty is a part of temperance?" data-chapter="Whether modesty is a part of temperance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that modesty is not a part of temperance. For modesty is denominated
 from mode. Now mode is requisite in every virtue: since virtue is directed to good; and "good,"
@@ -9244,7 +9244,7 @@ with strong passions, and modesty about weaker passions.
 Reply to Objection 3: Modesty is to be taken there for the general moderation which is necessary
 in all virtues.
 
-<span class="atom-split" data-atom="197" data-title="Whether modesty is only about outward actions?" data-chapter="Whether modesty is only about outward actions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="197" data-title="Whether modesty is only about outward actions?" data-chapter="Whether modesty is only about outward actions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that modesty is only about outward actions. For the inward
 movements of the passions cannot be known to other persons. Yet the Apostle enjoins (Phil. 4:5):
@@ -9293,7 +9293,7 @@ actions and passions that present no great difficulty on the part of the matter,
 of moderation, there is but one virtue, one namely for each kind of moderation.
 Wherefore the Reply to the Third Objection also is clear.
 
-<span class="atom-split" data-atom="198" data-title="OF HUMILITY (SIX ARTICLES)" data-chapter="OF HUMILITY (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="198" data-title="OF HUMILITY (SIX ARTICLES)" data-chapter="OF HUMILITY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must consider next the species of modesty: (1) Humility, and pride which is opposed to it;
 (2) Studiousness, and its opposite, Curiosity; (3) Modesty as affecting words or deeds; (4) Modesty
@@ -9306,7 +9306,7 @@ Concerning humility there are six points of inquiry:
 (5) Of its comparison with the other virtues;
 (6) Of the degrees of humility.
 
-<span class="atom-split" data-atom="199" data-title="Whether humility is a virtue?" data-chapter="Whether humility is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="199" data-title="Whether humility is a virtue?" data-chapter="Whether humility is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that humility is not a virtue. For virtue conveys the notion of a
 penal evil, according to Ps. 104:18, "They humbled his feet in fetters." Therefore humility is not a
@@ -9381,7 +9381,7 @@ wherein the subjection of one man to another is defined according to the ordinan
 consequently is a matter of legal justice. But humility, considered as a special virtue, regards chiefly
 the subjection of man to God, for Whose sake he humbles himself by subjecting himself to others.
 
-<span class="atom-split" data-atom="200" data-title="Whether humility has to do with the appetite?" data-chapter="Whether humility has to do with the appetite?" data-kind="atom"></span>
+<span class="atom-split" data-atom="200" data-title="Whether humility has to do with the appetite?" data-chapter="Whether humility has to do with the appetite?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that humility concerns, not the appetite but the judgment of reason.
 Because humility is opposed to pride. Now pride concerns things pertaining to knowledge: for
@@ -9451,7 +9451,7 @@ Reply to Objection 4: Excess in outward expenditure and parade is wont to be don
 view of boasting, which is suppressed by humility. Accordingly humility has to do, in a secondary
 way, with externals, as signs of the inward movement of the appetite.
 
-<span class="atom-split" data-atom="201" data-title="Whether one ought, by humility, to subject oneself to all men?" data-chapter="Whether one ought, by humility, to subject oneself to all men?" data-kind="atom"></span>
+<span class="atom-split" data-atom="201" data-title="Whether one ought, by humility, to subject oneself to all men?" data-chapter="Whether one ought, by humility, to subject oneself to all men?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one ought not, by humility, to subject oneself to all men. For,
 as stated above (A[2], ad 3), humility consists chiefly in man's subjection to God. Now one ought
@@ -9513,7 +9513,7 @@ as of other virtues, lest they conduce to the detriment of others. If, however, 
 and others take therefrom an occasion of sin, this is not imputed to the man who acts with humility;
 since he does not give scandal, although others take it.
 
-<span class="atom-split" data-atom="202" data-title="Whether humility is a part of modesty or temperance?" data-chapter="Whether humility is a part of modesty or temperance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="202" data-title="Whether humility is a part of modesty or temperance?" data-chapter="Whether humility is a part of modesty or temperance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that humility is not a part of modesty or temperance. For humility
 regards chiefly the reverence whereby one is subject to God, as stated above (A[3]). Now it belongs
@@ -9560,7 +9560,7 @@ Reply to Objection 3: Although humility and magnanimity agree as to matter, they
 to mode, by reason of which magnanimity is reckoned a part of fortitude, and humility a part of
 temperance.
 
-<span class="atom-split" data-atom="203" data-title="Whether humility is the greatest of the virtues?" data-chapter="Whether humility is the greatest of the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="203" data-title="Whether humility is the greatest of the virtues?" data-chapter="Whether humility is the greatest of the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that humility is the greatest of the virtues. For Chrysostom,
 expounding the story of the Pharisee and the publican (Lk. 18), says [*Eclog. hom. vii de Humil.
@@ -9638,7 +9638,7 @@ man's untrammeled access to spiritual and divine goods. Accordingly as perfectio
 disposition, so charity, and other virtues whereby man approaches God directly, are greater than
 humility.
 
-<span class="atom-split" data-atom="204" data-title="Whether twelve degrees of humility are fittingly distinguished in the Rule of the Blessed Benedict?" data-chapter="Whether twelve degrees of humility are fittingly distinguished in the Rule of the Blessed Benedict?" data-kind="atom"></span>
+<span class="atom-split" data-atom="204" data-title="Whether twelve degrees of humility are fittingly distinguished in the Rule of the Blessed Benedict?" data-chapter="Whether twelve degrees of humility are fittingly distinguished in the Rule of the Blessed Benedict?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the twelve degrees of humility that are set down in the Rule
 of the Blessed Benedict [*St. Thomas gives these degrees in the reverse order to that followed by
@@ -9742,7 +9742,7 @@ Reply to Objection 5: This argument also considers the degrees of humility not a
 the nature of the thing, in respect of which the aforesaid degrees are assigned, but according to the
 various conditions of men.
 
-<span class="atom-split" data-atom="205" data-title="OF PRIDE (EIGHT ARTICLES)" data-chapter="OF PRIDE (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="205" data-title="OF PRIDE (EIGHT ARTICLES)" data-chapter="OF PRIDE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider pride, and (1) pride in general; (2) the first man's sin, which we hold to
 have been pride. Under the first head there are eight points of inquiry:
@@ -9755,7 +9755,7 @@ have been pride. Under the first head there are eight points of inquiry:
 (7) Of its relation to other sins;
 (8) Whether it should be reckoned a capital vice?
 
-<span class="atom-split" data-atom="206" data-title="Whether pride is a sin?" data-chapter="Whether pride is a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="206" data-title="Whether pride is a sin?" data-chapter="Whether pride is a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pride is not a sin. For no sin is the object of God's promise.
 For God's promises refer to what He will do; and He is not the author of sin. Now pride is numbered
@@ -9815,7 +9815,7 @@ subjection, to magnanimity, inasmuch as it tends to great things inordinately. S
 implies a certain elation, it is more directly opposed to humility, even as pusillanimity, which
 denotes littleness of soul in tending towards great things, is more directly opposed to magnanimity.
 
-<span class="atom-split" data-atom="207" data-title="Whether pride is a special sin?" data-chapter="Whether pride is a special sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="207" data-title="Whether pride is a special sin?" data-chapter="Whether pride is a special sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pride is not a special sin. For [Augustine](/figures/augustine) says (De Nat. et Grat.
 xxix) that "you will find no sin that is not labelled pride"; and Prosper says (De Vita Contempl. iii,
@@ -9884,7 +9884,7 @@ Reply to Objection 4: Pride regards a special aspect in its object, which aspect
 in various matters: for it is inordinate love of one's excellence, and excellence may be found in
 various things.
 
-<span class="atom-split" data-atom="208" data-title="Whether the subject of pride is the irascible faculty?" data-chapter="Whether the subject of pride is the irascible faculty?" data-kind="atom"></span>
+<span class="atom-split" data-atom="208" data-title="Whether the subject of pride is the irascible faculty?" data-chapter="Whether the subject of pride is the irascible faculty?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the subject of pride is not the irascible faculty. For Gregory
 says (Moral. xxiii, 17): "A swollen mind is an obstacle to truth, for the swelling shuts out the light."
@@ -9958,7 +9958,7 @@ emotions of the soul, and is their cause," wherefore it may be employed to denot
 emotions. It is in this sense that pride is said to be "love of one's own excellence," inasmuch as love
 makes a man presume inordinately on his superiority over others, and this belongs properly to pride.
 
-<span class="atom-split" data-atom="209" data-title="Whether the four species of pride are fittingly assigned by Gregory?" data-chapter="Whether the four species of pride are fittingly assigned by Gregory?" data-kind="atom"></span>
+<span class="atom-split" data-atom="209" data-title="Whether the four species of pride are fittingly assigned by Gregory?" data-chapter="Whether the four species of pride are fittingly assigned by Gregory?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the four species of pride are unfittingly assigned by Gregory, who
 says (Moral. xxiii, 6): "There are four marks by which every kind of pride of the arrogant betrays
@@ -10057,7 +10057,7 @@ implies contempt of God.
 In these twelve degrees not only are the species of pride indicated, but also certain things that
 precede and follow them, as we have stated above with regard to humility (Q[161], A[6]).
 
-<span class="atom-split" data-atom="210" data-title="Whether pride is a mortal sin?" data-chapter="Whether pride is a mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="210" data-title="Whether pride is a mortal sin?" data-chapter="Whether pride is a mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pride is not a mortal sin. For a gloss on Ps. 7:4, "O Lord my
 God, if I have done this thing," says: "Namely, the universal sin which is pride." Therefore if pride
@@ -10106,7 +10106,7 @@ accidental cause, in so far as a man makes a virtue an occasion for pride. And n
 contrary from being the accidental cause of another, as stated in Phys. viii, 1. Hence some are even
 proud of their humility.
 
-<span class="atom-split" data-atom="211" data-title="Whether pride is the most grievous of sins?" data-chapter="Whether pride is the most grievous of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="211" data-title="Whether pride is the most grievous of sins?" data-chapter="Whether pride is the most grievous of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pride is not the most grievous of sins. For the more difficult
 a sin is to avoid, the less grievous it would seem to be. Now pride is most difficult to avoid; for
@@ -10183,7 +10183,7 @@ to cure a worse disease, allows the patient to contract one that is less dangero
 is shown to be more grievous by the very fact that, as a remedy, God allows men to fall into other
 sins.
 
-<span class="atom-split" data-atom="212" data-title="Whether pride is the first sin of all?" data-chapter="Whether pride is the first sin of all?" data-kind="atom"></span>
+<span class="atom-split" data-atom="212" data-title="Whether pride is the first sin of all?" data-chapter="Whether pride is the first sin of all?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pride is not the first sin of all. For the first is maintained in all
 that follows. Now pride does not accompany all sins, nor is it the origin of all: for [Augustine](/figures/augustine) says
@@ -10239,7 +10239,7 @@ Reply to Objection 5: The Philosopher associates pride with feigned fortitude, n
 consists precisely in this, but because man thinks he is more likely to be uplifted before men, if he
 seem to be daring or brave.
 
-<span class="atom-split" data-atom="213" data-title="Whether pride should be reckoned a capital vice?" data-chapter="Whether pride should be reckoned a capital vice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="213" data-title="Whether pride should be reckoned a capital vice?" data-chapter="Whether pride should be reckoned a capital vice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pride should be reckoned a capital vice, since Isidore
 [*Comment. in Deut. xvi] and Cassian [*De Inst. Caenob. v, 1: Collat. v, 2] number pride among
@@ -10271,7 +10271,7 @@ covets excellence inordinately: while vainglory covets the outward show of excel
 Reply to Objection 3: The fact that envy, which is a capital vice, arises from pride, does not
 prove that pride is a capital vice, but that it is still more principal than the capital vices themselves.
 
-<span class="atom-split" data-atom="214" data-title="OF THE FIRST MAN'S SIN (FOUR ARTICLES)" data-chapter="OF THE FIRST MAN'S SIN (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="214" data-title="OF THE FIRST MAN'S SIN (FOUR ARTICLES)" data-chapter="OF THE FIRST MAN'S SIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the first man's sin which was pride: and (1) his sin; (2) its punishment;
 (3) the temptation whereby he was led to sin.
@@ -10281,7 +10281,7 @@ Under the first head there are four points of inquiry:
 (3) Whether his sin was more grievous than all other sins?
 (4) Which sinned more grievously, the man or the woman?
 
-<span class="atom-split" data-atom="215" data-title="Whether pride was the first man's first sin?" data-chapter="Whether pride was the first man's first sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="215" data-title="Whether pride was the first man's first sin?" data-chapter="Whether pride was the first man's first sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pride was not the first man's first sin. For the Apostle says
 (Rom. 5:19) that "by the disobedience of one man many were made sinners." Now the first man's
@@ -10350,7 +10350,7 @@ not mean that pride preceded the promptings of the serpent, but that as soon as 
 spoken his words of persuasion, her mind was puffed up, the result being that she believed the
 demon to have spoken truly.
 
-<span class="atom-split" data-atom="216" data-title="Whether the first man's pride consisted in his coveting God's likeness?" data-chapter="Whether the first man's pride consisted in his coveting God's likeness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="216" data-title="Whether the first man's pride consisted in his coveting God's likeness?" data-chapter="Whether the first man's pride consisted in his coveting God's likeness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the first man's pride did not consist in his coveting the Divine
 likeness. For no one sins by coveting that which is competent to him according to his nature. Now
@@ -10419,7 +10419,7 @@ subject to Him, and man who refused to be, as a servant, bound by His command."
 
 Reply to Objection 3: This argument considers the likeness of equality.
 
-<span class="atom-split" data-atom="217" data-title="Whether the sin of our first parents was more grievous than other sins?" data-chapter="Whether the sin of our first parents was more grievous than other sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="217" data-title="Whether the sin of our first parents was more grievous than other sins?" data-chapter="Whether the sin of our first parents was more grievous than other sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the sin of our first parents was more grievous than other sins.
 For [Augustine](/figures/augustine) says (De Civ. Dei xiv, 15): "Great was the wickedness in sinning, when it was so
@@ -10465,7 +10465,7 @@ Reply to Objection 3: Where things are directly subordinate, the first must need
 Such is not the order among sins, for one follows from another accidentally. And thus it does not
 follow that the first sin is the greatest.
 
-<span class="atom-split" data-atom="218" data-title="Whether Adam's sin was more grievous than Eve's?" data-chapter="Whether Adam's sin was more grievous than Eve's?" data-kind="atom"></span>
+<span class="atom-split" data-atom="218" data-title="Whether Adam's sin was more grievous than Eve's?" data-chapter="Whether Adam's sin was more grievous than Eve's?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Adam's sin was more grievous than Eve's. For it is written (1
 Tim. 2:14): "Adam was not seduced, but the woman being seduced was in the transgression": and
@@ -10521,13 +10521,13 @@ justice, wherein consists the sin against the Holy Ghost, but as Augustine says 
 Civ. Dei xiv, 11]), it was due to the fact that, "having had no experience of God's severity, he
 thought the sin to be venial," i.e. easily forgiven [*Cf. FS, Q[89], A[3], ad 1].
 
-<span class="atom-split" data-atom="219" data-title="OF THE PUNISHMENTS OF THE FIRST MAN'S SIN (TWO ARTICLES)" data-chapter="OF THE PUNISHMENTS OF THE FIRST MAN'S SIN (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="219" data-title="OF THE PUNISHMENTS OF THE FIRST MAN'S SIN (TWO ARTICLES)" data-chapter="OF THE PUNISHMENTS OF THE FIRST MAN'S SIN (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the punishments of the first sin; and under this head there are two points
 of inquiry: (1) Death, which is the common punishment; (2) the other particular punishments
 mentioned in Genesis.
 
-<span class="atom-split" data-atom="220" data-title="Whether death is the punishment of our first parents' sin? (1/2)" data-chapter="Whether death is the punishment of our first parents' sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="220" data-title="Whether death is the punishment of our first parents' sin? (1/2)" data-chapter="Whether death is the punishment of our first parents' sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that death is not the punishment of our first parents' sin. For that
 which is natural to man cannot be called a punishment of sin, because sin does not perfect nature
@@ -10635,7 +10635,7 @@ and thus it is not of God, but is a defect befalling man through his fault. Seco
 aspect of good, namely as being a just punishment, and thus it is from God. Wherefore [Augustine](/figures/augustine)
 says (Retract. i, 21) that God is not the author of death, except in so far as it is a punishment.
 
-<span class="atom-split" data-atom="221" data-title="Whether death is the punishment of our first parents' sin? (2/2)" data-chapter="Whether death is the punishment of our first parents' sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="221" data-title="Whether death is the punishment of our first parents' sin? (2/2)" data-chapter="Whether death is the punishment of our first parents' sin?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: As [Augustine](/figures/augustine) says (De Civ. Dei xiii, 5), "just as the wicked abuse not
 only evil but also good things, so do the righteous make good use not only of good but also of evil
@@ -10657,7 +10657,7 @@ Reply to Objection 8: According to Augustine (Gen. ad lit. [*De Pecc. Mer. et Re
 Gen. ad lit. ii. 32]), "although our first parents lived thereafter many years, they began to die on
 the day when they heard the death-decree, condemning them to decline to old age."
 
-<span class="atom-split" data-atom="222" data-title="Whether the particular punishments of our first parents are suitably appointed in Scripture? (1/2)" data-chapter="Whether the particular punishments of our first parents are suitably appointed in Scripture?" data-kind="atom"></span>
+<span class="atom-split" data-atom="222" data-title="Whether the particular punishments of our first parents are suitably appointed in Scripture? (1/2)" data-chapter="Whether the particular punishments of our first parents are suitably appointed in Scripture?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the particular punishments of our first parents are unsuitably
 appointed in [Scripture](/concepts/revelation). For that which would have occurred even without sin should not be described
@@ -10765,7 +10765,7 @@ before sin, but on account of the numerous sufferings to which the woman is subj
 carrying her offspring after conception. Hence it is expressly stated: "I will multiply thy sorrows,
 and thy conceptions."
 
-<span class="atom-split" data-atom="223" data-title="Whether the particular punishments of our first parents are suitably appointed in Scripture? (2/2)" data-chapter="Whether the particular punishments of our first parents are suitably appointed in Scripture?" data-kind="atom"></span>
+<span class="atom-split" data-atom="223" data-title="Whether the particular punishments of our first parents are suitably appointed in Scripture? (2/2)" data-chapter="Whether the particular punishments of our first parents are suitably appointed in Scripture?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: These punishments affect all somewhat. For any woman who conceives
 must needs suffer sorrows and bring forth her child with pain: except the Blessed Virgin, who
@@ -10818,14 +10818,14 @@ that the tree was fair, and good to eat. Accordingly the eyes of both were opene
 and thought on things which had not occurred to their minds before, this was a mutual concupiscence
 such as they had not hitherto."
 
-<span class="atom-split" data-atom="224" data-title="OF OUR FIRST PARENTS' TEMPTATION (TWO ARTICLES)" data-chapter="OF OUR FIRST PARENTS' TEMPTATION (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="224" data-title="OF OUR FIRST PARENTS' TEMPTATION (TWO ARTICLES)" data-chapter="OF OUR FIRST PARENTS' TEMPTATION (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider our first parents' temptation, concerning which there are two points of
 inquiry:
 (1) Whether it was fitting for man to be tempted by the devil?
 (2) Of the manner and order of that temptation.
 
-<span class="atom-split" data-atom="225" data-title="Whether it was fitting for man to be tempted by the devil?" data-chapter="Whether it was fitting for man to be tempted by the devil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="225" data-title="Whether it was fitting for man to be tempted by the devil?" data-chapter="Whether it was fitting for man to be tempted by the devil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting for man to be tempted by the devil. For the
 same final punishment is appointed to the angels' sin and to man's, according to Mat. 25:41, "Go
@@ -10873,7 +10873,7 @@ Reply to Objection 3: An assault is penal if it be difficult to resist it: but, 
 innocence, man was able, without any difficulty, to resist temptation. Consequently the tempter's
 assault was not a punishment to man.
 
-<span class="atom-split" data-atom="226" data-title="Whether the manner and order of the first temptation was fitting?" data-chapter="Whether the manner and order of the first temptation was fitting?" data-kind="atom"></span>
+<span class="atom-split" data-atom="226" data-title="Whether the manner and order of the first temptation was fitting?" data-chapter="Whether the manner and order of the first temptation was fitting?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the manner and order of the first temptation was not fitting.
 For just as in the order of nature the angel was above man, so was the man above the woman. Now
@@ -10963,14 +10963,14 @@ Wherefore the serpent lies in wait for the woman's heel, that if at any time she
 what is unlawful, pleasure may seize hold of her: and she watches his head that she may shut him
 out at the very outset of the evil temptation."
 
-<span class="atom-split" data-atom="227" data-title="OF STUDIOUSNESS (TWO ARTICLES)" data-chapter="OF STUDIOUSNESS (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="227" data-title="OF STUDIOUSNESS (TWO ARTICLES)" data-chapter="OF STUDIOUSNESS (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider studiousness and its opposite, curiosity. Concerning studiousness there
 are two points of inquiry:
 (1) What is the matter of studiousness?
 (2) Whether it is a part of temperance?
 
-<span class="atom-split" data-atom="228" data-title="Whether the proper matter of studiousness is knowledge?" data-chapter="Whether the proper matter of studiousness is knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="228" data-title="Whether the proper matter of studiousness is knowledge?" data-chapter="Whether the proper matter of studiousness is knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that knowledge is not the proper matter of studiousness. For a
 person is said to be studious because he applies study to certain things. Now a man ought to apply
@@ -11016,7 +11016,7 @@ Reply to Objection 3: Covetousness craves the acquisition of gain, and for this 
 necessary to be skilled in earthly things. Accordingly studiousness is ascribed to things pertaining
 to covetousness.
 
-<span class="atom-split" data-atom="229" data-title="Whether studiousness is a part of temperance?" data-chapter="Whether studiousness is a part of temperance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="229" data-title="Whether studiousness is a part of temperance?" data-chapter="Whether studiousness is a part of temperance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that studiousness is not a part of temperance. For a man is said to
 be studious by reason of his studiousness. Now all virtuous persons without exception are called
@@ -11079,13 +11079,13 @@ more essential to this virtue than the latter: since the desire to know directly
 to which studiousness is directed, whereas the trouble of learning is an obstacle to knowledge,
 wherefore it is regarded by this virtue indirectly, as by that which removes an obstacle.
 
-<span class="atom-split" data-atom="230" data-title="OF CURIOSITY (TWO ARTICLES)" data-chapter="OF CURIOSITY (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="230" data-title="OF CURIOSITY (TWO ARTICLES)" data-chapter="OF CURIOSITY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider curiosity, under which head there are two points of inquiry:
 (1) Whether the vice of curiosity can regard intellective knowledge?
 (2) Whether it is about sensitive knowledge?
 
-<span class="atom-split" data-atom="231" data-title="Whether curiosity can be about intellective knowledge?" data-chapter="Whether curiosity can be about intellective knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="231" data-title="Whether curiosity can be about intellective knowledge?" data-chapter="Whether curiosity can be about intellective knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that curiosity cannot be about intellective knowledge. Because,
 according to the Philosopher (Ethic. ii, 6), there can be no mean and extremes in things which are
@@ -11172,7 +11172,7 @@ tradition of men . . . and not according to Christ": and Dionysius says (Ep. vii
 certain philosophers that "they make an unholy use of divine things against that which is divine,
 and by divine wisdom strive to destroy the [worship](/concepts/religion) of God."
 
-<span class="atom-split" data-atom="232" data-title="Whether the vice of curiosity is about sensitive knowledge?" data-chapter="Whether the vice of curiosity is about sensitive knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="232" data-title="Whether the vice of curiosity is about sensitive knowledge?" data-chapter="Whether the vice of curiosity is about sensitive knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the vice of curiosity is not about sensitive knowledge. For just
 as some things are known by the sense of sight, so too are some things known by the senses of
@@ -11238,7 +11238,7 @@ neighbor's faults with the intention of looking down upon them, or of detracting
 no further purpose than that of disturbing them, is sinful: hence it is written (Prov. 24:15), "Lie not
 in wait, nor seek after wickedness in the house of the just, nor spoil his rest."
 
-<span class="atom-split" data-atom="233" data-title="OF MODESTY AS CONSISTING IN THE OUTWARD MOVEMENTS OF THE BODY (FOUR ARTICLES)" data-chapter="OF MODESTY AS CONSISTING IN THE OUTWARD MOVEMENTS OF THE BODY (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="233" data-title="OF MODESTY AS CONSISTING IN THE OUTWARD MOVEMENTS OF THE BODY (FOUR ARTICLES)" data-chapter="OF MODESTY AS CONSISTING IN THE OUTWARD MOVEMENTS OF THE BODY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider modesty as consisting in the outward movements of the body, and under
 this head there are four points of inquiry:
@@ -11248,7 +11248,7 @@ seriously?
 (3) Of the sin consisting in excess of play;
 (4) Of the sin consisting in lack of play.
 
-<span class="atom-split" data-atom="234" data-title="Whether any virtue regards the outward movements of the body?" data-chapter="Whether any virtue regards the outward movements of the body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="234" data-title="Whether any virtue regards the outward movements of the body?" data-chapter="Whether any virtue regards the outward movements of the body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no virtue regards the outward movements of the body. For
 every virtue pertains to the spiritual [beauty](/concepts/beauty) of the soul, according to Ps. 44:14, "All the glory of
@@ -11326,7 +11326,7 @@ recourse to pretense in them, so that they do not agree with one's inward dispos
 it behooves one to study them, so that if they be in any way inordinate, this may be corrected. Hence
 Ambrose says (De Offic. i, 18): "Let them be without artifice, but not without correction."
 
-<span class="atom-split" data-atom="235" data-title="Whether there can be a virtue about games?" data-chapter="Whether there can be a virtue about games?" data-kind="atom"></span>
+<span class="atom-split" data-atom="235" data-title="Whether there can be a virtue about games?" data-chapter="Whether there can be a virtue about games?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there cannot be a virtue about games. For Ambrose says (De
 Offic. i, 23): "Our Lord said: 'Woe to you who laugh, for you shall weep.' Wherefore I consider
@@ -11416,7 +11416,7 @@ says (De Offic. i, 29): "It is indeed lawful to make use of play and fun, but in
 have recourse to sleep and other kinds of rest, then only when we have done our duty by grave and
 serious matters."
 
-<span class="atom-split" data-atom="236" data-title="Whether there can be sin in the excess of play?" data-chapter="Whether there can be sin in the excess of play?" data-kind="atom"></span>
+<span class="atom-split" data-atom="236" data-title="Whether there can be sin in the excess of play?" data-chapter="Whether there can be sin in the excess of play?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there cannot be sin in the excess of play. For that which is an
 excuse for sin is not held to be sinful. Now play is sometimes an excuse for sin, for many things
@@ -11483,7 +11483,7 @@ extreme need, in which case one would have to assist him, for Ambrose says (De O
 in Canon Pasce, dist. 86]): "Feed him that dies of hunger; for whenever thou canst save a man by
 feeding him, if thou hast not fed him, thou hast slain him."
 
-<span class="atom-split" data-atom="237" data-title="Whether there is a sin in lack of mirth?" data-chapter="Whether there is a sin in lack of mirth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="237" data-title="Whether there is a sin in lack of mirth?" data-chapter="Whether there is a sin in lack of mirth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no sin in lack of mirth. For no sin is prescribed to a
 penitent. But [Augustine](/figures/augustine) speaking of a penitent says (De Vera et Falsa Poenit. 15) [*Spurious]: "Let
@@ -11529,14 +11529,14 @@ are excessive and inordinate; wherefore it would seem to pertain to affability, 
 (Ethic. iv, 6) calls "friendliness," or {eutrapelia}, otherwise wittiness. Nevertheless he [names](/positions/nominalism) and
 defines it thus in respect of its agreement with temperance, to which it belongs to restrain pleasure.
 
-<span class="atom-split" data-atom="238" data-title="OF MODESTY IN THE OUTWARD APPAREL (TWO ARTICLES)" data-chapter="OF MODESTY IN THE OUTWARD APPAREL (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="238" data-title="OF MODESTY IN THE OUTWARD APPAREL (TWO ARTICLES)" data-chapter="OF MODESTY IN THE OUTWARD APPAREL (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider modesty as connected with the outward apparel, and under this head
 there are two points of inquiry:
 (1) Whether there can be virtue and vice in connection with outward apparel?
 (2) Whether women sin mortally by excessive adornment?
 
-<span class="atom-split" data-atom="239" data-title="Whether there can be virtue and vice in connection with outward apparel?" data-chapter="Whether there can be virtue and vice in connection with outward apparel?" data-kind="atom"></span>
+<span class="atom-split" data-atom="239" data-title="Whether there can be virtue and vice in connection with outward apparel?" data-chapter="Whether there can be virtue and vice in connection with outward apparel?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there cannot be virtue and vice in connection with outward
 apparel. For outward adornment does not belong to us by nature, wherefore it varies according to
@@ -11631,7 +11631,7 @@ deficiency, and mean therein, are referable to the virtue of truthfulness, which
 (Ethic. ii, 7) assigns to deeds and words, which are indications of something connected with man's
 estate.
 
-<span class="atom-split" data-atom="240" data-title="Whether the adornment of women is devoid of mortal sin?" data-chapter="Whether the adornment of women is devoid of mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="240" data-title="Whether the adornment of women is devoid of mortal sin?" data-chapter="Whether the adornment of women is devoid of mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the adornment of women is not devoid of mortal sin. For
 whatever is contrary to a precept of the [Divine law](/concepts/divine_law) is a mortal sin. Now the adornment of women
@@ -11730,13 +11730,13 @@ that are superfluous and fantastic. Hence Chrysostom says (Super Matth.) that "e
 and clothiers' arts stand in need of restraint, for they have lent their art to lust, by abusing its needs,
 and debasing art by art."
 
-<span class="atom-split" data-atom="241" data-title="OF THE PRECEPTS OF TEMPERANCE (TWO ARTICLES)" data-chapter="OF THE PRECEPTS OF TEMPERANCE (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="241" data-title="OF THE PRECEPTS OF TEMPERANCE (TWO ARTICLES)" data-chapter="OF THE PRECEPTS OF TEMPERANCE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the precepts of temperance:
 (1) The precepts of temperance itself;
 (2) The precepts of its parts.
 
-<span class="atom-split" data-atom="242" data-title="Whether the precepts of temperance are suitably given in the Divine law?" data-chapter="Whether the precepts of temperance are suitably given in the Divine law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="242" data-title="Whether the precepts of temperance are suitably given in the Divine law?" data-chapter="Whether the precepts of temperance are suitably given in the Divine law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the precepts of temperance are unsuitably given in the Divine
 law. Because fortitude is a greater virtue than temperance, as stated above (Q[123], A[12]; Q[141],
@@ -11783,7 +11783,7 @@ possible to give any common affirmative precepts of temperance, because the prac
 varies according to different times, as [Augustine](/figures/augustine) remarks (De Bono Conjug. xv, 7), and according
 to different human laws and customs.
 
-<span class="atom-split" data-atom="243" data-title="Whether the precepts of the virtues annexed to temperance are suitably given in the Divine law?" data-chapter="Whether the precepts of the virtues annexed to temperance are suitably given in the Divine law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="243" data-title="Whether the precepts of the virtues annexed to temperance are suitably given in the Divine law?" data-chapter="Whether the precepts of the virtues annexed to temperance are suitably given in the Divine law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the precepts of the virtues annexed to temperance are unsuitably
 given in the [Divine law](/concepts/divine_law). For the precepts of the Decalogue, as stated above (A[1], ad 3), are certain

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nota_a_la_prensa_sobre_la_crisis_de_gobierno" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[Nota a la prensa sobre la crisis de Gobierno]" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="[Nota a la prensa sobre la crisis de Gobierno]" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La crisis actual, cuyo planteamiento viene ya retrasado, y no por defecto de la Presidencia de la República, no puede ser tramitada como una crisis normal que se produjera dentro de un régimen hondamente arraigado y que tuviese a la espalda un prestigioso pretérito. No es, pues, una mera crisis de Gobierno y de grupos parlamentarios, sino que afecta muy seriamente al porvenir de la República. Los seis meses próximos son decisivos y representan el único margen de holgura que queda a la política republicana para conseguir de verdad nacionalizarse fundiéndose con los destinos de España. Quienes por no creerlo así, escatimen facilidades, que deben ser insólitas y casi ilimitadas, para la solución de la crisis, deberán en su fecha y hora, cargar con la responsabilidad íntegra y sin salpique para el prójimo de los resultados que acarree el desperdicio del próximo semestre.
 

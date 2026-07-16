@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/más_sobre_el_caso_italia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Más sobre el caso Italia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Más sobre el caso Italia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En el número de El Imparcial correspondiente al viernes 1 de este mes se publicaron unos párrafos míos bajo el título «El [caso](/concepts/fortune) Italia». Al día siguiente aparecía en El Imparcial una aclaración espontánea, donde la redacción de este periódico explicaba, entre otras cosas, su criterio respecto de mi artículo. Parece ser que en determinados Círculos habían producido grande enojo mis apreciaciones.
 
@@ -50,7 +50,7 @@ Tampoco me parece que en los fondos de los periódicos se conceda la importancia
 
 Se trata del desprecio creciente en las grandes razas del Norte, en las razas germánicas y anglosajona, hacia los pueblos meridionales. Tampoco con quejas diplomáticas y tópicos retóricos se suprime ese hecho. Ahí está terrible y amenazador. Un desprecio que hace gravitar cada vez más sobre los destinos de España e Italia las voluntades incontrastadas de los pueblos anglosajones y germánicos. ¿Hasta dónde llegará el imperialismo de estos pueblos? Nadie lo sabe: sólo se sabe que los límites no se ven, y que todo, todo es de temer.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En consecuencia, hace años que en periódicos de España y América prosigo una campaña de excitación a la defensa de los pueblos latinos contra los del Norte, y especialmente de España contra las potencias circundantes. Sólo que los espíritus patrioteros creen que adulando los vicios meridionales y proclamando un vacuísimo renacimiento latino, van a conseguir dotarnos de energías y de armas. Mi convicción es inversa: los pueblos del Sur sólo podrán hacerse respetar de los del Norte si concurren con ellos en tecnicismo, serenidad y severa moral.
 

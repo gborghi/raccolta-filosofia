@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_ámbitos_culturales" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los «ámbitos culturales»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los «ámbitos culturales»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Conviene, sin embargo, mostrar con alguna mayor precisión cuál ha sido la ruta por la cual se ha llegado a esa ampliación del punto de vista.
 
@@ -44,7 +44,7 @@ En el prólogo a la traducción de La decadencia de Occidente, la famosa obra de
 
 Según su opinión, las culturas, no los hombres, no las razas o pueblos, serían los protagonistas históricos. Los pueblos quedan como meros portadores de ellas, como los vientos del polen vegetal. Un mismo individuo humano sería históricamente distinto si, en vez de nacer en el ámbito de una cultura, naciera en el de otra. El ser humano representa el mismo papel que el instrumento de música donde pueden tañerse las más diversas melodías. Cada cultura sería eso: una melodía con su ritmo y su línea sonora inconfundible. Fue un error de Bastian suponer que hay «ideas elementales» comunes a todos los hombres. No; las culturas se diferencian muy principalmente en lo más elemental, en las nociones primigenias. Por ejemplo, el espacio.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Cuenta Frobenius que, en uno de sus viajes, hablaba una vez con varios africanos sobre la extensión del antiguo reino de Gana, y, en general, sobre la expansión de los diferentes pueblos. Entre los interlocutores había un moro de Trarza que, allá, en el Oeste, al Norte del Senegal, en los confines del desierto, solía vivir su vida nómada. «Conocía bien las tierras de su región natal y proporcionaba muchas noticias fidedignas. Como muslim fanático que era, sustentaba enérgicamente la opinión de que los fundadores del reino de Gana eran de origen sudarábigo». Otro interlocutor era un sudanés castizo, el viejo Diarra, que tantas viejas cosas de su país sabía. Imperturbable, afirmaba que los Ganas —probablemente residuo de los semifabulosos Garamantas— habían sido un pueblo vetusto, muy anterior al deslizamiento de los árabes y del Islam por aquellas comarcas. El Trarza, según temperamento de su raza, se incomodó pronto y en su excitación dejó escapar estas palabras: «Los árabes y el Islam dominan la tierra toda hasta su “término”». Frobenius le preguntó dónde terminaba la tierra, y el nómada respondió: «Donde la tierra toca con el cielo». Entonces el Diarra se interpuso diciendo: «El cielo no toca nunca la tierra».
 
@@ -70,7 +70,7 @@ Ahora bien; el rasgo más característico hasta ahora de la época que en nosotr
 
 El imperativo de pulcritud mental hace que nuestro tiempo parta en toda ciencia —y tal vez no sólo en ciencia— de la pluralidad que es el hecho. La geometría se ha pluralizado. La física de los quanta y de Einstein es discontinua y pluralista; la biología se ha instalado en el pluralismo. Por fin, la historia, en vez de tropezar a la postre como con una roca de irracionalidad, como con un misterio, con la peculiaridad de los pueblos, que son de hecho irreductibles, hace de ella el punto de partida; es decir, toma el hecho según se presenta[90]. El chino y el francés se diferencian demasiado para que, desde luego, afirmemos su identidad y supongamos prejuiciosamente que en el valle del Yang-Tsé actúan los mismos mecanismos psíquicos que en la Isla de Francia.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La intuición del pluralismo universal, como puro hecho, como fenómeno, es la gran innovación en la cultura europea. A ella se debe que, contrastando con la enorme decadencia de casi todas las demás potencias históricas —economía, política, arte—, la ciencia actual abra infinitas perspectivas y festeje una sin par ampliación de horizontes. Si al analizar la pluralidad que los hechos reales presentan se encuentra en ellos síntomas de una ultra-realidad unitaria, el triunfo será completo. Porque, en efecto, el pensamiento debe ser unitario. Pero es preciso dejar siempre abierta la posibilidad de que los hechos se nieguen a coincidir con ese ideal de unidad que alienta en el interior del pensamiento.
 

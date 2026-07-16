@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_otro_paisaje" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El otro paisaje" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El otro paisaje" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¿Qué significa la palabra «Asturias»? Puede que hasta los chicos de la escuela lo sepan. Mas yo, en este momento, lo ignoro completamente; en el rincón castellano donde escribo no hay libros que me saquen de esta ignorancia, y hay, en cambio, disuelta en el aire una propensión a gozarse en no saber bien las cosas. Pero, signifique lo que quiera, encuentro en el valor de plural que ese vocablo tiene una certera sugestión para el viajero. Hay muchas Asturias, no sólo las de Oviedo y las de Santillana. Hay muchísimas más: sería trabajoso contarlas.
 

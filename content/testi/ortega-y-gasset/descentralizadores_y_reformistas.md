@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/descentralizadores_y_reformistas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Descentralizadores y reformistas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Descentralizadores y reformistas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Véase cómo la situación interior de España venía por su pie, e ineludiblemente, a exigir un Gobierno formado por hombres, por núcleos a quienes hasta ahora no se había dejado manejar los instrumentos del Poder.
 

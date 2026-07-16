@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettres_à_m_buttafoco_sur_la_législation_de_la_corse" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRES À M. BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRES À M. BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Il est superflu, monsieur, de chercher à exciter mon zèle pour l’entreprise que vous me proposez[694]. La seule idée m'élève l'âme et me transporte. Je croirais le reste de mes jours bien noblement, bien vertueusement, bien heureusement employé, je croirais même avoir bien racheté l'inutilité des autres, si je pouvais rendre ce triste reste bon en quelque chose à vos braves compatriotes, si je pouvais concourir par quelque conseil utile aux vues de leur digne chef et aux vôtres : de ce côté-là donc soyez sûr de moi ; ma vie et mon cœur sont à vous.
 
@@ -58,7 +58,7 @@ Une exacte description de l'île ; son histoire naturelle, ses productions, sa c
 
 Quel est le nombre, le crédit du clergé ? quelles sont ses maximes ? quelle est sa conduite relativement à la patrie ? Y a-t-il des maisons anciennes, des corps privilégiés, de la noblesse ? Les villes ont-elles des droits municipaux ? en sont-elles fort jalouses ?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Quelles sont les mœurs du peuple, ses goûts, ses occupations, ses amusements, l'ordre et les divisions militaires, la discipline, la manière de faire la guerre, etc.
 
@@ -90,7 +90,7 @@ Môtiers le 26 mai 1765.
 
 La crise orageuse que je viens d'essuyer, monsieur, et l'incertitude du parti qu'elle me ferait prendre, m'ont fait différer de vous répondre et de vous remercier jusqu'à ce que je fusse déterminé. Je le suis maintenant par une suite d'événements qui, m'offrant en ce pays, sinon la tranquillité, du moins la sûreté, me font prendre le parti d'y rester sous la protection déclarée et confirmée du roi et du gouvernement. Ce n'est pas que j'aie perdu le plus vrai désir de vivre dans le vôtre ; mais l'épuisement total de mes forces, les soins qu'il faudrait prendre, les fatigues qu'il faudrait essuyer, d'autres obstacles encore qui naissent de ma situation, me font, du moins pour le moment, abandonner mon entreprise, à laquelle, malgré ces difficultés, mon cœur ne peut se résoudre à renoncer tout-à-fait encore. Mais, mon cher monsieur, je vieillis, je dépéris, les forces me quittent, le désir s'irrite et l'espoir s'éteint. Quoi qu'il en soit, recevez et faites agréer à M. Paoli mes plus vifs, mes plus tendres remerciements de l'asile qu'il a bien voulu m'accorder. Peuple brave et hospitalier… non, je n'oublierai jamais un moment de ma vie que vos cœurs, vos bras, vos foyers, m'ont été ouverts à l'instant qu'il ne me restait presque aucun autre asile en Europe. Si je n'ai point le bonheur de laisser mes cendres dans votre île, je tâcherai d'y laisser du moins quelque monument de ma reconnaissance, et je m'honorerai aux yeux de toute la terre de vous appeler mes hôtes et mes protecteurs.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Je reçus bien par M. le chevalier R.... la lettre de M. Paoli : mais, pour vous faire entendre pourquoi j'y répondis en si peu de mots et d'un ton si vague, il faut vous dire, monsieur, que le bruit de la proposition que vous m'aviez faite s'étant répandu sans que je sache comment, M. de Voltaire fit entendre à tout le monde que cette proposition était une invention de sa façon : il prétendait m'avoir écrit au nom des Corses une lettre contrefaite dont j'avais été la dupe. Comme j'étais très sûr de vous, je le laissai dire, j'allai mon train, et je ne vous en parlai pas même. Mais il fit plus, il se vanta l'hiver dernier que, malgré milord maréchal et le roi même, il me ferait chasser du pays. Il avait des émissaires, les uns connus, les autres secrets. Dans le fort de la fermentation à laquelle mon dernier écrit servit de prétexte, arrive ici M. de R… il vient me voir de la part de M. Paoli sans m'apporter aucune lettre ni de la sienne, ni de la vôtre, ni de personne : il refuse de se nommer ; il venait de Genève, il avait vu mes plus ardents ennemis, on me l'écrivait. Son long séjour en ce pays sans y avoir aucune affaire avait l'air du monde le plus mystérieux. Ce séjour fut précisément le temps où l'orage fut excité contre moi. Ajoutez qu'il avait fait tous ses efforts pour savoir quelles relations je pouvais avoir en Corse. Comme il ne vous avait point nommé, je ne voulus point vous nommer non plus. Enfin il m'apporte la lettre de M. Paoli, dont je ne connaissais point l'écriture. Jugez si tout cela devait m'être suspect. Qu'avais-je à faire en pareil cas ? lui remettre une réponse dont à tout événement on ne pût tirer d'éclaircissement ; c'est ce que je fis.
 

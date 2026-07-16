@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/b_ontología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="b) Ontología" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="b) Ontología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pertrechado con él pasa Herbart a resolver los primeros problemas de la metafísica y ante todo el que nos plantea la sensación. Danos ésta en su contenido sólo apariencias, según notamos más arriba; pero justamente la posición de una apariencia impone la afirmación del ser tras ella. Lo aparente no es tal y como aparece; pero es indicación de un ser, que en ella aparece. «Cuanto haya de apariencia, tanto hay de referencia al ser»[45].
 
@@ -50,7 +50,7 @@ El método de los modos contingentes de considerar el ser, viene aquí de nuevo 
 
 De toda esta lucha entre los Reales, de todo este real acontecer no llega, claro está, la menor noticia directa hasta nosotros. Pero sí llega el hecho de que la cosa A se presenta, nos es dada con las propiedades aparentes a, b, c. Y como toda apariencia, según dijimos con palabras de Herbart, alude a un Ser, la pluralidad de propiedades aparentes indica, concluye a una pluralidad de entes y la concurrencia de ellos.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Con esto queda solventado el problema de la inherencia. La cosa real A por sí sola no es ninguna de sus propiedades o manifestaciones a, b, c, pero, en conjunción con otros Reales, se conserva a sí misma tomando esas propiedades que con ser tan varias no alteran su identidad. A es, pues, sustancia o sujeto único que tiene propiedades plurales; pero lo es gracias a la causalidad trascendente de los otros Reales que sobre ella operan. «No hay sustancia sin causalidad»[51]. En la serie a > A’ + A’ + A’… la primera A’ es la sustancia en cuanto concurre con las demás que son la [causa](/concepts/cause).
 

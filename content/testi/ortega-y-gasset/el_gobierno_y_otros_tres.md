@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_gobierno_y_otros_tres" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El gobierno y otros tres" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El gobierno y otros tres" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En pocas palabras. Nosotros creemos que el Parlamento debiera ser cosa muy distinta de lo que es. Pero mientras no sea sustituido por otra cosa mejor —cuando haya solaz y España no esté en peligro como hoy está, teorizaremos sobre la sustitución del Parlamento—, el Gobierno tiene que respetar a las Cortes y regir con ellas. Si en alguna ocasión era forzoso este corrompimiento, parece evidente que había de serlo ahora.
 

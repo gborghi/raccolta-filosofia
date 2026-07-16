@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/explicación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Explicación" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Explicación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Inglaterra.— Barcos de línea, 55; siete en construcción.
 

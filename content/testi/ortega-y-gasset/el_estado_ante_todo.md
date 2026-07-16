@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_estado_ante_todo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El Estado ante todo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El Estado ante todo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Este ejemplo caricaturesco acusa de sobra el error fundamental cometido por el Gobierno. Mi adhesión a él es harto conocida para que no pueda permitirme el lujo de declarar sus errores. Desde el primer instante debió el Gobierno hacer notar en cada uno de sus actos, palabras y gestos, su conciencia clara y resuelta de que la nueva democracia no es una democracia individualista, de pueblo en la plazuela, sino una severa, acerada democracia de Estado.
 

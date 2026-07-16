@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/siguen_los_problemas_concretos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Siguen «los problemas concretos»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Siguen «los problemas concretos»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -42,7 +42,7 @@ He aquí cómo no me duelen prendas y puedo contar al público el contenido de e
 
 En lo anterior he querido aceptar el papel de reo, aunque no soy yo el político-hombre de negocios, sino el señor Cambó; aunque no soy yo el que pretenda reducir la política a problemas concretos ni quien ha estado o está en el ministerio de Hacienda. Y de estas cosas precisamente se trataba. Sin embargo, he querido contestar a los ataques del señor Cambó dándoles yo mismo un aire de cuestiones políticas que no tienen, pues son, a lo sumo, apreciaciones sobre mi carácter intelectual, sobre mi versatilidad y extremada presunción.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El hecho de no tener yo pasado de actuación política, y el señor Cambó uno largo y nutrido, da a mi posición en este match una ventaja excesiva: es difícil atacarme y me es fácil defenderme. Pero me repugna aprovechar esa ventaja negativa que no he ganado por haber hecho, sino por no haber hecho, se entiende, política; por eso trato las objeciones a lo La Bruyère que se hacen a mi carácter con igual patetismo que si me dijesen cómo siendo yo hombre público había discutido el pago al Tesoro de unos impuestos.
 
@@ -94,7 +94,7 @@ Esto es —no necesito interpretárselo al lector— un insulto que el señor Ca
 
 Pero es vano el empeño. El señor Cambó, que intimidaría con el menor de sus gestos audaces mi habitual timidez en la vida privada, no conseguirá nunca —siento hacérselo saber— intimidarme lo más mínimo cuando se trata de asuntos públicos. No, señor Cambó; un poco de mesura. Yo, en vez de inmutarme ante su insulto, voy a analizar tranquilamente su párrafo.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Hay en él la intención de presentarme como un hombre a quien la polémica política lleva a violar una amistad íntima. Mas es el [caso](/concepts/fortune) que mi amistad con el señor Ventosa no tiene ese carácter, aunque yo lo desearía. Nuestro trato se ha reducido a seis u ocho encuentros en toda nuestra vida. Pero no se crea que va esto dicho con ánimo de volatilizar mi relación con este señor. Todo lo contrario. Lo digo para añadir en esta ocasión tan penosa, y cuando razones más fuertes que mi albedrío me obligan a vejarlo, que mi simpatía y estimación por su persona privada son muy superiores al grado de nuestra efectiva amistad.
 

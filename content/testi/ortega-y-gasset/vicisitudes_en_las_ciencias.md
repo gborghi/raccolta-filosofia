@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/vicisitudes_en_las_ciencias" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Vicisitudes en las ciencias" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Vicisitudes en las ciencias" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Es interesante estudiar la historia de las ciencias bajo la imagen de que cada una de ellas fuese una persona, o, mejor, una serie de personas que se suceden con el tiempo, representando las generaciones. Bajo tal supuesto, aparece cada ciencia comportándose como un individuo, dotada de determinado carácter, reaccionando ante los demás acontecimientos humanos, soberbia y agresiva en unos tiempos, humilde en otros. La vemos, como el héroe de una biografía, atravesar vicisitudes innumerables, gozar de horas triunfantes, sufrir desdenes, ser reina (regina scientiarum) o caer en situación ancilar (ancilla theologiae fue la filosofía en la Edad Media). Cada ciencia tiene su individual destino, como si fuese un hombre. Pero lo más curioso que tal historia de las ciencias nos mostraría es que también, como los hombres, a pesar de tener cada una su destino individual, dentro de cada época se comportan en ciertos órdenes con perfecta homogeneidad. Por mucho que los contemporáneos discrepemos unos de otros, nos parecemos en muchas más cosas.
 
@@ -38,7 +38,7 @@ La ciencia física, que comienza en el siglo XVI, no se debe a que ciertos hombr
 
 No la observación produjo la física, sino la exigencia de la observación exacta. Y exactitud es un vocablo que sólo tiene sentido propio, auténtico, en matemática. Lo nuevo de la nuova scienza de Galileo fue la introducción formal de la matemática en la observación, la cuantificación radical de los fenómenos por su radical mensuración; por tanto, la experiencia matemática.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pero esta aplicación que Galileo hace de las leyes matemáticas a los fenómenos físicos hubiera sido imposible si Galileo no hubiese padecido el prejuicio de que los fenómenos físicos obedecen, sin duda alguna, a las leyes matemáticas; por ejemplo, si no hubiese creído de antemano y previamente a toda experiencia que en la naturaleza hay ángulos rectos y que en un triángulo corporal la suma de sus ángulos es igual a dos rectos. Para la física la cuestión era averiguar a qué otras leyes especiales obedecían los fenómenos materiales, además de obedecer, esto era para él incuestionable, a las leyes geométricas. Por eso dice: «La verdad está escrita en la naturaleza con letras matemáticas». La física trata de leer las palabras, pero ni siquiera discute el abecedario. Por eso Galileo no se ocupa de hacer experimentos con el fin de demostrar físicamente si hay en la naturaleza ángulos rectos. Quiere ello decir que para la física, hasta hace unos cincuenta años, era una cosa indiscutible y evidente que las leyes geométricas por sí y a potiori, son leyes físicas; que los cuerpos obedecen dócilmente a aquéllas. La física, pues, comienza no por experimentar, sino, al revés, por no experimentar, por prejuzgar la docilidad geométrica de la [materia](/positions/materialism).
 

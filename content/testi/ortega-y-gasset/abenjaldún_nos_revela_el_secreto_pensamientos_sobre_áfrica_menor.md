@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Abenjaldún nos revela el secreto (pensamientos sobre África Menor)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Abenjaldún nos revela el secreto (pensamientos sobre África Menor)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -44,7 +44,7 @@ Afortunadamente, hay una egregia excepción. Un africano genial, de mente tan cl
 
 Los Prolegómenos históricos, de Abenjaldún, son un libro clásico que desde hace casi un siglo ha entrado en el haber común, merced a la traducción del barón de Slane[158]. Abenjaldún, no contento con narrar los hechos del pasado africano —él escribe hacia 1373—, quiere comprenderlos. Comprender es, por lo pronto, simplificar, sustituir la infinidad de los fenómenos por un repertorio finito de ideas. Cuanto más reducido sea este repertorio, la comprensión es más enérgica. El ideal de la ciencia sería explicar con una sola idea todos los hechos del Universo. ¿En qué consiste ese poder mágico de una idea en virtud del cual, puesta a un lado, pesa ella sola tanto como los hechos todos de la realidad puestos de otro? Consiste sencillamente en que esa idea aísla y define un [hecho radical](/positions/radical_reality_of_life) del que todos los demás son puras modificaciones y combinaciones. Así la física ha aspirado a demostrar que las infinitas clases de movimientos observadas en el cosmos son casos particulares de un tipo único de desplazamiento: la caída de un cuerpo sobre otro. Donde se ensaye esta operación simplificadora hay ciencia en el sentido más rigoroso de la palabra, en el sentido helénico y europeo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pues bien: la obra de Abenjaldún nos enseña que la aparente baraúnda de acontecimientos africanos se reduce a uno sólo: la coexistencia de dos modos de vida —la vida nómada y la vida sedentaria. Éste es el [hecho radical](/positions/radical_reality_of_life), básico, inagotable, de que brota toda la historia africana. No es extraño que los otros grandes pueblos no hayan entendido nunca bien los intrincamientos de ese largo pretérito. Aquel hecho se da sólo en África del Norte, si se entiende por tal la faja enorme que va del Atlántico al golfo Pérsico y del Mediterráneo al borde Sur del Sudán y al extremo de Arabia. En las restantes regiones del planeta, o hay nómadas o hay sedentarios; pero en ninguna hay inseparablemente ambas cosas. A lo sumo acontece que un pueblo sedentario se desplaza: entonces hablamos de emigración. Pero esta emigración, que en un cierto instante han emprendido todos los pueblos, es en ellos una manifestación transitoria, no es nomadismo. La emigración es el desplazamiento del sedentario.
 
@@ -70,7 +70,7 @@ Hay que tener buen sentido y pensar que en ciertos puntos «el pasado y el porve
 
 Y es curioso cómo desde su rincón africano —en Túnez, Tlemecén, Biskra, Fez— percibe que durante su vida fermenta una gran crisis en el mundo —las rosas del Renacimiento próximo anticipan su primavera para esta exquisita pituitaria de beduino. «Cuando, como ahora, experimenta el universo un trastorno completo, diríase que va a cambiar de naturaleza, a fin de pasar por una nueva creación y organizarse de nuevo. Por ello, es preciso que un historiador pueda atestiguar del estado del mundo, de los países, de los pueblos» (67).
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pero todas estas normas de «crítica histórica» no nos llevarían muy lejos —no nos han llevado muy lejos. En estos años se está apercibiendo la inteligencia europea del error cometido durante todo el siglo pasado de confundir la historia con la crítica histórica y la filología. Es un error parejo al que tomase el andamio por el edificio. El andamiaje filológico ha ahogado la construcción durante cien años, prevaliéndose, como tantas otras torpezas cometidas en la pasada centuria, de que era evidentemente necesario. Como si ser necesaria una cosa para otra permitiese confundirla con esta otra.
 
@@ -110,7 +110,7 @@ III[163]
 
 Es desmesurada, es irritante la influencia que sobre mi generación ha tenido el vocablo Melilla. Cuando yo tenía ocho o nueve años y estudiaba en un colegio de jesuitas, abierto sobre las playas malagueñas, vi una tarde pasar soldados que iban a África. Era la primera guerra de Melilla, que comenzó con la muerte del general Margallo. Poco tiempo después fui llamado a la sala de visitas del colegio —una estancia alargada, donde pendía un cuadro con la lista de alumnos distinguidos. Allí, junto a una ventana abierta que dejaba pasar a dulces bocanadas, con un ritmo respiratorio, la embriaguez de los olores meridionales, estaba un pariente mío. Con gesto de brazo amistoso entraba en la habitación la hoja gigante de un plátano. Mi pariente desenfundó un objeto. Era el ros de Margallo. El galón de oro estaba perforado por una bala y la sangre mancillaba su esplendor. Entonces averigüé que la sangre, divino licor circulante, cuando está quieta y fuera de las venas es horrible. Para un niño de 1890, un ros era el juguete ideal. Verlo así, convertido en materia cruenta y fúnebre, me produjo horror, y atada al horror quedó para siempre en los sótanos de la memoria la palabra Melilla.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En 1909, cuando mejor andaba uno de mocedad, otra vez Melilla, barranco del Lobo, semana sangrienta. Desde entonces, toda la historia de España gira en torno a un eje de cuyos polos uno es Melilla.
 
@@ -142,7 +142,7 @@ No es posible tomar sólo el borde del desierto. Hay que añadirlo íntegro a la
 
 * * *
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Abenjaldún nos ha revelado el secreto de esta porción del planeta. Es muy probable que allá, en última instancia, cada trozo de la Tierra posea un determinado coeficiente histórico, lo que yo llamo su «razón histórica»[165]. Esto significaría que en ese lugar geográfico sólo es posible un cierto tipo de vida histórica, y que los demás sólo pueden llevar en él una existencia insuficiente, débil y más o menos monstruosa. No implica esto ningún excesivo fatalismo geofísico, y se reduce a transcribir en una fórmula lo que el pasado nos presenta con insistente normalidad. Tal vez exista un progreso en la historia universal. Parece ésta, en efecto, libertarse de esa limitación que cada paisaje impone al no permitir con plenitud más que un solo tipo de vida. Pero ¿cómo se verifica esa liberación, cómo pasa la historia universal de ese tipo de vida a otro superior? Hallamos respuesta en el hecho más misterioso y a la par más evidente que el pretérito humano manifiesta: el hecho de que el eje de la historia universal —el tipo de vida superior en cada época— se desplaza de una región planetaria a otra. De ordinario vemos la historia sólo como un movimiento en el tiempo. ¿No es misterioso ese otro movimiento en el espacio? ¿Por qué la superioridad o el «progreso» se traslada de Oriente a Grecia, de Grecia a Roma, de Roma a Europa occidental? Es tan notoria esta movilización o itinerario de la perfección humana y del predominio político, que la convicción vulgar instalada hoy en las almas, según la cual el mañana será de América, no procede sino de la inconsciente decantación que ese hecho ha dejado en los espíritus. Los Reyes Magos nos enseñan que la historia se mueve de Oriente a Occidente —como las estrellas. Ahora bien: esto sería incomprensible si en un mismo lugar fuesen igualmente posibles todos los tipos de vida humana, y adscrita a aquella gleba pudiese la historia realizar todos los progresos. Pero las apariencias son más bien como si esa limitación geofísica existiese y un imaginario poder, rector de la historia universal, se dijera: «En esta tierra ya no se puede hacer más; vámonos con la música a otra parte. La otra pieza, que es muy difícil, hay que tocarla en otro sitio, delante de otra puerta».
 
@@ -164,7 +164,7 @@ Abenjaldún subraya este odio y este desprecio del beduino a cuanto sea urbe y c
 
 Recuerda esta incompatibilidad lo que se refiere de los pueblos germánicos que conquistaban las opulentas urbes galorromanas, pero se quedaban a vivir fuera de ellas, en campo libre.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Durante los veinte siglos de historia norteafricana que nos es permitido otear, hallamos la vida constituida por idéntica estructura esencial: la dinámica dual y el perenne antagonismo del nómada y el urbano. De ella nacen Estados efímeros, que fingen por unas horas estructuras más complicadas, pero que pronto se resuelven en aquellos eternos elementos. Y debe subrayarse que estas creaciones, aún efímeras, necesitan, para formarse, de alguna colaboración extranjera. Una vez es Cartago; otra, Roma; otra, Bizancio; otra, la judía Kahena, o Idris el arábigo, o Abd-el-Munem, o el persa de Tiaret, o el general Lyautey, o España. De aquí, un curioso espejismo connatural al tipo de historia que este trozo de tierra produce: el África Menor, perpetuamente insumisa de hecho, ha parecido perpetuamente dominada por extranjeros. Y el fenómeno es comprensible: la tierra norteafricana no produce por sí misma y en verdad Estados. Los que súbitamente aparecen, y no menos súbitamente desaparecen, son, en efecto, mera apariencia importada de fuera.
 

@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/pascal/miscellaneous_thoughts" data-philosopher="Pascal"></div>
 
 
-<span class="atom-split" data-atom="002" data-title="Miscellaneous Thoughts" data-chapter="MISCELLANEOUS THOUGHTS." data-kind="intro"></span>
+<span class="atom-split" data-atom="002" data-title="Miscellaneous Thoughts" data-chapter="MISCELLANEOUS THOUGHTS." data-kind="intro" data-srclang="en"></span>
 
 I. + M. de Roannez once remarked:— “Reasons occur to me afterwards; but, in the first instance, one thing pleases or displeases me, without my being conscious of the reason; and another displeases me, for a reason which I do not discover till afterwards.” I believe, however, not that the displeasure is felt for the reasons which occur to us afterwards, but that the reasons are discovered, only because the displeasure has been felt. [Second MS. Collection of P. Guerrier, p. 192.]
 
@@ -30,11 +30,11 @@ III. + The most irrational things in worldly affairs often become, through the e
 
 IV. The power of sovereigns is founded both on the reason, and on the folly, of their people; but much the most on their folly. The greatest and most important things in the world are based in weakness; and this basis is admirably secure; for nothing is more certain than this, that the people will ever be weak. That foundation which consists in the soundness of their reason, and an opinion of their wisdom, is an unstable one.
 
-<span class="atom-split" data-atom="003" data-title="V. + Sonne opinions of the people are sound." data-chapter="V. + Sonne opinions of the people are sound." data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="V. + Sonne opinions of the people are sound." data-chapter="V. + Sonne opinions of the people are sound." data-kind="atom" data-srclang="en"></span>
 
 The greatest of calamities is civil war. It is sure to befall, if an attempt is made to elevate merit only; for all will say they are deserving. The evil to be apprehended from a fool who succeeds by right of birth, is not so great, or so certain.
 
-<span class="atom-split" data-atom="004" data-title="VI. + Sound opinions of the people." data-chapter="VI. + Sound opinions of the people." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="VI. + Sound opinions of the people." data-chapter="VI. + Sound opinions of the people." data-kind="atom" data-srclang="en"></span>
 
 For a man to be handsomely dressed, is not a mere vanity; for it proves that a number of persons are employed for him: he shows by his well-arranged hair, that he has a valet de chambre, a perfumer, &c., to attend him; his band shows the fineness of his linen, lace, &c.
 
@@ -42,7 +42,7 @@ Nor is it a mere matter of outside show and trapping, to carry various coats of 
 
 + Numerous emblazonments are the indications of bravery. Thus a handsome appearance is a proof of superiority.
 
-<span class="atom-split" data-atom="005" data-title="VII. The people have some very sound opinions; for example: —" data-chapter="VII. The people have some very sound opinions; for example: —" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="VII. The people have some very sound opinions; for example: —" data-chapter="VII. The people have some very sound opinions; for example: —" data-kind="atom" data-srclang="en"></span>
 
 1st. To prefer amusements and the chase to imaginative reading. Half-instructed persons ridicule this, and pique themselves on proving from it the folly of the world; but, for a reason which they cannot discern, the preference is right.
 
@@ -62,7 +62,7 @@ Knowledge has two extremes which meet; the one is that pure natural ignorance, i
 
 (On the reverse leaf of this last fragment, is written the following passage on Descartes’ system of the world.) [Although this remark of Pascal may seem to be directed against the entire philosophy of Descartes, it is evident that it is specially suggested by the Sd Part of the “Principia Philosophise” entitled “de Mundo adspectabili” At page 415 of the MS. Autog., there are these detached expressions:—” Descartes, unprofitable and variable.”]
 
-<span class="atom-split" data-atom="006" data-title="IX. Descartes." data-chapter="IX. Descartes." data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="IX. Descartes." data-chapter="IX. Descartes." data-kind="atom" data-srclang="en"></span>
 
 We are then, in substance, to say, that is produced by figure and motion; and that is true. But to say these things, {quels) and then compose the machine, is absurd; for it is useless, uncertain, and painful. And even were it true, we hold that all the philosophy in the world does not avail against an hour of suffering.
 
@@ -110,7 +110,7 @@ XXII. + There axe two sorts of persons who confound the distinctions between thi
 
 XXIII. The highest order of minds are most capable of perceiving originality of character. Ordinary ones see little difference between one person and another.
 
-<span class="atom-split" data-atom="007" data-title="XXIV. + Yours, mine." data-chapter="XXIV. + Yours, mine." data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="XXIV. + Yours, mine." data-chapter="XXIV. + Yours, mine." data-kind="atom" data-srclang="en"></span>
 
 “This dog is mine” you hear poor children say: “That is my place in the sunshine there is the commencement and type of usurpation throughout the world.
 
@@ -128,11 +128,11 @@ XXVIII. The great and the humble experience the same accidents, the same disquie
 
 XXIX. Who that had enjoyed the [friendship](/concepts/friendship) of the Kings of England and Poland, and the Queen of Sweden, would have believed that the time would come when they would not find a retreat and shelter throughout the world? [Pascal, no doubt, here alludes to Charles I. of England, driven into the Isle of Wight, in 1647; to John Casimir, king of Poland, compelled to seek an asylum in Silesia, in 1655; and lastly, to Queen Christina, who abdicated her throne in 1654.]
 
-<span class="atom-split" data-atom="008" data-title="XXX. + Tyranny + Consists in a desire of unusual and irregular domination." data-chapter="XXX. + Tyranny + Consists in a desire of unusual and irregular domination." data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="XXX. + Tyranny + Consists in a desire of unusual and irregular domination." data-chapter="XXX. + Tyranny + Consists in a desire of unusual and irregular domination." data-kind="atom" data-srclang="en"></span>
 
 There are various bodies of brave, of handsome, of witty, or of pious persons, each of which has its own sphere and rule, but none elsewhere: they sometimes encounter; and the brave and the handsome contend for mastery, — for their superiority is of a different nature. They can come to no agreement: and their error is, that each is determined to get the upper hand. Neither party succeeds, even by force; that avails them nothing with the wise, and can do no more than control the mere outward conduct.
 
-<span class="atom-split" data-atom="009" data-title="XXXI. + Tyranny." data-chapter="XXXI. + Tyranny." data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="XXXI. + Tyranny." data-chapter="XXXI. + Tyranny." data-kind="atom" data-srclang="en"></span>
 
 Such language, then, as this, is indecent and tyrannical:—” I am handsome, I ought to be feared. I am brave, I ought to be beloved. I am”..................
 
@@ -140,7 +140,7 @@ Tyranny consists in aiming to get in one way what we can only properly get by a 
 
 This deference ought to be yielded; it is an injustice to withhold it, and an injustice to demand one kind in the place of another. It is equally offensive and perverse to say, “ Such a one is not brave, I will not esteem him; he is wanting in ability, therefore I will not fear him.”
 
-<span class="atom-split" data-atom="010" data-title="XXXII. + Diversity." data-chapter="XXXII. + Diversity." data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="XXXII. + Diversity." data-chapter="XXXII. + Diversity." data-kind="atom" data-srclang="en"></span>
 
 + Theology is a science; but, after all, what are sciences? A man is an instrument; but, when you anatomize it, do you find it to consist in his head, his heart, the stomach, the veins, each individual vein, each part of a vein, the blood, each of the humours of the blood?
 
@@ -158,11 +158,11 @@ XXXVII. + It is not only that we see things under a different aspect, but with d
 
 XXXVIII. + Such a person no longer admires her whom he loved ten years ago. I doubt it not. She is no longer the same, nor he either. He was then young, and she also; she is now otherwise. Were she the same, he would perhaps admire her still.
 
-<span class="atom-split" data-atom="011" data-title="XXXIX. + Inconstancy." data-chapter="XXXIX. + Inconstancy." data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="XXXIX. + Inconstancy." data-chapter="XXXIX. + Inconstancy." data-kind="atom" data-srclang="en"></span>
 
 + We fancy we may play upon man as we touch an instrument. He is an instrument indeed, but how irregular, capricious, inconstant; how full of discords! In doing it, we ought to know where are the...[The remainder of this passage is wanting. (French Editor.) This fragmentary remark will remind the reader of the passage in Hamlet: “There is much music, excellent voice in this little organ; yet cannot you make it speak? Why do you think that I am easier to be played on than a pipe? Call me what instrument you will; though you can fret me, you cannot play upon me.” — Act S, Sc. 7. (Transl.)]
 
-<span class="atom-split" data-atom="012" data-title="XL. + Inconstancy." data-chapter="XL. + Inconstancy." data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="XL. + Inconstancy." data-chapter="XL. + Inconstancy." data-kind="atom" data-srclang="en"></span>
 
 Things possess various qualities, and the mind has various inclinations; for, nothing presents itself in a simple form to the mind; and the mind never applies itself simply to any object. Thence it happens, that we sometimes weep and smile for the same thing.
 
@@ -190,7 +190,7 @@ XLIX. We are so ill-constituted that we cannot take an interest in anything, wit
 
 L. + Those who are always sanguine under adverse circumstances, and elated in prosperous conjunctures, if they do not suffer equal distress at untoward ones, are wont to be pleased under disappointment, and glad to discover grounds of hope, in order to show their continued buoyancy of spirit; and to cover, by the satisfaction they thus feign, that which they experience, from seeing the frustration of their affairs.
 
-<span class="atom-split" data-atom="013" data-title="LI. + Our nature is formed for motion; total rest is death." data-chapter="LI. + Our nature is formed for motion; total rest is death." data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="LI. + Our nature is formed for motion; total rest is death." data-chapter="LI. + Our nature is formed for motion; total rest is death." data-kind="atom" data-srclang="en"></span>
 
 LII. + Marton perceives plainly enough, that our nature is corrupt, and man is fallen from virtue; but he does not perceive why he cannot rise again.
 
@@ -218,7 +218,7 @@ In short, the word has two qualities; it is usurping in itself, as it makes itse
 
 LIX. It is an injustice that others should be allowed to attach themselves to me, though for their own pleasure, and with entire free-will. I should deceive them in permitting such a partiality; I can be no object for any to rest in, and have nothing that can afford them satisfaction. Am I not shortly to die? Then the object of in the following passage:—” He (Desbarreaux) preaches [Atheism](/positions/atheism) wherever he goes; and one day, at St Cloud, he was passing the Passion-week with Miton, a great gambler, Potel, Counsellor of the Châtelet, Raineys, &c., to spend their carnival, as he said.” their pleasure will die also! As I should be culpable in suffering a falsehood to be believed, although it might be insinuated quietly, and told and received with satisfaction; in the same way am I culpable in suffering myself to become an object of attachment. If I attract the affection of others to myself, I ought to warn those who would make themselves parties to the deception, that they should be on their guard against it, whatever advantage might accrue to myself from it; and not attach themselves to me, when their life and their cares ought to be devoted to pleasing God, or seeking to do so. [This fragment presents the interesting feature, that it is in the handwriting of Domat, who has added the following note:—” Madame Perier has the original of this paper.” Madame Perier has reproduced the passage in her memoir of her brother.]
 
-<span class="atom-split" data-atom="014" data-title="LX. + Vanity of Knowledge." data-chapter="LX. + Vanity of Knowledge." data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="LX. + Vanity of Knowledge." data-chapter="LX. + Vanity of Knowledge." data-kind="atom" data-srclang="en"></span>
 
 Knowledge of external things will not compensate my moral ignorance in a time of affliction; but moral proficiency will always afford me consolation under the absence of external knowledge.
 
@@ -232,11 +232,11 @@ LXIII. The things to which we are most addicted, — such, for instance, as the 
 
 LXIV. Imagination exaggerates petty objects, till they fill the mind in an extravagant degree; and, in the same way, with a rash presumption, she diminishes great objects, and brings them down to her own standard. This is seen in the manner of some, in speaking of the Supreme Being.
 
-<span class="atom-split" data-atom="015" data-title="LXV. + Lustravit lampade terras. The weather has little connexion with my moods." data-chapter="LXV. + Lustravit lampade terras. The weather has little connexion with my moods." data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="LXV. + Lustravit lampade terras. The weather has little connexion with my moods." data-chapter="LXV. + Lustravit lampade terras. The weather has little connexion with my moods." data-kind="atom" data-srclang="en"></span>
 
 Fancies, with me, depend not upon weather. I have my storms and my sunshine within; the success or reverses of my affairs even, affect me little. I like to set myself against fortune; the very glory of overcoming her, elates me: and, on the other, hand, I sometimes feel depressed in the midst of prosperity.
 
-<span class="atom-split" data-atom="016" data-title="LXVI. + Spongia solis." data-chapter="LXVI. + Spongia solis." data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="LXVI. + Spongia solis." data-chapter="LXVI. + Spongia solis." data-kind="atom" data-srclang="en"></span>
 
 When we see certain events always recurring alike, we conclude that they originate in a natural necessity; as that day will succeed day, &c.; but nature often deceives our expectations, and does not follow her own laws.
 
@@ -262,7 +262,7 @@ LXXII. + Nature works progressively: “itus et reditus.” — She passes on an
 
 Literally imitated from the MS.
 
-<span class="atom-split" data-atom="017" data-title="LXXIII. + Man’s nature is not always progressive. It has its advances and returns." data-chapter="LXXIII. + Man’s nature is not always progressive. It has its advances and returns." data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="LXXIII. + Man’s nature is not always progressive. It has its advances and returns." data-chapter="LXXIII. + Man’s nature is not always progressive. It has its advances and returns." data-kind="atom" data-srclang="en"></span>
 
 + Fevers have their chills and burnings; and the cold fits show as much the violence of the fever as its heats.
 
@@ -276,11 +276,11 @@ LXXIV. + After we have been accustomed to use bad reasons for establishing the p
 
 LXXV. + If an animal performed by reason what it does instinctively, and could utter by means of intelligence what it expresses by instinct, for summoning its comrades to the chase, and warning them that their prey is found at last, it would be able to speak in matters of more importance to itself: as, for instance, to say, “Bite for me this cord that hurts me, and which I cannot reach.”
 
-<span class="atom-split" data-atom="018" data-title="LXXVI. + Emulation." data-chapter="LXXVI. + Emulation." data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="LXXVI. + Emulation." data-chapter="LXXVI. + Emulation." data-kind="atom" data-srclang="en"></span>
 
 Animals have no affections. A horse feels no admiration for its companions. There is an emulation between them on the race-course, but it leads to no results; when they are in the stable, the dull and ill-made horse does not give up its oats to the other, as men require their fellows to do. They have no thought but for themselves.
 
-<span class="atom-split" data-atom="019" data-title="LXXVII. + Emulation." data-chapter="LXXVII. + Emulation." data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="LXXVII. + Emulation." data-chapter="LXXVII. + Emulation." data-kind="atom" data-srclang="en"></span>
 
 + From early infancy, admiration spoils everything. “How well that was said! how well that was done! how clever he is!” &c.
 
@@ -288,7 +288,7 @@ Animals have no affections. A horse feels no admiration for its companions. Ther
 
 LXXVIII. Have you never met with persons, who, by way of reflection upon your moderate opinion of them, are fond of descanting upon the number of people of distinction who admire them? I should reply to all this, “Show me what are the merits that have procured you their admiration, and I will admire you myself.”
 
-<span class="atom-split" data-atom="020" data-title="LXXIX. Would you wish that others should think well of you? say nothing about it." data-chapter="LXXIX. Would you wish that others should think well of you? say nothing about it." data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="LXXIX. Would you wish that others should think well of you? say nothing about it." data-chapter="LXXIX. Would you wish that others should think well of you? say nothing about it." data-kind="atom" data-srclang="en"></span>
 
 LXXX. To pity the unfortunate is not opposed to self-love, but the contrary: persons are well pleased to have the opportunity of showing this mark of humanity, and of gaining the reputation of tenderness at no expense.
 
@@ -306,7 +306,7 @@ LXXXIV. See the vanity of the art of painting! To challenge admiration, by fidel
 
 LXXXV. Two countenances resembling each other, neither of which, when seen alone, causes ridicule, become laughable when brought together.
 
-<span class="atom-split" data-atom="021" data-title="LXXXVI. Rivers are moving roads, which carry us on to our destinations." data-chapter="LXXXVI. Rivers are moving roads, which carry us on to our destinations." data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="LXXXVI. Rivers are moving roads, which carry us on to our destinations." data-chapter="LXXXVI. Rivers are moving roads, which carry us on to our destinations." data-kind="atom" data-srclang="en"></span>
 
 LXXXVII. There are many who understand the sermon just to as good purpose as they understand the prayers.
 
@@ -316,7 +316,7 @@ LXXXIX. + Experience shows us an enormous difference between devotion and goodne
 
 XC. Discourses upon humility are occasions of pride to the vain, and of humiliation to the humble. So, those upon pyrrhonism are matter of peremptoriness to the peremptory. Few speak humbly upon humility; few chastely upon chastity; few upon pyrrhonism in a spirit of doubt. We are made up of falsehood, duplicity, inconsistency; and we hide and disguise these things from ourselves!
 
-<span class="atom-split" data-atom="022" data-title="XCI. + Vanity." data-chapter="XCI. + Vanity." data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="XCI. + Vanity." data-chapter="XCI. + Vanity." data-kind="atom" data-srclang="en"></span>
 
 + The cause and the effect of love. — Cleopatra.
 
@@ -324,13 +324,13 @@ Whoever would fully learn the vanity of man, has but to consider the causes and 
 
 Had Cleopatra’s nose been a little shorter, the whole face of the world might have been changed.
 
-<span class="atom-split" data-atom="023" data-title="XCII. + Vanity." data-chapter="XCII. + Vanity." data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="XCII. + Vanity." data-chapter="XCII. + Vanity." data-kind="atom" data-srclang="en"></span>
 
 Wonderful indeed is it to see a thing so palpable as the vanity of the world so little understood, that to assert the folly of aspiring to its grandeurs should excite surprise.
 
 XCIII. Vanity is so rooted in man’s heart, that a soldier, a powder-monkey, a cook, a porter, will boast of their performances, and lay themselves out for admiration; aye, and philosophers also. And writers against such weaknesses seek praise for their good writing; and readers for reading it; and I, who am writing this, have perhaps the same desires; and so have my readers also.
 
-<span class="atom-split" data-atom="024" data-title="XCIV. + Pride." data-chapter="XCIV. + Pride." data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="XCIV. + Pride." data-chapter="XCIV. + Pride." data-kind="atom" data-srclang="en"></span>
 
 Curiosity is nothing but vanity. Persons, for the most part, wish only to learn, for the purpose of speaking of their knowledge. We should never undertake voyages or travels were we not to have to talk of them, — were it for the mere pleasure of seeing, without the hope of communicating what we saw.
 
@@ -338,7 +338,7 @@ XCV. In passing hastily through a town, we do not trouble ourselves about people
 
 XCVI. Such is our ambition, that we wish to he known by all the world, and even by those who are to come after us. And such our vanity, that the good opinion of half a dozen persons around us affords us content and satisfaction!
 
-<span class="atom-split" data-atom="025" data-title="XCVII. + On the desire of esteem among those around us." data-chapter="XCVII. + On the desire of esteem among those around us." data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="XCVII. + On the desire of esteem among those around us." data-chapter="XCVII. + On the desire of esteem among those around us." data-kind="atom" data-srclang="en"></span>
 
 — + Pride keeps invincible possession of us amidst our errors, miseries, &c. We even part with life with satisfaction, provided we can be talked of.
 
@@ -354,7 +354,7 @@ C. When malice gets reason on its side, pride is engendered, and reason is displ
 
 — When austerity and severe habits have been unsuccessful in attaining true happiness, and nature is again followed, she becomes proud of her restoration.
 
-<span class="atom-split" data-atom="026" data-title="CI. Never are evil deeds so thoroughly and heartily committed as when conscience assents." data-chapter="CI. Never are evil deeds so thoroughly and heartily committed as when conscience assents." data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="CI. Never are evil deeds so thoroughly and heartily committed as when conscience assents." data-chapter="CI. Never are evil deeds so thoroughly and heartily committed as when conscience assents." data-kind="atom" data-srclang="en"></span>
 
 CII. + Eclipses are said to presage trouble, because trouble is common; so that, as calamities are of continual occurrence, the prediction is often fulfilled; if they had been said to predict good, they would as often have proved fallacious. Happiness is assigned only to rare conjunctures of the skies; thus the divination is not often put to the test, CIII. I hold it to be a fact, that if all persons knew what they said of each other, there would not be four friends left in the world. [Pascal, doubtless, meant here to imply the same limitation (by nature) as in the Thought, No. CLV. (Transl.)] This is manifest from the disputes to which indiscreet reports, passing from one to another, often give rise.
 
@@ -376,7 +376,7 @@ CX. If we would reprove another with advantage, and convince him of his error, w
 
 CXI. + Shall we destroy life in order to prevent wickedness? That is to commit two crimes instead of one. “Vince in bono malum” St. Aug. [This sentiment, which Pascal, quoting from memory, attributes to St. Augustin, is from St. Paul’s Epistle to the Romans, ch xii. 21:—” Overcome evil with good.”]
 
-<span class="atom-split" data-atom="027" data-title="CXII. Force is the ruler of the world, not opinion; but opinion avails itself of force." data-chapter="CXII. Force is the ruler of the world, not opinion; but opinion avails itself of force." data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="CXII. Force is the ruler of the world, not opinion; but opinion avails itself of force." data-chapter="CXII. Force is the ruler of the world, not opinion; but opinion avails itself of force." data-kind="atom" data-srclang="en"></span>
 
 + It is constraint which forms opinion. Slackness is, in my opinion, agreeable. Why? Because any one liking to dance upon a tight rope will be alone in his taste, and I can get up a larger number who will say, that it is not agreeable. [This passage, like a few others, is obscure; and I cannot feel certain that it is correctly rendered. (Transl.)]
 
@@ -384,13 +384,13 @@ CXIII. It is the effect of constraint, not of [custom](/concepts/custom); for th
 
 CXIV. + Memory and pleasure are feelings; and even geometrical propositions become feelings; for reason renders them natural, and natural feelings are effaced by reason.
 
-<span class="atom-split" data-atom="028" data-title="CXV. Venice." data-chapter="CXV. Venice." data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="CXV. Venice." data-chapter="CXV. Venice." data-kind="atom" data-srclang="en"></span>
 
 + What advantage would you derive from it, except for the necessities of the princes, and the honour of the people? If they had demanded it of you, and for obtaining it had invoked the aid of Christian princes, you might have made their plea available. But, that during fifty years all the princes should have been uselessly exerting themselves, and that there should have been such a pressing necessity to obtain................
 
 CXVI. The last act is sanguinary, beautiful as is all the rest of the play. Dust is cast upon the head, and there is an end, and for ever.
 
-<span class="atom-split" data-atom="029" data-title="CXVII. + Death is feared when peril is distant, not in peril; for man must be man." data-chapter="CXVII. + Death is feared when peril is distant, not in peril; for man must be man." data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="CXVII. + Death is feared when peril is distant, not in peril; for man must be man." data-chapter="CXVII. + Death is feared when peril is distant, not in peril; for man must be man." data-kind="atom" data-srclang="en"></span>
 
 CXVIII. + Sudden death is the only thing to be feared; therefore it is that Confessors surround the persons of the great.
 
@@ -398,11 +398,11 @@ CXIX. Where is the difference between a soldier and a Chartreuse monk, in their 
 
 CXX. + Reasons which, viewed from afar, seem to limit our vision, — when near, limit it no longer; we then begin to see beyond them.
 
-<span class="atom-split" data-atom="030" data-title="CXXI. Few things afford consolation, because few things afflict us." data-chapter="CXXI. Few things afford consolation, because few things afflict us." data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="CXXI. Few things afford consolation, because few things afflict us." data-chapter="CXXI. Few things afford consolation, because few things afflict us." data-kind="atom" data-srclang="en"></span>
 
 CXXII. “Ferox gens nullam esse vitam sine armis rati.” These love death better than peace: the others love death better than war. There is no opinion which may not be maintained at the risk of life, the love of which seems so strong and so natural. [Montaigne, Book i., ch. 40. “Every opinion is strong enough to admit of its being supported at the price of life. Cato, when consul, having to secure certain towns in Spain to the empire, and having forbidden the inhabitants to bear arms, great numbers killed themselves. ‘Ferox gens nullam vitam rati sine armis esse,’ Tit. Livi, Book xxxiv., ch. 17.]
 
-<span class="atom-split" data-atom="031" data-title="CXXIII. + Dogmatism is a bad supporter of truth." data-chapter="CXXIII. + Dogmatism is a bad supporter of truth." data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="CXXIII. + Dogmatism is a bad supporter of truth." data-chapter="CXXIII. + Dogmatism is a bad supporter of truth." data-kind="atom" data-srclang="en"></span>
 
 + Many certainties are contradicted.
 
@@ -418,7 +418,7 @@ CXXV. By [chance](/concepts/fortune), thoughts are produced; by chance, they are
 
 CXXVI. In the act of writing down a thought, it sometimes escapes me; but this only reminds me of my weakness, which I am prone hourly to forget. This is as instructive to me as the recovery of my thought would be; for I ever desire to know my own nothingness.
 
-<span class="atom-split" data-atom="032" data-title="CXXVII. + Reasons, effects." data-chapter="CXXVII. + Reasons, effects." data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="CXXVII. + Reasons, effects." data-chapter="CXXVII. + Reasons, effects." data-kind="atom" data-srclang="en"></span>
 
 + Epictetus. Those who say you have a headache, [See No. CXXIX.].... it is not the same thing. We are certain of our good health, but not of our rectitude; and, in reality, his remark is absurd. (Vide inf. 87.)
 
@@ -436,17 +436,17 @@ Man is so constituted, that when often told he is a fool, he believes it; and wh
 
 We ought, as much as possible, to retire in silence within our own bosoms, and commune only with God, whom we know to be perfect Truth. In this way we best bring conviction home to ourselves.
 
-<span class="atom-split" data-atom="033" data-title="CXXX. + Causes and results." data-chapter="CXXX. + Causes and results." data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="CXXX. + Causes and results." data-chapter="CXXX. + Causes and results." data-kind="atom" data-srclang="en"></span>
 
 Rank: the people pay honour to persons of high birth. The half-informed despise them, contending that birth is a mere accidental advantage. The sensible respect them, not on the same ground as the common people, but from deeper views. [“La Pensée de Derrière.” — See No. CXXXIII.] Devotees, possessing more zeal than knowledge, despise them, notwithstanding those considerations which procure them the respect of the wise; regarding them by a species of new light which their piety supplies: but mature Christians honour them, by a yet superior kind of light. [Written first, “by another and more recondite (intérieur) principle.”]
 
 Thus we see opinions maintained on one side or another, according to the degree of men’s illumination.
 
-<span class="atom-split" data-atom="034" data-title="CXXXI. + Causes and results." data-chapter="CXXXI. + Causes and results." data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="CXXXI. + Causes and results." data-chapter="CXXXI. + Causes and results." data-kind="atom" data-srclang="en"></span>
 
 It is true, then, that all the world lies under illusion; for even if the opinions of the people are sound, their own minds are not so; and they fancy truth to exist where it does not There may be truth in their opinions, but it is not at the point where they suppose it to be. For instance, it is right to honour the aristocracy, but not because of any intrinsic advantage in birth, &c.
 
-<span class="atom-split" data-atom="035" data-title="CXXXII. + Cause and results." data-chapter="CXXXII. + Cause and results." data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="CXXXII. + Cause and results." data-chapter="CXXXII. + Cause and results." data-kind="atom" data-srclang="en"></span>
 
 + Continual overthrow of conflicting opinions.
 
@@ -454,25 +454,25 @@ It is true, then, that all the world lies under illusion; for even if the opinio
 
 + We must now, however, set ourselves to invalidate this latter position, and prove it to be still true, that the people are shallow, although their opinions have some degree of soundness; inasmuch as they are not conscious of the truth they contain; and, assigning such truth where it does not properly inhere, their opinions are, in reality, fallacious and unsound.
 
-<span class="atom-split" data-atom="036" data-title="CXXXIII. + Cause and results." data-chapter="CXXXIII. + Cause and results." data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="CXXXIII. + Cause and results." data-chapter="CXXXIII. + Cause and results." data-kind="atom" data-srclang="en"></span>
 
 We ought to have a kind of hidden thought, whereby to judge of everything; while we hold the same language as the people.
 
-<span class="atom-split" data-atom="037" data-title="CXXXIV. + Cause and results." data-chapter="CXXXIV. + Cause and results." data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="CXXXIV. + Cause and results." data-chapter="CXXXIV. + Cause and results." data-kind="atom" data-srclang="en"></span>
 
 + Man’s weakness is the source of many interesting demonstrations; as we learn to play skilfully on an instrument.
 
 + It is an evil only through our weakness.
 
-<span class="atom-split" data-atom="038" data-title="CXXXV. + Cause and effects." data-chapter="CXXXV. + Cause and effects." data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="CXXXV. + Cause and effects." data-chapter="CXXXV. + Cause and effects." data-kind="atom" data-srclang="en"></span>
 
 Inclination and force are the origin of all our actions: inclination! of the voluntary; force! of the involuntary.
 
-<span class="atom-split" data-atom="039" data-title="CXXXVI. + Greatness." data-chapter="CXXXVI. + Greatness." data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="CXXXVI. + Greatness." data-chapter="CXXXVI. + Greatness." data-kind="atom" data-srclang="en"></span>
 
 + The [habit](/concepts/custom) of observing causes and effects shows the greatness of man, in dividing from his sensuality the ardour of his disposition. (See Thoughts, CLIV., CLXXXV., subs.)
 
-<span class="atom-split" data-atom="040" data-title="CXXXVII. + Causes and results." data-chapter="CXXXVII. + Causes and results." data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="CXXXVII. + Causes and results." data-chapter="CXXXVII. + Causes and results." data-kind="atom" data-srclang="en"></span>
 
 This is admirable! I am not to pay honour to a man clothed in brocade, and followed by seven or eight lackeys! Why, he may order pie to receive lashes if I do not salute him! His very garment speaks compulsion.
 
@@ -482,7 +482,7 @@ CXXXVIII. Unbelievers are the most credulous of persons. They will believe the m
 
 CXXXIX. Atheists demand perfect demonstration of every thing: now it cannot be clearly proved that the soul is material.
 
-<span class="atom-split" data-atom="041" data-title="CXL. Atheism indicates strength of mind, but only up to a certain point." data-chapter="CXL. Atheism indicates strength of mind, but only up to a certain point." data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="CXL. Atheism indicates strength of mind, but only up to a certain point." data-chapter="CXL. Atheism indicates strength of mind, but only up to a certain point." data-kind="atom" data-srclang="en"></span>
 
 [It seems that Pascal, in this thought, had present to his mind the 3d ch of the 1st Book of a work now little known, which Charron has devoted to an “Apology for Religion.” It is earlier than that of “La Sagesse,” and is entitled, “Trois Livres pour la religion catholique, apostolique et romaine, contre tous athées, idolâtres, juifs, mahométans hérétiques, et schismatiques.” Paris 1602. Charron distinguishes three kinds of atheists; and speaking of those who absolutely deny a God, says that this kind of [atheism](/positions/atheism) “can exist only in an extremely bold and hardened mind.”
 
@@ -500,13 +500,13 @@ CXLIII. + There are but two classes of men: the one, the just, who believe thems
 
 CXLIV. + Half-hearted religionists are those who know the truth, but maintain it only so long as it falls in with their interests: after that they abandon it.
 
-<span class="atom-split" data-atom="042" data-title="CXLV. + It is an evil to enjoy too much license." data-chapter="CXLV. + It is an evil to enjoy too much license." data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="CXLV. + It is an evil to enjoy too much license." data-chapter="CXLV. + It is an evil to enjoy too much license." data-kind="atom" data-srclang="en"></span>
 
 + It is an evil to have our wants too well supplied.
 
 CXLVI. + The [habit](/concepts/custom) of pampering the body increases by little and little. The nourishment may be abundant, but the real benefit small.
 
-<span class="atom-split" data-atom="043" data-title="CXLVIII. + Instinct and reason are indications of different natures." data-chapter="CXLVIII. + Instinct and reason are indications of different natures." data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="CXLVIII. + Instinct and reason are indications of different natures." data-chapter="CXLVIII. + Instinct and reason are indications of different natures." data-kind="atom" data-srclang="en"></span>
 
 CXLIX. The arithmetical machine produces effects which approach nearer to thought than anything that animal nature can perform; but it is incapable of anything like will, such as is possessed by animals.
 
@@ -544,7 +544,7 @@ CLIX. + We ought to know ourselves: if this does not enable us to discover truth
 
 CLX. A person once said to me, that she was accustomed to feel great joy and confidence after confession. Another told me, that she found her fears still continue. It struck me, that out of the experience of the two, a wholesome state of feeling might be formed, and that each was wanting in what might be gained from the other. The same thing happens often in other cases.
 
-<span class="atom-split" data-atom="044" data-title="CLXI. + 1st degree: to be blamed for doing ill, and praised for well-doing." data-chapter="CLXI. + 1st degree: to be blamed for doing ill, and praised for well-doing." data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="CLXI. + 1st degree: to be blamed for doing ill, and praised for well-doing." data-chapter="CLXI. + 1st degree: to be blamed for doing ill, and praised for well-doing." data-kind="atom" data-srclang="en"></span>
 
 + 2d degree: to be neither praised nor blamed.
 
@@ -570,13 +570,13 @@ CLXIX. All dissipating amusements are dangerous to a Christian life; but among t
 
 CLXX. Men often mistake the imagination for the heart; and believe themselves converted when they have merely begun to reform.
 
-<span class="atom-split" data-atom="045" data-title="CLXXI. + How far is the knowledge of God from the love of him!" data-chapter="CLXXI. + How far is the knowledge of God from the love of him!" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="CLXXI. + How far is the knowledge of God from the love of him!" data-chapter="CLXXI. + How far is the knowledge of God from the love of him!" data-kind="atom" data-srclang="en"></span>
 
 CLXXII. + “Fascinatio nugacitatis.” That passion may not injure us, let us act as if we had but a week to live.
 
 + If we can give up a week, we can give up a life.
 
-<span class="atom-split" data-atom="046" data-title="CLXXIII. + Superstition and concupiscence." data-chapter="CLXXIII. + Superstition and concupiscence." data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="CLXXIII. + Superstition and concupiscence." data-chapter="CLXXIII. + Superstition and concupiscence." data-kind="atom" data-srclang="en"></span>
 
 + Scruples, unlawful desires.
 
@@ -604,7 +604,7 @@ CLXXVIII. + The waters of Babylon flow, and pass away, and draw us down with the
 
 CLXXIX. All that is in the world is “lust of the flesh, lust of the eye, or pride of life “libido sentiendi, libido sciendi, libido dominandi.” Unhappy earth, whose curse is to be devastated rather than watered by these waves of fire! Happy they who, on the surface of these streams, not engulfed by them, not carried down, but immoveably fixed, await in that secure and lowly posture the dawning rays of heavenly light; and, in calm repose, stretch out their hand to their Deliverer, that they may be placed firmly and for ever in the courts of the holy Jerusalem, where the pride of man shall never again oppose and overthrow them! They weep, but it is not to see the perishing things of sense swept away by the desolating stream; their tears flow at the thought of the country of their love, the heavenly Jerusalem, which a tedious exile has never effaced from their fond remembrances!
 
-<span class="atom-split" data-atom="047" data-title="CLXXX. External observances." data-chapter="CLXXX. External observances." data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="CLXXX. External observances." data-chapter="CLXXX. External observances." data-kind="atom" data-srclang="en"></span>
 
 + There is nothing so dangerous as what is pleasing both to God and to man; for the states which are pleasing to God and man, have one quality which procures the favour of God, and another that of man, as is seen in the greatness of St. Theresa. That which pleases God is her deep humility under revelations; men admire her superior illuminations. And thus it is fatal to imitate such discourses as hers, in the belief that we are resembling also her holiness; and to suppose that, by such means, we are loving what God loves, and attaining to [the state](/concepts/state) which secures his favour.
 
@@ -626,7 +626,7 @@ CLXXXI. + Every thing may prove fatal to us, even things formed for our service;
 
 + In every thing we do, we should look, not only at the act itself, but at our own state, past, present, future, and that of others whom it may concern; and examine the connexion of all these things. Thus shall we preserve circumspection of conduct.
 
-<span class="atom-split" data-atom="048" data-title="CLXXXII. + King, tyrant." data-chapter="CLXXXII. + King, tyrant." data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="CLXXXII. + King, tyrant." data-chapter="CLXXXII. + King, tyrant." data-kind="atom" data-srclang="en"></span>
 
 — + Thus shall I have also my internal and secret thoughts. [“Mes pensées de derrière la tête”] I shall be careful of every step I take.
 
@@ -644,7 +644,7 @@ CLXXXIII. + Are you less a slave for being loved and flattered by your master?
 
 CLXXXIV. + Perseus, King of Macedon. Paulus Emilius reproached him that he did not kill himself.
 
-<span class="atom-split" data-atom="049" data-title="CLXXXV. + Nature varies and imitates; artifice imitates and varies. (Erased.)" data-chapter="CLXXXV. + Nature varies and imitates; artifice imitates and varies. (Erased.)" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="CLXXXV. + Nature varies and imitates; artifice imitates and varies. (Erased.)" data-chapter="CLXXXV. + Nature varies and imitates; artifice imitates and varies. (Erased.)" data-kind="atom" data-srclang="en"></span>
 
 CLXXXVI. + To write against those who render science too abstruse. Descartes. [This note, which is only found in the copy, ought to be annexed to the Thoughts, No. IX., his, page 195.]
 

@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/marx/wage_labour_and_capital_1847" data-philosopher="Marx"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="WAGE LABOUR AND CAPITAL, 1847" data-chapter="Introduction to Karl Marx’s Wage Labour and Capital by Frederick Engels" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="WAGE LABOUR AND CAPITAL, 1847" data-chapter="Introduction to Karl Marx’s Wage Labour and Capital by Frederick Engels" data-kind="intro" data-srclang="en"></span>
 
 This pamphlet first appeared in the form of a series of leading articles in the Neue Rheinische Zeitung, beginning on April 4th, 1849. The text is made up of from lectures delivered by Marx before the German Workingmen’s Club of Brussels in 1847. The series was never completed. The promise “to be continued,” at the end of the editorial in Number 269 of the newspaper, remained unfulfilled in consequence of the precipitous events of that time: the invasion of Hungary by the Russians , and the uprisings in Dresden, Iserlohn, Elberfeld, the Palatinate, and in Baden , which led to the suppression of the paper on May 19th, 1849. And among the papers left by Marx no manuscript of any continuation of these articles has been found.
 
@@ -42,7 +42,7 @@ But, as soon as the economists applied this determination of value by labour to 
 
 Classical economics, therefore, essayed another turn. It said: the value of a commodity is equal to its cost of production. But, what is the cost of production of “labour”? In order to answer this question, the economists are forced to strain logic just a little. Instead of investigating the cost of production of labour itself, which, unfortunately, cannot be ascertained, they now investigate the cost of production of the labourer. And this latter can be ascertained. It changes according to time and circumstances, but for a given condition of society, in a given locality, and in a given branch of production, it, too, is given, at least within quite narrow limits. We live today under the regime of capitalist production, under which a large and steadily growing class of the population can live only on the condition that it works for the owners of the means of production – tools, machines, raw materials, and means of subsistence – in return for wages. On the basis of this mode of production, the labourer’s cost of production consists of the sum of the means of subsistence (or their price in money) which on the average are requisite to enable him to work, to maintain in him this capacity for work, and to replace him at his departure, by reason of age, sickness, or death, with another labourer – that is to say, to propagate the working class in required numbers.
 
-<span class="atom-split" data-atom="002" data-title="Introduction to Karl Marx’s Wage Labour and Capital by Frederick Engels (2/3)" data-chapter="Introduction to Karl Marx’s Wage Labour and Capital by Frederick Engels" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Introduction to Karl Marx’s Wage Labour and Capital by Frederick Engels (2/3)" data-chapter="Introduction to Karl Marx’s Wage Labour and Capital by Frederick Engels" data-kind="atom" data-srclang="en"></span>
 
 Let us assume that the money price of these means of subsistence averages 3 shillings a day. Our labourer gets, therefore, a daily wage of 3 shillings from his employer. For this, the capitalist lets him work, say, 12 hours a day. Our capitalist, moreover, calculates somewhat in the following fashion: Let us assume that our labourer (a machinist) has to make a part of a machine which he finishes in one day. The raw material (iron and brass in the necessary prepared form) costs 20 shillings. The consumption of coal by the steam-engine, the wear-and-tear of this engine itself, of the turning-lathe, and of the other tools with which our labourer works, represent, for one day and one labourer, a value of 1 shilling. The wages for one day are, according to our assumption, 3 shillings. This makes a total of 24 shillings for our piece of a machine.
 
@@ -68,7 +68,7 @@ Now what takes place after the worker has sold his labour-power, i.e., after he 
 
 Similarly with piece-wages. Let us suppose that in 12 hours our worker makes 12 commodities. Each of these costs a shilling in raw materials and wear-and-tear, and is sold for 2.5 shillings. On our former assumption, the capitalist gives the labourer .25 of a shilling for each piece, which makes a total of 3 shillings for 12 pieces. To earn this, the worker requires 12 hours. The capitalist receives 30 shillings for the 12 pieces; deducting 24 shillings for raw materials and wear-and-tear, there remains 6 shillings, of which he pays 3 shillings in wages and pockets the remaining 3. Just as before! Here, also, the worker labours 6 hours for himself – i.e., to replace his wages (half-an-hour in each of the 12 hours), and 6 hours for the capitalist.
 
-<span class="atom-split" data-atom="003" data-title="Introduction to Karl Marx’s Wage Labour and Capital by Frederick Engels (3/3)" data-chapter="Introduction to Karl Marx’s Wage Labour and Capital by Frederick Engels" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Introduction to Karl Marx’s Wage Labour and Capital by Frederick Engels (3/3)" data-chapter="Introduction to Karl Marx’s Wage Labour and Capital by Frederick Engels" data-kind="atom" data-srclang="en"></span>
 
 The rock upon which the best economists were stranded, as long as they started out from the value of [labour](/concepts/labour), vanishes as soon as we make our starting-point the value of labour-power. labour-power is, in our present-day capitalist society, a [commodity](/concepts/commodity) like every other commodity, but yet a very peculiar commodity. It has, namely, the peculiarity of being a value-creating force, the source of value, and, moreover, when properly treated, the source of more value than it possesses itself. In the present state of production, human labour-power not only produces in a day a greater value than it itself possesses and costs; but with each new scientific discovery, with each new technical invention, there also rises the surplus of its daily production over its daily cost, while as a consequence there diminishes that part of the working-day in which the labourer produces the equivalent of his day’s wages, and, on the other hand, lengthens that part of the working-day in which he must present labour gratis to the capitalist.
 
@@ -82,7 +82,7 @@ FREDERICK [ENGELS](/schools/historical_materialism_school)
 
 London, April 30, 1891.
 
-<span class="atom-split" data-atom="004" data-title="Preliminary" data-chapter="Preliminary" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Preliminary" data-chapter="Preliminary" data-kind="atom" data-srclang="en"></span>
 
 From various quarters we have been reproached for neglecting to portray the economic conditions which form the material basis of the present struggles between classes and nations. With set purpose we have hitherto touched upon these conditions only when they forced themselves upon the surface of the political conflicts.
 
@@ -100,7 +100,7 @@ The Commercial Subjugation and [Exploitation](/concepts/surplus_value) of the Bo
 
 We shall seek to portray this as simply and popularly as possible, and shall not presuppose a knowledge of even the most elementary notions of political economy. We wish to be understood by the workers. And, moreover, there prevails in Germany the most remarkable ignorance and confusion of ideas in regard to the simplest economic relations, from the patented defenders of existing conditions, down to the socialist wonder-workers and the unrecognized political geniuses, in which divided Germany is even richer than in duodecimo princelings. We therefore proceed to the consideration of the first problem.
 
-<span class="atom-split" data-atom="005" data-title="What are Wages? How are they Determined? (1/2)" data-chapter="What are Wages? How are they Determined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="What are Wages? How are they Determined? (1/2)" data-chapter="What are Wages? How are they Determined?" data-kind="atom" data-srclang="en"></span>
 
 If several workmen were to be asked: “How much wages do you get?”, one would reply, “I get two shillings a day”, and so on. According to the different branches of industry in which they are employed, they would mention different sums of money that they receive from their respective employers for the completion of a certain task; for example, for weaving a yard of linen, or for setting a page of type. Despite the variety of their statements, they would all agree upon one point: that wages are the amount of money which the capitalist pays for a certain period of work or for a certain amount of work.
 
@@ -120,13 +120,13 @@ But the putting of labour-power into action – i.e., the work – is the active
 
 Labour-power was not always a commodity (merchandise). Labour was not always wage-labour, i.e., free labour. The slave did not sell his labour-power to the slave-owner, any more than the ox sells his labour to the farmer. The slave, together with his labour-power, was sold to his owner once for all. He is a commodity that can pass from the hand of one owner to that of another. He himself is a commodity, but his labour-power is not his commodity. The serf sells only a portion of his labour-power. It is not he who receives wages from the owner of the land; it is rather the owner of the land who receives a tribute from him. The serf belongs to the soil, and to the lord of the soil he brings its fruit. The free labourer, on the other hand, sells his very self, and that by fractions. He auctions off eight, 10, 12, 15 hours of his life, one day like the next, to the highest bidder, to the owner of raw materials, tools, and the means of life – i.e., to the capitalist. The labourer belongs neither to an owner nor to the soil, but eight, 10, 12, 15 hours of his daily life belong to whomsoever buys them. The worker leaves the capitalist, to whom he has sold himself, as often as he chooses, and the capitalist discharges him as often as he sees fit, as soon as he no longer gets any use, or not the required use, out of him. But the worker, whose only source of income is the sale of his labour-power, cannot leave the whole class of buyers, i.e., the capitalist class, unless he gives up his own existence. He does not belong to this or that capitalist, but to the capitalist class; and it is for him to find his man – i.e., to find a buyer in this capitalist class.
 
-<span class="atom-split" data-atom="006" data-title="What are Wages? How are they Determined? (2/2)" data-chapter="What are Wages? How are they Determined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="What are Wages? How are they Determined? (2/2)" data-chapter="What are Wages? How are they Determined?" data-kind="atom" data-srclang="en"></span>
 
 Before entering more closely upon the relation of capital to wage-labour, we shall present briefly the most general conditions which come into consideration in the determination of wages.
 
 Wages, as we have seen, are the price of a certain [commodity](/concepts/commodity), labour-power. Wages, therefore, are determined by the same laws that determine the price of every other commodity. The question then is, How is the price of a commodity determined?
 
-<span class="atom-split" data-atom="007" data-title="By what is the price of a commodity determined? (1/2)" data-chapter="By what is the price of a commodity determined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="By what is the price of a commodity determined? (1/2)" data-chapter="By what is the price of a commodity determined?" data-kind="atom" data-srclang="en"></span>
 
 By the competition between buyers and sellers, by the relation of the demand to the supply, of the call to the offer. The competition by which the price of a [commodity](/concepts/commodity) is determined is threefold.
 
@@ -156,7 +156,7 @@ We could show, from another point of view, how not only the supply, but also the
 
 We have just seen how the fluctuation of supply and demand always bring the price of a commodity back to its cost of production. The actual price of a commodity, indeed, stands always above or below the cost of production; but the rise and fall reciprocally balance each other, so that, within a certain period of time, if the ebbs and flows of the industry are reckoned up together, the commodities will be exchanged for one another in accordance with their cost of production. Their price is thus determined by their cost of production.
 
-<span class="atom-split" data-atom="008" data-title="By what is the price of a commodity determined? (2/2)" data-chapter="By what is the price of a commodity determined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="By what is the price of a commodity determined? (2/2)" data-chapter="By what is the price of a commodity determined?" data-kind="atom" data-srclang="en"></span>
 
 The determination of price by the cost of production is not to be understood in the sense of the bourgeois economists. The economists say that the average price of commodities equals the cost of production: that is the law. The anarchic movement, in which the rise is compensated for by a fall and [the fall](/positions/original_sin) by a rise, they regard as an accident. We might just as well consider the fluctuations as the law, and the determination of the price by cost of production as an accident – as is, in fact, done by certain other economists. But it is precisely these fluctuations which, viewed more closely, carry the most frightful devastation in their train, and, like an earthquake, cause bourgeois society to shake to its very foundations – it is precisely these fluctuations that force the price to conform to the cost of production. In the totality of this disorderly movement is to be found its order. In the total course of this industrial anarchy, in this circular movement, competition balances, as it were, the one extravagance by the other.
 
@@ -164,7 +164,7 @@ We thus see that the price of a [commodity](/concepts/commodity) is indeed deter
 
 The determination of price by cost of production is tantamount to the determination of price by the labor-time requisite to the production of a commodity, for the cost of production consists, first of raw materials and wear and tear of tools, etc., i.e., of industrial products whose production has cost a certain number of work-days, which therefore represent a certain amount of labor-time, and, secondly, of direct labor, which is also measured by its duration.
 
-<span class="atom-split" data-atom="009" data-title="By what are wages determined?" data-chapter="By what are wages determined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="By what are wages determined?" data-chapter="By what are wages determined?" data-kind="atom" data-srclang="en"></span>
 
 Now, the same general laws which regulate the price of commodities in general, naturally regulate wages, or the price of labour-power. Wages will now rise, now fall, according to the relation of supply and demand, according as competition shapes itself between the buyers of labour-power, the capitalists, and the sellers of labour-power, the workers. The fluctuations of wages correspond to the fluctuation in the price of commodities in general. But within the limits of these fluctuations the price of labour-power will be determined by the cost of production, by the labour-time necessary for production of this [commodity](/concepts/commodity): labour-power.
 
@@ -180,7 +180,7 @@ Thus, the cost of production of simple labour-power amounts to the cost of the e
 
 Now that we have come to an understanding in regard to the most general laws which govern wages, as well as the price of every other commodity, we can examine our subject more particularly.
 
-<span class="atom-split" data-atom="010" data-title="The Nature and Growth of Capital" data-chapter="The Nature and Growth of Capital" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="The Nature and Growth of Capital" data-chapter="The Nature and Growth of Capital" data-kind="atom" data-srclang="en"></span>
 
 Capital consists of raw materials, instruments of [labour](/concepts/labour), and means of subsistence of all kinds, which are employed in producing new raw materials, new instruments, and new means of subsistence. All these components of capital are created by labour, products of labour, accumulated labour. Accumulated labour that serves as a means to new production is capital.
 
@@ -214,7 +214,7 @@ It is only the dominion of past, accumulated, materialized labour over immediate
 
 Capital does not consist in the fact that accumulated labour serves living labour as a means for new production. It consists in the fact that living labour serves accumulated labour as the means of preserving and multiplying its exchange value.
 
-<span class="atom-split" data-atom="011" data-title="Relation of Wage-Labour to Capital (1/2)" data-chapter="Relation of Wage-Labour to Capital" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Relation of Wage-Labour to Capital (1/2)" data-chapter="Relation of Wage-Labour to Capital" data-kind="atom" data-srclang="en"></span>
 
 What is it that takes place in the exchange between the capitalist and the wage-labourer?
 
@@ -256,11 +256,11 @@ But neither the nominal wages – i.e., the amount of money for which the labour
 
 Wages are determined above all by their relations to the gain, the profit, of the capitalist. In other words, wages are a proportionate, relative quantity.
 
-<span class="atom-split" data-atom="012" data-title="Relation of Wage-Labour to Capital (2/2)" data-chapter="Relation of Wage-Labour to Capital" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Relation of Wage-Labour to Capital (2/2)" data-chapter="Relation of Wage-Labour to Capital" data-kind="atom" data-srclang="en"></span>
 
 Real wages express the price of labour-power in relation to the price of commodities; relative wages, on the other hand, express the share of immediate [labour](/concepts/labour) in the value newly created by it, in relation to the share of it which falls to accumulated labour, to capital.
 
-<span class="atom-split" data-atom="013" data-title="The General Law that Determines the Rise and Fall of Wages and Profits" data-chapter="The General Law that Determines the Rise and Fall of Wages and Profits" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="The General Law that Determines the Rise and Fall of Wages and Profits" data-chapter="The General Law that Determines the Rise and Fall of Wages and Profits" data-kind="atom" data-srclang="en"></span>
 
 We have said: “Wages are not a share of the worker in the commodities produced by him. Wages are that part of already existing commodities with which the capitalist buys a certain amount of productive labor-power.” But the capitalist must replace these wages out of the price for which he sells the product made by the worker; he must so replace it that, as a rule, there remains to him a surplus above the cost of production expended by him, that is, he must get a profit.
 
@@ -288,7 +288,7 @@ In the second place, it must be borne in mind that, despite the fluctuations in 
 
 Finally, in whatsoever proportion the capitalist class, whether of one country or of the entire world-market, distribute the net revenue of production among themselves, the total amount of this net revenue always consists exclusively of the amount by which accumulated labour has been increased from the proceeds of direct labour. This whole amount, therefore, grows in the same proportion in which labour augments capital – i.e., in the same proportion in which profit rises as compared with wages.
 
-<span class="atom-split" data-atom="014" data-title="The Interests of Capital and Wage-Labour are diametrically opposed Effect of growth of productive Capital on Wages" data-chapter="The Interests of Capital and Wage-Labour are diametrically opposed Effect of growth of productive Capital on Wages" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="The Interests of Capital and Wage-Labour are diametrically opposed Effect of growth of productive Capital on Wages" data-chapter="The Interests of Capital and Wage-Labour are diametrically opposed Effect of growth of productive Capital on Wages" data-kind="atom" data-srclang="en"></span>
 
 We thus see that, even if we keep ourselves within the relation of capital and wage-labour, the interests of capitals and the interests of wage-labour are diametrically opposed to each other.
 
@@ -306,7 +306,7 @@ Finally, to say that “the most favorable condition for wage-labour is the fast
 
 Growth of productive capital and rise of wages, are they really so indissolubly united as the bourgeois economists maintain? We must not believe their mere words. We dare not believe them even when they claim that the fatter capital is the more will its slave be pampered. The bourgeoisie is too much enlightened, it keeps its accounts much too carefully, to share the prejudices of the feudal lord, who makes an ostentatious display of the magnificence of his retinue. The conditions of existence of the bourgeoisie compel it to attend carefully to its bookkeeping. We must therefore examine more closely into the following question:
 
-<span class="atom-split" data-atom="015" data-title="In what manner does the growth of productive capital affect wages?" data-chapter="In what manner does the growth of productive capital affect wages?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="In what manner does the growth of productive capital affect wages?" data-chapter="In what manner does the growth of productive capital affect wages?" data-kind="atom" data-srclang="en"></span>
 
 If as a whole, the productive capital of bourgeois society grows, there takes place a more many-sided accumulation of [labour](/concepts/labour). The individual capitals increase in number and in magnitude. The multiplications of individual capitals increases the competition among capitalists. The increasing magnitude of increasing capitals provides the means of leading more powerful armies of workers with more gigantic instruments of war upon the industrial battlefield.
 
@@ -326,7 +326,7 @@ But the privilege of our capitalist is not of long duration. Other competing cap
 
 The capitalists therefore find themselves, in their mutual relations, in the same situation in which they were before the introduction of the new means of production; and if they are by these means enabled to offer double the product at the old price, they are now forced to furnish double the product for less than the old price. Having arrived at the new point, the new cost of production, the battle for supremacy in the market has to be fought out anew. Given more division of labour and more machinery, and there results a greater scale upon which division of labour and machinery are exploited. And competition again brings the same reaction against this result.
 
-<span class="atom-split" data-atom="016" data-title="Effect of Capitalist Competition on the Capitalist Class the Middle Class and the Working Class (1/2)" data-chapter="Effect of Capitalist Competition on the Capitalist Class the Middle Class and the Working Class" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Effect of Capitalist Competition on the Capitalist Class the Middle Class and the Working Class (1/2)" data-chapter="Effect of Capitalist Competition on the Capitalist Class the Middle Class and the Working Class" data-kind="atom" data-srclang="en"></span>
 
 We thus see how the [method](/axes/method) of production and the means of production are constantly enlarged, revolutionized, how division of [labour](/concepts/labour) necessarily draws after it greater division of labour, the employment of machinery greater employment of machinery, work upon a large scale work upon a still greater scale. This is the law that continually throws capitalist production out of its old ruts and compels capital to strain ever more the productive forces of labour for the very reason that it has already strained them – the law that grants it no respite, and constantly shouts in its ear: March! march! This is no other law than that which, within the periodical fluctuations of commerce, necessarily adjusts the price of a [commodity](/concepts/commodity) to its cost of production.
 
@@ -356,7 +356,7 @@ An exception to the law has been adduced, namely, the workers who are employed i
 
 Since the year 1840 this assertion, which even before that date was only half-true, has lost all semblance of truth; for the most diverse machines are now applied to the manufacture of the machines themselves on quite as extensive a scale as in the manufacture of cotton yarn, and the labourers employed in machine factories can but play the role of very stupid machines alongside of the highly ingenious machines.
 
-<span class="atom-split" data-atom="017" data-title="Effect of Capitalist Competition on the Capitalist Class the Middle Class and the Working Class (2/2)" data-chapter="Effect of Capitalist Competition on the Capitalist Class the Middle Class and the Working Class" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Effect of Capitalist Competition on the Capitalist Class the Middle Class and the Working Class (2/2)" data-chapter="Effect of Capitalist Competition on the Capitalist Class the Middle Class and the Working Class" data-kind="atom" data-srclang="en"></span>
 
 But in place of the man who has been dismissed by the machine, the factory may employ, perhaps, three children and one woman! And must not the wages of the man have previously sufficed for the three children and one woman? Must not the minimum wages have sufficed for the preservation and propagation of the race? What, then, do these beloved bourgeois phrases prove? Nothing more than that now four times as many workers’ lives are used up as there were previously, in order to obtain the livelihood of one working family.
 

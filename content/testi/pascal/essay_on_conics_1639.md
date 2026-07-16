@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/pascal/essay_on_conics_1639" data-philosopher="Pascal"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Essay on Conics (1639)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Essay on Conics (1639)" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 First Definition
 
@@ -68,7 +68,7 @@ To find two diameters that meet in a given angle.
 
 To find two diameters cutting at a given angle and having a given ratio.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 There are many other problems and theorems, and many deductions which can be made from what has been stated above, but the distrust which I have, due to my little experience and capacity, does not allow me to go further into the subject until it has passed the examination of able men who may be willing to take this trouble. After that if someone thinks the subject worth continuing, I shall endeavor to extend it as far as God gives me the strength.
 

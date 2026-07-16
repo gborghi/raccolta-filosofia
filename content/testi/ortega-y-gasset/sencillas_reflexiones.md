@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sencillas_reflexiones" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sencillas reflexiones" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sencillas reflexiones" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -62,7 +62,7 @@ Perogrullo reconocería que hay una discrepancia radical entre creer que España
 
 De aquí que Costa no pueda permitirse la menor fe en la política liberal al uso. Ésta es una política quirúrgica, de ablación, de oposición. Se oye decir a toda hora que es menester cercenar el excesivo desarrollo de las Órdenes monásticas: a decir esto, tal vez a hacerlo, llaman anticlericalismo. He ahí el mal de España interpretado como un absceso periférico, y la curación simplificada con el bisturí.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Para quien considera nuestra nación como fenecida y rota la conciencia de su continuidad histórica, el cirujano político no ofrece esperanza alguna; tampoco el médico: fuera menester un padre, un generador, un suscitador. Costa lo dice de otro modo: «Bismarcks injertos en San Franciscos, con más de San Franciscos que de Bismarcks». Francisco de Asís es el vaso de amor que fecundiza los corazones: el amor es el afecto genuino de la fraternidad, de la creación. Vengan, pues, San Franciscos. En cuanto a los Bismarcks, no creo, don Joaquín, que fueran oportunos. Al pensar en qué hombres son a un pueblo necesarios, conviene distinguir dos tiempos: primero hay que constituir la nación muerta o nonnata, dotar a la raza de órganos de comunidad, y entonces convienen gentes como Stein y Humboldt, almas finas, severas, eruditas, educadas en alguna filosofía enérgica, humana, organizadora. Luego es, a veces, forzoso poner en juego esos órganos de una manera nerviosa y violenta: para esto basta un Bismarck.
 

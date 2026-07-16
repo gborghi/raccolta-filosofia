@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/contra_todas_las_demagogias" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Contra todas las demagogias" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Contra todas las demagogias" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Mi grito: «¡Viva la República!» no va, pues, dirigido a ninguna galería. Al contrario: yo lo lanzo hoy contra todas las galerías, contra todas las masas, contra todas las demagogias. Porque la propaganda de «derechas» ha sido tan demagógica, tan vergonzosa y tan envilecedora de las masas como aquélla contra la cual protestaba yo en mi discurso de León. No basta tener razón, como la han tenido, en encresparse contra las violencias y la frivolidad de un Gobierno insensato. Es preciso, además, tener razón ante España, ante el decoro nacional, que reclama de todos nosotros desesperados esfuerzos para levantar el nivel moral de nuestra vida pública. Al frenesí del obrerismo va a suceder la exacerbación del señoritismo, la plaga más vieja y exclusiva de España.
 

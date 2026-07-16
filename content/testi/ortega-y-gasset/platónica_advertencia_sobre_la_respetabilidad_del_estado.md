@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/platónica_advertencia_sobre_la_respetabilidad_del_estado" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Platónica advertencia sobre la respetabilidad del Estado" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Platónica advertencia sobre la respetabilidad del Estado" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hoy no hay en España más que un problema auténtico: los demás son «pseudos» en uno u otro sentido, por una u otra razón. Y ese problema único consiste en la construcción de un nuevo Estado. Y mientras ese nuevo Estado no exista plenamente España vivirá en peligro, y con ella y en ella todos los españoles, absolutamente todos, inclusive los que creen que la atmósfera de peligro —el río revuelto— les favorece. Porque, entre tanto, nuestra vida pública quedará reducida a una serie de coletazos contradictorios. Hoy serán machacados los de un lado, mañana los del otro. Hay que estabilizar la vida pública, y esto no se consigue, como el vocablo mismo lo sugiere, más que con un Estado.
 

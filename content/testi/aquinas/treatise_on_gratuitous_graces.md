@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_gratuitous_graces" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Gratuitous Graces" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Gratuitous Graces" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON GRATUITOUS GRACES (QQ[171]-182)
 
-<span class="atom-split" data-atom="002" data-title="OF PROPHECY (SIX ARTICLES)" data-chapter="OF PROPHECY (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF PROPHECY (SIX ARTICLES)" data-chapter="OF PROPHECY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After treating individually of all the virtues and vices that pertain to men of all conditions and
 estates, we must now consider those things which pertain especially to certain men. Now there is
@@ -61,7 +61,7 @@ Under the first head there are six points of inquiry:
 he perceives by his own spirit?
 (6) Whether anything false can be the matter of prophecy?
 
-<span class="atom-split" data-atom="003" data-title="Whether prophecy pertains to knowledge?" data-chapter="Whether prophecy pertains to knowledge?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether prophecy pertains to knowledge?" data-chapter="Whether prophecy pertains to knowledge?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prophecy does not pertain to knowledge. For it is written
 (Ecclus. 48:14) that after death the body of Eliseus prophesied, and further on (Ecclus. 49:18) it is
@@ -129,7 +129,7 @@ of the Almighty giveth understanding": while revelation is necessary, as regards
 of Divine things, whereby prophecy is completed; by its means the veil of darkness and ignorance
 is removed, according to Job 12:22, "He discovereth great things out of darkness."
 
-<span class="atom-split" data-atom="004" data-title="Whether prophecy is a habit?" data-chapter="Whether prophecy is a habit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether prophecy is a habit?" data-chapter="Whether prophecy is a habit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prophecy is a [habit](/concepts/custom). For according to Ethic. ii, 5, "there are
 three things in the soul, power, passion, and habit." Now prophecy is not a power, for then it would
@@ -214,7 +214,7 @@ acts man is not granted a habitual gift of grace. Secondly, a thing is above hum
 mode but not the substance of the act---for instance to love God and to know Him in the mirror of
 His creatures---and for this a habitual gift of grace is bestowed.
 
-<span class="atom-split" data-atom="005" data-title="Whether prophecy is only about future contingencies?" data-chapter="Whether prophecy is only about future contingencies?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether prophecy is only about future contingencies?" data-chapter="Whether prophecy is only about future contingencies?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prophecy is only about future contingencies. For Cassiodorus
 says [*Prol. super Psalt. i] that "prophecy is a Divine inspiration or [revelation](/concepts/revelation), announcing the issue
@@ -286,7 +286,7 @@ Reply to Objection 3: The formal element in prophetic knowledge is the Divine li
 being one, gives unity of species to prophecy, although the things prophetically manifested by the
 Divine light are diverse.
 
-<span class="atom-split" data-atom="006" data-title="Whether by the Divine revelation a prophet knows all that can be known prophetically?" data-chapter="Whether by the Divine revelation a prophet knows all that can be known prophetically?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether by the Divine revelation a prophet knows all that can be known prophetically?" data-chapter="Whether by the Divine revelation a prophet knows all that can be known prophetically?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that by the Divine [revelation](/concepts/revelation) a prophet knows all that can be known
 prophetically. For it is written (Amos 3:7): "The Lord God doth nothing without revealing His
@@ -336,7 +336,7 @@ whatever is pertinent to that science depends; wherefore to have the [habit](/co
 to know whatever is pertinent to that science. But God Who is the principle of prophetic knowledge
 is not known in Himself through prophecy; wherefore the comparison fails.
 
-<span class="atom-split" data-atom="007" data-title="Whether the prophet always distinguishes what he says by his own spirit from what he says by the prophetic spirit?" data-chapter="Whether the prophet always distinguishes what he says by his own spirit from what he says by the prophetic spirit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether the prophet always distinguishes what he says by his own spirit from what he says by the prophetic spirit?" data-chapter="Whether the prophet always distinguishes what he says by his own spirit from what he says by the prophetic spirit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the prophet always distinguishes what he says by his own
 spirit from what he says by the prophetic spirit. For [Augustine](/figures/augustine) states (Confess. vi, 13) that his
@@ -381,7 +381,7 @@ Ezech.).
 The arguments set down in the first place consider the revelation that is made by the prophetic
 spirit; wherefore the answer to all the objections is clear.
 
-<span class="atom-split" data-atom="008" data-title="Whether things known or declared prophetically can be false?" data-chapter="Whether things known or declared prophetically can be false?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether things known or declared prophetically can be false?" data-chapter="Whether things known or declared prophetically can be false?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that things known or declared prophetically can be false. For
 prophecy is about future contingencies, as stated above (A[3] ). Now future contingencies may
@@ -454,7 +454,7 @@ impossible for the antecedent not to be. Hence the consequent is necessary, cons
 something future in our regard, but as being present to the Divine foreknowledge, as stated in the
 FP, Q[14], A[13], ad 2.
 
-<span class="atom-split" data-atom="009" data-title="OF THE CAUSE OF PROPHECY (SIX ARTICLES)" data-chapter="OF THE CAUSE OF PROPHECY (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="OF THE CAUSE OF PROPHECY (SIX ARTICLES)" data-chapter="OF THE CAUSE OF PROPHECY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of prophecy. Under this head there are six points of inquiry:
 (1) Whether prophecy is natural?
@@ -464,7 +464,7 @@ We must now consider the cause of prophecy. Under this head there are six points
 (5) Whether any prophecy is from the demons?
 (6) Whether prophets of the demons ever tell what is true?
 
-<span class="atom-split" data-atom="010" data-title="Whether prophecy can be natural?" data-chapter="Whether prophecy can be natural?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether prophecy can be natural?" data-chapter="Whether prophecy can be natural?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prophecy can be natural. For Gregory says (Dial. iv, 26) that
 "sometimes the mere strength of the soul is sufficiently cunning to foresee certain things": and
@@ -554,7 +554,7 @@ Reply to Objection 4: The prophetic light extends even to the direction of human
 this way prophecy is requisite for the government of a people, especially in relation to Divine
 [worship](/concepts/religion); since for this nature is not sufficient, and grace is necessary.
 
-<span class="atom-split" data-atom="011" data-title="Whether prophetic revelation comes through the angels?" data-chapter="Whether prophetic revelation comes through the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether prophetic revelation comes through the angels?" data-chapter="Whether prophetic revelation comes through the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prophetic [revelation](/concepts/revelation) does not come through the angels. For it
 is written (Wis. 7:27) that Divine wisdom "conveyeth herself into holy souls," and "maketh the
@@ -593,7 +593,7 @@ Reply to Objection 3: The work of the instrument is ascribed to the principal ag
 power the instrument acts. And since a minister is like an instrument, prophetic revelation, which
 is conveyed by the ministry of the angels, is said to be Divine.
 
-<span class="atom-split" data-atom="012" data-title="Whether a natural disposition is requisite for prophecy?" data-chapter="Whether a natural disposition is requisite for prophecy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether a natural disposition is requisite for prophecy?" data-chapter="Whether a natural disposition is requisite for prophecy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a natural disposition is requisite for prophecy. For prophecy
 is received by the prophet according to the disposition of the recipient, since a gloss of Jerome on
@@ -647,7 +647,7 @@ man might be hindered from the act of prophesying by some very strong passion, w
 or of concupiscence as in coition, or by any other passion. But such a natural indisposition as this
 is removed by the Divine power, which is the cause of prophecy.
 
-<span class="atom-split" data-atom="013" data-title="Whether a good life is requisite for prophecy?" data-chapter="Whether a good life is requisite for prophecy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether a good life is requisite for prophecy?" data-chapter="Whether a good life is requisite for prophecy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a good life is requisite for prophecy. For it is written (Wis.
 7:27) that the wisdom of God "through nations conveyeth herself into holy souls," and "maketh the
@@ -721,7 +721,7 @@ Reply to Objection 4: God's gifts are not always bestowed on those who are simpl
 but sometimes are vouchsafed to those who are best as regards the receiving of this or that gift.
 Accordingly God grants the gift of prophecy to those whom He judges best to give it to.
 
-<span class="atom-split" data-atom="014" data-title="Whether any prophecy comes from the demons?" data-chapter="Whether any prophecy comes from the demons?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether any prophecy comes from the demons?" data-chapter="Whether any prophecy comes from the demons?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no prophecy comes from the demons. For prophecy is "a
 Divine [revelation](/concepts/revelation)," according to Cassiodorus [*Prol. in Psalt. i]. But that which is done by a demon
@@ -772,7 +772,7 @@ shall I know the word that the Lord hath spoken? Thou shalt have this sign: What
 prophet foretelleth in the name of the Lord, and it come not to pass, that thing the Lord hath not
 spoken."
 
-<span class="atom-split" data-atom="015" data-title="Whether the prophets of the demons ever foretell the truth?" data-chapter="Whether the prophets of the demons ever foretell the truth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether the prophets of the demons ever foretell the truth?" data-chapter="Whether the prophets of the demons ever foretell the truth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the prophets of the demons never foretell the truth. For Ambrose
 [*Hilary the Deacon (Ambrosiaster) on 1 Cor. 12:3] says that "Every truth, by whomsoever spoken,
@@ -841,7 +841,7 @@ infusion of Divine light alone?
 (3) Whether prophetic revelation is always accompanied by abstraction from the sense?
 (4) Whether prophecy is always accompanied by knowledge of the things prophesied?
 
-<span class="atom-split" data-atom="016" data-title="Whether the prophets see the very essence of God?" data-chapter="Whether the prophets see the very essence of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether the prophets see the very essence of God?" data-chapter="Whether the prophets see the very essence of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the prophets see the very essence of God, for a gloss on Is.
 38:1, "Take order with thy house, for thou shalt die and not live," says: "Prophets can read in the
@@ -902,7 +902,7 @@ Reply to Objection 3: From the very fact that future contingencies are in God ac
 unalterable truth, it follows that God can impress a like knowledge on the prophet's mind without
 the prophet seeing God in His essence.
 
-<span class="atom-split" data-atom="017" data-title="Whether, in prophetic revelation, new species of things are impressed on the prophet's mind, or merely a new light?" data-chapter="Whether, in prophetic revelation, new species of things are impressed on the prophet's mind, or merely a new light?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether, in prophetic revelation, new species of things are impressed on the prophet's mind, or merely a new light?" data-chapter="Whether, in prophetic revelation, new species of things are impressed on the prophet's mind, or merely a new light?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in prophetic [revelation](/concepts/revelation) no new species of things are impressed
 on the prophet's mind, but only a new light. For a gloss of Jerome on Amos 1:2 says that "prophets
@@ -995,7 +995,7 @@ pictures in the imagination, by simply considering these pictures, but not so th
 to the representation of intelligible truths that surpass his intellect, since for this purpose he needs
 the assistance of a supernatural light.
 
-<span class="atom-split" data-atom="018" data-title="Whether the prophetic vision is always accompanied by abstraction from the senses?" data-chapter="Whether the prophetic vision is always accompanied by abstraction from the senses?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether the prophetic vision is always accompanied by abstraction from the senses?" data-chapter="Whether the prophetic vision is always accompanied by abstraction from the senses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the prophetic vision is always accompanied by abstraction
 from the senses. For it is written (Num. 12:6): "If there be among you a prophet of the Lord, I will
@@ -1074,7 +1074,7 @@ like persons who are possessed, as Priscilla and Montanus maintained. But as reg
 revelation itself, it would be more correct to say that the prophets are subject to the. spirit of
 prophecy, i.e. to the prophetic gift.
 
-<span class="atom-split" data-atom="019" data-title="Whether prophets always know the things which they prophesy?" data-chapter="Whether prophets always know the things which they prophesy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether prophets always know the things which they prophesy?" data-chapter="Whether prophets always know the things which they prophesy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the prophets always know the things which they prophesy.
 For, as [Augustine](/figures/augustine) says (Gen. ad lit. xii, 9), "those to whom signs were shown in spirit by means of
@@ -1120,7 +1120,7 @@ true prophets know not all that the Holy Ghost means by the things they see, or 
 And this suffices for the Replies to the Objections, since the arguments given at the beginning
 refer to true prophets whose minds are perfectly enlightened from above.
 
-<span class="atom-split" data-atom="020" data-title="OF THE DIVISION OF PROPHECY (SIX ARTICLES)" data-chapter="OF THE DIVISION OF PROPHECY (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="OF THE DIVISION OF PROPHECY (SIX ARTICLES)" data-chapter="OF THE DIVISION OF PROPHECY (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the division of prophecy, and under this head there are six points of
 inquiry:
@@ -1131,7 +1131,7 @@ inquiry:
 (5) Whether a comprehensor can be a prophet?
 (6) Whether prophecy advanced in perfection as time went on?
 
-<span class="atom-split" data-atom="021" data-title="Whether prophecy is fittingly divided into the prophecy of divine predestination, of foreknowledge, and of denunciation?" data-chapter="Whether prophecy is fittingly divided into the prophecy of divine predestination, of foreknowledge, and of denunciation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether prophecy is fittingly divided into the prophecy of divine predestination, of foreknowledge, and of denunciation?" data-chapter="Whether prophecy is fittingly divided into the prophecy of divine predestination, of foreknowledge, and of denunciation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prophecy is unfittingly divided according to a gloss on Mat.
 1:23, "Behold a virgin shall be with child," where it is stated that "one kind of prophecy proceeds
@@ -1206,7 +1206,7 @@ which he mentions in the fourth place---or a "voice" sounding from without and c
 hearing---this he puts in the fifth place---or a voice proceeding from a man, conveying something
 under a similitude, and this pertains to the "parable" to which he assigns the sixth place.
 
-<span class="atom-split" data-atom="022" data-title="Whether the prophecy which is accompanied by intellective and imaginative vision is more excellent than that which is accompanied by intellective vision alone?" data-chapter="Whether the prophecy which is accompanied by intellective and imaginative vision is more excellent than that which is accompanied by intellective vision alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the prophecy which is accompanied by intellective and imaginative vision is more excellent than that which is accompanied by intellective vision alone?" data-chapter="Whether the prophecy which is accompanied by intellective and imaginative vision is more excellent than that which is accompanied by intellective vision alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the prophecy which has intellective and imaginative vision is
 more excellent than that which is accompanied by intellective vision alone. For [Augustine](/figures/augustine) says
@@ -1293,7 +1293,7 @@ not to understand without a phantasm. Sometimes, however, it is sufficient to ha
 abstracted in the usual way from the senses without any imaginary vision divinely vouchsafed, and
 thus prophetic vision is said to be without imaginary vision.
 
-<span class="atom-split" data-atom="023" data-title="Whether the degrees of prophecy can be distinguished according to the imaginary vision?" data-chapter="Whether the degrees of prophecy can be distinguished according to the imaginary vision?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether the degrees of prophecy can be distinguished according to the imaginary vision?" data-chapter="Whether the degrees of prophecy can be distinguished according to the imaginary vision?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the degrees of prophecy cannot be distinguished according to
 the imaginary vision. For the degrees of a thing bear relation to something that is on its own account,
@@ -1373,7 +1373,7 @@ that which is revealed to the prophet is announced; and this is done sometimes b
 by deeds. Now this announcement, and the working of miracles, are something consequent upon
 prophecy, as stated above (Q[171], A[1]).
 
-<span class="atom-split" data-atom="024" data-title="Whether Moses was the greatest of the prophets?" data-chapter="Whether Moses was the greatest of the prophets?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether Moses was the greatest of the prophets?" data-chapter="Whether Moses was the greatest of the prophets?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Moses was not the greatest of the prophets. For a gloss at the
 beginning of the Psalter says that "David is called the prophet by way of excellence." Therefore
@@ -1420,7 +1420,7 @@ done, since they were wrought on a whole people.
 Reply to Objection 3: John belongs to the New Testament, whose ministers take precedence
 even of Moses, since they are spectators of a fuller revelation, as stated in 2 Cor. 3.
 
-<span class="atom-split" data-atom="025" data-title="Whether there is a degree of prophecy in the blessed?" data-chapter="Whether there is a degree of prophecy in the blessed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether there is a degree of prophecy in the blessed?" data-chapter="Whether there is a degree of prophecy in the blessed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is a degree of prophecy in the blessed. For, as stated
 above (A[4]), Moses saw the Divine essence, and yet he is called a prophet. Therefore in like manner
@@ -1474,7 +1474,7 @@ be Canonical Scripture; Cf. FP, Q[89], A[8], ad 2] that it was not the soul of S
 impersonating him; and that the wise man calls him Samuel, and describes his prediction as prophetic,
 in accordance with the thoughts of Saul and the bystanders who were of this opinion.
 
-<span class="atom-split" data-atom="026" data-title="Whether the degrees of prophecy change as time goes on?" data-chapter="Whether the degrees of prophecy change as time goes on?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether the degrees of prophecy change as time goes on?" data-chapter="Whether the degrees of prophecy change as time goes on?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the degrees of prophecy change as time goes on. For prophecy
 is directed to the knowledge of Divine things, as stated above (A[2]). Now according to Gregory
@@ -1566,7 +1566,7 @@ emperor Theodosius sent to John who dwelt in the Egyptian desert, and whom he kn
 ever-increasing fame to be endowed with the prophetic spirit: and from him he received a message
 assuring him of victory."
 
-<span class="atom-split" data-atom="027" data-title="OF RAPTURE (SIX ARTICLES)" data-chapter="OF RAPTURE (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="OF RAPTURE (SIX ARTICLES)" data-chapter="OF RAPTURE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider rapture. Under this head there are six points of inquiry:
 (1) Whether the soul of man is carried away to things divine?
@@ -1576,7 +1576,7 @@ We must now consider rapture. Under this head there are six points of inquiry:
 (5) Whether, when in that state, his soul was wholly separated from his body?
 (6) What did he know, and what did he not know about this matter?
 
-<span class="atom-split" data-atom="028" data-title="Whether the soul of man is carried away to things divine?" data-chapter="Whether the soul of man is carried away to things divine?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether the soul of man is carried away to things divine?" data-chapter="Whether the soul of man is carried away to things divine?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the soul of man is not carried away to things divine. For some
 define rapture as "an uplifting by the power of a higher nature, from that which is according to
@@ -1641,7 +1641,7 @@ himself. But as to those things which are beyond the scope of the free-will, man
 by a stronger operation, which in a certain respect may be called force if we consider the mode of
 operation, but not if we consider its term to which man is directed both by nature and by his intention.
 
-<span class="atom-split" data-atom="029" data-title="Whether rapture pertains to the cognitive rather than to the appetitive power?" data-chapter="Whether rapture pertains to the cognitive rather than to the appetitive power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether rapture pertains to the cognitive rather than to the appetitive power?" data-chapter="Whether rapture pertains to the cognitive rather than to the appetitive power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that rapture pertains to the appetitive rather than to the cognitive
 power. For Dionysius says (Div. Nom. iv): "The Divine love causes ecstasy." Now love pertains
@@ -1714,7 +1714,7 @@ is a movement of the appetite with regard to evil. Wherefore either of them may 
 aberration of mind; and all the more since fear arises from love, as [Augustine](/figures/augustine) says (De Civ. Dei
 xiv, 7,9).
 
-<span class="atom-split" data-atom="030" data-title="Whether Paul, when in rapture, saw the essence of God?" data-chapter="Whether Paul, when in rapture, saw the essence of God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether Paul, when in rapture, saw the essence of God?" data-chapter="Whether Paul, when in rapture, saw the essence of God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Paul, when in rapture, did not see the essence of God. For just
 as we read of Paul that he was rapt to the third heaven, so we read of Peter (Acts 10:10) that "there
@@ -1793,7 +1793,7 @@ And since the vision of God cannot be without delight, he says that he was not o
 the third heaven" by reason of his contemplation, but also into "Paradise" by reason of the consequent
 delight.
 
-<span class="atom-split" data-atom="031" data-title="Whether Paul, when in rapture, was withdrawn from his senses?" data-chapter="Whether Paul, when in rapture, was withdrawn from his senses?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether Paul, when in rapture, was withdrawn from his senses?" data-chapter="Whether Paul, when in rapture, was withdrawn from his senses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Paul, when in rapture, was not withdrawn from his senses. For
 [Augustine](/figures/augustine) says (Gen. ad lit. xii, 28): "Why should we not believe that when so great an apostle,
@@ -1851,7 +1851,7 @@ even as in the absence of the sensible object, certain impressions remain in the
 when it turns to the phantasms. And so this was the knowledge that he was unable wholly to think
 over or express in words.
 
-<span class="atom-split" data-atom="032" data-title="Whether, while in this state, Paul's soul was wholly separated from his body? (1/2)" data-chapter="Whether, while in this state, Paul's soul was wholly separated from his body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether, while in this state, Paul's soul was wholly separated from his body? (1/2)" data-chapter="Whether, while in this state, Paul's soul was wholly separated from his body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, while in this state, Paul's soul was wholly separated from his
 body. For the Apostle says (2 Cor. 5:6,7): "While we are in the body we are absent from the Lord.
@@ -1925,7 +1925,7 @@ God, they know whether their soul is separated from their body. Therefore Paul t
 On the contrary, It is written (2 Cor. 12:3): "Whether in the body, or out of the body, I know
 not, God knoweth."
 
-<span class="atom-split" data-atom="033" data-title="Whether, while in this state, Paul's soul was wholly separated from his body? (2/2)" data-chapter="Whether, while in this state, Paul's soul was wholly separated from his body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether, while in this state, Paul's soul was wholly separated from his body? (2/2)" data-chapter="Whether, while in this state, Paul's soul was wholly separated from his body?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, The true answer to this question must be gathered from the Apostle's very words,
 whereby he says he knew something, namely that he was "rapt even to the third heaven," and that
@@ -1990,7 +1990,7 @@ he lacked that full and perfect knowledge of things which is in the angels, in t
 whether he was in the body, or out of the body, this will surely not be lacking after reunion with
 the body in the resurrection of the dead, when this corruptible will put on incorruption."
 
-<span class="atom-split" data-atom="034" data-title="OF THE GRACE OF TONGUES (TWO ARTICLES)" data-chapter="OF THE GRACE OF TONGUES (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="OF THE GRACE OF TONGUES (TWO ARTICLES)" data-chapter="OF THE GRACE OF TONGUES (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider those gratuitous graces that pertain to speech, and (1) the grace of
 tongues; (2) the grace of the word of wisdom and knowledge. Under the first head there are two
@@ -1998,7 +1998,7 @@ points of inquiry:
 (1) Whether by the grace of tongues a man acquires the knowledge of all languages?
 (2) Of the comparison between this gift and the grace of prophecy.
 
-<span class="atom-split" data-atom="035" data-title="Whether those who received the gift of tongues spoke in every language?" data-chapter="Whether those who received the gift of tongues spoke in every language?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether those who received the gift of tongues spoke in every language?" data-chapter="Whether those who received the gift of tongues spoke in every language?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that those who received the gift of tongues did not speak in every language.
 For that which is granted to certain persons by the divine power is the best of its kind: thus our
@@ -2066,7 +2066,7 @@ says (Tract. xxxii in Joan.), "whereas even now the Holy Ghost is received, yet 
 the tongues of all nations, because the Church herself already speaks the languages of all nations:
 since whoever is not in the Church, receives not the Holy Ghost."
 
-<span class="atom-split" data-atom="036" data-title="Whether the gift of tongues is more excellent than the grace of prophecy?" data-chapter="Whether the gift of tongues is more excellent than the grace of prophecy?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether the gift of tongues is more excellent than the grace of prophecy?" data-chapter="Whether the gift of tongues is more excellent than the grace of prophecy?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the gift of tongues is more excellent than the grace of prophecy.
 For, seemingly, better things are proper to better persons, according to the Philosopher (Topic. iii,
@@ -2149,7 +2149,7 @@ is more excellent than the gift of tongues, as appears from the saying of the Ap
 Yet the interpretation of speeches is placed after the gift of tongues, because the interpretation of
 speeches extends even to the interpretation of divers kinds of tongues.
 
-<span class="atom-split" data-atom="037" data-title="OF THE GRATUITOUS GRACE CONSISTING IN WORDS (TWO ARTICLES)" data-chapter="OF THE GRATUITOUS GRACE CONSISTING IN WORDS (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="OF THE GRATUITOUS GRACE CONSISTING IN WORDS (TWO ARTICLES)" data-chapter="OF THE GRATUITOUS GRACE CONSISTING IN WORDS (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the gratuitous grace that attaches to words; of which the Apostle says
 (1 Cor. 12:8): "To one . . . by the Spirit is given the word of wisdom, and to another the word of
@@ -2157,7 +2157,7 @@ knowledge." Under this head there are two points of inquiry:
 (1) Whether any gratuitous grace attaches to words?
 (2) To whom is the grace becoming?
 
-<span class="atom-split" data-atom="038" data-title="Whether any gratuitous grace attaches to words?" data-chapter="Whether any gratuitous grace attaches to words?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether any gratuitous grace attaches to words?" data-chapter="Whether any gratuitous grace attaches to words?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a gratuitous grace does not attach to words. For grace is given
 for that which surpasses the faculty of nature. But natural reason has devised the art of rhetoric
@@ -2223,7 +2223,7 @@ against the ungodly, is apparently what the Apostle means by knowledge." Hence i
 for him to mention the word of faith, but it was sufficient for him to mention the word of knowledge
 and of wisdom.
 
-<span class="atom-split" data-atom="039" data-title="Whether the grace of the word of wisdom and knowledge is becoming to women?" data-chapter="Whether the grace of the word of wisdom and knowledge is becoming to women?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the grace of the word of wisdom and knowledge is becoming to women?" data-chapter="Whether the grace of the word of wisdom and knowledge is becoming to women?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the grace of the word of wisdom and knowledge is becoming
 even to women. For teaching is pertinent to this grace, as stated in the foregoing Article. Now it is
@@ -2273,13 +2273,13 @@ Reply to Objection 3: The recipients of a divinely conferred grace administer it
 ways according to their various conditions. Hence women, if they have the grace of wisdom or of
 knowledge, can administer it by teaching privately but not publicly.
 
-<span class="atom-split" data-atom="040" data-title="OF THE GRACE OF MIRACLES (TWO ARTICLES)" data-chapter="OF THE GRACE OF MIRACLES (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="OF THE GRACE OF MIRACLES (TWO ARTICLES)" data-chapter="OF THE GRACE OF MIRACLES (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the grace of miracles, under which head there are two points of inquiry:
 (1) Whether there is a gratuitous grace of working miracles?
 (2) To whom is it becoming?
 
-<span class="atom-split" data-atom="041" data-title="Whether there is a gratuitous grace of working miracles?" data-chapter="Whether there is a gratuitous grace of working miracles?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether there is a gratuitous grace of working miracles?" data-chapter="Whether there is a gratuitous grace of working miracles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no gratuitous grace is directed to the working of miracles. For
 every grace puts something in the one to whom it is given (Cf. FS, Q[90], A[1]). Now the working
@@ -2367,7 +2367,7 @@ omnipotence on which faith relies. Nevertheless, just as besides the grace of fa
 word is necessary that people may be instructed in the faith, so too is the grace of miracles necessary
 that people may be confirmed in their faith.
 
-<span class="atom-split" data-atom="042" data-title="Whether the wicked can work miracles?" data-chapter="Whether the wicked can work miracles?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether the wicked can work miracles?" data-chapter="Whether the wicked can work miracles?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the wicked cannot work miracles. For miracles are wrought
 through prayer, as stated above (A[1], ad 1). Now the prayer of a sinner is not granted, according
@@ -2443,7 +2443,7 @@ Reply to Objection 4: As Augustine says (QQ. lxxxiii, qu. 79), "the reason why t
 granted to all holy men is lest by a most baneful error the weak be deceived into thinking such
 deeds to imply greater gifts than the deeds of righteousness whereby eternal life is obtained."
 
-<span class="atom-split" data-atom="043" data-title="OF THE DIVISION OF LIFE INTO ACTIVE AND CONTEMPLATIVE (TWO ARTICLES)" data-chapter="OF THE DIVISION OF LIFE INTO ACTIVE AND CONTEMPLATIVE (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="OF THE DIVISION OF LIFE INTO ACTIVE AND CONTEMPLATIVE (TWO ARTICLES)" data-chapter="OF THE DIVISION OF LIFE INTO ACTIVE AND CONTEMPLATIVE (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider active and contemplative life. This consideration will be fourfold: (1)
 Of the division of life into active and contemplative; (2) Of the contemplative life; (3) Of the active
@@ -2452,7 +2452,7 @@ Under the first head there are two points of inquiry:
 (1) Whether life is fittingly divided into active and contemplative?
 (2) Whether this is an adequate division?
 
-<span class="atom-split" data-atom="044" data-title="Whether life is fittingly divided into active and contemplative?" data-chapter="Whether life is fittingly divided into active and contemplative?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether life is fittingly divided into active and contemplative?" data-chapter="Whether life is fittingly divided into active and contemplative?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that life is not fittingly divided into active and contemplative. For
 the soul is the principle of life by its essence: since the Philosopher says (De [Anima](/concepts/soul) ii, 4) that "in
@@ -2500,7 +2500,7 @@ understanding are movements of a kind, in so far as movement is defined "the act
 thing." In this way Dionysius (Div. Nom. iv) ascribes three movements to the soul in contemplation,
 namely, "straight," "circular," and "oblique" [*Cf. Q[180], A[6]].
 
-<span class="atom-split" data-atom="045" data-title="Whether life is adequately divided into active and contemplative?" data-chapter="Whether life is adequately divided into active and contemplative?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether life is adequately divided into active and contemplative?" data-chapter="Whether life is adequately divided into active and contemplative?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that life is not adequately divided into active and contemplative.
 For the Philosopher says (Ethic. i, 5) that there are three most prominent kinds of life, the life of
@@ -2546,7 +2546,7 @@ to any concupiscence whatever, they belong to the life of pleasure, which is not
 the active life. Those human occupations that are directed to the consideration of truth belong to
 the contemplative life.
 
-<span class="atom-split" data-atom="046" data-title="OF THE CONTEMPLATIVE LIFE (EIGHT ARTICLES)" data-chapter="OF THE CONTEMPLATIVE LIFE (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="OF THE CONTEMPLATIVE LIFE (EIGHT ARTICLES)" data-chapter="OF THE CONTEMPLATIVE LIFE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the contemplative life, under which head there are eight points of inquiry:
 (1) Whether the contemplative life pertains to the intellect only, or also to the affections?
@@ -2558,7 +2558,7 @@ We must now consider the contemplative life, under which head there are eight po
 (7) Of the pleasure of contemplation;
 (8) Of the duration of contemplation.
 
-<span class="atom-split" data-atom="047" data-title="Whether the contemplative life has nothing to do with the affections, and pertains wholly to the intellect?" data-chapter="Whether the contemplative life has nothing to do with the affections, and pertains wholly to the intellect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether the contemplative life has nothing to do with the affections, and pertains wholly to the intellect?" data-chapter="Whether the contemplative life has nothing to do with the affections, and pertains wholly to the intellect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the contemplative life has nothing to do with the affections
 and pertains wholly to the intellect. For the Philosopher says (Metaph. ii, text. 3 [*Ed Did. ia, 1])
@@ -2606,7 +2606,7 @@ on all cares and longs to see the face of its Creator."
 Reply to Objection 3: The appetitive power moves not only the bodily members to perform
 external actions, but also the intellect to practice the act of contemplation, as stated above.
 
-<span class="atom-split" data-atom="048" data-title="Whether the moral virtues pertain to the contemplative life?" data-chapter="Whether the moral virtues pertain to the contemplative life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether the moral virtues pertain to the contemplative life?" data-chapter="Whether the moral virtues pertain to the contemplative life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the moral virtues pertain to the contemplative life. For Gregory
 says (Hom. xiv in Ezech.) that "the contemplative life is to cling to the love of God and our neighbor
@@ -2670,7 +2670,7 @@ especially darken the light of reason. Hence it is that the virtue of chastity m
 apt for contemplation, since venereal pleasures most of all weigh the mind down to sensible objects,
 as [Augustine](/figures/augustine) says (Soliloq. i, 10).
 
-<span class="atom-split" data-atom="049" data-title="Whether there are various actions pertaining to the contemplative life?" data-chapter="Whether there are various actions pertaining to the contemplative life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether there are various actions pertaining to the contemplative life?" data-chapter="Whether there are various actions pertaining to the contemplative life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are various actions pertaining to the contemplative life.
 For Richard of St. Victor [*De Grat. Contempl. i, 3,4] distinguishes between "contemplation,"
@@ -2736,7 +2736,7 @@ while as regards the things he receives from man, he needs "hearing," in so far 
 the spoken word, and "reading," in so far as he receives from the tradition of Holy Writ. Secondly,
 he needs to apply himself by his personal study, and thus he requires "meditation."
 
-<span class="atom-split" data-atom="050" data-title="Whether the contemplative life consists in the mere contemplation of God, or also in the consideration of any truth whatever?" data-chapter="Whether the contemplative life consists in the mere contemplation of God, or also in the consideration of any truth whatever?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether the contemplative life consists in the mere contemplation of God, or also in the consideration of any truth whatever?" data-chapter="Whether the contemplative life consists in the mere contemplation of God, or also in the consideration of any truth whatever?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the contemplative life consists not only in the contemplation
 of God, but also in the consideration of any truth. For it is written (Ps. 138:14): "Wonderful are
@@ -2813,7 +2813,7 @@ contemplation is ultimately perfected.
 Reply to Objection 4: The ultimate perfection of the human intellect is the divine truth: and
 other truths perfect the intellect in relation to the divine truth.
 
-<span class="atom-split" data-atom="051" data-title="Whether in the present state of life the contemplative life can reach to the vision of the Divine essence?" data-chapter="Whether in the present state of life the contemplative life can reach to the vision of the Divine essence?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether in the present state of life the contemplative life can reach to the vision of the Divine essence?" data-chapter="Whether in the present state of life the contemplative life can reach to the vision of the Divine essence?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in the present state of life the contemplative life can reach to
 the vision of the Divine essence. For, as stated in Gn. 32:30, Jacob said: "I have seen God face to
@@ -2880,7 +2880,7 @@ him that sees God," it follows that all things can easily be seen through the [e
 Divine light. Wherefore he adds: "For however little he may see of the Creator's light, all created
 things become petty to him."
 
-<span class="atom-split" data-atom="052" data-title="Whether the operation of contemplation is fittingly divided into a threefold movement, circular, straight and oblique?" data-chapter="Whether the operation of contemplation is fittingly divided into a threefold movement, circular, straight and oblique?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether the operation of contemplation is fittingly divided into a threefold movement, circular, straight and oblique?" data-chapter="Whether the operation of contemplation is fittingly divided into a threefold movement, circular, straight and oblique?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the operation of contemplation is unfittingly divided into a
 threefold movement, "circular," "straight," and "oblique" (Div. Nom. iv). For contemplation pertains
@@ -2984,7 +2984,7 @@ movement.
 Wherefore it is evident that Dionysius describes the movement of contemplation with much
 greater fulness and depth.
 
-<span class="atom-split" data-atom="053" data-title="Whether there is delight in contemplation?" data-chapter="Whether there is delight in contemplation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether there is delight in contemplation?" data-chapter="Whether there is delight in contemplation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is no delight in contemplation. For delight belongs to
 the appetitive power; whereas contemplation resides chiefly in the intellect. Therefore it would
@@ -3067,7 +3067,7 @@ grow weak in the love of the world ere we wax strong in the love of God," as Gre
 xiv in Ezech.). "Thus when we have known the sweetness of God, we have one foot sound while
 the other halts; since every one who halts on one foot leans only on that foot which is sound."
 
-<span class="atom-split" data-atom="054" data-title="Whether the contemplative life is continuous?" data-chapter="Whether the contemplative life is continuous?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether the contemplative life is continuous?" data-chapter="Whether the contemplative life is continuous?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the contemplative life is not continuous. For the contemplative
 life consists essentially in things pertaining to the intellect. Now all the intellectual perfections of
@@ -3115,7 +3115,7 @@ Reply to Objection 3: The Philosopher declares the contemplative life to be abov
 it befits us "so far as there is in us something divine" (Ethic. x, 7), namely the intellect, which is
 incorruptible and impassible in itself, wherefore its act can endure longer.
 
-<span class="atom-split" data-atom="055" data-title="OF THE ACTIVE LIFE (FOUR ARTICLES)" data-chapter="OF THE ACTIVE LIFE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="OF THE ACTIVE LIFE (FOUR ARTICLES)" data-chapter="OF THE ACTIVE LIFE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the active life, under which head there are four points of inquiry:
 (1) Whether all the works of the moral virtues pertain to the active life?
@@ -3123,7 +3123,7 @@ We must now consider the active life, under which head there are four points of 
 (3) Whether teaching pertains to the active life?
 (4) Of the duration of the active life.
 
-<span class="atom-split" data-atom="056" data-title="Whether all the actions of the moral virtues pertain to the active life?" data-chapter="Whether all the actions of the moral virtues pertain to the active life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether all the actions of the moral virtues pertain to the active life?" data-chapter="Whether all the actions of the moral virtues pertain to the active life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the acts of the moral virtues do not all pertain to the active
 life. For seemingly the active life regards only our relations with other persons: hence Gregory says
@@ -3174,7 +3174,7 @@ good in themselves, and not as dispositions to the contemplative life, the moral
 the active life.
 It may also be replied, however, that the active life is a disposition to the contemplative life.
 
-<span class="atom-split" data-atom="057" data-title="Whether prudence pertains to the active life?" data-chapter="Whether prudence pertains to the active life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether prudence pertains to the active life?" data-chapter="Whether prudence pertains to the active life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prudence does not pertain to the active life. For just as the
 contemplative life belongs to the cognitive power, so the active life belongs to the appetitive power.
@@ -3228,7 +3228,7 @@ the same matter as the moral virtues. But this third kind of life is intermediat
 and the contemplative life as regards the things about which it is occupied, because it is occupied
 sometimes with the contemplation of the truth, sometimes with eternal things.
 
-<span class="atom-split" data-atom="058" data-title="Whether teaching is a work of the active or of the contemplative life?" data-chapter="Whether teaching is a work of the active or of the contemplative life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether teaching is a work of the active or of the contemplative life?" data-chapter="Whether teaching is a work of the active or of the contemplative life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that teaching is a work not of the active but of the contemplative
 life. For Gregory says (Hom. v in Ezech.) that "the perfect who have been able to contemplate
@@ -3274,7 +3274,7 @@ Reply to Objection 3: He who prays for another does nothing towards the man for 
 prays, but only towards God Who is the intelligible truth; whereas he who teaches another does
 something in his regard by external action. Hence the comparison fails.
 
-<span class="atom-split" data-atom="059" data-title="Whether the active life remains after this life?" data-chapter="Whether the active life remains after this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Whether the active life remains after this life?" data-chapter="Whether the active life remains after this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the active life remains after this life. For the acts of the moral
 virtues belong to the active life, as stated above (A[1]). But the moral virtues endure after this life
@@ -3344,7 +3344,7 @@ head there are four points of inquiry:
 (3) Whether the contemplative life is hindered by the active life?
 (4) Of their order.
 
-<span class="atom-split" data-atom="060" data-title="Whether the active life is more excellent than the contemplative?" data-chapter="Whether the active life is more excellent than the contemplative?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether the active life is more excellent than the contemplative?" data-chapter="Whether the active life is more excellent than the contemplative?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the active life is more excellent than the contemplative. For
 "that which belongs to better men would seem to be worthier and better," as the Philosopher says
@@ -3430,7 +3430,7 @@ us. Yet even then we must not altogether forsake the delights of truth, lest we 
 its sweetness, and this burden overwhelm us." Hence it is clear that when a person is called from
 the contemplative life to the active life, this is done by way not of subtraction but of addition.
 
-<span class="atom-split" data-atom="061" data-title="Whether the active life is of greater merit than the contemplative?" data-chapter="Whether the active life is of greater merit than the contemplative?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether the active life is of greater merit than the contemplative?" data-chapter="Whether the active life is of greater merit than the contemplative?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the active life is of greater merit than the contemplative. For
 merit implies relation to meed; and meed is due to labor, according to 1 Cor. 3:8, "Every man shall
@@ -3503,7 +3503,7 @@ not mean that the merit of the active life is preferable to the merit of the con
 it is more meritorious to offer to God one's own soul and the souls of others, than any other external
 gifts.
 
-<span class="atom-split" data-atom="062" data-title="Whether the contemplative life is hindered by the active life?" data-chapter="Whether the contemplative life is hindered by the active life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether the contemplative life is hindered by the active life?" data-chapter="Whether the contemplative life is hindered by the active life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the contemplative life is hindered by the active life. For the
 contemplative life requires a certain stillness of mind, according to Ps. 45:11, "Be still, and see that
@@ -3541,7 +3541,7 @@ which give rise to the phantasms whereby contemplation is hindered.
 This suffices for the Replies to the Objections; for these arguments consider the occupation
 itself of external actions, and not the effect which is the quelling of the passions.
 
-<span class="atom-split" data-atom="063" data-title="Whether the active life precedes the contemplative?" data-chapter="Whether the active life precedes the contemplative?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether the active life precedes the contemplative?" data-chapter="Whether the active life precedes the contemplative?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the active life does not precede the contemplative. For the
 contemplative life pertains directly to the love of God; while the active life pertains to the love of

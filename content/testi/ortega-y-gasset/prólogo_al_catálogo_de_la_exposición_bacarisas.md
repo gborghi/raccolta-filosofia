@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_al_catálogo_de_la_exposición_bacarisas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[Prólogo al catálogo de la Exposición Bacarisas]" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="[Prólogo al catálogo de la Exposición Bacarisas]" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Gustavo Bacarisas es un pintor de cuadros y no de programas estéticos. Debemos felicitarnos de ello, porque no parece lejana la hora en que el buen aficionado a las cosas artísticas vuelva definitivamente la espalda a esos súbitos descubrimientos que, una o dos veces al mes, se hacen ahora del secreto del arte. Intentos los aludidos donde no es lo peor que se crea, en efecto, haber descubierto ese arcano, sino que se ignore haber sido revelado hace milenios y hallarse ya patente en las exposiciones de bisontes al galope y renos en fuga que hicieron los hombres cavernarios.
 

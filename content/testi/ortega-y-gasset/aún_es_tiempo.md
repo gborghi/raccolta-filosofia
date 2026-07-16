@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/aún_es_tiempo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Aún es tiempo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Aún es tiempo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El mejor momento ha pasado. Pero ahora viene la campaña de primavera. El espanto de los sucesos guerreros volverá a conmovernos, a hacernos sentir la hermandad radical que debemos formar como españoles. No dejemos —¡por los clavos de Cristo!— pasar también esa hora. Preparémosla.
 

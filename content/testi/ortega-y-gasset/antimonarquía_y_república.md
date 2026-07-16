@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/antimonarquía_y_república" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Antimonarquía y República" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Antimonarquía y República" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 España, en su casi totalidad, es hoy antimonárquica, pero todavía no ha empezado a ser republicana. Claro está que quien es antimonárquico no tiene más remedio que ser republicano, porque entre los innumerables atributos extrínsecos que la República posee está el de ser la Antimonarquía. Pero manera tal de ser negativamente republicano no sirve para nada. Así no se es nada. Se es anti. Por consiguiente: no se es, se anti-es.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/instituciones" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Instituciones?" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="¿Instituciones?" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, noviembre de 1931
 
@@ -46,7 +46,7 @@ No se explica la actitud de estos diputados en [materia](/positions/materialism)
 
 Sería un error considerar situación de espíritu pareja como peculiar a los diputados españoles —que, entre paréntesis, no se confesarán a sí mismos tal situación íntima. La verdad, se mira por todas partes con cuidado y se sabe levantar todas las formas del enmascaramiento, es que dondequiera pasa lo mismo. En los países donde se vive bajo las instituciones tradicionales —Inglaterra y Francia— se las deja funcionar tristemente y por inercia. En los países donde hace quince años se comenzó una reforma radical de ellas —Italia y Rusia— se trata precisamente de movimientos inspirados por un curioso ateísmo institucional. Las instituciones soviéticas, como es sabido, valen declaradamente como máscaras y nada más. Bajo ellas actúa un grupo de hombres. El fascismo hace sus gestos de engendrar un nuevo tipo de Estado, pero el tal tipo de Estado no aparece nunca con claro perfil adjetivo. Se ve sólo la actuación personal de un hombre, para la cual todo el resto —ideología e instituciones— es puro pretexto y dintorno.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Ni el comunismo ni el fascismo significan fe alguna en formas políticas. Son todo lo contrario. Todos los movimientos políticos que han brotado en la historia desde hace ciento cincuenta años nacieron movidos, en efecto, por la esperanza puesta en determinadas instituciones. Creían poder dar razones en pro de las formas políticas que propugnaban. Frente a ellos comunismo y fascismo no son fe en lo que propugnan, sino simplemente decisiones. Veamos si me explico. Cuando se ha perdido la fe y no puede uno optar por algo en vista de razones, sino que éstas quedan agotadas, es preciso, no obstante, seguir viviendo; por tanto es preciso seguir optando. Pero esta opción es de nuevo carácter. No se opta ya por fe en lo elegido ni en vista de razones que lo abonan, sino que se opta porque no hay más remedio que optar —más allá de la fe, más allá de la razón. Se trata, pues, del acto más específico de la voluntad.
 

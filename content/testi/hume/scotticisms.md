@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/hume/scotticisms" data-philosopher="Hume"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="SCOTTICISMS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="SCOTTICISMS" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 Will, in the first person, as I will walk, we will walk, expresses the intention or resolution of the person, along with the future event: In the second and third person, as, you will, he will, they will, it expresses the future action or event, without comprehending or excluding the volition.
 

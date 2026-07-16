@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sinfronismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sinfronismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sinfronismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En la feria de libros que se reúne por septiembre junto a las frondas otoñales del Jardín Botánico, halla Azorín un libro, publicado en 1791 por don Jacinto Bejarano, cura párroco de Arévalo. El autor es en la historia literaria un desconocido.
 

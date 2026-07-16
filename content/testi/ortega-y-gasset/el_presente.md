@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_presente" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El presente" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El presente" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Con la fuerza moral que esta conducta, favorable a las Juntas, nos da, necesitamos declarar hoy que, a nuestro juicio, la calidad de los hechos ha cambiado. Resueltos a extremar el afán de concordia, aún creemos que pueda obedecer la incomprensible actitud adoptada estos días por el Ejército a una desviación transitoria de aquella política más seria iniciada en junio, desviación nacida acaso de malas inteligencias que alguien pueda haberse complacido en fomentar.
 

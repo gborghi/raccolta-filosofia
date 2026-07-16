@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/hay_que_cambiar_de_signo_a_la_república" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Hay que cambiar de signo a la República" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Hay que cambiar de signo a la República" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Durante ocho meses ha tenido España que vivir bajo un signo de combate, digamos bajo la figura sideral del Sagitario. Este temperamento de lucha era forzoso porque fue necesario derrumbar un régimen inepto e instaurar otro que puede ser más apto. Siete meses de agitación, aspereza, vocerío, acrimonia. No censuremos nada de esto; al contrario: hagámonos solidarios de su conjunto dejando a cada cual la responsabilidad personal del detalle. La pura verdad es que nadie puede con buena razón quejarse de las erosiones recibidas. No es posible transmutar un Régimen con menos crudeza. La lucha y sus intrínsecos atributos no pueden reducirse a menos de lo conseguido hasta ahora en nuestra España.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/por_la_idea" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="«¡Por la idea!»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="«¡Por la idea!»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ni que decir tiene que todas estas palabras reducen a no ser sino palabras todas sus pretensiones. Pues el escritor ha cumplido su misión cuando ha escrito palabras sinceras. Que de la palabra nazca el acto como bajo la flor el fruto, no es su menester.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_forma_como_método_histórico" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La forma como método histórico" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La forma como método histórico" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La Investigación de los Evangelios Sinópticos es un brevísimo folleto —36 páginas— de Rodolfo Bultmann, donde se resume admirablemente con insólita claridad el estado actual de la exégesis evangélica. No conozco obra más a propósito para una primera introducción en estas grandes cuestiones históricas, sobre las cuales ha derramado un siglo entero su esfuerzo generoso. Claro está que en tan pocas páginas sólo puede hallarse un aperitivo a la curiosidad y un índice de cuestiones.
 
@@ -44,7 +44,7 @@ Para el historiador, la historia cristiana no empieza con éstos, sino con los �
 
 Y es el caso que en 1911 un descubrimiento arqueológico venía a confirmar un nuevo detalle, en apariencia insignificante, de la obra de Lucas. En Delfos fue hallada una piedra con inscripción, donde el Emperador Claudio hace referencia a su amigo Junio Gallio como procónsul en Acaia. La fecha de la inscripción —verano del 52— coincide exactamente con la noticia de los «Hechos» (XVIII, 12-17) que presenta a San Pablo acusado por los judíos de Corinto ante el procónsul Gallio. Esta confirmación que una piedra viene a dar de esta noticia afirma e ilumina históricamente grandes espacios de los textos cristianos primitivos.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sabemos, pues, mucho sobre las personas y sus movimientos. En cambio, se ha complicado más que nunca la cuestión de cuáles fuesen las ideas anidadas en estas mentes cristianas de la hora primera. Antaño se creía posible deducir de la tradición judaica todo lo esencial del pensamiento cristiano. Pero la investigación sobre el paulinismo obligó a reconocer una influencia decisiva de las formas religiosas dominantes en el sincretismo helenístico. La historia cristiana se inclinó entonces hacia Grecia. Pero he aquí que una nueva corriente de investigación descubre en las ideas teológicas del Irán y Babilonia el verdadero origen de doctrinas que se habían atribuido al helenismo. El estado actualísimo de la cuestión se caracteriza por el sugestivo combate entre los partidarios de la explicación helenística (Bousset, Heitmüller) y los partidarios de la explicación iraniobabilónica (Reitzenstein, Meyer). Estos últimos ven en los esenios, en San Juan Bautista, etcétera, ejemplos de la fermentación religiosa emanada de Persia y Babel.
 

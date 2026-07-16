@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/conferencia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Conferencia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Conferencia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El Instituto Popular de Conferencias, hospitalario y cortés, como un gran señor, ha querido en esta reunión honrarnos a mi padre y a mí, modestos viajeros de paso tácito que sólo aspirábamos a traer aquende el mar nuestros corazones errantes para deslizarlos silenciosamente al través de vuestra alma argentina.
 
@@ -96,7 +96,7 @@ El mundo, señores, mirado sin amor, sin entusiasmo, sin fervor, parece vengarse
 
 Quien quiera esplendor y luz sobre su vida venza la exánime tristeza, despierte su íntimo fuego y todo en torno será a sus ojos una selva inflamada.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La felicidad ni se recibe ni se plagia; es en cada individuo labor original y creadora. Éstas son las enseñanzas, las calladas enseñanzas que enviaban a mi mocedad, desde los lóbregos claustros españoles, los hombres cárdenos que pinta el Greco, cuando parecían querer mostrarme sus almas incandescentes con un ligero temblor de sus barbas agudas.
 
@@ -146,7 +146,7 @@ Mas un pueblo que ve claro delante y quiere con decisión su porvenir, como el a
 
 Esta obra de fomento reflexivo en torno a la cultura superior es la misión de la Universidad.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La Universidad, señores, símbolo de toda esencial pedagogía y de toda acción intelectual, es hoy el instrumento incomparable para la labranza de pueblos. Doloroso es que todavía, lo mismo en Europa que aquí, este admirable vocablo, Universidad, suscite al ser oído imágenes sórdidas e inelegantes, de aulas tristes y prosaicas, de dómines solemnes y cejijuntos, de palabras frígidas y pedantes. Y sin embargo, aún llega a los oídos del estudioso resonando la voz de Platón, creador en su florida academia de la institución universitaria; la voz de Platón que dice: «Hagamos de la enseñanza la ciudadela del Estado».
 
@@ -192,7 +192,7 @@ Más bien he nutrido mi esperanza cuando al hablar con alguna mujer argentina he
 
 Menos absorbida que el varón por la obra económica, la mujer argentina va concretando su descontento.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Atribuye la leyenda la invención del dibujo a un mancebo de Sicione, estando una tarde junto a su amada al tiempo que el Sol tendía sobre un muro blanco la fina sombra de ésta, tomó un carbón y fijó en la pared el perfil de la silueta.
 

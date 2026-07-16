@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/qué_es_un_libro" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Qué es un libro?" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="¿Qué es un libro?" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Se habla mucho —y yo estoy ahora hablando un poco— sobre la misión del bibliotecario, sobre lo que éste hace o debe hacer con los libros. Pero es curioso que al hablar de esto no se suele hablar nada sobre el libro mismo —sobre esa entidad cuyo manejo constituye la profesión del bibliotecario. Se da por supuesto que los que escuchan saben lo que es el libro y además de saberlo lo tienen presente en la ocasión. ¿No es esto utópico? Más aún: ¿Tiene derecho el que escucha —en este [caso](/concepts/fortune) vosotros— a suponer que el que habla lo sabe y lo tiene presente? ¿No corremos el riesgo de que él mismo al pensar lo que nos habla lo dé por supuesto, por tanto, que no haya pensado jamás en ello de puro creer que ya desde siempre lo sabe, que es «cosa sabida»?
 
@@ -52,7 +52,7 @@ El libro, al objetivar la memoria, materializándola, la hace, en principio, ili
 
 Pero ¿es esto de verdad así? ¿Tiene el alfabeto tan mágico poder que logre, sin más, salvar lo viviente de su ingénito morir? ¿El decir que se escribe queda por ello vivo? —ζῶντα, 275, d. O, lo que es igual, ¿sigue diciendo siempre lo que quiso decir?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Todo lo que el hombre hace, lo hace en vista de las circunstancias. Muy especialmente cuando lo que hace es decir. Brota el decir siempre de una situación y se refiere a ella. Mas, por lo mismo, él no dice esta situación: la deja tácita, la supone. Lo cual significa que todo decir es incompleto, es fragmento de sí mismo y tiene en la escena vital, donde nace, la mayor porción de su propio sentido. Imagínense todos los supuestos tácitos sin los cuales el más simple enunciado matemático resulta ininteligible. Para entenderlo fuera, por lo menos, necesario haber caído en la cuenta de que el que nos habla pretende hacer una cosa llamada ciencia o teoría. Ahora bien, la ciencia, la teoría, no es sino una situación en que el hombre se encontró ante las cosas desde una fecha determinada y sólo en ciertos lugares del planeta. Esta situación dura, en lo esencial, desde hace muchos siglos, seguimos en ella y por eso entendemos el enunciado matemático. Pero ni ha sido siempre ni es seguro que perdure indefinidamente.
 

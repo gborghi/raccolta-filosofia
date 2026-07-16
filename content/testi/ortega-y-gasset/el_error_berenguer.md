@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_error_berenguer" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El error Berenguer" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El error Berenguer" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No, no es una errata. Es probable que en los libros futuros de historia de España se encuentre un capítulo con el mismo título que este artículo. El buen lector, que es el cauteloso y alerta, habrá advertido que en esa expresión el señor Berenguer no es el sujeto del error, sino el objeto. No se dice que el error sea de Berenguer, sino más bien lo contrario —que Berenguer es del error, que Berenguer es un error. Son otros, pues, quienes lo han cometido y cometen; otros, toda una porción de España, aunque, a mi juicio, no muy grande. Por ello, trasciende ese error los límites de la equivocación individual y quedará inscrito en la historia de nuestro país.
 
@@ -44,7 +44,7 @@ Eso, eso es todo lo que el Régimen puede ofrecer, en este momento tan difícil 
 
 Pero no es eso lo peor. Lo peor son los motivos por los que cree poderse contentar con ofrecer tan insolente ficción.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El Estado tradicional, es decir, la Monarquía, se ha ido formando un surtido de ideas sobre el modo de ser de los españoles. Piensa, por ejemplo, que moralmente pertenecen a la familia de los óvidos, que en política son gente mansurrona y lanar, que lo aguantan y lo sufren todo sin rechistar, que no tienen sentido de los deberes civiles, que son informales, que a las cuestiones de derecho y, en general, públicas, presentan una epidermis córnea. Como mi única misión en esta vida es decir lo que creo verdad —y, por supuesto, desdecirme tan pronto como alguien me demuestre que padecía equivocación—, no puedo ocultar que esas ideas sociológicas sobre el español tenidas por su Estado son, en dosis considerable, ciertas. Bien está, pues, que la Monarquía piense eso, que lo sepa y cuente con ello; pero es intolerable que se prevalga de ello. Cuanta mayor verdad sean, razón de más para que la Monarquía, responsable ante el Altísimo de nuestros últimos destinos históricos, se hubiese extenuado, hora por hora, en corregir tales defectos, excitando la vitalidad política del español, haciéndole hiperestésico para el Derecho y la dignidad civil, persiguiendo cuanto fomentase su modorra moral y su propensión lanuda. No obstante, ha hecho todo lo contrario. Desde Sagunto, la Monarquía no ha hecho más que especular sobre los vicios españoles, y su política ha consistido en aprovecharlos para su exclusiva comodidad. La frase que en los edificios del Estado español se ha repetido más veces es ésta: «¡En España no pasa nada!» La cosa es repugnante, repugnante como para vomitar entera la historia española de los últimos sesenta años; pero nadie honradamente podrá negar que la frecuencia de esa frase es un hecho.
 

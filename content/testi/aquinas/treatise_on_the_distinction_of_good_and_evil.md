@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_distinction_of_good_and_evil" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Distinction of Good and Evil" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Distinction of Good and Evil" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE DISTINCTION OF GOOD AND EVIL (QQ[48]-49)
 
-<span class="atom-split" data-atom="002" data-title="THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)" data-chapter="THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)" data-chapter="THE DISTINCTION OF THINGS IN PARTICULAR (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the distinction of things in particular; and firstly the distinction of good
 and evil; and then the distinction of the spiritual and corporeal creatures.
@@ -37,7 +37,7 @@ Concerning evil, six points are to be considered:
 (5) The division of evil into pain and fault.
 (6) Whether pain, or fault, has more the nature of evil?
 
-<span class="atom-split" data-atom="003" data-title="Whether evil is a nature?" data-chapter="Whether evil is a nature?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether evil is a nature?" data-chapter="Whether evil is a nature?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that evil is a nature. For every genus is a nature. But evil is a genus;
 for the Philosopher says (Praedic. x) that "good and evil are not in a genus, but are genera of other
@@ -117,7 +117,7 @@ as was said above, this can only happen to evil as joined to some good. Hence ev
 to the perfection of the universe, nor does it come under the order of the same, except accidentally,
 that is, by reason of some good joined to it.
 
-<span class="atom-split" data-atom="004" data-title="Whether evil is found in things?" data-chapter="Whether evil is found in things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether evil is found in things?" data-chapter="Whether evil is found in things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that evil is not found in things. For whatever is found in things, is
 either something, or a privation of something, that is a "not-being." But Dionysius says (Div. Nom.
@@ -171,7 +171,7 @@ generated if air was not corrupted, nor would the life of a lion be preserved un
 killed. Neither would avenging justice nor the patience of a sufferer be praised if there were no
 injustice.
 
-<span class="atom-split" data-atom="005" data-title="Whether evil is in good as in its subject?" data-chapter="Whether evil is in good as in its subject?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether evil is in good as in its subject?" data-chapter="Whether evil is in good as in its subject?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that evil is not in good as its subject. For good is something that
 exists. But Dionysius says (Div. Nom. iv, 4) that "evil does not exist, nor is it in that which exists."
@@ -224,7 +224,7 @@ good.
 Reply to Objection 4: The prophet invokes woe to those who say that good as such is evil.
 But this does not follow from what is said above, as is clear from the explanation given.
 
-<span class="atom-split" data-atom="006" data-title="Whether evil corrupts the whole good? (1/2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether evil corrupts the whole good? (1/2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that evil corrupts the whole good. For one contrary is wholly
 corrupted by another. But good and evil are contraries. Therefore evil corrupts the whole good.
@@ -333,7 +333,7 @@ source. Hence this kind of defect is not an evil as regards a creature.
 Reply to Objection 2: Pain and fault do not divide evil absolutely considered, but evil that is
 found in voluntary things.
 
-<span class="atom-split" data-atom="007" data-title="Whether evil corrupts the whole good? (2/2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether evil corrupts the whole good? (2/2)" data-chapter="Whether evil corrupts the whole good?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Temptation, as importing provocation to evil, is always an evil of fault
 in the tempter; but in the one tempted it is not, properly speaking, a fault; unless through the
@@ -345,7 +345,7 @@ of pain includes the idea of injury to the agent in himself, whereas the idea of
 idea of injury to the agent in his operation; and thus both are contained in evil, as including the idea
 of injury.
 
-<span class="atom-split" data-atom="008" data-title="Whether pain has the nature of evil more than fault has?" data-chapter="Whether pain has the nature of evil more than fault has?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether pain has the nature of evil more than fault has?" data-chapter="Whether pain has the nature of evil more than fault has?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that pain has more of evil than fault. For fault is to pain what merit
 is to reward. But reward has more good than merit, as its end. Therefore pain has more evil in it
@@ -398,14 +398,14 @@ one may be deprived of both of these in some way, both by fault and by pain; by 
 as a man is removed from the end and from the order to the end; by fault, inasmuch as this privation
 belongs to the action which is not ordered to its due end.
 
-<span class="atom-split" data-atom="009" data-title="THE CAUSE OF EVIL (THREE ARTICLES)" data-chapter="THE CAUSE OF EVIL (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="THE CAUSE OF EVIL (THREE ARTICLES)" data-chapter="THE CAUSE OF EVIL (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next inquire into the cause of evil. Concerning this there are three points of inquire:
 (1) Whether good can be the cause of evil?
 (2) Whether the supreme good, God, is the cause of evil?
 (3) Whether there be any supreme evil, which is the first cause of all evils?
 
-<span class="atom-split" data-atom="010" data-title="Whether good can be the cause of evil?" data-chapter="Whether good can be the cause of evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether good can be the cause of evil?" data-chapter="Whether good can be the cause of evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that good cannot be the cause of evil. For it is said (Mat. 7:18): "A
 good tree cannot bring forth evil fruit."
@@ -479,7 +479,7 @@ upon it from the fact that the will acts with this defect.
 
 Reply to Objection 4: Evil has no direct cause, but only an accidental cause, as was said above.
 
-<span class="atom-split" data-atom="011" data-title="Whether the supreme good, God, is the cause of evil?" data-chapter="Whether the supreme good, God, is the cause of evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the supreme good, God, is the cause of evil?" data-chapter="Whether the supreme good, God, is the cause of evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the supreme good, God, is the cause of evil. For it is said (Is.
 45:5,7): "I am the Lord, and there is no other God, forming the light, and creating darkness, making
@@ -529,7 +529,7 @@ Reply to Objection 3: The sinking of a ship is attributed to the sailor as the c
 fact that he does not fulfil what the safety of the ship requires; but God does not fail in doing what
 is necessary for the safety of all. Hence there is no parity.
 
-<span class="atom-split" data-atom="012" data-title="Whether there be one supreme evil which is the cause of every evil?" data-chapter="Whether there be one supreme evil which is the cause of every evil?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether there be one supreme evil which is the cause of every evil?" data-chapter="Whether there be one supreme evil which is the cause of every evil?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is one supreme evil which is the cause of every evil. For
 contrary effects have contrary causes. But contrariety is found in things, according to Ecclus. 33:15:

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_dos_patriotismos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los dos patriotismos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los dos patriotismos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La vida psíquica, señores, la vida de nuestra conciencia es movimiento, es pasar de una sensación a otra, de una idea a otra, de un acto a otro. Ese movimiento supone un motor. En nuestra conciencia tiene que haber alguna porción de su contenido encargada de poner en movimiento el resto. A esos contenidos de nuestra psique, que funcionan como motores, llaman los psicólogos emociones. Tal la amargura.
 

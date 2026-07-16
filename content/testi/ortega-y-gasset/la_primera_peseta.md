@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_primera_peseta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[La primera peseta]" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="[La primera peseta]" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace diez y nueve años tenía yo diez y nueve años y gané diez y nueve duros, los primeros pecuniares que a mí llegaban. Había yo concluido entonces la carrera de Filosofía y Letras y padecía un apetito monstruoso de lectura. Yo necesitaba dinero para comprar libros, y conseguí por medio de Navarro Ledesma que me encargasen de unas clases en dos típicos colegios madrileños. Uno de ellos, situado en la plaza de las Descalzas, estaba dirigido por un vejete simpático y cazurro, con aire de militar retirado, que vagaba por los pasillos del instituto con una larga vara en la mano. El otro creo que sigue aún abierto en la calle de Atocha; lo dirigía un seglar jesuitón que sabía halagar la ingenuidad de las madres por procedimientos verdaderamente geniales. He aquí uno de ellos: en una de las paredes del recibimiento había una portada de madera, puerta de una capilla.
 

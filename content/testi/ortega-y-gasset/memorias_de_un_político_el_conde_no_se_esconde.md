@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/memorias_de_un_político_el_conde_no_se_esconde" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Memorias de un político. El conde no se esconde" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Memorias de un político. El conde no se esconde" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El conde de Romanones publica ahora el segundo tomo de las Notas de una vida, donde recoge sus Memorias como hace el pastor con su ganado al caer la tarde. Este símil no es sólo romántico, sino que tiene alguna pretensión sociológica. En Homero los gobernantes reciben el título oficial de «pastores de pueblos», y, por otra parte, el pueblo español posee una dulzura, una docilidad tan bucólicas, tan gregarias, tan pastueñas, que se puede contar, como en este libro, la historia de casi un reinado sin que, aparte unas horas pase en él nada dramático, crispado o temible. Así que, visto a distancia, en las páginas muy veraces de este libro sólo llegan a nosotros balidos temblorosos, campanillitas de oveja o de ermita, fuerzas públicas que pasan armadas asegurando un orden que nadie pensaba quebrar, y de cuando en cuando, para que se vea la inevitabilidad del símil pecuario, báculos de obispos —pastores, que se alzan y agitan nerviosos y rebeldes.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_camisa_roja" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La camisa roja" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La camisa roja" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace pocos días, congregada en una plaza de Roma inmensa muchedumbre, se levantó un brazo y agitó ante las innumerables pupilas italianas un lienzo rojo, desgarrado y sangriento. Sintió primero la muchedumbre un escalofrío y luego un frenesí. Aquel lienzo rojo era la camisa roja de Bruno Garibaldi, muerto al frente de los legionarios italianos en la línea francesa. Aquella camisa, aunque es roja, simboliza la esperanza del pueblo italiano, la esperanza de crecimiento y de progreso nacional. La camisa roja alude al Trentino recuperado y Trieste vuelto a Italia, es el imperio sobre el Adriático, el influjo sobre Albania y la segura expansión en África. La camisa roja del garibaldino es todavía más: es la conciencia que tienen los italianos de una tradición alentadora. Garibaldi, el nombre Garibaldi, dondequiera que sonó en Europa desde hace sesenta años arrancó aplausos, entusiasmo y gratitud de las masas populares. Ha sido un hecho universal, un testimonio de la capacidad de Italia para intervenir en la historia general del mundo contemporáneo. Ahora, en la línea donde se va a decidir la nueva postura secular que va a tomar la humanidad, allí donde están representados todos los poderes futuros, hay también camisas rojas.
 

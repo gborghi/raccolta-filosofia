@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/problemas_del_aspecto_humano" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Problemas del aspecto humano" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Problemas del aspecto humano" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando vemos el cuerpo de un hombre, ¿vemos un cuerpo o vemos un hombre? Porque el hombre que decimos ver no es sólo un cuerpo, sino tras un cuerpo, un alma, espíritu, psique, yo, conciencia, persona, o como se quiera denominar esa porción del hombre que es ajena al espacio, que es idea, sentimiento, volición, memoria, imagen, sensación, instinto. Dicho de otra manera: ¿el cuerpo humano es por su aspecto cuerpo en el mismo concepto en que lo es un mineral? No se trata ahora de si la química puede o no reducir a los mismos elementos últimos un organismo humano y un mineral, sino de si el «aspecto» del uno se puede reducir a los mismos componentes que el «aspecto» del otro.
 
@@ -42,7 +42,7 @@ Merced a la carne humana, y sobre todo a sus gestos, nos hemos olvidado por comp
 
 Cuatro siglos de cultivar intensivamente la abstracción mecanicista han embotado sobremanera nuestra conciencia de este cósmico hecho: la expresión. Y han logrado que nos parezca más ilusoria de lo que es en verdad una posición ante el mundo como la que Novalis llamaba «[idealismo](/positions/idealism) mágico». «Todo lo que percibimos es una notificación. Así el Universo es en realidad una comunicación, una manifestación del espíritu. Pasó el tiempo en que el espíritu de Dios era comprensible y el concepto de mundo se ha perdido. Nos hemos quedado sólo con la letra y la apariencia nos ha hecho olvidar lo que aparece. En otro tiempo era todo aparición del espíritu, hoy percibimos sólo muertos reflejos que no logramos entender. Falta la idea del jeroglífico y vivimos aún del fruto de épocas mejores».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Sólo monsieur Homais sigue aún creyendo que la física es una representación adecuada del mundo. En cambio, los grandes físicos de nuestros días, llevando a madurez la gran idea de Kant, saben que la teoría física es una pura construcción cuyo contenido no tiene nada que ver con la realidad cósmica. Lo que el concepto físico piensa no pretende tener homogeneidad ninguna con lo real: se contenta con ser congruente como lo son dos palabras de dos idiomas que se refieren a la misma idea. La física es, también, pura interpretación y transposición de lo real a un medio original: la ideología mecánica.
 

@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/hippias_minor" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="HIPPIAS MINOR" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="HIPPIAS MINOR" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -136,7 +136,7 @@ SOCRATES: Is not that because you are the wisest and ablest of men in these matt
 
 HIPPIAS: Yes.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And being as you are the wisest and ablest of men in these matters of calculation, are you not also the best?
 
@@ -234,7 +234,7 @@ SOCRATES: And now do you perceive that the same person has turned out to be fals
 
 HIPPIAS: O Socrates, you are always weaving the meshes of an argument, selecting the most difficult point, and fastening upon details instead of grappling with the matter in hand as a whole. Come now, and I will demonstrate to you, if you will allow me, by many satisfactory proofs, that Homer has made Achilles a better man than Odysseus, and a truthful man too; and that he has made the other crafty, and a teller of many untruths, and inferior to Achilles. And then, if you please, you shall make a speech on the other side, in order to prove that Odysseus is the better man; and this may be compared to mine, and then the company will know which of us is the better speaker.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): O Hippias, I do not doubt that you are wiser than I am. But I have a way, when anybody else says anything, of giving close attention to him, especially if the speaker appears to me to be a wise man. Having a desire to understand, I question him, and I examine and analyse and put together what he says, in order that I may understand; but if the speaker appears to me to be a poor hand, I do not interrogate him, or trouble myself about him, and you may know by this who they are whom I deem to be wise men, for you will see that when I am talking with a wise man, I am very attentive to what he says; and I ask questions of him, in order that I may learn, and be improved by him. And I could not help remarking while you were speaking, that when you recited the verses in which Achilles, as you argued, attacks Odysseus as a deceiver, that you must be strangely mistaken, because Odysseus, the man of wiles, is never found to tell a lie; but Achilles is found to be wily on your own showing. At any rate he speaks falsely; for first he utters these words, which you just now repeated, —
 
@@ -280,7 +280,7 @@ SOCRATES: Why, were not the voluntary liars only just now shown to be better tha
 
 HIPPIAS: And how, Socrates, can those who intentionally err, and voluntarily and designedly commit iniquities, be better than those who err and do wrong involuntarily? Surely there is a great excuse to be made for a man telling a falsehood, or doing an injury or any sort of harm to another in ignorance. And the laws are obviously far more severe on those who lie or do evil, voluntarily, than on those who do evil involuntarily.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): You see, Hippias, as I have already told you, how pertinacious I am in asking questions of wise men. And I think that this is the only good point about me, for I am full of defects, and always getting wrong in some way or other. My deficiency is proved to me by the fact that when I meet one of you who are famous for wisdom, and to whose wisdom all the Hellenes are witnesses, I am found out to know nothing. For speaking generally, I hardly ever have the same opinion about anything which you have, and what proof of ignorance can be greater than to differ from wise men? But I have one singular good quality, which is my salvation; I am not ashamed to learn, and I ask and enquire, and am very grateful to those who answer me, and never fail to give them my grateful thanks; and when I learn a thing I never deny my teacher, or pretend that the lesson is a discovery of my own; but I praise his wisdom, and proclaim what I have learned from him. And now I cannot agree in what you are saying, but I strongly disagree. Well, I know that this is my own fault, and is a defect in my character, but I will not pretend to be more than I am; and my opinion, Hippias, is the very contrary of what you are saying. For I maintain that those who hurt or injure mankind, and speak falsely and deceive, and err voluntarily, are better far than those who do wrong involuntarily. Sometimes, however, I am of the opposite opinion; for I am all abroad in my ideas about this matter, a condition obviously occasioned by ignorance. And just now I happen to be in a crisis of my disorder at which those who err voluntarily appear to me better than those who err involuntarily. My present state of mind is due to our previous argument, which inclines me to believe that in general those who do wrong involuntarily are worse than those who do wrong voluntarily, and therefore I hope that you will be good to me, and not refuse to heal me; for you will do me a much greater benefit if you cure my soul of ignorance, than you would if you were to cure my body of disease. I must, however, tell you beforehand, that if you make a long oration to me you will not cure me, for I shall not be able to follow you; but if you will answer me, as you did just now, you will do me a great deal of good, and I do not think that you will be any the worse yourself. And I have some claim upon you also, O son of Apemantus, for you incited me to converse with Hippias; and now, if Hippias will not answer me, you must entreat him on my behalf.
 
@@ -426,7 +426,7 @@ SOCRATES: And that would be true of a dog, or of any other animal?
 
 HIPPIAS: Yes.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And is it better to possess the mind of an archer who voluntarily or involuntarily misses the mark?
 

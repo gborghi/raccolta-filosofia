@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/en_torno_a_un_héroe_moderno_lassalle" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="En torno a un héroe moderno.— Lassalle" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="En torno a un héroe moderno.— Lassalle" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Octubre de 1911
 
@@ -52,7 +52,7 @@ De 1842 a 1844 estudia Lassalle en la universidad de Breslau; del 44 al 45 en Be
 
 Pero la inteligencia de Lassalle tenía a su vera otros dos poderes enormes, a saber: una vanidad heroica, una vanidad estupenda y una genial sensibilidad para percibir la injusticia constituyente de la sociedad. Esto último, el sentido de la justicia en la historia es un rasgo muy característico de la raza judaica. Los pueblos europeos, sometiendo a esta raza bajo perennes tormentos, aherrojándola en las ghetti inmundas y en las excéntricas juderías, diezmándola de tiempo en tiempo, como en holocausto al Dios continental, la han educado para que se convierta en un órgano exquisito de reacción contra la injusticia. Y esta reacción es el radicalismo. Los judíos son revolucionarios natos. Desde la Primera Edad Media hasta la Rusia de nuestros días, se han entretenido los arios occidentales en matar hebreos, y la sangre judaica, conforme se iba enrareciendo, se purificaba, se sutilizaba, y hoy es ya pura energía, puro álcali corrosivo, pura inquietud, puro espíritu. Con mucho acierto dice Ferrero que los judíos viven hoy entre nosotros como un fermento y un reactivo, que impide el estancamiento y cristalización de las formas sociales y espirituales.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Así Lassalle. «Había —escribe su único biógrafo condigno, el dinamarqués y judío Jorge Brandes— algo de César en este mozo, a quien las tímidas gentes burguesas iban a tomar poco después por un Catilina. Fue creado para el poder, se hallaba ungido para dominador; pero como no naciera príncipe, ni noble, sino que era oriundo de la clase media y de una raza postergada, se convirtió en pensador, demócrata y revolucionario, a fin de penetrar por este camino en el elemento para que había sido hecho». Era, con efecto, ostentoso y amigo de la vida delicada: andando los años, condujo en Berlín una existencia espléndida: sus soirées reunían lo más preclaro de ambos sexos, y su cocinero de París gozaba general nombradía. Un ambicioso en grande, como hoy ya no se usa. Y esta su ambición da a su fisonomía, como señala el mismo Brandes, proporciones clásicas, una silueta de Plutarco. Años después de su muerte, dijo Bismarck en el Parlamento, contestando a una interpelación de Bebel, sobre las relaciones del príncipe con Lassalle: «Era ambicioso en grande estilo, y tal vez llegó a dudar si el imperio alemán había de formarse bajo la dinastía Hohenzollern o bajo la dinastía Lassalle».
 
@@ -82,7 +82,7 @@ Rodéale una envidiable fama de sabio, vive en el lujo y la fruición. Un marido
 
 De 1859 a 1864, realiza Lassalle, aparte la obra magna de derecho arriba citada, toda la labor de publicista y revolucionario, de pensador y de político que le da un puesto egregio en la historia. Va de ciudad en ciudad creando, por decirlo así, de la nada, la conciencia colectiva de los obreros; a cada discurso en asambleas públicas sucede un proceso y un discurso ante los tribunales. Pero Lassalle lleva clavada en su cerebro y en sus entrañas la idea grandiosa de las reivindicaciones proletarias, del nuevo Estado socializado que ha de venir a superar no sólo el Estado antiguo patrimonial sino el actual Estado individualista. Combate rudamente a los liberales; escribe panfletos contra ellos; se enemista la prensa íntegra de Alemania y se revuelve él solo contra ella.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Bismarck se siente atraído por el vórtice de atracción irresistible que forma la actuación de este hombre: Lassalle y Bismarck conferencian y el canciller recibe una impresión imborrable de aquella personalidad viril, clarovidente e infinitamente enérgica.
 

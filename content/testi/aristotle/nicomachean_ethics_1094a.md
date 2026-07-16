@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aristotle/nicomachean_ethics_1094a" data-philosopher="Aristotle"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nicomachean Ethics (1094a)" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nicomachean Ethics (1094a)" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 [ARISTOTLE](/figures/aristotle)’S ETHICS
 
-<span class="atom-split" data-atom="002" data-title="Chapter I. (1/10)" data-chapter="Chapter I." data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Chapter I. (1/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Every art, and every science reduced to a teachable form, and in like
 
@@ -212,7 +212,7 @@ student, the spirit in which our observations should be received, and
 
 the object which we propose.
 
-<span class="atom-split" data-atom="003" data-title="Chapter II. (1/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Chapter II. (1/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 And now, resuming the statement with which we commenced, since all
 
@@ -292,7 +292,7 @@ But whoso neither of himself conceiveth nor hearing from another
 
 Layeth it to heart;—he is a useless man.
 
-<span class="atom-split" data-atom="004" data-title="Chapter III. (1/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Chapter III. (1/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 But to return from this digression.
 
@@ -548,7 +548,7 @@ Some plausibility, it is true, this argument possesses, but it is
 
 contradicted by the facts of the Arts and Sciences; for all these,
 
-<span class="atom-split" data-atom="005" data-title="Chapter III. (2/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Chapter III. (2/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 though aiming at some good, and seeking that which is deficient, yet
 
@@ -572,7 +572,7 @@ of Man, or rather perhaps of this or that man; for he has to heal
 
 individuals.—Thus much on these points.
 
-<span class="atom-split" data-atom="006" data-title="Chapter IV. (1/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Chapter IV. (1/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 And now let us revert to the Good of which we are in search: what can
 
@@ -682,7 +682,7 @@ So then Happiness is manifestly something final and self-sufficient,
 
 being the end of all things which are and may be done.
 
-<span class="atom-split" data-atom="007" data-title="Chapter V. (1/10)" data-chapter="Chapter V." data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Chapter V. (1/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 But, it may be, to call Happiness the Chief Good is a mere truism, and
 
@@ -820,7 +820,7 @@ that many of the points of enquiry come simultaneously into view
 
 thereby.
 
-<span class="atom-split" data-atom="008" data-title="Chapter VI. (1/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Chapter VI. (1/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 We must now enquire concerning Happiness, not only from our conclusion
 
@@ -988,7 +988,7 @@ Happiness; hence some rank good fortune, and others virtue, with
 
 Happiness.
 
-<span class="atom-split" data-atom="009" data-title="Chapter VII. (1/10)" data-chapter="Chapter VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Chapter VII. (1/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 And hence too a question is raised, whether it is a thing that can be
 
@@ -1074,7 +1074,7 @@ told of Priam: but the man who has experienced such fortune and died in
 
 wretchedness, no man calls happy.
 
-<span class="atom-split" data-atom="010" data-title="Chapter VIII. (1/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Chapter VIII. (1/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Are we then to call no man happy while he lives, and, as Solon would
 
@@ -1262,7 +1262,7 @@ will have the things specified, but blessed as Men.
 
 On these points then let it suffice to have denned thus much.
 
-<span class="atom-split" data-atom="011" data-title="Chapter IX. (1/9)" data-chapter="Chapter IX." data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Chapter IX. (1/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 Now that the fortunes of their descendants, and friends generally,
 
@@ -1312,7 +1312,7 @@ affect the dead somewhat: but in such kind and degree as neither to
 
 make the happy unhappy nor produce any other such effect.
 
-<span class="atom-split" data-atom="012" data-title="Chapter X. (1/7)" data-chapter="Chapter X." data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Chapter X. (1/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 Having determined these points, let us examine with respect to
 
@@ -1386,7 +1386,7 @@ we all do everything else that is done; now the starting-point and
 
 cause of good things we assume to be something precious and divine.
 
-<span class="atom-split" data-atom="013" data-title="Chapter XI. (1/7)" data-chapter="Chapter XI." data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Chapter XI. (1/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Moreover, since Happiness is a kind of working of the soul in the way
 
@@ -1564,7 +1564,7 @@ praise the man of science in right of his mental state; and of
 
 these such as are praiseworthy we call Excellences.
 
-<span class="atom-split" data-atom="014" data-title="Chapter I. (2/10)" data-chapter="Chapter I." data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Chapter I. (2/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Well: human Excellence is of two kinds, Intellectual and Moral: now
 
@@ -1682,7 +1682,7 @@ childhood, makes not a small but an important difference, or rather I
 
 would say it makes all the difference.
 
-<span class="atom-split" data-atom="015" data-title="Chapter II. (2/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Chapter II. (2/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Since then the object of the present treatise is not mere speculation,
 
@@ -1904,7 +1904,7 @@ originally generated, and that it exerts itself on the same
 
 circumstances out of which it was generated.
 
-<span class="atom-split" data-atom="016" data-title="Chapter III. (3/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Chapter III. (3/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Now I can conceive a person perplexed as to the meaning of our
 
@@ -1986,7 +1986,7 @@ then cannot be well bodily under such a course of treatment, so neither
 
 can those be mentally by such philosophising.
 
-<span class="atom-split" data-atom="017" data-title="Chapter IV. (2/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Chapter IV. (2/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Next, we must examine what Virtue is. Well, since the things which
 
@@ -2056,7 +2056,7 @@ Since then the virtues are neither Feelings nor Capacities, it remains
 
 that they must be States.
 
-<span class="atom-split" data-atom="018" data-title="Chapter V. (2/10)" data-chapter="Chapter V." data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Chapter V. (2/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 Now what the genus of Virtue is has been said; but we must not merely
 
@@ -2188,7 +2188,7 @@ and the mean state to Virtue; for, as the poet has it,
 
 But good in one alone.”
 
-<span class="atom-split" data-atom="019" data-title="Chapter VI. (2/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Chapter VI. (2/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Virtue then is “a state apt to exercise deliberate choice, being in the
 
@@ -2254,7 +2254,7 @@ cannot, in short, have of excess and defect a mean state, nor of a mean
 
 state excess and defect.
 
-<span class="atom-split" data-atom="020" data-title="Chapter VII. (2/10)" data-chapter="Chapter VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Chapter VII. (2/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 It is not enough, however, to state this in general terms, we must also
 
@@ -2270,7 +2270,7 @@ good here.
 
 We must take these details then from the well-known scheme.
 
-<span class="atom-split" data-atom="021" data-title="I. In respect of fears and confidence or boldness:" data-chapter="I. In respect of fears and confidence or boldness:" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="I. In respect of fears and confidence or boldness:" data-chapter="I. In respect of fears and confidence or boldness:" data-kind="atom" data-srclang="en"></span>
 
 The Mean state is Courage: men may exceed, of course, either in absence
 
@@ -2280,7 +2280,7 @@ common case), the latter is called rash: again, the man who has too
 
 much fear and too little confidence is called a coward.
 
-<span class="atom-split" data-atom="022" data-title="II. In respect of pleasures and pains (but not all, and perhaps fewer" data-chapter="II. In respect of pleasures and pains (but not all, and perhaps fewer" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="II. In respect of pleasures and pains (but not all, and perhaps fewer" data-chapter="II. In respect of pleasures and pains (but not all, and perhaps fewer" data-kind="atom" data-srclang="en"></span>
 
 pains than pleasures):
 
@@ -2294,7 +2294,7 @@ name for such characters, but, as they are conceivable, we will give
 
 them one and call them insensible.
 
-<span class="atom-split" data-atom="023" data-title="III. In respect of giving and taking wealth (a):" data-chapter="III. In respect of giving and taking wealth (a):" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="III. In respect of giving and taking wealth (a):" data-chapter="III. In respect of giving and taking wealth (a):" data-kind="atom" data-srclang="en"></span>
 
 The mean state is Liberality, the excess Prodigality, the defect
 
@@ -2312,7 +2312,7 @@ part of the treatise, draw out the distinctions with greater
 
 exactness.)
 
-<span class="atom-split" data-atom="024" data-title="IV. In respect of wealth (b):" data-chapter="IV. In respect of wealth (b):" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="IV. In respect of wealth (b):" data-chapter="IV. In respect of wealth (b):" data-kind="atom" data-srclang="en"></span>
 
 There are other dispositions besides these just mentioned; a mean state
 
@@ -2328,13 +2328,13 @@ extremes connected with liberality, and the manner of their difference
 
 shall also be spoken of later).
 
-<span class="atom-split" data-atom="025" data-title="V. In respect of honour and dishonour (a):" data-chapter="V. In respect of honour and dishonour (a):" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="V. In respect of honour and dishonour (a):" data-chapter="V. In respect of honour and dishonour (a):" data-kind="atom" data-srclang="en"></span>
 
 The mean state Greatness of Soul, the excess which may be called
 
 χαυνότης, and the defect Littleness of Soul.
 
-<span class="atom-split" data-atom="026" data-title="VI. In respect of honour and dishonour (b):" data-chapter="VI. In respect of honour and dishonour (b):" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="VI. In respect of honour and dishonour (b):" data-chapter="VI. In respect of honour and dishonour (b):" data-kind="atom" data-srclang="en"></span>
 
 Now there is a state bearing the same relation to Greatness of Soul as
 
@@ -2366,7 +2366,7 @@ of the treatise; but now we will go on with the rest of the virtues
 
 after the plan we have laid down.
 
-<span class="atom-split" data-atom="027" data-title="VII. In respect of anger:" data-chapter="VII. In respect of anger:" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="VII. In respect of anger:" data-chapter="VII. In respect of anger:" data-kind="atom" data-srclang="en"></span>
 
 Here too there is excess, defect, and a mean state; but since they may
 
@@ -2404,7 +2404,7 @@ still we must try, as in the other cases, to coin some for them for the
 
 sake of clearness and intelligibleness.
 
-<span class="atom-split" data-atom="028" data-title="I. In respect of truth:" data-chapter="I. In respect of truth:" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="I. In respect of truth:" data-chapter="I. In respect of truth:" data-kind="atom" data-srclang="en"></span>
 
 The man who is in the mean state we will call Truthful, and his state
 
@@ -2414,7 +2414,7 @@ The man who is in the mean state we will call Truthful, and his state
 
  that of diminution, Reserve and Reserved shall be the terms.
 
-<span class="atom-split" data-atom="029" data-title="II. In respect of what is pleasant in the way of relaxation or" data-chapter="II. In respect of what is pleasant in the way of relaxation or" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="II. In respect of what is pleasant in the way of relaxation or" data-chapter="II. In respect of what is pleasant in the way of relaxation or" data-kind="atom" data-srclang="en"></span>
 
 amusement.
 
@@ -2426,7 +2426,7 @@ man a Buffoon; the man deficient herein a Clown, and his state
 
 Clownishness.
 
-<span class="atom-split" data-atom="030" data-title="III. In respect of what is pleasant in daily life." data-chapter="III. In respect of what is pleasant in daily life." data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="III. In respect of what is pleasant in daily life." data-chapter="III. In respect of what is pleasant in daily life." data-kind="atom" data-srclang="en"></span>
 
 He that is as he should be may be called Friendly, and his mean state
 
@@ -2474,7 +2474,7 @@ states: and in like manner also with respect to the Intellectual
 
 Excellences.
 
-<span class="atom-split" data-atom="031" data-title="Chapter VIII. (2/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Chapter VIII. (2/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Now as there are three states in each case, two faulty either in the
 
@@ -2572,7 +2572,7 @@ total want of self-control (the excess) is more contrary than the
 
 defect is to perfected self-mastery.
 
-<span class="atom-split" data-atom="032" data-title="Chapter IX. (2/9)" data-chapter="Chapter IX." data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Chapter IX. (2/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 Now that Moral Virtue is a mean state, and how it is so, and that it
 
@@ -2676,7 +2676,7 @@ excess sometimes towards defect, because this will be the easiest
 
 method of hitting on the mean, that is, on what is right.
 
-<span class="atom-split" data-atom="033" data-title="Chapter I. (3/10)" data-chapter="Chapter I." data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Chapter I. (3/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Now since Virtue is concerned with the regulation of feelings and
 
@@ -2828,7 +2828,7 @@ So then that seems to be compulsory “whose origination is from without,
 
 the party compelled contributing nothing.”
 
-<span class="atom-split" data-atom="034" data-title="Chapter II. (3/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Chapter II. (3/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Now every action of which ignorance is the cause is not-voluntary, but
 
@@ -2930,7 +2930,7 @@ action involuntary, but it must be also understood that the action is
 
 followed by pain and regret.
 
-<span class="atom-split" data-atom="035" data-title="Chapter III. (4/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Chapter III. (4/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Now since all involuntary action is either upon compulsion or by reason
 
@@ -2984,7 +2984,7 @@ and Lust. It is absurd then to class these actions among the
 
 involuntary.
 
-<span class="atom-split" data-atom="036" data-title="Chapter IV. (3/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Chapter IV. (3/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Having thus drawn out the distinction between voluntary and involuntary
 
@@ -3118,7 +3118,7 @@ process. The etymology of its Greek name seems to give a hint of it,
 
 being when analysed “chosen in preference to somewhat else.”
 
-<span class="atom-split" data-atom="037" data-title="Chapter V. (3/10)" data-chapter="Chapter V." data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Chapter V. (3/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 Well then; do men deliberate about everything, and is anything soever
 
@@ -3302,7 +3302,7 @@ Let this be accepted as a sketch of the nature and object of Moral
 
 Choice, that object being “Means to Ends.”
 
-<span class="atom-split" data-atom="038" data-title="Chapter VI. (3/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Chapter VI. (3/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 That Wish has for its object-matter the End, has been already stated;
 
@@ -3364,7 +3364,7 @@ of goodness, so they choose what is pleasant as good and avoid pain as
 
 an evil.
 
-<span class="atom-split" data-atom="039" data-title="Chapter VII. (3/10)" data-chapter="Chapter VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Chapter VII. (3/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 Now since the End is the object of Wish, and the means to the End of
 
@@ -3588,7 +3588,7 @@ characters), the Vices must be voluntary also, because the cases are
 
 exactly similar.
 
-<span class="atom-split" data-atom="040" data-title="Chapter VIII. (3/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Chapter VIII. (3/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Well now, we have stated generally respecting the Moral Virtues, the
 
@@ -3616,7 +3616,7 @@ still they are voluntary because it rested with us to use our
 
 circumstances this way or that.
 
-<span class="atom-split" data-atom="041" data-title="Chapter IX. (3/9)" data-chapter="Chapter IX." data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Chapter IX. (3/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 Here we will resume the particular discussion of the Moral Virtues, and
 
@@ -3716,7 +3716,7 @@ help one’s self, or in which death would be honourable; now neither of
 
 these requisites attach to destruction by drowning or sickness.
 
-<span class="atom-split" data-atom="042" data-title="Chapter X. (2/7)" data-chapter="Chapter X." data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Chapter X. (2/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 Again, fearful is a term of relation, the same thing not being so to
 
@@ -3838,7 +3838,7 @@ suicide braves the terrors of death not because it is honourable but to
 
 get out of the reach of evil.
 
-<span class="atom-split" data-atom="043" data-title="Chapter XI. (2/7)" data-chapter="Chapter XI." data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Chapter XI. (2/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Courage proper is somewhat of the kind I have described, but there are
 
@@ -4066,7 +4066,7 @@ to be otherwise than they supposed, which the Argives experienced when
 
 they fell on the Lacedæmonians, taking them for the men of Sicyon.
 
-<span class="atom-split" data-atom="044" data-title="Chapter XII. (1/6)" data-chapter="Chapter XII." data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Chapter XII. (1/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 We have described then what kind of men the Brave are, and what they
 
@@ -4148,7 +4148,7 @@ true nature of which it is not difficult to gather, in outline at
 
 least, from what has been said.
 
-<span class="atom-split" data-atom="045" data-title="Chapter XIII. (1/4)" data-chapter="Chapter XIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Chapter XIII. (1/4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
 
 Next let us speak of Perfected Self-Mastery, which seems to claim the
 
@@ -4404,7 +4404,7 @@ all in improper objects; nor to any great degree in any object of the
 
 class; nor is he pained at their absence; nor does he desire them; or,
 
-<span class="atom-split" data-atom="046" data-title="Chapter XIII. (2/4)" data-chapter="Chapter XIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Chapter XIII. (2/4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
 
 if he does, only in moderation, and neither more than he ought, nor at
 
@@ -4424,7 +4424,7 @@ Perfected Self-Mastery is not of this character, but regulates his
 
 desires by the dictates of right reason.
 
-<span class="atom-split" data-atom="047" data-title="Chapter XIV. (1/3)" data-chapter="Chapter XIV." data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Chapter XIV. (1/3)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
 
 Now the vice of being destitute of all Self-Control seems to be more
 
@@ -4522,7 +4522,7 @@ exactly what Reason directs. Let this be taken for our account of
 
 Perfected Self-Mastery.
 
-<span class="atom-split" data-atom="048" data-title="Chapter I. (4/10)" data-chapter="Chapter I." data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Chapter I. (4/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 We will next speak of Liberality. Now this is thought to be the mean
 
@@ -4756,7 +4756,7 @@ spending where he ought not, and he relishes not the maxim of
 
 Simonides.
 
-<span class="atom-split" data-atom="049" data-title="Chapter II. (4/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Chapter II. (4/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 But the Prodigal man goes wrong also in these points, for he is neither
 
@@ -4938,7 +4938,7 @@ Let this be considered as what we have to say respecting Liberality and
 
 the contrary vices.
 
-<span class="atom-split" data-atom="050" data-title="Chapter III. (5/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Chapter III. (5/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Next in order would seem to come a dissertation on Magnificence, this
 
@@ -5148,7 +5148,7 @@ Of course, both these states are faulty, but they do not involve
 
 disgrace because they are neither hurtful to others nor very unseemly.
 
-<span class="atom-split" data-atom="051" data-title="Chapter IV. (4/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Chapter IV. (4/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 The very name of Great-mindedness implies, that great things are its
 
@@ -5402,7 +5402,7 @@ and those great and famous. It is a property of him also to be open,
 
 both in his dislikes and his likings, because concealment is a
 
-<span class="atom-split" data-atom="052" data-title="Chapter IV. (5/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Chapter IV. (5/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 consequent of fear. Likewise to be careful for reality rather than
 
@@ -5458,7 +5458,7 @@ esteems nothing great to be very intent: and sharp tones and quickness
 
 are the result of these.
 
-<span class="atom-split" data-atom="053" data-title="Chapter V. (4/10)" data-chapter="Chapter V." data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Chapter V. (4/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 This then is my idea of the Great-minded man; and he who is in the
 
@@ -5508,7 +5508,7 @@ opposed to Great-mindedness, because it is more commonly met with and
 
 is worse.
 
-<span class="atom-split" data-atom="054" data-title="Chapter VI. (4/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Chapter VI. (4/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Well, the virtue of Great-mindedness has for its object great Honour,
 
@@ -5574,7 +5574,7 @@ extreme characters appear to be opposed, because the mean has no name
 
 appropriated to it.
 
-<span class="atom-split" data-atom="055" data-title="Chapter VII. (4/10)" data-chapter="Chapter VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Chapter VII. (4/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 Meekness is a mean state, having for its object-matter [Anger](/concepts/anger): and as
 
@@ -5718,7 +5718,7 @@ This then is to be taken as our account of the various moral states
 
 which have Anger for their object-matter.
 
-<span class="atom-split" data-atom="056" data-title="Chapter VIII. (4/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Chapter VIII. (4/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Next, as regards social intercourse and interchange of words and acts,
 
@@ -5824,7 +5824,7 @@ the appearance of being opposed to one another, because the mean has no
 
 appropriate name.
 
-<span class="atom-split" data-atom="057" data-title="Chapter IX. (4/9)" data-chapter="Chapter IX." data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Chapter IX. (4/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 The mean state which steers clear of Exaggeration has pretty much the
 
@@ -5976,7 +5976,7 @@ being the worst character) who appears to be opposed to the Truthful
 
 Man.
 
-<span class="atom-split" data-atom="058" data-title="Chapter X. (3/7)" data-chapter="Chapter X." data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Chapter X. (3/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 Next, as life has its pauses and in them admits of pastime combined
 
@@ -6098,7 +6098,7 @@ with the jocosities of life, the other with all other points of social
 
 intercourse.
 
-<span class="atom-split" data-atom="059" data-title="Chapter XI. (3/7)" data-chapter="Chapter XI." data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="Chapter XI. (3/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 To speak of Shame as a Virtue is incorrect, because it is much more
 
@@ -6162,7 +6162,7 @@ Nor is Self-Control properly a Virtue, but a kind of mixed state:
 
 however, all about this shall be set forth in a future Book.
 
-<span class="atom-split" data-atom="060" data-title="Chapter I. (5/10)" data-chapter="Chapter I." data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Chapter I. (5/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Now the points for our enquiry in respect of Justice and Injustice are,
 
@@ -6278,7 +6278,7 @@ fairly falls to his share: of course he is also an unequal man, this
 
 being an inclusive and common term.
 
-<span class="atom-split" data-atom="061" data-title="Chapter II. (5/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Chapter II. (5/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 We said that the violator of Law is Unjust, and the keeper of the Law
 
@@ -6376,7 +6376,7 @@ respect to one’s neighbour it is Justice, in so far as it is such and
 
 such a moral state it is simply Virtue.
 
-<span class="atom-split" data-atom="062" data-title="Chapter III. (6/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Chapter III. (6/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 But the object of our enquiry is Justice, in the sense in which it is a
 
@@ -6444,7 +6444,7 @@ pleasure attendant on gain, while the other acts upon all things which
 
 constitute the sphere of the good man’s action.
 
-<span class="atom-split" data-atom="063" data-title="Chapter IV. (6/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Chapter IV. (6/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Now that there is more than one kind of Justice, and that there is one
 
@@ -6510,7 +6510,7 @@ it may be it is not the same thing to be a good man and a good citizen
 
 in every case.
 
-<span class="atom-split" data-atom="064" data-title="Chapter V. (5/10)" data-chapter="Chapter V." data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Chapter V. (5/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 Now of the Particular Justice, and the Just involved in it, one species
 
@@ -6540,7 +6540,7 @@ false witness; or accompanied with open violence; as insult, bonds,
 
 death, plundering, maiming, foul language, slanderous abuse.
 
-<span class="atom-split" data-atom="065" data-title="Chapter VI. (5/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Chapter VI. (5/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Well, the unjust man we have said is unequal, and the abstract “Unjust”
 
@@ -6656,7 +6656,7 @@ what is choice-worthy is good, and the more so the greater good.
 
 This then is the one species of the Just.
 
-<span class="atom-split" data-atom="066" data-title="Chapter VII. (5/10)" data-chapter="Chapter VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Chapter VII. (5/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 And the remaining one is the Corrective, which arises in voluntary as
 
@@ -6806,7 +6806,7 @@ gain arising in involuntary transactions; that is, it is the having the
 
 same after the transaction as one had before it took place.
 
-<span class="atom-split" data-atom="067" data-title="Chapter VIII. (5/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Chapter VIII. (5/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 There are people who have a notion that Reciprocation is simply just,
 
@@ -7014,7 +7014,7 @@ existence of money: for it makes no difference whether you give for a
 
 house five beds or the price of five beds.
 
-<span class="atom-split" data-atom="068" data-title="Chapter IX. (5/9)" data-chapter="Chapter IX." data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Chapter IX. (5/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 We have now said then what the abstract Just and Unjust are, and these
 
@@ -7068,7 +7068,7 @@ Let this way of describing the nature of Justice and Injustice, and
 
 likewise the Just and the Unjust generally, be accepted as sufficient.
 
-<span class="atom-split" data-atom="069" data-title="Chapter X. (4/7)" data-chapter="Chapter X." data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Chapter X. (4/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 [Again, since a man may do unjust acts and not yet have formed a
 
@@ -7244,7 +7244,7 @@ not even the forms of government are, and yet there is one only which
 
 by nature would be best in all places.
 
-<span class="atom-split" data-atom="070" data-title="Chapter XI. (4/7)" data-chapter="Chapter XI." data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Chapter XI. (4/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Now of Justs and Lawfuls each bears to the acts which embody and
 
@@ -7444,7 +7444,7 @@ passion which is neither natural nor fairly attributable to human
 
 infirmity.
 
-<span class="atom-split" data-atom="071" data-title="Chapter XII. (2/6)" data-chapter="Chapter XII." data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Chapter XII. (2/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 Now a question may be raised whether we have spoken with sufficient
 
@@ -7568,7 +7568,7 @@ With respect to being unjustly dealt with then, it is clear that it is
 
 not voluntary.
 
-<span class="atom-split" data-atom="072" data-title="Chapter XIII. (3/4)" data-chapter="Chapter XIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Chapter XIII. (3/4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
 
 There remain yet two points on which we purposed to speak: first, is he
 
@@ -7646,7 +7646,7 @@ because in this case the man who wrongly adjudged, say a field, did not
 
 actually get land but money by his unjust decision.
 
-<span class="atom-split" data-atom="073" data-title="Chapter XIV. (2/3)" data-chapter="Chapter XIV." data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Chapter XIV. (2/3)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
 
 Now men suppose that acting Unjustly rests entirely with themselves,
 
@@ -7716,7 +7716,7 @@ things are hurtful; others to whom they are useful to a certain degree:
 
 for this reason then the province of Justice is among Men.
 
-<span class="atom-split" data-atom="074" data-title="Chapter XV." data-chapter="Chapter XV." data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Chapter XV." data-chapter="Chapter XV." data-kind="atom" data-srclang="en"></span>
 
 We have next to speak of Equity and the Equitable, that is to say, of
 
@@ -7826,7 +7826,7 @@ the law: and this moral state is Equity, being a species of Justice,
 
 not a different moral state from Justice.
 
-<span class="atom-split" data-atom="075" data-title="Chapter XVI." data-chapter="Chapter XVI." data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Chapter XVI." data-chapter="Chapter XVI." data-kind="atom" data-srclang="en"></span>
 
 The answer to the second of the two questions indicated above, “whether
 
@@ -7900,7 +7900,7 @@ After all, the general answer to the question is to allege what was
 
 settled respecting being Unjustly dealt with with one’s own consent.
 
-<span class="atom-split" data-atom="076" data-title="Chapter XVII." data-chapter="Chapter XVII." data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Chapter XVII." data-chapter="Chapter XVII." data-kind="atom" data-srclang="en"></span>
 
 It is obvious, moreover, that being Unjustly dealt by and dealing
 
@@ -7958,7 +7958,7 @@ Let this then be accepted as an account of the distinctions which we
 
 recognise respecting Justice and the rest of the moral virtues.
 
-<span class="atom-split" data-atom="077" data-title="Chapter I. (6/10)" data-chapter="Chapter I." data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Chapter I. (6/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Having stated in a former part of this treatise that men should choose
 
@@ -8006,7 +8006,7 @@ should be expressly laid down what Right Reason is, and what is the
 
 definition of it.
 
-<span class="atom-split" data-atom="078" data-title="Chapter II. (6/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Chapter II. (6/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Now in our division of the Excellences of the Soul, we said there were
 
@@ -8144,7 +8144,7 @@ those states therefore are the Excellences of each in which each will
 
 best attain truth.
 
-<span class="atom-split" data-atom="079" data-title="Chapter III. (7/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Chapter III. (7/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Commencing then from the point stated above we will now speak of these
 
@@ -8206,7 +8206,7 @@ be merely accidental.
 
 Let thus much be accepted as a definition of Knowledge.
 
-<span class="atom-split" data-atom="080" data-title="Chapter IV. (7/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Chapter IV. (7/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Matter which may exist otherwise than it actually does in any given
 
@@ -8264,7 +8264,7 @@ state conjoined with false Reason, and both are employed upon
 
 Contingent matter.
 
-<span class="atom-split" data-atom="081" data-title="Chapter V. (6/10)" data-chapter="Chapter V." data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="Chapter V. (6/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 As for [Practical Wisdom](/concepts/phronesis), we shall ascertain its nature by examining to
 
@@ -8376,7 +8376,7 @@ conjoined with Reason, as is proved by the fact that such a state may
 
 be forgotten and so lost while Practical Wisdom cannot.
 
-<span class="atom-split" data-atom="082" data-title="Chapter VI. (6/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Chapter VI. (6/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Now Knowledge is a conception concerning [universals](/axes/universals) and Necessary
 
@@ -8412,7 +8412,7 @@ first; the last, namely Intuition, must be it which performs this
 
 function.
 
-<span class="atom-split" data-atom="083" data-title="Chapter VII. (6/10)" data-chapter="Chapter VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Chapter VII. (6/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 Science is a term we use principally in two meanings: in the first
 
@@ -8504,7 +8504,7 @@ very fine no doubt, but still useless because they do not seek after
 
 what is good for them as men.
 
-<span class="atom-split" data-atom="084" data-title="Chapter VIII. (6/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Chapter VIII. (6/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 But [Practical Wisdom](/concepts/phronesis) is employed upon human matters, and such as are
 
@@ -8672,7 +8672,7 @@ This however is Sense rather than Practical Wisdom, which is of another
 
 kind.
 
-<span class="atom-split" data-atom="085" data-title="Chapter IX. (6/9)" data-chapter="Chapter IX." data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Chapter IX. (6/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 Now the acts of enquiring and deliberating differ, though deliberating
 
@@ -8774,7 +8774,7 @@ Wisdom, Good Counsel must be “Rightness in respect of what conduces to
 
 a given End, of which [Practical Wisdom](/concepts/phronesis) is the true conception.”
 
-<span class="atom-split" data-atom="086" data-title="Chapter X. (5/7)" data-chapter="Chapter X." data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Chapter X. (5/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 There is too the faculty of Judiciousness, and also its absence, in
 
@@ -8838,7 +8838,7 @@ having a capacity of making equitable decisions, By “right” I mean that
 
 of the Truthful man.
 
-<span class="atom-split" data-atom="087" data-title="Chapter XI. (5/7)" data-chapter="Chapter XI." data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Chapter XI. (5/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Now all these mental states tend to the same object, as indeed
 
@@ -8912,7 +8912,7 @@ which are based on strict reasoning, because they see aright, having
 
 gained their power of moral vision from experience.
 
-<span class="atom-split" data-atom="088" data-title="Chapter XII. (3/6)" data-chapter="Chapter XII." data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Chapter XII. (3/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 Well, we have now stated the nature and objects of [Practical Wisdom](/concepts/phronesis) and
 
@@ -9172,7 +9172,7 @@ these things which conduce to the End.
 
 Then again, it is not Master of Science (i.e. of the superior part of
 
-<span class="atom-split" data-atom="089" data-title="Chapter XII. (4/6)" data-chapter="Chapter XII." data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Chapter XII. (4/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 the Soul), just as neither is the healing art Master of health; for it
 
@@ -9322,7 +9322,7 @@ fallacy may be constructed: since he who knows, is to be simply and
 
 absolutely infallible.
 
-<span class="atom-split" data-atom="090" data-title="Chapter I. (7/10)" data-chapter="Chapter I." data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Chapter I. (7/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Next we must take a different point to start from, and observe that
 
@@ -9394,19 +9394,19 @@ solved, and such theories as are most approved are left as a residuum.
 
 The chief points may be thus enumerated. It is thought,
 
-<span class="atom-split" data-atom="091" data-title="I. That Self-Control and Endurance belong to the class of things good" data-chapter="I. That Self-Control and Endurance belong to the class of things good" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="I. That Self-Control and Endurance belong to the class of things good" data-chapter="I. That Self-Control and Endurance belong to the class of things good" data-kind="atom" data-srclang="en"></span>
 
 and praiseworthy, while Imperfect Self-Control and Softness belong to
 
 that of things low and blameworthy.
 
-<span class="atom-split" data-atom="092" data-title="II. That the man of Self-Control is identical with the man who is apt" data-chapter="II. That the man of Self-Control is identical with the man who is apt" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="II. That the man of Self-Control is identical with the man who is apt" data-chapter="II. That the man of Self-Control is identical with the man who is apt" data-kind="atom" data-srclang="en"></span>
 
 to abide by his resolution, and the man of Imperfect Self-Control with
 
 him who is apt to depart from his resolution.
 
-<span class="atom-split" data-atom="093" data-title="III. That the man of Imperfect Self-Control does things at the" data-chapter="III. That the man of Imperfect Self-Control does things at the" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="III. That the man of Imperfect Self-Control does things at the" data-chapter="III. That the man of Imperfect Self-Control does things at the" data-kind="atom" data-srclang="en"></span>
 
 instigation of his passions, knowing them to be wrong, while the man of
 
@@ -9414,25 +9414,25 @@ Self-Control, knowing his lusts to be wrong, refuses, by the influence
 
 of reason, to follow their suggestions.
 
-<span class="atom-split" data-atom="094" data-title="IV. That the man of Perfected Self-Mastery unites the qualities of" data-chapter="IV. That the man of Perfected Self-Mastery unites the qualities of" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="IV. That the man of Perfected Self-Mastery unites the qualities of" data-chapter="IV. That the man of Perfected Self-Mastery unites the qualities of" data-kind="atom" data-srclang="en"></span>
 
 Self-Control and Endurance, and some say that every one who unites
 
 these is a man of Perfect Self-Mastery, others do not.
 
-<span class="atom-split" data-atom="095" data-title="V. Some confound the two characters of the man who has no" data-chapter="V. Some confound the two characters of the man who has no" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="V. Some confound the two characters of the man who has no" data-chapter="V. Some confound the two characters of the man who has no" data-kind="atom" data-srclang="en"></span>
 
 Self-Control, and the man of Imperfect Self-Control, while others
 
 distinguish between them.
 
-<span class="atom-split" data-atom="096" data-title="VI. It is sometimes said that the man of Practical Wisdom cannot be a" data-chapter="VI. It is sometimes said that the man of Practical Wisdom cannot be a" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="VI. It is sometimes said that the man of Practical Wisdom cannot be a" data-chapter="VI. It is sometimes said that the man of Practical Wisdom cannot be a" data-kind="atom" data-srclang="en"></span>
 
 man of Imperfect Self-Control, sometimes that men who are Practically
 
 Wise and Clever are of Imperfect Self-Control.
 
-<span class="atom-split" data-atom="097" data-title="VII. Again, men are said to be of Imperfect Self-Control, not simply" data-chapter="VII. Again, men are said to be of Imperfect Self-Control, not simply" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="VII. Again, men are said to be of Imperfect Self-Control, not simply" data-chapter="VII. Again, men are said to be of Imperfect Self-Control, not simply" data-kind="atom" data-srclang="en"></span>
 
 but with the addition of the thing wherein, as in respect of [anger](/concepts/anger), of
 
@@ -9440,7 +9440,7 @@ honour, and gain.
 
 These then are pretty well the common statements.
 
-<span class="atom-split" data-atom="098" data-title="Chapter II. (7/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Chapter II. (7/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Now a man may raise a question as to the nature of the right conception
 
@@ -9606,7 +9606,7 @@ established; because the solving of a difficulty is a positive act of
 
 establishing something as true.
 
-<span class="atom-split" data-atom="099" data-title="Chapter III. (8/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Chapter III. (8/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Now we must examine first whether men of Imperfect Self-Control act
 
@@ -9842,7 +9842,7 @@ in which such failure is possible or not, though a man possesses
 
 Knowledge.
 
-<span class="atom-split" data-atom="100" data-title="Chapter IV. (8/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Chapter IV. (8/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 The next question to be discussed is whether there is a character to be
 
@@ -10022,7 +10022,7 @@ which reason, with an addition, we designate a man of Imperfect
 
 Self-Control in respect of anger, as of honour or of gain.
 
-<span class="atom-split" data-atom="101" data-title="Chapter V. (7/10)" data-chapter="Chapter V." data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Chapter V. (7/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 As there are some things naturally pleasant, and of these two kinds;
 
@@ -10112,7 +10112,7 @@ name without any qualification which is of the nature of utter absence
 
 of Self-Control, as it is found in Man.
 
-<span class="atom-split" data-atom="102" data-title="Chapter VI. (7/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="Chapter VI. (7/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 It is plain then that the object-matter of Imperfect Self-Control and
 
@@ -10260,7 +10260,7 @@ each is the worst: a bad man would produce ten thousand times as much
 
 harm as a bad brute.
 
-<span class="atom-split" data-atom="103" data-title="Chapter VII. (7/10)" data-chapter="Chapter VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Chapter VII. (7/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 Now with respect to the pleasures and pains which come to a man through
 
@@ -10516,7 +10516,7 @@ It is evident then from all this, that Self-Control is a good state and
 
 the Imperfection of it a bad one.
 
-<span class="atom-split" data-atom="104" data-title="Chapter VIII. (7/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Chapter VIII. (7/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Next comes the question, whether a man is a man of Self-Control for
 
@@ -10600,7 +10600,7 @@ utterly destitute of Self-Control or base or of Imperfect Self-Control,
 
 only he who acts from the impulse of a base pleasure.
 
-<span class="atom-split" data-atom="105" data-title="Chapter IX. (7/9)" data-chapter="Chapter IX." data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Chapter IX. (7/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 Moreover as there is a character who takes less pleasure than he ought
 
@@ -10742,7 +10742,7 @@ are mutually related.
 
 APPENDIX.
 
-<span class="atom-split" data-atom="106" data-title="Book VII. Chapters 12 to 15. (Bekker.)" data-chapter="Book VII. Chapters 12 to 15. (Bekker.)" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Book VII. Chapters 12 to 15. (Bekker.)" data-chapter="Book VII. Chapters 12 to 15. (Bekker.)" data-kind="atom" data-srclang="en"></span>
 
 To consider the subject of Pleasure and Pain falls within the province
 
@@ -10778,25 +10778,25 @@ In support of the first opinion (that Pleasure is utterly not-good) it
 
 is urged that:
 
-<span class="atom-split" data-atom="107" data-title="1. Every Pleasure is a sensible process towards a complete state; but" data-chapter="1. Every Pleasure is a sensible process towards a complete state; but" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="1. Every Pleasure is a sensible process towards a complete state; but" data-chapter="1. Every Pleasure is a sensible process towards a complete state; but" data-kind="atom" data-srclang="en"></span>
 
 no such process is akin to the end to be attained: e.g. no process of
 
 building to the completed house.
 
-<span class="atom-split" data-atom="108" data-title="3. The man of Practical Wisdom aims at avoiding Pain, not at attaining" data-chapter="3. The man of Practical Wisdom aims at avoiding Pain, not at attaining" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="3. The man of Practical Wisdom aims at avoiding Pain, not at attaining" data-chapter="3. The man of Practical Wisdom aims at avoiding Pain, not at attaining" data-kind="atom" data-srclang="en"></span>
 
 Pleasure.
 
-<span class="atom-split" data-atom="109" data-title="4. Pleasures are an impediment to thought, and the more so the more" data-chapter="4. Pleasures are an impediment to thought, and the more so the more" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="4. Pleasures are an impediment to thought, and the more so the more" data-chapter="4. Pleasures are an impediment to thought, and the more so the more" data-kind="atom" data-srclang="en"></span>
 
 keenly they are felt. An obvious instance will readily occur.
 
-<span class="atom-split" data-atom="110" data-title="5. Pleasure cannot be referred to any Art: and yet every good is the" data-chapter="5. Pleasure cannot be referred to any Art: and yet every good is the" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="5. Pleasure cannot be referred to any Art: and yet every good is the" data-chapter="5. Pleasure cannot be referred to any Art: and yet every good is the" data-kind="atom" data-srclang="en"></span>
 
 result of some Art.
 
-<span class="atom-split" data-atom="111" data-title="6. Children and brutes pursue Pleasures. (1/2)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="6. Children and brutes pursue Pleasures. (1/2)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom" data-srclang="en"></span>
 
 In support of the second (that not all Pleasures are good), That there
 
@@ -11064,7 +11064,7 @@ ones to wit), but not the bodily Pleasures; that is, those which are
 
 the object-matter of the man utterly destitute of Self-Control.
 
-<span class="atom-split" data-atom="112" data-title="6. Children and brutes pursue Pleasures. (2/2)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="6. Children and brutes pursue Pleasures. (2/2)" data-chapter="6. Children and brutes pursue Pleasures." data-kind="atom" data-srclang="en"></span>
 
 If so, we ask, why are the contrary Pains bad? they cannot be (on their
 
@@ -11126,11 +11126,11 @@ And, as has been said before, there are the two following reasons why
 
 bodily Pleasure is thought to be not-good.
 
-<span class="atom-split" data-atom="113" data-title="1. Some Pleasures of this class are actings of a low nature, whether" data-chapter="1. Some Pleasures of this class are actings of a low nature, whether" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="1. Some Pleasures of this class are actings of a low nature, whether" data-chapter="1. Some Pleasures of this class are actings of a low nature, whether" data-kind="atom" data-srclang="en"></span>
 
 congenital as in brutes, or acquired by [custom](/concepts/custom) as in low bad men.
 
-<span class="atom-split" data-atom="114" data-title="2. Others are in the nature of cures, cures that is of some deficiency;" data-chapter="2. Others are in the nature of cures, cures that is of some deficiency;" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="2. Others are in the nature of cures, cures that is of some deficiency;" data-chapter="2. Others are in the nature of cures, cures that is of some deficiency;" data-kind="atom" data-srclang="en"></span>
 
 now of course it is better to have [the healthy state] originally than
 
@@ -11222,7 +11222,7 @@ Pleasure and Pain. What each is, and how the one set is good the other
 
 bad. We have yet to speak of [Friendship](/concepts/friendship).
 
-<span class="atom-split" data-atom="115" data-title="Chapter I. (8/10)" data-chapter="Chapter I." data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="Chapter I. (8/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Next would seem properly to follow a dissertation on [Friendship](/concepts/friendship):
 
@@ -11298,7 +11298,7 @@ friends is thought a matter of credit to a man; some go so far as to
 
 hold, that “good man” and “friend” are terms synonymous.
 
-<span class="atom-split" data-atom="116" data-title="Chapter II. (8/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Chapter II. (8/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Yet the disputed points respecting it are not few: some men lay down
 
@@ -11350,7 +11350,7 @@ in species admit likewise of degrees (on this point we have spoken
 
 before).
 
-<span class="atom-split" data-atom="117" data-title="Chapter III. (9/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Chapter III. (9/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Our view will soon be cleared on these points when we have ascertained
 
@@ -11428,7 +11428,7 @@ another good from one of the aforementioned causes, and that these
 
 kindly feelings should be mutually known.
 
-<span class="atom-split" data-atom="118" data-title="Chapter IV. (9/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Chapter IV. (9/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 As the motives to [Friendship](/concepts/friendship) differ in kind so do the respective
 
@@ -11524,7 +11524,7 @@ same day: but these wish for society and intimate intercourse with
 
 their friends, since they thus attain the object of their Friendship.
 
-<span class="atom-split" data-atom="119" data-title="Chapter V. (8/10)" data-chapter="Chapter V." data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="Chapter V. (8/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 That then is perfect [Friendship](/concepts/friendship) which subsists between those who are
 
@@ -11718,7 +11718,7 @@ a matter of result and termed friends from their resemblance to these
 
 last.
 
-<span class="atom-split" data-atom="120" data-title="Chapter VI. (8/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="Chapter VI. (8/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Further; just as in respect of the different virtues some men are
 
@@ -11770,7 +11770,7 @@ quality which is thought to appertain to the Friendship of
 
 companionship.
 
-<span class="atom-split" data-atom="121" data-title="Chapter VII. (8/10)" data-chapter="Chapter VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Chapter VII. (8/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 The connection then subsisting between the good is [Friendship](/concepts/friendship) _par
 
@@ -11904,7 +11904,7 @@ equal by a proportionate degree of Friendship. And characters who
 
 unite superiority of station and goodness are not common.
 
-<span class="atom-split" data-atom="122" data-title="Chapter VIII. (8/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="Chapter VIII. (8/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Now all the kinds of [Friendship](/concepts/friendship) which have been already mentioned exist
 
@@ -12158,7 +12158,7 @@ However, let us drop these questions, because they are in fact somewhat
 
 foreign to our purpose.
 
-<span class="atom-split" data-atom="123" data-title="Chapter IX. (8/9)" data-chapter="Chapter IX." data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Chapter IX. (8/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 It seems too, as was stated at the commencement, that [Friendship](/concepts/friendship) and
 
@@ -12260,7 +12260,7 @@ great Social one: and corresponding Friendships will follow upon such
 
 Communions.
 
-<span class="atom-split" data-atom="124" data-title="Chapter X. (6/7)" data-chapter="Chapter X." data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="Chapter X. (6/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 Of Political Constitutions there are three kinds; and equal in number
 
@@ -12378,7 +12378,7 @@ which have no head (all being there equal), or in which the proper head
 
 is weak and so every member does that which is right in his own eyes.
 
-<span class="atom-split" data-atom="125" data-title="Chapter XI. (6/7)" data-chapter="Chapter XI." data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="Chapter XI. (6/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Attendant then on each form of Political Constitution there plainly is
 
@@ -12468,7 +12468,7 @@ are inconsiderable in extent, but in Democracies they are most
 
 considerable because they who are equal have much in common.
 
-<span class="atom-split" data-atom="126" data-title="Chapter XII. (5/6)" data-chapter="Chapter XII." data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="Chapter XII. (5/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 Now of course all [Friendship](/concepts/friendship) is based upon Communion, as has been
 
@@ -12624,7 +12624,7 @@ of Justice between a friend and friend, as between strangers, or
 
 companions, or mere [chance](/concepts/fortune) fellow-travellers.
 
-<span class="atom-split" data-atom="127" data-title="Chapter XIII. (4/4)" data-chapter="Chapter XIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="Chapter XIII. (4/4)" data-chapter="Chapter XIII." data-kind="atom" data-srclang="en"></span>
 
 There are then, as was stated at the commencement of this book, three
 
@@ -12798,7 +12798,7 @@ standard, since virtue and moral character depend principally on
 
 motive.
 
-<span class="atom-split" data-atom="128" data-title="Chapter XIV. (3/3)" data-chapter="Chapter XIV." data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Chapter XIV. (3/3)" data-chapter="Chapter XIV." data-kind="atom" data-srclang="en"></span>
 
 Quarrels arise also in those Friendships in which the parties are
 
@@ -12904,7 +12904,7 @@ unprofitable.
 
 Let thus much suffice on these points.
 
-<span class="atom-split" data-atom="129" data-title="Chapter I. (9/10)" data-chapter="Chapter I." data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="Chapter I. (9/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Well, in all the Friendships the parties to which are dissimilar it is
 
@@ -13066,7 +13066,7 @@ now that he has it, but by that which he set upon it before he obtained
 
 it.
 
-<span class="atom-split" data-atom="130" data-title="Chapter II. (9/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="Chapter II. (9/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Questions also arise upon such points as the following: Whether one’s
 
@@ -13210,7 +13210,7 @@ for giving up the attempt, but we must observe the distinctions so far
 
 as it is practicable to do so.
 
-<span class="atom-split" data-atom="131" data-title="Chapter III. (10/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="Chapter III. (10/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 A question is also raised as to the propriety of dissolving or not
 
@@ -13332,7 +13332,7 @@ should allow somewhat on the score of previous Friendship, whenever the
 
 cause of severance is not excessive depravity on their part.
 
-<span class="atom-split" data-atom="132" data-title="Chapter IV. (10/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="Chapter IV. (10/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Now the friendly feelings which are exhibited towards our friends, and
 
@@ -13508,7 +13508,7 @@ all his might and to strive to be good, because thus may he be friends
 
 with himself and may come to be a friend to another.
 
-<span class="atom-split" data-atom="133" data-title="Chapter V. (9/10)" data-chapter="Chapter V." data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Chapter V. (9/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 Kindly Feeling, though resembling [Friendship](/concepts/friendship), is not identical with it,
 
@@ -13586,7 +13586,7 @@ fellow, or brave man, etc., as we said was the case sometimes with
 
 those matched against one another.
 
-<span class="atom-split" data-atom="134" data-title="Chapter VI. (9/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="Chapter VI. (9/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Unity of Sentiment is also plainly connected with [Friendship](/concepts/friendship), and
 
@@ -13664,7 +13664,7 @@ quarrel while they are for keeping one another to work but are not
 
 willing to perform their just share.
 
-<span class="atom-split" data-atom="135" data-title="Chapter VII. (9/10)" data-chapter="Chapter VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="Chapter VII. (9/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 Benefactors are commonly held to have more [Friendship](/concepts/friendship) for the objects
 
@@ -13790,7 +13790,7 @@ know more certainly that they are theirs. This feeling would seem also
 
 to belong to benefactors.
 
-<span class="atom-split" data-atom="136" data-title="Chapter VIII. (9/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="Chapter VIII. (9/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 A question is also raised as to whether it is right to love one’s Self
 
@@ -13986,7 +13986,7 @@ himself a larger share of the honourable. In this sense it is right to
 
 be Self-loving, in the vulgar acceptation of the term it is not.
 
-<span class="atom-split" data-atom="137" data-title="Chapter IX. (9/9)" data-chapter="Chapter IX." data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="Chapter IX. (9/9)" data-chapter="Chapter IX." data-kind="atom" data-srclang="en"></span>
 
 A question is raised also respecting the Happy man, whether he will
 
@@ -14210,7 +14210,7 @@ this point deficient. The man therefore who is to come up to our notion
 
 “Happy” will need good Friends.
 
-<span class="atom-split" data-atom="138" data-title="Chapter X. (7/7)" data-chapter="Chapter X." data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="Chapter X. (7/7)" data-chapter="Chapter X." data-kind="atom" data-srclang="en"></span>
 
 Are we then to make our friends as numerous as possible? or, as in
 
@@ -14310,7 +14310,7 @@ persons’ own sake; in fact, it is a matter for contentment to find even
 
 a few such.
 
-<span class="atom-split" data-atom="139" data-title="Chapter XI. (7/7)" data-chapter="Chapter XI." data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="Chapter XI. (7/7)" data-chapter="Chapter XI." data-kind="atom" data-srclang="en"></span>
 
 Again: are friends most needed in prosperity or in adversity? they are
 
@@ -14426,7 +14426,7 @@ It appears then that the presence of friends is, under all
 
 circumstances, choice-worthy.
 
-<span class="atom-split" data-atom="140" data-title="Chapter XII. (6/6)" data-chapter="Chapter XII." data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="Chapter XII. (6/6)" data-chapter="Chapter XII." data-kind="atom" data-srclang="en"></span>
 
 May we not say then that, as seeing the beloved object is most prized
 
@@ -14482,7 +14482,7 @@ Here then we will terminate our discourse of Friendship. The next thing
 
 is to go into the subject of Pleasure.
 
-<span class="atom-split" data-atom="141" data-title="Chapter I. (10/10)" data-chapter="Chapter I." data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="Chapter I. (10/10)" data-chapter="Chapter I." data-kind="atom" data-srclang="en"></span>
 
 Next, it would seem, follows a discussion respecting Pleasure, for it
 
@@ -14546,7 +14546,7 @@ But of such considerations enough: let us now proceed to the current
 
 maxims respecting Pleasure.
 
-<span class="atom-split" data-atom="142" data-title="Chapter II. (10/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="Chapter II. (10/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 Now Eudoxus thought Pleasure to be the Chief Good because he saw all,
 
@@ -14806,7 +14806,7 @@ would seem to show clearly either that Pleasure is not a good, or that
 
 there are different kinds of Pleasure: for the former is thought to
 
-<span class="atom-split" data-atom="143" data-title="Chapter II. (11/11)" data-chapter="Chapter II." data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="Chapter II. (11/11)" data-chapter="Chapter II." data-kind="atom" data-srclang="en"></span>
 
 have good as the object of his intercourse, the latter Pleasure only;
 
@@ -14842,7 +14842,7 @@ are derived. Let this then suffice by way of an account of the current
 
 maxims respecting Pleasure and Pain.
 
-<span class="atom-split" data-atom="144" data-title="Chapter III. (11/11)" data-chapter="Chapter III." data-kind="atom"></span>
+<span class="atom-split" data-atom="144" data-title="Chapter III. (11/11)" data-chapter="Chapter III." data-kind="atom" data-srclang="en"></span>
 
 Now what it is, and how characterised, will be more plain if we take up
 
@@ -14946,7 +14946,7 @@ of these a Movement or a Generation: neither then of Pleasure is there
 
 Movement or Generation, because it is, as one may say, “a whole.”
 
-<span class="atom-split" data-atom="145" data-title="Chapter IV. (11/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="145" data-title="Chapter IV. (11/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Now since every Percipient Faculty works upon the Object answering to
 
@@ -15212,7 +15212,7 @@ different, but those of the same, we may reasonably suppose, are
 
 without difference.
 
-<span class="atom-split" data-atom="146" data-title="Chapter IV. (12/12)" data-chapter="Chapter IV." data-kind="atom"></span>
+<span class="atom-split" data-atom="146" data-title="Chapter IV. (12/12)" data-chapter="Chapter IV." data-kind="atom" data-srclang="en"></span>
 
 Yet in the case of human creatures they differ not a little: for the
 
@@ -15268,7 +15268,7 @@ rest in a secondary sense, and in various degrees according as the
 
 Workings are related to those highest and best ones.
 
-<span class="atom-split" data-atom="147" data-title="Chapter V. (10/10)" data-chapter="Chapter V." data-kind="atom"></span>
+<span class="atom-split" data-atom="147" data-title="Chapter V. (10/10)" data-chapter="Chapter V." data-kind="atom" data-srclang="en"></span>
 
 Now that we have spoken about the Excellences of both kinds, and
 
@@ -15404,7 +15404,7 @@ implied in life: because Happiness stands not in such pastimes but in
 
 the Workings in the way of Excellence, as has also been stated before.
 
-<span class="atom-split" data-atom="148" data-title="Chapter VI. (10/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="148" data-title="Chapter VI. (10/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Now if Happiness is a Working in the way of Excellence of course that
 
@@ -15666,7 +15666,7 @@ may appear also from the following consideration: our conception of the
 
 gods is that they are above all blessed and happy: now what kind of
 
-<span class="atom-split" data-atom="149" data-title="Chapter VI. (11/11)" data-chapter="Chapter VI." data-kind="atom"></span>
+<span class="atom-split" data-atom="149" data-title="Chapter VI. (11/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
 Moral actions are we to attribute to them? those of justice? nay, will
 
@@ -15724,7 +15724,7 @@ also the being happy, not incidentally, but in the way of Contemplative
 
 Speculation because it is in itself precious.
 
-<span class="atom-split" data-atom="150" data-title="Chapter VII. (10/10)" data-chapter="Chapter VII." data-kind="atom"></span>
+<span class="atom-split" data-atom="150" data-title="Chapter VII. (10/10)" data-chapter="Chapter VII." data-kind="atom" data-srclang="en"></span>
 
 So Happiness must be a kind of Contemplative Speculation; but since it
 
@@ -15814,7 +15814,7 @@ same time most Happy.
 
 Thus then on this view also the man of Science will be most Happy.
 
-<span class="atom-split" data-atom="151" data-title="Chapter VIII. (10/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="151" data-title="Chapter VIII. (10/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 Now then that we have said enough in our sketchy kind of way on these
 
@@ -16066,7 +16066,7 @@ and training must try to make a Legislator of himself; for to treat
 
 skilfully just any one who may be put before you is not what any
 
-<span class="atom-split" data-atom="152" data-title="Chapter VIII. (11/11)" data-chapter="Chapter VIII." data-kind="atom"></span>
+<span class="atom-split" data-atom="152" data-title="Chapter VIII. (11/11)" data-chapter="Chapter VIII." data-kind="atom" data-srclang="en"></span>
 
 ordinary person can do, but, if any one, he who has knowledge; as in
 

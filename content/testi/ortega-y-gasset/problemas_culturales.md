@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/problemas_culturales" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Problemas culturales" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Problemas culturales" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -66,7 +66,7 @@ FRANCIA, PODER CONSERVADOR
 
 La memoria es un elemento básico de la vida espiritual, pero no es toda ella. Espíritu es fuerza, y como en la física hay una fuerza inerte que sirve de apoyo a la fuerza viva que se llama materia, es la memoria la inercia espiritual, el peso del alma, la materia mental. Sobre ella actúa el elemento verdaderamente vivo, el poder inventor, creador, anticipador, el intelecto. Dentro, pues, de esa vitalidad omnímoda que caracteriza al espíritu, podría decirse que es la memoria lo muerto de lo vivo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Esta metáfora puede servirnos para descubrir en el arcaísmo la forma de producción literaria y científica que escoge un pueblo cuando su vida interna decae y se orienta hacia la muerte. Es cierto que del pasado, cantera maternal, han de extraerse los materiales para lo nuevo, pero el arcaísmo consiste precisamente en querer retener el pasado galvanizándolo, dotándole de una falsa actualidad y vigencia. Así es arcaico Chateaubriand cuando ensaya la reviviscencia del cristianismo como actividad o actualidad poética, y es Víctor Hugo arcaizante cuando ve en la reconstrucción de lo histórico el tema propio de la fantasía novelesca y dramática. Lo es Renan cuando busca la reforma intelectual y moral de Francia, y la vuelta al feudalismo galo; y se deja llevar de Gobineau, que ve en la idea de la raza —raza es la condensación de un pasado milenario en los caracteres anatómicos— el motor de las variaciones históricas. Lo es Taine, porque también busca el secreto de la cultura de la raza, en el medio, que es la condensación de un pasado centenario en los caracteres jurídicos y sociales, en el momento, que es la intersección de la raza y el medio. Es curioso observar cómo, a despecho de las apariencias, el movimiento intelectual de Francia durante el siglo XIX, al menos en sus figuras representativas, ha sido profundamente conservador. De aquí que la democracia política francesa haya vivido durante esa época una existencia gris y enervada que contrasta con el heroísmo luminoso e inquieto de los hombres de la gran Revolución.
 

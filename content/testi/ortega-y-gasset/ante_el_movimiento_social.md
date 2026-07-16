@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ante_el_movimiento_social" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ante el movimiento social" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ante el movimiento social" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -54,7 +54,7 @@ No sabemos si el anuncio de lock-out emanado del Congreso patronal llegará a ef
 
 Convencidos de que, desventuradamente, llegarán, ahora o luego, días dificilísimos y formidables convulsiones públicas, nos importa mucho fijar, una vez más, nuestra opinión. Hace una semana la expusimos de nuevo someramente, dirigiéndonos a los patronos catalanes que inauguraban su Congreso. Hace cosa de un año, al tiempo del armisticio, poníamos ya el grito en el cielo, advirtiendo a la inerte burguesía de la tormenta fabulosa que se estaba condensando sobre la línea del horizonte. Pedíamos que sin demora se organizase una política ágil, amplia y constructiva, la cual saliese al encuentro de los conflictos antes de que éstos maduraran. Porque la vida da la victoria al más activo, no al más rígido. La incansable fermentación de plantas microscópicas reduce a polvo las peñas, y un Estado que se apresura a llevar por su propia mano la reforma a todos los ámbitos de la sociedad, consigue disolver mediante su superior eficacia todos los intentos de transformación revolucionaria que, fuera de él y contra él, germinen en el pueblo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 No se nos hizo entonces ningún [caso](/concepts/fortune). Al contrario, se nos tachó de alarmistas y hasta se temió que fuésemos revolucionarios. Hay gentes con la cabeza suficientemente del revés para llamar revolucionario al que anuncia una revolución e invita a los demás para prevenirla.
 

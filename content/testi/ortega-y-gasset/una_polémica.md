@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/una_polémica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Una polémica" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Una polémica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -50,7 +50,7 @@ Hay en la historia del cristianismo un caso espléndido, que muestra lo que vale
 
 Digo todo esto, que parece, y acaso sea excesivo comento para las sencillas observaciones que quisiera hacer, con dos frases: primero, como incitación a los nuevos escritores a fin de que trabajen en elevar a la superior realidad histórica estas figuras españolas de la segunda mitad del siglo XIX, de que somos próximos herederos, y que aún vagan, como las almas insepultas, en esa vida media y caprichosa, que es haber muerto a la actualidad y vivir aún adherido a la oscilante memoria de quienes los conocieron. Lo mismo digo de épocas anteriores. Tengo suma fe en los resultados para la conciencia nacional de esta como segunda digestión del pasado por la historia.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 La otra finalidad es justificar cierta aparente crudeza de opinión al hablar de tan famosas criaturas. Yo no puedo figurarme a Valera y Campoamor sino reuniendo los juicios a que su obra me obliga: únicamente al través de ellos y mediante ellos, alcanzo a verlos. Los que fueron de sus amigos, al recordarlos, los ven primero en su unidad vital, y sólo a posteriori juzgan de ellos o no juzgan: la estima o menoscabo queda en segunda línea.
 
@@ -88,7 +88,7 @@ Cuando Valera entra en discusión con Campoamor va, realmente, a reñir una nuev
 
 Así en esta polémica sustentará Valera que la metafísica, entiéndase la filosofía, no es sino una religión más clarificada y un lujo que sólo conviene que gasten los ricos. Tomará la poesía como un artificio ornamental, una especie de prosa más acicalada y partida por decoro en metro; una ocupación sin grave daño ni elevado beneficio que no abre derroteros a la humanidad, que si buena entretiene y si mala enfada.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Da como prueba de lo pegadiza y suntuaria que es la filosofía el hecho de que pueblos como China, Rusia, Polonia, Hungría, Turquía y España no la han ejercitado. Esto muestra que a Valera no le repugnaba comparar esos pueblos con Grecia: no percibía que la Hélade se diferencia de ellos en algo más que en cantidad. Llega a decir: «En Europa, durante la clásica antigüedad, “no hay más que la filosofía griega”. Con la irrespetuosidad de que se alimentan, pudiera alguno de los personajes de López Silva exclamar aquí: «¡Una tontería!» Pero no los conjuremos, no sea que Valera les halle un parentesco harto cercano con los de Shakespeare.
 

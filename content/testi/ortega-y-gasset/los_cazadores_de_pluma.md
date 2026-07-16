@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_cazadores_de_pluma" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los cazadores de pluma" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los cazadores de pluma" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No digo yo esta ley contra el espionaje, sino una ley donde se decretase la electrocución de media España podía ser aceptable en su hora y su sazón. Como la vida es, afortunadamente, mucho más variada que nuestra filosofía, nadie puede predecir qué medida será un día la más benéfica. Así, en esta sesión de doce horas no ha habido nadie que se opusiese en principio a la idea de una ley sobre el espionaje. Conviene hacer constar esto, que con todas sus letras hizo constar el señor Pedregal. «Es una necesidad —ha dicho—, cuya expresión ha salido varias veces de los bancos de la izquierda».
 

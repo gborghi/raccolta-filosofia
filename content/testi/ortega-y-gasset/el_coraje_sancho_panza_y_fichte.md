@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_coraje_sancho_panza_y_fichte" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El coraje, Sancho Panza y Fichte" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El coraje, Sancho Panza y Fichte" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 ¡El esfuerzo! Como es sabido, fue Platón el primer hombre que trató de hallar los componentes del alma humana, lo que luego se denominó «potencias». Comprendiendo que es el espíritu individual cosa demasiado resbaladiza y fugitiva para poder analizarla, Platón buscó en las razas, como en grandiosas proyecciones, los resortes de nuestra conciencia. «En la nación —dice— está el hombre escrito con letras grandes». Notaba en la raza griega una incansable curiosidad y nativa destreza para el manejo de las ideas: los griegos eran inteligentes, en ellos se acusaba la potencia intelectual. Pero advertía en los pueblos bárbaros del Cáucaso cierto carácter que él echaba de menos en Grecia y que le parecía tan importante como el intelecto. «Los escitas —observa Sócrates en la República— no son inteligentes como nosotros, pero tienen θῦμός». Θῦμός, en latín, furor; en castellano, esfuerzo, coraje, ímpetu. Sobre esta palabra construye Platón la idea que hoy llamamos voluntad.
 

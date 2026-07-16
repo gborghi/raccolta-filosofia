@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/palabras_sin_sentido" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Palabras sin sentido" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Palabras sin sentido" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Alguien, demasiado oficioso y avisado, hizo llegar ayer a la Prensa una nota en la que se recordaban las orientaciones que la pluma del señor Maura señaló a la política internacional de España en el Mensaje que leyó el Rey al abrir las Cortes del año 1907.
 

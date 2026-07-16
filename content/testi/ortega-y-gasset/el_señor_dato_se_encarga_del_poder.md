@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_señor_dato_se_encarga_del_poder" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El señor Dato se encarga del poder" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El señor Dato se encarga del poder" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor Dato ha aceptado el Poder. Con ello gana ante los españoles el campeonato del heroísmo. ¿Quién podía sospechar que este doctor melifluo se lanzaría a la extraña aventura de gobernar sin concentración conservadora y sin decreto de disolución? Es decir, para constituir un Gobierno interino, como el último de los Allendesalazares, parecía el señor Dato el político menos idóneo de todos los políticos idóneos. ¿Qué ha ocurrido, pues, durante esta última semana de misteriosa calma política? No lo sabemos. Limitémonos a desear al señor Dato una deliciosa interinidad.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/discurso_en_el_parlamento_chileno" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[Discurso en el Parlamento chileno]" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="[Discurso en el Parlamento chileno]" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señor Presidente, señores Diputados: el honor que esta Cámara me hace permitiendo que se deslice, por un momento, dentro de su cuerpo constitucional, mi persona errante, me obliga a tanta gratitud, que he querido defenderme de ella, temeroso de no saber adecuadamente corresponderla.
 
@@ -66,7 +66,7 @@ Se dice, desde hace algunos años, que ha acabado la política de las ideas, se 
 
 Las naciones que son para vosotros modelos, por ser las que habéis hallado en la plenitud de su desarrollo cuando a nueva vida nacieron estos países, se hicieron allá en la Edad Media, pero no como fruto de las ideas, de la inteligencia. Durante la Edad Media se van fraguando las naciones europeas merced a obras, virtudes, al coraje, al esfuerzo y constancia, que no suelen ser las características de los intelectuales. Es ése el tiempo en que dominan los guerreros y sacerdotes, con las virtudes propias de su gremio, y entonces se van formando año por año, centuria por centuria, esos acordes magníficos de la humanidad que han sido las naciones de Occidente.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Entretanto, germina y se prepara en los rincones de los claustros y de las universidades municipales el pensamiento, la inteligencia que tiene en el Renacimiento la primera fiesta de su madurez. Pero crece tanto esta inteligencia, va sintiéndose tan poderosa que llega, sobre todo en el siglo XVII —era de la construcción de los grandes sistemas racionales de Descartes, Spinoza y Leibniz— a creer que puede tanto como Dios, que puede deshacer y reconstruir el templo del mundo.
 

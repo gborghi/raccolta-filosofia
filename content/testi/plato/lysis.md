@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/lysis" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LYSIS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LYSIS" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -116,7 +116,7 @@ Assuredly not, he said; such a poet would be a fool. And this is the reason why 
 
 That is not easy to determine, I said; but if you will bring your love to me, and will let me talk with him, I may perhaps be able to show you how to converse with him, instead of singing and reciting in the fashion of which you are accused.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 There will be no difficulty in bringing him, he replied; if you will only go with Ctesippus into the Palaestra, and sit down and talk, I believe that he will come of his own accord; for he is fond of listening, [Socrates](/figures/socrates). And as this is the festival of the Hermaea, the young men and boys are all together, and there is no separation between them. He will be sure to come: but if he does not, Ctesippus with whom he is familiar, and whose relation Menexenus is his great friend, shall call him.
 
@@ -242,7 +242,7 @@ Will not the Athenian people, too, entrust their affairs to you when they see th
 
 Yes.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And oh! let me put another case, I said: There is the great king, and he has an eldest son, who is the Prince of Asia; — suppose that you and I go to him and establish to his satisfaction that we are better cooks than his son, will he not entrust to us the prerogative of making soup, and putting in anything that we like while the pot is boiling, rather than to the Prince of Asia, who is his son?
 
@@ -362,7 +362,7 @@ You think that he is right?
 
 Yes.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Then, Menexenus, the conclusion is, that what is beloved, whether loving or hating, may be dear to the lover of it: for example, very young children, too young to love, or even hating their father or mother when they are punished by them, are never dearer to them than at the time when they are being hated by them.
 
@@ -496,7 +496,7 @@ They will then proceed to ask whether the enemy is the friend of the friend, or 
 
 Neither, he replied.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Well, but is a just man the friend of the unjust, or the temperate of the intemperate, or the good of the bad?
 
@@ -664,7 +664,7 @@ Then the friend is a friend for the sake of the friend, and because of the enemy
 
 That is to be inferred.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Then at this point, my boys, let us take heed, and be on our guard against deceptions. I will not again repeat that the friend is the friend of the friend, and the like of the like, which has been declared by us to be an impossibility; but, in order that this new statement may not delude us, let us attentively examine another point, which I will proceed to explain: Medicine, as we were saying, is a friend, or dear to us for the sake of health?
 
@@ -798,7 +798,7 @@ Here, intending to revise the argument, I said: Can we point out any difference 
 
 Very true.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And shall we further say that the good is congenial, and the evil uncongenial to every one? Or again that the evil is congenial to the evil, and the good to the good; and that which is neither good nor evil to that which is neither good nor evil?
 

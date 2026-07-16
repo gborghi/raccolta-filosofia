@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_holy_orders" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Holy Orders" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Holy Orders" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 HOLY ORDERS (QQ[34]-40)
 OF THE [SACRAMENT](/concepts/sacrament) OF ORDER AS TO ITS ESSENCE AND ITS PARTS (FIVE
@@ -37,7 +37,7 @@ Under the first head there are five points of inquiry:
 (4) Whether its form is expressed properly?
 (5) Whether this sacrament has any matter?
 
-<span class="atom-split" data-atom="002" data-title="Whether there should be Order in the Church?" data-chapter="Whether there should be Order in the Church?" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Whether there should be Order in the Church?" data-chapter="Whether there should be Order in the Church?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there should not be Order in the Church. For Order requires
 subjection and preeminence. But subjection seemingly is incompatible with the liberty whereunto
@@ -85,7 +85,7 @@ are the cause of grace and, in a way, precede grace; and consequently our Orders
 sanctifying grace, but only the power to dispense the sacraments; for which reason order does not
 correspond to the difference of sanctifying grace, but to the difference of power.
 
-<span class="atom-split" data-atom="003" data-title="Whether Order is properly defined?" data-chapter="Whether Order is properly defined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether Order is properly defined?" data-chapter="Whether Order is properly defined?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that order is improperly defined by the Master (Sent. iv, D, 53),
 where it is said "Order is a seal of the Church, whereby spiritual power is conferred on the person
@@ -137,7 +137,7 @@ order taken in the first sense. And since the notion of order as relation is obs
 meet with something higher than another, it follows that this degree of pre-eminence by spiritual
 power is called Order.
 
-<span class="atom-split" data-atom="004" data-title="Whether Order is a sacrament?" data-chapter="Whether Order is a sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether Order is a sacrament?" data-chapter="Whether Order is a sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Order is not a [sacrament](/concepts/sacrament). For a sacrament, according to Hugh
 of St. Victor (De Sacram. i) "is a material element." Now Order denotes nothing of the kind, but
@@ -174,7 +174,7 @@ monks and abbots are blessed, and yet such blessings are not sacraments, and in 
 is the anointing of a king; because by such blessings men are not ordained to the dispensing of the
 divine sacraments, as by the blessing of Order. Hence the comparison fails.
 
-<span class="atom-split" data-atom="005" data-title="Whether the form of this sacrament is suitably expressed?" data-chapter="Whether the form of this sacrament is suitably expressed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether the form of this sacrament is suitably expressed?" data-chapter="Whether the form of this sacrament is suitably expressed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the form of this [sacrament](/concepts/sacrament) is unsuitably set forth in the text
 (Sent. iv, D, 24). Because the sacraments take their efficacy from their form. Now the efficacy of
@@ -229,7 +229,7 @@ Church. Wherefore although the other sacraments, from the very fact that they gi
 the recipient to salvation, properly speaking they do not direct him to a reward, in the same way
 as this sacrament does.
 
-<span class="atom-split" data-atom="006" data-title="Whether this sacrament has any matter?" data-chapter="Whether this sacrament has any matter?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether this sacrament has any matter?" data-chapter="Whether this sacrament has any matter?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) has no matter. Because in every sacrament that
 has a matter the power that works in the sacrament is in the matter. But in the material objects
@@ -276,7 +276,7 @@ of the matter is more essential to the sacrament than contact therewith. However
 themselves of the form would seem to indicate that contact with the matter is essential to the
 sacrament, for it is said: "Receive" this or that.
 
-<span class="atom-split" data-atom="007" data-title="OF THE EFFECT OF THIS SACRAMENT (FIVE ARTICLES)" data-chapter="OF THE EFFECT OF THIS SACRAMENT (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="OF THE EFFECT OF THIS SACRAMENT (FIVE ARTICLES)" data-chapter="OF THE EFFECT OF THIS SACRAMENT (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider me effect of this [sacrament](/concepts/sacrament). Under this head there are five points of
 inquiry:
@@ -286,7 +286,7 @@ inquiry:
 (4) Whether it presupposes of necessity the character of Confirmation?
 (5) Whether the character of one Order presupposes of necessity the character of another Order?
 
-<span class="atom-split" data-atom="008" data-title="Whether sanctifying grace is conferred in the sacrament of Order?" data-chapter="Whether sanctifying grace is conferred in the sacrament of Order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether sanctifying grace is conferred in the sacrament of Order?" data-chapter="Whether sanctifying grace is conferred in the sacrament of Order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sanctifying grace is not conferred in the [sacrament](/concepts/sacrament) of Order.
 For it is commonly agreed that the sacrament of Order is directed to counteract the defect of
@@ -334,7 +334,7 @@ of Order, so may they be above them by the merit of holiness. Hence they are req
 grace that suffices to make them worthy members of Christ's people, but when they receive Orders
 they are given a yet greater gift of grace, whereby they are rendered apt for greater things.
 
-<span class="atom-split" data-atom="009" data-title="Whether in the sacrament of Order a character is imprinted in connection with all the Orders?" data-chapter="Whether in the sacrament of Order a character is imprinted in connection with all the Orders?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether in the sacrament of Order a character is imprinted in connection with all the Orders?" data-chapter="Whether in the sacrament of Order a character is imprinted in connection with all the Orders?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that in the [sacrament](/concepts/sacrament) of Order a character is not imprinted in
 connection with all the Orders. For the character of Order is a spiritual power. Now some Orders
@@ -375,7 +375,7 @@ in him. This is evident from the fact that if he return to the clerical state, h
 the order which he had already.
 The Reply to the Third Objection is the same as to the First.
 
-<span class="atom-split" data-atom="010" data-title="Whether the character of Order presupposes the baptismal character?" data-chapter="Whether the character of Order presupposes the baptismal character?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the character of Order presupposes the baptismal character?" data-chapter="Whether the character of Order presupposes the baptismal character?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the character of Order does not presuppose the character of
 Baptism. For the character of Order makes a man a dispenser of the sacraments; while the character
@@ -408,7 +408,7 @@ even though he be raised to the episcopate, those whom he ordains receive not th
 may piously be believed that as regards the ultimate effects of the sacraments, the High Priest will
 supply the defect, and that He would not allow this to be so hidden as to endanger the Church.
 
-<span class="atom-split" data-atom="011" data-title="Whether the character of Order necessarily presupposes the character of Confirmation?" data-chapter="Whether the character of Order necessarily presupposes the character of Confirmation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the character of Order necessarily presupposes the character of Confirmation?" data-chapter="Whether the character of Order necessarily presupposes the character of Confirmation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the character of Order necessarily presupposes the character
 of Confirmation. For in things subordinate to one another, as the middle presupposes the first, so
@@ -440,7 +440,7 @@ of Order. Hence the comparison fails.
 
 Reply to Objection 2: This argument considers aptness by way of congruity.
 
-<span class="atom-split" data-atom="012" data-title="Whether the character of one Order necessarily presupposes the character of another Order?" data-chapter="Whether the character of one Order necessarily presupposes the character of another Order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether the character of one Order necessarily presupposes the character of another Order?" data-chapter="Whether the character of one Order necessarily presupposes the character of another Order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the character of one Order necessarily presupposes the character
 of another Order. For there is more in common between one Order and another, than between Order
@@ -482,7 +482,7 @@ one who is an angel be first of all a man. Such also are the degrees between the
 of the body; nor is it necessary that that which is the head should be previously a foot; and thus it
 is in the case in point.
 
-<span class="atom-split" data-atom="013" data-title="OF THE QUALITIES REQUIRED OF THOSE WHO RECEIVE THIS SACRAMENT (FIVE ARTICLES)" data-chapter="OF THE QUALITIES REQUIRED OF THOSE WHO RECEIVE THIS SACRAMENT (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="OF THE QUALITIES REQUIRED OF THOSE WHO RECEIVE THIS SACRAMENT (FIVE ARTICLES)" data-chapter="OF THE QUALITIES REQUIRED OF THOSE WHO RECEIVE THIS SACRAMENT (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the qualities required of those who receive the [sacrament](/concepts/sacrament) of Order.
 Under this head there are five points of inquiry:
@@ -492,7 +492,7 @@ Under this head there are five points of inquiry:
 (4) Whether he who raises the unworthy to Orders sins?
 (5) Whether one who is in sin can without committing a sin exercise the Order he has received?
 
-<span class="atom-split" data-atom="014" data-title="Whether goodness of life is required of those who receive Orders?" data-chapter="Whether goodness of life is required of those who receive Orders?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether goodness of life is required of those who receive Orders?" data-chapter="Whether goodness of life is required of those who receive Orders?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that goodness of life is not required of those who receive Orders.
 For by Orders a man is ordained to the dispensation of the sacraments. But the sacraments can be
@@ -540,7 +540,7 @@ dangerous to take them; others can be given to the weakly. So too in spiritual t
 sacraments are ordained as remedies for sin, and the like are to be given to sinners, as Baptism and
 Penance, while others, which confer the perfection of grace, require a man made strong by grace.
 
-<span class="atom-split" data-atom="015" data-title="Whether knowledge of all Holy Writ is required?" data-chapter="Whether knowledge of all Holy Writ is required?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether knowledge of all Holy Writ is required?" data-chapter="Whether knowledge of all Holy Writ is required?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that knowledge of all Holy Writ is required. For one from whose
 lips we seek the law, should have knowledge of the law. Now the laity seek the law at the mouth
@@ -598,7 +598,7 @@ such knowledge is obtained easily and from many persons, it may be supposed with
 that the ordained will acquire that knowledge even if he have it not already, especially if it appear
 that he is on the road to acquire it.
 
-<span class="atom-split" data-atom="016" data-title="Whether a man obtains the degrees of Order by the merit of one's life?" data-chapter="Whether a man obtains the degrees of Order by the merit of one's life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether a man obtains the degrees of Order by the merit of one's life?" data-chapter="Whether a man obtains the degrees of Order by the merit of one's life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man obtains the degrees of order by the mere merit of his
 life. For, according to Chrysostom [*Hom. xliii in the Opus Imperfectum, wrongly ascribed to St.
@@ -632,7 +632,7 @@ not to confer anything on them by virtue of their own holiness (for this belongs
 as ministers, and as instruments, so to say, of the outpouring from the Head to the members. Hence
 the comparison fails as regards the dignity of Order, although it applies as to congruity.
 
-<span class="atom-split" data-atom="017" data-title="Whether he who raises the unworthy to Orders commits a sin?" data-chapter="Whether he who raises the unworthy to Orders commits a sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether he who raises the unworthy to Orders commits a sin?" data-chapter="Whether he who raises the unworthy to Orders commits a sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that he who raises the unworthy to orders commits no sin. For a
 bishop needs assistants appointed to the lesser offices. But he would be unable to find them in
@@ -738,7 +738,7 @@ be otherwise if they were to touch some sacred thing or perform some sacred duty
 necessity, when it would be allowable even to a layman, for instance if they were to baptize in a
 case of urgency, or gather up the Lord's body should it be cast to the ground.
 
-<span class="atom-split" data-atom="018" data-title="OF THE DISTINCTION OF ORDERS, OF THEIR ACTS, AND THE IMPRINTING OF THE CHARACTER (FIVE ARTICLES)" data-chapter="OF THE DISTINCTION OF ORDERS, OF THEIR ACTS, AND THE IMPRINTING OF THE CHARACTER (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="OF THE DISTINCTION OF ORDERS, OF THEIR ACTS, AND THE IMPRINTING OF THE CHARACTER (FIVE ARTICLES)" data-chapter="OF THE DISTINCTION OF ORDERS, OF THEIR ACTS, AND THE IMPRINTING OF THE CHARACTER (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we must consider the distinction of the orders and their acts, and the imprinting
 of the character. Under this head there are five points of inquiry:
@@ -748,7 +748,7 @@ of the character. Under this head there are five points of inquiry:
 (4) Whether the acts of the Orders are rightly assigned in the text?
 (5) When are the characters of the Orders imprinted?
 
-<span class="atom-split" data-atom="019" data-title="Whether we ought to distinguish several Orders?" data-chapter="Whether we ought to distinguish several Orders?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether we ought to distinguish several Orders?" data-chapter="Whether we ought to distinguish several Orders?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that we ought not to distinguish several Orders. For the greater a
 power is, the less is it multiplied. Now this [sacrament](/concepts/sacrament) ranks above the others in so far as it places
@@ -807,7 +807,7 @@ this does not exclude the ministers having a power which is a participation of t
 is the same in Order. In the aristocratic form of government, on the contrary, the fulness of power
 resides in no one, but in all.
 
-<span class="atom-split" data-atom="020" data-title="Whether there are seven Orders? (1/2)" data-chapter="Whether there are seven Orders?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether there are seven Orders? (1/2)" data-chapter="Whether there are seven Orders?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not seven Orders. For the Orders of the Church are
 directed to the hierarchical acts. But there are only three hierarchical acts, namely "to cleanse, to
@@ -900,7 +900,7 @@ under this last all the lower Orders are comprised. But the Orders derive their 
 from their relation to the greatest of the sacraments, and consequently the number of Orders depends
 on this.
 
-<span class="atom-split" data-atom="021" data-title="Whether there are seven Orders? (2/2)" data-chapter="Whether there are seven Orders?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether there are seven Orders? (2/2)" data-chapter="Whether there are seven Orders?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: In the early Church, on account of the fewness of ministers, all the lower
 ministries were entrusted to the deacons, as Dionysius says (Eccl. Hier. iii), where he says: "Some
@@ -933,7 +933,7 @@ is not the name of a special Order, both because it belongs to the whole choir t
 he has no special relation to the sacrament of the Eucharist. Since, however, it is a particular office,
 it is sometimes reckoned among the Orders, taking these in a broad sense.
 
-<span class="atom-split" data-atom="022" data-title="Whether the Order should be divided into those that are sacred and those that are not?" data-chapter="Whether the Order should be divided into those that are sacred and those that are not?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the Order should be divided into those that are sacred and those that are not?" data-chapter="Whether the Order should be divided into those that are sacred and those that are not?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the Orders ought not to be divided into those that are sacred
 and those that are not. For all the Orders are sacraments, and all the sacraments are sacred. Therefore
@@ -955,7 +955,7 @@ the consecrated vessels. Wherefore continency is enjoined them, that they who ha
 may themselves be holy and clean.
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="023" data-title="Whether the acts of the Orders are rightly assigned in the text? (1/2)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether the acts of the Orders are rightly assigned in the text? (1/2)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the acts of the Orders are not rightly assigned in the text (Sent.
 iv, D, 24). Because a person is prepared by absolution to receive Christ's body. Now the preparation
@@ -1067,7 +1067,7 @@ Order to be most orderly. since only the three higher Orders co-operate with the
 act which is to consecrate the body of Christ, while both the higher and lower Orders co-operate
 with him in his secondary act, which is to loose and bind.
 
-<span class="atom-split" data-atom="024" data-title="Whether the acts of the Orders are rightly assigned in the text? (2/2)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether the acts of the Orders are rightly assigned in the text? (2/2)" data-chapter="Whether the acts of the Orders are rightly assigned in the text?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 9: Some say that in receiving the Order the doorkeeper is given a Divine
 power to debar others from entering the Church, even as Christ had, when He cast out the sellers
@@ -1078,7 +1078,7 @@ exercised by others, even though these have no office to that effect: just as Ma
 unconsecrated building, although the consecration of a church is directed to the purpose that Mass
 be said there.
 
-<span class="atom-split" data-atom="025" data-title="Whether the character is imprinted on a priest when the chalice is handed to him?" data-chapter="Whether the character is imprinted on a priest when the chalice is handed to him?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the character is imprinted on a priest when the chalice is handed to him?" data-chapter="Whether the character is imprinted on a priest when the chalice is handed to him?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the character is not imprinted on the priest at the moment when
 the chalice is handed to him. For the consecration of a priest is done by anointing as in Confirmation.
@@ -1163,14 +1163,14 @@ act of carrying the torch; although he takes his name from the secondary act, be
 known and more proper to him. Hence the acolyte receives the character when he is given the cruet,
 by virtue of the words uttered by the bishop.
 
-<span class="atom-split" data-atom="026" data-title="OF THOSE WHO CONFER THIS SACRAMENT (TWO ARTICLES)" data-chapter="OF THOSE WHO CONFER THIS SACRAMENT (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="OF THOSE WHO CONFER THIS SACRAMENT (TWO ARTICLES)" data-chapter="OF THOSE WHO CONFER THIS SACRAMENT (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider those who confer this [sacrament](/concepts/sacrament). Under this head there are two points
 of inquiry:
 (1) Whether a bishop alone can confer this sacrament?
 (2) Whether a heretic or any other person cut off from the Church can confer this sacrament?
 
-<span class="atom-split" data-atom="027" data-title="Whether a bishop alone confers the sacrament of Order? (1/2)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether a bishop alone confers the sacrament of Order? (1/2)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not only a bishop confers the [sacrament](/concepts/sacrament) of Order. For the
 imposition of hands has something to do with the consecration. Now not only the bishop but also
@@ -1278,7 +1278,7 @@ Further, as the one who baptizes exercises a merely outward ministry, so does on
 while God works inwardly. But one who is cut off from the Church by no means loses the power
 to baptize. Neither therefore does he lose the power to ordain.
 
-<span class="atom-split" data-atom="028" data-title="Whether a bishop alone confers the sacrament of Order? (2/2)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether a bishop alone confers the sacrament of Order? (2/2)" data-chapter="Whether a bishop alone confers the sacrament of Order?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, on this question four opinions are mentioned in the text (Sent. iv, D, 25). For
 some said that heretics, so long as they are tolerated by the Church, retain the power to ordain, but
@@ -1326,7 +1326,7 @@ Church which they observe.
 Reply to Objection 5: This refers to the ultimate effect of the sacraments, as the third opinion
 maintains.
 
-<span class="atom-split" data-atom="029" data-title="OF THE IMPEDIMENTS TO THIS SACRAMENT (SIX ARTICLES)" data-chapter="OF THE IMPEDIMENTS TO THIS SACRAMENT (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="OF THE IMPEDIMENTS TO THIS SACRAMENT (SIX ARTICLES)" data-chapter="OF THE IMPEDIMENTS TO THIS SACRAMENT (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the impediments to this [sacrament](/concepts/sacrament). Under this head there are six points
 of inquiry:
@@ -1337,7 +1337,7 @@ of inquiry:
 (5) Whether illegitimate birth is?
 (6) Whether lack of members is?
 
-<span class="atom-split" data-atom="030" data-title="Whether the female sex is an impediment to receiving Orders?" data-chapter="Whether the female sex is an impediment to receiving Orders?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the female sex is an impediment to receiving Orders?" data-chapter="Whether the female sex is an impediment to receiving Orders?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the female sex is no impediment to receiving Orders. For the
 office of prophet is greater than the office of priest, since a prophet stands midway between God
@@ -1389,7 +1389,7 @@ it is said that they have not ordinary authority, but delegated as it were, on a
 of men and women living together. But Debbora exercised authority in temporal, not in priestly
 matters, even as now woman may have temporal power.
 
-<span class="atom-split" data-atom="031" data-title="Whether boys and those who lack the use of reason can receive Orders?" data-chapter="Whether boys and those who lack the use of reason can receive Orders?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether boys and those who lack the use of reason can receive Orders?" data-chapter="Whether boys and those who lack the use of reason can receive Orders?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that boys and those who lack the use of reason cannot receive
 Orders. For, as stated in the text (Sent. iv, D, 25), the sacred canons have appointed a certain fixed
@@ -1441,7 +1441,7 @@ act on their part is expressed in their consecration. Hence there is no comparis
 Reply to Objection 3: Act and power are in the same subject; yet sometimes a power, such as
 the free-will, precedes its act; and thus it is in the case in point.
 
-<span class="atom-split" data-atom="032" data-title="Whether the state of slavery is an impediment to receiving Orders?" data-chapter="Whether the state of slavery is an impediment to receiving Orders?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether the state of slavery is an impediment to receiving Orders?" data-chapter="Whether the state of slavery is an impediment to receiving Orders?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that [the state](/concepts/state) of slavery is not an impediment to receiving Orders.
 For corporal subjection is not incompatible with spiritual authority. But in a slave there is corporal
@@ -1497,7 +1497,7 @@ him are bound to pay the master double the slave's value, if they knew him to be
 if the slave has possessions of his own, he is bound to buy his freedom, else he would have to return
 to the bondage of his master, notwithstanding the impossibility of his exercising his Order.
 
-<span class="atom-split" data-atom="033" data-title="Whether a man should be debarred from receiving Orders on account of homicide?" data-chapter="Whether a man should be debarred from receiving Orders on account of homicide?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether a man should be debarred from receiving Orders on account of homicide?" data-chapter="Whether a man should be debarred from receiving Orders on account of homicide?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man ought not to be debarred from receiving Orders on
 account of homicide. Because our Orders originated with the office of the Levites, as stated in the
@@ -1541,7 +1541,7 @@ Wherefore even he who in a particular case slays a man in self-defense without c
 is none the less irregular [*St. Thomas is speaking according to the canon law of his time. This is
 no longer the case now.].
 
-<span class="atom-split" data-atom="034" data-title="Whether those of illegitimate birth should be debarred from receiving Orders?" data-chapter="Whether those of illegitimate birth should be debarred from receiving Orders?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether those of illegitimate birth should be debarred from receiving Orders?" data-chapter="Whether those of illegitimate birth should be debarred from receiving Orders?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those who are of illegitimate birth should not be debarred from
 receiving Orders. For the son should not bear the iniquity of the father (Ezech. 18:20); and yet he
@@ -1570,7 +1570,7 @@ Reply to Objection 2: What a man does by his own act can be removed by repentanc
 a contrary act; not so the things which are from nature. Hence the comparison fails between sinful
 act and sinful origin.
 
-<span class="atom-split" data-atom="035" data-title="Whether lack of members should be an impediment?" data-chapter="Whether lack of members should be an impediment?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether lack of members should be an impediment?" data-chapter="Whether lack of members should be an impediment?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man ought not to be debarred from receiving Orders on
 account of a lack of members. For one who is afflicted should not receive additional affliction.
@@ -1594,7 +1594,7 @@ he is not debarred. This integrity, however, is necessary for the lawfulness and
 of the [sacrament](/concepts/sacrament).
 This suffices for the Replies to the Objections.
 
-<span class="atom-split" data-atom="036" data-title="OF THE THINGS ANNEXED TO THE SACRAMENT OF ORDER (SEVEN ARTICLES)" data-chapter="OF THE THINGS ANNEXED TO THE SACRAMENT OF ORDER (SEVEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="OF THE THINGS ANNEXED TO THE SACRAMENT OF ORDER (SEVEN ARTICLES)" data-chapter="OF THE THINGS ANNEXED TO THE SACRAMENT OF ORDER (SEVEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the things that are annexed to the [sacrament](/concepts/sacrament) of Order. Under this head
 there are seven points of inquiry:
@@ -1606,7 +1606,7 @@ there are seven points of inquiry:
 (6) Whether in the Church there can be any power above the episcopate?
 (7) Whether the vestments of the ministers are fittingly instituted by the Church?
 
-<span class="atom-split" data-atom="037" data-title="Whether those who are ordained ought to wear the tonsure?" data-chapter="Whether those who are ordained ought to wear the tonsure?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether those who are ordained ought to wear the tonsure?" data-chapter="Whether those who are ordained ought to wear the tonsure?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that those who are ordained ought not to wear the tonsure in the
 shape of a crown. For the Lord threatened captivity and dispersion to those who were shaven in
@@ -1656,7 +1656,7 @@ Reply to Objection 3: Not only the renunciation of temporalities, but also the r
 has to be signified by the form of a crown; wherefore the hair should not be cut off entirely. Another
 reason is that this would be unbecoming.
 
-<span class="atom-split" data-atom="038" data-title="Whether the tonsure is an Order?" data-chapter="Whether the tonsure is an Order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the tonsure is an Order?" data-chapter="Whether the tonsure is an Order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the tonsure is an Order. For in the acts of the Church the
 spiritual corresponds to the corporal. Now the tonsure is a corporal sign employed by the Church.
@@ -1696,7 +1696,7 @@ is employed in the Divine worship.
 Reply to Objection 3: A man through being a cleric is in a higher state than a layman; but as
 regards power he has not the higher degree that is required for Orders.
 
-<span class="atom-split" data-atom="039" data-title="Whether by receiving the tonsure a man renounces temporal goods?" data-chapter="Whether by receiving the tonsure a man renounces temporal goods?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether by receiving the tonsure a man renounces temporal goods?" data-chapter="Whether by receiving the tonsure a man renounces temporal goods?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that men renounce temporal goods by receiving the tonsure, for
 when they are tonsured they say: "The Lord is the portion of my inheritance." But as Jerome says
@@ -1737,7 +1737,7 @@ by the bishop who ordained them; otherwise he is not so bound. And they are boun
 the Church in the Order they have received. The words of Hugh refer to those who have no means
 of livelihood.
 
-<span class="atom-split" data-atom="040" data-title="Whether above the priestly Order there ought to be an episcopal power?" data-chapter="Whether above the priestly Order there ought to be an episcopal power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether above the priestly Order there ought to be an episcopal power?" data-chapter="Whether above the priestly Order there ought to be an episcopal power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there ought not to be an episcopal power above the priestly
 Order. For as stated in the text (Sent. iv, D, 24) "the priestly Order originated from Aaron." Now
@@ -1792,7 +1792,7 @@ other ministers and founded the Church. Hence it belongs to a bishop to dedicate
 Divine offices, as establishing the Divine [worship](/concepts/religion) after the manner of Christ. For this reason also
 a bishop is especially called the bridegroom of the Church even as Christ is.
 
-<span class="atom-split" data-atom="041" data-title="Whether the episcopate is an Order?" data-chapter="Whether the episcopate is an Order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether the episcopate is an Order?" data-chapter="Whether the episcopate is an Order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the episcopate is an Order. First of all, because Dionysius
 (Eccl. Hier. v) assigns these three orders to the ecclesiastical hierarchy, the bishop, the priest, and
@@ -1834,7 +1834,7 @@ an Order is a sacrament.
 Reply to Objection 3: The episcopal power is one not only of jurisdiction but also of Order,
 as stated above, taking Order in the sense in which it is generally understood.
 
-<span class="atom-split" data-atom="042" data-title="Whether in the Church there can be anyone above the bishops?" data-chapter="Whether in the Church there can be anyone above the bishops?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether in the Church there can be anyone above the bishops?" data-chapter="Whether in the Church there can be anyone above the bishops?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there cannot be anyone in the Church higher than the bishops.
 For all the bishops are the successors of the apostles. Now the power so given to one of the apostles,
@@ -1901,7 +1901,7 @@ perform every act that a bishop can in conferring the sacraments. Wherefore as r
 pertaining to the episcopal Order, all bishops are equal, and for this reason any bishop can consecrate
 another bishop.
 
-<span class="atom-split" data-atom="043" data-title="Whether the vestments of the ministers are fittingly instituted in the Church?" data-chapter="Whether the vestments of the ministers are fittingly instituted in the Church?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the vestments of the ministers are fittingly instituted in the Church?" data-chapter="Whether the vestments of the ministers are fittingly instituted in the Church?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the vestments of the ministers are not fittingly instituted in the
 Church. For the ministers of the New Testament are more bound to chastity than were the ministers

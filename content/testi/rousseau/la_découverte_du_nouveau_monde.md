@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/la_découverte_du_nouveau_monde" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LA DÉCOUVERTE DU NOUVEAU MONDE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LA DÉCOUVERTE DU NOUVEAU MONDE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 LE CACIQUE, de l’île de Guanahan, conquérant d’une partie des Antilles.
 
@@ -514,7 +514,7 @@ Ancien du monde, etc.
 
 LE GRAND-PRÊTRE.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 C'en est assez. Que l'on fasse silence.
 
@@ -1000,7 +1000,7 @@ Et je n'attendrai pas qu'une main moins barbare
 
 Des miens vienne trancher le cours.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Tourments des tendres cœurs, terreurs, crainte fatale,
 

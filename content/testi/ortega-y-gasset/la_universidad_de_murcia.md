@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_universidad_de_murcia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La Universidad de Murcia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La Universidad de Murcia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Que en esta hora, tan adecuada para una reforma hondísima de nuestra vida nacional, lo único que se haya creado sea una Universidad más, equivale a un golpe fatal que recibimos los ortodoxos del optimismo. Si se hubiera descubierto algún grave desliz en la contabilidad del Estado, habríamos hecho la mueca de indignarnos, pero la raíz de nuestro optimismo quedaría indemne. Gentes que cometan abusos, que brinquen las bardas legales, no faltarán nunca. Toda sociedad, aun la de existencia más normal, tiene que hacer un descuento al crimen. El mal para una sociedad no es que en ella ocurran males, sino que no ocurran bienes.
 

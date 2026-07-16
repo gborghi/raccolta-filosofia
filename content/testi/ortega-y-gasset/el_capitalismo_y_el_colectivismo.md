@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_capitalismo_y_el_colectivismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El capitalismo y el colectivismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El capitalismo y el colectivismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hoy es cosa sabida en todas partes, en todos los movimientos sociales del mundo, y si se entienden con rigor mis palabras, incluso en Rusia, que no existe ya el capitalismo como rigoroso principio que regula la vida económica; pero tampoco el colectivismo, como exclusivo principio, como [norma](/concepts/law) abstracta que enderece las modificaciones del porvenir económico, sino que entre ambos principios, que como principios son siempre pedantes, ha venido a alojarse la inexorable ley de la economía, que impone su conjugación y su fértil prolificación.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_moral_del_automóvil_en_españa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La moral del automóvil en España" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La moral del automóvil en España" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Al acrecer los aranceles para la entrada de automóviles y sus accesorios, el Gobierno se ha propuesto exclusivamente una finalidad política que usa en este [caso](/concepts/fortune) de un expediente hacendístico. Yo no sé si política y económicamente tal disposición es buena o es mala. Supongamos que es pésima. No obstante, la aplaudo fervorosamente, por una razón inesperada en que el Gobierno no ha pensado un momento. Esta razón, impolítica y tal vez antieconómica, es una razón moral. Si estuviese en mi mano, yo haría subir diez veces más los derechos sobre importación de estos admirables artefactos. Acaso extrañe al lector hallar que manifiesto opinión semejante, ya que es bastante notorio mi entusiasmo por este objeto semoviente. Pero quizá es este mismo entusiasmo quien me ha hecho reflexionar un poco sobre el comportamiento de mis compatriotas con el automóvil y me ha llevado a descubrir que es sencillamente inmoral.
 
@@ -54,7 +54,7 @@ Y nada mejora el juicio que los hechos enunciados impone advertir que el automó
 
 La única entidad que hace años trabajó beneméritamente para poner algún orden y decoro en esta [materia](/positions/materialism) de locomoción fue el Real Automóvil Club. Pero el calibre de lo que hoy fuera urgente acometer rebosa por completo los medios de cualquiera asociación particular y deportiva.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El inri lo pone en todo esto la complacencia con que suele hablar ahora el señorito de nuestras nuevas carreteras. Va muy bien con la contextura de su testa justificar el advenimiento nada menos que de una Dictadura, poniendo en su abono la mejora de algunos caminos. No será fácil hacerles notar la monstruosidad del razonamiento, aunque ella frisa en la deficiencia mental, de la que podría valer como síntoma clínico.
 

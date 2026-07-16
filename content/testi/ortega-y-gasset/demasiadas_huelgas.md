@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/demasiadas_huelgas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Demasiadas huelgas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Demasiadas huelgas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando, hace unas semanas, estudiábamos en sus más amplias líneas el movimiento proletario, incitábamos a los obreros para que reflexionasen sobre su táctica actual. La táctica rectilínea que hoy siguen —decíamos—, el ataque a lo Sauer que practican los conducirá a formidables derrotas. Nos importa mucho subrayar a tiempo esta advertencia.
 

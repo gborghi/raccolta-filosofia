@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_-_conversación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo - Conversación" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo - Conversación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Buena parte de la producción de José Ortega y Gasset, desparramada nerviosamente por revistas y periódicos, ha encontrado encaje y acomodo posterior en el recinto más sereno de algún libro. Hace unas semanas estos libros, como obedientes a una ley de gravitación interna, se han juntado en un único y gran volumen, recinto ya serenísimo y monumental. Pero de aquellos libros, como de este tomo compacto, habían quedado en destierro los ensayos aparecidos en la Revista de Occidente, como regalo especial e íntimo a los fieles de esta publicación. No eran muchos; no ha habido abuso de un director que sobrecarga con la propia producción la revista que regenta. Ortega ha sido, en este aspecto, un colaborador como otro cualquiera. Para decir la verdad entera, ha sido menos colaborador —con gran desesperación mía— que ninguno de los habituales. En cambio, creo que la producción más selecta de Ortega ha ido a las páginas de nuestra revista. Su exigencia de dar el más alto nivel a una revista intelectual española y europea ha comenzado por él mismo.
 
@@ -64,7 +64,7 @@ Pero Ortega esquiva la respuesta:
 
 Al fin, accede a mi ruego. Pero surge un terrible inconveniente. Al día siguiente me dice:
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 —¡Hombre! Me obliga usted a leer lo que he escrito. Como a usted le consta, eso no lo he hecho casi nunca. Y no es amaneramiento, sino que obedece a algo que ha de advertir todo el que se dé alguna cuenta de la trayectoria de mi obra: me importa ante todo el futuro, y en mis escritos he insultado siempre a la mujer de Lot, a la cual, entre paréntesis, tampoco le importaba el pasado, porque el pasado sólo importa desde y para el futuro. La memoria no es sino el culatazo que da la esperanza.
 
@@ -114,7 +114,7 @@ Pero esto, como se advierte en seguida, implica un fenómeno muy curioso. Cuando
 
 —¿Podría usted aclararme la teoría con ejemplos?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 —Ya sabe usted que considero nota esencial del mundo antiguo la insuficiente individuación del hombre griego y latino. Recuerde usted mi nota Sobre la sinceridad triunfante, uno de mis artículos perfectamente desatendidos, pero que yo estimo de algún interés. Siempre que el antiguo se ha acercado, en casos excepcionales, a lo que podríamos llamar la modernidad, se ha producido paralelamente un cambio en el sujeto que se supone hablar: el sujeto genérico, abstracto, se acercaba al individuo autor. Esto es notorio en el [caso](/concepts/fortune) de San Agustín, que representa evidentemente un brote inesperado de modernidad en las postrimerías del mundo antiguo. San Agustín va a anticipar el gran descubrimiento romántico que consiste en hacer coincidir el personaje que se supone hablar con el efectivo hombre que escribe. San Agustín habla desde su yo, y por eso fue un escándalo sin par en el mundo antiguo. No sólo escribe sus confesiones —género literario en el que el punto de «hablada» coincide exactamente con la criatura real que escribe—, sino que toda su obra es, en efecto, confesión, como la de Chateaubriand. Por eso suena a grito. El estilo de San Agustín es un grito pelado, aunque bastante retorcido.
 
@@ -148,7 +148,7 @@ Por otra parte, algo de coincidencia habrá entre esos diversos «hombres intere
 
 Creo que, en postrer resumen, así había yo premeditado plantear la cuestión. Ahora bien: ¿qué «valores» son los que parece preferir la mujer en el hombre? No nos fijemos en los matrimonios. El casamiento no tiene que ver con el amor si no es per accidens. El casamiento tiene otras raíces —sociales, económicas, etcétera. Y así debe ser. El casamiento es una institución civil y no se le debe estudiar ni juzgar ni evaluar mirándolo desde la intimidad de la persona —como debe hacerse con el amor—, sino desde la vida colectiva a la cual pertenece. Esto será todo lo paradójico que usted quiera —que el sentido del matrimonio, que es el «hogar» y el «interior» de la familia, etcétera, tenga poco que ver con la intimidad—, pero es la pura verdad. Hay que hablar del matrimonio como se habla del Parlamento, de los Tribunales de justicia o del sistema electoral…
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pero volvamos al asunto: ¿qué valores parece preferir la mujer en el hombre? Evidentemente, no prefiere que sepa matemáticas, ni que sea un buen abogado o un excelente físico. La mujer no se enamora de eso, ni de ninguno de los talentos que preferimos los hombres. También es falso que la mujer se enamore de la belleza masculina. Sobre esto hay mucho que hablar, y hablo largamente en el libro ese que usted me exige tantas veces y del que tiene usted, hace cinco o seis años, impresas ya 150 páginas de gran formato y letra menuda, titulado: Estudios sobre el amor[4]. Ahora se ha publicado en Alemania, pero yo no quisiera darlo aquí hasta que no pueda escribir las otras 150 páginas que le faltan.
 

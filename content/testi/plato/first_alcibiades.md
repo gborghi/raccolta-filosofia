@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/first_alcibiades" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="FIRST ALCIBIADES" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="FIRST ALCIBIADES" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -78,7 +78,7 @@ ALCIBIADES: I should not.
 
 SOCRATES: And would you have been willing to learn or to examine what you supposed that you knew?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 ALCIBIADES: Certainly not.
 
@@ -280,7 +280,7 @@ ALCIBIADES: But do you not think that I could discover them?
 
 SOCRATES: I am sure that you might, if you enquired about them.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 ALCIBIADES: And do you not think that I would enquire?
 
@@ -504,7 +504,7 @@ SOCRATES: Which of us, then, was the speaker?
 
 ALCIBIADES: The inference is, Socrates, that I was the speaker.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Did not some one say that Alcibiades, the fair son of Cleinias, not understanding about just and unjust, but thinking that he did understand, was going to the assembly to advise the Athenians about what he did not know? Was not that said?
 
@@ -710,7 +710,7 @@ SOCRATES: And is the good expedient or not?
 
 ALCIBIADES: Expedient.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Do you remember our admissions about the just?
 
@@ -896,7 +896,7 @@ SOCRATES: Is that a question which a magnanimous soul should ask?
 
 ALCIBIADES: Do you mean to say that the contest is not with these?
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And suppose that you were going to steer a ship into action, would you only aim at being the best pilot on board? Would you not, while acknowledging that you must possess this degree of excellence, rather look to your antagonists, and not, as you are now doing, to your fellow combatants? You ought to be so far above these latter, that they will not even dare to be your rivals; and, being regarded by you as inferiors, will do battle for you against the enemy; this is the kind of superiority which you must establish over them, if you mean to accomplish any noble action really worthy of yourself and of [the state](/concepts/state).
 
@@ -950,7 +950,7 @@ SOCRATES: Then let us compare our antecedents with those of the Lacedaemonian an
 
 ALCIBIADES: Why, so does mine go back to Eurysaces, and he to Zeus!
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And mine, noble Alcibiades, to Daedalus, and he to Hephaestus, son of Zeus. But, for all that, we are far inferior to them. For they are descended ‘from Zeus,’ through a line of kings — either kings of Argos and Lacedaemon, or kings of Persia, a country which the descendants of Achaemenes have always possessed, besides being at various times sovereigns of Asia, as they now are; whereas, we and our fathers were but private persons. How ridiculous would you be thought if you were to make a display of your ancestors and of Salamis the island of Eurysaces, or of Aegina, the habitation of the still more ancient Aeacus, before Artaxerxes, son of Xerxes. You should consider how inferior we are to them both in the derivation of our birth and in other particulars. Did you never observe how great is the property of the Spartan kings? And their wives are under the guardianship of the Ephori, who are public officers and watch over them, in order to preserve as far as possible the purity of the Heracleid blood. Still greater is the difference among the Persians; for no one entertains a suspicion that the father of a prince of Persia can be any one but the king. Such is the awe which invests the person of the queen, that any other guard is needless. And when the heir of the kingdom is born, all the subjects of the king feast; and the day of his birth is for ever afterwards kept as a holiday and time of sacrifice by all Asia; whereas, when you and I were born, Alcibiades, as the comic poet says, the neighbours hardly knew of the important event. After the birth of the royal child, he is tended, not by a good-for-nothing woman-nurse, but by the best of the royal eunuchs, who are charged with the care of him, and especially with the fashioning and right formation of his limbs, in order that he may be as shapely as possible; which being their calling, they are held in great honour. And when the young prince is seven years old he is put upon a horse and taken to the riding-masters, and begins to go out hunting. And at fourteen years of age he is handed over to the royal schoolmasters, as they are termed: these are four chosen men, reputed to be the best among the Persians of a certain age; and one of them is the wisest, another the justest, a third the most temperate, and a fourth the most valiant. The first instructs him in the magianism of Zoroaster, the son of Oromasus, which is the [worship](/concepts/religion) of the Gods, and teaches him also the duties of his royal office; the second, who is the justest, teaches him always to speak the truth; the third, or most temperate, forbids him to allow any pleasure to be lord over him, that he may be accustomed to be a freeman and king indeed, — lord of himself first, and not a slave; the most valiant trains him to be bold and fearless, telling him that if he fears he is to deem himself a slave; whereas Pericles gave you, Alcibiades, for a tutor Zopyrus the Thracian, a slave of his who was past all other work. I might enlarge on the nurture and [education](/concepts/education) of your rivals, but that would be tedious; and what I have said is a sufficient sample of what remains to be said. I have only to remark, by way of contrast, that no one cares about your birth or nurture or education, or, I may say, about that of any other Athenian, unless he has a lover who looks after him. And if you cast an eye on the wealth, the luxury, the garments with their flowing trains, the anointings with myrrh, the multitudes of attendants, and all the other bravery of the Persians, you will be ashamed when you discern your own inferiority; or if you look at the temperance and orderliness and ease and grace and magnanimity and courage and endurance and love of toil and desire of glory and ambition of the Lacedaemonians — in all these respects you will see that you are but a child in comparison of them. Even in the matter of wealth, if you value yourself upon that, I must reveal to you how you stand; for if you form an estimate of the wealth of the Lacedaemonians, you will see that our possessions fall far short of theirs. For no one here can compete with them either in the extent and fertility of their own and the Messenian territory, or in the number of their slaves, and especially of the Helots, or of their horses, or of the animals which feed on the Messenian pastures. But I have said enough of this: and as to gold and silver, there is more of them in Lacedaemon than in all the rest of Hellas, for during many generations gold has been always flowing in to them from the whole Hellenic world, and often from the barbarian also, and never going out, as in the fable of Aesop the fox said to the lion, ‘The prints of the feet of those going in are distinct enough;’ but who ever saw the trace of money going out of Lacedaemon? And therefore you may safely infer that the inhabitants are the richest of the Hellenes in gold and silver, and that their kings are the richest of them, for they have a larger share of these things, and they have also a tribute paid to them which is very considerable. Yet the Spartan wealth, though great in comparison of the wealth of the other Hellenes, is as nothing in comparison of that of the Persians and their kings. Why, I have been informed by a credible person who went up to the king (at Susa), that he passed through a large tract of excellent land, extending for nearly a day’s journey, which the people of the country called the queen’s girdle, and another, which they called her veil; and several other fair and fertile districts, which were reserved for the adornment of the queen, and are named after her several habiliments. Now, I cannot help thinking to myself, What if some one were to go to Amestris, the wife of Xerxes and mother of Artaxerxes, and say to her, There is a certain Dinomache, whose whole wardrobe is not worth fifty minae — and that will be more than the value — and she has a son who is possessed of a three-hundred acre patch at Erchiae, and he has a mind to go to war with your son — would she not wonder to what this Alcibiades trusts for success in the conflict? ‘He must rely,’ she would say to herself, ‘upon his training and wisdom — these are the things which Hellenes value.’ And if she heard that this Alcibiades who is making the attempt is not as yet twenty years old, and is wholly uneducated, and when his lover tells him that he ought to get education and training first, and then go and fight the king, he refuses, and says that he is well enough as he is, would she not be amazed, and ask ‘On what, then, does the youth rely?’ And if we replied: He relies on his [beauty](/concepts/beauty), and stature, and birth, and mental endowments, she would think that we were mad, Alcibiades, when she compared the advantages which you possess with those of her own people. And I believe that even Lampido, the daughter of Leotychides, the wife of Archidamus and mother of Agis, all of whom were kings, would have the same feeling; if, in your present uneducated state, you were to turn your thoughts against her son, she too would be equally astonished. But how disgraceful, that we should not have as high a notion of what is required in us as our enemies’ wives and mothers have of the qualities which are required in their assailants! O my friend, be persuaded by me, and hear the Delphian inscription, ‘Know thyself’ — not the men whom you think, but these kings are our rivals, and we can only overcome them by pains and skill. And if you fail in the required qualities, you will fail also in becoming renowned among Hellenes and Barbarians, which you seem to desire more than any other man ever desired anything.
 
@@ -958,7 +958,7 @@ ALCIBIADES: I entirely believe you; but what are the sort of pains which are req
 
 SOCRATES: Yes, I can; but we must take counsel together concerning the manner in which both of us may be most improved. For what I am telling you of the necessity of education applies to myself as well as to you; and there is only one point in which I have an advantage over you.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 ALCIBIADES: What is that?
 
@@ -1236,7 +1236,7 @@ ALCIBIADES: I suppose that there must be, Socrates.
 
 SOCRATES: Then what do you mean by this friendship or agreement about which we must be wise and discreet in order that we may be good men? I cannot make out where it exists or among whom; according to you, the same persons may sometimes have it, and sometimes not.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 ALCIBIADES: But, indeed, [Socrates](/figures/socrates), I do not know what I am saying; and I have long been, unconsciously to myself, in a most disgraceful state.
 
@@ -1504,7 +1504,7 @@ SOCRATES: And that is just what I was saying before — that I, Socrates, am not
 
 ALCIBIADES: True.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Then he who bids a man know himself, would have him know his soul?
 
@@ -1708,7 +1708,7 @@ ALCIBIADES: He cannot.
 
 SOCRATES: The bad, then, are miserable?
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 ALCIBIADES: Yes, very.
 

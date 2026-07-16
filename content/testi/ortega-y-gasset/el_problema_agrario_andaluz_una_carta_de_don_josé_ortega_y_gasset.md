@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_problema_agrario_andaluz_una_carta_de_don_josé_ortega_y_gasset" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El problema agrario andaluz.— Una carta de don José Ortega y Gasset" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El problema agrario andaluz.— Una carta de don José Ortega y Gasset" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señor director de El Sol.
 
@@ -48,7 +48,7 @@ Otra inocencia fuera creer que es éste un problema de «salarios y pan». Ya he
 
 Cierto que el problema agrario andaluz pudiera [a priori](/positions/transcendental_criticism) interpretarse como una cuestión de jornal y sustento. Pero usar de apriorismo en estas materias es majadería. Míster Young, antes de ofrecer ridículas panaceas al malestar de veinte millones de hombres, pertenecientes a una raza antigua, complicada y respetable, debía haber hecho algo más que digerir en sobremesas conservadoras. Pero dejemos estas robinsonadas. El hecho es que ni siquiera el problema agrario andaluz puede reducirse a política de pan y salarios. En pocos años, el obrero rural ha triplicado su haber, y en doce o poco más se ha decuplicado la producción comarcana. Me atrevo, por lo tanto, a sugerir que el problema agrario andaluz no es esencialmente económico, sino jurídico. Acaso dentro de pocos meses se alcen en la bética campiña cien mil hombres blandiendo con guerrero frenesí los pacíficos bieldos. Pues bien, esos hombres hostiles no pedirán pan, pedirán ¡tierra!
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El Sol intenta tiempo hace despertar la sensibilidad de las clases gobernantes para los terribles, pavorosos conflictos que desde hace dos años van madurando en la sociedad española. Los medios empleados a fin de conseguirlo no son, por lo visto, eficaces. En Madrid seguimos hoy, como ayer, sin enterarnos de nada. Remotas resonancias nos llegan apenas de lo que en las provincias es ya ruido y aun estruendo. Así, del problema andaluz se habla todavía en los centros políticos e intelectuales de Madrid con la vaguedad legendaria que tiempo atrás se usaba al hablar de la gran serpiente marina.
 

@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aristotle/the_situations_and_names_of_winds_973a" data-philosopher="Aristotle"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="The Situations and Names of Winds (973a)" data-chapter="INTRODUCTION" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="The Situations and Names of Winds (973a)" data-chapter="INTRODUCTION" data-kind="intro" data-srclang="en"></span>
 
 THE heading of this short summary of the winds in the manuscript shows it to be an extract from a work called De Signis, not by [Aristotle](/figures/aristotle) but by some member of the [Peripatetic School](/schools/lyceum). Bekker’s text has been used for the translation, but it has been extensively corrected by that of Apelt, whose edition of 1888 shows a marked advance on the previous German text.
 
-<span class="atom-split" data-atom="002" data-title="THE SITUATIONS AND NAMES OF WINDS" data-chapter="THE SITUATIONS AND NAMES OF WINDS" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="THE SITUATIONS AND NAMES OF WINDS" data-chapter="THE SITUATIONS AND NAMES OF WINDS" data-kind="atom" data-srclang="en"></span>
 
 From [Aristotle](/figures/aristotle)’s Treatise of Meteorological Signs
 

@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_grace" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Grace" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Grace" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON GRACE (QQ[109]-114)
 
-<span class="atom-split" data-atom="002" data-title="OF THE NECESSITY OF GRACE (TEN ARTICLES)" data-chapter="OF THE NECESSITY OF GRACE (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF THE NECESSITY OF GRACE (TEN ARTICLES)" data-chapter="OF THE NECESSITY OF GRACE (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the exterior principle of human acts, i.e. God, in so far as, through grace,
 we are helped by Him to do right: and, first, we must consider the grace of God; secondly, its cause;
@@ -44,7 +44,7 @@ Under the first head there are ten points of inquiry:
 help?
 (10) Whether he can of himself persevere in good?
 
-<span class="atom-split" data-atom="003" data-title="Whether without grace man can know any truth?" data-chapter="Whether without grace man can know any truth?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether without grace man can know any truth?" data-chapter="Whether without grace man can know any truth?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that without grace man can know no truth. For, on 1 Cor. 12:3:
 "No man can say, the Lord Jesus, but by the Holy Ghost," a gloss says: "Every truth, by whomsoever
@@ -113,7 +113,7 @@ Reply to Objection 3: We always need God's help for every thought, inasmuch as H
 the understanding to act; for actually to understand anything is to think, as is clear from Augustine
 (De Trin. xiv, 7).
 
-<span class="atom-split" data-atom="004" data-title="Whether man can wish or do any good without grace?" data-chapter="Whether man can wish or do any good without grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether man can wish or do any good without grace?" data-chapter="Whether man can wish or do any good without grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man can wish and do good without grace. For that is in man's
 power, whereof he is master. Now man is master of his acts, and especially of his willing, as stated
@@ -172,7 +172,7 @@ Reply to Objection 3: Man cannot even know truth without Divine help, as stated 
 And yet human nature is more corrupt by sin in regard to the desire for good, than in regard to the
 knowledge of truth.
 
-<span class="atom-split" data-atom="005" data-title="Whether by his own natural powers and without grace man can love God above all things?" data-chapter="Whether by his own natural powers and without grace man can love God above all things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether by his own natural powers and without grace man can love God above all things?" data-chapter="Whether by his own natural powers and without grace man can love God above all things?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that without grace man cannot love God above all things by his
 own natural powers. For to love God above all things is the proper and principal act of charity.
@@ -231,7 +231,7 @@ Reply to Objection 3: Love is said to be best, both with respect to degree of lo
 regard to the motive of loving, and the mode of love. And thus the highest degree of love is that
 whereby charity loves God as the giver of beatitude, as was said above.
 
-<span class="atom-split" data-atom="006" data-title="Whether man without grace and by his own natural powers can fulfil the commandments of the Law?" data-chapter="Whether man without grace and by his own natural powers can fulfil the commandments of the Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether man without grace and by his own natural powers can fulfil the commandments of the Law?" data-chapter="Whether man without grace and by his own natural powers can fulfil the commandments of the Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man without grace, and by his own natural powers, can fulfil
 the commandments of the Law. For the Apostle says (Rom. 2:14) that "the Gentiles who have not
@@ -278,7 +278,7 @@ way free that we must confess we still require God's help."
 Reply to Objection 3: Man cannot, with his purely natural endowments, fulfil the precept of
 the love of God, as stated above (A[3]).
 
-<span class="atom-split" data-atom="007" data-title="Whether man can merit everlasting life without grace?" data-chapter="Whether man can merit everlasting life without grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether man can merit everlasting life without grace?" data-chapter="Whether man can merit everlasting life without grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man can merit everlasting life without grace. For Our Lord
 says (Mat. 19:17): "If thou wilt enter into life, keep the commandments"; from which it would seem
@@ -324,7 +324,7 @@ since it is nobler, can be raised by the help of grace to a higher end, which lo
 reach; even as a man who can recover his health by the help of medicines is better disposed to
 health than one who can nowise recover it, as the Philosopher observes (De Coelo ii, 12).
 
-<span class="atom-split" data-atom="008" data-title="Whether a man, by himself and without the external aid of grace, can prepare himself for grace?" data-chapter="Whether a man, by himself and without the external aid of grace, can prepare himself for grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether a man, by himself and without the external aid of grace, can prepare himself for grace?" data-chapter="Whether a man, by himself and without the external aid of grace, can prepare himself for grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man, by himself and without the external help of grace, can
 prepare himself for grace. For nothing impossible is laid upon man, as stated above (A[4], ad 1).
@@ -391,7 +391,7 @@ Reply to Objection 4: It is the part of man to prepare his soul, since he does t
 And yet he does not do this without the help of God moving him, and drawing him to Himself, as
 was said above.
 
-<span class="atom-split" data-atom="009" data-title="Whether man can rise from sin without the help of grace?" data-chapter="Whether man can rise from sin without the help of grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether man can rise from sin without the help of grace?" data-chapter="Whether man can rise from sin without the help of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man can rise from sin without the help of grace. For what is
 presupposed to grace, takes place without grace. But to rise to sin is presupposed to the [enlightenment](/schools/enlightenment)
@@ -451,7 +451,7 @@ And thus [human nature](/axes/human_nature) undone by reason of the act of sin, 
 as stated above (Q[85]); nor can it be restored, by itself, to its connatural good, much less to the
 supernatural good of justice.
 
-<span class="atom-split" data-atom="010" data-title="Whether man without grace can avoid sin?" data-chapter="Whether man without grace can avoid sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether man without grace can avoid sin?" data-chapter="Whether man without grace can avoid sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that without grace man can avoid sin. Because "no one sins in what
 he cannot avoid," as [Augustine](/figures/augustine) says (De Duab. Anim. x, xi; De Libero Arbit. iii, 18). Hence if a
@@ -520,7 +520,7 @@ St. Augustine]), this saying is to be understood of man in the state of perfect 
 he was not a slave of sin. Hence he was able to sin and not to sin. Now, too, whatever a man wills,
 is given to him; but his willing good, he has by God's assistance.
 
-<span class="atom-split" data-atom="011" data-title="Whether one who has already obtained grace, can, of himself and without further help of grace, do good and avoid sin?" data-chapter="Whether one who has already obtained grace, can, of himself and without further help of grace, do good and avoid sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether one who has already obtained grace, can, of himself and without further help of grace, do good and avoid sin?" data-chapter="Whether one who has already obtained grace, can, of himself and without further help of grace, do good and avoid sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that whoever has already obtained grace, can by himself and without
 further help of grace, do good and avoid sin. For a thing is useless or imperfect, if it does not fulfil
@@ -577,7 +577,7 @@ together with the Father and the Son, moves and protects us.
 
 Reply to Objection 3: This argument merely proves that man needs no further habitual grace.
 
-<span class="atom-split" data-atom="012" data-title="Whether man possessed of grace needs the help of grace in order to persevere?" data-chapter="Whether man possessed of grace needs the help of grace in order to persevere?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether man possessed of grace needs the help of grace in order to persevere?" data-chapter="Whether man possessed of grace needs the help of grace in order to persevere?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man possessed of grace needs no help to persevere. For
 perseverance is something less than virtue, even as continence is, as is clear from the Philosopher
@@ -623,7 +623,7 @@ which the flesh was not rebellious against the spirit, than it is now. For the r
 grace, although it is already begun in the mind, is not yet completed in the flesh, as it will be in
 heaven, where man will not merely be able to persevere but will be unable to sin.
 
-<span class="atom-split" data-atom="013" data-title="OF THE GRACE OF GOD AS REGARDS ITS ESSENCE (FOUR ARTICLES)" data-chapter="OF THE GRACE OF GOD AS REGARDS ITS ESSENCE (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="OF THE GRACE OF GOD AS REGARDS ITS ESSENCE (FOUR ARTICLES)" data-chapter="OF THE GRACE OF GOD AS REGARDS ITS ESSENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the grace of God as regards its essence; and under this head there are
 four points of inquiry:
@@ -632,7 +632,7 @@ four points of inquiry:
 (3) Whether grace differs from infused virtue?
 (4) Of the subject of grace.
 
-<span class="atom-split" data-atom="014" data-title="Whether grace implies anything in the soul?" data-chapter="Whether grace implies anything in the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether grace implies anything in the soul?" data-chapter="Whether grace implies anything in the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace does not imply anything in the soul. For man is said to
 have the grace of God even as the grace of man. Hence it is written (Gn. 39:21) that the Lord gave
@@ -699,7 +699,7 @@ the remission of sins." Not only grace, therefore, but many other of God's gifts
 And hence the remission of sins does not take place without some effect divinely caused in us, as
 will appear later (Q[113], A[2]).
 
-<span class="atom-split" data-atom="015" data-title="Whether grace is a quality of the soul?" data-chapter="Whether grace is a quality of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether grace is a quality of the soul?" data-chapter="Whether grace is a quality of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is not a quality of the soul. For no quality acts on its
 subject, since the action of a quality is not without the action of its subject, and thus the subject
@@ -757,7 +757,7 @@ begins or ceases to be in act with this accident. And thus grace is said to be c
 men are created with reference to it, i.e. are given a new being out of nothing, i.e. not from merits,
 according to Eph. 2:10, "created in Jesus Christ in good works."
 
-<span class="atom-split" data-atom="016" data-title="Whether grace is the same as virtue?" data-chapter="Whether grace is the same as virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether grace is the same as virtue?" data-chapter="Whether grace is the same as virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is the same as virtue. For [Augustine](/figures/augustine) says (De Spir. et
 Lit. xiv) that "operating grace is faith that worketh by charity." But faith that worketh by charity
@@ -815,7 +815,7 @@ Reply to Objection 3: Grace is reduced to the first species of quality; and yet 
 as virtue, but is a certain disposition which is presupposed to the infused virtues, as their principle
 and root.
 
-<span class="atom-split" data-atom="017" data-title="Whether grace is in the essence of the soul as in a subject, or in one of the powers?" data-chapter="Whether grace is in the essence of the soul as in a subject, or in one of the powers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether grace is in the essence of the soul as in a subject, or in one of the powers?" data-chapter="Whether grace is in the essence of the soul as in a subject, or in one of the powers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is not in the essence of the soul, as in a subject, but in
 one of the powers. For [Augustine](/figures/augustine) says (Hypognosticon iii [*Among the spurious works of St.
@@ -870,7 +870,7 @@ species, the soul cannot be without them. Yet, granted that it was without them,
 be called intellectual or rational in its species, not that it would actually have these powers, but on
 account of the essence of such a species, from which these powers naturally flow.
 
-<span class="atom-split" data-atom="018" data-title="OF THE DIVISION OF GRACE (FIVE ARTICLES)" data-chapter="OF THE DIVISION OF GRACE (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="OF THE DIVISION OF GRACE (FIVE ARTICLES)" data-chapter="OF THE DIVISION OF GRACE (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the division of grace; under which head there are five points of inquiry:
 (1) Whether grace is fittingly divided into gratuitous grace and sanctifying grace?
@@ -879,7 +879,7 @@ We must now consider the division of grace; under which head there are five poin
 (4) Of the division of gratuitous grace;
 (5) Of the comparison between sanctifying and gratuitous grace.
 
-<span class="atom-split" data-atom="019" data-title="Whether grace is fittingly divided into sanctifying grace and gratuitous grace?" data-chapter="Whether grace is fittingly divided into sanctifying grace and gratuitous grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether grace is fittingly divided into sanctifying grace and gratuitous grace?" data-chapter="Whether grace is fittingly divided into sanctifying grace and gratuitous grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is not fittingly divided into sanctifying grace and
 gratuitous grace. For grace is a gift of God, as is clear from what has been already stated (Q[110],
@@ -934,7 +934,7 @@ pertaining to the nature of grace, since it makes man pleasing to God. And hence
 which does not do this keeps the common name, as happens in many other cases; and thus the two
 parts of the division are opposed as sanctifying and non-sanctifying grace.
 
-<span class="atom-split" data-atom="020" data-title="Whether grace is fittingly divided into operating and cooperating grace?" data-chapter="Whether grace is fittingly divided into operating and cooperating grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether grace is fittingly divided into operating and cooperating grace?" data-chapter="Whether grace is fittingly divided into operating and cooperating grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is not fittingly divided into operating and cooperating
 grace. For grace is an accident, as stated above (Q[110], A[2]). Now no accident can act upon its
@@ -1000,7 +1000,7 @@ intended, grace cooperates with us.
 Reply to Objection 4: Operating and cooperating grace are the same grace; but are distinguished
 by their different effects, as is plain from what has been said.
 
-<span class="atom-split" data-atom="021" data-title="Whether grace is fittingly divided into prevenient and subsequent grace?" data-chapter="Whether grace is fittingly divided into prevenient and subsequent grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether grace is fittingly divided into prevenient and subsequent grace?" data-chapter="Whether grace is fittingly divided into prevenient and subsequent grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is not fittingly divided into prevenient and subsequent.
 For grace is an effect of the Divine love. But God's love is never subsequent, but always prevenient,
@@ -1046,7 +1046,7 @@ Reply to Objection 3: Although the effects of grace may be infinite in number, e
 acts are infinite, nevertheless all reduced to some of a determinate species, and moreover all coincide
 in this---that one precedes another.
 
-<span class="atom-split" data-atom="022" data-title="Whether gratuitous grace is rightly divided by the Apostle?" data-chapter="Whether gratuitous grace is rightly divided by the Apostle?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether gratuitous grace is rightly divided by the Apostle?" data-chapter="Whether gratuitous grace is rightly divided by the Apostle?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that gratuitous grace is not rightly divided by the Apostle. For
 every gift vouchsafed to us by God, may be called a gratuitous grace. Now there are an infinite
@@ -1130,7 +1130,7 @@ that are placed in the gratuitous graces, since, as [Augustine](/figures/augusti
 merely to know what a man must believe in order to reach everlasting life, and another thing to
 know how this may benefit the godly and may be defended against the ungodly."
 
-<span class="atom-split" data-atom="023" data-title="Whether gratuitous grace is nobler than sanctifying grace?" data-chapter="Whether gratuitous grace is nobler than sanctifying grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether gratuitous grace is nobler than sanctifying grace?" data-chapter="Whether gratuitous grace is nobler than sanctifying grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that gratuitous grace is nobler than sanctifying grace. For "the
 people's good is better than the individual good," as the Philosopher says (Ethic. i, 2). Now
@@ -1179,7 +1179,7 @@ Reply to Objection 3: Feeling is ordained to reason, as to an end; and thus, to 
 But here it is the contrary; for what is proper is ordained to what is common as to an end. Hence
 there is no comparison.
 
-<span class="atom-split" data-atom="024" data-title="OF THE CAUSE OF GRACE (FIVE ARTICLES)" data-chapter="OF THE CAUSE OF GRACE (FIVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="OF THE CAUSE OF GRACE (FIVE ARTICLES)" data-chapter="OF THE CAUSE OF GRACE (FIVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the cause of grace; and under this head there are five points of inquiry:
 (1) Whether God alone is the [efficient cause](/concepts/four_causes) of grace?
@@ -1189,7 +1189,7 @@ free-will?
 (4) Whether grace is equal in all?
 (5) Whether anyone may know that he has grace?
 
-<span class="atom-split" data-atom="025" data-title="Whether God alone is the cause of grace?" data-chapter="Whether God alone is the cause of grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether God alone is the cause of grace?" data-chapter="Whether God alone is the cause of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God alone is not the cause of grace. For it is written (Jn. 1:17):
 "Grace and truth came by Jesus Christ." Now, by the name of Jesus Christ is understood not merely
@@ -1230,7 +1230,7 @@ Reply to Objection 3: Angels cleanse, enlighten, and perfect angels or men, by i
 and not by justifying them through grace. Hence Dionysius says (Coel. Hier. vii) that "this cleansing
 and [enlightenment](/schools/enlightenment) and perfecting is nothing else than the assumption of Divine knowledge."
 
-<span class="atom-split" data-atom="026" data-title="Whether any preparation and disposition for grace is required on man's part?" data-chapter="Whether any preparation and disposition for grace is required on man's part?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether any preparation and disposition for grace is required on man's part?" data-chapter="Whether any preparation and disposition for grace is required on man's part?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no preparation or disposition for grace is required on man's
 part, since, as the Apostle says (Rom. 4:4), "To him that worketh, the reward is not reckoned
@@ -1284,7 +1284,7 @@ it must cause, in the thing caused, both the matter and the due disposition for 
 when God infuses grace into a soul, no preparation is required which He Himself does not bring
 about.
 
-<span class="atom-split" data-atom="027" data-title="Whether grace is necessarily given to whoever prepares himself for it, or to whoever does what he can?" data-chapter="Whether grace is necessarily given to whoever prepares himself for it, or to whoever does what he can?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether grace is necessarily given to whoever prepares himself for it, or to whoever does what he can?" data-chapter="Whether grace is necessarily given to whoever prepares himself for it, or to whoever does what he can?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is necessarily given to whoever prepares himself for
 grace, or to whoever does what he can, because, on Rom. 5:1, "Being justified . . . by faith, let us
@@ -1331,7 +1331,7 @@ help is only in Me."
 Reply to Objection 3: Even in natural things, the form does not necessarily ensue the disposition
 of the matter, except by the power of the agent that causes the disposition.
 
-<span class="atom-split" data-atom="028" data-title="Whether grace is greater in one than in another?" data-chapter="Whether grace is greater in one than in another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether grace is greater in one than in another?" data-chapter="Whether grace is greater in one than in another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is not greater in one than in another. For grace is caused
 in us by the Divine love, as stated above (Q[110], A[1]). Now it is written (Wis. 6:8): "He made
@@ -1379,7 +1379,7 @@ remissness, both in grace and in final glory as regards the subjects' participat
 Reply to Objection 3: Natural life pertains to man's substance, and hence cannot be more or
 less; but man partakes of the life of grace accidentally, and hence man may possess it more or less.
 
-<span class="atom-split" data-atom="029" data-title="Whether man can know that he has grace?" data-chapter="Whether man can know that he has grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether man can know that he has grace?" data-chapter="Whether man can know that he has grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man can know that he has grace. For grace by its physical
 reality is in the soul. Now the soul has most certain knowledge of those things that are in it by their
@@ -1459,7 +1459,7 @@ Reply to Objection 5: What was said to Abraham may refer to experimental knowled
 springs from deeds of which we are cognizant. For in the deed that Abraham had just wrought, he
 could know experimentally that he had the fear of God. Or it may refer to a revelation.
 
-<span class="atom-split" data-atom="030" data-title="OF THE EFFECTS OF GRACE (TEN ARTICLES)" data-chapter="OF THE EFFECTS OF GRACE (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="OF THE EFFECTS OF GRACE (TEN ARTICLES)" data-chapter="OF THE EFFECTS OF GRACE (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the effect of grace; (1) the justification of the ungodly, which is the
 effect of operating grace; and (2) merit, which is the effect of cooperating grace. Under the first
@@ -1475,7 +1475,7 @@ head there are ten points of inquiry:
 (9) Whether the justification of the ungodly is God's greatest work?
 (10) Whether the justification of the ungodly is miraculous?
 
-<span class="atom-split" data-atom="031" data-title="Whether the justification of the ungodly is the remission of sins?" data-chapter="Whether the justification of the ungodly is the remission of sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the justification of the ungodly is the remission of sins?" data-chapter="Whether the justification of the ungodly is the remission of sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the justification of the ungodly is not the remission of sins.
 For sin is opposed not only to justice, but to all the other virtues, as stated above (Q[71], A[1]).
@@ -1529,7 +1529,7 @@ is named after justice rather than after charity or faith.
 Reply to Objection 3: Being called refers to God's help moving and exciting our mind to give
 up sin, and this motion of God is not the remission of sins, but its cause.
 
-<span class="atom-split" data-atom="032" data-title="Whether the infusion of grace is required for the remission of guilt, i.e. for the justification of the ungodly?" data-chapter="Whether the infusion of grace is required for the remission of guilt, i.e. for the justification of the ungodly?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether the infusion of grace is required for the remission of guilt, i.e. for the justification of the ungodly?" data-chapter="Whether the infusion of grace is required for the remission of guilt, i.e. for the justification of the ungodly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that for the remission of guilt, which is the justification of the
 ungodly, no infusion of grace is required. For anyone may be moved from one contrary without
@@ -1581,7 +1581,7 @@ ceases to have the act of the former sin, but he does not cease to have the guil
 the guilt of both sins at once. For sins are not contrary to each other on the part of their turning
 from God, wherein sin has its guilt.
 
-<span class="atom-split" data-atom="033" data-title="Whether for the justification of the ungodly is required a movement of the free-will?" data-chapter="Whether for the justification of the ungodly is required a movement of the free-will?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether for the justification of the ungodly is required a movement of the free-will?" data-chapter="Whether for the justification of the ungodly is required a movement of the free-will?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no movement of the free-will is required for the justification
 of the ungodly. For we see that by the [sacrament](/concepts/sacrament) of Baptism, infants and sometimes adults are
@@ -1647,7 +1647,7 @@ human soul, and hence a proper movement of the human soul is required in order t
 be moved in its own manner. But the conservation of grace is without transmutation: no movement
 on the part of the soul is required but only a continuation of the Divine influx.
 
-<span class="atom-split" data-atom="034" data-title="Whether a movement of faith is required for the justification of the ungodly?" data-chapter="Whether a movement of faith is required for the justification of the ungodly?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether a movement of faith is required for the justification of the ungodly?" data-chapter="Whether a movement of faith is required for the justification of the ungodly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no movement of faith is required for the justification of the
 ungodly. For as a man is justified by faith, so also by other things, viz. by fear, of which it is written
@@ -1697,7 +1697,7 @@ justifieth the ungodly his faith is reputed to justice, according to the purpose
 Hence it is clear that in the justification of the ungodly an act of faith is required in order that a
 man may believe that God justifies man through the mystery of Christ.
 
-<span class="atom-split" data-atom="035" data-title="Whether for the justification of the ungodly there is required a movement of the free-will towards sin?" data-chapter="Whether for the justification of the ungodly there is required a movement of the free-will towards sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether for the justification of the ungodly there is required a movement of the free-will towards sin?" data-chapter="Whether for the justification of the ungodly there is required a movement of the free-will towards sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no movement of the free-will towards sin is required for the
 justification of the ungodly. For charity alone suffices to take away sin, according to Prov. 10:12:
@@ -1747,7 +1747,7 @@ detestation with regard to all sins committed, in which are included such sins a
 For a man is then in such a frame of mind that he would be sorry even for those he does not
 remember, if they were present to his memory; and this movement cooperates in his justification.
 
-<span class="atom-split" data-atom="036" data-title="Whether the remission of sins ought to be reckoned amongst the things required for justification?" data-chapter="Whether the remission of sins ought to be reckoned amongst the things required for justification?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether the remission of sins ought to be reckoned amongst the things required for justification?" data-chapter="Whether the remission of sins ought to be reckoned amongst the things required for justification?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the remission of sins ought not to be reckoned amongst the
 things required for justification. For the substance of a thing is not reckoned together with those
@@ -1800,7 +1800,7 @@ the things enumerated must be simultaneous; but it is division of the things req
 completion of anything; and in this enumeration we may have what precedes and what follows,
 since some of the principles and parts of a composite thing may precede and some follow.
 
-<span class="atom-split" data-atom="037" data-title="Whether the justification of the ungodly takes place in an instant or successively?" data-chapter="Whether the justification of the ungodly takes place in an instant or successively?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether the justification of the ungodly takes place in an instant or successively?" data-chapter="Whether the justification of the ungodly takes place in an instant or successively?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the justification of the ungodly does not take place in an instant,
 but successively, since, as already stated (A[3]), for the justification of the ungodly, there is required
@@ -1903,7 +1903,7 @@ therefore, decide from this about its change as regards the condition of tempora
 we must say that there is no last instant that sin inheres, but a last time; whereas there is a first
 instant that grace inheres; and in all the time previous sin inhered.
 
-<span class="atom-split" data-atom="038" data-title="Whether the infusion of grace is naturally the first of the things required for the justification of the ungodly?" data-chapter="Whether the infusion of grace is naturally the first of the things required for the justification of the ungodly?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether the infusion of grace is naturally the first of the things required for the justification of the ungodly?" data-chapter="Whether the infusion of grace is naturally the first of the things required for the justification of the ungodly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the infusion of grace is not what is naturally required first for
 the justification of the ungodly. For we withdraw from evil before drawing near to good, according
@@ -1966,7 +1966,7 @@ movements the removal of the impediment precedes the attainment of the end. And 
 movement is a movement of the soul, in the order of nature it moves towards God as to its end,
 before removing the impediment of sin.
 
-<span class="atom-split" data-atom="039" data-title="Whether the justification of the ungodly is God's greatest work?" data-chapter="Whether the justification of the ungodly is God's greatest work?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the justification of the ungodly is God's greatest work?" data-chapter="Whether the justification of the ungodly is God's greatest work?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the justification of the ungodly is not God's greatest work. For
 it is by the justification of the ungodly that we attain the grace of a wayfarer. Now by glorification
@@ -2015,7 +2015,7 @@ in the whole universe.
 Reply to Objection 3: This objection rests on the manner of acting, in which way creation is
 God's greatest work.
 
-<span class="atom-split" data-atom="040" data-title="Whether the justification of the ungodly is a miraculous work?" data-chapter="Whether the justification of the ungodly is a miraculous work?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether the justification of the ungodly is a miraculous work?" data-chapter="Whether the justification of the ungodly is a miraculous work?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the justification of the ungodly is a miraculous work. For
 miraculous works are greater than non-miraculous. Now the justification of the ungodly is greater
@@ -2074,7 +2074,7 @@ talent and study. Hence it is miraculous when a man is made wise or learned outs
 a man does not naturally acquire justifying grace by his own action, but by God's. Hence there is
 no parity.
 
-<span class="atom-split" data-atom="041" data-title="OF MERIT (TEN ARTICLES)" data-chapter="OF MERIT (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="OF MERIT (TEN ARTICLES)" data-chapter="OF MERIT (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider merit, which is the effect of cooperating grace; and under this head there
 are ten points of inquiry:
@@ -2090,7 +2090,7 @@ merit?
 (9) Whether he can merit final perseverance?
 (10) Whether temporal goods fall under merit?
 
-<span class="atom-split" data-atom="042" data-title="Whether a man may merit anything from God?" data-chapter="Whether a man may merit anything from God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether a man may merit anything from God?" data-chapter="Whether a man may merit anything from God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man can merit nothing from God. For no one, it would seem,
 merits by giving another his due. But by all the good we do, we cannot make sufficient return to
@@ -2144,7 +2144,7 @@ Reply to Objection 3: Since our action has the character of merit, only on the p
 of the Divine ordination, it does not follow that God is made our debtor simply, but His own,
 inasmuch as it is right that His will should be carried out.
 
-<span class="atom-split" data-atom="043" data-title="Whether anyone without grace can merit eternal life?" data-chapter="Whether anyone without grace can merit eternal life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether anyone without grace can merit eternal life?" data-chapter="Whether anyone without grace can merit eternal life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that without grace anyone can merit eternal life. For man merits
 from God what he is divinely ordained to, as stated above (A[1]). Now man by his nature is ordained
@@ -2197,7 +2197,7 @@ But as regards the second proof taken from the impediment of sin, the case is si
 and God, since one man cannot merit from another whom he has offended, unless he makes
 satisfaction to him and is reconciled.
 
-<span class="atom-split" data-atom="044" data-title="Whether a man in grace can merit eternal life condignly?" data-chapter="Whether a man in grace can merit eternal life condignly?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether a man in grace can merit eternal life condignly?" data-chapter="Whether a man in grace can merit eternal life condignly?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man in grace cannot merit eternal life condignly, for the
 Apostle says (Rom. 8:18): "The sufferings of this time are not worthy [condignae] to be compared
@@ -2246,7 +2246,7 @@ to glory in act, is equal to it virtually as the seed of a tree, wherein the who
 likewise by grace of the Holy Ghost dwells in man; and He is a sufficient cause of life everlasting;
 hence, 2 Cor. 1:22, He is called the "pledge" of our inheritance.
 
-<span class="atom-split" data-atom="045" data-title="Whether grace is the principle of merit through charity rather than the other virtues?" data-chapter="Whether grace is the principle of merit through charity rather than the other virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether grace is the principle of merit through charity rather than the other virtues?" data-chapter="Whether grace is the principle of merit through charity rather than the other virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that grace is not the principle of merit through charity rather than
 the other virtues. For wages are due to work, according to Mat. 20:8: "Call the laborers and pay
@@ -2296,7 +2296,7 @@ Reply to Objection 3: The act of faith is not meritorious unless "faith . . . wo
 out of charity, according to 1 Cor. 13:3: "If I should deliver my body to be burned, and have not
 charity, it profiteth me nothing."
 
-<span class="atom-split" data-atom="046" data-title="Whether a man may merit for himself the first grace?" data-chapter="Whether a man may merit for himself the first grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether a man may merit for himself the first grace?" data-chapter="Whether a man may merit for himself the first grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man may merit for himself the first grace, because, as
 [Augustine](/figures/augustine) says (Ep. clxxxvi), "faith merits justification." Now a man is justified by the first grace.
@@ -2343,7 +2343,7 @@ Reply to Objection 3: Man's every good work proceeds from the first grace as fro
 but not from any gift of man. Consequently, there is no comparison between gifts of grace and gifts
 of men.
 
-<span class="atom-split" data-atom="047" data-title="Whether a man can merit the first grace for another?" data-chapter="Whether a man can merit the first grace for another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether a man can merit the first grace for another?" data-chapter="Whether a man can merit the first grace for another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man can merit the first grace for another. Because on Mat.
 9:2: "Jesus seeing their faith," etc. a gloss says: "How much is our personal faith worth with God,
@@ -2393,7 +2393,7 @@ dwellings, either by impetrating their forgiveness in prayer, or by meriting con
 good works, or materially speaking, inasmuch as by these good works of mercy, exercised towards
 the poor, we merit to be received into everlasting dwellings.
 
-<span class="atom-split" data-atom="048" data-title="Whether a man may merit restoration after a fall?" data-chapter="Whether a man may merit restoration after a fall?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether a man may merit restoration after a fall?" data-chapter="Whether a man may merit restoration after a fall?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that anyone may merit for himself restoration after a fall. For what
 a man may justly ask of God, he may justly merit. Now nothing may more justly be besought of
@@ -2440,7 +2440,7 @@ eternal life absolutely; but by subsequent sin, there arises an impediment to th
 so that it does not obtain its effect; just as natural causes fail of their effects on account of a
 supervening impediment.
 
-<span class="atom-split" data-atom="049" data-title="Whether a man may merit the increase of grace or charity?" data-chapter="Whether a man may merit the increase of grace or charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether a man may merit the increase of grace or charity?" data-chapter="Whether a man may merit the increase of grace or charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a man cannot merit an increase of grace or charity. For when
 anyone receives the reward he merited no other reward is due to him; thus it was said of some (Mat.
@@ -2486,7 +2486,7 @@ with the consummation of grace which is eternal life. But just as eternal life i
 but in its own time, so neither is grace increased at once, but in its own time, viz. when a man is
 sufficiently disposed for the increase of grace.
 
-<span class="atom-split" data-atom="050" data-title="Whether a man may merit perseverance?" data-chapter="Whether a man may merit perseverance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether a man may merit perseverance?" data-chapter="Whether a man may merit perseverance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that anyone may merit perseverance. For what a man obtains by
 asking, can come under the merit of anyone that is in grace. Now men obtain perseverance by
@@ -2530,7 +2530,7 @@ movement; not so, the perseverance of the wayfarer, for the reason given in the 
 In the same way may we answer the third objection which concerns the increase of grace, as
 was explained above.
 
-<span class="atom-split" data-atom="051" data-title="Whether temporal goods fall under merit?" data-chapter="Whether temporal goods fall under merit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether temporal goods fall under merit?" data-chapter="Whether temporal goods fall under merit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that temporal goods fall under merit. For what is promised to some
 as a reward of justice, falls under merit. Now, temporal goods were promised in the [Old Law](/concepts/divine_law) as
@@ -2549,7 +2549,7 @@ me." Therefore temporal goods fall under merit.
 Objection 3: Further, as good is to merit so is evil to demerit. But on account of the demerit
 of sin some are punished by God with temporal punishments, as appears from the Sodomites, Gn.
 
-<span class="atom-split" data-atom="052" data-title="19. Hence temporal goods fall under merit." data-chapter="19. Hence temporal goods fall under merit." data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="19. Hence temporal goods fall under merit." data-chapter="19. Hence temporal goods fall under merit." data-kind="atom" data-srclang="en"></span>
 
 Objection 4:
 

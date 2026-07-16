@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/decadencia_y_perfección" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Decadencia y perfección" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Decadencia y perfección" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Las condiciones que hasta ahora he mencionado determinan sólo la línea en que comienza la novela y fijan, por decirlo así, el nivel del mar en su continente. Sobre éste se elevan otras condiciones que producen la mayor o menor altitud de la obra.
 

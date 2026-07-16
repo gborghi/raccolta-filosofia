@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/aristotle/on_virtues_and_vices_1249a" data-philosopher="Aristotle"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="On Virtues and Vices (1249a)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="On Virtues and Vices (1249a)" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 On Virtues and Vices
 
@@ -60,7 +60,7 @@ To uncontrol it belongs to choose the enjoyment of pleasures when reason would r
 
 Of unrighteousness there are three kinds, impiety, greed, outrage.  Transgression in regard to gods and spirits, or even in regard to the departed and to parents and country, is impiety.  Transgression in regard to contracts, taking what is in dispute contrary to one’s desert, is greed. Outrage is the unrighteousness that makes men procure pleasures for themselves while leading others into disgrace; in consequence of which Evenus says about outrage: She that wrongs others e’en when she gaineth nought. And it belongs to unrighteousness to transgress ancestral customs and regulations, to disobey the laws and the rulers, to lie, to perjure, to transgress covenants and pledges. Unrighteousness is accompanied by slander, imposture, pretence of kindness, malignity, unscrupulousness.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Of meanness there are three kinds, love of base gain, parsimony, niggardliness.  Love of base gain makes men seek profit from all sources and pay more regard to the profit than to the disgrace; parsimony makes them unwilling to spend money on a necessary object;  niggardliness causes them only to spend in driblets and in a bad way, and to lose more than they gain by not at the proper moment letting go the difference.  It belongs to meanness to set a very high value on money and to think nothing that brings profit a disgrace — a menial and servile and squalid mode of life, alien to ambition and to liberality.  Meanness is accompanied by pettiness, sulkiness, self-abasement, lack of proportion, ignobleness, misanthropy.
 

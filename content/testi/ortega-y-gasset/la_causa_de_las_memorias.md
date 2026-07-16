@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_causa_de_las_memorias" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La causa de las Memorias" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La causa de las Memorias" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Francia es el país donde se han escrito siempre más «Memorias»; España, el país en que menos. ¿Por qué? Hay quien habiendo sido hombre público escribe sus Memorias con el propósito de rectificar su imagen, contestar acusaciones, aclarar actos equívocos o revelar secretos. Otros, más altruistas, rememoran el pasado visto por ellos, sin otro fin que hacer más fácil la labor a los futuros historiadores. Pero tales motivos no son frecuentes, y no bastan para explicar la abundancia magnífica de memorialismo que siempre ha gozado Francia. Además, no había razón entonces para que en España existiesen tan pocos libros de recuerdos. Las mismas razones antedichas se dan en nuestro pueblo, y debieran haber alumbrado pareja vena de literatura reminiscente.
 

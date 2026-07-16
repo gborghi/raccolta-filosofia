@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/socialismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Socialismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Socialismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El problema es el problema obrero. Pero todo el acierto de nuestra postura ante él depende de que distingamos rigorosamente entre sus diversas caras. Precisamente porque son distintas exigen que las afrontemos con muy distintas actitudes.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_picardía_original_de_la_novela_picaresca" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La picardía original de la novela picaresca" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La picardía original de la novela picaresca" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Esta crítica de las costumbres vigentes, esta flagelación de la sociedad que yace en los secretos últimos de la inspiración de Baroja, le han inducido a componer novelas que son del género picaresco. Sí, Baroja prolonga una tradición muy honda de nuestra literatura, y es más entrañablemente castizo que la Real Academia Española. No ha leído apenas otra cosa que libros extranjeros, su idioma es rebelde a la gramática normal, siente un desdén de indio nuevo hacia nuestra vieja excelencia literaria, y, sin embargo, es castizo hasta más no poder. ¿Por qué, sin embargo? Justamente por eso es castizo.
 
@@ -56,7 +56,7 @@ Ahora bien; el rasgo distintivo de la alta poesía consiste en vivir de sí mism
 
 La picardía original de la novela picaresca ha de buscarse, pues, en la mirada insolente que de abajo arriba lanza a la sociedad el pícaro autor.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los libros de Baroja representan un compromiso entre el puro apicaramiento y unos fuertes ímpetus, bien que discontinuos, de aspiración a cosas mejores. Es posible que un día nos sorprenda con una obra firme en que ambas tendencias den toda su flor. Por ahora, predomina en su literatura el elemento rencoroso y crítico que le ha llevado a convertirse en Homero de la canalla. Los tres tomos de La lucha por la vida nos refieren las andanzas de un pueblo de gusanos sobre un cadáver abyecto. En el tercero, Aurora Roja, parece como que quiere sonar un clarín de alborada, pero el sonido no se condensa y exánime se deshace, se rompe en un quejido. La Salvadora, una moza del pueblo, nos ofrece en este libro, por un momento, la posibilidad de una vida somera, limpia, virtuosa y afirmativa. Mas Baroja no se atreve a dibujarla; la deja, borrosa, moverse al fondo del libro como esas Martas que en las pinturas evangélicas entrevemos allá en el último plano vacar hacendosas a sus menesteres. Diríase que el autor siente algún rubor de contarnos que hay gentes en la tierra que cumplen con su deber.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/no_definir" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="No definir" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="No definir" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Es, pues, menester que veamos la vida de las figuras novelescas, y que se evite referírnosla. Toda referencia, relación, narración, no hace sino subrayar la ausencia de lo que se refiere, relata y narra. Donde las cosas están, huelga contarlas.
 

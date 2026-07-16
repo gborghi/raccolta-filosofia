@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/idea_de_estas_elecciones" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Idea de estas elecciones" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Idea de estas elecciones" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -66,7 +66,7 @@ Reconozcamos, ante todo, que en la mayor parte de los distritos españoles esta 
 
 Conviene en estas experiencias que va haciendo el alma patria acudir al comentario con leal entereza, y que cada cual exhume, clara y razonadamente, su juicio íntimo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Prefiero mil veces que el censo se venda a que el censo se regale. Siquiera por aquel triste medio aprenderán los españoles a dar valor a su voto, y descubrirán que ese derecho soberano a elegir constituye una propiedad real y eficiente, patrimonio de cada ciudadano. Sesenta años de discursos no han servido, al parecer, para que se enteren de que ese pequeño tesoro existía. Esperemos que en unos años de finanza electoral hagan mejor aprendizaje. Tal vez así, cuando vuelvan a inyectarse en el aire social fuertes ideas políticas, encuentren un pueblo que tiene de su soberanía una noción más clara y hasta métricodecimal. Ahora, como siempre, será la economía el mejor pedagogo del derecho.
 

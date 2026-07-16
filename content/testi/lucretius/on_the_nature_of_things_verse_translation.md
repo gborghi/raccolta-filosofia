@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/lucretius/on_the_nature_of_things_verse_translation" data-philosopher="Lucretius"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ON THE NATURE OF THINGS: VERSE TRANSLATION" data-chapter="BOOK I" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="ON THE NATURE OF THINGS: VERSE TRANSLATION" data-chapter="BOOK I" data-kind="intro" data-srclang="en"></span>
 
 PROEM
 
@@ -416,7 +416,7 @@ The vines that mellow when the autumn lures,
 
 If not because the fixed seeds of things
 
-<span class="atom-split" data-atom="002" data-title="BOOK I (2/7)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="BOOK I (2/7)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 At their own season must together stream,
 
@@ -810,7 +810,7 @@ Had staid at rest, its parts together crammed.
 
 Then too, however solid objects seem,
 
-<span class="atom-split" data-atom="003" data-title="BOOK I (3/7)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="BOOK I (3/7)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 They yet are formed of matter mixed with void:
 
@@ -1200,7 +1200,7 @@ Thus primal bodies are solid, without a void.
 
 But since there’s void in all begotten things,
 
-<span class="atom-split" data-atom="004" data-title="BOOK I (4/7)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="BOOK I (4/7)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 All solid matter must be round the same;
 
@@ -1598,7 +1598,7 @@ And thus a somewhat must persist unharmed
 
 Amid the world, lest all return to naught,
 
-<span class="atom-split" data-atom="005" data-title="BOOK I (5/7)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="BOOK I (5/7)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 And, born from naught, abundance thrive anew.
 
@@ -1992,7 +1992,7 @@ Yieldeth no name in the Italian tongue,
 
 Although the thing itself is not o’erhard
 
-<span class="atom-split" data-atom="006" data-title="BOOK I (6/7)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="BOOK I (6/7)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 For explanation. First, then, when he speaks
 
@@ -2374,7 +2374,7 @@ Thereafter of thy spear?” ‘Twill come to pass
 
 That nowhere can a world’s-end be, and that
 
-<span class="atom-split" data-atom="007" data-title="BOOK I (7/7)" data-chapter="BOOK I" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="BOOK I (7/7)" data-chapter="BOOK I" data-kind="atom" data-srclang="en"></span>
 
 The [chance](/concepts/fortune) for further flight prolongs forever
 
@@ -2728,7 +2728,7 @@ To hinder thy gaze on nature’s Farthest-forth.
 
 Thus things for things shall kindle torches new.
 
-<span class="atom-split" data-atom="008" data-title="BOOK II (1/8)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="BOOK II (1/8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 PROEM
 
@@ -3120,7 +3120,7 @@ Their motion also must they veil from men —
 
 For mark, indeed, how things we can see, oft
 
-<span class="atom-split" data-atom="009" data-title="BOOK II (2/8)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="BOOK II (2/8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Yet hide their motions, when afar from us
 
@@ -3500,7 +3500,7 @@ First from the spirit’s will, whence at the last
 
 Quite otherwise it is, when forth we move,
 
-<span class="atom-split" data-atom="010" data-title="BOOK II (3/8)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="BOOK II (3/8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Impelled by a blow of another’s mighty powers
 
@@ -3890,7 +3890,7 @@ Some bitter, as the brine of ocean is,
 
 Is not the least a marvel...
 
-<span class="atom-split" data-atom="011" data-title="BOOK II (4/8)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="BOOK II (4/8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 For since ’tis fluid, smooth its [atoms](/positions/atomism) are
 
@@ -4286,7 +4286,7 @@ Her the wide nations, after antique rite,
 
 Do name Idaean Mother, giving her
 
-<span class="atom-split" data-atom="012" data-title="BOOK II (5/8)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="BOOK II (5/8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Escort of Phrygian bands, since first, they say,
 
@@ -4684,7 +4684,7 @@ Why what was black of hue an hour ago
 
 Can of a sudden like the marble gleam, —
 
-<span class="atom-split" data-atom="013" data-title="BOOK II (6/8)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="BOOK II (6/8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 As ocean, when the high winds have upheaved
 
@@ -5072,7 +5072,7 @@ And hurly-burly all of living things —
 
 Precisely as men, and cattle, and wild beasts,
 
-<span class="atom-split" data-atom="014" data-title="BOOK II (7/8)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="BOOK II (7/8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 By mere conglomeration each with each
 
@@ -5472,7 +5472,7 @@ In huge embrace.
 
 Besides, when matter abundant
 
-<span class="atom-split" data-atom="015" data-title="BOOK II (8/8)" data-chapter="BOOK II" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="BOOK II (8/8)" data-chapter="BOOK II" data-kind="atom" data-srclang="en"></span>
 
 Is ready there, when space on hand, nor object
 
@@ -5774,7 +5774,7 @@ Are wasting away and going to the tomb,
 
 Outworn by venerable length of life.
 
-<span class="atom-split" data-atom="016" data-title="BOOK III (1/8)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="BOOK III (1/8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 PROEM
 
@@ -6156,7 +6156,7 @@ Whilst yet the soul’s remainder through the limbs
 
 And through the frame is stirred by nothing new.
 
-<span class="atom-split" data-atom="017" data-title="BOOK III (2/8)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="BOOK III (2/8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 But when the mind is moved by shock more fierce,
 
@@ -6538,7 +6538,7 @@ But this meseems I’m able to declare:
 
 Those vestiges of natures left behind
 
-<span class="atom-split" data-atom="018" data-title="BOOK III (3/8)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="BOOK III (3/8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 Which reason cannot quite expel from us
 
@@ -6922,7 +6922,7 @@ And its diffused fire gone round the veins,
 
 Why follows then a heaviness of limbs,
 
-<span class="atom-split" data-atom="019" data-title="BOOK III (4/8)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="BOOK III (4/8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 A tangle of the legs as round he reels,
 
@@ -7308,7 +7308,7 @@ And sheer abandon in the zest of battle:
 
 With the remainder of his frame he seeks
 
-<span class="atom-split" data-atom="020" data-title="BOOK III (5/8)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="BOOK III (5/8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 Anew the battle and the slaughter, nor marks
 
@@ -7684,7 +7684,7 @@ Again, at parturitions of the wild
 
 And at the rites of Love, that souls should stand
 
-<span class="atom-split" data-atom="021" data-title="BOOK III (6/8)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="BOOK III (6/8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 Ready hard by seems ludicrous enough —
 
@@ -8074,7 +8074,7 @@ Soon, soon departed, and thereafter, no,
 
 It may not be recalled.” — As if, forsooth,
 
-<span class="atom-split" data-atom="022" data-title="BOOK III (7/8)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="BOOK III (7/8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 It were their prime of evils in great death
 
@@ -8462,7 +8462,7 @@ In perils and alarms? one fixed end
 
 Of life abideth for mortality;
 
-<span class="atom-split" data-atom="023" data-title="BOOK III (8/8)" data-chapter="BOOK III" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="BOOK III (8/8)" data-chapter="BOOK III" data-kind="atom" data-srclang="en"></span>
 
 Death’s not to shun, and we must go to meet.
 
@@ -8506,7 +8506,7 @@ Shall be no briefer time in death’s No-more
 
 Than he who perished months or years before.
 
-<span class="atom-split" data-atom="024" data-title="BOOK IV (1/9)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="BOOK IV (1/9)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 PROEM
 
@@ -8906,7 +8906,7 @@ Stream back to us; and howso suddenly
 
 Thou place, at any instant, anything
 
-<span class="atom-split" data-atom="025" data-title="BOOK IV (2/9)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="BOOK IV (2/9)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 Before a mirror, there an image shows;
 
@@ -9288,7 +9288,7 @@ Until of idol-films even five or six
 
 Have thus been gendered. For whatever things
 
-<span class="atom-split" data-atom="026" data-title="BOOK IV (3/9)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="BOOK IV (3/9)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 Shall hide back yonder in the house, the same,
 
@@ -9678,7 +9678,7 @@ Two-fold the visages of fellow-men,
 
 And twain their bodies. And again, when sleep
 
-<span class="atom-split" data-atom="027" data-title="BOOK IV (4/9)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="BOOK IV (4/9)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 Has bound our members down in slumber soft
 
@@ -10076,7 +10076,7 @@ In passing through shut chambers of a house,
 
 Is dulled, and in a jumble enters ears,
 
-<span class="atom-split" data-atom="028" data-title="BOOK IV (5/9)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="BOOK IV (5/9)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 And sound we seem to hear far more than words.
 
@@ -10470,7 +10470,7 @@ That these things come to pass as I record,
 
 From this thou easily canst understand:
 
-<span class="atom-split" data-atom="029" data-title="BOOK IV (6/9)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="BOOK IV (6/9)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 So far as one is unto other like,
 
@@ -10866,7 +10866,7 @@ That particles so fine can whirl around
 
 So great a body and turn this weight of ours;
 
-<span class="atom-split" data-atom="030" data-title="BOOK IV (7/9)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="BOOK IV (7/9)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 For wind, so tenuous with its subtle body,
 
@@ -11260,7 +11260,7 @@ Assault him, or a woman darting love
 
 From all her body — that one strains to get
 
-<span class="atom-split" data-atom="031" data-title="BOOK IV (8/9)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="BOOK IV (8/9)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 Even to the thing whereby he’s hit, and longs
 
@@ -11656,7 +11656,7 @@ Whom they desire to keep in bonds of love —
 
 In vain, since ne’ertheless thou canst by thought
 
-<span class="atom-split" data-atom="032" data-title="BOOK IV (9/9)" data-chapter="BOOK IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="BOOK IV (9/9)" data-chapter="BOOK IV" data-kind="atom" data-srclang="en"></span>
 
 Drag all the matter forth into the light
 
@@ -11928,7 +11928,7 @@ Besides, how drops of water falling down
 
 Against the stones at last bore through the stones?
 
-<span class="atom-split" data-atom="033" data-title="BOOK V (1/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="BOOK V (1/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 PROEM
 
@@ -12330,7 +12330,7 @@ With life-force quickened.
 
 Likewise, thou canst ne’er
 
-<span class="atom-split" data-atom="034" data-title="BOOK V (2/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="BOOK V (2/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 Believe the sacred seats of gods are here
 
@@ -12728,7 +12728,7 @@ Likewise,
 
 The abounding well-spring of the liquid light,
 
-<span class="atom-split" data-atom="035" data-title="BOOK V (3/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="BOOK V (3/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 The ethereal sun, doth flood the heaven o’er
 
@@ -13138,7 +13138,7 @@ Of ocean, and courses of the sun and moon,
 
 I’ll now in order tell. For of a truth
 
-<span class="atom-split" data-atom="036" data-title="BOOK V (4/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="BOOK V (4/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 Neither by counsel did the primal germs
 
@@ -13532,7 +13532,7 @@ The fires themselves have power to creep along,
 
 Going wherever their food invites and calls,
 
-<span class="atom-split" data-atom="037" data-title="BOOK V (5/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="BOOK V (5/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 And feeding their flaming bodies everywhere
 
@@ -13926,7 +13926,7 @@ Of the whole starry Zodiac, through which
 
 That sun, in winding onward, takes a year,
 
-<span class="atom-split" data-atom="038" data-title="BOOK V (6/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="BOOK V (6/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 Illumining the sky and all the lands
 
@@ -14316,7 +14316,7 @@ Upon the mighty mountains and all birds
 
 Aerial with many a varied shape.
 
-<span class="atom-split" data-atom="039" data-title="BOOK V (7/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="BOOK V (7/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 But, lo, because her bearing years must end,
 
@@ -14706,7 +14706,7 @@ The lovers’ bodies; for the woman yielded
 
 Either from mutual flame, or from the man’s
 
-<span class="atom-split" data-atom="040" data-title="BOOK V (8/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="BOOK V (8/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 Impetuous fury and insatiate lust,
 
@@ -15112,7 +15112,7 @@ Already, when their teeth and claws be scarce
 
 As yet engendered. So again, we see
 
-<span class="atom-split" data-atom="041" data-title="BOOK V (9/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="BOOK V (9/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 All breeds of winged creatures trust to wings
 
@@ -15508,7 +15508,7 @@ With net or stirring it with dogs of chase.)
 
 Howso the fact, and from what cause soever
 
-<span class="atom-split" data-atom="042" data-title="BOOK V (10/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="BOOK V (10/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 The flamy heat with awful crack and roar
 
@@ -15898,7 +15898,7 @@ Would circle round; for then the rustic muse
 
 Was in her glory; then would antic Mirth
 
-<span class="atom-split" data-atom="043" data-title="BOOK V (11/11)" data-chapter="BOOK V" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="BOOK V (11/11)" data-chapter="BOOK V" data-kind="atom" data-srclang="en"></span>
 
 Prompt them to garland head and shoulders about
 
@@ -16066,7 +16066,7 @@ Grow clear by intellect, till with their arts
 
 They’ve now achieved the supreme pinnacle.
 
-<span class="atom-split" data-atom="044" data-title="BOOK VI (1/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="BOOK VI (1/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 PROEM
 
@@ -16460,7 +16460,7 @@ A blast more gentle yet uptwists tall trees
 
 And sucks them madly from their deepest roots.
 
-<span class="atom-split" data-atom="045" data-title="BOOK VI (2/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="BOOK VI (2/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 Besides, among the clouds are waves, and these
 
@@ -16858,7 +16858,7 @@ For in a two-fold manner is that wind
 
 Enkindled all: it trembles into heat
 
-<span class="atom-split" data-atom="046" data-title="BOOK VI (3/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="BOOK VI (3/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 Both by its own velocity and by
 
@@ -17252,7 +17252,7 @@ That divers strokes have happened at one time?
 
 But oft and often hath it come to pass,
 
-<span class="atom-split" data-atom="047" data-title="BOOK VI (4/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="BOOK VI (4/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 And often still it must, that, even as showers
 
@@ -17654,7 +17654,7 @@ Gives either iron rim of the wheels a jolt.
 
 It happens, too, when some prodigious bulk
 
-<span class="atom-split" data-atom="048" data-title="BOOK VI (5/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="BOOK VI (5/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 Of age-worn soil is rolled from mountain slopes
 
@@ -18064,7 +18064,7 @@ Even to the bottom of the mountain’s throat.
 
 Herethrough thou must admit there go...
 
-<span class="atom-split" data-atom="049" data-title="BOOK VI (6/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="BOOK VI (6/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 And the conditions force [the water and air]
 
@@ -18464,7 +18464,7 @@ Of heat, the colder grows the water hid
 
 Within the earth. Further, when all the earth
 
-<span class="atom-split" data-atom="050" data-title="BOOK VI (7/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="BOOK VI (7/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 Is by the cold compressed, and thus contracts
 
@@ -18858,7 +18858,7 @@ Through silver and through glass. For we do see
 
 Through some pores form-and-look of things to flow,
 
-<span class="atom-split" data-atom="051" data-title="BOOK VI (8/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="BOOK VI (8/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 Through others heat to go, and some things still
 
@@ -19258,7 +19258,7 @@ Which can attack us soon as ever it come.
 
 THE PLAGUE ATHENS
 
-<span class="atom-split" data-atom="052" data-title="BOOK VI (9/9)" data-chapter="BOOK VI" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="BOOK VI (9/9)" data-chapter="BOOK VI" data-kind="atom" data-srclang="en"></span>
 
 ’Twas such a manner of disease, ’twas such
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_decreto_en_la_taquilla" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El decreto en la taquilla" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El decreto en la taquilla" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Esta vez ha sonado en el zaguán
 

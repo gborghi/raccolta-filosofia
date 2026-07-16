@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/notas_de_berlín" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Notas de Berlín" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Notas de Berlín" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 7 noviembre
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_sentido_del_cambio_político_español" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El sentido del cambio político español" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El sentido del cambio político español" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ciertos grupos de extranjeros en Suiza, Alemania y Francia me pidieron con casual coincidencia temporal una nota que les aclarase la subitánea y extraña transformación del Estado sobrevenida en España. Yo les envié el esquema siguiente:
 
@@ -52,7 +52,7 @@ En Francia, como en Inglaterra, como en Alemania, se ha constituido desde siempr
 
 Pero esto que puede ser un vicio, como la revolución, puede ser, como ella, un talento: el de coincidir consigo mismo y, en un cierto instante del destino, poderse lanzar un pueblo coherente y compacto a una gran construcción histórica. Esto aconteció una vez a España y no está dicho que no le acontezca otra.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Un pueblo que no cambia sino entero, avanza por la historia, necesariamente, con [tempo](/concepts/time) lento. La nueva polarización se va produciendo secretamente, con gran lentitud, hasta que gana a la sociedad entera. En los comienzos del siglo XIX, pudo Buckle presentar a España como un país cuyo destino había sido permanecer fiel a sus reyes. Ésta es la visión superficial. Pero bajo ella la realidad ha sido muy distinta. España ha sido monárquica mientras en el mundo la Monarquía significaba el gubernamentalismo. Pero esto no quiere decir que desde 1500 se sintiese vitalmente unida a sus reyes. Todo lo contrario. El dato seco de que las dinastías españolas desde aquella fecha sean extranjeras, resume la verdadera situación. La Monarquía, es decir, el Estado, se hallaba sobre el pueblo español, pesando sobre él, pero siempre fuera de él. La unión consustancial entre los Luises y los franceses no ha tenido jamás su paridad en la Península. La Monarquía vivió siempre desnacionalizada, aun en aquellas horas en que un rey como Carlos III quiso de buena fe el bien de la Nación —siempre, por supuesto, que no estorbase su política internacional puramente familiar. Una cosa es querer el bien del prójimo y otra fundirse con él. Siempre ha vivido España con una duplicidad de intereses difícilmente armonizables: las necesidades de la Nación y las de la Monarquía.
 

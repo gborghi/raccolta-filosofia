@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/falta_de_claridad" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Falta de claridad" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Falta de claridad" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El discurso que anteayer pronunció el señor Maura era, por el tema y la ocasión, de importancia decisiva para los destinos inmediatos de España. Cada cual se ha acercado a oír o leer ese discurso con sus particulares demandas. Yo también he llegado a sus párrafos con las mías. A diferencia de otros compatriotas, no me reconozco el derecho de apasionarme cada cinco minutos. Como los jansenistas pensaban que es irrespetuosa la comunión demasiado frecuente, yo creo que hay, cuando menos, irreverencia en dejarse arrebatar por una pasión cuotidiana. No puedo aceptar, pues, la facilidad con que se declaran ciertos problemas cuestión de sentimientos. La gracia de lo sentimental está en que da su justa flor allí donde viene a agotarse la razón. Y en estos días en que, con evidente inoportunidad, definen las gentes su vario patriotismo, permítaseme decir que el mío consiste en soñar una España habitada por veinte millones de agotadores de razón.
 

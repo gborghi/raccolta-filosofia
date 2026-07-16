@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pablo_iglesias" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Pablo Iglesias" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Pablo Iglesias" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los escritores conservadores, persistiendo en su labor de prolongar indefinidamente la barbarie española, no suelen hablar de Pablo Iglesias, y, cuando hablan, dijérase que hablan gentes tibetanas o somalíes. Es una de tantas cosas tristes como ofrece la realidad española: todavía suena a no pocos oídos la palabra [socialismo](/schools/historical_materialism_school) de una manera estridente, como si se tratara de una concepción política corruptora de los cimientos sociales, doctrina anormal hilada en mentes anormales a la vera de los presidios y de las tascas. Todavía es raro que al pronunciar el nombre de Pablo Iglesias sientan los que nos escuchan elevarse de sus corazones, como un humo de incienso, el respeto. Esto es infinitamente triste.
 

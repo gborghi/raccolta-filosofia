@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/masculino_o_femenino" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Masculino o femenino?" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="¿Masculino o femenino?" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -40,7 +40,7 @@ En la primera Edad Media la vida tiene más rudo cariz. Es preciso guerrear coti
 
 En tal paisaje moral, la mujer carece de papel y no interviene en lo que podemos llamar vida de primera clase. Entendámonos: en todas las épocas se ha deseado a la mujer, pero no en todas se la ha estimado. Así en esta bronca edad. La mujer es botín de guerra. Cuando el germano de estos siglos se ocupa en idealizar la mujer, imagina la walkiria, la hembra beligerante, virago musculosa que posee actitudes y destrezas de varón.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Esta existencia de áspero régimen crea las bases primeras, el subsuelo del porvenir europeo. Merced a ella se ha conseguido ya en el siglo XII acumular alguna riqueza, contar con un poco de orden, de paz, de bienestar. Y he aquí que rápidamente, como en ciertas jornadas de primavera, cambia la faz de la historia. Los hombres empiezan a pulirse en la palabra y en el modal. Ya no se aprecia el ademán bronco, sino el gesto mesurado, grácil. A la continua pendencia sustituye el solatz e deport —que quiere decir conversación y juego. La mutación se debe al ingreso de la mujer en el escenario de la vida pública. La Corte de los Carolingios era exclusivamente masculina. Pero en el siglo XII las altas damas de Provenza y Borgoña tienen la audacia sorprendente de afirmar, frente al Estado de los guerreros y frente a la Iglesia de los clérigos, el valor específico de la pura feminidad. Esta nueva forma de vida pública, donde la mujer es el centro, contiene el germen de lo que, frente a Estado e Iglesia, se va a llamar siglos más tarde «sociedad». Entonces se llamó «corte»; pero no como la antigua corte de guerra y de justicia, sino «corte de amor». Se trata, nada menos, de todo un nuevo estilo de cultura y de vida…
 
@@ -68,7 +68,7 @@ Tal vez desde los tiempos griegos no se ha estimado tanto la belleza masculina c
 
 No sería objeción contra éste que alguna lectora, perescrutando sinceramente en su interior, reconociese que no se daba cuenta de ser influida en su estima de la belleza masculina por el aprecio que de ella hacen los jóvenes. De todo aquello que es un impulso colectivo y empuja la vida histórica entera en una u otra dirección no nos damos cuenta nunca, como no nos damos cuenta del movimiento estelar que lleva nuestro planeta, ni de la faena química en que se ocupan nuestras células. Cada cual cree vivir por su cuenta, en virtud de razones que supone personalísimas. Pero el hecho es que bajo esa superficie de nuestra conciencia actúan las grandes fuerzas anónimas, los poderosos alisios de la historia, soplos gigantes que nos movilizan a su capricho.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Tampoco sabe bien la mujer de hoy por qué fuma, por qué se viste como se viste, por qué se afana en deportes físicos. Cada una podrá dar su razón diferente, que tendrá alguna verdad, pero no la bastante. Es mucha casualidad que al presente el régimen de la existencia femenina en los órdenes más diversos coincida siempre en esto: la asimilación al hombre. Si en el siglo XII el varón se vestía como la mujer y hacía bajo su inspiración versitos dulcifluos, hoy la mujer imita al hombre en el vestir y adopta sus ásperos juegos. La mujer procura hallar en su corporeidad las líneas del otro sexo. Por eso lo más característico de las modas actuales no es la exigüidad del encubrimiento, sino todo lo contrario. Basta comparar el traje de hoy con el usado en la época de otro Directorio mayor —1800— para descubrir la esencia variante, tanto más expresiva cuanto mayor es la semejanza. El traje Directorio era también una simple túnica, bastante corta, casi como la de ahora. Sin embargo, aquel desnudo era un perverso desnudo de mujer. Ahora, la mujer va desnuda como un muchacho. La dama Directorio acentuaba, ceñía y ostentaba el atributo femenino por excelencia: aquella túnica era el más sobrio tallo para sostener la flor del seno. El traje actual, aparentemente tan generoso en la nudificación, oculta, en cambio, anula, escamotea, el seno femenino.
 

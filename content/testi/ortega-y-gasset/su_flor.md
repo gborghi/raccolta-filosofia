@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/su_flor" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Su flor" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Su flor" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Yo no sé si es la violeta la flor que prefiere Azorín, pero ello cuadraría muy bien con su inclinación sentimental, con su genio estético. La menudencia corporal, la dulce sobriedad de su aroma, que se difunde como sin ruido en el ambiente, ocultando más bien que revelando el lugar donde brota, odoración humilde que parece aspirar al anónimo, hacen de aquella flor un símbolo para las cosas cuyo destino es pasar desapercibidas y hacer una jornada derecha desde la nada al olvido. Azorín es el caballero de las violas.
 

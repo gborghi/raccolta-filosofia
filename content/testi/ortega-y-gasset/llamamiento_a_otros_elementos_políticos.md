@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/llamamiento_a_otros_elementos_políticos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Llamamiento a otros elementos políticos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Llamamiento a otros elementos políticos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero a este llamamiento puede dirigirse una objeción justísima, fundada en la escasa capacidad de acción política que padece quien lo hace. Sin embargo, pienso que la tarea a emprender es tan integral, que en ella pueden aprovecharse no sólo las virtudes, sino también los vicios, y yo creo que algunos de los míos son explotables y que ellos precisamente indican que sea yo quien levante ante el país esta bandera. Pero repito que la objeción es justísima, y, como quiero cuentas limpias con mis conciudadanos, advierto desde ahora que no consideraré como existente el movimiento si no acuden a él hombres dinámicos, políticos en el sentido más estricto, que se hallen ya en la brecha, aptos para todo combate y compensen con su eficacia lo inválido de mi persona.
 

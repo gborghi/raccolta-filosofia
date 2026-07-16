@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_greco_en_alemania" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El Greco en Alemania" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El Greco en Alemania" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Marburg, 20 de noviembre
 
@@ -52,7 +52,7 @@ Sin embargo, la ciencia oficial estética de Munich y Berlín ha reaccionado, co
 
 Justi, la máxima autoridad en estas materias, se venga en la nueva edición de su monumental libro sobre Velázquez, insistiendo en la leyenda que hace del Greco un pobre loco megalómano, empeñado en diferenciarse de Tiziano; otros apuntan la sospecha de que padeciera cierta anomalía ocular que le hacía ver los objetos alargados. Por último, Augusto L. Mayer, que goza una fama envidiable de especialista en historia del arte español, acaba de publicar un tomito, donde, sin aceptar esas suposiciones, combate crudamente a su colega Meier-Graefe.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Y en tanto, los libros sobre el Greco se venden a granel; sus cuadros alcanzan precios fabulosos y muchos honrados filisteos se dan de cabezadas para penetrar en el alcázar maravilloso de las visiones grequescas, un alcázar con puertas de triple bronce que no se han abierto todavía. Greco tiene que ser tomado por asalto, como un castillo roquero, y no a todo el mundo puede pedirse este bélico esteticismo.
 

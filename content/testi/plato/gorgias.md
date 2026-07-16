@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/plato/gorgias" data-philosopher="Plato"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="GORGIAS" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="GORGIAS" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 PERSONS OF THE DIALOGUE:
 
@@ -194,7 +194,7 @@ GORGIAS: Yes.
 
 SOCRATES: As to the arts generally, they are for the most part concerned with doing, and require little or no speaking; in painting, and statuary, and many other arts, the work may proceed in silence; and of such arts I suppose you would say that they do not come within the province of rhetoric.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 GORGIAS: You perfectly conceive my meaning, [Socrates](/figures/socrates).
 
@@ -264,7 +264,7 @@ GORGIAS: Yes.
 
 SOCRATES: Then arithmetic as well as rhetoric is an artificer of persuasion?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 GORGIAS: Clearly.
 
@@ -342,7 +342,7 @@ GORGIAS: And you will observe, Socrates, that when a decision has to be given in
 
 SOCRATES: I had that in my admiring mind, Gorgias, when I asked what is the nature of rhetoric, which always appears to me, when I look at the matter in this way, to be a marvel of greatness.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 GORGIAS: A marvel, indeed, [Socrates](/figures/socrates), if you only knew how rhetoric comprehends and holds under her sway all the inferior arts. Let me offer you a striking example of this. On several occasions I have been with my brother Herodicus or some other physician to see one of his patients, who would not allow the physician to give him medicine, or apply the knife or hot iron to him; and I have persuaded him to do for me what he would not do for the physician just by the use of rhetoric. And I say that if a rhetorician and a physician were to go to any city, and had there to argue in the Ecclesia or any other assembly as to which of them should be elected state-physician, the physician would have no [chance](/concepts/fortune); but he who could speak would be chosen if he wished; and in a contest with a man of any other profession the rhetorician more than any one would have the power of getting himself chosen, for he can speak more persuasively to the multitude than any of them, and on any subject. Such is the nature and power of the art of rhetoric! And yet, Socrates, rhetoric should be used like any other competitive art, not against everybody, — the rhetorician ought not to abuse his strength any more than a pugilist or pancratiast or other master of fence; — because he has powers which are more than a match either for friend or enemy, he ought not therefore to strike, stab, or slay his friends. Suppose a man to have been trained in the palestra and to be a skilful boxer, — he in the fulness of his strength goes and strikes his father or mother or one of his familiars or friends; but that is no reason why the trainers or fencing-masters should be held in detestation or banished from the city; — surely not. For they taught their art for a good purpose, to be used against enemies and evil-doers, in self-defence not in aggression, and others have perverted their instructions, and turned to a bad use their own strength and skill. But not on this account are the teachers bad, neither is the art in fault, or bad in itself; I should rather say that those who make a bad use of the art are to blame. And the same argument holds good of rhetoric; for the rhetorician can speak against all men and upon any subject, — in short, he can persuade the multitude better than any other man of anything which he pleases, but he should not therefore seek to defraud the physician or any other artist of his reputation merely because he has the power; he ought to use rhetoric fairly, as he would also use his athletic powers. And if after having become a rhetorician he makes a bad use of his strength and skill, his instructor surely ought not on that account to be held in detestation or banished. For he was intended by his teacher to make a good use of his instructions, but he abuses them. And therefore he is the person who ought to be held in detestation, banished, and put to death, and not his instructor.
 
@@ -394,7 +394,7 @@ SOCRATES: And the same holds of the relation of rhetoric to all the other arts; 
 
 GORGIAS: Yes, Socrates, and is not this a great comfort? — not to have learned the other arts, but the art of rhetoric only, and yet to be in no way inferior to the professors of them?
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Whether the rhetorician is or not inferior on this account is a question which we will hereafter examine if the enquiry is likely to be of any service to us; but I would rather begin by asking, whether he is or is not as ignorant of the just and unjust, base and honourable, good and evil, as he is of medicine and the other arts; I mean to say, does he really know anything of what is good and evil, base or honourable, just or unjust in them; or has he only a way with the ignorant of persuading them that he not knowing is to be esteemed to know more about these things than some one else who knows? Or must the pupil know these things and come to you knowing them before he can acquire the art of rhetoric? If he is ignorant, you who are the teacher of rhetoric will not teach him — it is not your business; but you will make him seem to the multitude to know them, when he does not know them; and seem to be a good man, when he is not. Or will you be unable to teach him rhetoric at all, unless he knows the truth of these things first? What is to be said about all this? By heavens, Gorgias, I wish that you would reveal to me the power of rhetoric, as you were saying that you would.
 
@@ -528,7 +528,7 @@ SOCRATES: No, they are only different parts of the same profession.
 
 POLUS: Of what profession?
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I am afraid that the truth may seem discourteous; and I hesitate to answer, lest Gorgias should imagine that I am making fun of his own profession. For whether or no this is that art of rhetoric which Gorgias practises I really cannot tell: — from what he was just now saying, nothing appeared of what he thought of his art, but the rhetoric which I mean is a part of a not very creditable whole.
 
@@ -608,7 +608,7 @@ POLUS: What! are they not like tyrants? They kill and despoil and exile any one 
 
 SOCRATES: By the dog, Polus, I cannot make out at each deliverance of yours, whether you are giving an opinion of your own, or asking a question of me.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 POLUS: I am asking a question of you.
 
@@ -772,7 +772,7 @@ SOCRATES: Not if you mean by tyranny what I mean.
 
 POLUS: I mean, as I said before, the power of doing whatever seems good to you in a state, killing, banishing, doing in all things as you like.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Well then, illustrious friend, when I have said my say, do you reply to me. Suppose that I go into a crowded Agora, and take a dagger under my arm. Polus, I say to you, I have just acquired rare power, and become a tyrant; for if I think that any of these men whom you see ought to be put to death, the man whom I have a mind to kill is as good as dead; and if I am disposed to break his head or tear his garment, he will have his head broken or his garment torn in an instant. Such is my great power in this city. And if you do not believe me, and I show you the dagger, you would probably reply: Socrates, in that sort of way any one may have great power — he may burn any house which he pleases, and the docks and triremes of the Athenians, and all their other vessels, whether public or private — but can you believe that this mere doing as you think best is great power?
 
@@ -842,7 +842,7 @@ SOCRATES: I praised you at first, Polus, for being a rhetorician rather than a r
 
 POLUS: That is because you will not; for you surely must think as I do.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Not so, my simple friend, but because you will refute me after the manner which rhetoricians practise in courts of law. For there the one party think that they refute the other when they bring forward a number of witnesses of good repute in proof of their allegations, and their adversary has only a single one or none at all. But this kind of proof is of no value where truth is the aim; a man may often be sworn down by a multitude of false witnesses who have a great air of respectability. And in this argument nearly every one, Athenian and stranger alike, would be on your side, if you should bring witnesses in disproof of my statement; — you may, if you will, summon Nicias the son of Niceratus, and let his brothers, who gave the row of tripods which stand in the precincts of Dionysus, come with him; or you may summon Aristocrates, the son of Scellius, who is the giver of that famous offering which is at Delphi; summon, if you will, the whole house of Pericles, or any other great Athenian family whom you choose; — they will all agree with you: I only am left alone and cannot agree, for you do not convince me; although you produce many false witnesses against me, in the hope of depriving me of my inheritance, which is the truth. But I consider that nothing worth speaking of will have been effected by me unless I make you the one witness of my words; nor by you, unless you make me the one witness of yours; no matter about the rest of the world. For there are two ways of refutation, one which is yours and that of the world in general; but mine is of another sort — let us compare them, and see in what they differ. For, indeed, we are at issue about matters which to know is honourable and not to know disgraceful; to know or not to know happiness and misery — that is the chief of them. And what knowledge can be nobler? or what ignorance more disgraceful than this? And therefore I will begin by asking you whether you do not think that a man who is unjust and doing injustice can be happy, seeing that you think Archelaus unjust, and yet happy? May I assume this to be your opinion?
 
@@ -944,7 +944,7 @@ SOCRATES: And may not the same be said of the beauty of knowledge?
 
 POLUS: To be sure, Socrates; and I very much approve of your measuring beauty by the standard of pleasure and [utility](/positions/utility_pleasure).
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And deformity or disgrace may be equally measured by the opposite standard of pain and evil?
 
@@ -1194,7 +1194,7 @@ SOCRATES: Money-making, medicine, and justice.
 
 POLUS: Justice, Socrates, far excels the two others.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And justice, if the best, gives the greatest pleasure or advantage or both?
 
@@ -1308,7 +1308,7 @@ CHAEREPHON: I should say, Callicles, that he is in most profound earnest; but yo
 
 CALLICLES: By the gods, and I will. Tell me, Socrates, are you in earnest, or only in jest? For if you are in earnest, and what you say is true, is not the whole of human life turned upside down; and are we not doing, as would appear, in everything the opposite of what we ought to be doing?
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): O Callicles, if there were not some community of feelings among mankind, however varying in different persons — I mean to say, if every man’s feelings were peculiar to himself and were not shared by the rest of his species — I do not see how we could ever communicate our impressions to one another. I make this remark because I perceive that you and I have a common feeling. For we are lovers both, and both of us have two loves apiece: — I am the lover of Alcibiades, the son of Cleinias, and of philosophy; and you of the Athenian Demus, and of Demus the son of Pyrilampes. Now, I observe that you, with all your cleverness, do not venture to contradict your favourite in any word or opinion of his; but as he changes you change, backwards and forwards. When the Athenian Demus denies anything that you are saying in the assembly, you go over to his opinion; and you do the same with Demus, the fair young son of Pyrilampes. For you have not the power to resist the words and ideas of your loves; and if a person were to express surprise at the strangeness of what you say from time to time when under their influence, you would probably reply to him, if you were honest, that you cannot help saying what your loves say unless they are prevented; and that you can only be silent when they are. Now you must understand that my words are an echo too, and therefore you need not wonder at me; but if you want to silence me, silence philosophy, who is my love, for she is always telling me what I am now telling you, my friend; neither is she capricious like my other love, for the son of Cleinias says one thing to-day and another thing to-morrow, but philosophy is always true. She is the teacher at whose words you are now wondering, and you have heard her yourself. Her you must refute, and either show, as I was saying, that to do injustice and to escape punishment is not the worst of all evils; or, if you leave her word unrefuted, by the dog the god of Egypt, I declare, O Callicles, that Callicles will never be at one with himself, but that his whole life will be a discord. And yet, my friend, I would rather that my lyre should be inharmonious, and that there should be no music in the chorus which I provided; aye, or that the whole world should be at odds with me, and oppose me, rather than that I myself should be at odds with myself, and contradict myself.
 
@@ -1320,7 +1320,7 @@ this, as he says,
 
 ‘Makes might to be right, doing violence with highest hand; as I infer from the deeds of Heracles, for without buying them—’ (Fragm. Incert. 151 (Bockh).) — I do not remember the exact words, but the meaning is, that without buying them, and without their being given to him, he carried off the oxen of Geryon, according to the law of [natural right](/positions/natural_right), and that the oxen and other possessions of the weaker and inferior properly belong to the stronger and superior. And this is true, as you may ascertain, if you will leave philosophy and go on to higher things: for philosophy, Socrates, if pursued in moderation and at the proper age, is an elegant accomplishment, but too much philosophy is the ruin of human life. Even if a man has good parts, still, if he carries philosophy into later life, he is necessarily ignorant of all those things which a gentleman and a person of honour ought to know; he is inexperienced in the laws of [the State](/concepts/state), and in the language which ought to be used in the dealings of man with man, whether private or public, and utterly ignorant of the pleasures and desires of mankind and of human character in general. And people of this sort, when they betake themselves to politics or business, are as ridiculous as I imagine the politicians to be, when they make their appearance in the arena of philosophy. For, as Euripides says,
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 ‘Every man shines in that and pursues that, and devotes the greatest portion of the day to that in which he most excels,’ (Antiope, fragm. 20 (Dindorf).)
 
@@ -1354,7 +1354,7 @@ SOCRATES: Because I am sure that if you agree with me in any of the opinions whi
 
 CALLICLES: Yes; that is what I was saying, and so I still aver.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And do you mean by the better the same as the superior? for I could not make out what you were saying at the time — whether you meant by the superior the stronger, and that the weaker must obey the stronger, as you seemed to imply when you said that great cities attack small ones in accordance with [natural right](/positions/natural_right), because they are superior and stronger, as though the superior and stronger and better were the same; or whether the better may be also the inferior and weaker, and the superior the worse, or whether better is to be defined in the same way as superior: — this is the point which I want to have cleared up. Are the superior and better and stronger the same or different?
 
@@ -1448,7 +1448,7 @@ SOCRATES: But whether rulers or subjects will they or will they not have more th
 
 CALLICLES: What do you mean?
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I mean that every man is his own ruler; but perhaps you think that there is no necessity for him to rule himself; he is only required to rule others?
 
@@ -1510,7 +1510,7 @@ SOCRATES: But what if the itching is not confined to the head? Shall I pursue th
 
 CALLICLES: Are you not ashamed, Socrates, of introducing such topics into the argument?
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Well, my fine friend, but am I the introducer of these topics, or he who says without any qualification that all who feel pleasure in whatever manner are happy, and who admits of no distinction between good and bad pleasures? And I would still ask, whether you say that pleasure and good are the same, or whether there is some pleasure which is not a good?
 
@@ -1730,7 +1730,7 @@ SOCRATES: And the foolish; so it would seem?
 
 CALLICLES: Yes.
 
-<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And are only the cowards pained at the approach of their enemies, or are the brave also pained?
 
@@ -1864,7 +1864,7 @@ SOCRATES: Then I will explain myself more clearly: seeing that you and I have ag
 
 CALLICLES: I do.
 
-<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Then I will proceed, and ask whether you also agree with me, and whether you think that I spoke the truth when I further said to Gorgias and Polus that cookery in my opinion is only an experience, and not an art at all; and that whereas medicine is an art, and attends to the nature and constitution of the patient, and has principles of action and reason in each case, cookery in attending upon pleasure never regards either the nature or reason of that pleasure to which she devotes herself, but goes straight to her end, nor ever considers or calculates anything, but works by experience and routine, and just preserves the recollection of what she has usually done when producing pleasure. And first, I would have you consider whether I have proved what I was saying, and then whether there are not other similar processes which have to do with the soul — some of them processes of art, making a provision for the soul’s highest interest — others despising the interest, and, as in the previous case, considering only the pleasure of the soul, and how this may be acquired, but not considering what pleasures are good or bad, and having no other aim but to afford gratification, whether good or bad. In my opinion, Callicles, there are such processes, and this is the sort of thing which I term flattery, whether concerned with the body or the soul, or whenever employed with a view to pleasure and without any consideration of good and evil. And now I wish that you would tell me whether you agree with us in this notion, or whether you differ.
 
@@ -1964,7 +1964,7 @@ CALLICLES: I suppose that you mean health and strength?
 
 SOCRATES: Yes, I do; and what is the name which you would give to the effect of harmony and order in the soul? Try and discover a name for this as well as for the other.
 
-<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 CALLICLES: Why not give the name yourself, [Socrates](/figures/socrates)?
 
@@ -2038,7 +2038,7 @@ CALLICLES: Go on, my good fellow.
 
 SOCRATES: Then I shall proceed to add, that if the temperate soul is the good soul, the soul which is in the opposite condition, that is, the foolish and intemperate, is the bad soul. Very true.
 
-<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And will not the temperate man do what is proper, both in relation to the gods and to men; — for he would not be temperate if he did not? Certainly he will do what is proper. In his relation to other men he will do what is just; and in his relation to the gods he will do what is holy; and he who does what is just and holy must be just and holy? Very true. And must he not be courageous? for the duty of a temperate man is not to follow or to avoid what he ought not, but what he ought, whether things or men or pleasures or pains, and patiently to endure when he ought; and therefore, Callicles, the temperate man, being, as we have described, also just and courageous and holy, cannot be other than a perfectly good man, nor can the good man do otherwise than well and perfectly whatever he does; and he who does well must of necessity be happy and blessed, and the evil man who does evil, miserable: now this latter is he whom you were applauding — the intemperate who is the opposite of the temperate. Such is my position, and these things I affirm to be true. And if they are true, then I further affirm that he who desires to be happy must pursue and practise temperance and run away from intemperance as fast as his legs will carry him: he had better order his life so as not to need punishment; but if either he or any of his friends, whether private individual or city, are in need of punishment, then justice must be done and he must suffer punishment, if he would be happy. This appears to me to be the aim which a man ought to have, and towards which he ought to direct all the energies both of himself and of [the state](/concepts/state), acting so that he may have temperance and justice present with him and be happy, not suffering his lusts to be unrestrained, and in the never-ending desire satisfy them leading a robber’s life. Such a one is the friend neither of God nor man, for he is incapable of communion, and he who is incapable of communion is also incapable of [friendship](/concepts/friendship). And philosophers tell us, Callicles, that communion and friendship and orderliness and temperance and justice bind together heaven and earth and gods and men, and that this universe is therefore called Cosmos or order, not disorder or misrule, my friend. But although you are a philosopher you seem to me never to have observed that geometrical equality is mighty, both among gods and men; you think that you ought to cultivate inequality or excess, and do not care about geometry. — Well, then, either the principle that the happy are made happy by the possession of justice and temperance, and the miserable miserable by the possession of vice, must be refuted, or, if it is granted, what will be the consequences? All the consequences which I drew before, Callicles, and about which you asked me whether I was in earnest when I said that a man ought to accuse himself and his son and his friend if he did anything wrong, and that to this end he should use his rhetoric — all those consequences are true. And that which you thought that Polus was led to admit out of modesty is true, viz., that, to do injustice, if more disgraceful than to suffer, is in that degree worse; and the other position, which, according to Polus, Gorgias admitted out of modesty, that he who would truly be a rhetorician ought to be just and have a knowledge of justice, has also turned out to be true.
 
@@ -2066,7 +2066,7 @@ SOCRATES: Think and tell me whether you would approve of another view of mine: T
 
 CALLICLES: I should.
 
-<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But when the tyrant is rude and uneducated, he may be expected to fear any one who is his superior in virtue, and will never be able to be perfectly friendly with him.
 
@@ -2114,7 +2114,7 @@ And this is the reason why the pilot, although he is our saviour, is not usually
 
 CALLICLES: Somehow or other your words, Socrates, always appear to me to be good words; and yet, like the rest of the world, I am not quite convinced by them. (Compare Symp.: 1 Alcib.)
 
-<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): The reason is, Callicles, that the love of Demus which abides in your soul is an adversary to me; but I dare say that if we recur to these same matters, and consider them more thoroughly, you may be convinced for all that. Please, then, to remember that there are two processes of training all things, including body and soul; in the one, as we said, we treat them with a view to pleasure, and in the other with a view to the highest good, and then we do not indulge but resist them: was not that the distinction which we drew?
 
@@ -2208,7 +2208,7 @@ SOCRATES: Then upon this view, Pericles was not a good statesman?
 
 CALLICLES: That is, upon your view.
 
-<span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Nay, the view is yours, after what you have admitted. Take the case of Cimon again. Did not the very persons whom he was serving ostracize him, in order that they might not hear his voice for ten years? and they did just the same to Themistocles, adding the penalty of exile; and they voted that Miltiades, the hero of Marathon, should be thrown into the pit of death, and he was only saved by the Prytanis. And yet, if they had been really good men, as you say, these things would never have happened to them. For the good charioteers are not those who at first keep their place, and then, when they have broken-in their horses, and themselves become better charioteers, are thrown out — that is not the way either in charioteering or in any profession. — What do you think?
 
@@ -2230,7 +2230,7 @@ SOCRATES: Do you never hear our professors of [education](/concepts/education) s
 
 CALLICLES: Yes, but why talk of men who are good for nothing?
 
-<span class="atom-split" data-atom="024" data-title="Parte 24" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Parte 24" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I would rather say, why talk of men who profess to be rulers, and declare that they are devoted to the improvement of the city, and nevertheless upon occasion declaim against the utter vileness of the city: — do you think that there is any difference between one and the other? My good friend, the sophist and the rhetorician, as I was saying to Polus, are the same, or nearly the same; but you ignorantly fancy that rhetoric is a perfect thing, and sophistry a thing to be despised; whereas the truth is, that sophistry is as much superior to rhetoric as legislation is to the practice of law, or gymnastic to medicine. The orators and sophists, as I am inclined to think, are the only class who cannot complain of the mischief ensuing to themselves from that which they teach others, without in the same breath accusing themselves of having done no good to those whom they profess to benefit. Is not this a fact?
 
@@ -2288,7 +2288,7 @@ SOCRATES: Yes, Callicles, if he have that defence, which as you have often ackno
 
 CALLICLES: Very well, proceed; and then we shall have done.
 
-<span class="atom-split" data-atom="025" data-title="Parte 25" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Parte 25" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Listen, then, as story-tellers say, to a very pretty tale, which I dare say that you may be disposed to regard as a fable only, but which, as I believe, is a true tale, for I mean to speak the truth. Homer tells us (Il.), how Zeus and Poseidon and Pluto divided the empire which they inherited from their father. Now in the days of Cronos there existed a law respecting the destiny of man, which has always been, and still continues to be in Heaven, — that he who has lived all his life in justice and holiness shall go, when he is dead, to the Islands of the Blessed, and dwell there in perfect happiness out of the reach of evil; but that he who has lived unjustly and impiously shall go to the house of vengeance and punishment, which is called Tartarus. And in the time of Cronos, and even quite lately in the reign of Zeus, the judgment was given on the very day on which the men were to die; the judges were alive, and the men were alive; and the consequence was that the judgments were not well given. Then Pluto and the authorities from the Islands of the Blessed came to Zeus, and said that the souls found their way to the wrong places. Zeus said: ‘I shall put a stop to this; the judgments are not well given, because the persons who are judged have their clothes on, for they are alive; and there are many who, having evil souls, are apparelled in fair bodies, or encased in wealth or rank, and, when the day of judgment arrives, numerous witnesses come forward and testify on their behalf that they have lived righteously. The judges are awed by them, and they themselves too have their clothes on when judging; their eyes and ears and their whole bodies are interposed as a veil before their own souls. All this is a hindrance to them; there are the clothes of the judges and the clothes of the judged. — What is to be done? I will tell you: — In the first place, I will deprive men of the foreknowledge of death, which they possess at present: this power which they have Prometheus has already received my orders to take from them: in the second place, they shall be entirely stripped before they are judged, for they shall be judged when they are dead; and the judge too shall be naked, that is to say, dead — he with his naked soul shall pierce into the other naked souls; and they shall die suddenly and be deprived of all their kindred, and leave their brave attire strewn upon the earth — conducted in this manner, the judgment will be just. I knew all about the matter before any of you, and therefore I have made my sons judges; two from Asia, Minos and Rhadamanthus, and one from Europe, Aeacus. And these, when they are dead, shall give judgment in the meadow at the parting of the ways, whence the two roads lead, one to the Islands of the Blessed, and the other to Tartarus. Rhadamanthus shall judge those who come from Asia, and Aeacus those who come from Europe. And to Minos I shall give the primacy, and he shall hold a court of appeal, in case either of the two others are in any doubt: — then the judgment respecting the last journey of men will be as just as possible.’
 
@@ -2296,7 +2296,7 @@ From this tale, Callicles, which I have heard and believe, I draw the following 
 
 Now the proper office of punishment is twofold: he who is rightly punished ought either to become better and profit by it, or he ought to be made an example to his fellows, that they may see what he suffers, and fear and become better. Those who are improved when they are punished by gods and men, are those whose sins are curable; and they are improved, as in this world so also in another, by pain and suffering; for there is no other way in which they can be delivered from their evil. But they who have been guilty of the worst crimes, and are incurable by reason of their crimes, are made examples; for, as they are incurable, the time has passed at which they can receive any benefit. They get no good themselves, but others get good when they behold them enduring for ever the most terrible and painful and fearful sufferings as the penalty of their sins — there they are, hanging up as examples, in the prison-house of the world below, a spectacle and a warning to all unrighteous men who come thither. And among them, as I confidently affirm, will be found Archelaus, if Polus truly reports of him, and any other tyrant who is like him. Of these fearful examples, most, as I believe, are taken from the class of tyrants and kings and potentates and public men, for they are the authors of the greatest and most impious crimes, because they have the power. And Homer witnesses to the truth of this; for they are always kings and potentates whom he has described as suffering everlasting punishment in the world below: such were Tantalus and Sisyphus and Tityus. But no one ever described Thersites, or any private person who was a villain, as suffering everlasting punishment, or as incurable. For to commit the worst crimes, as I am inclined to think, was not in his power, and he was happier than those who had the power. No, Callicles, the very bad men come from the class of those who have power (compare Republic). And yet in that very class there may arise good men, and worthy of all admiration they are, for where there is great power to do wrong, to live and to die justly is a hard thing, and greatly to be praised, and few there are who attain to this. Such good and true men, however, there have been, and will be again, at Athens and in other states, who have fulfilled their trust righteously; and there is one who is quite famous all over Hellas, Aristeides, the son of Lysimachus. But, in general, great men are also bad, my friend.
 
-<span class="atom-split" data-atom="026" data-title="Parte 26" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Parte 26" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 As I was saying, Rhadamanthus, when he gets a soul of the bad kind, knows nothing about him, neither who he is, nor who his parents are; he knows only that he has got hold of a villain; and seeing this, he stamps him as curable or incurable, and sends him away to Tartarus, whither he goes and receives his proper recompense. Or, again, he looks with admiration on the soul of some just one who has lived in holiness and truth; he may have been a private man or not; and I should say, Callicles, that he is most likely to have been a philosopher who has done his own work, and not troubled himself with the doings of other men in his lifetime; him Rhadamanthus sends to the Islands of the Blessed. Aeacus does the same; and they both have sceptres, and judge; but Minos alone has a golden sceptre and is seated looking on, as Odysseus in Homer declares that he saw him:
 

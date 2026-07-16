@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_momento_español_políticos_y_técnicos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El momento español.— Políticos y técnicos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El momento español.— Políticos y técnicos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Desde hace algún tiempo, pero con mayor intensidad estos días, se habla de que la única salvación del atolladero histórico en que España se encuentra sería entregar los ministerios a unos cuantos técnicos. De esta manera, se dice, las cosas vendrían a buen concierto, los órganos de la vitalidad nacional funcionarían rectamente, la Hacienda pública estaría bien ordenada, la Instrucción popular mejoraría, las carreteras serían sobre los paisajes lindas cintas de plata, como suelen serlo en muchas páginas literarias. ¿No es ésta una idea feliz?
 

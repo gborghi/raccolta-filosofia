@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/cuestiones_holandesas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Cuestiones holandesas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Cuestiones holandesas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -52,7 +52,7 @@ Pero en Holanda va todo el mundo en bicicleta, cualquiera que sea su edad, su se
 
 Al llegar aquí nuestro intelecto, luchando dialécticamente consigo mismo se hace esta objeción: ¿no será que considero natural y correcto simplemente lo que me es habitual, lo que he visto en los otros pueblos? ¿Por qué no ha de ser Holanda el pueblo elegido por el dios de las bicicletas, aquél a quien ha sido revelado su más auténtico destino?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 A este puñetazo lógico nuestro intelecto se responde a sí mismo con cierta impaciencia enojada: ¡Ah, no! ¡Nada de eso! No es sólo cuestión de hábito: no se trata sólo de dos comportamientos, uno a que estamos, por azar, acostumbrados y otro insólito que, nada más por serlo, nos perturba. Si analizamos nuestra extrañeza, vemos que se nutre de razones nada accidentales. Que personas de edad y volumen caminen en bicicleta constantemente en medio del tráfago de una gran ciudad es estúpidamente arriesgado, es injustificadamente fatigoso y es… deplorablemente antiestético. La línea fina de la bicicleta no tolera, sin que sufra la estética, ser encargada de sostener la mole de una abundante señora cincuentona o de un magistrado bebedor de cerveza. Esto no es accidental ni es habitual, sino que es inexorable y esencial. No hablemos de lo penoso que resulta asistir al frecuente y vano combate de las mujeres ciclistas con sus faldas para evitar ostentaciones impudorosas. El viajero que va por la calle respetuosamente interesado por la nueva humanidad que visita y que no se siente en vena erótica, experimenta algún enojo de que se le ofrezca a la mirada, tan inoportunamente, un muslo femenino.
 

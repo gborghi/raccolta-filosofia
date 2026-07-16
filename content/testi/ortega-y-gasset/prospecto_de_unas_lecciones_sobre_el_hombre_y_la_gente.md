@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prospecto_de_unas_lecciones_sobre_el_hombre_y_la_gente" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[Prospecto de unas lecciones sobre «El hombre y la gente»]" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="[Prospecto de unas lecciones sobre «El hombre y la gente»]" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Al reanudar ahora las «Lecciones sobre el hombre y la gente», dadas la primavera pasada, se hace imprescindible tener claro y presente lo que en aquéllas se logró. A fin de descargar las cuatro lecciones, que el ciclo de este año comporta, del resumen inevitable en que los conceptos obtenidos y aclarados en la serie anterior renovasen su presencia en la mente de los que van a escucharme y poder desde luego proceder a nuevos temas de mi doctrina sociológica, he creído que fuera bueno concentrar en estas páginas lo más inexcusable.
 
@@ -62,7 +62,7 @@ Lo que pensamos o decimos porque se dice; lo que hacemos porque se hace, suele l
 
 Los hechos sociales constitutivos son usos.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Los usos son formas de comportamiento humano que el individuo adopta y cumple porque, de una u otra manera, en una u otra medida, no tiene remedio. Le son impuestos por su contorno de convivencia: por los «demás», por la «gente», por… la sociedad.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/abejas_milenarias" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Abejas milenarias" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Abejas milenarias" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En la Exposición de Pinturas Rupestres que hace un par de años organizó la Sociedad de Amigos del Arte, nada sorprendió tanto, junto a los grandes frescos de Altamira, como la escena que representa a un hombre colgado en una escala trenzada con materias vegetales y que castra una colmena alojada en un agujero de la roca. Asustadas por la intrusión, vuelan las abejas en torno al cazador. El dibujante primitivo ha sabido interpretar este vuelo con tal gracia impresionista, que, al cabo de milenios, conserva todo el estremecimiento y la dispersión azorada del original. Esta perduración de un encanto estético subyuga con vago pavor místico. La persistencia al través de los cambios, el poder extraño de flotar sobre las tormentas de los siglos, provoca en el espíritu una reacción de estupor favorable a las emociones mágicas.
 

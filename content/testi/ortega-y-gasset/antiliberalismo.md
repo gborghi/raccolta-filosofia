@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/antiliberalismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Antiliberalismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Antiliberalismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Esto nos ocurre pensar. Pero el sindicalismo, método intelectual que consiste en sacar las cosas de quicio, da el siguiente brinco: puesto que la sociedad es, sin duda, una comunidad de trabajadores, la sociedad no es, sin duda, más que eso. Como el Sindicato es la institución más apropiada para organizar el trabajo, el Sindicato debe ser la única institución pública. Lo cual equivale a este razonamiento: ¿El hombre tiene nariz? Sí; pues el hombre es una nariz semoviente; toda institución que no sea el pañuelo moquero carece de sentido.
 

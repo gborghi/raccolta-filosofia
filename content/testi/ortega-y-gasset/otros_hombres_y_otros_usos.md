@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/otros_hombres_y_otros_usos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Otros hombres y otros usos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Otros hombres y otros usos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando surgió el actual Gabinete, expresamos brevemente, pero ásperamente, nuestra patriótica indignación. Nos pareció que rayaba en la locura traer al Poder en esta hora peligrosísima a los hombres representativos de la desmoralización nacional, a estos señoritos de la Regencia que no han dado a su patria un minuto de gloria ni siquiera de bienestar. Cien veces lo hemos dicho, porque es la idea de que se nutre toda nuestra política en lo que al problema específicamente español se refiere: nuestro pueblo sufre un proceso de extrema descomposición colectiva, o, dicho de otra manera, el Estado español, suma de los organismos encargados de asegurar la convivencia nacional, ha perdido su autoridad y su eficacia. Ni los Gobiernos al uso ni los Parlamentos habituales suscitan en los españoles respeto ni esperanza. Dígasenos si en tal forma cabe tranquilidad alguna en nuestra existencia. Es una necedad —perdónesenos la energía del vocablo—, es una necedad que ya anda próxima a engendrar gravísimas secuencias, confundir las modificaciones políticas a que invita el sesgo de los acontecimientos mundiales, con el proceso que por sí misma llevaba la vida interior de España. El hecho de que lo de fuera venga a coincidir con lo de dentro, no permite borrar deslealmente la diferencia entre ambos procesos.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_vida_infantil" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La vida infantil" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La vida infantil" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Mi oposición a la escolaridad del Quijote no se funda en un practicismo miope. No me estorba el Quijote en la escuela porque sea un libro añejo, inadaptado a la realidad contemporánea; al contrario, me parece un libro de espíritu demasiado moderno para el ambiente de las aulas infantiles, que debe mantenerse perennemente antiguo, primitivo, siempre entre luces y rumores de aurora.
 

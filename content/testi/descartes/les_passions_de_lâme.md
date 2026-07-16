@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/descartes/les_passions_de_lâme" data-philosopher="Descartes"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LES PASSIONS DE L’ÂME" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LES PASSIONS DE L’ÂME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Réponse à la lettre I
 
@@ -81,7 +81,7 @@ Article VII
 
 Briève explication des parties du corps, et de quelques-unes de ses fonctions.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Pour rendre cela plus intelligible, j’expliquerai ici en peu de mots toute la façon dont la machine de notre corps est composée. Il n’y a personne qui ne sache déjà qu’il y a en nous un cœur, un cerveau, un estomac, des muscles, des nerfs, des artères, des veines, et choses semblables ; on sait aussi que les viandes qu’on mange descendent dans l’estomac et dans les boyaux, d’où leur suc, coulant dans le foie et dans toutes les veines, se mêle avec le sang qu’elles contiennent, et par ce moyen en augmente la quantité. Ceux qui ont tant soit peu ouï parler de la médecine savent, outre cela, comment le cœur est composé, et comment tout le sang des veines peut facilement couler de la veine cave en son côté droit, et de là passer dans le poumon, par le vaisseau qu’on nomme la veine artérieuse, puis retourner du poumon dans le côté gauche du cœur, par le vaisseau nommé l’artère veineuse, et enfin passer de là dans la grande artère, dont les branches se répandent par tout le corps. Même tous ceux que l’autorité des anciens n’a point entièrement aveuglés, et qui ont voulu ouvrir les yeux pour examiner l’opinion d’Hervæus touchant la circulation du sang, ne doutent point que toutes les veines et les artères du corps ne soient comme des ruisseaux par où le sang coule sans cesse fort promptement, en prenant son cours de la cavité droite du cœur par la veine artérieuse, dont les branches sont éparses à tout le poumon, et jointes à celle de l’artère veineuse, par laquelle il passe du poumon dans le côté gauche du cœur ; puis de là il va dans la grande artère dont les branches, éparses par tout le reste du corps, sont jointes aux branches de la veine, qui portent derechef le même sang en la cavité droite du cœur : en sorte que ces deux cavités sont comme des écluses par chacune desquelles passe tout le sang à chaque tour qu’il fait dans le corps. De plus on sait que tous les mouvements des membres dépendent des muscles, et que ces muscles sont opposés les uns aux autres en telle sorte, que, lorsque l’un d’eux s’accourcit, il tire vers soi la partie du corps à laquelle il est attaché, ce qui fait allonger au même temps le muscle qui lui est opposé ; puis s’il arrive en un autre temps que ce dernier s’accourcisse, il fait que le premier se rallonge, et il retire vers soi la partie à laquelle ils sont attachés. Enfin, on sait que tous ces mouvements des muscles, comme aussi tous les sens, dépendent des nerfs, qui sont comme de petits filets, ou comme de petits tuyaux qui viennent tous du cerveau, et contiennent ainsi que lui un certain air ou vent très subtil qu’on nomme les esprits animaux.
 
@@ -113,7 +113,7 @@ Article XII
 
 Comment les objets de dehors agissent contre les organes des sens.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Il reste encore ici à savoir les causes qui font que les esprits ne coulent pas toujours du cerveau dans les muscles en même façon, et qu’il en vient quelquefois plus vers les uns que vers les autres. Car, outre l’action de l’âme, qui véritablement est en nous l’une de ces causes, ainsi que je dirai ci-après, il y en a encore deux autres qui ne dépendent que du corps, lesquelles il est besoin de remarquer. La première consiste en la diversité des mouvements qui sont excités dans les organes des sens par leurs objets, laquelle j’ai déjà expliquée assez amplement en la Dioptrique ; mais afin que ceux qui verront cet écrit n’aient pas besoin d’en avoir lu d’autres, je répéterai ici qu’il y a trois choses à considérer dans les nerfs : à savoir, leur moelle ou substance intérieure, qui s’étend en [forme](/positions/realism_of_ideas) de petits filets depuis le cerveau, d’où elle prend son origine, jusqu’aux extrémités des autres membres auxquelles ces filets sont attachés ; puis les peaux qui les environnent, et qui, étant contiguës avec celles qui enveloppent le cerveau, composent de petits tuyaux dans lesquels ces petits filets sont enfermés ; puis enfin les esprits animaux, qui, étant portés par ces mêmes tuyaux depuis le cerveau jusqu’aux muscles, sont cause que ces filets y demeurent entièrement libres et étendus, en telle sorte que la moindre chose qui meut la partie du corps où l’extrémité de quelqu’un d’eux est attachée, fait mouvoir par même moyen la partie du cerveau d’où il vient : en même façon que lorsqu’on tire un des bouts d’une corde on fait mouvoir l’autre.
 
@@ -157,7 +157,7 @@ Article XIX
 
 Des perceptions.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Nos perceptions sont aussi de deux sortes, et les unes ont l’âme pour cause, les autres le corps. Celles qui ont l’âme pour cause sont les perceptions de nos volontés et de toutes les imaginations ou autres pensées qui en dépendent : car il est certain que nous ne saurions vouloir aucune chose que nous n’apercevions par même moyen que nous la voulons ; et, bien qu’au regard de notre âme ce soit une action de vouloir quelque chose, on peut dire que c’est aussi en elle une passion d’apercevoir qu’elle veut toutefois, à cause que cette perception et cette volonté ne sont en effet qu’une même chose, la dénomination se fait toujours par ce qui est le plus noble, et ainsi on n’a point coutume de la nommer une passion, mais seulement une action.
 
@@ -213,7 +213,7 @@ Article XXVIII
 
 Explication de la première partie de cette définition.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 On les peut nommer des perceptions lorsqu’on se sert généralement de ce mot pour signifier toutes les pensées qui ne sont point des actions de l’âme ou des volontés, mais non point lorsqu’on ne s’en sert que pour signifier des connaissances évidentes. Car l’expérience fait voir que ceux qui sont les plus agités par leurs passions ne sont pas ceux qui les connaissent le mieux, et qu’elles sont du nombre des perceptions que l’étroite alliance qui est entre l’âme et le corps rend confuses et obscures. On les peut aussi nommer des sentiments, à cause qu’elles sont reçues en l’âme en même façon que les objets des sens extérieurs, et ne sont pas autrement connues par elle. Mais on peut encore mieux les nommer des émotions de l’âme, non seulement à cause que ce nom peut être attribué à tous les changements qui arrivent en elle, c’est-à-dire à toutes les diverses pensées qui lui viennent, mais particulièrement parce que, de toutes les sortes de pensées qu’elle peut avoir, il n’y en a point d’autres qui l’agitent et l’ébranlent si fort que font ces passions.
 
@@ -257,7 +257,7 @@ Article XXXV
 
 Exemple de la façon que les impressions des objets s’unissent en la glande qui est au milieu du cerveau.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Ainsi, par exemple, si nous voyons quelque animal venir vers nous, la lumière réfléchie de son corps en peint deux images, une en chacun de nos yeux, et ces deux images en forment deux autres, par l’entremise des nerfs optiques, dans la superficie intérieure du cerveau qui regarde ses concavités ; puis, de là, par l’entremise des esprits dont ses cavités sont remplies, ces images rayonnent en telle sorte vers la petite glande que ces esprits environnent, que le mouvement qui compose chaque point de l’une des images tend vers le même point de la glande vers lequel tend le mouvement qui [forme](/positions/realism_of_ideas) le point de l’autre image, lequel représente la même partie de cet animal, au moyen de quoi les deux images qui sont dans le cerveau n’en composent qu’une seule sur la glande, qui, agissant immédiatement contre l’âme, lui fait voir la figure de cet animal.
 
@@ -313,7 +313,7 @@ Article XLIV
 
 Que chaque volonté est naturellement jointe à quelque mouvement de la glande ; mais que, par industrie ou par habitude, on la peut joindre à d’autres.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Toutefois ce n’est pas toujours la volonté d’exciter en nous quelque mouvement ou quelque autre effet qui peut faire que nous l’excitons ; mais cela change selon que la nature ou l’habitude ont diversement joint chaque mouvement de la glande à chaque pensée. Ainsi, par exemple, si on veut disposer ses yeux à regarder un objet fort éloigné, cette volonté fait que leur prunelle s’élargit ; et si on les veut disposer à regarder un objet fort proche, cette volonté fait qu’elle s’étrécit. Mais si on pense seulement à élargir la prunelle, on a beau en avoir la volonté, on ne l’élargit point pour cela, d’autant que la nature n’a pas joint le mouvement de la glande qui sert à pousser les esprits vers le nerf optique en la façon qui est requise pour élargir ou étrécir la prunelle avec la volonté de l’élargir ou étrécir, mais bien avec celle de regarder des objets éloignés ou proches. Et lorsqu’en parlant nous ne pensons qu’au sens de ce que nous voulons dire, cela fait que nous remuons la langue et les lèvres beaucoup plus promptement et beaucoup mieux que si nous pensions à les remuer en toutes les façons qui sont requises pour proférer les mêmes paroles. D’autant que l’habitude que nous avons acquise en apprenant à parler a fait que nous avons joint l’action de l’âme, qui, par l’entremise de la glande, peut mouvoir la langue et les lèvres, avec la signification des paroles qui suivent de ces mouvements plutôt qu’avec les mouvements mêmes.
 
@@ -339,7 +339,7 @@ Article XLVIII
 
 En quoi on connaît la force ou la faiblesse des âmes, et quel est le mal des plus faibles.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Or, c’est par le succès de ces combats que chacun peut connaître la force ou la faiblesse de son âme. Car ceux en qui naturellement la volonté peut le plus aisément vaincre les passions et arrêter les mouvements du corps qui les accompagnent ont sans doute les âmes les plus fortes. Mais il y en a qui ne peuvent éprouver leur force, parce qu’ils ne font jamais combattre leur volonté avec ses propres armes, mais seulement avec celles que lui fournissent quelques passions pour résister à quelques autres. Ce que je nomme ses propres armes sont des jugements fermes et déterminés touchant la connaissance du bien et du mal, suivant lesquels elle a résolu de conduire les actions de sa vie. Et les âmes les plus faibles de toutes sont celles dont la volonté ne se détermine point ainsi à suivre certains jugements, mais se laisse continuellement emporter aux passions présentes, lesquelles, étant souvent contraires les unes aux autres, la tirent tour à tour à leur parti et, l’employant à combattre contre elle-même, mettent l’âme au plus déplorable état qu’elle puisse être. Ainsi, lorsque la peur représente la mort comme un mal extrême et qui ne peut être évité que par la fuite, si l’ambition, d’autre côté, représente l’infamie de cette fuite comme un mal pire que la mort ; ces deux passions agitent diversement la volonté, laquelle obéissant tantôt à l’une, tantôt à l’autre, s’oppose continuellement à soi-même, et ainsi rend l’âme esclave et malheureuse.
 
@@ -389,7 +389,7 @@ Article LV
 
 La vénération et le dédain.
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mais quand nous estimons ou méprisons d’autres objets que nous considérons comme des causes libres capables de faire du bien ou du mal, de l’estime vient la vénération, et du simple mépris le dédain.
 
@@ -493,7 +493,7 @@ Article LXXII
 
 En quoi consiste la force de l’admiration.
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Ce qui n’empêche pas qu’elle n’ait beaucoup de force à cause de la surprise, c’est-à-dire de l’arrivement subit et inopiné de l’impression qui change le mouvement des esprits, laquelle surprise est propre et particulière à cette passion ; en sorte que lorsqu’elle se rencontre en d’autres, comme elle a coutume de se rencontrer presque en toutes et de les augmenter, c’est que l’admiration est jointe avec elles. Et sa force dépend de deux choses, à savoir, de la nouveauté, et de ce que le mouvement qu’elle cause a dès son commencement toute sa force. Car il est certain qu’un tel mouvement a plus d’effet que ceux qui, étant faibles d’abord et ne croissant que peu à peu, peuvent aisément être détournés. Il est certain aussi que les objets des sens qui sont nouveaux touchent le cerveau en certaines parties auxquelles il n’a point coutume d’être touché ; et que ces parties étant plus tendres ou moins fermes que celles qu’une agitation fréquente a endurcies, cela augmente l’effet des mouvements qu’ils y excitent. Ce qu’on ne trouvera pas incroyable si l’on considère que c’est une pareille raison qui fait que les plantes de nos pieds, étant accoutumées à un attouchement assez rude par la pesanteur du corps qu’elles portent, nous ne sentons que fort peu cet attouchement quand nous marchons ; au lieu qu’un autre beaucoup moindre et plus doux dont on les chatouille nous est presque insupportable à cause seulement qu’il ne nous est pas ordinaire.
 
@@ -549,7 +549,7 @@ Article LXXXI
 
 De la distinction qu’on a coutume de faire entre l’amour de concupiscence et de bienveillance.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Or, on distingue communément deux sortes d’amour, l’une desquelles est nommée amour de bienveillance, c’est-à-dire qui incite à vouloir du bien à ce qu’on aime ; l’autre est nommée amour de concupiscence, c’est-à-dire qui fait désirer la chose qu’on aime. Mais il me semble que cette distinction regarde seulement les effets de l’amour, et non point son essence ; car sitôt qu’on s’est joint de volonté à quelque objet, de quelque nature qu’il soit, on a pour lui de la bienveillance, c’est-à-dire on joint aussi à lui de volonté les choses qu’on croit lui être convenables : ce qui est un des principaux effets de l’amour. Et si on juge que ce soit un bien de le posséder ou d’être associé avec lui d’autre façon que de volonté, on le désire : ce qui est aussi l’un des plus ordinaires effets de l’amour.
 
@@ -593,7 +593,7 @@ Article LXXXVIII
 
 Quelles sont ses diverses espèces.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Il y aurait plus de raison de distinguer le désir en autant de diverses espèces qu’il y a de divers objets qu’on recherche ; car, par exemple, la curiosité, qui n’est autre chose qu’un désir de connaître, diffère beaucoup du désir de gloire, et celui-ci du désir de vengeance, et ainsi des autres. Mais il suffit ici de savoir qu’il y en a autant que d’espèces d’amour ou de haine et que les plus considérables et les plus forts sont ceux qui naissent de l’agrément et de l’horreur.
 
@@ -637,7 +637,7 @@ Article XCV
 
 Comment elles peuvent aussi être excitées par des biens et des maux que l’âme ne – 79 – remarque point, encore qu’ils lui appartiennent ; comme sont le plaisir qu’on prend à se hasarder ou à se souvenir du mal passé.
 
-<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Ainsi le plaisir que prennent souvent les jeunes gens à entreprendre des choses difficiles et à s’exposer à de grands périls, encore même qu’ils n’en espèrent aucun profit ni aucune gloire, vient en eux de ce que la pensée qu’ils ont que ce qu’ils entreprennent est difficile fait une impression dans leur cerveau, qui étant jointe avec celle qu’ils pourraient former s’ils pensaient que c’est un bien de se sentir assez courageux, assez heureux, assez adroit ou assez fort pour oser se hasarder à tel point, est cause qu’ils y prennent plaisir. Et le contentement qu’ont les vieillards lorsqu’ils se souviennent des maux qu’ils ont soufferts, vient de ce qu’ils se représentent que c’est un bien d’avoir pu nonobstant cela subsister.
 
@@ -711,7 +711,7 @@ Article CVII
 
 Quelle est la cause de ces mouvements en l’amour.
 
-<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Et je déduis les raisons de tout ceci de ce qui a été dit ci-dessus, qu’il y a telle liaison entre notre âme et notre corps, que lorsque nous avons une fois joint quelque action corporelle avec quelque pensée, l’une des deux ne se présente point à nous par après que l’autre ne s’y présente aussi. Comme on voit en ceux qui ont pris avec grande aversion quelque breuvage étant malades, qu’ils ne peuvent rien boire ou manger par après qui en approche du goût, sans avoir derechef la même aversion ; et pareillement qu’ils ne peuvent penser à l’aversion qu’on a des médecines, que le même goût ne leur revienne en la pensée. Car il me semble que les premières passions que notre âme a eues lorsqu’elle a commencé d’être jointe à notre corps ont dû être que quelquefois le sang, ou autre suc qui entrait dans le cœur, était un aliment plus convenable que l’ordinaire pour y entretenir la chaleur, qui est le principe de la vie ; ce qui était cause que l’âme joignait à soi de volonté cet aliment, c’est-à-dire l’aimait, et en même temps les esprits coulaient du cerveau vers les muscles, qui pouvaient presser ou agiter les parties d’où il était venu vers le cœur, pour faire qu’elles lui en envoyassent davantage ; et ces parties étaient l’estomac et les intestins, dont l’agitation augmente l’appétit, ou bien aussi le foie et le poumon, que les muscles du diaphragme peuvent presser. C’est pourquoi ce même mouvement des esprits a toujours accompagné depuis la passion d’amour.
 
@@ -765,7 +765,7 @@ Ainsi la joie rend la couleur plus vive et plus vermeille, parce qu’en ouvrant
 
 Article CXVI
 
-<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Comment la tristesse fait pâlir.
 
@@ -829,7 +829,7 @@ Article CXXVI
 
 Quelles sont ses principales causes.
 
-<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Et je ne puis remarquer que deux causes qui fassent ainsi subitement enfler le poumon. La première est la surprise de l’admiration, laquelle, étant jointe à la joie, peut ouvrir si promptement les orifices du cœur, qu’une grande abondance de sang, entrant tout à coup en son côté droit par la veine cave, s’y raréfie, et passant de là par la veine artérieuse, enfle le poumon. L’autre est le mélange de quelque liqueur qui augmente la raréfaction du sang. Et je n’en trouve point de propre à cela que la plus coulante partie de celui qui vient de la rate, laquelle partie du sang étant poussée vers le cœur par quelque légère émotion de haine, aidée par la surprise de l’admiration, et s’y mêlant avec le sang qui vient des autres endroits du corps, lequel la joie y fait entrer en abondance, peut faire que ce sang s’y dilate beaucoup plus qu’à l’ordinaire ; en même façon qu’on voit quantité d’autres liqueurs s’enfler tout à coup, étant sur le feu, lorsqu’on jette un peu de vinaigre dans le vaisseau où elles sont. Car la plus coulante partie du sang qui vient de la rate est de nature semblable au vinaigre. L’expérience aussi nous fait voir qu’en toutes les rencontres qui peuvent produire ce rire éclatant qui vient du poumon, il y a toujours quelque petit sujet de haine, ou du moins d’admiration. Et ceux dont la rate n’est pas bien saine sont sujets à être non seulement plus tristes, mais aussi, par intervalles, plus gais et plus disposés à rire que les autres : d’autant que la rate envoie deux sortes de sang vers le cœur, l’un fort épais et grossier, qui cause la tristesse ; l’autre fort fluide et subtil, qui cause la joie. Et souvent, après avoir beaucoup ri, on se sent naturellement enclin à la tristesse, parce que, la plus fluide partie du sang de la rate étant épuisée, l’autre, plus grossière, la suit vers le cœur.
 
@@ -873,7 +873,7 @@ Article CXXXIII
 
 Pourquoi les enfants et les vieillards pleurent aisément.
 
-<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Les enfants et les vieillards sont plus enclins à pleurer que ceux du Moyen Âge, mais c’est pour diverses raisons. Les vieillards pleurent souvent d’affection et de joie ; car ces deux passions jointes ensemble envoient beaucoup de sang à leur cœur, et de là beaucoup de vapeurs à leurs yeux ; et l’agitation de ces vapeurs est tellement retardée par la froideur de leur naturel, qu’elles se convertissent aisément en larmes, encore qu’aucune tristesse n’ait précédé. Que si quelques vieillards pleurent aussi fort aisément de fâcherie, ce n’est pas tant le tempérament de leur corps que celui de leur esprit qui les y dispose. Et cela n’arrive qu’à ceux qui sont si faibles qu’ils se laissent entièrement surmonter par de petits sujets de douleur, de crainte ou de pitié. Le même arrive aux enfants, lesquels ne pleurent guère de joie, mais bien plus de tristesse, même quand elle n’est point accompagnée d’amour. Car ils ont toujours assez de sang pour produire beaucoup de vapeurs ; le mouvement desquelles étant retardé par la tristesse, elles se convertissent en larmes.
 
@@ -911,7 +911,7 @@ Article CXXXIX
 
 De l’usage des mêmes passions, en tant qu’elles appartiennent à l’âme, et premièrement de l’amour.
 
-<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Ce qui suffirait si nous n’avions en nous que le corps ou qu’il fût notre meilleure partie ; mais, d’autant qu’il n’est que la moindre, nous devons principalement considérer les passions en tant qu’elles appartiennent à l’âme, au regard de laquelle l’amour et la haine viennent de la connaissance et précèdent la joie et la tristesse, excepté lorsque ces deux dernières tiennent le lieu de la connaissance, dont elles sont des espèces. Et lorsque cette connaissance est vraie, c’est-à-dire que les choses qu’elle nous porte à aimer sont véritablement bonnes, et celles qu’elle nous porte à haïr sont véritablement mauvaises, l’amour est incomparablement meilleure que la haine ; elle ne saurait être trop grande, et elle ne manque jamais de produire la joie. Je dis que cette amour est extrêmement bonne, parce que, joignant à nous de vrais biens, elle nous perfectionne d’autant. Je dis aussi qu’elle ne saurait être trop grande, car tout ce que la plus excessive peut faire, c’est de nous joindre si parfaitement à ces biens, que l’amour que nous avons particulièrement pour nous-mêmes n’y mette aucune distinction, ce que je crois ne pouvoir jamais être mauvais. Et elle est nécessairement suivie de la joie, à cause qu’elle nous représente ce que nous aimons comme un bien qui nous appartient.
 
@@ -949,7 +949,7 @@ Article CXLV
 
 De ceux qui ne dépendent que des autres causes, et ce que c’est que la fortune.
 
-<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Pour les choses qui ne dépendent aucunement de nous, tant bonnes qu’elles puissent être, on ne les doit jamais désirer avec passion, non seulement à cause qu’elles peuvent n’arriver pas, et par ce moyen nous affliger d’autant plus que nous les aurons plus souhaitées, mais principalement à cause qu’en occupant notre pensée elles nous détournent de porter notre affection à d’autres choses dont l’acquisition dépend de nous. Et il y a deux remèdes généraux contre ces vains désirs : le premier est la générosité, de laquelle je parlerai ci-après ; le second est que nous devons souvent faire réflexion sur la Providence divine, et nous représenter qu’il est impossible qu’aucune chose arrive d’autre façon qu’elle a été déterminée de toute éternité par cette Providence ; en sorte qu’elle est comme une fatalité ou une nécessité immuable qu’il faut opposer à la fortune, pour la détruire comme une chimère qui ne vient que de l’erreur de notre entendement. Car nous ne pouvons désirer que ce que nous estimons en quelque façon être possible, et nous ne pouvons estimer possibles les choses qui ne dépendent point de nous qu’en tant que nous pensons qu’elles dépendent de la fortune, c’est-à-dire que nous jugeons qu’elles peuvent arriver, et qu’il en est arrivé autrefois de semblables. Or cette opinion n’est fondée que sur ce que nous ne connaissons pas toutes les causes qui contribuent à chaque effet ; car, lorsqu’une chose que nous avons estimée dépendre de la fortune n’arrive pas, cela témoigne que quelqu’une des causes qui étaient nécessaires pour la produire a manqué, et par conséquent qu’elle était absolument impossible et qu’il n’en est jamais arrivé de semblable, c’est-à-dire à la production de laquelle une pareille cause ait aussi manqué : en sorte que si nous n’eussions point ignoré cela auparavant, nous ne l’eussions jamais estimée possible, ni par conséquent ne l’eussions désirée.
 
@@ -985,7 +985,7 @@ Article CL
 
 Que ces deux passions ne sont que des espèces d’admiration.
 
-<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Ainsi ces deux passions ne sont que des espèces d’admiration ; car lorsque nous n’admirons point la grandeur ni la petitesse d’un objet, nous n’en faisons ni plus ni moins d’état que la raison nous dicte que nous en devons faire, de façon que nous l’estimons ou le méprisons alors sans passion. Et, bien que souvent l’estime soit excitée en nous par l’amour, et le mépris par la haine, cela n’est pas universel et ne vient que de ce qu’on est plus ou moins enclin à considérer la grandeur ou la petitesse d’un objet, à raison de ce qu’on a plus ou moins d’affection pour lui.
 
@@ -1047,7 +1047,7 @@ Article CLX
 
 Quel est le mouvement des esprits en ces passions.
 
-<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Au reste, il est aisé à connaître que l’orgueil et la bassesse ne sont pas seulement des vices, mais aussi des passions, à cause que leur émotion paraît fort à l’extérieur en ceux qui sont subitement enflés ou abattus par quelque nouvelle occasion. Mais on peut douter si la générosité et l’humilité, qui sont des vertus, peuvent aussi être des passions, parce que leurs mouvements paraissent moins, et qu’il semble que la vertu ne symbolise pas tant avec la passion que fait le vice. Toutefois je ne vois point de raison qui empêche que le même mouvement des esprits qui sert à fortifier une pensée lorsqu’elle a un fondement qui est mauvais, ne la puisse aussi fortifier lorsqu’elle en a un qui est juste ; et parce que l’orgueil et la générosité ne consistent qu’en la bonne opinion qu’on a de soi-même, et ne diffèrent qu’en ce que cette opinion est injuste en l’un et juste en l’autre, il me semble qu’on les peut rapporter à une même passion, laquelle est excitée par un mouvement composé de ceux de l’admiration, de la joie et de l’amour, tant de celle qu’on a pour soi que de celle qu’on a pour la chose qui fait qu’on s’estime : comme, au contraire, le mouvement qui excite l’humilité, soit vertueuse, soit vicieuse, est composé de ceux de l’admiration, de la tristesse, et de l’amour qu’on a pour soi-même, mêlée avec la haine qu’on a pour les défauts, qui font qu’on se méprise. Et toute la différence que je remarque en ces mouvements est que celui de l’admiration a deux propriétés : la première, que la surprise le rend fort dès son commencement ; et l’autre, qu’il est égal en sa continuation, c’est-à-dire que les esprits continuent à se mouvoir d’une même teneur dans le cerveau. Desquelles propriétés la première se rencontre bien plus en l’orgueil et en la bassesse qu’en la générosité et en l’humilité vertueuse ; et au contraire, la dernière se remarque mieux en celles-ci qu’aux deux autres. Dont la raison est que le vice vient ordinairement de l’ignorance, et que ce sont ceux qui se connaissent le moins qui sont les plus sujets à s’enorgueillir et à s’humilier plus qu’ils ne doivent, à cause que tout ce qui leur arrive de nouveau les surprend et fait que, se l’attribuant à eux-mêmes, ils s’admirent, et qu’ils s’estiment ou se méprisent selon qu’ils jugent que ce qui leur arrive est à leur avantage ou n’y est pas. Mais, parce que souvent après une chose qui les a enorgueillis en survient une autre qui les humilie, le mouvement de leurs passions est variable. Au contraire, il n’y a rien en la générosité qui ne soit compatible avec l’humilité vertueuse, ni rien ailleurs qui les puisse changer, ce qui fait que leurs mouvements sont fermes, constants et toujours fort semblables à eux-mêmes. Mais ils ne viennent pas tant de surprise, parce que ceux qui s’estiment en cette façon connaissent assez quelles sont les causes qui font qu’ils s’estiment. Toutefois on peut dire que ces causes sont si merveilleuses (à savoir, la puissance d’user de son libre arbitre, qui fait qu’on se prise soi-même, et les infirmités du sujet en qui est cette puissance, qui font qu’on ne s’estime pas trop) qu’à toutes les fois qu’on se les représente de nouveau, elles donnent toujours une nouvelle admiration.
 
@@ -1085,7 +1085,7 @@ Article CLXVI
 
 De la sécurité et du désespoir.
 
-<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Et jamais l’une de ces passions n’accompagne le désir qu’elle ne laisse quelque place à l’autre. Car, lorsque l’espérance est si forte qu’elle chasse entièrement la crainte, elle change de nature et se nomme sécurité ou assurance. Et, quand on est assuré que ce qu’on désire adviendra, bien qu’on continue à vouloir qu’il advienne, on cesse néanmoins d’être agité de la passion du désir, qui en faisait rechercher l’événement avec inquiétude. Tout de même, lorsque la crainte est si extrême qu’elle ôte tout lieu à l’espérance, elle se convertit en désespoir ; et ce désespoir, représentant la chose comme impossible, éteint entièrement le désir, lequel ne se porte qu’aux choses possibles.
 
@@ -1147,7 +1147,7 @@ Article CLXXVI
 
 De l’usage de la peur.
 
-<span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Pour ce qui est de la peur ou de l’épouvante, je ne vois point qu’elle puisse jamais être louable ni utile ; aussi n’est-ce pas une passion particulière, c’est seulement un excès de lâcheté, d’étonnement et de crainte, lequel est toujours vicieux, ainsi que la hardiesse est un excès de courage qui est toujours bon, pourvu que la fin qu’on se propose soit bonne. Et parce que la principale cause de la peur est la surprise, il n’y a rien de meilleur pour s’en exempter que d’user de préméditation et de se préparer à tous les événements, la crainte desquels la peut causer.
 
@@ -1215,7 +1215,7 @@ Article CLXXXVII
 
 Comment les plus généreux sont touchés de cette passion.
 
-<span class="atom-split" data-atom="024" data-title="Parte 24" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Parte 24" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Mais néanmoins ceux qui sont les plus généreux et qui ont l’esprit le plus fort, en sorte qu’ils ne craignent aucun mal pour eux et se tiennent au-delà du pouvoir de la fortune, ne sont pas exempts de compassion lorsqu’ils voient l’infirmité des autres hommes et qu’ils entendent leurs plaintes. Car c’est une partie de la générosité que d’avoir de la bonne volonté pour un chacun. Mais la tristesse de cette pitié n’est pas amère ; et, comme celle que causent les actions funestes qu’on voit représenter sur un théâtre, elle est plus dans l’extérieur et dans le sens que dans l’intérieur de l’âme, laquelle a cependant la satisfaction de penser qu’elle fait ce qui est de son devoir, en ce qu’elle compatit avec des affligés. Et il y a en cela de la différence, qu’au lieu que le vulgaire a compassion de ceux qui se plaignent, à cause qu’il pense que les maux qu’ils souffrent sont fort fâcheux, le principal objet de la pitié des plus grands hommes est la faiblesse de ceux qu’ils voient se plaindre, à cause qu’ils n’estiment point qu’aucun accident qui puisse arriver soit un si grand mal qu’est la lâcheté de ceux qui ne le peuvent souffrir avec constance ; et, bien qu’ils haïssent les vices, ils ne haïssent point pour cela ceux qu’ils y voient sujets, ils ont seulement pour eux de la pitié.
 
@@ -1283,7 +1283,7 @@ Article CXCVIII
 
 De son usage.
 
-<span class="atom-split" data-atom="025" data-title="Parte 25" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Parte 25" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Au reste, l’indignation se remarque bien plus en ceux qui veulent paraître vertueux qu’en ceux qui le sont véritablement. Car, bien que ceux qui aiment la vertu ne puissent voir sans quelque aversion les vices des autres, ils ne se passionnent que contre les plus grands et extraordinaires. C’est être difficile et chagrin que d’avoir beaucoup d’indignation pour des choses de peu d’importance ; c’est être injuste que d’en avoir pour celles qui ne sont point blâmables, et c’est être impertinent et absurde de ne restreindre pas cette passion aux actions des hommes, et de l’étendre jusqu’aux œuvres de Dieu ou de la nature, ainsi que font ceux qui, n’étant jamais contents de leur condition ni de leur fortune, osent trouver à redire en la conduite du monde et aux secrets de la Providence.
 
@@ -1333,7 +1333,7 @@ Article CCVI
 
 De l’usage de ces deux passions.
 
-<span class="atom-split" data-atom="026" data-title="Parte 26" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Parte 26" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Or la gloire et la honte ont même usage en ce qu’elles nous incitent à la vertu, l’une par l’espérance, l’autre par la crainte. Il est seulement besoin d’instruire son jugement touchant ce qui est véritablement digne de blâme ou de louange, afin de n’être pas honteux de bien faire, et ne tirer point de vanité de ses vices, ainsi qu’il arrive à plusieurs. Mais il n’est pas bon de se dépouiller entièrement de ces passions, ainsi que faisaient autrefois les cyniques. Car, encore que le peuple juge très mal, toutefois, à cause que nous ne pouvons vivre sans lui, et qu’il nous importe d’en être estimés, nous devons souvent suivre ses opinions plutôt que les nôtres, touchant l’extérieur de nos actions.
 

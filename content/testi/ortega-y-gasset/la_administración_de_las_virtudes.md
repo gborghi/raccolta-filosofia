@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_administración_de_las_virtudes" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La administración de las virtudes" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La administración de las virtudes" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Durante estos últimos años solían resolverse todas las graves diferencias nacionales con la palabra energía. En vano protestábamos algunos moviendo la sospecha de que acaso no fuera la energía una idea política. Fue menester que el ciclo dialéctico que vaticinábamos a ese principio de mal gobierno se cumpliera efectivamente; fue menester que aquella energía —la cual no era sino una pasión con que quisieron cubrir su pobreza unos cuantos cerebros sencillos— levantara en toda España una enorme pasión contradictoria y en aquella [materia](/positions/materialism) enemiga, pero homogénea, se disolviera rápidamente. Si algún lector ocioso hubiera, por acaso, seguido con alguna atención mis escritos, recordaría que en un artículo de 12 de agosto de 1908, titulado «Disciplina, jefe, energía», se hallaba prevista la historia de los liberales y conservadores hasta hoy. Valga esto, no como opción a un puesto en el escalafón de los profetas, sino como prueba somerísima de que nuestras andanzas políticas son cosa elemental y de ninguna complicación, cuyo íntimo resorte se hace por sí mismo patente a quien opere con una relativa franqueza.
 

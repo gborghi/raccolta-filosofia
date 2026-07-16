@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/marx/theses_on_feuerbach_1845" data-philosopher="Marx"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="THESES ON FEUERBACH, 1845" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="THESES ON FEUERBACH, 1845" data-chapter="" data-kind="intro" data-srclang="en"></span>
 
 Translated by Carl Manchester
 

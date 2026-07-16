@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/a_los_electores_de_madrid" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¡A los electores de Madrid!" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="¡A los electores de Madrid!" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Leed estas palabras que os dirigen en vísperas de una importante jornada civil tres convecinos vuestros:
 

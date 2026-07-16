@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_ex_presidente_escribe" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El ex presidente escribe…" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El ex presidente escribe…" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 A don Antonio Maura, como al Jehová castelarino, el trueno le acompaña. Ayer, el gran balear ha tronado sobre Madrid. Nos referimos al manifiesto que la vegada última encontraron los lectores en nuestras columnas. Se trata, pues, de una tronada manuscrita, pero de indefectible retumbancia. Con ella sobra para corrompernos la mansedumbre de otoño.
 
@@ -62,7 +62,7 @@ De todos modos, nuestra cortesía hacia la blanca cabeza del señor Maura nos mu
 
 En primer lugar, hallamos que es un formal llamamiento a la opinión para una política. Ya esto nos sorprende. Bien pocos meses hace, el señor Maura ha acudido a ella en la forma más solemne, más ejecutiva y más favorable en que un hombre de Estado puede solicitar el criterio nacional, a saber, con el decreto de disolución en la mano. Y ha visto el señor Maura que su voz no tuvo entonces la [fortuna](/concepts/fortune) de atraer núcleos cuantiosos de la sociedad española. ¿No es demasiada insistencia repetir tan pronto la misma persona el mismo ademán? Da lugar para creer que el señor Maura se siente demasiado solo, que le acongoja percibir en su derredor un vacío ilimitado.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 ¿Y para qué llama a la gente? Ello no es dudoso: para derribar al presente Gobierno. Confesamos al señor Maura que si nos dejásemos llevar del primer movimiento, correríamos delanteros, con picos y barrenos, a fin de lograrlo hoy antes que mañana. Este Gobierno de empedernido caciquismo, este Gobierno solidario del de agosto de 1917, este Gobierno que nada sustancial podrá hacer bien, y en cambio, aprovecha las horas, los minutos, para reconstruir sus infectas trincheras de vieja política en Granada, en Córdoba, en Málaga, en Palencia, en Galicia, no despierta en nuestros corazones afinidad ni dilección algunas. Pero un segundo movimiento de reflexión patriótica, de serenidad y responsabilidad, nos hace ver que tiene una misión relativa que cumplir: hacer un presupuesto, ni bueno ni mediano, pero uno, que será siempre mejor que ninguno. Sin este mal presupuesto no habrá el año próximo otro aceptable, ni habrá gobernación posible ni tranquilidad pública.
 

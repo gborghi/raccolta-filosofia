@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_opiniones_particulares_de_los_hombres_contra_la_fe_de_su_tiempo_son_inauténticas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las opiniones particulares de los hombres contra la fe de su tiempo son inauténticas" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Las opiniones particulares de los hombres contra la fe de su tiempo son inauténticas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, diciembre de 1934
 

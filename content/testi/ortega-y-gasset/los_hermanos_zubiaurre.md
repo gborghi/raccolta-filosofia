@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_hermanos_zubiaurre" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los hermanos Zubiaurre" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los hermanos Zubiaurre" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los hermanos Zubiaurre son vascos, sordomudos y pintores[92]. Esto quiere decir que hay en ellos tres potencias de mutismo. Ser vasco es, sin más, una renuncia nativa a la expresión verbal. El misterioso pueblo vascongado posee un idioma elemental que apenas sirve para nombrar las cosas materiales, y es por completo inepto para expresar la fluencia fugitiva de la vida interior. Por otra parte, ¿no es la pintura complacencia en la mudez de las cosas y una divina organización de la taciturnidad?
 

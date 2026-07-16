@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/les_prisonniers_de_guerre" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LES PRISONNIERS DE GUERRE" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LES PRISONNIERS DE GUERRE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Personnages
 
@@ -302,7 +302,7 @@ GOTERNITZ.
 
 Il me semble que ceci commence à durer trop pour un badinage. Vous voyez, monsieur, que le seigneur Macker est inquiété de votre présence ; c’est un effet qu’un cavalier de votre figure peut produire naturellement sur l’époux le plus raisonnable.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 DORANTE.
 
@@ -550,7 +550,7 @@ Mon cher Dorante ! l’expression est galante, vraiment.
 
 DORANTE.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 « Que j’ai de joie, mon cher Dorante, de pouvoir terminer vos peines !... »
 
@@ -776,7 +776,7 @@ Enfin je tiens que c’est une nation avec laquelle il est mieux de toute façon
 
 FRÉDÉRICH.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Ah ! quittez, mon père, ces injustes préjugés. Que n’avez-vous connu cet aimable peuple que vous haïssez, et qui n’aurait peut-être aucun défaut s’il avait moins de vertus ! Je l’ai vue de près cette heureuse et brillante nation, je l’ai vue paisible au milieu de la guerre, cultivant les sciences et les beaux-arts, et livrée à cette charmante douceur de caractère qui en tout temps lui fait recevoir également bien tous les peuples du monde, et rend la France en quelque manière la patrie commune du genre-humain. Tous les hommes sont les frères des Français. La guerre anime leur valeur sans exciter leur colère. Une brutale fureur ne leur fait point haïr leurs ennemis, un sot orgueil ne les leur fait point mépriser. Ils les combattent noblement, sans calomnier leur conduite, sans outrager leur gloire ; et tandis que nous leur faisons la guerre en furieux, ils se contentent de nous la faire en héros.
 

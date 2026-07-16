@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prisioneros_de_los_suyos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prisioneros de los suyos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Prisioneros de los suyos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Optimistas somos los que creemos que la vida pública de España puede ser, podría ya haber sido a estas horas, incomparablemente mejor de lo que es. En cambio, es pesimista quien acepte como cosa irremediable el cariz que durante estos meses se ha dado a la República. Porque éste es evidentemente deplorable, y aceptarlo supone triste y desolada resignación. Yo no me resigno, y sospecho que tampoco se van a resignar los jóvenes. Pensar que éstos van a soportar mucho tiempo el ambiente de estulticia que asfixia la existencia actual de los españoles es no haberse asomado medio segundo al alma secreta, aún muda, de la nueva generación.
 

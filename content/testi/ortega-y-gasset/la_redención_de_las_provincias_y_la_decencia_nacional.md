@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_redención_de_las_provincias_y_la_decencia_nacional" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LA REDENCIÓN DE LAS PROVINCIAS Y LA DECENCIA NACIONAL" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LA REDENCIÓN DE LAS PROVINCIAS Y LA DECENCIA NACIONAL" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La primera parte de este libro recoge una serie de artículos escritos y publicados cuando con más brío dictaba la primera Dictadura. Pesaba sobre España un silencio violento. Por lo mismo, los oídos buscaban en el aire el nutrimento de alguna palabra. Yo quise aprovechar este estado de la atención pública para hacer lo que entonces cabía hacer: deslizar en el calderón dictatorial una voz tenue de pedagogo político. Con o sin Dictadura, había —hay aún— que hacerlo. El español de esta hora, sin exceptuar el más [culto](/concepts/religion) —sin más excepciones que las excepciones—, vive de un sistema de ideas políticas demasiado extemporáneas. De los monárquicos no hay que decir; pero de los republicanos hay que decirlo.
 

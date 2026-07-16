@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/buena_ocasión_de_dar_un_paso_franco_hacia_otra_españa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Buena ocasión de dar un paso franco hacia otra España" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Buena ocasión de dar un paso franco hacia otra España" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Se aguarda con emoción la llegada de los parlamentarios catalanes al Congreso de los Diputados. Desde que el jefe de los catalanistas [dio](/axes/god) a sus huestes la voz de «rompan filas» y las huestes se retiraron del Parlamento, han ocurrido muchas cosas, y algunas de ellas tan graves, que determinan un intenso movimiento de expectación ante los nuevos horizontes de la política española.
 

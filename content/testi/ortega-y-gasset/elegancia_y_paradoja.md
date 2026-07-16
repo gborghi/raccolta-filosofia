@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/elegancia_y_paradoja" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Elegancia y paradoja" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Elegancia y paradoja" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Las exploraciones de Stefansson han sido el último gran acontecimiento geográfico. Cuando parecían agotadas las experiencias en este tipo de viajes, Stefansson surge transformando por completo los usos y los dogmas.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_adhesión_al_gobierno" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La adhesión al Gobierno" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La adhesión al Gobierno" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Y vamos al asunto de hoy. Esta minoría está convencida, como todos los demás grupos de la Cámara, declárenlo o no, que es ese Gobierno el único posible en esta fecha que transcurre. Entendemos por ese Gobierno, no tanto las personas como la combinación de fuerzas políticas que lo forman. Si esto es así, ¿urge decir algo más? La cosa está resuelta. Sólo, tal vez, tendríamos que añadir que esa adhesión nuestra al Gobierno no implica entusiasmo suficiente por la figura general de su política; al contrario, significa el deseo de que, continuando ese Gobierno, modifique su política. Ya tiene aquí unas Cortes que autorizan y cimentan el ejercicio de su función. Ya tiene aquí unos hombres resueltos a constituir la ley del país. Puede, pues, vacar plenamente a gobernar. El renacimiento de su poder, que ahora dentro de poco va a recibir, ungido por nuestro sufragio soberano, se le ofrece como una ocasión magnífica para corregir su política.
 

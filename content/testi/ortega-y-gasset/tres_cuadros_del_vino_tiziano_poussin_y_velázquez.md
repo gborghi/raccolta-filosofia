@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/tres_cuadros_del_vino_tiziano_poussin_y_velázquez" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Tres cuadros del vino (Tiziano, Poussin y Velázquez)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Tres cuadros del vino (Tiziano, Poussin y Velázquez)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -66,7 +66,7 @@ Y entonces unas manos espirituales se alzan en nuestro espíritu y se agarran al
 
 Uno de estos momentos ha pintado Tiziano. Estas gentes viven en una ciudad y allí padecen los tormentos de la existencia concreta: tienen ambiciones insaciables, sufren privaciones, desconfían mutuamente de sí, les acongoja el sentimiento de la propia limitación y se miran con ojos torvos los unos a los otros. Pero un día van al campo: es blanda la brisa, el sol dora el polvillo atmosférico y pone azules sombras bajo las ramas frondosas. En esto alguien trae unas ánforas y unos bocales y unas jarritas de plata y oro labradas delicadamente. Dentro de estos recipientes brilla el vino. Beben. La tensión histérica de los ánimos cede: las pupilas se van poniendo incandescentes, las fantasías se incorporan en las celdillas cerebrales. La verdad es que la vida no es de tan adversa condición, que los cuerpos humanos son bellos sobre un fondo campestre de oro y azul, que las almas son nobles, agradecidas y aptas para comprendernos y replicarnos. Beben. Parece como si dedos invisibles tejieran nuestro ser con la tierra, el mar, el aire, el cielo; como si el mundo más bien fuera un tapiz y nosotros figuras de ese tapiz y los hilos que forman nuestro pecho siguieran más allá de éste y fueran los mismos que hacen la [materia](/positions/materialism) de aquella nube radiante. Beben. ¿Qué tiempo llevan aquí?
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Vagamente recuerdan que hay una ciudad y que hay dolores y que hay cambios, desapariciones y fenecimientos. Les parece que llevan aquí siglos y que eternamente permanecerán aquí y que eternamente un rayo solar herirá el anca de este jarro argentino sembrador de destellos. Como un objeto de elasticidad ilimitada, el momento se ha ido estirando y alcanza de un lado y de otro los vagos confines del tiempo. Esta voluntad de eterna perduración que yace en el fondo de toda hora de placer ha servido a Nietzsche para distinguir los valores verdaderos, las nuevas tablas de lo bueno y lo malo. Así dice en los famosos versos:
 
@@ -118,7 +118,7 @@ La bacanal desciende a borrachera. Baco es una mixtificación. No hay más que l
 
 El estado de espíritu que esto revela, la burla de toda mitología que, como es sabido, aparece a lo largo de la obra de Velázquez —recuérdese Mercurio y Argos, El dios Marte—, tiene, sin duda, grandeza. Es una valiente aceptación del materialismo, un desafío al cosmos, un soberbio malgré tout. Pero, ¿es justificado? ¿No es el realismo una limitación?
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Porque, vengamos a cuentas: ¿qué cosas son los dioses? ¿Qué han simbolizado los hombres en los dioses? El tema es grave y difícil. Forzándolo podíamos decir: los dioses son el sentido superior que las cosas poseen si se les mira en conexión unas con otras. Así, Marte es lo mejor de la guerra: la gallardía, la entereza, la reciedad del cuerpo. Así, Venus es lo mejor de la expansión sexual: lo deseable, lo bello, lo suave y blando, el eterno femenino. Baco es lo mejor de la sobreexcitación fisiológica; el ímpetu, el amor a los campos y a los animales, la profunda hermandad de todos los seres vivos, los bienhadados placeres que a la mísera humanidad ofrece la fantasía. Los dioses son lo mejor de nosotros mismos, que, una vez aislado de lo vulgar y peor, toma una apariencia personal.
 

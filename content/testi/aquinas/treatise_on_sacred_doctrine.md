@@ -20,12 +20,12 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_sacred_doctrine" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on Sacred Doctrine" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on Sacred Doctrine" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 FIRST PART (FP: QQ 1-119)
 TREATISE ON SACRED DOCTRINE (Q[1])
 
-<span class="atom-split" data-atom="002" data-title="THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)" data-chapter="THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)" data-chapter="THE NATURE AND EXTENT OF SACRED DOCTRINE (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 To place our purpose within proper limits, we first endeavor to investigate the nature and extent
 of this sacred doctrine. Concerning this there are ten points of inquiry:
@@ -40,7 +40,7 @@ of this sacred doctrine. Concerning this there are ten points of inquiry:
 (9) Whether it rightly employs metaphors and similes?
 (10) Whether the Sacred [Scripture](/concepts/revelation) of this doctrine may be expounded in different senses?
 
-<span class="atom-split" data-atom="003" data-title="Whether, besides philosophy, any further doctrine is required?" data-chapter="Whether, besides philosophy, any further doctrine is required?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether, besides philosophy, any further doctrine is required?" data-chapter="Whether, besides philosophy, any further doctrine is required?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that, besides philosophical science, we have no need of any further
 knowledge. For man should not seek to know what is above reason: "Seek not the things that are
@@ -87,7 +87,7 @@ natural reason, may not also be taught us by another science so far as they fall
 Hence theology included in sacred doctrine differs in kind from that theology which is part of
 philosophy.
 
-<span class="atom-split" data-atom="004" data-title="Whether sacred doctrine is a science?" data-chapter="Whether sacred doctrine is a science?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether sacred doctrine is a science?" data-chapter="Whether sacred doctrine is a science?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that sacred doctrine is not a science. For every science proceeds from
 self-evident principles. But sacred doctrine proceeds from articles of faith which are not self-evident,
@@ -120,7 +120,7 @@ concerned with them principally, but they are introduced rather both as examples
 in our lives (as in moral sciences) and in order to establish the authority of those men through whom
 the divine [revelation](/concepts/revelation), on which this sacred scripture or doctrine is based, has come down to us.
 
-<span class="atom-split" data-atom="005" data-title="Whether sacred doctrine is one science?" data-chapter="Whether sacred doctrine is one science?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether sacred doctrine is one science?" data-chapter="Whether sacred doctrine is one science?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that sacred doctrine is not one science; for according to the Philosopher
 (Poster. i) "that science is one which treats only of one class of subjects." But the creator and the
@@ -156,7 +156,7 @@ science under one aspect precisely so far as they can be included in revelation.
 sacred doctrine bears, as it were, the stamp of the divine science which is one and simple, yet
 extends to everything.
 
-<span class="atom-split" data-atom="006" data-title="Whether sacred doctrine is a practical science?" data-chapter="Whether sacred doctrine is a practical science?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether sacred doctrine is a practical science?" data-chapter="Whether sacred doctrine is a practical science?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that sacred doctrine is a practical science; for a practical science is that
 which ends in action according to the Philosopher (Metaph. ii). But sacred doctrine is ordained to
@@ -180,7 +180,7 @@ because it is more concerned with divine things than with human acts; though it 
 these latter, inasmuch as man is ordained by them to the perfect knowledge of God in which consists
 eternal bliss. This is a sufficient answer to the Objections.
 
-<span class="atom-split" data-atom="007" data-title="Whether sacred doctrine is nobler than other sciences?" data-chapter="Whether sacred doctrine is nobler than other sciences?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether sacred doctrine is nobler than other sciences?" data-chapter="Whether sacred doctrine is nobler than other sciences?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that sacred doctrine is not nobler than other sciences; for the nobility of
 a science depends on the certitude it establishes. But other sciences, the principles of which cannot
@@ -228,7 +228,7 @@ to the defect of our intelligence, which is more easily led by what is known thr
 (from which proceed the other sciences) to that which is above reason, such as are the teachings
 of this science.
 
-<span class="atom-split" data-atom="008" data-title="Whether this doctrine is the same as wisdom?" data-chapter="Whether this doctrine is the same as wisdom?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether this doctrine is the same as wisdom?" data-chapter="Whether this doctrine is the same as wisdom?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this doctrine is not the same as wisdom. For no doctrine which
 borrows its principles is worthy of the name of wisdom; seeing that the wise man directs, and is
@@ -283,7 +283,7 @@ which is set down among the gifts of the Holy Ghost: "The spiritual man judgeth 
 experience of divine things." The second manner of judging belongs to this doctrine which is
 acquired by study, though its principles are obtained by revelation.
 
-<span class="atom-split" data-atom="009" data-title="Whether God is the object of this science?" data-chapter="Whether God is the object of this science?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether God is the object of this science?" data-chapter="Whether God is the object of this science?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that God is not the object of this science. For in every science, the nature
 of its object is presupposed. But this science cannot presuppose the essence of God, for Damascene
@@ -323,7 +323,7 @@ in place of a definition of the cause.
 Reply to Objection 2: Whatever other conclusions are reached in this sacred science are
 comprehended under God, not as parts or species or accidents but as in some way related to Him.
 
-<span class="atom-split" data-atom="010" data-title="Whether sacred doctrine is a matter of argument?" data-chapter="Whether sacred doctrine is a matter of argument?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether sacred doctrine is a matter of argument?" data-chapter="Whether sacred doctrine is a matter of argument?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems this doctrine is not a matter of argument. For Ambrose says (De Fide 1):
 "Put arguments aside where faith is sought." But in this doctrine, faith especially is sought: "But
@@ -383,7 +383,7 @@ have I learned to hold in such honor as to believe their authors have not erred 
 them. But other authors I so read as not to deem everything in their works to be true, merely on
 account of their having so thought and written, whatever may have been their holiness and learning."
 
-<span class="atom-split" data-atom="011" data-title="Whether Holy Scripture should use metaphors?" data-chapter="Whether Holy Scripture should use metaphors?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether Holy Scripture should use metaphors?" data-chapter="Whether Holy Scripture should use metaphors?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Holy [Scripture](/concepts/revelation) should not use metaphors. For that which is proper
 to the lowest science seems not to befit this science, which holds the highest place of all. But to
@@ -438,7 +438,7 @@ from things farthest away from God form within us a truer estimate that God is a
 we may say or think of Him. Thirdly, because thereby divine truths are the better hidden from the
 unworthy.
 
-<span class="atom-split" data-atom="012" data-title="Whether in Holy Scripture a word may have several senses?" data-chapter="Whether in Holy Scripture a word may have several senses?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether in Holy Scripture a word may have several senses?" data-chapter="Whether in Holy Scripture a word may have several senses?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that in Holy Writ a word cannot have several senses, historical or literal,
 allegorical, tropological or moral, and anagogical. For many different senses in one text produce

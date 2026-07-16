@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/guerra_con_cuartel" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Guerra con cuartel" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Guerra con cuartel" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Yo no puedo decir ahora si proponiendo al pueblo español la elección entre hacer la guerra de Melilla o no hacerla, éste prefiriera hacerla. Sólo puedo decir que no se le ha otorgado el derecho de elección. En otros países, a las campañas bélicas de este tipo suele preceder una doble preparación, de que sólo el gobierno puede encargarse: de un lado la previsión técnica y económica, merced a las cuales la guerra se inicie con brillante seguridad y prosiga con abundancia. De otro la organización del espíritu público. La masa nacional no es responsable de la lentitud con que se entera de las cosas ni de la morosidad en sus decisiones. La conciencia difusa de las muchedumbres, el alma popular piensa, siente y quiere más despacio que el individuo; como los bueyes de pies corvos, camina paso a paso, lentamente arando su surco sobre la historia.
 
@@ -52,7 +52,7 @@ Aquellos hombres de prez pensaban también —¿quién podrá negarlo?— en el 
 
 He aquí lo que no me parece lícito resucitar a la hora presente. Bien que movamos guerra a los rifeños de cabeza puntiaguda. Parece ser que esta guerra es útil, parece que es necesaria. Eso dicen. Yo no lo sé. Hagamos pues, la guerra. Pero evitemos la vieja mise en scène sentimental: los hombres de Europa sonreirían malignamente. No saquemos, por Dios, la hostilidad teológica, no pretendamos reproducir la opinión bárbara que sobre el islamismo tenían los cruzados del siglo XI, los calatravos del siglo XII.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Existe una moralidad moderna: no es lícito insertar en ella trozos de la ética medioeval. Las creencias religiosas que en otro tiempo eran santas sólo para sus fieles lo son hoy para todos. La discrepancia en la fe no puede servir jamás de pretexto para encarecer la hostilidad.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/le_petit_savoyard_ou_la_vie_de_claude_noyer" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LE PETIT SAVOYARD ou LA VIE DE CLAUDE NOYER" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="LE PETIT SAVOYARD ou LA VIE DE CLAUDE NOYER" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Je suis né dans les montagnes de Savoie. Mon père était un bon paysan, assez riche pour vivre commodément de son état, trop pauvre pour être exposé aux tourments de la convoitise, car on ne saurait désirer bien ardemment ce qu'on juge impossible à acquérir. Heureux non seulement d'avoir le nécessaire, mais surtout de ne l'avoir que par son travail qui l'empêchait de songer au superflu.
 
@@ -34,7 +34,7 @@ J'avais une sœur plus âgée que moi de quelques années, et qui, à peine hors
 
 Encore quelques lignes et nous voilà aux amours d'une paysanne et d'un paysan. Mais je ne trompe personne, et dès mon titre on a dû s'y attendre. Lecteurs délicats, gens du beau monde, fermez mon livre, il n'est pas écrit pour vous, et je vous avertis que je vais parler un langage que vous vous piquez de ne point entendre et que je me pique encore plus de vous rendre inintelligible[31].
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Le jeune d'Argentières, sans société, sans dissipation, livré à la solitude de son château, à la pédanterie de son gouverneur et aux vieilles histoires de son père, prit véritablement du goût pour Claire, de ce goût impétueux, sans délicatesse et sans retenue, à courir après la possession sans même songer à plaire, et tel, en un mot, qu'un jeune homme de son état pouvait en prendre pour la fille d'un paysan. N'ayant donc rien pu obtenir de gré, il résolut d'user de surprise à la première occasion. Il avait remarqué que ma sœur allait tous les matins porter du lait au château. Il fallait pour cela traverser un coin du parc très propre à recéler des larcins amoureux. Ce fut là qu'un jour il vint l'attendre de bonne heure, bien résolu de tirer du tête à tête un meilleur parti qu'il n'avait fait de toutes ses agaceries ; il courut à elle dès qu'il l'aperçut, et profitant de l'embarras où la mettait pour sa propre défense la conservation de son pot au lait, il [causa](/concepts/cause) bien du désordre dans son ajustement avant qu'elle eût trouvé le moyen de se garantir. Enfin, le danger augmentant et le jeune bomme gagnant toujours du terrain malgré ses menaces réitérées, elle prit le parti de se faire une arme à elle-même de ce qui en servait à son adversaire, et lui couvrit le visage du vase et de tout le lait qu'il contenait. D'Argentières, inondé et même blessé, n'en devint que plus animé, mais Claire débarrassée de son obstacle se mit bientôt en état de l'être de son ennemi, et cet emporté, plus furieux d'une défense
 

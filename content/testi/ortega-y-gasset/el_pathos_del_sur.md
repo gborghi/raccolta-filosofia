@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_pathos_del_sur" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El pathos del sur" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El pathos del sur" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Gerardo Hauptmann ha hecho un viaje a Grecia y ha publicado sus impresiones en un pequeño libro que él llama Primavera griega. Leo en una página: «El Parthenón: fuerte, potente, sin pathos meridional, resuena al viento como un arpa o el mar».
 

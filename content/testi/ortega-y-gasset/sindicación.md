@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sindicación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sindicación" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sindicación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La «sindicación», por el contrario, cree mejor desentenderse de los instrumentos actuales de la democracia y no aspira a triunfar mediante las instituciones políticas. Teme no poder ganar nunca las elecciones, impurificadas, a su juicio, por la situación privilegiada de las clases burguesas. Espera más de la presión social directa que ejerza el obrero sobre el capital, atacando a la producción misma, y quiere preparar, desde luego, al obrero para regir mañana, por sí mismo, la producción. De aquí que se niegue a formar un «partido político obrero». En cambio, asocia los trabajadores de cada ramo en un sindicato que asesta sus golpes en ciertos momentos a la totalidad de una industria.
 

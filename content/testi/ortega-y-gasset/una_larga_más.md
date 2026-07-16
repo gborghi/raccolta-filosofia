@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/una_larga_más" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Una larga más?" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="¿Una larga más?" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Tres o cuatro docenas de ciudadanos —no creemos que el número sea mucho mayor— forcejean estos días para alzarse con la presa del Poder. En tanto, el resto de la nación vaca a sus labores y a sus placeres. La prerrogativa real se cierne enigmática sobre el porvenir y nadie sospecha a estas horas cuáles van a ser los destinos de España dentro de pocas horas o de pocos días. Esto de que el mañana de una gran nación sea cosa tan imprevisible y tan de azar que hayamos de decir como el mal pintor: «si sale con barbas, San Antón, y si no, la Purísima Concepción», da no poco que pensar acerca del progreso histórico.
 

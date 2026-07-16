@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/acerca_de_la_libertad_industrial" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Acerca de la libertad industrial" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Acerca de la libertad industrial" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En su editorial del jueves pone La Época algunos comentarios a lo que yo he escrito sobre la Real orden liberticida. Yo quisiera que estos comentarios me hubiesen parecido tan convincentes como me han parecido amables. El articulista de La Época ha malrotado un tesoro de habilidad que le envidio, para cubrir con un velo de dialéctica la gran fechoría del señor Dato. No puede menos, sin embargo, de darme en parte la razón. Pero yo aspiro a que me la otorgue íntegra. Tal aspiración no se nutre de una excesiva confianza en mis dotes de argumentador, sino de estos otros dos motivos: la sencillez del asunto y la seguridad en que estoy de que La Época, cuando descubre la verdad frente a sí, cambia de sitio y se pone junto a la verdad.
 

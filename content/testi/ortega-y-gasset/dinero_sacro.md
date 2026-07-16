@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/dinero_sacro" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Dinero sacro" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Dinero sacro" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, enero de 1926
 

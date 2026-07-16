@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/alma_del_purgatorio" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Alma del Purgatorio" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Alma del Purgatorio" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Gobernando el señor Dato —se dirá un día— llegó el corazón de España a dar el menor número de latidos por minuto. En estas horas únicas de la historia, que pasan vibrantes como hojas de espadas, la figura exangüe del presidente del Consejo va a quedar representando a nuestra raza. De la misma suerte que la fisonomía corporal del señor Dato parece dispuesta en cada instante a borrarse del mundo visible, a evaporarse y desaparecer, la voluntad colectiva parece próxima al desvanecimiento. Si no fuera por el hambre, eterna impulsora de la vida, no podríamos hallar del Pirineo a Calpe ni siquiera el germen de un deseo claro. Menos mal que ahora se empieza a querer pan.
 

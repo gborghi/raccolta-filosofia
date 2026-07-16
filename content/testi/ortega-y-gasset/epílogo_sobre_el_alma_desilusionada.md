@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/epílogo_sobre_el_alma_desilusionada" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Epílogo sobre el alma desilusionada" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Epílogo sobre el alma desilusionada" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El tema de este ensayo se reducía a intentar una definición del espíritu revolucionario y anunciar su fenecimiento en Europa. Pero he dicho al comienzo que ese espíritu es tan sólo un estadio de la órbita que recorre todo gran ciclo histórico. Le precede un alma racionalista, le sigue un alma mística, más exactamente, supersticiosa. Tal vez el lector sienta alguna curiosidad por conocer qué sea ese alma supersticiosa en que desemboca el período de las revoluciones. Pero acaece que no es posible hablar sobre el asunto de otro modo que largamente. Las épocas post-revolucionarias, tras una hora muy fugaz de aparente esplendor, son tiempo de decadencia. Y las decadencias, como los nacimientos, se envuelven históricamente en la tiniebla y el silencio. La historia practica un extraño pudor que le hace correr un velo piadoso sobre la imperfección de los comienzos y la fealdad de las declinaciones nacionales. Ello es que los hechos de la época «helenística» en Grecia, del medio y bajo Imperio en Roma, son mal conocidos por los historiadores y apenas sospechados por la generalidad de los cultos. No hay, pues, manera de poder referirse a ellos en forma de breve alusión.
 

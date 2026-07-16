@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_rey_de_españa_en_alemania" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El Rey de España en Alemania" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El Rey de España en Alemania" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Berlín 9
 

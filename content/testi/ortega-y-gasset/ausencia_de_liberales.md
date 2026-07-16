@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ausencia_de_liberales" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ausencia de liberales" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Ausencia de liberales" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pablo Iglesias, Castrovido, Domingo, Soriano han sido los únicos que han creído forzoso seguir hablando de este tema. Por ello merecen gratitud. Pero el haberse quedado solos en la arena estos hombres de tan radicales fisonomías, puede hacer pensar que su demanda es de aquéllas utópicas y problemáticas, que suelen ir tejidas en las banderas de los partidos extremos.
 

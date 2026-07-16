@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/no_ser_hombre_ejemplar" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="No ser hombre ejemplar" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="No ser hombre ejemplar" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En un libro mío —España invertebrada— he insinuado una doctrina sobre el origen de las sociedades que discrepa sobremanera de las usadas. Según ella, la sociedad humana sólo tiene semejanzas externas, inesenciales, con las llamadas «sociedades animales» de que el evolucionismo quería derivarla. La sociedad histórica es un fenómeno esencialmente diferente de grey, rebaño, tropel, bandada, hormiguero y colmena. Por otra parte, no es tampoco un desarrollo del grupo familiar. Este último, si se entiende con algún rigor, aparece con posterioridad a la sociedad y como una incubación interna a ella. Sería, pues, la sociedad un fenómeno irreductible y último. Esta convicción mueve a Aristóteles a hablar de un instinto político en el hombre. Pero no nos define claramente cuál sea la función de ese instinto. ¿Se trata de lo que vagamente llamamos tendencia a la sociabilidad, es decir, a la mera aproximación e informe convivencia? Esto no bastaría. No hay sociedad sin una estructura estable, aunque sea muy elemental. No hay sociedad si no existe en los miembros la conciencia de pertenecer a un grupo.
 
@@ -46,7 +46,7 @@ Esta propensión a dar importancia a las cosas que no la tienen es un síntoma i
 
 En vez de procurar aventajarse en alguna de las tareas importantes del superior repertorio humano, sumergiéndose en ella sin remilgos, el falso ejemplar tiene que comenzar por dar importancia a lo que no lo tiene, a fin de poder ser en algo ejemplar. Y como es más fácil no hacer que hacer, su heroísmo se compondrá, sobre todo, de renuncias y abstenciones. El falso ejemplar no es el santo, sino el «santón», y como éste, florece en los pueblos que sufren decadencia y se apartan de los grandes apetitos vitales. Dondequiera la plebe ha sentido mágico respeto hacia esos hombres extraños que se abstienen —los «santones». Las clases más robustas, en cambio, los han despreciado siempre y no preguntan nunca, para estimar a un hombre, qué es lo que no hace, sino al revés, qué hace.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 El hombre «ejemplar» tiene que compensar la futilidad de sus normas (negativas y referentes a cosas sin importancia) con un enorme rigor en seguirlas. De esta manera, al evitar toda excepción en su cumplimiento, adquiere su conducta cierta cómica grandeza. Irónicamente solía contar el padre de Pío Baroja, como una de sus hazañas, no haber visto nunca jamás un drama de Echegaray y haber estado solo en la Puerta del Sol. Cosas parecidas, sólo que en serio, constituyen la heroicidad habitual de los hombres «ejemplares», que vienen a ser la novela por entregas de la virtud.
 

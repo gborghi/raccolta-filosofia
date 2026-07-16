@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/pygmalion" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="PYGMALION" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="PYGMALION" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Il n'y a point là d'âme ni de vie ; ce n'est que de la pierre. Je ne ferai jamais rien de tout cela.
 
@@ -114,7 +114,7 @@ Tourments, voeux, désirs, rage, impuissance, amour terrible, amour funeste oh !
 
 (Avec un enthousiasme plus pathétique.)
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Et toi, [sublime](/concepts/sublime) essence qui te caches aux sens et te fais sentir aux cœurs, âme de l'univers, principe de toute existence, toi qui par l'amour donnes l'harmonie aux éléments, la vie à la matière, le sentiment aux corps, et la [forme](/positions/realism_of_ideas) à tous les êtres ; feu sacré, céleste Vénus, par qui tout se conserve et se reproduit sans cesse ; ah ! où est ton équilibre ? où est ta force expansive ? où est la loi de la nature dans le sentiment que j'éprouve ? où est ta chaleur vivifiante dans l'inanité[57] de mes vains désirs ? Tous tes feux sont concentrés dans mon cœur, et le froid de la mort reste sur ce marbre ; je péris par l'excès de vie qui lui manque. Hélas ! je n'attends point un prodige ; il existe ; il doit cesser ; l'ordre est troublé, la nature est outragée ; rends leur empire à ses lois, rétablis son cours bienfaisant, et verse également ta divine influence. Oui, deux êtres manquent à la plénitude des choses ; partage-leur cette ardeur dévorante qui consume l'un sans animer l'autre : c'est toi qui formas par ma main ces charmes et ces traits qui n'attendent que le sentiment et la vie ; donne-lui la moitié de la mienne, donne-lui tout, s'il le faut, il me suffira de vivre en elle. O toi qui daignes sourire aux hommages des mortels, ce qui ne sent rien ne t'honore pas ; étends ta gloire avec tes œuvres. Déesse de la beauté, épargne cet affront à la nature, qu'un si parfait modèle soit l'image de ce qui n'est pas.
 

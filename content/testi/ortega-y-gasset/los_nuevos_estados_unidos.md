@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_nuevos_estados_unidos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los «nuevos» Estados Unidos" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los «nuevos» Estados Unidos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En mis conferencias de Buenos Aires —1928— y luego en mi libro La rebelión de las masas, he insinuado que entre las causas de la depresión vital que Europa ha padecido durante estos años, la más curiosa de todas es una idea: la falsa idea de los Estados Unidos que dejó entrar en su mente. Pero esto requiere, para ser comprendido, una preparación.
 
@@ -34,7 +34,7 @@ El hombre es el único viviente que para vivir necesita darse razones de existir
 
 Supóngase un hombre que ha ejercitado un enorme esfuerzo para lograr la creación de algo. ¿De dónde ha manado ese esfuerzo? Evidentemente de la fe que tenía en el valor de ese algo y la convicción de que sólo mediante ese esfuerzo se podía conseguir. Pero he aquí que de pronto, a su vera, otro hombre logra crear otra cosa mejor aún y con una plenitud, con una sencillez y precisión de medios, sobre todo, con una facilidad y seguridad radicalmente superiores. No hay duda de que esta averiguación producirá completo desánimo en el primero. Con esfuerzo incomparablemente mayor, sólo ha obtenido un resultado incomparablemente inferior. Esto dejará en él la impresión de que no puede luchar más, que se ha equivocado y que aquel otro hombre pertenece a una especie cualitativamente distinta para el cual, desde luego, no existen las dificultades y problemas en que quedó enterrado su esfuerzo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Pues éste ha sido el estado espiritual de Europa durante unos años frente a los Estados Unidos. Creyó ver que un pueblo joven, sin necesidad de larga preparación, de angustias, de luchas, conseguía crear un tipo de vida nueva, dentro del cual quedaban eliminados casi todos los azares, fallas y lacras que los conocidos hasta ahora habían siempre arrastrado. Imagen tal disminuía automáticamente la idea heroica de sí mismo que durante siglos había mantenido al europeo en la brecha de las esforzadas creaciones. Tenía que perder fe en su obra y en sus propias cualidades. Seres de condición nativamente superior venían a implantar una vida nueva, cuyo nivel inferior se hallaba desde luego muy por encima de toda la historia humana antecedente. Era inevitable que Europa, comparando su realidad con esa imagen del norteamericano, se sintiese como un definitivo e irremediable pasado. Se vive, decía yo, de la idea que uno tiene de sí mismo, pero en ésta interviene siempre, más o menos, la idea que tengamos de los demás. Si de los demás tenemos una idea demasiado buena, cuanto somos o hacemos nosotros nos parecerá despreciable, y este desprecio reflejo, actuando hora tras hora sobre nosotros, acabará por aflojar nuestra tensión vital.
 

@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/pascal/thoughts_1670" data-philosopher="Pascal"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Thoughts (1670)" data-chapter="Charles K. Paul Translation, 1888" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Thoughts (1670)" data-chapter="Charles K. Paul Translation, 1888" data-kind="intro" data-srclang="en"></span>
 
 CONTENTS
 
@@ -124,7 +124,7 @@ The Cistercian Abbey of Port Royal des Champs was situated about eighteen miles 
 
 After the reform of Port Royal, and when the Society, however assailed and in danger, was at the height of its renown, the whole establishment consisted of two convents, the mother house of Port Royal des Champs, and one in Paris to which was attached a school for girls. To Port Royal des Champs, as to a spiritual centre, and to be under the guidance of the three great directors, who in succession ruled the abbey, M. de St. Cyran, M. Singlin, and M. de Saci, there came men and women, not under monastic vows, but living for a time the monastic or even the eremitical life. The women, for the most part, had rooms in the convent, the men built rooms for themselves hard by, or shared between them La Grange, a farm belonging to the abbey. It need scarcely be said that in so strict a community the sexes were wholly separate; a common [worship](/concepts/religion), and the confidence of the same confessor, together with similarity of views in religion, were the ties which bound together the whole society.
 
-<span class="atom-split" data-atom="002" data-title="Charles K. Paul Translation, 1888 (2/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Charles K. Paul Translation, 1888 (2/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 When Pascal formally joined Port Royal, the Abbey and all that was attached to it greatly needed aid from without. A Bull in condemnation of Jansen had been gained from the Pope, and a Formulary, minimising its effect as far as possible, was drawn up by the General Assembly in France, which was ultimately accepted by Port Royal itself. But if the Port Royalists minimized the defeat, and, with great intellectual dexterity, showed that the condemned propositions were not in precise terms what they had held, and were not in Jansen’s book, their adversaries exaggerated the victory. A confessor in Paris refused absolution to a parishioner because he had a Jansenist living in his house, and had sent his grand-daughter to school at Port Royal. Antoine [Arnauld](/schools/jansenism), known as Le Grand Arnauld, brother of La Mère Angélique, himself in danger of condemnation by the Sorbonne, drew up a statement of the case intended to instruct the public on the points in dispute. On reading this to the Port Royal solitaries before printing it, he saw that it would not do, and turning to Pascal, who had then been a year under M. Singlin’s direction, he suggested to him as a younger man with a lighter pen to see what he could do. The next day Pascal produced the first of the “Provincial Letters,” or to give it the correct title, “A Letter written to a Provincial by one of his friends.” In these Letters Pascal formed his true style, and took rank at once among the great French writers. They contributed largely to turn the scale of feeling against his adversaries; they, and an occurrence in which he saw the visible finger of God, saved Port Royal for a time. But the history of the “Provincial Letters” must be read elsewhere, as must also in its fulness the [miracle](/concepts/miracle) of the Holy Thorn, on which a few words are needed.
 
@@ -154,7 +154,7 @@ This year of Grace 1654,
 
 Monday, November 23rd, day of Saint Clement, pope
 
-<span class="atom-split" data-atom="003" data-title="Charles K. Paul Translation, 1888 (3/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Charles K. Paul Translation, 1888 (3/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 and martyr, and others in the martyrology,
 
@@ -246,7 +246,7 @@ Whence come such feelings? What delight can we find in the expectation of nothin
 
 “I know not who has sent me into the world, nor what the world is, nor what I myself am; I am terribly ignorant of every thing; I know not what my body is, nor my senses, nor my soul, nor even that part of me which thinks what I say, which reflects on all and on itself, yet is as ignorant of itself as of all beside. I see those dreadful spaces of the universe which close me in, and I find myself fixed in one corner of this vast expanse, without knowing why I am set in this place rather than elsewhere, nor why this moment of time given me for life is assigned to this point rather than another of the whole Eternity which was before me or which shall be after me. I see nothing but infinities on every side, which close me round as an atom, and as a shadow which endures but for an instant and returns no more. I know only that I must shortly die, but what I know the least is this very death which I cannot avoid.
 
-<span class="atom-split" data-atom="004" data-title="Charles K. Paul Translation, 1888 (4/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Charles K. Paul Translation, 1888 (4/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 “As I know not whence I come, so I know not whither I go; only this I know, that on departing this world, I shall either fall for ever into nothingness, or into the hands of an offended God, without knowing which of these two conditions shall eternally be my lot. Such is my state, full of weakness and uncertainty; from all which I conclude that I ought to pass all the days of my life without thought of searching for what must happen to me. Perhaps I might find some ray of light in my doubts, but I will not take the trouble, nor stir a foot to seek it; and after treating with scorn those who are troubled with this care, I will go without foresight and without fear to make trial of the grand event, and allow myself to be led softly on to death, uncertain of the [eternity](/positions/eternity) of my future condition.”
 
@@ -270,7 +270,7 @@ Among all their errors this doubtless is the one which most proves them to be fo
 
 For it is not to be doubted that this life endures but for an instant, that [the state](/concepts/state) of death is eternal, whatever may be its nature, and that thus all our actions and all our thoughts must take such different courses according to the state of that eternity, as to render it impossible to take a single step with sense and judgment, save in view of that point which ought to be our end and aim.
 
-<span class="atom-split" data-atom="005" data-title="Charles K. Paul Translation, 1888 (5/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Charles K. Paul Translation, 1888 (5/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 Nothing is more clear than this, and therefore by all principles of reason the conduct of men is most unreasonable if they do not alter their course. Hence we may judge concerning those who live without thinking of the ultimate goal of life, who allow themselves to be guided by their inclinations and their pleasures without thought or disquiet, and, as if they could annihilate [eternity](/positions/eternity) by turning their minds from it, consider only how they may make themselves happy for the moment.
 
@@ -310,7 +310,7 @@ Whoso takes this survey of himself will be terrified at the thought that he is u
 
 For after all what is man in nature? A nothing in regard to the infinite, a whole in regard to nothing, a mean between nothing and the whole; infinitely removed from understanding either extreme. The end of things and their beginnings are invincibly hidden from him in impenetrable secrecy, he is equally incapable of seeing the nothing whence he was taken, and the infinite in which he is engulfed.
 
-<span class="atom-split" data-atom="006" data-title="Charles K. Paul Translation, 1888 (6/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Charles K. Paul Translation, 1888 (6/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 What shall he do then, but discern somewhat of the middle of things in an eternal despair of knowing either their beginning or their end? All things arise from nothing, and tend towards the infinite. Who can follow their marvellous course? The author of these wonders can understand them, and none but he.
 
@@ -368,7 +368,7 @@ The eternity of things in themselves or in God must also confound our brief dura
 
 And what completes our inability to know things is that they are in their essence simple, whereas we are composed of two opposite natures differing in kind, [soul and body](/axes/soul_body). For it is impossible that our reasoning part should be other than spiritual; and should any allege that we are simply material, this would far more exclude us from the knowledge of things, since it is an inconceivable paradox to affirm that matter can know itself, and it is not possible for us to know how it should know itself.
 
-<span class="atom-split" data-atom="007" data-title="Charles K. Paul Translation, 1888 (7/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Charles K. Paul Translation, 1888 (7/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 So, were we simply material, we could know nothing whatever, and if we are composed of spirit and matter we cannot perfectly know what is simple, whether it be spiritual or material. For how should we know matter distinctly, since our being, which acts on this knowledge, is partly spiritual, and how should we know spiritual substances clearly since we have a body which weights us, and drags us down to earth.
 
@@ -420,7 +420,7 @@ The eternal silence of these infinite spaces alarms me.
 
 Nothing more astonishes me than to see that men are not astonished at their own weakness. They act seriously, and every one follows his own mode of life, not because it is, as a fact, good to follow, being the [custom](/concepts/custom), but as if each man knew certainly where are reason and justice. They find themselves constantly deceived, and by an amusing humility always imagine that the fault is in themselves, and not in the art which all profess to understand. But it is well there are so many of this kind of people in the world, who are not sceptics for the glory of [scepticism](/positions/scepticism), to show that man is thoroughly capable of the most extravagant opinions, because he is capable of believing that his weakness is not natural and inevitable, but that, on the contrary, his wisdom comes by nature.
 
-<span class="atom-split" data-atom="008" data-title="Charles K. Paul Translation, 1888 (8/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Charles K. Paul Translation, 1888 (8/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 Nothing fortifies [scepticism](/positions/scepticism) more than that there are some who are not sceptics. If all were so, they would be wrong.
 
@@ -502,7 +502,7 @@ What a confusion of judgment is that, by which every one puts himself above all 
 
 [DIVERSION](/arguments/divertissement).
 
-<span class="atom-split" data-atom="009" data-title="Charles K. Paul Translation, 1888 (9/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Charles K. Paul Translation, 1888 (9/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 [DIVERSION](/arguments/divertissement). — WHEN I have set myself now and then to consider the various distractions of men, the toils and dangers to which they expose themselves in the court or the camp, whence arise so many quarrels and passions, such daring and often such evil exploits, etc., I have discovered that all the misfortunes of men arise from one thing only, that they are unable to stay quietly in their own chamber. A man who has enough to live on, if he knew how to dwell with pleasure in his own home, would not leave it for sea-faring or to besiege a city. An office in the army would not be bought so dearly but that it seems insupportable not to stir from the town, and people only seek conversation and amusing games because they cannot remain with pleasure in their own homes.
 
@@ -538,7 +538,7 @@ Whence comes it that a man who within a few months has lost his only son, or who
 
 Take heed to this. What is it to be superintendent, chancellor, first president, but to be in a condition wherein from early morning a vast number of persons flock in from every side, so as not to leave them an hour in the day in which they can think of themselves? And if they are in disgrace and dismissed to their country houses, though they want neither wealth nor retinue at need, they yet are miserable and desolate because no one hinders them from thinking of themselves.
 
-<span class="atom-split" data-atom="010" data-title="Charles K. Paul Translation, 1888 (10/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Charles K. Paul Translation, 1888 (10/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 Thus man is so unhappy that he wearies himself without cause of weariness by the peculiar state of his temperament, and he is so frivolous that, being full of a thousand essential causes of weariness, the least thing, such as a cue and a ball to strike with it, is enough to divert him.
 
@@ -584,7 +584,7 @@ At once, from the depth of his soul, will arise weariness, gloom, sadness, vexat
 
 Agitation. — When a soldier complains of his work, or a ploughman, etc., force them to be idle.
 
-<span class="atom-split" data-atom="011" data-title="Charles K. Paul Translation, 1888 (11/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Charles K. Paul Translation, 1888 (11/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 [Diversion](/arguments/divertissement). — Is not the royal dignity itself so truly great as to make its possessor happy by the mere contemplation of what he is? Must he be diverted from this thought like ordinary people? I see well enough that a man may be made happy by diverting him from the thought of his domestic sorrows so that he apply all his care to excel in dancing. But will it be the same with a king, and will he be happier if he devote himself to these idle amusements rather than to the contemplation of his greatness? And what more satisfactory object can he offer to his mind? Might it not be to lessen his content that he occupy his soul in thinking how to suit his steps to the cadence of an air, or how to throw a bar skilfully, rather than allow it to enjoy peacefully the contemplation of the majesty which wraps him round? Let us make the experiment, let us leave a king all alone, without any gratifications of sense, or any occupation for the mind, without companions, reflecting on himself at leisure, and it will be seen that a king without diversion is a man full of miseries. This is therefore carefully avoided, and there are always about the persons of kings a great number of people who watch to see that diversion succeeds to business, and look after their every hour of leisure to furnish them with pleasures and games, so that no vacancy may be left in life; that is, they are surrounded with persons who take wonderful pains that the king is never alone and able to think of self, knowing well that he will be miserable, king though he is, if he think of self.
 
@@ -664,7 +664,7 @@ How comes it that we have so much patience with those who are maimed in body, an
 
 Epictetus puts it yet more strongly: “How comes it that we are not angry if a man says we have an headache, but are angry if told we use a weak argument or make a wrong choice?” The reason of this is that we are quite certain we have no headache, or are not lame, but we are not equally sure that our judgment is correct. So having no assurance but that we see with our whole powers of sight, we are startled and confounded when another with equal powers sees the exact opposite, especially when a thousand others laugh at our decision; for then we must prefer our light to that of so many others, a daring and difficult matter. There is never this contradiction in feeling as to a cripple.
 
-<span class="atom-split" data-atom="012" data-title="Charles K. Paul Translation, 1888 (12/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Charles K. Paul Translation, 1888 (12/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 Man is so framed that by dint of telling him he is a fool he believes it, and by dint of telling it to himself he makes himself believe it. For man holds a secret communing with himself, which it behoves him well to regulate: Corrumpunt mores bonos colloquia prava. We must keep silent as much as possible, and converse with ourselves only of God, whom we know to be true, and thus we persuade ourselves of truth.
 
@@ -734,7 +734,7 @@ This proud potentate, who loves to rule and domineer over her enemy, reason, has
 
 What but this faculty of imagination dispenses reputation, assigns respect and veneration to persons, works, laws, and the great? How valueless are all the treasures of earth without her consent!
 
-<span class="atom-split" data-atom="013" data-title="Charles K. Paul Translation, 1888 (13/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Charles K. Paul Translation, 1888 (13/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 You would say that this magistrate whose reverend age commands the respect of a whole people is swayed by pure and lofty reason, that he judges all causes according to their true nature, unmoved by those mere accidents which only affect the imagination of the weak. See him go to sermon with devout zeal, strengthening his firm and impartial reason by the ardour of his divine love. He is ready to listen with exemplary respect. The preacher appears; but if nature have given him a hoarse voice or a comic face, if his barber have shaven him ill, or if his clothes be splashed more than is wont, then however great the truths he announces, I wager that our statesman lose his gravity.
 
@@ -792,7 +792,7 @@ The cords attached by the respect of man for man, are, for the most part, cords 
 
 Let us suppose then we see men beginning to form a society. They will no doubt fight till the stronger party gets the better of the weaker, and a dominant party is constituted. But so soon as this is once settled, the masters not wishing that the strife should continue, declare that the power in their hands shall be transmitted as they please, some placing it in the choice of the people, others in the succession of birth, etc.
 
-<span class="atom-split" data-atom="014" data-title="Charles K. Paul Translation, 1888 (14/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Charles K. Paul Translation, 1888 (14/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 And here imagination begins to play her part. Till now power has constrained facts, now power is upheld by imagination in a certain party, in France that of the nobles, in Switzerland that of the burgesses, etc.
 
@@ -872,7 +872,7 @@ OF JUSTICE, CUSTOMS, AND PREJUDICES.
 
 ON WHAT SHALL man found the economy of the world which he would fain govern? If on the caprice of each man, all is confusion. If on justice, man is ignorant of it.
 
-<span class="atom-split" data-atom="015" data-title="Charles K. Paul Translation, 1888 (15/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Charles K. Paul Translation, 1888 (15/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 Certainly had he known it, he would not have established the maxim, most general of all current among men, that every one must conform to the manners of his own country; the splendour of true equity would have brought all nations into subjection, and legislators would not have taken as their model the fancies and caprice of Persians and Germans instead of stable justice. We should have seen it established in all the States of the world, in all times, whereas now we see neither justice nor injustice which does not change its quality upon changing its climate. Three degrees of latitude reverse all jurisprudence, a meridian decides what is truth, fundamental laws change after a few years of possession, right has its epochs, the entrance of Saturn into the Lion marks for us the origin of such and such a crime. That is droll justice which is bounded by a stream! Truth on this side of the Pyrenees, error on that.
 
@@ -904,7 +904,7 @@ Montaigne was wrong: custom should only be followed because it is custom, and no
 
 It is then good to obey laws and customs because they are laws, but we ought to know that there is neither truth nor justice to introduce into them, that we know nothing about these, and can therefore only follow what is recognised, and thus we should never transgress them. But most men cannot receive this doctrine, and since they believe that truth can be found, and that it resides in law and custom, they believe these laws, and take their antiquity as a proof of their truth, and not merely of their authority apart from truth. Thus they obey the laws, but are liable to revolt when these are shown to be of no value; and this may be proved of all of them, looked at from a certain point of view.
 
-<span class="atom-split" data-atom="016" data-title="Charles K. Paul Translation, 1888 (16/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Charles K. Paul Translation, 1888 (16/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 Injustice. — The authority of the judge is not given him for his sake, but for that of the judged. It is dangerous to say this to the people, but the people have too much faith in you; that will not harm them, and may serve you. You must then say it openly. Pasce oves meas, not tuas. You owe me pasturage.
 
@@ -988,7 +988,7 @@ The reason of effects. — It is strange that men would not have me honour a man
 
 When power attacks craft, when a mere soldier takes the square cap of a first president, and flings it out of the window.
 
-<span class="atom-split" data-atom="017" data-title="Charles K. Paul Translation, 1888 (17/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Charles K. Paul Translation, 1888 (17/17)" data-chapter="Charles K. Paul Translation, 1888" data-kind="atom" data-srclang="en"></span>
 
 Injustice. — Men have found no means to gratify their sensuality without wrong to others.
 
@@ -1012,11 +1012,11 @@ The people have very sound opinions, for instance:
 
 2. In distinguishing men by outward marks, as birth or wealth. The world is again triumphant in showing how unreasonable this is, yet it is thoroughly reasonable. Savages laugh at an infant king.
 
-<span class="atom-split" data-atom="018" data-title="3. In taking offence at a blow, or in desiring glory so strongly." data-chapter="3. In taking offence at a blow, or in desiring glory so strongly." data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="3. In taking offence at a blow, or in desiring glory so strongly." data-chapter="3. In taking offence at a blow, or in desiring glory so strongly." data-kind="atom" data-srclang="en"></span>
 
 But it is very desirable, on account of the other essential goods which are joined to it, and a man who has received a blow without resenting it is overwhelmed with abuse and indignity.
 
-<span class="atom-split" data-atom="019" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (1/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (1/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 Sound opinions of the people. — Civil wars are the greatest of all evils. They are certain, if we try to reward desert, for all will say they deserve. The evil to fear from a fool who succeeds by right of birth, is neither so great nor so certain.
 
@@ -1074,7 +1074,7 @@ We must particularize this general proposition....
 
 What difference in point of obedience is there between a soldier and a Carthusian? For both are alike under rule and dependent, both engaged in equally irksome labours. But the soldier always hopes to bear rule, and though he never does so, for even captains and princes are always slaves and dependents, he ever hopes and ever works to attain mastery, whereas the Carthusian makes a vow never to be aught else than dependent. Thus they do not differ in their perpetual servitude, which is the same always for both, but in the hope which one always has, the other never.
 
-<span class="atom-split" data-atom="020" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (2/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (2/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 The example of Alexander’s chastity has not made so many continent as that of his drunkenness has made intemperate. It is not shameful to be less virtuous than he, and it seems excusable to be no more vicious. We do not think ourselves wholly partakers in the vices of ordinary men, when we see that we share those of the great, not considering that in such matters the great are but ordinary men. We hold on to them by the same end by which they hold on to the people, for at whatsoever height they be, they are yet united at some point to the lowest of mankind. They are not suspended in the air, abstracted from our society. No, doubly no; if they are greater than we, it is because their heads are higher; but their feet are as low as ours. There all are on the same level, resting on the same earth, and by the lower extremity are as low as we are, as the meanest men, as children, and the brutes.
 
@@ -1118,7 +1118,7 @@ The most important affair in life is the choice of a trade, yet [chance](/concep
 
 Men by nature are tilers and of all callings, except in their own closets.
 
-<span class="atom-split" data-atom="021" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (3/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (3/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 We never teach men to be gentlemen, but we teach them everything else, and they never pique themselves so much on all the rest as on knowing how to be gentlemen. They pique themselves only on knowing the one thing they have not learnt.
 
@@ -1180,7 +1180,7 @@ I passed a long time in the study of the abstract sciences, and was much discour
 
 The Vanity of Knowledge. — The knowledge of external things will not console me for my ignorance of ethics in time of affliction, but the science of morals will always console me for my ignorance of external knowledge.
 
-<span class="atom-split" data-atom="022" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (4/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (4/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 There are plants on the earth, we see them, but they could not be seen from the moon. On these plants are hairs, and in these hairs tiny animals, but beyond that, nothing more. O, presumption! Compound bodies are made up of elements, but not the elementary bodies themselves. O presumption! Here is a fine distinction. We must not assert the existence of what we cannot see, we must then say what others say, but not think with them.
 
@@ -1230,7 +1230,7 @@ There are different degrees in this dislike to the truth, but it may be said tha
 
 Hence it happens, that if any desire our love, they avoid doing us a service which they know to be disagreeable; they treat us as we would wish to be treated: we hate the truth, and they hide it from us; we wish to be flattered, they flatter us; we love to be deceived, they deceive us.
 
-<span class="atom-split" data-atom="023" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (5/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (5/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 Thus each degree of good fortune which raises us in the world removes us further from truth, because we fear most to wound those whose affection is most useful, and whose dislike is most dangerous. A prince may be the by-word of all Europe, yet he alone know nothing of it. I am not surprised; to speak the truth is useful to whom it is spoken, but disadvantageous to those who speak it, since it makes them hated. Now those who live with princes love their own interests more than that of the prince they serve, and thus they take care not to benefit him so as to do themselves a disservice.
 
@@ -1282,7 +1282,7 @@ And yet after so many years, no one without faith has arrived at the point to wh
 
 A trial so long, so constant and so uniform, should surely convince us of our inability to arrive at good by our own strength, but example teaches us but little. No resemblance is so exact but that there is some slight difference, and hence we expect that our endeavour will not be foiled on this occasion as before. Thus while the present never satisfies, experience deceives us, and from misfortune to misfortune leads us on to death, eternal crown of sorrows.
 
-<span class="atom-split" data-atom="024" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (6/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (6/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 This desire, and this weakness cry aloud to us that there was once in man a true happiness, of which there now remains to him but the mark and the empty trace, which he vainly tries to fill from all that surrounds him, seeking from things absent the succour he finds not in things present; and these are all inadequate, because this infinite void can only be filled by an infinite and immutable object, that is to say, only by God himself.
 
@@ -1316,7 +1316,7 @@ Do not then accuse of error those who have already chosen, for you know nothing 
 
 Yes, but you must wager; this depends not on your will, you are embarked in the affair. Which will you choose? Let us see. Since you must choose, let us see which least interests you. You have two things to lose, truth and good, and two things to stake, your reason and your will, your knowledge and your happiness; and your nature has two things to avoid, error and misery. Since you must needs choose, your reason is no more wounded in choosing one than the other. Here is one point cleared up, but what of your happiness? Let us weigh the gain and the loss in choosing heads that God is. Let us weigh the two cases: if you gain, you gain all; if you lose, you lose nothing. [Wager](/figures/the_libertine) then unhesitatingly that he is. — You are right. Yes, I must wager, but I may stake too much. — Let us see. Since there is an equal [chance](/concepts/fortune) of gain and loss, if you had only to gain two lives for one, you might still wager. But were there three of them to gain, you would have to play, since needs must that you play, and you would be imprudent, since you must play, not to chance your life to gain three at a game where the chances of loss or gain are even. But there is an [eternity](/positions/eternity) of life and happiness. And that being so, were there an infinity of chances of which one only would be for you, you would still be right to stake one to win two, and you would act foolishly, being obliged to play, did you refuse to stake one life against three at a game in which out of an infinity of chances there be one for you, if there were an infinity of an infinitely happy life to win. But there is here an infinity of an infinitely happy life to win, a chance of gain against a finite number of chances of loss, and what you stake is finite; that is decided. Wherever the infinite exists and there is not an infinity of chances of loss against that of gain, there is no room for hesitation, you must risk the whole. Thus when a man is forced to play he must renounce reason to keep life, rather than hazard it for infinite gain, which is as likely to happen as the loss of nothingness.
 
-<span class="atom-split" data-atom="025" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (7/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (7/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 For it is of no avail to say it is uncertain that we gain, and certain that we risk, and that the infinite distance between the certainty of that which is staked and the uncertainty of what we shall gain, equals the finite good which is certainly staked against an uncertain infinite. This is not so. Every gambler stakes a certainty to gain an uncertainty, and yet he stakes a finite certainty against a finite uncertainty without acting unreasonably. It is false to say there is infinite distance between the certain stake and the uncertain gain. There is in truth an [infinity](/concepts/infinity) between the certainty of gain and the certainty of loss. But the uncertainty of gain is proportioned to the certainty of the stake, according to the proportion of chances of gain and loss, and if therefore there are as many chances on one side as on the other, the game is even. And thus the certainty of the venture is equal to the uncertainty of the winnings, so far is it from the truth that there is infinite distance between them. So that our argument is of infinite force, if we stake the finite in a game where there are equal chances of gain and loss, and the infinite is the winnings. This is demonstrable, and if men are capable of any truths, this is one.
 
@@ -1372,7 +1372,7 @@ If we ought to do nothing save on a certainty, we ought to do nothing for Religi
 
 For we should work for the uncertain by the doctrine of chances already laid down.
 
-<span class="atom-split" data-atom="026" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (8/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (8/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 We know truth, not only by the reason, but also by the heart, and it is from this last that we know first principles; and reason, which has nothing to do with it, tries in vain to combat them. The sceptics who desire truth alone [labour](/concepts/labour) in vain. We know that we do not dream, although it is impossible to prove it by reason, and this inability shows only the weakness of our reason, and not, as they declare, the general uncertainty of our knowledge. For our knowledge of first principles, as space, time, motion, number, is as distinct as any principle derived from reason. And reason must lean necessarily on this instinctive knowledge of the heart, and must found on it every process. We know instinctively that there are three dimensions in space, and that numbers are infinite, and reason then shows that there are no two square numbers one of which is double of the other. We feel principles, we infer propositions, both with certainty, though by different ways. It is as useless and absurd for reason to demand from the heart proofs of first principles before it will admit them, as it would be for the heart to ask from reason a feeling of all the propositions demonstrated before accepting them.
 
@@ -1416,7 +1416,7 @@ Shall he say on the contrary that he is in sure possession of truth, when if we 
 
 What a chimæra then is man! how strange and monstrous! a chaos, a contradiction, a prodigy. Judge of all things, yet a weak earth-worm; depositary of truth, yet a cesspool of uncertainty and error; the glory and offscouring of the Universe.
 
-<span class="atom-split" data-atom="027" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (9/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (9/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 Who will unravel such a tangle? This is certainly beyond the power of dogmatism and [scepticism](/positions/scepticism), and all human philosophy. Man is incomprehensible by man. We grant to the sceptics what they have so loudly asserted, that truth is not within our reach nor to our taste, that her home is not on earth but in heaven, that she dwells within the breast of God, and that we can only know her so far as it pleases him to reveal her. Let us then learn our true nature from truth uncreate and incarnate.
 
@@ -1464,7 +1464,7 @@ Ex senatus consultis et plebiscitis scelera exercentur.
 
 Nihil tam absurde dici potest quod non dicatur ab aliquo philosophorum. Quibusdam destinatis sententiis consecrati quæ non probant coguntur defendere.
 
-<span class="atom-split" data-atom="028" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (10/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (10/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 Ut omnium rerum sic litterarum quoque intemperantiâ laboramus.
 
@@ -1566,7 +1566,7 @@ What does he say then in order to make us believe him?
 
 Any man can do what Mahomet did, for he wrought no miracles, he was confirmed by no prophecies. No man can do what Jesus Christ did.
 
-<span class="atom-split" data-atom="029" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (11/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (11/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 Against Mahomet. — The Koran is not more of Mahomet than the Gospel is of Saint Matthew, for it is cited by many authors from age to age. Even its very enemies, Celsus and Porphyry, never disavowed it.
 
@@ -1620,7 +1620,7 @@ The book containing this law, the first of all laws, is itself the most ancient 
 
 Falsity of other religions. — They have no witnesses; this people has them. God challenges other religions to produce such marks. Is. xliii. 9, — xliv. 8.
 
-<span class="atom-split" data-atom="030" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (12/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (12/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 This is fact. While all philosophers separate into different sects, there is found in one corner of the world, a people, the most ancient in the world, declaring that all the world is in error, that God has revealed to them the truth, that they will abide always on the earth. In fact, all other sects come to an end, this one still endures, and has done so for four thousand years. They assert that they hold from their ancestors that man has fallen from communion with God, is entirely separated from God, but that he has promised to redeem them, that their doctrine shall always exist on the earth;
 
@@ -1714,7 +1714,7 @@ Josephus, in the whole history of Esdras, says not a single word of this restora
 
 Scripture has provided passages of consolation and warning for every condition of life.
 
-<span class="atom-split" data-atom="031" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (13/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (13/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 Nature seems to have done the same thing by her two infinities, natural and moral, for we shall always have those who are higher and lower, who are more and less able, who are noble and in low estate, in order to abate our pride, and raise our lowliness.
 
@@ -1800,7 +1800,7 @@ The more I examine them the more I find truths in them, both in those which prec
 
 I find this sequence, our Religion wholly divine in its authority, in its duration, in its perpetuity, in its morality, in its conduct, its doctrine, and its effects.
 
-<span class="atom-split" data-atom="032" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (14/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank. (14/14)" data-chapter="4. In working for an uncertainty, in going on a sea voyage, in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 The frightful darkness of the Jews foretold. Eris palpans in meridie. Dabitur liber scienti literas, et dicet: Non possum legere.
 
@@ -1904,7 +1904,7 @@ Is. liv. 8. In momento indignationis abscondi faciem meam parumper a te, et in m
 
 Is. lxiii. 12. Qui eduxit ad dexteram Moysen brachio majestatis suæ, qui scidit aquas ante eos, ut faceret sibi nomen sempiternum.
 
-<span class="atom-split" data-atom="033" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (1/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (1/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom" data-srclang="en"></span>
 
 Is. lxiii. 16. Tu enim pater noster, et Abraham nescivit nos, et Israel ignoravit nos.
 
@@ -2010,7 +2010,7 @@ Daniel ii. “All thy sooth-sayers and wise men cannot show unto thee the secret
 
 Daniel viii. “Daniel having seen the combat of the ram and of the he-goat, who vanquished him and ruled over the earth, whereof the principal horn being broken four others came up towards the four winds of heaven, and out of one of them came forth a little horn, which waxed exceeding great toward the South and toward the East, and toward the land of Israel, and it waxed great, even to the host of heaven, and it cast down some of the stars, and stamped upon them, and at last overthrew the prince, and by him the daily sacrifice was taken away and the place of his sanctuary was cast down.
 
-<span class="atom-split" data-atom="034" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (2/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (2/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom" data-srclang="en"></span>
 
 “This is what Daniel saw. He asked the explanation and a voice cried in this manner, ‘Gabriel, make this man to understand the vision.’ And Gabriel said,
 
@@ -2062,7 +2062,7 @@ Daniel xi. The angel said to Daniel:
 
 “And in his place shall stand up a vile person, unworthy of the honour of the kingdom, but he shall come in by skilful flatteries.
 
-<span class="atom-split" data-atom="035" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (3/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (3/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom" data-srclang="en"></span>
 
 “All armies shall bend before him, he will conquer them, and even the prince with whom he has made a league. For having renewed the league with him, he will deceive him, and come in with a few tribes into his province, calm and without fear. He will take the best places, and shall do that which his fathers have not done, and ravage on all sides. He will forecast devices, during his time.”
 
@@ -2138,7 +2138,7 @@ Isaiah xxix. “Be astonished, and wonder, O people of Israel; waver and stagger
 
 “And the visions of all the prophets are become unto you as a book that is sealed, which men deliver to one that is learned, and who can read: and he saith, I cannot read it; for it is sealed: And when the book is delivered to him that is not learned, he saith, I am not learned.
 
-<span class="atom-split" data-atom="036" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (4/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (4/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom" data-srclang="en"></span>
 
 “Wherefore the Lord said, Forasmuch as this people with their lips do honour me, but have removed their heart far from me,” — there is the reason and the cause, for they adore God in their heart, and understand the prophecies,— “and their fear toward me is taught by the precept of men.
 
@@ -2194,7 +2194,7 @@ Is. xlix.
 
 “Again the Lord said unto me: I have heard thee in the days of salvation and of mercy, and I have established thee for a covenant of the people, and to cause thee to inherit the desolate nations, that thou mayest say to those who are in chains: Go forth, and to those that are in darkness: Come into the light, and possess these abundant and fertile lands. They shall no more [labour](/concepts/labour), nor hunger, nor thirst, neither shall the sun smite them; for he that hath mercy on them shall lead them, even by the springs of waters shall he guide them, and make the mountains plain before them. Behold, the peoples shall come from all parts, from the East and from the West, from the North and from the South. Let the heaven give glory to God, let the earth rejoice, for it hath pleased the Lord to comfort his people, and he will have mercy on the poor who hope in him.
 
-<span class="atom-split" data-atom="037" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (5/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ. (5/5)" data-chapter="14. Sic adduxisti populum tuum ut faceres tibi nomen gloriæ." data-kind="atom" data-srclang="en"></span>
 
 “Yet Sion hath dared to say: The Lord hath forsaken and hath forgotten me. Can a woman forget her sucking child, that she should not have compassion on the son of her womb, but if she forget, yet will I not forget thee, O Sion. I will bear thee always between my hands, and thy walls shall be ever before me. Thy builders are come, thy destroyers shall go forth of thee. Lift up thy eyes round about, and see all these are gathered together, to come to thee: as I live, saith the Lord, thou shall be clothed with all these as with an ornament, thy deserts, and thy desolate places, and the land of thy destruction shall now be too narrow by reason of the inhabitants, and the children of thy barrenness shall still say in thy ears: the place is too strait for me, make me room to dwell in. And thou shall say in thy heart: Who hath begotten these? I was barren and brought not forth, led away, and captive: and who hath brought up these? I was destitute and alone: and these, where were they? And the Lord shall say: Behold, I will lift up my hand to the Gentiles, and will set up my standard to the people. And they shall bring thy children in their arms, and in their bosoms. And kings shall be thy nursing fathers, and queens thy nursing mothers: they shall [worship](/concepts/religion) thee with their face toward the earth, and they shall lick up the dust of thy feet. And thou shall know that I am the Lord, for they shall not be confounded that wait for him. Shall the prey be taken from the strong and mighty? But even if the captivity be taken away from the strong: nothing can hinder me to judge those that have judged thee, and thy children I will save. And all flesh shall know, that I am the Lord thy Saviour, and thy Redeemer the mighty One of Jacob.
 
@@ -2252,11 +2252,11 @@ The whole question then is to know if they have two senses....
 
 That the [Scripture](/concepts/revelation) has two senses, which Jesus Christ and his Apostles have given, the following are the proofs:
 
-<span class="atom-split" data-atom="038" data-title="1. Proof by Scripture itself. (1/2)" data-chapter="1. Proof by Scripture itself." data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="1. Proof by Scripture itself. (1/2)" data-chapter="1. Proof by Scripture itself." data-kind="atom" data-srclang="en"></span>
 
 2. Proofs by the Rabbis. Moses Maimonides says that it has two faces, and that the prophets have prophesied Jesus Christ only.
 
-<span class="atom-split" data-atom="039" data-title="3. Proofs by the Cabala. (1/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="3. Proofs by the Cabala. (1/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom" data-srclang="en"></span>
 
 4. Proofs by the mystical interpretation which the rabbis themselves have given to the [Scripture](/concepts/revelation).
 
@@ -2348,7 +2348,7 @@ For nature is an image of grace, and visible miracles are the image of the invis
 
 Isaiah, li., says that Redemption will be as the passage of the Red Sea.
 
-<span class="atom-split" data-atom="040" data-title="3. Proofs by the Cabala. (2/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="3. Proofs by the Cabala. (2/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom" data-srclang="en"></span>
 
 God then has shown by the deliverance from Egypt, and from the sea, by the defeat of the kings, by the manna, by the whole [genealogy](/positions/genealogy) of Abraham, that he was able to save, to send down bread from heaven, etc., so that the people at enmity with him is the type and the [representation](/concepts/idea) of the very Messiah whom they know not, etc.
 
@@ -2402,7 +2402,7 @@ Singularis sum ego donec transeam. Jesus Christ before his death was almost the 
 
 To speak against too greatly figurative expressions.
 
-<span class="atom-split" data-atom="041" data-title="3. Proofs by the Cabala. (3/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="3. Proofs by the Cabala. (3/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom" data-srclang="en"></span>
 
 There are some types clear and demonstrative, but others which seem far-fetched, and which bring proof only to those already persuaded. These may seem like the sayings of the Apocalyptics. But the difference is that these have none which are not doubtful, so that nothing is so unjust as to pretend that theirs are as well founded as some of ours, for they have none so demonstrative as some of ours. There is no comparison possible. We have no right to compare and confound things because they agree in one point, while they are so different in another. What is clear in things divine forces us to revere what is obscure.
 
@@ -2462,7 +2462,7 @@ The Jews had grown old in these earthly thoughts, that God loved their father Ab
 
 The world having grown old in these carnal errors, Jesus Christ came at the time foretold, but not with the expected glory, and therefore men did not think it was he. After his death Saint Paul came to teach that all these things had happened in figures, that the Kingdom of God was not in the flesh, but in the spirit; that the enemies of men were not the Babylonians, but the passions; that God delighted not in temples made with hands, but in a pure and contrite heart; that bodily circumcision was unprofitable, but that of the heart was needed; that Moses gave them not that bread from heaven, etc.
 
-<span class="atom-split" data-atom="042" data-title="3. Proofs by the Cabala. (4/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="3. Proofs by the Cabala. (4/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom" data-srclang="en"></span>
 
 But God, not willing to disclose these things to a people unworthy of them, yet nevertheless willing to foretell them, in order that they might be believed, foretold the time dearly, and expressed the things sometimes clearly, but generally in figures, so that those who loved the emblems might rest in them, and those who loved the things figured might see them therein.
 
@@ -2530,7 +2530,7 @@ However, they have kept at the cost of their life this very book which dishonour
 
 Every history which is not contemporaneous is open to suspicion, thus the books of the Sibyls and Trismegistus and so many others which have been credited by the world are false, and found to be false in course of time. It is not so with contemporaneous authors.
 
-<span class="atom-split" data-atom="043" data-title="3. Proofs by the Cabala. (5/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="3. Proofs by the Cabala. (5/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom" data-srclang="en"></span>
 
 There is a great difference between a book written by a private man, and dispersed among a whole people, and a book which itself creates a people. We cannot doubt that the book is as old as the people.
 
@@ -2608,7 +2608,7 @@ Shall it be that of the philosophers, who proposed as the only good the good whi
 
 “Such is the present state of man. There remains to him some feeble instinct of the happiness of his primitive nature, and he is plunged in the misery of his blindness and his lusts, which have become his second nature.
 
-<span class="atom-split" data-atom="044" data-title="3. Proofs by the Cabala. (6/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="3. Proofs by the Cabala. (6/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom" data-srclang="en"></span>
 
 “From this principle which I have here laid open to you, you may discern the cause of those contradictions which, while they astonish all men, have divided them among such various opinions. Now mark all the movements of greatness and glory which the trials of so many miseries are unable to stifle, and see if the cause of them must not be in another nature....”
 
@@ -2658,7 +2658,7 @@ Without this divine knowledge what could men do but either uplift themselves by 
 
 Thence come the various sects of the Stoics and Epicureans, the Dogmatists, Academicians, etc. The Christian religion alone has been able to cure these two distempers, not so as to drive out the one by the other according to the wisdom of the world, but so as to expel them both by the simplicity of the Gospel. For it teaches the righteous that it lifts them even to a participation of the divine nature; that in this exalted state they still bear within them the fountain of all corruption, which renders them during their whole life subject to error and misery, to death and sin; and at the same time it proclaims to the most wicked that they can receive the grace of their Redeemer. Thus making those tremble whom it justifies, and consoling those whom it condemns, religion so justly tempers fear with hope by means of that double capacity of grace and of sin which is common to all, that it abases infinitely more than reason alone, yet without despair; and exalts infinitely higher than natural pride, yet without puffing up: hereby proving that alone being exempt from error and vice, it alone has the office of instructing and of reforming men.
 
-<span class="atom-split" data-atom="045" data-title="3. Proofs by the Cabala. (7/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="3. Proofs by the Cabala. (7/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom" data-srclang="en"></span>
 
 Who then can withhold credence and adoration to so divine a light? For it is clearer than day that we feel within ourselves indelible characters of goodness; and it is equally true that we experience every hour the effects of our deplorable condition. This chaos then, this monstrous confusion, does but proclaim the truth of these two states, with a voice so powerful that it cannot be resisted.
 
@@ -2716,7 +2716,7 @@ No other has recognised that man is of all creatures the most excellent. Some, h
 
 What men could scarcely know by their greatest light, this Religion has taught to babes.
 
-<span class="atom-split" data-atom="046" data-title="3. Proofs by the Cabala. (8/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="3. Proofs by the Cabala. (8/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom" data-srclang="en"></span>
 
 Other religions, as those of heathendom, are more popular since they consist only in externals, but they have no effect on the educated. A purely intellectual religion would be more adapted to the educated, but it would be of no use to the people. The Christian religion alone is fitted for all, being composed of externals and internals. It elevates the people to interior acts, it abases the proud to external rites, and it is not complete without both, for the people must understand the spirit which is in the letter, and the educated must submit their spirit to the letter.
 
@@ -2796,7 +2796,7 @@ Misdrasch el Kohelet: “Better is a poor and a wise child than an old and fooli
 
 The same thing is in Misdrasch Tillim.
 
-<span class="atom-split" data-atom="047" data-title="3. Proofs by the Cabala. (9/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="3. Proofs by the Cabala. (9/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom" data-srclang="en"></span>
 
 Bereschist Rabba on Ps. xxxv.: “Lord, all my bones shall bless thee, who deliverest the poor from the tyrant.” And is there a greater tyrant than the evil leaven? And on Proverbs xxv., “If thine enemy be hungry, feed him.” That is to say, if the evil leaven hunger, give him the bread of wisdom of which speaks Prov. ix., and if he be thirsty, give him the water of which speaks Isaiah lv.
 
@@ -2890,7 +2890,7 @@ Psalm cxliii. 15. That their feasts were displeasing to God.
 
 Amos v. 21. That the sacrifices of the Jews were displeasing to God.
 
-<span class="atom-split" data-atom="048" data-title="3. Proofs by the Cabala. (10/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="3. Proofs by the Cabala. (10/10)" data-chapter="3. Proofs by the Cabala." data-kind="atom" data-srclang="en"></span>
 
 Isa. lxvi. 1-3; l. 11; Jerem. vi. 20.
 
@@ -2898,7 +2898,7 @@ David, Miserere. Even on the part of the good, Expectavi.
 
 Psalm xlix. 8-14. That he has established them only for their hardness. Micah, admirably, vi. 6-8.
 
-<span class="atom-split" data-atom="049" data-title="I. Kings xv. 22; Hosea vi. 6. (1/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="I. Kings xv. 22; Hosea vi. 6. (1/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 That the sacrifices of the Gentiles should be accepted of God, and that God would none of the sacrifices of the Jews. Malachi i. 11.
 
@@ -2982,7 +2982,7 @@ It is a remarkable fact that no canonical writer has ever employed nature to pro
 
 This is well worth considering.
 
-<span class="atom-split" data-atom="050" data-title="I. Kings xv. 22; Hosea vi. 6. (2/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="I. Kings xv. 22; Hosea vi. 6. (2/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 If it be a mark of weakness to prove God by nature, despise not the [Scripture](/concepts/revelation) for not doing so: if it be a mark of power to know these contradictions, value the Scriptures on that account.
 
@@ -3048,7 +3048,7 @@ Instead of complaining that God is hidden, you will give him thanks for having r
 
 Two sorts of persons know: those whose heart is humble, and who love lowliness, whatever their order of intellect, whether high or low, and those who have understanding enough to see the truth, whatever opposition they may feel to it.
 
-<span class="atom-split" data-atom="051" data-title="I. Kings xv. 22; Hosea vi. 6. (3/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="I. Kings xv. 22; Hosea vi. 6. (3/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 I may well love total darkness, but if God keep me in a state of semi-obscurity, this partial darkness is unpleasant to me, and because I do not see in it the advantages of total darkness it pleases me not. This is a fault, and a proof that I am making an idol of darkness apart from God’s order. Now his order alone is to be worshipped.
 
@@ -3114,7 +3114,7 @@ What part then had he in all this renown? Never man had more glory, never man mo
 
 Office of Jesus Christ. — He alone was to produce a great people, elect, holy, and chosen, to lead it, to nourish it, to bring it into a place of rest and holiness, to make it holy to God, to make it the temple of God, to reconcile it to God, to save it from the wrath of God, to deliver it from the slavery of sin, which visibly reigns in man, to give laws to this people, to engrave these laws on their heart, to offer himself to God for them, to sacrifice himself for them, to be a victim without spot, himself the priest, needing to offer himself, his body and his blood, and yet to offer bread and wine to God....
 
-<span class="atom-split" data-atom="052" data-title="I. Kings xv. 22; Hosea vi. 6. (4/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="I. Kings xv. 22; Hosea vi. 6. (4/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 After many persons had come before, at last came Jesus Christ, to say: “Here am I and this is the hour, that which the prophets had said was to come in the fulness of time. I tell you what my apostles will do. The Jews shall be cast out, Jerusalem shall be soon destroyed, and the Gentiles shall enter into the knowledge of God. My apostles shall do this after you have slain the heir of the vineyard.”
 
@@ -3212,7 +3212,7 @@ I answer first: it was foretold both that they would not believe what was so cle
 
 Had the Jews been all converted by Jesus Christ, we should have none but doubtful witnesses, and had they been entirely destroyed we should have had no witnesses at all.
 
-<span class="atom-split" data-atom="053" data-title="I. Kings xv. 22; Hosea vi. 6. (5/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="I. Kings xv. 22; Hosea vi. 6. (5/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 The Jews rejected him, but not all. The saints receive him, but not carnal men. Yet this is far from being against his glory, it is the last stroke which perfects it. The argument on their side, the only one which is found in the Talmud and the rabbinical writings, is that Jesus Christ has not subdued the nations sword in hand, gladium tuum, potentissime. Is this all they can allege? Jesus Christ has been slain, they say, he was subdued, he has not had dominion over the heathen by his power, he has not distributed the spoil among us, he does not give riches. Is this all they have to allege? This is the very point wherein he seems to me so lovable. I would none of such an one as they represent. It is plain that his life only hinders them from receiving him, by their refusal they become irreproachable witnesses, and what is more, they thereby fulfil the prophecies.
 
@@ -3304,7 +3304,7 @@ Five typical proofs.
 
 400 scattered.
 
-<span class="atom-split" data-atom="054" data-title="I. Kings xv. 22; Hosea vi. 6. (6/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="I. Kings xv. 22; Hosea vi. 6. (6/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 Atheists. — What reason have they to say it is not possible to rise again? Which is the more difficult, to be born or to rise again; that that which has never been should be, or that what has been should be again? Is it more difficult to come into being than to return to it? [Habit](/concepts/custom) causes the one to seem easy to us, the want of habit causes the other to seem impossible. The popular way of judging.
 
@@ -3386,7 +3386,7 @@ All bodies, the firmament, the stars, the earth and the kingdoms thereof, are no
 
 All bodies together and all minds together, and all they can effect, are not worth the least motion of charity. This is of an order infinitely more exalted.
 
-<span class="atom-split" data-atom="055" data-title="I. Kings xv. 22; Hosea vi. 6. (7/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="I. Kings xv. 22; Hosea vi. 6. (7/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 From all bodies together, we cannot extract one little thought: this is impossible and in another order. From all bodies and minds it is impossible to produce a single motion of true charity, it is impossible, it is in another and a supernatural order.
 
@@ -3504,7 +3504,7 @@ Repent then for thy secret sins, and for the hidden malice of those which thou k
 
 Lord, I give thee all. —
 
-<span class="atom-split" data-atom="056" data-title="I. Kings xv. 22; Hosea vi. 6. (8/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="I. Kings xv. 22; Hosea vi. 6. (8/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 I love thee more ardently than thou hast loved thine uncleannesses, ut immundus pro luto.
 
@@ -3586,7 +3586,7 @@ The body loves the hand, and the hand, if it had a will, should love itself in t
 
 Adhærens Deo unus spiritus est. We love ourselves because we are members of Jesus Christ. We love Jesus Christ because he is the body of which we are members. All is one, one is in the other, like the Three Persons.
 
-<span class="atom-split" data-atom="057" data-title="I. Kings xv. 22; Hosea vi. 6. (9/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="I. Kings xv. 22; Hosea vi. 6. (9/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 The examples of the noble deaths of the Lacedæmonians and others scarce touch us, for what good do they to us? But the example of the death of the martyrs touches us, for they are our members. We have a common tie with them, their resolution can form ours, not only by example, but because it has perhaps merited ours. There is nothing of this in the examples of the heathen; there is no bond between us. As we do not become rich by seeing a rich stranger, but by seeing a father or a husband who is so.
 
@@ -3644,7 +3644,7 @@ There are three orders of things: the flesh, the spirit, and the will.
 
 The carnal are the rich and kings, who have the body as their object.
 
-<span class="atom-split" data-atom="058" data-title="I. Kings xv. 22; Hosea vi. 6. (10/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="I. Kings xv. 22; Hosea vi. 6. (10/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 Enquirers and men of science, who have mind for their object.
 
@@ -3700,7 +3700,7 @@ It is better not to fast, and be thereby humbled, than to fast and be puffed up 
 
 The pharisee and the publican.
 
-<span class="atom-split" data-atom="059" data-title="I. Kings xv. 22; Hosea vi. 6. (11/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="I. Kings xv. 22; Hosea vi. 6. (11/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 What will memory avail me if it be alike hurtful and helpful, since all depends upon the blessing of God, who gives only to things done for him according to his rules and in his ways, the manner being thus as important as the thing, and perhaps more; since God can bring good out of evil, and because without God we bring evil out of good.
 
@@ -3754,7 +3754,7 @@ We make an idol of truth itself, for truth apart from charity is not God, it is 
 
 Submission and use of reason, in which consists true Christianity.
 
-<span class="atom-split" data-atom="060" data-title="I. Kings xv. 22; Hosea vi. 6. (12/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="I. Kings xv. 22; Hosea vi. 6. (12/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 The last process of reason is to recognise that there is an [infinity](/concepts/infinity) of things which transcend it; it is but weak if it does not go so far as to know that.
 
@@ -3854,7 +3854,7 @@ OF MIRACLES IN GENERAL.
 
 THE [MIRACLE](/concepts/miracle) OF THE HOLY THORN.
 
-<span class="atom-split" data-atom="061" data-title="I. Kings xv. 22; Hosea vi. 6. (13/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="I. Kings xv. 22; Hosea vi. 6. (13/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 The beginning. — Miracles are the test of doctrine, and doctrine is the test of miracles.
 
@@ -3948,7 +3948,7 @@ The Jews blinded themselves in judging of miracles by the Scripture. God has nev
 
 I prefer to follow Jesus Christ than any other, because he has miracle, prophecy, doctrine, perpetuity, etc.
 
-<span class="atom-split" data-atom="062" data-title="I. Kings xv. 22; Hosea vi. 6. (14/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="I. Kings xv. 22; Hosea vi. 6. (14/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 The Donatists. No [miracle](/concepts/miracle) which obliged them to say it was the devil.
 
@@ -4046,7 +4046,7 @@ Volumus signum videre de cœlo tentantes eum. Luc. xi. 16.
 
 Generatio prava signum quærit; sed non dabitur.
 
-<span class="atom-split" data-atom="063" data-title="I. Kings xv. 22; Hosea vi. 6. (15/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="I. Kings xv. 22; Hosea vi. 6. (15/15)" data-chapter="I. Kings xv. 22; Hosea vi. 6." data-kind="atom" data-srclang="en"></span>
 
 Et ingemiscens ait; Quid generatio ista signum quærit. Marc. viii. 12. They asked a sign with a bad intent. Et non poterat facere. And nevertheless he promises them the sign of Jonah, the great and incomparable evidence of his resurrection.
 
@@ -4076,7 +4076,7 @@ Miracles are no longer needful, because they have already been. But when we list
 
 Religion is adapted to every kind of intellect. Some consider only its establishment, and this Religion is such that its very establishment is enough to prove its truth. Some trace it as far as the apostles; the more learned go back to the beginning of the world; the angels see it better still, and from earlier time.
 
-<span class="atom-split" data-atom="064" data-title="1. Objection. An angel from heaven." data-chapter="1. Objection. An angel from heaven." data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="1. Objection. An angel from heaven." data-chapter="1. Objection. An angel from heaven." data-kind="atom" data-srclang="en"></span>
 
 We must not judge of truth by miracles, but of miracles by truth.
 
@@ -4088,7 +4088,7 @@ Therefore what Father Lingende says, that God will not allow a [miracle](/concep
 
 When there shall be a dispute in the same Church, miracle will decide.
 
-<span class="atom-split" data-atom="065" data-title="2. Objection. (1/3)" data-chapter="2. Objection." data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="2. Objection. (1/3)" data-chapter="2. Objection." data-kind="atom" data-srclang="en"></span>
 
 But Antichrist will work miracles.
 
@@ -4202,7 +4202,7 @@ And also the two worlds. The creation of a new heaven and a new earth, a new lif
 
 And finally, the two natures which are in the righteous man, for they are the two worlds, and a member and image of Jesus Christ. And thus all the names suit them, righteous, sinners; dead though living, living though dead, elect, reprobate, etc.
 
-<span class="atom-split" data-atom="066" data-title="2. Objection. (2/3)" data-chapter="2. Objection." data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="2. Objection. (2/3)" data-chapter="2. Objection." data-kind="atom" data-srclang="en"></span>
 
 There are then a great number of truths in faith and in morals, which seem contrary to each other, which yet all subsist together in a wonderful order.
 
@@ -4290,7 +4290,7 @@ So that if it be true on the one hand that some lax religious, and some corrupt 
 
 And thus the faithful have no pretext to follow that laxity which is only offered them by the stranger hands of these casuists, instead of the sound doctrine which is presented to them by the fatherly hands of their own pastors. And the wicked and heretics have no reason to put forward these abuses as marks of the defective providence of God over his Church, since the Church having her true existence in the body of the hierarchy, it is so far from the present condition of things being a proof that God has abandoned her to corruption, that it has never so plainly appeared as at the present day that God visibly defends her from corruption.
 
-<span class="atom-split" data-atom="067" data-title="2. Objection. (3/3)" data-chapter="2. Objection." data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="2. Objection. (3/3)" data-chapter="2. Objection." data-kind="atom" data-srclang="en"></span>
 
 For if some of these men, who by an extraordinary vocation have made profession of retirement from the world, and have adopted the religious dress, that they might live in a more perfect state than ordinary Christians, have fallen into disorders which horrify ordinary Christians, and have become among us what the false prophets were among the Jews; this is a private and personal matter, which we must indeed deplore, but from which we can conclude nothing against the care which God takes for his Church; since all these things are so clearly foretold, and it has been long since announced that temptations would arise on account of such persons, so that when we are well instructed we see therein rather the notes of the guidance of God than his forgetfulness in regard to us.
 
@@ -4354,7 +4354,7 @@ They had only to take the passage, and disavow it.
 
 Sanctificavi prælium.
 
-<span class="atom-split" data-atom="068" data-title="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation. (1/3)" data-chapter="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation." data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation. (1/3)" data-chapter="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation." data-kind="atom" data-srclang="en"></span>
 
 I have re-read them since, for I had not known them....
 
@@ -4428,7 +4428,7 @@ I feared that I had written ill when I saw myself condemned, but the example of 
 
 It is better to obey God than men.
 
-<span class="atom-split" data-atom="069" data-title="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation. (2/3)" data-chapter="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation." data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation. (2/3)" data-chapter="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation." data-kind="atom" data-srclang="en"></span>
 
 I have neither fear nor hope. Not so the bishops. Port Royal fears, and it is a bad policy to dissolve the community, for they will fear no longer and will inspire greater fear.
 
@@ -4552,7 +4552,7 @@ It is very easy to take the pope unawares, because of his occupations, and the t
 
 The five propositions condemned, yet no miracle, for truth was not attacked, but the Sorbonne and the bull.
 
-<span class="atom-split" data-atom="070" data-title="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation. (3/3)" data-chapter="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation." data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation. (3/3)" data-chapter="M. Bourseys. At least they cannot disavow that they are opposed to the condemnation." data-kind="atom" data-srclang="en"></span>
 
 It is impossible that those who love God with all their heart, should misunderstand the Church, which is so evident.
 
@@ -4614,7 +4614,7 @@ Everyone can impose it, none can take it away.
 
 Probable. — If as bad reasons as these are probable, all would be so.
 
-<span class="atom-split" data-atom="071" data-title="2. Reason. Non potest compensari. Lessius. (1/2)" data-chapter="2. Reason. Non potest compensari. Lessius." data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="2. Reason. Non potest compensari. Lessius. (1/2)" data-chapter="2. Reason. Non potest compensari. Lessius." data-kind="atom" data-srclang="en"></span>
 
 To oppose not with holy, but with abominable maxims.
 
@@ -4718,7 +4718,7 @@ They make a rule of the exception. If the ancient fathers gave absolution before
 
 Priest still who will, as under Jeroboam.
 
-<span class="atom-split" data-atom="072" data-title="2. Reason. Non potest compensari. Lessius. (2/2)" data-chapter="2. Reason. Non potest compensari. Lessius." data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="2. Reason. Non potest compensari. Lessius. (2/2)" data-chapter="2. Reason. Non potest compensari. Lessius." data-kind="atom" data-srclang="en"></span>
 
 It is a horrible thing that they submit to us the discipline of the Church in our days as so excellent that it is made a crime to wish to change it Formerly it was infallibly good, and it was found it might be changed without sin, and now, such as it is, we ought not to wish it changed!
 
@@ -4756,7 +4756,7 @@ But to preserve pre-eminence to himself he gives prayer to whom he pleases.
 
 Why God has established prayer.
 
-<span class="atom-split" data-atom="073" data-title="3. To make us deserve other virtues by work. (1/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="3. To make us deserve other virtues by work. (1/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom" data-srclang="en"></span>
 
 Objection. But we believe that prayer comes from ourselves.
 
@@ -4874,7 +4874,7 @@ To put a mask on nature and disguise her. No more King, pope, bishop, but sacred
 
 There are places in which we should call Paris, Paris, and others in which we ought to call it the capital of the Kingdom.
 
-<span class="atom-split" data-atom="074" data-title="3. To make us deserve other virtues by work. (2/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="3. To make us deserve other virtues by work. (2/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom" data-srclang="en"></span>
 
 There are those who speak well and write ill. Because the place and the audience warm them, and draw from their minds more than would have been produced without that warmth.
 
@@ -4986,7 +4986,7 @@ When we are accustomed to use bad reasons for proving natural effects, we do not
 
 We are usually better persuaded by reasons which we have ourselves discovered, than by those which have come into the mind of others.
 
-<span class="atom-split" data-atom="075" data-title="3. To make us deserve other virtues by work. (3/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="3. To make us deserve other virtues by work. (3/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom" data-srclang="en"></span>
 
 M. de Roannez said: “Reasons come afterwards, but at first a thing pleases or shocks me, without my knowing the reason, and yet it displeased me for the reason which I only discover later.” But I believe, not that he was displeased for those reasons which he afterwards discovered, but that those reasons were only discovered because the thing was displeasing.
 
@@ -5038,7 +5038,7 @@ What is more absurd than to say that inanimate bodies have passion, fear, horror
 
 How foolish is painting, which draws admiration by the resemblance of things of which we do not admire the originals.
 
-<span class="atom-split" data-atom="076" data-title="3. To make us deserve other virtues by work. (4/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="3. To make us deserve other virtues by work. (4/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom" data-srclang="en"></span>
 
 In the same way that we injure the understanding we injure the feelings also.
 
@@ -5072,11 +5072,11 @@ There are many people who listen to the sermon as they listen to vespers.
 
 When a strong man armed keepeth his palace, his goods are in peace.
 
-<span class="atom-split" data-atom="077" data-title="William Finlayson Trotter Translation, 1910" data-chapter="William Finlayson Trotter Translation, 1910" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="William Finlayson Trotter Translation, 1910" data-chapter="William Finlayson Trotter Translation, 1910" data-kind="atom" data-srclang="en"></span>
 
 CONTENTS
 
-<span class="atom-split" data-atom="078" data-title="SECTION I. Thoughts on Mind and on Style (1/4)" data-chapter="SECTION I. Thoughts on Mind and on Style" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="SECTION I. Thoughts on Mind and on Style (1/4)" data-chapter="SECTION I. Thoughts on Mind and on Style" data-kind="atom" data-srclang="en"></span>
 
 1
 
@@ -5148,7 +5148,7 @@ People are generally better persuaded by the reasons which they have themselves 
 
 11
 
-<span class="atom-split" data-atom="079" data-title="SECTION I. Thoughts on Mind and on Style (2/4)" data-chapter="SECTION I. Thoughts on Mind and on Style" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="SECTION I. Thoughts on Mind and on Style (2/4)" data-chapter="SECTION I. Thoughts on Mind and on Style" data-kind="atom" data-srclang="en"></span>
 
 All great amusements are dangerous to the Christian life; but among all those which the world has invented there is none more to be feared than the theatre. It is a [representation](/concepts/idea) of the passions so natural and so delicate that it excites them and gives birth to them in our hearts, and, above all, to that of love, principally when it is represented as very chaste and virtuous. For the more innocent it appears to innocent souls, the more they are likely to be touched by it. Its violence pleases our self-love, which immediately forms a desire to produce the same effects which are seen so well represented; and, at the same time, we make ourselves a conscience founded on the propriety of the feelings which we see there, by which the fear of pure souls is removed, since they imagine that it cannot hurt their purity to love with a love which seems to them so reasonable.
 
@@ -5250,7 +5250,7 @@ There is a certain standard of grace and beauty which consists in a certain rela
 
 Whatever is formed according to this standard pleases us, be it house, song, discourse, verse, prose, woman, birds, rivers, trees, rooms, dress, &c. Whatever is not made according to this standard displeases those who have good taste.
 
-<span class="atom-split" data-atom="080" data-title="SECTION I. Thoughts on Mind and on Style (3/4)" data-chapter="SECTION I. Thoughts on Mind and on Style" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="SECTION I. Thoughts on Mind and on Style (3/4)" data-chapter="SECTION I. Thoughts on Mind and on Style" data-kind="atom" data-srclang="en"></span>
 
 And as there is a perfect relation between a song and a house which are made after a good model, because they are like this good model, though each after its kind; even so there is a perfect relation between things made after a bad model. Not that the bad model is unique, for there are many; but each bad sonnet, for example, on whatever false model it is formed, is just like a woman dressed after that model.
 
@@ -5370,7 +5370,7 @@ I always feel uncomfortable under such compliments as these: “I have given you
 
 58
 
-<span class="atom-split" data-atom="081" data-title="SECTION I. Thoughts on Mind and on Style (4/4)" data-chapter="SECTION I. Thoughts on Mind and on Style" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="SECTION I. Thoughts on Mind and on Style (4/4)" data-chapter="SECTION I. Thoughts on Mind and on Style" data-kind="atom" data-srclang="en"></span>
 
 You are ungraceful: “Excuse me, pray.” Without that excuse I would not have known there was anything amiss. “With reverence be it spoken . . .” The only thing bad is their excuse.
 
@@ -5396,7 +5396,7 @@ ENDNOTES.
 
 8 Cardinal Mazarin.
 
-<span class="atom-split" data-atom="082" data-title="SECTION II. The Misery of Man without God (1/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="SECTION II. The Misery of Man without God (1/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom" data-srclang="en"></span>
 
 60
 
@@ -5466,7 +5466,7 @@ For in fact what is man in nature? A Nothing in comparison with the Infinite, an
 
 What will he do then, but perceive the appearance of the middle of things, in an eternal despair of knowing either their beginning or their end. All things proceed from the Nothing, and are borne towards the Infinite. Who will follow these marvellous processes? The Author of these wonders understands them. None other can do so.
 
-<span class="atom-split" data-atom="083" data-title="SECTION II. The Misery of Man without God (2/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="SECTION II. The Misery of Man without God (2/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom" data-srclang="en"></span>
 
 Through failure to contemplate these Infinites, men have rashly rushed into the examination of nature, as though they bore some proportion to her. It is strange that they have wished to understand the beginnings of things, and thence to arrive at the knowledge of the whole, with a presumption as infinite as their object. For surely this design cannot be formed without presumption or without a capacity infinite like nature.
 
@@ -5506,7 +5506,7 @@ So if we are simply material, we can know nothing at all; and if we are composed
 
 Instead of receiving the ideas of these things in their purity, we colour them with our own qualities, and stamp with our composite being all the simple things which we contemplate.
 
-<span class="atom-split" data-atom="084" data-title="SECTION II. The Misery of Man without God (3/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="SECTION II. The Misery of Man without God (3/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom" data-srclang="en"></span>
 
 Who would not think, seeing us compose all things of mind and body, but that this mixture would be quite intelligible to us? Yet it is the very thing we least understand. Man is to himself the most wonderful object in nature; for he cannot conceive what the body is, still less what the mind is, and least of all how a body should be united to a mind. This is the consummation of his difficulties, and yet it is his very being. Modus quo corporibus adhærent spiritus comprehendi ab hominibus non potest, et hoc tamen homo est.5 Finally, to complete the proof of our weakness, I shall conclude with these two considerations…
 
@@ -5580,7 +5580,7 @@ If the greatest philosopher in the world find himself upon a plank wider than ac
 
 Every one knows that the sight of cats or rats, the crushing of a coal, etc. may unhinge the reason. The tone of voice affects the wisest, and changes the force of a discourse or a poem.
 
-<span class="atom-split" data-atom="085" data-title="SECTION II. The Misery of Man without God (4/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="SECTION II. The Misery of Man without God (4/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom" data-srclang="en"></span>
 
 Love or hate alters the aspect of justice. How much greater confidence has an advocate, retained with a large fee, in the justice of his cause! How much better does his bold manner make his case appear to the judges, deceived as they are by appearances! How ludicrous is reason, blown with a breath in every direction!
 
@@ -5660,7 +5660,7 @@ There is nothing he may not make natural; there is nothing natural he may not lo
 
 95
 
-<span class="atom-split" data-atom="086" data-title="SECTION II. The Misery of Man without God (5/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="SECTION II. The Misery of Man without God (5/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom" data-srclang="en"></span>
 
 Memory, joy, are intuitions; and even mathematical propositions become intuitions, for [education](/concepts/education) produces natural intuitions, and natural intuitions are erased by education.
 
@@ -5710,7 +5710,7 @@ Man is then only disguise, falsehood, and hypocrisy, both in himself and in rega
 
 101
 
-<span class="atom-split" data-atom="087" data-title="SECTION II. The Misery of Man without God (6/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="SECTION II. The Misery of Man without God (6/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom" data-srclang="en"></span>
 
 I set it down as a fact that if all men knew what each said of the other, there would not be four friends in the world. This is apparent from the quarrels which arise from the indiscreet tales told from time to time. I say, further, all men would be…
 
@@ -5822,7 +5822,7 @@ Contraries. — Man is naturally credulous and incredulous, timid and rash.
 
 126
 
-<span class="atom-split" data-atom="088" data-title="SECTION II. The Misery of Man without God (7/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="SECTION II. The Misery of Man without God (7/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom" data-srclang="en"></span>
 
 Description of man: dependency, desire of independence, need.
 
@@ -5910,7 +5910,7 @@ They imagine that if they obtained such a post, they would then rest with pleasu
 
 They have a secret instinct which impels them to seek amusement and occupation abroad, and which arises from the sense of their constant unhappiness. They have another secret instinct, a remnant of the greatness of our original nature, which teaches them that happiness in reality consists only in rest, and not in stir. And of these two contrary instincts they form within themselves a confused idea, which hides itself from their view in the depths of their soul, inciting them to aim at rest through excitement, and always to fancy that the satisfaction which they have not will come to them, if, by surmounting whatever difficulties confront them, they can thereby open the door to rest.
 
-<span class="atom-split" data-atom="089" data-title="SECTION II. The Misery of Man without God (8/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="SECTION II. The Misery of Man without God (8/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom" data-srclang="en"></span>
 
 Thus passes away all man’s life. Men seek rest in a struggle against difficulties; and when they have conquered these, rest becomes insufferable. For we think either of the misfortunes we have or of those which threaten us. And even if we should see ourselves sufficiently sheltered on all sides, weariness of its own accord would not fail to arise from the depths of the heart wherein it has its natural roots, and to fill the mind with its poison.
 
@@ -5946,7 +5946,7 @@ How hollow and full of ribaldry is the heart of man!
 
 144
 
-<span class="atom-split" data-atom="090" data-title="SECTION II. The Misery of Man without God (9/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="SECTION II. The Misery of Man without God (9/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom" data-srclang="en"></span>
 
 I spent a long time in the study of the abstract sciences, and was disheartened by the small number of fellow-students in them. When I commenced the study of man, I saw that these abstract sciences are not suited to man, and that I was wandering farther from my own state in examining them, than others in not knowing them. I pardoned their little knowledge; but I thought at least to find many companions in the study of man, and that it was the true study which is suited to him. I have been deceived; still fewer study it than geometry. It is only from the want of knowing how to study this that we seek the other studies. But is it not that even here is not the knowledge which man should have, and that for the purpose of happiness it is better for him not to know himself?
 
@@ -6060,7 +6060,7 @@ Diversion. — As men are not able to fight against death, misery, ignorance, th
 
 169
 
-<span class="atom-split" data-atom="091" data-title="SECTION II. The Misery of Man without God (10/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="SECTION II. The Misery of Man without God (10/10)" data-chapter="SECTION II. The Misery of Man without God" data-kind="atom" data-srclang="en"></span>
 
 Despite these miseries, man wishes to be happy, and only wishes to be happy, and cannot wish not to be so. But how will he set about it? To be happy he would have to make himself immortal; but, not being able to do so, it has occurred to him to prevent himself from thinking of death.
 
@@ -6158,7 +6158,7 @@ ENDNOTES.
 
 17 “In all things I have sought rest.”
 
-<span class="atom-split" data-atom="092" data-title="SECTION III. Of the Necessity of the Wager (1/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="SECTION III. Of the Necessity of the Wager (1/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom" data-srclang="en"></span>
 
 184
 
@@ -6230,7 +6230,7 @@ How can people hold these opinions? What joy can we find in the expectation of n
 
 “I know not who put me into the world, nor what the world is, nor what I myself am. I am in terrible ignorance of everything. I know not what my body is, nor my senses, nor my soul, not even that part of me which thinks what I say, which reflects on all and on itself, and knows itself no more than the rest. I see those frightful spaces of the universe which surround me, and I find myself tied to one corner of this vast expanse, without knowing why I am put in this place rather than in another, nor why the short time which is given me to live is assigned to me at this point rather than at another of the whole eternity which was before me or which shall come after me. I see nothing but infinites on all sides, which surround me as an atom, and as a shadow which endures only for an instant and returns no more. All I know is that I must soon die, but what I know least is this very death which I cannot escape.
 
-<span class="atom-split" data-atom="093" data-title="SECTION III. Of the Necessity of the Wager (2/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="SECTION III. Of the Necessity of the Wager (2/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom" data-srclang="en"></span>
 
 “As I know not whence I come, so I know not whither I go. I know only that, in leaving this world, I fall for ever either into annihilation or into the hands of an angry God, without knowing to which of these two states I shall be for ever assigned. Such is my state, full of weakness and uncertainty. And from all this I conclude that I ought to spend all the days of my life without caring to inquire into what must happen to me. Perhaps I might find some solution to my doubts, but I will not take the trouble, nor take a step to seek it; and after treating with scorn those who are concerned with this care, I will go without foresight and without fear to try the great event, and let myself be led carelessly to death, uncertain of the [eternity](/positions/eternity) of my future state.”
 
@@ -6254,7 +6254,7 @@ Before entering into the proofs of the Christian religion, I find it necessary t
 
 Of all their errors, this doubtless is the one which most convicts them of foolishness and blindness, and in which it is easiest to confound them by the first glimmerings of common sense, and by natural feelings.
 
-<span class="atom-split" data-atom="094" data-title="SECTION III. Of the Necessity of the Wager (3/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="SECTION III. Of the Necessity of the Wager (3/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom" data-srclang="en"></span>
 
 For it is not to be doubted that the duration of this life is but a moment; that [the state](/concepts/state) of death is eternal, whatever may be its nature; and that thus all our actions and thoughts must take such different directions according to the state of that [eternity](/positions/eternity), that it is impossible to take one step with sense and judgment, unless we regulate our course by the truth of that point which ought to be our ultimate end.
 
@@ -6396,7 +6396,7 @@ How I hate these follies of not believing in the Eucharist, &c.! If the Gospel b
 
 226
 
-<span class="atom-split" data-atom="095" data-title="SECTION III. Of the Necessity of the Wager (4/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="SECTION III. Of the Necessity of the Wager (4/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom" data-srclang="en"></span>
 
 Infidels, who profess to follow reason, ought to be exceedingly strong in reason. What say they then? “Do we not see,” say they, “that the brutes live and die like men, and Turks like Christians? They have their ceremonies, their prophets, their doctors, their saints, their monks, like us,” &c. (Is this contrary to [Scripture](/concepts/revelation)? Does it not say all this?)
 
@@ -6454,7 +6454,7 @@ Who then will blame Christians for not being able to give a reason for their bel
 
 Do not then reprove for error those who have made a choice; for you know nothing about it. “No, but I blame them for having made, not this choice, but a choice; for again both he who chooses heads and he who chooses tails are equally at fault, they are both in the wrong. The true course is not to wager at all.”
 
-<span class="atom-split" data-atom="096" data-title="SECTION III. Of the Necessity of the Wager (5/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="SECTION III. Of the Necessity of the Wager (5/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom" data-srclang="en"></span>
 
 ―Yes; but you must wager. It is not optional. You are embarked. Which will you choose then? Let us see. Since you must choose, let us see which interests you least. You have two things to lose, the true and the good; and two things to stake, your reason and your will, your knowledge and your happiness; and your nature has two things to shun, error and misery. Your reason is no more shocked in choosing one rather than the other, since you must of necessity choose. This is one point settled. But your happiness? Let us weigh the gain and the loss in wagering that God is. Let us estimate these two chances. If you gain, you gain all; if you lose, you lose nothing. [Wager](/figures/the_libertine), then, without hesitation that He is.— “That is very fine. Yes, I must wager; but I may perhaps wager too much.” — Let us see. Since there is an equal risk of gain and of loss, if you had only to gain two lives, instead of one, you might still wager. But if there were three lives to gain, you would have to play (since you are under the necessity of playing), and you would be imprudent, when you are forced to play, not to [chance](/concepts/fortune) your life to gain three at a game where there is an equal risk of loss and gain. But there is an [eternity](/positions/eternity) of life and happiness. And this being so, if there were an [infinity](/concepts/infinity) of chances, of which one only would be for you, you would still be right in wagering one to win two, and you would act stupidly, being obliged to play, by refusing to stake one life against three at a game in which out of an infinity of chances there is one for you, if there were an infinity of an infinitely happy life to gain. But there is here an infinity of an infinitely happy life to gain, a chance of gain against a finite number of chances of loss, and what you stake is finite. It is all divided; wherever the infinite is and there is not an infinity of chances of loss against that of gain, there is no time to hesitate, you must give all. And thus, when one is forced to play, he must renounce reason to preserve his life, rather than risk it for infinite gain, as likely to happen as the loss of nothingness.
 
@@ -6494,7 +6494,7 @@ Chances. — We must live differently in the world, according to these different
 
 238
 
-<span class="atom-split" data-atom="097" data-title="SECTION III. Of the Necessity of the Wager (6/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="SECTION III. Of the Necessity of the Wager (6/6)" data-chapter="SECTION III. Of the Necessity of the Wager" data-kind="atom" data-srclang="en"></span>
 
 What do you then promise me, in addition to certain troubles, but ten years of self-love (for ten years is the [chance](/concepts/fortune)), to try hard to please without success?
 
@@ -6512,7 +6512,7 @@ Reply. — Who has most reason to fear hell: he who is in ignorance whether ther
 
 Order. — I would have far more fear of being mistaken, and of finding that the Christian religion was true, than of not being mistaken in believing it true.
 
-<span class="atom-split" data-atom="098" data-title="SECTION IV. Of the Means of Belief (1/3)" data-chapter="SECTION IV. Of the Means of Belief" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="SECTION IV. Of the Means of Belief (1/3)" data-chapter="SECTION IV. Of the Means of Belief" data-kind="atom" data-srclang="en"></span>
 
 242
 
@@ -6604,7 +6604,7 @@ Disgust.
 
 259
 
-<span class="atom-split" data-atom="099" data-title="SECTION IV. Of the Means of Belief (2/3)" data-chapter="SECTION IV. Of the Means of Belief" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="SECTION IV. Of the Means of Belief (2/3)" data-chapter="SECTION IV. Of the Means of Belief" data-kind="atom" data-srclang="en"></span>
 
 Ordinary people have the power of not thinking of that about which they do not wish to think. “Do not meditate on the passages about the Messiah,” said the Jew to his son. Thus our people often act. Thus are false religions preserved, and even the true one, in regard to many persons.
 
@@ -6718,7 +6718,7 @@ Heart, instinct, principles.
 
 We know truth, not only by the reason, but also by the heart, and it is in this last way that we know first principles; and reason, which has no part in it, tries in vain to impugn them. The sceptics, who have only this for their object, [labour](/concepts/labour) to no purpose. We know that we do not dream, and however impossible it is for us to prove it by reason, this inability demonstrates only the weakness of our reason, but not, as they affirm, the uncertainty of all our knowledge. For the knowledge of first principles, as space, time, motion, number, is as sure as any of those which we get from reasoning. And reason must trust these intuitions of the heart, and must base them on every argument. (We have intuitive knowledge of the tri-dimensional nature of space, and of the infinity of number, and reason then shows that there are no two square numbers one of which is double of the other. Principles are intuited, propositions are inferred, all with certainty, though in different ways.) And it is as useless and absurd for reason to demand from the heart proofs of her first principles, before admitting them, as it would be for the heart to demand from reason an intuition of all demonstrated propositions before accepting them.
 
-<span class="atom-split" data-atom="100" data-title="SECTION IV. Of the Means of Belief (3/3)" data-chapter="SECTION IV. Of the Means of Belief" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="SECTION IV. Of the Means of Belief (3/3)" data-chapter="SECTION IV. Of the Means of Belief" data-kind="atom" data-srclang="en"></span>
 
 This inability ought, then, to serve only to humble reason, which would judge all, but not to impugn our certainty, as if only reason were capable of instructing us. Would to God, on the contrary, that we had never need of it, and that we knew everything by instinct and intuition! But nature has refused us this boon. On the contrary, she has given us but very little knowledge of this kind; and all the rest can be acquired only by reasoning.
 
@@ -6768,7 +6768,7 @@ Surely, after considering what is life and what is religion, we should not refus
 
 Proofs of religion. — Morality, Doctrine, Miracles, Prophecies, Types.
 
-<span class="atom-split" data-atom="101" data-title="SECTION V. Justice and the Reason of Effects (1/2)" data-chapter="SECTION V. Justice and the Reason of Effects" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="SECTION V. Justice and the Reason of Effects (1/2)" data-chapter="SECTION V. Justice and the Reason of Effects" data-kind="atom" data-srclang="en"></span>
 
 291
 
@@ -6846,7 +6846,7 @@ The cords which bind the respect of men to each other are in general cords of ne
 
 Let us then imagine we see society in the process of formation. Men will doubtless fight till the stronger party overcomes the weaker, and a dominant party is established. But when this is once determined, the masters, who do not desire the continuation of strife, then decree that the power which is in their hands shall be transmitted as they please. Some place it in election by the people, others in hereditary succession, &c.
 
-<span class="atom-split" data-atom="102" data-title="SECTION V. Justice and the Reason of Effects (2/2)" data-chapter="SECTION V. Justice and the Reason of Effects" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="SECTION V. Justice and the Reason of Effects (2/2)" data-chapter="SECTION V. Justice and the Reason of Effects" data-kind="atom" data-srclang="en"></span>
 
 And this is the point where imagination begins to play its part. Till now power makes fact; now power is sustained by imagination in a certain party, in France in the nobility, in Switzerland in the burgesses, &c.
 
@@ -6960,7 +6960,7 @@ The people have very sound opinions, for example:
 
 3. In being offended at a blow, on in desiring glory so much. But it is very desirable on account of the other essential goods which are joined to it; and a man who has received a blow, without resenting it, is overwhelmed with taunts and indignities.
 
-<span class="atom-split" data-atom="103" data-title="4. In working for the uncertain; in sailing on the sea; in walking over a plank." data-chapter="4. In working for the uncertain; in sailing on the sea; in walking over a plank." data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="4. In working for the uncertain; in sailing on the sea; in walking over a plank." data-chapter="4. In working for the uncertain; in sailing on the sea; in walking over a plank." data-kind="atom" data-srclang="en"></span>
 
 325
 
@@ -7034,7 +7034,7 @@ The reason of effects. — Degrees. The people honour persons of high birth. The
 
 True Christians nevertheless comply with folly, not because they respect folly, but the command of God, who for the punishment of men has made them subject to these follies. Omnis creatura subjecta est vanitati. Liberabitur. Thus Saint Thomas explains the passage in Saint James on giving place to the rich, that if they do it not in the sight of God, they depart from the command of religion.
 
-<span class="atom-split" data-atom="104" data-title="SECTION VI. The Philosophers (1/4)" data-chapter="SECTION VI. The Philosophers" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="SECTION VI. The Philosophers (1/4)" data-chapter="SECTION VI. The Philosophers" data-kind="atom" data-srclang="en"></span>
 
 339
 
@@ -7208,7 +7208,7 @@ Memory is necessary for all the operations of reason.
 
 Chance gives rise to thoughts, and chance removes them; no art can keep or acquire them.
 
-<span class="atom-split" data-atom="105" data-title="SECTION VI. The Philosophers (2/4)" data-chapter="SECTION VI. The Philosophers" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="SECTION VI. The Philosophers (2/4)" data-chapter="SECTION VI. The Philosophers" data-kind="atom" data-srclang="en"></span>
 
 A thought has escaped me. I wanted to write it down. I write instead, that it has escaped me.]
 
@@ -7292,7 +7292,7 @@ But since dreams are all different, and each single one is diversified, what is 
 
 388
 
-<span class="atom-split" data-atom="106" data-title="SECTION VI. The Philosophers (3/4)" data-chapter="SECTION VI. The Philosophers" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="SECTION VI. The Philosophers (3/4)" data-chapter="SECTION VI. The Philosophers" data-kind="atom" data-srclang="en"></span>
 
 Good sense. — They are compelled to say, “You are not acting in good faith; we are not asleep,” &c. How I love to see this proud reason humiliated and suppliant! For this is not the language of a man whose right is disputed, and who defends it with the power of armed hands. He is not foolish enough to declare that men are not acting in good faith, but he punishes this bad faith with force.
 
@@ -7416,7 +7416,7 @@ Men are so necessarily mad, that not to be mad would amount to another form of m
 
 415
 
-<span class="atom-split" data-atom="107" data-title="SECTION VI. The Philosophers (4/4)" data-chapter="SECTION VI. The Philosophers" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="SECTION VI. The Philosophers (4/4)" data-chapter="SECTION VI. The Philosophers" data-kind="atom" data-srclang="en"></span>
 
 The nature of man may be viewed in two ways: the one according to its end, and then he is great and incomparable; the other according to the multitude, just as we judge of the nature of the horse and the dog, popularly, by seeing its fleetness, et animum arcendi; and then man is abject and vile. These are the two ways which make us judge of him differently, and which occasion such disputes among philosophers.
 
@@ -7460,7 +7460,7 @@ I would then lead man to the desire of finding truth; to be free from passions, 
 
 All these contradictions, which seem most to keep me from the knowledge of religion, have led me most quickly to the true one.
 
-<span class="atom-split" data-atom="108" data-title="SECTION VII. Morality and Doctrine (1/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="SECTION VII. Morality and Doctrine (1/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom" data-srclang="en"></span>
 
 425
 
@@ -7510,7 +7510,7 @@ All other religions have not been able to do so. Let us see what the wisdom of G
 
 “From this principle which I disclose to you, you can recognise the cause of those contradictions which have astonished all men, and have divided them into parties holding so different views. Observe, now, all the feelings of greatness and glory which the experience of so many woes cannot stifle, and see if the cause of them must not be in another nature.”
 
-<span class="atom-split" data-atom="109" data-title="SECTION VII. Morality and Doctrine (2/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="SECTION VII. Morality and Doctrine (2/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom" data-srclang="en"></span>
 
 For [Port-Royal](/schools/jansenism) to-morrow (Prosopopœa).— “It is in vain, O men, that you seek within yourselves the remedy for your ills. All your light can only reach the knowledge that not in yourselves will you find truth or good. The philosophers have promised you that, and have been unable to do it. They neither know what is your true good, nor what is your true state. How could they have given remedies for your ills, when they did not even know them? Your chief maladies are pride, which takes you away from God, and lust, which binds you to earth; and they have done nothing else but cherish one or other of these diseases. If they gave you God as an end, it was only to administer to your pride; they made you think that you are by nature like Him, and conformed to Him. And those who saw the absurdity of this claim put you on another precipice, by making you understand that your nature was like that of the brutes, and led you to seek your good in the lusts which are shared by the animals. This is not the way to cure you of your unrighteousness, which these wise men never knew. I alone can make you understand who you are.…”
 
@@ -7556,7 +7556,7 @@ After having understood the whole nature of man. — That a religion may be true
 
 434
 
-<span class="atom-split" data-atom="110" data-title="SECTION VII. Morality and Doctrine (3/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="SECTION VII. Morality and Doctrine (3/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom" data-srclang="en"></span>
 
 The chief arguments of the sceptics — I pass over the lesser ones — are that we have no certainty of the truth of these principles apart from faith and [revelation](/concepts/revelation), except in so far as we naturally perceive them in ourselves. Now this natural intuition is not a convincing proof of their truth; since, having no certainty, apart from faith, whether man was created by a good God, or by a wicked demon, or by [chance](/concepts/fortune), it is doubtful whether these principles given to us are true, or false, or uncertain, according to our origin. Again, no person is certain, apart from faith, whether he is awake or sleeps, seeing that during sleep we believe that we are awake as firmly as we do when we are awake; we believe that we see space, figure, and motion; we are aware of the passage of time, we measure it; and in fact we act as if we were awake. So that half of our life being passed in sleep, we have on our own admission no idea of truth, whatever we may imagine. As all our intuitions are then illusions, who knows whether the other half of our life, in which we think we are awake, is not another sleep a little different from the former, from which we awake when we suppose ourselves asleep?
 
@@ -7596,7 +7596,7 @@ Whence it clearly seems that man by grace is made like unto God, and a partaker 
 
 Without this divine knowledge what could men do but either become elated by the inner feeling of their past greatness which still remains to them, or become despondent at the sight of their present weakness? For, not seeing the whole truth, they could not attain to perfect virtue. Some considering nature as incorrupt, others as incurable, they could not escape either pride or sloth, the two sources of all vice; since they cannot but either abandon themselves to it through cowardice, or escape it by pride. For if they knew the excellence of man, they were ignorant of his corruption; so that they easily avoided sloth, but fell into pride. And if they recognised the infirmity of nature, they were ignorant of its dignity; so that they could easily avoid vanity, but it was to fall into despair. Thence arise the different schools of the Stoics and Epicureans, the Dogmatists, Academicians, &c.
 
-<span class="atom-split" data-atom="111" data-title="SECTION VII. Morality and Doctrine (4/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="SECTION VII. Morality and Doctrine (4/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom" data-srclang="en"></span>
 
 The Christian religion alone has been able to cure these two vices, not by expelling the one through means of the other according to the wisdom of the world, but by expelling both according to the simplicity of the Gospel. For it teaches the righteous that it raises them even to a participation in divinity itself; that in this lofty state they still carry the source of all corruption, which renders them during all their life subject to error, misery, death, and sin; and it proclaims to the most ungodly that they are capable of the grace of their Redeemer. So making those tremble whom it justifies, and consoling those whom it condemns, religion so justly tempers fear with hope through that double capacity of grace and of sin, common to all, that it humbles infinitely more than reason alone can do, but without despair; and it exalts infinitely more than natural pride, but without inflating; thus making it evident that alone being exempt from error and vice, it alone fulfils the duty of instructing and correcting men.
 
@@ -7706,7 +7706,7 @@ All men naturally hate one another. They employ lust as far as possible in the s
 
 452
 
-<span class="atom-split" data-atom="112" data-title="SECTION VII. Morality and Doctrine (5/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="SECTION VII. Morality and Doctrine (5/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom" data-srclang="en"></span>
 
 To pity the unfortunate is not contrary to lust. On the contrary, we can quite well give such evidence of [friendship](/concepts/friendship), and acquire the reputation of kindly feeling, without giving anything.
 
@@ -7804,7 +7804,7 @@ I feel that I might not have been; for the Ego consists in my thoughts. Therefor
 
 470
 
-<span class="atom-split" data-atom="113" data-title="SECTION VII. Morality and Doctrine (6/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="SECTION VII. Morality and Doctrine (6/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom" data-srclang="en"></span>
 
 “Had I seen a [miracle](/concepts/miracle),” say men, “I should become converted.” How can they be sure they would do a thing of the nature of which they are ignorant? They imagine that this conversion consists in a [worship](/concepts/religion) of God which is like commerce, and in a communion such as they picture to themselves. True religion consists in annihilating self before that Universal Being, whom we have so often provoked, and who can justly destroy us at any time; in recognising that we can do nothing without Him, and have deserved nothing from Him but His displeasure. It consists in knowing that there is an unconquerable opposition between us and God, and that without a mediator there can be no communion with Him.
 
@@ -7874,7 +7874,7 @@ The body loves the hand; and the hand, if it had a will, should love itself in t
 
 Adhærens Deo unus spiritus est. We love ourselves, because we are members of Jesus Christ. We love Jesus Christ, because He is the body of which we are members. All is one, one is in the other, like the Three Persons.
 
-<span class="atom-split" data-atom="114" data-title="SECTION VII. Morality and Doctrine (7/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="SECTION VII. Morality and Doctrine (7/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom" data-srclang="en"></span>
 
 484
 
@@ -7974,7 +7974,7 @@ The just man acts by faith in the least things; when he reproves his servants, h
 
 All things can be deadly to us, even the things made to serve us; as in nature walls can kill us, and stairs can kill us, if we do not walk circumspectly.
 
-<span class="atom-split" data-atom="115" data-title="SECTION VII. Morality and Doctrine (8/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="SECTION VII. Morality and Doctrine (8/8)" data-chapter="SECTION VII. Morality and Doctrine" data-kind="atom" data-srclang="en"></span>
 
 The least movement affects all nature; the entire sea changes because of a rock. Thus in grace, the least action affects everything by its consequences; therefore everything is important.
 
@@ -8022,7 +8022,7 @@ The same river which runs there is idem numero as that which runs at the same ti
 
 Why God has established prayer.
 
-<span class="atom-split" data-atom="116" data-title="3. To make us deserve other virtues by work. (5/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="3. To make us deserve other virtues by work. (5/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom" data-srclang="en"></span>
 
 But to keep His own pre-eminence, He grants prayer to whom He pleases.
 
@@ -8178,7 +8178,7 @@ A glorious manner to welcome life and death, good and evil!
 
 539
 
-<span class="atom-split" data-atom="117" data-title="3. To make us deserve other virtues by work. (6/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="3. To make us deserve other virtues by work. (6/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom" data-srclang="en"></span>
 
 What difference in point of obedience is there between a soldier and a Carthusian monk? For both are equally under obedience and dependent, both engaged in equally painful exercises. But the soldier always hopes to command, and never attains this, for even captains and princes are ever slaves and dependants; still he ever hopes and ever works to attain this. Whereas the Carthusian monk makes a vow to be always dependent. So they do not differ in their perpetual thraldom, in which both of them always exist, but in the hope, which one always has, and the other never.
 
@@ -8286,7 +8286,7 @@ Jesus prays, uncertain of the will of His Father, and fears death; but, when He 
 
 Jesus asked of men and was not heard.
 
-<span class="atom-split" data-atom="118" data-title="3. To make us deserve other virtues by work. (7/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="3. To make us deserve other virtues by work. (7/7)" data-chapter="3. To make us deserve other virtues by work." data-kind="atom" data-srclang="en"></span>
 
 Jesus, while His disciples slept, wrought their salvation. He has wrought that of each of the righteous while they slept, both in their nothingness before their birth, and in their sins after their birth.
 
@@ -8366,7 +8366,7 @@ At the Last Supper He gave Himself in communion as about to die; to the disciple
 
 “Be not therefore troubled.”
 
-<span class="atom-split" data-atom="119" data-title="SECTION VIII. The Fundamentals of the Christian Religion (1/3)" data-chapter="SECTION VIII. The Fundamentals of the Christian Religion" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="SECTION VIII. The Fundamentals of the Christian Religion (1/3)" data-chapter="SECTION VIII. The Fundamentals of the Christian Religion" data-kind="atom" data-srclang="en"></span>
 
 556
 
@@ -8438,7 +8438,7 @@ There is nothing on earth that does not show either the wretchedness of man, or 
 
 563
 
-<span class="atom-split" data-atom="120" data-title="SECTION VIII. The Fundamentals of the Christian Religion (2/3)" data-chapter="SECTION VIII. The Fundamentals of the Christian Religion" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="SECTION VIII. The Fundamentals of the Christian Religion (2/3)" data-chapter="SECTION VIII. The Fundamentals of the Christian Religion" data-kind="atom" data-srclang="en"></span>
 
 It will be one of the confusions of the damned to see that they are condemned by their own reason, by which they claimed to condemn the Christian religion.
 
@@ -8520,7 +8520,7 @@ All things work together for good to the elect, even the obscurities of Scriptur
 
 576
 
-<span class="atom-split" data-atom="121" data-title="SECTION VIII. The Fundamentals of the Christian Religion (3/3)" data-chapter="SECTION VIII. The Fundamentals of the Christian Religion" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="SECTION VIII. The Fundamentals of the Christian Religion (3/3)" data-chapter="SECTION VIII. The Fundamentals of the Christian Religion" data-kind="atom" data-srclang="en"></span>
 
 The general conduct of the world towards the Church: God willing to blind and to enlighten. — The event having proved the divinity of these prophecies, the rest ought to be believed. And thereby we see the order of the world to be of this kind. The miracles of the Creation and the Deluge being forgotten, God sends the law and the miracles of Moses, the prophets who prophesied particular things; and to prepare a lasting [miracle](/concepts/miracle), He prepares prophecies and their fulfilment; but, as the prophecies could be suspected, He desires to make them above suspicion, &c.
 
@@ -8590,7 +8590,7 @@ For those, who, by these signs and that wisdom, have deserved your belief, and w
 
 Our religion is wise and foolish. Wise, because it is the most learned, and the most founded on miracles, prophecies, &c. Foolish, because it is not all this which makes us belong to it. This makes us indeed condemn those who do not belong to it; but it does not cause belief in those who do belong to it. It is the cross that makes them believe, ne evacuata sit crux. And so Saint Paul, who came with wisdom and signs, says that he has come neither with wisdom nor with signs; for he came to convert. But those who come only to convince, can say that they come with wisdom and with signs.
 
-<span class="atom-split" data-atom="122" data-title="SECTION IX. Perpetuity (1/2)" data-chapter="SECTION IX. Perpetuity" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="SECTION IX. Perpetuity (1/2)" data-chapter="SECTION IX. Perpetuity" data-kind="atom" data-srclang="en"></span>
 
 589
 
@@ -8722,7 +8722,7 @@ That God did not accept the posterity of Abraham.
 
 That the Jews were to be punished like strangers, if they transgressed. Deut. viii, 19: “If thou do at all forget the Lord thy God, and walk after other gods, I testify against you this day that ye shall surely perish, as the nations which the Lord destroyeth before your face.”
 
-<span class="atom-split" data-atom="123" data-title="SECTION IX. Perpetuity (2/2)" data-chapter="SECTION IX. Perpetuity" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="SECTION IX. Perpetuity (2/2)" data-chapter="SECTION IX. Perpetuity" data-kind="atom" data-srclang="en"></span>
 
 That strangers, if they loved God, were to be received by Him as the Jews. Isaiah lvi, 3: “Let not the stranger say, ‘The Lord will not receive me.’ The strangers who join themselves unto the Lord to serve Him and love Him, will I bring unto my holy mountain, and accept therein sacrifices, for mine house is a house of prayer.”
 
@@ -8790,7 +8790,7 @@ When they fought, it was for God only; their chief hope was in God only; they co
 
 Gen. xvii. 7. Statuam pactum meum inter me et te fœdere sempiterno ut sim Deus tuus.
 
-<span class="atom-split" data-atom="124" data-title="9. Et tu ergo custodies pactum meum. (1/3)" data-chapter="9. Et tu ergo custodies pactum meum." data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="9. Et tu ergo custodies pactum meum. (1/3)" data-chapter="9. Et tu ergo custodies pactum meum." data-kind="atom" data-srclang="en"></span>
 
 613
 
@@ -8836,7 +8836,7 @@ But, in thus considering this changeable and singular variety of morals and beli
 
 I find, then, this great and numerous people, sprung from a single man, who worship one God, and guide themselves by a law which they say that they obtained from His own hand. They maintain that they are the only people in the world to whom God has revealed His mysteries; that all men are corrupt and in disgrace with God; that they are all abandoned to their senses and their own imagination, whence come the strange errors and continual changes which happen among them, both of religions and of morals, whereas they themselves remain firm in their conduct; but that God will not leave other nations in this darkness for ever; that there will come a Saviour for all; that they are in the world to announce Him to men; that they are expressly formed to be forerunners and heralds of this great event, and to summon all nations to join with them in the expectation of this Saviour.
 
-<span class="atom-split" data-atom="125" data-title="9. Et tu ergo custodies pactum meum. (2/3)" data-chapter="9. Et tu ergo custodies pactum meum." data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="9. Et tu ergo custodies pactum meum. (2/3)" data-chapter="9. Et tu ergo custodies pactum meum." data-kind="atom" data-srclang="en"></span>
 
 To meet with this people is astonishing to me, and seems to me worthy of attention. I look at the law which they boast of having obtained from God, and I find it admirable. It is the first law of all, and is of such a kind that, even before the term law was in currency among the Greeks, it had, for nearly a thousand years earlier, been uninterruptedly accepted and observed by the Jews. I likewise think it strange that the first law of the world happens to be the most perfect; so that the greatest legislators have borrowed their laws from it, as is apparent from the law of the Twelve Tables at Athens, afterwards taken by the Romans, and as it would be easy to prove, if Josephus and others had not sufficiently dealt with this subject.
 
@@ -8922,7 +8922,7 @@ Sincere against their honour, and dying for it; this has no example in the world
 
 Sincerity of the Jews. — They preserve lovingly and carefully the book in which Moses declares that they have been all their life ungrateful to God, and that he knows they will be still more so after his death; but that he calls heaven and earth to witness against them, and that he has [taught] them enough.
 
-<span class="atom-split" data-atom="126" data-title="9. Et tu ergo custodies pactum meum. (3/3)" data-chapter="9. Et tu ergo custodies pactum meum." data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="9. Et tu ergo custodies pactum meum. (3/3)" data-chapter="9. Et tu ergo custodies pactum meum." data-kind="atom" data-srclang="en"></span>
 
 He declares that God, being angry with them, shall at last scatter them among all the nations of the earth; that as they have offended Him by worshipping gods who were not their God, so He will provoke them by calling a people who are not His people; that He desires that all His words be preserved for ever, and that His book be placed in the Ark of the Covenant to serve for ever as a witness against them.
 
@@ -9018,7 +9018,7 @@ It is a wonderful thing, and worthy of particular attention, to see this Jewish 
 
 They are visibly a people expressly created to serve as a witness to the Messiah (Isaiah, xliii. 9; xliv. 8). They keep the books, and love them, and do not understand them. And all this was foretold; that God’s judgments are entrusted to them, but as a sealed book.
 
-<span class="atom-split" data-atom="127" data-title="SECTION X. Typology" data-chapter="SECTION X. Typology" data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="SECTION X. Typology" data-chapter="SECTION X. Typology" data-kind="atom" data-srclang="en"></span>
 
 642
 
@@ -9028,11 +9028,11 @@ The whole problem then is to know if they have two meanings.
 
 That the [Scripture](/concepts/revelation) has two meanings, which Jesus Christ and the Apostles have given, is shown by the following proofs:
 
-<span class="atom-split" data-atom="128" data-title="1. Proof by Scripture itself. (2/2)" data-chapter="1. Proof by Scripture itself." data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="1. Proof by Scripture itself. (2/2)" data-chapter="1. Proof by Scripture itself." data-kind="atom" data-srclang="en"></span>
 
 2. Proof by the Rabbis. Moses Maimonides says that it has two aspects, and that the prophets have prophesied Jesus Christ only.
 
-<span class="atom-split" data-atom="129" data-title="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture. (1/4)" data-chapter="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture." data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture. (1/4)" data-chapter="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture." data-kind="atom" data-srclang="en"></span>
 
 5. Proof by the principles of the Rabbis, that there are two meanings; that there are two advents of the Messiah, a glorious and humiliating one, according to their desert ; that the prophets have prophesied of the Messiah only — the Law is not eternal, but must change at the coming of the Messiah — that then they shall no more remember the Red Sea; that the Jews and the Gentiles shall be mingled.
 
@@ -9146,7 +9146,7 @@ Lust has become natural to us, and has made our second nature. Thus there are tw
 
 661
 
-<span class="atom-split" data-atom="130" data-title="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture. (2/4)" data-chapter="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture." data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture. (2/4)" data-chapter="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture." data-kind="atom" data-srclang="en"></span>
 
 Penitence, alone of all these mysteries, has been manifestly declared to the Jews, and by Saint John, the Forerunner; and then the other mysteries; to indicate that in each man, as in the entire world, this order must be observed.
 
@@ -9244,7 +9244,7 @@ Saint Paul says himself that people will forbid to marry, and he himself speaks 
 
 Typical.— “Do all things according to the pattern which has been shown thee on the mount.” On which Saint Paul says that the Jews have shadowed forth heavenly things.
 
-<span class="atom-split" data-atom="131" data-title="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture. (3/4)" data-chapter="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture." data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture. (3/4)" data-chapter="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture." data-kind="atom" data-srclang="en"></span>
 
 675
 
@@ -9338,7 +9338,7 @@ If we take the law, the sacrifices, and the kingdom as realities, we cannot reco
 
 Types. — If the law and the sacrifices are the truth, it must please God, and must not displease Him. If they are types, they must be both pleasing and displeasing.
 
-<span class="atom-split" data-atom="132" data-title="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture. (4/4)" data-chapter="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture." data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture. (4/4)" data-chapter="4. Proof by the mystical interpretation which the Rabbis themselves give to Scripture." data-kind="atom" data-srclang="en"></span>
 
 Now in all the [Scripture](/concepts/revelation) they are both pleasing and displeasing. It is said that the law shall be changed; that the sacrifice shall be changed; that they shall be without law, without a prince, and without a sacrifice; that a new covenant shall be made; that the law shall be renewed; that the precepts which they have received are not good; that their sacrifices are abominable; that God has demanded none of them.
 
@@ -9398,7 +9398,7 @@ Now Moses, David, and Isaiah used the same terms. Who will say then that they ha
 
 Daniel (ix.) prays for the deliverance of the people from the captivity of their enemies. But he was thinking of sins, and to show this, he says that Gabriel came to tell him that his prayer was heard, and that there were only seventy weeks to wait, after which the people would be freed from iniquity, sin would have an end, and the Redeemer, the Holy of Holies, would bring eternal justice, not legal, but eternal.
 
-<span class="atom-split" data-atom="133" data-title="SECTION XI. The Prophecies (1/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="SECTION XI. The Prophecies (1/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom" data-srclang="en"></span>
 
 693
 
@@ -9498,7 +9498,7 @@ This same Jacob, disposing of this future land as though he had been its ruler, 
 
 This same Joseph, when dying, bade his children carry his bones with them when they should go into that land, to which they only came two hundred years afterwards.
 
-<span class="atom-split" data-atom="134" data-title="SECTION XI. The Prophecies (2/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="SECTION XI. The Prophecies (2/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom" data-srclang="en"></span>
 
 Moses, who wrote all these things so long before they happened, himself assigned to each family portions of that land before they entered it, as though he had been its ruler. [In fact he declared that God was to raise up from their nation and their race a prophet, of whom he was the type; and he foretold them exactly all that was to happen to them in the land which they were to enter after his death, the victories which God would give them, their ingratitude towards God, the punishments which they would receive for it, and the rest of their adventures.] He gave them judges who should make the division. He prescribed the entire form of political government which they should observe, the cities of refuge which they should build, and…
 
@@ -9566,7 +9566,7 @@ Reprobation of the Jews and conversion of the Gentiles. — Is. lxv.: “I am so
 
 “These shall be scattered like smoke in the day of my wrath, &c.
 
-<span class="atom-split" data-atom="135" data-title="SECTION XI. The Prophecies (3/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="SECTION XI. The Prophecies (3/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom" data-srclang="en"></span>
 
 “Your iniquities, and the iniquities of your fathers, will I assemble together, and will recompense you for all according to your works.
 
@@ -9670,7 +9670,7 @@ Daniel ii.: “All thy soothsayers and wise men cannot shew unto thee the secret
 
 “Then was the iron, the clay, the brass, the silver, and the gold broken to pieces together, and the wind carried them away; but this stone that smote the image became a great mountain, and filled the whole earth. This is the dream, and now I will give thee the interpretation thereof.
 
-<span class="atom-split" data-atom="136" data-title="SECTION XI. The Prophecies (4/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="SECTION XI. The Prophecies (4/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom" data-srclang="en"></span>
 
 “Thou who art the greatest of kings, and to whom God hath given a power so vast that thou art renowned among all peoples, art the head of gold which thou hast seen. But after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.
 
@@ -9714,7 +9714,7 @@ Daniel, xi. The angel said to Daniel: “There shall stand up yet,” (after Cyr
 
 “But out of a branch of her roots shall one stand up,” (Ptolemy Euergetes was the issue of the same father as Berenice), “which shall come with a mighty army into the land of the king of the north, where he shall put all under subjection, and he shall also carry captive into Egypt their gods, their princes, their gold, their silver, and all their precious spoils,” (if he had not been called into Egypt by domestic reasons, says Justin, he would have entirely stripped Seleucus); “and he shall continue several years when the king of the north can do nought against him.
 
-<span class="atom-split" data-atom="137" data-title="SECTION XI. The Prophecies (5/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="SECTION XI. The Prophecies (5/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom" data-srclang="en"></span>
 
 “And so he shall return into his kingdom. But his sons shall be stirred up, and shall assemble a multitude of great forces,” (Seleucus Ceraunus, Antiochus the Great). “And their army shall come and overthrow all; wherefore the king of the south shall be moved with choler, and shall also form a great army, and fight him,” (Ptolemy Philopator against Antiochus the Great at Raphia), “and conquer; and his troops shall become insolent, and his heart shall be lifted up,” (this Ptolemy desecrated the temple: Josephus): “he shall cast down many ten thousands, but he shall not be strengthened by it. For the king of the north,” (Antiochus the Great), “shall return with a greater multitude than before, and in those times also a great number of enemies shall stand up against the king of the south,” (during the reign of the young Ptolemy Epiphanes), “also the apostates and robbers of thy people shall exalt themselves to establish the vision; but they shall fall.” (Those who abandon their religion to please Euergetes, when he will send his troops to Scopas; for Antiochus will again take Scopas, and conquer them.) “And the king of the north shall destroy the fenced cities, and the arms of the south shall not withstand, and all shall yield to his will; he shall stand in the land of Israel, and it shall yield to him. And thus he shall think to make himself master of all the empire of Egypt,” (despising the youth of Epiphanes, says Justin). “And for that he shall make alliance with him, and give his daughter” (Cleopatra, in order that she may betray her husband. On which Appian says the doubting his ability to make himself master of Egypt by force, because of the protection of the Romans, he wished to attempt it by cunning). “He shall wish to corrupt her, but she shall not stand on his side, neither be for him. Then he shall turn his face to other designs, and shall think to make himself master of some isles,” (that is to say, seaports), “and shall take many,” (as Appian says).
 
@@ -9750,7 +9750,7 @@ Is. xlix.: “Listen, O isles, unto me, and hearken, ye people, from afar: The L
 
 “Again saith the Lord unto me, I have heard thee in the days of salvation and of mercy, and I will preserve thee for a covenant of the people, to cause to inherit the desolate nations, that thou mayest say to the prisoners: Go forth; to them that are in darkness show yourselves, and possess these abundant and fertile lands. They shall not hunger nor thirst, neither shall the heat nor sun smite them; for he that hath mercy upon them shall lead them, even by the springs of waters shall he guide them, and make the mountains a way before them. Behold, the peoples shall come from all parts, from the east and from the west, from the north and from the south. Let the heavens give glory to God; let the earth be joyful; for it hath pleased the Lord to comfort His people, and He will have mercy upon the poor who hope in Him.
 
-<span class="atom-split" data-atom="138" data-title="SECTION XI. The Prophecies (6/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="SECTION XI. The Prophecies (6/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom" data-srclang="en"></span>
 
 “Yet Sion dared to say: The Lord hath forsaken me, and hath forgotten me. Can a woman forget her child, that she should not have compassion on the son of her womb? but if she forget, yet will not I forget thee, O Sion. I will bear thee always between my hands, and thy walls are continually before me. They that shall build thee are come, and thy destroyers shall go forth of thee. Lift up thine eyes round about, and behold; all these gather themselves together, and come to thee. As I live, saith the Lord, thou shalt surely clothe thee with them all, as with an ornament, thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and the children thou shalt have after thy barrenness shall say again in thy ears: The place is too strait for me: give place to me that I may dwell. Then shalt thou say in thy heart: who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who brought up these? Behold, I was left alone; there, where had they been? And the Lord shall say to thee: Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people; and they shall bring thy sons in their arms and in their bosoms. And kings shall be their nursing fathers, and queens their nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the Lord; for they shall not be ashamed that wait for me. Shall the prey be taken from the mighty? But even if the captives be taken away from the strong, nothing shall hinder me from saving thy children, and from destroying thy enemies; and all flesh shall know that I am the Lord, thy Saviour and thy Redeemer, the mighty One of Jacob.
 
@@ -9808,7 +9808,7 @@ He will be born in the village of Bethlehem. Micah, v. He will appear chiefly in
 
 He is to blind the learned and the wise. Is. vi., viii., xxix., &c.; and to preach the Gospel to the lowly. Is. xxix.; to open the eyes of the blind, give health to the sick, and bring light to those that languish in darkness. Is. lxi.
 
-<span class="atom-split" data-atom="139" data-title="SECTION XI. The Prophecies (7/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="SECTION XI. The Prophecies (7/7)" data-chapter="SECTION XI. The Prophecies" data-kind="atom" data-srclang="en"></span>
 
 He is to show the perfect way, and be the teacher of the Gentiles. Is. lv.; xlii. 1 — 7.
 
@@ -9904,7 +9904,7 @@ Transfixerunt. Zech. xii. 10.
 
 That a deliverer should come, who would crush the demon’s head, and free His people from their sins, ex omnibus iniquitatibus; that there should be a New Covenant, which would be eternal; that there should be another priesthood after the order of Melchisedek, and it should be eternal; that the Christ should be glorious, mighty, strong, and yet so poor that He would not be recognised, nor taken for what He is, but rejected and slain; that His people who denied Him should no longer be His people; that the idolaters should receive Him, and take refuge in Him; that He should leave Zion to reign in the centre of idolatry; that nevertheless the Jews should continue for ever; that He should be of Judah, and when there should be no longer a king.
 
-<span class="atom-split" data-atom="140" data-title="SECTION XII. Proofs of Jesus Christ (1/4)" data-chapter="SECTION XII. Proofs of Jesus Christ" data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="SECTION XII. Proofs of Jesus Christ (1/4)" data-chapter="SECTION XII. Proofs of Jesus Christ" data-kind="atom" data-srclang="en"></span>
 
 737
 
@@ -10030,7 +10030,7 @@ The time of the first advent was foretold; the time of the second is not so; bec
 
 758
 
-<span class="atom-split" data-atom="141" data-title="SECTION XII. Proofs of Jesus Christ (2/4)" data-chapter="SECTION XII. Proofs of Jesus Christ" data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="SECTION XII. Proofs of Jesus Christ (2/4)" data-chapter="SECTION XII. Proofs of Jesus Christ" data-kind="atom" data-srclang="en"></span>
 
 God, in order to cause the Messiah to be known by the good and not to be known by the wicked, made Him to be foretold in this manner. If the manner of the Messiah had been clearly foretold, there would have been no obscurity, even for the wicked. If the time had been obscurely foretold, there would have been obscurity, even for the good. For their [goodness of heart] would not have made them understand, for instance, that the closed mem signifies six hundred years. But the time has been clearly foretold, and the manner in types.
 
@@ -10140,7 +10140,7 @@ Saint John was to turn the hearts of the fathers to the children, and Jesus Chri
 
 777
 
-<span class="atom-split" data-atom="142" data-title="SECTION XII. Proofs of Jesus Christ (3/4)" data-chapter="SECTION XII. Proofs of Jesus Christ" data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="SECTION XII. Proofs of Jesus Christ (3/4)" data-chapter="SECTION XII. Proofs of Jesus Christ" data-kind="atom" data-srclang="en"></span>
 
 The effects in communi and in particulari. The semi-Pelagians err in saying of in communi what is true only in particulari; and the Calvinists in saying in particulari what is true in communi. Such is my opinion.
 
@@ -10246,7 +10246,7 @@ It would have been useless for Archimedes to have acted the prince in his books 
 
 It would have been useless for our Lord Jesus Christ to come like a king, in order to shine forth in His kingdom of holiness. But He came there appropriately in the glory of His own order.
 
-<span class="atom-split" data-atom="143" data-title="SECTION XII. Proofs of Jesus Christ (4/4)" data-chapter="SECTION XII. Proofs of Jesus Christ" data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="SECTION XII. Proofs of Jesus Christ (4/4)" data-chapter="SECTION XII. Proofs of Jesus Christ" data-kind="atom" data-srclang="en"></span>
 
 It is most absurd to take offence at the lowliness of Jesus Christ, as if His lowliness were in the same order as the greatness which He came to manifest. If we consider this greatness in His life, in His passion, in His obscurity, in His death, in the choice of His disciples, in their desertion, in His secret resurrection, and the rest, we shall see it to be so immense, that we shall have no reason for being offended at a lowliness which is not of that order.
 
@@ -10302,7 +10302,7 @@ The apostles were either deceived or deceivers. Either supposition has difficult
 
 While Jesus Christ was with them, He could sustain them. But, after that, if He did not appear to them, who inspired them to act?
 
-<span class="atom-split" data-atom="144" data-title="SECTION XIII. The Miracles (1/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom"></span>
+<span class="atom-split" data-atom="144" data-title="SECTION XIII. The Miracles (1/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom" data-srclang="en"></span>
 
 803
 
@@ -10408,7 +10408,7 @@ Miracle does not always signify miracle, 1 Sam., xiv. 15; miracle signifies fear
 
 820
 
-<span class="atom-split" data-atom="145" data-title="SECTION XIII. The Miracles (2/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom"></span>
+<span class="atom-split" data-atom="145" data-title="SECTION XIII. The Miracles (2/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom" data-srclang="en"></span>
 
 If the devil favoured the doctrine which destroys him, he would be divided against himself, as Jesus Christ said. If God favoured the doctrine which destroys the Church, He would be divided against Himself. Omne regnum divisum. For Jesus Christ wrought against the devil, and destroyed his power over the heart, of which exorcism is the symbolisation, in order to establish the kingdom of God. And thus He adds, Si in digito Dei regnum Dei ad vos.
 
@@ -10534,7 +10534,7 @@ So soon, then, as we see a miracle, we must either assent to it, or have strikin
 
 836
 
-<span class="atom-split" data-atom="146" data-title="SECTION XIII. The Miracles (3/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom"></span>
+<span class="atom-split" data-atom="146" data-title="SECTION XIII. The Miracles (3/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom" data-srclang="en"></span>
 
 There is a great difference between not being for Jesus Christ and saying so, and not being for Jesus Christ and pretending to be so. The one party can do miracles, not the others. For it is clear of the one party, that they are opposed to the truth, but not of the others; and thus miracles are clearer.
 
@@ -10626,7 +10626,7 @@ There is a mutual duty between God and men. We must pardon Him this saying: Quid
 
 “God must fulfil His promises,” &c.
 
-<span class="atom-split" data-atom="147" data-title="SECTION XIII. The Miracles (4/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom"></span>
+<span class="atom-split" data-atom="147" data-title="SECTION XIII. The Miracles (4/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom" data-srclang="en"></span>
 
 Men owe it to God to accept the religion which He sends. God owes it to men not to lead them into error. Now, they would be led into error, if the workers of miracles announced a doctrine which should not appear evidently false to the light of common sense, and if a greater worker of miracles had not already warned men not to believe them.
 
@@ -10742,7 +10742,7 @@ If the cooling of love leaves the Church almost without believers, miracles will
 
 If one miracle were wrought among the Jesuits!
 
-<span class="atom-split" data-atom="148" data-title="SECTION XIII. The Miracles (5/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom"></span>
+<span class="atom-split" data-atom="148" data-title="SECTION XIII. The Miracles (5/5)" data-chapter="SECTION XIII. The Miracles" data-kind="atom" data-srclang="en"></span>
 
 When a [miracle](/concepts/miracle) disappoints the expectation of those in whose presence it happens, and there is a disproportion between [the state](/concepts/state) of their faith and the instrument of the miracle, it ought then to induce them to change. But with you it is otherwise. There would be as much reason in saying that, if the Eucharist raised a dead man, it would be necessary for one to turn a Calvinist rather than remain a Catholic. But when it crowns the expectation, and those who hoped that God would bless the remedies, see themselves healed without remedies…
 
@@ -10782,7 +10782,7 @@ I suppose that men believe miracles. You corrupt religion either in favour of yo
 
 On the miracle. — As God has made no family more happy, let it also be the case that He find none more thankful.
 
-<span class="atom-split" data-atom="149" data-title="SECTION XIV. Appendix: Polemical Fragments (1/4)" data-chapter="SECTION XIV. Appendix: Polemical Fragments" data-kind="atom"></span>
+<span class="atom-split" data-atom="149" data-title="SECTION XIV. Appendix: Polemical Fragments (1/4)" data-chapter="SECTION XIV. Appendix: Polemical Fragments" data-kind="atom" data-srclang="en"></span>
 
 857
 
@@ -10870,7 +10870,7 @@ The Church, the Pope. Unity, plurality. — Considering the Church as a unity, t
 
 872
 
-<span class="atom-split" data-atom="150" data-title="SECTION XIV. Appendix: Polemical Fragments (2/4)" data-chapter="SECTION XIV. Appendix: Polemical Fragments" data-kind="atom"></span>
+<span class="atom-split" data-atom="150" data-title="SECTION XIV. Appendix: Polemical Fragments (2/4)" data-chapter="SECTION XIV. Appendix: Polemical Fragments" data-kind="atom" data-srclang="en"></span>
 
 The Pope is head. Who else is known of all? Who else is recognised by all, having power to insinuate himself into all the body, because he holds the principal shoot, which insinuates itself everywhere? How easy it was to make this degenerate into tyranny! That is why Christ has laid down for them this precept: Vos autem non sic.2
 
@@ -11000,7 +11000,7 @@ They cannot have perpetuity, and they seek universality; and therefore they make
 
 Against those who misuse passages of [Scripture](/concepts/revelation), and who pride themselves in finding one which seems to favour their error. — The chapter for Vespers, Passion Sunday, the prayer for the king.
 
-<span class="atom-split" data-atom="151" data-title="SECTION XIV. Appendix: Polemical Fragments (3/4)" data-chapter="SECTION XIV. Appendix: Polemical Fragments" data-kind="atom"></span>
+<span class="atom-split" data-atom="151" data-title="SECTION XIV. Appendix: Polemical Fragments (3/4)" data-chapter="SECTION XIV. Appendix: Polemical Fragments" data-kind="atom" data-srclang="en"></span>
 
 Explanation of these words: “He that is not with me is against me.” And of these others: “He that is not against you is for you.” A person who says : “I am neither for nor against;” we ought to reply to him…
 
@@ -11122,7 +11122,7 @@ I feared that I had written ill, seeing myself condemned; but the example of so 
 
 “It is better to obey God than men.”
 
-<span class="atom-split" data-atom="152" data-title="SECTION XIV. Appendix: Polemical Fragments (4/4)" data-chapter="SECTION XIV. Appendix: Polemical Fragments" data-kind="atom"></span>
+<span class="atom-split" data-atom="152" data-title="SECTION XIV. Appendix: Polemical Fragments (4/4)" data-chapter="SECTION XIV. Appendix: Polemical Fragments" data-kind="atom" data-srclang="en"></span>
 
 I fear nothing; I hope for nothing. It is not so with the bishops. Port Royal fears, and it is bad policy to disperse them; for they will fear no longer and will cause greater fear. I do not even fear your like censures, if they are not founded on those of tradition. Do you censure all? What! even my respect? No. Say then what, or you will do nothing, if you do not point out the evil, and why it is evil. And this is what they will have great difficulty in doing.
 

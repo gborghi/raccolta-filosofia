@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/4º_finitismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="4.º Finitismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="4.º Finitismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No quiero terminar esta filiación de las tendencias profundas que afloran en la teoría de la relatividad sin aludir a la más clara y patente. Mientras el pasado utopista lo arreglaba todo recurriendo al [infinito](/concepts/infinity) en el espacio y en el tiempo, la física de Einstein —y la matemática reciente de Brouwer y Weyl lo mismo— acota el universo. El mundo de Einstein tiene curvatura, y, por tanto, es cerrado y finito[81].
 

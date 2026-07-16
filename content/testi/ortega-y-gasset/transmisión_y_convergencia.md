@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/transmisión_y_convergencia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Transmisión y convergencia" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Transmisión y convergencia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La sazón de 1880 era más favorable a la tendencia opuesta. El mecanicismo halagaba a los espíritus. Un acre pesimismo soplaba en las jarcias de todas las ideologías. A las «ideas nacionales» de Bastian se opone el antropogeógrafo Ratzel. Según aquél las formas históricas emanan de la originalidad humana; según éste, son resultados automáticos del medio. Generosamente admite Bastian una gran riqueza de invenciones independientes. Ratzel parte, en cambio, de la «pobreza de ideas» connatural a la especie humana. Siempre que puede elude el hombre el esfuerzo de inventar y prefiere recurrir a la imitación, al préstamo. Existe ciertamente un «patrimonio común a todos los hombres» del cual Ratzel hace el inventario: a él pertenecen, por ejemplo, el fuego producido por el rozamiento de dos palos; la caza con armas arrojadizas o contundentes; el conocimiento de algunas plantas nutritivas o venenosas; el adorno con tatuajes o pinturas, etcétera. Pero en todo lo que no es esto acertaremos pensando que fue inventado una sola vez, en un solo lugar y de allí se ha ido extendiendo por transmisión.
 

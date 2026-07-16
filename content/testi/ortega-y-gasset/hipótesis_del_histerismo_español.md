@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/hipótesis_del_histerismo_español" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Hipótesis del histerismo español" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Hipótesis del histerismo español" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Supongo que al llegar aquí habrá acudido a la mente del lector un tropel de fenómenos característicos de nuestra vida española, afines a esos datos del arte de Baroja.
 
@@ -64,7 +64,7 @@ El chulismo, el flamenquismo, la bravuconería, la exageración, el retruécano 
 
 No se me oculta que al proyectar dos tipos clínicos de la patología individual como histeria y neurosis sobre la espiritualidad colectiva, dejan de ser enfermedades, en un sentido médico. Conste así. Pero se transforman en enfermedades, según un sentido histórico. Conste también.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 En cierto sentido, encuentro en Baroja una manifestación superior del histerismo nacional. Todos somos un poco como él, pero somos menos sinceros. Lo mejor y lo peor de la España actual se presenta en Baroja a la intemperie, sin pellejo. Y lejos de ser esto una censura, repito que se me aparece como el más fecundo punto de vista desde el cual puede salvarse su obra, tal y como ésta se presenta. Dentro de cincuenta años, los libros de Baroja tendrán principalmente valor de síntomas nacionales.
 

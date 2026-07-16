@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_principio_sindicativo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El principio sindicativo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El principio sindicativo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Si partimos, como es justo, de exigir a todo ciudadano que viva de su trabajo, nos encontraremos con que la sociedad entera es, por una de sus caras, una cooperación o comunidad de trabajadores. Siendo el trabajo, pues, uno de los principios esenciales de la sociedad, parece evidente que los ciudadanos deben organizarse según sus necesidades de trabajadores. Los obreros de una fábrica conviven dentro de ella ocho horas diarias, cuando menos; por tanto, tienen trabadas sus vidas la mejor parte del día en cuanto obreros de esa fábrica. Sin embargo, esa realidad de su convivencia no tiene —hace poco, sobre todo, no tenía— la menor significación política, no forma un organismo jurídico. Esto es, claro está, absurdo. Esos hombres, en cuanto obreros de esa fábrica, tienen necesidades y relaciones características, que deberán ser reguladas jurídicamente. Deben, pues, formar una asociación de trabajo. El personal de fábricas similares, a su vez, significa de hecho una unidad específica de intereses y relaciones. Su asociación será el Sindicato del gremio. De esta manera, la sindicación da la forma o expresión jurídica a la convivencia del trabajo, que es una profunda realidad social.
 

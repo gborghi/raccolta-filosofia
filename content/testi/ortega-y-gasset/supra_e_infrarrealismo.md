@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/supra_e_infrarrealismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Supra e infrarrealismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Supra e infrarrealismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero si es la metáfora el más radical instrumento de deshumanización, no puede decirse que sea el único. Hay innumerables de alcance diverso.
 

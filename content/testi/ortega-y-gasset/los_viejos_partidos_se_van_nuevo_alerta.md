@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_viejos_partidos_se_van_nuevo_alerta" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los viejos partidos se van…— Nuevo «alerta»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Los viejos partidos se van…— Nuevo «alerta»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Un nuevo golpe de hacha sobre el partido conservador; eso fue la sesión de ayer en el Congreso de los Diputados. Destrozado e incapacitado el partido liberal para una obra seria de gobierno —la última experiencia de don Amós Salvador es prueba elocuentísima—, veremos dentro de poco al partido conservador en situación semejante. Si es signo de progreso, y sobre todo, si es motivo de esperanza la disgregación de los viejos partidos, porque ello abrirá el paso a fuerzas nuevas —nosotros sostenemos que sí— hemos de afirmar que desde hace dos años España camina hacia un evidente mejoramiento de sus costumbres políticas. Para quienes sólo sean capaces de contemplar con ojos limitados el inmediato horizonte de la presente situación española, nuestra afirmación será pintorescamente paradójica. Es necesario tender la vista hacia adelante si se quiere advertir que de este caos que ahora desbarata nuestras organizaciones políticas, ha de brotar fatalmente la chispa de luz que España aguarda con afán.
 

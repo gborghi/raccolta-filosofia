@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estética_en_el_tranvía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Estética en el tranvía" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Estética en el tranvía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pedir a un español que al entrar en el tranvía renuncie a dirigir una mirada de especialista sobre las mujeres que en él van, es demandar lo imposible. Se trata de uno de los hábitos más arraigados y característicos de nuestro pueblo. A los extranjeros y a algunos compatriotas les parece incorrecto ese modo insistente y casi táctil con que mira el español a la mujer. Yo soy uno de éstos: me produce una gran repugnancia. Y, sin embargo, creo que esa costumbre, suprimida la insistencia, la petulancia y la tactilidad visual, es uno de los rasgos más originales, bellos y generosos de nuestra raza. Como con otras manifestaciones de la espontaneidad española acontece con ésta; tal y como se presentan, impolutas, toscas, mezclado lo puro y lo torpe, ofrecen un aspecto de barbarie. Mas si se las depura, libertando lo exquisito de lo grosero y potenciando su germen noble, podrían constituir un sistema de ademanes originalísimo y digno de competir con aquellos estilos de movimiento que se han llamado gentleman o homme de bonne compagnie. Los artistas, los poetas, los hombres de mundo son los encargados de someter el material bruto de esos hábitos multiseculares a la química de depuraciones reflexivas. Velázquez hizo eso, y estad seguros que en la admiración de otras naciones por su obra influye no poco la acertada estilización en que cendró el gesto español. Hermann Cohen me decía que aprovechaba siempre sus estancias en París para ir a la sinagoga con objeto de contemplar los ademanes de los judíos oriundos de España[10].
 
@@ -46,7 +46,7 @@ He aquí una advertencia exacta, en mi entender, que refleja un fenómeno efecti
 
 La expresión más exacta de la tesitura en que nos hallamos cuando, por vez primera, miramos a una mujer, sería ésta que parece sólo un frívolo giro galante: «Toda mujer es guapa mientras no se demuestre lo contrario». Y aun cabría añadir: de una belleza que no hemos previsto.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Verdad es que en ocasiones las promesas no se cumplen. Recuerdo a este propósito una anécdota del hampa periodística madrileña. Cuéntase de un crítico de teatro, muerto hace no pocos años, que padecía la debilidad de repartir las alabanzas y las censuras según un régimen financiero. Llegó un tenor que al día siguiente había de debutar en el teatro Real. El menesteroso crítico se apresuró a visitarle. Le habló de los muchos hijos y las pocas rentas: quedó cerrado el trato en mil pesetas. La jornada del début comenzó sin que el crítico recibiese la cantidad convenida. Empezó la función y el dinero no llegaba; pasó un acto, y otro y todos, y cuando en la Redacción se puso a escribir el crítico, aún no había llegado el emolumento. A la mañana siguiente el periódico insertaba la revista de la ópera; en ella no se hablaba del tenor ni una palabra hasta la postrera línea, donde se leía: «Olvidábamos decir que debutó el tenor X: es un artista que promete; veremos si cumple».
 

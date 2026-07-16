@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/aristotle/on_breath_481a" data-philosopher="Aristotle"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="On Breath (481a)" data-chapter="PREFACE" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="On Breath (481a)" data-chapter="PREFACE" data-kind="intro" data-srclang="en"></span>
 
 This treatise has been rejected as spurious by practically all editors, one of the chief reasons being the confusion of the senses assigned to ‘apteria’. It is sometimes ascribed to Theophrastus. Its author had certainly studied the Aristotelian Corpus, and analogies may be traced to the de Respiratione and some of the zoological treatises.
 
@@ -34,43 +34,43 @@ My best thanks are due to Mr. W. D. Ross, of Oriel College, for numerous suggest
 
 J. F. D.
 
-<span class="atom-split" data-atom="002" data-title="CHAPTER 1." data-chapter="CHAPTER 1." data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="CHAPTER 1." data-chapter="CHAPTER 1." data-kind="atom" data-srclang="en"></span>
 
 The breath, being of bodily nature, must be maintained by some [method](/axes/method) of nutrition. Nutriment may be supplied by the blood, which ultimately nourishes all parts of the body. In this case there must be a residue consequent on the process of digestion; how can it be excreted? Difficulties are involved whether we assume that the residue is finer or coarser than the nutriment.
 
-<span class="atom-split" data-atom="003" data-title="CHAPTER 2." data-chapter="CHAPTER 2." data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="CHAPTER 2." data-chapter="CHAPTER 2." data-kind="atom" data-srclang="en"></span>
 
 Aristogenes supposes that the breath digests the air breathed into the lungs; this is to assume that the breath is different from the outside air, and it may indeed be coarser. The digestion of the air is very rapid and must be caused by the bodily heat. Respiration extends only to the lungs; how then is air carried to the lower parts? Perhaps in the form of a kind of excrement. There is a difficulty in the case of non-respiratory creatures — but perhaps they are falsely so-called. Probably respiration of some sort is necessary to all. Aquatic animals must take in air with their food, since no air is contained in water.
 
-<span class="atom-split" data-atom="004" data-title="CHAPTER 3." data-chapter="CHAPTER 3." data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="CHAPTER 3." data-chapter="CHAPTER 3." data-kind="atom" data-srclang="en"></span>
 
 Empedocles and Democritus considered the process of respiration but disregarded the purpose; others assume even the process as obvious. Its real purpose is refrigeration. The breath is uniformly distributed through the body, and causes nutrition of the lower parts and, apparently, of the bones, though in some parts we can trace no air-ducts. These parts may be compared to plants, which live and grow although they too have no air-ducts.
 
-<span class="atom-split" data-atom="005" data-title="CHAPTER 4." data-chapter="CHAPTER 4." data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="CHAPTER 4." data-chapter="CHAPTER 4." data-kind="atom" data-srclang="en"></span>
 
 The three functions of the breath, respiration, pulsation, and assimilation of nutriment, are perceptible in different degrees by sense or reason. The motive principle of respiration is within, probably in the Soul. Nutrition is originated by respiration. Pulsation, though a function of breath, is not connected with respiration, for variations in respiration have no effect on the pulse. No rational purpose can be assigned to pulsation, whereas the purposes of the other two functions are obvious. It is an open question which of the three is actually earliest.
 
-<span class="atom-split" data-atom="006" data-title="CHAPTER 5." data-chapter="CHAPTER 5." data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="CHAPTER 5." data-chapter="CHAPTER 5." data-kind="atom" data-srclang="en"></span>
 
 The breath is carried to the belly by a duct passing along the loins. We cannot determine how far this breath is akin to Soul. The relations of the internal to the external air in non-respiring creatures. The warming and cooling of the internal air. The breath is not the finest of all substances. It cannot pass through sinew. Some characteristics of sinew and skin. Veins and ‘arteries’ connect with the intestines and the belly, and sinews and veins form connexions between the bones.
 
-<span class="atom-split" data-atom="007" data-title="CHAPTER 6." data-chapter="CHAPTER 6." data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="CHAPTER 6." data-chapter="CHAPTER 6." data-kind="atom" data-srclang="en"></span>
 
 The transformation of blood into flesh. Sinews are nourished from the bones, or, perhaps more probably, bones from sinews. Mode of nutrition of flesh. Blood is not universally dispersed through the body in all animals. Nail is formed from sinew, and perhaps skin from flesh, by a hardening process. Difficulties connected with hard- and soft-shelled creatures suggest exceptions to the rule that the blood is the universal nutriment.
 
-<span class="atom-split" data-atom="008" data-title="CHAPTER 7." data-chapter="CHAPTER 7." data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="CHAPTER 7." data-chapter="CHAPTER 7." data-kind="atom" data-srclang="en"></span>
 
 Bones have various functions — motion, support, covering, &c. All are well adapted for their purposes. Movable bones are connected by sinews, and those which have not to move are kept in place by sinews.
 
-<span class="atom-split" data-atom="009" data-title="CHAPTER 8." data-chapter="CHAPTER 8." data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="CHAPTER 8." data-chapter="CHAPTER 8." data-kind="atom" data-srclang="en"></span>
 
 Physiological inquiry must be supplemented by the investigation of final causes. The purposes of bones, sinews, feet, and other parts are various, but all serve their proper ends: e g flying creatures are shaped in a way appropriate to flight.
 
-<span class="atom-split" data-atom="010" data-title="CHAPTER 9." data-chapter="CHAPTER 9." data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="CHAPTER 9." data-chapter="CHAPTER 9." data-kind="atom" data-srclang="en"></span>
 
 The heat-principle active in our bodies produces different effects in different creatures, just as the effect of fire on different inanimate objects varies. Nature uses fire as an instrument and also as a material. Nature is an intelligent agent and varies the quality of the substance upon which the heat is to work, while the variations of the heat are only quantitative. We must reject the hypothesis of Empedocles, which would lead to the belief that there is no difference of quality between, e g., the bones of various animals.
 
-<span class="atom-split" data-atom="011" data-title="DE SPIRITU (1/4)" data-chapter="DE SPIRITU" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="DE SPIRITU (1/4)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en"></span>
 
 What is the mode of growth of the natural breath and its mode of maintenance? For we see that it increases in volume and strength in accordance with both changes of age and the varying condition of the body. May we suppose that it increases as the other parts do, through the addition of some substance to it? Now it is nutriment that -is thus added to living creatures; so that we must consider the nature and origin of the nutriment in this case.
 
@@ -124,7 +124,7 @@ But how is the natural breath nourished and increased in’ the case of creature
 
 With regard to respiration, some philosophers — such as Empedocles and Democritus — do not deal with its purpose, but only describe the process; others do not even deal with the process at all, but assume it as obvious. But we ought further to make it quite clear whether its purpose is refrigeration. For if the bodily heat is inherent in the upper parts, it follows that the lower parts would have no need of refrigeration: but the heat is not in the upper parts only, for as a matter of fact the innate breath pervades the whole body, and its origin is from the lungs.
 
-<span class="atom-split" data-atom="012" data-title="DE SPIRITU (2/4)" data-chapter="DE SPIRITU" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="DE SPIRITU (2/4)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en"></span>
 
 The inspired breath also is thought to be distributed uniformly over all parts, so that it remains to be proved that this is not the case.
 
@@ -172,7 +172,7 @@ The skin contains veins, sinews, and air-ducts — veins because when pricked it
 
 The veins must have pores in which resides the bodily heat which heats the blood as if in a caldron; for it is not hot by nature, but is diffused like molten metals. [For this reason too the air-duct becomes hardened, and has moisture both in itself and in the coats which surround its hollow passage.], It is also proved both by dissection and by the fact that the veins and air-ducts, which apparently conduct the nutriment, connect with the intestines and the belly. From the veins the nutriment is distributed to the flesh — not sideways from the veins but out at their mouths, as it were through pipes. For fine veins run sideways from the great vein and the windpipe along each rib, and a vein and an air-duct always run side by side.
 
-<span class="atom-split" data-atom="013" data-title="DE SPIRITU (3/4)" data-chapter="DE SPIRITU" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="DE SPIRITU (3/4)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en"></span>
 
 The sinews and veins form the connexion between the bones, joining them with the centre of the body, and also form the meeting-place between the head and the body, through which fishes receive nutriment and breathe; if they did not respire, they would die immediately on being taken out of the water.
 
@@ -200,7 +200,7 @@ Now all parts which are capable of motion are connected with sinews — and perh
 
 The best description of everything may be obtained by an investigation like the present; but we must adequately investigate the final causes. We must not suppose that the bones are for the sake of movement; that is rather the purpose of the sinews or what corresponds to them, viz the immediate receptacle of the breath which causes motion, since even the belly moves and the heart has sinews — but only some, not all parts have bones: every part must have sinews appropriate for performing such motion or for (performing it well.) For the cuttle-fish walks little and walks badly. We must take as a starting- point the fact that all animals have different organs for different purposes with a view to the peculiar motion of each, e g. terrestrial animals have feet — those that are upright having two; others which move altogether upon the earth, the material of whose bodies is more earthy and colder, have several. Some creatures again may be entirely without feet, for it is possible for them under these conditions to be moved only by external force. Similarly, flying creatures have wings, and their shape is appropriate to their nature. The parts differ in proportion as they are to fly faster or slower. They have feet for the purpose of seeking food and to enable them to stand; bats are an exception; as they cannot use their feet, they get their food in the air, and do not need to rest for the purpose; for they certainly do not need to do so for any other reason.
 
-<span class="atom-split" data-atom="014" data-title="DE SPIRITU (4/4)" data-chapter="DE SPIRITU" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="DE SPIRITU (4/4)" data-chapter="DE SPIRITU" data-kind="atom" data-srclang="en"></span>
 
 The hard-shelled aquatic animals have feet on account of their weight; thus they are enabled to move from place to place: all that concerns their other needs is as ordered by the individual requirements of each, even if the principle is not clear — e g. why many-footed creatures are the slowest, and yet quadrupeds are swifter than bipeds. Is it because the whole of their body is on the ground or because they are naturally cold and hard to move, or for some other reason?
 

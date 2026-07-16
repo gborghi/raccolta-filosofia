@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nada_moderno_y_muy_siglo_xx" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nada moderno y muy siglo XX" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nada moderno y muy siglo XX" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Esta obligación de sacudir de nuestra conciencia el polvo de las ideas viejas, carbonizadas ya, y hacer que en ella se afirme lo nuevo, es siempre difícil y penosa. Lo viejo aporta en su defensa ciertas fuerzas que le son, como tal, adictas. En primer lugar, lo viejo es lo habitual, lo acostumbrado: como decía Juan de Valdés, cambiar de costumbres es a par de muerte. Además, lo viejo goza de una fisonomía autorizada; como a nuestros abuelos y nuestros padres y nuestras magistraturas, lo hemos encontrado al nacer con el carácter de una realidad que se nos imponía, que imperaba sobre nosotros. En fin, lo viejo es algo ya concluso; en tal sentido, perfecto, mientras lo nuevo se halla en statu nascente, y pudiera decirse que en tanto es nuevo no ha llegado aún a ser enteramente. ¿Quién podrá combatir victoriosamente poderes tan sutiles que influyen sobre la más interna textura de nuestra personalidad?
 

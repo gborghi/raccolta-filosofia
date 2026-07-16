@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_sobre_la_censura_del_conde" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo sobre la censura del conde" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo sobre la censura del conde" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace mucho tiempo, y con reiteración, me ha ocurrido decir lo siguiente: viene inevitablemente sobre España una etapa de radical reforma en el cuerpo público, especialmente en el Estado, y se corre el riesgo de que los españoles lleguen a esa hora con un repertorio de ideas políticas torpes, anticuadas, herrumbrosas, paralíticas. Esto elevará a la enésima potencia las dificultades de la situación.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/envío_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Envío (2)" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Envío (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Estos son los pensamientos sobre la novela que una alusión de Baroja me ha incitado a formular. Repito que no pretendo con ellos aleccionar a los que sepan de estas cosas más que yo. Es posible que cuanto he dicho sea un puro error. Nada importa si ha servido de incitación para que algunos jóvenes escritores, seriamente preocupados de su arte, se animen a explorar las posibilidades difíciles y subterráneas que aún quedan al viejo destino de la novela.
 

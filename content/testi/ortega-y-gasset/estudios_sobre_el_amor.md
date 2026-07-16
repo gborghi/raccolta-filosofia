@@ -18,6 +18,6 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estudios_sobre_el_amor" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ESTUDIOS SOBRE EL AMOR" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="ESTUDIOS SOBRE EL AMOR" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los capítulos de «Estudios sobre el amor» fueron publicados primeramente como folletones en el diario El Sol, de Madrid, en los años 1926 y 1927, y después reunidos en un libro del que apareció en 1933 la traducción alemana, antes de la primera edición española, que no fue puesta a la venta hasta 1941.

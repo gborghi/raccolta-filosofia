@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_mirada_castellana_procede_con_tacto" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La mirada castellana procede con tacto" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La mirada castellana procede con tacto" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Desde Pajares o desde Leitariegos, vueltos de espalda a Castilla, nos parece habernos curado de una peligrosa alucinación. ¿Qué vemos ahora?
 
@@ -38,7 +38,7 @@ Este proceso de diferenciación tan largo, tan difícil, no ha llegado en todas 
 
 Según Riegl, era esto normal entre los egipcios, y para evitarlo multiplicaban las columnas dentro de sus templos, poniéndolas muy próximas unas a otras. De esta suerte, la pupila se deslizaba, como una mano de ciego, de fuste en fuste, hasta arribar a lo lejano. Aquí tenemos, pues, un ver que es todavía un palpar. Y aquí tenemos también un arte —la arquitectura egipcia— nacido de ese modo de mirar.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Porque de estas mínimas peculiaridades depende a lo mejor el arte de un pueblo, y sus costumbres, y su política, y hasta su manera de entender el cosmos. Dos escuelas pictóricas tan diferentes en todo lo demás como la florentina y la flamenca coinciden, no obstante, en el predominio de los elementos táctiles dentro de la visión. Siempre nos sorprende hallar en sus cuadros los objetos —una vasija, una manzana— tan perfectamente delimitados y separados del aire ambiente. Dan ganas de tocarlos, porque sus superficies son lisas, pulidas y herméticas. Diríase que el pintor los ha mirado con las yemas de los dedos. Por el contrario, en la escuela veneciana y su heredera la de Madrid las cosas parecen esfumarse, fundidas unas con otras y todas con el ambiente. No tienen volumen ni peso, no conservan más que el puro color de sí mismas. En un cuadro veneciano, los objetos, sean lo que sean, son siempre cendales.
 

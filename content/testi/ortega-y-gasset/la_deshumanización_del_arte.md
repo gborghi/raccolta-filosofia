@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_deshumanización_del_arte" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La deshumanización del arte" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La deshumanización del arte" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Non creda donna Berta e ser Martino…
 

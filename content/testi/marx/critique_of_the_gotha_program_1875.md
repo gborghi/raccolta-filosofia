@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/marx/critique_of_the_gotha_program_1875" data-philosopher="Marx"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="CRITIQUE OF THE GOTHA PROGRAM, 1875" data-chapter="Foreword" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="CRITIQUE OF THE GOTHA PROGRAM, 1875" data-chapter="Foreword" data-kind="intro" data-srclang="en"></span>
 
 The manuscript published here — the covering letter to Bracke as well as the critique of the draft programme — was sent in 1875, shortly before the Gotha Unity Congress, to Bracke for communication to Geib, Auer, Bebel, and Liebknecht and subsequent return to Marx. Since the Halle Party Congress has put the discussion of the Gotha Programme on the agenda of the Party, I think I would be guilty of suppression if I any longer withheld from publicity this important — perhaps the most important — document relevant to this discussion.
 
@@ -33,7 +33,7 @@ For reasons arising form the Press Law, also, a few sentences have been indicate
 
 London, January 6, 1891
 
-<span class="atom-split" data-atom="002" data-title="Letter to Bracke" data-chapter="Letter to Bracke" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Letter to Bracke" data-chapter="Letter to Bracke" data-kind="atom" data-srclang="en"></span>
 
 London, 5 May 1875
 
@@ -63,7 +63,7 @@ Yours,
 
 Karl Marx
 
-<span class="atom-split" data-atom="003" data-title="Part I (1/3)" data-chapter="Part I" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Part I (1/3)" data-chapter="Part I" data-kind="atom" data-srclang="en"></span>
 
 1. “Labor is the source of wealth and all culture, and since useful labor is possible only in society and through society, the proceeds of labor belong undiminished with equal right to all members of society.”
 
@@ -135,7 +135,7 @@ Let us take, first of all, the words “proceeds of labor” in the sense of the
 
 From this must now be deducted: First, cover for replacement of the means of production used up. Second, additional portion for expansion of production. Third, reserve or insurance funds to provide against accidents, dislocations caused by natural calamities, etc.
 
-<span class="atom-split" data-atom="004" data-title="Part I (2/3)" data-chapter="Part I" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Part I (2/3)" data-chapter="Part I" data-kind="atom" data-srclang="en"></span>
 
 These deductions from the “undiminished” proceeds of labor are an economic necessity, and their magnitude is to be determined according to available means and forces, and partly by computation of probabilities, but they are in no way calculable by equity.
 
@@ -173,7 +173,7 @@ Any distribution whatever of the means of consumption is only a consequence of t
 
 4. “The emancipation of labor must be the work of the working class, relative to which all other classes are only one reactionary mass.”
 
-<span class="atom-split" data-atom="005" data-title="Part I (3/3)" data-chapter="Part I" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Part I (3/3)" data-chapter="Part I" data-kind="atom" data-srclang="en"></span>
 
 The first strophe is taken from the introductory words of the Rules of the International, but “improved”. There it is said: “The emancipation of the working class must be the act of the workers themselves”; here, on the contrary, the “working class” has to emancipate — what? “Labor.” Let him understand who can.
 
@@ -209,7 +209,7 @@ The international activity of the working classes does not in any way depend on 
 
 Bismarck’s Norddeutsche was absolutely right when it announced, to the satisfaction of its master, that the German Workers’ party had sworn off internationalism in the new program.
 
-<span class="atom-split" data-atom="006" data-title="Part II" data-chapter="Part II" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Part II" data-chapter="Part II" data-kind="atom" data-srclang="en"></span>
 
 ‘“Starting from these basic principles, the German workers’ party strives by all legal means for the free state — and — socialist society: that abolition of the wage system together with the iron law of wages — and — [exploitation](/concepts/surplus_value) in every form; the elimination of all social and political inequality.”
 
@@ -229,7 +229,7 @@ Does not the mere fact that the representatives of our party were capable of per
 
 Instead of the indefinite concluding phrase of the paragraph, “the elimination of all social and political inequality”, it ought to have been said that with the abolition of class distinctions all social and political inequality arising from them would disappear of itself.
 
-<span class="atom-split" data-atom="007" data-title="Part III" data-chapter="Part III" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Part III" data-chapter="Part III" data-kind="atom" data-srclang="en"></span>
 
 “The German Workers’ party, in order to pave the way to the solution of the social question, demands the establishment of producers’ co-operative societies with state aid under the democratic control of the toiling people. The producers’ co-operative societies are to be called into being for industry and agriculture on such a scale that the socialist organization of the total labor will arise from them.”
 
@@ -247,7 +247,7 @@ It would be superfluous to deal here with the criticism of the recipe prescribed
 
 That the workers desire to establish the conditions for co-operative production on a social scale, and first of all on a national scale, in their own country, only means that they are working to revolutionize the present conditions of production, and it has nothing in common with the foundation of co-operative societies with state aid. But as far as the present co-operative societies are concerned, they are of value only insofar as they are the independent creations of the workers and not protégés either of the governments or of the bourgeois.
 
-<span class="atom-split" data-atom="008" data-title="Part IV (1/2)" data-chapter="Part IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Part IV (1/2)" data-chapter="Part IV" data-kind="atom" data-srclang="en"></span>
 
 I come now to the democratic section.
 
@@ -299,13 +299,13 @@ But the whole program, for all its democratic clang, is tainted through and thro
 
 “Freedom of science” says paragraph of the Prussian Constitution. Why, then, here?.
 
-<span class="atom-split" data-atom="009" data-title="Part IV (2/2)" data-chapter="Part IV" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Part IV (2/2)" data-chapter="Part IV" data-kind="atom" data-srclang="en"></span>
 
 “Freedom of conscience”! If one desired, at this time of the Kulturkampf to remind liberalism of its old catchwords, it surely could have been done only in the following form: Everyone should be able to attend his religious as well as his bodily needs without the police sticking their noses in. But the Workers’ party ought, at any rate in this connection, to have expressed its awareness of the fact that bourgeois “freedom of conscience” is nothing but the [toleration](/positions/toleration) of all possible kinds of religious freedom of conscience from the witchery of religion. But one chooses not to transgress the “bourgeois” level.
 
 I have now come to the end, for the appendix that now follows in the program does not constitute a characteristic component part of it. Hence, I can be very brief.
 
-<span class="atom-split" data-atom="010" data-title="Appendix" data-chapter="Appendix" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Appendix" data-chapter="Appendix" data-kind="atom" data-srclang="en"></span>
 
 “2. Normal working day.”
 

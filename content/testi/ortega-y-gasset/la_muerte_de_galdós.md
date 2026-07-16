@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_muerte_de_galdós" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La muerte de Galdós" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La muerte de Galdós" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La España oficial, fría, seca y protocolaria, ha estado ausente en la unánime demostración de pena provocada por la muerte de Galdós. La visita del ministro de Instrucción Pública no basta. El pueblo, con su fina y certera perspicacia, ha advertido esa ausencia en la casa del glorioso maestro, en las listas de pésame donde han firmado ya los hijos espirituales de don Benito, los legítimos descendientes de la duquesa Amaranta, de Gabrielillo Araceli, de Solita, de Misericordia y del doctor Centeno. Estos hombres y estas mujeres de España no podían faltar en el homenaje al patriarca. Son otros los que han faltado. Y, ya a última hora, se ha querido remediar el olvido con un decreto lamentable, espuma de la frivolidad oficial, ejemplo doloroso de cómo pueden cegarse, en las esferas del Poder, los manantiales de la sensibilidad.
 

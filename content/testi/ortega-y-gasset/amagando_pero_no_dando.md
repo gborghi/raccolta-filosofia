@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/amagando_pero_no_dando" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Amagando, pero no dando" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Amagando, pero no dando" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ya comienzan las resonancias que el decreto de disolución va a suscitar en toda la Península. La primera voz que se oye es, naturalmente, la del señor La Cierva. Decimos naturalmente porque, a pesar de nuestros muy moderados entusiasmos por este hombre público, no queremos desconocer que es el más pronto, el más activo y el más tenaz de todos. Apenas se abre una brecha en el horizonte político, vésele llegar tempranero agitando su arma de combate. Antes era este arma una atroz maza de Hércules, un aparato rudo, bárbaro, extemporáneo; blandiéndola sobre su faz hirsuta, parecía el señor La Cierva un político recién escapado del bosque virgen. Por esta razón le hemos combatido todo lo reciamente que nuestras menudas armas de pluma nos permitían. Tememos que estos cuerpo a cuerpo se renueven en lo sucesivo. Pero hoy nos complace apuntar una sospecha de rectificación en la actitud del señor La Cierva.
 

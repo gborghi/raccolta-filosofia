@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_states_of_life" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the States of Life" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the States of Life" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE STATES OF LIFE (QQ[183]-189)
 
-<span class="atom-split" data-atom="002" data-title="OF MAN'S VARIOUS DUTIES AND STATES IN GENERAL (FOUR ARTICLES)" data-chapter="OF MAN'S VARIOUS DUTIES AND STATES IN GENERAL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="OF MAN'S VARIOUS DUTIES AND STATES IN GENERAL (FOUR ARTICLES)" data-chapter="OF MAN'S VARIOUS DUTIES AND STATES IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider man's various states and duties. We shall consider (1) man's duties and
 states in general; (2) [the state](/concepts/state) of the perfect in particular.
@@ -34,7 +34,7 @@ Under the first head there are four points of inquiry:
 (3) Of the diversity of duties;
 (4) Of the diversity of states.
 
-<span class="atom-split" data-atom="003" data-title="Whether the notion of a state denotes a condition of freedom or servitude?" data-chapter="Whether the notion of a state denotes a condition of freedom or servitude?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether the notion of a state denotes a condition of freedom or servitude?" data-chapter="Whether the notion of a state denotes a condition of freedom or servitude?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the notion of a state does not denote a condition of freedom
 or servitude. For "state" takes its name from "standing." Now a person is said to stand on account
@@ -87,7 +87,7 @@ sits or lies down is still, and yet he is not said to stand.
 Reply to Objection 3: Duty implies relation to act; while grades denote an order of superiority
 and inferiority. But state requires immobility in that which regards a condition of the person himself.
 
-<span class="atom-split" data-atom="004" data-title="Whether there should be different duties or states in the Church?" data-chapter="Whether there should be different duties or states in the Church?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether there should be different duties or states in the Church?" data-chapter="Whether there should be different duties or states in the Church?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there should not be different duties or states in the Church.
 For distinction is opposed to unity. Now the faithful of Christ are called to unity according to Jn.
@@ -152,7 +152,7 @@ number have a share in public actions. Wherefore the Apostle says (1 Cor. 12:24,
 hath tempered [the body] together that there might be no schism in the body, but the members might
 be mutually careful one for another."
 
-<span class="atom-split" data-atom="005" data-title="Whether duties differ according to their actions?" data-chapter="Whether duties differ according to their actions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether duties differ according to their actions?" data-chapter="Whether duties differ according to their actions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that duties do not differ according to their actions. For there are
 infinite varieties of human acts both in spirituals and in temporals. Now there can be no certain
@@ -201,7 +201,7 @@ The ecclesiastical orders are particularly distinct according to divine offices.
 vi): "There are various kinds of offices; but the foremost is that which relates to sacred and Divine
 things."
 
-<span class="atom-split" data-atom="006" data-title="Whether the difference of states applies to those who are beginning, progressing, or perfect?" data-chapter="Whether the difference of states applies to those who are beginning, progressing, or perfect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the difference of states applies to those who are beginning, progressing, or perfect?" data-chapter="Whether the difference of states applies to those who are beginning, progressing, or perfect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the difference of states does not apply to those who are
 beginning, progressing, or perfect. For "diverse genera have diverse species and differences"
@@ -255,7 +255,7 @@ Reply to Objection 3: As already observed (A[3], ad 3), nothing hinders grade an
 concurring in the same subject. For even in earthly affairs those who are free, not only belong to a
 different state from those who are in service, but are also of a different grade.
 
-<span class="atom-split" data-atom="007" data-title="OF THE STATE OF PERFECTION IN GENERAL (EIGHT ARTICLES)" data-chapter="OF THE STATE OF PERFECTION IN GENERAL (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="OF THE STATE OF PERFECTION IN GENERAL (EIGHT ARTICLES)" data-chapter="OF THE STATE OF PERFECTION IN GENERAL (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider those things that pertain to [the state](/concepts/state) of perfection whereto the other
 states are directed. For the consideration of offices in relation to other acts belongs to the legislator;
@@ -275,7 +275,7 @@ commandments?
 (7) Which is the more perfect, the episcopal or the religious state?
 (8) The comparison between religious and parish priests and archdeacons.
 
-<span class="atom-split" data-atom="008" data-title="Whether the perfection of the Christian life consists chiefly in charity?" data-chapter="Whether the perfection of the Christian life consists chiefly in charity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether the perfection of the Christian life consists chiefly in charity?" data-chapter="Whether the perfection of the Christian life consists chiefly in charity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the perfection of the Christian life does not consist chiefly in
 charity. For the Apostle says (1 Cor. 14:20): "In malice be children, but in sense be perfect." But
@@ -321,7 +321,7 @@ Reply to Objection 3: Patience is stated to have a perfect work in relation to c
 as it is an effect of the abundance of charity that a man bears hardships patiently, according to Rom.
 8:35, "Who . . . shall separate us from the love of Christ? Shall tribulation? Or distress?" etc.
 
-<span class="atom-split" data-atom="009" data-title="Whether any one can be perfect in this life?" data-chapter="Whether any one can be perfect in this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether any one can be perfect in this life?" data-chapter="Whether any one can be perfect in this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that none can be perfect in this life. For the Apostle says (1 Cor.
 13:10): "When that which is perfect is come, that which is in part shall be done away." Now in this
@@ -388,7 +388,7 @@ that a man will surrender not only temporal but also spiritual goods and even hi
 neighbor's sake, according to the words of the Apostle (2 Cor. 12:15), "But I most gladly will spend
 and be spent myself for your souls."
 
-<span class="atom-split" data-atom="010" data-title="Whether, in this life, perfection consists in the observance of the commandments or of the counsels?" data-chapter="Whether, in this life, perfection consists in the observance of the commandments or of the counsels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether, in this life, perfection consists in the observance of the commandments or of the counsels?" data-chapter="Whether, in this life, perfection consists in the observance of the commandments or of the counsels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, in this life, perfection consists in the observance not of the
 commandments but of the counsels. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go
@@ -479,7 +479,7 @@ there is another perfection of charity even in this life, whereto a man attains 
 growth, for instance when a man refrains even from lawful things, in order more freely to give
 himself to the service of God.
 
-<span class="atom-split" data-atom="011" data-title="Whether whoever is perfect is in the state of perfection?" data-chapter="Whether whoever is perfect is in the state of perfection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether whoever is perfect is in the state of perfection?" data-chapter="Whether whoever is perfect is in the state of perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that whoever is perfect is in [the state](/concepts/state) of perfection. For, as stated
 above (A[3], ad 3), just as bodily perfection is reached by bodily growth, so spiritual perfection is
@@ -542,7 +542,7 @@ Reply to Objection 3: Again this argument considers the interior state. Neverthe
 charity causes the change of condition from spiritual servitude to spiritual freedom, an increase of
 charity has not the same effect.
 
-<span class="atom-split" data-atom="012" data-title="Whether religious and prelates are in the state of perfection?" data-chapter="Whether religious and prelates are in the state of perfection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether religious and prelates are in the state of perfection?" data-chapter="Whether religious and prelates are in the state of perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that prelates and religious are not in [the state](/concepts/state) of perfection. For the
 state of perfection differs from the state of the beginners and the proficient. Now no class of men
@@ -604,7 +604,7 @@ his mind from the intention of reaching perfection.
 Reply to Objection 3: Martyrdom is the most perfect act of charity. But an act of perfection
 does not suffice to make the state of perfection, as stated above (A[4]).
 
-<span class="atom-split" data-atom="013" data-title="Whether all ecclesiastical prelates are in the state of perfection?" data-chapter="Whether all ecclesiastical prelates are in the state of perfection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether all ecclesiastical prelates are in the state of perfection?" data-chapter="Whether all ecclesiastical prelates are in the state of perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all ecclesiastical prelates are in a state of perfection. For Jerome
 commenting on Titus 1:5, "Ordain . . . in every city," etc. says: "Formerly priest was the same as
@@ -690,7 +690,7 @@ nor are they bound to lay down their life for the sheep, except in so far as the
 cure. Hence we should say that they have an office pertaining to perfection rather than that they
 attain the state of perfection.
 
-<span class="atom-split" data-atom="014" data-title="Whether the religious state is more perfect than that of prelates?" data-chapter="Whether the religious state is more perfect than that of prelates?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the religious state is more perfect than that of prelates?" data-chapter="Whether the religious state is more perfect than that of prelates?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the religious state is more perfect than that of prelates. For our
 Lord said (Mat. 19:21): "If thou wilt be perfect, go" and "sell" all [Vulg.: 'what'] "thou hast, and
@@ -749,7 +749,7 @@ not only for his own sake, but also for the purpose of instructing others. Hence
 (Hom. v in Ezech.) the words of Ps. 144:7, "They shall publish the memory . . . of Thy sweetness,"
 to perfect men returning after their contemplation.
 
-<span class="atom-split" data-atom="015" data-title="Whether parish priests and archdeacons are more perfect than religious? (1/2)" data-chapter="Whether parish priests and archdeacons are more perfect than religious?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether parish priests and archdeacons are more perfect than religious? (1/2)" data-chapter="Whether parish priests and archdeacons are more perfect than religious?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that also parish priests and archdeacons are more perfect than
 religious. For Chrysostom says in his Dialogue (De Sacerdot. vi): "Take for example a monk, such
@@ -839,7 +839,7 @@ sins more grievously if he do something contrary to holiness than a religious wh
 orders: although a religious who is not in orders is bound to regular observance to which persons
 in holy orders are not bound.
 
-<span class="atom-split" data-atom="016" data-title="Whether parish priests and archdeacons are more perfect than religious? (2/2)" data-chapter="Whether parish priests and archdeacons are more perfect than religious?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether parish priests and archdeacons are more perfect than religious? (2/2)" data-chapter="Whether parish priests and archdeacons are more perfect than religious?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: We might answer briefly these quotations from Chrysostom by saying
 that he speaks not of a priest of lesser order who has the cure of souls, but of a bishop, who is called
@@ -890,7 +890,7 @@ arduousness of deeds; whereas for those who in any way at all live in the world,
 difficulty resulting from obstacles to virtue, which obstacles the religious has had the foresight to
 avoid.
 
-<span class="atom-split" data-atom="017" data-title="OF THINGS PERTAINING TO THE EPISCOPAL STATE (EIGHT ARTICLES)" data-chapter="OF THINGS PERTAINING TO THE EPISCOPAL STATE (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="OF THINGS PERTAINING TO THE EPISCOPAL STATE (EIGHT ARTICLES)" data-chapter="OF THINGS PERTAINING TO THE EPISCOPAL STATE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider things pertaining to the episcopal state. Under this head there are eight
 points of inquiry:
@@ -904,7 +904,7 @@ points of inquiry:
 (8) Whether religious who are appointed to the episcopal office are bound to religious
 observances?
 
-<span class="atom-split" data-atom="018" data-title="Whether it is lawful to desire the office of a bishop? (1/2)" data-chapter="Whether it is lawful to desire the office of a bishop?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether it is lawful to desire the office of a bishop? (1/2)" data-chapter="Whether it is lawful to desire the office of a bishop?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is lawful to desire the office of a bishop. For the Apostle
 says (1 Tim. 3:1): "He that desires [Vulg.: 'If a man desire'] the office of a bishop, he desireth a
@@ -994,7 +994,7 @@ what wise man seeks of his own accord to submit to such servitude and peril, as 
 an account of the whole Church? None save him who fears not God's judgment, and makes a secular
 abuse of his ecclesiastical authority, by turning it to secular uses."
 
-<span class="atom-split" data-atom="019" data-title="Whether it is lawful to desire the office of a bishop? (2/2)" data-chapter="Whether it is lawful to desire the office of a bishop?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether it is lawful to desire the office of a bishop? (2/2)" data-chapter="Whether it is lawful to desire the office of a bishop?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The dispensing of spiritual corn is not to be carried on in an arbitrary
 fashion, but chiefly according to the appointment and disposition of God, and in the second place
@@ -1014,7 +1014,7 @@ himself to be already cleansed by the live coal taken from the altar, shows us t
 dare uncleansed to approach the sacred ministry. Since, then, it is very difficult for anyone to be
 able to know that he is cleansed, it is safer to decline the office of preacher."
 
-<span class="atom-split" data-atom="020" data-title="Whether it is lawful for a man to refuse absolutely an appointment to the episcopate?" data-chapter="Whether it is lawful for a man to refuse absolutely an appointment to the episcopate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether it is lawful for a man to refuse absolutely an appointment to the episcopate?" data-chapter="Whether it is lawful for a man to refuse absolutely an appointment to the episcopate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is lawful to refuse absolutely an appointment to the episcopate.
 For as Gregory says (Pastor. i, 7), "Isaias wishing to be of profit to his neighbor by means of the
@@ -1097,7 +1097,7 @@ not even to accept it in obedience to his superior prelate, his vow is unlawful;
 bind himself, so far as it lies with him, not to seek the episcopal office, nor to accept it except under
 urgent necessity, his vow is lawful, because he vows to do what it becomes a man to do.
 
-<span class="atom-split" data-atom="021" data-title="Whether he that is appointed to the episcopate ought to be better than others?" data-chapter="Whether he that is appointed to the episcopate ought to be better than others?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether he that is appointed to the episcopate ought to be better than others?" data-chapter="Whether he that is appointed to the episcopate ought to be better than others?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one who is appointed to the episcopate ought to be better than
 others. For our Lord, when about to commit the pastoral office to Peter, asked him if he loved Him
@@ -1158,7 +1158,7 @@ the office of governing, who does not excel in the grace of holiness. It is othe
 of the natural order, where that which is higher in the natural order is for that very reason more
 fitted to dispose of those that are lower.
 
-<span class="atom-split" data-atom="022" data-title="Whether a bishop may lawfully forsake the episcopal cure, in order to enter religion?" data-chapter="Whether a bishop may lawfully forsake the episcopal cure, in order to enter religion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether a bishop may lawfully forsake the episcopal cure, in order to enter religion?" data-chapter="Whether a bishop may lawfully forsake the episcopal cure, in order to enter religion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a bishop cannot lawfully forsake his episcopal cure in order to enter
 religion. For no one can lawfully pass from a more perfect to a less perfect state; since this is "to
@@ -1245,7 +1245,7 @@ obstacle, for instance the act of sight ceases through an affliction of the eye.
 unreasonable if, through the occurrence of some obstacle from without, the episcopal power remain
 without the exercise of its act.
 
-<span class="atom-split" data-atom="023" data-title="Whether it is lawful for a bishop on account of bodily persecution to abandon the flock committed to his care?" data-chapter="Whether it is lawful for a bishop on account of bodily persecution to abandon the flock committed to his care?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether it is lawful for a bishop on account of bodily persecution to abandon the flock committed to his care?" data-chapter="Whether it is lawful for a bishop on account of bodily persecution to abandon the flock committed to his care?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is unlawful for a bishop, on account of some temporal
 persecution, to withdraw his bodily presence from the flock committed to his care. For our Lord
@@ -1305,7 +1305,7 @@ not bound to another kind of perfection, so as to be obliged to enter the religi
 under the obligation of retaining the intention of devoting himself to his neighbor's salvation, should
 an opportunity offer, and necessity require it of him.
 
-<span class="atom-split" data-atom="024" data-title="Whether it is lawful for a bishop to have property of his own?" data-chapter="Whether it is lawful for a bishop to have property of his own?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether it is lawful for a bishop to have property of his own?" data-chapter="Whether it is lawful for a bishop to have property of his own?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not lawful for a bishop to have property of his own. For
 our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what] thou hast, and give
@@ -1372,7 +1372,7 @@ together with God, if he becomes less intent on things pertaining to God by occu
 things of the world. Now neither bishops nor clerics ought thus to possess means of their own, that
 while busy with their own they neglect those that concern the [worship](/concepts/religion) of God.
 
-<span class="atom-split" data-atom="025" data-title="Whether bishops sin mortally if they distribute not to the poor the ecclesiastical goods which accrue to them?" data-chapter="Whether bishops sin mortally if they distribute not to the poor the ecclesiastical goods which accrue to them?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether bishops sin mortally if they distribute not to the poor the ecclesiastical goods which accrue to them?" data-chapter="Whether bishops sin mortally if they distribute not to the poor the ecclesiastical goods which accrue to them?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that bishops sin mortally if they distribute not to the poor the
 ecclesiastical goods which they acquire. For Ambrose [*Basil, Serm. lxiv, de Temp., among the
@@ -1467,7 +1467,7 @@ use connected with the Church or the needs of the poor. But if there be a pressi
 the poor, to lay by for the future is a superfluous and inordinate saving, and is forbidden by our
 Lord Who said (Mat. 6:34): "Be . . . not solicitous for the morrow."
 
-<span class="atom-split" data-atom="026" data-title="Whether religious who are raised to the episcopate are bound to religious observances?" data-chapter="Whether religious who are raised to the episcopate are bound to religious observances?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether religious who are raised to the episcopate are bound to religious observances?" data-chapter="Whether religious who are raised to the episcopate are bound to religious observances?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that religious who are raised to the episcopate are not bound to
 religious observances. For it is said (XVIII, qu. i, can. Statutum) that a "canonical election loosens
@@ -1555,7 +1555,7 @@ Under the first head there are ten points of inquiry:
 (10) Whether, other things being equal, a religious sins more grievously by the same kind of
 sin than a secular person?
 
-<span class="atom-split" data-atom="027" data-title="Whether religion implies a state of perfection?" data-chapter="Whether religion implies a state of perfection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether religion implies a state of perfection?" data-chapter="Whether religion implies a state of perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that religion does not imply a state of perfection. For that which
 is necessary for salvation does not seemingly pertain to perfection. But religion is necessary for
@@ -1627,7 +1627,7 @@ the religious state is a most fitting place for penance. Hence (XXXIII, qu. ii, 
 who had killed his wife is counseled to enter a monastery which is described as "better and lighter,"
 rather than to do public penance while remaining in the world.
 
-<span class="atom-split" data-atom="028" data-title="Whether every religious is bound to keep all the counsels?" data-chapter="Whether every religious is bound to keep all the counsels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether every religious is bound to keep all the counsels?" data-chapter="Whether every religious is bound to keep all the counsels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that every religious is bound to keep all the counsels. For whoever
 professes a certain state of life is bound to observe whatever belongs to that state. Now each religious
@@ -1694,7 +1694,7 @@ wherefore religious are bound to keep all such like counsels. Other counsels the
 about certain particular better actions, which can be omitted without one's life being taken up with
 secular actions; wherefore there is no need for religious to be bound to fulfil all of them.
 
-<span class="atom-split" data-atom="029" data-title="Whether poverty is required for religious perfection? (1/2)" data-chapter="Whether poverty is required for religious perfection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether poverty is required for religious perfection? (1/2)" data-chapter="Whether poverty is required for religious perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that poverty is not required for religious perfection. For that which
 it is unlawful to do does not apparently belong to [the state](/concepts/state) of perfection. But it would seem to be
@@ -1787,7 +1787,7 @@ time." Much more therefore is it according to right reason for a man to renounce
 perfectly to follow Christ. Wherefore Jerome says (Ep. cxxv ad Rust. Monach.): "Poor thyself,
 follow Christ poor."
 
-<span class="atom-split" data-atom="030" data-title="Whether poverty is required for religious perfection? (2/2)" data-chapter="Whether poverty is required for religious perfection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether poverty is required for religious perfection? (2/2)" data-chapter="Whether poverty is required for religious perfection?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: Happiness or felicity is twofold. One is perfect, to which we look forward
 in the life to come; the other is imperfect, in respect of which some are said to be happy in this life.
@@ -1839,7 +1839,7 @@ the error of Vigilantius it is said (De Eccl. Dogm. xxxviii): "It is a good thin
 goods by dispensing them to the poor: it is better to give them away once for all with the intention
 of following the Lord, and, free of solicitude, to be poor with Christ."
 
-<span class="atom-split" data-atom="031" data-title="Whether perpetual continence is required for religious perfection?" data-chapter="Whether perpetual continence is required for religious perfection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether perpetual continence is required for religious perfection?" data-chapter="Whether perpetual continence is required for religious perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that perpetual continence is not required for religious perfection.
 For all perfection of the Christian life began with Christ's apostles. Now the apostles do not appear
@@ -1899,7 +1899,7 @@ Reply to Objection 3: Such ways of living as admit of the use of marriage are no
 life simply and absolutely speaking, but in a restricted sense, in so far as they have a certain share
 in those things that belong to the religious state.
 
-<span class="atom-split" data-atom="032" data-title="Whether obedience belongs to religious perfection?" data-chapter="Whether obedience belongs to religious perfection?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether obedience belongs to religious perfection?" data-chapter="Whether obedience belongs to religious perfection?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that obedience does not belong to religious perfection. For those
 things seemingly belong to religious perfection, which are works of supererogation and are not
@@ -1988,7 +1988,7 @@ than by subjecting his will to another man's for God's sake. Hence in the Confer
 for their own needs without being subject to superiors, they are free to do as they will; and yet day
 and night they are more busily occupied in work than those who live in monasteries."
 
-<span class="atom-split" data-atom="033" data-title="Whether it is requisite for religious perfection that poverty, continence, and obedience should come under a vow?" data-chapter="Whether it is requisite for religious perfection that poverty, continence, and obedience should come under a vow?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether it is requisite for religious perfection that poverty, continence, and obedience should come under a vow?" data-chapter="Whether it is requisite for religious perfection that poverty, continence, and obedience should come under a vow?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not requisite for religious perfection that the three aforesaid,
 namely poverty, continence, and obedience, should come under a vow. For the school of perfection
@@ -2045,7 +2045,7 @@ God. Hence Augustine says (Ep. cxxvii ad Paulin. et Arment.): "Repent not of thy
 rather that thou canst no longer do lawfully, what thou mightest have done lawfully but to thy own
 cost. Happy the obligation that compels to better things."
 
-<span class="atom-split" data-atom="034" data-title="Whether it is right to say that religious perfection consists in these three vows?" data-chapter="Whether it is right to say that religious perfection consists in these three vows?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether it is right to say that religious perfection consists in these three vows?" data-chapter="Whether it is right to say that religious perfection consists in these three vows?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it is not right to say that religious perfection consists in these
 three vows. For the perfection of life consists of inward rather than of outward acts, according to
@@ -2130,7 +2130,7 @@ to virtue, according to Ps. 138:17, "But to me Thy friends, O God, are made exce
 On the other hand, they renounce the honor that is given to outward excellence, by the very fact
 that they withdraw from a worldly life: hence no special vow is needed for this.
 
-<span class="atom-split" data-atom="035" data-title="Whether the vow of obedience is the chief of the three religious vows?" data-chapter="Whether the vow of obedience is the chief of the three religious vows?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether the vow of obedience is the chief of the three religious vows?" data-chapter="Whether the vow of obedience is the chief of the three religious vows?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the vow of obedience is not the chief of the three religious
 vows. For the perfection of the religious life was inaugurated by Christ. Now Christ gave a special
@@ -2191,7 +2191,7 @@ to release him from obedience to every superior in matters relating to the perfe
 cannot exempt him from obedience to himself. He can, however, exempt him from subjection to a
 lower superior, but this is not to dispense him from his vow of obedience.
 
-<span class="atom-split" data-atom="036" data-title="Whether a religious sins mortally whenever he transgresses the things contained in his rule?" data-chapter="Whether a religious sins mortally whenever he transgresses the things contained in his rule?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether a religious sins mortally whenever he transgresses the things contained in his rule?" data-chapter="Whether a religious sins mortally whenever he transgresses the things contained in his rule?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a religious sins mortally whenever he transgresses the things
 contained in his rule. For to break a vow is a sin worthy of condemnation, as appears from 1 Tim.
@@ -2261,7 +2261,7 @@ through proud contempt." Nevertheless the frequent repetition of a sin leads dis
 contempt, according to the words of Prov. 18:3, "The wicked man, when he is come into the depth
 of sins, contemneth."
 
-<span class="atom-split" data-atom="037" data-title="Whether a religious sins more grievously than a secular by the same kind of sin?" data-chapter="Whether a religious sins more grievously than a secular by the same kind of sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether a religious sins more grievously than a secular by the same kind of sin?" data-chapter="Whether a religious sins more grievously than a secular by the same kind of sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a religious does not sin more grievously than a secular by the
 same kind of sin. For it is written (2 Paralip 30:18,19): "The Lord Who is good will show mercy
@@ -2329,7 +2329,7 @@ on every high hill and under every green tree thou didst prostitute thyself." He
 men than those who made [progress](/positions/progress) in monasteries, so have I not found worse than those who in
 the monastery have fallen."
 
-<span class="atom-split" data-atom="038" data-title="OF THOSE THINGS THAT ARE COMPETENT TO RELIGIOUS (SIX ARTICLES)" data-chapter="OF THOSE THINGS THAT ARE COMPETENT TO RELIGIOUS (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="OF THOSE THINGS THAT ARE COMPETENT TO RELIGIOUS (SIX ARTICLES)" data-chapter="OF THOSE THINGS THAT ARE COMPETENT TO RELIGIOUS (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the things that are competent to religious; and under this head there are
 six points of inquiry:
@@ -2340,7 +2340,7 @@ six points of inquiry:
 (5) Whether it is lawful for them to quest?
 (6) Whether it is lawful for them to wear coarser clothes than other persons?
 
-<span class="atom-split" data-atom="039" data-title="Whether it is lawful for religious to teach, preach, and the like?" data-chapter="Whether it is lawful for religious to teach, preach, and the like?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether it is lawful for religious to teach, preach, and the like?" data-chapter="Whether it is lawful for religious to teach, preach, and the like?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unlawful for religious to teach, preach, and the like. For it is said
 (VII, qu. i, can. Hoc nequaquam) in an ordinance of a synod of Constantinople [*Pseudosynod held
@@ -2421,7 +2421,7 @@ prevent monks and other religious from being sometimes occupied with ecclesiasti
 being deputed thereto by superiors having ordinary cure; especially members of religious orders
 that are especially instituted for that purpose, as we shall say further on (Q[188], A[4]).
 
-<span class="atom-split" data-atom="040" data-title="Whether it is lawful for religious to occupy themselves with secular business?" data-chapter="Whether it is lawful for religious to occupy themselves with secular business?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether it is lawful for religious to occupy themselves with secular business?" data-chapter="Whether it is lawful for religious to occupy themselves with secular business?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unlawful for religious to occupy themselves with secular business.
 For in the decree quoted above (A[1]) of Pope Boniface it is said that the "Blessed Benedict bade
@@ -2477,7 +2477,7 @@ piety. Hence it is written (4 Kings 4:13): "Hast thou any business, and wilt tho
 king or to the general of the army?" Likewise it becomes religious to go to the palaces of kings to
 rebuke and guide them, even as John the Baptist rebuked Herod, as related in Mat. 14:4.
 
-<span class="atom-split" data-atom="041" data-title="Whether religious are bound to manual labor? (1/3)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether religious are bound to manual labor? (1/3)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that religious are bound to manual labor. For religious are not
 exempt from the observance of precepts. Now manual labor is a matter of precept according to 1
@@ -2531,7 +2531,7 @@ brother he signifies every Christian, according to 1 Cor. 7:12, "If any brother 
 believeth not"). Now it is written in the same passage (2 Thess. 3:10): "If any man will not work,
 neither let him eat." Therefore religious are not bound to manual labor any more than seculars are.
 
-<span class="atom-split" data-atom="042" data-title="Whether religious are bound to manual labor? (2/3)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether religious are bound to manual labor? (2/3)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Manual labor is directed to four things. First and principally to obtain food;
 wherefore it was said to the first man (Gn. 3:19): "In the sweat of thy face shalt thou eat bread,"
@@ -2611,7 +2611,7 @@ not as yet founded. Secondly, because religious have no other obligations than w
 except as required by the rule they profess: wherefore if their rule contain nothing about manual
 labor, religious are not otherwise bound to manual labor than seculars are.
 
-<span class="atom-split" data-atom="043" data-title="Whether religious are bound to manual labor? (3/3)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether religious are bound to manual labor? (3/3)" data-chapter="Whether religious are bound to manual labor?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: A man may devote himself in two ways to all the spiritual works
 mentioned by [Augustine](/figures/augustine) in the passage quoted: in one way with a view to the common good, in
@@ -2657,7 +2657,7 @@ not do this in places like Athens where he had facilities for preaching daily, a
 matter, since they are not bound to all works of supererogation: wherefore neither did the other
 apostles work with their hands.
 
-<span class="atom-split" data-atom="044" data-title="Whether it is lawful for religious to live on alms? (1/2)" data-chapter="Whether it is lawful for religious to live on alms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether it is lawful for religious to live on alms? (1/2)" data-chapter="Whether it is lawful for religious to live on alms?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unlawful for religious to live on alms. For the Apostle (1 Tim.
 5:16) forbids those widows who have other means of livelihood to live on the alms of the Church,
@@ -2702,7 +2702,7 @@ parents dwelt for three years in a cave, and while there lived on the food broug
 from Rome. Nevertheless, although he was able-bodied, we do not read that he sought to live by
 the labor of his hands. Therefore religious may lawfully live on alms.
 
-<span class="atom-split" data-atom="045" data-title="Whether it is lawful for religious to live on alms? (2/2)" data-chapter="Whether it is lawful for religious to live on alms?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether it is lawful for religious to live on alms? (2/2)" data-chapter="Whether it is lawful for religious to live on alms?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, A man may lawfully live on what is his or due to him. Now that which is given
 out of liberality becomes the property of the person to whom it is given. Wherefore religious and
@@ -2795,7 +2795,7 @@ us to despise (Mat. 15:12-14). If, however, these motives of necessity and profi
 weak might possibly be scandalized thereby; and this should be avoided. Yet the same scandal
 might be occasioned through those who live in idleness on the common revenues.
 
-<span class="atom-split" data-atom="046" data-title="Whether it is lawful for religious to beg?" data-chapter="Whether it is lawful for religious to beg?" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="Whether it is lawful for religious to beg?" data-chapter="Whether it is lawful for religious to beg?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unlawful for religious to beg. For [Augustine](/figures/augustine) says (De oper. Monach.
 xxviii): "The most cunning foe has scattered on all sides a great number of hypocrites wearing the
@@ -2886,7 +2886,7 @@ Reply to Objection 5: Preachers have the right to be fed by those to whom they p
 they wish to seek this by begging so as to receive it as a free gift and not as a right this will be a
 mark of greater humility.
 
-<span class="atom-split" data-atom="047" data-title="Whether it is lawful for religious to wear coarser clothes than others?" data-chapter="Whether it is lawful for religious to wear coarser clothes than others?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether it is lawful for religious to wear coarser clothes than others?" data-chapter="Whether it is lawful for religious to wear coarser clothes than others?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem unlawful for religious to wear coarser clothes than others. For
 according to the Apostle (1 Thess. 5:22) we ought to "refrain from all appearance of evil." Now
@@ -2965,7 +2965,7 @@ whether his behavior is motivated by contempt of excessive dress or by affectati
 however, would especially seem not to act thus from affectation, since they wear a coarse habit as
 a sign of their profession whereby they profess contempt of the world.
 
-<span class="atom-split" data-atom="048" data-title="OF THE DIFFERENT KINDS OF RELIGIOUS LIFE (EIGHT ARTICLES)" data-chapter="OF THE DIFFERENT KINDS OF RELIGIOUS LIFE (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="OF THE DIFFERENT KINDS OF RELIGIOUS LIFE (EIGHT ARTICLES)" data-chapter="OF THE DIFFERENT KINDS OF RELIGIOUS LIFE (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the different kinds of religious life, and under this head there are eight
 points of inquiry:
@@ -2980,7 +2980,7 @@ one that is directed to the active life?
 (8) Whether the religious life of solitaries is to be preferred to the religious life of those who
 live in community?
 
-<span class="atom-split" data-atom="049" data-title="Whether there is only one religious order?" data-chapter="Whether there is only one religious order?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether there is only one religious order?" data-chapter="Whether there is only one religious order?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is but one religious order. For there can be no diversity
 in that which is possessed wholly and perfectly; wherefore there can be only one sovereign good,
@@ -3043,7 +3043,7 @@ end and in the same way, without necessity or [utility](/positions/utility_pleas
 been wholesomely forbidden to establish a new religious order without the authority of the Sovereign
 Pontiff.
 
-<span class="atom-split" data-atom="050" data-title="Whether a religious order should be established for the works of the active life?" data-chapter="Whether a religious order should be established for the works of the active life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether a religious order should be established for the works of the active life?" data-chapter="Whether a religious order should be established for the works of the active life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no religious order should be established for the works of the
 active life. For every religious order belongs to [the state](/concepts/state) of perfection, as stated above (Q[184],
@@ -3120,7 +3120,7 @@ it not," to quote 1 Cor. 7:31. Hence (James 1:27) after it is stated that "relig
 . . . is . . . to visit the fatherless and widows in their tribulation," it is added, "and to keep one's self
 unspotted from this world," namely to avoid being attached to worldly things.
 
-<span class="atom-split" data-atom="051" data-title="Whether a religious order can be directed to soldiering?" data-chapter="Whether a religious order can be directed to soldiering?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether a religious order can be directed to soldiering?" data-chapter="Whether a religious order can be directed to soldiering?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no religious order can be directed to soldiering. For all religious
 orders belong to [the state](/concepts/state) of perfection. Now our Lord said with reference to the perfection of
@@ -3194,7 +3194,7 @@ Reply to Objection 4: The establishment of a religious order for the purpose of 
 not imply that the religious can wage war on their own authority; but they can do so only on the
 authority of the sovereign or of the Church.
 
-<span class="atom-split" data-atom="052" data-title="Whether a religious order can be established for preaching or hearing confessions?" data-chapter="Whether a religious order can be established for preaching or hearing confessions?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether a religious order can be established for preaching or hearing confessions?" data-chapter="Whether a religious order can be established for preaching or hearing confessions?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no religious order may be established for preaching, or hearing
 confessions. For it is said (VII, qu. i [*Cap. Hoc nequaquam; Cf. Q[187], A[1], OBJ[1]]): "The
@@ -3281,7 +3281,7 @@ persons to be appointed to each locality, just as it was necessary to establish 
 military service, on account of the secular princes being unable to cope with unbelievers in certain
 countries.
 
-<span class="atom-split" data-atom="053" data-title="Whether a religious order should be established for the purpose of study?" data-chapter="Whether a religious order should be established for the purpose of study?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether a religious order should be established for the purpose of study?" data-chapter="Whether a religious order should be established for the purpose of study?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a religious order should not be established for the purpose of
 study. For it is written (Ps. 70:15,16): "Because I have not known letters [Douay: 'learning'], I will
@@ -3366,7 +3366,7 @@ we are slow to advance in the consideration of their methods. Yet we should not 
 doing this, were it not that many holy sons of their most loving mother the Catholic Church had
 done the same under the necessity of confounding heretics."
 
-<span class="atom-split" data-atom="054" data-title="Whether a religious order that is devoted to the contemplative life is more excellent than on that is given to the active life?" data-chapter="Whether a religious order that is devoted to the contemplative life is more excellent than on that is given to the active life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether a religious order that is devoted to the contemplative life is more excellent than on that is given to the active life?" data-chapter="Whether a religious order that is devoted to the contemplative life is more excellent than on that is given to the active life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a religious order which is devoted to the contemplative life is
 not more excellent than one which is given to the active life. For it is said (Extra, de Regular. et
@@ -3443,7 +3443,7 @@ is more efficaciously directed to continence by means of abstinence in meat and 
 to hunger and thirst, than by the privation of clothing, which pertains to cold and nakedness, or by
 bodily labor.
 
-<span class="atom-split" data-atom="055" data-title="Whether religious perfection is diminished by possessing something in common? (1/3)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether religious perfection is diminished by possessing something in common? (1/3)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that religious perfection is diminished by possessing something in
 common. For our Lord said (Mat. 19:21): "If thou wilt be perfect, go sell all [Vulg.: 'what'] thou
@@ -3485,7 +3485,7 @@ Contempl. ix) and his words are quoted (XII, qu. 1, can. Expedit): "It is suffic
 for the sake of perfection one should renounce having anything of one's own, and that the possession
 of revenues, which are of course common property, is no hindrance to the perfection of the Church."
 
-<span class="atom-split" data-atom="056" data-title="Whether religious perfection is diminished by possessing something in common? (2/3)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether religious perfection is diminished by possessing something in common? (2/3)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, As stated above (Q[184], A[3], ad 1; Q[185], A[6], ad 1), perfection consists,
 essentially, not in poverty, but in following Christ, according to the saying of Jerome (Super Matth.
@@ -3571,7 +3571,7 @@ or of any other poor, is in accordance with the perfection which Christ taught b
 Moreover, after the resurrection, the disciples from whom all religious orders took their origin kept
 the price of the lands, and distributed it according as each one had need (Acts 4:34,35).
 
-<span class="atom-split" data-atom="057" data-title="Whether religious perfection is diminished by possessing something in common? (3/3)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether religious perfection is diminished by possessing something in common? (3/3)" data-chapter="Whether religious perfection is diminished by possessing something in common?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 1: As stated above (Q[184], A[3], ad 1), this saying of our Lord does not
 mean that poverty itself is perfection, but that it is the means of perfection. Indeed, as shown above
@@ -3631,7 +3631,7 @@ sent to preach not to carry these things on the way, He did not forbid them to b
 common. How these words of our Lord should be understood has been shown above (Q[185], A[6]
 , ad 2; FS, Q[108], A[2], ad 3).
 
-<span class="atom-split" data-atom="058" data-title="Whether the religious life of those who live in community is more perfect than that of those who lead a solitary life?" data-chapter="Whether the religious life of those who live in community is more perfect than that of those who lead a solitary life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the religious life of those who live in community is more perfect than that of those who lead a solitary life?" data-chapter="Whether the religious life of those who live in community is more perfect than that of those who lead a solitary life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the religious life of those who live in community is more
 perfect than that of those who lead a solitary life. For it is written (Eccles. 4:9): "It is better . . . that
@@ -3732,7 +3732,7 @@ is beast-like. The other is with a view to adhering wholly to divine things; and
 Hence the Philosopher says (Polit. i, 1) that "he who associates not with others is either a beast or
 a god," i.e. a godly man.
 
-<span class="atom-split" data-atom="059" data-title="OF THE ENTRANCE INTO RELIGIOUS LIFE (TEN ARTICLES)" data-chapter="OF THE ENTRANCE INTO RELIGIOUS LIFE (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="OF THE ENTRANCE INTO RELIGIOUS LIFE (TEN ARTICLES)" data-chapter="OF THE ENTRANCE INTO RELIGIOUS LIFE (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the entrance into religious life. Under this head there are ten points of
 inquiry:
@@ -3749,7 +3749,7 @@ religion?
 (10) Whether serious deliberation with one's relations and friends is requisite for entrance into
 religion?
 
-<span class="atom-split" data-atom="060" data-title="Whether those who are not practiced in keeping the commandments should enter religion? (1/2)" data-chapter="Whether those who are not practiced in keeping the commandments should enter religion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether those who are not practiced in keeping the commandments should enter religion? (1/2)" data-chapter="Whether those who are not practiced in keeping the commandments should enter religion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that none should enter religion but those who are practiced in the
 observance of the commandments. For our Lord gave the counsel of perfection to the young man
@@ -3848,7 +3848,7 @@ from a higher degree of holiness, than the highest degree to which another man a
 his whole life. Hence Gregory says (Dial. ii, 1): "All are agreed that the boy Benedict began at a
 high degree of grace and perfection in his daily life."
 
-<span class="atom-split" data-atom="061" data-title="Whether those who are not practiced in keeping the commandments should enter religion? (2/2)" data-chapter="Whether those who are not practiced in keeping the commandments should enter religion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether those who are not practiced in keeping the commandments should enter religion? (2/2)" data-chapter="Whether those who are not practiced in keeping the commandments should enter religion?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: As stated above (Q[184], A[6]) the holy orders prerequire holiness,
 whereas the religious state is a school for the attainment of holiness. Hence the burden of orders
@@ -3898,7 +3898,7 @@ before being a virgin. In like manner it is not necessary for a person first of 
 commandments in the world before entering religion; especially as the worldly life does not dispose
 one to religious perfection, but is more an obstacle thereto.
 
-<span class="atom-split" data-atom="062" data-title="Whether one ought to be bound by vow to enter religion?" data-chapter="Whether one ought to be bound by vow to enter religion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether one ought to be bound by vow to enter religion?" data-chapter="Whether one ought to be bound by vow to enter religion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one ought not to be bound by vow to enter religion. For in
 making his profession a man is bound by the religious vow. Now before profession a year of
@@ -3949,7 +3949,7 @@ him from it. But if one who breaks a vow falls more grievously, this does not de
 goodness of the vow, as neither does it derogate from the goodness of Baptism that some sin more
 grievously after being baptized.
 
-<span class="atom-split" data-atom="063" data-title="Whether one who is bound by a vow to enter religion is under an obligation of entering religion?" data-chapter="Whether one who is bound by a vow to enter religion is under an obligation of entering religion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether one who is bound by a vow to enter religion is under an obligation of entering religion?" data-chapter="Whether one who is bound by a vow to enter religion is under an obligation of entering religion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one who is bound by the vow to enter religion is not under an
 obligation of entering religion. For it is said in the Decretals (XVII, qu. ii, can. Consaldus):
@@ -4020,7 +4020,7 @@ by being baptized. And yet even if one were not thereby absolved from all debt o
 nevertheless the entrance into religion is more profitable than a pilgrimage to the Holy Land, as
 regards the advancement in good, which is preferable to absolution from punishment.
 
-<span class="atom-split" data-atom="064" data-title="Whether he who has vowed to enter religion is bound to remain in religion in perpetuity?" data-chapter="Whether he who has vowed to enter religion is bound to remain in religion in perpetuity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether he who has vowed to enter religion is bound to remain in religion in perpetuity?" data-chapter="Whether he who has vowed to enter religion is bound to remain in religion in perpetuity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that he who has vowed to enter religion, is bound in perpetuity to
 remain in religion. For it is better not to enter religion than to leave after entering, according to 2
@@ -4073,7 +4073,7 @@ fulfil his vow, since this was not his intention in vowing. Hence he must change
 least so as to wish to try whether it is good for him to remain in religion, but he is not bound to
 remain for evermore.
 
-<span class="atom-split" data-atom="065" data-title="Whether children should be received in religion?" data-chapter="Whether children should be received in religion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether children should be received in religion?" data-chapter="Whether children should be received in religion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that children ought not to be received in religion. Because it is said
 (Extra, De Regular. et Transeunt. ad Relig., cap. Nullus): "No one should be tonsured unless he be
@@ -4161,7 +4161,7 @@ Reply to Objection 4: A woman who has not reached the age of puberty is not rebu
 Hence it is evident that she does not sin in vowing. But we are given to understand that she binds
 herself by vow, so far as she may, without prejudice to her parents' authority.
 
-<span class="atom-split" data-atom="066" data-title="Whether one ought to be withdrawn from entering religion through deference to one's parents?" data-chapter="Whether one ought to be withdrawn from entering religion through deference to one's parents?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether one ought to be withdrawn from entering religion through deference to one's parents?" data-chapter="Whether one ought to be withdrawn from entering religion through deference to one's parents?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that one ought to be withdrawn from entering religion through
 deference to one's parents. For it is not lawful to omit that which is of obligation in order to do that
@@ -4232,7 +4232,7 @@ nor is he bound to remain in the world in order to earn the means of paying the 
 On the other hand, he does not owe his father a special debt, except as may arise in a case of
 necessity, as stated above.
 
-<span class="atom-split" data-atom="067" data-title="Whether parish priests may lawfully enter religion?" data-chapter="Whether parish priests may lawfully enter religion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether parish priests may lawfully enter religion?" data-chapter="Whether parish priests may lawfully enter religion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that parish priests cannot lawfully enter religion. For Gregory says
 (Past. iii, 4) that "he who undertakes the cure of souls, receives an awful warning in the words: 'My
@@ -4280,7 +4280,7 @@ and is not desired by many." It is therefore evident that this is a foolish alar
 fear to draw water lest the river run dry. [*St. Thomas gives no reply to the third objection, which
 is sufficiently solved in the body of the article.]
 
-<span class="atom-split" data-atom="068" data-title="Whether it is lawful to pass from one religious order to another?" data-chapter="Whether it is lawful to pass from one religious order to another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="Whether it is lawful to pass from one religious order to another?" data-chapter="Whether it is lawful to pass from one religious order to another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems unlawful to pass from one religious order to another, even a stricter one.
 For the Apostle says (Heb. 10:25): "Not forsaking our assembly, as some are accustomed"; and a
@@ -4360,7 +4360,7 @@ a simple vow a person were to be married, his marriage would not be invalid, as 
 his taking a solemn vow. Consequently a person who is professed in a less severe order is not bound
 to fulfil a simple vow he has taken on entering a more severe order.
 
-<span class="atom-split" data-atom="069" data-title="Whether one ought to induce others to enter religion?" data-chapter="Whether one ought to induce others to enter religion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether one ought to induce others to enter religion?" data-chapter="Whether one ought to induce others to enter religion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no one ought to induce others to enter religion. For the blessed
 Benedict prescribes in his Rule (lviii) that "those who seek to enter religion must not easily be
@@ -4419,7 +4419,7 @@ order. On the other hand, one who is bound by vow or oath to enter a greater ord
 lawfully induced to enter a lesser order, except for some special and evident motive, and then with
 the superior's dispensation.
 
-<span class="atom-split" data-atom="070" data-title="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time? (1/2)" data-chapter="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time? (1/2)" data-chapter="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would not seem praiseworthy to enter religion without taking counsel of many,
 and previously deliberating for a long time. For it is written (1 Jn. 4:1): "Believe not every spirit,
@@ -4494,7 +4494,7 @@ weakness and turning back. Hence he hears our Lord say: 'No man putting his hand
 and looking back, is fit for the kingdom of God,' because he looks back who seeks delay in order
 to go home and confer with his kinsfolk."
 
-<span class="atom-split" data-atom="071" data-title="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time? (2/2)" data-chapter="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time? (2/2)" data-chapter="Whether it is praiseworthy to enter religion without taking counsel of many, and previously deliberating for a long time?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The building of the tower signifies the perfection of Christian life; and
 the renunciation of one's possessions is the wherewithal to build this tower. Now no one doubts or

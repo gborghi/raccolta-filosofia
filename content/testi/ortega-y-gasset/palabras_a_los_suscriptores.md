@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/palabras_a_los_suscriptores" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Palabras a los suscriptores" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Palabras a los suscriptores" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Al tiempo mismo que se repartía el tomo primero de El Espectador tuve que aceptar el compromiso de hacer un viaje a América y dar en la Universidad de Buenos Aires un ciclo de conferencias filosóficas. Fui allá, pues, para ocupar la cátedra que en ese centro de enseñanza ha creado la «Institución Cultural Española» —tal vez el organismo de propaganda nacional más serio, discreto y entusiasta que conozco.
 

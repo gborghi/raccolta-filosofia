@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/necesidad_de_una_junta_magna_para_la_reorganización_del_estado_español" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Necesidad de una Junta magna para la reorganización del Estado español" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Necesidad de una Junta magna para la reorganización del Estado español" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Aspiramos a instaurar un Estado que lo sea para todos los españoles. Queremos hacer una casa muy grande y generosa, donde quepan todos. Mas, por lo mismo, es preciso que en su gestación intervenga desde luego el mayor número posible de españoles. Claro es que los que no quieren un nuevo Estado se excluyen a sí mismos de esta amplísima colaboración.
 

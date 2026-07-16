@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_sacraments" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Sacraments" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Sacraments" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE SACRAMENTS (QQ[60]-90)
 
-<span class="atom-split" data-atom="002" data-title="WHAT IS A SACRAMENT? (EIGHT ARTICLES)" data-chapter="WHAT IS A SACRAMENT? (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="WHAT IS A SACRAMENT? (EIGHT ARTICLES)" data-chapter="WHAT IS A SACRAMENT? (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 After considering those things that concern the mystery of the incarnate Word, we must consider
 the sacraments of the Church which derive their efficacy from the Word incarnate Himself. First
@@ -42,7 +42,7 @@ Under the first heading there are eight points of inquiry:
 (7) Whether determinate words are required?
 (8) Whether anything may be added to or subtracted from these words?
 
-<span class="atom-split" data-atom="003" data-title="Whether a sacrament is a kind of sign?" data-chapter="Whether a sacrament is a kind of sign?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether a sacrament is a kind of sign?" data-chapter="Whether a sacrament is a kind of sign?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a [sacrament](/concepts/sacrament) is not a kind of sign. For sacrament appears to be derived
 from "sacring" [sacrando]; just as medicament, from "medicando" [healing]. But this seems to be
@@ -92,7 +92,7 @@ in calling a sacred thing to witness. And in this sense it is called a sacrament
 which we speak of sacraments now; the word "sacrament" being thus used not equivocally but
 analogically, i.e. by reason of a different relation to the one thing, viz. something sacred.
 
-<span class="atom-split" data-atom="004" data-title="Whether every sign of a holy thing is a sacrament?" data-chapter="Whether every sign of a holy thing is a sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether every sign of a holy thing is a sacrament?" data-chapter="Whether every sign of a holy thing is a sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not every sign of a sacred thing is a [sacrament](/concepts/sacrament). For all sensible
 creatures are signs of sacred things; according to Rom. 1:20: "The invisible things of God are clearly
@@ -133,7 +133,7 @@ of completeness. Now a disposition is not an end, whereas perfection is. Consequ
 signify disposition to holiness are not called sacraments, and with regard to these the objection is
 verified: only those are called sacraments which signify the perfection of holiness in man.
 
-<span class="atom-split" data-atom="005" data-title="Whether a sacrament is a sign of one thing only?" data-chapter="Whether a sacrament is a sign of one thing only?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether a sacrament is a sign of one thing only?" data-chapter="Whether a sacrament is a sign of one thing only?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a [sacrament](/concepts/sacrament) is a sign of one thing only. For that which signifies
 many things is an ambiguous sign, and consequently occasions deception: this is clearly seen in
@@ -175,7 +175,7 @@ the effect, which is implied in the sanctifying cause as such.
 Reply to Objection 3: It is enough for a sacrament that it signify that perfection which consists
 in the form, nor is it necessary that it should signify only that perfection which is the end.
 
-<span class="atom-split" data-atom="006" data-title="Whether a sacrament is always something sensible?" data-chapter="Whether a sacrament is always something sensible?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether a sacrament is always something sensible?" data-chapter="Whether a sacrament is always something sensible?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a [sacrament](/concepts/sacrament) is not always something sensible. Because, according
 to the Philosopher (Prior. Anal. ii), every effect is a sign of its cause. But just as there are some
@@ -230,7 +230,7 @@ of God consists.
 Reply to Objection 3: Augustine speaks there of sensible things, considered in their nature;
 but not as employed to signify spiritual things, which are the highest goods.
 
-<span class="atom-split" data-atom="007" data-title="Whether determinate things are required for a sacrament?" data-chapter="Whether determinate things are required for a sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Whether determinate things are required for a sacrament?" data-chapter="Whether determinate things are required for a sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that determinate things are not required for a [sacrament](/concepts/sacrament). For sensible
 things are required in sacraments for the purpose of signification, as stated above (A[4]). But nothing
@@ -289,7 +289,7 @@ And hence the need for those things to be determinate, of which men have to make
 sacraments. Nor is the way of salvation narrowed thereby: because the things which need to be
 used in the sacraments, are either in everyone's possession or can be had with little trouble.
 
-<span class="atom-split" data-atom="008" data-title="Whether words are required for the signification of the sacraments?" data-chapter="Whether words are required for the signification of the sacraments?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether words are required for the signification of the sacraments?" data-chapter="Whether words are required for the signification of the sacraments?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that words are not required for the signification of the sacraments. For
 [Augustine](/figures/augustine) says (Contra Faust. xix): "What else is a corporeal [sacrament](/concepts/sacrament) but a kind of visible word?"
@@ -356,7 +356,7 @@ shall you bless the children of Israel, and you shall say to them: The Lord bles
 those who made use of those sacraments, according to Dt. 26:3: "I profess this day before the Lord
 thy God," etc.
 
-<span class="atom-split" data-atom="009" data-title="Whether determinate words are required in the sacraments?" data-chapter="Whether determinate words are required in the sacraments?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether determinate words are required in the sacraments?" data-chapter="Whether determinate words are required in the sacraments?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that determinate words are not required in the sacraments. For as the
 Philosopher says (Peri Herm. i), "words are not the same for all." But salvation, which is sought
@@ -419,7 +419,7 @@ mispronunciation: for in either case it may be so little that it does not alter 
 or so great that it destroys it. But it is easier for the one to happen on the part of the beginning of
 the words, and the other at the end.
 
-<span class="atom-split" data-atom="010" data-title="Whether it is lawful to add anything to the words in which the sacramental form consists?" data-chapter="Whether it is lawful to add anything to the words in which the sacramental form consists?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether it is lawful to add anything to the words in which the sacramental form consists?" data-chapter="Whether it is lawful to add anything to the words in which the sacramental form consists?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it is not lawful to add anything to the words in which the sacramental
 form consists. For these sacramental words are not of less importance than are the words of Holy
@@ -504,7 +504,7 @@ a word. But if the order is so changed that the sense of the words does not vary
 not invalidated, according to the Philosopher's dictum: "Nouns and verbs mean the same though
 they be transposed" (Peri Herm. x).
 
-<span class="atom-split" data-atom="011" data-title="OF THE NECESSITY OF THE SACRAMENTS (FOUR ARTICLES)" data-chapter="OF THE NECESSITY OF THE SACRAMENTS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="OF THE NECESSITY OF THE SACRAMENTS (FOUR ARTICLES)" data-chapter="OF THE NECESSITY OF THE SACRAMENTS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the necessity of the sacraments; concerning which there are four points
 of inquiry:
@@ -513,7 +513,7 @@ of inquiry:
 (3) Whether they were necessary in the state after sin and before Christ?
 (4) Whether they were necessary after Christ's coming?
 
-<span class="atom-split" data-atom="012" data-title="Whether sacraments are necessary for man's salvation?" data-chapter="Whether sacraments are necessary for man's salvation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether sacraments are necessary for man's salvation?" data-chapter="Whether sacraments are necessary for man's salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that sacraments are not necessary for man's salvation. For the Apostle
 says (1 Tim. 4:8): "Bodily exercise is profitable to little." But the use of sacraments pertains to
@@ -568,7 +568,7 @@ through the power of Christ's Passion; and Christ's Passion is, so to say, appli
 the sacraments according to the Apostle (Rom. 6:3): "All we who are baptized in Christ Jesus, are
 baptized in His death."
 
-<span class="atom-split" data-atom="013" data-title="Whether before sin sacraments were necessary to man?" data-chapter="Whether before sin sacraments were necessary to man?" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="Whether before sin sacraments were necessary to man?" data-chapter="Whether before sin sacraments were necessary to man?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that before sin sacraments were necessary to man. For, as stated above
 (A[1], ad 2) man needs sacraments that he may obtain grace. But man needed grace even in the
@@ -606,7 +606,7 @@ Reply to Objection 3: Matrimony was instituted in the state of innocence, not as
 but as a function of nature. Consequently, however, it foreshadowed something in relation to Christ
 and the Church: just as everything else foreshadowed Christ.
 
-<span class="atom-split" data-atom="014" data-title="Whether there should have been sacraments after sin, before Christ?" data-chapter="Whether there should have been sacraments after sin, before Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether there should have been sacraments after sin, before Christ?" data-chapter="Whether there should have been sacraments after sin, before Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there should have been no sacraments after sin, before Christ. For
 it has been stated that the Passion of Christ is applied to men through the sacraments: so that Christ's
@@ -668,7 +668,7 @@ clearly appears in the Paschal Lamb and such like. The reason of this was lest, 
 retained the same appearance, it might seem to be the continuation of one and the same sacrament,
 where there was no interruption of time.
 
-<span class="atom-split" data-atom="015" data-title="Whether there was need for any sacraments after Christ came?" data-chapter="Whether there was need for any sacraments after Christ came?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether there was need for any sacraments after Christ came?" data-chapter="Whether there was need for any sacraments after Christ came?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there was no need for any sacraments after Christ came. For the
 figure should cease with the advent of the truth. But "grace and truth came by Jesus Christ" (Jn.
@@ -717,7 +717,7 @@ in winter and summer; so it does not follow that there is any change in God, bec
 sacraments of one kind after Christ's coming, and of another kind at the time of the Law. because
 the latter were suitable as foreshadowing grace; the former as signifying the presence of grace,
 
-<span class="atom-split" data-atom="016" data-title="OF THE SACRAMENTS' PRINCIPAL EFFECT, WHICH IS GRACE (SIX ARTICLES)" data-chapter="OF THE SACRAMENTS' PRINCIPAL EFFECT, WHICH IS GRACE (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="OF THE SACRAMENTS' PRINCIPAL EFFECT, WHICH IS GRACE (SIX ARTICLES)" data-chapter="OF THE SACRAMENTS' PRINCIPAL EFFECT, WHICH IS GRACE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the effect of the sacraments. First of their principal effect, which is
 grace; secondly, of their secondary effect, which is a character. Concerning the first there are six
@@ -729,7 +729,7 @@ points of inquiry:
 (5) Whether the sacraments derive this power from Christ's Passion?
 (6) Whether the sacraments of the Old Law caused grace?
 
-<span class="atom-split" data-atom="017" data-title="Whether the sacraments are the cause of grace?" data-chapter="Whether the sacraments are the cause of grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the sacraments are the cause of grace?" data-chapter="Whether the sacraments are the cause of grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sacraments are not the cause of grace. For it seems that the same
 thing is not both sign and cause: since the nature of sign appears to be more in keeping with an
@@ -803,7 +803,7 @@ the body and cleanses the heart."
 Reply to Objection 3: This argument considers that which causes grace as principal agent; for
 this belongs to God alone, as stated above.
 
-<span class="atom-split" data-atom="018" data-title="Whether sacramental grace confers anything in addition to the grace of the virtues and gifts?" data-chapter="Whether sacramental grace confers anything in addition to the grace of the virtues and gifts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether sacramental grace confers anything in addition to the grace of the virtues and gifts?" data-chapter="Whether sacramental grace confers anything in addition to the grace of the virtues and gifts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that sacramental grace confers nothing in addition to the grace of the
 virtues and gifts. For the grace of the virtues and gifts perfects the soul sufficiently, both in its
@@ -854,7 +854,7 @@ to genus. Wherefore just as it is not equivocal to use the term "animal" in its 
 applied to a man, so neither is it equivocal to speak of grace commonly so called and of sacramental
 grace.
 
-<span class="atom-split" data-atom="019" data-title="Whether the sacraments of the New Law contain grace?" data-chapter="Whether the sacraments of the New Law contain grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="Whether the sacraments of the New Law contain grace?" data-chapter="Whether the sacraments of the New Law contain grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sacraments of the [New Law](/concepts/divine_law) do not contain grace. For it seems
 that what is contained is in the container. But grace is not in the sacraments; neither as in a subject,
@@ -893,7 +893,7 @@ Reply to Objection 3: If a spiritual thing exist perfectly in something, it cont
 contained by it. But, in a sacrament, grace has a passing and incomplete mode of being: and
 consequently it is not unfitting to say that the sacraments contain grace.
 
-<span class="atom-split" data-atom="020" data-title="Whether there be in the sacraments a power of causing grace?" data-chapter="Whether there be in the sacraments a power of causing grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether there be in the sacraments a power of causing grace?" data-chapter="Whether there be in the sacraments a power of causing grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there is not in the sacraments a power of causing grace. For the
 power of causing grace is a spiritual power. But a spiritual power cannot be in a body; neither as
@@ -961,7 +961,7 @@ all the instruments that are ordained unto the production of an effect, forasmuc
 being so ordained: so also the one same sacramental power is in both words and things, forasmuch
 as words and things combine to form one sacrament.
 
-<span class="atom-split" data-atom="021" data-title="Whether the sacraments of the New Law derive their power from Christ's Passion?" data-chapter="Whether the sacraments of the New Law derive their power from Christ's Passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether the sacraments of the New Law derive their power from Christ's Passion?" data-chapter="Whether the sacraments of the New Law derive their power from Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sacraments of the [New Law](/concepts/divine_law) do not derive their power from
 Christ's Passion. For the power of the sacraments is in the causing of grace which is the principle
@@ -1022,7 +1022,7 @@ Reply to Objection 3: Justification is ascribed to the Resurrection by reason of
 "whither," which is newness of life through grace. But it is ascribed to the Passion by reason of the
 term "whence," i.e. in regard to the forgiveness of sin.
 
-<span class="atom-split" data-atom="022" data-title="Whether the sacraments of the Old Law caused grace?" data-chapter="Whether the sacraments of the Old Law caused grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the sacraments of the Old Law caused grace?" data-chapter="Whether the sacraments of the Old Law caused grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sacraments of the [Old Law](/concepts/divine_law) caused grace. For, as stated above
 (A[5], ad 2) the sacraments of the New Law derive their efficacy from faith in Christ's Passion.
@@ -1105,7 +1105,7 @@ this there are six points of inquiry:
 (5) Is it indelible?
 (6) Whether every [sacrament](/concepts/sacrament) imprints a character?
 
-<span class="atom-split" data-atom="023" data-title="Whether a sacrament imprints a character on the soul?" data-chapter="Whether a sacrament imprints a character on the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether a sacrament imprints a character on the soul?" data-chapter="Whether a sacrament imprints a character on the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a [sacrament](/concepts/sacrament) does not imprint a character on the soul. For the word
 "character" seems to signify some kind of distinctive sign. But Christ's members are distinguished
@@ -1159,7 +1159,7 @@ in themselves any spiritual power of producing a spiritual effect. Consequently 
 there was no need of a spiritual character, and bodily circumcision sufficed, which the Apostle calls
 "a seal" (Rom. 4:11).
 
-<span class="atom-split" data-atom="024" data-title="Whether a character is a spiritual power?" data-chapter="Whether a character is a spiritual power?" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="Whether a character is a spiritual power?" data-chapter="Whether a character is a spiritual power?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a character is not a spiritual power. For "character" seems to be the
 same thing as "figure"; hence (Heb. 1:3), where we read "figure of His substance, "for "figure" the
@@ -1222,7 +1222,7 @@ Reply to Objection 4: A character is in the nature of a sign in comparison to th
 sacrament by which it is imprinted. But considered in itself, it is in the nature of a principle, in the
 way already explained.
 
-<span class="atom-split" data-atom="025" data-title="Whether the sacramental character is the character of Christ?" data-chapter="Whether the sacramental character is the character of Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether the sacramental character is the character of Christ?" data-chapter="Whether the sacramental character is the character of Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the [sacramental character](/concepts/sacrament) is not the character of Christ. For it is
 written (Eph. 4:30): "Grieve not the Holy Spirit of God, whereby you are sealed." But a character
@@ -1290,7 +1290,7 @@ objection runs; while the latter results from the sacramental character. Wherefo
 the beast" may be understood by opposition, to mean either the obstinate malice for which some
 are assigned to eternal punishment, or the profession of an unlawful form of worship.
 
-<span class="atom-split" data-atom="026" data-title="Whether the character be subjected in the powers of the soul?" data-chapter="Whether the character be subjected in the powers of the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether the character be subjected in the powers of the soul?" data-chapter="Whether the character be subjected in the powers of the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the character is not subjected in the powers of the soul. For a character
 is said to be a disposition to grace. But grace is subjected in the essence of the soul as we have
@@ -1340,7 +1340,7 @@ Reply to Objection 3: As stated above, a character is ordained unto things perta
 Divine worship; which is a protestation of faith expressed by exterior signs. Consequently, a
 character needs to be in the soul's cognitive power, where also is faith.
 
-<span class="atom-split" data-atom="027" data-title="Whether a character can be blotted out from the soul?" data-chapter="Whether a character can be blotted out from the soul?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether a character can be blotted out from the soul?" data-chapter="Whether a character can be blotted out from the soul?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a character can be blotted out from the soul. Because the more perfect
 an accident is, the more firmly does it adhere to its subject. But grace is more perfect than a character;
@@ -1396,7 +1396,7 @@ Consequently, after this life the character remains, both in the good as adding 
 in the wicked as increasing their shame: just as the character of the military service remains in the
 soldiers after the victory, as the boast of the conquerors, and the disgrace of the conquered.
 
-<span class="atom-split" data-atom="028" data-title="Whether a character is imprinted by each sacrament of the New Law?" data-chapter="Whether a character is imprinted by each sacrament of the New Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether a character is imprinted by each sacrament of the New Law?" data-chapter="Whether a character is imprinted by each sacrament of the New Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a character is imprinted by all the sacraments of the [New Law](/concepts/divine_law):
 because each [sacrament](/concepts/sacrament) of the New Law makes man a participator in Christ's Priesthood. But the
@@ -1452,7 +1452,7 @@ Reply to Objection 3: Although a character is a reality and a sacrament, it does
 whatever is a reality and a sacrament, is also a character. With regard to the other sacraments we
 shall explain further on what is the reality and what is the sacrament.
 
-<span class="atom-split" data-atom="029" data-title="OF THE CAUSES OF THE SACRAMENTS (TEN ARTICLES)" data-chapter="OF THE CAUSES OF THE SACRAMENTS (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="OF THE CAUSES OF THE SACRAMENTS (TEN ARTICLES)" data-chapter="OF THE CAUSES OF THE SACRAMENTS (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 In the next place we have to consider the causes of the sacraments, both as to authorship and
 as to ministration. Concerning which there are ten points of inquiry:
@@ -1468,7 +1468,7 @@ as to ministration. Concerning which there are ten points of inquiry:
 a [sacrament](/concepts/sacrament)?
 (10) Whether a right intention is required therein?
 
-<span class="atom-split" data-atom="030" data-title="Whether God alone, or the minister also, works inwardly unto the sacramental effect?" data-chapter="Whether God alone, or the minister also, works inwardly unto the sacramental effect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether God alone, or the minister also, works inwardly unto the sacramental effect?" data-chapter="Whether God alone, or the minister also, works inwardly unto the sacramental effect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not God alone, but also the minister, works inwardly unto the
 sacramental effect. For the inward sacramental effect is to cleanse man from sin and enlighten him
@@ -1523,7 +1523,7 @@ Reply to Objection 3: Inanimate things do not produce the sacramental effect, ex
 instrumentally, as stated above. In like manner neither do men produce the sacramental effect,
 except ministerially, as also stated above.
 
-<span class="atom-split" data-atom="031" data-title="Whether the sacraments are instituted by God alone?" data-chapter="Whether the sacraments are instituted by God alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the sacraments are instituted by God alone?" data-chapter="Whether the sacraments are instituted by God alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sacraments are not instituted by God alone. For those things
 which God has instituted are delivered to us in Holy [Scripture](/concepts/revelation). But in the sacraments certain things
@@ -1578,7 +1578,7 @@ another Church, so neither may they deliver another faith, nor institute other s
 contrary, the Church is said to be built up with the sacraments "which flowed from the side of Christ
 while hanging on the Cross."
 
-<span class="atom-split" data-atom="032" data-title="Whether Christ as man had the power of producing the inward sacramental effect?" data-chapter="Whether Christ as man had the power of producing the inward sacramental effect?" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="Whether Christ as man had the power of producing the inward sacramental effect?" data-chapter="Whether Christ as man had the power of producing the inward sacramental effect?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ as man had the power of producing the interior sacramental
 effect. For John the Baptist said (Jn. 1:33): "He, Who sent me to baptize in water, said to me: He
@@ -1635,7 +1635,7 @@ depend on effect, but rather conversely, it belongs to the excellence of Christ'
 bestow the sacramental effect without conferring the exterior sacrament. Thus it is clear how to
 solve the objections; for the arguments on either side are true to a certain extent, as explained above.
 
-<span class="atom-split" data-atom="033" data-title="Whether Christ could communicate to ministers the power which He had in the sacraments?" data-chapter="Whether Christ could communicate to ministers the power which He had in the sacraments?" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="Whether Christ could communicate to ministers the power which He had in the sacraments?" data-chapter="Whether Christ could communicate to ministers the power which He had in the sacraments?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ could not communicate to ministers the power which He had
 in the sacraments. For as [Augustine](/figures/augustine) argues against Maximin, "if He could, but would not, He was
@@ -1684,7 +1684,7 @@ Reply to Objection 3: It was in order to avoid the incongruity of many heads in 
 that Christ was unwilling to communicate to ministers His power of excellence. If, however, He
 had done so, He would have been Head in chief; the others in subjection to Him.
 
-<span class="atom-split" data-atom="034" data-title="Whether the sacraments can be conferred by evil ministers?" data-chapter="Whether the sacraments can be conferred by evil ministers?" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="Whether the sacraments can be conferred by evil ministers?" data-chapter="Whether the sacraments can be conferred by evil ministers?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sacraments cannot be conferred by evil ministers. For the
 sacraments of the [New Law](/concepts/divine_law) are ordained for the purpose of cleansing from sin and for the bestowal
@@ -1736,7 +1736,7 @@ to it: and if this be wanting, the sacrament is invalid; for instance, if the du
 wanting. Secondly, a thing is required for a sacrament, by reason of a certain fitness. And in this
 way good ministers are required for a sacrament.
 
-<span class="atom-split" data-atom="035" data-title="Whether wicked men sin in administering the sacraments?" data-chapter="Whether wicked men sin in administering the sacraments?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether wicked men sin in administering the sacraments?" data-chapter="Whether wicked men sin in administering the sacraments?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that wicked men do not sin in administering the sacraments. For just as
 men serve God in the sacraments, so do they serve Him in works of charity; whence it is written
@@ -1804,7 +1804,7 @@ baptizing. For it is clear that then he does not exercise the ministry of the Ch
 aid of one who is in need of his services. It is not so with the other sacraments, which are not so
 necessary as baptism, as we shall show further on (Q[65], AA[3],4; Q[62], A[3]).
 
-<span class="atom-split" data-atom="036" data-title="Whether angels can administer sacraments?" data-chapter="Whether angels can administer sacraments?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether angels can administer sacraments?" data-chapter="Whether angels can administer sacraments?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that angels can administer sacraments. Because a higher minister can do
 whatever the lower can; thus a priest can do whatever a deacon can: but not conversely. But angels
@@ -1851,7 +1851,7 @@ Reply to Objection 3: Wicked men do not owe their power of conferring sacraments
 being members of the devil. Consequently, it does not follow that "a fortiori" the devil, their head,
 can do so.
 
-<span class="atom-split" data-atom="037" data-title="Whether the minister's intention is required for the validity of a sacrament?" data-chapter="Whether the minister's intention is required for the validity of a sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether the minister's intention is required for the validity of a sacrament?" data-chapter="Whether the minister's intention is required for the validity of a sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the minister's intention is not required for the validity of a [sacrament](/concepts/sacrament).
 For the minister of a sacrament works instrumentally. But the perfection of an action does not
@@ -1908,7 +1908,7 @@ great care to have actual intention. But this is not entirely in man's power, be
 wishes to be very intent on something, he begins unintentionally to think of other things, according
 to Ps. 39:18: "My heart hath forsaken me."
 
-<span class="atom-split" data-atom="038" data-title="Whether faith is required of necessity in the minister of a sacrament?" data-chapter="Whether faith is required of necessity in the minister of a sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="Whether faith is required of necessity in the minister of a sacrament?" data-chapter="Whether faith is required of necessity in the minister of a sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that faith is required of necessity in the minister of a [sacrament](/concepts/sacrament). For, as
 stated above (A[8]), the intention of the minister is necessary for the validity of a sacrament. But
@@ -1979,7 +1979,7 @@ but the permission to use this power. Wherefore he does indeed confer the sacram
 in so doing. He also sins that receives a sacrament from such a man: so that he does not receive the
 reality of the sacrament, unless ignorance excuses him.
 
-<span class="atom-split" data-atom="039" data-title="Whether the validity of a sacrament requires a good intention in the minister?" data-chapter="Whether the validity of a sacrament requires a good intention in the minister?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether the validity of a sacrament requires a good intention in the minister?" data-chapter="Whether the validity of a sacrament requires a good intention in the minister?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the validity of a [sacrament](/concepts/sacrament) requires a good intention in the minister.
 For the minister's intention should be in conformity with the Church's intention, as explained above
@@ -2025,7 +2025,7 @@ the sacrament in so far as it is his action: not in so far as it is the action o
 he is. It is just as if the servant [minister] of some man were to carry alms to the poor with a wicked
 intention, whereas his master had commanded him with a good intention to do so.
 
-<span class="atom-split" data-atom="040" data-title="OF THE NUMBER OF THE SACRAMENTS (FOUR ARTICLES)" data-chapter="OF THE NUMBER OF THE SACRAMENTS (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="OF THE NUMBER OF THE SACRAMENTS (FOUR ARTICLES)" data-chapter="OF THE NUMBER OF THE SACRAMENTS (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the number of the sacraments: and concerning this there are four
 points of inquiry:
@@ -2034,7 +2034,7 @@ points of inquiry:
 (3) Their mutual comparison;
 (4) Whether all the sacraments are necessary for salvation?
 
-<span class="atom-split" data-atom="041" data-title="Whether there should be seven sacraments? (1/2)" data-chapter="Whether there should be seven sacraments?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether there should be seven sacraments? (1/2)" data-chapter="Whether there should be seven sacraments?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that there ought not to be seven sacraments. For the sacraments derive
 their efficacy from the Divine power, and the power of Christ's Passion. But the Divine power is
@@ -2150,7 +2150,7 @@ Reply to Objection 5: There was need for a special sacrament to be applied as a 
 venereal concupiscence: first because by this concupiscence, not only the person but also the nature
 is defiled: secondly, by reason of its vehemence whereby it clouds the reason.
 
-<span class="atom-split" data-atom="042" data-title="Whether there should be seven sacraments? (2/2)" data-chapter="Whether there should be seven sacraments?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether there should be seven sacraments? (2/2)" data-chapter="Whether there should be seven sacraments?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 6: Holy Water and other consecrated things are not called sacraments,
 because they do not produce the sacramental effect, which is the receiving of grace. They are,
@@ -2170,7 +2170,7 @@ instituted directly against venial sin. This is taken away by certain sacramenta
 Water and such like. Some, however, hold that Extreme Unction is ordained against venial sin. But
 of this we shall speak in its proper place (XP, Q[30], A[1]).
 
-<span class="atom-split" data-atom="043" data-title="Whether the order of the sacraments, as given above, is becoming?" data-chapter="Whether the order of the sacraments, as given above, is becoming?" data-kind="atom"></span>
+<span class="atom-split" data-atom="043" data-title="Whether the order of the sacraments, as given above, is becoming?" data-chapter="Whether the order of the sacraments, as given above, is becoming?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the order of the sacraments as given above is unbecoming. For
 according to the Apostle (1 Cor. 15:46), "that was . . . first . . . which is natural, afterwards that
@@ -2235,7 +2235,7 @@ the Bible.]
 Reply to Objection 5: Extreme Unction, for this very reason, is given the last place among
 those sacraments which are ordained to the perfection of the individual.
 
-<span class="atom-split" data-atom="044" data-title="Whether the Eucharist is the greatest of the sacraments?" data-chapter="Whether the Eucharist is the greatest of the sacraments?" data-kind="atom"></span>
+<span class="atom-split" data-atom="044" data-title="Whether the Eucharist is the greatest of the sacraments?" data-chapter="Whether the Eucharist is the greatest of the sacraments?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the Eucharist is not the principal of the sacraments. For the common
 good is of more account than the good of the individual (1 Ethic. ii). But Matrimony is ordained
@@ -2305,7 +2305,7 @@ have a certain excellence considered in their administration; and Matrimony by r
 signification. For there is no reason why a thing should not be greater from a certain point of view
 which is not greater absolutely speaking.
 
-<span class="atom-split" data-atom="045" data-title="Whether all the sacraments are necessary for salvation?" data-chapter="Whether all the sacraments are necessary for salvation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="045" data-title="Whether all the sacraments are necessary for salvation?" data-chapter="Whether all the sacraments are necessary for salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that all the sacraments are necessary for salvation. For what is not
 necessary seems to be superfluous. But no [sacrament](/concepts/sacrament) is superfluous, because "God does nothing
@@ -2347,7 +2347,7 @@ yet it does not amount to contempt of the sacrament, if anyone does not trouble 
 that is not necessary for salvation. Else those who do not receive orders, and those who do not
 contract Matrimony, would be guilty of contempt of those sacraments.
 
-<span class="atom-split" data-atom="046" data-title="OF THE SACRAMENT OF BAPTISM (TWELVE ARTICLES)" data-chapter="OF THE SACRAMENT OF BAPTISM (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="046" data-title="OF THE SACRAMENT OF BAPTISM (TWELVE ARTICLES)" data-chapter="OF THE SACRAMENT OF BAPTISM (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider each [sacrament](/concepts/sacrament) specially: (1) Baptism; (2) Confirmation; (3) the
 Eucharist; (4) Penance; (5) Extreme Unction; (6) Order; (7) Matrimony.
@@ -2371,7 +2371,7 @@ and of the Son, and of the Holy Ghost"?
 (11) Of the various kinds of Baptism;
 (12) Of the comparison between various Baptisms.
 
-<span class="atom-split" data-atom="047" data-title="Whether Baptism is the mere washing?" data-chapter="Whether Baptism is the mere washing?" data-kind="atom"></span>
+<span class="atom-split" data-atom="047" data-title="Whether Baptism is the mere washing?" data-chapter="Whether Baptism is the mere washing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Baptism is not the mere washing. For the washing of the body is
 something transitory: but Baptism is something permanent. Therefore Baptism is not the mere
@@ -2436,7 +2436,7 @@ the element itself, but in man, to whom the element is applied, by being used in
 Indeed, this is signified by those very words which are added to the element, when we say: "I
 baptize thee," etc.
 
-<span class="atom-split" data-atom="048" data-title="Whether Baptism was instituted after Christ's Passion?" data-chapter="Whether Baptism was instituted after Christ's Passion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="048" data-title="Whether Baptism was instituted after Christ's Passion?" data-chapter="Whether Baptism was instituted after Christ's Passion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Baptism was instituted after Christ's Passion. For the cause precedes
 the effect. Now Christ's Passion operates in the sacraments of the [New Law](/concepts/divine_law). Therefore Christ's
@@ -2487,7 +2487,7 @@ them. And this was not before the Passion, as stated above. For our Lord's words
 (Jn. 3:5), "Unless a man be born again of water and the Holy Ghost, he cannot enter into the kingdom
 of God, seem to refer to the future rather than to the present."
 
-<span class="atom-split" data-atom="049" data-title="Whether water is the proper matter of Baptism?" data-chapter="Whether water is the proper matter of Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="049" data-title="Whether water is the proper matter of Baptism?" data-chapter="Whether water is the proper matter of Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that water is not the proper matter of Baptism. For Baptism, according
 to Dionysius (Eccl. Hier. v) and Damascene (De Fide Orth. iv), has a power of enlightening. But
@@ -2563,7 +2563,7 @@ Reply to Objection 5: The blessing of the water is not essential to Baptism, but
 certain solemnity, whereby the devotion of the faithful is aroused, and the cunning of the devil
 hindered from impeding the baptismal effect.
 
-<span class="atom-split" data-atom="050" data-title="Whether plain water is necessary for Baptism?" data-chapter="Whether plain water is necessary for Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="050" data-title="Whether plain water is necessary for Baptism?" data-chapter="Whether plain water is necessary for Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that plain water is not necessary for Baptism. For the water which we
 have is not plain water; as appears especially in sea-water, in which there is a considerable proportion
@@ -2643,7 +2643,7 @@ process of condensation into real water, a result which cannot be produced artif
 rain-water retains no properties of any mixed body; which cannot be said of rose-water or chemical
 waters.
 
-<span class="atom-split" data-atom="051" data-title="Whether this be a suitable form of Baptism: \&quot;I baptize thee in the name of the Father, and of the Son, and of the Holy Ghost\&quot;?" data-chapter="Whether this be a suitable form of Baptism: \&quot;I baptize thee in the name of the Father, and of the Son, and of the Holy Ghost\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="051" data-title="Whether this be a suitable form of Baptism: \&quot;I baptize thee in the name of the Father, and of the Son, and of the Holy Ghost\&quot;?" data-chapter="Whether this be a suitable form of Baptism: \&quot;I baptize thee in the name of the Father, and of the Son, and of the Holy Ghost\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this be a suitable form of Baptism: "I baptize thee in the name of the Father, and of the Son, and of the Holy Ghost"?
 
@@ -2752,7 +2752,7 @@ in washing, so for the purpose of designating the three Persons, in the form of 
 are chosen, which are generally used, in a particular language, to signify the Persons. Nor is the
 sacrament valid if conferred in any other names.
 
-<span class="atom-split" data-atom="052" data-title="Whether Baptism can be conferred in the name of Christ?" data-chapter="Whether Baptism can be conferred in the name of Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="052" data-title="Whether Baptism can be conferred in the name of Christ?" data-chapter="Whether Baptism can be conferred in the name of Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Baptism can be conferred in the name of Christ. For just as there is
 "one Faith," so is there "one Baptism" (Eph. 4:5). But it is related (Acts 8:12) that "in the name of
@@ -2806,7 +2806,7 @@ Reply to Objection 3: Pope Nicolas confirms his words by quoting the two authori
 in the preceding objections: wherefore the answer to this is clear from the two solutions given
 above.
 
-<span class="atom-split" data-atom="053" data-title="Whether immersion in water is necessary for Baptism?" data-chapter="Whether immersion in water is necessary for Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="053" data-title="Whether immersion in water is necessary for Baptism?" data-chapter="Whether immersion in water is necessary for Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that immersion in water is necessary for Baptism. Because it is written
 (Eph. 4:5): "One faith, one baptism." But in many parts of the world the ordinary way of baptizing
@@ -2866,7 +2866,7 @@ Nevertheless in the [Old Law](/concepts/divine_law) the remedy against original 
 procreation; because He through Whom original sin was to be removed, was yet to be born of the
 seed of Abraham, whose faith was signified by circumcision according to Rom. 4:11.
 
-<span class="atom-split" data-atom="054" data-title="Whether trine immersion is essential to Baptism?" data-chapter="Whether trine immersion is essential to Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="054" data-title="Whether trine immersion is essential to Baptism?" data-chapter="Whether trine immersion is essential to Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that trine immersion is essential to Baptism. For [Augustine](/figures/augustine) says in a
 sermon on the Symbol, addressed to the Neophytes: "Rightly were you dipped three times, since
@@ -2944,7 +2944,7 @@ If, however, the intention were to confer one Baptism at each immersion together
 repetition of the words of the form, it would be a sin, in itself, because it would be a repetition of
 Baptism.
 
-<span class="atom-split" data-atom="055" data-title="Whether Baptism may be reiterated?" data-chapter="Whether Baptism may be reiterated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="055" data-title="Whether Baptism may be reiterated?" data-chapter="Whether Baptism may be reiterated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Baptism may be reiterated. For Baptism was instituted, seemingly,
 in order to wash away sins. But sins are reiterated. Therefore much more should Baptism be
@@ -3029,7 +3029,7 @@ to us as the Paschal banquet, according to 1 Cor. 5:7,8: "Christ our pasch is sa
 let us feast." And forasmuch as man is born once, whereas he eats many times, so is Baptism given
 once, but the Eucharist frequently.
 
-<span class="atom-split" data-atom="056" data-title="Whether the Church observes a suitable rite in baptizing?" data-chapter="Whether the Church observes a suitable rite in baptizing?" data-kind="atom"></span>
+<span class="atom-split" data-atom="056" data-title="Whether the Church observes a suitable rite in baptizing?" data-chapter="Whether the Church observes a suitable rite in baptizing?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the Church observes an unsuitable rite in baptizing. For as Chrysostom
 (Chromatius, in Matth. 3:15) says: "The waters of Baptism would never avail to purge the sins of
@@ -3108,7 +3108,7 @@ Reply to Objection 4: Although those things that belong to the solemnity of a sa
 not essential to it, yet are they not superfluous, since they pertain to the sacrament's wellbeing, as
 stated above.
 
-<span class="atom-split" data-atom="057" data-title="Whether three kinds of Baptism are fittingly described---viz. Baptism of Water, of Blood, and of the Spirit?" data-chapter="Whether three kinds of Baptism are fittingly described---viz. Baptism of Water, of Blood, and of the Spirit?" data-kind="atom"></span>
+<span class="atom-split" data-atom="057" data-title="Whether three kinds of Baptism are fittingly described---viz. Baptism of Water, of Blood, and of the Spirit?" data-chapter="Whether three kinds of Baptism are fittingly described---viz. Baptism of Water, of Blood, and of the Spirit?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the three kinds of Baptism are not fittingly described as Baptism of
 Water, of Blood, and of the Spirit, i.e. of the Holy Ghost. Because the Apostle says (Eph. 4:5):
@@ -3160,7 +3160,7 @@ cloud and in the sea." And again he mentions "the various washings which were cu
 the [Old Law](/concepts/divine_law)," which were figures of our Baptism, as to the cleansing from sins: also "the Baptism
 of John," which prepared the way for our Baptism.
 
-<span class="atom-split" data-atom="058" data-title="Whether the Baptism of Blood is the most excellent of these?" data-chapter="Whether the Baptism of Blood is the most excellent of these?" data-kind="atom"></span>
+<span class="atom-split" data-atom="058" data-title="Whether the Baptism of Blood is the most excellent of these?" data-chapter="Whether the Baptism of Blood is the most excellent of these?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the Baptism of Blood is not the most excellent of these three. For
 the Baptism of Water impresses a character; which the Baptism of Blood cannot do. Therefore the
@@ -3208,7 +3208,7 @@ conversely. And from this it is proved to be more perfect.
 Reply to Objection 3: The Baptism owes its pre-eminence not only to Christ's Passion, but
 also to the Holy Ghost, as stated above.
 
-<span class="atom-split" data-atom="059" data-title="OF THE MINISTERS BY WHOM THE SACRAMENT OF BAPTISM IS CONFERRED (EIGHT ARTICLES)" data-chapter="OF THE MINISTERS BY WHOM THE SACRAMENT OF BAPTISM IS CONFERRED (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="059" data-title="OF THE MINISTERS BY WHOM THE SACRAMENT OF BAPTISM IS CONFERRED (EIGHT ARTICLES)" data-chapter="OF THE MINISTERS BY WHOM THE SACRAMENT OF BAPTISM IS CONFERRED (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the ministers by whom the [sacrament](/concepts/sacrament) of Baptism is conferred. And
 concerning this there are eight points of inquiry:
@@ -3221,7 +3221,7 @@ concerning this there are eight points of inquiry:
 (7) Whether it is essential that someone should raise the person baptized from the sacred font?
 (8) Whether he who raises someone from the sacred font is bound to instruct him?
 
-<span class="atom-split" data-atom="060" data-title="Whether it is part of a deacon's duty to baptize?" data-chapter="Whether it is part of a deacon's duty to baptize?" data-kind="atom"></span>
+<span class="atom-split" data-atom="060" data-title="Whether it is part of a deacon's duty to baptize?" data-chapter="Whether it is part of a deacon's duty to baptize?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it is part of a deacon's duty to baptize. Because the duties of preaching
 and of baptizing were enjoined by our Lord at the same time, according to Mat. 28:19: "Going . .
@@ -3266,7 +3266,7 @@ Reply to Objection 3: Because Baptism is a necessary sacrament, deacons are allo
 baptize in cases of urgency when their elders are not at hand; as appears from the authority of
 Gelasius quoted above. And it was thus that Blessed Laurence, being but a deacon, baptized.
 
-<span class="atom-split" data-atom="061" data-title="Whether to baptize is part of the priestly office, or proper to that of bishops?" data-chapter="Whether to baptize is part of the priestly office, or proper to that of bishops?" data-kind="atom"></span>
+<span class="atom-split" data-atom="061" data-title="Whether to baptize is part of the priestly office, or proper to that of bishops?" data-chapter="Whether to baptize is part of the priestly office, or proper to that of bishops?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that to baptize is not part of the priestly office, but proper to that of
 bishops. Because, as stated above (A[1], OBJ[1]), the duties of teaching and baptizing are enjoined
@@ -3324,7 +3324,7 @@ Reply to Objection 3: As stated above (Q[65], A[3]), the sacrament of Baptism ho
 place in the order of necessity; but in the order of perfection there are other greater sacraments
 which are reserved to bishops.
 
-<span class="atom-split" data-atom="062" data-title="Whether a layman can baptize?" data-chapter="Whether a layman can baptize?" data-kind="atom"></span>
+<span class="atom-split" data-atom="062" data-title="Whether a layman can baptize?" data-chapter="Whether a layman can baptize?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a layman cannot baptize. Because, as stated above (A[2]), to baptize
 belongs properly to the priestly order. But those things which belong to an order cannot be entrusted
@@ -3363,7 +3363,7 @@ Baptism; since contrition can supply the defect of the priestly absolution which
 the whole punishment, nor again is it given to children. Therefore the comparison with Baptism
 does not stand, because its effect cannot be supplied by anything else.
 
-<span class="atom-split" data-atom="063" data-title="Whether a woman can baptize?" data-chapter="Whether a woman can baptize?" data-kind="atom"></span>
+<span class="atom-split" data-atom="063" data-title="Whether a woman can baptize?" data-chapter="Whether a woman can baptize?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a woman cannot baptize. For we read in the acts of the Council of
 Carthage (iv): "However learned and holy a woman may be, she must not presume to teach men
@@ -3412,7 +3412,7 @@ need of rebaptism: as we have said in regard to laymen (A[3], ad 1). But the bap
 sin, as also those who took part with her therein, either by receiving Baptism from her, or by bringing
 someone to her to be baptized.
 
-<span class="atom-split" data-atom="064" data-title="Whether one that is not baptized can confer the sacrament of Baptism?" data-chapter="Whether one that is not baptized can confer the sacrament of Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="064" data-title="Whether one that is not baptized can confer the sacrament of Baptism?" data-chapter="Whether one that is not baptized can confer the sacrament of Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that one that is not baptized cannot confer the [sacrament](/concepts/sacrament) of Baptism. For
 "none gives what he has not." But a non-baptized person has not the sacrament of Baptism. Therefore
@@ -3465,7 +3465,7 @@ Reply to Objection 3: The other sacraments are not so necessary as Baptism. And 
 is allowable that an unbaptized person should baptize rather than that he should receive other
 sacraments.
 
-<span class="atom-split" data-atom="065" data-title="Whether several can baptize at the same time?" data-chapter="Whether several can baptize at the same time?" data-kind="atom"></span>
+<span class="atom-split" data-atom="065" data-title="Whether several can baptize at the same time?" data-chapter="Whether several can baptize at the same time?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that several can baptize at the same time. For unity is contained in
 multitude, but not "vice versa." Wherefore it seems that many can do whatever one can but not
@@ -3534,7 +3534,7 @@ baptizes not. Nor could they say: "We baptize thee": since neither baptizes. For
 write one part of a book, and the other write the other, it would not be a proper form of speech to
 say: "We wrote this book," but the figure of synecdoche in which the whole is put for the part.
 
-<span class="atom-split" data-atom="066" data-title="Whether in Baptism it is necessary for someone to raise the baptized from the sacred font?" data-chapter="Whether in Baptism it is necessary for someone to raise the baptized from the sacred font?" data-kind="atom"></span>
+<span class="atom-split" data-atom="066" data-title="Whether in Baptism it is necessary for someone to raise the baptized from the sacred font?" data-chapter="Whether in Baptism it is necessary for someone to raise the baptized from the sacred font?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that in Baptism it is not necessary for someone to raise the baptized from
 the sacred font. For our Baptism is consecrated by Christ's Baptism and is conformed thereto. But
@@ -3583,7 +3583,7 @@ case of necessity one alone can baptize with water.
 Reply to Objection 3: It is not on account of bodily weakness that the baptized is raised from
 the sacred font by the godparent, but on account of spiritual weakness, as stated above.
 
-<span class="atom-split" data-atom="067" data-title="Whether he who raises anyone from the sacred font is bound to instruct him?" data-chapter="Whether he who raises anyone from the sacred font is bound to instruct him?" data-kind="atom"></span>
+<span class="atom-split" data-atom="067" data-title="Whether he who raises anyone from the sacred font is bound to instruct him?" data-chapter="Whether he who raises anyone from the sacred font is bound to instruct him?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that he who raises anyone from the sacred font is not bound to instruct
 him. For none but those who are themselves instructed can give instruction. But even the uneducated
@@ -3632,7 +3632,7 @@ Reply to Objection 3: Education would be full of confusion if there were more th
 instructor. Wherefore there should be one principal sponsor in Baptism: but others can be allowed
 as assistants.
 
-<span class="atom-split" data-atom="068" data-title="OF THOSE WHO RECEIVE BAPTISM (TWELVE ARTICLES)" data-chapter="OF THOSE WHO RECEIVE BAPTISM (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="068" data-title="OF THOSE WHO RECEIVE BAPTISM (TWELVE ARTICLES)" data-chapter="OF THOSE WHO RECEIVE BAPTISM (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider those who receive Baptism; concerning which there are twelve points
 of inquiry:
@@ -3649,7 +3649,7 @@ of inquiry:
 (11) Whether anyone should be baptized in the mother's womb?
 (12) Whether madmen and imbeciles should be baptized?
 
-<span class="atom-split" data-atom="069" data-title="Whether all are bound to receive Baptism?" data-chapter="Whether all are bound to receive Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="069" data-title="Whether all are bound to receive Baptism?" data-chapter="Whether all are bound to receive Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not all are bound to receive Baptism. For Christ did not narrow man's
 road to salvation. But before Christ's coming men could be saved without Baptism: therefore also
@@ -3704,7 +3704,7 @@ cleanses them from original sin, but they do not therefore receive the character
 conformed to Christ. Consequently, if any were to be sanctified in the womb now, they would need
 to be baptized, in order to be conformed to Christ's other members by receiving the character.
 
-<span class="atom-split" data-atom="070" data-title="Whether a man can be saved without Baptism?" data-chapter="Whether a man can be saved without Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="070" data-title="Whether a man can be saved without Baptism?" data-chapter="Whether a man can be saved without Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that no man can be saved without Baptism. For our Lord said (Jn. 3:5):
 "Unless a man be born again of water and the Holy Ghost, he cannot enter the kingdom of God."
@@ -3762,7 +3762,7 @@ Reply to Objection 3: The sacrament of Baptism is said to be necessary for salva
 as man cannot be saved without, at least, Baptism of desire; "which, with God, counts for the deed"
 (Augustine, Enarr. in Ps. 57).
 
-<span class="atom-split" data-atom="071" data-title="Whether Baptism should be deferred?" data-chapter="Whether Baptism should be deferred?" data-kind="atom"></span>
+<span class="atom-split" data-atom="071" data-title="Whether Baptism should be deferred?" data-chapter="Whether Baptism should be deferred?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Baptism should be deferred. For Pope Leo says (Epist. xvi): "Two
 seasons," i.e. Easter and Whitsuntide, "are fixed by the Roman Pontiff for the celebration of Baptism.
@@ -3830,7 +3830,7 @@ according to 1 Jn. 2:1,2: "My little children, these things I write to you, that
 if any man sin, we have an advocate with the Father, Jesus Christ the just; and He is the propitiation
 for our sins."
 
-<span class="atom-split" data-atom="072" data-title="Whether sinners should be baptized?" data-chapter="Whether sinners should be baptized?" data-kind="atom"></span>
+<span class="atom-split" data-atom="072" data-title="Whether sinners should be baptized?" data-chapter="Whether sinners should be baptized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that sinners should be baptized. For it is written (Zech. 13:1): "In that
 day there shall be a fountain open to the House of David, and to the inhabitants of Jerusalem: for
@@ -3887,7 +3887,7 @@ to a man whose will is set on sinning, and hence expels the form of faith. Moreo
 of the baptismal character cannot dispose a man for grace as long as he retains the will to sin; for
 "God compels no man to be virtuous," as Damascene says (De Fide Orth. ii).
 
-<span class="atom-split" data-atom="073" data-title="Whether works of satisfaction should be enjoined on sinners that have been baptized?" data-chapter="Whether works of satisfaction should be enjoined on sinners that have been baptized?" data-kind="atom"></span>
+<span class="atom-split" data-atom="073" data-title="Whether works of satisfaction should be enjoined on sinners that have been baptized?" data-chapter="Whether works of satisfaction should be enjoined on sinners that have been baptized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that works of satisfaction should be enjoined on sinners that have been
 baptized. For God's justice seems to demand that a man should be punished for every sin of his,
@@ -3937,7 +3937,7 @@ to another and of not being reconciled to one's neighbor, is a sin. Wherefore th
 should be enjoined to make satisfaction to their neighbor, as also to desist from sin. But they are
 not to be enjoined to suffer any punishment for past sins.
 
-<span class="atom-split" data-atom="074" data-title="Whether sinners who are going to be baptized are bound to confess their sins?" data-chapter="Whether sinners who are going to be baptized are bound to confess their sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="074" data-title="Whether sinners who are going to be baptized are bound to confess their sins?" data-chapter="Whether sinners who are going to be baptized are bound to confess their sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that sinners who are going to be baptized are bound to confess their sins.
 For it is written (Mat. 3:6) that many "were baptized" by John "in the Jordan confessing their sins."
@@ -3993,7 +3993,7 @@ outward confession, as stated above.
 Reply to Objection 3: Confession is a part of sacramental Penance, which is not required before
 Baptism, as stated above: but the inward virtue of Penance is required.
 
-<span class="atom-split" data-atom="075" data-title="Whether the intention of receiving the sacrament of Baptism is required on the part of the one baptized?" data-chapter="Whether the intention of receiving the sacrament of Baptism is required on the part of the one baptized?" data-kind="atom"></span>
+<span class="atom-split" data-atom="075" data-title="Whether the intention of receiving the sacrament of Baptism is required on the part of the one baptized?" data-chapter="Whether the intention of receiving the sacrament of Baptism is required on the part of the one baptized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the intention of receiving the [sacrament](/concepts/sacrament) of Baptism is not required
 on the part of the one baptized. For the one baptized is, as it were, "patient" in the sacrament. But
@@ -4033,7 +4033,7 @@ I baptize thee."
 Reply to Objection 3: Baptism is a remedy not only against original, but also against actual
 sins, which are caused by our will and intention.
 
-<span class="atom-split" data-atom="076" data-title="Whether faith is required on the part of the one baptized?" data-chapter="Whether faith is required on the part of the one baptized?" data-kind="atom"></span>
+<span class="atom-split" data-atom="076" data-title="Whether faith is required on the part of the one baptized?" data-chapter="Whether faith is required on the part of the one baptized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that faith is required on the part of the one baptized. For the [sacrament](/concepts/sacrament)
 of Baptism was instituted by Christ. But Christ, in giving the form of Baptism, makes faith to
@@ -4097,7 +4097,7 @@ is unwilling to give up his other sins, so neither should it be given to one who
 renounce his unbelief. Yet each receives the sacrament if it be conferred on him, though not unto
 salvation.
 
-<span class="atom-split" data-atom="077" data-title="Whether children should be baptized?" data-chapter="Whether children should be baptized?" data-kind="atom"></span>
+<span class="atom-split" data-atom="077" data-title="Whether children should be baptized?" data-chapter="Whether children should be baptized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that children should not be baptized. For the intention to receive the
 [sacrament](/concepts/sacrament) is required in one who is being baptized, as stated above (A[7]). But children cannot
@@ -4169,7 +4169,7 @@ Church's faith in the child's stead, who is aggregated to this faith by the sacr
 the child acquires a good conscience in himself, not indeed as to the act, but as to the [habit](/concepts/custom), by
 sanctifying grace.
 
-<span class="atom-split" data-atom="078" data-title="Whether children of Jews or other unbelievers be baptized against the will of their parents?" data-chapter="Whether children of Jews or other unbelievers be baptized against the will of their parents?" data-kind="atom"></span>
+<span class="atom-split" data-atom="078" data-title="Whether children of Jews or other unbelievers be baptized against the will of their parents?" data-chapter="Whether children of Jews or other unbelievers be baptized against the will of their parents?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that children of Jews or other unbelievers should be baptized against the
 will of their parents. For it is a matter of greater urgency to rescue a man from the danger of eternal
@@ -4219,7 +4219,7 @@ God. Wherefore a child, before it has the use of reason, is ordained to God, by 
 through the reason of its parents, under whose care it naturally lies, and it is according to their
 ordering that things pertaining to God are to be done in respect of the child.
 
-<span class="atom-split" data-atom="079" data-title="Whether a child can be baptized while yet in its mother's womb?" data-chapter="Whether a child can be baptized while yet in its mother's womb?" data-kind="atom"></span>
+<span class="atom-split" data-atom="079" data-title="Whether a child can be baptized while yet in its mother's womb?" data-chapter="Whether a child can be baptized while yet in its mother's womb?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a child can be baptized while yet in its mother's womb. For the gift
 of Christ is more efficacious unto salvation than Adam's sin unto condemnation, as the Apostle
@@ -4285,7 +4285,7 @@ same degree as the head, some hold that since the matter is doubtful, whenever a
 the body has been baptized, the child, when perfect birth has taken place, should be baptized with
 the form: "If thou art not baptized, I baptize thee," etc.
 
-<span class="atom-split" data-atom="080" data-title="Whether madmen and imbeciles should be baptized?" data-chapter="Whether madmen and imbeciles should be baptized?" data-kind="atom"></span>
+<span class="atom-split" data-atom="080" data-title="Whether madmen and imbeciles should be baptized?" data-chapter="Whether madmen and imbeciles should be baptized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that madmen and imbeciles should not be baptized. For in order to receive
 Baptism, the person baptized must have the intention, as stated above (A[7]). But since madmen
@@ -4341,7 +4341,7 @@ desire to receive Baptism, as we have stated in reference to imbeciles: thus Aug
 his friend that "he was baptized while unconscious," because he was in danger of death (Confess.
 iv).
 
-<span class="atom-split" data-atom="081" data-title="OF THE EFFECTS OF BAPTISM (TEN ARTICLES)" data-chapter="OF THE EFFECTS OF BAPTISM (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="081" data-title="OF THE EFFECTS OF BAPTISM (TEN ARTICLES)" data-chapter="OF THE EFFECTS OF BAPTISM (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of Baptism, concerning which there are ten points of inquiry:
 (1) Whether all sins are taken away by Baptism?
@@ -4355,7 +4355,7 @@ We must now consider the effects of Baptism, concerning which there are ten poin
 (9) Whether insincerity hinders the effect of Baptism?
 (10) Whether Baptism takes effect when the insincerity ceases?
 
-<span class="atom-split" data-atom="082" data-title="Whether all sins are taken away by Baptism?" data-chapter="Whether all sins are taken away by Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="082" data-title="Whether all sins are taken away by Baptism?" data-chapter="Whether all sins are taken away by Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not all sins are taken away by Baptism. For Baptism is a spiritual
 regeneration, which corresponds to carnal generation. But by carnal generation man contracts none
@@ -4398,7 +4398,7 @@ Reply to Objection 3: This argument is true of special remedies. But Baptism ope
 power of Christ's Passion, which is the universal remedy for all sins; and so by Baptism all sins are
 loosed.
 
-<span class="atom-split" data-atom="083" data-title="Whether man is freed by Baptism from all debt of punishment due to sin?" data-chapter="Whether man is freed by Baptism from all debt of punishment due to sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="083" data-title="Whether man is freed by Baptism from all debt of punishment due to sin?" data-chapter="Whether man is freed by Baptism from all debt of punishment due to sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that man is not freed by Baptism from all debt of punishment due to sin.
 For the Apostle says (Rom. 13:1): "Those things that are of God are well ordered [Vulg.: 'Those
@@ -4444,7 +4444,7 @@ Baptism from his debt of punishment in respect of God, he remains, nevertheless,
 and it is right that they should be edified at his punishment, since they were scandalized at his sin.
 But the sovereign may remit the penalty to such like out of kindness.
 
-<span class="atom-split" data-atom="084" data-title="Whether Baptism should take away the penalties of sin that belong to this life?" data-chapter="Whether Baptism should take away the penalties of sin that belong to this life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="084" data-title="Whether Baptism should take away the penalties of sin that belong to this life?" data-chapter="Whether Baptism should take away the penalties of sin that belong to this life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Baptism should take away the penalties of sin that belong to this
 life. For as the Apostle says (Rom. 5:15), the gift of Christ is farther-reaching than the sin of Adam.
@@ -4513,7 +4513,7 @@ pertain to the nature, from the principles of which they arise, inasmuch as it i
 justice. Therefore these defects will not be taken away until the ultimate restoration of nature through
 the glorious resurrection.
 
-<span class="atom-split" data-atom="085" data-title="Whether grace and virtues are bestowed on man by Baptism?" data-chapter="Whether grace and virtues are bestowed on man by Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="085" data-title="Whether grace and virtues are bestowed on man by Baptism?" data-chapter="Whether grace and virtues are bestowed on man by Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that grace and virtues are not bestowed on man by Baptism. Because,
 as stated above (Q[62], A[1], ad 1), the sacraments of the [New Law](/concepts/divine_law) "effect what they signify." But
@@ -4561,7 +4561,7 @@ through their lacking the habits of the virtues, but through concupiscence which
 in Baptism. But just as concupiscence is diminished by Baptism, so as not to enslave us, so also
 are both the aforesaid defects diminished, so that man be not overcome by them.
 
-<span class="atom-split" data-atom="086" data-title="Whether certain acts of the virtues are fittingly set down as effects of Baptism, to wit---incorporation in Christ, enlightenment, and fruitfulness?" data-chapter="Whether certain acts of the virtues are fittingly set down as effects of Baptism, to wit---incorporation in Christ, enlightenment, and fruitfulness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="086" data-title="Whether certain acts of the virtues are fittingly set down as effects of Baptism, to wit---incorporation in Christ, enlightenment, and fruitfulness?" data-chapter="Whether certain acts of the virtues are fittingly set down as effects of Baptism, to wit---incorporation in Christ, enlightenment, and fruitfulness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that certain acts of the virtues are unfittingly set down as effects of
 Baptism, to wit---"incorporation in Christ, [enlightenment](/schools/enlightenment), and fruitfulness." For Baptism is not
@@ -4608,7 +4608,7 @@ Reply to Objection 3: The fruitfulness which i ascribed as an effect of Baptism 
 man brings forth good works; not that by which he begets others in Christ, as the Apostle says (1
 Cor. 4:15): "In Christ Jesus by the Gospel I have begotten you."
 
-<span class="atom-split" data-atom="087" data-title="Whether children receive grace and virtue in Baptism?" data-chapter="Whether children receive grace and virtue in Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="087" data-title="Whether children receive grace and virtue in Baptism?" data-chapter="Whether children receive grace and virtue in Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that children do not receive grace and virtues in Baptism. For grace and
 virtues are not possessed without faith and charity. But faith, as [Augustine](/figures/augustine) says (Ep. xcviii), "depends
@@ -4676,7 +4676,7 @@ not in the hope that they may be born again to eternal life by the spiritual gra
 think it to be a remedy whereby they may preserve or recover health. For they are not deprived of
 regeneration, through not being brought for this intention."
 
-<span class="atom-split" data-atom="088" data-title="Whether the effect of Baptism is to open the gates of the heavenly kingdom?" data-chapter="Whether the effect of Baptism is to open the gates of the heavenly kingdom?" data-kind="atom"></span>
+<span class="atom-split" data-atom="088" data-title="Whether the effect of Baptism is to open the gates of the heavenly kingdom?" data-chapter="Whether the effect of Baptism is to open the gates of the heavenly kingdom?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it is not the effect of Baptism, to open the gates of the heavenly
 kingdom. For what is already opened needs no opening. But the gates of the heavenly kingdom
@@ -4718,7 +4718,7 @@ not by reason of a personal debt of punishment but by reason of [the state](/con
 therefore this is no bar to their entrance to the heavenly kingdom, when death severs the soul from
 the body; since they have paid, as it were, the debt of nature.
 
-<span class="atom-split" data-atom="089" data-title="Whether Baptism has an equal effect in all?" data-chapter="Whether Baptism has an equal effect in all?" data-kind="atom"></span>
+<span class="atom-split" data-atom="089" data-title="Whether Baptism has an equal effect in all?" data-chapter="Whether Baptism has an equal effect in all?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Baptism has not an equal effect in all. For the effect of Baptism is
 to remove guilt. But in some it takes away more sins than in others; for in children it takes away
@@ -4776,7 +4776,7 @@ not on men.
 Reply to Objection 4: Bodily health is not the essential effect of Baptism, but a miraculous
 work of Divine providence.
 
-<span class="atom-split" data-atom="090" data-title="Whether insincerity hinders the effect of Baptism?" data-chapter="Whether insincerity hinders the effect of Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="090" data-title="Whether insincerity hinders the effect of Baptism?" data-chapter="Whether insincerity hinders the effect of Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that insincerity does not hinder the effect of Baptism. For the Apostle
 says (Gal. 3:27): "As many of you as have been baptized in Christ Jesus, have put on Christ." But
@@ -4824,7 +4824,7 @@ insincerely, which is the same as to approach without devotion. But this must be
 mortal sin, which is in opposition to grace: but not of venial sin. Consequently, here insincerity
 includes, in a way, every sin.
 
-<span class="atom-split" data-atom="091" data-title="Whether Baptism produces its effect when the insincerity ceases?" data-chapter="Whether Baptism produces its effect when the insincerity ceases?" data-kind="atom"></span>
+<span class="atom-split" data-atom="091" data-title="Whether Baptism produces its effect when the insincerity ceases?" data-chapter="Whether Baptism produces its effect when the insincerity ceases?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Baptism does not produce its effect, when the insincerity ceases.
 For a dead work, which is void of charity, can never come to life. But he who approaches Baptism
@@ -4872,7 +4872,7 @@ sins. And consequently, when the insincerity passes away, subsequent sins are in
 by Penance, not by Baptism. Wherefore they are not remitted, like the sins which preceded Baptism,
 as to the whole debt of punishment.
 
-<span class="atom-split" data-atom="092" data-title="OF CIRCUMCISION (FOUR ARTICLES)" data-chapter="OF CIRCUMCISION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="092" data-title="OF CIRCUMCISION (FOUR ARTICLES)" data-chapter="OF CIRCUMCISION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider things that are preparatory to Baptism: and (1) that which preceded
 Baptism, viz. Circumcision, (2) those which accompany Baptism, viz. Catechism and Exorcism.
@@ -4882,7 +4882,7 @@ Concerning the first there are four points of inquiry:
 (3) Its rite;
 (4) Its effect.
 
-<span class="atom-split" data-atom="093" data-title="Whether circumcision was a preparation for, and a figure of Baptism?" data-chapter="Whether circumcision was a preparation for, and a figure of Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="093" data-title="Whether circumcision was a preparation for, and a figure of Baptism?" data-chapter="Whether circumcision was a preparation for, and a figure of Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that circumcision was not a preparation for, and a figure of Baptism. For
 every figure has some likeness to that which it foreshadows. But circumcision has no likeness to
@@ -4925,7 +4925,7 @@ than circumcision.
 Reply to Objection 3: John's baptism was a preparation for Christ's as to the act done: but
 circumcision, as to the profession of faith, which is required in Baptism, as stated above.
 
-<span class="atom-split" data-atom="094" data-title="Whether circumcision was instituted in a fitting manner?" data-chapter="Whether circumcision was instituted in a fitting manner?" data-kind="atom"></span>
+<span class="atom-split" data-atom="094" data-title="Whether circumcision was instituted in a fitting manner?" data-chapter="Whether circumcision was instituted in a fitting manner?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that circumcision was instituted in an unfitting manner. For as stated
 above (A[1]) a profession of faith was made in circumcision. But none could ever be delivered
@@ -4993,7 +4993,7 @@ specially ordained, is contracted from the father, not from the mother, as was s
 Q[81], A[5]. But Baptism contains the power of Christ, Who is the universal cause of salvation for
 all, and is "The Remission of all sins" (Post-Communion, Tuesday in Whitweek).
 
-<span class="atom-split" data-atom="095" data-title="Whether the rite of circumcision was fitting?" data-chapter="Whether the rite of circumcision was fitting?" data-kind="atom"></span>
+<span class="atom-split" data-atom="095" data-title="Whether the rite of circumcision was fitting?" data-chapter="Whether the rite of circumcision was fitting?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the rite of circumcision was unfitting. For circumcision, as stated
 above (AA[1],2), was a profession of faith. But faith is in the apprehensive power, whose operations
@@ -5053,7 +5053,7 @@ anticipated for any motive, however urgent. Hence on Prov. 4:3: "I was . . . an 
 of my mother," a gloss says, that Bersabee's other baby boy did not count because through dying
 before the eighth day it received no name; and consequently neither was it circumcised.
 
-<span class="atom-split" data-atom="096" data-title="Whether circumcision bestowed sanctifying grace?" data-chapter="Whether circumcision bestowed sanctifying grace?" data-kind="atom"></span>
+<span class="atom-split" data-atom="096" data-title="Whether circumcision bestowed sanctifying grace?" data-chapter="Whether circumcision bestowed sanctifying grace?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that circumcision did not bestow sanctifying grace. For the Apostle says
 (Gal. 2:21): "If justice be by the Law, then Christ died in vain," i.e. without cause. But circumcision
@@ -5152,7 +5152,7 @@ Reply to Objection 5: When adults were circumcised, they received remission not 
 original, but also of actual sin: yet not so as to be delivered from all debt of punishment, as in
 Baptism, in which grace is conferred more copiously.
 
-<span class="atom-split" data-atom="097" data-title="OF THE PREPARATIONS THAT ACCOMPANY BAPTISM (FOUR ARTICLES)" data-chapter="OF THE PREPARATIONS THAT ACCOMPANY BAPTISM (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="097" data-title="OF THE PREPARATIONS THAT ACCOMPANY BAPTISM (FOUR ARTICLES)" data-chapter="OF THE PREPARATIONS THAT ACCOMPANY BAPTISM (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the preparations that accompany Baptism: concerning which there
 are four points of inquiry:
@@ -5161,7 +5161,7 @@ are four points of inquiry:
 (3) Whether what is done in catechizing and exorcizing, effects anything, or is a mere sign?
 (4) Whether those who are to be baptized should be catechized or exorcized by priests?
 
-<span class="atom-split" data-atom="098" data-title="Whether catechism should precede Baptism?" data-chapter="Whether catechism should precede Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="098" data-title="Whether catechism should precede Baptism?" data-chapter="Whether catechism should precede Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that catechism should not precede Baptism. For by Baptism men are
 regenerated unto the spiritual life. But man begins to live before being taught. Therefore man should
@@ -5202,7 +5202,7 @@ unfitting in a person being bound by another in things necessary for salvation. 
 sponsor, in answering for the child, promises to use his endeavors that the child may believe. This,
 however, would not be sufficient in the case of adults having the use of reason.
 
-<span class="atom-split" data-atom="099" data-title="Whether exorcism should precede Baptism?" data-chapter="Whether exorcism should precede Baptism?" data-kind="atom"></span>
+<span class="atom-split" data-atom="099" data-title="Whether exorcism should precede Baptism?" data-chapter="Whether exorcism should precede Baptism?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that exorcism should not precede Baptism. For exorcism is ordained
 against energumens or those who are possessed. But not all are such like. Therefore exorcism should
@@ -5247,7 +5247,7 @@ Or we may say that just as Penance is given as a further remedy against sin, bec
 is not repeated; so Holy Water is given as a further remedy against the assaults of demons, because
 the baptismal exorcisms are not given a second time.
 
-<span class="atom-split" data-atom="100" data-title="Whether what is done in the exorcism effects anything, or is a mere sign?" data-chapter="Whether what is done in the exorcism effects anything, or is a mere sign?" data-kind="atom"></span>
+<span class="atom-split" data-atom="100" data-title="Whether what is done in the exorcism effects anything, or is a mere sign?" data-chapter="Whether what is done in the exorcism effects anything, or is a mere sign?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that what is done in the exorcism does not effect anything, but is a mere
 sign. For if a child die after the exorcisms, before being baptized, it is not saved. But the effects of
@@ -5321,7 +5321,7 @@ anointing on the top of the head, the effect of which is the preservation of bap
 there is something which has no effect, but is a mere sign, for instance, the baptized are given a
 white garment to signify the newness of life.
 
-<span class="atom-split" data-atom="101" data-title="Whether it belongs to a priest to catechize and exorcize the person to be baptized?" data-chapter="Whether it belongs to a priest to catechize and exorcize the person to be baptized?" data-kind="atom"></span>
+<span class="atom-split" data-atom="101" data-title="Whether it belongs to a priest to catechize and exorcize the person to be baptized?" data-chapter="Whether it belongs to a priest to catechize and exorcize the person to be baptized?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it does not belong to a priest to catechize and exorcize the person
 to be baptized. For it belongs to the office of ministers to operate on the unclean, as Dionysius says
@@ -5373,7 +5373,7 @@ is the instruction in the profound mysteries of faith, and on the perfection of 
 belongs to bishops "ex officio," in virtue of their office.
 CONFIRMATION (Q[72])
 
-<span class="atom-split" data-atom="102" data-title="OF THE SACRAMENT OF CONFIRMATION (TWELVE ARTICLES)" data-chapter="OF THE SACRAMENT OF CONFIRMATION (TWELVE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="102" data-title="OF THE SACRAMENT OF CONFIRMATION (TWELVE ARTICLES)" data-chapter="OF THE SACRAMENT OF CONFIRMATION (TWELVE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the [Sacrament](/concepts/sacrament) of Confirmation. Concerning this there are twelve
 points of inquiry:
@@ -5391,7 +5391,7 @@ consecrated by a bishop?
 (11) Whether this sacrament is given by bishops only?
 (12) Of its rite.
 
-<span class="atom-split" data-atom="103" data-title="Whether confirmation is a sacrament?" data-chapter="Whether confirmation is a sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="103" data-title="Whether confirmation is a sacrament?" data-chapter="Whether confirmation is a sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Confirmation is not a [sacrament](/concepts/sacrament). For sacraments derive their efficacy
 from the Divine institution, as stated above (Q[64] , A[2]). But we read nowhere of Confirmation
@@ -5457,7 +5457,7 @@ Ghost descended in a bodily shape . . . upon Him" (Lk. 3:22). Hence (Lk. 4:1) it
 "Jesus being full of the Holy Ghost, returned from the Jordan." Nor was it fitting to Christ's dignity,
 that He, Who is the Author of the sacraments, should receive the fulness of grace from a sacrament.
 
-<span class="atom-split" data-atom="104" data-title="Whether chrism is a fitting matter for this sacrament?" data-chapter="Whether chrism is a fitting matter for this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="104" data-title="Whether chrism is a fitting matter for this sacrament?" data-chapter="Whether chrism is a fitting matter for this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that chrism is not a fitting matter for this [sacrament](/concepts/sacrament). For this sacrament,
 as stated above (A[1], ad 1), was instituted by Christ when He promised His disciples the Holy
@@ -5536,7 +5536,7 @@ Reply to Objection 4: Baptism is the sacrament of absolute necessity; and so its
 be at hand everywhere. But it is enough that the matter of this sacrament, which is not of such great
 necessity, be easily sent to all parts of the world.
 
-<span class="atom-split" data-atom="105" data-title="Whether it is essential to this sacrament that the chrism which is its matter be previously consecrated by a bishop?" data-chapter="Whether it is essential to this sacrament that the chrism which is its matter be previously consecrated by a bishop?" data-kind="atom"></span>
+<span class="atom-split" data-atom="105" data-title="Whether it is essential to this sacrament that the chrism which is its matter be previously consecrated by a bishop?" data-chapter="Whether it is essential to this sacrament that the chrism which is its matter be previously consecrated by a bishop?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it is not essential to this [sacrament](/concepts/sacrament), that the chrism, which is its
 matter, be previously consecrated by a bishop. For Baptism which bestows full remission of sins
@@ -5585,7 +5585,7 @@ Reply to Objection 3: Corporeal matter is receptive of grace, not so as to be th
 grace, but only as the instrument of grace, as explained above (Q[62], A[3]). And this sacramental
 matter is consecrated, either by Christ, or by a bishop, who, in the Church, impersonates Christ.
 
-<span class="atom-split" data-atom="106" data-title="Whether the proper form of this sacrament is: \&quot;I sign thee with the sign of the cross,\&quot; etc.?" data-chapter="Whether the proper form of this sacrament is: \&quot;I sign thee with the sign of the cross,\&quot; etc.?" data-kind="atom"></span>
+<span class="atom-split" data-atom="106" data-title="Whether the proper form of this sacrament is: \&quot;I sign thee with the sign of the cross,\&quot; etc.?" data-chapter="Whether the proper form of this sacrament is: \&quot;I sign thee with the sign of the cross,\&quot; etc.?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the proper form of this sacrament is: "I sign thee with the sign of the cross," etc.?
 
@@ -5655,7 +5655,7 @@ Baptismal form, because it is included in the first person of the verb. It is, h
 order to express the intention. But this does not seem so necessary in Confirmation, which is
 conferred only by a minister of excellence, as we shall state later on (A[11]).
 
-<span class="atom-split" data-atom="107" data-title="Whether the sacrament of Confirmation imprints a character?" data-chapter="Whether the sacrament of Confirmation imprints a character?" data-kind="atom"></span>
+<span class="atom-split" data-atom="107" data-title="Whether the sacrament of Confirmation imprints a character?" data-chapter="Whether the sacrament of Confirmation imprints a character?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the [sacrament](/concepts/sacrament) of Confirmation does not imprint a character. For a
 character means a distinctive sign. But a man is not distinguished from unbelievers by the sacrament
@@ -5711,7 +5711,7 @@ Reply to Objection 3: The sacraments of the [Old Law](/concepts/divine_law) are 
 was imprinted in the body only, but not in the soul. But in Confirmation, since it is a sacrament of
 the New Law, a spiritual character is imprinted at the same time, together with the bodily character.
 
-<span class="atom-split" data-atom="108" data-title="Whether the character of Confirmation presupposes of necessity, the baptismal character?" data-chapter="Whether the character of Confirmation presupposes of necessity, the baptismal character?" data-kind="atom"></span>
+<span class="atom-split" data-atom="108" data-title="Whether the character of Confirmation presupposes of necessity, the baptismal character?" data-chapter="Whether the character of Confirmation presupposes of necessity, the baptismal character?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the character of Confirmation does not presuppose, of necessity, the
 baptismal character. For the [sacrament](/concepts/sacrament) of Confirmation is ordained to the public confession of the
@@ -5760,7 +5760,7 @@ cannot. For just as the effect of Confirmation, which is spiritual strength, pre
 Baptism, which is justification, so the sacrament of Confirmation presupposes the sacrament of
 Baptism.
 
-<span class="atom-split" data-atom="109" data-title="Whether sanctifying grace is bestowed in this sacrament?" data-chapter="Whether sanctifying grace is bestowed in this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="109" data-title="Whether sanctifying grace is bestowed in this sacrament?" data-chapter="Whether sanctifying grace is bestowed in this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that sanctifying grace is not bestowed in this [sacrament](/concepts/sacrament). For sanctifying
 grace is ordained against sin. But this sacrament, as stated above (A[6]) is given only to the baptized,
@@ -5810,7 +5810,7 @@ sacrament, it does not differ from that bestowed in Baptism, but increases what 
 On the other hand, if we consider it as to that which is added over and above, then one differs in
 species from the other.
 
-<span class="atom-split" data-atom="110" data-title="Whether this sacrament should be given to all?" data-chapter="Whether this sacrament should be given to all?" data-kind="atom"></span>
+<span class="atom-split" data-atom="110" data-title="Whether this sacrament should be given to all?" data-chapter="Whether this sacrament should be given to all?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this [sacrament](/concepts/sacrament) should not be given to all. For this sacrament is given
 in order to confer a certain excellence, as stated above (A[11], ad 2). But all are not suited for that
@@ -5875,7 +5875,7 @@ Confirmation obtain greater glory, just as here below they receive more grace. T
 is to be taken in the sense that, with regard to the dangers of the present combat, those who are on
 the point of death do not need this sacrament.
 
-<span class="atom-split" data-atom="111" data-title="Whether this sacrament should be given to man on the forehead?" data-chapter="Whether this sacrament should be given to man on the forehead?" data-kind="atom"></span>
+<span class="atom-split" data-atom="111" data-title="Whether this sacrament should be given to man on the forehead?" data-chapter="Whether this sacrament should be given to man on the forehead?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this [sacrament](/concepts/sacrament) should not be given to man on the forehead. For this
 sacrament perfects Baptism, as stated above (Q[65], AA[3],4). But the sacrament of Baptism is
@@ -5924,7 +5924,7 @@ Reply to Objection 3: This sacrament is given that we may confess freely: but no
 confess simply, for this is also the effect of Baptism. And therefore it should not be given on the
 mouth, but on the forehead, where appear the signs of those passions which hinder free confession.
 
-<span class="atom-split" data-atom="112" data-title="Whether he who is confirmed needs one to stand* for him? [*Literally, \&quot;to hold him\&quot;]" data-chapter="Whether he who is confirmed needs one to stand* for him? [*Literally, \&quot;to hold him\&quot;]" data-kind="atom"></span>
+<span class="atom-split" data-atom="112" data-title="Whether he who is confirmed needs one to stand* for him? [*Literally, \&quot;to hold him\&quot;]" data-chapter="Whether he who is confirmed needs one to stand* for him? [*Literally, \&quot;to hold him\&quot;]" data-kind="atom" data-srclang="en"></span>
 
 # Whether he who is confirmed needs one to stand* for him? [*Literally, "to hold him"]
 
@@ -5970,7 +5970,7 @@ Reply to Objection 3: According to Col. 3 *(Gal. 3:28), "in Christ Jesus there i
 nor female." Consequently it matters not whether a man or a woman stand for one who is to be
 confirmed.
 
-<span class="atom-split" data-atom="113" data-title="Whether only a bishop can confer this sacrament?" data-chapter="Whether only a bishop can confer this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="113" data-title="Whether only a bishop can confer this sacrament?" data-chapter="Whether only a bishop can confer this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that not only a bishop can confer this [sacrament](/concepts/sacrament). For Gregory (Regist.
 iv), writing to Bishop Januarius, says: "We hear that some were scandalized because we forbade
@@ -6035,7 +6035,7 @@ on man with all fulness of sanctity, knowledge and virtue." Hence this unction i
 not on account of its being applied to a more worthy part of the body, but by reason of its having
 a more powerful effect.
 
-<span class="atom-split" data-atom="114" data-title="Whether the rite of this sacrament is appropriate?" data-chapter="Whether the rite of this sacrament is appropriate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="114" data-title="Whether the rite of this sacrament is appropriate?" data-chapter="Whether the rite of this sacrament is appropriate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the rite of this [sacrament](/concepts/sacrament) is not appropriate. For the sacrament of
 Baptism is of greater necessity than this, as stated above (A[2], ad 4; Q[65], AA[3],4). But certain
@@ -6085,7 +6085,7 @@ sufficiently appropriate to the blessing of sacramental matter, since thereon wa
 instituted, to which, in a certain way, all the other sacraments are ordained, as stated above (Q[65],
 A[3]).
 
-<span class="atom-split" data-atom="115" data-title="OF THE SACRAMENT OF THE EUCHARIST (SIX ARTICLES)" data-chapter="OF THE SACRAMENT OF THE EUCHARIST (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="115" data-title="OF THE SACRAMENT OF THE EUCHARIST (SIX ARTICLES)" data-chapter="OF THE SACRAMENT OF THE EUCHARIST (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the [sacrament](/concepts/sacrament) of the Eucharist; and first of all we treat of the sacrament
 itself; secondly, of its matter; thirdly, of its form; fourthly, of its effects; fifthly, of the recipients
@@ -6098,7 +6098,7 @@ Under the first heading there are six points of inquiry:
 (5) Its institution;
 (6) Its figures.
 
-<span class="atom-split" data-atom="116" data-title="Whether the Eucharist is a sacrament?" data-chapter="Whether the Eucharist is a sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="116" data-title="Whether the Eucharist is a sacrament?" data-chapter="Whether the Eucharist is a sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the Eucharist is not a [sacrament](/concepts/sacrament). For two sacraments ought not to
 be ordained for the same end, because every sacrament is efficacious in producing its effect.
@@ -6157,7 +6157,7 @@ whereas in Baptism both are in the recipient, namely, the character, which is bo
 sacrament, and the grace of pardon of sins, which is reality only. And the same holds good of the
 other sacraments.
 
-<span class="atom-split" data-atom="117" data-title="Whether the Eucharist is one sacrament or several?" data-chapter="Whether the Eucharist is one sacrament or several?" data-kind="atom"></span>
+<span class="atom-split" data-atom="117" data-title="Whether the Eucharist is one sacrament or several?" data-chapter="Whether the Eucharist is one sacrament or several?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the Eucharist is not one [sacrament](/concepts/sacrament) but several, because it is said in
 the Collect [*Postcommunion "pro vivis et defunctis"]: "May the sacraments which we have received
@@ -6200,7 +6200,7 @@ perfectively one, inasmuch as one refreshment is prepared therefrom.
 Reply to Objection 3: From the double consecration of the matter no more can be gathered
 than that the sacrament is several materially, as stated above.
 
-<span class="atom-split" data-atom="118" data-title="Whether the Eucharist is necessary for salvation?" data-chapter="Whether the Eucharist is necessary for salvation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="118" data-title="Whether the Eucharist is necessary for salvation?" data-chapter="Whether the Eucharist is necessary for salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this [sacrament](/concepts/sacrament) is necessary for salvation. For our Lord said (Jn.
 6:54): "Except you eat the flesh of the Son of Man, and drink His blood, you shall not have life in
@@ -6264,7 +6264,7 @@ Passion according as a man is made perfect in union with Christ Who suffered. He
 is called the sacrament of Faith, which is the foundation of the spiritual life, so the Eucharist is
 termed the sacrament of Charity, which is "the bond of perfection" (Col. 3:14).
 
-<span class="atom-split" data-atom="119" data-title="Whether this sacrament is suitably called by various names?" data-chapter="Whether this sacrament is suitably called by various names?" data-kind="atom"></span>
+<span class="atom-split" data-atom="119" data-title="Whether this sacrament is suitably called by various names?" data-chapter="Whether this sacrament is suitably called by various names?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this [sacrament](/concepts/sacrament) is not suitably called by various [names](/positions/nominalism). For names
 should correspond with things. But this sacrament is one, as stated above (A[2]). Therefore, it ought
@@ -6310,7 +6310,7 @@ Reply to Objection 3: This sacrament is called a "Sacrifice" inasmuch as it repr
 Passion of Christ; but it is termed a "Host" inasmuch as it contains Christ, Who is "a host (Douay:
 'sacrifice') . . . of sweetness" (Eph. 5:2).
 
-<span class="atom-split" data-atom="120" data-title="Whether the institution of this sacrament was appropriate?" data-chapter="Whether the institution of this sacrament was appropriate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="120" data-title="Whether the institution of this sacrament was appropriate?" data-chapter="Whether the institution of this sacrament was appropriate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the institution of this [sacrament](/concepts/sacrament) was not appropriate, because as the
 Philosopher says (De Gener. ii): "We are nourished by the things from whence we spring." But by
@@ -6380,7 +6380,7 @@ the Eucharist, although after Baptism in the receiving, is yet previous to it in
 it behooved to be instituted first. or else it can be said that Baptism was already instituted in Christ's
 Baptism; hence some were already baptized with Christ's Baptism, as we read in Jn. 3:22.
 
-<span class="atom-split" data-atom="121" data-title="Whether the Paschal Lamb was the chief figure of this sacrament?" data-chapter="Whether the Paschal Lamb was the chief figure of this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="121" data-title="Whether the Paschal Lamb was the chief figure of this sacrament?" data-chapter="Whether the Paschal Lamb was the chief figure of this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the Paschal Lamb was not the chief figure of this [sacrament](/concepts/sacrament), because
 (Ps. 109:4) Christ is called "a priest according to the order of Melchisedech," since Melchisedech
@@ -6422,7 +6422,7 @@ and in this respect the Paschal Lamb is the chief figure of this sacrament, beca
 in every respect.
 From this the answer to the Objections is manifest.
 
-<span class="atom-split" data-atom="122" data-title="OF THE MATTER OF THIS SACRAMENT (EIGHT ARTICLES)" data-chapter="OF THE MATTER OF THIS SACRAMENT (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="122" data-title="OF THE MATTER OF THIS SACRAMENT (EIGHT ARTICLES)" data-chapter="OF THE MATTER OF THIS SACRAMENT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the matter of this [sacrament](/concepts/sacrament): and first of all as to its species; secondly,
 the change of the bread and wine into the body of Christ; thirdly, the manner in which Christ's body
@@ -6437,7 +6437,7 @@ Under the first heading there are eight points for inquiry:
 (7) Whether water is of necessity for this sacrament?
 (8) Of the quantity of the water added.
 
-<span class="atom-split" data-atom="123" data-title="Whether the matter of this sacrament is bread and wine?" data-chapter="Whether the matter of this sacrament is bread and wine?" data-kind="atom"></span>
+<span class="atom-split" data-atom="123" data-title="Whether the matter of this sacrament is bread and wine?" data-chapter="Whether the matter of this sacrament is bread and wine?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the matter of this [sacrament](/concepts/sacrament) is not bread and wine. Because this
 sacrament ought to represent Christ's Passion more fully than did the sacraments of the [Old Law](/concepts/divine_law).
@@ -6492,7 +6492,7 @@ Reply to Objection 3: Wine taken in small quantity cannot do the sick much harm:
 be fear of harm, it is not necessary for all who take Christ's body to partake also of His blood, as
 will be stated later (Q[80], A[12]).
 
-<span class="atom-split" data-atom="124" data-title="Whether a determinate quantity of bread and wine is required for the matter of this sacrament?" data-chapter="Whether a determinate quantity of bread and wine is required for the matter of this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="124" data-title="Whether a determinate quantity of bread and wine is required for the matter of this sacrament?" data-chapter="Whether a determinate quantity of bread and wine is required for the matter of this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a determinate quantity of bread and wine is required for the matter
 of this [sacrament](/concepts/sacrament). Because the effects of grace are no less set in order than those of nature. But,
@@ -6540,7 +6540,7 @@ Reply to Objection 3: The sacrament of Baptism is perfected in the use of the ma
 therefore no more of the water is hallowed than what is used. But this sacrament is wrought in the
 consecration of the matter. Consequently there is no parallel.
 
-<span class="atom-split" data-atom="125" data-title="Whether wheaten bread is required for the matter of this sacrament?" data-chapter="Whether wheaten bread is required for the matter of this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="125" data-title="Whether wheaten bread is required for the matter of this sacrament?" data-chapter="Whether wheaten bread is required for the matter of this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that wheaten bread is not requisite for the matter of this [sacrament](/concepts/sacrament),
 because this sacrament is a reminder of our Lord's Passion. But barley bread seems to be more in
@@ -6606,7 +6606,7 @@ so, sins from irreverence towards the sacrament. And because starch comes of cor
 does not seem as if the body of Christ could be made of the bread made therefrom, although some
 hold the contrary.
 
-<span class="atom-split" data-atom="126" data-title="Whether this sacrament ought to be made of unleavened bread?" data-chapter="Whether this sacrament ought to be made of unleavened bread?" data-kind="atom"></span>
+<span class="atom-split" data-atom="126" data-title="Whether this sacrament ought to be made of unleavened bread?" data-chapter="Whether this sacrament ought to be made of unleavened bread?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this [sacrament](/concepts/sacrament) ought not to be made of unleavened bread. because
 in this sacrament we ought to imitate Christ's institution. But Christ appears to have instituted this
@@ -6677,7 +6677,7 @@ difference between unleavened and leavened bread than between warm and cold bapt
 because there might be such corruption of fermented bread that it could not be validly used for the
 sacrament.
 
-<span class="atom-split" data-atom="127" data-title="Whether wine of the grape is the proper matter of this sacrament?" data-chapter="Whether wine of the grape is the proper matter of this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="127" data-title="Whether wine of the grape is the proper matter of this sacrament?" data-chapter="Whether wine of the grape is the proper matter of this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that wine of the grape is not the proper matter of this [sacrament](/concepts/sacrament). Because,
 as water is the matter of Baptism, so is wine the matter of this sacrament. But Baptism can be
@@ -6732,7 +6732,7 @@ the grape, since this is unbecoming owing to the impurity of the must. But in ca
 may be done: for it is said by the same Pope Julius, in the passage quoted in the argument: "If
 necessary, let the grape be pressed into the chalice."
 
-<span class="atom-split" data-atom="128" data-title="Whether water should be mixed with the wine?" data-chapter="Whether water should be mixed with the wine?" data-kind="atom"></span>
+<span class="atom-split" data-atom="128" data-title="Whether water should be mixed with the wine?" data-chapter="Whether water should be mixed with the wine?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that water ought not to be mixed with the wine, since Christ's sacrifice
 was foreshadowed by that of Melchisedech, who (Gn. 14:18) is related to have offered up bread
@@ -6772,7 +6772,7 @@ refreshment."
 Reply to Objection 3: Bread is made of water and flour; and therefore, since water is mixed
 with the wine, neither is without water.
 
-<span class="atom-split" data-atom="129" data-title="Whether the mixing with water is essential to this sacrament?" data-chapter="Whether the mixing with water is essential to this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="129" data-title="Whether the mixing with water is essential to this sacrament?" data-chapter="Whether the mixing with water is essential to this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the mixing with water is essential to this [sacrament](/concepts/sacrament). Because Cyprian
 says to Cecilius (Ep. lxiii): "Thus the Lord's chalice is not water only and wine only, but both must
@@ -6828,7 +6828,7 @@ with flour is essential to this sacrament, as making the composition of bread, i
 other liquor besides true water, be mixed with the flour, the sacrament would not be valid, because
 it would not be true bread.
 
-<span class="atom-split" data-atom="130" data-title="Whether water should be added in great quantity?" data-chapter="Whether water should be added in great quantity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="130" data-title="Whether water should be added in great quantity?" data-chapter="Whether water should be added in great quantity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that water ought to be added in great quantity, because as blood flowed
 sensibly from Christ's side, so did water: hence it is written (Jn. 19:35): "He that saw it, hath given
@@ -6875,7 +6875,7 @@ when the water is changed into wine, it is signified that the people is incorpor
 Reply to Objection 3: If water were added to a cask, it would not suffice for the signification
 of this sacrament, but the water must be added to the wine at the actual celebration of the sacrament.
 
-<span class="atom-split" data-atom="131" data-title="OF THE CHANGE OF BREAD AND WINE INTO THE BODY AND BLOOD OF CHRIST (EIGHT ARTICLES)" data-chapter="OF THE CHANGE OF BREAD AND WINE INTO THE BODY AND BLOOD OF CHRIST (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="131" data-title="OF THE CHANGE OF BREAD AND WINE INTO THE BODY AND BLOOD OF CHRIST (EIGHT ARTICLES)" data-chapter="OF THE CHANGE OF BREAD AND WINE INTO THE BODY AND BLOOD OF CHRIST (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have to consider the change of the bread and wine into the body and blood of Christ; under
 which head there are eight points of inquiry:
@@ -6893,7 +6893,7 @@ that of the First Article; and substituted another division of the matter under 
 seen by referring to the titles of the various Articles. Most editions have ignored St. Thomas's
 original division, and give the one to which he subsequently adhered.]
 
-<span class="atom-split" data-atom="132" data-title="Whether the body of Christ be in this sacrament in very truth, or merely as in a figure or sign?" data-chapter="Whether the body of Christ be in this sacrament in very truth, or merely as in a figure or sign?" data-kind="atom"></span>
+<span class="atom-split" data-atom="132" data-title="Whether the body of Christ be in this sacrament in very truth, or merely as in a figure or sign?" data-chapter="Whether the body of Christ be in this sacrament in very truth, or merely as in a figure or sign?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the body of Christ is not in this [sacrament](/concepts/sacrament) in very truth, but only as
 in a figure, or sign. For it is written (Jn. 6:54) that when our Lord had uttered these words: "Except
@@ -6986,7 +6986,7 @@ is, invisibly, after the manner and by the virtue of the spirit. Hence Augustine
 says: "If thou hast understood" Christ's words spiritually concerning His flesh, "they are spirit and
 life to thee; if thou hast understood them carnally, they are also spirit and life, but not to thee."
 
-<span class="atom-split" data-atom="133" data-title="Whether in this sacrament the substance of the bread and wine remains after the consecration?" data-chapter="Whether in this sacrament the substance of the bread and wine remains after the consecration?" data-kind="atom"></span>
+<span class="atom-split" data-atom="133" data-title="Whether in this sacrament the substance of the bread and wine remains after the consecration?" data-chapter="Whether in this sacrament the substance of the bread and wine remains after the consecration?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the substance of the bread and wine does remain in this [sacrament](/concepts/sacrament)
 after the consecration: because Damascene says (De Fide Orth. iv): "Since it is customary for men
@@ -7045,7 +7045,7 @@ therefore the substance of the matter remains in the other sacraments, but not i
 Reply to Objection 3: The species which remain in this sacrament, as shall be said later (A[5]),
 suffice for its signification; because the nature of the substance is known by its accidents.
 
-<span class="atom-split" data-atom="134" data-title="Whether the substance of the bread or wine is annihilated after the consecration of this sacrament, or dissolved into their original matter?" data-chapter="Whether the substance of the bread or wine is annihilated after the consecration of this sacrament, or dissolved into their original matter?" data-kind="atom"></span>
+<span class="atom-split" data-atom="134" data-title="Whether the substance of the bread or wine is annihilated after the consecration of this sacrament, or dissolved into their original matter?" data-chapter="Whether the substance of the bread or wine is annihilated after the consecration of this sacrament, or dissolved into their original matter?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the substance of the bread is annihilated after the consecration of
 this [sacrament](/concepts/sacrament), or dissolved into its original matter. For whatever is corporeal must be somewhere.
@@ -7112,7 +7112,7 @@ Reply to Objection 3: Although after the consecration this proposition is false:
 of the breed is something," still that into which the substance of the bread is changed, is something,
 and consequently the substance of the bread is not annihilated.
 
-<span class="atom-split" data-atom="135" data-title="Whether bread can be converted into the body of Christ?" data-chapter="Whether bread can be converted into the body of Christ?" data-kind="atom"></span>
+<span class="atom-split" data-atom="135" data-title="Whether bread can be converted into the body of Christ?" data-chapter="Whether bread can be converted into the body of Christ?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that bread cannot be converted into the body of Christ. For conversion
 is a kind of change. But in every change there must be some subject, which from being previously
@@ -7184,7 +7184,7 @@ has control over all being, because the nature of being is common to both forms 
 and whatever there is of being in the one, the author of being can change into whatever there is of
 being in the other, withdrawing that whereby it was distinguished from the other.
 
-<span class="atom-split" data-atom="136" data-title="Whether the accidents of the bread and wine remain in this sacrament after the change?" data-chapter="Whether the accidents of the bread and wine remain in this sacrament after the change?" data-kind="atom"></span>
+<span class="atom-split" data-atom="136" data-title="Whether the accidents of the bread and wine remain in this sacrament after the change?" data-chapter="Whether the accidents of the bread and wine remain in this sacrament after the change?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the accidents of the bread and wine do not remain in this [sacrament](/concepts/sacrament).
 For when that which comes first is removed, that which follows is also taken away. But substance
@@ -7233,7 +7233,7 @@ concerns things to which sense does not reach.
 Reply to Objection 4: This change has not properly a subject, as was stated above (A[4], ad
 1); nevertheless the accidents which remain have some resemblance of a subject.
 
-<span class="atom-split" data-atom="137" data-title="Whether the substantial form of the bread remains in this sacrament after the consecration?" data-chapter="Whether the substantial form of the bread remains in this sacrament after the consecration?" data-kind="atom"></span>
+<span class="atom-split" data-atom="137" data-title="Whether the substantial form of the bread remains in this sacrament after the consecration?" data-chapter="Whether the substantial form of the bread remains in this sacrament after the consecration?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the [substantial form](/concepts/forma_substantialis) of the bread remains in this [sacrament](/concepts/sacrament) after the
 consecration. For it has been said (A[5]) that the accidents remain after the consecration. But since
@@ -7288,7 +7288,7 @@ the substantial form, such as an operation consequent upon its species, for inst
 account of the form or matter remaining, but because they are bestowed miraculously upon the
 accidents themselves, as will be said later (Q[77], A[3], ad 2,3; AA[5],6).
 
-<span class="atom-split" data-atom="138" data-title="Whether this change is wrought instantaneously?" data-chapter="Whether this change is wrought instantaneously?" data-kind="atom"></span>
+<span class="atom-split" data-atom="138" data-title="Whether this change is wrought instantaneously?" data-chapter="Whether this change is wrought instantaneously?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this change is not wrought instantaneously, but successively. For in
 this change there is first the substance of bread, and afterwards the substance of Christ's body.
@@ -7367,7 +7367,7 @@ the pronouncing of the words. for then the meaning of the words is finished, whi
 efficacious in the forms of the sacraments. And therefore it does not follow that this change is
 successive.
 
-<span class="atom-split" data-atom="139" data-title="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;? (1/2)" data-chapter="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="139" data-title="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;? (1/2)" data-chapter="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this proposition is false: "The body of Christ is made out of bread"?
 
@@ -7464,7 +7464,7 @@ Reply to Objection 2: That out of which another is made, will sometimes be that 
 of the subject which is implied. And therefore, since there is no subject of this change, the comparison
 does not hold.
 
-<span class="atom-split" data-atom="140" data-title="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;? (2/2)" data-chapter="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="140" data-title="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;? (2/2)" data-chapter="Whether this proposition is false: \&quot;The body of Christ is made out of bread\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this proposition is false: "The body of Christ is made out of bread"?
 
@@ -7482,7 +7482,7 @@ there is no subject in this conversion. And therefore it is not granted that bre
 Christ: for this conversion does not come about by the passive potentiality of the creature, but solely
 by the active power of the Creator.
 
-<span class="atom-split" data-atom="141" data-title="OF THE WAY IN WHICH CHRIST IS IN THIS SACRAMENT (EIGHT ARTICLES)" data-chapter="OF THE WAY IN WHICH CHRIST IS IN THIS SACRAMENT (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="141" data-title="OF THE WAY IN WHICH CHRIST IS IN THIS SACRAMENT (EIGHT ARTICLES)" data-chapter="OF THE WAY IN WHICH CHRIST IS IN THIS SACRAMENT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the manner in which Christ exists in this [sacrament](/concepts/sacrament); and under this
 head there are eight points of inquiry:
@@ -7497,7 +7497,7 @@ moved?
 (8) Whether the true body of Christ remains in this sacrament when He is seen under the
 appearance of a child or of flesh?
 
-<span class="atom-split" data-atom="142" data-title="Whether the whole Christ is contained under this sacrament?" data-chapter="Whether the whole Christ is contained under this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="142" data-title="Whether the whole Christ is contained under this sacrament?" data-chapter="Whether the whole Christ is contained under this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the whole Christ is not contained under this [sacrament](/concepts/sacrament), because
 Christ begins to be in this sacrament by conversion of the bread and wine. But it is evident that the
@@ -7564,7 +7564,7 @@ in a big or small individual. Wherefore, after the consecration, the whole subst
 and blood is contained in this sacrament, just as the whole substance of the bread and wine was
 contained there before the consecration.
 
-<span class="atom-split" data-atom="143" data-title="Whether the whole Christ is contained under each species of this sacrament?" data-chapter="Whether the whole Christ is contained under each species of this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="143" data-title="Whether the whole Christ is contained under each species of this sacrament?" data-chapter="Whether the whole Christ is contained under each species of this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the whole Christ is not contained under both species of this [sacrament](/concepts/sacrament).
 For this sacrament is ordained for the salvation of the faithful, not by virtue of the species, but by
@@ -7617,7 +7617,7 @@ Reply to Objection 3: As stated above, the body of Christ is not under the speci
 the power of the sacrament, but by real concomitance: and therefore by the consecration of the
 wine the body of Christ is not there of itself, but concomitantly.
 
-<span class="atom-split" data-atom="144" data-title="Whether Christ is entire under every part of the species of the bread and wine?" data-chapter="Whether Christ is entire under every part of the species of the bread and wine?" data-kind="atom"></span>
+<span class="atom-split" data-atom="144" data-title="Whether Christ is entire under every part of the species of the bread and wine?" data-chapter="Whether Christ is entire under every part of the species of the bread and wine?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ is not entire under every part of the species of bread and wine.
 Because those species can be divided infinitely. If therefore Christ be entirely under every part of
@@ -7674,7 +7674,7 @@ Reply to Objection 3: This argument is based on the nature of a body, arising fr
 quantity. But it was said above (ad 2) that Christ's body is compared with this sacrament not by
 reason of dimensive quantity, but by reason of its substance, as already stated.
 
-<span class="atom-split" data-atom="145" data-title="Whether the whole dimensive quantity of Christ's body is in this sacrament?" data-chapter="Whether the whole dimensive quantity of Christ's body is in this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="145" data-title="Whether the whole dimensive quantity of Christ's body is in this sacrament?" data-chapter="Whether the whole dimensive quantity of Christ's body is in this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the whole dimensive quantity of Christ's body is not in this [sacrament](/concepts/sacrament).
 For it was said (A[3]) that Christ's entire body is contained under every part of the consecrated
@@ -7734,7 +7734,7 @@ Reply to Objection 3: The dimensive quantity of Christ's body is in this sacrame
 of commensuration, which is proper to quantity, and to which it belongs for the greater to be
 extended beyond the lesser; but in the way mentioned above (ad 1,2).
 
-<span class="atom-split" data-atom="146" data-title="Whether Christ's body is in this sacrament as in a place?" data-chapter="Whether Christ's body is in this sacrament as in a place?" data-kind="atom"></span>
+<span class="atom-split" data-atom="146" data-title="Whether Christ's body is in this sacrament as in a place?" data-chapter="Whether Christ's body is in this sacrament as in a place?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ's body is in this [sacrament](/concepts/sacrament) as in a place. Because, to be in a
 place definitively or circumscriptively belongs to being in a place. But Christ's body seems to be
@@ -7792,7 +7792,7 @@ by real concomitance. And therefore those accidents of Christ's body which are i
 in this sacrament. But to be in a place is an accident when compared with the extrinsic container.
 And therefore it is not necessary for Christ to be in this sacrament as in a place.
 
-<span class="atom-split" data-atom="147" data-title="Whether Christ's body is in this sacrament movably?" data-chapter="Whether Christ's body is in this sacrament movably?" data-kind="atom"></span>
+<span class="atom-split" data-atom="147" data-title="Whether Christ's body is in this sacrament movably?" data-chapter="Whether Christ's body is in this sacrament movably?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ's body is movably in this [sacrament](/concepts/sacrament), because the Philosopher
 says (Topic. ii) that "when we are moved, the things within us are moved": and this is true even of
@@ -7855,7 +7855,7 @@ ceases to be under them, not because it depends on them, but because the relatio
 body to those species is taken away, in the same way as God ceases to be the Lord of a creature
 which ceases to exist.
 
-<span class="atom-split" data-atom="148" data-title="Whether the body of Christ, as it is in this sacrament, can be seen by any eye, at least by a glorified one?" data-chapter="Whether the body of Christ, as it is in this sacrament, can be seen by any eye, at least by a glorified one?" data-kind="atom"></span>
+<span class="atom-split" data-atom="148" data-title="Whether the body of Christ, as it is in this sacrament, can be seen by any eye, at least by a glorified one?" data-chapter="Whether the body of Christ, as it is in this sacrament, can be seen by any eye, at least by a glorified one?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the body of Christ, as it is in this [sacrament](/concepts/sacrament), can be seen by the eye,
 at least by a glorified one. For our eyes are hindered from beholding Christ's body in this sacrament,
@@ -7913,7 +7913,7 @@ which no other glorified eye is conformed to it.
 Reply to Objection 3: No angel, good or bad, can see anything with a bodily eye, but only
 with the mental eye. Hence there is no parallel reason, as is evident from what was said above.
 
-<span class="atom-split" data-atom="149" data-title="Whether Christ's body is truly there when flesh or a child appears miraculously in this sacrament?" data-chapter="Whether Christ's body is truly there when flesh or a child appears miraculously in this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="149" data-title="Whether Christ's body is truly there when flesh or a child appears miraculously in this sacrament?" data-chapter="Whether Christ's body is truly there when flesh or a child appears miraculously in this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ's body is not truly there when flesh or a child appears
 miraculously in this [sacrament](/concepts/sacrament). Because His body ceases to be under this sacrament when the
@@ -7984,7 +7984,7 @@ dimensions themselves, as was said above.
 Reply to Objection 3: The dimensions of the consecrated bread and wine continue, while a
 miraculous change is wrought in the other accidents, as stated above.
 
-<span class="atom-split" data-atom="150" data-title="OF THE ACCIDENTS WHICH REMAIN IN THIS SACRAMENT (EIGHT ARTICLES)" data-chapter="OF THE ACCIDENTS WHICH REMAIN IN THIS SACRAMENT (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="150" data-title="OF THE ACCIDENTS WHICH REMAIN IN THIS SACRAMENT (EIGHT ARTICLES)" data-chapter="OF THE ACCIDENTS WHICH REMAIN IN THIS SACRAMENT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the accidents which remain in this [sacrament](/concepts/sacrament); under which head there
 are eight points of inquiry:
@@ -7997,7 +7997,7 @@ are eight points of inquiry:
 (7) Of the breaking of the consecrated bread?
 (8) Whether anything can be mixed with the consecrated wine?
 
-<span class="atom-split" data-atom="151" data-title="Whether the accidents remain in this sacrament without a subject?" data-chapter="Whether the accidents remain in this sacrament without a subject?" data-kind="atom"></span>
+<span class="atom-split" data-atom="151" data-title="Whether the accidents remain in this sacrament without a subject?" data-chapter="Whether the accidents remain in this sacrament without a subject?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the accidents do not remain in this [sacrament](/concepts/sacrament) without a subject,
 because there ought not to be anything disorderly or deceitful in this sacrament of truth. But for
@@ -8083,7 +8083,7 @@ just as snow is "white" through whiteness. But after the consecration the accide
 have being; hence they are compounded of existence and essence, as was said of the angels, in the
 FP, Q[50], A[2], ad 3; and besides they have composition of quantitative parts.
 
-<span class="atom-split" data-atom="152" data-title="Whether in this sacrament the dimensive quantity of the bread or wine is the subject of the other accidents?" data-chapter="Whether in this sacrament the dimensive quantity of the bread or wine is the subject of the other accidents?" data-kind="atom"></span>
+<span class="atom-split" data-atom="152" data-title="Whether in this sacrament the dimensive quantity of the bread or wine is the subject of the other accidents?" data-chapter="Whether in this sacrament the dimensive quantity of the bread or wine is the subject of the other accidents?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that in this [sacrament](/concepts/sacrament) the dimensive quantity of the bread or wine is not
 the subject of the other accidents. For accident is not the subject of accident; because no form can
@@ -8164,7 +8164,7 @@ sensible matter, as is said in Metaph. vii. But matter is termed sensible becaus
 qualities. And therefore it is manifest that the dimensive quantity, which remains in this sacrament
 without a subject, is not mathematical quantity.
 
-<span class="atom-split" data-atom="153" data-title="Whether the species remaining in this sacrament can change external objects?" data-chapter="Whether the species remaining in this sacrament can change external objects?" data-kind="atom"></span>
+<span class="atom-split" data-atom="153" data-title="Whether the species remaining in this sacrament can change external objects?" data-chapter="Whether the species remaining in this sacrament can change external objects?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the species which remain in this [sacrament](/concepts/sacrament) cannot affect external
 objects. For it is proved in Phys. vii, that forms which are in matter are produced by forms that are
@@ -8212,7 +8212,7 @@ species, just as it was before: and consequently their action can be directed to
 instrumentally, just in the same way as anything can act outside its species, not as by its own power,
 but by the power of the chief agent.
 
-<span class="atom-split" data-atom="154" data-title="Whether the sacramental species can be corrupted?" data-chapter="Whether the sacramental species can be corrupted?" data-kind="atom"></span>
+<span class="atom-split" data-atom="154" data-title="Whether the sacramental species can be corrupted?" data-chapter="Whether the sacramental species can be corrupted?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sacramental species cannot be corrupted, because corruption
 comes of the separation of the form from the matter. But the matter of the bread does not remain
@@ -8282,7 +8282,7 @@ it presupposes the [miracle](/concepts/miracle) which is wrought in the consecra
 species retain without a subject, the same being as they had in a subject; just as a blind man, to
 whom sight is given miraculously, sees naturally.
 
-<span class="atom-split" data-atom="155" data-title="Whether anything can be generated from the sacramental species?" data-chapter="Whether anything can be generated from the sacramental species?" data-kind="atom"></span>
+<span class="atom-split" data-atom="155" data-title="Whether anything can be generated from the sacramental species?" data-chapter="Whether anything can be generated from the sacramental species?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that nothing can be generated from the sacramental species: because,
 whatever is generated, is generated out of some matter: for nothing is generated out of nothing,
@@ -8365,7 +8365,7 @@ Reply to Objection 3: The dimensive quantity of the bread and wine retains its o
 and receives miraculously the power and property of substance; and therefore it can pass to both,
 that is, into substance and dimension.
 
-<span class="atom-split" data-atom="156" data-title="Whether the sacramental species can nourish?" data-chapter="Whether the sacramental species can nourish?" data-kind="atom"></span>
+<span class="atom-split" data-atom="156" data-title="Whether the sacramental species can nourish?" data-chapter="Whether the sacramental species can nourish?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sacramental species cannot nourish, because, as Ambrose says
 (De Sacram. v), "it is not this bread that enters into our body, but the bread of everlasting life, which
@@ -8420,7 +8420,7 @@ human body is made, yet they are changed into those things stated above.
 Reply to Objection 3: Although the sacramental species are not a substance, still they have
 the virtue of a substance, as stated above.
 
-<span class="atom-split" data-atom="157" data-title="Whether the sacramental species are broken in this sacrament?" data-chapter="Whether the sacramental species are broken in this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="157" data-title="Whether the sacramental species are broken in this sacrament?" data-chapter="Whether the sacramental species are broken in this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sacramental species are not broken in this [sacrament](/concepts/sacrament), because
 the Philosopher says in Meteor. iv that bodies are breakable owing to a certain disposition of the
@@ -8475,7 +8475,7 @@ very body is not broken, except according to its sacramental species. And the co
 Berengarius is to be understood in this sense, that the breaking and the crushing with the teeth is
 to be referred to the sacramental species, under which the body of Christ truly is.
 
-<span class="atom-split" data-atom="158" data-title="Whether any liquid can be mingled with the consecrated wine?" data-chapter="Whether any liquid can be mingled with the consecrated wine?" data-kind="atom"></span>
+<span class="atom-split" data-atom="158" data-title="Whether any liquid can be mingled with the consecrated wine?" data-chapter="Whether any liquid can be mingled with the consecrated wine?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that no liquid can be mingled with the consecrated wine, because
 everything mingled with another partakes of its quality. But no liquid can share in the quality of
@@ -8570,7 +8570,7 @@ small as on that account to be hindered from permeating the whole, and not simpl
 which, although they are present without a subject, still they are opposed to another liquid, just as
 substance would be if it were present, according to what was said at the beginning of the article.
 
-<span class="atom-split" data-atom="159" data-title="OF THE FORM OF THIS SACRAMENT (SIX ARTICLES)" data-chapter="OF THE FORM OF THIS SACRAMENT (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="159" data-title="OF THE FORM OF THIS SACRAMENT (SIX ARTICLES)" data-chapter="OF THE FORM OF THIS SACRAMENT (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the form of this [sacrament](/concepts/sacrament); concerning which there are six points of
 inquiry:
@@ -8581,7 +8581,7 @@ inquiry:
 (5) Of the truth of the expression?
 (6) Of the comparison of the one form with the other?
 
-<span class="atom-split" data-atom="160" data-title="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;? (1/2)" data-chapter="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="160" data-title="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;? (1/2)" data-chapter="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is the form of this sacrament: "This is My body," and "This is the chalice of My blood"?
 
@@ -8678,7 +8678,7 @@ Reply to Objection 3: In the sacrament of Baptism the minister exercises an act 
 use of the matter, which is of the essence of the sacrament: such is not the case in this sacrament;
 hence there is no parallel.
 
-<span class="atom-split" data-atom="161" data-title="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;? (2/2)" data-chapter="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="161" data-title="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;? (2/2)" data-chapter="Whether this is the form of this sacrament: \&quot;This is My body,\&quot; and \&quot;This is the chalice of My blood\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is the form of this sacrament: "This is My body," and "This is the chalice of My blood"?
 
@@ -8695,7 +8695,7 @@ the sacrament thus, as he would not be observing the rite of the Church. Nor doe
 with Baptism prove anything; for it is a sacrament of necessity: whereas the lack of this sacrament
 can be supplied by the spiritual partaking thereof, as [Augustine](/figures/augustine) says (cf. Q[73], A[3], ad 1).
 
-<span class="atom-split" data-atom="162" data-title="Whether this is the proper form for the consecration of the bread: \&quot;This is My body\&quot;?" data-chapter="Whether this is the proper form for the consecration of the bread: \&quot;This is My body\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="162" data-title="Whether this is the proper form for the consecration of the bread: \&quot;This is My body\&quot;?" data-chapter="Whether this is the proper form for the consecration of the bread: \&quot;This is My body\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is the proper form for the consecration of the bread: "This is My body"?
 
@@ -8775,7 +8775,7 @@ Roman Church, who derived it from Peter the Apostle; and this on account of the 
 the words preceding: and therefore it is not part of the form, just as the words preceding the form
 are not.
 
-<span class="atom-split" data-atom="163" data-title="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.? (1/2)" data-chapter="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.?" data-kind="atom"></span>
+<span class="atom-split" data-atom="163" data-title="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.? (1/2)" data-chapter="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is the proper form for the consecration of the wine: "This is the chalice of My blood," etc.?
 
@@ -8876,7 +8876,7 @@ the consecration of the blood rather than in that of the body, since the body is
 Passion. This is also pointed out in our Lord's saying, "which shall be delivered up for you," as if
 to say, "which shall undergo the Passion for you."
 
-<span class="atom-split" data-atom="164" data-title="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.? (2/2)" data-chapter="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.?" data-kind="atom"></span>
+<span class="atom-split" data-atom="164" data-title="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.? (2/2)" data-chapter="Whether this is the proper form for the consecration of the wine: \&quot;This is the chalice of My blood,\&quot; etc.?" data-kind="atom" data-srclang="en"></span>
 
 # Whether this is the proper form for the consecration of the wine: "This is the chalice of My blood," etc.?
 
@@ -8929,7 +8929,7 @@ of sins." The words added, namely, "eternal" and "mystery of faith," were handed
 Church by the apostles, who received them from our Lord, according to 1 Cor. 11:23: "I have
 received of the Lord that which also I delivered unto you."
 
-<span class="atom-split" data-atom="165" data-title="Whether in the aforesaid words of the forms there be any created power which causes the consecration?" data-chapter="Whether in the aforesaid words of the forms there be any created power which causes the consecration?" data-kind="atom"></span>
+<span class="atom-split" data-atom="165" data-title="Whether in the aforesaid words of the forms there be any created power which causes the consecration?" data-chapter="Whether in the aforesaid words of the forms there be any created power which causes the consecration?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that in the aforesaid words of the forms there is no created power which
 causes the consecration. Because Damascene says (De Fide Orth. iv): "The change of the bread
@@ -8984,7 +8984,7 @@ power in the last instant of their being uttered, taken in conjunction with thos
 this power is simple by reason of the thing signified, although there be composition in the words
 uttered outwardly.
 
-<span class="atom-split" data-atom="166" data-title="Whether the aforesaid expressions are true?" data-chapter="Whether the aforesaid expressions are true?" data-kind="atom"></span>
+<span class="atom-split" data-atom="166" data-title="Whether the aforesaid expressions are true?" data-chapter="Whether the aforesaid expressions are true?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the aforesaid expressions are not true. Because when we say: "This
 is My body," the word "this" designates a substance. But according to what was said above (AA[1],4,
@@ -9068,7 +9068,7 @@ before the thing signified, just as a cause is naturally prior to the effect; bu
 because this cause has its effect with it at the same time, and this suffices for the truth of the
 expression.
 
-<span class="atom-split" data-atom="167" data-title="Whether the form of the consecration of the bread accomplishes its effect before the form of the consecration of the wine be completed?" data-chapter="Whether the form of the consecration of the bread accomplishes its effect before the form of the consecration of the wine be completed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="167" data-title="Whether the form of the consecration of the bread accomplishes its effect before the form of the consecration of the wine be completed?" data-chapter="Whether the form of the consecration of the bread accomplishes its effect before the form of the consecration of the wine be completed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the form of the consecration of the bread does not accomplish its
 effect until the form for the consecration of the wine be completed. For, as Christ's body begins to
@@ -9123,7 +9123,7 @@ therefore there is no resemblance.
 Reply to Objection 3: The various words in the form for consecrating the bread constitute the
 truth of one speech, but the words of the different forms do not, and consequently there is no parallel.
 
-<span class="atom-split" data-atom="168" data-title="OF THE EFFECTS OF THIS SACRAMENT (EIGHT ARTICLES)" data-chapter="OF THE EFFECTS OF THIS SACRAMENT (EIGHT ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="168" data-title="OF THE EFFECTS OF THIS SACRAMENT (EIGHT ARTICLES)" data-chapter="OF THE EFFECTS OF THIS SACRAMENT (EIGHT ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the effects of this [sacrament](/concepts/sacrament), and under this head there are eight points
 of inquiry:
@@ -9136,7 +9136,7 @@ of inquiry:
 (7) Whether this sacrament benefits others besides the recipients?
 (8) Of the obstacles to the effect of this sacrament.
 
-<span class="atom-split" data-atom="169" data-title="Whether grace is bestowed through this sacrament?" data-chapter="Whether grace is bestowed through this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="169" data-title="Whether grace is bestowed through this sacrament?" data-chapter="Whether grace is bestowed through this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that grace is not bestowed through this [sacrament](/concepts/sacrament). For this sacrament is
 spiritual nourishment. But nourishment is only given to the living. Therefore since the spiritual life
@@ -9220,7 +9220,7 @@ while in the present life we present "our [Vulg.: 'your'] members" as "instrumen
 God" (Rom. 6:13), and in the life to come our body will share in the incorruption and the glory of
 the soul.
 
-<span class="atom-split" data-atom="170" data-title="Whether the attaining of glory is an effect of this sacrament?" data-chapter="Whether the attaining of glory is an effect of this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="170" data-title="Whether the attaining of glory is an effect of this sacrament?" data-chapter="Whether the attaining of glory is an effect of this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the attaining of glory is not an effect of this [sacrament](/concepts/sacrament). For an effect
 is proportioned to its cause. But this sacrament belongs to "wayfarers" [viatoribus], and hence it is
@@ -9274,7 +9274,7 @@ Reply to Objection 3: That Christ is received under another species belongs to t
 a sacrament, which acts instrumentally. But there is nothing to prevent an instrumental cause from
 producing a more mighty effect, as is evident from what was said above (Q[77], A[3], ad 3).
 
-<span class="atom-split" data-atom="171" data-title="Whether the forgiveness of mortal sin is an effect of this sacrament?" data-chapter="Whether the forgiveness of mortal sin is an effect of this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="171" data-title="Whether the forgiveness of mortal sin is an effect of this sacrament?" data-chapter="Whether the forgiveness of mortal sin is an effect of this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the forgiveness of mortal sin is an effect of this [sacrament](/concepts/sacrament). For it is
 said in one of the Collects (Postcommunion, Pro vivis et defunctis): "May this sacrament be a
@@ -9330,7 +9330,7 @@ Reply to Objection 3: Grace is the sufficient cause of the forgiveness of mortal
 not forgive sin except when it is first bestowed on the sinner. But it is not given so in this sacrament.
 Hence the argument does not prove.
 
-<span class="atom-split" data-atom="172" data-title="Whether venial sins are forgiven through this sacrament?" data-chapter="Whether venial sins are forgiven through this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="172" data-title="Whether venial sins are forgiven through this sacrament?" data-chapter="Whether venial sins are forgiven through this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that venial sins are not forgiven by this [sacrament](/concepts/sacrament), because this is the
 "sacrament of charity," as [Augustine](/figures/augustine) says (Tract. xxvi in Joan.). But venial sins are not contrary to
@@ -9374,7 +9374,7 @@ Reply to Objection 3: The power of charity, to which this sacrament belongs, is 
 that of venial sins: because charity by its act takes away venial sins, which nevertheless cannot
 entirely hinder the act of charity. And the same holds good of this sacrament.
 
-<span class="atom-split" data-atom="173" data-title="Whether the entire punishment due to sin is forgiven through this sacrament?" data-chapter="Whether the entire punishment due to sin is forgiven through this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="173" data-title="Whether the entire punishment due to sin is forgiven through this sacrament?" data-chapter="Whether the entire punishment due to sin is forgiven through this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the entire punishment due to sin is forgiven through this [sacrament](/concepts/sacrament).
 For through this sacrament man receives the effect of Christ's Passion within himself as stated
@@ -9431,7 +9431,7 @@ taken away.
 Reply to Objection 3: If part of the punishment and not the whole be taken away by this
 sacrament, it is due to a defect not on the part of Christ's power, but on the part of man's devotion.
 
-<span class="atom-split" data-atom="174" data-title="Whether man is preserved by this sacrament from future sins?" data-chapter="Whether man is preserved by this sacrament from future sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="174" data-title="Whether man is preserved by this sacrament from future sins?" data-chapter="Whether man is preserved by this sacrament from future sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that man is not preserved by this [sacrament](/concepts/sacrament) from future sins. For there
 are many that receive this sacrament worthily, who afterwards fall into sin. Now this would not
@@ -9481,7 +9481,7 @@ yet it does lessen it as a consequence, inasmuch as it increases charity, becaus
 (Q[83]), "the increase of charity is the lessening of concupiscence." But it directly strengthens
 man's heart in good; whereby he is also preserved from sin.
 
-<span class="atom-split" data-atom="175" data-title="Whether this sacrament benefit others besides the recipients?" data-chapter="Whether this sacrament benefit others besides the recipients?" data-kind="atom"></span>
+<span class="atom-split" data-atom="175" data-title="Whether this sacrament benefit others besides the recipients?" data-chapter="Whether this sacrament benefit others besides the recipients?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this [sacrament](/concepts/sacrament) benefits only the recipients. For this sacrament is of
 the same genus as the other sacraments, being one of those into which that genus is divided. But
@@ -9539,7 +9539,7 @@ and under one. Hence, neither will any one receive greater effect from the sacra
 many consecrated hosts in one mass. But the oblation of the sacrifice is multiplied in several masses,
 and therefore the effect of the sacrifice and of the sacrament is multiplied.
 
-<span class="atom-split" data-atom="176" data-title="Whether the effect of this sacrament is hindered by venial sin?" data-chapter="Whether the effect of this sacrament is hindered by venial sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="176" data-title="Whether the effect of this sacrament is hindered by venial sin?" data-chapter="Whether the effect of this sacrament is hindered by venial sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the effect of this [sacrament](/concepts/sacrament) is not hindered by venial sin. For
 [Augustine](/figures/augustine) (Tract. xxvi in Joan.), commenting on Jn. 6:52, "If any man eat of this bread," etc., says:
@@ -9602,7 +9602,7 @@ Under the first heading there are twelve points of inquiry:
 (11) Whether it is lawful to refrain from it altogether?
 (12) Whether it is lawful to receive the body without the blood?
 
-<span class="atom-split" data-atom="177" data-title="Whether there are two ways to be distinguished of eating Christ's body?" data-chapter="Whether there are two ways to be distinguished of eating Christ's body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="177" data-title="Whether there are two ways to be distinguished of eating Christ's body?" data-chapter="Whether there are two ways to be distinguished of eating Christ's body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that two ways ought not to be distinguished of eating Christ's body,
 namely, sacramentally and spiritually. For, as Baptism is spiritual regeneration, according to Jn.
@@ -9662,7 +9662,7 @@ spiritual food, and . . . drank . . . spiritual drink." Nevertheless sacramental
 avail, because the actual receiving of the sacrament produces more fully the effect of the sacrament
 than does the desire thereof, as stated above of Baptism (Q[69] , A[4], ad 2).
 
-<span class="atom-split" data-atom="178" data-title="Whether it belongs to man alone to eat this sacrament spiritually?" data-chapter="Whether it belongs to man alone to eat this sacrament spiritually?" data-kind="atom"></span>
+<span class="atom-split" data-atom="178" data-title="Whether it belongs to man alone to eat this sacrament spiritually?" data-chapter="Whether it belongs to man alone to eat this sacrament spiritually?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that it does not belong to man alone to eat this [sacrament](/concepts/sacrament) spiritually, but
 likewise to angels. Because on Ps. 77:25: "Man ate the bread of angels," the gloss says: "that is,
@@ -9712,7 +9712,7 @@ Reply to Objection 3: Christ dwells in men through faith, according to their pre
 He is in the blessed angels by manifest vision. Consequently the comparison does not hold, as stated
 above (ad 2).
 
-<span class="atom-split" data-atom="179" data-title="Whether the just man alone may eat Christ sacramentally?" data-chapter="Whether the just man alone may eat Christ sacramentally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="179" data-title="Whether the just man alone may eat Christ sacramentally?" data-chapter="Whether the just man alone may eat Christ sacramentally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that none but the just man may eat Christ sacramentally. For [Augustine](/figures/augustine)
 says in his book De Remedio Penitentiae (cf. Tract. in Joan. xxv, n. 12; xxvi, n. 1): "Why make
@@ -9775,7 +9775,7 @@ not knowing a host to be consecrated were to consume it. And since no genus is d
 accidental difference, therefore this manner of eating Christ's body is not set down as a third way
 besides sacramental and spiritual eating.
 
-<span class="atom-split" data-atom="180" data-title="Whether the sinner sins in receiving Christ's body sacramentally?" data-chapter="Whether the sinner sins in receiving Christ's body sacramentally?" data-kind="atom"></span>
+<span class="atom-split" data-atom="180" data-title="Whether the sinner sins in receiving Christ's body sacramentally?" data-chapter="Whether the sinner sins in receiving Christ's body sacramentally?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the sinner does not sin in receiving Christ's body sacramentally,
 because Christ has no greater dignity under the sacramental species than under His own. But sinners
@@ -9873,7 +9873,7 @@ whom he believed to be his wife whereas she was not, he is not to be called a si
 in the same way if he has utterly forgotten his sin, general contrition suffices for blotting it out, as
 will be said hereafter (XP, Q[2], A[3], ad 2); hence he is no longer to be called a sinner.
 
-<span class="atom-split" data-atom="181" data-title="Whether to approach this sacrament with consciousness of sin is the gravest of all sins?" data-chapter="Whether to approach this sacrament with consciousness of sin is the gravest of all sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="181" data-title="Whether to approach this sacrament with consciousness of sin is the gravest of all sins?" data-chapter="Whether to approach this sacrament with consciousness of sin is the gravest of all sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that to approach this [sacrament](/concepts/sacrament) with consciousness of sin is the gravest
 of all sins; because the Apostle says (1 Cor. 11:27): "Whosoever shall eat this bread, or drink the
@@ -9955,7 +9955,7 @@ capable of receiving this sacrament than any irrational creature. Hence he would
 revolting use of this sacrament who would throw it to dogs to eat, or fling it in the mire to be trodden
 upon.
 
-<span class="atom-split" data-atom="182" data-title="Whether the priest ought to deny the body of Christ to the sinner seeking it?" data-chapter="Whether the priest ought to deny the body of Christ to the sinner seeking it?" data-kind="atom"></span>
+<span class="atom-split" data-atom="182" data-title="Whether the priest ought to deny the body of Christ to the sinner seeking it?" data-chapter="Whether the priest ought to deny the body of Christ to the sinner seeking it?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the priest should deny the body of Christ to the sinner seeking it.
 For Christ's precept is not to be set aside for the sake of avoiding scandal or on account of infamy
@@ -10037,7 +10037,7 @@ cannot be done without sin. And it would seem graver still if anyone were to inc
 death through this sacrament, which was instituted as a means of salvation. Consequently, the body
 of Christ should never be given to anyone suspected of crime, as by way of examination.
 
-<span class="atom-split" data-atom="183" data-title="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament? (1/2)" data-chapter="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="183" data-title="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament? (1/2)" data-chapter="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that seminal loss does not hinder anyone from receiving the body of
 Christ: because no one is prevented from receiving the body of Christ except on account of sin.
@@ -10132,7 +10132,7 @@ Reply to Objection 1: A person is hindered necessarily, only by mortal sin, from
 this sacrament: but from a sense of decency one may be hindered through other causes, as stated
 above.
 
-<span class="atom-split" data-atom="184" data-title="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament? (2/2)" data-chapter="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="184" data-title="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament? (2/2)" data-chapter="Whether the seminal loss that occurs during sleep hinders anyone from receiving this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 2: Conjugal intercourse, if it be without sin, (for instance, if it be done for
 the sake of begetting offspring, or of paying the marriage debt), does not prevent the receiving of
@@ -10167,7 +10167,7 @@ of mind as fornication, on account of its intense delectation; still if the drea
 of a cause sinful in itself, especially if it be mortal sin, then owing to its cause it hinders the receiving
 of this sacrament.
 
-<span class="atom-split" data-atom="185" data-title="Whether food or drink taken beforehand hinders the receiving of this sacrament?" data-chapter="Whether food or drink taken beforehand hinders the receiving of this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="185" data-title="Whether food or drink taken beforehand hinders the receiving of this sacrament?" data-chapter="Whether food or drink taken beforehand hinders the receiving of this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that food or drink taken beforehand does not hinder the receiving of this
 [sacrament](/concepts/sacrament). For this sacrament was instituted by our Lord at the supper. But when the supper was
@@ -10275,7 +10275,7 @@ in olden times, the priest celebrated Mass less frequently, and with greater pre
 because the sacred mysteries have to be celebrated oftener, the same could not be easily observed,
 and so it has been abrogated by contrary custom.
 
-<span class="atom-split" data-atom="186" data-title="Whether those who have not the use of reason ought to receive this sacrament?" data-chapter="Whether those who have not the use of reason ought to receive this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="186" data-title="Whether those who have not the use of reason ought to receive this sacrament?" data-chapter="Whether those who have not the use of reason ought to receive this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that those who have not the use of reason ought not to receive this
 [sacrament](/concepts/sacrament). For it is required that man should approach this sacrament with devotion and previous
@@ -10333,7 +10333,7 @@ Lord, when he is made a member of Christ's body in Baptism." But when children o
 have some use of reason so as to be able to conceive some devotion for the sacrament, then it can
 be given to them.
 
-<span class="atom-split" data-atom="187" data-title="Whether it is lawful to receive this sacrament daily?" data-chapter="Whether it is lawful to receive this sacrament daily?" data-kind="atom"></span>
+<span class="atom-split" data-atom="187" data-title="Whether it is lawful to receive this sacrament daily?" data-chapter="Whether it is lawful to receive this sacrament daily?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It does not appear to be lawful to receive this [sacrament](/concepts/sacrament) daily, because, as Baptism
 shows forth our Lord's Passion, so also does this sacrament. Now one may not be baptized several
@@ -10434,7 +10434,7 @@ Pope Innocent III commanded that the faithful should communicate "at least once 
 "at Easter." However, in De Eccles. Dogmat. xxiii, the faithful are counseled "to communicate on
 all Sundays."
 
-<span class="atom-split" data-atom="188" data-title="Whether it is lawful to abstain altogether from communion?" data-chapter="Whether it is lawful to abstain altogether from communion?" data-kind="atom"></span>
+<span class="atom-split" data-atom="188" data-title="Whether it is lawful to abstain altogether from communion?" data-chapter="Whether it is lawful to abstain altogether from communion?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems to be lawful to abstain altogether from Communion. Because the Centurion
 is praised for saying (Mat. 8:8): "Lord, I am not worthy that Thou shouldst enter under my roof";
@@ -10479,7 +10479,7 @@ so that they are not better off on that account; and although while continuing i
 not on that account excused from transgressing the precept, nevertheless, as Pope Innocent III says,
 penitents, "who refrain on the advice of their priest," are excused.
 
-<span class="atom-split" data-atom="189" data-title="Whether it is lawful to receive the body of Christ without the blood?" data-chapter="Whether it is lawful to receive the body of Christ without the blood?" data-kind="atom"></span>
+<span class="atom-split" data-atom="189" data-title="Whether it is lawful to receive the body of Christ without the blood?" data-chapter="Whether it is lawful to receive the body of Christ without the blood?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems unlawful to receive the body of Christ without the blood. For Pope
 Gelasius says (cf. De Consecr. ii): "We have learned that some persons after taking only a portion
@@ -10533,7 +10533,7 @@ received by the people without the blood: nor is this detrimental to the sacrame
 priest both offers and consumes the blood on behalf of all; and Christ is fully contained under either
 species, as was shown above (Q[76], A[2]).
 
-<span class="atom-split" data-atom="190" data-title="OF THE USE WHICH CHRIST MADE OF THIS SACRAMENT AT ITS INSTITUTION (FOUR ARTICLES)" data-chapter="OF THE USE WHICH CHRIST MADE OF THIS SACRAMENT AT ITS INSTITUTION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="190" data-title="OF THE USE WHICH CHRIST MADE OF THIS SACRAMENT AT ITS INSTITUTION (FOUR ARTICLES)" data-chapter="OF THE USE WHICH CHRIST MADE OF THIS SACRAMENT AT ITS INSTITUTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the use which Christ made of this [sacrament](/concepts/sacrament) at its institution; under
 which heading there are four points of inquiry:
@@ -10543,7 +10543,7 @@ which heading there are four points of inquiry:
 (4) What would have been the condition of Christ's body under this sacrament, if it had been
 reserved or consecrated during the three days He lay dead?
 
-<span class="atom-split" data-atom="191" data-title="Whether Christ received His own body and blood?" data-chapter="Whether Christ received His own body and blood?" data-kind="atom"></span>
+<span class="atom-split" data-atom="191" data-title="Whether Christ received His own body and blood?" data-chapter="Whether Christ received His own body and blood?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ did not receive His own body and blood, because nothing
 ought to be asserted of either Christ's doings or sayings, which is not handed down by the authority
@@ -10601,7 +10601,7 @@ the sacrament which sacrament of His own body He both understood and prepared; y
 from others who partake of it both sacramentally and spiritually, for these receive an increase of
 grace, and they have need of the sacramental signs for perceiving its truth.
 
-<span class="atom-split" data-atom="192" data-title="Whether Christ gave His body to Judas?" data-chapter="Whether Christ gave His body to Judas?" data-kind="atom"></span>
+<span class="atom-split" data-atom="192" data-title="Whether Christ gave His body to Judas?" data-chapter="Whether Christ gave His body to Judas?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ did not give His body to Judas. Because, as we read (Mat.
 26:29), our Lord, after giving His body and blood to the disciples, said to them: "I will not drink
@@ -10664,7 +10664,7 @@ distributed the [sacrament](/concepts/sacrament) of His body and blood to all Hi
 as Luke narrates: and after that, we came to this, where, according to the relation of John, our Lord,
 by dipping and handing the morsel, does most openly declare His betrayer."
 
-<span class="atom-split" data-atom="193" data-title="Whether Christ received and gave to the disciples His impassible body?" data-chapter="Whether Christ received and gave to the disciples His impassible body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="193" data-title="Whether Christ received and gave to the disciples His impassible body?" data-chapter="Whether Christ received and gave to the disciples His impassible body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ both received and gave to the disciples His impassible body.
 Because on Mat. 17:2, "He was transfigured before them," the gloss says: "He gave to the disciples
@@ -10720,7 +10720,7 @@ sacrament by real concomitance, but not by the power of the sacrament, whereby t
 Christ's body comes to be there. And therefore the power of the sacramental words extends to this,
 that the body, i.e. Christ's, is under this sacrament, whatever accidents really exist in it.
 
-<span class="atom-split" data-atom="194" data-title="Whether, if this sacrament had been reserved in a pyx, or consecrated at the moment of Christ's death by one of the apostles, Christ Himself would have died there?" data-chapter="Whether, if this sacrament had been reserved in a pyx, or consecrated at the moment of Christ's death by one of the apostles, Christ Himself would have died there?" data-kind="atom"></span>
+<span class="atom-split" data-atom="194" data-title="Whether, if this sacrament had been reserved in a pyx, or consecrated at the moment of Christ's death by one of the apostles, Christ Himself would have died there?" data-chapter="Whether, if this sacrament had been reserved in a pyx, or consecrated at the moment of Christ's death by one of the apostles, Christ Himself would have died there?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that if this [sacrament](/concepts/sacrament) had been reserved in a pyx at the moment of Christ's
 death, or had then been consecrated by one of the apostles, that Christ would not have died there.
@@ -10768,7 +10768,7 @@ His soul was really separated from His body, Christ's soul would not have been u
 not from any defect in the form of the words, but owing to the different dispositions of the thing
 contained.
 
-<span class="atom-split" data-atom="195" data-title="OF THE MINISTER OF THIS SACRAMENT (TEN ARTICLES)" data-chapter="OF THE MINISTER OF THIS SACRAMENT (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="195" data-title="OF THE MINISTER OF THIS SACRAMENT (TEN ARTICLES)" data-chapter="OF THE MINISTER OF THIS SACRAMENT (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We now proceed to consider the minister of this [sacrament](/concepts/sacrament): under which head there are ten
 points for our inquiry:
@@ -10785,7 +10785,7 @@ points for our inquiry:
 [*This is the order observed by St. Thomas in writing the Articles; but in writing this prologue,
 he placed Article 10 immediately after Article 4 (Cf. Leonine edition).]
 
-<span class="atom-split" data-atom="196" data-title="Whether the consecration of this sacrament belongs to a priest alone?" data-chapter="Whether the consecration of this sacrament belongs to a priest alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="196" data-title="Whether the consecration of this sacrament belongs to a priest alone?" data-chapter="Whether the consecration of this sacrament belongs to a priest alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the consecration of this [sacrament](/concepts/sacrament) does not belong exclusively to a
 priest. Because it was said above (Q[78], A[4]) that this sacrament is consecrated in virtue of the
@@ -10848,7 +10848,7 @@ vestments, and sacred vessels, makes such things fit for use in performing the s
 belong to the priestly duty, therefore such consecrations are reserved to the bishop as the head
 of the whole ecclesiastical order.
 
-<span class="atom-split" data-atom="197" data-title="Whether several priests can consecrate one and the same host?" data-chapter="Whether several priests can consecrate one and the same host?" data-kind="atom"></span>
+<span class="atom-split" data-atom="197" data-title="Whether several priests can consecrate one and the same host?" data-chapter="Whether several priests can consecrate one and the same host?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that several priests cannot consecrate one and the same host. For it was
 said above (Q[67], A[6]), that several cannot at the same time baptize one individual. But the power
@@ -10885,7 +10885,7 @@ the Church must be observed.
 Reply to Objection 3: The Eucharist is the sacrament of ecclesiastical unity, which is brought
 about by many being "one in Christ."
 
-<span class="atom-split" data-atom="198" data-title="Whether dispensing of this sacrament belongs to a priest alone?" data-chapter="Whether dispensing of this sacrament belongs to a priest alone?" data-kind="atom"></span>
+<span class="atom-split" data-atom="198" data-title="Whether dispensing of this sacrament belongs to a priest alone?" data-chapter="Whether dispensing of this sacrament belongs to a priest alone?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the dispensing of this [sacrament](/concepts/sacrament) does not belong to a priest alone.
 For Christ's blood belongs to this sacrament no less than His body. But Christ's blood is dispensed
@@ -10935,7 +10935,7 @@ Reply to Objection 3: As the deacon, in a measure, shares in the priest's "power
 in himself by union with Christ. But other perfections whereby a man is perfected in relation to
 others, are reserved to the bishop.
 
-<span class="atom-split" data-atom="199" data-title="Whether the priest who consecrates is bound to receive this sacrament?" data-chapter="Whether the priest who consecrates is bound to receive this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="199" data-title="Whether the priest who consecrates is bound to receive this sacrament?" data-chapter="Whether the priest who consecrates is bound to receive this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the priest who consecrates is not bound to receive this [sacrament](/concepts/sacrament).
 Because, in the other consecrations, he who consecrates the matter does not use it, just as the bishop
@@ -10989,7 +10989,7 @@ of the cross." Nor does the priest transgress on that account, because miraculou
 subject to human laws. Nevertheless the priest would be well advised to consecrate again and
 receive the Lord's body and blood.
 
-<span class="atom-split" data-atom="200" data-title="Whether a wicked priest can consecrate the Eucharist?" data-chapter="Whether a wicked priest can consecrate the Eucharist?" data-kind="atom"></span>
+<span class="atom-split" data-atom="200" data-title="Whether a wicked priest can consecrate the Eucharist?" data-chapter="Whether a wicked priest can consecrate the Eucharist?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a wicked priest cannot consecrate the Eucharist. For Jerome,
 commenting on Sophon. iii, 4, says: "The priests who perform the Eucharist, and who distribute
@@ -11050,7 +11050,7 @@ inasmuch as he acts unworthily is deserving of a curse, and is reputed an infamy
 and not a prayer; whereas, inasmuch as it is pronounced in the person of Christ, it is holy and
 efficacious. Hence it is said with significance: "I will curse your blessings."
 
-<span class="atom-split" data-atom="201" data-title="Whether the mass of a sinful priest is of less worth than the mass of a good priest?" data-chapter="Whether the mass of a sinful priest is of less worth than the mass of a good priest?" data-kind="atom"></span>
+<span class="atom-split" data-atom="201" data-title="Whether the mass of a sinful priest is of less worth than the mass of a good priest?" data-chapter="Whether the mass of a sinful priest is of less worth than the mass of a good priest?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the mass of a sinful priest is not of less worth than that of a good
 priest. For Pope Gregory says in the Register: "Alas, into what a great snare they fall who believe
@@ -11098,7 +11098,7 @@ one the blessings of Christ's members on account of their being united in charit
 in the mass of a good priest is fruitful to others. But the private evil of one man cannot hurt another,
 except the latter, in some way, consent, as Augustine says (Contra Parmen. ii).
 
-<span class="atom-split" data-atom="202" data-title="Whether heretics, schismatics, and excommunicated persons can consecrate?" data-chapter="Whether heretics, schismatics, and excommunicated persons can consecrate?" data-kind="atom"></span>
+<span class="atom-split" data-atom="202" data-title="Whether heretics, schismatics, and excommunicated persons can consecrate?" data-chapter="Whether heretics, schismatics, and excommunicated persons can consecrate?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that heretics, schismatics, and excommunicated persons are not able to
 consecrate the Eucharist. For [Augustine](/figures/augustine) says (Liber sentent. Prosperi xv) that "there is no such
@@ -11158,7 +11158,7 @@ the unity of the Church celebrates mass, not having lost the power of order, he 
 true body and blood; but because he is severed from the unity of the Church, his prayers have no
 efficacy.
 
-<span class="atom-split" data-atom="203" data-title="Whether a degraded priest can consecrate this sacrament?" data-chapter="Whether a degraded priest can consecrate this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="203" data-title="Whether a degraded priest can consecrate this sacrament?" data-chapter="Whether a degraded priest can consecrate this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that a degraded priest cannot consecrate this [sacrament](/concepts/sacrament). For no one can
 perform this sacrament except he have the power of consecrating. But the priest "who has been
@@ -11200,7 +11200,7 @@ Reply to Objection 3: Excommunication is medicinal. And therefore the ministry o
 power is not taken away from the excommunicate, as it were, perpetually, but only for a time, that
 they may mend; but the exercise is withdrawn from the degraded, as though condemned perpetually.
 
-<span class="atom-split" data-atom="204" data-title="Whether it is permissible to receive communion from heretical, excommunicate, or sinful priests, and to hear mass said by them?" data-chapter="Whether it is permissible to receive communion from heretical, excommunicate, or sinful priests, and to hear mass said by them?" data-kind="atom"></span>
+<span class="atom-split" data-atom="204" data-title="Whether it is permissible to receive communion from heretical, excommunicate, or sinful priests, and to hear mass said by them?" data-chapter="Whether it is permissible to receive communion from heretical, excommunicate, or sinful priests, and to hear mass said by them?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that one may lawfully receive Communion from heretical, excommunicate,
 or even sinful priests, and to hear mass said by them. Because, as [Augustine](/figures/augustine) says (Contra Petilian.
@@ -11258,7 +11258,7 @@ understood of one who is notorious, either from being convicted and sentenced, o
 acknowledged his guilt in legal form, or from it being impossible to conceal his guilt by any
 subterfuge.
 
-<span class="atom-split" data-atom="205" data-title="Whether it is lawful for a priest to refrain entirely from consecrating the Eucharist?" data-chapter="Whether it is lawful for a priest to refrain entirely from consecrating the Eucharist?" data-kind="atom"></span>
+<span class="atom-split" data-atom="205" data-title="Whether it is lawful for a priest to refrain entirely from consecrating the Eucharist?" data-chapter="Whether it is lawful for a priest to refrain entirely from consecrating the Eucharist?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems to be lawful for a priest to refrain entirely from consecrating the Eucharist.
 Because, as it is the priest's office to consecrate the Eucharist, so it is likewise to baptize and
@@ -11315,7 +11315,7 @@ loathsomeness, as is evident in the case of a leper, who ought not to celebrate 
 however, say mass privately, unless the leprosy has gone so far that it has rendered him incapable
 owing to the wasting away of his limbs.
 
-<span class="atom-split" data-atom="206" data-title="OF THE RITE OF THIS SACRAMENT (SIX ARTICLES)" data-chapter="OF THE RITE OF THIS SACRAMENT (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="206" data-title="OF THE RITE OF THIS SACRAMENT (SIX ARTICLES)" data-chapter="OF THE RITE OF THIS SACRAMENT (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We have now to consider the Rite of this [sacrament](/concepts/sacrament), under which head there are six points of
 inquiry:
@@ -11326,7 +11326,7 @@ inquiry:
 (5) Of the actions performed in celebrating this mystery.
 (6) Of the defects which occur in the celebration of this sacrament.
 
-<span class="atom-split" data-atom="207" data-title="Whether Christ is sacrificed in this sacrament?" data-chapter="Whether Christ is sacrificed in this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="207" data-title="Whether Christ is sacrificed in this sacrament?" data-chapter="Whether Christ is sacrificed in this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that Christ is not sacrificed in the celebration of this [sacrament](/concepts/sacrament). For it is
 written (Heb. 10:14) that "Christ by one oblation hath perfected for ever them that are sanctified."
@@ -11375,7 +11375,7 @@ image, in Whose person and by Whose power he pronounces the words of consecratio
 from what was said above (Q[82], AA[1],3). And so, in a measure, the priest and victim are one
 and the same.
 
-<span class="atom-split" data-atom="208" data-title="Whether the time for celebrating this mystery has been properly determined? (1/2)" data-chapter="Whether the time for celebrating this mystery has been properly determined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="208" data-title="Whether the time for celebrating this mystery has been properly determined? (1/2)" data-chapter="Whether the time for celebrating this mystery has been properly determined?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the time for celebrating this mystery has not been properly determined.
 For as was observed above (A[1]), this [sacrament](/concepts/sacrament) is representative of our Lord's Passion. But the
@@ -11479,7 +11479,7 @@ was born in the night (De Consecr., dist. 1). And in like manner it is celebrate
 towards the beginning of the night, since our Lord rose in the night, that is, "when it was yet dark,
 before the sun's rising was manifest."
 
-<span class="atom-split" data-atom="209" data-title="Whether the time for celebrating this mystery has been properly determined? (2/2)" data-chapter="Whether the time for celebrating this mystery has been properly determined?" data-kind="atom"></span>
+<span class="atom-split" data-atom="209" data-title="Whether the time for celebrating this mystery has been properly determined? (2/2)" data-chapter="Whether the time for celebrating this mystery has been properly determined?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: As is set down in the decree (De Consecr., dist. 1), in virtue of a decree
 of Pope Alexander II, "it is enough for a priest to celebrate one mass each day, because Christ
@@ -11490,7 +11490,7 @@ for the sake of money, or to gain flattery from the laity." And Pope Innocent II
 Celebr. Miss., chap. Consuluisti) that "except on the day of our Lord's birth, unless necessity urges,
 it suffices for a priest to celebrate only one mass each day."
 
-<span class="atom-split" data-atom="210" data-title="Whether this sacrament ought to be celebrated in a house and with sacred vessels? (1/2)" data-chapter="Whether this sacrament ought to be celebrated in a house and with sacred vessels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="210" data-title="Whether this sacrament ought to be celebrated in a house and with sacred vessels? (1/2)" data-chapter="Whether this sacrament ought to be celebrated in a house and with sacred vessels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that this [sacrament](/concepts/sacrament) ought not to be celebrated in a house and with sacred
 vessels. For this sacrament is a [representation](/concepts/idea) of our Lord's Passion. But Christ did not suffer in a
@@ -11592,7 +11592,7 @@ are hidden with Christ in God" (Col. 3:3). Accordingly under the same distinctio
 our pleasure that altars, in which no relics of saints are found enclosed, be thrown down, if possible,
 by the bishops presiding over such places."
 
-<span class="atom-split" data-atom="211" data-title="Whether this sacrament ought to be celebrated in a house and with sacred vessels? (2/2)" data-chapter="Whether this sacrament ought to be celebrated in a house and with sacred vessels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="211" data-title="Whether this sacrament ought to be celebrated in a house and with sacred vessels? (2/2)" data-chapter="Whether this sacrament ought to be celebrated in a house and with sacred vessels?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The church, altar, and other like inanimate things are consecrated, not
 because they are capable of receiving grace, but because they acquire special spiritual virtue from
@@ -11671,7 +11671,7 @@ consecrating, then, without every one of the things mentioned above---namely, wi
 altar, consecrated chalice and corporal, and the other things instituted by the Church---he consecrates
 Christ's body in very truth; yet he is guilty of grave sin, in not following the rite of the Church.
 
-<span class="atom-split" data-atom="212" data-title="Whether the words spoken in this sacrament are properly framed? (1/3)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="212" data-title="Whether the words spoken in this sacrament are properly framed? (1/3)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the words spoken in this [sacrament](/concepts/sacrament) are not properly framed. For, as
 Ambrose says (De Sacram. iv), this sacrament is consecrated with Christ's own words. Therefore
@@ -11719,7 +11719,7 @@ according to the flesh, and Basil, bishop of Caesarea, edited the rite of celebr
 from their authority it is manifest that whatever words are employed in this matter, are chosen
 becomingly.
 
-<span class="atom-split" data-atom="213" data-title="Whether the words spoken in this sacrament are properly framed? (2/3)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="213" data-title="Whether the words spoken in this sacrament are properly framed? (2/3)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom" data-srclang="en"></span>
 
 I answer that, Since the whole mystery of our salvation is comprised in this [sacrament](/concepts/sacrament), therefore
 is it performed with greater solemnity than the other sacraments. And since it is written (Eccles.
@@ -11817,7 +11817,7 @@ Reply to Objection 3: The Eucharist is the sacrament of the unity of the whole C
 therefore in this sacrament, more than in the others, mention ought to be made of all that belongs
 to the salvation of the entire Church.
 
-<span class="atom-split" data-atom="214" data-title="Whether the words spoken in this sacrament are properly framed? (3/3)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom"></span>
+<span class="atom-split" data-atom="214" data-title="Whether the words spoken in this sacrament are properly framed? (3/3)" data-chapter="Whether the words spoken in this sacrament are properly framed?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: There is a twofold instruction in the Faith: the first is for those receiving
 it for the first time, that is to say, for catechumens, and such instruction is given in connection with
@@ -11888,7 +11888,7 @@ sent [missa] to us: accordingly the deacon on festival days "dismisses" the peop
 mass, by saying: "Ite, missa est," that is, the victim has been sent [missa est] to God through the
 angel, so that it may be accepted by God.
 
-<span class="atom-split" data-atom="215" data-title="Whether the actions performed in celebrating this sacrament are becoming? (1/2)" data-chapter="Whether the actions performed in celebrating this sacrament are becoming?" data-kind="atom"></span>
+<span class="atom-split" data-atom="215" data-title="Whether the actions performed in celebrating this sacrament are becoming? (1/2)" data-chapter="Whether the actions performed in celebrating this sacrament are becoming?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the actions performed in celebrating this mystery are not becoming.
 For, as is evident from its form, this [sacrament](/concepts/sacrament) belongs to the New Testament. But under the New
@@ -11985,7 +11985,7 @@ to the faithful by the work of His ministers, according to 2 Cor. 2:14: "He mani
 his knowledge by us in every place"; and therefore when the altar which represents Christ, has been
 incensed on every side, then all are incensed in their proper order.
 
-<span class="atom-split" data-atom="216" data-title="Whether the actions performed in celebrating this sacrament are becoming? (2/2)" data-chapter="Whether the actions performed in celebrating this sacrament are becoming?" data-kind="atom"></span>
+<span class="atom-split" data-atom="216" data-title="Whether the actions performed in celebrating this sacrament are becoming? (2/2)" data-chapter="Whether the actions performed in celebrating this sacrament are becoming?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: The priest, in celebrating the mass, makes use of the sign of the cross
 to signify Christ's Passion which was ended upon the cross. Now, Christ's Passion was accomplished
@@ -12069,7 +12069,7 @@ What is kept, those at rest."
 Others, however, say that the part put into the chalice denotes those still living in this world.
 while the part kept outside the chalice denotes those fully blessed both in [soul and body](/axes/soul_body); while the
 
-<span class="atom-split" data-atom="217" data-title="part consumed means the others." data-chapter="part consumed means the others." data-kind="atom"></span>
+<span class="atom-split" data-atom="217" data-title="part consumed means the others." data-chapter="part consumed means the others." data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 9: Two things can be signified by the chalice: first, the Passion itself, which
 is represented in this [sacrament](/concepts/sacrament), and according to this, by the part put into the chalice are denoted
@@ -12107,7 +12107,7 @@ of greater solemnity that we find it decreed (De Consecr. dist. 1) that a bishop
 with several assistants. Nevertheless, in private masses it suffices to have one server, who takes
 the place of the whole Catholic people, on whose behalf he makes answer in the plural to the priest.
 
-<span class="atom-split" data-atom="218" data-title="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes? (1/2)" data-chapter="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes?" data-kind="atom"></span>
+<span class="atom-split" data-atom="218" data-title="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes? (1/2)" data-chapter="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It seems that the defects occurring during the celebration of this [sacrament](/concepts/sacrament) cannot
 be sufficiently met by observing the statutes of the Church. For it sometimes happens that before
@@ -12199,7 +12199,7 @@ life-giving chalice become one of death, but it ought to be kept in a suitable v
 and in order that the sacrament may not remain incomplete, he ought to put other wine into the
 chalice, resume the mass from the consecration of the blood, and complete the sacrifice.
 
-<span class="atom-split" data-atom="219" data-title="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes? (2/2)" data-chapter="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes?" data-kind="atom"></span>
+<span class="atom-split" data-atom="219" data-title="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes? (2/2)" data-chapter="Whether the defects occurring during the celebration of this sacrament can be sufficiently met by observing the Church's statutes?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: If before the consecration of the blood, and after the consecration of the
 body the priest detect that either the wine or the water is absent, then he ought at once to add them
@@ -12270,7 +12270,7 @@ there so long as the species last, as stated above (Q[77], AA[4],5). But if it c
 the things in which they are found are to be burned, and the ashes put in the sacrarium, as was said
 of the scrapings of the altar-table, here above.
 
-<span class="atom-split" data-atom="220" data-title="OF THE SACRAMENT OF PENANCE (TEN ARTICLES)" data-chapter="OF THE SACRAMENT OF PENANCE (TEN ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="220" data-title="OF THE SACRAMENT OF PENANCE (TEN ARTICLES)" data-chapter="OF THE SACRAMENT OF PENANCE (TEN ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the [Sacrament](/concepts/sacrament) of Penance. We shall consider (1) Penance itself; (2) Its
 effect; (3) Its Parts; (4) The recipients of this sacrament; (5) The power of the ministers, which
@@ -12289,7 +12289,7 @@ Under the first head there are ten points of inquiry:
 (9) Of its continuance;
 (10) Whether it can be repeated?
 
-<span class="atom-split" data-atom="221" data-title="Whether Penance is a sacrament?" data-chapter="Whether Penance is a sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="221" data-title="Whether Penance is a sacrament?" data-chapter="Whether Penance is a sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Penance is not a [sacrament](/concepts/sacrament). For Gregory [*Cf. Isidore, Etym.
 vi, ch. 19] says: "The sacraments are Baptism, Chrism, and the Body and Blood of Christ; which
@@ -12350,7 +12350,7 @@ which is reality and sacrament is the sinner's inward repentance; while that whi
 not sacrament, is the forgiveness of sin. The first of these taken altogether is the cause of the second;
 and the first and second together are the cause of the third.
 
-<span class="atom-split" data-atom="222" data-title="Whether sins are the proper matter of this sacrament?" data-chapter="Whether sins are the proper matter of this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="222" data-title="Whether sins are the proper matter of this sacrament?" data-chapter="Whether sins are the proper matter of this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sins are not the proper matter of this [sacrament](/concepts/sacrament). Because, in
 the other sacraments, the matter is hallowed by the utterance of certain words, and being thus
@@ -12395,7 +12395,7 @@ will, except in so far as Adam's will is looked upon as ours, in which sense the
 take it in a wide sense for any detestation of something past: in which sense Augustine uses the
 term in his book De Poenitentia (Serm. cccli).
 
-<span class="atom-split" data-atom="223" data-title="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;? (1/2)" data-chapter="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="223" data-title="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;? (1/2)" data-chapter="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the form of this sacrament is: "I absolve thee"?
 
@@ -12489,7 +12489,7 @@ in the latter case they did not always use the deprecatory form, but sometimes e
 indicative or imperative: thus we read (Acts 3:6) that Peter said to the lame man: "What I have, I
 give thee: In the name of Jesus Christ of Nazareth, arise and walk."
 
-<span class="atom-split" data-atom="224" data-title="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;? (2/2)" data-chapter="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;?" data-kind="atom"></span>
+<span class="atom-split" data-atom="224" data-title="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;? (2/2)" data-chapter="Whether the form of this sacrament is: \&quot;I absolve thee\&quot;?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the form of this sacrament is: "I absolve thee"?
 
@@ -12510,7 +12510,7 @@ is said to have been made to Peter.
 It would be a more complete explanation to say that the words, "I absolve thee" mean: "I grant
 thee the sacrament of absolution."
 
-<span class="atom-split" data-atom="225" data-title="Whether the imposition of the priest's hands is necessary for this sacrament?" data-chapter="Whether the imposition of the priest's hands is necessary for this sacrament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="225" data-title="Whether the imposition of the priest's hands is necessary for this sacrament?" data-chapter="Whether the imposition of the priest's hands is necessary for this sacrament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the imposition of the priest's hands is necessary for this
 [sacrament](/concepts/sacrament). For it is written (Mk. 16:18): "They shall lay hands upon the sick, and they shall recover."
@@ -12567,7 +12567,7 @@ sign of the cross, which is employed in the Eucharist, would not be less becomin
 of hands, in token that sins are forgiven through the blood of Christ crucified; and yet this is not
 essential to this sacrament as neither is it to the Eucharist.
 
-<span class="atom-split" data-atom="226" data-title="Whether this sacrament is necessary for salvation?" data-chapter="Whether this sacrament is necessary for salvation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="226" data-title="Whether this sacrament is necessary for salvation?" data-chapter="Whether this sacrament is necessary for salvation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) is not necessary for salvation. Because on Ps.
 125:5, "They that sow in tears," etc., the gloss says: "Be not sorrowful, if thou hast a good will, of
@@ -12622,7 +12622,7 @@ above (Q[64], A[3]), that Christ bestowed on the adulterous woman the effect of 
 Penance, viz. the forgiveness of sins, without the sacrament of Penance, although not without
 internal repentance, which He operated in her by grace.
 
-<span class="atom-split" data-atom="227" data-title="Whether Penance is a second plank after shipwreck?" data-chapter="Whether Penance is a second plank after shipwreck?" data-kind="atom"></span>
+<span class="atom-split" data-atom="227" data-title="Whether Penance is a second plank after shipwreck?" data-chapter="Whether Penance is a second plank after shipwreck?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Penance is not a second plank after shipwreck. Because on Is.
 3:9, "They have proclaimed abroad their sin as Sodom," a gloss says: "The second plank after
@@ -12674,7 +12674,7 @@ Baptism is not the [sacrament](/concepts/sacrament) of Penance.
 Reply to Objection 3: The three sacraments which precede Penance refer to the ship in its
 integrity, i.e. to man's state of integrity, with regard to which Penance is called a second plank.
 
-<span class="atom-split" data-atom="228" data-title="Whether this sacrament was suitably instituted in the New Law?" data-chapter="Whether this sacrament was suitably instituted in the New Law?" data-kind="atom"></span>
+<span class="atom-split" data-atom="228" data-title="Whether this sacrament was suitably instituted in the New Law?" data-chapter="Whether this sacrament was suitably instituted in the New Law?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that this [sacrament](/concepts/sacrament) was unsuitably instituted in the [New Law](/concepts/divine_law).
 Because those things which belong to the [natural law](/positions/natural_law) need not to be instituted. Now it belongs to
@@ -12767,7 +12767,7 @@ both received and gave to others the sacrament of the Eucharist, both in order t
 excellence of that sacrament, and because that sacrament is a memorial of His Passion, in which
 Christ is both priest and victim.
 
-<span class="atom-split" data-atom="229" data-title="Whether Penance should last till the end of life?" data-chapter="Whether Penance should last till the end of life?" data-kind="atom"></span>
+<span class="atom-split" data-atom="229" data-title="Whether Penance should last till the end of life?" data-chapter="Whether Penance should last till the end of life?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that Penance should not last till [the end of life](/axes/end_of_life). Because Penance
 is ordained for the blotting out of sin. Now the penitent receives forgiveness of his sins at once,
@@ -12812,7 +12812,7 @@ to be called an apostle because I persecuted the Church of God."
 Reply to Objection 3: These durations of time are fixed for penitents as regards the exercise
 of external penance.
 
-<span class="atom-split" data-atom="230" data-title="Whether Penance can be continuous?" data-chapter="Whether Penance can be continuous?" data-kind="atom"></span>
+<span class="atom-split" data-atom="230" data-title="Whether Penance can be continuous?" data-chapter="Whether Penance can be continuous?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that penance cannot be continuous. For it is written (Jer. 31:16):
 "Let thy voice cease from weeping, and thy eyes from tears." But this would be impossible if
@@ -12873,7 +12873,7 @@ virtue, and if it be excessive it is sinful, because it leads to despair, as the
 2:7), saying: "Lest such an one be swallowed up with overmuch sorrow." Accordingly comfort, of
 which the Apostle speaks, moderates sorrow but does not destroy it altogether.
 
-<span class="atom-split" data-atom="231" data-title="Whether the sacrament of Penance may be repeated?" data-chapter="Whether the sacrament of Penance may be repeated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="231" data-title="Whether the sacrament of Penance may be repeated?" data-chapter="Whether the sacrament of Penance may be repeated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the [sacrament](/concepts/sacrament) of Penance should not be repeated. For the
 Apostle says (Heb. 6:4, seqq.): "It is impossible for those, who were once illuminated, have tasted
@@ -12982,7 +12982,7 @@ Reply to Objection 6: According to Augustine (De vera et falsa Poenitentia, the 
 which is unknown), "it is evident that sins displease God exceedingly, for He is always ready to
 destroy them, lest what He created should perish, and what He loved be lost," viz. by despair.
 
-<span class="atom-split" data-atom="232" data-title="OF PENANCE AS A VIRTUE (SIX ARTICLES)" data-chapter="OF PENANCE AS A VIRTUE (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="232" data-title="OF PENANCE AS A VIRTUE (SIX ARTICLES)" data-chapter="OF PENANCE AS A VIRTUE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider penance as a virtue, under which head there are six points of inquiry:
 (1) Whether penance is a virtue?
@@ -12992,7 +12992,7 @@ We must now consider penance as a virtue, under which head there are six points 
 (5) Of its cause;
 (6) Of its relation to the other virtues.
 
-<span class="atom-split" data-atom="233" data-title="Whether Penance is a virtue?" data-chapter="Whether Penance is a virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="233" data-title="Whether Penance is a virtue?" data-chapter="Whether Penance is a virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that penance is not a virtue. For penance is a [sacrament](/concepts/sacrament) numbered
 among the other sacraments, as was shown above (Q[84], A[1]; Q[65], A[1]). Now no other
@@ -13043,7 +13043,7 @@ with the intention of trying to make it not done. But the penitent does not inte
 is displeasure or disapproval with regard to the past deed, with the intention of removing its result,
 viz. the [anger](/concepts/anger) of God and the debt of punishment: and this is not foolish.
 
-<span class="atom-split" data-atom="234" data-title="Whether Penance is a special virtue?" data-chapter="Whether Penance is a special virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="234" data-title="Whether Penance is a special virtue?" data-chapter="Whether Penance is a special virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that penance is not a special virtue. For it seems that to rejoice at
 the good one has done, and to grieve for the evil one has done are acts of the same nature. But joy
@@ -13088,7 +13088,7 @@ effectively, inasmuch as it works for the destruction of sins, according as they
 through the grace of God if man co-operate therewith. Wherefore it does not follow that it is a
 general virtue.
 
-<span class="atom-split" data-atom="235" data-title="Whether the virtue of penance is a species of justice?" data-chapter="Whether the virtue of penance is a species of justice?" data-kind="atom"></span>
+<span class="atom-split" data-atom="235" data-title="Whether the virtue of penance is a species of justice?" data-chapter="Whether the virtue of penance is a species of justice?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the virtue of penance is not a species of justice. For justice is
 not a theological but a moral virtue, as was shown in the SS, Q[62], A[3]. But penance seems to
@@ -13167,7 +13167,7 @@ those which cause terror, which fortitude moderates, are objects of commutative 
 it belongs to justice both to abstain from pleasure, which belongs to temperance, and to bear with
 hardships, which belongs to fortitude.
 
-<span class="atom-split" data-atom="236" data-title="Whether the will is properly the subject of penance?" data-chapter="Whether the will is properly the subject of penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="236" data-title="Whether the will is properly the subject of penance?" data-chapter="Whether the will is properly the subject of penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the subject of penance is not properly the will. For penance is
 a species of sorrow. But sorrow is in the concupiscible part, even as joy is. Therefore penance is
@@ -13210,7 +13210,7 @@ Reply to Objection 4: The will, as stated above (FP, Q[82], A[4]; FS, Q[9], A[1]
 the other powers of the soul; so that it is not unreasonable for penance to be subjected in the will,
 and to produce an effect in each power of the soul.
 
-<span class="atom-split" data-atom="237" data-title="Whether penance originates from fear?" data-chapter="Whether penance originates from fear?" data-kind="atom"></span>
+<span class="atom-split" data-atom="237" data-title="Whether penance originates from fear?" data-chapter="Whether penance originates from fear?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that penance does not originate from fear. For penance originates
 in displeasure at sin. But this belongs to charity, as stated above (A[3]). Therefore penance originates
@@ -13259,7 +13259,7 @@ wherefore it is written (Dt. 5:29): "Who shall give them to have such a mind, to
 the fact that penance results from fear does not hinder its resulting from the act of God in turning
 the heart.
 
-<span class="atom-split" data-atom="238" data-title="Whether penance is the first of the virtues?" data-chapter="Whether penance is the first of the virtues?" data-kind="atom"></span>
+<span class="atom-split" data-atom="238" data-title="Whether penance is the first of the virtues?" data-chapter="Whether penance is the first of the virtues?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that penance is the first of the virtues. Because, on Mat. 3:2, "Do
 penance," etc., a gloss says: "The first virtue is to destroy the old man, and hate sin by means of
@@ -13326,7 +13326,7 @@ Under the first head there are six points of inquiry:
 (5) Whether any remnants of sin remain?
 (6) Whether the removal of sin is the effect of Penance as a virtue, or as a sacrament?
 
-<span class="atom-split" data-atom="239" data-title="Whether all sins are taken away by Penance?" data-chapter="Whether all sins are taken away by Penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="239" data-title="Whether all sins are taken away by Penance?" data-chapter="Whether all sins are taken away by Penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that not all sins are taken away by Penance. For the Apostle says
 (Heb. 12:17) that Esau "found no place of repentance, although with tears he had sought it," which
@@ -13387,7 +13387,7 @@ against the Holy Ghost is unpardonable, i.e. not easily pardonable, or that such
 in itself any motive for pardon, or that for such a sin a man is punished both in this and in the next
 world, as we explained in the SS, Q[14], A[3].
 
-<span class="atom-split" data-atom="240" data-title="Whether sin can be pardoned without Penance?" data-chapter="Whether sin can be pardoned without Penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="240" data-title="Whether sin can be pardoned without Penance?" data-chapter="Whether sin can be pardoned without Penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sin can be pardoned without Penance. For the power of God
 is no less with regard to adults than with regard to children. But He pardons the sins of children
@@ -13440,7 +13440,7 @@ Reply to Objection 2: This argument takes Penance as a sacrament.
 Reply to Objection 3: God's mercy is more powerful than man's, in that it moves man's will
 to repent, which man's mercy cannot do.
 
-<span class="atom-split" data-atom="241" data-title="Whether by Penance one sin can be pardoned without another?" data-chapter="Whether by Penance one sin can be pardoned without another?" data-kind="atom"></span>
+<span class="atom-split" data-atom="241" data-title="Whether by Penance one sin can be pardoned without another?" data-chapter="Whether by Penance one sin can be pardoned without another?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that by Penance one sin can be pardoned without another. For it
 is written (Amos 4:7): "I caused it to rain upon one city, and caused it not to rain upon another city;
@@ -13520,7 +13520,7 @@ good of glory from which man is excluded by any mortal sin. but the love of grac
 sin is forgiven, ordains man to eternal life, according to Rom. 6:23: "The grace of God (is) life
 everlasting." Hence there is no comparison.
 
-<span class="atom-split" data-atom="242" data-title="Whether the debt of punishment remains after the guilt has been forgiven through Penance?" data-chapter="Whether the debt of punishment remains after the guilt has been forgiven through Penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="242" data-title="Whether the debt of punishment remains after the guilt has been forgiven through Penance?" data-chapter="Whether the debt of punishment remains after the guilt has been forgiven through Penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that no debt of punishment remains after the guilt has been forgiven
 through Penance. For when the cause is removed, the effect is removed. But the guilt is the cause
@@ -13590,7 +13590,7 @@ above (Q[84], AA[1],3). Wherefore the entire debt of punishment is not remitted 
 first act of Penance, by which act the guilt is remitted, but only when all the acts of Penance have
 been completed.
 
-<span class="atom-split" data-atom="243" data-title="Whether the remnants of sin are removed when a mortal sin is forgiven?" data-chapter="Whether the remnants of sin are removed when a mortal sin is forgiven?" data-kind="atom"></span>
+<span class="atom-split" data-atom="243" data-title="Whether the remnants of sin are removed when a mortal sin is forgiven?" data-chapter="Whether the remnants of sin are removed when a mortal sin is forgiven?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all the remnants of sin are removed when a mortal sin is
 forgiven. For [Augustine](/figures/augustine) says in De Poenitentia [*De vera et falsa Poenitentia, the authorship of
@@ -13643,7 +13643,7 @@ stated in the Predicaments (Categor. viii) "a vicious man by doing good works wi
 acquired virtue." But God's grace does this much more effectively, whether by one or by several
 acts.
 
-<span class="atom-split" data-atom="244" data-title="Whether the forgiveness of guilt is an effect of Penance?" data-chapter="Whether the forgiveness of guilt is an effect of Penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="244" data-title="Whether the forgiveness of guilt is an effect of Penance?" data-chapter="Whether the forgiveness of guilt is an effect of Penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the forgiveness of guilt is not an effect of penance as a virtue.
 For penance is said to be a virtue, in so far as it is a principle of a human action. But human action
@@ -13703,7 +13703,7 @@ that grace is a higher cause of the forgiveness of sin than the sacrament of Pen
 must be observed that, under the Old Law and the law of nature, there was a sacrament of Penance
 after a fashion, as stated above (Q[84], A[7], ad 2).
 
-<span class="atom-split" data-atom="245" data-title="OF THE REMISSION OF VENIAL SIN (FOUR ARTICLES)" data-chapter="OF THE REMISSION OF VENIAL SIN (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="245" data-title="OF THE REMISSION OF VENIAL SIN (FOUR ARTICLES)" data-chapter="OF THE REMISSION OF VENIAL SIN (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the forgiveness of venial sins, under which head there are four points
 of inquiry:
@@ -13713,7 +13713,7 @@ of inquiry:
 beating of the breast, the Lord's Prayer, and the like?
 (4) Whether a venial sin can be taken away without a mortal sin?
 
-<span class="atom-split" data-atom="246" data-title="Whether venial sin can be forgiven without Penance?" data-chapter="Whether venial sin can be forgiven without Penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="246" data-title="Whether venial sin can be forgiven without Penance?" data-chapter="Whether venial sin can be forgiven without Penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that venial sin can be forgiven without penance. For, as stated
 above (Q[84], A[10], ad 4), it is essential to true penance that man should not only sorrow for his
@@ -13770,7 +13770,7 @@ attached to sin.
 Reply to Objection 3: The fervor of charity implies virtual displeasure at venial sins, as stated
 above (Q[79], A[4]).
 
-<span class="atom-split" data-atom="247" data-title="Whether infusion of grace is necessary for the remission of venial sins?" data-chapter="Whether infusion of grace is necessary for the remission of venial sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="247" data-title="Whether infusion of grace is necessary for the remission of venial sins?" data-chapter="Whether infusion of grace is necessary for the remission of venial sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that infusion of grace is necessary for the remission of venial sins.
 Because an effect is not produced without its proper cause. Now the proper cause of the remission
@@ -13818,7 +13818,7 @@ an infusion of grace is necessary for the removal of mortal sin, but in order to
 it is necessary to have a movement proceeding from grace, removing the inordinate attachment to
 the temporal thing.
 
-<span class="atom-split" data-atom="248" data-title="Whether venial sins are removed by the sprinkling of holy water and the like?" data-chapter="Whether venial sins are removed by the sprinkling of holy water and the like?" data-kind="atom"></span>
+<span class="atom-split" data-atom="248" data-title="Whether venial sins are removed by the sprinkling of holy water and the like?" data-chapter="Whether venial sins are removed by the sprinkling of holy water and the like?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that venial sins are not removed by the sprinkling of holy water,
 a bishop's blessing, and the like. For venial sins are not forgiven without Penance, as stated above
@@ -13871,7 +13871,7 @@ heaven if sprinkled with holy water: but the debt of punishment is remitted by m
 according to the movement of fervor towards God, which fervor is aroused by such things, sometimes
 more, sometimes less.
 
-<span class="atom-split" data-atom="249" data-title="Whether venial sin can be taken away without mortal sin?" data-chapter="Whether venial sin can be taken away without mortal sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="249" data-title="Whether venial sin can be taken away without mortal sin?" data-chapter="Whether venial sin can be taken away without mortal sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that venial sin can be taken away without mortal sin. For, on Jn.
 8:7: "He that is without sin among you, let him first cast a stone at her," a gloss says that "all those
@@ -13917,7 +13917,7 @@ ingratitude?
 (3) Whether the debt of punishment remains the same for sins thus returned?
 (4) Whether this ingratitude, on account of which sins return, is a special sin?
 
-<span class="atom-split" data-atom="250" data-title="Whether sins once forgiven return through a subsequent sin?" data-chapter="Whether sins once forgiven return through a subsequent sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="250" data-title="Whether sins once forgiven return through a subsequent sin?" data-chapter="Whether sins once forgiven return through a subsequent sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sins once forgiven return through a subsequent sin. For
 [Augustine](/figures/augustine) says (De Bapt. contra Donat. i, 12): "Our Lord teaches most explicitly in the Gospel that
@@ -14024,7 +14024,7 @@ Reply to Objection 4: Grace removes the stain and the debt of eternal punishment
 it covers the past sinful acts, lest, on their account, God deprive man of grace, and judge him
 deserving of eternal punishment; and what grace has once done, endures for ever.
 
-<span class="atom-split" data-atom="251" data-title="Whether sins that have been forgiven, return through ingratitude which is shown especially in four kinds of sin?" data-chapter="Whether sins that have been forgiven, return through ingratitude which is shown especially in four kinds of sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="251" data-title="Whether sins that have been forgiven, return through ingratitude which is shown especially in four kinds of sin?" data-chapter="Whether sins that have been forgiven, return through ingratitude which is shown especially in four kinds of sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that sins do not return through ingratitude, which is shown especially
 in four kinds of sin, viz., hatred of one's neighbor, apostasy from faith, contempt of confession and
@@ -14094,7 +14094,7 @@ the recipient, who is less worthy, wherefore a greater favor is bestowed on him,
 more ungrateful if he scorns it. In this way the favor of the pardon of sins is greater when bestowed
 on one who is altogether unworthy, so that the ingratitude which follows is all the greater.
 
-<span class="atom-split" data-atom="252" data-title="Whether the debt of punishment that arises through ingratitude in respect of a subsequent sin is as great as that of the sins previously pardoned?" data-chapter="Whether the debt of punishment that arises through ingratitude in respect of a subsequent sin is as great as that of the sins previously pardoned?" data-kind="atom"></span>
+<span class="atom-split" data-atom="252" data-title="Whether the debt of punishment that arises through ingratitude in respect of a subsequent sin is as great as that of the sins previously pardoned?" data-chapter="Whether the debt of punishment that arises through ingratitude in respect of a subsequent sin is as great as that of the sins previously pardoned?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the debt of punishment arising through ingratitude in respect
 of a subsequent sin is as great as that of the sins previously pardoned. Because the greatness of the
@@ -14157,7 +14157,7 @@ Reply to Objection 3: He whose forgiven sins return to him on account of subsequ
 ingratitude, incurs the debt for all, in so far as the measure of his previous sins is contained
 proportionally in his subsequent ingratitude, but not absolutely, as stated above.
 
-<span class="atom-split" data-atom="253" data-title="Whether the ingratitude whereby a subsequent sin causes the return of previous sins, is a special sin?" data-chapter="Whether the ingratitude whereby a subsequent sin causes the return of previous sins, is a special sin?" data-kind="atom"></span>
+<span class="atom-split" data-atom="253" data-title="Whether the ingratitude whereby a subsequent sin causes the return of previous sins, is a special sin?" data-chapter="Whether the ingratitude whereby a subsequent sin causes the return of previous sins, is a special sin?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the ingratitude, whereby a subsequent sin causes the return of
 sins previously forgiven, is a special sin. For the giving of thanks belongs to counterpassion which
@@ -14190,7 +14190,7 @@ This suffices for the Replies to the Objections: for the first (three) objection
 ingratitude is in itself a special sin; while the last objection proves that ingratitude, as included in
 every sin, is not a special sin.
 
-<span class="atom-split" data-atom="254" data-title="OF THE RECOVERY OF VIRTUE BY MEANS OF PENANCE (SIX ARTICLES)" data-chapter="OF THE RECOVERY OF VIRTUE BY MEANS OF PENANCE (SIX ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="254" data-title="OF THE RECOVERY OF VIRTUE BY MEANS OF PENANCE (SIX ARTICLES)" data-chapter="OF THE RECOVERY OF VIRTUE BY MEANS OF PENANCE (SIX ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the recovery of virtues by means of Penance, under which head there
 are six points of inquiry:
@@ -14201,7 +14201,7 @@ are six points of inquiry:
 (5) Whether works deadened by sin revive through Penance?
 (6) Whether dead works, i.e. works that are done without charity, are quickened by Penance?
 
-<span class="atom-split" data-atom="255" data-title="Whether the virtues are restored through Penance?" data-chapter="Whether the virtues are restored through Penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="255" data-title="Whether the virtues are restored through Penance?" data-chapter="Whether the virtues are restored through Penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the virtues are not restored through penance. Because lost
 virtue cannot be restored by penance, unless penance be the cause of virtue. But, since penance is
@@ -14250,7 +14250,7 @@ inclination itself of charity and of the other virtues is concerned, the peniten
 virtue with pleasure and ease. even as a virtuous man may accidentally find it hard to do an act of
 virtue, on account of sleepiness or some indisposition of the body.
 
-<span class="atom-split" data-atom="256" data-title="Whether, after Penance, man rises again to equal virtue?" data-chapter="Whether, after Penance, man rises again to equal virtue?" data-kind="atom"></span>
+<span class="atom-split" data-atom="256" data-title="Whether, after Penance, man rises again to equal virtue?" data-chapter="Whether, after Penance, man rises again to equal virtue?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that, after Penance, man rises again to equal virtue. For the Apostle
 says (Rom. 8:28): "To them that love God all things work together unto good," whereupon a gloss
@@ -14317,7 +14317,7 @@ for one begins with a greater grace than another has in [the state](/concepts/st
 (Dial. ii, 1): "Let all, both now and hereafter, acknowledge how perfectly the boy Benedict turned
 to the life of grace from the very beginning."
 
-<span class="atom-split" data-atom="257" data-title="Whether, by Penance, man is restored to his former dignity?" data-chapter="Whether, by Penance, man is restored to his former dignity?" data-kind="atom"></span>
+<span class="atom-split" data-atom="257" data-title="Whether, by Penance, man is restored to his former dignity?" data-chapter="Whether, by Penance, man is restored to his former dignity?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that man is not restored by Penance to his former dignity: because
 a gloss on Amos 5:2, "The virgin of Israel is cast down," observes: "It is not said that she cannot
@@ -14412,7 +14412,7 @@ the supper, he durst not ask Him, but deputed John to ask in his stead, afterwar
 the head of his brethren, and not only did not depute another to ask for him, what concerned him,
 but henceforth asks the Master instead of John."
 
-<span class="atom-split" data-atom="258" data-title="Whether virtuous deeds done in charity can be deadened?" data-chapter="Whether virtuous deeds done in charity can be deadened?" data-kind="atom"></span>
+<span class="atom-split" data-atom="258" data-title="Whether virtuous deeds done in charity can be deadened?" data-chapter="Whether virtuous deeds done in charity can be deadened?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that virtuous deeds done in charity cannot be deadened. For that
 which is not cannot be changed. But to be deadened is to be changed from life to death. Since
@@ -14450,7 +14450,7 @@ Reply to Objection 3: It is not on account of the strength of sinful deeds that 
 done in charity, are deadened, but on account of the freedom of the will which can be turned away
 from good to evil.
 
-<span class="atom-split" data-atom="259" data-title="Whether deeds deadened by sin, are revived by Penance?" data-chapter="Whether deeds deadened by sin, are revived by Penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="259" data-title="Whether deeds deadened by sin, are revived by Penance?" data-chapter="Whether deeds deadened by sin, are revived by Penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that deeds deadened by sin are not revived by Penance. Because
 just as past sins are remitted by subsequent Penance, so are deeds previously done in charity,
@@ -14501,7 +14501,7 @@ essential reward according to the degree of charity in which he is found. Yet he
 joy for the works he had done in his former charity, than for those which he did in his subsequent
 charity: and this joy belongs to the accidental reward.
 
-<span class="atom-split" data-atom="260" data-title="Whether the effect of subsequent Penance is to quicken even dead works?" data-chapter="Whether the effect of subsequent Penance is to quicken even dead works?" data-kind="atom"></span>
+<span class="atom-split" data-atom="260" data-title="Whether the effect of subsequent Penance is to quicken even dead works?" data-chapter="Whether the effect of subsequent Penance is to quicken even dead works?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the effect of subsequent Penance is to quicken even dead
 works, those, namely, that were not done in charity. For it seems more difficult to bring to life that
@@ -14563,7 +14563,7 @@ words of the Apostle, 'If I should deliver my body to be burned and have not cha
 me nothing,' refer to the obtaining of the kingdom of heaven, and do not exclude the possibility of
 being sentenced with less severity at the last judgment."
 
-<span class="atom-split" data-atom="261" data-title="OF THE PARTS OF PENANCE, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE PARTS OF PENANCE, IN GENERAL (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="261" data-title="OF THE PARTS OF PENANCE, IN GENERAL (FOUR ARTICLES)" data-chapter="OF THE PARTS OF PENANCE, IN GENERAL (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the parts of Penance: (1) in general. (2) each one in particular.
 Under the first head there are four points of inquiry:
@@ -14572,7 +14572,7 @@ Under the first head there are four points of inquiry:
 (3) What kind of parts are they?
 (4) Of its division into subjective parts.
 
-<span class="atom-split" data-atom="262" data-title="Whether Penance should be assigned any parts?" data-chapter="Whether Penance should be assigned any parts?" data-kind="atom"></span>
+<span class="atom-split" data-atom="262" data-title="Whether Penance should be assigned any parts?" data-chapter="Whether Penance should be assigned any parts?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that parts should not be assigned to Penance. For it is the Divine
 power that works our salvation most secretly in the sacraments. Now the Divine power is one and
@@ -14613,7 +14613,7 @@ parts are not assigned to the other sacraments.
 Reply to Objection 3: Sins are the remote matter of Penance, inasmuch, to wit, as they are the
 matter or object of the human acts, which are the proper matter of Penance as a sacrament.
 
-<span class="atom-split" data-atom="263" data-title="Whether contrition, confession, and satisfaction are fittingly assigned as parts of Penance?" data-chapter="Whether contrition, confession, and satisfaction are fittingly assigned as parts of Penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="263" data-title="Whether contrition, confession, and satisfaction are fittingly assigned as parts of Penance?" data-chapter="Whether contrition, confession, and satisfaction are fittingly assigned as parts of Penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that contrition, confession, and satisfaction are not fittingly assigned
 as parts of Penance. For contrition is in the heart, and so belongs to interior penance; while confession
@@ -14674,7 +14674,7 @@ iv). And thus, although sin is completed in the consent of the heart, yet the pe
 requires contrition of the heart, together with confession in word and satisfaction in deed.
 The Reply to the Fifth Objection is clear from what has been said.
 
-<span class="atom-split" data-atom="264" data-title="Whether these three are integral parts of Penance?" data-chapter="Whether these three are integral parts of Penance?" data-kind="atom"></span>
+<span class="atom-split" data-atom="264" data-title="Whether these three are integral parts of Penance?" data-chapter="Whether these three are integral parts of Penance?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that these three are not integral parts of Penance. For, as stated
 above (Q[84], A[3]), Penance is ordained against sin. But sins of thought, word, and deed are the
@@ -14725,7 +14725,7 @@ are related in the order of time: as the parts of time and movement. Accordingly
 are related to one another in the order of power and time, since they are actions, but not in the order
 of position, since they do not occupy a place.
 
-<span class="atom-split" data-atom="265" data-title="Whether Penance is fittingly divided into penance before Baptism, penance for mortal sins, and penance for venial sins?" data-chapter="Whether Penance is fittingly divided into penance before Baptism, penance for mortal sins, and penance for venial sins?" data-kind="atom"></span>
+<span class="atom-split" data-atom="265" data-title="Whether Penance is fittingly divided into penance before Baptism, penance for mortal sins, and penance for venial sins?" data-chapter="Whether Penance is fittingly divided into penance before Baptism, penance for mortal sins, and penance for venial sins?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that penance is unfittingly divided into penance before Baptism,
 penance for mortal, and penance for venial sins. For Penance is the second plank after shipwreck,

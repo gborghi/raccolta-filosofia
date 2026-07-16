@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/fabricantes_de_rencor" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Fabricantes de rencor" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Fabricantes de rencor" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Para militarizar los Cuerpos de Correos y Telégrafos se ha escogido la hora menos oportuna: justamente la hora en que los militares mismos se hallan desmilitarizados. Esto parece un trabalenguas, pero no lo es. Es tan sólo una manera de decir que está trabado el sentido común.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_gioconda" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La Gioconda" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La Gioconda" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Marburgo, septiembre 1911
 
@@ -44,7 +44,7 @@ Pero, en fin, bien que maltrecha, repintada, mordida de la luz, del aire, del fr
 
 Merced al [idealismo](/positions/idealism) los hombres viven fundidos en sociedad, es decir, buscándose el uno al otro, aspirando el uno a ser el otro, haciendo que cada prójimo sea un momento nuestro aguijón. Y ahora algún enemigo de la especie humana ha descolgado tranquilamente el cuadro, ha dejado en un rincón el marco y se ha ido llevándose bajo el brazo nuestra doctora en idealismo.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Leonardo no quiso separarse nunca de este retrato. Pero cuidado, no se trata de una aventura trivial: las mujeres se complacen imaginando tras de cada grande obra artística un cuento de amor, cuento de idilio o de pasión, de dulcedumbre o de dolor, donde ejercita una mujer el papel de musa. La musa es uno de los cien mitos en que la mujer ha colaborado para hacerse necesaria al hombre. Y como en nuestros días las mujeres ejercen una presión mayor que nunca sobre la sentimentalidad ambiente, han dado la nota de la psicología usual, y la crítica artística y literaria obedecen, reconstruyendo el alma de pintores, músicos y poetas sobre el esqueleto de sus relaciones femeninas. Sin embargo, nadie ignora que el significado originario de la palabra «musa» es ocio, y ocio en el sentido clásico quiere decir lo opuesto a trabajo útil; no es un no hacer, sino el trabajo inútil, el trabajo sin soldada ni material beneficio, el esfuerzo que dedicamos a lo irreal, a lo supremo. Yo tengo para mí que los grandes hombres han debido siempre mucho más a este ocio viril que a las musas de carne y hueso. En el [caso](/concepts/fortune) Leonardo no hay duda: la mujer concreta, esta mujer, aquella mujer, le fue por completo superflua; no amó jamás. Su bellísima fisonomía, un poco afeminada a pesar de la estatura prócer y de la fortaleza muscular —Vasari afirma que podía quebrar una herradura como si fuera de plomo— no le proporcionó buenas fortunas ni él anduvo en su caza. El bello sexo busca en el hombre ante todo una llamarada roja de pasiones y un ímpetu de voluntad; ambas cosas faltaban a Leonardo. Ni amó a las mujeres ni fue amado de ellas, destino común a los temperamentos especulativos que no descienden nunca de la contemplación para meterse en la batalla de la vida, que no salen nunca de sí mismos para fundirse con los demás. El lugar clásico de esto que digo se halla en las memorias de Rousseau, en aquella página donde refiere que una mujerzuela veneciana hallándole reacio al amar, le dijo: Gianino, lascia le donne e studia la matematica. Esto hizo Leonardo: estudió matemáticas, la ciencia directora del Renacimiento, la que ha hecho posible toda la historia moderna. Pues ¿y Mona Lisa?
 
@@ -74,7 +74,7 @@ Leonardo, como nadie ignora, es el más típico representante de aquel universal
 
 ¡Qué no ha anticipado este vidente en geología y en física, en mecánica, en astronomía, en el arte de la guerra, en la aerostación, en botánica, en fisiología! Tuvo pocos amigos; solía vivir retirado, en compañía de dos o tres discípulos, llevando cuidadosamente las cuentas de su economía. Frío para con sus congéneres, sentía un amor panteísta hacia todo lo animado; no comía carne alguna y se enojaba si veía a alguien maltratar a un ser vivo. Cuando pasaba por el mercado compraba los pájaros enjaulados y les daba libertad.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Todo lo intentó, todo lo quiso, lo que podía y lo que no podía. Y le quedaba un desencanto melancólico que luego inyectaba en los labios de sus figuras, como en la Gioconda. Y como la Gioconda, todos sus semblantes sonríen para no llorar, sonríen de hastío y descontento, sonríen para no acabar de morir. Porque una manera de muerte es para la Gioconda —el alma de Leonardo— vivir sólo como una parte del mundo y no poder abarcar el temblor inagotable de la vida universal.
 

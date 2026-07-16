@@ -20,7 +20,7 @@ tags:
 <div class="atom-reader" data-work="testi/seneca/agamemnon" data-philosopher="Seneca"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="AGAMEMNON" data-chapter="DRAMATIS PERSONAE" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="AGAMEMNON" data-chapter="DRAMATIS PERSONAE" data-kind="intro" data-srclang="en"></span>
 
 AGAMEMNON, king of Argos, and leader of all the Greeks in their war against Troy.
 
@@ -46,13 +46,13 @@ BAND of captive Trojan women.
 
 THE SCENE is laid partly within and partly without the palace of Agamemnon at Argos or Mycenae, on the day of the return of the king from his long absence at Troy, beginning in the period of darkness just preceding the dawn.
 
-<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="ARGUMENT" data-chapter="ARGUMENT" data-kind="atom" data-srclang="en"></span>
 
 The blood-feud between Atreus and Thyestes was not ended with the terrible vengeance which Atreus wreaked upon his brother. It was yet in fate that Thyestes should live to beget upon his own daughter a son, Aegisthus, who should slay Atreus and bring ruin and death upon the great Atrides, Agamemnon.
 
 The Trojan war is done. And now the near approach of the victorious king, bringing his captives and treasure home to Argos, has been announced. But little does he dream to what a home he is returning. For Clytemnestra, enraged at Agamemnon because he had sacrificed her daughter Iphigenia at Aulis to appease the winds, and full of jealousy because he brings Cassandra as her rival home, estranged also by the long-continued absence of her lord, but most estranged by her own guilty union with Aegisthus, is now plotting to slay her husband on his return, gaining thus at once revenge and safety from his wrath.
 
-<span class="atom-split" data-atom="003" data-title="AGAMEMNON (1/7)" data-chapter="AGAMEMNON" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="AGAMEMNON (1/7)" data-chapter="AGAMEMNON" data-kind="atom" data-srclang="en"></span>
 
 GHOST OF THYESTES
 
@@ -150,7 +150,7 @@ NURSE
 
 CLYTEMNESTRA
 
-<span class="atom-split" data-atom="004" data-title="AGAMEMNON (2/7)" data-chapter="AGAMEMNON" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="AGAMEMNON (2/7)" data-chapter="AGAMEMNON" data-kind="atom" data-srclang="en"></span>
 
 [162] Oh, shame! oh, anguish! I, child of Tyndarus, of heavenly lineage, have borne a sacrifice for the Grecian fleet! Once more in memory I see my daughter’s wedding rites, which he made worthy of Pelops’ house, when, with prayer on lip, the father stood before the altars, how fit for nuptials! Calchas shuddered at his own oracles and at the recoiling altar-fires. O house that ever o’ertops crime with crime! With blood we purchased winds, and war with murder! But, say you, by this means a thousand ships spread sail together? ’Twas by no favouring god the fleet was freed; no! Aulis from port drave forth the impious ships. Thus beginning, not more happily did he wage the war. With love of a captive smitten, unmoved by prayer, he held as spoil the child of Smynthean Apollo’s aged priest, then as now mad with passion for a sacred maid. Neither Achilles, unmoved by threats, could bend him, nor he who alone sees the secrets of the universe, (for me and mine sure seer, for slave-girls of no weight), nor the plague-smit people, nor the blazing pyres. Midst the death-struggle of falling Greece, conquered, but by no foe, he languishes, has leisure for love, seeks new amours; and, lest his widowed couch ever be free from some barbaric mistress, he lusted for the Lyrnesian maid, Achilles’ spoil, nor blushed toe bear her away, torn from her lord’s embrace – he, the enemy of Paris! Now, wounded afresh, he rages with passion for the inspired Phrygian maid; and after Troy’s conquest, after Ilium’s overthrow, he comes back home, a captive’s husband Priam’s son-in-law!
 
@@ -240,7 +240,7 @@ CLYTEMNESTRA
 
 CHORUS
 
-<span class="atom-split" data-atom="005" data-title="AGAMEMNON (3/7)" data-chapter="AGAMEMNON" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="AGAMEMNON (3/7)" data-chapter="AGAMEMNON" data-kind="atom" data-srclang="en"></span>
 
 [310] Sing ye, O maids renowned, of Phoebus! To thee, Phoebus, the festal throng wreaths the head, to thee, waving laurel-bough, the Argive maid in wonted fashion spreads forth her virgin locks; and thou who drinkest of Erasinus’ cool waters, who of Eurotas, and who of Ismenus drinkest, silently flowing along its green banks; thou, too, though stranger in Thebes, come join in our chorus, whom Manto, reader of fate, Tiresias’ daughter, warmed with due rites to [worship](/concepts/religion) the gods, offspring of Latona.
 
@@ -300,7 +300,7 @@ EURYBATES
 
 [456] Meanwhile all the shore is hid and the plains sink from view, and dimly the ridges of Ida’s mount appear; and now, what alone the keenest eye can see, the smoke of Ilium shows but a dusky spot. Already from the yoke Titan was freeing his horses’ weary necks; now to the stars his rays sink low, now day goes headlong down. A tiny cloud, growing to a murky mass, stains the bright radiance of the setting sun, and the many coloured sun-set has made us doubt the sea.
 
-<span class="atom-split" data-atom="006" data-title="AGAMEMNON (4/7)" data-chapter="AGAMEMNON" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="AGAMEMNON (4/7)" data-chapter="AGAMEMNON" data-kind="atom" data-srclang="en"></span>
 
 [465] Young night had spangled the sky with stars; the sails, deserted by the wind, hung low. Then from the mountain heights there falls a murmur deep, whose threatening, and the wide-sweeping shore and rocky headlands send forth a moaning sound; the waves, lashed by the rising wind, roll high – when suddenly the moon is hid, the stars sink out of sight, skyward the sea is lifted, the heavens are gone. ’Tis doubly night; dense fog o’erwhelms the dark and, all light withdrawn, confuses sea and sky. From all sides at once the winds fall on and ravage the sea, from its lowest depths upturned, West wind with East wind striving, South with North. Each wields his own weapons, with deadly assault stirring up the deep, while a whirlwind churns the waves. Strymonian Aquilo sends the deep snow whirling, and Libyan Auster stirs up the sands of Syrtes; nor stand the strife with Auster: Notus, heavey with clouds, blows up, swells waves with rain, while Eurus attacks the dawn, shaking Nabataean realms, and eastern gulfs. What wrought fierce Corus, thrusting forth his head from ocean? The whole sky he tears from its foundations, and you might think the very gods falling from the shattered heavens, and black chaos enveloping the world. Flood strives with wind and wind backward rolls the flood. The sea contains not itself, and rain and waves mingle their waters. Then even this comfort fails their dreadful plight, to see at least and know the disaster by which they perish. Darkness weighs on their eyes, and ’tis the infernal night of awful Styx. Yet fires burst forth, and from the riven clouds gleams the dire lightning flash, and to the poor sailors great is the sweetness of that fearful gleam; even for such light they pray.
 
@@ -324,7 +324,7 @@ CHORUS OF TROJAN WOMEN
 
 [612] We saw our country fall on that night of death, when you, ye Doric fires, ravished Dardania’s homes. She, not in war conquered, not by arms, not, as aforetime, by Hercules’ arrows, fell; her, not Peleus’ and Thetis’ son o’ercame, nor he, well-beloved by overbrave Pelides, when in borrowed arms he shone and drove Troy’s sons in flight, a false Achilles; nor, when Pelides’ self through grief gave o’er his fierce resentment, and the Trojan women, from the ramparts watching, feared his swift attack, did she lose amid her woes the crowning glory of suffering conquest bravely; for ten long years she stood, fated to perish by one night’s treachery.
 
-<span class="atom-split" data-atom="007" data-title="AGAMEMNON (5/7)" data-chapter="AGAMEMNON" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="AGAMEMNON (5/7)" data-chapter="AGAMEMNON" data-kind="atom" data-srclang="en"></span>
 
 [627] We saw that feigned gift, measureless in bulk, and with our own hands trustfully dragged along the Greeks’ deadly offering; and oft on the threshold of the gate the noisy footed monster stumbled, bearing within its hold hidden chiefs and war. We might have turned their guile against themselves, and caused the Pelasgians by their own trick to fall. Oft sounded their jostled shields, and a low muttering smote our ears, when Pyrrhus grumbled, scarce yielding to crafty Ulysses’ will.
 
@@ -436,7 +436,7 @@ CASSANDRA
 
 AGAMEMNON
 
-<span class="atom-split" data-atom="008" data-title="AGAMEMNON (6/7)" data-chapter="AGAMEMNON" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="AGAMEMNON (6/7)" data-chapter="AGAMEMNON" data-kind="atom" data-srclang="en"></span>
 
 [800] Ye faithful slaves, restrain her till she throw off the god, lest in her wild frenzy she do some harm. But thee, O father, who the dire thunder hurlest, and driv’st the clouds, who the stars and lands dost rule, to whom in triumph victors bring their spoils; and thee, sister of thine almighty lord, Argolian Juno, gladly with votive flocks, with gifts from Araby, and with suppliant offerings of entrails will I adore.
 
@@ -522,7 +522,7 @@ ELECTRA
 
 CLYTEMNESTRA
 
-<span class="atom-split" data-atom="009" data-title="AGAMEMNON (7/7)" data-chapter="AGAMEMNON" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="AGAMEMNON (7/7)" data-chapter="AGAMEMNON" data-kind="atom" data-srclang="en"></span>
 
 [958] Thou hast a mannish soul, a heart puffed up; but, tamed by suffering, shalt thou learn to play a woman’s part.
 

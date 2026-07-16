@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_la_frase_huera" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre la «frase huera»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre la «frase huera»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hemos procurado conocer la contestación del señor Ortega y Gasset a la carta de don Gabriel Maura que ayer publicábamos. El señor Ortega y Gasset nos ha rogado que reproduzcamos el párrafo textual donde aquella «frase huera» aparecía. Es, en efecto, el último de su famoso artículo «El error Berenguer». Helo aquí:
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_postrera_libertad" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La postrera libertad" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La postrera libertad" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Los que somos liberales por devoción y no de oficio necesitamos manifestar nuestro desacuerdo con algunos liberales de oficio y no por devoción que se sientan en el Congreso. La actitud de éstos frente al hecho de la infracción constitucional cometida al prorrogar arbitrariamente el presupuesto es de todo punto insatisfactoria. De las dos batallas dadas la última semana en el Parlamento, han reservado la menor para la [causa](/concepts/cause) mayor. Yo no trato de quitar importancia a las truculencias electorales ejecutadas por este Ministerio de mosquitas muertas. Precisamente he podido asistir en primera fila al espectáculo de su deshonestidad gubernativa. El Gobierno, favorable a mis aficiones de observador social, ha elegido una persona que me es muy próxima para ensayar en ella su máxima capacidad de atropello. He visto, pues, cómo el señor La Cierva enviaba a las provincias gobernadores con psicología de leopardos, y he presenciado bien de cerca la selvática escena de los alanos gobernantes dando caza a un candidato en la espesura de un distrito serrano. ¡Cuál no habrá sido el desmán, que el Gobierno mismo ha tenido que mudar de provincia al leopardo y el Tribunal Supremo anular la cacería!
 

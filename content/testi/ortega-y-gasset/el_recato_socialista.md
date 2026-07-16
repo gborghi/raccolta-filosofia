@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_recato_socialista" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El recato socialista" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El recato socialista" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Algunos periódicos han saludado la clausura del Congreso socialista con críticas acerbas. Y lo más instructivo del [caso](/concepts/fortune) se hallará advirtiendo que esos periódicos son los que suelen defender las opiniones más avanzadas: El Liberal, El País, El Mundo. Dos grandes errores señalan en la acción del partido obrero: uno, su aislamiento de los partidos burgueses; otro, su fosquedad y hurañía frente a los elementos que a sí mismos se llaman intelectuales.
 

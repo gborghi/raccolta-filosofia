@@ -19,7 +19,7 @@ tags:
 <div class="atom-reader" data-work="testi/descartes/recherche_de_la_vérité_par_les_lumières_naturelles" data-philosopher="Descartes"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="RECHERCHE DE LA VÉRITÉ PAR LES LUMIÈRES NATURELLES" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="RECHERCHE DE LA VÉRITÉ PAR LES LUMIÈRES NATURELLES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Préambule
 
@@ -63,7 +63,7 @@ Si tout autre homme que vous me parlait ainsi, je le regarderais comme un esprit
 
 EUDOXE.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Je vous remercie de la bonne opinion que vous avez de moi ; mais je ne veux pas abuser de votre politesse au point de vouloir, que vous croyiez ce que je viens de dire uniquement sur la foi de mes paroles. Il ne faut pas avancer des opinions si éloignées de la croyance vulgaire, sans pouvoir en même temps en montrer quelques effets ; c’est pourquoi je vous prie tous deux de vouloir bien passer ici cette belle saison, pour que je vous puisse montrer une partie des choses que je sais. J’ose me flatter que non seulement vous reconnaîtrez que j’ai des raisons pour être content, mais qu’en outre vous serez vous-mêmes très contents de ce que vous aurez appris.
 
@@ -101,7 +101,7 @@ Il faudra commencer par l’âme de l’homme, parce que toutes nos connaissance
 
 ÉPISTÉMON.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Tout cela me paraît s’expliquer très clairement, si on compare l’imagination des enfants à une table rase sur laquelle nos idées, qui sont comme la vive image des objets, doivent se peindre. Les sens, les penchants de l’esprit, les maîtres et l’intelligence sont les divers peintres qui peuvent faire cette œuvre, et, parmi eux, ceux qui sont les moins propres à y réussir la commencent ; c’est à savoir, les sens imparfaits, l’instinct aveugle et de sottes nourrices. Vient enfin le meilleur de tous, l’intelligence ; et cependant est-il encore nécessaire qu’elle fasse un apprentissage de plusieurs années, et suive longtemps l’exemple de ses maîtres, avant d’oser rectifier une seule de leurs erreurs ; c’est là à mon sens une des principales causes de la difficulté que nous avons à parvenir à la science. Nos sens en effet ne perçoivent que ce qu’il y a de plus grossier et de plus commun ; notre instinct est entièrement corrompu ; et quant aux maîtres, encore qu’on en puisse certainement trouver de bons, ils ne peuvent cependant nous forcer d’avoir foi en leurs raisonnements, et de les avouer avant de les avoir examinés avec notre intelligence, qui seule a le pouvoir de le faire. Mais elle est comme un peintre habile, qui, appelé pour mettre la dernière main à un tableau ébauché par des apprentis, aurait beau employer toutes les règles de l’art, corriger peu à peu, tantôt un trait, tantôt un autre, ajouter enfin tout ce qui y manque, ne pourrait cependant empêcher qu’il n’y restât encore de grands défauts, parce que dans le principe le tableau aurait été mal esquissé, les personnages mal placés, et les proportions observées peu rigoureusement.
 
@@ -143,7 +143,7 @@ Je pense qu’il est très dangereux de s’avancer trop loin dans cette manièr
 
 EUDOXE.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 J’avoue que ce n’est pas sans grand danger qu’on s’y hasarde sans guide, quand on n’en connaît pas le gué, et que beaucoup même s’y sont perdus ; mais vous ne devez rien craindre si vous suivez mes pas. Ce sont de telles craintes, en effet, qui ont empêché beaucoup d’hommes savants d’acquérir des connaissances assez solides et assez certaines pour mériter le nom de sciences ; ils s’imaginaient qu’il n’y avait rien de plus ferme et de plus solide sur quoi ils pussent appuyer leur foi que les choses sensibles ; aussi ont-ils bâti sur ce sable plutôt que de chercher en creusant plus avant un terrain ferme. Ce n’est point ici qu’il faut nous arrêter. Il y a plus ; quand vous n’examineriez pas ultérieurement les raisons que je viens de vous dire, elles auraient cependant rempli leur principal but, celui que je voulais atteindre, si elles ont : frappé votre esprit assez pour vous mettre sur vos gardes. Elles montrent en effet que votre science n’est pas tellement infaillible que vous ne deviez craindre d’en voir renverser les fondements, puisqu’elles vous font douter de tout, et que vous doutez dès maintenant de votre science même. Elles prouvent ensuite que j’ai rempli mon but, qui était de renverser votre science, en vous en montrant l’incertitude. Mais, de crainte que vous ne refusiez de me suivre plus loin, je vous déclare que ces doutes, qui en commençant vous ont fait peur, sont comme ces fantômes et ces vaines images qui paraissent dans la nuit à la lueur incertaine d’une faible lumière. La peur vous poursuit si vous les fuyez, mais approchez-en, touchez-les, vous ne trouverez que du vent, qu’une ombre, et vous serez rassuré pour toujours.
 
@@ -205,7 +205,7 @@ Je n’ai eu ni n’aurai jamais l’intention de blâmer la méthode qu’on em
 
 POLYANDRE.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Je croyais vous avoir satisfait en vous disant que j’étais un homme, mais je vois maintenant que je n’ai pas bien fait mon calcul. Je vois très bien que cette réponse ne vous satisfait pas, et, à vrai dire, j’avoue qu’elle ne me contente pas maintenant moi-même, surtout depuis que vous m’avez montré l’embarras et l’incertitude dans laquelle elle pourrait nous jeter, si nous voulions l’éclaircir et la comprendre. En effet, quoi qu’en dise Épistémon, je vois beaucoup d’obscurité dans tous ces degrés métaphysiques. Si l’on dit, par exemple, qu’un corps est une substance corporelle, sans dire ce que c’est qu’une substance corporelle, ces deux mots ne nous apprendront rien de plus que le mot corps. De même si on dit que ce qui vit est un corps animé, sans avoir expliqué auparavant ce que c’est que corps, et ce que c’est qu’animé, et si l’on en agit ainsi pour tous les autres degrés métaphysiques, c’est là avancer des paroles peut-être même dans un certain ordre, mais c’est, ne rien dire ; car cela ne signifie rien qui puisse être conçu et former dans notre esprit une idée claire et distincte. Même quand, pour répondre à votre question, j’ai dit que j’étais un homme, je ne pensais pas à tous les êtres scolastiques que j’ignorais, dont jamais je n’avais entendu, parler, et qui selon moi n’existent que dans l’imagination de ceux qui les ont inventés ; mais j’ai parlé des choses que nous voyons, que nous touchons, que nous sentons, que nous éprouvons en nous-mêmes, en un mot des choses que sait le plus simple des hommes aussi bien que le plus grand philosophe du monde, c’est-à-dire que je suis un certain tout composé de deux bras, de deux jambes, d’une tête, et de toutes les parties qui constituent ce qu’on appelle le corps humain, et qui en outre se nourrit, marche, sent et pense.
 
@@ -243,7 +243,7 @@ Je le ferai volontiers ; aussi bien je Crains que cette dispute ne s’échauff
 
 EUDOXE.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Vous avez déjà bien reconnu, en vous considérant simplement comme doutant, que vous n’étiez pas corps, et que comme tel vous ne trouviez en vous aucune des parties qui constituent la machine humaine, c’est-à-dire que vous n’aviez ni bras, ni jambes, ni tête, ni yeux, ni oreilles, ni enfin aucun organe qui puisse servir à un sens quel qu’il soit. Mais voyez si de la même manière vous ne pouvez pas rejeter toutes les choses que vous, compreniez auparavant sous la description que vous avez donnée de l’idée que vous aviez autrefois de l’homme. Car, comme vous l’avez judicieusement remarqué, c’a été une heureuse erreur que celle que vous avez commise en dépassant les limites de ma question. Grâce à elle en effet, vous pouvez parvenir à la connaissance de ce que vous êtes, en éloignant et en rejetant tout ce que vous voyez clairement ne pas vous appartenir, et en admettant seulement ce qui vous appartient si nécessairement, que vous en soyez aussi certain que de votre existence et de votre doute.
 
@@ -281,7 +281,7 @@ Je ne suis pas si rebelle ni si difficile à persuader, et l’on n’a pas tant
 
 EUDOXE.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 S’il venait à s’appuyer sur un si faible fondement y il entendrait mal ses intérêts, et je promets qu’il y prendra garde. Mais revenons à notre sujet. Je suis bien de votre avis, Épistémon, qu’il faut savoir ce que c’est que le doute, ce que c’est que la pensée, avant d’être pleinement convaincu de la vérité de ce raisonnement, Je doute, donc je suis ; ou, ce qui revient au même, Je pense, donc je suis. Mais n’allez pas vous imaginer qu’il faille, pour le savoir, faire violence à notre esprit, et le mettre à la torture pour connaître le genre le plus proche, et la différence essentielle, et en composer une définition en règle. Il faut laisser tout cela à celui qui veut faire le professeur, ou disputer dans les écoles. Mais quiconque veut examiner les choses par lui-même, et en juger selon qu’il les conçoit, ne peut être assez : privé d’esprit pour ne pas voir clairement, toutes les fois qu’il voudra y faire attention, ce que c’est que le doute, la pensée, l’existence, et pour avoir besoin d’en apprendre les distinctions. En outre, il est des choses que nous rendons plus obscures, en voulant les définir, parce que, comme elles sont très simples et très claires, nous ne pouvons pas les savoir et les comprendre mieux que par elles-mêmes. Il y a plus, il faut mettre au nombre des principales erreurs qui peuvent être commises dans les sciences, l’opinion de ceux qui veulent définir ce qu’on ne peut que concevoir, et distinguer ce qui est clair d’avec ce qui est obscur, et qui en même temps ne peuvent discerner ce qui pour être connu exige et mérite d’être défini de ce qui peut être parfaitement connu par soi-même. Or, au nombre des choses qui sont en elles-mêmes aussi claires, et peuvent être connues par elles-mêmes, il faut mettre le doute, la pensée, l’existence.
 
@@ -305,7 +305,7 @@ Vous me paraissez ressembler à ces auteurs qui retombent toujours sur leurs pie
 
 EUDOXE.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Cela n’est pas si difficile que vous le pensez ; car toutes les vérités se suivent l’une l’autre, et sont unies par un lieu commun ; tout le secret consiste seulement à commencer par les premières et les plus simples, et à s’élever peu à peu, et comme par degrés, aux plus éloignées et aux plus composées. Maintenant, qui doutera que ce que j’ai posé comme principe ne soit la première des choses que nous puissions connaître avec quelque méthode ? Il est constant que nous ne pouvons en douter, quand même nous douterions de toutes les autres choses qui sont dans le monde. Comme donc nous sommes certains d’avoir bien commencé, pour ne pas nous tromper dans la suite, il faut donner tous nos soins, et c’est en effet ce que nous faisons, à n’admettre comme vrai que ce qui n’est pas sujet au moindre doute. Dans ce dessein, selon moi, il faut que nous laissions parler Polyandre ; comme il ne suit en effet d’autre marche que le sens commun, et que sa raison n’est corrompue par aucun préjugé, il est difficile qu’il soit trompé, ou au moins il s’en apercevrait facilement, et reviendrait sans peine dans le droit chemin. Écoutons-le donc parler, et développer les choses qu’il dit lui-même être contenues dans notre principe.
 

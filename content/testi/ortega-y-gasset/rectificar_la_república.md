@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/rectificar_la_república" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Rectificar la República" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Rectificar la República" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Y es evidente que algo de esto está aconteciendo. Conviene que yo evite toda exageración en el diagnóstico y hasta que me oponga a ella. Para exagerar, para desorbitar las cosas se bastan y se sobran las mesas de café, en torno a las cuales, veinte mil tertulias, desde hace cincuenta años, se complacen en desmesurar todos los hechos y en descoyuntar todas las opiniones. (Muy bien).
 

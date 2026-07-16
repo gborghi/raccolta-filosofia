@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/contra_una_política_o_contra_un_régimen" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Contra una política o contra un Régimen?" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="¿Contra una política o contra un Régimen?" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En cambio, no es nada clara, antes bien, oscura y peligrosa, la situación en que la actitud de las llamadas «derechas» coloca a la vida pública española.
 

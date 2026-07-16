@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/réponse_à_m_bordes" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="RÉPONSE À M. BORDES" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="RÉPONSE À M. BORDES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 On est désabusé depuis longtemps de la chimère de l’âge d’or ; partout la barbarie a précédé l’établissement des sociétés ; c’est une vérité prouvée par les annales de tous les peuples. Partout les besoins et les crimes forcèrent les hommes à se réunir, à s’imposer des lois, à s’enfermer dans des remparts. Les premiers dieux et les premiers rois furent des bienfaiteurs ou des tyrans ; la reconnaissance et la crainte élevèrent les trônes et les autels. La superstition et le despotisme vinrent alors couvrir la face de la terre : de nouveaux malheurs, de nouveaux crimes succédèrent, les révolutions se multiplièrent.
 
@@ -42,7 +42,7 @@ Comment prouve-t-on de si bizarres paradoxes ? On objecte que les sciences et le
 
 En accordant que l’altération des lois et la corruption moeurs aient beaucoup influé sur ces grands événements, me forcera-t-on de convenir que les sciences et les arts y aient contribué ? La corruption suit de près la prospérité ; les sciences sont pour l’ordinaire leurs plus rapides progrès dans le même temps : des choses si diverses peuvent naître ensemble et se rencontrer ; mais c’est sans aucune relation entre elles de cause et d’effet.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Athènes et Rome étaient petites et pauvres dans leurs commencements ; tous leurs citoyens étaient soldats, toutes leurs vertus étaient nécessaires, les occasions même de corrompre leurs moeurs n’existaient pas. Peu après, elles acquirent des richesses et de la puissance. Une partie des citoyens ne fut plus employée à la guerre ; on apprit à jouir et à penser. Dans le sein de leur opulence ou de leur loisir, les uns perfectionnèrent le luxe qui fait la plus ordinaire occupation des gens heureux ; d’autres ayant reçu de la nature de plus favorables dispositions, étendirent les limites de l’esprit et créèrent une gloire nouvelle.
 
@@ -74,7 +74,7 @@ C’est déjà un grand avantage pour la cause des lettres, que cet aveu qu’on
 
 On nous reproche des vices raffinés et délicats ; c’est que partout où il y a des hommes, il y aura des vices : mais les voiles ou la parure dont ils se couvrent, sont du moins l’aveu de leur honte, et un témoignage du respect public pour la vertu.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 S’il y a des modes de folie, de ridicule et de corruption, elles ne se trouvent que dans la capitale seulement, et ce n’est même que dans un tourbillon d’hommes perdus par les richesses et l’oisiveté. Les provinces entières, et la plus grande partie de Paris, ignorent ces excès, ou ne les connaissent que de nom. Jugera-t-on toute la nation sur les travers d’un petit nombre d’hommes ? Des écrits ingénieux réclament cependant contre ces abus ; la corruption ne jouit de ses prétendus succès que dans des têtes ignorantes ; les sciences et les lettres ne cessent point de déposer contre elle ; la morale la démasque, la philosophie humilie ses petits triomphes ; la comédie, la satire, l’épigramme la percent de mille traits.
 
@@ -104,7 +104,7 @@ Ces globes lumineux placés loin de nous à des distances si énormes, sont nos 
 
 Deux verres placés et taillés d’une certaine manière, nous ont montré une nouvelle scène de merveilles que nos yeux ne soupçonnaient pas.
 
-<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Les expériences du tube électrisé semblaient n’être qu’un jeu : peut-être leur devra-t-on un jour la connaissance du règne universel de la nature.
 
@@ -132,7 +132,7 @@ On nous oppose un jugement de [Socrate](/figures/socrates), qui porta non sur le
 
 On demande, par exemple, ce que deviendrait l’histoire, s’il n’y avait ni guerriers, ni tyrans, ni conspirateurs. Je réponds qu’elle serait l’histoire des vertus des hommes. Je dirai plus ; si les hommes étaient tous vertueux, ils n’auraient plus besoin, ni de juges, ni de magistrats, ni de soldats. À quoi s’occuperaient-ils ? Il ne leur resterait que les sciences et les arts. La contemplation des choses naturelles, l’exercice de l’esprit, sont donc la plus noble et la plus pure fonction de l’homme.
 
-<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Dire que les sciences sont nées de l’oisiveté, c’est abuser visiblement des termes. Elles naissent du loisir, il est vrai ; mais elles garantissent de l’oisiveté. Le citoyen que ses besoins attachent à la charrue, n’est pas plus occupé que le géomètre ou l’anatomiste : j’avoue que son travail est de première nécessité ; mais sous prétexte que le pain est nécessaire, faut-il que tout le monde se mette à labourer la terre ? et parce qu’il est plus nécessaire que les lois, le laboureur sera-t-il élevé au-dessus du magistrat ou du ministre ? Il n’y a point d’absurdités où de pareils principes ne puissent nous conduire.
 
@@ -158,7 +158,7 @@ Que quelques nations au sein de l’ignorance aient eu des idées de la gloire e
 
 J’admire les Brutus, les Décius, les Lucrèce, les Virginius, les Scévola ; mais j’admirerai plus encore un état puissant et bien gouverné, où les citoyens ne seront point condamnés à des vertus si cruelles.
 
-<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Cincinnatus vainqueur retournait à sa charrue : dans un siècle plus heureux, Scipion triomphant revenait goûter avec Lélius et Térence les charmes de la philosophie et des lettres, ceux de l’amitié plus précieux encore. Nous célébrons Fabricius, qui avec ses rares cuites sous la cendre, méprise l’or de Pyrrhus : mais Titus, dans la somptuosité de ses palais, mesurant son bonheur sur celui qu’il procure au monde par ses bienfaits et par ses lois, devient le héros de mon [coeur](/positions/fideism). Au lieu de cet antique héroïsme, superstitieux, rustique, ou barbare, que j’admirais en frémissant ; j’adore une vertu éclairée, heureuse et bienfaisante ; l’idée de mon existence s’embellit : j’apprends à honorer et à chérir l’humanité.
 
@@ -214,7 +214,7 @@ Les premiers hommes furent très ignorants. Comment oserait-on dire qu’ils ét
 
 À travers l’obscurité des anciens temps et la rusticité des anciens peuples, on aperçoit chez plusieurs d’entre eux de fort grandes vertus, surtout une sévérité de mœurs qui est une marque infaillible de leur pureté, la bonne foi, l’hospitalité, la justice, et ce qui est très important, une grande horreur pour la débauche[55], mère féconde de tous les autres vices. La vertu n’est donc pas incompatible avec l’ignorance.
 
-<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Elle n’est pas non plus toujours sa compagne ; car plusieurs peuples très ignorants étaient très vicieux. L’ignorance n’est un obstacle ni au bien ni au mal ; elle est seulement l’état naturel de l’homme[56].
 
@@ -264,7 +264,7 @@ En effet : 1. Si les hommes sont méchants par leur nature, il peut arriver, si 
 
 Ceci peut montrer combien il me serait aisé de retourner en ma faveur la plupart des choses qu’on prétend m’opposer ; mais à parler franchement, je ne les trouve pas assez bien prouvées pour avoir le courage de m’en prévaloir.
 
-<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 On avance que les premiers hommes furent méchants ; d’où il suit que l’homme est méchant naturellement[58]. Ceci n’est pas une assertion de légère importance ; il me semble qu’elle eût bien valu la peine d’être prouvée. Les annales de tous les peuples qu’on ose citer en preuve sont beaucoup plus favorables à la supposition contraire ; et il faudrait bien des témoignages pour m’obliger de croire une absurdité. Avant que ces mots affreux de tien et de mien fussent inventés ; avant qu’il y eût de cette espèce d’hommes cruels et brutaux qu’on appelle maîtres, et de cette autre espèce d’hommes fripons et menteurs qu’on appelle esclaves ; avant qu’il y eût des hommes assez abominables pour oser avoir du superflu pendant que d’autres hommes meurent de faim ; avant qu’une dépendance mutuelle les eût tous forcés à devenir fourbes, jaloux et traîtres, je voudrais bien qu’on m’expliquât en quoi pouvaient consister ces vices, ces crimes qu’on leur reproche avec tant d’emphase. On m’assure qu’on est depuis longtemps désabusé de la chimère de l’âge d’or. Que n’ajoutait-on encore qu’il y a longtemps qu’on est désabusé de la chimère de la vertu ?
 
@@ -276,7 +276,7 @@ Examinons encore un moment cette préférence qu’on prétend donner à la Grè
 
 L’embarras de mes adversaires est visible toutes les fois qu’il faut parler de Sparte. Que ne donneraient-ils point pour que cette fatale Sparte n’eût jamais existé ! et eux qui prétendent que les grandes actions ne sont bonnes qu’à être célébrées, à quel prix ne voudraient-ils point que les siennes ne l’eussent jamais été ! C’est une terrible chose qu’au milieu de cette fameuse Grèce qui ne devait, dit-on, sa vertu qu’à la philosophie, l’état où la vertu a été la plus pure et a duré le plus longtemps, ait été précisément celui où il n’y avait point de philosophes ! Les mœurs de Sparte ont toujours été proposées en exemple à toute la Grèce ; toute la Grèce était corrompue, et il y avait encore de la vertu à Sparte ; toute la Grèce était esclave, Sparte seule était encore libre : cela est désolant. Mais enfin la fière Sparte perdit ses mœurs et sa liberté comme les avait perdues la savante Athènes ; Sparte a fini. Que puis-je répondre à cela ?
 
-<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Encore deux observations sur Sparte, et je passe à autre chose ; voici la première. « Après avoir été plusieurs fois sur le point de vaincre, Athènes fut vaincue, il est vrai ; et il est surprenant qu’elle ne l’eût pas été plus tôt, puisque l’Attique était un pays tout ouvert, et qui ne pouvait se défendre que par la supériorité de succès. » Athènes eût dû vaincre, par toutes sortes de raisons. Elle était plus grande et beaucoup plus peuplée que Lacédémone ; elle avait de grands revenus et plusieurs peuples étaient ses tributaires : Sparte n’avait rien de tout cela. Athènes, surtout par sa position, avait un avantage dont Sparte était privée, qui la mit en état de désoler plusieurs fois le Péloponnèse, et qui devait seul lui assurer l’empire de la Grèce. C’était un port vaste et commode ; c’était une marine formidable dont elle était redevable à la prévoyance de ce rustre de Thémistocle qui ne savait pas jouer de la flûte. On pourrait donc être surpris qu’Athènes, avec tant d’avantages, ait pourtant enfin succombé. Mais quoique la guerre du Péloponnèse, qui a ruiné la Grèce, n’ait fait honneur ni à l’une ni à l’autre république, et qu’elle ait surtout été de la part des Lacédémoniens une infraction des maximes de leur sage législateur, il ne faut pas s’étonner qu’à la longue le vrai courage l’ait emporté sur les ressources, ni même que la réputation de Sparte lui en ait donné plusieurs qui lui facilitèrent la victoire. En vérité, j’ai bien de la honte de savoir ces choses-là, et d’être forcé de les dire.
 
@@ -300,7 +300,7 @@ Il serait difficile d’imaginer qu’il fallût mesurer la morale avec un instr
 
 On vient de voir comment nos philosophes parlent de Caton. On va voir comment en parlaient les anciens philosophes. « Ecce spectaculum dignum ad quod respiciat intentus open suo Deus. Ecce par Deo dignum, vir fortis cum mala [fortuna](/concepts/fortune) compositus. Non video, inquam, quid habeat in terris Jupiter pulchrius, si convertere animum velit, quam ut spectet Catonem, jam partibus non semel fractis, nihilominus inter ruinas publicas erectum[63]. »
 
-<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Voici ce qu’on nous dit ailleurs des premiers Romains. « J’admire les Brutus, les Decius, les Lucrèce, les Virginius, les Scévola…. » C’est quelque chose dans le siècle où nous sommes. « Mais j’admirerai encore plus un état puissant et bien gouverné. » Un état puissant et bien gouverné ! Et moi aussi, vraiment. « Où les citoyens ne seront point condamnés à des vertus si cruelles. » J’entends ; il est plus commode de vivre dans une constitution de choses où chacun soit dispensé d’être homme de bien. Mais si les citoyens de cet état qu’on admire se trouvaient réduits par quelque malheur ou à renoncer à la vertu, ou à pratiquer ces vertus cruelles, et qu’ils eussent la force de faire leur devoir, serait-ce donc une raison de les admirer moins ?
 
@@ -322,7 +322,7 @@ On prétend que les nations ignorantes qui ont eu « des idées de la gloire et 
 
 « Dire que les sciences sont nées de l’oisiveté, c’est abuser visiblement des termes ; elles naissent du loisir, mais elles garantissent de l’oisiveté. » De sorte qu’un homme qui s’amuserait au bord d’un grand chemin à tirer sur les passants pourrait dire qu’il occupe son loisir à se garantir de l’oisiveté. Je n’entends point cette distinction de l’oisiveté et du loisir ; mais je sais très certainement que nul honnête homme ne peut jamais se vanter d’avoir du loisir, tant qu’il y aura du bien à faire, une patrie à servir, des malheureux à soulager ; et je défie qu’on me montre dans mes principes aucun sens honnête dont ce mot loisir puisse être susceptible. « Le citoyen que ses besoins attachent à la charrue n’est pas plus occupé que le géomètre ou l’anatomiste. » Pas plus que l’enfant qui élève un château de cartes, mais plus utilement. « Sous prétexte que le pain est nécessaire, faut-il que tout le monde se mette à labourer la terre ? » Pourquoi non ? Qu’ils paissent même, s’il le faut : j’aime encore mieux voir les hommes brouter l’herbe dans les champs que s’entre-dévorer dans les villes. Il est vrai que, tels que je les demande, ils ressembleraient beaucoup à des bêtes, et que tels qu’ils sont, ils ressemblent beaucoup à des hommes.
 
-<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 « L’état d’ignorance est un état de crainte et de besoin ; tout est danger alors pour notre fragilité. La mort gronde sur nos têtes ; elle est cachée dans l’herbe que nous foulons aux pieds. Lorsqu’on craint tout et qu’on a besoin de tout, quelle disposition plus raisonnable que celle de vouloir tout connaître ? » Il ne faut que considérer les inquiétudes continuelles des médecins et des anatomistes sur leur vie et sur leur santé, pour savoir si les connaissances servent à nous rassurer sur nos dangers. Comme elles nous en découvrent toujours beaucoup plus que de moyens de nous en garantir, ce n’est pas une merveille si elles ne font qu’augmenter nos alarmes et nous rendre pusillanimes. Les animaux vivent sur tout cela dans une sécurité profonde, et ne s’en trouvent pas plus mal. Une génisse n’a pas besoin d’étudier la botanique pour apprendre à trier son foin, et le loup dévore sa proie sans songer à l’indigestion. Pour répondre à cela, osera-t-on prendre le parti de l’instinct contre la raison ? C’est précisément ce que je demande.
 
@@ -346,7 +346,7 @@ On croit m’embarrasser beaucoup en me demandant à quel point il faut borner l
 
 J’ai déjà dit ailleurs que je ne proposais point de bouleverser la société actuelle, de brûler les bibliothèques et tous les livres, de détruire les collèges et les académies ; et je dois ajouter ici que je ne propose point non plus de réduire les hommes à se contenter du simple nécessaire. Je sens bien qu’il ne faut pas former le chimérique projet d’en faire d’honnêtes gens ; mais je me suis cru obligé de dire, sans déguisement, la vérité qu’on m’a demandée. J’ai vu le mal et tâché d’en trouver les causes ; d’autres, plus hardis ou plus insensés, pourront chercher le remède.
 
-<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
 Je me lasse et je pose la plume pour ne la plus reprendre dans cette trop longue dispute. J’apprends qu’un très grand nombre d’auteurs[69] se sont exercés à me réfuter : je suis très fâché de ne pouvoir répondre à tous ; mais je crois avoir montré, par ceux que j’ai choisis[70] pour cela, que ce n’est pas la crainte qui me retient à l’égard des autres.
 

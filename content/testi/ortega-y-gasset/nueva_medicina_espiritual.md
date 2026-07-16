@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/nueva_medicina_espiritual" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Nueva medicina espiritual" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Nueva medicina espiritual" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Marburg, agosto de 1911
 
@@ -62,7 +62,7 @@ De estos hechos partió Freud. Las dificultades del tratamiento por el hipnotism
 
 Más amplias observaciones llevaron a Freud a esta capital conclusión: «En todos los casos se trata de un deseo que surgió en el ánimo del individuo, pero que era contradictorio de todos sus demás deseos, por tanto incompatible con las aspiraciones éticas y estéticas de la personalidad. Había habido un pequeño conflicto y el resultado de la lucha interior era que la representación que surgió ante la conciencia como portadora de aquel deseo imposible, era condenada a la expulsión, era arrojada de la conciencia con los recuerdos concomitantes, era olvidada. La incompatibilidad de aquella representación con el yo del enfermo era, pues, el motivo de la expulsión: las exigencias éticas o de otro género eran las fuerzas expulsoras. La aceptación del deseo incompatible o la prolongación del conflicto, le habían causado grave angustia, enojo, dolor, y esta angustia, este enojo, este dolor, eran evitados por la expulsión».
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Lo inconsciente es para Freud el conjunto de esas representaciones o deseos expulsados. De este modo quedaba explicada la dificultad para obtener que el enfermo recordara lo que era [causa](/concepts/cause) de su mal: las mismas fuerzas que habían arrojado la representación patógena a lo inconsciente, se resistían a dejarla escapar de nuevo, a dejarla volver sobre la superficie de la memoria.
 
@@ -96,7 +96,7 @@ Pero hay, dice Freud, un camino real que nos lleva al conocimiento de lo inconsc
 
 Freud vuelve impertérrito a la tradición milenaria. En los sueños no hay nada absurdo, dice, nada sin sentido: nuestra mente no funciona nunca sin dirección fija, sin intención. Ni en la histeria, ni en la paranoia o locura. Mucho menos en la función normal del sueño.
 
-<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Ahora se acaba de publicar la tercera edición de su libro Sobre la interpretación de los sueños, en que ha extractado quince años de labor incesante. Su teoría es un poco complicada y yo sólo puedo dar aquí como un esquema de ella.
 

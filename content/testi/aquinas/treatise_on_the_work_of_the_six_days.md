@@ -20,11 +20,11 @@ tags:
 <div class="atom-reader" data-work="testi/aquinas/treatise_on_the_work_of_the_six_days" data-philosopher="Aquinas"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Treatise on the Work of the Six Days" data-chapter="(apertura)" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Treatise on the Work of the Six Days" data-chapter="(apertura)" data-kind="intro" data-srclang="en"></span>
 
 TREATISE ON THE WORK OF THE SIX DAYS (QQ[65]-74)
 
-<span class="atom-split" data-atom="002" data-title="THE WORK OF CREATION OF CORPOREAL CREATURES (FOUR ARTICLES)" data-chapter="THE WORK OF CREATION OF CORPOREAL CREATURES (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="THE WORK OF CREATION OF CORPOREAL CREATURES (FOUR ARTICLES)" data-chapter="THE WORK OF CREATION OF CORPOREAL CREATURES (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 From the consideration of spiritual creatures we proceed to that of corporeal creatures, in the
 production of which, as Holy [Scripture](/concepts/revelation) makes mention, three works are found, namely, the work
@@ -39,7 +39,7 @@ the work of adornment. Under the first head there are four points of inquiry:
 (3) Whether they were created by God through the medium of the angels?
 (4) Whether the forms of bodies are from the angels or immediately from God.
 
-<span class="atom-split" data-atom="003" data-title="Whether corporeal creatures are from God?" data-chapter="Whether corporeal creatures are from God?" data-kind="atom"></span>
+<span class="atom-split" data-atom="003" data-title="Whether corporeal creatures are from God?" data-chapter="Whether corporeal creatures are from God?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that corporeal creatures are not from God. For it is said (Eccles.
 3:14): "I have learned that all the works which God hath made, continue for ever." But visible
@@ -99,7 +99,7 @@ Thus it is said (Wis. 14:11): "Creatures are turned into a snare to the feet of 
 very fact that they can thus withdraw us from God proves that they came from Him, for they cannot
 lead the foolish away from God except by the allurements of some good that they have from Him.
 
-<span class="atom-split" data-atom="004" data-title="Whether corporeal things were made on account of God's goodness?" data-chapter="Whether corporeal things were made on account of God's goodness?" data-kind="atom"></span>
+<span class="atom-split" data-atom="004" data-title="Whether corporeal things were made on account of God's goodness?" data-chapter="Whether corporeal things were made on account of God's goodness?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that corporeal creatures were not made on account of God's
 goodness. For it is said (Wis. 1:14) that God "created all things that they might be." Therefore all
@@ -168,7 +168,7 @@ the stones; even so, God from the beginning, to secure perfection in the univers
 creatures of various and unequal natures, according to His wisdom, and without injustice, since no
 diversity of merit is presupposed.
 
-<span class="atom-split" data-atom="005" data-title="Whether corporeal creatures were produced by God through the medium of the angels?" data-chapter="Whether corporeal creatures were produced by God through the medium of the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="005" data-title="Whether corporeal creatures were produced by God through the medium of the angels?" data-chapter="Whether corporeal creatures were produced by God through the medium of the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that corporeal creatures were produced by God through the medium
 of the angels. For, as all things are governed by the Divine wisdom, so by it were all things made,
@@ -224,7 +224,7 @@ made, but also by the manner of making it; for one and the same thing is made in
 higher power, in another by a lower. But the production of finite things, where nothing is presupposed
 as existing, is the work of infinite power, and, as such, can belong to no creature.
 
-<span class="atom-split" data-atom="006" data-title="Whether the forms of bodies are from the angels?" data-chapter="Whether the forms of bodies are from the angels?" data-kind="atom"></span>
+<span class="atom-split" data-atom="006" data-title="Whether the forms of bodies are from the angels?" data-chapter="Whether the forms of bodies are from the angels?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the forms of bodies come from the angels. For Boethius says
 (De Trin. i): "From forms that are without matter come the forms that are in matter." But forms
@@ -298,7 +298,7 @@ into act.
 
 Reply to Objection 3: The heavenly bodies inform earthly ones by movement, not by emanation.
 
-<span class="atom-split" data-atom="007" data-title="ON THE ORDER OF CREATION TOWARDS DISTINCTION (FOUR ARTICLES)" data-chapter="ON THE ORDER OF CREATION TOWARDS DISTINCTION (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="007" data-title="ON THE ORDER OF CREATION TOWARDS DISTINCTION (FOUR ARTICLES)" data-chapter="ON THE ORDER OF CREATION TOWARDS DISTINCTION (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the work of distinction; first, the ordering of creation towards distinction;
 secondly, the distinction itself. Under the first head there are four points of inquiry:
@@ -307,7 +307,7 @@ secondly, the distinction itself. Under the first head there are four points of 
 (3) Whether the empyrean heaven was created contemporaneously with formless matter?
 (4) Whether time was created simultaneously with it?
 
-<span class="atom-split" data-atom="008" data-title="Whether formlessness of created matter preceded in time its formation? (1/2)" data-chapter="Whether formlessness of created matter preceded in time its formation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="008" data-title="Whether formlessness of created matter preceded in time its formation? (1/2)" data-chapter="Whether formlessness of created matter preceded in time its formation?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that formlessness of matter preceded in time its formation. For it
 is said (Gn. 1:2): "The earth was void and empty," or "invisible and shapeless," according to another
@@ -387,7 +387,7 @@ in the operations of nature potentiality must precede act in time, and formlessn
 But God produces being in act out of nothing, and can, therefore, produce a perfect thing in an
 instant, according to the greatness of His power.
 
-<span class="atom-split" data-atom="009" data-title="Whether formlessness of created matter preceded in time its formation? (2/2)" data-chapter="Whether formlessness of created matter preceded in time its formation?" data-kind="atom"></span>
+<span class="atom-split" data-atom="009" data-title="Whether formlessness of created matter preceded in time its formation? (2/2)" data-chapter="Whether formlessness of created matter preceded in time its formation?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 3: Accident, inasmuch as it is a form, is a kind of act; whereas matter, as
 such, is essentially being in [potentiality](/concepts/act_potency). Hence it is more repugnant that matter should be in act
@@ -417,7 +417,7 @@ is that of place; since the earth is said to be under the waters that rendered i
 air, the subject of darkness, is described as being above the waters, in the words: "Darkness was
 upon the face of the deep." The remaining distinctions will appear from what follows (Q[71]).
 
-<span class="atom-split" data-atom="010" data-title="Whether the formless matter of all corporeal things is the same?" data-chapter="Whether the formless matter of all corporeal things is the same?" data-kind="atom"></span>
+<span class="atom-split" data-atom="010" data-title="Whether the formless matter of all corporeal things is the same?" data-chapter="Whether the formless matter of all corporeal things is the same?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the formless matter of all corporeal things is the same. For
 [Augustine](/figures/augustine) says (Confess. xii, 12): "I find two things Thou hast made, one formed, the other
@@ -506,7 +506,7 @@ by their different acts, as sight is by color, hearing by sound. Therefore for t
 of the celestial bodies is different from that of the elemental, because the matter of the celestial is
 not in potentiality to an elemental form.
 
-<span class="atom-split" data-atom="011" data-title="Whether the empyrean heaven was created at the same time as formless matter?" data-chapter="Whether the empyrean heaven was created at the same time as formless matter?" data-kind="atom"></span>
+<span class="atom-split" data-atom="011" data-title="Whether the empyrean heaven was created at the same time as formless matter?" data-chapter="Whether the empyrean heaven was created at the same time as formless matter?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the empyrean heaven was not created at the same time as
 formless matter. For the empyrean, if it is anything at all, must be a sensible body. But all sensible
@@ -597,7 +597,7 @@ intervening heavens), we may also say that the empyrean has light, not condensed
 rays, as the sun does, but of a more subtle nature. Or it may have the brightness of glory which
 differs from mere natural brightness.
 
-<span class="atom-split" data-atom="012" data-title="Whether time was created simultaneously with formless matter?" data-chapter="Whether time was created simultaneously with formless matter?" data-kind="atom"></span>
+<span class="atom-split" data-atom="012" data-title="Whether time was created simultaneously with formless matter?" data-chapter="Whether time was created simultaneously with formless matter?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that time was not created simultaneously with formless matter. For
 [Augustine](/figures/augustine) says (Confess. xii, 12): "I find two things that Thou didst create before time was, the
@@ -657,7 +657,7 @@ boundary of the universe. And since place has reference to things permanent, it 
 in its totality. But time, as not being permanent, was created in its beginning: even as actually we
 cannot lay hold of any part of time save the "now."
 
-<span class="atom-split" data-atom="013" data-title="ON THE WORK OF DISTINCTION IN ITSELF (FOUR ARTICLES)" data-chapter="ON THE WORK OF DISTINCTION IN ITSELF (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="013" data-title="ON THE WORK OF DISTINCTION IN ITSELF (FOUR ARTICLES)" data-chapter="ON THE WORK OF DISTINCTION IN ITSELF (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must consider next the work of distinction in itself. First, the work of the first day; secondly,
 the work of the second day; thirdly the work of the third day.
@@ -667,7 +667,7 @@ Under the first head there are four points of inquiry:
 (3) Whether light is a quality?
 (4) Whether light was fittingly made on the first day?
 
-<span class="atom-split" data-atom="014" data-title="Whether the word \&quot;light\&quot; is used in its proper sense in speaking of spiritual things?" data-chapter="Whether the word \&quot;light\&quot; is used in its proper sense in speaking of spiritual things?" data-kind="atom"></span>
+<span class="atom-split" data-atom="014" data-title="Whether the word \&quot;light\&quot; is used in its proper sense in speaking of spiritual things?" data-chapter="Whether the word \&quot;light\&quot; is used in its proper sense in speaking of spiritual things?" data-kind="atom" data-srclang="en"></span>
 
 # Whether the word "light" is used in its proper sense in speaking of spiritual things?
 
@@ -701,7 +701,7 @@ common and extended use, as applied to manifestation of every kind, it may prope
 to spiritual things.
 The answer to the objections will sufficiently appear from what has been said.
 
-<span class="atom-split" data-atom="015" data-title="Whether light is a body?" data-chapter="Whether light is a body?" data-kind="atom"></span>
+<span class="atom-split" data-atom="015" data-title="Whether light is a body?" data-chapter="Whether light is a body?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that light is a body. For [Augustine](/figures/augustine) says (De Lib. Arb. iii, 5) that
 "light takes the first place among bodies."Therefore light is a body.
@@ -758,7 +758,7 @@ the order of movement as is proved Phys. viii, text. 55, we use terms belonging 
 in speaking of alteration and movement of all kinds. For even the word distance is derived from
 the idea of remoteness of place, to that of all contraries, as is said Metaph. x, text. 13.
 
-<span class="atom-split" data-atom="016" data-title="Whether light is a quality?" data-chapter="Whether light is a quality?" data-kind="atom"></span>
+<span class="atom-split" data-atom="016" data-title="Whether light is a quality?" data-chapter="Whether light is a quality?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that light is not a quality. For every quality remains in its subject,
 though the active cause of the quality be removed, as heat remains in water removed from the fire.
@@ -814,7 +814,7 @@ cause, by virtue of the substantial form, so does light act instrumentally, by v
 bodies, towards producing substantial forms; and towards rendering colors actually visible, inasmuch
 as it is a quality of the first sensible body.
 
-<span class="atom-split" data-atom="017" data-title="Whether the production of light is fittingly assigned to the first day? (1/2)" data-chapter="Whether the production of light is fittingly assigned to the first day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="017" data-title="Whether the production of light is fittingly assigned to the first day? (1/2)" data-chapter="Whether the production of light is fittingly assigned to the first day?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the production of light is not fittingly assigned to the first day.
 For light, as stated above (A[3]), is a quality. But qualities are accidents, and as such should have,
@@ -913,7 +913,7 @@ distinction being brought about by the common movement of the heavens. The furth
 into successive days, seasons, and years recorded as begun on the fourth day, in the words, "let
 them be for seasons, and for days, and years" is due to proper movements.
 
-<span class="atom-split" data-atom="018" data-title="Whether the production of light is fittingly assigned to the first day? (2/2)" data-chapter="Whether the production of light is fittingly assigned to the first day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="018" data-title="Whether the production of light is fittingly assigned to the first day? (2/2)" data-chapter="Whether the production of light is fittingly assigned to the first day?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 4: As [Augustine](/figures/augustine) teaches (Confess. xii; Gen. ad lit. 1,15), formlessness did
 not precede forms in duration; and so we must understand the production of light to signify the
@@ -924,7 +924,7 @@ creature from other created things as yet without form. But if all created thing
 at the same time, the darkness must be held to mean the spiritual darkness of the wicked, not as
 existing from the beginning but such as God foresaw would exist.
 
-<span class="atom-split" data-atom="019" data-title="ON THE WORK OF THE SECOND DAY (FOUR ARTICLES)" data-chapter="ON THE WORK OF THE SECOND DAY (FOUR ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="019" data-title="ON THE WORK OF THE SECOND DAY (FOUR ARTICLES)" data-chapter="ON THE WORK OF THE SECOND DAY (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the work of the second day. Under this head there are four points of
 inquiry:
@@ -933,7 +933,7 @@ inquiry:
 (3) Whether the firmament divides waters from waters?
 (4) Whether there is more than one heaven?
 
-<span class="atom-split" data-atom="020" data-title="Whether the firmament was made on the second day?" data-chapter="Whether the firmament was made on the second day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="020" data-title="Whether the firmament was made on the second day?" data-chapter="Whether the firmament was made on the second day?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the firmament was not made on the second day. For it is said
 (Gn. 1:8): "God called the firmament heaven." But the heaven existed before days, as is clear from
@@ -1024,7 +1024,7 @@ verse it said that "God called the light day" (since the word "day" is also used
 twenty-four hours). Other instances of a similar use occur, as pointed out by Rabbi Moses.
 The second and third objections are sufficiently answered by what has been already said.
 
-<span class="atom-split" data-atom="021" data-title="Whether there are waters above the firmament?" data-chapter="Whether there are waters above the firmament?" data-kind="atom"></span>
+<span class="atom-split" data-atom="021" data-title="Whether there are waters above the firmament?" data-chapter="Whether there are waters above the firmament?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there are not waters above the firmament. For water is heavy
 by nature, and heavy things tend naturally downwards, not upwards. Therefore there are not waters
@@ -1102,7 +1102,7 @@ to temper the heat of the celestial bodies, as Basil supposes (Hom. iii in Hexae
 says (Gen. ad lit. ii, 5) that some have considered this to be proved by the extreme cold of Saturn
 owing to its nearness to the waters that are above the firmament.
 
-<span class="atom-split" data-atom="022" data-title="Whether the firmament divides waters from waters?" data-chapter="Whether the firmament divides waters from waters?" data-kind="atom"></span>
+<span class="atom-split" data-atom="022" data-title="Whether the firmament divides waters from waters?" data-chapter="Whether the firmament divides waters from waters?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the firmament does not divide waters from waters. For bodies
 that are of one and the same species have naturally one and the same place. But the Philosopher
@@ -1164,7 +1164,7 @@ Reply to Objection 3: On account of the air and other similar bodies being invis
 includes all such bodies under the name of water, and thus it is evident that waters are found on
 each side of the firmament, whatever be the sense in which the word is used.
 
-<span class="atom-split" data-atom="023" data-title="Whether there is only one heaven?" data-chapter="Whether there is only one heaven?" data-kind="atom"></span>
+<span class="atom-split" data-atom="023" data-title="Whether there is only one heaven?" data-chapter="Whether there is only one heaven?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that there is only one heaven. For the heaven is contrasted with
 the earth, in the words, "In the beginning God created heaven and earth."But there is only one earth.
@@ -1232,13 +1232,13 @@ entire sum of corporeal creation, for in that sense it is one.
 Reply to Objection 3: All the heavens have in common sublimity and some degree of
 luminosity, as appears from what has been said.
 
-<span class="atom-split" data-atom="024" data-title="ON THE WORK OF THE THIRD DAY (TWO ARTICLES)" data-chapter="ON THE WORK OF THE THIRD DAY (TWO ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="024" data-title="ON THE WORK OF THE THIRD DAY (TWO ARTICLES)" data-chapter="ON THE WORK OF THE THIRD DAY (TWO ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider the work of the third day. Under this head there are two points of inquiry:
 (1) About the gathering together of the waters;
 (2) About the production of plants.
 
-<span class="atom-split" data-atom="025" data-title="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day? (1/2)" data-chapter="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="025" data-title="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day? (1/2)" data-chapter="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting that the gathering together of the waters
 should take place on the third day. For what was made on the first and second days is expressly
@@ -1338,7 +1338,7 @@ Genesis, but also Job 38:10 where in the person of the Lord it is said, "I set M
 sea," and Jer. 5:22, where it is written: "Will you not then fear Me, saith the Lord, who have set
 the sand a bound for the sea?"
 
-<span class="atom-split" data-atom="026" data-title="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day? (2/2)" data-chapter="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="026" data-title="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day? (2/2)" data-chapter="Whether it was fitting that the gathering together of the waters should take place, as recorded, on the third day?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: According to [Augustine](/figures/augustine) (De Gen. Contr. Manich. i), primary matter is
 meant by the word earth, where first mentioned, but in the present passage it is to be taken for the
@@ -1355,7 +1355,7 @@ although the name earth is equally applied to that which is covered with waters 
 expression "He called" we are to understand throughout that the nature or property He bestowed
 corresponded to the name He gave.
 
-<span class="atom-split" data-atom="027" data-title="Whether it was fitting that the production of plants should take place on the third day?" data-chapter="Whether it was fitting that the production of plants should take place on the third day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="027" data-title="Whether it was fitting that the production of plants should take place on the third day?" data-chapter="Whether it was fitting that the production of plants should take place on the third day?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that it was not fitting that the production of plants should take place
 on the third day. For plants have life, as animals have. But the production of animals belongs to
@@ -1428,7 +1428,7 @@ Under the first head there are three points of inquiry:
 (2) As to the end of their production;
 (3) Whether they are living beings?
 
-<span class="atom-split" data-atom="028" data-title="Whether the lights ought to have been produced on the fourth day?" data-chapter="Whether the lights ought to have been produced on the fourth day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="028" data-title="Whether the lights ought to have been produced on the fourth day?" data-chapter="Whether the lights ought to have been produced on the fourth day?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the lights ought not to have been produced on the fourth day.
 For the heavenly luminaries are by nature incorruptible bodies: wherefore their matter cannot exist
@@ -1527,7 +1527,7 @@ regard to their dimensions as to their influence and power. For though the stars
 than the moon, yet the influence of the moon is more perceptible to the senses in this lower world.
 Moreover, as far as the senses are concerned, its apparent size is greater.
 
-<span class="atom-split" data-atom="029" data-title="Whether the cause assigned for the production of the lights is reasonable?" data-chapter="Whether the cause assigned for the production of the lights is reasonable?" data-kind="atom"></span>
+<span class="atom-split" data-atom="029" data-title="Whether the cause assigned for the production of the lights is reasonable?" data-chapter="Whether the cause assigned for the production of the lights is reasonable?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the cause assigned for the production of the lights is not
 reasonable. For it is said (Jer. 10:2): "Be not afraid of the signs of heaven, which the heathens fear."
@@ -1590,7 +1590,7 @@ the imperfect by natural processes, yet the perfect must exist simply before the
 however (Gen. ad lit. ii), does not say this, for he says that it is not unfitting that God made things
 imperfect, which He afterwards perfected.
 
-<span class="atom-split" data-atom="030" data-title="Whether the lights of heaven are living beings? (1/2)" data-chapter="Whether the lights of heaven are living beings?" data-kind="atom"></span>
+<span class="atom-split" data-atom="030" data-title="Whether the lights of heaven are living beings? (1/2)" data-chapter="Whether the lights of heaven are living beings?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the lights of heaven are living beings. For the nobler a body
 is, the more nobly it should be adorned. But a body less noble than the heaven, is adorned with
@@ -1694,7 +1694,7 @@ Reply to Objection 4: The movements of the heavenly bodies are natural, not on a
 their active principle, but on account of their passive principle; that is to say, from a certain natural
 aptitude for being moved by an intelligent power.
 
-<span class="atom-split" data-atom="031" data-title="Whether the lights of heaven are living beings? (2/2)" data-chapter="Whether the lights of heaven are living beings?" data-kind="atom"></span>
+<span class="atom-split" data-atom="031" data-title="Whether the lights of heaven are living beings? (2/2)" data-chapter="Whether the lights of heaven are living beings?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: The heaven is said to move itself in as far as it is compounded of mover
 and moved; not by the union of the mover, as the form, with the moved, as the matter, but by contact
@@ -1702,7 +1702,7 @@ with the motive power, as we have said. So far, then, the principle that moves i
 intrinsic, and consequently its movement natural with respect to that active principle; just as we
 say that voluntary movement is natural to the animal as animal (Phys. viii, text. 27).
 
-<span class="atom-split" data-atom="032" data-title="ON THE WORK OF THE FIFTH DAY (ONE ARTICLE)" data-chapter="ON THE WORK OF THE FIFTH DAY (ONE ARTICLE)" data-kind="atom"></span>
+<span class="atom-split" data-atom="032" data-title="ON THE WORK OF THE FIFTH DAY (ONE ARTICLE)" data-chapter="ON THE WORK OF THE FIFTH DAY (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the work of the fifth day.
 
@@ -1784,7 +1784,7 @@ Reply to Objection 5: The order in which the production of these animals is give
 to the order of those bodies which they are set to adorn, rather than to the superiority of the animals
 themselves. Moreover, in generation also the more perfect is reached through the less perfect.
 
-<span class="atom-split" data-atom="033" data-title="ON THE WORK OF THE SIXTH DAY (ONE ARTICLE)" data-chapter="ON THE WORK OF THE SIXTH DAY (ONE ARTICLE)" data-kind="atom"></span>
+<span class="atom-split" data-atom="033" data-title="ON THE WORK OF THE SIXTH DAY (ONE ARTICLE)" data-chapter="ON THE WORK OF THE SIXTH DAY (ONE ARTICLE)" data-kind="atom" data-srclang="en"></span>
 
 We must now consider the work of the sixth day.
 
@@ -1877,7 +1877,7 @@ things are necessary for the perfection of the universe." And, since man before 
 have used the things of this world conformably to the order designed, poisonous animals would
 not have injured him.
 
-<span class="atom-split" data-atom="034" data-title="ON THE THINGS THAT BELONG TO THE SEVENTH DAY (THREE ARTICLES)" data-chapter="ON THE THINGS THAT BELONG TO THE SEVENTH DAY (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="034" data-title="ON THE THINGS THAT BELONG TO THE SEVENTH DAY (THREE ARTICLES)" data-chapter="ON THE THINGS THAT BELONG TO THE SEVENTH DAY (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We must next consider the things that belong to the seventh day. Under this head there are three
 points of inquiry:
@@ -1885,7 +1885,7 @@ points of inquiry:
 (2) About the resting of God;
 (3) About the blessing and sanctifying of this day.
 
-<span class="atom-split" data-atom="035" data-title="Whether the completion of the Divine works ought to be ascribed to the seventh day?" data-chapter="Whether the completion of the Divine works ought to be ascribed to the seventh day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="035" data-title="Whether the completion of the Divine works ought to be ascribed to the seventh day?" data-chapter="Whether the completion of the Divine works ought to be ascribed to the seventh day?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that the completion of the Divine works ought not to be ascribed
 to the seventh day. For all things that are done in this world belong to the Divine works. But the
@@ -1959,7 +1959,7 @@ again, the glory that is spiritual was anticipated in the angels by way of simil
 body in the heaven, especially the empyrean. Hence it is written (Eccles. 1:10), "Nothing under the
 sun is new, for it hath already gone before, in the ages that were before us."
 
-<span class="atom-split" data-atom="036" data-title="Whether God rested on the seventh day from all His work?" data-chapter="Whether God rested on the seventh day from all His work?" data-kind="atom"></span>
+<span class="atom-split" data-atom="036" data-title="Whether God rested on the seventh day from all His work?" data-chapter="Whether God rested on the seventh day from all His work?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that God did not rest on the seventh day from all His work. For it
 is said (Jn. 5:17), "My Father worketh until now, and I work." God, then, did not rest on the seventh
@@ -2008,7 +2008,7 @@ in Himself, both from His works and our own. It is not, then, unreasonable to sa
 in giving rest to us. Still, this explanation must not be set down as the only one, and the other is
 the first and principal explanation.
 
-<span class="atom-split" data-atom="037" data-title="Whether blessing and sanctifying are due to the seventh day?" data-chapter="Whether blessing and sanctifying are due to the seventh day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="037" data-title="Whether blessing and sanctifying are due to the seventh day?" data-chapter="Whether blessing and sanctifying are due to the seventh day?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that blessing and sanctifying are not due to the seventh day. For it
 is usual to call a time blessed or holy for that some good thing has happened in it, or some evil been
@@ -2049,14 +2049,14 @@ it alone God finds His own rest, and we may find ours in its fruition.
 Reply to Objection 3: The good mentioned in the works of each day belongs to the first
 institution of nature; but the blessing attached to the seventh day, to its propagation.
 
-<span class="atom-split" data-atom="038" data-title="ON ALL THE SEVEN DAYS IN COMMON (THREE ARTICLES)" data-chapter="ON ALL THE SEVEN DAYS IN COMMON (THREE ARTICLES)" data-kind="atom"></span>
+<span class="atom-split" data-atom="038" data-title="ON ALL THE SEVEN DAYS IN COMMON (THREE ARTICLES)" data-chapter="ON ALL THE SEVEN DAYS IN COMMON (THREE ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
 We next consider all the seven days in common: and there are three points of inquiry:
 (1) As to the sufficiency of these days;
 (2) Whether they are all one day, or more than one?
 (3) As to certain modes of speaking which [Scripture](/concepts/revelation) uses in narrating the works of the six days.
 
-<span class="atom-split" data-atom="039" data-title="Whether these days are sufficiently enumerated?" data-chapter="Whether these days are sufficiently enumerated?" data-kind="atom"></span>
+<span class="atom-split" data-atom="039" data-title="Whether these days are sufficiently enumerated?" data-chapter="Whether these days are sufficiently enumerated?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that these days are not sufficiently enumerated. For the work of
 creation is no less distinct from the works of distinction and adornment than these two works are
@@ -2126,7 +2126,7 @@ day should be mentioned after the six. It may also be said, with the other write
 entered on the seventh day upon a new state, in that nothing new was to be added to it, and that
 therefore the seventh day is mentioned after the six, from its being devoted to cessation from work.
 
-<span class="atom-split" data-atom="040" data-title="Whether all these days are one day?" data-chapter="Whether all these days are one day?" data-kind="atom"></span>
+<span class="atom-split" data-atom="040" data-title="Whether all these days are one day?" data-chapter="Whether all these days are one day?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all these days are one day. For it is written (Gn. 2:4,5): "These
 are the generations of the heaven and the earth, when they were created, in the day that the Lord .
@@ -2209,7 +2209,7 @@ different states of the world, as each succeeding work added to the world a fres
 Reply to Objection 5: According to Augustine, the order of days refers to the natural order of
 the works attributed to the days.
 
-<span class="atom-split" data-atom="041" data-title="Whether Scripture uses suitable words to express the work of the six days? (1/2)" data-chapter="Whether Scripture uses suitable words to express the work of the six days?" data-kind="atom"></span>
+<span class="atom-split" data-atom="041" data-title="Whether Scripture uses suitable words to express the work of the six days? (1/2)" data-chapter="Whether Scripture uses suitable words to express the work of the six days?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem the [Scripture](/concepts/revelation) does not use suitable words to express the works of
 the six days. For as light, the firmament, and other similar works were made by the Word of God,
@@ -2302,7 +2302,7 @@ life-giving power, since many animals are generated in water, and the seed of al
 Also the life of the soul is given by the water of baptism, according to Jn. 3:5: "Unless a man be
 born again of water and the Holy Ghost, he cannot enter into the kingdom of God."
 
-<span class="atom-split" data-atom="042" data-title="Whether Scripture uses suitable words to express the work of the six days? (2/2)" data-chapter="Whether Scripture uses suitable words to express the work of the six days?" data-kind="atom"></span>
+<span class="atom-split" data-atom="042" data-title="Whether Scripture uses suitable words to express the work of the six days? (2/2)" data-chapter="Whether Scripture uses suitable words to express the work of the six days?" data-kind="atom" data-srclang="en"></span>
 
 Reply to Objection 5: According to [Augustine](/figures/augustine) (Gen. ad lit. i, 8), these three phrases denote
 the threefold being of creatures; first, their being in the Word, denoted by the command "Let . . .

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/canto_a_los_muertos_a_los_deberes_y_a_los_ideales" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Canto a los muertos, a los deberes y a los ideales" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Canto a los muertos, a los deberes y a los ideales" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Para la señora doña Eloísa Navarro Ledesma de Cubas
 
@@ -52,7 +52,7 @@ He llamado idealismo inmarcesible a la otra virtud que había eminentemente en N
 
 Navarro Ledesma había sufrido mucho, moral y físicamente: su mocedad se había anegado en una labor incesante y rudísima: por eso, habiéndole faltado la juventud ardorosa, pasional, turbulenta, conservó durante toda su vida una juventud más quieta, más armoniosa, más de clara fuente risueña, pausada y fresca; mantúvose siempre capaz de indignación y de entusiasmo; tuvo, en fin, hasta la muerte, sobre su rostro ancho y reciamente asentado en los hombros, esa tierna expresión con dejos melancólicos que conservan en la mirada las vírgenes viejas.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Suelen hacernos las desventuras de vidrio, como al licenciado, y no quisiéramos movernos para quebrarnos. De ordinario, en la llamada experiencia, más que aprender nuevas verdades aprendemos el olvido de esas difíciles verdades eternas que nos impulsan a la guerra santa contra la realidad. Por esto sorprende hallar algún hombre en quien luego de años largos de dolor, perdure la exaltación idealista, la segunda virtud democrática, girondina. Nietzsche hubiera llamado a Navarro Ledesma, como se nombraba a sí mismo: «Argonauta del ideal».
 

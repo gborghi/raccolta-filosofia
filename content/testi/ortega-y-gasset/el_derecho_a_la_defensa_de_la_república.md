@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_derecho_a_la_defensa_de_la_república" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El derecho a la defensa de la República" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El derecho a la defensa de la República" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En nombre de la nación, pedimos, pues, claridad. El Régimen es el suelo en que estamos y en que las «derechas» han podido conseguir su triunfo. Ese suelo tiene que ser tierra firme. Sobre él nos urge comenzar la otra faena, la de hacer una nueva alma a nuestro pueblo en que rebrote lo mejor de su alma eterna. No admitimos en un asunto tal artimañas ni nieblas. Hay que dar diafanidad moral al aire público de España para que puedan respirarlo sus hombres. Tuérzase el cuello a la astucia. En el escudo castizo está el león, pero no la vulpeja.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_sentido_histórico" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El sentido histórico" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="El sentido histórico" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando León Frobenius pasó recientemente por España y nos habló un poco de africanidades, Eugenio d’Ors creyó en peligro la cultura europea de que se ha hecho amable y generoso defensor. Contra la presunta invasión de armadas negroides que temía, destacó en ágil bandada un grupo de «Glosas» que iban, como suelen, capitaneadas por Ariel. Es el «Glosario» de Eugenio d’Ors uno de los hechos más importantes de las letras españolas contemporáneas. Con una constancia ejemplar, día por día, ha crecido su cosecha imperturbada como si viviese en perpetuo fructidor. Se desliza el «Glosario» sin prisa y sin pausa, según Goethe quería, aceptando a bordo todas las dimensiones de la vida, el suceso trivial o la alta idea. Tal vez su autor prefiriese que al verlo cinglar pensásemos en la desnuda nave de Ulises; pero su misma riqueza y atuendo, la vibración de sus aforismos, que ventean como gallardetes, le dan el mejor aire barroco y envían hacia nosotros la imagen de un arca de Noé estilizada en gálibo de góndola.
 
@@ -44,7 +44,7 @@ En escollos como éste es donde suele naufragar mi admiración por el «Glosario
 
 Pero volvamos a la cultura.
 
-<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
 Es, de hecho, problemático que la nuestra sea la única. A nuestra afirmación de ella contraponen su distinto fervor otras razas hoy deprimidas que un tiempo fueron preponderantes y muy bien podrían volverlo a ser. Para reconocer que las normas y valores vigentes en nuestras almas son los únicos merecedores de tal dignidad, sería menester demostrarlo. Mas para esto haría falta precisamente hacerse de ellos problema. Entonces, y sólo entonces, tendríamos algo incomparable a las demás culturas, salvo la griega. Solamente griegos y europeos han creído que no eran cultos mientras no pusiesen en duda su propia cultura y elaborasen serios fundamentos para ella. De donde resulta que nuestra cultura sólo será, en efecto, la única auténtica en la medida en que crea que no lo es y se vuelva problemática. Es decir, en un sentido estrictamente opuesto al que tiene en el «Glosario». A menudo d’Ors propone la [norma](/concepts/law) europea como quien anuncia un específico, cuando es, por el contrario, una divina angustia y un [sublime](/concepts/sublime) malestar.
 

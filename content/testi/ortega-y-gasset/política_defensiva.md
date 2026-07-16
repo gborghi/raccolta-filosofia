@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/política_defensiva" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Política defensiva" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Política defensiva" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No es sazón para hacer un ejército, hemos dicho. Lo fue hace siete meses. Entonces pudo emprenderse no la creación de una armada millonaria (no hay que hablar de esto), pero sí la realización de nuestro ejército. Pues el mayor desdoro que pesa sobre la población civil de España es acomodarse, lustro tras lustro, a que el ejército pagado por ella no exista en parte alguna.
 

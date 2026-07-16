@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/bajo_el_arco_en_ruina" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Bajo el arco en ruina" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Bajo el arco en ruina" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Voces se oyen cantoras de un optimismo que muchos no acertamos a compartir. Desde hace veinte años, la vida española es tan inerte y estéril, que basta a un suceso parecer anormal para que nos prometa ser ventajoso. La mejora de España no se presenta por ninguno de los puntos cardinales con fisonomía concreta e inequívoca; pero sentimos todos un vivo deseo de cambiar de postura, movidos por la vaga esperanza de que una diferente colocación de los miembros disminuya nuestros dolores. Hay, pues, un afán de ensayar, sin ningún proyecto definido de ensayo.
 

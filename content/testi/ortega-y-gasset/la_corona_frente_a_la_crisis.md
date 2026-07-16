@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_corona_frente_a_la_crisis" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La Corona frente a la crisis" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La Corona frente a la crisis" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El Gobierno, que iba ya malherido con un plomo en el ala, ha venido a caer en el acta de Coria. La elección de este sitio para aterrizar y fenecer tiene un sentido simbólico. Y conste que no lo decimos por el bobo, sino por la puente. Coronada por la mole adusta de su catedral, es nuestra Coria una ciudad bruna y arcaica, puesta sobre una costanilla cuyos pies lame la vena clara de un río. A notable distancia de éste, se eleva en lo seco una puente real; nadie la transita y bajo las grandes curvas de sus ojos fructifican unas huertas de privado beneficio. Así este Gobierno de ahora fue erigido, merced a un error de óptica palatino, lejos de la opinión pública, que, en su vario curso, busca otros cauces y torrenteras.
 

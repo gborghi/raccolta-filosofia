@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_novela_como_vida_provinciana" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La novela como «vida provinciana»" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La novela como «vida provinciana»" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Por tanto, hay que invertir los términos: la acción o trama no es la sustancia de la novela, sino, al contrario, su armazón exterior, su mero soporte mecánico. La esencia de lo novelesco —adviértase que me refiero tan sólo a la novela moderna— no está en lo que pasa, sino precisamente en lo que no es «pasar algo», en el puro vivir, en el ser y el estar de los personajes, sobre todo en su conjunto o ambiente. Una prueba indirecta de ello puede encontrarse en el hecho de que no solemos recordar de las mejores novelas los sucesos, las peripecias por que han pasado sus figuras, sino sólo a éstas, y citarnos el título de ciertos libros, equivale a nombrarnos una ciudad donde hemos vivido algún tiempo; al punto rememoramos un clima, un olor peculiar de la urbe, un tono general de las gentes y un ritmo típico de existencia. Sólo después, si es [caso](/concepts/fortune), acude a nuestra memoria alguna escena particular.
 

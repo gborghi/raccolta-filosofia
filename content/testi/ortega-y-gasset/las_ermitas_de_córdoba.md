@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_ermitas_de_córdoba" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las ermitas de Córdoba" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Las ermitas de Córdoba" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Si al acercarse el verano con sus ardores buscamos un lugar umbroso o una playa oreada, ¿por qué no hemos de buscar también sanatorios de silencio y casas de baños de soledad cuando algo dentro de nosotros nos demanda aislamiento?
 

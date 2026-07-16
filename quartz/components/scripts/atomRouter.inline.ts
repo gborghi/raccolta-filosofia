@@ -1,18 +1,20 @@
 // Reading-page SPA router.
 //
-// When preprocess runs with SPA=1 it emits ONE page per work: every atom's body is
-// concatenated behind an inline `<span class="atom-split" data-atom data-title
-// data-chapter data-kind>` marker (and each atom's optional Italian body behind the
-// existing `<span class="qlang-split" data-lang="it">` marker). Quartz renders the
-// whole page normally — wikilinks, prose, popovers, translations — so the full text
+// When preprocess runs with SPA=1 it emits ONE page per work: every atom's source
+// body is concatenated behind an inline `<span class="atom-split" data-atom data-title
+// data-chapter data-kind data-srclang>` marker, and each present translation follows
+// behind its own `<span class="qlang-split" data-lang="en|it">` marker. Quartz renders
+// the whole page normally — wikilinks, prose, popovers, translations — so the full text
 // is in the HTML (SEO-safe). This script then:
-//   1. partitions the rendered article DOM at the markers into per-atom node groups
-//      (same DOM-slicing trick the qlang toggle uses), splitting each into EN/IT;
+//   1. partitions the rendered article DOM at the markers into per-atom node groups,
+//      splitting each atom into one segment per language (source = data-srclang,
+//      each following segment = the language in its preceding qlang marker);
 //   2. detaches them and shows ONE atom at a time inside a reading pane, so the live
 //      DOM stays small even for a 400-atom novel (render-on-demand);
 //   3. deep-links each atom at `#atomId` (history + back/forward + arrow keys);
 //   4. builds a chapter/part table of contents and prev/next;
-//   5. offers a single work-level EN/IT toggle that governs every atom.
+//   5. offers a single work-level language switch (2 or 3 buttons) that governs every
+//      atom; a language missing on a given atom falls back to the source + a note.
 //
 // Mounted only on pages that carry a `<div class="atom-reader">` placeholder.
 
@@ -21,11 +23,22 @@ interface Atom {
   title: string
   chapter: string
   kind: string
-  en: Node[]
-  it: Node[]
+  srclang: string
+  segs: Record<string, Node[]> // codice lingua -> nodi (la fonte sta sotto srclang)
 }
 
 const LANG_KEY = "eng-reader-lang"
+
+// Etichetta breve (nel bottone) e nome esteso (nel title) per ogni lingua che la
+// fonte puo' avere. Codice ISO nel bottone: compatto come i vecchi EN/IT, e coerente
+// per due o tre lingue.
+const LANG_CODE: Record<string, string> = {
+  en: "EN", it: "IT", es: "ES", de: "DE", fr: "FR", la: "LA", grc: "GRC",
+}
+const LANG_NAME: Record<string, string> = {
+  en: "English", it: "Italiano", es: "Español", de: "Deutsch",
+  fr: "Français", la: "Latina", grc: "Ελληνικά",
+}
 
 // Una voce di "Opere collegate" o "In contrasto" (vedi atom_related in preprocess.mjs).
 interface RelatedItem {
@@ -77,7 +90,7 @@ function partition(
   const atoms: Atom[] = []
   const markerNodes: Node[] = [] // the top-level nodes (bare marker or its wrapping <p>) to detach
   let cur: Atom | null = null
-  let lang: "en" | "it" = "en"
+  let curLang = "" // lingua del segmento in corso: srclang all'atom-split, poi data-lang
   for (const node of Array.from(container.childNodes)) {
     if (node === mount) continue
     if (node.nodeType === Node.ELEMENT_NODE) {
@@ -85,23 +98,26 @@ function partition(
       if (marker) {
         markerNodes.push(node)
         if (marker.classList.contains("atom-split")) {
+          const srclang = marker.dataset.srclang || "en"
           cur = {
             id: marker.dataset.atom || `atom-${atoms.length}`,
             title: marker.dataset.title || "",
             chapter: marker.dataset.chapter || "",
             kind: marker.dataset.kind || "",
-            en: [],
-            it: [],
+            srclang,
+            segs: { [srclang]: [] },
           }
           atoms.push(cur)
-          lang = "en"
+          curLang = srclang
         } else {
-          lang = "it"
+          // qlang-split: apre il segmento della lingua tradotta
+          curLang = marker.dataset.lang || ""
+          if (cur && curLang) cur.segs[curLang] = cur.segs[curLang] || []
         }
         continue
       }
     }
-    if (cur) (lang === "en" ? cur.en : cur.it).push(node)
+    if (cur && curLang) (cur.segs[curLang] = cur.segs[curLang] || []).push(node)
   }
   return { atoms, markerNodes }
 }
@@ -140,17 +156,38 @@ function build(reader: HTMLElement) {
 
   const { atoms, markerNodes } = partition(container, reader)
   if (!atoms.length) return
-  const anyIt = atoms.some((a) => a.it.length > 0)
+
+  // Lingue della pagina = unione delle lingue presenti su TUTTI gli atomi (la fonte
+  // c'e' sempre; le traduzioni possono mancare su singoli atomi con opera tradotta a
+  // meta'). Ordine: originale prima se non-EN, poi EN, poi IT, poi eventuali residue.
+  const srclang = atoms[0].srclang || "en"
+  const union = new Set<string>()
+  for (const a of atoms) for (const l of Object.keys(a.segs)) union.add(l)
+  const pageLangs: string[] = []
+  const addLang = (l: string) => {
+    if (l && union.has(l) && !pageLangs.includes(l)) pageLangs.push(l)
+  }
+  if (srclang !== "en") addLang(srclang)
+  addLang("en")
+  addLang("it")
+  for (const l of union) addLang(l)
 
   // detach every atom's nodes + the marker nodes (bare span or its wrapping <p>) so
   // no empty marker boxes linger in the flow
   for (const m of markerNodes) m.parentNode?.removeChild(m)
-  for (const a of atoms) for (const n of [...a.en, ...a.it]) n.parentNode?.removeChild(n)
+  for (const a of atoms)
+    for (const l of Object.keys(a.segs))
+      for (const n of a.segs[l]) n.parentNode?.removeChild(n)
 
   const order = atoms.map((a) => a.id)
   const byId = new Map(atoms.map((a) => [a.id, a]))
-  let lang: "en" | "it" =
-    anyIt && localStorage.getItem(LANG_KEY) === "it" ? "it" : "en"
+  // Selezione valida per l'intera pagina: default EN se presente, altrimenti la fonte.
+  const stored = localStorage.getItem(LANG_KEY) || ""
+  let lang: string = pageLangs.includes(stored)
+    ? stored
+    : pageLangs.includes("en")
+      ? "en"
+      : srclang
 
   // "Opere collegate" / "In contrasto" per atomo: chiave "<workSlug>#<atomId>", la
   // stessa che preprocess emette e che l'hash della pagina risolve. Caricato async; al
@@ -183,12 +220,17 @@ function build(reader: HTMLElement) {
   tocBtn.setAttribute("aria-label", "Indice")
   const crumb = el("div", "ar-crumb")
   const spacer = el("div", "ar-spacer")
+  // Un bottone per lingua della pagina. Il click e' cablato piu' sotto (dopo che
+  // render/applyLangButtons esistono).
   const langWrap = el("div", "ar-lang")
-  const enBtn = el("button", "", "EN")
-  const itBtn = el("button", "", "IT")
-  enBtn.dataset.l = "en"
-  itBtn.dataset.l = "it"
-  langWrap.append(enBtn, itBtn)
+  const langBtns = new Map<string, HTMLButtonElement>()
+  for (const l of pageLangs) {
+    const b = el("button", "", LANG_CODE[l] || l.toUpperCase())
+    b.dataset.l = l
+    b.title = LANG_NAME[l] || l
+    langBtns.set(l, b)
+    langWrap.append(b)
+  }
   const pager = el("div", "ar-pager")
   const prevBtn = el("button", "ar-prev", "&#8249;")
   const nextBtn = el("button", "ar-next", "&#8250;")
@@ -196,7 +238,7 @@ function build(reader: HTMLElement) {
   nextBtn.setAttribute("aria-label", "Successivo")
   pager.append(prevBtn, nextBtn)
   bar.append(tocBtn, crumb, spacer)
-  if (anyIt) bar.append(langWrap)
+  if (pageLangs.length > 1) bar.append(langWrap)
   bar.append(pager)
 
   const shell = el("div", "ar-shell")
@@ -248,8 +290,7 @@ function build(reader: HTMLElement) {
     return order.indexOf(id)
   }
   function applyLangButtons() {
-    enBtn.classList.toggle("active", lang === "en")
-    itBtn.classList.toggle("active", lang === "it")
+    for (const [l, b] of langBtns) b.classList.toggle("active", l === lang)
   }
   // Un blocco di rinvii ad altre OPERE (mai a un atomo: il rinvio e' all'opera, che si
   // apre sulla sua prima pagina). L'opera dell'atomo corrente non c'e' mai — la esclude
@@ -289,9 +330,13 @@ function build(reader: HTMLElement) {
   function render(id: string) {
     const a = byId.get(id) || atoms[0]
     shownId = a.id
-    let nodes = lang === "it" && a.it.length ? a.it : a.en
-    pane.replaceChildren(...nodes.map((n) => n))
-    if (lang === "it" && !a.it.length && anyIt) {
+    // La lingua scelta se c'e' su questo atomo; altrimenti si ripiega sulla fonte
+    // (sempre presente) e si segnala che la traduzione manca — solo per questo atomo,
+    // senza svuotare la pagina.
+    const has = a.segs[lang] && a.segs[lang].length > 0
+    const nodes = has ? a.segs[lang] : a.segs[a.srclang] || []
+    pane.replaceChildren(...nodes)
+    if (!has && pageLangs.length > 1) {
       pane.append(el("p", "ar-notr", "— traduzione non disponibile per questa sezione —"))
     }
     // crumb + counter: chapter in bold, then the leaf only when it adds info
@@ -341,17 +386,13 @@ function build(reader: HTMLElement) {
     return decodeURIComponent(location.hash.slice(1)) || order[0]
   }
 
-  enBtn.onclick = () => {
-    lang = "en"
-    localStorage.setItem(LANG_KEY, "en")
-    applyLangButtons()
-    render(shownId)
-  }
-  itBtn.onclick = () => {
-    lang = "it"
-    localStorage.setItem(LANG_KEY, "it")
-    applyLangButtons()
-    render(shownId)
+  for (const [l, b] of langBtns) {
+    b.onclick = () => {
+      lang = l
+      localStorage.setItem(LANG_KEY, l)
+      applyLangButtons()
+      render(shownId)
+    }
   }
   prevBtn.onclick = () => {
     const i = idx(shownId)

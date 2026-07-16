@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_teología_de_renan" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La teología de Renan" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La teología de Renan" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El libro de Gastón Strauss, La política de Renan, nos ofrece la ocasión de observar cómo un intelectual se aproxima a la política.
 

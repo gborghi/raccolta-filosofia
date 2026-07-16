@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_hermana_visitadora" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La hermana visitadora" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="La hermana visitadora" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Palencia, Grijota, Villaumbrales, Paredes… Aquí, en Paredes, creo que nació Berruguete, el escultor. Es una aldea grande, tendida en el llano, con algunos edificios amplios que deben de ser hospitales. ¡Iglesias y hospitales! Obras de la fe, obras de la caridad. Pero en ninguna parte, sobre los techos rojizos de estos poblados, se advierte la huella de los dedos de la esperanza. Ni verdura en la tierra, ni esperanza en los corazones. Cercado por esta aspereza tan ardiente, algo, gimiendo dentro de nosotros, exclama: «¡Esperanza!» Y como si acudiera a nuestra llamada, vemos en la fantasía una fontana de agua clara, fresca, que mana trémula…
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/brindis_en_el_banquete_a_la_revista_hermes" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Brindis en el banquete a la revista Hermes" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Brindis en el banquete a la revista Hermes" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Las cosas excusables, señores, no deben hacerse, y hablar yo ahora me parece de lo más excusable del mundo. El señor Sarriá ha reunido en torno a estas mesas a aquéllos que desde Madrid con más vehemencia simpatizamos con su afán de Bilbao.
 

@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pedagogía_y_anacronismo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Pedagogía y anacronismo" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Pedagogía y anacronismo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Según oigo, es Kerschensteiner uno de los pedagogos más eminentes de la hora que corre. Sin embargo, me encuentro con que para el señor Kerschensteiner el fin general de la educación es educar ciudadanos útiles, en cuanto han de servir a los fines de un Estado determinado y a los de la humanidad[35]. Yo no concibo cómo un hombre de tan excelente criterio puede decir una cosa así. Ello da medida del descuido en que andan las ideas pedagógicas de nuestro tiempo. Esta trivialidad procede de múltiples causas; pero una de ellas es más fácil de definir que las demás y, en cierta manera, las resume todas. Me refiero al anacronismo constitucional que suele padecer el pensamiento pedagógico.
 

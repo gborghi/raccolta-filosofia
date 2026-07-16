@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/irónico_destino" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Irónico destino" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="001" data-title="Irónico destino" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Más arriba se ha dicho que el nuevo estilo, tomado en su más amplia generalidad, consiste en eliminar los ingredientes , y retener sólo la [materia](/positions/materialism) puramente artística. Esto parece implicar un gran entusiasmo por el arte. Pero al rodear el mismo hecho y contemplarlo desde otra vertiente sorprendemos en él un cariz opuesto de hastío o desdén. La contradicción es patente e importa mucho subrayarla. En definitiva, vendría a significar que el arte nuevo es un fenómeno de índole equívoca, cosa, a la verdad, nada sorprendente, porque equívocos son casi todos los grandes hechos de estos años en curso. Bastaría analizar un poco los acontecimientos políticos de Europa para hallar en ellos la misma entraña equívoca.
 
