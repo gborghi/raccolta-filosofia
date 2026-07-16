@@ -1,0 +1,51 @@
+---
+title: "Sobre la sinceridad triunfante"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> A marginal note to the Kant reflections: the virtue proper to our harsh age is sincerity, because classical ages were essentially insincere. Before a Greek statue no fault can be found, yet a dissatisfaction remains: classical perfection is measured against its own module, and what delights in it is not the individual person but an abstract, exemplary 'pedagogical I'.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_la_sinceridad_triunfante" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Sobre la sinceridad triunfante" data-chapter="" data-kind="intro"></span>
+
+En el número anterior de esta Revista —en la primera parte de mis notas sobre Kant— opongo a las épocas de vida clásica la nuestra, y a la suavidad, la perfección, la quietud de aquéllas, nuestro modo de existir, áspero, agrio, roto, lleno de inminencias. Esto no implica —añado— que las edades agrias no tengan sus virtudes propias, ausentes de las dulces.
+
+Algunos lectores me preguntan cuáles son esas virtudes adscritas a nuestro tiempo, y yo he de reiterar que no podría satisfacer esa curiosidad de una manera concisa. Fuera necesario comparar con algún detalle la psicología del hombre clásico con la del hombre de transición, su tipo antagónico. Tarea semejante no es ahora oportuna. Sin embargo, quisiera no dejar por completo insatisfechas a gentes que poseen la genialidad menos sólita en nuestro tiempo, la genialidad de ser curiosos. Ya que no pueda ofrecerles el sistema de las virtudes actuales, les hablaré, en breve nota marginal, de una de ellas —tal vez la substantiva, la que soporta todas las demás.
+
+Es un poco difícil de decir, un poco audaz, pero yo voy a atreverme. Las épocas clásicas son épocas esencialmente insinceras. Ya está dicho. Hace mucho, mucho tiempo que sentía la necesidad de decir eso. ¡Pero era tan peligroso enunciarlo! Ciertamente que no iba a ser decapitado por la osadía. Nadie habría de protestar ni de indignarse. En los países de habla española lo mismo da escribir una gran verdad que una insolente inepcia: nada trae consecuencias. Pero se trataba de un peligro íntimo —el temor de decir algo poco escrupuloso, abierto a las malas inteligencias, de caprichosa apariencia. Cuanta menos disciplina nos imponga el contorno moral de nuestra sociedad, mayor rigor íntimo necesita poseer el que escribe… Pero aquí, en una nota, como al oído, ¿por qué no atreverse?
+
+Las épocas clásicas —en arte como en política— han sido posibles gracias a la insinceridad de los hombres que en ellas vivieron. Esto es muy especialmente verdad referido al clasicismo por excelencia, al clasicismo griego.
+
+No creo que me sea exclusiva esta impresión; al leer una obra clásica se siente siempre, junto a la complacencia por la perfección objetiva de la obra, una peculiar insatisfacción. No sería ésta peculiar si consistiese en la advertencia de tales o cuales defectos padecidos por la obra. Pero la insatisfacción que sentimos delante de todo lo griego, por ejemplo, se acusa tanto más sutilmente cuanto menos reparos nos ocurren. La grecofilia ha heredado de su ídolo cultural la insinceridad —la misma insinceridad esencial que ahora intento definir—, y es muy difícil entenderse con ella. Siempre creerá que nuestras objeciones al arte helénico significan la negación de sus gracias perfectas. Pero no hay tal. Es prácticamente imposible encontrar defectos a ciertas estatuas griegas. Son lo que tenían que ser. Todo lo clásico es siempre lo que tenía que ser; no ofrece poro alguno a la crítica. Pero el grecófilo olvida que esa valoración de una obra con respecto a su propio módulo ideal es sólo relativa. Frente a ella actúa, debe actuar, otra valoración absoluta en que estimamos no tanto la obra concreta como el estilo a que ella aspira. Una estatua griega me parece perfecta, pero esa perfección griega me deja insatisfecho. Y esto que me acontece le acontece a todo el mundo, aunque casi nadie sepa ver que le acontece. Los clásicos ejercen un indelicado terrorismo sobre las pobres almas contemporáneas, tan poco seguras de sí. El hombre que no se entusiasma con lo clásico se avergüenza de sí mismo. ¡Superstición! Con lo clásico es psicológicamente imposible entusiasmarse (si excluimos los falsos fervores suscitados por motivos ajenos a la obra clásica). La obra clásica se siente siempre como distante de nuestra sensibilidad, como si no encajase exactamente en el perfil de nuestro apetito. Queda siempre circunscribiendo éste vagamente, sin ceñirse bien a él. Nos parece que quien se complace en aquella belleza no es nuestra persona individual, sino un yo abstracto y ejemplar que lleváramos dentro y que nos fuese común con todo el género humano, un yo pedagógico. Es el mismo yo que asiente al 2 + 2 = 4. Un yo sin duda respetable, pero que no es el nuestro inalienable e insustituible; un yo que forma sólo la periferia del auténtico; un yo que fuese un polígono dentro del cual está inscrito nuestro verdadero yo, deliciosa o trágicamente circular.
+
+En vez de decir que la obra clásica nos queda distante, podríamos formular el mismo hecho íntimo, la misma impresión, diciendo que la obra clásica es pobre. Pobre como lo es el polígono con respecto al círculo, la recta emparejada con la curva.
+
+La vida clásica se compone de tópicos. Con esto no pretendo descalificar las ideas y valores característicos de las épocas culminantes. Sus ideas son discretísimas, sus valores son de alta nobleza, pero tienen la condición abstracta, genérica y mostrenca propia a todos los tópicos. Todavía en el siglo XVIII se consideraba como uno de los valores esenciales a toda obra bella «la unidad en la variedad». Pero ¿es posible entusiasmarse con esa virtud? Podrá ser reconocida y alguna reflexión nos moverá hasta aplaudirla; pero con la contemplación de lo uno en lo vario no puede embriagarse nadie. Lo propio cabe decir del principio monárquico a lo Luis XIV o de la democracia ateniense. Son ideas tópicas de que hoy no podríamos vivir. Aunque la reflexión las encuentre plausibles, son demasiado inconcretas para coincidir con nuestras exigencias individuales. El tópico es la verdad impersonal, y cuando hallamos que una época se ha satisfecho respirando tópicos, necesitamos pensar que los hombres de ella eran impersonales. Pero ¿qué significa esto? No es posible admitir que a esos hombres faltase la sensación de su propia individualísima personalidad. Lo que ocurría era otra cosa. Por unas u otras razones históricas, existía en ellos la propensión a creer que la vida debe consistir en una acomodación del individuo a ciertas formas oficiales, convencionales, de reacción intelectual o estética. Sólo así es posible un estilo colectivo, y sólo bajo el imperio de un estilo colectivo es posible una época clásica.
+
+Nuestra sensibilidad es rigorosamente opuesta. Vivir es para nosotros huir del tópico, recurrir de él a nuestra personalísima reacción. Aquella otra tendencia incluye una radical insinceridad. No porque esos hombres ocultasen lo que sentían, sino porque sentían conforme a un patrón. Eran insinceros en segunda potencia.
+
+En una conferencia reciente hacía notar Valéry que en el arte clásico hay siempre un elemento convencional. Yo aguzaría el diagnóstico. Todo arte clásico, toda vida clásica, es convencionalidad constituida. Sólo cuando los hombres llegan a ser en su sustancia misma convencionales, puede levantarse el admirable edificio de un clasicismo.
+
+Nuestra edad, en cambio, siente, quiera o no, una grave incompatibilidad con todo lo convencional. Es menester que la idea, que la gracia, que el dogma y el imperativo se amolden exactamente al pulso de cada persona. Y como todo gran edificio social supone artificios sobreindividuales, va a ser muy difícil que nuestro tiempo produzca arte grande, sistemas ejemplares, política constructiva.
+
+Algunos ensayan oponerse a la sinceridad contemporánea, por considerarla, muy justamente, una fuerza deletérea. Pero, sin remedio, sus predicaciones suenan a un extemporáneo convencionalismo. Así, los que predican el retorno al arte clásico o el señor Maurras, que se obstina en restaurar la política clásica de Europa. Ya el hecho de predicar es un convencionalismo. Implica el propósito de suplantar nuestro efectivo y sincero modo de sentir con otro que el predicador considera debido.
+
+El hecho de que parezca el mundo haberse vaciado de prestigios, de glorias, de disciplinas, de «principios», etcétera, no es sino un resultado de la sinceridad operante. Como un reactivo mordiente, actúa ésta sobre toda la noble convencionalidad clásica y la desvirtúa. El mundo vuelve a estar desnudo, a ser simplemente lo que es, sin halos patéticos, sin resonancias convenidas, sin «piezas montadas». ¿Podremos sobre esa nuda realidad fabricar un modo vigoroso de existencia? Éste es el problema presente. ¿Cabe un clasicismo asentado en sinceridad? ¿No es una contradicción?
+
+Pero el destino de la vida en el cosmos ha sido siempre resolver las contradicciones que nuestra razón afila.
+
+La cuestión puede resumirse así. Hay dos clases de épocas: aquéllas en que la «buena acción» es la acción que repite un modelo —lo estimado en ella es el esfuerzo por no ser individual, por pasar íntegra la persona al tipo o esquema genérico. Y aquéllas otras en que, por el contrario, lo estimable de la acción es su sinceridad, ese tufo de espontaneidad que en ella encontramos cuando la vemos brotar del individuo como la hoja del botón en el árbol. Lo que en ella nos complace es el esfuerzo por no ser conforme al modelo. Se trata, pues, de dos preferencias inversas.
+
+Revista de Occidente, mayo, 1924

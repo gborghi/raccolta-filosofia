@@ -1,0 +1,153 @@
+---
+title: "Los votos van al presidio"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> An open letter to the editor of El Día, used as a pretext for a hierarchy of moral values: law and legality are the most external of values, and the Pharisee's error is one of ordering, not of content ('let us be legal above all'); likewise utopian rigorism errs in forgetting life, since morality is nothing but 'the good life'. Before being morally good, Ortega says, one must be vitally good.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/los_votos_van_al_presidio" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Los votos van al presidio" data-chapter="" data-kind="intro"></span>
+
+I
+
+Señor director de El Día.
+
+Amigo Gómez Hidalgo: Me pide usted que escriba en su periódico sobre el curioso fenómeno social de una población donde, para el cargo más íntimo y doméstico de la vida urbana, son elegidos por una mayoría inequívoca «cuatro presidiarios». En el artículo «El crédito de opinión», que ayer publican ustedes, se solicita la intervención literaria en este asunto de los que no somos legisperitos ni «políticos». Y aunque no suelo incorporarme a tal género de encuestas, quiero esta vez hacerlo, no por creer que va a servir de cosa alguna mi contribución ni porque se trate de un hecho en verdad importante y de patriótica transcendencia —¡en cuántos de esta índole no interviene uno ni puede intervenir!—, sino, paladinamente dicho, por la razón privada, y personal de mi gratitud a su periódico, el único que ha seguido con espontáneo afecto mis esfuerzos de América y de la Península hacia una España mejor, que ahora comienza a llevar frutos.
+
+Y ya en esto, amigo mío, tenemos una [circunstancia](/positions/life_as_project) que exige «renovación». Durante sesenta años ha dominado la tendencia a hacer de la justicia o conformidad con el derecho, escrito o eterno, el único valor moral, cuando menos el único digno de regir las relaciones públicas. Y es el derecho, sin duda, una cosa altamente venerable de que no podemos prescindir, una de las muchas cualidades decisivas de la cultura. Pero no es más que una. Para no hablar sino del orden o haz moral de la cultura, ahí están la nobleza, la generosidad, el respeto mutuo, la piedad, el coraje ético, en fin, la gratitud, que son otros tantos valores morales, cuando menos del mismo rango que la justicia dentro de la jerarquía ideal que demanda una ética acertada. El exclusivismo que ha solido imperar en favor del derecho ha traído pésimas consecuencias. Más aún, cualquiera otra virtud que hubiese intentado análogo predominio habría sido más fecunda. ¿Por qué? Por la sencilla razón de que entre todas las cualidades morales es el derecho, y especialmente la legalidad, la más externa. Sin ley no podemos vivir bien, como sin vaso no podemos beber bien; pero no vacilaremos, si damos a las cosas su debido orden, en preferir un buen hontanar a un buen vaso. La atención excesiva a la legalidad nos ha dejado en las manos un vaso casi perfecto, pero casi perfectamente seco. El [caso](/concepts/fortune) no es nuevo en la historia; como en la literaria asistimos más de una vez a la muerte de una literatura por la exclusiva preocupación de la forma —arte amanerado y retórico—, así en la historia de los sentimientos éticos asistimos a la desaparición de civilizaciones destruidas por el legalismo, —culturas farisaicas.
+
+¿Por ventura, sostiene algo absurdo o indeseable el fariseo? «¡Seamos legales!», dice. ¿Quién se atrevería a no seguirle? Pero no; el fariseo dice otra cosa muy distinta: «¡Seamos “ante todo” legales!» Y esto sí es absurdo, esto sí es inmoral, esto sí es antivital. He ahí la enorme importancia que tiene un simple error de ordenación. La ley, cosa venerable en su lugar, es abominable puesta «ante» todas las demás. No, señores fariseos: antes que legales, y aun antes que justos, tenemos que ser muchas otras cosas, por ejemplo: nobles, discretos, respetuosos del prójimo, benévolos, etcétera, en suma, buenos. Y antes que buenos moralmente, buenos vitalmente.
+
+Aquí tenemos, amigo mío, otro punto en que importa una radical «renovación» de las conciencias. Como el fariseísmo es la perversión nacida de anteponer la legalidad a la moral íntima, es el ascetismo o rigorismo o utopismo ético la perversión que consiste en atender sólo a la moral y olvidarse de la vida. Esta enfermedad presenta síntomas como el que contienen estas palabras: «¡Perezcan las naciones y que se salven los principios!» ¡Tampoco, señores rigoristas, señores radicales, señores utopistas, tampoco! La moral vale más que la vida, es cierto; pero la moral no es sino la «vida» buena, el «buen» orden de la vida. Destruye usted la vida y destruye usted con el mismo gesto la posibilidad de la moral. Destruye usted la sociedad y aniquila usted a la par el «buen» orden social.
+
+Esto quiere decir que puede darse el caso, ante un hombre o ante un pueblo, de ser más urgente y, por lo tanto, más moral atender a salvar su vitalidad que su moralidad, sus energías históricas que el orden público. Con un caso típico de esta clase nos hallamos ahora en España. De aquí nace la idea sustentada por mí desde hace años, y expuesta en una conferencia de la Comedia, en 1914 (Vieja y nueva política); la idea, digo, de oponer la España «vital» a la España «oficial» (legal) e invitar a que las gentes, cuando haya conflicto entre una y otra, prefieran siempre aquélla a ésta.
+
+¿Es esto sólo la retórica oposición de una palabra a otra palabra, un ejemplo brillante de lo que llamamos «logomaquia»? No sé; pero me interesaría que alguien lograse explicar y calificar de otra manera lo que viene aconteciendo en España desde 1.º de junio último. Yo sólo acierto a describirlo de esta manera: España acepta una serie continuada de ilegalidades en gracia de una serie de vitalizaciones. Rompe la costra de los hábitos legales constituidos para dejar crecer y expandirse una realidad vital subyacente y en constitución.
+
+No pretendo que el pueblo español me haya escuchado ni mucho menos que haga lo que hace por haberme oído. Pero ello es que desde 1.º de junio parecen los españoles preferir la España vital a la España oficial. Lo cual significa que era yo quien había escuchado a los españoles antes que ellos a sí mismos. Tal es la misión del político, decía yo en la Comedia, abril de 1914: «La misión que, según [Fichte](/schools/german_idealism), compete al político, al verdadero político, consiste en “declarar lo que es”, en desprenderse de los tópicos ambientes y sin virtud, de los motes viejos y, penetrando en el fondo del alma colectiva, tratar de sacar a luz en fórmulas claras, evidentes, esas opiniones inexpresas e íntimas de un grupo social»[1].
+
+Preferencia, pues, de la España vital sobre la España legal.
+
+Fenómenos más salientes en que se concreta esa calificación mía del actual momento:
+
+1.º Para «renovar» a España saltan fuera de la ley los militares, que eran los encargados de defender la ley.
+
+2.º Los electores de Madrid votan a unos «presidiarios» situados fuera de la ley y derrotan a los partidos turnantes, que hasta ayer eran los encargados de representar y de hacer la ley.
+
+¿Consecuencia primera de todo esto?… La siguiente:
+
+¡Jóvenes de veinte años! No hagáis caso de quien os diga que el político tiene que ser un hombre que vea la vida como el conde de Romanones. Mirad, yo he hecho toda mi vida próximamente lo contrario que el conde de Romanones. Y, sin embargo, él se ha equivocado en política y yo en política he acertado —yo—…; que, como el Pierrot de Laforgue, soy no más que un «lunólogo eminente».
+
+El Día, 15 de noviembre de 1917
+
+II
+
+Señor director de El Día.
+
+Amigo Gómez Hidalgo: En un viejísimo «purana» indio se dice que donde quiera pone el hombre sobre el suelo la planta pisa siempre cien senderos. No hay hechos insignificantes si el hombre tiene órganos para recibir sus innumerables sentidos y alusiones. Toda cosa, al rozarla nosotros, nos hace guiños y trémulos ademanes, como anhelando que al través de ellos interpretemos su embrujada y aparente mudez. La mejor verdad está dicha en el eterno cuento de hadas donde una vieja mendiga hallada al borde del camino resulta, a poco que se la atienda, una gentil princesa.
+
+Como un hueso a un can hambriento, arroja usted a mi meditación este hecho social de unos «presidiarios» elegidos para concejales. Y me pregunta: «¿Qué piensa usted de ello?» Más fácil sería acaso la respuesta si me preguntase usted qué no pienso de ello. Porque ese hecho tiene haces o caras múltiples, buenos unos, malos otros, donde se refleja gran parte del presente y el porvenir nacionales. Recuerda usted, sin duda, aquella escena del antiguo régimen moribundo que Marmontel refiere en sus Memorias: cenando en el palacio de Richelieu damas y próceres, a la sobremesa, se inclinan, invitados por Cagliostro, sobre una copa de agua, y en los vagos reflejos del líquido aciertan a ver representados los sucesos de la gran Revolución, diez años antes que ésta sobrevenga.
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+Ayer tomé un sendero y dibujé una cara de las que aquel hecho presenta. Me importaba ante todo señalar lo que este fenómeno tiene de común con tantos otros surgidos en España desde hace algún tiempo. En una de sus significaciones coincide con la actitud de los militares; uno y otro hecho implican la sensación de que ciertas porciones del derecho vigente y constituido perpetúan una legalidad falsa, ficticia, hipócrita y, por lo tanto, irrespetable. La realidad social se ve obligada a afirmar contra ella su derecho preferente. Mas entiéndase bien, siempre que la vida rompe una ley va movida por la aspiración a otra ley más efectiva, compleja y respetable. Toda España ha visto la ilegalidad de la situación creada por las Juntas de defensa y, sin embargo, expresa o tácita, no ha faltado a éstas la adhesión de los corazones. ¿De dónde nace tal adhesión general? ¿Por acaso, de una perversa fruición en la ilegalidad como tal, pareja a la que siente el loco furioso al ver rotas las cosas? Algunos individuos de temperamento socialmente anómalo tal vez obedezcan a este motivo. Pero la adhesión ha sido general y no sólo de estos «especialistas en desorden».
+
+Más concretamente: en pocas cosas manifiestan los españoles tan compacto acuerdo como en desear la supremacía del Poder civil. Y sin embargo han aceptado transitoriamente su mediatización por la fuerza militar. La razón no puede ser más que una: el Poder civil hollado no era tal Poder civil. La ley rota era sólo una ficción de ley. Y en la actitud de los militares, aparte toda clase de reservas secundarias, hemos visto todos preformada y como aspirada una nueva legalidad de mejor cuño. El instante en que la opinión pública dudase gravemente de esto sería el último instante de las Juntas de defensa.
+
+Los militares han roto la Constitución, la ley general. Más modestos, los electores madrileños han roto una ley particular: la sentencia en que un tribunal manda a presidio e incapacita a cuatro hombres. El fenómeno es el mismo, pero por ser más modesto y circunscrito procede de causas menos profundas, más momentáneas.
+
+Como el Poder civil no era tal Poder civil, así la sentencia contra el Comité de huelga nació ineficaz.
+
+Al decir esto creo reflejar escrupulosa e imparcialmente un hecho de la conciencia colectiva. No digo que a mí me parezca bien o mal la sentencia, porque esta declaración carecería de todo interés. Escribo para gentes leales que cuando un escritor afirma algo confrontan esta afirmación con la realidad misma y, si coinciden ambas, aceptan aquélla, y si no, no.
+
+Digo, pues, que para una gran mayoría de conciudadanos la sentencia contra el Comité de huelga nació ineficaz, no pareció una ley «seria», se presentó sin esos graves y vigorosos caracteres que hacen respetable una prescripción o mandato.
+
+Me va usted a permitir, amigo mío, que en este punto delicado exprese sin ambages mi pensamiento.
+
+¿Por qué no era «seria», esto es, eficiente, ejecutiva, la sentencia? Lo contrario a la seriedad es la frivolidad y cuanto ha dado motivo al supuesto delito, y, en consecuencia, el proceso mismo y la sentencia forman un tejido de frivolidades. El nombre es duro, pero no será menester advertir que yo nombro así los acontecimientos y excuso las personas.
+
+¿No debemos llamar frivolidad a la adopción de resoluciones que traen graves consecuencias, en virtud de razonamientos ligeros, pueriles, superficiales? Pues en este sentido fue una evidente frivolidad la huelga general. No necesito probarlo, aunque algún día he de decir lo que me ocurre sobre aquel hecho y sobre la psicología de sus directores. No necesito probarlo porque, como es sabido, todas las personas que en este movimiento intervinieron hacen constar que no lo quisieron. Es decir, que todos reconocen su frivolidad.
+
+A esta primera, de obreros y republicanos, siguió la frivolidad cometida por el Cuerpo armado. Hubo, por parte de éste, una prontitud, una diligencia y un celo en acudir a contrarrestar la agitación popular, que todo espíritu imparcial, el cual aspire sólo a entender estos sucesos como un futuro historiador, necesita mostrar lealmente su extrañeza. Dos meses y medio antes los militares consideraban de tal manera corrupta e irritante la acción gubernamental, que les pareció oportuno y lícito declararse en rebeldía. Aproximadamente España entera abundó en el juicio de los militares sobre el estado de cosas vigente.
+
+Esto obligaba al Ejército a comportarse con la debida complejidad, ya que fatalmente —y en buena hora sea dicho— son ellos responsables de la dirección que ahora toma la historia de España. No pienso con esto, claro es, que el Ejército parezca comprometido a secundar en activa o en pasiva cualquiera agitación que un grupo díscolo promueva. Pero sí pienso que queda obligado a reconocer en todo movimiento amplio de la inquietud nacional un hecho «históricamente justificado», respetable en su raíz, del mismo tipo que el iniciado por la oficialidad. Podrá juzgar ésta, como juzgo yo, erróneas, la táctica y la intención de la huelga veraniega; podrá, cuando menos, parecernos vago, confuso, amorfo, el propósito que la disparaba; pero esto no indica sino que el Ejército debió actuar de una manera más exacta, más compleja, más inteligente y patriótica, respetando lo que en ella hubiese de respetable y evitando lo que en ella había de torpe, maligno o inoportuno.
+
+Vago, confuso y amorfo ha sido el propósito de las Juntas de defensa, y, sin embargo, los demás españoles hemos, por suerte, usado del buen sentido y la sensibilidad histórica suficientes para respetar su raíz cordial y aun nutrirla con la atmósfera de nuestra adhesión. Lo dicho por mí recientemente en una conferencia de La Coruña sobre la importancia nacional del acto militar me da opción a ser escuchado por los militares sin suspicacia.
+
+Comprenderán éstos que después de haber declarado la marcha de los asuntos públicos intolerable, hasta el punto de justificar una rebeldía, no es digno de ellos «fingir» la convicción de que un movimiento tan amplio como el de este verano se deba puramente a unos cuantos agitadores de oficio. ¿Por qué, pues, siguieron la trayectoria más simplista? Los obreros que este verano, con evidente error de táctica, se declararon en huelga, son los obreros españoles. Da un poco de vergüenza tener que recordar esta útil perogrullada; pero yo, que soy lo menos «obrerista» del mundo, he sentido vergüenza mayor este verano al ver en el semblante de no pocos compatriotas un «rictus» de odio hacia el obrero. A mí me parece inmoral la mayor parte de los gritos que dan los agitadores de profesión en las Casas del Pueblo. Pero que haya alguien en nuestra sociedad el cual sienta odio por los obreros, por sus agrupaciones, y aun por sus errores, es una cosa que no ya me parece inmoral, sino que no me parece nada, porque no me cabe en la cabeza, como no me cabe un cuadrado redondo. Si en algún cuarto de banderas —cosa que yo no creo posible— se hubiese alguien congratulado de la perfección con que las ametralladoras funcionaban frente a los obreros, sería cuestión de llevar ese aposento a un museo teratológico, como algo insólito. ¡Un cuarto de banderas lleno de cuadrados redondos![2]
+
+Los últimos documentos públicamente emanados de las Juntas de defensa reconocen, con giro implícito, que hubo error en la actitud del Ejército ante la huelga, cuando se quejan de haber sido por el Gobierno contrapuestos a los obreros. ¿Por qué, pues, si en otros puntos no han obedecido automáticamente al Gobierno no le obedecieron entonces un poco más complejamente?
+
+Aquí concluyen para mí los datos y los hechos, y en su hueco necesito poner algunas suposiciones.
+
+Pero ellas y la conclusión de este comentario queden para una tercera carta, amigo Gómez Hidalgo.
+
+El Día, 18 de noviembre de 1917
+
+III
+
+<span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom"></span>
+
+Amigo Gómez Hidalgo: Mi carta anterior no concluía donde concluía su asunto. Quedó truncada por razones de espacio. En ella iba yo desarrollando esta idea: la sentencia contra el Comité de huelga nació muerta y sin eficacia moral. Porque en la ley que la dictó venía a condensarse una serie de frivolidades. La primera fue la huelga misma. La segunda fue el semblante con que el Ejército salió a su encuentro. No debió nunca castigar con la una mano sin sustentar con la otra lo que en aquel movimiento había de explosión de un descontento positivo. La huelga fue una manifestación, frívola en la forma, de un malestar realísimo que ciertas capas del cuerpo social sentían y siguen sintiendo. Reconocida la extrema defectuosidad del régimen público, en general, no puede extrañar a ningún hombre comprensivo y honrado que el malestar tome formas particulares en cada clase y grupo de la sociedad. El militar interpretará la angustia nacional acentuando ciertos rasgos de ella que los hábitos mentales propios de su oficio le fuerzan a destacar. El propietario, a su vez, se quejará preferentemente de otros defectos. El obrero hará lo mismo. Y cada cual buscará el remedio a su manera movilizando sus peculiares recursos. Si cada uno de esos grupos no consigue, mediante un esfuerzo de reflexión, reconocer y respetar el fondo común y nacional de justas exigencias que late más allá de esos ademanes discrepantes, el militar vendrá a las manos con el propietario y con el obrero, el obrero con el propietario y con el militar, todos con los políticos y los políticos con todos; de suerte que a la vuelta de unos meses va a ser España una olla de grillos cocidos en sangre.
+
+No debió, pues, el Ejército aceptar el equívoco de que él consideraba la protesta obrera como algo extranacional, antisocial e irrespetable en su esencia. En el plano de la realidad histórica, donde unos hechos engendran otros con cósmica forzosidad, más hondo que aquél donde se mueven las voluntades personales, la [causa](/concepts/cause) decisiva de la huelga obrera de agosto fue la rebeldía militar de junio. Yo no pretendo juzgar si ello fue bueno o fue malo; pero es cosa palmaria que fue así. Si, como debemos esperar, llega ahora España a un vital renacimiento, sobre el Ejército recaerá el honor de haber dado el empellón definitivo. Mas el que lleva el honor de la victoria lleva también la responsabilidad de haber presentado la batalla y de todas las vicisitudes que a esto sigan. Cuanto ha acontecido desde hace seis meses y acontezca en un porvenir cuyos confines nadie puede aún marcar es, al menos parcialmente, obra del Ejército. Quiera o no, es él en algún modo responsable de ello ante la Historia y ante los honestos corazones. Y yo no creo que se pierda nada con ver las cosas claramente y aceptarlas según son.
+
+¿Por qué insisto en esto? Tengo algunas razones para ello.
+
+Lo más importante que por el pronto cabía hacer en beneficio de una España mejor lo han hecho los militares. Me refiero al barrido de la política turnante. Hubiera sido mejor —¿quién lo duda?— que en vez de los militares otras fuerzas sociales más adecuadas dieran cima a esta empresa. Mas, por lo visto, no tenían energía suficiente para ello. Los militares lo han conseguido; rindámosles, pues, noblemente y sin hipocresías la oportuna gratitud.
+
+Pero al mismo tiempo no debemos olvidar que se ha obtenido este inmejorable resultado por el medio más peligroso. En mi vocabulario no tiene la palabra peligro la significación de algo absolutamente malo y que a toda costa deba ser evitado. Sólo lo muerto no está en peligro. Vitalidad, por el contrario, es siempre periculosidad. La intervención militar es saludable, fecunda; pero es peligrosa. En cambio, un Gobierno emoliente estilo Dato no es peligroso, pero es mortal.
+
+En 15 de junio último publiqué en El Imparcial un artículo titulado «Bajo el arco en ruina», donde entre otras cosas, sugería que España había entrado en un período revolucionario. No es que yo desee revolución alguna; todo lo contrario, las detesto. Pero el que yo no desee una cosa no es una razón para que esa cosa deje de acontecer. Y lo que entonces dije y ahora corroboro es que, aun cuando todos los españoles detestásemos el estado revolucionario, en él nos hallamos y en él seguiremos un largo espacio por una forzosidad de mecánica social. Un sistema de equilibrio público se ha roto, afortunadamente. El nuevo sistema de público equilibrio no se ha alcanzado aún, desgraciadamente. Nos encontramos, pues, en un régimen de esencial desequilibrio, de proceso revolucionario. Si llamamos a los nodos o densificaciones de este proceso revoluciones, hemos pasado ya por dos: la rebeldía militar de junio, la huelga general de agosto. Puede que haya alguien a quien asuste, enoje o estorbe la palabra revolución. En tal [caso](/concepts/fortune) puede usar otra; me es indiferente, reservándome el derecho a pensar que quien se asusta, enoja o es estorbado por la sombra que en el aire hiende una palabra, viene a ser lo que llamamos un imbécil.
+
+Sólo cabe, en mi entender, reducir al mínimum la parte dolorosa, brutal, innoble y estéril que tienen todos los procesos de revolución. Y para esto, sólo un método existe: que las cabezas cobren una visión amplia, serena y clara del complejo fenómeno social, a fin de que los motivos reales de contienda no se multipliquen con los imaginarios. Dicho de otro modo: que luchen los juicios, pero no, además de éstos, los prejuicios. Y he aquí donde arraigan mis temores. ¿Se elevará el pensamiento del Ejército a esa intuición sutil, certera, que la [circunstancia](/positions/life_as_project) exige?
+
+En otro lugar pienso desenvolver con toda amplitud la cuestión. Ahora sólo quisiera hacer notar que la actitud del Cuerpo armado ante la huelga estival no ha sido un buen síntoma.
+
+¿Qué idea presidió entonces a sus actos? Tenemos que movernos ante hipótesis. Pero eliminando las inverosímiles, yo me quedo con ésta: en agosto quiso el Ejército dar la impresión al país de que seguía siendo la fuerza puesta al servicio del orden, dócil al Poder constituido y enemiga de toda turbulencia. Por si el 1.º de junio había suscitado alguna duda sobre ello, se ejecutó la represión con un celo subrayado e insólito.
+
+No creo que recusen esta suposición mía ni los más ortodoxos miembros de las Juntas de defensa.
+
+Pues bien; si tal fue la idea que dirigió al Ejército, con todo respeto para las personas, yo me permito ver en ella un síntoma gravísimo de que los grupos de oficiales directores no han conquistado aquella intuición sutil y certera del momento nacional que los dotados de un patriotismo severo y reflexivo quisiéramos hallar en ellos.
+
+¿Pretendía usted —se me dirá— que se cruzasen de brazos los militares ante la agitación popular? Ni por un momento pretendo yo tal cosa. En general, yo no pretendo nada. Me limito a abrir bien los ojos sobre los hechos para procurar verlos lo mejor posible. Del pasado no me interesa lo que ha pasado ya sino aquellos factores de él en que parece anunciarse el porvenir. Lo que el Ejército hizo, como lo que el pueblo hizo, acertado o erróneo, es pretérito irremediable. En cambio, las ideas, el modo de pensar que determinó la conducta militar importan aún en el presente, porque en ellas sospechamos el carácter, las tendencias psicológicas de esta fuerza que va a colaborar en el próximo futuro.
+
+Mostrar semejante prisa y celo en parecer a la hora de agosto sostenedores de un poder público que los actos militares de junio y de julio habían sustancialmente desautorizado me parece… ¿Inconsecuente? Eso sería lo de menos; la consecuencia es una [norma](/concepts/law) de la lógica intelectual a que no necesita tal vez someterse siempre la vida. La sospecha grave que puede desprenderse de aquel cambio de actitud es si los militares creen que el movimiento nacional iniciado por ellos va a limitarse a lo que ellos quisieron y quieren que sea.
+
+Voy a suponer que sus deseos coinciden exactamente con los míos y con los del lector. El que nosotros lo queramos no trae consigo que ello resulte posible. Nosotros pondremos todos nuestros medios para realizarlo, pero el mundo sobre el cual vertemos nuestro deseo tiene su peculiar estructura y exigencias indominables. Deberemos, pues, mirar siempre a la par lo que nosotros deseamos que sea y lo que el mundo es aparte de nuestro deseo.
+
+<span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom"></span>
+
+Saltando de su esfera de acción propia los militares cumplen un acto de instrucción política. ¿No se quiere reconocer esta intervención política por motivos abogadescos? Bien, digamos entonces algo más grave: cumplen un acto de intervención histórica, imprimen un cierto movimiento al cuerpo nacional íntegro. Lanzan una piedra al viento y la piedra al abandonar la mano sigue su trayectoria, según la ley ineludible de la gravitación. ¿Fuera serio que, en el aire la piedra, creyese la mano poder aún regir su dirección? Los militares han dado un empellón —tal vez glorioso— a la vida española. Ésta desarrollará a su manera española, de quien la manera militar es sólo un rasgo, este impulso recibido. La idea de lo que debe hacerse en cada momento tiene, por fuerza, que ser distinta en la cabeza del militar, en la del obrero, en la del industrial. No hay duda que la resultante será una articulación de todas estas ideas parciales. Pero ese término se obtendrá con tanto menos dolor y tanta menor pérdida cuanto sea el esfuerzo que cada uno de esos gremios ponga en superar sus limitadas ideas gremiales.
+
+No basta con que generosamente posterguemos nuestros intereses de grupo; es menester que consigamos dominar las propensiones mentales que nos ha impuesto nuestro oficio.
+
+El órgano de percepción tiene que ser adecuado al objeto percibido. Con el oído no tocamos los colores. Con la visión no olemos los sonidos. Del mismo modo, el Ejército no puede salir al encuentro de los hechos nacionales por él suscitados con ideas y hábitos puramente militares. Si no atiende esto, cada paso será un tropezón, como el de agosto. ¿No fue un tropezón? En junio no existía el menor equívoco entre oficiales y obreros. En agosto se sembraba este equívoco, que sigue madurando.
+
+¿Puede quien sea patriota y no padezca de estupidez juzgar esto indiferente?
+
+Pero hay más; en junio simbolizaba el Ejército la reivindicación de la realidad, de la seriedad, frente a las inmorales ficciones constituidas. Hoy vemos a un número bien considerable de electores que envía sus votos a unos hombres sentenciados por un tribunal militar. Puede que haya quien crea haber cumplido todos sus deberes morales e intelectuales declarando locos o antipatriotas a esos electores. Con esta manera sólita de juzgar al enemigo no se le suprime, simplemente se avanza un paso hacia la olla de sangre.
+
+Como directores de las agrupaciones obreras, estos cuatro hombres han fracasado. Sin embargo, los obreros los vuelven a elegir. No será por la brillantez de su gestión. Más bien parece que con su voto protestan de la ficción legal con que un tribunal de oficiales solidarios de la hora de junio sentencia a unos hombres colaboradores en la hora de agosto. Y como lo absurdo no puede prosperar, no prosperará el falso poder civil de los partidos turnantes que los oficiales aniquilaron, ni la sentencia del tribunal que los obreros madrileños desde las urnas revocan.
+
+No será necesario decir que toda esta literatura mía es inútil, amigo Gómez Hidalgo. La ceguera partidista ocultará a los ojos de unos y otros estas evidencias.
+
+Me interesa, al despedirme ahora de usted, decir dos cosas: la primera es que yo no he votado al Comité de huelga. Y no porque haya votado a otros, sino porque voto en blanco en virtud de razones que ahora serían por completo inoportunas. Si no fuese una impertinencia, sobre la papeleta en blanco extendería mi protesta contra la ley del señor La Cierva, que me obliga a votar. Considero esta ley un atropello de mi persona individual por el Estado.
+
+La segunda cosa es que de los cien haces presentados por el hecho de esta elección yo sólo he aludido a los que ofrecen un carácter nacional y no partidista. Tampoco he tocado el punto propiamente ideológico de derecho político y filosofía del derecho. No es, por otra parte, necesario. Un maestro de todos, don Pedro Dorado Montero, ha puesto el problema con toda precisión donde yo, discípulo, lo hubiera puesto, salvas ligeras variantes. La cuestión es, en efecto, si la soberanía ejercida en un acto de sufragio puede ser limitada por una ley particular, y, en consecuencia, si tiene sentido la inhabilitación para cargos públicos sometidos al sufragio universal.
+
+Hasta otra, amigo Gómez Hidalgo, y que los próximos diez o doce meses de vida española no sean sueños frenéticos y crueles que teme su afectísimo, José Ortega y Gasset.
+
+El Día, 24 de noviembre de 1917

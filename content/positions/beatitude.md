@@ -11,7 +11,7 @@ axis: "end_of_life"
 contro:
   - "pleasure"
   - "ataraxia"
-work_count: 0
+work_count: 1
 tags:
   - "graph/position"
 title: "beatitudine"
@@ -24,4 +24,7 @@ Posizione sull'asse [Fine della vita](/axes/end_of_life).
 
 **Contro:** [piacere](/positions/pleasure), [atarassia](/positions/ataraxia)
 
-## Opere (0)
+## Opere (1)
+
+**Aquinas**
+- [Treatise on the Last End](/testi/aquinas/treatise_on_the_last_end)

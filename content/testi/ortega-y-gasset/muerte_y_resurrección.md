@@ -1,0 +1,77 @@
+---
+title: "Muerte y resurrección"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> Thoughts from El Escorial on an Easter day, opened by a theoretical thesis: our life is a dialogue in which the individual is only one interlocutor, the other being the landscape, the surrounding — as Uexküll's and Driesch's biology shows, seeking organic unity in the functional whole of body plus milieu (the spider differs from man because it sees a different world). Hence the call to restore to our thoughts the landscape in which they were born, as Descartes did in his stove-heated room and Plato in the Phaedrus.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/muerte_y_resurrección" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Muerte y resurrección" data-chapter="" data-kind="intro"></span>
+
+Todos nuestros actos, y un acto es el pensar, van como preguntas o como respuestas referidos siempre a aquella porción del mundo que en cada instante existe para nosotros. Nuestra vida es un diálogo, donde es el individuo sólo un interlocutor: el otro es el paisaje, lo circunstante. ¿Cómo entender al uno sin el otro? La más reciente biología —con Roux, con Driesch, con Pavlov, con von Uexküll— comienza a corregir los métodos del siglo XIX en el estudio del fenómeno vital, buscando la unidad orgánica, no en el cuerpo aislado frente a un medio homogéneo e idéntico para todos, sino en el todo funcional que constituye cada cuerpo y su medio[50]. La araña no se diferencia ante todo del hombre porque reacciona de manera distinta ante las cosas, sino porque ve un mundo distinto que el hombre. Y es ella vitalmente tan perfecta o imperfecta dentro de su mundo, con sus hábitos crueles de cazadora, como el pobrecito de Asís en el suyo besando las llagas de los apestados.
+
+Y cuanto más profunda y personal sea en nosotros la actividad que realizamos, más exclusivamente se refiere a una parte del mundo, y sólo a ella, que tenemos delante de nosotros. A veces, hallamos en nuestra acción una como zozobra y titubeo, como inquietud y torpeza. El idioma francés expresa esta situación muy finamente con la palabra dépaysé. Estamos despaisados, hemos perdido el contacto con nuestro paisaje. Y, sin embargo, no es fuera donde notamos la perturbación, sino dentro de nosotros. Como nos han quitado la otra mitad de nuestro ser, sentimos el dolor de la amputación en la mitad que nos queda.
+
+Devolvamos a nuestros pensamientos el fondo en que nacieron: presentémoslos humildemente como cosas que hallamos en nuestro paisaje, que se levantan ante nosotros ni más ni menos que aquellos olmos junto a aquel río, que estos humos trémulos sobre las chimeneas aldeanas. Así lo hicieron los hombres mejores: no se olvida Descartes de contarnos que su nuevo método reformador de la ciencia universal le ocurrió una tarde en el cuarto-estufa de una casa germánica, y Platón, al descubrirnos en el Fedro la ciencia del amor, que es la ciencia de la ciencia, cuida de presentarnos a Sócrates y su amigo dialogando en una siesta canicular, al margen del Ilisos, bajo el frescor de un alto plátano [sublime](/concepts/sublime), en tanto que sobre sus cabezas las cigarras helénicas vertían su rumor.
+
+Son éstos unos pensamientos de El Escorial, durante una fiesta de Resurrección.
+
+Era un día de los comienzos de abril, que es en el Guadarrama tiempo muy revuelto. Fugitivo el invierno, aún se revuelve hosco y hace que su retaguardia dé unas últimas embestidas a la joven primavera invasora. El combate se realiza sobre el testuz granítico del Monasterio, nuestra gran piedra lírica. Hay allí un amplísimo jirón de purísimo azul a quien ponen cerco las nubes blancas, nubes que llegan rápidas y se amontonan en guerrera turbulencia, como escuadrones de caballeros sobre potros de lomos y pechos redondos. Son nuestras nubes españolas que se encrespan en telones verticales, poblando el cielo de un entusiasmo barroco; son las nubes mismas que nuestros orives y nuestros escultores ponen detrás de las cabezas inclinadas de los Cristos, nubes de gloria y de triunfo después de la muerte.
+
+El Monasterio es un sepulcro inmenso, sobre el cual este cielo de abril parece el escenario dispuesto a una resurrección.
+
+Mas no conviene que entremos en San Lorenzo atravesando la Lonja: correríamos algún riesgo. Para estos días de combate elemental se hizo un conducto subterráneo que nos permite llegar sanos y salvos al interior del edificio. Pues hay en El Escorial un tremendo ser, todo ímpetu y coraje, pasión y voluntad, que sojuzga estos días por entero al contorno. Es el viento, el viento indomable. Baja de la Merinera, allá en lo alto, baja arrollándolo todo, y se rompe la frente contra la esquina occidental del Monasterio: dando aullidos de dolor, después de hacer teclear las pizarras de las techumbres, rueda por las vertientes, gana el valle entre tolvaneras y en un gran brinco postrero aspira hacia Madrid.
+
+No en vano ha sido el viento siempre para la imaginación humana símbolo de la divinidad, del puro espíritu. En la Biblia suele Dios presentarse bajo la especie de un vendaval, y Ariel, el ángel de las ideas, camina precedido de ráfagas. Mientras por [materia](/positions/materialism) entendemos lo inerte, buscamos con el concepto de espíritu el principio que triunfa de la materia, que la mueve y agita, que la informa y la transforma y en todo instante pugna contra su poder negativo, contra su trágica pasividad. Y, en efecto, hallamos en el viento una criatura que, con un mínimo de materia, posee un máximo de movilidad: su ser es su movimiento, su perpetuo sostenerse a sí mismo, trascender de sí mismo, derramarse más allá de sí mismo. No es casi cuerpo, es todo acción: su esencia es su inquietud. Y esto es, de uno u otro modo, en definitiva, el espíritu: sobre la mole muerta del universo una inquietud y un temblor.
+
+Si queremos hallar dentro del monasterio algo digno de este furioso viento que barre la Lonja y sacude los árboles, tenemos que penetrar en las salas Capitulares y detenernos ante el San Mauricio del Greco.
+
+Sabido es que el pintor cretense envió este lienzo a Felipe II para optar en un concurso a la dignidad de real pintor. La obra no satisfizo, y el Greco continuó hasta la muerte hincado en Toledo.
+
+La escena que representa es de las más exaltadas que refiere la leyenda áurea. La legión tebana, compuesta de 6.666 soldados, se niega a reconocer los dioses paganos. El emperador ordena entonces que sea diezmada. Cumplida la sentencia decimal, segadas las juveniles gargantas, cargado el aire con la acritud de la sangre que humea, Mauricio reúne a sus legionarios y les dice estas sencillas palabras: «Os felicito al veros prestos a morir por Cristo —sigamos a nuestros compañeros en el martirio».
+
+Este momento, la vibración esencial de estas palabras, constituyen el tema del Greco. Es un grupo de hombres ensimismados, y, sin embargo, en profunda conversación y comunicación. Parece que ha descendido cada cual al fondo de sí mismo y ha encontrado allí a los demás.
+
+Forman un grupo de conspiradores: conspiran su propia desaparición. Yo llamo a este cuadro la «invitación a la muerte», y en la mano de San Mauricio, que vibra persuasiva, en tanto que sus palabras convencen a sus amigos de que deben morir, encuentro resumido todo un tratado de ética. Esa mano y la mano de nuestro Don Juan, poniendo su vida a una carta bajo la luz de un candil en algún garito ominoso, tienen secreta afinidad, que bien merecía ser meditada.
+
+En este cuadro, como en todos los italianos, hacen las figuras gestos que, al pronto, no entendemos. No son, en efecto, los que se emplean en los usos ordinarios del vivir. ¿Quiere decir que no son reales? Nuestra nativa propensión a no creer en lo heroico nos lleva a dudar de la realidad de estos gestos, en que se expresan acciones ejemplares y sentimientos esenciales. Un como plebeyismo ambiente nos mueve a medir la vida con el metro de nuestras horas inertes. Pero Mauricio está aquí en la cima de su propia existencia, ha tomado en vilo su propia vida y la va a regalar. ¿Creéis que a esta voluntad pueda corresponder una actitud consuetudinaria?
+
+Los gestos, decía yo, son reacciones a lo que se ve y se oye, al paisaje en torno. No caigamos en el error de suponer que Mauricio el Tebano veía el mismo paisaje que nosotros. Al contrario, partiendo de su actitud como de una cifra henchida de sentido, debemos reconstruir el mundo que a su alma se presenta. Es la pregunta que nos hacemos delante de la Gioconda: ¿qué será, qué será lo que está viendo esta mujer para sonreír de tal manera?
+
+La actitud de San Mauricio es la actitud ética por excelencia.
+
+La bondad o maldad de que habla la ética es siempre la bondad o maldad de una volición, de un querer. No las cosas son buenas o malas, sino nuestro querer o nuestro no querer.
+
+Ahora bien; notad qué dos significados más distintos puede tener la palabra querer. En el uso ordinario de la vida, cuando decimos querer algo, no pretendemos decir que si quedásemos solos en el mundo ese algo y nosotros estaríamos satisfechos. No: nuestro querer ese algo consiste en que nos parece necesario para otra cosa, la cual queremos a su vez para otra. De estas cadenas de voliciones, en que un querer sirve a otro querer, se compone el tejido de nuestra habitual existencia: con una porción de nuestro ánimo prestamos un servicio a otra porción de él, y así sucesivamente. Tal modo de querer —de querer para, de querer utilitario— convierte nuestra morada íntima en una casa de contratación.
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+Mas ¿qué semejanza puede existir entre ese querer lo uno para lo otro con aquél en que queremos algo por ello mismo, sin finalidad ninguna? Nuestro querer negociante, nuestra voluntad a la inglesa —y digo esto porque el utilitarismo es la moral inglesa—, había colocado las cosas todas en cadenas interminables donde cada eslabón es un medio para el próximo, y, por tanto, tiene el valor relativo del lugar que ocupa en la cadena. Mas este querer de nueva y más pura índole arranca de esa cadena una cosa y, solitaria, sin ponerla en relación con nada, lujosa y superfluamente, por ella misma la afirma. Frente a esta actitud de nuestra voluntad todas las demás actitudes adquieren un sentido meramente económico donde las cosas se desean como medios. El querer ético, en cambio, hace de las cosas fines, conclusiones, últimas fronteras de la vida, postrimerías. Termina en nosotros el vaivén de la contratación, deja de ser nuestro espíritu una pluralidad de individuos elementales cada cual con su pequeño afán egoísta que es preciso contentar. Entra en ejercicio lo más profundo de nuestra personalidad, y reuniendo todos nuestros poderes dispersos, haciéndonos, por [caso](/concepts/fortune) raro, solidarios con nosotros mismos, siendo entonces y sólo entonces verdaderamente nosotros, nos ligamos al objeto querido sin reservas ni temores. De suerte que no nos parecería soportable vivir nosotros en un mundo donde el objeto querido no existiera; nos veríamos como fantasmas de nosotros mismos, como infieles a nosotros mismos.
+
+Por esto, San Mauricio toma su propia vida y la de sus legionarios y la arroja lejos de sí. Precisamente porque conservándola no sería su vida. Para ascender a sí mismo, para ser fiel a sí mismo, necesita volcarse íntegro en la muerte. Siempre en la voluntad de morir se busca una resurrección. Y el mismo acto en que se renuncia a la propia vida significa la suprema afirmación de la personalidad: es un volver de la periferia a nuestro centro espiritual.
+
+La mayor parte de los hombres no hacemos sino querer en el sentido económico de la palabra: resbalamos de objeto en objeto, de acto en acto, sin tener el valor de exigir a ninguna cosa que se ofrezca como fin a nosotros. Hay un talento del querer, como lo hay del pensar, y son pocos los capaces de descubrir por encima de las utilidades sociales que rigen nuestros movimientos, que nos imponen esta o aquella actitud, su querer personalísimo. Solemos llamar vivir a sentirnos empujados por las cosas en lugar de conducirnos con nuestra propia mano.
+
+Por tal razón yo veo la característica del acto moral en la plenitud con que es querido. Cuando todo nuestro ser quiere algo —sin reservas, sin temores, integralmente— cumplimos con nuestro deber, porque es el mayor deber de la fidelidad con nosotros mismos. Una sociedad donde cada individuo tuviera la potencia de ser fiel a sí, sería una sociedad perfecta. ¿Qué significa lo que llamamos hombre íntegro sino un hombre que es enteramente él y no un zurcido de compromisos, de caprichos, de concesiones a los demás, a la tradición, al prejuicio?
+
+En este sentido me parece Don Juan una figura de altísima moralidad. Notad qué lealmente va Don Juan por el mundo en busca de algo que absorba por completo su capacidad de amar: se afana incansablemente en la pesquisa de un fin. Mas no lo encuentra; su pensamiento es escéptico aun cuando es su pecho heroico. Nada le parece superior a lo demás: nada vale más, todo es igual. Pero sería incomprensivo tomarle por un hombre frívolo. Lleva siempre en la mano su propia vida, y como todo le parece del mismo valor, consecuente con su corazón, está dispuesto a ponerla sobre cualquier cosa, por ejemplo, sobre este caballo de copas. Tal es la tragedia de Don Juan: el héroe sin finalidad.
+
+El Greco se ha pasado la vida pintando muertes y resurrecciones. No concebía la existencia en forma de pasividad. Los hombres de sus retratos tienen almas fosforescentes, prestas a fenecer en una última llamarada.
+
+Recuerdo la honda impresión recibida hace años en París un día que subí los innumerables escalones de una casa en la calle Caulaincourt, donde, en el último piso, tiene su estudio Zuloaga.
+
+Es un aposento modestísimo, desmantelado, y yo diría que en medio del lujo de París parecen afirmar aquellas cuatro paredes el derecho a la desolación y a la rudeza que se alza en el fondo de todos los cuadros zuloaguescos. Únicamente pendía en uno de los muros una pintura: la Apocalipsis, del Greco, o, mejor dicho, la parte inferior de esta composición que en una de sus correrías por el interior del cuerpo castellano logró descubrir Zuloaga. Este cuadro, según se desprende del inventario de los bienes del Greco, recientemente descubierto por el señor San Román, debió ser uno de los últimos que pintó Doménico Theotocopuli, y es como una postrera visión de la [materia](/positions/materialism) por un espíritu que va a consumirse quemado por sus propios ardores. En primer término, a la izquierda, la enorme figura de San Juan, el viejo virgen, con las manos en alto, en ademán equívoco de espanto y evocación. Y tras él, bajo una gran batalla que riñen en lo alto las nubes, cuerpos desnudos y flameantes que aspiran a volatilizarse y sumirse en aquel drama aéreo y semiespiritual de los cielos. Y nada más. ¿Es necesario más? La Apocalipsis es un cuadro ejemplar: ante él sentimos, con pavorosa proximidad, el tema más sencillo y más profundo de la pintura: un poco de materia puesta a arder.
+
+1917

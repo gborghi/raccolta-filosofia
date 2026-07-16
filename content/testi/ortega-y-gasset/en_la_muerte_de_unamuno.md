@@ -1,0 +1,37 @@
+---
+title: "En la muerte de Unamuno"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> An obituary written on the first night of 1937: Unamuno died of "the Spanish sickness". His whole life and philosophy were, like Spinoza's, a meditatio mortis; he was the precursor of an inspiration now triumphant. Also a portrait of his compact, jongleur-like ego.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/en_la_muerte_de_unamuno" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="En la muerte de Unamuno" data-chapter="" data-kind="intro"></span>
+
+En esta primera noche de 1937, cuando termina el que ha sido para España el «año terrible» —este año de purificación, año de cauterio— me telefonean de las oficinas de La Nación, en París, que Unamuno ha muerto. Ignoro todavía cuáles sean los datos médicos de su acabamiento, pero, sean los que fueren, estoy seguro de que ha muerto de «mal de España». El lector tiene perfecto derecho a creer que esto no es más que una frase. No voy a disputar con él, entre otras razones, porque me obligaría a hablar sobre temas acerca de los cuales hace años me he propuesto a mí mismo el silencio. Pero la verdad es, pese al lector, que lo dicho no es una frase, sino el enunciado de realidades pavorosamente concretas. Hace un par de semanas me visitó aquí mi traductor holandés, el doctor Brouwer, que había estado por el mes de septiembre u octubre en Salamanca. Me refirió su conversación con Unamuno. Y al oírle yo, pensaba: Unamuno morirá de esto. Ha inscrito su muerte individual en la muerte innumerable que es hoy la vida española. Ha hecho bien. Su trayectoria estaba cumplida. Se ha puesto al frente de doscientos mil españoles y ha emigrado con ellos más allá de todo horizonte. Han muerto en estos meses tantos compatriotas que los supervivientes sentimos como una extraña vergüenza de no habernos muerto también. A algunos nos consuela un poco lo cerca que hemos estado de ejecutar esa sencilla operación de sucumbir.
+
+Ya está Unamuno con la muerte, su perenne amiga-enemiga. Toda su vida, toda su filosofía han sido, como las de Spinoza, una meditatio mortis. Hoy triunfa en todas partes esta inspiración, pero es obligado decir que Unamuno fue el precursor de ella. Precisamente en los años en que los europeos andaban más distraídos de la esencial vocación humana, que es «tener que morir», y más divertidos con las cosas de dentro de la vida, este gran celtíbero —porque, no hay duda, era el gran celtíbero, lo era en el bien y en el mal— hizo de la muerte su amada. De aquí el sabor o, al menos, el dejo macabro, que nos llega de todas sus páginas, hable de lo que hable, juegue con lo que juegue. Muchas veces he hecho notar la sorpresa que causaba a los romanos, y que Tito Livio nos transmite, el ver que los celtíberos eran el único pueblo que vestía de negro y adoraba a la muerte.
+
+Unamuno pertenecía a la generación de Bernard Shaw. Uno ambos nombres porque al hallarlos juntos nos salta a la vista, sobre las peculiaridades individuales, el gesto común que la coetaneidad impone. Fue la última generación de «intelectuales» convencida aún de que la humanidad existe sin más elevado fin que servir de público a sus gracias de juglar, a sus arias, a sus polémicas. En Grecia hubo también una época en que los poetas creían que los hombres habían combatido en torno a Troya no más que para dar lugar a que Homero los cantase. Por esta razón, se adelantaban constantemente a las candilejas y no podían respirar si no sentían en derredor su nación como espectadora. No habían descubierto la táctica y la delicia que es para el verdadero intelectual ocultarse e inexistir.
+
+No he conocido un yo más compacto y sólido que el de Unamuno. Cuando entraba en un sitio, instalaba desde luego en el centro su yo, como un señor feudal hincaba en el medio del campo su pendón. Tomaba la palabra definitivamente. No cabía el diálogo con él. Repito que toda su generación conservaba el ingrediente de juglar que adquirió el intelectual en los comienzos del romanticismo, que existía ya en Chateaubriand y en Lamartine. No había, pues, otro remedio que dedicarse a la pasividad y ponerse en corro en torno a don Miguel, que había soltado en medio de la habitación su yo, como si fuese un ornitorrinco.
+
+Pero todo esto, entiéndase en superlativo. Hay siempre en las virtudes y en los defectos de Unamuno mucho de gigantismo. A esa idea del escritor como hombre que se da en espectáculo a los demás, hay que ponerle una espoleta de enorme dinamismo, y más aún de feroz dinamismo. Porque Unamuno era, como hombre, de un coraje sin límites. No había pelea nacional, lugar y escena de peligro, al medio de la cual no llevase el ornitorrinco de su yo, obligando a unos y a otros a oírle, y disparando golpes líricos contra los unos y contra los otros.
+
+Fue un gran escritor. Pero conviene decir que era vasco, y que su castellano era aprendido. Él lo reconocía y lo declaraba con orgullo, mas acaso no se daba cuenta de lo que esto traía consigo. Aun siendo espléndido su castellano, tiene siempre ese carácter de aprendido, y, si se me quiere entender bien, todo idioma aprendido, el carácter de lengua muerta. De aquí muchas particularidades de su estilo. Cuando escribimos o hablamos en nuestra lengua, nuestra atención atraviesa los vocablos sin reparar en ellos, como nuestra vista el vidrio de la ventana, para fijarse en el parque. Con la lengua aprendida no pasa lo mismo. El vocablo se interpone entre nosotros, y nuestro pensamiento hace constar su presencia y nos obliga a atenderlo. En suma, nuestra mente tropieza con la palabra en cuanto tal. De aquí la frecuencia con que Unamuno da espantadas ante los vocablos y ve en ellos más de lo que en su uso corriente —en que desaparecen transparentes— suelen significar. A su valor usual prefiere su sentido etimológico, y esto le induce a darles mil vueltas y a sacar del vientre semántico de cada vocablo serpentinas de retruécanos y otros juegos de palabras. Ahora bien, esta propensión etimológica a la manera de Unamuno es característica de quien escribe o habla en su idioma aprendido. Unamuno sabía mucho, y mucho más de lo que aparentaba, y lo que sabía, lo sabía muy bien. Pero su pretensión de ser poeta le hacía evitar toda doctrina. En esto también se diferencia su generación de las siguientes, sobre todo de las que vienen, para las cuales la misión inexcusable de un intelectual es ante todo tener una doctrina taxativa, inequívoca y, a ser posible, formulada en tesis rigorosas, fácilmente inteligibles. Porque los intelectuales no estamos en el planeta para hacer juegos malabares con las ideas y mostrar a las gentes los bíceps de nuestro talento, sino para encontrar ideas con las cuales puedan los demás hombres vivir. No somos juglares: somos artesanos, como el carpintero, como el albañil.
+
+La voz de Unamuno sonaba sin parar en los ámbitos de España desde hace un cuarto de siglo. Al cesar para siempre, temo que padezca nuestro país una era de atroz silencio.
+
+La Nación, 4 de enero de 1937

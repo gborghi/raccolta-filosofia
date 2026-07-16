@@ -6,7 +6,7 @@ label_en: "property"
 aliases:
   - "possesso"
   - "possession"
-work_count: 13
+work_count: 20
 tags:
   - "graph/concept"
 title: "proprietà"
@@ -15,25 +15,42 @@ title: "proprietà"
 
 *property*
 
-## Opere (13)
+## Opere (20)
+
+**Aristotle**
+- [Politics (1252a)](/testi/aristotle/politics_1252a)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
+
+**Hume**
+- [A TREATISE OF HUMAN NATURE](/testi/hume/a_treatise_of_human_nature)
 
 **Kant**
 - [METAPHYSICS OF MORALS: THE PHILOSOPHY OF LAW](/testi/kant/metaphysics_of_morals_the_philosophy_of_law)
 - [OF THE INJUSTICE OF COUNTERFEITING BOOKS](/testi/kant/of_the_injustice_of_counterfeiting_books)
 
 **Locke**
+- [FURTHER CONSIDERATIONS CONSIDERING RAISING THE VALUE OF MONEY](/testi/locke/further_considerations_considering_raising_the_value_of_money)
+- [SOME CONSIDERATIONS ON THE CONSEQUENCES OF THE LOWERING OF INTEREST AND THE RAISING OF THE VALUE OF MONEY](/testi/locke/some_considerations_on_the_consequences_of_the_lowering_of_interest_and_the_raising_of_the_value_of_money)
 - [TWO TREATISES OF GOVERNMENT](/testi/locke/two_treatises_of_government)
 
 **Marx**
-- [CAPITAL](/testi/marx/capital)
-- [CRITIQUE OF THE GOTHA PROGRAM, 1875](/testi/marx/critique_of_the_gotha_program_1875)
+- [Das Kapital III](/testi/marx/das_kapital_iii)
 - [MANIFESTO OF THE COMMUNIST PARTY, 1848](/testi/marx/manifesto_of_the_communist_party_1848)
-- [MARX’S INAUGURAL ADDRESS](/testi/marx/marxs_inaugural_address)
-- [NOTES ON ADOLPH WAGNER, 1883](/testi/marx/notes_on_adolph_wagner_1883)
-- [THE CIVIL WAR IN FRANCE, 1871](/testi/marx/the_civil_war_in_france_1871)
-- [THE CLASS STRUGGLES IN FRANCE, 1850](/testi/marx/the_class_struggles_in_france_1850)
 - [THE POVERTY OF PHILOSOPHY, 1847](/testi/marx/the_poverty_of_philosophy_1847)
-- [WAGE LABOUR AND CAPITAL, 1847](/testi/marx/wage_labour_and_capital_1847)
+
+**Ortega y Gasset**
+- [El problema agrario andaluz.— Una carta de don José Ortega y Gasset](/testi/ortega-y-gasset/el_problema_agrario_andaluz_una_carta_de_don_josé_ortega_y_gasset)
+- [Inmediatas concesiones](/testi/ortega-y-gasset/inmediatas_concesiones)
+- [Justa suspicacia](/testi/ortega-y-gasset/justa_suspicacia)
+- [La reforma agraria](/testi/ortega-y-gasset/la_reforma_agraria)
+- [Socialismo](/testi/ortega-y-gasset/socialismo)
+
+**Plato**
+- [ERYXIAS](/testi/plato/eryxias)
+
+**Rousseau**
+- [DISCOURS SUR L’ÉCONOMIE POLITIQUE](/testi/rousseau/discours_sur_léconomie_politique)
+- [L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
+- [PROJET DE CONSTITUTION POUR LA CORSE](/testi/rousseau/projet_de_constitution_pour_la_corse)

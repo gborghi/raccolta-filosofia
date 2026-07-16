@@ -1,0 +1,43 @@
+---
+title: "Del horror al libro"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> Starting from a complaint by Baroja, it observes that few books sell in Spain and Spanish America because few are read, and that less is read now than before for reasons more spiritual than economic. It contrasts French and German passion for books with the conversation of the Spanish bourgeoisie. A piece of social criticism.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/del_horror_al_libro" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Del horror al libro" data-chapter="" data-kind="intro"></span>
+
+En una reciente conversación de Barcelona, que ha divulgado El Sol, se queja Pío Baroja de que en España y la América española no se venden apenas libros. El hecho es conocido, ilustre y posee toda la dignidad de una tradición. Sin embargo, conviene hacerlo constar periódicamente para que no nos hagamos ilusiones los que vivimos dedicados a poner negro sobre blanco. En cuanto deja de repetirse la advertencia se forma por generación espontánea la conseja de que en España, y sobre todo en América, ha aumentado mucho el consumo literario. Escritores y editores movilizan entonces nuevas flotillas hacia el supuesto Eldorado, y los mejores afanes, los mayores esfuerzos, sirven sólo para organizar naufragios.
+
+Baroja insiste en que se vende poco porque se lee poco. Para mí esta explicación de tan humilde aire perogrullesco es la pura y simple verdad. No obstante, tiene el rango de una adquisición científica. Porque es curioso notar que todos los que nos hemos preocupado de la cuestión hemos tardado mucho en tornar a ella. Yo observo cómo van pasando todos por las estaciones de una misma trayectoria cuando han querido perescrutar las causas del fenómeno. Se comienza por inculpar a los escritores, se sigue por acusar a los editores, luego se enjuicia a los libreros y se concluye por caer en la cuenta de que estamos haciendo libros para pueblos que no leen, que no han menester de ellos. Sorprende, en verdad, la resistencia inicial que sentíamos a reconocer tan evidente hecho y el empeño de inventar sutilmente las más complicadas e imaginarias explicaciones. Es más: la última averiguación se suele hacer en dos tiempos, demostrando así la aversión a aceptarla. Se empieza por admitir que en España no se lee; ¡pero, en cambio, en América!… Y la verdad es que tampoco en América se necesita del sólido impreso. Claro es que dentro del universal horror al libro, inscrito en los destinos españoles, hay algunas diferencias entre los distintos países que es justo subrayar. Así, en la Argentina se consume relativamente más lectura que en España. Pero, entiéndase, relativamente nada más. El público argentino, hasta el día, no podría sostener una industria librera medianamente saludable.
+
+No basta, empero, decir que se lee muy poco. Es conveniente, por muchas razones, hacer constar que se lee hoy, relativamente, menos que hace unos años. Para ello podrá haber razones económicas, pero yo sospecho que más decisivas son las espirituales.
+
+Sería incongruente enfrontar la cifra del mercado actual de libros con la de hace treinta años. Así no se pueden hacer las estadísticas. Ha aumentado sobremanera otra porción de factores —entre ellos la población de habla española, sus necesidades técnicas, etcétera— que es preciso descontar. Fuera más interesante y rigoroso comparar el crecimiento del mercado español, en ese período, con el de Italia, Francia y Alemania. Entonces se vería claramente el retroceso. La estadística no puede olvidar que las realidades económicas son magnitudes en movimiento, y que una cifra aritméticamente mayor que otra puede realmente, dinámicamente serle inferior.
+
+Entre tanto, sienten ahora franceses y alemanes una verdadera pasión por el libro. El [culto](/concepts/religion) a lo impreso se ha filtrado hasta capas sociales que antes no lo sentían. Se ha llegado al refinamiento de luchar los compradores por conseguir, a precios elevadísimos, ejemplares de la primera edición de libros nuevos y aún nada gloriosos. Este verano conversaba yo con unas señoras francesas, de espíritu y régimen de vida completamente burgueses, y me produjo superlativa sorpresa hallar que conocían al detalle, no sólo la producción reciente, sino hasta la futura, y esperaban con curiosidad las obras que los autores aún premeditaban.
+
+Al mismo tiempo, la vida estival que nos induce a hacer cosas tan absurdas, las cuales rechazaríamos indignados si nos fueran propuestas en cualquier otra estación, me llevaba con frecuencia a merendar en un hotel donde solían confluir familias de la burguesía rica que, oriundas de todas las regiones peninsulares, se acogen al Cantábrico. Sin apetito ninguno de ello, yo me enteraba de sus conversaciones, porque esta burguesía, tan zafia y tan estólida, habla a gritos. Y era verdaderamente increíble el repertorio de temas que, sin excepción, llenaba las conversaciones. Sólo asuntos caseros, chabacanos, repugnantes, testimonio de la angostura de horizonte donde aquellas almas viven. Frente a la belleza marina del paisaje, cada familia, al llegar, parecía instalar una camilla invisible, pero eficiente, y en torno a ella expectoraba, con grandes voces destempladas, toda su miseria espiritual.
+
+Desde hace mucho tiempo combato contra esa tonalidad petite-bourgeoise de la sociedad española, esa estrechez de las almas que impide todo ensayo de incorporación nacional, de alta disciplina creadora y entusiasta. Mis combates, claro está, son de una esterilidad perfecta, y sólo sirven para que aun los mejores, cuya coincidencia más me importaría, censuren mi beligerancia contra los filisteos. Es una gran pena porque, mirando bien las cosas, es ésta una hora excelente para dar un empujón hacia arriba a nuestra raza. Las grandes naciones decaen, a pesar de todos sus esfuerzos, irremediablemente. Su grandeza de ayer las arrastra hacia lo hondo, fatigadas y enfermas. Es la sazón favorable para los pueblos menores. Pero no habrá manera de aprovechar para España la [circunstancia](/positions/life_as_project) si no llega una generación resuelta a no tolerar que el «pequeño burgués» dicte la [norma](/concepts/law) y sea la ley en la vida peninsular. Es preciso que nuestra existencia colectiva rebase de ese mísero repertorio intelectual y moral. Es preciso que deje de parecer aceptable esa falta de curiosidad y de interés, de ensayo y de aventura; ese achabacanamiento y domesticidad. No es ciertamente en la política donde radican los grandes problemas de España, sino en la vida cuotidiana, en las maneras sociales.
+
+Síntoma en parte, y en parte [causa](/concepts/cause), de esa angostura espiritual —pobreza de ideas, torpeza de costumbres— es el horror al libro. Cada libro que leemos abre en nosotros un poro hacia nuevos paisajes y excita nuestra voluntad en dirección a empresas insospechadas.
+
+Pero si en vez de considerar el hecho de que no se venden libros desde el punto de vista nacional lo mirásemos en relación con los intereses literarios y científicos, yo pensaría —aunque se juzgue paradoja— que es, más bien, favorable. En medio de la desatención pública, las letras y las ciencias puras se refinan y cendran. Así, durante estos años de mengua en la librería ha conseguido la intelectualidad española una estimación universal que no había gozado antes. Nunca se han traducido a idiomas extraños más libros castellanos que ahora. Y si se quiere ser justo será forzoso reconocer que nuestros escritores y hombres de ciencia han ganado últimamente muchas más batallas y más importantes que nuestros ejércitos, sin disminuir en un ápice la honra y gratitud que a éstos se debe. Lo que pasa es que la masa nacional no ha colaborado en aquellas batallas ni siquiera en la forma más sobria, que sería enterarse, al menos, de ellas.
+
+Para los intelectuales, lo he sostenido muchas veces, la actitud mejor es considerarse como unos jugadores que juegan por pura afición a un juego difícil: el ajedrez, por ejemplo. Sin más pretensiones, pero también sin más compromisos ni obligaciones. De esta manera, su obra será más pura y su gremio más limpio de ambiciosos y gente equívoca.
+
+El Sol, 15 de octubre de 1925

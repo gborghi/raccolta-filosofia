@@ -11,7 +11,7 @@ axis: "meaning_of_history"
 contro:
   - "dialectic_of_spirit"
   - "providence"
-work_count: 15
+work_count: 23
 tags:
   - "graph/position"
 title: "materialismo storico"
@@ -24,13 +24,14 @@ Posizione sull'asse [Senso della storia](/axes/meaning_of_history).
 
 **Contro:** [dialettica dello spirito](/positions/dialectic_of_spirit), [provvidenza](/positions/providence)
 
-## Opere (15)
+## Opere (23)
 
 **Marx**
-- [A CONTRIBUTION TO THE CRITIQUE OF POLITICAL ECONOMY, 1859](/testi/marx/a_contribution_to_the_critique_of_political_economy_1859)
+- [ADDRESS OF THE CENTRAL COMMITTEE TO THE COMMUNIST LEAGUE](/testi/marx/address_of_the_central_committee_to_the_communist_league)
 - [CAPITAL](/testi/marx/capital)
-- [CRITIQUE OF HEGEL’S PHILOSOPHY OF RIGHT, 1843](/testi/marx/critique_of_hegels_philosophy_of_right_1843)
 - [CRITIQUE OF THE GOTHA PROGRAM, 1875](/testi/marx/critique_of_the_gotha_program_1875)
+- [Das Kapital II](/testi/marx/das_kapital_ii)
+- [Das Kapital III](/testi/marx/das_kapital_iii)
 - [MANIFESTO OF THE COMMUNIST PARTY, 1848](/testi/marx/manifesto_of_the_communist_party_1848)
 - [MARX’S INAUGURAL ADDRESS](/testi/marx/marxs_inaugural_address)
 - [NOTES ON ADOLPH WAGNER, 1883](/testi/marx/notes_on_adolph_wagner_1883)
@@ -42,3 +43,12 @@ Posizione sull'asse [Senso della storia](/axes/meaning_of_history).
 - [THE HOLY FAMILY, 1845](/testi/marx/the_holy_family_1845)
 - [THE POVERTY OF PHILOSOPHY, 1847](/testi/marx/the_poverty_of_philosophy_1847)
 - [WAGE LABOUR AND CAPITAL, 1847](/testi/marx/wage_labour_and_capital_1847)
+- [Zur Judenfrage](/testi/marx/zur_judenfrage)
+- [Zur Kritik der Hegelschen Rechtsphilosophie](/testi/marx/zur_kritik_der_hegelschen_rechtsphilosophie)
+- [Zur Kritik der politischen Ökonomie](/testi/marx/zur_kritik_der_politischen_ökonomie)
+
+**Ortega y Gasset**
+- [El problema económico](/testi/ortega-y-gasset/el_problema_económico)
+- [La interpretación bélica de la historia](/testi/ortega-y-gasset/la_interpretación_bélica_de_la_historia)
+- [Los escaparates mandan](/testi/ortega-y-gasset/los_escaparates_mandan)
+- [Miscelánea socialista](/testi/ortega-y-gasset/miscelánea_socialista)

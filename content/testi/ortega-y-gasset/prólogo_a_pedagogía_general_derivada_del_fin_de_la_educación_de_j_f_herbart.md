@@ -1,0 +1,69 @@
+---
+title: "Prólogo a Pedagogía general derivada del fin de la educación, de J. F. Herbart"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> Prologue to Herbart's work: the first great attempt to reduce education to a science founded on ethics (its end) and psychology (its means); it concludes that the teacher must be a philosopher, lamenting the absence of philosophy in Spanish teacher-training schools.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_pedagogía_general_derivada_del_fin_de_la_educación_de_j_f_herbart" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Prólogo a Pedagogía general derivada del fin de la educación, de J. F. Herbart" data-chapter="" data-kind="intro"></span>
+
+Este libro clásico de la pedagogía, tan discretamente vertido al castellano por el señor Luzuriaga dirígese principalmente a los maestros. Se trata del primer gran ensayo que ha hecho el pensamiento para reducir la actividad educativa espontánea a un régimen científico. Cierto que antes de Herbart la turbulenta genialidad de Pestalozzi alcanzó atisbos tan profundos que de sus obras confusas y trastornadas por una ideología balbuciente ha podido luego extraerse todo el material de principios necesario para edificar un sistema científico de pedagogía. Hay, pues, en Pestalozzi un germen maravillosamente fecundo; pero hay en Herbart la primera maturación de él. Es posible —yo así lo pienso— que en este [caso](/concepts/fortune) valga más la simiente que el fruto primero, mas no sería justo emplear contra Herbart, como estos últimos años ha hecho Natorp[37], armas que desconoció Pestalozzi y que sólo una bonísima voluntad y una fatal tendencia a solicitar los textos pueden hallar en éste preformadas.
+
+Por encima de toda duda está que nadie antes que Herbart consigue llevar el caos de los problemas pedagógicos a una estructura sobria y amplia y precisa de doctrinas rigorosamente científicas. Nadie antes que Herbart toma sobre sí completamente en serio la faena de construir una ciencia de la educación. Sus predecesores, como Rousseau, se habían limitado a exponer series, más o menos geniales y fructíferas, de ideas sobre la educación.
+
+Ahora bien: esta hazaña de Herbart complica sobremanera la suerte de los pedagogos. Hasta ella podían éstos considerar su ejercicio como una actividad puramente práctica. El maestro tiene que enseñar, y sólo porque, y en tanto que tiene que enseñar, necesita saber. La ciencia es [materia](/positions/materialism) y pretexto de su misión, la cual, en rigor, no es teórica, sino práctica. Pero desde que la pedagogía adquiere una doble faz y sobre su ejercicio concreto aspira a ser ella ciencia, cae encima del maestro una cierta obligación de ser también científico. ¿Puede pedírsele tanto?
+
+Ha de introducir el maestro a sus discípulos en la vida, en los órdenes esenciales de la vida, ¿no es esto? Ahora bien, no se le exige que sea un físico para enseñar física ni historiador para enseñar historia. La única ciencia especial que se le demanda es la pedagogía. No parece demasiada la exigencia.
+
+Mas si preguntamos a Herbart qué es en cuanto ciencia la pedagogía, hallaremos una grave respuesta: la pedagogía es ciencia en cuanto da cita para la solución de sus problemas a dos ciencias filosóficas: la ética, que determina el fin de la educación, y la psicología, que regula sus medios. Es decir, que si el maestro ha de ser pedagogo, ha de ser el maestro filósofo. Éste es el sentido que tiene la conversión herbartiana de la pedagogía en ciencia formal. Desde entonces queda obligado el maestro a estrechar sus relaciones con la filosofía.
+
+Conviene decir de una manera clara que la pedagogía de Herbart y, tras ella, todas las pedagogías posteriores, se convierten en una pura logomaquia, desde el punto en que los pedagogos se hallan exentos de una seria preparación filosófica. Por faltar ésta suelen los maestros padecer una fatal propensión a suplantar las cosas con palabras, a vivir en un penoso dogmatismo intelectual. Nada es tan necesario al maestro como la independencia del espíritu. Y esto es la filosofía: antes que un sistema de doctrinas cristalizadas, una disciplina de liberación íntima que enseña a sacar triunfante el pensar propio y vivo de todas las ligaduras dogmáticas. No habrá, pues, en España pedagogos mientras no haya en las Escuelas Normales un poco de filosofía.
+
+En tanto, aprovecharé estas páginas a fin de exponer con la posible claridad aquellos principios de la de Herbart en que su pedagogía viene a descansar.
+
+I
+
+Juan Federico Herbart (nacido en 1776, muerto en 1841) es el menor de los grandes pensadores que fulguraron sobre Alemania entre Kant y Schopenhauer. Su vida coincide con la de [Fichte](/schools/german_idealism) (nacido en 1762), con la de Hegel (nacido en 1770), con la de Schelling (nacido en 1775); coincide temporalmente, pero no idealmente. Herbart parece un retrasado del siglo XVIII, de la edad «esclarecedora», amiga de la razón raciocinante, de las explicaciones mecánicas. Está en lo radical de su espíritu más cerca de Kant —el viejo maestro que él ve ya inclinado hacia la muerte— que de sus contemporáneos, los colosos del romanticismo. Esta condición suya le lleva a una vida intelectual fluctuante, inquieta, díscola, insatisfecha. No puede aceptar los sublimes tópicos de la época y especialmente el principio supremo de la edad romántica —el [idealismo](/positions/idealism)—, y como le falta poder bastante a superarlos, se acostumbra a pensar en defensiva, polémicamente. De aquí que su filosofía general, allí donde es decisivo el golpe de vista orgánico, general y coherente, no haya nunca ahincado muy hondo en la evolución del pensamiento y, en cambio, sus teorías parciales —psicología, ética, pedagogía— hayan prendido con más fuerza y todavía hoy gocen de influjo y vigor.
+
+Como todo pensador esencialmente polémico, vive Herbart de los demás, de los grandes enemigos contemporáneos, en mayor grado de lo que él supone. Sin embargo, sobre estas íntimas fatalidades de su condición irradia una enérgica veracidad, una maravillosa precisión y un sutil ingenio para descubrir lo menudo y ponerlo claro y estricto ante nosotros. He dicho que su grande enemistad fue el idealismo triunfante. Herbart, con efecto, se propuso ser realista costara lo que costara, ser el único realista en medio de la legión idealista.
+
+Nos interesan aquí principalmente la psicología y la ética de Herbart: sobre ellas posa directamente su pedagogía. De buena gana limitaríamos estas breves notas a aquellas dos disciplinas; pero la psicología herbartiana es, como él mismo dice, una metafísica aplicada. No había sonado aún la hora en que proclamara la psicología su separación de la filosofía general. No hay, pues, otro remedio que dedicar alguna atención a los principios metafísicos de Herbart, sin duda lo menos fuerte y vivo de su obra.
+
+II
+
+METAFÍSICA
+
+Define Herbart la filosofía como la elaboración de los conceptos; es, por tanto, un conocimiento secundario que se ejercita sobre uno primario: la experiencia. Ésta se caracteriza por su pasividad: en la experiencia nos encontramos con contenidos —sensaciones, representaciones, conceptos— que nos son «dados». La filosofía, si no quiere degenerar en un ilusionismo, ha de limitar bien sus meditaciones a esto que la experiencia da. Por otra parte, si lo que la experiencia da fuera completo en sí mismo, holgaría el subsecuente trabajo filosófico. Mas no acontece así. Lo dado nos conduce a una serie de consideraciones escépticas, dubitativas.
+
+Por «dado» entiende Herbart todo aquello que hallamos en nuestro conocimiento con un carácter de imposición; así una fantasía nuestra no lleva consigo una referencia forzosa a una realidad de que ella pretenda ser copia o representación. En cambio, una sensación nos trae, queramos o no, la ilusión de una realidad en ella y por ella sentida. Del mismo modo, el concepto de «cosa» es imposible de remover de nuestra conciencia: cuando percibimos algo pensamos ineludiblemente en que lo percibido —color, sonido, resistencia— es un conjunto de propiedades de una cosa, la cual se halla tras ellas, es algo distinto de ellas, es la unidad de ellas.
+
+Ahora bien; todo esto en la experiencia (= conocimiento espontáneo) dado puede clasificarse en dos órdenes: la materia dada en la experiencia y la forma dada también en ella. Para Kant la experiencia sólo nos da la materia —color, sonido, resistencia. Herbart encuentra que si la nota de que algo nos es dado yace en el carácter impositivo, ineludible, con que ese algo llega a nuestra reflexión, tan involuntario y forzoso como el color visto es para nosotros la extensión que ese color ocupa o el orden temporal en que las sensaciones se suceden. Espacio y tiempo, formas en que se ordena y estructura la materia de la experiencia, nos son, por consiguiente, también dados. Y lo mismo sustancia, causalidad, etcétera.
+
+La materia dada y las formas dadas llevan a dos órdenes de dudas, según hemos dicho. La sensación —en la cual se nos da como presente una realidad— varía: lo que ahora vemos blanco, aparece luego azulado: además, los diversos sentidos al hacer referencia a una misma realidad refieren a ella distintas materias: ¿cuál de ellas es la que en realidad posee lo real? Otros perciben la misma pretensa realidad de distinta suerte que nosotros, etcétera, etcétera. En una palabra: la sensación nos pone delante con toda evidencia la realidad; pero vacila, es contradictoria en la determinación de qué, cuál, sea esa realidad: nos dice con absoluta evidencia que algo es; pero lo que ella nos da como siendo ese algo es sólo apariencia, relatividad. Lo real que ella anuncia no es como ella supone. A estas dudas que la materia de la experiencia plantea llama Herbart escepticismo inferior[38].
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+Las formas de la experiencia nos conducen a un escepticismo superior[39]. Ante todo: si el espacio nos es dado, ¿cómo nos es dado? —ni lo vemos ni lo tocamos. ¿Y la sustancia? ¿Y la [causa](/concepts/cause)? Nada parece más evidente que nuestro yo; pero ese yo tan evidente, ¿en qué consiste? Apenas ensayamos la respuesta a estas preguntas nos vemos cercados de dificultades. Estos dos escepticismos ponen en inquietud nuestro pensamiento, que ya no logra contentarse con lo dado, antes bien, hallando en éste siempre un problema[40], entra en un movimiento reflexivo y se dispone a buscar soluciones. Este movimiento del pensar, dirigido a aclarar y corregir los conceptos problemáticos ofrecidos por la experiencia, es la filosofía.
+
+Hay en esta labor una primera operación: la de hacer los conceptos dados claros y distintos. La claridad de un concepto procede del análisis de sus notas constitutivas: la distinción de un concepto procede de que se le haya separado bien de los demás. La Lógica es la primera disciplina filosófica encargada de dar claridad y distinción a los conceptos: es una disciplina formal que no crea nuevas nociones, meramente determina cómo debemos pensar los conceptos que ya tenemos.
+
+Pero, una vez claros y distintos éstos, acaso continúen ofreciendo dificultades. Estas dificultades, no siendo oriundas de la confusión o indistinción con que el sujeto maneja un concepto, nacerán de lo más íntimo de éste. ¿Cómo superarlas? Es preciso variar el concepto mismo, transformarlo, completarlo, hacer de él otro. He aquí la misión de la metafísica[41]: librar de dificultades a la experiencia, llevarla a perfecta comprensión.
+
+Tomemos uno cualquiera de los problemas que suscitan las formas dadas en la experiencia, la forma «cosa» —res—, por ejemplo. A la pregunta ¿qué es esta cosa? se contesta enumerando sus caracteres, se dice: «Esta manzana es redonda, verde, dura, ácida, etcétera». Con esto, en lugar de la una cosa nos encontramos ante varias cosas: una cosa redonda, una cosa verde, etcétera. Y, sin embargo, por cosa entendemos una unidad. Y, sin embargo, cuando se nos pregunta qué es esa cosa una, tenemos que suplantar a la unidad una multiplicidad de notas. La contradicción esencial aparece: la forma «cosa con sus propiedades», sin la que no podríamos pensar, es, no obstante, contradictoria, y contradictoria, no por azar o accidente, sino contradictoria en sí misma. Otras contradicciones nos ocurrirán que proceden de errores subjetivos nuestros: la lógica, que es como un aseo y una higiene mentales, acude a salvar la contradicción mostrando que era sólo aparente. Mas aquí hallábamos una contradicción verdadera y no aparente. Y si recorremos los demás conceptos fundamentales de la experiencia: cambio, causa, yo, etcétera, topamos con análogas contradicciones. La experiencia, en suma, es en sí misma incomprensible, irracional: la experiencia es un problema, el problema de la metafísica.
+
+De suerte que ésta consistiría en un proceso intelectual que, partiendo de lo dado —que es una contradicción, un problema—, va a conceptos nuevos, no dados, donde se resuelven las contradicciones. ¿No dados? Entonces ¿de dónde los sacamos? ¿Cómo podemos caminar del concepto-problema al concepto que es solución?
+
+La metafísica tiene, pues, que resolver una cuestión previa: su método. La metafísica comienza por ser metodología.

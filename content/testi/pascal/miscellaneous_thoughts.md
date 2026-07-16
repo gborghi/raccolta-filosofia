@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> Miscellaneous fragments not folded into the Apology: vanity, inconstancy, pride, and the thesis that force, not opinion, rules the world, though opinion makes use of force.
+> Scattered fragments not fitting the major sections: reflections on man's inconstancy and vanity, on the primacy of custom and habit (choosing the eldest son as king), on the relations of reason and passion, and on the sound opinions of the people.
 
 <p class="work-source">Traduzione di George Pearce · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -26,7 +26,7 @@ I. + M. de Roannez once remarked:— “Reasons occur to me afterwards; but, in 
 
 II. + When passion urges to an action, we are forgetful of duty. Our inclinations lead us, for instance, to read a certain book, and we read it, when we ought to be otherwise employed. Now, to correct this, we should purpose to ourselves to do something we dislike; and then we shall excuse ourselves, on the ground that we have something else to do; by this means we shall recall ourselves to our duty.
 
-III. + The most irrational things in worldly affairs often become, through the evil tendencies of man, the most reasonable. What is there less reasonable, than to choose for the governor of a kingdom, the eldest son of a sovereign? We do not select for captain of a ship, the sailor of highest birth; such a rule would be improvident and ridiculous. But, because the nature of things is, and will ever remain such, it becomes reasonable and just; for who should be selected? The most virtuous, the ablest? Here we are at once at issue; every one pretends to be the most virtuous, and the most able. Let us then, we say, attach the pre-eminence to something that admits of no dispute. It must be the eldest son of the sovereign. There, our course is clear; there can be no contest upon that point. Reason can devise nothing better; for civil wars are the greatest of all evils. [MSS. of Biblioth. Roy., portfolios of Dr. Valiant Nicole, in his work on the “Education of a Prince,” has given, with some modification, part of these sentiments of Pascal, which, however, in their present state, are now published for the first time. The ordinary editions of the “Pensées” give only these lines:—” We do not choose for captain of a ship, that one among the sailors who is of the highest birth.” This remark, which in former editions has been appended to a passage with which it has no connexion, appears again in the MS., written in Pascal’s hand, in the form of an isolated note.]
+III. + The most irrational things in worldly affairs often become, through the evil tendencies of man, the most reasonable. What is there less reasonable, than to choose for the governor of a kingdom, the eldest son of a sovereign? We do not select for captain of a ship, the sailor of highest birth; such a rule would be improvident and ridiculous. But, because the nature of things is, and will ever remain such, it becomes reasonable and just; for who should be selected? The most virtuous, the ablest? Here we are at once at issue; every one pretends to be the most virtuous, and the most able. Let us then, we say, attach the pre-eminence to something that admits of no dispute. It must be the eldest son of the sovereign. There, our course is clear; there can be no contest upon that point. Reason can devise nothing better; for civil wars are the greatest of all evils. [MSS. of Biblioth. Roy., portfolios of Dr. Valiant Nicole, in his work on the “[Education](/concepts/education) of a Prince,” has given, with some modification, part of these sentiments of Pascal, which, however, in their present state, are now published for the first time. The ordinary editions of the “Pensées” give only these lines:—” We do not choose for captain of a ship, that one among the sailors who is of the highest birth.” This remark, which in former editions has been appended to a passage with which it has no connexion, appears again in the MS., written in Pascal’s hand, in the form of an isolated note.]
 
 IV. The power of sovereigns is founded both on the reason, and on the folly, of their people; but much the most on their folly. The greatest and most important things in the world are based in weakness; and this basis is admirably secure; for nothing is more certain than this, that the people will ever be weak. That foundation which consists in the soundness of their reason, and an opinion of their wisdom, is an unstable one.
 
@@ -52,7 +52,7 @@ Nor is it a mere matter of outside show and trapping, to carry various coats of 
 
 + Yet is all this very reasonable, on account of the other advantages connected with it; and a man who has received à blow, without showing his sense of it, is Overwhelmed with injuries and impositions. [It is very obvious, that in these passages Pascal is foregoing his habitual character of the Christian moralist; and, assuming the principles current in the world, lays down rules of conduct consistent with them. (Transl.)]
 
-+ 4th. To labour for uncertainties; — to walk upon the sea; — and to traverse a plank.
++ 4th. To [labour](/concepts/labour) for uncertainties; — to walk upon the sea; — and to traverse a plank.
 
 VIII. Man is necessarily so much of a fool, that it would be a species of folly not to be a fool.
 
@@ -202,7 +202,7 @@ LV. As the understanding may be injured, so may the opinions. We form both by ou
 
 LVI. Though some persons have no interest in what they affirm, we must not be too certain that they do not speak untruths: there are those who lie for the mere love of lying.
 
-LVII. A man stands at a window to see the passers-by: if I pass, am I to say, he stands there to see me? No; he is thinking nothing about me, in particular. Now, when a person loves a female on account of her beauty, does he really love her? No; the small-pox, which may destroy her beauty, but leave her alive, will destroy his love also.
+LVII. A man stands at a window to see the passers-by: if I pass, am I to say, he stands there to see me? No; he is thinking nothing about me, in particular. Now, when a person loves a female on account of her [beauty](/concepts/beauty), does he really love her? No; the small-pox, which may destroy her beauty, but leave her alive, will destroy his love also.
 
 And so, if I am loved for my judgment, or my memory, is it myself that am loved? No; I may lose these faculties; yet I myself shall remain. Where then is the individuality, if it lies neither in the body, nor in the mind? And how can we love either the body or the mind, but for those qualities which do not form the individuality; inasmuch as they are perishable? Can we love the mind of another abstractedly, and without reference to its qualities? That cannot be. We do not then love the person, but only the qualities.
 
@@ -242,7 +242,7 @@ When we see certain events always recurring alike, we conclude that they origina
 
 LXVII. The mind naturally inclines to some kind of belief, and the will to some kind of affections; so that, for want of proper objects, they are prone to attach themselves to such as are unfitting.
 
-LXVIII. [Grace](/concepts/grace) will always be found in the world as well as nature, inasmuch as it is in a measure congenial to us. Thus there will always be Pelagians, and orthodox believers; and always conflicts going on between them.
+LXVIII. Grace will always be found in the world as well as nature, inasmuch as it is in a measure congenial to us. Thus there will always be Pelagians, and orthodox believers; and always conflicts going on between them.
 
 It is the first birth that produces the one, and the second, the other.
 
@@ -412,7 +412,7 @@ CXXII. “Ferox gens nullam esse vitam sine armis rati.” These love death bett
 
 CXXIV. + We do not become tired of eating and sleeping daily, for hunger and drowsiness are every day recurring; but for this, they would weary. So, without a hunger for spiritual things, they also would weary. “Hunger after righteousness.” ([Beatitude](/positions/beatitude) 8th.)
 
-CXXV. By chance, thoughts are produced; by chance, they are lost; there is no method for preserving or acquiring them. (Erased.)
+CXXV. By [chance](/concepts/fortune), thoughts are produced; by chance, they are lost; there is no [method](/axes/method) for preserving or acquiring them. (Erased.)
 
 — + A thought has lapsed; I wished to transcribe it. Instead of doing so, all I can write is, that it has lapsed. (Erased.)
 
@@ -492,7 +492,7 @@ The sentiment of Pascal corresponds with that of Charron, but with a certain res
 
 Further, this thought has been published by Desmolets, and after him by the Dijon editor. But they have both materially altered the autograph text, by substituting the word “manque de force,” for “marque de force,” which latter is plainly written in the MS.]
 
-CXLI. The change of a man into a saint can only be effected by [grace](/concepts/grace); whoever doubts this knows nothing of what a saint or a man really is.
+CXLI. The change of a man into a saint can only be effected by grace; whoever doubts this knows nothing of what a saint or a man really is.
 
 CXLII. Men can be taught everything but virtue; and yet there is nothing that they pique themselves so much upon possessing as virtue. They are vain of just that very thing which they have never acquired.
 
@@ -586,11 +586,11 @@ CLXXII. + “Fascinatio nugacitatis.” That passion may not injure us, let us a
 
 CLXXIV. + The hope which Christians entertain of eternal happiness, is mingled with joy as well as with fear: they are not like those who hope for a kingdom of which they have never been the subjects; but their aspirations are for holiness, and freedom from corruption; — and of these things they have already had some experience.
 
-CLXXV. The law does not destroy nature, but enlightens her; [grace](/concepts/grace) does not destroy the law, but brings it into exercise.
+CLXXV. The law does not destroy nature, but enlightens her; grace does not destroy the law, but brings it into exercise.
 
 — The faith received at baptism is the source of all the life of the Christian, and of the converted.
 
-CLXXVI. We may make an idol even of truth; for truth, apart from charity, is not God; it is his image, and a representation (une idole) which must not be loved, or adored: still less must we love or adore its opposite, which is falsehood.
+CLXXVI. We may make an idol even of truth; for truth, apart from charity, is not God; it is his image, and a [representation](/concepts/idea) (une idole) which must not be loved, or adored: still less must we love or adore its opposite, which is falsehood.
 
 CLXXVII. + I can be contented with entire obscurity; but if God appoints me a condition partially obscure, that very partial obscurity it is which dissatisfies me; and that, because I do not find in it the merit attaching to perfect seclusion. This is a fault, and shows that I make an idol of my obscurity, without looking to the appointment of God, which ought alone to be the object of my adoration.
 
@@ -622,7 +622,7 @@ CLXXIX. All that is in the world is “lust of the flesh, lust of the eye, or pr
 
 CLXXXI. + Every thing may prove fatal to us, even things formed for our service; as, in common things, a wall may kill us, or the steps of a staircase, if we do not walk uprightly.
 
-— The smallest movement is influential upon the whole of nature; the entire sea is displaced by a stone. So, in [grace](/concepts/grace), the minutest action may be followed by incalculable consequences. Thus, every thing has its importance.
+— The smallest movement is influential upon the whole of nature; the entire sea is displaced by a stone. So, in grace, the minutest action may be followed by incalculable consequences. Thus, every thing has its importance.
 
 + In every thing we do, we should look, not only at the act itself, but at our own state, past, present, future, and that of others whom it may concern; and examine the connexion of all these things. Thus shall we preserve circumspection of conduct.
 

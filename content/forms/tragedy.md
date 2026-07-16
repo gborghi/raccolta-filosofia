@@ -6,7 +6,7 @@ label_en: "tragedy"
 aliases:
   - "Seneca"
   - "dramma"
-work_count: 11
+work_count: 12
 tags:
   - "graph/form"
 title: "tragedia"
@@ -15,12 +15,15 @@ title: "tragedia"
 
 *tragedy*
 
-## Opere (11)
+## Opere (12)
+
+**Rousseau**
+- [COURTS FRAGMENTS DE LUCRÈCE](/testi/rousseau/courts_fragments_de_lucrèce)
+- [LA DÉCOUVERTE DU NOUVEAU MONDE](/testi/rousseau/la_découverte_du_nouveau_monde)
 
 **Seneca**
 - [AGAMEMNON](/testi/seneca/agamemnon)
 - [HERCULES ON OETA](/testi/seneca/hercules_on_oeta)
-- [LIST OF LATIN TEXTS](/testi/seneca/list_of_latin_texts)
 - [MEDEA](/testi/seneca/medea)
 - [OCTAVIA](/testi/seneca/octavia)
 - [OEDIPUS](/testi/seneca/oedipus)

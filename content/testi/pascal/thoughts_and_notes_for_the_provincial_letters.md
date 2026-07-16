@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> Preparatory notes and drafts for the Provincial Letters: raw material on Jesuit casuistry and the controversy over grace, prior to its final literary elaboration.
+> Preparatory notes and fragments for the Provincial Letters: jottings against the Jesuits, casuistry and probability, on lax morality opposed to truth, and on the conduct of the order — raw materials later recast into the finished work.
 
 <p class="work-source">Traduzione di George Pearce · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -302,7 +302,7 @@ I supposed we might be condemned for having never had good thoughts; but to beli
 
 — There is only one who speaks the truth.
 
-— However little inconvenience it may cause, they produce from it more [grace](/concepts/grace), for they dispose of it as of their own.
+— However little inconvenience it may cause, they produce from it more grace, for they dispose of it as of their own.
 
 — For every several occasion! a distinct species of grace, — grace for the great, grace for the commonalty. (Erased.)
 
@@ -442,7 +442,7 @@ To justify, rather than confess it as a crime, “haec tunc hominem concludit pr
 
 — Am I alone against thirty thousand? No. Do you keep possession of the court, and entrench yourselves in imposture: my support be truth! There is all my strength: if I lose that, I am lost indeed! I shall have no lack of charges, and persecution. But truth is on my side; and we will see which of us shall prevail!
 
-I am an unworthy defender of religion; but you are also unworthy defenders of error and injustice. May God, in his mercy, disregarding what is evil in me, and looking complacently upon what is good in you, grant us both his [grace](/concepts/grace), that truth may not suffer in my hands, and that falsehood may not..............................[These words finish page 398 in the MS. The sentence was doubtless continued on another page, which is lost.]
+I am an unworthy defender of religion; but you are also unworthy defenders of error and injustice. May God, in his mercy, disregarding what is evil in me, and looking complacently upon what is good in you, grant us both his grace, that truth may not suffer in my hands, and that falsehood may not..............................[These words finish page 398 in the MS. The sentence was doubtless continued on another page, which is lost.]
 
 <span class="atom-split" data-atom="016" data-title="VII." data-chapter="VII." data-kind="atom"></span>
 
@@ -464,7 +464,7 @@ You deem your objects so just, that you make them matter of prayer!
 
 Two years ago their heresy consisted in the Bull; last year it was the internal meaning; for these six months past it has been in the “ totidem;” now it is in the interpretation.
 
-— Do I not plainly see that you are determined to bring them in heretics? — St. Sacrament.
+— Do I not plainly see that you are determined to bring them in heretics? — St. [Sacrament](/concepts/sacrament).
 
 — I have embroiled myself in taking up the cause of others.
 
@@ -472,7 +472,7 @@ Two years ago their heresy consisted in the Bull; last year it was the internal 
 
 They must be made to listen.
 
-— .... Without the names of the authors; but as they saw through your design, seventy were found to oppose you.
+— .... Without the [names](/positions/nominalism) of the authors; but as they saw through your design, seventy were found to oppose you.
 
 — To date the decree.
 

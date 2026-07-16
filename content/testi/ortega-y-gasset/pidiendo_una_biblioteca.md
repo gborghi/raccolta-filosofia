@@ -1,0 +1,59 @@
+---
+title: "Pidiendo una biblioteca"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> An article against the proposed National Theatre and against Catalan Solidaridad: Spain will be saved not by the spontaneous but by a labour of reflective energy. It mocks Cambó's idea that Spanish decadence is explained by centralism—an 'administrative' reading of history replacing Marx's economic one. The sample is only the opening.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/pidiendo_una_biblioteca" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Pidiendo una biblioteca" data-chapter="(apertura)" data-kind="intro"></span>
+
+El proyectado Teatro Nacional, que anda ahora en los ambages de una comisión parlamentaria, ofrece algunos inconvenientes que no son del género económico, sino del de las cuestiones culturales. Por lo pronto, esa ostentación de nacionalismo no me parece discreta ni simpática. Puede ocurrir que en algún [caso](/concepts/fortune) el fervor, la piedad hacia lo castizo, hacia lo nativo deban tomar la forma del pudor. Y si alguna vez se da ese caso, yo creo que estamos en él los españoles.
+
+La cuestión no es vana ni se pierde en las nubes; en su fondo lleva todo el problema político de nuestro país. Así, aun cuando la Solidaridad catalana no fuera lo que se dice que es, una iniciación del separatismo, y sobre todo un movimiento que al cabo sólo favorecerá a los curas y a los ricos, yo seguiría siendo antisolidario. Los solidarios creen que el problema español necesita una solución espontánea; yo creo más probable que España alcance su salvación mediante una labor de energía reflexiva; es decir, todo lo contrario.
+
+Hace tiempo que se viene hablando en España de lo espontáneo; parece haberse descubierto en el régimen político, económico, pedagógico, imperantes en nuestra historia, el manantial de las desdichas nacionales. Se ha llegado a más; los señores Cambó y Vallés y Ribot han esbozado en sus últimos discursos una nueva interpretación materialista de la historia, según la cual las causas de las buenas y malas andanzas de un pueblo han de buscarse, ya que no en lo económico, como Marx quería, en lo administrativo. Razonando de tal suerte, llegan a ver en la decadencia española un efecto del centralismo. Esta teoría es ingenua y benévola; me parece que da una importancia excesiva al balduque y a los gobernadores de provincia, y me recuerda aquel manuscrito español existente en Londres que cita don Vicente Barrantes en su «Aparato bibliográfico para Extremadura». El índice del manuscrito comienza así:
+
+Capítulo I. —Dios.
+
+<span class="atom-split" data-atom="002" data-title="III. —Principio de los imperios." data-chapter="III. —Principio de los imperios." data-kind="atom"></span>
+
+IV. —Creación de los alcaldes de cuadrillas y para qué sirvieron y sirven quienes deban serlo en los pueblos.
+
+Puede, sin duda, una organización administrativa desacertada acarrear una decadencia política y económica, pero nunca una decadencia integral, una decadencia histórica como la nuestra. ¿Por ventura la mengua española se reduce a la falta de brillantez de nuestro comercio y de nuestra industria? Desgraciadamente no es así: se trata de que la actividad total de la raza ha sufrido una progresiva desviación de la línea clásica de la cultura; a esto llamo decadencia histórica, y esto es lo que aún está por explicar. Ni por un momento me ocurre ensayar una explicación de tan pavoroso enigma, pero formulo mi protesta de que se hallen para efectos de tanto valor trágico causas tan mínimas. Mal me parece todo intento de reconstruir la historia sobre la hipótesis de la desigualdad de las razas, pero al menos esta hipótesis tiene grandeza y hondura suficientes para que se la ponga latiendo tras las variaciones seculares. El libro del conde de Gobineau, donde por primera vez se ensaya, convierte la historia en una sorda tragedia fisiológica, mas no en una bufonada. Según Gobineau, la cultura, ampolla ideal de esencias odorantes y densas que constituyen lo humano, es manufactura de una de las razas puras originales. La primera mezcla de dos sangres distintas fue beneficiosa, como en los árboles frutales un primer injerto. Pero la historia es un inmenso epitalamio, una estentórea canción de bodas, que canta una vez y otra, con inconsciente alegría, la fusión de las razas. Alegremente los pueblos se han ayuntado: todas las luchas acabaron en pompas conyugales; la sangre, vehículo de la tradición moral e intelectual de cada grupo étnico, ha ido antecogiendo materias contradictorias y haciéndose un licor confuso, donde van disueltas las cosas más hostiles. Así nacieron las razas decadentes que llevan en sus venas el principio de desorientación.
+
+No creo que esta teoría sea cierta; la he mentado únicamente para indicar que la explicación de nuestra decadencia exige motivos tan radicales, por lo menos, como los propuestos por Gobineau.
+
+No viene de hoy ni de ayer nuestro desmedramiento: la sustancia española está enferma hace siglos, y es su mal tan profundo, que no hallaremos en la historia de España político con genio suficiente para atribuirle los inferidos daños. De no ver esto, de empequeñecer nuestra malaventura, de abufonar esa historia de España, es de lo que acuso al sistema de afirmaciones catalanistas, dejando todo mi respeto para las personas que se entretienen sustentándolo. Hay que ponerse, una vez siquiera, con toda precisión, el problema de la cultura; hay que obligarse, una vez siquiera, a contestar «técnicamente» a esta pregunta: ¿Qué es la cultura?
+
+En La ciencia española, o mejor dicho, en una nota de la reedición (notas que acusan un poco más de continencia en el nacionalismo del autor), se percata el señor Menéndez Pelayo de que en la llamada cultura española han faltado las matemáticas: en cambio —viene a decir— hemos cultivado grandemente las ciencias biológicas. ¿Cómo? ¿Es que da lo mismo? ¿Es que son materias coordinadas, de significación equivalente en el globus intellectualis? Yo creo que el símil de una esfera es muy aplicable a la cultura, también tiene ésta un centro y una periferia. Las matemáticas, juntamente con la filosofía, son el centro de la cultura europea, que es de la que hablamos, y si cupiera aún mayor centración, eso serían en la cultura europea moderna, que comienza, no en el renacimiento de la plástica o de los versos griegos, sino en la traducción que Nicolás Cusano hizo de la mecánica de Arquímedes y en la fiesta con que la Academia Florentina celebró el natalicio de Platón.
+
+Si no hemos tenido matemáticas, «orgullo de la razón humana», que decía Kant; si, como es consecuencia, no hemos tenido filosofía, podemos decir muy lisamente que no nos hemos iniciado siquiera en la cultura moderna. Éstas no son palabras para quien conozca el valor de las palabras: éste es el hecho brutal, indubitable y trágico; ésta es la herida profunda que lleva en medio del corazón nuestra raza, y la hace andar como un pueblo fantasma, revenant, sobre un fondo de paisajes nuevos, en cuyo cultivo no ha intervenido para nada y hasta el nombre de cuyas plantas y senderos desconoce.
+
+Pensando de esta manera, ¿resultará extraño que abomine de toda fe en lo espontáneo de la raza? Los «solidarios» y don Gumersindo de Azcárate creen que todos los males provienen de la legislación vigente en España desde los Reyes Católicos: suprimámosla y presenciaremos la restauración espontánea de las energías sociales. Ésta es una aplicación en menor escala del razonamiento anarquista que hay en el fondo de todo el viejo liberalismo individualista: el hombre en estado nativo es bueno; la sociedad reglamentada le hace malo; destruid ésta y renacerá sobre sus ruinas la bondad humana como un jaramago inmortal. Esto es la medula del romanticismo, y en mi vocabulario romanticismo quiere decir pecado.
+
+¡Lo espontáneo!… Es decir, si no entiendo mal, la última intimidad del carácter, la reacción inmediata del yo ante las influencias del medio para establecer el equilibrio vital. Pero el medio ha cambiado, no ciertamente por nuestro impulso: todos los dolores y las dificultades del siglo XX nos están hiriendo. ¡Y queremos que nuestro yo, un yo pétreo del siglo XVI, entregado a su espontaneidad, luche contra ese medio, lo plasme y lo sojuzgue! No: lo espontáneo español es forzosamente malo. Nuestra labor consiste precisamente en labrarnos una nueva espontaneidad, un yo contemporáneo, una conciencia actual. En otras palabras, tenemos que educarnos. Y la educación no es obra de espontaneidad, sino de lo contrario, de reflexión y de tutela. Hemos de fingirnos un yo ideal, simbólico, ejemplar, reflexionando sobre el alma, sobre el carácter europeos. Nada de realidades orgánicas, término tan del gusto «solidario». Emplear símiles biológicos refiriéndose a entidades morales es cosa completamente desacreditada, según es sabido, pero mucho más cuando se habla de España, de una raza espiritualmente muerta. Preferible fuera usar de comparaciones teológicas; porque, en verdad, se trata de una resurrección.
+
+El problema español es un problema educativo; pero éste, a su vez, es un problema de ciencias superiores, de alta cultura. El verdadero nacionalismo, en lugar de aferrarse a lo espontáneo y castizo, procura nacionalizar lo europeo.
+
+Es preciso, ante todo, que España produzca ciencia. Y mientras tanto cuidemos de ocultar la bastedad nativa: no descubramos, como malos hijos, el cuerpo del patrio Noé cuando está beodo e impresentable. Y si lo hacemos, sea suscitando, a fuerza de genio, idealidad sobre nuestras lacerías, como ese pintor Zuloaga que anda por el mundo removiendo las almas con la barbarie pintoresca de nuestras llagas.
+
+Hoy es muy difícil realizar trabajos científicos en España: salvo algunas materias, es decididamente imposible. Comienza por no haber una sola biblioteca de libros científicos modernos. La Biblioteca Nacional es inservible; apenas si basta para asuntos de historia y literatura españolas, que son las disciplinas menos europeas. Las demás ciencias se hallan por completo desprovistas de material bibliográfico. Faltan las obras más elementales. Apenas si hay revistas. Para colmo de desventuras, el reglamento es paladinamente ridículo. El principio en que se funda este reglamento es que los libros están en la Biblioteca para que no se los lleven; no para que sean leídos bajo ciertas garantías, sino exclusivamente para que no se los lleven, aunque nadie los lea.
+
+Creo que una biblioteca de libros científicos (y claro está que esto quiere decir de libros científicos extranjeros) es institución mucho más urgente que ese teatro nacional proyectado. Puede vivir dignamente una nación sin un Teatro Nacional: sin una biblioteca medianamente provista, España vive deshonrada.
+
+¿Habrá en el Parlamento algunos diputados que tengan la bondad y la devoción de tomar sobre sí este empeño? ¿Se dejará conmover el Gobierno por esta petición que le hacen desde el fondo de sus corazones cuantos se afanan ardorosamente por nacionalizar la cultura? No necesitaría el Gobierno buscar fuera del partido conservador la personalidad idónea para organizar y dirigir esa Biblioteca: el nombre respetabilísimo de don Eduardo de Hinojosa daría la suma autoridad a esta nueva institución. Y sería el mejor homenaje que a tan benemérito español corresponde y es debido.
+
+El Imparcial, 21 de febrero de 1909

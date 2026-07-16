@@ -10,7 +10,7 @@ contro:
   - "demonstrative_theism"
   - "fideism"
   - "deism"
-work_count: 4
+work_count: 0
 tags:
   - "graph/position"
 title: "ateismo"
@@ -23,14 +23,15 @@ Posizione sull'asse [Dio](/axes/god).
 
 **Contro:** [teismo dimostrativo](/positions/demonstrative_theism), [fideismo](/positions/fideism), [deismo](/positions/deism)
 
-## Opere (6)
-
-**Lucretius**
-- [CONTENTS OF THE LATIN TEXT](/testi/lucretius/contents_of_the_latin_text)
-- [DUAL LATIN AND ENGLISH TEXT](/testi/lucretius/dual_latin_and_english_text)
-- [ON THE NATURE OF THINGS: PROSE TRANSLATION](/testi/lucretius/on_the_nature_of_things_prose_translation)
-- [ON THE NATURE OF THINGS: VERSE TRANSLATION](/testi/lucretius/on_the_nature_of_things_verse_translation)
+## Opere (5)
 
 **Marx**
-- [CRITIQUE OF HEGEL’S PHILOSOPHY OF RIGHT, 1843](/testi/marx/critique_of_hegels_philosophy_of_right_1843)
-- [ON THE JEWISH QUESTION, 1843](/testi/marx/on_the_jewish_question_1843)
+- [Zur Judenfrage](/testi/marx/zur_judenfrage)
+- [Zur Kritik der Hegelschen Rechtsphilosophie](/testi/marx/zur_kritik_der_hegelschen_rechtsphilosophie)
+
+**Nietzsche**
+- [Der Antichrist](/testi/nietzsche/der_antichrist)
+- [Zur Genealogie der Moral](/testi/nietzsche/zur_genealogie_der_moral)
+
+**Ortega y Gasset**
+- [La teología de Renan](/testi/ortega-y-gasset/la_teología_de_renan)

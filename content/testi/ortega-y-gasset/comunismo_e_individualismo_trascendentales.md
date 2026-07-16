@@ -1,0 +1,45 @@
+---
+title: "Comunismo e individualismo trascendentales"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> Ortega claims to have been the first to predict bolshevism's confinement to Russia: its reality is typically Slavic and holds too large a dose of Asianism for the European soul to assimilate — "bolshevism is a fit of nihilism, and nihilism is the ground of Asian man". The radical divergence lies in how individuality is valued: for the Oriental, to be an individual is the spectral mode of existing and one gains ontological weight by de-individualising, whereas the European feels alive only when excluded from everything else. Communism is the political echo of that cosmic appetite.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/comunismo_e_individualismo_trascendentales" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Comunismo e individualismo trascendentales" data-chapter="" data-kind="intro"></span>
+
+Madrid, abril de 1926
+
+Amigos, vamos acertando en punto al bolchevismo. Hubo un momento —¿recordáis?— en que casi todos creyeron en su victoria sobre Europa. Se esperaba una expansión ecuménica de la rebelión eslava. He aquí un error que me complace no haber cometido. Creo haber sido el primero, cronológicamente, que se atrevió a anunciar el confinamiento del bolchevismo dentro de Rusia por la parte de Occidente. La realidad bolchevista —no su superficie ideológica— es —decía yo— típicamente eslava y esto implica demasiada dosis de asiatismo, para que pueda asimilársela el alma europea. En resumidas cuentas, el bolchevismo es un ataque de nihilismo y el nihilismo es el fondo del hombre asiático.
+
+Conviene de cuando en cuando renovar el contacto con los grandes hechos diferenciales, tan básicos y envolventes que se esconden a la percepción de puro estar en torno nuestro los unos, de puro no estar los otros. El hombre europeo distraído por las discrepancias interiores, tan someras, entre las varias colectividades intracontinentales, sólo descubre la raíz más honda de su ser histórico cuando tropieza por azar con el abismo del alma oriental. Que existan seres para los cuales el aniquilamiento es un ideal de vida, nos parece tan inconcebible que por retroceso queda formulada y como esculpida en nosotros la clara voluntad de ser lo más posible. No se entiende bien la contraposición si no se advierte que esta divergencia tan radical surge frente al problema de la individualidad.
+
+El individuo es un hecho, o, en otro giro, el individuo existe. El oriental duda de ello tan poco como el europeo. Pero divergen en el momento que tratan de valorar esa realidad. Para el oriental la individualidad es la forma menos densa del existir, ser individuo es lo menos que se puede ser. El fantasma que el espejismo suscita es también una realidad, pero ¡cuán poco sólida ontológicamente! Así el individuo es la manera espectral de existir. La realidad se condensa y gana quilates en la medida que del individuo —limitación extrema del Todo— retrocedamos hacia el centro sobreindividual del Universo. Cuanto menos seamos lo que individualmente somos más somos todo lo demás. Al individualizarnos quedamos metafísicamente proyectados a la periferia del existir y nos convertimos en mero aspecto o piel de lo real. Al desindividualizarnos y dejar de ser sólo nosotros nos reintegramos en la auténtica e indiferente realidad. Vamos, pues, ganando peso ontológico.
+
+Sería un error creer que esto es sólo una idea de los pensadores asiáticos. En ninguna parte, pero menos en Asia, piensa un pensador nada importante que no halle en infusión, previamente, dentro del obscuro sentir étnico. El hombre de Asia que no es filósofo presiente, con irresistible atractivo, la voluptuosidad del huir de sí mismo hacia dentro, hacia un fondo metafísico donde queda absorbido como la gota en el cielo azul. Esta imagen del rocío temblón rechupado por la enorme boca del firmamento ha deleitado milenariamente, como una última caricia, las almas de Oriente. El comunismo es sólo la remota y prosaica resonancia en el haz político y público de este profundo apetito cósmico que incita a abandonar la forma individual como se abandona un traje molesto. La estatua que soñase con perder sus aristas y sus combas para retornar a la cantera maternal e incluirse de nuevo en el vientre terráqueo sería un buen símbolo de lo que decimos.
+
+Claro que tal inclinación impide una plena individualización. Así acontece con la psique eslava. Recuérdese la fama de Dostoyewski —almas a medio hacer, como gaseosas, que adhieren las unas a las otras al menor contacto o, viceversa, se dispersa cada una en un rebaño— parejamente los vellones de las nubes.
+
+El europeo, por el contrario, sólo se siente vivir en la medida que se siente excluido de todo lo demás, encerrado en sí mismo y, si es posible, artillado contra el resto del cosmos. Le acomete un asco transcendente al notar su posible o inminente confusión metafísica con otro ser. Vivimos en dispersión, esencial y progresiva.
+
+Nada extraño, pues, que en el instante de culminación europea, en esta época dorada, plenaria del barroco occidental —cima de la historia para nuestro Continente— tenga el valor un filósofo de elevar tal sentimiento a doctrina científica. Fue Leibniz. No sería demasiado audaz decir que es Leibniz el primer hombre que tiene la conciencia intelectual de ser individuo y el vigor de afirmarlo con la solemnidad de una teoría. Claro es que Aristóteles sabía ya que la realidad tenía algo de individual, mas, precisamente la indecisión de su filosofía en este punto subraya la falta de madurez en su sentir espontáneo. Para él lo que el individuo tiene de individuo es accidental. La realidad esencial es la genérica: el hombre y no cada hombre. Lo que «cada hombre» añade «al hombre» es contingencia material. La especie al pasar por la [materia](/positions/materialism) se individualiza en ella, es decir, se disocia en hilos innumerables y lo que per se era uno se multiplica per accidens.
+
+La posición de Leibniz es radicalmente opuesta a ésta de Aristóteles: todo lo genérico es para él irreal, porque es abstracto. La realidad es pura y exclusivamente individual. Y como, en cierto modo, si sólo existiese en verdad, según el oriental quiere, un Todo éste podría ser llamado individuo, Leibniz subraya su idea individualista afirmando que hay muchas realidades, que hay infinitas realidades, pero todas son individuales. Éste es el magnífico pensamiento de las mónadas. Cada mónada es en soledad. Sólo se es si se es solitario, sin contacto ni contaminación metafísica con ninguna otra cosa. Entre individuo e individuo se puede pasar una espada trascendental para demostrar que no hay ligamen trucado, que no hay nada, como en las ferias se pasa un yatagán bajo el busto del fenómeno que pretende no tener piernas.
+
+Frente a esta idea me inquieta un poco la más reciente de Scheler, que se inclina a suponer una identidad radical entre todos los seres vivos. La vida sería una e indivisa. Sólo habría una vida común y los llamados individuos serían sólo como lugares diversos y distantes entre sí, donde esa vida unitaria da sus pulsaciones. Scheler no ha hecho sino insinuar este pensamiento, pero aún no nos ha dado formalmente todas sus razones. La más eficaz entre las que adelanta sería el hecho de la simpatía, el fenómeno cósmico del amor, que supone, por lo pronto, comprensión íntima de otra vida y aspira a una fusión. El reconocimiento de otro ser como viviente —nuestra sensibilidad para el dolor de un animal, por ejemplo— no es una adquisición de la experiencia. La experiencia sólo nos presentaría cuerpos sin vida. La vida en ellos es un quid latente que sólo una intuición [a priori](/positions/transcendental_criticism) puede revelarnos. Scheler no halla otro medio de explicar esa intuición que por la identidad de la raíz vital en toda vida. La unidad de la vitalidad universal que actúa en todos los que vivimos se reconocería a sí misma al presentarse a un ser orgánico otro. En cierto modo, pues, los demás nos serían infusos desde siempre. (El amante siente tan profunda compenetración con su amada que parece en el encuentro de azar sobre la Tierra retornar una anterior convivencia en alguna estrella, como decía poco más o menos Scheler a su novia).
+
+Yo espero la ampliación de esta doctrina para examinarla a fondo. Como tendencia parece infiel a la soledad individualísima de la mónada leibniziana, tan nuestra, tan dramática y tan anticomunista. Sin embargo, conviene notar que Leibniz habla de entes que son espíritus mientras Scheler se limita a suponer la comunidad sólo en el plano de la realidad vital. Los espíritus son para él no menos independientes entre sí que lo eran para Leibniz.
+
+La Nación, 27 de junio de 1926

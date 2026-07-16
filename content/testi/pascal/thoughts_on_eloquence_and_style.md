@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> Fragments of rhetorical and literary criticism on eloquence, style and the faults of writers such as Cicero, with remarks on Montaigne and Descartes. Mostly aesthetic rather than doctrinal content.
+> Short fragments on eloquence and style: eloquence as a portraiture of thought, the correspondence between speaker and hearer, the demand for simplicity and nature, and the condemnation of false beauties and ornamental antitheses.
 
 <p class="work-source">Traduzione di George Pearce · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -78,7 +78,7 @@ Montague’s defects are great. Lasciviousness, — a vile quality, in spite of 
 
 XX. What is good in Montagne must have been of difficult acquirement. What is bad (I mean apart from his morals) might have been corrected with ease; he should have had a hint that he tells too many stories, and talks too much of himself.
 
-XXI. When we cannot attain to truth, it is as well that there should be extant some common and prevalent error, which gives a degree of stability to the mind; such as attributing changes of season, the progress of diseases, &c., to the moon. For the chief evil of man is a restless curiosity into things, of which he cannot acquire a knowledge; and error is less injurious than this fruitless curiosity.
+XXI. When we cannot attain to truth, it is as well that there should be extant some common and prevalent error, which gives a degree of stability to the mind; such as attributing changes of season, the [progress](/positions/progress) of diseases, &c., to the moon. For the chief evil of man is a restless curiosity into things, of which he cannot acquire a knowledge; and error is less injurious than this fruitless curiosity.
 
 + The mode of writing most usual with Epictetus, Montagne, and Salomon de Tultie, is that which impresses the most, dwells longest in the memory, and is most apt for quotation; inasmuch as it consists of thoughts thrown out from the ordinary occurrences of life. Thus, when reference is made to the vulgar error — that the moon has an effect upon everything, we are always reminded of Salomon de Tultie’s remark, “ When truth cannot be discovered, it is well that there should be some universal error,” &c.; which is the thought adduced above.
 
@@ -104,7 +104,7 @@ XXVI. Some authors, speaking of their works, say “my book, my commentary, my h
 
 XXVII. Languages are a species of cipher, in which it is not letters that are changed into letters, but words into words; so that an unknown tongue is decipherable.
 
-XXVIII. There is a kind of standard of agreeableness and beauty, which consists in a certain relation between our natural dispositions, whether it be feeble or strong, and that which gives us pleasure.
+XXVIII. There is a kind of standard of agreeableness and [beauty](/concepts/beauty), which consists in a certain relation between our natural dispositions, whether it be feeble or strong, and that which gives us pleasure.
 
 Whatever conforms to this standard pleases; be it a residence, music, discourse, poetry, prose, females, birds, rivers, trees, chambers, dress, &c.
 
@@ -116,13 +116,13 @@ Whatever is not adapted to this model displeases those who have a susceptibility
 
 <span class="atom-split" data-atom="009" data-title="XXIX. + Poetical Beauty." data-chapter="XXIX. + Poetical Beauty." data-kind="atom"></span>
 
-If we are to have a poetical beauty, we ought also to have a geometrical beauty, and a medicinal beauty. Yet we do not speak thus; and the reason is, that we well know the object of geometry, — that it is to work out demonstrations; and the object of medicine, — that it is the healing of sickness; but we do not know in what consists that satisfaction which is the object of poetry. We do not know what is the model in nature which it seeks to imitate; and, for want of that knowledge, certain affected phrases have been invented, such as “golden age,”
+If we are to have a poetical [beauty](/concepts/beauty), we ought also to have a geometrical beauty, and a medicinal beauty. Yet we do not speak thus; and the reason is, that we well know the object of geometry, — that it is to work out demonstrations; and the object of medicine, — that it is the healing of sickness; but we do not know in what consists that satisfaction which is the object of poetry. We do not know what is the model in nature which it seeks to imitate; and, for want of that knowledge, certain affected phrases have been invented, such as “golden age,”
 
 “[miracle](/concepts/miracle) of the day,”
 
 “fatality,” &c.; and this jargon is called poetical beauty!
 
-But carry your thoughts to the case of a female dressed after such a fashion as this, — this endeavour to express petty sentiments with tumid words, — and you will imagine a beauty decked out with beads, chains, and other tawdry ornaments. You would laugh, for you know what constitutes the real [grace](/concepts/grace) of women, better than you understand the pleasure aimed at by versification: but those who do not know this would be filled with admiration at all this finery; and there are many country places where such a damsel would be taken for a queen! Thus it is that we should call poems composed after this fashion, village queens.
+But carry your thoughts to the case of a female dressed after such a fashion as this, — this endeavour to express petty sentiments with tumid words, — and you will imagine a beauty decked out with beads, chains, and other tawdry ornaments. You would laugh, for you know what constitutes the real grace of women, better than you understand the pleasure aimed at by versification: but those who do not know this would be filled with admiration at all this finery; and there are many country places where such a damsel would be taken for a queen! Thus it is that we should call poems composed after this fashion, village queens.
 
 XXX. + I have never been able to form, after an interval, exactly the same judgment respecting the same things. I cannot judge of a work that I am engaged in, while composing it: I must, like the painters, look at it from a distance, but not too great a one. How great should it be, then? Consider.
 
@@ -194,7 +194,7 @@ XLIII. See remarks in II., IV. and V. of the “Jansenist they are serious and e
 
 — + After my 8th, I considered I had replied sufficiently. (Struck through.)
 
-— + Beauty of omission, of judgment.
+— + [Beauty](/concepts/beauty) of omission, of judgment.
 
 — + These persons want heart.
 

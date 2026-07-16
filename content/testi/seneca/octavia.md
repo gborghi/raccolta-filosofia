@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> Fabula praetexta (Roman historical drama) on the repudiation and death of Octavia by order of Nero; it portrays tyranny and the fragility of fortune at the imperial court.
+> The only extant fabula praetexta (Roman historical drama), on the ill-fated Octavia repudiated by Nero; Seneca himself appears as an advising character. A political drama of tyrannical power at the imperial court (of doubtful Senecan authorship).
 
 <p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
 
@@ -248,7 +248,7 @@ NURSE
 
 — subdued and humble, and gives signs by which she confesses her own great fear. Even her shall winged Cupid, false and fickle god, betray; though she be passing fair, boastful in power, hers shall be but a transitory joy.
 
-The queen of the gods herself like sorrows suffered, when the lord of heaven and father of the gods into all forms changed, and now wings of a swan put on, now the horns of a bull of Sidon, and again in a golden shower poured down; the stars of Leda glitter in the sky, Bacchus on his father’s Olympus dwells, Alcides as a god possesses Hebe and now no more fears Juno’s wrath; he is her son-in-law who was her enemy. Yet wise compliance and controlled wrath won victory for the queenly wife; without rival, without care does Juno hold the Thunderer on her heavenly couch, and no more does Jupiter, by mortal beauty smitten, desert the court of heaven. Thou too, on earth a second Juno, Augustus’ wife and sister, thy grievous woes overcome.
+The queen of the gods herself like sorrows suffered, when the lord of heaven and father of the gods into all forms changed, and now wings of a swan put on, now the horns of a bull of Sidon, and again in a golden shower poured down; the stars of Leda glitter in the sky, Bacchus on his father’s Olympus dwells, Alcides as a god possesses Hebe and now no more fears Juno’s wrath; he is her son-in-law who was her enemy. Yet wise compliance and controlled wrath won victory for the queenly wife; without rival, without care does Juno hold the Thunderer on her heavenly couch, and no more does Jupiter, by mortal [beauty](/concepts/beauty) smitten, desert the court of heaven. Thou too, on earth a second Juno, Augustus’ wife and sister, thy grievous woes overcome.
 
 OCTAVIA
 
@@ -442,7 +442,7 @@ In tender years rarely is love revealed, when, by modesty overcome, it hides its
 
 NERO
 
-This truly I, too, myself have vainly trusted long, although clear signs from her unloving heart and face betrayed her hate of me; which to avenge at last my hot grief has resolved. And now I have found a wife worthy of my bed in birth and beauty, to whom Venus, outshone, would yield, and the wife of Jove and the goddess bold in battle.
+This truly I, too, myself have vainly trusted long, although clear signs from her unloving heart and face betrayed her hate of me; which to avenge at last my hot grief has resolved. And now I have found a wife worthy of my bed in birth and [beauty](/concepts/beauty), to whom Venus, outshone, would yield, and the wife of Jove and the goddess bold in battle.
 
 SENECA
 
@@ -568,7 +568,7 @@ Lo, now has dawned the day long dim foreseen, so oft by rumor bruited. Departed 
 
 NURSE
 
-Whither, dear child, dost pass all trembling from the chamber of thy lord, or what hidden place seekst thou with troubled face? Why are thy checks wet with weeping? Surely the day sought by our prayers and vows has dawned; to thy Caesar art thou joined by the marriage torch, him whom thy beauty snared, whom Venus hath delivered in bonds to thee, Venus, of Seneca flouted, mother of Love, most mighty deity. Oh, how beautiful and stately wast thou on the high couch reclining in the hall! The senate looked on thy beauty in amaze, when incense to the gods thou offeredst and with pleasing wine didst sprinkle the sacred shrines, thy head covered with filmy marriage-veil, flame-colored. And close beside thee, majestic midst the favoring plaudits of the citizens, walked the prince himself, showing, in look and bearing, his joy and pride. So did Peleus take Thetis for his bride, risen up from Ocean’s foam, to whose marriage, they say, the heaven-dwellers thronged, and with equal joy each sea divinity. What cause so suddenly has changed thy face? Tell me what mean thy pallor and thy tears.
+Whither, dear child, dost pass all trembling from the chamber of thy lord, or what hidden place seekst thou with troubled face? Why are thy checks wet with weeping? Surely the day sought by our prayers and vows has dawned; to thy Caesar art thou joined by the marriage torch, him whom thy [beauty](/concepts/beauty) snared, whom Venus hath delivered in bonds to thee, Venus, of Seneca flouted, mother of Love, most mighty deity. Oh, how beautiful and stately wast thou on the high couch reclining in the hall! The senate looked on thy beauty in amaze, when incense to the gods thou offeredst and with pleasing wine didst sprinkle the sacred shrines, thy head covered with filmy marriage-veil, flame-colored. And close beside thee, majestic midst the favoring plaudits of the citizens, walked the prince himself, showing, in look and bearing, his joy and pride. So did Peleus take Thetis for his bride, risen up from Ocean’s foam, to whose marriage, they say, the heaven-dwellers thronged, and with equal joy each sea divinity. What cause so suddenly has changed thy face? Tell me what mean thy pallor and thy tears.
 
 POPPAEA
 

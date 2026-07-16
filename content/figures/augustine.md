@@ -14,5 +14,5 @@ title: "Agostino"
 
 ## Opere (1)
 
-**Hegel**
-- [Lectures on the History of Philosophy](/testi/hegel/lectures_on_the_history_of_philosophy)
+**Aquinas**
+- [Treatise on Grace](/testi/aquinas/treatise_on_grace)

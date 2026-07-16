@@ -3,7 +3,7 @@ id: "cicero"
 type: "figure"
 label_it: "Cicerone"
 label_en: "Cicero"
-work_count: 1
+work_count: 2
 tags:
   - "graph/figure"
 title: "Cicerone"
@@ -12,7 +12,8 @@ title: "Cicerone"
 
 *Cicero*
 
-## Opere (1)
+## Opere (2)
 
-**Hegel**
-- [Lectures on the History of Philosophy](/testi/hegel/lectures_on_the_history_of_philosophy)
+**Ortega y Gasset**
+- [Sobre el proceso Rull.— Lamentación](/testi/ortega-y-gasset/sobre_el_proceso_rull_lamentación)
+- [Sobre las carreras](/testi/ortega-y-gasset/sobre_las_carreras)

@@ -10,7 +10,7 @@ axis: "moral_foundation"
 contro:
   - "moral_sentiment"
   - "will_to_power"
-work_count: 0
+work_count: 2
 tags:
   - "graph/position"
 title: "legge naturale"
@@ -23,4 +23,8 @@ Posizione sull'asse [Fondamento della morale](/axes/moral_foundation).
 
 **Contro:** [sentimento morale](/positions/moral_sentiment), [volontà di potenza](/positions/will_to_power)
 
-## Opere (0)
+## Opere (2)
+
+**Aquinas**
+- [Treatise on Law](/testi/aquinas/treatise_on_law)
+- [Treatise on Matrimony](/testi/aquinas/treatise_on_matrimony)

@@ -12,7 +12,7 @@ tags:
 ---
 
 > [!abstract]
-> A short letter (578 words, text unavailable in the digest sample) addressed to the author of a work on the nature and obligation of morality; specific content cannot be verified, so tagging is kept minimal for honesty.
+> A short courteous letter to an anonymous critic, protesting against the ascription to Hume of the Sceptic character's opinions in the dialogue, and defending friendship among men of letters across philosophical sects.
 
 <p class="work-source">Testo originale inglese · Delphi Classics, 2000 · pubblico dominio</p>
 

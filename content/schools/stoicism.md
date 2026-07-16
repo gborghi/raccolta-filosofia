@@ -6,7 +6,7 @@ label_en: "Stoicism"
 aliases:
   - "stoa"
   - "Seneca"
-work_count: 25
+work_count: 19
 tags:
   - "graph/school"
 title: "stoicismo"
@@ -15,16 +15,23 @@ title: "stoicismo"
 
 *Stoicism*
 
-## Opere (25)
+## Opere (19)
+
+**Hegel**
+- [Lectures on the History of Philosophy](/testi/hegel/lectures_on_the_history_of_philosophy)
+
+**Hume**
+- [ESSAYS, MORAL, POLITICAL, AND LITERARY](/testi/hume/essays_moral_political_and_literary)
+
+**Ortega y Gasset**
+- [Sobre el proceso Rull.— Lamentación](/testi/ortega-y-gasset/sobre_el_proceso_rull_lamentación)
+- [Una fiesta de paz](/testi/ortega-y-gasset/una_fiesta_de_paz)
+
+**Pascal**
+- [Letters and Minor Works](/testi/pascal/letters_and_minor_works)
 
 **Seneca**
-- [AGAMEMNON](/testi/seneca/agamemnon)
-- [HERCULES ON OETA](/testi/seneca/hercules_on_oeta)
-- [LIST OF LATIN TEXTS](/testi/seneca/list_of_latin_texts)
-- [MEDEA](/testi/seneca/medea)
 - [NATURAL QUESTIONS](/testi/seneca/natural_questions)
-- [OCTAVIA](/testi/seneca/octavia)
-- [OEDIPUS](/testi/seneca/oedipus)
 - [ON ANGER](/testi/seneca/on_anger)
 - [ON BENEFITS](/testi/seneca/on_benefits)
 - [ON CLEMENCY](/testi/seneca/on_clemency)
@@ -34,12 +41,7 @@ title: "stoicismo"
 - [ON THE HAPPY LIFE](/testi/seneca/on_the_happy_life)
 - [ON THE SHORTNESS OF LIFE](/testi/seneca/on_the_shortness_of_life)
 - [ON TRANQUILLITY OF MIND](/testi/seneca/on_tranquillity_of_mind)
-- [PHAEDRA](/testi/seneca/phaedra)
-- [THE MADNESS OF HERCULES](/testi/seneca/the_madness_of_hercules)
-- [THE MORAL EPISTLES](/testi/seneca/the_moral_epistles)
-- [THE PHOENICIAN WOMEN](/testi/seneca/the_phoenician_women)
-- [THE TROJAN WOMEN](/testi/seneca/the_trojan_women)
-- [THYESTES](/testi/seneca/thyestes)
+- [Epistulae Morales ad Lucilium](/testi/seneca/the_moral_epistles)
 - [TO MARCIA, ON CONSOLATION](/testi/seneca/to_marcia_on_consolation)
 - [TO MY MOTHER HELVIA, ON CONSOLATION](/testi/seneca/to_my_mother_helvia_on_consolation)
 - [TO POLYBIUS, ON CONSOLATION](/testi/seneca/to_polybius_on_consolation)

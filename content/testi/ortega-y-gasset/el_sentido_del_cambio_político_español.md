@@ -1,0 +1,63 @@
+---
+title: "El sentido del cambio político español"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> A note written for foreign readers on the coming of the Republic in April 1931: history is not narration but the understanding of genesis. Ortega explains why in Spain the change of regime came without revolution, with nearly the whole country already convinced.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/el_sentido_del_cambio_político_español" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="El sentido del cambio político español" data-chapter="" data-kind="intro"></span>
+
+Ciertos grupos de extranjeros en Suiza, Alemania y Francia me pidieron con casual coincidencia temporal una nota que les aclarase la subitánea y extraña transformación del Estado sobrevenida en España. Yo les envié el esquema siguiente:
+
+La historia no es la narración de los hechos, sino la comprensión de su génesis. La historia, como toda realidad, tiene superficie y subsuelo, aspecto visible e íntimo, latente mecanismo. Cada día nos aburre más la historia como cuento y nos interesa con más vivo dramatismo la historia como comprensión. El hecho histórico brota súbitamente en la superficie y su presencia nos incita a penetrar en el subsuelo para descubrir sus raíces. Es preciso crear la historia radical que no se parece nada a un cuento y se parece mucho a una ecuación algébrica, al álgebra superior de lo humano.
+
+Aquí se intenta aclarar brevemente ante los ojos de los extranjeros el hecho del cambio de Régimen acontecido en la vieja España, de manera tan súbita y tan simple. En pocas horas, el país que se suponía más monárquico se ha convertido en una República, sin la menor alteración del orden público. La cosa ha sido sencilla como «¡buenos días!» Esto es lo que necesita ser comprendido.
+
+Precisemos las facciones del hecho.
+
+Después de ocho años de Dictadura anticonstitucional, el Estado monárquico pretende legalizar su situación convocando un Parlamento. Las elecciones parlamentarias deben en pura tradición constitucional ir precedidas de elecciones municipales. Celébranse éstas el 12 de abril.
+
+El resultado fue abrumador para la Monarquía. En la casi totalidad de las capitales de provincia, en los pueblos de alguna importancia e incluso en muchas aldeas, los votos republicanos triplicaron los monárquicos. Había en España tres veces más partidarios de la República que del Estado constituido. El 14 de abril fue proclamada la República en toda España como la cosa más natural del mundo. La Monarquía no intentó movimiento alguno de defensa, sino que ante el resultado de las elecciones se retiró del Poder y desapareció de la Historia.
+
+En todas partes del Mundo ha causado sorpresa esta dulce manera de cambiar un Régimen. La sorpresa es la reacción de nuestra mente ante la súbita presencia de una realidad indubitable que, a la vez, contradice nuestras ideas adquiridas sobre el modo de comportarse las cosas. Los cambios de Régimen suelen producirse con una mise en scène revolucionaria. ¿Cómo es que en España las cosas han pasado de otra suerte? Esto es lo que requiere explicación.
+
+Se facilita ésta si en el hecho enunciado se subrayan ciertos detalles. El hecho matemáticamente aproximado es que, en unas elecciones municipales, los votos republicanos han triplicado a los votos defensores del Poder constituido; que la inmensa mayoría de los españoles era, pues, enemiga del Régimen vigente. Pero esa cuantía matemática se potencia hasta representar la casi totalidad del país cuando se tienen en cuenta estas tres notas: 1.ª Las elecciones municipales no han tenido nunca en España significado político aunque los Ayuntamientos elegidos influían mucho en las elecciones propiamente políticas para el Parlamento. 2.ª Después de diez años de parálisis electoral era de suponer que la ciudadanía española estuviera bastante anquilosada. 3.ª Tras ocho años de tiranía, sin libertad de imprenta ni de reunión, sólo pudo gozar el pueblo español de garantías constitucionales —y aún no de todas— durante los veinte días estrictos que la ley llama «período electoral». No hubo, pues, apenas propaganda, ni agitación previa del cuerpo electoral. Si, no obstante este triple handicap, la votación republicana ha superado tan ampliamente a la monárquica, quiere decirse que en un sentido bastante literal la casi totalidad del país ha decidido cambiar de Régimen.
+
+Pero aquí está precisamente lo extraño del fenómeno, que yo formularía así: ¿Cómo es posible que en un país se espere a que la casi totalidad del pueblo se convenza de que es preciso cambiar de Régimen para que la mutación se produzca? Porque lo normal y sólito fue siempre que apenas un Régimen pierde sus radicales prestigios —su justificación histórica—, surja en el país una minoría poderosa que organizándose en oposición acabe con aquél, en forma más o menos cruenta, pero inevitablemente revolucionaria. Lo normal es, pues, que sea la oposición como tal quien derroque al viejo Estado e imponga el nuevo sin dar tiempo a que sea la casi totalidad del pueblo, es decir, la mayoría, quien ejecute la operación. La revolución es siempre obra de una oposición y la oposición es, por su esencia misma, una minoría, mayor o menor, pero siempre minoría. La mayoría, como es lógico, no procede revolucionariamente, sino que es ella el orden en persona.
+
+Esta observación nos descubre el sentido hondo del reciente hecho español y nos revela dónde está lo verdaderamente extraño en su fisonomía. En diciembre se inició un movimiento revolucionario ampliamente organizado sobre toda la Península: el 12 se sublevan en Jaca unos oficiales jóvenes y el 15 vuela sobre Madrid Franco arrojando proclamas. No he de ocultar a los lectores extranjeros que un aeroplano del Ejército, volando sobre la capital al ras de los tejados, llamando al pueblo a la revolución y anunciando que va a bombardear el Palacio Real y los cuarteles, es una de las escenas más emocionantes a que cabe asistir. Difícilmente puede imaginarse una incitación más enérgica a la movilización subversiva. Sin embargo, ni los jóvenes ardientes de Jaca, ni el pájaro rebelde consiguieron levantar al pueblo. España entera rehusó tomar parte en la revolución contra un Régimen que España entera iba a anular tres meses después en la mansedumbre de unos comicios municipales.
+
+El hecho, de puro ser paradójico, se interpreta a sí mismo. Se trata simplemente de que España es un país anormalmente no-revolucionario. La capacidad de revolución es un talento y un vicio que los pueblos tienen o no. España no tiene ni ese talento ni ese vicio. Lo sucedido ahora no hace sino iluminar con nueva luz toda la historia de España, en la cual no ha habido jamás una verdadera revolución. Pero si, como hemos dicho, la revolución es el modo de actuar característico de la oposición, nos veremos obligados a precisar la peculiaridad extraña de la Península ibérica diciendo que en España ni hay ni ha habido nunca oposición. Éste, éste es el secreto hondo y por demás interesante de los destinos españoles: somos un pueblo sustancialmente gubernamental. Esto explicaría muchas, muchas cosas del pasado. Por ejemplo, el catolicismo de nuestra historia. España fue antiprotestante porque el protestantismo era oposición y Roma lo gubernamental —no porque fuese religiosamente más ni menos católica que cualquiera otra nación. Cuando el mundo ha dejado de ser católico, España lo ha dejado de ser también. Contra lo que suele creerse en el extranjero, tal vez no existan en ningún país europeo menos católicos auténticos que entre nosotros.
+
+¿No es un tema sugestivo éste de un pueblo donde la oposición no existe? ¿Cómo es esto posible? ¿Cómo está hecho un pueblo así? ¿Cómo sustituye dentro de sí esa función normal de fuerzas oponentes que regula los organismos colectivos? Contestar todo esto obligaría a abandonar el tema estricto de estas páginas y perderse en la intimidad del hombre español.
+
+Por ahora basta con hacer notar ese gubernamentalismo constitutivo de este viejo pueblo occidental, porque él basta para orientar sobre el porvenir inmediato de la nueva República. España no cambia sino cuando cambia en bloque y entera. En las elecciones para Cortes Constituyentes que se han celebrado el 28 de mayo, no ha triunfado más que un solo diputado monárquico. Es decir, que siendo el monarquismo oposición se cumple respecto a él la [norma](/concepts/law) extraña de nuestra historia y no puede vivir ni como oposición.
+
+Cuando el joven francés quiere elegir dirección en su vida espiritual y desciende al fondo de sí mismo, donde el pasado de su raza ha decantado su tesoro tradicional, encuentra allí la figura gubernamental de Bossuet, pero junto a ella, y representando parejamente la más pura tradición ideológica francesa, encuentra también la oposición con Voltaire.
+
+En Francia, como en Inglaterra, como en Alemania, se ha constituido desde siempre una doble tradición que ejercita al través de los siglos su fértil antagonismo. La tradición espiritual española es, en cambio, unilateral. No tenemos ni hemos tenido heterodoxia consolidada como fuerza histórica. La oposición, la heterodoxia, no ha logrado formar más que una lista de outsiders.
+
+Pero esto que puede ser un vicio, como la revolución, puede ser, como ella, un talento: el de coincidir consigo mismo y, en un cierto instante del destino, poderse lanzar un pueblo coherente y compacto a una gran construcción histórica. Esto aconteció una vez a España y no está dicho que no le acontezca otra.
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+Un pueblo que no cambia sino entero, avanza por la historia, necesariamente, con [tempo](/concepts/time) lento. La nueva polarización se va produciendo secretamente, con gran lentitud, hasta que gana a la sociedad entera. En los comienzos del siglo XIX, pudo Buckle presentar a España como un país cuyo destino había sido permanecer fiel a sus reyes. Ésta es la visión superficial. Pero bajo ella la realidad ha sido muy distinta. España ha sido monárquica mientras en el mundo la Monarquía significaba el gubernamentalismo. Pero esto no quiere decir que desde 1500 se sintiese vitalmente unida a sus reyes. Todo lo contrario. El dato seco de que las dinastías españolas desde aquella fecha sean extranjeras, resume la verdadera situación. La Monarquía, es decir, el Estado, se hallaba sobre el pueblo español, pesando sobre él, pero siempre fuera de él. La unión consustancial entre los Luises y los franceses no ha tenido jamás su paridad en la Península. La Monarquía vivió siempre desnacionalizada, aun en aquellas horas en que un rey como Carlos III quiso de buena fe el bien de la Nación —siempre, por supuesto, que no estorbase su política internacional puramente familiar. Una cosa es querer el bien del prójimo y otra fundirse con él. Siempre ha vivido España con una duplicidad de intereses difícilmente armonizables: las necesidades de la Nación y las de la Monarquía.
+
+Mientras la forma del vivir histórico permitía esa mera superposición de un Estado a un pueblo, pudo España parecer y aun parecerse monárquica. Pero la Revolución francesa y la nueva estructura económica de Europa impusieron a la vida colectiva mayor porosidad. Desde entonces los Estados se hacen nacionales en un sentido extremo. No cabe distancia entre el Poder público y la sociedad: la porosidad les obliga a compenetrarse.
+
+Por eso, desde hace más de un siglo y con la habitual lentitud de un tardígrado, España comienza a eliminar la Monarquía. Ya en las Cortes de Cádiz de 1812 aparece un grupo de hombres que no se sienten monárquicos. La Constitución que forjaron sirvió de pauta a todas las demás elaboradas en Europa durante el siglo pasado. Desde entonces cada día gana el antimonarquismo un paso dentro del alma española. La Restauración que hace sesenta años impuso, mediante un pronunciamiento, al padre de Alfonso XIII, fue una gran falsificación histórica. Baste decir que el empresario de aquella obra, Cánovas del Castillo, no pudo nunca viajar por las grandes capitales de provincia sin ser silbado. El pueblo urbano era ya republicano, y con frecuencia los candidatos republicanos triunfaban plenamente en Madrid y Barcelona y Valencia y Zaragoza.
+
+Crisol, 16 de septiembre de 1931

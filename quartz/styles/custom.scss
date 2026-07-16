@@ -232,6 +232,35 @@ article > blockquote {
   margin-top: 0.15rem;
 }
 
+// ----- fine atomo: "Opere collegate" / "In contrasto" (atomRouter) -----
+// Due blocchi che rispondono a due domande diverse, e si leggono a colpo d'occhio
+// come diversi: l'affinita' porta il verde del sito, il contrasto il rosso.
+.related-works .rw-affinity,
+.related-works .rw-contrast {
+  margin-top: 1.4rem;
+}
+.related-works .rw-affinity > h2 {
+  border-left: 3px solid #8db355;
+  padding-left: 0.5rem;
+}
+.related-works .rw-contrast > h2 {
+  border-left: 3px solid #d90000;
+  padding-left: 0.5rem;
+}
+.related-works li.rw-work {
+  padding: 0.3rem 0;
+}
+// La coppia di posizioni che si oppongono (grace_and_merit <-> will_to_power): id
+// canonici, quindi monospace come nelle altre pagine del vocabolario.
+.related-works .rw-pair {
+  color: var(--gray);
+  font-family: var(--codeFont);
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.35;
+  margin-top: 0.1rem;
+}
+
 // ----- OpereTable (.lt-* table; shared by BraniTable) -----
 #opere-table {
   margin-top: 1rem;

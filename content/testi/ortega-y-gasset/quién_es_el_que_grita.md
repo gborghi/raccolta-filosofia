@@ -1,0 +1,39 @@
+---
+title: "Quién es el que grita"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> An autobiographical political article: Ortega lists, with dates and titles, his critical interventions on the Republic from May 1931 on, to make clear who the citizen now shouting '¡Viva la República!' is. Journalism and self-defence, with no philosophical content.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/quién_es_el_que_grita" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Quién es el que grita" data-chapter="" data-kind="intro"></span>
+
+Pero como todo anda un poco confundido, y los españoles del día tenemos poca memoria, quiero recordar o hacer constar algunas cosas que hasta ahora he callado o no he querido subrayar. Desde el fondo de mi largo y amargo silencio, estrujándolo como un racimo lleno de jugo, quiero rememorar a mis lectores y a todos los españoles —porque tengo tanto derecho como cualquiera otro para dirigirme a ellos— quién es el ciudadano que ahora, precisamente ahora, grita: «¡Viva la República!»
+
+El que grita se sintió en radical desacuerdo desde el día siguiente al advenimiento de la República con la interpretación de ésta y la política que iniciaban sus gobernantes. Yo no puedo demostrar con documentos la verdad literal de esta frase. Dejémosla, pues, como una frase y nada más. Pero lo que sí puedo demostrar con documentos es que ya el 13 de mayo —por tanto, al mes justo de la proclamación del nuevo Régimen— protesté airadamente, junto a Marañón y Pérez de Ayala, contra la quema de conventos, que fue una faena aún más que repugnante, estúpida. Esto el 13 de mayo; pero el 2 de junio publicaba yo un artículo titulado: «¡Pensar en grande!», invitando a tomar la República en forma y formato opuestos a los que empezaban a adoptarse. Y en 6 de junio, convocados a elección los ciudadanos, apareció otro artículo mío titulado: «¡Las provincias deben rebelarse contra los candidatos indeseables!» El 25 del mismo mes mi discurso electoral en León, donde, contra todo mi deseo, había sido presentado candidato, comenzaba así, según la transcripción algo incorrecta de los periódicos leoneses:
+
+«¿Queréis, gentes de León, que hablemos un poco en serio de la España que hay que hacer?
+
+»Con profunda vergüenza asisto a la campaña electoral que se está llevando a cabo en toda la Península. Trátase, nada menos, que de unas elecciones constituyentes. Se moviliza civilmente al país para que elija a unos hombres que van a fabricar el nuevo Estado. Es un gigantesco edificio el que hay que construir, y no hay edificio si no hay en la cabeza un plano previo de líneas vigorosas.
+
+»Lo que me parece vergonzoso es que los cientos de discursos pronunciados en España no enuncien una sola idea clara, que defina algo sobre ese Estado que hay que construir. Sólo se han pronunciado palabras vanas y hueras prometiendo en palabrería fantástica, sin saber si se puede o no realizar. Porque esto importa poco a esos palabreros, que sólo quieren hostigar a las masas con palabras vanas e insensatas para que, como un rebaño de ovejas, vayan a las urnas o, como un rebaño de búfalos, vayan a la revolución. Y a eso se le llama democracia».
+
+Con esto llegamos al 13 de julio, es decir, aún no transcurridos los tres meses desde el 14 de abril. Pues bien: en esa fecha leyeron los lectores de Crisol otro artículo mío titulado: «Hay que cambiar de signo a la República». Y en 9 de septiembre, este otro: «Un aldabonazo». Y en 6 de diciembre pudo oírse en el «cine» de la Ópera mi discurso sobre «Rectificación de la República». Y el 13 del mismo mes, en las primeras consultas del Presidente recién elegido, fue el que ahora da su grito el único que pidió la formación de un Gobierno sin colaboración socialista, que preveía funesta para la República y para el [socialismo](/schools/historical_materialism_school). No mucho después, en el periódico antedicho, se imprimieron unos párrafos bajo el lema: «Estos republicanos no son la República», etcétera, etcétera, etcétera.
+
+Estos recuerdos precisarán un poco en la mente del lector la fisonomía del que ahora grita «¡Viva la República!», y le harán pensar que, si lo grita, es a sabiendas y a pesar de lo que ha sido durante esta primera etapa la política republicana. Corregirán de paso un error que he oído más de una vez, según el cual yo consideraría haberme equivocado al recomendar en cierta hora a los españoles que se constituyesen en República, que había perdido la ilusión, que juzgaba sin remedio la política republicana y demás suposiciones igualmente superficiales. Los datos ahora rememorados, con la impertinencia de sus fechas exactas, demuestran que no me fue necesario esperar a que los gobernantes republicanos de la primera hora comenzasen a desbarrar para saber que lo iban a hacer: que, de tal modo esperaba y presumía por anticipado su descarrío, que me adelanté a insinuar mi discrepancia, como me adelanté a echar en cara a las provincias que iban, por inconsciencia, a elegir diputados indeseables, como me situé, desde luego, y por innúmeras razones, en posición de no actuar durante el primer capítulo de la historia republicana, según hice constar desde mi primer discurso en la Cámara, que fue, entre paréntesis, el primer discurso de oposición a la política del Gobierno. Pero no me interesa de todo esto lo que signifique como demostración vanidosa de capacidad previsora. Lo que me interesa es refutar con esos hechos y con esos datos incontrovertibles el error en que están los que suponen que yo recomendé la instauración de la República «porque» creyese que, desde luego, iban a ir preciosamente las cosas. No sólo no lo creía, sino que —y éste es el motivo de las anteriores recordaciones— no acepto en persona que presuma de alguna seriedad que pretenda juzgar las posibilidades históricas de un Régimen por lo acontecido en los dos años y medio después de su natividad. Y es sencillamente grotesco que intenten hacer tal cosa los monárquicos defensores de un Régimen extranjero, que no durante dos años y medio, sino durante dos siglos y medio ha maltraído a España en desmedro, decadencia y envilecimiento lamentables y constantes, haciéndola llegar a esta República en un estado tal de desmoralización y de falta de aptitudes por parte de masas y minorías, que él ha sido, en definitiva, la [causa](/concepts/cause) de estos dos años y medio pesadillescos.
+
+Porque si han sido tales para el labrador andaluz y para el cura de aldea, no crean estos señores que el que grita ahora «¡Viva la República!» los ha pasado en un lecho de rosas. Durante ellos se me ha insultado y vejado constantemente desde las filas republicanas, y, claro está, también desde las otras. Algunos sinvergüenzas, algunos insolentes y algunos sota-intelectuales que son lo uno y lo otro, y que hasta ahora, por lo que fuera, no se habían resuelto a atacarme, han aprovechado la atmósfera envenenada de esos años para morderme los zancajos. Pero hay más: los hombres republicanos han conseguido que por vez primera después de un cuarto de siglo, no tuviera yo periódico afín en que escribir. Y esto no significaba sólo que me hubiesen quitado la vihuela para mi canción, sino que me planteaba por añadidura los problemas más tangibles, materiales y urgentes. ¿Me entiende el labrador andaluz a quien han deshecho su hacienda y el cura de aldea a quien han retirado su congrua?
+
+Pues con esto termina mi argumento hominis ad hominem. Este hombre es el que grita ahora: «¡Viva la República!»

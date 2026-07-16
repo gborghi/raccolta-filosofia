@@ -6,7 +6,7 @@ label_en: "anger"
 aliases:
   - "De ira"
   - "collera"
-work_count: 3
+work_count: 4
 tags:
   - "graph/concept"
 title: "ira"
@@ -15,9 +15,10 @@ title: "ira"
 
 *anger*
 
-## Opere (3)
+## Opere (4)
 
 **Seneca**
 - [MEDEA](/testi/seneca/medea)
 - [ON ANGER](/testi/seneca/on_anger)
+- [THE MADNESS OF HERCULES](/testi/seneca/the_madness_of_hercules)
 - [THYESTES](/testi/seneca/thyestes)

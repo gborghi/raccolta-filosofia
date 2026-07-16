@@ -15,5 +15,5 @@ title: "Bruno Bauer"
 ## Opere (2)
 
 **Marx**
-- [ON THE JEWISH QUESTION, 1843](/testi/marx/on_the_jewish_question_1843)
 - [THE HOLY FAMILY, 1845](/testi/marx/the_holy_family_1845)
+- [Zur Judenfrage](/testi/marx/zur_judenfrage)

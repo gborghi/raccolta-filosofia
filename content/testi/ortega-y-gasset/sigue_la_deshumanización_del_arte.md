@@ -1,0 +1,59 @@
+---
+title: "Sigue la deshumanización del arte"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> A continuation of the dehumanization thesis: the new art's veto grows with the object's rank in the hierarchy, striking the personal first. From Beethoven to Wagner music is melodrama and psychic contagion; aesthetic pleasure instead must be intelligent and motivated by the object, not enjoyment of oneself. Seeing is action at a distance: without derealization there is no art.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/sigue_la_deshumanización_del_arte" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Sigue la deshumanización del arte" data-chapter="" data-kind="intro"></span>
+
+La gente nueva ha declarado «tabú» toda injerencia de lo humano en el arte. Ahora bien; lo humano, el repertorio de elementos que integran nuestro mundo habitual, posee una jerarquía de tres rangos. Hay primero el orden de las personas, hay luego el de los seres vivos, hay, en fin, las cosas inorgánicas. Pues bien: el veto del arte nuevo se ejerce con una energía proporcional a la altura jerárquica del objeto. Lo personal, por ser lo más humano de lo humano, es lo que más evita el arte joven.
+
+Esto se advierte muy claramente en la música y la poesía.
+
+Desde Beethoven a Wagner el tema de la música fue la expresión de sentimientos personales. El artista mélico componía grandes edificios sonoros para alojar en ellos su autobiografía. Más o menos era el arte confesión. No había otra manera de goce estético que la contaminación. Wagner inyecta en el Tristán su adulterio con la Wesendonk y no nos deja otro remedio, si queremos complacernos en su obra, que volvernos durante un par de horas vagamente adúlteros. Aquella música nos compunge, y para gozar de ella tenemos que llorar, angustiarnos o derretirnos en una voluptuosidad espasmódica. De Beethoven a Wagner toda la música es melodrama.
+
+Eso es una deslealtad —diría un artista actual. Eso es prevalerse de una noble debilidad que hay en el hombre, por la cual suele contagiarse del dolor o alegría del prójimo. Este contagio no es de orden espiritual, es una repercusión mecánica, como la dentera que produce el roce de un cuchillo sobre un cristal. Se trata de un efecto automático, nada más. No vale confundir la cosquilla con el regocijo. El romántico caza con reclamo; se aprovecha inhonestamente del celo del pájaro para incrustar en él los perdigones de sus notas. El arte no puede consistir en el contagio psíquico, porque éste es un fenómeno inconsciente y el arte ha de ser todo plena claridad, mediodía de intelección. El llanto y la risa son estéticamente fraudes. El gesto de la belleza no pasa nunca de la melancolía o la sonrisa. Y, mejor aún, si no llega. Toute maîtrise jette le froid (Mallarmé).
+
+Yo creo que es bastante discreto el juicio del artista joven. El placer estético tiene que ser un placer inteligente. Porque entre los placeres los hay ciegos y perspicaces. La alegría del borracho es ciega; tiene, como todo en el mundo, su [causa](/concepts/cause): el alcohol, pero carece de motivo. El favorecido con un premio de la lotería también se alegra, pero con una alegría muy diferente; se alegra «de» algo determinado. La jocundia del borracho es hermética, está encerrada en sí misma, no sabe de dónde viene, y, como suele decirse, «carece de fundamento». El regocijo del premiado, en cambio, consiste precisamente en darse cuenta de un hecho que lo motiva y justifica. Se regocija porque ve un objeto en sí mismo regocijante. Es una alegría con ojos, que vive de su motivación y parece fluir del objeto hacia el sujeto[99].
+
+Todo lo que quiera ser espiritual y no mecánico habrá de poseer este carácter perspicaz, inteligente y motivado. Ahora bien: la obra romántica provoca un placer que apenas mantiene conexión con su contenido. ¿Qué tiene que ver la belleza musical —que debe ser algo situado allá, fuera de mí, en el lugar donde el sonido brota—, con los derretimientos íntimos que en mí acaso produce, y en paladear los cuales el público romántico se complace? ¿No hay aquí un perfecto quid pro quo? En vez de gozar del objeto artístico, el sujeto goza de sí mismo; la obra ha sido sólo la causa y el alcohol de su placer. Y esto acontecerá siempre que se haga consistir radicalmente el arte en una exposición de realidades vividas. Éstas, sin remedio, nos sobrecogen, suscitan en nosotros una participación sentimental que impide contemplarlas en su pureza objetiva.
+
+Ver es una acción a distancia. Y cada una de las artes maneja un aparato proyector que aleja las cosas y las transfigura. En su pantalla mágica las contemplamos desterradas, inquilinas de un astro inabordable y absolutamente lejanas. Cuando falta esa desrealización se produce en nosotros un titubeo fatal: no sabemos si vivir las cosas o contemplarlas.
+
+Ante las figuras de cera todos hemos sentido una peculiar desazón. Proviene ésta del equívoco urgente que en ellas habita y nos impide adoptar en su presencia una actitud clara y estable. Cuando las sentimos como seres vivos, nos burlan descubriendo su cadavérico secreto de muñecos, y si las vemos como ficciones parecen palpitar irritadas. No hay manera de reducirlas a meros objetos. Al mirarlas, nos azora sospechar que son ellas quienes nos están mirando a nosotros. Y concluimos por sentir asco hacia aquella especie de cadáveres alquilados. La figura de cera es el melodrama puro.
+
+Me parece que la nueva sensibilidad está dominada por un asco a lo humano en el arte muy semejante al que siempre ha sentido el [hombre selecto](/concepts/select_minority) ante las figuras de cera. En cambio, la macabra burla cerina ha entusiasmado siempre a la plebe. Y nos hacemos de paso algunas preguntas impertinentes, con ánimo de no responderlas ahora: ¿Qué significa ese asco a lo humano en el arte? ¿Es, por ventura, asco a lo humano, a la realidad, a la vida, o es más bien todo lo contrario: respeto a la vida y una repugnancia a verla confundida con el arte, con una cosa tan subalterna como es el arte? Pero ¿qué es esto de llamar al arte función subalterna, al divino arte, gloria de la civilización, penacho de la cultura, etcétera, etcétera? Ya dije, lector, que se trataba de unas preguntas impertinentes. Queden, por ahora, anuladas.
+
+El melodrama llega en Wagner a la más desmesurada exaltación. Y como siempre acaece, al alcanzar una forma su máximo, se inicia su conversión en la contraria. Ya en Wagner la voz humana deja de ser protagonista y se sumerge en el griterío cósmico de los demás instrumentos. Pero era inevitable una conversión más radical. Era forzoso extirpar de la música los sentimientos privados, purificarla en una ejemplar objetivación. Ésta fue la hazaña de Debussy. Desde él es posible oír música serenamente, sin embriaguez y sin llanto. Todas las variaciones de propósito que en estos últimos decenios ha habido en el arte musical pisan sobre el nuevo terreno ultraterreno genialmente conquistado por Debussy. Aquella conversión de lo subjetivo a lo objetivo es de tal importancia, que ante ella desaparecen las diferenciaciones ulteriores[100]. Debussy deshumanizó la música, y por ello data de él la nueva era del arte sonoro.
+
+La misma peripecia aconteció en el lirismo. Convenía libertar la poesía, que, cargada de [materia](/positions/materialism) humana, se había convertido en un grave, e iba arrastrando sobre la tierra, hiriéndose contra los árboles y las esquinas de los tejados como un globo sin gas. Mallarmé fue aquí el libertador que devolvió al poema su poder aerostático y su virtud ascendente. Él mismo, tal vez, no realizó su ambición, pero fue el capitán de las nuevas exploraciones etéreas, que ordenó la maniobra decisiva: soltar lastre.
+
+Recuérdese cuál era el tema de la poesía en la centuria romántica. El poeta nos participaba lindamente sus emociones privadas de buen burgués; sus penas grandes y chicas, sus nostalgias, sus preocupaciones religiosas o políticas y, si era inglés, sus ensoñaciones tras de la pipa. Con unos u otros medios aspiraba a envolver en patetismo su existencia cotidiana. El genio individual permitía que, en ocasiones, brotase en torno al núcleo humano del poema una fotosfera radiante, de más sutil materia —por ejemplo, en Baudelaire. Pero este resplandor era impremeditado. El poeta quería siempre ser un hombre.
+
+—¿Y esto parece mal a los jóvenes? —pregunta con reprimida indignación alguien que no lo es. ¿Pues qué quieren? ¿Que el poeta sea un pájaro, un ictiosauro, un dodecaedro?
+
+No sé, no sé; pero creo que el poeta joven, cuando poetiza, se propone simplemente ser poeta. Ya veremos cómo todo el arte nuevo, coincidiendo en esto con la nueva ciencia, con la nueva política, con la nueva vida, en fin, repugna ante todo la confusión de fronteras. Es un síntoma de pulcritud mental querer que las fronteras entre las cosas estén bien demarcadas. Vida es una cosa, poesía es otra —piensan o, al menos, sienten. No las mezclemos. El poeta empieza donde el hombre acaba. El destino de éste es vivir su itinerario humano; la misión de aquél es inventar lo que no existe. De esta manera se justifica el oficio poético. El poeta aumenta el mundo, añadiendo a lo real, que ya está ahí por sí mismo, un irreal continente. Autor viene de auctor, el que aumenta. Los latinos llamaban así al general que ganaba para la patria un nuevo territorio.
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+Mallarmé fue el primer hombre del siglo pasado que quiso ser un poeta. Como él mismo dice, «rehusó los materiales naturales» y compuso pequeños objetos líricos, diferentes de la fauna y la flora humanas. Esta poesía no necesita ser «sentida», porque, como no hay en ella nada humano, no hay en ella nada patético. Si se habla de una mujer es de la «mujer ninguna», y si suena una hora es «la hora ausente del cuadrante». A fuerza de negaciones, el verso de Mallarmé anula toda resonancia vital, y nos presenta figuras tan extraterrestres, que el mero contemplarlas es ya sumo placer. ¿Qué puede hacer entre esas fisonomías el pobre rostro del hombre que oficia de poeta? Sólo una cosa: desaparecer, volatilizarse y quedar convertido en una pura voz anónima que sostiene en el aire las palabras, verdaderas protagonistas de la empresa lírica. Esa pura voz anónima, mero substrato acústico del verso, es la voz del poeta, que sabe aislarse de su hombre circundante.
+
+Por todas partes salimos a lo mismo: huida de la persona humana. Los procedimientos de deshumanización son muchos. Tal vez hoy dominan otros muy distintos de los que empleó Mallarmé, y no se me oculta que a las páginas de éste llegan todavía vibraciones y estremecimientos románticos. Pero lo mismo que la música actual pertenece a un bloque histórico que empieza con Debussy, toda la nueva poesía avanza en la dirección señalada por Mallarmé. El enlace con uno y otro nombre me parece esencial si, elevando la mirada sobre las indentaciones marcadas por cada inspiración particular, se quiere buscar la línea matriz de un nuevo estilo.
+
+Es muy difícil que a un contemporáneo menor de treinta años le interese un libro donde, so pretexto de arte, se le refieran las idas y venidas de unos hombres y unas mujeres. Todo eso le sabe a sociología, a psicología y lo aceptaría con gusto si, no confundiendo las cosas, se le hablase sociológicamente o psicológicamente de ello. Pero el arte para él es otra cosa.
+
+La poesía es hoy el álgebra superior de las metáforas.

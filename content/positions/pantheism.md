@@ -10,7 +10,7 @@ axis: "god"
 contro:
   - "demonstrative_theism"
   - "deism"
-work_count: 2
+work_count: 4
 tags:
   - "graph/position"
 title: "panteismo"
@@ -23,10 +23,14 @@ Posizione sull'asse [Dio](/axes/god).
 
 **Contro:** [teismo dimostrativo](/positions/demonstrative_theism), [deismo](/positions/deism)
 
-## Opere (2)
+## Opere (4)
 
-**Hegel**
-- [Lectures on the Proofs of the Existence of God](/testi/hegel/lectures_on_the_proofs_of_the_existence_of_god)
+**Aristotle**
+- [On the Universe (391a)](/testi/aristotle/on_the_universe_391a)
+
+**Ortega y Gasset**
+- [La teología de Renan](/testi/ortega-y-gasset/la_teología_de_renan)
+- [Panteísmo](/testi/ortega-y-gasset/panteísmo)
 
 **Seneca**
 - [NATURAL QUESTIONS](/testi/seneca/natural_questions)

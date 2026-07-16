@@ -12,7 +12,7 @@ tags:
 ---
 
 > [!abstract]
-> Original Latin text of De rerum natura: it expounds Epicurean atomist physics (atoms and void, the clinamen as the ground of freedom), the mortality of the soul, and liberation from the fear of gods and death as the path to ataraxia. The Latin representation of the same poem, tagged identically to the other versions in the corpus.
+> Full Latin text of Lucretius' De rerum natura, the six-book Epicurean didactic poem: from the physics of atoms and void to the mortality of the soul, from cosmology to the ethics of pleasure and ataraxia. Includes the clinamen as ground of freedom and release from fear of the gods and of death.
 
 <p class="work-source">Testo originale inglese · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -13141,7 +13141,7 @@ non faciunt icti flammas ut fulguris halent
 
 pectore perfixo, documen mortalibus acre,
 
-et potius nulla sibi turpi conscius in re
+et potius nulla sibi turpi conscius [in re](/positions/immanent_realism)
 
 volvitur in flammis innoxius inque peditur
 

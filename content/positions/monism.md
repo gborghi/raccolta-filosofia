@@ -9,7 +9,7 @@ aliases:
 axis: "soul_body"
 contro:
   - "substance_dualism"
-work_count: 1
+work_count: 0
 tags:
   - "graph/position"
 title: "monismo"
@@ -22,7 +22,4 @@ Posizione sull'asse [Anima e corpo](/axes/soul_body).
 
 **Contro:** [dualismo sostanziale](/positions/substance_dualism)
 
-## Opere (1)
-
-**Hegel**
-- [Hegel’s Philosophy of Mind](/testi/hegel/hegels_philosophy_of_mind)
+## Opere (0)

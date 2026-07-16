@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> Tragedy on Agamemnon's return from Troy and his murder by Clytemnestra and Aegisthus; the chorus meditates on the instability of the fortune of thrones. It shows the power of fate and destructive passion over the mighty.
+> Tragedy of Agamemnon's homecoming and the murder plotted by Clytemnestra and Aegisthus, opened by the Ghost of Thyestes: the blood-guilt of the house of Atreus recurs across generations under an inescapable fate. Fortune and passion (jealousy, thirst for revenge) drive the action toward slaughter.
 
 <p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
 
@@ -86,7 +86,7 @@ NURSE
 
 CLYTEMNESTRA
 
-]131] Passions rack me too strong to endure delay; flames are burning my very marrow and my heart; here fear blent with anguish plies the spur, and my breast throbs with jealousy; there base love forces its yoke upon my mind and forbids me to give way. And midst such fires that beset my soul, shame, weary indeed and conquered and utterly undone, still struggles on. By shifting fllods am I driven, as when here wind, there tide harries the deep, and the waters halt uncertain to which foe they will yield. Wherefore I have let go the rudder from my hands – where wrath, where smart, where hope shall carry me, there will I go; to the waves have I given my bark. Where reason fails, ’tis best to follow chance.
+]131] Passions rack me too strong to endure delay; flames are burning my very marrow and my heart; here fear blent with anguish plies the spur, and my breast throbs with jealousy; there base love forces its yoke upon my mind and forbids me to give way. And midst such fires that beset my soul, shame, weary indeed and conquered and utterly undone, still struggles on. By shifting fllods am I driven, as when here wind, there tide harries the deep, and the waters halt uncertain to which foe they will yield. Wherefore I have let go the rudder from my hands – where wrath, where smart, where hope shall carry me, there will I go; to the waves have I given my bark. Where reason fails, ’tis best to follow [chance](/concepts/fortune).
 
 NURSE
 

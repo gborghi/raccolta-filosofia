@@ -12,7 +12,7 @@ tags:
 ---
 
 > [!abstract]
-> A short reply by Locke to a printed proposal on the coinage of silver in England. A monetary-economics text with no philosophical development.
+> A short economic pamphlet refuting the claim that coined silver is worth less than uncoined: the stamp removes no intrinsic value, and the scarcity of minted money is due to the balance of trade, not the mint.
 
 <p class="work-source">Testo originale inglese · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -81,7 +81,7 @@ He farther adds, Answ. 3. It doth not thence inevitably follow, it will “raise
 
 It will as inevitably follow, as that nineteen ounces of silver will never be equal in weight, or worth, to twenty ounces of silver: so much as you lessen your coin, so much more you must pay in tale, as will make the quantity of silver the merchant expects, for his [commodity](/concepts/commodity); under what denomination soever he receives it.
 
-The clothier, thus buying his Spanish wool, oil, and labour, at five per cent. more in denomination, sells his woollen manufacture proportionably dearer to the English merchant, who, exporting it to Spain, where their money is not changed, sells it at the usual market-rate, and so brings home the same quantity of bullion for it, which he was wont; which, therefore, he must sell to you at the same raised value your money is at: and what then is gained by all this? The denomination is only changed, to the prejudice of the public; but as to all the great matters of your trade, the same quantity of silver is paid for commodities as before, and they sold in their several foreign markets for the same quantity of silver. But whatever happens in the rate of foreign bullion, the raising of the denomination of our money will bring none of it to our mint to be coined; that depends on the balance of our trade, and not on lessening our coin under the same denomination: for whether the pieces we call crowns be coined 16, 24, or 100 grains lighter, it will be all one as to the value of bullion, or the bringing more, or less of it into England, or to our mint.
+The clothier, thus buying his Spanish wool, oil, and [labour](/concepts/labour), at five per cent. more in denomination, sells his woollen manufacture proportionably dearer to the English merchant, who, exporting it to Spain, where their money is not changed, sells it at the usual market-rate, and so brings home the same quantity of bullion for it, which he was wont; which, therefore, he must sell to you at the same raised value your money is at: and what then is gained by all this? The denomination is only changed, to the prejudice of the public; but as to all the great matters of your trade, the same quantity of silver is paid for commodities as before, and they sold in their several foreign markets for the same quantity of silver. But whatever happens in the rate of foreign bullion, the raising of the denomination of our money will bring none of it to our mint to be coined; that depends on the balance of our trade, and not on lessening our coin under the same denomination: for whether the pieces we call crowns be coined 16, 24, or 100 grains lighter, it will be all one as to the value of bullion, or the bringing more, or less of it into England, or to our mint.
 
 What he says in his answer to Object. 4. besides what we have already taken notice of, is partly against his bill, and partly mistake.
 

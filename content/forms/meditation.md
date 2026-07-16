@@ -5,7 +5,7 @@ label_it: "meditazione"
 label_en: "meditation"
 aliases:
   - "Descartes"
-work_count: 0
+work_count: 1
 tags:
   - "graph/form"
 title: "meditazione"
@@ -14,4 +14,7 @@ title: "meditazione"
 
 *meditation*
 
-## Opere (0)
+## Opere (1)
+
+**Descartes**
+- [MÉDITATIONS MÉTAPHYSIQUES](/testi/descartes/méditations_métaphysiques)

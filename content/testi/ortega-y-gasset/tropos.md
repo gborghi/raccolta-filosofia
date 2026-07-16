@@ -1,0 +1,51 @@
+---
+title: "Tropos"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> Cultural polemic: against the Spain 'of polished stone' that denies passage to a young Semitist while shipping two friars, Ortega defends the 'refined weapons' of reason, while admitting they win no battles — the example of don Francisco Giner, who spent his life giving reasons nobody heeded.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/tropos" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Tropos" data-chapter="" data-kind="intro"></span>
+
+Son unos cuantos los españoles que no quisieran ver a España retrotraída por completo a la edad de la piedra pulimentada, cuando aún los hombres, exentos de policía y de ideas generales, ejercitaban asiduamente el mordisco. Mala [fortuna](/concepts/fortune) puede augurarse a personas tan bien intencionadas: con optimismo de ilusos se obstinan en no usar de otros medios de combate que los empleados en civilizaciones superiores, donde tienen el ingenio y las maneras delicadas añeja tradición y donde, a decir verdad, se ha dejado tiempo hace de luchar por la existencia y se vaca a otros problemas más sutiles. Mas aquí, donde el problema de la vida no ha progresado de las cuatro reglas elementales, donde todavía tenemos que luchar por la existencia del buen gusto y por naturalizar la discreción, ¿qué utilidad tendrán aquellas armas delicadas y aquellas elegantes posiciones?
+
+Yo señalo, si alguien lo dudara, este caso de conciencia. Acá y allá se han elevado recientemente demandas de protección y respeto a las labores científicas; se ha llegado a ver en su falta el foco de la mengua nacional. Pues bien, esas indicaciones han alcanzado una sola respuesta y ésta no de palabras, sino de obras. La misión diplomática que lleva a Fez unos recados de la nación ha admitido la mística carga de dos fraticelli, pero no ha tolerado servir de vehículo a la curiosidad de un joven compatriota consagrado al estudio de las lenguas semíticas. La desatención circundante y la escuela de desesperanza a que están sometidos desde remoto los idealistas españoles les han enseñado la virtud de la templanza y la táctica nazarena de la paciencia. Pero, ¿no es lo acaecido últimamente demasiado fuerte? ¿No se parece demasiado a un insulto? ¿Deben esos hombres más serios, más cultos, más avisados proseguir su torneo distinguido o responder a un acto tan silvestre con algunas palabras duras? Éste es el caso de conciencia que propongo al lector.
+
+Para mí la solución no ofrece duda. Es preciso mantener a toda costa frente a la irrupción de la piedra pulimentada el sentido de las armas distinguidas. Cierto que con ellas no se ganará ninguna batalla: la flecha del sagitario, fina y ágil como un pensamiento, la lanza fulgente del peltasta no se inventaron para la lucha con los paquidermos. La naturaleza, favorable a Europa, dejó aquí sólo animales de piel menos dura y recluyó los más bastos a los barrios bajos del mundo. En las metopas de los templos áticos riñen desde siglos desnudos los oplitas y los dioses con fieras cultas cuyas formas son fáciles a la belleza escultural. Pero antes, al comienzo de la historia griega, como avanzada de los emigrantes dóricos, había pasado Hércules limpiando de monstruos la comarca y barriendo los establos de Augías. El régimen del paquidermo, por el contrario, habría ahogado en su cuna la cultura helénica y hoy vestidos con negros cueros, como nos describe Tito Livio, no habríamos pasado de celtíberos. Un rinoceronte gravitando sobre el frontis del Partenón era imposible; hubiera aplastado al punto la euritmia marmórea del templo y habría hecho añicos, apenas colocada, la próxima estatua de Athena, virgen y erudita.
+
+Los españoles que sueñan con la imagen de una España europea no tienen otra arma que las razones. ¿Y habrá quien crea que sirven de algo las razones? Ahí está don Francisco Giner, que es una de las fisonomías más raras y venerables de nuestro país. El señor Giner se ha pasado la vida dando razones y no se le ha hecho caso. Su exigua envoltura mortal oculta uno de los postreros yacimientos de entusiasmo que quedan en España; mas ese ardor entusiasta, no hallando fuera dónde aplacarse, le ha ido quemando interiormente y le ha dado la cetrina apariencia de un sarmiento. ¿Podrán las nuevas generaciones pretender reunir mejores razonamientos a un entusiasmo igual? Es difícil aun cuando posible. Pero ha de declararse que no se ven por lo pronto florecer pensadores más fuertes, ni se advierte en los políticos mayor atención hacia el trabajo de la ciencia.
+
+Antes bien, la distancia entre los hombres de estudio y los políticos se va agrandando. La acción inexplicable del señor Merry del Val muestra que el cuerpo diplomático —perdóneme el delicado poeta Zayas—, antaño aficionado a las letras y a la erudición, se va desentendiendo del buen gusto. Y es lástima; en la historia contemporánea están mantenidos los ministerios de Estado como granjas modelo del snobismo donde se cultivan algunas gratas superfluidades: cierta curiosidad científica, el dominio de las lenguas vivas, la conversación amena y la literatura inocente de viajes y memorias. Todas estas cosas sirven de ornato a una nación. Pero ahora los diplomáticos parecen huir de ellas y va a ser menester, como está haciendo Francia, dedicar nuestras cancillerías al fomento del comercio, la industria y la agricultura, fundiendo la carrera diplomática con la consular. Antes distinguía a aquélla cierta elevada espiritualidad; hoy, según nos indica el señor Merry del Val, los diplomáticos comparten la disminución general del espíritu español.
+
+Por otro lado, en el partido conservador, de quien tenemos que esperarlo todo durante mucho tiempo, se ha impuesto la porción menos amiga de la alta cultura; ha llegado la hora de los escitas. El señor Sánchez de Toca, que viene componiendo solícitamente unas vidas paralelas, podía haber evocado la biblioteca de Cánovas con sus treinta mil volúmenes, algunos de gran valor y todos reunidos merced a una gran pasión intelectual. Para Cánovas no era indiferente que fuera o no a Fez un arabista y trajera textos nuevos de historiadores muslimes. Cánovas no habría permitido que se diera una respuesta oficiosa tan peregrina como la que se ha dado. Según parece, nadie se opuso a que el joven orientalista acompañara la expedición; sólo se le exigía que pagara su viaje. Aquí hay un error deplorabilísimo. El señor Merry ha querido parodiar desgraciadamente la ingenua elegancia de María Antonieta cuando proponía al preboste de París que si las turbas se amotinaban por falta de pan, podían comer brioches. No, señor Merry; los arabistas saben árabe, pero, en España al menos, no tienen dinero. Una y otra cosa diferencian a un arabista del marqués de Comillas. Renan cuando fue a Palestina, no pagó sus jornadas; el ministro supo inventar para él una misión de Fenicia. Y siendo muy joven y totalmente desconocido, habíale ya enviado otra vez a los archivos de Italia. En general, la filología se ejerce en razón inversa de las rentas.
+
+Esto me recuerda el lugar de la novela de Murger, donde un bohemio enojado con no sé qué entrometido le acusa de que bajo la capa de la literatura está haciendo el amor a Museta. A lo que otro bohemio rectifica: «Protesto; la literatura no tiene capa».
+
+Nada parecido habría soportado Cánovas. Sabía muy bien cuánta importancia tiene conservar los míseros hilillos de tradición científica que pueda haber en España, y no ignoraba que los estudios arabistas son una de las pocas disciplinas que alcanzan honrosa representación en nuestro país. Éstas no son sustancias que se puedan demostrar con logaritmos: se sienten o no. El señor Maura, por lo visto, carece de sensibilidad para las cosas imponderables, de modo que el señor Sánchez de Toca —consiéntame esta modesta colaboración— podía haber resumido sus vidas paralelas poco más o menos así: Cánovas es igual al señor Maura, más treinta mil volúmenes.
+
+El liberalismo se ha presentado siempre como un amigo de la ciencia. Cuando ésta no era libre pidió su libertad; luego demandó para ella la protección del Estado. ¿Recurrirán nuestros idealistas a los liberales? Creo que será inútil. Los partidos de progreso agitan ahora unos harapos intelectuales sobre la inmensa podredumbre de las entrañas españolas y basta leer sus programas para comprender que no sienten mayor afectuosidad por la ciencia que los conservadores.
+
+Y en realidad no se trata de una cuestión que pueda ya dividir las aspiraciones políticas. La cultura superior, los fortes études que dicen nuestros vecinos, forma las bases de la conciencia nacional; sin ella no existe energía social, y el pueblo, privado de los nervios medulares, queda reducido a una masa reptante que vive la oscura existencia de lo infrahumano.
+
+Pero ¿a qué insistir? Los hechos prueban con lamentable evidencia que no hay en las Cortes españolas quien quiera defender satisfactoriamente los intereses de la cultura científica. Por otra parte, es vano pretender que las muchedumbres populares tengan una sensibilidad que falta a los de arriba.
+
+Entretanto el joven arabista se queda sin ir a Fez; los dos franciscanos, por el contrario, como en tiempos del decadente Alfonso X, llevan a los de Beni-Merín la esencia del alma española, y avanzan, encaramados en sus mulas, hacia la ciudad santa marroquí, enriqueciendo la sequedad ardiente del paisaje con su bárbaro fervor.
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+Los que se sientan aquejados por una visión más fina del mundo y anhelen para España un puesto en el anfictionado europeo, pueden rodearse el corazón de un triple círculo de paciencia, y a fin de no perder los privilegios de su cortesía, limitarse a la faena de sagitarios, tomando del rincón el arco y disparando unos cuantos tropos al enemigo de piel dura.
+
+El Imparcial, 20 de marzo de 1909

@@ -1,0 +1,45 @@
+---
+title: "Diputado por la cultura"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> On the election of Luis de Zulueta as deputy: Catalan nationalism, a formalist movement in Simmel's judgement, purifies itself by turning into a party promoting culture, that is pedagogy and justice. Ortega declares he does not know the "Catalan problem" and asks whether it is not a human problem, and therefore everyone's.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/diputado_por_la_cultura" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Diputado por la cultura" data-chapter="" data-kind="intro"></span>
+
+En 1908 la efervescencia municipal producida en Barcelona por el movimiento solidario llegaba al grado máximo. La espléndida ciudad era sólo un ruido, una inmensa turbulencia sonora: no se escuchaba a nadie y todo el mundo hablaba. Una voz sugestiva, no obstante, solicitaba con fingida tenuidad la atención, ahora de uno, luego de otro; esquivaba los excesos laríngeos de éste para deslizarse furtivamente en aquel oído por acaso favorable. La voz sostenía que la solidaridad necesitaba una justificación: bien que su origen fuera una fe nacional, un subitáneo crecimiento de la sensibilidad colectiva para los rasgos diferenciales del catalán; mas no bastaba eso. El origen de una cosa no es su significación. El movimiento regionalista, si había de ser algo más que un movimiento físico, necesitaba un contenido político. La solidaridad se justificaría si se manifestaba como la solidaridad para la cultura.
+
+Habló así entonces Luis de Zulueta con tanta persuasión, que poco después votaba el Ayuntamiento un presupuesto extraordinario de cultura. Luis de Zulueta fue nombrado comisario, y apareció un volumen en que el Ayuntamiento exponía sus ilusiones pedagógicas. Según era de temer, no pasó de aquí su empeño. El Municipio resorbió toda aquella pedagogía, y Luis de Zulueta vino a Madrid, comisario de Cultura in partibus infidelium.
+
+Ahora, mostrando Barcelona esprit de retour, envía a Zulueta para que represente en las Cortes los restos de aquel movimiento particularista en que no hemos todavía logrado ver muy claro. ¿Y no es sumamente significativo que sea elevado a representante del nuevo nacionalismo un hombre cuyo sistema de ideas gravita sobre el concepto de cultura? En la persona del nuevo diputado el nacionalismo se purifica y se transforma en partido promotor de cultura. Si a esto se añade que, por vez primera desde hace largo tiempo, se ha visto reunidos en meetings y manifestaciones a los conductores del radicalismo barcelonés y los apóstoles del nacionalismo republicano, parece evidente que el llamado problema catalán ha dejado atrás una fase de su desarrollo que se mostró infecunda, vana, y boga hacia otra nueva expresión política.
+
+La elección última realiza la verdadera solidaridad catalana. Antes no sabíamos bien qué era Cataluña como carácter político; no sabíamos bien qué era. Era solidaria —se nos dirá. Bien; pero la solidaridad es un movimiento formalista, una emoción adjetiva, a fuer de pura emoción un mero vehículo sentimental que necesita para caracterizarse de algo sustantivo, políticamente determinado. Cataluña —contestaría alguien— era solidaria de Cataluña. Bien, muy bien; pero ¿quién es Cataluña, de dónde le viene esa unidad necesaria para constituir un carácter? Ahora ya lo sabemos: Cataluña es radical; se aúna, se organiza, se caracteriza por su liberalismo extremo. Antes parecían de acuerdo los catalanes en una forma; ahora se hacen solidarios de una cosa: cultura, es decir pedagogía y justicia. Deben meditar los antiguos solidarios sobre el dato de que un pensador tan sutil y documentado como el filósofo berlinés Simmel cite en su nuevo libro Sociología la Solidaridad catalana como ejemplo de movimiento formalista. Fue un partido formal; fue sólo la forma de un partido.
+
+No quisiera decir sino gratas palabras a los hermanos de Levante; por eso declaro que no conozco el problema catalán. Según es sabido, lo más grave que un no catalán puede decir a un catalán es que conoce su problema. En cierta ocasión quise hacer un viaje a Barcelona con objeto de estudiar adecuadamente la cuestión; pero el señor Pijoán, hombre, por lo demás, bondadosísimo y entusiasta, me dijo que yo no podría jamás comprender aquel problema. En vista de ello, renuncié al viaje.
+
+Hermanos de Levante, gentes solícitas y fuertes, ¿por qué dividir la humanidad y encerrar las porciones en compartimentos estancos, de ambiente hermético? ¿No es la cultura el rompimiento doloroso de todos los muros fatales que mantienen la desintegración humana? ¿No es crimen mantener principios de disociación, siendo el único sentido noble de la actividad individual colaborar en la construcción de la sociedad? ¿No es el problema catalán un problema humano, y por tanto, un problema nuestro? Y si no puede ser nuestro el problema catalán, ¿no corre riesgo de ser un problema inhumano, un tema de la pasión, del instinto; una reaparición enfermiza del pasado que, aun siendo pasado, pretende alzarse como ideal, esto es, como porvenir? Supuesto que no tuviéramos la misma historia, el mismo pasado, ¿por qué no hemos de tener el mismo porvenir? El pasado es un principio de enemistad, todo pasado es bárbaro frente al porvenir. Giordano Bruno sostenía aún que sólo los judíos son hijos de Adán y Eva: los europeos poseemos un origen distinto, y nuestras vías proceden aparte de las suyas. Los drusos del Líbano, prietamente organizados en torno a su fe religiosa histórica, no buscan prosélitos ni admiten nuevos creyentes: el que es druso —dicen— lo es desde toda la eternidad.
+
+Cuando el señor Pijoán me excluía de la comprensión del catalanismo pensé un instante que el Tibidabo padece veleidades de Líbano.
+
+En la leyenda virgiliana se habla de un jardín separado del paisaje circundante por un muro de aire. Yo creo que Cataluña no se halla separada de Castilla por otra cosa: nada sólido, compacto, preciso, ni en el pasado, ni en el presente, ni en el porvenir. ¿Quién capaz de veracidad, de alto sentimiento de la responsabilidad intelectual, podrá en serio establecer como principio de diferenciación la psicología colectiva de una y otra región? Cierto; alguien más atolondrado que verídico ha abusado de las estadísticas antropológicas, y dándoles un valor exacto de que carecen absolutamente ha alimentado cierta pasión torva, disgregadora y estéril, que iba levantándose sobre Cataluña, como sobre el resto de España, a medida que la nación entera se percataba de su trágica decadencia. Éste sí es un pecado grave de los pensadores catalanes: ha faltado allí la crítica, la precisión: ha faltado más que entre nosotros. Sin exactitud no hay pensamiento. Los libros catalanistas son constitutivamente imprecisos, asistemáticos, compuestos, en general, por hombres poco cultivados, sin escuela científica ni tradición estudiosa; son improvisaciones de abogados, de dilettanti, de poetas, alguno de estos últimos ciertamente grandes. Estos hermanos nuestros no se habían penetrado todavía de que el pensamiento no es una actividad espontánea, de que sin aprendizaje no hay pensar.
+
+Pero esos libros ya no son leídos, esos pensadores no enardecen ya los corazones catalanes: no hablemos, pues, de ellos; son también un pasado. La elección de Zulueta nos anuncia el adviento de nuevas ideologías más enérgicas, veraces y profundas, por las cuales comunique con Europa el alma de Cataluña, alma titánica que germina entre enormes inquietudes. Nosotros, por nuestra parte, trataremos de aumentar el peso específico de España sobre el mapa moral del continente. Y esta religión de la cultura será como una nueva alianza cerrada sobre las ruinas de aquella vieja alianza rota estos años pasados, y bien rota: la de la vieja España exenta de ideales unificadores, dentro de la cual no era posible colaboración porque no había nada que hacer.
+
+Luis de Zulueta ha convivido con muchos de nosotros. —¿Quiénes seremos nosotros? Tal vez somos sólo la esperanza de que seamos muchos. Pensábamos y queríamos las mismas cosas que ese catalán de la nueva generación. Las malas inteligencias, tan bien cultivadas por el señor Maura, nos aparecieron en toda su vanidad, y alguna vez, deambulando por el paseo de Rosales donde hallan los proyectos espacio ilimitado para ensancharse, advertíamos que en toda su trayectoria visible no se separaban. Hablemos de urbe a urbe: fundemos una gran amistad municipal. Que el problema nos una: Barcelona y Madrid tienen la misma cosa que hacer: educarse, participar en la cultura. Barcelona, consciente de ello, nos envía diputado un pedagogo.
+
+Como cantaba Walt Whitman, que nuestras ciudades se pasen mutuamente los brazos por cima de los hombros.
+
+El Imparcial, 28 de mayo de 1910

@@ -7,7 +7,7 @@ aliases:
   - "Knecht"
   - "Herr"
   - "Hegel"
-work_count: 2
+work_count: 1
 tags:
   - "graph/figure"
 title: "servo e padrone"
@@ -16,8 +16,7 @@ title: "servo e padrone"
 
 *master and slave*
 
-## Opere (2)
+## Opere (1)
 
 **Hegel**
-- [Hegel’s Philosophy of Mind](/testi/hegel/hegels_philosophy_of_mind)
 - [The Phenomenology of Spirit](/testi/hegel/the_phenomenology_of_spirit)

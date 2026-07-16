@@ -1,0 +1,47 @@
+---
+title: "Abejas milenarias"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> Starting from a rock painting at Altamira showing a man robbing a beehive, Ortega notes that the identical scene still occurs among the Veddas of Ceylon, and takes it as an exemplary case of the reciprocity between prehistory and ethnology. He then describes Vedda life — hordes of eight or ten, no state or authority, seasonal migration to caves. An anthropological essay, not a philosophical one.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/abejas_milenarias" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Abejas milenarias" data-chapter="" data-kind="intro"></span>
+
+En la Exposición de Pinturas Rupestres que hace un par de años organizó la Sociedad de Amigos del Arte, nada sorprendió tanto, junto a los grandes frescos de Altamira, como la escena que representa a un hombre colgado en una escala trenzada con materias vegetales y que castra una colmena alojada en un agujero de la roca. Asustadas por la intrusión, vuelan las abejas en torno al cazador. El dibujante primitivo ha sabido interpretar este vuelo con tal gracia impresionista, que, al cabo de milenios, conserva todo el estremecimiento y la dispersión azorada del original. Esta perduración de un encanto estético subyuga con vago pavor místico. La persistencia al través de los cambios, el poder extraño de flotar sobre las tormentas de los siglos, provoca en el espíritu una reacción de estupor favorable a las emociones mágicas.
+
+Pero aún es más conmovedora esta misteriosa perduración cuando lo que pervive no es sólo el encanto artístico de una imagen, sino que, como en el [caso](/concepts/fortune) presente, subsiste la realidad misma que la pintura primitiva refiere.
+
+Poco tiempo después de visitar aquella Exposición tropecé en una de mis lecturas etnográficas con la descripción de una escena idéntica que todavía acontece[31]. Fijar la atención sobre ello puede ser de alguna utilidad para los prehistoriadores. Se trata, en efecto, de un caso ejemplar que manifiesta la fértil reciprocidad existente entre la prehistoria y la etnología, ciencias ambas tan características de nuestro tiempo.
+
+La relación en que se hallen las maneras primigenias de humanidad, perescrutadas por la prehistoria, y las de los pueblos «salvajes» del presente será siempre problemática. No falta quien con graves razones considera las razas primitivas actuales como casos de degeneración, en tanto que el prehistoriador suele encontrarse con restos maravillosos que arguyen una genialidad matinal de la especie humana. Esto invita a mantener diferenciadas la prehistoria y la etnología, a modo de dos idiomas distintos, pero dispuestos en todo instante a traducirse mutuamente. En el caso de ahora, la coincidencia de ambos lenguajes es perfecta, y la pintura vetustísima queda explicada sin resto y sin sutilezas por el hecho actual.
+
+Ello acaece entre los Veddas de Ceilán, que son una de las razas de vida más elemental entre las conocidas. Viven en pequeñas hordas de ocho o diez individuos, cada una adscrita a un distrito de caza, que es respetado por las demás. No existe entre ellos estructura alguna de Estado, y la familia misma carece de regulación. El hombre suele casarse con su hermana menor, y sólo, según parece, le está prohibido el enlace con la mayor o con las hermanas de su madre. No conocen la guerra y carecen del síntoma bélico por excelencia, que es el arma defensiva —el escudo. No se reúnen en fiestas colectivas, y cuando alguno muere no se le entierra, sino que queda abandonado el cadáver y la horda huye. Ignoran toda autoridad. Existe sólo el predominio efectivo de la personalidad más vigorosa, física o moralmente. Pero esta superioridad real de un individuo no se ha solidificado en el oficio genérico y perdurable de una magistratura. A veces, la persona más influyente, por ser la más vivaz, es una mujer.
+
+La configuración del territorio es una serie de valles silvanos que irradian de una sierra, coronada de rocas, donde abundan las cuevas. La vida de estos hombres está regida en su ciclo anual por los animales de que se alimentan, ciervos principalmente. En el período de las lluvias —octubre, noviembre y diciembre—, la caza abandona el valle y sube a la sierra. Los Veddas siguen dócilmente la emigración de las bestias y ascienden a la región rocosa, donde hallan cavernas naturales. Como el número de éstas es inferior al de las hordas, acaece que se alojan en una varias de éstas. Pero es un fenómeno de alta significación para entender la psicología del hombre primitivo que, a pesar de vivir en la misma concavidad durante tres meses del año, no se traba entre las hordas nexo alguno perdurable que inicie una forma superior de organización. Cuando el invierno pasa, las hordas descienden a sus parques de caza y no vuelven a verse ni casi a saber las unas de las otras. El comercio entre ellas es nulo, y el que ejecutan con las tribus singalesas próximas es del tipo que se ha llamado silencioso. El Vedda que necesita algún producto singalés deposita en la linde del territorio una porción de carne. A los dos o tres días encuentra en su lugar el producto apetecido.
+
+Sólo hay un momento durante todo el año en que el [atomismo](/positions/atomism) de las hordas vive una hora de organización casi estataria. En ese momento surge una autoridad, una magistratura que inmediatamente vuelve a volatilizarse. Es la ocasión que la pintura rupestre a que se refieren estas notas declara con sus formas mudas.
+
+La abeja índica labra sus colmenas en la roca, y preferentemente, en las oquedades y entrantes de ella guarecidos de la lluvia. Por un agudo instinto terapéutico, estos salvajes comedores de carnes fuertes sienten un gran apetito del alimento complementario, la miel, rica en hidratos carbónicos. Pero la obtención del delicioso manjar es sobremanera peligrosa y exige cooperación. Los panales se hallan en las paredes de las rocas cortadas a pico. Es preciso descolgarse sobre el vacío para extraerlos y exponerse a la picadura innumerable de estos ápidos, que es sumamente dolorosa. Hace falta un hombre muy resuelto, un héroe, que se desliza por una escala vegetal mientras otros sostienen ésta desde la altura. Si titubean y abandonan el peso, están obligados a recoger la familia del periclitado —única ley sobrefamiliar existente en esta civilización protoplasmática.
+
+La escena, según es descrita por los viajeros, tiene un carácter patético no exento de gestos wagnerianos. Acontece en las noches borrascosas de la estación. En la frente de las rocas florecen incendios rituales para aplacar el demonio del abismo —que, según creo, es de sexo femenino. Suenan cantos religiosos de dramática resonancia que animan a los héroes prestos a la hazaña. El protagonista desciende por las febles sogas, se sume en la tiniebla. Lleva un poco de hierba húmeda ardiendo a fin de estupefacer a las abejas con el humo. Cuelga de su hombro al flanco un saco donde va a recoger la miel. El viento bronco silba en las aristas de la piedra y hace bambolearse sobre el vacío al hombre y su escala.
+
+Cuando, victorioso, torna a la cima, tiene el derecho de repartir la miel y reservarse la mejor parte. Este oficio de distribuir es la única magistratura que conoce, y eso fugazmente, la sociología de los Veddas.
+
+Compárese con esta descripción la figura rupestre. La coincidencia es perfecta. Además, la región levantina donde existe tiene una configuración pareja a la que presenta el territorio central de la isla índica.
+
+La vida del salvaje Vedda posee un repertorio reducidísimo de actos, ideas, sentimientos. Puede decirse que está polarizada por los dos signos de la abeja y el ciervo. Esta simplicidad tiene un valor inestimable para la ciencia, porque si algún día deja de ser la Historia el cuento de viejas que todavía es, se deberá al descubrimiento de leyes específicas que rigen los movimientos colectivos como las mecánicas imperan la inquietud de los astros. Ahora bien, es vano pretender que esas leyes se nos revelen investigando las edades de vida más compleja que nos son más o menos próximas. La única probabilidad de su descubrimiento se esconde en el estudio de las formas más primitivas, más elementales de la existencia humana. No ha habido física hasta que, apartando la vista de la pavorosa complicación del mundo, le ocurrió a Galileo analizar los fenómenos más sencillos —una bola que rueda sobre un plano inclinado, un péndulo que oscila bajo una bóveda. De esta suerte fue descubierto el abecedario de los movimientos que luego, en sus complicaciones sintácticas, forma el gran párrafo de la astronomía. Esperamos un Galileo de la historia y nos resistimos a aceptar que la hipótesis del libre albedrío, aunque sea bien fundada e inexcusable en Ética, obture el paso hacia un sistema de la Historia, construcción que, como ninguna otra, es postulada por los nervios de nuestra época.
+
+Revista de Occidente, agosto, 1924

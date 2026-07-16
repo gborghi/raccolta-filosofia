@@ -27,4 +27,4 @@ Posizione sull'asse [Tempo e morte](/axes/time_and_death).
 
 **Seneca**
 - [ON THE SHORTNESS OF LIFE](/testi/seneca/on_the_shortness_of_life)
-- [THE MORAL EPISTLES](/testi/seneca/the_moral_epistles)
+- [Epistulae Morales ad Lucilium](/testi/seneca/the_moral_epistles)

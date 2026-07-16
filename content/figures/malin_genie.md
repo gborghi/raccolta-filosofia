@@ -6,7 +6,7 @@ label_en: "the evil demon"
 aliases:
   - "malin génie"
   - "Descartes"
-work_count: 0
+work_count: 4
 tags:
   - "graph/figure"
 title: "genio maligno"
@@ -15,4 +15,10 @@ title: "genio maligno"
 
 *the evil demon*
 
-## Opere (0)
+## Opere (4)
+
+**Descartes**
+- [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
+- [LETTRES](/testi/descartes/lettres)
+- [MÉDITATIONS MÉTAPHYSIQUES](/testi/descartes/méditations_métaphysiques)
+- [OBJECTIONS AUX MÉDITATIONS](/testi/descartes/objections_aux_méditations)

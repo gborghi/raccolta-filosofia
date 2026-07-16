@@ -1,0 +1,57 @@
+---
+title: "Unamuno y Europa, fábula"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> Polemic against Unamuno's letter in ABC: to 'if a people had to choose between Descartes and St John of the Cross, I would keep the latter' Ortega replies that without Descartes we would be left in the dark and would not even see Juan de Yepes's habit. Unamuno is cast as the lad who smashes the lamp at the village dance, 'energúmeno español'.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/unamuno_y_europa_fábula" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Unamuno y Europa, fábula" data-chapter="" data-kind="intro"></span>
+
+Prisionero de otras ocupaciones, no he podido hasta ahora poner un exiguo comentario a la carta de don Miguel de Unamuno, publicada hace días en ABC. Una carta privada como ésta en que el señor Unamuno sanciona las opiniones del señor Azorín, no merece grande atención: el correo privado apenas si sirve de otra cosa que de manso cauce al río turbulento de las impertinencias individuales. Sólo me interesan las acciones y los problemas públicos: hartas dificultades hay en éstos para que nos distraigamos en meditar sobre las incongruencias íntimas, privadas de nuestros contemporáneos. Había pensado, desde luego, en no oponer nada a la filosofía soez de aquella carta: como en mi artículo anterior me preguntaba de nuevo: ¿qué decir a quien no se preocupa de la verdad? Cierto que el señor Unamuno me alude en esa carta: habla de «los papanatas» que están bajo la fascinación de «esos europeos». Ahora bien, yo soy plenamente, íntegramente, uno de esos papanatas: apenas si he escrito, desde que escribo para el público, una sola cuartilla en que no aparezca con agresividad simbólica la palabra: Europa. En esta palabra comienzan y acaban para mí todos los dolores de España. Y es costumbre en esta tierra mía, en esta tierra que Dios ha puesto de un empellón fuera del alcance benéfico de su vieja mano rugosa, contestar a la guapeza con algún gesto de jaque. El señor Unamuno ha elevado a la dignidad universitaria los usos jaquescos que el señor La Cierva, tan ingenuamente, se obstina en perseguir por las tabernas. ¿Dónde iremos ahora a buscar la bonne compagnie? Yo debía contestar con algún vocablo tosco o, como decían los griegos, rural, a don Miguel de Unamuno, energúmeno español. Pero… esto sería muy poco divertido. Quienes rompen las reglas artificiales de la buena educación se quedan sin gozar la fruición delicadísima de ejercitar íntegramente sus energías dentro de ellas. Pues qué, ¿no estriba todo el placer del juego en el sometimiento a ciertas reglas convencionales y hasta ridículas? ¡Divino juego civil de la buena educación! ¡Deleite noble y señor el de vivir dentro de las reglas quebrantables sin quebrantarlas! ¡Suprema voluptuosidad para quienes son capaces de sentir la voluptuosidad de la ley!
+
+¿A qué, pues, contestar la carta del rector de Salamanca? ¿Qué dice en ella, al fin y al cabo? «Si fuera imposible que un pueblo dé a Descartes y a San Juan de la Cruz, yo me quedaría con éste».
+
+En los bailes de los pueblos castizos no suele faltar un mozo que cerca de la media noche se siente impulsado sin remedio a dar un trancazo sobre el candil que ilumina la danza: entonces comienzan los golpes a ciegas y una bárbara baraúnda. El señor Unamuno acostumbra a representar este papel en nuestra república intelectual. ¿Qué otra cosa es sino preferir a Descartes el lindo frailecito de corazón incandescente que urde en su celda encajes de retórica extática? Lo único triste del [caso](/concepts/fortune) es que a don Miguel, el energúmeno, le consta que sin Descartes nos quedaríamos a oscuras y nada veríamos, y menos que nada el pardo sayal de Juan de Yepes.
+
+Yo pensaba no hablar de esta lamentable epístola; pero ¡he recibido tantas hostigándome a la protesta! Cuando comenzaban las escenas a que ha dado motivo esta guerra imperfecta del África, pedía yo desde estas columnas, ante todo, pudor nacional. Preveía la curiosidad justiciera de Europa asomándose tras los Pirineos y recorriendo con sus ojos severos la desnudez de nuestras carnes señaladas por todos los vicios. Desgraciadamente, he acertado. Yo no sé quién pueda censurar honradamente a Europa si la oímos que dice: Hermanos de Aria, nuestra España sigue igual.
+
+Pero el señor Unamuno no es hombre que se ande con medias tintas: como Juan de Yepes es superior a Descartes, es, en no pocas otras cosas, superior España a Europa; por ejemplo, en lingüística, ejercicio oficial y obligado del señor Unamuno. Léase lo que dice a Azorín para mostrar en qué consiste la superioridad de los celtíberos:
+
+«Hay que proclamar nuestras superioridades actuales. Indigna ver tanto hispanista (¿?) que se cree que España acabó en el siglo XVII. Un chileno que allá en su tierra había estudiado filología castellana con dos alemanes (!!!), vino de paso para… París, a perfeccionarse en ella. Oyó a Menéndez Pidal y se quedó. Y es que éste ha escrito un manual mucho mejor en su género que cuantos análogos conozco del extranjero. Y así hay muchos. Cajal no está solo. Nos falta —y no lo deploro— el sentido de la réclame, y, además, no solemos dignarnos defendernos. A su desdén teatral oponemos nuestra altivez».
+
+¿Qué contestar a esto? El nombre de Menéndez Pidal es tan noble, tan ejemplar, tan severo, que vale por cien argumentos. Por otro lado, el señor Unamuno se ha dedicado, en cumplimiento de un deber ineludible, capital, al mismo género de trabajos que el autor de El cantar de Myo Cid. ¿Quién podrá dudar, pues, de que sabe muy bien lo que dice cuando nos combate a los europeizantes con el claro nombre de don Ramón Menéndez Pidal?
+
+Mas ¡ay!, he recibido estos días unas cuartillas de un español, joven e inteligentísimo, cuyo nombre no ignora Unamuno: don Américo Castro, discípulo predilecto y familiar del señor Menéndez Pidal. Y estas cuartillas dicen así:
+
+«Torpes andan quienes barajando a su sabor hechos de difícil comprobación para los más, pretenden —con palabras de fanfarria mal adobadas de pretendido amor a la tierra— cubrir con la prez de un nombre ilustre el nefando pecado de la felonía intelectual.
+
+»No otra cosa significa colocar el nombre del señor don Ramón Menéndez Pidal entre el elogio de un chileno que “le prefiere” a los alemanes y una deslavazada censura para los que fuera de España se han preocupado, mucho antes que el señor Unamuno pudiera soñarlo, de hacer una ciencia del estudio de nuestra lengua. No ignora el rector de Salamanca que antes de que el señor Menéndez Pidal comenzase sus trabajos de filología —su gramática se publicó en 1904— si se exceptúan los señores Bello y Cuervo, americanos, sólo nombres extranjeros figuran en las bibliotecas de filología románica cuando de castellano se ocupan. Lo que el señor Unamuno sepa de filología castellana tuvo que aprenderlo en las gramáticas de Diez, Meyer-Lübke, Foerster y Baist, alemanes, y en la de Gorra, italiano. Si se enteró de que el habla salmantina era algo más que palabras deformadas por la rusticidad aldeana, tuvo que leer a Gessner, Das Altleonische, Berlín, 1876; a Morel-Fatio, Recherches sur les sources du “Libro de Alexandre”, Upsala, 1887, y su reseña del libro de Gessner en la Zeitschrift für romanische Philologie, de 1904, y hoy día a E. Staaff, L’ancien dialecte léonais, Upsala, 1907.
+
+»En cuanto a esos dos alemanes que despectivamente aparecen seguidos de admiración, son los señores R. Lenz y F. Hansen. Al primero se debe, según Meyer-Lübke (Einführung, página 171), el único trabajo completo sobre uno de los problemas más difíciles de la filología románica: “el de determinar en qué medida han influido los pueblos prerromanos, que después se romanizaron, en la formación de las lenguas romances” (v. sus “Chilenische Studien”, Phon. Stud. V y “Die chilenische Lautlehre, verglichen mit der araukanischen”, [Zeit](/concepts/time). XVII). El segundo es autor de numerosas monografías sobre la conjugación española antigua y las dialectales, leonesa y aragonesa; hoy día representa en Chile el factor más importante para la formación científica de la juventud chilena “que estudia español”. No hablemos de la infinidad de artículos en revistas —ninguna española— debidos a Cornu, Ford, Poberowicz, Staaff, Tallgren, Marden, Pietsch, Salvioni, M.-Fatio, etc., sin contar con que en casi todas las ediciones de autores españoles, si el señor Unamuno ha querido estudiarlos “filológicamente”, tuvo que recurrir a Fitz Gerald (Berceo), Baist y Gräfenberg (don Juan Manuel), Foulché-Delbosc (Celestina, Lazarillo, etcétera.), Marden (F. González), M.-Fatio (Alexandre), Buchanan y Rennert (comedias), Böhmer (Juan de Valdés), Mérimée (Guillén de Castro), H. Mérimée (G. de Castro y Mercader), Ducamin (Juan Ruiz), Lang (cancioneros), etcétera, etc. A este inmenso trabajo, labor de treinta años, y a tanto nombre benemérito, podemos incorporar para honra nuestra el preclarísimo del señor Menéndez Pidal, más conocido en el extranjero que aquí —dudo que hayan leído el Cantar de Myo Cid más de veinte españoles— y cuya iniciación en la ciencia de la filología española la debió a haber aplicado en sus investigaciones el riguroso método que fuera de aquí se seguía en esta clase de estudios. Hoy día, es cierto, pueden venir extranjeros a escuchar su palabra autorizada. Ya lo han demostrado las Universidades de los Estados Unidos solicitando su presencia para que difundiese entre ellos sus tesoros de erudición medieval.
+
+»Cierto es también que sería ingrato desconocer que a la incorporación de un pequeño núcleo de españoles a la cultura europea debemos el poder enorgullecernos con sus triunfos.
+
+»Ahora bien, si el señor Unamuno sabe todo esto en su calidad de profesor de filología, ¿por qué escribe la carta del ABC?»
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+Poco a poco va aumentando el número de los que quisiéramos que las querellas personalistas cedieran en España la liza a las discusiones más honestas y virtuosas sobre la verdad verdadera. En el naufragio de la vida nacional, naufragio en el agua turbia de las pasiones, clavamos serenamente un grito nuevo: ¡Salvémonos en las cosas! La moral, la ciencia, el arte, la religión, la política, han dejado de ser para nosotros cuestiones personales; nuestro campo de honor es ahora el conocido campo de Montiel de la lógica, de la responsabilidad intelectual. Pensando en esto, he preferido las observaciones técnicas de mi grande amigo Américo Castro a toda mi prosa indignada. Merced a ellas puedo afirmar que en esta ocasión don Miguel de Unamuno, energúmeno español, ha faltado a la verdad. Y no es la primera vez que hemos pensado si el matiz rojo y encendido de las torres salmantinas les vendrá de que las piedras venerables aquellas se ruborizan oyendo lo que Unamuno dice cuando a la tarde pasea entre ellas.
+
+Y, sin embargo, un gran dolor nos sobrecoge ante los yerros de tan fuerte máquina espiritual, una melancolía honda…
+
+«¡Dios, que buen vassallo si oviese buen Señor!»
+
+El Imparcial, 27 de septiembre de1909

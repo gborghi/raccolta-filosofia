@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> Bilingual Latin-English edition (Munro) of De rerum natura: the same philosophical content as the Latin text and the translations — atomism, clinamen, the soul's mortality, ataraxia — here in facing-text form.
+> Facing-page Latin text with H. A. J. Munro's English translation of the complete De rerum natura. Sets out materialist atomism, the void, the clinamen, the mortality of the soul, and the Epicurean ethics of pleasure and ataraxia across all six books.
 
 <p class="work-source">Traduzione di H. A. J. Munro · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -92,7 +92,7 @@ Next the wild herds bound over the glad pastures and swim the rapid rivers: in s
 
 Yes, throughout seas and mountains and sweeping rivers and leafy homes of birds and grassy plains, striking fond love into the breasts of all thou constrainest them each after its kind to continue their races with desire.
 
-Since thou then art sole mistress of the nature of things and without thee nothing rises up into the divine borders of light, nothing grows to be glad or lovely, fain would I have thee for a helpmate in writing the verses which I essay to pen on the nature of things for our own son of the Memmii, whom thou, goddess, hast willed to have no peer, rich as he ever is in every [grace](/concepts/grace).
+Since thou then art sole mistress of the nature of things and without thee nothing rises up into the divine borders of light, nothing grows to be glad or lovely, fain would I have thee for a helpmate in writing the verses which I essay to pen on the nature of things for our own son of the Memmii, whom thou, goddess, hast willed to have no peer, rich as he ever is in every grace.
 
 Wherefore all the more, O lady, lend my lays an everliving charm.
 
@@ -1276,7 +1276,7 @@ corpus, ea vacuum nequaquam constat inane.
 
 [468] For whatever shall have been done may be termed an accident in one case of the Teucran people, in another of the countries simply.
 
-Yes for if there had been no matter of things and no room and space in which things severally go on, never had the fire, kindled by love of the beauty of Tyndarus’ daughter, blazed beneath the Phrygian breast of Alexander and lighted up the famous struggles of cruel war, nor had the timber horse unknown to the Trojans wrapt Pergama in flames by its night-issuing brood of sons of the Greeks; so that you may clearly perceive that all actions from first to last exist not by themselves and are not by themselves in the way that body is, nor are terms of the same kind as void is, but are rather of such a kind that you may fairly call them accidents of body and of the room in which they severally go on.
+Yes for if there had been no matter of things and no room and space in which things severally go on, never had the fire, kindled by love of the [beauty](/concepts/beauty) of Tyndarus’ daughter, blazed beneath the Phrygian breast of Alexander and lighted up the famous struggles of cruel war, nor had the timber horse unknown to the Trojans wrapt Pergama in flames by its night-issuing brood of sons of the Greeks; so that you may clearly perceive that all actions from first to last exist not by themselves and are not by themselves in the way that body is, nor are terms of the same kind as void is, but are rather of such a kind that you may fairly call them accidents of body and of the room in which they severally go on.
 
 Bodies again are partly first-beginnings of things, partly those which are formed of a union of first beginnings.
 
@@ -2360,7 +2360,7 @@ sic ego nunc, quoniam haec ratio plerumque videtur
 
 Do you now see, as we said a little before, that it often makes a very great difference with what things and in what position the same first beginnings are held in union and what motions they mutually impart and receive, and that the same may, when a little changed in arrangement produce say fires and a fir?
 
-Just as the words too consist of elements only a little changed in arrangement, though we denote firs and fires with two quite distinct names.
+Just as the words too consist of elements only a little changed in arrangement, though we denote firs and fires with two quite distinct [names](/positions/nominalism).
 
 Once again, if you suppose that whatever you perceive among visible things cannot be produced without imagining bodies of matter possessed of a like nature, in this way you will find the first-beginnings of things are destroyed: it will come to this that they will be shaken by loud fits of convulsive laughter and will bedew with salt tears face and cheeks.
 
@@ -3058,7 +3058,7 @@ All the others spring far off and rebound far leaving great spaces between: thes
 
 And many more travel along the great void, which have been thrown off from the unions of things or though admitted have yet in no case been able likewise to assimilate their motions.
 
-Of this truth, which I am telling, we have a representation and picture always going on before our eyes and present to us: observe whenever the rays are let in and pour the sunlight through the dark chambers of houses:
+Of this truth, which I am telling, we have a [representation](/concepts/idea) and picture always going on before our eyes and present to us: observe whenever the rays are let in and pour the sunlight through the dark chambers of houses:
 
 multa minuta modis multis per inane videbis
 
@@ -4082,7 +4082,7 @@ at regione locoque alio terrisque remotis
 
 Wherefore you cannot possibly believe that seeds have an infinite variety of forms, lest you force some to be of a monstrous hugeness, which as I have above shown cannot be proved.
 
-Moreover I tell you barbaric robes and radiant Meliboean purple dipped in Thessalian dye of shells [and the hues which are displayed] by the golden brood of peacocks steeped in laughing beauty would all be thrown aside surpassed by some new color of things; the smell of myrrh would be despised and the flavors of honey, and the melodies of the swan and Phoebean tunes set off by the varied play of strings would in like sort be suppressed and silenced; for something ever would arise more surpassing than the rest.
+Moreover I tell you barbaric robes and radiant Meliboean purple dipped in Thessalian dye of shells [and the hues which are displayed] by the golden brood of peacocks steeped in laughing [beauty](/concepts/beauty) would all be thrown aside surpassed by some new color of things; the smell of myrrh would be despised and the flavors of honey, and the melodies of the swan and Phoebean tunes set off by the varied play of strings would in like sort be suppressed and silenced; for something ever would arise more surpassing than the rest.
 
 All things likewise might fall back into worse states, even as we have said they might advance to better; for reversely too one thing would be more noisome than all other things to nostril, ear, and eye, and taste.
 
@@ -6464,7 +6464,7 @@ But the nature of oxen has its life rather from the still air, and never does th
 
 And thus it is with mankind: however much teaching renders some equally refined, it yet leaves behind those earliest traces of the nature of each mind; and we are not to suppose that evil habits can be so thoroughly plucked up by the roots, that one man shall not be more prone than another to keen anger, a second shall not be somewhat more quickly assailed by fear, a third shall not take some things more meekly than is right.
 
-In many other points there must be differences between the varied natures of men and the tempers which follow upon these; though at present I am unable to set forth the hidden causes of these or to find names enough for the different shapes which belong to the first-beginnings from which shapes arises this diversity of things.
+In many other points there must be differences between the varied natures of men and the tempers which follow upon these; though at present I am unable to set forth the hidden causes of these or to find [names](/positions/nominalism) enough for the different shapes which belong to the first-beginnings from which shapes arises this diversity of things.
 
 What herein I think I may affirm is this: traces of the different natures left behind, which reason is unable to expel from us, are so exceedingly slight that there is nothing to hinder us from living a life worthy of gods.
 
@@ -7560,7 +7560,7 @@ et domus aetatis spatio ne fessa vetusto
 
 <span class="atom-split" data-atom="037" data-title="Liber Tertius — BOOK III. (10/14)" data-chapter="Liber Tertius — BOOK III." data-kind="atom"></span>
 
-Therefore souls do not make for themselves bodies and limbs; no: nor can they by any method find their way into bodies after they are full formed; for they will neither be able to unite themselves with a nice precision nor will any connection of mutual sensation be formed between them.
+Therefore souls do not make for themselves bodies and limbs; no: nor can they by any [method](/axes/method) find their way into bodies after they are full formed; for they will neither be able to unite themselves with a nice precision nor will any connection of mutual sensation be formed between them.
 
 Again, why does untamed fierceness go along with the sullen brood of lions, cunning with foxes and proneness to flight with stags?
 
@@ -8076,7 +8076,7 @@ What answer have we to make save this, that nature sets up against us a well-fou
 
 If however one of greater age and more advanced in years should complain and lament, poor wretch, his death more than is right, would she not with greater cause raise her voice and rally him in sharp accents,
 
-“Away from this time forth with thy tears, rascal; a truce to thy complaining: thou decayest after full enjoyment of all the prizes of life. But because thou ever yearnest for what is not present, and despisest what is, life has slipped from thy grasp unfinished and unsatisfying, and or ever thou thoughtest, death has taken his stand at thy pillow, before thou canst take thy departure sated and filled with good things. Now however resign all things unsuited to thy age, and with a good [grace](/concepts/grace) up and greatly go: thou must.”
+“Away from this time forth with thy tears, rascal; a truce to thy complaining: thou decayest after full enjoyment of all the prizes of life. But because thou ever yearnest for what is not present, and despisest what is, life has slipped from thy grasp unfinished and unsatisfying, and or ever thou thoughtest, death has taken his stand at thy pillow, before thou canst take thy departure sated and filled with good things. Now however resign all things unsuited to thy age, and with a good grace up and greatly go: thou must.”
 
 With good reason methinks she would bring her charge, with reason rally and reproach; for old things give way and are supplanted by new without fail, and one thing must ever be replenished out of other things; and no one is delivered over to the pit and black Tartarus.
 
@@ -8180,7 +8180,7 @@ atque eadem metuit magis haec ne in morte gravescant.
 
 hic Acherusia fit stultorum denique vita.
 
-[981] but in life rather a baseless dread of the gods vexes mortals: [the fall](/positions/original_sin) they fear is such fall of luck as chance brings to each.
+[981] but in life rather a baseless dread of the gods vexes mortals: [the fall](/positions/original_sin) they fear is such fall of luck as [chance](/concepts/fortune) brings to each.
 
 <span class="atom-split" data-atom="040" data-title="Liber Tertius — BOOK III. (13/14)" data-chapter="Liber Tertius — BOOK III." data-kind="atom"></span>
 
@@ -8380,7 +8380,7 @@ A sure term of life, is fixed for mortals, and death cannot be shunned, but meet
 
 Moreover, we are ever engaged, ever involved in the same pursuits, and no new pleasure is struck out by living on; but whilst what we crave is wanting, it seems to transcend all the rest; then, when it has been gotten, we crave something else, and ever does the same thirst of life possess us, as we gape for it open-mouthed.
 
-Quite doubtful it is what fortune the future will carry with it or what chance will bring us or what end is at hand.
+Quite doubtful it is what fortune the future will carry with it or what [chance](/concepts/fortune) will bring us or what end is at hand.
 
 Nor by prolonging life do we take one tittle from the time past in death nor can we fret anything away, whereby we may haply be a less long time in the condition of the dead.
 
@@ -9518,7 +9518,7 @@ For whatever part of the oars is raised above the saltwater is straight, and the
 
 And when the winds carry the thinly scattered clouds across heaven in the night time, then do the glittering signs appear to glide athwart the rack and to be travelling on high in a direction quite different to their real course.
 
-Then if our hand chance to be placed beneath one eye and press it below, through a certain sensation all things which we look at appear then to become double as we look; the light of lamps brilliant with flames to be double, double too the furniture through the whole house, double men’s faces and men’s bodies.
+Then if our hand [chance](/concepts/fortune) to be placed beneath one eye and press it below, through a certain sensation all things which we look at appear then to become double as we look; the light of lamps brilliant with flames to be double, double too the furniture through the whole house, double men’s faces and men’s bodies.
 
 Again when sleep has chained down our limbs in sweet slumber and the whole body is sunk in profound repose, yet then we seem to ourselves to be awake and to be moving our limbs, and mid the thick darkness of night we think we see the sun and the daylight;
 
@@ -10326,7 +10326,7 @@ clarandumst, plane si res exponere avemus.
 
 <span class="atom-split" data-atom="051" data-title="Liber Quartus — BOOK IV. (10/16)" data-chapter="Liber Quartus — BOOK IV." data-kind="atom"></span>
 
-[739] For assuredly no image of Centaur is formed out of a live one, since no such nature of living creature ever existed; but when images of a horse and a man have by chance come together, they readily adhere at once, as we said before, on account of their fine nature and thin texture.
+[739] For assuredly no image of Centaur is formed out of a live one, since no such nature of living creature ever existed; but when images of a horse and a man have by [chance](/concepts/fortune) come together, they readily adhere at once, as we said before, on account of their fine nature and thin texture.
 
 All other things of the kind are produced in like fashion.
 
@@ -11316,7 +11316,7 @@ We therefore see women in ways manifold deformed and ugly to be objects of endea
 
 And one lover jeers at others and advises them to propitiate Venus, since they are troubled by a disgraceful passion, and often, poor wretch, gives no thought to his own ills greatest of all.
 
-The black is a brune, the filthy and rank has not the love of order; the cat-eyed is a miniature Pallas, the stringy and wizened a gazelle; the dumpy and dwarfish is one of the graces, from top to toe all [grace](/concepts/grace); the big and overgrown is awe-inspiring and full of dignity.
+The black is a brune, the filthy and rank has not the love of order; the cat-eyed is a miniature Pallas, the stringy and wizened a gazelle; the dumpy and dwarfish is one of the graces, from top to toe all grace; the big and overgrown is awe-inspiring and full of dignity.
 
 balba loqui non quit, traulizi, muta pudens est;
 
@@ -11504,7 +11504,7 @@ And when haply in mixing her seed with the man’s, the woman by sudden force ha
 
 But those whom you see with a share of both forms, blending equally the features of the parents, grow from the union of the father’s body and the mother’s blood, when the mutual ardor of desire working in concert has brought and clashed together the seeds roused throughout the frame by the goads of Venus; and neither of the two has gotten the mastery nor has been mastered.
 
-Sometimes too the children may spring up like their grandfathers and often resemble the forms of their grandfathers’ fathers, because the parents often keep concealed in their bodies many first-beginnings mixed in many ways, which first proceeding from the original stock one father hands down to the next father; and then from these Venus produces forms after a manifold chance and repeats not only the features, but the voices and hair of their forefathers.
+Sometimes too the children may spring up like their grandfathers and often resemble the forms of their grandfathers’ fathers, because the parents often keep concealed in their bodies many first-beginnings mixed in many ways, which first proceeding from the original stock one father hands down to the next father; and then from these Venus produces forms after a manifold [chance](/concepts/fortune) and repeats not only the features, but the voices and hair of their forefathers.
 
 And the female sex equally springs from the father’s seed and males go forth equally formed from the mother’s body; since these distinctions no more proceed from the fixed seed of one or other parent than our faces and bodies and limbs: the birth is always formed out of the two seeds; and whichever parent that which is produced more resembles of that parent it has more than an equal share; as you may equally observe, whether it is a male child or a female birth.
 
@@ -11616,7 +11616,7 @@ And thus for their own ends harlots are wont to move, in order not to conceive a
 
 This our wives have surely no need of.
 
-Sometimes too by no divine [grace](/concepts/grace) and arrows of Venus a sorry woman of inferior beauty comes to be loved;
+Sometimes too by no divine grace and arrows of Venus a sorry woman of inferior [beauty](/concepts/beauty) comes to be loved;
 
 1280 nam facit ipsa suis inter dum femina factis
 
@@ -11816,7 +11816,7 @@ And all the more so that he was wont to deliver many precepts in beautiful and g
 
 While walking in his footsteps I follow out his reasonings and teach by my verses, by what law all things are made, what necessity there is then for them to continue in that law, and how impotent they are to annul the binding statutes of time: foremost in which class of things the nature of the mind has been proved to be formed of a body that had birth and to be unable to endure unscathed through great time, mere idols being wont to mock the mind in sleep, when we seem to see him whom life has abandoned.
 
-To continue, the order of my design has now brought me to this point, where I must proceed to show that the world is formed of a mortal body and at the same time had birth; to show too in what way that union of matter founded earth, heaven, sea, stars, sun, and the ball of the moon; also what living creatures sprang out of the earth, as well as those which never at any time were born; in what way too mankind began to use with one another varied speech by the names conferred on things;
+To continue, the order of my design has now brought me to this point, where I must proceed to show that the world is formed of a mortal body and at the same time had birth; to show too in what way that union of matter founded earth, heaven, sea, stars, sun, and the ball of the moon; also what living creatures sprang out of the earth, as well as those which never at any time were born; in what way too mankind began to use with one another varied speech by the [names](/positions/nominalism) conferred on things;
 
 et quibus ille modis divom metus insinuarit
 
@@ -14244,7 +14244,7 @@ cum metus aut dolor est et cum iam gaudia gliscunt.
 
 And though harmony could not be established without exception, yet a very large portion observed their agreements with good faith, or else the race of man would then have been wholly cut off, nor could breeding have continued their generations to this day.
 
-But nature impelled them to utter the various sounds of the tongue and use struck out the names of things, much in the same way as the inability to speak is seen in its turn to drive children to the use of gestures, when it forces them to point with the finger at the things which are before them.
+But nature impelled them to utter the various sounds of the tongue and use struck out the [names](/positions/nominalism) of things, much in the same way as the inability to speak is seen in its turn to drive children to the use of gestures, when it forces them to point with the finger at the things which are before them.
 
 For everyone feels how far he can make use of his peculiar powers.
 
@@ -14452,7 +14452,7 @@ Next the sun taught them to cook food and soften it with the heat of flame, sinc
 
 And more and more every day men who excelled in intellect and were of vigorous understanding would kindly show them how to exchange their former way of living for new methods.
 
-Kings began to build towns and lay out a citadel as a place of strength and of refuge for themselves, and divided cattle and lands and gave to each man in proportion to his personal beauty and strength and intellect; for beauty and vigorous strength were much esteemed.
+Kings began to build towns and lay out a citadel as a place of strength and of refuge for themselves, and divided cattle and lands and gave to each man in proportion to his personal [beauty](/concepts/beauty) and strength and intellect; for beauty and vigorous strength were much esteemed.
 
 Afterwards wealth was discovered and gold found out, which soon robbed of their honors strong and beautiful alike; for men however valiant and beautiful of person generally follow in the train of the richer man.
 
@@ -14678,7 +14678,7 @@ What groanings did they then beget for themselves, what wounds for us, what tear
 
 No act is it of piety to be often seen with veiled head to turn to a stone and approach every altar and fall prostrate on the ground and spread out the palms before the statues of the gods and sprinkle the altars with much blood of beasts and link vow on to vow, but rather to be able to look on all things with a mind at peace.
 
-For when we turn our gaze on the heavenly quarters of the great upper world and ether fast above the glittering stars, and direct our thoughts to the courses of the sun and moon, then into our breasts burdened with other ills that fear as well begins to exalt its reawakened head, the fear that we may haply find the power of the gods to be unlimited, able to wheel the bright stars in their varied motion; for lack of power to solve the question troubles the mind with doubts, whether there was ever a birth-time of the world, and whether likewise there is to be any end; how far the walls of the world can endure this strain of restless motion; or whether gifted by the [grace](/concepts/grace) of the gods with an everlasting existence they may glide on through a never-ending tract of time and defy the strong powers of immeasurable ages.
+For when we turn our gaze on the heavenly quarters of the great upper world and ether fast above the glittering stars, and direct our thoughts to the courses of the sun and moon, then into our breasts burdened with other ills that fear as well begins to exalt its reawakened head, the fear that we may haply find the power of the gods to be unlimited, able to wheel the bright stars in their varied motion; for lack of power to solve the question troubles the mind with doubts, whether there was ever a birth-time of the world, and whether likewise there is to be any end; how far the walls of the world can endure this strain of restless motion; or whether gifted by the grace of the gods with an everlasting existence they may glide on through a never-ending tract of time and defy the strong powers of immeasurable ages.
 
 Again, who is there whose mind does not shrink into itself with fear of the gods, whose limbs do not cower in terror, when the parched earth rocks with the appalling thunder stroke and rattlings run through the great heaven?
 
@@ -15098,7 +15098,7 @@ But nature parent of things was herself the first model of sowing and first gave
 
 Next they would try another and yet another kind of tillage for their loved piece of land and would see the earth better the wild fruits through genial fostering and kindly cultivation.
 
-And they would force the forests to recede every day higher and higher up the hill-side and yield, the ground below to tilth, in order to have on the uplands and plains meadows tanks runnels cornfields and glad vineyards, and allow a grey-green strip of olives to run between and mark the divisions, spreading itself over hillocks and valleys and plains; just as you now see richly dight with varied beauty all the ground which they lay out and plant with rows of sweet fruit-trees and enclose all round with plantations of other goodly trees.
+And they would force the forests to recede every day higher and higher up the hill-side and yield, the ground below to tilth, in order to have on the uplands and plains meadows tanks runnels cornfields and glad vineyards, and allow a grey-green strip of olives to run between and mark the divisions, spreading itself over hillocks and valleys and plains; just as you now see richly dight with varied [beauty](/concepts/beauty) all the ground which they lay out and plant with rows of sweet fruit-trees and enclose all round with plantations of other goodly trees.
 
 But imitating with the mouth the clear notes of birds was in use long before men were able to sing in tune smooth-running verses and give pleasure to the ear.
 
@@ -15398,7 +15398,7 @@ rursus in antiquas referuntur religionis
 
 et dominos acris adsciscunt, omnia posse
 
-[28] he showed too what evils existed in mortal affairs throughout, rising up and manifoldly flying about by a natural –call it chance or force, because nature had so brought it about – and from what gates you must sally out duly to encounter each; and he proved that mankind mostly without cause arouse in their breast the melancholy tumbling billows of cares.
+[28] he showed too what evils existed in mortal affairs throughout, rising up and manifoldly flying about by a natural –call it [chance](/concepts/fortune) or force, because nature had so brought it about – and from what gates you must sally out duly to encounter each; and he proved that mankind mostly without cause arouse in their breast the melancholy tumbling billows of cares.
 
 For even as children are flurried and dread all things in the thick darkness, thus we in the daylight fear at times things not a whit more to be dreaded than what children shudder at in the dark and fancy sure to be.
 
@@ -16216,7 +16216,7 @@ But if Jupiter and other gods shake with an appalling crash the glittering quart
 
 pectore perfixo, documen mortalibus acre,
 
-et potius nulla sibi turpi conscius in re
+et potius nulla sibi turpi conscius [in re](/positions/immanent_realism)
 
 volvitur in flammis innoxius inque peditur
 
@@ -18074,7 +18074,7 @@ consimili ratione venit bubus quoque saepe
 
 And first I have shown above that there are seeds of many things helpful to our life; and on the other hand many must fly about conducing to disease and death.
 
-When these by chance have happened to gather together and have disordered the atmosphere, the air becomes distempered.
+When these by [chance](/concepts/fortune) have happened to gather together and have disordered the atmosphere, the air becomes distempered.
 
 And all that force of disease and that pestilence come either from without down through the atmosphere in the shape of clouds and mists, or else do gather themselves up and rise out of the earth, when soaked with wet it has contracted a taint, being beaten upon by unseasonable rains and suns.
 
@@ -18414,7 +18414,7 @@ Many would droop with disease and die: above all faithful dogs would lie stretch
 
 Funerals lonely, unattended, would be hurried on with emulous haste.
 
-And no sure and general method of cure was found; for that which had given to one man the power to inhale the vital air and to gaze on the quarters of heaven, would be destruction to others and would bring on death.
+And no sure and general [method](/axes/method) of cure was found; for that which had given to one man the power to inhale the vital air and to gaze on the quarters of heaven, would be destruction to others and would bring on death.
 
 But in such times this was what was deplorable and above all eminently heart-rending: when a man saw himself enmeshed by the disease, as though he were doomed to death, losing all spirit he would lie with sorrow-stricken heart, and with his, thoughts turned on death would surrender his life then and there.
 

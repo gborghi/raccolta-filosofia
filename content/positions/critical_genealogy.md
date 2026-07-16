@@ -12,7 +12,7 @@ axis: "god"
 variante_di: "atheism"
 contro:
   - "demonstrative_theism"
-work_count: 2
+work_count: 5
 tags:
   - "graph/position"
 title: "genealogia critica"
@@ -27,8 +27,15 @@ Sfumatura di [ateismo](/positions/atheism).
 
 **Contro:** [teismo dimostrativo](/positions/demonstrative_theism)
 
-## Opere (2)
+## Opere (5)
 
 **Marx**
-- [CRITIQUE OF HEGEL’S PHILOSOPHY OF RIGHT, 1843](/testi/marx/critique_of_hegels_philosophy_of_right_1843)
-- [ON THE JEWISH QUESTION, 1843](/testi/marx/on_the_jewish_question_1843)
+- [Zur Judenfrage](/testi/marx/zur_judenfrage)
+- [Zur Kritik der Hegelschen Rechtsphilosophie](/testi/marx/zur_kritik_der_hegelschen_rechtsphilosophie)
+
+**Nietzsche**
+- [Der Antichrist](/testi/nietzsche/der_antichrist)
+- [Zur Genealogie der Moral](/testi/nietzsche/zur_genealogie_der_moral)
+
+**Ortega y Gasset**
+- [La teología de Renan](/testi/ortega-y-gasset/la_teología_de_renan)

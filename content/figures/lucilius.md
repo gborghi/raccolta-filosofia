@@ -20,4 +20,4 @@ title: "Lucilio"
 **Seneca**
 - [NATURAL QUESTIONS](/testi/seneca/natural_questions)
 - [ON PROVIDENCE](/testi/seneca/on_providence)
-- [THE MORAL EPISTLES](/testi/seneca/the_moral_epistles)
+- [Epistulae Morales ad Lucilium](/testi/seneca/the_moral_epistles)

@@ -10,7 +10,7 @@ axis: "time_and_death"
 contro:
   - "historicity"
   - "brevity_of_life"
-work_count: 0
+work_count: 1
 tags:
   - "graph/position"
 title: "eternità"
@@ -23,4 +23,7 @@ Posizione sull'asse [Tempo e morte](/axes/time_and_death).
 
 **Contro:** [storicità](/positions/historicity), [brevità della vita](/positions/brevity_of_life)
 
-## Opere (0)
+## Opere (1)
+
+**Plato**
+- [PHAEDO](/testi/plato/phaedo)

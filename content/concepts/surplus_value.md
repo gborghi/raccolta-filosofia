@@ -7,7 +7,7 @@ aliases:
   - "Mehrwert"
   - "sfruttamento"
   - "exploitation"
-work_count: 1
+work_count: 3
 tags:
   - "graph/concept"
 title: "plusvalore"
@@ -16,7 +16,9 @@ title: "plusvalore"
 
 *surplus value*
 
-## Opere (1)
+## Opere (3)
 
 **Marx**
 - [CAPITAL](/testi/marx/capital)
+- [Das Kapital II](/testi/marx/das_kapital_ii)
+- [Das Kapital III](/testi/marx/das_kapital_iii)

@@ -10,7 +10,7 @@ axis: "political_legitimacy"
 contro:
   - "social_contract"
   - "class_conflict"
-work_count: 0
+work_count: 1
 tags:
   - "graph/position"
 title: "autorità tradizionale"
@@ -23,4 +23,7 @@ Posizione sull'asse [Legittimità del potere](/axes/political_legitimacy).
 
 **Contro:** [contratto sociale](/positions/social_contract), [conflitto di classe](/positions/class_conflict)
 
-## Opere (0)
+## Opere (1)
+
+**Ortega y Gasset**
+- [Caracterización de la monarquía](/testi/ortega-y-gasset/caracterización_de_la_monarquía)

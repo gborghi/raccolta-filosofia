@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> English verse translation (Leonard) of De rerum natura: the same Epicurean didactic poem on atomism, freedom (the clinamen), the soul's mortality, and overcoming the fear of death and the gods.
+> William Ellery Leonard's English verse translation of the complete De rerum natura. Renders in poetic form atomism, the void and the clinamen, the mortality of the soul, and the Epicurean release from religious superstition toward ataraxia.
 
 <p class="work-source">Traduzione di William Ellery Leonard · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -86,7 +86,7 @@ Which I presume on Nature to compose
 
 For Memmius mine, whom thou hast willed to be
 
-Peerless in every [grace](/concepts/grace) at every hour —
+Peerless in every grace at every hour —
 
 Wherefore indeed, Divine one, give my words
 
@@ -392,7 +392,7 @@ Nor would the same fruits keep their olden trees,
 
 But each might grow from any stock or limb
 
-By chance and change. Indeed, and were there not
+By [chance](/concepts/fortune) and change. Indeed, and were there not
 
 For each its procreant atoms, could things have
 
@@ -488,7 +488,7 @@ Is fixed forevermore? Lastly we see
 
 How far the tilled surpass the fields untilled
 
-And to the labour of our hands return
+And to the [labour](/concepts/labour) of our hands return
 
 Their more abounding crops; there are indeed
 
@@ -1048,7 +1048,7 @@ Under our senses, nor be seized and seen
 
 By any man through reasonings of mind.
 
-Name o’er creation with what names thou wilt,
+Name o’er creation with what [names](/positions/nominalism) thou wilt,
 
 Thou’lt find but properties of those first twain,
 
@@ -1346,7 +1346,7 @@ It ill accords that thus they could remain
 
 Vexed through the ages (as indeed they are)
 
-By the innumerable blows of chance.
+By the innumerable blows of [chance](/concepts/fortune).
 
 So in our programme of creation, mark
 
@@ -2274,7 +2274,7 @@ Soft-speaking and Pierian, and, as ‘twere,
 
 To touch it with sweet honey of the Muse —
 
-If by such method haply I might hold
+If by such [method](/axes/method) haply I might hold
 
 The mind of thee upon these lines of ours,
 
@@ -2376,7 +2376,7 @@ That nowhere can a world’s-end be, and that
 
 <span class="atom-split" data-atom="007" data-title="BOOK I (7/7)" data-chapter="BOOK I" data-kind="atom"></span>
 
-The chance for further flight prolongs forever
+The [chance](/concepts/fortune) for further flight prolongs forever
 
 The flight itself. Besides, were all the space
 
@@ -5078,7 +5078,7 @@ By mere conglomeration each with each
 
 Can still beget not anything of new.
 
-But if by chance they lose, inside a body,
+But if by [chance](/concepts/fortune) they lose, inside a body,
 
 Their own sense and another sense take on,
 
@@ -5742,7 +5742,7 @@ Barely avail for tilling of the fields,
 
 So niggardly they grudge our harvestings,
 
-So much increase our labour. Now to-day
+So much increase our [labour](/concepts/labour). Now to-day
 
 The aged ploughman, shaking of his head,
 
@@ -6528,7 +6528,7 @@ The varied natures and resulting habits
 
 Of humankind — of which not now can I
 
-Expound the hidden causes, nor find names
+Expound the hidden causes, nor find [names](/positions/nominalism)
 
 Enough for all the divers shapes of those
 
@@ -6996,7 +6996,7 @@ Thus, since within the body itself of man
 
 The mind and soul are by such great diseases
 
-Shaken, so miserably in labour distraught,
+Shaken, so miserably in [labour](/concepts/labour) distraught,
 
 Why, then, believe that in the open air,
 
@@ -7336,7 +7336,7 @@ All remnants of the soul. Nay, once again:
 
 If, when a serpent’s darting forth its tongue,
 
-And lashing its tail, thou gettest chance to hew
+And lashing its tail, thou gettest [chance](/concepts/fortune) to hew
 
 With axe its length of trunk to many parts,
 
@@ -8118,7 +8118,7 @@ Will perish foully and fall out in vain?
 
 O why not rather make an end of life,
 
-Of labour? For all I may devise or find
+Of [labour](/concepts/labour)? For all I may devise or find
 
 To pleasure thee is nothing: all things are
 
@@ -8166,7 +8166,7 @@ Sated and laden with the goodly feast.
 
 But now yield all that’s alien to thine age, —
 
-Up, with good [grace](/concepts/grace)! make room for sons: thou must.”
+Up, with good grace! make room for sons: thou must.”
 
 Justly, I fancy, would she reason thus,
 
@@ -8224,7 +8224,7 @@ But, rather, in life an empty dread of Gods
 
 Urges mortality, and each one fears
 
-Such fall of fortune as may chance to him.
+Such fall of fortune as may [chance](/concepts/fortune) to him.
 
 Nor eat the vultures into Tityus
 
@@ -8484,7 +8484,7 @@ Grips us agape. And doubtful ’tis what fortune
 
 The future times may carry, or what be
 
-That chance may bring, or what the issue next
+That [chance](/concepts/fortune) may bring, or what the issue next
 
 Awaiting us. Nor by prolonging life
 
@@ -8572,7 +8572,7 @@ Soft-speaking and Pierian, and, as ‘twere,
 
 To touch it with sweet honey of the Muse —
 
-If by such method haply I might hold
+If by such [method](/axes/method) haply I might hold
 
 The mind of thee upon these lines of ours,
 
@@ -9136,7 +9136,7 @@ With form and hue. And just how far from us
 
 Each thing may be away, the image yields
 
-To us the power to see and chance to tell:
+To us the power to see and [chance](/concepts/fortune) to tell:
 
 For when ’tis sent, at once it shoves ahead
 
@@ -10364,7 +10364,7 @@ Easily into all the winds of air; —
 
 And first, because from deep inside the thing
 
-It is discharged with labour (for the fact
+It is discharged with [labour](/concepts/labour) (for the fact
 
 That every object, when ’tis shivered, ground,
 
@@ -10448,7 +10448,7 @@ That phantom gendered, since no breed of beast
 
 Like him was ever; but, when images
 
-Of horse and man by chance have come together,
+Of horse and man by [chance](/concepts/fortune) have come together,
 
 They easily cohere, as aforesaid,
 
@@ -11492,7 +11492,7 @@ Or of the Cean isle. And banquets, set
 
 With rarest cloth and viands, are prepared —
 
-And games of chance, and many a drinking cup,
+And games of [chance](/concepts/fortune), and many a drinking cup,
 
 And unguents, crowns and garlands. All in vain,
 
@@ -11750,7 +11750,7 @@ In many modes, which, starting with the stock,
 
 Sire handeth down to son, himself a sire;
 
-Whence Venus by a variable chance
+Whence Venus by a variable [chance](/concepts/fortune)
 
 Engenders shapes, and diversely brings back
 
@@ -11906,7 +11906,7 @@ It happens — and through no divinity
 
 Nor arrows of Venus — that a sorry chit
 
-Of scanty [grace](/concepts/grace) will be beloved by man;
+Of scanty grace will be beloved by man;
 
 For sometimes she herself by very deeds,
 
@@ -14942,7 +14942,7 @@ As strongholds and asylums for themselves,
 
 And flocks and fields to portion for each man
 
-After the beauty, strength, and sense of each —
+After the [beauty](/concepts/beauty), strength, and sense of each —
 
 For beauty then imported much, and strength
 
@@ -15086,7 +15086,7 @@ But nature ’twas
 
 Urged men to utter various sounds of tongue
 
-And need and use did mould the names of things,
+And need and use did mould the [names](/positions/nominalism) of things,
 
 About in same wise as the lack-speech years
 
@@ -15122,7 +15122,7 @@ A fluttering assistance. Thus, to think
 
 That in those days some man apportioned round
 
-To things their names, and that from him men learned
+To things their [names](/positions/nominalism), and that from him men learned
 
 Their first nomenclature, is foolery.
 
@@ -15560,7 +15560,7 @@ But vainly — since their over-mastered power
 
 Would soon give way, unable to endure,
 
-Like copper, such hard labour. In those days
+Like copper, such hard [labour](/concepts/labour). In those days
 
 Copper it was that was the thing of price;
 
@@ -16144,7 +16144,7 @@ And what of ills in all affairs of mortals
 
 Upsprang and flitted deviously about
 
-(Whether by chance or force), since nature thus
+(Whether by [chance](/concepts/fortune) or force), since nature thus
 
 Had destined; and from out what gates a man
 
@@ -19206,7 +19206,7 @@ Are noxious; ’tis a variable air
 
 That causes this. Thus when an atmosphere,
 
-Alien by chance to us, begins to heave,
+Alien by [chance](/concepts/fortune) to us, begins to heave,
 
 And noxious airs begin to crawl along,
 

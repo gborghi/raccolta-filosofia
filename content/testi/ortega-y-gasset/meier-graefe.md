@@ -1,0 +1,33 @@
+---
+title: "Meier-Graefe"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> A piece on the art critic Julius Meier-Graefe, an occasion to attack imperial Germany as a 'factory of falsifications': there is an imperialist science, music and painting, and German conservatives are right to fear impressionism, because in seeking the truth of one element of a culture one risks finding the truth of all the rest. Art criticism and political polemic.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/meier-graefe" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Meier-Graefe" data-chapter="" data-kind="intro"></span>
+
+La sensibilidad política de las naciones cultas es tan aguda que, al rozar, a lo mejor, cosas muy remotas aparentemente de los negocios gubernamentales, se solivianta y estremece. Algo de esto ocurre en Alemania, donde no sólo el gran rebaño filisteo, sino también muchos sabios y artistas, miran al impresionismo pictórico como a un enemigo de la patria. Muestra semejante fenómeno el vicio nacionalista de la intolerancia: en este sentido merece, como todo nacionalismo, exquisito desprecio. Mas, por otra parte, es síntoma de una cultura todavía robusta, vivida e integral, de una visión del mundo compacta y tan elástica, que a la menor conmoción de uno de sus extremos se propaga por toda ella galvanizándola. Y efectivamente, no andan desorientados los filisteos cuando acusan al impresionismo de disolvente, de corruptor de las sustancias imperialistas que dan una cohesión antihistórica, violenta, al vario enjambre de pueblos germánicos. El Imperio alemán, como esas viviendas lacustres asentadas sobre el légamo enfermizo y movible, está construido sobre lo culturalmente falso. La labor educativa alemana es hoy —¡no hablo de ayer!— una fábrica de falsificaciones. Desde los jardines de la infancia hasta los seminarios de las Universidades hállase montada una gigantesca industria para falsificar hombres y convertirlos en servidores del Imperio. Hay una ciencia imperialista, una música nacionalista, una literatura celestina, una pintura idealizante y enervadora que operan sin descanso sobre la economía espiritual de los alemanes y han logrado embotar los rudos instintos de veracidad que caracterizan la acción histórica de aquella otra raza bárbara, es decir, nueva, y aún no cómplice, cuya rápida victoria fue una irrupción de virtudes inéditas.
+
+Es tan grande la solidaridad que existe entre los elementos de la cultura, que buscando la verdad de uno de ellos, se corre el peligro de hallar la de todos los demás. Por eso saben muy bien los conservadores alemanes que si se fomenta la pintura verista —cuya fórmula acaso excesiva, incontinente y mística es el impresionismo— no tardará mucho en descubrirse la verdad moral sobre las páginas de los libros y en votarse la verdad política en los comicios. Véase de qué manera este inocente ejercicio de pintar unas manzanas o unas patatas según Dios las crió —como hizo Cézanne treinta años seguidos un día tras otro— puede abrir la primera brecha en la muralla de falsificaciones, dentro de la cual se ha hecho fuerte el más fuerte Imperio actual.
+
+Pero frente a esta Alemania de hoy está la otra Alemania, la de ayer y de mañana, la de siempre. Y esta Alemania no muere; si muriera, fenecerían a la par las únicas posibilidades que quedan sobre Europa de un futuro digno de ser vivido. La tradición de Leibniz, Herder, Kant y Virchow sigue fluyendo so la tierra imperializada, violentada, y encuentra siempre manadero en hombres entusiastas que os serán señalados, si allá vais, como hombres peligrosos, enemigos de la Constitución.
+
+En estos días ha pasado por Madrid un alemán de este estilo: Julius Meier-Graefe, crítico de pintura, impresionista exacerbado y, por tanto, ciudadano díscolo y temible. En la briosa cruzada que comienza a levantarse en Alemania para defender la verdad artística lleva Meier-Graefe una pica de vanguardia. Y ha sido tan osado, que hace cuatro o cinco años publicó un libro, El [caso](/concepts/fortune) Boecklin, donde se maldecía descaradamente del pintor más famoso entre los que han favorecido la mentira imperial. ¡Boecklin! ¡Nombre sagrado para las muchachas alemanas! Ante sus cuadros dulces, ingeniosos, pintados, más que con sus colores, con ideas generales, con blandos lugares comunes espumados del hervor romántico, las doncellitas bárbaras, de carnes tan blancas y tan quietas, de almas góticas y hacendosas, que llevan miel sobre las pestañas y una abeja en el corazón, se han conmovido suavemente y han soñado otro mundo más vago, más fácil, más lleno de casualidades que el verdadero, un mundo, en fin, donde reine perennemente el feudalismo. ¿Qué otro arte puede placer a estas criaturitas de nervios inexpertos y que no han pasado de un erotismo elemental? El imperialismo alemán usa de los cien metros cuadrados de tela que haya podido pintar Boecklin, como de una pantalla que intercepta la visión de la vida real, terriblemente precisa y sin equívocos, «de este valle de lágrimas —según decía Sancho—, de este mal mundo que tenemos, adonde apenas se halla cosa que esté sin mezcla de maldad, embuste y bellaquería», de este reino del hambre y del hartura, de la frivolidad y la desesperación, que cuanto peor sea más tendrá que arreglar, y más graves convulsiones serán forzosas para enmendarlo. Porque a la postre, lector, son los cuadros de Boecklin una enorme pantalla con que se intenta tapar el [socialismo](/schools/historical_materialism_school).
+
+No quería hoy hacer otra cosa, sino enviar un saludo agradecido a Meier-Graefe, que tan discretas cosas ha dicho sobre el impresionismo de nuestros viejos pintores. Tenemos en la confusión de nuestros Museos y en la lobreguez de claustros y capillas las más hondas enseñanzas de veracidad estética que acaso haya en Europa. Los grandes pintores del siglo XIX han venido a aprender a estas escuelas de naturalidad, y tornando a sus patrias han abierto una nueva era en la pintura. Manet —ha dicho Meier-Graefe— enseña al hombre actual lo que hay en Velázquez de perenne. Cézanne sirve como una introducción al Greco. Es lástima que no se haya intentado en España una Exposición retrospectiva de la pintura extranjera en el siglo pasado. Y es lástima, asimismo, que ninguna casa editorial emprenda una traducción de la «Evolución del arte moderno», obra capital de Meier-Graefe.
+
+El Imparcial, 19 de julio de 1908

@@ -1,0 +1,39 @@
+---
+title: "Comienza la deshumanización del arte"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> Behind the multiplicity of directions in young art Ortega seeks the common ground — "different things differ in what they resemble", as Aristotle taught — and finds it in the tendency to dehumanise art. Comparing an 1860 canvas with a recent one: the earlier painter first of all secured resemblance, whereas the new painter is not missing his target but deliberately going against reality, burning the bridges to our habitual world and forcing us to invent unprecedented acts — which are artistic understanding and enjoyment.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/comienza_la_deshumanización_del_arte" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Comienza la deshumanización del arte" data-chapter="" data-kind="intro"></span>
+
+Con rapidez vertiginosa el arte joven se ha disociado en una muchedumbre de direcciones e intentos divergentes. Nada es más fácil que subrayar las diferencias entre unas producciones y otras. Pero esta acentuación de lo diferencial y específico resultará vacía si antes no se determina el fondo común que variamente, a veces contradictoriamente, en todas se afirma. Ya enseñaba nuestro buen viejo Aristóteles que las cosas diferentes se diferencian en lo que se asemejan, es decir, en cierto carácter común. Porque los cuerpos tienen todos color, advertimos que los unos tienen color diferente de los otros. Las especies son precisamente especificaciones de un género, y sólo las entendemos cuando las vemos modular en formas diversas su común patrimonio.
+
+Las direcciones particulares del arte joven me interesan mediocremente, y salvando algunas excepciones, me interesa todavía menos cada obra en singular. Pero a su vez, esta valoración mía de los nuevos productos artísticos no debe interesar a nadie. Los escritores que reducen su inspiración a expresar su estima o desestima por las obras de arte no debían escribir. No sirven para este arduo menester. Como Clarín decía de unos torpes dramaturgos, fuera mejor que dedicasen su esfuerzo a otras faenas; por ejemplo, a fundar una familia. ¿Que la tienen? Pues que funden otra.
+
+Lo importante es que existe en el mundo el hecho indubitable de una nueva sensibilidad estética[95]. Frente a la pluralidad de direcciones especiales y de obras individuales, esa sensibilidad representa lo genérico y como el manantial de aquéllas. Esto es lo que parece de algún interés definir.
+
+Y buscando la nota más genérica y característica de la nueva producción encuentro la tendencia a deshumanizar el arte. El párrafo anterior proporciona a esta fórmula cierta precisión.
+
+Si al comparar un cuadro a la manera nueva con otro de 1860 seguimos el orden más sencillo, empezaremos por confrontar los objetos que en uno y otro están representados, tal vez un hombre, una casa, una montaña. Pronto se advierte que el artista de 1860 se ha propuesto ante todo que los objetos en su cuadro tengan el mismo aire y aspecto que tienen fuera de él, cuando forman parte de la realidad vivida o humana. Es posible que, además de esto, el artista de 1860 se proponga muchas otras complicaciones estéticas; pero lo importante es notar que ha comenzado por asegurar ese parecido. Hombre, casa y montaña son, al punto, reconocidos: son nuestros viejos amigos habituales. Por el contrario, en el cuadro reciente nos cuesta trabajo reconocerlos. El espectador piensa que tal vez el pintor no ha sabido conseguir el parecido. Mas también el cuadro de 1860 puede estar «mal pintado», es decir, que entre los objetos del cuadro y esos mismos objetos fuera de él, exista una gran distancia, una importante divergencia. Sin embargo, cualquiera que sea la distancia, los errores del artista tradicional señalan hacia el objeto «humano», son caídas en el camino hacia él y equivalen al «Esto es un gallo» con que el Orbaneja cervantino orientaba a su público. En el cuadro reciente acaece todo lo contrario: no es que el pintor yerre, y que sus desviaciones del «natural» (natural = humano) no alcancen a éste, es que señalan hacia un camino opuesto al que puede conducirnos hasta el objeto humano.
+
+Lejos de ir el pintor más o menos torpemente hacia la realidad, se ve que ha ido contra ella. Se ha propuesto denodadamente deformarla, romper su aspecto humano, deshumanizarla. Con las cosas representadas en el cuadro tradicional podríamos ilusoriamente convivir. De la Gioconda se han enamorado muchos ingleses. Con las cosas representadas en el cuadro nuevo es imposible la convivencia: al extirparles su aspecto de realidad vivida, el pintor ha cortado el puente y quemado las naves que podían transportarnos a nuestro mundo habitual. Nos deja encerrados en un universo abstruso, nos fuerza a tratar con objetos con los que no cabe tratar humanamente. Tenemos, pues, que improvisar otra forma de trato por completo distinto del usual vivir las cosas; hemos de crear e inventar actos inéditos que sean adecuados a aquellas figuras insólitas. Esta nueva vida, esta vida inventada previa anulación de la espontánea, es precisamente la comprensión y el goce artísticos. No faltan en ella sentimientos y pasiones, pero evidentemente estas pasiones y sentimientos pertenecen a una flora psíquica muy distinta de la que cubre los paisajes de nuestra vida primaria y humana. Son emociones secundarias que en nuestro artista interior provocan esos ultra-objetos[96]. Son sentimientos específicamente estéticos.
+
+Se dirá que para tal resultado fuera más simple prescindir totalmente de esas formas humanas —hombre, casa, montaña— y construir figuras del todo originales. Pero esto es, en primer lugar, impracticable[97]. Tal vez en la más abstracta línea ornamental vibra larvada una tenaz reminiscencia de ciertas formas «naturales». En segundo lugar —y ésta es la razón más importante—, el arte de que hablamos no es sólo inhumano por no contener cosas humanas, sino que consiste activamente en esa operación de deshumanizar. En su fuga de lo humano no le importa tanto el término ad quem, la fauna heteróclita a que llega, como el término a quo, el aspecto humano que destruye. No se trata de pintar algo que sea por completo distinto de un hombre, o casa, o montaña, sino de pintar un hombre que se parezca lo menos posible a un hombre, una casa que conserve de tal lo estrictamente necesario para que asistamos a su metamorfosis, un cono que ha salido milagrosamente de lo que era antes una montaña, como la serpiente sale de su camisa. El placer estético para el artista nuevo emana de ese triunfo sobre lo humano; por eso es preciso concretar la victoria y presentar en cada [caso](/concepts/fortune) la víctima estrangulada.
+
+Cree el vulgo que es cosa fácil huir de la realidad, cuando es lo más difícil del mundo. Es fácil decir o pintar una cosa que carezca por completo de sentido, que sea ininteligible o nula: bastará con enfilar palabras sin nexo[98], o trazar rayas al azar. Pero lograr construir algo que no sea copia de lo «natural», y que, sin embargo, posea alguna sustantividad, implica el don más [sublime](/concepts/sublime).
+
+La «realidad» acecha constantemente al artista para impedir su evasión. ¡Cuánta astucia supone la fuga genial! Ha de ser un Ulises al revés, que se liberta de su Penélope cotidiana y entre escollos navega hacia el brujerío de Circe. Cuando logra escapar un momento a la perpetua asechanza no llevemos a mal en el artista un gesto de soberbia, un breve gesto a lo San Jorge, con el dragón yugulado a los pies.

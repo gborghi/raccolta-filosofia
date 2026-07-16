@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> Tragedy of Oedipus who, despite every effort to escape the oracle, fulfills its prophecy; it explores the inescapable power of fate over human action.
+> Tragedy of Oedipus, king of Thebes, who in trying to escape the oracle commits the very parricide and incest foretold: fate is fulfilled inexorably and the plague reveals his guilt. Exalted power lies exposed to fortune.
 
 <p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
 
@@ -56,7 +56,7 @@ OEDIPUS
 
 [1] Now night is driven away; the hesitant sun returns, and rises, sadly veiling his beams in murky cloud; with woeful flame he brings a light of gloom and will look forth upon our homes stricken with ravening plague, and day will reveal the havoc which night has wrought.
 
-[6] Does any man rejoice in royalty? O deceitful good, how many ills dost hide beneath thy smiling face! As lofty peaks do ever catch the blasts, and as the cliff, which with its jutting rocks cleaves the vast deep, is beaten by the waves of even a quiet sea, so does exalted empire lie exposed to fate. How happily had I escaped the sceptre of my father, Polybus! An exile freed from cares, fearless, wandering, upon a kingdom (be heaven and the gods my witness) I came by chance. Things unspeakable I fear – that by my hand my father shall be slain. Of this the Delphic laurels warn me, and another, still greater crime they assign to me. Is any wickedness greater than a murdered sire? O hapless filial love! – I am ashamed to tell my doom – Phoebus threatens the son with his father’s chamber, with bed made infamous, defiled by unhallowed passion. ’Twas the fear of this that drove me from my father’s realm. Not as a fugitive did I leave my home; of my own will, distrustful of myself, O Nature, I made thy laws secure. When thou dreadest some great calamity, though thou thinkst it cannot befall, still do thou fear. I dread all things exceedingly, and I do not trust myself unto myself.
+[6] Does any man rejoice in royalty? O deceitful good, how many ills dost hide beneath thy smiling face! As lofty peaks do ever catch the blasts, and as the cliff, which with its jutting rocks cleaves the vast deep, is beaten by the waves of even a quiet sea, so does exalted empire lie exposed to fate. How happily had I escaped the sceptre of my father, Polybus! An exile freed from cares, fearless, wandering, upon a kingdom (be heaven and the gods my witness) I came by [chance](/concepts/fortune). Things unspeakable I fear – that by my hand my father shall be slain. Of this the Delphic laurels warn me, and another, still greater crime they assign to me. Is any wickedness greater than a murdered sire? O hapless filial love! – I am ashamed to tell my doom – Phoebus threatens the son with his father’s chamber, with bed made infamous, defiled by unhallowed passion. ’Twas the fear of this that drove me from my father’s realm. Not as a fugitive did I leave my home; of my own will, distrustful of myself, O Nature, I made thy laws secure. When thou dreadest some great calamity, though thou thinkst it cannot befall, still do thou fear. I dread all things exceedingly, and I do not trust myself unto myself.
 
 [28] Now, even now the fates were aiming some blow at me; for what am I to think when this pestilence, so deadly to Cadmus’ race, so widespread in its destruction, spares me along? For what evil am I reserved? Midst the ruins of my city, midst funerals to be lamented with tears ever fresh, midst the slaughter of a nation, I stand unscathed – aye! Prisoner at Phoebus’ bar. Couldst thou hope that to crimes like thine a wholesome kingdom would be granted? I have made heaven pestilent.
 
@@ -134,7 +134,7 @@ CREON
 
 OEDIPUS
 
-[221] And who was the murderer of the illustrious king? Tell whom Phoebus names, that he may pay the penalty.
+[221] And who was the murderer of the illustrious king? Tell whom Phoebus [names](/positions/nominalism), that he may pay the penalty.
 
 CREON
 
@@ -170,7 +170,7 @@ CREON
 
 OEDIPUS
 
-[247] Now at Heaven’s command let the crime be expiated. Whoever of the gods dost look with favour upon kingdoms – thou, thou whose are the laws of the swift-revolving heavens; and thou, greatest glory of the unclouded sky, who presidest over the twelve signs in thy changing course, who doest unroll the slow centuries with swift wheel; and thou, his sister, ever faring opposite to thy brother, Phoebe, night-wanderer; thou whom the winds obey, who over the level deep dost speed thy azure care; and thou who dost allot homes devoid of light – do ye all attend: Him by whose hand Laïus fell may no peaceful dwelling, no friendly household gods, no hospitable land in exile entertain; over shameful nuptials may he lament and impious progeny; may he, too, slay his own father with his own hand and do – can aught heavier be entreated? – whatever I have fled from. There shall be no place for pardon. I swear by the sway which I now, a stranger, bear, and by that which I abandoned; by my household gods; by thee, O father Neptune, who in double stream dost play against my shores on either side with scanty waves. And do thou thyself come as witness to my words, thou who doest inspire the fate-speaking lips of Cirrha’s priestess: So may my father spend peaceful age and end his days secure on his lofty throne; so may Merope know the nuptial torches of her Polybus alone, as by no [grace](/concepts/grace) shall the guilty one escape my hand.
+[247] Now at Heaven’s command let the crime be expiated. Whoever of the gods dost look with favour upon kingdoms – thou, thou whose are the laws of the swift-revolving heavens; and thou, greatest glory of the unclouded sky, who presidest over the twelve signs in thy changing course, who doest unroll the slow centuries with swift wheel; and thou, his sister, ever faring opposite to thy brother, Phoebe, night-wanderer; thou whom the winds obey, who over the level deep dost speed thy azure care; and thou who dost allot homes devoid of light – do ye all attend: Him by whose hand Laïus fell may no peaceful dwelling, no friendly household gods, no hospitable land in exile entertain; over shameful nuptials may he lament and impious progeny; may he, too, slay his own father with his own hand and do – can aught heavier be entreated? – whatever I have fled from. There shall be no place for pardon. I swear by the sway which I now, a stranger, bear, and by that which I abandoned; by my household gods; by thee, O father Neptune, who in double stream dost play against my shores on either side with scanty waves. And do thou thyself come as witness to my words, thou who doest inspire the fate-speaking lips of Cirrha’s priestess: So may my father spend peaceful age and end his days secure on his lofty throne; so may Merope know the nuptial torches of her Polybus alone, as by no grace shall the guilty one escape my hand.
 
 [274] But tell me, where was the impious crime committed? Did he die in open battle or by treachery?
 
@@ -382,7 +382,7 @@ CREON
 
 [619] At length, when often called, one lifts his shame-stricken head and, shrinking afar from all the throng, seeks to hide himself. The seer presses hard after him and redoubles his Stygian prayers, until he bring out to open view the features that fain would hide – Laïus! I shudder as I tell it. There he stood, a sight of horror, his limbs streaming o’er with blood, his ragged locks matted with foul filth; and with raving lips he spoke: “O savage house of Cadmus, rejoicing even in kindred blood, brandish the thyrsus, with frenzied hands rend thy sons – ‘twere better so; for Thebes’ crowning crime is – the love of mother. O fatherland, not by the wrath of Heaven, but by sin art thou despoiled. ’Tis not the plague-fraught south wind with its destructive blast, nor yet the earth, too little watered by the rain from heaven, that with its dry breath is harming thee; but thy blood-stained king, who as the price of cruel murder has seized the sceptre and the incestuous chamber of his sire, detested son! – but worse the mother than the son, again pregnant in her unhallowed womb; and to his own origin he returned and brought his mother impious progeny, and (a thing the beasts scarce do) himself begot brothers to himself – entanglement of evil, a monster more confused than his own Sphinx. Thee, thee, who in thy blood-stained hand dost hold the sceptre, thee and thy whole city will I, thy father, still unavenged, pursue; and with me Erinys as bridesmaid of thy nuptials will I bring, yea, I will bring her sounding with her lash; thine incestuous house will I overturn and thy household with unnatural strife will I destroy.
 
-[647] “Wherefore speedily expel ye the king from out your borders, in exile drive him to any place so-ever with his baleful step. Let him leave the land; then, blooming with flowers of spring, shall it renew its verdure, the life-giving air shall give pure breath again, and their beauty shall come back to the woods; Ruin and Pestilence, Death, Suffering, Corruption and Distress, fit company for him, shall all depart together. And he himself with hastening steps shall long to flee our kingdom, but I will set wearisome delays before his feet and hold him back. He shall creep, uncertain of his way, with the staff of age groping out his gloomy way. Rob ye him of the earth; his father will take from him the sky.”
+[647] “Wherefore speedily expel ye the king from out your borders, in exile drive him to any place so-ever with his baleful step. Let him leave the land; then, blooming with flowers of spring, shall it renew its verdure, the life-giving air shall give pure breath again, and their [beauty](/concepts/beauty) shall come back to the woods; Ruin and Pestilence, Death, Suffering, Corruption and Distress, fit company for him, shall all depart together. And he himself with hastening steps shall long to flee our kingdom, but I will set wearisome delays before his feet and hold him back. He shall creep, uncertain of his way, with the staff of age groping out his gloomy way. Rob ye him of the earth; his father will take from him the sky.”
 
 OEDIPUS
 
@@ -590,7 +590,7 @@ OLD MAN
 
 OEDIPUS
 
-[809] What chance brought thee within that wood?
+[809] What [chance](/concepts/fortune) brought thee within that wood?
 
 OLD MAN
 
@@ -794,11 +794,11 @@ JOCASTA
 
 OEDIPUS
 
-[1020] Now spare thy words, mother, spare my ears, by these remnants of my mangled body, I beseech thee, by the unhallowed offspring of my blood, by all that in our names is right and wrong.
+[1020] Now spare thy words, mother, spare my ears, by these remnants of my mangled body, I beseech thee, by the unhallowed offspring of my blood, by all that in our [names](/positions/nominalism) is right and wrong.
 
 JOCASTA
 
-[1024] Why art benumbed, my soul? Since thou hast shared his guilt, why dost refuse to share his punishment? Through thee, incestuous one, all [grace](/concepts/grace) of human law has been confused and lost. Die then, and let out thy impious spirit with the sword. Not if the father of the gods himself, shaking the universe, with deadly hand should hurl his glittering bolts at me, could I ever pay penalty equal to my crimes – I, a mother accurst. Death is my darling wish; let the way of death be sought.
+[1024] Why art benumbed, my soul? Since thou hast shared his guilt, why dost refuse to share his punishment? Through thee, incestuous one, all grace of [human law](/concepts/human_law) has been confused and lost. Die then, and let out thy impious spirit with the sword. Not if the father of the gods himself, shaking the universe, with deadly hand should hurl his glittering bolts at me, could I ever pay penalty equal to my crimes – I, a mother accurst. Death is my darling wish; let the way of death be sought.
 
 [1032] [To OEDIPUS.] Come, lend thy hand against thy mother, if thou art parricide; this lacks to crown thy work.
 

@@ -7,7 +7,7 @@ aliases:
   - "Kant"
   - "Fichte"
   - "Hegel"
-work_count: 24
+work_count: 23
 tags:
   - "graph/school"
 title: "idealismo tedesco"
@@ -16,7 +16,7 @@ title: "idealismo tedesco"
 
 *German idealism*
 
-## Opere (24)
+## Opere (23)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
@@ -29,19 +29,22 @@ title: "idealismo tedesco"
 - [The Philosophy of History](/testi/hegel/the_philosophy_of_history)
 
 **Kant**
-- [AN ANSWER TO THE QUESTION: “WHAT IS ENLIGHTENMENT?”](/testi/kant/an_answer_to_the_question_what_is_enlightenment)
 - [CRITIQUE OF JUDGEMENT](/testi/kant/critique_of_judgement)
 - [CRITIQUE OF PRACTICAL REASON](/testi/kant/critique_of_practical_reason)
 - [CRITIQUE OF PURE REASON](/testi/kant/critique_of_pure_reason)
 - [DISSERTATION ON THE FORM AND PRINCIPLES OF THE SENSIBLE AND THE INTELLIGIBLE WORLD: INAUGURAL DISSERTATION 1770](/testi/kant/dissertation_on_the_form_and_principles_of_the_sensible_and_the_intelligible_world_inaugural_dissertation_1770)
-- [DREAMS OF A SPIRIT-SEER](/testi/kant/dreams_of_a_spirit-seer)
 - [FUNDAMENTAL PRINCIPLES OF THE METAPHYSIC OF MORALS](/testi/kant/fundamental_principles_of_the_metaphysic_of_morals)
-- [IDEA FOR A UNIVERSAL HISTORY WITH A COSMOPOLITAN PURPOSE](/testi/kant/idea_for_a_universal_history_with_a_cosmopolitan_purpose)
 - [METAPHYSICAL FOUNDATIONS OF NATURAL SCIENCE](/testi/kant/metaphysical_foundations_of_natural_science)
 - [METAPHYSICS OF MORALS: THE PHILOSOPHY OF LAW](/testi/kant/metaphysics_of_morals_the_philosophy_of_law)
-- [OF THE INJUSTICE OF COUNTERFEITING BOOKS](/testi/kant/of_the_injustice_of_counterfeiting_books)
-- [ON EDUCATION](/testi/kant/on_education)
-- [PERPETUAL PEACE](/testi/kant/perpetual_peace)
 - [PROLEGOMENA TO ANY FUTURE METAPHYSICS THAT WILL BE ABLE TO PRESENT ITSELF AS A SCIENCE](/testi/kant/prolegomena_to_any_future_metaphysics_that_will_be_able_to_present_itself_as_a_science)
-- [RELIGION WITHIN THE BOUNDS OF BARE REASON](/testi/kant/religion_within_the_bounds_of_bare_reason)
-- [UNIVERSAL NATURAL HISTORY AND THEORY OF HEAVEN](/testi/kant/universal_natural_history_and_theory_of_heaven)
+
+**Marx**
+- [THE HOLY FAMILY, 1845](/testi/marx/the_holy_family_1845)
+- [Zur Kritik der Hegelschen Rechtsphilosophie](/testi/marx/zur_kritik_der_hegelschen_rechtsphilosophie)
+
+**Ortega y Gasset**
+- [El coraje, Sancho Panza y Fichte](/testi/ortega-y-gasset/el_coraje_sancho_panza_y_fichte)
+- [En el centenario de Hegel](/testi/ortega-y-gasset/en_el_centenario_de_hegel)
+- [Hegel y América](/testi/ortega-y-gasset/hegel_y_américa)
+- [Reflexiones de centenario (1724-1924)](/testi/ortega-y-gasset/reflexiones_de_centenario_1724-1924)
+- [Un libro sobre la filosofía del Derecho](/testi/ortega-y-gasset/un_libro_sobre_la_filosofía_del_derecho)

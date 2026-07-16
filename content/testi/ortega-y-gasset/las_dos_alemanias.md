@@ -1,0 +1,41 @@
+---
+title: "Las dos Alemanias"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> Taking the 1908 Berlin riots as his cue, Ortega argues that Germany has always lacked the capacity to form a cultural unity, and that the German trait is not to suffer from this disharmony — a defect every great German from Frederick II and Kant to Nietzsche has mocked. The occasion for reforming the vulgar concept of culture: Greece turned chaos into cosmos, the Middle Ages turned it back into chaos.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/las_dos_alemanias" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Las dos Alemanias" data-chapter="" data-kind="intro"></span>
+
+Alemania ha mostrado al través de toda su historia la incapacidad para formar una unidad cultural; esa íntima armonía, ese estilo único que da a todas las manifestaciones de un pueblo en cada época cierta homogeneidad, ha faltado siempre a la raza germánica. Las noticias que llegan de Berlín estos días nos refieren unos tumultos que, sin la advertencia de este defecto alemán, nos parecerían incomprensibles. La nación que envía al sur de Europa la corriente científica más poderosa que haya existido nunca, tiene, en 1908, que andar a tiros en las calles para adquirir el derecho al sufragio universal. Este es el tema en torno al cual quisiera urdir algunas variaciones útiles, según pienso, para fomentar lo que es en mí una idea fija, una manía opresora: la reforma del concepto que se tiene vulgarmente de cultura.
+
+Al echar de menos esta armonía social en los alemanes no he querido decir que la haya habido siempre o que exista ahora en los países llamados latinos; lo que sí afirmo es que nuestras razas, cuando han padecido de esa falta de armonía se han quejado de ella dolientemente, les ha parecido intolerable y no lograron quietud mientras tuvieron por inasequible ese ideal de unificación, de homogeneidad, de vida íntegra. Mas la característica de Alemania es precisamente no advertir esas contradicciones y desarmonías sociales, no sentirse morir de sed de unidad, tolerar dentro de sí la yuxtaposición de elementos disparatados, vivir con alegría y hasta con soberbia una vida hecha con fragmentos de vidas distintas, heterogéneas. Y esto, que por analogía con el gusto estético podríamos llamar falta de gusto político, lo han percibido, lamentado y ridiculizado con harta claridad todos los grandes germanos, desde Federico II y Kant, pasando por Goethe y Heine, hasta Schopenhauer y Nietzsche.
+
+Por otra parte, la carencia de ímpetus unificadores es lo que, frente a la Edad Antigua y Moderna, constituye la Edad Media. Por encima de aquellos siglos medios atormentados y descompuestos, busca el hombre moderno con retinas deseosas y como con sed de luminosidad los días más antiguos; el Renacimiento es un bendito trampolín que en un buen brinco nos planta en Grecia. Allí nos hallamos como en casa. La vida tiene allí una dignidad, como tiene una dignidad la vida moderna. ¿Quién es el hombre digno? El hombre de ánimo armonioso, unificado; el hombre hecho de fragmentos nos parece de poco precio. El hombre íntegro es el hombre justo; un hombre grande es un carácter, o lo que es lo mismo, un hombre de acción una y constante.
+
+Esas íntimas ansias de unidad son la emoción moderna: ellas movieron a los italianos del cinquecento a la reconquista del vellón de oro helénico. Porque los hombres de Grecia fueron unos seres de ánimo enredado que buscaron asimismo con amores de fuego la unidad, la ordenación armoniosa. Y ellos primero que nadie transformaron el mundo, que era un caos, en un Universo, en un cosmos, que quiere decir orden y buen compás. Estas ansias de unidad faltaron a la Edad Media; la irrupción de los bárbaros fue realmente una barbaridad, aunque una barbaridad útil. Estos bárbaros, al quebrar en Roma las sillas de marfil senatoriales, aquellas sillas de líneas tan sobrias, quebraron el cosmos y lo volvieron al caos. Y ya la vida no fue unidad. Y ya los pueblos no eran repúblicas o imperios de estilo único, cuya peculiaridad se repetía desde las construcciones hasta la táctica guerrera, desde la manera de plegar las vestiduras en la plaza hasta el modo de plegar las ideas abstractas en las escuelas filosóficas abiertas entre mármoles, junto a plátanos. La acción humana por excelencia es la unificación; por eso romper la unidad o no buscarla nos parece una mengua de lo humano. Y la Edad Media semeja un ejemplo que algún sabio artesano de mundos pone al hombre para que conozca en qué consiste la incultura y busque ardorosamente el progreso en aquella armonía única que el fervor religioso de Pitágoras descubría a un tiempo en los giros majestuosos de las esferas y en el temblor suave de las cuerdas de una lira.
+
+Se ha dicho de la historia de Francia que es una perenne revolución. ¿Y qué es una revolución sino el esfuerzo nervioso para restablecer la armonía política rota? Del mismo modo podría decirse que la historia alemana es una perpetua Edad Media, o lo que es lo mismo, que Alemania no ha sido jamás una sola cosa, sino varias cosas, dos por lo menos, irreductibles a una unidad superior, de contradictorios destinos y corazones que laten descompasados.
+
+Representemos esas dos Alemanias por dos figuras simbólicas, como solían representar las farsas del siglo XIV en personajes convencionales y exagerados las virtudes o los vicios de los hombres; digamos que hay una Alemania del filósofo y otra Alemania del filisteo, del burgués. En las razas del Sur, educadas por el gran maestro de pueblos, el sabio mar nuestro puesto entre tierras, esplendoroso y artista, no ha habido apenas filósofos, pero tampoco abundan los filisteos. La casta italiana, fórmula exquisita de toda la Europa meridional, ofrece el [caso](/concepts/fortune) admirable de que se pueda trazar una línea marcadora de la intensidad cultural, desde el gondolero veneciano o el vagabundo de Nápoles hasta el poeta épico y el hombre de Estado, sin solución de continuidad. En el hombre ínfimo comienza ya en oscura vibración ese mismo afecto que en el poeta ha de manar luminosidad estética; y en el bandido piamontés se inician los gestos y la táctica de un fundador de repúblicas. Como es natural, la recíproca también es exacta; el poeta no se ve libre de cierta intelectualidad plebeya y muy rara vez el político logra poner su ánimo en perfecta armonía con la moralidad ideal.
+
+La Alemania del filósofo, por el contrario, no se mezcla jamás con la Alemania del filisteo. La dualidad aquella de Federico II que ha pasado a la historia, da la ecuación simbólica: los alemanes eran sus súbditos y sus servidores, pero buscaba los amigos en París.
+
+Yo fui a Alemania para henchir de [idealismo](/positions/idealism) algunos tonelillos, y nunca olvidaré los trabajos que me costó dar con el manantial. Afortunadamente no conocemos en España nada que se asemeje a la incultura, a la vulgaridad de espíritu, a la pobreza de energías de la Alemania filistea. Desgraciadamente no tenemos ni sospecha de lo que ha traído al mundo y soporta ella sola, la Alemania del filósofo, del sabio, del pensador. Tan cierto es lo uno como lo otro y conviene que conste así.
+
+La síntesis sería inacabable. Alemania ha creado más grandes almas que el resto del mundo y, sin embargo, tengo para mí que el hombre alemán es el europeo de menos valor; se le ha comparado con sumo ingenio a la hormiga. «La Germania puesta así en medio de Europa está destinada —dice Ferrero— a ser el gran hormiguero central del mundo, del que saldrán largas procesiones de hormigas hacia todas las direcciones de la tierra; de hormigas laboriosas y no guerreras… El tudesco es el verdadero colectivista: colectivista no tanto por ideal como por carácter y naturaleza. Su fuerza individual es escasa y no es capaz de trabajar sino en grandes masas».
+
+El Imparcial, 19 de enero de 1908

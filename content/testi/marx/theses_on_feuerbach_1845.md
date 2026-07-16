@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> Eleven terse theses against Feuerbach's contemplative materialism: truth is proved in practice, not contemplation, and 'philosophers have only interpreted the world in various ways; the point, however, is to change it'.
+> Eleven theses (1845) opposing Feuerbach's contemplative materialism with revolutionary praxis: the human essence as the ensemble of social relations and the task of changing the world.
 
 <p class="work-source">Traduzione di Carl Manchester · Delphi Classics, 2000 · pubblico dominio</p>
 

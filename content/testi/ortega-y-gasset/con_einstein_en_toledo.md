@@ -1,0 +1,61 @@
+---
+title: "Con Einstein en Toledo"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> An account of Einstein's visit to Toledo, on the Alcántara bridge. Asked by the physicist why so abstract a work should interest the crowds, Ortega answers that the war was a sad one and that economics and politics have ceased to be supreme stimulants of vitality: men's faith stands vacant, and just then appears a work that dictates laws to the stars — "you are the new magus, confidant of the stars". Reportage carrying a hypothesis about the spiritual situation of the age.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/con_einstein_en_toledo" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Con Einstein en Toledo" data-chapter="" data-kind="intro"></span>
+
+En 1916 pronuncié algunas conferencias en la Facultad de Letras de Buenos Aires. Me había propuesto en ellas dibujar someramente la fisonomía de un nuevo espíritu que sobre Europa alborea. Ante todo me interesaba fijar los caracteres de la nueva manera de pensar que desde el friso secular actúa en las ciencias y las va renovando radicalmente. Con alguna reiteración aludí a la teoría de la relatividad de Einstein, ejemplo admirable del nuevo sesgo intelectual. Era entonces muy poco conocida, en rigor se hallaba todavía en período de desarrollo. Aquel mismo año 1916 publicó Einstein la exposición de su sistema generalizado. Al concluir mis conferencias decía yo al auditorio: «No tengo prisa alguna de que me deis la razón. Sólo pido que cuando en tiempo nada lejano algunas de las cosas que habéis oído por vez primera en estas conferencias resuenen por todo el mundo y celebren su consagración pública, recordéis que en esta aula y en esta fecha oísteis ya hablar de ellas».
+
+Esta grata hora porteña emergía ayer sobre el haz de mi memoria. Me hallaba con Einstein apoyado en el pretil del puente de Alcántara, junto al cual eleva Toledo su encrespamiento urbano. El viejo Tajo, río decrépito, penetraba como una espada flúida entre los flancos de piedra cenicienta que sustentan la ciudad y sus alrededores. Sobre nuestras cabezas, bajo el cielo más azul, reverberaba la ruina del castillo de San Servando. Einstein ha tenido que venir de «incógnito» a visitar Toledo. Llega del Japón, de Palestina, como antes estuvo en Francia, en Inglaterra, en Norte América. Por dondequiera que pasa las muchedumbres se densifican y se agolpan en torno a su egregia figura. Es hoy Einstein el hombre de ciencia más popular en el mundo. En medio de la desilusión universal que ha anegado el planeta, Einstein significa el [sublime](/concepts/sublime) pretexto para una fe que quiere renacer.
+
+—Yo no comprendo —me decía— esta excesiva popularidad que mi obra ha alcanzado. Nunca podía yo imaginar, mientras trabajaba en ella, que iba a escaparse de los laboratorios y de los libros de ciencia para ponerse a correr las calles. ¿Cómo se explica usted este extraño fenómeno de que una labor tan abstracta y tan puramente científica interese a las multitudes?
+
+—Yo creo, por el contrario, que es muy comprensible, señor Einstein —repuse. Es más, podía haberse predicho que si, dada la situación del espíritu universal, sobrevenía algún gran invento de alta y pura ciencia, el entusiasmo de las gentes se dispararía irremisiblemente. Ha habido guerras alegres… Porque aunque la guerra sea siempre faena ruda y cruel, se ha hecho a veces con una embriaguez de ilusión. Pero la guerra última ha sido una guerra triste. Se luchaba por cosas que ya no encendían la esperanza, que más bien fatigaban ya. La economía y la organización política de Europa habían perdido su atractivo en el fondo espiritual de los mismos que combatían por ellas. La prueba de ello es que, al final de la contienda, nadie está contento: ni vencedores ni vencidos saben hacia dónde dirigir sus afanes. Economía y política han dejado de ser para los europeos lo que fueron en el último siglo: supremos excitantes de la vitalidad. Aún hay luchas económicas, aún hay luchas políticas, pero se va a ellas forzado por la necesidad de resolver los conflictos planteados, no con el fervor de quien espera conquistar en ellas una vida más valiosa.
+
+Se halla, pues, vacante la fe de los hombres. En tal [circunstancia](/positions/life_as_project) aparece la obra de usted donde se dictan leyes a los astros, que éstos acatan. Los fenómenos astronómicos han sido siempre fenómenos religiosos para las multitudes humanas: en ellos la ciencia confina con la mitología y el genio científico que los domina adquiere un nimbo mágico. Es usted, señor Einstein, el nuevo mago, confidente de las estrellas.
+
+Miraba el genial físico la dramática situación de Toledo, que es un cerro agrio, ceñido de otros como él breñosos, crudos, estériles. No podemos ver un trozo del planeta sin pensarlo como fondo de la existencia humana y escenario de una vida afín. Por eso ante Toledo nos preguntamos: ¿qué historia, qué estilo vital pueden producir cerros semejantes? ¿Para qué sirven en el finalismo telúrico? ¿Qué fruto puede llevar un paisaje así —circo de cerros en torno a otro defendido por la hoz vertical de un río que le sirve de foso natural? Cuando los toledanos salen a pasear por sus murallas y ven las colinas inmediatas, que son una amenaza petrificada, sentirán que sus almas se ponen tensas y combadas, como arcos de ballesta prontos a expulsar la flecha defensora. De las barbacanas naturales que cercan la ciudad parecen llegar constantemente dardos enemigos, estableciéndose entre una y otras cimas un perpetuo dinamismo de ofensiva y defensiva, adormecido hoy, pero que cualquier pretexto puede despertar, disparando de nuevo su funcionamiento.
+
+Si nos detenemos en el Paseo de San Cristóbal, inclinado sobre el abismo, hallamos tan guerrero el lugar, que nos asaltan preocupaciones tácticas de conquista y defensa, ajenas a nuestra pacífica condición habitual, y si no nos detuviese diligente atención, adoptaríamos actitudes de centinela. (Hay rumor de campanas en el aire y ponemos el oído como una capa para recoger su fluencia sonora, que es como un vapor metálico derramándose en el ámbito azul. Al fondo, esfumada, espectral, se encorva la sierra, árida y terrible como un confín tibetano). Ello es que Toledo sólo despierta en nosotros pensamientos poliorcéticos, de eversor de ciudades, y comprendemos que la vida aquí sólo es posible como un alerta eterno.
+
+Desde la profundidad donde nos hallamos, la urbe se eleva casi vertical. Es una masa cónica de edificios, apretados los unos contra los otros, sin que se descubra entre ellos el paso de alguna entrada. Toledo es una de esas ciudades ásperas y herméticas, donde, en rigor, no se puede entrar, sino que es preciso insinuarse en ella. Esto le presta el encanto propio de las villas a que hay que llegar poco a poco, girando en torno, como a Jericó.
+
+La plaza de Zocodover —donde Cervantes encontró el texto arábigo del Quijote— está llena de pueblo. Es día de mercado. Son labriegos del siglo XIII o XIV, que perpetúan el rito intacto de su existencia. Zocodover sigue siendo un zoco oriental. En los puestos se venden sólo manjares ardientes, como en El Cairo o Bagdad: nueces, higos, piñones, comida para almohades o para templarios. Sin embargo, los fotograbados de los periódicos han popularizado tanto la figura de Einstein que, al punto, es reconocido. La muchedumbre se arremolina en torno a nosotros y los mozuelos, pequeños negroides de ojos densos, juegan con Einstein.
+
+—No puede usted negar —digo al sabio que corre tras de los chiquillos— que era usted ya muy conocido en el siglo XIII.
+
+Einstein sonríe y mientras ascendemos por una rúa angosta exclama:
+
+—Yo no tengo sensibilidad histórica. Sólo me interesa vivamente lo actual.
+
+E insiste sobre un tema que le he oído varias veces tratar y debe ser hoy para él una verdadera preocupación:
+
+—El talento es unilateral. Se vale tal vez mucho para un cierto género de problemas y se es nulo para todo lo demás. Acaso los nombres más famosos de la humanidad corresponden a hombres que valían muy poco porque valían para una sola cosa, para un pequeño rincón de cuestiones. Sobre todo en Alemania esta limitación a que propende la naturaleza ha sido favorecida por la educación especialista y se ha convertido en una verdadera maldición para aquel país. Humanamente es monstruoso servir mucho para una ciencia, pero no servir más que para ella.
+
+Al ser lanzado súbitamente por la fama sobre la admirable variedad del mundo, Einstein, que ha debido hacer —como es frecuente en los hombres de ciencia germánicos— una vida angosta de estudiante, se ha encontrado con innumerables facetas de la realidad que le sorprenden, ante las cuales no halla en sí preformada una actitud certera y segura. Ha conocido hombres más armónicamente dotados, capaces de juzgar con precisión y refinamiento sobre temas muy diversos. Esta experiencia le ha debido asustar un poco y ha visto su formidable genio físico como solitario dentro de sí mismo, desamparado de otras dotes y potencias. En efecto, Einstein parece un espíritu extremadamente circunscripto a su ciencia. No creo que verdaderamente le interese el arte ni la historia y tal vez, ante un cuadro o un problema general humano, su genio se detiene como paralítico.
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+De todas suertes, parece interesarle esta ciudad heteróclita, superviviente de un pasado viejísimo, cono de piedra sobre el que han caído como capas sucesivas las más varias y densas civilizaciones. Para un habitante de Zurich y Berlín, como es Einstein, tiene que ser inquietante caminar por un pueblo donde a la ruina romana sucede un gesto visigodo que concluye en una forma árabe encajada en una grave arquitectura castellana. Aquí han vivido, en efecto, prietas y hacinadas todas esas culturas. La ciudad sólo tiene escape hacia el Cielo. Cenobio y cuartel, la existencia aparece en ella como un servicio militar de tierra y cielo, que endurece los pechos contra el dardo y la tentación.
+
+Desde todas partes y en todos sus puntos Toledo es alucinante y desmesurado. Siempre que lanzáis la mirada os sorprende tropezar con un torreón, con la espadaña de un convento, con un muro enorme que no habíais advertido y se alza de pronto. Son aquí inevitables almas estrechas y como ojivales de ascetas, de soldados, dominadas por unos cuantos fantasmas trascendentes, regidas por alucinaciones.
+
+Quiso Einstein asistir a una escena típica del antiguo vivir toledano y fuimos a la iglesia de Santo Tomé, donde se halla el Entierro del conde de Orgaz, la obra mayor del Greco. Se trata de un guerrero muerto que es llevado a la tumba vestido de sus hierros. Se trata de un milagro, de una aparición. Se trata de una asamblea ceremoniosa, a que acude la «gente distinguida» de la ciudad: capitanes, magistrados, eruditos, frailes y prestes. Los rostros, de gótico óvalo, anuncian almas tan ardorosas como poco inteligentes. Sobre la escena gravita la formidable alucinación de la fauna celestial. Greco ha querido dar la impresión de un cerro sin que desaparezcan del primer término las tres figuras esenciales: el cadáver y los dos santos revestidos de suntuosos ornamentos. Grave, corpóreo, pesando sobre la tierra, este grupo atrae el tropel de cabezas que palpitan en torno como llamas lívidas o enjambre de falenas ingrávidas, vibrantes sobre las gemas encendidas de la capa pluvial. A ambos lados, unas figuras alargadas hacen un arrebatado aspaviento, y a la derecha un clérigo con sobrepelliz parece ser el «artista» del divino fraude. Tiene el ojo hacia lo alto, exultante, lleno de iluminación y todo él un ademán de artista a quien ha salido bien un número del programa.
+
+La Nación, 15 de abril de 1923

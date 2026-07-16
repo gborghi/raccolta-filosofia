@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> A fragmentary appendix to the Provincial Letters: notes on probabilism, on miracles as a mark of the true religion, and on the Jesuits' persecution of Port-Royal.
+> Fragments tied to the contest between Jesuits and Jansenists: probability and the casuists, the persecution of the Jansenists, and the three marks of true religion — perpetuity, holiness of life, and miracles.
 
 <p class="work-source">Traduzione di George Pearce · Delphi Classics, 2000 · pubblico dominio</p>
 
@@ -32,7 +32,7 @@ The interesting remarks before cited almost supersede those topics, in reference
 
 These collections furnish, also, a striking proof of the extent to which Pascal was accustomed to meditate upon the subjects on which his mind was engaged, up to the period when it kindled into elaborate composition. It is, at the same time, pleasing to consider, that his [habit](/concepts/custom) of committing to paper even the most imperfect of these reflections, has, (as was before remarked,) in some degree, compensated for the inability for more lengthened writing, which his increasing infirmities progressively induced.
 
-We see here also an instance of the large amount of labour and care which this eminent writer bestowed upon his more finished compositions. It is by such means, indeed, and such only, that the master-pieces of literature have, at all times, been produced. There have been some gifted minds, which have, more than others, possessed the power of mental elaboration of their great conceptions, before they were given forth to the world; and their first thoughts have therefore required little subsequent improvement. Others, whether from inclination, habit, or an inaptitude for a continuous meditation, have produced their ideas — as the painter dashes off a hasty sketch — in a less digested state; and the perfection afterwards attained has been the result only of multiplied revisions. But, by whatever methods those fine compositions have been achieved, deep thought, and persevering labour, (however sedulously disguised, and unseen,) are the law of their production; and none who seek exemption from such law must ever hope for literary eminence. Whether by the silent process of meditation, or by often repeated correction, (the requisite mental power for the production of a great work being presupposed,) the minuter graces of composition have ever to he supplied, — the finer touches, the softer shades, and the richer hues, to be worked in, — before it can be a candidate for general approval, and, still less, aspire to the suffrages of posterity. Time should be allowed, that the fondness for a first conception may subside; the rudeness of hasty thought must be redressed; the luxuriances of fancy pruned, redundancies corrected, harshness of diction softened down, expression heightened to brilliancy and point. It is needless to repeat here the numberless transcriptions to which, it is well known, the finest passages of Pascal’s writings were subjected; for practices such as these, are, more or less, common to every great writer; nor is the labour ever intermitted, until the whole composition is brought into a state of purity and [grace](/concepts/grace); and the high demands of taste and judgment are fully satisfied.
+We see here also an instance of the large amount of [labour](/concepts/labour) and care which this eminent writer bestowed upon his more finished compositions. It is by such means, indeed, and such only, that the master-pieces of literature have, at all times, been produced. There have been some gifted minds, which have, more than others, possessed the power of mental elaboration of their great conceptions, before they were given forth to the world; and their first thoughts have therefore required little subsequent improvement. Others, whether from inclination, habit, or an inaptitude for a continuous meditation, have produced their ideas — as the painter dashes off a hasty sketch — in a less digested state; and the perfection afterwards attained has been the result only of multiplied revisions. But, by whatever methods those fine compositions have been achieved, deep thought, and persevering labour, (however sedulously disguised, and unseen,) are the law of their production; and none who seek exemption from such law must ever hope for literary eminence. Whether by the silent process of meditation, or by often repeated correction, (the requisite mental power for the production of a great work being presupposed,) the minuter graces of composition have ever to he supplied, — the finer touches, the softer shades, and the richer hues, to be worked in, — before it can be a candidate for general approval, and, still less, aspire to the suffrages of posterity. Time should be allowed, that the fondness for a first conception may subside; the rudeness of hasty thought must be redressed; the luxuriances of fancy pruned, redundancies corrected, harshness of diction softened down, expression heightened to brilliancy and point. It is needless to repeat here the numberless transcriptions to which, it is well known, the finest passages of Pascal’s writings were subjected; for practices such as these, are, more or less, common to every great writer; nor is the labour ever intermitted, until the whole composition is brought into a state of purity and grace; and the high demands of taste and judgment are fully satisfied.
 
 If there have been, indeed, exceptions to these rules, they have been found in those rare instances in which the affluence of the mind, and prodigality of the imaginative powers, have poured out their purer ore with so exhaustless an abundance, that mankind have, on that account, been willing to forgive its large mixture of debasing alloy. Yet who has not desired that even a Shakspere had been able, or disposed, to submit many portions of his immortal effusions to revision, at a period when judgment was more chastised, while feeling and imagination remained uncooled?
 
@@ -44,7 +44,7 @@ It is from the insufficient cultivation of these higher qualities of excellence,
 
 <span class="atom-split" data-atom="002" data-title="(apertura) (2/3)" data-chapter="(apertura)" data-kind="atom"></span>
 
-And I am not forgetful of that caution which wisdom directs, against an exaggeration of the merits of the past, in a depreciating comparison of the present. Many circumstances, also, incident to a highly artificial state of society, almost necessitate the evils complained of. A fast increasing population, the importunity of physical wants, wide extending education, and the ceaseless opening up of fresh topics of investigation, and new sources of intelligence; all these things keep the press in continual requisition, and multiply without limit ephemeral productions. But it is not to be denied, that it is by such means that the higher classes of literature become depressed. The works, which consume years in toil, and a life in meditation, meet with little encouragement. Statistics and calculations oppress the minds of men, wrestling to preserve a standing in life, or wrapt in the inextricable coil of speculation, or ambition: in their few moments of leisure, they resort with morbid eagerness (as the over-tasked body to fatal stimulants) to the pages of an unwholesome or unprincipled fiction: and thus, from this concurrence of causes, the purer efforts of imagination lose their interest; literary enthusiasm excites a smile; eloquence droops; and poetry dies!
+And I am not forgetful of that caution which wisdom directs, against an exaggeration of the merits of the past, in a depreciating comparison of the present. Many circumstances, also, incident to a highly artificial state of society, almost necessitate the evils complained of. A fast increasing population, the importunity of physical wants, wide extending [education](/concepts/education), and the ceaseless opening up of fresh topics of investigation, and new sources of intelligence; all these things keep the press in continual requisition, and multiply without limit ephemeral productions. But it is not to be denied, that it is by such means that the higher classes of literature become depressed. The works, which consume years in toil, and a life in meditation, meet with little encouragement. Statistics and calculations oppress the minds of men, wrestling to preserve a standing in life, or wrapt in the inextricable coil of speculation, or ambition: in their few moments of leisure, they resort with morbid eagerness (as the over-tasked body to fatal stimulants) to the pages of an unwholesome or unprincipled fiction: and thus, from this concurrence of causes, the purer efforts of imagination lose their interest; literary enthusiasm excites a smile; eloquence droops; and poetry dies!
 
 It is not then inconsistent with a cheerful view of present advantages, or with the most sanguine hopes of the future, to desire and aim at a better state of things. Something may be done by recalling great models, and holding up a high standard. We see, from time to time, that the public yet know how to appreciate learning and eloquence, depth of research, and enlargement of views. When a Macaulay delivers the deathless annals of a great nation, thousands bend spell-bound over the manly eloquence of his glowing page. Neither is there any want of taste and feeling, to welcome again chaste creations of fancy, such as those which have slept, but not died, with the broken staff and buried wand of our modern Prospero; or to wander with delighted foot among the sweet haunts of the Muses (although they have been closed to us from a yet more remote period); —
 
@@ -196,7 +196,7 @@ XXIII. + “Probability.” They hold some true principles, but they abuse them.
 
 XXVI. + They make the exception the rule. Did the ancient Fathers give absolution before penance? Do it, then, in the spirit of exception. But you make the exception your rule without exception; so that you do not allow that your rule admits of an exception.
 
-XXVII. + Sinners without penitence; righteous men without charity; a God without power over the will of man; a predestination without mystery! [This thought occurs again further on, with some variation.]
+XXVII. + Sinners without penitence; righteous men without charity; a God without power over the will of man; a [predestination](/concepts/predestination) without mystery! [This thought occurs again further on, with some variation.]
 
 XXVIII. + They give the reins to lust, but cherish scrupulosity: the very contrary should be their rule.
 
@@ -220,7 +220,7 @@ XXXII. + “Probability” is necessary for other maxims, such as those respecti
 
 — + “Probability” avails little without corrupt means, and means are nothing without “ probability.”
 
-— + There is a satisfaction in the power and in the knowledge to do good; “ scire et posse [grace](/concepts/grace) and probability contribute to this satisfaction, for we may feel ourselves accountable to God, while we place reliance in their authorities.
+— + There is a satisfaction in the power and in the knowledge to do good; “ scire et posse grace and probability contribute to this satisfaction, for we may feel ourselves accountable to God, while we place reliance in their authorities.
 
 <span class="atom-split" data-atom="014" data-title="XXXIII. + But is it probable that probability can satisfy?" data-chapter="XXXIII. + But is it probable that probability can satisfy?" data-kind="atom"></span>
 
@@ -288,7 +288,7 @@ The obduracy of the Jesuits surpasses, then, that of the Jews, for they only con
 
 — + When they upbraid your obliquities, they are heretics.
 
-— + When they say the [grace](/concepts/grace) of Christ separates his people, they are heretics.
+— + When they say the grace of Christ separates his people, they are heretics.
 
 — + If they perform miracles, it is a proof of heresy.
 
@@ -302,7 +302,7 @@ Miracles are more important than you suppose; they have served for the foundatio
 
 + The two witnesses.
 
-— + In the Old and New Testaments, miracles were wrought for the explanation of figures. They either concerned our salvation, or were useless, except to prove that we ought to submit ourselves to creatures. Figure of the sacrament.)!
+— + In the Old and New Testaments, miracles were wrought for the explanation of figures. They either concerned our salvation, or were useless, except to prove that we ought to submit ourselves to creatures. Figure of the [sacrament](/concepts/sacrament).)!
 
 — + The synagogue was a figure, and thus did not perish: it was no more than a figure, and therefore it has perished. It was a figure, containing in it truth; and therefore has subsisted till the time came when it contained truth no longer.
 
@@ -312,7 +312,7 @@ XLVI. + There have always been times when men have held the doctrine of the true
 
 — + Unhappy men, to compel me thus to recur to the very foundations of religion!
 
-— Sinners purified without repentance; the just justified without charity; Christians without the grace of Christ; God without power over the will of his creatures; a predestination without mystery; a redemption without certainty.
+— Sinners purified without repentance; the just justified without charity; Christians without the grace of Christ; God without power over the will of his creatures; a [predestination](/concepts/predestination) without mystery; a redemption without certainty.
 
 Miracles are no longer necessary, because we have them already. But when tradition is no longer listened to, when nothing is suggested but the Pope, — when he too has been circumvented; and when, having thus cast off the real sources of truth — tradition, and circumvented the Pope — its depositary, truth can no more be freely manifested: then it is that men, no longer speaking the truth, the truth itself must speak to men. This is what occurred in the time of Arius. mental. The following is the original, which is only attempted to be rendered literally:— “En l’ancien testament et au nouveau, les miracles sont fait pour l’affranchissement des figures. Salut ou chose inutile, sinon pour montrer qu’il faut se soumettre aux créatures. — Figure du sacrament.” (Transl.)
 
@@ -420,7 +420,7 @@ LXIX. + To the heart of man it is a matter of indifference whether there be thre
 
 + Yet is it a false testimony.
 
-LXX. + It is the extravagant idea you have conceived of the importance of your society, that has led you to put forth these atrocious maxims. It is evident that this is your method in regard to calumny, for you stigmatize in me as scandalous, the very same kind of misrepresentations, which, in your own case, you justify. Why?
+LXX. + It is the extravagant idea you have conceived of the importance of your society, that has led you to put forth these atrocious maxims. It is evident that this is your [method](/axes/method) in regard to calumny, for you stigmatize in me as scandalous, the very same kind of misrepresentations, which, in your own case, you justify. Why?
 
 Because you regard me as a mere individual, but yourselves as — Imago. [Allusion to a work intended as an apology for the Society: “Imago primi seculi.” Pascal speaks of this book in the commencement of his 5th Provincial.]
 
@@ -442,7 +442,7 @@ Because you regard me as a mere individual, but yourselves as — Imago. [Allusi
 
 — + Two supernatural foundations of our faith, which is wholly supernatural; the one visible, the other invisible.
 
-— + Miracles with [grace](/concepts/grace), miracles without grace.
+— + Miracles with grace, miracles without grace.
 
 — + The synagogue, which has been regarded with satisfaction as a figure of the church, and with dislike as being nothing more than a figure, has been restored, being ready to fall when it was an object of Divine favour, and yet only a figure.
 

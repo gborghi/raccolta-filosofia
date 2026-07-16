@@ -7,7 +7,7 @@ aliases:
   - "fortuna"
   - "caso"
   - "chance"
-work_count: 19
+work_count: 18
 tags:
   - "graph/concept"
 title: "fortuna"
@@ -16,27 +16,26 @@ title: "fortuna"
 
 *fortune*
 
-## Opere (19)
+## Opere (18)
 
-**Hume**
-- [THE HISTORY OF ENGLAND](/testi/hume/the_history_of_england)
+**Aristotle**
+- [On Divination in Sleep (462b)](/testi/aristotle/on_divination_in_sleep_462b)
 
-**Pascal**
-- [Miscellaneous Thoughts](/testi/pascal/miscellaneous_thoughts)
+**Lucretius**
+- [CONTENTS OF THE LATIN TEXT](/testi/lucretius/contents_of_the_latin_text)
+- [DUAL LATIN AND ENGLISH TEXT](/testi/lucretius/dual_latin_and_english_text)
+- [ON THE NATURE OF THINGS: PROSE TRANSLATION](/testi/lucretius/on_the_nature_of_things_prose_translation)
+- [ON THE NATURE OF THINGS: VERSE TRANSLATION](/testi/lucretius/on_the_nature_of_things_verse_translation)
 
 **Seneca**
 - [AGAMEMNON](/testi/seneca/agamemnon)
 - [HERCULES ON OETA](/testi/seneca/hercules_on_oeta)
-- [MEDEA](/testi/seneca/medea)
-- [OCTAVIA](/testi/seneca/octavia)
 - [OEDIPUS](/testi/seneca/oedipus)
 - [ON PROVIDENCE](/testi/seneca/on_providence)
 - [ON THE FIRMNESS OF THE WISE PERSON](/testi/seneca/on_the_firmness_of_the_wise_person)
-- [ON THE HAPPY LIFE](/testi/seneca/on_the_happy_life)
-- [ON THE SHORTNESS OF LIFE](/testi/seneca/on_the_shortness_of_life)
 - [ON TRANQUILLITY OF MIND](/testi/seneca/on_tranquillity_of_mind)
 - [THE MADNESS OF HERCULES](/testi/seneca/the_madness_of_hercules)
-- [THE PUMPKINIFICATION OF THE DIVINE CLAUDIUS](/testi/seneca/the_pumpkinification_of_the_divine_claudius)
+- [THE PHOENICIAN WOMEN](/testi/seneca/the_phoenician_women)
 - [THE TROJAN WOMEN](/testi/seneca/the_trojan_women)
 - [THYESTES](/testi/seneca/thyestes)
 - [TO MARCIA, ON CONSOLATION](/testi/seneca/to_marcia_on_consolation)

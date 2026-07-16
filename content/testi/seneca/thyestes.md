@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!abstract]
-> Tragedy on the cannibalistic feast Atreus imposes on his brother Thyestes: the Fury unleashes a self-perpetuating chain of crimes, showing the unstoppable spiral of anger and revenge.
+> Tragedy of Atreus' revenge, who under a feigned reconciliation makes his brother Thyestes eat the flesh of his own sons. Driven by the Ghost of Tantalus and the Fury, the house of Pelops plunges into a crime that outdoes every crime.
 
 <p class="work-source">Traduzione di Frank Justus Miller · Delphi Classics, 2014 · pubblico dominio</p>
 
@@ -52,7 +52,7 @@ THE GHOST OF TANTALUS
 
 THE FURY
 
-[23] Onward, damned shade, and goad thy sinful house to madness. Let there be rivalry in guilt of every kind; let the sword be drawn on this side and on that; let their passions know no bounds, no shame; let blind fury prick on their souls; heartless be parents’ rage, and to children’s children let the long trail of sin lead down; let time be given to none to hate old sins – ever let new arise, many in one, and let crime, e’en midst its punishment, increase. From haughty brothers’ hands let kingdoms fall, and in turn let them call back the fugitives; let the wavering fortune of a home of violence midst changing kings totter to its fall; from power to wretchedness, from wretchedness to power – may this befall, and may chance with her ever-restless waves bear the kingdom on. For crimes’ sake exiled, when God shall bring them home, to crime may they return and may they be as hateful to all men as to themselves; let there be naught which passion deems unallowed; let brother brother fear, father fear son, and son father; let children vilely perish and be yet more vilely born; let a murderous wife lift hand against her husband, let wars pass over sea, let streaming blood drench every land, and over the mighty chiefs of earth let Lust exult, triumphant. In this sin-stained house let shameful defilement be a trivial thing; let fraternal sanctity and faith and every right be trampled under foot. By our sins let not heaven be untainted – why do the stars glitter in the sky? Why do their fires preserve the glory due the world? Let the face of night be changed, let day fall from heaven. Embroil thy household gods, summon up hatred, slaughter, death, and fill the whole house with Tantalus.
+[23] Onward, damned shade, and goad thy sinful house to madness. Let there be rivalry in guilt of every kind; let the sword be drawn on this side and on that; let their passions know no bounds, no shame; let blind fury prick on their souls; heartless be parents’ rage, and to children’s children let the long trail of sin lead down; let time be given to none to hate old sins – ever let new arise, many in one, and let crime, e’en midst its punishment, increase. From haughty brothers’ hands let kingdoms fall, and in turn let them call back the fugitives; let the wavering fortune of a home of violence midst changing kings totter to its fall; from power to wretchedness, from wretchedness to power – may this befall, and may [chance](/concepts/fortune) with her ever-restless waves bear the kingdom on. For crimes’ sake exiled, when God shall bring them home, to crime may they return and may they be as hateful to all men as to themselves; let there be naught which passion deems unallowed; let brother brother fear, father fear son, and son father; let children vilely perish and be yet more vilely born; let a murderous wife lift hand against her husband, let wars pass over sea, let streaming blood drench every land, and over the mighty chiefs of earth let Lust exult, triumphant. In this sin-stained house let shameful defilement be a trivial thing; let fraternal sanctity and faith and every right be trampled under foot. By our sins let not heaven be untainted – why do the stars glitter in the sky? Why do their fires preserve the glory due the world? Let the face of night be changed, let day fall from heaven. Embroil thy household gods, summon up hatred, slaughter, death, and fill the whole house with Tantalus.
 
 [54] Adorn the lofty pillar and with laurel let the festal doors be green; let torches worthy of thine approach shine forth – then let the Thracian crime be done with greater number. Why is the uncle’s hand inactive? Not yet does Thyestes bewail his sons – and when will he lift his hand? Now set o’er the flames let cauldrons foam; let the rent members one by one pass in; let ancestral hearth be stained with blood, let the feast be spread – to no novel feast of crime wilt come as banqueter. To-day have we made thee free, have loosed thy hunger to the banquet yonder; go, feed full thy fasting, and let blood, with wine commingled, be drunk before thine eyes. I have found feast which thou thyself wouldst flee – but stay! Whither doest headlong rush?
 
@@ -268,7 +268,7 @@ CHORUS
 
 THYESTES
 
-[404] At last I see the welcome dwellings of my fatherland, the wealth of Argolis, and, the greatest and best sights to wretched exiles, a stretch of native soil and my ancestral gods (if after all gods there are), the sacred towers reared by the Cyclopes, in beauty far excelling human effort, the race-course thronged with youth, where more than once, lifted to fame, have I in my father’s chariot won the palm. Argos will come to meet me, and the thronging populace will come – but surely Atreus too! Rather seek again thy retreats in the forest depths, the impenetrable glades, and life shared with beasts and like to theirs; this gleaming splendour of the throne is naught that should blind my eyes with its false tinsel show; when thou lookest on the gift, scan well the giver, too. Of late midst such fortune as all count hard, I was brave and joyous; but now I am returned to fears; my courage falters and, eager to go back, I move unwilling feet along.
+[404] At last I see the welcome dwellings of my fatherland, the wealth of Argolis, and, the greatest and best sights to wretched exiles, a stretch of native soil and my ancestral gods (if after all gods there are), the sacred towers reared by the Cyclopes, in [beauty](/concepts/beauty) far excelling human effort, the race-course thronged with youth, where more than once, lifted to fame, have I in my father’s chariot won the palm. Argos will come to meet me, and the thronging populace will come – but surely Atreus too! Rather seek again thy retreats in the forest depths, the impenetrable glades, and life shared with beasts and like to theirs; this gleaming splendour of the throne is naught that should blind my eyes with its false tinsel show; when thou lookest on the gift, scan well the giver, too. Of late midst such fortune as all count hard, I was brave and joyous; but now I am returned to fears; my courage falters and, eager to go back, I move unwilling feet along.
 
 TANTALUS
 
@@ -376,7 +376,7 @@ THYESTES
 
 ATREUS
 
-[521] From my knees remove they hand and come rather into my embrace. And you, too, boys, all of you, comforters of age, come cling about my neck. Thy foul garments put off, spare my eyes, and put on royal trappings equal to my own, and with glad heart share a brother’s kingdom. Mine is the greater glory, to restore to a brother all unharmed ancestral dignity; wielding power is the work of chance, bestowing of it, virtue’s.
+[521] From my knees remove they hand and come rather into my embrace. And you, too, boys, all of you, comforters of age, come cling about my neck. Thy foul garments put off, spare my eyes, and put on royal trappings equal to my own, and with glad heart share a brother’s kingdom. Mine is the greater glory, to restore to a brother all unharmed ancestral dignity; wielding power is the work of [chance](/concepts/fortune), bestowing of it, virtue’s.
 
 THYESTES
 
@@ -426,7 +426,7 @@ CHORUS
 
 <span class="atom-split" data-atom="007" data-title="THYESTES (5/8)" data-chapter="THYESTES" data-kind="atom"></span>
 
-[596] No lot endureth long; pain and pleasure, each in turn, give place; more quickly, pleasure. Lowest with highest the fickle hour exchanges. He who wears crown on brow, before whom trembling nations bend the knee, at whose nod the Medes lay down their arms, and the Indians of the nearer sun, and the Dahae who hurl their horse upon the Parthians – he with anxious hand holds the sceptre, and both foresees and fear fickle chance and shifting time that change all things.
+[596] No lot endureth long; pain and pleasure, each in turn, give place; more quickly, pleasure. Lowest with highest the fickle hour exchanges. He who wears crown on brow, before whom trembling nations bend the knee, at whose nod the Medes lay down their arms, and the Indians of the nearer sun, and the Dahae who hurl their horse upon the Parthians – he with anxious hand holds the sceptre, and both foresees and fear fickle [chance](/concepts/fortune) and shifting time that change all things.
 
 [607] O you, to whom the ruler of sea and land has given unbounded right o’er life and death, abate your inflated, swelling pride; all that a lesser subject fears from you, ‘gainst you a greater lord shall threaten; all power is subject to a weightier power. Whom the rising sun hath seen high in pride, him the setting sun hath seen laid low. Let none be over-confident when fortune smiles; let none despair of better things when fortune fails. Clotho blends weal and woe, lets no lot stand, keeps ever fate a-turning. No one has found the gods so kind that he may promise to-morrow to himself. God keeps all mortal things in swift whirl turning.
 
@@ -604,7 +604,7 @@ ATREUS
 
 THYESTES
 
-[1024] Is this thy bond? Is this thy [grace](/concepts/grace), this thy fraternal pledge? Thus puttest thou hate away? I do not ask that I, a father, may have my sons unharmed; what can be granted with crime and hate intact, this I, a brother, of a brother ask: that I may bury them. Give me back what thou mayst see burned at once. The father asks naught of thee with hopes of having, but of losing it.
+[1024] Is this thy bond? Is this thy grace, this thy fraternal pledge? Thus puttest thou hate away? I do not ask that I, a father, may have my sons unharmed; what can be granted with crime and hate intact, this I, a brother, of a brother ask: that I may bury them. Give me back what thou mayst see burned at once. The father asks naught of thee with hopes of having, but of losing it.
 
 ATREUS
 

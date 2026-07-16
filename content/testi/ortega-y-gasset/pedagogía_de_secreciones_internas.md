@@ -1,0 +1,41 @@
+---
+title: "Pedagogía de secreciones internas. — La vida como suma y como unidad"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> The sample covers only the biological half: against adaptation biology, which treats life as a sum of external functions, it shows that the discovery of internal secretions and hormones forces us to see vitality as prior to and creative of its functions ('the river fathers the stream'). The title also promises pedagogy, but the sample does not reach it.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/pedagogía_de_secreciones_internas" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Pedagogía de secreciones internas. — La vida como suma y como unidad" data-chapter="" data-kind="intro"></span>
+
+De 1850 a 1900, por uno u otro camino, vía Darwin o vía Lamarck, se llegaba siempre a definir la vida esencial como una adaptación al medio[97]. Tal modo de pensar conducía por fuerza a atender con excesiva predilección aquellas funciones orgánicas que operan directamente sobre el medio envolvente y que consisten, bien en amoldarse a él, bien en transformarlo. El pelo blanco de la liebre polar sería la aceptación, por su parte, del color de la nieve sobre que corre milenariamente. En cambio, sus zancajos y la velocidad de su carrera son adaptaciones más positivas; merced a ellas el animal huye, esto es, cambia un medio peligroso por otro favorable. En fin: la mano, sobre todo en el hombre, es el órgano ejemplar de la adaptación creadora, que consiste en transformar provechosamente el medio.
+
+En estas funciones, el organismo confina inmediatamente con el medio, con el exterior; son funciones que concluyen fuera del individuo, y que, por tanto, podemos llamar externas. Las secreciones digestivas son, en este sentido, no menos externas que la locomoción o la aprehensión manual, puesto que actúan sobre la realidad exterior que, en forma de alimentos, ha sido introducida en el estómago[98].
+
+Habituados los naturalistas a considerar las funciones externas como el prototipo de la acción vitalmente útil, no sabían bien qué pensar de muchos órganos interiores cuya función no parecía rozarse directamente con el medio. Así, toda la serie de glándulas ocupadas en segregar sustancias que son absorbidas difusamente por el organismo y en él desaparecen sin tropezar en ningún punto de su trayectoria con el mundo exterior. Miradas desde la teoría en uso, tales órganos y tal función de íntimas exudaciones parecían completamente inútiles. Ahora bien: la inutilidad es el escándalo biológico, como la contradicción es el escándalo lógico.
+
+Por razones cuyo mero enunciado prolongaría indebidamente estas páginas, la biología de la adaptación propende a considerar la vitalidad como la suma de funciones singulares relativamente independientes. Vida, sería, según esto, ver + oír + andar + digerir…, como el río es la colección de los arroyos y riberas preexistentes. Esta propensión hacía olvidar o cegarse para todos aquellos fenómenos que presentan al ser vivo funcionando integralmente, de modo que cada una de sus funciones es operación del organismo entero. No hace mucho que comenzaron los laboratorios a estudiar con mayor cuidado todos estos procesos de unidad funcional[99]. Merced a ello, se inicia una interpretación de la vida inversa de la tradicional: en lugar de aparecernos como una suma que resulta de ciertos sumandos previamente existentes, adquiere más bien el cariz de una división, esto es, de una especificación. La vitalidad es anterior y creadora de sus funciones concretas; el río es padre del arroyo[100].
+
+Al amparo de esta tendencia, confesada tácita o aun inconsciente en muchos investigadores, se ha descubierto la profunda importancia biológica de aquellos órganos y funciones que antes parecían inútiles. No hay, por ventura, en la ciencia actual capítulo más revolucionario de las viejas concepciones que la doctrina de las secreciones internas[101]. Ahora resulta que sin esas exudaciones íntimas nada funcionaría en el ser vivo. La glándula vierte su jugo en las canales sanguiníferas, y al través de su maravillosa red, acaso también por medio del sistema nervioso, hace llegar a los lugares más apartados del cuerpo su sustancia específica, excitando la actividad de aquéllos, deprimiéndola, equilibrando y regulando cada función con el resto. Considerando la acción excitadora como la más característica, Starling ha llamado a la sustancia básica de la secreción interna «hormona», lo «incitante». He aquí, pues, que la hormona no es útil para adaptación ninguna al mundo exterior; la secreción hormonal no concluye fuera del organismo, no es tangente al medio, no vierte su influjo fuera, no es función externa; por el contrario, nace y termina en la intimidad fisiológica, vierte dentro, es función interna.
+
+De esta sencilla averiguación ha nacido la rama más importante de la terapéutica actual, y gracias a ella la medicina se prepara a un gigantesco progreso. Ahora, para obtener el perfecto desarrollo de un órgano o la exactitud de su funcionamiento, no se atiende a él, no se actúa sobre él; antes bien, olvidándolo por completo, se acude a tratar en un plano más hondo de la fisiología esta o aquella secreción interna.
+
+Aparte de sus aplicaciones médicas, dentro de la pura teoría biológica pertenecen las secreciones internas a la clase general de los fenómenos de regulación, que hoy van invadiendo la atención de los laboratorios. Ahora bien; frente a las funciones de adaptación y funcionamiento de los órganos representan las funciones de regulación un orden más profundo de la vitalidad, y están mucho más cerca que aquéllas de lo que he llamado vitalidad primaria. El uso que el cangrejo hace de sus pinzas es relativamente mecánico si se compara con el hecho de que ese mismo cangrejo, rota una de sus pinzas, hace nacer otra nueva en el mismo sitio de su cuerpo. Éste es un fenómeno de regeneración, la cual Driesch y otros grandes naturalistas consideran como una forma especial de la regulación[102]. Que un infusorio puesto en movimiento prosiga en la misma dirección, es relativamente mecánico en comparación con un cambio de trayectoria en ese movimiento. Jennings ha estudiado minuciosamente todas las variaciones del movimiento como casos de regulación[103]. Y así sucesivamente, porque la lista no acabaría nunca.
+
+Pasemos ahora a la vitalidad psíquica. También ella ha padecido los mismos errores y manías que la biología corporal durante la pasada centuria. Pero no son éstos lugar ni ocasión para hacer un esquema de la historia de la psicología en los últimos ochenta años. Lo que estrechamente importa a nuestro tema es que también, al observar la vida psíquica, hallamos, por lo pronto, funciones que, sin dejar de ser psíquicas, cabe llamar externas en el sentido que arriba he fijado. La percepción proporciona una aprehensión adecuada del medio, la memoria conserva ésta, tesauriza nuestras noticias del mundo real, y las ciencias naturales, usando de aparatos mentales económicos —como la industria de sus máquinas—, amplían nuestra recepción del medio, restaurando el pasado y anticipando el porvenir. Asimismo la conciencia moral al uso adapta nuestros apetitos al contorno social, eliminando aquellas acciones nuestras que la colectividad castiga, o, cuando menos, reprueba. De este modo sabemos querer lo que, según normas objetivas —esto es, impuestas por el medio—, se debe querer.
+
+Todas estas funciones vierten, pues, hacia fuera, confinan con el medio y son regidas por él, o directamente en vista de él.
+
+Pero si penetramos alma adentro, hallamos estratos más profundos de vida psíquica, que no es fácil filiar como adaptaciones al medio; antes bien, parecerían audaces inadaptaciones. Y es curioso advertir, desde luego, que esa trastierra espiritual, esa fauna psíquica inadaptada, es mucho más rica, enérgica y abundante que la prudente y útil.

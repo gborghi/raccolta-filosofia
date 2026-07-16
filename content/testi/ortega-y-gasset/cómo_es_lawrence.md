@@ -1,0 +1,55 @@
+---
+title: "¿Cómo es Lawrence?"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> A biographical portrait of T. E. Lawrence: the Oxford scholar rejected as underweight who from 1916 raised the Arab tribes against the Turks and entered Damascus in 1918, afterwards refusing decorations. Journalistic profile with no philosophical content.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/cómo_es_lawrence" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="¿Cómo es Lawrence?" data-chapter="" data-kind="intro"></span>
+
+Hace mucho tiempo que no siento por nada tan viva curiosidad como por lo que enuncia esta pregunta: ¿Cómo es Lawrence? Yo quisiera ahora contaminar de esta curiosidad a los lectores. Para ello es necesario que comience diciéndoles quién es Lawrence[18].
+
+Tomás Eduardo Lawrence nace en Gales en 1888. Tiene hoy, pues, treinta y nueve años. Conviene recordar este número. Luego veremos por qué. Lawrence estudia en Oxford lenguas orientales, arqueología. Son los temas que sólo atraen a una inteligencia pura y romántica. En 1910 recorre Siria a pie, con el fin de investigar la arquitectura de las Cruzadas. De este modo aprende el árabe vulgar. De 1911 a 1914 trabaja en las excavaciones del Éufrates como miembro de una Misión; luego es adscrito a la Inspección del Sinaí Norte, dependiente del Ministerio de la Guerra. Al estallar la guerra fue declarado inútil por falta de peso. En 1916 consigue ser admitido en una oficina de información militar —Military Intelligence Section— en El Cairo.
+
+El ejército turco, organizado y pertrechado por los alemanes, hacía gran presión sobre las fuerzas inglesas desde Palestina y Arabia. Las condiciones de este último país, impenetrable para los europeos por el fanatismo de su población, dejaban libre el ala izquierda de los turcos. Se puede decir que en 1916 los ingleses no habían conseguido dar un paso hacia adelante. Lawrence, encerrado en su oficina de El Cairo, traducía comunicaciones para ilustración del Cuartel general británico. En los minutos de ocio se apoderaba de él una gran idea, una romántica empresa: sublevar a los árabes contra los turcos, deshacer la izquierda turca con armas beduinas. Una y otra vez, siempre en vano, exponía a la superioridad sus inverosímiles proyectos. Por fin, en otoño de aquel año, consigue ser enviado al Heyaz. Desde este instante, la vida de Lawrence —erudito, oficinista— se transforma sin transición, subitáneamente, en una gesta vertiginosa, que comienza con su llegada a Jiddah, el puerto de la Meca, y termina en 1918 con su entrada triunfal en Damasco al frente de las tribus árabes. No creo que en toda la Edad Moderna se haya llevado a cabo una empresa que tan literalmente merezca el nombre de gesta. Para encontrar hazaña similar fuera preciso retroceder a la primera Edad Media, cuando las gestas todavía no eran canciones, sino hechos.
+
+En pocos meses, toda el Arabia Occidental está en pie contra los turcos, y sobre toda ella se cierne la leyenda —como en la Edad Media, el hecho allí se orifica al punto legendariamente— de un rumí Aurens, Urens, El-Orens, que predica la libertad de Arabia, que no come y no duerme, que no teme a nada y, montado en la camella Gacela, anda más que el más resistente beduino. Este héroe oriental en quien retoña la epopeya del Islamismo, rey sin corona del desierto ilustre, es un joven oxoniense, de veintiocho años, considerado inútil para servir en un ejército europeo.
+
+La suspicacia del árabe, del árabe de Arabia, frente al europeo es tal, que ha producido el hecho escandaloso de ser aún hoy esta península, donde se forjó una de las grandes civilizaciones de radio ecuménico, el trozo de planeta menos explorado y conocido. ¿Cómo se explica que Lawrence haya logrado, no ya caminar sin la menor dificultad los senderos de Arabia, sino penetrar hasta el fondo del alma beduina, arrastrar los innumerables grupos que eternamente dividen aquel pueblo, compaginarlos por vez primera desde hace siglos y siglos, tenerlos en su mano y ser la voz ungida que hace despertar a una raza somnolente, lanzándola de nuevo a hacer historia? Porque, en efecto, el movimiento iniciado por el joven erudito inglés sigue y no para, crece y engruesa, arrollando cuanto se le pone delante. Hoy, Arabia es más una nación que nunca lo ha sido.
+
+Pero todo esto es sólo un ingrediente de los que componen el problema Lawrence.
+
+Sus increíbles victorias al frente de los beduinos hacen que sobre él lluevan condecoraciones inglesas y francesas. Lawrence las rechaza. Cuando suena la hora de paz es elegido para tomar parte en la Conferencia de Versalles. Lawrence defiende allí los intereses de los árabes como un árabe. Pero Francia consigue imponer su intervención en Siria. Lawrence, entonces, rompe con su Gobierno, renuncia a todos los grados militares recibidos, renuncia hasta a su nombre, y bajo otro fingido sienta plaza como soldado raso en el servicio aéreo de la India. Es decir: este hombre, que a los treinta años era dueño de un trozo de planeta, que goza en Inglaterra de una reputación tan legendaria como en Oriente, se anula a sí mismo, se borra, por decirlo así, de la existencia, se sume de nuevo en la anonimidad, comenzando por tercera vez la vida.
+
+Este nuevo ingrediente, sumado al de su gesta, da un precipitado extraño, desazonador, que en todo buen aficionado a almas siembra un germen inquieto de curiosidad.
+
+Pero he aquí que en marzo de este año publica el libro —tan esperado— donde refiere su campaña de Arabia. Se titula [Revolt](/positions/revolution) in the Desert (La sublevación del desierto). En mayo último había llegado ya a la quinta edición. Yo lo he leído con superlativa avidez. Por fin iba a aclarar el enigma de esta alma, de este extraño modo de ser hombre —un hombre que puede ser primero intelectual, y luego, de pronto, Cid Campeador, y luego asceta rigoroso que renuncia a sí mismo; todo ello, en cuatro o cinco años. ¿Cómo ve la vida quien a los treinta años ha vivido tanta porción inverosímil de ella? ¿Qué espera, qué premedita, qué resortes mantienen en pie su organismo?
+
+El libro de Lawrence es tan sorprendente como su pasado. Pero lejos de aclarar su misterio, lo multiplica hasta la exageración. Después de leer sus páginas quedamos rendidos, temerosos de que definitivamente se nos escape de entre los dedos esta alma fugitiva, indómita, multiforme.
+
+Se ha comparado el libro de Lawrence al De bello gallico, de César. No es inexacto el parangón. Uno y otro son los dos libros menos libros que se pueden leer. Son acción manuscrita. Lawrence, como el otro guerrero mayor, se limita a narrar lo que ha hecho. Es la sobria y rigorosa descripción de los actos suyos y de las muchedumbres que él mueve de acá para allá. No hay una sola palabra de literatura, ni de arqueología, ni de reflexión a posteriori sobre lo emprendido y lo ejecutado. Son marchas día y noche sobre los camellos tenaces por sierras y por angostos, bajo 50 grados de calor o bajo la nieve y el viento frígido. Son puentes de ferrocarril que vuelan atomizados por la dinamita, villas de Oriente tomadas con el sable en la mano, reuniones de jeques en estancias ahumadas, figuras frenéticas de beduinos. La forma es perfecta; de tal suerte, que en cada línea notamos la voluntad decidida de reprimir una magnífica capacidad literaria y una ideología personalísima. No quiere dar al lector lo que éste pide. Evita dibujar su propia fisonomía, y ni se detiene un momento a explicarnos la psique del beduino más allá de lo que estrictamente requiere la acción. Lo que le interesa es narrarnos eficazmente cómo el puente ferroviario del kilómetro 146, entre Medina y Damasco, fue volado una buena mañana. Esto lo consigue con sorprendente don para visualizar el relato. De modo que sus páginas se parecen más que nada a esas escenas de cinematógrafo donde en la pantalla vemos sólo una mano que enciende una yesca bajo una carga de dinamita. Vemos muy bien la mano activa de Lawrence; pero nada más: cuidadosamente recata su enigmática figura.
+
+Sin embargo, viejos cazadores de líneas negras sobre áreas blancas, conseguimos, al menos, prender por el borde de su albornoz cándido al autor, que quiere escapar de su propia página. Es sólo el borde de su persona lo que apresamos; pero ya es algo. Vislumbramos, en efecto, un [caso](/concepts/fortune) extremo, gigante, del perenne, magnífico dandysmo inglés. El dandysmo es impertinente desdén hacia los demás hombres, resolución de vivir el individuo dentro de sí mismo, sin efusión hacia los demás, pudor extremo ante el propio destino, que no lo deja rozar por la curiosidad ni aun por el afecto del extraño.
+
+Pero esto no es una explicación del problema Lawrence. El dandysmo es siempre máscara y coraza. No nos revela lo que hay tras ella; antes bien, lo oculta y defiende, marcando la frontera de dos mundos —el de los demás, patente, exterior, y frente a él, el mundo hermético, recluso, íntimo, de un único individuo. El gesto del dandy no es nunca el que corresponde a su realidad interior. Todo lo contrario. Es un gesto convencional de prestidigitador que hace la persona para distraer las miradas demasiado curiosas. Sólo nos revela que, tras él, un ser humano vive por su propia cuenta, según principios y normas individuales.
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+El libro de Lawrence nos hace entrever que no estima mucho su hazaña, que más bien se avergüenza de ella. Es un héroe que desdeña su heroicidad. Por otra parte, su autor, que es arqueólogo, evita toda alusión arqueológica en la descripción de los lugares donde opera como guerrero. Desdeña también la arqueología. La dimisión de todos los honores que le han sido otorgados, la aniquilación de su propio nombre, indican que tampoco estima mucho a su país y a la sociedad que le ha educado. Todos estos desdenes son fáciles y sin gran sentido cuando aparecen solos. Pero en este [caso](/concepts/fortune) se presentan dentro de un hombre que ha demostrado ser capaz de todo, de ciencia, de genio bélico, de gracia literaria. ¿Cómo es Lawrence?
+
+Desde hace años se esperaba en Inglaterra con extremado interés la publicación de su libro. En la sesuda Enciclopedia Británica leo: «Se anuncia para 1926 la publicación de su libro bajo el título Los siete pilares de la sabiduría». ¿Ha entendido el lector? Lawrence se burla de la Enciclopedia Británica dando un título fantástico, retumbante, ridículo. En la obra de 1927 se evita premeditadamente toda sabiduría y no aparecen otros pilares que los sustentadores de los puentes volados por el autor.
+
+El Sol, 4 de diciembre de 1927

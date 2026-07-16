@@ -12,7 +12,7 @@ tags:
 ---
 
 > [!abstract]
-> A list of Scotticisms and linguistic errors to avoid in written English, compiled by Hume to correct his own style. A purely philological text with no philosophical content.
+> A short list of Scotticisms: Scots grammatical and lexical usages to avoid in favour of standard English (will/shall, these/those, etc.). A linguistic note with no philosophical content.
 
 <p class="work-source">Testo originale inglese · Delphi Classics, 2000 · pubblico dominio</p>
 

@@ -11,7 +11,7 @@ axis: "reality_status"
 contro:
   - "materialism"
   - "atomism"
-work_count: 8
+work_count: 14
 tags:
   - "graph/position"
 title: "idealismo"
@@ -24,7 +24,7 @@ Posizione sull'asse [Statuto del reale](/axes/reality_status).
 
 **Contro:** [materialismo](/positions/materialism), [atomismo](/positions/atomism)
 
-## Opere (8)
+## Opere (14)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
@@ -35,3 +35,15 @@ Posizione sull'asse [Statuto del reale](/axes/reality_status).
 - [The Phenomenology of Spirit](/testi/hegel/the_phenomenology_of_spirit)
 - [The Philosophy of Fine Art](/testi/hegel/the_philosophy_of_fine_art)
 - [The Philosophy of History](/testi/hegel/the_philosophy_of_history)
+
+**Kant**
+- [CRITIQUE OF PURE REASON](/testi/kant/critique_of_pure_reason)
+
+**Marx**
+- [THESES ON FEUERBACH, 1845](/testi/marx/theses_on_feuerbach_1845)
+- [THE HOLY FAMILY, 1845](/testi/marx/the_holy_family_1845)
+
+**Ortega y Gasset**
+- [Amor en Stendhal](/testi/ortega-y-gasset/amor_en_stendhal)
+- [Descartes y el método transcendental](/testi/ortega-y-gasset/descartes_y_el_método_transcendental)
+- [Hegel y América](/testi/ortega-y-gasset/hegel_y_américa)

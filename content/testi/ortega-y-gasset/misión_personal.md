@@ -1,0 +1,29 @@
+---
+title: "Misión personal"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> An analysis of the word 'mission': what a man has to do in his life, but with a necessity that is not compulsion but invitation — the stone cannot help falling, man may perfectly well not do what he has to do. It follows that at each instant he must choose among possibilities under his sole responsibility, justifying the choice before himself; man is the only reality that exists without a prefixed being and must elect his own (Descartes: quod vitae sectabor iter?).
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/misión_personal" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Misión personal" data-chapter="" data-kind="intro"></span>
+
+Bastaría, para demostrarlo con un ejemplo, que nos asomásemos un instante al interior de la palabra «misión». Misión significa, por lo pronto, lo que un hombre tiene que hacer en su vida. Por lo visto, la misión es algo exclusivo del hombre. Sin hombre no hay misión. Pero esa necesidad a que la expresión «tener que hacer» alude, es una condición muy extraña y no se parece nada a la forzosidad con que la piedra gravita hacia el centro de la tierra. La piedra no puede dejar de gravitar, mas el hombre puede muy bien no hacer eso que tiene que hacer. ¿No es esto curioso? Aquí la necesidad es lo más opuesto a una forzosidad, es una invitación. ¿Cabe nada más galante? El hombre se siente invitado a prestar su anuencia a lo necesario. Una piedra que fuese medio inteligente, al observar esto, acaso se dijera: «¡Qué suerte ser hombre! Yo no tengo más remedio que cumplir inexorablemente mi ley: tengo que caer, caer siempre… En cambio, lo que el hombre tiene que hacer, lo que el hombre tiene que ser, no le es impuesto, sino que le es propuesto». Pero esa piedra imaginaria pensaría así porque es sólo medio inteligente. Si lo fuese del todo, advertiría que ese privilegio del hombre es tremebundo. Pues implica que en cada instante de su vida el hombre se encuentra ante diversas posibilidades de hacer, de ser, y que es él mismo quien bajo su exclusiva responsabilidad tiene que resolverse por una de ellas. Y que para resolverse a hacer esto y no aquello tiene, quiera o no, que justificar ante sus propios ojos la elección, es decir, tiene que descubrir cuál de sus acciones posibles en aquel instante es la que da más realidad a su vida, la que posee más sentido, la más suya. Si no elige ésa, sabe que se ha engañado a sí mismo, que ha falsificado su propia realidad, que ha aniquilado un instante de su tiempo vital, el cual, como antes dije, tiene contados sus instantes. No hay en esto que digo misticismo alguno: es evidente que el hombre no puede dar un solo paso sin justificarlo ante su propio íntimo tribunal. Cuando dentro de una hora nos encontremos a la puerta de este edificio tendremos, queramos o no, que decidir hacia dónde moveremos el pie, y para decidirlo, veremos surgir ante nosotros la imagen de lo que tenemos que hacer esta tarde, que a su vez depende de lo que tenemos que hacer mañana, y todo ello, en definitiva, de la figura general de vida que nos parece ser la más nuestra, la que tenemos que vivir para ser el que más auténticamente somos. De suerte que cada acción nuestra nos exige que la hagamos brotar de la anticipación total de nuestro destino y derivarla de un programa general para nuestra existencia. Y esto vale lo mismo para el hombre honrado y heroico que para el perverso o ruin; también el perverso se ve obligado a justificar ante sí mismo sus actos buscándoles sentido y papel en un programa de vida. De otro modo, quedaría inmóvil, paralítico, como el asno de Buridán.
+
+Entre los pocos papeles que, a su muerte, dejó Descartes, hay uno, escrito hacia los veinte años, que dice: Quod vitae sectabor iter? «¿Qué camino de vida elegiré?» Es una cita de cierto verso en que Ausonio, a su vez, traduce una vetusta poesía pitagórica, bajo el título: De ambiguitate eligendae vitae. «Desde la perplejidad en la elección de la vida».
+
+Hay en el hombre, por lo visto, la ineludible impresión de que su vida, por tanto, su ser, es algo que tiene que ser elegido. La cosa es estupefaciente; porque eso quiere decir que, a diferencia de todos los demás entes del universo, los cuales tienen un ser que les es dado ya prefijado, y por eso existen, a saber, porque son ya desde luego lo que son, el hombre es la única y casi inconcebible realidad que existe sin tener un ser irremediablemente prefijado, que no es desde luego y ya lo que es, sino que necesita elegirse su propio ser. ¿Cómo lo elegirá? Sin duda, porque se representará en su fantasía muchos tipos de vida posibles, y al tenerlos delante, notará que alguno de ellos le atrae más, tira de él, le reclama o le llama. Esta llamada que hacia un tipo de vida sentimos, esta voz o grito imperativo que asciende de nuestro más radical fondo, es la vocación.
+
+En ella le es al hombre, no impuesto, pero sí propuesto, lo que tiene que hacer. Y la vida adquiere, por ello, el carácter de la realización de un imperativo. En nuestra mano está querer realizarlo o no, ser fieles o ser infieles a nuestra vocación. Pero ésta, es decir, lo que verdaderamente tenemos que hacer, no está en nuestra mano. Nos viene inexorablemente propuesto. He aquí por qué toda vida humana tiene misión. Misión es esto: la conciencia que cada hombre tiene de su más auténtico ser que está llamado a realizar. La idea de misión es, pues, un ingrediente constitutivo de la condición humana, y como antes decía, sin hombre no hay misión, podemos ahora añadir: sin misión no hay hombre.

@@ -1,0 +1,31 @@
+---
+title: "Juan Luis Vives (1492-1540)"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> A chronological biographical sketch of Juan Luis Vives: Valencia, Paris, Bruges, his relation to Erasmus, the commentaries on the Psalms and the City of God, the book on poor relief, the 'De disciplinis' encyclopedia, poverty and death. A list of dates and works, with no doctrinal development.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/juan_luis_vives_1492-1540" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Juan Luis Vives (1492-1540)" data-chapter="" data-kind="intro"></span>
+
+(1492-1540)
+
+Nace Juan Luis Vives en Valencia, en el año 1492, del linaje de los Vives del Vergel, que llevaban en el blasón una siempreviva. Dos meses antes los Reyes Católicos habían ganado Granada y forjado la unidad de España. Siete meses después Colón ponía el pie en América. Vives estudió en la Universidad de Valencia, creada hacia 1500. Sus profesores fueron gente vulgar. En 1509 fue a París, como era uso, para aumentar su aprendizaje. En la Universidad de París no encontró, tampoco, más que un profesorado nulo. La luz venía de más al Norte, de los Países Bajos, donde Erasmo fulgía. Vives fue allá para conseguir olvidar no poco de lo aprendido en Valencia y París. Se acomodó en Brujas, de la que hizo su lugar de elección y donde pasó la mayor parte de su vida. Había en Brujas una amplia colonia de valencianos, entre ellos algunos de su parentela. Vives a los veinte años es uno de los más consumados humanistas de Europa. En 1512 pasa a Lovaina como preceptor de Guillermo de Croy, sobrino del primer ministro de Carlos Quinto, el señor de Chièvres. En 1514 publica su primera obra de religiosa elocuencia. En 1517 sus Comentarios a los Salmos penitenciales, su Introducción a las Geórgicas de Virgilio y sus Declamationes. Vives flota en su tiempo y las corrientes de éste empujan entreverados los temas teológicos y los del profano clasicismo. Es tiempo revuelto. Crisis profunda de creencias y de pensamientos en la gran unidad moral de Europa. En 1519, en su tratado Contra los pseudo-dialécticos, ataca a los escolásticos. Vives es, por ahora, un primer lancero en las huestes de Erasmo. En 1520 da a la imprenta un estudio sobre el trozo clásico de Cicerón, el Sueño de Escipión, donde ya se entrevé que acabarán por interesarle más la filosofía y la moral que el humanismo declamatorio. Se ocupa de cuestiones jurídicas, en las que es muy versado. En 1521 escribe sus famosos Comentarios a la Ciudad de Dios de San Agustín, que fueron, no mucho después, puestos en el Índice por motivos menores. Catalina de Aragón, mujer del inglés Enrique VIII, le otorga una pensión. En 1522 muere Antonio de Nebrija y le es ofrecida su cátedra de latinidad en Alcalá. Vives es en esta época el primer latinista del mundo. En 1523 permanece cierto tiempo en Valencia por motivos familiares. El mismo año pasa por Inglaterra: es promovido doctor en la Universidad de Oxford y se le nombra profesor de Humanidades en el colegio del Corpus Christi. En 1524 contrae nupcias en Brujas con Margarita Vallolaura, parienta suya. En 1525 publica su original libro Sobre el socorro a los pobres. Europa, sacudida en sus senos profundos por el protestantismo, se estremece en su superficie con guerras políticas. Batalla de Pavía. Vives, que es uno de los primeros pacifistas, escribe por la paz dos opúsculos dirigidos a Enrique VIII. En 1528 repudia éste a Catalina. Vives toma el partido de la reina, pero se niega a actuar y pierde la protección de ambos. Nueva época de penuria económica extrema. Vives fue siempre pobre. En 1532, por fin, le otorga Carlos V una muy reducida pensión. En 1531 publica su obra magna: la enciclopedia Sobre las enseñanzas, que es el antecedente de la Gran instauración de Bacon. Entre Brujas, Bruselas y Lovaina continúa viviendo. En esta última ciudad universitaria da cursos de Humanidades. Está enfermo. Vives es gotoso, como tantos otros hombres de su tiempo. En 1534 muere Erasmo, su maestro y su primer entusiasmo intelectual. Desde hacía años se habían distanciado un poco por la insolidaridad congénita de Erasmo con todos y con todo. Los temblores públicos prosiguen en Europa, cuyo suelo no se serena. Ahora son las revoluciones del comunismo místico en Mülhausen, en Zürich, en Münster y la «guerra de los labriegos» en Franconia. En 1535 escribe Vives contra estos comunistas su tratado Sobre la comunidad de los bienes. En 1538 publica su innovador libro de psicología Sobre el alma y los Coloquios, ejercicios escolares para aprender el latín que se han seguido imprimiendo durante tres siglos. Cálculos renales. Fiebre. Muere Juan Luis Vives el 6 de mayo de 1540. Tenía cuarenta y ocho años. En su vida, como se advierte, no le había pasado nada. Fue dulce y de gran mansedumbre. Sintió todos los conflictos de su tiempo, pero no hizo sino estudiar y escribir, como otros hacen otras cosas no menos aunque tampoco más valiosas.
+
+* * *
+
+La vida de un hombre, cualquiera sea su puesto social y su oficio, es una lucha por realizar su personal vocación en medio del mundo, según éste sea el tiempo de su nacimiento. El mundo histórico donde el hombre tiene que fabricarse su propia existencia se compone siempre de ciertas corrientes intelectuales, morales, políticas. De éstas, son unas adversas a su vocación individual que le obliga, quiera o no, a ser tal hombre determinado; otras le son favorables. La vida de un hombre es, pues, una precisa ecuación entre su vocación y el mundo en derredor. Es, pues, todo lo contrario de una serie de anécdotas. Es un teorema donde en vez de figuras geométricas se trata de dicha y desdicha. Con la sobriedad y el esquematismo extremos que el tiempo otorgado a una conferencia impone, intentaré hacer en este sentido la biografía de Luis Vives, una biografía esencial en que habrá mucho más de álgebra histórica que de chismes y cuentos.
+
+Noviembre de 1940

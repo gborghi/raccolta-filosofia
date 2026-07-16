@@ -245,6 +245,51 @@ function countWords(s) {
     .match(/\S+/g)
   return m ? m.length : 0
 }
+// ---- superfici del vocabolario dentro il testo di un atomo ------------------------
+// Le regole su cosa regga un rinvio al vocabolario (omonimie, nomi di filosofi,
+// stoplist, soglia sulle superfici generiche) stanno in scripts/link/vocab.py e
+// restano li': `scripts/link/export_surfaces.py` le applica al corpus e deposita la
+// tavola gia' filtrata in data/link_surfaces.json. Qui si legge quella tavola, mai
+// taxonomy.json in proprio: rifare il filtro in JS vorrebbe dire due copie della
+// stessa lezione, e la prima a divergere sarebbe quella che il lettore vede.
+function escapeRe(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+}
+
+// Un'unica alternanza ordinata dalla piu' lunga, come surface_pattern() in vocab.py:
+// cosi' "eternal recurrence" vince su "recurrence" invece di essere spezzata da essa.
+// I confini sono \p{L}\p{N}_- e non \w perche' il corpus non e' inglese: con \w
+// (solo ASCII) "Vernunft" dentro "Unvernunft" o un accento francese diventerebbero
+// un confine di parola, e la superficie matcherebbe a meta' di un'altra parola.
+function buildSurfaceRe(surfaces) {
+  const ordered = Object.keys(surfaces).sort((a, b) => b.length - a.length)
+  if (!ordered.length) return null
+  const body = ordered.map(escapeRe).join("|")
+  return new RegExp(`(?<![\\p{L}\\p{N}_-])(${body})(?![\\p{L}\\p{N}_-])`, "giu")
+}
+
+// L'insieme dei nodi del vocabolario che *questo* atomo nomina davvero.
+//
+// E' il punto in cui l'interlinking per atomo si distingue da quello per opera: i
+// tag di data/tags/ descrivono l'opera intera, e usarli qui darebbe lo stesso
+// blocco ripetuto sotto ognuno dei 40 atomi di un'opera. Il testo dell'atomo, no:
+// cambia a ogni atomo, ed e' l'unica fonte che dica di cosa parla *questa* pagina.
+function atomTokens(text, surfaces, re) {
+  const ids = new Set()
+  if (!re) return ids
+  for (const m of String(text).matchAll(re)) {
+    const found = m[1]
+    const entry = surfaces[found.toLowerCase()]
+    if (!entry) continue
+    // I nomi propri contano solo se il testo e' maiuscolo: la regex e'
+    // case-insensitive per cogliere le varianti, ma "hume" minuscolo in mezzo a una
+    // frase non e' il filosofo (stessa regola di run.py).
+    if (entry.cap && !/^\p{Lu}/u.test(found)) continue
+    ids.add(entry.id)
+  }
+  return ids
+}
+
 async function walkMd(dir) {
   const out = []
   async function rec(d) {
@@ -294,6 +339,24 @@ async function main() {
   }
   const idHref = new Map() // id -> "<typefolder>/<id>"
   for (const [id, info] of idInfo) idHref.set(id, `${TYPE_TO_OUT[info.type]}/${id}`)
+
+  // ---- load the linkable surfaces (data/link_surfaces.json) ------------------
+  // Assente = niente interlinking per atomo, e il resto del sito si costruisce
+  // uguale: e' un artefatto rigenerabile (scripts/link/export_surfaces.py), non una
+  // sorgente. Vale la pena dirlo a voce alta, pero': un blocco che sparisce senza un
+  // rumore lo si scopre dal sito, e tardi.
+  let linkSurfaces = null
+  try {
+    const raw = JSON.parse(await fs.readFile(path.join(DATA_DIR, "link_surfaces.json"), "utf8"))
+    linkSurfaces = raw.surfaces || {}
+  } catch (e) {
+    if (e.code !== "ENOENT") throw e
+    console.log(
+      "data/link_surfaces.json assente: niente 'Opere collegate' / 'In contrasto'." +
+        " Rigenera con: python scripts/link/export_surfaces.py",
+    )
+  }
+  const surfaceRe = linkSurfaces ? buildSurfaceRe(linkSurfaces) : null
 
   // ---- load per-work tags (data/tags/<Philosopher>.json) + live work_count ---
   const tagsDir = path.join(DATA_DIR, "tags")
@@ -421,6 +484,7 @@ async function main() {
   const works = [] // index.json records
   const workHrefByKey = new Map() // canonical workKey -> { href, title } (for KG-note link rewriting)
   const kwCountsByHref = {} // workHref -> Map<word,count> over the full concatenated atom text
+  const atomTokenSets = [] // { key: "<workSlug>#<atomId>", workHref, ids: Set<nodeId> }
   let workPages = 0
 
   for (const [workKey, { philosopher, atoms: allAtoms }] of workAtoms) {
@@ -508,6 +572,14 @@ async function main() {
         if (droppedH1) itBody = itBody.replace(H1_RE, "")
         itBody = rewriteLinks(itBody)
         itBody = itBody.trim()
+      }
+
+      // I nodi che questo atomo nomina, letti dal testo originale (mai dalla
+      // traduzione: il vocabolario e' misurato sulla fonte). La chiave e' la stessa
+      // che il lettore SPA risolve nell'hash, "<workSlug>#<atomId>".
+      if (surfaceRe) {
+        const ids = atomTokens(body, linkSurfaces, surfaceRe)
+        if (ids.size) atomTokenSets.push({ key: `${workSlug}#${atomId}`, workHref: workSlug, ids })
       }
 
       blocks.push(
@@ -608,6 +680,152 @@ async function main() {
   const kwArrays = topTfIdf(kwCountsByHref, 40)
   for (const w of works) w.kw = kwArrays[w.href] || []
 
+  // ---- "Opere collegate" / "In contrasto": interlinking atomo -> opera -------
+  // In fondo a ogni atomo, due domande diverse sullo stesso passo.
+  //
+  // "Opere collegate" e' l'affinita': le opere che parlano di cio' di cui parla
+  // *questo* atomo. I nodi li nomina l'atomo (atomTokens, dal suo testo); le opere
+  // candidate arrivano dai tag di data/tags/, che descrivono l'opera intera. I due
+  // lati sono asimmetrici di proposito: il lato-atomo cambia a ogni pagina, ed e'
+  // quello che impedisce al blocco di essere lo stesso elenco ripetuto sotto tutti
+  // gli atomi di un'opera.
+  //
+  // "In contrasto" e' l'opposto dichiarato: taxonomy.json porta su ogni posizione il
+  // campo `contro`, cioe' le posizioni che le si oppongono sullo stesso asse. Se
+  // l'atomo nomina la posizione P, le opere in contrasto sono quelle *tesate* su una
+  // posizione di P.contro. Qui il tag d'opera e' la fonte giusta e non un ripiego:
+  // "quest'opera sostiene la tesi opposta" e' un'affermazione sull'opera, non su una
+  // frase. Si mostra anche quale coppia si oppone (grace_and_merit <-> will_to_power):
+  // senza, il lettore vede un elenco di titoli e deve fidarsi.
+  //
+  // La rarita' pesa come nel passo per opera dell'inglese (1/log2(df+1)): un nodo di
+  // nicchia condiviso dice molto di piu' di uno onnipresente.
+  if (surfaceRe) {
+    const TAG_FIELDS = ["axes", "positions", "concepts", "arguments", "figures", "forms", "schools"]
+    const TOP_N = 6
+    // Sopra questa soglia il nodo non seleziona piu' niente: e' il fondo del corpus.
+    // Misurato su data/tags: 'essay' sta su 490 opere, 'state' su 187, 'beauty' su
+    // 101 - collegare tutto e' come non collegare niente. La mediana e' 5.
+    const DF_CAP = 80
+
+    const workMeta = new Map(works.map((w) => [w.href, w]))
+    const tokenWorks = new Map() // node id -> [work href] (tag a livello d'opera)
+    const posWorks = new Map() // position id -> [work href] (solo il campo positions)
+    for (const w of works) {
+      const seen = new Set()
+      for (const field of TAG_FIELDS) {
+        for (const id of w[field] || []) {
+          if (!seen.has(id)) {
+            seen.add(id)
+            if (!tokenWorks.has(id)) tokenWorks.set(id, [])
+            tokenWorks.get(id).push(w.href)
+          }
+          if (field === "positions") {
+            if (!posWorks.has(id)) posWorks.set(id, [])
+            posWorks.get(id).push(w.href)
+          }
+        }
+      }
+    }
+    const contro = new Map() // position id -> [position id opposta]
+    for (const p of taxRaw.positions || []) if (p.contro?.length) contro.set(p.id, p.contro)
+    const posOf = new Map(works.map((w) => [w.href, new Set(w.positions || [])]))
+    const weightOf = (df) => 1 / Math.log2(df + 1)
+
+    const related = {}
+    let withAffinity = 0
+    let withContrast = 0
+    for (const { key, workHref, ids } of atomTokenSets) {
+      // affinita'
+      const aScore = new Map() // href -> { s, shared }
+      for (const id of ids) {
+        const hrefs = tokenWorks.get(id)
+        if (!hrefs || hrefs.length > DF_CAP) continue
+        const weight = weightOf(hrefs.length)
+        for (const other of hrefs) {
+          if (other === workHref) continue // un'opera non e' collegata a se stessa
+          let v = aScore.get(other)
+          if (!v) aScore.set(other, (v = { s: 0, shared: 0 }))
+          v.s += weight
+          v.shared += 1
+        }
+      }
+      const affinity = [...aScore.entries()]
+        .sort((a, b) => b[1].s - a[1].s || b[1].shared - a[1].shared)
+        .slice(0, TOP_N)
+        .map(([href, v]) => {
+          const m = workMeta.get(href)
+          return { href, title: m.title, philosopher: m.philosopher, shared: v.shared }
+        })
+
+      // contrasto
+      const cScore = new Map() // href -> { s, pair: [P, Q] }
+      for (const id of ids) {
+        const opposti = contro.get(id)
+        if (!opposti) continue // solo le posizioni hanno un contro
+        for (const q of opposti) {
+          const hrefs = posWorks.get(q)
+          if (!hrefs || hrefs.length > DF_CAP) continue
+          const weight = weightOf(hrefs.length)
+          for (const other of hrefs) {
+            if (other === workHref) continue
+            // Un'opera taggata con *entrambe* le posizioni non si contrappone a
+            // niente: le discute. Il caso esiste (le storie della filosofia, le
+            // confutazioni), e senza questo controllo finirebbe fra gli opposti.
+            if (posOf.get(other)?.has(id)) continue
+            const v = cScore.get(other)
+            if (!v || weight > v.s) cScore.set(other, { s: weight, pair: [id, q] })
+          }
+        }
+      }
+      const contrast = [...cScore.entries()]
+        .sort((a, b) => b[1].s - a[1].s)
+        .slice(0, TOP_N)
+        .map(([href, v]) => {
+          const m = workMeta.get(href)
+          return { href, title: m.title, philosopher: m.philosopher, pair: v.pair }
+        })
+
+      if (!affinity.length && !contrast.length) continue
+      if (affinity.length) withAffinity++
+      if (contrast.length) withContrast++
+      related[key] = { a: affinity, c: contrast }
+    }
+
+    // Uno shard per opera (pochi KB) invece di un indice unico da megabyte: una
+    // pagina di lettura scarica solo il proprio. Le chiavi sono "<workSlug>#<atomId>",
+    // quindi si raggruppano sul workSlug prima del '#'.
+    const shardDir = path.join(STATIC_DIR, "atom_related")
+    await fs.rm(shardDir, { recursive: true, force: true })
+    await fs.mkdir(shardDir, { recursive: true })
+    const byWork = new Map()
+    for (const [key, val] of Object.entries(related)) {
+      const workSlug = key.split("#")[0]
+      if (!byWork.has(workSlug)) byWork.set(workSlug, {})
+      byWork.get(workSlug)[key] = val
+    }
+    const shardKeys = []
+    for (const [workSlug, obj] of byWork) {
+      const k = workSlug.replace(/\//g, "__")
+      shardKeys.push(k)
+      await fs.writeFile(path.join(shardDir, k + ".json"), JSON.stringify(obj))
+    }
+    // Manifesto degli shard esistenti. atomRouter lo scarica una volta e chiede uno
+    // shard solo se la sua chiave e' qui: senza, ogni pagina di lettura priva di
+    // shard registrerebbe un 404 (la lezione dell'inglese, gia' pagata una volta).
+    await fs.writeFile(path.join(shardDir, "_index.json"), JSON.stringify(shardKeys))
+    // Un atomo senza blocco non e' un difetto: un passo di pura narrazione non nomina
+    // nessun nodo, e li' sotto non deve comparire niente. Il conto e' su tre livelli
+    // proprio per poterlo vedere.
+    const totalAtoms = works.reduce((n, w) => n + w.atoms, 0)
+    console.log(
+      `atom_related: ${atomTokenSets.length}/${totalAtoms} atomi nominano il vocabolario, ` +
+        `${Object.keys(related).length} hanno un blocco ` +
+        `(${withAffinity} "Opere collegate", ${withContrast} "In contrasto") ` +
+        `-> ${byWork.size} shard per opera`,
+    )
+  }
+
   // ---- rewrite [[wikilinks]] in Knowledge Graph note bodies ------------------
   // A wikilink target is either another node id (axis/position/concept/argument/
   // figure/form/school) or a work basename (the "## Opere" lists). Anything that
@@ -658,7 +876,12 @@ async function main() {
   //     with — so an English query ("empiricism") reaches a work only tagged via
   //     its Italian label or a German/Latin passage, and vice versa. This is an
   //     addition on top of the existing canonical-id fields, not a replacement.
-  const kwIndex = {} // term -> Set<href>
+  // Object.create(null) e non {}: le chiavi qui sono parole del testo, e un oggetto
+  // normale ne ha gia' alcune per nascita. Ortega scrive "constructor" (jorge_simmel,
+  // in spagnolo), kwIndex["constructor"] risponde con Object.prototype.constructor
+  // invece che con undefined, e il build muore su `.add is not a function`. Vale per
+  // toString, valueOf, __proto__: parole rare, ma il corpus cresce.
+  const kwIndex = Object.create(null) // term -> Set<href>
   function addKwTerm(term, href) {
     const t = String(term || "").trim().toLowerCase()
     if (!t) return

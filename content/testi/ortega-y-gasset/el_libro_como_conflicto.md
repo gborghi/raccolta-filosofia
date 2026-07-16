@@ -1,0 +1,41 @@
+---
+title: "El libro como conflicto"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> A lecture to librarians: there are already too many books, and the culture that freed man from the primeval forest throws him back into a forest of print. The remedy requires the imperative of historical consciousness: a history articulating the past into generations and compiling a "statistics of ideas".
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/el_libro_como_conflicto" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="El libro como conflicto" data-chapter="" data-kind="intro"></span>
+
+Los más graves atributos negativos que comenzamos hoy a percibir en el libro son éstos:
+
+1.º Hay ya demasiados libros. Aun reduciendo sobremanera el número de temas a que cada hombre dedica su atención, la cantidad de libros que necesita ingerir es tan enorme que rebosa los límites de su tiempo y de su capacidad de asimilación. La mera orientación en la bibliografía de un asunto representa hoy para cada autor un esfuerzo considerable que gasta en pura pérdida. Pero una vez hecho este esfuerzo se encuentra con que no puede leer todo lo que debería leer. Esto le lleva a leer de prisa, a leer mal y, además, le deja con una impresión de impotencia y fracaso, a la postre de escepticismo hacia su propia obra.
+
+Si cada nueva generación va a seguir acumulando papel impreso en la proporción de las últimas, el problema que plantee el exceso de libros será pavoroso. La cultura que había libertado al hombre de la selva primigenia, le arroja de nuevo en una selva de libros no menos inextricable y ahogadora.
+
+Y es vano querer resolver el conflicto suponiendo que esa necesidad de leer los libros acumulados por el pretérito no existe, que se trata de uno entre los muchos tópicos inanes de la beatería ante la «cultura», vigente todavía en las almas hace unos pocos años. La verdad es lo contrario. Bajo la superficie de nuestro tiempo está germinando, sin que los individuos lo aperciban aún, un nuevo y radical imperativo de la inteligencia: el imperativo de la conciencia histórica. Pronto va a brotar con enérgica evidencia la convicción de que si el hombre quiere de verdad poner en claro su ser y su destino, es preciso que logre adquirir la conciencia histórica de sí mismo, esto es, que se ponga en serio a hacer historia como hacia 1600 se puso en serio a hacer física. Y esa historia será, no la utopía de ciencia que hasta ahora ha sido, sino un conocimiento efectivo. Y para que lo sea, hacen falta muchos ingredientes exquisitos; por lo pronto, uno, el más obvio: la precisión. Este atributo de la precisión, en apariencia formal y extrínseco, es el primero que aparece en una ciencia cuando le llega la hora de su auténtica constitución. La historia que se hará mañana no hablará tan galanamente de épocas y de centurias, sino que articulará el pasado en muy breves etapas de carácter orgánico, en generaciones, e intentará definir con todo rigor la estructura de la vida humana en cada una de ellas. Y para hacer esto no se contentará con destacar estas o las otras obras que arbitrariamente se califican de «representativas», sino que necesitará real y efectivamente leerse todos los libros de un tiempo y filiarlos cuidadosamente, llegando a establecer lo que yo llamaría una «estadística de las ideas», a fin de precisar con todo rigor el instante cronológico en que una idea brota, el proceso de su expansión, el período exacto que dura como vigencia colectiva y luego la hora de su declinación, de su anquilosamiento en mero tópico, en fin, su ocaso tras el horizonte del tiempo histórico.
+
+No podrá darse cima a toda esta enorme tarea si el bibliotecario no procura reducir su dificultad en la medida que a él le corresponde, exonerando de esfuerzos inútiles a los hombres cuya triste misión es y tiene que ser leer muchos libros, los más posibles; al naturalista, al médico, al filólogo, al historiador. Es preciso que deje, por completo, de ser cuestión para un autor reunir la bibliografía sobre su asunto previamente razonada y cribada. Que esto no acontezca ya parece incompatible con la altura de los tiempos. La economía del esfuerzo mental lo exige con urgencia. Hay, pues, que crear una nueva técnica bibliográfica de un automatismo rigoroso. En ella conquistará su última potencia lo que vuestro oficio inició siglos hace bajo la figura de catalogación.
+
+2.º Mas no sólo hay ya demasiados libros, sino que constantemente se producen en abundancia torrencial. Muchos de ellos son inútiles o estúpidos, constituyendo su presencia y conservación un lastre más para la humanidad, que va de sobra encorvada bajo sus otras cargas. Pero, a la vez, acaece que en toda disciplina se echan de menos con frecuencia ciertos libros cuyo defecto traba la marcha de la investigación. Esto último es mucho más grave de lo que su vaga enunciación hace suponer. Es incalculable cuántas soluciones importantes sobre las cuestiones más diversas no llegan a madurez por tropezar con vacíos en investigaciones previas. La sobra y el defecto de libros proceden de lo mismo: que la producción se efectúa sin régimen, abandonada casi totalmente a su espontáneo azar.
+
+¿Es demasiado utópico imaginar que en un futuro nada lejano será vuestra profesión encargada por la sociedad de regular la producción del libro, a fin de evitar que se publiquen los innecesarios, y que, en cambio, no falten los que el sistema de problemas vivos en cada época reclaman? Todas las faenas humanas comienzan por un ejercicio espontáneo y sin reglamento; pero todas, cuando por su propia plenitud se complican y atropellan, entran en un período de sometimiento a la organización. Me parece que ha llegado la hora de organizar colectivamente la producción del libro. Es para el libro mismo, como modo humano, cuestión de vida o muerte.
+
+No se venga con la tontería de que tal organización sería atentatoria a la libertad. La libertad no ha aparecido en el planeta para desnucar al sentido común. Porque se la ha querido emplear en esta empresa, porque se ha pretendido hacer de ella el gran instrumento de la insensatez, la libertad está pasando en el planeta un mal cuarto de hora. La organización colectiva de la producción libresca no tiene nada que ver con el tema de la libertad como no tiene que ver con él la necesidad que se ha impuesto de reglamentar la circulación en las grandes urbes. Sobre que esa organización —dificultar la emisión de libros inútiles o necios y fomentar la de determinadas obras cuya ausencia daña— no había de tener carácter autoritario, como no lo tiene la organización interior de los trabajos en una buena Academia de Ciencias.
+
+3.º Por otra parte, tendrá el bibliotecario del porvenir que dirigir al lector no especializado por la selva selvaggia de los libros y ser el médico, el higienista de sus lecturas. También en este punto nos encontramos en una situación con signo inverso a la de 1800. Hoy se lee demasiado: la comodidad de poder recibir con poco o ningún esfuerzo innumerables ideas almacenadas en los libros y periódicos, va acostumbrando al hombre, ha acostumbrado ya al hombre medio, a no pensar por su cuenta y a no repensar lo que lee, única manera de hacerlo verdaderamente suyo. Éste es el carácter más grave, más radicalmente negativo del libro. Por ello merece la pena de que le dediquemos, como voy a hacerlo en seguida, nuestra última consideración. Buena parte de los terribles problemas públicos que hay hoy planteados proceden de que las cabezas medias están atestadas de ideas inercialmente recibidas, entendidas a medias, desvirtualizadas —atestadas, pues, de pseudo-ideas. En esta dimensión de su oficio imagino al futuro bibliotecario como un filtro que se interpone entre el torrente de los libros y el hombre.
+
+En suma, señores, que a mi juicio la misión del bibliotecario habrá de ser, no como hasta aquí, la simple administración de la cosa libro, sino el ajuste, la mise au point de la función vital que es el libro.

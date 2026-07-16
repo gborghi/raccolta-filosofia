@@ -2,7 +2,7 @@
 title: Assi tematici
 ---
 
-Le opere si connettono attraverso 14 assi filosofici. Ogni asse apre lo spettro delle posizioni che vi si contrappongono.
+Le opere si connettono attraverso 17 assi filosofici. Ogni asse apre lo spettro delle posizioni che vi si contrappongono.
 
 - [**Origine della conoscenza** / Origin of knowledge](/axes/knowledge_origin) — *Da dove viene ciò che sappiamo?*
 - [**Statuto del reale** / Status of the real](/axes/reality_status) — *Di che cosa è fatto ciò che è?*
@@ -18,5 +18,8 @@ Le opere si connettono attraverso 14 assi filosofici. Ogni asse apre lo spettro 
 - [**Metodo** / Method](/axes/method) — *Come si arriva alla verità?*
 - [**Tempo e morte** / Time and death](/axes/time_and_death) — *Che cosa fa di noi la mortalità?*
 - [**Stato e individuo** / State and individual](/axes/state_and_individual) — *Fin dove arriva il diritto dello Stato sulla persona?*
+- [**Principio dell'arte tragica** / Principle of tragic art](/axes/tragic_art_principle) — *Da quali forze nasce l'arte tragica?*
+- [**Genesi dei valori morali** / Genesis of moral values](/axes/morality_genesis) — *Chi crea i valori morali, e da dove nascono?*
+- [**Fede e ragione** / Faith and reason](/axes/faith_reason) — *Come stanno insieme fede e ragione?*
 
 Puoi anche [sfogliare tutte le opere](opere) o [cercare per tema](cerca).

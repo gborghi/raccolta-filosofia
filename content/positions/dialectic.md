@@ -10,7 +10,7 @@ aliases:
 axis: "method"
 contro:
   - "induction"
-work_count: 8
+work_count: 13
 tags:
   - "graph/position"
 title: "dialettica"
@@ -23,14 +23,27 @@ Posizione sull'asse [Metodo](/axes/method).
 
 **Contro:** [induzione](/positions/induction)
 
-## Opere (8)
+## Opere (13)
+
+**Aristotle**
+- [Rhetoric (1354a)](/testi/aristotle/rhetoric_1354a)
+- [Topics (100a)](/testi/aristotle/topics_100a)
 
 **Hegel**
-- [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
-- [Hegel’s Philosophy of Mind](/testi/hegel/hegels_philosophy_of_mind)
 - [Lectures on the History of Philosophy](/testi/hegel/lectures_on_the_history_of_philosophy)
-- [Lectures on the Proofs of the Existence of God](/testi/hegel/lectures_on_the_proofs_of_the_existence_of_god)
 - [The Logic of Hegel](/testi/hegel/the_logic_of_hegel)
 - [The Phenomenology of Spirit](/testi/hegel/the_phenomenology_of_spirit)
-- [The Philosophy of Fine Art](/testi/hegel/the_philosophy_of_fine_art)
-- [The Philosophy of History](/testi/hegel/the_philosophy_of_history)
+
+**Marx**
+- [THE POVERTY OF PHILOSOPHY, 1847](/testi/marx/the_poverty_of_philosophy_1847)
+
+**Ortega y Gasset**
+- [El deber de la nueva generación argentina](/testi/ortega-y-gasset/el_deber_de_la_nueva_generación_argentina)
+
+**Plato**
+- [PARMENIDES](/testi/plato/parmenides)
+- [PHAEDRUS](/testi/plato/phaedrus)
+- [SOPHIST](/testi/plato/sophist)
+- [STATESMAN](/testi/plato/statesman)
+- [THEAETETUS](/testi/plato/theaetetus)
+- [THE REPUBLIC](/testi/plato/the_republic)

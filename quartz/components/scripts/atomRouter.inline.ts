@@ -27,13 +27,26 @@ interface Atom {
 
 const LANG_KEY = "eng-reader-lang"
 
-// The set of work-shard keys that actually have chapter-related data, loaded once from
-// static/chapter_related/_index.json (emitted by preprocess). Gating shard fetches on
-// this avoids a 404 on every reading page that has no shard (the large majority).
+// Una voce di "Opere collegate" o "In contrasto" (vedi atom_related in preprocess.mjs).
+interface RelatedItem {
+  href: string
+  title: string
+  philosopher?: string
+  shared?: number
+  pair?: [string, string] // la coppia che si oppone: [posizione dell'atomo, posizione contraria]
+}
+interface AtomRelated {
+  a?: RelatedItem[] // affinita': "Opere collegate"
+  c?: RelatedItem[] // opposizione dichiarata (taxonomy `contro`): "In contrasto"
+}
+
+// The set of work-shard keys that actually have atom-related data, loaded once from
+// static/atom_related/_index.json (emitted by preprocess). Gating shard fetches on
+// this avoids a 404 on every reading page that has no shard.
 let relatedIndexPromise: Promise<Set<string>> | null = null
 function relatedIndex(bp: string): Promise<Set<string>> {
   if (!relatedIndexPromise) {
-    relatedIndexPromise = fetch(`${bp}/static/chapter_related/_index.json`)
+    relatedIndexPromise = fetch(`${bp}/static/atom_related/_index.json`)
       .then((r) => (r.ok ? (r.json() as Promise<string[]>) : []))
       .then((a) => new Set(a))
       .catch(() => new Set<string>())
@@ -139,19 +152,20 @@ function build(reader: HTMLElement) {
   let lang: "en" | "it" =
     anyIt && localStorage.getItem(LANG_KEY) === "it" ? "it" : "en"
 
-  // per-atom "Capitoli correlati" (#17): keyed by workSlug#atomId. Loaded async; a
-  // re-render fires once it arrives. The router owns this (not relatedWorks.inline.ts)
-  // because the reading pane is swapped on every atom change.
+  // "Opere collegate" / "In contrasto" per atomo: chiave "<workSlug>#<atomId>", la
+  // stessa che preprocess emette e che l'hash della pagina risolve. Caricato async; al
+  // suo arrivo scatta un re-render. Lo possiede il router (non relatedWorks.inline.ts)
+  // perche' il pannello di lettura viene sostituito a ogni cambio di atomo.
   const workSlug = reader.dataset.work || ""
   const BP = (document.body && (document.body as HTMLElement).dataset.basepath) || ""
-  let relatedData: Record<string, Array<Record<string, unknown>>> | null = null
-  // Per-work shard (few KB) instead of the whole ~7MB index. Only ~231 of the 2000+
-  // reading pages have chapter-related data, so gate the shard fetch on a tiny manifest
-  // (relatedIndex) — otherwise every other reading page logs a 404 for a missing shard.
+  let relatedData: Record<string, AtomRelated> | null = null
+  // Per-work shard (few KB) instead of one index for the whole corpus. Reading pages
+  // whose work has no shard must not fetch one, so gate on the tiny manifest
+  // (relatedIndex) — otherwise every one of them logs a 404 for a missing file.
   const shardKey = workSlug.replace(/\//g, "__")
   relatedIndex(BP).then((idx) => {
     if (!idx.has(shardKey)) return // no shard for this work → skip the fetch (no 404)
-    fetch(`${BP}/static/chapter_related/${shardKey}.json`)
+    fetch(`${BP}/static/atom_related/${shardKey}.json`)
       .then((r) => (r.ok ? r.json() : {}))
       .then((d) => {
         relatedData = d
@@ -237,6 +251,41 @@ function build(reader: HTMLElement) {
     enBtn.classList.toggle("active", lang === "en")
     itBtn.classList.toggle("active", lang === "it")
   }
+  // Un blocco di rinvii ad altre OPERE (mai a un atomo: il rinvio e' all'opera, che si
+  // apre sulla sua prima pagina). L'opera dell'atomo corrente non c'e' mai — la esclude
+  // preprocess, sia nell'affinita' sia nel contrasto.
+  function section(title: string, items: RelatedItem[], cls: string): HTMLElement {
+    const wrap = el("section", cls)
+    wrap.append(el("h2", undefined, title))
+    const ul = document.createElement("ul")
+    for (const it of items) {
+      const li = document.createElement("li")
+      li.className = "rw-work"
+      const link = document.createElement("a")
+      link.href = `${BP}/${it.href}`
+      link.textContent = it.title || it.href
+      li.append(link)
+      if (it.philosopher) {
+        const p = document.createElement("span")
+        p.className = "rw-author"
+        p.textContent = ` — ${it.philosopher}`
+        li.append(p)
+      }
+      // Quale coppia si oppone, in chiaro: senza, "In contrasto" e' un elenco di
+      // titoli da prendere sulla fiducia. Gli id sono quelli canonici del vocabolario
+      // (language-agnostic), gli stessi che il lettore ritrova nelle pagine dei nodi.
+      if (it.pair) {
+        const d = document.createElement("div")
+        d.className = "rw-pair"
+        d.textContent = `${it.pair[0]} ↔ ${it.pair[1]}`
+        li.append(d)
+      }
+      ul.append(li)
+    }
+    wrap.append(ul)
+    return wrap
+  }
+
   function render(id: string) {
     const a = byId.get(id) || atoms[0]
     shownId = a.id
@@ -260,42 +309,16 @@ function build(reader: HTMLElement) {
     )
     const active = toc.querySelector(".ar-toc-link.active") as HTMLElement | null
     active?.scrollIntoView({ block: "nearest" })
-    // related chapters for this atom
+    // "Opere collegate" / "In contrasto" per QUESTO atomo. Un atomo di pura narrazione
+    // non nomina nessun nodo del vocabolario e quindi non ha una chiave: sotto non
+    // compare niente, ed e' la risposta giusta — non un buco da riempire.
     relatedEl.replaceChildren()
     relatedEl.className = "ar-related"
-    // #17 tags are chapter-level; a part atom (chapter_01--part_01) inherits its
-    // chapter's related set, so fall back to the chapter id.
-    const rel =
-      relatedData &&
-      (relatedData[`${workSlug}#${a.id}`] ||
-        relatedData[`${workSlug}#${a.id.split("--")[0]}`])
-    if (rel && rel.length) {
+    const rel = relatedData && relatedData[`${workSlug}#${a.id}`]
+    if (rel && ((rel.a && rel.a.length) || (rel.c && rel.c.length))) {
       relatedEl.className = "ar-related related-works"
-      relatedEl.append(el("h2", undefined, "Related chapters"))
-      const ul = document.createElement("ul")
-      for (const it of rel) {
-        const li = document.createElement("li")
-        li.className = "rw-chapter"
-        const parts = String(it.href).split("#")
-        const link = document.createElement("a")
-        link.href = parts[0] === workSlug ? `#${parts[1]}` : `${BP}/${it.href}`
-        link.textContent = String(it.title || "")
-        li.append(link)
-        if (it.work) {
-          const w = document.createElement("span")
-          w.className = "rw-author"
-          w.textContent = ` — ${it.work}`
-          li.append(w)
-        }
-        if (it.plot) {
-          const p = document.createElement("div")
-          p.className = "rw-plot"
-          p.textContent = String(it.plot)
-          li.append(p)
-        }
-        ul.append(li)
-      }
-      relatedEl.append(ul)
+      if (rel.a?.length) relatedEl.append(section("Opere collegate", rel.a, "rw-affinity"))
+      if (rel.c?.length) relatedEl.append(section("In contrasto", rel.c, "rw-contrast"))
     }
     const i = idx(a.id)
     prevBtn.disabled = i <= 0

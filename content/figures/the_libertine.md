@@ -7,7 +7,7 @@ aliases:
   - "scommessa"
   - "wager"
   - "Pascal"
-work_count: 1
+work_count: 2
 tags:
   - "graph/figure"
 title: "il libertino"
@@ -16,7 +16,8 @@ title: "il libertino"
 
 *the libertine*
 
-## Opere (1)
+## Opere (2)
 
 **Pascal**
+- [Conversation on Religion](/testi/pascal/conversation_on_religion)
 - [Thoughts (1670)](/testi/pascal/thoughts_1670)

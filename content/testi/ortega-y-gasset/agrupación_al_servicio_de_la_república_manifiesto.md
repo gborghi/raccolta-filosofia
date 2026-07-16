@@ -1,0 +1,47 @@
+---
+title: "Agrupación al Servicio de la República.— [Manifiesto]"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> The founding manifesto of the Agrupación al Servicio de la República: the traditional Spanish state is decomposing through its own vices, and the Sagunto monarchy never became a nationalised institution but an association of particular groups living parasitically on the nation. Against fascism and bolshevism, which lead into dead ends, it calls for a Republic resting on the free and enthusiastic collaboration of every citizen.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/agrupación_al_servicio_de_la_república_manifiesto" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Agrupación al Servicio de la República.— [Manifiesto]" data-chapter="" data-kind="intro"></span>
+
+Cuando la historia de un pueblo fluye dentro de su normalidad cotidiana parece lícito que cada cual viva atento sólo a su oficio y entregado a su vocación. Pero cuando llegan tiempos de crisis profunda, en que rota o caduca toda normalidad van a decidirse los nuevos destinos nacionales, es obligatorio para todos salir de su profesión y ponerse sin reservas al servicio de la necesidad pública. Es tan notorio, tan evidente, hallarse hoy España en una situación extrema de esta índole que estorbaría encarecerlo con procedimientos de inoportuna grandilocuencia. En los meses, casi diríamos en las semanas, que sobrevienen tienen los españoles que tomar sobre sí, quieran o no, la responsabilidad de una de esas grandes decisiones colectivas en que los pueblos crean irrevocablemente su propio futuro. Esta convicción nos impulsa a dirigirnos hoy a nuestros conciudadanos, especialmente a los que se ocupan en profesiones afines con las nuestras. No hemos sido nunca hombres políticos; pero nos hemos presentado en las filas de la contienda pública siempre que el tamaño del peligro lo hacía inexcusable. Ahora son superlativas la urgencia y la gravedad de la [circunstancia](/positions/life_as_project). Esto, y no pretensión alguna de entender mejor que cualesquiera otros españoles los asuntos nacionales, nos mueve a iniciar con máxima actividad una amplia campaña política. Debieron ser personas mejor dotadas que nosotros para empresas de esta índole quienes iniciasen y dirigiesen la labor. Pero hemos esperado en vano su llamamiento y como el [caso](/concepts/fortune) no permite ni demora ni evasiva nos vemos forzados a hacerlo nosotros, muy a sabiendas de nuestras limitaciones.
+
+El Estado español tradicional llega ahora al grado postrero de su descomposición. No procede ésta de que encontrase frente a sí la hostilidad de fuerzas poderosas, sino que sucumbe corrompido por sus propios vicios sustantivos. La Monarquía de Sagunto no ha sabido convertirse en una institución nacionalizada, es decir, en un sistema de Poder público que se supeditase a las exigencias profundas de la nación y viviese solidarizado con ellas, sino que ha sido una asociación de grupos particulares que vivió parasitariamente sobre el organismo español, usando del Poder público para la defensa de los intereses parciales que representaba. Nunca se ha sacrificado, aceptando con generosidad, las necesidades vitales de nuestro pueblo sino que, por el contrario, ha impedido siempre su marcha natural por las rutas históricas, fomentando sus defectos inveterados y desalentando toda buena inspiración. De aquí que día por día se haya ido quedando sola la Monarquía y concluyese por mostrar a la intemperie su verdadero carácter, que no es el de un Estado nacional, sino el de un Poder público convertido fraudulentamente en parcialidad y en facción.
+
+Nosotros creemos que ese viejo Estado tiene que ser sustituido por otro auténticamente nacional. Esta palabra nacional no es vana; antes bien, designa una manera de entender la vida pública que lo acontecido en el mundo durante los últimos años de nuevo corrobora. Ensayos como el fascismo y el bolchevismo marcan la vía por donde los pueblos van a parar en callejones sin salida, por eso, apenas nacidos padecen ya la falta de claras perspectivas. Se quiso en ambos olvidar que, hoy más que nunca, un pueblo es una gigantesca empresa histórica, la cual sólo puede llevarse a cabo o sostenerse mediante la entusiasta y libre colaboración de todos los ciudadanos unidos bajo una disciplina más de espontáneo fervor que de rigor impuesto. La tarea enorme e inaplazable de remozamiento técnico, económico, social e intelectual que España tiene ante sí no se puede acometer si no se logra que cada español dé su máximo rendimiento vital. Pero esto no es posible si no se instaura un Estado que por la amplitud de su base jurídica y administrativa permita a todos los ciudadanos solidarizarse con él y participar en su alta gestión. Por eso creemos que la Monarquía de Sagunto ha de ser sustituida por una República que despierte en todos los españoles, a un tiempo, dinamismo y disciplina llamándolos a la soberana empresa de resucitar la historia de España, renovando la vida peninsular en todas sus dimensiones, atrayendo todas las capacidades, imponiendo un orden de limpia y enérgica ley, dando a la justicia completa transparencia, exigiendo mucho de cada ciudadano: trabajo, destreza, eficacia, formalidad y la resolución de levantar nuestro país hasta la plena altitud de los tiempos.
+
+Pero es ilusorio imaginar que la Monarquía va a ceder galantemente el paso a un sistema de Poder público tan opuesto a sus malos usos, a sus privilegios y egoísmos. Sólo se rendirá bajo una formidable presión de la opinión pública. Es, pues, urgentísimo organizar esa presión haciendo que sobre el capricho monárquico pese con suma energía la voluntad republicana de nuestro pueblo. Ésta es la labor ingente que el momento reclama. Nosotros nos ponemos a su servicio. No se trata de formar un partido político. No es sazón de partir sino de unificar. Nos proponemos suscitar una amplísima «Agrupación al Servicio de la República», cuyos esfuerzos tenderán a lo siguiente:
+
+1.º Movilizar a todos los españoles de oficio intelectual para que formen un copioso contingente de propagandistas y defensores de la República española. Llamaremos a todo el profesorado y magisterio, a los escritores y artistas, a los médicos, a los ingenieros, arquitectos y técnicos de toda clase, a los abogados, notarios y demás hombres de ley. Muy especialmente necesitamos la colaboración de la juventud. Tratándose de decidir el futuro de España, es imprescindible la presencia activa y sincera de una generación en cuya sangre fermenta la sustancia del porvenir. De corazón ampliaríamos a los sacerdotes y religiosos este llamamiento, que a fuer de nacional preferiría no excluir a nadie; pero nos cohíbe la presunción de que nuestras personas carecen de influjo suficiente sobre esas respetables fuerzas sociales.
+
+Como la «Agrupación al Servicio de la República» no va a modelarse en partido, sino a hacer una leva general de fuerzas que combatan a la Monarquía, no es inconveniente para alistarse en ella hallarse adscrito a los partidos o grupos que afirman la República, con los cuales procuraremos mantener contacto permanente.
+
+2.º Con este organismo de avanzada, bien disciplinado y extendido sobre toda España actuaremos apasionadamente sobre el resto del cuerpo nacional, exaltando la grande promesa histórica que es la República española y preparando su triunfo en unas elecciones constituyentes, ejecutadas con las máximas garantías de pulcritud civil.
+
+3.º Pero, al mismo tiempo, nuestra «Agrupación» irá organizando, desde la capital hasta la aldea y el caserío, la nueva vida pública de España en todos sus haces, a fin de lograr la sólida instauración y el ejemplar funcionamiento del nuevo Estado republicano.
+
+Importa mucho que España cuente pronto con un Estado eficazmente constituido, que sea como una buena máquina en punto, porque bajo las inquietudes políticas de estos años late algo todavía más hondo y decisivo: el despertar de nuestro pueblo a una existencia más enérgica, su renaciente afán de hacerse respetar e intervenir en la historia del mundo. Se oye con frecuencia, más allá de nuestras fronteras, proclamar, como el nuevo hecho de grandes proporciones que apunta en el horizonte y modificará el porvenir, el germinante resurgir ibérico a ambos lados del Atlántico. Nos alienta tan magnífico agüero; pero su realización supone que las almas españolas queden liberadas de la domesticidad y el envilecimiento en que las ha mantenido la Monarquía, incapaz de altas empresas y de construir un orden que, a la vez, impere y dignifique. La República será el símbolo de que los españoles se han resuelto por fin a tomar briosamente en sus manos propias su propio e intransferible destino.
+
+José Ortega y Gasset. Gregorio Marañón. Ramón Pérez de Ayala.
+
+Las personas que deseen prestar su adhesión se dirigirán, preferentemente por escrito, a nombre de uno de los firmantes, Avenida de Pi y Margall, núm. 9, piso C. Despacho 17, indicando su profesión y domicilio.
+
+¡DEBÉIS HACER COPIAS DE ESTE LLAMAMIENTO Y REPARTIRLAS ENTRE VUESTROS AMIGOS!
+
+1931

@@ -11,7 +11,7 @@ axis: "human_nature"
 contro:
   - "innatism"
   - "original_sin"
-work_count: 3
+work_count: 2
 tags:
   - "graph/position"
 title: "tabula rasa"
@@ -24,10 +24,7 @@ Posizione sull'asse [Natura umana](/axes/human_nature).
 
 **Contro:** [innatismo](/positions/innatism), [peccato originale](/positions/original_sin)
 
-## Opere (3)
-
-**Kant**
-- [ON EDUCATION](/testi/kant/on_education)
+## Opere (2)
 
 **Locke**
 - [AN ESSAY CONCERNING HUMAN UNDERSTANDING](/testi/locke/an_essay_concerning_human_understanding)

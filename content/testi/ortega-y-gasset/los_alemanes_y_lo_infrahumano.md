@@ -1,0 +1,85 @@
+---
+title: "Los alemanes y lo infrahumano"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> Apropos Hebbel's Nibelungen: Germans love the ante-human, and when they dream the superhuman they underline the underlying animality instead of moving away from it — Stendhal talks like a citizen in a café, Nietzsche disguises himself as Zarathustra. But the defect springs from a virtue: Mediterranean, urban culture had severed the channels binding man to the cosmos.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/los_alemanes_y_lo_infrahumano" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Los alemanes y lo infrahumano" data-chapter="" data-kind="intro"></span>
+
+Madrid, junio de 1924
+
+Hebbel, el dramaturgo romántico y archialemán, es aún poco conocido en los países de latinidad. Yo espero que no tarde en completarse la versión castellana de su obra. Judith, María Magdalena, Herodes y Mariamne estaban ya traducidas. Ahora ha aparecido en la «Colección Universal» los Nibelungos su ingente obra postrera.
+
+Los Nibelungos con sus once actos —son dos dramas de a cinco y un prólogo— nos proporcionan un trato bastante íntimo con una gente atroz: Gunther, Sigfrido, Brunilda, Krimilda… Todas estas figuras del viejo poema germánico gesticulan ante nosotros con sus toscos y superlativos ademanes de humanidad a medio hacer. Hebbel se complace en ellos. Era romántico y alemán, es decir, dos veces romántico. Con la más generosa abundancia dota a estas fisonomías de una corpulenta retórica hecha de grandes posturas hercúleas y vastas actitudes a lo Miguel Ángel. En general, no conozco personajes poéticos que se parezcan más a los marmóreos de este cíclope escultor. Durante los once actos hacen estos gigantes de ambos sexos una reiterada ostentación de sus bíceps.
+
+El parentesco con la fauna colosal de Miguel Ángel es, sin embargo, aún más profunda. En aquél, la propensión al gigantismo se presenta unida a una extrema acentuación de lo infrahumano. Notorio es que muchas de sus figuras tienen un aire sobrio. La nariz se deprime cerca del labio como en los chivos y el gesto todo conserva un misterioso tufo animal. Los seres de Hebbel son, parejamente, colosos de humanidad donde aún vibra el instinto de la bestia y la fiera.
+
+Es muy frecuente en los alemanes esta simpatía por lo antehumano y, cuando sueñan lo sobrehumano, en lugar de apartarse más del animal lo subrayan como si toda grandeza de hombre sólo fuese posible merced a un aumento paralelo de la animalidad básica. Les cuesta mucho esfuerzo mantenerse en esa zona intermedia templada entre la bestia y el arcángel que es el hombre. Conviene comparar, por ejemplo, dos pensadores que tienen tantas cosas comunes que decirnos como Stendhal y Nietzsche. ¡Cuán diferente tono usarán para comunicarnos sus visiones! Stendhal se sentará con nosotros en el café Tortoni y tomando un helado, en llana charla urbana, de ciudadano a ciudadano, nos verterá sus sutiles averiguaciones sobre el secreto de la vida. Nietzsche, si se halla con nosotros en el café, antes de hablar desaparecerá y volverá disfrazado atrozmente de Zaratustra o de cualquier otro personaje mágico. Con grandes voces de poseso, dando a la elocución el pathos de las apocalipsis, tronará su nueva verdad. Falta al alemán el «román paladino, en que cada cual suele hablar a su vecino».
+
+Esto es, evidentemente, una limitación, un defecto del alma tudesca. Pero no nos contentemos con subrayarlo. Un escritor no debe nunca desplazarse para contemplar un defecto. El alto código de honor específico que rige —que debe regir— su oficio impone al intelectual la obligación de no detenerse nunca en una negación. Todo pensamiento negativo es incompleto y en sí mismo postula una integración, como la ojiva manca en la ruina.
+
+Y, en efecto, esta falta de sentido meramente «humano» procede en el alemán de una gran virtud. Cada día nos hacemos mejor cargo del carácter extraño que ha tenido la cultura mediterránea —la del griego y el romano. Sócrates decía que no lograba aprender nada de los árboles en el campo: sólo aprendía de los hombres en la ciudad. Esta índole urbana de la cultura antigua no ha sido aún suficientemente destacada. Grecia y Roma son dos grandes escenas sin fondo, sin paisaje. A lo sumo imaginamos detrás de Pericles, detrás de César un escenario de arquitectura. Aquellos hombres habían seccionado los canales vivientes que ponen al hombre en comunicación con el cosmos. Es preciso descender a los lugares secretos de la vida antigua —los «misterios» por ejemplo— para encontrar alguna resonancia de ese inmenso contorno cósmico dentro del cual, como una ínfima anécdota, existen los hombres. La vida clásica es puramente antropológica. Lo humano aparece recortado, aislado de su engarce telúrico y astral. Tropezamos, pues, con un defecto inverso del germánico. Aquí falta de «humanismo» y sobra de «cosmismo», allí viceversa. No hay duda que a esa limitación del griego debemos la claridad, la transparencia y la mesura de sus creaciones. Grecia comienza cuando Hércules es encargado de trucidar todos los monstruos. Frente a Oriente, frente a Egipto, significa el helenismo la gran campaña contra la monstruosidad. Los monstruos representan la confusión de fronteras entre la mente humana, la «ratio», el «logos» y los poderes elementales. Al griego le repugna la convivencia con el animal y con la selva. Por eso es la única civilización que comienza fundando ciudades, como si la urbe le sirviera para resguardarse de la confusión infrahumana que los campos favorecen. El muro de la villa es el paréntesis sólido que aísla el hecho «hombre» de cuanto no es él. Pero esta predilección por lo racional y lo claro trae consigo ciertas pérdidas. La cultura exclusivamente humanista es pobre, es frígida y sin sabor. No basta ser luz si renunciamos a penetrar en las grandes cavernas del mundo.
+
+La Edad Media, en cambio, es menos clara que la antigüedad, pero —¿quién lo duda?— es más sabrosa y posee más dimensiones. El germano había añadido a la cultura mediterránea el vasto rumor de la selva y restauraba la comunicación entre el hombre y el cosmos. A esta síntesis se debe la magnificencia, sin ejemplo, de la historia moderna. Las nuevas Naciones eran la fusión de la clara disciplina mediterránea con la profunda sensibilidad cósmica del germano. Donde falta este equilibrio nos parece que falta un defecto esencial. Y ese equilibrio falta, a veces, en el puro alemán, que es de los pueblos occidentales el que menos logró sumergirse en la atmósfera clásica. (Uno de los grandes errores substantivos de Spengler, está en confundir el Occidente con el germanismo, no advirtiendo que lo típico de Europa es la fusión de dos razas y dos culturas. Por única vez en la historia conocida un pueblo —la moderna Europa— vive orientándose según las normas de otro —la antigüedad. El hecho del «clasicismo» es precisamente lo más típico de la cultura occidental. Las demás han vivido sin otros impulsos que los espontáneos e instintivos. Sólo Europa se esfuerza por combinar éstos con un modelo extraño, exótico —espacial y temporalmente exótico— que con plena deliberación sublima y diviniza. ¿Cómo olvidar, señor Spengler, que ya Dante quería ser virgiliano y que Goethe o Anatole France quisieron todavía ser griegos? Éste es el hecho heteróclito que convendría aclarar, señor Spengler, una cultura con doble centro de gravitación: uno interno, inconsciente, biológico; otro externo a ella, ideal, ejemplar, que actúa por atracción como una meta, como un fin, del cual Aristóteles decía que mueve al alma como lo amado al que ama. Y conste que el reconocimiento del hecho «clasicista» como fuerza perenne que opera sobre los destinos europeos no implica en mí una actitud defensora del «clasicismo». Muy lejos de eso, creo que ha llegado para el europeo la hora de romper con los «clásicos» así antiguos como modernos. (Pero de esto hablaré otro día).
+
+Nos sorprende, decía, encontrar a veces en el alma esa carencia de humanismo y ese tirón de la selva perdurando en medio de una civilización tan vieja como la nuestra. En ocasiones esta reminiscencia selvática del alemán adquiere cómicos aspectos. Hay en las «conversaciones de Goethe con Eckermann» una página sobremanera divertida. Eckermann, hombre de mucha devoción, pero escaso talento, es el prototipo del alemán medio. Goethe usa de él como de un fonógrafo y no es raro que se regocije olímpicamente a costa de su ingenuidad. En lo de mayo de 1825 escribe el propio Eckermann lo siguiente: «La señora de Goethe, nuera del gran poeta, y la señorita Ulrica entraron a [causa](/concepts/cause) del hermoso tiempo que hacía, venían las dos vestidas con lindos trajes de verano. La conversación durante la comida fue ligera y alegre. Se habló de las diversiones de la semana pasada y se expusieron planes alegres para la venidera».
+
+«Si las tardes continúan siendo tan agradables, —dijo la señora de Goethe— tendría gran placer en dar estos días un té en el parque escuchando el canto de los ruiseñores. ¿Qué le parece a usted querido padre?» «Podría ser muy agradable» —respondió Goethe. «¿Y usted Eckermann —me dijo la señora de Goethe— ¿qué dice usted a eso? ¿Puede convidársele?» «¡Pero, Otilia!, exclamó la señorita Ulrica, ¿cómo puede ocurrírsete invitar al doctor? Si no ha de venir. Y si viene está como sobre ascuas, y se le conoce que su alma está en otra parte, y que desearía irse cuanto antes».
+
+<span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom"></span>
+
+«Si he de ser sincero —repliqué— prefiero pasear con Doolan por el campo. Tés y sociedad y conversación de té son tan contrarias a mi naturaleza que sólo pensar en ello me hace daño». «Pero, Eckermann —dijo la señora de Goethe— en un té en el parque está usted al aire libre y, por tanto, en su elemento». «Al contrario —repuse. Cuando estoy tan cerca de la naturaleza que percibo todos sus aromas y, sin embargo, no puedo entregarme verdaderamente a ella, me impaciento como un pato a quien se pusiera próximo al agua pero impidiéndole sumergirse en ella». «También podía usted decir —interrumpió Goethe riéndose— que se sentía como un caballo que sacase la cabeza fuera de la cuadra y viese correr libremente por la pradera a otros caballos. Olfatea las delicias y la libertad de la fresca naturaleza, pero no puede ir a ella. Pero dejad a Eckermann; es como es, y no vais a cambiarlo. Pero dígame, querido, ¿qué hacen usted y Doolan en el campo toda la tarde?» «Buscamos un valle solitario y nos dedicamos a tirar flechas» —respondí. «¡Hum! —replicó Goethe— no debe ser mala diversión». «Es magnífica —dije— para curarse de los alifafes del invierno». «¿Pero cómo diablos —preguntó Goethe— ha podido usted aquí en Weimar hacerse con arcos y flechas?»
+
+Eckermann se extiende largamente sobre el capítulo de la confección de flechas que tal vez no interesaría mucho a aquellas dos damas tan relamidas de la Corte de Weimar. Pero es el [caso](/concepts/fortune) que Goethe se va dejando poco a poco ganar por el fervor selvático de su joven secretario.
+
+«¿Sabe usted una cosa? —dijo Goethe con una sonrisa misteriosa. Tengo una cosa que creo no le desagradaría a usted. ¿Qué diría usted si bajásemos juntos y le pusiera en la mano un arco legítimo de Baskir?»
+
+—¡Un arco de Baskir y legítimo! —exclamé entusiasmado.
+
+—¡Sí, hombre insensato, legítimo! —dijo Goethe. —Venga usted.
+
+Bajamos al jardín. Goethe abrió la habitación inferior de un pequeño pabellón en donde había esparcidas por las mesas y en las paredes una porción de cosas curiosas. Pasé rápidamente la vista por todos estos tesoros; mis ojos buscaban el arco. «Aquí lo tiene usted, dijo Goethe sacándolo de un rincón, entre un montón de todo género de utensilios raros. —Está en el mismo estado que cuando en 1814 me lo regaló un cacique baskir. ¿Qué dice usted de eso?»
+
+Me sentía lleno de placer teniendo en mis manos la hermosa arma. Parecía intacta y hasta la cuerda parecía utilizable. La probé con mis manos y vi que aún conservaba bastante fuerza. «Es un buen arco —dije— pero lo que más me agrada es su forma que me servirá en lo futuro de modelo».
+
+—¿De qué madera cree usted que está hecho? —dijo Goethe.
+
+—Como ve usted —repliqué— está tan cubierto de abedul que se distingue muy poco la madera y sólo han quedado libres los extremos. Y están tan ennegrecidos por el tiempo que no se percibe bien de qué es. A primera vista parece roble joven y luego parece nogal. Creo que es nogal o una madera semejante. Arce no lo es. Es una madera de fibras groseras y se ven las huellas de haber sido escindida.
+
+—¿Y si lo probase usted una vez? —dijo Goethe. —Aquí tiene usted una flecha. Pero tenga cuidado con el arpón de hierro, no vaya a estar envenenado.
+
+Volvimos al jardín y puse en tensión el arco.
+
+—¿Hacia dónde tira usted? —dijo Goethe. —«Será mejor al aire» —repuse.
+
+—¡Pues ea! —exclamó Goethe. —Tiré hacia las nubes soleadas. La flecha subió bien; luego hizo una curva y volvió a caer en tierra. «Déjeme probar a mí» —dijo Goethe. —Me sentía dichoso viendo que quería tirar. Le di el arco y recogí la flecha. Goethe puso la flecha en la cuerda, cogió bien el arco; pero pasó algún tiempo hasta que logró disparar. Apuntó hacia arriba y tiró. Estaba en pie como un Apolo, lleno de una indestructible juventud interior, pero anciano de cuerpo. La flecha alcanzó sólo una altura moderada y volvió a caer en tierra. Corrí y recogí la flecha.
+
+—¡Otra vez! —exclamó Goethe. Apuntó ahora en dirección horizontal, a lo largo del sendero arenoso del jardín. La flecha anduvo unos treinta pasos; luego dobló y vino a tierra. Me agradó sobremanera ver a Goethe disparando con arco y flecha. Pensé en aquellos versos:
+
+¿Me abandona ya la edad?
+
+¿Vuelvo a ser un niño?
+
+Volví a traerle la flecha. Me pidió que tirase en dirección horizontal y me señaló, como blanco, una mancha en la ventana de su despacho. Disparé la flecha, [dio](/axes/god) no lejos del blanco; pero se fijó tan hondamente en la madera blanda que no pude arrancarla. «Déjela usted —dijo Goethe. —Quiero que durante unos días me sirva como recuerdo de nuestra diversión».
+
+Y nos quedamos pensando qué preferiría Apolo: si tomar parte con el grave poeta y el ingenuo secretario en el concurso primitivo de los arqueros o sentarse junto a las damas para beber el té y, galante, humano conversar. Fue primero gran flechador, pero de él nacieron las musas. Ello es que dondequiera imaginemos a Apolo encorvando su arco la selva desaparece y un mundo claro, humanizado, urbanizado le substituye. En cambio, esta escena de un Weimar pulido nos hace ver cómo en dos hombres de extrema civilización puede aún la primitiva savia silvana ascender con todo su bronco sabor antehumano.
+
+Hay quien cree que el ideal de la cultura es conseguir cortar las amarras que nos mantienen sujetos a las fuerzas elementales. Yo creo que esto es un error. La cultura es sólo un poder plástico, formativo. Tal vez, sólo un impulso corrector. Supone, pues, una [materia](/positions/materialism), un dinamismo que ella pueda elaborar. Toda cultura que no quiera anquilosarse, secarse y morir cuidará de conservar franca la comunicación con las energías subterráneas de lo precultural. El imperativo de claridad y «humanidad» que es el clasicismo tiene que ser compensado con una voluntad de mantener intacto nuestro subsuelo salvaje. Sin el germano hubiera el Occidente caído en un hieratismo de forma bizantina. Es una pena que la época más crítica de la historia universal, la que más arcanos podía revelarnos —la historia de los últimos siglos del Imperio Romano— sea, casi por completo, desconocida de los que un poco ligeramente se lanzan a la ideología. Allí está la gran advertencia. Si el libro de Spengler fuera un libro plenamente serio —cosa que no es— comenzaría por un análisis minucioso de aquella decadencia ejemplar. Porque ésta es la hora en que no sabemos aún bien qué es decaer históricamente.
+
+Pero ahora yo no trataba sino de hacer notar, con motivo de los «Nibelungos» hebbelianos, esa rara simpatía del alemán por el antehombre. Miguel Ángel dejó sin pulir un trozo de la cabeza de su David gigantesco. Por aquel trozo impoluto el mármol conserva una simbólica unión con la cantera maternal. No pasará mucho tiempo —no olvide el lector esta anticipación— sin que una de las grandes cuestiones que se agiten en Europa sea la de nuestra proximidad con el animal. Pero ahora el tema se va a presentar mucho más gravemente que en tiempos de Darwin, porque ahora, se está cayendo en la cuenta de lo difícil que es separar la psicología infrahumana de la humana.
+
+La Nación, 3 de agosto de 1924

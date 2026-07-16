@@ -1,0 +1,43 @@
+---
+title: "Sobre una encuesta interrumpida"
+philosopher: "Ortega y Gasset"
+lang: "es"
+edizione: "Obras completas — Fundación Ortega y Gasset"
+pd_year: 2026
+kind: "work"
+tags:
+  - "graph/work"
+  - "philosopher/ortega y gasset"
+---
+
+> [!abstract]
+> 'What is happening in Europe?': newspapers never touch the historical reality, which is never 'current affairs', and abstract generalizations (decadence, crisis) say far too little. The method must be symptomatic, and the symptom chosen is the Revue Hebdomadaire's survey of young French writers' political thought, cut short because it exposed their political void.
+
+<p class="work-source">Testo originale spagnolo · Obras completas — Fundación Ortega y Gasset · pubblico dominio</p>
+
+<div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_una_encuesta_interrumpida" data-philosopher="Ortega y Gasset"></div>
+
+
+<span class="atom-split" data-atom="001" data-title="Sobre una encuesta interrumpida" data-chapter="" data-kind="intro"></span>
+
+¿Qué pasa en Europa? Desde hace mucho tiempo es ésta la curiosidad más grande que siento y procuro darme, poco a poco, una contestación. Hay quien se contenta con leer los periódicos y cree que lo que ellos cuentan o narran eso es lo que pasa. Pero aunque fueran rigorosamente veraces, los periódicos no rozan siquiera esa realidad que yo busco. ¡Gran paradoja, pero inexcusable, la realidad histórica no es nunca de «actualidad»! El periódico cuanto más fiel a su propia misión, tanto más la evita y la elude. Obra como Buloz, el famoso fundador de la Revue des Deux Mondes, cuando alguien le presentó un artículo titulado: Dios. «¿Dios? —exclamó—, ¡cuánto lo siento!, pero no es un asunto de actualidad».
+
+Otros se van al extremo opuesto y se contentan con una generalización abstracta. Hablan de «decadencia», de «crisis», etcétera. Pero esto es decir muy poco. Todavía no se ha definido nunca con mediana claridad lo que es una «decadencia» histórica.
+
+A primera vista, parece una idea sencilla e inequívoca; mas, al querer aprisionarla, la mano oprime una nube. La depresión o pérdida de unas cosas suele ir acompañada del crecimiento en otras. Bien, digamos «crisis». Pero crisis no es sino cambio. Siempre hay cambios en la historia. Bueno, digamos cambio más profundo que los habituales. ¿Contentará a nadie tan vaga calificación? Cambio, ¿hacia qué cuadrante? Profunda, ¿hasta qué estratos?
+
+Y, en tanto, oculta a nuestras miradas esa realidad tremenda está ahí, va en nosotros, en cierto modo, lo somos. Los más curiosos, husmeamos como podemos la ráfaga que llega del paisaje, cargada de tufos, a fin de descubrir una pista. Los hechos que llegan hasta nosotros son innumerables, pero la realidad que buscamos no son ellas, sino su ley, un principio claro del cual todas ellas brotan. Y como los hechos históricos nacen del alma, lo que buscamos es la definición del alma nueva que subterránea —como toda raíz— está ya dando sus germinaciones.
+
+El método de la investigación no puede ser otro que desentenderse de la mayoría de los acontecimientos, quedándonos con unos pocos donde el secreto parece reventar. El acierto en la visión histórica depende de no atender a lo insignificante, que es legión, e ir directo a los datos esenciales. Cabría jerarquizar cuantos sucesos llegan hasta nuestra noticia según su importancia reveladora. Mas para ello hace falta desdeñar la importancia aparente que ciertos hechos tienen mirados por sí mismos: hay que observarlos sólo como síntomas, y a lo mejor, un dato de mínimo calibre es un síntoma de primer orden.
+
+Así, hace unas semanas que la Revue Hebdomadaire —una revista pacata, ocupada en halagar los instintos del buen burgués francés— comenzó a publicar una encuesta sobre el pensamiento político de los escritores franceses jóvenes. Yo puse, desde luego, atento oído a lo que dijesen: presumía que esta encuesta iba a convertirse para mí en un síntoma de primer orden para averiguar «lo que pasa en Europa». Y, en efecto, conforme avanzaba la encuesta, más claro aparecía este hecho: los jóvenes escritores franceses no tienen idea alguna política. Se veía que casi ninguno había pensado cinco minutos en los destinos públicos de su país, y si alguno había meditado, el rendimiento había sido nulo. Pero esta incapacidad para pensar en política podía estar compensada por la emoción, por el fervor hacia ideas ajenas o aun tópicas; tampoco, nada de esto. Casi sin excepción, los jóvenes escritores se sitúan a distancia astronómica de toda política. La ingenuidad, la inconsciencia con que gesticulan en esta encuesta, la angostura de su horizonte mental son verdaderamente pavorosas. Tanto, que de repente, el director de la pacata revista, movido a lo que parece por una carta de Maurras, a quien el resultado de la encuesta iba produciendo espanto, la ha cortado en seco. Y no se crea que en ella aparecían respuestas tremebundas donde algún joven proclamase su entusiasmo por principios destructores de todo buen orden social. ¡Todo lo contrario! Lo poco que estos escritores han emitido sobre política de sus ánimas tan literarias ha sido sumamente moderado. El efecto penoso que por lo visto ha causado, consiste más bien en la impresión de néant que trascendía de todas aquellas inteligencias.
+
+Hace cuatro años, en mi España invertebrada, sugería que era un error atribuir el aspecto de Europa a los graves y urgentes problemas de post-guerra. Yo no creo que en la vida humana haya problemas absolutos. Lo único que es absoluto es la muerte y por lo mismo no es un problema, sino una fatalidad. Los problemas —en intensidad y en calidad— son relativos al apetito o potencia vital del sujeto. Si Europa parece deprimida y como retardada por los problemas de post-guerra, se debe —decía yo— no a la guerra, sino a la falta de ilusiones vitales. Si Europa poseyese grandes proyectos de vida futura capaces de incendiar la fantasía y hacer batir los corazones, existirían en este viejo mundo aún más problemas que los que hay, pero unos y otros habrían sido ya resueltos con alegría. Pero la realidad es lo contrario. Por vez primera, en una larga serie de generaciones, tal vez de siglos, Europa no tiene deseos.
+
+La encuesta en la Revue Hebdomadaire confirma inquietadoramente aquella presunción mía. Ya se ve que las nuevas generaciones de Francia carecen de imágenes ardientes en política. No hay proyectos de nuevas instituciones, cuya irrealidad misma sea un prestigio ante las almas. En cambio —y es lo único claro, taxativo y unánime que de la encuesta resulta— existe un general desprestigio de las instituciones vigentes, sobre todo del Parlamento.
+
+He aquí lo que he llamado un síntoma de primer orden, un hecho ejemplar, fugaz sobre el cual puede morder la reflexión y sometiéndolo a análisis y dialécticas, sacar consecuencias. Y como lo mismo acontece en España o en Gran Bretaña —en rigor también en Alemania, aunque su situación anómala lo encubra un poco— puede decirse que es un hecho bastante para orientar nuestras previsiones, al menos, en el orden político. Quien guste de tomar puntos de meditación claros y fértiles, encontrará aquí uno del mayor rango. Yo lo formularía así: ¿cómo pueden vivir estos enormes hacinamientos humanos que son las naciones de veinte, cuarenta, sesenta millones de almas sin un mínimum de fe en las instituciones vigentes o una fe substitutiva en otras instituciones ideales? Porque montones tales de hombres necesitan grandes fuerzas reguladoras, automáticamente reguladoras, de orden espiritual, que los mantengan en cohesión y asiento. Un individuo puede vivir sin fe en ningún principio político, porque la atmósfera social en que se mueve está llena de esa fe; pero un pueblo entero perdería todo su equilibrio sociológico sin esos grandes pesos reguladores. Una sociedad no puede asegurarse la vida de minuto en minuto merced a un esfuerzo heroico. Tiene que vivir sobre un capital dinámico, de firmeza en las convicciones públicas.
+
+En Europa va siendo imposible seguir con las viejas instituciones y a la par, no se puede pensar en revoluciones. Porque esto empiezan, supongo, a ver los más ciegos: la revolución que parecía la destrucción de la sociedad era su fuerza de renovación y, por tanto, de salvación. No se hace una revolución sin un ideal. Y el ideal es el gran gendarme, el gendarme innumerable que pone orden en el interior de cada alma.
+
+La Nación, 21 de marzo de 1926
