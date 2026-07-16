@@ -15,24 +15,17 @@ import {
 
 const KW_FILE = "works_kw.json"
 
+// Campi del record opera come li emette preprocess.mjs (index.json). NON il
+// modello di ../English: qui non ci sono cluster/topoi/leggibilita' (Flesch,
+// Fog) — quelle colonne mostravano "undefined" perche' il record non le porta.
 interface Work {
   href: string
   readHref?: string
   title: string
   author: string
-  cluster: string
-  topoi: string[]
-  archetypes: string[]
-  motifs: string[]
-  concepts: string[]
-  forms: string[]
-  histrefs: string[]
-  settings: string[]
-  characters: string[]
-  nconnections: number
-  flesch?: number
-  fkgrade?: number
-  fog?: number
+  lang: string
+  words: number
+  atoms: number
 }
 
 let cache: Work[] | null = null
@@ -59,8 +52,8 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   const setPlaceholder = () => {
     search.placeholder =
       mode === "content"
-        ? `Search full content of the ${rows.length} works…`
-        : `Filter ${rows.length.toLocaleString("en")} works by title, author or cluster…`
+        ? `Cerca nel testo completo delle ${rows.length} opere…`
+        : `Filtra ${rows.length.toLocaleString("it")} opere per titolo, autore o lingua…`
   }
   setPlaceholder()
 
@@ -91,15 +84,13 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   pager.className = "lt-pager"
 
   const cols: [keyof Work, string, boolean][] = [
-    ["title", "Title", false],
-    ["author", "Author", false],
-    ["cluster", "Cluster", false],
-    ["nconnections", "Links", true],
-    ["flesch", "Flesch", true],
-    ["fkgrade", "Grade", true],
-    ["fog", "Fog", true],
+    ["title", "Titolo", false],
+    ["author", "Autore", false],
+    ["lang", "Lingua", false],
+    ["words", "Parole", true],
+    ["atoms", "Atomi", true],
   ]
-  const NUMERIC = new Set(["nconnections", "flesch", "fkgrade", "fog"])
+  const NUMERIC = new Set(["words", "atoms"])
 
   function cmp(a: Work, b: Work): number {
     let av: any = a[sortKey]
@@ -132,7 +123,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
         return (
           r.title.toLowerCase().includes(q) ||
           r.author.toLowerCase().includes(q) ||
-          r.cluster.toLowerCase().includes(q)
+          (r.lang || "").toLowerCase().includes(q)
         )
       })
       .sort(cmp)
@@ -163,11 +154,9 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
           (r) =>
             `<tr><td><a href="${prefix}${esc(r.readHref || r.href)}">${esc(r.title)}</a></td>` +
             `<td>${esc(r.author)}</td>` +
-            `<td class="lt-cluster">${esc(r.cluster)}</td>` +
-            `<td class="lt-num">${esc(r.nconnections)}</td>` +
-            `<td class="lt-num">${r.flesch ?? "—"}</td>` +
-            `<td class="lt-num">${r.fkgrade ?? "—"}</td>` +
-            `<td class="lt-num">${r.fog ?? "—"}</td></tr>`,
+            `<td class="lt-lang">${esc(r.lang)}</td>` +
+            `<td class="lt-num">${esc(r.words)}</td>` +
+            `<td class="lt-num">${esc(r.atoms)}</td></tr>`,
         )
         .join("") +
       "</tbody>"
@@ -184,7 +173,7 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
       })
     })
 
-    meta.innerHTML = `<span><strong>${all.length.toLocaleString("en")}</strong> works</span>`
+    meta.innerHTML = `<span><strong>${all.length.toLocaleString("it")}</strong> opere</span>`
     meta.appendChild(
       makePageSizeSelect(PAGE_SIZES, pageSize, (n) => {
         pageSize = n
@@ -224,9 +213,21 @@ async function init() {
     return
   }
 
+  // Autore preselezionato: o fissato server-side (root.dataset.author), o
+  // scelto cliccando un'emblema in home. wireAuthorCards salva "author::<nome>"
+  // in sessionStorage; qui lo si consuma e lo si sgancia, cosi' un ricarico
+  // della pagina non lo riapplica.
+  let author = root.dataset.author || ""
+  try {
+    const pre = sessionStorage.getItem("cercaPreselect")
+    if (pre && pre.startsWith("author::")) {
+      author = pre.slice("author::".length)
+      sessionStorage.removeItem("cercaPreselect")
+    }
+  } catch {}
+
   let rows = data
-  if (root.dataset.author) rows = data.filter((w) => w.author === root.dataset.author)
-  if (root.dataset.cluster) rows = data.filter((w) => w.cluster === root.dataset.cluster)
+  if (author) rows = data.filter((w) => w.author === author)
   buildTable(root, rows, prefix)
 }
 

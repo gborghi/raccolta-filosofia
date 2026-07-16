@@ -988,11 +988,11 @@ async function main() {
       (p) =>
         // La card e' `author-card` con `data-cerca-author`: wireAuthorCards
         // (opereTable.inline) intercetta il click, salva "author::<nome>" in
-        // sessionStorage e /cerca lo raccoglie preselezionando quell'autore.
-        // Prima era una `desk-card` verso "opere" senza autore: apriva la
-        // tabella intera, non filtrata. L'href resta "cerca" perche' e' li' che
-        // il preselect viene consumato.
-        `  <a class="desk-card author-card" data-cerca-author="${p}" href="cerca" title="${p} - ${philCounts[p]} opere">` +
+        // sessionStorage, e /opere lo raccoglie all'apertura filtrando per
+        // quell'autore. Prima era una `desk-card` verso "opere" senza autore:
+        // apriva la tabella intera, non filtrata. (Non si punta a /cerca: quella
+        // pagina e' ancora sagomata su ../English e va rifatta a parte.)
+        `  <a class="desk-card author-card" data-cerca-author="${p}" href="opere" title="${p} - ${philCounts[p]} opere">` +
         `<img src="static/emblems/${EMBLEM[p]}.webp" alt="${p}" loading="lazy" width="400" height="400">` +
         `<span class="desk-name">${p}</span></a>`,
     )

@@ -9,21 +9,24 @@ import { esc, slugPrefix, loadKw, kwCached, makeModeToggle } from "./qtable"
 
 const KW_FILE = "works_kw.json"
 
+// Record opera come da index.json (preprocess.mjs). Le facce sono la tassonomia
+// Philosophy — NON i campi letterari di ../English (topos/archetype/motif/
+// character), che qui non esistono e davano facce vuote + colonne "undefined".
 interface Work {
   href: string
   readHref?: string
   title: string
   author: string
-  cluster: string
-  topoi: string[]
-  archetypes: string[]
-  motifs: string[]
+  lang: string
+  words: number
+  atoms: number
+  axes: string[]
+  positions: string[]
   concepts: string[]
+  arguments: string[]
+  figures: string[]
   forms: string[]
-  histrefs: string[]
-  settings: string[]
-  characters: string[]
-  nconnections: number
+  schools: string[]
 }
 
 interface Facet {
@@ -33,16 +36,15 @@ interface Facet {
 }
 
 const FACETS: Facet[] = [
-  { key: "author", label: "Author" },
-  { key: "cluster", label: "Cluster" },
-  { key: "topoi", label: "Topos", multi: true },
-  { key: "archetypes", label: "Archetype", multi: true },
-  { key: "motifs", label: "Motif", multi: true },
-  { key: "concepts", label: "Theme / Concept", multi: true },
-  { key: "forms", label: "Form", multi: true },
-  { key: "histrefs", label: "Historical Reference", multi: true },
-  { key: "settings", label: "Setting", multi: true },
-  { key: "characters", label: "Character", multi: true },
+  { key: "author", label: "Autore" },
+  { key: "lang", label: "Lingua" },
+  { key: "axes", label: "Assi", multi: true },
+  { key: "positions", label: "Posizioni", multi: true },
+  { key: "concepts", label: "Concetti", multi: true },
+  { key: "arguments", label: "Argomenti", multi: true },
+  { key: "figures", label: "Figure", multi: true },
+  { key: "forms", label: "Forme", multi: true },
+  { key: "schools", label: "Scuole", multi: true },
 ]
 
 const PER_PAGE_OPTS = [25, 50, 100, 250, 0] // 0 = All
@@ -92,8 +94,6 @@ async function init() {
   const params = new URLSearchParams(location.search.replace(/^\?/, ""))
   const qpAuthor = params.get("author")
   if (qpAuthor) selected.add(`author::${decodeURIComponent(qpAuthor)}`)
-  const qpCluster = params.get("cluster")
-  if (qpCluster) selected.add(`cluster::${decodeURIComponent(qpCluster)}`)
 
   const facetValues: { facet: Facet; values: [string, number][] }[] = FACETS.map((facet) => {
     const counts = new Map<string, number>()
@@ -164,14 +164,14 @@ async function init() {
   const hint = document.createElement("p")
   hint.className = "cerca-hint"
   hint.textContent =
-    "Select one or more tags above, or type in the search box, to see matching works."
+    "Seleziona uno o più tag qui sopra, o scrivi nella casella di ricerca, per vedere le opere corrispondenti."
 
   const search = document.createElement("input")
   search.type = "search"
   search.className = "qtable-search"
   const setPlaceholder = () => {
     search.placeholder =
-      searchMode === "content" ? "Filter full content of the works..." : "Filter results (title/author/cluster)..."
+      searchMode === "content" ? "Cerca nel testo completo delle opere…" : "Filtra i risultati (titolo/autore/lingua)…"
   }
   setPlaceholder()
   search.addEventListener("input", () => {
@@ -315,7 +315,7 @@ async function init() {
           (t) =>
             String(r.title).toLowerCase().includes(t) ||
             String(r.author).toLowerCase().includes(t) ||
-            String(r.cluster).toLowerCase().includes(t),
+            String(r.lang).toLowerCase().includes(t),
         )
       })
     }
@@ -323,13 +323,12 @@ async function init() {
     rows.sort((a, b) => {
       let av: any = a[sortKey]
       let bv: any = b[sortKey]
-      if (sortKey === "nconnections") {
+      if (sortKey === "words" || sortKey === "atoms") {
         av = Number(av)
         bv = Number(bv)
       } else {
-        // strip a leading article so "The Waste Land" sorts under W, matching /opere
-        av = String(av).toLowerCase().replace(/^\s*(the|a|an)\s+/, "")
-        bv = String(bv).toLowerCase().replace(/^\s*(the|a|an)\s+/, "")
+        av = String(av).toLowerCase()
+        bv = String(bv).toLowerCase()
       }
       if (av < bv) return -sortDir
       if (av > bv) return sortDir
@@ -345,14 +344,14 @@ async function init() {
 
     count.innerHTML =
       pages > 1
-        ? `<strong>${total}</strong> works &mdash; ${start + 1}&ndash;${start + pageRows.length} (page ${page}/${pages})`
-        : `<strong>${total}</strong> works`
+        ? `<strong>${total}</strong> opere &mdash; ${start + 1}&ndash;${start + pageRows.length} (pagina ${page}/${pages})`
+        : `<strong>${total}</strong> opere`
 
     const cols: [keyof Work, string, boolean][] = [
-      ["title", "Title", false],
-      ["author", "Author", false],
-      ["cluster", "Cluster", false],
-      ["nconnections", "Links", true],
+      ["title", "Titolo", false],
+      ["author", "Autore", false],
+      ["lang", "Lingua", false],
+      ["words", "Parole", true],
     ]
     const head =
       "<thead><tr>" +
@@ -369,7 +368,7 @@ async function init() {
         .map(
           (r) =>
             `<tr><td><a href="${prefix}${esc(r.readHref || r.href)}">${esc(r.title)}</a></td>` +
-            `<td>${esc(r.author)}</td><td class="lt-cluster">${esc(r.cluster)}</td><td class="lt-num">${esc(r.nconnections)}</td></tr>`,
+            `<td>${esc(r.author)}</td><td class="lt-lang">${esc(r.lang)}</td><td class="lt-num">${esc(r.words)}</td></tr>`,
         )
         .join("") +
       "</tbody>"
@@ -381,7 +380,7 @@ async function init() {
         if (sortKey === k) sortDir *= -1
         else {
           sortKey = k
-          sortDir = k === "nconnections" ? -1 : 1
+          sortDir = k === "words" || k === "atoms" ? -1 : 1
         }
         page = 1
         renderResults()
