@@ -1,5 +1,5 @@
 ---
-title: "ÉMILE ou de L’ÉDUCATION"
+title: "ÉMILE ou de LÉDUCATION"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/émile_ou_de_léducation" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ÉMILE ou de L’ÉDUCATION" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="ÉMILE ou de LÉDUCATION" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Préface
 

@@ -9,7 +9,7 @@ aliases:
 axis: "state_and_individual"
 contro:
   - "sovereignty"
-work_count: 6
+work_count: 7
 tags:
   - "graph/position"
 title: "tolleranza"
@@ -22,7 +22,7 @@ Posizione sull'asse [Stato e individuo](/axes/state_and_individual).
 
 **Contro:** [sovranità](/positions/sovereignty)
 
-## Opere (6)
+## Opere (7)
 
 **Hume**
 - [ESSAYS, MORAL, POLITICAL, AND LITERARY](/testi/hume/essays_moral_political_and_literary)
@@ -35,3 +35,6 @@ Posizione sull'asse [Stato e individuo](/axes/state_and_individual).
 
 **Ortega y Gasset**
 - [Cuestión religiosa](/testi/ortega-y-gasset/cuestión_religiosa)
+
+**Spinoza**
+- [Theological-Political Treatise](/testi/spinoza/theological-political_treatise)

@@ -10,7 +10,7 @@ axis: "knowledge_origin"
 contro:
   - "innatism"
   - "rationalism"
-work_count: 8
+work_count: 10
 tags:
   - "graph/position"
 title: "empirismo"
@@ -23,7 +23,11 @@ Posizione sull'asse [Origine della conoscenza](/axes/knowledge_origin).
 
 **Contro:** [innatismo](/positions/innatism), [razionalismo](/positions/rationalism)
 
-## Opere (9)
+## Opere (11)
+
+**Hobbes**
+- [Elements of Law, Natural and Politic](/testi/hobbes/elements_of_law_natural_and_politic)
+- [Leviathan](/testi/hobbes/leviathan)
 
 **Hume**
 - [AN ABSTRACT OF A BOOK LATELY PUBLISHED ENTITLED A TREATISE OF HUMAN NATURE ETC.](/testi/hume/an_abstract_of_a_book_lately_published_entitled_a_treatise_of_human_nature_etc)

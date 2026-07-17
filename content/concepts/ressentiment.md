@@ -22,6 +22,6 @@ title: "risentimento"
 - [Zur Genealogie der Moral](/testi/nietzsche/zur_genealogie_der_moral)
 
 **Ortega y Gasset**
-- [Ideas políticas: ejercicio normal del Parlamento](/testi/ortega-y-gasset/ideas_políticas_ejercicio_normal_del_parlamento)
+- [Ideas políticas ejercicio normal del Parlamento](/testi/ortega-y-gasset/ideas_políticas_ejercicio_normal_del_parlamento)
 - [Una carta](/testi/ortega-y-gasset/una_carta)
 - [Vida ascendente y decadente](/testi/ortega-y-gasset/vida_ascendente_y_decadente)

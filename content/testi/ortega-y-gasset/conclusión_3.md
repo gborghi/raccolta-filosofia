@@ -1,5 +1,5 @@
 ---
-title: "Conclusión (3)"
+title: "Conclusión 3"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/conclusión_3" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Conclusión (3)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Conclusión 3" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Liberalismo y nacionalización propondría yo como lemas a nuestro movimiento. Pero ¡cuánto no habrá que hablar, que escribir, que disputar hasta que estas palabras den a luz todo el inmenso significado de que están encintas!
 

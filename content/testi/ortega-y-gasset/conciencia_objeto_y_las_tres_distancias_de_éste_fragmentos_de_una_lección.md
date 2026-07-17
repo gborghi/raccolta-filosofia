@@ -1,5 +1,5 @@
 ---
-title: "Conciencia, objeto y las tres distancias de éste (fragmentos de una lección)"
+title: "Conciencia objeto y las tres distancias de éste fragmentos de una lección"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/conciencia_objeto_y_las_tres_distancias_de_éste_fragmentos_de_una_lección" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Conciencia, objeto y las tres distancias de éste (fragmentos de una lección)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Conciencia objeto y las tres distancias de éste fragmentos de una lección" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El centauro y la quimera, seres fantásticos, son más que unas nadas, son algo, y algo perfectamente delimitable y susceptible de clara descripción. Sería una ingenuidad, disfrazada de extrema sabiduría, que se nos saliera al encuentro con la objeción de que el centauro y la quimera no son, en realidad, más que imágenes o representaciones nuestras. De suerte que el centauro, en realidad, no es centauro, sino imagen subjetiva y la quimera, en realidad, no más que representación. ¿Qué salimos ganando con esta prudente advertencia? Por imagen y por representación no entendemos sino modos, estados o situaciones de nuestra conciencia, en que, de una cierta manera, nos es presente, o cuasi presente, una cosa. Dicho de otro modo: la imagen —realidad psíquica— es imagen de algo; en ella, con ella o por ella imaginamos algo, y ese algo, a quien sobreviene ser imaginado o representado, no es a su vez una imagen, no es una realidad psíquica. Mientras hablo ahora hay tantas imágenes o realidades psíquicas cuantos somos los presentes —y, entre tanto, todas ellas son imágenes de una misma y única cosa: el centauro. Cada cual lo imaginará a su modo, como cada cual, desde el sitio que ocupa, ve de distinto modo esta una, misma y única habitación. Venimos, pues, a parar, tras esta sabiduría, al mismo sitio donde estábamos: el centauro no es un ser real —lo real de él es la imagen o trozo real de nuestra alma en que lo imaginamos: él es un ser imaginado, un ser fantástico o de la fantasía. Mas con esto, lejos de desterrarlo del ámbito del ser, lo que hacemos es afincarlo en él, marcándole un barrio donde habite. La rosa, que es real, lo es por ocupar un espacio real y un tiempo real; pero la realidad de este espacio, de este tiempo y de su rosa no quiere decir, no significa, por lo pronto, otra cosa sino el carácter de inmediata sensualidad que les es propio. La rosa es real porque es un ser visible y tangible, porque es un ser perceptible o de percepción. Del mismo modo, el centauro es un ser fantástico o de fantasía. Percepción y fantasía no son, pues, sino modos diversos de llegar nosotros al ser. Y como los sonidos no se ven, ni los colores se oyen, sin que por ello padezcan en su calidad de realidades, así percepción y fantasía no hacen más que calificar o clasificar los seres, las cosas.
 

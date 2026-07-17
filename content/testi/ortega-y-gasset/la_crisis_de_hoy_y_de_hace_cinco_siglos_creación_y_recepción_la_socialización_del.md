@@ -1,5 +1,5 @@
 ---
-title: "La «crisis» de hoy y de hace cinco siglos. Creación y recepción. La «socialización» del"
+title: "La crisis de hoy y de hace cinco siglos Creación y recepción La socialización del"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_crisis_de_hoy_y_de_hace_cinco_siglos_creación_y_recepción_la_socialización_del" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La «crisis» de hoy y de hace cinco siglos. Creación y recepción. La «socialización» del" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La crisis de hoy y de hace cinco siglos Creación y recepción La socialización del" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, marzo de 1933
 

@@ -6,7 +6,7 @@ label_en: "against miracles"
 philosopher: "Hume"
 axis: "god"
 position: "scepticism"
-work_count: 1
+work_count: 2
 tags:
   - "graph/argument"
 title: "contro i miracoli"
@@ -17,7 +17,10 @@ title: "contro i miracoli"
 
 Argomento di **Hume**. Asse [Dio](/axes/god) · posizione [scetticismo](/positions/scepticism).
 
-## Opere (1)
+## Opere (2)
 
 **Hume**
 - [AN ENQUIRY CONCERNING HUMAN UNDERSTANDING](/testi/hume/an_enquiry_concerning_human_understanding)
+
+**Spinoza**
+- [Theological-Political Treatise](/testi/spinoza/theological-political_treatise)

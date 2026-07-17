@@ -21,4 +21,4 @@ title: "l'animale-macchina"
 - [DE LA FORMATION DU FŒTUS](/testi/descartes/de_la_formation_du_fœtus)
 - [DISCOURS DE LA MÉTHODE](/testi/descartes/discours_de_la_méthode)
 - [PREMIÈRES PENSÉES SUR LA GÉNÉRATION DES ANIMAUX ET LES SAVEURS](/testi/descartes/premières_pensées_sur_la_génération_des_animaux_et_les_saveurs)
-- [TRAITÉ DE L’HOMME](/testi/descartes/traité_de_lhomme)
+- [TRAITÉ DE LHOMME](/testi/descartes/traité_de_lhomme)

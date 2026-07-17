@@ -1,5 +1,5 @@
 ---
-title: "La obstrucción, episodio nacional"
+title: "La obstrucción episodio nacional"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_obstrucción_episodio_nacional" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La obstrucción, episodio nacional" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La obstrucción episodio nacional" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuenta Lichtenberg, el finísimo burlón alemán, que cierta vez ofrecía en una librería libros nuevos el tendero al parroquiano. —¿Por qué —decía aquél— no se lleva usted esta obra de Cramer? —Porque no me interesa. —Le advierto a usted —insistió el bibliópola— que es un libro imprescindible. —¿Cómo imprescindible? —Sí, señor; sin este libro no puede usted entender una sola línea de las odas de Klopstock. —Bueno —repuso el parroquiano—, es que yo no leo las odas de Klopstock.
 

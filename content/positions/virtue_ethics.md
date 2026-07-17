@@ -10,7 +10,7 @@ aliases:
 axis: "moral_foundation"
 contro:
   - "utility_pleasure"
-work_count: 35
+work_count: 37
 tags:
   - "graph/position"
 title: "virtù"
@@ -23,7 +23,7 @@ Posizione sull'asse [Fondamento della morale](/axes/moral_foundation).
 
 **Contro:** [utile e piacere](/positions/utility_pleasure)
 
-## Opere (35)
+## Opere (37)
 
 **Aquinas**
 - [Treatise on Fortitude and Temperance](/testi/aquinas/treatise_on_fortitude_and_temperance)
@@ -38,8 +38,12 @@ Posizione sull'asse [Fondamento della morale](/axes/moral_foundation).
 - [Nicomachean Ethics (1094a)](/testi/aristotle/nicomachean_ethics_1094a)
 - [On Virtues and Vices (1249a)](/testi/aristotle/on_virtues_and_vices_1249a)
 
+**Augustine**
+- [Moral Treatises of St. Augustin](/testi/augustine/moral_treatises_of_st_augustin)
+- [Our Lord's Sermon on the Mount](/testi/augustine/our_lords_sermon_on_the_mount)
+
 **Descartes**
-- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 
 **Ortega y Gasset**
@@ -56,11 +60,11 @@ Posizione sull'asse [Fondamento della morale](/axes/moral_foundation).
 - [THE REPUBLIC](/testi/plato/the_republic)
 
 **Rousseau**
-- [JULIE, OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
+- [JULIE OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
 - [LA VERTU LA PLUS NÉCESSAIRE AUX HÉROS](/testi/rousseau/la_vertu_la_plus_nécessaire_aux_héros)
 - [LES AMOURS DE MILORD ÉDOUARD BOMSTON](/testi/rousseau/les_amours_de_milord_édouard_bomston)
-- [LETTRE À D’ALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
-- [ORAISON FUNÈBRE DU DUC D’ORLÉANS](/testi/rousseau/oraison_funèbre_du_duc_dorléans)
+- [LETTRE À DALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
+- [ORAISON FUNÈBRE DU DUC DORLÉANS](/testi/rousseau/oraison_funèbre_du_duc_dorléans)
 
 **Seneca**
 - [ON ANGER](/testi/seneca/on_anger)

@@ -1,5 +1,5 @@
 ---
-title: "¿Por qué se vuelve a la filosofía?"
+title: "Por qué se vuelve a la filosofía"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/por_qué_se_vuelve_a_la_filosofía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Por qué se vuelve a la filosofía?" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Por qué se vuelve a la filosofía" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En febrero de 1929 comencé un curso en la Universidad de Madrid titulado: «¿Qué es filosofía?» El cierre de la Universidad por causas políticas y mi dimisión consiguiente me obligaron a continuarlo en la profanidad de un teatro. Como tal vez algunos lectores argentinos pudieran interesarse en los temas de aquel curso, hago el ensayo de publicar en La Nación sus primeras lecciones. En ellas reproduzco algunas cosas de mis conferencias en Amigos del Arte y en la Facultad de Filosofía y Letras de Buenos Aires.
 

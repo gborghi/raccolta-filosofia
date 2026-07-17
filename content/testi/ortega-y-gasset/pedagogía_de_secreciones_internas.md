@@ -1,5 +1,5 @@
 ---
-title: "Pedagogía de secreciones internas. — La vida como suma y como unidad"
+title: "Pedagogía de secreciones internas"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pedagogía_de_secreciones_internas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Pedagogía de secreciones internas. — La vida como suma y como unidad" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Pedagogía de secreciones internas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 De 1850 a 1900, por uno u otro camino, vía Darwin o vía Lamarck, se llegaba siempre a definir la vida esencial como una adaptación al medio[97]. Tal modo de pensar conducía por fuerza a atender con excesiva predilección aquellas funciones orgánicas que operan directamente sobre el medio envolvente y que consisten, bien en amoldarse a él, bien en transformarlo. El pelo blanco de la liebre polar sería la aceptación, por su parte, del color de la nieve sobre que corre milenariamente. En cambio, sus zancajos y la velocidad de su carrera son adaptaciones más positivas; merced a ellas el animal huye, esto es, cambia un medio peligroso por otro favorable. En fin: la mano, sobre todo en el hombre, es el órgano ejemplar de la adaptación creadora, que consiste en transformar provechosamente el medio.
 

@@ -1,5 +1,5 @@
 ---
-title: "LETTRE À D’ALEMBERT SUR LES SPECTACLES"
+title: "LETTRE À DALEMBERT SUR LES SPECTACLES"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettre_à_dalembert_sur_les_spectacles" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRE À D’ALEMBERT SUR LES SPECTACLES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRE À DALEMBERT SUR LES SPECTACLES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Préface
 

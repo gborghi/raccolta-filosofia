@@ -1,9 +1,8 @@
 ---
-title: "Beantwortung der Frage: Was ist Aufklärung"
+title: "Beantwortung der Frage Was ist Aufklärung"
 philosopher: "Kant"
 lang: "de"
 edizione: "e-artnow, \\\"Sämtliche Werke\\\" (2016) — originale tedesco"
-anno_edizione: 2016
 pd_year: 1875
 kind: "work"
 tags:
@@ -14,12 +13,12 @@ tags:
 > [!abstract]
 > A short occasional essay defining Enlightenment as man's emergence from his self-imposed immaturity: sapere aude, dare to use your own understanding. Kant ties it to a single demanded freedom, that of making public use of one's reason in all matters.
 
-<p class="work-source">Testo originale tedesco · e-artnow, \&quot;Sämtliche Werke\&quot; (2016) — originale tedesco, 2016 · pubblico dominio</p>
+<p class="work-source">Testo originale tedesco · e-artnow, \&quot;Sämtliche Werke\&quot; (2016) — originale tedesco · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/kant/beantwortung_der_frage_was_ist_aufklärung" data-philosopher="Kant"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Beantwortung der Frage: Was ist Aufklärung" data-chapter="" data-kind="intro" data-srclang="de"></span>
+<span class="atom-split" data-atom="001" data-title="Beantwortung der Frage Was ist Aufklärung" data-chapter="" data-kind="intro" data-srclang="de"></span>
 
 [Aufklärung](/schools/enlightenment) ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines anderen zu bedienen. Sapere aude! Habe Mut dich deines eigenen Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung. Faulheit und Feigheit sind die Ursachen, warum ein so großer Teil der Menschen, nachdem sie die [Natur](/concepts/nature) längst von fremder Leitung frei gesprochen (naturaliter maiorennes), dennoch gerne zeitlebens unmündig bleiben; und warum es Anderen so leicht wird, sich zu deren Vormündern aufzuwerfen. Es ist so bequem, unmündig zu sein. Habe ich ein Buch, das für mich Verstand hat, einen Seelsorger, der für mich Gewissen hat, einen Arzt, der für mich die Diät beurteilt, u.s.w., so brauche ich mich ja nicht selbst zu bemühen. Ich habe nicht nötig zu denken, wenn ich nur bezahlen kann; andere werden das verdrießliche Geschäft schon für mich übernehmen. Daß der bei weitem größte Teil der Menschen (darunter das ganze schöne Geschlecht) den Schritt zur Mündigkeit, außer dem daß er beschwerlich ist, auch für sehr gefährlich halte: dafür sorgen schon jene Vormünder, die die Oberaufsicht über sie gütigst auf sich genommen haben. Nachdem sie ihr Hausvieh zuerst dumm gemacht haben und sorgfältig verhüteten, daß diese ruhigen Geschöpfe ja keinen Schritt außer dem Gängelwagen, darin sie sie einsperrten, wagen durften, so zeigen sie ihnen nachher die Gefahr, die ihnen droht, wenn sie es versuchen allein zu gehen. Nun ist diese Gefahr zwar eben so groß nicht, denn sie würden durch einigemal Fallen wohl endlich gehen lernen; allein ein Beispiel von der Art macht doch schüchtern und schreckt gemeinhin von allen ferneren Versuchen ab.
 

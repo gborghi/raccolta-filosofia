@@ -1,5 +1,5 @@
 ---
-title: "DE L’IMITATION THÉÂTRALE"
+title: "DE LIMITATION THÉÂTRALE"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/de_limitation_théâtrale" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="DE L’IMITATION THÉÂTRALE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="DE LIMITATION THÉÂTRALE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Plus je songe à l'établissement de notre république imaginaire, plus il me semble que nous lui avons prescrit des lois utiles et appropriées à la nature de l'homme. Je trouve, surtout, qu'il importait de donner, comme nous avons fait, des bornes à la licence des poètes, et de leur interdire toutes les parties de leur art qui se rapportent à l'imitation. Nous reprendrons même, si vous voulez, ce sujet, à présent que les choses plus importantes sont examinées ; et, dans l'espoir que vous ne me dénoncerez pas à ces dangereux ennemis, je vous avouerai que je regarde tous les auteurs dramatiques comme les corrupteurs du peuple, ou de quiconque se laissant amuser par leurs images, n'est pas capable de les considérer sous leur vrai point de vue, ni de donner à ces fables le correctif dont elles ont besoin. Quelque respect que j'aie pour Homère, leur modèle et leur premier maître, je ne crois pas lui devoir plus qu'à la vérité ; et pour commencer par m'assurer d'elle, je vais d'abord rechercher ce que c'est qu'imitation.
 

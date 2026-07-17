@@ -1,5 +1,5 @@
 ---
-title: "[Para los niños españoles]"
+title: "Para los niños españoles"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_los_niños_españoles" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[Para los niños españoles]" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Para los niños españoles" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El porvenir de España depende enteramente de vosotros los niños españoles. Y dentro de vosotros, niños españoles, depende enteramente de que aprendáis o no aprendáis una cosa. ¿Sabéis cuál? Esto que habéis de aprender y cultivar en vosotros exquisitamente, niños españoles, es lo que en mayor grado faltaba a nuestros padres y nuestros abuelos. ¿Sabéis qué es? ¡Ah!, una cosa que parece muy sencilla. Ésta: distinguir entre personas.
 

@@ -1,5 +1,5 @@
 ---
-title: "Tres cuadros del vino (Tiziano, Poussin y Velázquez)"
+title: "Tres cuadros del vino Tiziano Poussin y Velázquez"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/tres_cuadros_del_vino_tiziano_poussin_y_velázquez" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Tres cuadros del vino (Tiziano, Poussin y Velázquez)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Tres cuadros del vino Tiziano Poussin y Velázquez" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

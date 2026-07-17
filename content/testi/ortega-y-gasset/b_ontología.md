@@ -1,5 +1,5 @@
 ---
-title: "b) Ontología"
+title: "b Ontología"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/b_ontología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="b) Ontología" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="b Ontología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pertrechado con él pasa Herbart a resolver los primeros problemas de la metafísica y ante todo el que nos plantea la sensación. Danos ésta en su contenido sólo apariencias, según notamos más arriba; pero justamente la posición de una apariencia impone la afirmación del ser tras ella. Lo aparente no es tal y como aparece; pero es indicación de un ser, que en ella aparece. «Cuanto haya de apariencia, tanto hay de referencia al ser»[45].
 

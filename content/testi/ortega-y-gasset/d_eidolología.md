@@ -1,5 +1,5 @@
 ---
-title: "d) Eidolología"
+title: "d Eidolología"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/d_eidolología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="d) Eidolología" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="d Eidolología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Toda imagen se presenta con una doble referencia: de un lado, presenta lo imaginado; de otro, se declara a sí misma como perteneciendo a un yo. El mundo de la «apariencia objetiva» es un mundo de representaciones de un yo. Con esto damos en uno de aquellos temas contradictorios que la experiencia ineludiblemente nos plantea. Yo no puedo representar algo sin atribuir a mi yo, como una propiedad y parte de él, esa representación. No obstante, mi yo me aparece como una unidad frente a las muchas representaciones que lo constituyen. Es el eterno problema de la inherencia, de la «cosa con varias propiedades» que vuelve aquí particularizado en la cosa «yo». No ofrece, por lo pronto, novedad alguna y podrá resolverse del mismo modo arriba indicado. Más aún: la solución general que da Herbart al problema de la inherencia no adquiere sentido claro hasta su aplicación concreta al problema del yo. Para él fue, en verdad, pensada primero por quien más que metafísico era psicólogo.
 

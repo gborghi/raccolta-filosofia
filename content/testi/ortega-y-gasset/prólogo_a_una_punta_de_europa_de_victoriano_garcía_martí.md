@@ -1,5 +1,5 @@
 ---
-title: "Prólogo a Una punta de Europa, de Victoriano García Martí"
+title: "Prólogo a Una punta de Europa de Victoriano García Martí"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_una_punta_de_europa_de_victoriano_garcía_martí" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a Una punta de Europa, de Victoriano García Martí" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a Una punta de Europa de Victoriano García Martí" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Merece sincero aplauso Victoriano García Martí por haberse atrevido a ensayar una definición del alma gallega. Es seguro que a sus juicios se opondrán otros, que habrá disparidad de opinión sobre cómo es esa alma que palpita en una punta de Europa. Pero la discusión no hará sino subrayar lo más importante: la existencia, la realidad de un cierto modo humano, diferente de los demás y centrado en sí mismo, que es el ser gallego.
 

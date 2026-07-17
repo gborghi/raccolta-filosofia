@@ -1,5 +1,5 @@
 ---
-title: "Los crímenes sociales.— Comentarios a un discurso"
+title: "Los crímenes sociales Comentarios a un discurso"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/los_crímenes_sociales_comentarios_a_un_discurso" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Los crímenes sociales.— Comentarios a un discurso" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Los crímenes sociales Comentarios a un discurso" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando oímos que el discurso del señor Lerroux había producido un gran efecto en el Congreso, no nos extrañó nada. Siempre hemos tenido una alta idea de la capacidad mental que usufructúa el señor Lerroux. En un Parlamento como el nuestro, habitado por sombras, es él uno de los pocos cuerpos políticamente sólidos. En cambio, nos ha extrañado mucho que al leer nosotros el discurso no nos haya parecido tan bien. Es más, si no hubiese quedado en el uso de la palabra, dejándonos la esperanza de que la segunda parte subsane la primera, diríamos que nos había parecido mal.
 

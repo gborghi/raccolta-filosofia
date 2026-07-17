@@ -1,5 +1,5 @@
 ---
-title: "¿Qué es un libro?"
+title: "Qué es un libro"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/qué_es_un_libro" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Qué es un libro?" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Qué es un libro" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Se habla mucho —y yo estoy ahora hablando un poco— sobre la misión del bibliotecario, sobre lo que éste hace o debe hacer con los libros. Pero es curioso que al hablar de esto no se suele hablar nada sobre el libro mismo —sobre esa entidad cuyo manejo constituye la profesión del bibliotecario. Se da por supuesto que los que escuchan saben lo que es el libro y además de saberlo lo tienen presente en la ocasión. ¿No es esto utópico? Más aún: ¿Tiene derecho el que escucha —en este [caso](/concepts/fortune) vosotros— a suponer que el que habla lo sabe y lo tiene presente? ¿No corremos el riesgo de que él mismo al pensar lo que nos habla lo dé por supuesto, por tanto, que no haya pensado jamás en ello de puro creer que ya desde siempre lo sabe, que es «cosa sabida»?
 

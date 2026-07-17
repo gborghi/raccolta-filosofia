@@ -1,5 +1,5 @@
 ---
-title: "c) Synecología"
+title: "c Synecología"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/c_synecología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="c) Synecología" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="c Synecología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La metafísica es «un movimiento en forma de arco»[52], que partiendo de la apariencia, que es un problema, va a buscar la absoluta realidad, que es un principio, y hallado éste torna a explicar aquélla. La ontología conduce a los problemas del mundo aparente: el espacio, el tiempo, la [materia](/positions/materialism), el movimiento que Herbart estudia como formas particulares de un problema general: la continuidad. De aquí el nombre de Synecología.
 

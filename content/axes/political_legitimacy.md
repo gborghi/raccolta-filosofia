@@ -9,7 +9,7 @@ positions:
   - "natural_right"
   - "class_conflict"
   - "traditional_authority"
-work_count: 55
+work_count: 63
 tags:
   - "graph/axis"
 title: "Legittimità del potere"
@@ -23,17 +23,25 @@ title: "Legittimità del potere"
 
 ## Posizioni su questo asse
 
-- [contratto sociale](/positions/social_contract) — 13 opere · contro [autorità tradizionale](/positions/traditional_authority)
+- [contratto sociale](/positions/social_contract) — 19 opere · contro [autorità tradizionale](/positions/traditional_authority)
 - [volontà generale](/positions/general_will) — 7 opere · contro [autorità tradizionale](/positions/traditional_authority)
-- [diritto naturale](/positions/natural_right) — 7 opere · contro [autorità tradizionale](/positions/traditional_authority)
+- [diritto naturale](/positions/natural_right) — 10 opere · contro [autorità tradizionale](/positions/traditional_authority)
 - [conflitto di classe](/positions/class_conflict) — 12 opere · contro [contratto sociale](/positions/social_contract), [autorità tradizionale](/positions/traditional_authority)
 - [autorità tradizionale](/positions/traditional_authority) — 1 opere · contro [contratto sociale](/positions/social_contract), [conflitto di classe](/positions/class_conflict)
 
-## Opere (55)
+## Opere (63)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
 - [The Philosophy of History](/testi/hegel/the_philosophy_of_history)
+
+**Hobbes**
+- [A Dialogue between a Philosopher and a Student of the Common Laws of England](/testi/hobbes/a_dialogue_between_a_philosopher_and_a_student_of_the_common_laws_of_england)
+- [An Historical Narration concerning Hersey and the Punishment Thereof](/testi/hobbes/an_historical_narration_concerning_hersey_and_the_punishment_thereof)
+- [Behemoth](/testi/hobbes/behemoth)
+- [De Cive](/testi/hobbes/de_cive)
+- [Elements of Law, Natural and Politic](/testi/hobbes/elements_of_law_natural_and_politic)
+- [Leviathan](/testi/hobbes/leviathan)
 
 **Hume**
 - [ESSAYS, MORAL, POLITICAL, AND LITERARY](/testi/hume/essays_moral_political_and_literary)
@@ -65,24 +73,24 @@ title: "Legittimità del potere"
 
 **Ortega y Gasset**
 - [¡A los electores de Madrid!](/testi/ortega-y-gasset/a_los_electores_de_madrid)
-- [Agrupación al Servicio de la República.— [Manifiesto]](/testi/ortega-y-gasset/agrupación_al_servicio_de_la_república_manifiesto)
+- [Agrupación al Servicio de la República Manifiesto](/testi/ortega-y-gasset/agrupación_al_servicio_de_la_república_manifiesto)
 - [Ante el movimiento social](/testi/ortega-y-gasset/ante_el_movimiento_social)
 - [Antimonarquía y República](/testi/ortega-y-gasset/antimonarquía_y_república)
 - [Caracterización de la monarquía](/testi/ortega-y-gasset/caracterización_de_la_monarquía)
-- [¿Contra una política o contra un Régimen?](/testi/ortega-y-gasset/contra_una_política_o_contra_un_régimen)
+- [Contra una política o contra un Régimen](/testi/ortega-y-gasset/contra_una_política_o_contra_un_régimen)
 - [Cosas de Europa](/testi/ortega-y-gasset/cosas_de_europa)
-- [César, los conservadores y el futuro.— II](/testi/ortega-y-gasset/césar_los_conservadores_y_el_futuro_ii)
+- [César los conservadores y el futuro II](/testi/ortega-y-gasset/césar_los_conservadores_y_el_futuro_ii)
 - [De re politica](/testi/ortega-y-gasset/de_re_politica)
 - [Demasiadas huelgas](/testi/ortega-y-gasset/demasiadas_huelgas)
 - [Democracia morbosa](/testi/ortega-y-gasset/democracia_morbosa)
-- [Diferencia radical entre la «Liga de educación política española» y los partidos actuales](/testi/ortega-y-gasset/diferencia_radical_entre_la_liga_de_educación_política_española_y_los_partidos_actuales)
-- [Disciplina, jefe, energía](/testi/ortega-y-gasset/disciplina_jefe_energía)
-- [ESPAÑA INVERTEBRADA.— BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS](/testi/ortega-y-gasset/españa_invertebrada_bosquejo_de_algunos_pensamientos_históricos)
+- [Diferencia radical entre la Liga de educación política española y los partidos actuales](/testi/ortega-y-gasset/diferencia_radical_entre_la_liga_de_educación_política_española_y_los_partidos_actuales)
+- [Disciplina jefe energía](/testi/ortega-y-gasset/disciplina_jefe_energía)
+- [ESPAÑA INVERTEBRADA BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS](/testi/ortega-y-gasset/españa_invertebrada_bosquejo_de_algunos_pensamientos_históricos)
 - [El Estado ante todo](/testi/ortega-y-gasset/el_estado_ante_todo)
 - [El derecho a la continuidad.— Inglaterra como estupefaciente](/testi/ortega-y-gasset/el_derecho_a_la_continuidad_inglaterra_como_estupefaciente)
 - [Las formas de gobierno](/testi/ortega-y-gasset/las_formas_de_gobierno)
 - [Miscelánea socialista](/testi/ortega-y-gasset/miscelánea_socialista)
-- [Prólogo a Una punta de Europa, de Victoriano García Martí](/testi/ortega-y-gasset/prólogo_a_una_punta_de_europa_de_victoriano_garcía_martí)
+- [Prólogo a Una punta de Europa de Victoriano García Martí](/testi/ortega-y-gasset/prólogo_a_una_punta_de_europa_de_victoriano_garcía_martí)
 - [Soberanía](/testi/ortega-y-gasset/soberanía)
 
 **Plato**
@@ -90,14 +98,18 @@ title: "Legittimità del potere"
 
 **Rousseau**
 - [CONSIDÉRATIONS SUR LE GOUVERNEMENT DE POLOGNE](/testi/rousseau/considérations_sur_le_gouvernement_de_pologne)
-- [DISCOURS SUR L’ÉCONOMIE POLITIQUE](/testi/rousseau/discours_sur_léconomie_politique)
+- [DISCOURS SUR LÉCONOMIE POLITIQUE](/testi/rousseau/discours_sur_léconomie_politique)
 - [DU CONTRAT SOCIAL ou Essai sur la forme de la République](/testi/rousseau/du_contrat_social_ou_essai_sur_la_forme_de_la_république)
 - [DU CONTRAT SOCIAL ou Principes du droit politique](/testi/rousseau/du_contrat_social_ou_principes_du_droit_politique)
 - [EXTRAIT DU PROJET DE PAIX PERPÉTUELLE](/testi/rousseau/extrait_du_projet_de_paix_perpétuelle)
 - [JUGEMENT SUR LA PAIX PERPÉTUELLE](/testi/rousseau/jugement_sur_la_paix_perpétuelle)
 - [JUGEMENT SUR LA POLYSYNODIE](/testi/rousseau/jugement_sur_la_polysynodie)
-- [LETTRES À M. BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE](/testi/rousseau/lettres_à_m_buttafoco_sur_la_législation_de_la_corse)
+- [LETTRES À M BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE](/testi/rousseau/lettres_à_m_buttafoco_sur_la_législation_de_la_corse)
 - [LETTRES ÉCRITES DE LA MONTAGNE](/testi/rousseau/lettres_écrites_de_la_montagne)
-- [L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
+- [LORIGINE ET LES FONDEMENTS DE LINÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
 - [PROJET DE CONSTITUTION POUR LA CORSE](/testi/rousseau/projet_de_constitution_pour_la_corse)
 - [RÉPONSE À UNE LETTRE ANONYME](/testi/rousseau/réponse_à_une_lettre_anonyme)
+
+**Spinoza**
+- [Political Treatise](/testi/spinoza/political_treatise)
+- [Theological-Political Treatise](/testi/spinoza/theological-political_treatise)

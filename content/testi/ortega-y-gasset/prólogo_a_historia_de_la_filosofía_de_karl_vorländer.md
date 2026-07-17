@@ -1,5 +1,5 @@
 ---
-title: "Prólogo a Historia de la Filosofía, de Karl Vorländer"
+title: "Prólogo a Historia de la Filosofía de Karl Vorländer"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_historia_de_la_filosofía_de_karl_vorländer" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a Historia de la Filosofía, de Karl Vorländer" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a Historia de la Filosofía de Karl Vorländer" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Este libro de Vorländer que ahora aparece traducido al castellano, será pronto, yo lo espero, la compañía inseparable de todos los que estudian filosofía en los países de lengua española y, además, de aquéllos que sin entregarse al oficio filosófico, se sienten curiosos de esta ciencia. No existe ninguna otra obra de historia de la filosofía que sea tan adecuada como la presente para iniciar en las grandes rutas del pensamiento a quienes, dentro de más voluminosas y complicadas producciones, fácilmente se perderían. Es, pues, el mejor maestro para principiantes y curiosos. Llegar a serlo constituyó el propósito principal de su autor.
 

@@ -6,7 +6,7 @@ label_en: "substance"
 aliases:
   - "ousia"
   - "substantia"
-work_count: 27
+work_count: 32
 tags:
   - "graph/concept"
 title: "sostanza"
@@ -15,7 +15,7 @@ title: "sostanza"
 
 *substance*
 
-## Opere (27)
+## Opere (32)
 
 **Aquinas**
 - [Treatise on the Angels](/testi/aquinas/treatise_on_the_angels)
@@ -27,6 +27,9 @@ title: "sostanza"
 - [On Interpretation (16a)](/testi/aristotle/on_interpretation_16a)
 - [On Melissus, Xenophanes, and Gorgias (974a)](/testi/aristotle/on_melissus_xenophanes_and_gorgias_974a)
 
+**Augustine**
+- [Doctrinal Treatises of St. Augustin](/testi/augustine/doctrinal_treatises_of_st_augustin)
+
 **Descartes**
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 - [MÉDITATIONS MÉTAPHYSIQUES](/testi/descartes/méditations_métaphysiques)
@@ -35,6 +38,9 @@ title: "sostanza"
 **Hegel**
 - [Lectures on the History of Philosophy](/testi/hegel/lectures_on_the_history_of_philosophy)
 - [The Logic of Hegel](/testi/hegel/the_logic_of_hegel)
+
+**Hobbes**
+- [De Corpore](/testi/hobbes/de_corpore)
 
 **Hume**
 - [A TREATISE OF HUMAN NATURE](/testi/hume/a_treatise_of_human_nature)
@@ -54,10 +60,15 @@ title: "sostanza"
 - [Función y substancia](/testi/ortega-y-gasset/función_y_substancia)
 - [La resurrección de la mónada](/testi/ortega-y-gasset/la_resurrección_de_la_mónada)
 - [Panteísmo](/testi/ortega-y-gasset/panteísmo)
-- [b) Ontología](/testi/ortega-y-gasset/b_ontología)
-- [c) Synecología](/testi/ortega-y-gasset/c_synecología)
-- [d) Eidolología](/testi/ortega-y-gasset/d_eidolología)
+- [b Ontología](/testi/ortega-y-gasset/b_ontología)
+- [c Synecología](/testi/ortega-y-gasset/c_synecología)
+- [d Eidolología](/testi/ortega-y-gasset/d_eidolología)
 
 **Plato**
 - [SOPHIST](/testi/plato/sophist)
 - [TIMAEUS](/testi/plato/timaeus)
+
+**Spinoza**
+- [Ethics](/testi/spinoza/ethics)
+- [Selected Letters](/testi/spinoza/selected_letters)
+- [Short Treatise on God, Man and His Well-Being](/testi/spinoza/short_treatise_on_god_man_and_his_well-being)

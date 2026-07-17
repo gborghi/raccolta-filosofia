@@ -9,7 +9,7 @@ aliases:
 axis: "knowledge_origin"
 contro:
   - "empiricism"
-work_count: 4
+work_count: 6
 tags:
   - "graph/position"
 title: "razionalismo"
@@ -22,7 +22,7 @@ Posizione sull'asse [Origine della conoscenza](/axes/knowledge_origin).
 
 **Contro:** [empirismo](/positions/empiricism)
 
-## Opere (15)
+## Opere (17)
 
 **Hegel**
 - [The Logic of Hegel](/testi/hegel/the_logic_of_hegel)
@@ -41,6 +41,10 @@ Posizione sull'asse [Origine della conoscenza](/axes/knowledge_origin).
 - [3.º Antiutopismo o antirracionalismo](/testi/ortega-y-gasset/3º_antiutopismo_o_antirracionalismo)
 - [Bronca en la física](/testi/ortega-y-gasset/bronca_en_la_física)
 - [Descartes y el método transcendental](/testi/ortega-y-gasset/descartes_y_el_método_transcendental)
-- [Las dos grandes metáforas (en el segundo centenario del nacimiento de Kant)](/testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant)
+- [Las dos grandes metáforas en el segundo centenario del nacimiento de Kant](/testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant)
 - [Ni vitalismo ni racionalismo](/testi/ortega-y-gasset/ni_vitalismo_ni_racionalismo)
 - [Reflexiones de centenario (1724-1924)](/testi/ortega-y-gasset/reflexiones_de_centenario_1724-1924)
+
+**Spinoza**
+- [Short Treatise on God, Man and His Well-Being](/testi/spinoza/short_treatise_on_god_man_and_his_well-being)
+- [Treatise on the Emendation of the Intellect](/testi/spinoza/treatise_on_the_emendation_of_the_intellect)

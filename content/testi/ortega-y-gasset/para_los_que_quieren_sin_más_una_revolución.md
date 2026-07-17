@@ -1,5 +1,5 @@
 ---
-title: "Para los que quieren, sin más, una revolución"
+title: "Para los que quieren sin más una revolución"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_los_que_quieren_sin_más_una_revolución" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para los que quieren, sin más, una revolución" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Para los que quieren sin más una revolución" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Pero aunque una revolución triunfe no quiere decir que sea deseable. Los que me lean saben hasta qué punto y por qué robustas razones no creo en la adecuada fertilidad de ninguna revolución, ni de las futuras ni de las pasadas, incluyendo la más ilustre de Francia. Es éste un punto en que hemos aprendido una óptica distinta de la vigente en el siglo pasado. Sin embargo, puedo yo estar en un craso error. Yo no quiero tampoco oponer mis opiniones personales, que además requerirían más minuciosa expresión, a los que juzgan necesario «hacer», así, sin más ni más, una revolución en España. Parejamente he procurado, en cuanto es posible a un pobre humano, eliminar mis opiniones personales frente a los que no quieren un nuevo Estado. He intentado —con grandes probabilidades de fracaso, sin duda— hacer hablar las cosas mismas y que mi voz se esforzase en ser anónima. No discuto, pues, con los «revolucionarios» sobre las revoluciones en general. Supongamos también que son ellos quienes llevan la razón cuando dicen que un nuevo Estado sólo puede surgir revolucionariamente. Muy bien. Pero también fuera oportuno que refrescasen la crónica de la revolución y viesen que jamás ninguna revolución auténtica ha sido en rigor «hecha» por este o el otro grupo. Antes de «ejecutarse» la estampa de la revolución en la calle, estaba hecha y archihecha en el aire público y por el aire público, el más difuso y formidable personaje. Las revoluciones no se «preparan» como un golpe de mano; las revoluciones no son conspiraciones, tapujos, secretos, subterraneidad. Son todo lo contrario: aire público; mejor, vendaval en toda la rosa de los vientos, colaboración universal, exuberante y sin contraseña. Sólo cuando hay esto marcha la turbinita de los que conspiraron.
 

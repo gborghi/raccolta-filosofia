@@ -1,5 +1,5 @@
 ---
-title: "Notas de Berlín (2)"
+title: "Notas de Berlín 2"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/notas_de_berlín_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Notas de Berlín (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Notas de Berlín 2" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 13 noviembre
 

@@ -31,4 +31,4 @@ Posizione sull'asse [Fondamento della morale](/axes/moral_foundation).
 - [AN ENQUIRY CONCERNING THE PRINCIPLES OF MORALS](/testi/hume/an_enquiry_concerning_the_principles_of_morals)
 
 **Ortega y Gasset**
-- [Política social.— Contra los asesinos](/testi/ortega-y-gasset/política_social_contra_los_asesinos)
+- [Política social Contra los asesinos](/testi/ortega-y-gasset/política_social_contra_los_asesinos)

@@ -7,7 +7,7 @@ aliases:
   - "Locke"
   - "Berkeley"
   - "Hume"
-work_count: 10
+work_count: 12
 tags:
   - "graph/school"
 title: "empirismo britannico"
@@ -16,7 +16,11 @@ title: "empirismo britannico"
 
 *British empiricism*
 
-## Opere (10)
+## Opere (12)
+
+**Hobbes**
+- [Elements of Law, Natural and Politic](/testi/hobbes/elements_of_law_natural_and_politic)
+- [Leviathan](/testi/hobbes/leviathan)
 
 **Hume**
 - [AN ABSTRACT OF A BOOK LATELY PUBLISHED ENTITLED A TREATISE OF HUMAN NATURE ETC.](/testi/hume/an_abstract_of_a_book_lately_published_entitled_a_treatise_of_human_nature_etc)

@@ -1,5 +1,5 @@
 ---
-title: "La epopeya castellana, por Ramón Menéndez Pidal"
+title: "La epopeya castellana por Ramón Menéndez Pidal"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_epopeya_castellana_por_ramón_menéndez_pidal" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La epopeya castellana, por Ramón Menéndez Pidal" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La epopeya castellana por Ramón Menéndez Pidal" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En tanto que la política sigue sus carreras torcidas, se va formando en el subsuelo peninsular una nueva cultura. Algunos hombres solícitos labran en silencio una nueva alma para España, una alta espiritualidad continental.
 

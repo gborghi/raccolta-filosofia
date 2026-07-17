@@ -1,5 +1,5 @@
 ---
-title: "Prólogo a La Academia platónica, de Pablo Luis Landsberg"
+title: "Prólogo a La Academia platónica de Pablo Luis Landsberg"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_la_academia_platónica_de_pablo_luis_landsberg" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a La Academia platónica, de Pablo Luis Landsberg" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a La Academia platónica de Pablo Luis Landsberg" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Va para tres años que en un ensayo titulado La deshumanización del arte intentaba yo definir los nuevos estilos y maneras que dominan la producción juvenil. Pareció entonces extraño que en vez de comenzar con el análisis de las obras mismas partiese de la relación en que los nuevos artistas y el público se encuentran. Esto era comenzar por el lado subjetivo y sociológico de la cuestión. Las razones que para ello tenía eran largas y complejas. Poco tiempo después apareció el libro de Landsberg, que ahora tiene en sus manos el lector. En él hallará algunas de aquellas razones silenciadas por mí. Desde hace tiempo, pienso e insinúo que es ineludible el retorno a la investigación sociológica. Los problemas mismos nos obligan a ello. Claro es que la nueva concepción sociológica ha de ser harto más sutil, más rigorosa, más filosófica que las usadas hacia 1890.
 

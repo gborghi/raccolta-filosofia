@@ -1,5 +1,5 @@
 ---
-title: "Alemán, latín y griego"
+title: "Alemán latín y griego"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/alemán_latín_y_griego" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Alemán, latín y griego" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Alemán latín y griego" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La discusión que ahora se mueve en Francia a propósito del latín puede servirnos de pretexto para renovar entre nosotros la meditación sobre el problema de la enseñanza de las lenguas. Tal y como las cosas están ahora en nuestra legislación es imposible que continúen. Una reforma absoluta se impone. Ahí va una opinión.
 

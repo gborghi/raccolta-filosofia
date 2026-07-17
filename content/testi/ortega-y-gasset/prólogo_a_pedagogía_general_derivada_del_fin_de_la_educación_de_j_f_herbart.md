@@ -1,5 +1,5 @@
 ---
-title: "Prólogo a Pedagogía general derivada del fin de la educación, de J. F. Herbart"
+title: "Prólogo a Pedagogía general derivada del fin de la educación de J F Herbart"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_pedagogía_general_derivada_del_fin_de_la_educación_de_j_f_herbart" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a Pedagogía general derivada del fin de la educación, de J. F. Herbart" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a Pedagogía general derivada del fin de la educación de J F Herbart" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Este libro clásico de la pedagogía, tan discretamente vertido al castellano por el señor Luzuriaga dirígese principalmente a los maestros. Se trata del primer gran ensayo que ha hecho el pensamiento para reducir la actividad educativa espontánea a un régimen científico. Cierto que antes de Herbart la turbulenta genialidad de Pestalozzi alcanzó atisbos tan profundos que de sus obras confusas y trastornadas por una ideología balbuciente ha podido luego extraerse todo el material de principios necesario para edificar un sistema científico de pedagogía. Hay, pues, en Pestalozzi un germen maravillosamente fecundo; pero hay en Herbart la primera maturación de él. Es posible —yo así lo pienso— que en este [caso](/concepts/fortune) valga más la simiente que el fruto primero, mas no sería justo emplear contra Herbart, como estos últimos años ha hecho Natorp[37], armas que desconoció Pestalozzi y que sólo una bonísima voluntad y una fatal tendencia a solicitar los textos pueden hallar en éste preformadas.
 

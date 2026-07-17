@@ -6,7 +6,7 @@ label_en: "justice"
 aliases:
   - "iustitia"
   - "diritto"
-work_count: 34
+work_count: 37
 tags:
   - "graph/concept"
 title: "giustizia"
@@ -15,7 +15,7 @@ title: "giustizia"
 
 *justice*
 
-## Opere (34)
+## Opere (37)
 
 **Aquinas**
 - [Treatise on the Cardinal Virtues](/testi/aquinas/treatise_on_the_cardinal_virtues)
@@ -24,8 +24,15 @@ title: "giustizia"
 - [Politics (1252a)](/testi/aristotle/politics_1252a)
 - [Rhetoric (1354a)](/testi/aristotle/rhetoric_1354a)
 
+**Augustine**
+- [City of God](/testi/augustine/city_of_god)
+
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
+
+**Hobbes**
+- [A Dialogue between a Philosopher and a Student of the Common Laws of England](/testi/hobbes/a_dialogue_between_a_philosopher_and_a_student_of_the_common_laws_of_england)
+- [De Cive](/testi/hobbes/de_cive)
 
 **Hume**
 - [AN ENQUIRY CONCERNING THE PRINCIPLES OF MORALS](/testi/hume/an_enquiry_concerning_the_principles_of_morals)
@@ -48,11 +55,11 @@ title: "giustizia"
 - [El principio del trabajo](/testi/ortega-y-gasset/el_principio_del_trabajo)
 - [Glosas](/testi/ortega-y-gasset/glosas)
 - [Guerra y ética](/testi/ortega-y-gasset/guerra_y_ética)
-- [Ictiosauros y editores clandestinos.— Urgencia de una rectificación moral](/testi/ortega-y-gasset/ictiosauros_y_editores_clandestinos_urgencia_de_una_rectificación_moral)
+- [Ictiosauros y editores clandestinos Urgencia de una rectificación moral](/testi/ortega-y-gasset/ictiosauros_y_editores_clandestinos_urgencia_de_una_rectificación_moral)
 - [Las formas de gobierno](/testi/ortega-y-gasset/las_formas_de_gobierno)
-- [Los crímenes sociales.— Comentarios a un discurso](/testi/ortega-y-gasset/los_crímenes_sociales_comentarios_a_un_discurso)
+- [Los crímenes sociales Comentarios a un discurso](/testi/ortega-y-gasset/los_crímenes_sociales_comentarios_a_un_discurso)
 - [Los votos van al presidio](/testi/ortega-y-gasset/los_votos_van_al_presidio)
-- [Política social.— Contra los asesinos](/testi/ortega-y-gasset/política_social_contra_los_asesinos)
+- [Política social Contra los asesinos](/testi/ortega-y-gasset/política_social_contra_los_asesinos)
 - [Un libro sobre la filosofía del Derecho](/testi/ortega-y-gasset/un_libro_sobre_la_filosofía_del_derecho)
 - [Ética y metafísica de la guerra](/testi/ortega-y-gasset/ética_y_metafísica_de_la_guerra)
 

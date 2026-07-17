@@ -1,5 +1,5 @@
 ---
-title: "La bicicleta, el pie y el pseudópodo"
+title: "La bicicleta el pie y el pseudópodo"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_bicicleta_el_pie_y_el_pseudópodo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La bicicleta, el pie y el pseudópodo" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La bicicleta el pie y el pseudópodo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No todas las funciones vitales, corporales o psíquicas son de un mismo rango biológico. Aparte del valor preeminente que en virtud de consideraciones ajenas a la biología otorgamos a algunas (desde el punto de vista ético, por ejemplo, es la voluntad desinteresada la función superior del ser humano), cabe disponerlas en una jerarquía puramente vital. En otras palabras: hay funciones vitales que lo son en un sentido más plenario y radical que otras.
 

@@ -1,5 +1,5 @@
 ---
-title: "El señor Dato, responsable de un atropello a la Constitución"
+title: "El señor Dato responsable de un atropello a la Constitución"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_señor_dato_responsable_de_un_atropello_a_la_constitución" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El señor Dato, responsable de un atropello a la Constitución" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="El señor Dato responsable de un atropello a la Constitución" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La responsabilidad contraída por el presidente del Consejo firmando la Real orden sobre la Prensa, es gravísima. No se concibe que tan viejo gobernante como el señor Dato se haya dejado inducir a tal fechoría, que fuera inexcusable en un ministro virginal. Sólo puede explicarse el [caso](/concepts/fortune) saliéndose de la Ética y suponiendo que este viejo gobernante ha querido vender un derecho público a cierta empresa periodística a cambio de no ser hostilizado por ella. De todas suertes, cualesquiera sean los resortes íntimos que motivaron la resolución, ésta es un hecho, y un hecho que constituye un inaudito abuso de Poder, un degüello de las libertades fundamentales, un escarnio de la dignidad presidencial y, lo que es peor que todo esto y más corto de decir, una majadería.
 

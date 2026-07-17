@@ -1,5 +1,5 @@
 ---
-title: "Lo que más falta hace hoy (Versión taquigráfica de una emisión por Radio Madrid a Buenos"
+title: "Lo que más falta hace hoy Versión taquigráfica de una emisión por Radio Madrid a Buenos"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/lo_que_más_falta_hace_hoy_versión_taquigráfica_de_una_emisión_por_radio_madrid_a_buenos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Lo que más falta hace hoy (Versión taquigráfica de una emisión por Radio Madrid a Buenos" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Lo que más falta hace hoy Versión taquigráfica de una emisión por Radio Madrid a Buenos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Envidio mi voz; la envidio porque de un brinco se planta ahora en vuestra tierra, y se está ya estremeciendo en ese aire argentino, tan excitante, tan eléctrico. Es en verdad una pena que no sea posible cabalgar la propia voz para andar ahora entre vosotros, paladeando el sabor que tiene la vida americana, especialmente la argentina, un sabor que nadie ha definido bien todavía y que, en nosotros los viejos europeos, por lo menos en mí, despierta siempre como un nuevo apetito de existir. Pero no hay remedio: yo tengo que quedar aquí, adscrito a mi vida castellana que en estas horas de mayo hace un esfuerzo extremo por florecer. Sólo mi voz va flotando a vuestro derredor, recorre vuestros campos, la ciudad, entra en un bar para ver si gentilmente hay alguien que le ofrezca un copetín, y, sobre todo, se filtra en la intimidad de las casas donde están reunidos los familiares, los amigos, con la aparente inacción del que escucha, pero sin poder reprimir esas miradas justas, inteligentes, esos relámpagos que lanzan de pupila a pupila, y que son opiniones fulminantes sobre lo que digo, sobre cómo lo digo, sobre por qué lo digo. Pero sería vano que yo me extenuase en el intento de dar presencia a mi persona allí donde ahora suena mi voz. La radio inevitablemente presta a la voz un carácter anónimo, impersonal, casi extrahumano; la convierte en voz de nadie. Y como deseo no haceros perder por completo vuestros minutos, que los tenéis tan contados en vuestra ciudad, voy a aprovechar la audacia que ese anonimato me proporciona, y, disfrazado de nadie, deciros qué es lo que hoy hace más falta.
 

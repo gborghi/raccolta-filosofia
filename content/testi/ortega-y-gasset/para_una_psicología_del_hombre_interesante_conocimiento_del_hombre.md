@@ -1,5 +1,5 @@
 ---
-title: "Para una psicología del hombre interesante.— Conocimiento del hombre"
+title: "Para una psicología del hombre interesante Conocimiento del hombre"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_una_psicología_del_hombre_interesante_conocimiento_del_hombre" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para una psicología del hombre interesante.— Conocimiento del hombre" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Para una psicología del hombre interesante Conocimiento del hombre" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

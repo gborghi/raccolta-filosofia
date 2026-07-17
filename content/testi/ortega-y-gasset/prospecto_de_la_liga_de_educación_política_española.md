@@ -1,5 +1,5 @@
 ---
-title: "PROSPECTO DE LA «LIGA DE EDUCACIÓN POLÍTICA ESPAÑOLA»"
+title: "PROSPECTO DE LA LIGA DE EDUCACIÓN POLÍTICA ESPAÑOLA"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prospecto_de_la_liga_de_educación_política_española" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="PROSPECTO DE LA «LIGA DE EDUCACIÓN POLÍTICA ESPAÑOLA»" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="PROSPECTO DE LA LIGA DE EDUCACIÓN POLÍTICA ESPAÑOLA" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Reunidos en una agrupación de enérgica solidaridad que lleva este nombre, pensamos unos cuantos españoles emprender una serie de trabajos destinados a investigar la realidad de la vida patria, a proponer soluciones eficaces y minuciosamente tratadas para los problemas añejos de nuestra historia, a defender, por medio de una crítica atenta y sin compromisos, cuanto va surgiendo en nuestro país con caracteres de aspirante vitalidad contra las asechanzas que mueven en derredor todas las cosas muertas o moribundas.
 

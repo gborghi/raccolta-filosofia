@@ -1,5 +1,5 @@
 ---
-title: "¿Qué opina usted de Pablo Iglesias?"
+title: "Qué opina usted de Pablo Iglesias"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/qué_opina_usted_de_pablo_iglesias" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Qué opina usted de Pablo Iglesias?" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Qué opina usted de Pablo Iglesias" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La Acción Socialista me pregunta: «¿Qué opina usted de Pablo Iglesias?» La respuesta podía ser reproducir un artículo titulado «Pablo Iglesias» que publiqué en El Imparcial hace algunos años, cuando por vez primera este hombre venerable fue elegido diputado. Si yo contara con los dedos de una mano las personas por quienes siento mayor respeto y fervor, entre todas las de España, uno de los dedos representaría a Pablo Iglesias.
 

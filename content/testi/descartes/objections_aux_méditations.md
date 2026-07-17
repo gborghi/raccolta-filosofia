@@ -3,7 +3,6 @@ title: "OBJECTIONS AUX MÉDITATIONS"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > The six (later seven) sets of objections to the Meditations — by theologians, scholastics and philosophers such as Caterus, Arnauld, Hobbes and Gassendi — together with Descartes's replies: a genuine multi-voiced philosophical debate on the cogito, dualism and the proof of God, stress-testing every argumentative step of the work.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/objections_aux_méditations" data-philosopher="Descartes"></div>
 

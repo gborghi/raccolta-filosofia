@@ -1,5 +1,5 @@
 ---
-title: "A. Aulard: Taine, historien de la Révolution Française"
+title: "A Aulard Taine historien de la Révolution Française"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/a_aulard_taine_historien_de_la_révolution_française" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="A. Aulard: Taine, historien de la Révolution Française" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="A Aulard Taine historien de la Révolution Française" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace pocos días un amigo mío, catalán y aun catalanista, me escribía estas palabras: «Ya sabe usted cómo fue educada la generación de la cual salieron los que hoy gobiernan en este caos desdichado que se llama política catalana: se les ha enseñado el prólogo de la obra de Taine y… nada más».
 

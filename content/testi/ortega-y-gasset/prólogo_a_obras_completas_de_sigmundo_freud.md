@@ -1,5 +1,5 @@
 ---
-title: "Prólogo a Obras completas, de Sigmundo Freud"
+title: "Prólogo a Obras completas de Sigmundo Freud"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_obras_completas_de_sigmundo_freud" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a Obras completas, de Sigmundo Freud" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a Obras completas de Sigmundo Freud" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La «Biblioteca Nueva» se propone publicar, vertidas al castellano, las obras completas del gran psiquiatra vienés Sigmundo Freud. La empresa me parece sobremanera acertada y contribuirá enérgicamente a atraer la atención de un público amplio sobre los asuntos psicológicos. Han sido, en efecto, las ideas de Freud la creación más original y sugestiva que en los últimos veinte años ha cruzado el horizonte de la psiquiatría. Su aparición motivó ardientes y dilatadas polémicas. En torno a Freud se fue formando un tropel cuantioso de discípulos y fieles, que propagaron por todo el mundo la nueva fe, fundaron revistas, anuarios y bibliotecas. La claridad, no exenta de elegancia, con que Freud expone su pensamiento, proporciona a su obra un círculo de expansión indefinido. Todo el mundo —no sólo el médico o el psicólogo— puede entender a Freud y, cuando no convencerse, recibir de sus libros fecundas sugestiones.
 

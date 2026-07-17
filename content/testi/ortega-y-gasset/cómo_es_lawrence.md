@@ -1,5 +1,5 @@
 ---
-title: "¿Cómo es Lawrence?"
+title: "Cómo es Lawrence"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/cómo_es_lawrence" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="¿Cómo es Lawrence?" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Cómo es Lawrence" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Hace mucho tiempo que no siento por nada tan viva curiosidad como por lo que enuncia esta pregunta: ¿Cómo es Lawrence? Yo quisiera ahora contaminar de esta curiosidad a los lectores. Para ello es necesario que comience diciéndoles quién es Lawrence[18].
 

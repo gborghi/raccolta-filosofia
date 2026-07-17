@@ -11,7 +11,7 @@ contro:
   - "atheism"
   - "fideism"
   - "scepticism"
-work_count: 13
+work_count: 15
 tags:
   - "graph/position"
 title: "teismo dimostrativo"
@@ -24,13 +24,17 @@ Posizione sull'asse [Dio](/axes/god).
 
 **Contro:** [ateismo](/positions/atheism), [fideismo](/positions/fideism), [scetticismo](/positions/scepticism)
 
-## Opere (13)
+## Opere (15)
 
 **Aquinas**
 - [Treatise on the One God](/testi/aquinas/treatise_on_the_one_god)
 
 **Aristotle**
 - [Metaphysics (980a)](/testi/aristotle/metaphysics_980a)
+
+**Augustine**
+- [Two Books of Soliloquies](/testi/augustine/two_books_of_soliloquies)
+- [Writings in Connection with the Manichæan Controversy](/testi/augustine/writings_in_connection_with_the_manichæan_controversy)
 
 **Descartes**
 - [DISCOURS DE LA MÉTHODE](/testi/descartes/discours_de_la_méthode)

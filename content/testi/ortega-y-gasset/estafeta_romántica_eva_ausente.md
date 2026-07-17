@@ -1,5 +1,5 @@
 ---
-title: "Estafeta romántica.— Eva ausente"
+title: "Estafeta romántica Eva ausente"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estafeta_romántica_eva_ausente" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Estafeta romántica.— Eva ausente" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Estafeta romántica Eva ausente" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Señora, el otro día vi a usted, salir lenta y ensimismada, de la Exposición de retratos femeninos que ahora hace la Sociedad de Amigos del Arte. Cuando quise acercarme, se había usted ya confundido en Recoletos con la audaz primavera.
 

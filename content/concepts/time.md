@@ -6,7 +6,7 @@ label_en: "time"
 aliases:
   - "tempus"
   - "Zeit"
-work_count: 24
+work_count: 25
 tags:
   - "graph/concept"
 title: "tempo"
@@ -15,10 +15,13 @@ title: "tempo"
 
 *time*
 
-## Opere (24)
+## Opere (25)
 
 **Aristotle**
 - [On Memory (449b)](/testi/aristotle/on_memory_449b)
+
+**Augustine**
+- [The Confessions](/testi/augustine/the_confessions)
 
 **Kant**
 - [CRITIQUE OF PURE REASON](/testi/kant/critique_of_pure_reason)
@@ -36,11 +39,11 @@ title: "tempo"
 - [Aurora de la razón histórica](/testi/ortega-y-gasset/aurora_de_la_razón_histórica)
 - [En el centenario de una Universidad](/testi/ortega-y-gasset/en_el_centenario_de_una_universidad)
 - [En el tren](/testi/ortega-y-gasset/en_el_tren)
-- [Filosofía pura. Anejo a mi folleto Kant](/testi/ortega-y-gasset/filosofía_pura_anejo_a_mi_folleto_kant)
+- [Filosofía pura Anejo a mi folleto Kant](/testi/ortega-y-gasset/filosofía_pura_anejo_a_mi_folleto_kant)
 - [Generación contra generación](/testi/ortega-y-gasset/generación_contra_generación)
 - [La primera fecha](/testi/ortega-y-gasset/la_primera_fecha)
 - [Pensamientos de año nuevo](/testi/ortega-y-gasset/pensamientos_de_año_nuevo)
-- [Pidiendo un Goethe desde dentro.— Carta a un alemán](/testi/ortega-y-gasset/pidiendo_un_goethe_desde_dentro_carta_a_un_alemán)
+- [Pidiendo un Goethe desde dentro Carta a un alemán](/testi/ortega-y-gasset/pidiendo_un_goethe_desde_dentro_carta_a_un_alemán)
 - [Tempo de la historia egipcia](/testi/ortega-y-gasset/tempo_de_la_historia_egipcia)
 - [Tiempo, distancia y forma en el arte de Proust](/testi/ortega-y-gasset/tiempo_distancia_y_forma_en_el_arte_de_proust)
 - [Tierras de castilla. Notas de andar y ver](/testi/ortega-y-gasset/tierras_de_castilla_notas_de_andar_y_ver)

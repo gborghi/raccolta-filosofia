@@ -1,5 +1,5 @@
 ---
-title: "Las dos grandes metáforas (en el segundo centenario del nacimiento de Kant)"
+title: "Las dos grandes metáforas en el segundo centenario del nacimiento de Kant"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Las dos grandes metáforas (en el segundo centenario del nacimiento de Kant)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Las dos grandes metáforas en el segundo centenario del nacimiento de Kant" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Cuando un escritor censura el uso de metáforas en filosofía, revela simplemente su desconocimiento de lo que es filosofía y de lo que es metáfora. A ningún filósofo se le ocurriría emitir tal censura[126]. La metáfora es un instrumento mental imprescindible, es una forma del pensamiento científico. Lo que puede muy bien acaecer es que el hombre de ciencia se equivoque al emplearla y donde ha pensado algo en forma indirecta o metafórica crea haber ejercido un pensamiento directo. Tales equivocaciones son, claro está, censurables, y exigen corrección; pero ni más ni menos que cuando el físico se trabuca al hacer un cálculo. Nadie en este [caso](/concepts/fortune) sostendrá que la matemática debe excluirse de la física. El error en el uso de un método no es una objeción contra el método. La poesía es metáfora; la ciencia usa de ella nada más. También podía decirse: nada menos.
 

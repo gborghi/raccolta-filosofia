@@ -9,7 +9,7 @@ aliases:
 axis: "state_and_individual"
 contro:
   - "sovereignty"
-work_count: 6
+work_count: 7
 tags:
   - "graph/position"
 title: "libertà di coscienza"
@@ -22,10 +22,10 @@ Posizione sull'asse [Stato e individuo](/axes/state_and_individual).
 
 **Contro:** [sovranità](/positions/sovereignty)
 
-## Opere (6)
+## Opere (7)
 
 **Kant**
-- [Beantwortung der Frage: Was ist Aufklärung](/testi/kant/beantwortung_der_frage_was_ist_aufklärung)
+- [Beantwortung der Frage Was ist Aufklärung](/testi/kant/beantwortung_der_frage_was_ist_aufklärung)
 
 **Locke**
 - [A FOURTH LETTER FOR TOLERATION](/testi/locke/a_fourth_letter_for_toleration)
@@ -35,3 +35,6 @@ Posizione sull'asse [Stato e individuo](/axes/state_and_individual).
 
 **Ortega y Gasset**
 - [Idea de un programa mínimo](/testi/ortega-y-gasset/idea_de_un_programa_mínimo)
+
+**Spinoza**
+- [Theological-Political Treatise](/testi/spinoza/theological-political_treatise)

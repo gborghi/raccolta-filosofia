@@ -1,5 +1,5 @@
 ---
-title: "LETTRE D'UN SYMPHONISTE DE L’ACADÉMIE ROYALE DE MUSIQUE"
+title: "LETTRE DUN SYMPHONISTE DE LACADÉMIE ROYALE DE MUSIQUE"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettre_dun_symphoniste_de_lacadémie_royale_de_musique" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRE D'UN SYMPHONISTE DE L’ACADÉMIE ROYALE DE MUSIQUE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRE DUN SYMPHONISTE DE LACADÉMIE ROYALE DE MUSIQUE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Enfin, mes chers camarades, nous triomphons ; les bouffons sont renvoyés : nous allons briller de nouveau dans les symphonies de M. Lulli ; nous n'aurons plus si chaud à l'Opéra, ni tant de fatigue à l’orchestre. Convenez, messieurs, que c'était un métier pénible que celui de jouer cette chienne de musique où la mesure allait sans miséricorde, et n'attendait jamais que nous pussions la suivre. Pour moi, quand je me sentais observé par quelqu'un de ces maudits habitants du Coin de la reine, et qu'un reste de mauvaise honte m'obligeait de jouer à peu près ce qui était sur ma partie, je me trouvais le plus embarrassé du monde, et au bout d'une ligne ou deux, ne sachant plus où j'en étais, je feignais de compter des pauses, ou bien je me tirais d'affaire en sortant pour aller pisser.
 

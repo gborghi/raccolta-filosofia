@@ -1,5 +1,5 @@
 ---
-title: "Por qué he escrito «El hombre a la defensiva»"
+title: "Por qué he escrito El hombre a la defensiva"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/por_qué_he_escrito_el_hombre_a_la_defensiva" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Por qué he escrito «El hombre a la defensiva»" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Por qué he escrito El hombre a la defensiva" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ya he recibido las primeras andanadas de ataques y de insultos que me dirigen los jóvenes escritores argentinos. Ya puedo, por consecuencia, escribir este artículo. Por otro de Victoria Ocampo, publicado en La Nación hace meses, tuve las primeras noticias del enojo que mis ensayos «La Pampa… promesas» y «El hombre a la defensiva», habían producido. Poco después, una página de Caras y Caretas, firmada por el señor Alberti, me confirmaba el hecho. Ambos escritores se adelantaban, generosos, a mi defensa y destacaban argumentos para aminorar la hostilidad contra mí germinante. Yo agradezco de corazón a ambos espontáneos paladines la efusión de su defensa, pero han de permitirme añadir que no era necesaria. Nadie que conozca aun vagamente la Argentina, puede dudar un momento de que al escribir yo aquellos ensayos sabía que iba a condensar sobre mi cabeza todas las electricidades del iracundo denuesto. Pero si nadie puede dudar de que presumía esa violenta repercusión, nadie puede dudar que había en mí la resolución de concitarla. Ninguna fuerza externa me obligaba a pensar, manuscribir y publicar aquellos ideogramas. Si todo ello lo hice libérrimamente, claro es que asumía, libérrimamente también, sus enojosas consecuencias. Sobre esto conviene que no exista la más leve incertidumbre.
 

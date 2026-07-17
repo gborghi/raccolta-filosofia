@@ -17,5 +17,5 @@ title: "amor di sé"
 ## Opere (2)
 
 **Rousseau**
-- [L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
-- [ÉMILE ou de L’ÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
+- [LORIGINE ET LES FONDEMENTS DE LINÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
+- [ÉMILE ou de LÉDUCATION](/testi/rousseau/émile_ou_de_léducation)

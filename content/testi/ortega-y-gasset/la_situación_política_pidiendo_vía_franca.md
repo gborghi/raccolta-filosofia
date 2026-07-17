@@ -1,5 +1,5 @@
 ---
-title: "La situación política.— Pidiendo vía franca"
+title: "La situación política Pidiendo vía franca"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_situación_política_pidiendo_vía_franca" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La situación política.— Pidiendo vía franca" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La situación política Pidiendo vía franca" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 No podrá quejarse el conde de Romanones de la conducta que con él han seguido los periódicos nacionales; hemos reprimido todas nuestras objeciones y le hemos prestado una espléndida aureola de alquiler durante su paso por Francia. Así convenía a los destinos españoles. Pero ha habido plumas intrépidas que se encaramaron desde luego a todos los superlativos: salvador de la patria, gran político, restaurador de España… El conde de Romanones, al oírse llamar cosas tan fuera de su condición, debió un instante palparse, temeroso de haber sido suplantado. Nosotros quisiéramos facilitar al conde esta labor de volverse a encontrar a sí mismo debajo de tamaña aureola. Para ello tenemos alguna autoridad: la de no escatimarle la porción estricta de aplauso que su viaje merece. Oímos que en algunos núcleos políticos se considera fracasado este viaje. Tal opinión, a nuestro juicio, procede sólo de un error de información. El viaje del conde de Romanones no ha sido ni un fracaso ni una victoria legendaria. Ha sido lo que tenía que ser, lo que podía y debía ser. El desenvolvimiento de los sucesos nos dará la razón.
 

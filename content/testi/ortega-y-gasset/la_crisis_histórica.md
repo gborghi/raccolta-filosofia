@@ -1,5 +1,5 @@
 ---
-title: "La «crisis histórica»"
+title: "La crisis histórica"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_crisis_histórica" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La «crisis histórica»" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La crisis histórica" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 De la actual situación política de España, sólo sabemos una cosa: que está regida por el embrollo, y que cada nuevo día trae sobre ella confusión y sombras. Los profesionales de la vieja farsa andan de la Ceca a la Meca entre cuentos e intrigas de la más cómica comadrería. Ellos, que tienen una sólida reputación de hombres sagaces, no entienden absolutamente nada de lo que ocurre. De lo que mañana pueda ocurrir no tienen ni siquiera ideas vagas y remotas. Todos hacen esfuerzos por evitar que pueda ocurrir algo interesante; temen que un día amanezca nuestra vida pública alterada y removida por mudanzas profundas; ante estas posibilidades, su ímpetu en la defensa de las viejas maneras y de los sistemas caducos, adquiere una elasticidad insospechada. Pero todas sus maniobras van perdiendo eficacia. Ahora advierten que han abusado de todos los trucos y que de pronto comienzan a fallar en sus manos los resortes clásicos de la mecánica política. Y he aquí la confusión, y el espanto, y el no saber a dónde va esta destartalada nave de nuestra política ni cómo logrará capear los furiosos temporales que han traído los días modernos.
 

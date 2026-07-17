@@ -21,4 +21,4 @@ Argomento di **Rousseau**. Asse [Natura umana](/axes/human_nature) · posizione 
 
 **Rousseau**
 - [LETTRE À MONSIEUR PHILOPOLIS](/testi/rousseau/lettre_à_monsieur_philopolis)
-- [L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
+- [LORIGINE ET LES FONDEMENTS DE LINÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)

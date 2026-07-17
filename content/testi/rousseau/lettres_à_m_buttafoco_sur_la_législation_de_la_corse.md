@@ -1,5 +1,5 @@
 ---
-title: "LETTRES À M. BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE"
+title: "LETTRES À M BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lettres_à_m_buttafoco_sur_la_législation_de_la_corse" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LETTRES À M. BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LETTRES À M BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Il est superflu, monsieur, de chercher à exciter mon zèle pour l’entreprise que vous me proposez[694]. La seule idée m'élève l'âme et me transporte. Je croirais le reste de mes jours bien noblement, bien vertueusement, bien heureusement employé, je croirais même avoir bien racheté l'inutilité des autres, si je pouvais rendre ce triste reste bon en quelque chose à vos braves compatriotes, si je pouvais concourir par quelque conseil utile aux vues de leur digne chef et aux vôtres : de ce côté-là donc soyez sûr de moi ; ma vie et mon cœur sont à vous.
 

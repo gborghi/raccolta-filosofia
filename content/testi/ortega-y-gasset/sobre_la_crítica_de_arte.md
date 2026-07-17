@@ -1,5 +1,5 @@
 ---
-title: "[Sobre la crítica de arte]"
+title: "Sobre la crítica de arte"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_la_crítica_de_arte" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[Sobre la crítica de arte]" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre la crítica de arte" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Amigo Juan de la Encina: sería inaceptable que después de haberle infligido a usted este banquete, no le dijésemos por qué. En este año, cuyo número ostenta tan cínicamente el cuarto de siglo y que termina con la cifra de un real, viene a hacer diez años que ejerce usted con ejemplar continuidad su menester de crítica. Aunque había usted antes publicado algunos estudios sobre arte, puede datarse de aquel periódico titulado España 1915 su labor más característica. Esta labor —la crítica— es de todas las faenas literarias la que exige mayor denuedo y atrae más riesgos. Durante un decenio ha ocupado usted un puesto de peligro y se ha mantenido en la brecha. Nada más fácil que criticar alguna vez y de sorpresa dar un alfilerazo a un transeúnte; pero ser crítico un día tras otro, equivale a poner una fábrica de enemistades. No ha eludido usted los peligros y los enojos de tal oficio, y por eso nos complace mostrar hoy nuestra simpatía y estimación por su bravura. Yo, al menos, tengo tal idea de lo expuesta que es la existencia de un crítico, que me he sentido toda la noche como si asistiese al banquete dado a un aviador.
 

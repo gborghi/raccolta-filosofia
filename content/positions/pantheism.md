@@ -10,7 +10,7 @@ axis: "god"
 contro:
   - "demonstrative_theism"
   - "deism"
-work_count: 4
+work_count: 8
 tags:
   - "graph/position"
 title: "panteismo"
@@ -23,7 +23,7 @@ Posizione sull'asse [Dio](/axes/god).
 
 **Contro:** [teismo dimostrativo](/positions/demonstrative_theism), [deismo](/positions/deism)
 
-## Opere (4)
+## Opere (8)
 
 **Aristotle**
 - [On the Universe (391a)](/testi/aristotle/on_the_universe_391a)
@@ -34,3 +34,9 @@ Posizione sull'asse [Dio](/axes/god).
 
 **Seneca**
 - [NATURAL QUESTIONS](/testi/seneca/natural_questions)
+
+**Spinoza**
+- [Ethics](/testi/spinoza/ethics)
+- [Selected Letters](/testi/spinoza/selected_letters)
+- [Short Treatise on God, Man and His Well-Being](/testi/spinoza/short_treatise_on_god_man_and_his_well-being)
+- [Theological-Political Treatise](/testi/spinoza/theological-political_treatise)

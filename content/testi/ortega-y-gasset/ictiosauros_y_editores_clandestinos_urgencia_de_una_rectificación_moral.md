@@ -1,5 +1,5 @@
 ---
-title: "Ictiosauros y editores clandestinos.— Urgencia de una rectificación moral"
+title: "Ictiosauros y editores clandestinos Urgencia de una rectificación moral"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/ictiosauros_y_editores_clandestinos_urgencia_de_una_rectificación_moral" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Ictiosauros y editores clandestinos.— Urgencia de una rectificación moral" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Ictiosauros y editores clandestinos Urgencia de una rectificación moral" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Por fin, se ha dado en América la embestida generosa y brava contra esta gran bellaquería de las ediciones clandestinas. Desde hace hartos años la perduración —digámoslo, la consolidación— del hecho bochornoso deshonraba a las dos Américas, del Centro y del Sur. Porque si bien carga la máxima responsabilidad sobre Chile, casi todo el resto de la América hispana participaba en ella. En Chile se hacen las ediciones criminales; pero en casi toda América se venden y donde no se venden, o se venden menos, como creo que pasa en la Argentina, no se protestaba del delito y en esta medida se colaboraba en él. Esto último no es una exigencia exorbitante. Pues nadie honestamente puede dudar de que sólo un movimiento de protesta surgido en América misma prometía con alguna vaga probabilidad ser eficaz. Ésta es una de las razones que me hicieron no hablar ni escribir una sola palabra pública sobre el asunto hasta el día presente —cosa que me interesa hacer constar. Sabía que era inútil, y hacer en el orden práctico de la vida cosas inútiles me parece una gruesa inmoralidad. Porque lo inútil no se contenta con serlo. Lo inútil resulta contraproducente.
 

@@ -9,7 +9,7 @@ positions:
   - "eternity"
   - "eternal_return"
   - "historicity"
-work_count: 23
+work_count: 25
 tags:
   - "graph/axis"
 title: "Tempo e morte"
@@ -25,11 +25,15 @@ title: "Tempo e morte"
 
 - [brevità della vita](/positions/brevity_of_life) — 2 opere · contro [eternità](/positions/eternity)
 - [memento mori](/positions/memento_mori) — 3 opere
-- [eternità](/positions/eternity) — 1 opere · contro [storicità](/positions/historicity), [brevità della vita](/positions/brevity_of_life)
+- [eternità](/positions/eternity) — 2 opere · contro [storicità](/positions/historicity), [brevità della vita](/positions/brevity_of_life)
 - [eterno ritorno](/positions/eternal_return) — 1 opere · contro [progresso](/positions/progress), [provvidenza](/positions/providence)
 - [storicità](/positions/historicity) — 12 opere · contro [eternità](/positions/eternity)
 
-## Opere (23)
+## Opere (25)
+
+**Augustine**
+- [City of God](/testi/augustine/city_of_god)
+- [The Confessions](/testi/augustine/the_confessions)
 
 **Lucretius**
 - [CONTENTS OF THE LATIN TEXT](/testi/lucretius/contents_of_the_latin_text)
@@ -41,17 +45,17 @@ title: "Tempo e morte"
 - [Aurora de la razón histórica](/testi/ortega-y-gasset/aurora_de_la_razón_histórica)
 - [Cuestiones holandesas](/testi/ortega-y-gasset/cuestiones_holandesas)
 - [Cultura y culturas](/testi/ortega-y-gasset/cultura_y_culturas)
-- [Del «humanismo» y de la generación cartesiana](/testi/ortega-y-gasset/del_humanismo_y_de_la_generación_cartesiana)
-- [El sentido histórico (2)](/testi/ortega-y-gasset/el_sentido_histórico_2)
+- [Del humanismo y de la generación cartesiana](/testi/ortega-y-gasset/del_humanismo_y_de_la_generación_cartesiana)
+- [El sentido histórico 2](/testi/ortega-y-gasset/el_sentido_histórico_2)
 - [En la muerte de Unamuno](/testi/ortega-y-gasset/en_la_muerte_de_unamuno)
 - [La mirada histórica](/testi/ortega-y-gasset/la_mirada_histórica)
 - [La nueva misión](/testi/ortega-y-gasset/la_nueva_misión)
 - [Oknos el soguero](/testi/ortega-y-gasset/oknos_el_soguero)
 - [Para el «Archivo de la palabra»](/testi/ortega-y-gasset/para_el_archivo_de_la_palabra)
 - [Pensamientos de año nuevo](/testi/ortega-y-gasset/pensamientos_de_año_nuevo)
-- [Pidiendo un Goethe desde dentro.— Carta a un alemán](/testi/ortega-y-gasset/pidiendo_un_goethe_desde_dentro_carta_a_un_alemán)
+- [Pidiendo un Goethe desde dentro Carta a un alemán](/testi/ortega-y-gasset/pidiendo_un_goethe_desde_dentro_carta_a_un_alemán)
 - [Prólogo a dos ensayos de historiografía](/testi/ortega-y-gasset/prólogo_a_dos_ensayos_de_historiografía)
-- [República, anacronismo y juventud](/testi/ortega-y-gasset/república_anacronismo_y_juventud)
+- [República anacronismo y juventud](/testi/ortega-y-gasset/república_anacronismo_y_juventud)
 
 **Plato**
 - [PHAEDO](/testi/plato/phaedo)

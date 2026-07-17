@@ -3,7 +3,6 @@ title: "TRAITÉ DE LA MÉCANIQUE"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > A short technical treatise on simple machines (pulley, inclined plane, wedge, screw, lever), based on the principle of proportionality between force and distance. A work of practical mechanics, without philosophical development.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/traité_de_la_mécanique" data-philosopher="Descartes"></div>
 

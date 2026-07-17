@@ -3,7 +3,6 @@ title: "TRAITÉ DE LA GÉOMÉTRIE"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > A treatise on analytic geometry (appended to the Discourse on Method) that translates geometrical problems into algebraic equations, laying the foundations of modern algebraic notation. A technical mathematical work.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/traité_de_la_géométrie" data-philosopher="Descartes"></div>
 

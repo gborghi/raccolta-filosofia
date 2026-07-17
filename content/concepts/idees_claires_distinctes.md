@@ -20,4 +20,4 @@ title: "idee chiare e distinte"
 - [DISCOURS DE LA MÉTHODE](/testi/descartes/discours_de_la_méthode)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 - [MÉDITATIONS MÉTAPHYSIQUES](/testi/descartes/méditations_métaphysiques)
-- [RÈGLES POUR LA DIRECTION DE L’ESPRIT](/testi/descartes/règles_pour_la_direction_de_lesprit)
+- [RÈGLES POUR LA DIRECTION DE LESPRIT](/testi/descartes/règles_pour_la_direction_de_lesprit)

@@ -1,5 +1,5 @@
 ---
-title: "Pidiendo un Goethe desde dentro.— Carta a un alemán"
+title: "Pidiendo un Goethe desde dentro Carta a un alemán"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/pidiendo_un_goethe_desde_dentro_carta_a_un_alemán" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Pidiendo un Goethe desde dentro.— Carta a un alemán" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Pidiendo un Goethe desde dentro Carta a un alemán" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Me pide usted, querido amigo[5], algo sobre Goethe, con ocasión del centenario, y he hecho algunos esfuerzos para ver si podía satisfacer sus deseos. Hacía muchos años que no leía a Goethe —¿por qué?— y he vuelto a deslizarme por entre los tomos densos de sus obras completas. Pero pronto he comprendido que mi buena voluntad iba a fracasar, que no podría hacer lo que usted me pide. Por muchas razones: La primera, ésta: no estoy para centenarios. Pero ¿es que lo está usted? ¿Hay hoy algún europeo que se encuentre en la disposición adecuada para celebrar centenarios? Nos preocupa con demasiado rigor este 1932 para que podamos alojar en ninguna de sus fechas aquel 1832. No es esto, sin embargo, lo peor. Lo peor es que al hacerse tan problemática nuestra vida de 1932, lo más problemático de ella es precisamente su relación con el pasado. La gente no se da de ello clara cuenta, porque el presente y el futuro presentan siempre un dramatismo más espectacular. Pero es el [caso](/concepts/fortune) que el presente y el futuro se han presentado al hombre muchas veces tanto o más difíciles y agrios que ahora. Lo que da a nuestra situación actual un carácter de insólita gravedad en los fastos humanos no radica tanto en esas dos dimensiones del tiempo como en la otra. Si el europeo hace con alguna perspicacia balance de su situación, advertirá que no desespera del presente ni del futuro, sino precisamente del pretérito.
 

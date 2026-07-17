@@ -1,5 +1,5 @@
 ---
-title: "Sobre el estudiar y el estudiante (Primera lección de un curso)"
+title: "Sobre el estudiar y el estudiante Primera lección de un curso"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_el_estudiar_y_el_estudiante_primera_lección_de_un_curso" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre el estudiar y el estudiante (Primera lección de un curso)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre el estudiar y el estudiante Primera lección de un curso" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

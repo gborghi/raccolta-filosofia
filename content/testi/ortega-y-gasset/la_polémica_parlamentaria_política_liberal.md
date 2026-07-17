@@ -1,5 +1,5 @@
 ---
-title: "La polémica parlamentaria.— Política liberal"
+title: "La polémica parlamentaria Política liberal"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/la_polémica_parlamentaria_política_liberal" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="La polémica parlamentaria.— Política liberal" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="La polémica parlamentaria Política liberal" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ya ve el señor La Cierva cómo las censuras que se le dirigen suelen tener fundamento. A la hora que escribíamos ayer nuestra nota sobre la retirada de su minoría él mismo recapacitaba y comprendía la sinrazón de su desplante contra el presidente de la Cámara. Había empleado no menos de hora y media en rectificar, y ello dentro de un debate donde lo que primordialmente se discute no es la anatomía del señor La Cierva, sino el hecho anónimo y lamentable de la inquietud barcelonesa. El acuerdo reglamentario es taxativo y ya en días anteriores se había rigorosamente aplicado. ¿Cómo pretendió el señor La Cierva dilatar la [norma](/concepts/law) establecida para alojar en ella su personal capricho? Desvanecido el hervor de sus nervios, y en un arrebato de cordura, resolvió ayer corregir limpiamente su error. Si el día anterior hizo mal perdiendo el compás, ayer hizo bien recobrándolo. Véase cómo lo que pedimos los escritores ariscos no son peras al olmo, sino un poco de reflexión a los hombres. Ayer combatió el señor La Cierva acerbamente al señor Álvarez, pero la disputa se mantuvo en el plano debido. Se llama a este plano debido convencionalismo político o convencionalismo parlamentario. Pues bien; nosotros nos permitimos decir: ¡viva el convencionalismo! Es uso a estas horas, y sospechamos que en plena ignorancia de lo que se dice, protestar de los convencionalismos y atribuirles no sabemos cuántas perniciosidades. He aquí un punto en que nos permitimos discrepar de la opinión pública: no creemos que de un convencionalismo pueda fácilmente originarse daño grave, y en cambio, nos parece que de ellos vienen todos los provechos. Todo lo que vale algo en el hombre es más o menos convencional: ciencia y arte, moral y cortesía. Poincaré, no Raimundo, sino el otro, el mejor, llama convenciones a los axiomas matemáticos. Convencionales se llamaron los liberales primeros que vertieron su sangre bajo el estandarte de Cromwell, al grito de «¡Dios con nosotros!» Convencionales fueron los demócratas franceses de 1793. Patriotismo y lealtad, justicia y honor son no más que sublimes, irreales convenciones, y en general, créasenos, es convención cuanto hacemos más allá del mordisco y la canina procreación.
 

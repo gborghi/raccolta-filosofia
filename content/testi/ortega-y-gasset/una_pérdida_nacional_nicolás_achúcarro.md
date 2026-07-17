@@ -1,5 +1,5 @@
 ---
-title: "Una pérdida nacional. Nicolás Achúcarro"
+title: "Una pérdida nacional Nicolás Achúcarro"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/una_pérdida_nacional_nicolás_achúcarro" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Una pérdida nacional. Nicolás Achúcarro" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Una pérdida nacional Nicolás Achúcarro" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ha muerto Nicolás Achúcarro. Desde hace algunos años ejercía en Madrid la medicina de las enfermedades mentales, y desde hace muchos vivía ocupado intensamente en trabajos de investigación biológica.
 

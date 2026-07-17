@@ -3,7 +3,6 @@ title: "LE MONDE OU LE TRAITÉ DE LA LUMIÈRE"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > A cosmological treatise (left unpublished for fear of Galileo's fate) presenting a purely mechanical universe of matter and extension. It opens with an important epistemological argument: sensory ideas (such as light) do not resemble at all the physical causes that produce them.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/le_monde_ou_le_traité_de_la_lumière" data-philosopher="Descartes"></div>
 

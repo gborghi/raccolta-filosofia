@@ -6,7 +6,7 @@ label_en: "the ontological argument"
 philosopher: "Descartes"
 axis: "god"
 position: "demonstrative_theism"
-work_count: 4
+work_count: 5
 tags:
   - "graph/argument"
 title: "argomento ontologico"
@@ -17,7 +17,7 @@ title: "argomento ontologico"
 
 Argomento di **Descartes**. Asse [Dio](/axes/god) · posizione [teismo dimostrativo](/positions/demonstrative_theism).
 
-## Opere (4)
+## Opere (5)
 
 **Descartes**
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
@@ -26,3 +26,6 @@ Argomento di **Descartes**. Asse [Dio](/axes/god) · posizione [teismo dimostrat
 
 **Hegel**
 - [Lectures on the Proofs of the Existence of God](/testi/hegel/lectures_on_the_proofs_of_the_existence_of_god)
+
+**Spinoza**
+- [Short Treatise on God, Man and His Well-Being](/testi/spinoza/short_treatise_on_god_man_and_his_well-being)

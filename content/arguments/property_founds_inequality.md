@@ -20,4 +20,4 @@ Argomento di **Rousseau**. Asse [Natura umana](/axes/human_nature) · posizione 
 ## Opere (1)
 
 **Rousseau**
-- [L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
+- [LORIGINE ET LES FONDEMENTS DE LINÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)

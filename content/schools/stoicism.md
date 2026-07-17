@@ -24,7 +24,7 @@ title: "stoicismo"
 - [ESSAYS, MORAL, POLITICAL, AND LITERARY](/testi/hume/essays_moral_political_and_literary)
 
 **Ortega y Gasset**
-- [Sobre el proceso Rull.— Lamentación](/testi/ortega-y-gasset/sobre_el_proceso_rull_lamentación)
+- [Sobre el proceso Rull Lamentación](/testi/ortega-y-gasset/sobre_el_proceso_rull_lamentación)
 - [Una fiesta de paz](/testi/ortega-y-gasset/una_fiesta_de_paz)
 
 **Pascal**

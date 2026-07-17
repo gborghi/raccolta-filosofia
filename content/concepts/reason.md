@@ -6,7 +6,7 @@ label_en: "reason"
 aliases:
   - "Vernunft"
   - "ratio"
-work_count: 95
+work_count: 103
 tags:
   - "graph/concept"
 title: "ragione"
@@ -15,7 +15,7 @@ title: "ragione"
 
 *reason*
 
-## Opere (95)
+## Opere (103)
 
 **Aquinas**
 - [Treatise on Grace](/testi/aquinas/treatise_on_grace)
@@ -32,13 +32,16 @@ title: "ragione"
 - [Sophistical Refutations (164a)](/testi/aristotle/sophistical_refutations_164a)
 - [Topics (100a)](/testi/aristotle/topics_100a)
 
+**Augustine**
+- [Two Books of Soliloquies](/testi/augustine/two_books_of_soliloquies)
+
 **Descartes**
 - [DISCOURS DE LA MÉTHODE](/testi/descartes/discours_de_la_méthode)
 - [LETTRES](/testi/descartes/lettres)
 - [LETTRE DE RENÉ DESCARTES A GISBERT VOET](/testi/descartes/lettre_de_rené_descartes_a_gisbert_voet)
 - [MÉDITATIONS MÉTAPHYSIQUES](/testi/descartes/méditations_métaphysiques)
 - [RECHERCHE DE LA VÉRITÉ PAR LES LUMIÈRES NATURELLES](/testi/descartes/recherche_de_la_vérité_par_les_lumières_naturelles)
-- [RÈGLES POUR LA DIRECTION DE L’ESPRIT](/testi/descartes/règles_pour_la_direction_de_lesprit)
+- [RÈGLES POUR LA DIRECTION DE LESPRIT](/testi/descartes/règles_pour_la_direction_de_lesprit)
 
 **Hegel**
 - [Hegel’s Philosophy of Mind](/testi/hegel/hegels_philosophy_of_mind)
@@ -48,6 +51,11 @@ title: "ragione"
 - [The Phenomenology of Spirit](/testi/hegel/the_phenomenology_of_spirit)
 - [The Philosophy of History](/testi/hegel/the_philosophy_of_history)
 
+**Hobbes**
+- [A Dialogue between a Philosopher and a Student of the Common Laws of England](/testi/hobbes/a_dialogue_between_a_philosopher_and_a_student_of_the_common_laws_of_england)
+- [De Corpore](/testi/hobbes/de_corpore)
+- [Elements of Law, Natural and Politic](/testi/hobbes/elements_of_law_natural_and_politic)
+
 **Hume**
 - [AN ENQUIRY CONCERNING HUMAN UNDERSTANDING](/testi/hume/an_enquiry_concerning_human_understanding)
 - [AN ENQUIRY CONCERNING THE PRINCIPLES OF MORALS](/testi/hume/an_enquiry_concerning_the_principles_of_morals)
@@ -56,7 +64,7 @@ title: "ragione"
 - [DIALOGUES CONCERNING NATURAL RELIGION](/testi/hume/dialogues_concerning_natural_religion)
 
 **Kant**
-- [Beantwortung der Frage: Was ist Aufklärung](/testi/kant/beantwortung_der_frage_was_ist_aufklärung)
+- [Beantwortung der Frage Was ist Aufklärung](/testi/kant/beantwortung_der_frage_was_ist_aufklärung)
 - [CRITIQUE OF JUDGEMENT](/testi/kant/critique_of_judgement)
 - [CRITIQUE OF PRACTICAL REASON](/testi/kant/critique_of_practical_reason)
 - [CRITIQUE OF PURE REASON](/testi/kant/critique_of_pure_reason)
@@ -90,8 +98,8 @@ title: "ragione"
 - [Algunas notas](/testi/ortega-y-gasset/algunas_notas)
 - [Aurora de la razón histórica](/testi/ortega-y-gasset/aurora_de_la_razón_histórica)
 - [Bronca en la física](/testi/ortega-y-gasset/bronca_en_la_física)
-- [Capítulo primero.— Creer y pensar](/testi/ortega-y-gasset/capítulo_primero_creer_y_pensar)
-- [Capítulo segundo.— Los mundos interiores](/testi/ortega-y-gasset/capítulo_segundo_los_mundos_interiores)
+- [Capítulo primero Creer y pensar](/testi/ortega-y-gasset/capítulo_primero_creer_y_pensar)
+- [Capítulo segundo Los mundos interiores](/testi/ortega-y-gasset/capítulo_segundo_los_mundos_interiores)
 - [Cuestiones holandesas](/testi/ortega-y-gasset/cuestiones_holandesas)
 - [Defensa del teólogo frente al místico](/testi/ortega-y-gasset/defensa_del_teólogo_frente_al_místico)
 - [EL TEMA DE NUESTRO TIEMPO](/testi/ortega-y-gasset/el_tema_de_nuestro_tiempo)
@@ -101,23 +109,23 @@ title: "ragione"
 - [Fraseología y sinceridad](/testi/ortega-y-gasset/fraseología_y_sinceridad)
 - [Hegel y América](/testi/ortega-y-gasset/hegel_y_américa)
 - [Instinto y razón](/testi/ortega-y-gasset/instinto_y_razón)
-- [La «crisis» de hoy y de hace cinco siglos. Creación y recepción. La «socialización» del](/testi/ortega-y-gasset/la_crisis_de_hoy_y_de_hace_cinco_siglos_creación_y_recepción_la_socialización_del)
+- [La crisis de hoy y de hace cinco siglos Creación y recepción La socialización del](/testi/ortega-y-gasset/la_crisis_de_hoy_y_de_hace_cinco_siglos_creación_y_recepción_la_socialización_del)
 - [La inteligencia de los chimpancés](/testi/ortega-y-gasset/la_inteligencia_de_los_chimpancés)
-- [Las dos grandes metáforas (en el segundo centenario del nacimiento de Kant)](/testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant)
+- [Las dos grandes metáforas en el segundo centenario del nacimiento de Kant](/testi/ortega-y-gasset/las_dos_grandes_metáforas_en_el_segundo_centenario_del_nacimiento_de_kant)
 - [Ni vitalismo ni racionalismo](/testi/ortega-y-gasset/ni_vitalismo_ni_racionalismo)
 - [Pleamar filosófica](/testi/ortega-y-gasset/pleamar_filosófica)
-- [¿Por qué se vuelve a la filosofía?](/testi/ortega-y-gasset/por_qué_se_vuelve_a_la_filosofía)
-- [Prólogo a Historia de la Filosofía, de Karl Vorländer](/testi/ortega-y-gasset/prólogo_a_historia_de_la_filosofía_de_karl_vorländer)
-- [Psicoanálisis, ciencia problemática](/testi/ortega-y-gasset/psicoanálisis_ciencia_problemática)
-- [¿Qué es el conocimiento? (Trozos de un curso)](/testi/ortega-y-gasset/qué_es_el_conocimiento_trozos_de_un_curso)
+- [Por qué se vuelve a la filosofía](/testi/ortega-y-gasset/por_qué_se_vuelve_a_la_filosofía)
+- [Prólogo a Historia de la Filosofía de Karl Vorländer](/testi/ortega-y-gasset/prólogo_a_historia_de_la_filosofía_de_karl_vorländer)
+- [Psicoanálisis ciencia problemática](/testi/ortega-y-gasset/psicoanálisis_ciencia_problemática)
+- [Qué es el conocimiento Trozos de un curso](/testi/ortega-y-gasset/qué_es_el_conocimiento_trozos_de_un_curso)
 - [Reflexiones de centenario (1724-1924)](/testi/ortega-y-gasset/reflexiones_de_centenario_1724-1924)
 - [Reforma de la inteligencia](/testi/ortega-y-gasset/reforma_de_la_inteligencia)
-- [Sensación, construcción e intuición](/testi/ortega-y-gasset/sensación_construcción_e_intuición)
-- [Sobre el estudiar y el estudiante (Primera lección de un curso)](/testi/ortega-y-gasset/sobre_el_estudiar_y_el_estudiante_primera_lección_de_un_curso)
+- [Sensación construcción e intuición](/testi/ortega-y-gasset/sensación_construcción_e_intuición)
+- [Sobre el estudiar y el estudiante Primera lección de un curso](/testi/ortega-y-gasset/sobre_el_estudiar_y_el_estudiante_primera_lección_de_un_curso)
 - [Sobre la razón suficiente](/testi/ortega-y-gasset/sobre_la_razón_suficiente)
-- [Unamuno y Europa, fábula](/testi/ortega-y-gasset/unamuno_y_europa_fábula)
+- [Unamuno y Europa fábula](/testi/ortega-y-gasset/unamuno_y_europa_fábula)
 - [Verdad y perspectiva](/testi/ortega-y-gasset/verdad_y_perspectiva)
-- [a) Metodología](/testi/ortega-y-gasset/a_metodología)
+- [a Metodología](/testi/ortega-y-gasset/a_metodología)
 
 **Pascal**
 - [Letters and Minor Works](/testi/pascal/letters_and_minor_works)
@@ -137,3 +145,9 @@ title: "ragione"
 - [ON ANGER](/testi/seneca/on_anger)
 - [ON LEISURE](/testi/seneca/on_leisure)
 - [ON THE HAPPY LIFE](/testi/seneca/on_the_happy_life)
+
+**Spinoza**
+- [Ethics](/testi/spinoza/ethics)
+- [Short Treatise on God, Man and His Well-Being](/testi/spinoza/short_treatise_on_god_man_and_his_well-being)
+- [Theological-Political Treatise](/testi/spinoza/theological-political_treatise)
+- [Treatise on the Emendation of the Intellect](/testi/spinoza/treatise_on_the_emendation_of_the_intellect)

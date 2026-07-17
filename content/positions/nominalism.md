@@ -11,7 +11,7 @@ axis: "universals"
 contro:
   - "realism_universals"
   - "realism_of_ideas"
-work_count: 2
+work_count: 3
 tags:
   - "graph/position"
 title: "nominalismo"
@@ -24,7 +24,10 @@ Posizione sull'asse [Universali](/axes/universals).
 
 **Contro:** [realismo (universali)](/positions/realism_universals), [realismo delle idee](/positions/realism_of_ideas)
 
-## Opere (2)
+## Opere (3)
+
+**Hobbes**
+- [De Corpore](/testi/hobbes/de_corpore)
 
 **Locke**
 - [AN ESSAY CONCERNING HUMAN UNDERSTANDING](/testi/locke/an_essay_concerning_human_understanding)

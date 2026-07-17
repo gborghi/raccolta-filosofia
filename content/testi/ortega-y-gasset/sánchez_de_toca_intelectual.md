@@ -1,5 +1,5 @@
 ---
-title: "Sánchez de Toca, intelectual"
+title: "Sánchez de Toca intelectual"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sánchez_de_toca_intelectual" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sánchez de Toca, intelectual" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Sánchez de Toca intelectual" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El día 9 ha leído don Joaquín Sánchez de Toca un discurso en la Academia de Jurisprudencia. Este discurso es el trozo más denso de literatura política que entre nosotros ha producido hasta ahora la guerra.
 

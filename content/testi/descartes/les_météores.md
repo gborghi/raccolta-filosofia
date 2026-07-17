@@ -3,7 +3,6 @@ title: "LES MÉTÉORES"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > A scientific essay on atmospheric phenomena — winds, clouds, hail, the rainbow — explained solely through the laws of matter and motion, without recourse to occult causes. A technical work of meteorology, appended to the Discourse on Method.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/les_météores" data-philosopher="Descartes"></div>
 

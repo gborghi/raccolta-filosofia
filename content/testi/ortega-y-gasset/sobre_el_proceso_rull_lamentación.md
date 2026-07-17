@@ -1,5 +1,5 @@
 ---
-title: "Sobre el proceso Rull.— Lamentación"
+title: "Sobre el proceso Rull Lamentación"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sobre_el_proceso_rull_lamentación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sobre el proceso Rull.— Lamentación" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Sobre el proceso Rull Lamentación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Algún genio avieso ha condenado a España a la esterilidad; no es sólo nuestro campo estéril, no sólo nuestros ríos se van muriendo, faltos de caudal, en los malditos estuarios, no sólo en las almas tórridas se agostan las menguadas espigas de las ideas… La esterilidad es aún más honda, más íntima, casi metafísica; la solución probable del proceso Rull va a revelarnos un síntoma terrible: en España todo es estéril, hasta los crímenes.
 

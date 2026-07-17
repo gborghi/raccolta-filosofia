@@ -1,5 +1,5 @@
 ---
-title: "NARCISSE ou L'AMANT DE LUI-MÊME"
+title: "NARCISSE ou LAMANT DE LUI-MÊME"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/narcisse_ou_lamant_de_lui-même" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="NARCISSE ou L'AMANT DE LUI-MÊME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="NARCISSE ou LAMANT DE LUI-MÊME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 J'ai écrit cette comédie à l'âge de dix-huit ans[47], et je me suis gardé de la montrer, aussi longtemps que j'ai tenu quelque compte de la réputation d'auteur. Je me suis enfin senti le courage de la publier, mais je n'aurai jamais celui d'en rien dire. Ce n'est donc pas de ma pièce, mais de moi-même qu'il s'agit ici.
 

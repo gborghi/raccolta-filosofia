@@ -6,7 +6,7 @@ label_en: "religion"
 aliases:
   - "culto"
   - "worship"
-work_count: 58
+work_count: 67
 tags:
   - "graph/concept"
 title: "religione"
@@ -15,10 +15,16 @@ title: "religione"
 
 *religion*
 
-## Opere (58)
+## Opere (67)
 
 **Aristotle**
 - [On the Universe (391a)](/testi/aristotle/on_the_universe_391a)
+
+**Augustine**
+- [Letters of St. Augustin](/testi/augustine/letters_of_st_augustin)
+- [The Harmony of the Gospels](/testi/augustine/the_harmony_of_the_gospels)
+- [Writings in Connection with the Donatist Controversy](/testi/augustine/writings_in_connection_with_the_donatist_controversy)
+- [Writings in Connection with the Manichæan Controversy](/testi/augustine/writings_in_connection_with_the_manichæan_controversy)
 
 **Descartes**
 - [LETTRE DE RENÉ DESCARTES A GISBERT VOET](/testi/descartes/lettre_de_rené_descartes_a_gisbert_voet)
@@ -27,6 +33,12 @@ title: "religione"
 - [Hegel’s Philosophy of Mind](/testi/hegel/hegels_philosophy_of_mind)
 - [Lectures on the Proofs of the Existence of God](/testi/hegel/lectures_on_the_proofs_of_the_existence_of_god)
 - [The Phenomenology of Spirit](/testi/hegel/the_phenomenology_of_spirit)
+
+**Hobbes**
+- [An Answer to a Book Published by Dr. Bramhall, Late Bishop of Derry](/testi/hobbes/an_answer_to_a_book_published_by_dr_bramhall_late_bishop_of_derry)
+- [An Historical Narration concerning Hersey and the Punishment Thereof](/testi/hobbes/an_historical_narration_concerning_hersey_and_the_punishment_thereof)
+- [Behemoth](/testi/hobbes/behemoth)
+- [Leviathan](/testi/hobbes/leviathan)
 
 **Hume**
 - [A LETTER FROM A GENTLEMAN TO HIS FRIEND IN EDINBURGH](/testi/hume/a_letter_from_a_gentleman_to_his_friend_in_edinburgh)
@@ -66,7 +78,7 @@ title: "religione"
 - [Catecismo para la lectura de una carta](/testi/ortega-y-gasset/catecismo_para_la_lectura_de_una_carta)
 - [Cuestión religiosa](/testi/ortega-y-gasset/cuestión_religiosa)
 - [Defensa del teólogo frente al místico](/testi/ortega-y-gasset/defensa_del_teólogo_frente_al_místico)
-- [Del «humanismo» y de la generación cartesiana](/testi/ortega-y-gasset/del_humanismo_y_de_la_generación_cartesiana)
+- [Del humanismo y de la generación cartesiana](/testi/ortega-y-gasset/del_humanismo_y_de_la_generación_cartesiana)
 - [Dinero sacro](/testi/ortega-y-gasset/dinero_sacro)
 - [Dios a la vista](/testi/ortega-y-gasset/dios_a_la_vista)
 - [Epílogo sobre el alma desilusionada](/testi/ortega-y-gasset/epílogo_sobre_el_alma_desilusionada)
@@ -95,8 +107,11 @@ title: "religione"
 
 **Rousseau**
 - [LETTRE À MONSEIGNEUR DE BEAUMONT](/testi/rousseau/lettre_à_monseigneur_de_beaumont)
-- [ÉMILE ou de L’ÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
+- [ÉMILE ou de LÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
 
 **Seneca**
 - [NATURAL QUESTIONS](/testi/seneca/natural_questions)
 - [THE PUMPKINIFICATION OF THE DIVINE CLAUDIUS](/testi/seneca/the_pumpkinification_of_the_divine_claudius)
+
+**Spinoza**
+- [Theological-Political Treatise](/testi/spinoza/theological-political_treatise)

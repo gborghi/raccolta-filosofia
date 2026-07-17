@@ -13,7 +13,7 @@ positions:
   - "ubermensch"
   - "last_man"
   - "grace_perfects_nature"
-work_count: 47
+work_count: 69
 tags:
   - "graph/axis"
 title: "Natura umana"
@@ -28,22 +28,48 @@ title: "Natura umana"
 ## Posizioni su questo asse
 
 - [bontà naturale](/positions/natural_goodness) — 14 opere · contro [peccato originale](/positions/original_sin)
-- [peccato originale](/positions/original_sin) — 4 opere · contro [bontà naturale](/positions/natural_goodness), [tabula rasa](/positions/tabula_rasa)
+- [peccato originale](/positions/original_sin) — 16 opere · contro [bontà naturale](/positions/natural_goodness), [tabula rasa](/positions/tabula_rasa)
 - [miseria e grandezza](/positions/misery_and_greatness) — 3 opere · contro [bontà naturale](/positions/natural_goodness)
 - [tabula rasa](/positions/tabula_rasa) — 2 opere · contro [innatismo](/positions/innatism), [peccato originale](/positions/original_sin)
 - [animale sociale](/positions/social_animal) — 5 opere
 - [uomo-massa](/positions/mass_man) — 8 opere
 - [oltreuomo](/positions/ubermensch) — 2 opere · contro [uomo-massa](/positions/mass_man)
 - [ultimo uomo](/positions/last_man) — 1 opere · contro [oltreuomo](/positions/ubermensch)
-- [la grazia perfeziona la natura](/positions/grace_perfects_nature) — 1 opere · contro [peccato originale](/positions/original_sin)
+- [la grazia perfeziona la natura](/positions/grace_perfects_nature) — 8 opere · contro [peccato originale](/positions/original_sin)
 
-## Opere (47)
+## Opere (69)
 
 **Aquinas**
 - [Treatise on Grace](/testi/aquinas/treatise_on_grace)
 
 **Aristotle**
 - [Politics (1252a)](/testi/aristotle/politics_1252a)
+
+**Augustine**
+- [A Treatise Against Two Letters of the Pelagians](/testi/augustine/a_treatise_against_two_letters_of_the_pelagians)
+- [A Treatise Concerning Man's Perfection in Righteousness](/testi/augustine/a_treatise_concerning_mans_perfection_in_righteousness)
+- [A Treatise on Grace and Free Will](/testi/augustine/a_treatise_on_grace_and_free_will)
+- [A Treatise on Nature and Grace](/testi/augustine/a_treatise_on_nature_and_grace)
+- [A Treatise on Rebuke and Grace](/testi/augustine/a_treatise_on_rebuke_and_grace)
+- [A Treatise on the Grace of Christ, and on Original Sin](/testi/augustine/a_treatise_on_the_grace_of_christ_and_on_original_sin)
+- [A Treatise on the Merits and Forgiveness of Sins, and on the Baptism of Infants](/testi/augustine/a_treatise_on_the_merits_and_forgiveness_of_sins_and_on_the_baptism_of_infants)
+- [A Treatise on the Predestination of the Saints](/testi/augustine/a_treatise_on_the_predestination_of_the_saints)
+- [A Treatise on the Soul and Its Origin](/testi/augustine/a_treatise_on_the_soul_and_its_origin)
+- [A Treatise on the Spirit and the Letter](/testi/augustine/a_treatise_on_the_spirit_and_the_letter)
+- [A Work on the Proceedings of Pelagius](/testi/augustine/a_work_on_the_proceedings_of_pelagius)
+- [City of God](/testi/augustine/city_of_god)
+- [Expositions on the Book of Psalms](/testi/augustine/expositions_on_the_book_of_psalms)
+- [Lectures Or Tractates on the Gospel According to St. John](/testi/augustine/lectures_or_tractates_on_the_gospel_according_to_st_john)
+- [Letters of St. Augustin](/testi/augustine/letters_of_st_augustin)
+- [Moral Treatises of St. Augustin](/testi/augustine/moral_treatises_of_st_augustin)
+- [On Marriage and Concupiscence](/testi/augustine/on_marriage_and_concupiscence)
+- [Our Lord's Sermon on the Mount](/testi/augustine/our_lords_sermon_on_the_mount)
+- [Sermons on Selected Lessons of the New Testament](/testi/augustine/sermons_on_selected_lessons_of_the_new_testament)
+- [The Confessions](/testi/augustine/the_confessions)
+- [Writings in Connection with the Manichæan Controversy](/testi/augustine/writings_in_connection_with_the_manichæan_controversy)
+
+**Hobbes**
+- [Leviathan](/testi/hobbes/leviathan)
 
 **Kant**
 - [IDEA FOR A UNIVERSAL HISTORY WITH A COSMOPOLITAN PURPOSE](/testi/kant/idea_for_a_universal_history_with_a_cosmopolitan_purpose)
@@ -62,7 +88,7 @@ title: "Natura umana"
 **Ortega y Gasset**
 - [Competencia](/testi/ortega-y-gasset/competencia)
 - [Contra todas las demagogias](/testi/ortega-y-gasset/contra_todas_las_demagogias)
-- [ESPAÑA INVERTEBRADA.— BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS](/testi/ortega-y-gasset/españa_invertebrada_bosquejo_de_algunos_pensamientos_históricos)
+- [ESPAÑA INVERTEBRADA BOSQUEJO DE ALGUNOS PENSAMIENTOS HISTÓRICOS](/testi/ortega-y-gasset/españa_invertebrada_bosquejo_de_algunos_pensamientos_históricos)
 - [El gesto y el grito](/testi/ortega-y-gasset/el_gesto_y_el_grito)
 - [El hombre, individuo de la humanidad](/testi/ortega-y-gasset/el_hombre_individuo_de_la_humanidad)
 - [El hombre no es el individuo biológico](/testi/ortega-y-gasset/el_hombre_no_es_el_individuo_biológico)
@@ -75,8 +101,8 @@ title: "Natura umana"
 - [Misión personal](/testi/ortega-y-gasset/misión_personal)
 - [Musicalia](/testi/ortega-y-gasset/musicalia)
 - [No ser hombre ejemplar](/testi/ortega-y-gasset/no_ser_hombre_ejemplar)
-- [Para una psicología del hombre interesante.— Conocimiento del hombre](/testi/ortega-y-gasset/para_una_psicología_del_hombre_interesante_conocimiento_del_hombre)
-- [Para una topografía de la soberbia española (Breve análisis de una pasión)](/testi/ortega-y-gasset/para_una_topografía_de_la_soberbia_española_breve_análisis_de_una_pasión)
+- [Para una psicología del hombre interesante Conocimiento del hombre](/testi/ortega-y-gasset/para_una_psicología_del_hombre_interesante_conocimiento_del_hombre)
+- [Para una topografía de la soberbia española Breve análisis de una pasión](/testi/ortega-y-gasset/para_una_topografía_de_la_soberbia_española_breve_análisis_de_una_pasión)
 - [Revés de almanaque](/testi/ortega-y-gasset/revés_de_almanaque)
 - [Se busca al hombre](/testi/ortega-y-gasset/se_busca_al_hombre)
 - [Sin embargo](/testi/ortega-y-gasset/sin_embargo)
@@ -95,9 +121,9 @@ title: "Natura umana"
 - [LETTRE SUR LA VERTU](/testi/rousseau/lettre_sur_la_vertu)
 - [LETTRE À MONSIEUR PHILOPOLIS](/testi/rousseau/lettre_à_monsieur_philopolis)
 - [LE PETIT SAVOYARD ou LA VIE DE CLAUDE NOYER](/testi/rousseau/le_petit_savoyard_ou_la_vie_de_claude_noyer)
-- [L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
-- [PROJET POUR L’ÉDUCATION DE MONSIEUR DE SAINTE-MARIE](/testi/rousseau/projet_pour_léducation_de_monsieur_de_sainte-marie)
-- [QUATRE LETTRES À M. LE PRÉSIDENT DE MALESHERBES](/testi/rousseau/quatre_lettres_à_m_le_président_de_malesherbes)
+- [LORIGINE ET LES FONDEMENTS DE LINÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
+- [PROJET POUR LÉDUCATION DE MONSIEUR DE SAINTE-MARIE](/testi/rousseau/projet_pour_léducation_de_monsieur_de_sainte-marie)
+- [QUATRE LETTRES À M LE PRÉSIDENT DE MALESHERBES](/testi/rousseau/quatre_lettres_à_m_le_président_de_malesherbes)
 - [ROUSSEAU JUGE DE JEAN-JACQUES](/testi/rousseau/rousseau_juge_de_jean-jacques)
 - [ÉMILE ET SOPHIE ou LES SOLITAIRES](/testi/rousseau/émile_et_sophie_ou_les_solitaires)
-- [ÉMILE ou de L’ÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
+- [ÉMILE ou de LÉDUCATION](/testi/rousseau/émile_ou_de_léducation)

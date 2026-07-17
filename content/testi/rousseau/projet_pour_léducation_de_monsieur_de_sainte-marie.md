@@ -1,5 +1,5 @@
 ---
-title: "PROJET POUR L’ÉDUCATION DE MONSIEUR DE SAINTE-MARIE"
+title: "PROJET POUR LÉDUCATION DE MONSIEUR DE SAINTE-MARIE"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/projet_pour_léducation_de_monsieur_de_sainte-marie" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="PROJET POUR L’ÉDUCATION DE MONSIEUR DE SAINTE-MARIE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="PROJET POUR LÉDUCATION DE MONSIEUR DE SAINTE-MARIE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Vous m’avez fait l’honneur, monsieur, de me confier l’instruction de messieurs vos enfants : c’est à moi d’y répondre par tous mes soins et par toute l’étendue des [lumières](/schools/enlightenment) que je puis avoir ; et j’ai cru que, pour cela, mon premier objet devait être de bien connaître les sujets auxquels j’aurai affaire. C’est à quoi j’ai principalement employé le temps qu’il y a que j’ai l’honneur d’être dans votre maison ; et je crois d’être suffisamment au fait à cet égard pour pouvoir régler là-dessus le plan de leur éducation. Il n’est pas nécessaire que je vous fasse compliment, monsieur, sur ce que j’y ai remarqué d’avantageux ; l’affection que j’ai conçue pour eux se déclarera par des marques plus solides que des louanges, et ce n’est pas un père aussi tendre et aussi éclairé que vous l’êtes, qu’il faut instruire des belles qualités de ses enfants.
 

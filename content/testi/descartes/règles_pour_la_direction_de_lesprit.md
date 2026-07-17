@@ -1,9 +1,8 @@
 ---
-title: "RÈGLES POUR LA DIRECTION DE L’ESPRIT"
+title: "RÈGLES POUR LA DIRECTION DE LESPRIT"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,12 +13,12 @@ tags:
 > [!abstract]
 > An unfinished methodological treatise, prior to the Discourse: it lays out twenty-one rules for directing the mind toward certain judgments, insisting on the unity of knowledge and on intuition and evidence as the foundation of knowledge — the first formulation of the Cartesian method.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/règles_pour_la_direction_de_lesprit" data-philosopher="Descartes"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="RÈGLES POUR LA DIRECTION DE L’ESPRIT" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="RÈGLES POUR LA DIRECTION DE LESPRIT" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Règle première
 

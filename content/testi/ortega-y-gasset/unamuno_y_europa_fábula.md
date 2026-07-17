@@ -1,5 +1,5 @@
 ---
-title: "Unamuno y Europa, fábula"
+title: "Unamuno y Europa fábula"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/unamuno_y_europa_fábula" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Unamuno y Europa, fábula" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Unamuno y Europa fábula" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Prisionero de otras ocupaciones, no he podido hasta ahora poner un exiguo comentario a la carta de don Miguel de Unamuno, publicada hace días en ABC. Una carta privada como ésta en que el señor Unamuno sanciona las opiniones del señor Azorín, no merece grande atención: el correo privado apenas si sirve de otra cosa que de manso cauce al río turbulento de las impertinencias individuales. Sólo me interesan las acciones y los problemas públicos: hartas dificultades hay en éstos para que nos distraigamos en meditar sobre las incongruencias íntimas, privadas de nuestros contemporáneos. Había pensado, desde luego, en no oponer nada a la filosofía soez de aquella carta: como en mi artículo anterior me preguntaba de nuevo: ¿qué decir a quien no se preocupa de la verdad? Cierto que el señor Unamuno me alude en esa carta: habla de «los papanatas» que están bajo la fascinación de «esos europeos». Ahora bien, yo soy plenamente, íntegramente, uno de esos papanatas: apenas si he escrito, desde que escribo para el público, una sola cuartilla en que no aparezca con agresividad simbólica la palabra: Europa. En esta palabra comienzan y acaban para mí todos los dolores de España. Y es costumbre en esta tierra mía, en esta tierra que Dios ha puesto de un empellón fuera del alcance benéfico de su vieja mano rugosa, contestar a la guapeza con algún gesto de jaque. El señor Unamuno ha elevado a la dignidad universitaria los usos jaquescos que el señor La Cierva, tan ingenuamente, se obstina en perseguir por las tabernas. ¿Dónde iremos ahora a buscar la bonne compagnie? Yo debía contestar con algún vocablo tosco o, como decían los griegos, rural, a don Miguel de Unamuno, energúmeno español. Pero… esto sería muy poco divertido. Quienes rompen las reglas artificiales de la buena educación se quedan sin gozar la fruición delicadísima de ejercitar íntegramente sus energías dentro de ellas. Pues qué, ¿no estriba todo el placer del juego en el sometimiento a ciertas reglas convencionales y hasta ridículas? ¡Divino juego civil de la buena educación! ¡Deleite noble y señor el de vivir dentro de las reglas quebrantables sin quebrantarlas! ¡Suprema voluptuosidad para quienes son capaces de sentir la voluptuosidad de la ley!
 

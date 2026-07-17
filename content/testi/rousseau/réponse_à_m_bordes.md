@@ -1,5 +1,5 @@
 ---
-title: "RÉPONSE À M. BORDES"
+title: "RÉPONSE À M BORDES"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/réponse_à_m_bordes" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="RÉPONSE À M. BORDES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="RÉPONSE À M BORDES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 On est désabusé depuis longtemps de la chimère de l’âge d’or ; partout la barbarie a précédé l’établissement des sociétés ; c’est une vérité prouvée par les annales de tous les peuples. Partout les besoins et les crimes forcèrent les hommes à se réunir, à s’imposer des lois, à s’enfermer dans des remparts. Les premiers dieux et les premiers rois furent des bienfaiteurs ou des tyrans ; la reconnaissance et la crainte élevèrent les trônes et les autels. La superstition et le despotisme vinrent alors couvrir la face de la terre : de nouveaux malheurs, de nouveaux crimes succédèrent, les révolutions se multiplièrent.
 

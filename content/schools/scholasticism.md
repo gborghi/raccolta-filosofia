@@ -6,7 +6,7 @@ label_en: "Scholasticism"
 aliases:
   - "Aquinas"
   - "summa"
-work_count: 35
+work_count: 37
 tags:
   - "graph/school"
 title: "scolastica"
@@ -15,7 +15,7 @@ title: "scolastica"
 
 *Scholasticism*
 
-## Opere (35)
+## Opere (37)
 
 **Aquinas**
 - [Treatise on Extreme Unction](/testi/aquinas/treatise_on_extreme_unction)
@@ -55,6 +55,10 @@ title: "scolastica"
 
 **Hegel**
 - [Lectures on the History of Philosophy](/testi/hegel/lectures_on_the_history_of_philosophy)
+
+**Hobbes**
+- [An Historical Narration concerning Hersey and the Punishment Thereof](/testi/hobbes/an_historical_narration_concerning_hersey_and_the_punishment_thereof)
+- [Behemoth](/testi/hobbes/behemoth)
 
 **Ortega y Gasset**
 - [Facciones del amor](/testi/ortega-y-gasset/facciones_del_amor)

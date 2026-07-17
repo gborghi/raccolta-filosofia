@@ -6,7 +6,7 @@ label_en: "dialogue"
 aliases:
   - "Hume"
   - "conversazione"
-work_count: 43
+work_count: 48
 tags:
   - "graph/form"
 title: "dialogo"
@@ -15,11 +15,19 @@ title: "dialogo"
 
 *dialogue*
 
-## Opere (43)
+## Opere (48)
+
+**Augustine**
+- [Two Books of Soliloquies](/testi/augustine/two_books_of_soliloquies)
 
 **Descartes**
 - [OBJECTIONS AUX MÉDITATIONS](/testi/descartes/objections_aux_méditations)
 - [RECHERCHE DE LA VÉRITÉ PAR LES LUMIÈRES NATURELLES](/testi/descartes/recherche_de_la_vérité_par_les_lumières_naturelles)
+
+**Hobbes**
+- [A Dialogue between a Philosopher and a Student of the Common Laws of England](/testi/hobbes/a_dialogue_between_a_philosopher_and_a_student_of_the_common_laws_of_england)
+- [Behemoth](/testi/hobbes/behemoth)
+- [Ten Dialogues of Natural Philosophy](/testi/hobbes/ten_dialogues_of_natural_philosophy)
 
 **Hume**
 - [DIALOGUES CONCERNING NATURAL RELIGION](/testi/hume/dialogues_concerning_natural_religion)
@@ -69,3 +77,6 @@ title: "dialogo"
 
 **Rousseau**
 - [ROUSSEAU JUGE DE JEAN-JACQUES](/testi/rousseau/rousseau_juge_de_jean-jacques)
+
+**Spinoza**
+- [Short Treatise on God, Man and His Well-Being](/testi/spinoza/short_treatise_on_god_man_and_his_well-being)

@@ -6,7 +6,7 @@ title: Filosofia — Un Grafo di Conoscenza
   <div class="hero-text">
     <p class="hero-kicker">Una lettura connessa della filosofia</p>
     <h1 class="hero-title">Filosofia</h1>
-    <p class="hero-lead">1120 opere di 15 filosofi, connesse attraverso assi tematici, posizioni, concetti, argomenti, figure, forme e scuole condivisi. Apri un'opera per seguirne le connessioni; apri un concetto per vedere ogni opera che lo condivide.</p>
+    <p class="hero-lead">1164 opere di 18 filosofi, connesse attraverso assi tematici, posizioni, concetti, argomenti, figure, forme e scuole condivisi. Apri un'opera per seguirne le connessioni; apri un concetto per vedere ogni opera che lo condivide.</p>
     <p class="hero-actions">
       <a class="btn btn-primary" href="opere">Sfoglia tutte le opere</a>
       <a class="btn" href="cerca">Cerca per tema</a>

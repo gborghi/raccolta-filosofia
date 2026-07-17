@@ -8,7 +8,7 @@ aliases:
   - "sophia"
   - "saggio"
   - "sage"
-work_count: 23
+work_count: 30
 tags:
   - "graph/concept"
 title: "sapienza"
@@ -17,15 +17,24 @@ title: "sapienza"
 
 *wisdom*
 
-## Opere (23)
+## Opere (30)
+
+**Augustine**
+- [Expositions on the Book of Psalms](/testi/augustine/expositions_on_the_book_of_psalms)
+- [Lectures Or Tractates on the Gospel According to St. John](/testi/augustine/lectures_or_tractates_on_the_gospel_according_to_st_john)
+- [Letters of St. Augustin](/testi/augustine/letters_of_st_augustin)
+- [On Christian Doctrine](/testi/augustine/on_christian_doctrine)
+- [Our Lord's Sermon on the Mount](/testi/augustine/our_lords_sermon_on_the_mount)
+- [Sermons on Selected Lessons of the New Testament](/testi/augustine/sermons_on_selected_lessons_of_the_new_testament)
+- [Two Books of Soliloquies](/testi/augustine/two_books_of_soliloquies)
 
 **Ortega y Gasset**
 - [Carta a un joven argentino que estudia filosofía](/testi/ortega-y-gasset/carta_a_un_joven_argentino_que_estudia_filosofía)
 - [El genio de la guerra y la guerra alemana](/testi/ortega-y-gasset/el_genio_de_la_guerra_y_la_guerra_alemana)
-- [El silencio, gran brahmán](/testi/ortega-y-gasset/el_silencio_gran_brahmán)
+- [El silencio gran brahmán](/testi/ortega-y-gasset/el_silencio_gran_brahmán)
 - [Gesticulación](/testi/ortega-y-gasset/gesticulación)
 - [La escritura](/testi/ortega-y-gasset/la_escritura)
-- [Sánchez de Toca, intelectual](/testi/ortega-y-gasset/sánchez_de_toca_intelectual)
+- [Sánchez de Toca intelectual](/testi/ortega-y-gasset/sánchez_de_toca_intelectual)
 
 **Plato**
 - [APOLOGY](/testi/plato/apology)

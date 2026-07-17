@@ -10,7 +10,7 @@ positions:
   - "pantheism"
   - "atheism"
   - "critical_genealogy"
-work_count: 57
+work_count: 73
 tags:
   - "graph/axis"
 title: "Dio"
@@ -24,14 +24,14 @@ title: "Dio"
 
 ## Posizioni su questo asse
 
-- [teismo dimostrativo](/positions/demonstrative_theism) — 13 opere · contro [ateismo](/positions/atheism), [fideismo](/positions/fideism), [scetticismo](/positions/scepticism)
+- [teismo dimostrativo](/positions/demonstrative_theism) — 15 opere · contro [ateismo](/positions/atheism), [fideismo](/positions/fideism), [scetticismo](/positions/scepticism)
 - [fideismo](/positions/fideism) — 3 opere · contro [teismo dimostrativo](/positions/demonstrative_theism)
 - [deismo](/positions/deism) — 11 opere · contro [teismo dimostrativo](/positions/demonstrative_theism), [ateismo](/positions/atheism)
-- [panteismo](/positions/pantheism) — 4 opere · contro [teismo dimostrativo](/positions/demonstrative_theism), [deismo](/positions/deism)
+- [panteismo](/positions/pantheism) — 8 opere · contro [teismo dimostrativo](/positions/demonstrative_theism), [deismo](/positions/deism)
 - [ateismo](/positions/atheism) — 5 opere · contro [teismo dimostrativo](/positions/demonstrative_theism), [fideismo](/positions/fideism), [deismo](/positions/deism)
 - [genealogia critica](/positions/critical_genealogy) — 5 opere · contro [teismo dimostrativo](/positions/demonstrative_theism)
 
-## Opere (60)
+## Opere (76)
 
 **Aquinas**
 - [Treatise on the One God](/testi/aquinas/treatise_on_the_one_god)
@@ -42,6 +42,19 @@ title: "Dio"
 - [On the Universe (391a)](/testi/aristotle/on_the_universe_391a)
 - [Physics (184a)](/testi/aristotle/physics_184a)
 
+**Augustine**
+- [City of God](/testi/augustine/city_of_god)
+- [Doctrinal Treatises of St. Augustin](/testi/augustine/doctrinal_treatises_of_st_augustin)
+- [Expositions on the Book of Psalms](/testi/augustine/expositions_on_the_book_of_psalms)
+- [Lectures Or Tractates on the Gospel According to St. John](/testi/augustine/lectures_or_tractates_on_the_gospel_according_to_st_john)
+- [Letters of St. Augustin](/testi/augustine/letters_of_st_augustin)
+- [Moral Treatises of St. Augustin](/testi/augustine/moral_treatises_of_st_augustin)
+- [On Christian Doctrine](/testi/augustine/on_christian_doctrine)
+- [On Marriage and Concupiscence](/testi/augustine/on_marriage_and_concupiscence)
+- [Our Lord's Sermon on the Mount](/testi/augustine/our_lords_sermon_on_the_mount)
+- [Two Books of Soliloquies](/testi/augustine/two_books_of_soliloquies)
+- [Writings in Connection with the Manichæan Controversy](/testi/augustine/writings_in_connection_with_the_manichæan_controversy)
+
 **Descartes**
 - [DISCOURS DE LA MÉTHODE](/testi/descartes/discours_de_la_méthode)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
@@ -51,6 +64,9 @@ title: "Dio"
 
 **Hegel**
 - [Lectures on the Proofs of the Existence of God](/testi/hegel/lectures_on_the_proofs_of_the_existence_of_god)
+
+**Hobbes**
+- [An Answer to a Book Published by Dr. Bramhall, Late Bishop of Derry](/testi/hobbes/an_answer_to_a_book_published_by_dr_bramhall_late_bishop_of_derry)
 
 **Hume**
 - [AN ENQUIRY CONCERNING HUMAN UNDERSTANDING](/testi/hume/an_enquiry_concerning_human_understanding)
@@ -117,8 +133,14 @@ title: "Dio"
 - [LETTRES MORALES](/testi/rousseau/lettres_morales)
 - [LETTRES ÉCRITES DE LA MONTAGNE](/testi/rousseau/lettres_écrites_de_la_montagne)
 - [LETTRE À MONSEIGNEUR DE BEAUMONT](/testi/rousseau/lettre_à_monseigneur_de_beaumont)
-- [ÉMILE ou de L’ÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
+- [ÉMILE ou de LÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
 
 **Seneca**
 - [NATURAL QUESTIONS](/testi/seneca/natural_questions)
 - [ON PROVIDENCE](/testi/seneca/on_providence)
+
+**Spinoza**
+- [Ethics](/testi/spinoza/ethics)
+- [Selected Letters](/testi/spinoza/selected_letters)
+- [Short Treatise on God, Man and His Well-Being](/testi/spinoza/short_treatise_on_god_man_and_his_well-being)
+- [Theological-Political Treatise](/testi/spinoza/theological-political_treatise)

@@ -1,5 +1,5 @@
 ---
-title: "Filosofía pura. Anejo a mi folleto Kant"
+title: "Filosofía pura Anejo a mi folleto Kant"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/filosofía_pura_anejo_a_mi_folleto_kant" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Filosofía pura. Anejo a mi folleto Kant" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Filosofía pura Anejo a mi folleto Kant" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 He publicado aparte las páginas sobre Kant que en 1924 aparecieron en la Revista de Occidente. Estas páginas no son más que una jaculatoria de centenario. No se habla en ellas propiamente de la filosofía de Kant, sino de la relación entre Kant y su filosofía.
 

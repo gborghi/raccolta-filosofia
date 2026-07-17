@@ -1,5 +1,5 @@
 ---
-title: "Este señor Pemán…"
+title: "Este señor Pemán"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/este_señor_pemán" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Este señor Pemán…" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Este señor Pemán" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Desde hace varios meses, con periodicidad astronómica, aparece en los periódicos un telegrama, siempre el mismo, donde se hace saber que un cierto señor Pemán ha dado una conferencia titulada «La claudicación de los intelectuales y necesidad de la formación de una nueva intelectualidad». Yo no me permito discutir la tesis general que este señor Pemán, a lo que parece, sustenta. Pero en esos telegramas de vitola estereotipada no falta nunca un párrafo que dice así:
 

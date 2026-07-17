@@ -1,5 +1,5 @@
 ---
-title: "Sensación, construcción e intuición"
+title: "Sensación construcción e intuición"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/sensación_construcción_e_intuición" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Sensación, construcción e intuición" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Sensación construcción e intuición" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Me ha parecido lo más oportuno a la ocasión escoger como tema de breves comentarios alguno que reuniera a la vez las condiciones de grande amplitud y suficiente concreción.
 

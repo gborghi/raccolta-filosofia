@@ -1,5 +1,5 @@
 ---
-title: "Estafeta romántica.— Un poeta indo"
+title: "Estafeta romántica Un poeta indo"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estafeta_romántica_un_poeta_indo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Estafeta romántica.— Un poeta indo" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Estafeta romántica Un poeta indo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

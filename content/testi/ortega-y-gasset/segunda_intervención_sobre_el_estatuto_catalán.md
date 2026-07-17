@@ -1,5 +1,5 @@
 ---
-title: "[Segunda intervención sobre el Estatuto catalán]"
+title: "Segunda intervención sobre el Estatuto catalán"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/segunda_intervención_sobre_el_estatuto_catalán" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="[Segunda intervención sobre el Estatuto catalán]" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Segunda intervención sobre el Estatuto catalán" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor ORTEGA Y GASSET (don José): En la discusión de la totalidad del Estatuto expresé ya el sentir de nuestro grupo acerca de la mejor manera de repartir la facultad pedagógica entre el Poder regional y la gestión directa del Estado; pero ahora llegamos al punto en que el problema se nos plantea concretamente y tenemos que tomar una resolución. Yo había manifestado plena coincidencia con el texto primitivo del dictamen, que sigue pareciéndome la [norma](/concepts/law) más discreta que, hoy por hoy, cabe adoptar. La enmienda que ahora presenta el señor Barnés conserva en su primer párrafo aquel texto que establece la permanencia de las instituciones pedagógicas actuales bajo la gestión directa del Estado y la posibilidad para la Generalidad, el Poder regional de Cataluña, de crear cuantos establecimientos docentes tenga a bien. Por añadidura, y juntado a aquel texto primigenio esta enmienda del señor Barnés, se advierte que el temor de divergencia queda reducido al orden universitario. Atengámonos, pues, a él.
 

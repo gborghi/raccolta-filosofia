@@ -1,5 +1,5 @@
 ---
-title: "Civilización, cultura, espontaneidad"
+title: "Civilización cultura espontaneidad"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/civilización_cultura_espontaneidad" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Civilización, cultura, espontaneidad" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Civilización cultura espontaneidad" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Traduciendo este ejemplo del orden físico al psíquico, podremos distinguir tres clases de actividad espiritual: Primera: el uso de mecanismos o técnicas, políticas, industriales, etc., que en conjunto llamamos civilización, y corresponden al montar en bicicleta. Segunda: las funciones culturales del pensar científico, de la moralidad, de la creación artística, que siendo íntimas al hombre son ya especificaciones de la vitalidad psíquica dentro de cauces normativos e infranqueables: ellas valen en el orden psíquico lo que el andar en el corpóreo. Tercera: los ímpetus originarios de la psique, como son el coraje y la curiosidad, el amor y el odio, la agilidad intelectual, el afán de gozar y triunfar, la confianza en sí y en el mundo, la imaginación, la memoria. Estas funciones espontáneas de la psique, previas a toda cristalización en aparatos y operaciones específicas, son la raíz de la existencia personal. Sin ciencia no hay técnica, pero sin curiosidad, agilidad mental, constancia en el esfuerzo, no habrá tampoco ciencia. El médico no será buen médico si no es un poco científico, y no será un poco científico si no es bastante inteligente. Ahora bien: es un error creer que a fuerza de enseñar técnica terapéutica se logrará dotar a un individuo de visión científica, y mucho menos hacerlo inteligente.
 

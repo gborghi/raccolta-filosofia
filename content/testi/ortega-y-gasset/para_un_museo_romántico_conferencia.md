@@ -1,5 +1,5 @@
 ---
-title: "Para un Museo Romántico (conferencia)"
+title: "Para un Museo Romántico conferencia"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_un_museo_romántico_conferencia" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para un Museo Romántico (conferencia)" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Para un Museo Romántico conferencia" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 SEÑORAS Y SEÑORES:
 

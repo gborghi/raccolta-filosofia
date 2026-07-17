@@ -10,7 +10,7 @@ positions:
   - "utility_pleasure"
   - "moral_sentiment"
   - "will_to_power"
-work_count: 58
+work_count: 66
 tags:
   - "graph/axis"
 title: "Fondamento della morale"
@@ -24,14 +24,14 @@ title: "Fondamento della morale"
 
 ## Posizioni su questo asse
 
-- [legge naturale](/positions/natural_law) — 2 opere · contro [sentimento morale](/positions/moral_sentiment), [volontà di potenza](/positions/will_to_power)
+- [legge naturale](/positions/natural_law) — 4 opere · contro [sentimento morale](/positions/moral_sentiment), [volontà di potenza](/positions/will_to_power)
 - [imperativo del dovere](/positions/duty_imperative) — 3 opere · contro [utile e piacere](/positions/utility_pleasure), [sentimento morale](/positions/moral_sentiment)
-- [virtù](/positions/virtue_ethics) — 35 opere · contro [utile e piacere](/positions/utility_pleasure)
+- [virtù](/positions/virtue_ethics) — 37 opere · contro [utile e piacere](/positions/utility_pleasure)
 - [utile e piacere](/positions/utility_pleasure) — 2 opere · contro [imperativo del dovere](/positions/duty_imperative), [virtù](/positions/virtue_ethics)
 - [sentimento morale](/positions/moral_sentiment) — 5 opere · contro [legge naturale](/positions/natural_law), [imperativo del dovere](/positions/duty_imperative)
 - [volontà di potenza](/positions/will_to_power) — 4 opere · contro [legge naturale](/positions/natural_law), [imperativo del dovere](/positions/duty_imperative)
 
-## Opere (59)
+## Opere (67)
 
 **Aquinas**
 - [Treatise on Fortitude and Temperance](/testi/aquinas/treatise_on_fortitude_and_temperance)
@@ -48,12 +48,24 @@ title: "Fondamento della morale"
 - [Nicomachean Ethics (1094a)](/testi/aristotle/nicomachean_ethics_1094a)
 - [On Virtues and Vices (1249a)](/testi/aristotle/on_virtues_and_vices_1249a)
 
+**Augustine**
+- [A Treatise on the Spirit and the Letter](/testi/augustine/a_treatise_on_the_spirit_and_the_letter)
+- [Moral Treatises of St. Augustin](/testi/augustine/moral_treatises_of_st_augustin)
+- [On Marriage and Concupiscence](/testi/augustine/on_marriage_and_concupiscence)
+- [Our Lord's Sermon on the Mount](/testi/augustine/our_lords_sermon_on_the_mount)
+- [Sermons on Selected Lessons of the New Testament](/testi/augustine/sermons_on_selected_lessons_of_the_new_testament)
+- [Ten Homilies on the First Epistle of John](/testi/augustine/ten_homilies_on_the_first_epistle_of_john)
+
 **Descartes**
-- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
+
+**Hobbes**
+- [Elements of Law, Natural and Politic](/testi/hobbes/elements_of_law_natural_and_politic)
+- [Leviathan](/testi/hobbes/leviathan)
 
 **Hume**
 - [AN ENQUIRY CONCERNING THE PRINCIPLES OF MORALS](/testi/hume/an_enquiry_concerning_the_principles_of_morals)
@@ -76,10 +88,10 @@ title: "Fondamento della morale"
 
 **Ortega y Gasset**
 - [Destinos diferentes](/testi/ortega-y-gasset/destinos_diferentes)
-- [Introducción a una estimativa—. ¿Qué son los valores?](/testi/ortega-y-gasset/introducción_a_una_estimativa_qué_son_los_valores)
+- [Introducción a una estimativa Qué son los valores](/testi/ortega-y-gasset/introducción_a_una_estimativa_qué_son_los_valores)
 - [La moral visigótica](/testi/ortega-y-gasset/la_moral_visigótica)
 - [Los votos van al presidio](/testi/ortega-y-gasset/los_votos_van_al_presidio)
-- [Política social.— Contra los asesinos](/testi/ortega-y-gasset/política_social_contra_los_asesinos)
+- [Política social Contra los asesinos](/testi/ortega-y-gasset/política_social_contra_los_asesinos)
 - [Sobre una apología de la inexactitud](/testi/ortega-y-gasset/sobre_una_apología_de_la_inexactitud)
 
 **Plato**
@@ -93,13 +105,13 @@ title: "Fondamento della morale"
 - [THE REPUBLIC](/testi/plato/the_republic)
 
 **Rousseau**
-- [JULIE, OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
+- [JULIE OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
 - [LA VERTU LA PLUS NÉCESSAIRE AUX HÉROS](/testi/rousseau/la_vertu_la_plus_nécessaire_aux_héros)
 - [LES AMOURS DE MILORD ÉDOUARD BOMSTON](/testi/rousseau/les_amours_de_milord_édouard_bomston)
 - [LETTRES MORALES](/testi/rousseau/lettres_morales)
 - [LETTRE SUR LA VERTU](/testi/rousseau/lettre_sur_la_vertu)
-- [LETTRE À D’ALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
-- [ORAISON FUNÈBRE DU DUC D’ORLÉANS](/testi/rousseau/oraison_funèbre_du_duc_dorléans)
+- [LETTRE À DALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
+- [ORAISON FUNÈBRE DU DUC DORLÉANS](/testi/rousseau/oraison_funèbre_du_duc_dorléans)
 
 **Seneca**
 - [ON ANGER](/testi/seneca/on_anger)

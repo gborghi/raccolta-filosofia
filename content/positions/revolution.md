@@ -43,5 +43,5 @@ Posizione sull'asse [Stato e individuo](/axes/state_and_individual).
 - [Hay que cambiar de signo a la República](/testi/ortega-y-gasset/hay_que_cambiar_de_signo_a_la_república)
 - [Idea de un programa mínimo](/testi/ortega-y-gasset/idea_de_un_programa_mínimo)
 - [Las revoluciones](/testi/ortega-y-gasset/las_revoluciones)
-- [Ni revolución, ni represión](/testi/ortega-y-gasset/ni_revolución_ni_represión)
-- [Para los que quieren, sin más, una revolución](/testi/ortega-y-gasset/para_los_que_quieren_sin_más_una_revolución)
+- [Ni revolución ni represión](/testi/ortega-y-gasset/ni_revolución_ni_represión)
+- [Para los que quieren sin más una revolución](/testi/ortega-y-gasset/para_los_que_quieren_sin_más_una_revolución)

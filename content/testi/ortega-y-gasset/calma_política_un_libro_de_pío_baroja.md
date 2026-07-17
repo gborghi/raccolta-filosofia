@@ -1,5 +1,5 @@
 ---
-title: "Calma política.— Un libro de Pío Baroja"
+title: "Calma política Un libro de Pío Baroja"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/calma_política_un_libro_de_pío_baroja" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Calma política.— Un libro de Pío Baroja" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Calma política Un libro de Pío Baroja" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Madrid, agosto de 1912
 

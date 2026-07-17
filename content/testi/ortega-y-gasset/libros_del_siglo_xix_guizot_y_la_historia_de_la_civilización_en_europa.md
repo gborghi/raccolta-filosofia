@@ -1,5 +1,5 @@
 ---
-title: "«Libros del siglo XIX».— Guizot y la Historia de la civilización en Europa"
+title: "Libros del siglo XIX Guizot y la Historia de la civilización en Europa"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/libros_del_siglo_xix_guizot_y_la_historia_de_la_civilización_en_europa" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="«Libros del siglo XIX».— Guizot y la Historia de la civilización en Europa" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Libros del siglo XIX Guizot y la Historia de la civilización en Europa" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 La cosa no ofrece duda: quien quiera de verdad ver claro qué es lo que pasa hoy en el mundo, lo primero que necesita hacer es repasar a fondo y con mirada alerta la historia europea del siglo XIX. Aunque personalmente carezca de superior perspicacia se sorprenderá al advertir la sencillez con que le son revelados misterios que parecían inasequibles. El presente de Europa —y del mundo— cobrará a sus ojos inesperada transparencia.
 

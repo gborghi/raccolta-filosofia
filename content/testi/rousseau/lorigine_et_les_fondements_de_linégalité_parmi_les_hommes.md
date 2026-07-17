@@ -1,5 +1,5 @@
 ---
-title: "L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES"
+title: "LORIGINE ET LES FONDEMENTS DE LINÉGALITÉ PARMI LES HOMMES"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LORIGINE ET LES FONDEMENTS DE LINÉGALITÉ PARMI LES HOMMES" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 La plus utile et la moins avancée de toutes les connaissances humaines me paraît être celle de l’homme[91] ; et j’ose dire que la seule inscription du temple de Delphes contenait un précepte plus important et plus difficile que tous les gros livres des moralistes. Aussi je regarde le sujet de ce discours comme une des questions les plus intéressantes que la philosophie puisse proposer, et, malheureusement pour nous, comme une des plus épineuses que les philosophes puissent résoudre. Car comment connaître la source de l’inégalité parmi les hommes, si l’on ne commence par les connaître eux-mêmes ? et comment l’homme viendra-t-il à bout de se voir tel que l’a formé la nature, à travers tous les changements que la succession des temps et des choses a dû produire dans sa constitution originelle, et de démêler ce qu’il tient de son propre fonds d’avec ce que les circonstances et ses progrès ont ajouté ou changé à son état primitif ? Semblable à la statue de Glaucus que le temps, la mer et les orages avaient tellement défigurée qu’elle ressemblait moins à un dieu qu’à une bête féroce, l’âme humaine altérée au sein de la société par mille causes sans cesse renaissantes, par l’acquisition d’une multitude de connaissances et d’erreurs, par les changements arrivés à la constitution des corps, et par le choc continuel des passions, a pour ainsi dire changé d’apparence au point d’être presque méconnaissable ; et l’on n’y trouve plus, au lieu d’un être agissant toujours par des principes certains et invariables, au lieu de cette céleste et majestueuse simplicité dont son auteur l’avait empreinte, que le difforme contraste de la passion qui croit raisonner et de l’entendement en délire.
 

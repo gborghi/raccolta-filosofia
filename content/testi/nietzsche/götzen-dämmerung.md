@@ -3,7 +3,6 @@ title: "Götzen-Dämmerung"
 philosopher: "Nietzsche"
 lang: "de"
 edizione: "Anaconda Verlag"
-anno_edizione: 2013
 pd_year: 1971
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > An aphoristic, polemical summary of Nietzsche's mature philosophy: the 'idols' of morality, metaphysics and German culture are sounded out 'with a hammer' and found hollow. It recapitulates the will to power, decadence and the transvaluation of values in sharp, condensed form.
 
-<p class="work-source">Testo originale tedesco · Anaconda Verlag, 2013 · pubblico dominio</p>
+<p class="work-source">Testo originale tedesco · Anaconda Verlag · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/nietzsche/götzen-dämmerung" data-philosopher="Nietzsche"></div>
 

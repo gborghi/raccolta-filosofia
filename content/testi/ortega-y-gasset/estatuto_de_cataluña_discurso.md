@@ -1,5 +1,5 @@
 ---
-title: "Estatuto de Cataluña.— Discurso"
+title: "Estatuto de Cataluña Discurso"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estatuto_de_cataluña_discurso" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Estatuto de Cataluña.— Discurso" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Estatuto de Cataluña Discurso" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor PRESIDENTE: Continúa la discusión de totalidad. El señor Ortega y Gasset (don José) tiene la palabra.
 

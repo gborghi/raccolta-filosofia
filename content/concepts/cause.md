@@ -7,7 +7,7 @@ aliases:
   - "causalità"
   - "causation"
   - "nesso causale"
-work_count: 36
+work_count: 42
 tags:
   - "graph/concept"
 title: "causa"
@@ -16,7 +16,7 @@ title: "causa"
 
 *cause*
 
-## Opere (36)
+## Opere (42)
 
 **Aquinas**
 - [Treatise on the Conservation and Government of Creatures](/testi/aquinas/treatise_on_the_conservation_and_government_of_creatures)
@@ -42,10 +42,17 @@ title: "causa"
 - [OBJECTIONS AUX MÉDITATIONS](/testi/descartes/objections_aux_méditations)
 - [PREMIÈRES PENSÉES SUR LA GÉNÉRATION DES ANIMAUX ET LES SAVEURS](/testi/descartes/premières_pensées_sur_la_génération_des_animaux_et_les_saveurs)
 - [TRAITÉ DE LA MÉCANIQUE](/testi/descartes/traité_de_la_mécanique)
-- [TRAITÉ DE L’HOMME](/testi/descartes/traité_de_lhomme)
+- [TRAITÉ DE LHOMME](/testi/descartes/traité_de_lhomme)
 
 **Hegel**
 - [The Logic of Hegel](/testi/hegel/the_logic_of_hegel)
+
+**Hobbes**
+- [An Answer to a Book Published by Dr. Bramhall, Late Bishop of Derry](/testi/hobbes/an_answer_to_a_book_published_by_dr_bramhall_late_bishop_of_derry)
+- [De Corpore](/testi/hobbes/de_corpore)
+- [Of Liberty and Necessity](/testi/hobbes/of_liberty_and_necessity)
+- [Seven Philosophical Problems](/testi/hobbes/seven_philosophical_problems)
+- [Ten Dialogues of Natural Philosophy](/testi/hobbes/ten_dialogues_of_natural_philosophy)
 
 **Hume**
 - [AN ABSTRACT OF A BOOK LATELY PUBLISHED ENTITLED A TREATISE OF HUMAN NATURE ETC.](/testi/hume/an_abstract_of_a_book_lately_published_entitled_a_treatise_of_human_nature_etc)
@@ -70,4 +77,7 @@ title: "causa"
 
 **Ortega y Gasset**
 - [Max Scheler.— Un embriagado de esencias (1874-1928)](/testi/ortega-y-gasset/max_scheler_un_embriagado_de_esencias_1874-1928)
-- [a) Metodología](/testi/ortega-y-gasset/a_metodología)
+- [a Metodología](/testi/ortega-y-gasset/a_metodología)
+
+**Spinoza**
+- [Selected Letters](/testi/spinoza/selected_letters)

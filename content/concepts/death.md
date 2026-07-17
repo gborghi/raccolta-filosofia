@@ -6,7 +6,7 @@ label_en: "death"
 aliases:
   - "mors"
   - "Tod"
-work_count: 30
+work_count: 31
 tags:
   - "graph/concept"
 title: "morte"
@@ -15,11 +15,14 @@ title: "morte"
 
 *death*
 
-## Opere (30)
+## Opere (31)
 
 **Aquinas**
 - [Treatise on the Last Things](/testi/aquinas/treatise_on_the_last_things)
 - [Treatise on the Resurrection](/testi/aquinas/treatise_on_the_resurrection)
+
+**Augustine**
+- [A Treatise on the Merits and Forgiveness of Sins, and on the Baptism of Infants](/testi/augustine/a_treatise_on_the_merits_and_forgiveness_of_sins_and_on_the_baptism_of_infants)
 
 **Hume**
 - [ESSAYS, MORAL, POLITICAL, AND LITERARY](/testi/hume/essays_moral_political_and_literary)

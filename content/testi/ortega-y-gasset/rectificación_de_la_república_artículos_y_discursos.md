@@ -1,5 +1,5 @@
 ---
-title: "RECTIFICACIÓN DE LA REPÚBLICA.— Artículos y discursos"
+title: "RECTIFICACIÓN DE LA REPÚBLICA Artículos y discursos"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/rectificación_de_la_república_artículos_y_discursos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="RECTIFICACIÓN DE LA REPÚBLICA.— Artículos y discursos" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="RECTIFICACIÓN DE LA REPÚBLICA Artículos y discursos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

@@ -3,7 +3,6 @@ title: "Zur Kritik der politischen Ökonomie"
 philosopher: "Marx"
 lang: "de"
 edizione: "andhof, \\\"Gesammelte Werke – Gesamtausgabe\\\" (2015) — originale tedesco"
-anno_edizione: 2015
 pd_year: 1954
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > A Contribution to the Critique of Political Economy (1859): the analysis of the commodity, use- and exchange-value, abstract labour, and money.
 
-<p class="work-source">Testo originale tedesco · andhof, \&quot;Gesammelte Werke – Gesamtausgabe\&quot; (2015) — originale tedesco, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale tedesco · andhof, \&quot;Gesammelte Werke – Gesamtausgabe\&quot; (2015) — originale tedesco · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/marx/zur_kritik_der_politischen_ökonomie" data-philosopher="Marx"></div>
 

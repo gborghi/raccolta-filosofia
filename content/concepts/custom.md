@@ -6,7 +6,7 @@ label_en: "custom"
 aliases:
   - "consuetudine"
   - "habit"
-work_count: 24
+work_count: 25
 tags:
   - "graph/concept"
 title: "abitudine"
@@ -15,7 +15,10 @@ title: "abitudine"
 
 *custom*
 
-## Opere (24)
+## Opere (25)
+
+**Hobbes**
+- [A Dialogue between a Philosopher and a Student of the Common Laws of England](/testi/hobbes/a_dialogue_between_a_philosopher_and_a_student_of_the_common_laws_of_england)
 
 **Hume**
 - [AN ABSTRACT OF A BOOK LATELY PUBLISHED ENTITLED A TREATISE OF HUMAN NATURE ETC.](/testi/hume/an_abstract_of_a_book_lately_published_entitled_a_treatise_of_human_nature_etc)
@@ -44,7 +47,7 @@ title: "abitudine"
 - [Planeta sitibundo](/testi/ortega-y-gasset/planeta_sitibundo)
 - [Poeta de la costumbre](/testi/ortega-y-gasset/poeta_de_la_costumbre)
 - [Primor de la repetición](/testi/ortega-y-gasset/primor_de_la_repetición)
-- [Reforma del carácter, no reforma de costumbres](/testi/ortega-y-gasset/reforma_del_carácter_no_reforma_de_costumbres)
+- [Reforma del carácter no reforma de costumbres](/testi/ortega-y-gasset/reforma_del_carácter_no_reforma_de_costumbres)
 - [Sin embargo](/testi/ortega-y-gasset/sin_embargo)
 
 **Pascal**

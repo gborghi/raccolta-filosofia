@@ -42,6 +42,17 @@ const PHIL_DIR = path.join(VAULT, "Philosophers")
 const DATA_DIR = path.join(REPO_ROOT, "data")
 const CONTENT = path.join(ROOT, "content")
 const STATIC_DIR = path.join(ROOT, "quartz", "static")
+
+// Re-stamp content/ as Dropbox-ignored (NTFS com.dropbox.ignored alternate data stream)
+// after each regen — main() recreates the dir, which drops any prior flag. content/ stays
+// git-tracked (git syncs it to CI); this only stops Dropbox cloud-syncing the generated
+// files. Windows-only, best-effort (never fail the build).
+async function markDropboxIgnored(dir) {
+  if (process.platform !== "win32") return
+  try {
+    await fs.writeFile(`${dir}:com.dropbox.ignored`, "1")
+  } catch {}
+}
 const TESTI_REL = "testi"
 
 // Knowledge Graph folder name -> taxonomy.json type key, and back. Content paths use
@@ -323,6 +334,7 @@ async function main() {
   // ---- wipe generated output -------------------------------------------------
   await fs.rm(CONTENT, { recursive: true, force: true })
   await fs.mkdir(CONTENT, { recursive: true })
+  await markDropboxIgnored(CONTENT)
   await fs.mkdir(STATIC_DIR, { recursive: true })
   // quartz/static/*.json is entirely generated (index.json, taxonomy.json — and any
   // stale leftovers from an earlier scaffold copy); wipe every top-level .json so a
@@ -403,6 +415,7 @@ async function main() {
   let truncatedDirs = 0
   let itAtoms = 0
   let enAtoms = 0
+  let laAtoms = 0
   for (const philosopher of philosophers) {
     const atomizedDir = path.join(PHIL_DIR, philosopher, "Atomized")
     if (!existsSync(atomizedDir)) continue
@@ -411,7 +424,7 @@ async function main() {
       // `<atom>.it.md` / `<atom>.en.md` sono i sibling di traduzione, non atomi a
       // se': vengono agganciati alla fonte piu' sotto. Trattarli come atomi
       // pubblicherebbe la traduzione due volte con un atom_n fasullo.
-      if (f.endsWith(".it.md") || f.endsWith(".en.md")) continue
+      if (f.endsWith(".it.md") || f.endsWith(".en.md") || f.endsWith(".la.md")) continue
       const raw = await fs.readFile(f, "utf8")
       const { data, content } = parseFrontmatter(raw)
       const dirKey = path.basename(path.dirname(f))
@@ -440,13 +453,22 @@ async function main() {
         enBody = parseFrontmatter(await fs.readFile(enPath, "utf8")).content
         enAtoms++
       }
-      workAtoms.get(workKey).atoms.push({ data, body: content, itBody, enBody })
+      // Il `.la.md` e' l'ORIGINALE latino a fronte (Spinoza): non una nostra
+      // traduzione ma una rappresentazione di lingua in piu', appaiata all'atomo
+      // per nome come i sibling .it/.en, cosi' il bottone lingua offre anche LA.
+      let laBody = null
+      const laPath = f.slice(0, -3) + ".la.md"
+      if (existsSync(laPath)) {
+        laBody = parseFrontmatter(await fs.readFile(laPath, "utf8")).content
+        laAtoms++
+      }
+      workAtoms.get(workKey).atoms.push({ data, body: content, itBody, enBody, laBody })
     }
   }
   for (const w of workAtoms.values())
     w.atoms.sort((a, b) => (a.data.atom_n ?? 0) - (b.data.atom_n ?? 0))
   if (truncatedDirs) console.log(`note: ${truncatedDirs} atoms live under a truncated directory name (resolved via frontmatter "work:")`)
-  console.log(`traduzioni: ${itAtoms} atomi .it, ${enAtoms} atomi .en`)
+  console.log(`traduzioni: ${itAtoms} atomi .it, ${enAtoms} atomi .en, ${laAtoms} atomi .la`)
   // Stampato dopo il loop delle opere, piu' sotto: vedi abstractsEmitted.
 
   // Un titolo che si APRE dichiarando traduttore/editore come autore: e' il suo
@@ -583,6 +605,12 @@ async function main() {
         itBody = rewriteLinks(itBody)
         itBody = itBody.trim()
       }
+      let laBody = a.laBody
+      if (laBody) {
+        if (droppedH1) laBody = laBody.replace(H1_RE, "")
+        laBody = rewriteLinks(laBody)
+        laBody = laBody.trim()
+      }
       let enBody = a.enBody
       if (enBody) {
         if (droppedH1) enBody = enBody.replace(H1_RE, "")
@@ -609,6 +637,9 @@ async function main() {
           body +
           (enBody
             ? `\n\n<span class="qlang-split" data-lang="en"></span>\n\n` + enBody
+            : "") +
+          (laBody
+            ? `\n\n<span class="qlang-split" data-lang="la"></span>\n\n` + laBody
             : "") +
           (itBody
             ? `\n\n<span class="qlang-split" data-lang="it"></span>\n\n` + itBody

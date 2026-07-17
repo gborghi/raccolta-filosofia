@@ -1,5 +1,5 @@
 ---
-title: "Agrupación al Servicio de la República.— [Unas cuartillas]"
+title: "Agrupación al Servicio de la República Unas cuartillas"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/agrupación_al_servicio_de_la_república_unas_cuartillas" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Agrupación al Servicio de la República.— [Unas cuartillas]" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Agrupación al Servicio de la República Unas cuartillas" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Unas cuantas ciudades de la República han sido vandalizadas por pequeñas turbas de incendiarios. En Madrid, Málaga, Alicante y Granada humean los edificios donde vivían gentes que, es cierto, han causado durante centurias daños enormes a la nación española, pero que hoy, precisamente hoy, cuando ya no tienen el Poder público en la mano, son por completo innocuas. Porque eso, la detentación y manejo del Poder público, eran la única fuerza nociva de que gozaban. Extirpados sus privilegios, y mano a mano con los otros grupos sociales, las órdenes religiosas significan en España poco más que nada. Su influencia era grande, pero prestada: procedía del Estado. Creer otra cosa es ignorar por completo la verdadera realidad de nuestra vida colectiva.
 

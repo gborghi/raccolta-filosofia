@@ -3,7 +3,6 @@ title: "EXTRAIT DES MANUSCRITS DE RENÉ DESCARTES"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > A posthumous mathematical fragment on trigonometry and circular chords, with tables for computing a triangle's angles from its sides. A pure exercise in analytic geometry, with no philosophical content.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/extrait_des_manuscrits_de_rené_descartes" data-philosopher="Descartes"></div>
 

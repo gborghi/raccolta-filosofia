@@ -1,5 +1,5 @@
 ---
-title: "Prólogo a Cartas finlandesas y Hombres del norte, de Ángel Ganivet"
+title: "Prólogo a Cartas finlandesas y Hombres del norte de Ángel Ganivet"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/prólogo_a_cartas_finlandesas_y_hombres_del_norte_de_ángel_ganivet" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Prólogo a Cartas finlandesas y Hombres del norte, de Ángel Ganivet" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Prólogo a Cartas finlandesas y Hombres del norte de Ángel Ganivet" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Unas palabras nada más para hacer mesura y poner antesala a esta edición de dos obras de Ganivet.
 

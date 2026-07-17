@@ -1,5 +1,5 @@
 ---
-title: "En las épocas de crisis, la verdadera opinión pública no es la expresada por los tópicos"
+title: "En las épocas de crisis la verdadera opinión pública no es la expresada por los tópicos"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/en_las_épocas_de_crisis_la_verdadera_opinión_pública_no_es_la_expresada_por_los_tópicos" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="En las épocas de crisis, la verdadera opinión pública no es la expresada por los tópicos" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="En las épocas de crisis la verdadera opinión pública no es la expresada por los tópicos" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Al hablaros, frente a la vieja, de una nueva política, no aspiro, por consiguiente, a inventar ningún nuevo mundo. Acercándose a la política es cuestión de honradez para el ideólogo torcer el cuello a sus pretensiones de pensador original. Un principio, nuevo como idea, no puede mover a las gentes. Nueva política es nueva declaración y voluntad de pensamientos, que, más o menos claros, se encuentran ya viviendo en las conciencias de nuestros ciudadanos.
 

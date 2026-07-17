@@ -8,7 +8,7 @@ positions:
   - "conceptualism"
   - "nominalism"
   - "immanent_realism"
-work_count: 8
+work_count: 9
 tags:
   - "graph/axis"
 title: "Universali"
@@ -24,14 +24,17 @@ title: "Universali"
 
 - [realismo (universali)](/positions/realism_universals) — 3 opere · contro [nominalismo](/positions/nominalism)
 - [concettualismo](/positions/conceptualism) — 0 opere · contro [realismo (universali)](/positions/realism_universals), [nominalismo](/positions/nominalism)
-- [nominalismo](/positions/nominalism) — 2 opere · contro [realismo (universali)](/positions/realism_universals), [realismo delle idee](/positions/realism_of_ideas)
+- [nominalismo](/positions/nominalism) — 3 opere · contro [realismo (universali)](/positions/realism_universals), [realismo delle idee](/positions/realism_of_ideas)
 - [realismo immanente](/positions/immanent_realism) — 2 opere · contro [nominalismo](/positions/nominalism), [realismo (universali)](/positions/realism_universals)
 
-## Opere (8)
+## Opere (9)
 
 **Aristotle**
 - [Categories (1a)](/testi/aristotle/categories_1a)
 - [Metaphysics (980a)](/testi/aristotle/metaphysics_980a)
+
+**Hobbes**
+- [De Corpore](/testi/hobbes/de_corpore)
 
 **Locke**
 - [AN ESSAY CONCERNING HUMAN UNDERSTANDING](/testi/locke/an_essay_concerning_human_understanding)

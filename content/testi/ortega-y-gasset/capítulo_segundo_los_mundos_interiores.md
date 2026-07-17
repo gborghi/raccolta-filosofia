@@ -1,5 +1,5 @@
 ---
-title: "Capítulo segundo.— Los mundos interiores"
+title: "Capítulo segundo Los mundos interiores"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/capítulo_segundo_los_mundos_interiores" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Capítulo segundo.— Los mundos interiores" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Capítulo segundo Los mundos interiores" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

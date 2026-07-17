@@ -1,5 +1,5 @@
 ---
-title: "Una vez más…"
+title: "Una vez más"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/una_vez_más" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Una vez más…" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Una vez más" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Se puede asegurar que desde hace año y medio las garantías que la Constitución concede al ciudadano español están en suspensión perpetua. En esta medida extrema han encontrado los gobernantes españoles el bálsamo con que intentan curar todos nuestros males.
 

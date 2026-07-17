@@ -1,5 +1,5 @@
 ---
-title: "Estatuto de Cataluña.— Discurso de rectificación"
+title: "Estatuto de Cataluña Discurso de rectificación"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estatuto_de_cataluña_discurso_de_rectificación" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Estatuto de Cataluña.— Discurso de rectificación" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Estatuto de Cataluña Discurso de rectificación" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor PRESIDENTE: Agotados los turnos de totalidad, tiene la palabra para rectificar el señor Ortega y Gasset (don José).
 

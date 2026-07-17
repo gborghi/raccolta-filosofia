@@ -5,7 +5,7 @@ label_it: "miracolo"
 label_en: "miracle"
 aliases:
   - "miraculum"
-work_count: 5
+work_count: 6
 tags:
   - "graph/concept"
 title: "miracolo"
@@ -14,7 +14,7 @@ title: "miracolo"
 
 *miracle*
 
-## Opere (5)
+## Opere (6)
 
 **Aquinas**
 - [Treatise on the Conservation and Government of Creatures](/testi/aquinas/treatise_on_the_conservation_and_government_of_creatures)
@@ -28,3 +28,6 @@ title: "miracolo"
 **Pascal**
 - [Thoughts (1670)](/testi/pascal/thoughts_1670)
 - [Thoughts on the Jesuits and the Jansenists](/testi/pascal/thoughts_on_the_jesuits_and_the_jansenists)
+
+**Spinoza**
+- [Theological-Political Treatise](/testi/spinoza/theological-political_treatise)

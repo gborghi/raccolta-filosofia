@@ -3,7 +3,6 @@ title: "LETTRE DE RENÉ DESCARTES A GISBERT VOET"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
-anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -14,7 +13,7 @@ tags:
 > [!abstract]
 > A polemical open letter in which Descartes defends himself against the charge of atheism levelled by the Utrecht theologian Gisbert Voetius, denouncing it as slander without rational argument and setting his own method against scholastic polemics.
 
-<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/lettre_de_rené_descartes_a_gisbert_voet" data-philosopher="Descartes"></div>
 

@@ -1,5 +1,5 @@
 ---
-title: "Capítulo primero.— Creer y pensar"
+title: "Capítulo primero Creer y pensar"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/capítulo_primero_creer_y_pensar" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Capítulo primero.— Creer y pensar" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Capítulo primero Creer y pensar" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 

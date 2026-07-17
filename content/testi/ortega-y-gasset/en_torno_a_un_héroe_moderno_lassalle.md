@@ -1,5 +1,5 @@
 ---
-title: "En torno a un héroe moderno.— Lassalle"
+title: "En torno a un héroe moderno Lassalle"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/en_torno_a_un_héroe_moderno_lassalle" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="En torno a un héroe moderno.— Lassalle" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="En torno a un héroe moderno Lassalle" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Octubre de 1911
 

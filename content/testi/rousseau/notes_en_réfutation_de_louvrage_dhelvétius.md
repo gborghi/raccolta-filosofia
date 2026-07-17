@@ -1,5 +1,5 @@
 ---
-title: "NOTES EN RÉFUTATION DE L’OUVRAGE D'HELVÉTIUS"
+title: "NOTES EN RÉFUTATION DE LOUVRAGE DHELVÉTIUS"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/notes_en_réfutation_de_louvrage_dhelvétius" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="NOTES EN RÉFUTATION DE L’OUVRAGE D'HELVÉTIUS" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="NOTES EN RÉFUTATION DE LOUVRAGE DHELVÉTIUS" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Le grand but de M. Helvétius dans son ouvrage est de réduire toutes les facultés de l'homme à une existence purement matérielle. Il débute par avancer, tom. I, disc. I, chap. I, pag. 190[34], « que nous avons en nous deux facultés, ou, s'il l'ose dire, deux puissances passives ; la sensibilité physique et la mémoire ; et il définit la mémoire une sensation continuée, mais affaiblie. »
 

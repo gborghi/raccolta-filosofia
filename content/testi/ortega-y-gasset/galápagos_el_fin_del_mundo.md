@@ -1,5 +1,5 @@
 ---
-title: "Galápagos, el fin del mundo"
+title: "Galápagos el fin del mundo"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/galápagos_el_fin_del_mundo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Galápagos, el fin del mundo" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Galápagos el fin del mundo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Van alegres sobre el lomo del mar, movidos por una sed de ciencia, de paisajes inusitados, de soledades telúricas. Salen de New York en el yate Noma. Son amigos de ocupación diversa: naturalista, médico, abogado, etcétera. Van dos amigas, dos muchachas esbeltas, gráciles, que vemos en los fotograbados del libro vestidas con trajes de baño: una será la dibujante de la expedición; otra será la cronista. Se trata de un capricho: visitar el Archipiélago de los Galápagos, grupo de islas volcánicas, casi totalmente deshabitadas, que emergen en una fabulosa soledad del Pacífico, a 900 kilómetros de la costa ecuatoriana. Un viaje así, por cuenta propia y para fines científicos, sólo es posible ya a americanos, los jóvenes del mundo, y recuerda los que iniciaron, cuando Hélade era joven, los griegos continentales. A las gentes de Asia y Egipto les sorprendía el viaje deportivo de Solón: viajar para ver —theories héineken—, viajar a [causa](/concepts/cause) de contemplar, de teorizar, no con fines de guerra o comercio. En Europa no pueden ya hacerse estos viajes más que a costa del Estado, con lo cual se convierten en obligaciones y pierden su gracia. Yo no creo mucho en la obligación, como creía Kant; lo espero todo del entusiasmo. Siempre es más fecunda una ilusión que un deber. (Tal vez el papel de la obligación y del deber es subsidiario; hacen falta para llenar los huecos de la ilusión y el entusiasmo). Para Europa, hoy, la gran cuestión no es un nuevo sistema de deberes, sino un nuevo programa de apetitos.
 

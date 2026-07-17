@@ -6,7 +6,7 @@ label_en: "infinity"
 aliases:
   - "infinitum"
   - "Unendlichkeit"
-work_count: 17
+work_count: 18
 tags:
   - "graph/concept"
 title: "infinito"
@@ -15,7 +15,7 @@ title: "infinito"
 
 *infinity*
 
-## Opere (17)
+## Opere (18)
 
 **Aristotle**
 - [On Indivisible Lines (968a)](/testi/aristotle/on_indivisible_lines_968a)
@@ -47,3 +47,6 @@ title: "infinito"
 
 **Pascal**
 - [Thoughts (1670)](/testi/pascal/thoughts_1670)
+
+**Spinoza**
+- [Selected Letters](/testi/spinoza/selected_letters)

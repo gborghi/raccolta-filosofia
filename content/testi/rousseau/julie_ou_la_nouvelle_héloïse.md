@@ -1,5 +1,5 @@
 ---
-title: "JULIE, OU LA NOUVELLE HÉLOÏSE"
+title: "JULIE OU LA NOUVELLE HÉLOÏSE"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/julie_ou_la_nouvelle_héloïse" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="JULIE, OU LA NOUVELLE HÉLOÏSE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="JULIE OU LA NOUVELLE HÉLOÏSE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Il faut des spectacles dans les grandes villes, et des romans aux peuples corrompus. J'ai vu les moeurs de mon temps, et j'ai publié ces lettres. Que n'ai-je vécu dans un siècle où je dusse les jeter au feu !
 

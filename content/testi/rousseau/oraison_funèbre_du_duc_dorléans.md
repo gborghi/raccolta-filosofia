@@ -1,5 +1,5 @@
 ---
-title: "ORAISON FUNÈBRE DU DUC D’ORLÉANS"
+title: "ORAISON FUNÈBRE DU DUC DORLÉANS"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/oraison_funèbre_du_duc_dorléans" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ORAISON FUNÈBRE DU DUC D’ORLÉANS" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="ORAISON FUNÈBRE DU DUC DORLÉANS" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Première partie
 

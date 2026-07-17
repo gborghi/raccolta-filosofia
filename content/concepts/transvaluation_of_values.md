@@ -24,4 +24,4 @@ title: "trasvalutazione di tutti i valori"
 - [Zur Genealogie der Moral](/testi/nietzsche/zur_genealogie_der_moral)
 
 **Ortega y Gasset**
-- [Introducción a una estimativa—. ¿Qué son los valores?](/testi/ortega-y-gasset/introducción_a_una_estimativa_qué_son_los_valores)
+- [Introducción a una estimativa Qué son los valores](/testi/ortega-y-gasset/introducción_a_una_estimativa_qué_son_los_valores)

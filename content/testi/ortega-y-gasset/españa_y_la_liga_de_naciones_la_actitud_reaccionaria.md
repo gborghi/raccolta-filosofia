@@ -1,5 +1,5 @@
 ---
-title: "España y la Liga de Naciones.— La actitud reaccionaria"
+title: "España y la Liga de Naciones La actitud reaccionaria"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/españa_y_la_liga_de_naciones_la_actitud_reaccionaria" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="España y la Liga de Naciones.— La actitud reaccionaria" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="España y la Liga de Naciones La actitud reaccionaria" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ésa fue la que anteayer adoptó el señor Maura dirigiéndose a los militares en el Centro del Ejército y la Armada.
 
