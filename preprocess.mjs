@@ -18,6 +18,7 @@
 import { promises as fs } from "node:fs"
 import { existsSync } from "node:fs"
 import path from "node:path"
+import { execFile } from "node:child_process"
 import { fileURLToPath } from "node:url"
 
 // SPA=1 is MANDATORY: 9320 atoms as individual pages would blow Cloudflare Pages'
@@ -48,9 +49,22 @@ const STATIC_DIR = path.join(ROOT, "quartz", "static")
 // git-tracked (git syncs it to CI); this only stops Dropbox cloud-syncing the generated
 // files. Windows-only, best-effort (never fail the build).
 async function markDropboxIgnored(dir) {
-  if (process.platform !== "win32") return
+  // Windows: NTFS alternate data stream. macOS: xattr. Both are the per-OS way Dropbox
+  // marks a path "ignored". Linux (CI) has no Dropbox → no-op. Never throws — the flag is
+  // a nicety, not required for the build.
   try {
-    await fs.writeFile(`${dir}:com.dropbox.ignored`, "1")
+    if (process.platform === "win32") {
+      await fs.writeFile(`${dir}:com.dropbox.ignored`, "1")
+    } else if (process.platform === "darwin") {
+      // Modern Dropbox (File Provider, ~/Library/CloudStorage/Dropbox) honors
+      // com.apple.fileprovider.ignore#P — NOT the legacy com.dropbox.ignored. Setting only
+      // the legacy flag does nothing on current macOS Dropbox, so stamp both.
+      for (const attr of ["com.apple.fileprovider.ignore#P", "com.dropbox.ignored"]) {
+        await new Promise((res) =>
+          execFile("xattr", ["-w", attr, "1", dir], () => res()),
+        )
+      }
+    }
   } catch {}
 }
 const TESTI_REL = "testi"
