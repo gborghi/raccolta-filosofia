@@ -7,7 +7,7 @@ aliases:
   - "Kant"
   - "Fichte"
   - "Hegel"
-work_count: 23
+work_count: 31
 tags:
   - "graph/school"
 title: "idealismo tedesco"
@@ -16,7 +16,7 @@ title: "idealismo tedesco"
 
 *German idealism*
 
-## Opere (23)
+## Opere (31)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
@@ -48,3 +48,13 @@ title: "idealismo tedesco"
 - [Hegel y América](/testi/ortega-y-gasset/hegel_y_américa)
 - [Reflexiones de centenario (1724-1924)](/testi/ortega-y-gasset/reflexiones_de_centenario_1724-1924)
 - [Un libro sobre la filosofía del Derecho](/testi/ortega-y-gasset/un_libro_sobre_la_filosofía_del_derecho)
+
+**Schopenhauer**
+- [Abhandlungen](/testi/schopenhauer/abhandlungen)
+- [Aphorismen zur Lebensweisheit](/testi/schopenhauer/aphorismen_zur_lebensweisheit)
+- [Die Kunst, Recht zu behalten](/testi/schopenhauer/die_kunst_recht_zu_behalten)
+- [Die Welt als Wille und Vorstellung. Erster Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_erster_band)
+- [Die Welt als Wille und Vorstellung. Zweiter Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_zweiter_band)
+- [Einleitung in die Philosophie](/testi/schopenhauer/einleitung_in_die_philosophie)
+- [Über das Geistersehn und was damit zusammenhängt](/testi/schopenhauer/über_das_geistersehn_und_was_damit_zusammenhängt)
+- [Über die Weiber](/testi/schopenhauer/über_die_weiber)

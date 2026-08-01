@@ -896,7 +896,7 @@ Reply to Objection 5: Solicitude is included under foresight.
 
 We must now consider each quasi-integral part of prudence, and under this head there are eight
 points of inquiry:
-(1) Memory;
+(1) [Memory](/concepts/memory);
 (2) Understanding or Intelligence;
 (3) Docility;
 (4) Shrewdness;
@@ -1992,7 +1992,7 @@ opposition to those things which are requisite for prudence, which are the quasi
 prudence. Since however all these things are intended for the direction of the aforesaid three acts
 of reason, it follows that all the opposite defects are reducible to the four parts mentioned above.
 Thus incautiousness and incircumspection are included in "thoughtlessness"; lack of docility,
-memory, or reason is referable to "precipitation"; improvidence, lack of intelligence and of
+[memory](/concepts/memory), or reason is referable to "precipitation"; improvidence, lack of intelligence and of
 shrewdness, belong to "negligence" and "inconstancy."
 
 Reply to Objection 1: This argument considers generality by participation.
@@ -2039,7 +2039,7 @@ to bodily movement. Now a thing is said to be precipitated as regards bodily mov
 is brought down from above by the impulse either of its own movement or of another's, and not in
 orderly fashion by degrees. Now the summit of the soul is the reason, and the base is reached in
 the action performed by the body; while the steps that intervene by which one ought to descend in
-orderly fashion are "memory" of the past, "intelligence" of the present, "shrewdness" in considering
+orderly fashion are "[memory](/concepts/memory)" of the past, "intelligence" of the present, "shrewdness" in considering
 the future outcome, "reasoning" which compares one thing with another, "docility" in accepting
 the opinions of others. He that takes counsel descends by these steps in due order, whereas if a man
 is rushed into action by the impulse of his will or of a passion, without taking these steps, it will
@@ -6547,7 +6547,7 @@ I answer that, As stated above (Q[33], AA[6],7; Q[67], A[3], ad 2), the differen
 denunciation and accusation is that in denunciation we aim at a brother's amendment, whereas in
 accusation we intend the punishment of his crime. Now the punishments of this life are sought, not
 for their own sake, because this is not the final time of retribution, but in their character of medicine,
-conducing either to the amendment of the sinner, or to the good of the commonwealth whose calm
+conducing either to the amendment of the sinner, or to the good of the [commonwealth](/concepts/commonwealth) whose calm
 is ensured by the punishment of evil-doers. The former of these is intended in denunciation, as
 stated, whereas the second regards properly accusation. Hence in the case of a crime that conduces
 to the injury of the commonwealth, a man is bound to accusation, provided he can offer sufficient
@@ -6647,7 +6647,7 @@ aims at procuring by means of knowledge of the crime. Now no man ought to injure
 unjustly, in order to promote the common good. Wherefore a man may sin in two ways when
 making an accusation: first through acting unjustly against the accused, by charging him falsely
 with the commission of a crime, i.e. by calumniating him; secondly, on the part of the
-commonwealth, whose good is intended chiefly in an accusation, when anyone with wicked intent
+[commonwealth](/concepts/commonwealth), whose good is intended chiefly in an accusation, when anyone with wicked intent
 hinders a sin being punished. This again happens in two ways: first by having recourse to fraud in
 making the accusation. This belongs to collusion [prevaricatio] for "he that is guilty of collusion
 is like one who rides astraddle [varicator], because he helps the other party, and betrays his own
@@ -6688,7 +6688,7 @@ punishment of retaliation.
 Objection 2: Further, if the punishment of retaliation ought to be inflicted on one who has
 accused unjustly, this will be on account of the injury he has done to someone---but not on account
 of any injury done to the person of the accused, for in that case the sovereign could not remit this
-punishment, nor on account of an injury to the commonwealth, because then the accused could not
+punishment, nor on account of an injury to the [commonwealth](/concepts/commonwealth), because then the accused could not
 acquit him. Therefore the punishment of retaliation is not due to one who has failed to prove his
 accusation.
 
@@ -7195,7 +7195,7 @@ account, the giving of false evidence is not always a mortal sin.
 Reply to Objection 1: In giving evidence a man ought not to affirm as certain, as though he
 knew it, that about which he is not certain and he should confess his doubt in doubtful terms, and
 that which he is certain about, in terms of certainty. Owing however to the frailty of the human
-memory, a man sometimes thinks he is certain about something that is not true; and then if after
+[memory](/concepts/memory), a man sometimes thinks he is certain about something that is not true; and then if after
 thinking over the matter with due care he deems himself certain about that false thing, he does not
 sin mortally if he asserts it, because the evidence which he gives is not directly an intentionally,
 but accidentally contrary to what he intends.
@@ -20331,7 +20331,7 @@ Reply to Objection 3: The prodigal does not always exceed in giving for the sake
 which are the matter of temperance, but sometimes through being so disposed as not to care about
 riches, and sometimes on account of something else. More frequently, however, he inclines to
 intemperance, both because through spending too much on other things he becomes fearless of
-spending on objects of pleasure, to which the concupiscence of the flesh is more prone; and because
+spending on objects of pleasure, to which the [concupiscence](/concepts/concupiscence) of the flesh is more prone; and because
 through taking no pleasure in virtuous goods, he seeks for himself pleasures of the body. Hence
 the Philosopher says (Ethic. iv, 1) "that many a prodigal ends in becoming intemperate."
 
@@ -20357,7 +20357,7 @@ is one of excess and deficiency; either of which destroys the mean of virtue. No
 and sinful through corrupting the good of virtue. Hence it follows that prodigality is a sin.
 
 Reply to Objection 1: Some expound this saying of the Apostle as referring, not to actual
-covetousness, but to a kind of habitual covetousness, which is the concupiscence of the "fomes"
+covetousness, but to a kind of habitual covetousness, which is the [concupiscence](/concepts/concupiscence) of the "fomes"
 [*Cf. FS, Q[81], A[3], ad 2], whence all sins arise. Others say that he is speaking of a general
 covetousness with regard to any kind of good: and in this sense also it is evident that prodigality
 arises from covetousness; since the prodigal seeks to acquire some temporal good inordinately,

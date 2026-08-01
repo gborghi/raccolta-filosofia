@@ -9,7 +9,7 @@ positions:
   - "compatibilism"
   - "fate_providence"
   - "clinamen"
-work_count: 40
+work_count: 42
 tags:
   - "graph/axis"
 title: "Libertà e necessità"
@@ -24,12 +24,12 @@ title: "Libertà e necessità"
 ## Posizioni su questo asse
 
 - [libero arbitrio](/positions/free_will) — 9 opere · contro [determinismo](/positions/determinism), [fato e provvidenza](/positions/fate_providence)
-- [determinismo](/positions/determinism) — 7 opere · contro [libero arbitrio](/positions/free_will)
-- [compatibilismo](/positions/compatibilism) — 2 opere · contro [libero arbitrio](/positions/free_will)
+- [determinismo](/positions/determinism) — 9 opere · contro [libero arbitrio](/positions/free_will)
+- [compatibilismo](/positions/compatibilism) — 4 opere · contro [libero arbitrio](/positions/free_will)
 - [fato e provvidenza](/positions/fate_providence) — 13 opere · contro [libero arbitrio](/positions/free_will), [clinamen](/positions/clinamen)
 - [clinamen](/positions/clinamen) — 4 opere · contro [determinismo](/positions/determinism), [fato e provvidenza](/positions/fate_providence)
 
-## Opere (43)
+## Opere (45)
 
 **Aquinas**
 - [Treatise on Human Acts: Acts Peculiar to Man](/testi/aquinas/treatise_on_human_acts_acts_peculiar_to_man)
@@ -63,6 +63,10 @@ title: "Libertà e necessità"
 **Kant**
 - [CRITIQUE OF PRACTICAL REASON](/testi/kant/critique_of_practical_reason)
 - [FUNDAMENTAL PRINCIPLES OF THE METAPHYSIC OF MORALS](/testi/kant/fundamental_principles_of_the_metaphysic_of_morals)
+
+**Leibniz**
+- [A Philosopher’s Creed (1673)](/testi/leibniz/a_philosophers_creed_1673)
+- [Theodicy (1710)](/testi/leibniz/theodicy_1710)
 
 **Lucretius**
 - [CONTENTS OF THE LATIN TEXT](/testi/lucretius/contents_of_the_latin_text)

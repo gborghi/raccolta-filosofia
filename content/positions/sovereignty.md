@@ -41,7 +41,7 @@ Posizione sull'asse [Stato e individuo](/axes/state_and_individual).
 
 **Ortega y Gasset**
 - [Coincidencia que no lo es](/testi/ortega-y-gasset/coincidencia_que_no_lo_es)
-- [La polémica parlamentaria Política liberal](/testi/ortega-y-gasset/la_polémica_parlamentaria_política_liberal)
+- [La polémica parlamentaria.— Política liberal](/testi/ortega-y-gasset/la_polémica_parlamentaria_política_liberal)
 - [La región no es definida](/testi/ortega-y-gasset/la_región_no_es_definida)
 - [Lo que quiera Inglaterra](/testi/ortega-y-gasset/lo_que_quiera_inglaterra)
 - [Soberanía](/testi/ortega-y-gasset/soberanía)

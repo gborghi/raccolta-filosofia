@@ -6,7 +6,7 @@ label_en: "will"
 aliases:
   - "voluntas"
   - "Wille"
-work_count: 34
+work_count: 37
 tags:
   - "graph/concept"
 title: "volontà"
@@ -15,7 +15,7 @@ title: "volontà"
 
 *will*
 
-## Opere (34)
+## Opere (37)
 
 **Aquinas**
 - [Treatise on Grace](/testi/aquinas/treatise_on_grace)
@@ -33,7 +33,7 @@ title: "volontà"
 - [Writings in Connection with the Manichæan Controversy](/testi/augustine/writings_in_connection_with_the_manichæan_controversy)
 
 **Descartes**
-- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
@@ -57,11 +57,11 @@ title: "volontà"
 - [Ecce Homo](/testi/nietzsche/ecce_homo)
 
 **Ortega y Gasset**
-- [Civilización cultura espontaneidad](/testi/ortega-y-gasset/civilización_cultura_espontaneidad)
+- [Civilización, cultura, espontaneidad](/testi/ortega-y-gasset/civilización_cultura_espontaneidad)
 - [Dislocación y restauración de España](/testi/ortega-y-gasset/dislocación_y_restauración_de_españa)
 - [El coraje, Sancho Panza y Fichte](/testi/ortega-y-gasset/el_coraje_sancho_panza_y_fichte)
 - [El deseo](/testi/ortega-y-gasset/el_deseo)
-- [El momento español Políticos y técnicos](/testi/ortega-y-gasset/el_momento_español_políticos_y_técnicos)
+- [El momento español.— Políticos y técnicos](/testi/ortega-y-gasset/el_momento_español_políticos_y_técnicos)
 - [Fenomenología de la guerra](/testi/ortega-y-gasset/fenomenología_de_la_guerra)
 - [Meditación de la técnica](/testi/ortega-y-gasset/meditación_de_la_técnica)
 - [Misión personal](/testi/ortega-y-gasset/misión_personal)
@@ -69,6 +69,11 @@ title: "volontà"
 
 **Pascal**
 - [On the Art of Persuasion (1658)](/testi/pascal/on_the_art_of_persuasion_1658)
+
+**Schopenhauer**
+- [Die Welt als Wille und Vorstellung. Erster Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_erster_band)
+- [Einleitung in die Philosophie](/testi/schopenhauer/einleitung_in_die_philosophie)
+- [Über das Geistersehn und was damit zusammenhängt](/testi/schopenhauer/über_das_geistersehn_und_was_damit_zusammenhängt)
 
 **Spinoza**
 - [Short Treatise on God, Man and His Well-Being](/testi/spinoza/short_treatise_on_god_man_and_his_well-being)

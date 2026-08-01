@@ -10,7 +10,7 @@ positions:
   - "pantheism"
   - "atheism"
   - "critical_genealogy"
-work_count: 73
+work_count: 79
 tags:
   - "graph/axis"
 title: "Dio"
@@ -24,14 +24,14 @@ title: "Dio"
 
 ## Posizioni su questo asse
 
-- [teismo dimostrativo](/positions/demonstrative_theism) — 15 opere · contro [ateismo](/positions/atheism), [fideismo](/positions/fideism), [scetticismo](/positions/scepticism)
+- [teismo dimostrativo](/positions/demonstrative_theism) — 18 opere · contro [ateismo](/positions/atheism), [fideismo](/positions/fideism), [scetticismo](/positions/scepticism)
 - [fideismo](/positions/fideism) — 3 opere · contro [teismo dimostrativo](/positions/demonstrative_theism)
 - [deismo](/positions/deism) — 11 opere · contro [teismo dimostrativo](/positions/demonstrative_theism), [ateismo](/positions/atheism)
 - [panteismo](/positions/pantheism) — 8 opere · contro [teismo dimostrativo](/positions/demonstrative_theism), [deismo](/positions/deism)
 - [ateismo](/positions/atheism) — 5 opere · contro [teismo dimostrativo](/positions/demonstrative_theism), [fideismo](/positions/fideism), [deismo](/positions/deism)
 - [genealogia critica](/positions/critical_genealogy) — 5 opere · contro [teismo dimostrativo](/positions/demonstrative_theism)
 
-## Opere (76)
+## Opere (82)
 
 **Aquinas**
 - [Treatise on the One God](/testi/aquinas/treatise_on_the_one_god)
@@ -80,6 +80,14 @@ title: "Dio"
 - [CRITIQUE OF PRACTICAL REASON](/testi/kant/critique_of_practical_reason)
 - [CRITIQUE OF PURE REASON](/testi/kant/critique_of_pure_reason)
 - [RELIGION WITHIN THE BOUNDS OF BARE REASON](/testi/kant/religion_within_the_bounds_of_bare_reason)
+
+**Leibniz**
+- [A Philosopher’s Creed (1673)](/testi/leibniz/a_philosophers_creed_1673)
+- [Discourse on Metaphysics (1686)](/testi/leibniz/discourse_on_metaphysics_1686)
+- [Monadology (1714)](/testi/leibniz/monadology_1714)
+- [System of Theology (1686)](/testi/leibniz/system_of_theology_1686)
+- [The Philosophical Works of Leibnitz (1890)](/testi/leibniz/the_philosophical_works_of_leibnitz_1890)
+- [Theodicy (1710)](/testi/leibniz/theodicy_1710)
 
 **Locke**
 - [AN ESSAY CONCERNING HUMAN UNDERSTANDING](/testi/locke/an_essay_concerning_human_understanding)
@@ -133,7 +141,7 @@ title: "Dio"
 - [LETTRES MORALES](/testi/rousseau/lettres_morales)
 - [LETTRES ÉCRITES DE LA MONTAGNE](/testi/rousseau/lettres_écrites_de_la_montagne)
 - [LETTRE À MONSEIGNEUR DE BEAUMONT](/testi/rousseau/lettre_à_monseigneur_de_beaumont)
-- [ÉMILE ou de LÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
+- [ÉMILE ou de L’ÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
 
 **Seneca**
 - [NATURAL QUESTIONS](/testi/seneca/natural_questions)

@@ -22,7 +22,7 @@ tags:
 
 España, en su casi totalidad, es hoy antimonárquica, pero todavía no ha empezado a ser republicana. Claro está que quien es antimonárquico no tiene más remedio que ser republicano, porque entre los innumerables atributos extrínsecos que la República posee está el de ser la Antimonarquía. Pero manera tal de ser negativamente republicano no sirve para nada. Así no se es nada. Se es anti. Por consiguiente: no se es, se anti-es.
 
-Algo de esto acontece en España desde hace varias generaciones. Nuestro pueblo está lleno de actitudes meramente negativas, que es el modo más grave de hallarse históricamente vacío. Un pueblo así es el hueco de sí mismo. Y lo hueco no pesa. El viento del azar lo trae y lo lleva. Por eso es sumamente grave mantener a una colectividad anti-siendo. Si hoy es anti-lo-de-ayer, mañana puede, sin más, volverse anti-lo-de-hoy.
+Algo de esto acontece en España desde hace varias generaciones. Nuestro pueblo está lleno de actitudes meramente negativas, que es el [modo](/concepts/mode) más grave de hallarse históricamente vacío. Un pueblo así es el hueco de sí mismo. Y lo hueco no pesa. El viento del azar lo trae y lo lleva. Por eso es sumamente grave mantener a una colectividad anti-siendo. Si hoy es anti-lo-de-ayer, mañana puede, sin más, volverse anti-lo-de-hoy.
 
 Desde el primer día he protestado contra el carácter que se daba a la República manteniéndola con la cara vuelta hacia atrás, ocupada en castigar los abusos del pasado.
 

@@ -52,7 +52,7 @@ El acto de la Corona no se ha limitado a esta primera apariencia política. El r
 
 Es casi seguro que el señor Ramón y Cajal habrá elevado a Palacio un ejemplar de su obra Reglas y consejos sobre investigación biológica, que poco hace se ha publicado en tercera edición. En esta edición ha añadido el famoso maestro un capítulo sobre el problema nacional. Para la generación de 1898 significa lo que ahora escribe Cajal un gran triunfo. Después de una clasificación de las teorías que han motivado la mengua española, se acoge Ramón y Cajal a una que él llama, acaso impropiamente, «Teoría de la segregación intelectual». Bajo este título se encubre la siguiente proposición: la enfermedad de España no es otra cosa que su alejamiento de Europa; es decir, de la ciencia. Nuestro fracaso no es oriundo del mucho calor ni de la poca agua, de la miseria o la mala gobernación o de nuestro orgullo y arrogancia: nuestro fracaso es una y misma cosa con nuestra incompetencia.
 
-Ahora bien: esta afirmación que favorece Cajal con su alta autoridad, ha sido lo que nuestra generación trajo de un modo claro, preciso y sistemático a la ciencia étnica. Nuestra vida crítica no ha sido, pues, infecunda.
+Ahora bien: esta afirmación que favorece Cajal con su alta autoridad, ha sido lo que nuestra generación trajo de un [modo](/concepts/mode) claro, preciso y sistemático a la ciencia étnica. Nuestra vida crítica no ha sido, pues, infecunda.
 
 El Imparcial, 8 de febrero de 1913
 

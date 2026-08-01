@@ -1284,7 +1284,7 @@ certain weight and turn the balance of life, while others are, so to
 
 speak, lighter; so it is likewise with those which befall all our
 
-friends alike; if further, whether they whom each suffering befalls be
+friends alike; if further, whether they whom each [suffering](/concepts/suffering) befalls be
 
 alive or dead makes much more difference than in a tragedy the
 
@@ -1304,7 +1304,7 @@ them; or at least of such a magnitude or such a kind as neither to make
 
 happy them that are not so otherwise, nor to deprive of their
 
-blessedness them that are.
+[blessedness](/concepts/amor_dei_intellectualis) them that are.
 
 It is plain then that the good or ill fortunes of their friends do
 
@@ -6696,7 +6696,7 @@ equality again, because really when the one party has been wounded and
 
 the other has struck him, or the one kills and the other dies, the
 
-suffering and the doing are divided into unequal shares; well, the
+[suffering](/concepts/suffering) and the doing are divided into unequal shares; well, the
 
 judge tries to restore equality by penalty, thereby taking from the
 
@@ -7494,7 +7494,7 @@ this question, whether in every case he who has suffered what is unjust
 
 is therefore unjustly dealt with, or rather that the case is the same
 
-with suffering as it is with acting; namely that in both it is possible
+with [suffering](/concepts/suffering) as it is with acting; namely that in both it is possible
 
 to participate in what is just, but only accidentally. Clearly the case
 
@@ -14940,7 +14940,7 @@ because these terms are not applicable to all things, only to such as
 
 are divisible and not “wholes:” I mean that of an act of Sight there is
 
-no Generation, nor is there of a point, nor of a monad, nor is any one
+no Generation, nor is there of a point, nor of a [monad](/concepts/monad), nor is any one
 
 of these a Movement or a Generation: neither then of Pleasure is there
 
@@ -15668,7 +15668,7 @@ gods is that they are above all blessed and happy: now what kind of
 
 <span class="atom-split" data-atom="149" data-title="Chapter VI. (11/11)" data-chapter="Chapter VI." data-kind="atom" data-srclang="en"></span>
 
-Moral actions are we to attribute to them? those of justice? nay, will
+Moral actions are we to [attribute](/concepts/attribute) to them? those of justice? nay, will
 
 they not be set in a ridiculous light if represented as forming
 
@@ -15698,7 +15698,7 @@ Endymion: now if from a living being you take away Action, still more
 
 if Creation, what remains but Contemplation? So then the Working of the
 
-Gods, eminent in blessedness, will be one apt for Contemplative
+Gods, eminent in [blessedness](/concepts/amor_dei_intellectualis), will be one apt for Contemplative
 
 Speculation; and of all human Workings that will have the greatest
 

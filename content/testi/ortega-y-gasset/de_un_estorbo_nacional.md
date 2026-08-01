@@ -118,7 +118,7 @@ Mas los problemas públicos no esperan que los partidos tengan a bien remozarse.
 
 Y en tanto, urge la organización nacional. Urge crear nuevas instituciones eficaces, órganos jóvenes y elásticos de la vida pública. Ello supone principios claros, enérgicos, valientes. ¿Cómo podrá intentar tal empresa esa agrupación de todos los compromisos? Véase si no es el partido liberal un estorbo a la historia de España.
 
-No voy a desconocer que militan en él algunas personas defensoras de algún programa parcial, limitado, que, sin embargo, merece respeto y aplauso. Pero la masa de un gran partido no puede movilizarse eficazmente sino en virtud de altos y genéricos ideales políticos. Cuando esa masa está muerta por dentro, paraliza y aplasta las buenas intenciones de los que sustentan aquellos programas parciales. De modo que para poder imponerse será forzoso a sus apóstoles desintegrarse del partido y hacer política de guerrilleros.
+No voy a desconocer que militan en él algunas personas defensoras de algún programa parcial, limitado, que, sin embargo, merece respeto y aplauso. Pero la masa de un gran partido no puede movilizarse eficazmente sino en virtud de altos y genéricos ideales políticos. Cuando esa masa está muerta por dentro, paraliza y aplasta las buenas intenciones de los que sustentan aquellos programas parciales. De [modo](/concepts/mode) que para poder imponerse será forzoso a sus apóstoles desintegrarse del partido y hacer política de guerrilleros.
 
 Por todas partes venimos a salir a lo mismo: la necesidad de la dislocación del partido liberal, cuerpo anquilosado y paralizador.
 

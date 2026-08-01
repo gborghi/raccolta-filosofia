@@ -1,8 +1,9 @@
 ---
-title: "LES PASSIONS DE LÂME"
+title: "LES PASSIONS DE L’ÂME"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
+anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -13,12 +14,12 @@ tags:
 > [!abstract]
 > Descartes's last treatise, aiming to explain the passions of the soul 'as a physicist' and locate their seat in the pineal gland, where soul and body communicate. It proposes an ethics of générosité as the firm, virtuous use of the will to govern the passions.
 
-<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/les_passions_de_lâme" data-philosopher="Descartes"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="LES PASSIONS DE LÂME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="LES PASSIONS DE L’ÂME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Réponse à la lettre I
 
@@ -468,7 +469,7 @@ Article LXVIII
 
 Pourquoi ce dénombrement des passions est différent de celui qui est communément reçu.
 
-Voilà l’ordre qui me semble être le meilleur pour dénombrer les passions. En quoi je sais bien que je m’éloigne de l’opinion de tous ceux qui en ont ci-devant écrit, mais ce n’est pas sans grande raison. Car ils tirent leur dénombrement de ce qu’ils distinguent en la partie sensitive de l’âme deux appétits, qu’ils nomment l’un « concupiscible », l’autre « irascible ». Et parce que je ne connais en l’âme aucune distinction de parties, ainsi que l’ai dit ci-dessus, cela me semble ne signifier autre chose sinon qu’elle a deux facultés, l’une de désirer, l’autre de se fâcher ; et à cause qu’elle a en même façon les facultés d’admirer, d’aimer, d’espérer, de craindre, et ainsi de recevoir en soi chacune des autres passions, ou de faire les actions auxquelles ces passions la poussent, je ne vois pas pourquoi ils ont voulu les rapporter toutes à la concupiscence ou à la colère. Outre que leur dénombrement ne comprend point toutes les principales passions, comme je crois que fait celui-ci. Je parle seulement des principales, à cause qu’on en pourrait encore distinguer plusieurs autres plus particulières, et leur nombre est indéfini.
+Voilà l’ordre qui me semble être le meilleur pour dénombrer les passions. En quoi je sais bien que je m’éloigne de l’opinion de tous ceux qui en ont ci-devant écrit, mais ce n’est pas sans grande raison. Car ils tirent leur dénombrement de ce qu’ils distinguent en la partie sensitive de l’âme deux appétits, qu’ils nomment l’un « concupiscible », l’autre « irascible ». Et parce que je ne connais en l’âme aucune distinction de parties, ainsi que l’ai dit ci-dessus, cela me semble ne signifier autre chose sinon qu’elle a deux facultés, l’une de désirer, l’autre de se fâcher ; et à cause qu’elle a en même façon les facultés d’admirer, d’aimer, d’espérer, de craindre, et ainsi de recevoir en soi chacune des autres passions, ou de faire les actions auxquelles ces passions la poussent, je ne vois pas pourquoi ils ont voulu les rapporter toutes à la [concupiscence](/concepts/concupiscence) ou à la colère. Outre que leur dénombrement ne comprend point toutes les principales passions, comme je crois que fait celui-ci. Je parle seulement des principales, à cause qu’on en pourrait encore distinguer plusieurs autres plus particulières, et leur nombre est indéfini.
 
 Article LXIX
 
@@ -546,11 +547,11 @@ Au reste, par le mot de volonté, je n’entends pas ici parler du désir, qui e
 
 Article LXXXI
 
-De la distinction qu’on a coutume de faire entre l’amour de concupiscence et de bienveillance.
+De la distinction qu’on a coutume de faire entre l’amour de [concupiscence](/concepts/concupiscence) et de bienveillance.
 
 <span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
-Or, on distingue communément deux sortes d’amour, l’une desquelles est nommée amour de bienveillance, c’est-à-dire qui incite à vouloir du bien à ce qu’on aime ; l’autre est nommée amour de concupiscence, c’est-à-dire qui fait désirer la chose qu’on aime. Mais il me semble que cette distinction regarde seulement les effets de l’amour, et non point son essence ; car sitôt qu’on s’est joint de volonté à quelque objet, de quelque nature qu’il soit, on a pour lui de la bienveillance, c’est-à-dire on joint aussi à lui de volonté les choses qu’on croit lui être convenables : ce qui est un des principaux effets de l’amour. Et si on juge que ce soit un bien de le posséder ou d’être associé avec lui d’autre façon que de volonté, on le désire : ce qui est aussi l’un des plus ordinaires effets de l’amour.
+Or, on distingue communément deux sortes d’amour, l’une desquelles est nommée amour de bienveillance, c’est-à-dire qui incite à vouloir du bien à ce qu’on aime ; l’autre est nommée amour de [concupiscence](/concepts/concupiscence), c’est-à-dire qui fait désirer la chose qu’on aime. Mais il me semble que cette distinction regarde seulement les effets de l’amour, et non point son essence ; car sitôt qu’on s’est joint de volonté à quelque objet, de quelque nature qu’il soit, on a pour lui de la bienveillance, c’est-à-dire on joint aussi à lui de volonté les choses qu’on croit lui être convenables : ce qui est un des principaux effets de l’amour. Et si on juge que ce soit un bien de le posséder ou d’être associé avec lui d’autre façon que de volonté, on le désire : ce qui est aussi l’un des plus ordinaires effets de l’amour.
 
 Article LXXXII
 
@@ -1216,7 +1217,7 @@ Comment les plus généreux sont touchés de cette passion.
 
 <span class="atom-split" data-atom="024" data-title="Parte 24" data-chapter="" data-kind="atom" data-srclang="fr"></span>
 
-Mais néanmoins ceux qui sont les plus généreux et qui ont l’esprit le plus fort, en sorte qu’ils ne craignent aucun mal pour eux et se tiennent au-delà du pouvoir de la fortune, ne sont pas exempts de compassion lorsqu’ils voient l’infirmité des autres hommes et qu’ils entendent leurs plaintes. Car c’est une partie de la générosité que d’avoir de la bonne volonté pour un chacun. Mais la tristesse de cette pitié n’est pas amère ; et, comme celle que causent les actions funestes qu’on voit représenter sur un théâtre, elle est plus dans l’extérieur et dans le sens que dans l’intérieur de l’âme, laquelle a cependant la satisfaction de penser qu’elle fait ce qui est de son devoir, en ce qu’elle compatit avec des affligés. Et il y a en cela de la différence, qu’au lieu que le vulgaire a compassion de ceux qui se plaignent, à cause qu’il pense que les maux qu’ils souffrent sont fort fâcheux, le principal objet de la pitié des plus grands hommes est la faiblesse de ceux qu’ils voient se plaindre, à cause qu’ils n’estiment point qu’aucun accident qui puisse arriver soit un si grand mal qu’est la lâcheté de ceux qui ne le peuvent souffrir avec constance ; et, bien qu’ils haïssent les vices, ils ne haïssent point pour cela ceux qu’ils y voient sujets, ils ont seulement pour eux de la pitié.
+Mais néanmoins ceux qui sont les plus généreux et qui ont l’esprit le plus fort, en sorte qu’ils ne craignent aucun mal pour eux et se tiennent au-delà du pouvoir de la fortune, ne sont pas exempts de [compassion](/concepts/compassion) lorsqu’ils voient l’infirmité des autres hommes et qu’ils entendent leurs plaintes. Car c’est une partie de la générosité que d’avoir de la bonne volonté pour un chacun. Mais la tristesse de cette pitié n’est pas amère ; et, comme celle que causent les actions funestes qu’on voit représenter sur un théâtre, elle est plus dans l’extérieur et dans le sens que dans l’intérieur de l’âme, laquelle a cependant la satisfaction de penser qu’elle fait ce qui est de son devoir, en ce qu’elle compatit avec des affligés. Et il y a en cela de la différence, qu’au lieu que le vulgaire a compassion de ceux qui se plaignent, à cause qu’il pense que les maux qu’ils souffrent sont fort fâcheux, le principal objet de la pitié des plus grands hommes est la faiblesse de ceux qu’ils voient se plaindre, à cause qu’ils n’estiment point qu’aucun accident qui puisse arriver soit un si grand mal qu’est la lâcheté de ceux qui ne le peuvent souffrir avec constance ; et, bien qu’ils haïssent les vices, ils ne haïssent point pour cela ceux qu’ils y voient sujets, ils ont seulement pour eux de la pitié.
 
 Article CLXXXVIII
 

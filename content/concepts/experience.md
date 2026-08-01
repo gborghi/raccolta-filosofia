@@ -6,7 +6,7 @@ label_en: "experience"
 aliases:
   - "Erfahrung"
   - "sensazione"
-work_count: 32
+work_count: 33
 tags:
   - "graph/concept"
 title: "esperienza"
@@ -15,7 +15,7 @@ title: "esperienza"
 
 *experience*
 
-## Opere (32)
+## Opere (33)
 
 **Aristotle**
 - [Sense and Sensibilia (436a)](/testi/aristotle/sense_and_sensibilia_436a)
@@ -40,6 +40,9 @@ title: "esperienza"
 - [DREAMS OF A SPIRIT-SEER](/testi/kant/dreams_of_a_spirit-seer)
 - [PROLEGOMENA TO ANY FUTURE METAPHYSICS THAT WILL BE ABLE TO PRESENT ITSELF AS A SCIENCE](/testi/kant/prolegomena_to_any_future_metaphysics_that_will_be_able_to_present_itself_as_a_science)
 
+**Leibniz**
+- [Extracts from the ‘New Essays on the Understanding’ (1704)](/testi/leibniz/extracts_from_the_new_essays_on_the_understanding_1704)
+
 **Locke**
 - [AN ESSAY CONCERNING HUMAN UNDERSTANDING](/testi/locke/an_essay_concerning_human_understanding)
 - [MISCELLANEOUS LETTERS OF JOHN LOCKE](/testi/locke/miscellaneous_letters_of_john_locke)
@@ -47,9 +50,9 @@ title: "esperienza"
 - [SOME THOUGHTS ON THE CONDUCT OF THE UNDERSTANDING](/testi/locke/some_thoughts_on_the_conduct_of_the_understanding)
 
 **Ortega y Gasset**
-- [Abenjaldún nos revela el secreto pensamientos sobre África Menor](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
+- [Abenjaldún nos revela el secreto (pensamientos sobre África Menor)](/testi/ortega-y-gasset/abenjaldún_nos_revela_el_secreto_pensamientos_sobre_áfrica_menor)
 - [Bronca en la física](/testi/ortega-y-gasset/bronca_en_la_física)
-- [Conciencia objeto y las tres distancias de éste fragmentos de una lección](/testi/ortega-y-gasset/conciencia_objeto_y_las_tres_distancias_de_éste_fragmentos_de_una_lección)
+- [Conciencia, objeto y las tres distancias de éste (fragmentos de una lección)](/testi/ortega-y-gasset/conciencia_objeto_y_las_tres_distancias_de_éste_fragmentos_de_una_lección)
 - [EL TEMA DE NUESTRO TIEMPO](/testi/ortega-y-gasset/el_tema_de_nuestro_tiempo)
 - [El medio vital](/testi/ortega-y-gasset/el_medio_vital)
 - [Los «nuevos» Estados Unidos](/testi/ortega-y-gasset/los_nuevos_estados_unidos)
@@ -57,7 +60,7 @@ title: "esperienza"
 - [Paisaje utilitario. Paisaje deportivo](/testi/ortega-y-gasset/paisaje_utilitario_paisaje_deportivo)
 - [Sobre el concepto de sensación](/testi/ortega-y-gasset/sobre_el_concepto_de_sensación)
 - [Unas gotas de fenomenología](/testi/ortega-y-gasset/unas_gotas_de_fenomenología)
-- [b Ontología](/testi/ortega-y-gasset/b_ontología)
+- [b) Ontología](/testi/ortega-y-gasset/b_ontología)
 
 **Pascal**
 - [Letters and Minor Works](/testi/pascal/letters_and_minor_works)
@@ -66,7 +69,7 @@ title: "esperienza"
 - [THEAETETUS](/testi/plato/theaetetus)
 
 **Rousseau**
-- [NOTES EN RÉFUTATION DE LOUVRAGE DHELVÉTIUS](/testi/rousseau/notes_en_réfutation_de_louvrage_dhelvétius)
+- [NOTES EN RÉFUTATION DE L’OUVRAGE D'HELVÉTIUS](/testi/rousseau/notes_en_réfutation_de_louvrage_dhelvétius)
 
 **Spinoza**
 - [Treatise on the Emendation of the Intellect](/testi/spinoza/treatise_on_the_emendation_of_the_intellect)

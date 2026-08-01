@@ -11,7 +11,7 @@ axis: "reality_status"
 contro:
   - "materialism"
   - "atomism"
-work_count: 14
+work_count: 20
 tags:
   - "graph/position"
 title: "idealismo"
@@ -24,7 +24,7 @@ Posizione sull'asse [Statuto del reale](/axes/reality_status).
 
 **Contro:** [materialismo](/positions/materialism), [atomismo](/positions/atomism)
 
-## Opere (14)
+## Opere (20)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
@@ -39,6 +39,10 @@ Posizione sull'asse [Statuto del reale](/axes/reality_status).
 **Kant**
 - [CRITIQUE OF PURE REASON](/testi/kant/critique_of_pure_reason)
 
+**Leibniz**
+- [Monadology (1714)](/testi/leibniz/monadology_1714)
+- [The Philosophical Works of Leibnitz (1890)](/testi/leibniz/the_philosophical_works_of_leibnitz_1890)
+
 **Marx**
 - [THESES ON FEUERBACH, 1845](/testi/marx/theses_on_feuerbach_1845)
 - [THE HOLY FAMILY, 1845](/testi/marx/the_holy_family_1845)
@@ -47,3 +51,9 @@ Posizione sull'asse [Statuto del reale](/axes/reality_status).
 - [Amor en Stendhal](/testi/ortega-y-gasset/amor_en_stendhal)
 - [Descartes y el método transcendental](/testi/ortega-y-gasset/descartes_y_el_método_transcendental)
 - [Hegel y América](/testi/ortega-y-gasset/hegel_y_américa)
+
+**Schopenhauer**
+- [Die Welt als Wille und Vorstellung. Erster Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_erster_band)
+- [Die Welt als Wille und Vorstellung. Zweiter Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_zweiter_band)
+- [Einleitung in die Philosophie](/testi/schopenhauer/einleitung_in_die_philosophie)
+- [Über das Geistersehn und was damit zusammenhängt](/testi/schopenhauer/über_das_geistersehn_und_was_damit_zusammenhängt)

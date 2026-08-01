@@ -22,6 +22,6 @@ tags:
 
 Ni el espacio ni mi intención de mero y fiel abreviador me permiten hoy hacer comentario personal ninguno. Yo no he sugerido —salvo el punto de carácter científico que se refiere a la idea de soberanía— mis opiniones privadas. No he dicho que me parezca acertada la táctica de las bases, ni he empleado una sola palabra para rebatir las opiniones del señor Maura.
 
-Me he tomado el trabajo de escribir estas notas iliterarias con el exclusivo propósito de poder afirmar, previa demostración, que sólo quien no sepa oír ni leer ni entender, puede sustentar que el señor Maura ha facilitado la solución del problema catalán, ni mucho menos que ha tomado una actitud concreta, positiva y en algún modo especificada ante la petición de Cataluña.
+Me he tomado el trabajo de escribir estas notas iliterarias con el exclusivo propósito de poder afirmar, previa demostración, que sólo quien no sepa oír ni leer ni entender, puede sustentar que el señor Maura ha facilitado la solución del problema catalán, ni mucho menos que ha tomado una actitud concreta, positiva y en algún [modo](/concepts/mode) especificada ante la petición de Cataluña.
 
 El Sol, 13 de diciembre de 1918

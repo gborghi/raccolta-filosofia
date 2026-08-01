@@ -100,4 +100,4 @@ So much then for the voluntary movements of animal bodies, and the reasons for t
 
 Moreover a movement contrary to reason sometimes does and sometimes does not arise in the organs on the occasion of the same thoughts; the reason is that sometimes the matter which is passive to the impressions is there in sufficient quantity and of the right quality and sometimes not.
 
-And so we have finished our account of the reasons for the parts of each kind of animal, of the soul, and furthere of sense-perception, of sleep, of memory, and of movement in general; it remains to speak of animal generation.
+And so we have finished our account of the reasons for the parts of each kind of animal, of the soul, and furthere of sense-perception, of sleep, of [memory](/concepts/memory), and of movement in general; it remains to speak of animal generation.

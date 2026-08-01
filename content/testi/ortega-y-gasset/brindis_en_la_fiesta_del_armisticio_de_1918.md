@@ -52,7 +52,7 @@ España, esta poco afortunada España, en esta hora de la paz os envía un mensa
 
 Porque hasta ahora, señores, era la paz no más que la cesación de la guerra. Propiamente significaba paz algo negativo: el gesto de cansancio que hace el guerrero rendido.
 
-Pero ahora la paz es algo humanamente positivo y seguro; es la instauración de un nuevo modo fecundo de convivencia entre los hombres. Y esta paz nos la han traído con sus dolores esos pueblos.
+Pero ahora la paz es algo humanamente positivo y seguro; es la instauración de un nuevo [modo](/concepts/mode) fecundo de convivencia entre los hombres. Y esta paz nos la han traído con sus dolores esos pueblos.
 
 Pero la hora requiere también un movimiento de generoso respeto hacia los vencidos, para esa raza que, derrotada, ha sido la primera en aceptar el ideal de los que la vencieron.
 

@@ -3540,7 +3540,7 @@ His enemies only ceased to persecute him at the sepulchre.
 
 I consider Jesus Christ in all persons and in ourselves. Jesus Christ as a father in his father, Jesus Christ as a brother in his brethren, Jesus Christ as poor in the poor, Jesus Christ as rich in the rich, Jesus Christ as doctor and priest in priests, Jesus Christ as sovereign in princes, etc. For by his glory he is all that is great, since he is God; and he is by his mortal life all that is miserable and abject. Therefore he has taken this wretched state, to enable him to be in all persons, and the model of all conditions.
 
-The false justice of Pilate only caused the suffering of Jesus Christ; for he caused him to be scourged by his false justice, and then slew him. It would have been better that he had slain him at first. Thus is it with those who are falsely just. They do good works or evil to please the world, and show that they are not altogether of Jesus Christ, for they are ashamed of him. Then at last in great temptations and on great occasions, they slay him.
+The false justice of Pilate only caused the [suffering](/concepts/suffering) of Jesus Christ; for he caused him to be scourged by his false justice, and then slew him. It would have been better that he had slain him at first. Thus is it with those who are falsely just. They do good works or evil to please the world, and show that they are not altogether of Jesus Christ, for they are ashamed of him. Then at last in great temptations and on great occasions, they slay him.
 
 It seems to me that Jesus Christ after his resurrection allowed his wounds only to be touched: Noli me tangere. We must unite ourselves to his sufferings only.
 
@@ -3576,7 +3576,7 @@ MEMBERS. TO BEGIN with that. — To regulate the love which we owe to ourselves,
 
 If the feet and the hands had each a separate will they could only be in their order in submitting this separate will to the primary will which governs the whole body. Apart from that they are in disorder and misfortune, but in willing only the good of the body they find their own good.
 
-Morality. — God having made the heavens and the earth, which cannot feel the happiness of their being, he has been pleased to make beings who should know it, and who should compose a body of thinking members. For our members do not feel the happiness of their union, of their admirable intelligence, of the care which nature has taken to infuse into them a mind, and to make them grow and endure. How happy would they be if they could see and feel it. But in order to this they must needs have intelligence to know it, and good will to consent to that of the universal soul. For if, having received intelligence, they used it to retain nourishment for themselves without allowing it to pass to the other members, they would be not only unjust but also miserable, and would hate rather than love themselves, their blessedness as well as their duty consisting in their consent to the guidance of the general soul to which they belong, who loves them better than they love themselves.
+Morality. — God having made the heavens and the earth, which cannot feel the happiness of their being, he has been pleased to make beings who should know it, and who should compose a body of thinking members. For our members do not feel the happiness of their union, of their admirable intelligence, of the care which nature has taken to infuse into them a mind, and to make them grow and endure. How happy would they be if they could see and feel it. But in order to this they must needs have intelligence to know it, and good will to consent to that of the universal soul. For if, having received intelligence, they used it to retain nourishment for themselves without allowing it to pass to the other members, they would be not only unjust but also miserable, and would hate rather than love themselves, their [blessedness](/concepts/amor_dei_intellectualis) as well as their duty consisting in their consent to the guidance of the general soul to which they belong, who loves them better than they love themselves.
 
 To be a member, is to have neither life, being, nor movement save by the spirit of the body, and for the body; the separate member, seeing no longer the body to which it belongs, has only a waning and dying existence. Yet it believes it is a whole, and seeing not the body on which it depends, it believes it depends only on self and wills to constitute itself both centre and body. But not having in itself a principle of life, it only goes astray, and is astonished in the uncertainty of its being; fully aware that it is not a body, yet not seeing that it is a member of a body. Then when at last it arrives at the knowledge of self, it has returned as it were to its own home, and loves itself only for the body’s sake, bewailing that in the past it has gone astray.
 
@@ -8730,7 +8730,7 @@ That the true Jews considered their merit to be from God only, and not from Abra
 
 Moses himself told them that God would not accept persons. Deut. x. 17: “God,” said he, “regardeth neither persons nor sacrifices.”
 
-The Sabbath was only a sign, Exod. xxxi, 13; and in memory of the escape from Egypt, Deut. v, 19. Therefore it is no longer necessary, since Egypt must be forgotten.
+The Sabbath was only a sign, Exod. xxxi, 13; and in [memory](/concepts/memory) of the escape from Egypt, Deut. v, 19. Therefore it is no longer necessary, since Egypt must be forgotten.
 
 Circumcision was only a sign, Gen. xvii, 11. And thence it came to pass that, being in the desert, they were not circumcised, because they could not be confounded with other peoples; and after Jesus Christ came, it was no longer necessary.
 
@@ -8756,7 +8756,7 @@ That He has established them only for their hardness. Micah, admirably, vi.; 1 K
 
 That the sacrifices of the Gentiles will be accepted of God, and that God will take no pleasure in the sacrifices of the Jews. Malachi, i. 11.
 
-That God will make a new covenant with the Messiah, and the old will be annulled. Jer. xxxi. 31. Mandata non bona. Ezek.
+That God will make a new [covenant](/concepts/covenant) with the Messiah, and the old will be annulled. Jer. xxxi. 31. Mandata non bona. Ezek.
 
 That the old things will be forgotten. Isaiah xliii. 18, 19; lxv. 17, 18.
 
@@ -9700,7 +9700,7 @@ Daniel ix. 20. “Whilst I was praying with all my heart, and confessing my sin 
 
 “The street shall be built again, and the wall, even in troublous times. And after three score and two weeks,” (which have followed the first seven. Christ will then be killed after the sixty-nine weeks, that is to say, in the last week), “the Christ shall be cut off, and a people of the prince that shall come shall destroy the city and the sanctuary, and overwhelm all, and the end of that war shall accomplish the desolation.”
 
-“Now one week,” (which is the seventieth, which remains), “shall confirm the covenant with many, and in the midst of the week,” (that is to say, the last three and a half years), “he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.”
+“Now one week,” (which is the seventieth, which remains), “shall confirm the [covenant](/concepts/covenant) with many, and in the midst of the week,” (that is to say, the last three and a half years), “he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.”
 
 Daniel, xi. The angel said to Daniel: “There shall stand up yet,” (after Cyrus, under whom this still is), “three kings in Persia,” (Cambyses, Smyrdis, Darius); “and the fourth who shall then come,” (Xerxes)” shall be far richer than they all, and far stronger, and shall stir up all his people against the Greeks.
 

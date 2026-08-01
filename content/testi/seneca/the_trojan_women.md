@@ -440,7 +440,7 @@ ULYSSES
 
 ANDROMACHE
 
-[642] [Aside.] What shall I do? My mind is distracted by a double fear: here, for my son; there, for my husband’s sacred dust. Which shall prevail? I call the unpitying deities to witness, and that true deity, my husband’s shade, that in my son naught else endears him to me, Hector, than thyself. May he live, that so he may recall thy face. – But shall thy ashes, torn from the tomb, be sunk beneath the sea? Shall I permit thy scattered bones to be flung upon the vasty deep? Sooner let the boy meet death. – But canst thou, his mother, see him given up to murder infamous? Canst see him sent whirling over the lofty battlements? I can, I will endure it, will suffer it, so but my Hector after death be not scattered by the victor’s hand. – But he can still feel suffering, while death has placed the other beyond its reach. Why dost thou waver? decide whom thou wilt snatch from vengeance. Ungrateful woman, dost thou hesitate? On that side is thy Hector – nay, herein thou errest – Hector is in both; but the boy can still feel pain, and is destined perchance to avenge his father’s death – both cannot be saved. What then? Save of the two, my soul, him whom the Danaï dread.
+[642] [Aside.] What shall I do? My mind is distracted by a double fear: here, for my son; there, for my husband’s sacred dust. Which shall prevail? I call the unpitying deities to witness, and that true deity, my husband’s shade, that in my son naught else endears him to me, Hector, than thyself. May he live, that so he may recall thy face. – But shall thy ashes, torn from the tomb, be sunk beneath the sea? Shall I permit thy scattered bones to be flung upon the vasty deep? Sooner let the boy meet death. – But canst thou, his mother, see him given up to murder infamous? Canst see him sent whirling over the lofty battlements? I can, I will endure it, will suffer it, so but my Hector after death be not scattered by the victor’s hand. – But he can still feel [suffering](/concepts/suffering), while death has placed the other beyond its reach. Why dost thou waver? decide whom thou wilt snatch from vengeance. Ungrateful woman, dost thou hesitate? On that side is thy Hector – nay, herein thou errest – Hector is in both; but the boy can still feel pain, and is destined perchance to avenge his father’s death – both cannot be saved. What then? Save of the two, my soul, him whom the Danaï dread.
 
 ULYSSES
 
@@ -532,7 +532,7 @@ ANDROMACHE
 
 ULYSSES
 
-[762] Would that I might have compassion on thee; but what alone I may, I will give thee time and respite. Weep thy fill; weeping lightens woe.
+[762] Would that I might have [compassion](/concepts/compassion) on thee; but what alone I may, I will give thee time and respite. Weep thy fill; weeping lightens woe.
 
 ANDROMACHE
 

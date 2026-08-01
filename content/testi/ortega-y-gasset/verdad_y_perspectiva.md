@@ -56,7 +56,7 @@ Con razón se tachaba de gris la teoría, porque no se ocupaba más que de vagos
 
 El Espectador intentará separarse igualmente de ambas soluciones, porque discrepa de la opinión donde se engendran. El punto de vista individual me parece el único punto de vista desde el cual puede mirarse el mundo en su verdad. Otra cosa es un artificio.
 
-Leibniz dice: «Comme une même ville regardée de différents côtés paraît toute autre et est comme multipliée perspectivement, il arrive de même, que par la multitude infinie des substances simples —es decir, de conciencias—, il y a comme autant de différents univers, qui ne sont pourtant que les perspectives d’un seul selon les différents points de vue de chaque Monade»[9].
+Leibniz dice: «Comme une même ville regardée de différents côtés paraît toute autre et est comme multipliée perspectivement, il arrive de même, que par la multitude infinie des substances simples —es decir, de conciencias—, il y a comme autant de différents univers, qui ne sont pourtant que les perspectives d’un seul selon les différents points de vue de chaque [Monade](/concepts/monad)»[9].
 
 La realidad, precisamente por serlo y hallarse fuera de nuestras mentes individuales, sólo puede llegar a éstas multiplicándose en mil caras o haces.
 

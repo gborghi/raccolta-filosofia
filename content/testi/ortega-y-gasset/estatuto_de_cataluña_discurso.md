@@ -1,5 +1,5 @@
 ---
-title: "Estatuto de Cataluña Discurso"
+title: "Estatuto de Cataluña.— Discurso"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/estatuto_de_cataluña_discurso" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Estatuto de Cataluña Discurso" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Estatuto de Cataluña.— Discurso" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 El señor PRESIDENTE: Continúa la discusión de totalidad. El señor Ortega y Gasset (don José) tiene la palabra.
 
@@ -74,7 +74,7 @@ Después de todo, no es cosa tan triste eso de conllevar. ¿Es que en la vida in
 
 Este problema catalán y este dolor común a los unos y a los otros es un factor continuo de la Historia de España, que aparece en todas sus etapas, tomando en cada una el cariz correspondiente. Lo único serio que unos y otros podemos intentar es arrastrarlo noblemente por nuestra Historia; es conllevarlo, dándole en cada instante la mejor solución relativa posible; conllevarlo, en suma, como lo han conllevado y lo conllevan las naciones en que han existido nacionalismos particularistas, las cuales (y me importa mucho hacer constar esto para que quede nuestro asunto estimado en su justa medida), las cuales naciones aquejadas por este mal son en Europa hoy aproximadamente todas, todas menos Francia. Lo cual indica que lo que en nosotros juzgamos terrible, extrema anomalía, es en todas partes lo normal. Pues en este punto quien representa la efectiva, aunque afortunada anormalidad, es Francia con su extraño centralismo; todos los demás están acongojados del mismo problema, y todos los demás hacen lo que yo os propongo: conllevarlo.
 
-Con esto, señores, he intentado demostrar que urge corregir por completo el modo como se ha planteado el problema, y, sin ambages ni eufemismos, invertir los términos: en vez de pretender resolverlo de una vez para siempre, vamos a reducirlo, unos y otros, a términos de posibilidad, buscando lealmente una solución relativa, un modo más cómodo de conllevarlo; demos, señores, comienzo serio a esta solución.
+Con esto, señores, he intentado demostrar que urge corregir por completo el [modo](/concepts/mode) como se ha planteado el problema, y, sin ambages ni eufemismos, invertir los términos: en vez de pretender resolverlo de una vez para siempre, vamos a reducirlo, unos y otros, a términos de posibilidad, buscando lealmente una solución relativa, un modo más cómodo de conllevarlo; demos, señores, comienzo serio a esta solución.
 
 ¿Cuál puede ser ella? Evidentemente tendrá que consistir en restar del problema total aquella porción de él que es insoluble, y venir a concordia en lo demás. Lo insoluble es cuanto significa amenaza, intención de amenaza, para disociar por la raíz la convivencia entre Cataluña y el resto de España. Y la raíz de convivencia en pueblos como los nuestros es la unidad de soberanía.
 

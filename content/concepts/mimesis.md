@@ -28,4 +28,4 @@ title: "mimesis (imitazione poetica)"
 - [THE REPUBLIC](/testi/plato/the_republic)
 
 **Rousseau**
-- [DE LIMITATION THÉÂTRALE](/testi/rousseau/de_limitation_théâtrale)
+- [DE L’IMITATION THÉÂTRALE](/testi/rousseau/de_limitation_théâtrale)

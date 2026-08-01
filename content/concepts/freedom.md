@@ -6,7 +6,7 @@ label_en: "freedom"
 aliases:
   - "Freiheit"
   - "libertas"
-work_count: 51
+work_count: 53
 tags:
   - "graph/concept"
 title: "libertà"
@@ -15,7 +15,7 @@ title: "libertà"
 
 *freedom*
 
-## Opere (51)
+## Opere (53)
 
 **Aquinas**
 - [Treatise on the States of Life](/testi/aquinas/treatise_on_the_states_of_life)
@@ -40,7 +40,7 @@ title: "libertà"
 - [ESSAYS, MORAL, POLITICAL, AND LITERARY](/testi/hume/essays_moral_political_and_literary)
 
 **Kant**
-- [Beantwortung der Frage Was ist Aufklärung](/testi/kant/beantwortung_der_frage_was_ist_aufklärung)
+- [Beantwortung der Frage: Was ist Aufklärung](/testi/kant/beantwortung_der_frage_was_ist_aufklärung)
 - [CRITIQUE OF PRACTICAL REASON](/testi/kant/critique_of_practical_reason)
 - [FUNDAMENTAL PRINCIPLES OF THE METAPHYSIC OF MORALS](/testi/kant/fundamental_principles_of_the_metaphysic_of_morals)
 - [IDEA FOR A UNIVERSAL HISTORY WITH A COSMOPOLITAN PURPOSE](/testi/kant/idea_for_a_universal_history_with_a_cosmopolitan_purpose)
@@ -48,6 +48,10 @@ title: "libertà"
 - [ON EDUCATION](/testi/kant/on_education)
 - [PERPETUAL PEACE](/testi/kant/perpetual_peace)
 - [RELIGION WITHIN THE BOUNDS OF BARE REASON](/testi/kant/religion_within_the_bounds_of_bare_reason)
+
+**Leibniz**
+- [A Philosopher’s Creed (1673)](/testi/leibniz/a_philosophers_creed_1673)
+- [Theodicy (1710)](/testi/leibniz/theodicy_1710)
 
 **Locke**
 - [AN ESSAY CONCERNING HUMAN UNDERSTANDING](/testi/locke/an_essay_concerning_human_understanding)
@@ -67,14 +71,14 @@ title: "libertà"
 - [El pathos de la distancia](/testi/ortega-y-gasset/el_pathos_de_la_distancia)
 - [Glosas a un discurso](/testi/ortega-y-gasset/glosas_a_un_discurso)
 - [Idea de un programa mínimo](/testi/ortega-y-gasset/idea_de_un_programa_mínimo)
-- [La censura negra y la censura roja Sólo pedimos libertad](/testi/ortega-y-gasset/la_censura_negra_y_la_censura_roja_sólo_pedimos_libertad)
+- [La censura negra y la censura roja.— Sólo pedimos libertad](/testi/ortega-y-gasset/la_censura_negra_y_la_censura_roja_sólo_pedimos_libertad)
 - [La guerra, los pueblos y los dioses](/testi/ortega-y-gasset/la_guerra_los_pueblos_y_los_dioses)
 - [La mirada histórica](/testi/ortega-y-gasset/la_mirada_histórica)
 - [La postrera libertad](/testi/ortega-y-gasset/la_postrera_libertad)
 - [Liberalismo abstracto](/testi/ortega-y-gasset/liberalismo_abstracto)
 - [Misión personal](/testi/ortega-y-gasset/misión_personal)
 - [«¡Por la idea!»](/testi/ortega-y-gasset/por_la_idea)
-- [Quién manda en el mundo IV](/testi/ortega-y-gasset/quién_manda_en_el_mundo_iv)
+- [¿Quién manda en el mundo?— IV](/testi/ortega-y-gasset/quién_manda_en_el_mundo_iv)
 - [Sindicalismo](/testi/ortega-y-gasset/sindicalismo)
 - [Sobre las carreras](/testi/ortega-y-gasset/sobre_las_carreras)
 - [Un libro sobre la filosofía del Derecho](/testi/ortega-y-gasset/un_libro_sobre_la_filosofía_del_derecho)

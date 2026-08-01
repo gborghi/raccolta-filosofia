@@ -9,7 +9,7 @@ axis: "freedom_necessity"
 variante_di: "determinism"
 contro:
   - "free_will"
-work_count: 2
+work_count: 4
 tags:
   - "graph/position"
 title: "compatibilismo"
@@ -24,8 +24,12 @@ Sfumatura di [determinismo](/positions/determinism).
 
 **Contro:** [libero arbitrio](/positions/free_will)
 
-## Opere (2)
+## Opere (4)
 
 **Hume**
 - [AN ENQUIRY CONCERNING HUMAN UNDERSTANDING](/testi/hume/an_enquiry_concerning_human_understanding)
 - [A TREATISE OF HUMAN NATURE](/testi/hume/a_treatise_of_human_nature)
+
+**Leibniz**
+- [A Philosopher’s Creed (1673)](/testi/leibniz/a_philosophers_creed_1673)
+- [Theodicy (1710)](/testi/leibniz/theodicy_1710)

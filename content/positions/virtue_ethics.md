@@ -43,7 +43,7 @@ Posizione sull'asse [Fondamento della morale](/axes/moral_foundation).
 - [Our Lord's Sermon on the Mount](/testi/augustine/our_lords_sermon_on_the_mount)
 
 **Descartes**
-- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 
 **Ortega y Gasset**
@@ -60,11 +60,11 @@ Posizione sull'asse [Fondamento della morale](/axes/moral_foundation).
 - [THE REPUBLIC](/testi/plato/the_republic)
 
 **Rousseau**
-- [JULIE OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
+- [JULIE, OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
 - [LA VERTU LA PLUS NÉCESSAIRE AUX HÉROS](/testi/rousseau/la_vertu_la_plus_nécessaire_aux_héros)
 - [LES AMOURS DE MILORD ÉDOUARD BOMSTON](/testi/rousseau/les_amours_de_milord_édouard_bomston)
-- [LETTRE À DALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
-- [ORAISON FUNÈBRE DU DUC DORLÉANS](/testi/rousseau/oraison_funèbre_du_duc_dorléans)
+- [LETTRE À D’ALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
+- [ORAISON FUNÈBRE DU DUC D’ORLÉANS](/testi/rousseau/oraison_funèbre_du_duc_dorléans)
 
 **Seneca**
 - [ON ANGER](/testi/seneca/on_anger)

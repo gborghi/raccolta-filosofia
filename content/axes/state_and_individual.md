@@ -23,13 +23,13 @@ title: "Stato e individuo"
 
 ## Posizioni su questo asse
 
-- [tolleranza](/positions/toleration) — 7 opere · contro [sovranità](/positions/sovereignty)
+- [tolleranza](/positions/toleration) — 8 opere · contro [sovranità](/positions/sovereignty)
 - [sovranità](/positions/sovereignty) — 16 opere · contro [tolleranza](/positions/toleration), [libertà di coscienza](/positions/liberty_of_conscience)
 - [libertà di coscienza](/positions/liberty_of_conscience) — 7 opere · contro [sovranità](/positions/sovereignty)
 - [società civile](/positions/civil_society) — 6 opere
 - [rivoluzione](/positions/revolution) — 16 opere · contro [autorità tradizionale](/positions/traditional_authority)
 
-## Opere (63)
+## Opere (64)
 
 **Augustine**
 - [Writings in Connection with the Donatist Controversy](/testi/augustine/writings_in_connection_with_the_donatist_controversy)
@@ -50,10 +50,13 @@ title: "Stato e individuo"
 - [ESSAYS, MORAL, POLITICAL, AND LITERARY](/testi/hume/essays_moral_political_and_literary)
 
 **Kant**
-- [Beantwortung der Frage Was ist Aufklärung](/testi/kant/beantwortung_der_frage_was_ist_aufklärung)
+- [Beantwortung der Frage: Was ist Aufklärung](/testi/kant/beantwortung_der_frage_was_ist_aufklärung)
 - [METAPHYSICS OF MORALS: THE PHILOSOPHY OF LAW](/testi/kant/metaphysics_of_morals_the_philosophy_of_law)
 - [OF THE INJUSTICE OF COUNTERFEITING BOOKS](/testi/kant/of_the_injustice_of_counterfeiting_books)
 - [PERPETUAL PEACE](/testi/kant/perpetual_peace)
+
+**Leibniz**
+- [System of Theology (1686)](/testi/leibniz/system_of_theology_1686)
 
 **Locke**
 - [A FOURTH LETTER FOR TOLERATION](/testi/locke/a_fourth_letter_for_toleration)
@@ -87,12 +90,12 @@ title: "Stato e individuo"
 - [Hay que cambiar de signo a la República](/testi/ortega-y-gasset/hay_que_cambiar_de_signo_a_la_república)
 - [Idea de un programa mínimo](/testi/ortega-y-gasset/idea_de_un_programa_mínimo)
 - [La escuela laica](/testi/ortega-y-gasset/la_escuela_laica)
-- [La polémica parlamentaria Política liberal](/testi/ortega-y-gasset/la_polémica_parlamentaria_política_liberal)
+- [La polémica parlamentaria.— Política liberal](/testi/ortega-y-gasset/la_polémica_parlamentaria_política_liberal)
 - [La región no es definida](/testi/ortega-y-gasset/la_región_no_es_definida)
 - [Las revoluciones](/testi/ortega-y-gasset/las_revoluciones)
 - [Lo que quiera Inglaterra](/testi/ortega-y-gasset/lo_que_quiera_inglaterra)
-- [Ni revolución ni represión](/testi/ortega-y-gasset/ni_revolución_ni_represión)
-- [Para los que quieren sin más una revolución](/testi/ortega-y-gasset/para_los_que_quieren_sin_más_una_revolución)
+- [Ni revolución, ni represión](/testi/ortega-y-gasset/ni_revolución_ni_represión)
+- [Para los que quieren, sin más, una revolución](/testi/ortega-y-gasset/para_los_que_quieren_sin_más_una_revolución)
 - [Platónica advertencia sobre la respetabilidad del Estado](/testi/ortega-y-gasset/platónica_advertencia_sobre_la_respetabilidad_del_estado)
 - [«¡Por la idea!»](/testi/ortega-y-gasset/por_la_idea)
 - [Sindicalismo](/testi/ortega-y-gasset/sindicalismo)
@@ -105,9 +108,9 @@ title: "Stato e individuo"
 - [CONSIDÉRATIONS SUR LE GOUVERNEMENT DE POLOGNE](/testi/rousseau/considérations_sur_le_gouvernement_de_pologne)
 - [EXTRAIT DU PROJET DE PAIX PERPÉTUELLE](/testi/rousseau/extrait_du_projet_de_paix_perpétuelle)
 - [JUGEMENT SUR LA PAIX PERPÉTUELLE](/testi/rousseau/jugement_sur_la_paix_perpétuelle)
-- [LETTRES À M BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE](/testi/rousseau/lettres_à_m_buttafoco_sur_la_législation_de_la_corse)
+- [LETTRES À M. BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE](/testi/rousseau/lettres_à_m_buttafoco_sur_la_législation_de_la_corse)
 - [LETTRES ÉCRITES DE LA MONTAGNE](/testi/rousseau/lettres_écrites_de_la_montagne)
-- [LETTRE À DALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
+- [LETTRE À D’ALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
 - [PROJET DE CONSTITUTION POUR LA CORSE](/testi/rousseau/projet_de_constitution_pour_la_corse)
 
 **Seneca**

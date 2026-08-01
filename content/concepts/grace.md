@@ -5,7 +5,7 @@ label_it: "grazia"
 label_en: "grace"
 aliases:
   - "gratia"
-work_count: 37
+work_count: 39
 tags:
   - "graph/concept"
 title: "grazia"
@@ -14,7 +14,7 @@ title: "grazia"
 
 *grace*
 
-## Opere (37)
+## Opere (39)
 
 **Aquinas**
 - [Treatise on Extreme Unction](/testi/aquinas/treatise_on_extreme_unction)
@@ -48,6 +48,10 @@ title: "grazia"
 - [The Confessions](/testi/augustine/the_confessions)
 - [Writings in Connection with the Donatist Controversy](/testi/augustine/writings_in_connection_with_the_donatist_controversy)
 - [Writings in Connection with the Manichæan Controversy](/testi/augustine/writings_in_connection_with_the_manichæan_controversy)
+
+**Leibniz**
+- [System of Theology (1686)](/testi/leibniz/system_of_theology_1686)
+- [Theodicy (1710)](/testi/leibniz/theodicy_1710)
 
 **Locke**
 - [A PARAPHRASE AND NOTES ON THE EPISTLES OF ST. PAUL TO THE GALATIANS, 1 AND 2 CORINTHIANS, ROMANS, EPHESIANS](/testi/locke/a_paraphrase_and_notes_on_the_epistles_of_st_paul_to_the_galatians_1_and_2_corinthians_romans_ephesians)

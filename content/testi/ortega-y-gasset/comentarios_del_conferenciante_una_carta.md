@@ -46,7 +46,7 @@ Y, claro está, que lejos de aceptar el hecho consumado de la monarquía restaur
 
 En fin, el quid pro quo consiste en creer, T. Sanz, que por nacionalizar la monarquía o el ejército, ha de entenderse no sé qué mística transfusión de casticismo a una familia o a un órgano social. No; vivimos bajo un régimen que comenzó apareciendo en la Gaceta un famoso decreto iniciado así: Proclamado por la nación y el ejército… Nacionalizar la monarquía o el ejército significa que ni sobre ni junto a la nación haya nada fuera de la idea de justicia. Ni encima ni al lado: todo debajo.
 
-Vea usted cómo T. Sanz no llevaba por completo razón. Y se le ve pronto, dígale que el haber podido citar en esta ocasión una novela reciente, en que se critica ásperamente a muchos de nosotros por un escritor que es uno de nuestros más íntimos y fuertes colaboradores, indica que nuestra juventud es otra cosa distinta de una Sociedad de bombos mutuos, que es una solidaridad de deberes y de convicciones, con la cual, de un modo o de otro, antes o después, habrá que contar.
+Vea usted cómo T. Sanz no llevaba por completo razón. Y se le ve pronto, dígale que el haber podido citar en esta ocasión una novela reciente, en que se critica ásperamente a muchos de nosotros por un escritor que es uno de nuestros más íntimos y fuertes colaboradores, indica que nuestra juventud es otra cosa distinta de una Sociedad de bombos mutuos, que es una solidaridad de deberes y de convicciones, con la cual, de un [modo](/concepts/mode) o de otro, antes o después, habrá que contar.
 
 Esto puede decir, añadiendo un saludo afectuoso a T. Sanz, la buena máscara.
 

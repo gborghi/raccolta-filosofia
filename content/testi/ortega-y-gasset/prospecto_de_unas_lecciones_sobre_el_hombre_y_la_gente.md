@@ -86,6 +86,6 @@ Los usos producen en el individuo estas tres principales categorías de efectos:
 
 2.º Al imponer a presión un cierto repertorio de acciones —de ideas, de normas, de técnicas— obligan al individuo a vivir a la altura de los tiempos e inyectan en él, quiera o no, la herencia acumulada en el pasado. Gracias a la humanidad el hombre es progreso e historia. La sociedad atesora el pasado.
 
-3.º Al automatizar una gran parte de la conducta de la persona y darle resuelto el programa de casi todo lo que tiene que hacer, permiten a aquélla que concentre su vida personal, creadora y verdaderamente humana en ciertas direcciones, lo que de otro modo sería al individuo imposible. La sociedad sitúa al hombre en cierta franquía frente al porvenir y le permite crear lo nuevo, racional y más perfecto.
+3.º Al automatizar una gran parte de la conducta de la persona y darle resuelto el programa de casi todo lo que tiene que hacer, permiten a aquélla que concentre su vida personal, creadora y verdaderamente humana en ciertas direcciones, lo que de otro [modo](/concepts/mode) sería al individuo imposible. La sociedad sitúa al hombre en cierta franquía frente al porvenir y le permite crear lo nuevo, racional y más perfecto.
 
 Octubre de 1940

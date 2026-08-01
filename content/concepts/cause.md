@@ -42,7 +42,7 @@ title: "causa"
 - [OBJECTIONS AUX MÉDITATIONS](/testi/descartes/objections_aux_méditations)
 - [PREMIÈRES PENSÉES SUR LA GÉNÉRATION DES ANIMAUX ET LES SAVEURS](/testi/descartes/premières_pensées_sur_la_génération_des_animaux_et_les_saveurs)
 - [TRAITÉ DE LA MÉCANIQUE](/testi/descartes/traité_de_la_mécanique)
-- [TRAITÉ DE LHOMME](/testi/descartes/traité_de_lhomme)
+- [TRAITÉ DE L’HOMME](/testi/descartes/traité_de_lhomme)
 
 **Hegel**
 - [The Logic of Hegel](/testi/hegel/the_logic_of_hegel)
@@ -77,7 +77,7 @@ title: "causa"
 
 **Ortega y Gasset**
 - [Max Scheler.— Un embriagado de esencias (1874-1928)](/testi/ortega-y-gasset/max_scheler_un_embriagado_de_esencias_1874-1928)
-- [a Metodología](/testi/ortega-y-gasset/a_metodología)
+- [a) Metodología](/testi/ortega-y-gasset/a_metodología)
 
 **Spinoza**
 - [Selected Letters](/testi/spinoza/selected_letters)

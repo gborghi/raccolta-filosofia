@@ -1,5 +1,5 @@
 ---
-title: "Tres cuadros del vino Tiziano Poussin y Velázquez"
+title: "Tres cuadros del vino (Tiziano, Poussin y Velázquez)"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/tres_cuadros_del_vino_tiziano_poussin_y_velázquez" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Tres cuadros del vino Tiziano Poussin y Velázquez" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Tres cuadros del vino (Tiziano, Poussin y Velázquez)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -122,7 +122,7 @@ El estado de espíritu que esto revela, la burla de toda mitología que, como es
 
 Porque, vengamos a cuentas: ¿qué cosas son los dioses? ¿Qué han simbolizado los hombres en los dioses? El tema es grave y difícil. Forzándolo podíamos decir: los dioses son el sentido superior que las cosas poseen si se les mira en conexión unas con otras. Así, Marte es lo mejor de la guerra: la gallardía, la entereza, la reciedad del cuerpo. Así, Venus es lo mejor de la expansión sexual: lo deseable, lo bello, lo suave y blando, el eterno femenino. Baco es lo mejor de la sobreexcitación fisiológica; el ímpetu, el amor a los campos y a los animales, la profunda hermandad de todos los seres vivos, los bienhadados placeres que a la mísera humanidad ofrece la fantasía. Los dioses son lo mejor de nosotros mismos, que, una vez aislado de lo vulgar y peor, toma una apariencia personal.
 
-Decir que no hay dioses es decir que las cosas no tienen, además de su constitución material, el aroma, el nimbo de una significación ideal, de un sentido. Es decir que la vida no tiene sentido, que las cosas carecen de conexión. Tiziano y Poussin son, cada cual a su modo, temperamentos religiosos, sienten lo que Goethe sentía: devoción a la Naturaleza. Velázquez es un gigante ateo, un colosal impío. Con su pincel arroja los dioses como a escobazos. En su bacanal, no sólo no hay un Baco, sino que hay un sinvergüenza representando a Baco.
+Decir que no hay dioses es decir que las cosas no tienen, además de su constitución material, el aroma, el nimbo de una significación ideal, de un sentido. Es decir que la vida no tiene sentido, que las cosas carecen de conexión. Tiziano y Poussin son, cada cual a su [modo](/concepts/mode), temperamentos religiosos, sienten lo que Goethe sentía: devoción a la Naturaleza. Velázquez es un gigante ateo, un colosal impío. Con su pincel arroja los dioses como a escobazos. En su bacanal, no sólo no hay un Baco, sino que hay un sinvergüenza representando a Baco.
 
 Es nuestro pintor. Ha preparado el camino para nuestra edad, exenta de dioses; edad administrativa en que, en vez de Dionysos, hablamos del alcoholismo.
 

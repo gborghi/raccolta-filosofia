@@ -1,5 +1,5 @@
 ---
-title: "Contra una política o contra un Régimen"
+title: "¿Contra una política o contra un Régimen?"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,11 +18,11 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/contra_una_política_o_contra_un_régimen" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Contra una política o contra un Régimen" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="¿Contra una política o contra un Régimen?" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En cambio, no es nada clara, antes bien, oscura y peligrosa, la situación en que la actitud de las llamadas «derechas» coloca a la vida pública española.
 
-Se habla de su triunfo. A primera vista, esta expresión no hace sino enunciar un hecho notorio. Yo creo, sin embargo, que cuando se quiere precisar su sentido nos encontramos con una cuestión sobremanera confusa y grave. Comprenderán que nada hay más lejos de mi ánimo que el más leve intento de podarles la frondosidad de su victoria. Pero yo vivo en permanente servicio de mi nación. De ordinario procuro hacerlo con el menor ruido posible y eludiendo hasta el extremo intervenir en cuanto no me concierne. Mas todo grave asunto nacional me concierne de modo intrasferible. No está, pues, en mi albedrío callar ahora. No tengo más remedio que aclararme a mí mismo y luego a mis compatriotas lo que puede significar ese triunfo de las «derechas».
+Se habla de su triunfo. A primera vista, esta expresión no hace sino enunciar un hecho notorio. Yo creo, sin embargo, que cuando se quiere precisar su sentido nos encontramos con una cuestión sobremanera confusa y grave. Comprenderán que nada hay más lejos de mi ánimo que el más leve intento de podarles la frondosidad de su victoria. Pero yo vivo en permanente servicio de mi nación. De ordinario procuro hacerlo con el menor ruido posible y eludiendo hasta el extremo intervenir en cuanto no me concierne. Mas todo grave asunto nacional me concierne de [modo](/concepts/mode) intrasferible. No está, pues, en mi albedrío callar ahora. No tengo más remedio que aclararme a mí mismo y luego a mis compatriotas lo que puede significar ese triunfo de las «derechas».
 
 ¿Qué quiere decir éste? Hay que responder sin subterfugios, evasivas ni equívocos. ¿Han triunfado contra una política o contra un Régimen? La diferencia es esencial. La confusión de ambas cosas, inmoral y mal preñada de enormes daños. Porque un Régimen no es una política ni un gobierno: es una serie indefinida de políticas y de gobiernos. Y ya hemos visto que esta República, menos que ningún otro Régimen, ha sido «traída» por la política de unos políticos. Creer lo contrario es hacerse ilusiones, estorbar la génesis de la nación y correr el riesgo de topar malamente, de bruces, con la áspera realidad.
 

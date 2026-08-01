@@ -66,7 +66,7 @@ Entonces fue cuando el fauno benévolo que se hallaba frontero, lleno de simpat�
 
 —Eso implica una grave acusación contra nosotros —repuso el fauno ejemplar.
 
-—En modo alguno. Si usted no jugase al golf incurriría en el mismo pecado que yo si jugase. Ambos habríamos sido indóciles a nuestro dharma.
+—En [modo](/concepts/mode) alguno. Si usted no jugase al golf incurriría en el mismo pecado que yo si jugase. Ambos habríamos sido indóciles a nuestro dharma.
 
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 

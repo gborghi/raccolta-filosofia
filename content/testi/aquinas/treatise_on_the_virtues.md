@@ -2588,7 +2588,7 @@ cannot apply, is not of the same species as infused virtue.
 I answer that, There is a twofold specific difference among habits. The first, as stated above
 (Q[54], A[2]; Q[56], A[2]; Q[60], A[1]), is taken from the specific and formal aspects of their
 objects. Now the object of every virtue is a good considered as in that virtue's proper matter: thus
-the object of temperance is a good in respect of the pleasures connected with the concupiscence of
+the object of temperance is a good in respect of the pleasures connected with the [concupiscence](/concepts/concupiscence) of
 touch. The formal aspect of this object is from reason which fixes the mean in these concupiscences:
 while the material element is something on the part of the concupiscences. Now it is evident that
 the mean that is appointed in such like concupiscences according to the rule of human reason, is

@@ -6,7 +6,7 @@ label_en: "friendship"
 aliases:
   - "amicitia"
   - "philia"
-work_count: 5
+work_count: 6
 tags:
   - "graph/concept"
 title: "amicizia"
@@ -15,7 +15,7 @@ title: "amicizia"
 
 *friendship*
 
-## Opere (5)
+## Opere (6)
 
 **Hume**
 - [LETTER TO THE AUTHOR OF THE DELINEATION OF THE NATURE AND OBLIGATION OF MORALITY](/testi/hume/letter_to_the_author_of_the_delineation_of_the_nature_and_obligation_of_morality)
@@ -25,6 +25,9 @@ title: "amicizia"
 
 **Plato**
 - [LYSIS](/testi/plato/lysis)
+
+**Schopenhauer**
+- [Aphorismen zur Lebensweisheit](/testi/schopenhauer/aphorismen_zur_lebensweisheit)
 
 **Seneca**
 - [ON BENEFITS](/testi/seneca/on_benefits)

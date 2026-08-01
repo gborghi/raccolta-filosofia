@@ -3,7 +3,7 @@ id: "aristotle"
 type: "figure"
 label_it: "Aristotele"
 label_en: "Aristotle"
-work_count: 24
+work_count: 28
 tags:
   - "graph/figure"
 title: "Aristotele"
@@ -12,7 +12,7 @@ title: "Aristotele"
 
 *Aristotle*
 
-## Opere (24)
+## Opere (28)
 
 **Aquinas**
 - [Treatise on Fortitude and Temperance](/testi/aquinas/treatise_on_fortitude_and_temperance)
@@ -35,6 +35,11 @@ title: "Aristotele"
 - [De Corpore](/testi/hobbes/de_corpore)
 - [Leviathan](/testi/hobbes/leviathan)
 
+**Leibniz**
+- [Discourse on Metaphysics (1686)](/testi/leibniz/discourse_on_metaphysics_1686)
+- [Extracts from the ‘New Essays on the Understanding’ (1704)](/testi/leibniz/extracts_from_the_new_essays_on_the_understanding_1704)
+- [The Philosophical Works of Leibnitz (1890)](/testi/leibniz/the_philosophical_works_of_leibnitz_1890)
+
 **Ortega y Gasset**
 - [Bronca en la física](/testi/ortega-y-gasset/bronca_en_la_física)
 - [Comienza la deshumanización del arte](/testi/ortega-y-gasset/comienza_la_deshumanización_del_arte)
@@ -42,8 +47,11 @@ title: "Aristotele"
 - [La metafísica y Leibniz](/testi/ortega-y-gasset/la_metafísica_y_leibniz)
 - [No ser hombre ejemplar](/testi/ortega-y-gasset/no_ser_hombre_ejemplar)
 - [Prólogo a El libro de las misiones](/testi/ortega-y-gasset/prólogo_a_el_libro_de_las_misiones)
-- [Prólogo a Psicología de Francisco Brentano](/testi/ortega-y-gasset/prólogo_a_psicología_de_francisco_brentano)
+- [Prólogo a Psicología, de Francisco Brentano](/testi/ortega-y-gasset/prólogo_a_psicología_de_francisco_brentano)
 - [Sobre el vuelo de las aves anilladas](/testi/ortega-y-gasset/sobre_el_vuelo_de_las_aves_anilladas)
 
 **Rousseau**
 - [DU CONTRAT SOCIAL ou Principes du droit politique](/testi/rousseau/du_contrat_social_ou_principes_du_droit_politique)
+
+**Schopenhauer**
+- [Die Kunst, Recht zu behalten](/testi/schopenhauer/die_kunst_recht_zu_behalten)

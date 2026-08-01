@@ -10884,7 +10884,7 @@ By enginery of pulley-blocks and wheels,
 
 With but light strain.
 
-Now, by what modes this sleep
+Now, by what [modes](/concepts/mode) this sleep
 
 Pours through our members waters of repose
 
@@ -12444,7 +12444,7 @@ Given example for creating all?
 
 For in such wise primordials of things,
 
-Many in many modes, astir by blows
+Many in many [modes](/concepts/mode), astir by blows
 
 From immemorial aeons, in motion too
 
@@ -13128,7 +13128,7 @@ FORMATION OF THE WORLD AND
 
 ASTRONOMICAL QUESTIONS
 
-But in what modes that conflux of first-stuff
+But in what [modes](/concepts/mode) that conflux of first-stuff
 
 Did found the multitudinous universe
 
@@ -13150,7 +13150,7 @@ Forsooth, a compact how each germ should move;
 
 But, lo, because primordials of things,
 
-Many in many modes, astir by blows
+Many in many [modes](/concepts/mode), astir by blows
 
 From immemorial aeons, in motion too
 
@@ -13830,7 +13830,7 @@ Either because the self-same sun, returning
 
 Under the lands, aspires to seize the sky,
 
-Striving to set it blazing with his rays
+[Striving](/concepts/conatus) to set it blazing with his rays
 
 Ere he himself appear, or else because
 

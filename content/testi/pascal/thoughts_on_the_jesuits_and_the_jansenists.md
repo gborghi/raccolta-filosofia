@@ -156,7 +156,7 @@ XV. + Will you dare in this way to trifle with the king’s edicts, by alleging 
 
 Lax opinions are so universally acceptable, that it is surprising that those which they hold should excite disgust. It is, however, because they have exceeded in them all bounds. There are, besides, many who see what is right, although they cannot attain to it; but there are few who do not know that the purity of religion is opposed to our corruptions. They see the absurdity of supposing that an eternal reward is held out for Escobartan morals.
 
-The easiest modes of living, according to worldly principles, are the most difficult, according to those of God: on the contrary, nothing is so difficult in the esteem of the world, as a life of religion; nothing more easy in the view of God. Nothing is more easy, according to the world, than to possess large concerns and abundant wealth; nothing is more difficult in God’s opinion, than to be immersed in such things, without imbibing a love for them, and being infected with their spirit.
+The easiest [modes](/concepts/mode) of living, according to worldly principles, are the most difficult, according to those of God: on the contrary, nothing is so difficult in the esteem of the world, as a life of religion; nothing more easy in the view of God. Nothing is more easy, according to the world, than to possess large concerns and abundant wealth; nothing is more difficult in God’s opinion, than to be immersed in such things, without imbibing a love for them, and being infected with their spirit.
 
 XX. Take away “probability,” and you will never please the world; concede it, and you will never displease it.
 

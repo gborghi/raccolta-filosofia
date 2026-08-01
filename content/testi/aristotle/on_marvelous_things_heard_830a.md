@@ -314,7 +314,7 @@ Heracles dedicated a sacred grove to Cythera Persephassa, when I was driving the
 
 The goddess Persephassa subdued me with desire for her.
 
-Here my newly wed Erythe brought forth a son Erython; then I gave her the plain in memory of our love under a shady beech-tree.
+Here my newly wed Erythe brought forth a son Erython; then I gave her the plain in [memory](/concepts/memory) of our love under a shady beech-tree.
 
 The place called Erythus answered to this inscription and also the fact that he brought the cows from there, and not from Erytheia; for they say that the name Erytheia does not occur in the districts of Libya and Iberia.
 

@@ -1,5 +1,5 @@
 ---
-title: "JULIE OU LA NOUVELLE HÉLOÏSE"
+title: "JULIE, OU LA NOUVELLE HÉLOÏSE"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/julie_ou_la_nouvelle_héloïse" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="JULIE OU LA NOUVELLE HÉLOÏSE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="JULIE, OU LA NOUVELLE HÉLOÏSE" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Il faut des spectacles dans les grandes villes, et des romans aux peuples corrompus. J'ai vu les moeurs de mon temps, et j'ai publié ces lettres. Que n'ai-je vécu dans un siècle où je dusse les jeter au feu !
 
@@ -3432,7 +3432,7 @@ Jetez les yeux tout autour de vous, ajoutait ce judicieux père de famille, vous
 
 La même règle a lieu dans le choix de la parure, qui, comme vous voyez, n'est pas négligée ; mais l'élégance y préside seule, la richesse ne s'y montre jamais, encore moins la mode. Il y a une grande différence entre le prix que l'opinion donne aux choses et celui qu'elles ont réellement. C'est à ce dernier seul que Julie s'attache ; et quand il est question d'une étoffe, elle ne cherche pas tant si elle est ancienne ou nouvelle que si elle est bonne et si elle lui sied. Souvent même la nouveauté seule est pour elle un motif d'exclusion, quand cette nouveauté donne aux choses un prix qu'elles n'ont pas, ou qu'elles ne sauraient garder.
 
-Considérez encore qu'ici l'effet de chaque chose vient moins d'elle-même que de son usage et de son accord avec le reste ; de sorte qu'avec des parties de peu de valeur Julie a fait un tout d'un grand prix. Le goût aime à créer, à donner seul la valeur aux choses. Autant la loi de la mode est inconstante et ruineuse, autant la sienne est économe et durable. Ce que le bon goût approuve une fois est toujours bien ; s'il est rarement à la mode, en revanche il n'est jamais ridicule, et dans sa modeste simplicité il tire de la convenance des choses des règles inaltérables et sûres, qui restent quand les modes ne sont plus.
+Considérez encore qu'ici l'effet de chaque chose vient moins d'elle-même que de son usage et de son accord avec le reste ; de sorte qu'avec des parties de peu de valeur Julie a fait un tout d'un grand prix. Le goût aime à créer, à donner seul la valeur aux choses. Autant la loi de la mode est inconstante et ruineuse, autant la sienne est économe et durable. Ce que le bon goût approuve une fois est toujours bien ; s'il est rarement à la mode, en revanche il n'est jamais ridicule, et dans sa modeste simplicité il tire de la convenance des choses des règles inaltérables et sûres, qui restent quand les [modes](/concepts/mode) ne sont plus.
 
 Ajoutez enfin que l'abondance du seul nécessaire ne peut dégénérer en abus, parce que le nécessaire a sa mesure naturelle, et que les vrais besoins n'ont jamais d'excès. On peut mettre la dépense de vingt habits en un seul, et manger en un repas le revenu d'une année ; mais on ne saurait porter deux habits en même temps, ni dîner deux fois en un jour. Ainsi l'opinion est illimitée, au lieu que la nature nous arrête de tous côtés ; et celui qui, dans un état médiocre, se borne au bien-être ne risque point de se ruiner.
 

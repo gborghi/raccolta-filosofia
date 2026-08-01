@@ -66,7 +66,7 @@ Al fin, accede a mi ruego. Pero surge un terrible inconveniente. Al día siguien
 
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
-—¡Hombre! Me obliga usted a leer lo que he escrito. Como a usted le consta, eso no lo he hecho casi nunca. Y no es amaneramiento, sino que obedece a algo que ha de advertir todo el que se dé alguna cuenta de la trayectoria de mi obra: me importa ante todo el futuro, y en mis escritos he insultado siempre a la mujer de Lot, a la cual, entre paréntesis, tampoco le importaba el pasado, porque el pasado sólo importa desde y para el futuro. La memoria no es sino el culatazo que da la esperanza.
+—¡Hombre! Me obliga usted a leer lo que he escrito. Como a usted le consta, eso no lo he hecho casi nunca. Y no es amaneramiento, sino que obedece a algo que ha de advertir todo el que se dé alguna cuenta de la trayectoria de mi obra: me importa ante todo el futuro, y en mis escritos he insultado siempre a la mujer de Lot, a la cual, entre paréntesis, tampoco le importaba el pasado, porque el pasado sólo importa desde y para el futuro. La [memoria](/concepts/memory) no es sino el culatazo que da la esperanza.
 
 —¿Y entonces los viejos? En los viejos, el recuerdo vive por sí mismo porque no hay esperanza.
 

@@ -52,6 +52,6 @@ Al menos declara Zetzner que somos sobrios y que solemos decir: «Nosotros no co
 
 Zetzner era, pues, un infeliz; pero muchas de estas apreciaciones fantásticas las encontramos nada menos que en Montesquieu.
 
-Y ahora, para poner fin a este extracto, recordaré un dicho de otro alemán más fino y malicioso, de Schopenhauer: «En cada nación —dice— aparecen la limitación, perversidad y vicio humanos de una manera distinta, y a ésta llamamos carácter nacional. Disgustados de uno, alabamos los otros hasta que nos ocurre lo mismo que con el primero. Cada nación se burla de las demás y todas tienen razón».
+Y ahora, para poner fin a este extracto, recordaré un dicho de otro alemán más fino y malicioso, de [Schopenhauer](/figures/schopenhauer): «En cada nación —dice— aparecen la limitación, perversidad y vicio humanos de una manera distinta, y a ésta llamamos carácter nacional. Disgustados de uno, alabamos los otros hasta que nos ocurre lo mismo que con el primero. Cada nación se burla de las demás y todas tienen razón».
 
 El Imparcial, 13 de enero de 1908

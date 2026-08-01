@@ -406,7 +406,7 @@ And yet at the same time he does not allow that void exists anywhere in things, 
 
 Wherefore he appears to me on both these grounds to be as much mistaken as those whom we have already spoken of above.
 
-Moreover, the first-beginnings which he supposes are too frail; if first-beginnings they be which are possessed of a nature like to the things themselves and are just as liable to suffering and death, and which nothing reins back from destruction.
+Moreover, the first-beginnings which he supposes are too frail; if first-beginnings they be which are possessed of a nature like to the things themselves and are just as liable to [suffering](/concepts/suffering) and death, and which nothing reins back from destruction.
 
 For which of them will hold out, so as to escape death, beneath so strong a pressure within the very jaws of destruction? Fire or water or air? Which of these? Blood or bones?
 
@@ -2318,7 +2318,7 @@ And therefore also you must admit that these things likewise had a birth; for th
 
 Again since the chiefest members of the world fight so hotly together, fiercely stirred by no hallowed civil warfare, see you not that some limit may be set to their long struggle?
 
-Either when the sun and all heat shall have drunk up all the waters and gotten the mastery: this they are ever striving to do, but as yet are unable to accomplish their endeavors: such abundant supplies the rivers furnish, and threaten to turn aggressors and flood all things with a deluge from the deep gulfs of ocean; all in vain, since the winds sweeping over the seas and the ethereal sun decomposing them with his rays do lessen them, and trust to be able to dry all things up before water can attain the end of its endeavor.
+Either when the sun and all heat shall have drunk up all the waters and gotten the mastery: this they are ever [striving](/concepts/conatus) to do, but as yet are unable to accomplish their endeavors: such abundant supplies the rivers furnish, and threaten to turn aggressors and flood all things with a deluge from the deep gulfs of ocean; all in vain, since the winds sweeping over the seas and the ethereal sun decomposing them with his rays do lessen them, and trust to be able to dry all things up before water can attain the end of its endeavor.
 
 Such a war do they breathe out with undecided issue, and strive with each other to determine it for mighty ends; though once by the way fire got the upper hand and once, as the story goes, water reigned paramount in the fields.
 

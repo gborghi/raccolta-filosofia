@@ -2245,7 +2245,7 @@ A.
 
 <span class="atom-split" data-atom="037" data-title="PART III. (8/12)" data-chapter="PART III." data-kind="atom" data-srclang="en"></span>
 
-By declaring directly for him he might have had all the King’s party, which were many more now since his misfortune than ever they were before. For in the Parliament itself, there were many that had discovered the hypocrisy and private aims of their fellows: many were converted to their duty by their own natural reason; and their compassion for the King’s sufferings had begot generally an indignation against the Parliament: so that if they had been by the protection of the present army brought together and embodied, Cromwell might have done what he had pleased, in the first place for the King, and in the second for himself. But it seems he meant first to try what he could do without the King; and if that proved enough, to rid his hands of him.
+By declaring directly for him he might have had all the King’s party, which were many more now since his misfortune than ever they were before. For in the Parliament itself, there were many that had discovered the hypocrisy and private aims of their fellows: many were converted to their duty by their own natural reason; and their [compassion](/concepts/compassion) for the King’s sufferings had begot generally an indignation against the Parliament: so that if they had been by the protection of the present army brought together and embodied, Cromwell might have done what he had pleased, in the first place for the King, and in the second for himself. But it seems he meant first to try what he could do without the King; and if that proved enough, to rid his hands of him.
 
 B.
 

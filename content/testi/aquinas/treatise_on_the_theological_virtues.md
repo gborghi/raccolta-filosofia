@@ -5564,7 +5564,7 @@ to be distinguished from all these other fears.
 Objection 4: Further, even as servile fear fears punishment, so do initial and worldly fear.
 Therefore no distinction should be made between them.
 
-Objection 5: Further, even as concupiscence is about some good, so is fear about some evil.
+Objection 5: Further, even as [concupiscence](/concepts/concupiscence) is about some good, so is fear about some evil.
 Now "concupiscence of the eyes," which is the desire for things of this world, is distinct from
 "concupiscence of the flesh," which is the desire for one's own pleasure. Therefore "worldly fear,"
 whereby one fears to lose external goods, is distinct from "human fear," whereby one fears harm
@@ -12910,7 +12910,7 @@ Jerome states in an epistle [*Reference incorrect: cf. Veget., De Re Milit. i].
 <span class="atom-split" data-atom="264" data-title="Whether it is lawful for clerics and bishops to fight?" data-chapter="Whether it is lawful for clerics and bishops to fight?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem lawful for clerics and bishops to fight. For, as stated above (A[1]),
-wars are lawful and just in so far as they protect the poor and the entire common weal from suffering
+wars are lawful and just in so far as they protect the poor and the entire common weal from [suffering](/concepts/suffering)
 at the hands of the foe. Now this seems to be above all the duty of prelates, for Gregory says (Hom.
 in Ev. xiv): "The wolf comes upon the sheep, when any unjust and rapacious man oppresses those
 who are faithful and humble. But he who was thought to be the shepherd, and was not, leaveth the

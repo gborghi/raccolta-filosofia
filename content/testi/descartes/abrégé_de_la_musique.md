@@ -3,6 +3,7 @@ title: "ABRÉGÉ DE LA MUSIQUE"
 philosopher: "Descartes"
 lang: "fr"
 edizione: "Arvensa Editions"
+anno_edizione: 2015
 pd_year: 1900
 kind: "work"
 tags:
@@ -13,7 +14,7 @@ tags:
 > [!abstract]
 > An early treatise (1618) on music theory: it analyses sound as an object capable of producing pleasure and stirring passions, and derives the arithmetical proportions that make a chord pleasing to the ear. This is a technical work on acoustics and the aesthetics of sound, not a metaphysical text.
 
-<p class="work-source">Testo originale francese · Arvensa Editions · pubblico dominio</p>
+<p class="work-source">Testo originale francese · Arvensa Editions, 2015 · pubblico dominio</p>
 
 <div class="atom-reader" data-work="testi/descartes/abrégé_de_la_musique" data-philosopher="Descartes"></div>
 
@@ -22,7 +23,7 @@ tags:
 
 L’objet de la musique est le son
 
-Sa fin est de plaire et d’exciter en nous diverses passions ; car il est certain qu’on peut composer des airs qui seront tout ensemble tristes et agréables ; et il ne faut pas trouver étrange que la musique soit capable de si différents effets, puisque les élégies même et les tragédies nous plaisent d’autant plus que plus elles excitent en nous de compassion et de douleur et qu’elles nous touchent davantage.
+Sa fin est de plaire et d’exciter en nous diverses passions ; car il est certain qu’on peut composer des airs qui seront tout ensemble tristes et agréables ; et il ne faut pas trouver étrange que la musique soit capable de si différents effets, puisque les élégies même et les tragédies nous plaisent d’autant plus que plus elles excitent en nous de [compassion](/concepts/compassion) et de douleur et qu’elles nous touchent davantage.
 
 Les moyens pour cette fin, c’est-à-dire les propriétés du son les plus remarquables, sont deux : savoir, ses différences considérées par rapport au temps ou à la durée, et par rapport à la force ou à l’intensité du son considéré en tant que grave ou aigu ; car, quant à la nature et à la qualité du son, savoir de quels corps et de quels moyens on se doit servir pour le rendre plus agréable, cela regarde les physiciens.
 
@@ -120,7 +121,7 @@ De plus, nous avons encore divisé les accords en ceux qui, proprement et par eu
 
 De la quinte
 
-Voici le plus agréable et le plus doux de tous les accords ; c’est pourquoi on a coutume de le faire régner dans toutes les chansons, dans lesquelles il tient toujours le premier rang. C’est de lui que naissent les modes, et auquel convient ce que nous avons dit en la septième remarque faite au commencement de ce traité ; car soit que nous tirions la perfection des consonances de la division d’une corde ou du rapport de leurs nombres, il n’y en a proprement que trois, entre lesquelles la quinte tenant le milieu, elle aura ce tempérament, qu’elle ne frappera pas les oreilles si aigrement que le diton ni si mollement que le diapason, mais plaira davantage qu’aucun autre.
+Voici le plus agréable et le plus doux de tous les accords ; c’est pourquoi on a coutume de le faire régner dans toutes les chansons, dans lesquelles il tient toujours le premier rang. C’est de lui que naissent les [modes](/concepts/mode), et auquel convient ce que nous avons dit en la septième remarque faite au commencement de ce traité ; car soit que nous tirions la perfection des consonances de la division d’une corde ou du rapport de leurs nombres, il n’y en a proprement que trois, entre lesquelles la quinte tenant le milieu, elle aura ce tempérament, qu’elle ne frappera pas les oreilles si aigrement que le diton ni si mollement que le diapason, mais plaira davantage qu’aucun autre.
 
 On peut aussi connaître par la sixième figure qu’il y a trois sortes de quintes, entre lesquelles la douzième tient le second rang, et que pour cela nous appellerons la plus parfaite. Tellement qu’il ne faudrait se servir que de cette seule espèce de quinte dans la musique, si ce n’était que l’agrément dépend aussi de la diversité, ainsi que nous avons observé dans la dernière de nos remarques.
 
@@ -278,7 +279,7 @@ La troisième sorte de dissonances comprend le triton et la fausse quinte, car e
 
 Or ces nombres sont trop grands pour rendre un intervalle agréable aux oreilles, et n’ont pas des accords assez voisins, comme les autres, pour en emprunter la douceur : d’où vient qu’on doit éviter les dissonances dans la relation, principalement lorsque la musique est lente et sans diminution ; car en celle qu’on chante avec diminution l’oreille n’a pas le loisir d’apercevoir le défaut de ces dissonances, lequel paraît d’autant plus rude, qu’elles ont des quintes voisines, avec lesquelles l’oreille les comparant, on s’aperçoit plus aisément de leur imperfection par la douceur qu’ont les quintes. Nous finirons ici l’explication de toutes les propriétés du son, où il faut seulement remarquer, pour confirmer ce que nous avons dit ci-devant, que toute la diversité des sons à l’égard de l’aigu et du grave naît de ces nombres 2, 3 et 5 ; et que tous les nombres qui expliquent les degrés et les dissonances sont composés de ces trois seulement, par lesquels étant divisés, on les réduit à l’unité.
 
-De la manière de composer et des modes
+De la manière de composer et des [modes](/concepts/mode)
 
 On peut avoir appris du peu que nous avons dit que l’on peut composer une musique assez juste si on observe ces trois choses :
 
@@ -324,7 +325,7 @@ On se sert de ces syncopes dans les cadences, parce qu’on goûte mieux ce qu�
 
 Il faut encore observer que l’oreille se plaît davantage à entendre finir les parties par une octave que par une quinte, et encore mieux par l’unisson ; non pas que la quinte ne soit le plus agréable de tous les accords, mais parce qu’à la fin on doit chercher le repos, qui est plus grand dans les sons entre lesquels il y a peu ou point de différence, comme dans l’unisson. Or non seulement ce repos ou cette cadence est agréable à la fin, mais même dans le milieu d’une pièce ; la fuite de cette cadence est merveilleusement agréable, lorsqu’une partie semble se vouloir reposer, tandis que l’autre avance toujours et ne laisse pas de passer outre. Et cette sorte de figure dans la musique a du rapport à celles de rhétorique dont on use dans le discours, auxquelles on peut aussi comparer, les fugues, les échos, et autres semblables figures, qui se font lorsque deux parties chantent successivement et en différents temps la même chose, ou même tout le contraire ; ce qu’elles peuvent faire aussi en même temps, et même cette contrariété n’est pas quelquefois désagréable en certaines parties de musique : mais pour ce qui regarde ces contre-points ou autres figures dans lesquelles on observe un semblable artifice depuis le commencement jusqu’à la fin, ils n’appartiennent pas autrement à la musique que les acrostiches ou vers rétrogrades, et autres semblables jeux de l’esprit font à la poésie, qui, comme notre musique, a été inventée pour nous récréer l’esprit et exciter en l’âme diverses passions.
 
-Des modes
+Des [modes](/concepts/mode)
 
 Ce traité est fort célèbre parmi les praticiens, et chacun sait assez ce que c’est que des modes, ainsi il serait inutile d’en vouloir ici parler à fond. Remarquez seulement qu’ils viennent de ce que l’octave n’est pas divisée en degrés égaux, car tantôt le ton et tantôt le demi-ton s’y rencontre ; de plus, ils viennent aussi de la quinte, à cause qu’elle est très agréable et que toutes les pièces semblent n’être faites que pour elle : car l’octave ne peut être divisée en degrés qu’en sept modes ou manières différentes, dont chacun peut encore être divisé en deux diverses manières par la quinte, hormis deux, en chacun desquels la fausse quinte se rencontre une fois au lieu de la quinte ; d’où sont venus douze modes seulement, entre lesquels même il y en a quatre qui sont peu agréables, d’autant qu’il se rencontre un triton dans leurs quintes ; en sorte qu’ils ne peuvent monter ou descendre par degrés de la principale quinte, pour qui toute la pièce semble être composée, qu’il n’y ait nécessairement une fausse relation du triton ou de la fausse quinte.
 

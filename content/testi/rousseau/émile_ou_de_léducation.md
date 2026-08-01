@@ -1,5 +1,5 @@
 ---
-title: "ÉMILE ou de LÉDUCATION"
+title: "ÉMILE ou de L’ÉDUCATION"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/émile_ou_de_léducation" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="ÉMILE ou de LÉDUCATION" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="ÉMILE ou de L’ÉDUCATION" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 Préface
 
@@ -3296,7 +3296,7 @@ Or, pour obtenir qu'on réparât cet oubli sans qu'on pût l'accuser de désobé
 
 Ce qui est bien, et aucune loi générale n'est mauvaise. Cette adresse particulière donnée au sexe est un dédommagement très équitable de la force qu'il a de moins ; sans quoi la femme ne serait pas la compagne de l'homme, elle serait son esclave : c'est par cette supériorité de talent qu'elle se maintient son égale, et qu'elle le gouverne en lui obéissant. La femme a tout contre elle, nos défauts, sa timidité, sa faiblesse ; elle n'a pour elle que son art et sa beauté. N'est-il pas juste qu'elle cultive l'un et l'autre ? Mais la beauté n'est pas générale ; elle périt par mille accidents, elle passe avec les années ; l'habitude en détruit l'effet. L'esprit seul est la véritable ressource du sexe : non ce sot esprit auquel on donne tant de prix dans le monde, et qui ne sert à rien pour rendre la vie heureuse, mais l'esprit de son état, l'art de tirer parti du nôtre, et de se prévaloir de nos propres avantages. On ne sait pas combien cette adresse des femmes nous est utile à nous-mêmes, combien elle ajoute de charme à la société des deux sexes, combien elle sert à réprimer la pétulance des enfants, combien elle contient de maris brutaux, combien elle maintient de bons ménages, que la discorde troublerait sans cela. Les femmes artificieuses et méchantes en abusent, je le sais bien ; mais de quoi le vice n'abuse-t-il pas ? Ne détruisons point les instruments du bonheur parce que les méchants s'en servent quelquefois à nuire.
 
-On peut briller par la parure, mais on ne plaît que par la personne. Nos ajustements ne sont point nous ; souvent ils déparent à force d'être recherchés, et souvent ceux qui font le plus remarquer celle qui les porte sont ceux qu'on remarque le moins. L'éducation des jeunes filles est en ce point tout à fait à contresens. On leur promet des ornements pour récompense, on leur fait aimer les atours recherchés : Qu'elle est belle ! leur dit-on quand elles sont fort parées. Et tout au contraire on devrait leur faire entendre que tant d'ajustement n'est fait que pour cacher des défauts, et que le vrai triomphe de la beauté est de briller par elle-même. L'amour des modes est de mauvais goût, parce que les visages ne changent pas avec elles, et que la figure restant la même, ce qui lui sied une fois lui sied toujours.
+On peut briller par la parure, mais on ne plaît que par la personne. Nos ajustements ne sont point nous ; souvent ils déparent à force d'être recherchés, et souvent ceux qui font le plus remarquer celle qui les porte sont ceux qu'on remarque le moins. L'éducation des jeunes filles est en ce point tout à fait à contresens. On leur promet des ornements pour récompense, on leur fait aimer les atours recherchés : Qu'elle est belle ! leur dit-on quand elles sont fort parées. Et tout au contraire on devrait leur faire entendre que tant d'ajustement n'est fait que pour cacher des défauts, et que le vrai triomphe de la beauté est de briller par elle-même. L'amour des [modes](/concepts/mode) est de mauvais goût, parce que les visages ne changent pas avec elles, et que la figure restant la même, ce qui lui sied une fois lui sied toujours.
 
 Quand je verrais la jeune fille se pavaner dans ses atours, je paraîtrais inquiet de sa figure ainsi déguisée et de ce qu'on en pourra penser ; je dirais : Tous ces ornements la parent trop, c'est dommage : croyez-vous qu'elle en pût supporter de plus simples ? est-elle assez belle pour se passer de ceci ou de cela ? Peut-être sera-t-elle alors la première à prier qu'on lui ôte cet ornement, et qu'on juge : c'est le cas de l'applaudir, s'il y a lieu. Je ne la louerais jamais tant que quand elle serait le plus simplement mise. Quand elle ne regardera la parure que comme un supplément aux grâces de la personne et comme un aveu tacite qu'elle a besoin de secours pour plaire, elle ne sera point fière de son ajustement, elle en sera humble ; et si, plus parée que de coutume, elle s'entend dire, Qu'elle est belle ! elle en rougira de dépit.
 

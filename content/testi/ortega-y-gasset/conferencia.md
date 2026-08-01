@@ -106,7 +106,7 @@ Y me he encontrado con un pueblo lleno de afanes, libre de envidias, que sintien
 
 No creo yo conocer, señores, vuestra alma colectiva, ni temáis que cometa el desliz de hacer con mis pocos datos en breves minutos un ensayo de psicología argentina.
 
-Voy sencillamente a expresar dos o tres simples observaciones, las cuales ni siquiera necesitan ser exactas para que en algún modo puedan seros útiles. Son impresiones de viajero rápido, que ha hecho resbalar su pupila sobre vuestra tierra. Ni creo que viajero alguno haya tenido la grotesca pretensión de descubrir el país a los nativos. No es, señores, su misión ser profundo ni exacto, sino exclusivamente ser sincero, dibujar con delicadeza la imagen que la nación visitada suscita en su retina.
+Voy sencillamente a expresar dos o tres simples observaciones, las cuales ni siquiera necesitan ser exactas para que en algún [modo](/concepts/mode) puedan seros útiles. Son impresiones de viajero rápido, que ha hecho resbalar su pupila sobre vuestra tierra. Ni creo que viajero alguno haya tenido la grotesca pretensión de descubrir el país a los nativos. No es, señores, su misión ser profundo ni exacto, sino exclusivamente ser sincero, dibujar con delicadeza la imagen que la nación visitada suscita en su retina.
 
 El encanto de los libros de viaje está precisamente en que son siempre libros ingenuos. El viajero busca en sus andanzas renovación espiritual. Viajar por un pueblo extraño es valerse de un artificio que nos permite un renacimiento de nuestra persona; cuando viajamos volvemos a ser niños. Allá donde nacimos y donde vivimos las cosas y las personas han gastado para nosotros su fisonomía, como monedas muy corridas, y sus rostros no hieren ya suficientemente nuestros nervios.
 

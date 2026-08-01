@@ -41,7 +41,7 @@ Posizione sull'asse [Legittimità del potere](/axes/political_legitimacy).
 - [TWO TREATISES OF GOVERNMENT](/testi/locke/two_treatises_of_government)
 
 **Rousseau**
-- [LORIGINE ET LES FONDEMENTS DE LINÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
+- [L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
 - [RÉPONSE À UNE LETTRE ANONYME](/testi/rousseau/réponse_à_une_lettre_anonyme)
 
 **Spinoza**

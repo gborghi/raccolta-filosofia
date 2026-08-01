@@ -1,5 +1,5 @@
 ---
-title: "Para una topografía de la soberbia española Breve análisis de una pasión"
+title: "Para una topografía de la soberbia española (Breve análisis de una pasión)"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/para_una_topografía_de_la_soberbia_española_breve_análisis_de_una_pasión" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Para una topografía de la soberbia española Breve análisis de una pasión" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Para una topografía de la soberbia española (Breve análisis de una pasión)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Desde hace años, la pleamar del estío me empuja hacia la tierra vasca. Y siempre, al renovar el contacto con esta fuerte raza, surge en mí el mismo proyecto: escribir algo sobre la soberbia española. Por la ruta que de Castilla conduce a Vasconia se encuentra en Castil de Peones, poco antes de Briviesca, la primera casa vasca. Es un cubo de piedra, sin más adorno que un alero y un escudo. Parece el alero premeditado exclusivamente para guarecer el escudo. ¿Qué razón hay para que una y otra vez, al sesgar por delante de esta arquitectura, reaparezca en mi meditación el tema de la soberbia española?
 
@@ -40,7 +40,7 @@ La ventaja que su descripción nos proporciona es situarnos inmediatamente ante 
 
 Cuando arrojamos objetos de varia densidad en un líquido, quedan a poco colocados en distinto nivel. Esta localización resulta del dinamismo que unos sobre otros ejercen. Imagínese que los objetos gozasen de sensibilidad. Sentirían su propio esfuerzo, que los mantiene a mayor o menor altura; tendrían lo que podemos llamar un «sentimiento del nivel».
 
-Pues bien: entre los ingredientes que componen nuestro ser es ese sentimiento del nivel uno de los decisivos. Nuestro modo de comportarnos, lo mismo entre los hombres que en la soledad, depende del nivel humano que en nuestra última sinceridad nos atribuyamos. Muy especialmente el carácter de una sociedad dependerá del modo de valorarse a sí mismos los individuos que la forman. Por eso podría partir de aquí, mejor que de otra parte, una caracterología de los pueblos y razas.
+Pues bien: entre los ingredientes que componen nuestro ser es ese sentimiento del nivel uno de los decisivos. Nuestro [modo](/concepts/mode) de comportarnos, lo mismo entre los hombres que en la soledad, depende del nivel humano que en nuestra última sinceridad nos atribuyamos. Muy especialmente el carácter de una sociedad dependerá del modo de valorarse a sí mismos los individuos que la forman. Por eso podría partir de aquí, mejor que de otra parte, una caracterología de los pueblos y razas.
 
 Y hay dos maneras de valorarse el hombre a sí mismo radicalmente distintas. Nietzsche lo vio ya con su genial intuición para todos los fenómenos estimativos. Hay hombres que se atribuyen un determinado valor —más alto o más bajo— mirándose a sí mismos, juzgando por su propio sentir sobre sí mismos. Llamemos a esto valoración espontánea. Hay otros que se valoran a sí mismos mirando antes a los demás y viendo el juicio que a éstos merecen. Llamemos a esto valoración refleja. Apenas habrá un hecho más radical en la psicología de cada individuo. Se trata de una índole primaria y elemental, que sirve de raíz al resto del carácter. Se es de la una o de la otra clase, desde luego, a nativitate. Para los unos, lo decisivo es la estimación en que se tengan; para los otros, la estimación en que sean tenidos. La soberbia sólo se produce en individuos del primer tipo; la vanidad, en los del segundo.
 
@@ -54,7 +54,7 @@ Al llegar a esta altura del análisis divisamos con perfecta claridad lo que es 
 
 Es, pues, la soberbia una enfermedad de la función estimativa. Ese error persistente en nuestra propia valoración implica una ceguera nativa para los valores de los demás. En virtud de una deformación originaria, la pupila estimativa, encargada de percibir los valores que en el mundo existen, se halla vuelta hacia el sujeto, e incapaz de girar en torno, no ve las calidades del prójimo. No es que el soberbio se haga ilusiones sobre sus propias excelencias, no. Lo que pasa es que a toda hora están patentes a su mirada estimativa los valores suyos, pero nunca los ajenos. No hay, pues, manera de curar la soberbia si se la trata como una ilusión, como un alucinamiento. Cuanto se diga al soberbio será menos evidente que lo que él está viendo con perfecta claridad dentro de sí. Sólo métodos indirectos cabe usar. Hay que tratarlo como a un ciego.
 
-Lo contrapuesto a la soberbia es, más que la humildad, la abyección. El hombre abyecto es el que no se estima a sí mismo: su pupila estimativa no percibe siquiera los valores ínfimos anejos a toda persona humana. Será, pues, inútil exigir de él dignidad de conducta; un acto digno le parecería un fraude, una torpe vanidad, porque le invitaría a estimarse a sí mismo, a él, que se desprecia de modo tan integral.
+Lo contrapuesto a la soberbia es, más que la humildad, la abyección. El hombre abyecto es el que no se estima a sí mismo: su pupila estimativa no percibe siquiera los valores ínfimos anejos a toda persona humana. Será, pues, inútil exigir de él dignidad de conducta; un acto digno le parecería un fraude, una torpe vanidad, porque le invitaría a estimarse a sí mismo, a él, que se desprecia de [modo](/concepts/mode) tan integral.
 
 Oriunda la soberbia de una ceguera psíquica para los valores humanos que no estén en el sujeto mismo, es síntoma de una general cerrazón espiritual. Supone una psicología en que se da exagerada la tendencia a gravitar el alma hacia dentro de sí misma, a bastarse a sí misma. Con agudo diagnóstico, se llama vulgarmente a la soberbia «suficiencia». El puro soberbio se basta a sí mismo, claro es que porque ignora lo ajeno. De aquí que las almas soberbias suelan ser herméticas, cerradas a lo exterior, sin curiosidad, que es una especie de activa porosidad mental. Carecen de grato abandono y temen morbosamente al ridículo. Viven en un perpetuo gesto anquilosado, ese gesto de gran señor, esa «grandeza» que a los extranjeros maravilla siempre en la actitud del castellano y del árabe.
 

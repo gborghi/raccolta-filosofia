@@ -10,7 +10,7 @@ aliases:
 axis: "method"
 contro:
   - "induction"
-work_count: 13
+work_count: 15
 tags:
   - "graph/position"
 title: "dialettica"
@@ -23,7 +23,7 @@ Posizione sull'asse [Metodo](/axes/method).
 
 **Contro:** [induzione](/positions/induction)
 
-## Opere (13)
+## Opere (15)
 
 **Aristotle**
 - [Rhetoric (1354a)](/testi/aristotle/rhetoric_1354a)
@@ -47,3 +47,7 @@ Posizione sull'asse [Metodo](/axes/method).
 - [STATESMAN](/testi/plato/statesman)
 - [THEAETETUS](/testi/plato/theaetetus)
 - [THE REPUBLIC](/testi/plato/the_republic)
+
+**Schopenhauer**
+- [Abhandlungen](/testi/schopenhauer/abhandlungen)
+- [Die Kunst, Recht zu behalten](/testi/schopenhauer/die_kunst_recht_zu_behalten)

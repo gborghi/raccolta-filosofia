@@ -10,7 +10,7 @@ positions:
   - "utility_pleasure"
   - "moral_sentiment"
   - "will_to_power"
-work_count: 66
+work_count: 69
 tags:
   - "graph/axis"
 title: "Fondamento della morale"
@@ -31,7 +31,7 @@ title: "Fondamento della morale"
 - [sentimento morale](/positions/moral_sentiment) — 5 opere · contro [legge naturale](/positions/natural_law), [imperativo del dovere](/positions/duty_imperative)
 - [volontà di potenza](/positions/will_to_power) — 4 opere · contro [legge naturale](/positions/natural_law), [imperativo del dovere](/positions/duty_imperative)
 
-## Opere (67)
+## Opere (70)
 
 **Aquinas**
 - [Treatise on Fortitude and Temperance](/testi/aquinas/treatise_on_fortitude_and_temperance)
@@ -57,7 +57,7 @@ title: "Fondamento della morale"
 - [Ten Homilies on the First Epistle of John](/testi/augustine/ten_homilies_on_the_first_epistle_of_john)
 
 **Descartes**
-- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 
 **Hegel**
@@ -80,6 +80,10 @@ title: "Fondamento della morale"
 - [ON EDUCATION](/testi/kant/on_education)
 - [RELIGION WITHIN THE BOUNDS OF BARE REASON](/testi/kant/religion_within_the_bounds_of_bare_reason)
 
+**Leibniz**
+- [A Philosopher’s Creed (1673)](/testi/leibniz/a_philosophers_creed_1673)
+- [Theodicy (1710)](/testi/leibniz/theodicy_1710)
+
 **Nietzsche**
 - [Also sprach Zarathustra](/testi/nietzsche/also_sprach_zarathustra)
 - [Der Antichrist](/testi/nietzsche/der_antichrist)
@@ -88,10 +92,10 @@ title: "Fondamento della morale"
 
 **Ortega y Gasset**
 - [Destinos diferentes](/testi/ortega-y-gasset/destinos_diferentes)
-- [Introducción a una estimativa Qué son los valores](/testi/ortega-y-gasset/introducción_a_una_estimativa_qué_son_los_valores)
+- [Introducción a una estimativa—. ¿Qué son los valores?](/testi/ortega-y-gasset/introducción_a_una_estimativa_qué_son_los_valores)
 - [La moral visigótica](/testi/ortega-y-gasset/la_moral_visigótica)
 - [Los votos van al presidio](/testi/ortega-y-gasset/los_votos_van_al_presidio)
-- [Política social Contra los asesinos](/testi/ortega-y-gasset/política_social_contra_los_asesinos)
+- [Política social.— Contra los asesinos](/testi/ortega-y-gasset/política_social_contra_los_asesinos)
 - [Sobre una apología de la inexactitud](/testi/ortega-y-gasset/sobre_una_apología_de_la_inexactitud)
 
 **Plato**
@@ -105,13 +109,16 @@ title: "Fondamento della morale"
 - [THE REPUBLIC](/testi/plato/the_republic)
 
 **Rousseau**
-- [JULIE OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
+- [JULIE, OU LA NOUVELLE HÉLOÏSE](/testi/rousseau/julie_ou_la_nouvelle_héloïse)
 - [LA VERTU LA PLUS NÉCESSAIRE AUX HÉROS](/testi/rousseau/la_vertu_la_plus_nécessaire_aux_héros)
 - [LES AMOURS DE MILORD ÉDOUARD BOMSTON](/testi/rousseau/les_amours_de_milord_édouard_bomston)
 - [LETTRES MORALES](/testi/rousseau/lettres_morales)
 - [LETTRE SUR LA VERTU](/testi/rousseau/lettre_sur_la_vertu)
-- [LETTRE À DALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
-- [ORAISON FUNÈBRE DU DUC DORLÉANS](/testi/rousseau/oraison_funèbre_du_duc_dorléans)
+- [LETTRE À D’ALEMBERT SUR LES SPECTACLES](/testi/rousseau/lettre_à_dalembert_sur_les_spectacles)
+- [ORAISON FUNÈBRE DU DUC D’ORLÉANS](/testi/rousseau/oraison_funèbre_du_duc_dorléans)
+
+**Schopenhauer**
+- [Die Welt als Wille und Vorstellung. Erster Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_erster_band)
 
 **Seneca**
 - [ON ANGER](/testi/seneca/on_anger)

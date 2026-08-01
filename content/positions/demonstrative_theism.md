@@ -11,7 +11,7 @@ contro:
   - "atheism"
   - "fideism"
   - "scepticism"
-work_count: 15
+work_count: 18
 tags:
   - "graph/position"
 title: "teismo dimostrativo"
@@ -24,7 +24,7 @@ Posizione sull'asse [Dio](/axes/god).
 
 **Contro:** [ateismo](/positions/atheism), [fideismo](/positions/fideism), [scetticismo](/positions/scepticism)
 
-## Opere (15)
+## Opere (18)
 
 **Aquinas**
 - [Treatise on the One God](/testi/aquinas/treatise_on_the_one_god)
@@ -51,6 +51,11 @@ Posizione sull'asse [Dio](/axes/god).
 
 **Kant**
 - [Allgemeine Naturgeschichte und Theorie des Himmels](/testi/kant/allgemeine_naturgeschichte_und_theorie_des_himmels)
+
+**Leibniz**
+- [A Philosopher’s Creed (1673)](/testi/leibniz/a_philosophers_creed_1673)
+- [System of Theology (1686)](/testi/leibniz/system_of_theology_1686)
+- [Theodicy (1710)](/testi/leibniz/theodicy_1710)
 
 **Locke**
 - [AN ESSAY CONCERNING HUMAN UNDERSTANDING](/testi/locke/an_essay_concerning_human_understanding)

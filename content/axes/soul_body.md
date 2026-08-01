@@ -8,7 +8,7 @@ positions:
   - "hylomorphism"
   - "materialism"
   - "monism"
-work_count: 32
+work_count: 36
 tags:
   - "graph/axis"
 title: "Anima e corpo"
@@ -27,7 +27,7 @@ title: "Anima e corpo"
 - [materialismo](/positions/materialism) — 12 opere · contro [idealismo](/positions/idealism), [dualismo sostanziale](/positions/substance_dualism)
 - [monismo](/positions/monism) — 3 opere · contro [dualismo sostanziale](/positions/substance_dualism)
 
-## Opere (32)
+## Opere (36)
 
 **Aquinas**
 - [Treatise on Man](/testi/aquinas/treatise_on_man)
@@ -44,12 +44,12 @@ title: "Anima e corpo"
 **Descartes**
 - [DE LA FORMATION DU FŒTUS](/testi/descartes/de_la_formation_du_fœtus)
 - [DISCOURS DE LA MÉTHODE](/testi/descartes/discours_de_la_méthode)
-- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 - [LETTRES](/testi/descartes/lettres)
 - [MÉDITATIONS MÉTAPHYSIQUES](/testi/descartes/méditations_métaphysiques)
 - [OBJECTIONS AUX MÉDITATIONS](/testi/descartes/objections_aux_méditations)
-- [TRAITÉ DE LHOMME](/testi/descartes/traité_de_lhomme)
+- [TRAITÉ DE L’HOMME](/testi/descartes/traité_de_lhomme)
 
 **Hegel**
 - [Hegel’s Philosophy of Mind](/testi/hegel/hegels_philosophy_of_mind)
@@ -59,6 +59,10 @@ title: "Anima e corpo"
 
 **Kant**
 - [DREAMS OF A SPIRIT-SEER](/testi/kant/dreams_of_a_spirit-seer)
+
+**Leibniz**
+- [Monadology (1714)](/testi/leibniz/monadology_1714)
+- [The Philosophical Works of Leibnitz (1890)](/testi/leibniz/the_philosophical_works_of_leibnitz_1890)
 
 **Locke**
 - [MISCELLANEOUS WORKS](/testi/locke/miscellaneous_works)
@@ -73,12 +77,16 @@ title: "Anima e corpo"
 - [No ser hombre de partido](/testi/ortega-y-gasset/no_ser_hombre_de_partido)
 - [Problemas del aspecto humano](/testi/ortega-y-gasset/problemas_del_aspecto_humano)
 - [Variaciones sobre la carne](/testi/ortega-y-gasset/variaciones_sobre_la_carne)
-- [Vitalidad alma espíritu](/testi/ortega-y-gasset/vitalidad_alma_espíritu)
-- [d Eidolología](/testi/ortega-y-gasset/d_eidolología)
+- [Vitalidad, alma, espíritu](/testi/ortega-y-gasset/vitalidad_alma_espíritu)
+- [d) Eidolología](/testi/ortega-y-gasset/d_eidolología)
 
 **Plato**
 - [FIRST ALCIBIADES](/testi/plato/first_alcibiades)
 - [PHAEDO](/testi/plato/phaedo)
+
+**Schopenhauer**
+- [Die Welt als Wille und Vorstellung. Zweiter Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_zweiter_band)
+- [Über das Geistersehn und was damit zusammenhängt](/testi/schopenhauer/über_das_geistersehn_und_was_damit_zusammenhängt)
 
 **Spinoza**
 - [Ethics](/testi/spinoza/ethics)

@@ -8,7 +8,7 @@ aliases:
   - "sophia"
   - "saggio"
   - "sage"
-work_count: 30
+work_count: 31
 tags:
   - "graph/concept"
 title: "sapienza"
@@ -17,7 +17,7 @@ title: "sapienza"
 
 *wisdom*
 
-## Opere (30)
+## Opere (31)
 
 **Augustine**
 - [Expositions on the Book of Psalms](/testi/augustine/expositions_on_the_book_of_psalms)
@@ -31,10 +31,10 @@ title: "sapienza"
 **Ortega y Gasset**
 - [Carta a un joven argentino que estudia filosofía](/testi/ortega-y-gasset/carta_a_un_joven_argentino_que_estudia_filosofía)
 - [El genio de la guerra y la guerra alemana](/testi/ortega-y-gasset/el_genio_de_la_guerra_y_la_guerra_alemana)
-- [El silencio gran brahmán](/testi/ortega-y-gasset/el_silencio_gran_brahmán)
+- [El silencio, gran brahmán](/testi/ortega-y-gasset/el_silencio_gran_brahmán)
 - [Gesticulación](/testi/ortega-y-gasset/gesticulación)
 - [La escritura](/testi/ortega-y-gasset/la_escritura)
-- [Sánchez de Toca intelectual](/testi/ortega-y-gasset/sánchez_de_toca_intelectual)
+- [Sánchez de Toca, intelectual](/testi/ortega-y-gasset/sánchez_de_toca_intelectual)
 
 **Plato**
 - [APOLOGY](/testi/plato/apology)
@@ -47,6 +47,9 @@ title: "sapienza"
 - [PROTAGORAS](/testi/plato/protagoras)
 - [SECOND ALCIBIADES](/testi/plato/second_alcibiades)
 - [THEAETETUS](/testi/plato/theaetetus)
+
+**Schopenhauer**
+- [Aphorismen zur Lebensweisheit](/testi/schopenhauer/aphorismen_zur_lebensweisheit)
 
 **Seneca**
 - [ON LEISURE](/testi/seneca/on_leisure)

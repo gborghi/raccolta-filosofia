@@ -7,7 +7,7 @@ aliases:
   - "fortuna"
   - "caso"
   - "chance"
-work_count: 18
+work_count: 19
 tags:
   - "graph/concept"
 title: "fortuna"
@@ -16,7 +16,7 @@ title: "fortuna"
 
 *fortune*
 
-## Opere (18)
+## Opere (19)
 
 **Aristotle**
 - [On Divination in Sleep (462b)](/testi/aristotle/on_divination_in_sleep_462b)
@@ -26,6 +26,9 @@ title: "fortuna"
 - [DUAL LATIN AND ENGLISH TEXT](/testi/lucretius/dual_latin_and_english_text)
 - [ON THE NATURE OF THINGS: PROSE TRANSLATION](/testi/lucretius/on_the_nature_of_things_prose_translation)
 - [ON THE NATURE OF THINGS: VERSE TRANSLATION](/testi/lucretius/on_the_nature_of_things_verse_translation)
+
+**Schopenhauer**
+- [Aphorismen zur Lebensweisheit](/testi/schopenhauer/aphorismen_zur_lebensweisheit)
 
 **Seneca**
 - [AGAMEMNON](/testi/seneca/agamemnon)

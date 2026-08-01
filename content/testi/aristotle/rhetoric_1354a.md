@@ -378,7 +378,7 @@ The above is a fairly complete account of the circumstances under which men do w
 
 13
 
-It will now be well to make a complete classification of just and unjust actions. We may begin by observing that they have been defined relatively to two kinds of law, and also relatively to two classes of persons. By the two kinds of law I mean particular law and universal law. Particular law is that which each community lays down and applies to its own members: this is partly written and partly unwritten. Universal law is the law of Nature. For there really is, as every one to some extent divines, a natural justice and injustice that is binding on all men, even on those who have no association or covenant with each other. It is this that Sophocles’ Antigone clearly means when she says that the burial of Polyneices was a just act in spite of the prohibition: she means that it was just by nature.
+It will now be well to make a complete classification of just and unjust actions. We may begin by observing that they have been defined relatively to two kinds of law, and also relatively to two classes of persons. By the two kinds of law I mean particular law and universal law. Particular law is that which each community lays down and applies to its own members: this is partly written and partly unwritten. Universal law is the law of Nature. For there really is, as every one to some extent divines, a natural justice and injustice that is binding on all men, even on those who have no association or [covenant](/concepts/covenant) with each other. It is this that Sophocles’ Antigone clearly means when she says that the burial of Polyneices was a just act in spite of the prohibition: she means that it was just by nature.
 
 Not of to-day or yesterday it is,
 

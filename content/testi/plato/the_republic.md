@@ -7934,7 +7934,7 @@ That after all nothing is pleasanter than health. But then they never knew this 
 
 Yes, I know, he said.
 
-And when persons are suffering from acute pain, you must. have heard them say that there is nothing pleasanter than to get rid of their pain?
+And when persons are [suffering](/concepts/suffering) from acute pain, you must. have heard them say that there is nothing pleasanter than to get rid of their pain?
 
 I have.
 

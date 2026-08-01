@@ -1,5 +1,5 @@
 ---
-title: "NARCISSE ou LAMANT DE LUI-MÊME"
+title: "NARCISSE ou L'AMANT DE LUI-MÊME"
 philosopher: "Rousseau"
 lang: "fr"
 edizione: "Arvensa Editions"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/rousseau/narcisse_ou_lamant_de_lui-même" data-philosopher="Rousseau"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="NARCISSE ou LAMANT DE LUI-MÊME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
+<span class="atom-split" data-atom="001" data-title="NARCISSE ou L'AMANT DE LUI-MÊME" data-chapter="" data-kind="intro" data-srclang="fr"></span>
 
 J'ai écrit cette comédie à l'âge de dix-huit ans[47], et je me suis gardé de la montrer, aussi longtemps que j'ai tenu quelque compte de la réputation d'auteur. Je me suis enfin senti le courage de la publier, mais je n'aurai jamais celui d'en rien dire. Ce n'est donc pas de ma pièce, mais de moi-même qu'il s'agit ici.
 
@@ -148,7 +148,7 @@ Eh bien, où est le mal ? Puisque les femmes aujourd'hui cherchent à se rapproc
 
 LUCINDE.
 
-Je ne puis me faire à des modes aussi ridicules. Peut-être notre sexe aura-t-il le bonheur de n'en plaire pas moins, quoiqu'il devienne plus estimable. Mais pour les hommes, je plains leur aveuglement. Que prétend cette jeunesse étourdie en usurpant tous nos droits ? Espèrent-ils de mieux plaire aux femmes en s'efforçant de leur ressembler ?
+Je ne puis me faire à des [modes](/concepts/mode) aussi ridicules. Peut-être notre sexe aura-t-il le bonheur de n'en plaire pas moins, quoiqu'il devienne plus estimable. Mais pour les hommes, je plains leur aveuglement. Que prétend cette jeunesse étourdie en usurpant tous nos droits ? Espèrent-ils de mieux plaire aux femmes en s'efforçant de leur ressembler ?
 
 MARTON.
 

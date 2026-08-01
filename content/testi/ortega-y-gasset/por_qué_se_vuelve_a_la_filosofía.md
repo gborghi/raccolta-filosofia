@@ -1,5 +1,5 @@
 ---
-title: "Por qué se vuelve a la filosofía"
+title: "¿Por qué se vuelve a la filosofía?"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/por_qué_se_vuelve_a_la_filosofía" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Por qué se vuelve a la filosofía" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="¿Por qué se vuelve a la filosofía?" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En febrero de 1929 comencé un curso en la Universidad de Madrid titulado: «¿Qué es filosofía?» El cierre de la Universidad por causas políticas y mi dimisión consiguiente me obligaron a continuarlo en la profanidad de un teatro. Como tal vez algunos lectores argentinos pudieran interesarse en los temas de aquel curso, hago el ensayo de publicar en La Nación sus primeras lecciones. En ellas reproduzco algunas cosas de mis conferencias en Amigos del Arte y en la Facultad de Filosofía y Letras de Buenos Aires.
 
@@ -178,7 +178,7 @@ Pero si preguntamos de dónde viene ese apetito de universo, de integridad del m
 
 Se dice que el hombre siente nativamente curiosidad. Y esto es lo que piensa Aristóteles cuando a la pregunta: «¿por qué el hombre se esfuerza en conocer?», responde como un médico de Molière: porque le es natural. «Señal —prosigue— de que le es natural este afán es su prurito por percibir», sobre todo, por mirar. Aquí Aristóteles se acuerda de Platón, que situaba a los hombres de ciencia y a los filósofos en la especie de los filotheamones, de los «amigos de mirar», de los que van a espectáculos. Pero mirar es lo contrario que conocer: mirar es recorrer con los ojos lo que está ahí —y conocer es buscar lo que no está ahí: el ser de las cosas. Es precisamente un no contentarse con lo que se puede ver, antes bien, un negar lo que se ve como insuficiente y un postular lo invisible —el «más allá» esencial.
 
-Aristóteles con esta indicación y con otras muchas que abundan en sus libros, nos revela cuál es su idea del origen del conocimiento. Según él, consistiría éste simplemente en el uso o ejercicio de una facultad que el hombre tiene, como mirar sería no más que usar de la visión. Tenemos sentidos, tenemos memoria que conserva los datos de aquéllos; tenemos experiencia en que esa memoria se selecciona y decanta. Todos ellos son mecanismos natos del organismo humano, que el hombre, quiera o no, ejercita. Pero nada de eso es conocimiento. Ni aunque añadamos las otras «facultades» más estrictamente llamadas intelectuales, como abstraer, comparar, colegir, etcétera… La inteligencia, o conjunto de todos esos poderes, es también un mecanismo con que el hombre se encuentra dotado y que evidentemente sirve, más o menos, para conocer. Pero el conocer mismo no es una facultad, dote o mecanismo; es, por lo contrario, una tarea que el hombre se impone. Y una tarea que acaso es imposible. ¡Hasta tal punto no es un instinto el conocimiento!
+Aristóteles con esta indicación y con otras muchas que abundan en sus libros, nos revela cuál es su idea del origen del conocimiento. Según él, consistiría éste simplemente en el uso o ejercicio de una facultad que el hombre tiene, como mirar sería no más que usar de la visión. Tenemos sentidos, tenemos [memoria](/concepts/memory) que conserva los datos de aquéllos; tenemos experiencia en que esa memoria se selecciona y decanta. Todos ellos son mecanismos natos del organismo humano, que el hombre, quiera o no, ejercita. Pero nada de eso es conocimiento. Ni aunque añadamos las otras «facultades» más estrictamente llamadas intelectuales, como abstraer, comparar, colegir, etcétera… La inteligencia, o conjunto de todos esos poderes, es también un mecanismo con que el hombre se encuentra dotado y que evidentemente sirve, más o menos, para conocer. Pero el conocer mismo no es una facultad, dote o mecanismo; es, por lo contrario, una tarea que el hombre se impone. Y una tarea que acaso es imposible. ¡Hasta tal punto no es un instinto el conocimiento!
 
 Al conocer usamos de nuestras facultades, pero no por un simple afán de ejercitarlas, sino para subvenir a una necesidad o menester que sentimos, la cual necesidad no tiene por sí misma nada que ver con ellas y para la que tal vez estas facultades intelectuales nuestras no son adecuadas o, por lo menos, suficientes. Conste, pues, que conocer no es, sin más, ejercitar las facultades intelectuales, pues no está dicho que el hombre logre conocer: lo único que es un hecho es que se esfuerza penosamente en conocer, que se pregunta por el trasmundo del ser y se extenúa en llegar a él.
 

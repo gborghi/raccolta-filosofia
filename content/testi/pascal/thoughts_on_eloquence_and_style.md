@@ -86,7 +86,7 @@ XXI. When we cannot attain to truth, it is as well that there should be extant s
 
 Man is prone to malignity; yet it is not directed against the unhappy, but against the proud and happy: to suppose the contrary is a mistake.
 
-+ For concupiscence is the source of all our agitations; and humanity.................
++ For [concupiscence](/concepts/concupiscence) is the source of all our agitations; and humanity.................
 
 — + We should endeavour to please persons of humane and tender dispositions.
 

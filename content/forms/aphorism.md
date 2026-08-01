@@ -5,7 +5,7 @@ label_it: "aforisma"
 label_en: "aphorism"
 aliases:
   - "Nietzsche"
-work_count: 4
+work_count: 5
 tags:
   - "graph/form"
 title: "aforisma"
@@ -14,7 +14,7 @@ title: "aforisma"
 
 *aphorism*
 
-## Opere (4)
+## Opere (5)
 
 **Marx**
 - [THESES ON FEUERBACH, 1845](/testi/marx/theses_on_feuerbach_1845)
@@ -25,3 +25,6 @@ title: "aforisma"
 
 **Ortega y Gasset**
 - [Revés de almanaque](/testi/ortega-y-gasset/revés_de_almanaque)
+
+**Schopenhauer**
+- [Aphorismen zur Lebensweisheit](/testi/schopenhauer/aphorismen_zur_lebensweisheit)

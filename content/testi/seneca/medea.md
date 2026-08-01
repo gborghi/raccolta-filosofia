@@ -510,7 +510,7 @@ JASON
 
 MEDEA
 
-[549] [Aside.] Thus does he love his sons? ’Tis well! I have him! The palce to wound him is laid bare. [To JASON.] As I depart, my final message, at least, grant me to speak; grant me to give the last embrace; e’en that will be a boon. With my latest utterance I beg thee now; let not any words my distracted grief has poured forth remain within my mind; let the memory of my better self stay with thee, and let these words spoken in wrath be quite forgot.
+[549] [Aside.] Thus does he love his sons? ’Tis well! I have him! The palce to wound him is laid bare. [To JASON.] As I depart, my final message, at least, grant me to speak; grant me to give the last embrace; e’en that will be a boon. With my latest utterance I beg thee now; let not any words my distracted grief has poured forth remain within my mind; let the [memory](/concepts/memory) of my better self stay with thee, and let these words spoken in wrath be quite forgot.
 
 JASON
 
@@ -542,7 +542,7 @@ CHORUS
 
 [643] The bristling boar, irresistible in his thrust, laid Ancaeus low; thou, Meleager, dost impiously slay thy mother’s brother and diest by thine engraged mother’s hand. All these deserved the charge for which that tender boy, sought vainly by mighty Hercules, atoned by death – the boy snatched away, alas, midst peaceful waters. Go now, ye brave, plough the sea, whose streams ye ought to dread.
 
-[652] Idmon, though he well knew his fate, was slain by a serpent on Libya’s sands; true to all, but false to himself alone, Mopsus fell and saw not Thebes again. If he told truth as to the future, Thetis’ husband shall in exile wander. Nauplius, while striving to wreck the Argives by false beacon fires, shall fall headlong into the deep; his son shall perish and pay the penalty of his father’s sin; Oileus, too, dying midst flame and flood; redeeming from death her lord of Pherae, the wife shall perish, giving up her life for her husband’s sake. Pelias himself, who bade the prize of the golden spoil be brought away in the first ship, seething in boiling pot, wandering midst waters close confined, perished by fire. Enough now, ye gods, have ye avenged the sea; spare him who was ordered to the task.
+[652] Idmon, though he well knew his fate, was slain by a serpent on Libya’s sands; true to all, but false to himself alone, Mopsus fell and saw not Thebes again. If he told truth as to the future, Thetis’ husband shall in exile wander. Nauplius, while [striving](/concepts/conatus) to wreck the Argives by false beacon fires, shall fall headlong into the deep; his son shall perish and pay the penalty of his father’s sin; Oileus, too, dying midst flame and flood; redeeming from death her lord of Pherae, the wife shall perish, giving up her life for her husband’s sake. Pelias himself, who bade the prize of the golden spoil be brought away in the first ship, seething in boiling pot, wandering midst waters close confined, perished by fire. Enough now, ye gods, have ye avenged the sea; spare him who was ordered to the task.
 
 NURSE
 

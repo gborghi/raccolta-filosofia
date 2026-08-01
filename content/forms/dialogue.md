@@ -6,7 +6,7 @@ label_en: "dialogue"
 aliases:
   - "Hume"
   - "conversazione"
-work_count: 48
+work_count: 50
 tags:
   - "graph/form"
 title: "dialogo"
@@ -15,7 +15,7 @@ title: "dialogo"
 
 *dialogue*
 
-## Opere (48)
+## Opere (50)
 
 **Augustine**
 - [Two Books of Soliloquies](/testi/augustine/two_books_of_soliloquies)
@@ -31,6 +31,10 @@ title: "dialogo"
 
 **Hume**
 - [DIALOGUES CONCERNING NATURAL RELIGION](/testi/hume/dialogues_concerning_natural_religion)
+
+**Leibniz**
+- [A Philosopher’s Creed (1673)](/testi/leibniz/a_philosophers_creed_1673)
+- [Extracts from the ‘New Essays on the Understanding’ (1704)](/testi/leibniz/extracts_from_the_new_essays_on_the_understanding_1704)
 
 **Ortega y Gasset**
 - [Al margen del libro Los iberos](/testi/ortega-y-gasset/al_margen_del_libro_los_iberos)

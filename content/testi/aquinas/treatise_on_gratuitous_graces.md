@@ -3145,7 +3145,7 @@ seem that the moral virtues do not pertain to the active life.
 
 On the contrary, Isidore says (De Summo Bono iii, 15): "In the active life all vices must first
 of all be extirpated by the practice of good works, in order that in the contemplative life the mind's
-eye being purified one may advance to the contemplation of the Divine light." Now all vices are
+eye being purified one may advance to the contemplation of the [Divine light](/positions/divine_illumination)." Now all vices are
 not extirpated save by acts of the moral virtues. Therefore the acts of the moral virtues pertain to
 the active life.
 

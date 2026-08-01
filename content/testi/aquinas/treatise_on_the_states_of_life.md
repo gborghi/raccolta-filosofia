@@ -3407,7 +3407,7 @@ is quoted, as preferring discretion whereby a man moderates all his actions, to 
 and all such observances.
 Accordingly we must say that the work of the active life is twofold. one proceeds from the
 fulness of contemplation, such as teaching and preaching. Wherefore Gregory says (Hom. v in
-Ezech.) that the words of  Ps. 144:7, "They shall publish the memory of . . . Thy sweetness," refer
+Ezech.) that the words of  Ps. 144:7, "They shall publish the [memory](/concepts/memory) of . . . Thy sweetness," refer
 "to perfect men returning from their contemplation." And this work is more excellent than simple
 contemplation. For even as it is better to enlighten than merely to shine, so is it better to give to
 others the fruits of one's contemplation than merely to contemplate. The other work of the active

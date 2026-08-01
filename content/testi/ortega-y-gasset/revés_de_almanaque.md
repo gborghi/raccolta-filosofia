@@ -112,7 +112,7 @@ El libro de Waldo Frank Redescubrimiento de América parte del mismo error: supo
 
 * * *
 
-Lenin fue durante su juventud muy aficionado a la caza. Luego se la prohibió a sí mismo, por considerar que no era tal ejercicio útil para la revolución a que consagraba su vida. Después de la victoria se le organizó en Moscú una cacería de zorras. Los acompañantes se arreglaron de modo que le entrase una pieza. La vulpeja estuvo un rato quieta delante de Lenin, como en una fábula. Pero Lenin no disparó, y el animal huyó a la espesura. Luego preguntaban a Lenin por qué no había tirado. «¡Estaba tan bonita!», repuso Lenin.
+Lenin fue durante su juventud muy aficionado a la caza. Luego se la prohibió a sí mismo, por considerar que no era tal ejercicio útil para la revolución a que consagraba su vida. Después de la victoria se le organizó en Moscú una cacería de zorras. Los acompañantes se arreglaron de [modo](/concepts/mode) que le entrase una pieza. La vulpeja estuvo un rato quieta delante de Lenin, como en una fábula. Pero Lenin no disparó, y el animal huyó a la espesura. Luego preguntaban a Lenin por qué no había tirado. «¡Estaba tan bonita!», repuso Lenin.
 
 * * *
 
@@ -310,7 +310,7 @@ La psique masculina, en general, tiene una estructura menos solidaria y compacta
 
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
-Esta diferente estructura explica la facilidad con que el hombre pierde el equilibrio interno. Es más: se habitúa de tal modo al desequilibrio, que acaba por sentir fruición en él y busca el riesgo, el peligro, y se lanza a la loca empresa. En la mujer hay una excesiva propensión a lo contrario: no sabe vivir en desequilibrio y sucumbe cuando lo padece.
+Esta diferente estructura explica la facilidad con que el hombre pierde el equilibrio interno. Es más: se habitúa de tal [modo](/concepts/mode) al desequilibrio, que acaba por sentir fruición en él y busca el riesgo, el peligro, y se lanza a la loca empresa. En la mujer hay una excesiva propensión a lo contrario: no sabe vivir en desequilibrio y sucumbe cuando lo padece.
 
 Este que podíamos llamar «instinto de la conservación del equilibrio» es un maravilloso complemento a la inquietud varonil, y permite que en las horas de desesperación, de atropellamiento, el hombre encuentre en la mujer reposo como en una tierra firme. Pero ese instinto padece también aberraciones y, exagerándose a sí mismo, engendra formas patológicas. Lleva, por ejemplo, a la incapacidad de salir de sí mismo, anquilosa a la persona en lo que ya es y desde siempre fue. De aquí, por ejemplo, la falta de curiosidad vital en la mujer española, prototipo del irrompible equilibrio. Se dice que es curiosa. Pero esa su curiosidad no es la vital, sino todo lo contrario. El prurito de conocer los chismes que corren sobre las personas de la sociedad que uno ya conoce no lleva a nada vitalmente nuevo, no amplía nuestro horizonte con formas, modos y excitaciones de vida distintos del repertorio en que estábamos de antemano inscritos. Al contrario, es signo de que no queremos salir más allá de él, que estamos decididos a recluirnos en lo mismo y de siempre. No hay nada más curioso que el aldeano, precisamente porque está resuelto a no salir jamás de su aldea. La curiosidad de la portera sólo se ocupa de los vecinos de la casa. En rigor, no es curiosidad, porque no se busca más que saber en detalle lo que ya se sabe en general. Es nimiedad, miopía, que quiere decir óptica de ratón.
 

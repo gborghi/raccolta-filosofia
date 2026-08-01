@@ -18,5 +18,5 @@ title: "Cicerone"
 - [City of God](/testi/augustine/city_of_god)
 
 **Ortega y Gasset**
-- [Sobre el proceso Rull Lamentación](/testi/ortega-y-gasset/sobre_el_proceso_rull_lamentación)
+- [Sobre el proceso Rull.— Lamentación](/testi/ortega-y-gasset/sobre_el_proceso_rull_lamentación)
 - [Sobre las carreras](/testi/ortega-y-gasset/sobre_las_carreras)

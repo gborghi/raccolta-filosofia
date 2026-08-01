@@ -1,5 +1,5 @@
 ---
-title: "El sentido histórico 2"
+title: "El sentido histórico (2)"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,11 +18,11 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/el_sentido_histórico_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="El sentido histórico 2" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="El sentido histórico (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 En el siglo XIX, el sentido histórico se ha abierto como una nueva pupila, como un nuevo órgano humano, el más humano de todos, porque con él el hombre percibe al hombre.
 
-El recién nacido no sabe de distancias: su mundo es un plano pegado a sus ojos. Necesita un aprendizaje de la acomodación ocular para ir situando los objetos en perspectiva. Al cabo de él, el plano del mundo se hace cóncavo y adquiere profundidad. Parejamente, la comprensión que el hombre tiene de los pueblos pasados y presentes comienza por ser plana; quiero decir que los tiempos y razas más diversos son interpretados según un esquema único: el modo de ser humano propio del presente. Todavía en el siglo XVIII, el europeo ve al griego del siglo V antes de J. C., o al chino como un alter ego. Racine, al contemplar las almas antiguas que introduce en sus tragedias, no acomoda su visión psicológica a la lejanía de aquellas existencias. No sale de sí mismo para trasladarse a aquel otro modo de vida que fue Grecia y fue Roma, sino, al revés, trae lo distante cerca de sí, hace de lo diferente un similar de sí mismo y supone que el ánima antigua funciona en todo lo esencial como la de un caballero o una dama de Luis XIV.
+El recién nacido no sabe de distancias: su mundo es un plano pegado a sus ojos. Necesita un aprendizaje de la acomodación ocular para ir situando los objetos en perspectiva. Al cabo de él, el plano del mundo se hace cóncavo y adquiere profundidad. Parejamente, la comprensión que el hombre tiene de los pueblos pasados y presentes comienza por ser plana; quiero decir que los tiempos y razas más diversos son interpretados según un esquema único: el [modo](/concepts/mode) de ser humano propio del presente. Todavía en el siglo XVIII, el europeo ve al griego del siglo V antes de J. C., o al chino como un alter ego. Racine, al contemplar las almas antiguas que introduce en sus tragedias, no acomoda su visión psicológica a la lejanía de aquellas existencias. No sale de sí mismo para trasladarse a aquel otro modo de vida que fue Grecia y fue Roma, sino, al revés, trae lo distante cerca de sí, hace de lo diferente un similar de sí mismo y supone que el ánima antigua funciona en todo lo esencial como la de un caballero o una dama de Luis XIV.
 
 El sentido histórico comienza cuando se sospecha que la vida humana en otros tiempos y pueblos es diferente de lo que es en nuestra edad y en nuestro ámbito cultural. La diferencia es la distancia cualitativa. El sentido histórico percibe esta distancia psicológica que existe entre otros hombres y nosotros.
 

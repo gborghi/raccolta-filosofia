@@ -68,7 +68,7 @@ IV
 
 Pero, además, resulta demasiado pueril para no despertar sospechas, que se quiera entrar en una reforma de la moneda en medio de una crisis radical del Poder público. Esa reforma implica uno de los efectos más graves para la estructura social de un pueblo, a saber: el desplazamiento de la riqueza, la depresión —cuando menos la depresión— de ciertas clases sociales cuya economía queda cercenada. Otra raíz del problema particular que penetra hasta lo más hondo en la vida integral de un país.
 
-Pero, además, nadie ignora que en una estabilización lo de menos es ella misma. Lo de más es que obliga en la etapa de postestabilización a una política no sólo financiera, sino directamente industrial y comercial sumamente precisa, pronta y eficiente. De otro modo sobreviene una catástrofe. ¿Y se puede hacer todo eso sin un Estado en punto? ¡Vamos, hombre!
+Pero, además, nadie ignora que en una estabilización lo de menos es ella misma. Lo de más es que obliga en la etapa de postestabilización a una política no sólo financiera, sino directamente industrial y comercial sumamente precisa, pronta y eficiente. De otro [modo](/concepts/mode) sobreviene una catástrofe. ¿Y se puede hacer todo eso sin un Estado en punto? ¡Vamos, hombre!
 
 Si algo se ha aprendido en el mundo durante estos últimos años es que todos los fenómenos de la vida pública poseen una solidaridad entre sí superior a cuanto podía imaginarse. Se está viendo que las formas de la convivencia humana actual traban unas cosas con otras tan prietamente, que casi es angustioso. Dentro de cada nación y entre las naciones. La última experiencia grave se ha hecho a cuenta de los Estados Unidos y su pretensión de particularismo.
 

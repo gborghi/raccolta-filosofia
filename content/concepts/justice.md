@@ -6,7 +6,7 @@ label_en: "justice"
 aliases:
   - "iustitia"
   - "diritto"
-work_count: 37
+work_count: 38
 tags:
   - "graph/concept"
 title: "giustizia"
@@ -15,7 +15,7 @@ title: "giustizia"
 
 *justice*
 
-## Opere (37)
+## Opere (38)
 
 **Aquinas**
 - [Treatise on the Cardinal Virtues](/testi/aquinas/treatise_on_the_cardinal_virtues)
@@ -44,6 +44,9 @@ title: "giustizia"
 - [METAPHYSICS OF MORALS: THE PHILOSOPHY OF LAW](/testi/kant/metaphysics_of_morals_the_philosophy_of_law)
 - [OF THE INJUSTICE OF COUNTERFEITING BOOKS](/testi/kant/of_the_injustice_of_counterfeiting_books)
 
+**Leibniz**
+- [A Philosopher’s Creed (1673)](/testi/leibniz/a_philosophers_creed_1673)
+
 **Locke**
 - [A LETTER CONCERNING TOLERATION, 1689](/testi/locke/a_letter_concerning_toleration_1689)
 
@@ -55,11 +58,11 @@ title: "giustizia"
 - [El principio del trabajo](/testi/ortega-y-gasset/el_principio_del_trabajo)
 - [Glosas](/testi/ortega-y-gasset/glosas)
 - [Guerra y ética](/testi/ortega-y-gasset/guerra_y_ética)
-- [Ictiosauros y editores clandestinos Urgencia de una rectificación moral](/testi/ortega-y-gasset/ictiosauros_y_editores_clandestinos_urgencia_de_una_rectificación_moral)
+- [Ictiosauros y editores clandestinos.— Urgencia de una rectificación moral](/testi/ortega-y-gasset/ictiosauros_y_editores_clandestinos_urgencia_de_una_rectificación_moral)
 - [Las formas de gobierno](/testi/ortega-y-gasset/las_formas_de_gobierno)
-- [Los crímenes sociales Comentarios a un discurso](/testi/ortega-y-gasset/los_crímenes_sociales_comentarios_a_un_discurso)
+- [Los crímenes sociales.— Comentarios a un discurso](/testi/ortega-y-gasset/los_crímenes_sociales_comentarios_a_un_discurso)
 - [Los votos van al presidio](/testi/ortega-y-gasset/los_votos_van_al_presidio)
-- [Política social Contra los asesinos](/testi/ortega-y-gasset/política_social_contra_los_asesinos)
+- [Política social.— Contra los asesinos](/testi/ortega-y-gasset/política_social_contra_los_asesinos)
 - [Un libro sobre la filosofía del Derecho](/testi/ortega-y-gasset/un_libro_sobre_la_filosofía_del_derecho)
 - [Ética y metafísica de la guerra](/testi/ortega-y-gasset/ética_y_metafísica_de_la_guerra)
 

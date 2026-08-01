@@ -6,7 +6,7 @@ label_en: "infinity"
 aliases:
   - "infinitum"
   - "Unendlichkeit"
-work_count: 18
+work_count: 19
 tags:
   - "graph/concept"
 title: "infinito"
@@ -15,7 +15,7 @@ title: "infinito"
 
 *infinity*
 
-## Opere (18)
+## Opere (19)
 
 **Aristotle**
 - [On Indivisible Lines (968a)](/testi/aristotle/on_indivisible_lines_968a)
@@ -33,6 +33,9 @@ title: "infinito"
 
 **Kant**
 - [Allgemeine Naturgeschichte und Theorie des Himmels](/testi/kant/allgemeine_naturgeschichte_und_theorie_des_himmels)
+
+**Leibniz**
+- [Monadology (1714)](/testi/leibniz/monadology_1714)
 
 **Lucretius**
 - [CONTENTS OF THE LATIN TEXT](/testi/lucretius/contents_of_the_latin_text)

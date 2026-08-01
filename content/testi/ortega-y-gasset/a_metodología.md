@@ -1,5 +1,5 @@
 ---
-title: "a Metodología"
+title: "a) Metodología"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,11 +18,11 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/a_metodología" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="a Metodología" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="a) Metodología" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Ese proceso de lo dado a otro concepto es lo que se llama la relación de principio y consecuencia. Si la experiencia es hallar pasivamente y la lógica aclarar y distinguir, es la metafísica concluir de un concepto a otro.
 
-Ahora bien: esa relación de principio a consecuencia no es menos contradictoria que las ya apuntadas de inherencia, causalidad, etcétera. La consecuencia sale del principio, no hay si no de dónde sacarla. Esto quiere decir que se halla en el principio; pero si se halla en él no necesita seguirse de él, sino que es el mismo principio. Y si no es el mismo principio no puede ser su consecuencia. De modo que la consecuencia necesita ser distinta del principio y a la vez no ser distinta del principio.
+Ahora bien: esa relación de principio a consecuencia no es menos contradictoria que las ya apuntadas de inherencia, causalidad, etcétera. La consecuencia sale del principio, no hay si no de dónde sacarla. Esto quiere decir que se halla en el principio; pero si se halla en él no necesita seguirse de él, sino que es el mismo principio. Y si no es el mismo principio no puede ser su consecuencia. De [modo](/concepts/mode) que la consecuencia necesita ser distinta del principio y a la vez no ser distinta del principio.
 
 Cuando demostramos que los ángulos de la base de un triángulo isósceles son iguales, es el triángulo isósceles el principio, y la igualdad de sus ángulos básicos la consecuencia. Sin embargo, para concluir ésta de aquél necesitamos suponer que una perpendicular tirada del vértice a la base divide al triángulo en dos triángulos rectángulos iguales. Ahora bien: si esta consideración es necesaria para obtener la consecuencia, es evidente que el triángulo, tal y como primero aparecía, no era el principio completo y que la feliz idea de tirar la perpendicular lo ha completado. Una vez completo el principio hallamos que él mismo es la consecuencia.
 

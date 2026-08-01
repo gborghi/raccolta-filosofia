@@ -134,7 +134,7 @@ Saltando de su esfera de acción propia los militares cumplen un acto de instruc
 
 No basta con que generosamente posterguemos nuestros intereses de grupo; es menester que consigamos dominar las propensiones mentales que nos ha impuesto nuestro oficio.
 
-El órgano de percepción tiene que ser adecuado al objeto percibido. Con el oído no tocamos los colores. Con la visión no olemos los sonidos. Del mismo modo, el Ejército no puede salir al encuentro de los hechos nacionales por él suscitados con ideas y hábitos puramente militares. Si no atiende esto, cada paso será un tropezón, como el de agosto. ¿No fue un tropezón? En junio no existía el menor equívoco entre oficiales y obreros. En agosto se sembraba este equívoco, que sigue madurando.
+El órgano de percepción tiene que ser adecuado al objeto percibido. Con el oído no tocamos los colores. Con la visión no olemos los sonidos. Del mismo [modo](/concepts/mode), el Ejército no puede salir al encuentro de los hechos nacionales por él suscitados con ideas y hábitos puramente militares. Si no atiende esto, cada paso será un tropezón, como el de agosto. ¿No fue un tropezón? En junio no existía el menor equívoco entre oficiales y obreros. En agosto se sembraba este equívoco, que sigue madurando.
 
 ¿Puede quien sea patriota y no padezca de estupidez juzgar esto indiferente?
 

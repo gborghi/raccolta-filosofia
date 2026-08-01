@@ -30,7 +30,7 @@ Existe el prejuicio inaceptable de no considerar bellos más que los paisajes do
 
 En cambio, don Francisco Giner, para quien sólo lo inútil era necesario, solía insistir sobre la superior belleza del paisaje castellano.
 
-No es verde, sin duda; pero es, en cambio, un panorama de coral y de oro, de violeta y de plata cristalina. Los fisiólogos saben muy bien que los colores amarillo y rojo aumentan de un modo automático nuestras pulsaciones, y que su número crece tanto más cuanto más extensa es la superficie de tonos calientes extendida ante nosotros.
+No es verde, sin duda; pero es, en cambio, un panorama de coral y de oro, de violeta y de plata cristalina. Los fisiólogos saben muy bien que los colores amarillo y rojo aumentan de un [modo](/concepts/mode) automático nuestras pulsaciones, y que su número crece tanto más cuanto más extensa es la superficie de tonos calientes extendida ante nosotros.
 
 Pero se lamentan los investigadores de no poder hacer sus experimentos con grandes planos encendidos; son gentes del centro y del norte europeos, donde los campos verdes retardan el compás del corazón. Pues bien; aquí, en Castilla, encontrarán el paisaje incendiado que no existe en Europa; aquí, los campos rojos y áureos ponen los pulsos al galope.
 

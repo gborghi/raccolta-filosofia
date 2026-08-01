@@ -24,7 +24,7 @@ Aspiramos a instaurar un Estado que lo sea para todos los españoles. Queremos h
 
 Hace falta preparar las mentes para el perfil del nuevo Estado y organizar a la nación toda con vistas a él. Desde la capital hasta el pueblín. Porque antes de que el Estado sea ley tiene que ser una realidad plasmada ya y articulada en la vida española.
 
-Todo esto implica un supuesto ineludible. Tiene que haber una deliberación serena y solemne, donde de algún modo pueda llegar la voz de todos. Sólo de tal deliberación puede salir un dictamen verdaderamente nacional y magnánimo. Lo demás será perpetuación de la tertulia, el grupo angosto, la banda maniática.
+Todo esto implica un supuesto ineludible. Tiene que haber una deliberación serena y solemne, donde de algún [modo](/concepts/mode) pueda llegar la voz de todos. Sólo de tal deliberación puede salir un dictamen verdaderamente nacional y magnánimo. Lo demás será perpetuación de la tertulia, el grupo angosto, la banda maniática.
 
 Cuando un pueblo se encuentra ante el hecho insubsanable que hoy halla ante sí todo español —su Estado en entredicho—, no hay otra cosa posible sino que los ciudadanos tomen en sus propias manos la dirección intransferible de sus propios destinos.
 

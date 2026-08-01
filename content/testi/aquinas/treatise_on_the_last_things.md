@@ -906,7 +906,7 @@ of the perfection of a right intention, so that in them there is no admixture of
 or merits requiring discussion. But believers in whom the foundation of faith remains, have at least
 a praiseworthy act of faith, which though it is not meritorious without charity, yet is in itself directed
 to merit, and consequently they will be subjected to the discussion of merits. Consequently, believers
-who were at least counted as citizens of the City of God will be judged as citizens, and sentence
+who were at least counted as citizens of the [City of God](/concepts/two_cities) will be judged as citizens, and sentence
 of death will not be passed on them without a discussion of their merits; whereas unbelievers will
 be condemned as foes, who are wont among men to be exterminated without their merits being
 discussed.
@@ -4227,7 +4227,7 @@ due.
 Others again, distinguish the three aureoles in accordance with those things whereby we are
 most signally conformed to Christ. For He was the mediator between the Father and the world.
 Hence He was a doctor, by manifesting to the world the truth which He had received from the
-Father; He was a martyr, by suffering the persecution of the world; and He was a virgin, by His
+Father; He was a martyr, by [suffering](/concepts/suffering) the persecution of the world; and He was a virgin, by His
 personal purity. Wherefore doctors, martyrs and virgins are most perfectly conformed to Him: and
 for this reason an aureole is due to them.
 
@@ -4240,7 +4240,7 @@ is not due to it.
 
 Reply to Objection 2: Although poverty is a work of perfection, it does not take the highest
 place in a spiritual conflict, because the love of temporalities assails a man less than carnal
-concupiscence or persecution whereby his own body is broken. Hence an aureole is not due to
+[concupiscence](/concepts/concupiscence) or persecution whereby his own body is broken. Hence an aureole is not due to
 poverty; but judicial power by reason of the humiliation consequent upon poverty. The gloss quoted
 takes aureole in the broad sense for any reward given for excellent merit.
 We reply in the same way to the Third and Fourth Objections.
@@ -5658,7 +5658,7 @@ the resurrection, no body will act on another, least of all so as to induce corr
 of nature, but there will only be action to the effect of punishing them by order of the divine justice.
 Wherefore those bodies to which pain of sense is not due by divine justice will not suffer punishment.
 On the other hand, the bodies of the saints will be impassible, because they will lack the capability
-of suffering; hence impassibility in them will be a gift, but not in children.
+of [suffering](/concepts/suffering); hence impassibility in them will be a gift, but not in children.
 
 <span class="atom-split" data-atom="097" data-title="Whether these same souls suffer spiritual affliction on account of the state in which they are?" data-chapter="Whether these same souls suffer spiritual affliction on account of the state in which they are?" data-kind="atom" data-srclang="en"></span>
 

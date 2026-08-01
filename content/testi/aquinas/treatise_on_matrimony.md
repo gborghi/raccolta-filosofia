@@ -3552,7 +3552,7 @@ the point of view of affection. And since the reason for affection towards one's
 less but even greater than the reasons for affection towards one's father's brother, inasmuch as the
 son is more akin to the father than the father to the son (Ethic. viii, 12), therefore did the Church
 equally prohibit the degrees of consanguinity in uncles and nephews. On the other hand the Old
-Law in debarring certain persons looked chiefly to the danger of concupiscence arising from
+Law in debarring certain persons looked chiefly to the danger of [concupiscence](/concepts/concupiscence) arising from
 cohabitation; and debarred those persons who were in closer intimacy with one another on account
 of their living together. Now it is more usual for a niece to live with her uncle than an aunt with
 her nephew: because a daughter is more identified with her father, being part of him, whereas a
@@ -4821,7 +4821,7 @@ those assaults of the demons against which they are chiefly instituted.
 Reply to Objection 4: Witchcraft sometimes causes an impediment in relation to all, sometimes
 in relation to one only: because the devil is a voluntary cause not acting from natural necessity.
 Moreover, the impediment resulting from witchcraft may result from an impression made by the
-demon on a man's imagination, whereby he is deprived of the concupiscence that moves him in
+demon on a man's imagination, whereby he is deprived of the [concupiscence](/concepts/concupiscence) that moves him in
 regard to a particular woman and not to another.
 
 <span class="atom-split" data-atom="093" data-title="Whether madness is an impediment to marriage?" data-chapter="Whether madness is an impediment to marriage?" data-kind="atom" data-srclang="en"></span>
@@ -5884,7 +5884,7 @@ for inscription to precede, whereby he binds himself under pain of retaliation i
 case.
 
 Reply to Objection 6: According to a Decretal (Extra, De Simonia, cap. Licet), "there are three
-modes of procedure in criminal cases. First, by inquisition, which should be preceded by notoriety;
+[modes](/concepts/mode) of procedure in criminal cases. First, by inquisition, which should be preceded by notoriety;
 secondly, by accusation, which should be preceded by inscription; [*Cf. SS, Q[33], A[7]] thirdly,
 by denunciation, which should be preceded by fraternal correction." Accordingly the saying of our
 Lord refers to the case where the process is by way of denunciation, and not by accusation, because
@@ -6238,7 +6238,7 @@ of his service according to Rom. 13:7, "Render . . . to all men their dues, trib
 is due," etc. Therefore husband and wife are mutually bound to the payment of the marriage debt.
 Further, marriage is directed to the avoiding of fornication (1 Cor. 7:2). But this could not be
 the effect of marriage, if the one were not bound to pay the debt to the other when the latter is
-troubled with concupiscence. Therefore the payment of the debt is an obligation of precept.
+troubled with [concupiscence](/concepts/concupiscence). Therefore the payment of the debt is an obligation of precept.
 
 I answer that, Marriage was instituted especially as fulfilling an office of nature. Wherefore
 in its act the movement of nature must be observed according to which the nutritive power
@@ -6549,7 +6549,7 @@ reason prevent her from paying the debt.
 <span class="atom-split" data-atom="126" data-title="Whether it is forbidden to demand the debt on holy days?" data-chapter="Whether it is forbidden to demand the debt on holy days?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that a person ought not to be forbidden to ask for the debt on holy
-days. For the remedy should be applied when the disease gains strength. Now concupiscence may
+days. For the remedy should be applied when the disease gains strength. Now [concupiscence](/concepts/concupiscence) may
 possibly gain strength on a feast day. Therefore the remedy should be applied then by asking for
 the debt.
 

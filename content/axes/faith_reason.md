@@ -7,7 +7,7 @@ positions:
   - "harmony_of_faith_reason"
   - "fideism"
   - "faith_seeking_understanding"
-work_count: 33
+work_count: 34
 tags:
   - "graph/axis"
 title: "Fede e ragione"
@@ -21,11 +21,11 @@ title: "Fede e ragione"
 
 ## Posizioni su questo asse
 
-- [armonia di fede e ragione](/positions/harmony_of_faith_reason) — 8 opere · contro [fideismo](/positions/fideism)
+- [armonia di fede e ragione](/positions/harmony_of_faith_reason) — 9 opere · contro [fideismo](/positions/fideism)
 - [fideismo](/positions/fideism) — 3 opere · contro [teismo dimostrativo](/positions/demonstrative_theism)
 - [fede in cerca d'intelletto](/positions/faith_seeking_understanding) — 9 opere
 
-## Opere (33)
+## Opere (34)
 
 **Aquinas**
 - [Treatise on Sacred Doctrine](/testi/aquinas/treatise_on_sacred_doctrine)
@@ -61,6 +61,9 @@ title: "Fede e ragione"
 
 **Kant**
 - [RELIGION WITHIN THE BOUNDS OF BARE REASON](/testi/kant/religion_within_the_bounds_of_bare_reason)
+
+**Leibniz**
+- [System of Theology (1686)](/testi/leibniz/system_of_theology_1686)
 
 **Locke**
 - [A PARAPHRASE AND NOTES ON THE EPISTLES OF ST. PAUL TO THE GALATIANS, 1 AND 2 CORINTHIANS, ROMANS, EPHESIANS](/testi/locke/a_paraphrase_and_notes_on_the_epistles_of_st_paul_to_the_galatians_1_and_2_corinthians_romans_ephesians)

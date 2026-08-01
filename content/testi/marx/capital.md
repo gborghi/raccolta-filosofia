@@ -4216,7 +4216,7 @@ of matter. The circulation itself, of course, gives no clue to the origin of
 this stagnation; it merely puts in evidence the phenomenon itself. The general
 public, who, simultaneously with the retardation of the currency, see money
 appear and disappear less frequently at the periphery of circulation, naturally
-attribute this retardation to a quantitative deficiency in the circulating
+[attribute](/concepts/attribute) this retardation to a quantitative deficiency in the circulating
 medium.30
 
 The total quantity of money functioning during a

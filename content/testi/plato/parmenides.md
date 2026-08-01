@@ -704,7 +704,7 @@ And if the one is absolutely without participation in time, it never had become,
 
 Most true.
 
-But are there any modes of partaking of being other than these?
+But are there any [modes](/concepts/mode) of partaking of being other than these?
 
 There are none.
 
@@ -720,7 +720,7 @@ Then the one does not exist in such way as to be one; for if it were and partook
 
 True.
 
-But that which is not admits of no attribute or relation?
+But that which is not admits of no [attribute](/concepts/attribute) or relation?
 
 Of course not.
 
@@ -2028,7 +2028,7 @@ Difference, then, belongs to it as well as knowledge; for in speaking of the one
 
 Clearly so.
 
-Moreover, the one that is not is something and partakes of relation to ‘that,’ and ‘this,’ and ‘these,’ and the like, and is an attribute of ‘this’; for the one, or the others than the one, could not have been spoken of, nor could any attribute or relative of the one that is not have been or been spoken of, nor could it have been said to be anything, if it did not partake of ‘some,’ or of the other relations just now mentioned.
+Moreover, the one that is not is something and partakes of relation to ‘that,’ and ‘this,’ and ‘these,’ and the like, and is an [attribute](/concepts/attribute) of ‘this’; for the one, or the others than the one, could not have been spoken of, nor could any attribute or relative of the one that is not have been or been spoken of, nor could it have been said to be anything, if it did not partake of ‘some,’ or of the other relations just now mentioned.
 
 True.
 
@@ -2310,7 +2310,7 @@ And therefore other things can neither be like or unlike, the same, or different
 
 They cannot.
 
-Nor can what is not, be anything, or be this thing, or be related to or the attribute of this or that or other, or be past, present, or future. Nor can knowledge, or opinion, or perception, or expression, or name, or any other thing that is, have any concern with it?
+Nor can what is not, be anything, or be this thing, or be related to or the [attribute](/concepts/attribute) of this or that or other, or be past, present, or future. Nor can knowledge, or opinion, or perception, or expression, or name, or any other thing that is, have any concern with it?
 
 No.
 

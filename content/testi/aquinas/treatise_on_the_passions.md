@@ -1862,7 +1862,7 @@ and thus it does not come under the sensitive apprehension or appetite.
 
 <span class="atom-split" data-atom="044" data-title="OF CONCUPISCENCE (FOUR ARTICLES)" data-chapter="OF CONCUPISCENCE (FOUR ARTICLES)" data-kind="atom" data-srclang="en"></span>
 
-We have now to consider concupiscence: under which head there are four points of inquiry:
+We have now to consider [concupiscence](/concepts/concupiscence): under which head there are four points of inquiry:
 (1) Whether concupiscence is in the sensitive appetite only?
 (2) Whether concupiscence is a specific passion?
 (3) Whether some concupiscences are natural, and some not natural?
@@ -1973,7 +1973,7 @@ of the appetite in future good or evil is called hope or fear, which regard good
 <span class="atom-split" data-atom="047" data-title="Whether some concupiscences are natural, and some not natural?" data-chapter="Whether some concupiscences are natural, and some not natural?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that concupiscences are not divided into those which are natural
-and those which are not. For concupiscence belongs to the animal appetite, as stated above (A[1],
+and those which are not. For [concupiscence](/concepts/concupiscence) belongs to the animal appetite, as stated above (A[1],
 ad 3). But the natural appetite is contrasted with the animal appetite. Therefore no concupiscence
 is natural.
 
@@ -2501,7 +2501,7 @@ We must now consider the causes of pleasure: and under this head there are eight
 inquiry:
 (1) Whether operation is the proper cause of pleasure?
 (2) Whether movement is a cause of pleasure?
-(3) Whether hope and memory cause pleasure?
+(3) Whether hope and [memory](/concepts/memory) cause pleasure?
 (4) Whether sadness causes pleasure?
 (5) Whether the actions of others are a cause of pleasure to us?
 (6) Whether doing good to another is a cause of pleasure?
@@ -2614,7 +2614,7 @@ custom and movement become pleasant.
 
 <span class="atom-split" data-atom="061" data-title="Whether hope and memory causes pleasure?" data-chapter="Whether hope and memory causes pleasure?" data-kind="atom" data-srclang="en"></span>
 
-Objection 1: It would seem that memory and hope do not cause pleasure. Because pleasure is
+Objection 1: It would seem that [memory](/concepts/memory) and hope do not cause pleasure. Because pleasure is
 caused by present good, as Damascene says (De Fide Orth. ii, 12). But hope and memory regard
 what is absent: since memory is of the past, and hope of the future. Therefore memory and hope
 do not cause pleasure.
@@ -2649,7 +2649,7 @@ Reply to Objection 2: Nothing prevents the same thing, in different ways, being 
 contraries. And so hope, inasmuch as it implies a present appraising of a future good, causes pleasure;
 whereas, inasmuch as it implies absence of that good, it causes affliction.
 
-Reply to Objection 3: Love and concupiscence also cause pleasure. For everything that is
+Reply to Objection 3: Love and [concupiscence](/concepts/concupiscence) also cause pleasure. For everything that is
 loved becomes pleasing to the lover, since love is a kind of union or connaturalness of lover and
 beloved. In like manner every object of desire is pleasing to the one that desires, since desire is
 chiefly a craving for pleasure. However hope, as implying a certainty of the real presence of the
@@ -2788,7 +2788,7 @@ prodigality is said to be contrary to nature.
 Reply to Objection 3: To overcome, to contradict, and to punish, give pleasure, not as tending
 to another's ill, but as pertaining to one's own good, which man loves more than he hates another's
 ill. For it is naturally pleasant to overcome, inasmuch as it makes a man to appreciate his own
-superiority. Wherefore all those games in which there is a striving for the mastery, and a possibility
+superiority. Wherefore all those games in which there is a [striving](/concepts/conatus) for the mastery, and a possibility
 of winning it, afford the greatest pleasure: and speaking generally all contests, in so far as they
 admit hope of victory. To contradict and to scold can give pleasure in two ways. First, as making
 man imagine himself to be wise and excellent; since it belongs to wise men and elders to reprove
@@ -4954,7 +4954,7 @@ On the contrary, The Philosopher says (Ethic. iii, 8) that "drunken men are hope
 I answer that, Youth is a cause of hope for three reasons, as the Philosopher states in Rhet. ii,
 12: and these three reasons may be gathered from the three conditions of the good which is the
 object of hope---namely, that it is future, arduous and possible, as stated above (A[1]). For youth
-has much of the future before it, and little of the past: and therefore since memory is of the past,
+has much of the future before it, and little of the past: and therefore since [memory](/concepts/memory) is of the past,
 and hope of the future, it has little to remember and lives very much in hope. Again, youths, on
 account of the heat of their nature, are full of spirit; so that their heart expands: and it is owing to
 the heart being expanded that one tends to that which is arduous; wherefore youths are spirited and
@@ -5936,7 +5936,7 @@ Objection 2: Further, the Philosopher says (Rhet. ii, 5) that "those who have no
 danger are bold." But want of experience is a defect. Therefore daring is caused by a defect.
 
 Objection 3: Further, those who have suffered wrongs are wont to be daring; "like the beasts
-when beaten," as stated in Ethic. iii, 5. But the suffering of wrongs pertains to defect. Therefore
+when beaten," as stated in Ethic. iii, 5. But the [suffering](/concepts/suffering) of wrongs pertains to defect. Therefore
 daring is caused by a defect.
 
 On the contrary, The Philosopher says (Rhet. ii, 5) that the cause of daring "is the presence

@@ -5,7 +5,7 @@ label_it: "trattato"
 label_en: "treatise"
 aliases:
   - "tractatus"
-work_count: 128
+work_count: 135
 tags:
   - "graph/form"
 title: "trattato"
@@ -14,7 +14,7 @@ title: "trattato"
 
 *treatise*
 
-## Opere (128)
+## Opere (135)
 
 **Aristotle**
 - [Categories (1a)](/testi/aristotle/categories_1a)
@@ -86,14 +86,14 @@ title: "trattato"
 - [DE LA FORMATION DU FŒTUS](/testi/descartes/de_la_formation_du_fœtus)
 - [LA DIOPTRIQUE](/testi/descartes/la_dioptrique)
 - [LES MÉTÉORES](/testi/descartes/les_météores)
-- [LES PASSIONS DE LÂME](/testi/descartes/les_passions_de_lâme)
+- [LES PASSIONS DE L’ÂME](/testi/descartes/les_passions_de_lâme)
 - [LES PRINCIPES DE LA PHILOSOPHIE](/testi/descartes/les_principes_de_la_philosophie)
 - [LE MONDE OU LE TRAITÉ DE LA LUMIÈRE](/testi/descartes/le_monde_ou_le_traité_de_la_lumière)
 - [PREMIÈRES PENSÉES SUR LA GÉNÉRATION DES ANIMAUX ET LES SAVEURS](/testi/descartes/premières_pensées_sur_la_génération_des_animaux_et_les_saveurs)
-- [RÈGLES POUR LA DIRECTION DE LESPRIT](/testi/descartes/règles_pour_la_direction_de_lesprit)
+- [RÈGLES POUR LA DIRECTION DE L’ESPRIT](/testi/descartes/règles_pour_la_direction_de_lesprit)
 - [TRAITÉ DE LA GÉOMÉTRIE](/testi/descartes/traité_de_la_géométrie)
 - [TRAITÉ DE LA MÉCANIQUE](/testi/descartes/traité_de_la_mécanique)
-- [TRAITÉ DE LHOMME](/testi/descartes/traité_de_lhomme)
+- [TRAITÉ DE L’HOMME](/testi/descartes/traité_de_lhomme)
 
 **Hegel**
 - [Elements of the Philosophy of Right](/testi/hegel/elements_of_the_philosophy_of_right)
@@ -123,6 +123,12 @@ title: "trattato"
 - [PROLEGOMENA TO ANY FUTURE METAPHYSICS THAT WILL BE ABLE TO PRESENT ITSELF AS A SCIENCE](/testi/kant/prolegomena_to_any_future_metaphysics_that_will_be_able_to_present_itself_as_a_science)
 - [RELIGION WITHIN THE BOUNDS OF BARE REASON](/testi/kant/religion_within_the_bounds_of_bare_reason)
 
+**Leibniz**
+- [Discourse on Metaphysics (1686)](/testi/leibniz/discourse_on_metaphysics_1686)
+- [Monadology (1714)](/testi/leibniz/monadology_1714)
+- [System of Theology (1686)](/testi/leibniz/system_of_theology_1686)
+- [Theodicy (1710)](/testi/leibniz/theodicy_1710)
+
 **Locke**
 - [SOME THOUGHTS CONCERNING EDUCATION](/testi/locke/some_thoughts_concerning_education)
 - [SOME THOUGHTS ON THE CONDUCT OF THE UNDERSTANDING](/testi/locke/some_thoughts_on_the_conduct_of_the_understanding)
@@ -139,7 +145,7 @@ title: "trattato"
 - [Zur Genealogie der Moral](/testi/nietzsche/zur_genealogie_der_moral)
 
 **Ortega y Gasset**
-- [LOS TERRORES DEL AÑO MIL CRÍTICA DE UNA LEYENDA](/testi/ortega-y-gasset/los_terrores_del_año_mil_crítica_de_una_leyenda)
+- [LOS TERRORES DEL AÑO MIL. CRÍTICA DE UNA LEYENDA](/testi/ortega-y-gasset/los_terrores_del_año_mil_crítica_de_una_leyenda)
 
 **Pascal**
 - [On the Art of Persuasion (1658)](/testi/pascal/on_the_art_of_persuasion_1658)
@@ -149,9 +155,14 @@ title: "trattato"
 - [CONSIDÉRATIONS SUR LE GOUVERNEMENT DE POLOGNE](/testi/rousseau/considérations_sur_le_gouvernement_de_pologne)
 - [DU CONTRAT SOCIAL ou Essai sur la forme de la République](/testi/rousseau/du_contrat_social_ou_essai_sur_la_forme_de_la_république)
 - [DU CONTRAT SOCIAL ou Principes du droit politique](/testi/rousseau/du_contrat_social_ou_principes_du_droit_politique)
-- [LORIGINE ET LES FONDEMENTS DE LINÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
+- [L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES](/testi/rousseau/lorigine_et_les_fondements_de_linégalité_parmi_les_hommes)
 - [PROJET DE CONSTITUTION POUR LA CORSE](/testi/rousseau/projet_de_constitution_pour_la_corse)
-- [ÉMILE ou de LÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
+- [ÉMILE ou de L’ÉDUCATION](/testi/rousseau/émile_ou_de_léducation)
+
+**Schopenhauer**
+- [Die Kunst, Recht zu behalten](/testi/schopenhauer/die_kunst_recht_zu_behalten)
+- [Die Welt als Wille und Vorstellung. Erster Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_erster_band)
+- [Die Welt als Wille und Vorstellung. Zweiter Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_zweiter_band)
 
 **Seneca**
 - [NATURAL QUESTIONS](/testi/seneca/natural_questions)

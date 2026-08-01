@@ -3136,7 +3136,7 @@ Reply to Objection 1: Faith and hope signify effects of grace with certain defec
 of the recipient of grace, inasmuch as faith is of the unseen, and hope of what is not yet possessed.
 Hence it was not necessary that in Christ, Who is the author of grace, there should be any defects
 such as faith and hope imply; but whatever perfection is in faith and hope was in Christ most
-perfectly; as in fire there are not all the modes of heat which are defective by the subject's defect,
+perfectly; as in fire there are not all the [modes](/concepts/mode) of heat which are defective by the subject's defect,
 but whatever belongs to the perfection of heat.
 
 Reply to Objection 2: It pertains essentially to operating grace to justify; but that it makes the
@@ -3734,7 +3734,7 @@ do not seem to have anything in which they are united, for evil is contrary to e
 divers defects, as Dionysius says (Div. Nom. iv). Therefore the devil cannot be called the head of
 all the wicked.
 
-On the contrary, A gloss [*St. Gregory, Moral. xiv] on Job 18:17, "Let the memory of him
+On the contrary, A gloss [*St. Gregory, Moral. xiv] on Job 18:17, "Let the [memory](/concepts/memory) of him
 perish from the earth," says: "This is said of every evil one, yet so as to be referred to the head,"
 i.e. the devil.
 
@@ -4516,7 +4516,7 @@ act of a body, and turns to phantasms, which cannot be said of the angels. There
 of angels is greater than the knowledge of Christ's soul.
 
 On the contrary, The Apostle says (Heb. 2:9): "For we see Jesus, Who was made a little lower
-than the angels, for the suffering of death, crowned with glory and honor"; from which it is plain
+than the angels, for the [suffering](/concepts/suffering) of death, crowned with glory and honor"; from which it is plain
 that Christ is said to be lower than the angels only in regard to the suffering of death. And hence,
 not in knowledge.
 
@@ -5432,7 +5432,7 @@ also the "fomes" of sin.
 Objection 2: Further, as Damascene says (De Fide Orth. iii, 19), "it was by consent of the
 Divine will that the flesh of Christ was allowed to suffer and do what belonged to it." But it is
 proper to the flesh to lust after its pleasures. Now since the "fomes" of sin is nothing more than
-concupiscence, as the gloss says on Rom. 7:8, it seems that in Christ there was the "fomes" of sin.
+[concupiscence](/concepts/concupiscence), as the gloss says on Rom. 7:8, it seems that in Christ there was the "fomes" of sin.
 
 Objection 3: Further, it is by reason of the "fomes" of sin that "the flesh lusteth against the
 spirit," as is written (Gal. 5:17). But the spirit is shown to be so much the stronger and worthier to
@@ -12278,7 +12278,7 @@ a more skilful physician."
 
 Reply to Objection 3: As says the author of the book De Qq. Nov. et Vet. Test., "Christ wished
 to be born, when the light of day begins to increase in length," so as to show that He came in order
-that man might come nearer to the Divine Light, according to Lk. 1:79: "To enlighten them that sit
+that man might come nearer to the [Divine Light](/positions/divine_illumination), according to Lk. 1:79: "To enlighten them that sit
 in darkness and in the shadow of death."
 In like manner He chose to be born in the rough winter season, that He might begin from then
 to suffer in body for us.
@@ -15857,7 +15857,7 @@ Ghost is perfectly conscious of that perfect generation.
 Reply to Objection 1: The words quoted are to be understood of God's eternal speaking, by
 which God the Father uttered the only-begotten and co-eternal Word. Nevertheless, it can be said
 that God uttered the same thing twice in a bodily voice, yet not for the same purpose, but in order
-to show the divers modes in which men can be partakers of the likeness of the eternal Sonship.
+to show the divers [modes](/concepts/mode) in which men can be partakers of the likeness of the eternal Sonship.
 
 Reply to Objection 2: Just as in the Baptism, where the mystery of the first regeneration was
 proclaimed, the operation of the whole Trinity was made manifest, because the Son Incarnate was
@@ -16353,7 +16353,7 @@ the man of virtue loves his life all the more in proportion as he knows it to be
 exposes it for virtue's sake. And in like fashion Christ laid down His most beloved life for the good
 of charity, according to Jer. 12:7: "I have given My dear soul into the hands of her enemies."
 
-Reply to Objection 5: The sufferer's innocence does lessen numerically the pain of the suffering,
+Reply to Objection 5: The sufferer's innocence does lessen numerically the pain of the [suffering](/concepts/suffering),
 since, when a guilty man suffers, he grieves not merely on account of the penalty, but also because
 of the crime. whereas the innocent man grieves only for the penalty: yet this pain is more intensified
 by reason of his innocence, in so far as he deems the hurt inflicted to be the more undeserved.
@@ -17177,7 +17177,7 @@ Objection 1: It would seem that Christ's Passion did not bring about our salvati
 atonement. For it seems that to make the atonement devolves on him who commits the sin; as is
 clear in the other parts of penance, because he who has done the wrong must grieve over it and
 confess it. But Christ never sinned, according to 1 Pet. 2:22: "Who did no sin." Therefore He made
-no atonement by His personal suffering.
+no atonement by His personal [suffering](/concepts/suffering).
 
 Objection 2: Further, no atonement is made to another by committing a graver offense. But in
 Christ's Passion the gravest of all offenses was perpetrated, because those who slew Him sinned
@@ -17369,7 +17369,7 @@ he is not said to be the chief redeemer, but rather the other is, whose price it
 or His bodily life, which "is in the blood," is the price of our redemption (Lev. 17:11,14), and that
 life He paid. Hence both of these belong immediately to Christ as man; but to the Trinity as to the
 first and remote cause, to whom Christ's life belonged as to its first author, and from whom Christ
-received the inspiration of suffering for us. Consequently it is proper to Christ as man to be the
+received the inspiration of [suffering](/concepts/suffering) for us. Consequently it is proper to Christ as man to be the
 Redeemer immediately; although the redemption may be ascribed to the whole Trinity as its first
 cause.
 
@@ -18313,7 +18313,7 @@ I answer that, It was not fitting for Christ's body to putrefy, or in any way be
 since the putrefaction of any body comes of that body's infirmity of nature, which can no longer
 hold the body together. But as was said above (Q[50], A[1], ad 2), Christ's death ought not to come
 from weakness of nature, lest it might not be believed to be voluntary: and therefore He willed to
-die, not from sickness, but from suffering inflicted on Him, to which He gave Himself up willingly.
+die, not from sickness, but from [suffering](/concepts/suffering) inflicted on Him, to which He gave Himself up willingly.
 And therefore, lest His death might be ascribed to infirmity of nature, Christ did not wish His body
 to putrefy in any way or dissolve no matter how; but for the manifestation of His Divine power He
 willed that His body should continue incorrupt. Hence Chrysostom says (Cont. Jud. et Gent. quod

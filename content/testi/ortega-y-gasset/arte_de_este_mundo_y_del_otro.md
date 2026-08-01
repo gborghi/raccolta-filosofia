@@ -98,7 +98,7 @@ Worringer propone que al lado de la voluntad artística que quiere las formas vi
 
 En un dibujo geométrico el goce estético no procede de que transfiera a él los esfuerzos imprecisos, innumerables, los movimientos cambiantes de mi vida interior que fluye constantemente sin orden, sin compás, sin regla, que es un caos omnímodo, irreductible a cauce donde no damos pie, donde todo va y viene y claudica, sin nada en reposo, fijo, inequívoco. No gozo yo, pues, de mí mismo en el dibujo geométrico, sino, al contrario, me salvo del naufragio interior, olvidándome de mí en aquella realidad regulada, clara, precisa, sustraída a la mudanza y a la confusión. Me salvo en ella de la vida, de mi vida.
 
-La voluntad simpática y la voluntad abstractiva son el carácter distintivo de dos posturas diversas que toma el hombre ante el mundo, de dos épocas, en cierto modo, de dos razas. Veamos cómo nos muestra Worringer impreso en los estilos artísticos el carácter diferencial del hombre primitivo, del hombre clásico, del hombre oriental, del hombre mediterráneo, del hombre gótico.
+La voluntad simpática y la voluntad abstractiva son el carácter distintivo de dos posturas diversas que toma el hombre ante el mundo, de dos épocas, en cierto [modo](/concepts/mode), de dos razas. Veamos cómo nos muestra Worringer impreso en los estilos artísticos el carácter diferencial del hombre primitivo, del hombre clásico, del hombre oriental, del hombre mediterráneo, del hombre gótico.
 
 El Imparcial, 31 de julio de 1911
 

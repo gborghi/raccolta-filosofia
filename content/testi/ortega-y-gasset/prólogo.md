@@ -22,7 +22,7 @@ tags:
 
 Van en este volumen reunidos los trabajos menos imperfectos de entre los que he publicado durante la corriente de nueve años. El primero de ellos —Las ermitas de Córdoba— es tal vez el primero que he dirigido al público desde un periódico notorio. Era en 1904: tenía yo veinte años e innumerables inquietudes. El más reciente de los artículos aquí coleccionados es de 1912.
 
-Al dar este tomo a la imprenta me ha parecido, pues, que me despedía de mi mocedad. Y en esa hora patética ha habido un instante peligroso: toda mi juventud se ha adelantado turbulenta en mi memoria, como legionarios de Roma en el día de su licenciamiento. He necesitado algún esfuerzo para que este prólogo no cayera en la tentación de dar solemnidad a la despedida, concediendo así injustificada importancia a esta escena vulgar del hombre que dice «adiós» a sus primeros fervores y dolores.
+Al dar este tomo a la imprenta me ha parecido, pues, que me despedía de mi mocedad. Y en esa hora patética ha habido un instante peligroso: toda mi juventud se ha adelantado turbulenta en mi [memoria](/concepts/memory), como legionarios de Roma en el día de su licenciamiento. He necesitado algún esfuerzo para que este prólogo no cayera en la tentación de dar solemnidad a la despedida, concediendo así injustificada importancia a esta escena vulgar del hombre que dice «adiós» a sus primeros fervores y dolores.
 
 Había, sin embargo, un motivo que podía hacer tolerable la prosopopeya: mi mocedad no ha sido mía, ha sido de mi raza. Mi juventud se ha quemado entera, como la retama mosaica, al borde del camino que España lleva por la historia. Hoy puedo decirlo con orgullo y con verdad. Esos mis diez años jóvenes son místicas trojes henchidas sólo de angustias y esperanzas españolas.
 

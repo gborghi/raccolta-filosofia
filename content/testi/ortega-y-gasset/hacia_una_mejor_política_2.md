@@ -1,5 +1,5 @@
 ---
-title: "Hacia una mejor política 2"
+title: "Hacia una mejor política (2)"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/hacia_una_mejor_política_2" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Hacia una mejor política 2" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Hacia una mejor política (2)" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 I
 
@@ -136,7 +136,7 @@ Y uno se pregunta: ¿qué razón clara existe para la actual división en siete 
 
 Esta prolificación de las carteras traería, naturalmente, consigo la corrección, cuando menos, la atenuación de la solidaridad política entre los individuos de un Gabinete. Compaginar a siete es difícil; pero a catorce, es imposible. Cada uno gozaría de mayor independencia frente a los otros, y cuando en un orden gubernativo alcanzase un tema gravedad política suficiente para derribar a un ministro, no arrastraría a todos los demás. La situación de cada uno sería, pues, más estable, por ser menos dependiente, y menos dependiente, por ser más densa, limitada, y concreta su responsabilidad.
 
-De este modo se evitaría también que la actuación propiamente administrativa de cada ministro esté impregnada por entero de significación política. Hoy la personalidad y la labor del ministro quedan absorbidas por su fisonomía política. De aquí que la más leve Real orden sea sospechada de partidismo y carezca el firmante de autoridad moral para imponer respeto —no sólo obediencia— a sus decisiones.
+De este [modo](/concepts/mode) se evitaría también que la actuación propiamente administrativa de cada ministro esté impregnada por entero de significación política. Hoy la personalidad y la labor del ministro quedan absorbidas por su fisonomía política. De aquí que la más leve Real orden sea sospechada de partidismo y carezca el firmante de autoridad moral para imponer respeto —no sólo obediencia— a sus decisiones.
 
 El asunto suscita innumerables comentarios. Cortémoslos aquí, ya que no habría manera de agotarlos.
 

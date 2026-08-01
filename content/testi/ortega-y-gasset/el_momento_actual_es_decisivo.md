@@ -24,7 +24,7 @@ Se ha abierto la crisis trascendental que anunció hace días en el Parlamento d
 
 Primera. Porque las reformas que con tal motivo se tratase de introducir en el régimen político de España fuesen tan hondas y sustanciales que determinasen un delicadísimo momento de la vida española e iniciasen una etapa de grandes inquietudes.
 
-Segunda. Porque la ceguera y la torpeza fuesen tales en los encargados de dar solución, que negasen al pueblo las satisfacciones que espera toda España de acuerdo con la evolución de las ideas políticas en el mundo, y de ese modo viniera a lanzarse un desafío que una gran muchedumbre española recogería en el acto.
+Segunda. Porque la ceguera y la torpeza fuesen tales en los encargados de dar solución, que negasen al pueblo las satisfacciones que espera toda España de acuerdo con la evolución de las ideas políticas en el mundo, y de ese [modo](/concepts/mode) viniera a lanzarse un desafío que una gran muchedumbre española recogería en el acto.
 
 Hasta los momentos presentes, parece que el período de crisis trascendental se abre de la segunda manera.
 

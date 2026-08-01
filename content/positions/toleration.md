@@ -9,7 +9,7 @@ aliases:
 axis: "state_and_individual"
 contro:
   - "sovereignty"
-work_count: 7
+work_count: 8
 tags:
   - "graph/position"
 title: "tolleranza"
@@ -22,10 +22,13 @@ Posizione sull'asse [Stato e individuo](/axes/state_and_individual).
 
 **Contro:** [sovranità](/positions/sovereignty)
 
-## Opere (7)
+## Opere (8)
 
 **Hume**
 - [ESSAYS, MORAL, POLITICAL, AND LITERARY](/testi/hume/essays_moral_political_and_literary)
+
+**Leibniz**
+- [System of Theology (1686)](/testi/leibniz/system_of_theology_1686)
 
 **Locke**
 - [A FOURTH LETTER FOR TOLERATION](/testi/locke/a_fourth_letter_for_toleration)

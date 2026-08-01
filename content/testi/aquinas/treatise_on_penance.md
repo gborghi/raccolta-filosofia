@@ -294,7 +294,7 @@ also on the will's own proper act: for the will wills to will something. Accordi
 falls on that pain or sadness which is to be found in the sin of envy and the like, whether such pain
 be in the senses or in the will itself. Consequently the sorrow of contrition is opposed to those sins.
 
-Reply to Objection 2: One may forget a thing in two ways, either so that it escapes the memory
+Reply to Objection 2: One may forget a thing in two ways, either so that it escapes the [memory](/concepts/memory)
 altogether, and then one cannot search for it; or so that it escapes from the memory in part, and in
 part remains, as when I remember having heard something in general, but know not what it was in
 particular, and then I search my memory in order to discover it. Accordingly a sin also may be
@@ -3318,7 +3318,7 @@ due honor to God." But this can be done by other means than penal works. Therefo
 needs not to be made by means of penal works.
 
 On the contrary, Gregory says (Hom. in Evang. xx): "It is just that the sinner, by his repentance,
-should inflict on himself so much the greater suffering, as he has brought greater harm on himself
+should inflict on himself so much the greater [suffering](/concepts/suffering), as he has brought greater harm on himself
 by his sin."
 Further, the wound caused by sin should be perfectly healed by satisfaction. Now punishment
 is the remedy for sins, as the Philosopher says (Ethic. ii, 3). Therefore satisfaction should be made

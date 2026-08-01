@@ -1699,7 +1699,7 @@ the Holy Ghost.
 
 I answer that, A notion is the proper idea whereby we know a divine Person. Now the divine
 persons are multiplied by reason of their origin: and origin includes the idea of someone from whom
-another comes, and of someone that comes from another, and by these two modes a person can be
+another comes, and of someone that comes from another, and by these two [modes](/concepts/mode) a person can be
 known. Therefore the Person of the Father cannot be known by the fact that He is from another;
 but by the fact that He is from no one; and thus the notion that belongs to Him is called
 "innascibility." As the source of another, He can be known in two ways, because as the Son is from
@@ -1728,7 +1728,7 @@ quinary by the five notions.
 Reply to Objection 3: Since the real plurality in God is founded only on relative opposition,
 the several properties of one Person, as they are not relatively opposed to each other, do not really
 differ. Nor again are they predicated of each other, because they are different ideas of the persons;
-as we do not say that the attribute of power is the attribute of knowledge, although we do say that
+as we do not say that the [attribute](/concepts/attribute) of power is the attribute of knowledge, although we do say that
 knowledge is power.
 
 Reply to Objection 4: Since Person implies dignity, as stated above (Q[19], A[3] ) we cannot

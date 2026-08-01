@@ -6,7 +6,7 @@ label_en: "death"
 aliases:
   - "mors"
   - "Tod"
-work_count: 31
+work_count: 34
 tags:
   - "graph/concept"
 title: "morte"
@@ -15,7 +15,7 @@ title: "morte"
 
 *death*
 
-## Opere (31)
+## Opere (34)
 
 **Aquinas**
 - [Treatise on the Last Things](/testi/aquinas/treatise_on_the_last_things)
@@ -47,6 +47,11 @@ title: "morte"
 - [GORGIAS](/testi/plato/gorgias)
 - [MENEXENUS](/testi/plato/menexenus)
 - [PHAEDO](/testi/plato/phaedo)
+
+**Schopenhauer**
+- [Die Welt als Wille und Vorstellung. Erster Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_erster_band)
+- [Die Welt als Wille und Vorstellung. Zweiter Band](/testi/schopenhauer/die_welt_als_wille_und_vorstellung_zweiter_band)
+- [Über das Geistersehn und was damit zusammenhängt](/testi/schopenhauer/über_das_geistersehn_und_was_damit_zusammenhängt)
 
 **Seneca**
 - [AGAMEMNON](/testi/seneca/agamemnon)

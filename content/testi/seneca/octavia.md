@@ -416,7 +416,7 @@ May heaven forbid!
 
 NERO
 
-Shall I then go on suffering them to seek my blood, that, unavenged and scorned, I may suddenly be crushed? Exile has not broken Plautus and Sulla, though far removed, whose persistent rage arms the agents of their guilt to work my death, since still, though absent, great is the favor they enjoy in this our city, which nurtures the exiles’ hopes. Let the sword remove foemen whom I suspect; let my hateful wife perish and follow the brother whom she loves. Whatever is high exalted, let it fall.
+Shall I then go on [suffering](/concepts/suffering) them to seek my blood, that, unavenged and scorned, I may suddenly be crushed? Exile has not broken Plautus and Sulla, though far removed, whose persistent rage arms the agents of their guilt to work my death, since still, though absent, great is the favor they enjoy in this our city, which nurtures the exiles’ hopes. Let the sword remove foemen whom I suspect; let my hateful wife perish and follow the brother whom she loves. Whatever is high exalted, let it fall.
 
 SENECA
 

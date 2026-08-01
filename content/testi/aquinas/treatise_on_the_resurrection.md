@@ -3791,7 +3791,7 @@ the stars will be in the same position as they occupy now at any fixed hour: and
 said that the resurrection will be at this or that hour.
 
 Reply to Objection 2: The most perfect disposition of time is said to be midday, on account
-of the light given by the sun. But then the city of God will need neither sun nor moon, because the
+of the light given by the sun. But then the [city of God](/concepts/two_cities) will need neither sun nor moon, because the
 glory of God will enlighten it (Apoc. 22:5). Wherefore in this respect it matters not whether the
 resurrection be in the day or in the night.
 
@@ -5224,7 +5224,7 @@ their limbs will not be without those limbs in the resurrection of the dead, for
 <span class="atom-split" data-atom="094" data-title="Whether all will be equally impassible?" data-chapter="Whether all will be equally impassible?" data-kind="atom" data-srclang="en"></span>
 
 Objection 1: It would seem that all will be equally impassible. For a gloss on 1 Cor. 15:42, "It
-is sown in corruption," says that "all have equal immunity from suffering." Now the gift of
+is sown in corruption," says that "all have equal immunity from [suffering](/concepts/suffering)." Now the gift of
 impassibility consists in immunity from suffering. Therefore all will be equally impassible.
 
 Objection 2: Further, negations are not subject to be more or less. Now impassibility is a
@@ -6544,7 +6544,7 @@ of the soul, so that it can thereby act or not act on the sight. Hence it will b
 not to hide a body that is behind it.
 
 Reply to Objection 3: Quantity is inherent to the glorified body itself, nor would it be possible
-for the quantity to be altered at the soul's bidding without the glorified body suffering some alteration
+for the quantity to be altered at the soul's bidding without the glorified body [suffering](/concepts/suffering) some alteration
 incompatible with its impassibility. Hence there is no comparison between quantity and visibility,
 because even this quality whereby it is visible cannot be removed at the soul's bidding, but the
 action of that quality will be suspended, and thus the body will be hidden at the soul's command.

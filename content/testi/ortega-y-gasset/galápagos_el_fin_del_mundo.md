@@ -1,5 +1,5 @@
 ---
-title: "Galápagos el fin del mundo"
+title: "Galápagos, el fin del mundo"
 philosopher: "Ortega y Gasset"
 lang: "es"
 edizione: "Obras completas — Fundación Ortega y Gasset"
@@ -18,7 +18,7 @@ tags:
 <div class="atom-reader" data-work="testi/ortega-y-gasset/galápagos_el_fin_del_mundo" data-philosopher="Ortega y Gasset"></div>
 
 
-<span class="atom-split" data-atom="001" data-title="Galápagos el fin del mundo" data-chapter="" data-kind="intro" data-srclang="es"></span>
+<span class="atom-split" data-atom="001" data-title="Galápagos, el fin del mundo" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
 Van alegres sobre el lomo del mar, movidos por una sed de ciencia, de paisajes inusitados, de soledades telúricas. Salen de New York en el yate Noma. Son amigos de ocupación diversa: naturalista, médico, abogado, etcétera. Van dos amigas, dos muchachas esbeltas, gráciles, que vemos en los fotograbados del libro vestidas con trajes de baño: una será la dibujante de la expedición; otra será la cronista. Se trata de un capricho: visitar el Archipiélago de los Galápagos, grupo de islas volcánicas, casi totalmente deshabitadas, que emergen en una fabulosa soledad del Pacífico, a 900 kilómetros de la costa ecuatoriana. Un viaje así, por cuenta propia y para fines científicos, sólo es posible ya a americanos, los jóvenes del mundo, y recuerda los que iniciaron, cuando Hélade era joven, los griegos continentales. A las gentes de Asia y Egipto les sorprendía el viaje deportivo de Solón: viajar para ver —theories héineken—, viajar a [causa](/concepts/cause) de contemplar, de teorizar, no con fines de guerra o comercio. En Europa no pueden ya hacerse estos viajes más que a costa del Estado, con lo cual se convierten en obligaciones y pierden su gracia. Yo no creo mucho en la obligación, como creía Kant; lo espero todo del entusiasmo. Siempre es más fecunda una ilusión que un deber. (Tal vez el papel de la obligación y del deber es subsidiario; hacen falta para llenar los huecos de la ilusión y el entusiasmo). Para Europa, hoy, la gran cuestión no es un nuevo sistema de deberes, sino un nuevo programa de apetitos.
 
@@ -40,7 +40,7 @@ Sin embargo, la escena mayor que estas islas oscuras ofrecen es otra. Los person
 
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="es"></span>
 
-Estas iguanas, de armadura tremenda y mirada bondadosa, son de una mansedumbre inusitada. No hay modo de enfurecerlas. Uno de estos amigos agarra una por la cola, la hace girar violentamente en el aire y luego la despide a unos metros de distancia. El animal rebota sobre la tierra, se recobra y pacíficamente echa a andar hacia nuestro amigo, se acerca a él, mirándole con sus ojos milenarios, llenos de bondad prehumana, y aguanta seis veces seguidas el mismo trato sin variar de reacción. ¿A qué, pues, sus cimeras dentadas, sus garras, sus poderosos miembros, su tamaño, que a veces llega a un metro veinte?
+Estas iguanas, de armadura tremenda y mirada bondadosa, son de una mansedumbre inusitada. No hay [modo](/concepts/mode) de enfurecerlas. Uno de estos amigos agarra una por la cola, la hace girar violentamente en el aire y luego la despide a unos metros de distancia. El animal rebota sobre la tierra, se recobra y pacíficamente echa a andar hacia nuestro amigo, se acerca a él, mirándole con sus ojos milenarios, llenos de bondad prehumana, y aguanta seis veces seguidas el mismo trato sin variar de reacción. ¿A qué, pues, sus cimeras dentadas, sus garras, sus poderosos miembros, su tamaño, que a veces llega a un metro veinte?
 
 Cuando antes hablaba de la alegría de los delfines debía haber hecho esta advertencia: hace cuarenta años, cualquiera sospecha fundada en alguna impresión fisiognómica hubiera parecido anticientífica. Hoy las cosas han variado. Aún se ignora por completo si es posible, o en qué medida lo es, aprovechar la expresión vital de un ser como indicio de su intimidad profunda. Pero ya no parece cosa tan anticientífica. Entrevemos leyes arcanas, aún no formuladas, que regulan el sentido de los gestos en todo ser viviente, y no creemos inverosímil que, a su través, podamos palpar en alguna manera el alma muda del animal. En este orden es sobremanera inquietador el aspecto fisiognómico de estos últimos saurios. Un no se sabe qué de más humano, y a la vez menos humano, que en el resto de las especies actuales, parece rezumar de sus grandes órbitas quietas y unirse en contraste misterioso con la fiereza externa de sus formas. Por otro lado, la paleontología nos detiene siempre con inconfesada preocupación en la grande época de los reptiles.
 

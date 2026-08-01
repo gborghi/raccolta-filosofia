@@ -132,6 +132,6 @@ Hoy he sugerido una de sus hondas raíces filosóficas. En la pesquisa de cuál 
 
 Hace veinticinco años que León Frobenius insinuó este pensamiento denominándolo «teoría de los ámbitos culturales» —Kulturkreislehre. En la etnología fue ampliamente admitido y ha dado fecundos resultados. Spengler, por coincidencia o resonancia, lo ha aplicado, bien que modificándolo, a los problemas históricos.
 
-Pero aun quisiera yo mostrar otra profunda utilidad que este modo de pensar tiene para la nueva, para la futura historiografía.
+Pero aun quisiera yo mostrar otra profunda utilidad que este [modo](/concepts/mode) de pensar tiene para la nueva, para la futura historiografía.
 
 La Nación, 25 de mayo de 1924

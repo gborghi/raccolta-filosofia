@@ -7510,7 +7510,7 @@ composite, because it includes both the intellect and the will. Therefore provid
 On the contrary, It is said (Wis. 14:3): "But Thou, Father, governest all things by providence
 [*Vulg. But 'Thy providence, O Father, governeth it.']."
 
-I answer that, It is necessary to attribute providence to God. For all the good that is in created
+I answer that, It is necessary to [attribute](/concepts/attribute) providence to God. For all the good that is in created
 things has been created by God, as was shown above (Q[6], A[4]). In created things good is found
 not only as regards their substance, but also as regards their order towards an end and especially
 their last end, which, as was said above, is the divine goodness (Q[21], A[4]). This good of order

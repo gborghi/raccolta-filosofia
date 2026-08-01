@@ -56,7 +56,7 @@ there are eight points of inquiry:
 (4) Whether violence can be done to the will?
 (5) Whether violence causes involuntariness?
 (6) Whether fear causes involuntariness?
-(7) Whether concupiscence causes involuntariness?
+(7) Whether [concupiscence](/concepts/concupiscence) causes involuntariness?
 (8) Whether ignorance causes involuntariness?
 
 <span class="atom-split" data-atom="003" data-title="Whether there is anything voluntary in human acts?" data-chapter="Whether there is anything voluntary in human acts?" data-kind="atom" data-srclang="en"></span>
@@ -404,7 +404,7 @@ is to say, if such a fear were not threatening. Consequently, this argument prov
 
 <span class="atom-split" data-atom="009" data-title="Whether concupiscence causes involuntariness?" data-chapter="Whether concupiscence causes involuntariness?" data-kind="atom" data-srclang="en"></span>
 
-Objection 1: It would seem that concupiscence causes involuntariness. For just as fear is a
+Objection 1: It would seem that [concupiscence](/concepts/concupiscence) causes involuntariness. For just as fear is a
 passion, so is concupiscence. But fear causes involuntariness to a certain extent. Therefore
 concupiscence does so too.
 
@@ -4999,7 +4999,7 @@ Reply to Objection 2: Man is so moved, as an instrument, by God, that, at the sa
 moves himself by his free-will, as was explained above (Q[9], A[6], ad 3). Consequently, by his
 action, he acquires merit or demerit in God's sight.
 
-Reply to Objection 3: Man is not ordained to the body politic, according to all that he is and
+Reply to Objection 3: Man is not ordained to the [body politic](/concepts/commonwealth), according to all that he is and
 has; and so it does not follow that every action of his acquires merit or demerit in relation to the
 body politic. But all that man is, and can, and has, must be referred to God: and therefore every
 action of man, whether good or bad, acquires merit or demerit in the sight of God, as far as the

@@ -28,7 +28,7 @@ III. Discurso del señor Cambó.— Lee el señor Maura «dos párrafos» de és
 
 ¿Cabe pedir mayor claridad? —nos dirá el lector leal cuando aquí llega.
 
-Espere el lector leal. «De modo —prosigue el señor Maura— que en lo esencial estamos conformes, si no existiera más que el discurso del señor Cambó».
+Espere el lector leal. «De [modo](/concepts/mode) —prosigue el señor Maura— que en lo esencial estamos conformes, si no existiera más que el discurso del señor Cambó».
 
 E inmediatamente, disponiéndose a comentar el otro texto, las bases presentadas, dice: «Pero se habla de autonomía integral, se habla de soberanía». Y comienza un largo análisis del concepto de soberanía, análisis en que funda su absoluta negativa a toda cesión de atributos soberanos a la región. Al punto extractaremos este breve tratado de derecho político. Pero antes, pongamos esta glosa: El señor Maura se declara absolutamente conforme, suscribe aquel párrafo del señor Cambó. En aquel párrafo se habla de soberanía, se define —dejando a un lado su extensión— su carácter como «total, completa, absoluta». Sin embargo, el señor Maura, pocas palabras después, deshace esa adhesión, que, aislada, parecía de una claridad insuperable.
 

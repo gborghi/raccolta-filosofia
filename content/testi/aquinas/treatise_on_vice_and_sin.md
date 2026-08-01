@@ -1200,7 +1200,7 @@ sin is lessened by the fact that it is difficult to resist; for it denotes weakn
 cannot easily resist sin; and a sin that is due to weakness is deemed less grievous. Therefore sin
 does not derive its gravity from its cause.
 
-Objection 2: Further, concupiscence is a general cause of sin; wherefore a gloss on Rom. 7:7,
+Objection 2: Further, [concupiscence](/concepts/concupiscence) is a general cause of sin; wherefore a gloss on Rom. 7:7,
 "For I had not known concupiscence," says: "The law is good, since by forbidding concupiscence,
 it forbids all evils." Now the greater the concupiscence by which man is overcome, the less grievous
 his sin. Therefore the gravity of a sin is diminished by the greatness of its cause.

@@ -6,7 +6,7 @@ label_en: "substance"
 aliases:
   - "ousia"
   - "substantia"
-work_count: 32
+work_count: 36
 tags:
   - "graph/concept"
 title: "sostanza"
@@ -15,7 +15,7 @@ title: "sostanza"
 
 *substance*
 
-## Opere (32)
+## Opere (36)
 
 **Aquinas**
 - [Treatise on the Angels](/testi/aquinas/treatise_on_the_angels)
@@ -51,6 +51,12 @@ title: "sostanza"
 - [METAPHYSICAL FOUNDATIONS OF NATURAL SCIENCE](/testi/kant/metaphysical_foundations_of_natural_science)
 - [PROLEGOMENA TO ANY FUTURE METAPHYSICS THAT WILL BE ABLE TO PRESENT ITSELF AS A SCIENCE](/testi/kant/prolegomena_to_any_future_metaphysics_that_will_be_able_to_present_itself_as_a_science)
 
+**Leibniz**
+- [Discourse on Metaphysics (1686)](/testi/leibniz/discourse_on_metaphysics_1686)
+- [Extracts from the ‘New Essays on the Understanding’ (1704)](/testi/leibniz/extracts_from_the_new_essays_on_the_understanding_1704)
+- [Monadology (1714)](/testi/leibniz/monadology_1714)
+- [The Philosophical Works of Leibnitz (1890)](/testi/leibniz/the_philosophical_works_of_leibnitz_1890)
+
 **Locke**
 - [AN ESSAY CONCERNING HUMAN UNDERSTANDING](/testi/locke/an_essay_concerning_human_understanding)
 - [MISCELLANEOUS WORKS](/testi/locke/miscellaneous_works)
@@ -60,9 +66,9 @@ title: "sostanza"
 - [Función y substancia](/testi/ortega-y-gasset/función_y_substancia)
 - [La resurrección de la mónada](/testi/ortega-y-gasset/la_resurrección_de_la_mónada)
 - [Panteísmo](/testi/ortega-y-gasset/panteísmo)
-- [b Ontología](/testi/ortega-y-gasset/b_ontología)
-- [c Synecología](/testi/ortega-y-gasset/c_synecología)
-- [d Eidolología](/testi/ortega-y-gasset/d_eidolología)
+- [b) Ontología](/testi/ortega-y-gasset/b_ontología)
+- [c) Synecología](/testi/ortega-y-gasset/c_synecología)
+- [d) Eidolología](/testi/ortega-y-gasset/d_eidolología)
 
 **Plato**
 - [SOPHIST](/testi/plato/sophist)

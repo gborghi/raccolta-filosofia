@@ -970,7 +970,7 @@ STRANGER: When we speak of things which are not, are we not attributing pluralit
 
 THEAETETUS: Certainly.
 
-STRANGER: But, on the other hand, when we say ‘what is not,’ do we not attribute unity?
+STRANGER: But, on the other hand, when we say ‘what is not,’ do we not [attribute](/concepts/attribute) unity?
 
 THEAETETUS: Manifestly.
 
@@ -1286,7 +1286,7 @@ THEAETETUS: That is a hard alternative to offer.
 
 <span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
-STRANGER: Most true; for being, having in a certain sense the attribute of one, is yet proved not to be the same as one, and the all is therefore more than one.
+STRANGER: Most true; for being, having in a certain sense the [attribute](/concepts/attribute) of one, is yet proved not to be the same as one, and the all is therefore more than one.
 
 THEAETETUS: Yes.
 
@@ -1422,7 +1422,7 @@ STRANGER: They deny the truth of what we were just now saying to the aborigines 
 
 THEAETETUS: What was that?
 
-STRANGER: Any power of doing or suffering in a degree however slight was held by us to be a sufficient definition of being?
+STRANGER: Any power of doing or [suffering](/concepts/suffering) in a degree however slight was held by us to be a sufficient definition of being?
 
 THEAETETUS: True.
 

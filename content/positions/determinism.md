@@ -22,7 +22,7 @@ Posizione sull'asse [Libertà e necessità](/axes/freedom_necessity).
 
 **Contro:** [libero arbitrio](/positions/free_will)
 
-## Opere (7)
+## Opere (9)
 
 **Hobbes**
 - [An Answer to a Book Published by Dr. Bramhall, Late Bishop of Derry](/testi/hobbes/an_answer_to_a_book_published_by_dr_bramhall_late_bishop_of_derry)
@@ -31,6 +31,10 @@ Posizione sull'asse [Libertà e necessità](/axes/freedom_necessity).
 **Hume**
 - [AN ENQUIRY CONCERNING HUMAN UNDERSTANDING](/testi/hume/an_enquiry_concerning_human_understanding)
 - [A TREATISE OF HUMAN NATURE](/testi/hume/a_treatise_of_human_nature)
+
+**Leibniz**
+- [A Philosopher’s Creed (1673)](/testi/leibniz/a_philosophers_creed_1673)
+- [Theodicy (1710)](/testi/leibniz/theodicy_1710)
 
 **Spinoza**
 - [Ethics](/testi/spinoza/ethics)

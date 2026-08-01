@@ -20,7 +20,7 @@ tags:
 
 <span class="atom-split" data-atom="001" data-title="Sobre la sinceridad triunfante" data-chapter="" data-kind="intro" data-srclang="es"></span>
 
-En el número anterior de esta Revista —en la primera parte de mis notas sobre Kant— opongo a las épocas de vida clásica la nuestra, y a la suavidad, la perfección, la quietud de aquéllas, nuestro modo de existir, áspero, agrio, roto, lleno de inminencias. Esto no implica —añado— que las edades agrias no tengan sus virtudes propias, ausentes de las dulces.
+En el número anterior de esta Revista —en la primera parte de mis notas sobre Kant— opongo a las épocas de vida clásica la nuestra, y a la suavidad, la perfección, la quietud de aquéllas, nuestro [modo](/concepts/mode) de existir, áspero, agrio, roto, lleno de inminencias. Esto no implica —añado— que las edades agrias no tengan sus virtudes propias, ausentes de las dulces.
 
 Algunos lectores me preguntan cuáles son esas virtudes adscritas a nuestro tiempo, y yo he de reiterar que no podría satisfacer esa curiosidad de una manera concisa. Fuera necesario comparar con algún detalle la psicología del hombre clásico con la del hombre de transición, su tipo antagónico. Tarea semejante no es ahora oportuna. Sin embargo, quisiera no dejar por completo insatisfechas a gentes que poseen la genialidad menos sólita en nuestro tiempo, la genialidad de ser curiosos. Ya que no pueda ofrecerles el sistema de las virtudes actuales, les hablaré, en breve nota marginal, de una de ellas —tal vez la substantiva, la que soporta todas las demás.
 

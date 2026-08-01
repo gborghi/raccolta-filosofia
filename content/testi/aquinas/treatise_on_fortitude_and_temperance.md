@@ -1750,7 +1750,7 @@ On the contrary, Macrobius (De Somn. Scip. i) and Andronicus reckon magnanimity 
 of fortitude.
 
 I answer that, As stated above (FS, Q[61], A[3]), a principal virtue is one to which it belongs
-to establish a general mode of virtue in a principal matter. Now one of the general modes of virtue
+to establish a general mode of virtue in a principal matter. Now one of the general [modes](/concepts/mode) of virtue
 is firmness of mind, because "a firm standing is necessary in every virtue," according to Ethic. ii.
 And this is chiefly commended in those virtues that tend to something difficult, in which it is most
 difficult to preserve firmness. Wherefore the more difficult it is to stand firm in some matter of
@@ -5692,7 +5692,7 @@ greatest of all.
 
 Objection 2: Further, in every genus the cause is the most powerful. Now gluttony is apparently
 the cause of other sins, for a gloss on Ps. 135:10, "Who smote Egypt with their first-born," says:
-"Lust, concupiscence, pride are the first-born of gluttony." Therefore gluttony is the greatest of
+"Lust, [concupiscence](/concepts/concupiscence), pride are the first-born of gluttony." Therefore gluttony is the greatest of
 sins.
 
 Objection 3: Further, man should love himself in the first place after God, as stated above
@@ -5749,7 +5749,7 @@ thus.
 
 On the contrary, stands the authority of Gregory quoted above.
 
-I answer that, As stated above (A[1]), gluttony denotes inordinate concupiscence in eating.
+I answer that, As stated above (A[1]), gluttony denotes inordinate [concupiscence](/concepts/concupiscence) in eating.
 Now two things are to be considered in eating, namely the food we eat, and the eating thereof.
 Accordingly, the inordinate concupiscence may be considered in two ways. First, with regard to
 the food consumed: and thus, as regards the substance or species of food a man seeks
@@ -6047,7 +6047,7 @@ I answer that, Virtue includes relationship to two things, to the contrary vices
 and to the end to which it leads. Accordingly a particular virtue is more requisite in certain persons
 for two reasons. First, because they are more prone to the concupiscences which need to be restrained
 by virtue, and to the vices which are removed by virtue. In this respect, sobriety is most requisite
-in the young and in women, because concupiscence of pleasure thrives in the young on account of
+in the young and in women, because [concupiscence](/concepts/concupiscence) of pleasure thrives in the young on account of
 the heat of youth, while in women there is not sufficient strength of mind to resist concupiscence.
 Hence, according to Valerius Maximus [*Dict. Fact. Memor. ii, 1] among the ancient Romans
 women drank no wine. Secondly, sobriety is more requisite in certain persons, as being more
@@ -7290,7 +7290,7 @@ be freed by pious works, if he persist in carnal inconstancy impenitent until de
 
 Reply to Objection 6: One copulation may result in the begetting of a man, wherefore inordinate
 copulation, which hinders the good of the future child, is a mortal sin as to the very genus of the
-act, and not only as to the inordinateness of concupiscence. On the other hand, one meal does not
+act, and not only as to the inordinateness of [concupiscence](/concepts/concupiscence). On the other hand, one meal does not
 hinder the good of a man's whole life, wherefore the act of gluttony is not a mortal sin by reason
 of its genus. It would, however, be a mortal sin, if a man were knowingly to partake of a food which
 would alter the whole condition of his life, as was the case with Adam.
@@ -8146,7 +8146,7 @@ continence denotes any abstinence from things unlawful: and thus it means that "
 of a continent soul," because its value is not measured with gold or silver, which are appreciable
 according to weight.
 
-Reply to Objection 2: The strength or weakness of concupiscence may proceed from two
+Reply to Objection 2: The strength or weakness of [concupiscence](/concepts/concupiscence) may proceed from two
 causes. For sometimes it is owing to a bodily cause: because some people by their natural
 temperament are more prone to concupiscence than others; and again opportunities for pleasure
 which inflame the concupiscence are nearer to hand for some people than for others. Such like
