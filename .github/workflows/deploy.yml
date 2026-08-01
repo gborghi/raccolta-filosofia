@@ -34,6 +34,17 @@ jobs:
         # does NOT do this itself.
         run: npx quartz plugin restore
 
+      - name: Point baseUrl at GitHub Pages
+        # quartz.config.yaml holds the Cloudflare baseUrl (filosofia-7x5.pages.dev),
+        # the primary, root-mounted host. GitHub Pages is the backup and serves from a
+        # subpath (gborghi.github.io/raccolta-filosofia); building with the CF value
+        # bakes an empty basePath into every page and the whole GH Pages host 404s.
+        # Cloudflare is deployed manually via `wrangler pages deploy` (no CI), so only
+        # this GH Pages build needs the subpath — rewrite it here, don't flip it in git.
+        run: |
+          sed -i 's|^  baseUrl: .*|  baseUrl: gborghi.github.io/raccolta-filosofia|' quartz.config.yaml
+          grep -n '^  baseUrl:' quartz.config.yaml
+
       - name: Build Quartz
         # CI does NOT run preprocess.mjs: it reads VaultPhilosophy/, which is not in
         # this repo. content/ is committed already regenerated — see README.

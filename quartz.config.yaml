@@ -8,7 +8,7 @@ configuration:
     provider: goatcounter
     websiteId: gborghi83
   locale: it-IT
-  baseUrl: gborghi.github.io/raccolta-filosofia
+  baseUrl: filosofia-7x5.pages.dev
   ignorePatterns:
     - private
     - templates
