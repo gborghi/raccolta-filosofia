@@ -1020,6 +1020,8 @@ async function main() {
     Marx: "marx",
     Nietzsche: "nietzsche",
     "Ortega y Gasset": "ortega",
+    Schopenhauer: "schopenhauer",
+    Leibniz: "leibniz",
   }
   // Un filosofo senza emblema sparisce dalla scrivania senza un errore: la home
   // mostra una carta in meno e nient'altro. E' successo, quindi lo si dice.
