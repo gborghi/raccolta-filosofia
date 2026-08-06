@@ -1,0 +1,90 @@
+{
+  "Monadology_1714": {
+    "axes": ["reality_status", "soul_body", "god"],
+    "positions": ["rationalism", "idealism", "optimism"],
+    "concepts": ["monad", "pre_established_harmony", "substance", "principle_of_sufficient_reason", "best_of_all_possible_worlds", "petites_perceptions", "infinity"],
+    "arguments": ["identity_of_indiscernibles"],
+    "figures": [],
+    "forms": ["treatise"],
+    "schools": ["continental_rationalism"],
+    "summary_it": "Esposizione concisa del sistema maturo: l'universo è composto di monadi, sostanze semplici, indivisibili e «senza finestre», dotate di percezione e appetito. Nessuna interazione fra loro: l'accordo è garantito dall'armonia prestabilita da Dio, monade suprema che ha scelto il migliore dei mondi possibili.",
+    "summary_en": "A concise exposition of the mature system: the universe is composed of monads — simple, indivisible, 'windowless' substances endowed with perception and appetite. No interaction among them: their agreement is secured by the pre-established harmony ordained by God, the supreme monad who chose the best of all possible worlds."
+  },
+  "Discourse_on_Metaphysics_1686": {
+    "axes": ["god", "reality_status", "knowledge_origin", "method"],
+    "positions": ["rationalism", "optimism", "innatism"],
+    "concepts": ["substance", "best_of_all_possible_worlds", "principle_of_sufficient_reason", "idea", "anamnesis"],
+    "arguments": [],
+    "figures": ["plato", "aristotle"],
+    "forms": ["treatise"],
+    "schools": ["continental_rationalism"],
+    "summary_it": "Trattato che espone la filosofia leibniziana anteriore alle monadi: Dio come essere assolutamente perfetto che crea il migliore dei mondi possibili; la nozione completa della sostanza individuale; la difesa delle cause finali contro il meccanicismo; e la reminiscenza platonica — le idee sono tutte riposte in noi. Legato al carteggio con Arnauld.",
+    "summary_en": "A treatise setting out Leibniz's philosophy before the monads: God as absolutely perfect being creating the best of all possible worlds; the complete notion of the individual substance; a defence of final causes against mechanism; and Platonic recollection — ideas are all stored up within us. Tied to the correspondence with Arnauld."
+  },
+  "Theodicy_1710": {
+    "axes": ["god", "freedom_necessity", "moral_foundation"],
+    "positions": ["optimism", "demonstrative_theism", "providence", "compatibilism"],
+    "concepts": ["theodicy", "best_of_all_possible_worlds", "evil_privation", "grace", "freedom", "principle_of_sufficient_reason"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["treatise"],
+    "schools": ["continental_rationalism"],
+    "summary_it": "La giustificazione di Dio di fronte al male: poiché Dio, sommamente sapiente e buono, ha scelto fra tutti i mondi possibili quello migliore, il male fisico e morale che esso contiene è il minimo compatibile col massimo bene. Concilia libertà umana, prescienza divina e provvidenza; il male è privazione, non realtà positiva.",
+    "summary_en": "The justification of God in the face of evil: since God, supremely wise and good, chose among all possible worlds the best one, the physical and moral evil it contains is the minimum compatible with the maximum good. It reconciles human freedom, divine foreknowledge and providence; evil is privation, not positive reality."
+  },
+  "The_Philosophical_Works_of_Leibnitz_1890": {
+    "axes": ["reality_status", "god", "soul_body", "method"],
+    "positions": ["rationalism", "optimism", "idealism"],
+    "concepts": ["monad", "pre_established_harmony", "substance", "principle_of_sufficient_reason", "best_of_all_possible_worlds"],
+    "arguments": ["identity_of_indiscernibles"],
+    "figures": ["spinoza", "aristotle"],
+    "forms": ["essay"],
+    "schools": ["continental_rationalism"],
+    "summary_it": "Raccolta (ed. Duncan, 1890) degli scritti metafisici brevi e delle lettere — ad Arnauld, il Nuovo Sistema, i carteggi — in cui prendono forma la dottrina delle sostanze semplici, l'armonia prestabilita, il principio di ragion sufficiente e degli indiscernibili, e la tesi del migliore dei mondi possibili.",
+    "summary_en": "A collection (Duncan ed., 1890) of the short metaphysical writings and letters — to Arnauld, the New System, the correspondences — in which the doctrine of simple substances, pre-established harmony, the principles of sufficient reason and of indiscernibles, and the best-of-all-possible-worlds thesis take shape."
+  },
+  "Extracts_from_the_New_Essays_on_the_Understanding_1704": {
+    "axes": ["knowledge_origin"],
+    "positions": ["innatism", "rationalism"],
+    "concepts": ["idea", "experience", "petites_perceptions", "reason", "substance"],
+    "arguments": [],
+    "figures": ["plato", "aristotle"],
+    "forms": ["dialogue"],
+    "schools": ["continental_rationalism"],
+    "summary_it": "Replica dialogata al Saggio di Locke: contro la tabula rasa, l'anima non è vuota ma contiene in germe i principî — «nulla è nell'intelletto che non fosse nei sensi, salvo l'intelletto stesso». Le piccole percezioni insensibili spiegano la continuità della vita mentale. Leibniz sta con Platone, Locke con Aristotele.",
+    "summary_en": "A dialogue reply to Locke's Essay: against the tabula rasa, the soul is not empty but contains the principles in germ — 'nothing is in the intellect that was not in the senses, except the intellect itself.' Insensible minute perceptions explain the continuity of mental life. Leibniz sides with Plato, Locke with Aristotle."
+  },
+  "System_of_Theology_1686": {
+    "axes": ["god", "faith_reason"],
+    "positions": ["toleration", "harmony_of_faith_reason", "demonstrative_theism"],
+    "concepts": ["religion", "faith", "charity", "grace", "sacrament"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["treatise"],
+    "schools": ["continental_rationalism"],
+    "summary_it": "Progetto ecumenico di riunificazione delle Chiese protestante e cattolica senza violenza sulle coscienze: distinguere gli errori che intaccano i fondamenti della fede da quelli tollerabili per carità cristiana, riservando le controversie al giudizio di un concilio legittimo. Teologia irenica al servizio della pace religiosa.",
+    "summary_en": "An ecumenical project for reuniting the Protestant and Catholic Churches without violence to conscience: distinguishing errors that subvert the foundations of faith from those tolerable out of Christian charity, reserving the controversies to the judgement of a legitimate council. Irenic theology in the service of religious peace."
+  },
+  "A_Philosophers_Creed_1673": {
+    "axes": ["god", "freedom_necessity", "moral_foundation"],
+    "positions": ["optimism", "demonstrative_theism", "compatibilism"],
+    "concepts": ["theodicy", "best_of_all_possible_worlds", "justice", "freedom", "evil_privation"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["dialogue"],
+    "schools": ["continental_rationalism"],
+    "summary_it": "Dialogo giovanile (Confessio philosophi) fra un Teologo e un Filosofo sulla giustizia di Dio: come conciliare la bontà divina con il peccato e la dannazione eterna. Prima formulazione del nucleo teodiceo — Dio autore dell'armonia ma non del peccato — e analisi della libera scelta contro necessitarismo e fatalismo.",
+    "summary_en": "An early dialogue (Confessio philosophi) between a Theologian and a Philosopher on God's justice: how to reconcile divine goodness with sin and eternal damnation. The first formulation of the theodicy core — God author of harmony but not of sin — and an analysis of free choice against necessitarianism and fatalism."
+  },
+  "Correspondence_with_Baruch_Spinoza": {
+    "axes": ["method"],
+    "positions": [],
+    "concepts": ["nature"],
+    "arguments": [],
+    "figures": ["spinoza"],
+    "forms": ["epistle"],
+    "schools": ["continental_rationalism"],
+    "summary_it": "Breve scambio epistolare del 1671 fra il giovane Leibniz e Spinoza — non di metafisica ma di ottica: le lenti «pandochae» e la raccolta dei raggi fuori dall'asse ottico per allargare le aperture senza perdere nitidezza. Documento del rapporto fra i due razionalisti prima dell'Ethica.",
+    "summary_en": "A brief 1671 epistolary exchange between the young Leibniz and Spinoza — not on metaphysics but on optics: 'pandochic' lenses and the collection of off-axis rays to widen apertures without loss of sharpness. A document of the relation between the two rationalists before the Ethica."
+  }
+}

@@ -1,0 +1,3282 @@
+{
+ "_readme": "Generato da scripts/link/export_surfaces.py: non si edita a mano. Le regole stanno in scripts/link/vocab.py, i consumatori in quartz-philosophy/preprocess.mjs.",
+ "n_docs": 26109,
+ "surfaces": {
+  "a priori": {
+   "id": "transcendental_criticism",
+   "cap": false
+  },
+  "abitudine": {
+   "id": "custom",
+   "cap": false
+  },
+  "accademia platonica": {
+   "id": "academy",
+   "cap": false
+  },
+  "actuality": {
+   "id": "act_potency",
+   "cap": false
+  },
+  "actuality and potentiality": {
+   "id": "act_potency",
+   "cap": false
+  },
+  "actus purus": {
+   "id": "actus_purus",
+   "cap": false
+  },
+  "aeternitas": {
+   "id": "eternity",
+   "cap": false
+  },
+  "affetto": {
+   "id": "passion",
+   "cap": false
+  },
+  "against innate ideas": {
+   "id": "no_innate_ideas",
+   "cap": false
+  },
+  "against miracles": {
+   "id": "against_miracles",
+   "cap": false
+  },
+  "agostino": {
+   "id": "augustine",
+   "cap": true
+  },
+  "alienation": {
+   "id": "alienation",
+   "cap": false
+  },
+  "alienazione": {
+   "id": "alienation",
+   "cap": false
+  },
+  "amicitia": {
+   "id": "friendship",
+   "cap": false
+  },
+  "amicizia": {
+   "id": "friendship",
+   "cap": false
+  },
+  "amor dei intellectualis": {
+   "id": "amor_dei_intellectualis",
+   "cap": false
+  },
+  "amor di sé": {
+   "id": "amour_de_soi",
+   "cap": false
+  },
+  "amor fati": {
+   "id": "amor_fati",
+   "cap": false
+  },
+  "amor proprio": {
+   "id": "amour_propre",
+   "cap": false
+  },
+  "amore": {
+   "id": "charity",
+   "cap": false
+  },
+  "amore intellettuale di dio": {
+   "id": "amor_dei_intellectualis",
+   "cap": false
+  },
+  "amour de soi": {
+   "id": "amour_de_soi",
+   "cap": false
+  },
+  "amour-propre": {
+   "id": "amour_propre",
+   "cap": false
+  },
+  "analogia dell'essere": {
+   "id": "analogy_of_being",
+   "cap": false
+  },
+  "analogia entis": {
+   "id": "analogy_of_being",
+   "cap": false
+  },
+  "analogy of being": {
+   "id": "analogy_of_being",
+   "cap": false
+  },
+  "anamnesis": {
+   "id": "anamnesis",
+   "cap": false
+  },
+  "anamnesis (recollection)": {
+   "id": "anamnesis",
+   "cap": false
+  },
+  "anamnesis (reminiscenza)": {
+   "id": "anamnesis",
+   "cap": false
+  },
+  "anerkennung": {
+   "id": "recognition",
+   "cap": false
+  },
+  "anger": {
+   "id": "anger",
+   "cap": false
+  },
+  "anima": {
+   "id": "soul",
+   "cap": false
+  },
+  "anima e corpo": {
+   "id": "soul_body",
+   "cap": false
+  },
+  "animale sociale": {
+   "id": "social_animal",
+   "cap": false
+  },
+  "apatheia": {
+   "id": "apatheia",
+   "cap": false
+  },
+  "apollineo": {
+   "id": "apollonian",
+   "cap": false
+  },
+  "apollinisch": {
+   "id": "apollonian",
+   "cap": false
+  },
+  "apollonian": {
+   "id": "apollonian",
+   "cap": false
+  },
+  "arbeit": {
+   "id": "labour",
+   "cap": false
+  },
+  "argomento ontologico": {
+   "id": "ontological_argument",
+   "cap": false
+  },
+  "aristotle": {
+   "id": "aristotle",
+   "cap": true
+  },
+  "armonia di fede e ragione": {
+   "id": "harmony_of_faith_reason",
+   "cap": false
+  },
+  "armonia prestabilita": {
+   "id": "pre_established_harmony",
+   "cap": false
+  },
+  "arnauld": {
+   "id": "jansenism",
+   "cap": false
+  },
+  "articulus": {
+   "id": "quaestio_disputata",
+   "cap": false
+  },
+  "atarassia": {
+   "id": "ataraxia",
+   "cap": false
+  },
+  "ataraxia": {
+   "id": "ataraxia",
+   "cap": false
+  },
+  "ateismo": {
+   "id": "atheism",
+   "cap": false
+  },
+  "atheism": {
+   "id": "atheism",
+   "cap": false
+  },
+  "atomi": {
+   "id": "atomism",
+   "cap": false
+  },
+  "atomism": {
+   "id": "atomism",
+   "cap": false
+  },
+  "atomismo": {
+   "id": "atomism",
+   "cap": false
+  },
+  "atoms": {
+   "id": "atomism",
+   "cap": false
+  },
+  "atto e potenza": {
+   "id": "act_potency",
+   "cap": false
+  },
+  "atto puro": {
+   "id": "actus_purus",
+   "cap": false
+  },
+  "attribute": {
+   "id": "attribute",
+   "cap": false
+  },
+  "attributi": {
+   "id": "attribute",
+   "cap": false
+  },
+  "attributo": {
+   "id": "attribute",
+   "cap": false
+  },
+  "aufhebung": {
+   "id": "dialectic",
+   "cap": false
+  },
+  "aufklärung": {
+   "id": "enlightenment",
+   "cap": false
+  },
+  "augustine": {
+   "id": "augustine",
+   "cap": true
+  },
+  "autocoscienza": {
+   "id": "self_consciousness",
+   "cap": false
+  },
+  "autorità tradizionale": {
+   "id": "traditional_authority",
+   "cap": false
+  },
+  "base and superstructure": {
+   "id": "historical_materialism",
+   "cap": false
+  },
+  "beatific vision": {
+   "id": "beatitude",
+   "cap": false
+  },
+  "beatitude": {
+   "id": "beatitude",
+   "cap": false
+  },
+  "beatitudine": {
+   "id": "beatitude",
+   "cap": false
+  },
+  "beauty": {
+   "id": "beauty",
+   "cap": false
+  },
+  "believe in order to understand": {
+   "id": "faith_seeking_understanding",
+   "cap": false
+  },
+  "bellezza": {
+   "id": "beauty",
+   "cap": false
+  },
+  "best of all possible worlds": {
+   "id": "best_of_all_possible_worlds",
+   "cap": false
+  },
+  "bildung": {
+   "id": "education",
+   "cap": false
+  },
+  "bishop bramhall": {
+   "id": "bramhall",
+   "cap": false
+  },
+  "blessedness": {
+   "id": "amor_dei_intellectualis",
+   "cap": false
+  },
+  "bodies in motion": {
+   "id": "mechanism",
+   "cap": false
+  },
+  "body politic": {
+   "id": "commonwealth",
+   "cap": false
+  },
+  "bontà naturale": {
+   "id": "natural_goodness",
+   "cap": false
+  },
+  "bramhall": {
+   "id": "bramhall",
+   "cap": true
+  },
+  "brevity of life": {
+   "id": "brevity_of_life",
+   "cap": false
+  },
+  "brevità della vita": {
+   "id": "brevity_of_life",
+   "cap": false
+  },
+  "british empiricism": {
+   "id": "british_empiricism",
+   "cap": false
+  },
+  "bruno bauer": {
+   "id": "bauer",
+   "cap": false
+  },
+  "buon selvaggio": {
+   "id": "natural_goodness",
+   "cap": false
+  },
+  "bête-machine": {
+   "id": "bete_machine",
+   "cap": false
+  },
+  "bürgerliche gesellschaft": {
+   "id": "civil_society",
+   "cap": false
+  },
+  "caduta": {
+   "id": "original_sin",
+   "cap": false
+  },
+  "canna pensante": {
+   "id": "misery_and_greatness",
+   "cap": false
+  },
+  "carattere": {
+   "id": "virtue_ethics",
+   "cap": false
+  },
+  "caritas": {
+   "id": "charity",
+   "cap": false
+  },
+  "carità": {
+   "id": "charity",
+   "cap": false
+  },
+  "caso": {
+   "id": "fortune",
+   "cap": false
+  },
+  "categorical imperative": {
+   "id": "duty_imperative",
+   "cap": false
+  },
+  "catharsis": {
+   "id": "katharsis",
+   "cap": false
+  },
+  "causa": {
+   "id": "cause",
+   "cap": false
+  },
+  "causa efficiente": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "causa finale": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "causa formale": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "causa materiale": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "causalità": {
+   "id": "cause",
+   "cap": false
+  },
+  "causation": {
+   "id": "cause",
+   "cap": false
+  },
+  "chance": {
+   "id": "fortune",
+   "cap": false
+  },
+  "church fathers": {
+   "id": "patristics",
+   "cap": false
+  },
+  "cicero": {
+   "id": "cicero",
+   "cap": true
+  },
+  "cicerone": {
+   "id": "cicero",
+   "cap": true
+  },
+  "circostanza": {
+   "id": "life_as_project",
+   "cap": false
+  },
+  "circunstancia": {
+   "id": "life_as_project",
+   "cap": false
+  },
+  "città di dio": {
+   "id": "two_cities",
+   "cap": false
+  },
+  "city of god": {
+   "id": "two_cities",
+   "cap": false
+  },
+  "civil religion": {
+   "id": "civil_religion",
+   "cap": false
+  },
+  "civil society": {
+   "id": "civil_society",
+   "cap": false
+  },
+  "civitas dei": {
+   "id": "two_cities",
+   "cap": false
+  },
+  "civitas terrena": {
+   "id": "two_cities",
+   "cap": false
+  },
+  "class conflict": {
+   "id": "class_conflict",
+   "cap": false
+  },
+  "class struggle": {
+   "id": "class_conflict",
+   "cap": false
+  },
+  "clear and distinct ideas": {
+   "id": "idees_claires_distinctes",
+   "cap": false
+  },
+  "clinamen": {
+   "id": "clinamen",
+   "cap": false
+  },
+  "coeur": {
+   "id": "fideism",
+   "cap": false
+  },
+  "coinage": {
+   "id": "money",
+   "cap": false
+  },
+  "collera": {
+   "id": "anger",
+   "cap": false
+  },
+  "commodity": {
+   "id": "commodity",
+   "cap": false
+  },
+  "commodity fetishism": {
+   "id": "commodity_fetishism",
+   "cap": false
+  },
+  "commonwealth": {
+   "id": "commonwealth",
+   "cap": false
+  },
+  "compassion": {
+   "id": "compassion",
+   "cap": false
+  },
+  "compassione": {
+   "id": "compassion",
+   "cap": false
+  },
+  "compatibilism": {
+   "id": "compatibilism",
+   "cap": false
+  },
+  "compatibilismo": {
+   "id": "compatibilism",
+   "cap": false
+  },
+  "conarion": {
+   "id": "glande_pineale",
+   "cap": false
+  },
+  "conatus": {
+   "id": "conatus",
+   "cap": false
+  },
+  "concepto de generación": {
+   "id": "theory_of_generations",
+   "cap": false
+  },
+  "conceptualism": {
+   "id": "conceptualism",
+   "cap": false
+  },
+  "concettualismo": {
+   "id": "conceptualism",
+   "cap": false
+  },
+  "concupiscence": {
+   "id": "concupiscence",
+   "cap": false
+  },
+  "concupiscentia": {
+   "id": "concupiscence",
+   "cap": false
+  },
+  "concupiscenza": {
+   "id": "concupiscence",
+   "cap": false
+  },
+  "concupiscenza carnale": {
+   "id": "concupiscence",
+   "cap": false
+  },
+  "conflitto di classe": {
+   "id": "class_conflict",
+   "cap": false
+  },
+  "consuetudine": {
+   "id": "custom",
+   "cap": false
+  },
+  "continental rationalism": {
+   "id": "continental_rationalism",
+   "cap": false
+  },
+  "contrat social": {
+   "id": "social_contract",
+   "cap": false
+  },
+  "contratto": {
+   "id": "covenant",
+   "cap": false
+  },
+  "contratto sociale": {
+   "id": "social_contract",
+   "cap": false
+  },
+  "contro i miracoli": {
+   "id": "against_miracles",
+   "cap": false
+  },
+  "contro le idee innate": {
+   "id": "no_innate_ideas",
+   "cap": false
+  },
+  "corpi in movimento": {
+   "id": "mechanism",
+   "cap": false
+  },
+  "corpo politico": {
+   "id": "commonwealth",
+   "cap": false
+  },
+  "corruzione": {
+   "id": "original_sin",
+   "cap": false
+  },
+  "cosa in sé": {
+   "id": "noumenon",
+   "cap": false
+  },
+  "coscienza": {
+   "id": "liberty_of_conscience",
+   "cap": false
+  },
+  "coscienza di sé": {
+   "id": "self_consciousness",
+   "cap": false
+  },
+  "covenant": {
+   "id": "covenant",
+   "cap": false
+  },
+  "crede per capire": {
+   "id": "faith_seeking_understanding",
+   "cap": false
+  },
+  "credo ut intelligam": {
+   "id": "faith_seeking_understanding",
+   "cap": false
+  },
+  "critica della ragione": {
+   "id": "transcendental_criticism",
+   "cap": false
+  },
+  "critical genealogy": {
+   "id": "critical_genealogy",
+   "cap": false
+  },
+  "criticismo trascendentale": {
+   "id": "transcendental_criticism",
+   "cap": false
+  },
+  "culto": {
+   "id": "religion",
+   "cap": false
+  },
+  "cuore": {
+   "id": "fideism",
+   "cap": false
+  },
+  "das apollinische": {
+   "id": "apollonian",
+   "cap": false
+  },
+  "das dionysische": {
+   "id": "dionysian",
+   "cap": false
+  },
+  "davila": {
+   "id": "reactionary_traditionalism",
+   "cap": false
+  },
+  "de brevitate vitae": {
+   "id": "brevity_of_life",
+   "cap": false
+  },
+  "de ira": {
+   "id": "anger",
+   "cap": false
+  },
+  "death is nothing to us": {
+   "id": "death_is_nothing",
+   "cap": false
+  },
+  "decadence": {
+   "id": "decadence",
+   "cap": false
+  },
+  "decadenza": {
+   "id": "decadence",
+   "cap": false
+  },
+  "declinazione": {
+   "id": "clinamen",
+   "cap": false
+  },
+  "declino": {
+   "id": "decadence",
+   "cap": false
+  },
+  "deism": {
+   "id": "deism",
+   "cap": false
+  },
+  "deismo": {
+   "id": "deism",
+   "cap": false
+  },
+  "demonstrative theism": {
+   "id": "demonstrative_theism",
+   "cap": false
+  },
+  "denaro": {
+   "id": "money",
+   "cap": false
+  },
+  "determinism": {
+   "id": "determinism",
+   "cap": false
+  },
+  "determinismo": {
+   "id": "determinism",
+   "cap": false
+  },
+  "deus sive natura": {
+   "id": "pantheism",
+   "cap": false
+  },
+  "dialectic": {
+   "id": "dialectic",
+   "cap": false
+  },
+  "dialectic of spirit": {
+   "id": "dialectic_of_spirit",
+   "cap": false
+  },
+  "dialettica": {
+   "id": "dialectic",
+   "cap": false
+  },
+  "dialettica dello spirito": {
+   "id": "dialectic_of_spirit",
+   "cap": false
+  },
+  "dialettica servo-padrone": {
+   "id": "master_slave_dialectic",
+   "cap": false
+  },
+  "ding an sich": {
+   "id": "noumenon",
+   "cap": false
+  },
+  "dio": {
+   "id": "god",
+   "cap": false
+  },
+  "dio come causa": {
+   "id": "natura_naturans",
+   "cap": false
+  },
+  "dionisiaco": {
+   "id": "dionysian",
+   "cap": false
+  },
+  "dionysian": {
+   "id": "dionysian",
+   "cap": false
+  },
+  "dionysisch": {
+   "id": "dionysian",
+   "cap": false
+  },
+  "diotima": {
+   "id": "diotima",
+   "cap": true
+  },
+  "diotima di mantinea": {
+   "id": "diotima",
+   "cap": false
+  },
+  "diritti naturali": {
+   "id": "natural_right",
+   "cap": false
+  },
+  "diritto": {
+   "id": "justice",
+   "cap": false
+  },
+  "disegno divino": {
+   "id": "providence",
+   "cap": false
+  },
+  "diversion": {
+   "id": "divertissement",
+   "cap": false
+  },
+  "divertissement": {
+   "id": "misery_and_greatness",
+   "cap": false
+  },
+  "divine illumination": {
+   "id": "divine_illumination",
+   "cap": false
+  },
+  "divine law": {
+   "id": "divine_law",
+   "cap": false
+  },
+  "divine light": {
+   "id": "divine_illumination",
+   "cap": false
+  },
+  "divine plan": {
+   "id": "providence",
+   "cap": false
+  },
+  "dolore": {
+   "id": "suffering",
+   "cap": false
+  },
+  "dovere": {
+   "id": "duty_imperative",
+   "cap": false
+  },
+  "dualismo sostanziale": {
+   "id": "substance_dualism",
+   "cap": false
+  },
+  "dubbio": {
+   "id": "scepticism",
+   "cap": false
+  },
+  "dubbio metodico": {
+   "id": "methodic_doubt",
+   "cap": false
+  },
+  "dynamis": {
+   "id": "act_potency",
+   "cap": false
+  },
+  "earthly city": {
+   "id": "two_cities",
+   "cap": false
+  },
+  "edonismo": {
+   "id": "utility_pleasure",
+   "cap": false
+  },
+  "edoné": {
+   "id": "pleasure",
+   "cap": false
+  },
+  "education": {
+   "id": "education",
+   "cap": false
+  },
+  "educazione": {
+   "id": "education",
+   "cap": false
+  },
+  "educazione negativa": {
+   "id": "negative_education",
+   "cap": false
+  },
+  "efficient cause": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "emozione": {
+   "id": "passion",
+   "cap": false
+  },
+  "empiricism": {
+   "id": "empiricism",
+   "cap": false
+  },
+  "empirismo": {
+   "id": "empiricism",
+   "cap": false
+  },
+  "empirismo britannico": {
+   "id": "british_empiricism",
+   "cap": false
+  },
+  "empirismo moderato": {
+   "id": "empiricism_moderate",
+   "cap": false
+  },
+  "empirismo scettico": {
+   "id": "empiricism_sceptical",
+   "cap": false
+  },
+  "endeavour to persist": {
+   "id": "conatus",
+   "cap": false
+  },
+  "energeia": {
+   "id": "act_potency",
+   "cap": false
+  },
+  "engels": {
+   "id": "historical_materialism_school",
+   "cap": false
+  },
+  "enlightenment": {
+   "id": "enlightenment",
+   "cap": false
+  },
+  "entelechia": {
+   "id": "monad",
+   "cap": false
+  },
+  "entelechy": {
+   "id": "monad",
+   "cap": false
+  },
+  "entfremdung": {
+   "id": "alienation",
+   "cap": false
+  },
+  "epicureanism": {
+   "id": "epicureanism",
+   "cap": false
+  },
+  "epicureismo": {
+   "id": "epicureanism",
+   "cap": false
+  },
+  "erfahrung": {
+   "id": "experience",
+   "cap": false
+  },
+  "erhabene": {
+   "id": "sublime",
+   "cap": false
+  },
+  "esperimento": {
+   "id": "induction",
+   "cap": false
+  },
+  "essence and existence": {
+   "id": "essentia_existentia",
+   "cap": false
+  },
+  "essentia et existentia": {
+   "id": "essentia_existentia",
+   "cap": false
+  },
+  "essenza ed esistenza": {
+   "id": "essentia_existentia",
+   "cap": false
+  },
+  "essere storico": {
+   "id": "historicity",
+   "cap": false
+  },
+  "estraniazione": {
+   "id": "alienation",
+   "cap": false
+  },
+  "eternal law": {
+   "id": "eternal_law",
+   "cap": false
+  },
+  "eternal recurrence": {
+   "id": "eternal_return",
+   "cap": false
+  },
+  "eternal return": {
+   "id": "eternal_return",
+   "cap": false
+  },
+  "eternity": {
+   "id": "eternity",
+   "cap": false
+  },
+  "eternità": {
+   "id": "eternity",
+   "cap": false
+  },
+  "eterno ritorno": {
+   "id": "eternal_return",
+   "cap": false
+  },
+  "euclidean method": {
+   "id": "geometric_method",
+   "cap": false
+  },
+  "eudaemonia": {
+   "id": "eudaimonia",
+   "cap": false
+  },
+  "eudaimonia": {
+   "id": "eudaimonia",
+   "cap": false
+  },
+  "eudaimonia (fioritura)": {
+   "id": "eudaimonia",
+   "cap": false
+  },
+  "eudaimonia (flourishing)": {
+   "id": "eudaimonia",
+   "cap": false
+  },
+  "evil as privation of good": {
+   "id": "evil_privation",
+   "cap": false
+  },
+  "ewige wiederkunft": {
+   "id": "eternal_return",
+   "cap": false
+  },
+  "exploitation": {
+   "id": "surplus_value",
+   "cap": false
+  },
+  "faith and reason": {
+   "id": "faith_reason",
+   "cap": false
+  },
+  "faith seeking understanding": {
+   "id": "faith_seeking_understanding",
+   "cap": false
+  },
+  "faith, hope, and charity": {
+   "id": "theological_virtues",
+   "cap": false
+  },
+  "fate and providence": {
+   "id": "fate_providence",
+   "cap": false
+  },
+  "fato e provvidenza": {
+   "id": "fate_providence",
+   "cap": false
+  },
+  "fatum": {
+   "id": "fate_providence",
+   "cap": false
+  },
+  "fede e ragione": {
+   "id": "faith_reason",
+   "cap": false
+  },
+  "fede in cerca d'intelletto": {
+   "id": "faith_seeking_understanding",
+   "cap": false
+  },
+  "felicitas": {
+   "id": "beatitude",
+   "cap": false
+  },
+  "feticismo": {
+   "id": "commodity",
+   "cap": false
+  },
+  "feticismo delle merci": {
+   "id": "commodity_fetishism",
+   "cap": false
+  },
+  "fetishism": {
+   "id": "commodity",
+   "cap": false
+  },
+  "feuerbach": {
+   "id": "feuerbach",
+   "cap": true
+  },
+  "fichte": {
+   "id": "german_idealism",
+   "cap": false
+  },
+  "fideism": {
+   "id": "fideism",
+   "cap": false
+  },
+  "fideismo": {
+   "id": "fideism",
+   "cap": false
+  },
+  "fides": {
+   "id": "faith",
+   "cap": false
+  },
+  "filosofia meccanica": {
+   "id": "mechanism",
+   "cap": false
+  },
+  "final cause": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "fine della vita": {
+   "id": "end_of_life",
+   "cap": false
+  },
+  "flatus vocis": {
+   "id": "nominalism",
+   "cap": false
+  },
+  "foglio bianco": {
+   "id": "tabula_rasa",
+   "cap": false
+  },
+  "fondamento della morale": {
+   "id": "moral_foundation",
+   "cap": false
+  },
+  "forma e materia": {
+   "id": "hylomorphism",
+   "cap": false
+  },
+  "forma sostanziale": {
+   "id": "forma_substantialis",
+   "cap": false
+  },
+  "forma substantialis": {
+   "id": "forma_substantialis",
+   "cap": false
+  },
+  "formal cause": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "forme": {
+   "id": "realism_of_ideas",
+   "cap": false
+  },
+  "fortuna": {
+   "id": "fortune",
+   "cap": false
+  },
+  "foundation of morality": {
+   "id": "moral_foundation",
+   "cap": false
+  },
+  "free will": {
+   "id": "free_will",
+   "cap": false
+  },
+  "freedom and necessity": {
+   "id": "freedom_necessity",
+   "cap": false
+  },
+  "freiheit": {
+   "id": "freedom",
+   "cap": false
+  },
+  "friendship": {
+   "id": "friendship",
+   "cap": false
+  },
+  "geist": {
+   "id": "idealism",
+   "cap": false
+  },
+  "geld": {
+   "id": "money",
+   "cap": false
+  },
+  "genealogia": {
+   "id": "genealogy",
+   "cap": false
+  },
+  "genealogia critica": {
+   "id": "critical_genealogy",
+   "cap": false
+  },
+  "genealogy": {
+   "id": "genealogy",
+   "cap": false
+  },
+  "general will": {
+   "id": "general_will",
+   "cap": false
+  },
+  "genesi dei valori morali": {
+   "id": "morality_genesis",
+   "cap": false
+  },
+  "genesis of moral values": {
+   "id": "morality_genesis",
+   "cap": false
+  },
+  "geometric method": {
+   "id": "geometric_method",
+   "cap": false
+  },
+  "german idealism": {
+   "id": "german_idealism",
+   "cap": false
+  },
+  "gesetz": {
+   "id": "law",
+   "cap": false
+  },
+  "ghiandola pineale": {
+   "id": "glande_pineale",
+   "cap": false
+  },
+  "giansenismo": {
+   "id": "jansenism",
+   "cap": false
+  },
+  "giardino": {
+   "id": "epicureanism",
+   "cap": false
+  },
+  "giustificazione di dio": {
+   "id": "theodicy",
+   "cap": false
+  },
+  "giustizia": {
+   "id": "justice",
+   "cap": false
+  },
+  "glande pinéale": {
+   "id": "glande_pineale",
+   "cap": false
+  },
+  "glaube": {
+   "id": "faith",
+   "cap": false
+  },
+  "god as active nature": {
+   "id": "natura_naturans",
+   "cap": false
+  },
+  "grace perfects nature": {
+   "id": "grace_perfects_nature",
+   "cap": false
+  },
+  "gratia": {
+   "id": "grace",
+   "cap": false
+  },
+  "gratia non tollit naturam": {
+   "id": "grace_perfects_nature",
+   "cap": false
+  },
+  "grazia": {
+   "id": "grace",
+   "cap": false
+  },
+  "guerra di tutti contro tutti": {
+   "id": "war_of_all_against_all",
+   "cap": false
+  },
+  "habit": {
+   "id": "custom",
+   "cap": false
+  },
+  "harmonia praestabilita": {
+   "id": "pre_established_harmony",
+   "cap": false
+  },
+  "harmony of faith and reason": {
+   "id": "harmony_of_faith_reason",
+   "cap": false
+  },
+  "heavenly city": {
+   "id": "two_cities",
+   "cap": false
+  },
+  "hecho radical": {
+   "id": "radical_reality_of_life",
+   "cap": false
+  },
+  "hedonism": {
+   "id": "utility_pleasure",
+   "cap": false
+  },
+  "historical being": {
+   "id": "historicity",
+   "cap": false
+  },
+  "historicity": {
+   "id": "historicity",
+   "cap": false
+  },
+  "hobbes": {
+   "id": "hobbes",
+   "cap": true
+  },
+  "hombre selecto": {
+   "id": "select_minority",
+   "cap": false
+  },
+  "human law": {
+   "id": "human_law",
+   "cap": false
+  },
+  "human nature": {
+   "id": "human_nature",
+   "cap": false
+  },
+  "hylomorphism": {
+   "id": "hylomorphism",
+   "cap": false
+  },
+  "i am i and my circumstance": {
+   "id": "yo_soy_yo_y_mi_circunstancia",
+   "cap": false
+  },
+  "i modi": {
+   "id": "natura_naturata",
+   "cap": false
+  },
+  "i think therefore i am": {
+   "id": "cogito",
+   "cap": false
+  },
+  "idealism": {
+   "id": "idealism",
+   "cap": false
+  },
+  "idealismo": {
+   "id": "idealism",
+   "cap": false
+  },
+  "idealismo tedesco": {
+   "id": "german_idealism",
+   "cap": false
+  },
+  "idee chiare e distinte": {
+   "id": "idees_claires_distinctes",
+   "cap": false
+  },
+  "idee innate": {
+   "id": "innatism",
+   "cap": false
+  },
+  "identita' degli indiscernibili": {
+   "id": "identity_of_indiscernibles",
+   "cap": false
+  },
+  "identity of indiscernibles": {
+   "id": "identity_of_indiscernibles",
+   "cap": false
+  },
+  "idées claires et distinctes": {
+   "id": "idees_claires_distinctes",
+   "cap": false
+  },
+  "if i am mistaken, i am": {
+   "id": "si_fallor_sum",
+   "cap": false
+  },
+  "il clinamen": {
+   "id": "clinamen_argument",
+   "cap": false
+  },
+  "il cogito": {
+   "id": "cogito_argument",
+   "cap": false
+  },
+  "il divertissement": {
+   "id": "divertissement",
+   "cap": false
+  },
+  "il lavoro fonda la proprietà": {
+   "id": "labour_theory_of_property",
+   "cap": false
+  },
+  "il libertino": {
+   "id": "the_libertine",
+   "cap": false
+  },
+  "il migliore dei mondi possibili": {
+   "id": "optimism",
+   "cap": false
+  },
+  "il mito della caverna": {
+   "id": "allegory_of_the_cave",
+   "cap": false
+  },
+  "il mondo come rappresentazione": {
+   "id": "representation",
+   "cap": false
+  },
+  "il mondo come volonta' e rappresentazione": {
+   "id": "world_as_will_and_representation",
+   "cap": false
+  },
+  "il motore immobile": {
+   "id": "unmoved_mover_argument",
+   "cap": false
+  },
+  "il saggio": {
+   "id": "the_sage",
+   "cap": false
+  },
+  "ilemorfismo": {
+   "id": "hylomorphism",
+   "cap": false
+  },
+  "illumination theory": {
+   "id": "divine_illumination",
+   "cap": false
+  },
+  "illuminazione": {
+   "id": "divine_illumination",
+   "cap": false
+  },
+  "illuminazione divina": {
+   "id": "divine_illumination",
+   "cap": false
+  },
+  "illuminismo": {
+   "id": "enlightenment",
+   "cap": false
+  },
+  "immanent realism": {
+   "id": "immanent_realism",
+   "cap": false
+  },
+  "impassibilità": {
+   "id": "apatheia",
+   "cap": false
+  },
+  "imperativo del dovere": {
+   "id": "duty_imperative",
+   "cap": false
+  },
+  "imperturbabilità": {
+   "id": "ataraxia",
+   "cap": false
+  },
+  "in re": {
+   "id": "immanent_realism",
+   "cap": false
+  },
+  "individuation": {
+   "id": "individuation",
+   "cap": false
+  },
+  "individuazione": {
+   "id": "individuation",
+   "cap": false
+  },
+  "induction": {
+   "id": "induction",
+   "cap": false
+  },
+  "induzione": {
+   "id": "induction",
+   "cap": false
+  },
+  "infinito": {
+   "id": "infinity",
+   "cap": false
+  },
+  "infinitum": {
+   "id": "infinity",
+   "cap": false
+  },
+  "infinity": {
+   "id": "infinity",
+   "cap": false
+  },
+  "innate ideas": {
+   "id": "innatism",
+   "cap": false
+  },
+  "innatism": {
+   "id": "innatism",
+   "cap": false
+  },
+  "innatismo": {
+   "id": "innatism",
+   "cap": false
+  },
+  "intellectual love of god": {
+   "id": "amor_dei_intellectualis",
+   "cap": false
+  },
+  "intellige ut credas": {
+   "id": "faith_seeking_understanding",
+   "cap": false
+  },
+  "io sono io e la mia circostanza": {
+   "id": "yo_soy_yo_y_mi_circunstancia",
+   "cap": false
+  },
+  "ira": {
+   "id": "anger",
+   "cap": false
+  },
+  "istruzione": {
+   "id": "education",
+   "cap": false
+  },
+  "iustitia": {
+   "id": "justice",
+   "cap": false
+  },
+  "jansenism": {
+   "id": "jansenism",
+   "cap": false
+  },
+  "justification of god": {
+   "id": "theodicy",
+   "cap": false
+  },
+  "katharsis": {
+   "id": "katharsis",
+   "cap": false
+  },
+  "knecht": {
+   "id": "master_and_slave",
+   "cap": true
+  },
+  "l'animale-macchina": {
+   "id": "bete_machine",
+   "cap": false
+  },
+  "l'argomento del terzo uomo": {
+   "id": "third_man_argument",
+   "cap": false
+  },
+  "l'argomento della reminiscenza": {
+   "id": "recollection_argument",
+   "cap": false
+  },
+  "la canna pensante": {
+   "id": "thinking_reed",
+   "cap": false
+  },
+  "la grazia perfeziona la natura": {
+   "id": "grace_perfects_nature",
+   "cap": false
+  },
+  "la morte non è nulla per noi": {
+   "id": "death_is_nothing",
+   "cap": false
+  },
+  "la proprietà fonda la disuguaglianza": {
+   "id": "property_founds_inequality",
+   "cap": false
+  },
+  "la scommessa di pascal": {
+   "id": "pascals_wager",
+   "cap": false
+  },
+  "la vita come realtà radicale": {
+   "id": "radical_reality_of_life",
+   "cap": false
+  },
+  "la vita come sofferenza": {
+   "id": "pessimism",
+   "cap": false
+  },
+  "la vita è abbastanza lunga": {
+   "id": "life_is_long_enough",
+   "cap": false
+  },
+  "la volonta' come cosa in se'": {
+   "id": "voluntarism",
+   "cap": false
+  },
+  "labour founds property": {
+   "id": "labour_theory_of_property",
+   "cap": false
+  },
+  "lavoro": {
+   "id": "labour",
+   "cap": false
+  },
+  "law of the gospel": {
+   "id": "divine_law",
+   "cap": false
+  },
+  "le antinomie": {
+   "id": "antinomies",
+   "cap": false
+  },
+  "le cinque vie": {
+   "id": "quinque_viae",
+   "cap": false
+  },
+  "le due città": {
+   "id": "two_cities",
+   "cap": false
+  },
+  "le meilleur des mondes possibles": {
+   "id": "best_of_all_possible_worlds",
+   "cap": false
+  },
+  "le quattro cause": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "legge": {
+   "id": "law",
+   "cap": false
+  },
+  "legge divina": {
+   "id": "divine_law",
+   "cap": false
+  },
+  "legge eterna": {
+   "id": "eternal_law",
+   "cap": false
+  },
+  "legge naturale": {
+   "id": "natural_law",
+   "cap": false
+  },
+  "legge umana": {
+   "id": "human_law",
+   "cap": false
+  },
+  "legitimacy of power": {
+   "id": "political_legitimacy",
+   "cap": false
+  },
+  "legittimità del potere": {
+   "id": "political_legitimacy",
+   "cap": false
+  },
+  "leiden": {
+   "id": "suffering",
+   "cap": false
+  },
+  "letter concerning toleration": {
+   "id": "toleration",
+   "cap": false
+  },
+  "letzten menschen": {
+   "id": "last_man",
+   "cap": false
+  },
+  "letzter mensch": {
+   "id": "last_man",
+   "cap": false
+  },
+  "leviathan": {
+   "id": "commonwealth",
+   "cap": false
+  },
+  "lex": {
+   "id": "law",
+   "cap": false
+  },
+  "lex aeterna": {
+   "id": "eternal_law",
+   "cap": false
+  },
+  "lex divina": {
+   "id": "divine_law",
+   "cap": false
+  },
+  "lex humana": {
+   "id": "human_law",
+   "cap": false
+  },
+  "lex naturalis": {
+   "id": "natural_law",
+   "cap": false
+  },
+  "libero arbitrio": {
+   "id": "free_will",
+   "cap": false
+  },
+  "libertas": {
+   "id": "freedom",
+   "cap": false
+  },
+  "liberty of conscience": {
+   "id": "liberty_of_conscience",
+   "cap": false
+  },
+  "libertà": {
+   "id": "freedom",
+   "cap": false
+  },
+  "libertà di coscienza": {
+   "id": "liberty_of_conscience",
+   "cap": false
+  },
+  "liberum arbitrium": {
+   "id": "free_will",
+   "cap": false
+  },
+  "libido": {
+   "id": "concupiscence",
+   "cap": false
+  },
+  "liceo (peripatetici)": {
+   "id": "lyceum",
+   "cap": false
+  },
+  "life as project": {
+   "id": "life_as_project",
+   "cap": false
+  },
+  "life as radical reality": {
+   "id": "radical_reality_of_life",
+   "cap": false
+  },
+  "life is long enough": {
+   "id": "life_is_long_enough",
+   "cap": false
+  },
+  "lo stato di natura (rousseau)": {
+   "id": "rousseau_state_of_nature",
+   "cap": false
+  },
+  "lotta di classe": {
+   "id": "class_conflict",
+   "cap": false
+  },
+  "lucilio": {
+   "id": "lucilius",
+   "cap": true
+  },
+  "lucilius": {
+   "id": "lucilius",
+   "cap": true
+  },
+  "lumen mentis": {
+   "id": "divine_illumination",
+   "cap": false
+  },
+  "lumières": {
+   "id": "enlightenment",
+   "cap": false
+  },
+  "machines mouvantes": {
+   "id": "bete_machine",
+   "cap": false
+  },
+  "male come privazione del bene": {
+   "id": "evil_privation",
+   "cap": false
+  },
+  "malin génie": {
+   "id": "malin_genie",
+   "cap": false
+  },
+  "mani": {
+   "id": "mani",
+   "cap": true
+  },
+  "manichaeus": {
+   "id": "mani",
+   "cap": true
+  },
+  "mantinea": {
+   "id": "diotima",
+   "cap": true
+  },
+  "mass man": {
+   "id": "mass_man",
+   "cap": false
+  },
+  "master and slave": {
+   "id": "master_and_slave",
+   "cap": false
+  },
+  "materia": {
+   "id": "materialism",
+   "cap": false
+  },
+  "materia signata": {
+   "id": "individuation",
+   "cap": false
+  },
+  "material cause": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "materialism": {
+   "id": "materialism",
+   "cap": false
+  },
+  "materialismo": {
+   "id": "materialism",
+   "cap": false
+  },
+  "meaning of history": {
+   "id": "meaning_of_history",
+   "cap": false
+  },
+  "meccanicismo": {
+   "id": "mechanism",
+   "cap": false
+  },
+  "mechanism": {
+   "id": "mechanism",
+   "cap": false
+  },
+  "mehrwert": {
+   "id": "surplus_value",
+   "cap": false
+  },
+  "memento mori": {
+   "id": "memento_mori",
+   "cap": false
+  },
+  "memoria": {
+   "id": "memory",
+   "cap": false
+  },
+  "memory": {
+   "id": "memory",
+   "cap": false
+  },
+  "merce": {
+   "id": "commodity",
+   "cap": false
+  },
+  "methexis": {
+   "id": "methexis",
+   "cap": false
+  },
+  "methexis (partecipazione)": {
+   "id": "methexis",
+   "cap": false
+  },
+  "methexis (participation)": {
+   "id": "methexis",
+   "cap": false
+  },
+  "method": {
+   "id": "method",
+   "cap": false
+  },
+  "methodic doubt": {
+   "id": "methodic_doubt",
+   "cap": false
+  },
+  "metodo": {
+   "id": "method",
+   "cap": false
+  },
+  "metodo geometrico": {
+   "id": "geometric_method",
+   "cap": false
+  },
+  "migliore dei mondi possibili": {
+   "id": "best_of_all_possible_worlds",
+   "cap": false
+  },
+  "mimesis": {
+   "id": "mimesis",
+   "cap": false
+  },
+  "mimesis (imitazione poetica)": {
+   "id": "mimesis",
+   "cap": false
+  },
+  "mimesis (poetic imitation)": {
+   "id": "mimesis",
+   "cap": false
+  },
+  "minoranza selecta": {
+   "id": "select_minority",
+   "cap": false
+  },
+  "minoría selecta": {
+   "id": "select_minority",
+   "cap": false
+  },
+  "minorías selectas": {
+   "id": "select_minority",
+   "cap": false
+  },
+  "minute perceptions": {
+   "id": "petites_perceptions",
+   "cap": false
+  },
+  "miracle": {
+   "id": "miracle",
+   "cap": false
+  },
+  "miracolo": {
+   "id": "miracle",
+   "cap": false
+  },
+  "miraculum": {
+   "id": "miracle",
+   "cap": false
+  },
+  "miseria e grandezza": {
+   "id": "misery_and_greatness",
+   "cap": false
+  },
+  "misery and greatness": {
+   "id": "misery_and_greatness",
+   "cap": false
+  },
+  "mitleid": {
+   "id": "compassion",
+   "cap": false
+  },
+  "moderate empiricism": {
+   "id": "empiricism_moderate",
+   "cap": false
+  },
+  "modes": {
+   "id": "mode",
+   "cap": false
+  },
+  "modi": {
+   "id": "mode",
+   "cap": false
+  },
+  "modificazione": {
+   "id": "mode",
+   "cap": false
+  },
+  "modo": {
+   "id": "mode",
+   "cap": false
+  },
+  "monad": {
+   "id": "monad",
+   "cap": false
+  },
+  "monade": {
+   "id": "monad",
+   "cap": false
+  },
+  "monas": {
+   "id": "monad",
+   "cap": false
+  },
+  "moneta": {
+   "id": "money",
+   "cap": false
+  },
+  "monism": {
+   "id": "monism",
+   "cap": false
+  },
+  "monismo": {
+   "id": "monism",
+   "cap": false
+  },
+  "moral sentiment": {
+   "id": "moral_sentiment",
+   "cap": false
+  },
+  "morale degli schiavi": {
+   "id": "slave_morality",
+   "cap": false
+  },
+  "morale nobile": {
+   "id": "noble_morality",
+   "cap": false
+  },
+  "more geometrico": {
+   "id": "geometric_method",
+   "cap": false
+  },
+  "mors": {
+   "id": "death",
+   "cap": false
+  },
+  "morte": {
+   "id": "death",
+   "cap": false
+  },
+  "mos geometricus": {
+   "id": "geometric_method",
+   "cap": false
+  },
+  "moto": {
+   "id": "mechanism",
+   "cap": false
+  },
+  "names applied to god": {
+   "id": "analogy_of_being",
+   "cap": false
+  },
+  "natur": {
+   "id": "nature",
+   "cap": false
+  },
+  "natura": {
+   "id": "nature",
+   "cap": false
+  },
+  "natura naturans": {
+   "id": "natura_naturans",
+   "cap": false
+  },
+  "natura naturante": {
+   "id": "natura_naturans",
+   "cap": false
+  },
+  "natura naturata": {
+   "id": "natura_naturata",
+   "cap": false
+  },
+  "natura umana": {
+   "id": "human_nature",
+   "cap": false
+  },
+  "natural goodness": {
+   "id": "natural_goodness",
+   "cap": false
+  },
+  "natural law": {
+   "id": "natural_law",
+   "cap": false
+  },
+  "natural religion": {
+   "id": "deism",
+   "cap": false
+  },
+  "natural right": {
+   "id": "natural_right",
+   "cap": false
+  },
+  "natural rights": {
+   "id": "natural_right",
+   "cap": false
+  },
+  "necessità": {
+   "id": "determinism",
+   "cap": false
+  },
+  "negative education": {
+   "id": "negative_education",
+   "cap": false
+  },
+  "negazione di dio": {
+   "id": "atheism",
+   "cap": false
+  },
+  "nesso causale": {
+   "id": "cause",
+   "cap": false
+  },
+  "new law": {
+   "id": "divine_law",
+   "cap": false
+  },
+  "nichilismo": {
+   "id": "nihilism",
+   "cap": false
+  },
+  "nihilism": {
+   "id": "nihilism",
+   "cap": false
+  },
+  "nihilismus": {
+   "id": "nihilism",
+   "cap": false
+  },
+  "noble morality": {
+   "id": "noble_morality",
+   "cap": false
+  },
+  "noble savage": {
+   "id": "natural_goodness",
+   "cap": false
+  },
+  "nominalism": {
+   "id": "nominalism",
+   "cap": false
+  },
+  "nominalismo": {
+   "id": "nominalism",
+   "cap": false
+  },
+  "norma": {
+   "id": "law",
+   "cap": false
+  },
+  "noumeno": {
+   "id": "noumenon",
+   "cap": false
+  },
+  "noumenon": {
+   "id": "noumenon",
+   "cap": false
+  },
+  "old academy": {
+   "id": "academy",
+   "cap": false
+  },
+  "old law": {
+   "id": "divine_law",
+   "cap": false
+  },
+  "oltreuomo": {
+   "id": "ubermensch",
+   "cap": false
+  },
+  "opium of the people": {
+   "id": "critical_genealogy",
+   "cap": false
+  },
+  "oppio dei popoli": {
+   "id": "critical_genealogy",
+   "cap": false
+  },
+  "optimism": {
+   "id": "optimism",
+   "cap": false
+  },
+  "optimismus": {
+   "id": "optimism",
+   "cap": false
+  },
+  "ordine geometrico": {
+   "id": "geometric_method",
+   "cap": false
+  },
+  "ordo amoris": {
+   "id": "charity",
+   "cap": false
+  },
+  "origin of knowledge": {
+   "id": "knowledge_origin",
+   "cap": false
+  },
+  "original sin": {
+   "id": "original_sin",
+   "cap": false
+  },
+  "origine dei valori": {
+   "id": "genealogy",
+   "cap": false
+  },
+  "origine della conoscenza": {
+   "id": "knowledge_origin",
+   "cap": false
+  },
+  "ottimismo": {
+   "id": "optimism",
+   "cap": false
+  },
+  "ousia": {
+   "id": "substance",
+   "cap": false
+  },
+  "pactum": {
+   "id": "covenant",
+   "cap": false
+  },
+  "padri della chiesa": {
+   "id": "patristics",
+   "cap": false
+  },
+  "panteismo": {
+   "id": "pantheism",
+   "cap": false
+  },
+  "pantheism": {
+   "id": "pantheism",
+   "cap": false
+  },
+  "pascal's wager": {
+   "id": "pascals_wager",
+   "cap": false
+  },
+  "passione": {
+   "id": "passion",
+   "cap": false
+  },
+  "patristica": {
+   "id": "patristics",
+   "cap": false
+  },
+  "patristica latina": {
+   "id": "patristics",
+   "cap": false
+  },
+  "patristics": {
+   "id": "patristics",
+   "cap": false
+  },
+  "patrologia": {
+   "id": "patristics",
+   "cap": false
+  },
+  "peccato originale": {
+   "id": "original_sin",
+   "cap": false
+  },
+  "pelagio": {
+   "id": "pelagius",
+   "cap": true
+  },
+  "pelagius": {
+   "id": "pelagius",
+   "cap": true
+  },
+  "pensiero ed estensione": {
+   "id": "attribute",
+   "cap": false
+  },
+  "penso dunque sono": {
+   "id": "cogito",
+   "cap": false
+  },
+  "perfectibility": {
+   "id": "progress",
+   "cap": false
+  },
+  "perfettibilità": {
+   "id": "progress",
+   "cap": false
+  },
+  "peripatetic school": {
+   "id": "lyceum",
+   "cap": false
+  },
+  "peripatetics": {
+   "id": "lyceum",
+   "cap": false
+  },
+  "perspectivism": {
+   "id": "perspectivism",
+   "cap": false
+  },
+  "perspectivismo": {
+   "id": "perspectivism",
+   "cap": false
+  },
+  "pessimism": {
+   "id": "pessimism",
+   "cap": false
+  },
+  "pessimismo": {
+   "id": "pessimism",
+   "cap": false
+  },
+  "pessimismus": {
+   "id": "pessimism",
+   "cap": false
+  },
+  "petites perceptions": {
+   "id": "petites_perceptions",
+   "cap": false
+  },
+  "philia": {
+   "id": "friendship",
+   "cap": false
+  },
+  "phronesis": {
+   "id": "phronesis",
+   "cap": false
+  },
+  "phronesis (practical wisdom)": {
+   "id": "phronesis",
+   "cap": false
+  },
+  "phronesis (saggezza pratica)": {
+   "id": "phronesis",
+   "cap": false
+  },
+  "physis": {
+   "id": "nature",
+   "cap": false
+  },
+  "piacere": {
+   "id": "pleasure",
+   "cap": false
+  },
+  "piccole percezioni": {
+   "id": "petites_perceptions",
+   "cap": false
+  },
+  "pieta'": {
+   "id": "compassion",
+   "cap": false
+  },
+  "pineal gland": {
+   "id": "glande_pineale",
+   "cap": false
+  },
+  "platonic academy": {
+   "id": "academy",
+   "cap": false
+  },
+  "plusvalore": {
+   "id": "surplus_value",
+   "cap": false
+  },
+  "polis": {
+   "id": "state",
+   "cap": false
+  },
+  "port-royal": {
+   "id": "jansenism",
+   "cap": false
+  },
+  "possesso": {
+   "id": "property",
+   "cap": false
+  },
+  "potentiality": {
+   "id": "act_potency",
+   "cap": false
+  },
+  "potere sovrano": {
+   "id": "sovereignty",
+   "cap": false
+  },
+  "practical wisdom": {
+   "id": "phronesis",
+   "cap": false
+  },
+  "praeambula fidei": {
+   "id": "harmony_of_faith_reason",
+   "cap": false
+  },
+  "praedestinatio": {
+   "id": "predestination",
+   "cap": false
+  },
+  "praestabilierte harmonie": {
+   "id": "pre_established_harmony",
+   "cap": false
+  },
+  "pre-established harmony": {
+   "id": "pre_established_harmony",
+   "cap": false
+  },
+  "preambles of faith": {
+   "id": "harmony_of_faith_reason",
+   "cap": false
+  },
+  "predestination": {
+   "id": "predestination",
+   "cap": false
+  },
+  "predestinazione": {
+   "id": "predestination",
+   "cap": false
+  },
+  "principio dell'arte tragica": {
+   "id": "tragic_art_principle",
+   "cap": false
+  },
+  "principio di ragion sufficiente": {
+   "id": "principle_of_sufficient_reason",
+   "cap": false
+  },
+  "principium rationis sufficientis": {
+   "id": "principle_of_sufficient_reason",
+   "cap": false
+  },
+  "principle of individuation": {
+   "id": "individuation",
+   "cap": false
+  },
+  "principle of sufficient reason": {
+   "id": "principle_of_sufficient_reason",
+   "cap": false
+  },
+  "principle of tragic art": {
+   "id": "tragic_art_principle",
+   "cap": false
+  },
+  "privatio boni": {
+   "id": "evil_privation",
+   "cap": false
+  },
+  "privation of good": {
+   "id": "evil_privation",
+   "cap": false
+  },
+  "privazione del bene": {
+   "id": "evil_privation",
+   "cap": false
+  },
+  "problema dell'induzione": {
+   "id": "problem_of_induction",
+   "cap": false
+  },
+  "progress": {
+   "id": "progress",
+   "cap": false
+  },
+  "progresso": {
+   "id": "progress",
+   "cap": false
+  },
+  "proofs of god": {
+   "id": "demonstrative_theism",
+   "cap": false
+  },
+  "property founds inequality": {
+   "id": "property_founds_inequality",
+   "cap": false
+  },
+  "prospettivismo": {
+   "id": "perspectivism",
+   "cap": false
+  },
+  "prove dell'esistenza di dio": {
+   "id": "demonstrative_theism",
+   "cap": false
+  },
+  "psyché": {
+   "id": "soul",
+   "cap": false
+  },
+  "pulchrum": {
+   "id": "beauty",
+   "cap": false
+  },
+  "pure act": {
+   "id": "actus_purus",
+   "cap": false
+  },
+  "quaestio disputata": {
+   "id": "quaestio_disputata",
+   "cap": false
+  },
+  "ragione vitale": {
+   "id": "ratiovitalism",
+   "cap": false
+  },
+  "rationalism": {
+   "id": "rationalism",
+   "cap": false
+  },
+  "razionalismo": {
+   "id": "rationalism",
+   "cap": false
+  },
+  "razionalismo continentale": {
+   "id": "continental_rationalism",
+   "cap": false
+  },
+  "razón vital": {
+   "id": "ratiovitalism",
+   "cap": false
+  },
+  "reactionary traditionalism": {
+   "id": "reactionary_traditionalism",
+   "cap": false
+  },
+  "realidad radical": {
+   "id": "radical_reality_of_life",
+   "cap": false
+  },
+  "realism (universals)": {
+   "id": "realism_universals",
+   "cap": false
+  },
+  "realism of ideas": {
+   "id": "realism_of_ideas",
+   "cap": false
+  },
+  "realismo (universali)": {
+   "id": "realism_universals",
+   "cap": false
+  },
+  "realismo delle idee": {
+   "id": "realism_of_ideas",
+   "cap": false
+  },
+  "realismo immanente": {
+   "id": "immanent_realism",
+   "cap": false
+  },
+  "reason and revelation": {
+   "id": "harmony_of_faith_reason",
+   "cap": false
+  },
+  "recognition": {
+   "id": "recognition",
+   "cap": false
+  },
+  "religion civile": {
+   "id": "civil_religion",
+   "cap": false
+  },
+  "religione": {
+   "id": "religion",
+   "cap": false
+  },
+  "religione civile": {
+   "id": "civil_religion",
+   "cap": false
+  },
+  "religione naturale": {
+   "id": "deism",
+   "cap": false
+  },
+  "res cogitans": {
+   "id": "substance_dualism",
+   "cap": false
+  },
+  "res extensa": {
+   "id": "substance_dualism",
+   "cap": false
+  },
+  "res publica": {
+   "id": "commonwealth",
+   "cap": false
+  },
+  "ressentiment": {
+   "id": "ressentiment",
+   "cap": false
+  },
+  "revolt": {
+   "id": "revolution",
+   "cap": false
+  },
+  "revolt of the masses": {
+   "id": "mass_man",
+   "cap": false
+  },
+  "revolution": {
+   "id": "revolution",
+   "cap": false
+  },
+  "ribellione delle masse": {
+   "id": "mass_man",
+   "cap": false
+  },
+  "riconoscimento": {
+   "id": "recognition",
+   "cap": false
+  },
+  "ricordati che morirai": {
+   "id": "memento_mori",
+   "cap": false
+  },
+  "risentimento": {
+   "id": "ressentiment",
+   "cap": false
+  },
+  "rivelazione": {
+   "id": "revelation",
+   "cap": false
+  },
+  "rivolta": {
+   "id": "revolution",
+   "cap": false
+  },
+  "rivoluzione": {
+   "id": "revolution",
+   "cap": false
+  },
+  "rivoluzione copernicana": {
+   "id": "copernican_revolution",
+   "cap": false
+  },
+  "sacrament": {
+   "id": "sacrament",
+   "cap": false
+  },
+  "sacramental character": {
+   "id": "sacrament",
+   "cap": false
+  },
+  "sacramento": {
+   "id": "sacrament",
+   "cap": false
+  },
+  "sacramentum": {
+   "id": "sacrament",
+   "cap": false
+  },
+  "saggio": {
+   "id": "wisdom",
+   "cap": false
+  },
+  "sapiens": {
+   "id": "the_sage",
+   "cap": true
+  },
+  "sapientia": {
+   "id": "wisdom",
+   "cap": false
+  },
+  "sapienza": {
+   "id": "wisdom",
+   "cap": false
+  },
+  "satz vom zureichenden grunde": {
+   "id": "principle_of_sufficient_reason",
+   "cap": false
+  },
+  "sceptical empiricism": {
+   "id": "empiricism_sceptical",
+   "cap": false
+  },
+  "scepticism": {
+   "id": "scepticism",
+   "cap": false
+  },
+  "scetticismo": {
+   "id": "scepticism",
+   "cap": false
+  },
+  "scholasticism": {
+   "id": "scholasticism",
+   "cap": false
+  },
+  "schopenhauer": {
+   "id": "schopenhauer",
+   "cap": true
+  },
+  "schönheit": {
+   "id": "beauty",
+   "cap": false
+  },
+  "scommessa": {
+   "id": "the_libertine",
+   "cap": true
+  },
+  "scrittura": {
+   "id": "revelation",
+   "cap": false
+  },
+  "scuola peripatetica": {
+   "id": "lyceum",
+   "cap": false
+  },
+  "sed contra": {
+   "id": "quaestio_disputata",
+   "cap": false
+  },
+  "seele": {
+   "id": "soul",
+   "cap": false
+  },
+  "selbstbewusstsein": {
+   "id": "self_consciousness",
+   "cap": false
+  },
+  "select minority": {
+   "id": "select_minority",
+   "cap": false
+  },
+  "self-consciousness": {
+   "id": "self_consciousness",
+   "cap": false
+  },
+  "sensazione": {
+   "id": "experience",
+   "cap": false
+  },
+  "senso della storia": {
+   "id": "meaning_of_history",
+   "cap": false
+  },
+  "sentimento": {
+   "id": "moral_sentiment",
+   "cap": false
+  },
+  "sentimento morale": {
+   "id": "moral_sentiment",
+   "cap": false
+  },
+  "servo e padrone": {
+   "id": "master_and_slave",
+   "cap": false
+  },
+  "servo-padrone": {
+   "id": "recognition",
+   "cap": false
+  },
+  "sforzo di perseverare": {
+   "id": "conatus",
+   "cap": false
+  },
+  "sfruttamento": {
+   "id": "surplus_value",
+   "cap": false
+  },
+  "si fallor, sum": {
+   "id": "si_fallor_sum",
+   "cap": false
+  },
+  "simpatia": {
+   "id": "moral_sentiment",
+   "cap": false
+  },
+  "sinderesi": {
+   "id": "synderesis",
+   "cap": false
+  },
+  "skepticism": {
+   "id": "scepticism",
+   "cap": false
+  },
+  "sklaven-moral": {
+   "id": "slave_morality",
+   "cap": false
+  },
+  "sklavenaufstand in der moral": {
+   "id": "slave_morality",
+   "cap": false
+  },
+  "slave morality": {
+   "id": "slave_morality",
+   "cap": false
+  },
+  "social animal": {
+   "id": "social_animal",
+   "cap": false
+  },
+  "social contract": {
+   "id": "social_contract",
+   "cap": false
+  },
+  "socialismo": {
+   "id": "historical_materialism_school",
+   "cap": false
+  },
+  "società civile": {
+   "id": "civil_society",
+   "cap": false
+  },
+  "socrate": {
+   "id": "socrates",
+   "cap": true
+  },
+  "socrates": {
+   "id": "socrates",
+   "cap": true
+  },
+  "sofferenza": {
+   "id": "suffering",
+   "cap": false
+  },
+  "sophia": {
+   "id": "wisdom",
+   "cap": false
+  },
+  "sostanza": {
+   "id": "substance",
+   "cap": false
+  },
+  "soul and body": {
+   "id": "soul_body",
+   "cap": false
+  },
+  "sovereignty": {
+   "id": "sovereignty",
+   "cap": false
+  },
+  "sovranità": {
+   "id": "sovereignty",
+   "cap": false
+  },
+  "spirito": {
+   "id": "idealism",
+   "cap": false
+  },
+  "staat": {
+   "id": "state",
+   "cap": false
+  },
+  "state and individual": {
+   "id": "state_and_individual",
+   "cap": false
+  },
+  "stato": {
+   "id": "state",
+   "cap": false
+  },
+  "stato (commonwealth)": {
+   "id": "commonwealth",
+   "cap": false
+  },
+  "stato di natura": {
+   "id": "state_of_nature",
+   "cap": false
+  },
+  "stato e individuo": {
+   "id": "state_and_individual",
+   "cap": false
+  },
+  "status of the real": {
+   "id": "reality_status",
+   "cap": false
+  },
+  "statuto del reale": {
+   "id": "reality_status",
+   "cap": false
+  },
+  "stoa": {
+   "id": "stoicism",
+   "cap": false
+  },
+  "stoicism": {
+   "id": "stoicism",
+   "cap": false
+  },
+  "stoico": {
+   "id": "the_sage",
+   "cap": true
+  },
+  "storicità": {
+   "id": "historicity",
+   "cap": false
+  },
+  "striving": {
+   "id": "conatus",
+   "cap": false
+  },
+  "struttura e sovrastruttura": {
+   "id": "historical_materialism",
+   "cap": false
+  },
+  "sub specie aeternitatis": {
+   "id": "eternity",
+   "cap": false
+  },
+  "sublime": {
+   "id": "sublime",
+   "cap": false
+  },
+  "substance dualism": {
+   "id": "substance_dualism",
+   "cap": false
+  },
+  "substantia": {
+   "id": "substance",
+   "cap": false
+  },
+  "substantial form": {
+   "id": "forma_substantialis",
+   "cap": false
+  },
+  "suffering": {
+   "id": "suffering",
+   "cap": false
+  },
+  "summa": {
+   "id": "scholasticism",
+   "cap": false
+  },
+  "surplus value": {
+   "id": "surplus_value",
+   "cap": false
+  },
+  "swerve": {
+   "id": "clinamen",
+   "cap": false
+  },
+  "sympathy": {
+   "id": "moral_sentiment",
+   "cap": false
+  },
+  "synderesis": {
+   "id": "synderesis",
+   "cap": false
+  },
+  "tabula rasa": {
+   "id": "tabula_rasa",
+   "cap": false
+  },
+  "teismo dimostrativo": {
+   "id": "demonstrative_theism",
+   "cap": false
+  },
+  "telos": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "tempo": {
+   "id": "time",
+   "cap": false
+  },
+  "tempo e morte": {
+   "id": "time_and_death",
+   "cap": false
+  },
+  "tempo perduto": {
+   "id": "brevity_of_life",
+   "cap": false
+  },
+  "tempus": {
+   "id": "time",
+   "cap": false
+  },
+  "teodicea": {
+   "id": "theodicy",
+   "cap": false
+  },
+  "teoria delle generazioni": {
+   "id": "theory_of_generations",
+   "cap": false
+  },
+  "tesi antitesi sintesi": {
+   "id": "dialectic",
+   "cap": false
+  },
+  "that for the sake of which": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "the allegory of the cave": {
+   "id": "allegory_of_the_cave",
+   "cap": false
+  },
+  "the antinomies": {
+   "id": "antinomies",
+   "cap": false
+  },
+  "the beast-machine": {
+   "id": "bete_machine",
+   "cap": false
+  },
+  "the categorical imperative": {
+   "id": "categorical_imperative",
+   "cap": false
+  },
+  "the clinamen": {
+   "id": "clinamen_argument",
+   "cap": false
+  },
+  "the cogito": {
+   "id": "cogito_argument",
+   "cap": false
+  },
+  "the copernican revolution": {
+   "id": "copernican_revolution",
+   "cap": false
+  },
+  "the cunning of reason": {
+   "id": "cunning_of_reason",
+   "cap": false
+  },
+  "the end of life": {
+   "id": "end_of_life",
+   "cap": false
+  },
+  "the evil demon": {
+   "id": "malin_genie",
+   "cap": false
+  },
+  "the fall": {
+   "id": "original_sin",
+   "cap": false
+  },
+  "the five ways": {
+   "id": "quinque_viae",
+   "cap": false
+  },
+  "the four causes": {
+   "id": "four_causes",
+   "cap": false
+  },
+  "the imperative of duty": {
+   "id": "duty_imperative",
+   "cap": false
+  },
+  "the last man": {
+   "id": "last_man",
+   "cap": false
+  },
+  "the libertine": {
+   "id": "the_libertine",
+   "cap": false
+  },
+  "the lyceum": {
+   "id": "lyceum",
+   "cap": false
+  },
+  "the master-slave dialectic": {
+   "id": "master_slave_dialectic",
+   "cap": false
+  },
+  "the ontological argument": {
+   "id": "ontological_argument",
+   "cap": false
+  },
+  "the problem of induction": {
+   "id": "problem_of_induction",
+   "cap": false
+  },
+  "the produced nature": {
+   "id": "natura_naturata",
+   "cap": false
+  },
+  "the recollection argument": {
+   "id": "recollection_argument",
+   "cap": false
+  },
+  "the sage": {
+   "id": "the_sage",
+   "cap": false
+  },
+  "the state": {
+   "id": "state",
+   "cap": false
+  },
+  "the state of nature": {
+   "id": "state_of_nature",
+   "cap": false
+  },
+  "the state of nature (rousseau)": {
+   "id": "rousseau_state_of_nature",
+   "cap": false
+  },
+  "the sublime": {
+   "id": "sublime",
+   "cap": false
+  },
+  "the thinking reed": {
+   "id": "thinking_reed",
+   "cap": false
+  },
+  "the third man argument": {
+   "id": "third_man_argument",
+   "cap": false
+  },
+  "the two cities": {
+   "id": "two_cities",
+   "cap": false
+  },
+  "the unmoved mover": {
+   "id": "unmoved_mover_argument",
+   "cap": false
+  },
+  "the world as will and representation": {
+   "id": "world_as_will_and_representation",
+   "cap": false
+  },
+  "the übermensch": {
+   "id": "ubermensch",
+   "cap": false
+  },
+  "theodicy": {
+   "id": "theodicy",
+   "cap": false
+  },
+  "theological virtue": {
+   "id": "theological_virtues",
+   "cap": false
+  },
+  "theological virtues": {
+   "id": "theological_virtues",
+   "cap": false
+  },
+  "theory of generations": {
+   "id": "theory_of_generations",
+   "cap": false
+  },
+  "thing in itself": {
+   "id": "noumenon",
+   "cap": false
+  },
+  "thinking reed": {
+   "id": "misery_and_greatness",
+   "cap": false
+  },
+  "thought and extension": {
+   "id": "attribute",
+   "cap": false
+  },
+  "thrasymachus": {
+   "id": "thrasymachus",
+   "cap": true
+  },
+  "time and death": {
+   "id": "time_and_death",
+   "cap": false
+  },
+  "tod": {
+   "id": "death",
+   "cap": false
+  },
+  "toleration": {
+   "id": "toleration",
+   "cap": false
+  },
+  "tolleranza": {
+   "id": "toleration",
+   "cap": false
+  },
+  "traditional authority": {
+   "id": "traditional_authority",
+   "cap": false
+  },
+  "tradizionalismo reazionario": {
+   "id": "reactionary_traditionalism",
+   "cap": false
+  },
+  "tradizione": {
+   "id": "traditional_authority",
+   "cap": false
+  },
+  "transcendental criticism": {
+   "id": "transcendental_criticism",
+   "cap": false
+  },
+  "transvaluation of all values": {
+   "id": "transvaluation_of_values",
+   "cap": false
+  },
+  "trasimaco": {
+   "id": "thrasymachus",
+   "cap": true
+  },
+  "trasvalutazione di tutti i valori": {
+   "id": "transvaluation_of_values",
+   "cap": false
+  },
+  "ultimo uomo": {
+   "id": "last_man",
+   "cap": false
+  },
+  "umwertung aller werte": {
+   "id": "transvaluation_of_values",
+   "cap": false
+  },
+  "una sola sostanza": {
+   "id": "monism",
+   "cap": false
+  },
+  "unendlichkeit": {
+   "id": "infinity",
+   "cap": false
+  },
+  "universali": {
+   "id": "universals",
+   "cap": false
+  },
+  "universali reali": {
+   "id": "realism_universals",
+   "cap": false
+  },
+  "universals": {
+   "id": "universals",
+   "cap": false
+  },
+  "uomo-massa": {
+   "id": "mass_man",
+   "cap": false
+  },
+  "utile e piacere": {
+   "id": "utility_pleasure",
+   "cap": false
+  },
+  "utility": {
+   "id": "utility_pleasure",
+   "cap": false
+  },
+  "utility and pleasure": {
+   "id": "utility_pleasure",
+   "cap": false
+  },
+  "utilità": {
+   "id": "utility_pleasure",
+   "cap": false
+  },
+  "vernunft": {
+   "id": "reason",
+   "cap": false
+  },
+  "vida como realidad radical": {
+   "id": "radical_reality_of_life",
+   "cap": false
+  },
+  "virtutes theologicae": {
+   "id": "theological_virtues",
+   "cap": false
+  },
+  "virtù teologali": {
+   "id": "theological_virtues",
+   "cap": false
+  },
+  "visione beatifica": {
+   "id": "beatitude",
+   "cap": false
+  },
+  "vita come progetto": {
+   "id": "life_as_project",
+   "cap": false
+  },
+  "vitalism": {
+   "id": "vitalism",
+   "cap": false
+  },
+  "vitalismo": {
+   "id": "vitalism",
+   "cap": false
+  },
+  "volonta' di vivere": {
+   "id": "will_to_live",
+   "cap": false
+  },
+  "volontarismo": {
+   "id": "voluntarism",
+   "cap": false
+  },
+  "volontà": {
+   "id": "will",
+   "cap": false
+  },
+  "volontà di potenza": {
+   "id": "will_to_power",
+   "cap": false
+  },
+  "volontà di tutti": {
+   "id": "will_of_all",
+   "cap": false
+  },
+  "volontà generale": {
+   "id": "general_will",
+   "cap": false
+  },
+  "volonté de tous": {
+   "id": "will_of_all",
+   "cap": false
+  },
+  "volonté générale": {
+   "id": "general_will",
+   "cap": false
+  },
+  "voluntarism": {
+   "id": "voluntarism",
+   "cap": false
+  },
+  "voluntas": {
+   "id": "will",
+   "cap": false
+  },
+  "voluptas": {
+   "id": "pleasure",
+   "cap": false
+  },
+  "vornehme moral": {
+   "id": "noble_morality",
+   "cap": false
+  },
+  "vornehme wertungsweise": {
+   "id": "noble_morality",
+   "cap": false
+  },
+  "vorstellung": {
+   "id": "representation",
+   "cap": false
+  },
+  "wager": {
+   "id": "the_libertine",
+   "cap": true
+  },
+  "war of all against all": {
+   "id": "war_of_all_against_all",
+   "cap": false
+  },
+  "ware": {
+   "id": "commodity",
+   "cap": false
+  },
+  "weltgeist": {
+   "id": "dialectic_of_spirit",
+   "cap": false
+  },
+  "white paper": {
+   "id": "tabula_rasa",
+   "cap": false
+  },
+  "will of all": {
+   "id": "will_of_all",
+   "cap": false
+  },
+  "will to live": {
+   "id": "will_to_live",
+   "cap": false
+  },
+  "will to power": {
+   "id": "will_to_power",
+   "cap": false
+  },
+  "wille": {
+   "id": "will",
+   "cap": false
+  },
+  "wille als ding an sich": {
+   "id": "voluntarism",
+   "cap": false
+  },
+  "wille zum leben": {
+   "id": "will_to_live",
+   "cap": false
+  },
+  "wille zur macht": {
+   "id": "will_to_power",
+   "cap": false
+  },
+  "worship": {
+   "id": "religion",
+   "cap": false
+  },
+  "zeit": {
+   "id": "time",
+   "cap": false
+  },
+  "zoon politikon": {
+   "id": "social_animal",
+   "cap": false
+  },
+  "éducation négative": {
+   "id": "negative_education",
+   "cap": false
+  },
+  "übermensch": {
+   "id": "ubermensch",
+   "cap": false
+  }
+ }
+}

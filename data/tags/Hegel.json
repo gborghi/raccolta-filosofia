@@ -1,0 +1,90 @@
+{
+  "Elements_of_the_Philosophy_of_Right": {
+    "axes": ["political_legitimacy", "state_and_individual", "moral_foundation", "freedom_necessity", "meaning_of_history"],
+    "positions": ["idealism", "dialectic_of_spirit", "civil_society", "natural_right", "sovereignty"],
+    "concepts": ["freedom", "will", "state", "law", "property", "justice", "education"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["treatise"],
+    "schools": ["german_idealism"],
+    "summary_it": "Trattato dello spirito oggettivo articolato in diritto astratto (proprietà, contratto, torto), moralità (proposito, intenzione, bene e coscienza) ed eticità (famiglia, società civile, Stato), fino al diritto internazionale e alla storia del mondo. La libertà si realizza per gradi nelle istituzioni, non nell'arbitrio soggettivo.",
+    "summary_en": "Treatise on objective spirit organized as abstract right (property, contract, wrong), morality (purpose, intention, the good and conscience), and ethical life (family, civil society, the state), up to international law and world-history. Freedom becomes actual by stages in institutions, not in subjective caprice."
+  },
+  "Hegels_Philosophy_of_Mind": {
+    "axes": ["reality_status", "soul_body", "method", "meaning_of_history", "state_and_individual"],
+    "positions": ["idealism", "dialectic_of_spirit", "civil_society"],
+    "concepts": ["soul", "self_consciousness", "reason", "freedom", "will", "recognition", "state", "law", "religion", "beauty"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["treatise"],
+    "schools": ["german_idealism"],
+    "summary_it": "Terza parte dell'Enciclopedia: filosofia dello spirito che sale dallo spirito soggettivo (antropologia dell'anima, fenomenologia della coscienza, psicologia) allo spirito oggettivo (diritto, moralità, eticità, Stato) fino allo spirito assoluto (arte, religione, filosofia). Traduzione dei soli paragrafi hegeliani, con cinque saggi introduttivi del traduttore.",
+    "summary_en": "Third part of the Encyclopaedia: a philosophy of mind rising from subjective mind (anthropology of the soul, phenomenology of consciousness, psychology) through objective mind (law, morality, ethical life, the state) to absolute mind (art, religion, philosophy). Wallace translates only Hegel's own paragraphs and adds five introductory essays."
+  },
+  "Lectures_on_the_History_of_Philosophy": {
+    "axes": ["method", "meaning_of_history", "knowledge_origin"],
+    "positions": ["dialectic_of_spirit", "dialectic", "idealism"],
+    "concepts": ["reason", "idea", "substance"],
+    "arguments": [],
+    "figures": ["plato", "aristotle", "socrates", "epicurus"],
+    "forms": ["lecture"],
+    "schools": ["german_idealism", "stoicism", "epicureanism", "scholasticism", "academy", "lyceum"],
+    "summary_it": "Corso che ricostruisce la storia della filosofia come sviluppo necessario e dialettico dell'idea, da Talete e i presocratici, ai sofisti e Socrate, Platone e Aristotele, stoici, epicurei e scettici, ai neoplatonici, alla scolastica, fino alla filosofia moderna (Bacone, Kant, Fichte, Schelling). Testo montato da Michelet a partire da più corsi di lezioni.",
+    "summary_en": "Lecture course reconstructing the history of philosophy as the necessary, dialectical development of the idea, from Thales and the Presocratics through the Sophists and Socrates, Plato and Aristotle, Stoics, Epicureans and Sceptics, the Neo-Platonists and Scholastics, to modern philosophy (Bacon, Kant, Fichte, Schelling). Compiled by Michelet from several courses of lectures."
+  },
+  "Lectures_on_the_Proofs_of_the_Existence_of_God": {
+    "axes": ["god", "faith_reason", "method"],
+    "positions": ["demonstrative_theism", "idealism", "dialectic_of_spirit"],
+    "concepts": ["reason", "faith", "religion", "infinity"],
+    "arguments": ["ontological_argument"],
+    "figures": [],
+    "forms": ["lecture"],
+    "schools": ["german_idealism"],
+    "summary_it": "Ciclo di lezioni, complemento alla logica, che riabilita le prove dell'esistenza di Dio contro la cultura del tempo che le ritiene superate e affida la fede al solo sentimento. Analizza cosmologico, teleologico e ontologico, mostrando che il logico non è mera forma ma il centro del contenuto religioso.",
+    "summary_en": "Lecture cycle, a supplement to the Logic, that rehabilitates the proofs of God's existence against a present-day culture that treats them as antiquated and grounds faith in feeling alone. It examines the cosmological, teleological, and ontological proofs, arguing that the logical is not mere form but the very centre of the religious content."
+  },
+  "The_Logic_of_Hegel": {
+    "axes": ["method", "reality_status", "knowledge_origin"],
+    "positions": ["dialectic", "idealism", "transcendental_criticism"],
+    "concepts": ["reason", "idea", "substance", "cause", "infinity"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["treatise"],
+    "schools": ["german_idealism"],
+    "summary_it": "La logica dell'Enciclopedia (logica minore): il pensiero che pensa se stesso, articolato attraverso i tre atteggiamenti del pensiero verso l'oggettività (metafisica, empirismo e filosofia critica di Kant, sapere immediato) e le dottrine dell'essere, dell'essenza e del concetto. La filosofia non può assumere dogmaticamente né gli oggetti né il metodo.",
+    "summary_en": "The Encyclopaedia Logic (Lesser Logic): thought thinking itself, developed through the three attitudes of thought to objectivity (old metaphysics, empiricism and Kant's critical philosophy, immediate knowledge) and the doctrines of Being, Essence, and Notion. Philosophy can assume neither its objects nor its method dogmatically."
+  },
+  "The_Phenomenology_of_Spirit": {
+    "axes": ["reality_status", "method", "knowledge_origin", "meaning_of_history"],
+    "positions": ["idealism", "dialectic", "dialectic_of_spirit"],
+    "concepts": ["self_consciousness", "recognition", "reason", "experience", "freedom", "religion"],
+    "arguments": ["master_slave_dialectic"],
+    "figures": ["master_and_slave"],
+    "forms": ["treatise"],
+    "schools": ["german_idealism"],
+    "summary_it": "Itinerario della coscienza che, attraverso certezza sensibile, percezione, autocoscienza (con la dialettica servo-padrone del riconoscimento), ragione, spirito e religione, ascende al sapere assoluto. La prefazione sostiene che l'assoluto è soggetto e che i sistemi filosofici sono momenti necessari dell'evoluzione della verità.",
+    "summary_en": "The journey of consciousness that ascends—through sense-certainty, perception, self-consciousness (with the master-slave dialectic of recognition), reason, spirit, and religion—to absolute knowledge. The Preface argues that the absolute is subject and that rival philosophical systems are necessary moments in the evolution of truth."
+  },
+  "The_Philosophy_of_Fine_Art": {
+    "axes": ["reality_status", "meaning_of_history"],
+    "positions": ["idealism", "dialectic_of_spirit"],
+    "concepts": ["beauty", "sublime", "mimesis", "idea", "nature"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["lecture"],
+    "schools": ["german_idealism"],
+    "summary_it": "Estetica di Hegel: l'arte come manifestazione sensibile dell'idea (il bello ideale), distinta dalla bellezza naturale e ordinata nelle forme simbolica, classica e romantica e nelle singole arti fino alla poesia drammatica. Testo composto dall'editore da manoscritti hegeliani e appunti di allievi.",
+    "summary_en": "Hegel's aesthetics: art as the sensuous manifestation of the idea (the ideal of beauty), distinguished from natural beauty and ordered through the symbolic, classical, and romantic forms and the individual arts up to dramatic poetry. The text was assembled by the editor from Hegel's manuscripts and pupils' lecture notes."
+  },
+  "The_Philosophy_of_History": {
+    "axes": ["meaning_of_history", "freedom_necessity", "political_legitimacy"],
+    "positions": ["dialectic_of_spirit", "idealism", "progress", "providence"],
+    "concepts": ["reason", "freedom", "state", "nature"],
+    "arguments": ["cunning_of_reason"],
+    "figures": [],
+    "forms": ["lecture"],
+    "schools": ["german_idealism"],
+    "summary_it": "Lezioni sulla storia universale come progresso della coscienza della libertà: la ragione governa il mondo e realizza la propria idea servendosi delle passioni degli individui (astuzia della ragione), incarnandosi nello Stato. Il percorso va dal mondo orientale al greco, romano e germanico-cristiano.",
+    "summary_en": "Lectures on world-history as the progress of the consciousness of freedom: Reason governs the world and realizes its idea by using the passions of individuals (the cunning of reason), embodying itself in the state. The course runs from the Oriental world through the Greek, Roman, and Germanic-Christian worlds."
+  }
+}

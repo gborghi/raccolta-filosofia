@@ -1,0 +1,134 @@
+{
+  "A_LETTER_FROM_A_GENTLEMAN_TO_HIS_FRIEND_IN_EDINBURGH": {
+    "axes": ["knowledge_origin", "god"],
+    "positions": ["scepticism", "empiricism_sceptical"],
+    "concepts": ["reason", "religion", "experience"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["epistle"],
+    "schools": ["british_empiricism", "enlightenment"],
+    "summary_it": "Lettera che difende il Trattato sulla natura umana dalle accuse di scetticismo e ateismo mosse a Edimburgo, replicando articolo per articolo al capo d'imputazione e mostrando che lo scetticismo empirico dell'autore non intacca religione e morale.",
+    "summary_en": "A letter defending the Treatise of Human Nature against charges of scepticism and atheism raised in Edinburgh, answering the indictment point by point and arguing that the author's sceptical empiricism does not undermine religion or morality."
+  },
+  "A_TREATISE_OF_HUMAN_NATURE": {
+    "axes": ["knowledge_origin", "method", "moral_foundation", "freedom_necessity", "soul_body"],
+    "positions": ["empiricism", "empiricism_sceptical", "scepticism", "induction", "moral_sentiment", "compatibilism"],
+    "concepts": ["idea", "experience", "cause", "custom", "reason", "passion", "self_consciousness", "substance", "virtue", "justice", "property", "beauty", "soul"],
+    "arguments": ["problem_of_induction"],
+    "figures": [],
+    "forms": ["treatise"],
+    "schools": ["british_empiricism", "enlightenment"],
+    "summary_it": "L'opera maggiore di Hume: applica il metodo sperimentale alla scienza dell'uomo, deriva ogni idea dalle impressioni, riduce la causalità ad abitudine e attesa, nega un io sostanziale, fonda la morale sul sentimento e concilia libertà e necessità.",
+    "summary_en": "Hume's principal work: it applies the experimental method to the science of man, derives every idea from impressions, reduces causation to custom and expectation, denies a substantial self, grounds morality in sentiment, and reconciles liberty with necessity."
+  },
+  "A_TRUE_ACCOUNT_OF_THE_BEHAVIOURS_AND_CONDUCT_OF_ARCHIBALD_STEWART": {
+    "axes": [],
+    "positions": [],
+    "concepts": ["justice"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["epistle"],
+    "schools": [],
+    "summary_it": "Pamphlet epistolare che difende Archibald Stewart, ex Lord Provost di Edimburgo, dall'accusa di aver ceduto la città ai ribelli giacobiti nel 1745, valutando le forze disponibili e la giustizia del processo. Testo d'occasione, non filosofico.",
+    "summary_en": "An epistolary pamphlet defending Archibald Stewart, former Lord Provost of Edinburgh, against the charge of surrendering the city to the Jacobite rebels in 1745, weighing the available forces and the fairness of the trial. An occasional, non-philosophical piece."
+  },
+  "AN_ABSTRACT_OF_A_BOOK_LATELY_PUBLISHED_ENTITLED_A_TREATISE_OF_HUMAN_NATURE_ETC": {
+    "axes": ["knowledge_origin", "method"],
+    "positions": ["empiricism", "empiricism_sceptical", "induction"],
+    "concepts": ["cause", "custom", "experience", "idea"],
+    "arguments": ["problem_of_induction"],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["british_empiricism", "enlightenment"],
+    "summary_it": "Riassunto anonimo del Trattato scritto da Hume stesso, che isola un solo argomento tracciato dall'inizio alla fine: l'analisi del nesso causale come inferenza fondata sull'abitudine e non sulla ragione.",
+    "summary_en": "An anonymous abstract of the Treatise written by Hume himself, isolating a single argument traced from start to finish: the analysis of the causal connexion as an inference founded on custom rather than reason."
+  },
+  "AN_ENQUIRY_CONCERNING_HUMAN_UNDERSTANDING": {
+    "axes": ["knowledge_origin", "method", "freedom_necessity", "god"],
+    "positions": ["empiricism", "empiricism_sceptical", "scepticism", "induction", "compatibilism"],
+    "concepts": ["cause", "custom", "experience", "idea", "reason", "miracle"],
+    "arguments": ["problem_of_induction", "against_miracles"],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["british_empiricism", "enlightenment"],
+    "summary_it": "Riformulazione più accessibile dell'epistemologia del Trattato: origine delle idee dalle impressioni, problema dell'induzione, causalità come abitudine, compatibilità di libertà e necessità e il celebre argomento contro la credibilità dei miracoli.",
+    "summary_en": "A more accessible restatement of the Treatise's epistemology: the origin of ideas in impressions, the problem of induction, causation as custom, the compatibility of liberty and necessity, and the famous argument against the credibility of miracles."
+  },
+  "AN_ENQUIRY_CONCERNING_THE_PRINCIPLES_OF_MORALS": {
+    "axes": ["moral_foundation", "method"],
+    "positions": ["moral_sentiment", "utility_pleasure", "empiricism"],
+    "concepts": ["virtue", "passion", "reason", "justice", "beauty", "custom"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["british_empiricism", "enlightenment"],
+    "summary_it": "Indagine sui fondamenti della morale che Hume giudicava la sua opera migliore: le distinzioni morali derivano dal sentimento più che dalla ragione, e virtù e vizio si spiegano attraverso l'utilità e la piacevolezza dei caratteri per sé e per gli altri.",
+    "summary_en": "An enquiry into the foundations of morals that Hume rated his best work: moral distinctions derive from sentiment rather than reason, and virtue and vice are explained through the utility and agreeableness of character traits to oneself and others."
+  },
+  "DIALOGUES_CONCERNING_NATURAL_RELIGION": {
+    "axes": ["god", "faith_reason", "method"],
+    "positions": ["scepticism", "deism", "demonstrative_theism"],
+    "concepts": ["religion", "reason", "cause", "nature"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["dialogue"],
+    "schools": ["enlightenment"],
+    "summary_it": "Dialogo postumo fra Cleante, Demea e lo scettico Filone sulla religione naturale: sottopone a critica serrata l'argomento del disegno e la teologia razionale, lasciando irrisolta la natura del divino.",
+    "summary_en": "A posthumous dialogue among Cleanthes, Demea, and the sceptic Philo on natural religion, subjecting the argument from design and rational theology to sustained criticism while leaving the nature of the divine unresolved."
+  },
+  "ESSAYS_MORAL_POLITICAL_AND_LITERARY": {
+    "axes": ["political_legitimacy", "state_and_individual", "moral_foundation", "god", "meaning_of_history"],
+    "positions": ["scepticism", "moral_sentiment", "toleration", "progress"],
+    "concepts": ["state", "law", "money", "beauty", "virtue", "passion", "religion", "soul", "death", "justice", "freedom"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["british_empiricism", "enlightenment", "epicureanism", "stoicism"],
+    "summary_it": "Ampia raccolta di saggi su politica, governo, commercio, gusto e religione, con l'autobiografia di Hume, i ritratti delle quattro sette filosofiche (Epicureo, Stoico, Platonista, Scettico) e i saggi sul suicidio e sull'immortalità dell'anima.",
+    "summary_en": "A broad collection of essays on politics, government, commerce, taste, and religion, including Hume's autobiography, the portraits of the four philosophical sects (Epicurean, Stoic, Platonist, Sceptic), and the essays on suicide and the immortality of the soul."
+  },
+  "FOUR_DISSERTATIONS": {
+    "axes": ["god", "moral_foundation"],
+    "positions": ["deism", "scepticism", "empiricism"],
+    "concepts": ["religion", "passion", "beauty", "custom", "nature"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["enlightenment"],
+    "summary_it": "Quattro dissertazioni: la Storia naturale della religione, che ricostruisce il passaggio dal politeismo al teismo come processo psicologico e storico; e i saggi sulle passioni, sulla tragedia e sullo standard del gusto.",
+    "summary_en": "Four dissertations: the Natural History of Religion, which reconstructs the movement from polytheism to theism as a psychological and historical process; and the essays on the passions, on tragedy, and on the standard of taste."
+  },
+  "LETTER_TO_THE_AUTHOR_OF_THE_DELINEATION_OF_THE_NATURE_AND_OBLIGATION_OF_MORALITY": {
+    "axes": [],
+    "positions": ["scepticism"],
+    "concepts": ["friendship", "virtue"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["epistle"],
+    "schools": [],
+    "summary_it": "Breve lettera cortese a un critico anonimo che protesta contro l'attribuzione a Hume delle opinioni del personaggio dello Scettico nel dialogo, difendendo l'amicizia tra uomini di lettere al di là delle sette filosofiche.",
+    "summary_en": "A short courteous letter to an anonymous critic, protesting against the ascription to Hume of the Sceptic character's opinions in the dialogue, and defending friendship among men of letters across philosophical sects."
+  },
+  "SCOTTICISMS": {
+    "axes": [],
+    "positions": [],
+    "concepts": [],
+    "arguments": [],
+    "figures": [],
+    "forms": [],
+    "schools": [],
+    "summary_it": "Breve lista di scozzesismi: usi grammaticali e lessicali scozzesi da evitare a favore dell'inglese standard (will/shall, these/those, ecc.). Nota linguistica, senza contenuto filosofico.",
+    "summary_en": "A short list of Scotticisms: Scots grammatical and lexical usages to avoid in favour of standard English (will/shall, these/those, etc.). A linguistic note with no philosophical content."
+  },
+  "THE_HISTORY_OF_ENGLAND": {
+    "axes": [],
+    "positions": [],
+    "concepts": [],
+    "arguments": [],
+    "figures": [],
+    "forms": [],
+    "schools": [],
+    "summary_it": "Vasta storia narrativa dell'Inghilterra dall'invasione romana in poi, opera che diede a Hume fama e fortuna in vita. Storia politica e narrativa, non filosofia.",
+    "summary_en": "A vast narrative history of England from the Roman invasion onward, the work that brought Hume fame and fortune in his lifetime. Political narrative history, not philosophy."
+  }
+}

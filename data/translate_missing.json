@@ -1,0 +1,362 @@
+[
+ {
+  "agent": 1,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "002_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\002_intero.md"
+ },
+ {
+  "agent": 1,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "003_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\003_intero.md"
+ },
+ {
+  "agent": 1,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "004_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\004_intero.md"
+ },
+ {
+  "agent": 1,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "005_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\005_intero.md"
+ },
+ {
+  "agent": 1,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "006_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\006_intero.md"
+ },
+ {
+  "agent": 1,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "007_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\007_intero.md"
+ },
+ {
+  "agent": 2,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "009_intero.md",
+  "need": [
+   "en"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\009_intero.md"
+ },
+ {
+  "agent": 2,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "010_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\010_intero.md"
+ },
+ {
+  "agent": 2,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "011_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\011_intero.md"
+ },
+ {
+  "agent": 2,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "012_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\012_intero.md"
+ },
+ {
+  "agent": 2,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "013_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\013_intero.md"
+ },
+ {
+  "agent": 2,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "014_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\014_intero.md"
+ },
+ {
+  "agent": 5,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "005_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\005_apertura.md"
+ },
+ {
+  "agent": 5,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "006_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\006_apertura.md"
+ },
+ {
+  "agent": 5,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "007_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\007_apertura.md"
+ },
+ {
+  "agent": 6,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "011_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\011_apertura.md"
+ },
+ {
+  "agent": 6,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "012_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\012_apertura.md"
+ },
+ {
+  "agent": 6,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "013_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\013_apertura.md"
+ },
+ {
+  "agent": 6,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "014_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\014_apertura.md"
+ },
+ {
+  "agent": 7,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "017_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\017_apertura.md"
+ },
+ {
+  "agent": 7,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "018_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\018_apertura.md"
+ },
+ {
+  "agent": 7,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "019_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\019_apertura.md"
+ },
+ {
+  "agent": 7,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "020_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\020_apertura.md"
+ },
+ {
+  "agent": 7,
+  "lang": "fr",
+  "work": "LETTRES",
+  "atom": "021_apertura.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\021_apertura.md"
+ },
+ {
+  "agent": 9,
+  "lang": "de",
+  "work": "Das_Kapital_III",
+  "atom": "010_1_Kostpreis_und_Profit.md",
+  "need": [
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\010_1_Kostpreis_und_Profit.md"
+ },
+ {
+  "agent": 9,
+  "lang": "de",
+  "work": "Das_Kapital_III",
+  "atom": "011_2_Die_Profitrate.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\011_2_Die_Profitrate.md"
+ },
+ {
+  "agent": 9,
+  "lang": "de",
+  "work": "Das_Kapital_III",
+  "atom": "012_2_Die_Profitrate.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\012_2_Die_Profitrate.md"
+ },
+ {
+  "agent": 9,
+  "lang": "de",
+  "work": "Das_Kapital_III",
+  "atom": "013_3_Verhältnis_der_Profitrate_zur_Mehrwert.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\013_3_Verhältnis_der_Profitrate_zur_Mehrwert.md"
+ },
+ {
+  "agent": 9,
+  "lang": "de",
+  "work": "Das_Kapital_III",
+  "atom": "014_3_Verhältnis_der_Profitrate_zur_Mehrwert.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\014_3_Verhältnis_der_Profitrate_zur_Mehrwert.md"
+ },
+ {
+  "agent": 11,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "032_intero.md",
+  "need": [
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\032_intero.md"
+ },
+ {
+  "agent": 11,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "033_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\033_intero.md"
+ },
+ {
+  "agent": 11,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "034_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\034_intero.md"
+ },
+ {
+  "agent": 11,
+  "lang": "es",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "atom": "035_intero.md",
+  "need": [
+   "en",
+   "it"
+  ],
+  "path": "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\035_intero.md"
+ }
+]

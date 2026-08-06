@@ -1,0 +1,282 @@
+{
+ "Conversation_on_Religion": {
+  "axes": [
+   "human_nature",
+   "god",
+   "faith_reason"
+  ],
+  "positions": [
+   "misery_and_greatness",
+   "fideism",
+   "original_sin"
+  ],
+  "concepts": [
+   "religion",
+   "faith"
+  ],
+  "arguments": [],
+  "figures": [
+   "the_libertine"
+  ],
+  "forms": [],
+  "schools": [
+   "jansenism"
+  ],
+  "summary_it": "Resoconto (di Nicole o De Saci) di una conversazione in cui Pascal espose il piano della sua progettata apologia della religione cristiana: partendo da un ritratto dell'uomo che ne mostra insieme grandezza e bassezza, contraddizioni e miseria, immagina un uomo vissuto nell'indifferenza portato a considerare che cosa sia davvero, per condurlo verso l'evidenza del cristianesimo.",
+  "summary_en": "A report (by Nicole or De Saci) of a conversation in which Pascal laid out the plan of his projected apology for the Christian religion: starting from a portraiture of man that shows at once his grandeur and baseness, contradictions and misery, he imagines a man who has lived in indifference brought to consider what he really is, so as to lead him toward the certainty of Christianity."
+ },
+ "Essay_on_Conics_1639": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Breve scritto matematico giovanile (1639) sulle sezioni coniche, con definizioni e lemmi ispirati a Desargues che conducono al celebre teorema dell'esagramma mistico. Testo puramente geometrico, senza contenuto filosofico.",
+  "summary_en": "A short early mathematical piece (1639) on conic sections, with definitions and lemmas indebted to Desargues that lead to the famous mystic-hexagram theorem. A purely geometric text with no philosophical content."
+ },
+ "Letters_and_Minor_Works": {
+  "axes": [
+   "knowledge_origin",
+   "end_of_life"
+  ],
+  "positions": [
+   "scepticism",
+   "apatheia"
+  ],
+  "concepts": [
+   "grace",
+   "faith",
+   "passion",
+   "experience",
+   "reason"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "jansenism",
+   "stoicism"
+  ],
+  "summary_it": "Raccolta di lettere di Pascal (alla sorella Jacqueline, ai Perier, a Mlle de Roannez, a Cristina di Svezia) e di scritti minori: la conversione del peccatore, la conversazione con M. de Saci su Epitteto e Montaigne (stoicismo contro scetticismo), il discorso sulla passione dell'amore e la prefazione al trattato sul vuoto.",
+  "summary_en": "A collection of Pascal's letters (to his sister Jacqueline, the Periers, Mlle de Roannez, Queen Christina) and minor works: on the conversion of the sinner, the conversation with M. de Saci on Epictetus and Montaigne (Stoicism against scepticism), the discourse on the passion of love, and the preface to the treatise on vacuum."
+ },
+ "Miscellaneous_Thoughts": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "misery_and_greatness"
+  ],
+  "concepts": [
+   "custom",
+   "justice",
+   "reason",
+   "passion"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "pensee"
+  ],
+  "schools": [
+   "jansenism"
+  ],
+  "summary_it": "Frammenti sparsi non riconducibili alle sezioni maggiori: riflessioni sull'incostanza e la vanità dell'uomo, sul primato dell'abitudine e dell'usanza (la scelta del primogenito come re), sui rapporti fra ragione e passione, e sulle opinioni fondate del popolo.",
+  "summary_en": "Scattered fragments not fitting the major sections: reflections on man's inconstancy and vanity, on the primacy of custom and habit (choosing the eldest son as king), on the relations of reason and passion, and on the sound opinions of the people."
+ },
+ "On_the_Art_of_Persuasion_1658": {
+  "axes": [
+   "faith_reason"
+  ],
+  "positions": [
+   "fideism"
+  ],
+  "concepts": [
+   "will",
+   "reason",
+   "faith",
+   "grace"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "jansenism"
+  ],
+  "summary_it": "Trattato sul modo in cui gli uomini prestano il loro assenso: le opinioni entrano nell'anima per due vie, l'intelletto e la volontà. Per le verità umane si conosce prima di amare; per le verità divine, che Dio solo pone nell'anima, l'ordine è rovesciato: si entra nella verità per la carità, amando prima di conoscere.",
+  "summary_en": "A treatise on how men give their assent: opinions enter the soul by two avenues, the understanding and the will. For human truths one knows before loving; for divine truths, which God alone places in the soul, the order is reversed: one enters truth through charity, loving before knowing."
+ },
+ "On_the_Geometrical_Spirit_1658": {
+  "axes": [
+   "method"
+  ],
+  "positions": [],
+  "concepts": [
+   "reason"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay",
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Esposizione del metodo geometrico come modello di dimostrazione: definire ogni termine con nomi chiari e provare ogni proposizione a partire da verità già note. Pascal riconosce che questo metodo ideale — definire tutto e dimostrare tutto — eccede le forze umane, ma resta la guida più sicura del ragionamento.",
+  "summary_en": "An account of the geometrical method as a model of demonstration: define every term with clear names and prove every proposition from truths already known. Pascal grants that this ideal method — to define everything and prove everything — exceeds human powers, yet it remains the surest guide of reasoning."
+ },
+ "On_the_Pope_and_the_Church": {
+  "axes": [
+   "state_and_individual",
+   "god"
+  ],
+  "positions": [
+   "sovereignty"
+  ],
+  "concepts": [
+   "religion",
+   "sacrament",
+   "revelation"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "pensee"
+  ],
+  "schools": [
+   "jansenism"
+  ],
+  "summary_it": "Frammenti sulla Chiesa e il papato: il potere dei re e dei papi, l'autorità ecclesiastica, la confessione e l'assoluzione senza segni di pentimento, e il primato di una vera conversione del cuore sulle osservanze esterne.",
+  "summary_en": "Fragments on the Church and the papacy: the power of kings and popes, ecclesiastical authority, confession and absolution without signs of sorrow, and the primacy of a true conversion of the heart over external observances."
+ },
+ "The_Provincial_Letters_1657": {
+  "axes": [
+   "god"
+  ],
+  "positions": [],
+  "concepts": [
+   "grace",
+   "predestination",
+   "justice",
+   "faith"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "jansenism"
+  ],
+  "summary_it": "Serie di lettere polemiche in difesa di Arnauld e di Port-Royal contro i gesuiti: la disputa sulla grazia (le proposizioni di Giansenio, potere prossimo, grazia efficace) e soprattutto l'attacco alla morale lassista dei casisti e alla dottrina della probabilità.",
+  "summary_en": "A series of polemical letters defending Arnauld and Port-Royal against the Jesuits: the dispute over grace (the propositions of Jansenius, proximate power, efficacious grace) and above all the attack on the lax morality of the casuists and the doctrine of probability."
+ },
+ "Thoughts_1670": {
+  "axes": [
+   "human_nature",
+   "god",
+   "faith_reason",
+   "knowledge_origin"
+  ],
+  "positions": [
+   "misery_and_greatness",
+   "fideism",
+   "original_sin",
+   "scepticism"
+  ],
+  "concepts": [
+   "grace",
+   "faith",
+   "reason",
+   "custom",
+   "infinity",
+   "miracle",
+   "religion",
+   "revelation",
+   "charity",
+   "concupiscence"
+  ],
+  "arguments": [
+   "pascals_wager",
+   "thinking_reed",
+   "divertissement"
+  ],
+  "figures": [
+   "the_libertine"
+  ],
+  "forms": [
+   "pensee"
+  ],
+  "schools": [
+   "jansenism"
+  ],
+  "summary_it": "I Pensieri: i frammenti dell'apologia incompiuta del cristianesimo. La miseria e la grandezza dell'uomo (la canna pensante), la sproporzione e i due infiniti, il divertissement, la scommessa, il ricorso al pirronismo contro i dogmatici, il cuore che sente ciò che la ragione non raggiunge, il peccato originale, e le prove per profezie e miracoli.",
+  "summary_en": "The Pensées: the fragments of the unfinished apology for Christianity. Man's misery and greatness (the thinking reed), disproportion and the two infinities, diversion, the wager, the recourse to Pyrrhonism against the dogmatists, the heart that feels what reason cannot reach, original sin, and the proofs from prophecy and miracles."
+ },
+ "Thoughts_and_Notes_for_the_Provincial_Letters": {
+  "axes": [
+   "god"
+  ],
+  "positions": [],
+  "concepts": [
+   "grace",
+   "religion",
+   "justice"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "pensee",
+   "epistle"
+  ],
+  "schools": [
+   "jansenism"
+  ],
+  "summary_it": "Appunti e frammenti preparatori delle Lettere provinciali: note contro i gesuiti, la casistica e la probabilità, sulla morale rilassata opposta alla verità, e sulla condotta dell'ordine, materiali grezzi poi rifusi nell'opera compiuta.",
+  "summary_en": "Preparatory notes and fragments for the Provincial Letters: jottings against the Jesuits, casuistry and probability, on lax morality opposed to truth, and on the conduct of the order — raw materials later recast into the finished work."
+ },
+ "Thoughts_on_Eloquence_and_Style": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "beauty"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "pensee"
+  ],
+  "schools": [],
+  "summary_it": "Brevi frammenti sull'eloquenza e lo stile: l'eloquenza come ritratto del pensiero, l'accordo fra chi parla e chi ascolta, l'esigenza di semplicità e naturalezza, e la condanna delle false bellezze e delle antitesi ornamentali.",
+  "summary_en": "Short fragments on eloquence and style: eloquence as a portraiture of thought, the correspondence between speaker and hearer, the demand for simplicity and nature, and the condemnation of false beauties and ornamental antitheses."
+ },
+ "Thoughts_on_the_Jesuits_and_the_Jansenists": {
+  "axes": [
+   "god"
+  ],
+  "positions": [],
+  "concepts": [
+   "miracle",
+   "religion",
+   "grace",
+   "faith"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "pensee"
+  ],
+  "schools": [
+   "jansenism"
+  ],
+  "summary_it": "Frammenti legati alla contesa fra gesuiti e giansenisti: la probabilità e i casisti, la persecuzione dei giansenisti, e i tre segni della vera religione — perpetuità, santità di vita e miracoli.",
+  "summary_en": "Fragments tied to the contest between Jesuits and Jansenists: probability and the casuists, the persecution of the Jansenists, and the three marks of true religion — perpetuity, holiness of life, and miracles."
+ }
+}

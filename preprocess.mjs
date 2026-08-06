@@ -40,7 +40,7 @@ const REPO_ROOT = path.resolve(ROOT, "..") // Philosophy/
 const VAULT = path.join(REPO_ROOT, "VaultPhilosophy")
 const KG_DIR = path.join(VAULT, "Knowledge Graph")
 const PHIL_DIR = path.join(VAULT, "Philosophers")
-const DATA_DIR = path.join(REPO_ROOT, "data")
+const DATA_DIR = path.join(ROOT, "data") // data/ vive nel repo del sito, insieme a scripts/
 const CONTENT = path.join(ROOT, "content")
 const STATIC_DIR = path.join(ROOT, "quartz", "static")
 

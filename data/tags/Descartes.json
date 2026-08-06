@@ -1,0 +1,447 @@
+{
+ "ABRÉGÉ_DE_LA_MUSIQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "beauty",
+   "passion"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Trattato giovanile (1618) sulla teoria musicale: analizza il suono come oggetto capace di piacere e di suscitare passioni, e ne deduce le proporzioni aritmetiche che rendono un accordo gradevole all'orecchio. È un'opera tecnica di acustica ed estetica del suono, non un testo di metafisica.",
+  "summary_en": "An early treatise (1618) on music theory: it analyses sound as an object capable of producing pleasure and stirring passions, and derives the arithmetical proportions that make a chord pleasing to the ear. This is a technical work on acoustics and the aesthetics of sound, not a metaphysical text."
+ },
+ "DE_LA_FORMATION_DU_FŒTUS": {
+  "axes": [
+   "soul_body"
+  ],
+  "positions": [
+   "substance_dualism"
+  ],
+  "concepts": [
+   "soul",
+   "cause",
+   "bete_machine"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Trattato di embriologia che spiega meccanicamente la formazione del feto, ma si apre con un argomento cardine del dualismo cartesiano: le funzioni vitali del corpo (battito cardiaco, digestione) non dipendono dall'anima, che si conosce solo in quanto pensa, bensì dalla sola disposizione degli organi.",
+  "summary_en": "A treatise on embryology that mechanically explains the formation of the foetus, but opens with a cornerstone argument of Cartesian dualism: the body's vital functions (heartbeat, digestion) do not depend on the soul, which is known only insofar as it thinks, but on the disposition of the organs alone."
+ },
+ "DISCOURS_DE_LA_MÉTHODE": {
+  "axes": [
+   "method",
+   "god",
+   "soul_body"
+  ],
+  "positions": [
+   "methodic_doubt",
+   "demonstrative_theism",
+   "substance_dualism"
+  ],
+  "concepts": [
+   "cogito",
+   "idees_claires_distinctes",
+   "bete_machine",
+   "reason"
+  ],
+  "arguments": [
+   "cogito_argument"
+  ],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Il manifesto autobiografico del metodo cartesiano: quattro regole per condurre bene la ragione, il dubbio provvisorio che culmina nel cogito, una prova dell'esistenza di Dio, e la distinzione fra l'uomo pensante e l'animale-macchina. Fonda in poche pagine il programma dell'intera filosofia di Descartes.",
+  "summary_en": "The autobiographical manifesto of the Cartesian method: four rules for rightly conducting reason, a provisional doubt culminating in the cogito, a proof of God's existence, and the distinction between the thinking human being and the animal-machine. In a few pages it lays out the programme of Descartes's entire philosophy."
+ },
+ "EXTRAIT_DES_MANUSCRITS_DE_RENÉ_DESCARTES": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "infinity"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Frammento matematico postumo su trigonometria e corde circolari, con tavole per calcolare gli angoli di un triangolo dati i lati. Puro esercizio di geometria analitica, privo di contenuto filosofico.",
+  "summary_en": "A posthumous mathematical fragment on trigonometry and circular chords, with tables for computing a triangle's angles from its sides. A pure exercise in analytic geometry, with no philosophical content."
+ },
+ "LA_DIOPTRIQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "experience"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Saggio scientifico allegato al Discours de la méthode: spiega la natura della luce, la struttura dell'occhio e il funzionamento della visione, per poi proporre il disegno di lenti migliori. Opera tecnica di ottica, non di metafisica.",
+  "summary_en": "A scientific essay appended to the Discourse on Method: it explains the nature of light, the structure of the eye, and how vision works, then proposes designs for better lenses. A technical work on optics, not metaphysics."
+ },
+ "LE_MONDE_OU_LE_TRAITÉ_DE_LA_LUMIÈRE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "idea",
+   "experience",
+   "nature",
+   "cause",
+   "mechanism"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Trattato cosmologico (rimasto inedito per timore della condanna di Galileo) che espone un universo puramente meccanico di materia ed estensione. Si apre con un argomento epistemologico importante: le idee sensibili (come la luce) non assomigliano affatto alle cause fisiche che le producono.",
+  "summary_en": "A cosmological treatise (left unpublished for fear of Galileo's fate) presenting a purely mechanical universe of matter and extension. It opens with an important epistemological argument: sensory ideas (such as light) do not resemble at all the physical causes that produce them."
+ },
+ "LES_MÉTÉORES": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "nature",
+   "cause"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Saggio scientifico sui fenomeni atmosferici — venti, nubi, grandine, arcobaleno — spiegati con le sole leggi della materia e del moto, senza ricorso a cause occulte. Opera tecnica di meteorologia, appendice al Discours de la méthode.",
+  "summary_en": "A scientific essay on atmospheric phenomena — winds, clouds, hail, the rainbow — explained solely through the laws of matter and motion, without recourse to occult causes. A technical work of meteorology, appended to the Discourse on Method."
+ },
+ "LES_PASSIONS_DE_LÂME": {
+  "axes": [
+   "soul_body",
+   "moral_foundation"
+  ],
+  "positions": [
+   "substance_dualism",
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "passion",
+   "glande_pineale",
+   "will",
+   "soul"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Ultimo trattato di Descartes, dedicato a spiegare \"in fisico\" le passioni dell'anima e la loro sede nella ghiandola pineale, dove anima e corpo comunicano. Propone una morale della generosità come uso fermo e virtuoso della volontà per governare le passioni.",
+  "summary_en": "Descartes's last treatise, aiming to explain the passions of the soul 'as a physicist' and locate their seat in the pineal gland, where soul and body communicate. It proposes an ethics of générosité as the firm, virtuous use of the will to govern the passions."
+ },
+ "LES_PRINCIPES_DE_LA_PHILOSOPHIE": {
+  "axes": [
+   "method",
+   "god",
+   "soul_body",
+   "knowledge_origin",
+   "moral_foundation"
+  ],
+  "positions": [
+   "methodic_doubt",
+   "demonstrative_theism",
+   "substance_dualism",
+   "innatism",
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "cogito",
+   "idees_claires_distinctes",
+   "substance",
+   "cause",
+   "virtue",
+   "mechanism"
+  ],
+  "arguments": [
+   "cogito_argument",
+   "ontological_argument"
+  ],
+  "figures": [
+   "malin_genie"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "La summa sistematica della filosofia cartesiana: dubbio metodico, cogito, idee chiare e distinte come criterio di verità, prova dell'esistenza di Dio, e una fisica interamente meccanicistica della materia estesa. Il manuale con cui Descartes intendeva sostituire i trattati scolastici nelle università.",
+  "summary_en": "The systematic summa of Cartesian philosophy: methodic doubt, the cogito, clear and distinct ideas as the criterion of truth, a proof of God's existence, and an entirely mechanistic physics of extended matter. The textbook with which Descartes meant to replace scholastic manuals in the universities."
+ },
+ "LETTRE_DE_RENÉ_DESCARTES_A_GISBERT_VOET": {
+  "axes": [
+   "method"
+  ],
+  "positions": [
+   "methodic_doubt"
+  ],
+  "concepts": [
+   "religion",
+   "reason"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Lettera-pamphlet in cui Descartes si difende dall'accusa di ateismo mossa dal teologo di Utrecht Gisbert Voet, denunciandola come calunnia priva di argomenti razionali e opponendo il proprio metodo alla polemica scolastica.",
+  "summary_en": "A polemical open letter in which Descartes defends himself against the charge of atheism levelled by the Utrecht theologian Gisbert Voetius, denouncing it as slander without rational argument and setting his own method against scholastic polemics."
+ },
+ "LETTRES": {
+  "axes": [
+   "method",
+   "god",
+   "soul_body",
+   "knowledge_origin"
+  ],
+  "positions": [
+   "methodic_doubt",
+   "demonstrative_theism",
+   "substance_dualism",
+   "innatism"
+  ],
+  "concepts": [
+   "cogito",
+   "idea",
+   "reason",
+   "passion",
+   "cause",
+   "experience"
+  ],
+  "arguments": [
+   "cogito_argument"
+  ],
+  "figures": [
+   "malin_genie"
+  ],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Il vasto corpus epistolare di Descartes (oltre 550.000 parole), che accompagna quasi quarant'anni di vita intellettuale: vi si discutono in presa diretta il cogito, le prove dell'esistenza di Dio, il dualismo anima-corpo, la fisica e le passioni, spesso con più franchezza che nelle opere pubblicate.",
+  "summary_en": "Descartes's vast body of correspondence (over 550,000 words), spanning nearly forty years of intellectual life: it discusses in real time the cogito, the proofs of God's existence, mind-body dualism, physics and the passions — often more frankly than in the published works."
+ },
+ "MÉDITATIONS_MÉTAPHYSIQUES": {
+  "axes": [
+   "method",
+   "god",
+   "soul_body",
+   "knowledge_origin"
+  ],
+  "positions": [
+   "methodic_doubt",
+   "demonstrative_theism",
+   "substance_dualism",
+   "innatism"
+  ],
+  "concepts": [
+   "cogito",
+   "idees_claires_distinctes",
+   "substance",
+   "idea",
+   "cause",
+   "reason"
+  ],
+  "arguments": [
+   "cogito_argument",
+   "ontological_argument"
+  ],
+  "figures": [
+   "malin_genie"
+  ],
+  "forms": [
+   "meditation"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Il capolavoro metafisico di Descartes: sei meditazioni che, attraverso il dubbio iperbolico e l'ipotesi del genio maligno, giungono al cogito come primo punto fermo, poi dimostrano l'esistenza di Dio e la distinzione reale fra anima e corpo. Il testo fondativo del razionalismo moderno.",
+  "summary_en": "Descartes's metaphysical masterpiece: six meditations that, through hyperbolic doubt and the hypothesis of the evil demon, arrive at the cogito as a first fixed point, then demonstrate the existence of God and the real distinction between soul and body. The founding text of modern rationalism."
+ },
+ "OBJECTIONS_AUX_MÉDITATIONS": {
+  "axes": [
+   "method",
+   "god",
+   "soul_body"
+  ],
+  "positions": [
+   "methodic_doubt",
+   "demonstrative_theism",
+   "substance_dualism"
+  ],
+  "concepts": [
+   "cogito",
+   "idea",
+   "substance",
+   "cause"
+  ],
+  "arguments": [
+   "cogito_argument",
+   "ontological_argument"
+  ],
+  "figures": [
+   "malin_genie"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "continental_rationalism",
+   "scholasticism"
+  ],
+  "summary_it": "Le sei (poi sette) serie di obiezioni alle Meditazioni — di teologi, scolastici e filosofi come Caterus, Arnauld, Hobbes e Gassendi — insieme alle risposte di Descartes: un vero dibattito filosofico a più voci su cogito, dualismo e prova di Dio, che mette alla prova ogni snodo argomentativo dell'opera.",
+  "summary_en": "The six (later seven) sets of objections to the Meditations — by theologians, scholastics and philosophers such as Caterus, Arnauld, Hobbes and Gassendi — together with Descartes's replies: a genuine multi-voiced philosophical debate on the cogito, dualism and the proof of God, stress-testing every argumentative step of the work."
+ },
+ "PREMIÈRES_PENSÉES_SUR_LA_GÉNÉRATION_DES_ANIMAUX_ET_LES_SAVEURS": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "nature",
+   "cause",
+   "bete_machine"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Ampio trattato di fisiologia meccanicistica (oltre 10.000 parole) sulla generazione degli animali e sulla natura dei sapori: Descartes spiega la formazione dell'animale — con o senza seme, fino alla generazione spontanea nella materia in putrefazione — come puro concorso di parti sottili (gli 'spiriti vitali') e grossolane (il sangue) sotto l'effetto del calore, dove il cuore si forma per primo e da esso derivano cervello e organi, senza alcun ricorso all'anima. Testo scientifico, ma solidale con la concezione dell'animale-macchina.",
+  "summary_en": "A substantial treatise of mechanistic physiology (over 10,000 words) on the generation of animals and the nature of tastes: Descartes explains the formation of the animal — with or without seed, down to spontaneous generation in putrefying matter — as a pure concourse of subtle parts (the 'vital spirits') and grosser parts (blood) under the action of heat, in which the heart forms first and from it derive the brain and organs, with no recourse to a soul. A scientific text, but consonant with the beast-machine conception."
+ },
+ "RECHERCHE_DE_LA_VÉRITÉ_PAR_LES_LUMIÈRES_NATURELLES": {
+  "axes": [
+   "method"
+  ],
+  "positions": [
+   "methodic_doubt"
+  ],
+  "concepts": [
+   "cogito",
+   "reason"
+  ],
+  "arguments": [
+   "cogito_argument"
+  ],
+  "figures": [],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Dialogo filosofico incompiuto in cui il personaggio Eudosso (portavoce di Descartes) guida Poliandro ed Epistemone a trovare la verità con la sola luce naturale della ragione, senza fidarsi dei libri o dell'autorità — mettendo in scena una versione dialogica del dubbio e del cogito.",
+  "summary_en": "An unfinished philosophical dialogue in which the character Eudoxus (Descartes's mouthpiece) guides Polyander and Epistemon to find truth by the natural light of reason alone, without trusting books or authority — staging a dialogic version of doubt and the cogito."
+ },
+ "RÈGLES_POUR_LA_DIRECTION_DE_LESPRIT": {
+  "axes": [
+   "method"
+  ],
+  "positions": [
+   "methodic_doubt"
+  ],
+  "concepts": [
+   "reason",
+   "idees_claires_distinctes"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Trattato metodologico incompiuto, anteriore al Discours: espone in ventuno regole come dirigere l'intelligenza verso giudizi certi, insistendo sull'unità del sapere e su intuizione ed evidenza come fondamento della conoscenza — la prima formulazione del metodo cartesiano.",
+  "summary_en": "An unfinished methodological treatise, prior to the Discourse: it lays out twenty-one rules for directing the mind toward certain judgments, insisting on the unity of knowledge and on intuition and evidence as the foundation of knowledge — the first formulation of the Cartesian method."
+ },
+ "TRAITÉ_DE_LA_GÉOMÉTRIE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "infinity"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Trattato di geometria analitica (appendice al Discours de la méthode) che traduce i problemi geometrici in equazioni algebriche, ponendo le basi della notazione algebrica moderna. Opera tecnica di matematica.",
+  "summary_en": "A treatise on analytic geometry (appended to the Discourse on Method) that translates geometrical problems into algebraic equations, laying the foundations of modern algebraic notation. A technical mathematical work."
+ },
+ "TRAITÉ_DE_LA_MÉCANIQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "cause"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Breve trattato tecnico sulle macchine semplici (carrucola, piano inclinato, cuneo, vite, leva), fondato sul principio di proporzionalità fra forza e distanza. Opera di meccanica pratica, senza sviluppi filosofici.",
+  "summary_en": "A short technical treatise on simple machines (pulley, inclined plane, wedge, screw, lever), based on the principle of proportionality between force and distance. A work of practical mechanics, without philosophical development."
+ },
+ "TRAITÉ_DE_LHOMME": {
+  "axes": [
+   "soul_body"
+  ],
+  "positions": [
+   "substance_dualism"
+  ],
+  "concepts": [
+   "bete_machine",
+   "glande_pineale",
+   "soul",
+   "cause"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Descrizione del corpo umano come pura macchina costruita da Dio — un automa i cui movimenti (digestione, respirazione, riflessi) si spiegano senza ricorrere all'anima — completata dall'unione con un'anima pensante distinta. Il testo che fonda la dottrina dell'animale-macchina e anticipa la ghiandola pineale come sede dell'unione anima-corpo.",
+  "summary_en": "A description of the human body as a pure machine built by God — an automaton whose movements (digestion, breathing, reflexes) are explained without invoking the soul — completed by its union with a distinct thinking soul. The text that founds the beast-machine doctrine and anticipates the pineal gland as the seat of the soul-body union."
+ }
+}

@@ -1,0 +1,28 @@
+{
+  "_note": "Nodi nuovi emersi dall'ingest di Schopenhauer e Leibniz (2026-08-01). principle_of_sufficient_reason e' condiviso (Schop lo eredita da Leibniz e ne fa il cardine epistemologico). Merge con scripts/merge_taxonomy.py, che rilinka le positions al loro axis.",
+  "positions": [
+    {"id": "pessimism", "label_it": "pessimismo", "label_en": "pessimism", "axis": "end_of_life", "contro": ["optimism"], "aliases": ["Pessimismus", "la vita come sofferenza"]},
+    {"id": "optimism", "label_it": "ottimismo", "label_en": "optimism", "axis": "end_of_life", "contro": ["pessimism"], "aliases": ["Optimismus", "il migliore dei mondi possibili"]},
+    {"id": "voluntarism", "label_it": "volontarismo", "label_en": "voluntarism", "axis": "reality_status", "contro": ["materialism", "rationalism"], "aliases": ["Wille als Ding an sich", "la volonta' come cosa in se'"]}
+  ],
+  "concepts": [
+    {"id": "will_to_live", "label_it": "volonta' di vivere", "label_en": "will to live", "aliases": ["Wille zum Leben"]},
+    {"id": "representation", "label_it": "rappresentazione", "label_en": "representation", "aliases": ["Vorstellung", "il mondo come rappresentazione"]},
+    {"id": "suffering", "label_it": "sofferenza", "label_en": "suffering", "aliases": ["Leiden", "dolore"]},
+    {"id": "compassion", "label_it": "compassione", "label_en": "compassion", "aliases": ["Mitleid", "pieta'"]},
+    {"id": "principle_of_sufficient_reason", "label_it": "principio di ragion sufficiente", "label_en": "principle of sufficient reason", "aliases": ["Satz vom zureichenden Grunde", "principium rationis sufficientis"]},
+    {"id": "monad", "label_it": "monade", "label_en": "monad", "aliases": ["monas", "entelechia", "entelechy"]},
+    {"id": "pre_established_harmony", "label_it": "armonia prestabilita", "label_en": "pre-established harmony", "aliases": ["praestabilierte Harmonie", "harmonia praestabilita"]},
+    {"id": "best_of_all_possible_worlds", "label_it": "migliore dei mondi possibili", "label_en": "best of all possible worlds", "aliases": ["le meilleur des mondes possibles"]},
+    {"id": "theodicy", "label_it": "teodicea", "label_en": "theodicy", "aliases": ["giustificazione di Dio", "justification of God"]},
+    {"id": "petites_perceptions", "label_it": "piccole percezioni", "label_en": "minute perceptions", "aliases": ["petites perceptions"]}
+  ],
+  "arguments": [
+    {"id": "identity_of_indiscernibles", "label_it": "identita' degli indiscernibili", "label_en": "identity of indiscernibles", "philosopher": "Leibniz", "axis": "reality_status", "position": "rationalism"},
+    {"id": "world_as_will_and_representation", "label_it": "il mondo come volonta' e rappresentazione", "label_en": "the world as will and representation", "philosopher": "Schopenhauer", "axis": "reality_status", "position": "voluntarism"}
+  ],
+  "figures": [
+    {"id": "schopenhauer", "label_it": "Schopenhauer", "label_en": "Schopenhauer", "kind": "philosopher"},
+    {"id": "kant", "label_it": "Kant", "label_en": "Kant", "kind": "philosopher"}
+  ]
+}

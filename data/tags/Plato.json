@@ -1,0 +1,697 @@
+{
+ "APOLOGY": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "wisdom",
+   "virtue",
+   "soul",
+   "death"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Il discorso di difesa di Socrate al processo per empietà e corruzione dei giovani: rivendica la propria missione filosofica come un dono divino, sostiene che 'una vita senza esame non è degna di essere vissuta' e che a un uomo buono non può accadere alcun male, nemmeno la morte. Testo fondativo dell'immagine di Socrate come martire della filosofia.",
+  "summary_en": "Socrates' defence speech at his trial for impiety and corrupting the youth: he frames his philosophical mission as a divine calling, argues that 'the unexamined life is not worth living,' and insists that no evil can befall a good man, not even death. A founding text for the image of Socrates as philosophy's martyr."
+ },
+ "CHARMIDES": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "virtue",
+   "wisdom"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Dialogo aporetico sulla temperanza (sophrosyne): Socrate interroga il giovane Carmide e poi Crizia, esaminando definizioni come 'fare le cose proprie' o 'conoscenza di sé', finché anche l'idea di una 'scienza della scienza' si rivela inconsistente. Nessuna definizione regge, e il dialogo si chiude senza una risposta positiva.",
+  "summary_en": "An aporetic dialogue on temperance (sophrosyne): Socrates questions the young Charmides and then Critias, testing definitions such as 'doing one's own business' and 'self-knowledge,' until even the idea of a 'science of science' collapses. No definition survives, and the dialogue ends without a positive answer."
+ },
+ "CRATYLUS": {
+  "axes": [
+   "reality_status"
+  ],
+  "positions": [
+   "realism_of_ideas"
+  ],
+  "concepts": [
+   "mimesis"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Dialogo sulla filosofia del linguaggio: Cratilo sostiene che i nomi sono corretti per natura, Ermogene che sono pura convenzione; Socrate media con una lunga serie di etimologie giocose, mostrando che i nomi sono 'imitazioni' vocali delle cose. Conclude però che se tutto fosse in flusso eracliteo, come vuole Cratilo, non vi sarebbe conoscenza possibile: bisogna dunque ammettere realtà stabili conoscibili al di là delle parole.",
+  "summary_en": "A dialogue on the philosophy of language: Cratylus holds that names are correct by nature, Hermogenes that they are pure convention; Socrates mediates through an extended, often playful chain of etymologies, treating names as vocal imitations of things. He concludes, though, that if everything were in Heraclitean flux, as Cratylus supposes, no knowledge would be possible — so stable realities knowable apart from words must exist."
+ },
+ "CRITIAS": {
+  "axes": [
+   "meaning_of_history"
+  ],
+  "positions": [
+   "decadence"
+  ],
+  "concepts": [
+   "virtue",
+   "state"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Racconto mitico, rimasto incompiuto, dell'antica Atene virtuosa e della sua vittoria sulla potenza imperiale di Atlantide, descritta nei minimi dettagli. Il testo si interrompe proprio mentre gli dei si riuniscono per punire gli Atlantidei, corrotti dal progressivo affievolirsi in loro della natura divina: un racconto sulla decadenza morale del potere.",
+  "summary_en": "An unfinished mythical narrative of virtuous ancient Athens and its victory over the imperial power of Atlantis, described in elaborate detail. The text breaks off just as the gods convene to punish the Atlanteans, corrupted as their divine nature grew diluted by mortal admixture — a story about the moral decadence of power."
+ },
+ "CRITO": {
+  "axes": [
+   "political_legitimacy",
+   "moral_foundation"
+  ],
+  "positions": [
+   "social_contract",
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "law",
+   "justice",
+   "covenant"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Nella prigione, Critone offre a Socrate la fuga; Socrate rifiuta, facendo parlare le Leggi di Atene, che gli ricordano di aver tacitamente accettato il patto della città vivendoci e beneficiandone per tutta la vita. Sostiene che non si deve mai commettere ingiustizia, nemmeno per rispondere a un'ingiustizia subita: obbedire alla sentenza, anche se ingiusta, è più giusto che fuggire.",
+  "summary_en": "In his prison cell, Crito offers Socrates a chance to escape; Socrates refuses, giving voice to the Laws of Athens, who remind him that by living in and benefiting from the city his whole life he has tacitly agreed to its compact. He argues that one must never commit injustice, not even in return for injustice suffered: obeying the verdict, unjust as it is, is more just than fleeing."
+ },
+ "ERYXIAS": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "property",
+   "virtue",
+   "wisdom"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Dialogo di dubbia autenticità sul valore della ricchezza: Socrate mostra a Erisistrato ed Eritria che il denaro non è un bene di per sé, poiché la stessa cosa può giovare o nuocere secondo chi la usa bene o male. Conclude che solo la virtù e la sapienza rendono buono l'uso della ricchezza.",
+  "summary_en": "A dialogue of disputed authenticity on the value of wealth: Socrates shows Erasistratus and Eryxias that money is not a good in itself, since the same possession can help or harm depending on whether its user is wise or foolish. It concludes that only virtue and wisdom make the use of wealth good."
+ },
+ "EUTHYDEMUS": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "wisdom",
+   "virtue",
+   "education"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Commedia filosofica in cui i sofisti eristici Eutidemo e Dionisodoro stordiscono l'interlocutore con sillogismi capziosi, mentre Socrate, discutendo con il giovane Clinia, sostiene che nessun bene esteriore (salute, ricchezza, potere) è buono senza la sapienza che lo sa usare bene. La sapienza risulta l'unico bene incondizionato.",
+  "summary_en": "A philosophical comedy in which the eristic sophists Euthydemus and Dionysodorus bamboozle their interlocutor with captious syllogisms, while Socrates, conversing with the young Cleinias, argues that no external good — health, wealth, power — is good without the wisdom to use it well. Wisdom emerges as the only unconditional good."
+ },
+ "EUTHYPHRO": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "religion",
+   "virtue"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Dialogo aporetico sulla pietà: Socrate chiede a Eutifrone, che sta processando il proprio padre, che cos'è la santità; emerge il celebre dilemma se le cose siano pie perché amate dagli dei o amate dagli dei perché pie. Nessuna definizione regge, e il dialogo si chiude senza risposta, mentre Socrate va a processo.",
+  "summary_en": "An aporetic dialogue on piety: Socrates asks Euthyphro, who is prosecuting his own father, what holiness is; from this emerges the famous dilemma of whether things are pious because the gods love them, or loved by the gods because they are pious. No definition holds up, and the dialogue closes without an answer as Socrates heads off to his own trial."
+ },
+ "FIRST_ALCIBIADES": {
+  "axes": [
+   "soul_body",
+   "moral_foundation"
+  ],
+  "positions": [
+   "substance_dualism",
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "soul",
+   "wisdom"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Socrate spinge il giovane e ambizioso Alcibiade a un esame di sé prima che pensi di governare Atene: mostra che l'uomo non è il proprio corpo ma l'anima che se ne serve, e che senza conoscenza del bene e del male nessun potere o bellezza può giovare a chi li possiede. Testo fondativo del motto 'conosci te stesso' come cura di sé filosofica.",
+  "summary_en": "Socrates pushes the young, ambitious Alcibiades toward self-examination before he can think of ruling Athens: he shows that a man is not his body but the soul that uses it, and that without knowledge of good and evil no power or beauty can benefit its possessor. A founding text for 'know thyself' as philosophical care of the self."
+ },
+ "GORGIAS": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "justice",
+   "virtue",
+   "death"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Confronto serrato fra Socrate e tre sostenitori della retorica — Gorgia, Polo e Callicle — che culmina nello scontro con Callicle, per cui il forte ha per natura diritto di dominare i deboli. Socrate ribalta la posizione: subire ingiustizia è meglio che commetterla, e chiude con un mito escatologico sul giudizio delle anime dopo la morte.",
+  "summary_en": "A relentless confrontation between Socrates and three champions of rhetoric — Gorgias, Polus and Callicles — culminating in the clash with Callicles, for whom the strong have a natural right to dominate the weak. Socrates overturns the position, arguing that suffering injustice is better than committing it, and closes with an eschatological myth of the soul's judgment after death."
+ },
+ "HIPPIAS_MAJOR": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "beauty"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Dialogo aporetico, forse spurio, sulla domanda 'che cos'è il bello?': Socrate demolisce una serie di definizioni offerte dal vanitoso sofista Ippia (una bella fanciulla, l'oro, il conveniente, l'utile, il piacevole), senza mai raggiungere una definizione soddisfacente.",
+  "summary_en": "An aporetic dialogue, possibly spurious, on the question 'what is the beautiful?': Socrates demolishes a series of definitions offered by the vain sophist Hippias (a beautiful maiden, gold, the fitting, the useful, the pleasant), never reaching a satisfactory definition."
+ },
+ "HIPPIAS_MINOR": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "virtue"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Socrate difende la tesi paradossale che chi fa il male volontariamente sia migliore di chi lo fa involontariamente, poiché il primo possiede almeno la capacità (la techne) di riuscirvi. Il dialogo termina in aporia, con Socrate che ammette di non saper risolvere la propria stessa perplessità.",
+  "summary_en": "Socrates defends the paradoxical thesis that whoever does wrong voluntarily is better than whoever does it involuntarily, since the former at least possesses the skill to succeed at it. The dialogue ends in aporia, with Socrates admitting he cannot resolve his own perplexity."
+ },
+ "ION": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "wisdom"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Socrate interroga il rapsodo Ione, campione nell'interpretare Omero, mostrando che il suo talento non deriva da una techne (un sapere trasmissibile) ma da un'ispirazione divina, una sorta di 'catena magnetica' che lega la Musa al poeta e al recitante. Ione, incapace di applicare la sua competenza ad altri poeti, non sa decidere se essere lusingato o offeso.",
+  "summary_en": "Socrates questions the rhapsode Ion, a champion interpreter of Homer, showing that his talent stems not from a techne — a transmissible skill — but from divine inspiration, a kind of 'magnetic chain' linking Muse, poet and performer. Unable to apply his supposed competence to other poets, Ion cannot decide whether to feel flattered or insulted."
+ },
+ "LACHES": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "virtue"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Due padri chiedono ai generali Lachete e Nicia se l'addestramento nell'armatura giovi all'educazione dei figli; la discussione scivola sulla definizione del coraggio, che Socrate mette alla prova fino a mostrare che nessuna delle proposte (resistenza, sapienza di ciò che è da temere) regge da sola. Il dialogo si chiude aporetico.",
+  "summary_en": "Two fathers ask the generals Laches and Nicias whether training in armour benefits their sons' education; the discussion slides into a search for the definition of courage, which Socrates tests until none of the proposals — endurance, knowledge of what is to be feared — survives on its own. The dialogue ends in aporia."
+ },
+ "LAWS": {
+  "axes": [
+   "god",
+   "freedom_necessity"
+  ],
+  "positions": [
+   "demonstrative_theism",
+   "fate_providence"
+  ],
+  "concepts": [
+   "law",
+   "education",
+   "religion",
+   "state",
+   "justice"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "L'opera più lunga e l'ultima di Platone: uno Straniero Ateniese, Clinia e Megillo progettano nei minimi dettagli le leggi di una nuova colonia cretese, discutendo educazione, proprietà, matrimonio, punizioni e culto. Il libro X offre argomenti razionali contro l'ateismo, fondando l'ordine cosmico e civile sulla provvidenza divina.",
+  "summary_en": "Plato's longest and last work: an Athenian Stranger, Cleinias and Megillus design in minute detail the laws of a new Cretan colony, covering education, property, marriage, punishment and worship. Book X offers rational arguments against atheism, grounding both cosmic and civic order in divine providence."
+ },
+ "LYSIS": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "friendship"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Dialogo aporetico sull'amicizia (philia): Socrate discute con i giovani Lisi e Menesseno che cosa renda due persone amiche — il simile, il contrario, l'utile — senza che nessuna ipotesi resista all'esame. Si chiude riconoscendo di non sapere ancora che cosa sia un amico.",
+  "summary_en": "An aporetic dialogue on friendship (philia): Socrates discusses with the young Lysis and Menexenus what makes two people friends — likeness, opposition, usefulness — without any hypothesis surviving scrutiny. It closes by admitting that what a friend actually is remains unknown."
+ },
+ "MENEXENUS": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "state",
+   "death"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Parodia dell'orazione funebre ateniese: Socrate recita a memoria un discorso che dice di aver appreso da Aspasia, celebrando con ironico eccesso retorico i caduti in guerra e la grandezza di Atene. Satira sottile della retorica patriottica come strumento di seduzione delle masse.",
+  "summary_en": "A parody of the Athenian funeral oration: Socrates recites from memory a speech he claims to have learned from Aspasia, celebrating the war dead and the greatness of Athens with ironic rhetorical excess. A subtle satire of patriotic rhetoric as an instrument for seducing the masses."
+ },
+ "MENO": {
+  "axes": [
+   "knowledge_origin"
+  ],
+  "positions": [
+   "innatism"
+  ],
+  "concepts": [
+   "anamnesis",
+   "virtue",
+   "education"
+  ],
+  "arguments": [
+   "recollection_argument"
+  ],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "Menone chiede se la virtù si insegni; per rispondere Socrate introduce la teoria della reminiscenza (anamnesis), dimostrandola facendo 'ricordare' a uno schiavo analfabeta un teorema geometrico attraverso semplici domande. Ne segue che imparare è recuperare un sapere che l'anima possedeva già prima della nascita.",
+  "summary_en": "Meno asks whether virtue can be taught; to answer, Socrates introduces the theory of recollection (anamnesis), demonstrating it by leading an illiterate slave boy to 'remember' a geometric theorem through simple questioning. It follows that learning is recovering knowledge the soul already possessed before birth."
+ },
+ "PARMENIDES": {
+  "axes": [
+   "universals",
+   "reality_status",
+   "method"
+  ],
+  "positions": [
+   "realism_universals",
+   "realism_of_ideas",
+   "dialectic"
+  ],
+  "concepts": [
+   "methexis"
+  ],
+  "arguments": [
+   "third_man_argument"
+  ],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "Il vecchio Parmenide sottopone la teoria delle idee del giovane Socrate a una serie di obiezioni devastanti, tra cui il celebre 'argomento del terzo uomo' contro la partecipazione delle cose sensibili alle forme. Nella seconda parte, come esercizio dialettico, deduce con rigore implacabile una serie di conseguenze opposte dall'ipotesi che 'l'uno è' e che 'l'uno non è'.",
+  "summary_en": "The elderly Parmenides subjects the young Socrates's theory of Forms to a series of devastating objections, including the famous 'third man argument' against the participation of sensible things in the Forms. In the second part, as a dialectical exercise, he ruthlessly deduces a series of opposing consequences from the hypotheses that 'the one is' and that 'the one is not'."
+ },
+ "PHAEDO": {
+  "axes": [
+   "reality_status",
+   "knowledge_origin",
+   "soul_body",
+   "time_and_death"
+  ],
+  "positions": [
+   "realism_of_ideas",
+   "innatism",
+   "substance_dualism",
+   "eternity"
+  ],
+  "concepts": [
+   "soul",
+   "anamnesis",
+   "methexis",
+   "katharsis",
+   "death"
+  ],
+  "arguments": [
+   "recollection_argument"
+  ],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "Nell'ultimo giorno di vita di Socrate, il dialogo espone le quattro prove dell'immortalità dell'anima (dai contrari, dalla reminiscenza, dall'affinità con l'invisibile, dalla forma vitale dell'anima), presentando la filosofia come 'esercizio di morte': una purificazione (katharsis) dal corpo che culmina nella teoria delle idee. Si chiude con la morte serena di Socrate, bevendo la cicuta.",
+  "summary_en": "Set on the last day of Socrates's life, the dialogue lays out four proofs of the soul's immortality (from opposites, from recollection, from affinity with the invisible, from the soul as the form of life), presenting philosophy as a 'rehearsal for death' — a purification (katharsis) from the body culminating in the theory of Forms. It closes with Socrates's serene death by hemlock."
+ },
+ "PHAEDRUS": {
+  "axes": [
+   "reality_status",
+   "knowledge_origin",
+   "method"
+  ],
+  "positions": [
+   "realism_of_ideas",
+   "innatism",
+   "dialectic"
+  ],
+  "concepts": [
+   "anamnesis",
+   "beauty",
+   "soul"
+  ],
+  "arguments": [
+   "recollection_argument"
+  ],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "Passeggiando fuori le mura di Atene, Socrate e Fedro discutono d'amore e retorica: il mito del carro alato descrive l'anima trascinata da due cavalli, ragione e passione, mentre la bellezza terrena risveglia il ricordo (anamnesis) delle idee contemplate prima della nascita. La seconda parte critica la scrittura come memoria morta e propone la dialettica — raccogliere e dividere secondo le articolazioni naturali — come vera arte retorica.",
+  "summary_en": "Walking outside the walls of Athens, Socrates and Phaedrus discuss love and rhetoric: the myth of the winged chariot pictures the soul drawn by two horses, reason and passion, while earthly beauty awakens the recollection (anamnesis) of the Forms contemplated before birth. The second half criticizes writing as dead memory and proposes dialectic — collecting and dividing along nature's own joints — as the true art of rhetoric."
+ },
+ "PHILEBUS": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "eudaimonia",
+   "wisdom",
+   "phronesis"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "Discussione tarda sulla natura del bene: Filebo difende il piacere, Socrate la sapienza (phronesis); la conclusione, raggiunta attraverso un'analisi tecnica di limite e illimitato, è che la vita buona è una mescolanza in cui l'intelligenza occupa il rango più alto e solo i piaceri puri e misurati vi trovano posto.",
+  "summary_en": "A late discussion of the nature of the good: Philebus champions pleasure, Socrates wisdom (phronesis); the conclusion, reached through a technical analysis of limit and the unlimited, is that the good life is a mixture in which intelligence ranks highest and only pure, measured pleasures find a place."
+ },
+ "PROTAGORAS": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "virtue",
+   "education",
+   "wisdom"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Al banchetto di Callia, Socrate discute con il grande sofista Protagora se la virtù si possa insegnare e se le virtù siano una cosa sola o molte; nel corso del dibattito le posizioni si invertono ironicamente, con Protagora che nega e Socrate che sostiene l'insegnabilità della virtù. La discussione tocca anche l'ipotesi, mai del tutto accettata, che il bene si riduca a un calcolo di piaceri e dolori.",
+  "summary_en": "At the banquet of Callias, Socrates debates the great sophist Protagoras over whether virtue can be taught and whether the virtues are one thing or many; over the course of the argument the two men's positions ironically reverse, with Protagoras denying and Socrates defending virtue's teachability. The discussion also toys, without fully endorsing it, with the hypothesis that the good reduces to a calculation of pleasures and pains."
+ },
+ "SECOND_ALCIBIADES": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "wisdom"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "Dialogo probabilmente spurio: Socrate mette in guardia Alcibiade, diretto al tempio a pregare, sul pericolo di chiedere agli dei ciò che crede un bene senza saperlo davvero, come fece Edipo. Solo la sapienza filosofica permette di pregare senza rischiare la propria rovina.",
+  "summary_en": "Probably a spurious dialogue: Socrates warns Alcibiades, on his way to the temple to pray, of the danger of asking the gods for what one believes to be good without truly knowing it, as Oedipus did. Only philosophical wisdom makes it safe to pray at all."
+ },
+ "SOPHIST": {
+  "axes": [
+   "method",
+   "reality_status"
+  ],
+  "positions": [
+   "dialectic",
+   "realism_of_ideas"
+  ],
+  "concepts": [
+   "mimesis",
+   "substance"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "Uno Straniero di Elea insegue la definizione del sofista attraverso il metodo di divisione, scovandolo come 'fabbricante di immagini' (un'arte mimetica), il che costringe ad affrontare il problema del non-essere: come può esistere l'apparenza falsa se il non-essere non è in nessun modo? Lo Straniero 'uccide il padre Parmenide' ammettendo che il non-essere è alterità, e ridefinisce l'essere come comunione di generi supremi.",
+  "summary_en": "An Eleatic Stranger tracks down a definition of the sophist through the method of division, finally identifying him as an 'image-maker' — a mimetic art — which forces a confrontation with the problem of not-being: how can false appearance exist if not-being is not at all? The Stranger 'kills the father Parmenides' by showing not-being to be otherness, and redefines being as a communion of the highest kinds."
+ },
+ "STATESMAN": {
+  "axes": [
+   "method"
+  ],
+  "positions": [
+   "dialectic"
+  ],
+  "concepts": [
+   "state",
+   "law",
+   "phronesis"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "Continuando il metodo del Sofista, lo Straniero di Elea e il giovane Socrate cercano per divisioni successive la definizione del vero uomo di Stato, distinguendolo dal sofista e dal filosofo tramite un mito cosmico sull'età di Crono. Conclude che il governante ideale possiede una scienza (phronesis politica) superiore alla legge scritta, ma che in sua assenza la legge resta la migliore garanzia contro l'arbitrio.",
+  "summary_en": "Continuing the Sophist's method, the Eleatic Stranger and the young Socrates hunt through successive divisions for a definition of the true statesman, distinguishing him from the sophist and the philosopher via a cosmic myth of the age of Cronus. It concludes that the ideal ruler possesses a science (political phronesis) superior to written law, but that in his absence law remains the best safeguard against arbitrary rule."
+ },
+ "SYMPOSIUM": {
+  "axes": [
+   "reality_status"
+  ],
+  "positions": [
+   "realism_of_ideas"
+  ],
+  "concepts": [
+   "beauty",
+   "methexis",
+   "soul"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates",
+   "diotima"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "A un banchetto in onore di Agatone, una serie di discorsi in lode di Eros culmina in quello di Socrate, che riferisce l'insegnamento della sacerdotessa Diotima: l'amore è desiderio di generare nel bello, e sale per gradi dai corpi belli alle anime belle, alle leggi e scienze, fino alla contemplazione della Bellezza in sé, eterna e immutabile. L'irruzione ubriaca di Alcibiade chiude la serata con un elogio, insieme comico e struggente, di Socrate stesso.",
+  "summary_en": "At a banquet honouring Agathon, a sequence of speeches in praise of Eros culminates in Socrates's, which relates the teaching of the priestess Diotima: love is desire to give birth in beauty, and ascends by stages from beautiful bodies to beautiful souls, to laws and sciences, and finally to the contemplation of Beauty itself, eternal and unchanging. Alcibiades's drunken irruption closes the evening with a eulogy of Socrates himself, at once comic and moving."
+ },
+ "THEAETETUS": {
+  "axes": [
+   "method"
+  ],
+  "positions": [
+   "dialectic"
+  ],
+  "concepts": [
+   "experience",
+   "wisdom"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "Socrate, paragonando il proprio metodo a un'arte ostetrica (maieutica), esamina con il giovane Teeteto tre definizioni della conoscenza: percezione sensibile, opinione vera, opinione vera con un resoconto (logos). Ciascuna viene confutata — quella percettiva legandola al relativismo di Protagora e al flusso di Eraclito — e il dialogo si chiude in aporia, senza che la conoscenza venga definita.",
+  "summary_en": "Comparing his own method to a midwife's art (maieutics), Socrates examines with the young Theaetetus three definitions of knowledge: sense-perception, true belief, and true belief with an account (logos). Each is refuted in turn — the perceptual one by tying it to Protagorean relativism and Heraclitean flux — and the dialogue closes in aporia, with knowledge left undefined."
+ },
+ "THE_REPUBLIC": {
+  "axes": [
+   "reality_status",
+   "universals",
+   "moral_foundation",
+   "method"
+  ],
+  "positions": [
+   "realism_of_ideas",
+   "realism_universals",
+   "virtue_ethics",
+   "dialectic"
+  ],
+  "concepts": [
+   "justice",
+   "soul",
+   "state",
+   "education",
+   "mimesis"
+  ],
+  "arguments": [
+   "allegory_of_the_cave"
+  ],
+  "figures": [
+   "socrates",
+   "thrasymachus"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "L'opera più ambiziosa di Platone: dopo aver respinto la tesi di Trasimaco che la giustizia sia solo il vantaggio del più forte, Socrate costruisce una città ideale per vedere la giustizia 'in grande', scoprendola come armonia fra le tre parti dell'anima (ragione, spirito, desiderio) rispecchiata dalle tre classi dello Stato. Introduce la teoria delle idee attraverso le immagini del sole, della linea e della caverna, propone il filosofo-re come solo governante legittimo e condanna la poesia mimetica come corruttrice dell'anima.",
+  "summary_en": "Plato's most ambitious work: after refuting Thrasymachus's claim that justice is merely the advantage of the stronger, Socrates constructs an ideal city to see justice 'writ large,' discovering it as harmony among the soul's three parts — reason, spirit, desire — mirrored by the state's three classes. It introduces the theory of Forms through the images of the sun, the line and the cave, proposes the philosopher-king as the only legitimate ruler, and condemns mimetic poetry as corrupting to the soul."
+ },
+ "TIMAEUS": {
+  "axes": [
+   "reality_status",
+   "god",
+   "freedom_necessity"
+  ],
+  "positions": [
+   "realism_of_ideas",
+   "demonstrative_theism",
+   "fate_providence"
+  ],
+  "concepts": [
+   "nature",
+   "reason",
+   "soul",
+   "substance"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "academy"
+  ],
+  "summary_it": "Timeo espone un racconto cosmologico 'verosimile': un demiurgo artefice, guardando alle idee eterne come modelli, plasma la materia informe (la ricettacolo) per produrre un cosmo ordinato e vivente, dotato di un'anima del mondo, persuadendo la necessità a servire il bene per quanto possibile. Fonda la fisica, la biologia e l'astronomia platoniche su basi teleologiche e religiose.",
+  "summary_en": "Timaeus offers a 'likely account' of the cosmos: a craftsman-demiurge, looking to the eternal Forms as models, shapes formless matter (the receptacle) into an ordered, living cosmos endowed with a world-soul, persuading necessity to serve the good as far as possible. It grounds Platonic physics, biology and astronomy on teleological and religious foundations."
+ }
+}

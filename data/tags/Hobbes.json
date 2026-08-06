@@ -1,0 +1,323 @@
+{
+ "A_Dialogue_between_a_Philosopher_and_a_Student_of_the_Common_Laws_of_England": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "sovereignty",
+   "social_contract"
+  ],
+  "concepts": [
+   "law",
+   "reason",
+   "state",
+   "commonwealth",
+   "justice",
+   "custom"
+  ],
+  "arguments": [],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "In questo dialogo tardo tra un filosofo e uno studente di common law, Hobbes sostiene che la legge non è la 'ragione artificiale' accumulata dei giuristi (contro Sir Edward Coke), ma la volontà del sovrano: è l'autorità, non la sapienza, a fare la legge. Riafferma così la dottrina della sovranità indivisibile, negando che il diritto comune inglese possa vincolare o limitare il potere sovrano. Al tempo stesso ammette una separazione funzionale delle mansioni di governo in nome del buon senso e dell'umanità, mostrando un volto più temperato rispetto al Leviatano.",
+  "summary_en": "In this late dialogue between a philosopher and a student of the common law, Hobbes argues that law is not the accumulated 'artificial reason' of the lawyers (against Sir Edward Coke) but the will of the sovereign: it is authority, not wisdom, that makes law. He thereby reasserts the doctrine of indivisible sovereignty, denying that English common law can bind or limit sovereign power. At the same time he concedes a functional separation of the offices of government for the sake of common sense and humaneness, showing a more temperate face than the Leviathan."
+ },
+ "An_Answer_to_a_Book_Published_by_Dr_Bramhall_Late_Bishop_of_Derry": {
+  "axes": [
+   "freedom_necessity",
+   "reality_status",
+   "god"
+  ],
+  "positions": [
+   "determinism",
+   "materialism"
+  ],
+  "concepts": [
+   "will",
+   "freedom",
+   "cause",
+   "religion",
+   "soul",
+   "law"
+  ],
+  "arguments": [],
+  "figures": [
+   "bramhall"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Rispondendo al 'Catching of Leviathan' del vescovo Bramhall, Hobbes si difende dalle accuse di ateismo, empietà e sovversione della religione, mostrando che le sue conclusioni erano state riportate senza le prove che le sostenevano. Ribadisce la propria metafisica materialista e la tesi determinista sulla volontà, secondo cui ogni atto volontario ha una causa necessaria e la libertà è assenza di impedimenti esterni. Sostiene inoltre che il culto e l'obbedienza in materia religiosa spettano alla legge del commonwealth, non alla coscienza privata.",
+  "summary_en": "Answering Bishop Bramhall's 'Catching of Leviathan', Hobbes defends himself against charges of atheism, impiety and subversion of religion, showing that his conclusions had been cited stripped of the proofs that supported them. He restates his materialist metaphysics and his determinist account of the will, on which every voluntary act has a necessary cause and liberty is merely the absence of external impediment. He further insists that worship and obedience in religious matters belong to the law of the commonwealth, not to private conscience."
+ },
+ "An_Historical_Narration_concerning_Hersey_and_the_Punishment_Thereof": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "sovereignty"
+  ],
+  "concepts": [
+   "religion",
+   "law",
+   "faith"
+  ],
+  "arguments": [],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Hobbes ricostruisce la storia del termine 'eresia', che in origine significava semplicemente una scuola o un'opinione privata, e mostra come le sètte filosofiche greche - soprattutto quella di Aristotele - penetrando nella Chiesa primitiva generarono le dispute dottrinali. Ne trae una conclusione politico-giuridica: la definizione e la punizione dell'eresia dipendono dall'autorità civile sovrana, non da un potere ecclesiastico autonomo. L'opera serve così anche a difendere Hobbes dalle accuse di eresia, riconducendo ogni giurisdizione in materia religiosa al potere del commonwealth.",
+  "summary_en": "Hobbes traces the history of the word 'heresy', which originally meant merely a school or private opinion, and shows how the Greek philosophical sects - above all that of Aristotle - entered the primitive Church and bred its doctrinal disputes. From this he draws a political-legal conclusion: the definition and punishment of heresy depend on the sovereign civil authority, not on any autonomous ecclesiastical power. The work thereby also serves to defend Hobbes against charges of heresy by referring all jurisdiction in religious matters to the power of the commonwealth."
+ },
+ "Behemoth": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "sovereignty",
+   "social_contract"
+  ],
+  "concepts": [
+   "state",
+   "commonwealth",
+   "law",
+   "religion",
+   "education"
+  ],
+  "arguments": [
+   "war_of_all_against_all"
+  ],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "In questo dialogo sulle guerre civili inglesi del 1640-1660, Hobbes analizza le cause della dissoluzione dello Stato, individuandole nelle dottrine sediziose diffuse da predicatori presbiteriani, papisti, settari e dalle università che insegnavano la politica di Aristotele. La corruzione delle opinioni sulla sovranità e la pretesa di dividere il potere riportano il regno a una condizione di guerra di tutti contro tutti. L'opera è insieme storia e diagnosi politica: solo una sovranità indivisibile, fondata sul patto, può preservare la pace.",
+  "summary_en": "In this dialogue on the English civil wars of 1640-1660, Hobbes analyses the causes of the dissolution of the state, locating them in the seditious doctrines spread by Presbyterian ministers, Papists, sectaries and the universities that taught Aristotle's politics. The corruption of opinions about sovereignty and the claim to divide power return the kingdom to a condition of war of all against all. The work is at once history and political diagnosis: only an indivisible sovereignty grounded in covenant can preserve peace."
+ },
+ "De_Cive": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "social_contract",
+   "sovereignty",
+   "natural_right"
+  ],
+  "concepts": [
+   "covenant",
+   "commonwealth",
+   "state",
+   "law",
+   "justice",
+   "passion"
+  ],
+  "arguments": [
+   "state_of_nature",
+   "war_of_all_against_all"
+  ],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Nel De Cive Hobbes nega che l'uomo sia per natura un animale politico (contro il zoon politikon aristotelico): gli uomini cercano la società non per amore reciproco ma per onore e profitto. Nello stato di natura, privo di potere comune, il diritto naturale di ciascuno a tutto genera la guerra di tutti contro tutti; per uscirne gli uomini stipulano un patto che trasferisce il potere a un sovrano. Dalla sovranità indivisibile discendono legge, giustizia e pace, e ad essa Hobbes subordina anche la giurisdizione sulla religione.",
+  "summary_en": "In De Cive Hobbes denies that man is by nature a political animal (against the Aristotelian zoon politikon): men seek society not out of mutual love but for honour and profit. In the state of nature, lacking a common power, each man's natural right to everything produces the war of all against all; to escape it men make a covenant transferring power to a sovereign. From indivisible sovereignty flow law, justice and peace, and to it Hobbes subordinates jurisdiction over religion as well."
+ },
+ "De_Corpore": {
+  "axes": [
+   "reality_status",
+   "universals",
+   "method"
+  ],
+  "positions": [
+   "materialism",
+   "nominalism",
+   "geometric_method"
+  ],
+  "concepts": [
+   "mechanism",
+   "cause",
+   "substance",
+   "reason"
+  ],
+  "arguments": [],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Il De Corpore espone la filosofia prima e la fisica materialiste di Hobbes: nulla esiste se non corpi in movimento, e ogni fenomeno va spiegato meccanicamente attraverso cause efficienti. Sul piano dei nomi e degli universali Hobbes è nominalista - i termini generali non designano essenze reali separate ma sono nomi imposti a più cose - e critica la metafisica delle forme sostanziali di Aristotele e della Scolastica. Il metodo è modellato sulla geometria, procedendo per definizioni, ragionamento e dimostrazione a partire dalle nozioni prime di corpo, moto e causa.",
+  "summary_en": "De Corpore sets out Hobbes's materialist first philosophy and physics: nothing exists but bodies in motion, and every phenomenon is to be explained mechanically through efficient causes. On names and universals Hobbes is a nominalist - general terms do not designate real separated essences but are names imposed on many things - and he attacks the metaphysics of substantial forms in Aristotle and the Schools. The method is modelled on geometry, proceeding by definitions, reasoning and demonstration from the first notions of body, motion and cause."
+ },
+ "Elements_of_Law_Natural_and_Politic": {
+  "axes": [
+   "knowledge_origin",
+   "reality_status",
+   "moral_foundation",
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "empiricism",
+   "materialism",
+   "natural_law",
+   "social_contract",
+   "sovereignty"
+  ],
+  "concepts": [
+   "covenant",
+   "commonwealth",
+   "law",
+   "will",
+   "passion",
+   "reason"
+  ],
+  "arguments": [
+   "state_of_nature",
+   "war_of_all_against_all"
+  ],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "british_empiricism"
+  ],
+  "summary_it": "Primo esposizione sistematica della filosofia di Hobbes, l'opera muove dall'analisi delle facolta naturali dell'uomo, radicando ogni conoscenza nella sensazione e riducendo le concezioni della mente a moti corporei. Dalle passioni e dal diritto di natura Hobbes deriva la condizione naturale di conflitto, da cui gli uomini escono mediante patto trasferendo il proprio diritto e istituendo un corpo politico. La legittimita del potere riposa cosi sul contratto e sulla sovranita indivisibile necessaria alla pace.",
+  "summary_en": "Hobbes's first systematic statement of his philosophy, the work begins from an analysis of man's natural faculties, grounding all knowledge in sense and reducing the mind's conceptions to bodily motions. From the passions and the right of nature Hobbes derives the natural condition of conflict, out of which men escape by covenant, transferring their right and instituting a body politic. Political legitimacy thus rests on contract and on the indivisible sovereignty required for peace."
+ },
+ "Leviathan": {
+  "axes": [
+   "knowledge_origin",
+   "reality_status",
+   "human_nature",
+   "moral_foundation",
+   "political_legitimacy",
+   "state_and_individual",
+   "faith_reason"
+  ],
+  "positions": [
+   "empiricism",
+   "materialism",
+   "natural_law",
+   "social_contract",
+   "sovereignty"
+  ],
+  "concepts": [
+   "covenant",
+   "commonwealth",
+   "mechanism",
+   "law",
+   "passion",
+   "religion"
+  ],
+  "arguments": [
+   "state_of_nature",
+   "war_of_all_against_all"
+  ],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "british_empiricism"
+  ],
+  "summary_it": "Capolavoro del pensiero politico hobbesiano, il Leviatano costruisce una scienza dello Stato a partire da una psicologia meccanicistica in cui sensazione, passioni e ragione sono spiegate come moti della materia. Nella condizione di natura, dove regna la guerra di tutti contro tutti, gli uomini stipulano un patto che erige un potere sovrano assoluto, il Leviatano, garante della pace e della legge. Le parti finali sottopongono religione, Scrittura e Chiesa all'autorita civile, denunciando come oscurita la vana filosofia delle Scuole fondata su Aristotele.",
+  "summary_en": "The masterpiece of Hobbesian political thought, Leviathan builds a science of the state upon a mechanistic psychology in which sensation, passion, and reason are explained as motions of matter. In the state of nature, where the war of all against all prevails, men enter a covenant that erects an absolute sovereign power, the Leviathan, guarantor of peace and law. The closing parts subordinate religion, Scripture, and Church to civil authority, denouncing as darkness the vain philosophy of the Schools grounded on Aristotle."
+ },
+ "Of_Liberty_and_Necessity": {
+  "axes": [
+   "freedom_necessity"
+  ],
+  "positions": [
+   "determinism"
+  ],
+  "concepts": [
+   "will",
+   "freedom",
+   "cause"
+  ],
+  "arguments": [],
+  "figures": [
+   "bramhall"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "In questo scritto polemico contro il vescovo Bramhall, Hobbes difende un rigoroso determinismo: ogni azione volontaria e prodotta da una catena necessaria di cause, e la liberta consiste soltanto nell'assenza di impedimenti esterni al fare cio che si vuole. La volonta stessa non e libera ma e l'ultimo appetito nella deliberazione, determinato dalle cause che vi confluiscono. Hobbes mostra come lode, biasimo, premio e pena restino sensati anche in un mondo necessitato.",
+  "summary_en": "In this polemic against Bishop Bramhall, Hobbes defends a rigorous determinism: every voluntary action is produced by a necessary chain of causes, and liberty consists only in the absence of external impediments to doing what one wills. The will itself is not free but is the last appetite in deliberating, determined by the causes that converge upon it. Hobbes argues that praise, blame, reward, and punishment remain meaningful even in a necessitated world."
+ },
+ "Seven_Philosophical_Problems": {
+  "axes": [
+   "reality_status",
+   "method"
+  ],
+  "positions": [
+   "materialism",
+   "geometric_method"
+  ],
+  "concepts": [
+   "mechanism",
+   "cause",
+   "nature"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Raccolta di indagini sulla filosofia naturale, l'opera affronta sette problemi fisici, dalla gravita e le maree al vuoto, al calore e al movimento, cercando di ricondurre ogni effetto a cause meccaniche di moto. Hobbes nega principi occulti o qualita nascoste e assume che, poiche tutti gli effetti sono prodotti dal movimento, spiegare un fenomeno significa mostrare per quali moti esso possa prodursi. Al testo si aggiungono proposizioni geometriche che testimoniano il suo ideale di metodo dimostrativo.",
+  "summary_en": "A collection of inquiries into natural philosophy, the work treats seven physical problems, from gravity and tides to vacuum, heat, and motion, seeking to trace every effect to mechanical causes of motion. Hobbes rejects occult principles and hidden qualities and holds that, since all effects are produced by motion, explaining a phenomenon means showing by what motions it could be produced. Appended geometrical propositions attest to his ideal of demonstrative method."
+ },
+ "Ten_Dialogues_of_Natural_Philosophy": {
+  "axes": [
+   "reality_status",
+   "method"
+  ],
+  "positions": [
+   "materialism",
+   "geometric_method"
+  ],
+  "concepts": [
+   "mechanism",
+   "cause",
+   "nature"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [],
+  "summary_it": "In forma di dialogo tra due interlocutori, l'opera definisce la filosofia come conoscenza delle cause naturali e ne mostra il metodo attraverso l'esame di fenomeni come gravita, calore, luce e maree. Hobbes deride le pseudo-spiegazioni delle Scuole fondate su qualita occulte, simpatie e antipatie, parole vuote che equivalgono a un non lo so. Ogni effetto va invece ricondotto al moto della materia, secondo una fisica coerentemente meccanicistica e materialistica.",
+  "summary_en": "Cast as a dialogue between two speakers, the work defines philosophy as the knowledge of natural causes and displays its method through the examination of phenomena such as gravity, heat, light, and tides. Hobbes ridicules the pseudo-explanations of the Schools grounded on occult qualities, sympathies, and antipathies, empty words amounting to an I cannot tell. Every effect is instead to be traced to the motion of matter, according to a consistently mechanistic and materialist physics."
+ }
+}

@@ -1,0 +1,233 @@
+{
+  "ADDRESS_OF_THE_CENTRAL_COMMITTEE_TO_THE_COMMUNIST_LEAGUE": {
+    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
+    "positions": ["class_conflict", "historical_materialism", "revolution"],
+    "concepts": ["state"],
+    "arguments": [],
+    "figures": [],
+    "forms": [],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Circolare del 1850 che esorta la Lega dei Comunisti a riorganizzarsi e a mantenere l'indipendenza del proletariato dalla democrazia piccolo-borghese in vista della rivoluzione imminente.",
+    "summary_en": "An 1850 circular urging the Communist League to reorganize and keep the proletariat independent of the petty-bourgeois democrats in anticipation of the coming revolution."
+  },
+  "CAPITAL": {
+    "axes": ["meaning_of_history", "political_legitimacy"],
+    "positions": ["historical_materialism", "class_conflict"],
+    "concepts": ["commodity", "surplus_value", "labour", "money"],
+    "arguments": ["commodity_fetishism"],
+    "figures": [],
+    "forms": ["critique", "treatise"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Primo volume del Capitale (trad. Moore-Aveling): analisi della merce, della forma di valore e del denaro, del plusvalore e del modo di produzione capitalistico, fino all'accumulazione originaria.",
+    "summary_en": "Volume I of Capital (Moore-Aveling translation): the analysis of the commodity, the value-form and money, surplus value, and the capitalist mode of production, up to primitive accumulation."
+  },
+  "CRITIQUE_OF_THE_GOTHA_PROGRAM_1875": {
+    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
+    "positions": ["class_conflict", "historical_materialism", "revolution"],
+    "concepts": ["labour", "justice", "state"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["critique"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Note critiche marginali (1875) al programma di unità di Gotha, contro le concezioni lassalliane su lavoro, distribuzione e Stato.",
+    "summary_en": "Marginal critical notes (1875) on the Gotha unity programme, attacking Lassallean conceptions of labour, distribution, and the state."
+  },
+  "Das_Kapital_II": {
+    "axes": ["meaning_of_history"],
+    "positions": ["historical_materialism"],
+    "concepts": ["commodity", "money", "labour", "surplus_value"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["critique", "treatise"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Secondo libro del Capitale, curato da Engels: il processo di circolazione del capitale, i circuiti del capitale-denaro, produttivo e-merce, il tempo di rotazione e la riproduzione.",
+    "summary_en": "Volume II of Capital, edited by Engels: the circulation process of capital, the circuits of money-, productive- and commodity-capital, turnover time, and reproduction."
+  },
+  "Das_Kapital_III": {
+    "axes": ["meaning_of_history", "political_legitimacy"],
+    "positions": ["historical_materialism", "class_conflict"],
+    "concepts": ["surplus_value", "commodity", "money", "property"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["critique", "treatise"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Terzo libro del Capitale, curato da Engels: il processo complessivo, prezzo di costo e profitto, saggio del profitto, concorrenza, rendita fondiaria e le classi.",
+    "summary_en": "Volume III of Capital, edited by Engels: the total process, cost price and profit, the rate of profit, competition, ground rent, and the classes."
+  },
+  "MANIFESTO_OF_THE_COMMUNIST_PARTY_1848": {
+    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
+    "positions": ["class_conflict", "historical_materialism", "revolution"],
+    "concepts": ["property", "labour", "state", "commodity"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["manifesto"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Il Manifesto del partito comunista (1848): storia come lotta di classe, ascesa e caduta della borghesia, programma dei comunisti e abolizione della proprietà privata.",
+    "summary_en": "The Communist Manifesto (1848): history as class struggle, the rise and fall of the bourgeoisie, the communist programme, and the abolition of private property."
+  },
+  "MARXS_INAUGURAL_ADDRESS": {
+    "axes": ["political_legitimacy", "meaning_of_history"],
+    "positions": ["class_conflict", "historical_materialism"],
+    "concepts": ["labour"],
+    "arguments": [],
+    "figures": [],
+    "forms": [],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Indirizzo inaugurale dell'Associazione internazionale dei lavoratori (1864): la miseria persistente delle masse operaie documentata con statistiche ufficiali, nonostante la crescita industriale.",
+    "summary_en": "Inaugural Address of the International Working Men's Association (1864): the persistent misery of the working masses documented with official statistics, despite industrial growth."
+  },
+  "MR_GEORGE_HOWELLS_HISTORY_OF_THE_INTERNATIONAL_WORKING-MENS_ASSOCIATION": {
+    "axes": ["political_legitimacy"],
+    "positions": ["class_conflict"],
+    "concepts": ["religion"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Nota polemica (1878) che corregge la 'storia' dell'Internazionale scritta da George Howell, ristabilendo i fatti sulla fondazione dell'Associazione e sul dibattito sulla religione.",
+    "summary_en": "A polemical note (1878) correcting George Howell's 'history' of the International, setting the record straight on the Association's founding and the debate over religion."
+  },
+  "NOTES_ON_ADOLPH_WAGNER_1883": {
+    "axes": ["meaning_of_history"],
+    "positions": ["historical_materialism"],
+    "concepts": ["commodity", "labour", "money"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["critique"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Note critiche marginali (1883) al manuale di economia politica di Adolph Wagner, in difesa dell'analisi marxiana del valore, della merce e del lavoro.",
+    "summary_en": "Marginal critical notes (1883) on Adolph Wagner's textbook of political economy, defending Marx's analysis of value, the commodity, and labour."
+  },
+  "REVOLUTION_AND_COUNTER-REVOLUTION": {
+    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
+    "positions": ["class_conflict", "historical_materialism", "revolution"],
+    "concepts": ["state"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Serie di articoli (1851-52) sulla rivoluzione tedesca del 1848: analisi delle classi, degli Stati tedeschi e delle insurrezioni fino alla controrivoluzione.",
+    "summary_en": "A series of articles (1851-52) on the German revolution of 1848, analysing the classes, the German states, and the insurrections up to the counter-revolution."
+  },
+  "SECRET_DIPLOMATIC_HISTORY_OF_THE_EIGHTEENTH_CENTURY": {
+    "axes": [],
+    "positions": [],
+    "concepts": ["state"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": [],
+    "summary_it": "Ricostruzione documentaria della diplomazia europea del Settecento, incentrata sull'influenza russa e sui rapporti anglo-russi, montata a partire da dispacci e lettere.",
+    "summary_en": "A documentary reconstruction of eighteenth-century European diplomacy, centred on Russian influence and Anglo-Russian relations, assembled from despatches and letters."
+  },
+  "THE_CIVIL_WAR_IN_FRANCE_1871": {
+    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
+    "positions": ["class_conflict", "historical_materialism", "revolution"],
+    "concepts": ["state"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Indirizzo del Consiglio generale (1871) sulla Comune di Parigi: la classe operaia che spezza la macchina statale e la repressione sanguinosa di Thiers.",
+    "summary_en": "The General Council's address (1871) on the Paris Commune: the working class smashing the state machine and Thiers's bloody repression."
+  },
+  "THE_CLASS_STRUGGLES_IN_FRANCE_1850": {
+    "axes": ["political_legitimacy", "meaning_of_history", "state_and_individual"],
+    "positions": ["class_conflict", "historical_materialism", "revolution"],
+    "concepts": ["state", "money"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Analisi (1850) della lotta di classe in Francia dal 1848 al 1850: il dominio dell'aristocrazia finanziaria e le sconfitte del proletariato.",
+    "summary_en": "An analysis (1850) of the class struggle in France from 1848 to 1850: the rule of the finance aristocracy and the defeats of the proletariat."
+  },
+  "THE_EIGHTEENTH_BRUMAIRE_OF_LOUIS_NAPOLEON_1852": {
+    "axes": ["meaning_of_history", "political_legitimacy", "state_and_individual"],
+    "positions": ["class_conflict", "historical_materialism", "revolution"],
+    "concepts": ["state"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Analisi (1852) del colpo di Stato di Luigi Bonaparte come filosofia della storia: lotta di classe, farsa della ripetizione storica e ruolo dello Stato bonapartista.",
+    "summary_en": "An analysis (1852) of Louis Bonaparte's coup as a philosophy of history: class struggle, the farce of historical repetition, and the role of the Bonapartist state."
+  },
+  "THE_HOLY_FAMILY_1845": {
+    "axes": ["reality_status", "meaning_of_history", "god"],
+    "positions": ["materialism", "idealism", "historical_materialism"],
+    "concepts": ["self_consciousness", "religion", "idea"],
+    "arguments": [],
+    "figures": ["bauer"],
+    "forms": ["critique", "essay"],
+    "schools": ["historical_materialism_school", "german_idealism"],
+    "summary_it": "Polemica (1845) contro Bruno Bauer e la 'Critica critica' dei giovani hegeliani, contro l'idealismo speculativo e l'autocoscienza, in nome dell'umanismo reale.",
+    "summary_en": "A polemic (1845) against Bruno Bauer and the Young Hegelians' 'Critical Criticism', attacking speculative idealism and self-consciousness in the name of real humanism."
+  },
+  "THE_POVERTY_OF_PHILOSOPHY_1847": {
+    "axes": ["meaning_of_history", "method"],
+    "positions": ["historical_materialism", "dialectic"],
+    "concepts": ["commodity", "labour", "property"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["critique", "essay"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Replica (1847) alla 'Filosofia della miseria' di Proudhon: critica del valore costituito, dell'uso improprio della dialettica hegeliana e della metafisica dell'economia politica.",
+    "summary_en": "A reply (1847) to Proudhon's 'Philosophy of Poverty': a critique of constituted value, the misuse of Hegelian dialectic, and the metaphysics of political economy."
+  },
+  "THESES_ON_FEUERBACH_1845": {
+    "axes": ["reality_status", "god", "knowledge_origin"],
+    "positions": ["materialism", "historical_materialism", "idealism"],
+    "concepts": ["religion", "alienation"],
+    "arguments": [],
+    "figures": ["feuerbach"],
+    "forms": ["aphorism"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Undici tesi (1845) che oppongono al materialismo contemplativo di Feuerbach la prassi rivoluzionaria: l'essenza umana come insieme dei rapporti sociali e il compito di cambiare il mondo.",
+    "summary_en": "Eleven theses (1845) opposing Feuerbach's contemplative materialism with revolutionary praxis: the human essence as the ensemble of social relations and the task of changing the world."
+  },
+  "WAGE_LABOUR_AND_CAPITAL_1847": {
+    "axes": ["meaning_of_history", "political_legitimacy"],
+    "positions": ["historical_materialism", "class_conflict"],
+    "concepts": ["labour", "commodity", "money"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["lecture", "essay"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Conferenze (1847) sul salario, la forza-lavoro come merce e il capitale, e l'opposizione diametrale fra interessi del capitale e del lavoro salariato.",
+    "summary_en": "Lectures (1847) on wages, labour-power as a commodity, capital, and the diametrical opposition between the interests of capital and wage-labour."
+  },
+  "Zur_Judenfrage": {
+    "axes": ["god", "state_and_individual", "political_legitimacy"],
+    "positions": ["critical_genealogy", "civil_society", "historical_materialism"],
+    "concepts": ["religion", "state", "freedom"],
+    "arguments": [],
+    "figures": ["bauer"],
+    "forms": ["critique", "essay"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Saggio (1843) contro Bruno Bauer che distingue l'emancipazione politica da quella umana, criticando lo Stato cristiano, la religione e la scissione tra Stato e società civile.",
+    "summary_en": "An essay (1843) against Bruno Bauer distinguishing political from human emancipation, criticizing the Christian state, religion, and the split between state and civil society."
+  },
+  "Zur_Kritik_der_Hegelschen_Rechtsphilosophie": {
+    "axes": ["god", "state_and_individual", "political_legitimacy", "meaning_of_history"],
+    "positions": ["critical_genealogy", "historical_materialism", "sovereignty", "civil_society"],
+    "concepts": ["religion", "state", "alienation", "law"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["critique"],
+    "schools": ["historical_materialism_school", "german_idealism"],
+    "summary_it": "Critica (1843-44) della filosofia del diritto di Hegel: la celebre Introduzione sulla religione come 'oppio del popolo' e l'autoalienazione umana, con l'analisi di sovranità e società civile.",
+    "summary_en": "A critique (1843-44) of Hegel's philosophy of right: the famous Introduction on religion as the 'opium of the people' and human self-alienation, alongside the analysis of sovereignty and civil society."
+  },
+  "Zur_Kritik_der_politischen_Ökonomie": {
+    "axes": ["meaning_of_history"],
+    "positions": ["historical_materialism"],
+    "concepts": ["commodity", "labour", "money"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["critique", "treatise"],
+    "schools": ["historical_materialism_school"],
+    "summary_it": "Contributo alla critica dell'economia politica (1859): l'analisi della merce, del valore d'uso e di scambio, del lavoro astratto e del denaro.",
+    "summary_en": "A Contribution to the Critique of Political Economy (1859): the analysis of the commodity, use- and exchange-value, abstract labour, and money."
+  }
+}

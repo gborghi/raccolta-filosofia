@@ -1,0 +1,1198 @@
+{
+  "hegel": {
+    "The Phenomenology of Spirit": {
+      "first_line": "CONTENTS",
+      "traduttore": "J. B. Baillie",
+      "subtitle": null,
+      "note": null
+    },
+    "The Logic of Hegel": {
+      "first_line": "CONTENTS",
+      "traduttore": "William Wallace",
+      "subtitle": "PART I OF ‘ENCYCLOPEDIA OF THE PHILOSOPHICAL SCIENCES’",
+      "note": null
+    },
+    "Hegel’s Philosophy of Mind": {
+      "first_line": "",
+      "traduttore": "William Wallace",
+      "subtitle": null,
+      "note": "No Delphi blurb; block goes straight from title/credit line (PART III OF 'ENCYCLOPEDIA...') to CONTENTS."
+    },
+    "Elements of the Philosophy of Right": {
+      "first_line": "CONTENTS",
+      "traduttore": "S. W. Dyde",
+      "subtitle": null,
+      "note": null
+    },
+    "The Philosophy of Fine Art": {
+      "first_line": "CONTENTS",
+      "traduttore": "F. P. B. Osmaston",
+      "subtitle": null,
+      "note": null
+    },
+    "The Philosophy of History": {
+      "first_line": "CONTENTS",
+      "traduttore": "J. Sibree",
+      "subtitle": null,
+      "note": null
+    },
+    "Lectures on the History of Philosophy": {
+      "first_line": "CONTENTS",
+      "traduttore": "Elizabeth Sanderson Haldane",
+      "subtitle": null,
+      "note": null
+    },
+    "Lectures on the Proofs of the Existence of God": {
+      "first_line": "",
+      "traduttore": "Ebenezer Brown Speirs",
+      "subtitle": null,
+      "note": "No Delphi blurb; straight to CONTENTS."
+    }
+  },
+  "hume": {
+    "A TREATISE OF HUMAN NATURE": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": "BEING AN ATTEMPT TO INTRODUCE THE EXPERIMENTAL METHOD OF REASONING INTO MORAL SUBJECTS",
+      "note": null
+    },
+    "AN ABSTRACT OF A BOOK LATELY PUBLISHED ENTITLED A TREATISE OF HUMAN NATURE ETC.": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Starts with CONTENTS then Hume's own authentic PREFACE and abstract text — no Delphi blurb."
+    },
+    "ESSAYS, MORAL, POLITICAL, AND LITERARY": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Edition tag \"1777 Edition\" and portrait caption precede blurb; all stripped along with the blurb paragraphs."
+    },
+    "A LETTER FROM A GENTLEMAN TO HIS FRIEND IN EDINBURGH": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "No Delphi blurb; the CONTAINING SOME OBSERVATIONS... line is the work's own period title, not stripped."
+    },
+    "AN ENQUIRY CONCERNING HUMAN UNDERSTANDING": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "A TRUE ACCOUNT OF THE BEHAVIOURS AND CONDUCT OF ARCHIBALD STEWART": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "AN ENQUIRY CONCERNING THE PRINCIPLES OF MORALS": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Block contains a source-file split marker (===== FINE FILE.../===== INIZIO FILE...) between the blurb and CONTENTS; that marker is not author text and falls before the cut point."
+    },
+    "LETTER TO THE AUTHOR OF THE DELINEATION OF THE NATURE AND OBLIGATION OF MORALITY": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "SCOTTICISMS": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "FOUR DISSERTATIONS": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Only a bare \"1757 Edition\" tag precedes CONTENTS, no narrative blurb paragraph."
+    },
+    "THE HISTORY OF ENGLAND": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": "OR, THE HISTORY OF GREAT BRITAIN",
+      "note": "triage: blurb oltre la finestra di 45 righe; verificato a mano, CONTENTS @13137"
+    },
+    "DIALOGUES CONCERNING NATURAL RELIGION": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    }
+  },
+  "kant": {
+    "UNIVERSAL NATURAL HISTORY AND THEORY OF HEAVEN": {
+      "first_line": "CONTENTS",
+      "traduttore": "Ian Johnston, Vancouver Island University",
+      "subtitle": null,
+      "note": "Delphi blurb (2 paragraphs) + 'The first edition's title page' caption precede CONTENTS."
+    },
+    "DREAMS OF A SPIRIT-SEER": {
+      "first_line": "",
+      "traduttore": "Emanuel F. Goerwitz",
+      "subtitle": null,
+      "note": "No blurb; translator line goes straight to CONTENTS."
+    },
+    "DISSERTATION ON THE FORM AND PRINCIPLES OF THE SENSIBLE AND THE INTELLIGIBLE WORLD: INAUGURAL DISSERTATION 1770": {
+      "first_line": "",
+      "traduttore": "William J. Eckoff",
+      "subtitle": null,
+      "note": "No blurb; translator line goes straight to CONTENTS."
+    },
+    "CRITIQUE OF PURE REASON": {
+      "first_line": "CONTENTS",
+      "traduttore": "J. M. D. Meiklejohn",
+      "subtitle": "Second Edition",
+      "note": "Head line reads 'Second Edition; Translated by J. M. D. Meiklejohn' - edition info combined with translator; both lost by the cut, recorded here. Long Delphi blurb (multi-paragraph, third-person about the book) + title-page caption precede CONTENTS."
+    },
+    "PROLEGOMENA TO ANY FUTURE METAPHYSICS THAT WILL BE ABLE TO PRESENT ITSELF AS A SCIENCE": {
+      "first_line": "CONTENTS",
+      "traduttore": "Paul Carus",
+      "subtitle": null,
+      "note": "Delphi blurb + title-page caption precede CONTENTS."
+    },
+    "AN ANSWER TO THE QUESTION: “WHAT IS ENLIGHTENMENT?”": {
+      "first_line": "",
+      "traduttore": "Lewis White Beck",
+      "subtitle": null,
+      "note": "No blurb; translator line is followed immediately by the essay's own first-person opening ('Enlightenment is man's release...'). Block ends with a stray line 'IDEA FOR A UNIVERSAL HISTORY WITH A COSMOPOLITAN PURPOSE' (line 276) before the next OPERA marker - appears to be leftover next-work heading, not part of this work's body."
+    },
+    "IDEA FOR A UNIVERSAL HISTORY WITH A COSMOPOLITAN PURPOSE": {
+      "first_line": "CONTENTS",
+      "traduttore": "Thomas De Quincey",
+      "subtitle": null,
+      "note": "Delphi blurb (2 paragraphs) + Herder bio caption precede CONTENTS."
+    },
+    "FUNDAMENTAL PRINCIPLES OF THE METAPHYSIC OF MORALS": {
+      "first_line": "CONTENTS",
+      "traduttore": "homas Kingsmill Abbott",
+      "subtitle": null,
+      "note": "Translator line has typo 'homas' (missing T) in source file, copied verbatim. Delphi blurb + title-page caption precede CONTENTS."
+    },
+    "METAPHYSICAL FOUNDATIONS OF NATURAL SCIENCE": {
+      "first_line": "CONTENTS",
+      "traduttore": "Ernest Belfort Bax",
+      "subtitle": null,
+      "note": "Delphi blurb + Gödel bio caption precede CONTENTS."
+    },
+    "CRITIQUE OF PRACTICAL REASON": {
+      "first_line": "CONTENTS",
+      "traduttore": "Thomas Kingsmill Abbott",
+      "subtitle": null,
+      "note": "Long multi-paragraph Delphi blurb + title-page caption precede CONTENTS."
+    },
+    "CRITIQUE OF JUDGEMENT": {
+      "first_line": "CONTENTS",
+      "traduttore": "J. H. Bernard",
+      "subtitle": null,
+      "note": "Delphi blurb + title-page caption precede CONTENTS."
+    },
+    "RELIGION WITHIN THE BOUNDS OF BARE REASON": {
+      "first_line": "",
+      "traduttore": "Thomas Kingsmill Abbott",
+      "subtitle": null,
+      "note": "No blurb; translator line goes straight to CONTENTS."
+    },
+    "PERPETUAL PEACE": {
+      "first_line": "CONTENTS",
+      "traduttore": "M. Campbell Smith",
+      "subtitle": "A PHILOSOPHICAL SKETCH",
+      "note": "triage: blurb oltre la finestra; verificato a mano, CONTENTS @13264"
+    },
+    "METAPHYSICS OF MORALS: THE PHILOSOPHY OF LAW": {
+      "first_line": "",
+      "traduttore": "William Hastie",
+      "subtitle": null,
+      "note": "No blurb; translator line goes straight to CONTENTS."
+    },
+    "OF THE INJUSTICE OF COUNTERFEITING BOOKS": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "No named translator; head line reads 'Anonymous translation, 1798'. No blurb; goes straight to CONTENTS."
+    },
+    "ON EDUCATION": {
+      "first_line": "",
+      "traduttore": "Annette Churton",
+      "subtitle": null,
+      "note": "No Delphi blurb before CONTENTS. Note: the book's own first section is headed INTRODUCTION (listed in CONTENTS) and its text (from 'Nearly a century after its original publication...') is the translator/editor's own introduction discussing Rink and Bock - this is author/translator material, not a Delphi blurb, so it is kept and not treated as a cut point."
+    }
+  },
+  "locke": {
+    "AN ESSAY CONCERNING HUMAN UNDERSTANDING": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": "THE SECOND EDITION TEXT",
+      "note": null
+    },
+    "A LETTER CONCERNING TOLERATION, 1689": {
+      "first_line": "A LETTER CONCERNING TOLERATION",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "A SECOND LETTER CONCERNING TOLERATION": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "A THIRD LETTER FOR TOLERATION": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "A FOURTH LETTER FOR TOLERATION": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "TWO TREATISES OF GOVERNMENT": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": "1764 EDITION",
+      "note": null
+    },
+    "SOME CONSIDERATIONS ON THE CONSEQUENCES OF THE LOWERING OF INTEREST AND THE RAISING OF THE VALUE OF MONEY": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "FURTHER CONSIDERATIONS CONSIDERING RAISING THE VALUE OF MONEY": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "SHORT OBSERVATIONS ON A PRINTED PAPER, ENTITLED FOR ENCOURAGING THE COINAGE OF SILVER MONEY IN ENGLAND, AND AFTER FOR KEEPING IT THERE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "SOME THOUGHTS CONCERNING EDUCATION": {
+      "first_line": "SOME THOUGHTS CONCERNING EDUCATION.",
+      "traduttore": null,
+      "subtitle": "THE 1824 TEXT",
+      "note": null
+    },
+    "THE REASONABLENESS OF CHRISTIANITY, AS DELIVERED IN THE SCRIPTURES": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Block has 'THE 1824 TEXT' edition marker but no descriptive blurb follows it before CONTENTS, so nothing is cut."
+    },
+    "A VINDICATION OF THE REASONABLENESS OF CHRISTIANITY": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Block has 'THE 1824 TEXT' edition marker but text goes straight into Locke's first-person prose ('MY BOOK had not been long out...'), no third-person blurb, so nothing is cut."
+    },
+    "A SECOND VINDICATION OF THE REASONABLENESS OF CHRISTIANITY": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Block has 'THE 1824 TEXT' edition marker but no descriptive blurb follows it before CONTENTS, so nothing is cut."
+    },
+    "A PARAPHRASE AND NOTES ON THE EPISTLES OF ST. PAUL TO THE GALATIANS, 1 AND 2 CORINTHIANS, ROMANS, EPHESIANS": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "SOME THOUGHTS ON THE CONDUCT OF THE UNDERSTANDING": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "MISCELLANEOUS WORKS": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "MISCELLANEOUS LETTERS OF JOHN LOCKE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": null
+    },
+    "THE POEMS OF JOHN LOCKE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "No top-of-block blurb (CONTENTS starts immediately). A Delphi image caption ('John Locke by John Smith, 1721') and a historical headnote about the Cromwell epigram appear later, between CONTENTS and the actual Latin poem text, but that is interior to the block, not a head-of-block blurb, so first_line is left empty."
+    }
+  },
+  "lucretius": {
+    "ON THE NATURE OF THINGS: PROSE TRANSLATION": {
+      "first_line": "CONTENTS",
+      "traduttore": "H. A. J. Munro",
+      "subtitle": null,
+      "note": null
+    },
+    "ON THE NATURE OF THINGS: VERSE TRANSLATION": {
+      "first_line": "",
+      "traduttore": "William Ellery Leonard",
+      "subtitle": "A METRICAL TRANSLATION",
+      "note": "No Delphi blurb; goes straight from subtitle/credit to CONTENTS."
+    },
+    "The Latin Text": {
+      "skip": true,
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "divisore di sezione Delphi: span 12 righe, solo didascalia. Non e' un'opera."
+    },
+    "CONTENTS OF THE LATIN TEXT": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Duplicate/near-identical nav-page block to 'The Latin Text', title itself already carries the heading. Delphi nav note (\"In this section of the eBook, readers can view...\") stripped as blurb."
+    },
+    "The Dual Text": {
+      "skip": true,
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "divisore di sezione Delphi: span 12 righe, solo didascalia. Non e' un'opera."
+    },
+    "DUAL LATIN AND ENGLISH TEXT": {
+      "first_line": "CONTENTS",
+      "traduttore": "H. A. J. Munro",
+      "subtitle": null,
+      "note": null
+    }
+  },
+  "marx": {
+    "CRITIQUE OF HEGEL’S PHILOSOPHY OF RIGHT, 1843": {
+      "first_line": "A CRITICISM OF THE HEGELIAN PHILOSOPHY OF RIGHT",
+      "traduttore": "Henry James Stenning",
+      "subtitle": null,
+      "note": null
+    },
+    "ON THE JEWISH QUESTION, 1843": {
+      "first_line": "CONTENTS",
+      "traduttore": "Henry James Stenning",
+      "subtitle": null,
+      "note": "Delphi inserts a caption bio of Bruno Bauer between CONTENTS and the repeated section heading '1. Bruno Bauer, Die Judenfrage, Brunswick 1843.'; CONTENTS is the earliest author-owned line."
+    },
+    "THE HOLY FAMILY, 1845": {
+      "first_line": "CONTENTS",
+      "traduttore": "Richard Dixon",
+      "subtitle": null,
+      "note": null
+    },
+    "THESES ON FEUERBACH, 1845": {
+      "first_line": "",
+      "traduttore": "Carl Manchester",
+      "subtitle": null,
+      "note": "No Delphi blurb; text begins directly with heading 'I'."
+    },
+    "THE POVERTY OF PHILOSOPHY, 1847": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Anonymous translation, 1900."
+    },
+    "WAGE LABOUR AND CAPITAL, 1847": {
+      "first_line": "CONTENTS",
+      "traduttore": "Harriet E. Lothrop",
+      "subtitle": null,
+      "note": null
+    },
+    "MANIFESTO OF THE COMMUNIST PARTY, 1848": {
+      "first_line": "CONTENTS",
+      "traduttore": "Samuel Moore",
+      "subtitle": null,
+      "note": null
+    },
+    "THE CLASS STRUGGLES IN FRANCE, 1850": {
+      "first_line": "",
+      "traduttore": "Friedrich Engels",
+      "subtitle": null,
+      "note": "No Delphi blurb; goes directly from translator line to CONTENTS."
+    },
+    "ADDRESS OF THE CENTRAL COMMITTEE TO THE COMMUNIST LEAGUE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Anonymous translation; no Delphi blurb - text begins directly with the letter's own dateline 'LONDON, MARCH 1850' and 'Brothers!'."
+    },
+    "THE EIGHTEENTH BRUMAIRE OF LOUIS NAPOLEON, 1852": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Anonymous translation."
+    },
+    "A CONTRIBUTION TO THE CRITIQUE OF POLITICAL ECONOMY, 1859": {
+      "first_line": "CONTENTS",
+      "traduttore": "N. I. Stone",
+      "subtitle": null,
+      "note": null
+    },
+    "MARX’S INAUGURAL ADDRESS": {
+      "first_line": "",
+      "traduttore": "Alick West",
+      "subtitle": null,
+      "note": "SUSPECT MISMATCH: the CONTENTS listing under this title (Preface to First Edition 1884, Stages of Prehistoric Culture, the Iroquois/Greek/Roman Gens, Celts and Germans, etc.) belongs to Engels' Origin of the Family, Private Property and the State, not to Marx's Inaugural Address. No Delphi blurb present in this excerpt; flagging for manual review since the head sample does not actually show the Inaugural Address text."
+    },
+    "CAPITAL": {
+      "first_line": "CONTENTS",
+      "traduttore": "Ernest Untermann",
+      "subtitle": null,
+      "note": null
+    },
+    "THE CIVIL WAR IN FRANCE, 1871": {
+      "first_line": "CONTENTS",
+      "traduttore": "Friedrich Engels",
+      "subtitle": null,
+      "note": null
+    },
+    "CRITIQUE OF THE GOTHA PROGRAM, 1875": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Anonymous translation."
+    },
+    "MR. GEORGE HOWELL’S HISTORY OF THE INTERNATIONAL WORKING-MEN’S ASSOCIATION": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "No 'Translated by' line at all; block opens with a publication citation ('Published in The Secular Chronicle, And Record of Freethought Progress, August 4, 1878') followed directly by Marx's own first-person prose. No Delphi blurb."
+    },
+    "NOTES ON ADOLPH WAGNER, 1883": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Anonymous translation; no Delphi blurb - text goes directly from translator line to the heading 'Notes on Adolph Wagner's \"Lehrbuch der politischen Okonomie\"' then the numbered notes."
+    },
+    "SECRET DIPLOMATIC HISTORY OF THE EIGHTEENTH CENTURY": {
+      "first_line": "",
+      "traduttore": "Eleanor Marx Aveling",
+      "subtitle": null,
+      "note": "No Delphi blurb; goes directly from translator line to CONTENTS. The 'PUBLISHER'S PREFACE' that follows is the original 1899 publisher's preface (part of the public-domain edition), not Delphi's own editorial matter."
+    },
+    "REVOLUTION AND COUNTER-REVOLUTION": {
+      "first_line": "",
+      "traduttore": "Eleanor Marx Aveling",
+      "subtitle": "OR, GERMANY IN 1848",
+      "note": "No Delphi blurb; goes directly from translator line to CONTENTS."
+    }
+  },
+  "pascal": {
+    "Essay on Conics (1639)": {
+      "first_line": "First Definition",
+      "traduttore": "Frances Marguerite Clarke",
+      "subtitle": null,
+      "note": "Sandwich case: the Delphi blurb ('WHEN PASCAL WAS only sixteen years old, he wrote a brief statement...') sits AFTER the CONTENTS and AFTER a repeated title heading, and is itself followed by a second occurrence of the heading 'ESSAY ON CONICS'. Both 'ESSAY ON CONICS' and '“ESSAY POUR LES CONIQUES”' appear twice in the block (once in/around CONTENTS before the blurb, once as the real section heading after it), so a single string-matched cut on either heading is ambiguous and could land on the earlier occurrence, leaving the blurb in. A single cut also cannot preserve the CONTENTS listing, the duplicate title headings, and the translator credit line ('(Translated from the French by Dr. Frances Marguerite Clarke, Bryn Mawr College, Bryn Mawr, Penna.)') while still removing the blurb, since those sit on both sides of it. Chose 'First Definition' (unique, unambiguous, explicitly Pascal's own section head) as the safe cut point; this necessarily discards the CONTENTS block and the heading/credit lines preceding the blurb."
+    },
+    "The Provincial Letters (1657)": {
+      "first_line": "CONTENTS",
+      "traduttore": "Thomas M’Crie",
+      "subtitle": null,
+      "note": null
+    },
+    "On the Geometrical Spirit (1658)": {
+      "first_line": "OF THE GEOMETRICAL SPIRIT",
+      "traduttore": "Orlando Williams Wight",
+      "subtitle": null,
+      "note": null
+    },
+    "On the Art of Persuasion (1658)": {
+      "first_line": "THE ART OF PERSUASION",
+      "traduttore": "Orlando Williams Wight",
+      "subtitle": null,
+      "note": null
+    },
+    "Thoughts (1670)": {
+      "first_line": "CONTENTS",
+      "traduttore": "Charles K. Paul and William Finlayson Trotter",
+      "subtitle": null,
+      "note": "CONTENTS appears twice in this block (overall CONTENTS, then a nested CONTENTS for the Charles K. Paul translation). The first occurrence (line 214) is used since no blurb text follows it — all Delphi blurb material precedes it."
+    },
+    "Thoughts on Eloquence and Style": {
+      "first_line": "",
+      "traduttore": "George Pearce",
+      "subtitle": null,
+      "note": null
+    },
+    "Miscellaneous Thoughts": {
+      "first_line": "",
+      "traduttore": "George Pearce",
+      "subtitle": null,
+      "note": null
+    },
+    "Thoughts on the Jesuits and the Jansenists": {
+      "first_line": "THE FOLLOWING SECTION, in which we have collected a multitude of fragments and notes relating to the memorable contest in which Pascal engaged with the Jesuits, may properly be considered as an Appendix to the Provincial Letters.",
+      "traduttore": "George Pearce",
+      "subtitle": null,
+      "note": "Sandwich case: a Delphi-style image caption ('Cornelius Jansen (1585–1638) was the Dutch Catholic Bishop of Ypres in Flanders and the father of the theological movement Jansenism.') is inserted between the CONTENTS/heading block and a repeated 'EDITORIAL NOTICES.' heading. 'EDITORIAL NOTICES.' itself appears twice (once before the caption, once after), so a single cut on that heading text is ambiguous and could leave the caption in. The text under the second 'EDITORIAL NOTICES.' heading (signed '(French Editor.)') is genuine 19th-century editorial matter, not Delphi's own blurb, and is legitimately part of the work's front matter (as in the other George Pearce volumes) — so it is kept. Cut point chosen at the unique first sentence of that editorial note; this necessarily discards the CONTENTS listing and the duplicate headings preceding the caption."
+    },
+    "Thoughts and Notes for the Provincial Letters": {
+      "first_line": "",
+      "traduttore": "George Pearce",
+      "subtitle": null,
+      "note": null
+    },
+    "On the Pope and the Church": {
+      "first_line": "",
+      "traduttore": "George Pearce",
+      "subtitle": null,
+      "note": null
+    },
+    "Conversation on Religion": {
+      "first_line": "",
+      "traduttore": "George Pearce",
+      "subtitle": null,
+      "note": null
+    },
+    "Letters and Minor Works": {
+      "first_line": "",
+      "traduttore": "Mary L. Booth and O. W. Wright",
+      "subtitle": null,
+      "note": null
+    }
+  },
+  "seneca": {
+    "THE MADNESS OF HERCULES": {
+      "first_line": "",
+      "traduttore": "Frank Justus Miller",
+      "subtitle": null,
+      "note": null
+    },
+    "THE TROJAN WOMEN": {
+      "first_line": "",
+      "traduttore": "Frank Justus Miller",
+      "subtitle": null,
+      "note": null
+    },
+    "THE PHOENICIAN WOMEN": {
+      "first_line": "",
+      "traduttore": "Frank Justus Miller",
+      "subtitle": null,
+      "note": null
+    },
+    "PHAEDRA": {
+      "first_line": "",
+      "traduttore": "Frank Justus Miller",
+      "subtitle": null,
+      "note": null
+    },
+    "THYESTES": {
+      "first_line": "",
+      "traduttore": "Frank Justus Miller",
+      "subtitle": null,
+      "note": null
+    },
+    "HERCULES ON OETA": {
+      "first_line": "",
+      "traduttore": "Frank Justus Miller",
+      "subtitle": null,
+      "note": null
+    },
+    "AGAMEMNON": {
+      "first_line": "",
+      "traduttore": "Frank Justus Miller",
+      "subtitle": null,
+      "note": null
+    },
+    "OEDIPUS": {
+      "first_line": "",
+      "traduttore": "Frank Justus Miller",
+      "subtitle": null,
+      "note": null
+    },
+    "MEDEA": {
+      "first_line": "",
+      "traduttore": "Frank Justus Miller",
+      "subtitle": null,
+      "note": null
+    },
+    "OCTAVIA": {
+      "first_line": "",
+      "traduttore": "Frank Justus Miller",
+      "subtitle": null,
+      "note": "No Delphi blurb: the INTRODUCTION (on Roman historical drama) is itself listed in this work's own CONTENTS, so it is the translator's own material, not publisher blurb; kept in full."
+    },
+    "TO MARCIA, ON CONSOLATION": {
+      "first_line": "CONTENTS",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": null
+    },
+    "TO MY MOTHER HELVIA, ON CONSOLATION": {
+      "first_line": "CONTENTS",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": null
+    },
+    "TO POLYBIUS, ON CONSOLATION": {
+      "first_line": "CONTENTS",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": null
+    },
+    "THE MORAL EPISTLES": {
+      "first_line": "CONTENTS",
+      "traduttore": "Richard Mott Gummere",
+      "subtitle": null,
+      "note": null
+    },
+    "ON ANGER": {
+      "first_line": "",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": null
+    },
+    "ON THE SHORTNESS OF LIFE": {
+      "first_line": "CONTENTS",
+      "traduttore": "John W. Basore",
+      "subtitle": null,
+      "note": null
+    },
+    "THE PUMPKINIFICATION OF THE DIVINE CLAUDIUS": {
+      "first_line": "CONTENTS",
+      "traduttore": "Allan Perley Ball",
+      "subtitle": null,
+      "note": null
+    },
+    "ON THE FIRMNESS OF THE WISE PERSON": {
+      "first_line": "",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": null
+    },
+    "ON CLEMENCY": {
+      "first_line": "CONTENTS",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": null
+    },
+    "ON THE HAPPY LIFE": {
+      "first_line": "CONTENTS",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": null
+    },
+    "ON LEISURE": {
+      "first_line": "",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": "No Delphi blurb. Chapter I's actual prose begins mid-sentence with an ellipsis (\".... why do they with great unanimity...\") - this is the translator's own text (a known lacuna in the manuscript), not an artifact of blurb-stripping."
+    },
+    "NATURAL QUESTIONS": {
+      "first_line": "CONTENTS",
+      "traduttore": "John Clarke",
+      "subtitle": null,
+      "note": null
+    },
+    "ON BENEFITS": {
+      "first_line": "CONTENTS",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": null
+    },
+    "ON TRANQUILLITY OF MIND": {
+      "first_line": "",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": null
+    },
+    "ON PROVIDENCE": {
+      "first_line": "CONTENTS",
+      "traduttore": "Aubrey Stewart",
+      "subtitle": null,
+      "note": null
+    },
+    "LIST OF LATIN TEXTS": {
+      "first_line": "CONTENTS",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "sezione dei testi latini originali (kind=latin). La prima riga e' una nota di navigazione Delphi, tagliata. Blocco unico di ~34k righe con tutte le opere latine: lo split per opera spetta all'atomizzazione (M2)."
+    }
+  },
+  "rousseau": {
+    "CONSIDÉRATIONS SUR LE GOUVERNEMENT DE POLOGNE": {
+      "first_line": "Chapitre premier. – état de la question.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con \"Notice préliminaire.\" (citazione storica anonima sulla Polonia, terza persona) prima del capitolo 1 di Rousseau (\"Je ne connais personne plus en état de tracer ce plan que lui-même\")."
+    },
+    "COURTS FRAGMENTS DE LUCRÈCE": {
+      "first_line": "Personnages",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con \"Ce fut en 1754... que Rousseau fit cette esquisse\" (terza persona editoriale). \"Personnages\" e' il primo elenco di scena, gia' parte dell'abbozzo di Rousseau (verificato: rousseau.py docstring conferma che questo cluster e' materiale d'autore, non apparato)."
+    },
+    "DISCOURS SUR L’ÉCONOMIE POLITIQUE": {
+      "first_line": "Le mot d’économie ou oeconomie vient de oikos, maison, et de nomos, loi, et ne signifie originairement que le sage et légitime gouvernement de la maison pour le bien commun de toute la famille. Le sens de ce terme a été dans la suite étendu au gouvernement de la grande famille, qui est l'état. Pour distinguer ces deux acceptions, on l'appelle, dans ce dernier cas, économie générale, ou politique ; et dans l'autre, économie domestique ou particulière. Ce n'est que de la première qu'il est question dans cet article.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con una nota editoriale in terza persona sulla storia editoriale del testo (\"l'auteur expose...\", firmata implicitamente da un curatore ottocentesco). first_line e' l'incipit reale, verificato, dell'articolo dell'Encyclopédie."
+    },
+    "ESSAI SUR L’ORIGINE DES LANGUES": {
+      "first_line": "La parole distingue l'homme entre les animaux : le langage distingue les nations entre elles ; on ne connaît d'où est un homme qu'après qu'il a parlé. L'usage et le besoin font apprendre à chacun la langue de son pays ; mais qu'est-ce qui fait que cette langue est celle de son pays et non pas d'un autre ? il faut bien remonter, pour le dire, à quelque raison qui tienne au local, et qui soit antérieure aux mœurs mêmes : la parole étant la première institution sociale, ne doit sa forme qu'à des causes naturelles.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con \"Jean-Jacques Rousseau a commencé de faire l'esquisse...\" (terza persona) poi \"Avis\" e l'indice locale dei capitoli (ripetuto due volte nel file). Il primo \"Chapitre premier\" incontrato e' solo la voce d'indice: first_line punta alla PROSA reale del capitolo (riga intera, non un prefisso: strip_to_start pretende match esatto dell'intera riga), non al titolo (ambiguo per doppia occorrenza)."
+    },
+    "JUGEMENT SUR LA POLYSYNODIE": {
+      "first_line": "De tous les ouvrages de l’abbé de Saint-Pierre, le Discours sur la Polysynodie est, à mon avis, le plus approfondi, le mieux raisonné, celui où l’on trouve le moins de répétitions, et même le mieux écrit : éloge dont le sage auteur se serait fort peu soucié, mais qui n’est pas indifférent aux lecteurs superficiels. Aussi cet écrit n’était-il qu’une ébauche, qu’il prétendait n’avoir pas eu le temps d’abréger ; mais qu’en effet il n’avait pas eu le temps de gâter, pour vouloir tout dire : et Dieu garde un lecteur impatient des abrégés de sa façon !",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con 2 righe editoriali (\"Jean-Jacques Rousseau a rédigé ce Jugement...\", terza persona) prima del testo vero, che e' pero' gia' in prima persona (\"a mon avis\")."
+    },
+    "JULIE, OU LA NOUVELLE HÉLOÏSE": {
+      "first_line": "Il faut des spectacles dans les grandes villes, et des romans aux peuples corrompus. J'ai vu les moeurs de mon temps, et j'ai publié ces lettres. Que n'ai-je vécu dans un siècle où je dusse les jeter au feu !",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con un lungo saggio critico ottocentesco (\"La Nouvelle Héloïse est un de ces ouvrages...\", terza persona, esempio citato nel prompt). first_line e' l'incipit VERO e noto della Préface autentica di Rousseau (persona fittizia di \"editore\" del romanzo, sua stessa scrittura)."
+    },
+    "LA REINE FANTASQUE": {
+      "first_line": "Il y avait autrefois un roi qui aimait son peuple... Cela commence comme un conte de fée, interrompit le druide. C'en est un aussi, répondit Jalamir. Il y avait donc un roi qui aimait son peuple et qui, par conséquent, en était adoré. Il avait fait tous ses efforts pour trouver des ministres aussi bien intentionnés que lui ; mais ayant enfin reconnu la folie d'une pareille recherche, il avait pris le parti de faire par lui-même toutes les choses qu'il pouvait dérober à leur malfaisante activité. Comme il était fort entêté du bizarre projet de rendre ses sujets heureux, il agissait en conséquence et une conduite si singulière lui donnait parmi les grands un ridicule ineffaçable. Le peuple le bénissait, mais à la cour il passait pour un fou. À cela près, il ne manquait pas de mérite ; aussi s'appelait-il Phénix.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con 3 paragrafi editoriali in terza persona (\"Jean-Jacques a écrit ce texte en 1756...\") prima dell'incipit vero del conte."
+    },
+    "LA VERTU LA PLUS NÉCESSAIRE AUX HÉROS": {
+      "first_line": "Si je n'étais Alexandre, disait ce conquérant, je voudrais être Diogène. Le philosophe eût-il dit : Si je n'étais ce que je suis, je voudrais être Alexandre ? J'en doute ; un conquérant consentirait plutôt d'être un sage, qu'un sage d'être un conquérant. Mais quel homme au monde ne consentirait pas d'être un héros ? On sent donc que l'héroïsme a des vertus à lui, qui ne dépendent point de la fortune, mais qui ont besoin d'elle pour se développer. Le héros est l'ouvrage de la nature, de la fortune, et de lui-même. Pour bien le définir, il faudrait assigner ce qu'il tient de chacun des trois.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Caso a 2 strati: la riga 1 (\"Cette pièce est très mauvaise, et je le sentis...\") sembra una vera citazione di Rousseau (prima persona, nota [126], probabile estratto dalle Confessions), ma segue un \"Avis\" editoriale firmato \"M. P.\" (Petitain). strip_to_start ammette UN solo taglio: si e' scelto di tagliare fino al vero Discours (perdendo la riga 1, minore) pur di eliminare con certezza l'apparato firmato."
+    },
+    "LES AMOURS DE CLAIRE ET DE MARCELLIN": {
+      "first_line": "Dans le village d'Orival en Dauphiné demeurait un laboureur à son aise nommé Germon. Ce paysan avait un fils unique nommé Marcellin : jeune homme heureusement né et d'un mérite d'autant plus vrai qu'il n'avait point reçu le fard de l'éducation. Son père fâché de n'avoir que lui, voulut le marier de bonne heure pour s'assurer une plus nombreuse famille. Car la multitude des enfants qui chez les paysans ajoute à la misère des pauvres, augmente la richesse de ceux qui sont à leur aise. Germon s'étant donc arrangé pour ce mariage, le conclut moins en villageois qu'en homme riche, c'est-à-dire sur les seules convenances du bien et sans beaucoup consulter le goût de son fils.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con 3 righe editoriali in terza persona (\"Ce conte inachevé, rédigé en 1756...\") prima del racconto vero."
+    },
+    "LES PRISONNIERS DE GUERRE": {
+      "first_line": "Personnages",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con \"Rousseau fît cette comédie dans le commencement de 1743...\" (terza persona). \"Personnages\" e' il primo elenco (indice di scena), gia' materiale d'autore secondo lo stesso pattern di COURTS FRAGMENTS DE LUCRÈCE."
+    },
+    "LES RÊVERIES DU PROMENEUR SOLITAIRE": {
+      "first_line": "Me voici donc seul sur la terre, n’ayant plus de frère, de prochain, d’ami, de société que moi-même. Le plus sociable et le plus aimant des humains en a été proscrit par un accord unanime. Ils ont cherché dans les raffinements de leur haine quel tourment pouvait être le plus cruel à mon âme sensible, et ils ont brisé violemment tous les liens qui m’attachaient à eux. J’aurais aimé les hommes en dépit d’eux-mêmes. Ils n’ont pu qu’en cessant de l’être se dérober à mon affection. Les voilà donc étrangers, inconnus, nuls enfin pour moi puisqu’ils l’ont voulu. Mais moi, détaché d’eux et de tout, que suis-je moi-même ? Voilà ce qui me reste à chercher. Malheureusement cette recherche doit être précédée d’un coup-d’oeil sur ma position. C’est une idée par laquelle il faut nécessairement que je passe, pour arriver d’eux à moi.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con un lungo commento critico ottocentesco su Rousseau/Bovier/Servan (terza persona) prima dell'incipit autentico e celebre della Première Promenade."
+    },
+    "LES SCIENCES ET LES ARTS": {
+      "first_line": "C'est un grand et beau spectacle de voir l'homme sortir en quelque manière du néant par ses propres efforts ; dissiper, par les lumières de sa raison, les ténèbres dans lesquelles la nature l'avait enveloppé ; s'élever au-dessus de lui-même ; s'élancer par l'esprit jusque dans les régions célestes ; parcourir à pas de géant, ainsi que le soleil, la vaste étendue de l'univers ; et, ce qui est encore plus grand et plus difficile, rentrer en soi pour y étudier l'homme et connaître sa nature, ses devoirs, et sa fin. Toutes ces merveilles se sont renouvelées depuis peu de générations.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con un lungo resoconto storico sul concorso dell'Accademia di Dijon (terza persona, \"Cet homme, ce fut Rousseau\") prima dell'incipit autentico e celebre del Discours sur les sciences et les arts."
+    },
+    "LETTRES À SARA": {
+      "first_line": "Avertissement",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con una nota firmata \"M. Musset-Pathay\" e un'epigrafe latina (Orazio). \"Avertissement\" che segue e' pero' in prima persona (\"il m'a semblé...\"): e' l'avvertimento autentico di Rousseau alle sue lettere fittizie, tenuto."
+    },
+    "LETTRES ÉCRITES DE LA MONTAGNE": {
+      "first_line": "Lettre I",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con ~6000 caratteri di ricostruzione storica del conflitto di Ginevra (terza persona) piu' un lungo \"tableau\" costituzionale citato fra virgolette, firmato \"M. Musset-Pathay\". Lettre I e' la prima vera lettera di Rousseau (\"Non, Monsieur, je ne vous blâme point...\")."
+    },
+    "LETTRE À D’ALEMBERT SUR LES SPECTACLES": {
+      "first_line": "Préface",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con \"Avis\" firmato \"M.P.\" (Petitain), analisi editoriale del titolo dell'opera. \"Préface\" che segue e' la prefazione autentica di Rousseau (\"J'ai tort si j'ai pris en cette occasion la plume sans nécessité...\")."
+    },
+    "LETTRE À MONSEIGNEUR DE BEAUMONT": {
+      "first_line": "Pourquoi faut-il, monseigneur, que j'aie quelque chose à vous dire ? Quelle langue commune pouvons-nous parler ? comment pouvons-nous nous entendre ? et qu'y a-t-il entre vous et moi ?",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Il file riproduce PRIMA il \"Mandement de Monseigneur l'Archevêque de Paris\" (testo del vescovo, non di Rousseau) e l'epigrafe latina che Rousseau vi premette; la vera lettera di risposta di Rousseau comincia dopo."
+    },
+    "LETTRE À M. BURNEY, SUR LA MUSIQUE": {
+      "first_line": "Vous m'avez fait successivement, monsieur, plusieurs cadeaux précieux de vos écrits, chacun desquels méritait bien un remerciement exprès. La presque absolue impossibilité d'écrire m'a jusqu'ici empêché de remplir ce devoir ; mais le premier volume de votre histoire générale de la musique, en ranimant en moi un reste de zèle pour un art auquel le vôtre vous a fait employer tant de travaux, de temps, de voyages et de dépenses, m'excite à vous en marquer ma reconnaissance, en m'entretenant quelque temps avec vous du sujet favori de vos recherches, qui doit immortaliser votre nom chez les vrais amateurs de ce bel art.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apparato ESPLICITAMENTE dichiarato: \"Nota. Cet Avertissement est des éditeurs de Genève.\" prima dell'incipit vero della lettera."
+    },
+    "LETTRE À M. L’ABBÉ RAYNAL": {
+      "first_line": "Réponse de J.J. Rousseau",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Il file riproduce PRIMA le \"OBSERVATIONS\" dell'Abbé Raynal (terza persona su \"l'auteur\", chiuse da \"FIN des OBSERVATIONS DE L'ABBÉ RAYNAL\"): non e' apparato editoriale ottocentesco ma testo di un TERZO autore. La vera risposta di Rousseau ha una propria intestazione."
+    },
+    "LE LÉVITE D’ÉPHRAÏM": {
+      "first_line": "Sainte colère de la vertu, viens animer ma voix ; je dirai les crimes de Benjamin, et les vengeances d’Israël ; je dirai des forfaits inouïs, et des châtiments encore plus terribles. Mortels, respectez la beauté, les mœurs, l’hospitalité ; soyez justes sans cruauté, miséricordieux sans faiblesse ; et sachez pardonner au coupable, plutôt que de punir l’innocent.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con 2 righe editoriali in terza persona (\"Le Lévite d'Éphraïm a été composé au mois de Juin 1762... pendant que Rousseau se mettait à l'abri\") prima del testo vero."
+    },
+    "LE PERSIFLEUR": {
+      "first_line": "Dès qu'on m'a appris que les écrivains qui s'étaient chargés d'examiner les ouvrages nouveaux avaient, par divers accidents, successivement résigné leurs emplois, je me suis mis en tête que je pourrais fort bien les remplacer ; et, comme je n'ai pas la mauvaise vanité de vouloir être modeste avec le public, j'avoue franchement que je m'en suis trouvé très capable ; je soutiens même qu'on ne doit jamais parler autrement de soi, que quand on est bien sûr de n'en pas être la dupe. Si j'étais un auteur connu, j'affecterais peut-être de débiter des contre-vérités à mon désavantage, pour tâcher, à leur faveur, d'amener adroitement dans la même classe les défauts que je serais contraint d'avouer : mais actuellement le stratagème serait trop dangereux ; le lecteur, par provision, me jouerait infailliblement le tour de tout prendre au pied de la lettre : or, je le demande à mes chers confrères, est-ce là le compte d'un auteur qui parle mal de soi ?",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con 2 righe editoriali in terza persona (\"Le morceau qui va suivre est la première feuille... que Diderot et Rousseau devaient faire\") prima del testo vero."
+    },
+    "LE PETIT SAVOYARD ou LA VIE DE CLAUDE NOYER": {
+      "first_line": "Je suis né dans les montagnes de Savoie. Mon père était un bon paysan, assez riche pour vivre commodément de son état, trop pauvre pour être exposé aux tourments de la convoitise, car on ne saurait désirer bien ardemment ce qu'on juge impossible à acquérir. Heureux non seulement d'avoir le nécessaire, mais surtout de ne l'avoir que par son travail qui l'empêchait de songer au superflu.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con l'introduzione firmata di M. E.-H. Gaullieur e Alfred de Bougy (terza persona, curatori ottocenteschi) prima dell'incipit vero del racconto."
+    },
+    "MÉMOIRE À S. E. MONSEIGNEUR LE GOUVERNEUR DE SAVOIE": {
+      "first_line": "J'ai l'honneur d'exposer très respectueusement à son excellence le triste détail de la situation où je me trouve, la suppliant de daigner écouter la générosité de ses pieux sentiments pour y pourvoir de la manière qu'elle jugera convenable.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con 2 righe editoriali datazione in terza persona (\"Ce mémoire, écrit après la mort de M. de Bernex, doit être de 1734...\") prima del vero memoriale."
+    },
+    "NOTES EN RÉFUTATION DE L’OUVRAGE D'HELVÉTIUS": {
+      "first_line": "Le grand but de M. Helvétius dans son ouvrage est de réduire toutes les facultés de l'homme à une existence purement matérielle. Il débute par avancer, tom. I, disc. I, chap. I, pag. 190[34], « que nous avons en nous deux facultés, ou, s'il l'ose dire, deux puissances passives ; la sensibilité physique et la mémoire ; et il définit la mémoire une sensation continuée, mais affaiblie. »",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con 2 righe editoriali di datazione (terza persona su \"Jean-Jacques\"/\"Rousseau\"). Il resto del testo alterna parafrasi di Helvétius e citazioni dirette di Rousseau (\"dit Rousseau\"): genere strutturalmente cosi', non ulteriore apparato da tagliare."
+    },
+    "OLINDE ET SOPHRONIE": {
+      "first_line": "ÉPISODE",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con 2 righe editoriali (\"On ignore l'époque précise où Rousseau traduisit cet épisode...\") prima dell'intestazione \"ÉPISODE / Tiré du second chant de la Jérusalem délivrée, du Tasse\" (paratesto della traduzione di Rousseau) e dei versi tradotti."
+    },
+    "ORAISON FUNÈBRE DU DUC D’ORLÉANS": {
+      "first_line": "Première partie",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con un lungo racconto in terza persona (\"Voici à quelle occasion cette Oraison funèbre fut faite...\", esempio citato nel prompt) firmato \"M. Musset-Pathay\" prima del testo vero (\"Dans l'hommage que je viens rendre aujourd'hui...\")."
+    },
+    "PROJET DE CONSTITUTION POUR LA CORSE": {
+      "first_line": "Le projet",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con nota editoriale (\"En août 1764... Mattéo Buttafoco... demande à Jean-Jacques Rousseau de rédiger...\") e una \"Présentation\" storica ugualmente editoriale (\"Rousseau voit l'occasion d'appliquer le contrat social...\", terza persona) prima del vero progetto di Rousseau."
+    },
+    "PROJET POUR L’ÉDUCATION DE MONSIEUR DE SAINTE-MARIE": {
+      "first_line": "Vous m’avez fait l’honneur, monsieur, de me confier l’instruction de messieurs vos enfants : c’est à moi d’y répondre par tous mes soins et par toute l’étendue des lumières que je puis avoir ; et j’ai cru que, pour cela, mon premier objet devait être de bien connaître les sujets auxquels j’aurai affaire. C’est à quoi j’ai principalement employé le temps qu’il y a que j’ai l’honneur d’être dans votre maison ; et je crois d’être suffisamment au fait à cet égard pour pouvoir régler là-dessus le plan de leur éducation. Il n’est pas nécessaire que je vous fasse compliment, monsieur, sur ce que j’y ai remarqué d’avantageux ; l’affection que j’ai conçue pour eux se déclarera par des marques plus solides que des louanges, et ce n’est pas un père aussi tendre et aussi éclairé que vous l’êtes, qu’il faut instruire des belles qualités de ses enfants.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con 2 righe editoriali di datazione in terza persona (\"Ce projet, fait pour l'éducation des enfants de M. Bonnot de Mably... Jean-Jacques étant entré...\") prima della vera lettera-projet. Nota apostrofi tipografici ’ (diversi da altri file di questo corpus che usano ')."
+    },
+    "PYGMALION": {
+      "first_line": "Il n'y a point là d'âme ni de vie ; ce n'est que de la pierre. Je ne ferai jamais rien de tout cela.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con note firmate \"M. Petitain\" e \"M. Musset-Pathay\" sulla storia delle rappresentazioni/musiche dell'opera, prima del testo vero della scena."
+    },
+    "QUATRE LETTRES À M. LE PRÉSIDENT DE MALESHERBES": {
+      "first_line": "Première Lettre",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con nota firmata \"M. Musset-Pathay\" seguita da un \"Sommaire\" che RIASSUME in terza persona il contenuto delle 4 lettere (non le riproduce). \"Première Lettre\" (titolo, non maiuscolo come nel Sommaire) apre la vera prima lettera (\"J'aurais moins tardé, monsieur...\")."
+    },
+    "RÉSUMÉ DE LA QUERELLE": {
+      "first_line": "Résumé de la querelle",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con una nota firmata \"M. P.\" (Petitain) che spiega perché la prefazione di Narcisse è qui riprodotta separatamente. Il testo vero e' la Préface autentica di Narcisse (\"Il faut, malgré ma répugnance, que je parle de moi...\"), che nel file NARCISSE compare come secondo paragrafo."
+    },
+    "TRADUCTION DE L'ODE DE JEAN PUTHOD": {
+      "first_line": "Muse, vous exigez de moi que je consacre au roi de nouveaux chants ; inspirez-moi donc des vers dignes d'un si grand monarque.",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con 2 blocchi editoriali (contesto storico del matrimonio + nota editoriale \"nous n'en publions que la traduction\") prima dei versi tradotti veri."
+    },
+    "TRADUCTION DU PREMIER LIVRE DE L’HISTOIRE DE TACITE": {
+      "first_line": "Avertissement",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con nota editoriale in terza persona (\"D'après ce que Rousseau dit dans le VIIIième livre des Confessions...\"). \"Avertissement\" che segue e' autentico di Rousseau, prima persona (\"Quand j'eus le malheur de vouloir parler au public...\")."
+    },
+    "VISION DE PIERRE DE LA MONTAGNE": {
+      "first_line": "Chapitre I",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con nota firmata \"M. Musset-Pathay\" (\"Cette plaisanterie nous a paru déplacée...\", esempio citato nel prompt) prima del testo satirico vero di Rousseau."
+    },
+    "ÉMILE ou de L’ÉDUCATION": {
+      "first_line": "Préface",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Apre con un lunghissimo saggio critico firmato \"V. D. Musset-Pathay\" (terza persona estesa) seguito dal frontespizio originale \"ÉMILE / OU / DE L'ÉDUCATION\" + epigrafe latina di Seneca (paratesto autentico di Rousseau, tenuto insieme a Préface). \"Préface\" e' la Préface autentica e celebre di Rousseau (\"Ce recueil de réflexions et d'observations...\"), verificata parola per parola."
+    },
+    "CHOIX DE ROMANCES": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "Correspondance V (1768-1778)": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "DE L’IMITATION THÉÂTRALE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "DICTIONNAIRE DE MUSIQUE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "DISSERTATION SUR LA MUSIQUE MODERNE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "DU CONTRAT SOCIAL ou Essai sur la forme de la République": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "DU CONTRAT SOCIAL ou Principes du droit politique": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "DÉCLARATION RELATIVE À M. LE PASTEUR VERNES": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "EXAMEN DE DEUX PRINCIPES AVANCÉS PAR M. RAMEAU": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "EXTRAIT D'UNE RÉPONSE DU PETIT FAISEUR A SON PRÊTE-NOM": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "EXTRAIT DU PROJET DE PAIX PERPÉTUELLE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "FRAGMENTS D’IPHIS": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "FRAGMENT POUR UN DICTIONNAIRE DES TERMES D'USAGE EN BOTANIQUE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "JUGEMENT SUR LA PAIX PERPÉTUELLE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LA DÉCOUVERTE DU NOUVEAU MONDE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "L’ENGAGEMENT TÉMÉRAIRE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LES AMOURS DE MILORD ÉDOUARD BOMSTON": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LES CONFESSIONS": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LES MUSES GALANTES": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LETTRES MORALES": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LETTRES SUR LA BOTANIQUE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LETTRES À M. BUTTAFOCO SUR LA LÉGISLATION DE LA CORSE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LETTRE D'UN SYMPHONISTE DE L’ACADÉMIE ROYALE DE MUSIQUE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LETTRE SUR LA MUSIQUE FRANÇAISE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LETTRE SUR LA VERTU": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LETTRE SUR UNE NOUVELLE RÉFUTATION DE SON DISCOURS": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LETTRE À MONSIEUR PHILOPOLIS": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LETTRE À M. GRIMM": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LETTRE À M. GRIMM (2)": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "LE DEVIN DU VILLAGE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "L’ORIGINE ET LES FONDEMENTS DE L’INÉGALITÉ PARMI LES HOMMES": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "MÉMOIRE À M. BOUDET": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "NARCISSE ou L'AMANT DE LUI-MÊME": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "PIÈCES DIVERSES": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "PLANCHES SUR LA BOTANIQUE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "PROJET CONCERNANT DE NOUVEAUX SIGNES POUR LA MUSIQUE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "ROUSSEAU JUGE DE JEAN-JACQUES": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "RÉPONSE AU MÉMOIRE ANONYME": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "RÉPONSE AU ROI DE POLOGNE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "RÉPONSE À M. BORDES": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "RÉPONSE À UNE LETTRE ANONYME": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "SUR LA MUSIQUE MILITAIRE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "TRADUCTION DE L’APOCOLOKINTOSIS": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "ÉCRITS EN FORME DE CIRCULAIRE": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    },
+    "ÉMILE ET SOPHIE ou LES SOLITAIRES": {
+      "first_line": "",
+      "traduttore": null,
+      "subtitle": null,
+      "note": "Verificato: comincia già con la voce di Rousseau (prima persona o testo diretto dell'opera), nessun apparato editoriale in testa."
+    }
+  }
+}

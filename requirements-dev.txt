@@ -1,0 +1,4 @@
+# Test-only. The pipeline itself (scripts/extract/) is pure stdlib —
+# these are needed to RUN THE TESTS, not to run scripts/extract/run.py.
+pytest
+pyyaml

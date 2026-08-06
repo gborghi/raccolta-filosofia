@@ -4,3 +4,10 @@ public/
 .quartz-cache/
 *.log
 .playwright-mcp/
+
+# Pipeline Python (scripts/, data/, tests/): artefatti e output rigenerabili.
+__pycache__/
+*.pyc
+.pytest_cache/
+data/heads/
+data/digests/

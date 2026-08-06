@@ -1,0 +1,46 @@
+{
+  "CONTENTS_OF_THE_LATIN_TEXT": {
+    "axes": ["reality_status", "freedom_necessity", "soul_body", "end_of_life", "time_and_death", "god"],
+    "positions": ["atomism", "materialism", "clinamen", "ataraxia", "pleasure", "deism"],
+    "concepts": ["soul", "death", "nature", "infinity", "cause", "religion", "fortune", "time"],
+    "arguments": ["clinamen_argument", "death_is_nothing"],
+    "figures": ["epicurus"],
+    "forms": ["didactic_poem"],
+    "schools": ["epicureanism"],
+    "summary_it": "Testo latino integrale del De rerum natura di Lucrezio, poema didascalico epicureo nei sei libri: dalla fisica degli atomi e del vuoto alla mortalità dell'anima, dalla cosmologia all'etica del piacere e all'atarassia. Include il clinamen come fondamento della libertà e la liberazione dalla paura degli dèi e della morte.",
+    "summary_en": "Full Latin text of Lucretius' De rerum natura, the six-book Epicurean didactic poem: from the physics of atoms and void to the mortality of the soul, from cosmology to the ethics of pleasure and ataraxia. Includes the clinamen as ground of freedom and release from fear of the gods and of death."
+  },
+  "DUAL_LATIN_AND_ENGLISH_TEXT": {
+    "axes": ["reality_status", "freedom_necessity", "soul_body", "end_of_life", "time_and_death", "god"],
+    "positions": ["atomism", "materialism", "clinamen", "ataraxia", "pleasure", "deism"],
+    "concepts": ["soul", "death", "nature", "infinity", "cause", "religion", "fortune", "time"],
+    "arguments": ["clinamen_argument", "death_is_nothing"],
+    "figures": ["epicurus"],
+    "forms": ["didactic_poem"],
+    "schools": ["epicureanism"],
+    "summary_it": "Edizione con testo latino a fronte e traduzione inglese di H. A. J. Munro del De rerum natura completo. Espone l'atomismo materialista, il vuoto, il clinamen, la mortalità dell'anima e l'etica epicurea del piacere e dell'atarassia lungo tutti e sei i libri.",
+    "summary_en": "Facing-page Latin text with H. A. J. Munro's English translation of the complete De rerum natura. Sets out materialist atomism, the void, the clinamen, the mortality of the soul, and the Epicurean ethics of pleasure and ataraxia across all six books."
+  },
+  "ON_THE_NATURE_OF_THINGS_PROSE_TRANSLATION": {
+    "axes": ["reality_status", "freedom_necessity", "soul_body", "end_of_life", "time_and_death", "god"],
+    "positions": ["atomism", "materialism", "clinamen", "ataraxia", "pleasure", "deism"],
+    "concepts": ["soul", "death", "nature", "infinity", "cause", "religion", "fortune", "time"],
+    "arguments": ["clinamen_argument", "death_is_nothing"],
+    "figures": ["epicurus"],
+    "forms": ["didactic_poem"],
+    "schools": ["epicureanism"],
+    "summary_it": "Traduzione inglese in prosa di H. A. J. Munro del De rerum natura integrale. Ripercorre in forma piana la fisica atomista, l'infinità dell'universo, la natura mortale dell'anima e l'argomento che la morte non è nulla per noi, con l'etica del piacere epicureo.",
+    "summary_en": "H. A. J. Munro's English prose translation of the complete De rerum natura. In plain form it traces atomist physics, the infinity of the universe, the mortal nature of the soul, and the argument that death is nothing to us, alongside the Epicurean ethics of pleasure."
+  },
+  "ON_THE_NATURE_OF_THINGS_VERSE_TRANSLATION": {
+    "axes": ["reality_status", "freedom_necessity", "soul_body", "end_of_life", "time_and_death", "god"],
+    "positions": ["atomism", "materialism", "clinamen", "ataraxia", "pleasure", "deism"],
+    "concepts": ["soul", "death", "nature", "infinity", "cause", "religion", "fortune", "time"],
+    "arguments": ["clinamen_argument", "death_is_nothing"],
+    "figures": ["epicurus"],
+    "forms": ["didactic_poem"],
+    "schools": ["epicureanism"],
+    "summary_it": "Traduzione inglese in versi di William Ellery Leonard del De rerum natura completo. Rende in forma poetica l'atomismo, il vuoto e il clinamen, la mortalità dell'anima e la liberazione epicurea dalla superstizione religiosa verso l'atarassia.",
+    "summary_en": "William Ellery Leonard's English verse translation of the complete De rerum natura. Renders in poetic form atomism, the void and the clinamen, the mortality of the soul, and the Epicurean release from religious superstition toward ataraxia."
+  }
+}

@@ -1,0 +1,1325 @@
+{
+ "CHOIX_DE_ROMANCES": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Raccolta di romances (canzoni sentimentali) con musica e testo, tra cui 'Le rosier' e la 'Romance de Roger'. Opera musicale minore, senza contenuto filosofico.",
+  "summary_en": "Collection of romances (sentimental songs) with music and lyrics, including 'Le rosier' and the 'Romance de Roger'. A minor musical work, without philosophical content."
+ },
+ "CONSIDÉRATIONS_SUR_LE_GOUVERNEMENT_DE_POLOGNE": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "general_will",
+   "social_contract"
+  ],
+  "concepts": [
+   "law",
+   "state",
+   "education"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Trattato scritto su richiesta del conte Wielhorski per riformare la costituzione della Polonia: Rousseau applica i principi del Contratto sociale a un caso concreto, insistendo sull'educazione civica patriottica, il pericolo dei governi vasti e la necessità di leggi radicate nei costumi nazionali piuttosto che imitate dall'estero.",
+  "summary_en": "Treatise written at the request of Count Wielhorski to reform the Polish constitution: Rousseau applies the principles of the Social Contract to a concrete case, stressing patriotic civic education, the danger of overly large states, and the need for laws rooted in national customs rather than imported from abroad."
+ },
+ "Correspondance_V_1768-1778": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [],
+  "summary_it": "Quinto volume della corrispondenza di Rousseau (1768-1778), comprendente lettere personali e pratiche degli ultimi anni di vita. Materiale biografico più che filosofico.",
+  "summary_en": "Fifth volume of Rousseau's correspondence (1768-1778), comprising personal and practical letters from his final years. Biographical rather than philosophical material."
+ },
+ "COURTS_FRAGMENTS_DE_LUCRÈCE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "tragedy"
+  ],
+  "schools": [],
+  "summary_it": "Frammenti di un progetto di tragedia su Lucrezia romana (non sul filosofo Lucrezio), con scene tra Lucrezia, Collatino e Sesto Tarquinio. Abbozzo drammatico incompiuto, senza contenuto filosofico.",
+  "summary_en": "Fragments of a projected tragedy on the Roman Lucretia (not the philosopher Lucretius), with scenes between Lucretia, Collatinus and Sextus Tarquinius. An unfinished dramatic sketch, without philosophical content."
+ },
+ "DE_LIMITATION_THÉÂTRALE": {
+  "axes": [
+   "reality_status"
+  ],
+  "positions": [
+   "realism_of_ideas"
+  ],
+  "concepts": [
+   "mimesis",
+   "idea"
+  ],
+  "arguments": [],
+  "figures": [
+   "plato"
+  ],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Breve saggio che riprende la critica platonica dell'arte imitativa (Repubblica, libro X): l'imitazione è immagine di un'immagine, due gradi lontana dalla verità delle idee; applicato all'imitazione teatrale, l'argomento sostiene i limiti morali della poesia drammatica.",
+  "summary_en": "Short essay reprising Plato's critique of imitative art (Republic, Book X): imitation is an image of an image, twice removed from the truth of the Ideas; applied to theatrical imitation, the argument supports the moral limits of dramatic poetry."
+ },
+ "DICTIONNAIRE_DE_MUSIQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Dizionario di musica, ripreso e ampliato dagli articoli musicali scritti da Rousseau per l'Encyclopédie. Opera tecnica di lessicografia musicale, senza contenuto filosofico.",
+  "summary_en": "Dictionary of music, reworked and expanded from the musical articles Rousseau wrote for the Encyclopédie. A technical work of musical lexicography, without philosophical content."
+ },
+ "DISCOURS_SUR_LÉCONOMIE_POLITIQUE": {
+  "axes": [
+   "political_legitimacy"
+  ],
+  "positions": [
+   "general_will",
+   "social_contract"
+  ],
+  "concepts": [
+   "state",
+   "law",
+   "property"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Articolo scritto per l'Encyclopédie che distingue l'economia domestica (governo paterno della famiglia) dall'economia politica (governo dello Stato): lo Stato non è una grande famiglia, l'autorità politica nasce da convenzioni e deve obbedire alla volontà generale, non all'arbitrio di un padre-sovrano.",
+  "summary_en": "Article written for the Encyclopédie distinguishing domestic economy (paternal government of the family) from political economy (government of the state): the state is not a large family, political authority arises from conventions and must obey the general will, not the arbitrary rule of a father-sovereign."
+ },
+ "DISSERTATION_SUR_LA_MUSIQUE_MODERNE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Dissertazione sulla proposta di Rousseau di riformare la notazione musicale con un sistema di cifre al posto delle note tradizionali, contro le resistenze dell'abitudine e dei musicisti di professione. Opera tecnica sulla musica, senza contenuto filosofico.",
+  "summary_en": "Dissertation on Rousseau's proposal to reform musical notation with a system of numerals in place of traditional notes, against the resistance of habit and professional musicians. A technical work on music, without philosophical content."
+ },
+ "DU_CONTRAT_SOCIAL_ou_Essai_sur_la_forme_de_la_République": {
+  "axes": [
+   "political_legitimacy",
+   "human_nature"
+  ],
+  "positions": [
+   "social_contract",
+   "general_will",
+   "natural_goodness"
+  ],
+  "concepts": [
+   "state",
+   "law",
+   "nature",
+   "covenant"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Il cosiddetto 'Manoscritto di Ginevra', prima redazione del Contratto sociale: contiene un capitolo poi soppresso contro l'idea diderotiana di una 'società generale del genere umano', e sviluppa la genesi del bisogno di istituzioni politiche a partire dallo stato di natura corrotto dalle passioni.",
+  "summary_en": "The so-called 'Geneva Manuscript', the first draft of the Social Contract: it contains a chapter later suppressed against Diderot's idea of a 'general society of mankind', and develops the origin of the need for political institutions from a state of nature corrupted by the passions."
+ },
+ "DU_CONTRAT_SOCIAL_ou_Principes_du_droit_politique": {
+  "axes": [
+   "political_legitimacy",
+   "human_nature"
+  ],
+  "positions": [
+   "social_contract",
+   "general_will",
+   "natural_goodness"
+  ],
+  "concepts": [
+   "state",
+   "law",
+   "freedom",
+   "justice",
+   "will_of_all"
+  ],
+  "arguments": [],
+  "figures": [
+   "hobbes",
+   "aristotle"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "L'opera capitale del pensiero politico di Rousseau: cerca una regola di amministrazione legittima che concili diritto e interesse. Contro Grozio, Hobbes e Aristotele (che giustificano la schiavitù naturale), sostiene che la sola fonte legittima del potere è il patto sociale, per cui ogni associato aliena la propria libertà naturale in cambio della libertà civile garantita dalla volontà generale, distinta dalla semplice somma delle volontà particolari.",
+  "summary_en": "Rousseau's central work of political thought: it seeks a rule of legitimate administration reconciling right and interest. Against Grotius, Hobbes and Aristotle (who justify natural slavery), it argues that the only legitimate source of power is the social pact, whereby each associate alienates natural liberty in exchange for the civil liberty guaranteed by the general will, which is distinct from the mere sum of particular wills (the will of all)."
+ },
+ "DÉCLARATION_RELATIVE_À_M_LE_PASTEUR_VERNES": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Dichiarazione polemica personale su una disputa di attribuzione con il pastore Vernes riguardo a un libello anonimo contro Rousseau. Testo occasionale di polemica, senza contenuto filosofico.",
+  "summary_en": "Personal polemical declaration on a dispute over authorship with pastor Vernes concerning an anonymous pamphlet against Rousseau. An occasional polemical text, without philosophical content."
+ },
+ "ESSAI_SUR_LORIGINE_DES_LANGUES": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "natural_goodness"
+  ],
+  "concepts": [
+   "passion",
+   "reason",
+   "nature"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Saggio sull'origine del linguaggio: nato dal bisogno e dalla passione più che dal calcolo razionale, il linguaggio dei gesti precede quello della voce; Rousseau collega lo sviluppo delle lingue ai climi e ai costumi, e traccia una storia congetturale della socialità umana parallela a quella del Discorso sulla disuguaglianza.",
+  "summary_en": "Essay on the origin of language: born of need and passion rather than rational calculation, gestural language precedes vocal language; Rousseau links the development of languages to climates and customs, sketching a conjectural history of human sociability parallel to that of the Discourse on Inequality."
+ },
+ "EXAMEN_DE_DEUX_PRINCIPES_AVANCÉS_PAR_M_RAMEAU": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Risposta tecnica alle critiche musicali di Rameau contro gli articoli di Rousseau nell'Encyclopédie. Disputa specialistica di teoria musicale, senza contenuto filosofico.",
+  "summary_en": "Technical reply to Rameau's musical criticisms of Rousseau's articles in the Encyclopédie. A specialist dispute in music theory, without philosophical content."
+ },
+ "EXTRAIT_DUNE_RÉPONSE_DU_PETIT_FAISEUR_A_SON_PRÊTE-NOM": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Testo satirico sulla musica, analisi tecnica di un passaggio enarmonico dell'Orfeo di Gluck. Disputa musicale minore, senza contenuto filosofico.",
+  "summary_en": "Satirical musical text, a technical analysis of an enharmonic passage in Gluck's Orfeo. A minor musical dispute, without philosophical content."
+ },
+ "EXTRAIT_DU_PROJET_DE_PAIX_PERPÉTUELLE": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "social_contract"
+  ],
+  "concepts": [
+   "state",
+   "law"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Estratto del progetto dell'abbé de Saint-Pierre per una confederazione europea perpetua di pace: analizza come una dieta europea permanente eliminerebbe i motivi di guerra tra sovrani, applicando su scala internazionale la logica del patto sociale che sostituisce la forza con la legge.",
+  "summary_en": "Extract of the abbé de Saint-Pierre's project for a perpetual European confederation of peace: it analyzes how a permanent European diet would eliminate sovereigns' motives for war, applying on an international scale the logic of the social pact that replaces force with law."
+ },
+ "FRAGMENT_POUR_UN_DICTIONNAIRE_DES_TERMES_DUSAGE_EN_BOTANIQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Frammento di un dizionario dei termini botanici, con riflessioni sulla storia della botanica come disciplina a lungo subordinata alla medicina. Opera scientifica tecnica, senza contenuto filosofico.",
+  "summary_en": "Fragment of a dictionary of botanical terms, with reflections on the history of botany as a discipline long subordinated to medicine. A technical scientific work, without philosophical content."
+ },
+ "FRAGMENTS_DIPHIS": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Breve frammento (175 parole) di un'operetta teatrale in versi, 'Fragments d'Iphis': guerrieri che, al suono delle trombe, offrono doni a una principessa, con arie e cori (il capo dei guerrieri, Élise). Materiale lirico-teatrale d'occasione, senza contenuto filosofico.",
+  "summary_en": "A short fragment (175 words) of a theatrical piece in verse, the 'Fragments d'Iphis': warriors who, to the sound of trumpets, present gifts to a princess, with airs and choruses (the chief of the warriors, Élise). Occasional lyric-theatrical material, without philosophical content."
+ },
+ "JUGEMENT_SUR_LA_PAIX_PERPÉTUELLE": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "social_contract"
+  ],
+  "concepts": [
+   "state",
+   "law"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Giudizio critico di Rousseau sul progetto di pace perpetua dell'abbé de Saint-Pierre: ne riconosce la solidità razionale e l'utilità generale, ma osserva che i sovrani non lo adotteranno mai, perché il loro interesse apparente (dominio e ambizione) prevale sul loro interesse reale (la pace).",
+  "summary_en": "Rousseau's critical judgment on the abbé de Saint-Pierre's project for perpetual peace: he acknowledges its rational soundness and general usefulness, but observes that sovereigns will never adopt it, since their apparent interest (domination and ambition) prevails over their real interest (peace)."
+ },
+ "JUGEMENT_SUR_LA_POLYSYNODIE": {
+  "axes": [
+   "political_legitimacy"
+  ],
+  "positions": [],
+  "concepts": [
+   "state"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Giudizio di Rousseau sul Discorso sulla polisinodia dell'abbé de Saint-Pierre, sistema di governo per consigli collegiali proposto durante la Reggenza: analisi politica storica più che filosofica, sui pregi e i limiti del progetto rispetto alla sua applicazione reale.",
+  "summary_en": "Rousseau's judgment on the abbé de Saint-Pierre's Discourse on Polysynody, a system of collegial council government proposed during the Regency: a historical-political rather than philosophical analysis of the project's merits and limits relative to its actual implementation."
+ },
+ "JULIE_OU_LA_NOUVELLE_HÉLOÏSE": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "virtue",
+   "passion"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Romanzo epistolare sull'amore impossibile tra Julie d'Étange e il suo precettore Saint-Preux, e sulla vita virtuosa che Julie costruisce poi accanto al marito Wolmar: opera letteraria capitale, che mette in scena il conflitto tra passione e virtù e l'ideale rousseauiano di una comunità domestica retta dalla sincerità dei sentimenti.",
+  "summary_en": "Epistolary novel about the impossible love between Julie d'Étange and her tutor Saint-Preux, and the virtuous life Julie later builds beside her husband Wolmar: a major literary work staging the conflict between passion and virtue, and Rousseau's ideal of a domestic community governed by the sincerity of feeling."
+ },
+ "LA_DÉCOUVERTE_DU_NOUVEAU_MONDE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "tragedy"
+  ],
+  "schools": [],
+  "summary_it": "Tragedia giovanile incompiuta sull'arrivo di Colombo nel Nuovo Mondo, con intrighi amorosi tra il cacico Guanahan, sua moglie Digizé e la principessa Carime. Opera drammatica giovanile, senza contenuto filosofico.",
+  "summary_en": "Unfinished early tragedy on Columbus's arrival in the New World, with a love intrigue between the cacique of Guanahan, his wife Digizé and the princess Carime. An early dramatic work, without philosophical content."
+ },
+ "LA_REINE_FANTASQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Conte de fée sul re Phénix, che ama il suo popolo, e sulla regina capricciosa Fantasque. Racconto fiabesco, senza contenuto filosofico.",
+  "summary_en": "A fairy tale about King Phénix, who loves his people, and the capricious Queen Fantasque. A fairy story, without philosophical content."
+ },
+ "LA_VERTU_LA_PLUS_NÉCESSAIRE_AUX_HÉROS": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "virtue"
+  ],
+  "arguments": [],
+  "figures": [
+   "socrates",
+   "plato"
+  ],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Breve saggio che confronta il saggio (invulnerabile ma raccolto nella propria felicità) e l'eroe (esposto ma dedito alla felicità altrui), concludendo che l'eroismo, più raro e più utile ai popoli, merita la preminenza tra le virtù rivolte al bene pubblico.",
+  "summary_en": "Short essay comparing the sage (invulnerable but absorbed in his own happiness) and the hero (exposed but devoted to the happiness of others), concluding that heroism, rarer and more useful to peoples, deserves pre-eminence among the virtues directed to the public good."
+ },
+ "LENGAGEMENT_TÉMÉRAIRE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Commedia giovanile leggera di intrigo amoroso tra Dorante, Isabelle ed Éliante, scritta in tre giorni. Opera teatrale minore, senza contenuto filosofico.",
+  "summary_en": "A light early comedy of romantic intrigue among Dorante, Isabelle and Éliante, written in three days. A minor theatrical work, without philosophical content."
+ },
+ "LES_AMOURS_DE_CLAIRE_ET_DE_MARCELLIN": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Racconto breve sull'amore contrastato tra due giovani contadini del Delfinato, Claire e Marcellin, la cui sensibilità supera la loro condizione sociale. Novella minore, senza vero contenuto filosofico.",
+  "summary_en": "A short story of thwarted love between two young peasants of the Dauphiné, Claire and Marcellin, whose sensibility exceeds their social condition. A minor tale, without substantial philosophical content."
+ },
+ "LES_AMOURS_DE_MILORD_ÉDOUARD_BOMSTON": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "virtue",
+   "passion"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Racconto annesso a Julie che narra gli amori romani di Milord Edouard con una marchesa napoletana: la sua ferma virtù stoica resiste alla seduzione, illustrando il tema per cui non è la debolezza ma la viltà a renderci schiavi dei sensi.",
+  "summary_en": "A tale appended to Julie recounting Milord Edouard's Roman love affair with a Neapolitan marquise: his firm Stoic-like virtue resists seduction, illustrating the theme that it is cowardice, not weakness, that makes us slaves to the senses."
+ },
+ "LES_CONFESSIONS": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "natural_goodness"
+  ],
+  "concepts": [
+   "amour_propre"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "confession"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Autobiografia capitale di Rousseau, il cui progetto dichiarato è mostrare 'un uomo nella verità della natura' senza tacere né il bene né il male: racconta l'infanzia a Ginevra, la formazione presso Mme de Warens, gli anni di scrittura e le persecuzioni, difendendo implicitamente la bontà naturale del proprio carattere contro la società che lo ha corrotto e perseguitato.",
+  "summary_en": "Rousseau's major autobiography, whose declared aim is to show 'a man in the truth of nature', concealing neither good nor bad: it recounts his Genevan childhood, his formation under Mme de Warens, his years of writing and persecution, implicitly defending the natural goodness of his own character against a society that corrupted and hounded him."
+ },
+ "LES_MUSES_GALANTES": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Balletto in musica su Apollo, l'Amore e le Muse, rappresentato davanti al duca di Richelieu. Opera musicale-teatrale, senza contenuto filosofico.",
+  "summary_en": "A musical ballet on Apollo, Love and the Muses, performed before the Duke of Richelieu. A musical-theatrical work, without philosophical content."
+ },
+ "LES_PRISONNIERS_DE_GUERRE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Commedia su un ufficiale francese prigioniero di guerra in Ungheria, innamorato di Sophie, figlia del suo ospite. Opera teatrale minore, senza contenuto filosofico.",
+  "summary_en": "A comedy about a French officer held as a prisoner of war in Hungary, in love with Sophie, his host's daughter. A minor theatrical work, without philosophical content."
+ },
+ "LES_RÊVERIES_DU_PROMENEUR_SOLITAIRE": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "natural_goodness"
+  ],
+  "concepts": [
+   "amour_propre",
+   "nature"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Ultima opera di Rousseau, dieci 'passeggiate' meditative scritte in totale solitudine dopo essersi sentito bandito dal genere umano: ripercorre le persecuzioni subite, difende la propria innocenza e cerca, nella contemplazione della natura e nel puro sentimento dell'esistenza, una pace che gli uomini gli hanno tolto.",
+  "summary_en": "Rousseau's last work, ten meditative 'walks' written in complete solitude after feeling banished from humankind: it revisits the persecutions he suffered, defends his own innocence, and seeks, in the contemplation of nature and the pure feeling of existence, a peace that other men had taken from him."
+ },
+ "LES_SCIENCES_ET_LES_ARTS": {
+  "axes": [
+   "meaning_of_history"
+  ],
+  "positions": [
+   "decadence"
+  ],
+  "concepts": [
+   "virtue",
+   "nature"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Il Discorso sulle scienze e le arti (primo Discorso, premio dell'Accademia di Digione, 1750): Rousseau sostiene la tesi paradossale che il progresso delle scienze e delle arti ha corrotto i costumi anziché purificarli, sostituendo alla virtù semplice l'apparenza raffinata di una civiltà 'incivilita'.",
+  "summary_en": "The Discourse on the Sciences and Arts (Rousseau's first Discourse, prize-winner of the Academy of Dijon, 1750): Rousseau argues the paradoxical thesis that the progress of the sciences and arts has corrupted morals rather than purifying them, substituting refined appearance for simple virtue in an 'uncivilized' civilization."
+ },
+ "LETTRE_DUN_SYMPHONISTE_DE_LACADÉMIE_ROYALE_DE_MUSIQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Lettera satirica immaginaria di un orchestrale dell'Opéra che si compiace della cacciata dei 'bouffons' italiani, nella disputa tra musica francese e italiana. Pamphlet musicale, senza contenuto filosofico.",
+  "summary_en": "A satirical imaginary letter from an Opéra orchestra musician gloating over the expulsion of the Italian 'bouffons', within the dispute between French and Italian music. A musical pamphlet, without philosophical content."
+ },
+ "LETTRE_SUR_LA_MUSIQUE_FRANÇAISE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Lettera polemica che sostiene, contro l'opinione corrente, la superiorità della melodia italiana su quella francese, giudicata piatta e mal adattata alle esigenze del canto. Disputa musicale, senza contenuto filosofico.",
+  "summary_en": "A polemical letter arguing, against prevailing opinion, the superiority of Italian melody over French, judged flat and poorly suited to the demands of singing. A musical dispute, without philosophical content."
+ },
+ "LETTRE_SUR_LA_VERTU": {
+  "axes": [
+   "human_nature",
+   "moral_foundation"
+  ],
+  "positions": [
+   "natural_goodness",
+   "moral_sentiment"
+  ],
+  "concepts": [
+   "virtue"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Lettera sulla virtù: Rousseau sostiene che la vertù non si apprende dai libri di metafisica ma dall'ascolto della propria voce interiore, e che la natura ci ha dato sentimenti, non lumi, cosicché il male morale nasce dai rapporti artificiali della società, non dalla natura originaria dell'uomo.",
+  "summary_en": "Letter on virtue: Rousseau argues that virtue is not learned from books of metaphysics but by listening to one's own inner voice, and that nature gave us feelings, not learning, so that moral evil arises from society's artificial relations, not from man's original nature."
+ },
+ "LETTRE_SUR_UNE_NOUVELLE_RÉFUTATION_DE_SON_DISCOURS": {
+  "axes": [
+   "meaning_of_history"
+  ],
+  "positions": [
+   "decadence"
+  ],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Lettera di risposta a un accademico di Digione che aveva pubblicato una confutazione del primo Discorso: Rousseau difende la propria tesi sulla corruzione dei costumi ad opera delle scienze e delle arti, rimproverando ai suoi avversari l'indiscrezione di attaccare pubblicamente l'imparzialità dei loro stessi colleghi.",
+  "summary_en": "A reply to a Dijon academician who had published a refutation of the first Discourse: Rousseau defends his thesis on the corruption of morals by the sciences and arts, reproaching his opponents for indiscreetly attacking the impartiality of their own colleagues."
+ },
+ "LETTRE_À_DALEMBERT_SUR_LES_SPECTACLES": {
+  "axes": [
+   "moral_foundation",
+   "state_and_individual"
+  ],
+  "positions": [
+   "virtue_ethics",
+   "civil_society"
+  ],
+  "concepts": [
+   "beauty"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Risposta all'articolo 'Genève' dell'Encyclopédie, in cui d'Alembert proponeva di introdurre un teatro a Ginevra: Rousseau sostiene che il teatro, lungi dal formare i costumi, li corrompe, alimentando vanità e passioni fittizie; per una piccola repubblica virtuosa, le feste popolari all'aperto sono preferibili allo spettacolo teatrale.",
+  "summary_en": "A response to d'Alembert's Encyclopédie article on 'Genève', which had proposed introducing a theatre to Geneva: Rousseau argues that theatre, far from shaping morals, corrupts them by feeding vanity and fictitious passions; for a small virtuous republic, open-air popular festivals are preferable to theatrical spectacle."
+ },
+ "LETTRE_À_M_BURNEY_SUR_LA_MUSIQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [],
+  "summary_it": "Lettera al musicologo Charles Burney sulla notazione musicale a cifre proposta da Rousseau. Corrispondenza tecnica sulla musica, senza contenuto filosofico.",
+  "summary_en": "A letter to the musicologist Charles Burney on Rousseau's proposed numeral notation for music. Technical correspondence on music, without philosophical content."
+ },
+ "LETTRE_À_M_GRIMM": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [],
+  "summary_it": "Lettera a Grimm che replica alla confutazione del primo Discorso pubblicata da Gautier. Disputa letteraria minore, senza vero contenuto filosofico autonomo.",
+  "summary_en": "A letter to Grimm replying to Gautier's refutation of the first Discourse. A minor literary dispute, without substantial independent philosophical content."
+ },
+ "LETTRE_À_M_GRIMM_2": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [],
+  "summary_it": "Seconda lettera a Grimm, satira sul commentatore anonimo che aveva glossato in modo pedante una lettera musicale di Grimm sul recitativo italiano. Disputa musicale, senza contenuto filosofico.",
+  "summary_en": "A second letter to Grimm, satirizing an anonymous commentator who had pedantically glossed a musical letter of Grimm's on Italian recitative. A musical dispute, without philosophical content."
+ },
+ "LETTRE_À_M_LABBÉ_RAYNAL": {
+  "axes": [
+   "meaning_of_history"
+  ],
+  "positions": [
+   "decadence"
+  ],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Risposta alle obiezioni sollevate contro il primo Discorso: Rousseau precisa la propria tesi sulla decadenza dei costumi provocata dal risorgere delle scienze, chiarendo il senso storico della sua argomentazione contro alcune critiche imprecise.",
+  "summary_en": "A reply to objections raised against the first Discourse: Rousseau clarifies his thesis on the decline of morals caused by the revival of the sciences, addressing the historical sense of his argument against certain imprecise criticisms."
+ },
+ "LETTRE_À_MONSEIGNEUR_DE_BEAUMONT": {
+  "axes": [
+   "god"
+  ],
+  "positions": [
+   "deism"
+  ],
+  "concepts": [
+   "religion",
+   "faith",
+   "civil_religion"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Lunga lettera di difesa dell'Émile contro la condanna dell'arcivescovo di Parigi: Rousseau difende la 'Professione di fede del vicario savoiardo' e la religione naturale del cuore contro l'accusa di empietà, sostenendo che la vera pietà sta nell'accordo tra ragione, sentimento e coscienza morale, non nell'autorità dogmatica.",
+  "summary_en": "A long letter defending Émile against the Archbishop of Paris's condemnation: Rousseau defends the 'Profession of Faith of the Savoyard Vicar' and the natural religion of the heart against the charge of impiety, arguing that true piety lies in the agreement of reason, feeling and moral conscience, not in dogmatic authority."
+ },
+ "LETTRE_À_MONSIEUR_PHILOPOLIS": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "natural_goodness"
+  ],
+  "concepts": [
+   "nature"
+  ],
+  "arguments": [
+   "rousseau_state_of_nature"
+  ],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Risposta a Charles Bonnet (sotto lo pseudonimo Philopolis), che aveva obiettato che la socievolezza risulta necessariamente dalle facoltà naturali dell'uomo: Rousseau ribadisce che il suo stato di natura è un'ipotesi utile a comprendere lo stato presente, non una realtà storica da rimpiangere o restaurare.",
+  "summary_en": "A reply to Charles Bonnet (under the pseudonym Philopolis), who had objected that sociability follows necessarily from man's natural faculties: Rousseau restates that his state of nature is a hypothesis useful for understanding the present condition, not a historical reality to be regretted or restored."
+ },
+ "LETTRES_MORALES": {
+  "axes": [
+   "moral_foundation",
+   "god"
+  ],
+  "positions": [
+   "moral_sentiment",
+   "deism"
+  ],
+  "concepts": [
+   "virtue"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Lettere morali indirizzate a Sophie d'Houdetot ('Sophie'): Rousseau sviluppa un percorso di umiltà conoscitiva seguito da fiducia nel sentimento interiore, che rivela all'uomo la propria dignità morale al di là della sua piccolezza fisica nell'universo, anticipando temi della professione di fede del vicario savoiardo.",
+  "summary_en": "Moral letters addressed to Sophie d'Houdetot ('Sophie'): Rousseau develops a path from epistemic humility to trust in inner feeling, which reveals to man his moral dignity beyond his physical smallness in the universe, anticipating themes of the Savoyard Vicar's profession of faith."
+ },
+ "LETTRES_SUR_LA_BOTANIQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [],
+  "summary_it": "Lettere didattiche sulla botanica indirizzate a Madame de Lessert per insegnare alla figlia i rudimenti dell'osservazione delle piante. Opera divulgativa scientifica, senza contenuto filosofico.",
+  "summary_en": "Didactic letters on botany addressed to Madame de Lessert to teach her daughter the rudiments of plant observation. A scientific popularization, without philosophical content."
+ },
+ "LETTRES_À_M_BUTTAFOCO_SUR_LA_LÉGISLATION_DE_LA_CORSE": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "general_will",
+   "social_contract"
+  ],
+  "concepts": [
+   "law",
+   "state"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Lettere a Buttafoco in risposta all'invito a redigere una legislazione per la Corsica appena indipendente: Rousseau accetta con entusiasmo, ma segnala la mancanza delle conoscenze concrete e delle forze necessarie per un'impresa di questa portata, preludio al Progetto di costituzione per la Corsica.",
+  "summary_en": "Letters to Buttafoco replying to the invitation to draft legislation for a newly independent Corsica: Rousseau accepts with enthusiasm but flags his lack of the concrete knowledge and strength needed for an undertaking of this scope, a prelude to the Project for a Constitution for Corsica."
+ },
+ "LETTRES_À_SARA": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [],
+  "summary_it": "Quattro lettere d'amore fittizie di un uomo maturo a una giovane donna, Sara, scritte come esercizio letterario in risposta a una scommessa. Testo galante minore, senza contenuto filosofico.",
+  "summary_en": "Four fictional love letters from an older man to a young woman, Sara, written as a literary exercise in response to a wager. A minor gallant text, without philosophical content."
+ },
+ "LETTRES_ÉCRITES_DE_LA_MONTAGNE": {
+  "axes": [
+   "political_legitimacy",
+   "god",
+   "state_and_individual"
+  ],
+  "positions": [
+   "social_contract",
+   "general_will",
+   "deism"
+  ],
+  "concepts": [
+   "civil_religion",
+   "law",
+   "state"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Nove lettere di difesa dell'Émile e del Contratto sociale, condannati e bruciati a Ginevra: Rousseau difende la religione naturale contro l'accusa di eresia e attacca l'usurpazione dell'autorità sovrana da parte del Piccolo Consiglio ginevrino, sviluppando un'analisi acuta della costituzione della sua patria.",
+  "summary_en": "Nine letters defending Émile and the Social Contract, condemned and burned in Geneva: Rousseau defends natural religion against the charge of heresy and attacks the usurpation of sovereign authority by Geneva's Small Council, developing a sharp analysis of his homeland's constitution."
+ },
+ "LORIGINE_ET_LES_FONDEMENTS_DE_LINÉGALITÉ_PARMI_LES_HOMMES": {
+  "axes": [
+   "human_nature",
+   "political_legitimacy"
+  ],
+  "positions": [
+   "natural_goodness",
+   "natural_right"
+  ],
+  "concepts": [
+   "amour_propre",
+   "amour_de_soi",
+   "property",
+   "nature"
+  ],
+  "arguments": [
+   "rousseau_state_of_nature",
+   "property_founds_inequality"
+  ],
+  "figures": [
+   "hobbes"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Il secondo Discorso (sulla disuguaglianza, 1755): Rousseau distingue la disuguaglianza naturale (fisica) da quella morale o politica (istituita dagli uomini), e ricostruisce ipoteticamente lo stato di natura, dove l'uomo, buono e libero, è mosso dall'amor di sé e dalla pietà, non dall'amor proprio competitivo di Hobbes. È l'istituzione della proprietà privata a fondare la disuguaglianza e a spingere gli uomini verso il patto sociale, spesso ingannevole, che consacra invece che correggere l'ineguaglianza.",
+  "summary_en": "The second Discourse (on Inequality, 1755): Rousseau distinguishes natural (physical) inequality from moral or political inequality (instituted by men), hypothetically reconstructing the state of nature, where man, good and free, is moved by self-love (amour de soi) and pity, not by Hobbes's competitive amour-propre. It is the institution of private property that founds inequality and drives men toward a social pact which, often deceptively, entrenches rather than corrects inequality."
+ },
+ "MÉMOIRE_À_M_BOUDET": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Brevissima intestazione (27 parole) di un memoriale rimesso il 19 aprile 1742 a Dom Boudet, antoniano che lavorava alla biografia del defunto monsignor de Bernex, vescovo di Ginevra. Nota biografica d'occasione, senza contenuto filosofico.",
+  "summary_en": "A very brief heading (27 words) of a memoir handed over on 19 April 1742 to Dom Boudet, an Antonine monk working on the biography of the late Bishop de Bernex of Geneva. An occasional biographical note, without philosophical content."
+ },
+ "MÉMOIRE_À_S_E_MONSEIGNEUR_LE_GOUVERNEUR_DE_SAVOIE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Memoriale giovanile in cui Rousseau, malato e in miseria, chiede soccorso al governatore di Savoia, ripercorrendo la propria educazione presso Mme de Warens. Documento biografico, senza contenuto filosofico.",
+  "summary_en": "An early memoir in which the sick and destitute Rousseau petitions the Governor of Savoy for assistance, recounting his education under Mme de Warens. A biographical document, without philosophical content."
+ },
+ "NARCISSE_ou_LAMANT_DE_LUI-MÊME": {
+  "axes": [
+   "meaning_of_history"
+  ],
+  "positions": [
+   "decadence"
+  ],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Commedia giovanile pubblicata con un'importante prefazione in cui Rousseau si difende dagli attacchi seguiti al primo Discorso, ribadendo che le scienze e le arti, pur non essendo intrinsecamente cattive, corrompono i costumi dei popoli che le coltivano in massa.",
+  "summary_en": "An early comedy published with a substantial preface in which Rousseau defends himself against the attacks that followed the first Discourse, restating that the sciences and arts, though not intrinsically bad, corrupt the morals of peoples who cultivate them en masse."
+ },
+ "NOTES_EN_RÉFUTATION_DE_LOUVRAGE_DHELVÉTIUS": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "experience"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "critique"
+  ],
+  "schools": [],
+  "summary_it": "Note critiche a margine del De l'esprit di Helvétius: Rousseau contesta la riduzione di tutte le facoltà mentali alla sola sensibilità fisica, distinguendo la sensazione presente dal ricordo e mettendo in dubbio l'identificazione helvetiana tra sentire, ricordare e giudicare.",
+  "summary_en": "Critical marginal notes on Helvétius's De l'esprit: Rousseau contests the reduction of all mental faculties to mere physical sensibility, distinguishing present sensation from memory and questioning Helvétius's identification of sensing, remembering, and judging."
+ },
+ "OLINDE_ET_SOPHRONIE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Episodio tradotto dal secondo canto della Gerusalemme liberata del Tasso, sul mago Ismene e il furto dell'immagine sacra. Traduzione poetica, senza contenuto filosofico.",
+  "summary_en": "An episode translated from the second canto of Tasso's Jerusalem Delivered, on the magician Ismeno and the theft of the sacred image. A poetic translation, without philosophical content."
+ },
+ "ORAISON_FUNÈBRE_DU_DUC_DORLÉANS": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "virtue"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Orazione funebre giovanile per il duca d'Orléans: distingue le false grandezze del rango da quella vera, che consiste nell'esercizio delle virtù benefiche a vantaggio del popolo, unico vero dovere dei principi.",
+  "summary_en": "An early funeral oration for the Duke of Orléans: it distinguishes the false grandeurs of rank from the true one, which consists in the exercise of beneficent virtues for the people's benefit, the only true duty of princes."
+ },
+ "PIÈCES_DIVERSES": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Brevissimo frammento (14 parole): intestazione di una 'Tavola generale di tutti i toni e di tutte le chiavi', materiale tecnico-musicale. Senza contenuto filosofico.",
+  "summary_en": "A very brief fragment (14 words): the heading of a 'General table of all tones and all keys', technical musical material. Without philosophical content."
+ },
+ "PLANCHES_SUR_LA_BOTANIQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Brevi didascalie (55 parole) per le tavole illustrative degli scritti botanici di Rousseau: descrizioni della struttura dei muschi (Tortula subulata vista al microscopio) e dei licheni (Lichen fraxineus). Materiale scientifico accessorio, senza contenuto filosofico.",
+  "summary_en": "Brief captions (55 words) for the illustrative plates of Rousseau's botanical writings: descriptions of the structure of mosses (Tortula subulata seen under the microscope) and lichens (Lichen fraxineus). Ancillary scientific material, without philosophical content."
+ },
+ "PROJET_CONCERNANT_DE_NOUVEAUX_SIGNES_POUR_LA_MUSIQUE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Progetto tecnico per notare la musica con cifre invece delle note tradizionali, presentato all'Académie des Sciences nel 1742. Opera tecnica sulla musica, senza contenuto filosofico.",
+  "summary_en": "A technical project for notating music with numerals instead of traditional notes, presented to the Académie des Sciences in 1742. A technical work on music, without philosophical content."
+ },
+ "PROJET_DE_CONSTITUTION_POUR_LA_CORSE": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "general_will",
+   "social_contract"
+  ],
+  "concepts": [
+   "law",
+   "state",
+   "property"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Progetto di costituzione per la Corsica appena divenuta indipendente: Rousseau, applicando i principi del Contratto sociale, raccomanda un'economia agricola frugale, l'eguaglianza dei patrimoni e istituzioni radicate nel carattere già virtuoso del popolo corso, piuttosto che modelli importati dalle grandi potenze europee.",
+  "summary_en": "A draft constitution for Corsica, newly independent: applying the principles of the Social Contract, Rousseau recommends a frugal agrarian economy, equality of holdings, and institutions rooted in the already-virtuous character of the Corsican people, rather than models imported from the great European powers."
+ },
+ "PROJET_POUR_LÉDUCATION_DE_MONSIEUR_DE_SAINTE-MARIE": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "natural_goodness"
+  ],
+  "concepts": [
+   "education"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Progetto pedagogico scritto come precettore per la famiglia di Mably: Rousseau insiste sulla necessità di conoscere a fondo il carattere dell'allievo e di fondare l'autorità del precettore sull'affetto piuttosto che sulla punizione corporale, anticipando temi centrali dell'Émile.",
+  "summary_en": "A pedagogical project written while serving as a private tutor to the Mably family: Rousseau insists on the need to thoroughly understand the pupil's character and to found the tutor's authority on affection rather than corporal punishment, anticipating central themes of Émile."
+ },
+ "PYGMALION": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Scena lirica su Pigmalione, che si innamora della propria statua Galatea e la vede animarsi. Melologo teatrale, senza contenuto filosofico sistematico.",
+  "summary_en": "A lyric scene on Pygmalion, who falls in love with his own statue Galatea and sees her come to life. A theatrical melologue, without systematic philosophical content."
+ },
+ "QUATRE_LETTRES_À_M_LE_PRÉSIDENT_DE_MALESHERBES": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "natural_goodness"
+  ],
+  "concepts": [
+   "nature",
+   "amour_propre"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Quattro lettere autobiografiche a Malesherbes: Rousseau spiega il proprio amore innato per la solitudine, distinto dalla misantropia, e la sofferenza che gli aveva causato la vita di Parigi contro la serenità ritrovata nel ritiro e nella contemplazione della natura.",
+  "summary_en": "Four autobiographical letters to Malesherbes: Rousseau explains his innate love of solitude, distinct from misanthropy, and the suffering Parisian life had caused him, contrasted with the serenity he found in retreat and the contemplation of nature."
+ },
+ "ROUSSEAU_JUGE_DE_JEAN-JACQUES": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "natural_goodness"
+  ],
+  "concepts": [
+   "amour_propre"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "I Dialoghi: opera in forma dialogica tra 'Rousseau' e 'un Français' sul giudizio da dare su 'Jean-Jacques', in cui l'autore, convinto di essere vittima di un complotto universale, cerca disperatamente di dimostrare a se stesso e a un lettore immaginario la bontà naturale del proprio carattere, malgrado le persecuzioni subite.",
+  "summary_en": "The Dialogues: a work in dialogue form between 'Rousseau' and 'a Frenchman' on the judgment to be passed on 'Jean-Jacques', in which the author, convinced he is the victim of a universal conspiracy, desperately tries to demonstrate to himself and to an imagined reader the natural goodness of his own character, despite the persecutions he has suffered."
+ },
+ "RÉPONSE_AU_MÉMOIRE_ANONYME": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [],
+  "summary_it": "Risposta a un memoriale anonimo sulla forma della terra, in polemica con le conclusioni delle spedizioni geodetiche dell'Accademia delle Scienze. Disputa scientifica tecnica, senza contenuto filosofico.",
+  "summary_en": "A reply to an anonymous memoir on the shape of the earth, disputing the conclusions of the Academy of Sciences's geodetic expeditions. A technical scientific dispute, without philosophical content."
+ },
+ "RÉPONSE_AU_ROI_DE_POLOGNE": {
+  "axes": [
+   "meaning_of_history"
+  ],
+  "positions": [
+   "decadence"
+  ],
+  "concepts": [
+   "virtue"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Risposta alla confutazione del primo Discorso scritta (anonimamente) da Stanislao, re di Polonia: Rousseau ribadisce e sviluppa più a fondo la propria tesi sulla corruzione dei costumi ad opera delle scienze e delle arti, distinguendo il vero sapiente virtuoso dal semplice erudito.",
+  "summary_en": "A reply to the refutation of the first Discourse written (anonymously) by Stanisław, King of Poland: Rousseau restates and develops more fully his thesis on the corruption of morals by the sciences and arts, distinguishing the truly virtuous sage from the mere scholar."
+ },
+ "RÉPONSE_À_M_BORDES": {
+  "axes": [
+   "meaning_of_history"
+  ],
+  "positions": [
+   "decadence"
+  ],
+  "concepts": [
+   "virtue"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Risposta a Charles Bordes, che aveva difeso l'idea che la Grecia dovesse tutto alle scienze e ai suoi filosofi-legislatori: Rousseau contrappone Sparta, povera per istituzione e virtuosa, ad Atene raffinata e corrotta, ribadendo che il sapere e le arti accompagnano, più che produrre, la decadenza dei costumi.",
+  "summary_en": "A reply to Charles Bordes, who had defended the idea that Greece owed everything to the sciences and its philosopher-legislators: Rousseau contrasts Sparta, poor by institution and virtuous, with refined and corrupt Athens, restating that learning and the arts accompany, rather than produce, the decline of morals."
+ },
+ "RÉPONSE_À_UNE_LETTRE_ANONYME": {
+  "axes": [
+   "political_legitimacy"
+  ],
+  "positions": [
+   "natural_right"
+  ],
+  "concepts": [
+   "law"
+  ],
+  "arguments": [],
+  "figures": [
+   "hobbes"
+  ],
+  "forms": [],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Risposta punto per punto a un'accusa anonima di aver ammesso, nella Lettre à d'Alembert, un'autorità superiore a quella sovrana: Rousseau rivendica che al di sopra dell'autorità politica stanno l'autorità di Dio, quella della legge naturale e quella dell'onore, e rigetta esplicitamente la dottrina di Hobbes sulla sovranità assoluta.",
+  "summary_en": "A point-by-point reply to an anonymous accusation of having admitted, in the Letter to d'Alembert, an authority superior to sovereign power: Rousseau maintains that above political authority stand the authority of God, of natural law, and of honor, explicitly rejecting Hobbes's doctrine of absolute sovereignty."
+ },
+ "RÉSUMÉ_DE_LA_QUERELLE": {
+  "axes": [
+   "meaning_of_history"
+  ],
+  "positions": [
+   "decadence"
+  ],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Riassunto della lunga polemica seguita alla pubblicazione del primo Discorso: Rousseau ripercorre le accuse dei suoi avversari (di non credere a ciò che sostiene, di essere in contraddizione con la propria condotta) e vi risponde punto per punto.",
+  "summary_en": "A summary of the long controversy that followed the publication of the first Discourse: Rousseau reviews his opponents' accusations (that he does not believe what he argues, that his conduct contradicts his principles) and answers them point by point."
+ },
+ "SUR_LA_MUSIQUE_MILITAIRE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Breve nota tecnica sulla musica militare e sulle marce dei reggimenti, con proposte pratiche su fifre e tamburi. Testo tecnico sulla musica, senza contenuto filosofico.",
+  "summary_en": "A short technical note on military music and regimental marches, with practical proposals on fifes and drums. A technical text on music, without philosophical content."
+ },
+ "TRADUCTION_DE_LAPOCOLOKINTOSIS": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Traduzione francese dell'Apokolokyntosis di Seneca, satira menippea che ridicolizza la pretesa divinizzazione dell'imperatore Claudio. Opera satirica tradotta, senza contenuto filosofico proprio di Rousseau.",
+  "summary_en": "A French translation of Seneca's Apocolocyntosis, the Menippean satire mocking the pretended deification of the emperor Claudius. A translated satirical work, without philosophical content of Rousseau's own."
+ },
+ "TRADUCTION_DE_LODE_DE_JEAN_PUTHOD": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Traduzione francese di un'ode latina di Jean Puthod celebrante le nozze di Carlo Emanuele di Savoia con Elisabetta di Lorena. Traduzione poetica d'occasione, senza contenuto filosofico.",
+  "summary_en": "A French translation of a Latin ode by Jean Puthod celebrating the marriage of Charles Emmanuel of Savoy to Elisabeth of Lorraine. An occasional poetic translation, without philosophical content."
+ },
+ "TRADUCTION_DU_PREMIER_LIVRE_DE_LHISTOIRE_DE_TACITE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Traduzione, presentata come esercizio di stile, del primo libro delle Historiae di Tacito, sull'anno dei quattro imperatori. Esercizio letterario di traduzione, senza contenuto filosofico proprio.",
+  "summary_en": "A translation, presented as a stylistic exercise, of the first book of Tacitus's Histories, on the year of the four emperors. A literary translation exercise, without independent philosophical content."
+ },
+ "VISION_DE_PIERRE_DE_LA_MONTAGNE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Pastiche satirico in stile biblico contro un predicatore del Val-de-Travers che aveva attaccato Rousseau durante il suo esilio svizzero. Testo polemico occasionale, senza contenuto filosofico.",
+  "summary_en": "A satirical pastiche in biblical style against a Val-de-Travers preacher who had attacked Rousseau during his Swiss exile. An occasional polemical text, without philosophical content."
+ },
+ "ÉCRITS_EN_FORME_DE_CIRCULAIRE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Dichiarazioni circolari sulla falsificazione delle proprie opere da parte degli editori, e memoriale sulla propria condizione di vecchiaia e malattia. Documenti biografici tardi, senza contenuto filosofico sistematico.",
+  "summary_en": "Circular declarations on the falsification of his works by publishers, and a memoir on his own condition in old age and illness. Late biographical documents, without systematic philosophical content."
+ },
+ "ÉMILE_ET_SOPHIE_ou_LES_SOLITAIRES": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "natural_goodness"
+  ],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Seguito incompiuto dell'Émile: Émile, ormai adulto e separato da Sophie dopo la perdita della loro famiglia, racconta al proprio precettore la felicità perduta e il modo in cui, formato secondo i principi dell'educazione naturale, sopporta le sventure senza esserne annientato.",
+  "summary_en": "An unfinished sequel to Émile: now an adult separated from Sophie after the loss of their family, Émile tells his tutor of the happiness he has lost and of how, formed according to the principles of natural education, he bears misfortune without being destroyed by it."
+ },
+ "ÉMILE_ou_de_LÉDUCATION": {
+  "axes": [
+   "human_nature",
+   "god"
+  ],
+  "positions": [
+   "natural_goodness",
+   "deism"
+  ],
+  "concepts": [
+   "education",
+   "negative_education",
+   "amour_propre",
+   "amour_de_soi",
+   "nature",
+   "religion"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Trattato pedagogico e filosofico capitale: 'tutto è bene uscendo dalle mani dell'Autore delle cose, tutto degenera fra le mani dell'uomo'. Rousseau propone un'educazione negativa che protegga a lungo il fanciullo dai pregiudizi e dal vizio prima di esporlo alla ragione e alla società, distinguendo l'amor di sé, naturale e buono, dall'amor proprio, sociale e comparativo; il libro IV contiene la 'Professione di fede del vicario savoiardo', esposizione di una religione naturale fondata sul sentimento e sulla coscienza morale più che sui dogmi rivelati.",
+  "summary_en": "Rousseau's major pedagogical and philosophical treatise: 'everything is good as it leaves the hands of the Author of things, everything degenerates in the hands of man'. Rousseau proposes a negative education that shields the child from prejudice and vice before exposing him to reason and society, distinguishing self-love (amour de soi), natural and good, from amour-propre, social and comparative; Book IV contains the 'Profession of Faith of the Savoyard Vicar', an exposition of a natural religion grounded in feeling and moral conscience rather than revealed dogma."
+ },
+ "LE_DEVIN_DU_VILLAGE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Intermezzo musicale pastorale su Colette, Colin e l'indovino del villaggio, rappresentato davanti al re nel 1752. Opera musicale-teatrale di grande successo, senza contenuto filosofico.",
+  "summary_en": "A pastoral musical interlude about Colette, Colin, and the village fortune-teller, performed before the king in 1752. A highly successful musical-theatrical work, without philosophical content."
+ },
+ "LE_LÉVITE_DÉPHRAÏM": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Poema in prosa ispirato all'episodio biblico del Levita di Efraim (Giudici 19-21), sull'assassinio della concubina e le guerre civili tra le tribù d'Israele che ne seguirono. Rielaborazione narrativa biblica, senza tesi filosofica propria.",
+  "summary_en": "A prose poem inspired by the biblical episode of the Levite of Ephraim (Judges 19-21), on the murder of the concubine and the ensuing civil wars among the tribes of Israel. A biblical narrative reworking, without a philosophical thesis of its own."
+ },
+ "LE_PERSIFLEUR": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Foglio periodico satirico immaginato con Diderot, in cui Rousseau si presenta ironicamente come critico letterario dotato di grande sicurezza e nessuna competenza. Esercizio satirico, senza contenuto filosofico.",
+  "summary_en": "A satirical periodical sheet conceived with Diderot, in which Rousseau ironically presents himself as a literary critic full of confidence and devoid of competence. A satirical exercise, without philosophical content."
+ },
+ "LE_PETIT_SAVOYARD_ou_LA_VIE_DE_CLAUDE_NOYER": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "natural_goodness"
+  ],
+  "concepts": [
+   "nature"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Racconto autobiografico immaginario di un contadino savoiardo che rimpiange di aver tradito la propria vocazione rustica per un destino più agitato: illustra in forma narrativa il tema rousseauiano della felicità perduta con l'allontanamento dalla semplicità naturale.",
+  "summary_en": "A fictional autobiographical tale of a Savoyard peasant who regrets having betrayed his rustic calling for a more turbulent fate: it illustrates in narrative form the Rousseauian theme of happiness lost through departure from natural simplicity."
+ }
+}

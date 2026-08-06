@@ -1,0 +1,512 @@
+{
+ "Incipit_el_reinado_de_la_grosería": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Colonna giornalistica satirica (1904) sul divieto del governatore di Madrid alle signore di portare il cappello a teatro; da lì una divagazione ironica sulla tattica femminile, la galanteria e la 'grosería' come via alla sincerità. Testo d'occasione, non filosofico.",
+  "summary_en": "A satirical newspaper column (1904) on the Madrid governor's ban on ladies wearing hats in theatres, digressing ironically on feminine tactics, gallantry, and coarseness as a road to sincerity. An occasional piece, not philosophical."
+ },
+ "Influencia_negativa_del_pasado": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Sezione de 'La deshumanización del arte': l'arte e la scienza pura sono i primi sintomi di un mutamento della sensibilità collettiva; la reazione dell'artista alla tradizione può essere positiva o negativa, e il nuovo stile si costruisce in gran parte come negazione consapevole dell'arte antica (da Baudelaire in poi).",
+  "summary_en": "A section of 'The Dehumanization of Art': art and pure science are the first symptoms of a shift in collective sensibility; the artist's reaction to tradition may be positive or negative, and the new style is largely built as a deliberate negation of old art (from Baudelaire onward)."
+ },
+ "Inmediatas_concesiones": {
+  "axes": [], "positions": [], "concepts": ["labour", "property", "state"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Editoriale (El Sol, 1919) con proposte concrete a favore del movimento operaio: formazione tecnica dell'operaio, consigli di fabbrica eletti, partecipazione agli utili per legge, imposta progressiva sulle successioni. Testo politico-programmatico, non filosofico.",
+  "summary_en": "An editorial (El Sol, 1919) with concrete proposals favouring the labour movement: technical training for workers, elected factory councils, legally mandated profit-sharing, progressive inheritance taxes. A political-programmatic piece, not philosophical."
+ },
+ "Instinto_y_razón": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo brevissimo (151 parole). Il digest non riporta alcun campione di prosa: non è possibile giudicarne il contenuto oltre al titolo.",
+  "summary_en": "A very short text (151 words). The digest carries no prose sample, so nothing beyond the title can be judged."
+ },
+ "Instituciones": {
+  "axes": ["reality_status"], "positions": ["radical_reality_of_life"], "concepts": ["nihilism", "beauty"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Contro la tesi hegeliana che 'tutto il reale è razionale', Ortega sostiene che la vita umana non è solo una realtà ma insieme l'interpretazione della propria realtà, e perciò costitutivamente problematica e falsificabile; diagnostica la propria epoca come una delle più false, dominata da un 'falso sincerismo' di cui l''arte nuevo' e il suo nichilismo sono l'esempio.",
+  "summary_en": "Against Hegel's claim that 'all that is real is rational', Ortega argues human life is not simply a reality but at once the interpretation of its own reality, hence constitutively problematic and open to falsification; he diagnoses his own age as one of the falsest, ruled by a 'false sincerism' exemplified by the new art and its nihilism."
+ },
+ "Intelectualidad_y_política": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Risposta polemica a un conte: l'ideale sarebbe che gli intellettuali non si occupassero di politica, ma se lo fanno devono farlo da intellettuali, con il rigore e le cautele del proprio mestiere, non prestandosi al gergo dei partiti. Articolo d'occasione sul ruolo dello scrittore.",
+  "summary_en": "A polemical reply to a count: ideally intellectuals would stay out of politics, but if they enter it they must do so as intellectuals, with the rigour and reservations of their craft, not borrowing party jargon. An occasional article on the writer's role."
+ },
+ "Intermedio_de_las_siluetas": {
+  "axes": ["reality_status"], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Prosa lirica sull'ora del crepuscolo all'Escorial: quando i colori fuggono le cose si riducono a sagome. Da qui una riflessione sulla realtà come potere dei corpi di occuparsi reciprocamente lo spazio, e sulla terza dimensione come carattere del reale.",
+  "summary_en": "A lyrical piece on dusk at El Escorial: as colours flee, things shrink to silhouettes. From this Ortega reflects on reality as the power of bodies to claim space against one another, and on the third dimension as the mark of the real."
+ },
+ "Introducción_a_una_estimativa_Qué_son_los_valores": {
+  "axes": ["moral_foundation"], "positions": [], "concepts": ["transvaluation_of_values"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio sistematico sulla teoria dei valori: contro chi li riduce alle cose piacevoli o desiderate, Ortega sostiene che i valori sono qualità irreali, oggettive, residenti nelle cose, conosciute in modo quasi matematico; ricostruisce l'assenza del tema nella filosofia classica, dove si nascondeva sotto l'idea di Bene, e cita il motto nietzschiano della trasmutazione dei valori.",
+  "summary_en": "A systematic essay on value theory: against reducing values to what is pleasant or desired, Ortega holds them to be irreal, objective qualities residing in things, known in a quasi-mathematical way; he traces the topic's absence from classical philosophy, where it hid under the idea of the Good, and cites Nietzsche's watchword of the transvaluation of values."
+ },
+ "Introducción_metódica": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Introduzione a una serie di pagine su Renan, scritte dopo la lettura dei suoi 'Nouveaux Cahiers de jeunesse'. Ortega afferma di preferire le idee agli uomini e propone di misurare il genio non sulla soggettività dell'autore ma sulla solidità dell'opera: originale è solo chi scopre una verità oggettiva.",
+  "summary_en": "An introduction to a series of pages on Renan, prompted by his 'Nouveaux Cahiers de jeunesse'. Ortega declares he prefers ideas to men and proposes measuring genius not by an author's subjectivity but by the solidity of the work: only the discovery of an objective truth counts as originality."
+ },
+ "Inutilitarismo": {
+  "axes": [], "positions": [], "concepts": ["nature", "beauty"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Critica del principio di utilità in biologia: il gesto emotivo, inutile, resta inspiegabile per Darwin e Spencer, la cui vaghezza Ortega giudica scolastica; cita Möbius e Goebel sulla sproporzione tra la varietà delle forme organiche e le condizioni dell'ambiente, e sull'ipotesi di un principio di bellezza come fattore cosmogonico.",
+  "summary_en": "A critique of the utility principle in biology: the useless emotional gesture defeats Darwin and Spencer, whose vagueness Ortega calls scholastic; he cites Möbius and Goebel on the disproportion between the variety of organic forms and environmental conditions, and on the hypothesis of a principle of beauty as a cosmogonic factor."
+ },
+ "Invitación_a_comprender": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Sezione de 'La deshumanización del arte': l'invito a non indignarsi davanti all'arte giovane. Contro l'assunto che l'opera debba avere un nucleo di realtà vissuta, Ortega sostiene che percezione del reale e percezione della forma artistica sono incompatibili, e che stilizzare è deformare il reale, cioè disumanizzare.",
+  "summary_en": "A section of 'The Dehumanization of Art': an invitation not to bristle at young art. Against the assumption that a work must have a core of lived reality, Ortega argues that perceiving reality and perceiving artistic form are incompatible, and that to stylize is to deform the real, that is, to dehumanize."
+ },
+ "Irónico_destino": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Sezione de 'La deshumanización del arte': il nuovo stile toglie all'arte ogni patetismo ed è invariabilmente comico, non nel contenuto ma perché l'arte si fa burla di se stessa; Ortega richiama l'Ironia proclamata categoria estetica suprema dai romantici Schlegel.",
+  "summary_en": "A section of 'The Dehumanization of Art': the new style strips art of all pathos and is invariably comic, not in content but because art mocks itself; Ortega recalls Irony as the supreme aesthetic category proclaimed by the Schlegels' Romantics."
+ },
+ "Italia_resuelta": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo di politica estera (1915) sull'imminente entrata in guerra dell'Italia contro l'Austria, sui Dardanelli e sul calcolo dell'uomo del Foreign Office. Cronaca politica, non filosofica.",
+  "summary_en": "A foreign-policy article (1915) on Italy's imminent entry into the war against Austria, the Dardanelles, and the calculations of the man at the Foreign Office. Political commentary, not philosophy."
+ },
+ "Jorge_Simmel": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo brevissimo (234 parole) su Georg Simmel. Il digest non riporta alcun campione di prosa: il contenuto non è giudicabile.",
+  "summary_en": "A very short text (234 words) on Georg Simmel. The digest carries no prose sample, so the content cannot be judged."
+ },
+ "Juan_Luis_Vives_1492-1540": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Profilo biografico cronologico di Juan Luis Vives: Valencia, Parigi, Bruges, il rapporto con Erasmo, i commenti ai Salmi e alla Città di Dio, il libro sul soccorso ai poveri, l'enciclopedia 'De disciplinis', la povertà e la morte. Elenco di date e opere, senza sviluppo dottrinale.",
+  "summary_en": "A chronological biographical sketch of Juan Luis Vives: Valencia, Paris, Bruges, his relation to Erasmus, the commentaries on the Psalms and the City of God, the book on poor relief, the 'De disciplinis' encyclopedia, poverty and death. A list of dates and works, with no doctrinal development."
+ },
+ "Julio_Rey_Pastor": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Presentazione al pubblico di Buenos Aires (La Prensa, 1917) del matematico spagnolo Julio Rey Pastor, invitato dalla Institución cultural española, con nota sull'ampliamento della matematica nell'Ottocento. Pezzo di circostanza.",
+  "summary_en": "A presentation to the Buenos Aires public (La Prensa, 1917) of the Spanish mathematician Julio Rey Pastor, invited by the Institución cultural española, with a note on the nineteenth-century expansion of mathematics. An occasional piece."
+ },
+ "Justa_suspicacia": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo breve (274 parole). Il digest non riporta alcun campione di prosa: il contenuto non è giudicabile.",
+  "summary_en": "A short text (274 words). The digest carries no prose sample, so the content cannot be judged."
+ },
+ "Juventud": {
+  "axes": ["meaning_of_history"], "positions": ["theory_of_generations"], "concepts": ["nature"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Le variazioni storiche non vengono da cause esterne all'organismo: vivere è un'operazione che va da dentro a fuori. Ortega sostiene che le categorie biologiche elementari — maschile/femminile, gioventù/vecchiaia — sono le prime istituzioni sociali e potenze plastiche della storia, e che ogni epoca va letta cercando quale di esse predomini.",
+  "summary_en": "Historical variation does not come from causes outside the organism: living is an operation from the inside out. Ortega argues that the elementary biological categories — male/female, youth/old age — are the first social institutions and shaping powers of history, and that every age must be read by asking which of them prevails."
+ },
+ "KANT": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Frammento di 59 parole intitolato KANT. Il digest non riporta alcun campione: nulla di dottrinale è verificabile, e il titolo da solo non autorizza alcuna attribuzione.",
+  "summary_en": "A 59-word fragment titled KANT. The digest carries no sample; nothing doctrinal is verifiable, and the title alone warrants no attribution."
+ },
+ "La_adhesión_al_Gobierno": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Intervento parlamentare: la minoranza appoggia il Governo come l'unico possibile in quel momento, pur auspicando che ne cambi la politica; Ortega lamenta che si discutano dettagli amministrativi invece della 'tonalità' generale, che a suo giudizio è il fattore decisivo. Discorso politico di circostanza.",
+  "summary_en": "A parliamentary speech: the minority backs the Government as the only one possible at that date, while wishing it would change its policy; Ortega complains that debate turns on administrative detail instead of the overall 'tonality', which he holds to be decisive. An occasional political address."
+ },
+ "La_administración_de_las_virtudes": {
+  "axes": [], "positions": [], "concepts": ["virtue"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo di politica spagnola contro i tópicos di governo: dopo l''energía' ora si parla di 'valor' e 'gallardía'. Ortega replica a Salillas che la gallardía è al più una virtù militare e non ha giurisdizione su un problema civile: Maura e La Cierva non furono coraggiosi, furono legali.",
+  "summary_en": "An article on Spanish politics against governing clichés: after 'energy' the talk is now of 'valour' and 'gallantry'. Ortega answers Salillas that gallantry is at best a military virtue with no jurisdiction over a civil question: Maura and La Cierva were not brave, they were legal."
+ },
+ "La_afirmación_de_la_moral_y_de_la_nación": {
+  "axes": [], "positions": [], "concepts": ["state"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo (El Sol, 1933): ciò di cui la Spagna manca è la morale, ed essa è un popolo demoralizzato in senso etico e vitale. Ortega sostiene che la politica non può fondarsi sugli interessi parziali — capitalista, operaista, militarista — che abusando dello Stato si sono neutralizzati, ma su valori morali attorno all'idea di Nazione.",
+  "summary_en": "An article (El Sol, 1933): what Spain most lacks is morality, and it is a demoralized people in both the ethical and the vital sense. Ortega argues politics cannot rest on partial interests — capitalist, workerist, militarist — which have abused the state and cancelled each other out, but on moral values around the idea of the Nation."
+ },
+ "La_agitación_obrera": {
+  "axes": [], "positions": [], "concepts": ["state", "law", "labour"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Editoriale sul conflitto del pane a Madrid: una vertenza minima paralizza una città di un milione di abitanti. Ortega critica insieme l'assurdità della violenza operaia e la richiesta delle destre di abolire il diritto di sciopero, e reclama uno Stato attivo e imparziale che organizzi i dissensi con la legge.",
+  "summary_en": "An editorial on the Madrid bread conflict: a trivial dispute paralyses a city of a million. Ortega criticizes both the absurdity of the workers' violence and the right's demand to abolish the right to strike, calling for an active, impartial state that organizes internal dissent through law."
+ },
+ "La_bicicleta_el_pie_y_el_pseudópodo": {
+  "axes": [], "positions": [], "concepts": ["nature"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio che stabilisce una gerarchia puramente vitale delle funzioni: andare in bicicletta è meccanismo condizionato, camminare è funzione organica più plenaria, e lo spostarsi dell'ameba — priva di organi specializzati — è più primario ancora. La macchina dà molto solo entro condizioni rigorose, fuori delle quali è d'impaccio.",
+  "summary_en": "An essay establishing a purely vital hierarchy of functions: cycling is conditioned mechanism, walking is a more fully organic function, and the amoeba's locomotion — lacking specialized organs — is more primary still. A machine gives much only within strict conditions, outside which it is an encumbrance."
+ },
+ "La_boca_del_telón": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Frammento di 116 parole. Il digest non riporta alcun campione di prosa: il contenuto non è giudicabile.",
+  "summary_en": "A 116-word fragment. The digest carries no prose sample, so the content cannot be judged."
+ },
+ "La_camisa_roja": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo (1915) sulla camicia rossa di Bruno Garibaldi agitata in una piazza di Roma: l'Italia si è fatta con coraggio e talento mentre i dirigenti spagnoli hanno disfatto la Spagna, che davanti alla guerra si scoprirà 'nazione scamiciata'. Pubblicistica patriottica.",
+  "summary_en": "An article (1915) on Bruno Garibaldi's red shirt waved in a Roman square: Italy made itself with courage and talent while Spain's leaders unmade Spain, which faced with war will find itself a 'shirtless nation'. Patriotic journalism."
+ },
+ "La_causa_de_las_Memorias": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Breve saggio: perché la Francia produce moltissime Memorie e la Spagna pochissime. La causa sarebbe la gioia di vivere: le Memorie e il romanzo sono due modi gemelli di accarezzare l'esistenza, mentre lo spagnolo sente la vita come un universale mal di denti.",
+  "summary_en": "A short essay on why France produces so many memoirs and Spain so few. The cause, he claims, is joy in living: memoirs and the novel are twin ways of caressing existence, whereas the Spaniard feels life as a universal toothache."
+ },
+ "La_censura_negra_y_la_censura_roja_Sólo_pedimos_libertad": {
+  "axes": [], "positions": [], "concepts": ["state", "law", "freedom"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Editoriale sulla doppia censura, governativa e tipografica: la prima è legale ma abusiva, la seconda illegale e irresponsabile. Ortega ne trae la tesi che oggi non si può governare con la forza, perché lo Stato non sta sopra la società ma immerso in essa, e l'ingiustizia dell'autorità genera l'illegalità sociale.",
+  "summary_en": "An editorial on the double censorship, governmental and typographers': the first legal but abusive, the second illegal and unaccountable. Ortega draws the thesis that one can no longer govern by force, since the state does not stand above society but is immersed in it, and unjust authority breeds social illegality."
+ },
+ "La_ciencia_romántica": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "A partire dal 'Diccionario del Quijote' di Cejador, Ortega deplora la chiusura corporativa della vita spagnola e afferma che ogni azione ha una dimensione nazionale: l'individuo è un'astrazione, l'umanità un ideale, l'unica realtà attuale è la nazione. Elogia poi i libri di viaggio e i dizionari etimologici come visioni 'vulcaniche' dell'umanità.",
+  "summary_en": "Starting from Cejador's 'Diccionario del Quijote', Ortega deplores the guild-like closure of Spanish life and claims every act has a national dimension: the individual is an abstraction, humanity an ideal, and the only present reality is the nation. He then praises travel books and etymological dictionaries as 'volcanic' views of humanity."
+ },
+ "La_ciudadanía": {
+  "axes": [], "positions": [], "concepts": ["state"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Replica a Maura (El Sol, 1917): l'assenza dalla politica non è un male peculiarmente spagnolo — la Germania la conobbe fino al 1850 mentre creava industria e scienza. La politica è la funzione più esterna e risultante del resto della vita sociale: la Spagna non vive male perché fa cattiva politica, fa cattiva politica per anemia vitale.",
+  "summary_en": "A reply to Maura (El Sol, 1917): political absence is not a peculiarly Spanish disease — Germany suffered it until 1850 while creating industry and science. Politics is the most external function, a result of the rest of social life: Spain does not live badly because its politics are poor; its politics are poor because of vital anaemia."
+ },
+ "La_colaboración_de_la_juventud": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo breve (252 parole). Il digest non riporta alcun campione di prosa: il contenuto non è giudicabile.",
+  "summary_en": "A short text (252 words). The digest carries no prose sample, so the content cannot be judged."
+ },
+ "La_colaboración_unánime": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo politico: appoggio incondizionato al ministro delle Finanze Prieto nella crisi economica internazionale, rimprovero ai capitalisti spagnoli per la mancanza di solidarietà nazionale e difesa dell'apporto di tecnici stranieri. Pezzo di attualità politica.",
+  "summary_en": "A political article: unconditional support for finance minister Prieto amid the international economic crisis, a rebuke to Spanish capitalists for lacking national solidarity, and a defence of bringing in foreign technical expertise. Topical political writing."
+ },
+ "La_coligación_conservadora": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo sulla coalizione delle destre spagnole: Ortega, che dice di non essere conservatore, la giudica utile perché senza una politica seria che gravi dall'alto neppure le forze trasformatrici prendono muscolo; ma sospetta che l'unione nasca solo dalla paura del problema operaio. Attualità politica.",
+  "summary_en": "An article on the coalition of the Spanish right: Ortega, who says he is scarcely conservative, judges it useful because without a serious policy bearing down from above even transforming forces gain no muscle; but he suspects the union springs only from fear of the labour question. Topical politics."
+ },
+ "La_conservación_de_la_cultura": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Risposta a una sfida polemica di Maura y Gamazo. Ortega apre con un elogio della polemica come forma unica del lavoro intellettuale — la storia delle scienze è la storia delle dispute, e la Critica della ragion pura si capisce solo come polemica su due fronti, Leibniz e Hume — poi lamenta l'eterogeneità dei disputanti e il non sapere su cosa verta la disputa.",
+  "summary_en": "A reply to a polemical challenge from Maura y Gamazo. Ortega opens by praising polemic as the sole form of intellectual work — the history of the sciences is a history of disputes, and the Critique of Pure Reason is intelligible only as a two-front polemic against Leibniz and Hume — then laments the disputants' heterogeneity and his uncertainty about what is being disputed."
+ },
+ "La_Constitución": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Frammento di 186 parole. Il digest non riporta alcun campione di prosa: il contenuto non è giudicabile.",
+  "summary_en": "A 186-word fragment. The digest carries no prose sample, so the content cannot be judged."
+ },
+ "La_copla_de_la_Rabalera": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Invettiva giornalistica contro il presidente del Consiglio Allendesalazar, accusato di mancanza di rispetto verso il Parlamento e di ridurre l'arte di governo alle coplas più plebee. Attualità politica, non filosofia.",
+  "summary_en": "A journalistic invective against prime minister Allendesalazar, accused of disrespecting Parliament and reducing the art of government to the crudest popular ditties. Topical politics, not philosophy."
+ },
+ "La_Corona_frente_a_la_crisis": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo sulla caduta del governo Maura-La Cierva e sull'errore della Corona nel sostenerlo senza appoggio d'opinione, con la nota del 2 maggio sul decreto di scioglimento. Cronaca politica.",
+  "summary_en": "An article on the fall of the Maura-La Cierva government and the Crown's error in backing a cabinet with no popular support, discussing the 2 May note on the dissolution decree. Political chronicle."
+ },
+ "La_crisis": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Corrispondenza per La Prensa (1913) sulla crisi seguita alla morte di Canalejas: il re riaffida il governo ai liberali senza consultare, i conservatori si sgomentano e Maura si ritira dalla politica. Ortega legge la lettera di Maura come documento rappresentativo di un'epoca. Cronaca politica.",
+  "summary_en": "A dispatch for La Prensa (1913) on the crisis after Canalejas's death: the king reappoints the liberals without consultation, the conservatives are dismayed, and Maura withdraws from politics. Ortega reads Maura's letter as a document representative of an era. Political chronicle."
+ },
+ "La_crisis_de_hoy_y_de_hace_cinco_siglos_Creación_y_recepción_La_socialización_del": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Il digest registra 2.084 parole ma zero atomi e nessun campione né struttura: il testo non è ispezionabile. Il titolo stesso appare troncato ('La socialización del…'). Da verificare in fase di estrazione.",
+  "summary_en": "The digest records 2,084 words but zero atoms and neither sample nor structure: the text cannot be inspected. The title itself appears truncated ('La socialización del…'). Flagged for extraction review."
+ },
+ "La_crisis_histórica": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Editoriale (El Sol, 1920) sulla cosiddetta 'crisi storica' spagnola: i professionisti della vecchia farsa non capiscono nulla di ciò che accade, nulla si è risolto della questione sociale e Barcellona pone gli stessi problemi di prima. Attualità politica; le virgolette del titolo sono polemiche.",
+  "summary_en": "An editorial (El Sol, 1920) on Spain's so-called 'historic crisis': the professionals of the old farce understand nothing of what is happening, nothing of the social question has been settled, and Barcelona poses the same problems as before. Topical politics; the title's scare quotes are polemical."
+ },
+ "La_cuestión_moral": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Ultimo di una serie di articoli su una nuova politica: la vergogna etnica del 1898, il rifiuto di spiegare i mali spagnoli col denaro o con la fame — Ortega dice che proprio sulla Spagna la concezione materialistica della storia si mostra falsa — e la polemica con Maura sull'uso vago della parola 'pueblo', che va definito scientificamente perché è la materia politica.",
+  "summary_en": "The last of a series of articles on a new politics: the ethnic shame of 1898, the refusal to explain Spain's ills by money or hunger — Ortega says the materialist conception of history is proved false precisely in Spain's case — and a polemic against Maura's vague use of the word 'the people', which must be defined scientifically since it is the matter of politics."
+ },
+ "La_cuestión_social_y_el_ejército": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo breve (305 parole). Il digest non riporta alcun campione di prosa: il contenuto non è giudicabile.",
+  "summary_en": "A short text (305 words). The digest carries no prose sample, so the content cannot be judged."
+ },
+ "La_cultura_tartesia": {
+  "axes": ["meaning_of_history"], "positions": ["decadence"], "concepts": [], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Recensione-saggio sul 'Tartessos' di Schulten: la città sul Guadalquivir più antica di Gades, identificata da Schulten con Atlantide, ricostruita dal periplo massaliota conservato nell'Ora maritima di Avieno. Ortega aggiunge una sua deduzione: un popolo con leggi di seimila anni e senza ardore bellico si sentiva già vecchio, in fatica storica, decadente.",
+  "summary_en": "A review-essay on Schulten's 'Tartessos': the city on the Guadalquivir older than Gades, identified by Schulten with Atlantis, reconstructed from the Massaliote periplus preserved in Avienus's Ora maritima. Ortega adds his own inference: a people with six-thousand-year-old laws and no martial spirit already felt itself old, historically weary, decadent."
+ },
+ "La_cátedra_de_Literaturas_Neolatinas_Modernas": {
+  "axes": [], "positions": [], "concepts": ["education"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Dichiarazione in quattro punti (España, 1916) contro la creazione di una cattedra di Letterature neolatine moderne per Emilia Pardo Bazán: non esiste una filologia del contemporaneo, manca in Spagna una cattedra di ricerca sulla letteratura spagnola, e il nome dell'autrice — che Ortega dice di ammirare — non gode dell'unanimità che la legge Moyano richiederebbe.",
+  "summary_en": "A four-point statement (España, 1916) against creating a chair of Modern Neo-Latin Literatures for Emilia Pardo Bazán: there is no philology of the contemporary, Spain lacks a research chair in Spanish literature itself, and the writer — whom Ortega says he admires — does not command the unanimity the Moyano law would require."
+ },
+ "La_deshumanización_del_arte": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Voce di sole 16 parole, senza campione nel digest. Nonostante il titolo celebre, nulla del contenuto è ispezionabile: probabile testa di sezione o frammento residuo dell'estrazione. Da verificare.",
+  "summary_en": "An entry of just 16 words with no sample in the digest. Despite the famous title, none of the content is inspectable: likely a section head or leftover fragment from extraction. Flagged for review."
+ },
+ "La_destitución_de_Unamuno": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo in difesa di Unamuno destituito dal rettorato di Salamanca: le accuse di irregolarità amministrative sono pretesti, e Ortega denuncia che la stampa abbia raccolto l'accusa del ministro e taciuto la replica del rettore. Polemica di attualità.",
+  "summary_en": "An article defending Unamuno after his removal from the Salamanca rectorship: the charges of administrative irregularity are pretexts, and Ortega denounces the press for reporting the minister's accusation while suppressing the rector's reply. Topical polemic."
+ },
+ "La_elección_en_amor": {
+  "axes": [], "positions": [], "concepts": ["passion"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio: il fondo dell'individualità non sono le opinioni né il temperamento, ma un sistema nativo di preferenze e disdegni; il cuore, macchina di preferire, è il sostegno della persona, e lo storico deve fissare la tabella dei valori dominanti di un'epoca. La scelta amorosa è la situazione in cui quel fondo segreto si confessa.",
+  "summary_en": "An essay: the core of individuality is neither opinion nor temperament but an innate system of preferences and disdains; the heart, a machine for preferring, upholds the person, and the historian must fix any age's table of dominant values. The choice of a beloved is the situation in which that secret core confesses itself."
+ },
+ "La_epopeya_castellana_por_Ramón_Menéndez_Pidal": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Nota breve (249 parole) su 'La epopeya castellana' di Menéndez Pidal. Il digest non riporta alcun campione: il contenuto non è giudicabile.",
+  "summary_en": "A short note (249 words) on Menéndez Pidal's 'La epopeya castellana'. The digest carries no sample, so the content cannot be judged."
+ },
+ "La_escritura": {
+  "axes": [], "positions": [], "concepts": ["education", "wisdom"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Quadro dell'Egitto antico (1925): il funzionario è l'uomo colto, la cultura si riduce alla scrittura e alla contabilità, sapere significa saper scrivere e il saggio è lo scriba. Si ama la forma della lettera, non lo spirito: mancano del tutto la teoria e la scienza.",
+  "summary_en": "A sketch of ancient Egypt (1925): the official is the cultured man, culture reduces to writing and its adjunct bookkeeping, to know is to know how to write, and the sage is the scribe. The form of the letter is loved, not its possible spirit: theory and science are wholly absent."
+ },
+ "La_escuela_laica": {
+  "axes": ["state_and_individual"], "positions": [], "concepts": ["education", "state", "religion"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Pagina di pedagogia sociale: la scuola richiesta dalla pedagogia scientifica è quella laica, cioè quella istituita dallo Stato; la scuola confessionale è principio di anarchia perché disgrega. Ortega spinge la tesi fino a negare la vita privata e il diritto della famiglia a educare: la società è l'unica educatrice e l'unico fine dell'educazione.",
+  "summary_en": "A page of social pedagogy: the school demanded by scientific pedagogy is the lay school, that is, the state school; the confessional school is a principle of anarchy because it disaggregates. Ortega pushes the thesis to denying private life and the family's right to educate: society is the sole educator and the sole end of education."
+ },
+ "La_España_oficial_y_la_España_vital": {
+  "axes": ["meaning_of_history"], "positions": ["theory_of_generations"], "concepts": ["state"], "arguments": [],
+  "figures": [], "forms": ["lecture"], "schools": [],
+  "summary_it": "Conferenza: le nuove generazioni non sono al loro posto nella politica spagnola. I partiti hanno perso la funzione di osmosi con la nazione e si sono anchilosati; la 'Spagna ufficiale' — Parlamento, corporazioni, giornali, scuola — è lo scheletro in piedi di un organismo evaporato, separato dalle correnti centrali dell'anima spagnola.",
+  "summary_en": "A lecture: the new generations are absent from their post in Spanish politics. The parties have lost their osmotic exchange with the nation and stiffened; 'official Spain' — parliament, corporations, newspapers, schools — is the standing skeleton of an evaporated organism, cut off from the central currents of the Spanish soul."
+ },
+ "La_estrangulación_de_Don_Juan": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo irritato sulle messe in scena del 'Don Juan Tenorio' di Zorrilla, con premessa personale: non nazionalista ma nazionale, Ortega rivendica la solidarietà inevitabile con il proprio popolo e insieme il compito di diventare persona, il 'tuus fias' di Seneca. Critica teatrale.",
+  "summary_en": "An irritated article on stagings of Zorrilla's 'Don Juan Tenorio', with a personal preamble: never a nationalist but always national, Ortega claims the inescapable solidarity with one's people alongside the task of becoming a person, Seneca's 'tuus fias'. Theatre criticism."
+ },
+ "La_estética_de_El_enano_Gregorio_El_Botero": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio di critica d'arte su Zuloaga a partire da un numero di Kunst für alle e da un articolo di Mauclair: Zuloaga è amanierato — la maniera sta allo stile come la mania al carattere — eppure è 'il più forte', schiaccia le maniere altrui e persino la propria, e raccoglie la tradizione di Greco, Velázquez e Goya fuori dalle correnti del suo tempo.",
+  "summary_en": "An art-critical essay on Zuloaga, prompted by an issue of Kunst für alle and an article by Mauclair: Zuloaga is mannered — manner is to style as mania is to character — yet he is 'il più forte', crushing others' manners and even his own, and taking up the tradition of El Greco, Velázquez and Goya outside the currents of his day."
+ },
+ "La_etnología_africana": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo (El Sol, 1924) su Leo Frobenius, che ha fatto dell'etnologia un'archeologia scavando 'in verticale' il passato africano; segue la storia degli spagnoli stabilitisi a Tombuctú alla fine del Cinquecento e il rammarico per l'assenza di africanisti spagnoli. Divulgazione, non filosofia.",
+  "summary_en": "An article (El Sol, 1924) on Leo Frobenius, who turned ethnology into archaeology by digging 'vertically' into the African past; it then recounts the Spaniards settled in Timbuktu since the late sixteenth century and regrets Spain's lack of Africanists. Popular writing, not philosophy."
+ },
+ "La_expulsión_de_las_derechas": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Invettiva contro le destre spagnole, prese dalla paura: padrone della Spagna per secoli, sono responsabili non di errori amministrativi ma della decadenza di una razza, e devono essere eliminate dalla direzione del paese. Retorica polemica di attualità.",
+  "summary_en": "An invective against the Spanish right, seized by fear: masters of Spain for centuries, they are answerable not for administrative error but for a race's decay, and must be removed from the country's leadership. Topical polemical rhetoric."
+ },
+ "La_fiesta_de_los_ingenieros_Competencia_y_política": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Editoriale (El Sol, 1919) in appoggio agli ingegneri civili che presentano al Re un piano tecnico di ricostruzione nazionale: la competenza deve entrare nella politica come tale, contro i politici che trasformano riforme essenziali in tópicos personali. Attualità.",
+  "summary_en": "An editorial (El Sol, 1919) backing the civil engineers who present the King with a technical plan of national reconstruction: competence must enter politics as such, against politicians who turn essential reforms into personal slogans. Topical piece."
+ },
+ "La_fiesta_del_trabajo_Pensamientos_para_mañana": {
+  "axes": [], "positions": [], "concepts": ["labour"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Prosa per il primo maggio: la sfilata operaia vista dall'angolo della Equitativa. Il 'pueblo' è un'idealizzazione poetica, la realtà è l'operaio; la Festa del Lavoro è la Festa del Dolore, perché il lavoro è il dolore essenziale. La democrazia ha senso proprio perché la plebe è come è: godere del plebeo è l'emozione antidemocratica dell'aristocratico.",
+  "summary_en": "A May Day piece: the workers' march seen from the corner of La Equitativa. 'The people' is a poetic idealization; the reality is the worker. The Feast of Labour is the Feast of Pain, since work is essential pain. Democracy makes sense precisely because the plebs is as it is: relishing the plebeian is the aristocrat's anti-democratic emotion."
+ },
+ "La_Filosofia_de_la_Historia_de_Hegel_y_la_historiología": {
+  "axes": ["meaning_of_history"], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Prologo alla traduzione della Filosofia della Storia di Hegel e manifesto di una 'Biblioteca de Historiología', parola qui usata per la prima volta. Ortega distingue tre forme di insoddisfazione umana e muove dalla seconda: i libri di storia non saziano l'appetito conoscitivo, la storia manca di classici e di rigore mentre la fisica ne ha in eccesso. Il campione si ferma prima di esporre la dottrina hegeliana.",
+  "summary_en": "The prologue to a translation of Hegel's Philosophy of History and the manifesto of a 'Library of Historiology', a word used here for the first time. Ortega distinguishes three kinds of human dissatisfaction and starts from the second: history books do not satisfy the cognitive appetite; history has no classics and no rigour where physics has them to spare. The sample stops before Hegel's doctrine is expounded."
+ },
+ "La_forma_como_método_histórico": {
+  "axes": [], "positions": [], "concepts": ["religion", "revelation"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "A partire da un opuscolo di Rudolf Bultmann sull'esegesi dei Vangeli sinottici, Ortega deplora che in Spagna non si parli di storia del cristianesimo, sostiene che il cattolicesimo non osta alla chiarezza scientifica sulle proprie origini e attribuisce il difetto alla mancanza di curiosità iberica, invocando un nucleo di cattolici che liberi il cattolicesimo dalle sue tare spagnole.",
+  "summary_en": "Starting from a pamphlet by Rudolf Bultmann on synoptic gospel exegesis, Ortega deplores that Spain never discusses the history of Christianity, argues that Catholicism does not oppose scientific clarity about its own origins, and blames a specifically Iberian lack of curiosity, calling for a core of Catholics to free Catholicism from its Spanish blemishes."
+ },
+ "La_Gioconda": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo da Marburgo (1911) sul furto della Gioconda: l'aneddoto del romanzo danese che l'aveva predetto, e il destino distruttivo che grava sulle opere di Leonardo — il Cenacolo rovinato dai frati, dai soldati e dai restauratori, la Battaglia di Anghiari perduta ancora prima.",
+  "summary_en": "An article from Marburg (1911) on the theft of the Mona Lisa: the anecdote of the Danish novel that had predicted it, and the destructive fate hanging over Leonardo's works — the Last Supper ruined by friars, soldiers and restorers, the Battle of Anghiari lost even sooner."
+ },
+ "La_guerra_los_pueblos_y_los_dioses": {
+  "axes": ["meaning_of_history", "freedom_necessity"], "positions": [], "concepts": ["freedom", "idea"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio sull'idea di nazione, figlia del romanticismo tedesco (Herder, Schelling, Hegel). Ortega rifiuta il determinismo anatomico e razziale della storia — deriso in Hammon e Buckle — e cerca un determinismo storico psicologico o ideologico: una fatalità che non escluda la libertà, perché uno è in definitiva le idee che ha.",
+  "summary_en": "An essay on the idea of the nation, child of German Romanticism (Herder, Schelling, Hegel). Ortega rejects anatomical and racial determinism in history — mocked in Hammon and Buckle — and seeks instead a psychological or ideological historical determinism: a fatality that does not exclude freedom, since a man is ultimately the ideas he holds."
+ },
+ "La_guerra_y_la_destitución_de_Unamuno_Carta_de_Ortega_y_Gasset": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Il digest registra 500 parole ma zero atomi e nessun campione né struttura: il testo non è ispezionabile. Dal titolo, una lettera sulla destituzione di Unamuno. Da verificare in fase di estrazione.",
+  "summary_en": "The digest records 500 words but zero atoms and neither sample nor structure: the text cannot be inspected. From the title, a letter on Unamuno's dismissal. Flagged for extraction review."
+ },
+ "La_herencia_viva_de_Costa": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo alla morte di Joaquín Costa contro il lutto retorico: onorare Costa senza le sue opinioni è vano, perché la sua eredità viva non è l'erudizione ma il programma dell'europeizzazione della Spagna. Ortega rivendica per sé e per pochi altri il sentire la parola 'España' come dolore.",
+  "summary_en": "An article on Joaquín Costa's death against rhetorical mourning: honouring Costa apart from his opinions is empty, since his living legacy is not his erudition but his programme of Europeanizing Spain. Ortega claims for himself and a few others the experience of the word 'Spain' as pain."
+ },
+ "La_hermana_visitadora": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Bozzetto di viaggio: in treno per la Castiglia, tre suore salgono a Paredes; la più vecchia, visitatrice di ospedali, confonde i nomi delle superiore, mostra il ventaglio regalatole da un ricoverato e ricorda con un sorriso il mattino in cui, quarantanove anni prima, lasciò casa. Prosa narrativa, non filosofica.",
+  "summary_en": "A travel sketch: on a train through Castile, three nuns board at Paredes; the eldest, a hospital visitor, muddles the prioresses' names, shows the fan given her by an inmate, and recalls with a smile the morning forty-nine years earlier when she left home. Narrative prose, not philosophy."
+ },
+ "La_historia": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Replica a Maura, che condensa la sua politica nella parola 'ciudadanía' e legge il passato spagnolo per spiegare l'assenteismo politico. Ortega obietta che Maura non fa storia ma proietta la sua predisposizione politica attraverso i secoli, dando alla politica un'importanza che non ha, e che nel Settecento l'assenteismo era europeo, non spagnolo.",
+  "summary_en": "A reply to Maura, who condenses his politics into the word 'citizenship' and reads the Spanish past to explain political absenteeism. Ortega objects that Maura does not write history but projects his political bias across the centuries, granting politics an importance it lacks, and that in the eighteenth century absenteeism was European, not Spanish."
+ },
+ "La_historia_del_bibliotecario_El_siglo_XV": {
+  "axes": [], "positions": [], "concepts": ["custom"], "arguments": [],
+  "figures": [], "forms": ["lecture"], "schools": [],
+  "summary_it": "Conferenza ai bibliotecari: il mestiere del bibliotecario è variato in funzione di ciò che il libro significava come necessità sociale, e la sua figura pubblica si delinea solo agli albori del Rinascimento, poco prima della stampa, quando il libro comincia a essere sentito socialmente come bisogno. Da qui la tesi che la storia è anzitutto storia dell'emergere e sparire delle 'vigencias sociales'.",
+  "summary_en": "A lecture to librarians: the librarian's task has varied strictly with what the book meant as a social need, and his public figure emerges only at the dawn of the Renaissance, just before printing, when the book begins to be felt socially as a necessity. Hence the thesis that history is above all the history of the rise and fall of collective 'vigencias' — prevailing usages."
+ },
+ "La_historia_edificio_de_las_hormigas": {
+  "axes": [], "positions": [], "concepts": ["custom"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Su Azorín e l'Escorial: la lunga citazione di padre Sigüenza sul brulicare degli operai serve a Ortega per mostrare che la storia, per Azorín, non è fatta di grandi uomini ma di un formicaio anonimo di attività gremiale. Ne segue la tesi che l'individualismo spagnolo è un mito: qui si vive in varietà tipiche, non individuali — ragione per cui Baroja, cercando figure eroiche, non ha ancora colto nel segno.",
+  "summary_en": "On Azorín and El Escorial: the long quotation from Father Sigüenza on the swarming workmen lets Ortega show that for Azorín history is made not of great men but of an anonymous anthill of guild activity. Hence the thesis that Spanish individualism is a myth: life here runs in typical, not individual, varieties — which is why Baroja, hunting heroic figures, has not yet hit the mark."
+ },
+ "La_hora_de_Hércules": {
+  "axes": [], "positions": [], "concepts": ["state", "law"], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Editoriale su una crisi di governo provocata dal potere occulto delle Juntas militari: la Spagna vive da anni in uno stato di rivoluzione, cioè di illegalità del potere pubblico, mascherato da finzioni costituzionali. O il popolo ricostruisce la legalità con Cortes costituenti, o si accetti apertamente di essere governati da chi già governa. Attualità politica.",
+  "summary_en": "An editorial on a cabinet crisis caused by the hidden power of the military juntas: for years Spain has lived in a state of revolution, that is, of an illegal public power masked by constitutional fictions. Either the people rebuilds legality through a constituent assembly, or it should openly accept being ruled by those who already rule. Topical politics."
+ },
+ "La_ilusión_de_los_grandes_partidos": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Editoriale (El Sol, 1919) contro la ricostituzione dei grandi partiti e del turno pacifico: le convinzioni politiche vivono ormai di sfumature più che di grandi affermazioni contrapposte, la società spagnola è divisa in nuclei non unificabili, e ogni tentativo di grandi architetture parlamentari finirà per travolgere le istituzioni.",
+  "summary_en": "An editorial (El Sol, 1919) against rebuilding the great parties and their peaceful alternation: political convictions now live on nuances rather than large opposed affirmations, Spanish society is split into cores that cannot be unified, and every attempt at grand parliamentary architecture will end by crushing the institutions sheltering under it."
+ },
+ "La_inteligencia_de_los_chimpancés": {
+  "axes": [], "positions": [], "concepts": ["reason"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio sugli esperimenti di Wolfgang Köhler con gli scimpanzé a Tenerife, con una lunga premessa sull'ingenuità della scienza: l'interesse disinteressato e la curiosità verso gli oggetti misurano la dose di forza vitale, e il gesto 'serio' è sintomo di depressione biologica. Intelligenza è comprendere che le cose sono ciò che sono — donde il problema se gli antropoidi ne abbiano in senso rigoroso.",
+  "summary_en": "An essay on Wolfgang Köhler's chimpanzee experiments in Tenerife, with a long preamble on the naivety of science: disinterested interest and curiosity about objects measure one's dose of vital force, and the 'serious' expression is a symptom of biological depression. Intelligence is grasping that things are what they are — whence the question whether apes have it in the strict sense."
+ },
+ "La_interpretación_bélica_de_la_historia": {
+  "axes": ["meaning_of_history"], "positions": ["historical_materialism"], "concepts": [], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Ortega riconosce all'interpretazione economica della storia il merito di aver fatto della storia una scienza — sotto gli eventi opera l'organizzazione economica di ogni epoca — ma ne denuncia l'esagerazione: ridurre diritto, arte, scienza e religione a 'sovrastruttura'. La tesi di Marx valeva soprattutto per un Ottocento che aveva divinizzato lo strumento e fatto dell'uomo un homo oeconomicus.",
+  "summary_en": "Ortega credits the economic interpretation of history with making history a science — beneath events, each age's economic organization rules — but denounces its exaggeration in reducing law, art, science and religion to 'superstructure'. Marx's thesis held above all for a nineteenth century that had deified the instrument and made man a homo oeconomicus."
+ },
+ "La_interpretación_de_los_sueños_Una_consulta": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Risposta bibliografica (La Prensa, 1911) a lettori di Buenos Aires che chiedono letture sulla psicoanalisi: elenco commentato di titoli in spagnolo, francese, inglese e tedesco (Freud, Jung, Ferenczi, Jones, Hitschmann), con l'avviso che la sua valutazione delle teorie freudiane non è favorevole. Testo bibliografico.",
+  "summary_en": "A bibliographical reply (La Prensa, 1911) to Buenos Aires readers asking for reading on psychoanalysis: an annotated list of titles in Spanish, French, English and German (Freud, Jung, Ferenczi, Jones, Hitschmann), with notice that his own assessment of Freud's theories is unfavourable. A bibliographic piece."
+ },
+ "La_intrascendencia_del_arte": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Sezione de 'La deshumanización del arte': per la nuova generazione l'arte è cosa senza trascendenza, e interessa l'artista proprio nella misura in cui non ha gravità. Contro l'Ottocento che attendeva dall'arte la salvezza della specie, il nuovo stile va accostato al trionfo dello sport e del cinema: l'Europa entra in una tappa di puerilità.",
+  "summary_en": "A section of 'The Dehumanization of Art': for the newest generation art is a thing without transcendence, and it interests the artist precisely insofar as it lacks gravity. Against a nineteenth century that expected art to save the species, the new style is to be set beside the triumph of sport and cinema: Europe is entering a phase of puerility."
+ },
+ "La_intuición_radical_de_Azorín": {
+  "axes": [], "positions": [], "concepts": ["beauty", "custom"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio su Azorín: l'arte non copia il reale ma lo coglie nel suo 'status nascens'. L'intuizione radicale di Azorín sarebbe che la Spagna non vive né muta, ma ripete: la sua attualità è il perdurare del passato — donde la sua poetica del volgare, cioè della consuetudine, forma inerte della vita.",
+  "summary_en": "An essay on Azorín: art does not copy the real but catches it in its 'status nascens'. Azorín's radical intuition, Ortega says, is that Spain neither lives nor changes but repeats: its present is the past enduring — hence his poetics of the commonplace, that is, of custom, life's inert form."
+ },
+ "La_isla_del_arte": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Breve saggio sulla cornice: il quadro contiene un paesaggio che 'sta senza stare', perché tutto in esso è metafora e esistenza virtuale. L'opera d'arte è un'isola immaginaria circondata di realtà, e la cornice è l'oggetto neutro che isola il corpo estetico dal contorno vitale, funzionando da trampolino e da finestra.",
+  "summary_en": "A short essay on the picture frame: the painting holds a landscape that 'is there without being there', since everything in it is metaphor and merely virtual existence. The artwork is an imaginary island ringed by reality, and the frame is the neutral object that insulates the aesthetic body from its vital surroundings, acting as springboard and window."
+ },
+ "La_jornada_de_la_juventud": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Articolo di guerra: ciò che trionfa è la modernità, e il mondo si prepara a fare molte cose per la prima volta. L'Ottocento fu l'età dei compromessi fra il nuovo aspirante e il vecchio persistente; la Spagna portò all'estremo patologico questa perpetuazione. Appello alla gioventù per una modernizzazione audace del paese.",
+  "summary_en": "A wartime article: what triumphs is modernity, and the world is about to do many things for the first time. The nineteenth century was an age of compromise between the aspiring new and the persisting old; Spain carried that perpetuation to a pathological extreme. A call to the young for a bold modernization of the country."
+ },
+ "La_leyenda": {
+  "axes": [], "positions": [], "concepts": ["religion", "miracle"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio in due parti sulla leggenda della fine del mondo nell'anno Mille: la prima riporta ampiamente Michelet sul Medioevo che attendeva l'ordine dalla morte fra miracoli, visioni e diavoli; la seconda ne cerca il fondamento nel millenarismo sopravvissuto come sedimento di superstizione e nell'interpretazione cabalistica dell'Apocalisse.",
+  "summary_en": "A two-part essay on the legend of the world ending in the year 1000: the first quotes Michelet at length on a Middle Ages that awaited order from death amid miracles, visions and devils; the second seeks the legend's basis in a millenarianism surviving as a sediment of superstition and in cabbalistic readings of the Apocalypse."
+ },
+ "La_libación": {
+  "axes": ["meaning_of_history"], "positions": ["decadence"], "concepts": ["nature"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio nella serie su Renan: contrapposizione fra natura e cultura, dove natura è materia e spontaneità e cultura è tutto ciò che le nega — sicché la cultura si definisce come Ironia. L'anima ha due strati, il sottosuolo originario e la terra coltivabile depositata dall'alluvione della storia; se questa cessa riaffiora l'autoctonia barbara. La Spagna presente è in uno di questi periodi di ribassamento.",
+  "summary_en": "An essay in the Renan series: nature against culture, where nature is matter and spontaneity and culture is whatever negates it — so that culture is defined as Irony. The soul has two strata, the original subsoil and the arable layer deposited by history's alluvium; when the alluvium stops, barbarous autochthony resurfaces. Present-day Spain is in one such period of debasement."
+ },
+ "La_llegada_del_rey": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Corrispondenza da Berlino (6 novembre): l'arrivo di Alfonso XIII, Unter den Linden imbandierata di rosso e giallo, la folla, i generali sul marciapiede della stazione di Potsdam, l'abbraccio con il Kaiser. Reportage giornalistico.",
+  "summary_en": "A dispatch from Berlin (6 November): Alfonso XIII's arrival, Unter den Linden decked in red and yellow, the crowd, the generals on the Potsdam station platform, the embrace with the Kaiser. Journalistic reportage."
+ },
+ "La_manera_grande": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [],
+  "figures": [], "forms": ["lecture"], "schools": [],
+  "summary_it": "Conferenza sull'Escorial: verso il 1560 l'Europa perde la coincidenza rinascimentale fra aspirazioni e realtà — contro il verso di Leonardo stanno i versi di Michelangelo — e alla 'maniera gentile' subentra la 'maniera grande', il colossale e l'enorme. Quando sull'orizzonte morale europeo sorge la costellazione di Ercole, Filippo II erige nel Guadarrama il suo monumento secondo quella maniera.",
+  "summary_en": "A lecture on El Escorial: around 1560 Europe loses the Renaissance coincidence between aspiration and reality — Leonardo's line is answered by Michelangelo's verses — and the 'maniera gentile' gives way to the 'maniera grande', the colossal and the enormous. As the constellation of Hercules rises on Europe's moral horizon, Philip II raises his monument in the Guadarrama in that manner."
+ },
+ "La_melancolía": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo breve (271 parole). Il digest non riporta alcun campione di prosa: il contenuto non è giudicabile.",
+  "summary_en": "A short text (271 words). The digest carries no prose sample, so the content cannot be judged."
+ },
+ "La_metafísica_y_Leibniz": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": ["leibniz", "plato", "aristotle"], "forms": ["essay"], "schools": [],
+  "summary_it": "Elogio della Monadologia come unico sistema filosofico esponibile in poche pagine, epitome di novanta tesi che funziona come un meccanismo d'orologeria. Ortega usa la chiarezza di Leibniz per contestare il luogo comune della chiarezza greca — Platone è oggi puro mistero, Aristotele resta in parte ermetico — e sostiene che la buona metafisica è tascabile perché fatta di definizioni e argomenti, non di tirate verbali.",
+  "summary_en": "A tribute to the Monadology as the only philosophical system expoundable in a few pages, an epitome of ninety theses working like clockwork. Ortega uses Leibniz's clarity to challenge the cliché of Greek clarity — Plato is today pure mystery, Aristotle remains partly hermetic — and argues that good metaphysics is pocket-sized because it is made of definitions and arguments, not verbal tirades."
+ },
+ "La_mirada_castellana_procede_con_tacto": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Prosa di paesaggio: dal valico di Pajares lo sguardo castigliano, abituato a scoccare la freccia visiva all'infinito, fallisce contro la nebbia e i colli asturiani. Ortega ne fa un'esortazione alla pupilla castigliana perché voglia la diversità della Spagna e sappia trasmigrare, diventando per un momento sguardo altrui: dono più delicato dell'uomo.",
+  "summary_en": "A landscape piece: from the Pajares pass the Castilian gaze, used to loosing its visual arrow into the infinite, fails against Asturian fog and hills. Ortega turns this into an exhortation to the Castilian eye to will Spain's diversity and learn to transmigrate, becoming for a while another's gaze: man's most delicate gift."
+ },
+ "La_mirada_histórica": {
+  "axes": ["time_and_death", "freedom_necessity"], "positions": ["historicity", "free_will"], "concepts": ["nature", "freedom"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Tesi centrale: nell'uomo nulla è esente da cambiamento, e ciò che in lui appare fisso appartiene a ciò che in lui non è umano. Perciò la scienza naturale, che cerca ovunque una 'natura' come principio stabile, ha fallito nello studio dell'uomo: l'uomo non ha natura, ha storia. Non avendo un essere dato deve cercarselo, ed è libero a la fuerza; lo sguardo storico deve perciò muoversi col fatto invece di congelarlo.",
+  "summary_en": "The central thesis: in man nothing is exempt from change, and whatever appears fixed in him belongs to what in him is not human. Natural science, which everywhere seeks a 'nature' as the stable principle, has therefore failed with man: man has no nature, he has history. Lacking a given being he must go find one, and so is free by compulsion; the historical gaze must move with the fact instead of freezing it."
+ },
+ "La_moda_subterránea": {
+  "axes": [], "positions": [], "concepts": ["custom"], "arguments": [],
+  "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "A partire dalla curiosità universale per la tomba di Tutankhamon, difesa della moda come dimensione permanente della vita spirituale, retta da leggi non meno rigorose degli altri fenomeni storici. Nulla accade senza ragione sufficiente: ciò che appare capriccioso nasce dalle forze più intime, mentre gli atti razionali ci rendono tutti simili e sono perciò i più superficiali.",
+  "summary_en": "Starting from the universal curiosity about Tutankhamun's tomb, a defence of fashion as a permanent dimension of spiritual life, governed by laws no less strict than other historical phenomena. Nothing happens without sufficient reason: what looks capricious springs from our innermost forces, whereas rational acts make us all alike and are therefore the most superficial."
+ }
+}

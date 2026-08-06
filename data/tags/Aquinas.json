@@ -1,0 +1,661 @@
+{
+ "Treatise_on_Extreme_Unction": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "sacrament",
+   "grace"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sull'estrema unzione come sacramento istituito da Cristo per i moribondi: materia (olio), forma, effetti (remissione dei peccati, salute del corpo), ministro e destinatari. Analisi tecnica in forma di quaestio disputata sul settimo sacramento.",
+  "summary_en": "Treatise on Extreme Unction as a sacrament instituted by Christ for the dying: its matter (oil), form, effects (remission of sins, bodily health), minister and recipients. A technical quaestio-disputata analysis of the seventh sacrament."
+ },
+ "Treatise_on_Fortitude_and_Temperance": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "virtue",
+   "passion"
+  ],
+  "arguments": [],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Ampio trattato sulle virtù cardinali di fortezza e temperanza: la fortezza come virtù che rimuove gli ostacoli della paura di fronte al bene della ragione, il martirio come suo atto più perfetto, e le parti della temperanza. Segue da vicino l'Etica Nicomachea di Aristotele nell'analisi delle passioni coinvolte.",
+  "summary_en": "A vast treatise on the cardinal virtues of fortitude and temperance: fortitude as the virtue removing the obstacle of fear before the good of reason, martyrdom as its most perfect act, and the parts of temperance. It closely follows Aristotle's Nicomachean Ethics in analysing the passions involved."
+ },
+ "Treatise_on_Grace": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "grace_perfects_nature"
+  ],
+  "concepts": [
+   "grace",
+   "will",
+   "reason"
+  ],
+  "arguments": [],
+  "figures": [
+   "augustine"
+  ],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sulla necessità della grazia: senza di essa l'uomo non può conoscere pienamente la verità, amare Dio sopra ogni cosa, osservare i comandamenti né perseverare nel bene. Distingue grazia operante e cooperante, prevenente e susseguente, riprendendo la polemica antipelagiana di Agostino: la grazia non annulla la natura ma la perfeziona.",
+  "summary_en": "Treatise on the necessity of grace: without it man cannot fully know truth, love God above all things, keep the commandments, or persevere in good. It distinguishes operating from cooperating grace and prevenient from subsequent grace, resuming Augustine's anti-Pelagian polemic: grace does not abolish nature but perfects it."
+ },
+ "Treatise_on_Gratuitous_Graces": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "revelation"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sulle grazie gratuite date non per la santificazione personale ma per il bene altrui: profezia, rapimento estatico, e i carismi della parola. Distingue la profezia divina da quella naturale o demoniaca e ne classifica i gradi, con Mosè come vertice.",
+  "summary_en": "Treatise on the gratuitous graces given not for personal sanctification but for the good of others: prophecy, ecstatic rapture, and the charisms of speech. It distinguishes divine prophecy from natural or demonic imitation and classifies its degrees, with Moses at the summit."
+ },
+ "Treatise_on_Habits": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "act_potency"
+  ],
+  "arguments": [],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato metafisico sull'abito come qualità che dispone una potenza indeterminata al suo atto proprio, bene o male: soggetto degli abiti, loro causa (natura, atti ripetuti, infusione divina), crescita e corruzione. Fondamento tecnico, ripreso dalle Categorie aristoteliche, per tutta la successiva trattazione delle virtù e dei vizi.",
+  "summary_en": "A metaphysical treatise on habit as the quality that disposes an indeterminate power toward its proper act, for good or ill: the subject of habits, their cause (nature, repeated acts, divine infusion), growth and corruption. A technical foundation, drawn from Aristotle's Categories, for the entire subsequent treatment of virtues and vices."
+ },
+ "Treatise_on_Holy_Orders": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "sacrament",
+   "grace"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sul sacramento dell'Ordine: la gerarchia nella Chiesa come immagine dell'ordine divino, il carattere impresso, i sette gradi, le qualità richieste per riceverlo e gli impedimenti (compreso il sesso femminile). Sistematizza la teologia sacramentale del ministero ecclesiastico.",
+  "summary_en": "Treatise on the sacrament of Holy Orders: the hierarchy of the Church as an image of divine order, the character it imprints, its seven grades, the qualities required to receive it, and its impediments (including the female sex). It systematizes the sacramental theology of ecclesiastical ministry."
+ },
+ "Treatise_on_Human_Acts_Acts_Peculiar_to_Man": {
+  "axes": [
+   "freedom_necessity"
+  ],
+  "positions": [
+   "free_will"
+  ],
+  "concepts": [
+   "will",
+   "reason",
+   "passion",
+   "concupiscence"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sugli atti propriamente umani in quanto volontari: il volontario e l'involontario, gli effetti di violenza, paura, concupiscenza e ignoranza sulla volontarietà, le circostanze dell'atto e ciò che muove la volontà (intelletto, appetito sensitivo, Dio). Fonda l'analisi della libertà umana come appetito razionale.",
+  "summary_en": "Treatise on acts properly human insofar as voluntary: the voluntary and involuntary, the effects of violence, fear, concupiscence and ignorance on voluntariness, the circumstances of an act, and what moves the will (intellect, sensitive appetite, God). It grounds the analysis of human freedom as rational appetite."
+ },
+ "Treatise_on_Law": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "natural_law"
+  ],
+  "concepts": [
+   "law",
+   "eternal_law",
+   "human_law",
+   "divine_law",
+   "reason"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Il trattato fondativo della teoria giusnaturalista di Tommaso: la legge come ordinamento della ragione al bene comune, promulgato da chi ha cura della comunità. Distingue legge eterna, naturale, umana e divina, e mostra come la legge naturale sia la partecipazione della creatura razionale alla legge eterna.",
+  "summary_en": "The foundational treatise of Aquinas's natural-law theory: law as an ordinance of reason for the common good, promulgated by whoever has care of the community. It distinguishes eternal, natural, human and divine law, and shows how natural law is the rational creature's participation in the eternal law."
+ },
+ "Treatise_on_Man": {
+  "axes": [
+   "soul_body"
+  ],
+  "positions": [
+   "hylomorphism"
+  ],
+  "concepts": [
+   "soul",
+   "act_potency",
+   "forma_substantialis",
+   "individuation",
+   "synderesis"
+  ],
+  "arguments": [],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Il grande trattato sull'uomo: l'anima come forma sostanziale del corpo, sussistente e incorruttibile, unita immediatamente alla materia; le potenze dell'anima (intelletto, volontà, sensi) e la loro origine dall'essenza dell'anima. Sintesi ilemorfica aristotelica innestata sull'immortalità personale dell'anima intellettiva.",
+  "summary_en": "The great treatise on man: the soul as the subsistent, incorruptible substantial form of the body, united immediately to matter; the powers of the soul (intellect, will, senses) and their derivation from its essence. An Aristotelian hylomorphic synthesis grafted onto the personal immortality of the intellective soul."
+ },
+ "Treatise_on_Matrimony": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "natural_law"
+  ],
+  "concepts": [
+   "sacrament",
+   "grace",
+   "law"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sul matrimonio come istituzione di legge naturale, ordinata al bene della prole e al mutuo aiuto dei coniugi, elevata da Cristo a sacramento. Tratta il fidanzamento, il consenso come causa efficiente del vincolo, e il rapporto fra parola data e atto carnale.",
+  "summary_en": "Treatise on marriage as an institution of natural law, ordered to the good of offspring and the mutual help of spouses, and elevated by Christ to a sacrament. It treats betrothal, consent as the efficient cause of the bond, and the relation between the pledged word and carnal union."
+ },
+ "Treatise_on_Penance": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "sacrament",
+   "grace"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sul sacramento della penitenza: contrizione, confessione e soddisfazione come le tre parti dell'atto penitenziale, e il perdono del peccato come loro effetto congiunto. Discute il grado, il tempo e l'oggetto della contrizione con grande finezza casistica.",
+  "summary_en": "Treatise on the sacrament of penance: contrition, confession and satisfaction as the three parts of the penitential act, and the forgiveness of sin as their joint effect. It discusses the degree, timing and object of contrition with great casuistic precision."
+ },
+ "Treatise_on_Sacred_Doctrine": {
+  "axes": [
+   "faith_reason"
+  ],
+  "positions": [
+   "harmony_of_faith_reason"
+  ],
+  "concepts": [
+   "faith",
+   "reason",
+   "revelation"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "La quaestio di apertura della Summa: perché, oltre alla filosofia, serve una sacra doctrina fondata sulla rivelazione. Stabilisce lo statuto epistemologico della teologia come scienza subalternata alla scienza di Dio, che usa la ragione ma procede da principi rivelati: l'architrave metodologica di tutta l'opera.",
+  "summary_en": "The opening question of the Summa: why, besides philosophy, a sacred doctrine founded on revelation is needed. It establishes theology's epistemic status as a science subalternated to God's own knowledge, one that employs reason but proceeds from revealed principles — the methodological keystone of the whole work."
+ },
+ "Treatise_on_the_Angels": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "individuation",
+   "act_potency",
+   "substance"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sugli angeli come sostanze intellettuali del tutto incorporee, prive di materia: ciascun angelo è quindi la propria specie, e la loro conoscenza avviene tramite specie infuse, non astratte dai sensi. Tratta anche il loro rapporto col luogo e il movimento locale.",
+  "summary_en": "Treatise on angels as wholly incorporeal intellectual substances lacking matter: each angel is therefore its own species, and their knowledge comes through infused rather than sense-abstracted species. It also treats their relation to place and local movement."
+ },
+ "Treatise_on_the_Cardinal_Virtues": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "virtue",
+   "phronesis",
+   "justice"
+  ],
+  "arguments": [],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Il trattato più esteso della Summa (oltre 270.000 parole): prudenza, giustizia, fortezza e temperanza e tutte le loro parti annesse. La prudenza, phronesis aristotelica, dirige la ragione pratica al bene, applicando i mezzi al fine stabilito dalle virtù morali.",
+  "summary_en": "The longest treatise in the Summa (over 270,000 words): prudence, justice, fortitude and temperance and all their annexed parts. Prudence, Aristotle's phronesis, directs practical reason toward the good by applying means to the end set by the moral virtues."
+ },
+ "Treatise_on_the_Conservation_and_Government_of_Creatures": {
+  "axes": [
+   "freedom_necessity"
+  ],
+  "positions": [
+   "fate_providence"
+  ],
+  "concepts": [
+   "cause",
+   "miracle"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sul governo divino del mondo: Dio conserva ogni creatura nell'essere, muove ogni agente creato e può operare al di là dell'ordine naturale stabilito, cioè il miracolo. Confuta chi negava un governo provvidenziale attribuendo tutto al caso.",
+  "summary_en": "Treatise on the divine government of the world: God preserves every creature in being, moves every created agent, and can act beyond the established natural order — that is, work miracles. It refutes those who denied a providential government by attributing everything to chance."
+ },
+ "Treatise_on_the_Creation": {
+  "axes": [
+   "faith_reason"
+  ],
+  "positions": [
+   "harmony_of_faith_reason"
+  ],
+  "concepts": [
+   "cause",
+   "four_causes",
+   "faith"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sulla creazione dal nulla: ogni essere procede da Dio come causa efficiente, esemplare e finale, e la materia stessa è creata. Argomento celebre: l'eternità o il principio temporale del mondo non sono dimostrabili dalla sola ragione, ma sono conosciuti per fede.",
+  "summary_en": "Treatise on creation from nothing: every being proceeds from God as efficient, exemplary and final cause, and matter itself is created. A famous argument: the world's eternity or temporal beginning cannot be demonstrated by reason alone but is known by faith."
+ },
+ "Treatise_on_the_Distinction_of_Good_and_Evil": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "cause",
+   "evil_privation"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato metafisico sul male come pura assenza del bene dovuto, non una natura positiva: seguendo Dionigi, Tommaso nega che il male abbia essenza propria e nega che Dio, sommo bene, possa esserne causa se non per accidens.",
+  "summary_en": "A metaphysical treatise on evil as the mere absence of a due good, not a positive nature: following Dionysius, Aquinas denies that evil has any essence of its own and denies that God, the supreme good, can be its cause except accidentally."
+ },
+ "Treatise_on_the_Distinction_of_Things_in_General": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "cause"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Breve trattato sul perché esista una molteplicità di cose distinte: contro Democrito (il caso) e Avicenna (le intelligenze subordinate), Tommaso sostiene che la distinzione delle cose procede dall'intenzione di Dio, la cui bontà semplice nessuna singola creatura potrebbe rappresentare adeguatamente.",
+  "summary_en": "A short treatise on why a multitude of distinct things exists: against Democritus (chance) and Avicenna (subordinate intelligences), Aquinas argues that the distinction of things proceeds from God's own intention, since no single creature could adequately represent his simple goodness."
+ },
+ "Treatise_on_the_Incarnation": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "grace"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Il secondo trattato più esteso della Summa (oltre 280.000 parole): l'unione ipostatica di natura divina e umana in Cristo, la sua convenienza, il modo dell'unione nella persona e non nella natura, e la grazia dell'unione. Vertice cristologico dell'opera.",
+  "summary_en": "The second-longest treatise in the Summa (over 280,000 words): the hypostatic union of divine and human natures in Christ, its fittingness, the mode of union in the person rather than the nature, and the grace of union. The Christological summit of the work."
+ },
+ "Treatise_on_the_Last_End": {
+  "axes": [
+   "end_of_life"
+  ],
+  "positions": [
+   "beatitude"
+  ],
+  "concepts": [
+   "eudaimonia"
+  ],
+  "arguments": [],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato di apertura della morale tommasiana: ogni atto umano è compiuto per un fine, e vi è un unico ultimo fine dell'uomo, la felicità. Esclude che essa consista in ricchezza, onori, fama, potere o piacere, e la colloca nella visione dell'essenza divina.",
+  "summary_en": "The opening treatise of Aquinas's moral theology: every human act is done for an end, and there is a single last end of man, happiness. It excludes wealth, honour, fame, power or pleasure as its seat, and locates it instead in the vision of the divine essence."
+ },
+ "Treatise_on_the_Last_Things": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "death"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato escatologico sul giudizio universale, la risurrezione dei corpi e lo stato finale del mondo rinnovato. Discute chi giudicherà e chi sarà giudicato, la forma in cui apparirà Cristo giudice, e la sorte definitiva di buoni e malvagi.",
+  "summary_en": "An eschatological treatise on the general judgment, the resurrection of bodies, and the final state of a renewed world. It discusses who will judge and who will be judged, the form in which Christ the Judge will appear, and the final destiny of the good and the wicked."
+ },
+ "Treatise_on_the_Most_Holy_Trinity": {
+  "axes": [
+   "faith_reason"
+  ],
+  "positions": [
+   "harmony_of_faith_reason"
+  ],
+  "concepts": [
+   "substance",
+   "faith"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sulle processioni, relazioni e persone divine: a differenza dell'esistenza di Dio, la Trinità eccede la ragione naturale ed è conosciuta solo per rivelazione, benché una volta creduta la sua coerenza interna possa essere difesa razionalmente dalle obiezioni.",
+  "summary_en": "Treatise on the divine processions, relations and persons: unlike God's existence, the Trinity exceeds natural reason and is known only by revelation, though once believed its inner coherence can be rationally defended against objections."
+ },
+ "Treatise_on_the_One_God": {
+  "axes": [
+   "god",
+   "faith_reason"
+  ],
+  "positions": [
+   "demonstrative_theism",
+   "harmony_of_faith_reason"
+  ],
+  "concepts": [
+   "actus_purus",
+   "essentia_existentia",
+   "analogy_of_being",
+   "predestination"
+  ],
+  "arguments": [
+   "quinque_viae"
+  ],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Il nucleo metafisico della Summa: le cinque vie dimostrano l'esistenza di Dio da moto, causa, contingenza, gradazione e finalità; seguono semplicità (in Dio essenza ed esistenza coincidono, è atto puro), perfezione, bontà, e più avanti conoscenza, volontà, provvidenza e predestinazione. Modello classico di armonia fra fede e ragione: ciò che è dimostrabile per via naturale precede ciò che va creduto per rivelazione.",
+  "summary_en": "The metaphysical core of the Summa: the five ways demonstrate God's existence from motion, causation, contingency, gradation and finality; these are followed by simplicity (in God essence and existence coincide — he is pure act), perfection, goodness, and later knowledge, will, providence and predestination. A classic model of the harmony of faith and reason: what is demonstrable by natural means precedes what must be believed on revelation."
+ },
+ "Treatise_on_the_Passions": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "passion",
+   "reason",
+   "will"
+  ],
+  "arguments": [],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Analisi sistematica delle passioni dell'anima (amore, odio, desiderio, gioia, dolore, speranza, timore, ira), sedute nell'appetito sensitivo: Tommaso mostra come possano essere moralmente buone o cattive a seconda della loro conformità alla ragione.",
+  "summary_en": "A systematic analysis of the soul's passions (love, hate, desire, joy, sorrow, hope, fear, anger), seated in the sensitive appetite: Aquinas shows how they can be morally good or bad depending on their conformity to reason."
+ },
+ "Treatise_on_the_Resurrection": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "soul",
+   "death"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sullo stato delle anime separate dopo la morte, prima della risurrezione dei corpi: i luoghi loro assegnati (cielo, inferno, limbo), la possibilità di soffrire per un fuoco corporeo, e l'efficacia dei suffragi dei vivi per i defunti.",
+  "summary_en": "Treatise on the state of separated souls after death, before the resurrection of the body: the places assigned to them (heaven, hell, limbo), the possibility of suffering from a bodily fire, and the efficacy of the living's suffrages for the dead."
+ },
+ "Treatise_on_the_Sacraments": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "sacrament",
+   "grace"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Teoria generale del sacramento come segno sensibile efficace di grazia istituito da Cristo: la sua necessità per la salvezza, come causa la grazia, e il carattere indelebile impresso da alcuni sacramenti. Fondamento comune ai trattati sui singoli sacramenti.",
+  "summary_en": "A general theory of the sacrament as an efficacious sensible sign of grace instituted by Christ: its necessity for salvation, how it causes grace, and the indelible character imprinted by some sacraments. The common foundation for the treatises on the individual sacraments."
+ },
+ "Treatise_on_the_States_of_Life": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "freedom"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sugli stati di vita nella Chiesa (vescovi, religiosi, chierici): lo stato propriamente detto riguarda una condizione stabile di libertà o soggezione, e lo stato di perfezione si definisce per l'osservanza dei consigli evangelici e per la carità, non per il grado gerarchico in sé.",
+  "summary_en": "Treatise on the states of life in the Church (bishops, religious, clergy): a state properly speaking concerns a stable condition of freedom or subjection, and the state of perfection is defined by observance of the evangelical counsels and by charity, not by hierarchical rank as such."
+ },
+ "Treatise_on_the_Theological_Virtues": {
+  "axes": [
+   "faith_reason"
+  ],
+  "positions": [
+   "harmony_of_faith_reason"
+  ],
+  "concepts": [
+   "faith",
+   "theological_virtues",
+   "charity"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sulle virtù teologali fede, speranza e carità, infuse per grazia e rivolte direttamente a Dio come loro oggetto proprio. L'oggetto formale della fede è la Prima Verità rivelata; credere per autorità divina resta meritorio anche quando la ragione potrebbe in linea di principio dimostrare la stessa verità.",
+  "summary_en": "Treatise on the theological virtues of faith, hope and charity, infused by grace and directed straight to God as their proper object. Faith's formal object is the First Truth as revealed; believing on divine authority remains meritorious even where reason could in principle demonstrate the same truth."
+ },
+ "Treatise_on_the_Virtues": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "virtue",
+   "act_potency"
+  ],
+  "arguments": [],
+  "figures": [
+   "aristotle"
+  ],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Teoria generale della virtù come abito operativo buono che perfeziona una potenza indeterminata dell'anima: soggetto delle virtù, distinzione fra virtù intellettuali e morali, e loro reciproca indipendenza o connessione. Fonda in termini aristotelici tutta la psicologia morale della Summa.",
+  "summary_en": "A general theory of virtue as a good operative habit perfecting an indeterminate power of the soul: the subject of the virtues, the distinction between intellectual and moral virtue, and their mutual independence or connection. It grounds the Summa's entire moral psychology in Aristotelian terms."
+ },
+ "Treatise_on_the_Work_of_the_Six_Days": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "nature",
+   "forma_substantialis"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Lettura teologica dei sei giorni della creazione in Genesi: l'ordine con cui le creature corporee vengono distinte dalla materia informe, la produzione della luce, del firmamento e dei corpi viventi, letta insieme alla filosofia naturale del tempo.",
+  "summary_en": "A theological reading of the six days of creation in Genesis: the order by which corporeal creatures are distinguished out of formless matter, the production of light, the firmament, and living bodies, read alongside the natural philosophy of the age."
+ },
+ "Treatise_on_Vice_and_Sin": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "virtue",
+   "eternal_law"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "quaestio"
+  ],
+  "schools": [
+   "scholasticism"
+  ],
+  "summary_it": "Trattato sul vizio e sul peccato come contrari della virtù: il peccato è definito come parola, atto o desiderio contrario alla legge eterna. Confronta i peccati fra loro per gravità, causa, oggetto e circostanze aggravanti.",
+  "summary_en": "Treatise on vice and sin as contraries of virtue: sin is famously defined as a word, deed, or desire contrary to the eternal law. It compares sins with one another by gravity, cause, object and aggravating circumstance."
+ }
+}

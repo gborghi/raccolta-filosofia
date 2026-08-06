@@ -1,0 +1,423 @@
+{
+ "Allgemeine_Naturgeschichte_und_Theorie_des_Himmels": {
+  "axes": [
+   "reality_status",
+   "god"
+  ],
+  "positions": [
+   "demonstrative_theism"
+  ],
+  "concepts": [
+   "nature",
+   "infinity",
+   "cause"
+  ],
+  "arguments": [],
+  "figures": [
+   "epicurus"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [],
+  "summary_it": "Cosmogonia pre-critica del 1755: Kant deriva la formazione dei corpi celesti e l'origine dei loro moti dallo stato caotico iniziale della materia tramite leggi meccaniche. Nella prefazione difende questa spiegazione naturale contro l'accusa di naturalismo (l'Epicuro che rinasce nel cristianesimo), sostenendo che l'ordine meccanico della natura non annulla ma conferma l'autore divino.",
+  "summary_en": "A 1755 pre-critical cosmogony: Kant derives the formation of the heavenly bodies and the origin of their motions from the primal chaotic state of matter through mechanical laws. The preface defends this natural explanation against the charge of naturalism (an Epicurus reborn within Christianity), arguing that nature's mechanical order does not refute but confirms a divine author."
+ },
+ "Beantwortung_der_Frage_Was_ist_Aufklärung": {
+  "axes": [
+   "state_and_individual"
+  ],
+  "positions": [
+   "liberty_of_conscience"
+  ],
+  "concepts": [
+   "reason",
+   "freedom"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Breve saggio d'occasione che definisce l'illuminismo come l'uscita dell'uomo dallo stato di minorita di cui e egli stesso colpevole: sapere aude, abbi il coraggio di servirti del tuo intelletto. Kant vi lega la richiesta di un'unica liberta, quella di fare uso pubblico della propria ragione in ogni ambito.",
+  "summary_en": "A short occasional essay defining Enlightenment as man's emergence from his self-imposed immaturity: sapere aude, dare to use your own understanding. Kant ties it to a single demanded freedom, that of making public use of one's reason in all matters."
+ },
+ "CRITIQUE_OF_JUDGEMENT": {
+  "axes": [
+   "knowledge_origin"
+  ],
+  "positions": [
+   "transcendental_criticism"
+  ],
+  "concepts": [
+   "beauty",
+   "sublime",
+   "nature",
+   "reason"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "critique"
+  ],
+  "schools": [
+   "german_idealism"
+  ],
+  "summary_it": "Terza critica (1790): analisi trascendentale del giudizio, diviso tra giudizio estetico (il bello e il sublime, la finalita senza scopo) e giudizio teleologico (la finalita della natura). Kant la considerava la chiave di volta del suo edificio critico, ponte tra natura e liberta.",
+  "summary_en": "The third Critique (1790): a transcendental analysis of judgement, split between the aesthetic judgement (the beautiful and the sublime, purposiveness without purpose) and the teleological judgement (the purposiveness of nature). Kant regarded it as the coping-stone of his critical edifice, a bridge between nature and freedom."
+ },
+ "CRITIQUE_OF_PRACTICAL_REASON": {
+  "axes": [
+   "moral_foundation",
+   "freedom_necessity",
+   "god"
+  ],
+  "positions": [
+   "duty_imperative",
+   "free_will",
+   "transcendental_criticism"
+  ],
+  "concepts": [
+   "reason",
+   "freedom",
+   "will",
+   "law",
+   "soul"
+  ],
+  "arguments": [
+   "categorical_imperative",
+   "antinomies"
+  ],
+  "figures": [],
+  "forms": [
+   "critique"
+  ],
+  "schools": [
+   "german_idealism"
+  ],
+  "summary_it": "Seconda critica (1788): dimostra che esiste una ragione pura pratica e che la liberta trascendentale, provata dalla legge morale apodittica, e la chiave di volta dell'intero sistema. Su di essa poggiano come postulati le idee di Dio e dell'immortalita, condizioni del sommo bene.",
+  "summary_en": "The second Critique (1788): it shows that pure practical reason exists and that transcendental freedom, proved by the apodictic moral law, is the keystone of the whole system of reason. Upon it rest, as postulates, the ideas of God and immortality, conditions of the summum bonum."
+ },
+ "CRITIQUE_OF_PURE_REASON": {
+  "axes": [
+   "knowledge_origin",
+   "reality_status",
+   "god"
+  ],
+  "positions": [
+   "transcendental_criticism",
+   "idealism"
+  ],
+  "concepts": [
+   "noumenon",
+   "reason",
+   "experience",
+   "cause",
+   "substance",
+   "time",
+   "idea"
+  ],
+  "arguments": [
+   "copernican_revolution",
+   "antinomies"
+  ],
+  "figures": [],
+  "forms": [
+   "critique"
+  ],
+  "schools": [
+   "german_idealism"
+  ],
+  "summary_it": "Opera capitale (1781/1787): l'inchiesta trascendentale sui limiti della conoscenza, che rivoluziona la metafisica facendo ruotare gli oggetti attorno al soggetto conoscente. Distingue fenomeno e noumeno, deduce le categorie e mostra come la ragione cada nelle antinomie quando pretende di andare oltre l'esperienza.",
+  "summary_en": "Kant's central work (1781/1787): the transcendental inquiry into the limits of knowledge that revolutionises metaphysics by making objects turn around the knowing subject. It distinguishes phenomenon from noumenon, deduces the categories, and shows how reason falls into antinomies when it reaches beyond experience."
+ },
+ "DISSERTATION_ON_THE_FORM_AND_PRINCIPLES_OF_THE_SENSIBLE_AND_THE_INTELLIGIBLE_WORLD_INAUGURAL_DISSERTATION_1770": {
+  "axes": [
+   "knowledge_origin",
+   "reality_status"
+  ],
+  "positions": [
+   "transcendental_criticism"
+  ],
+  "concepts": [
+   "time",
+   "reason",
+   "experience",
+   "substance",
+   "noumenon"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "german_idealism"
+  ],
+  "summary_it": "Dissertazione inaugurale del 1770 che segna la svolta verso il criticismo: distingue il mondo sensibile dal mondo intelligibile e mostra che spazio e tempo sono forme soggettive dell'intuizione, non proprieta delle cose. La difficolta soggettiva di rendere intuibili le idee intellettuali non prova un'impossibilita oggettiva.",
+  "summary_en": "The 1770 inaugural dissertation marking the turn toward criticism: it distinguishes the sensible from the intelligible world and shows that space and time are subjective forms of intuition, not properties of things. The subjective difficulty of making intellectual ideas intuitable does not prove an objective impossibility."
+ },
+ "DREAMS_OF_A_SPIRIT-SEER": {
+  "axes": [
+   "soul_body",
+   "method"
+  ],
+  "positions": [
+   "scepticism"
+  ],
+  "concepts": [
+   "soul",
+   "reason",
+   "experience"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Scritto satirico del 1766 che accosta le visioni spiritiche di Swedenborg alle costruzioni dei metafisici, per liberarsi delle une per mezzo delle altre. Kant vi assume un tono ironico e scettico verso ogni pretesa di conoscenza dei mondi spirituali che oltrepassi l'esperienza.",
+  "summary_en": "A satirical 1766 piece pairing Swedenborg's spirit-visions with the metaphysicians' constructions in order to be rid of both by measuring one against the other. Kant adopts an ironic, sceptical stance toward any claimed knowledge of spirit-worlds that oversteps experience."
+ },
+ "FUNDAMENTAL_PRINCIPLES_OF_THE_METAPHYSIC_OF_MORALS": {
+  "axes": [
+   "moral_foundation"
+  ],
+  "positions": [
+   "duty_imperative",
+   "free_will"
+  ],
+  "concepts": [
+   "will",
+   "reason",
+   "freedom",
+   "law"
+  ],
+  "arguments": [
+   "categorical_imperative"
+  ],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "german_idealism"
+  ],
+  "summary_it": "Fondazione (1785) della metafisica dei costumi: cerca e stabilisce il principio supremo della moralita, l'imperativo categorico, separando accuratamente la parte razionale pura da ogni elemento empirico. Solo una buona volonta determinata a priori dalla legge, non dall'inclinazione, ha valore morale.",
+  "summary_en": "The 1785 groundwork of the metaphysic of morals: it seeks and establishes the supreme principle of morality, the categorical imperative, carefully separating the pure rational part from every empirical element. Only a good will determined a priori by law, not by inclination, has moral worth."
+ },
+ "IDEA_FOR_A_UNIVERSAL_HISTORY_WITH_A_COSMOPOLITAN_PURPOSE": {
+  "axes": [
+   "meaning_of_history",
+   "human_nature",
+   "political_legitimacy"
+  ],
+  "positions": [
+   "progress"
+  ],
+  "concepts": [
+   "nature",
+   "reason",
+   "freedom"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Saggio del 1784 sulla filosofia della storia: dietro l'apparente caos delle azioni umane, il filosofo cerca uno scopo naturale che le guida verso il pieno sviluppo delle disposizioni della specie. La storia procede verso una societa civile cosmopolitica, motore essendo l'insocievole socievolezza dell'uomo.",
+  "summary_en": "A 1784 essay in philosophy of history: behind the apparent chaos of human actions the philosopher seeks a natural purpose guiding them toward the full development of the species' predispositions. History moves toward a cosmopolitan civil order, driven by man's unsocial sociability."
+ },
+ "METAPHYSICAL_FOUNDATIONS_OF_NATURAL_SCIENCE": {
+  "axes": [
+   "reality_status",
+   "method"
+  ],
+  "positions": [
+   "transcendental_criticism"
+  ],
+  "concepts": [
+   "nature",
+   "cause",
+   "substance",
+   "reason",
+   "mechanism"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "german_idealism"
+  ],
+  "summary_it": "Trattato (1786) che fornisce i fondamenti metafisici a priori della scienza della natura corporea, articolati in foronomia, dinamica, meccanica e fenomenologia. Solo cio che porta con se certezza apodittica merita il nome di scienza propria, e la fisica lo ottiene dalla sua parte pura razionale.",
+  "summary_en": "A 1786 treatise supplying the a priori metaphysical foundations of the science of corporeal nature, organised into phoronomy, dynamics, mechanics, and phenomenology. Only what carries apodictic certainty deserves the name of science proper, which physics draws from its pure rational part."
+ },
+ "METAPHYSICS_OF_MORALS_THE_PHILOSOPHY_OF_LAW": {
+  "axes": [
+   "political_legitimacy",
+   "moral_foundation",
+   "state_and_individual"
+  ],
+  "positions": [
+   "natural_right",
+   "social_contract",
+   "duty_imperative"
+  ],
+  "concepts": [
+   "justice",
+   "property",
+   "law",
+   "freedom",
+   "state",
+   "covenant"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "german_idealism"
+  ],
+  "summary_it": "Dottrina del diritto (1796), prima parte della Metafisica dei costumi: esposizione razionale dei principi fondamentali della giurisprudenza, dal diritto privato (proprieta, contratto) al diritto pubblico dello Stato e delle nazioni. Ultima grande opera sistematica di Kant, scritta all'ombra della Rivoluzione.",
+  "summary_en": "The doctrine of right (1796), first part of the Metaphysic of Morals: a rational exposition of the fundamental principles of jurisprudence, from private right (property, contract) to the public right of the state and of nations. Kant's last great systematic work, written in the shadow of the Revolution."
+ },
+ "OF_THE_INJUSTICE_OF_COUNTERFEITING_BOOKS": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "natural_right"
+  ],
+  "concepts": [
+   "property",
+   "justice",
+   "law"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Breve saggio giuridico che argomenta contro la contraffazione dei libri: la pubblicazione non e il commercio di una merce in nome proprio, ma la conduzione di un affare in nome altrui, cioe dell'autore. Il contraffattore gestisce l'affare di un altro contro la sua volonta e deve percio cederne i profitti.",
+  "summary_en": "A short juridical essay arguing against the counterfeiting of books: publication is not the trade of a good in one's own name but the conducting of business in another's name, namely the author's. The counterfeiter transacts another's business against his will and must therefore surrender its profits."
+ },
+ "ON_EDUCATION": {
+  "axes": [
+   "human_nature",
+   "moral_foundation"
+  ],
+  "positions": [],
+  "concepts": [
+   "education",
+   "reason",
+   "virtue",
+   "freedom"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "lecture"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Note delle lezioni di pedagogia (pubblicate da Rink nel 1803): l'uomo diventa uomo solo attraverso l'educazione, articolata in cura, disciplina, istruzione e formazione morale. L'impianto e etico kantiano, ma l'atteggiamento resta induttivo e sperimentale, debitore verso l'Emilio di Rousseau.",
+  "summary_en": "Notes from Kant's lectures on pedagogy (published by Rink in 1803): man becomes man only through education, articulated as care, discipline, instruction, and moral formation. The framework is Kantian ethics, but the attitude stays inductive and experimental, indebted to Rousseau's Emile."
+ },
+ "PERPETUAL_PEACE": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual",
+   "meaning_of_history"
+  ],
+  "positions": [
+   "social_contract",
+   "natural_right",
+   "progress"
+  ],
+  "concepts": [
+   "state",
+   "law",
+   "freedom",
+   "reason"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Saggio del 1795 in forma di trattato di pace: la pace perpetua e un ideale non utopico ma un principio morale che deve, e dunque puo, realizzarsi. La sola garanzia duratura tra le nazioni e una federazione di liberi Stati repubblicani (rappresentativi).",
+  "summary_en": "A 1795 essay cast as a peace treaty: perpetual peace is an ideal not utopian but a moral principle that ought to be, and therefore can be, realised. The only lasting guarantee among nations is a federation of free republican (representative) states."
+ },
+ "PROLEGOMENA_TO_ANY_FUTURE_METAPHYSICS_THAT_WILL_BE_ABLE_TO_PRESENT_ITSELF_AS_A_SCIENCE": {
+  "axes": [
+   "knowledge_origin",
+   "reality_status"
+  ],
+  "positions": [
+   "transcendental_criticism"
+  ],
+  "concepts": [
+   "reason",
+   "experience",
+   "cause",
+   "noumenon",
+   "substance"
+  ],
+  "arguments": [
+   "copernican_revolution",
+   "antinomies"
+  ],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "german_idealism"
+  ],
+  "summary_it": "Prolegomeni (1783): esposizione analitica e piu accessibile dei risultati della Critica della ragion pura, destinata ai futuri maestri. Pone la domanda preliminare se la metafisica sia possibile come scienza, muovendo dal fatto della conoscenza sintetica a priori.",
+  "summary_en": "The Prolegomena (1783): an analytic, more accessible presentation of the results of the Critique of Pure Reason, meant for future teachers. It poses the preliminary question whether metaphysics is possible as a science, starting from the fact of synthetic a priori cognition."
+ },
+ "RELIGION_WITHIN_THE_BOUNDS_OF_BARE_REASON": {
+  "axes": [
+   "god",
+   "human_nature",
+   "moral_foundation",
+   "faith_reason"
+  ],
+  "positions": [
+   "deism",
+   "original_sin"
+  ],
+  "concepts": [
+   "religion",
+   "reason",
+   "faith",
+   "freedom"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Trattato sulla religione entro i limiti della sola ragione: apre con la dottrina del male radicale, la coabitazione del principio cattivo accanto al buono e la propensione al male nella natura umana. Il male non si inferisce dalle azioni ma da massime cattive, radicate in un fondamento libero soggettivo.",
+  "summary_en": "A treatise on religion within the bounds of bare reason, opening with the doctrine of radical evil, the indwelling of the bad principle alongside the good, and the propensity to evil in human nature. Evil is inferred not from actions but from bad maxims rooted in a free subjective ground."
+ }
+}

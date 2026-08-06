@@ -1,0 +1,207 @@
+{
+ "Ethics": {
+  "axes": [
+   "god",
+   "reality_status",
+   "freedom_necessity",
+   "soul_body",
+   "method",
+   "end_of_life"
+  ],
+  "positions": [
+   "pantheism",
+   "monism",
+   "determinism",
+   "geometric_method",
+   "beatitude"
+  ],
+  "concepts": [
+   "substance",
+   "attribute",
+   "mode",
+   "conatus",
+   "natura_naturans",
+   "natura_naturata",
+   "amor_dei_intellectualis",
+   "reason",
+   "passion",
+   "freedom"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "L'Etica, esposta more geometrico con definizioni, assiomi e proposizioni, dimostra che esiste una sola sostanza infinita, Dio ossia la Natura (Deus sive Natura), di cui pensiero ed estensione sono attributi e ogni cosa finita un modo. Ne discende un monismo rigoroso in cui mente e corpo sono lo stesso ordine espresso sotto attributi diversi, e un determinismo integrale: tutto segue con necessità dalla natura divina, sicché la libertà non e libero arbitrio ma comprensione adeguata della necessita. Ogni cosa persevera nel proprio essere per conatus, e le passioni schiavizzano finche non sono conosciute attraverso la ragione. Il fine dell'uomo e la beatitudine, che coincide con la virtù stessa e culmina nell'amore intellettuale di Dio.",
+  "summary_en": "The Ethics, set out more geometrico through definitions, axioms, and propositions, demonstrates that only one infinite substance exists, God or Nature (Deus sive Natura), of which thought and extension are attributes and every finite thing a mode. From this follows a strict monism in which mind and body are the same order expressed under different attributes, and a thoroughgoing determinism: all things follow with necessity from the divine nature, so that freedom is not free will but adequate understanding of necessity. Each thing strives to persevere in its being through conatus, and the passions enslave until they are grasped by reason. The human end is blessedness, which is virtue itself and culminates in the intellectual love of God."
+ },
+ "Political_Treatise": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual"
+  ],
+  "positions": [
+   "natural_right",
+   "sovereignty",
+   "civil_society"
+  ],
+  "concepts": [
+   "state",
+   "law",
+   "freedom"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Il Trattato politico fonda la scienza dello Stato sugli uomini quali sono, mossi dalle passioni, non quali si vorrebbero, rifiutando le utopie dei moralisti. Il diritto di ciascuno si estende quanto la sua potenza (diritto naturale), e la ragione consiglia agli individui di unire le proprie forze trasferendo il diritto alla suprema autorità, così costituendo la società civile e la sovranità. Spinoza esamina come monarchia e aristocrazia debbano ordinarsi per non degenerare in tirannide, misurando la stabilità di ogni regime dalla sua capacità di conservare la pace e la libertà. L'opera, interrotta dalla morte, si arresta alle soglie della trattazione della democrazia.",
+  "summary_en": "The Political Treatise grounds the science of the state on men as they actually are, driven by the passions, rather than as one would wish them, rejecting the utopias of the moralists. Each person's right extends as far as his power (natural right), and reason counsels individuals to unite their strength by transferring right to a supreme authority, thereby constituting civil society and sovereignty. Spinoza examines how monarchy and aristocracy must be ordered so as not to degenerate into tyranny, measuring the stability of each regime by its capacity to preserve peace and freedom. The work, cut short by his death, breaks off on the threshold of the treatment of democracy."
+ },
+ "Selected_Letters": {
+  "axes": [
+   "god",
+   "reality_status",
+   "freedom_necessity",
+   "soul_body"
+  ],
+  "positions": [
+   "pantheism",
+   "monism",
+   "determinism"
+  ],
+  "concepts": [
+   "substance",
+   "attribute",
+   "mode",
+   "nature",
+   "infinity",
+   "cause",
+   "freedom"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Le Lettere raccolgono la corrispondenza filosofica di Spinoza, avviata da Oldenburg, in cui l'autore chiarisce e difende i cardini del proprio sistema. Definisce Dio come sostanza assoluta infinita e ne deriva definizioni, assiomi e prime proposizioni dell'Etica, distinguendo l'infinito della sostanza dal finito dei modi. Discute la necessità di tutte le cose e il senso della libertà, l'origine dell'errore e del male, e critica i difetti delle filosofie cartesiana e baconiana. Le lettere mostrano il pensiero spinoziano in dialogo vivo su metafisica, Dio e natura.",
+  "summary_en": "The Letters gather Spinoza's philosophical correspondence, initiated by Oldenburg, in which he clarifies and defends the pillars of his system. He defines God as absolutely infinite substance and derives from it definitions, axioms, and the first propositions of the Ethics, distinguishing the infinity of substance from the finitude of the modes. He discusses the necessity of all things and the meaning of freedom, the origin of error and evil, and criticizes the defects of the Cartesian and Baconian philosophies. The letters display Spinozan thought in living dialogue on metaphysics, God, and nature."
+ },
+ "Short_Treatise_on_God_Man_and_His_Well-Being": {
+  "axes": [
+   "god",
+   "reality_status",
+   "soul_body",
+   "freedom_necessity",
+   "knowledge_origin",
+   "end_of_life"
+  ],
+  "positions": [
+   "pantheism",
+   "monism",
+   "determinism",
+   "rationalism",
+   "beatitude"
+  ],
+  "concepts": [
+   "substance",
+   "attribute",
+   "mode",
+   "natura_naturans",
+   "natura_naturata",
+   "will",
+   "reason",
+   "passion",
+   "nature",
+   "amor_dei_intellectualis"
+  ],
+  "arguments": [
+   "ontological_argument"
+  ],
+  "figures": [],
+  "forms": [
+   "treatise",
+   "dialogue"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Abbozzo giovanile dell'Etica, il trattato deduce l'esistenza di un Dio unico e infinito che coincide con la natura stessa, distinguendo la natura naturans (Dio come causa attiva) dalla natura naturata (l'insieme dei modi). Da questa sostanza unica dotata di infiniti attributi Spinoza fa discendere un rigoroso determinismo, in cui nulla puo' essere o essere concepito senza Dio. La seconda parte analizza opinione, credenza e vera conoscenza, mostrando come le passioni nascano dalle idee inadeguate. Il fine dell'uomo e' la beatitudine, l'unione conoscitiva e amorosa con Dio che costituisce la vera liberta'.",
+  "summary_en": "An early sketch of the Ethics, the treatise deduces the existence of a single infinite God who is identical with Nature itself, distinguishing natura naturans (God as active cause) from natura naturata (the totality of modes). From this one substance endowed with infinite attributes Spinoza derives a strict determinism in which nothing can be or be conceived without God. The second part examines opinion, belief and true knowledge, showing how the passions arise from inadequate ideas. Human well-being consists in beatitude, the cognitive and loving union with God that constitutes true freedom."
+ },
+ "Theological-Political_Treatise": {
+  "axes": [
+   "state_and_individual",
+   "political_legitimacy",
+   "faith_reason",
+   "god"
+  ],
+  "positions": [
+   "liberty_of_conscience",
+   "toleration",
+   "natural_right",
+   "social_contract",
+   "pantheism"
+  ],
+  "concepts": [
+   "religion",
+   "revelation",
+   "freedom",
+   "state",
+   "law",
+   "miracle",
+   "reason",
+   "nature"
+  ],
+  "arguments": [
+   "against_miracles",
+   "state_of_nature"
+  ],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Pubblicato anonimo, il trattato difende la liberta' di pensiero e di parola come necessaria tanto alla pieta' quanto alla pace dello Stato. Spinoza separa nettamente la teologia dalla filosofia: la Scrittura insegna l'obbedienza e la carita', non la verita' speculativa, e va interpretata storicamente e criticamente. Nega i miracoli come violazioni dell'ordine naturale, poiche' nulla accade contro le leggi immutabili della natura, che sono i decreti stessi di Dio. Sul piano politico, dal diritto naturale e da un patto sociale deriva un potere sovrano che deve garantire la liberta' di coscienza e tollerare il dissenso.",
+  "summary_en": "Published anonymously, the treatise defends freedom of thought and speech as necessary both to piety and to the peace of the state. Spinoza sharply separates theology from philosophy: Scripture teaches obedience and charity, not speculative truth, and must be interpreted historically and critically. He denies miracles as violations of the natural order, since nothing happens against the immutable laws of nature, which are the very decrees of God. Politically, from natural right and a social compact he derives a sovereign power that must secure liberty of conscience and tolerate dissent."
+ },
+ "Treatise_on_the_Emendation_of_the_Intellect": {
+  "axes": [
+   "knowledge_origin",
+   "method",
+   "end_of_life"
+  ],
+  "positions": [
+   "rationalism",
+   "geometric_method",
+   "beatitude"
+  ],
+  "concepts": [
+   "idea",
+   "reason",
+   "experience",
+   "nature"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "continental_rationalism"
+  ],
+  "summary_it": "Opera incompiuta, il trattato muove dalla ricerca di un bene vero e stabile capace di procurare una felicita' continua, dopo aver constatato la vanita' di ricchezze, onori e piaceri sensibili. Spinoza propone allora un metodo per emendare e purificare l'intelletto, distinguendo i gradi di percezione dall'ascolto e dall'esperienza vaga fino alla conoscenza adeguata delle cose per la loro causa. Il fine e' formare idee vere e chiare, riflettendo sull'idea stessa come norma del vero, senza bisogno di uno strumento esterno. Il metodo apre la via alla conoscenza dell'unione della mente con l'intera natura.",
+  "summary_en": "An unfinished work, the treatise begins from the search for a true and stable good capable of yielding continuous happiness, after finding riches, honour and sensual pleasure to be vain. Spinoza then proposes a method for emending and purifying the intellect, distinguishing degrees of perception from hearsay and vague experience up to adequate knowledge of things through their cause. The aim is to form true and clear ideas, reflecting on the idea itself as the standard of truth without needing an external instrument. The method opens the way to knowledge of the union of the mind with the whole of nature."
+ }
+}

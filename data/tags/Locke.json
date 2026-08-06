@@ -1,0 +1,437 @@
+{
+ "A_FOURTH_LETTER_FOR_TOLERATION": {
+  "axes": [
+   "state_and_individual",
+   "god"
+  ],
+  "positions": [
+   "toleration",
+   "liberty_of_conscience"
+  ],
+  "concepts": [
+   "religion",
+   "faith",
+   "law"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Ultima replica polemica (dopo dodici anni) nella controversia con Jonas Proast: Locke deride il metodo dell'avversario di rispondere 'per campione' e ribadisce che la costrizione del magistrato in materia di religione resta ingiusta e inefficace.",
+  "summary_en": "Locke's last polemical reply (after twelve years) in the controversy with Jonas Proast: he mocks the opponent's method of answering 'by specimen' and reaffirms that the magistrate's use of force in religion remains unjust and ineffective."
+ },
+ "A_LETTER_CONCERNING_TOLERATION_1689": {
+  "axes": [
+   "state_and_individual",
+   "god"
+  ],
+  "positions": [
+   "toleration",
+   "liberty_of_conscience"
+  ],
+  "concepts": [
+   "religion",
+   "faith",
+   "justice"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Il classico manifesto della tolleranza: la vera Chiesa si riconosce dalla carita', non dalla forza; il compito civile del magistrato e la cura delle anime sono ambiti distinti, e la coercizione religiosa e' contraria allo spirito del Vangelo.",
+  "summary_en": "The classic manifesto of toleration: the true Church is marked by charity, not force; the magistrate's civil office and the care of souls are distinct spheres, and religious coercion is contrary to the spirit of the Gospel."
+ },
+ "A_PARAPHRASE_AND_NOTES_ON_THE_EPISTLES_OF_ST_PAUL_TO_THE_GALATIANS_1_AND_2_CORINTHIANS_ROMANS_EPHESIANS": {
+  "axes": [
+   "god",
+   "faith_reason"
+  ],
+  "positions": [],
+  "concepts": [
+   "revelation",
+   "faith",
+   "grace",
+   "religion",
+   "divine_law",
+   "law"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Parafrasi e note esegetiche delle epistole paoline (Galati, Corinzi, Romani, Efesini), precedute da un saggio sul metodo per capire San Paolo consultando Paolo stesso: opera di ermeneutica scritturale, non di filosofia politica.",
+  "summary_en": "Paraphrase and exegetical notes on the Pauline epistles (Galatians, Corinthians, Romans, Ephesians), prefaced by an essay on understanding St. Paul by consulting Paul himself: a work of scriptural hermeneutics, not political philosophy."
+ },
+ "A_SECOND_LETTER_CONCERNING_TOLERATION": {
+  "axes": [
+   "state_and_individual",
+   "god"
+  ],
+  "positions": [
+   "toleration",
+   "liberty_of_conscience"
+  ],
+  "concepts": [
+   "religion",
+   "faith"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Risposta a Jonas Proast: poiche' egli stesso ammette che la forza e' inadatta a far abbracciare la verita' che salva, Locke mostra che ogni punizione per motivi religiosi e' persecuzione ingiusta e chiede la tolleranza anche di pagani, maomettani ed ebrei.",
+  "summary_en": "Reply to Jonas Proast: since Proast himself admits force is unfit to make men embrace saving truth, Locke shows that any punishment for religion is unjust persecution and demands toleration even of pagans, Muslims, and Jews."
+ },
+ "A_SECOND_VINDICATION_OF_THE_REASONABLENESS_OF_CHRISTIANITY": {
+  "axes": [
+   "god",
+   "faith_reason"
+  ],
+  "positions": [
+   "harmony_of_faith_reason"
+  ],
+  "concepts": [
+   "faith",
+   "revelation",
+   "religion",
+   "reason"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Ampia difesa contro John Edwards, che lo accusava di socinianesimo: Locke insiste che l'unico articolo di fede necessario e' che Gesu' e' il Messia e riporta la disputa dai personalismi al merito scritturale della sua dottrina.",
+  "summary_en": "Extended defence against John Edwards, who charged him with Socinianism: Locke insists that the one necessary article of faith is that Jesus is the Messiah, and brings the dispute back from personal attacks to the scriptural merits of his doctrine."
+ },
+ "A_THIRD_LETTER_FOR_TOLERATION": {
+  "axes": [
+   "state_and_individual",
+   "god"
+  ],
+  "positions": [
+   "toleration",
+   "liberty_of_conscience"
+  ],
+  "concepts": [
+   "religion",
+   "faith",
+   "law"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Lunghissima confutazione capitolo per capitolo dello schema di Proast: se il magistrato dovesse usare la forza per la 'vera' religione, ogni magistrato che crede vera la propria sarebbe tenuto a imporla, riducendo all'assurdo la pretesa persecutoria.",
+  "summary_en": "A very long chapter-by-chapter refutation of Proast's scheme: if the magistrate must use force for the 'true' religion, then every magistrate who believes his own true would be bound to impose it, reducing the persecuting claim to absurdity."
+ },
+ "A_VINDICATION_OF_THE_REASONABLENESS_OF_CHRISTIANITY": {
+  "axes": [
+   "god",
+   "faith_reason"
+  ],
+  "positions": [
+   "harmony_of_faith_reason"
+  ],
+  "concepts": [
+   "faith",
+   "religion",
+   "reason",
+   "revelation"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Breve replica a John Edwards, che aveva incluso la 'Ragionevolezza del cristianesimo' tra le cause dell'ateismo: Locke rigetta l'accusa di socinianesimo-ateismo e difende la carita' e la cautela nell'imputare a qualcuno la negazione di Dio.",
+  "summary_en": "Short reply to John Edwards, who had listed the 'Reasonableness of Christianity' among the causes of atheism: Locke rejects the Socinianism-atheism charge and defends charity and caution in imputing denial of God to anyone."
+ },
+ "AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING": {
+  "axes": [
+   "knowledge_origin",
+   "human_nature",
+   "universals",
+   "reality_status",
+   "god"
+  ],
+  "positions": [
+   "empiricism",
+   "empiricism_moderate",
+   "tabula_rasa",
+   "nominalism",
+   "demonstrative_theism"
+  ],
+  "concepts": [
+   "idea",
+   "experience",
+   "substance",
+   "reason",
+   "cause",
+   "will",
+   "freedom",
+   "memory"
+  ],
+  "arguments": [
+   "no_innate_ideas"
+  ],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "british_empiricism"
+  ],
+  "summary_it": "L'opera fondativa dell'empirismo: nega le idee innate, deriva ogni idea da sensazione e riflessione (la mente come foglio bianco), distingue qualita' primarie e secondarie, essenze reali e nominali, e delimita la portata e i limiti della conoscenza umana.",
+  "summary_en": "The founding work of empiricism: it denies innate ideas, derives all ideas from sensation and reflection (the mind as blank paper), distinguishes primary and secondary qualities and real and nominal essences, and marks out the extent and limits of human knowledge."
+ },
+ "FURTHER_CONSIDERATIONS_CONSIDERING_RAISING_THE_VALUE_OF_MONEY": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "money",
+   "labour",
+   "property"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Scritto economico sulla riforma della moneta: Locke sostiene che il conio non aggiunge valore intrinseco all'argento e si oppone alla svalutazione della coniazione, difendendo un valore metallico fisso per fronteggiare la crisi della moneta tosata.",
+  "summary_en": "Economic tract on currency reform: Locke argues that coining adds no intrinsic value to silver and opposes debasing the coinage, defending a fixed metallic standard to meet the crisis of clipped money."
+ },
+ "MISCELLANEOUS_LETTERS_OF_JOHN_LOCKE": {
+  "axes": [
+   "knowledge_origin"
+  ],
+  "positions": [],
+  "concepts": [
+   "reason",
+   "experience",
+   "friendship"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "british_empiricism"
+  ],
+  "summary_it": "Raccolta di corrispondenza (con Molyneux, Limborch e altri) che discute il 'Saggio sull'intelletto umano', questioni di conoscenza e percezione, e l'amicizia nella ricerca disinteressata della verita'.",
+  "summary_en": "A collection of correspondence (with Molyneux, Limborch, and others) discussing the 'Essay concerning Human Understanding', questions of knowledge and perception, and friendship in the disinterested pursuit of truth."
+ },
+ "MISCELLANEOUS_WORKS": {
+  "axes": [
+   "soul_body",
+   "knowledge_origin",
+   "reality_status"
+  ],
+  "positions": [],
+  "concepts": [
+   "soul",
+   "self_consciousness",
+   "substance",
+   "nature",
+   "experience",
+   "reason",
+   "education"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [
+   "british_empiricism"
+  ],
+  "summary_it": "Miscellanea che raccoglie la difesa dell'identita' personale fondata sulla coscienza, consigli su lettura e studio, gli 'Elementi di filosofia naturale' (materia, moto, sensi, intelletto) e una storia della navigazione: scritti eterogenei di taglio empirico.",
+  "summary_en": "A miscellany gathering the defence of consciousness-based personal identity, advice on reading and study, the 'Elements of Natural Philosophy' (matter, motion, senses, understanding), and a history of navigation: heterogeneous writings of empiricist cast."
+ },
+ "SHORT_OBSERVATIONS_ON_A_PRINTED_PAPER_ENTITLED_FOR_ENCOURAGING_THE_COINAGE_OF_SILVER_MONEY_IN_ENGLAND_AND_AFTER_FOR_KEEPING_IT_THERE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "money",
+   "labour"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Breve pamphlet economico che confuta la tesi secondo cui l'argento coniato varrebbe meno di quello grezzo: il conio non toglie valore intrinseco, e la scarsita' di moneta coniata dipende dalla bilancia commerciale, non dalla zecca.",
+  "summary_en": "A short economic pamphlet refuting the claim that coined silver is worth less than uncoined: the stamp removes no intrinsic value, and the scarcity of minted money is due to the balance of trade, not the mint."
+ },
+ "SOME_CONSIDERATIONS_ON_THE_CONSEQUENCES_OF_THE_LOWERING_OF_INTEREST_AND_THE_RAISING_OF_THE_VALUE_OF_MONEY": {
+  "axes": [],
+  "positions": [],
+  "concepts": [
+   "money",
+   "property",
+   "law",
+   "labour"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "essay"
+  ],
+  "schools": [],
+  "summary_it": "Trattato economico che sostiene che il tasso d'interesse non puo' essere fissato utilmente per legge e analizza le conseguenze di abbassare l'interesse e alzare il valore nominale della moneta, difendendo il valore intrinseco dell'argento.",
+  "summary_en": "An economic treatise arguing that the rate of interest cannot usefully be set by law, analysing the consequences of lowering interest and raising the nominal value of money, and defending the intrinsic value of silver."
+ },
+ "SOME_THOUGHTS_CONCERNING_EDUCATION": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "tabula_rasa"
+  ],
+  "concepts": [
+   "education",
+   "custom",
+   "virtue",
+   "reason",
+   "passion"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Trattato pedagogico, nato da lettere a Edward Clarke: poiche' il carattere si forma soprattutto per abitudine ed educazione piu' che per natura, Locke propone la formazione del gentiluomo attraverso virtu', disciplina dolce, salute del corpo e ragione.",
+  "summary_en": "A pedagogical treatise, grown from letters to Edward Clarke: since character is formed chiefly by habit and education rather than nature, Locke proposes the shaping of the gentleman through virtue, gentle discipline, bodily health, and reason."
+ },
+ "SOME_THOUGHTS_ON_THE_CONDUCT_OF_THE_UNDERSTANDING": {
+  "axes": [
+   "knowledge_origin",
+   "method"
+  ],
+  "positions": [
+   "empiricism",
+   "induction"
+  ],
+  "concepts": [
+   "reason",
+   "idea",
+   "custom",
+   "experience"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "british_empiricism"
+  ],
+  "summary_it": "Complemento pratico del 'Saggio': contro i difetti della logica scolastica e sull'autorita' di Bacone, Locke indaga come guidare rettamente l'intelletto correggendo pregiudizio, parzialita', fretta e cattive associazioni di idee nella ricerca del sapere.",
+  "summary_en": "A practical companion to the 'Essay': against the defects of scholastic logic and on Bacon's authority, Locke inquires how to conduct the understanding rightly by correcting prejudice, partiality, haste, and bad associations of ideas in the search for knowledge."
+ },
+ "THE_POEMS_OF_JOHN_LOCKE": {
+  "axes": [],
+  "positions": [],
+  "concepts": [],
+  "arguments": [],
+  "figures": [],
+  "forms": [],
+  "schools": [],
+  "summary_it": "Tre brevi componimenti occasionali: un epigramma latino-inglese dedicato a Cromwell, un panegirico per le nozze di Carlo II con l'infanta di Portogallo e versi sul trattato sulle febbri di Sydenham; poesia encomiastica, priva di contenuto filosofico.",
+  "summary_en": "Three short occasional pieces: a Latin-English epigram to Cromwell, a panegyric on Charles II's marriage to the Portuguese infanta, and verses on Sydenham's treatise on fevers; encomiastic poetry with no philosophical content."
+ },
+ "THE_REASONABLENESS_OF_CHRISTIANITY_AS_DELIVERED_IN_THE_SCRIPTURES": {
+  "axes": [
+   "god",
+   "faith_reason",
+   "human_nature"
+  ],
+  "positions": [
+   "harmony_of_faith_reason",
+   "original_sin"
+  ],
+  "concepts": [
+   "faith",
+   "grace",
+   "revelation",
+   "religion",
+   "reason",
+   "death"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Lettura scritturale del cristianesimo: partendo dalla caduta di Adamo (perdita di paradiso e immortalita') e dalla redenzione in Cristo, Locke sostiene che l'unico articolo di fede richiesto per la salvezza e' credere che Gesu' e' il Messia, mostrando la ragionevolezza del Vangelo.",
+  "summary_en": "A scriptural reading of Christianity: starting from Adam's fall (loss of paradise and immortality) and redemption in Christ, Locke argues that the one article of faith required for salvation is believing that Jesus is the Messiah, showing the reasonableness of the Gospel."
+ },
+ "TWO_TREATISES_OF_GOVERNMENT": {
+  "axes": [
+   "political_legitimacy",
+   "state_and_individual",
+   "human_nature"
+  ],
+  "positions": [
+   "social_contract",
+   "natural_right",
+   "revolution"
+  ],
+  "concepts": [
+   "property",
+   "labour",
+   "state",
+   "law",
+   "freedom",
+   "money",
+   "covenant",
+   "commonwealth"
+  ],
+  "arguments": [
+   "state_of_nature",
+   "labour_theory_of_property"
+  ],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "enlightenment"
+  ],
+  "summary_it": "Il primo trattato demolisce il patriarcalismo di Filmer; il secondo fonda il governo legittimo sul consenso: dallo stato di natura governato dalla legge naturale, la proprieta' nasce dal lavoro, il potere civile deriva dal patto e il popolo conserva il diritto di resistere e dissolvere un governo tirannico.",
+  "summary_en": "The First Treatise demolishes Filmer's patriarchalism; the Second founds legitimate government on consent: from a state of nature governed by natural law, property arises from labour, civil power derives from compact, and the people retain the right to resist and dissolve a tyrannical government."
+ }
+}

@@ -1,0 +1,775 @@
+{
+ "A_Treatise_Against_Two_Letters_of_the_Pelagians": {
+  "axes": [
+   "human_nature",
+   "freedom_necessity"
+  ],
+  "positions": [
+   "original_sin",
+   "free_will",
+   "grace_perfects_nature"
+  ],
+  "concepts": [
+   "grace",
+   "concupiscence",
+   "predestination",
+   "freedom",
+   "will"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Rispondendo a due lettere pelagiane (attribuite a Giuliano di Eclano) inoltrategli dal vescovo Bonifacio, Agostino confuta l'idea che la grazia sia data secondo i meriti e che la natura umana basti a se stessa. Difende il peccato originale e la concupiscenza come eredità della caduta, ma insiste che il libero arbitrio non è annientato dalla grazia, bensì da essa liberato e sanato. La grazia precede ogni merito e opera anche nei cuori degli empi.",
+  "summary_en": "Responding to two Pelagian letters (ascribed to Julian of Eclanum) forwarded to him by Bishop Boniface, Augustine refutes the claim that grace is granted according to merit and that human nature suffices for righteousness. He upholds original sin and concupiscence as the inheritance of the Fall, while insisting that free will is not destroyed by grace but liberated and healed by it. Grace precedes all merit and operates even in the hearts of the wicked."
+ },
+ "A_Treatise_Concerning_Mans_Perfection_in_Righteousness": {
+  "axes": [
+   "human_nature"
+  ],
+  "positions": [
+   "original_sin",
+   "grace_perfects_nature"
+  ],
+  "concepts": [
+   "grace",
+   "nature",
+   "law",
+   "virtue"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Agostino confuta una serie di definizioni attribuite a Celestio secondo cui l'uomo potrebbe vivere senza peccato con le sole risorse della propria natura. Sostiene che la perfetta giustizia, l'assenza totale di peccato, è irraggiungibile in questa vita senza la grazia che sana la natura corrotta. Esamina poi i passi scritturistici invocati dai pelagiani, mostrando che comandare la perfezione non implica che essa sia conseguibile senza aiuto divino.",
+  "summary_en": "Augustine refutes a set of definitions attributed to Coelestius claiming that man can live without sin by the mere resources of his own nature. He argues that perfect righteousness, complete freedom from sin, is unattainable in this life without the grace that heals corrupted nature. He then examines the scriptural passages invoked by the Pelagians, showing that commanding perfection does not imply it is achievable without divine aid."
+ },
+ "A_Treatise_on_Grace_and_Free_Will": {
+  "axes": [
+   "freedom_necessity",
+   "human_nature"
+  ],
+  "positions": [
+   "free_will",
+   "grace_perfects_nature"
+  ],
+  "concepts": [
+   "grace",
+   "freedom",
+   "will",
+   "predestination"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise",
+   "epistle"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Scritto per i monaci di Adrumeto turbati dalla controversia, Agostino cerca di conciliare l'affermazione della grazia con quella del libero arbitrio, contro chi crede che difendere l'una neghi l'altro. Mostra con Paolo che la grazia non è data secondo i meriti e che ogni bene, fede compresa, è dono di Dio, il quale opera nei cuori inclinandone la volontà. Il libero arbitrio resta reale, ma senza la grazia non può nulla di buono.",
+  "summary_en": "Written for the monks of Adrumetum unsettled by the controversy, Augustine seeks to reconcile the affirmation of grace with that of free will, against those who think defending one denies the other. Drawing on Paul, he shows that grace is not given according to merit and that all good, including faith, is God's gift, God working in hearts to incline the will. Free will remains real, yet without grace it can accomplish nothing good."
+ },
+ "A_Treatise_on_Nature_and_Grace": {
+  "axes": [
+   "human_nature",
+   "freedom_necessity"
+  ],
+  "positions": [
+   "original_sin",
+   "grace_perfects_nature"
+  ],
+  "concepts": [
+   "grace",
+   "nature",
+   "evil_privation",
+   "freedom"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Replicando a un libro di Pelagio che difendeva la sufficienza della natura umana, Agostino sostiene che la natura, creata integra, fu corrotta dal peccato e ha bisogno della grazia che libera e governa la natura, non che le si oppone. Distingue tra la possibilità del bene e la sua attuazione, negando che la sola capacità naturale basti alla giustizia. Tutti sono giustamente condannati nella massa peccatrice se non liberati gratuitamente dalla grazia di Cristo.",
+  "summary_en": "Replying to a book by Pelagius defending the sufficiency of human nature, Augustine argues that nature, created sound, was corrupted by sin and needs the grace that liberates and governs nature rather than opposing it. He distinguishes the mere possibility of good from its actual accomplishment, denying that natural capacity alone suffices for righteousness. All are justly condemned in the sinful mass unless freely delivered by the grace of Christ."
+ },
+ "A_Treatise_on_Rebuke_and_Grace": {
+  "axes": [
+   "freedom_necessity",
+   "human_nature"
+  ],
+  "positions": [
+   "grace_perfects_nature",
+   "free_will"
+  ],
+  "concepts": [
+   "grace",
+   "predestination",
+   "freedom",
+   "will"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Rivolto ai monaci di Adrumeto che deducevano dalla grazia l'inutilità del rimprovero, Agostino difende insieme la necessità della correzione e la sovranità della grazia. La perseveranza nel bene è un dono di Dio, dato agli eletti secondo predestinazione, e nessuno dei predestinati può perire; perché a uno sia dato e a un altro no resta imperscrutabile. Il rimprovero resta però giusto e utile, perché il male procede dalla volontà propria e non si sa chi appartenga al numero dei predestinati.",
+  "summary_en": "Addressed to the monks of Adrumetum who inferred from grace the uselessness of rebuke, Augustine defends both the necessity of correction and the sovereignty of grace. Perseverance in good is God's gift, granted to the elect according to predestination, and none of the predestined can perish; why it is given to one and not another remains inscrutable. Yet rebuke stays just and useful, since evil proceeds from one's own will and it is unknown who belongs to the number of the predestined."
+ },
+ "A_Treatise_on_the_Grace_of_Christ_and_on_Original_Sin": {
+  "axes": [
+   "human_nature",
+   "freedom_necessity"
+  ],
+  "positions": [
+   "original_sin",
+   "grace_perfects_nature"
+  ],
+  "concepts": [
+   "grace",
+   "concupiscence",
+   "nature",
+   "predestination"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "In due libri contro Pelagio e Celestio, Agostino mostra che Pelagio è insincero nel confessare la grazia, riducendola alla natura, al libero arbitrio, alla legge o all'insegnamento, e alla sola 'possibilità' del volere data secondo i meriti. Contro ciò afferma che la grazia vera ispira l'amore e produce il volere e l'agire buono, senza precedenti meriti. Il secondo libro difende il peccato originale trasmesso a tutti, contro la sua negazione pelagiana, richiamando anche la testimonianza di Ambrogio.",
+  "summary_en": "In two books against Pelagius and Coelestius, Augustine shows that Pelagius is disingenuous in confessing grace, reducing it to nature, free will, law or teaching, and to the mere 'possibility' of willing given according to merit. Against this he affirms that true grace inspires love and produces good willing and acting, with no preceding merits. The second book defends original sin transmitted to all, against its Pelagian denial, invoking also the testimony of Ambrose."
+ },
+ "A_Treatise_on_the_Merits_and_Forgiveness_of_Sins_and_on_the_Baptism_of_Infants": {
+  "axes": [
+   "human_nature",
+   "freedom_necessity",
+   "faith_reason"
+  ],
+  "positions": [
+   "original_sin"
+  ],
+  "concepts": [
+   "grace",
+   "concupiscence",
+   "sacrament",
+   "death"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Primo grande scritto antipelagiano: Agostino sostiene che la morte e il peccato non derivano dalla natura ma dalla colpa di Adamo, trasmessa a tutta la sua discendenza per generazione e non per semplice imitazione. Ne conclude che anche i neonati vanno battezzati per la remissione del peccato originale, e che nessuno in questa vita è senza peccato: solo Cristo giustifica, per grazia. Contro Pelagio difende la necessità della grazia e la realtà del peccato ereditario.",
+  "summary_en": "Augustine's first major anti-Pelagian work: he argues that death and sin stem not from nature but from Adam's guilt, transmitted to all his descendants by generation and not by mere imitation. He concludes that infants too must be baptized for the remission of original sin, and that no one in this life is without sin: only Christ justifies, by grace. Against Pelagius he defends the necessity of grace and the reality of inherited sin."
+ },
+ "A_Treatise_on_the_Predestination_of_the_Saints": {
+  "axes": [
+   "human_nature",
+   "freedom_necessity",
+   "faith_reason"
+  ],
+  "positions": [
+   "original_sin"
+  ],
+  "concepts": [
+   "grace",
+   "predestination",
+   "faith",
+   "will"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Contro i semipelagiani (i Massiliensi), Agostino sostiene che non solo l'accrescimento ma anche l'inizio stesso della fede è dono di Dio, non un merito precedente dell'uomo. La grazia distingue gratuitamente l'eletto dal reprobo, come mostra il caso dei bambini salvati senza meriti propri, e la predestinazione riposa sull'eterno proposito divino, non sulla prescienza dei meriti. L'esempio supremo di predestinazione e grazia è Cristo stesso.",
+  "summary_en": "Against the semi-Pelagians (the Massilians), Augustine argues that not only the increase but the very beginning of faith is God's gift, not a prior human merit. Grace freely distinguishes the elect from the reprobate, as shown by infants saved without merits of their own, and predestination rests on God's eternal purpose, not on foreknowledge of merits. The supreme instance of predestination and grace is Christ himself."
+ },
+ "A_Treatise_on_the_Soul_and_Its_Origin": {
+  "axes": [
+   "soul_body",
+   "reality_status",
+   "human_nature"
+  ],
+  "positions": [
+   "substance_dualism",
+   "original_sin"
+  ],
+  "concepts": [
+   "soul",
+   "grace",
+   "concupiscence"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Rispondendo al giovane Vincenzo Vittore, Agostino difende la propria cautela sull'origine dell'anima (se propagata da Adamo o creata singolarmente per ciascuno) ma respinge con fermezza la tesi che l'anima sia corporea: essa è spirito, non corpo. Confuta gli errori di Vittore, che riprendono suggestioni pelagiane, difendendo la retta dottrina sulla natura dell'anima e sulla trasmissione del peccato.",
+  "summary_en": "Replying to the young Vincentius Victor, Augustine defends his own reserve on the origin of the soul (whether propagated from Adam or created individually for each person) but firmly rejects the claim that the soul is corporeal: it is spirit, not body. He refutes Victor's errors, which echo Pelagian conceits, defending sound doctrine on the nature of the soul and the transmission of sin."
+ },
+ "A_Treatise_on_the_Spirit_and_the_Letter": {
+  "axes": [
+   "human_nature",
+   "freedom_necessity",
+   "faith_reason",
+   "moral_foundation"
+  ],
+  "positions": [
+   "original_sin"
+  ],
+  "concepts": [
+   "grace",
+   "law",
+   "faith",
+   "will"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Muovendo da \"la lettera uccide, lo spirito vivifica\", Agostino distingue la Legge, che comanda ma non giustifica, dalla grazia dello Spirito che sola rende capaci di operare il bene. Contro i pelagiani nega che l'aiuto divino consista nel dono della legge: è la volontà stessa, senza cui nulla di buono facciamo, a essere sollevata dallo Spirito. La giustizia perfetta è di fatto senza esempio tra gli uomini, ma non impossibile con l'aiuto di Dio.",
+  "summary_en": "Starting from \"the letter killeth, the spirit giveth life,\" Augustine distinguishes the Law, which commands but does not justify, from the grace of the Spirit that alone enables good works. Against the Pelagians he denies that divine help lies in the gift of the law: it is the will itself, without which we do nothing good, that is raised by the Spirit. Perfect righteousness is in fact unexampled among men, yet not impossible with God's help."
+ },
+ "A_Work_on_the_Proceedings_of_Pelagius": {
+  "axes": [
+   "human_nature",
+   "faith_reason"
+  ],
+  "positions": [
+   "original_sin"
+  ],
+  "concepts": [
+   "grace",
+   "faith"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Agostino esamina gli atti del sinodo di Palestina che assolse Pelagio, discutendo capo per capo le accuse e le risposte dell'imputato. Mostra che l'assoluzione fu possibile solo perché Pelagio condannò a parole le stesse dottrine che gli erano imputate, sicché fu la persona a essere prosciolta ma l'eresia stessa a essere condannata. Il sospetto di eterodossia resta dunque intatto.",
+  "summary_en": "Augustine examines the acts of the Palestinian synod that acquitted Pelagius, discussing the charges and his answers item by item. He shows that acquittal was possible only because Pelagius verbally condemned the very doctrines imputed to him, so that the man was cleared but the heresy itself condemned. The suspicion of heterodoxy therefore remains intact."
+ },
+ "City_of_God": {
+  "axes": [
+   "meaning_of_history",
+   "god",
+   "human_nature",
+   "time_and_death"
+  ],
+  "positions": [
+   "providence",
+   "original_sin",
+   "eternity"
+  ],
+  "concepts": [
+   "two_cities",
+   "justice",
+   "state",
+   "evil_privation",
+   "charity"
+  ],
+  "arguments": [],
+  "figures": [
+   "cicero"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Scritto dopo il sacco di Roma del 410 per confutare l'accusa che il cristianesimo avesse causato la rovina dell'impero, Agostino contrappone due città intrecciate nella storia: la città terrena, fondata sull'amore di sé, e la città di Dio, fondata sull'amore di Dio. Critica la religione pagana e la falsa grandezza di Roma, legge gli eventi alla luce della provvidenza divina e orienta la storia verso il destino eterno delle due città, la dannazione e la beatitudine. La vera giustizia è possibile solo nella città di Dio.",
+  "summary_en": "Written after the 410 sack of Rome to rebut the charge that Christianity had caused the empire's ruin, Augustine contrasts two cities interwoven in history: the earthly city, founded on love of self, and the City of God, founded on love of God. He criticizes pagan religion and Rome's false greatness, reads events in light of divine providence, and orients history toward the eternal destiny of the two cities, damnation and beatitude. True justice is possible only in the City of God."
+ },
+ "Doctrinal_Treatises_of_St_Augustin": {
+  "axes": [
+   "god",
+   "faith_reason",
+   "knowledge_origin"
+  ],
+  "positions": [
+   "faith_seeking_understanding"
+  ],
+  "concepts": [
+   "substance",
+   "soul",
+   "memory",
+   "faith",
+   "revelation"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Raccolta di trattati dottrinali imperniata sui quindici libri sulla Trinità, dove Agostino difende l'unità e l'uguaglianza delle tre Persone contro chi ne assale la fede abusando della ragione. Contro chi disdegna di partire dalla fede, afferma che occorre credere per comprendere: nutriti dalla fede, ci innalziamo gradualmente alle realtà divine. Ricerca poi immagini della Trinità nella mente umana (memoria, intelletto, volontà) e discute la natura di Dio, dei miracoli e della rivelazione.",
+  "summary_en": "A collection of doctrinal treatises centered on the fifteen books On the Trinity, where Augustine defends the unity and equality of the three Persons against those who assail the faith by misusing reason. Against those who disdain to begin with faith, he holds that one must believe in order to understand: nourished by faith, we rise gradually to divine realities. He then seeks images of the Trinity in the human mind (memory, understanding, will) and discusses the nature of God, of miracles, and of revelation."
+ },
+ "Expositions_on_the_Book_of_Psalms": {
+  "axes": [
+   "god",
+   "human_nature",
+   "end_of_life"
+  ],
+  "positions": [
+   "beatitude"
+  ],
+  "concepts": [
+   "grace",
+   "faith",
+   "soul",
+   "wisdom",
+   "two_cities"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "sermon"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Vasta raccolta di esposizioni omiletiche sui Salmi, letti costantemente in chiave cristologica: la voce che parla nei Salmi è quella di Cristo e del suo corpo, la Chiesa. Agostino interpreta allegoricamente i simboli del testo per edificare i fedeli, mostrando come le sofferenze e le speranze del salmista prefigurino il cammino dell'anima verso Dio. Ricorrono i temi della grazia, della fede che sostiene le anime, del pellegrinaggio terreno e della beatitudine finale come vero riposo del cuore.",
+  "summary_en": "A vast collection of homiletic expositions on the Psalms, read consistently in a Christological key: the voice speaking in the Psalms is that of Christ and of his body, the Church. Augustine interprets the text's symbols allegorically for the edification of the faithful, showing how the psalmist's sufferings and hopes prefigure the soul's journey toward God. Recurring themes are grace, the faith that sustains souls, the earthly pilgrimage, and final beatitude as the heart's true rest."
+ },
+ "Lectures_Or_Tractates_on_the_Gospel_According_to_St_John": {
+  "axes": [
+   "knowledge_origin",
+   "god",
+   "faith_reason",
+   "human_nature"
+  ],
+  "positions": [
+   "divine_illumination",
+   "faith_seeking_understanding"
+  ],
+  "concepts": [
+   "faith",
+   "grace",
+   "soul",
+   "wisdom",
+   "revelation",
+   "charity"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "sermon"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Serie di trattati omiletici che commentano versetto per versetto il Vangelo di Giovanni, dal prologo sul Verbo eterno fino alla risurrezione. Agostino insiste che le realtà spirituali non sono colte dall'uomo carnale ma solo dalle anime illuminate dalla Sapienza divina, che trasmettono la fede alle anime più piccole. Il commento intreccia la dottrina del Verbo incarnato, la necessità della grazia e la fede che cerca di comprendere il mistero di Dio.",
+  "summary_en": "A series of homiletic tractates commenting verse by verse on the Gospel of John, from the prologue on the eternal Word to the resurrection. Augustine insists that spiritual realities are not grasped by the carnal man but only by souls illuminated by divine Wisdom, who then transmit faith to lesser souls. The commentary weaves together the doctrine of the incarnate Word, the necessity of grace, and faith seeking to understand the mystery of God."
+ },
+ "Letters_of_St_Augustin": {
+  "axes": [
+   "knowledge_origin",
+   "god",
+   "faith_reason",
+   "human_nature"
+  ],
+  "positions": [
+   "faith_seeking_understanding"
+  ],
+  "concepts": [
+   "faith",
+   "grace",
+   "soul",
+   "wisdom",
+   "religion"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "epistle"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Ampio epistolario che spazia dalla giovinezza filosofica di Agostino alla piena maturità di vescovo, toccando la critica dello scetticismo accademico, la difesa della possibilità di raggiungere la verità, le controversie dottrinali e le questioni pastorali. Le lettere mostrano il passaggio dall'imitazione dei filosofi alla fede cristiana come luogo del vero riposo dell'anima. Ricorrono i temi della grazia, della sapienza, della natura dell'anima e della fede che cerca l'intelligenza.",
+  "summary_en": "A large body of correspondence ranging from Augustine's philosophical youth to his full maturity as a bishop, touching on the critique of Academic scepticism, the defense of the attainability of truth, doctrinal controversies, and pastoral questions. The letters trace the movement from imitation of the philosophers to Christian faith as the place of the soul's true rest. Recurring themes are grace, wisdom, the nature of the soul, and faith seeking understanding."
+ },
+ "Moral_Treatises_of_St_Augustin": {
+  "axes": [
+   "moral_foundation",
+   "human_nature",
+   "freedom_necessity",
+   "god"
+  ],
+  "positions": [
+   "virtue_ethics",
+   "free_will"
+  ],
+  "concepts": [
+   "grace",
+   "virtue",
+   "concupiscence",
+   "will",
+   "soul"
+  ],
+  "arguments": [],
+  "figures": [
+   "mani"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Raccolta di trattati morali (tra cui 'De continentia') che indagano le virtù della vita cristiana, in particolare la continenza intesa come dono di Dio prima che come conquista umana. Agostino distingue la bocca del corpo dalla bocca del cuore, mostrando come la vera continenza governi il consenso interiore della volontà. Contro l'errore manicheo difende la bontà della creazione e la responsabilità della volontà, sostenendo che ogni virtù è sorretta dalla grazia divina.",
+  "summary_en": "A collection of moral treatises (including 'On Continence') examining the virtues of the Christian life, especially continence understood as God's gift before it is a human achievement. Augustine distinguishes the mouth of the body from the mouth of the heart, showing how true continence governs the inner consent of the will. Against the Manichaean error he defends the goodness of creation and the responsibility of the will, holding that every virtue is upheld by divine grace."
+ },
+ "On_Christian_Doctrine": {
+  "axes": [
+   "knowledge_origin",
+   "faith_reason",
+   "god"
+  ],
+  "positions": [
+   "faith_seeking_understanding",
+   "divine_illumination"
+  ],
+  "concepts": [
+   "faith",
+   "wisdom",
+   "soul",
+   "grace",
+   "revelation",
+   "charity"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Manuale di teologia esegetica in quattro libri che guida alla scoperta e all'espressione del senso della Scrittura. Agostino distingue le cose dai segni e i beni da usare da quelli di cui godere, ponendo il Dio trino come unico oggetto del vero godimento e fine ultimo dell'anima. La ricerca del significato richiede la purificazione dell'anima e l'illuminazione della Sapienza incarnata; l'ultimo libro insegna come comunicare con efficacia la verità scoperta.",
+  "summary_en": "A four-book manual of exegetical theology guiding the discovery and expression of the meaning of Scripture. Augustine distinguishes things from signs, and goods to be used from goods to be enjoyed, positing the triune God as the sole object of true enjoyment and the soul's ultimate end. The search for meaning requires the purification of the soul and the illumination of incarnate Wisdom; the final book teaches how to communicate the discovered truth effectively."
+ },
+ "On_Marriage_and_Concupiscence": {
+  "axes": [
+   "human_nature",
+   "moral_foundation",
+   "freedom_necessity",
+   "god"
+  ],
+  "positions": [
+   "original_sin"
+  ],
+  "concepts": [
+   "concupiscence",
+   "grace",
+   "will",
+   "soul",
+   "predestination"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Trattato anti-pelagiano in due libri, indirizzato al conte Valerio, che difende insieme la bontà del matrimonio e la dottrina del peccato originale. Agostino sostiene che la concupiscenza della carne è un male ereditato dal peccato del primo uomo, di cui però la castità coniugale fa buon uso nella procreazione: il matrimonio è buono, ma la libidine che lo accompagna è difetto della natura ferita, non del matrimonio stesso. Contro Pelagio e Giuliano ribadisce che i figli nascono soggetti al peccato e bisognosi della grazia redentrice di Cristo.",
+  "summary_en": "A two-book anti-Pelagian treatise addressed to Count Valerius that defends both the goodness of marriage and the doctrine of original sin. Augustine argues that the concupiscence of the flesh is an evil inherited from the first man's sin, of which conjugal chastity nonetheless makes good use in procreation: marriage is good, but the lust accompanying it is a flaw of wounded nature, not of marriage itself. Against Pelagius and Julian he reaffirms that children are born subject to sin and in need of the redeeming grace of Christ."
+ },
+ "Our_Lords_Sermon_on_the_Mount": {
+  "axes": [
+   "moral_foundation",
+   "human_nature",
+   "faith_reason",
+   "god",
+   "end_of_life"
+  ],
+  "positions": [
+   "beatitude",
+   "virtue_ethics"
+  ],
+  "concepts": [
+   "virtue",
+   "grace",
+   "faith",
+   "wisdom",
+   "law"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Commento in due libri al discorso della montagna di Matteo, che Agostino presenta come il codice perfetto e completo della vita cristiana. Le Beatitudini sono lette come una scala di progresso morale e spirituale che culmina nella beatitudine, mentre i precepti maggiori del Vangelo, dati per amore, superano quelli minori dati per timore alla Legge antica. Il testo articola la vita virtuosa, la purificazione dell'intenzione del cuore e la sapienza che orienta l'anima verso il regno dei cieli.",
+  "summary_en": "A two-book commentary on Matthew's Sermon on the Mount, which Augustine presents as the perfect and complete code of the Christian life. The Beatitudes are read as a ladder of moral and spiritual progress culminating in beatitude, while the greater Gospel precepts, given out of love, surpass the lesser ones given out of fear in the old Law. The text articulates the virtuous life, the purification of the heart's intention, and the wisdom that orients the soul toward the kingdom of heaven."
+ },
+ "Sermons_on_Selected_Lessons_of_the_New_Testament": {
+  "axes": [
+   "faith_reason",
+   "human_nature",
+   "moral_foundation"
+  ],
+  "positions": [
+   "faith_seeking_understanding",
+   "grace_perfects_nature"
+  ],
+  "concepts": [
+   "grace",
+   "faith",
+   "virtue",
+   "revelation",
+   "wisdom"
+  ],
+  "arguments": [],
+  "figures": [
+   "pelagius"
+  ],
+  "forms": [
+   "sermon"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Raccolta di sermoni in cui Agostino espone passi scelti del Nuovo Testamento adattando la dottrina cristiana all'intelligenza dei fedeli. Insiste sul valore delle opere buone e dell'elemosina, ma sempre entro la priorità della grazia divina, contro l'eresia pelagiana che Agostino contribuì a rovesciare. La predicazione unisce interpretazione spirituale della Scrittura e ammaestramento pratico, mostrando come la fede cerchi comprensione.",
+  "summary_en": "A collection of sermons in which Augustine expounds selected passages of the New Testament, adapting Christian doctrine to the understanding of ordinary believers. He stresses the value of good works and almsgiving, yet always subordinate to the primacy of divine grace, against the Pelagian heresy he helped overthrow. The preaching joins spiritual interpretation of Scripture with practical instruction, illustrating faith seeking understanding."
+ },
+ "Ten_Homilies_on_the_First_Epistle_of_John": {
+  "axes": [
+   "faith_reason",
+   "moral_foundation"
+  ],
+  "positions": [
+   "faith_seeking_understanding"
+  ],
+  "concepts": [
+   "faith",
+   "virtue",
+   "revelation",
+   "soul",
+   "charity"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "sermon"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Dieci omelie sulla Prima Lettera di Giovanni in cui Agostino individua nella carità il tema centrale dell'epistola. Contro le eresie che separano Gesù uomo dal Cristo Figlio di Dio, riafferma l'Incarnazione e la comunione con Dio come fondamento della vita cristiana. L'amore, radicato nella fede nel Figlio di Dio, è presentato come compimento della legge e criterio del credente.",
+  "summary_en": "Ten homilies on the First Epistle of John in which Augustine identifies charity as the epistle's central theme. Against heresies that separate Jesus the man from Christ the Son of God, he reaffirms the Incarnation and fellowship with God as the foundation of Christian life. Love, rooted in faith in the Son of God, is presented as the fulfilment of the law and the mark of the believer."
+ },
+ "The_Confessions": {
+  "axes": [
+   "faith_reason",
+   "time_and_death",
+   "knowledge_origin",
+   "human_nature"
+  ],
+  "positions": [
+   "faith_seeking_understanding",
+   "original_sin",
+   "divine_illumination"
+  ],
+  "concepts": [
+   "memory",
+   "time",
+   "grace",
+   "soul",
+   "concupiscence",
+   "evil_privation",
+   "charity"
+  ],
+  "arguments": [
+   "si_fallor_sum"
+  ],
+  "figures": [
+   "mani"
+  ],
+  "forms": [
+   "confession"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Autobiografia spirituale in tredici libri in cui Agostino ripercorre il proprio itinerario dal peccato e dall'errore manicheo fino alla conversione, come lode del Dio giusto e buono. Analizza la memoria, il tempo e l'inquietudine del cuore umano che riposa solo in Dio, mostrando la necessità della grazia contro ogni presunzione delle sole forze umane. Gli ultimi libri passano all'esegesi della Genesi e alla contemplazione della creazione dal nulla.",
+  "summary_en": "A spiritual autobiography in thirteen books in which Augustine retraces his path from sin and Manichaean error to conversion, as praise of the just and good God. He analyses memory, time, and the restlessness of the human heart that rests only in God, showing the necessity of grace against any presumption of human powers alone. The final books turn to exegesis of Genesis and contemplation of creation out of nothing."
+ },
+ "The_Harmony_of_the_Gospels": {
+  "axes": [
+   "faith_reason"
+  ],
+  "positions": [
+   "faith_seeking_understanding"
+  ],
+  "concepts": [
+   "revelation",
+   "faith",
+   "religion"
+  ],
+  "arguments": [],
+  "figures": [
+   "mani"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Trattato in quattro libri che difende l'autorità e la veridicità dei Vangeli contro gli attacchi dei pagani e dei manichei. Agostino confuta l'accusa di contraddizione tra gli evangelisti, mostrando la concordia dei quattro racconti tanto nei fatti quanto nell'ordine della narrazione. Rifiuta inoltre l'idea che Cristo fosse solo il più saggio degli uomini, riaffermando la sua divinità e la continuità tra Antico e Nuovo Testamento.",
+  "summary_en": "A treatise in four books defending the authority and truthfulness of the Gospels against pagan and Manichaean attacks. Augustine refutes the charge of contradiction among the evangelists, showing the harmony of the four narratives both in the facts recorded and in their order. He also rejects the idea that Christ was merely the wisest of men, reaffirming his divinity and the continuity between the Old and New Testaments."
+ },
+ "Two_Books_of_Soliloquies": {
+  "axes": [
+   "knowledge_origin",
+   "soul_body",
+   "god"
+  ],
+  "positions": [
+   "divine_illumination",
+   "demonstrative_theism"
+  ],
+  "concepts": [
+   "soul",
+   "reason",
+   "wisdom",
+   "evil_privation"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "dialogue"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Dialogo interiore tra Agostino e la Ragione dedicato alla conoscenza di Dio e dell'anima. La mente si eleva alla verità immutabile grazie all'illuminazione divina, per cui ogni cosa vera è vera in Dio, Padre della luce intelligibile. L'opera argomenta anche l'immortalità dell'anima a partire dalla natura eterna della verità che essa conosce e che il male non è che privazione del bene.",
+  "summary_en": "An inner dialogue between Augustine and Reason devoted to the knowledge of God and the soul. The mind rises to immutable truth through divine illumination, so that everything true is true in God, the Father of intelligible light. The work also argues for the immortality of the soul from the eternal nature of the truth it knows, and that evil is nothing but the privation of good."
+ },
+ "Writings_in_Connection_with_the_Donatist_Controversy": {
+  "axes": [
+   "faith_reason",
+   "state_and_individual"
+  ],
+  "positions": [
+   "faith_seeking_understanding"
+  ],
+  "concepts": [
+   "sacrament",
+   "religion",
+   "grace",
+   "law"
+  ],
+  "arguments": [],
+  "figures": [],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Insieme di scritti polemici contro lo scisma donatista dell'Africa del Nord, che pretendeva una Chiesa dei soli puri e negava la validità dei sacramenti amministrati dai peccatori. Agostino difende l'unità e la cattolicità della Chiesa e l'oggettiva efficacia dei sacramenti, indipendente dalla santità del ministro. Sostiene inoltre la legittimità dell'intervento dell'autorità per ricondurre gli scismatici all'unità ecclesiale.",
+  "summary_en": "A body of polemical writings against the Donatist schism of North Africa, which claimed a Church of the pure alone and denied the validity of sacraments administered by sinners. Augustine defends the unity and catholicity of the Church and the objective efficacy of the sacraments, independent of the minister's holiness. He also argues for the legitimacy of authority's intervention to restore schismatics to ecclesial unity."
+ },
+ "Writings_in_Connection_with_the_Manichæan_Controversy": {
+  "axes": [
+   "reality_status",
+   "freedom_necessity",
+   "god",
+   "human_nature"
+  ],
+  "positions": [
+   "free_will",
+   "demonstrative_theism"
+  ],
+  "concepts": [
+   "evil_privation",
+   "grace",
+   "will",
+   "nature",
+   "soul",
+   "religion"
+  ],
+  "arguments": [],
+  "figures": [
+   "mani"
+  ],
+  "forms": [
+   "treatise"
+  ],
+  "schools": [
+   "patristics"
+  ],
+  "summary_it": "Raccolta di scritti contro il manicheismo, il sistema dualista al quale lo stesso Agostino aveva aderito in gioventù. Contro i due principi eterni del bene e del male, egli difende l'unicità e la bontà del Dio creatore e la dottrina del male come privazione del bene, non come sostanza. Riafferma inoltre il libero arbitrio come origine del peccato e l'armonia tra Antico e Nuovo Testamento, negati dai manichei.",
+  "summary_en": "A collection of writings against Manichaeism, the dualist system Augustine himself had followed in his youth. Against its two eternal principles of good and evil, he defends the oneness and goodness of the creator God and the doctrine of evil as privation of good rather than a substance. He further reaffirms free will as the origin of sin and the harmony of the Old and New Testaments, which the Manichaeans denied."
+ }
+}

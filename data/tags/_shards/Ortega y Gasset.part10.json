@@ -1,0 +1,312 @@
+{
+ "Tartufo_chafado": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo di giornale anonimo (El Sol, 2 giugno 1919) sui risultati elettorali che sconfiggono i monarchici a Madrid, Barcellona e Saragozza sotto il governo di La Cierva, soprannominato Tartufo. Pura polemica politica di attualità, senza contenuto filosofico.",
+  "summary_en": "Unsigned newspaper column (El Sol, 2 June 1919) on the election results defeating the monarchists in Madrid, Barcelona and Zaragoza under La Cierva's government, nicknamed Tartuffe. Topical political polemic with no philosophical content."
+ },
+ "Tartufo_y_compañía": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo politico contro La Cierva e contro Maura, accusato di aver dilapidato il proprio prestigio tornando al potere per ricostruire artificialmente un grande partito in stile Restaurazione. Giornalismo politico, non filosofia.",
+  "summary_en": "Political column against La Cierva and against Maura, accused of squandering his prestige by returning to power to rebuild a great party artificially in Restoration style. Political journalism, not philosophy."
+ },
+ "TEMAS_DE_VIAJE_julio_de_1922": {
+  "axes": [], "positions": [], "concepts": ["nature"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Note di viaggio del luglio 1922 lungo la strada Madrid-Hendaya-Parigi: il contrasto fra il paesaggio drammatico e arido di Castiglia e la Francia 'bien labrada', commentato con i dati del geografo Dantín sulla 'Spagna arida'. Bozzetto di viaggio con spunto geografico, non trattazione filosofica.",
+  "summary_en": "Travel notes from July 1922 along the Madrid–Hendaye–Paris road: the contrast between Castile's dramatic, arid landscape and 'well-tilled' France, glossed with geographer Dantín's data on 'arid Spain'. A travel sketch with a geographical thesis, not a philosophical argument."
+ },
+ "Tempo_de_la_historia_egipcia": {
+  "axes": [], "positions": [], "concepts": ["time"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Breve nota storica: il calendario egizio e le piramidi mostrano che l'Egitto raggiunse in un 'prestissimo' la piena maturazione politica, artistica e religiosa, per poi restare invariato per millenni. Il campione si interrompe sulla domanda '¿Cómo se explica esto?' senza rispondere.",
+  "summary_en": "Short historical note: the Egyptian calendar and the pyramids show that Egypt reached full political, artistic and religious maturity in a fantastic 'prestissimo' and then stayed unchanged for millennia. The sample breaks off on the question '¿Cómo se explica esto?' without answering."
+ },
+ "Teología_social": {
+  "axes": ["god"], "positions": [], "concepts": ["religion", "education"], "arguments": [], "figures": ["spinoza"], "forms": ["lecture"], "schools": [],
+  "summary_it": "Chiusura di un ciclo sulla pedagogia sociale: fra i due poteri spirituali che si contendono il futuro spagnolo, cultura e religione, Ortega sostiene che la cultura è socialmente più feconda, e legge l'idea di Dio nella sua interpretazione sociale — Dio come cemento fra gli uomini e l'individuo che si divinizza nella collettività ('busca la cuarta dimensión de tu yo, el prójimo').",
+  "summary_en": "Closing of a course on social pedagogy: of the two spiritual powers contending for Spain's future, culture and religion, Ortega argues culture is socially more fruitful, and reads the idea of God in its social interpretation — God as the cement among men, the individual divinised in the collectivity ('seek the fourth dimension of your I: your neighbour')."
+ },
+ "Teoría_de_lo_verosímil": {
+  "axes": [], "positions": [], "concepts": ["idea"], "arguments": [], "figures": ["plato", "spinoza"], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio che contesta il luogo comune di Renan amante della verità: amare la verità è inventare la proposizione ventiquattresima, non contemplarla. Usa Platone (l'Eros della scienza, i filotheamones, la 'teoría' come visione, le Idee come punti di vista) e l'amor intellectualis Dei di Spinoza per distinguere l'amore contemplativo dalla dizione morale della verità.",
+  "summary_en": "Essay contesting the commonplace of Renan as a lover of truth: to love truth is to invent proposition twenty-five, not to contemplate it. It uses Plato (the Eros of science, the philotheamones, 'theoria' as vision, Ideas as points of view) and Spinoza's amor intellectualis Dei to separate contemplative love of truth from the moral act of proclaiming it."
+ },
+ "Teoría_del_clasicismo": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [], "figures": [], "forms": ["essay", "epistle"], "schools": [],
+  "summary_it": "Lettera all'amico Rubín de Cendoya: il classicismo va strappato alla letteratura e alla poetica normativa (che ai 'perché questi classici?' sa rispondere solo 'perché sì') e inteso come principio di conservazione dell'energia storica, direzione e impulso, non modello da imitare.",
+  "summary_en": "Letter to his friend Rubín de Cendoya: classicism must be wrested from literature and from normative poetics (which answers 'why these classics?' with 'just because') and understood as a principle of conservation of historical energy — a direction and an impulse, not a model to imitate."
+ },
+ "Teoría_del_improperio": {
+  "axes": [], "positions": [], "concepts": ["idea"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Critica letteraria su Baroja: il suo vocabolario preferito (canalla, estúpido, imbécil, repugnante) rivela che non scrive per amore estetico ma per soddisfare un bisogno psicologico. Segue una riflessione sulla parola come segno espressivo, sul linguaggio tecnico (massimo di idea, minimo di emozione) e sul grido inarticolato dei bambini.",
+  "summary_en": "Literary criticism of Baroja: his preferred vocabulary (canalla, estúpido, imbécil, repugnante) shows he writes not out of aesthetic love but to satisfy a psychological need. It continues with a reflection on the word as expressive sign, on technical language (maximum idea, minimum emotion) and on children's inarticulate cries."
+ },
+ "Tiempo_distancia_y_forma_en_el_arte_de_Proust": {
+  "axes": [], "positions": [], "concepts": ["time", "beauty"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio critico scritto alla morte di Proust: Proust non è un 'creatore' ma un 'inventore', che ha trovato una nuova ottica; i suoi temi (Combray, l'amore di Swann, Balbec) sono pretesti, come le lavandaie di Degas o la Gare Saint-Lazare di Monet. La sua invenzione riguarda gli ingredienti elementari dell'oggetto letterario: un nuovo modo di trattare il tempo e di installarsi nello spazio.",
+  "summary_en": "Critical essay written on Proust's death: Proust is not a 'creator' but an 'inventor' who found a new optics; his subjects (Combray, Swann's love, Balbec) are pretexts, like Degas's laundresses or Monet's Gare Saint-Lazare. His invention concerns the elementary ingredients of the literary object: a new way of handling time and of installing oneself in space."
+ },
+ "Tierras_de_castilla_Notas_de_andar_y_ver": {
+  "axes": [], "positions": [], "concepts": ["time"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Note di viaggio sentimentale a dorso di mula per le terre di Sigüenza e Berlanga de Duero, firmate 'Rubín de Cendoya, místico español', con un elogio del Cantar de Myo Cid e della povertà della meseta. Contiene una distinzione fra amare il passato (rallegrarsi che sia passato) e il tradizionalismo che lo vuole presente.",
+  "summary_en": "Sentimental travel notes on muleback through the lands of Sigüenza and Berlanga de Duero, signed 'Rubín de Cendoya, Spanish mystic', praising the Cantar de Myo Cid and the poverty of the meseta. It includes a distinction between loving the past (rejoicing that it has passed) and traditionalism, which wants it present."
+ },
+ "Todo_es_posible_en_España": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo di protesta contro la Real orden di Dato che favorisce una stampa contro l'altra e mira a distruggere El Sol; il tema di fondo è che la Spagna è un corpo pulverizzato in cui nessuno si sente ferito dalla ferita del prossimo. Polemica politica giornalistica.",
+  "summary_en": "Protest column against Dato's Royal order favouring one press against another and aimed at destroying El Sol; its underlying claim is that Spain is a pulverised body in which no one feels wounded by his neighbour's wound. Journalistic political polemic."
+ },
+ "Transmisión_y_convergencia": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Nota etnografica (El Sol, 26 marzo 1924) su Bastian contro Ratzel — invenzione indipendente contro diffusione per prestito — e sul concetto di 'convergenza' di Ehrenreich e von Luschan, illustrato dalle canoe melanesiane che perdono il bilanciere nei laghi africani. Divulgazione scientifica, non filosofia.",
+  "summary_en": "Ethnographic note (El Sol, 26 March 1924) on Bastian versus Ratzel — independent invention versus diffusion by borrowing — and on Ehrenreich and von Luschan's concept of 'convergence', illustrated by Melanesian canoes losing their outrigger on African lakes. Science reporting, not philosophy."
+ },
+ "Tratado_del_esfuerzo_puro": {
+  "axes": [], "positions": [], "concepts": ["will"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Meditazione sull'Escorial come 'sforzo puro': un'architettura tutta volontà, impeto e ansia, priva di idee e di sensibilità, che non trascende la pietra. Ne ricava la formula della sostanza spagnola — 'sólo queremos ser grandes' — e cita Nietzsche via la sorella: 'i spagnoli hanno voluto essere troppo'. Il campione comincia a metà discorso.",
+  "summary_en": "Meditation on the Escorial as 'pure effort': an architecture that is all will, impetus and craving, void of ideas and sensibility, transcending nothing beyond its stone. From it he draws the formula of the Spanish substance — 'we only want to be great' — and quotes Nietzsche via his sister: 'the Spaniards wanted to be too much'. The sample begins mid-discourse."
+ },
+ "Tres_cuadros_del_vino_Tiziano_Poussin_y_Velázquez": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio d'arte sul Prado: la Baccanale di Tiziano, quella di Poussin e Los Borrachos di Velázquez come tre soluzioni estetiche a un unico tema, il vino. Premessa: il progresso non è aumento di temi ma intensità crescente con cui si percepiscono pochi misteri cardinali; la nostra epoca ha ridotto il vino a problema igienico e amministrativo, mentre prima era un dio.",
+  "summary_en": "Art essay set in the Prado: Titian's Bacchanal, Poussin's Bacchanal and Velázquez's Los Borrachos as three aesthetic solutions to one theme, wine. Its premise: progress is not a growth in subjects but the growing intensity with which we perceive half a dozen cardinal mysteries; our age has reduced wine to a hygienic and administrative problem, where once it was a god."
+ },
+ "Tropos": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo di polemica culturale: contro la Spagna 'della pietra levigata' che nega il passaggio a un giovane arabista mentre imbarca due frati, Ortega difende le 'armi distinte' della ragione, pur ammettendo che con esse non si vince nessuna battaglia — l'esempio di don Francisco Giner, che ha passato la vita a dare ragioni inascoltate.",
+  "summary_en": "Cultural polemic: against the Spain 'of polished stone' that denies passage to a young Semitist while shipping two friars, Ortega defends the 'refined weapons' of reason, while admitting they win no battles — the example of don Francisco Giner, who spent his life giving reasons nobody heeded."
+ },
+ "Un_Consejo_de_Economía_Nacional": {
+  "axes": [], "positions": [], "concepts": ["state"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Proposta politica repubblicana: dotare la Spagna di un piano economico e creare un Consiglio di Economia Nazionale, organo tecnico e puramente consultivo, senza il cui parere il Parlamento non discuta questioni economiche. Include l'immagine dell'emozione panica come paura del minuto dal volto invisibile e la tesi che la politica deve anticipare a un popolo il suo avvenire.",
+  "summary_en": "Republican political proposal: give Spain an economic plan and create a National Economic Council, a technical and purely advisory body without whose report Parliament should not debate economic matters. It includes the image of panic emotion as fear of the minute with an invisible face, and the thesis that politics must anticipate a people's future for it."
+ },
+ "Un_discurso": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo brevissimo (82 parole). Il digest non riporta alcun campione: non è possibile giudicarne il contenuto.",
+  "summary_en": "Very short text (82 words). The digest carries no sample: its content cannot be judged."
+ },
+ "Un_discurso_de_ida_y_vuelta": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo sul discorso di Maura al Teatro Real: rimpianto per una figura ridotta a riassumere conferenze mondane. Ortega ne trae la tesi che i grandi partiti spagnoli, destre e sinistre, sono 'solidarietà dell'equivoco', e che quando tutto il pubblico è falsificato salva solo la fedeltà di ciascuno a se stesso.",
+  "summary_en": "Column on Maura's speech at the Teatro Real: regret for a figure reduced to summing up society lectures. Ortega draws from it the claim that Spain's great parties, right and left, are 'solidarities of equivocation', and that when everything public is falsified only each man's fidelity to himself can save us."
+ },
+ "Un_discurso_de_resignación": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo brevissimo (103 parole). Il digest non riporta alcun campione: non è possibile giudicarne il contenuto.",
+  "summary_en": "Very short text (103 words). The digest carries no sample: its content cannot be judged."
+ },
+ "Un_diálogo": {
+  "axes": [], "positions": [], "concepts": ["religion", "beauty"], "arguments": [], "figures": [], "forms": ["dialogue"], "schools": [],
+  "summary_it": "Dialogo (aperto da una scena di pugilato parodica) sulla critica letteraria cattolica di Henri Massis: Ortega sostiene che essa non esiste, come non esiste il quadrato rotondo, e che i cattolici militanti francesi si limitano ad affermazioni e insulti senza mai riporre serenamente un problema.",
+  "summary_en": "Dialogue (opened by a parodic boxing scene) on Henri Massis's Catholic literary criticism: Ortega holds that it does not exist, any more than the round square, and that France's militant Catholics confine themselves to assertions and insults without ever calmly posing a problem."
+ },
+ "Un_grupo": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo breve (204 parole). Il digest non riporta alcun campione: non è possibile giudicarne il contenuto.",
+  "summary_en": "Short text (204 words). The digest carries no sample: its content cannot be judged."
+ },
+ "Un_libro_sobre_la_filosofía_del_Derecho": {
+  "axes": [], "positions": [], "concepts": ["law", "justice", "freedom"], "arguments": [], "figures": [], "forms": ["essay"], "schools": ["german_idealism"],
+  "summary_it": "Recensione della Lógica de la Libertad di Rivera Pastor, opera neokantiana di filosofia del diritto: Ortega ne apprezza la densità, discute la censura del formalismo pratico di Kant (che nella morale pretende principi dal puro pensare senza intuizione) e obietta al titolo — 'una logica della libertà è impossibile come una matematica dell'amore' — e all'eccessivo rango dato a Stammler.",
+  "summary_en": "Review of Rivera Pastor's Lógica de la Libertad, a neo-Kantian work on the philosophy of law: Ortega praises its density, discusses the charge of formalism against Kant's practical philosophy (which seeks moral principles by pure thought without intuition), and objects to the title — 'a logic of freedom is as impossible as a mathematics of love' — and to the excessive rank granted to Stammler."
+ },
+ "Un_libro_sobre_Platón": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": ["plato"], "forms": ["essay"], "schools": ["academy"],
+  "summary_it": "Presentazione (maggio 1926) de La Academia Platónica di Landsberg: il metodo che definisce un sistema di idee dal suo versante soggettivo e sociologico — la casta dei filosofi come prima realtà della filosofia. Ricorda l'orrore di Platone per la scrittura nel Fedro e descrive l'Accademia come luogo di convivenza e contagio di una filosofia.",
+  "summary_en": "Presentation (May 1926) of Landsberg's La Academia Platónica: the method that defines a system of ideas from its subjective and sociological side — the caste of philosophers as philosophy's first reality. It recalls Plato's horror of writing in the Phaedrus and describes the Academy as a place of shared life where a philosophy is caught like a contagion."
+ },
+ "Un_manifiesto_al_país_disolviendo_la_agrupación": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["manifesto"], "schools": [],
+  "summary_it": "Manifesto pubblico che scioglie l'Agrupación al Servicio de la República: nata con i due soli scopi di combattere la monarchia e portare la Repubblica in Cortes Costituenti, e raggiunti entrambi (oltre allo Statuto catalano e alla riforma agraria), non ha più ragione di durare. Documento politico.",
+  "summary_en": "Public manifesto dissolving the Agrupación al Servicio de la República: founded with the two sole aims of fighting the monarchy and bringing in the Republic through a Constituent Cortes, both achieved (along with the Catalan Statute and land reform), it has no reason to continue. A political document."
+ },
+ "Un_Ministerio_de_Portland": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo breve (300 parole). Il digest non riporta alcun campione: non è possibile giudicarne il contenuto.",
+  "summary_en": "Short text (300 words). The digest carries no sample: its content cannot be judged."
+ },
+ "Un_paisaje": {
+  "axes": [], "positions": [], "concepts": ["beauty", "nature"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Bozzetto sui valichi della cordigliera cantabrica come luoghi di scelta fra due paesaggi e due modi di dire sì all'esistenza. Contiene una tesi estetica: il gusto per il paesaggio verde è utilitarismo mascherato, mentre la Castiglia gialla e rossa, sentita come irrealtà visiva, è una delle cose più belle dell'universo.",
+  "summary_en": "Sketch on the passes of the Cantabrian range as places of choice between two landscapes and two ways of saying yes to existence. It carries an aesthetic thesis: the taste for green landscape is disguised utilitarianism, while yellow-and-red Castile, felt as visual unreality, is one of the most beautiful things in the universe."
+ },
+ "Un_Parlamento_industrial": {
+  "axes": [], "positions": [], "concepts": ["state", "labour"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo sulla proposta di Cambó di un Parlamento industriale in Spagna sul modello inglese (400 membri, metà padroni e metà operai): Ortega dubita che i partiti storici e gli stessi operai lo accettino, dato che in Spagna i caciques finirebbero per gestirlo. Giornalismo politico.",
+  "summary_en": "Column on Cambó's proposal for an industrial Parliament in Spain on the English model (400 members, half employers and half workers): Ortega doubts the historic parties or the workers themselves would accept it, since in Spain the caciques would end up running it. Political journalism."
+ },
+ "Un_partido_nacional_de_amplitud": {
+  "axes": [], "positions": [], "concepts": ["state", "labour"], "arguments": [], "figures": [], "forms": ["lecture"], "schools": [],
+  "summary_it": "Discorso (con applausi annotati) che chiede un grande partito di ampiezza nazionale: la nazione come punto di vista che integra la vita collettiva al di sopra degli interessi di classe, gruppo o individuo. Argomenta con l'economia nazionale come realtà oggettiva, e con il fallimento parallelo di capitalismo e collettivismo in Europa. Il campione comincia a metà discorso.",
+  "summary_en": "Speech (with applause noted) calling for a great party of national breadth: the nation as the point of view that integrates collective life above the interests of class, group or individual. He argues from the national economy as an objective reality and from the parallel failure of capitalism and collectivism in Europe. The sample begins mid-speech."
+ },
+ "Un_problema_de_organización_española": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo sui conflitti di Barcellona: l'unica potenza organizzata in campo era il sindacalismo, e i conservatori, che pretendono il 'principio di autorità' a ogni costo, sono i responsabili della semina di odi dell'estate 1917. Polemica politica di attualità.",
+  "summary_en": "Column on the Barcelona conflicts: the only organised power in the field was syndicalism, and the conservatives, who demand the 'principle of authority' at any cost, are responsible for the sowing of hatreds in the summer of 1917. Topical political polemic."
+ },
+ "Un_proyecto": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Risposta a chi gli chiedeva di 'definirsi' politicamente dopo 'El error Berenguer': Ortega rifiuta, dichiara di non rappresentare nessuno e definisce il mestiere intellettuale come quello in cui l'autorità va riguadagnata ogni giorno, riga per riga. Articolo personale-polemico.",
+  "summary_en": "Reply to those demanding he 'define himself' politically after 'El error Berenguer': Ortega refuses, declares he represents nobody, and defines the intellectual's trade as one where authority must be re-earned every day, line by line. A personal-polemical column."
+ },
+ "Un_rasgo_de_la_vida_alemana": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Resoconto di un viaggio in Germania dopo ventitré anni, che si apre rifiutandosi di comunicare l'impressione ricevuta: un'impressione sincera non è ancora completa, e l'uomo intellettualmente responsabile non fonda un'idea su brandelli di cose. Contiene una digressione sulla stupidità come crudeltà ('enterarse viene da integrare') e sull'irresponsabilità dell'intellettuale dal 1750.",
+  "summary_en": "Report of a trip to Germany after twenty-three years, opening with a refusal to communicate the impression received: a sincere impression is not yet a complete one, and the intellectually responsible man does not build an idea on scraps of things. It includes a digression on stupidity as cruelty ('enterarse comes from integrare') and on the intellectual's irresponsibility since around 1750."
+ },
+ "Un_telegrama": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo brevissimo (93 parole). Il digest non riporta alcun campione: non è possibile giudicarne il contenuto.",
+  "summary_en": "Very short text (93 words). The digest carries no sample: its content cannot be judged."
+ },
+ "Una_carta": {
+  "axes": [], "positions": [], "concepts": ["freedom", "ressentiment"], "arguments": [], "figures": [], "forms": ["epistle"], "schools": [],
+  "summary_it": "Lettera aperta al direttore di El Sol contro la Real orden di Dato che vuole imporre al giornale un prezzo maggiorato: intromissione dello Stato nella stampa e quindi nella libertà intellettuale. Cita il capitolo 'L'annientamento dei migliori' di Otto Seeck e diagnostica nella 'España oficial' — solidarietà degli inetti — il ressentiment del fallito.",
+  "summary_en": "Open letter to the editor of El Sol against Dato's Royal order forcing a higher price on the paper: state intrusion into the press and hence into intellectual freedom. It cites the chapter 'The annihilation of the best' from Otto Seeck and diagnoses in 'official Spain' — the solidarity of the inept — the ressentiment of the failure."
+ },
+ "Una_exposición_Zuloaga": {
+  "axes": [], "positions": [], "concepts": ["beauty", "education"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Richiesta al ministro dell'Istruzione di organizzare un'esposizione Zuloaga, non come omaggio ma come atto pedagogico: la pittura di Zuloaga rimanda al problema spagnolo ed è un esame di coscienza nazionale. Contiene una definizione di genialità come valore sperimentale e prospettiva secolare ('geniali sono le creazioni che possono ancora avere figli').",
+  "summary_en": "A request to the minister of education to mount a Zuloaga exhibition, not as homage but as a pedagogical act: Zuloaga's painting throws one back on the Spanish problem and is a national examination of conscience. It includes a definition of genius as an experimental value and a secular perspective ('genial are the creations that can still bear children')."
+ },
+ "Una_fiesta_de_paz": {
+  "axes": [], "positions": [], "concepts": ["education"], "arguments": [], "figures": [], "forms": ["essay"], "schools": ["stoicism"],
+  "summary_it": "Articolo sul quinto centenario dell'Università di Lipsia: contro l'idea che le guerre spieghino l'arretratezza culturale spagnola, Ortega sostiene che le altre nazioni lavoravano all'organizzazione della pace anche in mezzo alle guerre. La pace interiore di stoici e asceti non è naturale ma conquista, e vale l'Abstine: l'organo della pace è l'Università.",
+  "summary_en": "Column on the fifth centenary of the University of Leipzig: against the idea that wars explain Spain's cultural dismantling, Ortega argues other nations worked at organising peace even amid war. The inner peace of Stoics and ascetics is no natural gift but a conquest, and its watchword is Abstine: the organ of peace is the University."
+ },
+ "Una_función_de_gala": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Cronaca mondana (8 novembre) di una funzione di gala all'Opera di Berlino con Alfonso XIII, il Kaiser e l'imperatrice: uniformi, rose, ambasciatori cinesi, il balletto Coppelia di Delibes. Puro reportage, senza contenuto filosofico.",
+  "summary_en": "Society chronicle (8 November) of a gala performance at the Berlin Opera with Alfonso XIII, the Kaiser and the Empress: uniforms, roses, Chinese ambassadors, Delibes's ballet Coppélia. Pure reportage, no philosophical content."
+ },
+ "Una_larga_más": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo sulla crisi di governo e su Allendesalazar, 'uomo grigio' chiamato al potere proprio perché privo di prestigio. Ortega difende il valore della formula costituzionale contro Cambó ('formula e legge sono la stessa cosa') e chiede di restaurare l'autorità sociale, sia essa bianca, rossa o azzurra. Giornalismo politico.",
+  "summary_en": "Column on the government crisis and on Allendesalazar, the 'grey man' summoned to power precisely because he lacked prestige. Ortega defends the constitutional formula against Cambó ('formula and law are the same thing') and calls for restoring social authority, be it white, red or blue. Political journalism."
+ },
+ "Una_mala_obra": {
+  "axes": [], "positions": [], "concepts": ["freedom"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo contro la nota di protesta delle minoranze, dimenticata da tutti e senza effetto: poiché in Spagna la politica è l'unico potere pubblico visibile, farsi vedere in atti inefficaci insegna alla nazione che la volontà è un'arma inutile e accresce l'indifferenza verso la libertà.",
+  "summary_en": "Column against the minorities' protest note, forgotten by everyone and without effect: since in Spain politics is the only visible public power, letting oneself be seen in ineffectual acts teaches the nation that the will is a useless weapon and deepens its indifference to liberty."
+ },
+ "Una_manera_de_pensar": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Risposta alla stampa tedesca e francese che lo dipinge ora come capo della germanofobia spagnola ora come germanofilo sans nuance. Difende il silenzio come atteggiamento ideale dell'intellettuale in tempo di guerra, rotto dal manifesto dei professori tedeschi, e protesta contro la lite fra 'germanófilos' e 'francófilos' come chiacchiera su ciò che non si conosce.",
+  "summary_en": "Reply to the German and French press casting him now as leader of Spanish Germanophobia, now as a Germanophile sans nuance. He defends silence as the intellectual's ideal stance in wartime, broken by the German professors' manifesto, and protests against the quarrel of 'Germanophiles' and 'Francophiles' as noise about what one does not know."
+ },
+ "Una_polémica": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio su La Metafísica y la Poesía, la polemica fra Campoamor e Valera del 1891: un libretto perfettamente inoffensivo, che nulla insegna del suo tema e conserva solo un interesse storico — la psicologia dei suoi autori e l'anima collettiva di una Spagna che pochi anni dopo perdeva le colonie. Include l'aneddoto della biblioteca di María Wuz di Jean Paul.",
+  "summary_en": "Essay on La Metafísica y la Poesía, the 1891 polemic between Campoamor and Valera: a perfectly harmless little book that teaches nothing of its subject and retains only a historical interest — the psychology of its authors and the collective soul of a Spain that lost its colonies a few years later. It includes Jean Paul's anecdote of María Wuz's library."
+ },
+ "Una_pérdida_nacional_Nicolás_Achúcarro": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Necrologio (El Sol, 26 aprile 1918) dell'istologo Nicolás Achúcarro, inventore del metodo all'argento e tannino e ricercatore della base fisiologica della vita emotiva nella neuroglia. Ortega ne fa un caso della cecità spagnola verso i propri uomini migliori. Testo commemorativo, non filosofico.",
+  "summary_en": "Obituary (El Sol, 26 April 1918) of the histologist Nicolás Achúcarro, inventor of the silver-and-tannin method and researcher into the physiological basis of emotional life in the neuroglia. Ortega turns it into a case of Spain's blindness to its best men. A commemorative, not a philosophical, text."
+ },
+ "Una_respuesta_a_una_pregunta": {
+  "axes": [], "positions": [], "concepts": ["education"], "arguments": [], "figures": [], "forms": ["epistle"], "schools": [],
+  "summary_it": "Lettera da Marburgo a Baroja sul suo '¿Con el latino o con el germano?': lasciata da parte la politica internazionale, ciò che importa è l'avvicinamento culturale della Spagna alla Germania. Ricorda il fallimento dei krausisti negli anni '70, soffocati dal fanatismo religioso e casticista che pretendeva la continuità della cultura spagnola.",
+  "summary_en": "Letter from Marburg to Baroja on his '¿Con el latino o con el germano?': setting international politics aside, what matters is Spain's cultural rapprochement with Germany. It recalls the failure of the krausistas in the 1870s, smothered by the religious and nativist fanaticism that insisted Spanish culture had never lapsed."
+ },
+ "Una_vez_más": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo contro la sospensione perpetua delle garanzie costituzionali sotto Romanones: le misure di polizia non risolvono la questione operaia, che non è un 'problema sindacalista' ma una rivolta sorda che copre tutta la Spagna. Giornalismo politico.",
+  "summary_en": "Column against the perpetual suspension of constitutional guarantees under Romanones: police measures do not solve the workers' question, which is no 'syndicalist problem' but a deaf revolt spread across all of Spain. Political journalism."
+ },
+ "Una_visita_a_Zuloaga": {
+  "axes": [], "positions": [], "concepts": ["beauty"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Cronaca (Madrid, dicembre 1911) di una visita allo studio parigino di Zuloaga, con l'Apocalisse del Greco appesa alla parete. Contiene un'osservazione sull'impotenza della parola a descrivere un quadro: la parola regna su ciò che fluisce, ma il quadro è lì tutto in un colpo, un microcosmo.",
+  "summary_en": "Report (Madrid, December 1911) of a visit to Zuloaga's Paris studio, with El Greco's Apocalypse hanging on the wall. It includes a remark on the word's inability to describe a painting: the word rules over what flows, but the painting is there all at once, a microcosm."
+ },
+ "Unamuno_y_Europa_fábula": {
+  "axes": [], "positions": [], "concepts": ["reason", "faith"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Polemica contro la lettera di Unamuno in ABC: al 'se un popolo dovesse scegliere fra Descartes e San Juan de la Cruz io sceglierei quest'ultimo' Ortega risponde che senza Descartes resteremmo al buio e non vedremmo nemmeno il saio di Juan de Yepes. Unamuno vi è ritratto come il giovanotto che spegne il lume al ballo, 'energúmeno español'.",
+  "summary_en": "Polemic against Unamuno's letter in ABC: to 'if a people had to choose between Descartes and St John of the Cross, I would keep the latter' Ortega replies that without Descartes we would be left in the dark and would not even see Juan de Yepes's habit. Unamuno is cast as the lad who smashes the lamp at the village dance, 'energúmeno español'."
+ },
+ "Unas_gotas_de_fenomenología": {
+  "axes": ["knowledge_origin"], "positions": ["perspectivism"], "concepts": ["experience"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "L'agonia di un uomo illustre vista da quattro presenti — moglie, medico, giornalista, pittore: uno stesso fatto si spezza in tante realtà divergenti quanti sono i punti di vista, tutte equivalenti e autentiche per il loro punto di vista. La dimensione che le ordina è la distanza spirituale dall'evento, dalla moglie che lo vive al pittore che lo contempla.",
+  "summary_en": "The death agony of a famous man as seen by four bystanders — wife, doctor, journalist, painter: one and the same fact splinters into as many divergent realities as there are points of view, each authentic for its own. The dimension that orders them is spiritual distance from the event, from the wife who lives it to the painter who contemplates it."
+ },
+ "Unos_cuantos_datos": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Nota di critica letteraria: un elenco di citazioni tratte da El árbol de la ciencia di Baroja, pagina per pagina, per documentarne gli insulti ('canalla', 'idiota', 'imbécil') e concludere ironicamente con la frase di pagina 253, 'Comenzaba a sentir una irritación profunda contra todo'. Materiale documentario, non filosofico.",
+  "summary_en": "A note of literary criticism: a page-by-page list of quotations from Baroja's El árbol de la ciencia documenting its insults ('canalla', 'idiota', 'imbécil'), closing ironically on the sentence from page 253, 'He was beginning to feel a deep irritation against everything'. Documentary material, not philosophy."
+ },
+ "Vaguedades": {
+  "axes": [], "positions": [], "concepts": ["state"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Articolo contro l'aspirazione a ripristinare la Costituzione e il Parlamento anteriori al colpo di Stato: assurdo trarre da quanto è accaduto la necessità di tornare a ciò che lo causò. La tesi è che lo spagnolo medio non accetta neppure la necessità di riforme profonde, e che il tono medio della Spagna è dato dal petit-bourgeois.",
+  "summary_en": "Column against the wish to restore the pre-coup Constitution and Parliament: absurd to conclude from what happened that one must return to what caused it. The claim is that the average Spaniard will not accept even the necessity of deep reform, and that Spain's average tone is set by the petit-bourgeois."
+ },
+ "Variaciones_sobre_la_carne": {
+  "axes": ["soul_body"], "positions": [], "concepts": ["soul"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio che distingue due specie di corpo, il minerale e la carne: il minerale è tutta esteriorità e il suo dentro è relativo, mentre l'interno della carne non diventa mai esterno ed è per essenza intimità — e a questa intimità si dà il nome di vita. Segue un'analisi dell'espressione, in cui la cosa espressiva (la parola come suono) si sacrifica alla cosa espressa.",
+  "summary_en": "Essay distinguishing two species of body, mineral and flesh: the mineral is all exteriority and its inside is merely relative, whereas the inside of flesh never becomes outside and is intimacy by essence — and this intimacy is what we call life. An analysis of expression follows, in which the expressive thing (the word as sound) sacrifices itself to the thing expressed."
+ },
+ "Vejamen_del_orador": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Recensione del libro di Cuartero contro il ciarlatanesimo oratorio: il vizio d'origine dell'oratore è vivere solo di connivenza con la circostanza — testimone il cinismo di Cicerone, 'omnes enim illae orationes causarum et temporum sunt' — sicché nasce e muore con l'occasione e ha personalità innumerevole.",
+  "summary_en": "Review of Cuartero's book against oratorical charlatanism: the orator's original vice is to live only by connivance with his circumstance — witness Cicero's cynicism, 'omnes enim illae orationes causarum et temporum sunt' — so that he is born and dies with the occasion and has an innumerable personality."
+ },
+ "Venerables_ironías": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio contro il mito di una Spagna guardata con benignità da Dio (Prudenzio: Hispanos Deus aspicit benignus): la coscienza nazionale è stata disorientata da chi le ha finto una genealogia di semidei. La razza spagnola ha recitato talvolta ruoli di primo ordine, ma non si è mai provata razza di primo ordine — la storia della scienza e della morale si può scrivere senza un nome spagnolo.",
+  "summary_en": "Essay against the myth of a Spain looked on kindly by God (Prudentius: Hispanos Deus aspicit benignus): the national conscience has been misled by men who invented for it a genealogy of demigods. The Spanish race has sometimes played first-rank roles but has never proved itself a first-rank race — the history of science and of morals can be written without one Spanish name."
+ },
+ "Verdad_y_perspectiva": {
+  "axes": ["knowledge_origin"], "positions": [], "concepts": ["reason"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Programma de El Espectador: proprio perché la vita spagnola obbliga all'azione politica, occorre riservare una parte di sé alla contemplazione. La politica è pensiero dell'utile; se diventa l'abitudine centrale della persona si finisce per confondere il vero con l'utile, e fare dell'utilità la verità è la definizione della menzogna. Il campione non sviluppa ancora la nozione di prospettiva annunciata dal titolo.",
+  "summary_en": "The programme of El Espectador: precisely because Spanish life forces one into political action, a part of oneself must be fenced off for contemplation. Politics is thinking about the useful; if it becomes the person's central habit one ends up confusing the true with the useful, and making utility into truth is the definition of the lie. The sample does not yet develop the notion of perspective announced in the title."
+ },
+ "Viaje_a_España_en_1718": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Racconto delle memorie del banchiere strasburghese Zetzner, venuto in Spagna nel 1718 a riscuotere 11.000 lire da un banchiere di Cadice: la spada requisita a Barcellona, il calessiere, i briganti, il gentiluomo don Bernardo. Bozzetto storico-letterario con osservazioni sui caratteri delle razze del nord e del sud; nessun contenuto filosofico.",
+  "summary_en": "Retelling of the memoirs of the Strasbourg banker Zetzner, who came to Spain in 1718 to collect 11,000 livres from a Cádiz banker: the sword confiscated in Barcelona, the caleche driver, the bandits, the gentleman don Bernardo. A historical-literary sketch with remarks on northern and southern temperaments; no philosophical content."
+ },
+ "Viaje_de_España": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Recensione del diario spagnolo del critico d'arte tedesco Meier-Graefe: contro i lettori che vogliono solo sapere se lo straniero parla 'bene' o 'male' della Spagna, Ortega propone il patriottismo per cui la patria non è cosa fatta ma problema perpetuo, e legge i libri di viaggio come prismi che scompongono la nostra realtà etnica.",
+  "summary_en": "Review of the Spanish diary of the German art critic Meier-Graefe: against readers who only want to know whether the foreigner speaks 'well' or 'ill' of Spain, Ortega proposes the patriotism for which the fatherland is not a finished thing but a perpetual problem, and reads travel books as prisms that break our ethnic reality into its components."
+ },
+ "Vicisitudes_en_las_ciencias": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio sulla storia delle scienze immaginate come persone con un destino individuale: l'Ottocento fu il 'gran secolo strabico', in cui ogni scienza voleva imperare sulle altre o le invidiava (tutto voleva essere fisica, poi storia, poi biologia, poi matematica). Nel Novecento ciascuna scienza ha invece accettato il proprio destino e il proprio limite.",
+  "summary_en": "Essay on the history of the sciences imagined as persons with individual destinies: the nineteenth was the 'great cross-eyed century', in which every science sought to rule the others or envied them (everything wanted to be physics, then history, then biology, then mathematics). In the twentieth each science has instead accepted its own destiny and its own limit."
+ },
+ "Vida_ascendente_y_decadente": {
+  "axes": ["meaning_of_history"], "positions": ["decadence"], "concepts": ["ressentiment"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio sul 'polso vitale' da cui nascono sentimenti, idee e atti: in alcuni è di tonalità ascendente — abbondanza traboccante in cui non attecchiscono invidia né rancore — in altri discendente, clima in cui l'invidia fruttifica e il risentimento sostituisce l'atteggiamento amoroso. Dal predominio dell'uno o dell'altro dipende che la storia salga o declini.",
+  "summary_en": "Essay on the 'vital pulse' from which feelings, ideas and acts spring: in some it is ascending — an overflowing abundance in which envy and rancour do not take root — in others descending, a climate where envy fruits and resentment replaces the loving attitude. On which of the two prevails depends whether history rises or declines."
+ },
+ "VIEJA_Y_NUEVA_POLÍTICA_Conferencia_dada_en_el_Teatro_de_la_Comedia_el_23_de_marzo_de": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": [], "schools": [],
+  "summary_it": "Il digest registra 752 parole ma 0 atomi e nessun campione di testo: della celebre conferenza del Teatro de la Comedia (23 marzo 1914) non è disponibile alcun contenuto da valutare. Voce da verificare in fase di estrazione.",
+  "summary_en": "The digest records 752 words but 0 atoms and no text sample: no content of the famous Teatro de la Comedia lecture (23 March 1914) is available to judge. This entry needs checking at extraction."
+ },
+ "Vitalidad_alma_espíritu": {
+  "axes": ["soul_body"], "positions": [], "concepts": ["soul"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Il campione mostra solo l'apertura: una lunga digressione sul perché una conferenza non vada riassunta ma raccontata come un piccolo dramma che accade, e una rettifica alla nota de El Sol che gli attribuiva un'importanza esclusiva della dinamica sessuale. Ortega prende le distanze da Freud, la cui psicologia riduce la vita psichica a un processo meccanico.",
+  "summary_en": "The sample shows only the opening: a long digression on why a lecture should not be summarised but narrated as a small drama that happens, and a correction to El Sol's report, which had him give exclusive importance to sexual dynamics. Ortega distances himself from Freud, whose psychology turns psychic life into a mechanical process."
+ },
+ "Viva_la_República": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": [], "schools": [],
+  "summary_it": "Testo brevissimo (109 parole). Il digest non riporta alcun campione: non è possibile giudicarne il contenuto.",
+  "summary_en": "Very short text (109 words). The digest carries no sample: its content cannot be judged."
+ },
+ "Vives": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Postille a una conferenza su Luis Vives: Vives non è un 'genio' — fra il 1350 e il 1550 nessuno lo fu, da Cusano a Giordano Bruno il pensiero avanza per spostamenti collettivi di generazione — e per questo è difficile da definire: non è una protuberanza sopra il livello del suo tempo, è lui stesso un nuovo livello.",
+  "summary_en": "Marginal notes to a lecture on Luis Vives: Vives is no 'genius' — between 1350 and 1550 nobody was, from Cusanus to Giordano Bruno thought advances by collective generational shifts — and that is why he is hard to define: he is not a bump above the level of his time, he is himself a new level."
+ },
+ "Ética_de_los_griegos": {
+  "axes": [], "positions": [], "concepts": [], "arguments": [], "figures": ["plato"], "forms": ["essay"], "schools": [],
+  "summary_it": "Saggio che pone il problema della Grecia come segreto della cultura europea: una cultura nata in simbiosi con un'altra cultura estranea e morta, il cui ideale sta fuori di sé. Contro l'atteggiamento estatico e la 'beatería' verso l'ellenismo, e contro Spengler che non vede il problema; sostiene che dopo secoli di culto a Platone il vero progresso è ammettere che non sappiamo chi sia Platone.",
+  "summary_en": "Essay posing the problem of Greece as the secret of European culture: a culture born in symbiosis with another, alien and dead culture, whose ideal lies outside itself. Against the ecstatic attitude and the 'beatería' toward Hellenism, and against Spengler who fails to see the problem; it argues that after centuries of Plato-worship the real advance is admitting we do not know who Plato is."
+ },
+ "Ética_y_metafísica_de_la_guerra": {
+  "axes": [], "positions": [], "concepts": ["justice", "law", "state"], "arguments": [], "figures": [], "forms": ["essay"], "schools": [],
+  "summary_it": "Discussione critica di Scheler sulla guerra: pur ponendo l'etica come istanza ultima, il suo ragionamento scivola in un utilismo di ordine superiore, che nel sistema stesso di Scheler è immorale. Ortega accetta invece l'idea dell'amore come intuizione etica che scopre i diritti, e argomenta che i medesimi componenti — giustizia e forza — si trovano nel diritto e nella guerra, citando Stammler sul diritto positivo che pretende essere giusto.",
+  "summary_en": "Critical discussion of Scheler on war: though he grants ethics the last word, his reasoning slides into a higher-order utilitarianism which, within Scheler's own system, is immoral. Ortega accepts instead the idea of love as the ethical intuition that discovers rights, and argues that the same components — justice and force — are found in law and in war, citing Stammler on positive law's claim to be just law."
+ }
+}

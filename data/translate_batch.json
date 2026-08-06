@@ -1,0 +1,257 @@
+[
+ {
+  "agent": 1,
+  "lang": "es",
+  "ph": "Ortega y Gasset",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "slice": "1-7",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\001_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\002_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\003_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\004_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\005_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\006_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\007_intero.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 2,
+  "lang": "es",
+  "ph": "Ortega y Gasset",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "slice": "8-14",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\008_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\009_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\010_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\011_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\012_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\013_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\014_intero.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 3,
+  "lang": "es",
+  "ph": "Ortega y Gasset",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "slice": "15-21",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\015_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\016_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\017_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\018_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\019_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\020_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\021_intero.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 4,
+  "lang": "es",
+  "ph": "Ortega y Gasset",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "slice": "22-28",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\022_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\023_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\024_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\025_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\026_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\027_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\028_intero.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 5,
+  "lang": "fr",
+  "ph": "Descartes",
+  "work": "LETTRES",
+  "slice": "1-7",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\001_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\002_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\003_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\004_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\005_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\006_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\007_apertura.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 6,
+  "lang": "fr",
+  "ph": "Descartes",
+  "work": "LETTRES",
+  "slice": "8-14",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\008_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\009_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\010_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\011_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\012_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\013_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\014_apertura.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 7,
+  "lang": "fr",
+  "ph": "Descartes",
+  "work": "LETTRES",
+  "slice": "15-21",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\015_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\016_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\017_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\018_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\019_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\020_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Descartes\\Atomized\\LETTRES\\021_apertura.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 8,
+  "lang": "de",
+  "ph": "Marx",
+  "work": "Das_Kapital_III",
+  "slice": "1-7",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\001_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\002_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\003_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\004_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\005_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\006_apertura.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\007_1_Kostpreis_und_Profit.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 9,
+  "lang": "de",
+  "ph": "Marx",
+  "work": "Das_Kapital_III",
+  "slice": "8-14",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\008_1_Kostpreis_und_Profit.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\009_1_Kostpreis_und_Profit.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\010_1_Kostpreis_und_Profit.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\011_2_Die_Profitrate.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\012_2_Die_Profitrate.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\013_3_Verhältnis_der_Profitrate_zur_Mehrwert.md",
+   "VaultPhilosophy\\Philosophers\\Marx\\Atomized\\Das_Kapital_III\\014_3_Verhältnis_der_Profitrate_zur_Mehrwert.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 10,
+  "lang": "la",
+  "ph": "Seneca",
+  "work": "THE_MORAL_EPISTLES",
+  "slice": "1-7",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Seneca\\Atomized\\THE_MORAL_EPISTLES\\001_I_SENECA_LUCILIO_SUO_SALUTEM.md",
+   "VaultPhilosophy\\Philosophers\\Seneca\\Atomized\\THE_MORAL_EPISTLES\\002_II_SENECA_LUCILIO_SUO_SALUTEM.md",
+   "VaultPhilosophy\\Philosophers\\Seneca\\Atomized\\THE_MORAL_EPISTLES\\003_III_SENECA_LUCILIO_SUO_SALUTEM.md",
+   "VaultPhilosophy\\Philosophers\\Seneca\\Atomized\\THE_MORAL_EPISTLES\\004_IV_SENECA_LUCILIO_SUO_SALUTEM.md",
+   "VaultPhilosophy\\Philosophers\\Seneca\\Atomized\\THE_MORAL_EPISTLES\\005_V_SENECA_LUCILIO_SUO_SALUTEM.md",
+   "VaultPhilosophy\\Philosophers\\Seneca\\Atomized\\THE_MORAL_EPISTLES\\006_VI_SENECA_LUCILIO_SUO_SALUTEM.md",
+   "VaultPhilosophy\\Philosophers\\Seneca\\Atomized\\THE_MORAL_EPISTLES\\007_VII_SENECA_LUCILIO_SUO_SALUTEM.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 11,
+  "lang": "es",
+  "ph": "Aristotle",
+  "work": "LA_REBELIÓN_DE_LAS_MASAS",
+  "slice": "29-35",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\029_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\030_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\031_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\032_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\033_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\034_intero.md",
+   "VaultPhilosophy\\Philosophers\\Ortega y Gasset\\Atomized\\LA_REBELIÓN_DE_LAS_MASAS\\035_intero.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 12,
+  "lang": "en",
+  "ph": "Locke",
+  "work": "AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING",
+  "slice": "1-7",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\001_TO_THE_RIGHT_HONOURABLE_THOMAS_EARL_OF_P.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\002_THE_EPISTLE_TO_THE_READER.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\003_THE_EPISTLE_TO_THE_READER.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\004_THE_EPISTLE_TO_THE_READER.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\005_THE_EPISTLE_TO_THE_READER.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\006_THE_EPISTLE_TO_THE_READER.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\007_1_An_Inquiry_into_the_Understanding_plea.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 13,
+  "lang": "en",
+  "ph": "Locke",
+  "work": "AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING",
+  "slice": "8-14",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\008_2_Design.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\009_3_Method.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\010_4_Useful_to_know_the_Extent_of_our_Compr.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\011_5_Our_Capacity_suited_to_our_State_and_C.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\012_6_Knowledge_of_our_Capacity_a_Cure_of_Sc.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\013_7_Occasion_of_this_Essay.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\014_8_What_Idea_stands_for.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 14,
+  "lang": "en",
+  "ph": "Locke",
+  "work": "AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING",
+  "slice": "15-21",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\015_1_The_way_shown_how_we_come_by_any_Knowl.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\016_2_General_Assent_the_great_Argument.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\017_3_Universal_Consent_proves_nothing_innat.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\018_5_Not_on_Mind_naturally_imprinted_becaus.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\019_6_That_men_know_them_when_they_come_to_t.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\020_8_If_Reason_discovered_them_that_would_n.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\021_9_It_is_false_that_Reason_discovers_them.md"
+  ],
+  "n": 7
+ },
+ {
+  "agent": 15,
+  "lang": "en",
+  "ph": "Locke",
+  "work": "AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING",
+  "slice": "22-28",
+  "atoms": [
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\022_10_No_use_made_of_reasoning_in_the_disco.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\023_11_And_if_there_were_this_would_prove_th.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\024_12_The_coming_of_the_Use_of_Reason_not_t.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\025_13_By_this_they_are_not_distinguished_fr.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\026_15_The_Steps_by_which_the_Mind_attains_s.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\027_17_Assenting_as_soon_as_proposed_and_und.md",
+   "VaultPhilosophy\\Philosophers\\Locke\\Atomized\\AN_ESSAY_CONCERNING_HUMAN_UNDERSTANDING\\028_19_Such_less_general_Propositions_known.md"
+  ],
+  "n": 7
+ }
+]

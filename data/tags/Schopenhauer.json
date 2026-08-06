@@ -1,0 +1,90 @@
+{
+  "Die_Welt_als_Wille_und_Vorstellung_Erster_Band": {
+    "axes": ["reality_status", "knowledge_origin", "tragic_art_principle", "end_of_life", "moral_foundation"],
+    "positions": ["idealism", "voluntarism", "pessimism"],
+    "concepts": ["representation", "will_to_live", "principle_of_sufficient_reason", "noumenon", "idea", "beauty", "sublime", "suffering", "compassion", "will", "death"],
+    "arguments": ["world_as_will_and_representation"],
+    "figures": ["kant", "plato"],
+    "forms": ["treatise"],
+    "schools": ["german_idealism"],
+    "summary_it": "L'opera capitale in quattro libri: il mondo come rappresentazione retta dal principio di ragion sufficiente; il mondo come volontà, cosa in sé cieca e senza scopo dietro il velo di Maya; la contemplazione estetica delle Idee platoniche come quietivo momentaneo del volere; l'etica della compassione e la negazione della volontà di vivere come unica redenzione dal dolore. In appendice la critica alla filosofia kantiana.",
+    "summary_en": "The masterwork in four books: world as representation governed by the principle of sufficient reason; world as will, the blind aimless thing-in-itself behind the veil of Maya; aesthetic contemplation of Platonic Ideas as momentary quieting of willing; the ethics of compassion and denial of the will-to-live as the sole redemption from suffering. Appendix: critique of Kantian philosophy."
+  },
+  "Die_Welt_als_Wille_und_Vorstellung_Zweiter_Band": {
+    "axes": ["reality_status", "knowledge_origin", "tragic_art_principle", "end_of_life", "soul_body"],
+    "positions": ["idealism", "voluntarism", "pessimism"],
+    "concepts": ["representation", "will_to_live", "principle_of_sufficient_reason", "suffering", "death", "beauty", "noumenon", "nature"],
+    "arguments": ["world_as_will_and_representation"],
+    "figures": ["kant"],
+    "forms": ["treatise"],
+    "schools": ["german_idealism"],
+    "summary_it": "I Supplementi ai quattro libri del primo volume: la fondazione idealistica, il primato della volontà nell'autocoscienza, l'oggettivazione del volere nella natura, la metafisica dell'amore sessuale, della morte e della musica, e l'affermazione e negazione della volontà di vivere. Il pessimismo trova qui la sua esposizione più ampia.",
+    "summary_en": "The Supplements to the four books of volume one: the idealist foundation, the primacy of will in self-consciousness, the objectification of will in nature, the metaphysics of sexual love, of death and of music, and the affirmation and denial of the will-to-live. Pessimism receives here its fullest exposition."
+  },
+  "Aphorismen_zur_Lebensweisheit": {
+    "axes": ["end_of_life", "human_nature"],
+    "positions": ["pessimism"],
+    "concepts": ["wisdom", "suffering", "will_to_live", "friendship", "fortune"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["aphorism"],
+    "schools": ["german_idealism"],
+    "summary_it": "Eudemonologia dei Parerga: l'arte di condurre la vita nel modo più sopportabile, distinguendo ciò che uno è, ciò che uno ha e ciò che uno rappresenta. Su un piano immanente e accomodante — sospeso il verdetto pessimistico del sistema — offre massime pratiche sulla felicità, la solitudine, le età della vita.",
+    "summary_en": "The eudemonology of the Parerga: the art of leading life as bearably as possible, distinguishing what one is, what one has and what one represents. On an immanent, accommodating plane — the system's pessimistic verdict suspended — it offers practical maxims on happiness, solitude and the ages of life."
+  },
+  "Die_Kunst_Recht_zu_behalten": {
+    "axes": ["method"],
+    "positions": ["dialectic"],
+    "concepts": ["reason"],
+    "arguments": [],
+    "figures": ["aristotle"],
+    "forms": ["treatise"],
+    "schools": ["german_idealism"],
+    "summary_it": "La Dialettica eristica: l'arte di aver ragione a ogni costo (per fas et nefas), indipendentemente dalla verità oggettiva. Trentotto stratagemmi (Kunstgriffe) con cui la naturale vanità e malafede umana difende la propria tesi nella disputa, catalogati come un'anti-logica del contendere.",
+    "summary_en": "Eristic Dialectic: the art of being right at any cost (per fas et nefas), independently of objective truth. Thirty-eight stratagems (Kunstgriffe) by which natural human vanity and dishonesty defend their thesis in dispute, catalogued as an anti-logic of contention."
+  },
+  "Abhandlungen": {
+    "axes": ["method"],
+    "positions": ["dialectic"],
+    "concepts": ["reason"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["german_idealism"],
+    "summary_it": "Trattati minori: la Dialettica eristica e gli scritti sulla lingua, tra cui la polemica sullo scempio metodico della lingua tedesca. Prevalgono le questioni di logica del discorso, retorica e stile.",
+    "summary_en": "Minor treatises: eristic dialectic and the writings on language, including the polemic against the methodical maiming of the German tongue. Questions of the logic of discourse, rhetoric and style predominate."
+  },
+  "Einleitung_in_die_Philosophie": {
+    "axes": ["knowledge_origin", "reality_status", "method"],
+    "positions": ["idealism", "voluntarism"],
+    "concepts": ["representation", "will", "will_to_live", "reason"],
+    "arguments": ["world_as_will_and_representation"],
+    "figures": ["kant"],
+    "forms": ["lecture"],
+    "schools": ["german_idealism"],
+    "summary_it": "Il corso berlinese: un'introduzione unitaria alla filosofia che percorre in un solo arco la teoria della conoscenza (il mondo come rappresentazione), la metafisica (la cosa in sé come volontà) e l'etica, mostrando l'organicità del sistema che non tollera di essere insegnato a pezzi.",
+    "summary_en": "The Berlin lecture course: a unified introduction to philosophy running in one arc from the theory of knowledge (world as representation), through metaphysics (the thing-in-itself as will), to ethics, showing the organic system that cannot be taught piecemeal."
+  },
+  "Über_das_Geistersehn_und_was_damit_zusammenhängt": {
+    "axes": ["knowledge_origin", "soul_body"],
+    "positions": ["idealism"],
+    "concepts": ["representation", "soul", "will", "death"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["german_idealism"],
+    "summary_it": "Saggio dei Parerga sulla visione di spiriti: le apparizioni non provano corpi presenti ma immagini nell'intelletto intuitivo, prodotte cerebralmente come nei sogni. Schopenhauer ricconduce magnetismo, sogno veggente e spettri al primato della volontà e alla natura intellettuale (cerebrale) della percezione.",
+    "summary_en": "A Parerga essay on spirit-seeing: apparitions prove no present bodies but images in the intuiting intellect, cerebrally produced as in dreams. Schopenhauer traces magnetism, veridical dreaming and ghosts back to the primacy of will and the intellectual (cerebral) nature of perception."
+  },
+  "Über_die_Weiber": {
+    "axes": ["human_nature"],
+    "positions": ["pessimism"],
+    "concepts": ["nature", "reason", "compassion"],
+    "arguments": [],
+    "figures": [],
+    "forms": ["essay"],
+    "schools": ["german_idealism"],
+    "summary_it": "Breve e polemico saggio dei Parerga sulle donne: giudicate dalla natura più vicine al presente, di ragione più debole ma di maggiore compassione. Documento del pessimismo antropologico e delle sue note misoginie ottocentesche.",
+    "summary_en": "A short polemical Parerga essay on women: judged by nature closer to the present, of weaker reason but greater compassion. A document of anthropological pessimism and its nineteenth-century misogyny."
+  }
+}
