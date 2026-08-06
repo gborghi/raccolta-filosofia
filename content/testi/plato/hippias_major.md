@@ -100,6 +100,86 @@ Socrates: Then will not he who is able to transmit the doctrines that are of mos
 
 Hippias: Yes, for it is not the inherited usage of the Lacedaemonians to change their laws or to educate their children differently from what is customary.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+[SOCRATE](/figures/socrates)
+
+IPPIA.
+
+Socrate: Ippia, bello e sapiente, quanto tempo è passato da quando non fai scalo nel porto di Atene!
+
+Ippia: Sono troppo occupato, Socrate. Poiché ogni volta che Elide ha bisogno di trattare qualche affare con qualcuno degli Stati, si rivolge sempre a me per primo fra i suoi cittadini e mi sceglie come ambasciatore, ritenendomi il più abile giudice e messaggero delle parole che vengono pronunciate dai vari Stati. Così sono spesso andato come ambasciatore presso altri Stati, ma il più delle volte, e per le questioni più numerose e importanti, a Lacedemone. Per questo motivo, dunque, poiché me lo chiedi, non vengo spesso da queste parti.
+
+Socrate: Ecco che cosa significa, Ippia, essere un uomo veramente sapiente e perfetto! Poiché tu sei capace, nella tua veste privata, di guadagnare molto denaro dai giovani e di conferire loro benefici ancora maggiori di quelli che ricevi, e negli affari pubblici sei capace di giovare al tuo stesso Stato, come deve fare chi non vuol essere disprezzato ma tenuto in alta stima fra i molti. Eppure, Ippia, quale mai è la ragione per cui quegli uomini antichi i cui [nomi](/positions/nominalism) sono detti grandi quanto a sapienza — Pittaco, e Biante, e il milesio Talete con i suoi seguaci, e anche quelli più tardi, fino ad Anassagora — sono tutti, o la maggior parte di loro, trovati ad astenersi dagli affari di Stato?
+
+Ippia: Che altro supponi, Socrate, se non che non erano capaci di abbracciare con la loro sapienza tanto le questioni pubbliche quanto le private?
+
+Socrate: Allora, per il cielo, così come le altre arti sono progredite, e gli antichi non contano nulla in confronto agli artigiani di oggi, diremo che anche la tua arte è progredita e che quegli antichi che si occupavano di sapienza non contano nulla in confronto a te?
+
+Ippia: Sì, hai perfettamente ragione.
+
+Socrate: Allora, Ippia, se Biante tornasse in vita ora, sarebbe uno zimbello in confronto a te, proprio come gli scultori dicono che Dedalo, se nascesse ora e creasse opere come quelle da cui trasse la sua fama, sarebbe ridicolo.
+
+Ippia: Questo, Socrate, è esattamente come tu dici. Io, tuttavia, ho l'[abitudine](/concepts/custom) di lodare gli antichi e i nostri predecessori piuttosto che gli uomini del giorno d'oggi, e più grandemente, come precauzione contro l'invidia dei vivi e per timore dell'ira di coloro che sono morti.
+
+Socrate: Il tuo, Ippia, è ad ogni modo un modo eccellentissimo di parlare di loro e di pensare, mi sembra, e posso renderti testimonianza che dici il vero, e che la tua arte è davvero progredita nella direzione della capacità di condurre insieme gli affari pubblici e quelli privati. Poiché quest'uomo, Gorgia, il sofista di Leontini, venne qui dalla sua patria nella veste pubblica di ambasciatore, in quanto il più capace fra tutti i cittadini di Leontini di badare agli interessi della comunità, e fu opinione generale che egli parlò eccellentemente nell'assemblea pubblica, e nella sua veste privata, tenendo esibizioni e frequentando i giovani, guadagnò e ricevette gran quantità di denaro da questa città; oppure, se preferisci, il nostro amico qui presente, Prodico, andò spesso in altri luoghi in veste pubblica, e l'ultima volta, proprio di recente, quando venne qui in veste pubblica da Ceo, ottenne gran reputazione parlando davanti al Consiglio, e nella sua veste privata, tenendo esibizioni e frequentando i giovani, ricevette una somma di denaro meravigliosa; ma nessuno di quegli antichi ritenne mai opportuno esigere denaro come pagamento per la propria sapienza o tenere esibizioni fra gente di vari luoghi; tanto erano ingenui, e tanto inconsapevoli del fatto che il denaro è della massima importanza. Ma ciascuno di questi due ha guadagnato più denaro dalla propria sapienza di quanto qualsiasi artigiano dalla propria arte. E anche prima di questi lo fece Protagora.
+
+Ippia: Ma, Socrate, tu non sai nulla delle bellezze di tutto questo. Poiché se sapessi quanto denaro ho fatto, ne resteresti stupito. Non menzionerò il resto, ma una volta, quando andai in Sicilia, benché Protagora vi soggiornasse e avesse gran reputazione e fosse il più anziano, io, che ero molto più giovane, feci in brevissimo tempo più di centocinquanta mine, e in un luogo piccolissimo, Inico, più di venti mine; e quando tornai a casa, presi questo denaro e lo diedi a mio padre, cosicché egli e gli altri cittadini furono sopraffatti dallo stupore. E credo proprio di aver fatto più denaro di qualsiasi altra coppia di sofisti messa insieme.
+
+Socrate: È una bella cosa quella che dici, Ippia, e forte testimonianza della tua sapienza e di quella degli uomini di oggi e della loro grande superiorità sugli antichi. Poiché i sofisti più antichi della scuola di Anassagora devono essere stati molto ignoranti, a giudicare da ciò che si dice, secondo la tua opinione; poiché dicono che ciò che accadde ad Anassagora fu l'opposto di ciò che accade a te; poiché, benché gli fosse rimasto molto denaro, lo trascurò e lo perse tutto, tanto insensata era la sua sapienza. E raccontano storie simili anche di altri fra gli antichi. Così mi sembra una bella testimonianza quella che tu adduci a favore della sapienza degli uomini di oggi in confronto agli uomini di un tempo, e molti sono d'accordo con me che il sapiente dev'essere sapiente soprattutto per se stesso; e la prova di ciò è chi fa più denaro. Ebbene, basti così su questo. Ma dimmi questo: in quale delle città in cui vai hai fatto più denaro? O dobbiamo ritenere che sia stato a Lacedemone, dove le tue visite sono state più frequenti?
+
+Ippia: No, per Zeus, non è stato lì, Socrate.
+
+Socrate: Che cosa dici? Ma è lì che ne hai fatto di meno?
+
+Ippia: Ma io non vi ho mai fatto nulla del tutto.
+
+Socrate: È una prodigiosa meraviglia quella che racconti, Ippia; e dimmi ora: la tua sapienza non è forse tale da rendere migliori quanto a virtù coloro che vengono a contatto con essa e la imparano?
+
+Ippia: Sì, molto migliori, Socrate.
+
+Socrate: Ma tu fosti in grado di rendere migliori i figli degli Inicensi, e non avesti alcun potere di migliorare i figli degli Spartani?
+
+Ippia: Questo è ben lungi dal vero.
+
+Socrate: Ebbene, allora, i Sicelioti desiderano diventare migliori, e i Lacedemoni no?
+
+Ippia: No di certo, Socrate, anche i Lacedemoni lo desiderano.
+
+Socrate: Allora fu per mancanza di denaro che evitarono di frequentarti?
+
+Ippia: Niente affatto, poiché hanno denaro in abbondanza.
+
+Socrate: Quale, dunque, potrebbe essere la ragione per cui, quando lo desideravano e avevano denaro, e tu avevi il potere di conferir loro i benefici più grandi, non ti congedarono carico di denaro? Ma capisco; forse i Lacedemoni sanno educare i propri figli meglio di te? Dobbiamo affermarlo così, e tu sei d'accordo?
+
+Ippia: Niente affatto.
+
+Socrate: Allora non fosti in grado di persuadere i giovani a Lacedemone che avrebbero fatto più [progresso](/positions/progress) verso la virtù frequentando te piuttosto che la propria gente, oppure fosti impotente a persuadere i loro padri che dovevano affidarli a te piuttosto che occuparsene essi stessi, se pur si curano dei loro figli? Poiché certamente non lesinavano ai loro figli di diventare quanto più buoni possibile.
+
+Ippia: Non credo che lo lesinassero.
+
+Socrate: Ma certamente Lacedemone è ben governata.
+
+Ippia: Certo che lo è.
+
+Socrate: E negli Stati ben governati la virtù è tenuta nel più alto onore.
+
+Ippia: Certamente.
+
+Socrate: E tu sai meglio di tutti gli uomini come trasmetterla ad un altro.
+
+Ippia: Di gran lunga meglio, Socrate.
+
+Socrate: Ebbene, colui che sa meglio come trasmettere l'arte dell'equitazione sarebbe il più onorato in Tessaglia, fra tutte le parti della Grecia, e riceverebbe più denaro — e in qualsiasi altro luogo dove l'equitazione è un interesse serio, non è vero?
+
+Ippia: Molto probabilmente.
+
+Socrate: Allora colui che è in grado di trasmettere le dottrine che sono di massimo valore per l'acquisizione della virtù non sarà tenuto nel più alto onore a Lacedemone e non farà più denaro, se così desidera, e in qualsiasi altro degli Stati greci che sia ben governato? Ma tu, amico mio, pensi che se la caverà meglio in Sicilia e a Inico? Dobbiamo crederlo, Ippia? Poiché se ci dici di crederlo, dobbiamo crederlo.
+
+Ippia: Sì, poiché non è consuetudine ereditaria dei Lacedemoni mutare le loro leggi o educare i loro figli diversamente da ciò che è usuale.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [Socrates](/figures/socrates): What? For the Lacedaemonians is it the hereditary usage not to act rightly, but to commit errors?
@@ -204,6 +284,110 @@ Hippias: Certainly.
 
 Socrates: “Then, too, by wisdom the wise are wise and by the good all things are good, are they not?”
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): Come? Per i Lacedemoni è consuetudine ereditaria non agire rettamente, ma commettere errori?
+
+Ippia: Non direi, Socrate.
+
+Socrate: Non agirebbero, dunque, rettamente educando meglio i giovani, ma non educandoli peggio?
+
+Ippia: Sì, agirebbero rettamente; ma non è lecito per loro dar loro un'[educazione](/concepts/education) straniera; poiché puoi esser certo che, se qualcuno avesse mai ricevuto colà denaro in pagamento di un'educazione, io ne avrei ricevuto di gran lunga di più; certamente essi godono nell'ascoltarmi e mi applaudono; ma, come dico, non è la legge.
+
+Socrate: Ma, Ippia, dici tu che la legge è un danno per [lo Stato](/concepts/state), o un beneficio?
+
+Ippia: È fatta, credo, in vista del beneficio, ma talvolta, se la legge è mal fatta, è dannosa.
+
+Socrate: Ebbene, allora, non è vero che coloro che fanno la legge la fanno come il massimo bene per lo Stato, e che senza di essa è impossibile godere di un buon governo?
+
+Ippia: Ciò che dici è vero.
+
+Socrate: Allora, quando coloro che fanno le leggi mancano il bene, hanno mancato ciò che è lecito e la legge; o che cosa dici?
+
+Ippia: A parlare con precisione, Socrate, ciò è vero; tuttavia, gli uomini non sono soliti pensarla così.
+
+Socrate: Gli uomini che sanno, Ippia, o quelli che non sanno?
+
+Ippia: I molti.
+
+Socrate: Sono questi, i molti, coloro che conoscono la verità?
+
+Ippia: Certamente no.
+
+Socrate: Ma certamente coloro che sanno pensano che in verità, per tutti gli uomini, ciò che è più benefico è più lecito di ciò che è meno benefico; o non sei d'accordo?
+
+Ippia: Sì, ammetto che essi pensano che sia così in verità.
+
+Socrate: Ebbene, la cosa è effettivamente come coloro che sanno pensano che sia, non è vero?
+
+Ippia: Certamente.
+
+Socrate: Ma per i Lacedemoni, come tu dici, è più benefico essere educati nella tua educazione, che è straniera, che nell'educazione locale.
+
+Ippia: Sì, e ciò che dico è vero.
+
+Socrate: E dici anche questo, Ippia, che le cose benefiche sono più lecite?
+
+Ippia: Sì, l'ho detto.
+
+Socrate: Allora, secondo ciò che dici, è più lecito che i figli dei Lacedemoni siano educati da Ippia e meno lecito che siano educati dai loro padri, se in realtà saranno più beneficati da te.
+
+Ippia: Ma certamente ne saranno beneficati, Socrate.
+
+Socrate: Allora i Lacedemoni, non dandoti denaro e non affidandoti i loro figli, agiscono contro la legge.
+
+Ippia: Concedo questo; poiché sembri costruire il tuo argomento a mio favore, e non c'è bisogno che io mi opponga.
+
+Socrate: Allora, amici miei, troviamo che i Lacedemoni sono violatori della legge, e per giunta nelle questioni più importanti — proprio loro che sono considerati i più ligi alla legge fra gli uomini. Ma allora, per il cielo, Ippia, che sorta di discorsi sono quelli per cui essi ti applaudono e che godono nell'ascoltare? O sono evidentemente quelli che tu comprendi in modo più mirabile, quelli sugli astri e sui fenomeni dei cieli?
+
+Ippia: Niente affatto; non sopportano nemmeno quelli.
+
+Socrate: Ma godono nell'ascoltare di geometria?
+
+Ippia: Niente affatto, poiché si potrebbe dire che molti di loro non sanno nemmeno contare.
+
+Socrate: Allora sono ben lungi dal sopportare una tua conferenza sui processi del pensiero.
+
+Ippia: Ben lungi davvero, per Zeus.
+
+Socrate: Ebbene, allora, quelle materie che tu, fra tutti gli uomini, sai meglio discutere, riguardanti il valore delle lettere e delle sillabe e dei ritmi e delle armonie?
+
+Ippia: Armonie, davvero, mio caro, e lettere!
+
+Socrate: Ma allora quali sono le cose intorno alle quali amano ascoltarti e che applaudono? Dimmelo tu stesso, poiché io non riesco a scoprirle.
+
+Ippia: Sono molto amanti di sentir parlare delle genealogie degli eroi e degli uomini, Socrate, e delle fondazioni delle città nei tempi antichi e, in breve, dell'antichità in generale, cosicché per amor loro sono stato costretto a imparare a memoria tutta quella sorta di cose e a esercitarmici a fondo.
+
+Socrate: Per Zeus, Ippia, è una fortuna per te che i Lacedemoni non godano nel sentir recitare la lista dei nostri arconti dal tempo di Solone; se lo facessero, avresti gran pena a impararla a memoria.
+
+Ippia: Come mai, Socrate? Dopo averli uditi una sola volta, posso ricordare cinquanta [nomi](/positions/nominalism).
+
+Socrate: Vero, ma non avevo capito che tu possiedi la scienza della memoria; e così comprendo che i Lacedemoni naturalmente godono di te come di uno che sa molte cose, e si servono di te come i bambini si servono delle vecchie, per raccontare storie in modo gradevole.
+
+Ippia: E per Zeus, Socrate, proprio di recente ho colà guadagnato reputazione parlando delle occupazioni nobili o belle, esponendo quali debbano essere quelle di un giovane. Poiché ho composto su di esse un discorso bellissimo, ben ordinato nelle parole e anche sotto altri aspetti. E l'impianto del discorso, e il suo principio, è pressappoco questo: dopo [la caduta](/positions/original_sin) di Troia, la storia narra che Neottolemo chiese a Nestore quali fossero le occupazioni nobili e belle, seguendo le quali un giovane sarebbe divenuto più famoso; così dopo ciò abbiamo Nestore che parla e gli suggerisce moltissime occupazioni lecite e bellissime. Quel discorso, dunque, l'ho pronunciato colà e intendo pronunciarlo qui dopodomani nella scuola di Fidostrato, insieme a molte altre cose degne d'essere udite; poiché Eudico, il figlio di Apemanto, me lo ha chiesto. Ora bada di esserci tu stesso e di portare altri che siano in grado di giudicare i discorsi che odono.
+
+Socrate: Ebbene, così sarà fatto, a Dio piacendo, Ippia. Ora, però, dammi una breve risposta a una domanda sul tuo discorso, poiché mi hai ricordato il bello proprio al momento giusto. Poiché di recente, mio ottimo amico, mentre biasimavo alcune cose in certi discorsi come brutte e lodavo altre cose come belle, un uomo mi gettò nella confusione interrogandomi in modo assai insolente pressappoco così: «Come, di grazia, sai tu, Socrate», disse, «che sorta di cose siano belle e brutte? Suvvia, potresti dirmi che cos'è il bello?» E io, uomo da nulla, restai perplesso e non seppi rispondergli a dovere; e così, mentre mi allontanavo dalla compagnia, ero in collera con me stesso e mi rimproveravo, e mi ripromisi che la prima volta che avessi incontrato uno di voi sapienti, avrei ascoltato e imparato ed esercitato, e poi sarei tornato dall'uomo che mi aveva interrogato per rinnovare la disputa a parole. Così ora, come dico, sei venuto al momento giusto; insegnami dunque in modo soddisfacente che cos'è il bello in assoluto, e cerca nel rispondere di parlare quanto più accuratamente possibile, affinché io non sia confutato una seconda volta e reso di nuovo ridicolo. Poiché tu senza dubbio lo sai con chiarezza, e questo sarebbe senza dubbio solo un piccolo esempio del tuo vasto sapere.
+
+Ippia: Sì, certo, per Zeus, uno piccolo, Socrate, e, posso dire, di nessun valore.
+
+Socrate: Allora lo imparerò facilmente, e nessuno mi confuterà più.
+
+Ippia: Nessuno, di certo; poiché in tal caso la mia professione sarebbe senza valore e comune.
+
+Socrate: Bene, per Era, Ippia, se abbiamo da aver la meglio su quel tale. Ma posso, senza intralciarti, imitarlo, e, quando tu rispondi, muovere obiezioni a ciò che dici, affinché tu mi dia quanto più esercizio possibile? Poiché sono più o meno esperto nel muovere obiezioni. Così, se per te è lo stesso, desidero muovere obiezioni, per imparare più vigorosamente.
+
+Ippia: Oh sì, muovi pure obiezioni. Poiché, come dicevo poc'anzi, la questione non è cosa di gran conto, ma potrei insegnarti a rispondere a domande assai più difficili di questa, cosicché nessuno al mondo potrebbe confutarti.
+
+Socrate: Oh, che bello! Ma su, poiché mi dici di farlo, lasciami ora provare a recitare la parte di quell'uomo, per quanto possibile, e a porti domande. Poiché se tu pronunciassi per lui questo discorso che menzioni, quello sulle belle occupazioni, quando l'avesse udito, dopo che tu avessi smesso di parlare, la primissima cosa su cui interrogherebbe sarebbe il bello; poiché ha quella sorta di [abitudine](/concepts/custom), e direbbe: «Straniero di Elide, non è forse per la giustizia che i giusti sono giusti?» Rispondi dunque, Ippia, come se fosse lui a porre la domanda.
+
+Ippia: Risponderò che è per la giustizia.
+
+Socrate: «Allora questa — intendo la giustizia — è qualcosa?»
+
+Ippia: Certamente.
+
+Socrate: «Allora, inoltre, per la sapienza i sapienti sono sapienti e per il bene tutte le cose sono buone, non è così?»
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Hippias: Of course.
@@ -299,6 +483,102 @@ Hippias: That is easy; for we shall say that Pheidias did right; for ivory, I th
 Socrates: “Why, then,” he will say, “did he not make the middle parts of the eyes also of ivory, but of stone, procuring stone as similar as possible to the ivory? Or is beautiful stone also beautiful?” Shall we say that it is, Hippias?
 
 Hippias: Surely we shall say so, that is, where it is appropriate.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ippia: Naturalmente.
+
+[Socrate](/figures/socrates): «E la giustizia, la saggezza e così via sono qualcosa; giacché le cose giuste, sagge e simili non sarebbero tali per opera loro, se esse non fossero qualcosa.»
+
+Ippia: Certamente, sono qualcosa.
+
+Socrate: «Allora tutte le cose belle non sono forse belle per opera del bello?»
+
+Ippia: Sì, per opera del bello.
+
+Socrate: «Per opera del bello, che è qualcosa?»
+
+Ippia: Sì, ché quale alternativa vi sarebbe?
+
+Socrate: «Dimmi dunque, straniero», dirà, «che cos'è questo, il bello?»
+
+Ippia: Ebbene, Socrate, colui che pone questa domanda vuole forse scoprire qualcosa di diverso da ciò che è bello?
+
+Socrate: Non credo che sia questo che egli vuole scoprire, bensì che cosa sia il bello.
+
+Ippia: E che differenza c'è tra le due cose?
+
+Socrate: Ritieni che non ve ne sia alcuna?
+
+Ippia: Sì, ché non c'è alcuna differenza.
+
+Socrate: Ebbene, è certo evidente che tu ne sai più di me; e tuttavia, mio buon amico, considera: giacché egli ti ha chiesto non che cosa sia bello, ma che cosa sia il bello.
+
+Ippia: Comprendo, mio buon amico, e gli risponderò dicendogli che cos'è il bello, e non sarò mai confutato. Sappi infatti, Socrate, se devo dire la verità, che una bella fanciulla è bella.
+
+Socrate: Bella risposta, Ippia, per il cane, e notevole! Se dunque do questa risposta, avrò risposto alla domanda che mi è stata posta, e avrò risposto correttamente, e non sarò mai confutato?
+
+Ippia: Sì, ché come potresti tu, Socrate, essere confutato, quando dici ciò che tutti pensano, e quando tutti coloro che lo odono testimonieranno che ciò che dici è corretto?
+
+Socrate: Benissimo; certo. Su, dunque, Ippia, lascia che ripercorra fra me quello che dici. L'uomo mi interrogherà pressappoco in questo modo: «Su, Socrate, rispondimi. Tutte queste cose che tu dici belle, se il bello in sé è qualcosa, sarebbero belle?» E io dirò che, se una bella fanciulla è bella, vi è qualcosa in ragione del quale queste cose sarebbero belle.
+
+Ippia: Credi dunque che egli tenterà ancora di confutarti e di mostrare che ciò che dici non è bello, oppure, se lo tenta, che non sarà ridicolo?
+
+Socrate: Che lo tenterà, mio ammirevole amico, ne sono certo; ma se il tentativo lo renderà ridicolo, lo mostrerà il fatto. Comunque, vorrei dirti che cosa chiederà.
+
+Ippia: Fallo pure.
+
+Socrate: «Come sei affascinante, Socrate!» dirà. «Ma non è forse bella una bella cavalla, che perfino il dio lodò nel suo oracolo?» Che diremo, Ippia? Non diremo forse che la cavalla è bella, intendo la bella cavalla? Ché come oseremmo negare che la cosa bella è bella?
+
+Ippia: Verissimo, Socrate, ché anche ciò che disse il dio è del tutto corretto; giacché nel nostro paese si allevano cavalle bellissime.
+
+Socrate: «Benissimo», dirà, «e che dire di una bella lira? Non è forse bella?» Saremo d'accordo, Ippia?
+
+Ippia: Sì.
+
+Socrate: Dopo di che, dunque, l'uomo chiederà, ne sono certo, a giudicare dal suo carattere: «Ottimo uomo, e che dire di una bella pentola? Non è dunque bella?»
+
+Ippia: Socrate, chi è costui? Che individuo incolto, che ha la faccia tosta di menzionare cose tanto meschine in una discussione seria!
+
+Socrate: È fatto così, Ippia, non elegante, ma volgare, senza pensare a nient'altro che alla verità. Ma nondimeno all'uomo si deve rispondere, e dichiarerò in anticipo la mia opinione: se la pentola fosse fatta da un buon vasaio, fosse liscia e tonda e ben cotta, come sono alcune di quelle a due anse, quelle che contengono sei choi, bellissime — se fosse di questo genere la pentola di cui chiede, dovremmo convenire che è bella; ché come potremmo dire che, essendo bella, non è bella?
+
+Ippia: Non potremmo affatto, Socrate.
+
+Socrate: «Allora», dirà, «anche una bella pentola è bella, non è vero?» Rispondi.
+
+Ippia: Ebbene, Socrate, la cosa sta così, credo. Questo utensile, quando è ben lavorato, è bello, ma considerato in assoluto non merita di essere ritenuto bello a paragone di una cavalla, di una fanciulla e di tutte le cose belle.
+
+Socrate: Benissimo, comprendo, Ippia, che la risposta appropriata a chi pone queste domande è questa: «Signore, tu non sai che è buono il detto di Eraclito, secondo cui "la più bella delle scimmie è brutta a paragone della stirpe umana", e la più bella delle pentole è brutta a paragone della stirpe delle fanciulle, come dice il saggio Ippia.» Non è così, Ippia?
+
+Ippia: Certamente, Socrate; hai risposto bene.
+
+Socrate: Ascolta, allora. Ché sono certo che dopo di ciò dirà: «Sì, ma, Socrate, se paragoniamo le fanciulle agli dèi, non accadrà loro la stessa cosa che accadde alle pentole quando furono paragonate alle fanciulle? Non apparirà brutta la più bella delle fanciulle? Oppure Eraclito, che tu citi, non intende proprio questo, che il più saggio degli uomini, se paragonato a un dio, apparirà una scimmia, sia nella saggezza sia nella [bellezza](/concepts/beauty) sia in ogni altra cosa?» Saremo d'accordo, Ippia, che la più bella delle fanciulle è brutta se paragonata agli dèi?
+
+Ippia: Sì, ché chi lo negherebbe, Socrate?
+
+Socrate: Se dunque conveniamo su ciò, egli riderà e dirà: «Socrate, ricordi la domanda che ti è stata posta?» «La ricordo», dirò, «la domanda era che cosa sia il bello in sé.» «Allora», dirà, «quando ti si chiedeva del bello, dai come risposta ciò che, a tuo stesso dire, non è più bello che brutto?» «Così sembra», dirò; oppure che cosa mi consigli tu, amico mio, di dire?
+
+Ippia: È questo che ti consiglio; ché, certo, dicendo che la stirpe umana non è bella a paragone degli dèi, dirai la verità.
+
+Socrate: «Ma se io ti avessi chiesto», dirà, «all'inizio che cosa sia bello e brutto, e tu avessi risposto come rispondi ora, non avresti forse risposto correttamente? Ma pensi ancora che il bello in sé, con l'aggiunta del quale tutte le altre cose sono ornate e fatte apparire belle, quando la sua forma si aggiunge a qualcuna di esse — pensi che questo sia una fanciulla o una cavalla o una lira?»
+
+Ippia: Ebbene, certo, Socrate, se è questo che egli cerca, nulla è più facile che rispondere e dirgli che cos'è il bello, per opera del quale tutte le altre cose sono ornate e con la cui aggiunta sono fatte apparire belle. Costui dunque è assai sempliciotto e nulla sa di beni preziosi. Ché se gli rispondi: «Questo di cui domandi, il bello, non è altro che oro», sarà gettato nella confusione e non tenterà di confutarti. Ché tutti sappiamo, immagino, che ovunque questo si aggiunga, anche ciò che prima appare brutto apparirà bello quando è ornato d'oro.
+
+Socrate: Tu non conosci quell'uomo, Ippia, che sciagurato sia, e come sia certo che non accetterà nulla con facilità.
+
+Ippia: E che importa, allora, Socrate? Ché egli deve per forza accettare ciò che è corretto, oppure, se non lo accetta, essere ridicolo.
+
+Socrate: Questa risposta, mio ottimo amico, non solo egli non l'accetterà di certo, ma per giunta mi schernirà grossolanamente e dirà: «Pazzo che sei, credi che Fidia sia un cattivo artigiano?» E io dirò: «Niente affatto.»
+
+Ippia: E avrai ragione, Socrate.
+
+Socrate: Sì, di certo. Di conseguenza, quando ammetto che Fidia è un buon artigiano, «Ebbene, allora», dirà, «immagini che Fidia non conoscesse questo bello di cui parli?» «Perché me lo chiedi?» dirò. «Perché», dirà, «egli non fece d'oro gli occhi della sua Atena, né il resto del volto di lei, né le mani e i piedi, se, cioè, dovevano apparire bellissimi purché fossero fatti d'oro, ma li fece d'avorio; evidentemente commise questo errore per ignoranza, non sapendo che è l'oro a rendere bella ogni cosa a cui si aggiunge.» Quando dice questo, che risposta gli daremo, Ippia?
+
+Ippia: È facile; ché diremo che Fidia fece bene; giacché l'avorio, credo, è bello.
+
+Socrate: «Perché, allora», dirà, «non fece anche le parti centrali degli occhi d'avorio, ma di pietra, procurandosi una pietra il più possibile simile all'avorio? Oppure anche la bella pietra è bella?» Diremo che lo è, Ippia?
+
+Ippia: Certamente lo diremo, cioè, dove è appropriata.
 
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -402,6 +682,108 @@ Socrates: “Then again, according to your statement, among the heroes it is ter
 
 Hippias: I think so.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): «Ma brutta quando non è appropriata?» Devo essere d'accordo, o no?
+
+Ippia: Sii d'accordo, cioè, quando non è appropriata.
+
+Socrate: «E allora? L'oro e l'avorio», dirà, «quando sono appropriati, non rendono forse belle le cose, e quando non sono appropriati, brutte?» Lo negheremo, oppure ammetteremo che ciò che egli dice è corretto?
+
+Ippia: Ammetteremo questo, almeno, che qualunque cosa sia appropriata a una determinata cosa rende bella quella cosa.
+
+Socrate: «Ebbene, allora», dirà, «quando qualcuno ha bollito la pentola di cui or ora parlavamo, quella bella, piena di bella zuppa, le è appropriato un mestolo d'oro, oppure uno fatto di legno di fico?»
+
+Ippia: Per Eracle! Che tipo è mai costui di cui parli! Non vuoi dirmi chi è?
+
+Socrate: Non lo conosceresti se ti dicessi il suo nome.
+
+Ippia: Ma già ora so che è un ignorante.
+
+Socrate: È un gran seccatore, Ippia, eppure, che diremo? Quale dei due mestoli diremo che è appropriato alla zuppa e alla pentola? Non è forse evidentemente quello di legno di fico? Ché è probabile che renda migliore l'odore della zuppa, e inoltre, amico mio, non spaccherebbe la pentola, versando così la zuppa, spegnendo il fuoco e lasciando senza la loro splendida zuppa coloro che devono essere serviti; mentre il mestolo d'oro farebbe tutte queste cose, sicché mi sembra che dobbiamo dire che il mestolo di legno è più appropriato di quello d'oro, a meno che tu non sia in disaccordo.
+
+Ippia: No, ché è più appropriato, Socrate; tuttavia io, da parte mia, non parlerei con quel tale quando pone simili domande.
+
+Socrate: Giusto, amico mio; ché non sarebbe appropriato che tu fossi rimpinzato di simili parole, tu che sei così bellamente vestito, così bellamente calzato e così famoso per la tua saggezza fra tutti i Greci; ma per me non importa se mi accompagno a quel tale; perciò istruiscimi e per amor mio rispondigli. «Ché se quello di legno è più appropriato di quello d'oro», dirà quel tale, «non sarebbe forse più bello, dal momento che hai convenuto, Socrate, che l'appropriato è più bello di ciò che non è appropriato?» Non converremo, Ippia, che quello di legno è più bello di quello d'oro?
+
+Ippia: Vuoi che ti dica, Socrate, quale definizione del bello ti permetterà di liberarti da lunghe discussioni?
+
+Socrate: Certamente; ma non prima che tu mi abbia detto quale dei due mestoli di cui ho or ora parlato dovrò rispondere che è appropriato e più bello.
+
+Ippia: Ebbene, se vuoi, rispondigli che è quello fatto di legno di fico.
+
+Socrate: Ora, dunque, di' ciò che stavi per dire poco fa. Ché per questa risposta, se dico che il bello è l'oro, mi sembra che l'oro si mostrerà non più bello del legno di fico; ma che cosa dici ora, ancora una volta, che sia il bello?
+
+Ippia: Te lo dirò; ché mi sembri cercare di rispondere che il bello è qualcosa di tale natura che non apparirà mai brutto in nessun luogo a nessuno.
+
+Socrate: Certamente, Ippia; ora comprendi a meraviglia.
+
+Ippia: Ascolta, allora; ché, bada bene, se qualcuno ha qualcosa da obiettare a questo, puoi pur dire che non so proprio nulla.
+
+Socrate: Allora, per amor del cielo, parla il più in fretta che puoi.
+
+Ippia: Dico, dunque, che per ogni uomo e ovunque è cosa bellissima essere ricco e sano, ed essere onorato dai Greci, giungere alla vecchiaia e, dopo aver provveduto a un bel funerale per i genitori defunti, essere bellamente e splendidamente sepolto dalla propria prole.
+
+Socrate: Bravo, bravo, Ippia! Hai parlato in un modo mirabile e grande e degno di te; e ora, per Era, ti ringrazio, perché vieni benevolmente in mio aiuto al meglio delle tue capacità. Ma i nostri colpi non colpiscono l'uomo; no, ora riderà di noi più che mai, stattene certo.
+
+Ippia: Un misero riso, Socrate; ché quando non avrà nulla da dire a questo, ma riderà, riderà di se stesso e sarà lui stesso deriso dai presenti.
+
+Socrate: Forse è così; forse, tuttavia, dopo questa risposta, egli, lo prevedo, sarà probabilmente incline a fare qualcosa di più che ridere di me.
+
+Ippia: Perché dici questo, di grazia?
+
+Socrate: Perché, se per caso ha un bastone, a meno che io non me la svigni in fretta, cercherà di darmene di santa ragione.
+
+Ippia: Come? Quel tale è forse una specie di tuo padrone, e se fa ciò, non sarà arrestato e non dovrà pagarne il fio? Oppure la tua città disprezza la giustizia e permette ai cittadini di picchiarsi l'un l'altro ingiustamente?
+
+Socrate: Oh no, questo non è affatto permesso.
+
+Ippia: Allora dovrà pagare la pena per averti picchiato ingiustamente.
+
+Socrate: Non credo, Ippia. No, se io dessi quella risposta, la percossa sarebbe giusta, credo.
+
+Ippia: Allora lo credo anch'io, Socrate, dal momento che questa è la tua stessa convinzione.
+
+Socrate: Non ti dirò, dunque, perché è mia stessa convinzione che la percossa sarebbe giusta, se io dessi quella risposta? Oppure mi percuoterai anche tu senza processo? Oppure ascolterai ciò che ho da dire?
+
+Ippia: Sarebbe scandaloso se non ascoltassi; ma che cosa hai da dire?
+
+Socrate: Te lo dirò, imitandolo nello stesso modo di poco fa, per non usare con te parole tanto aspre e rozze quali egli usa con me. Ché, sta' pur certo, «Dimmi, Socrate», dirà, «credi che sarebbe ingiusto se ti buscassi una percossa per aver cantato un ditirambo tanto lungo così stonatamente e così lontano dalla domanda?» «Come mai?» dirò. «Come mai?» dirà; «non sei capace di ricordare che ho chiesto del bello in sé, per opera del quale ogni cosa a cui si aggiunge ha la proprietà di essere bella, sia la pietra sia il bastone sia l'uomo sia il dio e ogni azione e ogni acquisizione di conoscenza? Ché ciò che chiedo è questo, uomo: che cos'è la [bellezza](/concepts/beauty) in sé? e non riesco a farti udire ciò che dico più di quanto potrei se tu fossi una pietra seduta accanto a me, e per giunta una macina, senza orecchie né cervello.» Non ti adireresti dunque, Ippia, se io fossi spaventato e rispondessi in questo modo? «Ebbene, ma Ippia disse che questo era il bello; e tuttavia io gli ho chiesto, proprio come tu hai chiesto a me, che cosa sia bello per tutti e sempre.» Che cosa dici? Non ti adirerai se dico questo?
+
+Ippia: So bene, Socrate, che questo che ho detto essere bello è bello per tutti e tale sembrerà.
+
+Socrate: E lo sarà anche, dirà, ché il bello è sempre bello, non è vero?
+
+Ippia: Certamente.
+
+Socrate: «Allora lo era anche in passato?» dirà.
+
+Ippia: Lo era anche in passato.
+
+Socrate: «E», dirà, «lo straniero di Elide disse anche che per Achille era bello essere sepolto più tardi dei suoi genitori, e per suo nonno Eaco, e per tutti gli altri che nacquero dagli dèi, e per gli dèi stessi?»
+
+Ippia: Che roba è questa? Maledizione! Queste domande di quel tale non sono nemmeno rispettose della religione.
+
+Socrate: Ebbene, allora, quando è un altro a porre la domanda, forse non è del tutto irrispettoso della religione dire che le cose stanno così?
+
+Ippia: Forse.
+
+Socrate: «Forse, dunque, sei tu l'uomo», dirà, «che dice che è bello per ognuno e sempre essere sepolti dalla propria prole e seppellire i propri genitori; oppure Eracle non era compreso in "ognuno", lui e tutti quelli che or ora abbiamo menzionato?»
+
+Ippia: Ma io non ho detto che era così per gli dèi.
+
+Socrate: «Né per gli eroi, a quanto pare.»
+
+Ippia: Non per quelli che erano figli di dèi.
+
+Socrate: «Ma per quelli che non lo erano?»
+
+Ippia: Certamente.
+
+Socrate: «Allora, di nuovo, secondo la tua affermazione, fra gli eroi è cosa terribile ed empia e vergognosa per Tantalo e Dardano e Zeto, ma bella per Pelope e per gli altri che nacquero come lui?»
+
+Ippia: Lo credo.
+
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [Socrates](/figures/socrates): “You think, then, what you did not say just now, that to bury one’s parents and be buried by one’s offspring is sometimes and for some persons disgraceful; and it is still more impossible, as it seems, for this to become and to be beautiful for all, so that the same thing has happened to this as to the things we mentioned before, the maiden and the pot, in a still more ridiculous way than to them; it is beautiful for some and not beautiful for others. And you are not able yet, even today, Socrates,” he will say, “to answer what is asked about the beautiful, namely what it is.” With these words and the like he will rebuke me, if I reply to him in this way. For the most part, Hippias, he talks with me in some such way as that but sometimes, as if in pity for my inexperience and lack of training, he himself volunteers a question, and asks whether I think the beautiful is so and so or whatever else it is which happens to be the subject of our questions and our discussion.
@@ -467,6 +849,72 @@ Hippias: Certainly.
 Socrates: Power, then, is beautiful, and want of power is disgraceful or ugly.
 
 Hippias: Decidedly. Now other things, Socrates, testify for us that this is so, but especially political affairs; for in political affairs and in one’s own state to be powerful is the most beautiful of all things, but to be powerless is the most disgraceful of all.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): «Tu pensi, dunque, ciò che poco fa non dicevi, che seppellire i propri genitori ed essere sepolti dalla propria prole talvolta e per alcune persone è vergognoso; ed è ancora più impossibile, a quanto pare, che questo diventi e sia bello per tutti, sicché a questo è accaduta la stessa cosa che alle cose menzionate prima, la fanciulla e la pentola, in modo ancor più ridicolo che a esse: è bello per alcuni e non bello per altri. E tu non sei ancora capace, nemmeno oggi, Socrate», dirà, «di rispondere a ciò che si chiede intorno al bello, cioè che cosa esso sia.» Con queste parole e simili mi rimprovererà, se gli rispondo in questo modo. Per lo più, Ippia, egli discorre con me pressappoco a questa maniera; ma talvolta, come per pietà della mia inesperienza e mancanza di addestramento, egli stesso propone spontaneamente una domanda, e chiede se io ritenga che il bello sia questo o quello o qualunque altra cosa sia per caso l'oggetto delle nostre domande e della nostra discussione.
+
+Ippia: Che cosa intendi con ciò, Socrate?
+
+Socrate: Te lo dirò. «Oh, mio caro Socrate», dice, «smetti di dare risposte di questa sorta e in questo modo — ché sono troppo sciocche e facili da confutare; ma vedi se qualcosa di simile a questo non ti sembri essere bello, qualcosa che abbiamo colto or ora nella nostra risposta, quando dicevamo che l'oro era bello per quelle cose per cui era appropriato, ma non per quelle per cui non lo era, e che tutte le altre cose erano belle a cui questa qualità appartiene; esamina dunque proprio questo, l'appropriato, e vedi se per caso esso sia il bello.» Ora io sono avvezzo a concedere ogni volta simili cose, ché non so che dire; ma ora ti sembra che l'appropriato sia il bello?
+
+Ippia: Sì, certamente, Socrate.
+
+Socrate: Consideriamolo, per non sbagliarci in qualche modo.
+
+Ippia: Sì, dobbiamo considerarlo.
+
+Socrate: Vedi, allora; diciamo che l'appropriato è ciò che, quando viene aggiunto, fa apparire belle ciascuna delle cose a cui è aggiunto, oppure ciò che le fa essere belle, oppure nessuna di queste due cose?
+
+Ippia: Lo credo.
+
+Socrate: Quale?
+
+Ippia: Ciò che le fa apparire belle; come quando un uomo indossa vesti o calzari che gli stanno bene, anche se è ridicolo, appare più bello.
+
+Socrate: Allora, se l'appropriato lo fa apparire più bello di quel che è, l'appropriato sarebbe una sorta di inganno rispetto al bello, e non sarebbe ciò che stiamo cercando, non è vero, Ippia? Ché cercavamo piuttosto ciò per cui tutte le cose belle sono belle — come ciò per cui tutte le cose grandi sono grandi, cioè l'eccesso; ché è per questo che tutte le cose grandi sono grandi; ché anche se non appaiono grandi, ma eccedono, sono di necessità grandi; così, dunque, diciamo, che cosa sarebbe il bello, per cui tutte le cose sono belle, sia che appaiano tali sia che no? Ché non potrebbe essere l'appropriato, dal momento che quello, a tuo dire, fa apparire le cose più belle di quel che sono, ma non le lascia apparire quali sono. Ma dobbiamo tentare di dire che cos'è ciò che fa essere belle le cose, come dicevo or ora, sia che appaiano tali sia che no; ché è questo che cerchiamo, dal momento che cerchiamo il bello.
+
+Ippia: Ma l'appropriato, Socrate, fa sì che le cose siano e appaiano belle mediante la sua presenza.
+
+Socrate: È dunque impossibile che cose realmente belle non appaiano belle, almeno quando è presente ciò che le fa apparire tali?
+
+Ippia: È impossibile.
+
+Socrate: Converremo dunque in questo, Ippia, che tutte le cose che sono realmente belle, sia gli usi sia le occupazioni, sono sempre ritenute belle da tutti e appaiono tali a essi, oppure, al contrario, che le persone ne sono ignoranti, e che vi è più contesa e discordia intorno a esse che intorno a qualunque altra cosa, sia in privato fra gli individui sia in pubblico fra gli stati?
+
+Ippia: Piuttosto quest'ultima cosa, Socrate; che le persone ne sono ignoranti.
+
+Socrate: Non lo sarebbero, se a esse si aggiungesse l'apparenza della [bellezza](/concepts/beauty); e si aggiungerebbe, se l'appropriato fosse bello e facesse le cose non solo essere belle, ma anche apparire tali. Sicché l'appropriato, se è ciò che fa essere belle le cose, sarebbe il bello che cerchiamo, ma non sarebbe ciò che fa apparire belle le cose; ma se, d'altra parte, l'appropriato è ciò che fa apparire belle le cose, non sarebbe il bello che cerchiamo. Ché quello fa essere belle le cose, ma il medesimo elemento non potrebbe far sì che le cose insieme appaiano e siano belle, né potrebbe far sì che esse insieme appaiano e siano qualunque altra cosa. Scegliamo, dunque, se riteniamo che l'appropriato sia ciò che fa apparire o essere belle le cose.
+
+Ippia: Ciò che le fa apparire tali, a mio parere, Socrate.
+
+Socrate: Ahimè! La nostra percezione di che cosa sia il bello è fuggita ed è svanita, Ippia, dal momento che l'appropriato è risultato essere qualcosa di diverso dal bello.
+
+Ippia: Sì, per Zeus, Socrate, e a me la cosa pare assai strana.
+
+Socrate: Tuttavia, amico mio, non rinunciamovi ancora, ché nutro ancora la speranza che si faccia chiaro che cosa sia il bello.
+
+Ippia: Certamente, di sicuro, Socrate, ché non è difficile trovarlo. Ora so che se me ne andassi in solitudine e meditassi da solo tra me e me, potrei dirtelo con la più perfetta esattezza.
+
+Socrate: Ah, non vantarti, Ippia. Vedi quanti fastidi ci ha già causati; temo che possa adirarsi e fuggire più che mai. Eppure questo è un'assurdità; ché tu, credo, lo troverai facilmente quando te ne andrai per conto tuo. Ma per amor del cielo, trovalo in mia presenza, oppure, se ti piace, unisciti a me, come stai ora facendo, nel cercarlo. E se lo troviamo, sarà splendido, ma se non lo troviamo, io, suppongo, accetterò la mia sorte, e tu te ne andrai e lo troverai facilmente. E se lo troviamo ora, non ti sarò certo di fastidio chiedendoti che cosa fosse quello che hai trovato da solo; ma ora ancora una volta vedi se questo è a tuo parere il bello: dico, dunque, che è — ma considera, prestandomi la massima attenzione, affinché io non dica assurdità — ché dico, dunque, che qualunque cosa sia utile sarà per noi bella. Ma l'ho detto con questa ragione per il mio pensiero: begli occhi, diciamo, non sono quelli che sembrano tali, ma che sono incapaci di vedere, bensì quelli che sono capaci e utili per vedere. È giusto?
+
+Ippia: Sì.
+
+Socrate: Allora, del pari, nello stesso modo diciamo che tutto il corpo è bello, parte di esso per correre, parte per lottare; e di nuovo tutti gli animali, un bel cavallo o gallo o quaglia e tutti gli utensili e i veicoli terrestri, e sul mare le navi da carico e le navi da guerra; e tutti gli strumenti nella musica e nelle altre arti, e, se vuoi, anche i costumi e le leggi — pressoché tutte queste cose noi chiamiamo belle nello stesso modo guardando a ciascuna di esse — come è formata per natura, come è lavorata, come è stata istituita — l'utile noi chiamiamo bello, e bello nel modo in cui è utile, e per lo scopo per cui è utile, e nel tempo in cui è utile; e ciò che sotto tutti questi aspetti è inutile diciamo che è brutto. Ora non è anche questa la tua opinione, Ippia?
+
+Ippia: Lo è.
+
+Socrate: Allora abbiamo ragione di dire che l'utile più di ogni altra cosa è bello?
+
+Ippia: Abbiamo ragione, di certo, Socrate.
+
+Socrate: Ora ciò che ha il potere di compiere qualcosa è utile per ciò per cui ha il potere, ma ciò che è privo di potere è inutile, non è vero?
+
+Ippia: Certamente.
+
+Socrate: Il potere, dunque, è bello, e la mancanza di potere è vergognosa o brutta.
+
+Ippia: Decisamente. Ora altre cose, Socrate, ci attestano che è così, ma soprattutto gli affari politici; ché negli affari politici e nel proprio stato essere potente è la più bella di tutte le cose, ma essere impotente è la più vergognosa di tutte.
 
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -602,6 +1050,140 @@ Socrates: I will tell you what presents itself to me, if perhaps there may be so
 
 Hippias: Certainly, by all means, Socrates, we shall say that there are very great pleasures in the other things also.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): Bene! Allora, per amor del cielo, Ippia, anche la saggezza è per questa ragione la più bella di tutte le cose, e l'ignoranza la più vergognosa di tutte?
+
+Ippia: Ebbene, che cosa supponi, Socrate?
+
+Socrate: Sta' solo un po' in silenzio, mio caro amico; sono così timoroso e mi domando che cosa mai stiamo di nuovo dicendo.
+
+Ippia: Di che cosa hai di nuovo paura, Socrate, dal momento che ora la tua argomentazione è proceduta a meraviglia?
+
+Socrate: Vorrei che fosse così; ma considera questo punto con me: potrebbe una persona fare ciò che non sapeva come fare ed era del tutto impotente a fare?
+
+Ippia: In nessun modo; ché come potrebbe fare ciò che era impotente a fare?
+
+Socrate: Allora coloro che commettono errori e compiono e fanno cose cattive involontariamente, se fossero impotenti a fare quelle cose, non le farebbero?
+
+Ippia: Evidentemente no.
+
+Socrate: Ma è pur per potere che sono potenti coloro che sono potenti; ché di certo non lo sono per impotenza.
+
+Ippia: Certamente no.
+
+Socrate: E tutti coloro che fanno hanno il potere di fare ciò che fanno?
+
+Ippia: Sì.
+
+Socrate: Gli uomini fanno molte più cose cattive che buone, fin dall'infanzia, e commettono molti errori involontariamente.
+
+Ippia: Questo è vero.
+
+Socrate: Ebbene, allora, questo potere e queste cose utili, che sono utili per compiere qualcosa di cattivo — diremo che sono belle, oppure tutt'altro che belle?
+
+Ippia: Tutt'altro che belle, a mio parere, Socrate.
+
+Socrate: Allora, Ippia, il potente e l'utile non sono, a quanto pare, il nostro bello.
+
+Ippia: Lo sono, Socrate, se sono potenti e utili per il bene.
+
+Socrate: Allora quell'asserzione, che il potente e l'utile sono belli senza restrizioni, è svanita; ma era questo, Ippia, ciò che la nostra anima voleva dire, che l'utile e il potente per fare qualcosa di buono è il bello?
+
+Ippia: Sì, a mio parere.
+
+Socrate: Ma questo è certo benefico; oppure no?
+
+Ippia: Certamente.
+
+Socrate: Così per questo argomento le persone belle e i bei costumi e tutto ciò che abbiamo menzionato or ora sono belli perché sono benefici.
+
+Ippia: Evidentemente.
+
+Socrate: Allora il benefico ci sembra essere il bello, Ippia.
+
+Ippia: Sì, certamente, Socrate.
+
+Socrate: Ma il benefico è ciò che crea il bene.
+
+Ippia: Sì, lo è.
+
+Socrate: Ma ciò che crea non è altro che la causa; ho ragione?
+
+Ippia: È così.
+
+Socrate: Allora il bello è la causa del bene.
+
+Ippia: Sì, lo è.
+
+Socrate: Ma di certo, Ippia, la causa e ciò di cui la causa è causa sono diversi; ché la causa non potrebbe ben essere la causa della causa. Ma considera la cosa in questo modo: la causa non è stata vista essere creatrice?
+
+Ippia: Sì, certamente.
+
+Socrate: Da ciò che crea, dunque, è creato solo ciò che viene all'esistenza, ma non ciò che crea. Non è vero?
+
+Ippia: È vero.
+
+Socrate: La causa, dunque, non è la causa della causa, ma di ciò che viene all'esistenza per opera sua.
+
+Ippia: Certamente.
+
+Socrate: Se, dunque, il bello è la causa del bene, il bene verrebbe all'esistenza per opera del bello; ed è per questo che siamo bramosi della saggezza e di tutte le altre cose belle, perché la loro prole, il bene, è degna di brama, e, da quel che stiamo scoprendo, sembra che il bello sia una sorta di padre del bene.
+
+Ippia: Certamente; ché ciò che dici è ben detto, Socrate.
+
+Socrate: Allora è ben detto anche questo, che il padre non è il figlio, e il figlio non è il padre?
+
+Ippia: Di sicuro è ben detto.
+
+Socrate: E neppure la causa è ciò che viene all'esistenza, né ciò che viene all'esistenza è la causa.
+
+Ippia: Vero.
+
+Socrate: Per Zeus, mio buon amico, allora né il bello è buono, né il buono bello; oppure ti sembra possibile, dopo ciò che è stato detto?
+
+Ippia: No, per Zeus, non mi pare così.
+
+Socrate: Ci piace, e saremmo disposti a dire che il bello non è buono, e il buono non bello?
+
+Ippia: No, per Zeus, non mi piace affatto.
+
+Socrate: Giusto, per Zeus, Ippia! E mi piace meno di tutte le cose che abbiamo detto.
+
+Ippia: Sì, è probabile.
+
+Socrate: Allora c'è una buona [probabilità](/concepts/fortune) che l'affermazione secondo cui il benefico e l'utile e il potente per creare qualcosa di buono sono belli non sia, come sembrava, la più bella delle affermazioni, ma, se ciò è possibile, sia ancora più ridicola di quelle prime in cui pensavamo che la fanciulla fosse il bello, e di ciascuna delle varie altre cose di cui parlavamo prima.
+
+Ippia: È probabile.
+
+Socrate: E, Ippia, non so più dove volgermi; sono in imbarazzo; ma tu hai qualcosa da dire?
+
+Ippia: Non al momento, ma, come ho detto or ora, sono certo che lo troverò dopo aver meditato.
+
+Socrate: Ma mi sembra di essere così bramoso di sapere che non posso aspettare te mentre indugi; ché credo di aver appena trovato una via d'uscita. Guarda un po': quanto ci aiuterebbe verso la nostra meta se dicessimo che è bello ciò che ci fa provare gioia; non intendo tutti i piaceri, ma quello che ci fa provare gioia mediante l'udito e la vista? Ché di certo i begli esseri umani, Ippia, e tutte le decorazioni e i dipinti e le opere di scultura che sono belle, ci dilettano quando le vediamo; e i bei suoni e la musica in generale e i discorsi e i racconti fanno la stessa cosa, sicché se dovessimo rispondere a quel tale sfacciato: «Ottimo uomo, il bello è ciò che è piacevole mediante l'udito e la vista», non credi che porremmo fine alla sua sfacciataggine?
+
+Ippia: A me, almeno, Socrate, sembra che la natura del bello sia ora ben enunciata.
+
+Socrate: Ma allora? Diremo, Ippia, che i bei costumi e le belle leggi sono belli perché sono piacevoli mediante l'udito e la vista, oppure che hanno qualche altra forma di [bellezza](/concepts/beauty)?
+
+Ippia: Forse, Socrate, queste cose potrebbero sfuggire inosservate all'uomo.
+
+Socrate: No, per il cane, Ippia — non sfuggirebbero all'uomo dinanzi al quale mi vergognerei più che mai di dire assurdità e di fingere di dire cose sensate quando non le dico.
+
+Ippia: Chi è quest'uomo?
+
+Socrate: Socrate, figlio di Sofronisco, il quale non mi permetterebbe di dire queste cose con leggerezza senza indagine più di quanto mi permetterebbe di dire che so ciò che non so.
+
+Ippia: Ma certo anch'io, ora che l'hai menzionato, penso che questo riguardo alle leggi sia qualcosa di diverso.
+
+Socrate: Non troppo in fretta, Ippia; ché molto probabilmente siamo caduti nella stessa perplessità intorno al bello in cui eravamo poco fa, benché pensiamo di aver trovato un'altra via d'uscita.
+
+Ippia: Che cosa intendi con ciò, Socrate?
+
+Socrate: Ti dirò ciò che mi si presenta, se forse vi può essere in ciò qualche senso. Ché forse queste questioni delle leggi e dei costumi potrebbero mostrarsi non estranee alla percezione che abbiamo mediante l'udito e la vista; ma atteniamoci all'affermazione che ciò che è piacevole mediante i sensi è bello, senza intromettervi la questione delle leggi. Ma se quest'uomo di cui parlo, o chiunque altro, dovesse chiederci: «Ippia e Socrate, avete fatto la distinzione per cui, nella categoria del piacevole, ciò che è piacevole nel modo che voi menzionate è bello, mentre dite che ciò che è piacevole secondo gli altri sensi — quelli concernenti il cibo e la bevanda e l'amore sessuale e tutte le cose simili — non è bello? Oppure dite che tali cose non sono nemmeno piacevoli e che non vi è affatto piacere in esse, né in null'altro se non nella vista e nell'udito?» Che cosa diremo, Ippia?
+
+Ippia: Certamente, senza dubbio, Socrate, diremo che vi sono grandissimi piaceri anche nelle altre cose.
+
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [Socrates](/figures/socrates): “Why, then,” he will say, “if they are pleasures no less than the others, do you take from them this designation and deprive them of being beautiful?” “Because,” we shall say, “everybody would laugh at us if we should say that eating is not pleasant but is beautiful, and that a pleasant odor is not pleasant but is beautiful; and as to the act of sexual love, we should all, no doubt, contend that it is most pleasant, but that one must, if he perform it, do it so that no one else shall see, because it is most repulsive to see.” If we say this, Hippias, “I too understand,” he will perhaps say, “that you have all along been ashamed to say that these pleasures are beautiful, because they do not seem so to people; but that is not what I asked, what seems to most people to be beautiful, but what is so.” We shall, then, I fancy, say, as we suggested, “We say that that part of the pleasant which comes by sight and hearing is beautiful.” Do you think the statement is of any use, Hippias, or shall we say something else?
@@ -663,6 +1245,68 @@ Hippias: But you see, Socrates, you do not consider the entirety of things, nor 
 Socrates: Human affairs, Hippias, are not what a man wishes, but what he can, as the proverb goes which people are constantly citing; but you are always aiding us with admonitions. For now too, until we were admonished by you of our foolish state of mind — shall I continue to speak and make you a still further exhibition of our thoughts on the subject, or shall I not speak?
 
 Hippias: You will speak to one who knows, Socrates, for I know [the state](/concepts/state) of mind of all who are concerned with discussions; but nevertheless, if you prefer, speak.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): «Perché, allora», dirà, «se sono piaceri non meno degli altri, togliete loro questa denominazione e li private di essere belli?» «Perché», diremo, «tutti riderebbero di noi se dicessimo che il mangiare non è piacevole ma è bello, e che un odore gradevole non è piacevole ma è bello; e quanto all'atto dell'amore sessuale, tutti, senza dubbio, sosterremmo che è piacevolissimo, ma che, se lo si compie, bisogna farlo in modo che nessun altro veda, perché è ripugnantissimo a vedersi.» Se diciamo questo, Ippia, «Anch'io comprendo», dirà forse, «che tutto questo tempo vi siete vergognati di dire che questi piaceri sono belli, perché non sembrano tali alla gente; ma non è questo che ho chiesto, che cosa sembri bello ai più, bensì che cosa sia bello.» Diremo, dunque, immagino, come abbiamo suggerito: «Diciamo che quella parte del piacevole che viene dalla vista e dall'udito è bella.» Credi che l'affermazione sia di qualche utilità, Ippia, oppure diremo qualcos'altro?
+
+Ippia: Inevitabilmente, in vista di ciò che è stato detto, Socrate, dobbiamo dire proprio questo.
+
+Socrate: «Eccellente!» dirà. «Allora, se ciò che è piacevole mediante la vista e l'udito è bello, ciò che, tra le cose piacevoli, non si dà il caso che sia di quel genere, evidentemente non sarebbe bello?» Saremo d'accordo?
+
+Ippia: Sì.
+
+Socrate: «È dunque ciò che è piacevole mediante la vista», dirà, «piacevole mediante la vista e l'udito, oppure ciò che è piacevole mediante l'udito è piacevole mediante l'udito e la vista?» «No», diremo, «ciò che è piacevole mediante ciascuno di questi sensi non sarebbe affatto piacevole mediante entrambi — ché è questo che tu ci sembri intendere — ma dicevamo che l'una o l'altra di queste cose piacevoli sarebbe bella da sola per sé, ed entrambe insieme.» Non è questa la risposta che daremo?
+
+Ippia: Certamente.
+
+Socrate: «Una qualsiasi cosa piacevole, dunque», dirà, «differisce da una qualsiasi cosa piacevole per questo, per l'essere piacevole? Non chiedo se un piacere è maggiore o minore o più o meno, ma se differisce proprio per questa stessa cosa, per il fatto che uno dei piaceri è un piacere e l'altro non è un piacere.» «Non lo crediamo.» Non è vero?
+
+Ippia: No, non lo crediamo.
+
+Socrate: «Non è forse», allora, dirà, «per qualche altra ragione che perché sono piaceri che avete scelto questi piaceri fra gli altri piaceri — è perché avete visto qualche qualità in entrambi, dal momento che hanno qualcosa di diverso dagli altri, in vista del quale dite che sono belli? Ché la ragione per cui ciò che è piacevole mediante la vista è bello non è, immagino, perché è mediante la vista; ché se questa fosse la causa del suo essere bello, l'altro piacere, quello mediante l'udito, non sarebbe bello; esso non è certo piacere mediante la vista.» Diremo: «Ciò che dici è vero»?
+
+Ippia: Sì, lo diremo.
+
+Socrate: «Né, di nuovo, il piacere mediante l'udito è bello per la ragione che è mediante l'udito; ché in tal caso, ancora una volta, il piacere mediante la vista non sarebbe bello; esso non è certo piacere mediante l'udito.» Diremo, Ippia, che l'uomo che dice ciò dice la verità?
+
+Ippia: Sì, dice la verità.
+
+Socrate: «Eppure entrambi sono belli, come tu dici.» Lo diciamo, non è vero?
+
+Ippia: Lo diciamo.
+
+Socrate: «Hanno, dunque, qualcosa di identico che li fa essere belli, questa qualità comune che appartiene a entrambi in comune e a ciascuno individualmente; ché altrimenti non sarebbero belli sia collettivamente sia ciascuno individualmente.» Rispondimi, come se rispondessi a lui.
+
+Ippia: Rispondo, e penso che sia come tu dici.
+
+Socrate: Se, dunque, questi piaceri sono entrambi affetti in qualche modo collettivamente, ma ciascuno individualmente non è così affetto, non è per questa affezione che essi sarebbero belli.
+
+Ippia: E come potrebbe essere, Socrate, che quando nessuno di essi individualmente è affetto da qualche affezione, allora entrambi siano affetti da quell'affezione da cui nessuno è affetto?
+
+Socrate: Pensi che non possa essere?
+
+Ippia: Dovrei essere assai inesperto sia nella natura di queste cose sia nel linguaggio della nostra presente discussione.
+
+Socrate: Assai grazioso, Ippia. Ma c'è una [probabilità](/concepts/fortune) che io creda di vedere un caso di quel genere che tu dici impossibile, ma in realtà non lo veda.
+
+Ippia: Non c'è probabilità che tenga, Socrate, ma vedi a torto del tutto di proposito.
+
+Socrate: E di certo molti casi simili si presentano alla mia mente, ma diffido di essi perché non si presentano a te, un uomo che ha guadagnato più denaro con la saggezza di chiunque altro ora viva, mentre a me che non ho mai guadagnato affatto denaro; e il pensiero mi turba che tu ti stia prendendo gioco di me e mi inganni di proposito, tanto essi mi si presentano numerosi e con tale forza.
+
+Ippia: Nessuno, Socrate, saprà meglio di te se io mi prenda gioco di te o no, se procederai a dire queste cose che ti si presentano; ché ti sarà evidente che stai dicendo assurdità. Ché non troverai mai che tu e io siamo entrambi affetti da un'affezione da cui nessuno di noi due è affetto.
+
+Socrate: Che cosa dici, Ippia? Forse dici cose sensate, e io non riesco a comprendere; ma lascia che dica più chiaramente ciò che voglio dire. Ché mi pare che sia possibile per noi due essere entrambi affetti in modo da essere qualcosa che io non sono affetto in modo da essere, e che io non sono e nemmeno tu sei; e di nuovo che nessuno di noi due sia affetto in modo da essere altre cose che entrambi siamo.
+
+Ippia: La tua risposta, Socrate, sembra implicare di nuovo prodigi ancor più grandi di quelli della tua risposta precedente. Ché considera: se siamo entrambi giusti, non sarebbe anche ciascuno di noi giusto, e se ciascuno è ingiusto, non saremmo di nuovo anche entrambi ingiusti, o se entrambi siamo sani, anche ciascuno di noi? Oppure se ciascuno di noi fosse stanco o ferito o percosso o affetto in qualunque altro modo, non saremmo entrambi affetti nello stesso modo? E poi, se fossimo d'oro o d'argento o d'avorio, o, se ti piace, nobili o saggi o onorati o vecchi o giovani o qualunque altra cosa tu voglia di tutto ciò a cui la carne è soggetta, non è del tutto inevitabile che anche ciascuno di noi sia quello?
+
+Socrate: Assolutamente.
+
+Ippia: Ma vedi, Socrate, tu non consideri la totalità delle cose, né lo fanno coloro con cui hai l'[abitudine](/concepts/custom) di conversare, ma voi tutti mettete alla prova il bello e ogni singola entità prendendoli separatamente e facendoli a pezzi. Per questa ragione non riuscite a osservare che le incarnazioni della realtà sono per natura così grandi e indivise. E ora hai mancato di osservarlo a tal punto che pensi vi sia qualche affezione o realtà che appartiene a entrambe queste cose insieme, ma non a ciascuna individualmente, oppure di nuovo a ciascuna, ma non a entrambe; tanto irragionevole e indiscernente e sciocco e sconsiderato è il tuo stato d'animo.
+
+Socrate: Le faccende umane, Ippia, non sono ciò che un uomo desidera, ma ciò che può, come recita il proverbio che la gente cita di continuo; ma tu ci vieni sempre in soccorso con le tue ammonizioni. Ché anche ora, finché non fummo ammoniti da te del nostro sciocco stato d'animo — devo continuare a parlare e farti un'ulteriore esibizione dei nostri pensieri sull'argomento, oppure non devo parlare?
+
+Ippia: Parlerai a uno che sa, Socrate, ché io conosco [lo stato](/concepts/state) d'animo di tutti coloro che si occupano di discussioni; ma nondimeno, se preferisci, parla.
 
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -754,6 +1398,100 @@ Socrates: “Well, then,” he will say, “beneficial is that which creates the
 
 Hippias: But now, Socrates, what do you think all this amounts to? It is mere scrapings and shavings of discourse, as I said a while ago, divided into bits; but that other ability is beautiful and of great worth, the ability to produce a discourse well and beautifully in a court of law or a council-house or before any other public body before which the discourse may be delivered, to convince the audience and to carry off, not the smallest, but the greatest of prizes, the salvation of oneself, one’s property, and one’s friends. For these things, therefore, one must strive, renouncing these petty arguments, that one may not, by busying oneself, as at present, with mere talk and nonsense, appear to be a fool.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): Ebbene, preferisco. Ché noi, amico mio, eravamo così stolti, prima che tu parlassi, da avere un'opinione riguardo a te e a me, che ciascuno di noi era uno, ma che entrambi non eravamo ciò che ciascuno di noi era — ché non siamo uno, ma due — tanto sciocchi eravamo. Ma ora tu ci hai insegnato che se siamo entrambi due, allora ciascuno di noi è inevitabilmente due, e se ciascuno è uno, allora entrambi sono inevitabilmente uno; ché è impossibile, secondo la dottrina continua della realtà secondo Ippia, che sia altrimenti, ma ciò che entrambi siamo, quello ciascuno è, e ciò che ciascuno è, entrambi sono. Sicché ora sono stato convinto da te, e sostengo questa posizione. Ma prima, Ippia, ravviva la mia memoria: siamo tu e io uno, oppure tu sei due e io due?
+
+Ippia: Che cosa intendi, Socrate?
+
+Socrate: Proprio ciò che dico; ché ho paura di parlarti chiaramente, perché ti irriti con me, quando pensi di ragionare sensatamente; tuttavia, dimmi ancora: non è ciascuno di noi uno e affetto in modo tale da essere uno?
+
+Ippia: Certamente.
+
+Socrate: Allora ciascuno di noi, se uno, sarebbe un numero dispari; oppure non consideri l'uno un numero dispari?
+
+Ippia: Lo considero.
+
+Socrate: Allora siamo entrambi un numero dispari, essendo due?
+
+Ippia: Questo non potrebbe essere, Socrate.
+
+Socrate: Ma siamo entrambi un numero pari, non è vero?
+
+Ippia: Certamente.
+
+Socrate: Allora perché siamo entrambi pari, è per questo che ciascuno di noi è pari?
+
+Ippia: No, di certo no.
+
+Socrate: Allora non è del tutto inevitabile, come dicevi or ora, che ciò che entrambi sono, ciascuno è, e ciò che ciascuno è, entrambi sono.
+
+Ippia: Non le cose di questa sorta, ma quelle che ho menzionato prima.
+
+Socrate: Ciò basta, Ippia; ché anche questo è bene accetto, dal momento che risulta che alcune cose sono così e altre non sono così. Ché io dicevo, se ricordi l'inizio di questa discussione, che il piacere mediante la vista e mediante l'udito erano belli, non per ciò per cui ciascuno di essi era affetto in modo da essere bello, ma non entrambi, né entrambi ma non ciascuno, ma per ciò per cui entrambi e ciascuno erano affetti, perché tu concedevi che entrambi e ciascuno erano belli. Per questa ragione pensavo che, se entrambi sono belli, devono essere belli per quell'essenza che appartiene a entrambi, ma non per ciò che manca a ciascuno; e lo penso ancora. Ma dimmi, come all'inizio: se il piacere mediante la vista e il piacere mediante l'udito sono entrambi e ciascuno belli, ciò che li rende belli non appartiene a entrambi e a ciascuno?
+
+Ippia: Certamente.
+
+Socrate: È dunque per questa ragione, perché ciascuno è un piacere ed entrambi sono piaceri, che essi sarebbero belli? Oppure tutti gli altri piaceri sarebbero per questa ragione non meno belli di essi? Ché abbiamo visto, se ricordi, che non erano meno piaceri.
+
+Ippia: Sì, lo ricordo.
+
+Socrate: Ma per questa ragione, perché questi piaceri erano mediante la vista e l'udito, si diceva che sono belli.
+
+Ippia: Sì, è ciò che si diceva.
+
+Socrate: Vedi se ciò che dico è vero. Ché si diceva, se la memoria mi serve, che questo «piacevole» era bello, non tutto il «piacevole», ma quello che è mediante la vista e l'udito.
+
+Ippia: Vero.
+
+Socrate: Ora questa qualità appartiene a entrambi, ma non a ciascuno, non è vero? Ché di certo ciascuno di essi, come si diceva prima, non è mediante entrambi i sensi, ma entrambi sono mediante entrambi, e ciascuno non lo è. È vero?
+
+Ippia: Lo è.
+
+Socrate: Allora non è per ciò che non appartiene a ciascuno che ciascuno di essi è bello; ché «entrambi» non appartiene a ciascuno; sicché è possibile, secondo la nostra ipotesi, dire che entrambi sono belli, ma non dire che ciascuno lo è; oppure che diremo? Non è forse inevitabile?
+
+Ippia: Così pare.
+
+Socrate: Diremo, dunque, che entrambi sono belli, ma che ciascuno non lo è?
+
+Ippia: Che cosa lo impedisce?
+
+Socrate: Questo mi sembra impedirlo, amico mio, che vi erano alcuni attributi appartenenti così alle cose individuali, i quali appartenevano, pensavamo, a ciascuno, se appartenevano a entrambi, e a entrambi, se appartenevano a ciascuno — intendo tutti quegli attributi che tu hai specificato. Ho ragione?
+
+Ippia: Sì.
+
+Socrate: Ma quelli, di nuovo, che io ho specificato non lo facevano; e fra questi erano precisamente «ciascuno» ed «entrambi». È così?
+
+Ippia: È così.
+
+Socrate: A quale gruppo, dunque, Ippia, ti sembra appartenere il bello? Al gruppo di quelli che tu hai menzionato? Se io sono forte e tu pure, siamo entrambi collettivamente forti, e se io sono giusto e tu pure, siamo entrambi collettivamente giusti, e se entrambi collettivamente, allora anche ciascuno individualmente così; se io sono bello e tu pure, siamo entrambi collettivamente belli, e se entrambi collettivamente, allora anche ciascuno individualmente? Oppure non c'è nulla che impedisca questo, come nel caso in cui, date certe cose che sono entrambe collettivamente pari, esse possano forse individualmente essere dispari, o forse pari, e di nuovo, quando le cose sono individualmente quantità irrazionali possano forse entrambe collettivamente essere razionali, o forse irrazionali, e in innumerevoli altri casi che, sai, dicevo si presentavano alla mia mente? A quale gruppo assegni il bello? Oppure hai la stessa opinione al riguardo che ho io? Ché a me sembra gran follia che noi collettivamente siamo belli, ma ciascuno di noi non lo sia, oppure che ciascuno di noi lo sia, ma entrambi non lo siano, o qualunque altra cosa di quel genere. Scegli in questo modo, come faccio io, oppure in qualche altro modo?
+
+Ippia: In questo modo, Socrate.
+
+Socrate: Scegli bene, Ippia, affinché possiamo essere liberi dal bisogno di ulteriore ricerca; ché se il bello è in questo gruppo, ciò che è piacevole mediante la vista e l'udito non sarebbe più il bello. Ché l'espressione mediante la vista e l'udito rende entrambi collettivamente belli, ma non ciascuno individualmente; e questo era impossibile, come tu e io conveniamo.
+
+Ippia: Sì, conveniamo.
+
+Socrate: È dunque impossibile che il piacevole mediante la vista e l'udito sia il bello, dal momento che nel divenire bello offre un'impossibilità.
+
+Ippia: Questo è vero.
+
+Socrate: «Allora diccelo di nuovo», dirà, «dal principio, dal momento che questa volta hai fallito; che cosa dici che sia questo "bello", appartenente a entrambi i piaceri, in virtù del quale li hai onorati più degli altri e li hai chiamati belli?» Mi sembra, Ippia, inevitabile che diciamo che questi sono i più innocui e i migliori dei piaceri, sia entrambi collettivamente sia ciascuno di essi individualmente; oppure hai qualcos'altro da suggerire, per cui essi eccellano sugli altri?
+
+Ippia: Niente affatto; ché davvero sono i migliori.
+
+Socrate: «Questo, dunque», dirà, «tu dici che sia il bello, il piacere benefico?» «Sembra che lo diciamo», dirò; e tu?
+
+Ippia: Anch'io.
+
+Socrate: «Ebbene, allora», dirà, «benefico è ciò che crea il bene, ma ciò che crea e ciò che è creato si è visto poc'anzi essere diversi, e il nostro argomento è tornato all'argomento precedente, non è vero? Ché né il bene potrebbe essere bello né il bello buono, se ciascuno di essi è diverso dall'altro.» «Assolutamente vero», diremo, se siamo ragionevoli; ché è inammissibile dissentire da chi dice ciò che è giusto.
+
+Ippia: Ma ora, Socrate, che cosa pensi che valga tutto questo? Non sono altro che raschiature e trucioli di discorso, come dicevo poco fa, divisi in pezzetti; ma quell'altra abilità è bella e di gran pregio, l'abilità di produrre un discorso bene e bellamente in un tribunale o in una sala del consiglio o dinanzi a qualunque altro pubblico consesso al quale il discorso possa essere pronunciato, di convincere l'uditorio e di portarsi via, non il più piccolo, ma il più grande dei premi, la salvezza di se stessi, dei propri beni e dei propri amici. Per queste cose, dunque, bisogna adoperarsi, rinunciando a questi meschini ragionamenti, affinché non si appaia, occupandosi, come al presente, di mere chiacchiere e assurdità, uno sciocco.
+
 <span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [Socrates](/figures/socrates): My dear Hippias, you are blessed because you know the things a man ought to practise, and have, as you say, practised them satisfactorily. But I, as it seems, am possessed by some accursed fortune, so that I am always wandering and perplexed, and, exhibiting my perplexity to you wise men, am in turn reviled by you in speech whenever I exhibit it. For you say of me, what you are now saying, that I busy myself with silly little matters of no account; but when in turn I am convinced by you and say what you say, that it is by far the best thing to be able to produce a discourse well and beautifully and gain one’s end in a court of law or in any other assemblage, I am called everything that is bad by some other men here and especially by that man who is continually refuting me; for he is a very near relative of mine and lives in the same house. So whenever I go home to my own house, and he hears me saying these things, he asks me if I am not ashamed that I have the face to talk about beautiful practices, when it is so plainly shown, to my confusion, that I do not even know what the beautiful itself is. “And yet how are you to know,” he will say, “either who produced a discourse, or anything else whatsoever, beautifully, or not, when you are ignorant of the beautiful? And when you are in such a condition, do you think it is better for you to be alive than dead?” So it has come about, as I say, that I am abused and reviled by you and by him. But perhaps it is necessary to endure all this, for it is quite reasonable that I might be benefited by it. So I think, Hippias, that I have been benefited by conversation with both of you; for I think I know the meaning of the proverb “beautiful things are difficult”.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[Socrate](/figures/socrates): Mio caro Ippia, tu sei fortunato perché sai le cose che un uomo deve praticare, e le hai, come dici, praticate soddisfacentemente. Ma io, a quanto pare, sono posseduto da una sorte maledetta, sicché vado sempre errando e sono perplesso e, esibendo la mia perplessità a voi uomini saggi, ne sono a mia volta ingiuriato da voi a parole ogni volta che la esibisco. Ché voi dite di me, ciò che ora stai dicendo, che mi occupo di sciocche piccole faccende di nessun conto; ma quando a mia volta sono convinto da voi e dico ciò che voi dite, che è di gran lunga la cosa migliore essere capaci di produrre un discorso bene e bellamente e conseguire il proprio fine in un tribunale o in qualunque altra assemblea, sono chiamato tutto ciò che v'è di peggio da certi altri uomini qui, e specialmente da quell'uomo che mi confuta di continuo; ché egli è un mio parentissimo e vive nella stessa casa. Sicché ogni volta che torno a casa mia, e lui mi ode dire queste cose, mi chiede se non mi vergogni di avere la faccia tosta di parlare di belle pratiche, quando è così chiaramente mostrato, a mia confusione, che non so nemmeno che cosa sia il bello stesso. «E come puoi sapere», dirà, «o chi abbia prodotto un discorso, o qualunque altra cosa, bellamente, o no, quando sei ignorante del bello? E quando sei in una simile condizione, credi che sia meglio per te essere vivo che morto?» Così è accaduto, come dico, che sono maltrattato e ingiuriato da voi e da lui. Ma forse è necessario sopportare tutto questo, ché è del tutto ragionevole che io possa trarne beneficio. Così penso, Ippia, di aver tratto beneficio dalla conversazione con entrambi voi; ché credo di conoscere il significato del proverbio «le cose belle sono difficili».

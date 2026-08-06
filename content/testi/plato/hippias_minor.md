@@ -136,6 +136,122 @@ SOCRATES: Is not that because you are the wisest and ablest of men in these matt
 
 HIPPIAS: Yes.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+[SOCRATE](/figures/socrates)
+
+IPPIA.
+
+EUDICO: Perché taci, Socrate, dopo la magnifica esibizione che Ippia ci ha appena offerto? Perché non confuti le sue parole, se ti sembra che egli abbia sbagliato in qualche punto, oppure ti unisci a noi nel lodarlo? Vi è tanta più ragione perché tu parli, in quanto ora siamo soli, e l'uditorio è ristretto a coloro che possono a buon diritto prendere parte a una discussione filosofica.
+
+SOCRATE: Mi piacerebbe assai, Eudico, chiedere a Ippia il senso di ciò che diceva poco fa a proposito di Omero. Ho udito tuo padre, Apemanto, affermare che l'Iliade di Omero è un poema più bello dell'Odissea nella stessa misura in cui Achille era un uomo migliore di Odisseo; Odisseo, diceva, è la figura centrale dell'uno dei poemi, e Achille dell'altro. Ora, vorrei sapere, se Ippia non ha nulla in contrario a dirmelo, che cosa egli pensi di questi due eroi, e quale dei due sostenga essere il migliore; egli ci ha già detto, nel corso della sua esibizione, molte cose di vario genere su Omero e su altri poeti ancora.
+
+EUDICO: Sono certo che Ippia sarà lieto di rispondere a qualunque cosa tu voglia domandargli; dimmi, Ippia, se Socrate ti pone una domanda, gli risponderai?
+
+IPPIA: Davvero, Eudico, sarei stranamente incoerente se mi rifiutassi di rispondere a Socrate, quando ad ogni festa olimpica, salendo dalla mia casa di Elide al tempio di Olimpia, dove tutti gli Elleni erano riuniti, mi sono sempre professato disposto a compiere una qualunque delle esibizioni che avevo preparato, e a rispondere a qualunque domanda chicchessia avesse da porre.
+
+SOCRATE: Davvero, Ippia, sei da felicitare, se ad ogni festa olimpica hai un'opinione così incoraggiante della tua stessa sapienza quando sali al tempio. Dubito che alcun eroe muscoloso sarebbe così impavido e sicuro di sé nell'offrire il proprio corpo al combattimento a Olimpia, quanto tu lo sei nell'offrire la tua mente.
+
+IPPIA: E con buona ragione, Socrate; poiché dal giorno in cui entrai per la prima volta nell'agone a Olimpia, non ho mai trovato uomo che mi fosse superiore in alcunché. (Cfr. Gorgia.)
+
+SOCRATE: Quale ornamento, Ippia, sarà la fama della tua sapienza per la città di Elide e per i tuoi genitori! Ma torniamo al punto: che dici di Odisseo e di Achille? Quale dei due è il migliore? e in che cosa precisamente l'uno supera l'altro? Poiché mentre tu ti esibivi e vi era gente nella sala, benché non riuscissi a seguirti, non osavo chiedere che cosa intendessi, perché era presente una folla di persone, e temevo che la domanda potesse interrompere la tua esibizione. Ma ora che non siamo in così tanti, e il mio amico Eudico mi invita a chiedere, vorrei che tu mi dicessi ciò che affermavi su questi due eroi, sì che io possa comprenderlo chiaramente; come li distinguevi?
+
+IPPIA: Avrò molto piacere, Socrate, di spiegarti più chiaramente di quanto potessi fare in pubblico le mie vedute su questi e anche su altri eroi. Io dico che Omero volle Achille il più valoroso degli uomini che andarono a Troia, Nestore il più saggio, e Odisseo il più astuto.
+
+SOCRATE: O impareggiabile Ippia, vorrai essere così buono da non ridere, se troverò difficoltà a seguirti, e ripeterò le mie domande più volte? Rispondimi ti prego con benevolenza e gentilezza.
+
+IPPIA: Mi vergognerei grandemente di me stesso, Socrate, se io, che insegno ad altri e ne ricevo denaro, non sapessi, quando sono interrogato da te, rispondere in modo cortese e piacevole.
+
+SOCRATE: Ti ringrazio: il fatto è che mi pareva di comprendere ciò che intendevi quando dicevi che il poeta volle Achille il più valoroso degli uomini, e anche che volle Nestore il più saggio; ma quando hai detto che intese Odisseo come il più astuto, devo confessare che non riuscii a comprendere ciò che dicevi. Vuoi dirmelo, ché forse allora ti comprenderò meglio: non ha forse Omero fatto Achille astuto?
+
+IPPIA: Certamente no, Socrate; egli è il più schietto degli uomini, e quando Omero li introduce a conversare tra loro nel passo detto delle Preghiere, il poeta immagina che Achille dica a Odisseo: —
+
+‘Figlio di Laerte, stirpe divina, ingegnoso Odisseo, dirò apertamente la parola che intendo tradurre in atto, e che, credo, si compirà. Poiché lo odio come le porte della morte colui che pensa una cosa e ne dice un'altra. Ma dirò ciò che si compirà.’
+
+Ora, in questi versi egli indica chiaramente il carattere dei due uomini; mostra Achille vero e semplice, e Odisseo astuto e falso; poiché immagina che Achille si rivolga a Odisseo in queste righe.
+
+SOCRATE: Ora, Ippia, credo di comprendere ciò che intendi; quando dici che Odisseo è astuto, vuoi chiaramente dire che è falso?
+
+IPPIA: Proprio così, Socrate; è questo il carattere di Odisseo, quale è rappresentato da Omero in molti passi tanto dell'Iliade quanto dell'Odissea.
+
+SOCRATE: E si deve presumere che Omero intendesse che l'uomo vero non è lo stesso del falso?
+
+IPPIA: Naturalmente, Socrate.
+
+SOCRATE: Ed è questa la tua opinione, Ippia?
+
+IPPIA: Certamente; come potrei averne un'altra?
+
+SOCRATE: Ebbene, dunque, poiché non c'è modo di chiedere a Omero che cosa intendesse in questi suoi versi, lasciamolo; ma poiché ti mostri disposto ad assumere la sua causa, e la tua opinione concorda con quella che dichiari sua, vuoi rispondere a nome tuo e suo?
+
+IPPIA: Lo farò; chiedimi brevemente qualunque cosa tu voglia.
+
+SOCRATE: Dici che i falsi, come i malati, non hanno il potere di fare le cose, oppure che hanno il potere di farle?
+
+IPPIA: Direi che hanno il potere di fare molte cose, e in particolare di ingannare gli uomini.
+
+SOCRATE: Allora, secondo te, sono al tempo stesso potenti e astuti, non è così?
+
+IPPIA: Sì.
+
+SOCRATE: E sono astuti, e ingannano in virtù della loro semplicità e stoltezza, oppure in virtù della loro scaltrezza e di una certa sorta di prudenza?
+
+IPPIA: In virtù della loro scaltrezza e prudenza, di certo.
+
+SOCRATE: Allora sono prudenti, suppongo?
+
+IPPIA: Lo sono — moltissimo.
+
+SOCRATE: E se sono prudenti, sanno o non sanno ciò che fanno?
+
+IPPIA: Naturalmente lo sanno benissimo; ed è per questo che fanno del male agli altri.
+
+SOCRATE: E avendo questa conoscenza, sono ignoranti, oppure sono sapienti?
+
+IPPIA: Sapienti, di certo; almeno, in quanto sono capaci di ingannare.
+
+SOCRATE: Fermati, e richiamiamo alla mente ciò che stai dicendo; non stai forse dicendo che i falsi sono potenti e prudenti e sapienti e sapienti in quelle cose intorno alle quali sono falsi?
+
+IPPIA: Di sicuro.
+
+SOCRATE: E i veri differiscono dai falsi — il vero e il falso sono l'esatto contrario l'uno dell'altro?
+
+IPPIA: Questa è la mia veduta.
+
+SOCRATE: Allora, secondo la tua veduta, sembrerebbe che i falsi vadano annoverati nella classe dei potenti e dei sapienti?
+
+IPPIA: Assolutamente.
+
+SOCRATE: E quando dici che i falsi sono potenti e sapienti in quanto sono falsi, intendi che hanno o non hanno il potere di proferire le loro falsità se lo vogliono?
+
+IPPIA: Voglio dire che ne hanno il potere.
+
+SOCRATE: In una parola, dunque, i falsi sono coloro che sono sapienti e hanno il potere di parlare falsamente?
+
+IPPIA: Sì.
+
+SOCRATE: Allora un uomo che non ha il potere di parlare falsamente ed è ignorante non può essere falso?
+
+IPPIA: Hai ragione.
+
+SOCRATE: E ogni uomo ha potere quando fa ciò che desidera nel momento in cui lo desidera. Non parlo di alcun caso particolare in cui sia impedito da malattia o da qualcosa di simile, ma parlo in generale, come potrei dire di te, che sei capace di scrivere il mio nome quando vuoi. Non chiameresti capace un uomo che potesse far questo?
+
+IPPIA: Sì.
+
+SOCRATE: E dimmi, Ippia, non sei tu un abile calcolatore e aritmetico?
+
+IPPIA: Sì, Socrate, assolutamente lo sono.
+
+SOCRATE: E se qualcuno ti chiedesse quanto fa 3 moltiplicato per 700, gli diresti la risposta vera in un istante, se volessi?
+
+IPPIA: Certamente lo farei.
+
+SOCRATE: Non è forse perché sei il più sapiente e capace degli uomini in queste materie?
+
+IPPIA: Sì.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And being as you are the wisest and ablest of men in these matters of calculation, are you not also the best?
@@ -234,6 +350,104 @@ SOCRATES: And now do you perceive that the same person has turned out to be fals
 
 HIPPIAS: O Socrates, you are always weaving the meshes of an argument, selecting the most difficult point, and fastening upon details instead of grappling with the matter in hand as a whole. Come now, and I will demonstrate to you, if you will allow me, by many satisfactory proofs, that Homer has made Achilles a better man than Odysseus, and a truthful man too; and that he has made the other crafty, and a teller of many untruths, and inferior to Achilles. And then, if you please, you shall make a speech on the other side, in order to prove that Odysseus is the better man; and this may be compared to mine, and then the company will know which of us is the better speaker.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ed essendo, come sei, il più sapiente e capace degli uomini in queste materie di calcolo, non sei anche il migliore?
+
+IPPIA: Di sicuro, Socrate, sono il migliore.
+
+SOCRATE: E perciò saresti il più capace di dire il vero intorno a queste materie, non è vero?
+
+IPPIA: Sì, lo sarei.
+
+SOCRATE: E potresti dire il falso su di esse ugualmente bene? Devo pregarti, Ippia, di rispondermi con la stessa franchezza e magnanimità che finora ti ha contraddistinto. Se qualcuno ti chiedesse quanto fa 3 moltiplicato per 700, non saresti tu il migliore e più coerente dicitore di una falsità, avendo sempre il potere di parlare falsamente come di parlare veramente, intorno a queste stesse materie, se volessi dire una falsità e non rispondere il vero? Sarebbe l'uomo ignorante più capace di dire una falsità in materia di calcolo di quanto lo saresti tu, se lo volessi? Non potrebbe egli talvolta imbattersi nel vero, quando volesse dire una menzogna, perché non sapeva, mentre tu che sei l'uomo sapiente, se volessi dire una menzogna, mentiresti sempre e coerentemente?
+
+IPPIA: Sì, in questo hai perfettamente ragione.
+
+SOCRATE: L'uomo falso dice menzogne su altre cose, ma non sul numero, o quando sta facendo un calcolo?
+
+IPPIA: Di sicuro; direbbe tante menzogne sul numero quante su altre cose.
+
+SOCRATE: Possiamo allora inoltre assumere, Ippia, che vi sono uomini falsi intorno al calcolo e al numero?
+
+IPPIA: Sì.
+
+SOCRATE: Chi possono essere costoro? Poiché hai già ammesso che colui che è falso deve avere la capacità di essere falso: hai detto, come ricorderai, che colui che è incapace di essere falso non sarà falso?
+
+IPPIA: Sì, ricordo; così si è detto.
+
+SOCRATE: E non si è mostrato poco fa che tu stesso sei il più capace di parlare falsamente intorno al calcolo?
+
+IPPIA: Sì; anche questa è un'altra cosa che si è detta.
+
+SOCRATE: E non si dice del pari che parli veramente intorno al calcolo?
+
+IPPIA: Certamente.
+
+SOCRATE: Allora la stessa persona è capace di parlare tanto falsamente quanto veramente intorno al calcolo? E questa persona è colui che è bravo nel calcolo — l'aritmetico?
+
+IPPIA: Sì.
+
+SOCRATE: Chi, dunque, Ippia, si scopre essere falso nel calcolo? Non è forse l'uomo buono? Poiché l'uomo buono è l'uomo capace, ed egli è l'uomo vero.
+
+IPPIA: Questo è evidente.
+
+SOCRATE: Non vedi, allora, che lo stesso uomo è falso e anche vero intorno alle stesse materie? E l'uomo vero non è in nulla migliore del falso; poiché in verità egli è il medesimo di lui e non l'esatto contrario, come tu poco fa immaginavi.
+
+IPPIA: Non in quell'istanza, chiaramente.
+
+SOCRATE: Vogliamo esaminare altre istanze?
+
+IPPIA: Certamente, se ne hai voglia.
+
+SOCRATE: Non sei anche esperto in geometria?
+
+IPPIA: Lo sono.
+
+SOCRATE: Ebbene, e non vale lo stesso anche in quella scienza? Non è forse la stessa persona la più capace di parlare falsamente o di parlare veramente intorno alle figure; ed egli è — il geometra?
+
+IPPIA: Sì.
+
+SOCRATE: Egli e nessun altro è bravo in ciò?
+
+IPPIA: Sì, egli e nessun altro.
+
+SOCRATE: Allora il buon e sapiente geometra possiede questo duplice potere nel grado più alto; e se vi è un uomo falso intorno alle figure, l'uomo buono sarà lui, poiché egli è capace di essere falso; mentre il cattivo ne è incapace, e per questa ragione non è falso, come si è ammesso.
+
+IPPIA: Vero.
+
+SOCRATE: Ancora una volta — esaminiamo un terzo caso; quello dell'astronomo, nella cui arte, di nuovo, tu, Ippia, professi di essere ancor più valente che nelle precedenti — non è così?
+
+IPPIA: Sì, lo sono.
+
+SOCRATE: E non vale lo stesso per l'astronomia?
+
+IPPIA: Vero, Socrate.
+
+SOCRATE: E anche nell'astronomia, se un uomo è capace di parlare falsamente sarà il buon astronomo, ma colui che non ne è capace non parlerà falsamente, poiché non ha conoscenza.
+
+IPPIA: Chiaramente no.
+
+SOCRATE: Allora anche nell'astronomia lo stesso uomo sarà vero e falso?
+
+IPPIA: Parrebbe di sì.
+
+SOCRATE: E ora, Ippia, considera la questione in generale intorno a tutte le scienze, e vedi se lo stesso principio non valga sempre. So che nella maggior parte delle arti tu sei il più sapiente degli uomini, come ti ho udito vantarti nell'agorà ai banchi dei cambiavalute, quando esponevi le grandi e invidiabili ricchezze della tua sapienza; e dicevi che in una certa occasione, quando andasti ai giochi olimpici, tutto ciò che avevi indosso era opera tua. Cominciasti dall'anello, che era di tua fattura, e dicesti di saper incidere anelli; e avevi un altro sigillo che pure era di tua fattura, e uno strigile e un'ampolla d'olio, che avevi fatto tu stesso; dicevi anche di aver fatto i calzari che portavi ai piedi, e il mantello e la corta tunica; ma ciò che a tutti noi parve più straordinario e prova di singolare arte, era la cintura della tua tunica, la quale, dicevi, era fine come il più costoso tessuto persiano, e di tua tessitura; inoltre, ci dicesti di aver portato con te poemi, epici, tragici e ditirambici, come pure scritti in prosa dei generi più svariati; e dicevi che la tua abilità era preminente anche nelle arti che poco fa menzionavo, e nei veri principi del ritmo e dell'armonia e dell'ortografia; e se ben ricordo, vi erano moltissimi altri talenti in cui eccellevi. Ho dimenticato di menzionare la tua arte della memoria, che consideri il tuo vanto particolare, e oso dire di aver dimenticato molte altre cose; ma, come dicevo, guarda soltanto alle tue arti — e ce ne sono in abbondanza — e a quelle degli altri; e dimmi, tenendo conto delle ammissioni che tu e io abbiamo fatto, se scopri qualche ramo dell'arte o qualche specie di sapienza o di astuzia, comunque tu la voglia chiamare, in cui il vero e il falso siano differenti e non i medesimi: dimmelo, se puoi, di una qualsiasi. Ma non puoi.
+
+IPPIA: Non senza riflessione, Socrate.
+
+SOCRATE: Né la riflessione ti gioverà, Ippia, come credo; ma allora, se ho ragione, ricorda quale sarà la conseguenza.
+
+IPPIA: Non so che cosa intendi, Socrate.
+
+SOCRATE: Suppongo che tu non stia usando la tua arte della memoria, senza dubbio perché pensi che un tale talento non sia necessario nella presente occasione. Ti ricorderò dunque ciò che dicevi: non dicevi forse che Achille era un uomo vero, e Odisseo falso e astuto?
+
+IPPIA: Lo dicevo.
+
+SOCRATE: E ora ti accorgi che la stessa persona è risultata essere falsa non meno che vera? Se Odisseo è falso, è anche vero, e se Achille è vero, è anche falso, e così i due uomini non sono opposti l'uno all'altro, ma sono simili.
+
+IPPIA: O Socrate, tu tessi sempre le maglie di un ragionamento, scegliendo il punto più difficile, e ti attacchi ai dettagli invece di affrontare la questione nel suo insieme. Su via, e ti dimostrerò, se me lo consenti, con molte prove soddisfacenti, che Omero ha fatto Achille un uomo migliore di Odisseo, e per giunta un uomo veritiero; e che ha fatto l'altro astuto, e dicitore di molte menzogne, e inferiore ad Achille. E poi, se ti piace, farai tu un discorso in senso contrario, per provare che Odisseo è l'uomo migliore; e questo potrà essere confrontato col mio, e allora la compagnia saprà chi di noi due è il miglior oratore.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): O Hippias, I do not doubt that you are wiser than I am. But I have a way, when anybody else says anything, of giving close attention to him, especially if the speaker appears to me to be a wise man. Having a desire to understand, I question him, and I examine and analyse and put together what he says, in order that I may understand; but if the speaker appears to me to be a poor hand, I do not interrogate him, or trouble myself about him, and you may know by this who they are whom I deem to be wise men, for you will see that when I am talking with a wise man, I am very attentive to what he says; and I ask questions of him, in order that I may learn, and be improved by him. And I could not help remarking while you were speaking, that when you recited the verses in which Achilles, as you argued, attacks Odysseus as a deceiver, that you must be strangely mistaken, because Odysseus, the man of wiles, is never found to tell a lie; but Achilles is found to be wily on your own showing. At any rate he speaks falsely; for first he utters these words, which you just now repeated, —
@@ -279,6 +493,52 @@ HIPPIAS: Certainly not, Socrates.
 SOCRATES: Why, were not the voluntary liars only just now shown to be better than the involuntary?
 
 HIPPIAS: And how, Socrates, can those who intentionally err, and voluntarily and designedly commit iniquities, be better than those who err and do wrong involuntarily? Surely there is a great excuse to be made for a man telling a falsehood, or doing an injury or any sort of harm to another in ignorance. And the laws are obviously far more severe on those who lie or do evil, voluntarily, than on those who do evil involuntarily.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): O Ippia, non dubito che tu sia più sapiente di me. Ma ho l'abitudine, quando qualcun altro dice qualcosa, di prestargli attenzione stretta, specialmente se chi parla mi sembra un uomo sapiente. Avendo desiderio di comprendere, lo interrogo, ed esamino e analizzo e metto insieme ciò che dice, affinché io possa comprendere; ma se chi parla mi sembra un poco di buono, non lo interrogo, né mi do pensiero di lui, e da questo puoi conoscere chi siano coloro che reputo uomini sapienti, poiché vedrai che quando parlo con un uomo sapiente sono assai attento a ciò che dice; e gli pongo domande, affinché io possa imparare, ed esserne migliorato. E non ho potuto fare a meno di notare, mentre tu parlavi, che quando recitavi i versi in cui Achille, come tu sostenevi, attacca Odisseo come un ingannatore, tu dovevi essere stranamente in errore, perché Odisseo, l'uomo degli inganni, non si trova mai a dire una menzogna; ma Achille si trova ad essere astuto per tua stessa ammissione. In ogni caso egli parla falsamente; poiché dapprima proferisce queste parole, che tu poco fa ripetevi, —
+
+‘Egli mi è odioso come le porte della morte, colui che pensa una cosa e ne dice un'altra:’ —
+
+E poi dice, poco tempo dopo, che non si lascerà persuadere da Odisseo e Agamennone, né rimarrà a Troia; ma, dice, —
+
+‘Domani, quando avrò offerto sacrifici a Zeus e a tutti gli Dei, e avrò caricato bene le mie navi, le trascinerò giù nel profondo; e allora vedrai, se ne avrai voglia, e se tali cose ti stanno a cuore, di buon mattino le mie navi solcare l'Ellesponto pescoso, e i miei uomini vogare con ardore; e, se l'illustre scuotitore della terra mi concede un buon viaggio, al terzo giorno raggiungerò la fertile Ftia.’
+
+E prima ancora, quando ingiuriava Agamennone, disse, —
+
+‘E ora a Ftia me ne andrò, poiché tornare a casa sulle navi ricurve è di gran lunga meglio, né sono disposto a restare qui nel disonore ad ammassare per te ricchezze e beni.’
+
+Ma benché in quell'occasione, alla presenza di tutto l'esercito, egli parlasse in questo modo, e nell'altra occasione ai suoi compagni, non pare che abbia mai fatto alcun preparativo o tentativo di trascinare in mare le navi, come se avesse la minima intenzione di salpare per casa; tanto nobilmente incurante fu del vero. Ora io, Ippia, in origine ti posi la domanda, perché ero in dubbio su quale dei due eroi fosse inteso dal poeta come il migliore, e perché pensavo che entrambi fossero i migliori, e che sarebbe stato difficile decidere quale dei due fosse il migliore, non solo rispetto alla verità e alla falsità, ma alla virtù in generale, poiché anche in questa faccenda del dire il vero essi sono molto alla pari.
+
+IPPIA: Qui sbagli, Socrate; poiché in quanto Achille parla falsamente, la falsità è manifestamente non intenzionale. Egli è costretto contro la sua volontà a rimanere e a salvare l'esercito nella sua sventura. Ma quando Odisseo parla falsamente lo fa volontariamente e intenzionalmente.
+
+SOCRATE: Tu, dolce Ippia, come Odisseo, sei tu stesso un ingannatore.
+
+IPPIA: Certamente no, Socrate; che cosa te lo fa dire?
+
+SOCRATE: Perché tu dici che Achille non parla falsamente per disegno, mentre egli non è soltanto un ingannatore, ma, oltre ad essere un fanfarone, nella descrizione che Omero ne dà è così scaltro, e così di gran lunga superiore a Odisseo nel mentire e nel fingere, che osa contraddire sé stesso, e Odisseo non lo scopre; in ogni caso non pare dirgli nulla che implichi che egli abbia percepito la sua falsità.
+
+IPPIA: Che cosa intendi, Socrate?
+
+SOCRATE: Non hai osservato che più tardi, quando parla a Odisseo, egli dice che salperà via allo spuntar dell'alba; ma ad Aiace racconta una storia del tutto diversa?
+
+IPPIA: Dov'è questo?
+
+SOCRATE: Là dove dice, —
+
+‘Non penserò alla guerra sanguinosa finché il figlio del bellicoso Priamo, l'illustre Ettore, non giunga alle tende e alle navi dei Mirmidoni, massacrando gli Argivi e incendiando le navi col fuoco; e intorno alla mia tenda e alla mia nave scura, sospetto che Ettore, per quanto smanioso di battaglia, tratterrà nondimeno la sua mano.’
+
+Ora, credi davvero, Ippia, che il figlio di Teti, che era stato allievo del [saggio](/figures/the_sage) Chirone, avesse una memoria così cattiva, o avrebbe spinto l'arte del mentire a tal punto (quando aveva assalito i bugiardi coi termini più violenti solo un istante prima) da dire a Odisseo che sarebbe salpato via, e ad Aiace che sarebbe rimasto, e che non stesse piuttosto giocando sulla semplicità di Odisseo, che considerava un uomo all'antica, pensando di averla vinta su di lui con la propria astuzia e falsità?
+
+IPPIA: No, non concordo con te, Socrate; ma credo che Achille sia indotto a dire una cosa ad Aiace, e un'altra a Odisseo nell'innocenza del suo cuore, mentre Odisseo, sia che parli falsamente o veramente, parla sempre con un intento.
+
+SOCRATE: Allora Odisseo, dopotutto, parrebbe essere migliore di Achille?
+
+IPPIA: Certamente no, Socrate.
+
+SOCRATE: Come, non si è forse appena mostrato che i mentitori volontari sono migliori di quelli involontari?
+
+IPPIA: E come, Socrate, possono coloro che errano intenzionalmente, e volontariamente e deliberatamente commettono iniquità, essere migliori di coloro che errano e fanno il male involontariamente? Sicuramente vi è una grande scusa da addurre per un uomo che dice una falsità, o arreca un'ingiuria o un danno di qualunque sorta a un altro per ignoranza. E le leggi sono manifestamente ben più severe verso coloro che mentono o fanno il male volontariamente, che verso coloro che fanno il male involontariamente.
 
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -426,6 +686,152 @@ SOCRATES: And that would be true of a dog, or of any other animal?
 
 HIPPIAS: Yes.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Vedi, Ippia, come già ti ho detto, quanto sono ostinato nel porre domande agli uomini sapienti. E credo che questo sia l'unico buon lato che ho, poiché sono pieno di difetti, e sbaglio sempre in un modo o nell'altro. La mia deficienza mi è provata dal fatto che quando incontro uno di voi che siete famosi per sapienza, e della cui sapienza tutti gli Elleni sono testimoni, mi si scopre a non sapere nulla. Poiché, parlando in generale, non ho quasi mai la stessa opinione che avete voi intorno a checchessia, e quale prova di ignoranza può esservi maggiore del dissentire dagli uomini sapienti? Ma ho una sola singolare buona qualità, che è la mia salvezza: non mi vergogno di imparare, e chiedo e mi informo, e sono assai grato a coloro che mi rispondono, e non manco mai di rendere loro il mio riconoscente ringraziamento; e quando imparo una cosa non rinnego mai il mio maestro, né pretendo che la lezione sia una scoperta mia; ma lodo la sua sapienza, e proclamo ciò che ho imparato da lui. E ora non posso concordare in ciò che dici, ma dissento fortemente. Ebbene, so che questa è colpa mia, ed è un difetto del mio carattere, ma non pretenderò di essere più di quel che sono; e la mia opinione, Ippia, è l'esatto contrario di ciò che tu dici. Poiché io sostengo che coloro che nuocciono o danneggiano gli uomini, e parlano falsamente e ingannano, ed errano volontariamente, sono di gran lunga migliori di coloro che fanno il male involontariamente. Talvolta, però, sono dell'opinione contraria; poiché vado del tutto alla deriva nelle mie idee su questa faccenda, condizione manifestamente causata dall'ignoranza. E proprio ora mi trovo in una crisi del mio disturbo in cui coloro che errano volontariamente mi appaiono migliori di coloro che errano involontariamente. Il mio presente stato d'animo è dovuto al nostro precedente ragionamento, che mi inclina a credere che in generale coloro che fanno il male involontariamente siano peggiori di coloro che fanno il male volontariamente, e perciò spero che tu sarai buono con me, e non rifiuterai di guarirmi; poiché mi farai un beneficio assai più grande se curerai la mia anima dall'ignoranza, di quanto faresti se curassi il mio corpo dalla malattia. Devo, tuttavia, avvertirti in anticipo che se mi farai una lunga orazione non mi guarirai, poiché non sarò in grado di seguirti; ma se mi risponderai, come hai fatto poco fa, mi farai un gran bene, e non credo che tu ne uscirai peggiore. E ho anche qualche diritto su di te, o figlio di Apemanto, poiché tu mi incitasti a conversare con Ippia; e ora, se Ippia non vuole rispondermi, devi supplicarlo in mio favore.
+
+EUDICO: Ma non credo, Socrate, che Ippia richiederà alcuna supplica da parte mia; poiché ha già detto che non rifiuterà di rispondere ad alcun uomo. — Non hai detto così, Ippia?
+
+IPPIA: Sì, l'ho detto; ma d'altra parte, Eudico, Socrate è sempre molesto in un ragionamento, e sembra essere disonesto. (Cfr. Gorgia; Repubblica.)
+
+SOCRATE: Eccellente Ippia, io non faccio ciò intenzionalmente (se lo facessi, mi mostrerebbe uomo sapiente e maestro d'inganni, come tu sosterresti), ma non intenzionalmente, e perciò devi perdonarmi; poiché, come tu dici, chi è non intenzionalmente disonesto va perdonato.
+
+EUDICO: Sì, Ippia, fa' come egli dice; e per amor nostro, e anche perché tu non smentisca la tua professione, rispondi a qualunque cosa Socrate ti chieda.
+
+IPPIA: Risponderò, come mi richiedi; e tu chiedi pure quel che vuoi.
+
+SOCRATE: Sono assai desideroso, Ippia, di esaminare questa questione, quale sia il migliore — coloro che errano volontariamente o involontariamente? E se mi risponderai, credo di poterti mettere sulla via di accostare l'argomento: ammetteresti, non è vero, che vi sono buoni corridori?
+
+IPPIA: Sì.
+
+SOCRATE: E vi sono cattivi corridori?
+
+IPPIA: Sì.
+
+SOCRATE: E colui che corre bene è un buon corridore, e colui che corre male è un cattivo corridore?
+
+IPPIA: Verissimo.
+
+SOCRATE: E colui che corre lentamente corre male, e colui che corre velocemente corre bene?
+
+IPPIA: Sì.
+
+SOCRATE: Allora in una gara, e nel correre, la velocità è un bene, e la lentezza una qualità cattiva?
+
+IPPIA: Di sicuro.
+
+SOCRATE: Quale dei due, allora, è il miglior corridore? Colui che corre lentamente volontariamente, o colui che corre lentamente involontariamente?
+
+IPPIA: Colui che corre lentamente volontariamente.
+
+SOCRATE: E il correre non è forse una specie del fare?
+
+IPPIA: Certamente.
+
+SOCRATE: E se una specie del fare, una specie di azione?
+
+IPPIA: Sì.
+
+SOCRATE: Allora colui che corre male compie una cattiva e disonorevole azione in una gara?
+
+IPPIA: Sì; una cattiva azione, di certo.
+
+SOCRATE: E colui che corre lentamente corre male?
+
+IPPIA: Sì.
+
+SOCRATE: Allora il buon corridore compie questa cattiva e vergognosa azione volontariamente, e il cattivo involontariamente?
+
+IPPIA: È da inferire.
+
+SOCRATE: Allora colui che involontariamente compie azioni malvagie è peggiore, in una gara, di colui che le compie volontariamente?
+
+IPPIA: Sì, in una gara.
+
+SOCRATE: Ebbene, ma in un incontro di lotta — chi è il miglior lottatore, colui che cade volontariamente o involontariamente?
+
+IPPIA: Colui che cade volontariamente, senza dubbio.
+
+SOCRATE: Ed è peggiore o più disonorevole, in un incontro di lotta, cadere, o atterrare un altro?
+
+IPPIA: Cadere.
+
+SOCRATE: Allora, in un incontro di lotta, colui che volontariamente compie azioni basse e disonorevoli è un miglior lottatore di colui che le compie involontariamente?
+
+IPPIA: Questa pare essere la verità.
+
+SOCRATE: E che diresti di qualunque altro esercizio corporeo — non è forse colui che è meglio costituito capace di fare sia ciò che è forte sia ciò che è debole — ciò che è bello e ciò che è brutto? — sicché quando compie cattive azioni col corpo, colui che è meglio costituito le compie volontariamente, e colui che è peggio costituito le compie involontariamente.
+
+IPPIA: Sì, questo pare essere vero riguardo alla forza.
+
+SOCRATE: E che dici della grazia, Ippia? Non è forse colui che è meglio costituito capace di assumere figure e posture cattive e disonorevoli volontariamente, come colui che è peggio costituito le assume involontariamente?
+
+IPPIA: Vero.
+
+SOCRATE: Allora la sgraziatezza volontaria proviene dall'eccellenza della struttura corporea, e quella involontaria dal difetto della struttura corporea?
+
+IPPIA: Vero.
+
+SOCRATE: E che diresti di una voce stonata; preferiresti la voce che è volontariamente o involontariamente fuori tono?
+
+IPPIA: Quella che è volontariamente fuori tono.
+
+SOCRATE: L'involontaria è la peggiore delle due?
+
+IPPIA: Sì.
+
+SOCRATE: E sceglieresti di possedere beni o mali?
+
+IPPIA: Beni.
+
+SOCRATE: E preferiresti avere piedi che sono volontariamente o involontariamente zoppi?
+
+IPPIA: Piedi che sono volontariamente zoppi.
+
+SOCRATE: Ma la zoppìa non è forse un difetto o una deformità?
+
+IPPIA: Sì.
+
+SOCRATE: E l'ammiccare non è forse un difetto degli occhi?
+
+IPPIA: Sì.
+
+SOCRATE: E preferiresti avere sempre occhi coi quali potessi volontariamente ammiccare e non vedere, oppure coi quali potessi involontariamente ammiccare?
+
+IPPIA: Preferirei avere occhi che ammiccano volontariamente.
+
+SOCRATE: Allora nel tuo stesso caso reputi ciò che volontariamente agisce male, migliore di ciò che involontariamente agisce male?
+
+IPPIA: Sì, certamente, in casi come quelli che menzioni.
+
+SOCRATE: E non vale lo stesso per le orecchie, le narici, la bocca, e per tutti i sensi — quelli che involontariamente agiscono male non sono da desiderare, in quanto difettosi; e quelli che volontariamente agiscono male sono da desiderare, in quanto buoni?
+
+IPPIA: Concordo.
+
+SOCRATE: E che diresti degli strumenti; — quale sorta di strumenti è la migliore da avere a che fare? — quelli con cui un uomo agisce male volontariamente o involontariamente? Per esempio, sarebbe meglio per un uomo avere un timone col quale governerà male, volontariamente o involontariamente?
+
+IPPIA: Sarebbe meglio per lui avere un timone col quale governerà male volontariamente.
+
+SOCRATE: E non vale lo stesso per l'arco e la lira, il flauto e tutte le altre cose?
+
+IPPIA: Verissimo.
+
+SOCRATE: E preferiresti avere un cavallo di tale indole che tu possa cavalcarlo male volontariamente o involontariamente?
+
+IPPIA: Preferirei avere un cavallo che potessi cavalcare male volontariamente.
+
+SOCRATE: Quello sarebbe il cavallo migliore?
+
+IPPIA: Sì.
+
+SOCRATE: Allora con un cavallo di indole migliore, le azioni difettose sarebbero prodotte volontariamente; e con un cavallo di indole cattiva, involontariamente?
+
+IPPIA: Certamente.
+
+SOCRATE: E ciò sarebbe vero di un cane, o di qualunque altro animale?
+
+IPPIA: Sì.
+
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And is it better to possess the mind of an archer who voluntarily or involuntarily misses the mark?
@@ -513,3 +919,91 @@ SOCRATES: Then, Hippias, he who voluntarily does wrong and disgraceful things, i
 HIPPIAS: There I cannot agree with you.
 
 SOCRATES: Nor can I agree with myself, Hippias; and yet that seems to be the conclusion which, as far as we can see at present, must follow from our argument. As I was saying before, I am all abroad, and being in perplexity am always changing my opinion. Now, that I or any ordinary man should wander in perplexity is not surprising; but if you wise men also wander, and we cannot come to you and rest from our wandering, the matter begins to be serious both to us and to you.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ed è meglio possedere la mente di un arciere che volontariamente o involontariamente manca il bersaglio?
+
+IPPIA: Di colui che volontariamente lo manca.
+
+SOCRATE: Questa sarebbe la mente migliore per gli scopi del tiro con l'arco?
+
+IPPIA: Sì.
+
+SOCRATE: Allora la mente che involontariamente erra è peggiore della mente che erra volontariamente?
+
+IPPIA: Sì, certamente, nell'uso dell'arco.
+
+SOCRATE: E che diresti dell'arte della medicina; — non è forse la mente che volontariamente arreca danno al corpo a possedere di più l'arte del guarire?
+
+IPPIA: Sì.
+
+SOCRATE: Allora nell'arte della medicina il volontario è migliore dell'involontario?
+
+IPPIA: Sì.
+
+SOCRATE: Ebbene, e nel suonare il liuto e nel suonare il flauto, e in tutte le arti e le scienze, non è forse migliore quella mente che volontariamente fa ciò che è malvagio e disonorevole, e sbaglia, e non è forse peggiore quella che lo fa involontariamente?
+
+IPPIA: Questo è evidente.
+
+SOCRATE: E che diresti dei caratteri degli schiavi? Non dovremmo preferire di avere coloro che volontariamente fanno il male e commettono errori, e non sono forse migliori nei loro errori di coloro che li commettono involontariamente?
+
+IPPIA: Sì.
+
+SOCRATE: E non dovremmo desiderare di avere le nostre stesse menti nel migliore stato possibile?
+
+IPPIA: Sì.
+
+SOCRATE: E le nostre menti saranno migliori se fanno il male e commettono errori volontariamente o involontariamente?
+
+IPPIA: O Socrate, sarebbe cosa mostruosa dire che coloro che fanno il male volontariamente sono migliori di coloro che fanno il male involontariamente!
+
+SOCRATE: Eppure questa pare essere l'unica inferenza.
+
+IPPIA: Non credo.
+
+SOCRATE: Ma io immaginavo, Ippia, che lo credessi. Rispondimi ti prego ancora una volta: la giustizia non è forse una potenza, o una conoscenza, o entrambe? Non deve la giustizia, in ogni caso, essere una di queste?
+
+IPPIA: Sì.
+
+SOCRATE: Ma se la giustizia è una potenza dell'anima, allora l'anima che ha la maggiore potenza è anche la più giusta; poiché ciò che ha la maggiore potenza, mio buon amico, è stato da noi provato essere il migliore.
+
+IPPIA: Sì, questo è stato provato.
+
+SOCRATE: E se la giustizia è conoscenza, allora la più sapiente sarà l'anima più giusta, e la più ignorante la più ingiusta?
+
+IPPIA: Sì.
+
+SOCRATE: Ma se la giustizia è potenza non meno che conoscenza — allora non sarà forse l'anima che ha sia conoscenza sia potenza la più giusta, e quella che è la più ignorante la più ingiusta? Non deve essere così?
+
+IPPIA: Chiaramente.
+
+SOCRATE: E non è forse l'anima che ha la maggiore potenza e sapienza anche la migliore, e la più capace di fare tanto il bene quanto il male in ogni azione?
+
+IPPIA: Certamente.
+
+SOCRATE: L'anima, dunque, che agisce male, agisce volontariamente per potenza e per arte — e questi, l'uno o l'altro o entrambi, sono elementi della giustizia?
+
+IPPIA: Ciò pare essere vero.
+
+SOCRATE: E fare ingiustizia è fare il male, e non fare ingiustizia è fare il bene?
+
+IPPIA: Sì.
+
+SOCRATE: E non farà forse l'anima migliore e più capace, quando fa il male, il male volontariamente, e l'anima cattiva involontariamente?
+
+IPPIA: Chiaramente.
+
+SOCRATE: E l'uomo buono è colui che ha l'anima buona, e l'uomo cattivo è colui che ha l'anima cattiva?
+
+IPPIA: Sì.
+
+SOCRATE: Allora l'uomo buono farà volontariamente il male, e l'uomo cattivo involontariamente, se l'uomo buono è colui che ha l'anima buona?
+
+IPPIA: La quale egli certamente ha.
+
+SOCRATE: Allora, Ippia, colui che volontariamente fa cose ingiuste e vergognose, se un tale uomo esiste, sarà l'uomo buono?
+
+IPPIA: Qui non posso concordare con te.
+
+SOCRATE: Né io posso concordare con me stesso, Ippia; eppure questa pare essere la conclusione che, per quanto possiamo vedere al presente, deve seguire dal nostro ragionamento. Come dicevo prima, vado del tutto alla deriva, ed essendo in perplessità muto sempre la mia opinione. Ora, che io o qualsiasi uomo comune vaghi nella perplessità non è cosa sorprendente; ma se anche voi uomini sapienti vagate, e noi non possiamo venire da voi e riposare dal nostro vagare, la faccenda comincia a farsi seria tanto per noi quanto per voi.

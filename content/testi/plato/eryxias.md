@@ -100,6 +100,86 @@ Eryxias looked askance, as if he had received some unfair treatment, and said, I
 
 I dare say, Eryxias, I said, that you may regard these arguments of ours as a kind of game; you think that they have no relation to facts, but are like the pieces in the game of draughts which the player can move in such a way that his opponents are unable to make any countermove. (Compare Republic.) And perhaps, too, as regards riches you are of opinion that while facts remain the same, there are arguments, no matter whether true or false, which enable the user of them to prove that the wisest and the richest are one and the same, although he is in the wrong and his opponents are in the right. There would be nothing strange in this; it would be as if two persons were to dispute about letters, one declaring that the word Socrates began with an S, the other that it began with an A, and the latter could gain the victory over the former.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONE DEL DIALOGO:
+
+[SOCRATE](/figures/socrates), ERISSIA, ERASISTRATO, CRIZIA.
+
+SCENA: Il portico di un tempio di Zeus.
+
+Accadde per [caso](/concepts/fortune) che Erissia di Steiria passeggiasse con me nel Portico di Zeus Liberatore, quando ci si avvicinarono Crizia ed Erasistrato, quest'ultimo figlio di Feace, che era nipote di Erasistrato. Ora Erasistrato era appena giunto dalla Sicilia e da quella parte del mondo. Mentre si avvicinavano, egli disse: Salve, Socrate!
+
+SOCRATE: Altrettanto a te, dissi; hai qualche buona notizia dalla Sicilia da darci?
+
+ERASISTRATO: Ottime. Ma, se ti piace, sediamoci prima; poiché sono stanco per il viaggio di ieri da Megara.
+
+SOCRATE: Volentieri, se questo è il tuo desiderio.
+
+ERASISTRATO: Che cosa vorresti udire per primo? disse. Che cosa fanno i Siciliani, o come sono disposti verso la nostra città? A mio parere, sono molto simili alle vespe: finché arrechi loro solo un piccolo fastidio sono del tutto indomabili; devi distruggere i loro nidi se vuoi averne ragione. E in modo simile i Siracusani, a meno che non ci mettiamo all'opera sul serio, e andiamo contro di loro con una grande spedizione, non si sottometteranno mai al nostro dominio. Le meschine offese che al presente infliggiamo servono solo a irritarli abbastanza da renderli del tutto intrattabili. E ora hanno inviato ambasciatori ad Atene, e intendono, sospetto, giocarci qualche tiro. — Mentre parlavamo, gli inviati siracusani passarono per caso, ed Erasistrato, indicandone uno, mi disse: Quello, Socrate, è l'uomo più ricco di tutta l'Italia e la Sicilia. Poiché chi possiede tenute più vaste o più terra a sua disposizione da coltivare, se lo desidera? E sono anche di una qualità più fine di qualsiasi altra terra dell'Ellade. Inoltre, ha tutte le cose che compongono la ricchezza, schiavi e cavalli innumerevoli, oro e argento senza fine.
+
+Vidi che era propenso a dilungarsi sulle ricchezze di quell'uomo; sicché gli chiesi: Ebbene, Erasistrato, e che sorta di reputazione gode in Sicilia?
+
+ERASISTRATO: È reputato essere, e realmente è, il più malvagio di tutti i Siciliani e gli Italioti, e ancor più malvagio di quanto sia ricco; anzi, se tu chiedessi a un qualsiasi Siciliano chi ritenga il peggiore e il più ricco degli uomini, non udresti mai nominare nessun altro.
+
+Riflettei che stavamo parlando non di cose banali, ma di ricchezza e di virtù, che sono ritenute della massima importanza, e chiesi a Erasistrato chi considerasse il più ricco, — colui che possedeva un talento d'argento o colui che aveva un campo del valore di due talenti?
+
+ERASISTRATO: Il proprietario del campo.
+
+SOCRATE: E secondo lo stesso principio colui che avesse vesti e coperte e simili cose che sono di maggior valore per lui che per un estraneo sarebbe più ricco dell'estraneo?
+
+ERASISTRATO: Vero.
+
+SOCRATE: E se qualcuno ti desse una scelta, quale di queste preferiresti?
+
+ERASISTRATO: Quella di maggior valore.
+
+SOCRATE: In quale modo pensi che saresti il più ricco?
+
+ERASISTRATO: Scegliendo come ho detto.
+
+SOCRATE: Ed egli ti appare il più ricco che possiede i beni di maggior valore?
+
+ERASISTRATO: Sì.
+
+SOCRATE: E i sani non sono forse più ricchi dei malati, poiché la salute è un possesso più prezioso della ricchezza per il malato? Sicuramente non vi è nessuno che non preferirebbe essere povero e sano, piuttosto che avere tutta la ricchezza del Re di Persia ed essere infermo. E questo prova che gli uomini pongono la salute al di sopra della ricchezza, altrimenti non sceglierebbero mai l'una a preferenza dell'altra.
+
+ERASISTRATO: Vero.
+
+SOCRATE: E se qualcosa apparisse più prezioso della salute, sarebbe il più ricco colui che lo possedesse?
+
+ERASISTRATO: Lo sarebbe.
+
+SOCRATE: Supponiamo che qualcuno venisse da noi in questo momento e ci chiedesse: Ebbene, Socrate ed Erissia ed Erasistrato, potete dirmi che cosa è di massimo valore per gli uomini? Non è forse quello il cui possesso meglio metterà un uomo in grado di consigliare come debbano essere amministrati i propri affari e quelli dell'amico? — Quale sarà la nostra risposta?
+
+ERASISTRATO: Direi, Socrate, che la felicità è il più prezioso dei possessi umani.
+
+SOCRATE: Non una cattiva risposta. Ma non riteniamo forse i più prosperi gli uomini più felici?
+
+ERASISTRATO: Questa è la mia opinione.
+
+SOCRATE: E non sono i più prosperi coloro che commettono il minor numero di errori riguardo a se stessi o agli altri uomini?
+
+ERASISTRATO: Certamente.
+
+SOCRATE: E coloro che sanno che cosa è male e che cosa è bene; che cosa si deve fare e che cosa si deve lasciare non fatto; — questi si comportano nel modo più saggio e commettono il minor numero di errori?
+
+Erasistrato convenne in questo.
+
+SOCRATE: Allora i più saggi e coloro che fanno meglio e i più fortunati e i più ricchi apparirebbero essere tutti una sola e medesima cosa, se la saggezza è davvero il più prezioso dei nostri possessi?
+
+Sì, disse Erissia, interponendosi, ma a che gioverebbe se un uomo avesse la saggezza di Nestore e mancasse del necessario alla vita, cibo e bevanda e vesti e simili? Dove sarebbe allora il vantaggio della saggezza? O come potrebbe essere il più ricco degli uomini colui che dovesse persino andare mendicando, perché non aveva di che vivere?
+
+Pensai che ciò che Erissia diceva avesse un certo peso, e replicai: Soffrirebbe davvero in questo modo l'uomo saggio, se fosse così mal provvisto; mentre se avesse la casa di Politione, e la casa fosse piena d'oro e d'argento, non gli mancherebbe nulla?
+
+ERISSIA: Sì; poiché allora potrebbe disporre della sua proprietà e ottenere in cambio ciò di cui avesse bisogno, oppure venderla per denaro con cui potrebbe soddisfare i suoi bisogni e in un attimo procurarsi abbondanza di ogni cosa.
+
+SOCRATE: Vero, se potesse trovare qualcuno che preferisse una tale casa alla saggezza di Nestore. Ma se vi sono persone che tengono in gran conto una saggezza come quella di Nestore e i vantaggi che ne derivano, vendere questi, se lo desiderasse, sarebbe ancora più facile. Oppure una casa è un possesso quanto mai utile e necessario, e fa una gran differenza per l'agio della vita avere una dimora come quella di Politione invece di vivere in una misera casupola, mentre la saggezza è di scarsa utilità ed è privo d'importanza che un uomo sia saggio o ignorante nelle cose più alte? O la saggezza è disprezzata dagli uomini e non può trovare acquirenti, benché il legno di cipresso e il marmo del Pentelico siano avidamente comprati da numerosi acquirenti? Certo il pilota prudente o il medico abile, o l'artefice di qualsiasi genere che sia esperto nella sua arte, vale più delle cose che sono specialmente annoverate tra le ricchezze; e colui che sa consigliare bene e saggiamente per sé e per gli altri è anche in grado di vendere il prodotto della sua arte, se così desideri.
+
+Erissia guardò di traverso, come se avesse ricevuto qualche trattamento ingiusto, e disse: Credo, Socrate, che se fossi costretto a dire la verità, dichiareresti di essere più ricco di Callia figlio di Ipponico. Eppure, benché pretendessi di essere più saggio riguardo alle cose di reale importanza, non saresti perciò più ricco di lui.
+
+Oserei dire, Erissia, dissi, che tu puoi considerare questi nostri ragionamenti come una sorta di gioco; pensi che non abbiano relazione con i fatti, ma siano come le pedine nel gioco della dama che il giocatore può muovere in modo tale che i suoi avversari non riescano a fare alcuna contromossa. (Confronta la Repubblica.) E forse, anche, riguardo alle ricchezze sei dell'opinione che, mentre i fatti restano i medesimi, vi sono argomenti, non importa se veri o falsi, che mettono chi li usa in grado di provare che il più saggio e il più ricco sono una sola e medesima cosa, benché egli abbia torto e i suoi avversari abbiano ragione. Non vi sarebbe nulla di strano in questo; sarebbe come se due persone disputassero intorno alle lettere, l'una dichiarando che la parola Socrate comincia con una S, l'altra che comincia con una A, e quest'ultima potesse riportare la vittoria sulla prima.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Eryxias glanced at the audience, laughing and blushing at once, as if he had had nothing to do with what had just been said, and replied, — No, indeed, [Socrates](/figures/socrates), I never supposed that our arguments should be of a kind which would never convince any one of those here present or be of advantage to them. For what man of sense could ever be persuaded that the wisest and the richest are the same? The truth is that we are discussing the subject of riches, and my notion is that we should argue respecting the honest and dishonest means of acquiring them, and, generally, whether they are a good thing or a bad.
@@ -162,6 +242,68 @@ Prodicus agreed to this also.
 
 And when you pray to the Gods that you may do well and receive good, you mean by your prayer nothing else than that you desire to become good and wise: — if, at least, things are good to the good and wise and evil to the evil. But in that case, if virtue is acquired by instruction, it would appear that you only pray to be taught what you do not know.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Erissia lanciò uno sguardo agli astanti, ridendo e arrossendo a un tempo, come se non avesse avuto nulla a che fare con ciò che era appena stato detto, e replicò: — No, davvero, [Socrate](/figures/socrates), non ho mai supposto che i nostri argomenti dovessero essere di tal genere da non convincere mai nessuno dei presenti né tornare loro di vantaggio. Poiché quale uomo di senno potrebbe mai essere persuaso che il più saggio e il più ricco siano lo stesso? La verità è che stiamo discutendo il tema delle ricchezze, e la mia idea è che dovremmo argomentare intorno ai mezzi onesti e disonesti di acquisirle, e, in generale, se esse siano una cosa buona o cattiva.
+
+Benissimo, dissi, e ti sono grato per il suggerimento: in futuro saremo più accorti. Ma perché tu stesso, che hai introdotto l'argomento, e non pensi che la discussione precedente abbia toccato il punto in questione, non ci dici se consideri le ricchezze un bene o un male?
+
+Sono dell'opinione, disse, che siano un bene. Stava per aggiungere qualcosa di più, quando Crizia lo interruppe: — Lo credi davvero, Erissia?
+
+Certamente, replicò Erissia; sarei pazzo se non lo credessi: e non immagino che troveresti nessun altro di opinione contraria.
+
+E io, ribatté Crizia, direi che non vi è nessuno che non potrei costringere ad ammettere che le ricchezze sono cattive per alcuni uomini. Ma di certo, se fossero un bene, non potrebbero apparire cattive per chicchessia?
+
+Qui io mi interposi e dissi loro: Se voi due steste avendo una disputa sull'equitazione e su quale fosse il modo migliore di cavalcare, supponendo che io stesso conoscessi quell'arte, cercherei di portarvi a un accordo. Poiché mi vergognerei se, essendo presente, non facessi quanto potessi per prevenire la vostra discordia. E farei lo stesso se steste litigando intorno a qualsiasi altra arte e rischiaste, se non vi accordaste sul punto in disputa, di separarvi come nemici anziché come amici. Ma ora, quando contendiamo intorno a una cosa la cui utilità perdura per l'intera vita, e fa un'enorme differenza se dobbiamo considerarla benefica o no, — una cosa, per giunta, che è stimata della massima importanza dagli Elleni: — (poiché i genitori, non appena i loro figli sono, come credono, giunti agli anni della discrezione, li esortano a considerare come si possa acquisire la ricchezza, poiché dalle ricchezze si giudica il valore di un uomo): — Quando, dico, siamo così seri, e voi, che concordate in ogni altra cosa, cadete a disputare intorno a una faccenda di tale momento, cioè intorno alla ricchezza, e non semplicemente se sia nera o bianca, leggera o pesante, ma se sia un bene o un male, per cui, benché siate ora i più cari amici e parenti, il più amaro odio può sorgere fra voi, io devo impedire la vostra dissensione al meglio delle mie forze. Se potessi, vi direi la verità, e così porrei fine alla disputa; ma poiché non posso far questo, e ciascuno di voi suppone di poter portare l'altro a un accordo, sono pronto, per quanto la mia capacità consente, ad aiutarvi a risolvere la questione. Ti prego dunque, Crizia, cerca di farci accettare le dottrine che tu stesso professi.
+
+CRIZIA: Vorrei seguire fino in fondo l'argomento, e chiederò a Erissia se pensa che vi siano uomini giusti e ingiusti?
+
+ERISSIA: Senza dubbio.
+
+CRIZIA: E l'ingiustizia ti sembra un male o un bene?
+
+ERISSIA: Un male.
+
+CRIZIA: Consideri che colui che corrompe la moglie del vicino e commette adulterio con lei, agisca giustamente o ingiustamente, e questo benché sia [lo Stato](/concepts/state) sia le leggi lo vietino?
+
+ERISSIA: Ingiustamente.
+
+CRIZIA: E se l'uomo malvagio ha ricchezza ed è disposto a spenderla, attuerà i suoi malvagi propositi? mentre colui che è a corto di mezzi non può fare ciò che vorrebbe, e perciò non pecca? In tal caso, di certo, è meglio che una persona non sia ricca, se la sua povertà impedisce il compimento dei suoi desideri, e i suoi desideri sono malvagi? O, ancora, chiameresti la malattia un bene o un male?
+
+ERISSIA: Un male.
+
+CRIZIA: Ebbene, e pensi che alcuni uomini siano intemperanti?
+
+ERISSIA: Sì.
+
+CRIZIA: Allora, se è meglio per la sua salute che l'uomo intemperante si astenga dal cibo e dalla bevanda e da altre cose piacevoli, ma non può a causa della sua intemperanza, non sarà anche meglio che sia troppo povero per gratificare la sua brama, piuttosto che avere una sovrabbondanza di mezzi? Poiché così non sarà in grado di peccare, per quanto mai lo desideri.
+
+Crizia pareva argomentare così mirabilmente che Erissia, se non si fosse vergognato degli astanti, probabilmente si sarebbe alzato e lo avrebbe colpito. Poiché pensava di essere stato derubato di un gran possesso quando gli divenne evidente di aver avuto torto nella sua precedente opinione sulla ricchezza. Osservai il suo cruccio, e temetti che passassero all'insulto e alla lite: sicché dissi: — Udii proprio quell'argomento usato ieri [nel Liceo](/schools/lyceum) da un uomo saggio, Prodico di Ceo; ma l'uditorio pensò che dicesse mere sciocchezze, e nessuno poté essere persuaso che dicesse il vero. E quando alla fine un certo loquace giovane signore entrò, e, presa la sua seduta, cominciò a ridere e a schernire Prodico, tormentandolo ed esigendo una spiegazione del suo argomento, egli conquistò l'orecchio dell'uditorio assai più di Prodico.
+
+Puoi ripeterci il discorso? disse Erasistrato.
+
+SOCRATE: Se solo riesco a ricordarlo, lo farò. Il giovane cominciò chiedendo a Prodico: In che modo pensava che le ricchezze fossero un bene e in che modo un male? Prodico rispose, come hai fatto tu poco fa, che erano un bene per gli uomini buoni e per coloro che sapevano in che modo dovessero essere impiegate, mentre per i cattivi e gli ignoranti erano un male. Lo stesso è vero, proseguì dicendo, di tutte le altre cose; gli uomini le rendono quali sono essi stessi. Il detto di Archiloco è vero: —
+
+‘I pensieri degli uomini corrispondono alle cose che essi incontrano.’
+
+Ebbene, allora, replicò il giovane, se qualcuno mi rende saggio in quella saggezza per cui gli uomini buoni divengono saggi, deve anche rendermi buona ogni altra cosa. Non che egli si occupi affatto di queste altre cose, ma ha convertito la mia ignoranza in saggezza. Se, per esempio, una persona mi insegna la grammatica o la musica, mi insegnerà allo stesso tempo tutto ciò che concerne la grammatica o la musica, e così quando mi rende buono, mi rende buone le cose.
+
+Prodico non era del tutto d'accordo: pure acconsentì a ciò che era stato detto.
+
+E pensi, disse il giovane, che il fare cose buone sia come costruire una casa, — opera dell'agire umano; oppure le cose restano quali erano in principio, buone o cattive, per tutto il tempo?
+
+Prodico cominciò a sospettare, immagino, la direzione che l'argomento era probabile prendesse, e non voleva essere abbattuto da un mero ragazzotto dinanzi a tutti i presenti: — (se fossero stati soli in due, non se ne sarebbe curato): — sicché rispose, abbastanza abilmente: Penso che il fare cose buone sia opera dell'agire umano.
+
+E la virtù, secondo te, Prodico, è innata o acquisita mediante l'insegnamento?
+
+La seconda, disse Prodico.
+
+Allora considereresti un sempliciotto colui che supponesse di poter ottenere pregando gli dèi la conoscenza della grammatica o della musica o di qualsiasi altra arte, che egli deve o apprendere da un altro o scoprire da sé?
+
+Prodico convenne anche in questo.
+
+E quando preghi gli dèi di poter far bene e ricevere il bene, non intendi con la tua preghiera nient'altro se non che desideri divenire buono e saggio: — se, almeno, le cose sono buone ai buoni e ai saggi e cattive ai cattivi. Ma in tal caso, se la virtù è acquisita mediante l'insegnamento, apparirebbe che tu preghi soltanto di essere istruito in ciò che non sai.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 Hereupon I said to Prodicus that it was no misfortune to him if he had been proved to be in error in supposing that the Gods immediately granted to us whatever we asked: — if, I added, whenever you go up to the Acropolis you earnestly entreat the Gods to grant you good things, although you know not whether they can yield your request, it is as though you went to the doors of the grammarian and begged him, although you had never made a study of the art, to give you a knowledge of grammar which would enable you forthwith to do the business of a grammarian.
@@ -199,6 +341,44 @@ But how do you mean, Socrates? said Eryxias, interrupting. Do we not employ in o
 SOCRATES: Clearly we have not yet answered the question, What is wealth? That wealth must be useful, to be wealth at all, — thus much is acknowledged by every one. But what particular thing is wealth, if not all things? Let us pursue the argument in another way; and then we may perhaps find what we are seeking. What is the use of wealth, and for what purpose has the possession of riches been invented, — in the sense, I mean, in which drugs have been discovered for the cure of disease? Perhaps in this way we may throw some light on the question. It appears to be clear that whatever constitutes wealth must be useful, and that wealth is one class of useful things; and now we have to enquire, What is the use of those useful things which constitute wealth? For all things probably may be said to be useful which we use in production, just as all things which have life are animals, but there is a special kind of animal which we call ‘man.’ Now if any one were to ask us, What is that of which, if we were rid, we should not want medicine and the instruments of medicine, we might reply that this would be the case if disease were absent from our bodies and either never came to them at all or went away again as soon as it appeared; and we may therefore conclude that medicine is the science which is useful for getting rid of disease. But if we are further asked, What is that from which, if we were free, we should have no need of wealth? can we give an answer? If we have none, suppose that we restate the question thus: — If a man could live without food or drink, and yet suffer neither hunger nor thirst, would he want either money or anything else in order to supply his needs?
 
 ERYXIAS: He would not.
+
+<span class="qlang-split" data-lang="it"></span>
+
+A questo punto io dissi a Prodico che non era per lui una sventura se era stato dimostrato in errore nel supporre che gli dèi ci concedessero immediatamente qualunque cosa chiedessimo: — se, aggiunsi, ogni volta che sali all'Acropoli supplichi con fervore gli dèi di concederti cose buone, benché tu non sappia se possano esaudire la tua richiesta, è come se tu andassi alle porte del grammatico e lo pregassi, benché non avessi mai fatto uno studio dell'arte, di darti una conoscenza della grammatica che ti mettesse in grado di svolgere all'istante il mestiere del grammatico.
+
+Mentre parlavo, Prodico si preparava a ritorcere l'argomento contro il suo giovane assalitore, intendendo servirsi del ragionamento di cui tu ti sei appena servito; poiché era seccato che si supponesse che avesse rivolto una vana preghiera agli dèi. Ma il direttore del ginnasio venne da lui e lo pregò di andarsene, perché insegnava ai giovani dottrine non adatte a loro, e perciò dannose.
+
+Vi ho raccontato questo perché voglio che comprendiate come stiano gli uomini rispetto alla filosofia. Fosse stato Prodico presente e avesse detto ciò che tu hai detto, l'uditorio lo avrebbe creduto delirante, ed egli sarebbe stato espulso dal ginnasio. Ma tu hai argomentato così egregiamente bene da aver non solo persuaso i tuoi ascoltatori, ma condotto il tuo avversario a un accordo. Poiché proprio come nei tribunali, se due testimoni attestano il medesimo fatto, uno dei quali sembra un onest'uomo e l'altro un furfante, la testimonianza del furfante spesso produce sulle menti dei giudici l'effetto contrario a quello che egli intendeva, mentre la medesima prova, se data dall'onest'uomo, subito colpisce loro come perfettamente vera. E probabilmente l'uditorio ha qualcosa del medesimo sentimento riguardo a te e a Prodico; lo ritengono un Sofista e un fanfarone, e considerano te un gentiluomo di cortesia e di valore. Poiché non prestano attenzione all'argomento tanto quanto al carattere di chi parla.
+
+Ma davvero, [Socrate](/figures/socrates), disse Erasistrato, benché tu possa scherzare, Crizia mi sembra dire qualcosa che ha del peso.
+
+SOCRATE: Sono nella massima serietà, ti assicuro. Ma perché, avendo cominciato il tuo argomento così graziosamente, non prosegui con il resto? Manca ancora qualcosa, ora che hai convenuto che (la ricchezza) è un bene per alcuni e un male per altri. Resta da indagare che cosa costituisca la ricchezza; poiché a meno che tu non sappia questo, non puoi in alcun modo giungere a un'intesa sul fatto se sia un bene o un male. Sono pronto ad assisterti nell'indagine al massimo delle mie forze: ma prima chi afferma che le ricchezze sono un bene ci dica che cosa, a suo parere, sia la ricchezza.
+
+ERASISTRATO: Davvero, Socrate, non ho nozione alcuna sulla ricchezza al di là di quella che gli uomini comunemente hanno. Suppongo che la ricchezza sia una quantità di denaro (confronta Aristotele, Politica); e questa, immagino, sarebbe anche la definizione di Crizia.
+
+SOCRATE: Allora ora dobbiamo considerare: Che cos'è il denaro? O altrimenti più tardi ci troveremo a differire sulla questione. Per esempio, i Cartaginesi usano denaro di questa sorta. Qualcosa che è all'incirca della grandezza di uno statere è legato dentro un piccolo pezzo di cuoio: che cosa sia, nessuno lo sa tranne coloro che lo fanno. Un sigillo è poi apposto sul cuoio, il quale allora passa in circolazione, e colui che ha il maggior numero di tali pezzi è stimato il più ricco e il più agiato. Eppure, se qualcuno tra noi avesse una massa di tali monete, non sarebbe più ricco che se avesse altrettanti sassolini della montagna. A Lacedemone, di nuovo, usano ferro a peso che è stato reso inutilizzabile: e colui che ha la maggior massa di tale ferro è ritenuto il più ricco, benché altrove esso non abbia alcun valore. In Etiopia si impiegano pietre incise, delle quali un Lacedemone non saprebbe che farsi. Ancora una volta, tra gli Sciti Nomadi un uomo che possedesse la casa di Politione non sarebbe ritenuto più ricco di uno che possedesse il Monte Licabetto fra noi. E chiaramente quelle cose non possono tutte essere considerate possessi; poiché in alcuni casi i possessori non apparirebbero perciò più ricchi: ma, come dicevo, qualcuna di esse è ritenuta in un luogo denaro, e i possessori di essa sono i ricchi, mentre in qualche altro luogo non è denaro, e la proprietà di essa non conferisce ricchezza; proprio come lo standard dei costumi varia, e ciò che è onorevole per alcuni uomini è disonorevole per altri. E se vogliamo indagare perché una casa è preziosa per noi ma non per gli Sciti, o perché i Cartaginesi apprezzano un cuoio che per noi è privo di valore, o i Lacedemoni trovano ricchezza nel ferro e noi no, non possiamo ottenere una risposta in qualche modo così: Un Ateniese, che avesse mille talenti di peso delle pietre che giacciono qua e là nell'Agorà e che noi non impieghiamo per alcuno scopo, sarebbe ritenuto perciò più ricco?
+
+ERASISTRATO: Certamente non mi apparirebbe tale.
+
+SOCRATE: Ma se possedesse mille talenti di peso di qualche pietra preziosa, diremmo che era molto ricco?
+
+ERASISTRATO: Naturalmente.
+
+SOCRATE: La ragione è che l'una è inutile e l'altra utile?
+
+ERASISTRATO: Sì.
+
+SOCRATE: E allo stesso modo tra gli Sciti una casa non ha valore perché essi non hanno uso di una casa, né uno Scita darebbe tanto peso alla più bella casa del mondo quanto a una veste di cuoio, perché potrebbe usare l'una e non l'altra. O di nuovo, la [moneta](/concepts/money) cartaginese non è ricchezza ai nostri occhi, poiché non potremmo impiegarla, come possiamo l'argento, per procurarci ciò di cui abbiamo bisogno, e perciò non ci è di alcun uso.
+
+ERASISTRATO: Vero.
+
+SOCRATE: Ciò che ci è utile, dunque, è ricchezza, e ciò che ci è inutile non è ricchezza?
+
+Ma come intendi, Socrate? disse Erissia, interrompendo. Non impieghiamo forse nel nostro commercio reciproco la parola e la violenza (?) e varie altre cose? Queste sono utili e tuttavia non sono ricchezza.
+
+SOCRATE: Chiaramente non abbiamo ancora risposto alla domanda: Che cos'è la ricchezza? Che la ricchezza debba essere utile, per essere affatto ricchezza, — questo è riconosciuto da tutti. Ma quale cosa particolare è ricchezza, se non tutte le cose? Perseguiamo l'argomento in un altro modo; e allora potremo forse trovare ciò che cerchiamo. Qual è l'uso della ricchezza, e per quale scopo è stato inventato il possesso delle ricchezze, — nel senso, intendo, in cui i farmaci sono stati scoperti per la cura della malattia? Forse in questo modo potremo gettare un po' di luce sulla questione. Pare essere chiaro che qualunque cosa costituisca ricchezza debba essere utile, e che la ricchezza sia una classe di cose utili; e ora dobbiamo indagare: Qual è l'uso di quelle cose utili che costituiscono la ricchezza? Poiché tutte le cose probabilmente si possono dire utili che usiamo nella produzione, proprio come tutte le cose che hanno vita sono animali, ma vi è una specie particolare di animale che chiamiamo ‘uomo.’ Ora se qualcuno ci chiedesse: Che cos'è ciò di cui, se ce ne liberassimo, non avremmo bisogno di medicina e degli strumenti della medicina, potremmo rispondere che questo sarebbe il caso se la malattia fosse assente dai nostri corpi e non venisse loro affatto o se ne andasse di nuovo non appena apparisse; e possiamo perciò concludere che la medicina è la scienza che è utile per liberarsi della malattia. Ma se ci si chiede inoltre: Che cos'è ciò da cui, se ne fossimo liberi, non avremmo bisogno di ricchezza? possiamo dare una risposta? Se non ne abbiamo alcuna, supponiamo di riformulare la domanda così: — Se un uomo potesse vivere senza cibo né bevanda, e tuttavia non soffrire né fame né sete, avrebbe bisogno di denaro o di qualsiasi altra cosa per soddisfare i suoi bisogni?
+
+ERISSIA: Non ne avrebbe.
 
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -330,6 +510,136 @@ SOCRATES: Then you think that a man may gain wealth by bad and disgraceful means
 
 CRITIAS: Yes, I do.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E questo non si applica forse in altri casi? Se non avessimo bisogno, per il servizio del corpo, delle cose di cui ora abbiamo necessità, e il caldo e il freddo e le altre sensazioni corporee ci fossero impercettibili, non vi sarebbe alcun uso in questa cosiddetta ricchezza, se nessuno, cioè, avesse alcuna necessità di quelle cose che ora ci fanno desiderare la ricchezza affinché possiamo soddisfare i desideri e i bisogni del corpo riguardo ai nostri vari bisogni. E perciò se il possesso della ricchezza è utile nel provvedere ai nostri bisogni corporei, e i bisogni corporei ci fossero ignoti, non avremmo bisogno di ricchezza, e forse non vi sarebbe cosa alcuna come la ricchezza.
+
+ERISSIA: Chiaramente no.
+
+SOCRATE: Allora la nostra conclusione è, come parrebbe, che la ricchezza è ciò che è utile a questo fine?
+
+Erissia diede ancora una volta il suo assenso, ma il piccolo argomento lo turbava considerevolmente.
+
+SOCRATE: E qual è la tua opinione su un'altra questione: — Diresti che la medesima cosa può essere in un tempo utile e in un altro inutile per la produzione del medesimo risultato?
+
+ERISSIA: Non posso dire più che, se ci occorre la medesima cosa per produrre il medesimo risultato, allora mi sembra essere utile; se no, no.
+
+SOCRATE: Allora se senza l'aiuto del fuoco potessimo fare una statua di bronzo, non avremmo bisogno del fuoco per quello scopo; e se non ne avessimo bisogno, ci sarebbe inutile? E l'argomento si applica egualmente in altri casi.
+
+ERISSIA: Chiaramente.
+
+SOCRATE: E perciò le condizioni che non sono richieste per l'esistenza di una cosa non sono utili per la produzione di essa?
+
+ERISSIA: Naturalmente no.
+
+SOCRATE: E se senza oro o argento o qualsiasi altra cosa che non usiamo direttamente per il corpo nel modo in cui facciamo con cibo e bevanda e coperte e case, — se senza queste potessimo soddisfare i bisogni del corpo, esse non ci sarebbero di alcun uso per quello scopo?
+
+ERISSIA: Non lo sarebbero.
+
+SOCRATE: Non sarebbero più considerate ricchezza, perché sono inutili, mentre sarebbe ricchezza ciò che ci mettesse in grado di ottenere quanto ci è utile?
+
+ERISSIA: O Socrate, non riuscirai mai a persuadermi che l'oro e l'argento e simili cose non siano ricchezza. Ma sono ben fermamente dell'opinione che le cose che ci sono inutili non siano ricchezza, e che il denaro che è utile a questo scopo sia della massima utilità; non che queste cose non siano utili alla vita, se per mezzo di esse possiamo procurarci ricchezza.
+
+SOCRATE: E come risponderesti a un'altra domanda? Vi sono persone, non è vero, che insegnano musica e grammatica e altre arti per compenso, e così si procurano quelle cose di cui hanno bisogno?
+
+ERISSIA: Vi sono.
+
+SOCRATE: E questi uomini con le arti che professano, e in cambio di esse, ottengono le necessità della vita proprio come facciamo noi per mezzo dell'oro e dell'argento?
+
+ERISSIA: Vero.
+
+SOCRATE: Allora se si procurano con questo mezzo ciò che vogliono per gli scopi della vita, quell'arte sarà utile alla vita? Poiché non diciamo forse che l'argento è utile perché ci mette in grado di provvedere ai nostri bisogni corporei?
+
+ERISSIA: Lo diciamo.
+
+SOCRATE: Allora se queste arti sono annoverate tra le cose utili, le arti sono ricchezza per la medesima ragione per cui lo sono l'oro e l'argento, poiché, chiaramente, il possesso di esse dà ricchezza. Eppure poco fa trovammo difficile accettare l'argomento che provava che i più saggi sono i più ricchi. Ma ora pare non esservi scampo da questa conclusione. Supponiamo che ci si chieda: ’È un cavallo utile a chiunque?’ non sarà la nostra risposta: ‘No, ma solo a coloro che sanno come usare un cavallo?’
+
+ERISSIA: Certamente.
+
+SOCRATE: E così, anche, la medicina non è utile a chiunque, ma solo a colui che sa come usarla?
+
+ERISSIA: Vero.
+
+SOCRATE: E lo stesso è il caso con ogni altra cosa?
+
+ERISSIA: Sì.
+
+SOCRATE: Allora l'oro e l'argento e tutti gli altri elementi che si suppone compongano la ricchezza sono utili soltanto alla persona che sa come usarli?
+
+ERISSIA: Esattamente.
+
+SOCRATE: E non dicevamo prima che era compito di un uomo buono e di un gentiluomo sapere dove e come qualsiasi cosa dovesse essere usata?
+
+ERISSIA: Sì.
+
+SOCRATE: I buoni e i gentili, dunque, saranno i soli a trarre profitto da queste cose, supponendo almeno che sappiano come usarle. Ma se è così, ad essi soli esse sembreranno ricchezza. Pare, tuttavia, che dove una persona è ignorante del cavalcare, e ha cavalli che gli sono inutili, se qualcuno gli insegna quell'arte, lo rende anche più ricco, poiché ciò che prima era inutile è ora divenuto utile per lui, e nel dargli conoscenza gli ha anche conferito ricchezza.
+
+ERISSIA: È così.
+
+SOCRATE: Eppure oserei giurare che Crizia non sarà smosso di un'inezia dall'argomento.
+
+CRIZIA: No, per il cielo, sarei un pazzo se lo fossi. Ma perché non concludi l'argomento che prova che l'oro e l'argento e le altre cose che sembrano essere ricchezza non sono vera ricchezza? Poiché sono stato oltremodo deliziato di udire i discorsi che hai appena tenuto.
+
+SOCRATE: Il mio argomento, Crizia (dissi), pare averti dato lo stesso genere di piacere che potresti aver tratto dalla recitazione di Omero da parte di qualche rapsodo; poiché non credi una parola di ciò che è stato detto. Ma suvvia, dammi una risposta a questa domanda. Non sono forse certe cose utili al costruttore quando costruisce una casa?
+
+CRIZIA: Lo sono.
+
+SOCRATE: E diresti che sono utili quelle cose che sono impiegate nella costruzione di case, — pietre e mattoni e travi e simili, e anche gli strumenti con cui il costruttore ha costruito la casa, le travi e le pietre che essi fornirono, e di nuovo gli strumenti con cui questi furono ottenuti?
+
+CRIZIA: Mi sembra che siano tutti utili per costruire.
+
+SOCRATE: E non è vero di ogni arte, che non solo i materiali ma gli strumenti con cui ce li procuriamo e senza i quali l'opera non potrebbe procedere, sono utili per quell'arte?
+
+CRIZIA: Certamente.
+
+SOCRATE: E inoltre, gli strumenti con cui gli strumenti sono procurati, e così via, andando indietro di stadio in stadio all'[infinito](/concepts/infinity), — non sono tutti questi, a tua opinione, necessari per portare a compimento l'opera?
+
+CRIZIA: Possiamo ragionevolmente supporre che sia così.
+
+SOCRATE: E se un uomo ha cibo e bevanda e vesti e le altre cose che sono utili al corpo, avrebbe bisogno di oro o argento o di qualsiasi altro mezzo con cui potersi procurare ciò che ora ha?
+
+CRIZIA: Non credo.
+
+SOCRATE: Allora consideri che un uomo non abbia mai bisogno di alcuna di queste cose per l'uso del corpo?
+
+CRIZIA: Certamente no.
+
+SOCRATE: E se appaiono inutili a questo fine, non dovrebbero sempre apparire inutili? Poiché abbiamo già posto il principio che le cose non possono essere in un tempo utili e in un altro no, nel medesimo processo.
+
+CRIZIA: Ma sotto questo rispetto il tuo argomento e il mio sono i medesimi. Poiché tu sostieni che se sono utili a un certo fine, non possono mai divenire inutili; mentre io dico che per compiere alcuni risultati sono necessarie cose cattive, e cose buone per altri.
+
+SOCRATE: Ma può una cosa cattiva essere usata per attuare un buon proposito?
+
+CRIZIA: Direi di no.
+
+SOCRATE: E chiamiamo buone quelle azioni che un uomo compie per amore della virtù?
+
+CRIZIA: Sì.
+
+SOCRATE: Ma può un uomo apprendere qualsiasi genere di conoscenza che sia trasmessa a viva voce se è del tutto privo del senso dell'udito?
+
+CRIZIA: Certamente no, penso.
+
+SOCRATE: E l'udito non sarà utile alla virtù, se la virtù è insegnata mediante l'udito e usiamo il senso dell'udito nell'impartire l'istruzione?
+
+CRIZIA: Sì.
+
+SOCRATE: E poiché la medicina libera il malato dalla sua malattia, anche quell'arte può talvolta apparire utile nell'acquisizione della virtù, per esempio quando l'udito è procurato con l'aiuto della medicina.
+
+CRIZIA: Molto probabile.
+
+SOCRATE: Ma se, di nuovo, otteniamo con la ricchezza l'aiuto della medicina, non considereremo la ricchezza utile alla virtù?
+
+CRIZIA: Vero.
+
+SOCRATE: E anche gli strumenti con cui la ricchezza è procurata?
+
+CRIZIA: Certamente.
+
+SOCRATE: Allora pensi che un uomo possa guadagnare ricchezza con mezzi cattivi e vergognosi, e, avendo ottenuto l'aiuto della medicina che gli permette di acquisire la facoltà dell'udito, possa usare proprio quella facoltà per l'acquisizione della virtù?
+
+CRIZIA: Sì, lo penso.
+
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But can that which is evil be useful for virtue?
@@ -379,3 +689,53 @@ SOCRATES: And he to whom the greatest number of things are useful for his purpos
 CRITIAS: It seems so.
 
 SOCRATES: The argument proves then that he who has great riches has likewise need of many things for the supply of the wants of the body; for wealth appears useful towards that end. And the richest must be in the worst condition, since they seem to be most in want of such things.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ma può ciò che è male essere utile alla virtù?
+
+CRIZIA: No.
+
+SOCRATE: Non è dunque necessario che i mezzi con cui otteniamo ciò che è utile a un certo oggetto siano sempre utili al medesimo oggetto: poiché pare che le cattive azioni possano talvolta servire buoni propositi? La cosa sarà ancora più chiara se la guardiamo in questo modo: — Se le cose sono utili ai vari fini per i quali esistono, fini che non verrebbero all'esistenza senza di esse, come le considereresti? Può l'ignoranza, per esempio, essere utile alla conoscenza, o la malattia alla salute, o il vizio alla virtù?
+
+CRIZIA: Mai.
+
+SOCRATE: Eppure abbiamo già convenuto — non è vero? — che non vi può essere conoscenza dove non vi sia stata prima ignoranza, né salute dove non vi sia stata malattia, né virtù dove non vi sia stato vizio?
+
+CRIZIA: Penso di sì.
+
+SOCRATE: Ma allora parrebbe che gli antecedenti senza i quali una cosa non può esistere non le siano necessariamente utili. Altrimenti l'ignoranza apparirebbe utile alla conoscenza, la malattia alla salute, e il vizio alla virtù.
+
+Crizia mostrava ancora grande riluttanza ad accettare qualsiasi argomento che tendesse a provare che tutte queste cose fossero inutili. Vidi che era difficile persuaderlo quanto (secondo il proverbio) è far bollire una pietra, sicché dissi: Diamo l'‘addio’ alla discussione, poiché non possiamo accordarci se queste cose siano utili e parte della ricchezza o no. Ma che cosa diremo a un'altra domanda: Chi è l'uomo più felice e migliore, — colui che richiede la maggior quantità di necessari per il corpo e per la dieta, o colui che ne richiede solo il minor numero e la minima parte? La risposta forse diverrà più evidente se supponiamo che qualcuno, paragonando l'uomo stesso in tempi diversi, consideri se la sua condizione sia migliore quando è malato o quando è sano?
+
+CRIZIA: Non è una domanda che necessiti di molta considerazione.
+
+SOCRATE: Probabilmente, dissi, ognuno può comprendere che la salute è una condizione migliore della malattia. Ma quando abbiamo i bisogni più grandi e più svariati, quando siamo malati o quando siamo sani?
+
+CRIZIA: Quando siamo malati.
+
+SOCRATE: E quando siamo nel peggior stato abbiamo il più grande e speciale bisogno e desiderio dei piaceri corporei?
+
+CRIZIA: Vero.
+
+SOCRATE: E visto che un uomo sta meglio quando ha meno bisogno di tali cose, non si applica il medesimo ragionamento al caso di due qualsiasi persone, delle quali una ha molti e grandi bisogni e desideri, e l'altra pochi e moderati? Per esempio, alcuni uomini sono giocatori d'azzardo, alcuni ubriaconi, e alcuni ghiottoni: e il gioco d'azzardo e l'amore per la bevanda e l'ingordigia sono tutti desideri?
+
+CRIZIA: Certamente.
+
+SOCRATE: Ma i desideri sono soltanto la mancanza di qualcosa: e coloro che hanno i desideri più grandi sono in una condizione peggiore di coloro che non ne hanno alcuno o ne hanno di lievissimi?
+
+CRIZIA: Certamente considero che coloro che hanno tali bisogni siano cattivi, e che quanto più grandi sono i loro bisogni tanto peggiori essi siano.
+
+SOCRATE: E pensiamo possibile che una cosa sia utile a uno scopo a meno che non ne abbiamo bisogno per quello scopo?
+
+CRIZIA: No.
+
+SOCRATE: Allora se queste cose sono utili a provvedere ai bisogni del corpo, dobbiamo averne bisogno per quello scopo?
+
+CRIZIA: Questa è la mia opinione.
+
+SOCRATE: E colui al quale il maggior numero di cose è utile per il suo scopo, avrà anche bisogno del maggior numero di mezzi per compierlo, supponendo che necessariamente sentiamo il bisogno di tutte le cose utili?
+
+CRIZIA: Pare così.
+
+SOCRATE: L'argomento prova dunque che colui che ha grandi ricchezze ha del pari bisogno di molte cose per il rifornimento dei bisogni del corpo; poiché la ricchezza appare utile a quel fine. E i più ricchi devono essere nella condizione peggiore, poiché sembrano avere più bisogno di tali cose.

@@ -108,6 +108,94 @@ And they are right, and you would agree with them?
 
 Yes, he said, certainly I should.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+[Socrate](/figures/socrates), che è il narratore, Carmide, Cherefonte, Crizia.
+
+SCENA: La Palestra di Taurea, che è presso il Portico dell'Arconte Re.
+
+Ieri sera sono tornato dall'esercito a Potidea, e dopo essere stato via per un bel po', pensai che mi sarebbe piaciuto andare a rivedere i miei vecchi luoghi consueti. Così entrai nella palestra di Taurea, che è di fronte al tempio adiacente al portico dell'Arconte Re, e là trovai un certo numero di persone, la maggior parte delle quali conoscevo, ma non tutte. La mia visita era inaspettata, e non appena mi videro entrare mi salutarono da lontano da ogni parte; e Cherefonte, che è una specie di forsennato, si alzò di scatto e corse verso di me, afferrandomi la mano e dicendo: Come hai fatto a scampare, Socrate? — (Devo spiegare che uno scontro aveva avuto luogo a Potidea non molto prima che partissimo, la cui notizia era appena allora giunta ad Atene.)
+
+Vedi, risposi, che sono qui.
+
+Correva voce, disse, che lo scontro fosse stato assai aspro, e che molti dei nostri conoscenti fossero caduti.
+
+Ciò, risposi, non era lontano dalla verità.
+
+Suppongo, disse, che tu fossi presente.
+
+Lo ero.
+
+Allora siediti, e raccontaci tutta la storia, che finora abbiamo udito solo in modo imperfetto.
+
+Presi il posto che mi assegnò, accanto a Crizia figlio di Callescro, e quando ebbi salutato lui e il resto della compagnia, riferii loro le notizie dall'esercito, e risposi alle loro varie domande.
+
+Poi, quando ce ne fu abbastanza di questo, io, a mia volta, cominciai a fare domande sulle faccende di casa — sul presente stato della filosofia, e sulla gioventù. Chiesi se qualcuno di loro fosse notevole per saggezza o [bellezza](/concepts/beauty), o per entrambe. Crizia, lanciando uno sguardo alla porta, richiamò la mia attenzione su alcuni giovani che stavano entrando, e parlavano rumorosamente tra loro, seguiti da una folla. Delle bellezze, Socrate, disse, immagino che presto sarai in grado di formarti un giudizio. Perché quelli che stanno appena entrando sono l'avanguardia della grande bellezza, come è ritenuto, del giorno d'oggi, ed è probabile che egli stesso non sia lontano.
+
+Chi è, dissi; e chi è suo padre?
+
+Carmide, rispose, è il suo nome; è mio cugino, e il figlio di mio zio Glaucone: credo proprio che anche tu lo conosca, benché non fosse ancora cresciuto al tempo della tua partenza.
+
+Certo, lo conosco, dissi, perché era notevole già allora quand'era ancora un bambino, e immagino che ormai debba essere quasi un giovane uomo.
+
+Vedrai, disse, tra un istante quali [progressi](/positions/progress) ha fatto e com'è. Aveva appena pronunciato la parola, quando Carmide entrò.
+
+Ora tu sai, amico mio, che io non so misurare nulla, e del bello sono semplicemente una misura tale quale una linea bianca lo è del gesso; perché quasi tutti i giovani appaiono belli ai miei occhi. Ma in quel momento, quando lo vidi entrare, confesso che rimasi del tutto stupito dalla sua bellezza e statura; tutto il mondo pareva innamorato di lui; stupore e confusione regnarono quando entrò; e una schiera di amanti lo seguiva. Che uomini adulti come noi fossimo colpiti in questo modo non sorprendeva, ma osservai che vi era lo stesso sentimento tra i ragazzi; tutti loro, fino al più piccolo bambino, si voltavano e lo guardavano, come se fosse stato una statua.
+
+Cherefonte mi chiamò e disse: Cosa ne pensi di lui, Socrate? Non ha forse un volto bello?
+
+Bellissimo, dissi.
+
+Ma non faresti alcun conto del suo volto, replicò, se potessi vedere la sua forma nuda: è assolutamente perfetto.
+
+E a questo tutti convennero.
+
+Per Eracle, dissi, non ci fu mai un simile modello di perfezione, se solo egli avesse un'altra piccola aggiunta.
+
+Quale? disse Crizia.
+
+Se avesse un'anima nobile; ed essendo della tua casata, Crizia, ci si può aspettare che l'abbia.
+
+È tanto bello e buono dentro, quanto lo è fuori, rispose Crizia.
+
+Allora, prima di vedere il suo corpo, non dovremmo chiedergli di mostrarci la sua anima, nuda e senza travestimenti? è proprio di un'età in cui gli piacerà conversare.
+
+Gli piacerà, disse Crizia, e posso dirti che è già un filosofo, e anche un poeta considerevole, non solo a suo giudizio, ma a quello di altri.
+
+Questa, mio caro Crizia, risposi, è una distinzione che è da lungo tempo nella tua famiglia, e che ti è pervenuta in eredità da Solone. Ma perché non lo chiami, e non ce lo mostri? perché anche se fosse più giovane di quanto è, non ci sarebbe alcuna sconvenienza nel suo conversare con noi alla presenza di te, che sei suo tutore e cugino.
+
+Benissimo, disse; allora lo chiamerò; e volgendosi all'attendente, disse: Chiama Carmide, e digli che voglio che venga a vedere un medico riguardo al malessere di cui mi parlò l'altro ieri. Poi, rivolgendosi di nuovo a me, aggiunse: Si è lamentato di recente di avere un mal di testa quando si alza al mattino: ora perché non dovresti fargli credere che tu conosci un rimedio per il mal di testa?
+
+Perché no, dissi; ma verrà?
+
+Verrà di certo, rispose.
+
+Venne come gli era stato ordinato, e si sedette tra Crizia e me. Grande divertimento fu suscitato dal fatto che ognuno spingeva con tutte le sue forze il vicino per fare posto a lui accanto a sé, finché ai due estremi della fila uno dovette alzarsi e l'altro fu rovesciato di lato. Ora io, amico mio, cominciavo a sentirmi a disagio; la mia precedente audace fiducia nelle mie capacità di conversare con lui era svanita. E quando Crizia gli disse che ero io la persona che aveva il rimedio, egli mi guardò in un modo così indescrivibile, e stava proprio per fare una domanda. E in quel momento tutti i presenti nella palestra si accalcarono intorno a noi, e, oh meraviglia! colsi con lo sguardo l'interno della sua veste, e presi fuoco. Allora non riuscii più a contenermi. Pensai a quanto bene Cidia comprendesse la natura dell'amore, quando, parlando di un bel giovane, ammonisce qualcuno a «non portare il cerbiatto al cospetto del leone perché ne sia divorato», perché sentii di essere stato sopraffatto da una sorta di appetito ferino. Ma mi controllai, e quando egli mi chiese se conoscessi il rimedio per il mal di testa, risposi, ma con uno sforzo, che sì, lo conoscevo.
+
+E qual è? disse.
+
+Risposi che era una specie di foglia, che doveva essere accompagnata da un incantesimo, e se una persona ripeteva l'incantesimo nello stesso tempo in cui usava il rimedio, sarebbe stata risanata; ma che senza l'incantesimo la foglia non sarebbe stata di alcun giovamento.
+
+Allora trascriverò l'incantesimo sotto tua dettatura, disse.
+
+Col mio consenso? dissi, o senza il mio consenso?
+
+Col tuo consenso, Socrate, disse, ridendo.
+
+Benissimo, dissi; e sei proprio sicuro di conoscere il mio nome?
+
+Dovrei conoscerti, rispose, perché si dice un gran che di te tra i miei compagni; e ricordo che quando ero bambino ti vedevo in compagnia di mio cugino Crizia.
+
+Sono lieto di scoprire che ti ricordi di me, dissi; perché ora sarò più a mio agio con te e sarò meglio in grado di spiegarti la natura dell'incantesimo, riguardo al quale prima provavo una difficoltà. Perché l'incantesimo farà di più, Carmide, che curare soltanto il mal di testa. Oso dire che tu abbia udito eminenti medici dire a un paziente che viene da loro con occhi malati, che non possono curargli gli occhi presi da soli, ma che se i suoi occhi devono essere curati, la sua testa deve essere trattata; e poi ancora dicono che pensare di curare la sola testa, e non anche il resto del corpo, è il colmo della follia. E argomentando in questo modo applicano i loro metodi all'intero corpo, e cercano di trattare e guarire il tutto e la parte insieme. Hai mai osservato che è questo ciò che dicono?
+
+Sì, disse.
+
+E hanno ragione, e tu saresti d'accordo con loro?
+
+Sì, disse, certamente lo sarei.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 His approving answers reassured me, and I began by degrees to regain confidence, and the vital heat returned. Such, Charmides, I said, is the nature of the charm, which I learned when serving with the army from one of the physicians of the Thracian king Zamolxis, who are said to be so skilful that they can even give immortality. This Thracian told me that in these notions of theirs, which I was just now mentioning, the Greek physicians are quite right as far as they go; but Zamolxis, he added, our king, who is also a god, says further, ‘that as you ought not to attempt to cure the eyes without the head, or the head without the body, so neither ought you to attempt to cure the body without the soul; and this,’ he said, ’is the reason why the cure of many diseases is unknown to the physicians of Hellas, because they are ignorant of the whole, which ought to be studied also; for the part can never be well unless the whole is well.’ For all good and evil, whether in the body or in [human nature](/axes/human_nature), originates, as he declared, in the soul, and overflows from thence, as if from the head into the eyes. And therefore if the head and body are to be well, you must begin by curing the soul; that is the first thing. And the cure, my dear youth, has to be effected by the use of certain charms, and these charms are fair words; and by them temperance is implanted in the soul, and where temperance is, there health is speedily imparted, not only to the head, but to the whole body. And he who taught me the cure and the charm at the same time added a special direction: ‘Let no one,’ he said, ‘persuade you to cure the head, until he has first given you his soul to be cured by the charm. For this,’ he said, ’is the great error of our day in the treatment of the human body, that physicians separate the soul from the body.’ And he added with emphasis, at the same time making me swear to his words, ‘Let no one, however rich, or noble, or fair, persuade you to give him the cure, without the charm.’ Now I have sworn, and I must keep my oath, and therefore if you will allow me to apply the Thracian charm first to your soul, as the stranger directed, I will afterwards proceed to apply the cure to your head. But if not, I do not know what I am to do with you, my dear Charmides.
@@ -189,6 +277,88 @@ Yes.
 And which is better, to call to mind, and to remember, quickly and readily, or quietly and slowly?
 
 The former.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le sue risposte di assenso mi rassicurarono, e cominciai a poco a poco a riacquistare fiducia, e il calore vitale tornò. Tale, Carmide, dissi, è la natura dell'incantesimo, che appresi quando prestavo servizio nell'esercito da uno dei medici del re tracio Zalmossi, i quali si dice siano tanto abili da poter persino dare l'immortalità. Questo tracio mi disse che in queste loro concezioni, che ho appena menzionato, i medici greci hanno perfettamente ragione fin dove arrivano; ma Zalmossi, aggiunse, il nostro re, che è anche un dio, dice inoltre «che come non si deve tentare di curare gli occhi senza la testa, o la testa senza il corpo, così neppure si deve tentare di curare il corpo senza l'anima; e questa», disse, «è la ragione per cui la cura di molte malattie è ignota ai medici dell'Ellade, perché essi ignorano il tutto, che pure dovrebbe essere studiato; perché la parte non può mai star bene se il tutto non sta bene.» Perché ogni bene e male, sia nel corpo sia nella [natura umana](/axes/human_nature), ha origine, come egli dichiarava, nell'anima, e da lì trabocca, come dalla testa negli occhi. E perciò se la testa e il corpo devono star bene, si deve cominciare col curare l'anima; questa è la prima cosa. E la cura, mio caro giovane, deve essere effettuata mediante l'uso di certi incantesimi, e questi incantesimi sono belle parole; e per mezzo di esse la temperanza viene instillata nell'anima, e dove c'è temperanza, là la salute viene prontamente impartita, non solo alla testa, ma all'intero corpo. E colui che mi insegnò la cura e l'incantesimo insieme aggiunse una speciale prescrizione: «Non permettere a nessuno», disse, «di persuaderti a curare la testa, finché non ti abbia prima consegnato la sua anima perché sia curata dall'incantesimo. Perché questo», disse, «è il grande errore dei nostri giorni nel trattamento del corpo umano, che i medici separino l'anima dal corpo.» E aggiunse con enfasi, facendomi al tempo stesso giurare sulle sue parole: «Non permettere a nessuno, per quanto ricco, o nobile, o bello, di persuaderti a dargli la cura, senza l'incantesimo.» Ora io ho giurato, e devo mantenere il mio giuramento, e perciò se mi permetterai di applicare prima l'incantesimo tracio alla tua anima, come lo straniero prescrisse, procederò poi ad applicare la cura alla tua testa. Ma se no, non so cosa dovrò fare di te, mio caro Carmide.
+
+Crizia, quando udì questo, disse: Il mal di testa sarà un guadagno inaspettato per il mio giovane parente, se il dolore alla testa lo costringe a migliorare la sua mente: e posso dirti, [Socrate](/figures/socrates), che Carmide non è preminente soltanto per [bellezza](/concepts/beauty) tra i suoi pari, ma anche per quella qualità che è data dall'incantesimo; e questa, come tu dici, è la temperanza?
+
+Sì, dissi.
+
+Allora lascia che ti dica che egli è il più temperante degli esseri umani, e per la sua età inferiore a nessuno in alcuna qualità.
+
+Sì, dissi, Carmide; e in verità penso che tu debba eccellere sugli altri in tutte le buone qualità; perché se non m'inganno non c'è nessuno qui presente che potrebbe facilmente indicare due casate ateniesi la cui unione fosse probabile che producesse un rampollo migliore o più nobile delle due dalle quali tu discendi. C'è la casa di tuo padre, che discende da Crizia figlio di Dropide, la cui famiglia è stata commemorata nei versi encomiastici di Anacreonte, Solone e molti altri poeti, come famosa per bellezza e virtù e ogni altra alta fortuna: e la casa di tua madre è ugualmente illustre; perché il tuo zio materno, Pirilampe, si dice non abbia mai trovato il suo pari, in Persia alla corte del gran re, o sul continente d'Asia, in tutti i luoghi dove andò come ambasciatore, per statura e bellezza; tutta quella famiglia non è d'un briciolo inferiore all'altra. Avendo tali antenati tu dovresti essere il primo in ogni cosa, e, dolce figlio di Glaucone, la tua forma esteriore non è di alcun disonore per nessuno di loro. Se alla bellezza aggiungi la temperanza, e se sotto altri riguardi sei ciò che Crizia dichiara che tu sia, allora, caro Carmide, benedetto sei tu, per essere il figlio di tua madre. E qui sta il punto; perché se, come egli dichiara, tu possiedi già questo dono della temperanza, e sei abbastanza temperante, in tal caso non hai bisogno di alcun incantesimo, né di Zalmossi né di Abari l'Iperboreo, e tanto vale che io ti dia subito la cura della testa; ma se non hai ancora acquisito questa qualità, devo usare l'incantesimo prima di darti la medicina. Ti prego, dunque, di informarmi se ammetti la verità di ciò che Crizia è venuto dicendo; — hai o non hai questa qualità della temperanza?
+
+Carmide arrossì, e il rossore accrebbe la sua bellezza, perché il pudore si addice alla giovinezza; poi disse con molta ingenuità che davvero non poteva rispondere all'istante, né sì né no, alla domanda che gli avevo posto: Perché, disse, se affermo di non essere temperante, sarebbe una cosa strana da dire di me stesso, e inoltre smentirei Crizia, e molti altri che pensano, come egli ti dice, che io sia temperante: ma, d'altra parte, se dico di esserlo, dovrò lodare me stesso, il che sarebbe cattiva educazione; e perciò non so come risponderti.
+
+Gli dissi: Questa è una risposta naturale, Carmide, e penso che tu e io dovremmo insieme indagare se tu abbia o no questa qualità intorno alla quale ti interrogo; e allora non sarai costretto a dire ciò che non ti piace; né io sarò un avventato praticante di medicina: perciò, se ti piace, condividerò con te l'indagine, ma non ti forzerò se preferisci di no.
+
+Non c'è nulla che mi piacerebbe di più, disse; e per quanto mi riguarda puoi procedere nel modo che ritieni migliore.
+
+Penso, dissi, che farei meglio a cominciare ponendoti una domanda; perché se la temperanza dimora in te, devi averne un'opinione; essa deve dare qualche indicazione della sua natura e delle sue qualità, che possa metterti in grado di formartene una nozione. Non è vero?
+
+Sì, disse, questo penso sia vero.
+
+Tu conosci la tua lingua natìa, dissi, e perciò devi essere in grado di dire ciò che senti riguardo a questo.
+
+Certamente, disse.
+
+Affinché io possa dunque formarmi una congettura se tu abbia la temperanza che dimora in te o no, dimmi, dissi, cos'è, secondo te, la Temperanza?
+
+Dapprima esitò, ed era assai riluttante a rispondere: poi disse che pensava che la temperanza fosse il fare le cose in modo ordinato e quieto, cose per esempio come camminare per le strade, e parlare, o qualsiasi altra cosa di tal natura. In una parola, disse, risponderei che, secondo me, la temperanza è quiete.
+
+Hai ragione, Carmide? dissi. Senza dubbio alcuni affermerebbero che i quieti sono i temperanti; ma vediamo se queste parole hanno un qualche significato; e prima di tutto dimmi se non riconosceresti che la temperanza appartiene alla classe del nobile e del buono?
+
+Sì, certo.
+
+Ma cos'è meglio, quando sei dal maestro di scrittura, scrivere le stesse lettere rapidamente o quietamente?
+
+Rapidamente.
+
+E leggere rapidamente o lentamente?
+
+Rapidamente di nuovo.
+
+E nel suonare la lira, o nel lottare, la rapidità o l'acume sono di gran lunga migliori della quiete e della lentezza?
+
+Sì, certo.
+
+E lo stesso vale nel pugilato e nel pancrazio?
+
+Certamente.
+
+E nel saltare e nel correre e negli esercizi corporei in generale, la rapidità e l'agilità sono buone; la lentezza, e l'inattività, e la quiete, sono cattive?
+
+Ciò è evidente.
+
+Allora, dissi, in tutte le azioni corporee, non la quiete, ma la più grande agilità e rapidità, è la più nobile e la migliore?
+
+Sì, certamente.
+
+E la temperanza è un bene?
+
+Sì, certo.
+
+Allora, in riferimento al corpo, non la quiete, ma la rapidità sarà il più alto grado di temperanza, se la temperanza è un bene?
+
+Vero, disse.
+
+E quale, dissi, è meglio — la facilità nell'apprendere, o la difficoltà nell'apprendere?
+
+La facilità.
+
+Sì, dissi; e la facilità nell'apprendere è apprendere rapidamente, e la difficoltà nell'apprendere è apprendere quietamente e lentamente?
+
+Vero.
+
+E non è forse meglio insegnare a un altro rapidamente ed energicamente, piuttosto che quietamente e lentamente?
+
+Sì, certo.
+
+E quale è meglio, richiamare alla mente, e ricordare, rapidamente e prontamente, oppure quietamente e lentamente?
+
+La prima cosa.
 
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -334,6 +504,150 @@ Nay (The English reader has to observe that the word ‘make’ (Greek), in Gree
 
 What! I asked; do you mean to say that doing and making are not the same?
 
+<span class="qlang-split" data-lang="it"></span>
+
+E l'acume non è forse una rapidità o prontezza dell'anima, e non una quiete?
+
+Vero.
+
+E non è forse meglio comprendere ciò che viene detto, sia dal maestro di scrittura sia dal maestro di musica, o in qualsiasi altro luogo, non il più quietamente possibile, ma il più rapidamente possibile?
+
+Sì, certo.
+
+E nelle ricerche o deliberazioni dell'anima, non il più quieto, come immagino, e colui che con difficoltà delibera e scopre, è ritenuto degno di lode, ma colui che lo fa con la maggiore facilità e rapidità?
+
+Verissimo, disse.
+
+E in tutto ciò che concerne sia il corpo sia l'anima, la prontezza e l'attività sono chiaramente migliori della lentezza e della quiete?
+
+Chiaramente lo sono.
+
+Allora la temperanza non è quiete, né la vita temperante è quieta, — di certo non secondo questa visione; perché la vita che è temperante si suppone essere quella buona. E delle due cose, una è vera, — o mai, o assai di rado, le azioni quiete nella vita appaiono migliori di quelle rapide ed energiche; oppure, ammesso che delle azioni più nobili ve ne siano tante quiete quante rapide e veementi: ancora, anche se concediamo questo, la temperanza non consisterà nell'agire quietamente più che nell'agire rapidamente ed energicamente, sia nel camminare sia nel parlare sia in qualsiasi altra cosa; né la vita quieta sarà più temperante di quella non quieta, dato che la temperanza è da noi ammessa essere una cosa buona e nobile, e i rapidi sono stati mostrati essere buoni tanto quanto i quieti.
+
+Penso, disse, [Socrate](/figures/socrates), che tu abbia ragione.
+
+Allora ancora una volta, Carmide, dissi, fissa la tua attenzione, e guarda dentro di te; considera l'effetto che la temperanza ha su te stesso, e la natura di ciò che produce tale effetto. Rifletti su tutto questo, e, da giovane coraggioso, dimmi — Cos'è la temperanza?
+
+Dopo un momento di pausa, in cui fece un vero sforzo virile per pensare, disse: La mia opinione è, Socrate, che la temperanza renda un uomo vergognoso o modesto, e che la temperanza sia la stessa cosa della modestia.
+
+Benissimo, dissi; e non ammettevi, poco fa, che la temperanza è nobile?
+
+Sì, certamente, disse.
+
+E i temperanti sono anche buoni?
+
+Sì.
+
+E può essere buono ciò che non rende buoni gli uomini?
+
+Certamente no.
+
+E dedurresti che la temperanza non è solo nobile, ma anche buona?
+
+Questa è la mia opinione.
+
+Ebbene, dissi; ma di certo saresti d'accordo con Omero quando dice:
+
+«La modestia non è buona per un uomo bisognoso»?
+
+Sì, disse; sono d'accordo.
+
+Allora suppongo che la modestia sia e non sia buona?
+
+Chiaramente.
+
+Ma la temperanza, la cui presenza rende gli uomini solo buoni, e non cattivi, è sempre buona?
+
+Ciò mi appare essere come tu dici.
+
+E l'inferenza è che la temperanza non può essere modestia — se la temperanza è un bene, e se la modestia è tanto un male quanto un bene?
+
+Tutto ciò, Socrate, mi appare essere vero; ma vorrei sapere cosa pensi di un'altra definizione della temperanza, che proprio ora ricordo di aver udito da qualcuno, il quale disse: «Che la temperanza è fare i nostri propri affari.» Aveva ragione colui che affermò questo?
+
+Mostro che sei! dissi; questo è ciò che Crizia, o qualche filosofo, ti ha detto.
+
+Qualcun altro, allora, disse Crizia; perché di certo non io.
+
+Ma che importa, disse Carmide, da chi ho udito questo?
+
+Non importa affatto, risposi; perché il punto non è chi ha pronunciato le parole, ma se esse sono vere o no.
+
+In questo hai ragione, Socrate, replicò.
+
+Di certo, dissi; eppure dubito che saremo mai in grado di scoprire la loro verità o falsità; perché sono una specie di enigma.
+
+Cosa te lo fa pensare? disse.
+
+Perché, dissi, colui che le pronunciò mi sembra aver inteso una cosa, e averne detta un'altra. Lo scriba, per esempio, deve forse essere considerato come uno che non fa nulla quando legge o scrive?
+
+Piuttosto penserei che stia facendo qualcosa.
+
+E lo scriba scrive o legge, o insegna a voi ragazzi a scrivere o leggere, soltanto i vostri propri [nomi](/positions/nominalism), oppure scrivevate i nomi dei vostri nemici così come i vostri e quelli dei vostri amici?
+
+Tanto gli uni quanto gli altri.
+
+E vi era qualcosa di intromettente o di intemperante in questo?
+
+Certamente no.
+
+Eppure se leggere e scrivere sono la stessa cosa del fare, stavate facendo ciò che non era il vostro proprio affare?
+
+Ma sono la stessa cosa del fare.
+
+E l'arte del guarire, amico mio, e il costruire, e il tessere, e il fare qualsiasi cosa che sia fatta per arte, — tutte queste rientrano chiaramente sotto la voce del fare?
+
+Certamente.
+
+E pensi che uno Stato sarebbe ben ordinato da una legge che costringesse ogni uomo a tessere e lavare la propria veste, e a fabbricare le proprie scarpe, e la propria fiaschetta e il proprio strigile, e altri strumenti, secondo questo principio che ognuno faccia e compia il proprio, e si astenga da ciò che non è suo?
+
+Penso di no, disse.
+
+Ma, dissi, uno Stato temperante sarà uno Stato ben ordinato.
+
+Naturalmente, replicò.
+
+Allora la temperanza, dissi, non sarà fare i propri affari; non almeno in questo modo, o fare cose di questo genere?
+
+Chiaramente no.
+
+Allora, come dicevo poco fa, colui che dichiarò che la temperanza è un uomo che fa i propri affari aveva un altro e nascosto significato; perché non penso che potesse essere tanto sciocco da intendere questo. Era uno sciocco colui che te lo disse, Carmide?
+
+No, replicò, lo ritenni di certo un uomo assai saggio.
+
+Allora sono del tutto certo che egli presentò la sua definizione come un enigma, pensando che nessuno avrebbe conosciuto il significato delle parole «fare i propri affari».
+
+Oso dirlo, replicò.
+
+E qual è il significato di un uomo che fa i propri affari? Puoi dirmelo?
+
+Davvero, non posso; e non mi meraviglierei se l'uomo stesso che usò questa espressione non comprendesse ciò che stava dicendo. Al che egli rise sornione, e guardò Crizia.
+
+Crizia da tempo mostrava inquietudine, perché sentiva di avere una reputazione da mantenere presso Carmide e il resto della compagnia. Aveva, tuttavia, fin lì saputo trattenersi; ma ora non poteva più contenersi, e sono convinto della verità del sospetto che nutrivo in quel momento, che Carmide avesse udito questa risposta sulla temperanza da Crizia. E Carmide, che non voleva rispondere lui stesso, ma far rispondere Crizia, cercò di stuzzicarlo. Continuò a far notare che era stato confutato, al che Crizia si adirò, e apparve, come pensai, incline a litigare con lui; proprio come un poeta potrebbe litigare con un attore che gli guasta le poesie nel recitarle; così lo fissò intensamente e disse —
+
+Immagini forse, Carmide, che l'autore di questa definizione della temperanza non comprendesse il significato delle proprie parole, perché tu non lo comprendi?
+
+Ebbene, alla sua età, dissi, ottimo Crizia, non ci si può certo aspettare che comprenda; ma tu, che sei più vecchio, e hai studiato, ben si può supporre che ne conosca il significato; e perciò, se sei d'accordo con lui, e accetti la sua definizione della temperanza, preferirei di gran lunga discutere con te che con lui sulla verità o falsità della definizione.
+
+Sono pienamente d'accordo, disse Crizia, e accetto la definizione.
+
+Benissimo, dissi; e ora lascia che ripeta la mia domanda — Ammetti, come dicevo poco fa, che tutti gli artigiani fabbricano o fanno qualcosa?
+
+Lo ammetto.
+
+E fabbricano o fanno soltanto i propri affari, oppure anche quelli altrui?
+
+Fabbricano o fanno anche quelli altrui.
+
+E sono temperanti, dato che fabbricano non per sé o soltanto per i propri affari?
+
+Perché no? disse.
+
+Nessuna obiezione da parte mia, dissi, ma potrebbe esservi una difficoltà per colui che propone come definizione della temperanza «fare i propri affari», e poi dice che non c'è ragione per cui coloro che fanno gli affari altrui non debbano essere temperanti.
+
+No (il lettore inglese deve osservare che la parola «fabbricare» (in greco), in greco, ha anche il senso di «fare» (in greco)), disse egli; ho forse mai riconosciuto che coloro che fanno gli affari altrui sono temperanti? Io dissi coloro che fabbricano, non coloro che fanno.
+
+Come! chiesi; intendi dire che fare e fabbricare non sono la stessa cosa?
+
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 No more, he replied, than making or working are the same; thus much I have learned from Hesiod, who says that ‘work is no disgrace.’ Now do you imagine that if he had meant by working and doing such things as you were describing, he would have said that there was no disgrace in them — for example, in the manufacture of shoes, or in selling pickles, or sitting for hire in a house of ill-fame? That, [Socrates](/figures/socrates), is not to be supposed: but I conceive him to have distinguished making from doing and work; and, while admitting that the making anything might sometimes become a disgrace, when the employment was not honourable, to have thought that work was never any disgrace at all. For things nobly and usefully made he called works; and such makings he called workings, and doings; and he must be supposed to have called such things only man’s proper business, and what is hurtful, not his business: and in that sense Hesiod, and any other wise man, may be reasonably supposed to call him wise who does his own work.
@@ -415,6 +729,88 @@ The art of weighing, again, has to do with lighter and heavier; but the art of w
 Yes.
 
 Now, I want to know, what is that which is not wisdom, and of which wisdom is the science?
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non più, replicò, di quanto fabbricare o lavorare siano la stessa cosa; questo almeno l'ho appreso da Esiodo, il quale dice che «il lavoro non è disonore». Ora, immagini forse che, se egli avesse inteso per lavorare e fare cose tali quali tu descrivevi, avrebbe detto che non vi era disonore in esse — per esempio, nella fabbricazione di scarpe, o nel vendere sottaceti, o nello starsene seduto a pagamento in una casa di malaffare? Ciò, [Socrate](/figures/socrates), non è da supporre: ma io concepisco che egli abbia distinto il fabbricare dal fare e dal lavoro; e, pur ammettendo che il fabbricare qualcosa potesse talvolta diventare un disonore, quando l'occupazione non era onorevole, abbia pensato che il lavoro non fosse mai alcun disonore. Perché le cose nobilmente e utilmente fabbricate egli le chiamava opere; e tali fabbricazioni le chiamava lavori, e azioni; e si deve supporre che abbia chiamato solo tali cose l'affare proprio dell'uomo, e ciò che è dannoso, non suo affare: e in questo senso Esiodo, e ogni altro uomo saggio, può ragionevolmente supporsi chiamasse saggio colui che fa il proprio lavoro.
+
+O Crizia, dissi, non appena hai aperto bocca, seppi abbastanza bene che avresti chiamato buono ciò che è proprio di un uomo, e ciò che è suo; e che le fabbricazioni (in greco) del bene le avresti chiamate azioni (in greco), perché non mi sono estranee le infinite distinzioni che Prodico traccia intorno ai [nomi](/positions/nominalism). Ora io non ho obiezione a che tu dia ai nomi qualsiasi significazione ti piaccia, purché tu mi dica soltanto cosa intendi con essi. Ti prego dunque di ricominciare, e di essere un po' più chiaro. Intendi dire che questo fare o fabbricare, o qualunque sia la parola che vorresti usare, di buone azioni, è la temperanza?
+
+Sì, disse.
+
+Allora non colui che fa il male, ma colui che fa il bene, è temperante?
+
+Sì, disse; e tu, amico, saresti d'accordo.
+
+Non importa se lo sarei o no; per ora, non ciò che penso io, ma ciò che dici tu, è il punto in questione.
+
+Ebbene, rispose; intendo dire che colui che fa il male, e non il bene, non è temperante; e che è temperante colui che fa il bene, e non il male: perché la temperanza io la definisco in parole chiare come il fare buone azioni.
+
+E può ben darsi che tu abbia ragione in ciò che dici; ma sono curioso di sapere se immagini che gli uomini temperanti siano ignari della propria temperanza?
+
+Non penso, disse.
+
+Eppure non dicevi, poco fa, che gli artigiani potrebbero essere temperanti nel fare il lavoro altrui, così come nel fare il proprio?
+
+Lo dicevo, replicò; ma qual è il tuo intento?
+
+Non ho alcun intento particolare, ma vorrei che tu mi dicessi se un medico che cura un paziente possa fare del bene a se stesso e del bene anche a un altro?
+
+Penso che possa.
+
+E colui che fa così compie il proprio dovere?
+
+Sì, certo.
+
+E non compie forse temperantemente o saggiamente il proprio dovere colui che agisce così?
+
+Sì, agisce saggiamente.
+
+Ma il medico deve necessariamente sapere quando il suo trattamento è probabile che si riveli benefico, e quando no? oppure l'artigiano deve necessariamente sapere quando è probabile che egli sia beneficiato, e quando no, dal lavoro che sta facendo?
+
+Suppongo di no.
+
+Allora, dissi, egli può talvolta fare del bene o del male, e non sapere ciò che sta facendo egli stesso, e tuttavia, nel fare il bene, come dici tu, ha agito temperantemente o saggiamente. Non era questa la tua affermazione?
+
+Sì, certo.
+
+Allora, a quanto sembrerebbe, nel fare il bene, egli può agire saggiamente o temperantemente, ed essere saggio o temperante, ma non conoscere la propria saggezza o temperanza?
+
+Ma questo, Socrate, disse, è impossibile; e perciò se questa è, come tu sottintendi, la conseguenza necessaria di una qualsiasi delle mie precedenti ammissioni, le ritratterò, piuttosto che ammettere che un uomo possa essere temperante o saggio senza conoscere se stesso; e non mi vergogno di confessare che ero in errore. Perché la conoscenza di sé io sosterrei di certo essere la vera essenza della conoscenza, e in questo concordo con colui che dedicò l'iscrizione «Conosci te stesso!» a Delfi. Quella parola, se non m'inganno, è posta lì come una sorta di saluto che il dio rivolge a coloro che entrano nel tempio; come a dire che l'ordinario saluto di «Salve!» non è giusto, e che l'esortazione «Sii temperante!» sarebbe un modo assai migliore di salutarsi l'un l'altro. L'idea di colui che dedicò l'iscrizione era, come credo, che il dio parla a coloro che entrano nel suo tempio, non come parlano gli uomini; ma, quando un adoratore entra, la prima parola che ode è «Sii temperante!» Questo, tuttavia, come un profeta egli lo esprime in una sorta di enigma, perché «Conosci te stesso!» e «Sii temperante!» sono la stessa cosa, come io sostengo, e come le lettere implicano (in greco), eppure possono essere facilmente fraintese; e i sapienti successivi che aggiunsero «Nulla di troppo», o «Dà un pegno, e il male è a portata di mano», sembrerebbero averle così fraintese; perché immaginarono che «Conosci te stesso!» fosse un consiglio che il dio dava, e non il suo saluto agli adoratori al loro primo ingresso; e dedicarono la propria iscrizione nella convinzione che anch'essi avrebbero dato consigli ugualmente utili. Devo dirti, Socrate, perché dico tutto questo? Il mio scopo è di lasciare la precedente discussione (nella quale non so se tu o io abbiamo più ragione, ma, in ogni caso, non fu raggiunto alcun risultato chiaro), e di sollevarne una nuova nella quale tenterò di dimostrare, se tu lo neghi, che la temperanza è conoscenza di sé.
+
+Sì, dissi, Crizia; ma tu vieni da me come se io professassi di sapere intorno alle questioni che pongo, e come se io potessi, se solo volessi, essere d'accordo con te. Mentre il fatto è che io indago con te la verità di ciò che di volta in volta viene avanzato, proprio perché non so; e quando avrò indagato, dirò se sono d'accordo con te o no. Ti prego dunque di concedermi tempo per riflettere.
+
+Rifletti, disse.
+
+Sto riflettendo, replicai, e scopro che la temperanza, o saggezza, se implica una conoscenza di qualcosa, dev'essere una scienza, e una scienza di qualcosa.
+
+Sì, disse; la scienza di se stessa.
+
+La medicina non è forse, dissi, la scienza della salute?
+
+Vero.
+
+E supponi, dissi, che tu mi chiedessi qual è l'uso o l'effetto della medicina, che è questa scienza della salute; risponderei che la medicina è di grandissimo uso nel produrre la salute, che, come ammetterai, è un effetto eccellente.
+
+Concesso.
+
+E se tu mi chiedessi qual è il risultato o l'effetto dell'architettura, che è la scienza del costruire, direi le case, e così delle altre arti, che hanno tutte i loro differenti risultati. Ora voglio che tu, Crizia, risponda a una domanda simile riguardo alla temperanza, o saggezza, che, secondo te, è la scienza di se stessa. Ammettendo questa visione, ti chiedo, quale opera buona, degna del nome di saggia, produce la temperanza o saggezza, che è la scienza di se stessa? Rispondimi.
+
+Non è quello il vero modo di condurre l'indagine, Socrate, disse; perché la saggezza non è come le altre scienze, non più di quanto esse siano simili l'una all'altra: ma tu procedi come se lo fossero. Perché dimmi, disse, quale risultato vi è del calcolo o della geometria, nello stesso senso in cui una casa è il risultato del costruire, o una veste del tessere, o qualsiasi altra opera di qualsiasi altra arte? Puoi mostrarmi un qualche tale risultato di esse? Non puoi.
+
+Questo è vero, dissi; ma pure ciascuna di queste scienze ha un oggetto che è differente dalla scienza. Posso mostrarti che l'arte del calcolo ha a che fare con i numeri dispari e pari nelle loro relazioni numeriche con se stessi e tra loro. Non è vero?
+
+Sì, disse.
+
+E i numeri dispari e pari non sono la stessa cosa dell'arte del calcolo?
+
+Non lo sono.
+
+L'arte del pesare, di nuovo, ha a che fare con il più leggero e il più pesante; ma l'arte del pesare è una cosa, e il pesante e il leggero un'altra. Lo ammetti?
+
+Sì, certo.
+
+Ora, voglio sapere, cos'è ciò che non è saggezza, e di cui la saggezza è la scienza?
 
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -532,6 +928,122 @@ Do you remark, Critias, that in several of the examples which have been recited 
 
 Very true.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Stai proprio ricadendo nel vecchio errore, [Socrate](/figures/socrates), disse. Vieni chiedendo in che cosa la saggezza o temperanza differisca dalle altre scienze, e poi cerchi di scoprire qualche rispetto in cui esse siano simili; ma non lo sono, perché tutte le altre scienze sono di qualcos'altro, e non di se stesse; la saggezza sola è una scienza delle altre scienze, e di se stessa. E di ciò, come credo, tu sei benissimo consapevole: e che tu stai solo facendo ciò che poco fa negavi di fare, cercando di confutarmi, invece di perseguire l'argomentazione.
+
+E se anche fosse? Come puoi pensare che io abbia un altro movente nel confutarti se non quello che avrei nell'esaminare me stesso? il qual movente sarebbe appunto una paura di immaginare inconsapevolmente di sapere qualcosa di cui ero ignaro. E in questo momento perseguo l'argomentazione principalmente per il mio proprio bene, e forse in qualche misura anche per il bene dei miei altri amici. Perché la scoperta delle cose come esse veramente sono non è forse un bene comune a tutta l'umanità?
+
+Sì, certamente, Socrate, disse.
+
+Allora, dissi, sii di buon animo, dolce signore, e dà la tua opinione in risposta alla domanda che ho posto, senza curarti se sia Crizia o Socrate la persona confutata; bada solo all'argomentazione, e vedi cosa verrà fuori dalla confutazione.
+
+Penso che tu abbia ragione, replicò; e farò come dici.
+
+Dimmi, dunque, dissi, cosa intendi affermare riguardo alla saggezza.
+
+Intendo dire che la saggezza è la sola scienza che sia scienza di se stessa così come delle altre scienze.
+
+Ma la scienza della scienza, dissi, sarà anche la scienza dell'assenza di scienza.
+
+Verissimo, disse.
+
+Allora l'uomo saggio o temperante, e lui solo, conoscerà se stesso, e sarà in grado di esaminare ciò che sa o non sa, e di vedere ciò che gli altri sanno e pensano di sapere e realmente sanno; e ciò che non sanno, e s'immaginano di sapere, quando non lo sanno. Nessun'altra persona sarà in grado di far questo. E questa è saggezza e temperanza e conoscenza di sé — che un uomo sappia ciò che sa, e ciò che non sa. È questo il tuo significato?
+
+Sì, disse.
+
+Ora dunque, dissi, facendo offerta del terzo o ultimo argomento a Zeus Salvatore, ricominciamo, e chiediamoci, in primo luogo, se sia o non sia possibile per una persona sapere che sa e non sa ciò che sa e non sa; e in secondo luogo, se, ammesso che sia perfettamente possibile, tale conoscenza sia di qualche utilità.
+
+Questo è ciò che dobbiamo considerare, disse.
+
+E qui, Crizia, dissi, spero che tu troverai una via d'uscita da una difficoltà in cui mi sono cacciato. Devo dirti la natura della difficoltà?
+
+Con ogni mezzo, replicò.
+
+Ciò che sei venuto dicendo, se è vero, non si riduce forse a questo: che deve esservi una singola scienza che è interamente scienza di se stessa e delle altre scienze, e che la medesima è anche la scienza dell'assenza di scienza?
+
+Sì, certo.
+
+Ma considera quanto mostruosa sia questa proposizione, amico mio: in qualsiasi caso parallelo, l'impossibilità ti sarà trasparente.
+
+Come mai? e in quali casi intendi?
+
+In casi come questo: Supponi che vi sia una specie di vista che non è come la vista ordinaria, ma una vista di se stessa e delle altre specie di vista, e del difetto di esse, la quale nel vedere non vede alcun colore, ma solo se stessa e le altre specie di vista: Pensi che vi sia una tale specie di vista?
+
+Certamente no.
+
+Oppure vi è una specie di udito che non ode alcun suono, ma solo se stesso e le altre specie di udito, o i difetti di esse?
+
+Non v'è.
+
+Oppure prendi tutti i sensi: puoi immaginare che vi sia un qualche senso di se stesso e degli altri sensi, ma che sia incapace di percepire gli oggetti dei sensi?
+
+Penso di no.
+
+Potrebbe esservi un qualche desiderio che non è il desiderio di alcun piacere, ma di se stesso, e di tutti gli altri desideri?
+
+Certamente no.
+
+Oppure puoi immaginare una volontà che non vuole alcun bene, ma solo se stessa e tutte le altre volontà?
+
+Risponderei di no.
+
+Oppure diresti che vi è un amore che non è l'amore della [bellezza](/concepts/beauty), ma di se stesso e degli altri amori?
+
+Non lo direi.
+
+Oppure hai mai conosciuto una paura che teme se stessa o le altre paure, ma non ha alcun oggetto di paura?
+
+Non l'ho mai conosciuta, disse.
+
+Oppure un'opinione che è un'opinione di se stessa e delle altre opinioni, e che non ha alcuna opinione sui soggetti dell'opinione in generale?
+
+Certamente no.
+
+Ma di certo noi stiamo supponendo una scienza di questo genere, la quale, non avendo alcuna materia, è una scienza di se stessa e delle altre scienze?
+
+Sì, è questo che si afferma.
+
+Ma quanto è strano questo, se è davvero vero: non dobbiamo tuttavia per ora negare in modo assoluto la possibilità di una tale scienza; consideriamo piuttosto la questione.
+
+Hai pienamente ragione.
+
+Ebbene allora, questa scienza di cui stiamo parlando è una scienza di qualcosa, ed è di natura tale da essere una scienza di qualcosa?
+
+Sì, certo.
+
+Proprio come ciò che è più grande è di natura tale da essere più grande di qualcos'altro? (Socrate intende mostrare che la scienza differisce dall'oggetto della scienza, come ogni altro relativo differisce dall'oggetto della relazione. Ma dove c'è comparazione — più grande, minore, più pesante, più leggero, e simili — una relazione con se stesso così come con altre cose implica una contraddizione assoluta; e in altri casi, come nel caso dei sensi, è appena concepibile. L'uso del genitivo dopo il comparativo in greco, (in greco), crea un'inevitabile oscurità nella traduzione.)
+
+Sì, certo.
+
+Che è minore, se l'altro è concepito come più grande?
+
+Certamente.
+
+E se potessimo trovare qualcosa che è al tempo stesso più grande di se stesso, e più grande delle altre cose grandi, ma non più grande di quelle cose in comparazione delle quali le altre sono più grandi, allora quella cosa avrebbe la proprietà di essere più grande e anche minore di se stessa?
+
+Questa, Socrate, disse, è l'inevitabile inferenza.
+
+Oppure se vi fosse un doppio che è doppio di se stesso e di altri doppi, questi saranno metà; perché il doppio è relativo alla metà?
+
+Ciò è vero.
+
+E ciò che è più grande di se stesso sarà anche minore, e ciò che è più pesante sarà anche più leggero, e ciò che è più vecchio sarà anche più giovane: e lo stesso delle altre cose; ciò che ha una natura relativa a sé conserverà anche la natura del suo oggetto: intendo dire, per esempio, che l'udito è, come diciamo, di suono o voce. È vero?
+
+Sì, certo.
+
+Allora se l'udito ode se stesso, deve udire una voce; perché non c'è altro modo di udire.
+
+Certamente.
+
+E anche la vista, mio eccellente amico, se vede se stessa deve vedere un colore, perché la vista non può vedere ciò che non ha colore.
+
+No.
+
+Osservi, Crizia, che in parecchi degli esempi che sono stati recitati la nozione di una relazione con se stesso è del tutto inammissibile, e in altri casi appena credibile — inammissibile, per esempio, nel caso delle grandezze, dei numeri, e simili?
+
+Verissimo.
+
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 But in the case of hearing and sight, or in the power of self-motion, and the power of heat to burn, this relation to self will be regarded as incredible by some, but perhaps not by others. And some great man, my friend, is wanted, who will satisfactorily determine for us, whether there is nothing which has an inherent property of relation to self, or some things only and not others; and whether in this class of self-related things, if there be such a class, that science which is called wisdom or temperance is included. I altogether distrust my own power of determining these matters: I am not certain whether there is such a science of science at all; and even if there be, I should not acknowledge this to be wisdom or temperance, until I can also see whether such a science would or would not do us any good; for I have an impression that temperance is a benefit and a good. And therefore, O son of Callaeschrus, as you maintain that temperance or wisdom is a science of science, and also of the absence of science, I will request you to show in the first place, as I was saying before, the possibility, and in the second place, the advantage, of such a science; and then perhaps you may satisfy me that you are right in your view of temperance.
@@ -628,6 +1140,102 @@ Then, assuredly, wisdom or temperance, if only a science of science, and of the 
 
 That is evident, he said.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma nel caso dell'udito e della vista, o nel potere di muoversi da sé, e nel potere del calore di bruciare, questa relazione a sé sarà giudicata incredibile da alcuni, ma forse non da altri. E occorre, amico mio, qualche grande uomo che possa stabilire in modo soddisfacente per noi se non vi sia nulla che abbia in sé la proprietà di riferirsi a se stesso, oppure se solo alcune cose e non altre; e se in questa classe di cose che si riferiscono a sé, ammesso che una tale classe esista, sia compresa quella scienza che chiamiamo saggezza o temperanza. Diffido del tutto della mia capacità di risolvere queste questioni: non sono certo che esista affatto una simile scienza della scienza; e anche se esistesse, non ammetterei che essa sia saggezza o temperanza finché non potrò vedere anche se una tale scienza ci rechi o no qualche giovamento; poiché ho l'impressione che la temperanza sia un beneficio e un bene. E perciò, o figlio di Callescro, dal momento che tu sostieni che la temperanza o saggezza è una scienza della scienza, e altresì dell'assenza di scienza, ti chiederò di mostrarmi anzitutto, come dicevo poco fa, la possibilità, e in secondo luogo il vantaggio di una tale scienza; e allora forse potrai convincermi che hai ragione nella tua concezione della temperanza.
+
+Crizia mi udì dire questo e si accorse che ero in difficoltà; e come una persona, quando un'altra sbadiglia in sua presenza, ne coglie il contagio e sbadiglia a sua volta, così egli parve spinto in difficoltà dalla mia difficoltà. Ma poiché aveva una reputazione da difendere, si vergognava di ammettere davanti alla compagnia di non saper rispondere alla mia sfida o di non saper risolvere la questione in gioco; e fece un tentativo confuso di nascondere il suo imbarazzo. Affinché l'argomento potesse procedere, gli dissi: Ebbene, Crizia, se ti va, ammettiamo che esista questa scienza della scienza; se l'ipotesi sia giusta o sbagliata potremo indagarlo in seguito. Ammessane l'esistenza, mi dirai come una tale scienza ci metta in grado di distinguere ciò che sappiamo o non sappiamo, il che, come dicevamo, è la conoscenza di sé o saggezza: non è così che dicevamo?
+
+Sì, [Socrate](/figures/socrates), disse; e questo credo che sia certamente vero: poiché chi possiede questa scienza o conoscenza che conosce se stessa diverrà simile alla conoscenza che possiede, allo stesso modo in cui chi possiede la rapidità sarà rapido, chi possiede la [bellezza](/concepts/beauty) sarà bello, e chi possiede la conoscenza conoscerà. Nello stesso modo, chi possiede quella conoscenza che conosce se stessa conoscerà se stesso.
+
+Non dubito, dissi, che un uomo conoscerà se stesso, quando possieda ciò che ha la conoscenza di sé: ma quale necessità c'è che, avendo questo, egli conosca ciò che sa e ciò che non sa?
+
+Perché, Socrate, sono la stessa cosa.
+
+Può ben darsi, dissi; ma io resto stupido come prima; poiché non riesco ancora a comprendere come questo sapere ciò che sai e non sai sia la stessa cosa della conoscenza di sé.
+
+Che cosa intendi? disse.
+
+Intendo questo, risposi: ammetterò che esista una scienza della scienza; — può essa fare di più che stabilire che, di due cose, una è e l'altra non è scienza o conoscenza?
+
+No, soltanto questo.
+
+Ma la conoscenza o l'ignoranza della salute è la stessa cosa della conoscenza o dell'ignoranza della giustizia?
+
+Certamente no.
+
+L'una è la medicina, l'altra è la politica; mentre quella di cui stiamo parlando è conoscenza pura e semplice.
+
+Verissimo.
+
+E se un uomo soltanto sa, e possiede soltanto la conoscenza della conoscenza, e non ha alcuna ulteriore conoscenza della salute e della giustizia, è probabile che sappia soltanto di sapere qualcosa e di avere una certa conoscenza, sia riguardo a se stesso sia riguardo ad altri uomini.
+
+Vero.
+
+E allora come potrà questa conoscenza o scienza insegnargli a sapere ciò che sa? Poniamo che egli conosca la salute; — non è la saggezza o la temperanza, ma l'arte della medicina che gliel'ha insegnata; — e ha imparato l'armonia dall'arte della musica, e l'edificare dall'arte del costruire, — né l'una né l'altra dalla saggezza o dalla temperanza: e lo stesso vale per le altre cose.
+
+È evidente.
+
+Come potrà la saggezza, considerata soltanto come conoscenza della conoscenza o scienza della scienza, insegnargli mai che egli conosce la salute, o che conosce l'arte del costruire?
+
+È impossibile.
+
+Allora chi ignora queste cose saprà soltanto di sapere, ma non che cosa sa?
+
+Vero.
+
+Allora la saggezza, o l'essere saggio, sembra essere non la conoscenza delle cose che sappiamo o non sappiamo, ma soltanto la conoscenza del fatto che sappiamo o non sappiamo?
+
+Questa è l'inferenza.
+
+Allora chi possiede questa conoscenza non sarà in grado di esaminare se un millantatore conosca o non conosca ciò che dice di conoscere: saprà soltanto che egli ha una conoscenza di qualche sorta; ma la saggezza non gli mostrerà di che cosa sia quella conoscenza?
+
+Chiaramente no.
+
+Né sarà in grado di distinguere il millantatore in medicina dal vero medico, né tra qualsiasi altro vero e falso professore di conoscenza. Consideriamo la cosa in questo modo: se l'uomo saggio, o un altro qualsiasi, vuole distinguere il vero medico dal falso, come procederà? Non gli parlerà di medicina; e quella, come dicevamo, è l'unica cosa che il medico comprende.
+
+Vero.
+
+E, d'altra parte, il medico non sa nulla di scienza, poiché si è assunto che questo sia il dominio della saggezza.
+
+Vero.
+
+E inoltre, poiché la medicina è scienza, dobbiamo inferire che egli non sappia nulla di medicina.
+
+Esattamente.
+
+Allora l'uomo saggio può bensì sapere che il medico possiede una qualche sorta di scienza o conoscenza; ma quando vorrà scoprirne la natura, chiederà: Qual è la sua materia? Poiché le diverse scienze si distinguono non per il mero fatto di essere scienze, ma per la natura dei loro oggetti. Non è vero questo?
+
+Verissimo.
+
+E la medicina si distingue dalle altre scienze per avere come materia la salute e la malattia?
+
+Sì, certo.
+
+E chi volesse indagare la natura della medicina dovrà spingere l'indagine sulla salute e sulla malattia, e non su ciò che le è estraneo?
+
+Vero.
+
+E chi giudica rettamente giudicherà del medico in quanto medico in ciò che riguarda queste cose?
+
+Lo farà.
+
+Considererà se ciò che egli dice è vero, e se ciò che fa è giusto, in relazione alla salute e alla malattia?
+
+Lo farà.
+
+Ma può qualcuno raggiungere la conoscenza dell'uno o dell'altra senza avere la conoscenza della medicina?
+
+Non può.
+
+Nessuno, a quanto pare, tranne il medico può avere questa conoscenza; e dunque neppure l'uomo saggio; egli dovrebbe essere medico oltre che saggio.
+
+Verissimo.
+
+Allora, di certo, la saggezza o temperanza, se è soltanto una scienza della scienza e dell'assenza di scienza o conoscenza, non sarà in grado di distinguere il medico che sa da uno che non sa ma finge o crede di sapere, o qualsiasi altro professore di qualunque cosa; come ogni altro artefice, egli conoscerà soltanto il suo pari nell'arte o nella saggezza, e nessun altro.
+
+È evidente, disse.
+
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 But then what profit, Critias, I said, is there any longer in wisdom or temperance which yet remains, if this is wisdom? If, indeed, as we were supposing at first, the wise man had been able to distinguish what he knew and did not know, and that he knew the one and did not know the other, and to recognize a similar faculty of discernment in others, there would certainly have been a great advantage in being wise; for then we should never have made a mistake, but have passed through life the unerring guides of ourselves and of those who are under us; and we should not have attempted to do what we did not know, but we should have found out those who knew, and have handed the business over to them and trusted in them; nor should we have allowed those who were under us to do anything which they were not likely to do well; and they would be likely to do well just that of which they had knowledge; and the house or state which was ordered or administered under the guidance of wisdom, and everything else of which wisdom was the lord, would have been well ordered; for truth guiding, and error having been eliminated, in all their doings, men would have done well, and would have been happy. Was not this, Critias, what we spoke of as the great advantage of wisdom — to know what is known and what is unknown to us?
@@ -718,6 +1326,96 @@ But that science is not wisdom or temperance, but a science of human advantage; 
 
 And why, he replied, will not wisdom be of use? For, however much we assume that wisdom is a science of sciences, and has a sway over other sciences, surely she will have this particular science of the good under her control, and in this way will benefit us.
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma allora, Crizia, dissi, quale profitto resta ancora nella saggezza o temperanza, se questa è la saggezza? Se davvero, come supponevamo dapprima, l'uomo saggio fosse stato in grado di distinguere ciò che sapeva e ciò che non sapeva, e di sapere l'una cosa e di ignorare l'altra, e di riconoscere una simile facoltà di discernimento negli altri, vi sarebbe stato certamente un grande vantaggio nell'essere saggi; poiché allora non avremmo mai commesso errori, ma saremmo passati attraverso la vita come guide infallibili di noi stessi e di coloro che sono sottoposti a noi; e non avremmo tentato di fare ciò che non sapevamo, ma avremmo cercato coloro che sapevano, e avremmo affidato loro l'incarico riponendo in essi la nostra fiducia; né avremmo permesso a coloro che erano sottoposti a noi di fare alcunché che non fossero in grado di fare bene; ed essi sarebbero stati in grado di fare bene proprio ciò di cui avevano conoscenza; e la casa o lo Stato ordinato o amministrato sotto la guida della saggezza, e ogni altra cosa di cui la saggezza fosse signora, sarebbe stato ben ordinato; poiché, con la verità a guidare e l'errore eliminato in tutte le loro azioni, gli uomini avrebbero agito bene e sarebbero stati felici. Non era questo, Crizia, ciò di cui parlavamo come del grande vantaggio della saggezza — conoscere ciò che ci è noto e ciò che ci è ignoto?
+
+Verissimo, disse.
+
+E ora tu vedi, dissi, che una tale scienza non si trova in alcun luogo.
+
+Lo vedo, disse.
+
+Possiamo dunque ammettere, dissi, che la saggezza, considerata sotto questa nuova luce come mera conoscenza della conoscenza e dell'ignoranza, abbia questo vantaggio: — che chi possiede una tale conoscenza imparerà più facilmente qualsiasi cosa impari; e che ogni cosa gli sarà più chiara, perché, oltre alla conoscenza dei singoli oggetti, egli vede la scienza, e questo altresì lo metterà meglio in grado di saggiare la conoscenza che altri hanno di ciò che egli stesso conosce; mentre chi indaga privo di questa conoscenza si può supporre che abbia una visione più debole e fiacca? Non sono questi, amico mio, i veri vantaggi che si possono trarre dalla saggezza? E non stiamo forse cercando e ricercando qualcosa di più di quanto si possa trovare in essa?
+
+Molto probabile, disse.
+
+Molto probabile, dissi; e molto probabilmente, altresì, abbiamo indagato invano; come sono indotto a inferire, poiché osservo che, se questa è la saggezza, ne seguirebbero alcune strane conseguenze. Ammettiamo, se ti va, la possibilità di questa scienza delle scienze, e concediamo e ammettiamo inoltre, come era stato originariamente suggerito, che la saggezza sia la conoscenza di ciò che sappiamo e non sappiamo. Ammesso tutto questo, tuttavia, a un ulteriore esame, dubito, Crizia, se una saggezza così fatta ci recherebbe molto giovamento. Poiché avevamo torto, credo, nel supporre, come dicevamo poco fa, che una tale saggezza, ordinando il governo della casa o dello Stato, sarebbe un grande beneficio.
+
+Come mai? disse.
+
+Ebbene, dissi, eravamo fin troppo pronti ad ammettere i grandi benefici che l'umanità ricaverebbe dal fatto che ciascuno facesse le cose che sa, e affidasse le cose che ignora a coloro che ne sono meglio informati.
+
+Non avevamo forse ragione a fare quell'ammissione?
+
+Credo di no.
+
+Che stranezza, [Socrate](/figures/socrates)!
+
+Per il cane d'Egitto, dissi, qui concordo con te; e proprio a questo pensavo poco fa, quando dissi che ne sarebbero seguite strane conseguenze, e che temevo fossimo sulla strada sbagliata; poiché, per quanto pronti possiamo essere ad ammettere che questa è la saggezza, non riesco proprio a capire quale bene ci rechi una cosa siffatta.
+
+Che cosa intendi? disse; vorrei che tu potessi farmi comprendere ciò che intendi.
+
+Oso dire che ciò che sto dicendo è insensato, risposi; eppure, se un uomo ha un qualche riguardo per ciò che deve a se stesso, non può lasciare che il pensiero che gli affiora alla mente svanisca inascoltato e inesaminato.
+
+Questo mi piace, disse.
+
+Ascolta dunque, dissi, il mio sogno; se venga attraverso la porta di corno o quella d'avorio, non saprei dire. Il sogno è questo: supponiamo che la saggezza sia tale quale ora la stiamo definendo, e che essa abbia dominio assoluto su di noi; allora ogni azione sarà compiuta secondo le arti o le scienze, e nessuno che si professi pilota senza esserlo, o alcun medico o generale, o chiunque altro finga di conoscere cose che ignora, ci ingannerà o ci sfuggirà; la nostra salute migliorerà; la nostra sicurezza in mare, e altresì in battaglia, sarà assicurata; le nostre vesti e i nostri calzari, e tutti gli altri strumenti e utensili saranno fatti a regola d'arte, perché gli artigiani saranno buoni e sinceri. Anzi, se ti va, puoi supporre che la profezia, che è la conoscenza del futuro, sarà sotto il controllo della saggezza, e che essa terrà lontani gli ingannatori e insedierà al loro posto i veri profeti come rivelatori del futuro. Ora, ammetto senz'altro che l'umanità, così provveduta, vivrebbe e agirebbe secondo conoscenza, poiché la saggezza vigilerebbe e impedirebbe all'ignoranza di intrudersi in noi. Ma se, agendo secondo conoscenza, agiremo bene e saremo felici, mio caro Crizia, — questo è un punto che non siamo ancora stati in grado di stabilire.
+
+Eppure credo, replicò, che, se scarti la conoscenza, difficilmente troverai la corona della felicità in qualcos'altro.
+
+Ma di che cosa è questa conoscenza? dissi. Rispondimi soltanto a questa piccola domanda. Intendi una conoscenza del fare scarpe?
+
+Dio non voglia.
+
+O del lavorare il bronzo?
+
+Certamente no.
+
+O la lana, o il legno, o qualcosa del genere?
+
+No, non lo intendo.
+
+Allora, dissi, stiamo abbandonando la dottrina secondo cui chi vive secondo conoscenza è felice, poiché costoro vivono secondo conoscenza, eppure tu non permetti loro di essere felici; ma credo che tu voglia circoscrivere la felicità a certi particolari individui che vivono secondo conoscenza, come per esempio il profeta, il quale, come dicevo, conosce il futuro. È di lui che parli, o di qualcun altro?
+
+Sì, intendo lui, ma ce ne sono anche altri.
+
+Sì, dissi, qualcuno che conosce il passato e il presente non meno del futuro, e non ignora nulla. Supponiamo che vi sia una tale persona, e se c'è, ammetterai che egli è il più sapiente di tutti gli uomini viventi.
+
+Certamente lo è.
+
+Eppure vorrei sapere ancora una cosa: quale dei diversi generi di conoscenza lo rende felice? oppure tutti egualmente lo rendono felice?
+
+Non tutti egualmente, replicò.
+
+Ma quale più di tutti tende a renderlo felice? la conoscenza di quale cosa passata, presente o futura? Posso inferire che sia la conoscenza del gioco della dama?
+
+Sciocchezze, il gioco della dama.
+
+O del calcolo?
+
+No.
+
+O della salute?
+
+Questo è più vicino al vero, disse.
+
+E quella conoscenza che è la più vicina di tutte, dissi, è la conoscenza di che cosa?
+
+La conoscenza con cui egli discerne il bene e il male.
+
+Mostro! dissi; mi hai fatto girare in tondo, e per tutto questo tempo mi hai nascosto il fatto che la vita secondo conoscenza non è quella che fa agire rettamente gli uomini e li rende felici, neppure se la conoscenza includesse tutte le scienze, ma una scienza soltanto, quella del bene e del male. Poiché, lascia che ti chieda, Crizia, se, togliendo questa, la medicina non darà ugualmente la salute, e il mestiere del calzolaio non produrrà ugualmente le scarpe, e l'arte del tessitore le vesti? — se l'arte del pilota non salverà ugualmente le nostre vite in mare, e l'arte del generale in guerra?
+
+Proprio così.
+
+Eppure, mio caro Crizia, nessuna di queste cose sarà fatta bene o vantaggiosamente, se manca la scienza del bene.
+
+Vero.
+
+Ma quella scienza non è la saggezza o la temperanza, bensì una scienza del vantaggio umano; non una scienza delle altre scienze, o dell'ignoranza, ma del bene e del male: e se questa è utile, allora la saggezza o la temperanza non sarà utile.
+
+E perché, replicò, la saggezza non sarà utile? Poiché, per quanto ammettiamo che la saggezza sia una scienza delle scienze e abbia dominio sulle altre scienze, sicuramente essa avrà sotto il proprio controllo questa particolare scienza del bene, e in questo modo ci gioverà.
+
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And will wisdom give health? I said; is not this rather the effect of medicine? Or does wisdom do the work of any of the other arts, — do they not each of them do their own work? Have we not long ago asseverated that wisdom is only the knowledge of knowledge and of ignorance, and of nothing else?
@@ -765,3 +1463,51 @@ But the time for consideration has passed, I said, when violence is employed; an
 Do not you resist me then, he said.
 
 I will not resist you, I replied.
+
+<span class="qlang-split" data-lang="it"></span>
+
+E la saggezza darà la salute? dissi; non è piuttosto questo l'effetto della medicina? O forse la saggezza compie l'opera di qualcuna delle altre arti, — non compie forse ciascuna di esse la propria opera? Non abbiamo forse già da tempo asserito che la saggezza è soltanto la conoscenza della conoscenza e dell'ignoranza, e di nient'altro?
+
+Questo è ovvio.
+
+Allora la saggezza non sarà la produttrice della salute.
+
+Certamente no.
+
+L'arte della salute è un'altra cosa.
+
+Sì, un'altra cosa.
+
+Né la saggezza dà vantaggio, mio buon amico; poiché anche questo lo abbiamo poco fa attribuito a un'altra arte.
+
+Verissimo.
+
+Come può dunque la saggezza essere vantaggiosa, se non dà alcun vantaggio?
+
+Questo, [Socrate](/figures/socrates), è certamente inconcepibile.
+
+Vedi dunque, Crizia, che non avevo tutti i torti nel temere di non poter avere alcuna nozione salda sulla saggezza; avevo pienamente ragione nel sminuire me stesso; poiché ciò che è ammesso essere la migliore di tutte le cose non ci sarebbe mai apparso inutile, se io fossi stato buono a qualcosa in un'indagine. Ma ora sono stato del tutto sconfitto, e non sono riuscito a scoprire che cosa sia ciò a cui colui che impose i [nomi](/positions/nominalism) diede questo nome di temperanza o saggezza. Eppure molte più concessioni furono fatte da noi di quante potessero essere lealmente accordate; poiché ammettemmo che vi fosse una scienza della scienza, benché l'argomento dicesse di No e protestasse contro di noi; e ammettemmo inoltre che questa scienza conoscesse le opere delle altre scienze (benché anche questo fosse negato dall'argomento), perché volevamo mostrare che l'uomo saggio avesse conoscenza di ciò che sapeva e non sapeva; e per giunta nobilmente trascurammo, e non prendemmo mai neppure in considerazione, l'impossibilità che un uomo conosca in un certo modo ciò che affatto non conosce; poiché la nostra assunzione era che egli conosca ciò che non conosce; della qual cosa nulla, io credo, può essere più irrazionale. Eppure, dopo averci trovati così accomodanti e di buona indole, l'indagine è ancora incapace di scoprire la verità; ma si prende gioco di noi a tal punto, ed è andata fuori dalla sua strada per provare l'inutilità di ciò che noi avevamo ammesso soltanto per una sorta di supposizione e finzione essere la vera definizione della temperanza o saggezza: risultato che, per quanto mi riguarda, non è tanto da lamentare, dissi. Ma per amor tuo, Carmide, ne sono molto dispiaciuto — che tu, avendo tale [bellezza](/concepts/beauty) e tale saggezza e temperanza d'animo, non debba trarre alcun profitto o bene nella vita dalla tua saggezza e temperanza. E ancor più mi affliggo per l'incantesimo che ho appreso con tanta pena, e con così scarso profitto, dal Trace, per amore di una cosa che nulla vale. Credo invero che vi sia un errore, e che io debba essere un cattivo indagatore, poiché ritengo che la saggezza o la temperanza sia davvero un grande bene; e felice sei tu, Carmide, se certamente la possiedi. Perciò esaminati, e vedi se hai questo dono e puoi fare a meno dell'incantesimo; poiché, se puoi, ti consiglierei piuttosto di considerarmi semplicemente uno sciocco che non è mai in grado di ragionare su alcunché; e di star sicuro che quanto più saggio e temperante sarai, tanto più felice sarai.
+
+Carmide disse: Sono certo di non sapere, Socrate, se io abbia o non abbia questo dono di saggezza e temperanza; poiché come posso sapere se possiedo una cosa di cui perfino tu e Crizia siete, come dite, incapaci di scoprire la natura? — (non che io vi creda). E inoltre, sono certo, Socrate, di aver bisogno dell'incantesimo, e, per quanto mi riguarda, sarò disposto a farmi incantare da te ogni giorno, finché non dirai che ne ho avuto abbastanza.
+
+Benissimo, Carmide, disse Crizia; se farai questo, avrò una prova della tua temperanza, cioè se ti lascerai incantare da Socrate, e non lo abbandonerai mai.
+
+Puoi contare sul fatto che lo seguirò e non lo abbandonerò, disse Carmide: se tu, che sei il mio tutore, me lo comandi, avrei ben torto a non obbedirti.
+
+E io te lo comando, disse.
+
+Allora farò come dici, e comincerò questo stesso giorno.
+
+Voi due, dissi, che cosa state cospirando?
+
+Non stiamo cospirando, disse Carmide, abbiamo già cospirato.
+
+E state per usare violenza, senza neppure passare per le forme della giustizia?
+
+Sì, userò violenza, replicò, poiché egli me lo ordina; e perciò faresti meglio a rifletterci bene.
+
+Ma il tempo per riflettere è passato, dissi, quando si impiega la violenza; e tu, quando sei deciso su qualcosa, e nell'umore della violenza, sei irresistibile.
+
+Allora non oppormi resistenza, disse.
+
+Non ti opporrò resistenza, risposi.

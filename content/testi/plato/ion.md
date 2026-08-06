@@ -156,6 +156,142 @@ ION: No indeed; no more than the other.
 
 SOCRATES: And if I am not mistaken, you never met with any one among flute-players or harp-players or singers to the harp or rhapsodes who was able to discourse of Olympus or Thamyras or Orpheus, or Phemius the rhapsode of Ithaca, but was at a loss when he came to speak of Ion of Ephesus, and had no notion of his merits or defects?
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONE DEL DIALOGO:
+
+[Socrate](/figures/socrates), Ione.
+
+SOCRATE: Benvenuto, Ione. Vieni dalla tua città natale di Efeso?
+
+IONE: No, Socrate; ma da Epidauro, dove ho assistito alla festa di Asclepio.
+
+SOCRATE: E gli Epidauri tengono gare di rapsodi alla festa?
+
+IONE: Oh sì; e di ogni sorta di esecutori musicali.
+
+SOCRATE: E tu eri uno dei concorrenti — e hai avuto successo?
+
+IONE: Ho ottenuto il primo premio fra tutti, Socrate.
+
+SOCRATE: Ben fatto; e spero che farai lo stesso per noi alle Panatenee.
+
+IONE: E lo farò, a Dio piacendo.
+
+SOCRATE: Invidio spesso la professione del rapsodo, Ione; poiché devi sempre indossare belle vesti, e apparire il più bello possibile è parte della tua arte. Poi, ancora, sei tenuto a stare di continuo in compagnia di molti buoni poeti; e specialmente di Omero, che è il migliore e il più divino fra loro; e comprenderlo, e non soltanto apprenderne le parole a memoria, è cosa assai da invidiare. E nessun uomo può essere rapsodo se non comprende il significato del poeta. Poiché il rapsodo deve interpretare la mente del poeta ai suoi ascoltatori, ma come può interpretarlo bene se non sa che cosa egli intenda? Tutto ciò è assai da invidiare.
+
+IONE: Verissimo, Socrate; l'interpretazione è certamente stata la parte più laboriosa della mia arte; e credo di saper parlare di Omero meglio di qualsiasi altro uomo; e che né Metrodoro di Lampsaco, né Stesimbroto di Taso, né Glaucone, né alcun altro mai vissuto, ebbe idee su Omero altrettanto buone di quelle che ho io, o altrettanto numerose.
+
+SOCRATE: Sono lieto di sentirtelo dire, Ione; vedo che non ti rifiuterai di rendermene partecipe.
+
+IONE: Certamente, Socrate; e dovresti davvero sentire con quanta squisitezza io renda Omero. Credo che gli Omeridi dovrebbero darmi una corona d'oro.
+
+SOCRATE: Coglierò un'occasione per udire i tuoi abbellimenti di lui in qualche altro momento. Ma proprio ora vorrei porti una domanda: la tua arte si estende a Esiodo e ad Archiloco, oppure a Omero soltanto?
+
+IONE: A Omero soltanto; egli in sé basta pienamente.
+
+SOCRATE: Vi sono cose intorno alle quali Omero ed Esiodo concordano?
+
+IONE: Sì; a mio parere ve ne sono parecchie.
+
+SOCRATE: E sai interpretare meglio ciò che dice Omero, o ciò che dice Esiodo, intorno a queste materie in cui concordano?
+
+IONE: Le posso interpretare ugualmente bene, Socrate, là dove concordano.
+
+SOCRATE: Ma che dire delle materie in cui non concordano? — per esempio, intorno alla divinazione, di cui tanto Omero quanto Esiodo hanno qualcosa da dire, —
+
+IONE: Verissimo:
+
+SOCRATE: Saresti tu o un buon indovino miglior interprete di ciò che questi due poeti dicono intorno alla divinazione, non solo quando concordano, ma quando dissentono?
+
+IONE: Un indovino.
+
+SOCRATE: E se tu fossi un indovino, non saresti in grado di interpretarli quando dissentono così come quando concordano?
+
+IONE: Chiaramente.
+
+SOCRATE: Ma come sei giunto ad avere questa abilità intorno a Omero soltanto, e non intorno a Esiodo o agli altri poeti? Non parla forse Omero degli stessi temi che tutti gli altri poeti trattano? Non è la guerra il suo grande argomento? e non parla egli della società umana e del commercio degli uomini, buoni e cattivi, esperti e inesperti, e degli dèi che conversano l'uno con l'altro e con gli uomini, e di ciò che accade in cielo e nel mondo di sotto, e delle generazioni degli dèi e degli eroi? Non sono questi i temi che Omero canta?
+
+IONE: Verissimo, Socrate.
+
+SOCRATE: E gli altri poeti non cantano forse degli stessi temi?
+
+IONE: Sì, Socrate; ma non nello stesso modo di Omero.
+
+SOCRATE: Come, in un modo peggiore?
+
+IONE: Sì, in un modo di gran lunga peggiore.
+
+SOCRATE: E Omero in un modo migliore?
+
+IONE: Egli è incomparabilmente migliore.
+
+SOCRATE: Eppure certamente, mio caro amico Ione, in una discussione intorno all'aritmetica, dove molte persone parlano, e una parla meglio delle altre, vi è qualcuno che sa giudicare chi di loro sia il buon oratore?
+
+IONE: Sì.
+
+SOCRATE: E colui che giudica del buono sarà lo stesso che giudica dei cattivi oratori?
+
+IONE: Lo stesso.
+
+SOCRATE: Ed egli sarà l'aritmetico?
+
+IONE: Sì.
+
+SOCRATE: Ebbene, e nelle discussioni intorno alla salubrità del cibo, quando molte persone parlano, e una parla meglio delle altre, colui che riconosce il miglior oratore sarà una persona diversa da colui che riconosce il peggiore, oppure la stessa?
+
+IONE: Chiaramente la stessa.
+
+SOCRATE: E chi è, e qual è il suo nome?
+
+IONE: Il medico.
+
+SOCRATE: E, parlando in generale, in tutte le discussioni in cui il soggetto è il medesimo e molti uomini parlano, non conoscerà forse colui che conosce il buono anche il cattivo oratore? Poiché se non conosce il cattivo, non conoscerà nemmeno il buono quando si discute dello stesso argomento.
+
+IONE: Vero.
+
+SOCRATE: Non è la stessa persona esperta in entrambi?
+
+IONE: Sì.
+
+SOCRATE: E tu dici che Omero e gli altri poeti, come Esiodo e Archiloco, parlano delle stesse cose, benché non nello stesso modo; ma l'uno parla bene e l'altro non altrettanto bene?
+
+IONE: Sì; e ho ragione a dirlo.
+
+SOCRATE: E se conoscessi il buon oratore, conosceresti anche gli oratori inferiori come inferiori?
+
+IONE: Questo è vero.
+
+SOCRATE: Allora, mio caro amico, posso io sbagliarmi nel dire che Ione è ugualmente esperto in Omero e negli altri poeti, dal momento che egli stesso riconosce che la stessa persona sarà un buon giudice di tutti coloro che parlano delle stesse cose; e che quasi tutti i poeti parlano delle stesse cose?
+
+IONE: E perché allora, Socrate, perdo l'attenzione e mi addormento e non ho assolutamente idee di alcun valore, quando qualcuno parla di un qualsiasi altro poeta; ma quando si menziona Omero, mi desto all'istante e sono tutto attenzione e ho molto da dire?
+
+SOCRATE: La ragione, amico mio, è ovvia. Nessuno può fare a meno di vedere che tu parli di Omero senza alcuna arte o conoscenza. Se fossi in grado di parlare di lui secondo regole d'arte, saresti stato in grado di parlare di tutti gli altri poeti; poiché la poesia è un tutto.
+
+IONE: Sì.
+
+SOCRATE: E quando qualcuno acquisisce una qualunque altra arte come un tutto, lo stesso può dirsi di essa. Vuoi che ti spieghi ciò che intendo, Ione?
+
+IONE: Sì, davvero, Socrate; desidero moltissimo che tu lo faccia: poiché amo sentir parlare voi uomini sapienti.
+
+SOCRATE: Oh, magari fossimo sapienti, Ione, e tu potessi veramente chiamarci tali; ma voi rapsodi e attori, e i poeti dei quali cantate i versi, siete sapienti; mentre io sono un uomo comune, che dice soltanto la verità. Poiché considera che cosa assai banale e triviale è questa che ho detto — cosa che qualsiasi uomo potrebbe dire: che quando un uomo ha acquisito la conoscenza di un'arte intera, l'indagine intorno al buono e al cattivo è una e la stessa. Consideriamo questa faccenda; non è forse l'arte della pittura un tutto?
+
+IONE: Sì.
+
+SOCRATE: E vi sono e vi sono stati molti pittori buoni e cattivi?
+
+IONE: Sì.
+
+SOCRATE: E hai mai conosciuto qualcuno che fosse esperto nell'indicare i pregi e i difetti di Polignoto figlio di Aglaofonte, ma incapace di criticare altri pittori; e che, quando veniva prodotta l'opera di un qualunque altro pittore, si addormentava ed era in imbarazzo, e non aveva idee; ma quando doveva dare il proprio parere su Polignoto, o su chiunque fosse il pittore, e su lui soltanto, si destava ed era attento e aveva molto da dire?
+
+IONE: No davvero, non ho mai conosciuto una tale persona.
+
+SOCRATE: Oppure hai mai conosciuto qualcuno, nella scultura, che fosse esperto nell'esporre i meriti di Dedalo figlio di Metione, o di Epeo figlio di Panopeo, o di Teodoro il Samio, o di un qualunque scultore singolo; ma che, quando venivano prodotte le opere degli scultori in generale, era in imbarazzo e si addormentava e non aveva nulla da dire?
+
+IONE: No davvero; non più dell'altro.
+
+SOCRATE: E se non m'inganno, non hai mai incontrato qualcuno, fra i flautisti o gli arpisti o i cantori al suono dell'arpa o i rapsodi, che fosse capace di discorrere di Olimpo o di Tamiri o di Orfeo, o di Femio il rapsodo di Itaca, ma era in imbarazzo quando veniva a parlare di Ione di Efeso, e non aveva nozione dei suoi meriti o difetti?
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 ION: I cannot deny what you say, [Socrates](/figures/socrates). Nevertheless I am conscious in my own self, and the world agrees with me in thinking that I do speak better and have more to say about Homer than any other man. But I do not speak equally well about others — tell me the reason of this.
@@ -185,6 +321,36 @@ SOCRATES: And are you aware that you produce similar effects on most of the spec
 ION: Only too well; for I look down upon them from the stage, and behold the various emotions of pity, wonder, sternness, stamped upon their countenances when I am speaking: and I am obliged to give my very best attention to them; for if I make them cry I myself shall laugh, and if I make them laugh I myself shall cry when the time of payment arrives.
 
 SOCRATES: Do you know that the spectator is the last of the rings which, as I am saying, receive the power of the original magnet from one another? The rhapsode like yourself and the actor are intermediate links, and the poet himself is the first of them. Through all these the God sways the souls of men in any direction which he pleases, and makes one man hang down from another. Thus there is a vast chain of dancers and masters and under-masters of choruses, who are suspended, as if from the stone, at the side of the rings which hang down from the Muse. And every poet has some Muse from whom he is suspended, and by whom he is said to be possessed, which is nearly the same thing; for he is taken hold of. And from these first rings, which are the poets, depend others, some deriving their inspiration from Orpheus, others from Musaeus; but the greater number are possessed and held by Homer. Of whom, Ion, you are one, and are possessed by Homer; and when any one repeats the words of another poet you go to sleep, and know not what to say; but when any one recites a strain of Homer you wake up in a moment, and your soul leaps within you, and you have plenty to say; for not by art or knowledge about Homer do you say what you say, but by divine inspiration and by possession; just as the Corybantian revellers too have a quick perception of that strain only which is appropriated to the God by whom they are possessed, and have plenty of dances and words for that, but take no heed of any other. And you, Ion, when the name of Homer is mentioned have plenty to say, and have nothing to say of others. You ask, ‘Why is this?’ The answer is that you praise Homer not by art but by divine inspiration.
+
+<span class="qlang-split" data-lang="it"></span>
+
+IONE: Non posso negare ciò che dici, [Socrate](/figures/socrates). Nondimeno sono consapevole in me stesso, e il mondo concorda con me nel ritenere che io parli meglio e abbia più da dire su Omero di qualsiasi altro uomo. Ma non parlo altrettanto bene degli altri — dimmene la ragione.
+
+SOCRATE: La colgo, Ione; e procederò a spiegarti quella che immagino esserne la ragione. Il dono che possiedi di parlare eccellentemente di Omero non è un'arte, ma, come dicevo poc'anzi, un'ispirazione; c'è una divinità che ti muove, come quella contenuta nella pietra che Euripide chiama magnete, ma che è comunemente conosciuta come pietra di Eraclea. Questa pietra non solo attrae anelli di ferro, ma impartisce anche a essi una simile potenza di attrarre altri anelli; e talvolta puoi vedere un certo numero di pezzi di ferro e di anelli sospesi l'uno all'altro sì da formare una catena piuttosto lunga: e tutti derivano la loro potenza di sospensione dalla pietra originaria. Allo stesso modo la Musa dapprima ispira essa stessa gli uomini; e da queste persone ispirate una catena di altre persone è sospesa, che ne ricevono l'ispirazione. Poiché tutti i buoni poeti, epici non meno che lirici, compongono i loro bei poemi non per arte, ma perché sono ispirati e invasati. E come i coribanti quando danzano non sono in sé, così i poeti lirici non sono in sé quando compongono le loro belle melodie: ma quando cadono sotto il potere della musica e del metro sono ispirati e invasati; come le baccanti che attingono latte e miele dai fiumi quando sono sotto l'influsso di Dioniso, ma non quando sono in sé. E l'anima del poeta lirico fa lo stesso, come essi stessi dicono; poiché ci raccontano che portano canti da fontane melliflue, cogliendoli dai giardini e dalle valli delle Muse; essi, come le api, volando di fiore in fiore. E questo è vero. Poiché il poeta è cosa lieve e alata e sacra, e non v'è invenzione in lui finché non sia stato ispirato e sia fuori di sé, e la mente non sia più in lui: quando non ha raggiunto questo stato, è impotente ed è incapace di proferire i suoi oracoli. Molte sono le nobili parole in cui i poeti parlano intorno alle azioni degli uomini; ma, come te quando parli di Omero, essi non ne parlano per alcuna regola d'arte: sono semplicemente ispirati a proferire ciò a cui la Musa li sospinge, e null'altro; e quando sono ispirati, uno di loro comporrà ditirambi, un altro inni di lode, un altro canti corali, un altro versi epici o giambici — e colui che è bravo in un genere non è bravo in alcun altro genere di verso: poiché non per arte il poeta canta, ma per potenza divina. Se avesse imparato per regole d'arte, avrebbe saputo parlare non di un solo tema, ma di tutti; e perciò Dio toglie le menti ai poeti, e se ne serve come suoi ministri, come si serve anche dei divinatori e dei santi profeti, affinché noi che li udiamo sappiamo che non sono essi a parlare, essi che proferiscono queste parole inestimabili in uno stato di incoscienza, ma che Dio stesso è colui che parla, e che attraverso di loro sta conversando con noi. E Tinnico il Calcidese offre un esempio lampante di ciò che vado dicendo: egli non scrisse nulla che qualcuno si curerebbe di ricordare, tranne il famoso peana che è sulla bocca di tutti, uno dei più bei poemi mai scritti, semplicemente un'invenzione delle Muse, come egli stesso dice. Poiché in questo modo il Dio parrebbe indicarci e non lasciarci dubitare che questi bei poemi non sono umani, né opera d'uomo, ma divini e opera di Dio; e che i poeti non sono altro che gli interpreti degli Dèi dai quali sono di volta in volta invasati. Non era forse questa la lezione che il Dio intendeva insegnare quando per bocca del peggiore dei poeti cantò il migliore dei canti? Non ho ragione, Ione?
+
+IONE: Sì, davvero, Socrate, sento che hai ragione; poiché le tue parole toccano la mia anima, e sono persuaso che i buoni poeti, per una divina ispirazione, ci interpretano le cose degli Dèi.
+
+SOCRATE: E voi rapsodi siete gli interpreti dei poeti?
+
+IONE: Anche in questo hai ragione.
+
+SOCRATE: Allora voi siete gli interpreti degli interpreti?
+
+IONE: Precisamente.
+
+SOCRATE: Vorrei che mi dicessi francamente, Ione, ciò che sto per chiederti: quando produci il massimo effetto sull'uditorio nella recitazione di qualche passo suggestivo, come l'apparizione di Odisseo che balza sulla soglia, riconosciuto dai pretendenti e scagliando le sue frecce ai loro piedi, o la descrizione di Achille che si lancia contro Ettore, o i dolori di Andromaca, di Ecuba o di Priamo, — sei tu in te? Non sei forse trasportato fuori di te, e non pare la tua anima, in un'estasi, trovarsi fra le persone o i luoghi di cui stai parlando, siano essi in Itaca o a Troia o quale che sia la scena del poema?
+
+IONE: Quella prova mi colpisce nel segno, Socrate. Poiché devo francamente confessare che al racconto di pietà i miei occhi si riempiono di lacrime, e quando parlo di orrori mi si rizzano i capelli e il cuore mi palpita.
+
+SOCRATE: Ebbene, Ione, e che dovremo dire di un uomo che a un sacrificio o a una festa, quando è vestito con l'abito delle grandi occasioni, e ha corone d'oro sul capo, delle quali nessuno lo ha derubato, appare in lacrime o preso dal panico alla presenza di più di ventimila volti amici, quando non v'è nessuno che lo spogli o gli faccia torto; — è egli in sé o non lo è?
+
+IONE: No davvero, Socrate, devo dire che, a rigor di termini, egli non è in sé.
+
+SOCRATE: E sei consapevole che tu produci effetti simili sulla maggior parte degli spettatori?
+
+IONE: Fin troppo bene; poiché li guardo dall'alto del palco, e scorgo le varie emozioni di pietà, meraviglia, severità, impresse sui loro volti quando parlo: e sono costretto a prestare loro la mia migliore attenzione; poiché se li faccio piangere io stesso riderò, e se li faccio ridere io stesso piangerò quando giunge il momento del pagamento.
+
+SOCRATE: Sai che lo spettatore è l'ultimo degli anelli che, come vado dicendo, ricevono l'uno dall'altro la potenza del magnete originario? Il rapsodo come te e l'attore sono anelli intermedi, e il poeta stesso è il primo di loro. Attraverso tutti questi il Dio muove le anime degli uomini in qualunque direzione gli piaccia, e fa pendere un uomo dall'altro. Così vi è una vasta catena di danzatori e maestri e sotto-maestri di cori, che sono sospesi, come dalla pietra, al fianco degli anelli che pendono dalla Musa. E ogni poeta ha qualche Musa dalla quale è sospeso, e dalla quale si dice sia invasato, che è quasi la stessa cosa; poiché egli è preso. E da questi primi anelli, che sono i poeti, dipendono altri, alcuni che traggono la loro ispirazione da Orfeo, altri da Museo; ma il maggior numero è invasato e tenuto da Omero. Del quale, Ione, tu sei uno, e sei invasato da Omero; e quando qualcuno recita le parole di un altro poeta ti addormenti, e non sai che dire; ma quando qualcuno recita una melodia di Omero ti desti in un istante, e la tua anima balza dentro di te, e hai molto da dire; poiché non per arte o conoscenza intorno a Omero dici ciò che dici, ma per divina ispirazione e per invasamento; proprio come i coribanti hanno del pari una pronta percezione di quella sola melodia che è propria del Dio dal quale sono invasati, e hanno molte danze e parole per quella, ma non fanno caso ad alcun'altra. E tu, Ione, quando si menziona il nome di Omero hai molto da dire, e non hai nulla da dire degli altri. Tu chiedi: ‘Perché è così?’ La risposta è che tu lodi Omero non per arte ma per divina ispirazione.
 
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -334,6 +500,154 @@ SOCRATES: At any rate he will know what a general ought to say when exhorting hi
 
 ION: Yes, that is the sort of thing which the rhapsode will be sure to know.
 
+<span class="qlang-split" data-lang="it"></span>
+
+IONE: Va bene, [Socrate](/figures/socrates); eppure dubito che avrai mai eloquenza bastante a persuadermi che io lodi Omero soltanto quando sono in preda alla follia e all'invasamento; ché se tu potessi udirmi parlare di lui, sono certo che non lo crederesti affatto.
+
+SOCRATE: Mi piacerebbe molto ascoltarti, ma non prima che tu abbia risposto a una domanda che devo porti. Su quale parte di Omero parli bene? — non su ogni parte, di certo.
+
+IONE: Non v'è parte, Socrate, sulla quale io non parli bene: di questo posso assicurarti.
+
+SOCRATE: Non, di certo, sulle cose che sono in Omero delle quali non hai conoscenza?
+
+IONE: E che cosa v'è in Omero di cui io non abbia conoscenza?
+
+SOCRATE: Ebbene, non parla forse Omero in molti passi delle arti? Per esempio, dell'arte di guidare il carro; se solo riesco a ricordarne i versi, te li ripeterò.
+
+IONE: Li ricordo io, e li ripeterò.
+
+SOCRATE: Dimmi allora ciò che Nestore dice ad Antiloco, suo figlio, là dove lo esorta ad essere accorto nella svolta durante la corsa dei carri in onore di Patroclo.
+
+IONE: «Piègati dolcemente», dice, «nel carro ben lavorato, verso la loro sinistra, e incita il cavallo di destra con la voce e con la frusta, allentandogli le redini. E quando sei presso alla meta, fa' che il cavallo di sinistra rasenti il segno, sì però che il mozzo della ruota ben fatta non paia neppure toccarne l'estremità; e bada di non urtare la pietra (Il.).»
+
+SOCRATE: Basta. Ora, Ione, l'auriga o il medico sarà miglior giudice della giustezza di questi versi?
+
+IONE: L'auriga, evidentemente.
+
+SOCRATE: E la ragione sarà che questa è la sua arte, oppure vi sarà qualche altra ragione?
+
+IONE: No, questa sarà la ragione.
+
+SOCRATE: E ogni arte è stata destinata da Dio ad avere conoscenza di una certa opera; giacché ciò che conosciamo con l'arte del pilota non lo conosciamo con l'arte della medicina?
+
+IONE: Certamente no.
+
+SOCRATE: Né conosciamo con l'arte del falegname ciò che conosciamo con l'arte della medicina?
+
+IONE: Certamente no.
+
+SOCRATE: E questo vale per tutte le arti; — ciò che conosciamo con un'arte non lo conosciamo con l'altra? Ma lasciami porre una domanda preliminare: ammetti che vi siano differenze fra le arti?
+
+IONE: Sì.
+
+SOCRATE: Sosterresti, come farei io, che quando un'arte è di un genere di conoscenza e un'altra di un altro, esse sono differenti?
+
+IONE: Sì.
+
+SOCRATE: Sì, certamente; poiché se l'oggetto della conoscenza fosse il medesimo, non avrebbe senso dire che le arti sono differenti, — se entrambe dessero la medesima conoscenza. Per esempio, io so che qui vi sono cinque dita, e tu lo sai del pari. E se ti domandassi se io e te siamo giunti a conoscere questo fatto con l'aiuto della medesima arte dell'aritmetica, riconosceresti che così è stato?
+
+IONE: Sì.
+
+SOCRATE: Dimmi allora ciò che intendevo chiederti, — se ciò valga universalmente. Deve la medesima arte avere il medesimo oggetto di conoscenza, e le arti differenti altri oggetti di conoscenza?
+
+IONE: Questa è la mia opinione, Socrate.
+
+SOCRATE: Allora chi non ha conoscenza di una data arte non avrà retto giudizio sui detti e sulle opere di quell'arte?
+
+IONE: Verissimo.
+
+SOCRATE: Allora chi sarà miglior giudice dei versi che poc'anzi recitavi da Omero, tu o l'auriga?
+
+IONE: L'auriga.
+
+SOCRATE: Ebbene, sì, perché tu sei un rapsodo e non un auriga.
+
+IONE: Sì.
+
+SOCRATE: E l'arte del rapsodo è differente da quella dell'auriga?
+
+IONE: Sì.
+
+SOCRATE: E se è una conoscenza differente, allora è conoscenza di cose differenti?
+
+IONE: È vero.
+
+SOCRATE: Conosci il passo in cui Ecamede, la concubina di Nestore, è descritta mentre porge al ferito Macaone una bevanda, come egli dice,
+
+«Fatta con vino di Pramno; e grattugiò formaggio di latte caprino con una grattugia di bronzo, e accanto gli pose una cipolla, che dà sapore alla bevanda (Il.).»
+
+Diresti dunque che l'arte del rapsodo o l'arte della medicina fosse più capace di giudicare della giustezza di questi versi?
+
+IONE: L'arte della medicina.
+
+SOCRATE: E quando Omero dice,
+
+«E discese nell'abisso come piombo che, fissato al corno d'un bue rustico, precipita recando morte fra i pesci voraci (Il.),» —
+
+l'arte del pescatore o quella del rapsodo sarà più capace di giudicare se questi versi siano espressi rettamente o no?
+
+IONE: Evidentemente, Socrate, l'arte del pescatore.
+
+SOCRATE: Orsù, supponi che tu mi dicessi: «Poiché tu, Socrate, sei in grado di assegnare i diversi passi di Omero alle arti loro corrispondenti, vorrei che tu mi dicessi quali sono i passi la cui eccellenza dev'essere giudicata dall'indovino e dall'arte profetica»; e vedrai con quanta prontezza e verità ti risponderò. Poiché di tali passi ve ne sono molti, particolarmente nell'Odissea; come, per esempio, il passo in cui Teoclimeno, l'indovino della casa di Melampo, dice ai pretendenti: —
+
+«Sciagurati! che cosa vi accade? I vostri capi, i vostri volti e le vostre membra di sotto sono avvolti nella notte; e prorompe la voce del lamento, e le vostre guance sono bagnate di lacrime. E l'atrio è pieno, ed è pieno il cortile, di spettri che scendono nella tenebra dell'Erebo; e il sole è perito dal cielo, e una nebbia funesta si spande d'ogni parte (Od.).»
+
+E molti tali passi vi sono anche nell'Iliade; come per esempio nella descrizione della battaglia presso il vallo, dove egli dice: —
+
+«Mentre ardevano dal desiderio di varcare il fossato, apparve loro un presagio: un'aquila che volava alta, tenendo il popolo alla sinistra, recava fra gli artigli un enorme drago sanguinante, ancora vivo e ansante; né esso aveva ancora rinunciato alla lotta, ché si piegò all'indietro e colpì al petto, presso il collo, l'uccello che lo portava, e questi per il dolore lo lasciò cadere a terra, in mezzo alla moltitudine. E l'aquila, con un grido, fu portata lontano sulle ali del vento (Il.).»
+
+Queste sono le cose che direi l'indovino debba considerare e determinare.
+
+IONE: E hai ben ragione, Socrate, a dir così.
+
+SOCRATE: Sì, Ione, e hai ragione anche tu. E poiché ho scelto per te dall'Iliade e dall'Odissea passi che descrivono l'ufficio dell'indovino, del medico e del pescatore, tu, che conosci Omero assai meglio di me, Ione, scegli per me passi che riguardino il rapsodo e l'arte del rapsodo, e che il rapsodo debba esaminare e giudicare meglio degli altri uomini.
+
+IONE: Tutti i passi, direi, Socrate.
+
+SOCRATE: Non tutti, Ione, di certo. Hai già dimenticato ciò che dicevi? Un rapsodo dovrebbe avere miglior memoria.
+
+IONE: Perché, che cosa dimentico?
+
+SOCRATE: Non ricordi d'aver dichiarato che l'arte del rapsodo è differente dall'arte dell'auriga?
+
+IONE: Sì, ricordo.
+
+SOCRATE: E hai ammesso che, essendo differenti, esse avrebbero oggetti di conoscenza differenti?
+
+IONE: Sì.
+
+SOCRATE: Allora, per tua stessa ammissione, il rapsodo, e l'arte del rapsodo, non conosceranno ogni cosa?
+
+IONE: Escluderei certe cose, Socrate.
+
+SOCRATE: Vuoi dire che escluderesti pressoché gli oggetti delle altre arti. Poiché non le conosce tutte, quali di esse conoscerà?
+
+IONE: Conoscerà ciò che un uomo e ciò che una donna deve dire, e ciò che un uomo libero e ciò che uno schiavo deve dire, e ciò che un governante e ciò che un suddito.
+
+SOCRATE: Vuoi dire che un rapsodo saprà meglio del pilota ciò che il comandante di una nave sbattuta dai flutti deve dire?
+
+IONE: No; il pilota lo saprà meglio.
+
+SOCRATE: O il rapsodo saprà meglio del medico ciò che chi governa un malato deve dire?
+
+IONE: Non lo saprà.
+
+SOCRATE: Ma saprà ciò che uno schiavo deve dire?
+
+IONE: Sì.
+
+SOCRATE: Supponi che lo schiavo sia un bovaro; il rapsodo saprà meglio del bovaro ciò che egli deve dire per calmare le vacche infuriate?
+
+IONE: No, non lo saprà.
+
+SOCRATE: Ma saprà ciò che una filatrice deve dire intorno alla lavorazione della lana?
+
+IONE: No.
+
+SOCRATE: In ogni caso saprà ciò che un generale deve dire quando esorta i suoi soldati?
+
+IONE: Sì, questo è il genere di cose che il rapsodo saprà di certo.
+
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Well, but is the art of the rhapsode the art of the general?
@@ -389,3 +703,59 @@ SOCRATES: One who, though a foreigner, has often been chosen their general by th
 ION: There is a great difference, Socrates, between the two alternatives; and inspiration is by far the nobler.
 
 SOCRATES: Then, Ion, I shall assume the nobler alternative; and attribute to you in your praises of Homer inspiration, and not art.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ebbene, ma l'arte del rapsodo è forse l'arte del generale?
+
+IONE: Sono sicuro che saprei ciò che un generale deve dire.
+
+SOCRATE: Ebbene, sì, Ione, perché forse puoi avere conoscenza dell'arte del generale oltre che di quella del rapsodo; e puoi anche avere conoscenza dell'equitazione oltre che della lira: e allora sapresti quando i cavalli sono ben governati o mal governati. Ma supponi che io ti domandassi: Con l'aiuto di quale arte, Ione, conosci se i cavalli sono ben governati, con la tua abilità di cavaliere o con quella di suonatore di lira — che cosa risponderesti?
+
+IONE: Risponderei: con la mia abilità di cavaliere.
+
+SOCRATE: E se giudicassi dei suonatori di lira, ammetteresti di giudicarli in quanto suonatore di lira, e non in quanto cavaliere?
+
+IONE: Sì.
+
+SOCRATE: E nel giudicare dell'arte del generale, la giudichi in quanto generale o in quanto rapsodo?
+
+IONE: A me pare non vi sia differenza fra le due cose.
+
+SOCRATE: Che cosa vuoi dire? Vuoi dire che l'arte del rapsodo e quella del generale sono la medesima?
+
+IONE: Sì, una e la medesima.
+
+SOCRATE: Allora chi è un buon rapsodo è anche un buon generale?
+
+IONE: Certamente, Socrate.
+
+SOCRATE: E chi è un buon generale è anche un buon rapsodo?
+
+IONE: No; questo non lo dico.
+
+SOCRATE: Ma dici bensì che chi è un buon rapsodo è anche un buon generale.
+
+IONE: Certamente.
+
+SOCRATE: E tu sei il migliore dei rapsodi ellenici?
+
+IONE: Di gran lunga il migliore, Socrate.
+
+SOCRATE: E sei anche il migliore dei generali, Ione?
+
+IONE: Senza dubbio, Socrate; e Omero fu il mio maestro.
+
+SOCRATE: Ma allora, Ione, quale mai, in nome del cielo, può essere la ragione per cui tu, che sei il migliore dei generali oltre che il migliore dei rapsodi di tutta l'Ellade, vai in giro come rapsodo quando potresti essere generale? Credi che gli Elleni abbiano bisogno di un rapsodo con la sua corona d'oro, e non abbiano bisogno di un generale?
+
+IONE: Ebbene, Socrate, la ragione è che i miei concittadini, gli Efesini, sono servitori e soldati di Atene, e non hanno bisogno di un generale; e tu e Sparta non è probabile che mi vogliate, poiché credete di avere generali a sufficienza dei vostri.
+
+SOCRATE: Mio buon Ione, non hai mai sentito parlare di Apollodoro di Cizico?
+
+IONE: Chi sarebbe costui?
+
+SOCRATE: Uno che, benché straniero, è stato spesso scelto come loro generale dagli Ateniesi: e v'è Fanostene di Andro, ed Eraclide di Clazomene, che essi hanno pure preposto al comando dei loro eserciti e ad altre cariche, benché stranieri, dopo che ebbero dato prova del loro valore. E non sceglieranno forse Ione l'Efesino come loro generale, e non lo onoreranno, se si dimostrerà degno? Non erano forse gli Efesini in origine Ateniesi, ed Efeso non è città da poco? Ma, in verità, Ione, se hai ragione nel dire che per arte e sapere sei in grado di lodare Omero, non ti comporti lealmente con me: dopo tutte le tue dichiarazioni di conoscere molte cose gloriose intorno a Omero, e le tue promesse che le avresti esposte, non sei che un ingannatore, e ben lungi dall'esporre l'arte di cui sei maestro, non vuoi, neppure dopo le mie ripetute preghiere, spiegarmene la natura. Hai letteralmente tante forme quante ne ha Proteo; e ora te ne vai per ogni verso, torcendoti e voltandoti, e, come Proteo, ti muti in ogni sorta di persone a un tempo, e infine mi sfuggi sotto le spoglie di un generale, per non dover esporre la tua dottrina omerica. E se possiedi un'arte, allora, come dicevo, venendo meno alla tua promessa di esporre Omero, non ti comporti lealmente con me. Ma se, come credo, non possiedi arte alcuna, e pronunci tutte queste belle parole intorno a Omero inconsapevolmente, sotto il suo influsso ispiratore, allora ti assolvo dalla disonestà, e dirò soltanto che sei ispirato. Che cosa preferisci esser ritenuto, disonesto o ispirato?
+
+IONE: V'è una grande differenza, Socrate, fra le due alternative; e l'ispirazione è di gran lunga la più nobile.
+
+SOCRATE: Allora, Ione, assumerò l'alternativa più nobile; e attribuirò alle tue lodi di Omero l'ispirazione, e non l'arte.

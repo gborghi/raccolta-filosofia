@@ -56,6 +56,42 @@ LYSIMACHUS: That is very high praise which is accorded to you, Socrates, by fait
 
 SOCRATES: I will endeavour to advise you, Lysimachus, as far as I can in this matter, and also in every way will comply with your wishes; but as I am younger and not so experienced, I think that I ought certainly to hear first what my elders have to say, and to learn of them, and if I have anything to add, then I may venture to give my opinion to them as well as to you. Suppose, Nicias, that one or other of you begin.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+Lisimaco, figlio di Aristide.
+
+Melesia, figlio di Tucidide.
+
+I loro figli.
+
+Nicia, Lachete, [Socrate](/figures/socrates).
+
+LISIMACO: Avete visto l'esibizione dell'uomo che combatte in armatura, Nicia e Lachete, ma non vi dicemmo allora la ragione per cui il mio amico Melesia ed io vi chiedemmo di venire con noi a vederlo. Penso che tanto valga confessarvi quale essa fosse, poiché certo non dovremmo avere alcuna riserva con voi. La ragione era che intendevamo chiedere il vostro consiglio. Alcuni ridono alla sola idea di consigliare altri, e quando ne sono richiesti non vogliono dire ciò che pensano. Indovinano i desideri di chi li interroga, e rispondono secondo l'opinione di costui, e non secondo la propria. Ma poiché sappiamo che voi siete buoni giudici, e direte esattamente ciò che pensate, vi abbiamo ammessi ai nostri consigli. La faccenda intorno alla quale faccio tutto questo preambolo è la seguente: Melesia ed io abbiamo due figli; quello è il figlio suo, e porta il nome di Tucidide, dal nonno; e questo è il mio, che pure è chiamato dal nonno, Aristide. Ora, siamo risoluti a prenderci la massima cura dei giovani, e a non lasciarli scorrazzare a loro piacimento, come troppo spesso avviene dei giovani quando non sono più fanciulli, ma a cominciare senz'altro e a fare per loro tutto quanto possiamo. E sapendo che voi avete figli vostri, pensammo che assai probabilmente aveste badato alla loro educazione e al loro miglioramento, e, se per caso non vi aveste badato, possiamo rammentarvi che avreste dovuto farlo, e vorremmo invitarvi ad assisterci nell'adempimento di un dovere comune. Vi dirò, Nicia e Lachete, anche a rischio di riuscire noioso, come giungemmo a pensare a questo. Melesia ed io viviamo insieme, e i nostri figli vivono con noi; e ora, come dicevo dapprincipio, stiamo per confessarvelo. Entrambi parliamo spesso ai ragazzi delle molte nobili imprese che i nostri padri compirono in guerra e in pace — nel governo degli alleati e nell'amministrazione della città; ma nessuno di noi due ha imprese proprie da mostrare. La verità è che ci vergogniamo che questo contrasto sia da loro veduto, e biasimiamo i nostri padri per averci lasciati viziare negli anni della nostra giovinezza, mentre erano occupati negli affari altrui; e insistiamo su tutto ciò con i ragazzi, additando loro che non cresceranno all'onore se saranno ribelli e non si daranno pena di sé stessi; ma che, se se ne daranno pena, potranno forse diventare degni dei [nomi](/positions/nominalism) che portano. Essi, dal canto loro, promettono di conformarsi ai nostri desideri; e la nostra cura è di scoprire quali studi o occupazioni siano più atti a migliorarli. Qualcuno ci raccomandò l'arte del combattere in armatura, che egli reputava un eccellente pregio per un giovane da apprendere; e lodò l'uomo la cui esibizione avete veduto, e ci disse di andare a vederlo. E decidemmo di andare, e di indurvi ad accompagnarci; e intendevamo al tempo stesso, se non aveste obiezioni, consigliarci con voi intorno all'[educazione](/concepts/education) dei nostri figli. Questa è la faccenda di cui volevamo discorrere con voi; e speriamo che ci darete la vostra opinione intorno a quest'arte del combattere in armatura, e intorno a qualunque altro studio o occupazione che possa o non possa essere desiderabile per un giovane da apprendere. Vogliate dire se acconsentite alla nostra proposta.
+
+NICIA: Per quanto mi riguarda, Lisimaco e Melesia, approvo il vostro proposito, e volentieri vi assisterò; e credo che tu, Lachete, ne sarai del pari lieto.
+
+LACHETE: Certamente, Nicia; e approvo pienamente l'osservazione che Lisimaco ha fatto intorno al proprio padre e al padre di Melesia, la quale è applicabile non solo a loro, ma a noi, e a chiunque sia occupato negli affari pubblici. Come egli dice, tali persone sono troppo inclini a essere negligenti e trascurate dei propri figli e delle proprie faccende private. V'è molta verità in codesta tua osservazione, Lisimaco. Ma perché, invece di consultare noi, non consulti il nostro amico Socrate intorno all'educazione dei giovani? Egli è del tuo stesso demo, e passa sempre il suo tempo in luoghi dove i giovani abbiano qualche nobile studio od occupazione, come quella di cui vai in cerca.
+
+LISIMACO: Ma come, Lachete, Socrate si è mai occupato di cose di questo genere?
+
+LACHETE: Certamente, Lisimaco.
+
+NICIA: Di ciò ho modo di essere informato non meno di Lachete; poiché proprio di recente egli mi ha procurato un maestro di musica per i miei figli, — Damone, il discepolo di Agatocle, uomo compiutissimo sotto ogni riguardo, oltre che musico, e compagno di inestimabile valore per giovani della loro età.
+
+LISIMACO: Quelli che hanno raggiunto la mia età, Socrate e Nicia e Lachete, perdono la consuetudine con i giovani, perché per lo più sono trattenuti in casa dalla vecchiaia; ma tu, o figlio di Sofronisco, dovresti lasciare che il tuo concittadino di demo goda di qualunque consiglio tu sia in grado di dare. Inoltre ho un diritto su di te come vecchio amico di tuo padre; poiché io ed egli fummo sempre compagni e amici, e sino all'ora della sua morte non vi fu mai dissenso tra noi; e ora mi ritorna in mente, al nominare il tuo nome, di aver udito questi ragazzi parlare tra loro in casa, e spesso menzionare Socrate con le più alte lodi; ma non ho mai pensato di domandar loro se il figlio di Sofronisco fosse la persona che intendevano. Ditemi, ragazzi miei, se questo è il Socrate del quale avete spesso parlato.
+
+FIGLIO: Certamente, padre, è lui.
+
+LISIMACO: Sono lieto di udire, Socrate, che tu tenga alto il nome di tuo padre, che fu uomo eccellentissimo; e mi rallegro inoltre alla prospettiva che i nostri legami di famiglia siano rinnovati.
+
+LACHETE: In verità, Lisimaco, non dovresti lasciarlo andare; poiché posso assicurarti che l'ho visto tener alto non solo il nome del padre, ma anche quello della patria. Fu mio compagno nella ritirata da Delio, e posso dirti che se solo gli altri fossero stati come lui, l'onore della nostra patria sarebbe stato salvato, e la grande disfatta non sarebbe mai avvenuta.
+
+LISIMACO: Grandissima lode è quella che ti viene tributata, Socrate, da fedeli testimoni e per azioni quali quelle che essi lodano. Lascia che ti dica il piacere che provo nell'udire della tua fama; e spero che mi considererai uno dei tuoi più caldi amici. Avresti dovuto farci visita da tempo, e trattarci con familiarità; ma ora, da questo giorno in avanti, poiché finalmente ci siamo ritrovati, fa' come ti dico — vieni e stringi conoscenza con me, e con questi giovani, affinché io possa rimanere tuo amico, come lo fui di tuo padre. Mi aspetto che tu lo faccia, e mi permetterò in qualche futura occasione di rammentarti il tuo dovere. Ma che dici della faccenda di cui cominciavamo a parlare — l'arte del combattere in armatura? È una pratica nella quale i ragazzi possono essere vantaggiosamente istruiti?
+
+SOCRATE: Mi adoprerò a consigliarti, Lisimaco, per quanto posso in questa faccenda, e in ogni modo mi conformerò ai tuoi desideri; ma poiché sono più giovane e non così esperto, penso che debba certamente udire prima ciò che i miei maggiori hanno da dire, e imparare da loro, e se ho qualcosa da aggiungere, allora potrò arrischiarmi a dare la mia opinione a loro non meno che a te. Supponi, Nicia, che l'uno o l'altro di voi cominci.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 NICIAS: I have no objection, [Socrates](/figures/socrates); and my opinion is that the acquirement of this art is in many ways useful to young men. It is an advantage to them that among the favourite amusements of their leisure hours they should have one which tends to improve and not to injure their bodily health. No gymnastics could be better or harder exercise; and this, and the art of riding, are of all arts most befitting to a freeman; for they only who are thus trained in the use of arms are the athletes of our military profession, trained in that on which the conflict turns. Moreover in actual battle, when you have to fight in a line with a number of others, such an acquirement will be of some use, and will be of the greatest whenever the ranks are broken and you have to fight singly, either in pursuit, when you are attacking some one who is defending himself, or in flight, when you have to defend yourself against an assailant. Certainly he who possessed the art could not meet with any harm at the hands of a single person, or perhaps of several; and in any case he would have a great advantage. Further, this sort of skill inclines a man to the love of other noble lessons; for every man who has learned how to fight in armour will desire to learn the proper arrangement of an army, which is the sequel of the lesson: and when he has learned this, and his ambition is once fired, he will go on to learn the complete art of the general. There is no difficulty in seeing that the knowledge and practice of other military arts will be honourable and valuable to a man; and this lesson may be the beginning of them. Let me add a further advantage, which is by no means a slight one, — that this science will make any man a great deal more valiant and self-possessed in the field. And I will not disdain to mention, what by some may be thought to be a small matter; — he will make a better appearance at the right time; that is to say, at the time when his appearance will strike terror into his enemies. My opinion then, Lysimachus, is, as I say, that the youths should be instructed in this art, and for the reasons which I have given. But Laches may take a different view; and I shall be very glad to hear what he has to say.
@@ -79,6 +115,30 @@ MELESIAS: Certainly.
 SOCRATES: And for this reason, as I imagine, — because a good decision is based on knowledge and not on numbers?
 
 MELESIAS: To be sure.
+
+<span class="qlang-split" data-lang="it"></span>
+
+NICIA: Non ho obiezioni, [Socrate](/figures/socrates); e la mia opinione è che l'acquisizione di quest'arte sia per molti versi utile ai giovani. È per loro un vantaggio che, fra i divertimenti prediletti delle loro ore d'ozio, ne abbiano uno che tende a migliorare e non a nuocere alla loro salute fisica. Nessuna ginnastica potrebbe essere esercizio migliore o più aspro; e questa, e l'arte del cavalcare, sono fra tutte le arti le più convenienti a un uomo libero; poiché soltanto coloro che sono così addestrati nell'uso delle armi sono gli atleti della nostra professione militare, addestrati in ciò su cui il conflitto si decide. Inoltre, nella battaglia vera e propria, quando si deve combattere in fila insieme a molti altri, tale acquisizione sarà di qualche utilità, e sarà della massima quando le file si rompano e si debba combattere singolarmente, o nell'inseguimento, quando si assale qualcuno che si difende, o nella fuga, quando ci si deve difendere da un assalitore. Certamente chi possedesse quest'arte non potrebbe subire alcun danno per mano di un solo uomo, o forse neppure di parecchi; e in ogni caso avrebbe un grande vantaggio. Inoltre, questo genere di abilità inclina un uomo all'amore di altri nobili insegnamenti; poiché ogni uomo che abbia imparato a combattere in armatura desidererà imparare il giusto ordinamento di un esercito, che è il seguito della lezione: e quando avrà appreso questo, e la sua ambizione si sarà una volta accesa, procederà ad apprendere l'arte completa del generale. Non v'è difficoltà a vedere che la conoscenza e la pratica delle altre arti militari saranno onorevoli e preziose per un uomo; e questa lezione può esserne il principio. Lascia che aggiunga un ulteriore vantaggio, che non è affatto lieve, — che questa scienza renderà qualunque uomo assai più valoroso e padrone di sé sul campo. E non disdegnerò di menzionare ciò che da alcuni potrebbe essere ritenuto cosa da poco; — egli farà miglior figura al momento giusto; vale a dire, nel momento in cui il suo apparire incuterà terrore nei nemici. La mia opinione dunque, Lisimaco, è, come dico, che i giovani debbano essere istruiti in quest'arte, e per le ragioni che ho addotto. Ma Lachete può avere un diverso parere; e sarò ben lieto di udire ciò che egli ha da dire.
+
+LACHETE: Non vorrei sostenere, Nicia, che una qualunque specie di conoscenza non sia da apprendere; poiché ogni conoscenza pare essere un bene: e se, come affermano Nicia e i maestri dell'arte, quest'uso delle armi è davvero una specie di conoscenza, allora dev'essere appresa; ma se non lo è, e se coloro che professano di insegnarla sono soltanto ingannatori; oppure se è conoscenza, ma non di sorta pregevole, allora a che serve apprenderla? Dico questo, perché penso che, se fosse stata davvero pregevole, i Lacedemoni, la cui intera vita trascorre nello scoprire e praticare le arti che danno loro un vantaggio sopra le altre nazioni in guerra, l'avrebbero scoperta. E anche se non l'avessero scoperta, pure questi professori dell'arte non avrebbero certo mancato di scoprire che, fra tutti gli Elleni, i Lacedemoni hanno il maggiore interesse a tali cose, e che un maestro dell'arte onorato presso di loro sarebbe sicuro di far fortuna presso le altre nazioni, proprio come farebbe un poeta tragico onorato presso di noi; ed è questa la ragione per cui chi si figura di saper scrivere una tragedia non se ne va girovagando per gli stati vicini, ma si precipita difilato qui, ed espone la sua opera ad Atene; e ciò è naturale. Mentre osservo che questi combattenti in armatura considerano Lacedemone come territorio sacro e inviolabile, che non toccano con la punta del piede; ma fanno il giro degli stati vicini, e preferirebbero esibirsi presso qualunque altro anziché presso gli Spartani; e particolarmente presso coloro che essi stessi riconoscerebbero come per nulla di primo rango nelle arti della guerra. Inoltre, Lisimaco, ho incontrato parecchi di questi signori nel servizio effettivo, e ne ho preso la misura, che posso darti su due piedi; poiché nessuno di questi maestri di scherma si è mai distinto in guerra, — vi è stata come una fatalità intorno a loro; mentre in tutte le altre arti gli uomini di nota sono stati sempre coloro che hanno praticato l'arte, essi appaiono un'eccezione assai sventurata. Per esempio, proprio questo Stesilao, che tu ed io abbiamo or ora visto esibirsi in mezzo a tutta quella folla e fare così grandi vanti delle sue capacità, l'ho visto un'altra volta dare, in tutta verità, un'involontaria esibizione di sé, che fu spettacolo assai migliore. Era soldato di marina a bordo di una nave che urtò un vascello da trasporto, ed era armato di un'arma, mezza lancia e mezza falce; la singolarità di quest'arma era degna della singolarità dell'uomo. Per farla breve, ti dirò soltanto ciò che accadde a questa notevole invenzione della lancia-falce. Egli combatteva, e la falce si impigliò nel sartiame dell'altra nave, e vi restò conficcata; ed egli tirò, ma non riuscì a liberare la sua arma. Le due navi si passavano accanto. Egli dapprima corse lungo la propria nave tenendosi aggrappato alla lancia; ma poiché l'altra nave passava oltre e lo trascinava dietro mentre vi restava aggrappato, lasciò scorrere la lancia fra le mani finché non ne trattenne che l'estremità del manico. La gente sul trasporto batté le mani, e rise della sua figura ridicola; e quando qualcuno scagliò una pietra, che cadde sul ponte ai suoi piedi, ed egli lasciò la presa della lancia-falce, anche l'equipaggio della sua stessa trireme scoppiò a ridere; non poterono trattenersi allo scorgere l'arma ondeggiante nell'aria, sospesa al trasporto. Ora, non nego che possa esservi qualcosa in tale arte, come Nicia asserisce, ma ti dico la mia esperienza; e, come dissi dapprincipio, sia che questa sia un'arte il cui vantaggio è così lieve, sia che non sia affatto un'arte, ma soltanto un'impostura, in entrambi i casi tale acquisizione non vale la pena d'esser posseduta. Poiché la mia opinione è che, se il professore di quest'arte è un codardo, sarà probabilmente portato alla temerità, e il suo carattere ne risulterà solo più famigerato; o se è coraggioso, e fallisce anche solo di poco, gli altri uomini staranno all'erta, ed egli sarà grandemente diffamato; poiché v'è invidia verso tali millantatori; e a meno che un uomo non sia preminente in valore, non può non essere ridicolo, se dice di possedere questo genere di abilità. Tale è il mio giudizio, Lisimaco, sulla desiderabilità di quest'arte; ma, come dissi dapprincipio, interroga Socrate, e non lasciarlo andare finché non ti abbia dato la sua opinione sulla faccenda.
+
+LISIMACO: Sto per chiederti questo favore, Socrate; tanto più necessario in quanto i due consiglieri sono in disaccordo, e c'è in certo modo bisogno di qualcuno che decida fra loro. Se fossero stati d'accordo, non sarebbe stato richiesto alcun arbitro. Ma poiché Lachete ha votato in un senso e Nicia nell'altro, vorrei udire con quale dei nostri due amici tu concordi.
+
+SOCRATE: Come, Lisimaco, vuoi accettare l'opinione della maggioranza?
+
+LISIMACO: Ma sì, Socrate; che altro dovrei fare?
+
+SOCRATE: E faresti così anche tu, Melesia? Se stessi deliberando intorno all'allenamento ginnico di tuo figlio, seguiresti il consiglio della maggioranza di noi, o l'opinione di quell'uno che fosse stato addestrato ed esercitato sotto un maestro esperto?
+
+MELESIA: Quest'ultima, Socrate; come sarebbe di certo ragionevole.
+
+SOCRATE: Il suo solo voto varrebbe più del voto di tutti e quattro noi?
+
+MELESIA: Certamente.
+
+SOCRATE: E per questa ragione, come immagino, — perché una buona decisione si fonda sulla conoscenza e non sul numero?
+
+MELESIA: Senza dubbio.
 
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -138,6 +198,64 @@ NICIAS: I see very clearly, Lysimachus, that you have only known Socrates’ fat
 
 LYSIMACHUS: Why do you say that, Nicias?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Non dobbiamo allora anzitutto domandare se vi sia alcuno fra noi che abbia conoscenza di ciò intorno a cui stiamo deliberando? Se v'è, prendiamo il suo consiglio, foss'egli uno solo, e non curiamoci degli altri; se non v'è, cerchiamo altrove consiglio. È cosa da poco quella intorno alla quale tu e Lisimaco state deliberando? Non state forse arrischiando il maggiore dei vostri beni? Poiché i figli sono la vostra ricchezza; e dal loro riuscir bene o male dipende l'intero ordine della casa paterna.
+
+MELESIA: È vero.
+
+SOCRATE: Grande cura, dunque, è richiesta in questa faccenda?
+
+MELESIA: Certamente.
+
+SOCRATE: Supponi, come dicevo poc'anzi, che stessimo considerando, o volessimo considerare, chi fosse il miglior allenatore. Non sceglieremmo forse colui che conoscesse e avesse praticato l'arte, e avesse avuto i migliori maestri?
+
+MELESIA: Penso che dovremmo.
+
+SOCRATE: Ma non sorgerebbe forse una domanda preliminare intorno alla natura dell'arte di cui vogliamo trovare i maestri?
+
+MELESIA: Non capisco.
+
+SOCRATE: Lascia allora che tenti di rendere più chiaro il mio pensiero. Non penso che abbiamo ancora deciso che cosa sia ciò intorno a cui ci consultiamo, quando domandiamo chi di noi è o non è esperto nell'arte, e ha o non ha avuto un maestro dell'arte.
+
+NICIA: Ma come, Socrate, la questione non è forse se i giovani debbano o non debbano apprendere l'arte del combattere in armatura?
+
+SOCRATE: Sì, Nicia; ma v'è anche una questione preliminare, che posso illustrare in questo modo: Quando una persona considera se applicare un rimedio agli occhi, diresti che si consulta intorno al rimedio o intorno agli occhi?
+
+NICIA: Intorno agli occhi.
+
+SOCRATE: E quando considera se mettere una briglia a un cavallo e in quale momento, pensa al cavallo e non alla briglia?
+
+NICIA: È vero.
+
+SOCRATE: E, in una parola, quando considera qualcosa in vista di un'altra cosa, pensa al fine e non ai mezzi?
+
+NICIA: Certamente.
+
+SOCRATE: E quando chiami un consigliere, dovresti vedere se anch'egli è esperto nel conseguimento del fine che hai di mira?
+
+NICIA: Verissimo.
+
+SOCRATE: E al presente abbiamo di mira una certa conoscenza, il cui fine è l'anima dei giovani?
+
+NICIA: Sì.
+
+SOCRATE: E stiamo indagando chi di noi sia esperto o valente nella cura dell'anima, e chi di noi abbia avuto buoni maestri?
+
+LACHETE: Ebbene, Socrate; non hai mai osservato che alcune persone, che non hanno avuto maestri, sono più esperte, in certe cose, di quelle che ne hanno avuti?
+
+SOCRATE: Sì, Lachete, l'ho osservato; ma non saresti molto disposto a fidarti di loro se soltanto professassero di essere maestri della loro arte, a meno che non potessero mostrare qualche prova della loro abilità o eccellenza in una o più opere.
+
+LACHETE: È vero.
+
+SOCRATE: E perciò, Lachete e Nicia, poiché Lisimaco e Melesia, nella loro ansia di migliorare le menti dei figli, ci hanno chiesto consiglio sul loro conto, anche noi dovremmo dir loro chi furono i nostri maestri, se diciamo di averne avuti, e provare che essi furono in primo luogo uomini di merito ed esperti educatori delle menti dei giovani, e che furono davvero nostri maestri. Oppure, se qualcuno di noi dice di non avere maestro, ma di avere opere proprie da mostrare, allora dovrebbe additar loro quali Ateniesi o stranieri, schiavi o liberi, egli sia comunemente riconosciuto d'aver reso migliori. Ma se non può mostrare né maestri né opere, allora dovrebbe dir loro di cercarne altri; e di non correre il rischio di guastare i figli di amici, incorrendo così nella più formidabile accusa che possa esser mossa a chicchessia da quelli che gli sono più vicini. Quanto a me, Lisimaco e Melesia, sono il primo a confessare di non aver mai avuto un maestro dell'arte della virtù; benché sempre, dalla mia più tenera giovinezza, abbia desiderato averne uno. Ma sono troppo povero per dar denaro ai Sofisti, che sono i soli professori del miglioramento morale; e sino ad oggi non sono mai stato in grado di scoprire l'arte da me stesso, per quanto non mi sorprenderei se Nicia o Lachete l'avessero scoperta o appresa; poiché sono assai più ricchi di me, e possono perciò averla appresa da altri. E sono anche più anziani; sicché hanno avuto più tempo per fare la scoperta. E credo davvero che siano capaci di educare un uomo; poiché, a meno che non fossero stati sicuri della propria conoscenza, non avrebbero mai parlato in modo così deciso delle occupazioni vantaggiose o dannose a un giovane. Ripongo fiducia in entrambi; ma mi sorprende trovare che l'uno differisce dall'altro. E perciò, Lisimaco, come Lachete ha suggerito che tu mi trattenga, e non mi lasci andare finché non ho risposto, io a mia volta ti supplico e consiglio caldamente di trattenere Lachete e Nicia, e di interrogarli. Vorrei che tu dicessi loro: Socrate afferma di non avere conoscenza della faccenda — egli non è in grado di decidere chi di voi dica il vero; né scopritore né studioso egli è di alcunché di simile. Ma voi, Lachete e Nicia, dovreste ciascuno dirci chi sia il più esperto educatore che abbiate mai conosciuto; e se avete inventato voi stessi l'arte, o l'avete appresa da un altro; e se l'avete appresa, chi furono i vostri rispettivi maestri, e chi furono i loro confratelli nell'arte; e allora, se siete troppo occupati in politica per istruirci voi stessi, andiamo da loro, e presentiamo loro doni, o facciamoci ben volere da loro, o entrambe le cose, nella speranza che possano essere indotti a prendersi cura dei nostri figli e dei vostri; e allora essi non cresceranno inferiori, disonorando i loro antenati. Ma se voi stessi siete scopritori originali in quel campo, dateci qualche prova della vostra abilità. Chi sono coloro che, essendo stati persone inferiori, sono diventati sotto la vostra cura buoni e nobili? Poiché se questo è il vostro primo tentativo di [educazione](/concepts/education), v'è il pericolo che stiate facendo l'esperimento non sul «vile corpus» di uno schiavo cario, ma sui vostri stessi figli, o sui figli del vostro amico, e, come dice il proverbio, «rompiate il grande vaso imparando a fare pentole». Diteci dunque quali qualità rivendicate o non rivendicate. Fa' che ve lo dicano, Lisimaco, e non lasciarli sfuggire.
+
+LISIMACO: Approvo assai le parole di Socrate, amici miei; ma voi, Nicia e Lachete, dovete decidere se acconsentirete a essere interrogati, e a dare spiegazione intorno a cose di questo genere. Certamente io e Melesia saremmo grandemente lieti di udirvi rispondere alle domande che Socrate pone, se vorrete: poiché ho cominciato col dire che vi abbiamo ammessi ai nostri consigli perché pensavamo che aveste badato all'argomento, tanto più che avete figli che, come i nostri, sono press'a poco in età da essere educati. Ebbene, dunque, se non avete obiezioni, supponete di prendere Socrate come socio; e voi ed egli ponetevi e rispondetevi a vicenda le domande: poiché, come egli ha ben detto, stiamo deliberando intorno alla più importante delle nostre faccende. Spero che riterrete opportuno accondiscendere alla nostra richiesta.
+
+NICIA: Vedo assai chiaramente, Lisimaco, che tu hai conosciuto soltanto il padre di Socrate, e non hai dimestichezza con Socrate stesso: per lo meno, puoi averlo conosciuto solo quando era fanciullo, e puoi averlo incontrato fra i suoi compagni di demo, in compagnia di suo padre, a un sacrificio, o a qualche altra adunanza. Mostri chiaramente di non averlo mai conosciuto da quando è giunto alla virilità.
+
+LISIMACO: Perché dici questo, Nicia?
+
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 NICIAS: Because you seem not to be aware that any one who has an intellectual affinity to [Socrates](/figures/socrates) and enters into conversation with him is liable to be drawn into an argument; and whatever subject he may start, he will be continually carried round and round by him, until at last he finds that he has to give an account both of his present and past life; and when he is once entangled, Socrates will not let him go until he has completely and thoroughly sifted him. Now I am used to his ways; and I know that he will certainly do as I say, and also that I myself shall be the sufferer; for I am fond of his conversation, Lysimachus. And I think that there is no harm in being reminded of any wrong thing which we are, or have been, doing: he who does not fly from reproof will be sure to take more heed of his after-life; as Solon says, he will wish and desire to be learning so long as he lives, and will not think that old age of itself brings wisdom. To me, to be cross-examined by Socrates is neither unusual nor unpleasant; indeed, I knew all along that where Socrates was, the argument would soon pass from our sons to ourselves; and therefore, I say that for my part, I am quite willing to discourse with Socrates in his own manner; but you had better ask our friend Laches what his feeling may be.
@@ -193,6 +311,62 @@ SOCRATES: And so should I; but what would you say of another man, who fights fly
 LACHES: How flying?
 
 SOCRATES: Why, as the Scythians are said to fight, flying as well as pursuing; and as Homer says in praise of the horses of Aeneas, that they knew ‘how to pursue, and fly quickly hither and thither’; and he passes an encomium on Aeneas himself, as having a knowledge of fear or flight, and calls him ‘an author of fear or flight.’
+
+<span class="qlang-split" data-lang="it"></span>
+
+NICIA: Perché pare che tu non sappia che chiunque abbia un'affinità intellettuale con [Socrate](/figures/socrates) ed entri in conversazione con lui è esposto a essere trascinato in un ragionamento; e qualunque argomento egli avvii, sarà continuamente portato in giro, di qua e di là, da lui, finché alla fine si accorge di dover render conto tanto della sua vita presente quanto di quella passata; e una volta che vi è impigliato, Socrate non lo lascerà andare finché non lo abbia completamente e a fondo vagliato. Ora, io sono avvezzo ai suoi modi; e so che egli farà di certo come dico, e so anche che io stesso ne farò le spese; poiché amo la sua conversazione, Lisimaco. E penso che non vi sia alcun male nell'esser rammentati di qualche cosa storta che stiamo facendo, o abbiamo fatto: chi non fugge il rimprovero avrà cura di badare di più al suo vivere futuro; come dice Solone, egli vorrà e desidererà imparare fintanto che vive, e non penserà che la vecchiaia di per sé rechi saggezza. Per me, essere sottoposto all'esame di Socrate non è né insolito né spiacevole; anzi, sapevo fin dal principio che, dove fosse Socrate, il discorso sarebbe presto passato dai nostri figli a noi stessi; e perciò dico che, per parte mia, sono ben disposto a discorrere con Socrate al modo suo; ma faresti meglio a chiedere al nostro amico Lachete quale sia il suo sentimento.
+
+LACHETE: Io ho un solo sentimento, Nicia, o (dovrò dire?) due sentimenti, riguardo alle discussioni. Alcuni penserebbero che io sia un amante, e ad altri posso sembrare un odiatore del discorso; poiché quando odo un uomo discorrere di virtù, o di qualche sorta di saggezza, ed egli è un uomo vero e degno del suo tema, sono lieto oltre misura: e paragono l'uomo alle sue parole, e noto l'armonia e la corrispondenza tra loro. E tale uomo lo reputo il vero musico, accordato a un'armonia più bella di quella della lira, o di qualunque piacevole strumento di musica; poiché in verità egli ha nella propria vita un'armonia di parole e di opere disposta non nel modo ionico, né nel frigio, e neppure nel lidio, ma nel vero modo ellenico, che è il dorico, e non altro. Tale uomo mi rallegra col suono della sua voce; e quando lo odo son ritenuto un amante del discorso; tanto sono avido di bere le sue parole. Ma un uomo le cui azioni non concordano con le sue parole è per me un fastidio; e quanto meglio egli parla, tanto più lo odio, e allora sembro un odiatore del discorso. Quanto a Socrate, non ho conoscenza delle sue parole, ma da tempo, a quanto pare, ho avuto esperienza delle sue opere; e le sue opere mostrano che sentimenti liberi e nobili gli sono naturali. E se le sue parole vi si accordano, allora sono in pieno accordo con lui, e sarò lieto di essere interrogato da un uomo qual egli è, e non mi sdegnerò di dover imparare da lui: poiché anch'io concordo con Solone, «che vorrei invecchiare imparando molte cose». Ma mi sia permesso di aggiungere «delle buone soltanto». Socrate deve consentire a riconoscere di essere un buon maestro, o sarò un allievo ottuso e restio: ma che il maestro sia più giovane, o non ancora in fama — qualcosa del genere non ha per me alcun peso. E perciò, Socrate, ti avverto che puoi istruirmi e confutarmi quanto mai vorrai, e anche imparare da me qualunque cosa io sappia. Tanto alta è l'opinione che ho nutrito di te fin dal giorno in cui fosti mio compagno nel pericolo, e desti prova di un valore quale solo l'uomo di merito può dare. Perciò, di' quel che vuoi, e non badare alla differenza delle nostre età.
+
+SOCRATE: Non posso dire che alcuno di voi mostri riluttanza a consigliarsi e deliberare con me.
+
+LISIMACO: Ma questa è la nostra propria faccenda; e la tua non meno della nostra, poiché ti annovero come uno di noi. Vogli dunque prendere il mio posto, e apprendere da Nicia e Lachete ciò che vogliamo sapere, per il bene dei giovani, e parla e consultati con loro: poiché io sono vecchio, e la mia memoria è debole; e non ricordo le domande che sto per porre, né le risposte a esse; e se v'è qualche interruzione, mi perdo del tutto. Ti pregherò perciò di portare avanti la discussione da voi stessi; e io ascolterò, e Melesia ed io agiremo secondo le vostre conclusioni.
+
+SOCRATE: Conformiamoci, Nicia e Lachete, alla richiesta di Lisimaco e Melesia. Non vi sarà alcun male nel porci la domanda che ci fu proposta per prima: «Chi sono stati i nostri maestri in questa sorta di addestramento, e chi abbiamo reso migliore?» Ma l'altro modo di condurre l'indagine ci porterà ugualmente al medesimo punto, e sarà più simile a un procedere da primi principi. Poiché se sapessimo che l'aggiunta di qualcosa migliorerebbe qualche altra cosa, e fossimo in grado di fare l'aggiunta, allora, chiaramente, dovremmo sapere come ciò intorno a cui ci consigliamo possa essere conseguito nel modo migliore e più facile. Forse non capite ciò che intendo. Lasciate allora che renda più chiaro il mio pensiero in questo modo. Supponete che sapessimo che l'aggiunta della vista rende migliori gli occhi che posseggono questo dono, e fossimo anche in grado di impartire la vista agli occhi, allora, chiaramente, dovremmo conoscere la natura della vista, e saremmo in grado di consigliare come questo dono della vista possa essere conseguito nel modo migliore e più facile; ma se non sapessimo né che cosa sia la vista, né che cosa sia l'udito, non saremmo buoni consiglieri in fatto di medicina intorno agli occhi o alle orecchie, o intorno al modo migliore di dar loro la vista e l'udito.
+
+LACHETE: È vero, Socrate.
+
+SOCRATE: E i nostri due amici, Lachete, non ci stanno forse in questo stesso momento invitando a considerare in qual modo il dono della virtù possa essere impartito ai loro figli per il miglioramento delle loro menti?
+
+LACHETE: Verissimo.
+
+SOCRATE: Non dobbiamo allora anzitutto conoscere la natura della virtù? Poiché come possiamo consigliare alcuno intorno al modo migliore di conseguire qualcosa di cui siamo del tutto ignari?
+
+LACHETE: Non penso che possiamo, Socrate.
+
+SOCRATE: Allora, Lachete, possiamo presumere di conoscere la natura della virtù?
+
+LACHETE: Sì.
+
+SOCRATE: E ciò che conosciamo dobbiamo certamente essere in grado di dirlo?
+
+LACHETE: Certamente.
+
+SOCRATE: Non vorrei, amico mio, che cominciassimo indagando intorno all'intera virtù; poiché ciò potrebbe essere più di quanto possiamo compiere; consideriamo prima se abbiamo sufficiente conoscenza di una parte; l'indagine ci sarà così probabilmente resa più facile.
+
+LACHETE: Facciamo come dici, Socrate.
+
+SOCRATE: Quale delle parti della virtù sceglieremo dunque? Non dobbiamo scegliere quella a cui si suppone che conduca l'arte del combattere in armatura? E non è essa comunemente ritenuta il coraggio?
+
+LACHETE: Sì, certamente.
+
+SOCRATE: Allora, Lachete, supponi che ci accingiamo prima a determinare la natura del coraggio, e in secondo luogo procediamo a indagare come i giovani possano conseguire questa qualità con l'aiuto di studi e occupazioni. Dimmi, se puoi, che cos'è il coraggio.
+
+LACHETE: In verità, Socrate, non vedo difficoltà a rispondere; è uomo di coraggio colui che non fugge, ma rimane al suo posto e combatte contro il nemico; su questo non ci può essere errore.
+
+SOCRATE: Benissimo, Lachete; eppure temo di non essermi espresso chiaramente; e perciò tu hai risposto non alla domanda che intendevo porre, ma a un'altra.
+
+LACHETE: Che cosa vuoi dire, Socrate?
+
+SOCRATE: Mi adoprerò a spiegarlo; tu chiameresti coraggioso un uomo che rimane al suo posto, e combatte contro il nemico?
+
+LACHETE: Certamente.
+
+SOCRATE: E anch'io; ma che diresti di un altro uomo, che combatte fuggendo, invece di rimanere?
+
+LACHETE: Come, fuggendo?
+
+SOCRATE: Ebbene, come si dice combattano gli Sciti, fuggendo non meno che inseguendo; e come Omero dice, lodando i cavalli di Enea, che essi sapevano «inseguire e fuggire rapidamente or qua or là»; ed egli fa l'elogio di Enea stesso, come di uno che ha conoscenza della paura o della fuga, e lo chiama «autore di paura o di fuga».
 
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -328,6 +502,140 @@ LACHES: I should like that.
 
 SOCRATES: Come then, Nicias, and do what you can to help your friends, who are tossing on the waves of argument, and at the last gasp: you see our extremity, and may save us and also settle your own opinion, if you will tell us what you think about courage.
 
+<span class="qlang-split" data-lang="it"></span>
+
+LACHETE: Sì, [Socrate](/figures/socrates), e qui Omero ha ragione: poiché egli parlava di carri, come tu parlavi della cavalleria scita, che ha quel modo di combattere; ma il Greco pesantemente armato combatte, come dico, rimanendo nella sua fila.
+
+SOCRATE: Eppure, Lachete, devi eccettuare i Lacedemoni a Platea, i quali, quando si trovarono di fronte agli scudi leggeri dei Persiani, si dice non fossero disposti a tener fermo e combattere, e fuggissero; ma quando le file dei Persiani si ruppero, si rivoltarono su di loro come cavalleria, e vinsero la battaglia di Platea.
+
+LACHETE: È vero.
+
+SOCRATE: Questo era il mio intendimento quando dissi di essere in colpa per aver posto male la mia domanda, e che questa era la ragione per cui rispondevi male. Poiché intendevo chiederti non solo del coraggio dei soldati pesantemente armati, ma del coraggio della cavalleria e di ogni altro genere di soldato; e non solo chi sia coraggioso in guerra, ma chi sia coraggioso nei pericoli del mare, e chi nella malattia, o nella povertà, o ancora nella politica sia coraggioso; e non solo chi sia coraggioso contro il dolore o la paura, ma potente nel contendere contro i desideri e i piaceri, sia che resti fermo nella sua fila sia che si rivolti contro il nemico. V'è questa sorta di coraggio — non è vero, Lachete?
+
+LACHETE: Certamente, Socrate.
+
+SOCRATE: E tutti questi sono coraggiosi, ma alcuni hanno coraggio nei piaceri, e alcuni nei dolori: alcuni nei desideri, e alcuni nelle paure, e alcuni sono codardi nelle medesime condizioni, come immaginerei.
+
+LACHETE: Verissimo.
+
+SOCRATE: Ora, io domandavo del coraggio e della codardia in generale. E comincerò col coraggio, e ancora una volta domando: Qual è quella qualità comune, che è la medesima in tutti questi casi, e che si chiama coraggio? Capisci ora ciò che intendo?
+
+LACHETE: Non troppo bene.
+
+SOCRATE: Intendo questo: come potrei domandare qual è quella qualità che si chiama rapidità, e che si trova nel correre, nel suonare la lira, nel parlare, nell'apprendere, e in molte altre azioni simili, o piuttosto che possediamo in quasi ogni azione degna di menzione delle braccia, delle gambe, della bocca, della voce, della mente; — non applicheresti il termine rapidità a tutte quante?
+
+LACHETE: Verissimo.
+
+SOCRATE: E supponi che qualcuno mi domandasse: Qual è quella qualità comune, Socrate, che, in tutti questi usi della parola, tu chiami rapidità? Direi la qualità che compie molto in poco tempo — sia nel correre, sia nel parlare, sia in qualunque altra sorta di azione.
+
+LACHETE: Avresti perfettamente ragione.
+
+SOCRATE: E ora, Lachete, prova anche tu a dirmi allo stesso modo: Qual è quella qualità comune che si chiama coraggio, e che include tutti i vari usi del termine quando è applicato tanto al piacere quanto al dolore, e in tutti i casi a cui or ora mi riferivo?
+
+LACHETE: Direi che il coraggio è una sorta di fermezza dell'anima, se devo parlare della natura universale che li pervade tutti.
+
+SOCRATE: Ma è ciò che dobbiamo fare se vogliamo rispondere alla domanda. Eppure non posso dire che ogni specie di fermezza sia, a mio parere, da ritenersi coraggio. Odi la mia ragione: sono sicuro, Lachete, che tu considereresti il coraggio una qualità assai nobile.
+
+LACHETE: Nobilissima, certamente.
+
+SOCRATE: E diresti che una fermezza saggia è anch'essa buona e nobile?
+
+LACHETE: Assai nobile.
+
+SOCRATE: Ma che diresti di una fermezza stolta? Non è essa, per contro, da ritenersi cattiva e dannosa?
+
+LACHETE: È vero.
+
+SOCRATE: Ed è nobile qualcosa che sia cattivo e dannoso?
+
+LACHETE: Non dovrei dirlo, Socrate.
+
+SOCRATE: Allora non ammetteresti quella sorta di fermezza come coraggio — poiché non è nobile, mentre il coraggio è nobile?
+
+LACHETE: Hai ragione.
+
+SOCRATE: Allora, secondo te, soltanto la fermezza saggia è coraggio?
+
+LACHETE: È vero.
+
+SOCRATE: Ma quanto all'epiteto «saggia», — saggia in che cosa? In tutte le cose, piccole non meno che grandi? Per esempio, se un uomo mostra la qualità della fermezza nello spendere saggiamente il suo denaro, sapendo che spendendo alla fine ne acquisterà di più, lo chiami coraggioso?
+
+LACHETE: Di certo no.
+
+SOCRATE: Oppure, per esempio, se un uomo è medico, e suo figlio, o qualche suo paziente, ha un'infiammazione dei polmoni, e supplica che gli sia concesso di mangiare o bere qualcosa, e l'altro è fermo e rifiuta; è questo coraggio?
+
+LACHETE: No; questo non è affatto coraggio, non più del precedente.
+
+SOCRATE: Ancora, prendi il caso di uno che tiene fermo in guerra, ed è disposto a combattere, e saggiamente calcola e sa che altri lo aiuteranno, e che contro di lui vi saranno uomini meno numerosi e inferiori di quanti siano con lui; e supponi che egli abbia anche vantaggi di posizione; diresti di uno siffatto, che tiene fermo con tutta questa saggezza e preparazione, che egli, oppure un uomo dell'esercito avverso che si trovi nelle circostanze opposte a queste e pure tiene fermo e rimane al suo posto, sia il più prode?
+
+LACHETE: Direi che quest'ultimo, Socrate, fosse il più prode.
+
+SOCRATE: Ma, certamente, questa è una fermezza stolta a paragone dell'altra?
+
+LACHETE: È vero.
+
+SOCRATE: Allora diresti che chi in uno scontro di cavalleria tiene fermo, avendo la conoscenza dell'equitazione, non è così coraggioso come chi tiene fermo non avendo tale conoscenza?
+
+LACHETE: Così direi.
+
+SOCRATE: E chi tiene fermo, avendo conoscenza dell'uso della fionda, o dell'arco, o di qualunque altra arte, non è così coraggioso come chi tiene fermo non avendo tale conoscenza?
+
+LACHETE: È vero.
+
+SOCRATE: E chi discende in un pozzo, e si tuffa, e resiste in questa o in qualunque azione simile, non avendo conoscenza del tuffarsi, o simili, è, come diresti, più coraggioso di quelli che hanno questa conoscenza?
+
+LACHETE: Ma via, Socrate, che altro può dire un uomo?
+
+SOCRATE: Nulla, se è questo ciò che pensa.
+
+LACHETE: Ma è questo ciò che io penso.
+
+SOCRATE: Eppure gli uomini che così corrono rischi e resistono sono stolti, Lachete, a paragone di quelli che fanno le medesime cose, avendo l'abilità di farle.
+
+LACHETE: È vero.
+
+SOCRATE: Ma la baldanza e la fermezza stolte ci apparvero prima basse e dannose.
+
+LACHETE: Verissimo.
+
+SOCRATE: Mentre il coraggio fu riconosciuto essere una qualità nobile.
+
+LACHETE: È vero.
+
+SOCRATE: E ora, per contro, stiamo dicendo che la fermezza stolta, che prima fu tenuta in disonore, è coraggio.
+
+LACHETE: Verissimo.
+
+SOCRATE: E abbiamo ragione a dir così?
+
+LACHETE: In verità, Socrate, sono sicuro che non abbiamo ragione.
+
+SOCRATE: Allora, secondo la tua affermazione, tu ed io, Lachete, non siamo accordati al modo dorico, che è un'armonia di parole e di opere; poiché le nostre opere non sono in accordo con le nostre parole. Chiunque direbbe che abbiamo coraggio se ci vedesse in azione, ma non, immagino, chi ci udisse poc'anzi discorrere del coraggio.
+
+LACHETE: Verissimo.
+
+SOCRATE: Ed è soddisfacente questa nostra condizione?
+
+LACHETE: Tutt'altro.
+
+SOCRATE: Supponiamo, tuttavia, di ammettere fino a un certo punto il principio di cui stiamo parlando.
+
+LACHETE: Fino a che punto e quale principio intendi?
+
+SOCRATE: Il principio della fermezza. Anche noi dobbiamo tener fermo e perseverare nell'indagine, e allora il coraggio non riderà della nostra pusillanimità nel cercare il coraggio; il quale, dopo tutto, potrebbe assai probabilmente essere fermezza.
+
+LACHETE: Sono pronto a proseguire, Socrate; eppure sono poco avvezzo a indagini di questa sorta. Ma lo spirito di contesa è stato ridestato in me da ciò che si è detto; e mi affligge davvero l'essere così incapace di esprimere il mio pensiero. Poiché mi pare di conoscere la natura del coraggio; ma, in un modo o nell'altro, essa mi è sfuggita, e non riesco ad afferrarla e a dirne la natura.
+
+SOCRATE: Ma, mio caro amico, non dovrebbe il buon cacciatore seguire la traccia, e non essere pigro?
+
+LACHETE: Certamente, dovrebbe.
+
+SOCRATE: E inviteremo Nicia a unirsi a noi? egli può essere miglior cacciatore di noi. Che ne dici?
+
+LACHETE: Mi piacerebbe.
+
+SOCRATE: Vieni allora, Nicia, e fa' ciò che puoi per aiutare i tuoi amici, che sono sbattuti sulle onde del ragionamento, e all'ultimo respiro: vedi la nostra difficoltà estrema, e puoi salvarci e insieme fissare la tua stessa opinione, se vorrai dirci ciò che pensi intorno al coraggio.
+
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 NICIAS: I have been thinking, [Socrates](/figures/socrates), that you and Laches are not defining courage in the right way; for you have forgotten an excellent saying which I have heard from your own lips.
@@ -446,6 +754,124 @@ NICIAS: Not so, Laches, but do not be alarmed; for I am quite willing to say of 
 
 LACHES: I could answer that; but I would not have you cast in my teeth that I am a haughty Aexonian.
 
+<span class="qlang-split" data-lang="it"></span>
+
+NICIA: Ho riflettuto, [Socrate](/figures/socrates), che tu e Lachete non state definendo il coraggio nel modo giusto; avete infatti dimenticato un'eccellente massima che ho udito dalle tue stesse labbra.
+
+SOCRATE: Di che si tratta, Nicia?
+
+NICIA: Ti ho spesso sentito dire che «ogni uomo è buono in ciò in cui è sapiente, e cattivo in ciò in cui è ignorante».
+
+SOCRATE: Questo è certamente vero, Nicia.
+
+NICIA: E dunque, se l'uomo coraggioso è buono, egli è anche sapiente.
+
+SOCRATE: Lo senti, Lachete?
+
+LACHETE: Sì, lo sento, ma non lo comprendo troppo bene.
+
+SOCRATE: Io credo di comprenderlo; e mi pare che egli intenda dire che il coraggio è una sorta di sapienza.
+
+LACHETE: Che cosa può mai voler dire, Socrate?
+
+SOCRATE: Questa è una domanda che devi rivolgere a lui stesso.
+
+LACHETE: Già.
+
+SOCRATE: Dicci allora, Nicia, che cosa intendi per questa sapienza; ché di certo non intendi la sapienza che suona il flauto?
+
+NICIA: Certamente no.
+
+SOCRATE: E nemmeno la sapienza che suona la lira?
+
+NICIA: No.
+
+SOCRATE: Ma qual è dunque questa scienza, e di che cosa?
+
+LACHETE: Credo che tu gli ponga la domanda assai bene, Socrate; e vorrei che egli dicesse quale sia la natura di questa scienza o sapienza.
+
+NICIA: Voglio dire, Lachete, che il coraggio è la scienza di ciò che ispira timore o fiducia in guerra, o in qualunque altra cosa.
+
+LACHETE: Come parla stranamente, Socrate.
+
+SOCRATE: Perché lo dici, Lachete?
+
+LACHETE: Ma certo, il coraggio è una cosa e la sapienza un'altra.
+
+SOCRATE: È proprio questo che Nicia nega.
+
+LACHETE: Sì, è questo che nega; ma è così sciocco.
+
+SOCRATE: E se, invece di ingiuriarlo, lo istruissimo?
+
+NICIA: Lachete non vuole istruirmi, Socrate; ma, essendosi dimostrato che egli stesso diceva sciocchezze, vuole dimostrare che io ho fatto altrettanto.
+
+LACHETE: Verissimo, Nicia; e tu dici sciocchezze, come cercherò di mostrare. Lascia che ti ponga una domanda: non conoscono forse i medici i pericoli della malattia? oppure li conoscono i coraggiosi? o forse i medici sono la stessa cosa dei coraggiosi?
+
+NICIA: Niente affatto.
+
+LACHETE: Non più dei contadini che conoscono i pericoli dell'agricoltura, o di altri artigiani, i quali hanno conoscenza di ciò che ispira loro timore o fiducia nelle proprie arti, e tuttavia non sono per questo minimamente più coraggiosi.
+
+SOCRATE: Che dice Lachete, Nicia? Pare che dica qualcosa d'importante.
+
+NICIA: Sì, dice qualcosa, ma non è vero.
+
+SOCRATE: E come mai?
+
+NICIA: Ebbene, perché egli non vede che la conoscenza del medico si estende soltanto alla natura della salute e della malattia: al malato non può dire nulla più di questo. Immagini forse, Lachete, che il medico sappia se sia la salute o la malattia la cosa più terribile per un uomo? Non sarebbe forse meglio, per molti, non levarsi mai dal letto di malattia? Vorrei sapere se tu ritieni che la vita sia sempre migliore della morte. Non è forse spesso la morte la migliore delle due?
+
+LACHETE: Sì, certamente è così, a mio parere.
+
+NICIA: E credi tu che le medesime cose siano terribili per coloro ai quali sarebbe meglio morire e per coloro ai quali sarebbe meglio vivere?
+
+LACHETE: Certamente no.
+
+NICIA: E supponi tu che il medico o qualsiasi altro esperto sappia questo, o chiunque altro, se non colui che è versato nei fondamenti del timore e della speranza? E costui io lo chiamo il coraggioso.
+
+SOCRATE: Comprendi ciò che vuol dire, Lachete?
+
+LACHETE: Sì; suppongo che, nel suo modo di parlare, gli indovini siano coraggiosi. Chi infatti, se non uno di loro, può sapere per chi sia meglio morire o vivere? E tuttavia, Nicia, ammetteresti di essere tu stesso un indovino, oppure non sei né indovino né coraggioso?
+
+NICIA: Come! vuoi forse dire che l'indovino dovrebbe conoscere i fondamenti della speranza o del timore?
+
+LACHETE: Proprio così: chi altri se non lui?
+
+NICIA: Direi piuttosto colui di cui io parlo; ché l'indovino deve conoscere soltanto i segni delle cose che stanno per accadere, siano esse morte o malattia, o perdita di beni, o vittoria, o sconfitta in guerra, o in qualunque genere di contesa; ma per chi il patire o il non patire tali cose sarà il meglio, ciò non può essere deciso dall'indovino più di quanto lo possa da chi indovino non è.
+
+LACHETE: Non riesco a capire dove voglia arrivare Nicia, Socrate; ché egli raffigura l'uomo coraggioso come né indovino, né medico, né in alcun'altra veste, a meno che non voglia dire che è un dio. La mia opinione è che egli non ami confessare onestamente di dire sciocchezze, ma che si dimeni avanti e indietro per nascondere la difficoltà in cui si è cacciato. Tu e io, Socrate, avremmo potuto praticare poco fa un simile dimenarci, se solo avessimo voluto evitare l'apparenza dell'incoerenza. E se avessimo discusso in un tribunale vi sarebbe stata ragione di farlo; ma perché mai un uomo dovrebbe agghindarsi di vane parole in un ritrovo di amici come questo?
+
+SOCRATE: Convengo pienamente con te, Lachete, che non dovrebbe. Ma forse Nicia parla sul serio, e non tanto per parlare. Chiediamogli semplicemente di spiegare ciò che intende, e se ha ragione dalla sua converremo con lui; altrimenti lo istruiremo.
+
+LACHETE: Chiediglielo tu, Socrate, se vuoi: io credo di aver domandato abbastanza.
+
+SOCRATE: Non vedo perché non dovrei; e la mia domanda varrà per entrambi.
+
+LACHETE: Benissimo.
+
+SOCRATE: Dimmi allora, Nicia, o meglio, dicci, poiché Lachete e io siamo soci nel ragionamento: intendi affermare che il coraggio è la scienza dei fondamenti della speranza e del timore?
+
+NICIA: Sì.
+
+SOCRATE: E non ogni uomo possiede questa scienza; il medico e l'indovino non la possiedono; e non saranno coraggiosi se non la acquisiscono — è questo che dicevi?
+
+NICIA: È questo.
+
+SOCRATE: Allora questa non è certo cosa che ogni porco saprebbe, come dice il proverbio, e perciò esso non potrebbe essere coraggioso.
+
+NICIA: Credo di no.
+
+SOCRATE: Evidentemente no, Nicia; neppure un porco così grande come la scrofa di Crommione sarebbe da te chiamato coraggioso. E questo lo dico non per scherzo, ma perché ritengo che chi acconsente alla tua dottrina, che il coraggio è la scienza dei fondamenti del timore e della speranza, non possa ammettere che alcuna bestia selvaggia sia coraggiosa, a meno che non ammetta che un leone, o un leopardo, o forse un cinghiale, o qualunque altro animale, possieda un tal grado di sapienza da conoscere cose che ben pochi esseri umani conoscono, per la loro difficoltà. Chi accetta la tua concezione del coraggio deve affermare che un leone, e un cervo, e un toro, e una scimmia hanno ugualmente scarse pretese al coraggio.
+
+LACHETE: Magnifico, Socrate; per gli dèi, questo è davvero bello. E spero, Nicia, che ci dirai se questi animali, che tutti ammettiamo essere coraggiosi, siano realmente più sapienti del genere umano; o se avrai l'ardire, a dispetto dell'opinione universale, di negare il loro coraggio.
+
+NICIA: Ebbene, Lachete, io non chiamo coraggiosi gli animali né alcun'altra cosa che non abbia timore dei pericoli perché li ignora, ma solo intrepidi e insensati. Immagini forse che io chiami coraggiosi i fanciullini, che non temono alcun pericolo perché non ne conoscono? Vi è una differenza, a mio modo di vedere, tra l'assenza di paura e il coraggio. Sono dell'opinione che il coraggio riflessivo sia una qualità posseduta da pochissimi, ma che la temerarietà e l'audacia, e l'intrepidezza priva di previdenza, siano qualità assai comuni, possedute da molti uomini, molte donne, molti fanciulli, molti animali. E tu, e gli uomini in generale, chiamate con il termine «coraggiose» azioni che io chiamo temerarie; — le mie azioni coraggiose sono azioni sapienti.
+
+LACHETE: Guarda, Socrate, con quanta ammirevole abilità, a suo giudizio, egli si agghinda di parole, mentre cerca di privare dell'onore del coraggio coloro che il mondo intero riconosce coraggiosi.
+
+NICIA: Non è così, Lachete, ma non allarmarti; ché sono ben disposto a dire di te e anche di Lamaco, e di molti altri Ateniesi, che siete coraggiosi e perciò sapienti.
+
+LACHETE: Potrei ribattere a questo; ma non vorrei che tu mi rinfacciassi di essere un altezzoso Aexonio.
+
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Do not answer him, Laches; I rather fancy that you are not aware of the source from which his wisdom is derived. He has got all this from my friend Damon, and Damon is always with Prodicus, who, of all the Sophists, is considered to be the best puller to pieces of words of this sort.
@@ -546,6 +972,106 @@ NICIAS: To that I quite agree, if Socrates is willing to take them under his cha
 
 LYSIMACHUS: He ought, Nicias: for certainly I would do things for him which I would not do for many others. What do you say, Socrates — will you comply? And are you ready to give assistance in the improvement of the youths?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Non rispondergli, Lachete; sono piuttosto propenso a credere che tu non ti renda conto della fonte da cui deriva la sua sapienza. Egli ha appreso tutto questo dal mio amico Damone, e Damone sta sempre con Prodico, il quale, fra tutti i Sofisti, è ritenuto il più abile nel sminuzzare parole di questo genere.
+
+LACHETE: Sì, Socrate; e l'esame di simili sottigliezze è un'occupazione assai più adatta a un Sofista che a un grande uomo di Stato, che la città sceglie perché la governi.
+
+SOCRATE: Sì, mio dolce amico, ma è probabile che un grande uomo di Stato abbia una grande intelligenza. E credo che la concezione implicita nella definizione del coraggio data da Nicia sia degna d'esame.
+
+LACHETE: Allora esaminala tu stesso, Socrate.
+
+SOCRATE: È ciò che sto per fare, mio caro amico. Non supporre, però, che ti lascerò uscire dalla società; ché mi aspetto che tu applichi la mente e ti unisca a me nell'esame della questione.
+
+LACHETE: Lo farò, se ritieni che io debba.
+
+SOCRATE: Sì, lo ritengo; ma devo pregarti, Nicia, di ricominciare. Ricordi che in origine consideravamo il coraggio come una parte della virtù.
+
+NICIA: Verissimo.
+
+SOCRATE: E tu stesso dicevi che era una parte; e vi erano molte altre parti, tutte le quali, prese insieme, si chiamano virtù.
+
+NICIA: Certamente.
+
+SOCRATE: Concordi con me riguardo alle parti? Io dico infatti che la giustizia, la temperanza e simili sono tutte, al pari del coraggio, parti della virtù. Non diresti lo stesso?
+
+NICIA: Certamente.
+
+SOCRATE: Ebbene, fin qui siamo d'accordo. E ora procediamo di un passo, e cerchiamo di giungere a un simile accordo intorno a ciò che è temibile e a ciò che è sperabile: non voglio che tu pensi una cosa e io un'altra. Lascia dunque che ti dica la mia opinione, e se sbaglio mi correggerai: a mio parere le cose terribili e quelle sperabili sono le cose che creano o non creano timore, e il timore non riguarda il presente, né il passato, ma il male futuro e atteso. Non ne convieni, Lachete?
+
+LACHETE: Sì, Socrate, pienamente.
+
+SOCRATE: Questa è la mia veduta, Nicia; le cose terribili, direi, sono i mali che sono futuri; e le cose sperabili sono i beni, o le cose non malvagie, che sono future. Concordi o no con me?
+
+NICIA: Concordo.
+
+SOCRATE: E la scienza di queste cose tu la chiami coraggio?
+
+NICIA: Precisamente.
+
+SOCRATE: E ora vediamo se concordi con Lachete e con me su un terzo punto.
+
+NICIA: Quale?
+
+SOCRATE: Te lo dirò. Egli e io abbiamo l'idea che non vi sia una scienza o conoscenza del passato, un'altra del presente, una terza di ciò che con ogni probabilità sarà il meglio e che sarà il meglio nel futuro; ma che di tutte e tre vi sia una sola scienza: per esempio, vi è un'unica scienza della medicina che si occupa dell'esame della salute egualmente in tutti i tempi, presente, passato e futuro; e parimenti un'unica scienza dell'agricoltura, che si occupa dei prodotti della terra in tutti i tempi. Quanto all'arte del generale, voi stessi mi sarete testimoni che egli ha un'eccellente preveggenza del futuro, e che pretende di essere il padrone e non il servo dell'indovino, poiché sa meglio ciò che accade o che è probabile accada in guerra: e di conseguenza la legge pone l'indovino sotto il generale, e non il generale sotto l'indovino. Non ho ragione a dire così, Lachete?
+
+LACHETE: Del tutto esatto.
+
+SOCRATE: E anche tu, Nicia, riconosci che la medesima scienza ha comprensione delle medesime cose, siano esse future, presenti o passate?
+
+NICIA: Sì, davvero, Socrate; questa è la mia opinione.
+
+SOCRATE: E il coraggio, amico mio, è, come dici, una scienza del temibile e dello sperabile?
+
+NICIA: Sì.
+
+SOCRATE: E il temibile e lo sperabile si ammette che siano beni futuri e mali futuri?
+
+NICIA: Vero.
+
+SOCRATE: E la medesima scienza si occupa delle medesime cose nel futuro o in qualsiasi tempo?
+
+NICIA: È vero.
+
+SOCRATE: Allora il coraggio non è la scienza che si occupa del temibile e dello sperabile, poiché questi sono soltanto futuri; il coraggio, come le altre scienze, si occupa non solo del bene e del male del futuro, ma anche del presente e del passato, e di qualsiasi tempo?
+
+NICIA: Questo, suppongo, è vero.
+
+SOCRATE: Allora la risposta che hai dato, Nicia, comprende soltanto una terza parte del coraggio; ma la nostra domanda si estendeva all'intera natura del coraggio: e secondo la tua veduta, cioè secondo la tua veduta attuale, il coraggio non è solo la scienza dello sperabile e del temibile, ma pare comprendere quasi ogni bene e male senza riferimento al tempo. Che dici di questa modifica alla tua affermazione?
+
+NICIA: Concordo, Socrate.
+
+SOCRATE: Ma allora, mio caro amico, se un uomo conoscesse ogni bene e ogni male, e come sono, sono stati e saranno prodotti, non sarebbe egli perfetto, e non mancante di alcuna virtù, sia essa giustizia, o temperanza, o santità? Le possiederebbe tutte, e saprebbe quali fossero pericoli e quali no, e si guarderebbe da essi, fossero sovrannaturali o naturali; e procurerebbe il bene, poiché saprebbe come trattare tanto con gli dèi quanto con gli uomini.
+
+NICIA: Credo, Socrate, che vi sia molta verità in ciò che dici.
+
+SOCRATE: Ma allora, Nicia, il coraggio, secondo questa tua nuova definizione, invece di essere soltanto una parte della virtù, sarà tutta la virtù?
+
+NICIA: Parrebbe di sì.
+
+SOCRATE: Ma dicevamo che il coraggio è una delle parti della virtù?
+
+NICIA: Sì, è ciò che dicevamo.
+
+SOCRATE: E ciò è in contraddizione con la nostra veduta attuale?
+
+NICIA: Pare che sia così.
+
+SOCRATE: Allora, Nicia, non abbiamo scoperto che cosa sia il coraggio.
+
+NICIA: Non l'abbiamo scoperto.
+
+LACHETE: Eppure, amico Nicia, immaginavo che l'avresti fatta tu, la scoperta, quando eri così sprezzante verso le risposte che io davo a Socrate. Nutrivo grandissime speranze che saresti stato illuminato dalla sapienza di Damone.
+
+NICIA: Vedo, Lachete, che tu non fai alcun conto di aver messo in mostra la tua ignoranza intorno alla natura del coraggio, ma badi solo a vedere se io non abbia fatto una mostra simile; e se siamo entrambi egualmente ignoranti delle cose che un uomo buono a qualcosa dovrebbe sapere, ciò, suppongo, non avrà importanza. Mi appari certamente assai simile al resto del mondo, che guarda il proprio vicino e non sé stesso. Sono dell'opinione che si sia detto abbastanza sull'argomento di cui abbiamo discusso; e se qualcosa è stato detto imperfettamente, potrà d'ora innanzi essere corretto con l'aiuto di Damone, che tu credi di poter deridere, benché tu non l'abbia mai visto, e con l'aiuto di altri. E quando ne sarò io stesso soddisfatto, comunicherò volentieri a te la mia soddisfazione, poiché ritengo che tu abbia gran bisogno di sapere.
+
+LACHETE: Sei un filosofo, Nicia; di questo mi rendo conto: ciononostante raccomanderei a Lisimaco e a Melesia di non prendere te e me come consiglieri intorno all'[educazione](/concepts/education) dei loro figli; ma, come dissi da principio, dovrebbero chiederlo a Socrate e non lasciarlo andare; se i miei stessi figli fossero abbastanza grandi, glielo avrei chiesto io stesso.
+
+NICIA: A questo convengo pienamente, se Socrate è disposto a prenderli sotto la sua cura. Non desidererei nessun altro come precettore di Nicerato. Ma osservo che, quando gliene parlo, egli mi raccomanda qualche altro precettore e rifiuta sé stesso. Forse sarà più disposto ad ascoltare te, Lisimaco.
+
+LISIMACO: Dovrebbe, Nicia: ché certamente farei per lui cose che non farei per molti altri. Che dici, Socrate — acconsentirai? E sei pronto a prestare aiuto nel miglioramento dei giovani?
+
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Indeed, Lysimachus, I should be very wrong in refusing to aid in the improvement of anybody. And if I had shown in this conversation that I had a knowledge which Nicias and Laches have not, then I admit that you would be right in inviting me to perform this duty; but as we are all in the same perplexity, why should one of us be preferred to another? I certainly think that no one should; and under these circumstances, let me offer you a piece of advice (and this need not go further than ourselves). I maintain, my friends, that every one of us should seek out the best teacher whom he can find, first for ourselves, who are greatly in need of one, and then for the youth, regardless of expense or anything. But I cannot advise that we remain as we are. And if any one laughs at us for going to school at our age, I would quote to them the authority of Homer, who says, that
@@ -557,3 +1083,15 @@ Let us then, regardless of what may be said of us, make the [education](/concept
 LYSIMACHUS: I like your proposal, Socrates; and as I am the oldest, I am also the most eager to go to school with the boys. Let me beg a favour of you: Come to my house to-morrow at dawn, and we will advise about these matters. For the present, let us make an end of the conversation.
 
 SOCRATES: I will come to you to-morrow, Lysimachus, as you propose, God willing.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Davvero, Lisimaco, avrei gran torto a rifiutarmi di aiutare al miglioramento di chicchessia. E se avessi mostrato in questa conversazione di possedere una scienza che Nicia e Lachete non hanno, allora ammetto che avreste ragione a invitarmi a compiere questo dovere; ma poiché siamo tutti nella medesima perplessità, perché uno di noi dovrebbe essere preferito a un altro? Io ritengo di certo che nessuno dovrebbe esserlo; e stando così le cose, lasciate che vi offra un consiglio (e questo non deve andare oltre noi stessi). Sostengo, amici miei, che ciascuno di noi dovrebbe cercarsi il miglior maestro che possa trovare, prima per noi stessi, che ne abbiamo gran bisogno, e poi per i giovani, senza badare a spese né ad altro. Ma non posso consigliare che rimaniamo come siamo. E se qualcuno ride di noi perché andiamo a scuola alla nostra età, gli citerei l'autorità di Omero, il quale dice che
+
+«la modestia non è buona per l'uomo bisognoso».
+
+Facciamo dunque, incuranti di ciò che si possa dire di noi, dell'[educazione](/concepts/education) dei giovani la nostra propria educazione.
+
+LISIMACO: Mi piace la tua proposta, Socrate; e poiché sono il più vecchio, sono anche il più desideroso di andare a scuola con i ragazzi. Lascia che ti chieda un favore: vieni a casa mia domani all'alba, e delibereremo su queste cose. Per ora, poniamo fine alla conversazione.
+
+SOCRATE: Verrò da te domani, Lisimaco, come proponi, a Dio piacendo.

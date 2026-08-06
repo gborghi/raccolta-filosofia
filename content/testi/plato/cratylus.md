@@ -142,6 +142,128 @@ SOCRATES: Then the actions also are done according to their proper nature, and n
 
 HERMOGENES: I should say that the natural way is the right way.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO: [Socrate](/figures/socrates), Ermogene, Cratilo.
+
+ERMOGENE: E se rendessimo Socrate partecipe della discussione?
+
+CRATILO: Se ti fa piacere.
+
+ERMOGENE: Devo spiegarti, Socrate, che il nostro amico Cratilo è andato disputando intorno ai [nomi](/positions/nominalism); egli sostiene che essi sono naturali e non convenzionali; non una porzione della voce umana che gli uomini convengono di usare, ma che vi è in essi una verità o correttezza, la stessa per gli Elleni come per i barbari. Al che io gli chiedo se il suo nome, Cratilo, sia un nome vero oppure no, ed egli risponde «Sì». E Socrate? «Sì». Allora il nome di ogni uomo, gli dico, è quello con cui viene chiamato. A questo egli replica: «Se tutto il mondo ti chiamasse Ermogene, quello non sarebbe il tuo nome». E quando sono ansioso di averne una spiegazione più ampia, egli si fa ironico e misterioso, e sembra dar a intendere di avere una sua propria idea sulla questione, se solo volesse dirla, e potrebbe convincermi del tutto, se scegliesse di essere intelligibile. Dimmi, Socrate, che cosa significhi questo oracolo; o piuttosto dimmi, se vorrai essere così cortese, qual è la tua stessa opinione sulla verità o correttezza dei nomi, che di gran lunga preferirei udire.
+
+SOCRATE: Figlio di Ipponico, vi è un antico detto secondo cui «ardua è la conoscenza del bene». E la conoscenza dei nomi è gran parte della conoscenza. Se non fossi stato povero, avrei potuto seguire il corso da cinquanta dracme del grande Prodico, che è una compiuta [educazione](/concepts/education) nella grammatica e nel linguaggio — sono sue proprie parole — e allora sarei stato subito in grado di rispondere alla tua domanda sulla correttezza dei nomi. Ma, per la verità, ho seguito soltanto il corso da una dracma, e perciò non conosco la verità su tali materie; nondimeno ti assisterò volentieri, te e Cratilo, nell'indagine di esse. Quando egli dichiara che il tuo nome non è veramente Ermogene, sospetto che stia soltanto prendendosi gioco di te; — vuol dire che tu non sei un vero figlio di Ermes, perché sei sempre in cerca di fortuna e non hai mai fortuna. Ma, come dicevo, vi è non poca difficoltà in questa sorta di conoscenza, e perciò faremo meglio a lasciare la questione aperta finché non avremo udito entrambe le parti.
+
+ERMOGENE: Ho discusso spesso di questa faccenda, sia con Cratilo sia con altri, e non riesco a convincermi che vi sia alcun principio di correttezza nei nomi al di fuori della convenzione e dell'accordo; qualsiasi nome tu dia, a mio parere, è quello giusto, e se lo cambi e ne dai un altro, il nome nuovo è corretto quanto il vecchio — noi cambiamo di frequente i nomi dei nostri schiavi, e il nome appena imposto è buono quanto il vecchio: poiché non vi è alcun nome dato a cosa alcuna per natura; tutto è convenzione e [abitudine](/concepts/custom) di chi li usa; — tale è la mia opinione. Ma se sbaglio, sarò felice di udire e imparare da Cratilo, o da chiunque altro.
+
+SOCRATE: Può ben darsi che tu abbia ragione, Ermogene: vediamo; — il tuo intento è che il nome di ciascuna cosa sia soltanto quello con cui chiunque conviene di chiamarla?
+
+ERMOGENE: Questa è la mia idea.
+
+SOCRATE: Sia che colui che dà il nome sia un individuo o una città?
+
+ERMOGENE: Sì.
+
+SOCRATE: Ebbene, ora, prendiamo un esempio; — supponi che io chiami un uomo cavallo o un cavallo uomo, tu intendi dire che un uomo sarà rettamente chiamato cavallo da me individualmente, e rettamente chiamato uomo dal resto del mondo; e un cavallo, a sua volta, sarà rettamente chiamato uomo da me e cavallo dal mondo: — è questo il tuo intento?
+
+ERMOGENE: Lo sarebbe, secondo il mio parere.
+
+SOCRATE: Ma allora, che ne è della verità? Riconosceresti che vi è nelle parole un vero e un falso?
+
+ERMOGENE: Certamente.
+
+SOCRATE: E vi sono proposizioni vere e false?
+
+ERMOGENE: Di sicuro.
+
+SOCRATE: E una proposizione vera dice ciò che è, e una proposizione falsa dice ciò che non è?
+
+ERMOGENE: Sì; quale altra risposta è possibile?
+
+SOCRATE: Allora in una proposizione vi è un vero e un falso?
+
+ERMOGENE: Certamente.
+
+SOCRATE: Ma una proposizione è vera soltanto nel suo insieme, e le parti sono false?
+
+ERMOGENE: No; le parti sono vere non meno dell'insieme.
+
+SOCRATE: Diresti le parti grandi e non quelle più piccole, oppure ogni parte?
+
+ERMOGENE: Direi che ogni parte è vera.
+
+SOCRATE: Una proposizione è risolvibile in qualche parte più piccola di un nome?
+
+ERMOGENE: No; quella è la più piccola.
+
+SOCRATE: Allora il nome è una parte della proposizione vera?
+
+ERMOGENE: Sì.
+
+SOCRATE: Sì, e una parte vera, come dici tu.
+
+ERMOGENE: Sì.
+
+SOCRATE: E la parte di una falsità non è forse anch'essa una falsità?
+
+ERMOGENE: Sì.
+
+SOCRATE: Allora, se le proposizioni possono essere vere e false, i nomi possono essere veri e falsi?
+
+ERMOGENE: Così dobbiamo inferire.
+
+SOCRATE: E il nome di una cosa è quello che chiunque afferma essere il nome?
+
+ERMOGENE: Sì.
+
+SOCRATE: E vi saranno tanti nomi di ciascuna cosa quanti chiunque dice che ve ne siano? e saranno nomi veri nel momento in cui vengono pronunciati?
+
+ERMOGENE: Sì, Socrate, non posso concepire alcuna correttezza dei nomi al di fuori di questa; tu dai un nome, e io un altro; e in diverse città e paesi vi sono nomi diversi per le stesse cose; gli Elleni differiscono dai barbari nell'uso dei nomi, e le varie tribù elleniche l'una dall'altra.
+
+SOCRATE: Ma diresti tu, Ermogene, che le cose differiscono come differiscono i nomi? e che esse sono relative agli individui, come ci dice Protagora? Poiché egli dice che l'uomo è la misura di tutte le cose, e che le cose sono per me quali appaiono a me, e sono per te quali appaiono a te. Concordi con lui, oppure diresti che le cose hanno una propria permanente essenza?
+
+ERMOGENE: Vi sono stati momenti, Socrate, in cui, nella mia perplessità, sono stato spinto a rifugiarmi in Protagora; non che io concordi affatto con lui.
+
+SOCRATE: Come! Sei mai stato spinto ad ammettere che non esistesse cosa alcuna come un uomo cattivo?
+
+ERMOGENE: No, davvero; ma ho spesso avuto ragione di pensare che vi sono uomini assai cattivi, e in buon numero.
+
+SOCRATE: Ebbene, e ne hai mai trovati di assai buoni?
+
+ERMOGENE: Non molti.
+
+SOCRATE: Eppure ne hai trovati?
+
+ERMOGENE: Sì.
+
+SOCRATE: E riterresti che gli assai buoni siano gli assai saggi, e gli assai malvagi assai stolti? Sarebbe questa la tua opinione?
+
+ERMOGENE: Lo sarebbe.
+
+SOCRATE: Ma se Protagora ha ragione, e la verità è che le cose sono quali appaiono a ciascuno, come possono alcuni di noi essere saggi e altri stolti?
+
+ERMOGENE: Impossibile.
+
+SOCRATE: E se, d'altra parte, saggezza e stoltezza sono realmente distinguibili, ammetterai, credo, che l'asserzione di Protagora difficilmente può essere corretta. Poiché, se ciò che appare a ciascun uomo è vero per lui, un uomo non può in realtà essere più saggio di un altro.
+
+ERMOGENE: Non può.
+
+SOCRATE: Né sarai disposto a dire con Eutidemo che tutte le cose appartengono egualmente a tutti gli uomini nel medesimo istante e sempre; poiché neppure secondo la sua opinione possono esservi alcuni buoni e altri cattivi, se la virtù e il vizio sono sempre da attribuirsi egualmente a tutti.
+
+ERMOGENE: Non possono esservi.
+
+SOCRATE: Ma se nessuno dei due ha ragione, e le cose non sono relative agli individui, e tutte le cose non appartengono egualmente a tutti nel medesimo istante e sempre, si deve allora supporre che esse abbiano una loro propria e permanente essenza: esse non sono in relazione a noi, né influenzate da noi, fluttuanti secondo il nostro capriccio, ma sono indipendenti, e mantengono verso la loro propria essenza la relazione prescritta dalla natura.
+
+ERMOGENE: Credo, Socrate, che tu abbia detto il vero.
+
+SOCRATE: Ciò che sto dicendo si applica soltanto alle cose stesse, oppure egualmente alle azioni che procedono da esse? Non sono forse anche le azioni una classe di enti?
+
+ERMOGENE: Sì, le azioni sono reali non meno delle cose.
+
+SOCRATE: Allora anche le azioni sono compiute secondo la loro propria natura, e non secondo la nostra opinione di esse? Nel tagliare, per esempio, non tagliamo come ci piace, e con un qualsiasi strumento [casuale](/concepts/fortune); ma tagliamo soltanto con lo strumento proprio, e secondo il naturale processo del tagliare; e il naturale processo è retto e riuscirà, mentre qualsiasi altro fallirà e non sarà di alcuna utilità.
+
+ERMOGENE: Direi che la via naturale è la via giusta.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Again, in burning, not every way is the right way; but the right way is the natural way, and the right instrument the natural instrument.
@@ -354,6 +476,218 @@ HERMOGENES: That is true.
 
 SOCRATES: Then, Hermogenes, I should say that this giving of names can be no such light matter as you fancy, or the work of light or [chance](/concepts/fortune) persons; and Cratylus is right in saying that things have names by nature, and that not every man is an artificer of names, but he only who looks to the name which each thing by nature has, and is able to express the true forms of things in letters and syllables.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Di nuovo, nel bruciare, non ogni via è la via giusta; ma la via giusta è la via naturale, e lo strumento giusto lo strumento naturale.
+
+ERMOGENE: Vero.
+
+SOCRATE: E questo vale per tutte le azioni?
+
+ERMOGENE: Sì.
+
+SOCRATE: E parlare è una sorta di azione?
+
+ERMOGENE: Vero.
+
+SOCRATE: E parlerà correttamente chi parla come gli piace? Non sarà piuttosto il parlatore ben riuscito colui che parla nel modo naturale del parlare, e come le cose devono essere dette, e con lo strumento naturale? Ogni altro modo di parlare risulterà in errore e insuccesso.
+
+ERMOGENE: Concordo pienamente con te.
+
+SOCRATE: E il nominare non è forse una parte del parlare? poiché nel dare i [nomi](/positions/nominalism) gli uomini parlano.
+
+ERMOGENE: Questo è vero.
+
+SOCRATE: E se il parlare è una sorta di azione e ha una relazione con gli atti, non è anche il nominare una sorta di azione?
+
+ERMOGENE: Vero.
+
+SOCRATE: E abbiamo visto che le azioni non sono relative a noi stessi, ma hanno una loro speciale natura propria?
+
+ERMOGENE: Precisamente.
+
+SOCRATE: Allora l'argomento ci condurrebbe a inferire che i nomi devono essere dati secondo un processo naturale, e con lo strumento appropriato, e non a nostro piacimento: in questo modo e non altrimenti nomineremo con successo.
+
+ERMOGENE: Concordo.
+
+SOCRATE: Ma di nuovo, ciò che deve essere tagliato deve essere tagliato con qualcosa?
+
+ERMOGENE: Sì.
+
+SOCRATE: E ciò che deve essere tessuto o forato deve essere tessuto o forato con qualcosa?
+
+ERMOGENE: Certamente.
+
+SOCRATE: E ciò che deve essere nominato deve essere nominato con qualcosa?
+
+ERMOGENE: Vero.
+
+SOCRATE: Qual è quello con cui foriamo?
+
+ERMOGENE: Un punteruolo.
+
+SOCRATE: E quello con cui tessiamo?
+
+ERMOGENE: Una spola.
+
+SOCRATE: E quello con cui nominiamo?
+
+ERMOGENE: Un nome.
+
+SOCRATE: Benissimo: allora un nome è uno strumento?
+
+ERMOGENE: Certamente.
+
+SOCRATE: Supponi che io chieda: «Che sorta di strumento è una spola?». E tu rispondi: «Uno strumento da tessitura».
+
+ERMOGENE: Bene.
+
+SOCRATE: E chiedo di nuovo: «Che cosa facciamo quando tessiamo?». — La risposta è che separiamo o disgiungiamo l'ordito dalla trama.
+
+ERMOGENE: Verissimo.
+
+SOCRATE: E non si può forse dare una descrizione simile di un punteruolo, e degli strumenti in generale?
+
+ERMOGENE: Di sicuro.
+
+SOCRATE: E ora supponi che io ponga una domanda simile sui nomi: mi risponderai? Considerando il nome come uno strumento, che cosa facciamo quando nominiamo?
+
+ERMOGENE: Non saprei dirlo.
+
+SOCRATE: Non diamo forse informazione l'uno all'altro, e non distinguiamo le cose secondo le loro nature?
+
+ERMOGENE: Certamente lo facciamo.
+
+SOCRATE: Allora un nome è uno strumento dell'insegnare e del distinguere le nature, come la spola lo è del distinguere i fili della tela.
+
+ERMOGENE: Sì.
+
+SOCRATE: E la spola è lo strumento del tessitore?
+
+ERMOGENE: Assolutamente.
+
+SOCRATE: Allora il tessitore userà bene la spola — e bene significa da tessitore? e il maestro userà bene il nome — e bene significa da maestro?
+
+ERMOGENE: Sì.
+
+SOCRATE: E quando il tessitore usa la spola, di chi userà bene l'opera?
+
+ERMOGENE: Quella del falegname.
+
+SOCRATE: E ogni uomo è falegname, oppure soltanto chi è esperto?
+
+ERMOGENE: Soltanto chi è esperto.
+
+SOCRATE: E quando il foratore usa il punteruolo, di chi userà bene l'opera?
+
+ERMOGENE: Quella del fabbro.
+
+SOCRATE: Ed ogni uomo è fabbro, oppure soltanto chi è esperto?
+
+ERMOGENE: Soltanto chi è esperto.
+
+SOCRATE: E quando il maestro usa il nome, di chi userà l'opera?
+
+ERMOGENE: Anche qui sono in imbarazzo.
+
+SOCRATE: Non puoi almeno dire chi ci dà i nomi che usiamo?
+
+ERMOGENE: Davvero non posso.
+
+SOCRATE: Non ti sembra che sia la legge a darceli?
+
+ERMOGENE: Sì, suppongo di sì.
+
+SOCRATE: Allora il maestro, quando ci dà un nome, usa l'opera del legislatore?
+
+ERMOGENE: Concordo.
+
+SOCRATE: E ogni uomo è legislatore, oppure soltanto chi è esperto?
+
+ERMOGENE: Soltanto chi è esperto.
+
+SOCRATE: Allora, Ermogene, non ogni uomo è in grado di dare un nome, ma soltanto un fabbricatore di nomi; e questi è il legislatore, che di tutti gli artefici esperti al mondo è il più raro.
+
+ERMOGENE: Vero.
+
+SOCRATE: E come fa il legislatore a fare i nomi? e a che cosa guarda? Considera questo alla luce degli esempi precedenti: a che cosa guarda il falegname nel fare la spola? Non guarda forse a ciò che è per natura atto a fungere da spola?
+
+ERMOGENE: Certamente.
+
+SOCRATE: E supponi che la spola si rompa mentre la fa: ne farà un'altra guardando a quella rotta? oppure guarderà alla forma secondo cui aveva fatto l'altra?
+
+ERMOGENE: A quest'ultima, immagino.
+
+SOCRATE: Non si potrebbe giustamente chiamare quella la spola vera o ideale?
+
+ERMOGENE: Credo di sì.
+
+SOCRATE: E qualunque spola sia richiesta, per la fabbricazione di vesti sottili o spesse, di lino, di lana o d'altro materiale, tutte dovrebbero avere la vera forma della spola; e qualunque sia la spola meglio adatta a ciascun tipo di lavoro, quella dovrebbe essere la forma che il fabbricatore produce in ciascun caso.
+
+ERMOGENE: Sì.
+
+SOCRATE: E lo stesso vale per gli altri strumenti: quando un uomo ha scoperto lo strumento naturalmente adatto a ciascun lavoro, deve esprimere questa forma naturale, e non altre che egli immagina, nel materiale, qualunque esso sia, che impiega; per esempio, egli deve saper mettere nel ferro le forme dei punteruoli adattate dalla natura ai loro diversi usi?
+
+ERMOGENE: Certamente.
+
+SOCRATE: E saper mettere nel legno forme di spole adattate dalla natura ai loro usi?
+
+ERMOGENE: Vero.
+
+SOCRATE: Poiché le diverse forme di spole corrispondono naturalmente ai diversi tipi di tele; e questo vale per gli strumenti in generale.
+
+ERMOGENE: Sì.
+
+SOCRATE: Allora, quanto ai nomi: non dovrebbe anche il nostro legislatore saper mettere in suoni e sillabe il vero nome naturale di ciascuna cosa, e fare e dare tutti i nomi in vista del nome ideale, se vuol essere un nominatore in un qualche vero senso? E dobbiamo ricordare che diversi legislatori non useranno le medesime sillabe. Poiché neppure ogni fabbro, benché possa fare il medesimo strumento per il medesimo scopo, li fa tutti del medesimo ferro. La forma dev'essere la stessa, ma il materiale può variare, e nondimeno lo strumento può essere ugualmente buono di qualunque ferro sia fatto, sia in Ellade sia in un paese straniero; — non vi è differenza.
+
+ERMOGENE: Verissimo.
+
+SOCRATE: E il legislatore, sia egli Elleno o barbaro, non deve perciò essere da te ritenuto un legislatore peggiore, purché dia la vera e propria forma del nome in qualunque sillaba; questo o quel paese non fa alcuna differenza.
+
+ERMOGENE: Verissimo.
+
+SOCRATE: Ma chi allora deve determinare se sia data la forma appropriata alla spola, qualunque sorta di legno si usi? il falegname che la fa, oppure il tessitore che deve usarla?
+
+ERMOGENE: Direi colui che deve usarla, Socrate.
+
+SOCRATE: E chi usa l'opera del fabbricante di lire? Non sarà l'uomo che sa dirigere ciò che si sta facendo, e che saprà anche se l'opera è ben fatta o no?
+
+ERMOGENE: Certamente.
+
+SOCRATE: E chi è costui?
+
+ERMOGENE: Il suonatore di lira.
+
+SOCRATE: E chi dirigerà il costruttore di navi?
+
+ERMOGENE: Il pilota.
+
+SOCRATE: E chi sarà meglio in grado di dirigere il legislatore nella sua opera, e saprà se l'opera è ben fatta, in questo o in qualsiasi altro paese? Non sarà l'utilizzatore l'uomo giusto?
+
+ERMOGENE: Sì.
+
+SOCRATE: E questi è colui che sa porre domande?
+
+ERMOGENE: Sì.
+
+SOCRATE: E rispondervi?
+
+ERMOGENE: Sì.
+
+SOCRATE: E colui che sa porre e rispondere alle domande lo chiameresti un dialettico?
+
+ERMOGENE: Sì; sarebbe questo il suo nome.
+
+SOCRATE: Allora l'opera del falegname è fare un timone, e il pilota deve dirigerlo, se il timone dev'essere ben fatto.
+
+ERMOGENE: Vero.
+
+SOCRATE: E l'opera del legislatore è dare i nomi, e il dialettico dev'essere il suo direttore se i nomi devono essere rettamente dati?
+
+ERMOGENE: Questo è vero.
+
+SOCRATE: Allora, Ermogene, direi che questo dare i nomi non può essere una cosa tanto leggera quanto tu immagini, o l'opera di persone leggere o [casuali](/concepts/fortune); e Cratilo ha ragione nel dire che le cose hanno i nomi per natura, e che non ogni uomo è un artefice di nomi, ma soltanto colui che guarda al nome che ciascuna cosa ha per natura, ed è in grado di esprimere le vere forme delle cose in lettere e sillabe.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 HERMOGENES: I cannot answer you, [Socrates](/figures/socrates); but I find a difficulty in changing my opinion all in a moment, and I think that I should be more readily persuaded, if you would show me what this is which you term the natural fitness of [names](/positions/nominalism).
@@ -452,6 +786,104 @@ SOCRATES: A very simple matter. I may illustrate my meaning by the names of lett
 
 HERMOGENES: I believe you are right.
 
+<span class="qlang-split" data-lang="it"></span>
+
+ERMOGENE: Non so risponderti, [Socrate](/figures/socrates); ma trovo difficile mutare la mia opinione tutto in un momento, e credo che sarei più prontamente persuaso se tu mi mostrassi che cos'è questa che tu chiami la naturale idoneità dei [nomi](/positions/nominalism).
+
+SOCRATE: Mio buon Ermogene, non ne ho alcuna da mostrare. Non ti stavo forse dicendo poco fa (ma tu l'hai dimenticato) che non sapevo nulla, e ti proponevo di condividere l'indagine con te? Ma ora che tu ed io abbiamo discusso la faccenda, un passo è stato compiuto; poiché abbiamo scoperto che i nomi hanno per natura una verità, e che non ogni uomo sa come dare a una cosa un nome.
+
+ERMOGENE: Benissimo.
+
+SOCRATE: E qual è la natura di questa verità o correttezza dei nomi? Questa, se ti interessa saperlo, è la prossima questione.
+
+ERMOGENE: Certamente, mi interessa saperlo.
+
+SOCRATE: Allora rifletti.
+
+ERMOGENE: Come devo riflettere?
+
+SOCRATE: La vera via è avere l'assistenza di coloro che sanno, e devi pagarli bene, sia in denaro sia in ringraziamenti; questi sono i Sofisti, ai quali tuo fratello Callia ha comprato — a caro prezzo, invero — la reputazione di sapienza. Ma tu non sei ancora entrato nella tua eredità, e perciò faresti meglio ad andare da lui, e a pregarlo e supplicarlo di dirti ciò che ha appreso da Protagora sull'idoneità dei nomi.
+
+ERMOGENE: Ma quanto sarei incoerente se, pur ripudiando Protagora e la sua verità («Verità» era il titolo del libro di Protagora; cfr. Teet.), attribuissi un qualche valore a ciò che egli e il suo libro affermano!
+
+SOCRATE: Allora, se lo disprezzi, dovrai imparare da Omero e dai poeti.
+
+ERMOGENE: E dove dice Omero qualcosa sui nomi, e che cosa dice?
+
+SOCRATE: Ne parla spesso; notevolmente e nobilmente nei luoghi in cui distingue i diversi nomi che gli Dèi e gli uomini danno alle medesime cose. Non fa forse, in questi passi, una notevole affermazione sulla correttezza dei nomi? Poiché gli Dèi devono chiaramente supporsi chiamare le cose con i loro nomi giusti e naturali; non pensi anche tu così?
+
+ERMOGENE: Ebbene, certo le chiamano rettamente, se pure le chiamano. Ma a che cosa ti riferisci?
+
+SOCRATE: Non sai ciò che egli dice del fiume di Troia che ebbe un duello con Efesto?
+
+«Che», come dice, «gli Dèi chiamano Xanto, e gli uomini chiamano Scamandro.»
+
+ERMOGENE: Ricordo.
+
+SOCRATE: Ebbene, e riguardo a questo fiume — sapere che dev'essere chiamato Xanto e non Scamandro — non è forse una lezione solenne? Oppure riguardo all'uccello che, come egli dice,
+
+«Gli Dèi chiamano Calcide, e gli uomini Cimindi:»
+
+essere ammaestrati su quanto più corretto sia il nome Calcide del nome Cimindi — reputi tu questa una cosa da poco? Oppure riguardo a Batieia e Mirina? (Cfr. Il. «Il colle che gli uomini chiamano Batieia e gli immortali la tomba della saltellante Mirina.») E vi sono molte altre osservazioni dello stesso genere in Omero e in altri poeti. Ora, credo che questo sia al di là della comprensione tua e mia; ma i nomi di Scamandrio e Astianatte, che egli afferma essere stati i nomi del figlio di Ettore, sono più alla portata delle facoltà umane, come sono disposto a pensare; e ciò che il poeta intende per correttezza si può più prontamente cogliere in quell'esempio: ricorderai, oso dire, i versi ai quali mi riferisco? (Il.)
+
+ERMOGENE: Sì.
+
+SOCRATE: Lascia che ti chieda, allora, quale dei nomi dati al figlio di Ettore Omero ritenesse il più corretto — Astianatte o Scamandrio?
+
+ERMOGENE: Non lo so.
+
+SOCRATE: Come risponderesti, se ti si chiedesse se i saggi o gli stolti siano più propensi a dare nomi corretti?
+
+ERMOGENE: Direi i saggi, naturalmente.
+
+SOCRATE: E gli uomini o le donne di una città, presi come classe, sono i più saggi?
+
+ERMOGENE: Direi gli uomini.
+
+SOCRATE: E Omero, come sai, dice che gli uomini troiani lo chiamavano Astianatte (re della città); ma se gli uomini lo chiamavano Astianatte, l'altro nome di Scamandrio poteva essergli stato dato soltanto dalle donne.
+
+ERMOGENE: Lo si può inferire.
+
+SOCRATE: E Omero non deve forse aver immaginato i Troiani più saggi delle loro mogli?
+
+ERMOGENE: Di sicuro.
+
+SOCRATE: Allora egli deve aver ritenuto Astianatte un nome più corretto per il fanciullo di Scamandrio?
+
+ERMOGENE: Chiaramente.
+
+SOCRATE: E qual è la ragione di ciò? Consideriamo: — non ne suggerisce forse egli stesso un'ottima ragione, quando dice,
+
+«Poiché egli solo difese la loro città e le lunghe mura»?
+
+Questa sembra una buona ragione per chiamare il figlio del re salvatore re della città che suo padre stava salvando, come osserva Omero.
+
+ERMOGENE: Capisco.
+
+SOCRATE: Ebbene, Ermogene, io stesso ancora non lo capisco; e tu?
+
+ERMOGENE: No, davvero; io no.
+
+SOCRATE: Ma dimmi, amico, non fu forse Omero stesso a dare anche a Ettore il suo nome?
+
+ERMOGENE: E con ciò?
+
+SOCRATE: Il nome mi appare quasi lo stesso del nome di Astianatte — entrambi sono ellenici; e un re (anax) e un detentore (ektor) hanno pressoché lo stesso significato, e sono entrambi descrittivi di un re; poiché un uomo è chiaramente il detentore di ciò di cui è re; egli governa, e possiede, e detiene. Ma, forse, tu penserai che io stia dicendo sciocchezze; e invero credo che io stesso non sapessi che cosa intendessi quando immaginai di aver trovato qualche indizio dell'opinione di Omero sulla correttezza dei nomi.
+
+ERMOGENE: Ti assicuro che penso altrimenti, e credo che tu sia sulla buona strada.
+
+SOCRATE: Vi è ragione, credo, nel chiamare leone il cucciolo del leone, e cavallo il puledro del cavallo; parlo soltanto del corso ordinario della natura, quando un animale genera secondo la propria specie, e non di nascite straordinarie; — se, contro natura, un cavallo avesse un vitello, allora non lo chiamerei puledro ma vitello; né chiamo uomo alcuna nascita disumana, ma soltanto una nascita naturale. E lo stesso può dirsi degli alberi e di altre cose. Concordi con me?
+
+ERMOGENE: Sì, concordo.
+
+SOCRATE: Benissimo. Ma faresti bene a sorvegliarmi e a badare che io non ti giochi qualche tiro. Poiché, secondo il medesimo principio, il figlio di un re dev'essere chiamato re. E che le sillabe del nome siano le stesse oppure no, non fa alcuna differenza, purché il significato sia mantenuto; né l'aggiunta o la sottrazione di una lettera fa alcuna differenza, finché l'essenza della cosa rimane in possesso del nome e appare in esso.
+
+ERMOGENE: Che cosa intendi?
+
+SOCRATE: Una cosa semplicissima. Posso illustrare il mio intento con i nomi delle lettere, che, come sai, non sono gli stessi delle lettere medesime, ad eccezione delle quattro epsilon, upsilon, omicron, omega; i nomi delle altre, siano vocali o consonanti, sono composti di altre lettere che aggiungiamo ad esse; ma finché introduciamo il significato, e non vi può essere errore, il nome della lettera è del tutto corretto. Prendi, per esempio, la lettera beta — l'aggiunta di eta, tau, alpha non reca alcun disturbo, e non impedisce all'intero nome di avere il valore che il legislatore intendeva — tanto bene egli seppe dare i nomi alle lettere.
+
+ERMOGENE: Credo che tu abbia ragione.
+
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And may not the same be said of a king? a king will often be the son of a king, the good son or the noble son of a good or noble sire; and similarly the offspring of every kind, in the regular course of nature, is like the parent, and therefore has the same name. Yet the syllables may be disguised until they appear different to the ignorant person, and he may not recognize them, although they are the same, just as any one of us would not recognize the same drugs under different disguises of colour and smell, although to the physician, who regards the power of them, they are the same, and he is not put out by the addition; and in like manner the etymologist is not put out by the addition or transposition or subtraction of a letter or two, or indeed by the change of all the letters, for this need not interfere with the meaning. As was just now said, the [names](/positions/nominalism) of Hector and Astyanax have only one letter alike, which is tau, and yet they have the same meaning. And how little in common with the letters of their names has Archepolis (ruler of the city) — and yet the meaning is the same. And there are many other names which just mean ‘king.’ Again, there are several names for a general, as, for example, Agis (leader) and Polemarchus (chief in war) and Eupolemus (good warrior); and others which denote a physician, as Iatrocles (famous healer) and Acesimbrotus (curer of mortals); and there are many others which might be cited, differing in their syllables and letters, but having the same meaning. Would you not say so?
@@ -505,6 +937,60 @@ HERMOGENES: I think so, Socrates.
 SOCRATES: Ought we not to begin with the consideration of the Gods, and show that they are rightly named Gods?
 
 HERMOGENES: Yes, that will be well.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E non si può dire lo stesso di un re? Un re sarà spesso il figlio di un re, il buon figlio o il nobile figlio di un buon o nobile padre; e similmente la prole di ogni specie, nel regolare corso della natura, è simile al genitore, e perciò ha il medesimo nome. Eppure le sillabe possono essere travestite fino ad apparire diverse alla persona ignorante, che può non riconoscerle, benché siano le stesse, proprio come nessuno di noi riconoscerebbe le medesime droghe sotto diversi travestimenti di colore e odore, benché al medico, che ne considera la potenza, esse siano le stesse, ed egli non è tratto in inganno dall'aggiunta; e allo stesso modo l'etimologo non è tratto in inganno dall'aggiunta o dalla trasposizione o dalla sottrazione di una lettera o due, e neppure dal mutamento di tutte le lettere, poiché ciò non deve interferire con il significato. Come si diceva poco fa, i [nomi](/positions/nominalism) di Ettore e Astianatte hanno una sola lettera in comune, cioè il tau, eppure hanno il medesimo significato. E come poco ha in comune con le lettere del loro nome Archepolis (reggitore della città) — eppure il significato è lo stesso. E vi sono molti altri nomi che significano semplicemente «re». Di nuovo, vi sono parecchi nomi per un generale, come, per esempio, Agis (condottiero) e Polemarchus (capo in guerra) ed Eupolemus (buon guerriero); e altri che denotano un medico, come Iatrocles (illustre guaritore) e Acesimbrotus (risanatore dei mortali); e ve ne sono molti altri che si potrebbero citare, differenti nelle loro sillabe e lettere, ma aventi il medesimo significato. Non diresti così?
+
+ERMOGENE: Sì.
+
+SOCRATE: I medesimi nomi, dunque, dovrebbero essere assegnati a coloro che seguono il corso della natura?
+
+ERMOGENE: Sì.
+
+SOCRATE: E che dire di coloro che seguono fuori dal corso della natura, e sono prodigi? per esempio, quando un uomo buono e religioso ha un figlio irreligioso, egli non dovrebbe portare il nome di suo padre, ma quello della classe cui appartiene, proprio come nel caso, prima supposto, di un cavallo che partorisce un vitello.
+
+ERMOGENE: Verissimo.
+
+SOCRATE: Allora il figlio irreligioso di un padre religioso dovrebbe essere chiamato irreligioso?
+
+ERMOGENE: Certamente.
+
+SOCRATE: Egli non dovrebbe essere chiamato Teofilo (amato da Dio) o Mnesiteo (memore di Dio), o alcuno di questi nomi: se i nomi sono dati correttamente, il suo dovrebbe avere un significato opposto.
+
+ERMOGENE: Certamente, Socrate.
+
+SOCRATE: Di nuovo, Ermogene, vi è Oreste (l'uomo dei monti) che sembra essere rettamente chiamato; sia che il [caso](/concepts/fortune) gli abbia dato il nome, sia forse qualche poeta che intendeva esprimere la brutalità e la ferocia e la selvatichezza montana della natura del suo eroe.
+
+ERMOGENE: È molto probabile, Socrate.
+
+SOCRATE: E anche il nome di suo padre è secondo natura.
+
+ERMOGENE: Chiaramente.
+
+SOCRATE: Sì, poiché quale è il suo nome, tale è anche la sua natura; Agamennone (mirabile per la perseveranza) è colui che è paziente e tenace nel compimento dei suoi propositi, e con la sua virtù li corona; e il suo perdurare a Troia con tutto il vasto esercito è prova di quella mirabile costanza in lui che è significata dal nome Agamennone. Penso anche che Atreo sia rettamente chiamato; poiché il suo assassinio di Crisippo e la sua eccessiva crudeltà verso Tieste sono dannosi e distruttivi per la sua reputazione — il nome è un poco alterato e travestito così da non essere intelligibile a ognuno, ma per l'etimologo non vi è difficoltà a vederne il significato, poiché, sia che tu lo pensi come ateires il caparbio, o come atrestos l'impavido, o come ateros il distruttore, il nome è perfettamente corretto sotto ogni punto di vista. E penso che anche Pelope sia nominato appropriatamente; poiché, come il nome implica, è rettamente chiamato Pelope colui che vede soltanto ciò che è vicino (o ta pelas oron).
+
+ERMOGENE: Come mai?
+
+SOCRATE: Perché, secondo la tradizione, egli non ebbe alcuna previdenza o preveggenza di tutto il male che l'assassinio di Mirtilo avrebbe arrecato all'intera sua stirpe nelle età remote; egli vide soltanto ciò che era a portata di mano e immediato, — o, in altre parole, pelas (vicino), nella sua brama di conquistare Ippodamia con ogni mezzo come sua sposa. Chiunque converrebbe che il nome di Tantalo è rettamente dato e in accordo con la natura, se le tradizioni su di lui sono vere.
+
+ERMOGENE: E quali sono le tradizioni?
+
+SOCRATE: Si dice che molte terribili sventure gli siano capitate nella vita — ultima di tutte, venne la totale rovina del suo paese; e dopo la sua morte ebbe la pietra sospesa (talanteia) sopra il capo nel mondo di sotto — tutto questo si accorda meravigliosamente bene con il suo nome. Potresti immaginare che qualcuno il quale volesse chiamarlo Talantatos (il più gravato dalla sventura), abbia travestito il nome alterandolo in Tantalo; e in questa forma, per qualche accidente della tradizione, esso si è di fatto trasmutato. Anche il nome di Zeus, che è il suo presunto padre, ha un eccellente significato, benché arduo da comprendere, perché è davvero simile a una frase, che si divide in due parti, poiché alcuni lo chiamano Zena, e usano l'una metà, e altri, che usano l'altra metà, lo chiamano Dia; le due insieme significano la natura del Dio, e il compito di un nome, come dicevamo, è di esprimere la natura. Poiché non vi è alcuno che sia più autore di vita per noi e per tutti, che il signore e re di tutte le cose. Perciò a ragione lo chiamiamo Zena e Dia, che sono un solo nome, benché diviso, e significano il Dio attraverso il quale tutte le creature hanno sempre la vita (di on zen aei pasi tois zosin uparchei). Vi è, a prima vista, un'irriverenza nel chiamarlo figlio di Crono (che è proverbiale per la stupidità), e ci aspetteremmo piuttosto che Zeus fosse il figlio di un possente intelletto. Il che è di fatto vero; poiché questo è il significato del nome di suo padre: Kronos quasi Koros (Choreo, spazzare), non nel senso di un giovane, ma a significare to chatharon chai acheraton tou nou, la mente pura e ornata (sc. apo tou chorein). Egli, come ci informa la tradizione, fu generato da Urano, così a ragione chiamato (apo tou oran ta ano) dal guardare le cose in alto; il che, come ci dicono i filosofi, è la via per avere una mente pura, e il nome Urano è perciò corretto. Se potessi ricordare la [genealogia](/positions/genealogy) di Esiodo, avrei proseguito e tentato altre conclusioni dello stesso genere sui più remoti antenati degli Dèi, — allora forse avrei potuto vedere se questa sapienza, che mi è venuta tutta in un istante, non so donde, si manterrà buona o no fino alla fine.
+
+ERMOGENE: Mi sembri, Socrate, del tutto simile a un profeta appena ispirato, che va pronunciando oracoli.
+
+SOCRATE: Sì, Ermogene, e credo di aver colto l'ispirazione dal grande Eutifrone del demo di Prospalta, che mi tenne una lunga lezione cominciata all'alba: egli parlava e io ascoltavo, e la sua sapienza e il suo incantevole rapimento non solo mi hanno riempito le orecchie ma preso possesso dell'anima, e oggi lascerò che la sua sovrumana potenza operi e porti a termine l'indagine dei nomi — sarà questa la via; ma domani, se ti va, lo scongiureremo via, e ne faremo una purificazione, se solo riusciremo a trovare qualche sacerdote o sofista esperto in purificazioni di questo genere.
+
+ERMOGENE: Con tutto il cuore; poiché sono assai curioso di udire il resto dell'indagine sui nomi.
+
+SOCRATE: Allora procediamo; e da dove vorresti che cominciassimo, ora che abbiamo tracciato una sorta di abbozzo dell'indagine? Vi sono nomi che testimoniano da sé di non essere dati arbitrariamente, ma di avere una naturale idoneità? I nomi degli eroi e degli uomini in generale sono soggetti a essere ingannevoli, perché spesso sono chiamati come gli antenati con i cui nomi, come dicevamo, possono non avere nulla a che fare; oppure sono l'espressione di un desiderio, come Eutichide (il figlio della buona fortuna), o Sosia (il Salvatore), o Teofilo (l'amato da Dio), e altri. Ma credo che faremmo meglio a lasciare questi, poiché vi sarà più probabilità di trovare correttezza nei nomi delle essenze immutabili; — vi si sarebbe dovuta porre maggiore cura quando furono nominate, e forse vi può essere stata all'opera, di quando in quando, una qualche potenza più che umana nel dar loro i nomi.
+
+ERMOGENE: Credo di sì, Socrate.
+
+SOCRATE: Non dovremmo cominciare con la considerazione degli Dèi, e mostrare che sono rettamente chiamati Dèi?
+
+ERMOGENE: Sì, sarà bene.
 
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -618,6 +1104,118 @@ SOCRATES: That may be variously interpreted; and yet more variously if a little 
 
 HERMOGENES: I think, Socrates, that we have said enough of this class of words. But have we any more explanations of the names of the Gods, like that which you were giving of Zeus? I should like to know whether any similar principle of correctness is to be applied to them.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): La mia idea sarebbe pressappoco di questo genere: — sospetto che il sole, la luna, la terra, le stelle e il cielo, che sono tuttora gli dèi di molti barbari, fossero i soli dèi conosciuti dai primitivi Elleni. Vedendo che erano sempre in movimento e in corsa, dalla loro natura corrente furono chiamati dèi, ovvero corridori (Theous, Theontas); e quando gli uomini presero conoscenza degli altri dèi, procedettero ad applicare a tutti quanti il medesimo nome. Ti pare probabile?
+
+HERMOGENES: Lo ritengo davvero molto probabile.
+
+SOCRATE: Che cosa dovrà seguire gli dèi?
+
+HERMOGENES: Non devono venire poi i demoni, gli eroi e gli uomini?
+
+SOCRATE: I demoni! E quale ritieni sia il significato di questa parola? Dimmi se la mia opinione è giusta.
+
+HERMOGENES: Fammela sentire.
+
+SOCRATE: Sai come Esiodo adopera la parola?
+
+HERMOGENES: Non lo so.
+
+SOCRATE: Non ricordi che egli parla di una razza aurea di uomini venuta per prima?
+
+HERMOGENES: Sì, lo ricordo.
+
+SOCRATE: Di essi dice —
+
+‘Ma ora che il fato si è chiuso su questa stirpe Essi sono santi demoni sopra la terra, Benefici, allontanatori di mali, custodi degli uomini mortali.’ (Esiodo, Le opere e i giorni.)
+
+HERMOGENES: Qual è la conclusione?
+
+SOCRATE: Qual è la conclusione! Ebbene, suppongo che con gli uomini d’oro egli non intenda uomini fatti letteralmente d’oro, ma uomini buoni e nobili; e ne sono convinto, perché aggiunge inoltre che noi siamo la stirpe di ferro.
+
+HERMOGENES: È vero.
+
+SOCRATE: E non credi che gli uomini buoni dei nostri giorni sarebbero da lui detti di stirpe aurea?
+
+HERMOGENES: Molto probabile.
+
+SOCRATE: E i buoni non sono forse saggi?
+
+HERMOGENES: Sì, sono saggi.
+
+SOCRATE: E perciò ho la più assoluta convinzione che egli li chiamasse demoni, perché erano daemones (conoscitori o saggi), e nel nostro più antico dialetto attico la parola stessa ricorre. Ora egli e altri poeti dicono con verità che, quando un uomo buono muore, ottiene onore e una possente sorte tra i morti, e diviene un demone; nome che gli è dato a significare sapienza. E anch’io affermo che ogni uomo saggio che si trovi ad essere un uomo buono è più che umano (daimonion) tanto in vita quanto in morte, ed è rettamente chiamato demone.
+
+HERMOGENES: Allora penso piuttosto di essere d’accordo con te; ma qual è il significato della parola ‘eroe’? (Eros con un eta, nell’antica grafia eros con un epsilon.)
+
+SOCRATE: Penso che non vi sia difficoltà a spiegarlo, ché il nome non è molto alterato, e significa che essi erano nati dall’amore.
+
+HERMOGENES: Che vuoi dire?
+
+SOCRATE: Non sai che gli eroi sono semidei?
+
+HERMOGENES: E allora?
+
+SOCRATE: Tutti quanti nacquero o dall’amore di un dio per una donna mortale, o di un uomo mortale per una dea; pensa alla parola nell’antico attico, e vedrai meglio che il nome heros è solo una lieve alterazione di Eros, da cui gli eroi discesero: o questo è il significato, oppure, se non questo, allora essi dovettero essere abili come retori e dialettici, e capaci di porre domande (erotan), giacché eirein equivale a legein. E perciò, come dicevo, nel dialetto attico gli eroi risultano essere retori e interrogatori. Tutto ciò è facile abbastanza; la nobile schiatta degli eroi è una tribù di sofisti e retori. Ma sai dirmi perché gli uomini si chiamano anthropoi? — questo è più difficile.
+
+HERMOGENES: No, non lo so; e non vorrei nemmeno tentare, potendo, perché penso che tu abbia maggiori probabilità di riuscirci.
+
+SOCRATE: Vale a dire, ti affidi all’ispirazione di Eutifrone.
+
+HERMOGENES: Naturalmente.
+
+SOCRATE: La tua fede non è vana; ché proprio in questo istante mi colpisce un pensiero nuovo e ingegnoso, e, se non sto attento, prima dell’alba di domani sarò più sapiente di quanto dovrei. Ora, prestami attenzione; e anzitutto ricorda che spesso inseriamo e togliamo lettere nelle parole, e diamo i [nomi](/positions/nominalism) come ci piace e mutiamo gli accenti. Prendi, per esempio, la parola Dii Philos; per convertirla da frase in nome, omettiamo uno degli iota e pronunciamo grave anziché acuta la sillaba mediana; come, d’altra parte, talvolta le lettere vengono inserite nelle parole invece di essere omesse, e l’acuto prende il posto del grave.
+
+HERMOGENES: È vero.
+
+SOCRATE: Il nome anthropos, che un tempo era una frase, e ora è un nome, sembra essere un caso proprio di questo genere, ché una lettera, cioè l’alpha, è stata omessa, e l’acuto sull’ultima sillaba è stato mutato in grave.
+
+HERMOGENES: Che vuoi dire?
+
+SOCRATE: Voglio dire che la parola ‘uomo’ implica che gli altri animali non esaminano mai, né considerano, né volgono lo sguardo in alto a ciò che vedono, ma che l’uomo non solo vede (opope), bensì considera e volge lo sguardo in alto a ciò che vede, e perciò egli solo fra tutti gli animali è rettamente anthropos, cioè anathron a opopen.
+
+HERMOGENES: Posso chiederti di esaminare un’altra parola sulla quale sono curioso?
+
+SOCRATE: Certamente.
+
+HERMOGENES: Prenderò quella che mi pare seguire per ordine. Conosci la distinzione tra [anima e corpo](/axes/soul_body)?
+
+SOCRATE: Naturalmente.
+
+HERMOGENES: Cerchiamo di analizzarle come le parole precedenti.
+
+SOCRATE: Vuoi che io esamini anzitutto la naturale convenienza della parola psuche (anima), e poi della parola soma (corpo)?
+
+HERMOGENES: Sì.
+
+SOCRATE: Se devo dire ciò che mi viene in mente sul momento, immaginerei che coloro i quali per primi usarono il nome psuche intendessero esprimere che l’anima, quando è nel corpo, è la fonte della vita, e dà il potere del respiro e del ravvivamento (anapsuchon), e quando questo potere ravvivante viene meno, allora il corpo perisce e muore, e questo, se non m’inganno, essi chiamarono psyche. Ma ti prego, aspetta un momento; mi pare di poter scoprire qualcosa che sarà più gradito ai discepoli di Eutifrone, ché temo che essi disprezzeranno questa spiegazione. Che ne dici di un’altra?
+
+HERMOGENES: Fammela sentire.
+
+SOCRATE: Che cos’è ciò che regge e trasporta e dà vita e movimento all’intera natura del corpo? Che altro se non l’anima?
+
+HERMOGENES: Proprio così.
+
+SOCRATE: E non credi con Anassagora che la mente o anima sia il principio ordinatore e contenitore di tutte le cose?
+
+HERMOGENES: Sì, lo credo.
+
+SOCRATE: Allora puoi ben chiamare phuseche quella potenza che trasporta e regge la natura (e phusin okei, kai ekei), e questa può essere raffinata in psuche.
+
+HERMOGENES: Certamente; e questa derivazione è, penso, più scientifica dell’altra.
+
+SOCRATE: È così; ma non posso trattenermi dal ridere, se devo supporre che questo fosse il vero significato del nome.
+
+HERMOGENES: Ma che diremo della parola seguente?
+
+SOCRATE: Intendi soma (il corpo).
+
+HERMOGENES: Sì.
+
+SOCRATE: Questa può essere interpretata in vari modi; e in modi ancor più vari se si concede una piccola permutazione. Alcuni infatti dicono che il corpo è la tomba (sema) dell’anima, che si può pensare sepolta nella nostra vita presente; oppure ancora l’indice dell’anima, perché l’anima dà indicazioni (semainei) al corpo; probabilmente i poeti orfici furono gli inventori del nome, ed essi erano dell’idea che l’anima stia scontando la punizione del peccato, e che il corpo sia un recinto o una prigione in cui l’anima è incarcerata, tenuta al sicuro (soma, sozetai), come il nome soma implica, finché la pena non sia pagata; secondo questa concezione, non occorre mutare nemmeno una lettera della parola.
+
+HERMOGENES: Penso, Socrate, che abbiamo detto abbastanza di questa classe di parole. Ma abbiamo altre spiegazioni dei nomi degli dèi, come quella che davi di Zeus? Vorrei sapere se un qualche simile principio di correttezza debba applicarsi ad essi.
+
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Yes, indeed, Hermogenes; and there is one excellent principle which, as men of sense, we must acknowledge, — that of the Gods we know nothing, either of their natures or of the [names](/positions/nominalism) which they give themselves; but we are sure that the names by which they call themselves, whatever they may be, are true. And this is the best of all principles; and the next best is to say, as in prayers, that we will call them by any sort or kind of names or patronymics which they like, because we do not know of any other. That also, I think, is a very good [custom](/concepts/custom), and one which I should much wish to observe. Let us, then, if you please, in the first place announce to them that we are not enquiring about them; we do not presume that we are able to do so; but we are enquiring about the meaning of men in giving them these names, — in this there can be small blame.
@@ -720,6 +1318,108 @@ SOCRATES: Yes, Hermogenes, and the legislator called him Hades, not from the uns
 
 HERMOGENES: Very good; and what do we say of Demeter, and Here, and Apollo, and Athene, and Hephaestus, and Ares, and the other deities?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Sì, davvero, Ermogene; e vi è un eccellente principio che, da uomini di senno, dobbiamo riconoscere, — che degli dèi nulla sappiamo, né delle loro nature né dei [nomi](/positions/nominalism) che essi danno a se stessi; ma siamo certi che i nomi con cui essi si chiamano, quali che siano, sono veri. E questo è il migliore di tutti i principi; e il secondo migliore è dire, come nelle preghiere, che li chiameremo con qualsiasi sorta o specie di nomi o patronimici essi gradiscano, poiché non ne conosciamo altri. Anche questa, penso, è un’ottima [consuetudine](/concepts/custom), e una che desidererei molto osservare. Dunque, se ti piace, annunciamo loro anzitutto che non stiamo indagando su di loro; non presumiamo di esserne capaci; ma stiamo indagando sul significato degli uomini nel dar loro questi nomi, — e in ciò può esservi ben poca colpa.
+
+HERMOGENES: Penso, Socrate, che tu abbia perfettamente ragione, e vorrei fare come dici.
+
+SOCRATE: Cominciamo, dunque, con Estia, secondo la consuetudine?
+
+HERMOGENES: Sì, sarà cosa assai conveniente.
+
+SOCRATE: Che cosa possiamo supporre intendesse colui che diede il nome Estia?
+
+HERMOGENES: Questa è un’altra domanda, e certamente assai difficile.
+
+SOCRATE: Mio caro Ermogene, i primi imponitori di nomi devono essere stati senza dubbio persone di rilievo; erano filosofi, e avevano molto da dire.
+
+HERMOGENES: Ebbene, che ne è di loro?
+
+SOCRATE: Sono gli uomini ai quali attribuirei l’imposizione dei nomi. Persino nei nomi stranieri, se li analizzi, un significato è ancora discernibile. Per esempio, ciò che noi chiamiamo [ousia](/concepts/substance) è da alcuni detto esia, e da altri ancora osia. Ora, che l’essenza delle cose debba chiamarsi estia, che è affine al primo di questi (esia = estia), è abbastanza razionale. E vi è ragione nel fatto che gli Ateniesi chiamino estia ciò che partecipa di ousia. Ché in tempi antichi anche noi sembra dicessimo esia per ousia, e questo puoi notarlo essere stata l’idea di coloro che stabilirono che i sacrifici fossero offerti per primi a estia, il che era abbastanza naturale se intendevano che estia fosse l’essenza delle cose. Coloro invece che leggono osia sembrano aver inclinato all’opinione di Eraclito, che tutte le cose scorrono e nulla sta fermo; per essi il principio spingente (othoun) è la causa e la potenza dominante di tutte le cose, ed è perciò rettamente chiamato osia. Basti di questo, che è tutto ciò che noi, i quali nulla sappiamo, possiamo affermare. Dopo Estia dovremmo considerare, per ordine, Rea e Crono, benché il nome di Crono sia già stato discusso. Ma oso dire che sto parlando a vanvera.
+
+HERMOGENES: Perché, Socrate?
+
+SOCRATE: Mio buon amico, ho scoperto un alveare di sapienza.
+
+HERMOGENES: Di quale natura?
+
+SOCRATE: Ebbene, piuttosto ridicola, e tuttavia plausibile.
+
+HERMOGENES: Come plausibile?
+
+SOCRATE: Mi immagino Eraclito che ripete sagge tradizioni dell’antichità, antiche quanto i giorni di Crono e Rea, e delle quali parlò anche Omero.
+
+HERMOGENES: Che vuoi dire?
+
+SOCRATE: Si suppone che Eraclito dica che tutte le cose sono in movimento e nulla è in quiete; le paragona alla corrente di un fiume, e dice che non puoi entrare due volte nella stessa acqua.
+
+HERMOGENES: È vero.
+
+SOCRATE: Ebbene, allora, come possiamo evitare di inferire che colui il quale diede i nomi di Crono e Rea agli antenati degli dèi concordasse pressoché con la dottrina di Eraclito? È forse puramente accidentale l’aver dato a entrambi i nomi di correnti? Confronta il verso in cui Omero, e, come credo, anche Esiodo, narra di
+
+‘Oceano, l’origine degli dèi, e la madre Teti (Il. — il verso non si trova nelle opere superstiti di Esiodo.).’
+
+E ancora, Orfeo dice che
+
+‘Il bel fiume Oceano fu il primo a sposarsi, e prese in moglie sua sorella Teti, che era figlia di sua madre.’
+
+Vedi che questa è una notevole coincidenza, e tutta nella direzione di Eraclito.
+
+HERMOGENES: Penso che vi sia qualcosa in ciò che dici, Socrate; ma non capisco il significato del nome Teti.
+
+SOCRATE: Ebbene, questo si spiega quasi da sé, essendo soltanto il nome di una sorgente, un poco travestito; ché ciò che è filtrato e depurato (diattomenon, ethoumenon) può essere paragonato a una sorgente, e il nome Teti è composto di queste due parole.
+
+HERMOGENES: L’idea è ingegnosa, Socrate.
+
+SOCRATE: Certamente. Ma che viene dopo? — di Zeus abbiamo parlato.
+
+HERMOGENES: Sì.
+
+SOCRATE: Allora prendiamo poi i suoi due fratelli, Posidone e Plutone, sia che quest’ultimo si chiami così o con il suo altro nome.
+
+HERMOGENES: Senz’altro.
+
+SOCRATE: Posidone è Posidesmos, la catena dei piedi; l’originario inventore del nome era stato fermato dall’elemento acqueo nelle sue passeggiate, e non gli era stato permesso di proseguire, e perciò chiamò Posidone il signore di questo elemento; l’epsilon fu probabilmente inserito come ornamento. Eppure, forse, non è così; ma il nome può essere stato in origine scritto con un doppio lambda e non con un sigma, a significare che il dio conosceva molte cose (Polla eidos). E forse anche, essendo egli lo scuotitore della terra, fu chiamato dallo scuotere (seiein), e poi vi si aggiunsero il pi e il delta. Plutone dà ricchezza (Ploutos), e il suo nome significa il donatore di ricchezza, che viene su dalla terra sottostante. La gente in generale sembra immaginare che il termine Ade sia connesso con l’invisibile (aeides), e così, spinta dalle proprie paure, chiama il dio Plutone invece.
+
+HERMOGENES: E qual è la vera derivazione?
+
+SOCRATE: Nonostante gli errori che si commettono riguardo alla potenza di questa divinità, e le sciocche paure che la gente ne ha, come la paura di stare sempre con lui dopo la morte, e dell’anima che, spogliata del corpo, va da lui (confronta la Repubblica), la mia convinzione è che tutto sia perfettamente coerente, e che l’ufficio e il nome del dio realmente si corrispondano.
+
+HERMOGENES: Perché, come mai?
+
+SOCRATE: Ti dirò la mia opinione; ma prima vorrei chiederti quale catena senta più forte un qualsiasi animale, e quale lo confini di più nel medesimo luogo, — il desiderio o la necessità?
+
+HERMOGENES: Il desiderio, Socrate, è di gran lunga più forte.
+
+SOCRATE: E non pensi che molti fuggirebbero dall’Ade, se egli non legasse coloro che partono verso di lui con la più forte delle catene?
+
+HERMOGENES: Certamente lo farebbero.
+
+SOCRATE: E se con la più grande delle catene, allora con qualche desiderio, come dovrei senz’altro inferire, e non per necessità?
+
+HERMOGENES: Questo è chiaro.
+
+SOCRATE: E vi sono molti desideri?
+
+HERMOGENES: Sì.
+
+SOCRATE: E dunque con il più grande desiderio, se la catena dev’essere la più grande?
+
+HERMOGENES: Sì.
+
+SOCRATE: E vi è desiderio più forte del pensiero che sarai reso migliore dall’associarti a un altro?
+
+HERMOGENES: Certamente no.
+
+SOCRATE: E non è questa la ragione, Ermogene, per cui nessuno, di quanti sono andati da lui, è disposto a tornare da noi? Persino le Sirene, come tutto il resto del mondo, sono state poste sotto i suoi incantesimi. Tale è il fascino, immagino, che il dio è capace di infondere nelle sue parole. E, secondo questa concezione, egli è il perfetto e consumato Sofista, e il grande benefattore degli abitanti dell’altro mondo; e persino a noi che siamo sulla terra invia dal basso straordinarie benedizioni. Ché egli ha molto più di quanto gli occorra laggiù; per cui è chiamato Plutone (ovvero il ricco). Nota anche che egli non vuole aver nulla a che fare con gli uomini finché sono nel corpo, ma solo quando l’anima è liberata dai desideri e dai mali del corpo. Ora vi è una gran quantità di filosofia e di riflessione in ciò; ché nel loro stato liberato egli può legarli con il desiderio della virtù, mentre, finché sono agitati e resi folli dal corpo, nemmeno il padre Crono in persona basterebbe a tenerli con sé nelle sue famose catene.
+
+HERMOGENES: Vi è molta verità in ciò che dici.
+
+SOCRATE: Sì, Ermogene, e il legislatore lo chiamò Ade, non dall’invisibile (aeides) — tutt’altro, ma dalla sua conoscenza (eidenai) di tutte le cose nobili.
+
+HERMOGENES: Benissimo; e che diciamo di Demetra, ed Era, e Apollo, e Atena, ed Efesto, e Ares, e le altre divinità?
+
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Demeter is e didousa meter, who gives food like a mother; Here is the lovely one (erate) — for Zeus, according to tradition, loved and married her; possibly also the name may have been given when the legislator was thinking of the heavens, and may be only a disguise of the air (aer), putting the end in the place of the beginning. You will recognize the truth of this if you repeat the letters of Here several times over. People dread the name of Pherephatta as they dread the name of Apollo, — and with as little reason; the fear, if I am not mistaken, only arises from their ignorance of the nature of [names](/positions/nominalism). But they go changing the name into Phersephone, and they are terrified at this; whereas the new name means only that the Goddess is wise (sophe); for seeing that all things in the world are in motion (pheromenon), that principle which embraces and touches and is able to follow them, is wisdom. And therefore the Goddess may be truly called Pherepaphe (Pherepapha), or some name like it, because she touches that which is in motion (tou pheromenon ephaptomene), herein showing her wisdom. And Hades, who is wise, consorts with her, because she is wise. They alter her name into Pherephatta now-a-days, because the present generation care for euphony more than truth. There is the other name, Apollo, which, as I was saying, is generally supposed to have some terrible signification. Have you remarked this fact?
@@ -797,6 +1497,84 @@ HERMOGENES: Very true.
 SOCRATES: And now, by the Gods, let us have no more of the Gods, for I am afraid of them; ask about anything but them, and thou shalt see how the steeds of Euthyphro can prance.
 
 HERMOGENES: Only one more God! I should like to know about Hermes, of whom I am said not to be a true son. Let us make him out, and then I shall know whether there is any meaning in what Cratylus says.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Demetra è e didousa meter, che dà cibo come una madre; Era è la leggiadra (erate) — ché Zeus, secondo la tradizione, l’amò e la sposò; possibilmente anche il nome può esserle stato dato quando il legislatore pensava ai cieli, e può essere solo un travestimento dell’aria (aer), ponendo la fine al posto del principio. Riconoscerai la verità di ciò se ripeti più volte le lettere di Era. La gente teme il nome di Ferefatta come teme il nome di Apollo, — e con altrettanto poca ragione; la paura, se non m’inganno, nasce solo dalla loro ignoranza della natura dei [nomi](/positions/nominalism). Ma vanno cambiando il nome in Fersefone, e ne sono atterriti; mentre il nuovo nome significa soltanto che la dea è sapiente (sophe); ché, poiché tutte le cose nel mondo sono in movimento (pheromenon), quel principio che le abbraccia e le tocca ed è capace di seguirle, è sapienza. E perciò la dea può essere veramente chiamata Ferepafe (Pherepapha), o qualche nome simile, perché essa tocca ciò che è in movimento (tou pheromenon ephaptomene), mostrando in ciò la sua sapienza. E Ade, che è sapiente, si accompagna a lei, perché essa è sapiente. Oggigiorno ne alterano il nome in Ferefatta, perché la generazione presente si cura dell’eufonia più che della verità. Vi è l’altro nome, Apollo, che, come dicevo, generalmente si suppone abbia qualche terribile significato. Hai notato questo fatto?
+
+HERMOGENES: Certo che l’ho notato, e ciò che dici è vero.
+
+SOCRATE: Ma il nome, a mio parere, è in realtà quanto mai espressivo della potenza del dio.
+
+HERMOGENES: Come mai?
+
+SOCRATE: Cercherò di spiegare, ché non credo che alcun singolo nome avrebbe potuto essere meglio adatto a esprimere gli attributi del dio, abbracciandoli e in certo modo significandoli tutti e quattro, — la musica, la profezia, la medicina e il tiro con l’arco.
+
+HERMOGENES: Dev’essere uno strano nome, e vorrei udirne la spiegazione.
+
+SOCRATE: Di’ piuttosto un nome armonioso, come si conviene al dio dell’Armonia. In primo luogo, le purgazioni e purificazioni che medici e indovini usano, e le loro fumigazioni con droghe magiche o medicinali, come pure i loro lavacri e le aspersioni lustrali, hanno tutte un solo e medesimo scopo, che è di rendere l’uomo puro tanto nel corpo quanto nell’anima.
+
+HERMOGENES: Verissimo.
+
+SOCRATE: E non è Apollo il purificatore, e il lavatore, e l’assolutore da ogni impurità?
+
+HERMOGENES: Verissimo.
+
+SOCRATE: Allora, in riferimento alle sue abluzioni e assoluzioni, in quanto medico che le ordina, egli può rettamente essere chiamato Apolouon (purificatore); oppure, riguardo ai suoi poteri di divinazione, e alla sua verità e sincerità, che è lo stesso della verità, può esser chiamato con la massima proprietà Aplos, da aplous (sincero), come nel dialetto tessalico, ché tutti i Tessali lo chiamano Aplos; egli è pure aei Ballon (sempre saettante), perché è un maestro arciere che non fallisce mai; oppure ancora, il nome può riferirsi ai suoi attributi musicali, e allora, come in akolouthos, e akoitis, e in molte altre parole, si suppone che l’alpha significhi ‘insieme,’ così il significato del nome Apollo sarà ‘muoversi insieme,’ sia nei poli del cielo, come sono chiamati, sia nell’armonia del canto, che è detta concordia, perché egli muove tutto insieme con potenza armoniosa, come astronomi e musici ingegnosamente dichiarano. Ed egli è il dio che presiede all’armonia, e fa muovere tutte le cose insieme, tanto fra gli dèi quanto fra gli uomini. E come nelle parole akolouthos e akoitis l’alpha è sostituito a un omicron, così il nome Apollon equivale a omopolon; solo che il secondo lambda è aggiunto per evitare il suono di malaugurio della distruzione (apolon). Ora il sospetto di questa potenza distruttrice ancora ossessiona le menti di alcuni che non considerano il vero valore del nome, il quale, come dicevo poco fa, ha riferimento a tutte le potenze del dio, che è l’unico, il sempre saettante, il purificatore, il muovente insieme (aplous, aei Ballon, apolouon, omopolon). Il nome delle Muse e della musica sembrerebbe derivare dal loro fare indagini filosofiche (mosthai); e Leto è chiamata con questo nome perché è una dea tanto gentile, e tanto disposta (ethelemon) ad accogliere le nostre richieste; oppure il suo nome può essere Letho, come è spesso chiamata dagli stranieri — sembrano volerne implicare l’amabilità, e il suo modo di comportarsi liscio e accomodante. Artemide prende nome dalla sua natura sana (artemes) e bene ordinata, e per il suo amore della verginità, forse perché è provetta nella virtù (arete), e forse anche in quanto odia il congiungimento dei sessi (ton aroton misesasa). Chi diede alla dea il suo nome può aver avuto una o tutte queste ragioni.
+
+HERMOGENES: Qual è il significato di Dioniso e Afrodite?
+
+SOCRATE: Figlio di Ipponico, poni una domanda solenne; vi è una spiegazione seria e anche una faceta di entrambi questi nomi; la spiegazione seria non l’avrai da me, ma non v’è obiezione a che tu oda quella faceta; ché anche gli dèi amano lo scherzo. Dionusos è semplicemente didous oinon (donatore di vino), Didoinusos, come potrebbe scherzosamente esser chiamato, — e oinos è propriamente oionous, perché il vino fa credere (oiesthai) a coloro che bevono di avere una mente (noun) quando non ne hanno alcuna. La derivazione di Afrodite, nata dalla schiuma (aphros), può essere equamente accettata sull’autorità di Esiodo.
+
+HERMOGENES: Rimane tuttavia Atena, che tu, Socrate, in quanto Ateniese, non dimenticherai di certo; vi sono anche Efesto e Ares.
+
+SOCRATE: Non è probabile che li dimentichi.
+
+HERMOGENES: No, davvero.
+
+SOCRATE: Non vi è difficoltà a spiegare l’altra denominazione di Atena.
+
+HERMOGENES: Quale altra denominazione?
+
+SOCRATE: La chiamiamo Pallade.
+
+HERMOGENES: Di certo.
+
+SOCRATE: E non possiamo sbagliarci nel supporre che ciò derivi dalle danze armate. Ché l’elevarsi di se stessi o di qualcos’altro al di sopra della terra, o mediante l’uso delle mani, lo chiamiamo scuotere (pallein), o danzare.
+
+HERMOGENES: È del tutto vero.
+
+SOCRATE: Allora questa è la spiegazione del nome Pallade?
+
+HERMOGENES: Sì; ma che dici dell’altro nome?
+
+SOCRATE: Atena?
+
+HERMOGENES: Sì.
+
+SOCRATE: Questa è una faccenda più grave, e qui, amico mio, i moderni interpreti di Omero possono, penso, essere d’aiuto nello spiegare la veduta degli antichi. Ché la maggior parte di costoro, nelle loro spiegazioni del poeta, asserisce che egli intese per Atena ‘mente’ (nous) e ‘intelligenza’ (dianoia), e il facitore di nomi sembra aver avuto una singolare nozione riguardo a lei; e invero la chiama con un titolo ancor più alto, ‘divina intelligenza’ (Thou noesis), come se volesse dire: Questa è colei che ha la mente di dio (Theonoa); — usando l’alpha come variante dialettale dell’eta, e togliendo lo iota e il sigma (Vi sembra essere qualche errore nei manoscritti. Il significato è che la parola theonoa = theounoa è una forma abbreviata di theou noesis, ma le lettere omesse non corrispondono.). Forse, tuttavia, il nome Theonoe può significare ‘colei che conosce le cose divine’ (Theia noousa) meglio di altri. Né saremo lontani dal vero nel supporre che l’autore di esso volesse identificare questa dea con l’intelligenza morale (en ethei noesin), e perciò le desse il nome ethonoe; il quale, tuttavia, o egli o i suoi successori hanno mutato in ciò che ritenevano una forma più graziosa, e la chiamarono Atena.
+
+HERMOGENES: Ma che dici di Efesto?
+
+SOCRATE: Parli del principesco signore della luce (Phaeos istora)?
+
+HERMOGENES: Sicuramente.
+
+SOCRATE: Ephaistos è Phaistos, e vi ha aggiunto l’eta per attrazione; ciò è ovvio a chiunque.
+
+HERMOGENES: È molto probabile, finché qualche nozione più probabile non ti entri in testa.
+
+SOCRATE: Per evitarlo, faresti meglio a chiedere quale sia la derivazione di Ares.
+
+HERMOGENES: Che cos’è Ares?
+
+SOCRATE: Ares può essere chiamato, se vuoi, dalla sua virilità (arren) e mascolinità, o, se preferisci, dalla sua natura dura e immutabile, che è il significato di arratos: quest’ultima è una derivazione in ogni modo appropriata al dio della guerra.
+
+HERMOGENES: Verissimo.
+
+SOCRATE: E ora, per gli dèi, basta con gli dèi, ché ne ho timore; chiedimi qualsiasi cosa tranne loro, e vedrai come sanno impennarsi i destrieri di Eutifrone.
+
+HERMOGENES: Ancora un solo dio! Vorrei sapere di Ermes, del quale si dice che io non sia vero figlio. Chiariamolo, e allora saprò se vi è qualche senso in ciò che dice Cratilo.
 
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -904,6 +1682,112 @@ SOCRATES: That is a tremendous class of names which you are disinterring; still,
 
 HERMOGENES: Surely, we must not leave off until we find out their meaning.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Immaginerei che il nome Ermes abbia a che fare con la parola, e significhi che egli è l’interprete (ermeneus), o messaggero, o ladro, o mentitore, o mercanteggiatore; tutto ciò ha molto a che fare con il linguaggio; come ti dicevo, la parola eirein è espressiva dell’uso della parola, e vi è una parola omerica ricorrente, emesato, che significa ‘egli escogitò’ — da queste due parole, eirein e mesasthai, il legislatore formò il nome del dio che inventò il linguaggio e la parola; e possiamo immaginarlo dettarci l’uso di questo nome: ‘O amici miei,’ egli ci dice, ‘visto che egli è l’artefice di racconti o discorsi, potete rettamente chiamarlo Eirhemes.’ E questo è stato migliorato da noi, come pensiamo, in Ermes. Anche Iride sembra aver preso nome dal verbo ‘dire’ (eirein), perché era una messaggera.
+
+HERMOGENES: Allora sono ben certo che Cratilo aveva perfettamente ragione nel dire che io non ero vero figlio di Ermes (Ermogenes), ché non sono abile nei discorsi.
+
+SOCRATE: Vi è anche una ragione, amico mio, nel fatto che Pan sia il figlio bimorfo di Ermes.
+
+HERMOGENES: Come lo deduci?
+
+SOCRATE: Sei consapevole che la parola significa tutte le cose (pan), e le va sempre volgendo e rivolgendo, e ha due forme, vera e falsa?
+
+HERMOGENES: Certamente.
+
+SOCRATE: Non è la verità che è in lui la forma liscia o sacra che dimora in alto fra gli dèi, mentre la falsità dimora fra gli uomini in basso, ed è ruvida come il capro della tragedia; ché racconti e falsità hanno generalmente a che fare con la vita tragica o caprina, e la tragedia è il luogo loro proprio?
+
+HERMOGENES: Verissimo.
+
+SOCRATE: Allora certamente Pan, che è il proclamatore di tutte le cose (pan) e il perpetuo movente (aei polon) di tutte le cose, è rettamente chiamato aipolos (capraio), essendo egli il figlio bimorfo di Ermes, liscio nella sua parte superiore, e ruvido e caprino nelle sue regioni inferiori. E, in quanto figlio di Ermes, egli è la parola o il fratello della parola, e che fratello somigli a fratello non è meraviglia. Ma, come dicevo, mio caro Ermogene, allontaniamoci dagli dèi.
+
+HERMOGENES: Da questa sorta di dèi, senz’altro, Socrate. Ma perché non discutere di un’altra specie di dèi — il sole, la luna, le stelle, la terra, l’etere, l’aria, il fuoco, l’acqua, le stagioni e l’anno?
+
+SOCRATE: Mi imponi moltissimi compiti. Tuttavia, se lo desideri, non rifiuterò.
+
+HERMOGENES: Mi farai cosa gradita.
+
+SOCRATE: Come vorresti che cominciassi? Prenderò per primo colui che tu hai menzionato per primo — il sole?
+
+HERMOGENES: Benissimo.
+
+SOCRATE: L’origine del sole sarà probabilmente più chiara nella forma dorica, ché i Dori lo chiamano alios, e questo nome gli è dato perché, quando sorge, raduna (alizoi) gli uomini, oppure perché è sempre in rotolamento nel suo corso (aei eilein ion) intorno alla terra; o da aiolein, il cui significato è lo stesso di poikillein (variegare), perché egli variegia i prodotti della terra.
+
+HERMOGENES: Ma che cos’è selene (la luna)?
+
+SOCRATE: Quel nome è piuttosto sfortunato per Anassagora.
+
+HERMOGENES: Come mai?
+
+SOCRATE: La parola sembra anticipare la sua recente scoperta, che la luna riceve la sua luce dal sole.
+
+HERMOGENES: Perché lo dici?
+
+SOCRATE: Le due parole selas (splendore) e phos (luce) hanno pressoché il medesimo significato?
+
+HERMOGENES: Sì.
+
+SOCRATE: Questa luce intorno alla luna è sempre nuova (neon) e sempre vecchia (enon), se i discepoli di Anassagora dicono il vero. Ché il sole nella sua [rivoluzione](/positions/revolution) aggiunge sempre luce nuova, e vi è la vecchia luce del mese precedente.
+
+HERMOGENES: Verissimo.
+
+SOCRATE: La luna è non di rado chiamata selanaia.
+
+HERMOGENES: Vero.
+
+SOCRATE: E poiché ha una luce che è sempre vecchia e sempre nuova (enon neon aei) può molto propriamente avere il nome selaenoneoaeia; e questo, quando è martellato in forma, diviene selanaia.
+
+HERMOGENES: Un nome davvero di sorta ditirambica, Socrate. Ma che dici del mese e delle stelle?
+
+SOCRATE: Meis (mese) è chiamato da meiousthai (diminuire), perché soggetto a diminuzione; il nome di astra (stelle) sembra derivare da astrape, che è un miglioramento di anastrope, a significare il rovesciamento degli occhi (anastrephein opa).
+
+HERMOGENES: Che dici di pur (fuoco) e udor (acqua)?
+
+SOCRATE: Sono in imbarazzo su come spiegare pur; o la musa di Eutifrone mi ha abbandonato, o vi è qualche grandissima difficoltà nella parola. Ti prego, tuttavia, di notare l’espediente che adotto ogni volta che mi trovo in una difficoltà di questo genere.
+
+HERMOGENES: Quale?
+
+SOCRATE: Te lo dirò; ma vorrei prima sapere se tu puoi dirmi qual è il significato di pur.
+
+HERMOGENES: Davvero non lo so.
+
+SOCRATE: Devo dirti ciò che sospetto essere la vera spiegazione di questa e di parecchie altre parole? — La mia convinzione è che siano di origine straniera. Ché gli Elleni, specialmente quelli che erano sotto il dominio dei barbari, spesso prendevano in prestito da loro.
+
+HERMOGENES: Qual è la conclusione?
+
+SOCRATE: Ebbene, sai che chiunque cerchi di dimostrare la convenienza di questi [nomi](/positions/nominalism) secondo la lingua ellenica, e non secondo la lingua da cui le parole derivano, è piuttosto probabile che sbagli.
+
+HERMOGENES: Sì, certamente.
+
+SOCRATE: Ebbene, considera allora se questo pur non sia straniero; ché la parola non si mette facilmente in relazione con la lingua ellenica, e si può osservare che i Frigi hanno la stessa parola lievemente mutata, proprio come hanno udor (acqua) e kunes (cani), e molte altre parole.
+
+HERMOGENES: È vero.
+
+SOCRATE: Ogni interpretazione violenta delle parole andrebbe evitata; ché qualcosa da dire su di esse si può facilmente trovare. E così mi sbarazzo di pur e udor. Aer (aria), Ermogene, può essere spiegata come l’elemento che solleva (airei) le cose dalla terra, o come ciò che eternamente scorre (aei rei), o perché il flusso dell’aria è vento, e i poeti chiamano i venti ‘soffi d’aria,’ (aetai); chi usa il termine può intendere, per così dire, flusso-d’aria (aetorroun), nel senso di flusso-di-vento (pneumatorroun); e poiché questo vento in moto può essere espresso con l’uno o l’altro termine, egli impiega la parola aria (aer = aetes rheo). Aither (etere) lo interpreterei come aeitheer; ciò può dirsi correttamente, perché questo elemento è sempre in corsa in un flusso intorno all’aria (aei thei peri tou aera reon). Il significato della parola ge (terra) emerge meglio nella forma gaia, ché la terra può veramente esser chiamata ‘madre’ (gaia, genneteira), come nella lingua di Omero (Od.) gegaasi significa gegennesthai.
+
+HERMOGENES: Bene.
+
+SOCRATE: Che prenderemo poi?
+
+HERMOGENES: Vi sono orai (le stagioni), e i due nomi dell’anno, eniautos ed etos.
+
+SOCRATE: Le orai andrebbero scritte all’antica maniera attica, se desideri conoscere la probabile verità su di esse; sono rettamente chiamate orai perché dividono (orizousin) le estati e gli inverni e i venti e i frutti della terra. Le parole eniautos ed etos sembrano essere la stessa cosa, — ‘ciò che porta alla luce le piante e i germogli della terra a loro volta, e li passa in rassegna dentro di sé (en eauto exetazei)’: questo si scinde in due parole, eniautos da en eauto, ed etos da etazei, proprio come il nome originario di Zeus fu diviso in Zena e Dia; e l’intera proposizione significa che il suo potere di passare in rassegna dall’interno è uno, ma ha due nomi, formandosi così due parole, etos ed eniautos, da un’unica proposizione.
+
+HERMOGENES: Davvero, Socrate, fai sorprendenti [progressi](/positions/progress).
+
+SOCRATE: Sono trascinato via.
+
+HERMOGENES: Verissimo.
+
+SOCRATE: Ma non sono ancora alla mia massima velocità.
+
+HERMOGENES: Vorrei molto sapere, in secondo luogo, come spiegheresti le virtù. Quale principio di correttezza vi è in quelle affascinanti parole — saggezza, intelletto, giustizia e le altre?
+
+SOCRATE: Questa è una tremenda classe di nomi che vai dissotterrando; tuttavia, poiché ho indossato la pelle del leone, non devo perdermi d’animo; e suppongo di dover considerare il significato di saggezza ([phronesis](/concepts/phronesis)) e intelletto (sunesis), e giudizio (gnome), e conoscenza (episteme), e tutte quelle altre affascinanti parole, come le chiami tu?
+
+HERMOGENES: Certamente, non dobbiamo smettere finché non ne abbiamo scoperto il significato.
+
 <span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): By the dog of Egypt I have a not bad notion which came into my head only this moment: I believe that the primeval givers of [names](/positions/nominalism) were undoubtedly like too many of our modern philosophers, who, in their search after the nature of things, are always getting dizzy from constantly going round and round, and then they imagine that the world is going round and round and moving in all directions; and this appearance, which arises out of their own internal condition, they suppose to be a reality of nature; they think that there is nothing stable or permanent, but only flux and motion, and that the world is always full of every sort of motion and change. The consideration of the names which I mentioned has led me into making this reflection.
@@ -941,6 +1825,44 @@ HERMOGENES: Very true.
 SOCRATES: That may be identified with echonoe, and expresses the possession of mind: you have only to take away the tau and insert two omichrons, one between the chi and nu, and another between the nu and eta.
 
 HERMOGENES: That is a very shabby etymology.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Per il cane d’Egitto, ho una non cattiva idea che mi è venuta in testa proprio in questo momento: credo che i primevi datori di [nomi](/positions/nominalism) fossero senza dubbio simili a troppi dei nostri moderni filosofi, i quali, nella loro ricerca della natura delle cose, si stordiscono di continuo per il girare incessante in tondo, e allora immaginano che il mondo giri in tondo e si muova in tutte le direzioni; e questa apparenza, che nasce dalla loro condizione interiore, la suppongono essere una realtà della natura; pensano che non vi sia nulla di stabile o permanente, ma solo flusso e movimento, e che il mondo sia sempre pieno di ogni sorta di moto e mutamento. La considerazione dei nomi che ho menzionato mi ha condotto a fare questa riflessione.
+
+HERMOGENES: Come mai, Socrate?
+
+SOCRATE: Forse non hai osservato che nei nomi appena citati il moto o flusso o generazione delle cose è indicato con la massima certezza.
+
+HERMOGENES: No, davvero, non ci ho mai pensato.
+
+SOCRATE: Prendi il primo di quelli che hai menzionato; chiaramente è un nome indicativo di moto.
+
+HERMOGENES: Qual era il nome?
+
+SOCRATE: [Phronesis](/concepts/phronesis) (saggezza), che può significare phoras kai rhou noesis (percezione del moto e del flusso), o forse phoras onesis (la benedizione del moto), ma è in ogni caso connesso con pheresthai (moto); gnome (giudizio), di nuovo, implica certamente la ponderazione o considerazione (nomesis) della generazione, ché ponderare è lo stesso che considerare; oppure, se preferisci, ecco noesis, la parola stessa or ora menzionata, che è neou esis (il desiderio del nuovo); la parola neos implica che il mondo è sempre in processo di creazione. Il datore del nome volle esprimere questa brama dell’anima, ché il nome originario era neoesis, e non noesis; ma l’eta prese il posto di un doppio epsilon. La parola sophrosune è la salvezza (soteria) di quella saggezza (phronesis) che stavamo or ora considerando. Epioteme (conoscenza) è affine a questo, e indica che l’anima che è buona a qualcosa segue (epetai) il moto delle cose, senza anticiparle né restare loro indietro; per cui la parola dovrebbe piuttosto leggersi epistemene, inserendo epsilon e nu. Sunesis (intelletto) può essere considerata alla stessa maniera come una sorta di conclusione; la parola deriva da sunienai (andare insieme), e, come epistasthai (sapere), implica la progressione dell’anima in compagnia della natura delle cose. [Sophia](/concepts/wisdom) (sapienza) è assai oscura, e non sembra essere di crescita nativa; il significato riguarda il moto o la corrente delle cose. Devi ricordare che i poeti, quando parlano dell’inizio di un qualche rapido moto, usano spesso la parola esuthe (si slanciò); e vi fu un famoso Lacedemone che si chiamava Sous (Slancio), ché con questa parola i Lacedemoni significano il moto rapido, e il tocco (epaphe) del moto è espresso da sophia, giacché si suppone che tutte le cose siano in moto. Buono (agathon) è il nome che si dà a ciò che è ammirevole (agasto) in natura; ché, per quanto tutte le cose si muovano, vi sono pur sempre gradi di moto; alcune sono più rapide, altre più lente; ma vi sono cose che sono ammirevoli per la loro rapidità, e questa parte ammirevole della natura è chiamata agathon. Dikaiosune (giustizia) è chiaramente dikaiou sunesis (intelletto del giusto); ma l’effettiva parola dikaion è più difficile: gli uomini sono d’accordo solo fino a un certo punto sulla giustizia, e poi cominciano a dissentire. Ché coloro i quali suppongono tutte le cose in moto concepiscono la maggior parte della natura come un mero ricettacolo; e dicono che vi è una potenza penetrante che passa attraverso tutto questo, ed è lo strumento della creazione in tutto, ed è l’elemento più sottile e più rapido; ché se non fosse il più sottile, e una potenza che nulla può tenere fuori, e anche il più rapido, oltrepassando le altre cose come se stessero ferme, non potrebbe penetrare attraverso l’universo in movimento. E questo elemento, che sovrintende a tutte le cose e trafigge (diaion) tutto, è rettamente chiamato dikaion; la lettera k è aggiunta solo per amore dell’eufonia. Fin qui, come dicevo, vi è generale accordo sulla natura della giustizia; ma io, Ermogene, essendo un entusiasta discepolo, sono stato istruito in un mistero che la giustizia di cui parlo è anche la causa del mondo: ora una causa è ciò a motivo del quale qualcosa è creato; e qualcuno viene e mi bisbiglia all’orecchio che la giustizia è rettamente così chiamata perché partecipa della natura della causa, e io comincio, dopo aver udito ciò che egli ha detto, a interrogarlo con dolcezza: ‘Ebbene, mio eccellente amico,’ dico, ‘ma se tutto ciò è vero, voglio ancora sapere che cos’è la giustizia.’ A questo punto essi pensano che io ponga domande fastidiose, e che stia scavalcando le barriere, e che sia già stato sufficientemente risposto, e cercano di soddisfarmi con una derivazione dopo l’altra, e alla fine litigano. Ché uno di loro dice che la giustizia è il sole, e che esso solo è l’elemento penetrante (diaionta) e ardente (kaonta) che è il custode della natura. E quando ripeto con gioia questa bella nozione, mi si risponde con l’osservazione satirica: ‘Come, non vi è giustizia nel mondo quando il sole è tramontato?’ E quando prego con insistenza il mio interlocutore di dirmi la sua onesta opinione, egli dice: ‘Il fuoco in astratto’; ma questo non è molto intelligibile. Un altro dice: ‘No, non il fuoco in astratto, ma l’astrazione del calore nel fuoco.’ Un altro uomo si professa incline a ridere di tutto ciò, e dice, come dice Anassagora, che la giustizia è mente, ché la mente, come dicono, ha potere assoluto, e non si mescola a nulla, e ordina tutte le cose, e passa attraverso tutte le cose. Alla fine, amico mio, mi trovo in ben maggiore perplessità sulla natura della giustizia di quanto non fossi prima di cominciare ad apprendere. Ma sono tuttora dell’opinione che il nome, che mi ha condotto in questa digressione, sia stato dato alla giustizia per le ragioni che ho menzionato.
+
+HERMOGENES: Penso, Socrate, che tu non stia improvvisando ora; devi aver udito questo da qualcun altro.
+
+SOCRATE: E non il resto?
+
+HERMOGENES: Difficilmente.
+
+SOCRATE: Ebbene, allora, lasciami proseguire nella speranza di farti credere all’originalità del resto. Che cosa rimane dopo la giustizia? Non penso che abbiamo finora discusso il coraggio (andreia), — l’ingiustizia (adikia), che non è ovviamente niente più di un ostacolo al principio penetrante (diaiontos), non ha bisogno di essere considerata. Ebbene, allora, il nome di andreia sembra implicare una battaglia; — questa battaglia è nel mondo dell’esistenza, e secondo la dottrina del flusso è solo il controflusso (enantia rhon): se estrai il delta da andreia, il nome significa subito la cosa, e puoi chiaramente comprendere che andreia non è la corrente opposta a ogni corrente, ma solo a quella che è contraria alla giustizia, ché altrimenti il coraggio non sarebbe stato lodato. Anche le parole arren (maschio) e aner (uomo) contengono una simile allusione al medesimo principio del flusso verso l’alto (te ano rhon). Gune (donna) sospetto sia la stessa parola di goun (nascita): thelu (femmina) sembra derivare in parte da thele (la mammella), perché la mammella è come la pioggia, e fa prosperare le cose (tethelenai).
+
+HERMOGENES: Questo è certamente probabile.
+
+SOCRATE: Sì; e la parola stessa thallein (fiorire) sembra raffigurare la crescita della giovinezza, che è sempre rapida e improvvisa. E questo è espresso dal legislatore nel nome, che è un composto di thein (correre) e allesthai (saltare). Osserva, ti prego, come galoppo via quando arrivo su terreno piano. Vi sono parecchi nomi generalmente ritenuti d’importanza, che restano ancora da spiegare.
+
+HERMOGENES: Vero.
+
+SOCRATE: Vi è il significato della parola techne (arte), per esempio.
+
+HERMOGENES: Verissimo.
+
+SOCRATE: Quello può essere identificato con echonoe, ed esprime il possesso della mente: non hai che da togliere il tau e inserire due omicron, uno tra il chi e il nu, e un altro tra il nu e l’eta.
+
+HERMOGENES: Questa è un’etimologia assai meschina.
 
 <span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1048,6 +1970,112 @@ SOCRATES: That is the fault of the makers of the name, Hermogenes; not mine.
 
 HERMOGENES: Very true; but what is the derivation of zemiodes?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Sì, mio caro amico; ma sai bene che i [nomi](/positions/nominalism) originari sono stati da lungo tempo sepolti e travestiti dalla gente che attacca e stacca lettere per amore dell’eufonia, e le contorce e le abbellisce in ogni sorta di modo: e anche il tempo può aver avuto la sua parte nel mutamento. Prendi, per esempio, la parola katoptron; perché è inserita la lettera rho? Questa dev’essere di certo l’aggiunta di qualcuno che nulla si cura della verità, ma pensa solo a mettere in forma la bocca. E le aggiunte sono spesso tali che alla fine nessun essere umano può più ricavare il significato originario della parola. Un altro esempio è la parola sphigx, sphiggos, che dovrebbe propriamente essere phigx, phiggos, e vi sono altri esempi.
+
+HERMOGENES: È del tutto vero, Socrate.
+
+SOCRATE: Eppure, se ti è permesso mettere e togliere qualsiasi lettera ti piaccia, i nomi si faranno troppo facilmente, e qualsiasi nome potrà adattarsi a qualsiasi oggetto.
+
+HERMOGENES: Vero.
+
+SOCRATE: Sì, è vero. E perciò un saggio dittatore, come te, dovrebbe osservare le leggi della moderazione e della probabilità.
+
+HERMOGENES: Tale è il mio desiderio.
+
+SOCRATE: E anche il mio, Ermogene. Ma non essere troppo pignolo, o ‘mi snerverai della mia forza (Iliade.).’ Quando mi avrai permesso di aggiungere mechane (espediente) a techne (arte), sarò al culmine della mia foga, ché concepisco mechane come segno di grande compimento — anein; ché mekos ha il significato di grandezza, e queste due, mekos e anein, compongono la parola mechane. Ma, come dicevo, essendo ora al culmine della mia foga, vorrei considerare il significato delle due parole arete (virtù) e kakia (vizio); arete non lo comprendo ancora, ma kakia è trasparente, e concorda con i principi che l’hanno preceduto, ché, essendo tutte le cose in flusso (ionton), kakia è kakos ion (andare male); e questo moto malvagio, quando esiste nell’anima, ha il nome generale di kakia, o vizio, ad esso specialmente appropriato. Il significato di kakos ienai può essere ulteriormente illustrato dall’uso di deilia (viltà), che sarebbe dovuta venire dopo andreia, ma fu dimenticata, e, come temo, non è la sola parola che sia stata tralasciata. Deilia significa che l’anima è legata con una forte catena (desmos), ché lian significa forza, e perciò deilia esprime il più grande e più forte legame dell’anima; e aporia (difficoltà) è un male della stessa natura (da a (alpha) non, e poreuesthai andare), come qualsiasi altra cosa che sia d’impedimento al moto e al movimento. Allora la parola kakia sembra significare kakos ienai, ovvero andar male, o zoppicare e arrancare; di cui la conseguenza è che l’anima si riempie di vizio. E se kakia è il nome di questa sorta di cosa, arete ne sarà l’opposto, significando in primo luogo facilità di moto, poi che la corrente della buona anima è senza impedimento, e ha perciò l’attributo di scorrere sempre senza ostacolo né intoppo, ed è perciò chiamata arete, o, più correttamente, aeireite (sempre fluente), e può forse aver avuto un’altra forma, airete (eleggibile), a indicare che nulla è più eleggibile della virtù, e questo è stato martellato in arete. Oso dire che riterrai questa un’altra mia invenzione, ma penso che, se la precedente parola kakia era giusta, allora anche arete è giusta.
+
+HERMOGENES: Ma qual è il significato di kakon, che ha avuto una parte così grande nel tuo precedente discorso?
+
+SOCRATE: Questa è una parola assai singolare, sulla quale a stento posso formarmi un’opinione, e perciò devo ricorrere al mio ingegnoso espediente.
+
+HERMOGENES: Quale espediente?
+
+SOCRATE: L’espediente di un’origine straniera, che darò anche a questa parola.
+
+HERMOGENES: Molto probabilmente hai ragione; ma supponiamo di lasciare queste parole e di cercare di vedere il fondamento di kalon e aischron.
+
+SOCRATE: Il significato di aischron è evidente, essendo solo aei ischon roes (che sempre impedisce di scorrere), e questo è in accordo con le nostre precedenti derivazioni. Ché il datore di nomi era un gran nemico di ogni sorta di stagnazione, e quindi diede il nome aeischoroun a ciò che ostacolava il flusso (aei ischon roun), e questo è ora battuto insieme in aischron.
+
+HERMOGENES: Ma che dici di kalon?
+
+SOCRATE: Questo è più oscuro; eppure la forma è dovuta solo alla quantità, ed è stata mutata alterando omicron upsilon in omicron.
+
+HERMOGENES: Che vuoi dire?
+
+SOCRATE: Questo nome sembra denotare la mente.
+
+HERMOGENES: Come mai?
+
+SOCRATE: Lascia che ti chieda quale sia la causa per cui una cosa ha un nome; non è forse la causa il principio che impone il nome?
+
+HERMOGENES: Certamente.
+
+SOCRATE: E questa non dev’essere la mente degli dèi, o degli uomini, o di entrambi?
+
+HERMOGENES: Sì.
+
+SOCRATE: Non è la mente ciò che chiamò (kalesan) le cose con i loro nomi, e non è la mente il bello (kalon)?
+
+HERMOGENES: Questo è evidente.
+
+SOCRATE: E le opere dell’intelligenza e della mente non sono degne di lode, e non sono le altre opere degne di biasimo?
+
+HERMOGENES: Certamente.
+
+SOCRATE: La medicina compie l’opera di un medico, e la carpenteria compie le opere di un carpentiere?
+
+HERMOGENES: Esattamente.
+
+SOCRATE: E il principio della [bellezza](/concepts/beauty) compie le opere della bellezza?
+
+HERMOGENES: Naturalmente.
+
+SOCRATE: E quel principio noi affermiamo essere la mente?
+
+HERMOGENES: Verissimo.
+
+SOCRATE: Allora la mente è rettamente chiamata bellezza, perché compie le opere che noi riconosciamo e chiamiamo il bello?
+
+HERMOGENES: Questo è evidente.
+
+SOCRATE: Quali altri nomi ci restano?
+
+HERMOGENES: Vi sono le parole che sono connesse con agathon e kalon, come sumpheron e lusiteloun, ophelimon, kerdaleon, e i loro opposti.
+
+SOCRATE: Il significato di sumpheron (vantaggioso) penso che tu possa scoprirlo da te alla luce degli esempi precedenti, — ché è una parola sorella di episteme, e significa proprio il moto (pora) dell’anima che accompagna il mondo, e le cose che si fanno secondo questo principio sono chiamate sumphora o sumpheronta, perché sono portate in giro con il mondo.
+
+HERMOGENES: Questo è probabile.
+
+SOCRATE: Di nuovo, cherdaleon (lucroso) è chiamato da cherdos (guadagno), ma devi mutare il delta in nu se vuoi arrivare al significato; ché anche questa parola significa buono, ma in altro modo; chi diede il nome intendeva esprimere il potere di mescolanza (kerannumenon) e di universale penetrazione nel bene; nel formare la parola, tuttavia, inserì un delta invece di un nu, e così fece kerdos.
+
+HERMOGENES: Ebbene, ma che cos’è lusiteloun (proficuo)?
+
+SOCRATE: Suppongo, Ermogene, che con il proficuo la gente non intenda il lucroso o ciò che paga (luei) il rivenditore, ma usi la parola nel senso di rapido. Tu consideri il proficuo (lusiteloun) come ciò che, essendo la cosa più rapida in esistenza, non consente sosta nelle cose né pausa o fine del moto, ma sempre, se comincia a esservi qualche fine, lascia andare di nuovo le cose (luei), e rende il moto immortale e incessante: e da questo punto di vista, come mi pare, il bene è felicemente denominato lusiteloun — essendo ciò che scioglie (luon) la fine ([telos](/concepts/four_causes)) del moto. Ophelimon (il giovevole) deriva da ophellein, e significa ciò che crea e accresce; quest’ultima è una comune parola omerica, e ha carattere straniero.
+
+HERMOGENES: E che dici dei loro opposti?
+
+SOCRATE: Di quelli che sono meri negativi a stento penso di dover parlare.
+
+HERMOGENES: Quali sono?
+
+SOCRATE: Le parole axumphoron (svantaggioso), anopheles (non proficuo), alusiteles (non giovevole), akerdes (non lucroso).
+
+HERMOGENES: Vero.
+
+SOCRATE: Preferirei prendere le parole blaberon (dannoso), zemiodes (nocivo).
+
+HERMOGENES: Bene.
+
+SOCRATE: La parola blaberon è ciò che si dice ostacolare o danneggiare (blaptein) la corrente (roun); blapton è boulomenon aptein (che cerca di tenere o legare); ché aptein è lo stesso di dein, e dein è sempre un termine di biasimo; boulomenon aptein roun (che vuole legare la corrente) sarebbe propriamente boulapteroun, e questo, come immagino, è migliorato in blaberon.
+
+HERMOGENES: Tiri fuori risultati curiosi, Socrate, nell’uso dei nomi; e quando odo la parola boulapteroun non posso fare a meno di immaginare che tu stia facendo della tua bocca un flauto, e soffiando via a qualche preludio ad Atena.
+
+SOCRATE: Questa è colpa dei facitori del nome, Ermogene; non mia.
+
+HERMOGENES: Verissimo; ma qual è la derivazione di zemiodes?
+
 <span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): What is the meaning of zemiodes? — let me remark, Hermogenes, how right I was in saying that great changes are made in the meaning of words by putting in and pulling out letters; even a very slight permutation will sometimes give an entirely opposite sense; I may instance the word deon, which occurs to me at the moment, and reminds me of what I was going to say to you, that the fine fashionable language of modern times has twisted and disguised and entirely altered the original meaning both of deon, and also of zemiodes, which in the old language is clearly indicated.
@@ -1113,6 +2141,72 @@ HERMOGENES: Yes.
 SOCRATES: One way of giving the appearance of an answer has been already suggested.
 
 HERMOGENES: What way?
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Qual è il significato di zemiodes? — lascia che io osservi, Ermogene, quanto avevo ragione nel dire che grandi mutamenti si producono nel significato delle parole mettendo e togliendo lettere; persino una permutazione lievissima darà talvolta un senso interamente opposto; posso addurre a esempio la parola deon, che mi viene in mente in questo momento, e mi ricorda ciò che stavo per dirti, che il raffinato linguaggio alla moda dei tempi moderni ha contorto e travestito e interamente alterato il significato originario tanto di deon quanto di zemiodes, che nell’antica lingua è chiaramente indicato.
+
+HERMOGENES: Che vuoi dire?
+
+SOCRATE: Cercherò di spiegare. Sei consapevole che i nostri antenati amavano i suoni iota e delta, specialmente le donne, che sono le più conservatrici dell’antica lingua, ma ora essi mutano iota in eta o epsilon, e delta in zeta; si suppone che ciò accresca la grandiosità del suono.
+
+HERMOGENES: Che vuoi dire?
+
+SOCRATE: Per esempio, in tempi assai antichi chiamavano il giorno o imera o emera (e breve), che da noi è chiamato emera (e lunga).
+
+HERMOGENES: È vero.
+
+SOCRATE: Osservi che solo la forma antica mostra l’intenzione del datore del nome? della qual cosa la ragione è che gli uomini bramano (imeirousi) e amano la luce che viene dopo le tenebre, ed è perciò chiamata imera, da imeros, desiderio.
+
+HERMOGENES: Chiaramente.
+
+SOCRATE: Ma ora il nome è talmente travisato che non se ne può dire il significato, benché vi siano alcuni che immaginano il giorno esser chiamato emera perché rende le cose gentili (emera con accenti diversi).
+
+HERMOGENES: Tale è la mia veduta.
+
+SOCRATE: E sai che gli antichi dicevano duogon e non zugon?
+
+HERMOGENES: Così facevano.
+
+SOCRATE: E zugon (giogo) non ha significato, — dovrebbe essere duogon, parola che esprime il legare due cose insieme (duein agoge) allo scopo di trainare; — questo è stato mutato in zugon, e vi sono molti altri esempi di simili mutamenti.
+
+HERMOGENES: Ve ne sono.
+
+SOCRATE: Procedendo nel medesimo ordine di pensiero, posso osservare che la parola deon (obbligo) ha un significato che è l’opposto di tutte le altre denominazioni del bene; ché deon è qui una specie di bene, e tuttavia è la catena (desmos) o l’impedimento del moto, e perciò fratello germano di blaberon.
+
+HERMOGENES: Sì, Socrate; questo è del tutto chiaro.
+
+SOCRATE: Non se ripristini la forma antica, che è più probabilmente quella corretta, e leggi dion invece di deon; se converti l’epsilon in uno iota alla vecchia maniera, questa parola concorderà allora con le altre parole che significano bene; ché dion, non deon, significa il bene, ed è un termine di lode; e l’autore dei [nomi](/positions/nominalism) non ha contraddetto se stesso, ma in tutte queste varie denominazioni, deon (obbligatorio), ophelimon (giovevole), lusiteloun (proficuo), kerdaleon (lucroso), agathon (buono), sumpheron (vantaggioso), euporon (abbondante), è implicata la medesima concezione del principio ordinatore o pervadente ogni cosa che è lodato, e del principio restrittivo e vincolante che è biasimato. E ciò è ulteriormente illustrato dalla parola zemiodes (nocivo), che, se lo zeta è solo mutato in delta come nell’antica lingua, diviene demiodes; e questo nome, come percepirai, è dato a ciò che lega il moto (dounti ion).
+
+HERMOGENES: Che dici di edone (piacere), lupe (dolore), epithumia (desiderio), e simili, Socrate?
+
+SOCRATE: Non penso, Ermogene, che vi sia gran difficoltà riguardo a esse — edone è e (eta) onesis, l’azione che tende al vantaggio; e si può supporre che la forma originaria fosse eone, ma questa è stata alterata dall’inserimento del delta. Lupe sembra derivare dal rilassamento (luein) che il corpo sente quando è nel dolore; ania (affanno) è l’impedimento del moto (alpha e ienai); algedon (angoscia), se non m’inganno, è una parola straniera, derivata da aleinos (penoso); odune (afflizione) è chiamata dal rivestirsi (endusis) di dolore; in achthedon (vessazione) ‘anche la parola fatica,’ come chiunque può vedere; chara (gioia) è la vera e propria espressione della fluidità e diffusione dell’anima (cheo); terpsis (diletto) è così chiamata dal piacere che striscia (erpon) attraverso l’anima, il quale può essere paragonato a un soffio (pnoe) ed è propriamente erpnoun, ma è stato alterato dal tempo in terpnon; eupherosune (letizia) ed epithumia si spiegano da sé; la prima, che dovrebbe essere eupherosune ed è stata cambiata in euphrosune, prende nome, come ognuno può vedere, dal moversi dell’anima (pheresthai) in armonia con la natura; epithumia è realmente e epi ton thumon iousa dunamis, la potenza che entra nell’anima; thumos (passione) è chiamato dallo slancio (thuseos) e dal ribollire dell’anima; imeros (desiderio) denota la corrente (rous) che più trae l’anima dia ten esin tes roes — perché scorrente di desiderio (iemenos), ed esprime una brama verso le cose e una violenta attrazione dell’anima verso di esse, ed è detto imeros dal possedere questo potere; pothos (struggimento) è espressivo del desiderio di ciò che non è presente ma assente, e in un altro luogo (pou); questa è la ragione per cui il nome pothos è applicato alle cose assenti, come imeros lo è alle cose presenti; eros (amore) è così chiamato perché fluisce dentro (esron) dall’esterno; la corrente non è inerente, ma è un influsso introdotto attraverso gli occhi, e dal fluire dentro fu chiamato esros (influsso) nell’antichità, quando usavano omicron per omega, ed è chiamato eros, ora che l’omega è sostituito all’omicron. Ma perché non mi dai un’altra parola?
+
+HERMOGENES: Che pensi di doxa (opinione), e di quella classe di parole?
+
+SOCRATE: Doxa deriva o da dioxis (inseguimento), ed esprime la marcia dell’anima nell’inseguimento della conoscenza, o dal tiro d’un arco (toxon); quest’ultima è più probabile, ed è confermata da oiesis (pensare), che è solo oisis (muovere), e implica il movimento dell’anima verso la natura essenziale di ciascuna cosa — proprio come boule (consiglio) ha a che fare con il tirare (bole); e boulesthai (volere) combina la nozione del mirare e del deliberare — tutte queste parole sembrano seguire doxa, e tutte implicano l’idea del tirare, proprio come aboulia, assenza di consiglio, dall’altro lato, è un contrattempo, o un mancare, o un fallire il bersaglio, o la mira, o il proposito, o l’oggetto.
+
+HERMOGENES: Stai accelerando il passo ora, Socrate.
+
+SOCRATE: Ebbene sì, la fine ora la dedico a Dio, non però prima di aver spiegato anagke (necessità), che dovrebbe venire dopo, ed ekousion (il volontario). Ekousion è certamente ciò che cede (eikon) e non resiste — la nozione implicata è del cedere e non opporsi, cedendo, come dicevo or ora, a quel moto che è in accordo con la nostra volontà; ma il necessario e resistente, essendo contrario alla nostra volontà, implica errore e ignoranza; l’idea è tratta dal camminare attraverso una gola che è impraticabile, e scoscesa, e ricoperta di sterpi, e impedisce il moto — e questa è la derivazione della parola anagkaion (necessario), an agke ion, andare attraverso una gola. Ma finché mi dura la forza, perseveriamo, e spero che tu persevererai con le tue domande.
+
+HERMOGENES: Ebbene, dunque, lasciami chiedere delle più grandi e più nobili, come aletheia (verità) e pseudos (falsità) e on (essere), senza dimenticare di indagare perché la parola onoma (nome), che è il tema della nostra discussione, abbia questo nome di onoma.
+
+SOCRATE: Conosci la parola maiesthai (cercare)?
+
+HERMOGENES: Sì; — che significa lo stesso di zetein (indagare).
+
+SOCRATE: La parola onoma sembra essere una frase compressa, a significare on ou zetema (essere di cui vi è ricerca); come è ancor più evidente in onomaston (notevole), che afferma con tante parole che l’esistenza reale è ciò di cui vi è una ricerca (on ou masma); aletheia è pure un agglomerato di theia ale (divino errare), a implicare il divino moto dell’esistenza; pseudos (falsità) è l’opposto del moto; ecco un altro brutto nome dato dal legislatore alla stagnazione e all’inazione forzata, che egli paragona al sonno (eudein); ma il significato originario della parola è travestito dall’aggiunta dello psi; on e [ousia](/concepts/substance) sono ion con uno iota staccato; ciò concorda con il vero principio, ché l’essere (on) è anche moto (ion), e lo stesso può dirsi del non essere, che è pure chiamato non andare (oukion o ouki on = ouk ion).
+
+HERMOGENES: Li hai martellati virilmente; ma supponi che qualcuno ti dicesse: che cos’è la parola ion, e che cosa sono reon e doun? — mostrami la loro convenienza.
+
+SOCRATE: Vuoi dire, come dovrei rispondergli?
+
+HERMOGENES: Sì.
+
+SOCRATE: Un modo di dare l’apparenza di una risposta è già stato suggerito.
+
+HERMOGENES: Quale modo?
 
 <span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1216,6 +2310,108 @@ SOCRATES: So I should expect. But how shall we further analyse them, and where d
 
 HERMOGENES: Yes.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Che i [nomi](/positions/nominalism) che non comprendiamo siano di origine straniera; ed è assai probabile che questa sia la risposta giusta, e qualcosa del genere può ben essere vero di essi; ma è anche possibile che le forme originarie delle parole si siano perdute nel corso dei secoli, giacché i nomi sono stati stravolti in ogni maniera, tanto che non mi stupirei se la lingua antica, paragonata a quella oggi in uso, ci apparisse come un idioma barbaro.
+
+ERMOGENE: Assai probabile.
+
+SOCRATE: Sì, assai probabile. Eppure l'indagine esige tutta la nostra seria attenzione, e non dobbiamo tirarci indietro. Dobbiamo infatti ricordare che, se uno si mettesse ad analizzare i nomi risolvendoli in parole, e indagasse poi anche gli elementi da cui le parole sono formate, e ripetesse sempre di continuo questo procedimento, colui che deve rispondergli finirebbe alla fine per abbandonare l'indagine in preda alla disperazione.
+
+ERMOGENE: Verissimo.
+
+SOCRATE: E a quale punto dovrebbe perdersi d'animo e rinunciare all'indagine? Non deve forse fermarsi quando giunge a quei nomi che sono gli elementi di tutti gli altri nomi e discorsi? Poiché non si può supporre che questi siano composti di altri nomi. La parola agathon (buono), per esempio, è, come dicevamo, un composto di agastos (ammirevole) e thoos (veloce). E probabilmente thoos è composto di altri elementi, e questi a loro volta di altri ancora. Ma se prendiamo una parola incapace di ulteriore risoluzione, allora avremo ragione a dire di essere giunti finalmente a un elemento primario, che non ha bisogno di essere ulteriormente risolto.
+
+ERMOGENE: Credo che tu abbia ragione.
+
+SOCRATE: E supponi che i nomi sui quali ora t'interroghi si rivelino elementi primari: non si dovrà forse esaminare la loro verità o legge secondo qualche nuovo [metodo](/axes/method)?
+
+ERMOGENE: Assai probabile.
+
+SOCRATE: Proprio così, Ermogene; tutto ciò che precede conduce a questa conclusione. E se, come io penso, la conclusione è vera, allora ti dirò di nuovo: vieni ad aiutarmi, affinché io non cada in qualche assurdità nell'enunciare il principio dei nomi primari.
+
+ERMOGENE: Fammi udire, e farò del mio meglio per assisterti.
+
+SOCRATE: Penso che converrai con me che un unico principio si applica a tutti i nomi, sia primari che secondari: quando li si considera semplicemente come nomi, non v'è alcuna differenza tra loro.
+
+ERMOGENE: Certamente no.
+
+SOCRATE: Tutti i nomi che siamo venuti spiegando erano intesi a indicare la natura delle cose.
+
+ERMOGENE: Naturalmente.
+
+SOCRATE: E che ciò sia vero dei nomi primari tanto quanto dei secondari, è implicito nel loro essere nomi.
+
+ERMOGENE: Senza dubbio.
+
+SOCRATE: Ma i secondari, come io concepisco, traggono il loro significato dai primari.
+
+ERMOGENE: Questo è evidente.
+
+SOCRATE: Benissimo; ma allora in che modo i nomi primari, che precedono l'analisi, mostrano la natura delle cose, per quanto essa possa essere mostrata? E ciò devono fare, se sono veri nomi. E qui ti porrò una domanda: supponi che non avessimo né voce né lingua, e volessimo comunicare l'uno con l'altro; non faremmo forse, come i sordomuti, dei segni con le mani, con il capo e con il resto del corpo?
+
+ERMOGENE: Non vi sarebbe altra scelta, Socrate.
+
+SOCRATE: Imiteremmo la natura della cosa: l'elevazione delle nostre mani verso il cielo significherebbe leggerezza e slancio verso l'alto; pesantezza e movimento verso il basso si esprimerebbero lasciandole cadere a terra; se volessimo descrivere il correre di un cavallo, o di qualunque altro animale, renderemmo i nostri corpi e i loro gesti quanto più possibile simili ad essi.
+
+ERMOGENE: Non vedo che cos'altro potremmo fare.
+
+SOCRATE: Non potremmo fare altro; poiché soltanto con l'imitazione corporea il corpo può mai esprimere alcunché.
+
+ERMOGENE: Verissimo.
+
+SOCRATE: E quando vogliamo esprimerci, sia con la voce, sia con la lingua, sia con la bocca, l'espressione non è che la loro imitazione di ciò che vogliamo esprimere.
+
+ERMOGENE: Così dev'essere, penso.
+
+SOCRATE: Allora un nome è un'imitazione vocale di ciò che l'imitatore vocale nomina o imita?
+
+ERMOGENE: Lo penso.
+
+SOCRATE: No, amico mio, sono incline a pensare che non abbiamo ancora raggiunto la verità.
+
+ERMOGENE: Perché no?
+
+SOCRATE: Perché, se l'avessimo raggiunta, saremmo costretti ad ammettere che coloro i quali imitano le pecore, o i galli, o altri animali, nominano ciò che imitano.
+
+ERMOGENE: Verissimo.
+
+SOCRATE: Potrei dunque aver avuto ragione in ciò che dicevo?
+
+ERMOGENE: A mio parere, no. Ma vorrei che tu mi dicessi, Socrate, che sorta di imitazione è un nome.
+
+SOCRATE: In primo luogo risponderei: non un'imitazione musicale, benché anch'essa sia vocale; e nemmeno un'imitazione di ciò che la musica imita; queste, a mio giudizio, non sarebbero un nominare. Lascia che ponga la questione così: tutti gli oggetti hanno suono e figura, e molti hanno colore?
+
+ERMOGENE: Certamente.
+
+SOCRATE: Ma l'arte del nominare non sembra aver a che fare con imitazioni di questo genere; le arti che si occupano di esse sono la musica e il disegno?
+
+ERMOGENE: È vero.
+
+SOCRATE: Di nuovo: non v'è forse un'essenza di ciascuna cosa, così come v'è un colore o un suono? E non v'è un'essenza del colore e del suono, come di qualunque altra cosa di cui si possa dire che abbia un'essenza?
+
+ERMOGENE: Credo di sì.
+
+SOCRATE: Ebbene, e se qualcuno potesse esprimere l'essenza di ciascuna cosa in lettere e sillabe, non esprimerebbe forse la natura di ciascuna cosa?
+
+ERMOGENE: Proprio così.
+
+SOCRATE: Il musico e il pittore erano i due nomi che davi ai due altri imitatori. Come sarà chiamato questo imitatore?
+
+ERMOGENE: Immagino, Socrate, che egli debba essere il nominatore, o dator di nomi, che andiamo cercando.
+
+SOCRATE: Se ciò è vero, allora penso che siamo in condizione di considerare i nomi ron (flusso), ienai (andare), schesis (ritenzione), sui quali t'interrogavi; e potremo vedere se il nominatore abbia colto la loro natura nelle lettere e nelle sillabe in modo tale da imitarne l'essenza, oppure no.
+
+ERMOGENE: Benissimo.
+
+SOCRATE: Ma questi sono i soli nomi primari, o ve ne sono altri?
+
+ERMOGENE: Ve ne devono essere altri.
+
+SOCRATE: Così mi aspetto. Ma come li analizzeremo ulteriormente, e da dove comincia l'imitatore? L'imitazione dell'essenza è fatta di sillabe e di lettere; non dovremmo dunque, anzitutto, separare le lettere, proprio come coloro che iniziano lo studio del ritmo distinguono dapprima i valori dei suoni elementari, e poi di quelli composti, e solo quando hanno fatto ciò, ma non prima, procedono alla considerazione dei ritmi?
+
+ERMOGENE: Sì.
+
 <span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Must we not begin in the same way with letters; first separating the vowels, and then the consonants and mutes (letters which are neither vowels nor semivowels), into classes, according to the received distinctions of the learned; also the semivowels, which are neither vowels, nor yet mutes; and distinguishing into classes the vowels themselves? And when we have perfected the classification of things, we shall give them [names](/positions/nominalism), and see whether, as in the case of letters, there are any classes to which they may be all referred (cf. Phaedrus); and hence we shall see their natures, and see, too, whether they have in them classes as there are in the letters; and when we have well considered all this, we shall know how to apply them to what they resemble — whether one letter is used to denote one thing, or whether there is to be an admixture of several of them; just, as in painting, the painter who wants to depict anything sometimes uses purple only, or any other colour, and sometimes mixes up several colours, as his [method](/axes/method) is when he has to paint flesh colour or anything of that kind — he uses his colours as his figures appear to require them; and so, too, we shall apply letters to the expression of objects, either single letters when required, or several letters; and so we shall form syllables, as they are called, and from syllables make nouns and verbs; and thus, at last, from the combinations of nouns and verbs arrive at language, large and fair and whole; and as the painter made a figure, even so shall we make speech by the art of the namer or the rhetorician, or by some other art. Not that I am literally speaking of ourselves, but I was carried away — meaning to say that this was the way in which (not we but) the ancients formed language, and what they put together we must take to pieces in like manner, if we are to attain a scientific view of the whole subject, and we must see whether the primary, and also whether the secondary elements are rightly given or not, for if they are not, the composition of them, my dear Hermogenes, will be a sorry piece of work, and in the wrong direction.
@@ -1241,6 +2437,32 @@ HERMOGENES: Fear not; I will do my best.
 SOCRATES: In the first place, the letter rho appears to me to be the general instrument expressing all motion (kinesis). But I have not yet explained the meaning of this latter word, which is just iesis (going); for the letter eta was not in use among the ancients, who only employed epsilon; and the root is kiein, which is a foreign form, the same as ienai. And the old word kinesis will be correctly given as iesis in corresponding modern letters. Assuming this foreign root kiein, and allowing for the change of the eta and the insertion of the nu, we have kinesis, which should have been kieinsis or eisis; and stasis is the negative of ienai (or eisis), and has been improved into stasis. Now the letter rho, as I was saying, appeared to the imposer of names an excellent instrument for the expression of motion; and he frequently uses the letter for this purpose: for example, in the actual words rein and roe he represents motion by rho; also in the words tromos (trembling), trachus (rugged); and again, in words such as krouein (strike), thrauein (crush), ereikein (bruise), thruptein (break), kermatixein (crumble), rumbein (whirl): of all these sorts of movements he generally finds an expression in the letter R, because, as I imagine, he had observed that the tongue was most agitated and least at rest in the pronunciation of this letter, which he therefore used in order to express motion, just as by the letter iota he expresses the subtle elements which pass through all things. This is why he uses the letter iota as imitative of motion, ienai, iesthai. And there is another class of letters, phi, psi, sigma, and xi, of which the pronunciation is accompanied by great expenditure of breath; these are used in the imitation of such notions as psuchron (shivering), xeon (seething), seiesthai, (to be shaken), seismos (shock), and are always introduced by the giver of names when he wants to imitate what is phusodes (windy). He seems to have thought that the closing and pressure of the tongue in the utterance of delta and tau was expressive of binding and rest in a place: he further observed the liquid movement of lambda, in the pronunciation of which the tongue slips, and in this he found the expression of smoothness, as in leios (level), and in the word oliothanein (to slip) itself, liparon (sleek), in the word kollodes (gluey), and the like: the heavier sound of gamma detained the slipping tongue, and the union of the two gave the notion of a glutinous clammy nature, as in glischros, glukus, gloiodes. The nu he observed to be sounded from within, and therefore to have a notion of inwardness; hence he introduced the sound in endos and entos: alpha he assigned to the expression of size, and nu of length, because they are great letters: omicron was the sign of roundness, and therefore there is plenty of omicron mixed up in the word goggulon (round). Thus did the legislator, reducing all things into letters and syllables, and impressing on them names and signs, and out of them by imitation compounding other signs. That is my view, Hermogenes, of the truth of names; but I should like to hear what Cratylus has more to say.
 
 HERMOGENES: But, Socrates, as I was telling you before, Cratylus mystifies me; he says that there is a fitness of names, but he never explains what is this fitness, so that I cannot tell whether his obscurity is intended or not. Tell me now, Cratylus, here in the presence of Socrates, do you agree in what Socrates has been saying about names, or have you something better of your own? and if you have, tell me what your view is, and then you will either learn of Socrates, or Socrates and I will learn of you.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Non dobbiamo forse cominciare allo stesso modo con le lettere, separando dapprima le vocali, e poi le consonanti e le mute (lettere che non sono né vocali né semivocali) in classi, secondo le distinzioni ricevute dai dotti; e così anche le semivocali, che non sono né vocali né mute; e distinguendo in classi le vocali stesse? E quando avremo perfezionato la classificazione delle cose, daremo loro i [nomi](/positions/nominalism), e vedremo se, come nel caso delle lettere, vi siano classi alle quali tutte possano riferirsi (cfr. il Fedro); e di qui vedremo le loro nature, e vedremo altresì se contengano in sé classi come ve ne sono nelle lettere; e quando avremo ben considerato tutto questo, sapremo come applicarle a ciò a cui somigliano — se cioè una sola lettera si usi per denotare una sola cosa, o se debba esservi una mescolanza di parecchie di esse; proprio come, nella pittura, il pittore che voglia raffigurare qualcosa talvolta usa il solo purpureo, o qualunque altro colore, e talvolta mescola parecchi colori, secondo il suo [metodo](/axes/method), quando deve dipingere il colore della carne o qualcosa del genere — egli usa i suoi colori come le sue figure sembrano richiedere; e così anche noi applicheremo le lettere all'espressione degli oggetti, ora lettere singole quando serve, ora parecchie lettere; e così formeremo le sillabe, come si chiamano, e dalle sillabe faremo nomi e verbi; e così, infine, dalle combinazioni di nomi e verbi giungeremo al linguaggio, grande e bello e intero; e come il pittore compose una figura, così anche noi comporremo il discorso mediante l'arte del nominatore, o del retore, o mediante qualche altra arte. Non che io parli letteralmente di noi stessi, ma mi sono lasciato trasportare — volendo dire che questo fu il modo in cui (non noi, ma) gli antichi formarono il linguaggio, e ciò che essi misero insieme noi dobbiamo scomporlo in egual maniera, se vogliamo pervenire a una visione scientifica dell'intero argomento; e dobbiamo vedere se gli elementi primari, e anche quelli secondari, siano correttamente assegnati oppure no, poiché, se non lo sono, la loro composizione, mio caro Ermogene, riuscirà un misero lavoro, e nella direzione sbagliata.
+
+ERMOGENE: Questo, Socrate, posso ben crederlo.
+
+SOCRATE: Bene, ma pensi tu di essere capace di analizzarli in questo modo? Poiché io sono certo che non ne sarei capace.
+
+ERMOGENE: Ancor meno è probabile che ne sia capace io.
+
+SOCRATE: Li lasceremo dunque? oppure cercheremo di scoprire, se possiamo, qualcosa su di essi, secondo la misura delle nostre capacità, dicendo a mo' di premessa, come ho detto prima a proposito degli dèi, che della verità intorno ad essi non sappiamo nulla, e non facciamo che nutrire su di essi opinioni umane? E in questa presente indagine, diciamoci, prima di procedere, che il metodo più elevato è quello che noi, o altri che volessero analizzare il linguaggio con qualche buon fine, dovremmo seguire; ma date le circostanze, come dicono gli uomini, dobbiamo fare quel che possiamo. Che ne pensi?
+
+ERMOGENE: Approvo pienamente.
+
+SOCRATE: Che gli oggetti siano imitati in lettere e sillabe, e trovino così espressione, può apparire ridicolo, Ermogene, ma non può evitarsi — non v'è principio migliore a cui possiamo guardare per la verità dei nomi primi. Privati di questo, dobbiamo ricorrere all'aiuto divino, come i poeti tragici, che in ogni imbarazzo hanno i loro dèi in attesa sospesi nell'aria; e dobbiamo uscire dalla nostra difficoltà nello stesso modo, dicendo che «gli dèi diedero i primi nomi, e perciò essi sono giusti». Questo sarà l'espediente migliore, o forse quell'altra idea potrà essere ancora migliore, di farli derivare da qualche popolo barbaro, poiché i barbari sono più antichi di noi; oppure possiamo dire che l'antichità ha steso un velo su di essi, il che è la stessa sorta di scusa dell'ultima; poiché tutti questi non sono ragioni, ma soltanto ingegnose scuse per non avere ragioni intorno alla verità delle parole. Eppure una qualsiasi ignoranza dei nomi primi o primitivi comporta un'ignoranza delle parole secondarie; poiché queste possono spiegarsi soltanto mediante i primari. Chiaramente, dunque, chi professa la scienza delle lingue dovrebbe essere in grado di dare una spiegazione assai lucida dei nomi primi, o si tenga per certo che non farà che dire sciocchezze sul resto. Non ritieni che ciò sia vero?
+
+ERMOGENE: Certamente, Socrate.
+
+SOCRATE: Le mie prime nozioni sui nomi originari sono davvero bizzarre e ridicole, benché non abbia nulla in contrario a comunicartele, se lo desideri; e spero che tu, in cambio, mi comunicherai qualcosa di migliore che tu possa avere.
+
+ERMOGENE: Non temere; farò del mio meglio.
+
+SOCRATE: In primo luogo, la lettera rho mi appare lo strumento generale per esprimere ogni movimento (kinesis). Ma non ho ancora spiegato il significato di quest'ultima parola, che è semplicemente iesis (l'andare); poiché la lettera eta non era in uso presso gli antichi, che adoperavano soltanto l'epsilon; e la radice è kiein, che è una forma straniera, la stessa di ienai. E l'antica parola kinesis sarà resa correttamente come iesis nelle lettere moderne corrispondenti. Assumendo questa radice straniera kiein, e tenendo conto del mutamento dell'eta e dell'inserimento del ny, otteniamo kinesis, che avrebbe dovuto essere kieinsis o eisis; e stasis è la negazione di ienai (o eisis), ed è stata migliorata in stasis. Ora la lettera rho, come dicevo, apparve all'impositore dei nomi uno strumento eccellente per l'espressione del movimento; ed egli usa spesso questa lettera a tal fine: per esempio, nelle parole stesse rein e roe egli rappresenta il movimento con rho; e così pure nelle parole tromos (tremore), trachus (scabro); e ancora, in parole come krouein (percuotere), thrauein (fracassare), ereikein (contundere), thruptein (spezzare), kermatixein (sminuzzare), rumbein (roteare): per tutte queste sorta di movimenti egli trova generalmente un'espressione nella lettera R, perché, come immagino, aveva osservato che la lingua è più agitata e meno in quiete nella pronuncia di questa lettera, che perciò egli usò per esprimere il movimento; così come, mediante la lettera iota, egli esprime gli elementi sottili che passano attraverso tutte le cose. Ecco perché egli usa la lettera iota come imitativa del movimento, ienai, iesthai. E vi è un'altra classe di lettere, phi, psi, sigma e xi, la cui pronuncia è accompagnata da un grande dispendio di fiato; queste si usano nell'imitazione di nozioni come psuchron (brivido), xeon (ribollire), seiesthai (essere scosso), seismos (scossa), e vengono sempre introdotte dal dator dei nomi quando egli vuole imitare ciò che è phusodes (ventoso). Sembra aver ritenuto che la chiusura e la pressione della lingua nell'emissione del delta e del tau fosse espressiva del legare e del riposare in un luogo: osservò inoltre il movimento fluido del lambda, nella cui pronuncia la lingua scivola, e in ciò trovò l'espressione della levigatezza, come in leios (liscio), e nella parola stessa oliothanein (scivolare), liparon (unto), nella parola kollodes (colloso), e simili: il suono più greve del gamma tratteneva la lingua che scivola, e l'unione dei due dava la nozione di una natura glutinosa e viscosa, come in glischros, glukus, gloiodes. Il ny egli lo osservò suonare dall'interno, e quindi avere una nozione di interiorità; perciò introdusse il suono in endos ed entos: l'alpha lo assegnò all'espressione della grandezza, e il ny a quella della lunghezza, perché sono lettere grandi: l'omicron era il segno della rotondità, e perciò vi è abbondanza di omicron mescolato nella parola goggulon (rotondo). Così il legislatore, riducendo tutte le cose in lettere e sillabe, e imprimendovi nomi e segni, e da essi per imitazione componendo altri segni. Questa è la mia veduta, Ermogene, sulla verità dei nomi; ma vorrei udire ciò che Cratilo ha da aggiungere.
+
+ERMOGENE: Ma, Socrate, come ti dicevo prima, Cratilo mi lascia perplesso; egli dice che vi è una correttezza dei nomi, ma non spiega mai in che cosa consista questa correttezza, sicché non riesco a capire se la sua oscurità sia intenzionale o no. Dimmi ora, Cratilo, qui alla presenza di Socrate: sei d'accordo con ciò che Socrate è venuto dicendo intorno ai nomi, oppure hai qualcosa di meglio di tuo? e se ce l'hai, dimmi qual è la tua veduta, e allora o imparerai da Socrate, o Socrate e io impareremo da te.
 
 <span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1366,6 +2588,130 @@ CRATYLUS: I would fain agree with you, Socrates; and therefore I say, Granted.
 
 SOCRATES: That is very good of you, if I am right, which need hardly be disputed at present. But if I can assign names as well as pictures to objects, the right assignment of them we may call truth, and the wrong assignment of them falsehood. Now if there be such a wrong assignment of names, there may also be a wrong or inappropriate assignment of verbs; and if of names and verbs then of the sentences, which are made up of them. What do you say, Cratylus?
 
+<span class="qlang-split" data-lang="it"></span>
+
+CRATILO: Ebbene, ma di certo, Ermogene, tu non supporrai di poter imparare, o io di poter spiegare, un argomento di qualche importanza tutto in un momento; e tanto meno un argomento come il linguaggio, che è forse il più grande di tutti.
+
+ERMOGENE: No, davvero; ma, come dice Esiodo, e io sono d'accordo con lui, «aggiungere poco a poco» vale la pena. E perciò, se tu pensi di poter aggiungere qualcosa, per quanto piccola, alla nostra conoscenza, prenditi un po' d'incomodo e fa' cosa gradita a [Socrate](/figures/socrates), e anche a me, che pure ho qualche diritto su di te.
+
+SOCRATE: Non sono affatto sicuro, Cratilo, della veduta che Ermogene e io abbiamo elaborato; e perciò non esitare a dire ciò che pensi, che se è migliore della mia lo accetterò volentieri. E non mi stupirei affatto di scoprire che tu hai trovato qualche nozione migliore. Poiché evidentemente hai riflettuto su queste materie e hai avuto maestri, e se hai davvero una teoria migliore sulla verità dei [nomi](/positions/nominalism), puoi annoverarmi nel numero dei tuoi discepoli.
+
+CRATILO: Hai ragione, Socrate, nel dire che io ho studiato queste materie, e potrei forse convertirti in discepolo. Ma temo che l'opposto sia più probabile, e già mi sento spinto a dirti ciò che Achille dice ad Aiace nelle «Preghiere»:
+
+«Illustre Aiace, figlio di Telamone, signore di genti, tu sembri aver detto in ogni cosa assai secondo il mio animo.»
+
+E tu, Socrate, mi sembri un oracolo, e dare responsi assai secondo il mio animo, sia che tu sia ispirato da Eutifrone, sia che qualche Musa abbia da lungo tempo preso dimora nel tuo petto, a tua insaputa.
+
+SOCRATE: Eccellente Cratilo, da lungo tempo mi meraviglio della mia stessa sapienza; non riesco a fidarmi di me stesso. E penso che dovrei fermarmi e chiedermi: che cosa sto dicendo? poiché non v'è nulla di peggio dell'inganno di sé — quando l'ingannatore è sempre in casa e sempre con te — è cosa davvero terribile, e perciò dovrei spesso rivolgermi indietro sui miei passi e sforzarmi di «guardare a prua e a poppa», secondo le parole del sopraddetto Omero. E ora vediamo un poco: a che punto siamo? Non abbiamo forse detto che il nome corretto indica la natura della cosa? Questa proposizione è stata sufficientemente dimostrata?
+
+CRATILO: Sì, Socrate, ciò che dici, come sono disposto a pensare, è del tutto vero.
+
+SOCRATE: I nomi, dunque, sono dati allo scopo di istruire?
+
+CRATILO: Certamente.
+
+SOCRATE: E il nominare è un'arte, e ha i suoi artefici?
+
+CRATILO: Sì.
+
+SOCRATE: E chi sono?
+
+CRATILO: I legislatori, di cui parlavi all'inizio.
+
+SOCRATE: E quest'arte si sviluppa forse tra gli uomini come le altre arti? Lascia che spieghi ciò che intendo: dei pittori, alcuni sono migliori e altri peggiori?
+
+CRATILO: Sì.
+
+SOCRATE: I pittori migliori eseguono le loro opere, intendo le loro figure, meglio, e i peggiori le eseguono peggio; e dei costruttori pure, i migliori edificano case più belle, e i peggiori le edificano peggio.
+
+CRATILO: È vero.
+
+SOCRATE: E tra i legislatori, ve ne sono alcuni che fanno il loro lavoro meglio e altri peggio?
+
+CRATILO: No; su questo non sono d'accordo con te.
+
+SOCRATE: Allora non pensi che alcune leggi siano migliori e altre peggiori?
+
+CRATILO: No, davvero.
+
+SOCRATE: O che un nome sia migliore di un altro?
+
+CRATILO: Certamente no.
+
+SOCRATE: Allora tutti i nomi sono correttamente imposti?
+
+CRATILO: Sì, se sono affatto nomi.
+
+SOCRATE: Ebbene, che dici del nome del nostro amico Ermogene, che è stato menzionato prima? Ammesso che egli non abbia nulla della natura di Ermes in sé, diremo che questo è un nome errato, o che non è affatto il suo nome?
+
+CRATILO: Risponderei che Ermogene non è affatto il suo nome, ma solo sembra essere il suo, ed è in realtà il nome di qualcun altro, che ha la natura corrispondente ad esso.
+
+SOCRATE: E se un uomo lo chiamasse Ermogene, non starebbe forse anche dicendo il falso? Poiché può sussistere il dubbio se tu possa chiamarlo Ermogene, quando egli non lo è.
+
+CRATILO: Che vuoi dire?
+
+SOCRATE: Sostieni forse che la falsità è impossibile? Poiché, se questo è ciò che intendi, ti risponderei che vi sono stati mentitori in abbondanza in ogni epoca.
+
+CRATILO: Ma come, Socrate, come può un uomo dire ciò che non è? — dire qualcosa e tuttavia non dire nulla? Poiché la falsità non è forse il dire la cosa che non è?
+
+SOCRATE: Il tuo argomento, amico, è troppo sottile per un uomo della mia età. Ma vorrei sapere se tu sei uno di quei filosofi che pensano che la falsità si possa proferire ma non dire.
+
+CRATILO: Né proferire né dire.
+
+SOCRATE: Né pronunciare né rivolgere a qualcuno? Per esempio: se una persona, salutandoti in un paese straniero, ti prendesse la mano e dicesse: «Salve, straniero ateniese, Ermogene, figlio di Smicrione» — queste parole, che siano proferite, dette, pronunciate o rivolte, non avrebbero alcuna applicazione a te, ma soltanto al nostro amico Ermogene, o forse a nessuno affatto?
+
+CRATILO: A mio parere, Socrate, chi parla direbbe soltanto insensatezze.
+
+SOCRATE: Bene, ma ciò mi basterà pienamente, se vorrai dirmi se l'insensatezza sarebbe vera o falsa, o in parte vera e in parte falsa: — che è tutto ciò che voglio sapere.
+
+CRATILO: Direi che egli metterebbe se stesso in movimento senza alcuno scopo; e che le sue parole sarebbero un suono privo di significato, come il rumore del martellare su un vaso di bronzo.
+
+SOCRATE: Ma vediamo, Cratilo, se non possiamo trovare un punto d'incontro; poiché tu ammetteresti che il nome non è la stessa cosa con la cosa nominata?
+
+CRATILO: Lo ammetterei.
+
+SOCRATE: E riconosceresti inoltre che il nome è un'imitazione della cosa?
+
+CRATILO: Certamente.
+
+SOCRATE: E diresti che anche i quadri sono imitazioni delle cose, ma in un altro modo?
+
+CRATILO: Sì.
+
+SOCRATE: Credo che tu possa aver ragione, ma non ti comprendo bene. Ti prego dunque di dire se entrambe le sorta d'imitazione (intendo tanto i quadri quanto le parole) non siano ugualmente attribuibili e applicabili alle cose delle quali sono l'imitazione.
+
+CRATILO: Lo sono.
+
+SOCRATE: Osserva anzitutto la cosa così: tu puoi attribuire la somiglianza dell'uomo all'uomo, e quella della donna alla donna; e così via?
+
+CRATILO: Certamente.
+
+SOCRATE: E, viceversa, puoi attribuire la somiglianza dell'uomo alla donna, e quella della donna all'uomo?
+
+CRATILO: Verissimo.
+
+SOCRATE: E sono corretti entrambi i modi di assegnarle, o soltanto il primo?
+
+CRATILO: Soltanto il primo.
+
+SOCRATE: Vale a dire, il modo di assegnazione che attribuisce a ciascuno ciò che gli appartiene ed è simile ad esso?
+
+CRATILO: Questa è la mia veduta.
+
+SOCRATE: Ora dunque, poiché desidero che noi, essendo amici, ci intendiamo bene sull'argomento, lascia che ti esponga la mia veduta: il primo modo di assegnazione, sia applicato alle figure sia ai nomi, io lo chiamo corretto, e quando è applicato ai nomi soltanto, vero oltre che corretto; e l'altro modo di dare e assegnare il nome che è dissimile, io lo chiamo errato, e nel caso dei nomi, falso oltre che errato.
+
+CRATILO: Ciò può essere vero, Socrate, nel caso dei quadri; essi possono essere assegnati erroneamente; ma non nel caso dei nomi — questi devono essere sempre corretti.
+
+SOCRATE: Ma come, quale differenza vi è? Non posso io andare da un uomo e dirgli: «Questo è il tuo ritratto», mostrandogli la sua propria somiglianza, o magari la somiglianza di una donna; e quando dico «mostrare», intendo portare dinanzi al senso della vista.
+
+CRATILO: Certamente.
+
+SOCRATE: E non posso di nuovo andare da lui e dirgli: «Questo è il tuo nome»? — poiché il nome, come il ritratto, è un'imitazione. Non posso dirgli: «Questo è il tuo nome»? e non posso allora portare al suo senso dell'udito l'imitazione di lui stesso, quando dico «Questo è un uomo»; o di una femmina della specie umana, quando dico «Questa è una donna», secondo il caso? Non è tutto ciò del tutto possibile?
+
+CRATILO: Vorrei ben convenire con te, Socrate; e perciò dico: concesso.
+
+SOCRATE: È molto gentile da parte tua, se ho ragione, il che difficilmente si può contestare al presente. Ma se io posso assegnare i nomi così come i ritratti agli oggetti, la loro corretta assegnazione possiamo chiamarla verità, e l'errata assegnazione di essi falsità. Ora, se vi è una tale errata assegnazione dei nomi, vi può essere anche un'errata o inappropriata assegnazione dei verbi; e se dei nomi e dei verbi, allora anche delle frasi, che di essi sono composte. Che ne dici, Cratilo?
+
 <span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 CRATYLUS: I agree; and think that what you say is very true.
@@ -1474,6 +2820,114 @@ SOCRATES: Are they altogether alike?
 
 CRATYLUS: Yes; for the purpose of expressing motion.
 
+<span class="qlang-split" data-lang="it"></span>
+
+CRATILO: Sono d'accordo; e penso che ciò che dici sia verissimo.
+
+[SOCRATE](/figures/socrates): E inoltre, i nomi primitivi possono paragonarsi ai quadri, e nei quadri o dài tutti i colori e le figure appropriate, oppure non li dài tutti — alcuni possono mancare; oppure ve ne possono essere troppi o in eccessiva quantità — non è così?
+
+CRATILO: Verissimo.
+
+SOCRATE: E chi dà tutto dà un quadro o una figura perfetta; e chi toglie o aggiunge dà anch'egli un quadro o una figura, ma non buona.
+
+CRATILO: Sì.
+
+SOCRATE: Allo stesso modo, chi mediante sillabe e lettere imita la natura delle cose, se dà tutto ciò che è appropriato produrrà una buona immagine, o in altre parole un nome; ma se sottrae o magari aggiunge un poco, produrrà un'immagine, ma non buona; donde inferisco che alcuni [nomi](/positions/nominalism) sono ben fatti e altri mal fatti.
+
+CRATILO: È vero.
+
+SOCRATE: Allora l'artefice dei nomi può essere ora buono, ora cattivo?
+
+CRATILO: Sì.
+
+SOCRATE: E quest'artefice dei nomi è chiamato il legislatore?
+
+CRATILO: Sì.
+
+SOCRATE: Allora, come gli altri artefici, il legislatore può essere buono o cattivo; così dev'essere di certo, se reggono le nostre precedenti ammissioni?
+
+CRATILO: Verissimo, Socrate; ma il caso del linguaggio, vedi, è diverso; poiché quando, con l'aiuto della grammatica, assegniamo le lettere alpha o beta, o qualunque altra lettera, a un certo nome, allora, se aggiungiamo, o sottraiamo, o collochiamo male una lettera, il nome che è scritto non solo è scritto erroneamente, ma non è affatto scritto; e in ciascuno di questi casi diviene altro da un nome.
+
+SOCRATE: Ma dubito che la tua veduta sia del tutto corretta, Cratilo.
+
+CRATILO: Come mai?
+
+SOCRATE: Credo che ciò che dici possa essere vero riguardo ai numeri, che devono essere proprio ciò che sono, o non essere affatto; per esempio, il numero dieci diviene immediatamente altro da dieci se vi si aggiunge o sottrae un'unità, e così di qualunque altro numero: ma questo non si applica a ciò che è qualitativo, né ad alcunché sia rappresentato sotto forma d'immagine. Direi piuttosto che l'immagine, se esprimesse in ogni punto l'intera realtà, non sarebbe più un'immagine. Supponiamo l'esistenza di due oggetti: uno di essi sia Cratilo, e l'altro l'immagine di Cratilo; e supponiamo, inoltre, che qualche dio faccia non solo una [rappresentazione](/concepts/idea), quale un pittore farebbe, della tua forma e del tuo colore esteriori, ma crei anche un'organizzazione interna simile alla tua, avente lo stesso calore e la stessa morbidezza; e in questa infonda movimento, e anima, e mente, quali tu hai, e in una parola copi tutte le tue qualità, e le collochi accanto a te in un'altra forma; diresti tu che questo è Cratilo e l'immagine di Cratilo, oppure che vi sono due Cratili?
+
+CRATILO: Direi che vi sono due Cratili.
+
+SOCRATE: Allora vedi, amico mio, che dobbiamo trovare qualche altro principio di verità nelle immagini, e anche nei nomi; e non insistere che un'immagine non è più un'immagine quando qualcosa vi è aggiunto o sottratto. Non t'accorgi che le immagini sono ben lungi dall'avere qualità che siano l'esatta controparte delle realtà che rappresentano?
+
+CRATILO: Sì, lo vedo.
+
+SOCRATE: Ma allora quanto ridicolo sarebbe l'effetto dei nomi sulle cose, se essi fossero esattamente uguali ad esse! Poiché sarebbero i loro doppioni, e nessuno sarebbe in grado di determinare quali fossero i nomi e quali le realtà.
+
+CRATILO: Verissimo.
+
+SOCRATE: Allora non temere, ma abbi il coraggio di ammettere che un nome può essere dato correttamente e un altro scorrettamente; e non insistere che il nome debba essere esattamente uguale alla cosa; ma consenti l'occasionale sostituzione di una lettera errata, e se di una lettera anche di un nome in una frase, e se di un nome in una frase anche di una frase che non è appropriata alla materia; e riconosci che la cosa può essere nominata e descritta, purché sia mantenuto il carattere generale della cosa che stai descrivendo; e questo, come ricorderai, fu osservato da Ermogene e da me nel caso particolare dei nomi delle lettere.
+
+CRATILO: Sì, lo ricordo.
+
+SOCRATE: Bene; e quando il carattere generale è conservato, anche se mancano alcune delle lettere proprie, la cosa è comunque significata; — bene, se tutte le lettere sono date; non bene, quando ne sono date solo poche. Penso che faremmo meglio ad ammettere questo, per non essere puniti come i viaggiatori a Egina che vagano per le strade a tarda notte: e per non sentirci parimenti dire dalla verità stessa che siamo arrivati troppo tardi; oppure, se no, dovrai trovare qualche nuova nozione di correttezza dei nomi, e non sostenere più che un nome sia l'espressione di una cosa in lettere o sillabe; poiché, se sostieni entrambe le cose, sarai in contraddizione con te stesso.
+
+CRATILO: Riconosco pienamente, Socrate, che ciò che dici è assai ragionevole.
+
+SOCRATE: Allora, poiché siamo d'accordo fin qui, chiediamoci se un nome correttamente imposto non debba avere le lettere proprie.
+
+CRATILO: Sì.
+
+SOCRATE: E le lettere proprie sono quelle che sono simili alle cose?
+
+CRATILO: Sì.
+
+SOCRATE: Basta dunque parlare dei nomi che sono correttamente dati. E nei nomi che sono dati scorrettamente, si può supporre che la maggior parte sia composta di lettere proprie e simili, altrimenti non vi sarebbe somiglianza; ma vi sarà parimenti una parte impropria che rovina la [bellezza](/concepts/beauty) e la formazione della parola: lo ammetteresti?
+
+CRATILO: Non servirebbe a nulla, Socrate, che io litigassi con te, giacché non posso convincermi che un nome dato scorrettamente sia affatto un nome.
+
+SOCRATE: Ammetti che un nome sia la rappresentazione di una cosa?
+
+CRATILO: Sì, lo ammetto.
+
+SOCRATE: Ma non concedi che alcuni nomi siano primitivi, e altri derivati?
+
+CRATILO: Sì, lo concedo.
+
+SOCRATE: Allora, se ammetti che i nomi primitivi o primi siano rappresentazioni delle cose, v'è forse un modo migliore di formare rappresentazioni che assimilarle agli oggetti quanto più puoi; oppure preferisci la nozione di Ermogene e di molti altri, i quali dicono che i nomi sono convenzionali, e hanno un significato per coloro che si sono accordati su di essi, e che hanno una previa conoscenza delle cose da essi intese, e che la convenzione è l'unico principio; e che, sia che tu ti attenga alla nostra presente convenzione, sia che ne faccia una nuova e opposta, secondo la quale chiami piccolo il grande e grande il piccolo — ciò, direbbero, non fa alcuna differenza, purché siate solo d'accordo? Quale di queste due nozioni preferisci?
+
+CRATILO: La rappresentazione per somiglianza, Socrate, è infinitamente migliore della rappresentazione mediante un qualunque segno [casuale](/concepts/fortune).
+
+SOCRATE: Benissimo: ma se il nome deve essere simile alla cosa, anche le lettere di cui i primi nomi sono composti devono essere simili alle cose. Tornando all'immagine del quadro, ti domanderei: come potrebbe mai qualcuno comporre un quadro che fosse simile a qualcosa, se non vi fossero in natura pigmenti che somigliassero alle cose imitate, e dei quali il quadro è composto?
+
+CRATILO: Impossibile.
+
+SOCRATE: Né mai più i nomi potrebbero somigliare ad alcuna cosa realmente esistente, se gli elementi originari di cui sono composti non recassero in sé qualche grado di somiglianza con gli oggetti dei quali i nomi sono l'imitazione: e gli elementi originari sono le lettere?
+
+CRATILO: Sì.
+
+SOCRATE: Lascia ora che t'inviti a considerare ciò che Ermogene e io dicevamo intorno ai suoni. Sei d'accordo con me che la lettera rho è espressiva di rapidità, movimento e durezza? Avevamo ragione o torto a dirlo?
+
+CRATILO: Direi che avevi ragione.
+
+SOCRATE: E che il lambda era espressivo di levigatezza, e di morbidezza, e simili?
+
+CRATILO: Anche qui avevi ragione.
+
+SOCRATE: Eppure, come sai, ciò che da noi è chiamato sklerotes, è dagli Eretriesi chiamato skleroter.
+
+CRATILO: Verissimo.
+
+SOCRATE: Ma le lettere rho e sigma sono equivalenti; e vi è lo stesso significato in esse nella desinenza rho, che vi è per noi in sigma, oppure non vi è alcun significato per l'uno di noi?
+
+CRATILO: Ma di certo vi è un significato per entrambi.
+
+SOCRATE: In quanto sono simili, o in quanto sono dissimili?
+
+CRATILO: In quanto sono simili.
+
+SOCRATE: Sono del tutto simili?
+
+CRATILO: Sì; allo scopo di esprimere il movimento.
+
 <span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And what do you say of the insertion of the lamda? for that is expressive not of hardness but of softness.
@@ -1552,6 +3006,84 @@ SOCRATES: And would you say that the giver of the first names had also a knowled
 
 CRATYLUS: I should.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E che dici dell'inserimento del lambda? poiché esso è espressivo non di durezza ma di morbidezza.
+
+CRATILO: Ma forse la lettera lambda è inserita erroneamente, Socrate, e dovrebbe essere mutata in rho, come dicevi a Ermogene e, a mio parere, giustamente, quando parlavi di aggiungere e sottrarre lettere all'occorrenza.
+
+SOCRATE: Bene. Ma la parola è comunque intelligibile a entrambi noi; quando dico skleros (duro), tu sai ciò che intendo.
+
+CRATILO: Sì, mio caro amico, e la spiegazione di ciò è l'[uso](/concepts/custom).
+
+SOCRATE: E che cos'è l'uso, se non convenzione? Io emetto un suono che comprendo, e tu sai che io comprendo il significato del suono: è questo ciò che intendi dire?
+
+CRATILO: Sì.
+
+SOCRATE: E se, quando io parlo, tu conosci il mio significato, vi è un'indicazione data da me a te?
+
+CRATILO: Sì.
+
+SOCRATE: Questa indicazione del mio significato può procedere tanto dal dissimile quanto dal simile, per esempio nel lambda di sklerotes. Ma se ciò è vero, allora tu hai stipulato una convenzione con te stesso, e la correttezza di un nome risulta essere convenzione, poiché le lettere che sono dissimili sono indicative in egual misura di quelle che sono simili, se sono sancite dall'uso e dalla convenzione. E anche supponendo che tu distingua l'uso dalla convenzione quanto più vuoi, dovrai comunque dire che il significato delle parole è dato dall'uso e non dalla somiglianza, poiché l'uso può indicare tanto mediante il dissimile quanto mediante il simile. Ma poiché siamo d'accordo fin qui, Cratilo (giacché assumerò che il tuo silenzio dia il consenso), allora si deve supporre che l'uso e la convenzione contribuiscano all'indicazione dei nostri pensieri; poiché prendi il caso del numero, come puoi mai immaginare, mio buon amico, che troverai [nomi](/positions/nominalism) somiglianti a ogni singolo numero, se non concedi che ciò che tu chiami convenzione e accordo abbia autorità nel determinare la correttezza dei nomi? Convengo pienamente con te che le parole dovrebbero, per quanto possibile, somigliare alle cose; ma temo che questo tirare in ballo la somiglianza, come dice Ermogene, sia una cosa meschina, che deve essere integrata dall'ausilio meccanico della convenzione in vista della correttezza; poiché credo che, se potessimo sempre, o quasi sempre, usare somiglianze perfettamente appropriate, questo sarebbe lo stato più perfetto del linguaggio; come l'opposto è il più imperfetto. Ma lascia che ti domandi: qual è la forza dei nomi, e qual è il loro uso?
+
+CRATILO: L'uso dei nomi, Socrate, come immaginerei, è d'informare: la semplice verità è che chi conosce i nomi conosce anche le cose che da essi sono espresse.
+
+SOCRATE: Suppongo tu voglia dire, Cratilo, che qual è il nome, tale è anche la cosa; e che chi conosce l'uno conoscerà anche l'altra, perché sono simili, e tutti i simili cadono sotto la medesima arte o scienza; e perciò diresti che chi conosce i nomi conoscerà anche le cose.
+
+CRATILO: È precisamente ciò che intendo.
+
+SOCRATE: Ma consideriamo qual è la natura di questa informazione sulle cose che, secondo te, ci è data dai nomi. È forse la migliore sorta d'informazione? o ve n'è qualche altra? Che ne dici?
+
+CRATILO: Credo che essa sia insieme l'unica e la migliore sorta d'informazione su di esse; non può essercene altra.
+
+SOCRATE: Ma credi tu che, nella scoperta di esse, chi scopre i nomi scopra anche le cose; oppure questo è soltanto il [metodo](/axes/method) dell'istruzione, e v'è qualche altro metodo d'indagine e scoperta?
+
+CRATILO: Credo certamente che i metodi d'indagine e scoperta siano della stessa natura dell'istruzione.
+
+SOCRATE: Bene, ma non vedi, Cratilo, che chi segue i nomi nella ricerca delle cose, e ne analizza il significato, corre gran rischio di essere ingannato?
+
+CRATILO: Come mai?
+
+SOCRATE: Perché chiaramente colui che per primo diede i nomi li diede secondo la sua concezione delle cose che essi significavano — non è così?
+
+CRATILO: È vero.
+
+SOCRATE: E se la sua concezione era erronea, ed egli diede i nomi secondo la sua concezione, in quale posizione ci troveremo noi che siamo i suoi seguaci? Non saremo forse ingannati da lui?
+
+CRATILO: Ma, Socrate, non ho forse ragione nel pensare che egli deve certamente aver saputo; o altrimenti, come dicevo, i suoi nomi non sarebbero affatto nomi? E hai una chiara prova che egli non ha mancato la verità, e la prova è — che egli è perfettamente coerente. Hai mai osservato, nel parlare, che tutte le parole che proferisci hanno un carattere e uno scopo comune?
+
+SOCRATE: Ma questo, amico Cratilo, non è una risposta. Poiché, se egli cominciò nell'errore, può aver forzato il resto in accordo con l'errore originario e con se stesso; non vi sarebbe nulla di strano in ciò, non più che nei diagrammi geometrici, che hanno spesso un lieve e invisibile difetto nella prima parte del procedimento, e sono coerentemente errati nelle lunghe deduzioni che seguono. Ed è questa la ragione per cui ogni uomo dovrebbe rivolgere il suo principale pensiero e la sua principale attenzione alla considerazione dei propri primi princìpi: — sono essi correttamente posti oppure no? e quando li ha debitamente vagliati, tutto il resto seguirà. Ora, mi stupirei di scoprire che i nomi sono realmente coerenti. E qui torniamo alla nostra precedente discussione: non dicevamo che tutte le cose sono in movimento e [divenire](/positions/progress) e flusso, e che questa idea del movimento è espressa dai nomi? Non concepisci che questo sia il loro significato?
+
+CRATILO: Sì; questo è senza dubbio il loro significato, e il vero significato.
+
+SOCRATE: Torniamo a episteme (conoscenza) e osserviamo quanto sia ambigua questa parola, sembrando piuttosto significare un arrestare l'anima presso le cose che un andare in giro con esse; e perciò dovremmo lasciare l'inizio com'è al presente, e non rigettare l'epsilon, ma fare un inserimento di uno iota invece di un epsilon (non pioteme, ma epiisteme). Prendi un altro esempio: bebaion (sicuro) è chiaramente l'espressione della stazione e della posizione, e non del movimento. Di nuovo, la parola istoria (indagine) reca sul volto stesso l'arrestare (istanai) della corrente; e la parola piston (fedele) indica certamente cessazione del movimento; e poi, di nuovo, mneme (memoria), come chiunque può vedere, esprime riposo nell'anima, e non movimento. Inoltre, parole come amartia e sumphora, che hanno un senso cattivo, considerate alla luce delle loro etimologie risulteranno essere le stesse di sunesis ed episteme e di altre parole che hanno un senso buono (confronta omartein, sunienai, epesthai, sumpheresthai); e quasi altrettanto si può dire di amathia e akolasia, poiché amathia può spiegarsi come e ama theo iontos poreia, e akolasia come e akolouthia tois pragmasin. Così i nomi che in questi casi troviamo avere il senso peggiore, risulteranno essere formati sullo stesso principio di quelli che hanno il senso migliore. E chiunque, credo, si prendesse la briga potrebbe trovare molti altri esempi in cui il dator dei nomi indica, non che le cose sono in movimento o divenire, ma che sono in quiete; il che è l'opposto del movimento.
+
+CRATILO: Sì, Socrate, ma osserva; il maggior numero esprime movimento.
+
+SOCRATE: E che importa, Cratilo? Dobbiamo forse contarli come voti? e la correttezza dei nomi è la voce della maggioranza? Dobbiamo dire che, di qualunque sorta ve ne siano di più, quelli sono i veri?
+
+CRATILO: No; questo non è ragionevole.
+
+SOCRATE: Certamente no. Ma finiamola con questa questione e passiamo a un'altra, sulla quale vorrei sapere se tu la pensi come me. Non riconoscevamo poco fa che i primi datori di nomi negli Stati, tanto ellenici quanto barbari, furono i legislatori, e che l'arte che dava i nomi era l'arte del legislatore?
+
+CRATILO: Verissimo.
+
+SOCRATE: Dimmi, allora: i primi legislatori, che furono i datori dei primi nomi, conoscevano o non conoscevano le cose che nominarono?
+
+CRATILO: Devono averle conosciute, Socrate.
+
+SOCRATE: Ebbene sì, amico Cratilo, difficilmente potevano esserne all'oscuro.
+
+CRATILO: Direi di no.
+
+SOCRATE: Torniamo al punto da cui ci siamo allontanati. Dicevi, se ricordi, che chi diede i nomi deve aver conosciuto le cose che nominò; sei ancora di quest'opinione?
+
+CRATILO: Lo sono.
+
+SOCRATE: E diresti che il datore dei primi nomi aveva anche una conoscenza delle cose che nominò?
+
+CRATILO: Lo direi.
+
 <span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): But how could he have learned or discovered things from [names](/positions/nominalism) if the primitive names were not yet given? For, if we are correct in our view, the only way of learning and discovering things, is either to discover names for ourselves or to learn them from others.
@@ -1621,3 +3153,73 @@ CRATYLUS: I will do as you say, though I can assure you, Socrates, that I have b
 SOCRATES: Then, another day, my friend, when you come back, you shall give me a lesson; but at present, go into the country, as you are intending, and Hermogenes shall set you on your way.
 
 CRATYLUS: Very good, Socrates; I hope, however, that you will continue to think about these things yourself.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ma come avrebbe potuto apprendere o scoprire le cose dai [nomi](/positions/nominalism), se i nomi primitivi non erano ancora dati? Poiché, se la nostra veduta è corretta, l'unico modo di apprendere e scoprire le cose è o scoprire i nomi da noi stessi o apprenderli da altri.
+
+CRATILO: Penso che vi sia molto di vero in ciò che dici, Socrate.
+
+SOCRATE: Ma se le cose si possono conoscere soltanto attraverso i nomi, come possiamo supporre che i datori dei nomi avessero conoscenza, o fossero legislatori prima che vi fossero affatto nomi, e quindi prima che potessero conoscerle?
+
+CRATILO: Credo, Socrate, che la vera spiegazione della cosa sia questa: che una potenza più che umana diede alle cose i loro primi nomi, e che i nomi così dati sono necessariamente i loro veri nomi.
+
+SOCRATE: Come avvenne allora che il datore dei nomi, se era un essere ispirato o un dio, contraddicesse se stesso? Poiché non dicevamo or ora che egli fece alcuni nomi espressivi di quiete e altri di movimento? Ci sbagliavamo?
+
+CRATILO: Ma io suppongo che una delle due sorta non siano affatto nomi.
+
+SOCRATE: E quali, dunque, fece, mio buon amico; quelli che sono espressivi di quiete, o quelli che sono espressivi di movimento? Questo è un punto che, come dicevo prima, non può essere determinato contandoli.
+
+CRATILO: No; non in quel modo, Socrate.
+
+SOCRATE: Ma se questa è una battaglia di nomi, alcuni dei quali asseriscono di essere simili alla verità, e altri contendono che essi lo sono, come o secondo quale criterio dobbiamo decidere tra loro? Poiché non vi sono altri nomi a cui ci si possa appellare, ma evidentemente si dovrà ricorrere a un altro criterio che, senza impiegare nomi, renderà chiaro quali dei due siano nel giusto; e questo dev'essere un criterio che mostri la verità delle cose.
+
+CRATILO: Sono d'accordo.
+
+SOCRATE: Ma se ciò è vero, Cratilo, allora suppongo che le cose possano essere conosciute senza nomi?
+
+CRATILO: Chiaramente.
+
+SOCRATE: Ma in quale modo ti aspetteresti di conoscerle? Quale altro modo vi può essere di conoscerle, se non il modo vero e naturale, attraverso le loro affinità, quando sono affini l'una all'altra, e attraverso se stesse? Poiché ciò che è altro e diverso da esse deve significare qualcosa di altro e diverso da esse.
+
+CRATILO: Ciò che dici è, penso, vero.
+
+SOCRATE: Bene, ma rifletti; non abbiamo più volte riconosciuto che i nomi correttamente dati sono le somiglianze e le immagini delle cose che nominano?
+
+CRATILO: Sì.
+
+SOCRATE: Supponiamo che tu, nella misura che ti aggrada, possa apprendere le cose per mezzo dei nomi, e supponiamo anche che tu possa apprenderle dalle cose stesse — quale sarà la via più nobile e più chiara; apprendere dall'immagine se l'immagine e la verità di cui l'immagine è l'espressione siano state correttamente concepite, oppure apprendere dalla verità se la verità e l'immagine di essa siano state debitamente eseguite?
+
+CRATILO: Direi che dobbiamo apprendere dalla verità.
+
+SOCRATE: Come debba studiarsi o scoprirsi l'esistenza reale è, sospetto, al di là di te e di me. Ma possiamo ammettere almeno questo, che la conoscenza delle cose non è da derivarsi dai nomi. No; esse devono essere studiate e investigate in se stesse.
+
+CRATILO: Chiaramente, Socrate.
+
+SOCRATE: V'è un altro punto. Non vorrei che ci lasciassimo ingannare dall'apparenza di una tal moltitudine di nomi, tutti tendenti nella medesima direzione. Io stesso non nego che i datori dei nomi li diedero realmente sotto l'idea che tutte le cose fossero in movimento e flusso; il che era la loro sincera, ma, penso, erronea opinione. E, essendo caduti in una sorta di vortice, sono trascinati in giro, e vogliono trascinarci dietro a loro. V'è una questione, maestro Cratilo, su cui sovente sogno, e vorrei chiederti la tua opinione: dimmi, vi è o non vi è una qualche [bellezza](/concepts/beauty) o un qualche bene assoluti, o qualunque altra esistenza assoluta?
+
+CRATILO: Certamente, Socrate, io lo penso.
+
+SOCRATE: Cerchiamo allora la vera bellezza: non chiedendo se un volto sia bello, o alcunché di simile, poiché tutte queste cose sembrano essere in flusso; ma chiediamoci se la vera bellezza non sia sempre bella.
+
+CRATILO: Certamente.
+
+SOCRATE: E possiamo noi rettamente parlare di una bellezza che passa sempre via, ed è dapprima questa e poi quella; non deve forse la medesima cosa nascere e ritirarsi e svanire mentre la parola è ancora sulle nostre labbra?
+
+CRATILO: Senza dubbio.
+
+SOCRATE: Allora come può essere una cosa reale ciò che non è mai nel medesimo stato? poiché evidentemente le cose che sono le medesime non possono mutare mentre restano le medesime; e se sono sempre le medesime e nel medesimo stato, e mai si dipartono dalla loro forma originaria, non possono mai mutare né essere mosse.
+
+CRATILO: Certamente non possono.
+
+SOCRATE: Né inoltre possono essere conosciute da alcuno; poiché nel momento stesso in cui l'osservatore si avvicina, esse divengono altro e di altra natura, sicché non puoi procedere oltre nel conoscere la loro natura o il loro stato, poiché non puoi conoscere ciò che non ha stato.
+
+CRATILO: È vero.
+
+SOCRATE: Né possiamo ragionevolmente dire, Cratilo, che vi sia affatto conoscenza, se ogni cosa è in uno stato di transizione e nulla permane; poiché anche la conoscenza non può continuare a essere conoscenza a meno di continuare sempre a permanere ed esistere. Ma se la natura stessa della conoscenza muta, nel momento in cui il mutamento avviene non vi sarà conoscenza; e se la transizione è sempre in atto, non vi sarà mai conoscenza, e, secondo questa veduta, non vi sarà alcuno che conosca e nulla che sia conosciuto: ma se ciò che conosce e ciò che è conosciuto esistono sempre, e il bello e il buono e ogni altra cosa esistono anch'essi, allora non penso che possano somigliare a un processo o a un flusso, come or ora supponevamo. Se vi sia questa natura eterna nelle cose, oppure se la verità sia ciò che dicono Eraclito e i suoi seguaci e molti altri, è una questione difficile da determinare; e nessun uomo di senno vorrà porre se stesso o l'[educazione](/concepts/education) della propria mente in potere dei nomi: né si fiderà tanto dei nomi o dei datori dei nomi da essere sicuro di una qualche conoscenza che condanni se stesso e le altre esistenze a un malsano stato d'irrealtà; non crederà che tutte le cose colino come un vaso, né immaginerà che il mondo sia un uomo che ha il moccio al naso. Ciò può essere vero, Cratilo, ma è anche assai probabile che sia falso; e perciò non vorrei che tu te ne lasciassi troppo facilmente persuadere. Rifletti bene e da uomo, e non accettare facilmente una tale dottrina; poiché sei giovane e in età da apprendere. E quando avrai trovato la verità, vieni a dirmelo.
+
+CRATILO: Farò come dici, benché posso assicurarti, Socrate, che ho già considerato la cosa, e il risultato di molto affanno e riflessione è che io propendo per Eraclito.
+
+SOCRATE: Allora, un altro giorno, amico mio, quando tornerai, mi darai una lezione; ma al presente, va' in campagna, come intendi fare, ed Ermogene ti accompagnerà per la via.
+
+CRATILO: Benissimo, Socrate; spero, tuttavia, che tu continuerai a riflettere tu stesso su queste cose.

@@ -194,6 +194,180 @@ GORGIAS: Yes.
 
 SOCRATES: As to the arts generally, they are for the most part concerned with doing, and require little or no speaking; in painting, and statuary, and many other arts, the work may proceed in silence; and of such arts I suppose you would say that they do not come within the province of rhetoric.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+Callicle, [Socrate](/figures/socrates), Cherefonte, Gorgia, Polo.
+
+SCENA: La casa di Callicle.
+
+CALLICLE: Il saggio, come dice il proverbio, arriva tardi alla rissa, ma non al banchetto.
+
+SOCRATE: E noi siamo arrivati tardi a un banchetto?
+
+CALLICLE: Sì, e a un banchetto delizioso; poiché Gorgia ci ha appena esposto molte belle cose.
+
+SOCRATE: Non è colpa mia, Callicle; è il nostro amico Cherefonte a esserne responsabile; poiché ci ha trattenuti a bighellonare nell'Agorà.
+
+CHEREFONTE: Non importa, Socrate; la disgrazia di cui sono stato causa la riparerò anch'io; poiché Gorgia è mio amico, e lo indurrò a tenere di nuovo la sua esibizione, o adesso oppure, se preferisci, in un altro momento.
+
+CALLICLE: Che c'è, Cherefonte — Socrate desidera ascoltare Gorgia?
+
+CHEREFONTE: Sì, era questa la nostra intenzione nel venire.
+
+CALLICLE: Vieni allora in casa mia; poiché Gorgia alloggia presso di me, e vi darà la sua esibizione.
+
+SOCRATE: Benissimo, Callicle; ma risponderà alle nostre domande? poiché desidero sentire da lui quale sia la natura della sua arte, e che cosa sia ciò che egli professa e insegna; potrà, come tu (Cherefonte) suggerisci, rimandare l'esibizione a un altro momento.
+
+CALLICLE: Non c'è niente di meglio che chiederglielo, Socrate; e invero rispondere alle domande è parte della sua esibizione, poiché diceva proprio poco fa che chiunque in casa mia poteva porgli qualsiasi domanda, e che avrebbe risposto.
+
+SOCRATE: Che fortuna! vuoi chiederglielo tu, Cherefonte — ?
+
+CHEREFONTE: Che cosa devo chiedergli?
+
+SOCRATE: Chiedigli chi è.
+
+CHEREFONTE: Che cosa intendi?
+
+SOCRATE: Intendo una domanda tale da suscitare da lui, se fosse stato un fabbricante di scarpe, la risposta che è un calzolaio. Capisci?
+
+CHEREFONTE: Capisco, e glielo chiederò: Dimmi, Gorgia, ha ragione il nostro amico Callicle nel dire che ti impegni a rispondere a qualsiasi domanda ti venga posta?
+
+GORGIA: Proprio così, Cherefonte: dicevo altrettanto proprio poco fa; e posso aggiungere che sono trascorsi molti anni da quando qualcuno mi ha posto una domanda nuova.
+
+CHEREFONTE: Allora devi essere ben pronto, Gorgia.
+
+GORGIA: Di questo, Cherefonte, puoi fare la prova.
+
+POLO: Sì, davvero, e se ti fa piacere, Cherefonte, puoi fare la prova anche con me, poiché credo che Gorgia, che ha parlato a lungo, sia stanco.
+
+CHEREFONTE: E tu, Polo, credi di poter rispondere meglio di Gorgia?
+
+POLO: Che importa, se rispondo abbastanza bene per te?
+
+CHEREFONTE: Niente affatto: — e risponderai, se ti fa piacere.
+
+POLO: Chiedi: —
+
+CHEREFONTE: La mia domanda è questa: Se Gorgia avesse l'abilità di suo fratello Erodico, come dovremmo chiamarlo? Non dovrebbe forse avere il nome che si dà a suo fratello?
+
+POLO: Certamente.
+
+CHEREFONTE: Allora avremmo ragione nel chiamarlo medico?
+
+POLO: Sì.
+
+CHEREFONTE: E se avesse l'abilità di Aristofonte figlio di Aglaofonte, o di suo fratello Polignoto, come dovremmo chiamarlo?
+
+POLO: Chiaramente, un pittore.
+
+CHEREFONTE: Ma ora come lo chiameremo — qual è l'arte in cui è esperto?
+
+POLO: O Cherefonte, vi sono fra gli uomini molte arti sperimentali, e che traggono la loro origine dall'esperienza, poiché l'esperienza fa procedere i giorni degli uomini secondo l'arte, e l'inesperienza secondo il [caso](/concepts/fortune), e persone diverse in modi diversi sono valenti in arti diverse, e le persone migliori nelle arti migliori. E il nostro amico Gorgia è uno dei migliori, e l'arte in cui è valente è la più nobile.
+
+SOCRATE: A Polo è stato insegnato a comporre un discorso magnifico, Gorgia; ma non sta mantenendo la promessa che ha fatto a Cherefonte.
+
+GORGIA: Che cosa intendi, Socrate?
+
+SOCRATE: Intendo che non ha risposto esattamente alla domanda che gli è stata posta.
+
+GORGIA: Allora perché non lo chiedi tu stesso?
+
+SOCRATE: Ma preferirei di gran lunga chiederlo a te, se sei disposto a rispondere: poiché vedo, dalle poche parole che Polo ha pronunciato, che egli si è dedicato più all'arte che si chiama retorica che alla [dialettica](/positions/dialectic).
+
+POLO: Che cosa te lo fa dire, Socrate?
+
+SOCRATE: Perché, Polo, quando Cherefonte ti ha chiesto quale fosse l'arte che Gorgia conosce, tu l'hai lodata come se stessi rispondendo a qualcuno che vi trovava da ridire, ma non hai mai detto quale fosse l'arte.
+
+POLO: Ma come, non ho forse detto che era la più nobile delle arti?
+
+SOCRATE: Sì, davvero, ma questa non era una risposta alla domanda: nessuno ha chiesto quale fosse la qualità, ma quale fosse la natura dell'arte, e con quale nome dovessimo designare Gorgia. E ti pregherei ancora, brevemente e chiaramente, come hai risposto a Cherefonte quando dapprima te lo chiese, di dire quale sia quest'arte, e come dobbiamo chiamare Gorgia: O piuttosto, Gorgia, permetti che mi rivolga a te, e ti ponga la stessa domanda, — come dobbiamo chiamarti, e qual è l'arte che professi?
+
+GORGIA: La retorica, Socrate, è la mia arte.
+
+SOCRATE: Allora devo chiamarti retore?
+
+GORGIA: Sì, Socrate, e per giunta valente, se volessi chiamarmi ciò che, per dirla con Omero, «mi vanto di essere».
+
+SOCRATE: Vorrei ben farlo.
+
+GORGIA: E allora fallo, ti prego.
+
+SOCRATE: E dobbiamo dire che sei in grado di rendere retori anche altri uomini?
+
+GORGIA: Sì, è esattamente ciò che professo di renderli, non solo ad Atene, ma in ogni luogo.
+
+SOCRATE: E continuerai a porre e a rispondere a domande, Gorgia, come stiamo facendo ora, riservando a un'altra occasione il modo più lungo di discorrere che Polo stava tentando? Manterrai la tua promessa, e risponderai brevemente alle domande che ti vengono poste?
+
+GORGIA: Alcune risposte, Socrate, sono necessariamente più lunghe; ma farò del mio meglio per renderle quanto più brevi possibile; poiché parte della mia professione è che so essere breve quanto chiunque altro.
+
+SOCRATE: È proprio ciò che si vuole, Gorgia; mostraci ora il [metodo](/axes/method) più breve, e quello più lungo in un altro momento.
+
+GORGIA: Ebbene, lo farò; e certamente dirai che non hai mai sentito un uomo usare meno parole.
+
+SOCRATE: Benissimo allora; poiché professi di essere un retore, e un formatore di retori, permetti che ti chieda di che cosa si occupa la retorica: potrei chiedere di che cosa si occupa la tessitura, e tu risponderesti (non è vero?), della confezione di vesti?
+
+GORGIA: Sì.
+
+SOCRATE: E la musica si occupa della composizione di melodie?
+
+GORGIA: È così.
+
+SOCRATE: Per Era, Gorgia, ammiro la straordinaria brevità delle tue risposte.
+
+GORGIA: Sì, Socrate, credo proprio di essere bravo in questo.
+
+SOCRATE: Ne sono lieto; rispondimi allo stesso modo riguardo alla retorica: di che cosa si occupa la retorica?
+
+GORGIA: Del discorso.
+
+SOCRATE: Di che genere di discorso, Gorgia? — di un discorso tale da insegnare ai malati sotto quale trattamento potrebbero guarire?
+
+GORGIA: No.
+
+SOCRATE: Allora la retorica non tratta di ogni genere di discorso?
+
+GORGIA: Certamente no.
+
+SOCRATE: Eppure la retorica rende gli uomini capaci di parlare?
+
+GORGIA: Sì.
+
+SOCRATE: E di comprendere ciò di cui parlano?
+
+GORGIA: Naturalmente.
+
+SOCRATE: Ma l'arte della medicina, che menzionavamo poco fa, non rende forse gli uomini capaci di comprendere e parlare intorno ai malati?
+
+GORGIA: Certamente.
+
+SOCRATE: Allora anche la medicina tratta del discorso?
+
+GORGIA: Sì.
+
+SOCRATE: Di un discorso concernente le malattie?
+
+GORGIA: Proprio così.
+
+SOCRATE: E anche la ginnastica non tratta forse di un discorso concernente la buona o cattiva condizione del corpo?
+
+GORGIA: Verissimo.
+
+SOCRATE: E lo stesso, Gorgia, vale per le altre arti: — tutte trattano di un discorso concernente gli argomenti di cui ciascuna si occupa.
+
+GORGIA: Chiaramente.
+
+SOCRATE: Allora perché, se chiami la retorica l'arte che tratta del discorso, e tutte le altre arti trattano del discorso, non le chiami arti della retorica?
+
+GORGIA: Perché, Socrate, la conoscenza delle altre arti ha a che fare solo con una qualche azione esterna, come quella della mano; ma non vi è alcuna simile azione della mano nella retorica, che opera e produce il suo effetto solo per mezzo del discorso. E perciò sono giustificato nel dire che la retorica tratta del discorso.
+
+SOCRATE: Non sono sicuro di comprenderti del tutto, ma oso dire che presto ne saprò di più; ti prego di rispondermi a una domanda: — ammetteresti che esistono delle arti?
+
+GORGIA: Sì.
+
+SOCRATE: Quanto alle arti in generale, esse per la maggior parte hanno a che fare con il fare, e richiedono poco o nessun parlare; nella pittura, e nella scultura, e in molte altre arti, l'opera può procedere in silenzio; e di tali arti suppongo diresti che non rientrano nel dominio della retorica.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 GORGIAS: You perfectly conceive my meaning, [Socrates](/figures/socrates).
@@ -263,6 +437,76 @@ SOCRATES: And therefore persuade us of them?
 GORGIAS: Yes.
 
 SOCRATES: Then arithmetic as well as rhetoric is an artificer of persuasion?
+
+<span class="qlang-split" data-lang="it"></span>
+
+GORGIA: Cogli perfettamente il mio pensiero, [Socrate](/figures/socrates).
+
+SOCRATE: Ma vi sono altre arti che operano interamente per mezzo del linguaggio, e richiedono o nessuna azione o pochissima, come, per esempio, le arti dell'aritmetica, del calcolo, della geometria, e del gioco della dama; in alcune di queste il parlare è quasi coestensivo all'azione, ma nella maggior parte l'elemento verbale è preponderante — esse dipendono interamente dalle parole per la loro efficacia e il loro potere: e intendo che il tuo pensiero sia che la retorica è un'arte di quest'ultimo tipo?
+
+GORGIA: Esattamente.
+
+SOCRATE: Eppure non credo che tu intenda davvero chiamare retorica alcuna di queste arti; sebbene l'espressione precisa che hai usato fosse che la retorica è un'arte che opera e produce il suo effetto solo per mezzo del discorso; e un avversario che volesse essere cavilloso potrebbe dire: «E così, Gorgia, chiami retorica l'aritmetica». Ma non credo che tu chiami davvero retorica l'aritmetica più di quanto chiameresti così la geometria.
+
+GORGIA: Hai perfettamente ragione, Socrate, nel cogliere il mio pensiero.
+
+SOCRATE: Ebbene, allora, fammi ora avere il resto della mia risposta: — visto che la retorica è una di quelle arti che operano principalmente mediante l'uso delle parole, e vi sono altre arti che pure usano parole, dimmi qual è quella qualità nelle parole di cui la retorica si occupa: — Supponi che una persona mi interroghi intorno ad alcune delle arti che menzionavo poco fa; potrebbe dire: «Socrate, che cos'è l'aritmetica?» e io gli risponderei, come tu hai risposto a me, che l'aritmetica è una di quelle arti che producono il loro effetto mediante le parole. E allora egli proseguirebbe chiedendo: «Parole intorno a che cosa?» e io risponderei: Parole intorno ai numeri pari e dispari, e a quanti ve ne sono di ciascuno. E se chiedesse ancora: «Che cos'è l'arte del calcolo?» direi: Anche quella è una delle arti che si occupano interamente di parole. E se aggiungesse: «Occupata di che cosa?» direi, come gli scribi nell'assemblea, «come suddetto» dell'aritmetica, ma con una differenza, la differenza essendo che l'arte del calcolo considera non solo le quantità dei numeri pari e dispari, ma anche le loro relazioni numeriche con se stessi e fra loro. E supponi, di nuovo, che io dicessi che l'astronomia è solo parole — egli chiederebbe: «Parole intorno a che cosa, Socrate?» e io risponderei che l'astronomia ci parla dei movimenti delle stelle e del sole e della luna, e della loro relativa velocità.
+
+GORGIA: Avresti perfettamente ragione, Socrate.
+
+SOCRATE: E ora facci sapere da te, Gorgia, la verità sulla retorica: che tu ammetteresti (non è vero?) essere una di quelle arti che agiscono sempre e conseguono tutti i loro fini per mezzo delle parole?
+
+GORGIA: Vero.
+
+SOCRATE: Parole che fanno che cosa? dovrei chiedere. A quale classe di cose si riferiscono le parole che la retorica usa?
+
+GORGIA: Alle più grandi, Socrate, e alle migliori delle cose umane.
+
+SOCRATE: Anche questo, Gorgia, è ambiguo; sono ancora all'oscuro: poiché quali sono le più grandi e le migliori delle cose umane? Oso dire che hai udito uomini cantare ai banchetti la vecchia canzone conviviale, in cui i cantori enumerano i beni della vita, per prima la salute, la [bellezza](/concepts/beauty) per seconda, per terza, come dice l'autore della canzone, la ricchezza onestamente ottenuta.
+
+GORGIA: Sì, conosco la canzone; ma dove vuoi arrivare?
+
+SOCRATE: Voglio dire che i produttori di quelle cose che l'autore della canzone loda, vale a dire il medico, l'allenatore, colui che fa denaro, verranno subito da te, e per primo il medico dirà: «O Socrate, Gorgia ti sta ingannando, poiché la mia arte si occupa del più grande bene degli uomini, e non la sua». E quando io chiedo: Chi sei tu? egli risponderà: «Sono un medico». Che cosa intendi? dirò io. Intendi che la tua arte produce il più grande bene? «Certamente,» risponderà, «poiché la salute non è forse il più grande bene? Quale bene più grande possono avere gli uomini, Socrate?» E dopo di lui verrà l'allenatore e dirà: «Anch'io, Socrate, sarò grandemente sorpreso se Gorgia potrà mostrare un bene della sua arte maggiore di quanto io possa mostrare della mia». A lui di nuovo dirò: Chi sei tu, onesto amico, e qual è la tua occupazione? «Sono un allenatore,» risponderà, «e la mia occupazione è rendere gli uomini belli e forti nel corpo». Quando ho finito con l'allenatore, arriva colui che fa denaro, e questi, come mi aspetto, li disprezzerà tutti profondamente. «Considera, Socrate,» dirà, «se Gorgia o chiunque altro possa produrre un bene più grande della ricchezza». Ebbene, io e te gli diciamo, e sei tu un creatore di ricchezza? «Sì,» risponde. E chi sei tu? «Uno che fa denaro». E consideri la ricchezza il più grande bene dell'uomo? «Naturalmente,» sarà la sua risposta. E noi ribatteremo: Sì; ma il nostro amico Gorgia sostiene che la sua arte produce un bene maggiore della tua. E allora egli non mancherà di proseguire chiedendo: «Quale bene? Che risponda Gorgia». Ora voglio, Gorgia, che tu immagini che questa domanda ti sia posta da loro e da me: Qual è ciò che, come tu dici, è il più grande bene dell'uomo, e di cui tu sei il creatore? Rispondici.
+
+GORGIA: Quel bene, Socrate, che è veramente il più grande, essendo quello che dà agli uomini la libertà nella loro stessa persona, e ai singoli il potere di comandare sugli altri nelle rispettive città.
+
+SOCRATE: E che cosa considereresti questo essere?
+
+GORGIA: Che cosa vi è di più grande della parola che persuade i giudici nei tribunali, o i senatori nel consiglio, o i cittadini nell'assemblea, o in qualsiasi altra riunione politica? — se hai il potere di pronunciare questa parola, avrai il medico tuo schiavo, e l'allenatore tuo schiavo, e colui che fa denaro di cui parli si troverà ad accumulare tesori, non per sé, ma per te che sei capace di parlare e di persuadere la moltitudine.
+
+SOCRATE: Ora penso, Gorgia, che tu abbia spiegato con grande precisione ciò che concepisci essere l'arte della retorica; e intendi dire, se non m'inganno, che la retorica è l'artefice della persuasione, avendo questo e nessun altro compito, e che questo è il suo coronamento e il suo fine. Conosci qualche altro effetto della retorica al di là di quello di produrre persuasione?
+
+GORGIA: No: la definizione mi pare molto giusta, Socrate; poiché la persuasione è il fine principale della retorica.
+
+SOCRATE: Allora ascoltami, Gorgia, poiché sono ben sicuro che se mai vi fu un uomo che entrò nella discussione di una questione per puro amore di conoscere la verità, io sono uno di questi, e altrettanto direi di te.
+
+GORGIA: Che cosa sta per venire, Socrate?
+
+SOCRATE: Te lo dirò: sono ben consapevole di non sapere quale sia, secondo te, l'esatta natura, né quali siano gli argomenti di quella persuasione di cui parli, e che è data dalla retorica; sebbene ne abbia un sospetto riguardo all'una e agli altri. E sto per chiedere — qual è questo potere di persuasione che è dato dalla retorica, e intorno a che cosa? Ma perché, se ho un sospetto, chiedo invece di dirtelo? Non per amor tuo, ma affinché l'argomentazione proceda in modo tale da esporre nel modo più probabile la verità. E vorrei che tu osservassi che ho ragione nel porre quest'ulteriore domanda: Se chiedessi: «Che genere di pittore è Zeusi?» e tu dicessi: «Il pittore di figure», non avrei ragione nel chiedere: «Che genere di figure, e dove le trovi?»
+
+GORGIA: Certamente.
+
+SOCRATE: E la ragione per porre questa seconda domanda sarebbe che vi sono altri pittori oltre a lui, che dipingono molte altre figure?
+
+GORGIA: Vero.
+
+SOCRATE: Ma se non vi fosse stato nessun altro all'infuori di Zeusi a dipingerle, allora avresti risposto benissimo?
+
+GORGIA: Proprio così.
+
+SOCRATE: Ora voglio sapere della retorica allo stesso modo; — è la retorica l'unica arte che reca persuasione, oppure altre arti hanno lo stesso effetto? Voglio dire — Colui che insegna qualcosa persuade o no gli uomini di ciò che insegna?
+
+GORGIA: Persuade, Socrate, — su questo non ci può essere dubbio.
+
+SOCRATE: Di nuovo, se prendiamo le arti di cui parlavamo poco fa: — l'aritmetica e gli aritmetici non ci insegnano forse le proprietà del numero?
+
+GORGIA: Certamente.
+
+SOCRATE: E perciò ce ne persuadono?
+
+GORGIA: Sì.
+
+SOCRATE: Allora l'aritmetica, al pari della retorica, è un'artefice di persuasione?
 
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -342,6 +586,84 @@ GORGIAS: And you will observe, Socrates, that when a decision has to be given in
 
 SOCRATES: I had that in my admiring mind, Gorgias, when I asked what is the nature of rhetoric, which always appears to me, when I look at the matter in this way, to be a marvel of greatness.
 
+<span class="qlang-split" data-lang="it"></span>
+
+GORGIA: Chiaramente.
+
+[SOCRATE](/figures/socrates): E se qualcuno ci chiede che genere di persuasione, e intorno a che cosa, — risponderemo, la persuasione che insegna la quantità del pari e del dispari; e saremo in grado di mostrare che tutte le altre arti di cui parlavamo poco fa sono artefici di persuasione, e di quale genere, e intorno a che cosa.
+
+GORGIA: Verissimo.
+
+SOCRATE: Allora la retorica non è l'unica artefice di persuasione?
+
+GORGIA: Vero.
+
+SOCRATE: Vedendo, dunque, che non solo la retorica opera mediante persuasione, ma che anche altre arti fanno lo stesso, come nel caso del pittore, è sorta una domanda che è del tutto legittima: Di quale persuasione è artefice la retorica, e intorno a che cosa? — non è questo un modo corretto di porre la domanda?
+
+GORGIA: Credo di sì.
+
+SOCRATE: Allora, se approvi la domanda, Gorgia, qual è la risposta?
+
+GORGIA: Rispondo, Socrate, che la retorica è l'arte della persuasione nei tribunali e nelle altre assemblee, come dicevo poco fa, e intorno al giusto e all'ingiusto.
+
+SOCRATE: E questo, Gorgia, era ciò che sospettavo essere la tua idea; eppure non vorrei che ti meravigliassi se di lì a poco mi trovassi a ripetere una domanda apparentemente ovvia; poiché non chiedo per confutarti, ma, come dicevo, affinché l'argomentazione proceda in modo consequenziale, e affinché non prendiamo l'[abitudine](/concepts/custom) di anticipare e sospettare il significato delle parole altrui; vorrei che tu sviluppassi le tue vedute a tuo modo, qualunque sia la tua ipotesi.
+
+GORGIA: Credo che tu abbia perfettamente ragione, Socrate.
+
+SOCRATE: Allora permetti che sollevi un'altra questione; esiste una cosa come l'«aver appreso»?
+
+GORGIA: Sì.
+
+SOCRATE: E vi è anche l'«aver creduto»?
+
+GORGIA: Sì.
+
+SOCRATE: E l'«aver appreso» è la stessa cosa dell'«aver creduto», e l'apprendere e il credere sono la stessa cosa?
+
+GORGIA: A mio giudizio, Socrate, non sono la stessa cosa.
+
+SOCRATE: E il tuo giudizio è giusto, come puoi accertare in questo modo: — Se una persona ti dicesse: «Vi è, Gorgia, una credenza falsa come pure una vera?» — risponderesti, se non m'inganno, che vi è.
+
+GORGIA: Sì.
+
+SOCRATE: Ebbene, ma vi è una conoscenza falsa come pure una vera?
+
+GORGIA: No.
+
+SOCRATE: No, davvero; e anche questo prova che la conoscenza e la credenza differiscono.
+
+GORGIA: Verissimo.
+
+SOCRATE: Eppure coloro che hanno appreso, come pure coloro che hanno creduto, sono persuasi?
+
+GORGIA: Proprio così.
+
+SOCRATE: Assumeremo allora due generi di persuasione, — uno che è la fonte della credenza senza conoscenza, come l'altro lo è della conoscenza?
+
+GORGIA: Senz'altro.
+
+SOCRATE: E quale genere di persuasione crea la retorica nei tribunali e nelle altre assemblee intorno al giusto e all'ingiusto, il genere di persuasione che dà credenza senza conoscenza, o quello che dà conoscenza?
+
+GORGIA: Chiaramente, Socrate, quello che dà solo credenza.
+
+SOCRATE: Allora la retorica, a quanto pare, è l'artefice di una persuasione che crea credenza intorno al giusto e all'ingiusto, ma non dà alcun insegnamento su di essi?
+
+GORGIA: Vero.
+
+SOCRATE: E il retore non istruisce i tribunali o le altre assemblee intorno alle cose giuste e ingiuste, ma crea in esse una credenza; poiché non si può supporre che qualcuno istruisca una così vasta moltitudine intorno a materie tanto elevate in breve tempo?
+
+GORGIA: Certamente no.
+
+SOCRATE: Su, allora, e vediamo che cosa intendiamo veramente riguardo alla retorica; poiché non so ancora quale sia il mio stesso pensiero. Quando l'assemblea si riunisce per eleggere un medico o un costruttore di navi o qualche altro artigiano, sarà forse chiamato a consiglio il retore? Certo no. Poiché a ogni elezione si dovrebbe scegliere colui che è più esperto; e, di nuovo, quando si devono erigere mura o costruire porti o darsene, non il retore ma il maestro d'opera consiglierà; o quando si devono scegliere generali e disporre un ordine di battaglia, o prendere una posizione, allora i militari consiglieranno e non i retori: che ne dici, Gorgia? Poiché professi di essere un retore e un formatore di retori, non posso far di meglio che apprendere da te la natura della tua arte. E qui permetti che ti assicuri che ho di mira il tuo interesse tanto quanto il mio. Poiché è assai probabile che qualcuno o l'altro dei giovani qui presenti desideri diventare tuo allievo, e infatti ne vedo alcuni, e parecchi anche, che hanno questo desiderio, ma sarebbero troppo timidi per interrogarti. E perciò quando sarai interrogato da me, vorrei che tu immaginassi di essere interrogato da loro. «A che serve venire da te, Gorgia?» diranno — «intorno a che cosa ci insegnerai a consigliare [lo Stato](/concepts/state)? — intorno al giusto e all'ingiusto soltanto, o anche intorno a quelle altre cose che Socrate ha appena menzionato?» Come risponderai loro?
+
+GORGIA: Mi piace il tuo modo di condurci avanti, Socrate, e mi sforzerò di rivelarti l'intera natura della retorica. Devi aver sentito, credo, che le darsene e le mura degli Ateniesi e il piano del porto furono ideati in conformità con i consigli, in parte di Temistocle, e in parte di Pericle, e non su suggerimento dei costruttori.
+
+SOCRATE: Tale è la tradizione, Gorgia, intorno a Temistocle; e io stesso udii il discorso di Pericle quando ci consigliò intorno al muro di mezzo.
+
+GORGIA: E osserverai, Socrate, che quando si deve dare una decisione in tali materie sono i retori i consiglieri; sono essi gli uomini che fanno prevalere il loro punto.
+
+SOCRATE: Avevo questo nella mia mente ammirata, Gorgia, quando chiesi qual è la natura della retorica, che mi appare sempre, quando guardo la cosa in questo modo, un prodigio di grandezza.
+
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 GORGIAS: A marvel, indeed, [Socrates](/figures/socrates), if you only knew how rhetoric comprehends and holds under her sway all the inferior arts. Let me offer you a striking example of this. On several occasions I have been with my brother Herodicus or some other physician to see one of his patients, who would not allow the physician to give him medicine, or apply the knife or hot iron to him; and I have persuaded him to do for me what he would not do for the physician just by the use of rhetoric. And I say that if a rhetorician and a physician were to go to any city, and had there to argue in the Ecclesia or any other assembly as to which of them should be elected state-physician, the physician would have no [chance](/concepts/fortune); but he who could speak would be chosen if he wished; and in a contest with a man of any other profession the rhetorician more than any one would have the power of getting himself chosen, for he can speak more persuasively to the multitude than any of them, and on any subject. Such is the nature and power of the art of rhetoric! And yet, Socrates, rhetoric should be used like any other competitive art, not against everybody, — the rhetorician ought not to abuse his strength any more than a pugilist or pancratiast or other master of fence; — because he has powers which are more than a match either for friend or enemy, he ought not therefore to strike, stab, or slay his friends. Suppose a man to have been trained in the palestra and to be a skilful boxer, — he in the fulness of his strength goes and strikes his father or mother or one of his familiars or friends; but that is no reason why the trainers or fencing-masters should be held in detestation or banished from the city; — surely not. For they taught their art for a good purpose, to be used against enemies and evil-doers, in self-defence not in aggression, and others have perverted their instructions, and turned to a bad use their own strength and skill. But not on this account are the teachers bad, neither is the art in fault, or bad in itself; I should rather say that those who make a bad use of the art are to blame. And the same argument holds good of rhetoric; for the rhetorician can speak against all men and upon any subject, — in short, he can persuade the multitude better than any other man of anything which he pleases, but he should not therefore seek to defraud the physician or any other artist of his reputation merely because he has the power; he ought to use rhetoric fairly, as he would also use his athletic powers. And if after having become a rhetorician he makes a bad use of his strength and skill, his instructor surely ought not on that account to be held in detestation or banished. For he was intended by his teacher to make a good use of his instructions, but he abuses them. And therefore he is the person who ought to be held in detestation, banished, and put to death, and not his instructor.
@@ -393,6 +715,58 @@ GORGIAS: In the case supposed: — yes.
 SOCRATES: And the same holds of the relation of rhetoric to all the other arts; the rhetorician need not know the truth about things; he has only to discover some way of persuading the ignorant that he has more knowledge than those who know?
 
 GORGIAS: Yes, Socrates, and is not this a great comfort? — not to have learned the other arts, but the art of rhetoric only, and yet to be in no way inferior to the professors of them?
+
+<span class="qlang-split" data-lang="it"></span>
+
+GORGIA: Un prodigio, davvero, [Socrate](/figures/socrates), se solo sapessi come la retorica comprende e tiene sotto il suo dominio tutte le arti inferiori. Permetti che ti offra un esempio notevole di questo. In diverse occasioni sono stato con mio fratello Erodico o con qualche altro medico a visitare uno dei suoi pazienti, il quale non permetteva al medico di somministrargli medicine, né di applicargli il bisturi o il ferro rovente; e io l'ho persuaso a fare per me ciò che non voleva fare per il medico, semplicemente con l'uso della retorica. E dico che se un retore e un medico giungessero in una qualsiasi città, e là dovessero contendere nell'Ecclesia o in qualsiasi altra assemblea su quale dei due dovesse essere eletto medico pubblico, il medico non avrebbe alcuna [possibilità](/concepts/fortune); ma colui che sapesse parlare sarebbe scelto, se lo volesse; e in una gara con un uomo di qualsiasi altra professione il retore più di chiunque avrebbe il potere di farsi scegliere, poiché sa parlare alla moltitudine in modo più persuasivo di chiunque di loro, e su qualsiasi argomento. Tale è la natura e il potere dell'arte della retorica! Eppure, Socrate, la retorica dovrebbe essere usata come qualsiasi altra arte competitiva, non contro tutti, — il retore non dovrebbe abusare della sua forza più di quanto lo dovrebbe un pugile o un pancraziaste o altro maestro di scherma; — perché egli ha poteri che sono più che pari sia per l'amico sia per il nemico, non dovrebbe perciò colpire, pugnalare o uccidere i suoi amici. Supponi che un uomo sia stato addestrato nella palestra e sia un abile pugile, — egli nella pienezza della sua forza va e colpisce suo padre o sua madre o uno dei suoi familiari o amici; ma questa non è ragione perché gli allenatori o i maestri di scherma debbano essere tenuti in detestazione o banditi dalla città; — certo no. Poiché essi insegnarono la loro arte per un buon fine, per essere usata contro nemici e malfattori, per legittima difesa e non per aggressione, e altri hanno pervertito i loro insegnamenti, e volto a un cattivo uso la propria forza e abilità. Ma non per questo i maestri sono cattivi, né l'arte è in colpa, o cattiva in se stessa; direi piuttosto che coloro che fanno un cattivo uso dell'arte sono da biasimare. E lo stesso argomento vale per la retorica; poiché il retore può parlare contro tutti gli uomini e su qualsiasi argomento, — in breve, può persuadere la moltitudine meglio di qualsiasi altro uomo di qualsiasi cosa gli piaccia, ma non dovrebbe perciò cercare di defraudare il medico o qualsiasi altro artefice della sua reputazione solo perché ne ha il potere; dovrebbe usare la retorica lealmente, come userebbe anche le sue capacità atletiche. E se dopo essere diventato un retore ne fa un cattivo uso della sua forza e abilità, il suo istruttore certo non dovrebbe per questo essere tenuto in detestazione o bandito. Poiché era destinato dal suo maestro a fare un buon uso dei suoi insegnamenti, ma ne abusa. E perciò è lui la persona che dovrebbe essere tenuta in detestazione, bandita, e messa a morte, e non il suo istruttore.
+
+SOCRATE: Tu, Gorgia, come me, hai avuto grande esperienza di dispute, e devi aver osservato, credo, che esse non sempre terminano in reciproca edificazione, o nella definizione da parte dell'una o dell'altra parte degli argomenti che discutono; ma tendono a sorgere disaccordi — qualcuno dice che un altro non ha parlato con verità o chiarezza; e allora si accendono e cominciano a litigare, entrambe le parti convinte che gli avversari argomentino solo per risentimento personale e gelosia verso di loro, e non per alcun interesse nella questione in gioco. E talvolta continueranno a insultarsi a vicenda finché la compagnia alla fine non è del tutto irritata con se stessa per aver mai ascoltato simili individui. Perché dico questo? Perché non posso fare a meno di sentire che ora stai dicendo qualcosa che non è del tutto coerente o concorde con ciò che dicevi dapprima intorno alla retorica. E ho timore di farti notare questo, per paura che tu pensi che io nutra qualche animosità contro di te, e che parli non per amore di scoprire la verità, ma per gelosia di te. Ora, se sei uno del mio genere, vorrei sottoporti a un esame incrociato, ma se no ti lascerò in pace. E qual è il mio genere? chiederai. Sono uno di quelli che sono ben disposti a essere confutati se dico qualcosa che non è vero, e ben disposti a confutare chiunque altro dica ciò che non è vero, e altrettanto pronti a essere confutati quanto a confutare; poiché ritengo che questo sia il maggiore dei due guadagni, così come è maggiore il guadagno di essere guariti da un grandissimo male che di guarirne un altro. Poiché immagino che non vi sia male che un uomo possa sopportare tanto grande quanto un'opinione erronea intorno alle materie di cui parliamo; e se pretendi di essere uno del mio genere, portiamo a termine la discussione, ma se preferisci aver finito, non importa; — poniamovi fine.
+
+GORGIA: Direi, Socrate, che sono proprio l'uomo che indichi; ma, forse, dovremmo considerare l'uditorio, poiché, prima che tu venissi, avevo già dato una lunga esibizione, e se proseguiamo l'argomentazione potrebbe protrarsi assai a lungo. E perciò credo che dovremmo considerare se non stiamo trattenendo qualcuno della compagnia mentre desidera fare qualcos'altro.
+
+CHEREFONTE: Udite l'uditorio acclamare, Gorgia e Socrate, il che mostra il loro desiderio di ascoltarvi; e quanto a me, il Cielo non voglia che io abbia per le mani qualche affare che mi allontani da una discussione tanto interessante e tanto abilmente sostenuta.
+
+CALLICLE: Per gli dèi, Cherefonte, benché io sia stato presente a molte discussioni, dubito di essere mai stato tanto dilettato prima d'ora, e perciò se proseguirete a discorrere tutto il giorno ne sarò tanto più contento.
+
+SOCRATE: Posso dire con verità, Callicle, che sono disposto, se lo è Gorgia.
+
+GORGIA: Dopo tutto questo, Socrate, sarei disonorato se rifiutassi, specialmente poiché ho promesso di rispondere a tutti i venuti; in conformità dunque con i desideri della compagnia, comincia tu, e poni a me qualsiasi domanda che ti piaccia.
+
+SOCRATE: Permetti allora che ti dica, Gorgia, che cosa mi sorprende nelle tue parole; benché io osi dire che tu possa aver ragione, e che io possa aver frainteso il tuo pensiero. Tu dici di poter rendere retore qualsiasi uomo che voglia apprendere da te?
+
+GORGIA: Sì.
+
+SOCRATE: Intendi che gli insegnerai a conquistare le orecchie della moltitudine su qualsiasi argomento, e questo non mediante insegnamento ma mediante persuasione?
+
+GORGIA: Proprio così.
+
+SOCRATE: In effetti dicevi che il retore avrà poteri di persuasione maggiori del medico anche in una questione di salute?
+
+GORGIA: Sì, con la moltitudine, — cioè.
+
+SOCRATE: Intendi dire, con gli ignoranti; poiché con coloro che sanno non si può supporre che egli abbia poteri di persuasione maggiori.
+
+GORGIA: Verissimo.
+
+SOCRATE: Ma se deve avere più potere di persuasione del medico, avrà più potere di colui che sa?
+
+GORGIA: Certamente.
+
+SOCRATE: Sebbene non sia un medico: — non è così?
+
+GORGIA: No.
+
+SOCRATE: E colui che non è un medico deve, ovviamente, essere ignorante di ciò che il medico sa.
+
+GORGIA: Chiaramente.
+
+SOCRATE: Allora, quando il retore è più persuasivo del medico, l'ignorante è più persuasivo con l'ignorante di colui che ha conoscenza? — non è questa l'inferenza?
+
+GORGIA: Nel caso supposto: — sì.
+
+SOCRATE: E lo stesso vale per la relazione della retorica con tutte le altre arti; il retore non ha bisogno di conoscere la verità intorno alle cose; deve solo scoprire qualche modo di persuadere gli ignoranti di avere più conoscenza di coloro che sanno?
+
+GORGIA: Sì, Socrate, e non è questo un grande conforto? — non aver appreso le altre arti, ma la sola arte della retorica, ed essere tuttavia in nessun modo inferiore ai cultori di esse?
 
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -528,6 +902,140 @@ SOCRATES: No, they are only different parts of the same profession.
 
 POLUS: Of what profession?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Se il retore sia o no inferiore per questa ragione è una questione che esamineremo in seguito, se l'indagine sarà probabilmente di qualche utilità per noi; ma preferirei cominciare chiedendo se egli sia o no tanto ignorante del giusto e dell'ingiusto, del turpe e dell'onorevole, del bene e del male, quanto lo è della medicina e delle altre arti; voglio dire, sa egli realmente qualcosa di ciò che è bene e male, turpe o onorevole, giusto o ingiusto in esse; o ha solo un modo, con gli ignoranti, di persuaderli che egli, pur non sapendo, è da stimarsi come uno che sa più intorno a queste cose di qualcun altro che sa? Oppure l'allievo deve conoscere queste cose e venire da te conoscendole prima di poter acquisire l'arte della retorica? Se è ignorante, tu che sei il maestro di retorica non gliele insegnerai — non è affar tuo; ma lo farai sembrare alla moltitudine come uno che le conosce, quando non le conosce; e sembrare un uomo buono, quando non lo è. Oppure sarai del tutto incapace di insegnargli la retorica, a meno che egli non conosca prima la verità di queste cose? Che cosa si deve dire di tutto questo? Per il cielo, Gorgia, vorrei che tu mi rivelassi il potere della retorica, come dicevi che avresti fatto.
+
+GORGIA: Ebbene, Socrate, suppongo che se l'allievo per [caso](/concepts/fortune) non le conosce, dovrà apprendere da me anche queste cose.
+
+SOCRATE: Non dire altro, poiché in questo hai ragione; e così colui che tu rendi retore deve o già conoscere la natura del giusto e dell'ingiusto, o deve esserne istruito da te.
+
+GORGIA: Certamente.
+
+SOCRATE: Bene, e colui che ha appreso la carpenteria non è un carpentiere?
+
+GORGIA: Sì.
+
+SOCRATE: E colui che ha appreso la musica un musico?
+
+GORGIA: Sì.
+
+SOCRATE: E colui che ha appreso la medicina è un medico, allo stesso modo? Colui che ha appreso qualsiasi cosa è ciò che la sua conoscenza lo rende.
+
+GORGIA: Certamente.
+
+SOCRATE: E allo stesso modo, colui che ha appreso ciò che è giusto è giusto?
+
+GORGIA: Di sicuro.
+
+SOCRATE: E colui che è giusto si può supporre faccia ciò che è giusto?
+
+GORGIA: Sì.
+
+SOCRATE: E l'uomo giusto non deve forse desiderare sempre di fare ciò che è giusto?
+
+GORGIA: Questa è chiaramente l'inferenza.
+
+SOCRATE: Sicuramente, allora, l'uomo giusto non acconsentirà mai a commettere ingiustizia?
+
+GORGIA: Certamente no.
+
+SOCRATE: E secondo l'argomentazione il retore deve essere un uomo giusto?
+
+GORGIA: Sì.
+
+SOCRATE: E perciò non sarà mai disposto a commettere ingiustizia?
+
+GORGIA: Chiaramente no.
+
+SOCRATE: Ma ricordi di aver detto poco fa che l'allenatore non è da accusare o bandire se il pugile fa un uso sbagliato della sua arte pugilistica; e allo stesso modo, se il retore fa un uso cattivo e ingiusto della sua retorica, ciò non è da imputarsi al suo maestro, che non è da bandire, ma il malfattore stesso che ha fatto un cattivo uso della sua retorica — è lui a essere bandito — non è stato detto questo?
+
+GORGIA: Sì, è stato detto.
+
+SOCRATE: Ma ora stiamo affermando che il suddetto retore non avrà mai commesso alcuna ingiustizia?
+
+GORGIA: Vero.
+
+SOCRATE: E fin dall'inizio, Gorgia, si è detto che la retorica trattava del discorso, non (come l'aritmetica) intorno al pari e al dispari, ma intorno al giusto e all'ingiusto? Non è stato detto questo?
+
+GORGIA: Sì.
+
+SOCRATE: Pensavo in quel momento, quando ti sentivo dire così, che la retorica, che sempre discorre intorno alla giustizia, non potesse in nessun modo essere una cosa ingiusta. Ma quando aggiungesti, poco dopo, che il retore poteva fare un cattivo uso della retorica, notai con sorpresa l'incoerenza in cui eri caduto; e dissi che se tu pensassi, come me, che vi fosse un guadagno nell'essere confutato, vi sarebbe un vantaggio nel proseguire con la questione, ma altrimenti avrei smesso. E nel corso delle nostre indagini, come tu stesso vedrai, si è riconosciuto che il retore è incapace di fare un uso ingiusto della retorica, o di essere disposto a commettere ingiustizia. Per il cane, Gorgia, ci sarà una gran quantità di discussione prima che arriviamo alla verità di tutto questo.
+
+POLO: E credi davvero anche tu, Socrate, ciò che ora stai dicendo intorno alla retorica? Come! poiché Gorgia si è vergognato di negare che il retore conoscesse il giusto e l'onorevole e il bene, e ha ammesso che a chiunque venisse da lui ignorandoli poteva insegnarli, e poi da questa ammissione è sorta una contraddizione — la cosa che tu ami teneramente, e alla quale non lui, ma tu, hai portato l'argomentazione con le tue domande cavillose — (credi davvero che vi sia qualche verità in tutto questo?) Poiché ammetterà mai qualcuno di non conoscere, o di non poter insegnare, la natura della giustizia? La verità è che vi è grande mancanza di garbo nel portare l'argomentazione a un tale punto.
+
+SOCRATE: Illustre Polo, la ragione per cui ci procuriamo amici e figli è che, quando diventiamo vecchi e vacilliamo, una generazione più giovane possa essere a portata di mano per rimetterci in piedi nelle nostre parole e nelle nostre azioni: e ora, se io e Gorgia stiamo vacillando, ecco te che dovresti risollevarci; e io da parte mia mi impegno a ritrattare qualsiasi errore in cui tu pensi che io sia caduto — a una condizione:
+
+POLO: Quale condizione?
+
+SOCRATE: Che tu contragga, Polo, la prolissità di discorso in cui ti sei indulto dapprima.
+
+POLO: Come! intendi che non posso usare tutte le parole che mi piace?
+
+SOCRATE: Pensa soltanto, amico mio, che essendo venuto in visita ad Atene, che è lo Stato dal più libero eloquio in Grecia, tu, quando vi sei giunto, e tu solo, dovessi essere privato del potere della parola — sarebbe davvero duro. Ma allora considera il mio caso: — non sarò forse trattato assai duramente, se, mentre tu tieni una lunga orazione, e rifiuti di rispondere a ciò che ti viene chiesto, io sono costretto a restare e ad ascoltarti, e non posso andarmene? Dico piuttosto, se hai un reale interesse per l'argomentazione, o, per ripetere la mia espressione di prima, hai qualche desiderio di rimetterla in piedi, ritira qualsiasi affermazione ti piaccia; e a tua volta chiedi e rispondi, come me e Gorgia — confuta e sii confutato: poiché suppongo che tu pretenda di sapere ciò che sa Gorgia — non è vero?
+
+POLO: Sì.
+
+SOCRATE: E tu, come lui, inviti chiunque a chiederti qualsiasi cosa gli piaccia, e saprai come rispondergli?
+
+POLO: Di sicuro.
+
+SOCRATE: E ora, che cosa farai, chiedere o rispondere?
+
+POLO: Chiederò; e rispondimi tu, Socrate, la stessa domanda alla quale Gorgia, come tu supponi, è incapace di rispondere: Che cos'è la retorica?
+
+SOCRATE: Intendi che genere di arte?
+
+POLO: Sì.
+
+SOCRATE: A dire il vero, Polo, non è affatto un'arte, secondo me.
+
+POLO: Allora che cos'è, secondo te, la retorica?
+
+SOCRATE: Una cosa che, come leggevo di recente in un tuo libro, tu dici di aver fatto un'arte.
+
+POLO: Quale cosa?
+
+SOCRATE: Direi una sorta di esperienza.
+
+POLO: La retorica ti pare essere un'esperienza?
+
+SOCRATE: Questa è la mia veduta, ma tu potresti essere di altro avviso.
+
+POLO: Un'esperienza in che cosa?
+
+SOCRATE: Un'esperienza nel produrre una sorta di diletto e gratificazione.
+
+POLO: E se è capace di gratificare altri, la retorica non dev'essere una bella cosa?
+
+SOCRATE: Che cosa stai dicendo, Polo? Perché mi chiedi se la retorica sia una bella cosa o no, quando non ti ho ancora detto che cos'è la retorica?
+
+POLO: Non ti ho forse sentito dire che la retorica era una sorta di esperienza?
+
+SOCRATE: Vuoi tu, che sei tanto desideroso di gratificare altri, concedere una piccola gratificazione a me?
+
+POLO: Lo farò.
+
+SOCRATE: Vuoi chiedermi che genere di arte è la cucina?
+
+POLO: Che genere di arte è la cucina?
+
+SOCRATE: Non è affatto un'arte, Polo.
+
+POLO: Che cos'è allora?
+
+SOCRATE: Direi un'esperienza.
+
+POLO: In che cosa? Vorrei che me lo spiegassi.
+
+SOCRATE: Un'esperienza nel produrre una sorta di diletto e gratificazione, Polo.
+
+POLO: Allora la cucina e la retorica sono la stessa cosa?
+
+SOCRATE: No, sono solo parti diverse della stessa professione.
+
+POLO: Di quale professione?
+
 <span class="atom-split" data-atom="006" data-title="Parte 6" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I am afraid that the truth may seem discourteous; and I hesitate to answer, lest Gorgias should imagine that I am making fun of his own profession. For whether or no this is that art of rhetoric which Gorgias practises I really cannot tell: — from what he was just now saying, nothing appeared of what he thought of his art, but the rhetoric which I mean is a part of a not very creditable whole.
@@ -607,6 +1115,86 @@ SOCRATES: Then, if so, I think that they have the least power of all the citizen
 POLUS: What! are they not like tyrants? They kill and despoil and exile any one whom they please.
 
 SOCRATES: By the dog, Polus, I cannot make out at each deliverance of yours, whether you are giving an opinion of your own, or asking a question of me.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ho timore che la verità possa parere scortese; ed esito a rispondere, per paura che Gorgia immagini che io mi stia facendo beffe della sua professione. Poiché se questa sia o no quell'arte della retorica che Gorgia pratica non saprei davvero dire: — da ciò che egli diceva poco fa, nulla è apparso di ciò che pensava della sua arte, ma la retorica che intendo io è parte di un tutto non molto lodevole.
+
+GORGIA: Parte di che cosa, Socrate? Di' ciò che intendi, e non farti riguardo di me.
+
+SOCRATE: A mio parere, dunque, Gorgia, il tutto di cui la retorica è parte non è affatto un'arte, ma l'[abitudine](/concepts/custom) di uno spirito ardito e pronto, che sa come manovrare gli uomini: questa abitudine la riassumo sotto la parola «adulazione»; e mi pare che abbia molte altre parti, una delle quali è la cucina, che può parere essere un'arte, ma, come sostengo, è solo un'esperienza o routine e non un'arte: — un'altra parte è la retorica, e l'arte dell'abbigliamento e la sofistica sono altre due: vi sono così quattro rami, e quattro cose diverse corrispondenti a essi. E Polo può chiedere, se gli piace, poiché non è stato ancora informato, quale parte dell'adulazione sia la retorica: egli non ha visto che io non gli avevo ancora risposto quando è passato a porre un'ulteriore domanda: Se io non pensi che la retorica sia una bella cosa? Ma non gli dirò se la retorica sia una bella cosa o no, finché non avrò prima risposto: «Che cos'è la retorica?» Poiché ciò non sarebbe giusto, Polo; ma sarò felice di rispondere, se mi chiederai: Quale parte dell'adulazione è la retorica?
+
+POLO: Chiederò e tu risponderai? Quale parte dell'adulazione è la retorica?
+
+SOCRATE: Vuoi comprendere la mia risposta? La retorica, secondo la mia veduta, è il fantasma o la contraffazione di una parte della politica.
+
+POLO: E nobile o ignobile?
+
+SOCRATE: Ignobile, direi, se sono costretto a rispondere, poiché chiamo ignobile ciò che è cattivo: benché io dubiti che tu comprenda ciò che dicevo prima.
+
+GORGIA: Invero, Socrate, non posso dire di comprendere io stesso.
+
+SOCRATE: Non mi meraviglio, Gorgia; poiché non mi sono ancora spiegato, e il nostro amico Polo, puledro di nome e puledro di natura, è incline a scappar via. (Questo è un intraducibile gioco di parole sul nome «Polo», che significa «un puledro».)
+
+GORGIA: Non curarti di lui, ma spiegami che cosa intendi dicendo che la retorica è la contraffazione di una parte della politica.
+
+SOCRATE: Cercherò, allora, di spiegare la mia nozione di retorica, e se m'inganno, il mio amico Polo mi confuterà. Possiamo assumere l'esistenza di corpi e di anime?
+
+GORGIA: Naturalmente.
+
+SOCRATE: Ammetteresti inoltre che vi è una buona condizione dell'uno o dell'altra?
+
+GORGIA: Sì.
+
+SOCRATE: La quale condizione può non essere realmente buona, ma buona solo in apparenza? Voglio dire che vi sono molte persone che appaiono essere in buona salute, e che solo un medico o un allenatore discernerà a prima vista non essere in buona salute.
+
+GORGIA: Vero.
+
+SOCRATE: E questo si applica non solo al corpo, ma anche all'anima: in entrambi può esservi ciò che dà l'apparenza della salute e non la realtà?
+
+GORGIA: Sì, certamente.
+
+SOCRATE: E ora mi sforzerò di spiegarti più chiaramente ciò che intendo: L'[anima e il corpo](/axes/soul_body) essendo due, hanno due arti corrispondenti a essi: vi è l'arte della politica che attende all'anima; e un'altra arte che attende al corpo, della quale non conosco alcun nome unico, ma che può essere descritta come avente due divisioni, una delle quali la ginnastica, e l'altra la medicina. E nella politica vi è una parte legislativa, che corrisponde alla ginnastica, come la giustizia corrisponde alla medicina; e le due parti si sovrappongono l'una all'altra, avendo la giustizia a che fare con lo stesso soggetto della legislazione, e la medicina con lo stesso soggetto della ginnastica, ma con una differenza. Ora, visto che vi sono queste quattro arti, due che attendono al corpo e due all'anima per il loro sommo bene; l'adulazione, conoscendo, o piuttosto indovinando la loro natura, si è distribuita in quattro finzioni o simulazioni di esse; ella assume la sembianza dell'una o dell'altra di esse, e finge di essere ciò che simula, e non avendo alcun riguardo per i sommi interessi degli uomini, va sempre facendo del piacere l'esca degli incauti, e ingannandoli fino a fargli credere che ella sia per loro del più alto valore. La cucina simula il travestimento della medicina, e finge di sapere quale cibo sia il migliore per il corpo; e se il medico e il cuoco dovessero entrare in una gara in cui i giudici fossero bambini, o uomini che non avessero più senno dei bambini, su quale dei due comprenda meglio la bontà o la cattiveria del cibo, il medico morirebbe di fame. Un'adulazione ritengo questa essere e di sorta ignobile, Polo, poiché è a te che ora mi rivolgo, perché mira al piacere senza alcun pensiero del meglio. Un'arte non la chiamo, ma solo un'esperienza, perché è incapace di spiegare o di dare una ragione della natura delle proprie applicazioni. E non chiamo arte alcuna cosa irrazionale; ma se contesti le mie parole, sono pronto ad argomentare in loro difesa.
+
+La cucina, dunque, sostengo essere un'adulazione che prende la forma della medicina; e l'abbigliamento, allo stesso modo, è un'adulazione che prende la forma della ginnastica, ed è furfantesco, falso, ignobile, illiberale, operando ingannevolmente con l'aiuto di linee, e colori, e smalti, e vesti, e facendo affettare agli uomini una spuria [bellezza](/concepts/beauty) a scapito della vera bellezza che è data dalla ginnastica.
+
+Preferirei non essere tedioso, e perciò dirò soltanto, alla maniera dei geometri (poiché credo che ormai sarai in grado di seguirmi)
+
+come l'abbigliamento sta alla ginnastica, così la cucina sta alla medicina;
+
+o piuttosto,
+
+come l'abbigliamento sta alla ginnastica, così la sofistica sta alla legislazione;
+
+e inoltre,
+
+come la cucina sta alla medicina, così la retorica sta alla giustizia.
+
+E questa, dico, è la differenza naturale tra il retore e il sofista, ma a causa della loro stretta connessione, tendono a essere confusi insieme; né essi sanno che fare di se stessi, né gli altri uomini sanno che fare di loro. Poiché se il corpo presiedesse a se stesso, e non fosse sotto la guida dell'anima, e l'anima non discernesse e distinguesse tra la cucina e la medicina, ma il corpo fosse fatto giudice di esse, e la regola del giudizio fosse il diletto corporeo che esse danno, allora la parola di Anassagora, quella parola con cui tu, amico Polo, hai tanta familiarità, prevarrebbe in lungo e in largo: il «Caos» tornerebbe di nuovo, e la cucina, la salute, e la medicina si mescolerebbero in una massa indistinta. E ora ti ho detto la mia nozione di retorica, che è, in relazione all'anima, ciò che la cucina è per il corpo. Posso essere stato incoerente nel fare un lungo discorso, quando non ti permettevo di discorrere a lungo. Ma credo di poter essere scusato, perché tu non mi comprendevi, e non potevi fare alcun uso della mia risposta quando parlavo brevemente, e perciò ho dovuto entrare in una spiegazione. E se mostro un'uguale incapacità di fare uso della tua, spero che tu parlerai di uguale lunghezza; ma se sono in grado di comprenderti, fammi avere il beneficio della tua brevità, com'è solo giusto: E ora puoi fare ciò che ti piace con la mia risposta.
+
+POLO: Che cosa intendi? credi che la retorica sia adulazione?
+
+SOCRATE: Niente affatto, ho detto una parte dell'adulazione; se alla tua età, Polo, non riesci a ricordare, che farai più in là, quando sarai più vecchio?
+
+POLO: E i buoni retori sono tenuti in scarsa considerazione negli Stati, nell'idea che siano adulatori?
+
+SOCRATE: È questa una domanda o l'inizio di un discorso?
+
+POLO: Sto ponendo una domanda.
+
+SOCRATE: Allora la mia risposta è che non sono considerati affatto.
+
+POLO: Come non considerati? Non hanno forse grandissimo potere negli Stati?
+
+SOCRATE: Non se intendi dire che il potere è un bene per chi lo possiede.
+
+POLO: Ed è proprio questo che intendo dire.
+
+SOCRATE: Allora, se è così, credo che essi abbiano il minor potere di tutti i cittadini.
+
+POLO: Come! non sono come tiranni? Uccidono e spogliano ed esiliano chiunque a loro piaccia.
+
+SOCRATE: Per il cane, Polo, non riesco a capire a ogni tua pronuncia se tu stia dando un'opinione tua, o ponendo una domanda a me.
 
 <span class="atom-split" data-atom="007" data-title="Parte 7" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -772,6 +1360,170 @@ SOCRATES: Not if you mean by tyranny what I mean.
 
 POLUS: I mean, as I said before, the power of doing whatever seems good to you in a state, killing, banishing, doing in all things as you like.
 
+<span class="qlang-split" data-lang="it"></span>
+
+POLO: Sto ponendo una domanda a te.
+
+[SOCRATE](/figures/socrates): Sì, amico mio, ma tu poni due domande in una.
+
+POLO: Come, due domande?
+
+SOCRATE: Ebbene, non hai detto proprio ora che i retori sono come tiranni, e che uccidono e spogliano o esiliano chiunque a loro piaccia?
+
+POLO: L'ho detto.
+
+SOCRATE: Ebbene allora, ti dico che qui vi sono due domande in una, e risponderò a entrambe. E ti dico, Polo, che i retori e i tiranni hanno il minor potere possibile negli Stati, come dicevo proprio ora; poiché non fanno letteralmente nulla di ciò che vogliono, ma solo ciò che credono meglio.
+
+POLO: E non è questo un grande potere?
+
+SOCRATE: Polo ha già detto il contrario.
+
+POLO: Detto il contrario! ma no, è ciò che io affermo.
+
+SOCRATE: No, per il grande — come lo chiami? — non tu, poiché tu dici che il potere è un bene per colui che ha il potere.
+
+POLO: È vero.
+
+SOCRATE: E sosterresti che se uno sciocco fa ciò che crede meglio, questo è un bene, e chiameresti questo un grande potere?
+
+POLO: Non lo farei.
+
+SOCRATE: Allora devi provare che il retore non è uno sciocco, e che la retorica è un'arte e non un'adulazione — e così mi avrai confutato; ma se mi lasci non confutato, ebbene, i retori che fanno ciò che credono meglio negli Stati, e i tiranni, non avranno nulla di cui congratularsi con se stessi, se, come tu dici, il potere è davvero un bene, ammettendo al tempo stesso che ciò che è fatto senza senno è un male.
+
+POLO: Sì; lo ammetto.
+
+SOCRATE: Come possono allora i retori o i tiranni avere grande potere negli Stati, a meno che Polo non possa confutare Socrate, e provargli che essi fanno ciò che vogliono?
+
+POLO: Questo tale —
+
+SOCRATE: Dico che essi non fanno ciò che vogliono; — ora confutami.
+
+POLO: Ebbene, non hai già detto che essi fanno ciò che credono meglio?
+
+SOCRATE: E lo dico tuttora.
+
+POLO: Allora certamente fanno ciò che vogliono?
+
+SOCRATE: Lo nego.
+
+POLO: Ma fanno ciò che credono meglio?
+
+SOCRATE: Sì.
+
+POLO: Questo, Socrate, è mostruoso e assurdo.
+
+SOCRATE: Belle parole, buon Polo, come potrei dire nel tuo peculiare stile; ma se hai qualche domanda da pormi, o prova che sono in errore o dà tu stesso la risposta.
+
+POLO: Benissimo, sono disposto a rispondere per sapere che cosa intendi.
+
+SOCRATE: Gli uomini ti appaiono volere ciò che fanno, o volere quell'ulteriore fine in vista del quale fanno una cosa? quando prendono una medicina, per esempio, all'ordine di un medico, vogliono il bere la medicina che è doloroso, o la salute in vista della quale la bevono?
+
+POLO: Chiaramente, la salute.
+
+SOCRATE: E quando gli uomini intraprendono un viaggio per mare o si impegnano in un affare, non vogliono ciò che stanno facendo in quel momento; poiché chi desidererebbe correre il rischio di un viaggio per mare o il fastidio di un affare? — Ma vogliono avere la ricchezza in vista della quale intraprendono un viaggio per mare.
+
+POLO: Certamente.
+
+SOCRATE: E non è questo universalmente vero? Se un uomo fa qualcosa in vista di qualcos'altro, egli vuole non ciò che fa, ma [ciò in vista di cui](/concepts/four_causes) lo fa.
+
+POLO: Sì.
+
+SOCRATE: E non sono tutte le cose o buone o cattive, o intermedie e indifferenti?
+
+POLO: Di sicuro, Socrate.
+
+SOCRATE: La saggezza e la salute e la ricchezza e simili le chiameresti beni, e i loro opposti mali?
+
+POLO: Lo farei.
+
+SOCRATE: E le cose che non sono né buone né cattive, e che partecipano talvolta della natura del bene e altre volte del male, o di nessuno dei due, sono tali come lo star seduti, il camminare, il correre, il navigare; o, di nuovo, legno, pietre, e simili: — queste sono le cose che tu chiami né buone né cattive?
+
+POLO: Esattamente così.
+
+SOCRATE: Queste cose indifferenti sono fatte in vista del bene, o il bene in vista dell'indifferente?
+
+POLO: Chiaramente, l'indifferente in vista del bene.
+
+SOCRATE: Quando camminiamo, camminiamo in vista del bene, e nell'idea che sia meglio camminare, e quando stiamo fermi stiamo fermi ugualmente in vista del bene?
+
+POLO: Sì.
+
+SOCRATE: E quando uccidiamo un uomo lo uccidiamo o lo esiliamo o lo spogliamo dei suoi beni, perché, come pensiamo, contribuirà al nostro bene?
+
+POLO: Certamente.
+
+SOCRATE: Gli uomini che fanno una qualsiasi di queste cose le fanno in vista del bene?
+
+POLO: Sì.
+
+SOCRATE: E non abbiamo ammesso che nel fare qualcosa in vista di qualcos'altro, noi non vogliamo quelle cose che facciamo, ma quell'altra cosa in vista della quale le facciamo?
+
+POLO: Verissimo.
+
+SOCRATE: Allora noi non vogliamo semplicemente uccidere un uomo o esiliarlo o spogliarlo dei suoi beni, ma vogliamo fare ciò che contribuisce al nostro bene, e se l'atto non è conducente al nostro bene non lo vogliamo; poiché noi vogliamo, come dici tu, ciò che è il nostro bene, ma ciò che non è né buono né cattivo, o semplicemente cattivo, non lo vogliamo. Perché taci, Polo? Non ho ragione?
+
+POLO: Hai ragione.
+
+SOCRATE: Di qui possiamo inferire che se qualcuno, sia esso un tiranno o un retore, uccide un altro o esilia un altro o lo priva della sua proprietà, nell'idea che l'atto sia nel suo proprio interesse quando in realtà non è nel suo proprio interesse, si può dire che egli faccia ciò che gli sembra meglio?
+
+POLO: Sì.
+
+SOCRATE: Ma fa egli ciò che vuole se fa ciò che è male? Perché non rispondi?
+
+POLO: Ebbene, suppongo di no.
+
+SOCRATE: Allora se il grande potere è un bene come tu ammetti, avrà un tale uomo grande potere in uno Stato?
+
+POLO: Non l'avrà.
+
+SOCRATE: Allora avevo ragione nel dire che un uomo può fare ciò che gli sembra bene in uno Stato, e non avere grande potere, e non fare ciò che vuole?
+
+POLO: Come se tu, Socrate, non volessi avere il potere di fare ciò che ti sembra bene [nello Stato](/concepts/state), piuttosto che no; non saresti geloso quando vedessi qualcuno uccidere o spogliare o imprigionare chi gli piace, Oh, no!
+
+SOCRATE: Giustamente o ingiustamente, intendi?
+
+POLO: In entrambi i casi non è egualmente da invidiare?
+
+SOCRATE: Trattieniti, Polo!
+
+POLO: Perché «trattieniti»?
+
+SOCRATE: Perché non dovresti invidiare dei miserabili che non sono da invidiare, ma solo compiangerli.
+
+POLO: E sono forse dei miserabili quelli di cui ho parlato?
+
+SOCRATE: Sì, certamente lo sono.
+
+POLO: E così tu credi che colui che uccide chiunque gli piaccia, e giustamente lo uccide, sia compassionevole e miserabile?
+
+SOCRATE: No, non dico questo di lui: ma neppure penso che sia da invidiare.
+
+POLO: Non dicevi proprio ora che è miserabile?
+
+SOCRATE: Sì, amico mio, se ha ucciso un altro ingiustamente, nel qual caso è anche da compiangere; e non è da invidiare se l'ha ucciso giustamente.
+
+POLO: In ogni caso ammetterai che colui che è ingiustamente messo a morte è miserabile, e da compiangere?
+
+SOCRATE: Non tanto, Polo, quanto colui che lo uccide, e non tanto quanto colui che è giustamente ucciso.
+
+POLO: Come può essere, Socrate?
+
+SOCRATE: Può ben essere così, in quanto commettere ingiustizia è il più grande dei mali.
+
+POLO: Ma è il più grande? Non è subire ingiustizia un male maggiore?
+
+SOCRATE: Certamente no.
+
+POLO: Allora preferiresti subire piuttosto che commettere ingiustizia?
+
+SOCRATE: Non vorrei né l'uno né l'altro, ma se dovessi scegliere tra i due, preferirei subire piuttosto che commettere.
+
+POLO: Allora non vorresti essere un tiranno?
+
+SOCRATE: Non se intendi per tirannide ciò che intendo io.
+
+POLO: Intendo, come dissi prima, il potere di fare qualsiasi cosa ti sembri bene in uno Stato, uccidere, bandire, fare in tutto come ti piace.
+
 <span class="atom-split" data-atom="008" data-title="Parte 8" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Well then, illustrious friend, when I have said my say, do you reply to me. Suppose that I go into a crowded Agora, and take a dagger under my arm. Polus, I say to you, I have just acquired rare power, and become a tyrant; for if I think that any of these men whom you see ought to be put to death, the man whom I have a mind to kill is as good as dead; and if I am disposed to break his head or tear his garment, he will have his head broken or his garment torn in an instant. Such is my great power in this city. And if you do not believe me, and I show you the dagger, you would probably reply: Socrates, in that sort of way any one may have great power — he may burn any house which he pleases, and the docks and triremes of the Athenians, and all their other vessels, whether public or private — but can you believe that this mere doing as you think best is great power?
@@ -841,6 +1593,76 @@ POLUS: That he is wicked I cannot deny; for he had no title at all to the throne
 SOCRATES: I praised you at first, Polus, for being a rhetorician rather than a reasoner. And this, as I suppose, is the sort of argument with which you fancy that a child might refute me, and by which I stand refuted when I say that the unjust man is not happy. But, my good friend, where is the refutation? I cannot admit a word which you have been saying.
 
 POLUS: That is because you will not; for you surely must think as I do.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ebbene, illustre amico, quando avrò detto la mia, rispondimi tu. Supponi che io entri in un'Agorà affollata tenendo un pugnale sotto il braccio. Polo, ti dico, ho appena acquistato un potere raro e sono diventato un tiranno; poiché, se ritengo che qualcuno di questi uomini che vedi debba essere messo a morte, l'uomo che ho in animo di uccidere è come già morto; e se sono disposto a spaccargli la testa o a stracciargli la veste, in un istante avrà la testa spaccata o la veste stracciata. Tale è il mio grande potere in questa città. E se non mi credi, e ti mostro il pugnale, probabilmente risponderesti: Socrate, a quel modo chiunque può avere grande potere — può incendiare qualunque casa gli piaccia, e i cantieri e le triremi degli Ateniesi, e tutte le loro altre navi, pubbliche o private — ma puoi tu credere che questo semplice fare ciò che si crede meglio sia grande potere?
+
+POLO: Certamente non un fare di questo genere.
+
+SOCRATE: Ma sai dirmi perché disapprovi un tale potere?
+
+POLO: Lo so.
+
+SOCRATE: Perché, allora?
+
+POLO: Perché chi facesse come dici sarebbe di certo punito.
+
+SOCRATE: E la punizione è un male?
+
+POLO: Certamente.
+
+SOCRATE: E ammetteresti ancora una volta, mio buon signore, che il grande potere è un beneficio per un uomo se le sue azioni tornano a suo vantaggio, e che questo è il significato del grande potere; e se non è così, allora il suo potere è un male e non è affatto potere. Ma consideriamo la questione in un altro modo: — non riconosciamo forse che le cose di cui parlavamo, l'infliggere la morte, l'esilio e la privazione dei beni, sono talvolta un bene e talvolta non un bene?
+
+POLO: Certamente.
+
+SOCRATE: Su questo si può supporre che io e te siamo d'accordo?
+
+POLO: Sì.
+
+SOCRATE: Dimmi, dunque, quando affermi che sono un bene e quando che sono un male — quale principio stabilisci?
+
+POLO: Preferirei, Socrate, che tu rispondessi oltre che porre quella domanda.
+
+SOCRATE: Ebbene, Polo, poiché preferisci avere la risposta da me, dico che sono un bene quando sono giuste, e un male quando sono ingiuste.
+
+POLO: Sei duro a confutarsi, Socrate, ma non potrebbe forse un bambino confutare quell'affermazione?
+
+SOCRATE: Allora sarò molto grato al bambino, e ugualmente grato a te se mi confuterai e mi libererai dalla mia stoltezza. E spero proprio che mi confuterai, e non ti stancherai di fare del bene a un amico.
+
+POLO: Sì, Socrate, e non ho bisogno di andare lontano né di appellarmi all'antichità; fatti accaduti solo pochi giorni or sono bastano a confutarti, e a provare che molti uomini che commettono ingiustizia sono felici.
+
+SOCRATE: Quali fatti?
+
+POLO: Vedi bene, suppongo, che Archelao figlio di Perdicca è ora il signore della Macedonia?
+
+SOCRATE: A ogni modo, sento dire che lo è.
+
+POLO: E pensi che sia felice o infelice?
+
+SOCRATE: Non saprei dirlo, Polo, poiché non ho mai avuto alcuna conoscenza con lui.
+
+POLO: E non puoi dire subito, e senza averne conoscenza, se un uomo è felice?
+
+SOCRATE: Certamente no.
+
+POLO: Allora chiaramente, Socrate, diresti che non sai nemmeno se il gran re fosse un uomo felice?
+
+SOCRATE: E direi la verità; poiché non so come egli stia quanto a [educazione](/concepts/education) e giustizia.
+
+POLO: Come! e tutta la felicità consiste in questo?
+
+SOCRATE: Sì, davvero, Polo, questa è la mia dottrina; gli uomini e le donne che sono nobili e buoni sono anche felici, come sostengo, e gli ingiusti e i malvagi sono infelici.
+
+POLO: Allora, secondo la tua dottrina, il suddetto Archelao è infelice?
+
+SOCRATE: Sì, amico mio, se è malvagio.
+
+POLO: Che sia malvagio non posso negarlo; poiché non aveva alcun titolo al trono che ora occupa, essendo egli soltanto figlio di una donna che era schiava di Alceta, fratello di Perdicca; egli stesso quindi, a rigor di diritto, era schiavo di Alceta; e se avesse voluto agire rettamente sarebbe rimasto suo schiavo, e allora, secondo la tua dottrina, sarebbe stato felice. Ma ora è indicibilmente infelice, poiché si è reso colpevole dei più gravi delitti: anzitutto invitò suo zio e padrone, Alceta, a recarsi da lui, con il pretesto di restituirgli il trono che Perdicca aveva usurpato, e dopo aver ospitato lui e suo figlio Alessandro, che era suo cugino e quasi coetaneo, e averli ubriacati, li caricò su un carro e li portò via di notte, li uccise, e si sbarazzò di entrambi; e quando ebbe compiuto tutta questa scelleratezza mai si accorse di essere l'uomo più infelice di tutti, ed era ben lungi dal pentirsi: vuoi che ti dica come mostrò il suo rimorso? aveva un fratello minore, un bambino di sette anni, che era il figlio legittimo di Perdicca, e a lui di diritto apparteneva il regno; Archelao, tuttavia, non aveva alcuna intenzione di allevarlo come avrebbe dovuto e di restituirgli il regno; non era quella la sua idea di felicità; ma non molto tempo dopo lo gettò in un pozzo e lo annegò, e dichiarò a sua madre Cleopatra che vi era caduto mentre inseguiva un'oca, e vi aveva trovato la morte. E ora, essendo il più grande criminale di tutti i Macedoni, si può ben supporre che sia il più infelice e non il più felice fra loro, e oserei dire che vi sono molti Ateniesi, e tu saresti alla loro testa, che preferirebbero essere qualunque altro Macedone piuttosto che Archelao!
+
+SOCRATE: Ti ho lodato dapprima, Polo, per essere un retore piuttosto che un ragionatore. E questo, suppongo, è il genere di argomento con cui immagini che un bambino potrebbe confutarmi, e dal quale io risulterei confutato quando dico che l'uomo ingiusto non è felice. Ma, mio buon amico, dov'è la confutazione? Non posso ammettere una sola parola di ciò che hai detto.
+
+POLO: Questo perché non vuoi; poiché di certo devi pensarla come me.
 
 <span class="atom-split" data-atom="009" data-title="Parte 9" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -943,6 +1765,108 @@ POLUS: I think not.
 SOCRATES: And may not the same be said of the beauty of knowledge?
 
 POLUS: To be sure, Socrates; and I very much approve of your measuring beauty by the standard of pleasure and [utility](/positions/utility_pleasure).
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Non è così, mio ingenuo amico, ma perché mi confuterai alla maniera in cui i retori usano fare nei tribunali. Là infatti l'una parte crede di confutare l'altra quando adduce un gran numero di testimoni di buona fama a prova delle proprie asserzioni, mentre l'avversario ne ha uno solo o nessuno affatto. Ma questa specie di prova non ha alcun valore dove è la verità lo scopo; un uomo può spesso essere sopraffatto dallo spergiuro di una moltitudine di falsi testimoni che hanno una grande aria di rispettabilità. E in questo dibattito quasi ognuno, Ateniese e straniero del pari, starebbe dalla tua parte, se tu volessi addurre testimoni a smentita della mia affermazione; — potresti, se vorrai, chiamare Nicia figlio di Nicerato, e lascia che i suoi fratelli, che offrirono la fila di tripodi che stanno nel recinto sacro di Dioniso, vengano con lui; oppure potresti chiamare Aristocrate, figlio di Scellio, che è il donatore di quella famosa offerta che si trova a Delfi; chiama, se vorrai, l'intera casa di Pericle, o qualunque altra grande famiglia ateniese tu voglia; — tutti concorderanno con te: io solo resto solo e non posso concordare, poiché tu non mi convinci; benché tu produca molti falsi testimoni contro di me, nella speranza di privarmi della mia eredità, che è la verità. Ma io ritengo che nulla di degno di menzione sarà stato compiuto da me se non faccio di te l'unico testimone delle mie parole; né da te, se non fai di me l'unico testimone delle tue; nessuno importa del resto del mondo. Poiché vi sono due modi di confutazione: uno è il tuo e quello del mondo in generale; ma il mio è di altra specie — mettiamoli a confronto, e vediamo in che differiscono. Ché, in verità, siamo in disaccordo su questioni il conoscere le quali è onorevole e il non conoscerle vergognoso; conoscere o non conoscere la felicità e l'infelicità — questa è la principale fra esse. E quale conoscenza potrebbe essere più nobile? o quale ignoranza più vergognosa di questa? E perciò comincerò col chiederti se non ritieni che un uomo che è ingiusto e commette ingiustizia possa essere felice, giacché ritieni Archelao ingiusto e nondimeno felice? Posso ritenere che questa sia la tua opinione?
+
+POLO: Certamente.
+
+SOCRATE: Ma io dico che questo è impossibile — ecco un punto sul quale siamo in disaccordo: — benissimo. E intendi dire anche che, se egli va incontro a castigo e punizione, sarà ancora felice?
+
+POLO: Certamente no; in tal caso sarà infelicissimo.
+
+SOCRATE: D'altra parte, se l'ingiusto non è punito, allora, secondo te, sarà felice?
+
+POLO: Sì.
+
+SOCRATE: Ma a mio parere, Polo, l'ingiusto o l'autore di azioni ingiuste è infelice in ogni caso, — più infelice, tuttavia, se non è punito e non va incontro a castigo, e meno infelice se è punito e va incontro a castigo per mano di dèi e di uomini.
+
+POLO: Sostieni una strana dottrina, Socrate.
+
+SOCRATE: Cercherò di farti concordare con me, o amico mio, poiché come amico ti considero. Dunque questi sono i punti in questione tra noi — non è vero? Io dicevo che commettere ingiustizia è peggio che subirla?
+
+POLO: Proprio così.
+
+SOCRATE: E tu dicevi il contrario?
+
+POLO: Sì.
+
+SOCRATE: Io dicevo anche che i malvagi sono infelici, e tu mi confutasti?
+
+POLO: Per Zeus, sì.
+
+SOCRATE: Secondo la tua opinione, Polo.
+
+POLO: Sì, e sospetto piuttosto di essere stato nel giusto.
+
+SOCRATE: Dicevi inoltre che chi commette ingiustizia è felice se resta impunito?
+
+POLO: Certamente.
+
+SOCRATE: E io affermo che è infelicissimo, e che coloro che sono puniti sono meno infelici — hai intenzione di confutare anche questa proposizione?
+
+POLO: Una proposizione più ardua da confutare dell'altra, Socrate.
+
+SOCRATE: Di' piuttosto, Polo, impossibile; poiché chi può confutare la verità?
+
+POLO: Che vuoi dire? Se un uomo viene sorpreso in un ingiusto tentativo di farsi tiranno, e una volta sorpreso viene messo alla ruota, mutilato, gli si bruciano gli occhi, e dopo aver subìto ogni sorta di grandi torture, e aver visto la moglie e i figli patire il medesimo, è infine impalato o cosparso di pece e arso vivo, sarà egli più felice che se sfuggisse e diventasse tiranno, e continuasse per tutta la vita a fare ciò che gli piace tenendo le redini del governo, invidiato e ammirato tanto dai cittadini quanto dagli stranieri? È questo il paradosso che, come dici, non può essere confutato?
+
+SOCRATE: Ecco che di nuovo, nobile Polo, tu sollevi spauracchi invece di confutarmi; poco fa chiamavi testimoni contro di me. Ma ti prego di rinfrescarmi un poco la memoria; hai detto — «in un ingiusto tentativo di farsi tiranno»?
+
+POLO: Sì, l'ho detto.
+
+SOCRATE: Allora io dico che nessuno dei due sarà più felice dell'altro, — né chi ingiustamente conquista una tirannide, né chi patisce nel tentarlo, poiché di due infelici l'uno non può essere il più felice, ma colui che sfugge e diventa tiranno è il più infelice dei due. Ridi, Polo? Ebbene, questa è una nuova specie di confutazione, — quando qualcuno dice qualcosa, invece di confutarlo, riderne.
+
+POLO: Ma non pensi, Socrate, di essere stato sufficientemente confutato, quando affermi ciò che nessun essere umano ammetterà? Chiedi ai presenti.
+
+SOCRATE: O Polo, io non sono un uomo pubblico, e solo l'anno scorso, quando la mia tribù prestava servizio come Pritani, e toccò a me come loro presidente raccogliere i voti, si rise di me perché fui incapace di raccoglierli. E poiché fallii allora, non devi chiedermi di contare i suffragi dei presenti ora; ma se, come dicevo, non hai argomento migliore dei numeri, lascia che tocchi a me, e prova tu quel genere di prova che, a mio avviso, è richiesto; poiché io produrrò un solo testimone della verità delle mie parole, ed è la persona con cui sto discutendo; il suo suffragio io so come raccoglierlo; ma con i molti non ho nulla a che fare, e non mi rivolgo nemmeno a loro. Posso allora chiederti se risponderai a tua volta e sottoporrai le tue parole alla prova? Poiché io certamente ritengo che io e te e ogni uomo crediamo davvero che commettere ingiustizia sia un male maggiore che subirla: e non essere puniti maggiore che essere puniti.
+
+POLO: E io direi né io, né alcun uomo: tu stesso, per esempio, preferiresti subire piuttosto che commettere ingiustizia?
+
+SOCRATE: Sì, e anche tu; io o qualunque altro uomo lo preferirebbe.
+
+POLO: Tutt'altro; né tu, né io, né alcun uomo.
+
+SOCRATE: Ma vuoi rispondere?
+
+POLO: Certo che voglio; poiché sono curioso di sentire cosa mai puoi avere da dire.
+
+SOCRATE: Dimmi, dunque, e lo saprai, e supponiamo che io cominci dal principio: quale delle due cose, Polo, a tuo parere, è la peggiore? — commettere ingiustizia o subirla?
+
+POLO: Direi che subirla è la peggiore.
+
+SOCRATE: E quale è la maggiore vergogna? — Rispondi.
+
+POLO: Commetterla.
+
+SOCRATE: E la maggiore vergogna è il maggior male?
+
+POLO: Certamente no.
+
+SOCRATE: Ti intendo dire, se non mi sbaglio, che l'onorevole non è la stessa cosa del buono, né il vergognoso del male?
+
+POLO: Certamente no.
+
+SOCRATE: Lascia che ti ponga una domanda: quando parli di cose belle, come corpi, colori, figure, suoni, istituzioni, non le chiami belle in riferimento a qualche criterio: i corpi, per esempio, sono belli in proporzione a quanto sono utili, o a quanto la loro vista dà piacere agli spettatori; sai dare qualche altra spiegazione della [bellezza](/concepts/beauty) personale?
+
+POLO: Non saprei.
+
+SOCRATE: E diresti delle figure o dei colori in generale che sono belli, o per ragione del piacere che danno, o del loro uso, o di entrambi?
+
+POLO: Sì, lo direi.
+
+SOCRATE: E chiameresti belli i suoni e la musica per la stessa ragione?
+
+POLO: Lo direi.
+
+SOCRATE: Anche le leggi e le istituzioni non hanno in sé alcuna bellezza se non nella misura in cui sono utili o piacevoli o entrambe le cose?
+
+POLO: Penso di no.
+
+SOCRATE: E non si può dire lo stesso della bellezza della conoscenza?
+
+POLO: Di certo, Socrate; e approvo molto il tuo misurare la bellezza secondo il criterio del piacere e dell'[utilità](/positions/utility_pleasure).
 
 <span class="atom-split" data-atom="010" data-title="Parte 10" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1194,6 +2118,256 @@ SOCRATES: Money-making, medicine, and justice.
 
 POLUS: Justice, Socrates, far excels the two others.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E la deformità o la bruttezza si possono ugualmente misurare secondo il criterio opposto del dolore e del male?
+
+POLO: Certamente.
+
+SOCRATE: Allora, quando di due cose belle una eccede in [bellezza](/concepts/beauty), la misura dell'eccesso va colta in una di queste due cose o in entrambe; vale a dire, nel piacere o nell'[utilità](/positions/utility_pleasure) o in entrambi?
+
+POLO: Verissimo.
+
+SOCRATE: E di due cose deformi, quella che eccede in deformità o bruttezza, eccede o in dolore o in male — non deve essere così?
+
+POLO: Sì.
+
+SOCRATE: Ma allora di nuovo, qual era l'osservazione che facevi poc'anzi, a proposito del commettere e del subire ingiustizia? Non dicevi che subire ingiustizia era più malvagio, e commetterla più vergognoso?
+
+POLO: Lo dicevo.
+
+SOCRATE: Allora, se commettere ingiustizia è più vergognoso che subirla, ciò che è più vergognoso deve essere più doloroso e deve eccedere in dolore o in male o in entrambi: non ne segue forse anche questo?
+
+POLO: Naturalmente.
+
+SOCRATE: Anzitutto, dunque, consideriamo se il commettere ingiustizia ecceda il subirla nel dolore che ne consegue: soffrono di più coloro che infliggono l'offesa o coloro che la subiscono?
+
+POLO: No, Socrate; certamente no.
+
+SOCRATE: Allora non eccedono nel dolore?
+
+POLO: No.
+
+SOCRATE: Ma se non nel dolore, allora non in entrambi?
+
+POLO: Certamente no.
+
+SOCRATE: Allora possono eccedere soltanto nell'altro?
+
+POLO: Sì.
+
+SOCRATE: Vale a dire, nel male?
+
+POLO: Vero.
+
+SOCRATE: Allora il commettere ingiustizia avrà un eccesso di male, e sarà perciò un male maggiore che il subirla?
+
+POLO: Chiaramente.
+
+SOCRATE: Ma non abbiamo già convenuto, tu e il mondo, che commettere ingiustizia è più vergognoso che subirla?
+
+POLO: Sì.
+
+SOCRATE: E ora si è scoperto che è anche più malvagio?
+
+POLO: Vero.
+
+SOCRATE: E preferiresti un male maggiore o un disonore maggiore a uno minore? Rispondi, Polo, e non temere; poiché non ti verrà alcun danno se nobilmente ti abbandonerai alla mano risanatrice dell'argomento come a quella di un medico, senza tirarti indietro, e mi dirai «Sì» oppure «No».
+
+POLO: Direi «No».
+
+SOCRATE: Preferirebbe qualche altro uomo un male maggiore a uno minore?
+
+POLO: No, non stando al modo in cui poni la questione, Socrate.
+
+SOCRATE: Allora dicevo il vero, Polo, che né tu, né io, né alcun uomo preferirebbe commettere piuttosto che subire ingiustizia; poiché commettere ingiustizia è il maggiore dei due mali.
+
+POLO: Questa è la conclusione.
+
+SOCRATE: Vedi, Polo, quando confronti le due specie di confutazione, quanto sono dissimili. Tutti gli uomini, con l'eccezione di me stesso, la pensano come te; ma il tuo solo assenso e la tua sola testimonianza mi bastano, — non ho bisogno di alcun altro, prendo il tuo suffragio, e non curo il resto. Basta con questo, e ora procediamo alla prossima questione, che è: se il maggiore dei mali per un uomo colpevole sia subire la punizione, come tu supponevi, oppure se sfuggire alla punizione non sia un male maggiore, come io supponevo. Considera: — diresti che subire la punizione è un altro nome per l'essere giustamente corretti quando si commette un torto?
+
+POLO: Lo direi.
+
+SOCRATE: E non ammetteresti che tutte le cose giuste sono onorevoli nella misura in cui sono giuste? Rifletti, ti prego, e dimmi la tua opinione.
+
+POLO: Sì, Socrate, penso che lo siano.
+
+SOCRATE: Considera di nuovo: — dove c'è un agente, non deve esserci anche un paziente?
+
+POLO: Direi di sì.
+
+SOCRATE: E il paziente non subirà ciò che l'agente fa, e la sofferenza non avrà la qualità dell'azione? Intendo dire, per esempio, che se un uomo colpisce, ci deve essere qualcosa che è colpito?
+
+POLO: Sì.
+
+SOCRATE: E se chi colpisce colpisce violentemente o rapidamente, ciò che è colpito sarà colpito violentemente o rapidamente?
+
+POLO: Vero.
+
+SOCRATE: E la sofferenza di colui che è colpito è della stessa natura dell'atto di colui che colpisce?
+
+POLO: Sì.
+
+SOCRATE: E se un uomo brucia, c'è qualcosa che viene bruciato?
+
+POLO: Certamente.
+
+SOCRATE: E se brucia in eccesso o in modo da causare dolore, la cosa bruciata sarà bruciata nello stesso modo?
+
+POLO: Davvero.
+
+SOCRATE: E se taglia, vale lo stesso argomento — ci sarà qualcosa di tagliato?
+
+POLO: Sì.
+
+SOCRATE: E se il taglio è grande o profondo o tale da causare dolore, il taglio sarà della stessa natura?
+
+POLO: È evidente.
+
+SOCRATE: Allora converrai in generale con la proposizione universale che poc'anzi asserivo: che l'affezione del paziente corrisponde all'affezione dell'agente?
+
+POLO: Convengo.
+
+SOCRATE: Allora, poiché questo è ammesso, lascia che ti chieda se l'essere puniti sia un patire o un agire?
+
+POLO: Un patire, Socrate; non ci può essere dubbio su questo.
+
+SOCRATE: E il patire implica un agente?
+
+POLO: Certamente, Socrate; ed è colui che punisce.
+
+SOCRATE: E chi punisce rettamente, punisce giustamente?
+
+POLO: Sì.
+
+SOCRATE: E perciò agisce giustamente?
+
+POLO: Giustamente.
+
+SOCRATE: Allora chi è punito e subisce il castigo, subisce giustamente?
+
+POLO: È evidente.
+
+SOCRATE: E ciò che è giusto è stato ammesso essere onorevole?
+
+POLO: Certamente.
+
+SOCRATE: Allora chi punisce fa ciò che è onorevole, e chi è punito subisce ciò che è onorevole?
+
+POLO: Vero.
+
+SOCRATE: E se ciò che è onorevole, allora ciò che è buono, poiché l'onorevole è o piacevole o utile?
+
+POLO: Certamente.
+
+SOCRATE: Allora chi è punito subisce ciò che è buono?
+
+POLO: Questo è vero.
+
+SOCRATE: Allora ne trae beneficio?
+
+POLO: Sì.
+
+SOCRATE: Intendo io con la parola «beneficiato» ciò che intendi tu? Intendo dire che, se è giustamente punito, la sua anima ne è migliorata.
+
+POLO: Di sicuro.
+
+SOCRATE: Allora chi è punito è liberato dal male della sua anima?
+
+POLO: Sì.
+
+SOCRATE: E non è allora liberato dal più grande dei mali? Guarda la questione in questo modo: — quanto al patrimonio di un uomo, vedi tu male maggiore della povertà?
+
+POLO: Non c'è male maggiore.
+
+SOCRATE: E ancora, riguardo alla costituzione fisica di un uomo, diresti che il male è la debolezza, la malattia e la deformità?
+
+POLO: Lo direi.
+
+SOCRATE: E non immagini che anche l'anima abbia un suo proprio male?
+
+POLO: Naturalmente.
+
+SOCRATE: E questo lo chiameresti ingiustizia, ignoranza, viltà e simili?
+
+POLO: Certamente.
+
+SOCRATE: Così dunque, nella mente, nel corpo e nel patrimonio, che sono tre, hai indicato tre corrispondenti mali — ingiustizia, malattia, povertà?
+
+POLO: Vero.
+
+SOCRATE: E quale di questi mali è il più vergognoso? — Non è forse il più vergognoso di essi l'ingiustizia, e in generale il male dell'anima?
+
+POLO: Di gran lunga il più.
+
+SOCRATE: E se il più vergognoso, allora anche il peggiore?
+
+POLO: Che intendi dire, Socrate?
+
+SOCRATE: Intendo dire che ciò che è più vergognoso è già stato ammesso essere il più doloroso o il più dannoso, o entrambi.
+
+POLO: Certamente.
+
+SOCRATE: E ora l'ingiustizia e ogni male dell'anima è stato ammesso da noi essere il più vergognoso?
+
+POLO: È stato ammesso.
+
+SOCRATE: E il più vergognoso o perché il più doloroso e causa di dolore eccessivo, o perché il più dannoso, o entrambi?
+
+POLO: Certamente.
+
+SOCRATE: E perciò essere ingiusto e intemperante, e vile e ignorante, è più doloroso che essere povero e malato?
+
+POLO: No, Socrate; la dolorosità non mi sembra seguire dalle tue premesse.
+
+SOCRATE: Allora, se, come vorresti argomentare, non più doloroso, il male dell'anima è di tutti i mali il più vergognoso; e l'eccesso di vergogna deve essere causato da qualche preternaturale grandezza, o straordinaria dannosità del male.
+
+POLO: Chiaramente.
+
+SOCRATE: E ciò che eccede maggiormente in dannosità sarà il più grande dei mali?
+
+POLO: Sì.
+
+SOCRATE: Allora l'ingiustizia e l'intemperanza, e in generale la depravazione dell'anima, sono il più grande dei mali?
+
+POLO: È evidente.
+
+SOCRATE: Ora, quale arte c'è che ci libera dalla povertà? Non è forse l'arte di fare denaro?
+
+POLO: Sì.
+
+SOCRATE: E quale arte ci libera dalla malattia? Non è forse l'arte della medicina?
+
+POLO: Verissimo.
+
+SOCRATE: E quale dal vizio e dall'ingiustizia? Se non sai rispondere subito, chiediti dove andiamo con i malati, e a chi li portiamo.
+
+POLO: Dai medici, Socrate.
+
+SOCRATE: E da chi andiamo con gli ingiusti e gli intemperanti?
+
+POLO: Dai giudici, vuoi dire.
+
+SOCRATE: — I quali devono punirli?
+
+POLO: Sì.
+
+SOCRATE: E coloro che rettamente puniscono gli altri, non li puniscono secondo una certa regola di giustizia?
+
+POLO: Chiaramente.
+
+SOCRATE: Allora l'arte di fare denaro libera un uomo dalla povertà; la medicina dalla malattia; e la giustizia dall'intemperanza e dall'ingiustizia?
+
+POLO: È evidente.
+
+SOCRATE: Quale, dunque, è la migliore di queste tre?
+
+POLO: Vuoi enumerarle?
+
+SOCRATE: L'arte di fare denaro, la medicina e la giustizia.
+
+POLO: La giustizia, Socrate, supera di gran lunga le altre due.
+
 <span class="atom-split" data-atom="011" data-title="Parte 11" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And justice, if the best, gives the greatest pleasure or advantage or both?
@@ -1308,6 +2482,120 @@ CHAEREPHON: I should say, Callicles, that he is in most profound earnest; but yo
 
 CALLICLES: By the gods, and I will. Tell me, Socrates, are you in earnest, or only in jest? For if you are in earnest, and what you say is true, is not the whole of human life turned upside down; and are we not doing, as would appear, in everything the opposite of what we ought to be doing?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E la giustizia, se è la migliore, dà il maggior piacere o vantaggio o entrambi?
+
+POLO: Sì.
+
+SOCRATE: Ma l'essere guariti è cosa piacevole, e coloro che vengono guariti provano piacere?
+
+POLO: Penso di no.
+
+SOCRATE: Cosa utile, allora?
+
+POLO: Sì.
+
+SOCRATE: Sì, perché il paziente è liberato da un grande male; e questo è il vantaggio del sopportare il dolore — che guarisci?
+
+POLO: Certamente.
+
+SOCRATE: E sarebbe l'uomo più felice nella sua condizione fisica, colui che è guarito, o colui che non fu mai privo di salute?
+
+POLO: Chiaramente colui che non fu mai privo di salute.
+
+SOCRATE: Sì; poiché la felicità di certo non consiste nell'essere liberati dai mali, ma nel non averli mai avuti.
+
+POLO: Vero.
+
+SOCRATE: E supponi il caso di due persone che abbiano qualche male nel corpo, e che l'una di esse sia guarita e liberata dal male, e l'altra non sia guarita, ma conservi il male — quale delle due è la più infelice?
+
+POLO: Chiaramente colui che non è guarito.
+
+SOCRATE: E la punizione non fu detta da noi essere una liberazione dal più grande dei mali, che è il vizio?
+
+POLO: Vero.
+
+SOCRATE: E la giustizia ci punisce, e ci rende più giusti, ed è la medicina del nostro vizio?
+
+POLO: Vero.
+
+SOCRATE: Il primo posto, dunque, nella scala della felicità lo occupa colui che non ha mai avuto vizio nell'anima; poiché questo si è mostrato essere il più grande dei mali.
+
+POLO: Chiaramente.
+
+SOCRATE: E il secondo posto lo occupa colui che è liberato dal vizio?
+
+POLO: Vero.
+
+SOCRATE: Vale a dire, colui che riceve ammonimento, rimprovero e punizione?
+
+POLO: Sì.
+
+SOCRATE: Allora vive nel modo peggiore colui che, essendo stato ingiusto, non ha alcuna liberazione dall'ingiustizia?
+
+POLO: Certamente.
+
+SOCRATE: Cioè, vive nel modo peggiore colui che commette i più grandi delitti, e che, essendo il più ingiusto degli uomini, riesce a sfuggire al rimprovero, alla correzione o alla punizione; e questo, come tu dici, è stato compiuto da Archelao e da altri tiranni e retori e potenti? (Confronta la Repubblica.)
+
+POLO: Vero.
+
+SOCRATE: Non si può forse, amico mio, paragonare il loro modo di procedere alla condotta di chi è afflitto dalla peggiore delle malattie e tuttavia si adopera a non pagare al medico la pena per i suoi peccati contro la propria costituzione, e non vuole essere curato, perché, come un bambino, ha paura del dolore di essere bruciato o tagliato: — non è un caso analogo?
+
+POLO: Sì, davvero.
+
+SOCRATE: Sembrerebbe come se non conoscesse la natura della salute e del vigore fisico; e se abbiamo ragione, Polo, nelle nostre precedenti conclusioni, in un caso simile si trovano coloro che si sforzano di eludere la giustizia, che vedono essere dolorosa, ma sono ciechi al vantaggio che ne consegue, non sapendo quanto più infelice compagna sia un'anima malata di un corpo malato; un'anima, dico, che è corrotta e iniqua e empia. E perciò fanno tutto ciò che possono per evitare la punizione e per evitare di essere liberati dal più grande dei mali; si procurano denaro e amici, e coltivano al massimo grado la propria capacità di persuasione. Ma se noi, Polo, abbiamo ragione, vedi cosa ne consegue, o vogliamo trarne le conseguenze in forma esplicita?
+
+POLO: Come ti piace.
+
+SOCRATE: Non è un fatto che l'ingiustizia, e il commettere ingiustizia, è il più grande dei mali?
+
+POLO: Questo è del tutto chiaro.
+
+SOCRATE: E inoltre, che subire la punizione è il modo di essere liberati da questo male?
+
+POLO: Vero.
+
+SOCRATE: E il non subirla è perpetuare il male?
+
+POLO: Sì.
+
+SOCRATE: Commettere ingiustizia, dunque, viene solo secondo nella scala dei mali; ma commettere ingiustizia e non essere puniti è il primo e il più grande di tutti?
+
+POLO: Questo è vero.
+
+SOCRATE: Ebbene, e non era questo il punto in contesa, amico mio? Tu stimavi Archelao felice, perché era un grandissimo criminale e restava impunito: io, d'altra parte, sostenevo che lui o chiunque altro che come lui abbia commesso ingiustizia e non sia stato punito è, e deve essere, il più infelice di tutti gli uomini; e che l'autore dell'ingiustizia è più infelice di chi la subisce; e chi sfugge alla punizione, più infelice di chi la subisce. — Non era questo che dicevo?
+
+POLO: Sì.
+
+SOCRATE: E si è dimostrato essere vero?
+
+POLO: Certamente.
+
+SOCRATE: Ebbene, Polo, ma se questo è vero, dov'è la grande utilità della retorica? Se ammettiamo ciò che si è appena detto, ogni uomo dovrebbe in ogni modo guardarsi dal commettere il male, poiché ne subirebbe un grande male?
+
+POLO: Vero.
+
+SOCRATE: E se egli, o chiunque gli stia a cuore, commette il male, dovrebbe di sua spontanea volontà recarsi là dove sarà immediatamente punito; correrà dal giudice, come correrebbe dal medico, affinché la malattia dell'ingiustizia non diventi cronica e non diventi il cancro incurabile dell'anima; non dobbiamo forse ammettere questa conseguenza, Polo, se le nostre precedenti ammissioni devono reggere: — è coerente con esse qualche altra inferenza?
+
+POLO: A ciò, Socrate, non ci può essere che una sola risposta.
+
+SOCRATE: Allora la retorica non ci è di alcuna utilità, Polo, nell'aiutare un uomo a scusare la propria ingiustizia, quella dei suoi genitori o amici, o figli o patria; ma può essere utile a chiunque ritenga che, invece di scusare, dovrebbe accusare — sé stesso soprattutto, e in secondo luogo la sua famiglia o qualcuno dei suoi amici che possa commettere il male; egli dovrebbe portare alla luce l'iniquità e non nasconderla, affinché così chi ha fatto il male possa soffrire ed essere risanato; e dovrebbe anzi costringere sé stesso e gli altri a non tirarsi indietro, ma con gli occhi chiusi, come uomini valorosi, a lasciare che il medico operi con il coltello o con il ferro rovente, senza badare al dolore, nella speranza di conseguire il bene e l'onorevole; chi ha fatto cose degne di frustate, si lasci frustare, se di catene, si lasci incatenare, se di una multa, si lasci multare, se di esilio, si lasci esiliare, se di morte, muoia, essendo egli stesso il primo ad accusare sé stesso e i propri congiunti, e usando la retorica a questo fine, che le sue e le loro azioni ingiuste siano rese manifeste, e che essi stessi siano liberati dall'ingiustizia, che è il più grande dei mali. Allora, Polo, la retorica sarebbe davvero utile. Dici «Sì» oppure «No» a questo?
+
+POLO: A me, Socrate, ciò che dici appare molto strano, benché probabilmente in accordo con le tue premesse.
+
+SOCRATE: Non è questa la conclusione, se le premesse non sono confutate?
+
+POLO: Sì; lo è certamente.
+
+SOCRATE: E dal punto di vista opposto, se davvero è nostro dovere nuocere a un altro, sia esso nemico o no — eccettuo il caso della legittima difesa — allora devo stare in guardia — ma se il mio nemico offende una terza persona, allora in ogni modo, con la parola come con il fatto, dovrei cercare di impedire che sia punito, o che compaia davanti al giudice; e se compare, dovrei fare in modo che sfugga, e non subisca la punizione: se ha rubato una somma di denaro, che tenga ciò che ha rubato e lo spenda per sé e per i suoi, incurante di religione e giustizia; e se ha fatto cose degne di morte, che non muoia, ma sia piuttosto immortale nella sua malvagità; oppure, se questo non è possibile, che gli sia almeno concesso di vivere il più a lungo possibile. Per tali scopi, Polo, la retorica può essere utile, ma è di scarsa se non di nessuna utilità a chi non ha intenzione di commettere ingiustizia; almeno, nessuna simile utilità è stata scoperta da noi nella precedente discussione.
+
+CALLICLE: Dimmi, Cherefonte, Socrate parla sul serio, o scherza?
+
+CHEREFONTE: Direi, Callicle, che parla con la più profonda serietà; ma faresti bene a chiederlo a lui.
+
+CALLICLE: Per gli dèi, lo farò. Dimmi, Socrate, parli sul serio, o solo per scherzo? Poiché, se parli sul serio, e ciò che dici è vero, non è forse l'intera vita umana capovolta; e non stiamo forse facendo, a quanto pare, in ogni cosa il contrario di ciò che dovremmo fare?
+
 <span class="atom-split" data-atom="012" data-title="Parte 12" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): O Callicles, if there were not some community of feelings among mankind, however varying in different persons — I mean to say, if every man’s feelings were peculiar to himself and were not shared by the rest of his species — I do not see how we could ever communicate our impressions to one another. I make this remark because I perceive that you and I have a common feeling. For we are lovers both, and both of us have two loves apiece: — I am the lover of Alcibiades, the son of Cleinias, and of philosophy; and you of the Athenian Demus, and of Demus the son of Pyrilampes. Now, I observe that you, with all your cleverness, do not venture to contradict your favourite in any word or opinion of his; but as he changes you change, backwards and forwards. When the Athenian Demus denies anything that you are saying in the assembly, you go over to his opinion; and you do the same with Demus, the fair young son of Pyrilampes. For you have not the power to resist the words and ideas of your loves; and if a person were to express surprise at the strangeness of what you say from time to time when under their influence, you would probably reply to him, if you were honest, that you cannot help saying what your loves say unless they are prevented; and that you can only be silent when they are. Now you must understand that my words are an echo too, and therefore you need not wonder at me; but if you want to silence me, silence philosophy, who is my love, for she is always telling me what I am now telling you, my friend; neither is she capricious like my other love, for the son of Cleinias says one thing to-day and another thing to-morrow, but philosophy is always true. She is the teacher at whose words you are now wondering, and you have heard her yourself. Her you must refute, and either show, as I was saying, that to do injustice and to escape punishment is not the worst of all evils; or, if you leave her word unrefuted, by the dog the god of Egypt, I declare, O Callicles, that Callicles will never be at one with himself, but that his whole life will be a discord. And yet, my friend, I would rather that my lyre should be inharmonious, and that there should be no music in the chorus which I provided; aye, or that the whole world should be at odds with me, and oppose me, rather than that I myself should be at odds with myself, and contradict myself.
@@ -1319,6 +2607,18 @@ CALLICLES: O Socrates, you are a regular declaimer, and seem to be running riot 
 this, as he says,
 
 ‘Makes might to be right, doing violence with highest hand; as I infer from the deeds of Heracles, for without buying them—’ (Fragm. Incert. 151 (Bockh).) — I do not remember the exact words, but the meaning is, that without buying them, and without their being given to him, he carried off the oxen of Geryon, according to the law of [natural right](/positions/natural_right), and that the oxen and other possessions of the weaker and inferior properly belong to the stronger and superior. And this is true, as you may ascertain, if you will leave philosophy and go on to higher things: for philosophy, Socrates, if pursued in moderation and at the proper age, is an elegant accomplishment, but too much philosophy is the ruin of human life. Even if a man has good parts, still, if he carries philosophy into later life, he is necessarily ignorant of all those things which a gentleman and a person of honour ought to know; he is inexperienced in the laws of [the State](/concepts/state), and in the language which ought to be used in the dealings of man with man, whether private or public, and utterly ignorant of the pleasures and desires of mankind and of human character in general. And people of this sort, when they betake themselves to politics or business, are as ridiculous as I imagine the politicians to be, when they make their appearance in the arena of philosophy. For, as Euripides says,
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): O Callicle, se non vi fosse una qualche comunanza di sentimenti tra gli uomini, per quanto varia nelle diverse persone — voglio dire, se i sentimenti di ciascuno fossero peculiari a lui solo e non condivisi dal resto della sua specie — non vedo come potremmo mai comunicarci l'un l'altro le nostre impressioni. Faccio questa osservazione perché mi accorgo che io e te abbiamo un sentimento comune. Poiché entrambi siamo amanti, e ciascuno di noi ha due amori: — io sono l'amante di Alcibiade, figlio di Clinia, e della filosofia; e tu del Demo ateniese, e di Demo figlio di Pirilampe. Ora, osservo che tu, con tutta la tua abilità, non osi contraddire il tuo prediletto in alcuna sua parola od opinione; ma come egli muta, tu muti, avanti e indietro. Quando il Demo ateniese nega qualcosa che tu vai dicendo nell'assemblea, tu passi alla sua opinione; e fai lo stesso con Demo, il bel giovane figlio di Pirilampe. Poiché non hai il potere di resistere alle parole e alle idee dei tuoi amori; e se qualcuno esprimesse sorpresa per la stranezza di ciò che dici di volta in volta sotto la loro influenza, tu probabilmente gli risponderesti, se fossi onesto, che non puoi fare a meno di dire ciò che dicono i tuoi amori, a meno che non ne siano impediti; e che puoi tacere solo quando essi tacciono. Ora devi comprendere che anche le mie parole sono un'eco, e perciò non devi meravigliarti di me; ma se vuoi ridurmi al silenzio, riduci al silenzio la filosofia, che è il mio amore, poiché ella mi dice sempre ciò che ora dico a te, amico mio; né ella è capricciosa come l'altro mio amore, poiché il figlio di Clinia dice una cosa oggi e un'altra domani, ma la filosofia è sempre verace. Ella è la maestra alle cui parole ora ti meravigli, e tu stesso l'hai udita. Lei devi confutare, e o mostrare, come dicevo, che commettere ingiustizia e sfuggire alla punizione non è il peggiore di tutti i mali; oppure, se lasci la sua parola non confutata, per il cane, il dio dell'Egitto, io dichiaro, o Callicle, che Callicle non sarà mai in accordo con sé stesso, ma che la sua intera vita sarà una discordia. E tuttavia, amico mio, preferirei che la mia lira fosse disaccordata, e che non vi fosse musica nel coro che io allestii; sì, o che il mondo intero fosse in disaccordo con me, e mi si opponesse, piuttosto che io stesso fossi in disaccordo con me stesso, e contraddicessi me stesso.
+
+CALLICLE: O Socrate, sei un vero e proprio declamatore, e sembri scatenarti nell'argomentare. E ora declami in questo modo perché Polo è caduto egli stesso nello stesso errore di cui accusava Gorgia: — poiché egli disse che, quando Gorgia fu da te interrogato se, nel caso qualcuno venisse da lui volendo imparare la retorica ma non conoscendo la giustizia, gli avrebbe insegnato la giustizia, Gorgia nella sua modestia rispose che l'avrebbe fatto, perché pensava che gli uomini in generale sarebbero stati scontenti se avesse risposto «No»; e poi, in conseguenza di questa ammissione, Gorgia fu costretto a contraddirsi, essendo proprio questo il genere di cosa in cui tu ti diletti. Al che Polo rise di te meritatamente, come io penso; ma ora è caduto egli stesso nella stessa trappola. Non posso lodare granché il suo acume quando ti concesse che commettere è più disonorevole che subire ingiustizia, poiché fu questa l'ammissione che lo portò a essere irretito da te; e poiché era troppo modesto per dire ciò che pensava, gli fu chiusa la bocca. Ché la verità è, Socrate, che tu, che fingi di essere impegnato nella ricerca della verità, ti appelli ora alle nozioni popolari e volgari del giusto, che non sono naturali, ma solo convenzionali. Convenzione e natura sono generalmente in disaccordo l'una con l'altra: e quindi, se una persona è troppo modesta per dire ciò che pensa, è costretta a contraddirsi; e tu, con la tua astuzia scorgendo il vantaggio che se ne può trarre, chiedi subdolamente a chi argomenta secondo convenzione una questione che va determinata secondo la regola della natura; e se egli parla della regola della natura, tu scivoli via verso la [consuetudine](/concepts/custom): come, per esempio, hai fatto proprio in questa discussione sul commettere e subire ingiustizia. Quando Polo parlava del convenzionalmente disonorevole, tu lo assalisti dal punto di vista della natura; poiché secondo la regola della natura, subire ingiustizia è la maggiore vergogna perché il maggior male; ma convenzionalmente, commettere il male è più vergognoso. Poiché il subire ingiustizia non è cosa da uomo, ma da schiavo, il quale davvero farebbe meglio a morire che a vivere; giacché quando è offeso e calpestato, non è in grado di soccorrere sé stesso, né alcun altro che gli stia a cuore. La ragione, come io concepisco, è che i facitori delle leggi sono la maggioranza, che è debole; ed essi fanno le leggi e distribuiscono lodi e biasimi in vista di sé stessi e dei propri interessi; e atterriscono la sorta più forte di uomini, e coloro che sono capaci di prevalere su di loro, affinché non prevalgano su di loro; e dicono che la disonestà è vergognosa e ingiusta; intendendo, con la parola ingiustizia, il desiderio di un uomo di avere più dei suoi vicini; poiché, conoscendo la propria inferiorità, sospetto che siano fin troppo contenti dell'uguaglianza. E perciò lo sforzo di avere più dei molti è convenzionalmente detto vergognoso e ingiusto, ed è chiamato ingiustizia (cfr. Repubblica), mentre la natura stessa lascia intendere che è giusto che il migliore abbia più del peggiore, il più potente più del più debole; e in molti modi ella mostra, tra gli uomini come tra gli animali, e invero tra intere città e stirpi, che la giustizia consiste nel fatto che il superiore governi l'inferiore e abbia più di lui. Poiché in base a quale principio di giustizia Serse invase l'Ellade, o suo padre la Scizia? (per non parlare di innumerevoli altri esempi). No, ma questi sono gli uomini che agiscono secondo natura; sì, per il Cielo, e secondo la legge di natura: non, forse, secondo quella legge artificiale, che noi inventiamo e imponiamo ai nostri simili, dei quali prendiamo i migliori e i più forti fin dalla giovinezza, e li ammansiamo come giovani leoni, — incantandoli con il suono della voce, e dicendo loro che dell'uguaglianza si devono accontentare, e che l'uguale è l'onorevole e il giusto. Ma se vi fosse un uomo dotato di forza sufficiente, egli si scrollerebbe di dosso e spezzerebbe e sfuggirebbe a tutto questo; calpesterebbe tutte le nostre formule e i nostri incantesimi e sortilegi, e tutte le nostre leggi che sono contro natura: lo schiavo insorgerebbe in ribellione e diverrebbe signore su di noi, e la luce della giustizia naturale risplenderebbe. E questo io ritengo essere il pensiero di Pindaro, quando dice nel suo poema, che
+
+«La legge è re di tutti, dei mortali non meno che degli immortali;»
+
+questo, come egli dice,
+
+«Fa che la forza sia diritto, esercitando violenza con altissima mano; come deduco dalle imprese di Eracle, poiché senza comprarli—» (Fragm. Incert. 151 (Bockh).) — Non ricordo le parole esatte, ma il senso è che, senza comprarli, e senza che gli fossero dati, egli portò via i buoi di Gerione, secondo la legge del [diritto naturale](/positions/natural_right), e che i buoi e gli altri beni del più debole e inferiore appartengono propriamente al più forte e superiore. E questo è vero, come puoi accertare, se lascerai la filosofia e passerai a cose più alte: poiché la filosofia, Socrate, se coltivata con moderazione e all'età giusta, è un'elegante raffinatezza, ma troppa filosofia è la rovina della vita umana. Anche se un uomo ha buone doti, tuttavia, se porta la filosofia nell'età matura, è necessariamente ignorante di tutte quelle cose che un gentiluomo e una persona d'onore dovrebbe conoscere; è inesperto delle leggi dello [Stato](/concepts/state), e del linguaggio che si dovrebbe usare nei rapporti tra uomo e uomo, siano essi privati o pubblici, e del tutto ignaro dei piaceri e dei desideri degli uomini e del carattere umano in generale. E le persone di questa sorta, quando si dedicano alla politica o agli affari, sono tanto ridicole quanto immagino lo siano i politici, quando fanno la loro comparsa nell'arena della filosofia. Poiché, come dice Euripide,
 
 <span class="atom-split" data-atom="013" data-title="Parte 13" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1353,6 +2653,40 @@ CALLICLES: Why?
 SOCRATES: Because I am sure that if you agree with me in any of the opinions which my soul forms, I have at last found the truth indeed. For I consider that if a man is to make a complete trial of the good or evil of the soul, he ought to have three qualities — knowledge, good-will, outspokenness, which are all possessed by you. Many whom I meet are unable to make trial of me, because they are not wise as you are; others are wise, but they will not tell me the truth, because they have not the same interest in me which you have; and these two strangers, Gorgias and Polus, are undoubtedly wise men and my very good friends, but they are not outspoken enough, and they are too modest. Why, their modesty is so great that they are driven to contradict themselves, first one and then the other of them, in the face of a large company, on matters of the highest moment. But you have all the qualities in which these others are deficient, having received an excellent education; to this many Athenians can testify. And you are my friend. Shall I tell you why I think so? I know that you, Callicles, and Tisander of Aphidnae, and Andron the son of Androtion, and Nausicydes of the deme of Cholarges, studied together: there were four of you, and I once heard you advising with one another as to the extent to which the pursuit of philosophy should be carried, and, as I know, you came to the conclusion that the study should not be pushed too much into detail. You were cautioning one another not to be overwise; you were afraid that too much wisdom might unconsciously to yourselves be the ruin of you. And now when I hear you giving the same advice to me which you then gave to your most intimate friends, I have a sufficient evidence of your real good-will to me. And of the frankness of your nature and freedom from modesty I am assured by yourself, and the assurance is confirmed by your last speech. Well then, the inference in the present case clearly is, that if you agree with me in an argument about any point, that point will have been sufficiently tested by us, and will not require to be submitted to any further test. For you could not have agreed with me, either from lack of knowledge or from superfluity of modesty, nor yet from a desire to deceive me, for you are my friend, as you tell me yourself. And therefore when you and I are agreed, the result will be the attainment of perfect truth. Now there is no nobler enquiry, Callicles, than that which you censure me for making, — What ought the character of a man to be, and what his pursuits, and how far is he to go, both in maturer years and in youth? For be assured that if I err in my own conduct I do not err intentionally, but from ignorance. Do not then desist from advising me, now that you have begun, until I have learned clearly what this is which I am to practise, and how I may acquire it. And if you find me assenting to your words, and hereafter not doing that to which I assented, call me ‘dolt,’ and deem me unworthy of receiving further instruction. Once more, then, tell me what you and Pindar mean by natural justice: Do you not mean that the superior should take the property of the inferior by force; that the better should rule the worse, the noble have more than the mean? Am I not right in my recollection?
 
 CALLICLES: Yes; that is what I was saying, and so I still aver.
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Ogni uomo brilla in ciò e ciò persegue, e dedica la maggior parte del giorno a ciò in cui più eccelle,» (Antiope, fragm. 20 (Dindorf).)
+
+ma qualunque cosa in cui è inferiore, la evita e la sminuisce, e loda l'opposto per parzialità verso sé stesso, e perché pensa che così loderà sé stesso. Il vero principio è unire le due cose. La filosofia, come parte dell'[educazione](/concepts/education), è cosa eccellente, e non c'è disonore per un uomo, finché è giovane, nel dedicarsi a un tale studio; ma quando è più avanti negli anni, la cosa diventa ridicola, e provo verso i filosofi ciò che provo verso coloro che balbettano e imitano i bambini. Poiché amo vedere un bimbo piccolo, che non è in età di parlare chiaramente, balbettare nel suo gioco; c'è un'apparenza di grazia e di libertà nel suo modo di esprimersi, che è naturale ai suoi anni infantili. Ma quando sento una piccola creatura articolare accuratamente le parole, ne sono offeso; il suono è sgradevole, e ha per le mie orecchie il timbro della schiavitù. Così, quando sento un uomo balbettare, o lo vedo giocare come un bambino, il suo comportamento mi appare ridicolo e poco virile e degno di frustate. E provo lo stesso sentimento riguardo agli studiosi di filosofia; quando vedo un giovane così occupato, — lo studio mi appare consono al suo carattere, e conveniente a un uomo di educazione liberale, e chi trascura la filosofia lo considero un uomo inferiore, che non aspirerà mai a nulla di grande o di nobile. Ma se lo vedo continuare lo studio nell'età più matura, e non smettere, avrei voglia di bastonarlo, [Socrate](/figures/socrates); poiché, come dicevo, uno di costoro, anche se ha buone doti naturali, diventa effeminato. Fugge il centro affaccendato e la piazza del mercato, in cui, come dice il poeta, gli uomini si distinguono; si rintana in un angolo per il resto della vita, e parla sottovoce con tre o quattro giovani ammiratori, ma non parla mai apertamente come un uomo libero in modo soddisfacente. Ora io, Socrate, sono assai ben disposto verso di te, e il mio sentimento può essere paragonato a quello di Zeto verso Anfione, nel dramma di Euripide, che poc'anzi menzionavo: poiché sono disposto a dirti press'a poco ciò che Zeto disse a suo fratello, che tu, Socrate, sei incurante delle cose di cui dovresti curarti; e che tu
+
+«Che hai un'anima così nobile, ti segnali per un aspetto puerile; Né in un tribunale sapresti esporre una causa, o addurre alcuna ragione o prova, O offrire valoroso consiglio in favore di un altro.»
+
+E non devi offenderti, mio caro Socrate, poiché parlo per buona volontà verso di te, se ti chiedo se non ti vergogni di essere così indifeso; il che affermo essere la condizione non di te soltanto ma di tutti coloro che spingeranno troppo oltre lo studio della filosofia. Poiché supponi che qualcuno trascinasse te, o qualcuno della tua sorta, in prigione, dichiarando che avevi fatto il male quando non avevi fatto alcun male, devi ammettere che non sapresti cosa fare: — te ne staresti là stordito e a bocca aperta, senza avere una parola da dire; e quando comparissi davanti alla Corte, anche se l'accusatore fosse una povera creatura e da poco, moriresti se fosse disposto a reclamare la pena di morte. E tuttavia, Socrate, qual è il valore di
+
+     «Un'arte che converte un uomo di senno in uno sciocco,»
+
+che è impotente, e non ha alcun potere di salvare né sé stesso né altri, quando si trova nel più grande pericolo e sta per essere spogliato dai suoi nemici di tutti i suoi beni, e deve vivere, semplicemente privato dei suoi diritti di cittadinanza? — essendo egli un uomo che, se posso usare l'espressione, può essere schiaffeggiato impunemente. Allora, mio buon amico, dai retta al mio consiglio, e non confutare più:
+
+«Impara la filosofia degli affari, e acquista la reputazione di saggezza. Ma lascia ad altri queste sottigliezze,»
+
+siano esse da descrivere come follie o assurdità:
+
+«Poiché esse non faranno che Darti la povertà come inquilina della tua dimora.»
+
+Cessa, dunque, di emulare questi meschini spaccatori di parole, ed emula soltanto l'uomo di sostanza e d'onore, che è agiato.
+
+SOCRATE: Se la mia anima, Callicle, fosse fatta d'oro, non gioirei forse di scoprire una di quelle pietre con cui si saggia l'oro, e la migliore possibile alla quale poter portare la mia anima; e se la pietra e io concordassimo nell'approvare la sua educazione, allora saprei di essere in uno stato soddisfacente, e che nessun altro saggio mi era necessario.
+
+CALLICLE: Che vuoi dire, Socrate?
+
+SOCRATE: Te lo dirò; penso di aver trovato in te la pietra di paragone desiderata.
+
+CALLICLE: Perché?
+
+SOCRATE: Perché sono certo che, se concordi con me in qualcuna delle opinioni che la mia anima si forma, avrò finalmente trovato davvero la verità. Poiché ritengo che, se un uomo deve fare una prova completa del bene o del male dell'anima, deve avere tre qualità — conoscenza, benevolenza, franchezza, che tutte tu possiedi. Molti che incontro sono incapaci di mettermi alla prova, perché non sono saggi come lo sei tu; altri sono saggi, ma non mi diranno la verità, perché non hanno per me lo stesso interesse che hai tu; e questi due stranieri, Gorgia e Polo, sono senza dubbio uomini saggi e miei ottimi amici, ma non sono abbastanza franchi, e sono troppo modesti. Anzi, la loro modestia è così grande che sono spinti a contraddirsi, prima l'uno e poi l'altro, al cospetto di una numerosa compagnia, su questioni della massima importanza. Ma tu hai tutte le qualità di cui questi altri difettano, avendo ricevuto un'eccellente educazione; a questo molti Ateniesi possono testimoniare. E sei mio amico. Vuoi che ti dica perché lo penso? So che tu, Callicle, e Tisandro di Afidna, e Androne figlio di Androzione, e Nausicide del demo di Colarge, studiaste insieme: eravate quattro, e una volta vi sentii consigliarvi a vicenda su fino a che punto dovesse essere spinta la ricerca filosofica, e, come so, giungeste alla conclusione che lo studio non dovesse essere portato troppo nei dettagli. Vi ammonivate a vicenda a non essere troppo saggi; temevate che troppa saggezza potesse, senza che ve ne accorgeste, essere la vostra rovina. E ora, quando ti sento dare a me lo stesso consiglio che allora davi ai tuoi amici più intimi, ho una prova sufficiente della tua reale benevolenza verso di me. E della franchezza della tua natura e della tua libertà dalla modestia mi assicura tu stesso, e l'assicurazione è confermata dal tuo ultimo discorso. Ebbene, l'inferenza nel caso presente è chiaramente questa: che se concordi con me in un argomento su un qualunque punto, quel punto sarà stato sufficientemente saggiato da noi, e non richiederà di essere sottoposto ad alcun'altra prova. Poiché tu non avresti potuto concordare con me, né per mancanza di conoscenza né per soverchia modestia, e nemmeno per desiderio di ingannarmi, poiché sei mio amico, come tu stesso mi dici. E perciò, quando tu e io siamo d'accordo, il risultato sarà il conseguimento della perfetta verità. Ora non c'è indagine più nobile, Callicle, di quella per cui mi biasimi, — quale debba essere il carattere di un uomo, e quali le sue occupazioni, e fin dove debba spingersi, tanto nell'età più matura quanto nella giovinezza? Poiché sii certo che, se erro nella mia condotta, non erro intenzionalmente, ma per ignoranza. Non desistere dunque dal consigliarmi, ora che hai cominciato, finché non avrò appreso chiaramente che cosa sia questo che devo praticare, e come possa acquisirlo. E se mi trovi assentire alle tue parole, e in seguito non fare ciò a cui ho assentito, chiamami «zuccone», e giudicami indegno di ricevere ulteriore insegnamento. Ancora una volta, dunque, dimmi che cosa intendi tu, e con te Pindaro, per giustizia naturale: non intendi forse che il superiore debba prendere con la forza la proprietà dell'inferiore; che il migliore debba governare il peggiore, e il nobile avere più del gretto? Non ricordo bene?
+
+CALLICLE: Sì; è ciò che dicevo, e così ancora affermo.
 
 <span class="atom-split" data-atom="014" data-title="Parte 14" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1448,6 +2782,100 @@ SOCRATES: But whether rulers or subjects will they or will they not have more th
 
 CALLICLES: What do you mean?
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E intendi per migliore la stessa cosa che superiore? poiché non riuscivo a capire ciò che dicevi allora — se intendessi per superiore il più forte, e che il più debole deve obbedire al più forte, come sembravi lasciar intendere quando dicevi che le grandi città assalgono le piccole in conformità al [diritto naturale](/positions/natural_right), perché sono superiori e più forti, come se il superiore e il più forte e il migliore fossero la stessa cosa; oppure se il migliore possa essere anche l'inferiore e il più debole, e il superiore il peggiore, o se migliore debba essere definito nello stesso modo di superiore: — questo è il punto che voglio chiarire. Sono il superiore e il migliore e il più forte la stessa cosa o diversi?
+
+CALLICLE: Dico inequivocabilmente che sono la stessa cosa.
+
+SOCRATE: Allora i molti sono per natura superiori all'uno, contro il quale, come dicevi, essi fanno le leggi?
+
+CALLICLE: Certamente.
+
+SOCRATE: Allora le leggi dei molti sono le leggi del superiore?
+
+CALLICLE: Verissimo.
+
+SOCRATE: Allora sono le leggi del migliore; poiché la classe superiore è di gran lunga migliore, come dicevi?
+
+CALLICLE: Sì.
+
+SOCRATE: E poiché sono superiori, le leggi che essi fanno sono per natura buone?
+
+CALLICLE: Sì.
+
+SOCRATE: E i molti non sono forse dell'opinione, come dicevi poc'anzi, che la giustizia è uguaglianza, e che commettere è più vergognoso che subire ingiustizia? — è così o no? Rispondi, Callicle, e non lasciare che alcuna modestia si frapponga; i molti pensano, o non pensano così? — Devo pregarti di rispondere, affinché, se concordi con me, io possa fortificarmi con l'assenso di un'autorità tanto competente.
+
+CALLICLE: Sì; l'opinione dei molti è quella che dici.
+
+SOCRATE: Allora non solo la [consuetudine](/concepts/custom) ma anche la natura afferma che commettere è più vergognoso che subire ingiustizia, e che la giustizia è uguaglianza; sicché sembri esserti sbagliato nella tua precedente asserzione, quando, accusandomi, dicevi che natura e consuetudine sono opposte, e che io, sapendolo, giocavo disonestamente tra le due, appellandomi alla consuetudine quando l'argomento riguarda la natura, e alla natura quando l'argomento riguarda la consuetudine?
+
+CALLICLE: Quest'uomo non cesserà mai di dire sciocchezze. Alla tua età, Socrate, non ti vergogni di aggrapparti alle parole e di sghignazzare su qualche lapsus verbale? non vedi — non ti ho già detto, che per superiore intendo migliore: mi immagini forse dire che, se un'accozzaglia di schiavi e di gente senza qualità, che non serve a nulla se non forse per la forza fisica, si mette insieme, le sue ipsissima verba sono leggi?
+
+SOCRATE: Oh! mio filosofo, è questa la tua posizione?
+
+CALLICLE: Certamente.
+
+SOCRATE: Pensavo, Callicle, che qualcosa del genere dovesse esserti in mente, ed è per questo che ho ripetuto la domanda, — Chi è il superiore? Volevo sapere chiaramente cosa intendessi; poiché di certo non pensi che due uomini siano migliori di uno, o che i tuoi schiavi siano migliori di te perché sono più forti? Allora ricomincia, ti prego, e dimmi chi sono i migliori, se non sono i più forti; e ti chiederò, egregio Signore, di essere un po' più mite nei tuoi insegnamenti, altrimenti dovrò fuggire da te.
+
+CALLICLE: Sei ironico.
+
+SOCRATE: No, per l'eroe Zeto, Callicle, con il cui aiuto poc'anzi dicevi molte cose ironiche contro di me, non lo sono: — dimmi, dunque, chi intendi per migliore?
+
+CALLICLE: Intendo il più eccellente.
+
+SOCRATE: Non vedi che tu stesso usi parole che non hanno significato e che non spieghi nulla? — vuoi dirmi se per migliore e superiore intendi il più saggio, o se no, chi?
+
+CALLICLE: Con la massima certezza, intendo il più saggio.
+
+SOCRATE: Allora, secondo te, un uomo saggio può spesso essere superiore a diecimila stolti, ed egli dovrebbe governarli, ed essi dovrebbero essere suoi sudditi, ed egli dovrebbe avere più di quanto dovrebbero avere loro. Questo è ciò che credo tu intenda (e non devi supporre che io stia cavillando sulle parole), se ammetti che l'uno è superiore ai diecimila?
+
+CALLICLE: Sì; è ciò che intendo, ed è ciò che concepisco come giustizia naturale — che il migliore e più saggio debba governare e avere più dell'inferiore.
+
+SOCRATE: Fermati qui, e lascia che ti chieda cosa diresti in questo caso: supponiamo di essere tutti insieme come ora; siamo parecchi, e abbiamo una grande riserva comune di cibi e di bevande, e nella nostra compagnia vi sono persone di ogni sorta con vari gradi di forza e di debolezza, e uno di noi, essendo medico, è più saggio in materia di cibo di tutti gli altri, ed è probabilmente più forte di alcuni e non tanto forte quanto altri di noi — non sarà egli, essendo più saggio, anche migliore di noi, e nostro superiore in questa materia del cibo?
+
+CALLICLE: Certamente.
+
+SOCRATE: O, dunque, avrà una porzione maggiore dei cibi e delle bevande, perché è migliore, oppure avrà la distribuzione di tutti in ragione della sua autorità, ma non spenderà né consumerà una porzione maggiore di essi per la propria persona, o se lo fa, sarà punito; — la sua porzione eccederà quella di alcuni, e sarà minore di quella di altri, e se egli fosse il più debole di tutti, essendo il migliore di tutti avrà la porzione più piccola di tutti, Callicle: — non ho ragione, amico mio?
+
+CALLICLE: Tu parli di cibi e di bevande e di medici e di altre sciocchezze; io non parlo di questo.
+
+SOCRATE: Ebbene, ma ammetti che il più saggio è il migliore? Rispondi «Sì» oppure «No».
+
+CALLICLE: Sì.
+
+SOCRATE: E non dovrebbe il migliore avere una porzione maggiore?
+
+CALLICLE: Non di cibi e di bevande.
+
+SOCRATE: Capisco: allora, forse, di mantelli — il tessitore più abile dovrebbe avere il mantello più grande, e il maggior numero di essi, e andare in giro vestito del migliore e più fine tra loro?
+
+CALLICLE: Che sciocchezze, i mantelli!
+
+SOCRATE: Allora il più abile e il migliore nel fare scarpe dovrebbe avere il vantaggio nelle scarpe; il calzolaio, chiaramente, dovrebbe andare in giro con le scarpe più grandi, e averne il maggior numero?
+
+CALLICLE: Che sciocchezze, le scarpe! Che assurdità vai dicendo?
+
+SOCRATE: Oppure, se non è questo che intendi, forse diresti che il saggio e buono e vero contadino dovrebbe in realtà avere una porzione maggiore di sementi, e avere quanta più semente possibile per la propria terra?
+
+CALLICLE: Come vai avanti, sempre parlando allo stesso modo, Socrate!
+
+SOCRATE: Sì, Callicle, e anche delle stesse cose.
+
+CALLICLE: Sì, per gli dèi, parli letteralmente sempre di ciabattini e follatori e cuochi e medici, come se questo avesse a che fare con il nostro argomento.
+
+SOCRATE: Ma perché non vuoi dirmi in che cosa un uomo debba essere superiore e più saggio per reclamare una porzione maggiore; non vuoi né accettare un suggerimento, né offrirne uno?
+
+CALLICLE: Te l'ho già detto. In primo luogo, per superiori non intendo ciabattini o cuochi, ma saggi uomini politici che comprendono l'amministrazione di uno Stato, e che non sono solo saggi, ma anche valorosi e capaci di attuare i loro disegni, e non uomini da venir meno per mancanza d'animo.
+
+SOCRATE: Vedi ora, ottimo Callicle, quanto diversa sia la mia accusa contro di te da quella che tu porti contro di me, poiché mi rimproveri di dire sempre le stesse cose; ma io ti rimprovero di non dire mai le stesse cose sulle stesse cose, poiché una volta definivi il migliore e il superiore come il più forte, poi di nuovo come il più saggio, e ora avanzi una nuova nozione; il superiore e il migliore sono ora da te dichiarati essere il più coraggioso: vorrei, mio buon amico, che tu mi dicessi, una volta per tutte, chi affermi essere il migliore e superiore, e in che cosa sono migliori?
+
+CALLICLE: Ti ho già detto che intendo coloro che sono saggi e coraggiosi nell'amministrazione di uno Stato — essi dovrebbero essere i governanti dei loro Stati, e la giustizia consiste nel loro avere più dei loro sudditi.
+
+SOCRATE: Ma, siano governanti o sudditi, avranno o non avranno più di sé stessi, amico mio?
+
+CALLICLE: Che vuoi dire?
+
 <span class="atom-split" data-atom="015" data-title="Parte 15" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I mean that every man is his own ruler; but perhaps you think that there is no necessity for him to rule himself; he is only required to rule others?
@@ -1509,6 +2937,68 @@ CALLICLES: To be sure.
 SOCRATES: But what if the itching is not confined to the head? Shall I pursue the question? And here, Callicles, I would have you consider how you would reply if consequences are pressed upon you, especially if in the last resort you are asked, whether the life of a catamite is not terrible, foul, miserable? Or would you venture to say, that they too are happy, if they only get enough of what they want?
 
 CALLICLES: Are you not ashamed, Socrates, of introducing such topics into the argument?
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Intendo che ogni uomo è signore di se stesso; ma forse tu pensi che non vi sia alcuna necessità che egli governi se stesso, e che gli si richieda soltanto di governare gli altri?
+
+CALLICLE: Che cosa intendi con quel suo «governare se stesso»?
+
+SOCRATE: Una cosa assai semplice; proprio ciò che comunemente si dice, che un uomo debba essere temperante e padrone di sé, e signore dei propri piaceri e delle proprie passioni.
+
+CALLICLE: Che ingenuità! Intendi quegli sciocchi, — i temperanti?
+
+SOCRATE: Certamente: — chiunque può capire che questo è ciò che intendo.
+
+CALLICLE: Proprio così, Socrate; e sono davvero sciocchi, giacché come può essere felice un uomo che è schiavo di qualcosa? Al contrario, io affermo apertamente che chi voglia vivere veramente deve lasciare che i suoi desideri crescano al massimo grado, e non reprimerli; ma quando essi siano giunti alla loro massima grandezza egli deve avere il coraggio e l'intelligenza di assecondarli e di soddisfare tutte le sue brame. E questo io affermo essere la giustizia e la nobiltà secondo natura. A ciò tuttavia i più non sanno pervenire; ed essi biasimano l'uomo forte perché si vergognano della propria debolezza, che desiderano nascondere, e perciò dicono che l'intemperanza è cosa turpe. Come ho già osservato, essi rendono schiave le nature più nobili, e non essendo capaci di soddisfare i propri piaceri, lodano la temperanza e la giustizia per la propria viltà. Poiché se un uomo fosse stato originariamente figlio di re, o avesse una natura capace di conquistare un impero o una tirannide o la [sovranità](/positions/sovereignty), che cosa potrebbe esservi di più veramente vile o malvagio della temperanza — per un uomo simile, dico, che potrebbe liberamente godere di ogni bene, e non ha nessuno che gli si opponga, e tuttavia ha ammesso che la [consuetudine](/concepts/custom) e la ragione e l'opinione degli altri uomini siano suoi signori? — non dev'egli trovarsi in una misera condizione, colui che la reputazione di giustizia e di temperanza impedisce di dare più agli amici che ai nemici, per quanto egli sia signore nella sua città? No, Socrate, giacché tu professi di essere devoto alla verità, e la verità è questa: — che il lusso e l'intemperanza e la licenza, se sono provvisti di mezzi, sono virtù e felicità — tutto il resto non è che un mero orpello, patti contrari alla natura, chiacchiere insensate di uomini, cose che nulla valgono. (Cfr. la Repubblica.)
+
+SOCRATE: C'è una nobile franchezza, Callicle, nel tuo modo di affrontare l'argomento; poiché ciò che dici è quel che il resto del mondo pensa, ma non ama dire. E devo pregarti di perseverare, affinché la vera regola della vita umana si manifesti. Dimmi dunque: — tu dici, non è vero, che nell'uomo rettamente sviluppato le passioni non debbono essere frenate, ma che dovremmo lasciarle crescere al massimo e in un modo o nell'altro soddisfarle, e che questa è la virtù?
+
+CALLICLE: Sì, lo dico.
+
+SOCRATE: Allora coloro che di nulla mancano non si dicono veramente felici?
+
+CALLICLE: No davvero, giacché allora le pietre e i morti sarebbero i più felici di tutti.
+
+SOCRATE: Ma certo la vita, secondo il tuo modo di vedere, è cosa terribile; e in verità penso che Euripide possa aver avuto ragione dicendo,
+
+‘Chi sa se la vita non sia morte e la morte vita;’
+
+e che noi siamo assai probabilmente morti; ho udito un filosofo dire che in questo stesso momento noi siamo realmente morti, e che il corpo (soma) è la nostra tomba (sema (cfr. il Fedro)), e che la parte dell'anima che è sede dei desideri è soggetta a essere sballottata dalle parole e gonfiata su e giù; e una persona ingegnosa, probabilmente un Siciliano o un Italico, giocando con la parola, inventò un racconto in cui chiamò l'anima — a causa della sua natura credula e facile a lasciarsi persuadere — un vaso (Un gioco di parole intraducibile, — dia to pithanon te kai pistikon onomase pithon.), e gli ignoranti li chiamò i non iniziati o gli scoli, e il luogo nelle anime dei non iniziati in cui hanno sede i desideri, essendo la parte intemperante e incontinente, lo paragonò a un vaso pieno di fori, poiché non può mai essere riempito. Egli non la pensa come te, Callicle, giacché dichiara che, di tutte le anime nell'Ade, cioè nel mondo invisibile (aeides), questi non iniziati o scoli sono i più miseri, e che essi versano acqua in un vaso pieno di fori servendosi di un colabrodo del pari forato. Il colabrodo, come mi assicura il mio informatore, è l'anima, e l'anima che egli paragona a un colabrodo è l'anima dell'ignorante, la quale è del pari piena di fori, e perciò incontinente, a causa di una cattiva memoria e della mancanza di fede. Queste nozioni sono abbastanza strane, ma mostrano il principio che, se posso, vorrei provarti; che tu dovresti mutar parere, e, invece della vita intemperante e insaziabile, scegliere quella che è ordinata e sufficiente e provvede debitamente ai bisogni quotidiani. Faccio su di te qualche impressione, e stai venendo all'opinione che gli ordinati siano più felici degli intemperanti? Oppure non riesco a persuaderti e, per quanti racconti io ti ripeta, tu continui a essere della stessa opinione?
+
+CALLICLE: Quest'ultima, Socrate, è più vicina al vero.
+
+SOCRATE: Bene, ti dirò un'altra immagine, che proviene dalla stessa scuola: — Lascia che ti chieda di considerare fino a che punto accetteresti questo come resoconto delle due vite del temperante e dell'intemperante in figura: — Vi sono due uomini, entrambi con un certo numero di botti; l'uno ha le sue botti sane e piene, una di vino, un'altra di miele, e una terza di latte, oltre ad altre riempite di altri liquidi, e i rivi che le riempiono sono pochi e scarsi, ed egli può procurarseli soltanto con gran fatica e difficoltà; ma una volta che le sue botti siano piene, non ha più bisogno di alimentarle, e non ne ha più cura né pensiero. L'altro, allo stesso modo, può procurarsi dei rivi, benché non senza difficoltà; ma i suoi vasi sono forati e guasti, e notte e giorno è costretto a riempirli, e se si arresta anche per un solo istante, è in preda a un'agonia di dolore. Tali sono le loro rispettive vite: — E ora diresti tu che la vita dell'intemperante è più felice di quella del temperante? Non ti convinco che è vero il contrario?
+
+CALLICLE: Non mi convinci, Socrate, poiché colui che si è riempito non ha più alcun piacere; e questa, come dicevo poco fa, è la vita di una pietra: egli non prova né gioia né dolore una volta che si è riempito; ma il piacere dipende dalla sovrabbondanza dell'afflusso.
+
+SOCRATE: Ma quanto più versi, tanto maggiore è lo spreco; e i fori devono essere grandi perché il liquido possa sfuggire.
+
+CALLICLE: Certamente.
+
+SOCRATE: La vita che ora vai descrivendo non è quella di un morto, o di una pietra, ma di un cormorano; vuoi dire che egli deve aver fame e mangiare?
+
+CALLICLE: Sì.
+
+SOCRATE: E che deve aver sete e bere?
+
+CALLICLE: Sì, questo è ciò che intendo; egli deve avere intorno a sé tutti i suoi desideri, ed essere in grado di vivere felicemente nel loro appagamento.
+
+SOCRATE: Ottimo, eccellente; prosegui come hai cominciato, e non aver vergogna; anch'io devo liberarmi della vergogna: e anzitutto, vuoi dirmi se includi il prurito e il grattarsi, purché tu ne abbia a sufficienza e passi la vita a grattarti, nella tua nozione di felicità?
+
+CALLICLE: Che strano essere sei, Socrate! un vero e proprio demagogo.
+
+SOCRATE: Questa fu la ragione, Callicle, per cui ho spaventato Polo e Gorgia, finché divennero troppo pudichi per dire ciò che pensavano; ma tu non sarai troppo pudico e non ti lascerai spaventare, giacché sei un uomo coraggioso. E ora rispondi alla mia domanda.
+
+CALLICLE: Rispondo che anche colui che si gratta vivrebbe piacevolmente.
+
+SOCRATE: E se piacevolmente, allora anche felicemente?
+
+CALLICLE: Di certo.
+
+SOCRATE: Ma che dire se il prurito non è limitato al capo? Devo proseguire nella domanda? E qui, Callicle, vorrei che tu considerassi come risponderesti se le conseguenze ti fossero incalzate addosso, specialmente se, in ultima istanza, ti si chiedesse se la vita di un cinedo non sia terribile, turpe, miserabile? Oppure oseresti dire che anch'essi sono felici, purché ottengano abbastanza di ciò che vogliono?
+
+CALLICLE: Non ti vergogni, Socrate, di introdurre simili argomenti nella discussione?
 
 <span class="atom-split" data-atom="016" data-title="Parte 16" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -1730,6 +3220,226 @@ SOCRATES: And the foolish; so it would seem?
 
 CALLICLES: Yes.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ebbene, mio caro amico, sono io a introdurre questi argomenti, oppure colui che afferma senza alcuna riserva che tutti coloro che provano piacere in qualunque modo sono felici, e che non ammette alcuna distinzione tra piaceri buoni e cattivi? E vorrei ancora chiederti se dici che il piacere e il bene sono la stessa cosa, oppure se vi è qualche piacere che non è un bene?
+
+CALLICLE: Ebbene, allora, per coerenza, dirò che sono la stessa cosa.
+
+SOCRATE: Stai infrangendo il patto iniziale, Callicle, e non sarai più un compagno soddisfacente nella ricerca della verità, se dici ciò che è contrario alla tua vera opinione.
+
+CALLICLE: Ma è proprio ciò che fai anche tu, Socrate.
+
+SOCRATE: Allora sbagliamo entrambi. Eppure, mio caro amico, vorrei che tu considerassi se il piacere, da qualunque fonte derivi, sia il bene; giacché, se questo è vero, allora le spiacevoli conseguenze che sono state oscuramente adombrate devono seguirne, e molte altre.
+
+CALLICLE: Questa, Socrate, è soltanto la tua opinione.
+
+SOCRATE: E tu, Callicle, sostieni seriamente ciò che stai dicendo?
+
+CALLICLE: Sì, davvero.
+
+SOCRATE: Allora, poiché parli sul serio, procediamo con l'argomento?
+
+CALLICLE: Con ogni mezzo. (Oppure, ‘Parlo con profonda serietà.’)
+
+SOCRATE: Bene, se sei disposto a procedere, risolvimi questa questione: — Vi è qualcosa, presumo, che tu chiameresti conoscenza?
+
+CALLICLE: C'è.
+
+SOCRATE: E non dicevi poc'anzi che un certo coraggio implicava conoscenza?
+
+CALLICLE: Sì.
+
+SOCRATE: E parlavi del coraggio e della conoscenza come di due cose differenti l'una dall'altra?
+
+CALLICLE: Certamente.
+
+SOCRATE: E diresti che il piacere e la conoscenza sono la stessa cosa, o non la stessa cosa?
+
+CALLICLE: Non la stessa cosa, o uomo di sapienza.
+
+SOCRATE: E diresti che il coraggio differisce dal piacere?
+
+CALLICLE: Certamente.
+
+SOCRATE: Bene, allora, ricordiamo che Callicle, l'Acarnese, dice che il piacere e il bene sono la stessa cosa; ma che la conoscenza e il coraggio non sono la stessa cosa, né l'uno con l'altro, né con il bene.
+
+CALLICLE: E che cosa dice il nostro amico Socrate, di Foxton, — vi acconsente, oppure no?
+
+SOCRATE: Non vi acconsente; né vi acconsentirà Callicle, quando vedrà se stesso nella verità. Ammetterai, suppongo, che la buona e la cattiva sorte sono opposte l'una all'altra?
+
+CALLICLE: Sì.
+
+SOCRATE: E se sono opposte l'una all'altra, allora, come la salute e la malattia, si escludono a vicenda; un uomo non può averle entrambe, né esserne privo di entrambe, nello stesso tempo?
+
+CALLICLE: Che cosa intendi?
+
+SOCRATE: Prendi il caso di una qualsiasi affezione corporea: — un uomo può avere quel male agli occhi che si chiama oftalmia?
+
+CALLICLE: Di sicuro.
+
+SOCRATE: Ma certo non può avere gli stessi occhi sani e in salute nello stesso tempo?
+
+CALLICLE: Certamente no.
+
+SOCRATE: E quando si è liberato della sua oftalmia, si è forse liberato anche della salute dei suoi occhi? Il risultato finale è forse che si libera di entrambe insieme?
+
+CALLICLE: Certamente no.
+
+SOCRATE: Ciò sarebbe di sicuro meraviglioso e assurdo?
+
+CALLICLE: Moltissimo.
+
+SOCRATE: Suppongo che ne sia affetto, e se ne liberi a turno?
+
+CALLICLE: Sì.
+
+SOCRATE: E può avere forza e debolezza allo stesso modo, a intervalli?
+
+CALLICLE: Sì.
+
+SOCRATE: O rapidità e lentezza?
+
+CALLICLE: Certamente.
+
+SOCRATE: E ha e non ha il bene e la felicità, e i loro opposti, il male e la miseria, in una simile alternanza? (Cfr. la Repubblica.)
+
+CALLICLE: Certamente li ha.
+
+SOCRATE: Se dunque vi è qualcosa che un uomo ha e non ha nello stesso tempo, chiaramente ciò non può essere bene e male — siamo d'accordo? Ti prego di non rispondere senza riflettere.
+
+CALLICLE: Sono pienamente d'accordo.
+
+SOCRATE: Torna ora alle nostre precedenti ammissioni. — Dicevi che aver fame, intendo il mero stato di fame, era piacevole o doloroso?
+
+CALLICLE: Ho detto doloroso, ma che mangiare quando si ha fame è piacevole.
+
+SOCRATE: Lo so; ma la fame in sé è pur sempre dolorosa: non ho ragione?
+
+CALLICLE: Sì.
+
+SOCRATE: E anche la sete è dolorosa?
+
+CALLICLE: Sì, moltissimo.
+
+SOCRATE: Devo addurre altri esempi, o converrai che tutte le mancanze o i desideri sono dolorosi?
+
+CALLICLE: Convengo, e perciò non hai bisogno di addurre altri esempi.
+
+SOCRATE: Benissimo. E ammetteresti che bere, quando si ha sete, è piacevole?
+
+CALLICLE: Sì.
+
+SOCRATE: E nella frase che hai appena pronunciato, la parola ‘assetato’ implica dolore?
+
+CALLICLE: Sì.
+
+SOCRATE: E la parola ‘bere’ è espressione di piacere, e del soddisfacimento della mancanza?
+
+CALLICLE: Sì.
+
+SOCRATE: C'è piacere nel bere?
+
+CALLICLE: Certamente.
+
+SOCRATE: Quando hai sete?
+
+SOCRATE: E nel dolore?
+
+CALLICLE: Sì.
+
+SOCRATE: Vedi l'inferenza: — che il piacere e il dolore sono simultanei, quando dici che, avendo sete, bevi? Poiché non sono forse simultanei, e non affettano forse nello stesso tempo la stessa parte, sia dell'anima sia del corpo? — quale delle due sia affetta non si può supporre abbia alcuna importanza: non è forse vero?
+
+CALLICLE: È vero.
+
+SOCRATE: Dicevi anche che nessun uomo può avere buona e cattiva sorte nello stesso tempo?
+
+CALLICLE: Sì, l'ho detto.
+
+SOCRATE: Ma hai ammesso che, essendo nel dolore, un uomo potrebbe anche avere piacere?
+
+CALLICLE: Chiaramente.
+
+SOCRATE: Allora il piacere non è la stessa cosa della buona sorte, né il dolore la stessa cosa della cattiva sorte, e perciò il bene non è la stessa cosa del piacevole?
+
+CALLICLE: Vorrei sapere, Socrate, che cosa significhino i tuoi cavilli.
+
+SOCRATE: Lo sai, Callicle, ma fingi di non saperlo.
+
+CALLICLE: Ebbene, prosegui, e non continuare a farti beffe: allora saprai che gran saccente sei nel tuo ammonirmi.
+
+SOCRATE: Un uomo non cessa forse dalla sua sete e dal suo piacere nel bere nello stesso tempo?
+
+CALLICLE: Non capisco ciò che dici.
+
+GORGIA: Suvvia, Callicle, rispondi, non foss'altro per amor nostro; — vorremmo udire l'argomento fino alla fine.
+
+CALLICLE: Sì, Gorgia, ma devo lamentarmi delle abituali sciocchezze di Socrate; egli discute sempre di questioni piccole e indegne.
+
+GORGIA: Che importa? La tua reputazione, Callicle, non è in gioco. Lascia che Socrate argomenti a modo suo.
+
+CALLICLE: Ebbene, allora, Socrate, porrai tu queste piccole e meschine domande, poiché Gorgia desidera averle.
+
+SOCRATE: Ti invidio, Callicle, per essere stato iniziato ai grandi misteri prima di essere iniziato ai minori. Pensavo che ciò non fosse consentito. Ma per tornare al nostro argomento: — Un uomo non cessa forse dall'aver sete e dal piacere di bere nel medesimo istante?
+
+CALLICLE: È vero.
+
+SOCRATE: E se ha fame, o ha qualche altro desiderio, non cessa forse dal desiderio e dal piacere nel medesimo istante?
+
+CALLICLE: Verissimo.
+
+SOCRATE: Allora cessa dal dolore e dal piacere nel medesimo istante?
+
+CALLICLE: Sì.
+
+SOCRATE: Ma non cessa dal bene e dal male nel medesimo istante, come hai ammesso: aderisci ancora a ciò che hai detto?
+
+CALLICLE: Sì, vi aderisco; ma qual è l'inferenza?
+
+SOCRATE: Ebbene, amico mio, l'inferenza è che il bene non è la stessa cosa del piacevole, né il male la stessa cosa del doloroso; vi è una cessazione del piacere e del dolore nel medesimo istante; ma non del bene e del male, poiché essi sono differenti. Come dunque può il piacere essere la stessa cosa del bene, o il dolore la stessa cosa del male? E vorrei che tu guardassi la questione sotto un'altra luce, che difficilmente, credo, può essere stata da te considerata quando li hai identificati: Non sono forse i buoni buoni perché hanno il bene presente in loro, come i belli sono coloro che hanno la [bellezza](/concepts/beauty) presente in loro?
+
+CALLICLE: Sì.
+
+SOCRATE: E chiami buoni gli sciocchi e i codardi? Poiché dicevi poc'anzi che i coraggiosi e i saggi sono i buoni — non lo diresti?
+
+CALLICLE: Certamente.
+
+SOCRATE: E non hai mai visto un fanciullo sciocco che si rallegra?
+
+CALLICLE: Sì, l'ho visto.
+
+SOCRATE: E anche un uomo sciocco?
+
+CALLICLE: Sì, certamente; ma dove vuoi arrivare?
+
+SOCRATE: A nulla di particolare, se solo vorrai rispondere.
+
+CALLICLE: Sì, l'ho visto.
+
+SOCRATE: E hai mai visto un uomo assennato rallegrarsi o affliggersi?
+
+CALLICLE: Sì.
+
+SOCRATE: Chi si rallegra e si affligge di più — i saggi o gli sciocchi?
+
+CALLICLE: Sono all'incirca alla pari, credo, sotto questo aspetto.
+
+SOCRATE: Basta così: E hai mai visto un codardo in battaglia?
+
+CALLICLE: Di sicuro.
+
+SOCRATE: E chi si rallegrava di più alla partenza del nemico, il codardo o il coraggioso?
+
+CALLICLE: Direi ‘di più’ entrambi; o in ogni caso, si rallegravano all'incirca ugualmente.
+
+SOCRATE: Non importa; allora i codardi, e non solo i coraggiosi, si rallegrano?
+
+CALLICLE: Grandemente.
+
+SOCRATE: E gli sciocchi; così parrebbe?
+
+CALLICLE: Sì.
+
 <span class="atom-split" data-atom="017" data-title="Parte 17" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And are only the cowards pained at the approach of their enemies, or are the brave also pained?
@@ -1864,6 +3574,140 @@ SOCRATES: Then I will explain myself more clearly: seeing that you and I have ag
 
 CALLICLES: I do.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E soltanto i codardi provano dolore all'avvicinarsi dei loro nemici, oppure ne provano anche i coraggiosi?
+
+CALLICLE: Entrambi ne provano.
+
+SOCRATE: E ne provano ugualmente?
+
+CALLICLE: Immaginerei che i codardi ne provino di più.
+
+SOCRATE: E non sono forse più contenti alla partenza del nemico?
+
+CALLICLE: Oserei dirlo.
+
+SOCRATE: Allora gli sciocchi e i saggi e i codardi e i coraggiosi provano tutti piacere e dolore, come dicevi, in grado pressoché uguale; ma i codardi provano più piacere e più dolore dei coraggiosi?
+
+CALLICLE: Sì.
+
+SOCRATE: Ma di certo i saggi e i coraggiosi sono i buoni, e gli sciocchi e i codardi sono i cattivi?
+
+CALLICLE: Sì.
+
+SOCRATE: Allora i buoni e i cattivi provano piacere e dolore in grado pressoché uguale?
+
+CALLICLE: Sì.
+
+SOCRATE: Allora i buoni e i cattivi sono buoni e cattivi in grado pressoché uguale, oppure i cattivi hanno il vantaggio sia nel bene sia nel male? (cioè nell'avere più piacere e più dolore.)
+
+CALLICLE: Davvero non so che cosa intendi.
+
+SOCRATE: Ebbene, non ricordi di aver detto che i buoni erano buoni perché il bene era presente in loro, e i cattivi perché lo era il male; e che i piaceri erano beni e i dolori mali?
+
+CALLICLE: Sì, ricordo.
+
+SOCRATE: E questi piaceri o beni non sono forse presenti in coloro che si rallegrano — se davvero si rallegrano?
+
+CALLICLE: Certamente.
+
+SOCRATE: Allora coloro che si rallegrano sono buoni quando i beni sono presenti in loro?
+
+CALLICLE: Sì.
+
+SOCRATE: E coloro che sono nel dolore hanno il male o la sofferenza presenti in loro?
+
+CALLICLE: Sì.
+
+SOCRATE: E diresti ancora che i cattivi sono cattivi in ragione della presenza del male?
+
+CALLICLE: Lo direi.
+
+SOCRATE: Allora coloro che si rallegrano sono buoni, e coloro che sono nel dolore cattivi?
+
+CALLICLE: Sì.
+
+SOCRATE: I gradi del bene e del male variano con i gradi del piacere e del dolore?
+
+CALLICLE: Sì.
+
+SOCRATE: Il saggio e lo sciocco, il coraggioso e il codardo, hanno gioia e dolore in gradi pressoché uguali? oppure diresti che il codardo ne ha di più?
+
+CALLICLE: Direi che ne ha di più.
+
+SOCRATE: Aiutami dunque a trarre la conclusione che segue dalle nostre ammissioni; poiché è bene ripetere e riesaminare ciò che è buono due e tre volte, come si suol dire. Sia il saggio sia il coraggioso li ammettiamo essere buoni?
+
+CALLICLE: Sì.
+
+SOCRATE: E lo sciocco e il codardo essere cattivi?
+
+CALLICLE: Certamente.
+
+SOCRATE: E colui che ha gioia è buono?
+
+CALLICLE: Sì.
+
+SOCRATE: E colui che è nel dolore è cattivo?
+
+CALLICLE: Certamente.
+
+SOCRATE: I buoni e i cattivi hanno entrambi gioia e dolore, ma, forse, i cattivi ne hanno di più?
+
+CALLICLE: Sì.
+
+SOCRATE: Allora non dobbiamo forse inferire che l'uomo cattivo è tanto buono e cattivo quanto il buono, o, forse, persino migliore? — non è questa un'ulteriore inferenza che segue del pari dalla precedente dall'affermazione che il bene e il piacevole sono la stessa cosa: — si può negare ciò, Callicle?
+
+CALLICLE: Ti ho ascoltato e ti ho fatto delle ammissioni, Socrate; e osservo che se una persona ti concede qualcosa per gioco, tu, come un fanciullo, vuoi tenertelo stretto e non lo restituisci. Ma supponi davvero che io o qualsiasi altro essere umano neghi che alcuni piaceri sono buoni e altri cattivi?
+
+SOCRATE: Ahimè, Callicle, come sei ingiusto! di certo mi tratti come se fossi un fanciullo, ora dicendo una cosa, ora un'altra, come se intendessi ingannarmi. Eppure dapprima pensavo che tu fossi mio amico, e che non mi avresti ingannato se avessi potuto evitarlo. Ma vedo che mi sbagliavo; e ora suppongo di dover fare il meglio di un cattivo affare, come dicevano gli antichi, e prendere da te ciò che posso. — Ebbene, allora, come intendo che tu dica, posso assumere che alcuni piaceri sono buoni e altri cattivi?
+
+CALLICLE: Sì.
+
+SOCRATE: I benefici sono buoni, e i dannosi sono cattivi?
+
+CALLICLE: Di sicuro.
+
+SOCRATE: E i benefici sono quelli che fanno qualche bene, e i dannosi quelli che fanno qualche male?
+
+CALLICLE: Sì.
+
+SOCRATE: Prendi, per esempio, i piaceri corporei del mangiare e del bere, che poc'anzi menzionavamo — vuoi dire che quelli che promuovono la salute, o qualche altra eccellenza corporea, sono buoni, e i loro opposti cattivi?
+
+CALLICLE: Certamente.
+
+SOCRATE: E allo stesso modo vi sono dolori buoni e vi sono dolori cattivi?
+
+CALLICLE: Di sicuro.
+
+SOCRATE: E non dobbiamo forse scegliere e usare i piaceri e i dolori buoni?
+
+CALLICLE: Certamente.
+
+SOCRATE: Ma non i cattivi?
+
+CALLICLE: Chiaramente.
+
+SOCRATE: Poiché, se ricordi, Polo e io abbiamo convenuto che tutte le nostre azioni sono da compiersi in vista del bene; — e converrai con noi nel dire che il bene è il fine di tutte le nostre azioni, e che tutte le nostre azioni sono da compiersi in vista del bene, e non il bene in vista di esse? — aggiungerai un terzo voto ai nostri due?
+
+CALLICLE: Lo aggiungerò.
+
+SOCRATE: Allora il piacere, come ogni altra cosa, è da ricercarsi in vista di ciò che è bene, e non ciò che è bene in vista del piacere?
+
+CALLICLE: Di sicuro.
+
+SOCRATE: Ma può ogni uomo scegliere quali piaceri siano buoni e quali cattivi, oppure deve averne arte o conoscenza nel dettaglio?
+
+CALLICLE: Deve averne arte.
+
+SOCRATE: Lascia che ora ti ricordi ciò che dicevo a Gorgia e Polo; dicevo, come non avrai dimenticato, che vi erano alcuni processi che mirano soltanto al piacere, e nulla sanno di un meglio e di un peggio, e vi sono altri processi che conoscono il bene e il male. E consideravo che la cucina, che io non chiamo arte, ma soltanto pratica, apparteneva alla prima classe, quella che ha a che fare con il piacere, e che l'arte della medicina apparteneva alla classe che ha a che fare con il bene. E ora, per il dio dell'[amicizia](/concepts/friendship), devo pregarti, Callicle, di non scherzare, né di immaginare che io stia scherzando con te; non rispondere a caso e contrariamente alla tua vera opinione — poiché osserverai che stiamo discutendo del modo della vita umana; e per un uomo che abbia un po' di senno, quale questione può essere più seria di questa? — se egli debba seguire quel modo di vita al quale tu mi esorti, e recitare quella che tu chiami la parte virile del parlare nell'assemblea, e coltivare la retorica, e impegnarsi negli affari pubblici, secondo i princìpi ora in voga; oppure se egli debba perseguire la vita della filosofia; — e in che cosa quest'ultima via differisca dalla prima. Ma forse faremmo meglio a distinguerle dapprima, come feci prima, e quando saremo giunti a convenire che sono distinte, potremo procedere a considerare in che cosa differiscano l'una dall'altra, e quale di esse dovremmo scegliere. Forse, tuttavia, tu non capisci nemmeno ora ciò che intendo?
+
+CALLICLE: No, non lo capisco.
+
+SOCRATE: Allora mi spiegherò più chiaramente: poiché tu e io abbiamo convenuto che vi è una cosa quale il bene, e che vi è una cosa quale il piacere, e che il piacere non è la stessa cosa del bene, e che la ricerca e il processo di acquisizione dell'uno, cioè del piacere, è differente dalla ricerca e dal processo di acquisizione dell'altro, che è il bene — vorrei che tu mi dicessi se convieni con me fin qui o no — convieni?
+
+CALLICLE: Convengo.
+
 <span class="atom-split" data-atom="018" data-title="Parte 18" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Then I will proceed, and ask whether you also agree with me, and whether you think that I spoke the truth when I further said to Gorgias and Polus that cookery in my opinion is only an experience, and not an art at all; and that whereas medicine is an art, and attends to the nature and constitution of the patient, and has principles of action and reason in each case, cookery in attending upon pleasure never regards either the nature or reason of that pleasure to which she devotes herself, but goes straight to her end, nor ever considers or calculates anything, but works by experience and routine, and just preserves the recollection of what she has usually done when producing pleasure. And first, I would have you consider whether I have proved what I was saying, and then whether there are not other similar processes which have to do with the soul — some of them processes of art, making a provision for the soul’s highest interest — others despising the interest, and, as in the previous case, considering only the pleasure of the soul, and how this may be acquired, but not considering what pleasures are good or bad, and having no other aim but to afford gratification, whether good or bad. In my opinion, Callicles, there are such processes, and this is the sort of thing which I term flattery, whether concerned with the body or the soul, or whenever employed with a view to pleasure and without any consideration of good and evil. And now I wish that you would tell me whether you agree with us in this notion, or whether you differ.
@@ -1964,6 +3808,106 @@ CALLICLES: I suppose that you mean health and strength?
 
 SOCRATES: Yes, I do; and what is the name which you would give to the effect of harmony and order in the soul? Try and discover a name for this as well as for the other.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Allora procederò, e chiederò se anche tu convieni con me, e se pensi che io abbia detto il vero quando dicevo inoltre a Gorgia e Polo che la cucina, a mio parere, è soltanto una pratica, e non un'arte affatto; e che, mentre la medicina è un'arte, e attende alla natura e alla costituzione del paziente, e ha princìpi d'azione e di ragione in ciascun caso, la cucina, nell'attendere al piacere, non riguarda mai né la natura né la ragione di quel piacere al quale si dedica, ma va diritta al suo fine, né mai considera o calcola alcunché, ma opera per pratica e per abitudine, e si limita a conservare il ricordo di ciò che ha solitamente fatto nel produrre piacere. E anzitutto, vorrei che tu considerassi se ho provato ciò che dicevo, e poi se non vi siano altri processi simili che hanno a che fare con l'anima — alcuni di essi processi d'arte, che provvedono all'interesse più alto dell'anima — altri che disprezzano tale interesse e, come nel caso precedente, considerano soltanto il piacere dell'anima, e come esso possa essere acquisito, ma non considerano quali piaceri siano buoni o cattivi, e non hanno altro scopo che procurare gratificazione, buona o cattiva che sia. A mio parere, Callicle, vi sono tali processi, e questa è la sorta di cosa che io chiamo adulazione, sia che riguardi il corpo o l'anima, o ogni qualvolta sia impiegata in vista del piacere e senza alcuna considerazione del bene e del male. E ora vorrei che tu mi dicessi se convieni con noi in questa nozione, o se dissenti.
+
+CALLICLE: Non dissento; al contrario, convengo; giacché in tal modo condurrò prima l'argomento alla sua fine, e farò cosa grata al mio amico Gorgia.
+
+SOCRATE: E questa nozione è vera di una sola anima, o di due o più?
+
+CALLICLE: Ugualmente vera di due o più.
+
+SOCRATE: Allora un uomo può dilettare un'intera assemblea, e tuttavia non aver alcun riguardo per i loro veri interessi?
+
+CALLICLE: Sì.
+
+SOCRATE: Puoi dirmi le occupazioni che dilettano il genere umano — o piuttosto, se preferisci, lascia che io chieda, e tu rispondi, quali di esse appartengano alla classe piacevole, e quali no? In primo luogo, che dici del suonare il flauto? Non pare forse essere un'arte che cerca soltanto il piacere, Callicle, e non pensa a null'altro?
+
+CALLICLE: Acconsento.
+
+SOCRATE: E non è forse vero lo stesso di tutte le arti simili, come, per esempio, l'arte di suonare la lira nelle feste?
+
+CALLICLE: Sì.
+
+SOCRATE: E che dici dell'arte corale e della poesia ditirambica? — non sono forse della stessa natura? Immagini forse che Cinesia, figlio di Mele, si curi di ciò che tenderà al miglioramento morale dei suoi uditori, o di ciò che darà piacere alla moltitudine?
+
+CALLICLE: Non vi può essere errore riguardo a Cinesia, Socrate.
+
+SOCRATE: E che dici di suo padre, Mele il suonatore d'arpa? Eseguiva forse con qualche mira al bene dei suoi uditori? Si poteva forse dire che riguardasse persino il loro piacere? Poiché il suo canto era un supplizio per il suo pubblico. E dell'arpa e della poesia ditirambica in generale, che diresti? Non sono state forse inventate interamente per amore del piacere?
+
+CALLICLE: Questa è la mia nozione di esse.
+
+SOCRATE: E quanto alla Musa della Tragedia, quella solenne e augusta figura — quali sono le sue aspirazioni? Tutto il suo scopo e desiderio è soltanto dar piacere agli spettatori, oppure lotta contro di loro e rifiuta di parlare dei loro piacevoli vizi, e proclama volentieri in parola e canto verità gradite e sgradite? — quale dei due, a tuo giudizio, è il suo carattere?
+
+CALLICLE: Non vi può essere dubbio, Socrate, che la Tragedia abbia il volto rivolto verso il piacere e la gratificazione del pubblico.
+
+SOCRATE: E non è forse quella la sorta di cosa, Callicle, che poc'anzi descrivevamo come adulazione?
+
+CALLICLE: Verissimo.
+
+SOCRATE: Ebbene ora, supponiamo di spogliare tutta la poesia del canto e del ritmo e del metro, rimarrà il discorso? (Cfr. la Repubblica.)
+
+CALLICLE: Di sicuro.
+
+SOCRATE: E questo discorso è rivolto a una folla di persone?
+
+CALLICLE: Sì.
+
+SOCRATE: Allora la poesia è una sorta di retorica?
+
+CALLICLE: Vero.
+
+SOCRATE: E i poeti nei teatri non ti sembrano essere retori?
+
+CALLICLE: Sì.
+
+SOCRATE: Allora ora abbiamo scoperto una sorta di retorica che è rivolta a una folla di uomini, donne e fanciulli, uomini liberi e schiavi. E questa non è molto di nostro gusto, giacché l'abbiamo descritta come avente la natura dell'adulazione.
+
+CALLICLE: Verissimo.
+
+SOCRATE: Benissimo. E che dici di quell'altra retorica che si rivolge all'assemblea ateniese e alle assemblee degli uomini liberi negli altri stati? I retori ti paiono mirare sempre a ciò che è meglio, e cercano di migliorare i cittadini con i loro discorsi, oppure anch'essi, come il resto del genere umano, sono intenti a dar loro piacere, dimenticando il bene pubblico nel pensiero del proprio interesse, giocando col popolo come con fanciulli, e cercando di divertirlo, ma senza mai considerare se ne divenga migliore o peggiore?
+
+CALLICLE: Devo distinguere. Ve ne sono alcuni che hanno una reale cura del pubblico in ciò che dicono, mentre altri sono quali tu descrivi.
+
+SOCRATE: Mi accontento dell'ammissione che la retorica è di due sorte; l'una, che è mera adulazione e vergognosa declamazione; l'altra, che è nobile e mira all'educazione e al miglioramento delle anime dei cittadini, e si sforza di dire ciò che è meglio, gradito o sgradito che sia, al pubblico; ma hai mai conosciuto una tale retorica; o se l'hai conosciuta, e puoi indicare un qualche retore di questo stampo, chi è?
+
+CALLICLE: Ma, in verità, temo di non poterti indicare alcuno tale tra gli oratori attualmente in vita.
+
+SOCRATE: Ebbene, allora, puoi menzionarne qualcuno di una generazione passata, del quale si possa dire che abbia migliorato gli Ateniesi, che li trovò peggiori e li rese migliori, dal giorno in cui cominciò a fare discorsi? poiché, in verità, io non conosco un tale uomo.
+
+CALLICLE: Come! non hai mai udito che Temistocle fu un uomo buono, e Cimone e Milziade e Pericle, che è morto proprio di recente, e che tu stesso hai udito?
+
+SOCRATE: Sì, Callicle, furono uomini buoni, se, come dicevi dapprima, la vera virtù consiste soltanto nel soddisfacimento dei nostri desideri e di quelli altrui; ma se no, e se, come fummo poi costretti a riconoscere, il soddisfacimento di alcuni desideri ci rende migliori, e di altri, peggiori, e dobbiamo gratificare gli uni e non gli altri, e vi è un'arte nel distinguerli, — puoi indicarmi qualcuno di questi uomini di stato che li abbia distinti?
+
+CALLICLE: No, in verità, non posso.
+
+SOCRATE: Eppure, di certo, Callicle, se cerchi ne troverai uno tale. Supponiamo di considerare con calma se qualcuno di questi fu tale quale ho descritto. Non parlerà forse l'uomo buono, che dice qualunque cosa dica in vista del meglio, con riferimento a qualche criterio e non a caso; proprio come tutti gli altri artefici, sia il pittore, il costruttore, il maestro d'ascia, o qualsiasi altro, guardano tutti quanti alla propria opera, e non scelgono e applicano a caso ciò che applicano, ma si sforzano di dargli una forma determinata? L'artefice dispone ogni cosa in ordine, e costringe l'una parte ad armonizzarsi e accordarsi con l'altra parte, finché non ha costruito un tutto regolare e sistematico; e questo è vero di tutti gli artefici, e allo stesso modo gli allenatori e i medici, dei quali parlammo prima, danno ordine e regolarità al corpo: neghi questo?
+
+CALLICLE: No; sono pronto ad ammetterlo.
+
+SOCRATE: Allora la casa in cui prevalgono ordine e regolarità è buona; quella in cui vi è disordine, cattiva?
+
+CALLICLE: Sì.
+
+SOCRATE: E lo stesso è vero di una nave?
+
+CALLICLE: Sì.
+
+SOCRATE: E lo stesso si può dire del corpo umano?
+
+CALLICLE: Sì.
+
+SOCRATE: E che diresti dell'anima? La buona anima sarà quella in cui prevale il disordine, o quella in cui vi è armonia e ordine?
+
+CALLICLE: Quest'ultima segue dalle nostre precedenti ammissioni.
+
+SOCRATE: Qual è il nome che si dà all'effetto dell'armonia e dell'ordine nel corpo?
+
+CALLICLE: Suppongo che tu intenda la salute e la forza?
+
+SOCRATE: Sì, lo intendo; e qual è il nome che daresti all'effetto dell'armonia e dell'ordine nell'anima? Prova a scoprire un nome per questo come per l'altro.
+
 <span class="atom-split" data-atom="019" data-title="Parte 19" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 CALLICLES: Why not give the name yourself, [Socrates](/figures/socrates)?
@@ -2038,6 +3982,80 @@ CALLICLES: Go on, my good fellow.
 
 SOCRATES: Then I shall proceed to add, that if the temperate soul is the good soul, the soul which is in the opposite condition, that is, the foolish and intemperate, is the bad soul. Very true.
 
+<span class="qlang-split" data-lang="it"></span>
+
+CALLICLE: Perché non dài tu stesso il nome, [Socrate](/figures/socrates)?
+
+SOCRATE: Ebbene, se preferisci che sia io a farlo, lo farò; e tu dirai se convieni con me, e in caso contrario, mi confuterai e mi risponderai. ‘Sano,’ come io concepisco, è il nome che si dà all'ordine regolare del corpo, da cui provengono la salute e ogni altra eccellenza corporea: è vero o no?
+
+CALLICLE: Vero.
+
+SOCRATE: E ‘legittimo’ e ‘legge’ sono i [nomi](/positions/nominalism) che si danno all'ordine regolare e all'azione dell'anima, e questi rendono gli uomini legittimi e ordinati: — e così abbiamo la temperanza e la giustizia: non è vero?
+
+CALLICLE: Concesso.
+
+SOCRATE: E il vero retore, che è onesto e comprende la sua arte, non terrà forse l'occhio fisso su queste cose, in tutte le parole che rivolge alle anime degli uomini, e in tutte le sue azioni, sia in ciò che dà sia in ciò che toglie? Non sarà forse il suo scopo quello di instillare la giustizia nelle anime dei suoi cittadini e togliere l'ingiustizia, di instillare la temperanza e togliere l'intemperanza, di instillare ogni virtù e togliere ogni vizio? Non convieni?
+
+CALLICLE: Convengo.
+
+SOCRATE: Poiché a che serve, Callicle, dare al corpo di un uomo malato che è in cattivo stato di salute una quantità del cibo o della bevanda più deliziosa o di qualsiasi altra cosa piacevole, che può essere per lui in realtà tanto dannosa come se non gli dessi nulla, o persino peggiore se rettamente valutata. Non è vero?
+
+CALLICLE: Non dirò di no.
+
+SOCRATE: Poiché a mio parere non vi è alcun profitto nella vita di un uomo se il suo corpo è in cattiva condizione — in tal caso anche la sua vita è cattiva: non ho ragione?
+
+CALLICLE: Sì.
+
+SOCRATE: Quando un uomo è in salute i medici gli permetteranno generalmente di mangiare quando ha fame e di bere quando ha sete, e di soddisfare i suoi desideri come gli piace, ma quando è malato a stento gli consentono di soddisfare affatto i suoi desideri: persino tu lo ammetterai?
+
+CALLICLE: Sì.
+
+SOCRATE: E non vale forse lo stesso argomento per l'anima, mio buon signore? Finché essa è in cattivo stato ed è dissennata e intemperante e ingiusta ed empia, i suoi desideri dovrebbero essere frenati, ed essa dovrebbe essere trattenuta dal fare qualsiasi cosa che non tenda al proprio miglioramento.
+
+CALLICLE: Sì.
+
+SOCRATE: Un tale trattamento sarà migliore per l'anima stessa?
+
+CALLICLE: Di sicuro.
+
+SOCRATE: E trattenerla dai suoi appetiti è castigarla?
+
+CALLICLE: Sì.
+
+SOCRATE: Allora la costrizione o il castigo è migliore per l'anima dell'intemperanza o dell'assenza di controllo, che poc'anzi preferivi?
+
+CALLICLE: Non ti capisco, Socrate, e vorrei che tu lo chiedessi a qualcuno che ti capisce.
+
+SOCRATE: Ecco un gentiluomo che non può sopportare di essere migliorato o di sottoporsi a quel medesimo castigo di cui parla l'argomento!
+
+CALLICLE: Non bado a una sola parola di ciò che stai dicendo, e finora ho risposto soltanto per cortesia verso Gorgia.
+
+SOCRATE: Che dobbiamo fare, allora? Ci interromperemo a metà?
+
+CALLICLE: Giudica tu stesso.
+
+SOCRATE: Ebbene, ma la gente dice che ‘un racconto dovrebbe avere una testa e non interrompersi a metà,’ e non vorrei che l'argomento se ne andasse in giro senza una testa (cfr. le Leggi); ti prego dunque di proseguire ancora un poco, e di mettergli la testa.
+
+CALLICLE: Come sei tirannico, Socrate! Vorrei che tu e il tuo argomento vi riposaste, o che tu trovassi qualcun altro con cui argomentare.
+
+SOCRATE: Ma chi altro è disposto? — voglio finire l'argomento.
+
+CALLICLE: Non puoi finire senza il mio aiuto, o parlando di seguito, o interrogando e rispondendo a te stesso?
+
+SOCRATE: Devo dunque dire con Epicarmo, ‘Prima parlarono due uomini, ma ora ne basterà uno’? Suppongo che non vi sia assolutamente alcun aiuto. E se devo condurre l'indagine da solo, osserverò anzitutto che non solo io ma tutti noi dovremmo avere l'ambizione di sapere che cosa è vero e che cosa è falso in questa materia, poiché la scoperta della verità è un bene comune. E ora procederò ad argomentare secondo la mia propria nozione. Ma se qualcuno di voi pensa che io giunga a conclusioni che non sono vere deve intervenire e confutarmi, giacché io non parlo da alcuna conoscenza di ciò che dico; sono un indagatore come voi, e perciò, se il mio avversario dice qualcosa che ha forza, sarò il primo a convenire con lui. Parlo nella supposizione che l'argomento debba essere portato a compimento; ma se pensate altrimenti, lasciamo perdere e andiamo per la nostra strada.
+
+GORGIA: Penso, Socrate, che non dovremmo andare per la nostra strada finché tu non abbia portato a compimento l'argomento; e questo mi pare essere il desiderio del resto della compagnia; io stesso vorrei moltissimo udire ciò che hai ancora da dire.
+
+SOCRATE: Anch'io, Gorgia, avrei voluto continuare l'argomento con Callicle, e allora avrei potuto dargli un ‘Anfione’ in cambio del suo ‘Zeto’; ma poiché tu, Callicle, non sei disposto a continuare, spero che tu ascolterai, e mi interromperai se ti sembro essere in errore. E se mi confuti, non mi adirerò con te come tu ti adiri con me, ma ti iscriverò come il più grande dei benefattori sulle tavole della mia anima.
+
+CALLICLE: Mio buon amico, non curarti di me, ma prosegui.
+
+SOCRATE: Ascoltami, allora, mentre ricapitolo l'argomento: — Il piacevole è la stessa cosa del bene? Non la stessa cosa. Callicle e io siamo d'accordo su questo. E il piacevole è da perseguirsi in vista del bene? o il bene in vista del piacevole? Il piacevole è da perseguirsi in vista del bene. Ed è piacevole ciò alla cui presenza siamo compiaciuti, ed è buono ciò alla cui presenza siamo buoni? Di sicuro. E noi siamo buoni, e tutte le cose buone qualsiasi esse siano sono buone quando qualche virtù è presente in noi o in esse? Questa, Callicle, è la mia convinzione. Ma la virtù di ciascuna cosa, sia corpo o anima, strumento o creatura, quando data loro nel modo migliore, viene loro non per [caso](/concepts/fortune) ma come risultato dell'ordine e della verità e dell'arte che sono a esse impartiti: Non ho ragione? Sostengo di averla. E la virtù di ciascuna cosa non dipende forse dall'ordine o dalla disposizione? Sì, dico. E ciò che rende buona una cosa è il proprio ordine inerente a ciascuna cosa? Tale è la mia veduta. E l'anima che ha un ordine proprio non è forse migliore di quella che non ha ordine? Certamente. E l'anima che ha ordine è ordinata? Naturalmente. E ciò che è ordinato è temperante? Assolutamente. E l'anima temperante è buona? Nessun'altra risposta posso dare, caro Callicle; ne hai qualcuna tu?
+
+CALLICLE: Prosegui, mio buon amico.
+
+SOCRATE: Allora procederò ad aggiungere che, se l'anima temperante è la buona anima, l'anima che è nella condizione opposta, cioè la sciocca e intemperante, è la cattiva anima. Verissimo.
+
 <span class="atom-split" data-atom="020" data-title="Parte 20" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 And will not the temperate man do what is proper, both in relation to the gods and to men; — for he would not be temperate if he did not? Certainly he will do what is proper. In his relation to other men he will do what is just; and in his relation to the gods he will do what is holy; and he who does what is just and holy must be just and holy? Very true. And must he not be courageous? for the duty of a temperate man is not to follow or to avoid what he ought not, but what he ought, whether things or men or pleasures or pains, and patiently to endure when he ought; and therefore, Callicles, the temperate man, being, as we have described, also just and courageous and holy, cannot be other than a perfectly good man, nor can the good man do otherwise than well and perfectly whatever he does; and he who does well must of necessity be happy and blessed, and the evil man who does evil, miserable: now this latter is he whom you were applauding — the intemperate who is the opposite of the temperate. Such is my position, and these things I affirm to be true. And if they are true, then I further affirm that he who desires to be happy must pursue and practise temperance and run away from intemperance as fast as his legs will carry him: he had better order his life so as not to need punishment; but if either he or any of his friends, whether private individual or city, are in need of punishment, then justice must be done and he must suffer punishment, if he would be happy. This appears to me to be the aim which a man ought to have, and towards which he ought to direct all the energies both of himself and of [the state](/concepts/state), acting so that he may have temperance and justice present with him and be happy, not suffering his lusts to be unrestrained, and in the never-ending desire satisfy them leading a robber’s life. Such a one is the friend neither of God nor man, for he is incapable of communion, and he who is incapable of communion is also incapable of [friendship](/concepts/friendship). And philosophers tell us, Callicles, that communion and friendship and orderliness and temperance and justice bind together heaven and earth and gods and men, and that this universe is therefore called Cosmos or order, not disorder or misrule, my friend. But although you are a philosopher you seem to me never to have observed that geometrical equality is mighty, both among gods and men; you think that you ought to cultivate inequality or excess, and do not care about geometry. — Well, then, either the principle that the happy are made happy by the possession of justice and temperance, and the miserable miserable by the possession of vice, must be refuted, or, if it is granted, what will be the consequences? All the consequences which I drew before, Callicles, and about which you asked me whether I was in earnest when I said that a man ought to accuse himself and his son and his friend if he did anything wrong, and that to this end he should use his rhetoric — all those consequences are true. And that which you thought that Polus was led to admit out of modesty is true, viz., that, to do injustice, if more disgraceful than to suffer, is in that degree worse; and the other position, which, according to Polus, Gorgias admitted out of modesty, that he who would truly be a rhetorician ought to be just and have a knowledge of justice, has also turned out to be true.
@@ -2065,6 +4083,34 @@ CALLICLES: Well said, Socrates; and please to observe how ready I am to praise y
 SOCRATES: Think and tell me whether you would approve of another view of mine: To me every man appears to be most the friend of him who is most like to him — like to like, as ancient sages say: Would you not agree to this?
 
 CALLICLES: I should.
+
+<span class="qlang-split" data-lang="it"></span>
+
+E l'uomo temperante non farà forse ciò che è conveniente, sia in relazione agli dèi sia agli uomini; — giacché non sarebbe temperante se non lo facesse? Certamente farà ciò che è conveniente. Nella sua relazione con gli altri uomini farà ciò che è giusto; e nella sua relazione con gli dèi farà ciò che è santo; e colui che fa ciò che è giusto e santo dev'essere giusto e santo? Verissimo. E non dev'egli essere coraggioso? poiché il dovere di un uomo temperante non è di seguire o di evitare ciò che non dovrebbe, ma ciò che dovrebbe, siano cose o uomini o piaceri o dolori, e di sopportare pazientemente quando dovrebbe; e perciò, Callicle, l'uomo temperante, essendo, come lo abbiamo descritto, anche giusto e coraggioso e santo, non può essere altro che un uomo perfettamente buono, né l'uomo buono può fare altrimenti che bene e perfettamente qualunque cosa faccia; e colui che fa il bene dev'essere per necessità felice e beato, e l'uomo malvagio che fa il male, miserabile: ora quest'ultimo è colui che tu applaudivi — l'intemperante, che è l'opposto del temperante. Tale è la mia posizione, e queste cose io affermo essere vere. E se sono vere, allora affermo inoltre che colui che desidera essere felice deve perseguire e praticare la temperanza e fuggire dall'intemperanza quanto più veloci lo portino le gambe: farebbe meglio a ordinare la sua vita così da non aver bisogno di punizione; ma se egli o qualcuno dei suoi amici, sia privato cittadino sia città, ha bisogno di punizione, allora la giustizia dev'essere fatta ed egli deve subire la punizione, se vuole essere felice. Questo mi pare essere lo scopo che un uomo dovrebbe avere, e verso il quale dovrebbe dirigere tutte le energie sia di se stesso sia dello [stato](/concepts/state), agendo così da avere la temperanza e la giustizia presenti in sé ed essere felice, non lasciando che le sue brame siano sfrenate, e nel desiderio senza fine di soddisfarle conducendo la vita di un predone. Un tale uomo non è amico né di Dio né dell'uomo, poiché è incapace di comunione, e chi è incapace di comunione è anche incapace di [amicizia](/concepts/friendship). E i filosofi ci dicono, Callicle, che la comunione e l'amicizia e l'ordine e la temperanza e la giustizia legano insieme cielo e terra e dèi e uomini, e che questo universo è perciò chiamato Cosmo od ordine, non disordine o malgoverno, amico mio. Ma benché tu sia un filosofo pare a me che tu non abbia mai osservato che l'eguaglianza geometrica è potente, sia tra gli dèi sia tra gli uomini; tu pensi di dover coltivare la disuguaglianza o l'eccesso, e non ti curi della geometria. — Ebbene, allora, o il principio che i felici sono resi felici dal possesso della giustizia e della temperanza, e i miserabili miserabili dal possesso del vizio, dev'essere confutato, o, se è concesso, quali saranno le conseguenze? Tutte le conseguenze che traevo prima, Callicle, e riguardo alle quali mi chiedevi se parlassi sul serio quando dicevo che un uomo dovrebbe accusare se stesso e suo figlio e il suo amico se avesse fatto qualcosa di male, e che a tal fine dovrebbe usare la sua retorica — tutte quelle conseguenze sono vere. E ciò che tu pensavi che Polo fosse indotto ad ammettere per pudore è vero, vale a dire che, commettere ingiustizia, se più vergognoso che subirla, è in tal grado peggiore; e l'altra posizione, che, secondo Polo, Gorgia ammise per pudore, che colui che voglia veramente essere retore dovrebbe essere giusto e avere conoscenza della giustizia, è anch'essa risultata vera.
+
+E ora, stando le cose come abbiamo detto, procediamo in secondo luogo a considerare se tu hai ragione nel rinfacciarmi che io sono incapace di aiutare me stesso o alcuno dei miei amici o parenti, o di salvarli nell'estremità del pericolo, e che io sono in potere di un altro come un fuorilegge al quale chiunque può fare ciò che gli piace, — egli può prendermi a schiaffi, il che era una tua coraggiosa affermazione; o portarmi via i beni o bandirmi, o persino fare il peggio e uccidermi; una condizione che, come tu dici, è il colmo della vergogna. La mia risposta a te è una che è già stata spesso ripetuta, ma tanto vale ripeterla ancora una volta. Ti dico, Callicle, che essere preso a schiaffi ingiustamente non è il peggior male che possa capitare a un uomo, né avere la borsa o il corpo squarciati, ma che colpire e uccidere me e i miei ingiustamente è di gran lunga più vergognoso e più malvagio; sì, e depredare e ridurre in schiavitù e saccheggiare, o in qualsiasi modo far torto a me e ai miei, è di gran lunga più vergognoso e malvagio per colui che compie il torto che per me che lo subisco. Queste verità, che sono già state esposte come io le enuncio nella precedente discussione, parrebbero ora essere state fissate e ribadite da noi, se posso usare un'espressione certamente audace, in parole che sono come vincoli di ferro e adamante; e a meno che tu o qualche altro eroe ancor più intraprendente non le spezziate, non vi è possibilità di negare ciò che dico. Poiché la mia posizione è sempre stata che io stesso ignoro come stiano queste cose, ma che non ho mai incontrato nessuno che potesse dire altrimenti, più di quanto tu possa, e non apparire ridicolo. Questa è ancora la mia posizione, e se ciò che dico è vero, e l'ingiustizia è il più grande dei mali per colui che commette ingiustizia, e tuttavia vi è, se possibile, un male più grande di questo più grande dei mali (cfr. la Repubblica), cioè che un uomo ingiusto non subisca il castigo, quale sarà quella difesa la cui mancanza renderà un uomo veramente ridicolo? La difesa non dev'essere forse una che avverta il più grande dei mali umani? E non sarà forse la peggiore di tutte le difese quella con cui un uomo è incapace di difendere se stesso o la sua famiglia o i suoi amici? — e poi verrà quella che è incapace di avvertire il male più grande successivo; in terzo luogo quella che è incapace di avvertire il terzo male più grande; e così degli altri mali. Come è la grandezza del male così è l'onore di poterli avvertire nei loro vari gradi, e l'onta del non poterli avvertire. Non ho ragione, Callicle?
+
+CALLICLE: Sì, hai perfettamente ragione.
+
+[SOCRATE](/figures/socrates): Visto dunque che vi sono questi due mali, il commettere ingiustizia e il subire ingiustizia — e noi affermiamo che commettere ingiustizia è un male maggiore, e subire ingiustizia un male minore — con quali espedienti può un uomo riuscire a ottenere i due vantaggi, l'uno del non commettere e l'altro del non subire ingiustizia? deve avere il potere, o soltanto la volontà di ottenerli? Intendo chiedere se un uomo sfuggirà all'ingiustizia se ha soltanto la volontà di sfuggirvi, o deve essersi provvisto del potere?
+
+CALLICLE: Deve essersi provvisto del potere; questo è chiaro.
+
+SOCRATE: E che dici del commettere ingiustizia? È sufficiente la sola volontà, e ciò gli impedirà di commettere ingiustizia, o deve essersi provvisto di potere e d'arte; e se non ha studiato e praticato, sarà ingiusto lo stesso? Di certo potresti dire, Callicle, se pensi che Polo e io avessimo ragione nell'ammettere la conclusione che nessuno fa il male volontariamente, ma che tutti fanno il male contro la propria volontà?
+
+CALLICLE: Concesso, Socrate, purché tu la finisca.
+
+SOCRATE: Allora, come parrebbe, il potere e l'arte devono essere provvisti affinché non commettiamo alcuna ingiustizia?
+
+CALLICLE: Certamente.
+
+SOCRATE: E quale arte ci proteggerà dal subire ingiustizia, se non del tutto, almeno per quanto possibile? Voglio sapere se convieni con me; poiché penso che una tale arte sia l'arte di colui che è o un governante o persino un tiranno egli stesso, oppure l'eguale e il compagno del potere dominante.
+
+CALLICLE: Ben detto, Socrate; e ti prego di osservare quanto sono pronto a lodarti quando parli con senno.
+
+SOCRATE: Pensa e dimmi se approveresti un'altra mia veduta: A me ogni uomo pare essere massimamente amico di colui che gli è più simile — simile a simile, come dicono gli antichi saggi: Non converresti con questo?
+
+CALLICLE: Converrei.
 
 <span class="atom-split" data-atom="021" data-title="Parte 21" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -2113,6 +4159,54 @@ SOCRATES: And yet surely swimming saves a man from death, and there are occasion
 And this is the reason why the pilot, although he is our saviour, is not usually conceited, any more than the engineer, who is not at all behind either the general, or the pilot, or any one else, in his saving power, for he sometimes saves whole cities. Is there any comparison between him and the pleader? And if he were to talk, Callicles, in your grandiose style, he would bury you under a mountain of words, declaring and insisting that we ought all of us to be engine-makers, and that no other profession is worth thinking about; he would have plenty to say. Nevertheless you despise him and his art, and sneeringly call him an engine-maker, and you will not allow your daughters to marry his son, or marry your son to his daughters. And yet, on your principle, what justice or reason is there in your refusal? What right have you to despise the engine-maker, and the others whom I was just now mentioning? I know that you will say, ‘I am better, and better born.’ But if the better is not what I say, and virtue consists only in a man saving himself and his, whatever may be his character, then your censure of the engine-maker, and of the physician, and of the other arts of salvation, is ridiculous. O my friend! I want you to see that the noble and the good may possibly be something different from saving and being saved: — May not he who is truly a man cease to care about living a certain time? — he knows, as women say, that no man can escape fate, and therefore he is not fond of life; he leaves all that with God, and considers in what way he can best spend his appointed term; — whether by assimilating himself to the constitution under which he lives, as you at this moment have to consider how you may become as like as possible to the Athenian people, if you mean to be in their good graces, and to have power in the state; whereas I want you to think and see whether this is for the interest of either of us; — I would not have us risk that which is dearest on the acquisition of this power, like the Thessalian enchantresses, who, as they say, bring down the moon from heaven at the risk of their own perdition. But if you suppose that any man will show you the art of becoming great in the city, and yet not conforming yourself to the ways of the city, whether for better or worse, then I can only say that you are mistaken, Callides; for he who would deserve to be the true natural friend of the Athenian Demus, aye, or of Pyrilampes’ darling who is called after them, must be by nature like them, and not an imitator only. He, then, who will make you most like them, will make you as you desire, a statesman and orator: for every man is pleased when he is spoken to in his own language and spirit, and dislikes any other. But perhaps you, sweet Callicles, may be of another mind. What do you say?
 
 CALLICLES: Somehow or other your words, Socrates, always appear to me to be good words; and yet, like the rest of the world, I am not quite convinced by them. (Compare Symp.: 1 Alcib.)
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ma quando il tiranno è rozzo e ignorante, ci si può aspettare che tema chiunque gli sia superiore in virtù, e non sarà mai in grado di essergli perfettamente amico.
+
+CALLICLE: Questo è vero.
+
+SOCRATE: Né sarà amico di chiunque gli sia grandemente inferiore, giacché il tiranno lo disprezzerà, e non lo riguarderà mai seriamente come un amico.
+
+CALLICLE: Anche questo è vero.
+
+SOCRATE: Allora il solo amico degno di menzione, che il tiranno possa avere, sarà uno che è del suo stesso carattere, e ha le stesse simpatie e antipatie, ed è al tempo stesso disposto a essergli soggetto e sottomesso; egli è l'uomo che avrà potere nello [stato](/concepts/state), e nessuno lo danneggerà impunemente: — non è così?
+
+CALLICLE: Sì.
+
+SOCRATE: E se un giovane comincia a chiedere come possa diventare grande e temibile, questa parrebbe essere la via — egli si abituerà, dalla giovinezza in su, a provare dolore e gioia nelle stesse occasioni del suo signore, e si adopererà a essergli quanto più simile possibile?
+
+CALLICLE: Sì.
+
+SOCRATE: E in tal modo avrà conseguito, come tu e i tuoi amici direste, il fine di diventare un grande uomo e di non subire danno?
+
+CALLICLE: Verissimo.
+
+SOCRATE: Ma sfuggirà anche al fare danno? Non dev'essere forse vero proprio l'opposto, — se egli deve essere simile al tiranno nella sua ingiustizia, e avere influenza su di lui? Non si adopererà piuttosto a fare quanto più torto possibile, e a non essere punito?
+
+CALLICLE: Vero.
+
+SOCRATE: E con l'imitazione del suo signore e con il potere che così acquisisce non diventerà forse la sua anima cattiva e corrotta, e non sarà questo il più grande male per lui?
+
+CALLICLE: Tu riesci sempre in un modo o nell'altro, Socrate, a rovesciare ogni cosa: non sai che colui che imita il tiranno, se ha voglia, ucciderà chi non lo imita e gli porterà via i beni?
+
+SOCRATE: Eccellente Callicle, non sono sordo, e l'ho udito moltissime volte da te e da Polo e da quasi ogni uomo della città, ma vorrei che tu udissi anche me. Oso dire che egli lo ucciderà se ne ha voglia — l'uomo cattivo ucciderà il buono e il vero.
+
+CALLICLE: E non è proprio questa la cosa esasperante?
+
+SOCRATE: No, non per un uomo di senno, come mostra l'argomento: pensi tu che tutte le nostre cure debbano essere dirette a prolungare la vita al massimo, e allo studio di quelle arti che ci mettono al sicuro dal pericolo sempre; come quell'arte della retorica che salva gli uomini nelle corti di giustizia, e che tu mi consigli di coltivare?
+
+CALLICLE: Sì, davvero, e anche un ottimo consiglio.
+
+SOCRATE: Ebbene, amico mio, ma che pensi del nuoto; è forse un'arte di grandi pretese?
+
+CALLICLE: No, davvero.
+
+SOCRATE: Eppure di certo il nuoto salva un uomo dalla morte, e vi sono occasioni in cui egli deve saper nuotare. E se tu disprezzi i nuotatori, ti parlerò di un'altra e più grande arte, l'arte del pilota, che non solo salva le anime degli uomini, ma anche i loro corpi e le loro proprietà dall'estremità del pericolo, proprio come la retorica. Eppure la sua arte è modesta e senza pretese: non ha arie né pretese di fare qualcosa di straordinario e, in cambio della medesima salvezza che è data dall'avvocato, chiede soltanto due oboli, se ci porta da Egina ad Atene, o per il viaggio più lungo dal Ponto o dall'Egitto, al massimo due dracme, quando ha salvato, come dicevo poc'anzi, il passeggero e sua moglie e i figli e i beni, e li ha sbarcati sani e salvi al Pireo, — questo è il pagamento che chiede in cambio di un così grande beneficio; e colui che è maestro dell'arte, e ha fatto tutto questo, sbarca e passeggia sulla riva del mare presso la sua nave in modo dimesso. Poiché egli è capace di riflettere ed è consapevole di non poter dire quale dei suoi compagni di viaggio abbia beneficato, e quale di essi abbia danneggiato nel non permettere che annegassero. Sa che essi sono proprio gli stessi quando li ha sbarcati come quando si imbarcarono, e non un briciolo migliori né nei loro corpi né nelle loro anime; e considera che se un uomo afflitto da grandi e incurabili malattie corporee è soltanto da compiangere per essere scampato, e non è in alcun modo beneficato da lui nell'essere stato salvato dall'annegamento, tanto meno lo è colui che ha grandi e incurabili malattie, non del corpo, ma dell'anima, che è la parte più preziosa di lui; né la vita è degna di essere vissuta né di alcun profitto per l'uomo cattivo, sia che venga liberato dal mare, o dai tribunali, o da qualsiasi altro divoratore; — e così egli riflette che un tale uomo farebbe meglio a non vivere, poiché non può vivere bene. (Cfr. la Repubblica.)
+
+E questa è la ragione per cui il pilota, benché sia il nostro salvatore, non è solitamente presuntuoso, non più dell'ingegnere, che non è affatto inferiore né al generale, né al pilota, né a chiunque altro, nel suo potere di salvezza, poiché talvolta salva intere città. Vi è forse paragone tra lui e l'avvocato? E se egli parlasse, Callicle, nel tuo stile grandioso, ti seppellirebbe sotto una montagna di parole, dichiarando e insistendo che dovremmo tutti quanti essere costruttori di macchine, e che nessun'altra professione è degna di esser presa in considerazione; avrebbe molto da dire. Ciononostante tu disprezzi lui e la sua arte, e con scherno lo chiami costruttore di macchine, e non permetterai alle tue figlie di sposare suo figlio, né sposerai tuo figlio alle sue figlie. Eppure, secondo il tuo principio, quale giustizia o ragione vi è nel tuo rifiuto? Che diritto hai di disprezzare il costruttore di macchine, e gli altri che poc'anzi menzionavo? So che dirai: ‘Io sono migliore, e di migliore nascita.’ Ma se il migliore non è ciò che io dico, e la virtù consiste soltanto nel fatto che un uomo salvi se stesso e i suoi, quale che sia il suo carattere, allora la tua censura del costruttore di macchine, e del medico, e delle altre arti di salvezza, è ridicola. O amico mio! voglio che tu veda che il nobile e il buono possono forse essere qualcosa di diverso dal salvare e dall'essere salvati: — Non può forse colui che è veramente un uomo cessare di curarsi di vivere un certo tempo? — egli sa, come dicono le donne, che nessun uomo può sfuggire al fato, e perciò non è amante della vita; lascia tutto ciò a Dio, e considera in quale modo possa meglio spendere il termine a lui assegnato; — se assimilando se stesso alla costituzione sotto la quale vive, come tu in questo momento devi considerare come tu possa diventare quanto più simile possibile al popolo ateniese, se intendi essere nelle sue grazie, e avere potere nello stato; mentre io voglio che tu pensi e veda se questo sia nell'interesse di alcuno di noi due; — non vorrei che rischiassimo ciò che è più caro per l'acquisizione di questo potere, come le incantatrici tessaliche, che, come si dice, fanno scendere la luna dal cielo a rischio della propria perdizione. Ma se supponi che un qualche uomo ti mostrerà l'arte di diventare grande nella città, e tuttavia senza conformarti ai modi della città, sia in meglio sia in peggio, allora posso solo dire che ti sbagli, Callide; poiché colui che meriti di essere il vero amico naturale del Demo ateniese, sì, o del prediletto di Pirilampe che porta il loro nome, deve essere per natura simile a loro, e non un mero imitatore. Colui, dunque, che ti renderà più simile a loro, ti renderà, come desideri, uomo di stato e oratore: giacché ogni uomo è compiaciuto quando gli si parla nella sua propria lingua e nel suo proprio spirito, e detesta ogni altra. Ma forse tu, dolce Callicle, potresti essere di altro avviso. Che dici?
+
+CALLICLE: In un modo o nell'altro le tue parole, Socrate, mi appaiono sempre buone parole; eppure, come il resto del mondo, non ne sono del tutto convinto. (Cfr. il Simposio: 1 Alcib.)
 
 <span class="atom-split" data-atom="022" data-title="Parte 22" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -2208,6 +4302,100 @@ SOCRATES: Then upon this view, Pericles was not a good statesman?
 
 CALLICLES: That is, upon your view.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Il motivo, Callicle, è che l'amore di Demo che dimora nella tua anima mi è avversario; ma oserei dire che, se torniamo su queste stesse questioni e le esaminiamo più a fondo, potresti nondimeno convincerti. Ricordati, dunque, che vi sono due modi di educare tutte le cose, corpo e anima compresi: nell'uno, come dicevamo, le trattiamo in vista del piacere, e nell'altro in vista del sommo bene, e allora non le assecondiamo ma resistiamo loro: non era questa la distinzione che tracciavamo?
+
+CALLICLE: Verissimo.
+
+SOCRATE: E quello che aveva di mira il piacere non era che una volgare adulazione: non era questa un'altra delle nostre conclusioni?
+
+CALLICLE: Sia pure, se così vuoi.
+
+SOCRATE: E l'altro aveva di mira il massimo miglioramento di ciò a cui si prestava servizio, fosse corpo o anima?
+
+CALLICLE: Proprio così.
+
+SOCRATE: E non dobbiamo forse avere lo stesso fine in vista nel trattare la nostra città e i suoi cittadini? Non dobbiamo cercare di renderli quanto più buoni possibile? Poiché abbiamo già scoperto che non serve a nulla procurar loro qualsiasi altro bene, se la mente di coloro che devono possederlo — sia denaro, sia carica, sia qualsiasi altra forma di potere — non è mite e buona. Vogliamo dire questo?
+
+CALLICLE: Sì, certamente, se ti piace.
+
+SOCRATE: Ebbene, dunque, Callicle, se tu ed io intendessimo intraprendere qualche opera pubblica e ci esortassimo a vicenda a costruire edifici, come mura, arsenali o templi di grandissime dimensioni, non dovremmo forse esaminare anzitutto noi stessi, per vedere se conosciamo o no l'arte del costruire, e chi ce l'ha insegnata? Non sarebbe questo necessario, Callicle?
+
+CALLICLE: Vero.
+
+SOCRATE: In secondo luogo, dovremmo considerare se mai abbiamo costruito qualche casa privata, o nostra o per i nostri amici, e se questa nostra costruzione sia riuscita bene o no; e se, riflettendovi, trovassimo di aver avuto maestri buoni ed eminenti, e di aver costruito con successo molti begli edifici, non solo con il loro aiuto, ma anche senza di essi, con la nostra sola abilità — in tal caso la prudenza non ci dissuaderebbe dal procedere alla costruzione di opere pubbliche. Ma se non avessimo alcun maestro da mostrare, e soltanto una serie di edifici da nulla, o nessuno affatto, allora, certo, sarebbe ridicolo da parte nostra tentare opere pubbliche, o esortarci a vicenda a intraprenderle. Non è vero?
+
+CALLICLE: Certamente.
+
+SOCRATE: E non vale lo stesso in tutti gli altri casi? Se tu ed io fossimo medici, e ci consigliassimo a vicenda di essere competenti a esercitare come medici di Stato, non chiederei io di te, e non chiederesti tu di me: «Ebbene, ma come sta lo stesso Socrate, gode di buona salute? e si è mai saputo che qualcun altro sia stato guarito da lui, schiavo o libero che fosse?» E io farei le stesse domande su di te. E se giungessimo alla conclusione che nessuno, cittadino o straniero, uomo o donna, avesse mai tratto alcun giovamento dall'arte medica dell'uno o dell'altro di noi, allora, per il cielo, Callicle, che assurdità pensare che noi o qualsiasi essere umano potessimo essere tanto sciocchi da erigerci a medici di Stato e consigliare ad altri come noi di fare altrettanto, senza prima aver esercitato in privato, con successo o no, e acquisito esperienza dell'arte! Non è forse questo, come si suol dire, cominciare dalla giara grande quando si impara l'arte del vasaio, il che è cosa da stolti?
+
+CALLICLE: Vero.
+
+SOCRATE: E ora, amico mio, poiché tu cominci già a essere un personaggio pubblico, e mi ammonisci e mi rimproveri di non esserlo, supponiamo di farci a vicenda qualche domanda. Dimmi, dunque, Callicle: che ne è del rendere migliore qualcuno dei cittadini? Vi fu mai un uomo un tempo vizioso, o ingiusto, o intemperante, o stolto, che sia diventato buono e nobile grazie all'aiuto di Callicle? Vi fu mai un uomo simile, cittadino o straniero, schiavo o libero? Dimmi, Callicle, se qualcuno ti ponesse queste domande, che risponderesti? Chi diresti di aver reso migliore con la tua conversazione? Possono esserci state buone azioni di questo genere da te compiute come privato cittadino, prima che ti facessi avanti in pubblico. Perché non vuoi rispondere?
+
+CALLICLE: Sei polemico, Socrate.
+
+SOCRATE: No, ti interrogo non per amore di polemica, ma perché voglio davvero sapere in che modo tu pensi che gli affari debbano essere amministrati fra noi — se, quando arrivi alla loro amministrazione, tu abbia altro scopo che il miglioramento dei cittadini. Non abbiamo già ammesso più volte che tale è il dovere dell'uomo pubblico? Sì, certo l'abbiamo detto; poiché, se non vuoi rispondere tu per te stesso, devo rispondere io per te. Ma se è questo che l'uomo buono deve realizzare a beneficio del proprio Stato, permettimi di richiamarti i [nomi](/positions/nominalism) di coloro che poc'anzi menzionavi, Pericle, e Cimone, e Milziade, e Temistocle, e di chiederti se pensi ancora che fossero buoni cittadini.
+
+CALLICLE: Sì, lo penso.
+
+SOCRATE: Ma se erano buoni, allora è chiaro che ciascuno di loro deve aver reso i cittadini migliori invece che peggiori?
+
+CALLICLE: Sì.
+
+SOCRATE: E dunque, quando Pericle cominciò per la prima volta a parlare nell'assemblea, gli Ateniesi non erano così buoni come quando parlò l'ultima volta?
+
+CALLICLE: Molto probabilmente.
+
+SOCRATE: No, amico mio, «probabilmente» non è la parola giusta; poiché, se era un buon cittadino, la conclusione è certa.
+
+CALLICLE: E che differenza fa?
+
+SOCRATE: Nessuna; solo che vorrei inoltre sapere se si suppone che gli Ateniesi siano stati resi migliori da Pericle, o, al contrario, siano stati corrotti da lui; poiché ho sentito che fu il primo a dare al popolo la paga, e a renderlo ozioso e vile, e a incoraggiarlo nell'amore delle chiacchiere e del denaro.
+
+CALLICLE: L'hai sentito, Socrate, da quella genia di filospartani che si ammaccano le orecchie.
+
+SOCRATE: Ma ciò che sto per dirti ora non è semplice diceria, bensì cosa ben nota a te e a me: che dapprima Pericle fu glorioso e il suo carattere immune da ogni condanna degli Ateniesi — e ciò avvenne nel tempo in cui essi non erano così buoni — ma in seguito, quando furono resi buoni e miti da lui, proprio alla fine della sua vita lo condannarono per furto, e quasi lo misero a morte, evidentemente nella convinzione che fosse un malfattore.
+
+CALLICLE: Bene, ma in che modo questo prova la malvagità di Pericle?
+
+SOCRATE: Ebbene, certo diresti che era un cattivo governatore di asini o cavalli o buoi colui che, avendoli ricevuti in origine né scalcianti né cozzanti né mordaci, avesse instillato in loro tutti questi trucchi selvaggi? Non sarebbe un cattivo governatore di qualsiasi animale colui che lo ricevesse mite e lo rendesse più feroce di quanto fosse quando lo ricevette? Che ne dici?
+
+CALLICLE: Ti farò il favore di dire «sì».
+
+SOCRATE: E mi farai anche il favore di dire se l'uomo è un animale?
+
+CALLICLE: Certamente lo è.
+
+SOCRATE: E Pericle non era un pastore di uomini?
+
+CALLICLE: Sì.
+
+SOCRATE: E se era un buon pastore politico, non avrebbero dovuto gli animali a lui soggetti, come poc'anzi riconoscevamo, diventare più giusti, e non più ingiusti?
+
+CALLICLE: Proprio così.
+
+SOCRATE: E gli uomini giusti non sono forse miti, come dice Omero? — o sei di altro avviso?
+
+CALLICLE: Sono d'accordo.
+
+SOCRATE: Eppure li rese davvero più selvaggi di quanto li avesse ricevuti, e la loro ferocia si rivolse contro lui stesso; il che dev'essere stato ben lungi dal desiderare.
+
+CALLICLE: Vuoi che sia d'accordo con te?
+
+SOCRATE: Sì, se ti sembra che io dica il vero.
+
+CALLICLE: Concesso, allora.
+
+SOCRATE: E se erano più selvaggi, non dovevano forse essere più ingiusti e peggiori?
+
+CALLICLE: Concesso di nuovo.
+
+SOCRATE: Allora, secondo questa considerazione, Pericle non era un buon uomo di Stato?
+
+CALLICLE: Cioè, secondo la tua considerazione.
+
 <span class="atom-split" data-atom="023" data-title="Parte 23" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Nay, the view is yours, after what you have admitted. Take the case of Cimon again. Did not the very persons whom he was serving ostracize him, in order that they might not hear his voice for ten years? and they did just the same to Themistocles, adding the penalty of exile; and they voted that Miltiades, the hero of Marathon, should be thrown into the pit of death, and he was only saved by the Prytanis. And yet, if they had been really good men, as you say, these things would never have happened to them. For the good charioteers are not those who at first keep their place, and then, when they have broken-in their horses, and themselves become better charioteers, are thrown out — that is not the way either in charioteering or in any profession. — What do you think?
@@ -2229,6 +4417,28 @@ CALLICLES: Yes, it appears so to me.
 SOCRATES: Do you never hear our professors of [education](/concepts/education) speaking in this inconsistent manner?
 
 CALLICLES: Yes, but why talk of men who are good for nothing?
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): No, la tesi è tua, dopo ciò che hai ammesso. Prendi di nuovo il caso di Cimone. Non lo ostracizzarono proprio coloro che egli serviva, per non udirne la voce per dieci anni? e fecero esattamente lo stesso a Temistocle, aggiungendovi la pena dell'esilio; e votarono che Milziade, l'eroe di Maratona, fosse gettato nella fossa della morte, e solo il Pritano lo salvò. Eppure, se fossero stati davvero uomini buoni, come tu dici, queste cose non sarebbero mai accadute loro. Poiché i buoni aurighi non sono coloro che dapprima mantengono il loro posto, e poi, quando hanno domato i cavalli e sono divenuti essi stessi aurighi migliori, vengono buttati fuori — non è questa la regola né nell'arte dell'auriga né in alcun'altra professione. — Che ne pensi?
+
+CALLICLE: Direi di no.
+
+SOCRATE: Ebbene, se è così, la verità è quella che ho già detto: che nello Stato ateniese nessuno si è mai mostrato un buon uomo di Stato — tu ammettevi che ciò valeva per i nostri uomini di Stato attuali, ma non per quelli di un tempo, e li preferivi agli altri; eppure sono risultati non migliori di quelli attuali; e dunque, se erano retori, non usavano la vera arte della retorica o dell'adulazione, altrimenti non sarebbero caduti in disgrazia.
+
+CALLICLE: Ma certo, Socrate, nessun uomo vivente eguagliò mai alcuno di loro nelle sue imprese.
+
+SOCRATE: Oh, mio caro amico, nulla dico contro di loro in quanto servitori di [lo Stato](/concepts/state); e penso davvero che furono certamente più utili di quelli che vivono ora, e più capaci di appagare i desideri dello Stato; ma quanto al trasformare quei desideri e non lasciare che avessero il loro corso, e all'usare i poteri che avevano, di persuasione o di forza, per il miglioramento dei loro concittadini, che è il fine primo del cittadino veramente buono, non vedo che sotto questi aspetti fossero d'un capello superiori ai nostri uomini di Stato attuali, benché ammetta che erano più abili nel fornire navi e mura e arsenali, e tutto ciò. Tu ed io abbiamo un modo ridicolo di procedere, poiché per tutto il tempo che discutiamo giriamo sempre in tondo attorno allo stesso punto, e di continuo ci fraintendiamo l'un l'altro. Se non sbaglio, hai ammesso e riconosciuto più di una volta che vi sono due specie di operazioni che riguardano il corpo, e due che riguardano l'anima: una delle due è ancillare, e se i nostri corpi hanno fame procura loro cibo, e se hanno sete dà loro da bere, o se hanno freddo li fornisce di vesti, coperte, calzari, e tutto ciò che bramano. Uso le stesse immagini di prima intenzionalmente, affinché tu possa comprendermi meglio. Il fornitore di questi articoli può procurarli all'ingrosso o al minuto, oppure può essere lui stesso il fabbricante di qualcuno di essi — il fornaio, o il cuoco, o il tessitore, o il calzolaio, o il conciatore; e così facendo, essendo qual è, è naturalmente ritenuto da sé e da tutti un ministro del corpo. Poiché nessuno di loro sa che esiste un'altra arte — un'arte della ginnastica e della medicina, che è il vero ministro del corpo, e dovrebbe essere padrona di tutte le altre, e usarne i risultati secondo la conoscenza che essa ha ed esse non hanno, degli effetti realmente buoni o cattivi dei cibi e delle bevande sul corpo. Tutte le altre arti che riguardano il corpo sono servili e meccaniche e indegne di un uomo libero; e la ginnastica e la medicina sono, come dev'essere, le loro padrone. Ora, quando dico che tutto ciò vale ugualmente per l'anima, dapprima sembri conoscere e comprendere e assentire alle mie parole, e poi, poco dopo, torni a ripetere: «Non ha forse avuto lo Stato cittadini buoni e nobili?» e quando ti chiedo chi siano, rispondi, apparentemente sul serio, come se ti avessi chiesto: «Chi sono o sono stati buoni maestri di ginnastica?» — e tu avessi risposto: Teario, il fornaio, Miteco, che scrisse il libro di cucina siciliana, Sarambo, il vinaio: costoro sono ministri del corpo, di prim'ordine nella loro arte; poiché il primo fa pani mirabili, il secondo pietanze eccellenti, e il terzo vino squisito; — a me costoro appaiono l'esatto parallelo degli uomini di Stato che tu menzioni. Ora non saresti affatto contento se ti dicessi: Amico mio, tu non sai nulla di ginnastica; coloro di cui mi parli sono soltanto i ministri e i fornitori del lusso, che non hanno nozioni buone o nobili della loro arte, e con ogni probabilità riempiono e ingrassano i corpi degli uomini guadagnandone l'approvazione, benché il risultato sia che alla lunga essi perdono la carne che avevano prima, e diventano più magri di quanto fossero; eppure costoro, nella loro semplicità, non attribuiranno le loro malattie e la perdita di carne ai loro convitatori; ma quando, negli anni a venire, la malsana crapula reca con sé la pena della malattia, chi si trova per caso vicino a loro in quel momento, e offre loro consiglio, è accusato e biasimato da essi, e se potessero gli farebbero del male; mentre procedono a elogiare gli uomini che sono stati i veri autori del danno. Ed è proprio questo, Callicle, ciò che tu ora fai. Lodi gli uomini che banchettarono i cittadini e ne appagarono i desideri, e la gente dice che hanno reso grande la città, senza vedere che la condizione gonfia e ulcerata dello Stato va attribuita a questi antichi uomini di Stato; poiché hanno riempito la città di porti e arsenali e mura e rendite e tutto ciò, e non hanno lasciato posto alla giustizia e alla temperanza. E quando giunge la crisi del disordine, il popolo incolperà i consiglieri del momento, e applaudirà Temistocle e Cimone e Pericle, che sono i veri autori delle loro calamità; e se non stai attento potrebbero assalire te e il mio amico Alcibiade, quando perderanno non solo i nuovi acquisti, ma anche gli antichi possessi; non che tu sia l'autore di queste loro sciagure, benché tu ne possa forse essere complice. Un gran chiasso si fa sempre, come vedo e come mi si dice, ora come un tempo, a proposito dei nostri uomini di Stato. Quando lo Stato tratta qualcuno di loro come malfattore, osservo che vi è un gran clamore e indignazione per il presunto torto che si fa loro; «dopo tutti i loro molti servigi allo Stato, che debbano ingiustamente perire» — così corre la storia. Ma il grido è tutto una menzogna; poiché nessun uomo di Stato potrebbe mai essere messo a morte ingiustamente dalla città di cui è a capo. Il caso del sedicente uomo di Stato è, credo, molto simile a quello del sedicente sofista; poiché i sofisti, benché siano uomini saggi, sono nondimeno colpevoli di una strana follia; professando di essere maestri di virtù, spesso accusano i loro discepoli di far loro torto, e di frodarli della paga, e di non mostrare gratitudine per i loro servigi. Eppure che cosa può esservi di più assurdo del fatto che uomini divenuti giusti e buoni, ai quali è stata tolta l'ingiustizia, e nei quali la giustizia è stata instillata dai loro maestri, agiscano ingiustamente in ragione dell'ingiustizia che non è in loro? Può esservi nulla di più irrazionale, amici miei, di questo? Tu, Callicle, mi costringi a essere un oratore da comizio, perché non vuoi rispondere.
+
+CALLICLE: E tu sei l'uomo che non sa parlare a meno che non vi sia qualcuno che risponda?
+
+SOCRATE: Suppongo di saperlo fare; ad ogni modo, proprio ora i discorsi che vado facendo sono abbastanza lunghi perché tu ti rifiuti di rispondermi. Ma ti scongiuro in nome del dio dell'[amicizia](/concepts/friendship), mio buon signore, dimmi se non ti appaia una grande incoerenza il dire di aver reso buono un uomo, e poi biasimarlo per essere cattivo.
+
+CALLICLE: Sì, così mi appare.
+
+SOCRATE: Non senti mai i nostri maestri di [educazione](/concepts/education) parlare in questo modo incoerente?
+
+CALLICLE: Sì, ma perché parlare di uomini che non valgono nulla?
 
 <span class="atom-split" data-atom="024" data-title="Parte 24" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -2288,6 +4498,64 @@ SOCRATES: Yes, Callicles, if he have that defence, which as you have often ackno
 
 CALLICLES: Very well, proceed; and then we shall have done.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Direi piuttosto: perché parlare di uomini che si professano governanti, e dichiarano di essere dediti al miglioramento della città, e ciò nonostante all'occasione declamano contro la totale abiezione della città: — pensi che vi sia qualche differenza tra gli uni e gli altri? Mio buon amico, il sofista e il retore, come dicevo a Polo, sono la stessa cosa, o quasi la stessa; ma tu, per ignoranza, immagini che la retorica sia cosa perfetta, e la sofistica cosa da disprezzare; mentre la verità è che la sofistica è superiore alla retorica tanto quanto la legislazione lo è alla pratica forense, o la ginnastica alla medicina. Gli oratori e i sofisti, come sono incline a pensare, sono l'unica categoria che non può lamentarsi del danno che a essi deriva da ciò che insegnano agli altri, senza nello stesso respiro accusare se stessi di non aver fatto alcun bene a coloro che professano di beneficare. Non è forse un fatto?
+
+CALLICLE: Certamente lo è.
+
+SOCRATE: Se avessero ragione nel dire che rendono migliori gli uomini, allora sarebbero l'unica categoria che può permettersi di rimettere il proprio compenso a coloro che ne sono stati beneficati. Mentre se un uomo è stato beneficato in qualsiasi altro modo, se, per esempio, un allenatore gli ha insegnato a correre, potrebbe forse frodarlo della paga, qualora l'allenatore ne rimettesse a lui la decisione, e non facesse con lui alcun accordo che avrebbe ricevuto denaro non appena gli avesse conferito la massima velocità; poiché non a causa di alcuna deficienza di velocità gli uomini agiscono ingiustamente, ma in ragione dell'ingiustizia.
+
+CALLICLE: Verissimo.
+
+SOCRATE: E colui che rimuove l'ingiustizia non può correre alcun pericolo di essere trattato ingiustamente: egli solo può senza rischio rimettere l'onorario ai suoi allievi, se è davvero capace di renderli buoni — non ho ragione? (cfr. Protagora)
+
+CALLICLE: Sì.
+
+SOCRATE: Allora abbiamo trovato il motivo per cui non c'è disonore nel fatto che un uomo riceva un compenso quando è chiamato a dar consiglio sul costruire o su qualsiasi altra arte?
+
+CALLICLE: Sì, abbiamo trovato il motivo.
+
+SOCRATE: Ma quando il punto è come un uomo possa diventare egli stesso ottimo, e governare al meglio la propria famiglia e lo Stato, allora il dire che non darai alcun consiglio gratuitamente è ritenuto disonorevole?
+
+CALLICLE: Vero.
+
+SOCRATE: E perché? Perché solo tali benefici suscitano il desiderio di contraccambiarli, e vi è prova che un beneficio è stato conferito quando il benefattore riceve una ricompensa; altrimenti no. È vero?
+
+CALLICLE: È vero.
+
+SOCRATE: A quale servizio di [lo Stato](/concepts/state) mi inviti, dunque? deciderlo tu per me. Devo essere il medico dello Stato che si adopererà e lotterà per rendere gli Ateniesi quanto più buoni possibile; o devo essere il servo e l'adulatore dello Stato? Parla apertamente, mio buon amico, con franchezza e lealtà come facevi all'inizio e come dovresti fare di nuovo, e dimmi tutto il tuo pensiero.
+
+CALLICLE: Dico allora che dovresti essere il servo dello Stato.
+
+SOCRATE: L'adulatore? Ebbene, signore, questo sì è un nobile invito.
+
+CALLICLE: Il Misio, Socrate, o come ti piace. Poiché se rifiuti, le conseguenze saranno —
+
+SOCRATE: Non ripetere la vecchia storia — che chi vuole mi ucciderà e si prenderà il mio denaro; poiché allora dovrò ripetere la vecchia risposta, che sarà un uomo malvagio e ucciderà il buono, e che il denaro non gli sarà di alcuna utilità, ma che userà malamente ciò che malamente ha preso, e se malamente, vilmente, e se vilmente, dannosamente.
+
+CALLICLE: Quanto sei sicuro, Socrate, che non ti capiterà mai alcun male! sembri credere di vivere in un altro paese, e di non poter mai essere trascinato in un tribunale, mentre è ben probabile che vi sia trascinato da qualche persona miserabile e vile.
+
+SOCRATE: Allora devo davvero essere uno sciocco, Callicle, se non so che nello Stato ateniese qualsiasi uomo può patire qualsiasi cosa. E se sarò portato in giudizio e incorrerò nei pericoli di cui parli, sarà un furfante colui che mi porterà in giudizio — di ciò sono ben certo, poiché nessun uomo buono accuserebbe l'innocente. Né mi sorprenderò se sarò messo a morte. Vuoi che ti dica perché lo prevedo?
+
+CALLICLE: Ma certo.
+
+SOCRATE: Penso di essere il solo, o quasi il solo Ateniese vivente che pratichi la vera arte della politica; sono l'unico uomo politico del mio tempo. Ora, poiché quando parlo le mie parole non sono pronunciate con alcun intento di guadagnare favore, e poiché guardo a ciò che è meglio e non a ciò che è più piacevole, non avendo alcuna intenzione di usare quelle arti e quelle grazie che tu raccomandi, non avrò nulla da dire nel tribunale. E potresti argomentare con me, come io argomentavo con Polo: — sarò giudicato proprio come sarebbe giudicato un medico in un tribunale di ragazzini all'accusa del cuoco. Che cosa risponderebbe in tali circostanze, se qualcuno lo accusasse, dicendo: «O ragazzi miei, molti mali vi ha fatto quest'uomo: è la vostra morte, specialmente dei più giovani tra voi, tagliandovi e bruciandovi e affamandovi e soffocandovi, finché non sapete più che fare; vi dà le pozioni più amare, e vi costringe alla fame e alla sete. Quanto diverso dalla varietà di carni e dolci con cui io vi banchettavo!» Che cosa supponi che il medico sarebbe in grado di rispondere quando si trovasse in tale frangente? Se dicesse la verità potrebbe solo dire: «Tutti questi mali, ragazzi miei, li ho fatti per la vostra salute», e allora non vi sarebbe forse un clamore fra una giuria di quel genere? Come griderebbero!
+
+CALLICLE: Direi di sì.
+
+SOCRATE: Non sarebbe del tutto incapace di trovare una risposta?
+
+CALLICLE: Certamente lo sarebbe.
+
+SOCRATE: E anch'io sarò trattato allo stesso modo, come ben so, se sarò condotto davanti al tribunale. Poiché non potrò rammentare al popolo i piaceri che ho procurato loro, e che, benché io non sia disposto a invidiare né chi li procura né chi ne gode, sono da essi ritenuti benefici e vantaggi. E se qualcuno dice che corrompo i giovani, e turbo le loro menti, o che parlo male dei vecchi, e uso verso di loro parole amare, in privato o in pubblico, è inutile che io risponda, come in verità potrei: — «Tutto questo lo faccio per amore della giustizia, e in vista del vostro interesse, o giudici miei, e di nient'altro.» E dunque non si può dire che cosa possa capitarmi.
+
+CALLICLE: E pensi, Socrate, che un uomo così indifeso si trovi in una buona posizione?
+
+SOCRATE: Sì, Callicle, se possiede quella difesa che, come hai spesso riconosciuto, dovrebbe possedere — se è la difesa di se stesso, e non ha mai detto o fatto nulla di male, né verso gli dèi né verso gli uomini; e questa è stata ripetutamente riconosciuta da noi come la migliore specie di difesa. E se qualcuno potesse convincermi di incapacità a difendere me stesso o altri in questo modo, arrossirei per la vergogna, sia che fossi convinto davanti a molti, o davanti a pochi, o da me solo; e se morissi per mancanza della capacità di farlo, ciò mi addolorerebbe davvero. Ma se morissi perché non ho poteri di adulazione o di retorica, sono ben certo che non mi troveresti a lamentarmi della morte. Poiché nessun uomo che non sia un perfetto sciocco e codardo teme la morte in sé, ma teme di fare il male. Poiché andare nel mondo di sotto avendo l'anima piena di ingiustizia è l'ultimo e il peggiore di tutti i mali. E a riprova di ciò che dico, se non hai obiezioni, vorrei raccontarti una storia.
+
+CALLICLE: Benissimo, procedi; e poi avremo finito.
+
 <span class="atom-split" data-atom="025" data-title="Parte 25" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Listen, then, as story-tellers say, to a very pretty tale, which I dare say that you may be disposed to regard as a fable only, but which, as I believe, is a true tale, for I mean to speak the truth. Homer tells us (Il.), how Zeus and Poseidon and Pluto divided the empire which they inherited from their father. Now in the days of Cronos there existed a law respecting the destiny of man, which has always been, and still continues to be in Heaven, — that he who has lived all his life in justice and holiness shall go, when he is dead, to the Islands of the Blessed, and dwell there in perfect happiness out of the reach of evil; but that he who has lived unjustly and impiously shall go to the house of vengeance and punishment, which is called Tartarus. And in the time of Cronos, and even quite lately in the reign of Zeus, the judgment was given on the very day on which the men were to die; the judges were alive, and the men were alive; and the consequence was that the judgments were not well given. Then Pluto and the authorities from the Islands of the Blessed came to Zeus, and said that the souls found their way to the wrong places. Zeus said: ‘I shall put a stop to this; the judgments are not well given, because the persons who are judged have their clothes on, for they are alive; and there are many who, having evil souls, are apparelled in fair bodies, or encased in wealth or rank, and, when the day of judgment arrives, numerous witnesses come forward and testify on their behalf that they have lived righteously. The judges are awed by them, and they themselves too have their clothes on when judging; their eyes and ears and their whole bodies are interposed as a veil before their own souls. All this is a hindrance to them; there are the clothes of the judges and the clothes of the judged. — What is to be done? I will tell you: — In the first place, I will deprive men of the foreknowledge of death, which they possess at present: this power which they have Prometheus has already received my orders to take from them: in the second place, they shall be entirely stripped before they are judged, for they shall be judged when they are dead; and the judge too shall be naked, that is to say, dead — he with his naked soul shall pierce into the other naked souls; and they shall die suddenly and be deprived of all their kindred, and leave their brave attire strewn upon the earth — conducted in this manner, the judgment will be just. I knew all about the matter before any of you, and therefore I have made my sons judges; two from Asia, Minos and Rhadamanthus, and one from Europe, Aeacus. And these, when they are dead, shall give judgment in the meadow at the parting of the ways, whence the two roads lead, one to the Islands of the Blessed, and the other to Tartarus. Rhadamanthus shall judge those who come from Asia, and Aeacus those who come from Europe. And to Minos I shall give the primacy, and he shall hold a court of appeal, in case either of the two others are in any doubt: — then the judgment respecting the last journey of men will be as just as possible.’
@@ -2295,6 +4563,14 @@ CALLICLES: Very well, proceed; and then we shall have done.
 From this tale, Callicles, which I have heard and believe, I draw the following inferences: — Death, if I am right, is in the first place the separation from one another of two things, [soul and body](/axes/soul_body); nothing else. And after they are separated they retain their several natures, as in life; the body keeps the same [habit](/concepts/custom), and the results of treatment or accident are distinctly visible in it: for example, he who by nature or training or both, was a tall man while he was alive, will remain as he was, after he is dead; and the fat man will remain fat; and so on; and the dead man, who in life had a fancy to have flowing hair, will have flowing hair. And if he was marked with the whip and had the prints of the scourge, or of wounds in him when he was alive, you might see the same in the dead body; and if his limbs were broken or misshapen when he was alive, the same appearance would be visible in the dead. And in a word, whatever was the habit of the body during life would be distinguishable after death, either perfectly, or in a great measure and for a certain time. And I should imagine that this is equally true of the soul, Callicles; when a man is stripped of the body, all the natural or acquired affections of the soul are laid open to view. — And when they come to the judge, as those from Asia come to Rhadamanthus, he places them near him and inspects them quite impartially, not knowing whose the soul is: perhaps he may lay hands on the soul of the great king, or of some other king or potentate, who has no soundness in him, but his soul is marked with the whip, and is full of the prints and scars of perjuries and crimes with which each action has stained him, and he is all crooked with falsehood and imposture, and has no straightness, because he has lived without truth. Him Rhadamanthus beholds, full of all deformity and disproportion, which is caused by licence and luxury and insolence and incontinence, and despatches him ignominiously to his prison, and there he undergoes the punishment which he deserves.
 
 Now the proper office of punishment is twofold: he who is rightly punished ought either to become better and profit by it, or he ought to be made an example to his fellows, that they may see what he suffers, and fear and become better. Those who are improved when they are punished by gods and men, are those whose sins are curable; and they are improved, as in this world so also in another, by pain and suffering; for there is no other way in which they can be delivered from their evil. But they who have been guilty of the worst crimes, and are incurable by reason of their crimes, are made examples; for, as they are incurable, the time has passed at which they can receive any benefit. They get no good themselves, but others get good when they behold them enduring for ever the most terrible and painful and fearful sufferings as the penalty of their sins — there they are, hanging up as examples, in the prison-house of the world below, a spectacle and a warning to all unrighteous men who come thither. And among them, as I confidently affirm, will be found Archelaus, if Polus truly reports of him, and any other tyrant who is like him. Of these fearful examples, most, as I believe, are taken from the class of tyrants and kings and potentates and public men, for they are the authors of the greatest and most impious crimes, because they have the power. And Homer witnesses to the truth of this; for they are always kings and potentates whom he has described as suffering everlasting punishment in the world below: such were Tantalus and Sisyphus and Tityus. But no one ever described Thersites, or any private person who was a villain, as suffering everlasting punishment, or as incurable. For to commit the worst crimes, as I am inclined to think, was not in his power, and he was happier than those who had the power. No, Callicles, the very bad men come from the class of those who have power (compare Republic). And yet in that very class there may arise good men, and worthy of all admiration they are, for where there is great power to do wrong, to live and to die justly is a hard thing, and greatly to be praised, and few there are who attain to this. Such good and true men, however, there have been, and will be again, at Athens and in other states, who have fulfilled their trust righteously; and there is one who is quite famous all over Hellas, Aristeides, the son of Lysimachus. But, in general, great men are also bad, my friend.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Ascolta, dunque, come dicono i narratori di storie, un raccontino assai grazioso, che oso dire tu sia disposto a considerare come una semplice favola, ma che, come io credo, è un racconto vero, poiché intendo dire la verità. Omero ci narra (nell'Iliade) come Zeus e Posidone e Plutone si divisero l'impero che avevano ereditato dal padre. Ora, ai giorni di Crono vigeva una legge riguardo al destino dell'uomo, che è sempre esistita, e tuttora continua a vigere in Cielo — che colui che ha vissuto tutta la sua vita nella giustizia e nella santità andrà, quando è morto, alle Isole dei Beati, e vi dimorerà in perfetta felicità, al riparo dal male; ma che colui che ha vissuto ingiustamente ed empiamente andrà alla casa della vendetta e del castigo, che si chiama Tartaro. E al tempo di Crono, e anche assai di recente sotto il regno di Zeus, il giudizio veniva dato il giorno stesso in cui gli uomini dovevano morire; i giudici erano vivi, e gli uomini erano vivi; e la conseguenza era che i giudizi non venivano dati bene. Allora Plutone e le autorità delle Isole dei Beati vennero da Zeus, e dissero che le anime trovavano la via verso i luoghi sbagliati. Zeus disse: «Porrò fine a questo; i giudizi non vengono dati bene, perché le persone che sono giudicate hanno addosso le loro vesti, poiché sono vive; e vi sono molti che, avendo anime malvagie, sono ammantati in bei corpi, o rivestiti di ricchezza o di rango, e, quando giunge il giorno del giudizio, numerosi testimoni si fanno avanti e attestano in loro favore che hanno vissuto rettamente. I giudici ne sono intimoriti, ed essi stessi, per giunta, hanno addosso le loro vesti nel giudicare; i loro occhi e le loro orecchie e i loro interi corpi si frappongono come un velo davanti alle loro stesse anime. Tutto ciò è per loro d'impaccio: ci sono le vesti dei giudici e le vesti dei giudicati. — Che cosa si deve fare? Te lo dirò: — In primo luogo, priverò gli uomini della prescienza della morte, che al presente posseggono: questo potere che essi hanno, Prometeo ha già ricevuto i miei ordini di toglierlo loro: in secondo luogo, saranno interamente spogliati prima di essere giudicati, poiché saranno giudicati quando saranno morti; e anche il giudice sarà nudo, vale a dire morto — egli con la sua anima nuda penetrerà nelle altre anime nude; ed essi moriranno all'improvviso e saranno privati di tutti i loro congiunti, e lasceranno le loro splendide vesti sparse sulla terra — condotto in questo modo, il giudizio sarà giusto. Io sapevo ogni cosa di questa faccenda prima di ognuno di voi, e perciò ho fatto giudici i miei figli; due dall'Asia, Minosse e Radamanto, e uno dall'Europa, Eaco. E costoro, quando saranno morti, renderanno giudizio nel prato al bivio delle vie, donde partono le due strade, una verso le Isole dei Beati, e l'altra verso il Tartaro. Radamanto giudicherà coloro che vengono dall'Asia, ed Eaco coloro che vengono dall'Europa. E a Minosse darò il primato, ed egli terrà una corte d'appello, nel caso che l'uno o l'altro dei due sia in qualche dubbio: — così il giudizio sull'ultimo viaggio degli uomini sarà quanto più giusto possibile.»
+
+Da questo racconto, Callicle, che ho udito e a cui credo, traggo le seguenti conclusioni: — La morte, se ho ragione, è anzitutto la separazione l'una dall'altra di due cose, [anima e corpo](/axes/soul_body); niente altro. E dopo che sono separate esse conservano le loro rispettive nature, come in vita; il corpo mantiene la stessa [abitudine](/concepts/custom), e i risultati del trattamento o dell'accidente vi sono distintamente visibili: per esempio, colui che per natura o per allenamento o per entrambi era un uomo alto mentre era in vita, rimarrà com'era, dopo che è morto; e l'uomo grasso rimarrà grasso; e così via; e l'uomo morto, che in vita ebbe il capriccio di portare i capelli fluenti, avrà i capelli fluenti. E se era segnato dalla frusta e portava le impronte dello staffile, o di ferite in sé quando era vivo, potresti vedere le stesse cose nel corpo morto; e se le sue membra erano spezzate o deformi quando era vivo, la stessa apparenza sarebbe visibile nel morto. E in una parola, qualunque fosse l'abitudine del corpo durante la vita sarebbe distinguibile dopo la morte, o perfettamente, o in gran misura e per un certo tempo. E immaginerei che questo sia ugualmente vero dell'anima, Callicle; quando un uomo è spogliato del corpo, tutte le affezioni naturali o acquisite dell'anima sono messe a nudo alla vista. — E quando giungono al giudice, come quelli dall'Asia giungono a Radamanto, egli li pone accanto a sé e li ispeziona con piena imparzialità, non sapendo di chi sia l'anima: forse metterà le mani sull'anima del gran re, o di qualche altro re o potentato, che non ha in sé alcuna solidità, ma la sua anima è segnata dalla frusta, ed è piena delle impronte e delle cicatrici degli spergiuri e dei delitti con cui ogni azione l'ha macchiata, ed è tutta storta per la menzogna e l'impostura, e non ha alcuna rettitudine, perché ha vissuto senza verità. Costui Radamanto contempla, pieno di ogni deformità e sproporzione, causata dalla licenza e dal lusso e dall'insolenza e dall'incontinenza, e lo spedisce ignominiosamente alla sua prigione, e là egli subisce il castigo che merita.
+
+Ora, il proprio ufficio del castigo è duplice: colui che è giustamente punito deve o diventare migliore e trarne profitto, oppure dev'essere reso un esempio ai suoi simili, affinché vedano ciò che egli patisce, e temano e diventino migliori. Coloro che sono migliorati quando sono puniti dagli dèi e dagli uomini, sono quelli i cui peccati sono curabili; ed essi sono migliorati, come in questo mondo così anche in un altro, per mezzo del dolore e della sofferenza; poiché non vi è altro modo in cui possano essere liberati dal loro male. Ma coloro che si sono resi colpevoli dei peggiori delitti, e sono incurabili in ragione dei loro delitti, sono resi esempi; poiché, essendo incurabili, è passato il tempo in cui potevano ricevere qualche beneficio. Essi non ne traggono alcun bene per sé, ma altri ne traggono bene quando li contemplano sopportare per sempre le sofferenze più terribili e dolorose e paurose come pena dei loro peccati — eccoli là, appesi come esempi, nella casa-prigione del mondo di sotto, spettacolo e monito a tutti gli uomini ingiusti che vi giungono. E tra loro, come affermo con sicurezza, si troverà Archelao, se Polo ne riferisce il vero, e qualsiasi altro tiranno che sia simile a lui. Di questi paurosi esempi, la maggior parte, come credo, è tratta dalla classe dei tiranni e dei re e dei potentati e degli uomini pubblici, poiché essi sono gli autori dei più grandi e più empi delitti, perché ne hanno il potere. E Omero testimonia la verità di ciò; poiché sono sempre re e potentati coloro che egli ha descritto come sofferenti eterno castigo nel mondo di sotto: tali erano Tantalo e Sisifo e Tizio. Ma nessuno ha mai descritto Tersite, o qualche privato cittadino che fosse un malvagio, come sofferente eterno castigo, o come incurabile. Poiché commettere i peggiori delitti, come sono incline a pensare, non era in suo potere, ed egli era più felice di coloro che ne avevano il potere. No, Callicle, gli uomini davvero malvagi provengono dalla classe di coloro che hanno il potere (cfr. Repubblica). Eppure proprio in quella classe possono sorgere uomini buoni, e ben degni di ogni ammirazione essi sono, poiché là dove vi è gran potere di fare il male, vivere e morire giustamente è cosa ardua, e grandemente da lodare, e pochi sono coloro che vi pervengono. Tali uomini buoni e veri, tuttavia, vi sono stati, e vi saranno ancora, ad Atene e in altri Stati, che hanno adempiuto rettamente il loro incarico; e ve n'è uno che è assai famoso in tutta l'Ellade, Aristide, il figlio di Lisimaco. Ma, in generale, i grandi uomini sono anche cattivi, amico mio.
 
 <span class="atom-split" data-atom="026" data-title="Parte 26" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -2307,3 +4583,15 @@ Now I, Callicles, am persuaded of the truth of these things, and I consider how 
 Perhaps this may appear to you to be only an old wife’s tale, which you will contemn. And there might be reason in your contemning such tales, if by searching we could find out anything better or truer: but now you see that you and Polus and Gorgias, who are the three wisest of the Greeks of our day, are not able to show that we ought to live any life which does not profit in another world as well as in this. And of all that has been said, nothing remains unshaken but the saying, that to do injustice is more to be avoided than to suffer injustice, and that the reality and not the appearance of virtue is to be followed above all things, as well in public as in private life; and that when any one has been wrong in anything, he is to be chastised, and that the next best thing to a man being just is that he should become just, and be chastised and punished; also that he should avoid all flattery of himself as well as of others, of the few or of the many: and rhetoric and any other art should be used by him, and all his actions should be done always, with a view to justice.
 
 Follow me then, and I will lead you where you will be happy in life and after death, as the argument shows. And never mind if some one despises you as a fool, and insults you, if he has a mind; let him strike you, by Zeus, and do you be of good cheer, and do not mind the insulting blow, for you will never come to any harm in the practice of virtue, if you are a really good and true man. When we have practised virtue together, we will apply ourselves to politics, if that seems desirable, or we will advise about whatever else may seem good to us, for we shall be better able to judge then. In our present condition we ought not to give ourselves airs, for even on the most important subjects we are always changing our minds; so utterly stupid are we! Let us, then, take the argument as our guide, which has revealed to us that the best way of life is to practise justice and every virtue in life and death. This way let us go; and in this exhort all men to follow, not in the way to which you trust and in which you exhort me to follow you; for that way, Callicles, is nothing worth.
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come dicevo, Radamanto, quando gli capita un'anima della specie cattiva, non sa nulla di lui, né chi egli sia, né chi siano i suoi genitori; sa soltanto di aver messo le mani su un malvagio; e vedendo ciò, lo bolla come curabile o incurabile, e lo manda via al Tartaro, dove egli va e riceve la giusta ricompensa. Oppure, di nuovo, guarda con ammirazione l'anima di qualche giusto che ha vissuto nella santità e nella verità; può essere stato un privato cittadino o no; e direi, Callicle, che con ogni probabilità è stato un filosofo che ha compiuto l'opera propria, e non si è dato pena delle faccende altrui durante la sua vita; costui Radamanto manda alle Isole dei Beati. Eaco fa lo stesso; ed entrambi hanno scettri, e giudicano; ma Minosse solo ha uno scettro d'oro ed è seduto a osservare, come Odisseo in Omero dichiara di averlo veduto:
+
+«Reggendo uno scettro d'oro, e dando leggi ai morti.»
+
+Ora io, Callicle, sono persuaso della verità di queste cose, e considero come presenterò la mia anima intera e immacolata davanti al giudice in quel giorno. Rinunciando agli onori a cui il mondo mira, non desidero altro che conoscere la verità, e vivere quanto meglio posso, e, quando morirò, morire quanto meglio posso. E, con tutte le mie forze, esorto tutti gli altri uomini a fare lo stesso. E, in cambio della tua esortazione a me, esorto anche te a prender parte al grande combattimento, che è il combattimento della vita, e più grande di ogni altro conflitto terreno. E ritorco il tuo rimprovero contro di me, e dico che tu non sarai in grado di aiutarti quando il giorno della prova e del giudizio, di cui parlavo, verrà su di te; andrai davanti al giudice, il figlio di Egina, e, quando ti avrà afferrato nella sua stretta e ti starà trascinando via, resterai a bocca aperta e ti girerà la testa, proprio come girerebbe la mia nei tribunali di questo mondo, e con ogni probabilità qualcuno ti prenderà vergognosamente a schiaffi sulle orecchie, e ti infliggerà ogni sorta di oltraggio.
+
+Forse questo potrà apparirti soltanto una favola da vecchierella, che tu disprezzerai. E vi potrebbe essere ragione nel tuo disprezzo di tali favole, se, cercando, potessimo trovare qualcosa di migliore o di più vero: ma ora vedi che tu e Polo e Gorgia, che siete i tre più sapienti fra i Greci dei nostri giorni, non siete in grado di mostrare che dovremmo vivere una vita che non giovi in un altro mondo tanto quanto in questo. E di tutto ciò che è stato detto, nulla rimane incrollabile se non il detto che commettere ingiustizia è più da evitarsi che subirla, e che la realtà e non l'apparenza della virtù dev'essere seguita al di sopra di ogni cosa, tanto nella vita pubblica quanto in quella privata; e che quando qualcuno ha sbagliato in qualcosa, dev'essere castigato, e che la cosa migliore, dopo l'essere giusto, è per un uomo diventare giusto, ed essere castigato e punito; e inoltre che egli deve evitare ogni adulazione, di se stesso come degli altri, dei pochi o dei molti: e la retorica e ogni altra arte devono essere da lui usate, e tutte le sue azioni devono essere compiute sempre, in vista della giustizia.
+
+Seguimi, dunque, e ti condurrò là dove sarai felice in vita e dopo la morte, come il ragionamento mostra. E non t'importi se qualcuno ti disprezza come uno sciocco, e ti insulta, se ne ha voglia; ti colpisca pure, per Zeus, e tu sii di buon animo, e non curarti del colpo oltraggioso, poiché non ti verrà mai alcun male dalla pratica della virtù, se sei un uomo davvero buono e vero. Quando avremo praticato insieme la virtù, ci applicheremo alla politica, se ciò parrà desiderabile, o daremo consiglio su qualunque altra cosa possa sembrarci buona, poiché allora saremo più capaci di giudicare. Nella nostra presente condizione non dovremmo darci arie, poiché anche sui temi più importanti mutiamo di continuo parere; tanto siamo del tutto stolti! Prendiamo, dunque, come nostra guida il ragionamento, che ci ha rivelato che il miglior modo di vivere è praticare la giustizia e ogni virtù in vita e in morte. Andiamo per questa via; e a seguirla esortiamo tutti gli uomini, non per la via in cui tu confidi e nella quale esorti me a seguirti; poiché quella via, Callicle, non vale nulla.

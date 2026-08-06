@@ -102,6 +102,88 @@ CRITO: Fear not — there are persons who are willing to get you out of prison a
 
 that you will have a difficulty in knowing what to do with yourself anywhere else. For men will love you in other places to which you may go, and not in Athens only; there are friends of mine in Thessaly, if you like to go to them, who will value and protect you, and no Thessalian will give you any trouble. Nor can I think that you are at all justified, Socrates, in betraying your own life when you might be saved; in acting thus you are playing into the hands of your enemies, who are hurrying on your destruction. And further I should say that you are deserting your own children; for you might bring them up and educate them; instead of which you go away and leave them, and they will have to take their chance; and if they do not meet with the usual fate of orphans, there will be small thanks to you. No man should bring children into the world who is unwilling to persevere to the end in their nurture and [education](/concepts/education). But you appear to be choosing the easier part, not the better and manlier, which would have been more becoming in one who professes to care for virtue in all his actions, like yourself. And indeed, I am ashamed not only of you, but of us who are your friends, when I reflect that the whole business will be attributed entirely to our want of courage. The trial need never have come on, or might have been managed differently; and this last act, or crowning folly, will seem to have occurred through our negligence and cowardice, who might have saved you, if we had been good for anything; and you might have saved yourself, for there was no difficulty at all. See now, Socrates, how sad and discreditable are the consequences, both to us and you. Make up your mind then, or rather have your mind already made up, for the time of deliberation is over, and there is only one thing to be done, which must be done this very night, and, if we delay at all, will be no longer practicable or possible; I beseech you therefore, Socrates, be persuaded by me, and do as I say.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO:
+
+[Socrate](/figures/socrates), Critone.
+
+SCENA: La prigione di Socrate
+
+.
+
+SOCRATE: Perché sei venuto a quest'ora, Critone? deve essere ancora molto presto.
+
+CRITONE: Sì, di certo.
+
+SOCRATE: Che ora è esattamente?
+
+CRITONE: Sta spuntando l'alba.
+
+SOCRATE: Mi meraviglio che il custode della prigione ti abbia lasciato entrare.
+
+CRITONE: Mi conosce, perché vengo spesso, Socrate; e per di più gli ho reso un favore.
+
+SOCRATE: E sei arrivato proprio ora?
+
+CRITONE: No, sono venuto già da un po'.
+
+SOCRATE: E allora perché ti sei seduto senza dire nulla, invece di svegliarmi subito?
+
+CRITONE: Non avrei voluto io stesso, Socrate, trovarmi in una così grande angoscia e inquietudine come quella in cui tu ti trovi — davvero non l'avrei voluto: ho osservato con stupore i tuoi placidi sonni; e per questa ragione non ti ho svegliato, perché desideravo alleviarti la pena. Ho sempre pensato che tu fossi di indole felice; ma mai vidi cosa simile alla maniera facile e tranquilla con cui sopporti questa sciagura.
+
+SOCRATE: Ebbene, Critone, quando un uomo ha raggiunto la mia età, non dovrebbe rammaricarsi dell'avvicinarsi della morte.
+
+CRITONE: Eppure altri vecchi si trovano in simili disgrazie, e l'età non impedisce loro di rammaricarsene.
+
+SOCRATE: È vero. Ma non mi hai detto perché vieni a quest'ora così mattutina.
+
+CRITONE: Vengo a portarti una notizia triste e dolorosa; non, come credo, per te stesso, ma per tutti noi che siamo tuoi amici, e più dolorosa di tutto per me.
+
+SOCRATE: Come? È giunta da Delo la nave, al cui arrivo io devo morire?
+
+CRITONE: No, la nave non è ancora giunta, ma probabilmente sarà qui oggi, poiché persone venute da Sunio mi dicono di averla lasciata là; e perciò domani, Socrate, sarà l'ultimo giorno della tua vita.
+
+SOCRATE: Ebbene, Critone; se tale è la volontà di Dio, io sono pronto; ma la mia convinzione è che vi sarà un rinvio di un giorno.
+
+CRITONE: Perché lo pensi?
+
+SOCRATE: Te lo dirò. Io devo morire il giorno dopo l'arrivo della nave?
+
+CRITONE: Sì; è ciò che dicono le autorità.
+
+SOCRATE: Ma io non penso che la nave sarà qui prima di domani; lo deduco da una visione che ho avuto stanotte, o piuttosto proprio poco fa, quando tu opportunamente mi hai lasciato dormire.
+
+CRITONE: E quale era la natura della visione?
+
+SOCRATE: Mi apparve la figura di una donna, bella e avvenente, vestita di splendide vesti, che mi chiamò e disse: O Socrate,
+
+«Il terzo giorno di qui alla fertile Ftia giungerai.» 
+
+3
+
+CRITONE: Che sogno singolare, Socrate!
+
+SOCRATE: Non vi può essere alcun dubbio sul significato, Critone, io credo.
+
+CRITONE: Sì; il significato è fin troppo chiaro. Ma, oh! mio amato Socrate, lascia che ti supplichi ancora una volta di seguire il mio consiglio e di fuggire. Ché se tu muori, io non solo perderò un amico che non potrà mai essere sostituito, ma vi è un altro male: la gente che non conosce te e me crederà che io avrei potuto salvarti se fossi stato disposto a dare del denaro, e che non me ne sono curato. Ora, può esservi disgrazia peggiore di questa — che io sia ritenuto uno che tiene al denaro più che alla vita di un amico? Ché i più non si persuaderanno che io volevo che tu fuggissi, e che sei tu a esserti rifiutato.
+
+SOCRATE: Ma perché, mio caro Critone, dovremmo curarci dell'opinione dei più? I buoni, e sono i soli che valga la pena di considerare, penseranno di queste cose secondo verità, così come sono accadute.
+
+CRITONE: Ma vedi, Socrate, che l'opinione dei più va tenuta in conto, poiché ciò che ora accade mostra che essi possono fare il più grande male a chiunque abbia perduto la loro buona opinione.
+
+SOCRATE: Vorrei solo che fosse così, Critone; e che i più potessero fare il più grande male; perché allora sarebbero anche capaci di fare il più grande bene — e che bella cosa sarebbe questa! Ma in realtà non possono fare né l'uno né l'altro; ché non possono rendere un uomo né saggio né stolto; e qualunque cosa facciano è il risultato del [caso](/concepts/fortune).
+
+CRITONE: Bene, non voglio disputare con te; ma ti prego di dirmi, Socrate, se per caso non stai agendo per riguardo verso di me e verso i tuoi altri amici: non temi che, se fuggi dalla prigione, noi possiamo trovarci in guai con i delatori per averti sottratto, e perdere o l'intera o gran parte della nostra proprietà; o che possa persino capitarci un male peggiore? Ora, se temi per causa nostra, sta' tranquillo; ché, per salvarti, dobbiamo di certo correre questo, o anche un rischio maggiore; lasciati dunque persuadere, e fa' come io dico.
+
+SOCRATE: Sì, Critone, quella è una delle paure che tu menzioni, ma non affatto l'unica.
+
+CRITONE: Non temere — vi sono persone disposte a farti uscire di prigione a non grande costo; e quanto ai delatori, sono ben lungi dall'essere esorbitanti nelle loro richieste — un po' di denaro li accontenterà. I miei mezzi, che sono certamente ampi, sono a tua disposizione, e se hai scrupolo a spendere tutto il mio, ecco qui degli stranieri che ti daranno l'uso del loro; e uno di essi, Simmia il Tebano, ha portato una grande somma di denaro proprio a questo scopo; e Cebete e molti altri sono pronti a spendere il loro denaro per aiutarti a fuggire. Dico perciò, non esitare per causa nostra, e non dire, come dicesti in tribunale 
+
+4
+
+che avrai difficoltà a sapere che fare di te stesso in qualunque altro luogo. Ché gli uomini ti ameranno anche in altri luoghi dove tu possa andare, e non ad Atene soltanto; ho amici in Tessaglia, se ti va di andare da loro, che ti stimeranno e ti proteggeranno, e nessun Tessalo ti darà noia alcuna. Né posso pensare che tu sia in alcun modo giustificato, Socrate, nel tradire la tua stessa vita quando potresti essere salvato; agendo così fai il gioco dei tuoi nemici, che affrettano la tua rovina. E inoltre direi che stai abbandonando i tuoi stessi figli; ché potresti allevarli ed educarli; invece te ne vai e li lasci, ed essi dovranno affidarsi alla sorte; e se non incontreranno il consueto destino degli orfani, poco te ne sarà reso grazie. Nessun uomo dovrebbe mettere al mondo figli se non è disposto a perseverare fino alla fine nel loro allevamento ed [educazione](/concepts/education). Ma tu sembri scegliere la parte più facile, non quella migliore e più virile, che sarebbe stata più decorosa in uno che professa di aver cura della virtù in tutte le sue azioni, come te. E in verità mi vergogno non solo di te, ma di noi che siamo tuoi amici, quando rifletto che l'intera faccenda sarà attribuita interamente alla nostra mancanza di coraggio. Il processo non avrebbe mai avuto bisogno di svolgersi, o avrebbe potuto essere gestito diversamente; e quest'ultimo atto, o culmine di follia, sembrerà essere avvenuto per la nostra negligenza e viltà, noi che avremmo potuto salvarti, se fossimo stati buoni a qualcosa; e tu avresti potuto salvare te stesso, ché non vi era alcuna difficoltà. Vedi ora, Socrate, quanto tristi e disonorevoli siano le conseguenze, tanto per noi quanto per te. Prendi dunque la tua decisione, o piuttosto abbi già la decisione presa, ché il tempo della deliberazione è finito, e vi è una sola cosa da fare, che deve esser fatta questa notte stessa, e, se indugiamo anche solo un poco, non sarà più attuabile né possibile; ti scongiuro perciò, Socrate, lasciati persuadere da me, e fa' come io dico.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Dear Crito, your zeal is invaluable, if a right one; but if wrong, the greater the zeal the greater the danger; and therefore we ought to consider whether I shall or shall not do as you say. For I am and always have been one of those natures who must be guided by reason, whatever the reason may be which upon reflection appears to me to be the best; and now that this [chance](/concepts/fortune) has befallen me, I cannot repudiate my own words: the principles which I have hitherto honoured and revered I still honour, and unless we can at once find other and better principles, I am certain not to agree with you; no, not even if the power of the multitude could inflict many more imprisonments, confiscations, deaths, frightening us like children with hobgoblin terrors. 
@@ -206,6 +288,110 @@ SOCRATES: For doing evil to another is the same as injuring him?
 
 CRITO: Very true.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Caro Critone, il tuo zelo è inestimabile, se è giusto; ma se è sbagliato, quanto maggiore lo zelo, tanto maggiore il pericolo; e perciò dobbiamo considerare se io debba o non debba fare come tu dici. Ché io sono, e sempre sono stato, uno di quelli che devono lasciarsi guidare dalla ragione, quale che sia la ragione che, dopo riflessione, mi appare la migliore; e ora che questo [caso](/concepts/fortune) mi è capitato, non posso ripudiare le mie stesse parole: i principî che finora ho onorato e riverito, io tuttora li onoro, e a meno che non riusciamo subito a trovare altri e migliori principî, di certo non sarò d'accordo con te; no, neppure se il potere della moltitudine potesse infliggere molte più prigionie, confische, morti, spaventandoci come bambini con terrori da spauracchio. 
+
+5
+
+Quale sarà il modo più giusto di considerare la questione? Devo tornare al tuo vecchio argomento sulle opinioni degli uomini? — dicevamo che alcune di esse vanno tenute in conto, e altre no. Ora, avevamo ragione a sostenere questo prima che io fossi condannato? E l'argomento che una volta era buono si è ora rivelato un parlare per il gusto di parlare — mera puerile insensatezza? È questo che voglio considerare con il tuo aiuto, Critone: — se, nelle mie presenti circostanze, l'argomento appaia in qualche modo diverso o no; e se sia da me da ammettere o da respingere. Quell'argomento, che, come credo, è sostenuto da molte persone autorevoli, era nel senso, come dicevo, che le opinioni di alcuni uomini vanno tenute in conto, e quelle di altri uomini no. Ora tu, Critone, non stai per morire domani — almeno, non ve n'è umana probabilità — e perciò sei disinteressato e non soggetto a lasciarti ingannare dalle circostanze in cui ti trovi. Dimmi dunque se ho ragione nel dire che alcune opinioni, e le opinioni di alcuni uomini soltanto, vanno apprezzate, e che altre opinioni, e le opinioni di altri uomini, non vanno apprezzate. Ti chiedo se avevo ragione nel sostenere questo?
+
+CRITONE: Certamente.
+
+SOCRATE: I buoni vanno tenuti in conto, e non i cattivi?
+
+CRITONE: Sì.
+
+SOCRATE: E le opinioni dei saggi sono buone, e le opinioni degli insensati sono cattive?
+
+CRITONE: Certamente.
+
+SOCRATE: E che cosa si diceva a proposito di un'altra questione? L'allievo che si dedica alla pratica della ginnastica si suppone che presti attenzione alla lode e al biasimo e all'opinione di ogni uomo, o di un uomo soltanto — il suo medico o istruttore, chiunque egli sia?
+
+CRITONE: Di un uomo soltanto.
+
+SOCRATE: E deve temere la censura e accogliere la lode di quell'uno soltanto, e non dei molti?
+
+CRITONE: Chiaramente sì.
+
+SOCRATE: E deve agire e allenarsi, e mangiare e bere nel modo che pare buono al suo unico maestro che ha intendimento, piuttosto che secondo l'opinione di tutti gli altri uomini messi insieme?
+
+CRITONE: Vero.
+
+SOCRATE: E se disobbedisce e trascura l'opinione e l'approvazione dell'uno, e ha riguardo per l'opinione dei molti che non hanno intendimento, non subirà egli un male?
+
+CRITONE: Certamente lo subirà.
+
+SOCRATE: E quale sarà il male, verso che cosa teso e che cosa colpirà, nella persona disobbediente?
+
+CRITONE: Chiaramente, colpirà il corpo; è questo che viene distrutto dal male.
+
+SOCRATE: Benissimo; e non è forse vero questo, Critone, di altre cose che non occorre enumerare separatamente? Nelle questioni del giusto e dell'ingiusto, del bello e del turpe, del bene e del male, che sono l'oggetto della nostra presente consultazione, dobbiamo seguire l'opinione dei molti e temerli; o l'opinione dell'unico uomo che ha intendimento? non dobbiamo temerlo e riverirlo più di tutto il resto del mondo: e se lo abbandoniamo non distruggeremo e non danneggeremo quel principio in noi che si può supporre migliorato dalla giustizia e deteriorato dall'ingiustizia — vi è un tale principio?
+
+CRITONE: Certamente vi è, Socrate.
+
+SOCRATE: Prendi un caso parallelo: — se, agendo sotto il consiglio di coloro che non hanno intendimento, distruggiamo ciò che è migliorato dalla salute ed è deteriorato dalla malattia, varrebbe la pena di vivere? E ciò che è stato distrutto è — il corpo?
+
+CRITONE: Sì.
+
+SOCRATE: Potremmo vivere, avendo un corpo malvagio e corrotto?
+
+CRITONE: Certamente no.
+
+SOCRATE: E varrà la pena di vivere, se quella parte più alta dell'uomo sarà distrutta, che è migliorata dalla giustizia e depravata dall'ingiustizia? Supponiamo forse che quel principio, quale che esso sia nell'uomo, che ha a che fare con la giustizia e l'ingiustizia, sia inferiore al corpo?
+
+CRITONE: Certamente no.
+
+SOCRATE: Più degno d'onore del corpo?
+
+CRITONE: Assai più.
+
+SOCRATE: Allora, amico mio, non dobbiamo tener conto di ciò che i molti dicono di noi; ma di ciò che egli, l'unico uomo che ha intendimento del giusto e dell'ingiusto, dirà, e di ciò che la verità dirà. E perciò tu cominci nell'errore quando consigli che dovremmo tener conto dell'opinione dei molti riguardo al giusto e all'ingiusto, al bene e al male, all'onorevole e al disonorevole.— «Ebbene,» dirà qualcuno, «ma i molti possono ucciderci.»
+
+CRITONE: Sì, Socrate; sarà chiaramente questa la risposta.
+
+SOCRATE: Ed è vero; ma tuttavia scopro con sorpresa che il vecchio argomento è saldo come sempre. E vorrei sapere se posso dire lo stesso di un'altra proposizione — che non la vita, ma una buona vita, è ciò che va soprattutto apprezzato?
+
+CRITONE: Sì, anche quella resta salda.
+
+SOCRATE: E una buona vita equivale a una vita giusta e onorevole — vale anche questo?
+
+CRITONE: Sì, vale.
+
+SOCRATE: Da queste premesse procedo a discutere la questione se io debba o non debba tentare di fuggire senza il consenso degli Ateniesi: e se ho chiaramente ragione nel fuggire, allora farò il tentativo; ma se no, me ne asterrò. Le altre considerazioni che tu menzioni, del denaro e della perdita di reputazione e del dovere di educare i propri figli, sono, temo, soltanto le dottrine della moltitudine, la quale sarebbe altrettanto pronta a restituire la gente alla vita, se ne fosse capace, quanto lo è a metterla a morte — e con altrettanto poca ragione. Ma ora, poiché l'argomento ha finora prevalso, la sola questione che rimane da considerare è se agiremo rettamente o nel fuggire o nel permettere che altri ci aiutino nella nostra fuga e pagarli con denaro e ringraziamenti, oppure se in realtà non agiremo rettamente; e in quest'ultimo caso, allora la morte o qualunque altra sciagura che possa derivare dal mio restare qui non deve essere lasciata entrare nel calcolo.
+
+CRITONE: Penso che tu abbia ragione, Socrate; come procederemo dunque?
+
+SOCRATE: Consideriamo la questione insieme, e tu o confutami se puoi, e io ne sarò convinto; oppure smetti, mio caro amico, di ripetermi che dovrei fuggire contro la volontà degli Ateniesi: ché io apprezzo grandemente i tuoi tentativi di persuadermi a farlo, ma non posso essere persuaso contro il mio stesso miglior giudizio. E ora, ti prego, considera la mia prima posizione, e prova come meglio puoi a rispondermi.
+
+CRITONE: Lo farò.
+
+SOCRATE: Dobbiamo dire che non dobbiamo mai intenzionalmente fare il male, o che in un modo dobbiamo e in un altro modo non dobbiamo fare il male, o è il fare il male sempre malvagio e disonorevole, come dicevo poc'anzi, e come è già stato da noi riconosciuto? Tutte le nostre precedenti ammissioni, che furono fatte pochi giorni or sono, sono da gettar via? E abbiamo noi, alla nostra età, ragionato seriamente l'uno con l'altro per tutta la vita solo per scoprire che non siamo migliori dei bambini? Oppure, a dispetto dell'opinione dei molti, e a dispetto delle conseguenze, migliori o peggiori che siano, insisteremo sulla verità di ciò che allora fu detto, che l'ingiustizia è sempre un male e un disonore per colui che agisce ingiustamente? Lo diremo o no?
+
+CRITONE: Sì.
+
+SOCRATE: Allora non dobbiamo commettere alcun torto?
+
+CRITONE: Certamente no.
+
+SOCRATE: Né, quando siamo offesi, offendere a nostra volta, come i molti immaginano; ché non dobbiamo offendere proprio nessuno? 
+
+6
+
+CRITONE: Chiaramente no.
+
+SOCRATE: Di nuovo, Critone, ci è lecito fare il male?
+
+CRITONE: Di certo no, Socrate.
+
+SOCRATE: E che dire del fare il male in cambio del male, che è la morale dei molti — è giusto o no?
+
+CRITONE: Non giusto.
+
+SOCRATE: Ché fare il male a un altro è la stessa cosa che offenderlo?
+
+CRITONE: Verissimo.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Then we ought not to retaliate or render evil for evil to anyone, whatever evil we may have suffered from him. But I would have you consider, Crito, whether you really mean what you are saying. For this opinion has never been held, and never will be held, by any considerable number of persons; and those who are agreed and those who are not agreed upon this point have no common ground, and can only despise one another when they see how widely they differ. Tell me, then, whether you agree with and assent to my first principle, that neither injury nor retaliation nor warding off evil by evil is ever right. And shall that be the premise of our argument? Or do you decline and dissent from this? For so I have ever thought, and continue to think; but, if you are of another opinion, let me hear what you have to say. If, however, you remain of the same mind as formerly, I will proceed to the next step.
@@ -238,6 +424,38 @@ For you never went out of the city either to see the games, except once when you
 
 8
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Dunque non dobbiamo vendicarci né rendere male per male a chicchessia, quale che sia il male che da lui abbiamo ricevuto. Ma vorrei che tu considerassi, Critone, se davvero pensi ciò che dici. Poiché questa opinione non è mai stata condivisa, né mai lo sarà, da un numero considerevole di persone; e quanti su questo punto concordano e quanti non concordano non hanno alcun terreno comune, e non possono che disprezzarsi l'un l'altro quando vedono quanto profondamente differiscono. Dimmi, dunque, se concordi e assenti al mio primo principio, che né l'ingiuria né la vendetta né il respingere il male con il male sia mai giusto. E questa sarà la premessa del nostro ragionamento? Oppure la rifiuti e dissenti da essa? Poiché così ho sempre pensato, e continuo a pensare; ma se sei di diverso avviso, fammi sentire ciò che hai da dire. Se invece rimani della stessa opinione di prima, procederò al passo successivo.
+
+CRITONE: Puoi procedere, poiché non ho mutato parere.
+
+SOCRATE: Allora passerò al punto successivo, che si può porre in forma di domanda: — Deve un uomo fare ciò che riconosce essere giusto, oppure deve tradire il giusto?
+
+CRITONE: Deve fare ciò che ritiene giusto.
+
+SOCRATE: Ma se questo è vero, quale ne è l'applicazione? Lasciando la prigione contro la volontà degli Ateniesi, faccio forse torto a qualcuno? o piuttosto non faccio torto proprio a coloro cui meno di tutti dovrei farlo? Non abbandono forse i principi che da noi furono riconosciuti giusti — che ne dici?
+
+CRITONE: Non saprei dirlo, Socrate; poiché non lo so.
+
+SOCRATE: Considera allora la cosa in questo modo: — Immagina che io stia per fuggire di nascosto (chiama pure questo atto con qualunque nome ti piaccia), e che le leggi e il governo vengano a interrogarmi: ‘Dicci, Socrate,’ dicono; ‘che cosa hai in mente? non stai forse per rovesciare, con questo tuo atto, noi — le leggi, e l'intero Stato, per quanto è in tuo potere? Immagini forse che uno Stato possa sussistere e non essere abbattuto, uno Stato in cui le decisioni della legge non hanno alcun potere, ma sono messe da parte e calpestate dai privati?’ Che cosa risponderemo, Critone, a queste e ad altre simili parole? Chiunque, e specialmente un retore, avrebbe molto da dire in difesa della legge che esige che una sentenza sia eseguita. Egli argomenterebbe che questa legge non dovrebbe essere messa da parte; e noi replicheremo forse: ‘Sì; ma [lo Stato](/concepts/state) ci ha fatto torto e ha emesso una sentenza ingiusta.’ Supponiamo che io dica questo?
+
+CRITONE: Benissimo, Socrate.
+
+SOCRATE: ‘E questo era il nostro patto con te?’ risponderebbe la legge; ‘oppure dovevi attenerti alla sentenza dello Stato?’ E se io esprimessi il mio stupore per le loro parole, la legge probabilmente aggiungerebbe: ‘Rispondi, Socrate, invece di spalancare gli occhi — tu hai l'[abitudine](/concepts/custom) di porre e di rispondere a domande. Dicci, — quale lagnanza hai da muovere contro di noi che giustifichi il tuo tentativo di distruggere noi e lo Stato? In primo luogo, non ti abbiamo forse dato l'esistenza? Tuo padre sposò tua madre con il nostro aiuto e ti generò. Di': hai qualche obiezione da sollevare contro quelle fra noi che regolano il matrimonio?’ Nessuna, risponderei. ‘O contro quelle di noi che, dopo la nascita, regolano il nutrimento e l'[educazione](/concepts/education) dei figli, nella quale anche tu fosti allevato? Non fecero bene le leggi, cui è affidata l'educazione, a comandare a tuo padre di istruirti nella musica e nella ginnastica?’ Bene, risponderei. ‘Ebbene, poiché sei stato messo al mondo e nutrito ed educato da noi, puoi negare, in primo luogo, di essere nostro figlio e nostro schiavo, come lo furono i tuoi padri prima di te? E se questo è vero, tu non sei con noi su un piede di parità; né puoi pensare di avere il diritto di fare a noi ciò che noi stiamo facendo a te. Avresti forse il diritto di percuotere o di ingiuriare o di fare qualunque altro male a tuo padre o al tuo padrone, se ne avessi uno, perché sei stato percosso o ingiuriato da lui, o hai ricevuto dalle sue mani qualche altro male? Non lo diresti. E poiché noi riteniamo giusto distruggerti, pensi di avere qualche diritto di distruggere noi a tua volta, e la tua patria per quanto è in tuo potere? Vorrai tu, o professore di vera virtù, pretendere di essere giustificato in questo? Un filosofo come te non ha saputo scoprire che la nostra patria è più degna di stima, più alta e più santa assai della madre o del padre o di qualsiasi antenato, e più da rispettare agli occhi degli dèi e degli uomini di senno? e va anche placata, e con dolcezza e reverenza supplicata quando è adirata, ancor più di un padre, e o va persuasa oppure, se non persuasa, obbedita? E quando siamo puniti da lei, sia con la prigionia sia con le percosse, la pena va sopportata in silenzio; e se ci conduce alle ferite o alla morte in battaglia, là la seguiamo come è giusto; né alcuno può cedere o ritirarsi o abbandonare il proprio posto, ma sia in battaglia sia in un tribunale, o in qualsiasi altro luogo, deve fare ciò che la sua città e la sua patria ordinano; oppure deve mutare la loro concezione di ciò che è giusto: e se non gli è lecito usare violenza contro suo padre o sua madre, tanto meno gli è lecito usare violenza contro la sua patria.’ Che risposta daremo a questo, Critone? Dicono il vero le leggi, oppure no?
+
+CRITONE: Penso di sì.
+
+SOCRATE: Allora le leggi diranno: ‘Considera, Socrate, se diciamo il vero affermando che nel tuo presente tentativo stai per farci un torto. Poiché, dopo averti messo al mondo, e nutrito ed educato, e dato a te e a ogni altro cittadino una parte di ogni bene che avevamo da offrire, noi inoltre proclamiamo a ogni Ateniese, per la libertà che gli concediamo, che se, divenuto adulto e avendo visto gli usi della città e fatta la nostra conoscenza, non è di noi soddisfatto, può andare dove gli piace portando con sé i suoi beni. Nessuna di noi leggi glielo vieterà né lo ostacolerà. Chiunque non gradisca noi e la città, e voglia emigrare in una colonia o in qualsiasi altra città, può andare dove vuole, conservando le sue proprietà. Ma colui che ha fatto esperienza del modo in cui noi amministriamo la giustizia e governiamo lo Stato, e nondimeno rimane, ha stretto un contratto implicito che farà come gli comandiamo. E colui che ci disobbedisce è, come sosteniamo, tre volte in colpa; primo, perché disobbedendo a noi disobbedisce ai suoi genitori; secondo, perché noi siamo gli artefici della sua educazione; terzo, perché ha convenuto con noi che avrebbe debitamente obbedito ai nostri comandi; ed egli né obbedisce né ci convince che i nostri comandi siano ingiusti; e noi non li imponiamo con rudezza, ma gli offriamo l'alternativa fra l'obbedire o il convincerci; — questo è ciò che offriamo, ed egli non fa né l'una né l'altra cosa. Queste sono le accuse alle quali, come dicevamo, tu, Socrate, ti esporrai se porterai a compimento le tue intenzioni; tu, sopra tutti gli altri Ateniesi.’
+
+Supponiamo ora che io chieda: perché io piuttosto di chiunque altro? mi ribatteranno giustamente che io sopra tutti gli altri uomini ho riconosciuto il patto. ‘Vi è chiara prova,’ diranno, ‘Socrate, che noi e la città non ti eravamo sgraditi. Di tutti gli Ateniesi tu sei stato il più assiduo abitante della città, la quale, poiché non la lasci mai, si può supporre che tu ami. 
+
+7
+
+Poiché non uscisti mai dalla città né per assistere ai giochi, salvo una volta che andasti all'Istmo, né in alcun altro luogo se non quando eri in servizio militare; né viaggiasti come fanno gli altri uomini. Né avesti mai curiosità di conoscere altri Stati o le loro leggi: i tuoi affetti non andarono oltre noi e il nostro Stato; noi eravamo i tuoi prediletti, e ti compiacevi del nostro governo su di te; e qui in questa città generasti i tuoi figli, il che è prova della tua soddisfazione. Inoltre, avresti potuto, nel corso del processo, se avessi voluto, fissare la pena nell'esilio; lo Stato che ora rifiuta di lasciarti andare ti avrebbe allora lasciato andare. Ma tu fingesti di preferire la morte all'esilio, 
+
+8
+
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 and that you were not unwilling to die. And now you have forgotten these fine sentiments, and pay no respect to us the laws, of whom you are the destroyer; and are doing what only a miserable slave would do, running away and turning your back upon the compacts and agreements which you made as a citizen. And first of all answer this very question: Are we right in saying that you agreed to be governed according to us in deed, and not in word only? Is that true or not?’ How shall we answer, Crito? Must we not assent?
@@ -255,3 +473,21 @@ This, dear Crito, is the voice which I seem to hear murmuring in my ears, like t
 CRITO: I have nothing to say, Socrates.
 
 SOCRATES: Leave me then, Crito, to fulfil the will of God, and to follow whither he leads.
+
+<span class="qlang-split" data-lang="it"></span>
+
+e che non eri restio a morire. E ora hai dimenticato questi bei sentimenti, e non porti alcun rispetto a noi leggi, di cui sei il distruttore; e fai ciò che solo un misero schiavo farebbe, fuggendo e voltando le spalle ai patti e agli accordi che stringesti come cittadino. E per prima cosa rispondi proprio a questa domanda: Abbiamo ragione nel dire che convenisti di essere governato secondo noi con i fatti, e non con le sole parole? È vero questo o no?’ Come risponderemo, Critone? Non dobbiamo forse assentire?
+
+CRITONE: Non possiamo farne a meno, [Socrate](/figures/socrates).
+
+SOCRATE: Allora non diranno forse: ‘Tu, Socrate, stai infrangendo i patti e gli accordi che stringesti con noi a tuo agio, non in fretta né sotto alcuna costrizione o inganno, ma dopo aver avuto settant'anni per rifletterci, durante i quali fosti libero di lasciare la città, se non eravamo di tuo gradimento, o se i nostri patti ti apparivano iniqui. Avesti la tua scelta, e avresti potuto andare o a Lacedemone o a Creta, entrambi Stati che spesso lodi per il loro buon governo, o in qualche altro Stato ellenico o straniero. Mentre tu, sopra tutti gli altri Ateniesi, sembravi così affezionato [allo Stato](/concepts/state), o, in altre parole, a noi, sue leggi (e chi si curerebbe di uno Stato privo di leggi?), che mai ti allontanasti da lei; lo zoppo, il cieco, lo storpio non erano più stabili in essa di quanto lo fossi tu. E ora fuggi e abbandoni i tuoi accordi. Non così, Socrate, se vorrai seguire il nostro consiglio; non renderti ridicolo fuggendo dalla città.
+
+‘Poiché considera solo, se trasgredisci ed erri in questo modo, quale bene farai a te stesso o ai tuoi amici? Che i tuoi amici saranno spinti in esilio e privati della cittadinanza, o perderanno le loro proprietà, è pressoché certo; e tu stesso, se fuggi in una delle città vicine, come per esempio Tebe o Megara, entrambe ben governate, vi giungerai come nemico, Socrate, e il loro governo ti sarà avverso, e tutti i cittadini patrioti ti guarderanno con occhio malevolo come un sovvertitore delle leggi, e confermerai nella mente dei giudici la giustizia della loro stessa condanna nei tuoi confronti. Poiché chi è corruttore delle leggi è quanto mai probabile che sia corruttore dei giovani e della parte sciocca dell'umanità. Fuggirai dunque dalle città ben ordinate e dagli uomini virtuosi? e vale la pena di esistere a queste condizioni? Oppure andrai da loro senza vergogna, e parlerai con loro, Socrate? E che cosa dirai loro? Ciò che dici qui, che la virtù e la giustizia e le istituzioni e le leggi sono le cose migliori tra gli uomini? Sarebbe decoroso da parte tua? Certo che no. Ma se te ne vai da Stati ben governati verso gli amici di Critone in Tessaglia, dove regnano grande disordine e licenza, essi saranno lieti di udire il racconto della tua fuga dalla prigione, ornato dei ridicoli particolari del modo in cui fosti avvolto in una pelle di capra o in qualche altro travestimento, e trasformato come è costume dei fuggiaschi; ma non vi sarà nessuno a ricordarti che nella tua vecchiaia non ti vergognasti di violare le leggi più sacre per un misero desiderio di un po' più di vita? Forse no, se li terrai di buon umore; ma se sono di cattivo umore udrai molte cose degradanti; vivrai, ma come? — come adulatore di tutti gli uomini, e servo di tutti gli uomini; e facendo che cosa? — mangiando e bevendo in Tessaglia, essendo andato all'estero per poterti procurare una cena. E dove saranno i tuoi bei sentimenti sulla giustizia e la virtù? Dirai che desideri vivere per amore dei tuoi figli — vuoi allevarli ed educarli — li porterai in Tessaglia e li priverai della cittadinanza ateniese? È questo il beneficio che conferirai loro? Oppure sei nella convinzione che saranno meglio accuditi ed educati qui se sei ancora vivo, benché lontano da loro; poiché i tuoi amici si prenderanno cura di loro? Immagini che se sei abitante della Tessaglia essi se ne prenderanno cura, e se sei abitante dell'altro mondo non se ne prenderanno cura? No; ma se coloro che si dicono amici valgono qualcosa, se ne prenderanno cura — di certo lo faranno.
+
+‘Ascolta, dunque, Socrate, noi che ti abbiamo allevato. Non pensare prima alla vita e ai figli, e alla giustizia dopo, ma prima alla giustizia, affinché tu possa essere giustificato dinanzi ai principi del mondo di sotto. Poiché né tu né alcuno dei tuoi sarà più felice o più santo o più giusto in questa vita, o più felice in un'altra, se fai come ti esorta Critone. Ora tu parti innocente, avendo sofferto e non commesso il male; vittima, non delle leggi, ma degli uomini. Ma se te ne vai, rendendo male per male, e ingiuria per ingiuria, infrangendo i patti e gli accordi che hai stretto con noi, e facendo torto a coloro cui meno di tutti dovresti farlo, vale a dire a te stesso, ai tuoi amici, alla tua patria e a noi, saremo adirate con te finché vivi, e le nostre sorelle, le leggi del mondo di sotto, ti riceveranno come nemico; poiché sapranno che hai fatto del tuo meglio per distruggerci. Ascolta, dunque, noi e non Critone.’
+
+Questa, caro Critone, è la voce che mi pare di udire mormorare nei miei orecchi, come il suono del flauto negli orecchi del mistico; quella voce, dico, ronza nei miei orecchi, e mi impedisce di udire qualsiasi altra cosa. E so che qualunque altra cosa tu possa dire sarà vana. Pure, parla, se hai qualcosa da dire.
+
+CRITONE: Non ho nulla da dire, Socrate.
+
+SOCRATE: Lasciami dunque, Critone, adempiere la volontà di Dio, e seguire dove egli mi conduce.

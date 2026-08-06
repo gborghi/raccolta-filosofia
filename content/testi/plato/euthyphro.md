@@ -100,6 +100,86 @@ SOCRATES: Rare friend! I think that I cannot do better than be your disciple. Th
 
 EUTHYPHRO: Yes, indeed, Socrates; and if he attempts to indict me I am mistaken if I do not find a flaw in him; the court shall have a great deal more to say to him than to me.
 
+<span class="qlang-split" data-lang="it"></span>
+
+PERSONAGGI DEL DIALOGO: [Socrate](/figures/socrates), Eutifrone.
+
+SCENA: Il Portico dell'Arconte Re.
+
+EUTIFRONE: Perché hai lasciato [il Liceo](/schools/lyceum), Socrate? e che fai qui nel Portico dell'Arconte Re? Di certo non puoi essere coinvolto in una causa davanti al Re, come me?
+
+SOCRATE: Non in una causa, Eutifrone; imputazione è la parola che gli Ateniesi usano.
+
+EUTIFRONE: Come! Suppongo che qualcuno ti abbia intentato un processo, poiché non posso credere che tu sia l'accusatore di un altro.
+
+SOCRATE: Certamente no.
+
+EUTIFRONE: Allora qualcun altro ti ha intentato un processo?
+
+SOCRATE: Sì.
+
+EUTIFRONE: E chi è?
+
+SOCRATE: Un giovane poco noto, Eutifrone; e a malapena lo conosco: il suo nome è Meleto, ed è del demo di Pitto. Forse ricorderai il suo aspetto; ha un naso adunco, e lunghi capelli lisci, e una barba mal cresciuta.
+
+EUTIFRONE: No, non lo ricordo, Socrate. Ma qual è l'accusa che ti muove?
+
+SOCRATE: Qual è l'accusa? Ebbene, un'accusa assai grave, che rivela non poco carattere nel giovane, e per la quale certo non è da disprezzare. Egli dice di sapere come i giovani sono corrotti e chi sono i loro corruttori. Immagino che debba essere un uomo sapiente, e vedendo che io sono il rovescio di un uomo sapiente, mi ha scoperto, e sta per accusarmi di corrompere i suoi giovani amici. E di questo nostra madre [lo Stato](/concepts/state) dev'essere il giudice. Di tutti i nostri uomini politici è l'unico che mi sembra cominciare nel modo giusto, con la coltivazione della virtù nella gioventù; come un buon agricoltore, egli fa dei giovani germogli la sua prima cura, e spazza via noi che ne siamo i distruttori. Questo è solo il primo passo; in seguito si occuperà dei rami più anziani; e se procede come ha cominciato, sarà un grandissimo benefattore pubblico.
+
+EUTIFRONE: Lo spero; ma piuttosto temo, Socrate, che il contrario risulterà essere la verità. La mia opinione è che nell'attaccare te egli miri semplicemente a un colpo alle fondamenta dello Stato. Ma in che modo dice che tu corrompi i giovani?
+
+SOCRATE: Muove contro di me un'accusa straordinaria, che a primo udire desta sorpresa: dice che io sono un poeta o fabbricante di dèi, e che invento nuovi dèi e nego l'esistenza di quelli antichi; questo è il fondamento della sua imputazione.
+
+EUTIFRONE: Capisco, Socrate; intende attaccarti riguardo al segno familiare che occasionalmente, come dici, ti viene. Pensa che tu sia un neologo, e sta per trascinarti davanti al tribunale per questo. Sa che una tale accusa è prontamente accolta dal mondo, come io stesso so troppo bene; poiché quando parlo nell'assemblea di cose divine, e predico loro il futuro, ridono di me e mi credono un pazzo. Eppure ogni parola che dico è vera. Ma sono gelosi di tutti noi; e dobbiamo essere coraggiosi e affrontarli.
+
+SOCRATE: La loro risata, amico Eutifrone, non è cosa di gran conto. Poiché un uomo può essere ritenuto sapiente; ma gli Ateniesi, sospetto, non si danno gran pensiero di lui finché non comincia a impartire la sua sapienza ad altri, e allora per qualche ragione o l'altra, forse, come dici, per gelosia, si adirano.
+
+EUTIFRONE: È ben difficile che io metta alla prova il loro umore in questo modo.
+
+SOCRATE: Immagino di no, poiché sei riservato nel tuo comportamento, e di rado impartisci la tua sapienza. Ma io ho la benevola [abitudine](/concepts/custom) di riversarmi verso tutti, e pagherei persino per avere un ascoltatore, e temo che gli Ateniesi possano ritenermi troppo loquace. Ora se, come dicevo, si limitassero a ridere di me, come dici che ridono di te, il tempo potrebbe passare abbastanza allegramente in tribunale; ma forse potrebbero fare sul serio, e allora quale sarà la fine solo voi indovini potete predirlo.
+
+EUTIFRONE: Immagino che la faccenda finirà in nulla, Socrate, e che vincerai la tua causa; e penso che vincerò la mia.
+
+SOCRATE: E qual è la tua causa, Eutifrone? sei tu l'attore o il convenuto?
+
+EUTIFRONE: Sono l'attore.
+
+SOCRATE: Di chi?
+
+EUTIFRONE: Mi crederai pazzo quando te lo dirò.
+
+SOCRATE: Perché, il fuggitivo ha forse le ali?
+
+EUTIFRONE: No, non è molto volatile alla sua età.
+
+SOCRATE: Chi è?
+
+EUTIFRONE: Mio padre.
+
+SOCRATE: Tuo padre! mio buon uomo?
+
+EUTIFRONE: Sì.
+
+SOCRATE: E di che cosa è accusato?
+
+EUTIFRONE: Di omicidio, Socrate.
+
+SOCRATE: Per gli dèi, Eutifrone! quanto poco sa il volgo della natura del giusto e del vero. Un uomo dev'essere straordinario, e aver fatto grandi progressi nella sapienza, prima di poter vedere la via per intentare una tale azione.
+
+EUTIFRONE: Davvero, Socrate, dev'esserlo.
+
+SOCRATE: Suppongo che l'uomo ucciso da tuo padre fosse uno dei tuoi parenti — chiaramente lo era; poiché se fosse stato un estraneo non avresti mai pensato di intentargli un processo.
+
+EUTIFRONE: Mi diverto, Socrate, del fatto che tu faccia una distinzione tra chi è parente e chi non lo è; poiché di certo la contaminazione è la medesima in entrambi i casi, se consapevolmente ti associ all'omicida quando dovresti purificare te stesso e lui procedendo contro di lui. La vera questione è se l'uomo ucciso sia stato giustamente ucciso. Se giustamente, allora il tuo dovere è lasciar stare la cosa; ma se ingiustamente, allora anche se l'omicida vive sotto il tuo stesso tetto e mangia alla tua stessa tavola, procedi contro di lui. Ora l'uomo che è morto era un povero mio dipendente che lavorava per noi come bracciante nella nostra fattoria di Nasso, e un giorno in un impeto d'ira da ubriaco venne a lite con uno dei nostri servi domestici e lo uccise. Mio padre lo legò mani e piedi e lo gettò in un fosso, e poi mandò ad Atene a chiedere a un indovino che cosa dovesse farne. Nel frattempo non gli badò affatto e non se ne prese alcuna cura, poiché lo considerava un omicida; e pensava che nessun gran danno sarebbe stato fatto anche se fosse morto. Ora questo è proprio ciò che accadde. Poiché tale fu l'effetto del freddo e della fame e delle catene su di lui, che prima che il messaggero tornasse dall'indovino, egli era morto. E mio padre e la mia famiglia sono in collera con me per aver preso le parti dell'omicida e per aver intentato un processo a mio padre. Dicono che egli non lo uccise, e che se anche lo uccise, il morto non era che un omicida, e io non dovrei farci caso, poiché è empio un figlio che intenta un processo al padre. Il che mostra, Socrate, quanto poco essi sappiano ciò che gli dèi pensano della pietà e dell'empietà.
+
+SOCRATE: Santo cielo, Eutifrone! e la tua conoscenza della religione e delle cose pie ed empie è così esatta, che, supponendo le circostanze siano come tu le esponi, non temi di poter fare anche tu una cosa empia nell'intentare un'azione contro tuo padre?
+
+EUTIFRONE: Il meglio di Eutifrone, e ciò che lo distingue, Socrate, dagli altri uomini, è la sua esatta conoscenza di tutte queste materie. A che cosa sarei buono senza di essa?
+
+SOCRATE: Raro amico! Penso di non poter far di meglio che diventare tuo discepolo. Allora prima che il processo con Meleto abbia luogo lo sfiderò, e dirò che ho sempre avuto un grande interesse per le questioni religiose, e ora, poiché egli mi accusa di temerarie fantasie e innovazioni in religione, sono divenuto tuo discepolo. Tu, Meleto, come gli dirò, riconosci Eutifrone come un grande teologo, e sano nelle sue opinioni; e se lo approvi dovresti approvare me, e non trascinarmi in tribunale; ma se lo disapprovi, dovresti cominciare col mettere sotto accusa colui che è mio maestro, e che sarà la rovina, non dei giovani, ma dei vecchi; vale a dire, di me stesso che egli istruisce, e del suo vecchio padre che ammonisce e castiga. E se Meleto rifiuta di ascoltarmi, ma vuole procedere, e non vuole spostare l'accusa da me a te, non posso far di meglio che ripetere questa sfida in tribunale.
+
+EUTIFRONE: Sì, davvero, Socrate; e se tenta di mettermi sotto accusa m'inganno se non trovo un difetto in lui; il tribunale avrà molto più da dire a lui che a me.
+
 <span class="atom-split" data-atom="002" data-title="Parte 2" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): And I, my dear friend, knowing this, am desirous of becoming your disciple. For I observe that no one appears to notice you — not even this Meletus; but his sharp eyes have found me out at once, and he has indicted me for impiety. And therefore, I adjure you to tell me the nature of piety and impiety, which you said that you knew so well, and of murder, and of other offences against the gods. What are they? Is not piety in every action always the same? and impiety, again — is it not always the opposite of piety, and also the same with itself, having, as impiety, one notion which includes whatever is impious?
@@ -206,6 +286,112 @@ SOCRATES: But do they admit their guilt, Euthyphro, and yet say that they ought 
 
 EUTHYPHRO: No; they do not.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): E io, mio caro amico, sapendo questo, desidero diventare tuo discepolo. Poiché osservo che nessuno pare accorgersi di te — nemmeno questo Meleto; ma i suoi occhi acuti hanno scoperto me all'istante, e mi ha messo sotto accusa per empietà. E perciò ti scongiuro di dirmi la natura della pietà e dell'empietà, che dicevi di conoscere così bene, e dell'omicidio, e di altre offese contro gli dèi. Quali sono? Non è la pietà in ogni azione sempre la medesima? e l'empietà, di nuovo — non è sempre l'opposto della pietà, e anche identica a sé stessa, avendo, in quanto empietà, una nozione che include tutto ciò che è empio?
+
+EUTIFRONE: Di certo, Socrate.
+
+SOCRATE: E che cos'è la pietà, e che cos'è l'empietà?
+
+EUTIFRONE: La pietà è fare ciò che io faccio; vale a dire, perseguire chiunque sia colpevole di omicidio, sacrilegio, o di un simile delitto — che sia tuo padre o tua madre, o chiunque egli sia — questo non fa differenza; e non perseguirli è empietà. E ti prego di considerare, Socrate, quale notevole prova ti darò della verità delle mie parole, una prova che ho già dato ad altri: — del principio, intendo, che l'empio, chiunque egli sia, non deve restare impunito. Poiché non considerano forse gli uomini Zeus come il migliore e il più giusto degli dèi? — eppure ammettono che egli incatenò suo padre (Crono) perché malvagiamente aveva divorato i suoi figli, e che questi a sua volta aveva punito il proprio padre (Urano) per una simile ragione, in un modo che non si può nominare. Eppure quando io procedo contro mio padre, si adirano con me. Così incoerenti sono nel loro modo di parlare quando si tratta degli dèi, e quando si tratta di me.
+
+SOCRATE: Non può essere questa la ragione, Eutifrone, per cui sono accusato di empietà — che non sopporto queste storie sugli dèi? e perciò suppongo che la gente mi ritenga in errore. Ma, poiché tu che ne sei ben informato le approvi, non posso far di meglio che assentire alla tua superiore sapienza. Che altro posso dire, confessando come faccio, che di esse non so nulla? Dimmi, per l'amore di Zeus, se credi davvero che siano vere.
+
+EUTIFRONE: Sì, Socrate; e cose ancor più meravigliose, di cui il mondo è all'oscuro.
+
+SOCRATE: E credi davvero che gli dèi combatterono l'uno contro l'altro, ed ebbero terribili litigi, battaglie, e simili, come dicono i poeti, e come puoi vedere raffigurato nelle opere di grandi artisti? I templi ne sono pieni; e in particolare il peplo di Atena, che viene portato in alto all'Acropoli durante le grandi Panatenee, ne è ricamato. Sono tutti veri questi racconti sugli dèi, Eutifrone?
+
+EUTIFRONE: Sì, Socrate; e, come dicevo, posso raccontarti, se ti piacesse udirle, molte altre cose sugli dèi che ti stupirebbero non poco.
+
+SOCRATE: Immagino; e me le racconterai in qualche altro momento quando avrò agio. Ma proprio ora preferirei udire da te una risposta più precisa, che non hai ancora dato, amico mio, alla domanda: Che cos'è la 'pietà'? Interrogato, hai solo risposto: Fare ciò che tu fai, accusando tuo padre di omicidio.
+
+EUTIFRONE: E ciò che ho detto era vero, Socrate.
+
+SOCRATE: Senza dubbio, Eutifrone; ma ammetterai che vi sono molti altri atti pii?
+
+EUTIFRONE: Ve ne sono.
+
+SOCRATE: Ricorda che non ti ho chiesto di darmi due o tre esempi di pietà, ma di spiegare l'idea generale che rende pie tutte le cose pie. Non rammenti che vi era un'unica idea che rendeva empio l'empio, e pio il pio?
+
+EUTIFRONE: Rammento.
+
+SOCRATE: Dimmi qual è la natura di questa idea, e allora avrò uno standard cui guardare, e col quale potrò misurare le azioni, siano le tue o quelle di chiunque altro, e allora potrò dire che tale e tale azione è pia, tale altra empia.
+
+EUTIFRONE: Te lo dirò, se ti piace.
+
+SOCRATE: Mi piacerebbe moltissimo.
+
+EUTIFRONE: La pietà, dunque, è ciò che è caro agli dèi, e l'empietà è ciò che non è loro caro.
+
+SOCRATE: Benissimo, Eutifrone; mi hai ora dato il genere di risposta che volevo. Ma se ciò che dici sia vero o no non posso ancora dirlo, benché non dubiti che proverai la verità delle tue parole.
+
+EUTIFRONE: Naturalmente.
+
+SOCRATE: Vieni, dunque, ed esaminiamo ciò che diciamo. Quella cosa o persona che è cara agli dèi è pia, e quella cosa o persona che è odiosa agli dèi è empia, essendo questi due gli estremi opposti l'uno dell'altro. Non è stato detto così?
+
+EUTIFRONE: Lo è stato.
+
+SOCRATE: E ben detto?
+
+EUTIFRONE: Sì, Socrate, così pensavo; è stato certo detto.
+
+SOCRATE: E inoltre, Eutifrone, si è ammesso che gli dèi abbiano inimicizie e odi e differenze?
+
+EUTIFRONE: Sì, anche questo è stato detto.
+
+SOCRATE: E qual sorta di differenza crea inimicizia e [collera](/concepts/anger)? Supponi per esempio che tu e io, mio buon amico, siamo in disaccordo su un numero; differenze di questa sorta ci rendono nemici e ci mettono in contrasto l'uno con l'altro? Non ricorriamo subito all'aritmetica, e non vi poniamo fine con un calcolo?
+
+EUTIFRONE: Vero.
+
+SOCRATE: O supponi che siamo in disaccordo su grandezze, non poniamo rapidamente fine alle differenze misurando?
+
+EUTIFRONE: Verissimo.
+
+SOCRATE: E poniamo fine a una controversia sul pesante e il leggero ricorrendo a una bilancia?
+
+EUTIFRONE: Di certo.
+
+SOCRATE: Ma quali differenze vi sono che non possono essere così decise, e che perciò ci fanno adirare e ci mettono in inimicizia l'uno con l'altro? Immagino che la risposta non ti venga in mente al momento, e perciò suggerirò che queste inimicizie sorgono quando le materie del contendere sono il giusto e l'ingiusto, il bene e il male, l'onorevole e il disonorevole. Non sono questi i punti sui quali gli uomini differiscono, e sui quali, quando non riusciamo a decidere in modo soddisfacente le nostre differenze, tu e io e tutti noi litighiamo, quando litighiamo? (Confronta Alcib.)
+
+EUTIFRONE: Sì, Socrate, la natura delle differenze sulle quali litighiamo è tale quale tu la descrivi.
+
+SOCRATE: E i litigi degli dèi, nobile Eutifrone, quando avvengono, sono di simile natura?
+
+EUTIFRONE: Certamente lo sono.
+
+SOCRATE: Hanno differenze di opinione, come dici, sul bene e sul male, sul giusto e sull'ingiusto, sull'onorevole e sul disonorevole: non vi sarebbero stati litigi tra loro, se non vi fossero state tali differenze — non è così?
+
+EUTIFRONE: Hai perfettamente ragione.
+
+SOCRATE: Non ama ogni uomo ciò che ritiene nobile e giusto e buono, e non odia l'opposto di queste cose?
+
+EUTIFRONE: Verissimo.
+
+SOCRATE: Ma, come dici, la gente considera le medesime cose, alcuni come giuste e altri come ingiuste, — su queste disputano; e così sorgono guerre e contese tra loro.
+
+EUTIFRONE: Verissimo.
+
+SOCRATE: Allora le medesime cose sono odiate dagli dèi e amate dagli dèi, e sono a essi al tempo stesso odiose e care?
+
+EUTIFRONE: Vero.
+
+SOCRATE: E in questa prospettiva le medesime cose, Eutifrone, saranno pie e anche empie?
+
+EUTIFRONE: Così suppongo.
+
+SOCRATE: Allora, amico mio, osservo con sorpresa che non hai risposto alla domanda che ti ho posto. Poiché di certo non ti ho chiesto di dirmi quale azione sia al tempo stesso pia ed empia: ma ora parrebbe che ciò che è amato dagli dèi sia anche da essi odiato. E perciò, Eutifrone, nel castigare così tuo padre potresti benissimo fare ciò che è gradito a Zeus ma sgradito a Crono o a Urano, e ciò che è accetto a Efesto ma inaccettabile a Era, e potrebbero esservi altri dèi che nutrono simili differenze di opinione.
+
+EUTIFRONE: Ma io credo, Socrate, che tutti gli dèi sarebbero concordi quanto all'opportunità di punire un omicida: non vi sarebbe differenza di opinione su questo.
+
+SOCRATE: Ebbene, ma parlando degli uomini, Eutifrone, hai mai udito qualcuno argomentare che un omicida o qualsiasi sorta di malfattore debba essere lasciato libero?
+
+EUTIFRONE: Direi piuttosto che queste sono le questioni che sempre argomentano, specialmente nei tribunali: commettono ogni sorta di crimini, e non c'è nulla che non facciano o dicano in propria difesa.
+
+SOCRATE: Ma ammettono la loro colpa, Eutifrone, e tuttavia dicono che non dovrebbero essere puniti?
+
+EUTIFRONE: No; non lo fanno.
+
 <span class="atom-split" data-atom="003" data-title="Parte 3" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): Then there are some things which they do not venture to say and do: for they do not venture to argue that the guilty are to be unpunished, but they deny their guilt, do they not?
@@ -307,6 +493,108 @@ EUTHYPHRO: True.
 SOCRATES: But, friend Euthyphro, if that which is holy is the same with that which is dear to God, and is loved because it is holy, then that which is dear to God would have been loved as being dear to God; but if that which is dear to God is dear to him because loved by him, then that which is holy would have been holy because loved by him. But now you see that the reverse is the case, and that they are quite different from one another. For one (theophiles) is of a kind to be loved cause it is loved, and the other (osion) is loved because it is of a kind to be loved. Thus you appear to me, Euthyphro, when I ask you what is the essence of holiness, to offer an attribute only, and not the essence — the attribute of being loved by all the gods. But you still refuse to explain to me the nature of holiness. And therefore, if you please, I will ask you not to hide your treasure, but to tell me once more what holiness or piety really is, whether dear to the gods or not (for that is a matter about which we will not quarrel); and what is impiety?
 
 EUTHYPHRO: I really do not know, Socrates, how to express what I mean. For somehow or other our arguments, on whatever ground we rest them, seem to turn round and walk away from us.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Vi sono dunque alcune cose che non osano dire né fare: infatti non osano sostenere che i colpevoli debbano restare impuniti, ma negano la propria colpa, non è vero?
+
+EUTIFRONE: Sì.
+
+SOCRATE: Non sostengono dunque che il malfattore non debba essere punito, ma discutono sul fatto di chi sia il malfattore, di ciò che ha fatto e di quando lo ha fatto?
+
+EUTIFRONE: È vero.
+
+SOCRATE: E gli dèi si trovano nel medesimo caso, se, come tu affermi, sono in disaccordo sul giusto e sull'ingiusto, e alcuni di loro sostengono, mentre altri negano, che tra loro si commetta ingiustizia. Certo, infatti, né un dio né un uomo oserà mai dire che colui che commette ingiustizia non debba essere punito.
+
+EUTIFRONE: Questo, Socrate, è vero nel complesso.
+
+SOCRATE: Ma è sui particolari che vengono a contesa — tanto gli dèi quanto gli uomini; e, se mai disputano, disputano intorno a qualche atto messo in questione, che da alcuni è affermato giusto, da altri ingiusto. Non è così?
+
+EUTIFRONE: Verissimo.
+
+SOCRATE: Ebbene, mio caro Eutifrone, dimmi dunque, per mia migliore istruzione e conoscenza, quale prova hai che, secondo l'opinione di tutti gli dèi, un servo colpevole di omicidio, messo in catene dal padrone dell'ucciso, e morto perché posto in catene prima che colui che lo aveva legato potesse apprendere dagli interpreti degli dèi che cosa dovesse farne, sia morto ingiustamente; e che in difesa di un tale uomo un figlio debba procedere contro il proprio padre e accusarlo di omicidio. Come mostreresti che tutti gli dèi concordano in modo assoluto nell'approvare il suo atto? Provami che è così, e loderò la tua saggezza finché avrò vita.
+
+EUTIFRONE: Sarà un'impresa difficile; ma potrei renderti la cosa davvero chiarissima.
+
+SOCRATE: Capisco; vuoi dire che non sono pronto a comprendere quanto i giudici: perché ad essi saprai certamente provare che l'atto è ingiusto e odioso agli dèi.
+
+EUTIFRONE: Sì davvero, Socrate; almeno se vorranno ascoltarmi.
+
+SOCRATE: Ma ti ascolteranno di certo, se troveranno che sei un buon oratore. Mentre parlavi, mi è venuto in mente un pensiero; e ho detto tra me: ‘Ebbene, e quand'anche Eutifrone mi provasse che tutti gli dèi ritennero ingiusta la morte del servo, che cosa saprei di più intorno alla natura della pietà e dell'empietà? Poiché, pur ammesso che questa azione possa essere odiosa agli dèi, la pietà e l'empietà non restano tuttavia adeguatamente definite da tali distinzioni, giacché ciò che è odioso agli dèi si è mostrato essere anche gradito e caro ad essi.’ E perciò, Eutifrone, non ti chiedo di provare questo; supporrò, se vuoi, che tutti gli dèi condannino e aborriscano una simile azione. Ma correggerò la definizione fino a dire che ciò che tutti gli dèi odiano è empio, e ciò che amano è pio o santo; e ciò che alcuni di loro amano e altri odiano è l'uno e l'altro insieme, o né l'uno né l'altro. Sarà questa la nostra definizione di pietà ed empietà?
+
+EUTIFRONE: Perché no, Socrate?
+
+SOCRATE: Perché no! Certo, per quanto mi riguarda, Eutifrone, non c'è ragione perché no. Ma se questa concessione ti sarà di grande aiuto nel compito di istruirmi come hai promesso, è cosa che spetta a te considerare.
+
+EUTIFRONE: Sì, direi che ciò che tutti gli dèi amano è pio e santo, e il contrario, che tutti odiano, è empio.
+
+SOCRATE: Dobbiamo indagare la verità di ciò, Eutifrone, o semplicemente accettare la mera affermazione sull'autorità nostra e di altri? Che ne dici?
+
+EUTIFRONE: Dobbiamo indagare; e credo che l'affermazione reggerà alla prova dell'indagine.
+
+SOCRATE: Lo sapremo meglio, mio buon amico, tra poco. Il punto che vorrei anzitutto comprendere è se il pio, ossia il santo, sia amato dagli dèi perché è santo, oppure sia santo perché è amato dagli dèi.
+
+EUTIFRONE: Non comprendo che cosa intendi, Socrate.
+
+SOCRATE: Cercherò di spiegarmi: noi parliamo del portare e parliamo dell'essere portato, del condurre e dell'essere condotto, del vedere e dell'essere veduto. Tu sai che in tutti questi casi vi è una differenza, e sai anche in che cosa consista la differenza?
+
+EUTIFRONE: Credo di capire.
+
+SOCRATE: E ciò che è amato non è forse distinto da ciò che ama?
+
+EUTIFRONE: Certamente.
+
+SOCRATE: Bene; e ora dimmi: ciò che è portato si trova in questo stato di essere portato perché è portato, o per qualche altra ragione?
+
+EUTIFRONE: No; è questa la ragione.
+
+SOCRATE: E lo stesso vale per ciò che è condotto e per ciò che è veduto?
+
+EUTIFRONE: È vero.
+
+SOCRATE: E una cosa non è veduta perché è visibile, ma al contrario è visibile perché è veduta; né una cosa è condotta perché si trova [nello stato](/concepts/state) di essere condotta, o portata perché si trova nello stato di essere portata, ma è vero il contrario di ciò. E ora credo, Eutifrone, che il mio pensiero sia intelligibile; e il mio pensiero è che ogni stato di azione o di passione implica un'azione o una passione precedente. Una cosa non diviene perché è in divenire, ma è in stato di divenire perché diviene; né patisce perché è in stato di patire, ma è in stato di patire perché patisce. Non sei d'accordo?
+
+EUTIFRONE: Sì.
+
+SOCRATE: Ciò che è amato non si trova forse in qualche stato, o di divenire o di patire?
+
+EUTIFRONE: Sì.
+
+SOCRATE: E vale lo stesso che nei casi precedenti; lo stato di essere amato segue l'atto dell'essere amato, e non l'atto lo stato.
+
+EUTIFRONE: Certamente.
+
+SOCRATE: E che cosa dici della pietà, Eutifrone: la pietà, secondo la tua definizione, non è amata da tutti gli dèi?
+
+EUTIFRONE: Sì.
+
+SOCRATE: Perché è pia o santa, o per qualche altra ragione?
+
+EUTIFRONE: No, è questa la ragione.
+
+SOCRATE: È amata perché è santa, non santa perché è amata?
+
+EUTIFRONE: Sì.
+
+SOCRATE: E ciò che è caro agli dèi è amato da essi, e si trova in stato di essere amato da essi perché è amato da essi?
+
+EUTIFRONE: Certamente.
+
+SOCRATE: Allora ciò che è caro agli dèi, Eutifrone, non è santo, né ciò che è santo è amato da Dio, come tu affermi; ma sono due cose differenti.
+
+EUTIFRONE: Che intendi, Socrate?
+
+SOCRATE: Intendo dire che abbiamo riconosciuto che il santo è amato da Dio perché è santo, non che è santo perché è amato.
+
+EUTIFRONE: Sì.
+
+SOCRATE: Ma ciò che è caro agli dèi è loro caro perché è da essi amato, non amato da essi perché è loro caro.
+
+EUTIFRONE: È vero.
+
+SOCRATE: Ma, amico Eutifrone, se ciò che è santo è la stessa cosa di ciò che è caro a Dio, ed è amato perché è santo, allora ciò che è caro a Dio sarebbe amato in quanto caro a Dio; ma se ciò che è caro a Dio gli è caro perché da lui amato, allora ciò che è santo sarebbe santo perché da lui amato. Ora però vedi che è vero il contrario, e che le due cose sono del tutto differenti l'una dall'altra. Poiché l'una (theophiles) è tale da essere amata perché è amata, e l'altra (osion) è amata perché è tale da essere amata. Così mi sembra, Eutifrone, che quando ti chiedo che cosa sia l'essenza della santità, tu mi offra soltanto un attributo, e non l'essenza — l'attributo di essere amata da tutti gli dèi. Ma continui a rifiutarti di spiegarmi la natura della santità. E perciò, se ti piace, ti chiederò di non nascondere il tuo tesoro, ma di dirmi ancora una volta che cosa sia veramente la santità, ossia la pietà, sia essa cara agli dèi o no (poiché è cosa su cui non litigheremo); e che cosa sia l'empietà.
+
+EUTIFRONE: Davvero non so, Socrate, come esprimere ciò che intendo. Poiché in un modo o nell'altro i nostri ragionamenti, su qualunque fondamento li poggiamo, sembrano girarsi e allontanarsi da noi.
 
 <span class="atom-split" data-atom="004" data-title="Parte 4" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
@@ -438,6 +726,136 @@ SOCRATES: And of the many and fair things done by the gods, which is the chief o
 
 EUTHYPHRO: I have told you already, Socrates, that to learn all these things accurately will be very tiresome. Let me simply say that piety or holiness is learning how to please the gods in word and deed, by prayers and sacrifices. Such piety is the salvation of families and states, just as the impious, which is unpleasing to the gods, is their ruin and destruction.
 
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Le tue parole, Eutifrone, sono come l'opera del mio antenato Dedalo; e se fossi io a pronunciarle o a proporle, potresti dire che i miei ragionamenti se ne vanno e non restano fissi dove sono posti perché sono un suo discendente. Ma ora, poiché queste idee sono tue, devi trovare qualche altra beffa, ché esse di certo, come tu stesso ammetti, mostrano un'inclinazione a mettersi in movimento.
+
+EUTIFRONE: No, Socrate, continuerò a dire che sei tu il Dedalo che mette in movimento i ragionamenti; non io, certamente, ma sei tu a farli muovere o girare in tondo, poiché, per quanto dipende da me, non si sarebbero mai mossi.
+
+SOCRATE: Allora devo essere più grande di Dedalo: giacché egli faceva muovere soltanto le proprie invenzioni, mentre io muovo anche quelle altrui. E il [bello](/concepts/beauty) della cosa è che preferirei non farlo. Poiché darei la saggezza di Dedalo e la ricchezza di Tantalo per poterli trattenere e tenerli fissi. Ma basta con ciò. Poiché vedo che sei pigro, mi sforzerò io stesso di mostrarti come potresti istruirmi sulla natura della pietà; e spero che non lesinerai la tua [fatica](/concepts/labour). Dimmi, dunque — ciò che è pio non è necessariamente giusto?
+
+EUTIFRONE: Sì.
+
+SOCRATE: E allora tutto ciò che è giusto è pio? oppure ciò che è pio è tutto giusto, ma ciò che è giusto è pio solo in parte e non tutto?
+
+EUTIFRONE: Non ti capisco, Socrate.
+
+SOCRATE: Eppure so che sei tanto più saggio di me quanto sei più giovane. Ma, come dicevo, venerato amico, l'abbondanza della tua saggezza ti rende pigro. Ti prego di fare uno sforzo, ché non c'è vera difficoltà nel comprendermi. Ciò che intendo posso spiegarlo con un esempio di ciò che non intendo. Il poeta (Stasino) canta —
+
+‘Di Zeus, autore e creatore di tutte queste cose, non vorrai parlare: poiché dove è timore, ivi è anche reverenza.’
+
+Ora io dissento da questo poeta. Vuoi che ti dica in che cosa?
+
+EUTIFRONE: Certamente.
+
+SOCRATE: Non direi che dove è timore ivi è anche reverenza; poiché sono certo che molte persone temono la povertà e la malattia, e simili mali, ma non vedo che riveriscano gli oggetti del loro timore.
+
+EUTIFRONE: Verissimo.
+
+SOCRATE: Ma dove è reverenza, ivi è timore; poiché chi prova un sentimento di reverenza e di vergogna nel compiere una qualche azione, teme ed ha paura di una cattiva reputazione.
+
+EUTIFRONE: Senza dubbio.
+
+SOCRATE: Sbagliamo dunque a dire che dove è timore ivi è anche reverenza; e dovremmo dire: dove è reverenza ivi è anche timore. Ma non sempre vi è reverenza dove vi è timore; poiché il timore è una nozione più estesa, e la reverenza è una parte del timore, così come il dispari è una parte del numero, e il numero è una nozione più estesa del dispari. Suppongo che ora tu mi segua?
+
+EUTIFRONE: Benissimo.
+
+SOCRATE: Era questo il genere di questione che intendevo sollevare quando chiedevo se il giusto sia sempre pio, o il pio sempre giusto; e se non possa esservi giustizia dove non vi è pietà; poiché la giustizia è la nozione più estesa di cui la pietà è soltanto una parte. Dissenti?
+
+EUTIFRONE: No, penso che tu abbia perfettamente ragione.
+
+SOCRATE: Allora, se la pietà è una parte della giustizia, suppongo che dovremmo indagare quale parte. Se tu avessi proseguito l'indagine nei casi precedenti; per esempio, se mi avessi chiesto che cos'è un numero pari, e quale parte del numero sia il pari, non avrei avuto difficoltà a rispondere: un numero che rappresenta una figura avente due lati uguali. Non sei d'accordo?
+
+EUTIFRONE: Sì, sono pienamente d'accordo.
+
+SOCRATE: Allo stesso modo, voglio che tu mi dica quale parte della giustizia sia la pietà, ossia la santità, affinché io possa dire a Meleto di non farmi ingiustizia, né di accusarmi di empietà, essendo ormai adeguatamente istruito da te sulla natura della pietà, ossia della santità, e dei loro contrari.
+
+EUTIFRONE: La pietà, ossia la santità, Socrate, mi pare essere quella parte della giustizia che si prende cura degli dèi, come vi è l'altra parte della giustizia che si prende cura degli uomini.
+
+SOCRATE: Va bene, Eutifrone; tuttavia resta un piccolo punto sul quale vorrei avere ulteriori chiarimenti. Qual è il significato di ‘cura’? Poiché la cura difficilmente può essere usata nel medesimo senso quando è applicata agli dèi e quando è applicata alle altre cose. Per esempio, si dice che i cavalli richiedono cura, e non ogni persona è in grado di prendersene cura, ma solo chi è esperto nell'arte equestre. Non è così?
+
+EUTIFRONE: Certamente.
+
+SOCRATE: Suppongo che l'arte equestre sia l'arte di prendersi cura dei cavalli?
+
+EUTIFRONE: Sì.
+
+SOCRATE: E non ognuno è idoneo a prendersi cura dei cani, ma solo il cacciatore?
+
+EUTIFRONE: È vero.
+
+SOCRATE: E riterrei anche che l'arte del cacciatore sia l'arte di prendersi cura dei cani?
+
+EUTIFRONE: Sì.
+
+SOCRATE: Come l'arte del bovaro è l'arte di prendersi cura dei buoi?
+
+EUTIFRONE: Verissimo.
+
+SOCRATE: Allo stesso modo la santità, ossia la pietà, è l'arte di prendersi cura degli dèi? — sarebbe questo il tuo pensiero, Eutifrone?
+
+EUTIFRONE: Sì.
+
+SOCRATE: E la cura non è forse sempre volta al bene o al vantaggio di ciò a cui è rivolta? Come nel caso dei cavalli, puoi osservare che, curati dall'arte equestre, ne traggono beneficio e migliorano, non è vero?
+
+EUTIFRONE: È vero.
+
+SOCRATE: Come i cani traggono beneficio dall'arte del cacciatore, e i buoi dall'arte del bovaro, e tutte le altre cose sono accudite o curate per il loro bene e non per il loro danno?
+
+EUTIFRONE: Certamente, non per il loro danno.
+
+SOCRATE: Ma per il loro bene?
+
+EUTIFRONE: Naturalmente.
+
+SOCRATE: E la pietà, ossia la santità, che è stata definita l'arte di prendersi cura degli dèi, li avvantaggia o li migliora? Diresti che, quando compi un atto santo, rendi migliore qualcuno degli dèi?
+
+EUTIFRONE: No, no; non era certo questo che intendevo.
+
+SOCRATE: E io, Eutifrone, non ho mai supposto che lo intendessi. Ti ho posto la domanda sulla natura della cura proprio perché pensavo che non lo intendessi.
+
+EUTIFRONE: Mi rendi giustizia, Socrate; non è quel genere di cura che intendo.
+
+SOCRATE: Bene: ma devo ancora chiedere che cosa sia questa cura degli dèi che si chiama pietà.
+
+EUTIFRONE: È tale, Socrate, quale i servi mostrano ai loro padroni.
+
+SOCRATE: Capisco — una sorta di servizio reso agli dèi.
+
+EUTIFRONE: Esattamente.
+
+SOCRATE: Anche la medicina è una sorta di servizio, ossia di prestazione, avente di mira il raggiungimento di qualche fine — non diresti della salute?
+
+EUTIFRONE: Lo direi.
+
+SOCRATE: Ancora, vi è un'arte che serve al costruttore di navi in vista del raggiungimento di qualche risultato?
+
+EUTIFRONE: Sì, Socrate, in vista della costruzione di una nave.
+
+SOCRATE: Come vi è un'arte che serve al costruttore di case in vista della costruzione di una casa?
+
+EUTIFRONE: Sì.
+
+SOCRATE: E ora dimmi, mio buon amico, riguardo all'arte che serve agli dèi: quale opera essa aiuta a compiere? Poiché di certo devi saperlo, se, come dici, sei fra tutti gli uomini viventi il più istruito nelle cose della religione.
+
+EUTIFRONE: E dico il vero, Socrate.
+
+SOCRATE: Dimmi allora, oh dimmi — qual è quella bella opera che gli dèi compiono con l'aiuto dei nostri servigi?
+
+EUTIFRONE: Molte e belle, Socrate, sono le opere che essi compiono.
+
+SOCRATE: Ebbene, amico mio, tali sono anche quelle di un generale. Ma la principale di esse è facile a dirsi. Non diresti che la vittoria in guerra è la principale?
+
+EUTIFRONE: Certamente.
+
+SOCRATE: Molte e belle, anche, sono le opere del contadino, se non erro; ma la sua opera principale è la produzione del cibo dalla terra?
+
+EUTIFRONE: Esattamente.
+
+SOCRATE: E fra le molte e belle cose compiute dagli dèi, qual è la principale, ossia la più importante?
+
+EUTIFRONE: Ti ho già detto, Socrate, che apprendere accuratamente tutte queste cose sarebbe assai faticoso. Lasciami semplicemente dire che la pietà, ossia la santità, consiste nell'imparare come compiacere gli dèi con le parole e con le opere, mediante preghiere e sacrifici. Tale pietà è la salvezza delle famiglie e degli Stati, così come l'empio, che è sgradito agli dèi, è la loro rovina e distruzione.
+
 <span class="atom-split" data-atom="005" data-title="Parte 5" data-chapter="" data-kind="atom" data-srclang="en"></span>
 
 [SOCRATES](/figures/socrates): I think that you could have answered in much fewer words the chief question which I asked, Euthyphro, if you had chosen. But I see plainly that you are not disposed to instruct me — clearly not: else why, when we reached the point, did you turn aside? Had you only answered me I should have truly learned of you by this time the nature of piety. Now, as the asker of a question is necessarily dependent on the answerer, whither he leads I must follow; and can only ask again, what is the pious, and what is piety? Do you mean that they are a sort of science of praying and sacrificing?
@@ -501,3 +919,67 @@ SOCRATES: Then we must begin again and ask, What is piety? That is an enquiry wh
 EUTHYPHRO: Another time, Socrates; for I am in a hurry, and must go now.
 
 SOCRATES: Alas! my companion, and will you leave me in despair? I was hoping that you would instruct me in the nature of piety and impiety; and then I might have cleared myself of Meletus and his indictment. I would have told him that I had been enlightened by Euthyphro, and had given up rash innovations and speculations, in which I indulged only through ignorance, and that now I am about to lead a better life.
+
+<span class="qlang-split" data-lang="it"></span>
+
+[SOCRATE](/figures/socrates): Penso che avresti potuto rispondere con molte meno parole alla principale domanda che ti ho posto, Eutifrone, se solo l'avessi voluto. Ma vedo chiaramente che non sei disposto a istruirmi — chiaramente no: altrimenti perché, giunti al punto, ti sei scansato? Se solo mi avessi risposto, avrei ormai appreso davvero da te la natura della pietà. Ora, poiché chi pone una domanda dipende necessariamente da chi risponde, dovunque egli conduca io devo seguirlo; e non posso che chiedere di nuovo: che cos'è il pio, e che cos'è la pietà? Intendi che siano una sorta di scienza del pregare e del sacrificare?
+
+EUTIFRONE: Sì, lo intendo.
+
+SOCRATE: E sacrificare è dare agli dèi, e pregare è chiedere agli dèi?
+
+EUTIFRONE: Sì, Socrate.
+
+SOCRATE: Secondo questa visione, dunque, la pietà è una scienza del chiedere e del dare?
+
+EUTIFRONE: Mi comprendi a meraviglia, Socrate.
+
+SOCRATE: Sì, amico mio; la ragione è che sono un devoto della tua scienza, e vi applico la mente, e perciò nulla di ciò che dici andrà perduto per me. Ti prego dunque di dirmi: qual è la natura di questo servizio agli dèi? Intendi che rivolgiamo loro richieste e offriamo loro doni?
+
+EUTIFRONE: Sì, lo intendo.
+
+SOCRATE: Il retto modo di chiedere non è forse chieder loro ciò di cui abbiamo bisogno?
+
+EUTIFRONE: Certamente.
+
+SOCRATE: E il retto modo di dare è dar loro in cambio ciò che essi vogliono da noi. Non avrebbe senso un'arte che dà a qualcuno ciò di cui egli non ha bisogno.
+
+EUTIFRONE: Verissimo, Socrate.
+
+SOCRATE: Allora la pietà, Eutifrone, è un'arte che dèi e uomini hanno di trattare affari gli uni con gli altri?
+
+EUTIFRONE: È un'espressione che puoi usare, se ti piace.
+
+SOCRATE: Ma io non ho particolare predilezione per nient'altro che la verità. Vorrei tuttavia che mi dicessi quale beneficio derivi agli dèi dai nostri doni. Non c'è dubbio su ciò che essi danno a noi; poiché non v'è cosa buona che non ci diano; ma come noi possiamo dare loro in cambio qualcosa di buono è tutt'altro che ugualmente chiaro. Se essi danno tutto e noi non diamo nulla, dev'essere un affare in cui abbiamo di gran lunga il vantaggio su di loro.
+
+EUTIFRONE: E immagini forse, Socrate, che agli dèi derivi qualche beneficio dai nostri doni?
+
+SOCRATE: Ma se no, Eutifrone, che senso hanno i doni che noi conferiamo agli dèi?
+
+EUTIFRONE: Che altro, se non tributi d'onore; e, come dicevo poc'anzi, ciò che li compiace?
+
+SOCRATE: La pietà, dunque, è gradita agli dèi, ma non giova loro né è loro cara?
+
+EUTIFRONE: Direi che nulla potrebbe esser loro più caro.
+
+SOCRATE: Allora ancora una volta si ripete l'affermazione che la pietà è cara agli dèi?
+
+EUTIFRONE: Certamente.
+
+SOCRATE: E dicendo questo, puoi meravigliarti che le tue parole non restino ferme, ma se ne vadano? Mi accuserai di essere il Dedalo che le fa andar via, senza avvederti che c'è un altro e assai più grande artista di Dedalo che le fa girare in tondo, e sei tu stesso; poiché il ragionamento, come ti accorgerai, ritorna al medesimo punto. Non dicevamo forse che il santo, ossia il pio, non era la stessa cosa di ciò che è amato dagli dèi? Hai dimenticato?
+
+EUTIFRONE: Ricordo bene.
+
+SOCRATE: E non stai dicendo che ciò che è amato dagli dèi è santo; e non è questo lo stesso che ciò che è loro caro — vedi?
+
+EUTIFRONE: È vero.
+
+SOCRATE: Allora o eravamo in errore nella precedente affermazione; oppure, se allora eravamo nel giusto, siamo in errore ora.
+
+EUTIFRONE: Una delle due dev'essere vera.
+
+SOCRATE: Allora dobbiamo ricominciare da capo e chiedere: che cos'è la pietà? È un'indagine che non mi stancherò mai di perseguire per quanto è in mio potere; e ti supplico di non disprezzarmi, ma di applicare la mente al massimo, e di dirmi la verità. Poiché, se qualcuno lo sa, quello sei tu; e perciò devo trattenerti, come Proteo, finché non parli. Se non avessi conosciuto con certezza la natura della pietà e dell'empietà, sono convinto che non avresti mai, in difesa di un servo, accusato di omicidio il tuo vecchio padre. Non avresti corso un tale rischio di agire male al cospetto degli dèi, e avresti avuto troppo riguardo per l'opinione degli uomini. Sono certo, dunque, che tu conosci la natura della pietà e dell'empietà. Parla dunque, mio caro Eutifrone, e non nascondere il tuo sapere.
+
+EUTIFRONE: Un'altra volta, Socrate; poiché ho fretta, e ora devo andare.
+
+SOCRATE: Ahimè! compagno mio, e mi lascerai nella disperazione? Speravo che mi istruissi sulla natura della pietà e dell'empietà; e allora avrei potuto scagionarmi da Meleto e dalla sua accusa. Gli avrei detto di essere stato illuminato da Eutifrone, e di aver rinunciato alle avventate innovazioni e speculazioni, nelle quali indulgevo solo per ignoranza, e che ora sto per condurre una vita migliore.
