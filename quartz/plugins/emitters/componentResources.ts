@@ -19,7 +19,7 @@ import braniTableScript from "../../components/scripts/braniTable.inline"
 // @ts-ignore
 import relatedWorksScript from "../../components/scripts/relatedWorks.inline"
 // @ts-ignore
-import searchLoadingScript from "../../components/scripts/searchLoading.inline"
+import searchDepthScript from "../../components/scripts/searchDepth.inline"
 // @ts-ignore
 import atomRouterScript from "../../components/scripts/atomRouter.inline"
 // @ts-ignore
@@ -123,9 +123,10 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
     radialWheelScript,
     braniTableScript,
     relatedWorksScript,
-    // Spinner on the top-bar search button until the (large) contentIndex has
-    // loaded + FlexSearch is built (see searchLoading.inline.ts).
-    searchLoadingScript,
+    // Multi-tier progressive-load search with depth slider (FlexSearch + MiniSearch,
+    // 4-tier progressive shards). Replaces the community search plugin.
+    // See searchDepth.inline.ts and searchDepth.ts.
+    searchDepthScript,
     // Reading-page SPA: partitions a work page's atom-split sections and shows one
     // atom at a time with a TOC, prev/next and EN/IT toggle (see atomRouter.inline.ts).
     atomRouterScript,

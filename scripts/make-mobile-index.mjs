@@ -1,42 +1,58 @@
-// Post-build: derive a LIGHT search index for mobile from the full contentIndex.json.
-// Mobile browsers OOM parsing the full ~27MB index; this keeps title/tags/links + a
-// short content snippet so the on-device FlexSearch build stays small. Desktop keeps
-// the full index (loaded via fetchData); only mobile fetches contentIndexMobile.json.
-// Run AFTER `npx quartz build`, before uploading the Pages artifact.
+// Post-build: derive a LIGHT search index for mobile from the MASTER full ranked
+// index (data/search-full-index.json, built by compress-search-index.mjs). Mobile
+// browsers OOM parsing the full ~27MB desktop index; this projects the master down
+// to a small byte budget via the same size-targeted binary search desktop uses, so
+// both indexes derive from ONE TF-IDF pass instead of recomputing it twice.
+// Desktop keeps its own projection (loaded via fetchData); only mobile fetches
+// contentIndexMobile.json.
+// MUST run AFTER compress-search-index.mjs (which builds the master) — fails
+// loudly if the master is missing rather than silently skipping.
 import fs from "fs"
 import path from "path"
+import { projectToTarget } from "./compress-search-index.mjs"
 
-const dir = "public/static"
-const full = path.join(dir, "contentIndex.json")
-const outPath = path.join(dir, "contentIndexMobile.json")
-const SNIPPET = 80 // chars of content kept per entry
+const masterPath = path.join("data", "search-full-index.json")
+// QUARTZ_OUT lets the whole post-build chain target a directory other than public/.
+// Needed on Windows, where Dropbox or the indexer can hold a handle on public/ that
+// makes Quartz's initial wipe fail with EBUSY — building elsewhere sidesteps the lock
+// instead of retrying against it. CI sets nothing and keeps public/.
+const OUT = process.env.QUARTZ_OUT || "public"
+const outPath = path.join(OUT, "static", "contentIndexMobile.json")
+const MOBILE_TARGET = 8_000_000 // bytes; mobile contentIndexMobile.json budget
 const LINK_CAP = 20 // keep up to N links/entry so the GRAPH still works on mobile
-                    // (works have ~10 links; only huge aggregator hubs get trimmed)
+// (works have ~10 links; only huge aggregator hubs get trimmed)
+const FIELDS = ["slug", "title", "tags", "links"]
 
-if (!fs.existsSync(full)) {
-  console.error(`make-mobile-index: ${full} not found — skipping`)
-  process.exit(0)
+if (!fs.existsSync(masterPath)) {
+  console.error(
+    `make-mobile-index: master ${masterPath} not found — compress-search-index.mjs must run first (fatal)`,
+  )
+  process.exit(1)
 }
-const raw = JSON.parse(fs.readFileSync(full, "utf8"))
-// contentIndex.json top level is a map slug -> item (defensive: unwrap {content:{...}})
-const map = raw && raw.content && typeof raw.content === "object" && !raw.content.slug ? raw.content : raw
-const out = {}
-for (const [slug, it] of Object.entries(map)) {
-  if (!it || typeof it !== "object") continue
-  // Keep links (capped) so the graph works on mobile too; drop filePath (unused).
-  // Aggregator notes carry huge links[] (every work) — cap trims those hubs only.
-  out[slug] = {
-    slug: it.slug,
-    title: it.title,
-    tags: it.tags,
-    links: Array.isArray(it.links) ? it.links.slice(0, LINK_CAP) : [],
-    content: typeof it.content === "string" ? it.content.slice(0, SNIPPET) : "",
-  }
+
+const master = JSON.parse(fs.readFileSync(masterPath, "utf8"))
+
+// Cap links BEFORE projecting so the binary search sizes against the actual bytes
+// that end up on disk (capping after projection would let the chosen term count
+// undershoot the target once the trimmed links shrink the final payload).
+// Mobile index is works-only. Per-atom search entries (keys `workSlug#atomId`)
+// are a DESKTOP searchbar enhancement: they carry no `terms`, so the byte-budget
+// projection has no field to trim on them — 19k atom entries would pin the mobile
+// index at its per-entry floor (~12.8MB) regardless of target. Dropping them
+// restores mobile to its natural works-only size (~7.5MB, under budget). Desktop
+// (contentIndex.json) keeps the full per-leaf index.
+const capped = {}
+for (const [slug, d] of Object.entries(master)) {
+  if (slug.includes("#")) continue
+  capped[slug] = { ...d, links: Array.isArray(d.links) ? d.links.slice(0, LINK_CAP) : [] }
 }
-const json = JSON.stringify(out)
+
+const projected = projectToTarget(capped, MOBILE_TARGET, FIELDS)
+const json = JSON.stringify(projected)
 fs.writeFileSync(outPath, json)
-const fullSize = fs.statSync(full).size
+
+const masterSize = fs.statSync(masterPath).size
 console.log(
-  `make-mobile-index: ${Object.keys(out).length} entries | ` +
-    `${(fullSize / 1e6).toFixed(1)}MB -> ${(json.length / 1e6).toFixed(1)}MB (mobile)`,
+  `make-mobile-index: ${Object.keys(projected).length} entries | ` +
+    `master ${(masterSize / 1e6).toFixed(1)}MB -> ${(json.length / 1e6).toFixed(1)}MB (mobile)`,
 )

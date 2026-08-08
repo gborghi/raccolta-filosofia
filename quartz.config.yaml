@@ -182,7 +182,7 @@ plugins:
       position: right
       priority: 10
   - source: github:quartz-community/search
-    enabled: true
+    enabled: false  # replaced by searchDepth.inline.ts (multi-tier progressive-load)
     layout:
       position: left
       priority: 20

@@ -1246,3 +1246,50 @@ body.reading-page {
   }
   body.explorer-open::after { content: ""; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.28); z-index: 29; }
 }
+
+/* ---- Multi-tier search (searchDepth.inline.ts) ------------------------------ */
+.sd-button {
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  font: inherit; cursor: pointer;
+  border: 1px solid var(--lightgray); background: var(--light); color: var(--dark);
+  border-radius: 7px; padding: 0.35rem 0.7rem;
+}
+.sd-button:hover { border-color: var(--secondary); color: var(--secondary); }
+.sd-button-icon { font-size: 0.95rem; line-height: 1; }
+.sd-modal {
+  display: none; position: fixed; inset: 0; z-index: 60;
+  padding: 8vh 1rem 1rem;
+  background: color-mix(in srgb, var(--dark) 32%, transparent);
+  backdrop-filter: blur(2px);
+}
+.sd-modal.active { display: block; }
+.sd-inner {
+  box-sizing: border-box; max-width: 640px; margin: 0 auto;
+  background: var(--light); border: 1px solid var(--lightgray);
+  border-radius: 12px; box-shadow: 0 18px 60px rgba(0,0,0,0.28); padding: 1rem;
+}
+.sd-input {
+  box-sizing: border-box; width: 100%; font: inherit; font-size: 1.05rem;
+  padding: 0.6rem 0.7rem; color: var(--dark); background: var(--light);
+  border: 1px solid var(--lightgray); border-radius: 8px;
+}
+.sd-input:focus { outline: none; border-color: var(--secondary); }
+.sd-slider-wrap { display: flex; align-items: center; gap: 0.6rem; margin: 0.7rem 0.1rem 0.3rem; }
+.sd-slider { flex: 0 0 9rem; accent-color: var(--secondary); cursor: pointer; }
+.sd-slider-label { flex: 1; font-size: 0.78rem; color: var(--darkgray); }
+.sd-spin {
+  display: inline-block; width: 0.85em; height: 0.85em;
+  border: 2px solid var(--lightgray); border-top-color: var(--secondary);
+  border-radius: 50%; animation: sd-spin 0.7s linear infinite;
+}
+.sd-spin[hidden] { display: none; }
+@keyframes sd-spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .sd-spin { animation-duration: 2s; } }
+.sd-results { list-style: none; margin: 0.5rem 0 0; padding: 0; max-height: 55vh; overflow-y: auto; }
+.sd-results:empty { display: none; }
+.sd-hit {
+  display: block; text-decoration: none; color: var(--dark);
+  padding: 0.5rem 0.6rem; border-radius: 7px; border: 1px solid transparent;
+}
+.sd-hit:hover { background: color-mix(in srgb, var(--secondary) 12%, transparent); border-color: var(--lightgray); }
+.sd-hit-title { font-weight: 600; }

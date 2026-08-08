@@ -18,6 +18,7 @@
 import { promises as fs } from "node:fs"
 import { existsSync } from "node:fs"
 import path from "node:path"
+import zlib from "node:zlib"
 import { execFile } from "node:child_process"
 import { fileURLToPath } from "node:url"
 
@@ -270,6 +271,16 @@ function countWords(s) {
     .match(/\S+/g)
   return m ? m.length : 0
 }
+// ---- atom search text: strip markup to plain indexable prose -----------------------
+function plainForSearch(md) {
+  return String(md || "")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\[\[([^\]|]+\|)?([^\]]+)\]\]/g, "$2")
+    .replace(/[#>*_`~]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+}
+
 // ---- superfici del vocabolario dentro il testo di un atomo ------------------------
 // Le regole su cosa regga un rinvio al vocabolario (omonimie, nomi di filosofi,
 // stoplist, soglia sulle superfici generiche) stanno in scripts/link/vocab.py e
@@ -531,6 +542,7 @@ async function main() {
   const workHrefByKey = new Map() // canonical workKey -> { href, title } (for KG-note link rewriting)
   const kwCountsByHref = {} // workHref -> Map<word,count> over the full concatenated atom text
   const atomTokenSets = [] // { key: "<workSlug>#<atomId>", workHref, ids: Set<nodeId> }
+  const atomSearch = {} // fragKey -> { title, work, text }, for multi-tier search shards
   let workPages = 0
 
   for (const [workKey, { philosopher, atoms: allAtoms }] of workAtoms) {
@@ -638,6 +650,15 @@ async function main() {
       if (surfaceRe) {
         const ids = atomTokens(body, linkSurfaces, surfaceRe)
         if (ids.size) atomTokenSets.push({ key: `${workSlug}#${atomId}`, workHref: workSlug, ids })
+
+      // Per-atom search text for multi-tier search shards (data/atom_search.json.gz)
+      const fragKey = `${workSlug}#${atomId}`
+      const searchText = plainForSearch(body)
+      atomSearch[fragKey] = {
+        title: label,
+        work: title,
+        text: searchText.slice(0, 2000),
+      }
       }
 
       // Il corpo fonte resta primo, marcato con la lingua propria dell'atomo
@@ -1117,6 +1138,14 @@ title: "Pagina non trovata"
 <p><a href="/">Torna alla home</a></p></div>
 `
   await fs.writeFile(path.join(CONTENT, "404.md"), notFound)
+
+  // ---- per-atom search data for multi-tier search shards -------------------
+  // Cap each entry text at 2000 chars (same as English) and gzip.
+  for (const k in atomSearch) atomSearch[k].text = String(atomSearch[k].text || "").slice(0, 2000)
+  await fs.writeFile(
+    path.join(DATA_DIR, "atom_search.json.gz"),
+    zlib.gzipSync(Buffer.from(JSON.stringify(atomSearch))),
+  )
 
   console.log(
     `copied ${kgWritten} aggregator notes, ${workPages} work reading-pages; indexed ${works.length} works, ${Object.keys(philCounts).length} philosophers`,
